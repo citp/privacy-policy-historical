@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontzone.net privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628031405id_/http%3A//fontzone.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontzone.net privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227182755id_/http%3A//fontzone.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FontZone.net
 
