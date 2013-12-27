@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nspeaks.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602095257id_/http%3A//nspeaks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nspeaks.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227140038id_/http%3A//nspeaks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
