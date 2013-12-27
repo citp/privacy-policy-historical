@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the getapp.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608023618id_/http%3A//www.getapp.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getapp.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227115829id_/http%3A//www.getapp.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | GetApp
 
-Nubera eBusiness S.L. (“we” or “Nubera eBusiness”), the operator of www.getapp.com and its associated blog at http://www.getapp.com/blog/ (together, the “Sites” and each a “Site”) is committed to protecting the privacy of all the users of the Sites (“you” or “User”). To better protect your privacy, and so that you can understand our privacy practices and decide whether to use our Sites, we provide this Privacy Policy explaining our information practices regarding the use and disclosure of User information collected and processed through our Sites.
+To better protect your privacy, and so that you can understand our privacy practices and decide whether to use our sites, we provide this Privacy Policy explaining our information practices regarding the use and disclosure of user information collected and processed through our sites.
+
+Nubera eBusiness S.L. (“we” or “Nubera eBusiness”), the operator of www.getapp.com and its associated blog at http://www.getapp.com/blog/ (together, the “Sites” and each a “Site”) is committed to protecting the privacy of all the users of the Sites (“you” or “User”). 
 
 By using the Sites, and in particular by providing your personal information on registration, filling a contact form, or submitting a review, you explicitly accept this Privacy Policy and provide full consent to the collection, storage and processing of your personal data by Nubera eBusiness, and to the use and disclosure to certain third parties of your personal data, in accordance with the terms set out in this policy.
 
@@ -141,4 +143,8 @@ Unless a specific local regulation sets forth to the contrary, the Privacy Polic
 
 Contact us
 
-If users experience problems while exercising their online rights or if they have doubts or questions related to Privacy policy they can contact us directly at: Nubera eBusiness S.L., Avenida Diagonal 622, 7/2, Barcelona, Spain. Or through our e-mail: legal@getapp.com indicating the reference matter.
+If users experience problems while exercising their online rights or if they have doubts or questions related to Privacy policy they can contact us directly at: Nubera eBusiness S.L., Avenida Diagonal 622, 3/2, Barcelona, Spain. Or through our e-mail: legal@getapp.com indicating the reference matter.
+
+* * *
+
+ _Last update: 3rd December, 2013_
