@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynamicsuser.net privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628032918id_/http%3A//dynamicsuser.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynamicsuser.net privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227185847id_/http%3A//dynamicsuser.net/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Dynamics User Group
 
