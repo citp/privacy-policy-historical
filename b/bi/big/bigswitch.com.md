@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigswitch.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624234103id_/http%3A//bigswitch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigswitch.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227075801id_/http%3A//www.bigswitch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Big Switch Networks, Inc.
 
