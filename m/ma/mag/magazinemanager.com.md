@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the magazinemanager.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423145127id_/http%3A//www.magazinemanager.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazinemanager.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227180031id_/http%3A//www.magazinemanager.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement | Mirabel Technogies
 
 ### Mirabel Technologies Privacy Statement
 
