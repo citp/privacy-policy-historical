@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the martinfowler.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628053508id_/http%3A//www.thoughtworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the martinfowler.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227071233id_/http%3A//www.thoughtworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ThoughtWorks
 
-**Effective as of 10 May 2013**
+**Effective as of 16 October 2013**
 
 ## A) ThoughtWorks' commitment to privacy
 
@@ -95,6 +95,10 @@ If you would like to opt-out of Google Analytics for display advertising you may
 
 There is also a Google Analytics opt-out browser add on that you can download at <https://tools.google.com/dlpage/gaoptout/>.
 
+### AdRoll
+
+As you browse ThoughtWorks.com, advertising cookies will be placed on your computer so that we can understand what you are interested in. One of our display advertising partners, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with ThoughtWorks.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can visit this page - <http://www.networkadvertising.org/choices/> \- to opt out of AdRoll and their partners’ targeted advertising. 
+
 ### Third party cookies
 
 The use of cookies by our partners, tracking utility company, or service providers (if any) is not covered by our privacy policy. For example, when we include content from other sites (e.g., Google Analytics, Marketo, etc.) these sites may also set their own cookies and we do not have access or control over these cookies. We suggest you go to the relevant third party’s website to find out more information about their cookie use. Google Analytics - <http://www.google.com/policies/privacy/> or Marketo (Marketo munckin cookie is utilized on our site) - <http://eu.marketo.com/trust/privacy.php>. 
@@ -160,8 +164,6 @@ Attention: Privacy Officer
 Email: [privacyofficer@thoughtworks.com](mailto:privacyofficer@thoughtworks.com "Mail to ThoughtWorks Privacy Officer")
 
 ThoughtWorks participates in the U.S. – E.U. Safe Harbor framework as set forth by the United States Department of Commerce. As part of our [participation](http://export.gov/safeharbor/ "External link to Safe Harbor page") in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](http://watchdog.truste.com/pvr.php?page=complaint "External link to TRUSTe Complaint page"), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about-TRUSTe/contact-us "External link to TRUSTe mailing address"). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [here](http://www.truste.com/products-and-services/dispute-resolution-services/ "External link to TRUSTe dispute resolution services") or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities. 
-
-[](http://www.export.gov/safeharbor "SafeHarbor")
 
 [](https://privacy.truste.com/privacy-seal/ThoughtWorks,-Inc-/validation?rid=1c317047-03ab-4316-8af0-1033a418bc23 "TRUSTe European Safe Harbor certification")
 
