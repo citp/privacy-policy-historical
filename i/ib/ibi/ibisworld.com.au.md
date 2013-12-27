@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibisworld.com.au privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529080507id_/http%3A//www.ibisworld.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibisworld.com.au privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227141458id_/http%3A//www.ibisworld.com.au/about/privacy) for the most accurate reproduction.*
 
 # IBISWorld Privacy Policy
 
