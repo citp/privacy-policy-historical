@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the madmaxgame.com privacy policy that was archived on 2013-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629070520id_/http%3A//www.warnerbros.com/privacy/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the madmaxgame.com privacy policy that was archived on 2013-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131227060518id_/http%3A//www.warnerbros.com/privacy/policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <!-- Google Website Optimizer Control Script -->
@@ -13,7 +13,7 @@
     +'/siteopt.js?v=1&utmxkey='+k+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='
     +new Date().valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
     '" type="text/javascript" charset="utf-8"></sc'+'ript>')})();
-    </script><script src="https://ssl.google-analytics.com/siteopt.js?v=1&amp;utmxkey=2833221967&amp;utmx=&amp;utmxx=&amp;utmxtime=1580494036612" type="text/javascript" charset="utf-8"></script>
+    </script><script src="https://ssl.google-analytics.com/siteopt.js?v=1&amp;utmxkey=2833221967&amp;utmx=&amp;utmxx=&amp;utmxtime=1580494039713" type="text/javascript" charset="utf-8"></script>
     <!-- End of Google Website Optimizer Control Script -->
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     
@@ -30,19 +30,18 @@
     <link href="/css/ext-all.css" type="text/css" rel="stylesheet">
     <link href="/css/xtheme-gray.css" type="text/css" rel="stylesheet">
     <link href="/css/global.css" type="text/css" rel="stylesheet">
-    <link href="/css/privacy.css?1372097192" media="screen" rel="stylesheet" type="text/css">
+    <link href="/css/privacy.css?1386185749" media="screen" rel="stylesheet" type="text/css">
     
     <link rel="stylesheet" media="all and (max-device-width: 480px)" href="/css/global-iphone.css"> 
     <link rel="stylesheet" media="all and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)" href="/css/global-ipad-portrait.css"> 
     <link rel="stylesheet" media="all and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape)" href="/css/global-ipad-landscape.css"> 
-    <link rel="stylesheet" media="all and (min-device-width: 1025px)" href="/css/global-ipad-landscape.css"> 
-
+    
     <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
     
     <!-- Default CSS -->
     <!-- IE -->
     <!--[if IE]>
-        <link href="/css/global-ie.css?1372097096" media="screen" rel="stylesheet" type="text/css" />
+        <link href="/css/global-ie.css?1386185748" media="screen" rel="stylesheet" type="text/css" />
         <link href="/css/privacy-ie.css" media="screen" rel="stylesheet" type="text/css" />
         <script src="/js/lib/excanvas.js?1365816484" type="text/javascript"></script>
     <![endif]-->
@@ -60,8 +59,8 @@
     <script>var SM2_DEFER = true;</script>
     <script src="/js/lib/adapter/ext/ext-base.js?1365816533" type="text/javascript"></script>
     <script src="/js/lib/ext-all.js?1365816533" type="text/javascript"></script>
-    <script src="/js/global.js?1372097271" type="text/javascript"></script>
-    <script src="/js/privacy.js?1372097273" type="text/javascript"></script>
+    <script src="/js/global.js?1386185755" type="text/javascript"></script>
+    <script src="/js/privacy.js?1386185755" type="text/javascript"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js" type="text/javascript"></script>
     <script src="http://www.kaltura.com/p/357521/sp/35752100/embedIframeJs/uiconf_id/2858382/partner_id/357521" type="text/javascript"></script>
       <link href="/css/privacyprint.css" type="text/css" rel="stylesheet" media="print">
@@ -73,14 +72,33 @@
       //Ready callback for Kaltura player
       function jsCallbackReady() {
           try {
-              document.getElementById("trailerTakeoverKaltura").addJsListener("playerPlayEnd", "trailerTakeoverComplete");
-              document.getElementById("videoPlayerSwf").addJsListener("playerPlayEnd", "changeMedia");
+            var eventMap = {
+                "trailerTakeoverKaltura": {
+                    "playerPlayEnd": "trailerTakeoverComplete"
+                },
+                "videoPlayerSwf": {
+                    "playerPlayEnd": "changeMedia"
+                },
+                "trackPlayerKaltura": {
+                    "playerPlayEnd": "trackPlayerComplete"
+                }
+            };
+            
+            var el;
+            for (id in eventMap) {
+                el = document.getElementById(id);
+                if (el && el.addJsListener) {
+                    for (event in eventMap[id]) {
+                        el.addJsListener(event, eventMap[id][event])
+                    }
+                }
+            }
           } catch(e) {}
       }
     </script>
     
     <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="NtysLJNs6MLl+75mljclzZp2yCE3M/9bUnCUpQNVGYw=">
+<meta name="csrf-token" content="zsGg98koN139QIUyCMVZio9wrJzFlCbr1mHKjW0AuCw=">
 
     <!-- Google Analytics -->
 <script type="text/javascript">
@@ -98,7 +116,7 @@
 </script>
     
 </head>
-<body>
+<body class="privacy">
 
 <!-- Trailer Takeover -->
 <div id="trailerTakeover">
@@ -141,105 +159,118 @@
       <div id="mainmenubar">
           <ul class="btns">
               <li id="studioBtn" class="menuItem">
-                  <a class="MenuLink mainLink   " href="/studio/about/company-overview.html">THE STUDIO</a>
+                  <a data-omniture="Nav - Studio" class="MenuLink mainLink   " href="/studio/about/company-overview.html">THE STUDIO</a>
                   <ul class="submenu">
                       <li>
-                          <a class="MenuLink" href="/studio/about/company-overview.html">About the Studio</a>
+                          <a data-omniture="Nav - Studio - About" class="MenuLink" href="/studio/about/company-overview.html">About the Studio</a>
                       </li>
                       <li>
-                          <a class="MenuLink" href="/studio/divisions/warner-bros-entertainment-inc.html">Divisions</a>
+                          <a data-omniture="Nav - Studio - Divisions" class="MenuLink" href="/studio/divisions/warner-bros-entertainment-inc.html">Divisions</a>
                       </li>
                       <li>
-                          <a class="MenuLink" href="/studio/executives/barry-meyer.html">WB Executives</a>
+                          <a data-omniture="Nav - Studio - Execs" class="MenuLink" href="/studio/executives/barry-meyer.html">WB Executives</a>
                       </li>
                       <li>
-                          <a class="MenuLink" href="/studio/news/news-room.html">News</a>
+                          <a data-omniture="Nav - Studio - News" class="MenuLink" href="/studio/news/news-room.html">News</a>
                       </li>
                       <li>
-                          <a class="MenuLink" href="/studio/services.html">Services</a>
+                          <a data-omniture="Nav - Studio - Services" class="MenuLink" href="/studio/services.html">Services</a>
                       </li>
                   </ul>
               </li>
               <li id="moviesBtn" class="menuItem">
                   <div class="separator"></div>
-                  <a class="MenuLink mainLink  " href="/movies/in-theaters-coming-soon.html">MOVIES</a>
+                  <a data-omniture="Nav - Movies" class="MenuLink mainLink  " href="/movies/in-theaters-coming-soon.html">MOVIES</a>
                   <ul class="submenu">
                       <li>
-                          <a class="MenuLink" href="/movies/in-theaters-coming-soon.html">In Theaters / Coming Soon</a>
+                          <a data-omniture="Nav - Movies - In Theaters" class="MenuLink" href="/movies/in-theaters-coming-soon.html">In Theaters / Coming Soon</a>
                       </li>
                       <li>
-                          <a class="MenuLink" href="/movies/home-entertainment.html">Home Entertainment</a>
+                          <a data-omniture="Nav - Movies - Home Entertainment" class="MenuLink" href="/movies/home-entertainment.html">Home Entertainment</a>
                       </li>
                       <li>
-                          <a class="MenuLink" href="/movies/warner-archive.html">Warner Archive</a>
+                          <a data-omniture="Nav - Movies - Warner Archive" class="MenuLink" href="/movies/warner-archive.html">Warner Archive</a>
                       </li>
                   </ul>
               </li>
               <li id="tvBtn" class="menuItem">
                   <div class="separator"></div>
-                  <a class="MenuLink mainLink   " href="/tv/on-air.html">TELEVISION</a>
+                  <a data-omniture="Nav - TV" class="MenuLink mainLink   " href="/tv/on-air.html">TELEVISION</a>
                   <ul class="submenu">
                       <li>
-                          <a class="MenuLink" href="/tv/on-air.html">On Air</a>
+                          <a data-omniture="Nav - TV - On Air" class="MenuLink" href="/tv/on-air.html">On Air</a>
                       </li>
                       <li>
-                          <a class="MenuLink" href="/tv/home-entertainment.html">Home Entertainment</a>
+                          <a data-omniture="Nav - TV - Home Entertainment" class="MenuLink" href="/tv/home-entertainment.html">Home Entertainment</a>
                       </li>
                       <li>
-                          <a class="MenuLink" href="/tv/warner-archive.html">Warner Archive</a>
+                          <a data-omniture="Nav - TV - Warner Archive" class="MenuLink" href="/tv/warner-archive.html">Warner Archive</a>
                       </li>
                   </ul>
               </li>
               <li id="videogamesBtn" class="menuItem">
                   <div class="separator"></div>
-                  <a class="MenuLink mainLink  " href="/videogames/now-available.html">VIDEOGAMES</a>
+                  <a data-omniture="Nav - Videogames" class="MenuLink mainLink  " href="/videogames/now-available.html">VIDEOGAMES</a>
                   <ul class="submenu">
                       <li>
-                          <a class="MenuLink" href="/videogames/now-available.html">Featured</a>
+                          <a data-omniture="Nav - Videogames - Now Available" class="MenuLink" href="/videogames/now-available.html">Videogames</a>
+                      </li>
+                      <li>
+                          <a data-omniture="Nav - Videogames - Mobile Games" class="MenuLink" href="/videogames/mobile-games.html">Mobile Games</a>
                       </li>
                   </ul>
               </li>
               <li id="musicBtn" class="menuItem altlast">
                   <div class="separator"></div>
-                  <a class="MenuLink mainLink  " target="_blank" href="http://www.watertower-music.com/">MUSIC</a>
+                  <a data-omniture="Nav - Music" class="MenuLink mainLink  " target="_blank" href="http://www.watertower-music.com/">MUSIC</a>
+                  <!--<a class="MenuLink mainLink  " href="/music/soundtracks-scores.html">MUSIC</a>
+                  <ul class="submenu">
+                      <li>
+                          <a class="MenuLink" href="/music/soundtracks-scores.html">Soundtracks &amp; Scores</a>
+                      </li>
+                  </ul>-->
               </li>
               <li id="wbpresents90Btn" class="menuItem">
                   <div class="separator"></div>
-                  <a class="MenuLink mainLink  " href="/wbpresents90/index.html">WB PRESENTS</a>
+                  <a data-omniture="Nav - WB Presents" class="MenuLink mainLink  " href="/wbpresents90/index.html">WB PRESENTS</a>
                   <ul class="submenu">
                       <li>
-                          <a class="MenuLink" href="/wbpresents90/best100.html">100 Films</a>
+                          <a data-omniture="Nav - WB Presents - 100 Films" class="MenuLink" href="/wbpresents90/best100.html">100 Films</a>
                       </li>
                       <li>
-                          <a class="MenuLink" href="/wbpresents90/best50.html">50 Films</a>
+                          <a data-omniture="Nav - WB Presents - 50 Films" class="MenuLink" href="/wbpresents90/best50.html">50 Films</a>
                       </li>
                       <li>
-                          <a class="MenuLink" href="/wbpresents90/bestpictures.html">Best Pictures</a>
+                          <a data-omniture="Nav - WB Presents - Best Pictures" class="MenuLink" href="/wbpresents90/bestpictures.html">Best Pictures</a>
                       </li>
                       <li>
-                          <a class="MenuLink" href="/wbpresents90/bestmusicals.html">Musicals</a>
+                          <a data-omniture="Nav - WB Presents - Musicals" class="MenuLink" href="/wbpresents90/bestmusicals.html">Musicals</a>
                       </li>
                       <li>
-                          <a class="MenuLink" href="/wbpresents90/bestromance.html">Romance</a>
+                          <a data-omniture="Nav - WB Presents - Romance" class="MenuLink" href="/wbpresents90/bestromance.html">Romance</a>
                       </li>
                       <li>
-                          <a class="MenuLink" href="/wbpresents90/bestcomedy.html">Comedy</a>
+                          <a data-omniture="Nav - WB Presents - Comedy" class="MenuLink" href="/wbpresents90/bestcomedy.html">Comedy</a>
                       </li>
                       <li>
-                          <a class="MenuLink" href="/wbpresents90/moviemadness.html">Movie Madness 2013</a>
+                          <a data-omniture="Nav - WB Presents - Thrillers" class="MenuLink" href="/wbpresents90/bestthrillers.html">Thrillers</a>
                       </li>
                   </ul>
               </li>
+              <!--<li id="wbhauntsBtn" class="menuItem">
+                  <div class="separator"></div>
+                  <a class="MenuLink mainLink  " href="/wbhaunts/index.html"></a>
+              </li>-->
               <li id="shopBtn" class="menuItem last">
                   <div class="separator"></div>
-                  <a class="MenuLink mainLink" target="_blank" href="http://www.wbshop.com/home.do?adid=wbportalnav">WB SHOP</a>
+                  <a data-omniture="Nav - WB Shop" class="MenuLink mainLink" target="_blank" href="http://www.wbshop.com/home.do?adid=wbportalnav">WB SHOP</a>
               </li>
               <li id="shopBtn_blue"><a class="MenuLink" target="_blank" href="http://www.wbshop.com/home.do?adid=wbportalnav"></a></li>
           </ul>
       </div>
       <div id="submenubar">
           <div id="submenucontent">
-                  <h1 class="default">THOUSANDS OF TITLES - MOVIES, TV SHOWS, VIDEOGAMES AND MUSIC</h1>
+                  <h1 class="default">Discover thousands of Warner Bros. titles - Movies, TV Shows, Videogames and Music</h1>
           </div>
       </div>
   </div>
@@ -371,57 +402,54 @@
                 <p>OTHER WB SITES</p>
                 <ul class="linkColumn">
                     <li>
-                        <a class="FooterLink" href="http://www.wbshop.com/home.do?adid=wbportalfooter" target="_blank">WB Shop</a>
+                        <a data-omniture="Footer - WB Shop" class="FooterLink" href="http://www.wbshop.com/home.do?adid=wbportalfooter" target="_blank">WB Shop</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www.warnerbroscareers.com/?frompage=wbp_bottomnav" target="_blank">Careers</a>
+                        <a data-omniture="Footer - Careers" class="FooterLink" href="http://www.warnerbroscareers.com/?frompage=wbp_bottomnav" target="_blank">Careers</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www2.warnerbros.com/web/all/link/partner.jsp?url=http://www.dccomics.com/&amp;frompage=wbp_bottomnav" target="_blank">DC Comics</a>
+                        <a data-omniture="Footer - DC Comics" class="FooterLink" href="http://www2.warnerbros.com/web/all/link/partner.jsp?url=http://www.dccomics.com/&amp;frompage=wbp_bottomnav" target="_blank">DC Comics</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www.dvd2blu.com/?frompage=wbp_bottomnav" target="_blank">DVD2Blu</a>
+                        <a data-omniture="Footer - DVD2Blu" class="FooterLink" href="http://www.dvd2blu.com/?frompage=wbp_bottomnav" target="_blank">DVD2Blu</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://harrypotter.warnerbros.com/?frompage=wbp_bottomnav" target="_blank">Harry Potter</a>
+                        <a data-omniture="Footer - Harry Potter" class="FooterLink" href="http://harrypotter.warnerbros.com/?frompage=wbp_bottomnav" target="_blank">Harry Potter</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www.kidswb.com/?frompage=wbp_bottomnav" target="_blank">KidsWB</a>
+                        <a data-omniture="Footer - KidsWB" class="FooterLink" href="http://www.kidswb.com/?frompage=wbp_bottomnav" target="_blank">KidsWB</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www.motionpictureimaging.com/?frompage=wbp_bottomnav" target="_blank">MPI</a>
+                        <a data-omniture="Footer - MPI" class="FooterLink" href="http://www.motionpictureimaging.com/?frompage=wbp_bottomnav" target="_blank">MPI</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="https://www.outmywindow.com" target="_blank">out<b>my</b>window</a>
-                    </li>
-                    <li>
-                        <a class="FooterLink" href="http://www2.warnerbros.com/wbsf/?frompage=wbp_bottomnav" target="_blank">Studio Facilities</a>
+                        <a data-omniture="Footer - Studio Facilities" class="FooterLink" href="http://www2.warnerbros.com/wbsf/?frompage=wbp_bottomnav" target="_blank">Studio Facilities</a>
                     </li>
                 </ul>
                 <ul class="headerColumn">
                     <li>
-                        <a class="FooterLink" href="http://www.cwtv.com/?frompage=wbp_homepagebottomnav" target="_blank">The CW</a>
+                        <a data-omniture="Footer - The CW" class="FooterLink" href="http://www.cwtv.com/?frompage=wbp_homepagebottomnav" target="_blank">The CW</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www.thewb.com/?adid=wbpbottomnav" target="_blank">The WB</a>
+                        <a data-omniture="Footer - The WB" class="FooterLink" href="http://www.thewb.com/?adid=wbpbottomnav" target="_blank">The WB</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www2.warnerbros.com/vipstudiotour/?frompage=wbp_bottomnav" target="_blank">VIP Studio Tours</a>
+                        <a data-omniture="Footer - VIP Studio Tours" class="FooterLink" href="http://www2.warnerbros.com/vipstudiotour/?frompage=wbp_bottomnav" target="_blank">VIP Studio Tours</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://instant.warnerarchive.com/?adid=wbpbottomnav" target="_blank">Warner Archive Instant</a>
+                        <a data-omniture="Footer - Warner Archive Instant" class="FooterLink" href="http://instant.warnerarchive.com/?adid=wbpbottomnav" target="_blank">Warner Archive Instant</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www.wbcitizenship.com/?frompage=wbp_bottomnav" target="_blank">WB Citizenship</a>
+                        <a data-omniture="Footer - WB Citizenship" class="FooterLink" href="http://www.wbcitizenship.com/?frompage=wbp_bottomnav" target="_blank">WB Citizenship</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://wbphotolab.warnerbros.com/?frompage=wbp_bottomnav" target="_blank">WB Photo Lab</a>
+                        <a data-omniture="Footer - WB Photo Lab" class="FooterLink" href="http://wbphotolab.warnerbros.com/?frompage=wbp_bottomnav" target="_blank">WB Photo Lab</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://wbpostproduction.warnerbros.com/?frompage=wbp_bottomnav" target="_blank">WB Post Production</a>
+                        <a data-omniture="Footer - WB Post Production" class="FooterLink" href="http://wbpostproduction.warnerbros.com/?frompage=wbp_bottomnav" target="_blank">WB Post Production</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www.wbspecialevents.com/?frompage=wbp_bottomnav" target="_blank">WB Special Events</a>
+                        <a data-omniture="Footer - WB Special Events" class="FooterLink" href="http://www.wbspecialevents.com/?frompage=wbp_bottomnav" target="_blank">WB Special Events</a>
                     </li>
                 </ul>
             </li>
@@ -429,57 +457,57 @@
                 <p>INTERNATIONAL SITES</p>
                 <ul class="linkColumn">
                     <li>
-                        <a class="FooterLink" href="http://www.warnerbros.com.au/?frompage=wbp_bottomnav" target="_blank">Australia</a>
+                        <a data-omniture="Footer - International - Australia" class="FooterLink" href="http://www.warnerbros.com.au/?frompage=wbp_bottomnav" target="_blank">Australia</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www.be.warnerbros.com/?frompage=wbp_bottomnav" target="_blank">Belgium</a>
+                        <a data-omniture="Footer - International - Belgium" class="FooterLink" href="http://www.be.warnerbros.com/?frompage=wbp_bottomnav" target="_blank">Belgium</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www.br.warnerbros.com/" target="_blank">Brazil</a>
+                        <a data-omniture="Footer - International - Brazil" class="FooterLink" href="http://www.br.warnerbros.com/" target="_blank">Brazil</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www.warnerbroscanada.com/?frompage=wbp_bottomnav" target="_blank">Canada</a>
+                        <a data-omniture="Footer - International - Canada" class="FooterLink" href="http://www.warnerbroscanada.com/?frompage=wbp_bottomnav" target="_blank">Canada</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://wwws.ww.warnerbros.com/portal_dk/?frompage=wbp_bottomnav" target="_blank">Denmark</a>
+                        <a data-omniture="Footer - International - Denmark" class="FooterLink" href="http://wwws.ww.warnerbros.com/portal_dk/?frompage=wbp_bottomnav" target="_blank">Denmark</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://wwws.ww.warnerbros.com/portal_fi/?frompage=wbp_bottomnav" target="_blank">Finland</a>
+                        <a data-omniture="Footer - International - Finland" class="FooterLink" href="http://wwws.ww.warnerbros.com/portal_fi/?frompage=wbp_bottomnav" target="_blank">Finland</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www.warnerbros.fr/" target="_blank">France </a>
+                        <a data-omniture="Footer - International - France" class="FooterLink" href="http://www.warnerbros.fr/" target="_blank">France</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://wwws.ww.warnerbros.com/portal_de/#?fromwbp_bottomnav" target="_blank">Germany</a>
+                        <a data-omniture="Footer - International - Germany" class="FooterLink" href="http://wwws.ww.warnerbros.com/portal_de/#?fromwbp_bottomnav" target="_blank">Germany</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www.it.warnerbros.com/?frompage=wbp_bottomnav" target="_blank">Italy</a>
+                        <a data-omniture="Footer - International - Italy" class="FooterLink" href="http://www.it.warnerbros.com/?frompage=wbp_bottomnav" target="_blank">Italy</a>
                     </li>
                 </ul>
                 <ul class="linkColumn">
                     <li>
-                        <a class="FooterLink" href="http://www.warnerbros.co.jp/main/homepage/homepage.html?frompage=wbp_bottomnav" target="_blank">Japan</a>
+                        <a data-omniture="Footer - International - Japan" class="FooterLink" href="http://www.warnerbros.co.jp/main/homepage/homepage.html?frompage=wbp_bottomnav" target="_blank">Japan</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www.la.warnerbros.com/web/main/homepage/homepage.jsp?frompage=wbp_bottomnav" target="_blank">Latin America</a>
+                        <a data-omniture="Footer - International - Latin America" class="FooterLink" href="http://www.la.warnerbros.com/web/main/homepage/homepage.jsp?frompage=wbp_bottomnav" target="_blank">Latin America</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www.nl.warnerbros.com/main/homepage/homepage.html?frompage=wbp_bottomnav" target="_blank">Netherlands</a>
+                        <a data-omniture="Footer - International - Netherlands" class="FooterLink" href="http://www.nl.warnerbros.com/main/homepage/homepage.html?frompage=wbp_bottomnav" target="_blank">Netherlands</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://wwws.ww.warnerbros.com/portal_no/?frompage=wbp_bottomnav" target="_blank">Norway</a>
+                        <a data-omniture="Footer - International - Norway" class="FooterLink" href="http://wwws.ww.warnerbros.com/portal_no/?frompage=wbp_bottomnav" target="_blank">Norway</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www.pt.warnerbros.com/web/main/homepage/homepage.jsp?frompage=wbp_bottomnav" target="_blank">Portugal</a>
+                        <a data-omniture="Footer - International - Portugal" class="FooterLink" href="http://www.pt.warnerbros.com/web/main/homepage/homepage.jsp?frompage=wbp_bottomnav" target="_blank">Portugal</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://wwws.ww.warnerbros.com/portal_es/#?frompage=wbp_bottomnav" target="_blank">Spain</a>
+                        <a data-omniture="Footer - International - Spain" class="FooterLink" href="http://wwws.ww.warnerbros.com/portal_es/#?frompage=wbp_bottomnav" target="_blank">Spain</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://wwws.ww.warnerbros.com/portal_se/?frompage=wbp_bottomnav" target="_blank">Sweden</a>
+                        <a data-omniture="Footer - International - Sweden" class="FooterLink" href="http://wwws.ww.warnerbros.com/portal_se/?frompage=wbp_bottomnav" target="_blank">Sweden</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://wwws.ww.warnerbros.com/portal_uk/?frompage=wbp_bottomnav" target="_blank">U.K.</a>
+                        <a data-omniture="Footer - International - UK" class="FooterLink" href="http://www.warnerbros.co.uk" target="_blank">U.K.</a>
                     </li>
                 </ul>
             </li>
@@ -487,22 +515,22 @@
                 <p>SOCIAL NETWORKS</p>
                 <ul class="linkColumnWide">
                     <li>
-                        <a class="FooterLink" href="http://www.facebook.com/warnerbrosent?frompage=wbp_bottomnav" target="_blank">Facebook: WB Entertainment</a>
+                        <a data-omniture="Footer - Social - Facebook: WB Entertainment" class="FooterLink" href="http://www.facebook.com/warnerbrosent?frompage=wbp_bottomnav" target="_blank">Facebook: WB Entertainment</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www.facebook.com/warnerarchive?frompage=wbp_bottomnav" target="_blank">Facebook: Warner Archive</a>
+                        <a data-omniture="Footer - Social - Facebook: Warner Archive" class="FooterLink" href="http://www.facebook.com/warnerarchive?frompage=wbp_bottomnav" target="_blank">Facebook: Warner Archive</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://pinterest.com/warnerbrosent?frompage=wbp_bottomnav" target="_blank">Pinterest: WB Entertainment</a>
+                        <a data-omniture="Footer - Social - Pinterest" class="FooterLink" href="http://pinterest.com/warnerbrosent?frompage=wbp_bottomnav" target="_blank">Pinterest: WB Entertainment</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://twitter.com/Warnerbrosent?frompage=wbp_bottomnav" target="_blank">Twitter: WB Entertainment</a>
+                        <a data-omniture="Footer - Social - Twitter: WB Entertainment" class="FooterLink" href="http://twitter.com/Warnerbrosent?frompage=wbp_bottomnav" target="_blank">Twitter: WB Entertainment</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://twitter.com/warnerbrostours?frompage=wbp_bottomnav" target="_blank">Twitter: Studio Tours</a>
+                        <a data-omniture="Footer - Social - Twitter: Studio Tours" class="FooterLink" href="http://twitter.com/warnerbrostours?frompage=wbp_bottomnav" target="_blank">Twitter: Studio Tours</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="http://www.youtube.com/user/WarnerBrosOnline?frompage=wbp_bottomnav" target="_blank">YouTube: WB Entertainment</a>
+                        <a data-omniture="Footer - Social - YouTube" class="FooterLink" href="http://www.youtube.com/user/WarnerBrosOnline?frompage=wbp_bottomnav" target="_blank">YouTube: WB Entertainment</a>
                     </li>
                 </ul>
             </li>
@@ -510,13 +538,13 @@
                 <p>PRIVACY CENTER</p>
                 <ul class="linkColumn">
                     <li>
-                        <a class="FooterLink" href="/privacy/policy.html">Privacy Policy</a>
+                        <a data-omniture="Footer - Privacy Policy" class="FooterLink" href="/privacy/policy.html">Privacy Policy</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="/privacy/terms.html">Terms of Use</a>
+                        <a data-omniture="Footer - Terms of Use" class="FooterLink" href="/privacy/terms.html">Terms of Use</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="/privacy/policy.html#p5">Ad Choices</a>
+                        <a data-omniture="Footer - Ad Choices" class="FooterLink" href="/privacy/policy.html#p5">Ad Choices</a>
                     </li>
                 </ul>
             </li>
@@ -524,19 +552,19 @@
                 <p>HELP</p>
                 <ul class="linkColumn">
                     <li>
-                        <a class="FooterLink" href="/help/customer-service.html">Customer Service</a>
+                        <a data-omniture="Footer - Customer Service" class="FooterLink" href="/help/customer-service.html">Customer Service</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="/help/system-requirements.html">Minimum Requirements</a>
+                        <a data-omniture="Footer - Minimum Requirements" class="FooterLink" href="/help/system-requirements.html">Minimum Requirements</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="/help/faq.html">FAQs</a>
+                        <a data-omniture="Footer - FAQs" class="FooterLink" href="/help/faq.html">FAQs</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="/sitemap.html">Site Map</a>
+                        <a data-omniture="Footer - Site Map" class="FooterLink" href="/sitemap.html">Site Map</a>
                     </li>
                     <li>
-                        <a class="FooterLink" href="https://www.surveymonkey.com/s.aspx?sm=6z3FcbVzRe9G3g9cpRPk9w_3d_3d" target="_blank">Tell Us What You Think</a>
+                        <a data-omniture="Footer - Survey" class="FooterLink" href="https://www.surveymonkey.com/s.aspx?sm=6z3FcbVzRe9G3g9cpRPk9w_3d_3d" target="_blank">Tell Us What You Think</a>
                     </li>
                 </ul>
             </li>
@@ -561,10 +589,11 @@ gwoTracker._trackPageview("/2833221967/test");
 }catch(err){}</script>
 <!-- End of Google Website Optimizer Tracking Script -->
 
+
 <!-- SiteCatalyst code version: H.20.3.
 Copyright 1997-2009 Adobe, Inc. More info available at
 http://www.Adobe.com -->
-<script src="/js/lib/omniture/s_code_wbcom.js?1365816533" type="text/javascript"></script>
+<script src="/js/lib/omniture/s_code_wbcom.js?1386185755" type="text/javascript"></script>
 <script language="JavaScript" type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
@@ -574,8 +603,10 @@ s.channel=""
 s.pageType=""
 s.prop1="WBPortal.us"
 s.prop2=""
-s.prop3="Privacy"
-s.prop4="Policy"
+// Section
+s.prop3="Privacy Policy"
+// Sub Section
+s.prop4="Privacy Policy"
 s.prop5=""
 s.trackDownloadLinks=true
 s.trackExternalLinks=true
@@ -610,7 +641,9 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
     <a href="/tv/on-air.html">Television - On Air</a>
     <a href="/tv/home-entertainment.html">Television - Home Entertainment</a>
     <a href="/tv/warner-archive.html">Television - Warner Archive</a>
-    <a href="/videogames/now-available.html">Videogames - Featured</a>
+    <a href="/videogames/now-available.html">Videogames - Now Available</a>
+    <a href="/videogames/mobile-games.html">Videogames - Mobile Games</a>
+    <a href="/music/soundtracks-scores.html">Music - Soundtracks &amp; Scores</a>
 </noscript>
 
 
