@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the enterprisecarshare.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627132122id_/http%3A//www.enterprisecarshare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enterprisecarshare.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227020303id_/http%3A//www.enterprisecarshare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Effective Date: 02/22/2013
 
 At Enterprise Holdings, Inc. through our subsidiaries operating under the Enterprise Rent-A-Car, Car Sales, RideShare, VanPool, Commercial Truck, and Car Sharing brands, and at Enterprise Fleet Management, Inc ("Enterprise"), we respect the privacy of our customers. We have implemented this privacy policy to explain to you how we use and protect personal information we may gather from you by means of this Web site and our Mobile sites ("Privacy Policy"). By using our Web site or Mobile site, you consent to the collection, use and disclosure of your information, as described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use our Web site or Mobile sites.
 
