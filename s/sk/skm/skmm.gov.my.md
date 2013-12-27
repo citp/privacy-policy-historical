@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the skmm.gov.my privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622131741id_/http%3A//skmm.gov.my/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skmm.gov.my privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227204508id_/http%3A//skmm.gov.my/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Malaysian Communications And Multimedia Commission (MCMC) | Suruhanjaya Komunikasi dan Multimedia Malaysia (SKMM) - Privacy Policy
 
 ## Privacy Policy
-
-##  Privacy Policy
 
 This page explains our privacy policies which include the use and protection of information submitted by visitors. If you make a transaction or send an e-mail containing personal information, this information may be shared with other public agencies to serve you in a more efficient and effective manner. For example, in resolving a complaint that requires feedback from other agencies.
 
