@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adcouncil.org privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513042337id_/http%3A//adcouncil.org/About-Us/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adcouncil.org privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227233542id_/http%3A//adcouncil.org/About-Us/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy / About Us / Ad Council - AdCouncil
 
 **This Privacy Policy was last modified and is effective as of July 25, 2008  **  
 **AD COUNCIL PRIVACY POLICY**  
