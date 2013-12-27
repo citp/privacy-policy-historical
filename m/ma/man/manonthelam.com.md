@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manonthelam.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604212907id_/http%3A//manonthelam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manonthelam.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227173014id_/http%3A//manonthelam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,6 +30,8 @@ The contents of this privacy policy statement may be altered at any time, at our
 
 If you have any questions regarding the privacy policy of [Man On The Lam Travel Blog](http://manonthelam.com/) then you may contact the publisher  at **[contact@manonthelam.com](mailto:contact@manonthelam.com)** or via the **[Man On The Lam Contact Page](http://manonthelam.com/contact)**.
 
-I’m a [travel blogger](http://www.manonthelam.com/) and freelance travel writer. I left behind my cubicle-shaped cell to see the world. Now I inspire others to “shake the shackles and escape through travel.” This is my blog.
+I am a travel blogger and freelance travel writer. I left behind my cubicle-shaped cell to see the world. Now I inspire others to shake the shackles and escape through travel. This is my blog.
+
+If you like this article, please consider sharing it. Thanks!
 
 [](http://www.facebook.com/manonthelam) [](http://www.twitter.com/manonthelam1) [](http://plus.google.com/110130790179701034405/) [](http://www.youtube.com/user/manonthelam) 
