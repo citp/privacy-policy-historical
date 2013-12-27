@@ -1,8 +1,368 @@
-> *The following text is extracted and transformed from the appspy.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627075310id_/http%3A//www.steelmedia.co.uk/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appspy.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227210444id_/http%3A//www.steelmedia.co.uk/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Steel Media
+# Buy Lexapro Online Safely | Privacy Policy | Steel Media
 
-This Steel Media website (the “Website“) and any information obtained through all Steel Media Websites or from other sources is stored on servers operated and maintained by or on behalf of Steel Media Limited (“Steel Media“, “we” or “us“).
+discount lexapro
+
+discount lexapro card
+
+discount lexapro coupons
+
+discount lexapro no prescription
+
+discount lexapro online
+
+get discount lexapro
+
+buy discount lexapro
+
+prescription discount lexapro
+
+lexapro discount program
+
+lexapro price
+
+lexapro price per pill
+
+lexapro price comparison
+
+lexapro price generic
+
+average cost generic lexapro
+
+generic lexapro price drop
+
+cheap lexapro online
+
+cheap lexapro alternative
+
+cheap lexapro no prescription
+
+cheap lexapro canada
+
+cheap lexapro online no prescription
+
+cheap lexapro generic
+
+cheap lexapro 20 mg
+
+buy cheap lexapro online
+
+online lexapro no prescription
+
+purchase lexapro online
+
+generic lexapro online
+
+order lexapro online
+
+order lexapro online no prescription
+
+buy generic lexapro online
+
+buy generic lexapro cheap
+
+generic lexapro issues
+
+best price generic lexapro
+
+cheap generic lexapro online
+
+cheapest generic lexapro
+
+buy lexapro online no prescription
+
+buy lexapro from canada
+
+buy lexapro 10mg
+
+buy lexapro no prescription
+
+buy lexapro in mexico
+
+buy lexapro uk
+
+order lexapro online canada
+
+can order lexapro online
+
+order generic lexapro online
+
+lexapro cheaper alternative
+
+buy lexapro online no prescription canada
+
+generic lexapro online no prescription
+
+buy lexapro online canada
+
+buy lexapro online mastercard
+
+buy lexapro online prescription
+
+buy lexapro online safely
+
+where can i buy lexapro online
+
+lexapro online pharmacy no prescription
+
+best online pharmacy lexapro
+
+canadian online pharmacy lexapro
+
+order lexapro
+
+order lexapro no prescription
+
+order lexapro canada
+
+order lexapro line
+
+mail order lexapro
+
+can order lexapro
+
+get prescription lexapro online
+
+lexapro mail order canada
+
+can you buy lexapro online
+
+can i buy lexapro online
+
+safe buy lexapro online
+
+buy brand lexapro online
+
+lexapro buy online
+
+can i buy lexapro in mexico
+
+purchase lexapro
+
+purchase lexapro generic
+
+purchase lexapro 20 mg
+
+purchase lexapro 10 mg
+
+purchase lexapro canada
+
+buy generic lexapro
+
+lexapro sale
+
+lexapro sales 2010
+
+lexapro sale online
+
+generic lexapro sale
+
+lexapro annual sales
+
+lexapro 10 mg sale
+
+lexapro us sales
+
+lexapro price drop
+
+lexapro price increase
+
+cost lexapro per pill
+
+lexapro withdrawal
+
+lexapro weight gain
+
+lexapro website
+
+lexapro every other day
+
+lexapro experiences
+
+lexapro epocrates
+
+lexapro rxlist
+
+lexapro tablets
+
+lexapro tablets 10mg
+
+lexapro tablets 20mg
+
+lexapro tablets 5mg
+
+lexapro tablets scored
+
+lexapro tablets to buy
+
+lexapro tramadol
+
+lexapro online canada
+
+lexapro online coupons
+
+lexapro online prescription
+
+lexapro online india
+
+lexapro online prices
+
+lexapro online no rx
+
+lexapro official site
+
+lexapro ocd
+
+lexapro over the counter
+
+lexapro or prozac
+
+lexapro patent
+
+lexapro pill
+
+lexapro pill size
+
+lexapro savings card
+
+lexapro generic
+
+lexapro generic cost
+
+lexapro japan
+
+lexapro kids
+
+lexapro label
+
+lexapro zoloft
+
+lexapro xr
+
+lexapro coupon
+
+lexapro copay card
+
+lexapro canada
+
+lexapro vs paxil
+
+lexapro vs generic
+
+lexapro news
+
+lexapro 10mg
+
+lexapro 20 mg cost
+
+lexapro 30 mg
+
+lexapro 40 mg daily
+
+lexapro 50 mg
+
+lexapro 70 mg
+
+lexapro 90 day cost
+
+lexapro mg
+
+lexapro 10
+
+buy lexapro
+
+lexapro 10 mg
+
+online lexapro
+
+lexapro cheap
+
+buy cheap lexapro
+
+price of lexapro
+
+cost of lexapro
+
+lexapro cost
+
+lexapro 20
+
+where to buy lexapro
+
+price for lexapro
+
+20 mg lexapro
+
+20 mg of lexapro
+
+lexapro 5 mg
+
+buying lexapro online
+
+lexapro 15 mg
+
+40 mg lexapro
+
+lexapro 2.5 mg
+
+online pharmacy lexapro
+
+lexapro best price
+
+buy lexapro canada
+
+cost of lexapro without insurance
+
+lexapro cost without insurance
+
+lexapro 10 mg price
+
+lexapro 10mg price
+
+lexapro 10 mg cost
+
+cost of lexapro 10 mg
+
+escitalopram oxalate
+
+escitalopram 10mg
+
+escitalopram 20mg
+
+escitalopram tablets
+
+escitalopram price
+
+escitalopram 5mg
+
+cost of escitalopram
+
+escitalopram cost
+
+escitalopram prices
+
+escitalopram clonazepam
+
+buy escitalopram
+
+escitalopram oxalate tablets
+
+purchase escitalopram
+
+escitalopram online
+
+escitalopram oxalate 10mg
+
+escitalopram 30 mg
+
+escitalopram 30mg
+
+escitalopram canada
+
+order escitalopram
+
+This Steel Media website (the �Website�) and any information obtained through all Steel Media Websites or from other sources is stored on servers operated and maintained by or on behalf of Steel Media Limited (�Steel Media�, �we� or �us�).
 
 **How we use your information**  
 This Privacy Policy tells you what to expect when Steel Media collects personal information. It applies to information we collect about:
@@ -15,7 +375,7 @@ This Privacy Policy tells you what to expect when Steel Media collects personal 
 
 
 **Visitors to our websites**  
-When someone visits any of Steel Media’s websites we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone. We do not make any attempt to find out the identities of those visiting any of our websites. We will not associate any data gathered from this site with any personally identifying information from any source. If we do want to collect personally identifiable information through our website, we will be up front about this. We will make it clear when we collect personal information and will explain what we intend to do with it. (eg. when you register or log in to our websites)
+When someone visits any of Steel Media�s websites we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone. We do not make any attempt to find out the identities of those visiting any of our websites. We will not associate any data gathered from this site with any personally identifying information from any source. If we do want to collect personally identifiable information through our website, we will be up front about this. We will make it clear when we collect personal information and will explain what we intend to do with it. (eg. when you register or log in to our websites)
 
 **Use of cookies by Steel Media**  
 Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
@@ -48,7 +408,7 @@ Steel Media is committed to protecting your privacy and we take our responsibili
 
 The purpose of this Privacy Policy is to inform you, as a visitor of Steel Media websites, what kinds of information we may gather about you when you visit the Website, how we may use that information, whether we disclose it to anyone, the choices you have regarding our use of that information and how you can correct that information. If you have any concerns, questions or comments about this Privacy Policy or Steel Media Websites you can contact us at privacy@steelmedia.co.uk.
 
-**Steel Media’s Use of Information**  
+**Steel Media�s Use of Information**  
 In order to make use of certain services provided through the Website such as commenting, the forums, email newsletters, competitions and polls, you will need to register a profile with us. When you do so, you will provide us with information about yourself and you will be able to select how we use your information for marketing purposes. You can update your marketing preferences at any time by following the instructions to amend your details in the profile registration section. We will only use your information in accordance with your instructions and as set out in this Privacy Policy.
 
 If you ask us to provide goods or services to you, we will use your information to provide those goods or services to you and to monitor our provision of those goods or services. We may also share your information with associated companies for marketing purposes. We or associated companies may contact you by mail, telephone, email or by other electronic means with offers of goods and services or information that may be of interest to you. By providing us with your email address you consent to being contacted by these methods for these purposes. If you do not want to receive marketing information from us or associated companies you can notify us of this as part of the registration process.
