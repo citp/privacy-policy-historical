@@ -1,22 +1,98 @@
-> *The following text is extracted and transformed from the bookland.com privacy policy that was archived on 2012-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120829165459id_/http%3A//www.bookland.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookland.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227084936id_/http%3A//bookland.com/eng/help/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy / Bookland
 
-### Privacy Policy
+The Privacy Statement Regarding Customer and Online User Information applies to Obreey Content Management SA ("we" or "our"). This privacy statement also does not apply to the websites of our business partners or to any other third parties, even if their websites are linked to our website. We recommend you review the privacy statements of the other parties with whom you interact. This privacy statement governs personal information we collect from our customers and online from our website users ("you"), through Obreey Content Management SA products, services, software, websites, contacts, or our relationship with you. For the purposes of this privacy statement, "corporate affiliates" means any entity or joint venture that is wholly or partially owned or controlled by Obreey Content Management SA
 
-We know that you care how information about you is used and shared, and your privacy is important to us. We thank you for visiting this web site (the "Web Site") and reviewing our Privacy Policy. This notice describes our privacy policy. **By visiting our website, you are accepting the practices described in this Privacy Notice.** Please note that this Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
+"Business partners" means any subcontractor, vendor or other entity with whom we have an ongoing business relationship to provide products, services, or information.
 
-Collection of Information **Information You Give Us:** We receive and store any information you voluntarily provided us with on our website. We use the information that you provide for such purposes as responding to your requests, providing our services and communicating with you, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
+"Personal information" means information which identifies you, such as your name, telephone number, and email address.
 
-**Automatic Information:**  
-We receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies," other technologies to keep track of the web searches you make while visiting this website, as well as your web surfing behavior on this website and other websites you may visit to enhance your online experience and to learn about how you use The Web Site in order to improve the quality of our services or serve appropriate advertising and we obtain certain types of information when your web browser accesses our sites. Examples of the information we collect and analyze include the Internet Protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locators (URL) click stream to, through, and from our website, including date and time. We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for ggregate use. Personal information is not being collected via cookies, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties. In some cases, we use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+### Information We Collect
 
-Uses Distribution of Information We may use personal information to provide the services you've requested, including services that display customized content and advertising. We do share information but only as described below. Otherwise we will not provide your personal information without your consent. We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. Furthermore we engage other companies and individuals to perform functions on our behalf or provide us with services . Examples include processing credit card payments, providing marketing assistance, providing customer services, sending postal mail and email to you, removing repetitive information from customer lists, and analyzing data. These persons have access to personal information needed to perform their functions. These companies do not retain, share, store or use personally identifiable information that you provide us for any secondary purposes. When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. We may share information with third parties when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. We partner with other parties to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services We may share aggregated non-personal information with third parties outside of The Web Site.
+We may ask you to provide personal information when you
 
-Links The web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
+  * Use our website;
+  * Request quotes, services, support, or information;
+  * Place orders for products or services;
+  * Participate in surveys, sweepstakes, or other promotional activities;
+  * Subscribe to newsletters, promotional emails, or other materials;
+  * Contact us.
 
-Children The Web Site is not directed to children. If you are under 18, you may use our services only with involvement of a parent or guardian.
 
-IndemnificationYou agree to indemnify, defend and hold harmless the Web Site and its members, managers, officers, employees, agents and the assigns of same, from and against any and all loss, costs, expenses (including reasonable attorneys' fees and expenses), claims, damages and liabilities related to or associated with your use of the Web Site and any violation of this Privacy Policy by you.
 
-Conditions of Use, Notices, and Revisions If you choose to visit our web site, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law of United States . If you have any concern about privacy at our web site, please send us a thorough description to information@trafficmedia.com, and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions of use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use, but you should check our website frequently to see recent changes.
+Information we may request includes your email address, name, home address, and telephone number. If you make a purchase, we may ask for your credit card number and billing information. We may also collect demographic information, such as your business or company information, preferences and favorites.
+
+Forms that you may fill in will indicate whether information requested is mandatory or voluntary. We may collect information about your visits to our websites, including the pages you view, the links and ads you click, search terms you enter, and other actions you take in connection with the Obreey Content Management SA websites and services.
+
+We may also collect certain information from the browser you used to come to our website, such as your Internet Protocol (IP) address,browser type and language, access times, the Uniform Resource Locator (URL) of the website that referred you to our website and to which URL you browse away from our site if you click on a link on our site.
+
+In order to offer you a more consistent and personalized experience in your interactions with Obreey Content Management SA, information collected through one source may be combined with information obtained through other Obreey Content Management SA resources.
+
+We may also supplement the information we collect with information obtained from other parties.
+
+Some Obreey Content Management SA services may be co-branded and offered in conjunction with another company. If you register for or use such services, both Obreey Content Management SA and the other company may receive information collected in conjunction with the co-branded services, and may use the information according to each company's privacy statement and other agreements with you.
+
+### How We Use Personal Information
+
+Obreey Content Management SA uses your personal information to:
+
+  * Deliver the services and support, or carry out, the transactions you have requested;
+  * Send communications to you, such as product safety information, your transactions status (for example, order confirmations), information about products and services available from Obreey Content Management SA and its corporate affiliates, promotional offers, and surveys;
+  * Customize, analyze, and improve our products, services (including the content and advertisements on our website), technologies, communications and relationship with you;
+  * Enforce our conditions of sale, website terms and/or separate contracts (if applicable) with you;
+  * Prevent fraud and other prohibited or illegal activities;
+  * Protect the security or integrity of the website, our business, or our products or services; or
+  * Otherwise, as disclosed to you at the point of collection.
+
+
+
+Personal information collected may be stored and processed in the United States or any other country in which Obreey Content Management SA or its corporate affiliates, subsidiaries or agents maintain facilities, and by using Obreey Content Management SA products and services (including our website), you consent to any such transfer of information outside of your country.
+
+### Disclosing Personal Information
+
+We may share your personal information with corporate affiliates to carry out transactions you request or to make our business or that of our corporate affiliates more responsive to your needs.
+
+We may also disclose your personal information in connection with law enforcement, fraud prevention, or other legal action; as required by law or regulation; or if Obreey Content Management SA reasonably believes it is necessary to protect Obreey Content Management SA, its customers, or the public. In addition, we may share your personal information with business partners that help Obreey Content Management SA carry out transactions you request or that help Obreey Content Management SA to customize, analyze, and/or improve our communication or relationship with you, and then only with business partners who share Obreey Content Management SA's commitment to protecting your personal information. Except as described above, we will not disclose your personal information to third parties for their own marketing purposes unless you have provided consent.
+
+### How You Can Access Your Information
+
+Obreey Content Management SA wants to help you keep your personal information accurate. To view or edit your personal information that has been stored online in your Obreey Content Management SA 'My Account,' please visit the My Account sections of the bookland.com website. For the security of your account, you will be required to sign in with your login ID and password. 
+
+### How We Secure Your Personal Information
+
+Obreey Content Management SA is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure, such as encryption, passwords, physical security, etc. While we strive to protect your personal information, Obreey Content Management SA cannot ensure or warrant that the personal information or private communications you transmit to us will always remain private, and you do so at your own risk. For more information about our security measures, please click here.
+
+If a password is used to help protect your accounts and personal information, it is your responsibility to keep your password confidential.
+
+Do not share this information with anyone. If you are sharing a computer with anyone you should always log out before leaving a site or service to protect access to your information from subsequent users. We will not require you to transmit your SSN on the Internet unless the connection is secure or the SSN is encrypted, or require you to transmit your SSN to access a website without requiring additional authentication.
+
+### Collection and Use of Children's Personal Information
+
+Obreey Content Management SA takes children's privacy seriously. We do not knowingly collect personal information from children under the age of 13 through our websites. If you are under 18 years of age, please do not submit any personal information through our websites without the express consent and participation of a parent or guardian.
+
+### Third-Party Websites and Services
+
+Please be aware that other websites that may be accessed through our website may collect personally identifiable information about you. The information practices of those third-party websites linked to bookland.com are not covered by this privacy statement. Please be aware that, in providing services on Obreey Content Management SA's behalf, our business partners may collect personal information about you.
+
+### Changes to Our Privacy Statement Regarding Customer and Online User Information
+
+We will occasionally update this privacy statement. If we make changes to the Privacy Statement Regarding Customer and Online User Information or make any material changes to how Obreey Content Management SA will use your personal information, we will revise the Privacy Statement to reflect such changes and revise the statement's effective date, included at the end of this section. We encourage you to periodically review this statement to be informed of how Obreey Content Management SA is protecting your personal information. 
+
+### Contacting Us
+
+If you would like to contact us for any reason regarding our privacy practices, please write to us at the following address:
+
+Obreey Content Management SA
+
+Attention: Privacy
+
+Oliaji Trade Centre - 1st floor
+
+Victoria
+
+Republic of Seychelles
+
+You may also email us at privacy@obreey.com.
+
+Privacy Statement Regarding Customer and Online User Information Effective Date: July 1, 2011.
