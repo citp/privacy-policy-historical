@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qfak.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608002959id_/http%3A//www.qfak.com/05images/en/about.asp%3Fzid%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qfak.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227221820id_/http%3A//www.qfak.com/05images/en/%3Fzid%3D12) for the most accurate reproduction.*
 
-# Network Privacy Policy - Qfak.com
+# Network Privacy Policy _ Qfak.com
 
 Qfak.com takes the private nature of your personal information very seriously. This Privacy Policy describes how we treat the information we collect when you visit and use the Network. Please read this notice very carefully before using the Network.
 
