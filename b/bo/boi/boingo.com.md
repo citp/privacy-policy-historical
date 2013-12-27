@@ -1,23 +1,25 @@
-> *The following text is extracted and transformed from the boingo.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425091901id_/http%3A//www.boingo.com/boingo-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boingo.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227015545id_/http%3A//www.boingo.com/boingo-privacy-policy.php) for the most accurate reproduction.*
 
 # Boingo Wireless | Privacy Policy
 
 #### 
 
-Boingo Wireless, Inc. (“Boingo,” “we,” “us,” and “our”) is concerned about the privacy and security of your information. We want to make your experience with the Boingo® service as enjoyable and rewarding as possible, and also allow you to feel secure that your privacy interests are being respected.
+Boingo Wireless, Inc. and its subsidiaries (“Boingo,” “we,” “us,” and “our”) is concerned about the privacy and security of your information. We want to make your experience with the Boingo® service as enjoyable and rewarding as possible, and also allow you to feel secure that your privacy interests are being respected. This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing or using our website or Services. This policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage. By visiting or using the Website or Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways. Any capitalized terms used herein without definition shall have the meaning given to them in Boingo's [Terms of Use](http://www.boingo.com/boingo-legal-notices.php) (which is hereby incorporated into this Privacy Policy).
 
   
 
 
-Boingo collects certain information that is necessary to fully service your Boingo account. As a customer, you will be asked to provide Information that is needed in order to create your Boingo account and fulfill our service commitment to you such as your name, address, phone number, e-mail address and billing information. We treat this personal information that you provide to us as highly confidential. Boingo may use this Information for editorial and feedback purposes, marketing and promotional purposes, for statistical analysis and for product development. Your personal information, however, will never be sold to any company nor will it be shared with third parties, unless specifically stated otherwise or in special circumstances.
+Boingo collects certain information that is necessary to fully service your Boingo account. As a customer, you will be asked to provide Information that is needed in order to create your Boingo account and fulfill our service commitment to you such as your name, address, phone number, e-mail address and billing information. We treat this personal information that you provide to us as highly confidential. Boingo may use this Information for editorial and feedback purposes, marketing and promotional purposes, for statistical analysis and for product development. Your personal information, however, will not be sold to any company nor will it be shared with third parties, unless stated otherwise or in special circumstances.
 
-Like any business interested in attracting and offering the highest quality of service to customers, Boingo gathers voluntary demographic information about our customers. These questions seek to gain insight on such things as how an individual became aware of our service, their gender, occupation and travel preferences and practices. In addition, customer comments and inquiries are collected and stored for each customer that submits them. This information is collected and stored with the customer's individual Boingo account information. This information is kept completely private and confidential except as disclosed in the Use and Disclosure of information. 
+Like any business interested in attracting and offering the highest quality of service to customers, Boingo gathers voluntary demographic information about our customers. These questions seek to gain insight on such things as how an individual became aware of our service, their gender, occupation and travel preferences and practices. In addition, customer comments and inquiries are collected and stored for each customer that submits them. This information is collected and stored with the customer's individual Boingo account information.
 
-Boingo occasionally conducts user surveys to better target our service offering to existing as well as new customers. We sometimes share aggregated demographic information in these surveys with various business partners that offer complimentary offerings to the Boingo service. This information is summarized, and information about specific individuals is never shared with any third party. Participation in our customer surveys is voluntary.
+Boingo occasionally conducts user surveys to better target our service offering to existing as well as new customers. We sometimes share aggregated demographic information in these surveys with various business partners that offer complimentary offerings to the Boingo service. This information is summarized, and information about specific individuals is not shared with any third party. Participation in our customer surveys is voluntary.
 
 Boingo may offer incentive programs to customers, visitors to the Boingo Web site (www.boingo.com), the general public and individuals identified through direct mail lists. These offerings are promoted on the Web site, advertisements and press releases. At a minimum, required information includes name and e-mail address; in some cases, the customer must answer mandatory survey questions about other personal data or enter a program code. The information gathered in the entry form is used to verify the entrant's identity, to send the entrant an e-mail notification that their entry has been received, and to contact winners and/or prize recipients. Because the rules and terms of each program can vary, all information about each program is clearly posted during the event. All such programs are conducted in full accordance with United States federal and state laws.
 
 Boingo has and may institute referral programs or similar programs, such as the “Tell a Friend” program. Boingo's “Tell a Friend” program allows customers to receive credit for each individual (a “Referral”) that, as a result of their recommendation, also becomes a customer. For a customer to receive a free month of service under this program, (1) the Referral must become a subscriber to Boingo Unlimited and remain a subscriber of Boingo Unlimited for more than 31 days; (2) the Referral cannot be an existing Boingo customer; and (3) the Referral cannot have been previously submitted to the “Tell a Friend” program by another person. Existing customers provide the e-mail address of the Referral, and Boingo may send an e-mail message to the Referral from the referring customer's e-mail address informing them of the Boingo service.
+
+When Boingo collects usage information (such as the numbers and frequency of visitors to the Website), we only use this data in aggregate form, and not in a manner that would identify you personally. For example, this aggregate data tells us how often users use parts of the Services, so that we can make the Services appealing to as many users as possible. We may also provide this aggregate information to our partners; our partners may use such information to understand how often and in what ways people use our Services, so that they too, can provide you with an optimal experience. We do not disclose aggregate information to a partner in a manner that would identify you personally.
 
 When you use Boingo’s services on a mobile device (such as your laptop or a smart phone), Boingo may collect and/or track certain geographic location information that is derived from your usage of the Boingo service such as usage patterns, travel patterns, Web site page views, traffic patterns and information about your geographic location. Boingo may use this tracking and location information for statistical purposes to improve our products and services and to manage our networks and systems more efficiently.
 
@@ -47,9 +49,9 @@ Except as described in this Section, Boingo will not divulge any of your persona
 
 Subject to the terms of this privacy policy, we may disclose information to our employees, contractors, affiliates, distributors, dealers, vendors and suppliers who process information on our behalf, participate with us in the provision or operation of our site or provide you with services.
 
-We reserve the right to transfer all information in our possession to a successor entity in the event of a merger, acquisition, bankruptcy or other sale of all or a portion of our assets or business.  Other than to the extent ordered by a court, the use and disclosure of all transferred information will be subject to this privacy policy or to a new privacy policy if you are given notice of that new privacy policy and you affirmatively opt-in to accept it.  Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by the successor entity.
+Boingo may choose to buy or sell assets or companies, or merge with or into other companies. In these types of transactions, customer information is typically one of the business assets that would be transferred. Also, if Boingo (or its assets) are acquired, or if Boingo goes out of business, enter bankruptcy, or go through some other change of control, Personal Information would be one of the assets transferred to or acquired by a third party.
 
-We may email you about products and services that we believe may be of interest to you.  If you wish to opt-out of receiving marketing materials from us, please follow the instructions at the bottom of each email for opting out. 
+We may email you about products and services that we believe may be of interest to you.  If you wish to opt-out of receiving marketing materials from us, please follow the instructions at the bottom of each email for opting out. Please note that if you do not want to receive legal notices from us, those legal notices will still govern your use of the Services, and you are responsible for reviewing such legal notices for changes.
 
 In instances where Boingo and a partner jointly promote the Boingo service, Boingo may provide that partner certain information, such as name and e-mail address, for the sole purpose of allowing Boingo and the partner to evaluate the promotion.
 
@@ -57,10 +59,14 @@ Boingo may contact customers or Web site visitors regarding account status and c
 
 Boingo opposes the e-mailing of any junk mail, and does not sell customer information to e-mail lists or telemarketers. If any of our partner sites engage in such practices, for any reason, Boingo will immediately investigate, and if appropriate, discontinue services with such parties. If you receive junk e-mail that mentions Boingo or its services, please send details to us at [info@boingo.com](mailto:info@boingo.com) and we will investigate promptly.
 
+We allow advertisers and/or merchant partners ("Advertisers") to choose the demographic information of users who will see their advertisements and/or promotional offers and you agree that we may provide any of the information we have collected from you in non-personally identifiable form to an Advertiser, in order for that Advertiser to select the appropriate audience for those advertisements and/or offers. For example, we might use the fact you are located in San Francisco to show you ads or offers for San Francisco businesses, but we will not tell such businesses who you are.
+
+Advertisers may serve ads that appear on our sites or services, which may contain a feature allowing you to input your email address. If you choose to input your email address in connection with these ads, you understand that we will transmit your email address to the applicable third party advertiser; this Privacy Policy does not apply to such advertisers' collection and use practices, so please review their privacy policies before providing your email address in this manner.
+
   
 
 
-As a Boingo customer, you are always fully in control of the information that we maintain to service you. You can change your information at any time and as often as necessary via our self-care application which can be accessed at:  [https://my.boingo.com](https://my.boingo.com/). You can also request that the data be changed or deleted (requests for deletion of certain information may require closing the account) by calling the following numbers: 
+As a Boingo customer, you are in full control of the information that we maintain to service you. You can change your information at any time and as often as necessary via our self-care application which can be accessed at:  [https://my.boingo.com](https://my.boingo.com/). You can also request that the data be changed or deleted (requests for deletion of certain information may require closing the account) by calling the following numbers: 
 
 From North America: 1-800-880-4117
 
@@ -79,26 +85,34 @@ From outside of North America, UK, Japan and India: 00-800-2646-4646
 
 Information about a customer may be withheld or exempted from deletion if this is required by law, is part of a fraud investigation or is required for accounting and audit purposes. 
 
+Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to: legal@boingo.com.
+
   
 
+
+If you have provided us with a means of contacting you, we may use such means to communicate with you. For example, we may send you promotional offers on behalf of other businesses, or communicate with you about your use of the Services.
 
 Boingo automatically opts customers in to providing Boingo with information, as well as a separate opportunity to opt-in to certain location-tracking services, or receiving communications from us and our partners.
 
 At any time, customers can contact Boingo to [opt-out](https://c01.client.boingo.com/unsubscribe/unsubscribe.app) of any of our promotions, programs, location-tracking services or contests via the following link: <https://c01.client.boingo.com/unsubscribe/unsubscribe.app>. Alternatively, customers can opt not to provide certain information when enrolling for the Boingo service or when participating in some programs and surveys, although choosing not to provide certain information may hinder our ability to complete your registration process. 
 
-  
-
-
-We do not knowingly collect information from children under the age of 13. If we determine that we have collected personally identifiable information on children, we will promptly delete it from our system. We recommend that children who are 13-17 years old receive permission from a parent before gaining access to the Boingo service or sending information to Boingo or anyone else online.
+Please note that if you do not want to receive legal notices from us, those legal notices will still govern your use of the Services, and you are responsible for reviewing such legal notices for changes.
 
   
 
 
-Your account information is protected by a unique User Identification and password that is issued to you. Your User Identification and password should be kept confidential because it is the key to accessing the information held by Boingo about you. If your computer or other device is accessible to or by others, please log out of the Boingo site before you leave it. Security is also provided through your web browser, which supports 40, 56 or a 128-bit version of encryption with the SSL (Secure Sockets Layer) security protocol. When you visit the Boingo Web site, your personal account information is encrypted when transmitted across the Internet, using the highest degree of security applicable.
+We do not knowingly collect information from children under the age of 13. If we determine that we have collected personally identifiable information on children, we will promptly delete it from our system. We recommend that children who are 13-17 years old receive permission from a parent before gaining access to the Boingo service or sending information to Boingo or anyone else online. If you are under 13, please do not attempt to register for the Services or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to us or on the Services. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at legal@boingo.com.
 
-Boingo has instituted internal safeguards to reduce the likelihood of accidental disclosures and unintended access of your information (although it is impossible to eliminate this possibility completely). All employees, contractors and other companies engaged by Boingo are contractually required, through signed, internal non-disclosure agreements, to keep your Personal Information confidential and not to use it in any way other than what is necessary to perform their work for Boingo. Violations of these policies can result in termination in the case of employees, the severing of contractual obligations in the case of contractors and other companies, and in civil and criminal penalties if warranted and applicable by law. 
+  
+
+
+Your account information is protected by a unique User Identification and password that is issued to you. Your User Identification and password should be kept confidential because it is the key to accessing the information held by Boingo about you. If your computer or other device is accessible to or by others, please log out of the Boingo site before you leave it. Security is also provided through your web browser, which supports 40, 56 or a 128-bit version of encryption with the SSL (Secure Sockets Layer) security protocol.
+
+Boingo has instituted internal safeguards to reduce the likelihood of accidental disclosures and unintended access of your information (although it is impossible to eliminate this possibility completely). In general, all employees, contractors and other companies engaged by Boingo are contractually required, through signed, internal non-disclosure agreements, to keep your Personal Information confidential and not to use it in any way other than what is necessary to perform their work for Boingo. Violations of these policies can result in termination in the case of employees, the severing of contractual obligations in the case of contractors and other companies, and in civil and criminal penalties if warranted and applicable by law. 
 
 While Boingo uses reasonable measures to protect the security of your information, no security measures are foolproof, and Boingo does not guarantee that your information will remain confidential.
+
+The Services may contain links to other sites. We are not responsible for the privacy policies and/or practices on other sites. When following a link to another site you should read that site's privacy policy.
 
   
 
@@ -110,7 +124,12 @@ Third parties are under no obligation to comply with this privacy policy with re
   
 
 
-I hereby consent to the disclosure by Skype to Boingo of information concerning me, including my Skype ID and details of the sessions initiated on Boingo's hotspots. I understand that such disclosure may entail the transfer of personal data outside of the European Union or assimilated countries. I acknowledge and agree that my usage of Boingo’s hotspots shall constitute consent to such disclosure and transfer.
+In certain situations, businesses or third party websites we're affiliated with may sell items or provide services to you through the Services (either alone or jointly with us). You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information with that affiliated business only to the extent that it is related to such transaction or service. One such service may include the ability for you to automatically transmit Third Party Account Information to your Services profile or to automatically transmit information in your Services profile to your third party account. We have no control over the policies and practices of third party websites or businesses as to privacy or anything else, so if you choose to take part in any transaction or service relating to an affiliated website or business, please review all such business' or websites' policies.
+
+  
+
+
+You hereby consent to the disclosure by Skype to Boingo of information concerning yourself, including your Skype ID and details of the sessions initiated on Boingo's hotspots. You understand that such disclosure may entail the transfer of personal data outside of the European Union or assimilated countries. You acknowledge and agree that your usage of Boingo’s hotspots shall constitute consent to such disclosure and transfer.
 
   
 
@@ -120,7 +139,7 @@ Because of changes in technology and the growth and development of our business,
   
 
 
-This privacy policy is effective as of March 22, 2011. Boingo reserves the right to change this policy at any time. By using the Boingo service, you are acknowledging and accepting all terms and conditions outlined in this Boingo Wireless, Inc. privacy policy.
+This privacy policy is effective as of May 17, 2013. Boingo reserves the right to change this policy at any time. By using the Boingo service, you are acknowledging and accepting all terms and conditions outlined in this Boingo Wireless, Inc. privacy policy.
 
 If you have any questions regarding this policy statement, please e-mail us at [info@boingo.com](mailto:info@boingo.com).
 
