@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessreport.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603193457id_/http%3A//businessreport.com/section/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessreport.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227222741id_/http%3A//www.businessreport.com/section/privacy_policy) for the most accurate reproduction.*
 
 # None
 
@@ -12,7 +12,7 @@ Information collected about subscribers and users may be used by us and our affi
 
 For each visitor to this website, our Web server may automatically attempt to identify the user through a cookie set within your browser. This is done to provide access to the site.
 
-If you do not want to receive email from us in the future, please update your subscription preferences [here](http://clicks.skem1.com/signup/?c=2fy5RN).
+If you do not want to receive email from us in the future, please update your subscription preferences [here](https://web.archive.org/section/enewsletters).
 
 If you supply us with your telephone number and postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please email [circulation@businessreport.com](mailto:circulation@businessreport.com) and be sure to specify the contact information you would like removed from our list.
 
