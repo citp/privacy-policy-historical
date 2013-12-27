@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbfinancial.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531141722id_/http%3A//www.mbfinancial.com/%7E/media/139b2725cb7c4810a0c49fb2f247efed/privacy%2520notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbfinancial.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227201159id_/http%3A//www.mbfinancial.com/%7E/media/139b2725cb7c4810a0c49fb2f247efed/privacy%2520notice.pdf) for the most accurate reproduction.*
 
 # WHAT DOES MB FINANCIAL BANK, N.A. DO WITH YOUR PERSONAL INFORMATION?
 
