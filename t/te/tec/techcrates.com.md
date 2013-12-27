@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techcrates.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629181953id_/http%3A//www.techcrates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techcrates.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227221801id_/http%3A//www.techcrates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Technology Review
 
@@ -10,7 +10,7 @@ Google, as a third party advertisement vendor, uses cookies to serve ads on this
 
 To opt out of the DART cookies you may visit the Google ad and content network **privacy policy** at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, [Tech Crates](http://www.techcrates.com/ "Tech Crates") has no access or control over these cookies that may be used by third party advertisers.
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Tech Crates has no access or control over these cookies that may be used by third party advertisers.
 
 **Collection of Personal Information**  
 When visiting Tech Crates, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
