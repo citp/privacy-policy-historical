@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the edfinancial.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525074932id_/https%3A//www.edfinancial.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edfinancial.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227212839id_/https%3A//www.edfinancial.com/Privacy) for the most accurate reproduction.*
 
 # Internet Privacy Policy - Edfinancial Services
 
-At Edfinancial Services, we continue to develop technological enhancements for students, families, schools and our partners. We are committed to excellence in customer service, and your privacy is important to us. This policy is effective on December 20, 2012. 
-
-###  TRUSTe Privacy Program
-
-[](http://www.truste.org/ivalidate.php?url=www.edfinancial.com&sealid=101 "Click to verify your privacy")Edfinancial Services has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us via our [email contact form](https://www.edservicing.com/customercarequestions "email contact form").  If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+At Edfinancial Services, we continue to develop technological enhancements for students, families, schools and our partners. We are committed to excellence in customer service, and your privacy is important to us. This policy is effective on December 20, 2012.
 
 ###  What this Privacy Policy Covers
 
@@ -20,19 +14,15 @@ Some areas of our websites may provide links to non-Edfinancial Services sites. 
 
 ###  Use of Personal Identifying Information
 
-Edfinancial Services does not collect any nonpublic personal information from visitors to our sites unless you expressly provide it to us through one of our online services. Edfinancial Services does not sell, rent or lease its customer lists to third parties. Certain processes, such as our secure [email contact form](https://www.edservicing.com/customercarequestions "email contact form"), will require that you provide your student loan account number and date of birth so that we may answer specific questions to assist you with your account(s).
+Edfinancial Services does not collect any nonpublic personal information from visitors to our sites unless you expressly provide it to us through one of our online services. Edfinancial Services does not sell, rent or lease its customer lists to third parties. Certain processes, such as our secure [email contact form](https://www.edservicing.com/customercarequestions "email contact form"), will require that you provide your first and last name, student loan account number, date of birth, mailing address, phone number, and email address so that we may answer specific questions to assist you with your account(s). If you wish to update any of the personally identifiable information listed above, you may do so by logging into [Manage My Account](https://web.archive.org/MMA).
 
-We currently use Google Analytics to track visitors by collecting anonymous statistics with first-party cookies, small text files with a single string of anonymous text or numbers. We do not collect any personally identifiable information about website visitors using this tool. The type of information we collect includes pages visited, product, school and lender codes, IP address, the type of browser you are using, the websites you visit immediately before and immediately after you visit our websites, and other anonymous data involving your use of our websites. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. We do not link an IP address with the identity of a computer user.
+We currently use Google Analytics to track visitors by collecting anonymous statistics with first-party cookies, small text files with a single string of anonymous text or numbers. We do not collect any personally identifiable information about website visitors using this tool. The type of information we collect includes pages visited, IP address, the type of browser you are using, the websites you visit immediately before and immediately after you visit our websites, and other anonymous data involving your use of our websites. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors. We do not link an IP address with the identity of a computer user.
 
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law where in we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
 
-###  Data Retention
-
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us via our [email contact form](https://www.edservicing.com/customercarequestions "email contact form"). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
 ###  Minimum Age Requirement
 
-By law, Edfinancial Services cannot collect any information from persons who are not yet 13 years of age. If you are under 13 years of age, you can utilize the information provided in many areas of our site, but you are not authorized to create an account.
+By law, Edfinancial Services cannot collect any information from persons who are not yet 13 years of age. If you are under 13 years of age, you can utilize the information provided in many areas of our site, but you are not authorized to submit information to us.
 
 ###  Updating Personal Information
 
@@ -44,7 +34,7 @@ If you choose to register with the Edfinancial Services Sites in order to utiliz
 
 ###  Website Use Information
 
-Web servers at Edfinancial Services automatically recognize your domain name, but not your e-mail address. No nonpublic personal information is collected unless you choose to provide it to us through one of our online services. Our web server does collect information such as domain name, number of hits, pages visited and length of user session in order to compile website statistics that enable us to analyze how our websites are used. This information is then used to improve the usefulness of the sites.
+Web servers at Edfinancial Services automatically recognize your domain name, but not your email address. No nonpublic personal information is collected unless you choose to provide it to us through one of our online services. Our web server does collect information such as domain name, number of hits, pages visited and length of user session in order to compile website statistics that enable us to analyze how our websites are used. This information is then used to improve the usefulness of the sites.
 
 ###  Confidentiality and Security
 
