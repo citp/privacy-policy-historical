@@ -1,100 +1,125 @@
-> *The following text is extracted and transformed from the marketwired.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketwired.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227223733id_/http%3A//www.marketwired.com/Privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Marketwired - Privacy
 
-**Go Daddy Respects Your Privacy**
+  
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+## Marketwired Privacy Policy 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Your privacy is of the utmost importance to us. This privacy statement discloses what information we gather, how we use it, and how to correct or change it. By submitting personal information to us through your registration or otherwise by using our services, you agree that we may collect, use and disclose such personal information as described in and in accordance with this Privacy Policy and as permitted or required by law.
 
-**Information Collection and Use**
+Your Consent and Changes 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+By using our site and/or by using our services, you consent to our Privacy Policy and our collection, use, and disclosure of your information in accordance with it. If we make any substantive changes to our policies, we will notify you by posting notice of changes to this website. Your use of the site after the changes constitutes your agreement with regard to information collected from you in the past and in the future.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+## Information Gathered by Marketwired
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+For visitors to our website, subscribers to our newsletters, clients and prospective clients of our service (collectively referred to as a "User" or "Users"), we log standard technical information such as your IP address, interactions on different pages, and browser information. We use this information to help diagnose problems with our service, to administer our website and in reporting capacities as identified below to companies with whom Marketwired works, including its clients, partners, etc. For example, your IP address may be used to help identify you and your account information and to gather demographic information, or to maintain an aggregated log of click activity on our website.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Our site uses cookies to keep track of your account. We also use cookies to deliver content specific to you.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+We may also collect additional information from you when you fill out a form. Marketwired requires registration for certain services, such as the distribution of your press releases, and purchase of licenses to our Software-as-a-Service products. Our website may also contain order forms for other products and services or online surveys. In order to provide our services to you, we may ask you for contact information (such as name and email address), financial information (account or credit card numbers), mailing address, phone number, title, company name, and/or demographic information (including zip/postal code and age).
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+## Marketwired's Use of Information
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We may use your contact information to send you information about our company or our advertisers; however, you may opt out of receiving such mailings (see the Client Prospects and Subscribers sections below). We use financial information to bill you for products and services. Demographic, usage and profile data are also collected at our site, and may be used in the course of reporting. Anonymous user data (such as IP addresses, and/or their IP-location information, if available) may be utilized within aggregate traffic reporting to our clients. Additionally, certain information provided at user-registration (such as the name of a media outlet or user title) may be made available to clients within activity reports, although no personally identifiable information (such as names, phone numbers, or email addresses) will be reported.
 
-**Security**
+We use this data to tailor your experience at our site, to deliver content that we think you might be interested in, to display the content according to your preferences and we may share aggregate information about our users with third parties such as advertisers or clients submitting press releases to Marketwired.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+## How do we protect your information?
 
-**Updating Your Information**
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. However, it is possible that any information transmitted via the Internet may be intercepted by unknown third parties. We therefore encourage you to carefully ensure security through virus screening software, browser settings, the setting of passwords that are known only to you and are difficult to guess, and other security measures available to individuals and/or companies.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+## Do we use cookies?
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+## Do we disclose any information to outside parties?
 
-      iii.      You may call us at: (480) 505-8800
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information collected from visiting our websites [www.marketwired.com](http://www.marketwired.com/), [www.sysomos.com](http://www.sysomos.com/) or [blog.sysomos.com](http://www.blog.sysomos.com/). This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. 
 
-       iv.      You may fax us at: (480) 505-8844
+Marketwired may also disclose your personal information, the contents of your communications and/or your contact and financial information if required to do so by law, with your consent or in the good faith belief that such action is necessary:
 
-**Sending Emails**
+  1. To conform to the edicts of the law or comply with a legal process served on Marketwired;
+  2. To protect and defend the rights or property of Marketwired or others; or
+  3. To assist, under exigent circumstances, in the investigation of securities law violations or other investigations.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**Compliance with Laws and Law Enforcement**
+It is possible that as we continue to develop our business, Marketwired might be acquired. In such a transaction, your information may be transferred to the acquiring entity. 
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Additionally, we may store or process your personal information on servers in Canada and/or the United States. As a consequence, your personal information may be accessed by the courts, law enforcement and national security authorities of those jurisdictions in accordance with applicable laws.
 
-**Third Party Service Providers**
+By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy. 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password and/or user ID which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password or user ID with anyone. 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access,
 
-**Supplementation of Information**
+## Advertisers and Other Third Parties
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+This site and some of our services contain links to other sites. Marketwired is not responsible for the privacy practices or the content of such websites.
 
-**Contests/Surveys**
+We may use a third-party ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our website, cookies received with banner ads are collected by the third-party ad company, and we do not have access to this information. The privacy practices of companies who provide services or ads through our site are not covered by this Privacy Policy. Please contact those companies directly for more information about their privacy practices.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+## Changes to Our Policies
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+Marketwired's Privacy Policy may change from time to time. If we make any substantive changes to our policies, we will notify you by sending email to the address provided by you, or by posting notice of changes to this website. Your use of the site after the changes constitutes your agreement with regard to information collected from you in the past and in the future.
 
-**Tell-A-Friend**
+## Security
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+We have in place industry standard security measures to protect against the loss, misuse or alteration of the information under our control, including through the use of physical, organizational, and technological measures and appropriate training of employees. However, it is possible that any information transmitted via the Internet may be intercepted by unknown third parties. We therefore encourage you to carefully ensure security through virus screening software, browser settings, the setting of passwords that are known only to you and are difficult to guess, and other security measures available to individuals and/or companies.
 
-**What Happens to my Personal Information if I Opt Out?**
+## Use by Minors Prohibited
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+Marketwired is not intended for and should not be used by anyone under the age of 18. Marketwired complies with the Children's Online Privacy Protection Act and does not permit registration or use by anyone under the age of 13.
 
-**Transfer of Data Abroad**
+## International Users
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+If you are an international user, by registering with Marketwired or by using our service, you agree that we may collect, use and transfer your information as described in this Privacy Policy. If you reside in the European Union or other jurisdictions that provide access rights under law, you may access your information or have it corrected or updated in accordance with applicable law by [contacting us](https://web.archive.org/Contact-Us).
 
-**Changes in Our Practices**
+## Clients
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+Clients who have registered in order to use our services can change or update their account information and preferences by:
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+  1. Visiting <https://www.marketwire.com/mw/clogin.do>;
+  2. Calling Client Services at 800-774-9473; or
+  3. [Contact us](https://web.archive.org/Contact-Us)
 
-**Contacting Our Site**
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-* * *
+## Client Prospects
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+From time to time we will email client prospects whom we have reason to believe might be interested in our services because of their involvement in the public relations, investor relations or related fields. Prospects can opt out of future communications simply by replying to the email and indicating their preference.
+
+## Subscribers
+
+We provide subscribers to our email newsletters with the opportunity to opt out of receiving promotional communications at the point when we request your information. Additionally, subscribers have the right to mask the non-public registration details they provide (media outlet, city, state) from appearing within our activity reports. At any time, subscribers can change their preferences regarding promotional communications and reporting disclosures, can subscribe to or unsubscribe from any of our email newsletters and can modify other registration information previously provided to us by:
+
+  1. Visiting [Hot Off The Wire](https://web.archive.org/communication_solutions/hot_off_the_wire) or
+  2. Visiting [Personal Beat](https://web.archive.org/MediaPartners/Personal-Beat) or
+  3. Using the link provided at the bottom of any email newsletter we send to you.
+
+
+
+## Social Media
+
+From time to time we will participate in conversations on social media platforms such as [Twitter](http://www.twitter.com/Marketwired/), [LinkedIn](http://www.linkedin.com/company/18941), or [Facebook](http://www.facebook.com/marketwired/), where we have reason to believe individuals might be interested in our services because of their involvement in public relations, investor relations or related fields. Communications that are meant to be confidential in nature should be made through secure messaging options available within these third party websites/services. Questions about our [social media policy](https://web.archive.org/Social-Media-Policy) should be forwarded to [info@marketwired.com](mailto:info@marketwired.com).
+
+## Contacting the Website
+
+If you have any questions about this Privacy Policy, the practices of Marketwired, or your dealings with this website, you can contact us at the postal address, phone number, fax number or email address listed below.
+
+Marketwired, Inc.  
+25 York Street  
+Suite 900, P.O. Box 403  
+Toronto, ON M5J 2V5  
+Phone: 888-299-0338  
+Fax: 416-362-5477  
+Email: [info@marketwired.com](mailto:info@marketwired.com)
+
+Last updated: May 20, 2013
+
+  
+
