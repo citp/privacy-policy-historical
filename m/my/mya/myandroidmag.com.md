@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myandroidmag.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628000641id_/http%3A//myandroidmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myandroidmag.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227214625id_/http%3A//myandroidmag.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Android Magazine
+# Privacy » Android Magazine
 
 [****](http://myandroidmag.com/ "Android Magazine")**[Android](http://myandroidmag.com/topic/android/ "Android") Magazine** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
