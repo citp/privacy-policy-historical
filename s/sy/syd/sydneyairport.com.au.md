@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sydneyairport.com.au privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526010859id_/http%3A//www.sydneyairport.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sydneyairport.com.au privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227035616id_/http%3A//www.sydneyairport.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Sydney Airport - Privacy Policy
+# Privacy Policy | Sydney Airport
 
 Sydney Airport Corporation Limited (“SACL”) is committed to protecting your personal information in accordance with the National Privacy Principles set out in the Privacy Act 1988 (Cth).
 
@@ -26,19 +26,13 @@ In the case of matters relating to security or airfield operations - for example
 
 
 
-In the case of retail and marketing-related matters, we may collect additional information such as:
+In the case of retail and marketing-related matters, we might collect additional information such as:
 
   * your preferences concerning types of products or services; 
   * the frequency of use of certain types of products or services; 
   * the methods, purpose and frequency of travel; 
   * your preferred destinations; and 
   * your income demographics. 
-
-
-
-In the case of lost property, we may collect and retain additional information such as:
-
-  * your name, address, telephone numbers, date of birth, flight details and a copy of approved photo identification (e.g drivers licence).
 
 
 
@@ -76,7 +70,7 @@ At the point we collect information from you, you may be asked to “opt in” t
 
 You will generally be given the opportunity to “opt out” from receiving communications from us or from third parties that send communications to you in accordance with this policy. For example, you will be given the option to unsubscribe from e-newsletters and other marketing or promotional material sent by us. You may “opt out” from receiving these communications by either clicking on an unsubscribe link at the end of an email. 
 
-If you receive communications purporting to be connected with us or our services that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please write to us at [privacy@syd.com.au](mailto:privacy@syd.com.au)
+If you receive communications purporting to be connected with us or our services that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please write to us at [privacy@sacl.com.au](mailto:privacy@sacl.com.au)
 
 ## How does SACL use your personal information?
 
@@ -158,7 +152,7 @@ CCTV significantly increases the ability to monitor areas of the airport and aim
 
 
 
-For further information, view the [CCTV Fact Sheet](https://web.archive.org/~/media/Files/Corporate/About%20Us/Fact%20Sheets/Sydney-Airport-CCTV-Fact-Sheet.pdf).  Any other inquiries can be directed via e-mail to [Customer.Service@syd.com.au](mailto:Customer.Service@syd.com.au?subject=CCTV%20Enquiry) or by phone on 02 9667 9111.
+For further information, view the [CCTV Fact Sheet](https://web.archive.org/~/media/Files/Corporate/About%20Us/Fact%20Sheets/Sydney-Airport-CCTV-Fact-Sheet.pdf).  Any other inquiries can be directed via e-mail to [customer.experience@syd.com.au](mailto:customer.experience@syd.com.au?subject=CCTV%20Enquiry) or by phone on 02 9667 9111.
 
 ## Contacting Us
 
