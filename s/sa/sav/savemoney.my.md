@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the savemoney.my privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629183259id_/http%3A//savemoney.my/%3Fpage_id%3D365) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savemoney.my privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227204133id_/http%3A//savemoney.my/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Save Money Malaysia |
+# Privacy Policy
 
 Saving Experts Sdn. Bhd. (“we” or “us”) owns and operates this website and we take your privacy very seriously. This Privacy Policy discloses the privacy practices for this website and should be read together with our **Terms of Use**.
 
@@ -8,7 +8,7 @@ PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OUR WEBSITE, YOU ACKNOWL
 
 We are ready to address your questions and concerns regarding this policy and our privacy practices. If you would like to contact us, please do so via email at support@savemoney.my
 
-**1.        ****Types and Uses of Collected Information**
+**1.** **Types and Uses of Collected Information**
 
 ****a. **Personally Identifiable Information.** We define Personally Identifiable Information as information that identifies a specific user. When you engage in certain activities on the website, such as subscribing to our email newsletter, creating an account, submitting content and/or posting content in discussion forums, requesting information about our services, taking part in a survey, entering a contest or sweepstakes sponsored by us or our partners, submitting a review, sending us or our partners feedback, applying for a job vacancy, posting a video or signing up for special offers from third parties through the website (collectively known as “Identification Activities”), we may ask you to provide certain information about yourself. It is optional for you to engage in an Identification Activity. Should you elect to engage in an Identification Activity, we may ask you to provide us with certain personal information about yourself, such as your first and last name, mailing address (including your postal code), email address, telephone number and date of birth. Subject to the activity, some of the information we ask you to provide is identified as mandatory and some is identified as voluntary. If the mandatory information for a particular activity is not provided upon request, you will not be permitted to engage in that activity.
 
