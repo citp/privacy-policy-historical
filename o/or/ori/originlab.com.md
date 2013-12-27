@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the originlab.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618234639id_/http%3A//originlab.com/index.aspx%3Fgo%3DCompany/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the originlab.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228001105id_/http%3A//www.originlab.com/index.aspx%3Fgo%3DCompany/PrivacyPolicy) for the most accurate reproduction.*
 
 # OriginLab.com - Privacy Policy
 
@@ -102,4 +102,4 @@ OriginLab Corporation
 One Roundhouse Plaza  
 Northampton, MA 01060 
 
-|  
+| 
