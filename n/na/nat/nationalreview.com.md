@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalreview.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621170407id_/http%3A//www.nationalreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalreview.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227092959id_/http%3A//www.nationalreview.com/privacy) for the most accurate reproduction.*
 
 # NRO Contact Us Page | National Review Online
 
