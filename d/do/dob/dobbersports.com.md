@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dobbersports.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601101256id_/http%3A//www.dobberhockey.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D2970%253Aprivacy-policy%26catid%3D7%253Aexamples%26Itemid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dobbersports.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227144440id_/http%3A//www.dobberhockey.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D2970%253Aprivacy-policy%26catid%3D7%253Aexamples%26Itemid%3D1) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy**
 
-DobberHockey has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for all ‘Dobber’ Web sites (DobberHockey.com and DobberBaseball.com).
+Dobber Sports (heretofor referred to as DobberHockey) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for all ‘Dobber’ Web sites (DobberHockey.com, DobberProspects.com, DobberFootball.com, Dobbernomics.com and DobberBaseball.com).
 
 **Security**
 
@@ -48,15 +48,10 @@ DobberHockey reserves the right to modify our privacy policies. We suggest that 
 
 If you have any questions about this privacy statement, the practices of Dobber web sites, or your dealings with those Web sites, you can contact us by email at: [admin@dobberhockey.com](mailto:admin@dobberhockey.com).
 
-  
+**Ads**
 
-
-Write comment
-
-Comments 
-
-You must be logged in to post a comment. Please register if you do not have an account yet.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [](http://www.networkadvertising.org/managing/opt_out.asp)<http://www.networkadvertising.org/managing/opt_out.asp>
 
   
-|  [< Prev](http://hockey.dobbersports.com/index.php/home-mainmenu-1/7-examples/2971-refund-policy) |    |  [Next >](http://hockey.dobbersports.com/index.php/home-mainmenu-1/7-examples/10-faq1)  
----|---|---
+  
+
