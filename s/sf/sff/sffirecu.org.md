@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sffirecu.org privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627000416id_/http%3A//sffirecu.org/2011/12/6/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sffirecu.org privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227035911id_/http%3A//www.sffirecu.org/2011/12/6/privacy-notice) for the most accurate reproduction.*
 
 # SF Fire Credit Union : Privacy Notice to Members
 
