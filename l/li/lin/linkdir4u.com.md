@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the linkdir4u.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507123414id_/http%3A//www.linkdir4u.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkdir4u.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227103610id_/http%3A//www.linkdir4u.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Linkdir4u.com - Privacy Policy
 
-(last update: January 9, 2012)
+(last update: July 1, 2013)
 
 **Information we gather**
 
