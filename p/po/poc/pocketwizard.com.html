@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pocketwizard.com privacy policy that was archived on 2013-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130628065554id_/http%3A//www.pocketwizard.com/home/misc/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pocketwizard.com privacy policy that was archived on 2013-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131227054416id_/http%3A//www.pocketwizard.com/home/misc/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -81,12 +81,21 @@ span.optional { display: inline; margin: 0; padding: 0; font-weight: normal; lin
 <div id="header">
 	<div id="logo"><h1><a href="/">LPA Design | PocketWizard</a></h1></div>
 
-	<div id="search-field">
-  <form name="frm_search" action="/support/search/results/" method="post">
-    <input class="formField" type="text" name="keyword" value="Site Search" onfocus="this.value=''">
-    <input type="image" name="submit_search" src="/_common/img/button-go.gif" class="go-button">
-  </form>
-</div><!-- /#search-field -->
+	<div id="header-links">
+  <div id="search-field">
+    <form name="frm_search" action="/support/search/results/" method="post">
+      <input class="formField" type="text" name="keyword" value="Site Search" onfocus="this.value=''">
+      <input type="image" name="submit_search" src="/_common/img/button-go.gif" class="go-button">
+    </form>
+  </div><!-- /#search-field -->
+  <div id="language-field">
+    <span id="language-label">Please select your language</span>
+    <form id="language-form" action="">
+      <select name="LangDictID">
+        <option value="0" selected="selected">English</option><option value="1513">French</option><option value="1515">Spanish</option><option value="1514">German</option>      </select>
+    </form>
+  </div>
+</div>
 
 
 
@@ -96,7 +105,7 @@ span.optional { display: inline; margin: 0; padding: 0; font-weight: normal; lin
   <ul id="social-media">
     <li class="social_header">Follow us on:</li>
     <li><a href="http://www.facebook.com/pocketwizards"><img src="/_common/img/bw/facebook.gif"></a></li>
-    <li><a href="http://www.twitter.com/#!/PocketWizard"><img src="/_common/img/bw/twitter.gif"></a></li>
+    <li><a href="https://twitter.com/PocketWizard"><img src="/_common/img/bw/twitter.gif"></a></li>
     <li><a href="http://www.youtube.com/pocketwizardvids"><img src="/_common/img/bw/youtube.gif"></a></li>
     <li><a href="http://www.vimeo.com/pocketwizard/videos"><img src="/_common/img/bw/vimeo.gif"></a></li>
   </ul>
@@ -127,7 +136,7 @@ span.optional { display: inline; margin: 0; padding: 0; font-weight: normal; lin
 
 	<div id="rollover-nav-8" class="rollover-align" onmouseover="rolloveronsub()" onmouseout="rolloveroffsub('rollover-nav-8')">
 	<ul class="rollover-nav">
-	<li class="off"><a href="/videos/education/">Education</a></li>
+	<li class="off"><a href="/videos/education/">Education &amp; Webinars</a></li>
 	<li class="off"><a href="/videos/product_intros/">Product Intros</a></li>
 	<li class="off"><a href="/videos/behind_the_scenes/">Behind the Scenes</a></li>
 	</ul>
@@ -190,6 +199,13 @@ span.optional { display: inline; margin: 0; padding: 0; font-weight: normal; lin
 	<li class="off"><a href="/wheretobuy/dealer_locator/">Dealer Locator</a></li>
 	<li class="off"><a href="/contact/inquiry/">Inquiries</a></li>
 	<li class="off"><a href="/support/register/">Registration</a></li>
+	</ul>
+	<div class="clr"></div>
+	</div><!-- /.rollover-align -->
+
+	<div id="rollover-nav-48" class="rollover-align" onmouseover="rolloveronsub()" onmouseout="rolloveroffsub('rollover-nav-48')">
+	<ul class="rollover-nav">
+	<li class="off"><a href="/welcome/welcome/">Welcome</a></li>
 	</ul>
 	<div class="clr"></div>
 	</div><!-- /.rollover-align -->
@@ -306,11 +322,14 @@ span.optional { display: inline; margin: 0; padding: 0; font-weight: normal; lin
 <link rel="stylesheet" href="/_common/css/jquery.fancybox.css?v=2.1.4" type="text/css" media="screen">
 <script type="text/javascript" src="/_common/js/jquery.fancybox.pack.js?v=2.1.4"></script>
 <script type="text/javascript" src="/_common/js/jquery.fancybox-media.js?v=1.0.5"></script>
+<script type="text/javascript" src="/_common/js/global.js"></script>
 
 <script type="text/javascript">
   $(document).ready(function() {
     $('.fb').fancybox({ openEffect  : 'none',
                         closeEffect : 'none',
+                        nextEffect : 'fade',
+                        prevEffect : 'fade',
                         helpers : { media : {} }
     });
   });
