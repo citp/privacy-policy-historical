@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tractorbynet.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628071734id_/http%3A//www.tractorbynet.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tractorbynet.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227011213id_/http%3A//www.tractorbynet.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TractorByNet.com
 
