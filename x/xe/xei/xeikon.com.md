@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xeikon.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616213018id_/http%3A//www.xeikon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xeikon.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227165205id_/http%3A//www.xeikon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Xeikon N.V.
 
@@ -10,7 +10,7 @@ Updated: March 2013
 
 At Xeikon, we are committed to protecting and respecting your personal data. Based on policies and regulations unique to the European Union (amongst others directives 95/46 and 2002/58), we have set forth below our privacy terms with regard to our websites, explaining how we use personal data collected from you on our websites. These include:
 
-  * [Xeikon.com](http://www.xeikon.com/)
+  * [Xeikon.com](https://xeikon.com/)
   * [basysPrint.com](http://basysprint.com/)
   * [ThermoFlexX](http://www.thermoflexx.com/)
 
