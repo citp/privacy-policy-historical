@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelittlekitchen.net privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627085148id_/http%3A//www.thelittlekitchen.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelittlekitchen.net privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227205010id_/http%3A//www.thelittlekitchen.net/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | the little kitchen
 
@@ -41,7 +41,7 @@ We may also provide Non Personally Identifiable Information about our customersâ
 We believe you should have the ability to access and edit the Personally Identifiable Information that you have provided to us. You may change any of your Personally Identifiable Information in your account online at any time by linking to your account in accordance with instructions posted elsewhere on this site. You may also access and correct your personal information and privacy preferences by writing us at:
 
 The Little Kitchen LLC  
-julie@thelittlekitchen.net
+legal@thelittlekitchen.net
 
 Please include your name, address, and/or E-mail address when you contact us.
 
@@ -80,4 +80,4 @@ You should also be aware that when Personally Identifiable Information is volunt
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by sending an email to:
 
 The Little Kitchen LLC  
-julie@thelittlekitchen.net
+legal@thelittlekitchen.net
