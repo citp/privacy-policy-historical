@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pomegranatephone.com privacy policy that was archived on 2013-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130215060036id_/http%3A//www.gov.ns.ca/govt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pomegranatephone.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227191531id_/http%3A//www.gov.ns.ca/govt/privacy) for the most accurate reproduction.*
 
 # Nova Scotia Government Website Privacy Policy Statement | novascotia.ca
 
@@ -36,7 +36,7 @@ Government web servers automatically collect some information about a visitor's 
 
 ### Further Information
 
-[Nova Scotia Government Website Privacy Policy](http://www.gov.ns.ca/treasuryboard/manuals/PDF/300/30407-04.pdf) (PDF) 
+[Nova Scotia Government Website Privacy Policy](http://www.novascotia.ca/treasuryboard/manuals/PDF/300/30407-01.pdf) (PDF) 
 
-[Contact Economic and Rural Development and Tourism](https://www.gov.ns.ca/govt/privacy/privacycontact.asp)  
+[Contact Form](https://www.novascotia.ca/govt/privacy/privacycontact.asp)  
 
