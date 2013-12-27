@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reed.co.uk privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514012509id_/http%3A//www.reed.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reed.co.uk privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227072813id_/http%3A//www.reed.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy policy - reed.co.uk
 
@@ -42,7 +42,7 @@ We use third-party advertising companies to serve ads when you visit our website
 
 reed.co.uk uses Google Adwords conversion tracking to measure advertising performance and improve the quality of the adverts you see. Find out more about [Google Site Stats](https://services.google.com/sitestats/en.html?cid=1070115141).
 
-To find out about all the cookies reed.co.uk uses and how to manage them, visit our [cookies page](https://web.archive.org/web/20130514012509id_/http%3A//www.reed.co.uk/clearcookies).
+To find out about all the cookies reed.co.uk uses and how to manage them, visit our [cookies page](https://web.archive.org/web/20131227072813id_/http%3A//www.reed.co.uk/clearcookies).
 
 ### How do you remove your name from the database?
 
@@ -50,7 +50,7 @@ Reed is obliged to hold your data for 12 months after it was last used. After 12
 
 ### How do you unsubscribe from future mailings?
 
-If you have a reed.co.uk jobseeker account, you can stop receiving emails by [updating your contact preferences](https://web.archive.org/web/20130514012509id_/http%3A//www.reed.co.uk/account/signin?returnUrl=%2Faccount%2Fedit%2Fpreferences).
+If you have a reed.co.uk jobseeker account, you can stop receiving emails by [updating your contact preferences](https://web.archive.org/web/20131227072813id_/http%3A//www.reed.co.uk/account/signin?returnUrl=%2Faccount%2Fedit%2Fpreferences).
 
 **Registered Office**
 
