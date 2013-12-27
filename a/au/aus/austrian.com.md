@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the austrian.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601020148id_/http%3A//www.austrian.com/Info/LegalRegulations/DataProtection.aspx%3Fsc_lang%3Den%26cc%3DUS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austrian.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227154903id_/http%3A//www.austrian.com/Info/LegalRegulations/DataProtection.aspx%3Fsc_lang%3Den%26cc%3DUS) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,7 +38,7 @@ Your personal data will only be disclosed to third parties if necessary for the 
 **  
 The collection and transmission of personal data to government authorities and national agencies will only be done under legal provisions applicable at the time. 
 
-Please note that all data you provide during a booking may be subject to transmission. For more details, complaints or data information please feel free to contact us on telephone number +43(0)517661000 (at local rates within Austria, Mon-Sun, public holidays 8:00 AM – 8:00 PM) or via email to [AustrianInternet@austrian.com](mailto:AustrianInternet@austrian.com).  
+Please note that all data you provide during a booking may be subject to transmission. For more details, complaints or data information please feel free to contact us on telephone number +43(0)517661000 (at local rates within Austria, Mon-Sun, public holidays 8:00 AM – 8:00 PM) or via our [contact forms](https://web.archive.org/Contact.aspx?sc_lang=en&cc=US).  
 
 APIS data (Advance Passenger Information System):   
 In many countries aviation companies are legally or officially obliged to transmit passenger data before the arrival of the aircraft in the country of destination, if your destination airport or a connecting airport is situated in such country. Those legal provisions as a rule include the transmission of data of identification and travelling documents (passport, visa) of all passengers aboard. As we normally do not have those data, they need to be collected until shortly before departure. This is more and more done by means of the „machine-readable section“ of modern travelling documents. The collection of data exclusively serves the purpose of direct transmission to the authorities of the country of destination. 
