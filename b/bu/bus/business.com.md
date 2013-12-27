@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the business.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625171433id_/http%3A//www.business.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227105641id_/http%3A//www.business.com/info/privacy) for the most accurate reproduction.*
 
 # Business.com - Privacy Policy
 
