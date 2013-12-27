@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the webloggerz.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531200945id_/http%3A//webloggerz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webloggerz.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228002745id_/http%3A//webloggerz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Webloggerz
 
-## **Privacy Policy Document for Webloggerz**
+You are here: [Home](http://webloggerz.com/) » Privacy Policy
 
- **Hi there![Welcome to Webloggerz](http://webloggerz.com/welcome-to-webloggerz/ "Welcome to Webloggerz").**
+### Privacy Policy Document for Web Loggerz
 
-Webloggerz.com respects your privacy and at webloggerz, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by webloggerz.com and how it is used.
+ **Hi there! Welcome to Web Loggerz.**
+
+webloggerz.com respects your privacy and at web loggerz, the privacy of our visitors is of extreme importance. This privacy policy document outlines the types of personal information is received and collected by webloggerz.com and how it is used.
 
 Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of webloggerz.com.
 
@@ -36,8 +38,7 @@ This is done by making use of analytical softwares such as Google Analytics, Bin
 ### Cookies:
 
 We do make use of session cookies, which are used only during a browsing session, and expire as soon you quit your browser.  
-If you wish to disable cookies, you may do so through your individual browser options.  
-More detailed information about cookies can be found at the browsers’ respective websites.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookies can be found at the browsers’ respective websites.
 
 ### Publishing Policy
 
@@ -48,18 +49,18 @@ We accept well-written, knowledge-powered, original articles from tech writers, 
 ### User Comments:
 
 Webloggerz.com allows users to comment on the site. However, we hold all rights to accept or reject any comments based on our discretion.  
-While commenting on this site please refrain from using content that is not suitable.
+While commenting on this site please refrain from using content that is not suitable. Your email address mentioned while posting new comments can be used to send you promotional letters or new posts.
 
 ### Disclaimer
 
-This Site contains links to other sites. Webloggerz is not responsible for the privacy practices of linked sites.  
-Underlined words and phrases are click-through links or hyperlinks to pages and websites.  
-This document applies only to this website.
+This Site contains links to other sites. Underlined words and phrases are click-through links or hyperlinks to pages and websites.
 
-Reproduction or redistribution of the content in the form of text or graphics will be a violation of copyright laws.
+This document applies only to this website. Webloggerz is not responsible for the privacy practices of linked sites.
 
 All pages and graphics on this web site are the property of the company Webloggerz.
 
+Reproduction or redistribution of the content in the form of text or graphics will be a violation of copyright laws.
+
  **For any other information please[Contact Us](http://webloggerz.com/contact-us/ "Contact Us")**
 
- _(This document was last updated on: 16 March 2013.)_
+ _(This document was last updated on: 10 October 2013.)_
