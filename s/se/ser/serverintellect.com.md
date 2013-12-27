@@ -1,23 +1,20 @@
-> *The following text is extracted and transformed from the serverintellect.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615150927id_/http%3A//www.serverintellect.com/terms/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serverintellect.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227111533id_/http%3A//www.serverintellect.com/legal/privacy) for the most accurate reproduction.*
 
-# Server Intellect Privacy Policy
+# Privacy - Server Intellect
 
-##### Acknowledgement & Acceptance of Terms
+## Privacy Policy
 
-Server Intellect is committed to protecting your privacy.
-
+**Acknowledgement & Acceptance of Terms**  
+Server Intellect is committed to protecting your privacy.  
 Server Intellect complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Server Intellect has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor/>
 
-##### Participating Merchant Policies
-
+**Participating Merchant Policies**  
 Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in Server Intellect services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
 
-##### Information We Collect & How We Use It
-
+**Information We Collect & How We Use It**  
 Server Intellect collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
 
-##### Web Server Logs
-
+**Web Server Logs**  
 When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
 
   * Your Internet protocol address.
@@ -31,8 +28,7 @@ When you visit our Website, we may track information to administer the site and 
 
 
 
-##### Use of Cookies
-
+**Use of Cookies**  
 Server Intellect may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you.
 
 One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.
@@ -41,8 +37,7 @@ Server Intellect reserves the right to share aggregated site statistics with par
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
 
-##### Personal Information Users
-
+**Personal Information Users**  
 Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
 
 We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
@@ -54,26 +49,21 @@ We will not disclose personally identifiable information we collect from you to 
 
 
 
-##### Use of Web Beacons or GIF files
-
-Server Intellect / www.serverintellect.com Web pages may contain electronic images known as Web beacons - sometimes also called single-pixel gifs - that allow Server Intellect to count users who have visited those pages and to deliver co-branded services. Server Intellect may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
+**Use of Web Beacons or GIF files**  
+Server Intellect / www.serverintellect.com Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow Server Intellect to count users who have visited those pages and to deliver co-branded services. Server Intellect may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
 
 Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. Server Intellect prohibits Web beacons from being used to collect or access your personal information.
 
-##### Accessing Web Account Information
-
+**Accessing Web Account Information**  
 We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to sales@serverintellect.com or contacting us via phone at (321) 332-6825.
 
-##### Changes to this Statement
+**Changes to this Statement**  
+Server Intellect has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates
 
-Server Intellect has the discretion to occasionally update this privacy statement. When we do, we will also revise the "updated" date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates
+**Implementation**  
+Server Intellect has established internal mechanisms to verify its continued observations to its privacy policy, including the Safe Harbor principles. Server Intellect reassures those covered by this privacy policy that has any concerns about our processing of personal information to contact us the address below. We will attempt to resolve any concerns or complaints. Server Intellect has also agreed to participate in the dispute resolution program by the EU Data Protection Authorities.
 
-##### Implementation
-
-Server Intellect has established internal mechanisms to verify its continued observations to its privacy policy, including the Safe Harbor principles. Server Intellect reassures those covered by this privacy policy that has any concerns about our processing of personal information to contact us the address below. We will attempt to resolve any concerns or complaints. Server Intellect has also agreed to participate in the dispute resolution program by the EU Data Protection Authorities. 
-
-##### Contacting Us
-
+**Contacting Us**  
 If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us or send your comments to:
 
 Server Intellect  
@@ -83,10 +73,4 @@ Orlando, FL 32826
 
 Server Intellect will use commercially reasonable efforts to promptly respond and resolve any problem or question.
 
-_Acceptance of the Master Service Agreement incorporating the[Terms of Service](https://web.archive.org/terms/tos.aspx), [Acceptable Use Policy](https://web.archive.org/terms/aup.aspx), [Service Level Agreement](https://web.archive.org/terms/sla.aspx) and [Privacy Agreement](https://web.archive.org/terms/privacy.aspx) hereby initiates billable services and is deemed complete by agreement to the terms as described on the online signup form(s) and completion of the ordering process._
-
-**Have questions? Ready to order?** Call us at **(800) 317-8552**
-
-   
-
-[](https://processing.serverintellect.com/)
+_Acceptance of the Master Service Agreement incorporating the Terms of Service, Acceptable Use Policy, Service Level Agreement and Privacy Agreement hereby initiates billable services and is deemed complete by agreement to the terms as described on the online signup form(s) and completion of the ordering process._
