@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the members1st.org privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617000038id_/http%3A//www.members1st.org/media/22257/privacy_notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the members1st.org privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227222635id_/http%3A//www.members1st.org/media/22257/privacy_notice.pdf) for the most accurate reproduction.*
 
 # FACTS
 
