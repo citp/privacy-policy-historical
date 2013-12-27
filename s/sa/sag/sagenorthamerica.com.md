@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sagenorthamerica.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121002626id_/http%3A//na.sage.com/Sage-NA/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sagenorthamerica.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227120405id_/http%3A//na.sage.com/Sage-NA/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Sage
 
 Sage is committed to the security and privacy of our customer’s data. This Privacy Policy explains our commitment to safeguarding our customers’ data and serves as our agreement with our customers and other parties about our data handling practices. This policy lists the types of data we collect, explains how we use and protect that data, and discloses our key procedures surrounding privacy.
 
