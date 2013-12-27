@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franchisezing.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607203045id_/http%3A//www.franchisezing.com/franchise/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisezing.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227044843id_/http%3A//www.franchisezing.com/franchise/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FranchiseZing
 
@@ -27,4 +27,4 @@ You can access all your personally identifiable information that we collect and 
 
 ### How to contact us?
 
-If you have other questions or concerns about these privacy policies, please write to us at[ info@franchisezing.com](mailto:info@franchisezing.com)
+If you have other questions or concerns about these privacy policies, please write to us at[ info@franchisezing.in](mailto:info@franchisezing.in)
