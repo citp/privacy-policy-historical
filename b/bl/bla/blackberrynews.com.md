@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blackberrynews.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630091244id_/http%3A//lifeonmymobile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackberrynews.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227065309id_/http%3A//lifeonmymobile.com/privacy) for the most accurate reproduction.*
 
-# Privacy PolicyLife On My Mobile | Life On My Mobile
+# Privacy Policy | Life On My Mobile
 
 This Privacy Policy governs the manner in which Life On My Mobile collects, uses, maintains and discloses information collected from users (each, a “User”) of the LifeOnMyMobile.Com website (“Site”). This privacy policy applies to the Site and all products and services offered by Life On My Mobile.
 
