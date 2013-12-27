@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the martijndevisser.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604073444id_/http%3A//mdvisser.nl/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the martijndevisser.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227192929id_/http%3A//mdvisser.nl/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Martijn de Visser
 
