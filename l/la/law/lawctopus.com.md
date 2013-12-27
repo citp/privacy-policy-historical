@@ -1,44 +1,33 @@
-> *The following text is extracted and transformed from the lawctopus.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230212612id_/http%3A//www.lawctopus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawctopus.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227051931id_/http%3A//www.lawctopus.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Lawctopus Policies » Lawctopus
+# Privacy Policy - Lawctopus
 
-## Policies
+Lawctopus is committed to protect the privacy of all its users. In terms of our Privacy Statement:
 
-We are committed to protect all personally identifiable information and strive for protecting privacy of our users. Please read this document carefully. Suggestions to change/edit/modify these rules are always welcome.
+1\. Once registered on Lawctopus, your username which you provide will be visible to other users of Lawctopus.
 
-**What information do we collect?** We collect information from you when you subscribe to our newsletter, respond to a survey or fill out a form.When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or phone number.
+2\. Any comments posted on Lawctopus or posts made via the forums of Lawctopus are readable by the public.
 
-We may also collect information about your computer, your IP address and your use of this website.
+3\. We reserves the right to contact you via the email address you provide, at any time, including but not limited to when you comment, post in forums, or get in touch over the contact forms on the website.
 
-**What do we use your information for?** Any of the information we collect from you may be used in one of the following ways:• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+4\. We will at all times keep your identity and email address confidential, subject to this Privacy Statement and the Terms and Conditions.
 
-• To administer a contest, promotion, survey or other site feature
+5\. In order to improve Lawctopus we may collect, store and use your personal data, including:
 
-**How do we protect your information?** We take reasonable care to maintain the safety of your personal information when you enter, submit, or access your personal information. Although we cannot guarantee that any of these measures are foolproof. Please do not submit any information which you would want to keep confidential. **Do we use cookies?**
+  *  information about your computer, your IP address and your use of Lawctopus;
+  *  information that you provide when you register with Lawctopus; and
+  *  any other information that you choose to send to Lawctopus.
 
-We do not use cookies.
 
-**Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
+6\. We will take all reasonable care and security precautions to safeguard your personal data and prevent its loss and misuse. However, we cannot guarantee the security or privacy of information or data sent over Internet connections.
 
-We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
+7\. We will not share your personal information with third parties without your permission. Unless our ownership changes or we merge or enter into a joint-venture with another party; or we are required to do so under any law, or in connection with any legal proceedings and/or to defend our legal rights.
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+8\. We may transfer any information we store and use between any of the countries in which we operate in order to assist us in providing our services.
 
-**Third party links** Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+9\. We may use third-party advertising companies to serve ads when you visit Lawctopus. These companies may use information (not including your name, address, email address, or telephone number) about your visits to Lawctopus in order to provide advertisements about the products and services of interest to you.
 
-**Your Consent**
+10\. We reserve the right to update, change or modify this Privacy Statement at any time. The Statement shall come to effect from the date of such update, change or modification.
 
-By using our site, you consent to our website’s privacy policy.
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or send an email notifying you of any changes.
-
-This policy was last modified on October 2, 2010.
-
-**Governing Law and Jurisdiction**
-
-****These terms shall be governed by and interpreted in accordance with the laws of India and especially the Information Technology Act, 2000. All relevant rules, regulations, directions, orders and notifications will also apply. The Courts in Kolkata  shall have exclusive jurisdiction to the exclusion of other courts.
+[Read More ](http://www.lawctopus.com/privacy-policy-2/)
