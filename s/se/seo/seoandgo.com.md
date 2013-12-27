@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoandgo.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605011345id_/http%3A//www.seoandgo.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoandgo.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227134029id_/http%3A//www.seoandgo.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # SEO&GO - Privacy Policy
 
