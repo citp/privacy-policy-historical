@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraft-server-list.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604190626id_/http%3A//minecraft-server-list.com/minelog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraft-server-list.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227135836id_/http%3A//minecraft-server-list.com/minelog/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / Statement - Minecraft-server-list.com | Minecraft Server List Minelog
 
@@ -37,8 +37,3 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
 Privacy policies have been updated: 2011.04.14
-
-**GD Star Rating**  
- _loading..._
-
-Privacy Policy / Statement - Minecraft-server-list.com, 7.6 out of 10 based on 24 ratings 
