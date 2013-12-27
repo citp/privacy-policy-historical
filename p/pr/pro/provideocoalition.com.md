@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the provideocoalition.com privacy policy that was archived on 2013-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130323081119id_/http%3A//www.createasphere.com/En/pdfs/CS-Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the provideocoalition.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227091105id_/http%3A//createasphere.com/pdfs/CS-Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy and Your Privacy Rights
 
