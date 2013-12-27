@@ -1,55 +1,88 @@
-> *The following text is extracted and transformed from the topsylabs.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627054754id_/http%3A//about.topsy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topsylabs.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227205317id_/http%3A//about.topsy.com/privacy) for the most accurate reproduction.*
 
 # Topsy | Privacy Policy
 
-Topsy Labs, Inc. (“Topsy”) knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting Topsy’s website at www.topsy.com or otherwise using any of Topsy’s services (the “Service”), you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+  * [Support](http://about.topsy.com/support/ "Support")
+    * [Topsy Social Search](http://about.topsy.com/support/search/ "Topsy Social Search")
+    * [Topsy Pro Analytics](http://about.topsy.com/support/proanalytics/ "Topsy Pro Analytics")
+    * [Topsy API Services](http://about.topsy.com/support/api/ "Topsy API Services")
 
-### What Does This Privacy Policy Cover?
 
-This Privacy Policy covers Topsy’s treatment of personally identifiable information (”Personal Information”) that Topsy gathers when you are accessing the Service. This policy does not apply to the practices of companies that Topsy does not own or control, or to individuals that Topsy does not employ or manage.
 
-### What Personal Information Does Topsy display or Collect?
+## Privacy Policy 
 
-The information we gather from users enables us to personalize and improve our Service. Topsy does not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Service or send any information about yourself to us.
+**LAST UPDATED: November 26, 2013  
+**
 
-We may collect the following types of information from our users.
+**IMPORTANT UPDATE** :
 
-### Information Collected from Other Services:
+We’re updating our Privacy Policy to highlight our new collaboration with Apple Inc. Our new Privacy Policy is effective November 26, 2013. To learn about how we treat information collected prior to November 26, 2013, please click [here](http://about.topsy.com/privacy-policy-previous).
 
-Topsy may collect and display information about you that is publicly available on other websites. We access such information in accordance with the data access policies of the websites and applicable user specific privacy settings. If you wish to have your information excluded from Topsy, you may be able to adjust the account privacy settings of your service provider to prevent your information from being publicly accessed. You may also contact us via email at support@topsy.com.
+**TOPSY PRIVACY POLICY**
 
-### Personal Information You Provide to Us:
+Topsy Labs, Inc. (“Topsy”) cares about privacy and wants you to be familiar with how we collect, use and disclose personal information.  We may collect personal information you provide to us on www.topsy.com or other sites where this Privacy Policy is posted (collectively, the “ **Sites** ”). Topsy may also collect personal information that is publically available on third party sites and then make that data searchable on the Sites (the “ **Services** ”).  By using the Sites or the Services provided, you are consenting to the collection, transfer, and disclosure of your information as described in this Privacy Policy.
 
-We receive and store any information you enter on the Service or provide to us in any other way. You may choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The Personal Information you provide is used for such purposes as responding to your requests for certain information, products and services, customizing the advertising and content you see, and communicating with you about specials and new features.
+**Information COLLECTED**
 
-### Information Collected Automatically:
+“Personal Information” is information that identifies you as an individual, such as your first and last name or email address. We receive this Personal Information when you provide it directly to us on our Sites.
 
-We receive and store certain types of information whenever you interact with the Service. Topsy automatically receives and records information on our server logs from your browser including your IP address, search queries, Topsy cookie information, and the page you requested. We also record the details of your activity on the Service.
+In addition, Topsy may also collect information about you, some of which may constitute Personal Information that you have made publically available on third party sites (“Public Information”). If you do not want Public Information about you included in the Services, we recommend that you adjust the privacy settings of any third party site you use. You may also contact Topsy via email at [support@topsy.com](mailto:support@topsy.com) to request that Topsy delete Personal Information about you. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law.
 
-Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our site and its components. Topsy only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often users use parts of the Service so that we can make the Service appealing to as many users as possible, and improve the Service. As part of this use of information, we may provide aggregate information to our partners about how our users, collectively, use our site. We share this type of statistical data so that our partners also understand how often people use their services and the Service, so that they, too, may provide you with an optimal online experience. Again, Topsy never discloses aggregate information to a partner in a manner that would identify you personally.
+**USE of Personal Information**
 
-### What About Cookies?
+Topsy may use Personal Information you provide directly to us to respond to your inquiries, notify you of important changes to our Services and fulfill your requests.  We use Public Information to provide an index of the public social web and to improve our product offerings and Services.  This allows users of our Sites and Services to view data aggregated across social networking sites, analyze trends on various topics and identify key thoughts, opinions and content over time or in real time.   All data, including Personal Information, is processed by Topsy on servers located in the United States.
 
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. Topsy cookies do not collect Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are or what your screen name or email address is.
+**Disclosure of Personal Information  **
 
-Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of the Service’s most attractive features.
+Topsy may share Personal Information with third parties who provide Topsy with services such as website hosting, data analysis, information technology and related infrastructure provision, customer service, email delivery, and auditing.  These companies are obligated to protect your Personal Information in accordance with this Privacy Policy.
 
-Ads appearing on the Service may be delivered to users by our advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Topsy and does not cover the use of cookies by any advertisers.
+Topsy may share Public Information that contains Personal Information with users of the Services.
 
-### Will Topsy Share Any of the Personal Information it Receives?
+Topsy may share Personal Information with a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, or assets (including in connection with any bankruptcy or similar proceedings).
 
-Personal Information about our users is an integral part of our business. We neither rent nor sell your Personal Information to anyone. Topsy reserves the right to release Personal Information when we believe in good faith that release is necessary to comply with the law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of others.
+Topsy may share Personal Information or Public Information that contains Personal Information with its parent, Apple Inc.  Apple will treat such information in compliance with the Apple Privacy Policy.  In no event will Apple combine the personal information it has about an individual with any Personal Information collected by Topsy about that same individual without first obtaining his or her consent.
 
-### Links to Other Sites
+Topsy will also disclose information as it deems necessary or appropriate: (i) under applicable law, including laws outside your country of residence; (ii) to comply with legal process or respond to exigent circumstances; (iii) to respond to requests from public and government authorities, including public and government authorities outside your country of residence; (iv) to enforce the Topsy terms and conditions; (v) to protect our operations or those of any of our affiliates; (vi) to protect Topsy and its customers’ rights, privacy, safety or property; and (vii) to allow us to pursue available remedies or limit the damages that we may sustain.
 
-The Service contains links to other sites. Topsy is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. This Privacy Policy only governs information collected on the Service.
+**OTHER Information**
 
-### Changes to this Privacy Policy
+We and our third party service providers may also collect and use information not tied to any Personal Information that does not identify you as an individual.  Such information includes browser and device information, demographic data and aggregated data as well as the following:
 
-Topsy may make changes to this Privacy Policy from time to time for any reason. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you via e-mail or by posting an announcement on the Service. Users are bound by any changes to the Privacy Policy when he or she uses the Service after such changes have been first posted.
+  * • Data about your access or use of Services:  When you access or use our Services, we and our service providers may track, collect, and process usage data, such as your search queries, web pages that you requested, your activity on the Services, and errors you have encountered.
 
-### Questions or Concerns
 
-If you have any questions or concerns regarding privacy at Topsy, please send us a detailed message to support@topsy.com. We will make every effort to resolve your concerns.
+  * 〈 Cookies and other Technologies:  Cookies are pieces of information stored directly on the computer that you are using.  Cookies allow us and our service providers to collect information such as browser type, session information, time spent on the Services, pages visited, and anonymous traffic data. We and our service providers use the information for internal purposes such as security purposes, to facilitate navigation, display information more effectively, and to personalize your experience while using the Services.  We also gather statistical information about the use of the Services in order to continually improve their design and functionality, understand how they are used and to assist us with resolving questions regarding them.
 
-Updated as of: October 13, 2009
+
+
+If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies.  If you do not accept cookies, however, you may be unable to take advantage of some of the features of our Services.
+
+  * 〈 IP Address:  Your “IP Address” is a number that is automatically assigned by your Internet Service Provider to the computer that you are using.  An IP Address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) that were visited.  Collecting IP Addresses is standard practice and is done automatically by many websites, applications and other services.  We use IP Addresses for internal purposes such as calculating usage levels of the Services, helping diagnose server problems, and administering the Services.  Log files containing IP addresses will be retained for a maximum of one year and then deleted.
+
+
+
+We may use and disclose the information described above for any purpose, except where prohibited by law. If we combine this data with Personal Information, we will treat it as Personal Information as long as it is combined.
+
+**THIRD PARTY SERVICES**
+
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site or service to which the Services link.  The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our affiliates.  We encourage you to familiarize yourself with the privacy practices of such third parties.
+
+**Security**
+
+Topsy takes precautions — including administrative, technical, and physical measures — to safeguard Personal Information against loss, theft, and misuse, as well as against unauthorized access, disclosure, alteration, and destruction.
+
+**use by MINORS**
+
+The Topsy Sites and Services are not directed to individuals under the age of thirteen (13), and children under 13 may not submit Personal Information through the Sites or Services. If we learn that we have collected the Personal Information of a child under 13 we will delete the information as soon as possible.
+
+**Do Not Track**
+
+Some browsers have incorporated “Do Not Track” (“DNT”) features.  We interpret the DNT feature to apply to third party tracking on a website.  Since we do not allow third parties to track users on our Sites, we take no action when we receive a DNT signal.
+
+**UPDATES TO THIS PRIVACY POLICY**
+
+We may change this Privacy Policy.  The “Last Updated” legend at the top of this page indicates when it was last revised.  Any changes will become effective when we post the revised Privacy Policy on the Services.  If we make material changes in the way we use Personal Information, we will notify you via e-mail or by posting an announcement on this Privacy Policy. Your use of the Services following these changes means that you accept the revised Privacy Policy.
+
+CONTACTING US
+
+If you have any questions about this Privacy Policy, please contact us at support@topsy.com.
