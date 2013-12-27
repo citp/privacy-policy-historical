@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the natural-holistic-health.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627155403id_/http%3A//www.natural-holistic-health.com/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natural-holistic-health.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227222243id_/http%3A//www.natural-holistic-health.com/contact-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Natural Holistic Health Blog
+# Privacy Policy
 
 ## This is what we collect about you when you come to our site
 
