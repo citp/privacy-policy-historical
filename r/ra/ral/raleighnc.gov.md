@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raleighnc.gov privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628191702id_/http%3A//www.raleighnc.gov/home/content/ITechWebServices/Articles/WebPrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raleighnc.gov privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227192319id_/http%3A//www.raleighnc.gov/home/content/ITechWebServices/Articles/WebPrivacyPolicy.html) for the most accurate reproduction.*
 
 # Web Privacy Policy - The Official City of Raleigh Portal
 
