@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrpopat.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603105326id_/http%3A//mrpopat.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrpopat.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227195635id_/http%3A//mrpopat.in/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Ploicy - MrPopat | Privacy Ploicy Document of MrPopat | Privacy Ploicy Doc of MrPopat | Read Privacy Ploicy Document of MrPopat | Safe Browsing | Safe Yourself
 
@@ -24,10 +24,10 @@ MrPopat processes personal information only for the purposes for which it was co
 
 **Enforcement**
 
-MrPopat regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or MrPopat's treatment of personal information by contacting us through this web site or by e-mailing to us at info@mrpopat.com When we receive complaints at this address, it is MrPopat's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities to resolve any complaints regarding the transfer of personal data that cannot be resolved between MrPopat and an individual. 
+MrPopat regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or MrPopat's treatment of personal information by contacting us through this web site or by e-mailing to us at info@mrpopat.in When we receive complaints at this address, it is MrPopat's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities to resolve any complaints regarding the transfer of personal data that cannot be resolved between MrPopat and an individual. 
 
 **Your choices**
 
 You can update your profile information at any time on the MrPopat website. You can terminate your account at any time. If you terminate your account, your profile, including any messages in your inbox, will be removed from the site and deleted from MrPopat servers. Because of the way we maintain this service such deletion may not be immediate, and residual copies of your profile information may remain on backup media. Changes to this policy Please note that this Privacy Policy may change from time to time. We will post any Policy changes on this page. Your continued use of MrPopat constitutes an affirmative acknowledgement by you of the Policy changes. Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review. 
 
-If you have any additional questions or concerns about this Policy, please feel free to contact us through e-mail any time at **info@mrpopat.com**
+If you have any additional questions or concerns about this Policy, please feel free to contact us through e-mail any time at **info@mrpopat.in**
