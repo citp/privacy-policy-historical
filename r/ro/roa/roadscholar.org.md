@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadscholar.org privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502192629id_/http%3A//www.roadscholar.org/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadscholar.org privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227121027id_/http%3A//www.roadscholar.org/about/privacy.asp) for the most accurate reproduction.*
 
 # Road Scholar : Privacy Policy
 
@@ -20,7 +20,7 @@ When you are conducting an account transaction or registering to receive the Roa
 
 You can verify our compliance at any time by clicking on the VeriSign logo located on our registration form.
 
-If you feel uncomfortable completing your registration via our website, please feel free to contact our registration staff toll-free: 1-800-454-5768 Monday through Friday, 8 a.m. to 6 p.m. Eastern Time.
+If you feel uncomfortable completing your registration via our website, please feel free to contact our registration staff toll-free: 1-800-454-5768, Monday-Friday: 8 a.m. to 7 p.m. EST.
 
 **How we use "cookies" information:**
 
@@ -44,8 +44,7 @@ Boston, MA 02111-1746
 
 Call us toll-free at  
 1-800-454-5768,   
-Monday thru Friday   
-8 AM - 6PM, ET. 
+Monday-Friday: 8 a.m. to 7 p.m. EST 
 
 You can also fax us toll-free at   
 1-877-426-2166
@@ -65,15 +64,15 @@ Add price, activity level and more.
   
 
 
-[ ](http://www.roadscholar.org/lps/blog_participants.asp?cm_sp=Plug-_-Boomer-_-PaxBlog#Read_Tom_s_Blog)
-
-[](https://roadscholar.webex.com/mw0307l/mywebex/default.do?nomenu=true&siteurl=roadscholar&service=6&rnd=0.830520127375991&main_url=https%3A%2F%2Froadscholar.webex.com%2Fec0606l%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Dlandingfrommail%26confViewID%3D1003744097%26%26email%3Dwebex%2540roadscholar.org%26%26encryptTicketRegister%3D83f4d07842e2600776745f540a07935c%26siteurl%3Droadscholar)
+[ ](http://www.expeditionsbytricia.blogspot.com/?cm_sp=Plug-_-Boomer-_-PaxBlog)
 
 [ ](http://www.roadscholar.org/programs/enewslanding.asp?ecode=AWP&layout=PL&cm_sp=Plug-_-Boomer-_-TopRatedB611)
 
 [ ](http://www.roadscholar.org/programs/special_offers.asp?cm_sp=Plug-_-Boomer-_-SpecialOffers)
 
-Tell a friend about Road Scholar and this month you could win a [**$800 gift certificate!**](http://www.roadscholar.org/forms/referafriend_form.asp?src=DEE?cm_sp=Plug-_-Boomer-_-RAF1211B)   
-**Congratulations to our latest winner, Carl E. & Sammie L.**
+Tell a friend about Road Scholar and this month you could win an [**$800 gift certificate!**](http://www.roadscholar.org//n/forms/referafriend_form.aspx?src=DEE&cm_sp=Plug-_-Boomer-_-RAF1211B)   
+**Congratulations to our latest winner, Michael & Evelyn S.**
 
-[ ](http://www.roadscholar.org//about/gift_certificate.asp)
+[ ](http://www.ptxstore.com/roadscholar/?cm_sp=Plug-_-Boomer-_-store)
+
+[ ](http://www.roadscholar.org//n/country/country.aspx?regioncode=canada&cm_sp=Plug-_-Boomer-_-Canada1213)
