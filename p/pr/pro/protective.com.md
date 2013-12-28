@@ -1,89 +1,41 @@
-> *The following text is extracted and transformed from the protective.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219074921id_/http%3A//www.protective.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protective.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228201654id_/http%3A//www.protective.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Protective Life: Privacy Policy
 
-Please refer to the privacy notice of the appropriate company for additional details. 
+## ****
 
-## Privacy Notice
+**Effective July  17** **, 2013**  
 
-PROTECTIVE LIFE INSURANCE COMPANY  
-P.O. Box 12687  -   Birmingham, AL 35202
+Protective Life recognizes that protecting the privacy and security of personal information is an important responsibility. This Online Privacy Policy notice tells you how we treat personal information that you share with us online, and the measures we take to safeguard that information.
 
- Protecting the privacy of information about our customers is important. This notice tells you how we treat information about our customers. We treat information about our former customers the same as we treat information about our current customers.
+This notice refers to Protective Life and its affiliated companies using the terms "we," "us," and "our."   
 
-We do not sell information about our customers. We maintain physical, electronic and procedural safeguards to protect it. Access to customer information is limited to people who need access to do their jobs.
+**Using Our Websites and Sharing Personal Information with Us**  
 
-We get most of the information we need from customer applications and other forms. If a customer authorizes it, we may get information from others. For example, when a person applies for life insurance we may ask for permission to get information from:
+You can access extensive information about our products on our websites and social media sites without sharing any personal information with us.   
 
-  * Insurance support organizations such as the Medical Information Bureau and 
-  * Consumer reporting agencies
+We may also provide online tools and resources that allow you to share personal information with us.  Those tools and resources are designed to use personal information so that we can give you a personalized response to an inquiry, or provide you with information about services and products that may meet your needs.  When you share personal information with us for these purposes, we may share that information with our affiliates, or with other companies who help us respond to your questions or market our own products to you.  We will not share personal information with anyone else unless we have your permission, or we are allowed or required by law to disclose it.
 
+**How We Safeguard Personal Information**  
 
+We maintain physical, electronic and procedural safeguards to protect personal information.  Any personal information you provide to us on our website is encrypted during transmission and then stored on a secure server.    
 
-We also get information as we process customer transactions. The information we may have includes:
+We require that our service providers limit their use of the information we share and keep it confidential.
 
-INFORMATION such as:
+**Important Information for Protective Life Customers**  
 
-  * Name 
-  * Address 
-  * Telephone Number 
-  * Demographic Data
+If you are a Protective Life client or policyholder, please also review our [Customer Privacy Policy](https://web.archive.org/customer-privacy-policy.aspx "Customer Privacy Policy").
 
+**Limited Anonymous Information We Receive from Visitors to Our Websites**  
 
+Like many websites, we collect some information about our users and their website use experience that is not personal information.  For example, some websites and pages within our sites use "cookies."  A cookie is a small file that is stored on your hard drive and contains no personally identifiable information about you or your usage of our websites.  A cookie cannot read data off your hard drive or read cookie files created from other websites.  You are free to decline our cookie if your browser has been set to prompt or decline cookies.   
 
-FINANCIAL INFORMATION such as:
+We may also collect similar anonymous data using web beacons or other tracking or targeting mechanisms.  Like cookies, these technologies do not collect or transmit personal information.
 
-  * Credit History 
-  * Income, Assets 
-  * Other Insurance Products
+**Linked Internet Websites**  
 
+We may provide links to other websites, including the websites of our subsidiaries, affiliates, and third parties whose information we believe you may find useful.  When you leave our website and go to a linked website, your use of that website is subject to the privacy policy of that website.  We recommend you review the privacy policy of any linked website.
 
+**Keeping Up To Date with our Online Privacy Policy**  
 
-HEALTH INFORMATION such as: 
-
-  * Medical history 
-  * Other factors affecting insurability
-
-
-
-We use the information for business purposes, such as:
-
-  * processing applications and claims 
-  * servicing your business 
-  * offering you other products and services
-
-
-
-We share the information with others who provide services to help us process or administer our business. For example, we may share information with:
-
-  * a company that prints our customer statements 
-  * medical examiners who help us underwrite life insurance applications
-  * service providers who help us process claims 
-
-
-
-We require that our service providers limit their use of the information and keep it confidential. We will not share information with anyone else unless:
-
-  * we have the customer’s permission 
-  * we are allowed or required by law to disclose it 
-
-
-
-You should know that your insurance sales agent is independent. The use and security of information an agent gets is his or her responsibility. Please contact your agent if you have questions about his or her privacy policy.
-
-We have the right to change our Privacy Policy. If we make a material change to our Privacy Policy, we will notify you before we put it into effect. 
-
- Privacy 2004  
-Effective Date 12/07/04
-
-## ProEquities, Inc.
-
-To read the Privacy Policy of our subsidiary, ProEquities, please visit: 
-
-<http://www.proequities.com/privacy.aspx> 
-
-## Asset Protection Division
-
-To read the Privacy Policy of our Asset Protection Division, please visit:
-
-<http://www.protectiveassetprotection.com/PrivacyPolicy.aspx> 
+We have the right to change our Online Privacy Policy.  If we make a material change to this policy, we will post a notification on our website before we put the change into effect.   
