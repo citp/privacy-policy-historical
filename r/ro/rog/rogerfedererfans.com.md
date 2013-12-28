@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rogerfedererfans.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509120208id_/http%3A//www.rogerfedererfans.com/forum/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rogerfedererfans.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228054529id_/http%3A//www.rogerfedererfans.com/forum/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Roger Federer Fans
 
