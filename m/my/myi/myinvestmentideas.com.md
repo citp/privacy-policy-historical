@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the myinvestmentideas.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529235617id_/http%3A//myinvestmentideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myinvestmentideas.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228041446id_/http%3A//myinvestmentideas.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | myinvestmentideas.com
+
+## Privacy Policy
 
 At [myinvestmentideas.com](http://myinvestmentideas.com/), the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by [myinvestmentideas.com](http://myinvestmentideas.com/) and how it is used.
 
