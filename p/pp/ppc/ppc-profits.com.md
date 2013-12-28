@@ -1,53 +1,63 @@
-> *The following text is extracted and transformed from the ppc-profits.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228182018id_/http%3A//ppc-profits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppc-profits.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228030101id_/http%3A//ppc-profits.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PPC Profits
+# Privacy Policy for My House Sell
 
-[](https://web.archive.org/web/20090228182018id_/http%3A//ppc-profits.com/index.php "PPC Profit Home") [PPC Profits](https://web.archive.org/web/20090228182018id_/http%3A//ppc-profits.com/index.php "PPC Profits Home") -> Privacy Policy
+**Privacy Policy**
 
-  * Our Commitment To Privacy
-  * The Information We Collect
-  * How We Use Information
-  * Our Commitment To Data Security
-  * Our Commitment To Children's Privacy
-  * How To Access Or Correct Your Information
-  * How To Contact Us
+This website, www.myhousesell.co.uk, is owned and operated by Grant and Co Consultants Ltd registered in England and Wales under Company No. 06836125.  Our privacy policy covers:
+
+  * Disclosure of information,
+  * Personal information,
+  * Use of cookies,
+  * Email
+  * Third party sites
 
 
 
-**Our Commitment To Privacy**
+We have written this policy with you in mind.  We want you to feel confident in our services and we take handling personal information very seriously. If at any point you feel we have failed to adhere to our privacy policy please contact us in writing at My House Sell, 4a Front Street, Stockton on Tees, TS21 3AT.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+Disclosure of Information
 
-**The Information We Collect:**
+The Data Protection Act 1998 (DPA) was enacted in the United Kingdom so the country was able to comply with the European Union directive on data protection published in 1995.  More information on the Data Protection Act 1998 can be found here (link to <https://www.gov.uk/data-protection/the-data-protection-act>)
 
-This notice applies to all information collected or submitted on the PPC Profits website. You do not need to register to use this web site. When you register we ask for information such as your name, email address, and country of origin. Once you register with us and sign in to our services, you are not anonymous to us. 
+The DPA 1998 is the defining act in UK Law governing the processing of data on identifiable living people.  Put simply, it sets out how your personal information should be protected by those that have it.
 
-**The Way We Use Information:**
+Grant and Co Consultants Ltd is registered under the Data Protection Act 1998 and complies completely with the entire act. We are extremely careful in protecting against unauthorised access, use, distribution or dissemination of any of your personal information.
 
-You do not need to register to use this web site. When you register we ask for information such as your name, email address, and country of origin. Once you register with us and sign in to our services, you are not anonymous to us. We do not share this information with outside parties except to the extent necessary to complete that order. 
+The My House Sell team, contractors working on our behalf and any authorised agents have a duty of care to keep your information completely confidential.  Your information will only be used in relation to offering you the best possible service for the reason we are connected.
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
+Unless you have given us express permission, your personal information (e.g. name, address, telephone number, email address etc) will not be passed or sold to any third party organisation for any reason (i.e. marketing, sales generation etc).  We will only use your information for the purposes to which you have agreed.
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
+The Internet does not provide a completely secure medium in which to operate.  To maximise the protection of your personal data however we have a number of measures in place to offer the highest security possible.  These measures include password protection on all computers, laptops, tablets and phones that are able to access your information, internet security software preventing spyware, malware and any other form of destructive or data capture virus, data backup measures and firewalls.
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+Personal Information
 
-**Our Commitment To Data Security**
+To use our website, www.myhousesell.co.uk, you do not need to register with us.  That said, we would like to be able to assist you in the quickest way possible with your enquiry.  In order for us to do this we would encourage you to register your enquiry with us and allow us to contact you to discuss further.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+Once you have entered your enquiry on the website and completed the basic information we are in a stronger position to be able to help you.  The reason we ask for the questions is not to invade your privacy but to give us a clearer indication of your situation and allowing us to offer the best solution for you.  By registering your enquiry with My House Sell you are authorising us to use your personal information as set out in this policy.
 
-**Our Commitment To Children's Privacy:**
+If you do not register with us, the personal data collected is minimal and generally takes the form of a cookie.
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
+If your personal information changes, for example if you change your name or telephone number, please let us know by emailing [info@myhousesell.co.uk](mailto:info@myhousesell.co.uk).
 
-**How You Can Access Or Correct Your Information**
+Use of Cookies
 
-You can access all your personally identifiable information that we collect online and maintain by contacting us via email. We use this procedure to better safeguard your information. 
+A ‘cookie’ is an automated collection of information that is held on your computer, tablet or mobile phone which enables websites such as ourselves to recognise when you visit us on every subsequent occasion.
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+We are unable to recognise you if you visit us from a different computer, tablet or mobile phone unless you have registered your enquiry with us.
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+Websites owned and operated by Grant and Co Consultants Ltd use cookies to help us tailor your experience when you visit us and will also remind you if you have registered with us previously.
 
-**How To Contact Us**
+If you prefer not to use a cookie when you browse the internet, web browsers such as Internet Explorer and Netscape offer you the option of disabling cookies.  It is important to know that if you choose to do this your experience with our website may suffer as a consequence as we are unable to tailor your enquiry with us.
 
-Should you have other questions or concerns about these privacy policies, send us an email at contact at ppc-profits dot com.
+You can learn more about cookies here (insert link to [www.allaboutcookies.org](http://www.allaboutcookies.org/))
+
+Email
+
+The Privacy and Electronic Communications Regulations 2003 in the United Kingdom gives guidance on the use of email and other electronic forms of communication.  Grant and Co Consultants Ltd understand the seriousness of email security and we store your email information as securely as any other personal data we have.  By registering your enquiry with us you authorise us to communicate with you by email.  We will not send you unwanted emails at any time and, as with all of your information, your email address will not be passed to any organisation without your permission.  By registering with us, you allow us to send automated email to you which we think would be of interest to you.  You can opt out of receiving emails from us at any time.  Simply write to us at My House Sell, 4a Front Street, Stockton on Tees, TS21 3AT.
+
+Third Party Sites
+
+Any site that you link to from this site is considered a Third Party site and therefore is not covered by this Privacy Policy.  We accept no responsibility for the content, actions or policies of any Third Party site you visit.
+
+This policy was updated on 10th May 2013
