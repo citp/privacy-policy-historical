@@ -1,44 +1,30 @@
-> *The following text is extracted and transformed from the apkdrawer.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628073334id_/http%3A//www.apkdrawer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apkdrawer.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228110507id_/http%3A//www.apkdrawer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ApkDrawer
 
-**What information do we collect?**
+The privacy of our visitors at ApkDrawer.com is extremely important to us.
 
-We collect information from you when you subscribe to our newsletter.
+At ApkDrawer.com, we recognize that privacy of your personal information is important. Here are the information on what types of personal information we receive and collect when you use visit ApkDrawer.com, and how we safeguard your information. **We will never sell your personal information to third parties**.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.
+### Log Files
 
-**What do we use your information for?**
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-Any of the information we collect from you may be used in one of the following ways:
+### Cookies and Web Beacons
 
-; To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+We do use cookies to store information, such as your personal preferences when you visit our site. This may allow us to keep you logged into special site features such as our Forums, or automatically fill in data for you in various forms.
 
-**Do we use cookies?**
+We also use third party advertisements on ApkDrawer.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Infolinks through ad program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (for example showing Los Angeles real estate ads to someone in Los Angeles) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequently visit cooking sites).
 
-We do not use cookies.
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-**Do we disclose any information to outside parties?**
+### Use of the collected Data
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+    * The User to be informed of any Site maintenance or inconvenience
+    * To improve user experience with this site
+    * To display banners related to User interests (behavioral targeting / advertising)
+    * Defense by the Website Owner, in court or in the stages leading to possible legal action, against improper use of the same or related services by the User.
 
-**Third party links**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**Your Consent**
-
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-www.apkdrawer.com  
-476 – J2 Wapda town Lahore  
-Lahore, Punjab 54000  
-Pakistan  
-apkdrawer@gmail.com
-
-This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm).
+ _Last updated on: July 19, 2013_
