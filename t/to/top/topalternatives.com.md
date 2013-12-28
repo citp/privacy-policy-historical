@@ -1,63 +1,61 @@
-> *The following text is extracted and transformed from the topalternatives.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212020231id_/http%3A//topalternatives.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topalternatives.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228081943id_/http%3A//topalternatives.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | TopAlternatives.com
+# Privacy Policy - TopAlternatives
 
-_Effective June 1, 2010_
+_This Agreement was last modified on September 03, 2013._
 
-**Our commitment to privacy**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
+#### The information we collect
 
-**The information we collect**  
-The following notice (items 1-3) applies to all information collected or submitted on the TopAlternatives.com website.
+The following notice (items 1-2) applies to all information collected or submitted on the _TopAlternatives.com_ website.
 
-  1. **Signing up for our email newsletter**  
-On some pages you can sign up to receive our free email newsletter. We collect your first name and email address only. We use this information only when sending you our latest newsletter messages. We will never provide your personal information to any third party and promise to only send relevant information pertaining to our website TopAlternatives.com.
+**1\. Signing up for our email newsletter**  
+On some pages you can sign up to receive our free email newsletter. We collect your email address only. We use this information only when sending you our latest newsletter messages. We will never provide your personal information to any third party and promise to only send relevant information pertaining to our website _TopAlternatives.com_.
 
-We follow all rules and regulations put forth in the [CAN-SPAM Act](http://www.ftc.gov/bcp/edu/pubs/business/ecommerce/bus61.shtm). You can unsubscribe yourself from our email list at any time by clicking the unsubscribe link found at the end of each and every email we send.
+We follow all rules and regulations put forth in the CAN-SPAM Act. You can unsubscribe yourself from our email list at any time by clicking the unsubscribe link found at the end of each and every email we send.
 
-  2. **Tracking and statistics**  
+**2\. Tracking and statistics**  
 We use only non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
 
-  3. **Google AdSense and cookies**  
-We use Google AdSense to supply our visitors with relevant advertisements throughout our website. Google uses cookies in order to make these ads more relevant to our visitors. [Learn more about cookies and how to opt-out of them](http://www.google.com/privacy_ads.html).
+#### Legal disclaimer
 
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our website.
 
+#### Security
 
-
-**Legal disclaimer**  
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our web site.
-
-**Security**  
 We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our website, you can email us by using our [email contact form](https://web.archive.org/web/20111212020231id_/http%3A//topalternatives.com/contact.html).
+If you have any questions about security on our website, you can email us by using our [email contact form](http://topalternatives.com/contact "Contact Form").
 
-**Cookies**  
-A cookie is a small text file that is stored on a user's computer for record keeping purposes. We use cookies on this site. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time. You may delete or decline cookies by changing your browser settings. (Click "Help" in the toolbar of most browsers for instructions.)
+#### Cookies
 
-We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
+A cookie is a small text file that is stored on a user’s computer for record keeping purposes. We use cookies on this site. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time. You may delete or decline cookies by changing your browser settings. (Click “Help” in the toolbar of most browsers for instructions.)
+
+We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited.
 
-**Third-party cookies**  
-The use of cookies by our partners, affiliates, tracking utility company, or service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, or service providers use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart.
+#### Third-party cookies
 
-**Clear gifs (web beacons/web bugs)**  
-Our third-party advertising partner employs a software technology called clear gifs (a.k.a. web beacons/web bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
+The use of cookies by our partners, tracking utility company, or service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, tracking utility company, or service providers use session ID cookies to make it easier for you to navigate our site.
 
-**Updating or correcting personal information**  
-If your personally identifiable information changes, or if you no longer desire our service, you may correct or update it by making the change within your account page or by emailing our Customer Support by using our [contact form](https://web.archive.org/web/20111212020231id_/http%3A//topalternatives.com/contact.html).
+#### Keystrokes (instant search)
 
-**How to contact us**  
-Should you have other questions or concerns about these privacy policies, please contact us by using our [email contact form](https://web.archive.org/web/20111212020231id_/http%3A//topalternatives.com/contact.html) or the following postal address.
+In an effort to improve the functionality of the “instant search” feature on our website, we may record any keystrokes entered into the search form field. The data we receive will help improve the overall usability and ease-of-use of _TopAlternatives.com_.
 
-> _TopAlternatives.com  
->  500 S. Congress Ave.  
->  Suite 228  
->  Austin, TX 78704  
->  United States_
+#### Our commitment to privacy
 
-**Changes in this privacy statement**  
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+#### How to contact us
+
+Should you have other questions or concerns about these privacy policies, please contact us by using our email contact form or the following postal address.
+
+TopAlternatives, LLC  
+500 S Congress Ave  
+#228  
+Austin, TX 78704  
+United States
+
+#### Changes in this privacy statement
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently.
