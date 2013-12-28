@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the askvg.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627092342id_/http%3A//www.askvg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askvg.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228145538id_/http%3A//www.askvg.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Tweaking with Vishal
+# Privacy Policy - AskVG
 
 We here at AskVG respect your privacy. Your privacy is of paramount importance to us and we are always committed to safeguarding it.
 
