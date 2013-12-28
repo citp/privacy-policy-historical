@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4shared.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630144034id_/http%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4shared.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228191828id_/http%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.*
 
 # 4shared.com - free file sharing and storage - Privacy Policy
 
@@ -16,7 +16,7 @@ As used in this Policy, the term "personally identifiable information" means inf
 
 Active Collection: We collect information from you in various ways when you use the Service and Apps. For example, we collect information: (i) that you voluntarily provide to us (such as when you send us an email); and (ii) to which you provide us access. Such information may include personal information, such as your name, email address, date of birth, social network data and performance related data. When using our Apps we will collect information such as device type, operating system type and version. Personal and demographic information may also be collected if you provide such information in connection with posting data, providing access to your online groups and other activities in connection with the Service. 
 
-We do not ask you for, access or track any location based information from your mobile device at any time while downloading or using our Mobile Apps or services. 
+We do not ask you for, access or track any location based information from your mobile device at any time while downloading or using our Mobile Apps or services.
 
 Passive Collection: When you use the Service and our Apps, some information is also automatically collected, such as your Internet Protocol (IP) address, your operating system, the browser type, the address of a referring website, and your activity on the Service. We may also automatically collect certain logistical information in server logs, including information about how you use various features of the Service and information about the number, frequency and length of each session. 
 
@@ -68,7 +68,7 @@ If you wish to request the deletion of an unauthorized profile you may contact u
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-**Tell-A-Friend**
+**Tell a friend**
 
 If you choose to use our referral service to tell a friend about our Service, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. New IT Solutions Ltd. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
 
