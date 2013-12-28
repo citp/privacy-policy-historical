@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindleaders.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502201228id_/http%3A//www.mindleaders.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindleaders.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228050516id_/http%3A//mindleaders.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | MindLeaders
 
@@ -157,7 +157,7 @@ All of this information is shared to perform the function of taking the training
 
 If you have questions or concerns with respect to our Privacy Policy, you may direct those questions to us at the “Contact Us” section of this website. If elements of our Privacy Policy change, we will post the material policy changes in our Privacy Policy on this website prior to the change becoming effective. If you are concerned about how your personal information is used, please visit our site often for this and other important announcements about MindLeaders. 
 
-Questions regarding this policy should be directed to MindLeaders at [legal@mindleaders.com](https://web.archive.org/web/20130502201228id_/http%3A//www.mindleaders.com/legal@mindleaders.com), or write to MindLeaders, Inc. 5500 Glendon Court, Suite 200, Dublin, OH 43016, Attn: Privacy Officer. 
+Questions regarding this policy should be directed to MindLeaders at [legal@mindleaders.com](https://web.archive.org/web/20131228050516id_/http%3A//mindleaders.com/legal@mindleaders.com), or write to MindLeaders, Inc. 5500 Glendon Court, Suite 200, Dublin, OH 43016, Attn: Privacy Officer. 
 
 ##  ECDL and ICDL: 
 
