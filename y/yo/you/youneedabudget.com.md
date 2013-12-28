@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youneedabudget.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612163459id_/http%3A//www.youneedabudget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youneedabudget.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228084117id_/http%3A//www.youneedabudget.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | YNAB
 
@@ -60,18 +60,6 @@ Because we value your privacy we have taken the necessary precautions to be in c
 ###  Childrens Online Privacy Protection Act Compliance
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-###  Interaction with desktop software
-
-We compile aggregate data about software usage and interaction so that we can offer a better software experience and tools in the future. NO FINANCIAL DATA IS EVER COLLECTED. We track:
-
-  * if the software is started
-  * if a software trial or license key is used
-  * if a new budget or existing budget is started
-
-
-
-We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
 ###  Terms and Conditions
 
