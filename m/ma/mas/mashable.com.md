@@ -1,81 +1,97 @@
-> *The following text is extracted and transformed from the mashable.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622034143id_/http%3A//mashable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mashable.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228034053id_/http%3A//mashable.com/privacy) for the most accurate reproduction.*
 
 # Mashable
 
-At Mashable, Inc. ("Mashable") we appreciate your readership and support and place a high value on your personal privacy. We respect the personal nature of the information you provide us on our web site and staunchly recognize the importance of protecting this information. In adopting this privacy policy (this "Privacy Policy"), our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy. This Privacy Policy may be revised or updated at any time and we encourage you to check back often to ensure that you are familiar with the most recent version and the terms of our Privacy Policy.
+We take your privacy very seriously and are committed to being transparent with how we use your information. This website and any of our services and sites directing you to this Privacy Policy are controlled by Mashable, Inc. (collectively "we" or "us").
 
-## When does Mashable collect my personal information?
+Our Privacy Policy explains:
 
-You may provide personal information to Mashable everal ways including: (1) by sharing your e-mail address when subscribing to our newsletter, (2) by sharing personal information when you submit news tips to our editorial team or by submitting a report via our Contact Form, (3) by sharing personal information when you post comments on our posts or stories, (4) by sharing contact information (Twitter username and Facebook account name) through our contests and Mashable Awards, (5) by signing up to be a member of our online social network, Mashable Follow, (6) by posting a job listing via our Jobs Board, or (7) by participating in a survey where an email address is requested. We may also ask for other information at other times but at no time will you be required to share any personal information to gain complete access to our site. Mashable is an open community but email addresses are requested to participate in some of our member-only features.
-
-In addition to basic contact information, our analytics trackers may also collect other information. This may include the operating system you are working on, the Internet browser you are using, and the screen resolution of your computer.
-
-## How does Mashable use my personal information?
-
-Depending on the portion of our site that you have subscribed to or interacted with, we may use your information in a number of ways.
-
-  * The email address you provided through our newsletter subscription form enables us to send you a daily digest of Mashable news stories. This subscription is entirely opt-in by the user. (We cannot subscribe you to the newsletter as you personally must have access to the email account in order to verify the subscription.) Subscribers can opt-out of our newsletter at any time by clicking the "Unsubscribe" link that is present on every email at the very bottom of the newsletter.
-  * The email address that you use when contacting us with an editorial tip or via our Contact Form will not be used for any reason but for the purposes of responding to your inquiry.
-  * The email address associated with your account when you comment on our stories may be used in conjunction with contests and promotions hosted on Mashable's website to notify you if you have won. Email addresses provided in comments are not usually used for any other reason except that they may be used as a customer service and policy violation contact mechanism
-  * If you choose to comment on Mashable stories through Twitter and/or Facebook Connect, we do not get access to your email address nor do we have any access to your personal data or private information.
-  * We ask for a Twitter or Facebook account to verify the legitimacy of accounts voting in our Mashable Awards. We do not get any access to your personal data or private information.
-  * You volunteer your email address and other identifying information on our social network, Mashable Follow. We use your email address only to inform you if there is activity on your profile. You can opt out of these messages at any time.
-  * Your email address associated with a Job Board listing is kept for filing purposes only. We may follow up with you to confirm or clarify a job listing but for no other reason.
-  * We may at times request your participation in a survey. We will not provide your email addresses to any third party but may contact you via them to distribute prizes in associated giveaways.
-  * We may also share your email address or other information with third-party vendors including, but not limited to those like Rapleaf and Klout. Such information will be used for data analytics and advertising targeting. However, we do not sell individual personal data or email addresses or allow them to be used for mailings you have not asked to receive.
+  * What information we collect and why we collect it. 
+  * How we use that information. 
+  * The choices we offer, including how to access and update information. 
 
 
 
-To maintain a site that is free of charge, we display advertisements on our website. We also use information you give us through surveys to help our advertisers target the audience they want to reach and to provide you with potentially interesting advertisements. Unless you give consent, at no time does any party other than Mashable have access to your personally identifiable information (with the exception of Google who maintains our RSS subscription-by-email service and our survey providers), and unless we have your consent, you will never be contacted by any party other than Mashable. The only exceptions to the foregoing are that we may disclose personally identifiable information (i) in response to legal process, for example, in response to a court order or subpoena, (ii) in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take actions regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of another person, violations of our terms of use, or as otherwise required by law, or (iii) in the event we are acquired by or merged with another company.
+If you have any questions about this Privacy Policy, please contact us at: terms@mashable.com.
 
-When you sign up for our updates or receive e-mail messages from Mashable, you will always be given the chance to opt-out of our communications. You may change your preferences at any time and will only be contacted in manners consistent with your stated preferences.
+## Information we collect
 
-Non-personally identifiable information (such as stated above) may be shared in aggregate form with our advertisers, business, or marketing partners but your personally identifiable information will never be disclosed to them.
+We collect information to provide better services to our users and improve our business.
 
-## Who else has access to my personal information?
+We collect information in two ways:
 
-The ads appearing on Mashable's website are delivered to you by DoubleClick, Federated Media, or Lotame, our Web advertising serving partners. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. And, in the course of serving advertisements to this site, third party advertisers may place or recognize a unique cookie on your browser. For more information about DoubleClick, cookies, and how to "opt-out", please go to <http://www.doubleclick.net/us/corporate/privacy>
+  * **Information you give us or information provided through a social network.** For example, some of our services require you to sign up for an account, provide information for a contest or award, or link an account through a social network. We work with social networks including, but not limited to Facebook, Twitter, Google Plus, and LinkedIn. We have access to information you directly provide and information through those social networking services based on your privacy settings on those networks. 
+  * **Information we get from your use of our services.** We may collect information about the services that you use and how you use them, like when you visit different parts of our site or applications and what selections you make on the services. We may also automatically collect certain technical information such as: 
+    * **Device information** We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile information if you use a mobile device to access the site). 
+    * **Log information** When you use our services or view content provided by us, we may automatically collect and store certain information in server logs. This information may include: 
+      * details of how you used our service, such as your navigation paths and search queries. 
+      * mobile related information if you access our website using your mobile device.
+      * internet protocol address. 
+      * device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL. 
+      * cookies that may uniquely identify your browser, mobile device, or your account.
+      * Browser type, operating system, and other technical information.
 
-We have also contracted with a number of advertising network partners to monitor certain pages of our website and RSS feeds for the purpose of reporting website and RSS traffic, statistics, advertisement "click-throughs," and/or other activities on our website. Where authorized by us, these advertising network partners may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to these network partners. For more information about how the information is collected and used, please see the following:
+## How we use information we collect
 
-  * Feedburner's privacy policy at <http://www.feedburner.com/fb/a/privacy>
-  * Lotame's privacy policy at <http://www.lotame.com/privacy/>
-  * Federated Media's privacy policy at <http://federatedmedia.net/about/privacy>
-  * Google's privacy policy at <http://www.google.com/privacy.html>
+We use the information we collect from all of our services to provide, maintain, protect and improve our services, to develop new services and offerings and to protect our us and our users. We also use this information to offer you tailored content like giving you more relevant search results and ads.
+
+When you contact us, we may keep a record of your communication as well as the other information in this Privacy Policy to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements.
+
+We use aggregated and demographic information to support our advertising needs so we can continue to provide many services for free. Your personally identifiable information is never disclosed to these parties, unless you consent.
+
+We, or our advertising networks may also use cookie, tag, beacon, or other similar technology to serve you relevant advertisements and alert you to our content, even on other sites and services. This technology can also be used to collect and analyze aggregated information about our users. The National Advertising Initiative has more information and an opt-out site maintained here: http://www.networkadvertising.org/choices/
+
+Please keep in mind that comments sections, forums, and other similar areas of our services are public. Any information posted in those areas is viewable and usable by anyone that has access.
+
+We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy. 
+
+## Choice
+
+If we provide you with any mailings or other communication, you can always opt out of that communication. 
+
+You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it's important to remember that many of our services may not function properly if your cookies are disabled.
+
+You have the right to remove your personal information from our databases. To do this, please delete your Mashable account. If you have any problems or questions, please let us know by contacting us here support@mashable.com and we will assist you with the process of deleting your account. For security purposes will not process any deletion requests via email. Deleting your Mashable account personally allows us to verify your identity. 
+
+## Accessing and updating your personal information
+
+Whenever you use our services, we aim to provide you with access to your personal information in your account. If that information is wrong, we strive to give you ways to update it quickly or to delete it unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request.
+
+## Information we share
+
+We do not share personal information with companies, outside organizations and individuals unless one of the following circumstances apply:
+
+    * **With your consent**. We will share personal information with companies, outside organizations or individuals if we have your consent to do so. 
+    * **For external processing.** We provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. 
+    * **For legal reasons.** We will share personal information with companies, outside organizations or individuals if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to meet any applicable law, regulation, legal process or enforceable governmental request, detect, prevent, or otherwise address fraud, security or technical issues or protect against harm to the rights, property or safety of our users or the public as required or permitted by law. 
+    * **In case of a sale or asset transfer.** If we become involved in a merger, acquisition or other transaction involving the sale of some or all of our assets, user information, including personal information collected from you through your use of our Services, could be included in the transferred assets. Should such an event occur, we will use reasonable means to notify you, either through email and/or a prominent notice on the Services. 
+    * **In aggregated form for business purposes.** We may share aggregated, non-personally identifiable information publicly and with our partners such as business with have a relationship with, advertisers or connected sites. For example, we may share information to show trends about the general use of our services. 
+
+## Information security
+
+We work hard to protect our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold however not website is entirely secure. You should protect the account information in your possession as well.
+
+## Third-Party Sites
+
+Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you on this site. We also do not control the privacy policies and your privacy settings on third-party sites, including social networks. 
+
+## Enforcement
+
+We regularly review our compliance with our Privacy Policy. When we receive formal written complaints, we will contact the person who made the complaint to follow up. 
+
+## Children Under 13
+
+Our site is not directed toward children under 13 and we will not knowingly collect information for any child under the age of 13. If you are the parent of a child under the age of 13 and have a concern regarding your childâ€™s information on our site, please contact us at support@mashable.com
+
+## Our Services are Located in the United States
+
+Our website and associated services are hosted in the United States. If you are outside of the United States, your information will be processed and stored in the United States and you are consenting to such processing and storage.
+
+## Changes
+
+Our Privacy Policy may change from time to time. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes).
+
+This Privacy Policy was last updated on September 27, 2013. 
 
 
 
-Third parties and web sites that have links on our site may also collect or use information about you. The information practices of other companies or people that Mashable does not employ or manage are not covered by this Privacy Policy.
-
-Accounts associated with Mashable are all 'public.' By 'public,' we mean that certain information will be viewable by all users. What you see on other user profiles is the same information that other users can see about you.
-
-## Is there anything else I should know about my privacy and Mashable?
-
-Any information you disclose voluntarily on our comments page or in any properties hosted by Mashable becomes public information. Mashable.com is a public forum. We cannot control the action of our site users and advise you to use your discretion in sharing information about yourself on the Internet. All information sharing is optional and done so at your own risk. Privacy is a very personal matter and we encourage you to be careful and responsible when disclosing personal information online.
-
-## Mashable Comment Policy
-
-We never censor comments based on political or ideological point of view or of a critical nature. We reserve the right to delete those comments that are off-topic, "spammy" in nature, abusive, use excessive foul language, or include ad hominem attacks.
-
-Once a comment is made public on the Mashable website, we will not remove it by request. As a user, you are responsible for your own communications and are responsible for the consequences of their posting.
-
-Comments will only be considered for removal (i) in response to legal process, for example, in response to a court order, or (ii) in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take actions regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of another person, violations of our terms of use, or as otherwise required by law.
-
-All comments and other content contributed to Mashable shall adhere to the following policy, and may be edited or removed at Mashable's discretion if it is deemed to be in violation of this policy.
-
-  1. **Personal Attacks:** Please don’t engage in personal attacks (on authors, other users or any individual), persistent trolling or mindless abuse. The Mashable community should focus on intelligently discussing topics by furthering the conversation and informing the participants with resourceful and constructive ideas.
-  2. **Hate speech:** Racism, sexism and homophobia will not be tolerated.
-  3. **Language and Threats:** Please watch your language and respect other people’s views, beliefs and emotions. We reserve the right to remove any content that might be found extremely offensive or threatening.
-  4. **No Spam:** Spam and advertising content will be removed.
-  5. **Smear Tactics:** Although we acknowledge criticism of our articles and our writers, we will not allow misrepresentation. We will distinguish between constructive arguments and smear tactics.
-  6. **Relevancy:** Please keep conversations relevant. Off-topic comments are subject to removal in order to keep the thread on track.
-  7. **Quality:** We encourage you to take responsibility for the quality of the conversations in which you’re participating. Maintain intelligent discussions in the Mashable community by being respectful and considerate.
-  8. **Help us:** Maintain an inviting interaction space by self-policing threads and flagging spam. Although we have a hands-on approach to community engagement, we do sometimes miss problem commenters or trolls. We appreciate your efforts to keep the Mashable community environment inviting, insightful and constructive. Let the conversations be quality ones.
-
-
-
-## Mashable Follow Profile Policy
-
-Mashable's online social network is entirely opt-in by our members. The accounts listed in our database are created by members of the Mashable Follow network. Due to security considerations, Mashable will not process account deletion requests made via email. To delete an account, the account holder must sign into the network using his/her email address or username in order to permanently delete his/her account. If the account holder no longer has access to the email account upon which the account was created, the account holder will not be able to delete the account.
-
-Mashable will have the right to delete any account at any time (i) in response to legal process, for example, in response to a court order, or (ii) in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take actions regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of another person, violations of our terms of use, or as otherwise required by law.
