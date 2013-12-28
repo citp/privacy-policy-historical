@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the yourarticlelibrary.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517123124id_/http%3A//www.yourarticlelibrary.com/content-quality-guideline) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourarticlelibrary.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228212811id_/http%3A//www.yourarticlelibrary.com/content-quality-guideline) for the most accurate reproduction.*
 
-# Privacy Policy | Your Article Library
+# Privacy Policy | YourArticleLibrary.com: The Next Generation Library
 
 YourArticleLibrary.com respects the privacy of its users. This Privacy Policy is created to secure the personal information. This Privacy Policy is developed to clarify to its users how YourArticleLibrary.com distributes the personal information it collects from authors. The settlement of disputes arising from the use of the website will be under the jurisdiction and laws of India.
 
 **User Approval:**
 
 Whenever a user accesses the website established or assigned to the URL denominated as www.yourarticlelibrary.com or when a user accesses any other domain name that is distributed by www.yourarticlelibrary.com, the user gives permission to the collection of any information that might be acquired by the website. This information shall be used in accordance with Privacy Policy of the website.
+
+[](http://www.yourarticlelibrary.com/wp-content/uploads/2013/12/1014.jpg)
+
+Image Courtesy : mocricket.org/images/guidelines1.jpg
 
 YourArticleLibrary.com has the right to change the policy at any time without prior notice to its users and by posting a new Privacy Notice at the Privacy Page. Personal information collected, used and disclosed by YourArticleLibrary.com will be governed by the Privacy Policy which is in effect at that specific time. Users are expected and encouraged to check the Privacy Policy Page from time to time to be informed of possible changes. Please contact us if you have concerns regarding our Privacy Policy.
 
