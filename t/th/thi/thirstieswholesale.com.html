@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thirstieswholesale.com privacy policy that was archived on 2013-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130607010052id_/http%3A//www.thirstieswholesale.com/Terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thirstieswholesale.com privacy policy that was archived on 2013-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131229005943id_/http%3A//www.thirstieswholesale.com/Terms_privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -13,6 +13,7 @@
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -28,8 +29,31 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?currentBuild"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.34.2"></script>
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_currentBuild"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
@@ -92,7 +116,7 @@ ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG
 				<ul>
 					
 <script type="text/javascript">var breadCrumb="||";</script>
-<li style="margin-left:5px;"><a href="/SearchResults.asp?Cat=33" title="">Prefolds &amp; Inserts</a></li><li style="margin-left:5px;"><a href="/SearchResults.asp?Cat=38" title="">Duo All In One</a></li><li style="margin-left:5px;"><a href="/SearchResults.asp?Cat=39" title="">Duo All In One - Snaps</a></li><li style="margin-left:5px;"><a href="/SearchResults.asp?Cat=30" title="">Duo Diaper</a></li><li style="margin-left:5px;"><a href="/SearchResults.asp?Cat=36" title="">Duo Diaper - Snaps</a></li><li style="margin-left:5px;"><a href="/SearchResults.asp?Cat=34" title="">Duo Fab Fitted</a></li><li style="margin-left:5px;"><a href="/SearchResults.asp?Cat=35" title="">Duo Fab Fitted - Snaps</a></li><li style="margin-left:5px;"><a href="/SearchResults.asp?Cat=29" title="Thirsties Diaper Covers">Duo Wrap</a></li><li style="margin-left:5px;"><a href="/SearchResults.asp?Cat=32" title="Thirsties Diaper Covers">Duo Wrap - Snaps</a></li><li style="margin-left:5px;"><a href="/SearchResults.asp?Cat=21" title="Thirsties Diaper Covers">Diaper Covers</a></li><li style="margin-left:5px;"><a href="/SearchResults.asp?Cat=24" title="">Accessories</a></li><li style="margin-left:5px;"><a href="/SearchResults.asp?Cat=25" title="">Promo Materials</a></li><li style="margin-left:5px;"><a href="/SearchResults.asp?Cat=31" title="">Retail Packing</a></li>
+<li style="margin-left:5px;"><a href="/SearchResults.asp?Cat=30" title="">One Size Pocket - New H&amp;L</a></li><li style="margin-left:5px;"><a href="/SearchResults.asp?Cat=36" title="">One Size Pocket - Snaps</a></li><li style="margin-left:5px;"><a href="/SearchResults.asp?Cat=33" title="">Prefolds &amp; Stay Dry Inserts</a></li><li style="margin-left:5px;"><a href="/SearchResults.asp?Cat=38" title="">Duo All In One - New H&amp;L</a></li><li style="margin-left:5px;"><a href="/SearchResults.asp?Cat=39" title="">Duo All In One - Snaps</a></li><li style="margin-left:5px;"><a href="/SearchResults.asp?Cat=34" title="">Duo Fab Fitted - New H&amp;L</a></li><li style="margin-left:5px;"><a href="/SearchResults.asp?Cat=35" title="">Duo Fab Fitted - Snaps</a></li><li style="margin-left:5px;"><a href="/SearchResults.asp?Cat=29" title="Thirsties Diaper Covers">Duo Wrap - New H&amp;L</a></li><li style="margin-left:5px;"><a href="/SearchResults.asp?Cat=32" title="Thirsties Diaper Covers">Duo Wrap - Snaps</a></li><li style="margin-left:5px;"><a href="/SearchResults.asp?Cat=21" title="Thirsties Diaper Covers">Diaper Covers - New H&amp;L</a></li><li style="margin-left:5px;"><a href="/SearchResults.asp?Cat=24" title="">Accessories</a></li><li style="margin-left:5px;"><a href="/SearchResults.asp?Cat=25" title="">Promo Materials</a></li><li style="margin-left:5px;"><a href="/SearchResults.asp?Cat=31" title="">Retail Packing</a></li>
 				</ul>
 			</div>
 			<div id="second_nav" class="nav_section">
@@ -107,7 +131,7 @@ ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG
 			
 			<div id="navigation_menus">
 				<div id="display_promotions_99999"><!-- Begin Volusion Live Chat -->
-<div align="center" id="VolusionLiveChat"><a href="http://www.volusion.com/livechat_software.asp">Live Chat Software</a></div>
+<div align="center" id="VolusionLiveChat"><a href="http://www.volusion.com/livechat_software.asp" rel="nofollow"></a></div>
 <script defer="" type="text/javascript" src="https://livechat.volusion.com/script.aspx?id=123260&amp;AutoPrompt=5&amp;DeptID=4"></script>
 <!-- End Volusion Live Chat --></div>
 			</div>
