@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ticktick.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629010259id_/http%3A//www.ticktick.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticktick.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228130329id_/http%3A//ticktick.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy | TickTick | TickTick
+# Privacy - TickTick
 
 Our privacy policy explains how information is collected, used and disclosed by TickTick with respect to your access and use of TickTick’s services through our mobile & web application (referred to below as “TickTick”).
 
