@@ -1,42 +1,97 @@
-> *The following text is extracted and transformed from the blippr.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101121744id_/http%3A//www.blippr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blippr.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228034053id_/http%3A//mashable.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy on blippr
+# Mashable
 
-## short version first
+We take your privacy very seriously and are committed to being transparent with how we use your information. This website and any of our services and sites directing you to this Privacy Policy are controlled by Mashable, Inc. (collectively "we" or "us").
 
-We really, really, really care about your privacy. Some of the basics of our policy include:
+Our Privacy Policy explains:
 
-  * We don’t ask you for personal information unless we believe it will improve your experience on blippr—in which case it’s optional—or we truly need it. We can’t stand services that ask you for things like your gender or income level for no apparent reason.
-  * We don’t share your personal information with anyone except to comply with the law, further develop blippr, or protect our rights.
-  * We don’t store personal information on our servers unless required for the ongoing operation of one of our services.
-  * We aim to make it as simple as possible for you to control what’s visible to everyone, kept private, and permanently deleted.
-
+  * What information we collect and why we collect it. 
+  * How we use that information. 
+  * The choices we offer, including how to access and update information. 
 
 
-Below is our privacy policy which incorporates these goals.
 
-## website visitors
+If you have any questions about this Privacy Policy, please contact us at: terms@mashable.com.
 
-Like most website operators, blippr collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. blippr’s purpose in collecting non-personally identifying information is to better understand how blippr visitors use its website. From time to time, blippr may release non-personally-identifying information in the aggregate, but it will be rare. blippr also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Blippr does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
+## Information we collect
 
-## gathering of personally-identifying information
+We collect information to provide better services to our users and improve our business.
 
-Certain visitors to [blippr.com](https://web.archive.org/) or related applications may choose to interact with the Website in ways that require blippr to gather personally-identifying information. The amount and type of information that blippr gathers depends on the nature of the interaction. For example, we ask visitors who sign up to review and contribute content at blippr.com to provide an email address. Those who engage in providing further information to blippr (e.g. entering their real name, ZIP code, gender, etc.) are able to give such information to blippr with the intention of a) displaying more information about themselves to interested parties, b) improving their ease of making transactions on other sites (e.g. clicking through to buy movie tickets with your ZIP code pre-populated). In all cases, blippr collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with blippr. blippr does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+We collect information in two ways:
 
-## aggregated statistics
+  * **Information you give us or information provided through a social network.** For example, some of our services require you to sign up for an account, provide information for a contest or award, or link an account through a social network. We work with social networks including, but not limited to Facebook, Twitter, Google Plus, and LinkedIn. We have access to information you directly provide and information through those social networking services based on your privacy settings on those networks. 
+  * **Information we get from your use of our services.** We may collect information about the services that you use and how you use them, like when you visit different parts of our site or applications and what selections you make on the services. We may also automatically collect certain technical information such as: 
+    * **Device information** We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile information if you use a mobile device to access the site). 
+    * **Log information** When you use our services or view content provided by us, we may automatically collect and store certain information in server logs. This information may include: 
+      * details of how you used our service, such as your navigation paths and search queries. 
+      * mobile related information if you access our website using your mobile device.
+      * internet protocol address. 
+      * device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL. 
+      * cookies that may uniquely identify your browser, mobile device, or your account.
+      * Browser type, operating system, and other technical information.
 
-blippr may collect statistics about the behavior of visitors to its websites. For instance, blippr may monitor the most popular users on blippr.com site. blippr may display this information publicly or provide it to others. However, blippr does not disclose personally-identifying information other than as described below.
+## How we use information we collect
 
-## protection of certain personally-identifying information
+We use the information we collect from all of our services to provide, maintain, protect and improve our services, to develop new services and offerings and to protect our us and our users. We also use this information to offer you tailored content like giving you more relevant search results and ads.
 
-blippr discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on blippr’s behalf or to provide services available at blippr’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using blippr’s websites, you consent to the transfer of such information to them. blippr will not (see: never, ever, ever) rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, blippr discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when blippr believes in good faith that disclosure is reasonably necessary to protect the property or rights of blippr, third parties or the public at large. If you are a registered user of website and have supplied your email address, blippr may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with blippr. Of course, you can turn these off at any point when editing your profile. We primarily use [the blippr blog](http://blog.blippr.com/) to communicate this type of information, so we expect to keep this type of email to a minimum anyway. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. blippr takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+When you contact us, we may keep a record of your communication as well as the other information in this Privacy Policy to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements.
 
-## cookies
+We use aggregated and demographic information to support our advertising needs so we can continue to provide many services for free. Your personally identifiable information is never disclosed to these parties, unless you consent.
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. blippr uses cookies to help blippr identify and track visitors, their usage of blippr, and their website access preferences. blippr visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using blippr, knowing that you will not be able to sign in or use certain features of blippr at all.
+We, or our advertising networks may also use cookie, tag, beacon, or other similar technology to serve you relevant advertisements and alert you to our content, even on other sites and services. This technology can also be used to collect and analyze aggregated information about our users. The National Advertising Initiative has more information and an opt-out site maintained here: http://www.networkadvertising.org/choices/
 
-Additionally, blippr may serve ads through the Google AdSense program, which uses [DoubleClick DART cookies](http://www.doubleclick.com/privacy/faq.aspx) to serve relevant ads to based on your browsing patterns. If you wish, you may opt out of DART cookies by visiting Google’s [ad and content privacy policy page](http://www.google.com/privacy_ads.html)
+Please keep in mind that comments sections, forums, and other similar areas of our services are public. Any information posted in those areas is viewable and usable by anyone that has access.
 
-## privacy policy changes
+We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy. 
 
-Although most changes are likely to be minor, blippr may change its Privacy Policy from time to time, and in blippr’s sole discretion. blippr encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+## Choice
+
+If we provide you with any mailings or other communication, you can always opt out of that communication. 
+
+You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it's important to remember that many of our services may not function properly if your cookies are disabled.
+
+You have the right to remove your personal information from our databases. To do this, please delete your Mashable account. If you have any problems or questions, please let us know by contacting us here support@mashable.com and we will assist you with the process of deleting your account. For security purposes will not process any deletion requests via email. Deleting your Mashable account personally allows us to verify your identity. 
+
+## Accessing and updating your personal information
+
+Whenever you use our services, we aim to provide you with access to your personal information in your account. If that information is wrong, we strive to give you ways to update it quickly or to delete it unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request.
+
+## Information we share
+
+We do not share personal information with companies, outside organizations and individuals unless one of the following circumstances apply:
+
+    * **With your consent**. We will share personal information with companies, outside organizations or individuals if we have your consent to do so. 
+    * **For external processing.** We provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. 
+    * **For legal reasons.** We will share personal information with companies, outside organizations or individuals if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to meet any applicable law, regulation, legal process or enforceable governmental request, detect, prevent, or otherwise address fraud, security or technical issues or protect against harm to the rights, property or safety of our users or the public as required or permitted by law. 
+    * **In case of a sale or asset transfer.** If we become involved in a merger, acquisition or other transaction involving the sale of some or all of our assets, user information, including personal information collected from you through your use of our Services, could be included in the transferred assets. Should such an event occur, we will use reasonable means to notify you, either through email and/or a prominent notice on the Services. 
+    * **In aggregated form for business purposes.** We may share aggregated, non-personally identifiable information publicly and with our partners such as business with have a relationship with, advertisers or connected sites. For example, we may share information to show trends about the general use of our services. 
+
+## Information security
+
+We work hard to protect our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold however not website is entirely secure. You should protect the account information in your possession as well.
+
+## Third-Party Sites
+
+Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you on this site. We also do not control the privacy policies and your privacy settings on third-party sites, including social networks. 
+
+## Enforcement
+
+We regularly review our compliance with our Privacy Policy. When we receive formal written complaints, we will contact the person who made the complaint to follow up. 
+
+## Children Under 13
+
+Our site is not directed toward children under 13 and we will not knowingly collect information for any child under the age of 13. If you are the parent of a child under the age of 13 and have a concern regarding your childâ€™s information on our site, please contact us at support@mashable.com
+
+## Our Services are Located in the United States
+
+Our website and associated services are hosted in the United States. If you are outside of the United States, your information will be processed and stored in the United States and you are consenting to such processing and storage.
+
+## Changes
+
+Our Privacy Policy may change from time to time. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes).
+
+This Privacy Policy was last updated on September 27, 2013. 
+
+
+
