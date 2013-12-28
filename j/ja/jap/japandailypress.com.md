@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the japandailypress.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529221313id_/http%3A//japandailypress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japandailypress.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228055942id_/http%3A//japandailypress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Japan Daily Press
+
+### Privacy Policy
 
 The following policy outlines the types of information that we gather about you and the way that way we use and don’t use this information.
 
