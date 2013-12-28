@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uptake.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620184138id_/http%3A//www.groupon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uptake.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228035002id_/http%3A//www.groupon.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# GROUPON, INC.
 
 #### PRIVACY STATEMENT
 
