@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopsimple.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620145958id_/http%3A//shopsimple.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopsimple.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228203001id_/http%3A//www.shopsimple.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ShopSimple
 
