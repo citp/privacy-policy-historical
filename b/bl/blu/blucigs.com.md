@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blucigs.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510040732id_/http%3A//www.blucigs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blucigs.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228162504id_/http%3A//www.blucigs.com/privacy-policy) for the most accurate reproduction.*
 
 # blu Cigs Privacy Policy | Electronic Cigarettes by blu Cigs | FREE SHIPPING
 
@@ -6,18 +6,18 @@
 
 **blu** has created this privacy policy in order to demonstrate our firm commitment to privacy. The following discloses our information gathering practices for all of **blu** websites.
 
-**blu** has established a privacy policy with the mission of building member trust and confidence by promoting the use of fair information practices. If you have questions or concerns regarding this statement, you should first contact [billing@blucigs.com](mailto:billing@blucigs.com).
+**blu** has established a privacy policy with the mission of building member trust and confidence by promoting the use of fair information practices. If you have questions or concerns regarding this statement, you should first contact [support@blucigs.com](mailto:support@blucigs.com).
 
 This site is owned and operated by LOEC, Inc dba **blu ecigs**
 
 **blu eCigs**  
-One Pinebrook Plaza Suite 250  
-9101 Southern Pine Boulevard  
-Charlotte, NC 28273 
+LOEC  
+5300 Old Pineville Rd. Suite 162  
+Charlotte, NC 28217 
 
 Customer Service Department: 1.888.207.4588 
 
-[billing@blucigs.com](mailto:billing@blucigs.com)
+[support@blucigs.com](mailto:support@blucigs.com)
 
 ### Cookies
 
@@ -33,7 +33,7 @@ Our site's registration form requires users to give us contact information (such
 
 ### Choice/Opt-out
 
-As an individual, you have the opportunity to limit the personal information you provide. We provide you with the opportunity to 'opt out' of having your personally identifiable information used for certain purposes when we ask for this information. If you no longer wish to receive our newsletter and promotional communications, you may opt out of receiving them by contacting us at [billing@blucigs.com](mailto:billing@blucigs.com).
+As an individual, you have the opportunity to limit the personal information you provide. We provide you with the opportunity to 'opt out' of having your personally identifiable information used for certain purposes when we ask for this information. If you no longer wish to receive our newsletter and promotional communications, you may opt out of receiving them by contacting us at [support@blucigs.com](mailto:support@blucigs.com).
 
 ## Information Collection & Use
 
@@ -45,7 +45,7 @@ In order to use this Web site, you must first complete the registration form and
 
 ### Access to Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or deactivate it by making the change on our member information page, emailing our Customer Support at [billing@blucigs.com](mailto:billing@blucigs.com), or contacting us by telephone or postal mail using the information located at the top of this page.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or deactivate it by making the change on our member information page, emailing our Customer Support at [support@blucigs.com](mailto:support@blucigs.com), or contacting us by telephone or postal mail using the information located at the top of this page.
 
 ### Surveys or Contests
 
@@ -59,7 +59,7 @@ We may use a third party service provider to conduct these surveys or contests; 
 
 ### Email
 
-**blu** members and affiliates receive periodic email notices that include exclusive special offers and information about sales, promotions, new releases, and other relevant information. If you no longer wish to receive these emails, you may opt out by contacting us at [billing@blucigs.com](mailto:billing@blucigs.com).
+**blu** members and affiliates receive periodic email notices that include exclusive special offers and information about sales, promotions, new releases, and other relevant information. If you no longer wish to receive these emails, you may opt out by contacting us at [support@blucigs.com](mailto:support@blucigs.com).
 
 ### Non-personal information
 
@@ -81,7 +81,7 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of online transmission or electronic storage is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our web site, you can email us at [billing@blucigs.com](mailto:billing@blucigs.com)
+If you have any questions about security on our web site, you can email us at [support@blucigs.com](mailto:support@blucigs.com)
 
 ### Changes in this Privacy Statement
 
