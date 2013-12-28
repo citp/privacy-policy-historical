@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homecentrestores.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629154919id_/http%3A//www.homecentrestores.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homecentrestores.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228103811id_/http%3A//www.homecentrestores.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Home Centre
 
