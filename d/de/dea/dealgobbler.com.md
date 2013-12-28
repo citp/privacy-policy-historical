@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealgobbler.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509232750id_/http%3A//www.dealgobbler.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealgobbler.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228124355id_/http%3A//www.dealgobbler.com/privacy-policy) for the most accurate reproduction.*
 
-# Glass house boat luxury dinner cruise along Dubai Marina with 5-star international buffet with seafood, all for AED 185
+# Privacy Policy - dealgobbler.com - Best Daily Deals in Dubai
 
 This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of any information you submit to us through Dealgobbler.com. This includes "Personal Information," which is information about you that is personally identifiable such as your name, e-mail address, user ID number, and other non-public information that is associated with the foregoing, as well as "Anonymous Information," which is information that is not associated with or linked to your Personal Information and does not permit the identification of individual persons.
 
@@ -89,4 +89,6 @@ P.O. Box: 73030
 Dubai, UAE  
 tel: +971 4  4465920
 
-email: info(att)dealgobbler(d0tt)com
+For general inquery: info@dealgobbler.com
+
+For your voucher needs: support@dealgobbler.com
