@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the offerflip.com privacy policy that was archived on 2013-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130501103115id_/http%3A//offerflip.com/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the offerflip.com privacy policy that was archived on 2013-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131228015028id_/http%3A//www.offerflip.com/privacypolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -90,21 +90,13 @@ return true;
         window.location.href="Insurance";
 		return false;
 		}
-	    if(document.deal_form.deals.value=='All State')
-		{
-        window.location.href="Allstate";
-		return false;
-		}
+	    
 		if(document.deal_form.deals.value=='Amazon')
 		{
         window.location.href="offers/amazonlocal";
 		return false;
 		}
-		if(document.deal_form.deals.value=='Dole')
-		{
-        window.location.href="Dole";
-		return false;
-		}
+		
 		
 	
 		
@@ -221,13 +213,37 @@ return true;
 		
 		
 			
-			if(document.deal_form.deals.value=='Indabamusic')
+		if(document.deal_form.deals.value=='Indabamusic')
 		{
         window.location.href="signup";
 		return false;
 		}
 		
-		
+			
+		if(document.deal_form.deals.value=='Car Insurance')
+		{
+        window.location.href="car_insurance";
+		return false;
+		}
+			
+		if(document.deal_form.deals.value=='Atlas Car Insurance')
+		{
+        window.location.href="atlas_car_insurance";
+		return false;
+		}
+					
+		if(document.deal_form.deals.value=='Insure Me Local')
+		{
+        window.location.href="insure_me_mocal";
+		return false;
+		}
+					
+		if(document.deal_form.deals.value=='United Auto Protection')
+		{
+        window.location.href="united_auto_protection";
+		return false;
+		}
+						
 	
 return true;
 }
@@ -257,7 +273,7 @@ return true;
 		
 			if(document.Category_form.Category.value=='Insurance')
 		{
-        window.location.href="allstate";
+        window.location.href="offers/gerber/";
 		return false;
 		}
 		
@@ -275,7 +291,7 @@ return true;
 		
 			if(document.Category_form.Category.value=='Healthcare / Wellness')
 		{
-        window.location.href="Dole";
+        window.location.href="seniorhealth";
 		return false;
 		}
 		
@@ -315,7 +331,11 @@ return true;
 		return false;
 		}			
 
-		
+		if(document.Category_form.Category.value=='Auto Insurance')
+		{
+         window.location.href="car_insurance";
+		return false;
+		}
 	
 return true;
 }
@@ -349,12 +369,10 @@ return true;
   <tr>
     <td align="left" valign="top" class="selectbox"><select name="deals" class="selectboxfield" onchange="x();">
       <option value="" selected="selected">Choose One</option>
-      <!-----<option value="Select Quote">Select Quote</option>---->
-<option value="All State">All State</option>
+      <!-----<option value="Select Quote">Select Quote</option>--->
 <option value="Amazon">Amazon Local</option>
-<option value="Dole">Dole</option>
-<option value="Zappos">Zappos</option>
-<!--option value="emusic">emusic</option-->
+<!--<option value="Zappos">Zappos</option>
+<option value="emusic">emusic</option>-->
 <option value="Rhapsody">Rhapsody</option>
 <!--option value="NORDSTROM">NORDSTROM</option-->
 <option value="esurance">esurance</option>
@@ -368,6 +386,10 @@ return true;
 <option value="MorefromLife">MorefromLife</option>
 <option value="Webtv Extreme">Webtv Extreme</option>
 <option value="Indabamusic">Indabamusic</option>
+<option value="Car Insurance">Car Insurance</option>
+<option value="Atlas Car Insurance">Atlas Car Insurance</option>
+<option value="Insure Me Local">Insure Me Local</option>
+<option value="United Auto Protection">United Auto Protection</option>
     </select></td>
   </tr>
   
@@ -386,11 +408,9 @@ return true;
 <option value="Insurance">Insurance</option>
 <option value="Travel">Travel</option>
 <option value="Healthcare / Wellness">Healthcare / Wellness</option>
-<option value="Electronics/Toys">Electronics/Toys</option>
 <option value="Clothing">Clothing</option>
-<option value="Food Drinks">Food Deals</option>
-<option value="Music">Music</option>
 <option value="Education">Education</option>
+<option value="Auto Insurance">Auto Insurance</option>
     </select></td>
   </tr>
 </tbody></table></form>
@@ -429,22 +449,30 @@ return true;
                   <td align="left" valign="top"><div id="btn_logos_bg">
                     <div id="btm_logos_container">
                       <!--<div class="btm_logo" style="left: 0px;"><a href="Insurance"><img src="images/logo/maxideal.jpg" border="0" /></a></div>-->
-                      <div class="btm_logo" style="left: -21px;"><a href="Allstate"><img src="images/logo/allstate.jpg" border="0"></a></div>
-                      <div class="btm_logo" style="left: -21px;"><a href="offers/amazonlocal/"><img src="images/logo/allstate.jpg" border="0"></a></div>
-                      <div class="btm_logo" style="left: 215px;"><a href="Dole"><img src="images/logo/dole.jpg"></a></div>
-                      <div class="btm_logo" style="left: 451px;"><a href="offers/myquotesource"><img src="images/logo/my_quote_source.jpg"></a></div>
-                      <div class="btm_logo" style="left: 687px;"><a href="offers/scrubnbubbles"><img src="images/logo/scrubnbubbles.jpg"></a></div>
-                      <div class="btm_logo" style="left: 923px;"><a href="rhapsody"><img src="images/logo/rhapsody.jpg"></a></div>
-                      <div class="btm_logo" style="left: 1159px;"><a href="nordstrom"><img src="images/logo/nordstrom.jpg"></a></div>
-                      <div class="btm_logo" style="left: 1395px;"><a href="offers/insurance"><img src="images/logo/insurance.jpg"></a></div>
-                      <!-----<div class="btm_logo" style="left:1888px;"><a href="accuquotelife"><img src="images/logo/accuquote.jpg" /></a></div>---->
-                      <div class="btm_logo" style="left: 1631px;"><a href="Expedia"><img src="images/logo/expedia.jpg"></a></div>
-                      <div class="btm_logo" style="left: 1867px;"><a href="ThreeNakedDogs"><img src="images/logo/threenakeddogs.jpg"></a></div>
-                      <div class="btm_logo" style="left: 2103px;"><a href="reverse"><img src="images/logo/reverseclothing.jpg"></a></div>
-                      <div class="btm_logo" style="left: 2339px;"><a href="wine"><img src="images/logo/wine.jpg"></a></div>
-                      <div class="btm_logo" style="left: 2575px;"><a href="drinkupny"><img src="images/logo/drinkupny.jpg"></a></div>
-                     <div class="btm_logo" style="left: 2811px;"><a href="citycollege"><img src="images/logo/citycollege.jpg"></a></div>
-                      <div class="btm_logo" style="left: 3047px;"><a href="kaplan"><img src="images/logo/kaplan.jpg"></a></div>
+                      <!--<div class="btm_logo" style="left:0px;"><a href="Allstate"><img src="images/logo/allstate.jpg" border="0" /></a></div>
+                      
+                      <div class="btm_logo" style="left:0px;"><a href="offers/amazonlocal/"><img src="images/logo/allstate.jpg" border="0" /></a></div>
+                      <div class="btm_logo" style="left: 236px;"><a href="Dole"><img src="images/logo/dole.jpg" /></a></div>
+                      <div class="btm_logo" style="left: 472px;"><a href="offers/myquotesource"><img src="images/logo/my_quote_source.jpg" /></a></div>
+                      <div class="btm_logo" style="left: 708px;"><a href="offers/scrubnbubbles"><img src="images/logo/scrubnbubbles.jpg" /></a></div>
+                      
+                      <div class="btm_logo" style="left:1888px;"><a href="accuquotelife"><img src="images/logo/accuquote.jpg" /></a></div>-->
+                      
+                      
+                      <div class="btm_logo" style="left: -22px;"><a href="rhapsody"><img src="images/logo/rhapsody.jpg"></a></div>
+                      <div class="btm_logo" style="left: 214px;"><a href="nordstrom"><img src="images/logo/nordstrom.jpg"></a></div>
+                      <div class="btm_logo" style="left: 450px;"><a href="offers/insurance"><img src="images/logo/insurance.jpg"></a></div>
+                      <div class="btm_logo" style="left: 686px;"><a href="Expedia"><img src="images/logo/expedia.jpg"></a></div>
+                      <div class="btm_logo" style="left: 922px;"><a href="ThreeNakedDogs"><img src="images/logo/threenakeddogs.jpg"></a></div>
+                      <div class="btm_logo" style="left: 1158px;"><a href="reverse"><img src="images/logo/reverseclothing.jpg"></a></div>
+                      <div class="btm_logo" style="left: 1394px;"><a href="wine"><img src="images/logo/wine.jpg"></a></div>
+                      <div class="btm_logo" style="left: 1630px;"><a href="drinkupny"><img src="images/logo/drinkupny.jpg"></a></div>
+                     <div class="btm_logo" style="left: 1866px;"><a href="citycollege"><img src="images/logo/citycollege.jpg"></a></div>
+                      <div class="btm_logo" style="left: 2102px;"><a href="kaplan"><img src="images/logo/kaplan.jpg"></a></div>
+                      <div class="btm_logo" style="left: 2338px;"><a href="car_insurance"><img src="images/logo/car_insurance.jpg"></a></div>
+                      <div class="btm_logo" style="left: 2574px;"><a href="atlas_car_insurance"><img src="images/logo/atlascarinsurance.jpg"></a></div>
+                      <div class="btm_logo" style="left: 2810px;"><a href="insure_me_mocal"><img src="images/logo/information.jpg"></a></div>
+                      <div class="btm_logo" style="left: 3046px;"><a href="united_auto_protection"><img src="images/logo/unitedautoprotection.jpg"></a></div>
                     </div>
                   </div>
                     <script type="text/javascript">
@@ -499,13 +527,11 @@ return true;
     <ul class="menu">
 <li class="noimg"><a href="travel.asp" title="Travel">Travel</a></li>
 <li><a href="insurance.asp" title="Insurance">Insurance</a></li>
-<li><a href="electronics.asp" title="Electronics/Toys">Electronics/Toys</a></li>
-<li><a href="food_drinks.asp" title="Food Deals">Food&nbsp;Deals</a></li>
 <li><a href="seniors.asp" title="Senior&nbsp;Care">Senior&nbsp;Care</a></li>
-<li><a href="music.asp" title="Music">Music</a></li>
 <li><a href="clothing.asp" title="Clothing">Clothing</a></li>
 <li><a href="adults.asp">21&amp; Over</a></li>
 <li><a href="education.asp">Education</a></li>
+<li><a href="auto_insurance.asp">Auto&nbsp;Insurance</a></li>
 <li><a href="all_deals.asp" title="More">More</a></li>
     </ul>
     </td>
@@ -606,7 +632,6 @@ return true;
 <li><img src="images/red_chilismall.jpg" border="0" usemap="#Map"></li>
 <li><a href="offerzone.asp" title="Offer Zone">Offer Zone</a></li>
 <!--li><a href="legitzone.asp" title="Legit Zone">Legit Zone</a></li-->
-<li><a href="free_stuff.asp" title="Free Stuff">Free Stuff</a></li>
 		</ul>		</td>
       </tr>
     </tbody></table></td>
@@ -627,12 +652,9 @@ return true;
 <!-------<li><a href="insurance.asp" title="Insurance">Insurance</a></li>----->
 <li><a href="travel.asp" title="Travel">Travel</a></li>
 <li><a href="seniors.asp" title="Senior&nbsp;Care">Senior&nbsp;Care</a></li>
-<li><a href="electronics.asp" title="Electronics/Toys">Electronics/Toys</a></li>
 <li><a href="clothing.asp" title="Clothing">Clothing</a></li>
-<li><a href="food_drinks.asp" title="Food Deals">Food Deals</a></li>
-<li><a href="music.asp" title="Music">Music</a></li>
 <li><a href="education.asp" title="Education">Education</a></li>
-<li><a href="all_deals.asp" title="All Deals">All Deals</a></li>
+<li><img src="images/auto_insurance_tab.jpg" border="0" usemap="#Map2"></li>
 		</ul>		</td>
       </tr>
     </tbody></table></td>
@@ -663,68 +685,20 @@ return true;
  
 </tbody></table></td>
   </tr>
-  <tr>
-    <td align="right" valign="top"><table width="168" border="0" align="center" cellpadding="0" cellspacing="0">
-                  
-                  <tbody><tr>
-                    <td align="left" valign="top" class="healthcare"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                      <tbody><tr>
-                        <td height="145" align="left" valign="top">&nbsp;</td>
-                        </tr>
-                      <tr>
-                        <td align="left" valign="top"><form name="f18" onsubmit="return validate18();" action="nordstrom/index.htm" method="post"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                          <tbody><tr>
-                            <td align="center" valign="top" width="100">
-                              
-                              <input name="email" type="text" id="email" style="width:150px; font-size:10px; color:#000;">
-                              </td>
-                            </tr>
-                          <tr>
-                            <td align="left" valign="middle" height="30"><input type="image" src="images/sign_upsmall.jpg" width="70" height="21" alt="" style="margin:0 0 0 90px;"></td>
-                            </tr>
-                          </tbody></table>
-                          </form></td>
-                        </tr>
-                      </tbody></table></td>
-                    </tr>
-                  
-                  
-                  
-                  
-                  </tbody></table></td>
-  </tr>
+  
   <tr>
     <td align="left" valign="top">&nbsp;</td>
   </tr>
-  <tr>
-    <td align="right" valign="top"><table width="168" border="0" cellspacing="0" cellpadding="0">
-
-  <tbody><tr>
-    <td align="center" valign="top"><img src="images/zappos.jpg" alt="" width="123" height="54"></td>
-  </tr>
-  <tr>
-    <td align="left" valign="top" class="newstyle_bg"><form id="f19" name="f19" onsubmit="return validate19();" method="post" action=""><table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td height="70" align="left" valign="top">&nbsp;</td>
-      </tr>
-
-            <tr>
-              <td align="center" valign="top">
-                <input name="email" type="text" id="email" style="width:120px; font-size:10px; color:#000;">
-              </td>
-            </tr>
-            <tr>
-              <td height="20" align="center" valign="bottom"><input type="image" src="images/notify.jpg" alt="" width="122" height="15"></td>
-            </tr>
-    </tbody></table></form></td>
-  </tr>
-</tbody></table></td>
-  </tr>
-    </tbody></table>
+  
+</tbody></table>
 
 <map name="Map" id="Map">
   <area shape="rect" coords="1,1,153,34" href="hot_deals.asp" title="Hot Deals">
-</map></td>
+</map>
+<map name="Map2" id="Map2">
+  <area shape="rect" coords="4,7,152,30" href="auto_insurance.asp" title="Hot Deals">
+</map>
+</td>
     <td width="20" align="left" valign="top">&nbsp;</td>
     <td width="790" align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
@@ -833,34 +807,46 @@ Westlake Village, CA 91362.
                   <tbody><tr>
                     <td width="142" height="70" align="left" valign="top"><a href="offers/insurance"><img src="images/insurance_small.jpg" width="123" height="54" alt=""></a></td>
                     <!--td width="142" height="70" align="left" valign="top"><a href="Allstate"><img src="images/allstate_small.jpg" width="123" height="54" alt="" /></a></td-->
-					<td width="142" height="70" align="left" valign="top"><a href="Dole2"><img src="images/dole_small.jpg" width="123" height="54" alt=""></a></td>
-                    <td width="142" height="70" align="left" valign="top"><a href="zappos"><img src="images/zappos_small.jpg" width="123" height="54" alt=""></a></td>
+					<td width="142" height="70" align="left" valign="top"><a href="zappos"><img src="images/zappos_small.jpg" width="123" height="54" alt=""></a></td>
                     <td width="142" height="70" align="left" valign="top"><a href="eMusic"><img src="images/emusic_small.jpg" width="123" height="54" alt=""></a></td>
                     <td width="142" height="70" align="left" valign="top"><a href="rhapsody"><img src="images/rhapsody_small.jpg" width="123" height="54" alt=""></a></td>
-                  </tr>
-                </tbody></table></td>
-              </tr>
-              <tr>
-                <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
                     <td width="142" height="70" align="left" valign="top"><a href="nordstrom"><img src="images/nordstrom_small.jpg" width="123" height="54" alt=""></a></td>
-                    <td width="142" height="70" align="left" valign="top"><a href="web_tv_lec"><img src="images/webtv.jpg" width="123" height="54" alt=""></a></td>
-                    
-					<td width="142" height="70" align="left" valign="top"><a href="signup"><img src="images/indaba_music.jpg" width="123" height="54" alt=""></a></td>
-					 <td width="142" height="70" align="left" valign="top"><a href="Expedia"><img src="images/expedia_small.jpg" width="123" height="54" alt=""></a></td>
-                    <!--td width="142" height="70" align="left" valign="top"><a href="accuquotelife"><img src="images/accuquote_small.jpg" width="123" height="54" alt="" /></a></td-->
-                    <td width="142" height="70" align="left" valign="top"><a href="ThreeNakedDogs"><img src="images/threenakeddogs_small.jpg" width="123" height="54" alt=""></a></td>
                   </tr>
                 </tbody></table></td>
               </tr>
               <tr>
                 <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
                   <tbody><tr>
+                    <td width="142" height="70" align="left" valign="top"><a href="web_tv_lec"><img src="images/webtv.jpg" width="123" height="54" alt=""></a></td>
+                    <td width="142" height="70" align="left" valign="top"><a href="signup"><img src="images/indaba_music.jpg" width="123" height="54" alt=""></a></td>
+                    
+					<td width="142" height="70" align="left" valign="top"><a href="Expedia"><img src="images/expedia_small.jpg" width="123" height="54" alt=""></a></td>
+					 <td width="142" height="70" align="left" valign="top"><a href="ThreeNakedDogs"><img src="images/threenakeddogs_small.jpg" width="123" height="54" alt=""></a></td>
+                    <!--td width="142" height="70" align="left" valign="top"><a href="accuquotelife"><img src="images/accuquote_small.jpg" width="123" height="54" alt="" /></a></td-->
                     <td width="142" height="70" align="left" valign="top"><a href="reverse"><img src="images/reverseclothing_small.jpg" width="123" height="54" alt=""></a></td>
+                  </tr>
+                </tbody></table></td>
+              </tr>
+              <tr>
+                <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tbody><tr>
                     <td width="142" height="70" align="left" valign="top"><a href="free_delta_air_tickets"><img src="images/delta.jpg" width="123" height="54" alt=""></a></td>
                     <td width="142" height="70" align="left" valign="top"><a href="mfl_center_files"><img src="images/morefromlife.jpg" width="123" height="54" alt=""></a></td>
+                    <td width="142" height="70" align="left" valign="top"><a href="car_insurance"><img src="images/car-insurance_small.jpg" width="123" height="54" alt=""></a></td>
+                    <td width="142" height="70" align="left" valign="top"><a href="atlas_car_insurance"><img src="images/atlascarinsurance_small.jpg" width="123" height="54" alt=""></a></td>
+                    <td width="142" height="70" align="left" valign="top"><a href="insure_me_mocal"><img src="images/insure_me_mocal_small.jpg" width="123" height="54" alt=""></a></td>
+                  </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tbody><tr>
+                    <td width="142" height="70" align="left" valign="top"><a href="united_auto_protection"><img src="images/unitedautoprotection_small.jpg" width="123" height="54" alt=""></a></td>
                     <td width="142" height="70" align="left" valign="top">&nbsp;</td>
-                    <td width="195" height="70" align="left" valign="top">&nbsp;</td>
+                    <td width="142" height="70" align="left" valign="top">&nbsp;</td>
+                    <td width="142" height="70" align="left" valign="top">&nbsp;</td>
+                    <td width="142" height="70" align="left" valign="top">&nbsp;</td>
                   </tr>
                 </tbody></table></td>
               </tr>
@@ -906,16 +892,14 @@ Westlake Village, CA 91362.
           <ul class="footermenu">
             <li class="img02"><a href="travel.asp">Travel</a></li>
   <!-----<li><a href="insurance.asp">Insurance</a></li>----->
-  <li><a href="electronics.asp">Electronics/Toys</a></li>
-  <li><a href="food_drinks.asp">Food Deals</a></li>
   <li><a href="seniors.asp">Senior&nbsp;Care</a></li>
-  <li><a href="music.asp">Music</a></li>
   <li><a href="clothing.asp">Clothing</a></li>
   <li><a href="all_deals.asp">More</a></li>
   <li><a href="privacypolicy.asp">Privacy Policy</a></li>
   <li><a href="adults.asp">Adults ( 21&amp; Over )</a></li>
+  <li><a href="auto_insurance.asp">Auto Insurance</a></li>
   <li><a href="advertise_with_us.asp">Advertise With Us</a></li>
-            </ul>
+              </ul>
           </td>
         </tr>
       <tr>
