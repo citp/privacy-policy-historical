@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the grocerycouponcart.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302162611id_/http%3A//www.grocerycouponcart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grocerycouponcart.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228064454id_/http%3A//www.grocerycouponcart.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Grocery Coupon Cart
+
+## Privacy Policy 
 
 Last Updated: November 11th, 2010
 
-This is the Privacy Policy of GroceryCouponCart.com ("GCC", or "us", or "we", or "our" ) for your use of all pages and services provided on our website (collectively, the "Site"). Site Visitor further acknowledges and agrees that we may update this Privacy Policy without notice at any time, and as a result, Site Visitors are encouraged to review these Terms each and every time they use the Site.
+This is the Privacy Policy of GroceryCouponCart.com (“GCC”, or “us”, or “we”, or “our” ) for your use of all pages and services provided on our website (collectively, the “Site”). Site Visitor further acknowledges and agrees that we may update this Privacy Policy without notice at any time, and as a result, Site Visitors are encouraged to review these Terms each and every time they use the Site.
 
 We are committed to protecting your privacy. Please read our privacy policy below to learn more.
 
@@ -12,9 +14,9 @@ We are committed to protecting your privacy. Please read our privacy policy belo
 
   * This Privacy Policy explains our privacy practices and applies to your use of the Site.
   * This Privacy Policy covers how we treat the personal information we collect and receive related to your use of the Site.
-  * When we refer to "personal information", what we mean is any information about you that is personally identifiable like your name, e-mail address, and any other information that is not otherwise publicly available.
+  * When we refer to “personal information”, what we mean is any information about you that is personally identifiable like your name, e-mail address, and any other information that is not otherwise publicly available.
   * This Privacy Policy does not apply to the practices of people or companies that we do not own, control, employ or manage.
-  * **_Minors_** \- You must be at least 18 years old to register or subscribe for the Site because it is available only to individuals who can form legally binding contracts under applicable law.
+  * **_Minors_** – You must be at least 18 years old to register or subscribe for the Site because it is available only to individuals who can form legally binding contracts under applicable law.
 
 
 
@@ -51,3 +53,5 @@ We use cookies and other technologies to personalize the Site to your preference
   * Information about how to opt out of receiving communications to which you are currently subscribed is included in every communication we send to you.
 
 
+
+ 
