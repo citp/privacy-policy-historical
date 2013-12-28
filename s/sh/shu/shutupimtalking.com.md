@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shutupimtalking.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530090037id_/http%3A//shutupimtalking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutupimtalking.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229004939id_/http%3A//shutupimtalking.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shut Up I'm Talking
 
