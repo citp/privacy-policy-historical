@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the mysurfbiz.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629045848id_/http%3A//mysurfbiz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysurfbiz.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228103850id_/http%3A//mysurfbiz.com/privacy.php) for the most accurate reproduction.*
 
 # MySurfBiz
 
 Recommended  
-[](http://mysurfbiz.com/bannerclick.php?id=33)  
+[](http://mysurfbiz.com/bannerclick.php?id=13)  
 [» Rina's Top Viral Mail Profits Tracked Results «](https://web.archive.org/topprograms.php)
 
 MySurfBiz.com Privacy Policy
