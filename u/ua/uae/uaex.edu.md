@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uaex.edu privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628132627id_/http%3A//division.uaex.edu/statements.htm%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uaex.edu privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228132517id_/http%3A//division.uaex.edu/statements.htm%23Privacy) for the most accurate reproduction.*
 
 # Statements, Disclaimers and Freedom of Information for the U of A Division of Agriculture
 
@@ -30,13 +30,21 @@ The mention of any commercial product in this web site does not imply its endors
 
 Thank you for visiting the University of Arkansas Division of Agriculture website and reviewing our privacy statement. The organization has a firm commitment to protecting your privacy. Information may be collected in the following ways:
 
-**Online web applications** \- Personal information concerning name, address, phone and e-mail may be requested by certain applications. The information you provide will be used only for the purposes of delivering the recommendations from the applications and notifying you of new versions, corrections or other information related to the recommendations.
+**Online web applications**  \- Personal information concerning name, address, phone and e-mail may be requested by certain applications. The information you provide will be used only for the purposes of delivering the recommendations from the applications and notifying you of new versions, corrections or other information related to the recommendations.
 
-**Statistical logging** \- Automated logging of statistics related to the visitors to our website are kept strictly to analyze traffic on the website to assist in the efficient management and evolution of the material. This information will not be used for marketing or other non-related activities.
+**Statistical logging**  \- Automated logging of statistics related to the visitors to our website are kept strictly to analyze traffic on the website to assist in the efficient management and evolution of the material. This information will not be used for marketing or other non-related activities.
 
-**Cookies** \- A cookie file contains unique information that a website can use to track passwords, pages visited and the date visited, and to identify your session at a particular website. At this time, "cookies" are not employed to collect information on the U of A Division of Agriculture website. In the future, cookies may be added to improve the ease of use of our website. Information gathered for ease of use will not be redeployed elsewhere.
+**Cookies**  \- A cookie file contains unique information that a website can use to track passwords, pages visited and the date visited, and to identify your session at a particular website. The only cookies in use on our site are for Google Analytics. Google Analytics is a web analytics tool that helps website owners understand how visitors engage with their website. Google Analytics customers can view a variety of reports about how visitors interact with their website so that they can improve it. 
 
-**E-mail** \- Personal information collected via e-mail or through other online means will be used only for purposes necessary to serve your needs, such as responding to an inquiry for information. This may involve redirecting your inquiry or comment to another person or department better suited to meeting your needs. 
+We may collect information about your computer, including your IP address, operating system and browser type, for system administration and in order to create reports. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual. 
+
+Like many services, Google Analytics uses first-party cookies to track visitor interactions as in our case, where they are used to collect information about how visitors use our site. We then use the information to compile reports and to help us improve our site. 
+
+Cookies contain information that is transferred to your computer’s hard drive. These cookies are used to store information, such as the time that the current visit occurred, whether the visitor has been to the site before and what site referred the visitor to the web page. 
+
+Google Analytics collects information anonymously. It reports website trends without identifying individual visitors. You can opt out of Google Analytics without affecting how you visit our site – for more information on opting out of being tracked by Google Analytics across all websites you use, [visit this Google page](https://tools.google.com/dlpage/gaoptout). 
+
+**E-mail**  \- Personal information collected via e-mail or through other online means will be used only for purposes necessary to serve your needs, such as responding to an inquiry for information. This may involve redirecting your inquiry or comment to another person or department better suited to meeting your needs.
 
 #### Freedom of Information at the University of Arkansas Division of Agriculture
 
