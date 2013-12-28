@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the randstad.co.uk privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915051935id_/http%3A//www.randstad.co.uk/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randstad.co.uk privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228015343id_/http%3A//www.randstad.co.uk/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
 
-# privacy policy and terms of use - Randstad UK - General
+# privacy policy and terms of use - Randstad UK
 
 Your use of Randstad’s website is subject to the following terms & conditions, which you are deemed to accept each time you use the website. 
 
@@ -34,7 +34,8 @@ Google Analytics                  | This gather anonymised data
 ---|---  
 3rd Party Advertising  | If you entered our website through one of our online campaigns on other site or via email, we will store information about this campaign along with your registration. This information will be used internally to measure the effectiveness of our campaigns. To support this functionality we use a cookie that expires after 60 days.   
 Website Cookies | This cookie allows us to remember user details  
-Profunnel / Email | This cookie allows us to track emails  
+Email | This cookie allows us to track emails  
+EyeGym | These cookies allow us to retain your scores and levels achieved on Randstad’s Workout programme.  
   
 We will not use cookies to collect personally identifiable information about you. However, if you wish to restrict or block the cookies which are set by us, or indeed any other website, you can do this through your browser settings. The Help function within your browser should tell you how. 
 
