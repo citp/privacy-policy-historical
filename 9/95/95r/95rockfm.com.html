@@ -1,224 +1,67 @@
-<!--The following is the downloaded HTML source of the 95rockfm.com privacy policy that was archived on 2012-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121127195845id_/http%3A//95rockfm.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 95rockfm.com privacy policy that was archived on 2013-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131228011204id_/http%3A//95rockfm.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html dir="ltr" lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"><!--<![endif]--><head>
+<!DOCTYPE html><html dir="ltr" lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width">
+<meta name="viewport" content="width=1280">
 <title>95 Rock FM Radio - The Rock of Western Colorado - Grand Junction Music</title>
 
-<link id="design-fav" rel="shortcut icon" href="http://custom-sites-template-1.production.townsquaresites.com/files/2011/02/favicon.ico">
-<link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="stylesheet" type="text/css" media="all" href="http://95rockfm.com/wp-content/themes/townsquare3-music/style.css">
+<link id="design-fav" rel="shortcut icon" href="http://custom-sites-template-1.production.townsquareblogs.com/files/2011/02/favicon.ico">
 <link rel="alternate" type="application/rss+xml" title="95 Rock - KKNN-FM - Grand Junction, CO » Feed" href="http://95rockfm.com/feed/">
-<link rel="stylesheet" id="weather-widget-css-css" href="http://95rockfm.com/wp-content/plugins/weather-widget/resources/style.css?ver=3.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="loyalty-alerts-admin-css" href="http://95rockfm.com/wp-content/plugins/loyalty-alert-system/resources/css/admin.css?ver=3.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="ts3-css" href="http://95rockfm.com/css/ts3.css?ver=1350637983a9bcef3282" type="text/css" media="all">
-<link rel="stylesheet" id="fancybox-css" href="http://95rockfm.com/wp-content/themes/townsquare3/resources/js/fancybox/jquery.fancybox-1.3.3.css?ver=3.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="tsc-fonts-css" href="http://95rockfm.com/wp-content/themes/townsquare3/resources/css/fonts.css?ver=a9bcef32826972dcf2ce112285b4f47da0f22d43" type="text/css" media="screen">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">/* <![CDATA[ */function add_loyalty_points( activity, points, callback ) {
-	Loyalty_Points.add_points(activity, points, callback);
-}
-
-function remove_loyalty_points( activity, points, callback ) {
-	add_loyalty_points(activity, points*-1, callback);
-}
-
-function get_loyalty_user( activity, callback ) {
-	Loyalty_Points.get_user( activity, callback );
-}
-
-function update_loyalty_points( points ) {
-	Loyalty_Points.update_points(points);
-}
-
-function get_loyalty_point_value( activity ) {
-	return Loyalty_Points.get_point_value(activity);
-}
-
-function get_loyalty_activity_interval( activity ) {
-	return Loyalty_Points.get_interval(activity);
-}
-
-function Loyalty_User() {
-	this.last_request = 0;
-	this.status = 'OK';
-	this.error = '';
-	this.name = '';
-	this.email = '';
-	this.points = 0;
-	this.activities = {};
-}
-Loyalty_User.prototype.update = function ( data ) {
-	if ( typeof(data.status) == 'undefined' ) {
-		return; // if we don't have a status, we can't assume anything else if valid
-	}
-	this.status = data.status;
-	this.error = '';
-	if ( typeof(data.last_request) != 'undefined' ) {
-		this.last_request = data.last_request;
-	}
-	if ( typeof(data.error) != 'undefined' ) {
-		this.error = data.error;
-	}
-	if ( typeof(data.name) != 'undefined' ) {
-		this.name = data.name;
-	}
-	if ( typeof(data.email) != 'undefined' ) {
-		this.email = data.email;
-	}
-	if ( typeof(data.points) != 'undefined' ) {
-		this.points = data.points;
-	}
-	if ( typeof(data.activities) != 'undefined' ) {
-		// don't want to overwrite any existing activities that aren't set in data
-		for ( activity in data.activities ) {
-			this.activities[activity] = data.activities[activity];
-		}
-	}
-};
-
-Loyalty_Points = {
-	activities: {},
-	user: new Loyalty_User,
-
-	add_points: function( activity, points, callback ) {
-		if ( !activity ) {
-			return;
-		}
-		var url = '/api/loyalty';
-		url = url + '/' + activity;
-		if ( points ) {
-			url = url + '/' + points;
-		}
-		jQuery.ajax({
-			url: url,
-			data: { now: Math.round((new Date()).getTime() / 1000) }, // because IE loves to cache
-			success: function(data, textStatus) {
-				if ( data ) {
-					if ( typeof(data.points) != 'undefined' ) {
-						Loyalty_Points.update_points(data.points);
-					}
-					Loyalty_Points.user.update(data);
-					if ( callback ) {
-						callback(Loyalty_Points.user);
-					}
-				}
-			},
-			error: function(request, textStatus) {
-				var data = jQuery.parseJSON(request.response);
-				if ( data ) {
-					Loyalty_Points.user.update(data);
-					if ( callback ) {
-						callback(Loyalty_Points.user);
-					}
-				}
-			},
-			dataType: 'json'
-		});
-	},
-
-	get_user: function( activity, callback ) {
-		if ( !document.cookie.match(/_ts_logged_in=1/) ) {
-			return;
-		}
-		var url = '/api/loyalty/user';
-		if ( activity ) {
-			url = url + '/' + activity;
-		}
-		jQuery.ajax({
-			url: url,
-			data: {},
-			success: function(data, textStatus) {
-				if ( data ) {
-					Loyalty_Points.user.update(data);
-					if ( callback ) {
-						callback(Loyalty_Points.user);
-					}
-				}
-			},
-			error: function(request, textStatus) {
-				data = jQuery.parseJSON(request.response);
-				if ( data ) {
-					Loyalty_Points.user.update(data);
-					if ( callback ) {
-						callback(Loyalty_Points.user);
-					}
-				}
-			},
-			dataType: 'json'
-		});
-	},
-
-	update_points: function( points ) {
-		jQuery(".number-of-points").text(points);
-	},
-
-	get_point_value: function( activity ) {
-		var a = this.get_activity(activity);
-		if ( a != null ) {
-			return a.points;
-		}
-		return 0;
-	},
-
-	get_interval: function( activity ) {
-		var a = this.get_activity(activity);
-		if ( a != null ) {
-			return a.interval;
-		}
-		return 0;
-	},
-
-	get_activity: function( activity ) {
-		if ( !(typeof this.activities[activity] == 'undefined') ) {
-			return this.activities[activity];
-		}
-		return null;
-	}
-};
-
-Loyalty_Points.activities = {"loyalty_manual_entry":{"points":10,"point_override":true,"maximum":-1,"daily_maximum":-1,"request_maximum":-1,"interval":5,"label":"Manual Entry","immutable":2},"loyalty_new_user":{"points":2500,"point_override":false,"maximum":2500,"daily_maximum":2500,"request_maximum":-1,"interval":15,"label":"User Registration","immutable":true,"superimmutable":false},"loyalty_migrate_user":{"points":10,"point_override":true,"maximum":-1,"daily_maximum":-1,"request_maximum":-1,"interval":5,"label":"Migrate User","immutable":2},"prize":{"points":10,"point_override":true,"maximum":-1,"daily_maximum":-1,"request_maximum":-1,"interval":5,"label":"Prize","immutable":2},"loyalty_code_listen":{"points":2500,"point_override":true,"maximum":-1,"daily_maximum":40000,"request_maximum":-1,"interval":15,"expiration":0,"label":"Listen & Win","immutable":true,"superimmutable":true},"loyalty_code_bonus":{"points":1000,"point_override":true,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":15,"expiration":0,"label":"Bonus Code","immutable":true,"superimmutable":true},"loyalty_game_blkjack":{"points":10,"point_override":true,"maximum":-1,"daily_maximum":1000000,"request_maximum":-1,"interval":3,"expiration":0,"label":"Blackjack","immutable":true,"superimmutable":false},"loyalty_game_slots":{"points":10,"point_override":true,"maximum":-1,"daily_maximum":1000000,"request_maximum":-1,"interval":3,"expiration":0,"label":"Slot Machine","immutable":true,"superimmutable":false},"loyalty_game_scratch":{"points":10,"point_override":true,"maximum":-1,"daily_maximum":1000000,"request_maximum":-1,"interval":3,"expiration":0,"label":"Scratch & Win","immutable":true,"superimmutable":false},"loyalty_ftlink_link":{"points":250,"point_override":false,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":3,"expiration":0,"label":"Featured Link","immutable":true,"superimmutable":false},"loyalty_ftlink_land":{"points":10,"point_override":false,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":15,"expiration":0,"label":"Landing","immutable":true,"superimmutable":false},"loyalty_trivia":{"points":1000,"point_override":true,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":15,"expiration":0,"label":"Trivia","immutable":true,"superimmutable":false},"loyalty_qa_poll":{"points":500,"point_override":false,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":15,"expiration":0,"label":"Poll","immutable":true,"superimmutable":false},"loyalty_qa_quiz":{"points":1000,"point_override":false,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":15,"expiration":0,"label":"Quiz","immutable":true,"superimmutable":false},"loyalty_qa_survey":{"points":1500,"point_override":true,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":15,"expiration":0,"label":"Survey","immutable":true,"superimmutable":true},"loyalty_purch_trade":{"points":1000,"point_override":true,"maximum":-1,"daily_maximum":-1,"request_maximum":-1,"interval":5,"expiration":0,"label":"Trade-in","immutable":true,"superimmutable":false},"loyalty_purch_coupon":{"points":500,"point_override":true,"maximum":-1,"daily_maximum":-1,"request_maximum":-1,"interval":5,"expiration":0,"label":"Coupon","immutable":false,"superimmutable":false},"loyalty_ct_custom":{"points":500,"point_override":true,"maximum":-1,"daily_maximum":-1,"request_maximum":-1,"interval":15,"expiration":0,"label":"Featured Contest","immutable":true,"superimmutable":false},"loyalty_ct_standard":{"points":500,"point_override":true,"maximum":-1,"daily_maximum":-1,"request_maximum":-1,"interval":15,"expiration":0,"label":"Contest","immutable":true,"superimmutable":false},"Radio Page Counter":{"points":250,"point_override":false,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":900,"expiration":0,"active":true,"immutable":true,"superimmutable":false}};
-/* ]]> */</script><script type="text/javascript">
-/* <![CDATA[ */
-var $adminAjax = {"url":"http:\/\/95rockfm.com\/wp-admin\/admin-ajax.php"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://95rockfm.com/wp-content/plugins/jquery-updater/js/jquery-1.7.2.min.js?ver=1.7.2"></script>
-<script type="text/javascript" src="http://95rockfm.com/wp-content/plugins/crossposting/resources/crossposting.js?ver=2012-09-06"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var NowPlaying = {"refresh":"0"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://95rockfm.com/wp-content/mu-plugins/now-playing/resources/now-playing.js?ver=a9bcef32826972dcf2ce112285b4f47da0f22d43"></script>
-<script type="text/javascript" src="http://kknn.production.townsquaresites.com/wp-content/plugins/events/resources/events.js?ver=3.4.2"></script>
-<script type="text/javascript" src="http://95rockfm.com/wp-content/themes/townsquare3/resources/js/html5.js?ver=a9bcef32826972dcf2ce112285b4f47da0f22d43"></script>
-<script type="text/javascript" src="http://95rockfm.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.1.1"></script>
-<meta property="og:title" content="95 Rock FM Radio - The Rock of Western Colorado - Grand Junction Music">
-<meta property="og:site_name" content="95 Rock - KKNN-FM - Grand Junction, CO">
-<meta property="og:url" content="http://95rockfm.com">
-<meta property="og:description" content="95.1 Rock FM, KKNN, plays the best rock in Grand Junction, CO.">
-<meta property="og:type" content="blog">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="stylesheet" type="text/css" media="all" href="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/wp-content/themes/townsquare3-music/style.css">
+<link rel="stylesheet" id="weather-widget-css-css" href="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/wp-content/plugins/weather-widget/resources/style.css?ver=3.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="loyalty-alerts-admin-css" href="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/wp-content/plugins/loyalty-alert-system/resources/css/admin.css?ver=3.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-fancybox-css" href="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.css?ver=0cec18a4030388a4d0394dbed1af19c6ebc5b43e" type="text/css" media="all">
+<link rel="stylesheet" id="ts3-css" href="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/css/ts3.css?ver=13865919460cec18a403" type="text/css" media="all">
+<link rel="stylesheet" id="facebook_auth-css" href="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/wp-content/plugins/facebook-apps/css/facebook-auth.css?ver=0cec18a4030388a4d0394dbed1af19c6ebc5b43e" type="text/css" media="all">
+<link rel="stylesheet" id="radio-players-css" href="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/wp-content/plugins/radio-players/resources/css/radio-players.css?ver=0cec18a4030388a4d0394dbed1af19c6ebc5b43e" type="text/css" media="screen">
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/wp-content/plugins/jquery-updater/js/jquery-1.7.2.min.js?ver=1.7.2"></script>
+<script type="text/javascript" src="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/wp-content/themes/townsquare3/resources/js/html5.js?ver=0cec18a4030388a4d0394dbed1af19c6ebc5b43e"></script>
+<script type="text/javascript" src="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.1.1.d"></script>
+<script type="text/javascript" src="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/wp-content/plugins/google-analyticator/content-scrolling.js?ver=6.1.1.d"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://95rockfm.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://95rockfm.com/wp-includes/wlwmanifest.xml"> 
+	<script type="text/javascript">
+		var googletag = googletag || {};
+		var TSMAdHelperSettings = {};
+	</script>
+		<script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script>
+	<script type="text/javascript">
+		TSMAdHelperSettings = {
+			'dfp6':{
+				async:0
+			}
+		}
+	</script>
+<script id="tsm-googletag-init" type="text/javascript">
+	window.TSMAdSettings = {"activeSlots":["top-right-300x250","bottom-right-300x250","dynamic-ad-custom","dynamic-ad-header","dynamic-ad-push","top-728x90","bottom-728x90","mid-top-300x250","mid-bottom-300x250"],"adPageSettings":{"pageSettings":{"sitetype":"Local","market":"Grand_junction","callletters":"KKNN","pagetype":"home"},"attrs":{"catid":"","id":"","author":"","kw":[],"device":"web","kv":[]}}};
+</script>
+<script type="text/javascript" src="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/wp-content/mu-plugins/google-ads/js/tsmadhelper.js?v=0cec18a4030388a4d0394dbed1af19c6ebc5b43e"></script>
 
-<!-- All in One SEO Pack - Pro Version 1.72 by Michael Torbert of Semper Fi Web Design[883,976] -->
+<!-- All in One SEO Pack - Pro Version 1.72 by Michael Torbert of Semper Fi Web Design[631,724] -->
 <meta name="description" content="95.1 Rock FM, KKNN, plays the best rock in Grand Junction, CO.">
 <meta name="keywords" content="95 Rock, 95.1 Rock FM, Rock Grand Junction, KKNN Grand Junction, 95.1 FM, 95 Rock Grand Junction, Colorado Rock, KKNN Rock,">
 <link rel="canonical" href="http://95rockfm.com/">
 <!-- /all in one seo pack Pro Version-->
 <meta property="fb:app_id" content="109655859182135">
 <meta property="fb:admins" content="100002025987268">
-
-                <script>
-                    if(typeof(oKETool)=="undefined") oKETool = {};
-                    oKETool.pluginsUrl = "http://95rockfm.com/wp-content/plugins/";
-                    oKETool.themePlugin = "http://95rockfm.com/wp-content/themes/townsquare3-music/plugins/";
-                </script>
-            <!-- Begin comScore Tag -->
+<meta property="og:title" content="95 Rock FM Radio - The Rock of Western Colorado - Grand Junction Music">
+<meta property="og:description" content="95.1 Rock FM, KKNN, plays the best rock in Grand Junction, CO.">
+<meta property="og:url" content="http://95rockfm.com/">
+<meta property="og:site_name" content="95 Rock - KKNN-FM - Grand Junction, CO">
+<meta property="og:type" content="blog">
+<meta property="og:image" content="http://kknn.production.townsquareblogs.com/files/2012/08/logo.png?w=250&amp;zc=1&amp;s=0&amp;a=t&amp;q=90">
+<meta name="twitter:card" content="summary">
+<script type="text/javascript">if(ajaxurl == undefined) { var ajaxurl = "http://95rockfm.com/wp-admin/admin-ajax.php"; }</script><style type="text/css" media="all">
+/* <![CDATA[ */
+@import url("http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/wp-content/plugins/wp-table-reloaded/css/plugin.css?ver=1.9.3");
+@import url("http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/wp-content/plugins/wp-table-reloaded/css/datatables.css?ver=1.9.3");
+/* ]]> */
+</style><!-- Begin comScore Tag -->
 <script>
 	var _comscore = _comscore || [];
-	_comscore.push({ c1: "2", c2: "8585732" });
+	_comscore.push({ c1: "2", c2: "6665296" });
 	(function() {
 		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
 		el.parentNode.insertBefore(s, el);
@@ -226,61 +69,26 @@ var NowPlaying = {"refresh":"0"};
 </script>
 
 <noscript>
-<img src="http://b.scorecardresearch.com/p?c1=2&c2=8585732&cv=2.0&cj=1" /> </noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6665296&cv=2.0&cj=1" /> </noscript>
 <!-- End comScore Tag -->
-<!-- Google Ads Start -->
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
-<script type="text/javascript">
-GS_googleAddAdSenseService("ca-pub-5913157830665197");
-GS_googleEnableAllServices();
-</script>
-<script type="text/javascript">
-GA_googleAddAttr("type", "home");
-</script>
-<script type="text/javascript">
-GA_googleAddSlot("ca-pub-5913157830665197", "JUN_KKNN_RIGHT_TILE_300X100");
-GA_googleAddSlot("ca-pub-5913157830665197", "JUN_KKNN_SKYSCRAPER_300X600");
-GA_googleAddSlot("ca-pub-5913157830665197", "JUN_KKNN_TOP_RIGHT_TILE_AD_300X250");
-GA_googleAddSlot("ca-pub-5913157830665197", "JUN_KKNN_BOTTOM_TILE_AD_300X250");
-GA_googleAddSlot("ca-pub-5913157830665197", "JUN_KKNN_CUSTOM_1X1");
-GA_googleAddSlot("ca-pub-5913157830665197", "JUN_KKNN_MINIAD_120x90");
-GA_googleAddSlot("ca-pub-5913157830665197", "JUN_KKNN_MINIAD_120x90_1");
-GA_googleAddSlot("ca-pub-5913157830665197", "JUN_KKNN_MINIAD_120x90_2");
-GA_googleAddSlot("ca-pub-5913157830665197", "JUN_KKNN_MINIAD_120x90_3");
-GA_googleAddSlot("ca-pub-5913157830665197", "JUN_KKNN_LEADERBOARD");
-GA_googleAddSlot("ca-pub-5913157830665197", "JUN_KKNN_BOTTOM_LEADERBOARD");
-GA_googleAddSlot("ca-pub-5913157830665197", "JUN_KKNN_MIDDLE_TILE_AD_3_300x250");
-GA_googleAddSlot("ca-pub-5913157830665197", "JUN_KKNN_MIDDLE_TILE_AD_7_300x250");
-GA_googleAddSlot("ca-pub-5913157830665197", "JUN_KKNN_EXPANDING_PENCIL_AD");
-GA_googleAddSlot("ca-pub-5913157830665197", "JUN_KKNN_PUSHDOWN");
-GA_googleAddSlot("ca-pub-5913157830665197", "JUN_KKNN_CUSTOM_1X1");
-</script>
-<script type="text/javascript">
-GA_googleFetchAds();
-</script>
-<!-- Google Ads End -->
-<style type="text/css" media="all">
-/* <![CDATA[ */
-@import url("http://95rockfm.com/wp-content/plugins/wp-table-reloaded/css/plugin.css?ver=1.9.3");
-@import url("http://95rockfm.com/wp-content/plugins/wp-table-reloaded/css/datatables.css?ver=1.9.3");
-/* ]]> */
-</style>
 
 
-<!-- Google Analytics Tracking by Google Analyticator 6.1.1: http://ronaldheft.com/code/analyticator/ -->
+
+<!-- Google Analytics Tracking by Google Analyticator 6.1.1.d: http://ronaldheft.com/code/analyticator/ -->
 <script type="text/javascript">
-	var analyticsFileTypes = [''];
-	var analyticsEventTracking = 'enabled';
+var analyticsFileTypes = [''];
+var analyticsEventTracking = 'enabled';
 </script>
 <script type="text/javascript">
 var _gaq_author = '95 Rock - KKNN-FM - Grand Junction, CO';
+var _gaq_categories = '';
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-33436616-4']);
 _gaq.push(['_setDomainName', '.95rockfm.com']);
 _gaq.push(['_setCampaignCookieTimeout', 0]);
 _gaq.push(['_setAllowHash', false]);
 _gaq.push(['_setCustomVar', 1, 'Author', _gaq_author, 3]);
+_gaq.push(['_setCustomVar', 2, 'Categories', _gaq_categories, 3]);
 _gaq.push(['_trackPageview']);
 _gaq.push(['_setAccount', 'UA-19109753-1']);
 _gaq.push(['_setDomainName', '.95rockfm.com']);
@@ -292,32 +100,53 @@ _gaq.push(['_setDomainName', '.95rockfm.com']);
 _gaq.push(['_setCampaignCookieTimeout', 0]);
 _gaq.push(['_setAllowHash', false]);
 _gaq.push(['_setCustomVar', 1, 'Author', _gaq_author, 3]);
+_gaq.push(['_setCustomVar', 2, 'Categories', _gaq_categories, 3]);
 _gaq.push(['_trackPageview']);
 _gaq.push(['_setAccount', 'UA-28825804-2']);
 _gaq.push(['_setDomainName', '.95rockfm.com']);
 _gaq.push(['_setCampaignCookieTimeout', 0]);
 _gaq.push(['_setAllowHash', false]);
 _gaq.push(['_trackPageview']);
+_gaq.push(['_setAccount', 'UA-45260060-5']);
+_gaq.push(['_setDomainName', '.95rockfm.com']);
+_gaq.push(['_setCampaignCookieTimeout', 0]);
+_gaq.push(['_setAllowHash', false]);
+_gaq.push(['_setCustomVar', 1, 'Author', _gaq_author, 3]);
+_gaq.push(['_setCustomVar', 2, 'Categories', _gaq_categories, 3]);
+_gaq.push(['_trackPageview']);
 
 	(function() {
 		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	})();
 </script>
 </head>
 
 <body class="home blog top_banner twotone block-sidebar-header block-listen-bar">
-<div id="takeover_wrap" class="body_child"><div id="top_banner" class="clearfix"><!-- /JUN_KKNN_LEADERBOARD -->
-		<script type="text/javascript">
-	GA_googleFillSlot("JUN_KKNN_LEADERBOARD");
-	</script>
-	</div><div class="google_ad_custom_1x1_wrap"><!-- /JUN_KKNN_CUSTOM_1X1 -->
-		<script type="text/javascript">
-	GA_googleFillSlot("JUN_KKNN_CUSTOM_1X1");
-	</script>
-	</div><header class="top">
-    <a href="http://95rockfm.com" title="95 Rock - KKNN-FM - Grand Junction, CO" class="site_logo_link"><img src="http://kknn.production.townsquaresites.com/files/2012/08/logo.png" alt="95 Rock - KKNN-FM - Grand Junction, CO" id="site-logo" class=""></a>    <div id="header_search">
+<div id="takeover_wrap" class="body_child">
+<div id="top_banner" class="tsmAd clearfix"><div id="top-728x90"><script type="text/javascript">googletag.display("top-728x90");</script></div></div><div class="google_ad_custom_1x1_wrap tsmAd"><div id="dynamic-ad-custom"><script type="text/javascript">googletag.display("dynamic-ad-custom");</script></div></div><div class="google_ad_custom2_1x1_wrap tsmAd"><div id="dynamic-ad-header"><script type="text/javascript">googletag.display("dynamic-ad-header");</script></div></div><div class="google_ad_custom_1x1_wrap tsmAd"><div id="dynamic-ad-push"><script type="text/javascript">googletag.display("dynamic-ad-push");</script></div></div><div id="fb-root"></div>
+<script>
+	window.fbAsyncInit = function() {
+		FB.init({
+			appId      : '109655859182135', // App ID from the App Dashboard
+			channelUrl : 'http://95rockfm.com/wp-content/plugins/facebook-apps/views/channel.php', // Channel File for x-domain communication
+			status     : true,
+			cookie     : true,
+			xfbml      : true,
+			oauth      : true
+		});
+	};
+	(function(d, debug){
+		var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+		if (d.getElementById(id)) {return;}
+		js = d.createElement('script'); js.id = id; js.async = true;
+		js.src = "//connect.facebook.net/en_US/all" + (debug ? "/debug" : "") + ".js";
+		ref.parentNode.insertBefore(js, ref);
+	}(document, /*debug*/ false));
+</script>
+		<header class="top">
+    <a href="http://95rockfm.com" title="95 Rock - KKNN-FM - Grand Junction, CO" class="site_logo_link"><img src="http://kknn.production.townsquareblogs.com/files/2012/08/logo.png" alt="95 Rock - KKNN-FM - Grand Junction, CO" id="site-logo" class=""></a>    <div id="header_search">
                 <form method="get" action="http://95rockfm.com/" class="search_form">
             <label for="search_input">Search</label>
             <input type="submit" name="submit_button" alt="Search" class="search_icon" value="">
@@ -326,72 +155,75 @@ _gaq.push(['_trackPageview']);
     </div>
     <a class="contactUs" href="/help/">Contact Us</a>
     <div id="sso">
-        <span class="sso_links"><img class="fbicon" src="http://95rockfm.com/wp-content/plugins/tsm-wp-fb-autoconnect/images/fbicon.png"><a class="login_modal_link" href="http://95rockfm.com/login/?referer=http://95rockfm.com/privacy">Sign In</a> | <a class="register_modal_link" href="http://95rockfm.com/registration/">Sign Up</a></span>
+        <span class="sso_links"><img src="http://wac.450f.edgecastcdn.net/80450F/production.townsquareblogs.com/wp-content/uploads/2013/04/fbicon.png"><a class="fb-auth-login-link" href="#fb-auth-login">Sign In</a> | <a class="fb-auth-registration-link" href="#fb-auth-registration">Sign Up</a></span>
     </div><!-- // #sso.right -->
 </header><!-- // #header_nav. -->
 
 <div id="main_container" class="clearfix">
-    
-<nav class="main">
+    <nav class="main">
 	<div class="menu-header-container"><ul id="menu-header" class="menu"><li id="menu-item-8" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8"><a href="/"><span class="nav_item">Home</span></a></li>
 <li id="menu-item-119" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119"><a href="/djs/"><span class="nav_item">On-Air</span></a>
 <ul class="sub-menu">
 	<li id="menu-item-6019" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6019"><a href="/djs/"><span class="nav_item">DJs</span></a></li>
+	<li id="menu-item-95409" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-95409"><a href="/author/freebeerhotwingsgj/"><span class="nav_item">Free Beer + Hot Wings</span></a></li>
+	<li id="menu-item-95414" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-95414"><a href="/author/danthomas/"><span class="nav_item">Dan Thomas</span></a></li>
+	<li id="menu-item-95415" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-95415"><a href="/author/tommyrocker/"><span class="nav_item">Tommy Rocker</span></a></li>
+	<li id="menu-item-95416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-95416"><a href="/author/bacchus913yahoo-com/"><span class="nav_item">Bacchus</span></a></li>
 	<li id="menu-item-5818" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5818"><a href="/shows"><span class="nav_item">Shows</span></a></li>
 </ul>
 </li>
-<li id="menu-item-7457" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7457"><a href="/listen-live/popup"><span class="nav_item">Listen</span></a>
+<li id="menu-item-7457" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7457"><a href="/listen-live/"><span class="nav_item">Listen</span></a>
 <ul class="sub-menu">
-	<li id="menu-item-7459" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7459"><a href="/listen-live/popup"><span class="nav_item">Listen Live</span></a></li>
+	<li id="menu-item-7459" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7459"><a href="/listen-live/"><span class="nav_item">Listen Live</span></a></li>
 	<li id="menu-item-7460" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7460"><a href="/mobile"><span class="nav_item">Mobile App</span></a></li>
 </ul>
 </li>
-<li id="menu-item-7456" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7456"><a href="/playlist"><span class="nav_item">Playlist</span></a></li>
-<li id="menu-item-3724" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3724"><a href="/events"><span class="nav_item">Events</span></a>
+<li id="menu-item-7456" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7456"><a href="/playlist"><span class="nav_item">Playlist</span></a>
 <ul class="sub-menu">
-	<li id="menu-item-7458" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7458"><a href="/events"><span class="nav_item">Calendar</span></a></li>
+	<li id="menu-item-95420" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-95420"><a href="/playlist"><span class="nav_item">Recently Played</span></a></li>
+</ul>
+</li>
+<li id="menu-item-3724" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3724"><a href="/events-grand-junction/"><span class="nav_item">Events</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-122774" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-122774"><a href="/events-grand-junction/95-rock-metal-masquerade-new-years-eve-bash-december-31-at-mesa-theater-in-downtown-grand-junction/31-december-2013-mesa-theater//"><span class="nav_item">METAL MASQUERADE NEW YEAR’S EVE BASH</span></a></li>
+	<li id="menu-item-7458" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7458"><a href="/events-grand-junction/month/"><span class="nav_item">Calendar</span></a></li>
+	<li id="menu-item-54104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-54104"><a href="/events-grand-junction/community/add/"><span class="nav_item">Submit an Event</span></a></li>
 </ul>
 </li>
 <li id="menu-item-5825" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5825"><a href="/vip"><span class="nav_item">W.F.S. Club</span></a>
 <ul class="sub-menu">
-	<li id="menu-item-27300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27300"><a href="/vip/contest/featured-contests/win-10000-cash/"><span class="nav_item">Win $10,000 Cash!</span></a></li>
 	<li id="menu-item-5826" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5826"><a href="/vip/get-points"><span class="nav_item">Contests</span></a></li>
 	<li id="menu-item-5827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5827"><a href="/vip/trivia"><span class="nav_item">Trivia</span></a></li>
 	<li id="menu-item-18248" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18248"><a href="/vip/q-and-a/"><span class="nav_item">Your Feedback</span></a></li>
 	<li id="menu-item-5828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5828"><a href="/registration"><span class="nav_item">Sign Up</span></a></li>
 </ul>
 </li>
+<li id="menu-item-115698" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-115698"><a href="/local-experts/"><span class="nav_item">Local Experts</span></a></li>
 <li id="menu-item-5831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5831"><a href="/help"><span class="nav_item">Contact Us</span></a>
 <ul class="sub-menu">
+	<li id="menu-item-43199" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43199"><a href="/jobs/"><span class="nav_item">Career Opportunities</span></a></li>
+	<li id="menu-item-50601" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50601"><a href="/advertise/"><span class="nav_item">Advertise</span></a></li>
 	<li id="menu-item-5832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5832"><a href="/help"><span class="nav_item">Help &amp; Contact Info</span></a></li>
 	<li id="menu-item-5833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5833"><a href="/feedback"><span class="nav_item">Feedback</span></a></li>
 </ul>
 </li>
-</ul></div>
-	<div class="social_icons size_24">
-					<a href="http://www.facebook.com/KKNNFM" title="Follow on facebook" class="share_link facebook" target="_blank"><span class="social_icon">follow on facebook</span></a>
-		
-		<!--<a href="http://95rockfm.com/feed/" title="Subscribe via RSS" class="share_link rss"><span class="social_icon">Subscribe via RSS</span></a>-->
-
-		
-					<a href="http://95rockfm.com/feed/rss/" title="Subscribe via RSS" class="share_link rss" target="_blank"><span class="social_icon">subscribe via RSS</span></a>
-					</div><!-- // #.social_icons -->
+</ul></div>	<div class="social_icons">
+					<a href="http://www.facebook.com/KKNNFM" title="Follow on facebook" class="share_link facebook" target="_blank">
+				<span class="social_icon">follow on facebook</span>
+			</a>
+					<iframe class="share_link twitter" allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=95rockkknn&amp;show_count=false&amp;show_screen_name=false&amp;size=l" style="width:30px; height:28px;"></iframe>
+					<a href="http://95rockfm.com/feed/" title="Subscribe via RSS" class="share_link rss" target="_blank"><span class="social_icon">subscribe via RSS</span></a>	</div><!-- // #.social_icons -->
 
 </nav><!-- // nav -->
 
 	<div id="promo_links" class="horizontal_navigation clearfix alt_link_color">
 	<div class="menu-promo-links-container"><ul id="menu-promo-links" class="menu"><li id="menu-item-8154" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8154"><a href="#">What’s Hot:</a></li>
-<li id="menu-item-29881" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29881"><a href="/casting-call-for-a-fairy-tale-parade-of-lights/">Christmas Parade</a></li>
-<li id="menu-item-30844" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30844"><a href="/colorado-ski-reports/">Colorado Snow Reports</a></li>
-<li id="menu-item-27301" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27301"><a href="/vip/contest/featured-contests/win-10000-cash/">Win $10,000 Cash</a></li>
-<li id="menu-item-8158" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8158"><a href="http://cgjco.incentrev.com/">Buyer’s Club</a></li>
-<li id="menu-item-8159" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8159"><a href="http://cgjco-auction.incentrev.com/">I-Bid</a></li>
+<li id="menu-item-126597" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-126597"><a href="/events-grand-junction/95-rock-metal-masquerade-new-years-eve-bash-december-31-at-mesa-theater-in-downtown-grand-junction/31-december-2013-mesa-theater/">Metal Masquerade New Year’s Eve Bash</a></li>
+<li id="menu-item-117680" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117680"><a href="http://95rockfm.com/best-voicemail-giving-play-by-play-of-car-accident/">Accident Voicemail</a></li>
+<li id="menu-item-117676" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117676"><a href="/elk-that-roughhoused-with-a-photographer-was-put-down/">Round-Housing Elk</a></li>
+<li id="menu-item-106665" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106665"><a href="http://95rockfm.com/95-rock-pick-em/">Football Pick ‘Em</a></li>
 </ul></div>	</div>
-<div id="pushdown_ad" class="clearfix"><!-- /JUN_KKNN_PUSHDOWN -->
-		<script type="text/javascript">
-	GA_googleFillSlot("JUN_KKNN_PUSHDOWN");
-	</script>
-	</div>    <div id="content" class=" clearfix">
+<div id="pushdown_ad" class="tsmAd clearfix"></div>    <div id="content" class=" clearfix">
 
 
 
@@ -403,105 +235,105 @@ _gaq.push(['_trackPageview']);
 
 
 <div id="content_main" class="clearfix">
-    <section class="single page">
-        <article class="footer_link_legal">
-    <h1>Privacy</h1>
-    <div class="the_content">
-            <h3>About 95ROCKFM.COM</h3>
+	<section class="single page">
+		<article class="footer_link_legal">
+			<h1>Privacy</h1>
+			<div class="the_content">
+			<h3>About 95ROCKFM.COM</h3>
 
-        <p>This Privacy Policy is an integral part of the agreement between Townsquare Media, LLC ("Townsquare" or "we" or "us") and each visitor or registered user, as the case may be (each, a "user" or "you") concerning the use of the websites, including this website, owned, controlled, operated or hosted (whether now or in the future) by Townsquare and/or its corporate affiliates, including but not limited to 95ROCKFM.COM (collectively the "Websites"). The other integral part of this agreement is the Townsquare <a href="/terms">Terms of Use</a>.  All capitalized terms used herein that are not otherwise defined in this Privacy Policy shall be defined in the <a href="/terms">Terms of Use</a>.  If you have any questions concerning this Privacy Policy, please email us at <a href="http://95rockfm.com/?geo-address=gvzNtenlAgbjafdhnerzrqvnNpbz" class="geo-address share_link email">tim.gray@townsquaremedia.com</a>.</p>
+<p>This Privacy Policy is an integral part of the agreement between Townsquare Media, LLC ("Townsquare" or "we" or "us") and each visitor or registered user, as the case may be (each, a "user" or "you") concerning the use of the websites, including this website, owned, controlled, operated or hosted (whether now or in the future) by Townsquare and/or its corporate affiliates, including but not limited to 95ROCKFM.COM (collectively the "Websites"). The other integral part of this agreement is the Townsquare <a href="/terms">Terms of Use</a>.  All capitalized terms used herein that are not otherwise defined in this Privacy Policy shall be defined in the <a href="/terms">Terms of Use</a>.  If you have any questions concerning this Privacy Policy, please email us at <a href="http://95rockfm.com/?geo-address=gvzNtenlAgbjafdhnerzrqvnNpbz" class="geo-address ">tim.gray@townsquaremedia.com</a>.</p>
 
-        <h3>Information Collection and Use by the Websites</h3>
+<h3>Information Collection and Use by the Websites</h3>
 
-        <p>The Websites gather identifying information about individuals only when individuals provide that information on a voluntary basis pursuant to the voluntary registration process for the Websites. Such information includes, but is not limited to, name, age, gender, email address, cell phone number, personal interests, and physical address. We use this voluntary profile data to, (a) authenticate users, (b) send notifications to users relating to the Websites, (c) assist users in communicating with each other, and (d) make offers to users that we believe may be of interest to them based on their personal profile data. With the exception of email address, physical address and cell phone number, registered users' voluntary personal profile information, including pictures, are displayed to other registered users in order to facilitate user interaction. Registered users' user names are displayed to all users, although each verified user has the option of having his or her full name displayed to all users instead of his or her user name. Under no circumstances are email addresses, physical addresses and cell phone numbers directly revealed to other users or disclosed to third parties other than as set forth below in the "Sharing and Disclosure of Information" section.</p>
+<p>The Websites gather identifying information about individuals only when individuals provide that information on a voluntary basis pursuant to the voluntary registration process for the Websites. Such information includes, but is not limited to, name, age, gender, email address, cell phone number, personal interests, and physical address. We use this voluntary profile data to, (a) authenticate users, (b) send notifications to users relating to the Websites, (c) assist users in communicating with each other, and (d) make offers to users that we believe may be of interest to them based on their personal profile data. With the exception of email address, physical address and cell phone number, registered users' voluntary personal profile information, including pictures, are displayed to other registered users in order to facilitate user interaction. Registered users' user names are displayed to all users, although each verified user has the option of having his or her full name displayed to all users instead of his or her user name. Under no circumstances are email addresses, physical addresses and cell phone numbers directly revealed to other users or disclosed to third parties other than as set forth below in the "Sharing and Disclosure of Information" section.</p>
 
-        <p>We also log non-personally identifiable information about use of the Websites, including, but not limited to, IP address, profile information, pages visited, and browser type, from users of the Websites. This data is used for, among other things, to provide customized content to users, provide targeted offers to users, manage the site, track usage and improve the site services. This non-personally identifiable information may be shared with third-parties to provide more relevant services and advertisements to users.  User IP addresses are recorded for security and monitoring purposes.</p>
+<p>We also log non-personally identifiable information about use of the Websites, including, but not limited to, IP address, profile information, pages visited, and browser type, from users of the Websites. This data is used for, among other things, to provide customized content to users, provide targeted offers to users, manage the site, track usage and improve the site services. This non-personally identifiable information may be shared with third-parties to provide more relevant services and advertisements to users.  User IP addresses are recorded for security and monitoring purposes.</p>
 
-        <p>Users must provide us, at a minimum, with a valid email address in order to complete the voluntary registration process. Email addresses are used to send notifications related to the Websites and to communicate offers. Registered users may communicate with each other through the Websites without disclosing their email addresses.</p>
+<p>Users must provide us, at a minimum, with a valid email address in order to complete the voluntary registration process. Email addresses are used to send notifications related to the Websites and to communicate offers. Registered users may communicate with each other through the Websites without disclosing their email addresses.</p>
 
-        <p>Cell phone numbers are used to send SMS (short Message Service), text and voice message notifications related to the Websites and to communicate offers. Registered users may choose not to receive text messages from us by not providing their cell phone number to us at registration. Registered users who have provided their cell phone number to us may remove it from within their personal profile settings. Please note that standard message rates and data charges from your cellular service provider apply to sending and/or receiving text messages. You are solely responsible for such message rates and data charges.</p>
+<p>Cell phone numbers are used to send SMS (short Message Service), text and voice message notifications related to the Websites and to communicate offers. Registered users may choose not to receive text messages from us by not providing their cell phone number to us at registration. Registered users who have provided their cell phone number to us may remove it from within their personal profile settings. Please note that standard message rates and data charges from your cellular service provider apply to sending and/or receiving text messages. You are solely responsible for such message rates and data charges.</p>
 
-        <p>We do not sell or make available any individual user information to unrelated third parties, except to third parties that are providing services to the Websites or as provided in the "Sharing and Disclosure of Information" section below. We may aggregate user information for the purpose of user analyses and inform advertisers of the results of such analyses. In all such instances, we  will refer only to general, aggregate usage data from these analyses and will never provide specific identifying information. We may also aggregate user information for the purpose of making offers to users that we believe may be of interest to them.</p>
+<p>We do not sell or make available any individual user information to unrelated third parties, except to third parties that are providing services to the Websites or as provided in the "Sharing and Disclosure of Information" section below. We may aggregate user information for the purpose of user analyses and inform advertisers of the results of such analyses. In all such instances, we  will refer only to general, aggregate usage data from these analyses and will never provide specific identifying information. We may also aggregate user information for the purpose of making offers to users that we believe may be of interest to them.</p>
 
-        <p>From time to time, Townsquare or a partner, may sponsor a promotion, sweepstakes or contest on the Websites.  Users may be asked to provide personal information including name, email address or home address or to answer question in order to participate.  We may transfer personal information to certain ad partners that you have explicitly required to receive information from.  It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.</p>
+<p>From time to time, Townsquare or a partner, may sponsor a promotion, sweepstakes or contest on the Websites.  Users may be asked to provide personal information including name, email address or home address or to answer question in order to participate.  We may transfer personal information to certain ad partners that you have explicitly required to receive information from.  It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.</p>
 
-        <p>Third parties can read information voluntarily posted by registered users on the Websites. That information can be used by those third parties to send you unsolicited messages. We have no control over such unsolicited messages.</p>
+<p>Third parties can read information voluntarily posted by registered users on the Websites. That information can be used by those third parties to send you unsolicited messages. We have no control over such unsolicited messages.</p>
 
-        <p>By using any of the Websites, you affirmatively consent to this Privacy Policy and agree to have your personal information (to the extent disclosed by you to the Websites) collected by the Websites (or its agents or contractors).</p>
+<p>By using any of the Websites, you affirmatively consent to this Privacy Policy and agree to have your personal information (to the extent disclosed by you to the Websites) collected by the Websites (or its agents or contractors).</p>
 
-        <h3>User Content</h3>
+<h3>User Content</h3>
 
-        <p>Any information that you disclose when participating on the Websites (including creating a profile or submitting a comment to a story, a video or in a discussion thread), such as your full name and any nickname, is likely to become public. This information may be posted on the Websites. In addition, Townsquare, its affiliates and their licensees, may use, copy, sublicense, modify, transmit, publicly perform, display, create derivative works of, host, index, cache, tag, encode, and/or adapt any user Content, and any information contained therein, in any and all media formats or channels, whether now known or thereafter devised, including, but not limited to, the Websites, other Townsquare services, over the air and on mobile platforms. Further, other users of the Websites may embed a widget or feed that allows your user Content to appear on their personal, noncommercial website or page, blog or other application, subject to conditions set forth in the Terms of Use.</p>
+<p>Any information that you disclose when participating on the Websites (including creating a profile or submitting a comment to a story, a video or in a discussion thread), such as your full name and any nickname, is likely to become public. This information may be posted on the Websites. In addition, Townsquare, its affiliates and their licensees, may use, copy, sublicense, modify, transmit, publicly perform, display, create derivative works of, host, index, cache, tag, encode, and/or adapt any user Content, and any information contained therein, in any and all media formats or channels, whether now known or thereafter devised, including, but not limited to, the Websites, other Townsquare services, over the air and on mobile platforms. Further, other users of the Websites may embed a widget or feed that allows your user Content to appear on their personal, noncommercial website or page, blog or other application, subject to conditions set forth in the Terms of Use.</p>
 
-        <h3>Use of Cookies</h3>
+<h3>Use of Cookies</h3>
 
-        <p>The Websites uses cookies to store users' preferences, account status, traffic origination  and to record session information. We do not link the information we store in cookies to any personally identifiable information you submit while on our Websites. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. However, you must enable cookies from the specific website you wish to access in order to use most functions on such website. Third party advertisers on the Websites may have the ability to set and access their cookies on your computer. Advertisers' use of cookies are subject to their own privacy policies and are not subject to this Privacy Policy.</p>
+<p>The Websites uses cookies to store users' preferences, account status, traffic origination  and to record session information. We do not link the information we store in cookies to any personally identifiable information you submit while on our Websites. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. However, you must enable cookies from the specific website you wish to access in order to use most functions on such website. Third party advertisers on the Websites may have the ability to set and access their cookies on your computer. Advertisers' use of cookies are subject to their own privacy policies and are not subject to this Privacy Policy.</p>
 
-        <h3>Alternative Tracking Devices</h3>
+<h3>Alternative Tracking Devices</h3>
 
-        <p>We may use other industry standard technologies like pixel tags and web beacons to track your use of our Websites and promotions, or we may allow our third party service providers to use those devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Websites, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a non-personally identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Websites, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our affiliates or third party service providers for the same purposes.</p>
+<p>We may use other industry standard technologies like pixel tags and web beacons to track your use of our Websites and promotions, or we may allow our third party service providers to use those devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Websites, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a non-personally identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Websites, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our affiliates or third party service providers for the same purposes.</p>
 
-        <h3>Links</h3>
+<h3>Links</h3>
 
-        <p>The Websites contain links to other websites, applications and services maintained by third parties that may not follow the same privacy policies as the Websites. For instance, clicking on a third party logo or advertisement will take you to an entirely different site, application or service. These sites, applications and services may use cookies, collect data and use the data in ways that Townsquare would not. Townsquare  is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our Privacy Policy only governs information collected on the Websites. Furthermore, we bear no responsibility for any offensive material or violations of law on any site linked from the Websites.</p>
+<p>The Websites contain links to other websites, applications and services maintained by third parties that may not follow the same privacy policies as the Websites. For instance, clicking on a third party logo or advertisement will take you to an entirely different site, application or service. These sites, applications and services may use cookies, collect data and use the data in ways that Townsquare would not. Townsquare  is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our Privacy Policy only governs information collected on the Websites. Furthermore, we bear no responsibility for any offensive material or violations of law on any site linked from the Websites.</p>
 
-        <p>The Websites may include a tool that allows you to sign in or comment using information from your account with a third party service, such as Facebook, Twitter, Google or Yahoo. Please be aware that those third party services are unrelated to the Websites and that your use of the third party services is subject to the terms and policies of those services.</p>
+<p>The Websites may include a tool that allows you to sign in or comment using information from your account with a third party service, such as Facebook, Twitter, Google or Yahoo. Please be aware that those third party services are unrelated to the Websites and that your use of the third party services is subject to the terms and policies of those services.</p>
 
-        <h3>Correcting/Updating Information and Terminating Registration</h3>
+<h3>Correcting/Updating Information and Terminating Registration</h3>
 
-        <p>Registered users may modify any of their personal information at any time by logging into their account and accessing their personal profile. Registered users may terminate their registration at any time, for any reason, by contacting <a href="http://95rockfm.com/?geo-address=gvzNtenlAgbjafdhnerzrqvnNpbz" class="geo-address share_link email">tim.gray@townsquaremedia.com</a>. Terminating your registration will not necessarily remove previous public comments and other user Content on public display on the Websites. The user understands that it may be impossible to delete personal information entirely because of backups and records of deletions.</p>
+<p>Registered users may modify any of their personal information at any time by logging into their account and accessing their personal profile. Registered users may terminate their registration at any time, for any reason, by contacting <a href="http://95rockfm.com/?geo-address=gvzNtenlAgbjafdhnerzrqvnNpbz" class="geo-address ">tim.gray@townsquaremedia.com</a>. Terminating your registration will not necessarily remove previous public comments and other user Content on public display on the Websites. The user understands that it may be impossible to delete personal information entirely because of backups and records of deletions.</p>
 
-        <h3>Third Party Advertising</h3>
+<h3>Third Party Advertising</h3>
 
-        <p>Ads appearing on the Websites may be delivered to users by Townsquare or one of our advertising partners. Our advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by Townsquare and does not cover the use of cookies by any advertisers.</p>
+<p>Ads appearing on the Websites may be delivered to users by Townsquare or one of our advertising partners. Our advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by Townsquare and does not cover the use of cookies by any advertisers.</p>
 
-        <h3>Agents</h3>
+<h3>Agents</h3>
 
-        <p>We use a third party company to prepare and ship products ordered on our Websites. Our fulfillment company has access to your full name and shipping address to complete this transaction but does not retain, share, store or use personally identifiable information for any other purposes.</p>
+<p>We use a third party company to prepare and ship products ordered on our Websites. Our fulfillment company has access to your full name and shipping address to complete this transaction but does not retain, share, store or use personally identifiable information for any other purposes.</p>
 
-        <h3>Service Providers</h3>
+<h3>Service Providers</h3>
 
-        <p>We may use third party providers to process payments. When you checkout of our store, you will be asked to enter your first and last name, credit card information, billing and shipping address as necessary to complete your transaction. We do not store any of our users credit card information in our database.</p>
+<p>We may use third party providers to process payments. When you checkout of our store, you will be asked to enter your first and last name, credit card information, billing and shipping address as necessary to complete your transaction. We do not store any of our users credit card information in our database.</p>
 
-        <h3>Opt-out</h3>
+<h3>Opt-out</h3>
 
-        <p>Registered users may choose to no longer receive updates or notifications by managing their email and text message preferences in their personal profile settings.</p>
+<p>Registered users may choose to no longer receive updates or notifications by managing their email and text message preferences in their personal profile settings.</p>
 
-        <h3>Security</h3>
+<h3>Security</h3>
 
-        <p>We have in place what we believe to be appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. Credit card information provided to the Websites is protected against unauthorized use by 128-bit encryption and Secure Sockets Layer (SSL) security features, which scramble your personal information so that only your browser and the Websites can decipher it. However, no internet, email or mobile transmission is ever fully secure or error free. Because most email and mobile transmissions are not encrypted, you should take special care in deciding what information you send to us via email, text message, SMS or other mobile transmission.</p>
+<p>We have in place what we believe to be appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. Credit card information provided to the Websites is protected against unauthorized use by 128-bit encryption and Secure Sockets Layer (SSL) security features, which scramble your personal information so that only your browser and the Websites can decipher it. However, no internet, email or mobile transmission is ever fully secure or error free. Because most email and mobile transmissions are not encrypted, you should take special care in deciding what information you send to us via email, text message, SMS or other mobile transmission.</p>
 
-        <p>Registered user accounts are secured by user-created passwords. Townsquare uses reasonable measures to protect registered user information that is stored within our database. Please note that we cannot guarantee the security of registered user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of registered user information at any time. We will endeavor to notify users in the event that the security of their personal information is breached or compromised. By submitting personal information on any of the Websites, you expressly consent to receiving our notification regarding any breach or compromise, or suspected breach or compromise, of the security of your personal information, by email or postal mail, as we deem appropriate, and as required by law. For any additional information about the security measures we use on the Websites, please contact us at <a href="http://95rockfm.com/?geo-address=gvzNtenlAgbjafdhnerzrqvnNpbz" class="geo-address share_link email">tim.gray@townsquaremedia.com</a>.</p>
+<p>Registered user accounts are secured by user-created passwords. Townsquare uses reasonable measures to protect registered user information that is stored within our database. Please note that we cannot guarantee the security of registered user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of registered user information at any time. We will endeavor to notify users in the event that the security of their personal information is breached or compromised. By submitting personal information on any of the Websites, you expressly consent to receiving our notification regarding any breach or compromise, or suspected breach or compromise, of the security of your personal information, by email or postal mail, as we deem appropriate, and as required by law. For any additional information about the security measures we use on the Websites, please contact us at <a href="http://95rockfm.com/?geo-address=gvzNtenlAgbjafdhnerzrqvnNpbz" class="geo-address ">tim.gray@townsquaremedia.com</a>.</p>
 
-        <p>We urge you to keep your username, password and other account access information in a safe place and not to divulge it to anyone. Also, remember to sign off your account and close your browser window when you have finished your visit. This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in public place such as a library or an internet café.</p>
+<p>We urge you to keep your username, password and other account access information in a safe place and not to divulge it to anyone. Also, remember to sign off your account and close your browser window when you have finished your visit. This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in public place such as a library or an internet café.</p>
 
-        <h3>Sharing and Disclosure of Information</h3>
+<h3>Sharing and Disclosure of Information</h3>
 
-        <p>Except as otherwise described in this Privacy Policy, we will not disclose personal information to any third party unless we believe that disclosure is necessary: (a) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by us; (b) to enforce our Terms of Use Agreement or to protect our rights; (c) to protect the safety of members of the public and users of the Websites or d) the user requests to be contacted with additional information, materials or special offers from third parties. If a registered user elects to opt-in to receive information, materials or special offers from these third parties, the user gives Townsquare permission to transfer personal information to our partners to fulfill such a request. The Websites will only share secure user information with those advertisers or category of advertisers you specifically opt-in to. Third party partners have separate privacy and data collection practices; Townsquare has no responsibility or liability for these independent policies. If you do not want your personal information shared with advertisers, please select the option to not participate in our opt-in program. Our Site also provides users the opportunity to opt-out of receiving communications from us and our advertisers at the point where we request information about the visitor. We give users the option to remove their information from our database, to not receive future communications, or to no longer receive our service, by submitting your request to <a href="http://95rockfm.com/?geo-address=gvzNtenlAgbjafdhnerzrqvnNpbz" class="geo-address share_link email">tim.gray@townsquaremedia.com</a>. Townsquare reserves the right to transfer, disclose or sell personal information as part of a business divestiture, sale, merger, or acquisition of one or more of its Websites, Townsquare or substantially all of its assets. For more information see the "Changes in Our Privacy Policy" section below.</p>
+<p>Except as otherwise described in this Privacy Policy, we will not disclose personal information to any third party unless we believe that disclosure is necessary: (a) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by us; (b) to enforce our Terms of Use Agreement or to protect our rights; (c) to protect the safety of members of the public and users of the Websites or d) the user requests to be contacted with additional information, materials or special offers from third parties. If a registered user elects to opt-in to receive information, materials or special offers from these third parties, the user gives Townsquare permission to transfer personal information to our partners to fulfill such a request. The Websites will only share secure user information with those advertisers or category of advertisers you specifically opt-in to. Third party partners have separate privacy and data collection practices; Townsquare has no responsibility or liability for these independent policies. If you do not want your personal information shared with advertisers, please select the option to not participate in our opt-in program. Our Site also provides users the opportunity to opt-out of receiving communications from us and our advertisers at the point where we request information about the visitor. We give users the option to remove their information from our database, to not receive future communications, or to no longer receive our service, by submitting your request to tim.gray@townsquaremedia.com. Townsquare reserves the right to transfer, disclose or sell personal information as part of a business divestiture, sale, merger, or acquisition of one or more of its Websites, Townsquare or substantially all of its assets. For more information see the "Changes in Our Privacy Policy" section below.</p>
 
-        <h3>Children's Privacy</h3>
+<h3>Children's Privacy</h3>
 
-        <p>Under 13: You must be at least 13 years old in order to register for email newsletters or other features of the Websites. If you are under 13 years of age, please do not send any information about yourself, including your name, address or email address. If we discover that we have collected any personally identifiable information from a child under the age of 13, we will remove that information from our database as soon as possible.</p>
+<p>Under 13: You must be at least 13 years old in order to register for email newsletters or other features of the Websites. If you are under 13 years of age, please do not send any information about yourself, including your name, address or email address. If we discover that we have collected any personally identifiable information from a child under the age of 13, we will remove that information from our database as soon as possible.</p>
 
-        <p>Ages 13-18: You must be at least 18 years old in order to submit any Content on our Websites, create a profile, participate in any online contests, or place an order on our Websites. Visitors between the ages of 13 and 18 must obtain permission from their parents or guardians before registering for email newsletters or other features of the Websites or otherwise sending any personally identifiable information.</p>
+<p>Ages 13-18: You must be at least 18 years old in order to submit any Content on our Websites, create a profile, participate in any online contests, or place an order on our Websites. Visitors between the ages of 13 and 18 must obtain permission from their parents or guardians before registering for email newsletters or other features of the Websites or otherwise sending any personally identifiable information.</p>
 
-        <h3>International User Notice</h3>
+<h3>International User Notice</h3>
 
-        <p>For international users, please note that it may be necessary to transfer your information internationally and, in particular, your information may be transferred to and processed in the United States. For residents of the European Union: the data protection and other laws of other countries outside of the European Union may not be as comprehensive as those of the European Union. Please be assured that we take steps to ensure that your privacy is protected as described in this Privacy Policy. By using the Websites, you agree to have your information used and transferred to the United States as set forth in this policy.</p>
+<p>For international users, please note that it may be necessary to transfer your information internationally and, in particular, your information may be transferred to and processed in the United States. For residents of the European Union: the data protection and other laws of other countries outside of the European Union may not be as comprehensive as those of the European Union. Please be assured that we take steps to ensure that your privacy is protected as described in this Privacy Policy. By using the Websites, you agree to have your information used and transferred to the United States as set forth in this policy.</p>
 
-        <h3>Changes in Our Privacy Policy</h3>
+<h3>Changes in Our Privacy Policy</h3>
 
-        <p>From time to time we may make changes to our Privacy Policy. If we make changes, we will post them on the Websites to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A user is bound by any changes to the policy when she or he uses the Websites after those changes have been posted. If, however, we intend to disclose users' personally identifiable information in a manner different from that stated at the time of collection, we will post a notice of such intent on the Websites 30 days prior to such action.</p>
+<p>From time to time we may make changes to our Privacy Policy. If we make changes, we will post them on the Websites to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A user is bound by any changes to the policy when she or he uses the Websites after those changes have been posted. If, however, we intend to disclose users' personally identifiable information in a manner different from that stated at the time of collection, we will post a notice of such intent on the Websites 30 days prior to such action.</p>
 
-        <h3>Contacting Us</h3>
+<h3>Contacting Us</h3>
 
-        <p>If you have any questions about this privacy statement, the practices of the Websites, or your dealings with the Websites, please <a href="http://95rockfm.com/?geo-address=gvzNtenlAgbjafdhnerzrqvnNpbz" class="geo-address share_link email">tim.gray@townsquaremedia.com</a>.</p>
+<p>If you have any questions about this privacy statement, the practices of the Websites, or your dealings with the Websites, please <a href="http://95rockfm.com/?geo-address=gvzNtenlAgbjafdhnerzrqvnNpbz" class="geo-address ">contact us</a>.</p>
 
-        <h3>Effective Date</h3>
+<h3>Effective Date</h3>
 
-        <p>This Privacy Policy is effective as of November 1, 2010. It was last updated on February 7, 2011.</p>
-        </div>
-</article>    </section>
+<p>This Privacy Policy is effective as of November 1, 2010. It was last updated on February 7, 2011.</p>			</div>
+		</article>
+	</section>
 </div>
 
 
@@ -510,242 +342,168 @@ _gaq.push(['_trackPageview']);
     <a href="/listen-live/" class="listen-live-button"><em></em>Listen Live</a>
 </div>
 <div class="song_meta clearfix">
-    <div class="now_playing_label">
-        <div class="song-info-wrapper">
-            <div class="song-info">
-                <span class="artist">Recently Played: TOOL |</span>
-                <span class="song">
-                    <a href="/listen-live/">SCHISM</a>                </span>
-            </div>
-        </div>
-        <a href="javascript:void(0);" onclick="javascript:getNowPlaying(false);" class="listen-live-update" title="Click to view the latest song playing on air."></a>
-    </div>
+	<div class="now_playing_label">
+		<div class="song-info-wrapper">
+			<div class="song-info">
+				<span class="artist"></span>
+				<span class="song"><a href="/listen-live/"></a></span>
+			</div>
+		</div>
+		<a href="#" class="listen-live-update" title="Click to view the latest song playing on air."></a>
+	</div>
 </div><!-- // #.song_meta -->
-<script>
-    (function($){
-
-        var currentSong = {
-            options		: {
-                $currentSong	: $('.song-info-wrapper'),
-                $songInfo 		: $('.song-info-wrapper .song-info'),
-                $artist			: $('.song-info-wrapper .artist'),
-                $song			: $('.song-info-wrapper .song'),
-                $listenLive		: $('.listen_live_bar'),
-                $wrapperWidth	: 265,
-                $scrollPadding	: 25,
-                $speedMultiplier: 30,
-                $loadTimeout	: 16000,
-                $animating		: false,
-                $mouseOn		: false
-            },
-            init		: function(){
-                var self = this;
-                self.addEvent();
-            },
-            addEvent	: function(){
-                var self = this;
-                self.options.$listenLive
-                    .bind('mouseenter',function(){
-                        self.options.$mouseOn = true;
-                        if(self.runAnimation()){
-                            self.setSongInfo();
-                            if(!self.options.$animating) self.animate(true);
-                        }
-                    })
-                    .bind('mouseleave',function(){
-                        if(self.runAnimation()){
-                            self.options.$mouseOn = false;
-                        }
-                    });
-            },
-            animate		: function(){
-                var self = this,
-                    $currentSong = self.options.$currentSong,
-                    $artist = self.options.$artist,
-                    $song = self.options.$song,
-                    $width = $artist.width()+$song.width(),
-                    $animateDistance = ($width+self.options.$scrollPadding+5),
-                    $duration = parseInt($animateDistance*self.options.$speedMultiplier);
-                self.options.$animating = true;
-                $currentSong.animate(
-                    {
-                        textIndent 	: '-' + $animateDistance + 'px'
-                    },
-                    {
-                        duration	: $duration,
-                        easing		: 'linear',
-                        queue		: false,
-                        complete	: function(){
-                            $currentSong.css({textIndent:'0px'});
-                            self.options.$animating = false;
-                            if(self.options.$mouseOn){
-                                self.animate();
-                            }else{
-                                self.unsetSongInfo();
-                            }
-                        }
-                    }
-                );
-            },
-            runAnimation: function(){
-                var self = this,
-                    $currentSong = self.options.$currentSong,
-                    $artist = self.options.$artist,
-                    $song = self.options.$song,
-                    $width = $artist.width()+$song.width();
-                if($width > self.options.$wrapperWidth){
-                    return true;
-                }else{
-                    return false;
-                }
-            },
-            setSongInfo	: function(){
-                var self = this,
-                    $songInfo = self.options.$songInfo;
-                if($songInfo.find('.duplicate').size()==0) $songInfo.append('<span class="duplicate">' + $songInfo.html() + '</span>');
-                var $song = $songInfo.find('.song');
-                $song.css({paddingRight:self.options.$scrollPadding+'px'});
-            },
-            unsetSongInfo: function(){
-                var self = this,
-                    $songInfo = self.options.$songInfo;
-                $songInfo.remove('.duplicate');
-            }
-        }
-        currentSong.init();
-
-    })(jQuery);
-</script>
-</div><div id="google-ads-widget-18" class="widget google-ads-widget clearfix"><!-- /JUN_KKNN_TOP_RIGHT_TILE_AD_300X250 -->
-		<script type="text/javascript">
-	GA_googleFillSlot("JUN_KKNN_TOP_RIGHT_TILE_AD_300X250");
-	</script>
-	</div><div id="widget_onair-7" class="widget widget_onair  clearfix"><div class="widget_header clearfix"><h4>On Air Now</h4></div>        <article>
-                        <figure>
-                <a href="http://95rockfm.com/show/roxi/"><img width="145" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" datasrc="http://95rockfm.com/files/2012/08/roxi-200x200.png?w=145&amp;h=0&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" class="attachment-145w ts_lazy_load_image" alt="Stephen Lynch is 'the Beyonce of Scandinavia' [INTERVIEW]" title="Stephen Lynch is 'the Beyonce of Scandinavia' [INTERVIEW]"></a>
-            </figure>
-                        <div class="excerpt clearfix">
-                <h4><a href="http://95rockfm.com/show/roxi/">Roxi</a></h4>
-                <p class="links">
-                    <span class="onair_show_wall"><a href="http://95rockfm.com/show/roxi/">Wall</a>|</span>
-                    <span class="onair_show_posts"><a href="http://95rockfm.com/show/roxi/posts">Posts</a>|</span>
-                                        <span class="onair_show_email"><a href="mailto:roxi@townsquaremedia.com">Email</a></span>
-                                                            <span class="onair_show_phone">Call in 970-241-9595</span>
-                                    </p>
-            </div>
-        </article>
-        </div><div id="now-playing-2" class="widget widget_now-playing clearfix"><div class="widget_header clearfix"><h4>Recently Played</h4></div><div class="now-playing-playlist" data-init-songs="5" data-num-songs="5"></div></div><div id="featured_profiles-6" class="widget featured_profiles  clearfix"><div class="widget_header clearfix"><h4>Meet the DJs</h4></div>        <div class="profiles_wrap">
-                    <a class="featured_profile" href="http://95rockfm.com/author/kain/">
-                <img src="http://95rockfm.com/files/2012/08/kknn-kain_by.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">                <span>Kain</span>
-            </a>
-                    <a class="featured_profile" href="http://95rockfm.com/author/roxi/">
-                <img src="http://kknn.production.townsquaresites.com/files/2012/08/kknn-roxi_by.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">                <span>Roxi</span>
-            </a>
-                    <a class="featured_profile" href="http://95rockfm.com/author/tommyrocker/">
-                <img src="http://kknn.production.townsquaresites.com/files/2012/08/kknn-tommy_by.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">                <span>Tommy Rocker</span>
-            </a>
-                    <a class="featured_profile" href="http://95rockfm.com/author/bacchus913yahoo-com/">
-                <img src="http://95rockfm.com/files/2012/10/brian_ft.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">                <span>Bacchus</span>
-            </a>
-                </div>
-        <p class="more_act"><a href="/djs" title="Stephen Lynch is ‘the Beyonce of Scandinavia’ [INTERVIEW]">See All Staff</a></p></div><div id="widget_facebook_like_activity_widget-5" class="widget widget_facebook_like_activity_widget  clearfix"><div class="widget_header clearfix"><h4>95 Rock on Facebook</h4></div>        <div class="widget_bg">
+	</div><div id="google-ads-widget-18" class="widget google-ads-widget clearfix"><div id="top-right-300x250"><script type="text/javascript">googletag.display("top-right-300x250");</script></div></div><div id="now-playing-2" class="widget now-playing widget_now-playing clearfix"><div class="widget_header clearfix"><h4>Recently Played</h4></div><div class="now-playing-playlist" data-init-songs="5">
+	<div class="now_playing_ul_wrap clearfix">
+		<ul class="townsquare_playlist">
+			<li class="townsquare_song %TIMESTAMP% border_bottom clearfix factory">
+				<div class="album_art">%ARTWORK%</div>
+				<div class="song_meta clearfix">
+					<span class="song">%SONG%</span>
+					<span class="artist">%ARTIST%</span>
+					<span class="album">%ALBUM%</span>
+				</div><!-- // #.song_meta -->
+			</li>
+		</ul>
+	</div><!-- // #.now_playing_ul_wrap -->
+	<p class="more_act"><a href="/playlist/" title="Last 50 Songs Played">Last 50 Songs Played</a></p>
+</div>
+</div><div id="featured_profiles-6" class="widget featured_profiles  clearfix"><div class="widget_header clearfix"><h4>Meet the DJs</h4></div><div class="profiles_wrap">
+			<a class="featured_profile" href="http://95rockfm.com/author/freebeerhotwingsgj/">
+			<img src="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/files/2013/03/FBHW-1.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">			<span>Free Beer + Hot Wings</span>
+		</a>
+				<a class="featured_profile" href="http://95rockfm.com/author/danthomas/">
+			<img src="http://mix1043fm.com/files/2013/08/dan-ft1.png?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">			<span>Dan Thomas</span>
+		</a>
+				<a class="featured_profile" href="http://95rockfm.com/author/tommyrocker/">
+			<img src="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/files/2013/10/profile-tommy.png?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">			<span>Tommy Rocker</span>
+		</a>
+				<a class="featured_profile" href="http://95rockfm.com/author/bacchus913yahoo-com/">
+			<img src="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/files/2012/10/brian_ft.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">			<span>Bacchus</span>
+		</a>
+				<a class="featured_profile" href="http://95rockfm.com/author/jimgrant/">
+			<img src="http://kekbfm.com/files/2013/10/profile-waylon.png?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">			<span>Waylon Jordan</span>
+		</a>
+		</div>
+	<p class="more_act"><a href="/djs" title="See All Staff">See All Staff</a></p>
+	</div><div id="tsq_sailthru_newsletter_widget-2" class="widget tsq_sailthru_newsletter_widget TSQ_sailthru_newsletter_widget_class clearfix"><div class="widget_header clearfix"><h4>Sign up for our newsletter</h4></div><div class="gform_wrapper">
+				<form action="" method="post">
+					<div class="gform_heading">
+					<span class="gform_description">Get the latest news from 95 Rock!</span>
+				</div>
+				<div class="sailthru-newsletter">
+					<input class="sailthru-email" type="text" name="email" value="" placeholder="email address">
+					<div>
+						<input type="hidden" name="list" value="KKNN-FM">
+						<input type="hidden" name="tsq-st-widget-is_submitted" value="true">
+						<input type="submit" class="button sailthru-button" value="SIGN UP NOW">
+					</div>
+				</div>
+				</form>
+			</div></div><div id="widget_tsiwd-2" class="widget widget_tsiwd  clearfix"><div class="widget_header clearfix"><h4>Townsquare Interactive</h4></div><div>
+	<img style="background-color:#f23333" src="http://production.townsquareblogs.com/wp-content/uploads/2013/04/tsi-widget-promo.png">
+	<ul>
+		<li>Take charge of your business online and off</li>
+		<li>Personalize your site with ease, or we'll do the honor</li>
+		<li>Search friendly? Social? Like, totally</li>
+	</ul>
+	<p class="more_act">
+		<a href="http://95rockfm.com/grand-junction-web-design">Find Out More</a>
+	</p>
+</div>
+</div><div id="widget_facebook_like_activity_widget-5" class="widget widget_facebook_like_activity_widget  clearfix"><div class="widget_header clearfix"><h4>95 Rock on Facebook</h4></div>        <div class="widget_bg">
 	                    <div id="fb-combo-bottom">
-                <iframe src="http://www.facebook.com/plugins/likebox.php?&amp;href=http%3A%2F%2Fwww.facebook.com%2FKKNNFM&amp;width=300&amp;height=350&amp;connections=15&amp;colorscheme=light&amp;stream=false&amp;header=false" scrolling="no" frameborder="0" style="border:none;overflow:hidden;width:300px;height:350px;connections:15;" allowtransparency="true"></iframe>
+                <div class="fb-like-box" data-href="http://www.facebook.com/KKNNFM" data-width="300" data-height="350" data-colorscheme="light" data-show-border="" data-show-faces="true" data-stream="false" data-header="false"></div>
             </div>
-
-                    </div><!-- widget_bg -->
-        </div><div id="gform_widget-8" class="widget gform_widget clearfix"><div class="widget_header clearfix"><h4>Sign Up For Our Newsletter</h4></div>
-                <div class="gform_wrapper" id="gform_wrapper_8"><form method="post" enctype="multipart/form-data" id="gform_8" action="http://95rockfm.com/privacy/">
-                        <div class="gform_body">
-                            <ul id="gform_fields_8" class="gform_fields top_label"><li id="field_8_1" class="gfield"><label class="gfield_label" for="input_8_1">Email<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_1" id="input_8_1" type="text" value="" class="medium" tabindex="1"></div></li>
-                            </ul></div>
-        <div class="gform_footer top_label"> <input type="submit" id="gform_submit_button_8" class="button gform_button" value="Sign Up Now" tabindex="2">
-            <input type="hidden" class="gform_hidden" name="is_submit_8" value="1">
-            <input type="hidden" class="gform_hidden" name="gform_submit" value="8">
-            <input type="hidden" class="gform_hidden" name="gform_unique_id" value="50b51b751ccf2">
-            <input type="hidden" class="gform_hidden" name="state_8" value="YToyOntpOjA7czo2OiJhOjA6e30iO2k6MTtzOjMyOiI4MDFmZmQ2ZDMyZjgyNGM5YzlkNjk0Y2VhMmNjMWRjZCI7fQ==">
-            <input type="hidden" class="gform_hidden" name="gform_target_page_number_8" id="gform_target_page_number_8" value="0">
-            <input type="hidden" class="gform_hidden" name="gform_source_page_number_8" id="gform_source_page_number_8" value="1">
-            <input type="hidden" name="gform_field_values" value="">
-            
-        </div>
-                </form>
-                </div></div><div id="promotion-3" class="widget promotion  clearfix"><div class="widget_header clearfix"><h4>Win $10,000 Cash!</h4></div>            <article class="single">
-                                <figure>
-                                        <a href="/vip/contest/featured-contests/win-10000-cash/" target=""><img width="300" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-300w ts_lazy_load_image" alt="iStock_pile_of_money-stcloud" title="iStock_pile_of_money-stcloud" datasrc="http://95rockfm.com/files/2012/11/iStock_pile_of_money-stcloud.jpeg?w=300&amp;h=0&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
-                                    </figure>
-                                <div class="excerpt clearfix">
-                                        <p>You can win $1000 on the air -- here you can register to win $10,000 cash!</p>
-                                    </div>
-            </article>
-            <p class="more_act"><a href="/vip/contest/featured-contests/win-10000-cash/" title="Stephen Lynch is ‘the Beyonce of Scandinavia’ [INTERVIEW]">Get Registered Here!</a></p></div><div id="loyalty_widgets_sidebar_feed-9" class="widget widget_loyalty_widgets_sidebar_feed clearfix"><div class="widget_header clearfix"><h4>PRIZES + REWARDS</h4></div>        <article class=" clearfix">
+			
+                    </div>
+        </div><div id="widget_std-3" class="widget widget_std  clearfix"><div class="widget_header clearfix"><h4>Seize the Deal</h4></div><div class="textwidget">
+	<div class="std_banner"><a href="http://www.seizethedeal.com/deals/one-month-of-classes-uniform-at-seibu-kan-karate-studio?d=d&amp;utm_source=KKNNFM&amp;utm_campaign=WP-right-rail" target="_blank"><img src="http://production.townsquareblogs.com/wp-content/uploads/2011/09/StDHeader.png"></a></div>
+	<div class="std_img"><a href="http://www.seizethedeal.com/deals/one-month-of-classes-uniform-at-seibu-kan-karate-studio?d=d&amp;utm_source=KKNNFM&amp;utm_campaign=WP-right-rail" target="_blank"><img src="http://6fdae3b69909ba81a623-dba1f64a3f969774cdd587a3528671a8.r28.cf1.rackcdn.com/medias/24282/mini/KaratePunchRESIZED.jpg?1363807347" height="200" width="300"></a></div>
+	<div class="std_desc widget_bg"><a href="http://www.seizethedeal.com/deals/one-month-of-classes-uniform-at-seibu-kan-karate-studio?d=d&amp;utm_source=KKNNFM&amp;utm_campaign=WP-right-rail" target="_blank">One Month of Classes + Uniform at Seibu-Kan Karate Studio</a></div>
+	<p class="more_act std_buy"><a href="http://www.seizethedeal.com/deals/one-month-of-classes-uniform-at-seibu-kan-karate-studio?d=d&amp;utm_source=KKNNFM&amp;utm_campaign=WP-right-rail" title="Buy This Deal Now" target="_blank">Buy This Deal Now</a></p>
+</div>
+</div><div id="promotion-6" class="widget promotion  clearfix"><div class="widget_header clearfix"><h4>Cabela’s Christmas Cash</h4></div>
+<article class="single">
+		<figure>
+				<a href="/vip/contests/contest/cabelas-christmas-cash-giveaway/" target="_self"><img width="300" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-300w sonar_image" alt="Christmas_2013_blu_R1" title="Christmas_2013_blu_R1" datasrc="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/files/2013/12/Christmas_2013_blu_R1.gif?w=300&amp;h=0&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+			</figure>
+		<div class="excerpt clearfix">
+				<p>Win up to $500 from Cabela's just in time for Christmas!</p>
+			</div>
+</article>
+<p class="more_act"><a href="/vip/contests/contest/cabelas-christmas-cash-giveaway/" title="Get Registered Here!" target="_self">Get Registered Here!</a></p></div>
+<style>
+#rss-feed-14.sponsored.widget .widget_header { background-image: url("http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/files/2013/11/35645_Widget.png"); }
+#rss-feed-14.sponsored.widget .widget_title { text-shadow: 1px 1px #000000; }
+#rss-feed-14.sponsored.widget .widget_header { background-repeat: no-repeat; }
+</style><div id="rss-feed-14" class="sponsored widget rss-feed  clearfix"><div class="widget_header clearfix"><h4><a title="" class="sponsor_image" href="http://www.my-enzos.com/Home.html" target="_blank"><img alt="" src="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/files/2013/11/35645-logo.png"></a> <a class="rsswidget rssfeed-title" href="http://95rockfm.com/author/tommyrocker/" title="The Rock of Western Colorado">Tommy Rocker</a></h4></div><ul class="image-rss-feed"><li><span class="rssfeed-image"><a href="http://95rockfm.com/the-worst-world-record-attempt-of-all-time/" title="&nbsp; This guy might have just had the worst world record attempt of all time. He tries to run through the most panes of tempered glass. I didn’t know there was a world record for this but then again Guinness is full of pointless world records. Continue reading… […]"><img class="rssfeed-item-image" src="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/files/2013/12/hqdefault5.jpg?w=80&amp;h=60" width="80" height="60" alt=""></a></span><span class="rssfeed-copy"><a class="rsswidget" href="http://95rockfm.com/the-worst-world-record-attempt-of-all-time/" title="The Worst World Record Attempt of all Time">The Worst World Record Attempt of all Time</a> <span class="rss-date">December 23, 2013</span></span></li><li><span class="rssfeed-image"><a href="http://95rockfm.com/an-insane-bike-trick/" title="&nbsp; Ethen Godfrey-Roberts pulls off this insane bike trick on a mountain bike. The Superman double back flip was done at the Nitro Circus Live event. This is the first time Ethen has pulled this trick out during a live show and he nails it. Thi Continue reading… […]"><img class="rssfeed-item-image" src="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/files/2013/12/hqdefault2.jpg?w=80&amp;h=60" width="80" height="60" alt=""></a></span><span class="rssfeed-copy"><a class="rsswidget" href="http://95rockfm.com/an-insane-bike-trick/" title="An Insane Bike Trick">An Insane Bike Trick</a> <span class="rss-date">December 23, 2013</span></span></li><li><span class="rssfeed-image"><a href="http://95rockfm.com/95-rock-is-no-longer-homeless/" title="The 14th annual “95 Rock Homeless for the Holidays” event is in the books and thanks to all of you we are no longer homeless. The event began at 6am on Wednesday December 18th with Kyle, Bacchus and Tommy Rocker moving into the Wal-Mart parking lot to raise food for the Community Food Bank. Continue reading… […]"><img class="rssfeed-item-image" src="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/files/2013/12/HOMELESS-1-2014.jpg?w=80&amp;h=60" width="80" height="60" alt=""></a></span><span class="rssfeed-copy"><a class="rsswidget" href="http://95rockfm.com/95-rock-is-no-longer-homeless/" title="95 Rock Is No Longer Homeless">95 Rock Is No Longer Homeless</a> <span class="rss-date">December 21, 2013</span></span></li></ul></div><div id="loyalty_widgets_sidebar_feed-9" class="widget widget_loyalty_widgets_sidebar_feed clearfix"><div class="widget_header clearfix"><h4>PRIZES + REWARDS</h4></div>        <article class=" clearfix">
             <figure>
-                <a href="http://95rockfm.com/vip/contests/contest/cabelas-50-gift-card/"><img width="102" height="64" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" datasrc="http://loyalty.production.townsquaresites.com/files/2012/11/cabelas.gift_.card_.jpg?w=102&amp;h=64&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" class="attachment-w102_h64 ts_lazy_load_image" alt="Cabela's $50 Gift Card" title="Cabela's $50 Gift Card"></a>
+                <a href="http://95rockfm.com/vip/contests/contest/dyson-heater/"><img width="102" height="64" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-w102_h64 wp-post-image sonar_image" alt="dyson.heater" title="dyson.heater" datasrc="http://loyalty.production.townsquareblogs.com/files/2013/12/dyson.heater.png?w=102&amp;h=64&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
             </figure>
-            <a href="http://95rockfm.com/vip/contests/contest/cabelas-50-gift-card/" class="excerpt">
-                <h5>Cabela’s $50 Gift Card</h5>
-                <p>Enter to win a $50 Cabela’s Gift Card!</p>
+            <a href="http://95rockfm.com/vip/contests/contest/dyson-heater/" class="excerpt">
+                <h5>Dyson Heater</h5>
+                <p>Enter to win a Dyson heater!</p>
             </a>
         </article>
                 <article class=" clearfix">
             <figure>
-                <a href="http://95rockfm.com/vip/contests/contest/ipad-mini/"><img width="102" height="64" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" datasrc="http://loyalty.production.townsquaresites.com/files/2012/11/Screen-Shot-2012-11-03-at-9.39.54-AM.png?w=102&amp;h=64&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" class="attachment-w102_h64 ts_lazy_load_image" alt="iPad Mini" title="iPad Mini"></a>
+                <a href="http://95rockfm.com/vip/contests/contest/500-hotel-gift-card/"><img width="102" height="64" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-w102_h64 wp-post-image sonar_image" alt="hotel" title="hotel" datasrc="http://loyalty.production.townsquareblogs.com/files/2013/12/hotel.jpg?w=102&amp;h=64&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
             </figure>
-            <a href="http://95rockfm.com/vip/contests/contest/ipad-mini/" class="excerpt">
-                <h5>iPad Mini</h5>
-                <p>Enter to Win</p>
+            <a href="http://95rockfm.com/vip/contests/contest/500-hotel-gift-card/" class="excerpt">
+                <h5>$500 Hotel Gift Card</h5>
+                <p>Enter to win a $500 Marriott Hotel Gift Card!</p>
             </a>
         </article>
                 <article class="last clearfix">
             <figure>
-                <a href="http://95rockfm.com/vip/contests/contest/500-walmart-gift-card/"><img width="102" height="64" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" datasrc="http://loyalty.production.townsquaresites.com/files/2012/05/walmart-gift-card.png?w=102&amp;h=64&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" class="attachment-w102_h64 ts_lazy_load_image" alt="$500 Walmart Gift Card" title="$500 Walmart Gift Card"></a>
+                <a href="http://95rockfm.com/vip/contests/contest/500-target-gift-card/"><img width="102" height="64" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-w102_h64 wp-post-image sonar_image" alt="GiftBoxes" title="GiftBoxes" datasrc="http://loyalty.production.townsquareblogs.com/files/2013/12/target-gift-card.jpg?w=102&amp;h=64&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
             </figure>
-            <a href="http://95rockfm.com/vip/contests/contest/500-walmart-gift-card/" class="excerpt">
-                <h5>$500 Gift Card</h5>
-                <p>Enter to Win</p>
+            <a href="http://95rockfm.com/vip/contests/contest/500-target-gift-card/" class="excerpt">
+                <h5>$500 Target Gift Card</h5>
+                <p>Enter to win a $500 Target gift card!</p>
             </a>
         </article>
         </div><div id="loyalty_widgets_sidebar_feed-10" class="widget widget_loyalty_widgets_sidebar_feed clearfix"><div class="widget_header clearfix"><h4>GAMES + TRIVIA</h4></div>        <article class=" clearfix">
             <figure>
-                <a href="http://95rockfm.com/vip/trivia/weird-news-trivia-1-32/"><img width="102" height="64" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" datasrc="http://loyalty.production.townsquaresites.com/files/2012/11/weird-news4.jpg?w=102&amp;h=64&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" class="attachment-w102_h64 ts_lazy_load_image" alt="Weird News Trivia #1" title="Weird News Trivia #1"></a>
+                <a href="http://95rockfm.com/vip/trivia/celebrity-trivia-238/"><img width="102" height="64" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-w102_h64 wp-post-image sonar_image" alt="celeb" title="celeb" datasrc="http://loyalty.production.townsquareblogs.com/files/2013/12/celeb8.jpg?w=102&amp;h=64&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
             </figure>
-            <a href="http://95rockfm.com/vip/trivia/weird-news-trivia-1-32/" class="excerpt">
-                <h5>Weird News Trivia</h5>
-                <p>A 111.5 foot train made out of what has set a world record?</p>
+            <a href="http://95rockfm.com/vip/trivia/celebrity-trivia-238/" class="excerpt">
+                <h5>Celebrity Trivia</h5>
+                <p>Which teen pop idol recently scratched her black BMW? Click here to see the answer.</p>
             </a>
         </article>
                 <article class=" clearfix">
             <figure>
-                <a href="http://95rockfm.com/vip/trivia/weird-news-trivia-2-33/"><img width="102" height="64" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" datasrc="http://loyalty.production.townsquaresites.com/files/2012/11/cash2.jpg?w=102&amp;h=64&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" class="attachment-w102_h64 ts_lazy_load_image" alt="Weird News Trivia #2" title="Weird News Trivia #2"></a>
+                <a href="http://95rockfm.com/vip/trivia/celebrity-trivia-237/"><img width="102" height="64" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-w102_h64 wp-post-image sonar_image" alt="guitar" title="guitar" datasrc="http://loyalty.production.townsquareblogs.com/files/2013/12/guitar13.jpg?w=102&amp;h=64&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
             </figure>
-            <a href="http://95rockfm.com/vip/trivia/weird-news-trivia-2-33/" class="excerpt">
-                <h5>Weird News Trivia</h5>
-                <p>How much would six geese a-laying cost this year?</p>
+            <a href="http://95rockfm.com/vip/trivia/celebrity-trivia-237/" class="excerpt">
+                <h5>Celebrity Trivia</h5>
+                <p>According to the article, how many brushes with death has Keith Richards had? Click here to...</p>
             </a>
         </article>
                 <article class="last clearfix">
             <figure>
-                <a href="http://95rockfm.com/vip/trivia/askmen-trivia-24/"><img width="102" height="64" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" datasrc="http://loyalty.production.townsquaresites.com/files/2012/11/zap2it1.jpg?w=102&amp;h=64&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" class="attachment-w102_h64 ts_lazy_load_image" alt="AskMen Trivia" title="AskMen Trivia"></a>
+                <a href="http://95rockfm.com/vip/trivia/music-trivia-364/"><img width="102" height="64" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-w102_h64 wp-post-image sonar_image" alt="guitar" title="guitar" datasrc="http://loyalty.production.townsquareblogs.com/files/2013/12/guitar12.jpg?w=102&amp;h=64&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
             </figure>
-            <a href="http://95rockfm.com/vip/trivia/askmen-trivia-24/" class="excerpt">
-                <h5>AskMen Trivia</h5>
-                <p>What show originally started as a video Christmas card?</p>
+            <a href="http://95rockfm.com/vip/trivia/music-trivia-364/" class="excerpt">
+                <h5>Music Trivia</h5>
+                <p>Who recently sang a song with Garth Brooks? Click here to see the answer.</p>
             </a>
         </article>
-        </div><div id="weather-widget-current-4" class="widget weather-widget-current clearfix"><div class="widget_header clearfix"><h4>Grand Junction Weather</h4></div><div id="wreport-wid">            <div id="whldr">
+        </div><div id="tribe-events-adv-list-widget-2" class="widget tribe-events-adv-list-widget clearfix"><div class="widget_header clearfix"><h4>Upcoming Events</h4></div><ol class="hfeed vcalendar"><li class="post-122767 tribe_events type-tribe_events status-publish hentry tag-new-years-eve cat_party"><a href="http://95rockfm.com/events-grand-junction/95-rock-metal-masquerade-new-years-eve-bash-december-31-at-mesa-theater-in-downtown-grand-junction/31-december-2013-mesa-theater/"><img width="102" height="64" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-102x64 wp-post-image sonar_image" alt="Battery Metallica Cover Band" title="Battery Metallica Cover Band" datasrc="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/files/2013/11/battery.jpg?w=102&amp;h=64&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a><div class="duration"><abbr class="tribe-events-abbr updated published dtstart" title="2013-12-31">December 31</abbr><!-- .dtstart --> – <abbr class="tribe-events-abbr dtend" title="2014-01-01">January 1</abbr><!-- .dtend --></div><!-- .duration --><p class="entry-title summary"><a href="http://95rockfm.com/events-grand-junction/95-rock-metal-masquerade-new-years-eve-bash-december-31-at-mesa-theater-in-downtown-grand-junction/31-december-2013-mesa-theater/" rel="bookmark">Metal Masquerade New Year's Eve Bash December 31 at Mesa Theater in Downtown Grand Junction</a></p><!-- .summary --></li><!-- .vevent --><li class="post-125294 tribe_events type-tribe_events status-publish hentry tag-country-jam alt cat_concerts-tour-dates cat_festivals"><a href="http://95rockfm.com/events-grand-junction/country-jam-2014/19-june-2014/"><img width="102" height="64" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-102x64 wp-post-image sonar_image" alt="Country Jam" title="Country Jam" datasrc="http://kekbfm.com/files/2012/11/F981CDAF-8A0E-9D09-A4E8-BE15DDA9A305.jpg?w=102&amp;h=64&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a><div class="duration"><abbr class="tribe-events-abbr updated published dtstart" title="2014-06-19">June 19</abbr><!-- .dtstart --> – <abbr class="tribe-events-abbr dtend" title="2014-06-22">June 22</abbr><!-- .dtend --></div><!-- .duration --><p class="entry-title summary"><a href="http://95rockfm.com/events-grand-junction/country-jam-2014/19-june-2014/" rel="bookmark">Country Jam 2014 in Grand Junction, Colorado June 19th - 22nd</a></p><!-- .summary --></li><!-- .vevent --></ol><!-- .hfeed --><p class="tribe-events-widget-link"><a href="http://95rockfm.com/events-grand-junction/upcoming/" rel="bookmark">View All Events</a></p></div><div id="weather-widget-current-4" class="widget weather-widget-current clearfix"><div class="widget_header clearfix"><h4>Grand Junction Weather</h4></div><div id="wreport-wid">            <div id="whldr">
                                 <div class="wlhr">
                     <ul>
                         <li class="temp">
 
 
-                            <p class="tmprtre"><a href="/grand-junction-weather/">47°<span> F</span></a></p>                        </li>
+                            <p class="tmprtre"><a href="/grand-junction-weather/">23°<span> F</span></a></p>                        </li>
 
                         <li class="tlist">
                             <ul>
-                                <li><span>Humidity: </span><em>28%</em></li>
-                                <li><span>Wind Speed: </span><em> 0 MPH</em></li>
-                                <li><span>Barometer: </span><em>30.34"</em></li>
-                                <li><span>Dewpoint: </span><em>15°F (-9°C)</em></li>
+                                <li><span>Humidity: </span><em>81%</em></li>
+                                <li><span>Wind Speed: </span><em>NNW 7 MPH</em></li>
+                                <li><span>Barometer: </span><em>30.3"</em></li>
+                                <li><span>Dewpoint: </span><em>18°F (-8°C)</em></li>
                                 <li><span>Visibility: </span><em>10 mi.</em></li>
                             </ul>
                         </li>
@@ -755,12 +513,12 @@ _gaq.push(['_trackPageview']);
 
                 <div class="wicon border_left">
                     <p>
-                        <a href="/grand-junction-weather/"><img width="50" height="50" src="http://95rockfm.com/wp-content/plugins/weather-widget/wicons/wx_85.png"></a>
+                        <a href="/grand-junction-weather/"><img width="50" height="50" src="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/wp-content/plugins/weather-widget/wicons/wx_97.png"></a>
                     </p>
 
                     <p>Clear</p>
                     <p class="shrtphrase">
-                        Sunshine                    </p>
+                        Mix of sun and clouds                    </p>
                 </div>
 
                 <!--<div id="lbtn">
@@ -772,195 +530,141 @@ _gaq.push(['_trackPageview']);
 
 
             <p class="more_act"><a href="http://95rockfm.com/grand-junction-weather/" title="View 5 Day Forecast">View 5 Day Forecast</a></p>        </div>
-        </div><div id="events-list-widget-5" class="widget eventsListWidget clearfix"><div class="widget_header clearfix"><h4>Upcoming Events</h4></div>There are no upcoming events at this time.</div></aside>    </div><!-- // #content -->
+        </div><div id="google-ads-widget-20" class="widget google-ads-widget clearfix"><div id="bottom-right-300x250"><script type="text/javascript">googletag.display("bottom-right-300x250");</script></div></div></aside>    </div><!-- // #content -->
 </div><!-- // #main-container -->
 
 <footer id="footer_wrap" class="footer_wrap clearfix">
-    <div id="footer-sidebar" class="clearfix"><div class="widget rss-feed "><span class="rssfeed-header-image"><img src="http://wac.450f.edgecastcdn.net/80450F/ultimateclassicrock.com/files/2011/07/fw150x60.png"></span><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://thefw.com/grocer-gives-company-to-employees/" title="Retiring Grocer Gives Company to Employees" target="_blank">Retiring Grocer Gives Company to Employees</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://thefw.com/hashtag-baby-name/" title="Somebody Actually Named Their Child 'Hashtag'" target="_blank">Somebody Actually Named Their Child 'Hashtag'</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://thefw.com/banned-zombie-commercial/" title="Zombies Attack In Awesome Banned Commercial" target="_blank">Zombies Attack In Awesome Banned Commercial</a></span></li></ul></div><div class="widget rss-feed "><span class="rssfeed-header-image"><img src="http://wac.450f.edgecastcdn.net/80450F/ultimateclassicrock.com/files/2011/06/popcrush-rss.png"></span><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://popcrush.com/kesha-iggy-pop-duet-dirty-love/" title="Kesha + Iggy Pop Duet 'Dirty Love' Leaks" target="_blank">Kesha + Iggy Pop Duet 'Dirty Love' Leaks</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://popcrush.com/adam-lambert-new-ink/" title="Adam Lambert Gets New Ink" target="_blank">Adam Lambert Gets New Ink</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://popcrush.com/lady-gaga-lindsay-lohan-music/" title="Are Lady Gaga + Lindsay Lohan Working on Music Together?" target="_blank">Are Lady Gaga + Lindsay Lohan Working on Music Together?</a></span></li></ul></div><div class="widget rss-feed "><span class="rssfeed-header-image"><img src="http://loudwire.production.townsquaresites.com/files/2011/08/tasteOfCountry.png"></span><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://tasteofcountry.com/scotty-mccreery-hurricane-sandy-benefit/" title="Scotty McCreery's Hurricane Sandy Benefit Show Raises $5K" target="_blank">Scotty McCreery's Hurricane Sandy Benefit Show Raises $5K</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://tasteofcountry.com/rascal-flatts-all-access-uncovered-dvd-clip/" title="Rascal Flatts Reveal New Priorities in 'All Access &amp; Uncovered' DVD – Exclusive Video" target="_blank">Rascal Flatts Reveal New Priorities in 'All Access &amp; Uncovered' DVD – Exclusive Video</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://tasteofcountry.com/taylor-swift-today-show-australia/" title="Taylor Swift Performs 'Red' Songs on 'The Today Show Australia'" target="_blank">Taylor Swift Performs 'Red' Songs on 'The Today Show Australia'</a></span></li></ul></div><div class="widget rss-feed "><span class="rssfeed-header-image"><img src="http://wac.450f.edgecastcdn.net/80450F/popcrush.com/files/2011/08/loudwire-white.png"></span><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://loudwire.com/in-this-moment-deluxe-edition-blood-hot-topic/" title="In This Moment To Release Deluxe Edition of 'Blood' via Hot Topic" target="_blank">In This Moment To Release Deluxe Edition of 'Blood' via Hot Topic</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://loudwire.com/soundgarden-rock-jimmy-kimmel-live/" title="Soundgarden Rock 'Jimmy Kimmel Live!'" target="_blank">Soundgarden Rock 'Jimmy Kimmel Live!'</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://loudwire.com/adelitas-way-behind-the-scenes-alive-video-shoot/" title="Adelitas Way Take Viewers Behind the Scenes of 'Alive' Video Shoot" target="_blank">Adelitas Way Take Viewers Behind the Scenes of 'Alive' Video Shoot</a></span></li></ul></div></div><div id="footer_links" class="horizontal_navigation clearfix"><div class="menu"><ul><li class="page_item"><a href="http://95rockfm.com/eeo" title="EEO" target="_parent">EEO</a></li><li class="page_item"><a href="http://95rockfm.com/terms" title="Terms" target="_parent">Terms</a></li><li class="page_item"><a href="http://95rockfm.com/vip-terms" title="VIP Terms &amp; Conditions" target="_parent">VIP Terms &amp; Conditions</a></li><li class="page_item"><a href="http://95rockfm.com/vip-faq" title="FAQ" target="_parent">FAQ</a></li><li class="page_item"><a href="http://95rockfm.com/privacy" title="Privacy" target="_parent">Privacy</a></li><li class="page_item"><a href="http://95rockfm.com/help" title="Help &amp; Contact" target="_parent">Help &amp; Contact</a></li><li class="page_item"><a href="http://townsquaremediagroup.com" title="Townsquare" target="_blank">Townsquare</a></li></ul></div></div><div id="network_links" class="horizontal_navigation clearfix"><div id="network_footer" class="menu"><ul><li class="page_item"><a href="http://tasteofcountry.com" title="Country" target="_blank">Country</a></li><li class="page_item"><a href="http://popcrush.com" title="Pop Music" target="_blank">Pop Music</a></li><li class="page_item"><a href="http://ultimateclassicrock.com" title="Classic Rock" target="_blank">Classic Rock</a></li><li class="page_item"><a href="http://loudwire.com" title="Rock News" target="_blank">Rock News</a></li><li class="page_item"><a href="http://diffuser.fm" title="Indie" target="_blank">Indie</a></li><li class="page_item"><a href="http://thefw.com" title="Funny" target="_blank">Funny</a></li><li class="page_item"><a href="http://guyspeed.com" title="GuySpeed" target="_blank">GuySpeed</a></li><li class="page_item"><a href="http://screencrush.com" title="Movies" target="_blank">Movies</a></li><li class="page_item"><a href="http://wellthatsawesome.com" title="Awesome" target="_blank">Awesome</a></li><li class="page_item"><a href="http://ultimatemetallica.com/" title="Metallica" target="_blank">Metallica</a></li><li class="page_item"><a href="http://starcrush.com/" title="Celebs" target="_blank">Celebs</a></li><li class="page_item"><a href="http://arcadesushi.com/" title="iOS Games" target="_blank">iOS Games</a></li><li class="page_item"><a href="http://allchristmas.fm/" title="Christmas" target="_blank">Christmas</a></li></ul></div></div></footer><!-- // footer -->
+    <div id="footer-sidebar" class="sidebar clearfix"><div id="rss-feed-10" class="widget rss-feed  clearfix"><a class="rssfeed-header-image" href="http://loudwire.com" target="_blank"><img src="http://loudwire.com/files/2013/02/loudwire_150x60_black.png"></a><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://loudwire.com/christopher-lee-oldest-man-to-chart-on-billboard/" title="'Dracula' Icon Christopher Lee Becomes Oldest Man to Chart on Billboard at 91 Years Old" target="_blank">'Dracula' Icon Christopher Lee Becomes Oldest Man to Chart on Billboard at 91 Years Old</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://loudwire.com/saving-abel-jared-weeks-exits-band/" title="Saving Abel Frontman Jared Weeks Exits the Band" target="_blank">Saving Abel Frontman Jared Weeks Exits the Band</a></span></li></ul></div><div id="rss-feed-11" class="widget rss-feed  clearfix"><a class="rssfeed-header-image" href="http://ultimateclassicrock.com" target="_blank"><img src="http://loudwire.production.townsquareblogs.com/files/2011/08/UCR.png"></a><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://ultimateclassicrock.com/eric-carmen-new-song/" title="Eric Carmen Back With New Song For A 'Brand New Year'" target="_blank">Eric Carmen Back With New Song For A 'Brand New Year'</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://ultimateclassicrock.com/foreigner-i-want-to-know-what-love-is/" title="Foreigner's Mick Jones Looks Back on 'I Want to Know What Love Is'" target="_blank">Foreigner's Mick Jones Looks Back on 'I Want to Know What Love Is'</a></span></li></ul></div><div id="rss-feed-12" class="widget rss-feed  clearfix"><a class="rssfeed-header-image" href="http://diffuser.fm/" target="_blank"><img src="http://diffuser.fm/files/2012/03/150x60-black.png"></a><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://diffuser.fm/daily-top-5-news-countdown-kanye-west-stops-talking-trash/" title="Daily Top 5 News Countdown: Kanye West Promises to Stop Talking S— + More" target="_blank">Daily Top 5 News Countdown: Kanye West Promises to Stop Talking S— + More</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://diffuser.fm/surprise-albums-2014/" title="10 Surprise Albums We Hope to See in 2014" target="_blank">10 Surprise Albums We Hope to See in 2014</a></span></li></ul></div><div id="rss-feed-13" class="widget rss-feed  clearfix"><a class="rssfeed-header-image" href="http://screencrush.com/" target="_blank"><img src="http://ultimateclassicrock.com/files/2012/03/150x60.png"></a><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://screencrush.com/duck-dynasty-phil-robertson-ban-lifted-ae-homosexuality/" title="A&amp;E's 'Duck Dynasty' Lifts Ban on Phil Robertson After Homophobic Interview" target="_blank">A&amp;E's 'Duck Dynasty' Lifts Ban on Phil Robertson After Homophobic Interview</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://screencrush.com/the-wrap-up-amazing-spider-man-2-viral-mob/" title="The Wrap Up: 'The Amazing Spider-Man 2′ Viral Site Keeps Teasing New Villains" target="_blank">The Wrap Up: 'The Amazing Spider-Man 2′ Viral Site Keeps Teasing New Villains</a></span></li></ul></div></div><div id="footer_links" class="horizontal_navigation clearfix">
+	<ul id="menu-footer" class=""><li id="menu-item-116287" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116287"><a target="_parent">LOUDWIRE NETWORK</a></li>
+<li id="menu-item-116286" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116286"><a target="_parent" href="http://95rockfm.com/eeo/">EEO</a></li>
+<li id="menu-item-116288" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116288"><a target="_parent" href="http://95rockfm.com/advertise/">Advertise</a></li>
+<li id="menu-item-73" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73"><a target="_parent" href="http://95rockfm.com/terms/">Terms</a></li>
+<li id="menu-item-116292" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116292"><a target="_parent" href="http://95rockfm.com/vip-terms/">VIP Terms</a></li>
+<li id="menu-item-116293" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116293"><a target="_parent" href="http://95rockfm.com/vip-faq/">FAQ</a></li>
+<li id="menu-item-74" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-74"><a target="_parent" href="http://95rockfm.com/privacy/">Privacy</a></li>
+<li id="menu-item-116294" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116294"><a target="_parent" href="http://95rockfm.com/help/">Help &amp; Contact</a></li>
+<li id="menu-item-75" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75"><a target="_parent" href="http://www.townsquaremedia.com/">Townsquare Media</a></li>
+<li id="menu-item-116295" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116295"><a target="_parent" href="http://kekbfm.com/grand-junction-business-listings/">Grand Junction Business Listings</a></li>
+</ul></div><div id="network_links" class="horizontal_navigation clearfix">
+	</div><div id="bottom_banner" class="tsmAd clearfix"><div id="bottom-728x90"><script type="text/javascript">googletag.display("bottom-728x90");</script></div></div></footer><!-- // footer -->
 
-<script type="text/javascript" src="http://kknn.production.townsquaresites.com/wp-content/plugins/audio-player/assets/audio-player.js?ver=2.0.4.1"></script>
-<script type="text/javascript">AudioPlayer.setup("http://kknn.production.townsquaresites.com/wp-content/plugins/audio-player/assets/player.swf?ver=2.0.4.1", {width:"300",animation:"yes",encode:"yes",initialvolume:"60",remaining:"no",noinfo:"no",buffer:"5",checkpolicy:"no",rtl:"no",bg:"ffffff",text:"393939",leftbg:"737174",lefticon:"ffffff",volslider:"ffffff",voltrack:"ffffff",rightbg:"737174",rightbghover:"",righticon:"ffffff",righticonhover:"ffffff",track:"ffffff",loader:"ffffff",border:"ffffff",tracker:"ffffff",skip:"393939",pagebg:"ffffff",transparentpagebg:"yes"});</script>
-<script type="text/javascript">
-	jQuery(document).bind('fbInit.tsq-facebook', function(){
-		jQuery('[name=tsq-facebook-comments]').fbPlugin();
-	});
-</script>
-<!-- Facebook connect Init v2.3.0 (NEW API) -->
-    <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
-    <script type="text/javascript">//<!--
-    
-
-      window.fbAsyncInit = function()
-      {
-    
-    	if(typeof FB !== "undefined"){
-
-				FB.init({
-					appId: '109655859182135', status: true, cookie: true, xfbml: true, oauth:true, channelUrl: 'http://95rockfm.com/wp-content/plugins/tsm-wp-fb-autoconnect/facebook-platform/channel.html' 
-				});
-				   
-        }
-        
-        
-
-      };
-
-
-      (function() {
-        var e = document.createElement('script');
-        e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-        e.async = true;
-        document.getElementById('fb-root').appendChild(e);
-      }());
-      
-    //--></script>
-    
-<!-- Facebook connect Callback v2.3.0 -->
-  
-<form id="wp-fb-ac-fm" name="jfb_js_login_callback_form" method="post" action="/fbregister/?tsm-fb-register-page=1">
-      <input type="hidden" name="redirectTo" value="/privacy/">
-      
-<input type="hidden" name="rememberme" id="fb_rememberme" value="0">      <input type="hidden" id="autoconnect_nonce" name="autoconnect_nonce" value="9bc9778043"><input type="hidden" name="_wp_http_referer" value="/privacy/">   
-    </form>
-<script type="text/javascript">//<!--
-    
-    function hideFancyBox(){
-    		jQuery("#fancybox-close").trigger("click");
-    }
-    
-    function jfb_js_login_callback()
-    {
-
-
-var rememberme = document.getElementById('rememberme');
-if( rememberme && rememberme.checked ) document.getElementById('fb_rememberme').value = 1
-    //Make sure the user logged in
-    FB.getLoginStatus(function(response)
-    {
-      if (!response.authResponse)
-      {
-      return false;
-      }
-
-      document.jfb_js_login_callback_form.submit();
-    });
-    }
-    //--></script>
-    <div id="inline_register_selection_wrap" class="cloak">
-	<div id="inline_register_selection">
-		<div id="registration_modal" class="content_bg clearfix">
-			<p class="top_hat"><span>Registration 95 Rock - KKNN-FM - Grand Junction, CO</span></p>
-			<div class="registermsg">
-				<p>Sign up for an account to comment, share your thoughts, and earn points to get great prizes.</p>
-							</div>
-			<div class="registration_holder">
-				<a id="register_btn" class="button-primary button" href="/registration" tabindex="503">Registration</a>
-				<script>
-					function fbLoginDialog(){
-						var w=500,h=300;
-						var posx = (screen.width/2)-(w/2);
-						var posy = (screen.height/2)-(h/2);
-						signinWin = window.open("https://www.facebook.com/dialog/oauth?client_id=68183897688&display=popup&redirect_uri=http:%2F%2Ftest.townsquare.local%2Fwp-content%2Fplugins%2Fwp-fb-autoconnect%2Fcustompages%2Fregistration-dialog.php&scope=email,read_stream", "SignIn", "width=780,height=410,toolbar=0,scrollbars=0,status=0,resizable=0,location=0,menuBar=0,left=" + posx + ",top=" + posy);
-						signinWin.focus();
-					}
-				</script>
-				<!-- Facebook connect Button v2.3.0 -->
-		
-		<div class="fb-register-btn border_top">
-									
-								
-				<fb:login-button size="large" scope="email,user_birthday,user_status,publish_actions,user_about_me,user_location,user_likes,user_hometown" onlogin="window.location = &quot;/?fbregister=1&quot;;hideFancyBox();">Register with Facebook</fb:login-button>
-					<!--<div><img src="http://test.townsquare.local/wp-content/plugins/wp-fb-autoconnect/custompages/images/login-facebook-button.png"  onclick="fbLoginDialog();" style="cursor:pointer;"/></div>-->
+<script type="text/javascript" src="http://kknn.production.townsquareblogs.com/wp-content/plugins/audio-player/assets/audio-player.js?ver=2.0.4.1"></script>
+<script type="text/javascript">AudioPlayer.setup("http://kknn.production.townsquareblogs.com/wp-content/plugins/audio-player/assets/player.swf?ver=2.0.4.1", {width:"290",animation:"yes",encode:"yes",initialvolume:"60",remaining:"no",noinfo:"no",buffer:"5",checkpolicy:"no",rtl:"no",bg:"393939",leftbg:"737174",lefticon:"FFFFFF",voltrack:"393939",volslider:"FFFFFF",rightbg:"737174",rightbghover:"737174",righticon:"FFFFFF",righticonhover:"FFFFFF",text:"FFFFFF",track:"393939",border:"393939",loader:"393939",tracker:"FFFFFF",skip:"393939",pagebg:"FFFFFF",transparentpagebg:"yes"});</script>
+<div style="display:none;">
+	<div id="fb-auth-form-nonce"><input type="hidden" id="fb_auth_form_nonce" name="fb_auth_form_nonce" value="72cc55f368"><input type="hidden" name="_wp_http_referer" value="/privacy/"></div>
+	<div id="fb-auth-account-activation" class="fb-auth-form">
+		<h3 class="generic-link-color">Welcome back to 95 Rock - KKNN-FM - Grand Junction, CO</h3>
+		<p>It appears that you already have an account created within our VIP network of sites on <a class="blog-tag generic-link-color" href="#"></a>. To keep your points and personal information safe, we need to verify that it's really you. To activate your account, please confirm your <a class="blog-tag generic-link-color" href="#"></a> password. When you have confirmed your password, you will be able to log in through Facebook on both sites.</p>
+		<p class="error-messages"></p>
+		<p>
+			<label>Enter your password</label>
+			<input class="password" type="password" name="cpwd" value="">
+			<a class="forgot generic-link-color" href="/login/?action=lost-password">Forgot your password?</a>
+		</p>
+		<div class="default-button">
+			<a href="#">YES, Activate My Account Now!</a>
 		</div>
-		<p class="fb-reg-msg">Register for  95 Rock - KKNN-FM - Grand Junction, CO quickly by logging in with your Facebook account. It's just as secure and no passwords to remember!</p>
+		<p class="meta">*Please note that your points, prizes and activities will not be shared between programs within our VIP network.</p>	</div>
 
-	<!--Premium Add-On #1316, version 26-->
-			</div> <!-- // .registration_holder -->
-		</div><!-- // .registration_form_Wrap -->
+	<div id="fb-auth-site-activation" class="fb-auth-form">
+		<h3 class="generic-link-color">Welcome back to 95 Rock - KKNN-FM - Grand Junction, CO</h3>
+		<p>It appears that you already have an account on this site associated with <strong class="user-email"></strong>. To connect your existing account with your Facebook account, just click on the account activation button below. You will maintain your existing profile and VIP program points. After you do this, you will be able to always log in to <a class="generic-link-color" href="http://95rockfm.com" target="_blank">http://95rockfm.com</a> using your Facebook account.</p>
+		<p class="error-messages"></p>
+		<div class="default-button"><a href="#">YES, Activate My Account Now!</a></div>
+				<p class="meta">*Please note that your points, prizes and activities will not be shared between programs within our VIP network.</p>	</div>
+
+	<div id="fb-auth-required-fields" class="fb-auth-form">
+		<h3 class="generic-link-color">We're Almost There!</h3>
+		<p>Please fill out the information below to help us provide you a better experience.</p>
+		<p class="error-messages"></p>
+		<p>
+			<label>Zip</label>
+			<input class="zip" type="text" name="zip" value="">
+			<label class="subscribe">Subscribe to Newsletter</label>
+			<input class="newsletter" type="checkbox" name="newsletter" value="1" checked="checked">
+		</p>
+		<div class="default-button"><a href="#">Continue and Activate</a></div>
+	</div>
+
+	<div id="fb-auth-login" class="fb-auth-form">
+		<h3 class="generic-link-color">Sign into 95 Rock - KKNN-FM - Grand Junction, CO</h3>
+		<p class="error-messages"></p>
+		<label>User Name<span>(Email)</span></label>
+		<input type="text" class="username" tabindex="600" value="" name="username">
+		<label>Password <a class="forgot generic-link-color" href="http://95rockfm.com/login/?action=lost-password">(Forgot your password?)</a></label>
+		<input type="password" class="password" tabindex="601" value="" name="password">
+		<div class="default-button login"><a href="#">Log In</a></div>
+		<div class="or"></div>
+		<div class="facebook-connect-button"></div>
+		<p class="meta">Register on 95 Rock - KKNN-FM - Grand Junction, CO quickly by logging in with your Facebook account.  It's just as secure, and no password to remember!</p>
+		<p class="register">Not a Member? <a class="fb-auth-registration-link generic-link-color" href="#fb-auth-registration">Sign Up Here.</a></p>
+	</div>
+
+	<div id="fb-auth-registration" class="fb-auth-form">
+		<h3 class="generic-link-color">Registration 95 Rock - KKNN-FM - Grand Junction, CO</h3>
+		<p class="error-messages"></p>
+		<p>Sign up for an account to comment, share your thoughts, and earn points to get great prizes.</p>
+		<div class="default-button registration"><a href="/registration/">Registration</a></div>
+		<div class="or"></div>
+		<div class="facebook-connect-button"></div>
+		<p class="meta">Register on 95 Rock - KKNN-FM - Grand Junction, CO quickly by logging in with your Facebook account.  It's just as secure, and no password to remember!</p>
 	</div>
 </div>
+<div style="display:none;">
+	<div id="request-song-form-container" class="fb-auth-form" style="width:300px;">
 
-<!-- ip: 174.129.237.157 -->
-<!-- Page rendered at 12:58:45 pm 11/27/12 --><script type="text/javascript" src="http://95rockfm.com/wp-content/plugins/graceful-email-obfuscation/geo-spam-prevention.js?ver=0.1"></script>
-<script type="text/javascript" src="http://95rockfm.com/wp-content/plugins/loyalty-activities/resources/js/loyalty.js?ver=3.4.2"></script>
-<script type="text/javascript" src="http://tsm-js.s3.amazonaws.com/jquery.getjs.min.js"></script>
-<script type="text/javascript" src="http://tsm-js.s3.amazonaws.com/jquery.sonar.min.js"></script>
-<script type="text/javascript" src="http://tsm-js.s3.amazonaws.com/jquery.facebookinit.min.js"></script>
-<script type="text/javascript" src="http://tsm-js.s3.amazonaws.com/jquery.facebookplugins.min.js?v=2"></script>
-<script type="text/javascript" src="http://tsm-js.s3.amazonaws.com/jquery.facebookcommentcount.min.js"></script>
-<script type="text/javascript" src="http://95rockfm.com/wp-content/plugins/radio-page/resources/player-popup.js?ver=a9bcef32826972dcf2ce112285b4f47da0f22d43"></script>
-<script type="text/javascript" src="http://tsm-js.s3.amazonaws.com/jquery.stumble.min.js"></script>
-<script type="text/javascript" src="http://kknn.production.townsquaresites.com/wp-content/plugins/stumbleupon/views/init-scripts.js"></script>
-<script type="text/javascript" src="http://95rockfm.com/wp-content/plugins/loyalty-activities/resources/js/loyalty_ftlink_link.js?ver=a9bcef32826972dcf2ce112285b4f47da0f22d43"></script>
-<script type="text/javascript" src="http://95rockfm.com/wp-content/themes/townsquare3/resources/js/jquery.effects-custom.js?ver=a9bcef32826972dcf2ce112285b4f47da0f22d43"></script>
-<script type="text/javascript" src="http://95rockfm.com/wp-content/themes/townsquare3/resources/js/jquery.platformselector.js?ver=a9bcef32826972dcf2ce112285b4f47da0f22d43"></script>
-<script type="text/javascript" src="http://95rockfm.com/wp-content/themes/townsquare3/resources/js/fancybox/jquery.fancybox-1.3.3.pack.js?ver=a9bcef32826972dcf2ce112285b4f47da0f22d43"></script>
-<script type="text/javascript" src="http://95rockfm.com/wp-content/themes/townsquare3/resources/js/jquery.tsc-sliders.js?ver=a9bcef32826972dcf2ce112285b4f47da0f22d43"></script>
-<script type="text/javascript" src="http://95rockfm.com/wp-content/themes/townsquare3/resources/js/jquery.template.js?ver=a9bcef32826972dcf2ce112285b4f47da0f22d43"></script>
-<script type="text/javascript" src="http://95rockfm.com/wp-content/mu-plugins/ts-widgets/resources/request_song.js?ver=a9bcef32826972dcf2ce112285b4f47da0f22d43"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var pwsL10n = {"empty":"Strength indicator","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
-var pwsL10n = {"empty":"Strength indicator","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
-try{convertEntities(pwsL10n);}catch(e){};;
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://95rockfm.com/wp-admin/js/password-strength-meter.js?ver=3.4.2"></script>
-<script type="text/javascript" src="http://95rockfm.com/wp-admin/js/user-profile.js?ver=3.4.2"></script>
-<script>
-		jQuery.fbInit({
-			fb_options:{
-				appId: '109655859182135',
-				channelUrl: 'http://95rockfm.com/wp-content/plugins/facebook/library/channel.html'
-			}
-		});
-</script>
-            <script type="text/javascript">
-            	jQuery(document).ready( function(){
-                	PlayerPopupObj.init({
-						w:'990',
-						h:'455',
-						listenlivebutton:'.listennow_wrapper .listen-live-button, .listen-live-bar'
-    				});
-                });
-            </script>
-            <div class="fancybox-wrap">
-    <div id="inline_login">
-        <div id="login_modal">
-            <p class="top_hat"><span>Sign into 95 Rock - KKNN-FM - Grand Junction, CO</span></p>
-            <form id="login_form" class="login-registration" action="http://95rockfm.com/login/?referer=http://95rockfm.com/privacy" method="post" target="_parent">
-                <div class="input clearfix">
-                    <label for="user_login">User Name<span>(Email)</span></label>
-                    <input type="text" class="input validate valid-required" tabindex="500" size="22" value="" id="user_login" name="log">
-                </div><!-- // #.input -->
-                <div class="input clearfix">
-                    <label for="user_pass">Password</label>
-                    <input type="password" class="input validate valid-required" tabindex="501" size="22" value="" id="user_pass" name="pwd">
-                </div><!-- // #.input -->
-                <input type="submit" name="login_form_submit" id="login_form_submit" class="button-primary button submit-button clearfix" value="Log In" tabindex="503">
-                <input type="hidden" name="redirect_to" value="http://95rockfm.com/privacy">
-                <input type="hidden" name="testcookie" value="1">
-            </form>
-            <!-- Facebook connect Button v2.3.0 -->
-			
-			<div class="fb-register-btn border_top">
-										
-										
-		
-					<fb:login-button size="large" scope="email,user_birthday,user_status,publish_actions,user_about_me,user_location,user_likes,user_hometown" onlogin="jfb_js_login_callback();hideFancyBox();">Login using Facebook</fb:login-button>
-						<!--<div><img src="http://test.townsquare.local/wp-content/plugins/wp-fb-autoconnect/custompages/images/login-facebook-button.png"  onclick="fbLoginDialog();" style="cursor:pointer;"/></div>-->
+		<h3 class="generic-link-color">95 Rock</h3>
+
+		<form id="request_song_form" class="login-registration" action="/" method="post">
+
+			<label>Song<span class="error-messages error-song" style="display:none;">*Please enter a song name.</span></label>
+			<input type="text" class="input isong" value="">
+
+			<label>Artist<span>(Optional)</span></label>
+			<input type="text" class="input iartist" value="">
+
+			<label>Your Name<span class="error-messages error-name" style="display:none;">*Please enter your name.</span></label>
+			<input type="text" class="input iname" value="">
+
+			<label>Your Email<span>(Optional)</span></label>
+			<input type="text" class="input iemail" value="">
+
+			<div class="default-button login">
+				<a class="request-submit" href="#">Submit</a>
 			</div>
-	
-	<!--Premium Add-On #1316, version 26-->
-            <p class="register-link">Not a Member? <a href="http://95rockfm.com/registration/" target="_parent">Sign Up Here.</a></p>
-        </div>
-    </div>
+
+			<input type="hidden" id="request_song" name="request_song" value="93aca87614"><input type="hidden" name="_wp_http_referer" value="/privacy/">
+		</form>
+
+		<h3 class="sent-message" style="display:none;">Thank you for your request.</h3>
+
+	</div>
 </div>
+<!-- Page rendered at 6:12:04 pm 12/27/13 --><link rel="stylesheet" id="local_experts-css" href="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/wp-content/plugins/local-experts/resources/css/local_experts.css?ver=1.2" type="text/css" media="all">
+<script type="text/javascript" src="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/wp-content/plugins/graceful-email-obfuscation/geo-spam-prevention.js?ver=0.1"></script>
+<script type="text/javascript" src="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.pack.js?ver=0cec18a4030388a4d0394dbed1af19c6ebc5b43e"></script>
+<script type="text/javascript" src="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/wp-content/plugins/loyalty-activities/resources/js/loyalty.js?ver=2"></script>
+<script type="text/javascript" src="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/wp-content/mu-plugins/fancybox/vendor/jquery.easing-1.3.pack.js?ver=0cec18a4030388a4d0394dbed1af19c6ebc5b43e"></script>
+<script type="text/javascript" src="http://tsm-js.s3.amazonaws.com/jquery.sonar.min.js?ver=0cec18a4030388a4d0394dbed1af19c6ebc5b43e"></script>
+<script type="text/javascript" src="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/wp-content/mu-plugins/sonar-load/js/sonar.load.js?ver=0cec18a4030388a4d0394dbed1af19c6ebc5b43e"></script>
+<script type="text/javascript" src="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/wp-content/plugins/facebook-apps/js/facebook-auth.js?ver=0cec18a4030388a4d0394dbed1af19c6ebc5b43e"></script>
+<script type="text/javascript" src="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/wp-content/plugins/loyalty-activities/resources/js/loyalty_ftlink_link.js?ver=0cec18a4030388a4d0394dbed1af19c6ebc5b43e"></script>
+<script type="text/javascript" src="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/wp-content/plugins/radio-players/resources/js/radio-players.js?ver=0cec18a4030388a4d0394dbed1af19c6ebc5b43e"></script>
+<script type="text/javascript" src="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/wp-content/plugins/social-sharing/resources/social-tracking.js?ver=0cec18a4030388a4d0394dbed1af19c6ebc5b43e"></script>
+<script type="text/javascript" src="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/wp-content/plugins/social-sharing/resources/more-button.js?ver=0cec18a4030388a4d0394dbed1af19c6ebc5b43e"></script>
+<script type="text/javascript" src="http://wac.450f.edgecastcdn.net/80450F/95rockfm.com/wp-content/themes/townsquare3/resources/js/jquery.template.js?ver=0cec18a4030388a4d0394dbed1af19c6ebc5b43e"></script>
+<script type="text/javascript" src="http://kknn.production.townsquareblogs.com/wp-content/widgets/request-song/js/request_song.js?ver=0cec18a4030388a4d0394dbed1af19c6ebc5b43e"></script>
+<script type="text/javascript" src="http://kknn.production.townsquareblogs.com/wp-content/widgets/dynamic-lead/js/jquery.tsc-sliders.js?0cec18a4030388a4d0394dbed1af19c6ebc5b43e"></script>
+<script type="text/javascript" src="http://kknn.production.townsquareblogs.com/wp-content/widgets/listen-live-bar/js/listen-live-bar.js?0cec18a4030388a4d0394dbed1af19c6ebc5b43e"></script>
+<script type="text/javascript" src="http://kknn.production.townsquareblogs.com/wp-content/widgets/now-playing/js/now-playing.js?0cec18a4030388a4d0394dbed1af19c6ebc5b43e"></script>
+<!-- ip: 174.129.237.157 -->
 </div><!-- // #takeover_wrap.body_child  -->
+
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using memcached
-Object Caching 2523/2855 objects using memcached
+Object Caching 2864/2909 objects using memcached
+Content Delivery Network via wac.450f.edgecastcdn.net/80450F/95rockfm.com
 
-Served from: 95rockfm.com @ 2012-11-27 19:58:45 --></body></html>
+Served from: 95rockfm.com @ 2013-12-28 01:12:04 --></body></html>
