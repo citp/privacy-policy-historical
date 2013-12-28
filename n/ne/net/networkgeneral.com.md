@@ -1,110 +1,78 @@
-> *The following text is extracted and transformed from the networkgeneral.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126144014id_/http%3A//www.netscout.com/company/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkgeneral.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228114335id_/http%3A//www.netscout.com/company/pages/privacy.aspx) for the most accurate reproduction.*
 
-# 
+# NetScout Privacy Policy
 
-NetScout Systems, Inc.  
-310 Littleton Road   
-Westford, MA 01886  
-United States  
-(978)614-4000
+  
+**NetScout Systems, Inc.   Privacy Policy**
 
-**NetScout Systems, Inc.  Privacy Policy   
-**NetScout is committed to respecting the privacy rights of individuals and corporations and has created this Privacy Policy in order to inform you of our commitment to privacy and to describe our policies for the collection, use, and disclosure of personal information that may be collected by NetScout for both online and offline data. If you give us personal information, we will treat it according to this policy.
+**Our Commitment to Privacy  
+** Your privacy is important to us. This website, [www.netscout.com](http://www.netscout.com/) (the “Site”), is owned and operated by NetScout Systems, Inc. (“NetScout”).  This Privacy Policy describes how we collect, use and disclose information that we may obtain about you off line or through the Site.   It does not apply to those sites that do not display or link to this Privacy Policy.  When you provide information to us offline or via our Site, we protect it according to this Privacy Policy.  Your use of this site is also subject to the Terms of Use.  Please review the Terms of Use for additional detail regarding your use of this site.  **By using this Site, you acknowledge that you have reviewed, and agree to, the terms of this Privacy Policy. If you do not agree to this Privacy Policy, do not use this Site.**
 
-Your use of this site is also subject to the Terms of Use. Please review the Terms of Use for additional detail regarding your use of this site. 
+**What Personal Information Does NetScout Collect?  
+** On NetScout’s Site, you can order products or services, register products, request information, subscribe to marketing or support materials, download software, enter a contest, apply for a job, respond to promotional campaigns, participate in discussion groups or forums, or register to a secure extranet site to obtain access to webinars, product information, support, services and training. NetScout will collect personal information from you for these purposes. Personal information for purposes of this Privacy Policy is information that identifies or can identify a specific individual.  NetScout may collect information about individuals such as their name, address, telephone number or email address, user IDs and passwords, billing and transaction information, credit card or other financial information, and contact preferences. Personal information collected online may be supplemented with information you provide to NetScout through other NetScout services, as well as other sources such as trade shows or seminars, as well as other data appending methods.  NetScout does not collect personal information when you visit NetScout's Site unless you choose to provide it to NetScout.
 
-**Collection Of Personal Information  
-** “Personal Information” is any information that could be used to uniquely identify, describe, locate, or contact an individual, such as, name, physical description, social security number, national-, state- or province-issued identification number, driver’s license number, date of birth, bank account numbers, credit card numbers and other credit related information, personal identification numbers, passwords, pass-codes, password hint answers, required to provide a service, deliver a product, or carry out a transaction you have requested. Some of the reasons we collect your Personal Information include: 
+**How Does NetScout Use Personal Information?  
+** NetScout will use personal information to provide customers and business partners with information and services and to help us better understand your needs and interests. Specifically, we use your information to welcome you, to help you complete a transaction or order, to deliver products or services to you, to bill you for products or services you purchased, and to provide ongoing service and support. Occasionally we may use your information to (i)  contact you to keep you up to date on the latest product announcements, software updates, software upgrades, system enhancements, special offers, and other information. This may occasionally include information from other technology companies about products and services that can add value to your NetScout products, (ii) to complete surveys that we use for marketing and quality assurance purposes or (iii) to send promotional mailings to inform you of other products or services available. We may also use information submitted as part of a job application or inquiry to contact you as part of the recruiting and hiring process.
 
-  * registering an account
-  * using certain features of our products or services
-  * requesting service and support for our products or services
-  * placing a transaction or order
-  * registering to attend a seminar
-  * participating in an online survey
-  * submitting an entry for a sweepstakes or other promotion
-  * participating in discussion groups or forums
-  * engaging in collaboration efforts
-  * registering for membership programs or newsletter subscriptions
-  * applying for a job
+NetScout’s Site may provide on-line newsgroups, chat forums and blogs for our users. Any information that you disclose in these forums becomes public information, which could be read, collected or used by other users to send you unsolicited messages. You should exercise caution when deciding to disclose your personal information.
 
+In accordance with applicable law, personal information collected on the NetScout Site may be transferred, stored and processed in the United States or any other country in which NetScout or its affiliates, subsidiaries or service providers maintain facilities, even if the level of data privacy required is less than that required by the European Union or under Safe Harbor. By entering your personal data, you consent to worldwide processing of your personal information.
 
-
-**Uses of your Personal Information**   
-NetScout uses your Personal Information for the following purposes: 
-
-  * To process your orders and deliver the products and services that you have ordered.
-  * To provide the ability to contact you with shipping and billing information for your orders.
-  * To provide support and assistance for our products and services.
-  * To keep you up to date on the latest product announcements, software updates, software upgrades, system enhancements, special offers, and other information. This may occasionally include information from other technology companies about products and services that can add value to your NetScout products. 
-  * To provide the ability to create a personal profile area and view protected content.
-  * To provide customer feedback and support.
-  * To provide contests, sweepstakes or other marketing or promotional activities on the NetScout.com websites. 
-  * To conduct questionnaires and surveys in order to provide better products and services to our customers and end users. Your completion of any questionnaire is voluntary.
-  * To support recruitment inquiries.
-  * To provide on-line discussion groups and forums.
-  * To communicate with you about a conference or event.
-  * To personalize newsletters and websites to your preferences, so we can understand more about you. For example, allow you the opportunity to request specific information on products and services that may be of interest.
-  * To allow you to forward information to another individual such as a friend or co-worker. NetScout does not store the personal information of the third party. We collect the information for the sole purpose of sending a one-time email. If you choose to use our referral service to inform a colleague or friend, we will only ask for a contact name and email address.
-  * To meet contract obligations and to comply with legal requirements.
-
-
-
-**Questions, Comments, and Updating Your Personal Information  
-** If you have questions or comments regarding this policy or need to update your Personal Information you have shared with us, please submit to NetScout by mail or e-mail as follows: 
-
-NetScout Systems, Inc.   
-310 Littleton Road   
-Westford, MA 01886   
-USA   
-Attention:  Marketing  
-1-800-357-7666  
-[web@netscout.com](mailto:web@netscout.com)   
-Please include your name, title, company name, and e-mail address.
-
- **Unsubscribing**  
-If you do not want NetScout to contact you for marketing purposes by email, postal mail, fax and/or phone, you may unsubscribe by sending an email to emarketing@netscout.com, calling us at the above telephone number, or writing to us at the above address. Please provide us with your name, email address and the title of the marketing material you wish to unsubscribe from or information you do not want us to share with other organizations. If you are sending an email, place the word UNSUBSCRIBE in the subject line.
-
-**Non-Personal/Anonymous Information Collection**  
-In some instances NetScout may collect non-personal (aggregate or demographic) data through cookies, web logs, and web beacons. This information is used to better understand and improve the usability, performance, and effectiveness of the website. Please read the “Cookies” section below for more information.
+In addition, we may use aggregate demographic information to improve our websites, but that information is not personally identifiable.
 
 **Sharing Your Personal Information  
-** We will not sell rent or otherwise provide your Personal Information to third parties for marketing purposes unless you have granted us permission to do so.
+** NetScout contracts with business partners, service providers, authorized third-party agents or contractors (“Service Providers”) in order to provide a requested service or transaction, including processing orders, processing credit card transactions, hosting websites, hosting event and seminar registration and providing customer support.  NetScout may share personal information with its Service Providers and suppliers to the extent needed to deliver the service or respond to requests for information on products or services or otherwise support the customers' business needs. In these instances, you will not have the opportunity to opt out of having your information shared with these Service Providers and suppliers, and they may contact you directly regarding such products or services. We will only provide these Service Providers with the minimum amount of personal information necessary to complete the requested service or transaction and we require that they treat personal information consistent with the terms contained in this policy.   Unless otherwise dictated by law or agreement, NetScout is not responsible for any improper use by such Service Providers.
 
-We may be required to disclose your Personal Information in order to comply with legally mandated reporting, disclosure or other legal process requirements. NetScout will use reasonable efforts to limit the Personal Information it provides for these purposes.
+We may be required to disclose your personal information in order to comply with legally mandated reporting, disclosure or other legal process requirements. NetScout will use reasonable efforts to limit the personal information it provides for these purposes.
 
-We may share your Personal Information within NetScout or any of our worldwide locations for purposes of data processing or storage. 
+We may collect and share personal information and any other additional information available to us in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of NetScout’s terms of use, or as otherwise required by law.
 
-We may also share your Personal Information with business partners, service vendors, authorized third-party agents or contractors in order to provide a requested service or transaction, including processing orders, processing credit card transactions, hosting websites, hosting event and seminar registration and providing customer support. We will only provide these third parties with the minimum amount of Personal Information necessary to complete the requested service or transaction and we require that they treat Personal Information consistent with the terms contained in this policy. 
+We may share your personal information within NetScout or any of our worldwide locations for purposes of data processing or storage. 
 
-We may collect and share Personal Information and any other additional information available to us in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of NetScout’s terms of use, or as otherwise required by law.
+Unless permitted by relevant laws, or you have provided consent, we will not sell rent or otherwise provide your personal information to third parties for marketing purposes unless you have granted us permission to do so.
 
-The NetScout.com web site may provide links to non-NetScout sites we believe may be of interest to you. Those sites are beyond our control. You are advised to check the privacy policies and terms of use of any non-NetScout sites before providing your personal information to them. 
+If you choose to use our referral service to tell a friend about a page on NetScout.com, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. NetScout does not store this information.
 
-We will ask for your consent before we use or share your Personal Information for any purpose other than the reason you provided it or as otherwise provided by this policy. In order to let us know your preferences, we will require an action on your part, such as checking the appropriate option, to indicate your consent.
+**Choice and Access  
+** NetScout does not require that customers, business partners or non-employee visitors to the NetScout Site provide NetScout with personal information. The decision to provide personal information is voluntary. If you do not provide the personal information requested, however, you may not be able to proceed with the activity or receive the benefit for which the personal information is being requested.
+
+You can always unsubscribe or choose not to receive promotional information from us by following the specific instructions in the email you receive or by notifying us via the appropriate method below. Please note that you may continue to receive materials while we are updating our lists.  In countries where required by law, NetScout will offer you the opportunity to opt in before promotional materials are sent to you. This will not apply to the receipt of mandatory service communications that are considered part of certain NetScout services, which you may receive periodically unless you cancel the service.
+
+NetScout strives to keep your personal information accurate. We have implemented technology, management processes and policies to maintain data integrity. We will provide you with access to your information when reasonable, or in accordance with relevant laws, including making reasonable effort to provide you with online access and the opportunity to change your information. To protect your privacy and security, we will take steps to verify your identity before granting access or making changes to your data. Requests to delete personal information are subject to any applicable legal and ethical reporting or document retention obligations. To access and/or correct information, you can do so online or notify us via the appropriate method below.
+
+NetScout Systems, Inc.: [mbiso@netscout.com](mailto:mbiso@netscout.com), 1-800-357-7666, 978-614,4000 or NetScout Systems, Inc., Attn: Information Security Office, 310 Littleton Road, Westford, MA, USA, 01866. Please include your name, title, company name, and e-mail address.
+
+  
+**Unsubscribing  
+** If you do not want NetScout to contact you for marketing purposes by email, postal mail, fax and/or phone, you may unsubscribe by sending an email to [emarketing@netscout.com](mailto:emarketing@netscout.com), calling us at the above telephone number, or writing to us at the above address.  Please provide us with your name, email address and the title of the marketing material you wish to unsubscribe from or information you do not want us to share with other organizations.  If you are sending an email, place the word UNSUBSCRIBE in the subject line.
 
 **Security of Your Personal Information  
-** The security of your Personal Information is very important to NetScout. We have in place physical, administrative, and technical safeguards designed to protect your Personal Information from unauthorized access. In addition, NetScout uses standard security protocols and mechanisms to exchange the transmission of sensitive data such as credit card details.
+** The security of your personal information is very important to NetScout.  We have in place physical, administrative, and technical safeguards designed to protect your personal information from unauthorized access.  In addition, NetScout uses standard security protocols and mechanisms to exchange the transmission of sensitive data such as credit card details.
 
-While we strive to protect your Personal Information, we cannot ensure the security of the information you transmit. We recommend you to take every precaution in protecting your Personal Information when you are on the Internet. For example, change your passwords often, use a combination of letters and numbers when creating passwords, and use a secure browser. 
+  
+While we strive to protect your personal information, we cannot ensure the security of the information you transmit. We recommend you to take every precaution in protecting your personal information when you are on the Internet. For example, change your passwords often, use a combination of letters and numbers when creating passwords, and use a secure browser.
 
-**Cookies**  
-NetScout may use “cookies” or similar technologies to collect certain information about you (such as IP addresses and domain names) to recognize and recall certain information about you when you visit our site, and to enable us to know when you have visited our site. We do this to enhance your use and the performance of the NetScout site.  If you do not want to enable the use of cookies, most web browsers have an option that allows you to reject or refuse cookies.  If you elect to refuse cookies, it may affect or limit your use of the NetScout site.
+  
+**Collection and Use of Non-Personal Information  
+** In some instances NetScout may collect non-personal information-data in a form that does not permit direct association with any specific individual.  We may collect, use, transfer, and disclose non-personal information for any purpose.  The following are some examples of non-personal information that we collect and how we may use it: We may collect (aggregate or demographic) data through cookies, web logs, and web beacons. This information is used to better understand and improve the usability, performance, and effectiveness of the website and our products. Please read the “Cookies” section below for more information.  We also may collect information such as deployment, configuration, and usage pattern so that we can better understand customer usage and improve our website, products, services, and advertising.
 
-As is true when you visit most web sites, NetScout may automatically receive information from you as part of the communication connection itself, which often consists of network routing information (where you came from), equipment information (browser type), and date and time. NetScout may also use embedded URLs and embedded pixels to capture additional information.
+**Cookies  
+** NetScout may use “cookies” or similar technologies to collect certain information about you (such as IP addresses and domain names) to recognize and recall certain information about you when you visit our site, and to enable us to know when you have visited our site. We do this to enhance your use and the performance of the NetScout Site.  If you do not want to enable the use of cookies, most web browsers have an option that allows you to reject or refuse cookies.  If you elect to refuse cookies, it may affect or limit your use of the NetScout Site.
 
-**Data Retention**  
-NetScout will not retain your Personal Information no longer than is necessary to fulfill the purposes for which it was collected or as required by applicable laws or regulations. 
+As is true when you visit most web sites, NetScout may automatically receive information from you as part of the communication connection itself, which often consists of network routing information (where you came from), equipment information (browser type), and date and time.  NetScout may also use embedded URLs and embedded pixels to capture additional information.
 
-**Discussion Groups and Forums  
-** If you participate in a NetScout discussion group or forum, you should be aware that the information you provide there is broadly available to all others who have access to that discussion forum or chat room, including parties both inside and outside NetScout. Also, please recognize that individual forums and chat rooms may have additional rules and conditions. Each participant’s opinion on a forum or chat room is his or her own and should not be considered as reflecting the opinion of NetScout.
+**Links to Non-NetScout web sites and Third Parties  
+** The NetScout.com web Site may provide links to non-NetScout Sites we believe may be of interest to you. Those sites are beyond our control. You are advised to check the privacy policies and terms of use of any non-NetScout Sites before providing your personal information to them. 
 
-**Non-US Use**  
-If you reside or are located outside of the United States of America, be aware that any Personal Information you provide to NetScout will be transferred to the United States. Certain countries may not allow information (such as email) to be transmitted outside of that country or region.
+**European Safe Harbor Compliance  
+** NetScout recognizes that the European Union (“EU”) has an “ominbus” data protection regime established pursuant to the European Data Protection Directive (95/46/EC) and that Switzerland has adopted a comparable data protection law (together, “European Data Privacy Laws”).  Among other provisions, the European Data Privacy Laws generally require “adequate protection” for the transfer to the United States of personal information about individuals located in Europe.  In the course of performing services on behalf of its European customers, NetScout may obtain incidental access to and otherwise process in the United States certain personal information about its customers’ consumers or other end users who are located in the EU and Switzerland (“European End User Data”).  NetScout adheres to the US/EU and US/Swiss Safe Harbor Privacy Principles published by the US Department of Commerce (“European Safe Harbor”) with respect to such European End User Data that it accesses or otherwise processes in the United States.  NetScout’s customers are the data controllers for any European End User Data.  NetScout acts as data processor for its customers, and follows its customers’ instructions for the processing of such European End User Data.  Any end users with questions about their data should first contact the relevant NetScout customer, as this may be the most efficient means of addressing such questions.  End users can also contact NetScout with questions at [mbiso@netscout.com](mailto:mbiso@netscout.com), 1-800-357-7666, 978-614-4000 or NetScout Systems, Inc., Attn: Information Security Office, 310 Littleton Road, Westford, MA, USA, 01866. Any European end user who cannot address his or her issue directly with the customer or NetScout can contact a local data protection authority.  For more information about Safe Harbor please refer to the US Department of Commerce website at <http://www.export.gov/safeharbor/>.
 
-By clicking on buttons such as “submit,” “continue,” “register,” etc., you consent to the transfers and processing referred to above taking place. If you have any concerns, we suggest you do not use the forms or contact mechanisms included in this web site, and use an alternative form of contacting us such as telephoning one of our operators or writing to us by postal mail. 
+**Enforcement of this Privacy Policy  
+** NetScout uses a self-assessment approach to assure compliance with this Privacy Policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the principles.  Interested persons may raise concerns using the contact information provided, and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of personal information in accordance with these principles.  If a complaint or dispute cannot be resolved through our internal process, we agree to dispute resolution using an independent resource mechanism as a third party resolution provider.
 
-**Policy Updates**  
-NetScout may amend this privacy statement from time to time. We will post a prominent notice in this section of this policy notifying users when it is updated.
+If you have questions regarding our compliance with this Privacy Policy please contact us by making a written submission to NetScout's Office of the General Counsel, 310 Littleton Road, Westford, MA, USA, 01866 or send an e-mail to [infosecurity@netscout.com](mailto:infosecurity@netscout.com).
 
-Last update: April 15, 2010
+**Policy Updates  
+** NetScout may amend this Privacy Policy from time to time. We will post a prominent notice in this section of this policy notifying users when it is updated.
+
+Last update: March 13, 2012 [[To see the prior version of this policy click here](https://web.archive.org/archived/Pages/privacy_archive_2012-03-13.aspx)]
