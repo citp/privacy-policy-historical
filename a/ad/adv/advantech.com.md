@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advantech.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627054204id_/http%3A//www.advantech.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advantech.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228135319id_/http%3A//www.advantech.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Advantech
 
@@ -31,7 +31,7 @@ Purpose Limitation
 
 Advantech will collect, use or disclose personal data supplied by you online only for the purposes disclosed to you, unless the disclosure:
 
-  * is a use of the personal data for any additional purpose that is directly related to the original purpose for which the personal data was collected, 
+is a use of the personal data for any additional purpose that is directly related to the original purpose for which the personal data was collected, 
   * is necessary to prepare, negotiate and perform a contract with you,
   * is required by law or the competent governmental or judicial authorities,
   * is necessary to establish or preserve a legal claim or defense, 
