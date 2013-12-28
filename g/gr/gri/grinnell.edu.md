@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grinnell.edu privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620085857id_/http%3A//mollom.com/web-service-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grinnell.edu privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228054903id_/http%3A//mollom.com/web-service-privacy-policy) for the most accurate reproduction.*
 
 # Web service privacy policy | Mollom
 
