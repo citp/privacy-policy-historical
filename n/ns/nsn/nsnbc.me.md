@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nsnbc.me privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530230403id_/http%3A//nsnbc.me/about-nsnbc-international/nsnbc-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsnbc.me privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228134811id_/http%3A//nsnbc.me/about-nsnbc-international/nsnbc-privacy-policy) for the most accurate reproduction.*
 
 # nsnbc privacy policy - nsnbc international | nsnbc international
 
-[](http://i2.wp.com/nsnbc.me/wp-content/uploads/2013/02/logo-c3adnternational.jpg)
+[](http://nsnbc.me/wp-content/uploads/2013/02/logo-c3adnternational.jpg)
 
 Any information which you provide directly to nsnbc ìnternational, such as your e-mail address when you comment or subscribe, is kept strictly private and is by no means passed on to a third party, for any reason, or under any circumstance.
 
