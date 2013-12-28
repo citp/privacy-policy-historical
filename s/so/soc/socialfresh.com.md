@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the socialfresh.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007191732id_/http%3A//socialfresh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialfresh.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228224253id_/http%3A//socialfresh.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Last Updated: July 15, 2011**
+**Last Updated: December 15, 2011**
 
 Social Fresh is committed to protecting your privacy. This Statement of Privacy applies to Social Fresh websites SocialFresh.com, SocialFreshAcademy.com, InvestInSocial.com, SocialFreshConference.com and governs data collection and usage of that data. By using the Social Fresh website, you consent to the data practices described in this statement.
 
