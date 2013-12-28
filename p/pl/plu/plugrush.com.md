@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plugrush.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622025920id_/http%3A//www.plugrush.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plugrush.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228045416id_/https%3A//www.plugrush.com/privacy_policy) for the most accurate reproduction.*
 
-# PlugRush
+# Pages
 
 Our Privacy Policy is provided in english only.
 
