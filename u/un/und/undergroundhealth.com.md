@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the undergroundhealth.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629225943id_/http%3A//www.undergroundhealth.com/%3Fpage_id%3D382) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undergroundhealth.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228075110id_/http%3A//www.undergroundhealth.com/%3Fpage_id%3D382) for the most accurate reproduction.*
 
 # Privacy Policy - Underground Health
 
+[](https://web.archive.org/web/20131228075110id_/http://www.undergroundhealth.com/privacy-policy/ "Print page")[](https://web.archive.org/web/20131228075110id_/http://www.undergroundhealth.com/privacy-policy/ "PDF page")[](https://web.archive.org/web/20131228075110id_/http://www.undergroundhealth.com/privacy-policy/ "Email page")  
 This privacy policy applies to users of the undergroundhealth.com website (the “Site”). This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. 
 
 **1\. Scope**
