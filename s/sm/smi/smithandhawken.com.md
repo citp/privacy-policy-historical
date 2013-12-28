@@ -1,81 +1,335 @@
-> *The following text is extracted and transformed from the smithandhawken.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620081303id_/http%3A//www.smithandhawken.com/content/privacy_security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smithandhawken.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228025405id_/http%3A//www.target.com/spot/privacy-policy%23%3Flnk%3Dfnav_t_spc_2_2fnav_t_spc_2_2) for the most accurate reproduction.*
 
-# Privacy & Security - Smith & Hawken
+# Target
 
-_This Privacy Policy was last updated on November 16, 2007._
+## Target Privacy Policy
 
-Thank you for visiting SmithandHawken.com. This Privacy Policy only applies to information collected online at SmithandHawken.com. By visiting our Website, you are accepting the practices described in this policy.
+At Target, we want you to know how we collect, use, share and protect information about you. By interacting with Target, you consent to use of information that is collected or submitted as described in this privacy policy. We may change or add to this privacy policy, so we encourage you to review it periodically. To help you track the changes, we include a history of changes below.
 
-### Information Collected
+### What Information is Collected?
 
-1.     **Non-Personally Identifiable Data.** When you visit our Website we track non-personally identifiable information such as your Internet domain address, any search engine you may have used to locate the Website, and certain navigational information about where you go on our Website. This information enables us to determine which areas of the Website are most frequently visited and helps us tailor the Website to the needs and interests of our online visitors.
+We collect the following information:
 
-2.     **Information Voluntarily Provided.** SmithandHawken.com will ask you to provide personal information when you establish or update a SmithandHawken.com Account, sign up for Smith & Hawken email, request a catalog, make purchases, check the status of an order, and/or contact us.
+  * Your name 
+  * Your mailing address 
+  * Your e-mail address 
 
-For your general requests, such as requesting a catalog or contact us, we will collect your name, address, telephone number and email address.
 
-When you make a purchase at SmithandHawken.com, we will collect your name, billing and shipping address, email address, telephone number, credit card information, and order information. We will also collect, where applicable, gift card information and the recipient’s name, phone number and email address.
 
-If you create a SmithandHawken.com Account, you will be required to provide your email address and a password, and may provide additional personal information such as name, billing and shipping address, and credit card information.
+Read more...
 
-### How We Use Information Collected Online
+### How is this Information Used?
 
-SmithandHawken.com uses the personal information we collect from you to: (i) deliver products that you have ordered; (ii) contact you or the product recipient(s) in the event of order or delivery difficulties; (iii) respond to your inquiries; (iv) send you catalogs and other postal mail; (v) send you email communications regarding Smith & Hawken products, services, and promotions; (vi) conduct surveys and contests; and (vii) develop our products, services, and Website. In some cases, we may use information collected online to personalize your future experience with Smith & Hawken. For example, if your zip code indicates you live near one of our stores, we may notify you about an upcoming event (such as a sale or workshop). If you do not wish to be contacted by email, please let us know and we will remove your name from our email list (see Opt-Out Procedures below).
+We use guest information for multiple purposes:
 
-If you have a SmithandHawken.com Account you may save personal information in that Account and we will use this information when you checkout to make your shopping online quicker and easier.
+  * Product and Service Fulfillment 
+  * Our Marketing Purposes
+  * Internal Operations
+  * Fraud Prevention
+  * Legal Compliance
 
-### Disclosure of Personal Information
 
-The services provided by third parties include the following: operating our Website; monitoring site activity; processing and fulfilling orders; maintaining our database; administering and monitoring emails; and providing us with comparative information on the performance of our Website.
 
-We occasionally share the postal addresses of customers with our affiliated companies (for example, the Scotts Company LLC and its affiliated companies) and select companies whom we deem trustworthy. These select companies may contact you with products or services that may be of interest to you. Your personal email address will not be shared, sold, or rented. If you do not want Smith & Hawken to share your postal address with our affiliates and select companies, you may request otherwise (see Opt-Out Procedures below). If you request not to receive information from Smith & Hawken at your postal address, it is possible that you may receive a mailing from us prior to such removal becoming effective.
+Read more...
 
-Smith & Hawken may disclose specific personal information based on a good-faith belief that such disclosure is necessary to comply with or conform to the law (for example, subpoenas or warrants) or that such disclosure is necessary to protect the users of our Website, the site or the public.
+### How is this Information Shared?
 
-In the event Smith & Hawken sells or transfers a particular portion of its business assets, consumer information may be one of the business assets transferred as part of the transaction. If substantially all of the assets of Smith & Hawken are acquired, consumer information may be transferred as part of the acquisition.
+We may share information:
 
-### Passwords
+  * With Target
+  * With our service providers (for example, a printer or mobile marketing provider)
+  * If required to comply with legal requirements
+  * At your direction or request
+  * With other companies (for their marketing purposes)
 
-To access the personal data record created through your registration with SmithandHawken.com, you will need to use a password that you create. To protect the integrity of the information contained in this record you should not disclose or otherwise reveal your password to third parties. If you forget your password, we will send a new password to the email address you provide.
 
-### Opt-Out Procedures
 
-You may always opt-out of receiving future e-mail communications from Smith & Hawken by either (a) replying to an email message you receive and placing the word “remove” in the subject line, (b) making a request through the Website, or (c) calling us at 1-800-940-1170. Please note, however, that your request not to receive information will not preclude us from contacting you regarding questions we have about your purchase and other operational emails, such as shipping information.
+Read more...
 
-You may also request that we do not share your postal address with other companies by contacting us at:
+### What Choices Do You Have?
 
-### Use of Cookies
+We provide you with choices about receiving marketing from Target, sharing of personal information with other companies for their marketing purposes, and receiving cookies.
 
-SmithandHawken.com may use a browser feature known as a “cookie.” Cookies are small files placed on your hard drive that assist Smith & Hawken in providing you with a customized browsing experience. Smith & Hawken uses cookies to provide you with the convenience of not having to reenter information, such as user IDs and passwords, multiple times during your visits to SmithandHawken.com. Cookies can also be used to help Smith & Hawken provide you with information targeted to your interests, based upon your prior browsing on the Website. The “help” section of the toolbar on most browsers will inform you on how to prevent your browser from accepting new cookies, how to have the browser notify you upon the receipt of a new cookie, or how to disable the use of the cookies completely.
+Read more...
 
-We use a technology known as clear gifs which are typically stored in emails to help us confirm your receipt of, and response to, our emails and to provide you a more personalized shopping experience.
+### How Do You Access and Update Your Personal Information?
 
-We also have an agreement with a company that places cookies on your computer to collect information on our behalf. The information collected through these cookies educates us on such things as search engine referral, how you navigate around our site, responses to email, unique visitor identification and product browsing. The information and analysis we receive is used to assist us in better understanding your interests in our Website and to better serve those interests, including providing emails aimed at interests you expressed on our site.
+You can access and update some of your personal information by contacting us. If you have a Target.com account, you can log in to your account to review and update information in your account.
 
-### Links to Third Party Sites
+Read more...
 
-For your convenience, SmithandHawken.com may contain links to other websites. Smith & Hawken is not responsible for the privacy practices, advertising, products or the content of such websites. To help ensure your privacy, Smith & Hawken recommends that you review the privacy policy of each site you visit.
+### How is Your Personal Information Protected?
 
-We have provided a link to Scotts.com (our parent company) to provide you with employment opportunities with Smith & Hawken. If you plan to provide information at this Scotts.com site, you should review the separate privacy policy on that site.
+We maintain administrative, technical, and physical safeguards to protect your personal information.
 
-### Accessing SmithandHawken.com from Outside the United States
+Read more...
 
-If you are visiting this Website from a location outside the United States, your connection will be through and to servers located in the United States. Any information you provide during your visit will be processed and maintained on our Web server and other internal systems located within the United States.
+### What Personal Information is Collected?
 
-### Security
+Types of personal information we collect include: 
 
-We encrypt your credit card numbers and personal information automatically while they are in transit over the Internet, preventing a third party from viewing this information. In this regard, we designed SmithandHawken.com to accept orders only from Web browsers that permit communication through Secure Socket Layer (SSL) technology.
+  * Your name
+  * Your mailing address
+  * Your e-mail address
+  * Your phone (or mobile) number
+  * Your drivers' license number
+  * Your credit/debit card number
+  * Your purchase/return/exchange information
+  * Your registry event information
+  * Your date of birth or age
 
-While we implement the above security measures for this Website, you should be aware that 100% security is not always possible.
 
-### Correcting, Updating, and Removing Information
 
-Personal information you provide us will be made available for your review. You may update, modify, or remove your personal information any time by any of the following methods:
+If you choose not to provide personal information we may not be able to provide you with requested products, services or information. 
 
-### Policy Changes
+#### Automated Information Collection
 
-We reserve the right to change, modify, or amend this policy at any time. Should there be a material change to our information collection and use practices, it will be applied only to information collected on a going forward basis, and we will update this privacy policy statement and indicate a new effective date. Your use of this Website after a material change constitutes acceptance of such change.
+We may connect information collected automatically with information we already have about you in order to identify you as a Target guest. If we are able to identify you as a Target guest we may, for example, link your activity on our website to your activity in a Target store. This allows us to provide you with a personalized experience regardless of how you interact with us – online, in store, mobile, etc.
 
-### Your Feedback
+ _Automated Information Collection_
 
-If you have questions concerning this Privacy Policy or the practices of this site, you may contact us at:
+We and our service providers use cookies, web beacons, and other technologies to receive and store certain types of information whenever you interact with us through your computer or mobile device. This information, which includes the pages you visit on our site, which web address you came from, the type of browser/device/hardware you are using, purchase information and checkout process, search terms and IP-based geographic location, helps us recognize you, customize your website experience and make our marketing messages more relevant. This includes Target content presented on another website or mobile application, for example, Target Weekly Ad. These technologies also enable us to provide features such as storage of items in your cart between visits and Short Message Service (SMS)/text messages you have chosen to recieve. We also use Flash cookies for fraud prevention purposes. 
+
+In order to provide the best guest experience possible, we also use these technologies for reporting and analysis purposes, such as how you are shopping our website, performance of our marketing efforts, and your response to those marketing efforts.
+
+_Third-Party Automated Collection_
+
+We allow third-party companies to collect certain information when you visit our website and to use that information to serve ads for Target products or services or for the products or services of other companies when you visit this website or other websites. These companies use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, hardware/software information, cookie and session ID, and IP address) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These parties typically use a cookie or a third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, visit the [Network Advertising Initiative website](http://www.networkadvertising.org/choices) or [Digital Advertising Alliance website](http://www.aboutads.info/).
+
+#### User Experience Information
+
+In order to improve guest online shopping experience, help with fraud identification, and to assist our guest relations representatives in resolving issues guests may experience in completing online purchases, we use tools to monitor certain user experience information; including login information, IP address, data regarding pages visited and ads clicked specific actions taken on pages visited (e.g. information entered during checkout process), and browser information.
+
+#### Social Media Widgets
+
+Target.com includes social media features, such as the Facebook Like button, Google Plus, Pinterest, and Twitter widgets. These features may collect information about your IP address and which page you’re visiting on our site, and they may set a cookie to make sure the feature functions properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with those features are governed by the privacy policies of the companies that provide them.
+
+#### Information from Other Sources
+
+We collect data that’s publicly available. For example, information you submit in a public forum (e.g. a blog, chat room, or social network) can be read, collected, or used by us and others, and could be used to personalize your experience. You are responsible for the information you choose to submit in these instances.
+
+We also obtain information provided by a third party. For instance, we obtain information from companies that can enhance our existing guest information to improve the accuracy and add to the information we have about our guests (for example, adding address information).
+
+This improves our ability to contact you and increases the relevance of our marketing by providing better product recommendations or special offers that may interest you. 
+
+#### In-Store Cameras
+
+We use in-store cameras for security purposes and for operational purposes such as measuring traffic patterns and tracking in-stock levels.
+
+### How is Your Information Used?
+
+Examples of how we use the information we collect include:
+
+#### Product and Service Fulfillment
+
+  * Fulfill and manage purchases, orders, payments, returns/exchanges, or requests for information about our products and services in our stores, website, or mobile website, or to otherwise serve you 
+  * Connect with Target regarding guest service via our contact center, guest service desk, or on social media platforms
+  * Provide services such as Gift Registry or a shopping list
+  * Administer sweepstakes and contests
+  * Conduct a transaction where we collect information required by law (for example, pseudoephedrine or age-restricted purchases)
+
+
+
+#### Our Marketing Purposes
+
+  * Deliver coupons, mobile coupons, newsletters, in-store receipt messages, e-mails, mobile messages, and social media notifications
+  * Provide interactive features of the website or mobile applications, such as product reviews or Weekly AdSend marketing communications and other information regarding products, services and promotions 
+  * Administer promotions, surveys, and focus groups 
+
+
+
+#### Internal Operations
+
+  * Improve the effectiveness of our website, stores, mobile experience, and marketing efforts 
+  * Conduct research and analysis, including focus groups and surveys 
+  * Perform other business activities as needed, or as described elsewhere in this policy 
+
+
+
+#### Fraud Prevention
+
+  * To prevent fraudulent transactions, monitor against theft and otherwise protect our guests and our business 
+
+
+
+#### Legal Compliance
+
+  * For example, assist law enforcement and respond to legal/regulatory inquiries 
+
+
+
+### How is Your Information Shared? 
+
+#### Target
+
+We share the information we collect within Target Corporation, which includes all Target subsidiaries and affiliates.
+
+Target Corporation may use this information to offer you products and services that may be of interest to you.
+
+Target Corporation owns and operates Target Stores and Target web sites, and issues the Target Debit Card. Target Corporation subsidiaries and affiliates include, but are not limited to: Target Bank, Target Canada, Target Commercial Interiors, TCC Cooking Co. (Cooking.com and Chef’s Catalog).
+
+#### Card Issuing Bank
+
+We may share the information we collect with our banking partner, TD Bank USA N.A., which issues the Target Visa Card and Target Credit Card. 
+
+#### Service Providers
+
+We may share the information we collect with companies that provide support services to us (such as a printer, e-mail, mobile marketing, analytics providers, web hosting providers, call center service providers, sweepstakes vendors, payment processors, coupon delivery vendors, or data enhancement provider) or that help us market our products and services. These companies may need information about you in order to perform their functions. 
+
+These companies are not authorized to use the information we share with them for any other purpose. 
+
+#### Legal Requirements
+
+We may disclose information we collect when we believe disclosure is appropriate to comply with the law; to enforce or apply applicable terms and conditions and other agreements; or to protect the rights, property or safety of our company, our guests or others.
+
+#### Elsewhere at Your Direction
+
+At your direction or request, we may share your information. For example, if you create a gift registry or shopping list and elect to make it available to the public, your information will be accessible on our website, mobile or social applications, and on kiosks in our stores.
+
+#### Sharing with Other Companies (for their marketing purposes)
+
+We may share your personal information with other companies, or organizations which are not part of Target. These companies and organizations may use the information we share to provide special offers and opportunities to you. To opt out of our sharing of your personal information with such companies and organizations go to the Choice section of this privacy policy. 
+
+#### Sharing Aggregate Information with Third Parties 
+
+We may share aggregate information (information that does not directly identify an individual) with third parties for lawful purposes. 
+
+#### Business Transfers
+
+If some or all of our business assets are sold or transferred, we may transfer the corresponding information regarding our guests. We also may retain a copy of that guest information.
+
+### What Choices Do You Have?
+
+#### Postal Mail
+
+If you do not wish to receive catalogs, coupons, and other promotional mail, [contact us](https://www-secure.target.com/contactus/guest-choice-form) or call 800-440-0680 to opt out. 
+
+#### Telephone
+
+If you do not wish to receive promotional telephone calls, [contact us](https://www-secure.target.com/contactus/guest-choice-form) or call 800-440-0680 to opt out. This opt out does not apply to operational phone calls, for example, confirmation of delivery address and prescription refills. 
+
+#### E-mail
+
+If you do not wish to receive promotional e-mails from us, [contact us](http://www.target.com/legal-contact-us/email-unsubscribe) or call 800-440-0680 to opt out. You may still receive select e-mails from us if you have requested them through one of our services such as Weekly Ad Reminders, Gift Reminders, or E-mail me when Available notifications. You can discontinue these e-mails by canceling your subscription to these services.
+
+You also have the ability to unsubscribe to promotional e-mails via the opt out link included in each promotional e-mail.
+
+Target Ticket – if you do not wish to receive Target Ticket promotional e-mails, you have the ability to unsubscribe via the opt out link included in each Target Ticket promotional e-mail . This opt out only applies to Target Ticket promotional e-mails.
+
+  
+
+
+#### Sharing with Other Companies (for their marketing purposes)
+
+If you do not wish us to share the personal information we have collected with other unaffiliated companies (for their marketing purposes), [contact us](https://www-secure.target.com/contactus/guest-choice-form) or call 800-440-0680 to opt out.
+
+#### Mobile
+
+We distribute mobile coupons and text messages to mobile devices of guests who have requested this information via an opt in request. To opt out of a specific mobile messaging campaign, reply "stop" to text messages sent from 827438 (TARGET). To opt out of Target mobile marketing, text "stop all" to 827438 (TARGET). 
+
+#### Target Cookies
+
+The help function of your browser should contain instructions to set your computer to accept all cookies, to notify you when a cookie is issued, or to not receive cookies at any time. If you set your computer to not receive cookies at any time, certain personalized services cannot be provided to you, and accordingly, you may not be able to take full advantage of all of the Target.com features (i.e. you will be able to browse the site, but will not be able to make a purchase). 
+
+#### Third Party Cookies
+
+To opt out of third-party cookies, visit the [Network Advertising Initiative website](http://www.networkadvertising.org/choices) and the [Digital Advertising Alliance website](http://www.aboutads.info/)
+
+**Other web site analytics services** – for example, Site Catalyst by Adobe Analytics provides services that analyze information regarding visits to Target.com They use cookies and web beacons to collect this information. 
+
+  
+
+
+  * To learn about Adobe Analytics privacy practices or to opt out of cookies set to facilitate reporting, [click here](http://www.omniture.com/en/privacy/policy). 
+
+
+
+#### California Residents
+
+If you are a California resident and have an established business relationship with us, you can request a notice disclosing the categories of personal information we have shared with third parties, for the third parties’ direct marketing purposes, during the preceding calendar year. To request a notice, please submit your request to Target Corporation, Attn: California Shine the Light Inquiry, P.O. Box 9350 Minneapolis, MN 55440. Please allow 30 days for a response. 
+
+### How Do You Access and Update Your Personal Information?
+
+In order to keep your personal information accurate and complete, you can access or update some of it in the following ways:
+
+If you have created a Target.com account, you can log in and update your account information, including contact, billing, and shipping information. 
+
+[Contact us](https://web.archive.org/legal-contact-us/email-subscribe) with your current contact information and the personal information you would like to access. We will provide you the personal information requested if reasonably available, or will describe the types of personal information we typically collect. 
+
+### How is Your Personal Information Protected?
+
+#### Security Methods
+
+We maintain administrative, technical and physical safeguards to protect your personal information. When we collect or transmit sensitive information such as a credit or debit card number, we use industry standard methods to protect that information. However, no e-commerce solution, website, database or system is completely secure or “hacker proof.” You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse.
+
+#### E-mail Security
+
+"Phishing" is a scam designed to steal your personal information. If you receive an e-mail that looks like it is from us asking you for your personal information, do not respond. We will never request your password, user name, credit card information or other personal information through e-mail. 
+
+#### Children’s Personal Information
+
+We recognize the particular importance of protecting privacy where children are involved. We do not knowingly collect personally identifiable information online from children under the age of 13. If a child under the age of 13 has provided us with personally identifiable information online, we ask that a parent or guardian [contact us](http://www.target.com/legal-contact-us/email-subscribe) or call 800-440-0680.
+
+### How Do You Contact Target?
+
+### Target Privacy Policy Scope
+
+This privacy policy applies to all current or former guest personal information, except for information collected by or provided in connection with:
+
+  * A Target Debit Card. See the [Target Debit Card Privacy Policy](http://www.target.com/redcard/debit-card-privacy-policy). 
+  * Use of a Target Pharmacy or the Rx Rewards program. See the [Target Pharmacy Notice of Privacy Policy.](http://www.target.com/spot/pharmacy-privacy-policy)
+  * Use of a Target Clinic. See the [Target Clinic Notice of Privacy Policy.](http://www.target.com/spot/clinic-privacy-policy)
+  * Interactions with Target Commercial Interiors. See the [Target Commercial Interiors Privacy Policy.](http://www.targetcommercialinteriors.com/privacy_policy.php)
+  * Use of Target’s Wireless Service. See the [Target Wireless Service Privacy Notice](http://www.target.com/spot/guest-wifi/service-privacy). 
+  * Use of a Target Mobile Application. See the Target Mobile Application Privacy Policy.
+  * Using a Target Visa Card or a Target Credit Card. See the [Target Credit Card Privacy Policy](http://www.target.com/redcard/credit-card-privacy-policy). Note, contact information you provide on a Target Credit Card application is provided to both TD Bank USA N.A. and to Target and its affiliates.
+  * Completing an application for employment with Target. 
+
+
+
+Our website may offer links to other sites. If you visit one of these sites, you may want to review the privacy policy on that site. In addition, you may have visited our website through a link or a banner advertisement on another site. In such cases, the site you linked from may collect information from people who click on the banner or link. You may want to refer to the privacy policies on those sites to see how they collect and use this information.
+
+#### Target Privacy Policy Revisions
+
+This history changes begins as of July 2004 and includes the date of the update and a description of changes.
+
+### Last update: 12/11/2013
+
+Dec 2013 
+    Updated the choices available for Target Ticket promotional emails 
+
+Oct 2013 
+    Added information to the Automated Information Collection section 
+
+Aug 2013 
+    Added Target ticket and web site analytic services opt out information, social media widget information, and a disclosure about sharing aggregate information with third parties. Updated the security methods description, the description of Target affiliates, Information from Other Sources, and the California resident opt out. 
+
+Mar 2013
+    Clarified when "information" referenced within the policy means "personal information". Updated description of Target and its affiliates. Updated Target Cookies and Third Party Cookies sections. Added disclosure regarding sharing of personal information with our bank partner, TD Bank USA N.A. Added information about Target Mobile Applications.
+
+Aug 2012
+    Updated Third-Party cookies section and added information about collection of User Experience Information.
+
+May 2012
+    Added information about Target’s Wireless (Wi-Fi) Service in Stores, including link to Wireless Service Privacy Notice.
+
+Apr 2011
+    Added offline, mobile, and social collection, use, and sharing of information, expanded guest choice options.
+
+Aug 2009
+    Added additional details about Cookies and Targeted Advertising. Removed information for pharmacy guests in New York and Texas.
+
+Feb 2008
+    Added information for pharmacy guests in Texas.
+
+Jan 2008
+    Added information about the Target Debit Card, added additional information to the "What are 'Cookies' and how do we use them?" paragraph, added information about "phishing" and revised the "Security" section.
+
+Sep 2005
+    Added Target Commercial Interiors as a member of the Target.
+
+Oct 2004
+    Added Target Bank as a member of the Target.
+
+Aug 2004
+    Removed references to Mervyn's Stores and Mervyns.com.
