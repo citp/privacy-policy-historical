@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hy-vee.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502230803id_/http%3A//www.hy-vee.com/company/policy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hy-vee.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228021512id_/http%3A//www.hy-vee.com/company/policy/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -124,7 +124,7 @@ Midwest Heritage Bank
   
 ##### [Online Bank](https://web.archive.org/resources/midwest-heritage-bank/default.aspx)
 
-Get secure to access to your accounts from any web-connected computer with Internet banking convenient online bill pay.  
+Get secure access to your accounts from any web-connected computer with Internet banking convenient online bill pay.  
   
 Wedding  
 ---  
