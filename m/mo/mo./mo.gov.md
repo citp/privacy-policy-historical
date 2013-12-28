@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mo.gov privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529142752id_/http%3A//www.mo.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mo.gov privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228110307id_/http%3A//www.mo.gov/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MO.gov
+# Privacy Policy
 
 It’s important that you understand our privacy position. As a state government, the State of Missouri is a public governmental body subject to Chapter 610 of the Revised Statutes of Missouri, commonly known as the Sunshine Law. If an appropriate request is made to this office for information that is subject to disclosure by the Sunshine Law, the State of Missouri will be required to disclose the information requested, even if it may include your personally identifiable information.
 
@@ -48,4 +48,4 @@ We will post any changes in this privacy policy at least 30 days prior to the ch
 
 ## For More Information
 
-If you have any questions or comments about our privacy policy, [contact the webmaster](http://www.mo.gov/contact/).
+If you have any questions or comments about our privacy policy, [contact the webmaster](https://web.archive.org/contact/).
