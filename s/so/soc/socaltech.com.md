@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socaltech.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610064835id_/http%3A//socaltech.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socaltech.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228233613id_/http%3A//www.socaltech.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
