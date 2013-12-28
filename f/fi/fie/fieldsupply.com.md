@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fieldsupply.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618200823id_/http%3A//www.unholycocktail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fieldsupply.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229005438id_/http%3A//www.fieldsupply.com/privacy) for the most accurate reproduction.*
 
-# Unholy Cocktail - Privacy Policy
+# Field Supply - Privacy Policy | Field Supply
 
 At   we are the white hats, the good guys, the Dudley Do-Rights saving the damsel in distress. We believe in God, Family, Country, Corps, and enjoy cheap laughs, quality products, and killer prices. We want you to buy with confidence. Weve been doing this kind of thing for 17 years, and sincerely appreciate the trust you place in us and all Brandshopper sites.  We are committed to respecting your privacy and securing your personal information. We collect certain bits of information to do some basic things: ship your packages, let you enjoy our site features and offers, and improve our products and customer service.
 
