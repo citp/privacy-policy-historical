@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itunesfestival.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220225121id_/http%3A//www.apple.com/uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itunesfestival.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228083645id_/http%3A//www.apple.com/uk/privacy) for the most accurate reproduction.*
 
 # Apple (United Kingdom) - Apple Customer Privacy Policy
 
@@ -8,7 +8,7 @@ Your privacy is important to Apple. So we've developed a Privacy Policy that cov
 
 Personal information is data that can be used to uniquely identify or contact a single person.
 
-You may be asked to provide your personal information anytime you are in contact with Apple or an [Apple affiliated company](https://web.archive.org/uk/privacy/AffiliatedCompany.html). Apple and it's affiliates may share this personal information with each other and use it consistent with this Privacy Policy. They may also combine it with other information to provide and improve our products, services, content and advertising.
+You may be asked to provide your personal information anytime you are in contact with Apple or an Apple affiliated company. Apple and it's affiliates may share this personal information with each other and use it consistent with this Privacy Policy. They may also combine it with other information to provide and improve our products, services, content and advertising.
 
 Here are some examples of the types of personal information Apple may collect and how we may use it.
 
