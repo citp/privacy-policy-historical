@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paychex.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604052231id_/http%3A//www.paychex.com/corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paychex.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228061448id_/http%3A//www.paychex.com/corporate/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Statement | Paychex Corporate
+# Privacy Statement
 
 This notice applies to all information collected or submitted on Paychex websites and mobile applications. Paychex, Inc. is committed to providing cost-effective payroll, payroll tax preparation, human resources, and employee benefits for any size business. In an effort to meet that commitment, you may have to provide Paychex with business, financial, and personal information about yourself and your employees. Your privacy, and the privacy of the information provided, is important to us. Paychex strictly protects the security of your business, financial, and personal information and honors your choices for its intended use. Paychex uses reasonable care to protect your data from loss, misuse, unauthorized access, disclosure, alteration, or destruction.
 
@@ -10,7 +10,7 @@ At times, Paychex will provide you with links to other websites. This Privacy St
 
 ### The Information Paychex Collects
 
-You may sign up for Paychex services either in person, by telephone, or online. If you use our online forms, we require you to provide information regarding your business. We may use this information to contact you regarding Paychex products and services. If you choose not to provide business information online, you may contact your local [Paychex office](http://www.paychex.com/corporate/office-locations.aspx "Paychex Office Locations") to provide this information.
+You may sign up for Paychex services either in person, by telephone, or online. If you use our online forms, we require you to provide information regarding your business. We may use this information to contact you regarding Paychex products and services. If you choose not to provide business information online, you may contact your local [Paychex office](https://web.archive.org/web/20131228061448id_/http%3A//www.paychex.com/corporate/office-locations.aspx "Paychex Office Locations") to provide this information.
 
 ### The Way Paychex Uses the Information Collected
 
@@ -24,4 +24,4 @@ A "cookie" is a piece of data that our websites may provide to your browser whil
 
 ### Security
 
-For information about our commitment to protecting the security and integrity of our customers' information, please view the [Paychex Security Center](http://www.paychex.com/corporate/security.aspx "Paychex Security Center").
+For information about our commitment to protecting the security and integrity of our customers' information, please view the [Paychex Security Center](https://web.archive.org/web/20131228061448id_/http%3A//www.paychex.com/corporate/security.aspx "Paychex Security Center").
