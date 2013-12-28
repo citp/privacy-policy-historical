@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the thelogocompany.net privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118053730id_/http%3A//forum.thelogocompany.net/privacy-policy-t2160.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelogocompany.net privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228192604id_/http%3A//thelogocompany.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Logo Design Forum
+# Privacy Policy - The Logo Company
 
-**Privacy policy**
+### Privacy policy
 
 The Logo Company is committed to protecting your online privacy while providing you with the most useful and enjoyable Web experience possible. While you can use many features of The Logo Company anonymously, you are required to provide personal information to gain access to some of our premium content and services.
 
 **How we collect and use personal information**
 
-When you complete our order form we collect information about you and your business to aid in the design of your logo or other graphic design services. The information we collect from you is never shared with any other company and is treated as confidential.
+When you complete our order form we collect information about you and your business to aid in the design of your logo or other graphic design services. The information we collect from you is never shared with any other company and is treated as confidential. 
 
 **How we protect your personal information**
 
@@ -16,9 +16,9 @@ All personal data you enter on The Logo Company is encrypted with secure server 
 
 In addition to using the most secure technology available, we work tirelessly to make sure that we use any information you provide us only in ways you have approved. 
 
-**How we use "cookies"**
+**How we use “cookies”**
 
-As you probably know, "cookies" are small pieces of information that some Web sites store on your computer's hard drive when you visit them. Most Web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis. Even if you do not use cookies, you can still access all of the features on our site.
+As you probably know, “cookies” are small pieces of information that some Web sites store on your computer’s hard drive when you visit them. Most Web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis. Even if you do not use cookies, you can still access all of the features on our site.
 
 **What we provide to third parties**
 
@@ -32,12 +32,15 @@ If you are under the age of 18, you must not provide your name, e-mail address, 
 
 Any changes to our privacy policy will be posted on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
+**Recording Clicks**  
+We use ClickTale to record anonymously, 100 page views per week that we use to evaluate the performance of the website. 
+
 **Safe place to shop!**
 
 McAfee SiteAdvisor confirms that The Logo Company website is a safe place to visit. You can read our report here:
 
-<http://www.siteadvisor.com/sites/thelogocompany.net>
+http://www.siteadvisor.com/sites/thelogocompany.net
 
 **Tell us what you think**
 
-The Logo Company welcomes your questions and comments about our privacy policy. Please send e-mail to [logosale@thelogocompany.net](mailto:logosale@thelogocompany.net)
+The Logo Company welcomes your questions and comments about our privacy policy. Please send e-mail to logosale@thelogocompany.net
