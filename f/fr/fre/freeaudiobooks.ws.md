@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the freeaudiobooks.ws privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602212645id_/http%3A//www.freeaudiobooks.ws/2009/05/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeaudiobooks.ws privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228083612id_/http%3A//www.freeaudiobooks.ws/2009/05/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **0** Flares **0** Flares ×
+
+Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at our contact form.
 
