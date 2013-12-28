@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amcentertainment.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605190230id_/http%3A//www.amctheatres.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amcentertainment.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228201938id_/http%3A//www.amctheatres.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AMC Theatres
 
