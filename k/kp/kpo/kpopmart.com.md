@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kpopmart.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628232124id_/http%3A//kpopmart.com/cms.php%3Fid_cms%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kpopmart.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228132627id_/http%3A//kpopmart.com/cms.php%3Fid_cms%3D2) for the most accurate reproduction.*
 
 # privacy and security - Kpop Mart
+
+**PRIVACY & SECURITY**
 
 **1\. Privacy** ﻿
 
@@ -8,13 +10,13 @@ Kpopmart.com is committed to protecting your privacy. We hope that you will take
 
 **Information You Give Us** ﻿
 
-We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you. ﻿
+We receive and store any information you enter on our website or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you. ﻿
 
-**How we protect your information** ﻿
+**How We Protect Your Information** ﻿
 
-To protect against the loss, misuse, and alteration of the information under our control we have implemented security measures at this website. When you place orders or access your account information, a secure server is employed. All information you input is encrypted by the secure server layer (SSL) before it is sent to us and all the customer data we collect is similarly protected against unauthorized access.﻿
+To protect against the loss, misuse, and alteration of the information under our control, we have implemented security measures at this website. When you place orders or access your account information, a secure server is employed. All information you input is encrypted by the secure server layer (SSL) before it is sent to us and all the customer data we collect is similarly protected against unauthorized access.﻿
 
-**E-mail Communication & News Letter**﻿
+**E-mail Communication & Newsletter**﻿
 
 To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from us if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers.﻿
 
@@ -24,7 +26,7 @@ To help us make e-mails more useful and interesting, we often receive a confirma
 
 **Children** ﻿
 
-At Kpopmart.com, we believe that the privacy of children is important. We do not monitor the age of our user audience except in connection with surveys and contests, and except for age data optionally provided by users who wish to customize their account preferences, However, visitors and users under the age of thirteen (13) should not submit personal identifying information to Kpopmart.com without the consent of their parent(s) or guardian(s). If a user is under the age of thirteen (13) the user may not, even under the supervision of a parent or guardian, make any submissions of content to Kpopmart.com.
+At Kpopmart.com, we believe that the privacy of children is important. We do not monitor the age of our user audience except in connection with surveys and contests, and except for age data optionally provided by users who wish to customize their account preferences, however, visitors and users under the age of thirteen (13) should not submit personal identifying information to Kpopmart.com without the consent of their parent(s) or guardian(s). If a user is under the age of thirteen (13) the user may not, even under the supervision of a parent or guardian, make any submissions of content to Kpopmart.com.
 
 **Changes to this Privacy Policy**  
 Please check back frequently, as this Privacy Policy may change from time to time. In the event of a material change to the Privacy Policy, for a reasonable time after such change we will add "Updated", "New", or a similar term near the link to the Privacy Policy on the home page of Kpopmart.com and elsewhere, as applicable, throughout our website﻿
