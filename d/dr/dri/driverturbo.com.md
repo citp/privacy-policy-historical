@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverturbo.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628034512id_/http%3A//www.driverturbo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverturbo.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228131023id_/http%3A//www.driverturbo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Driver Turbo
 
@@ -21,6 +21,19 @@ If you choose not to register or provide personal information, you can still use
 ### Access
 
 We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time.
+
+### Email Usage
+
+The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+
+### Private Information Security
+
+For your safety and protection, your credit card information is not stored on our servers. Our payment gateway provider Safecart, keeps this information encrypted and secure on your behalf.
+
+### 3rd Party Disclosure
+
+Customer information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without the consent of  
+the customer, other than for the express purpose of delivering the purchased product or service requested by the customer.
 
 ### Security
 
