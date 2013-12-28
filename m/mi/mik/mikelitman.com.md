@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mikelitman.com privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120101220id_/http%3A//mikelitman.com/mikelitman%2520Privacy%25200712.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mikelitman.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228122214id_/http%3A//mikelitman.com/mikelitman%2520Privacy%25200712.pdf) for the most accurate reproduction.*
 
 # 
 
