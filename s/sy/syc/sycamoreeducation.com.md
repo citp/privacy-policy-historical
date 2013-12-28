@@ -1,113 +1,115 @@
-> *The following text is extracted and transformed from the sycamoreeducation.com privacy policy that was archived on 2007-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070526020136id_/http%3A//www.sycamoreeducation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sycamoreeducation.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228054506id_/http%3A//www.sycamoreeducation.com/se_rocks/images/PDF/SLS_Privacy-Policy.pdf) for the most accurate reproduction.*
 
-# 
+# SLS
 
-  
-Sycamore Leaf Solutions, LLC. ("Sycamore")  
-[**www.sycamoreleaf.com**](http://www.sycamoreleaf.com/)
-
-  1. **General**
-  2. **Your Acceptance Of These Terms**
-  3. **Personally-Identifiable Information**
-  4. **Non-Personally-Identifiable Information**
-  5. **Other Special Circumstances**
-  6. **Service Announcement**
-  7. **Information Collected Automatically**
-  8. **Information Placed Automatically On your Computer's Hard Drive**
-  9. **Uploaded Information**
-  10. **Changing or Deleting Your Personal Information**
-  11. **Children**
-  12. **Links to Other Web Sites**
-  13. **Security**
-  14. **Privacy Policy Changes**
-  15. **Whom to Contact**
-
-
-
-**General**
-
-Sycamore Leaf Solutions, LLC. is a licensee of the TRUSTe Privacy Program. Sycamore respects the privacy of every individual who visits www.sycamoreleaf.com (the "Web Site" or "Site"). Your privacy is very important to us. This Privacy Policy outlines the information we will collect and how we will use and share that information. This Policy will also tell you what to do if you do not want your personal information collected or shared. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. If you have any questions about our policy, please email us at [privacy@sycamoreleaf.com](mailto:privacy@sycamoreleaf.com).
-
-**Your Acceptance Of These Terms**
-
-By using the Web Site, you signify your assent to our [Privacy Policy](https://web.archive.org/web/20070526020136id_/http%3A//www.sycamoreeducation.com/privacy.asp?id=&res=). If you do not agree to this Policy, please do not use the Site. Your continued use of the Web Site following the posting of changes to its terms means you accept those changes.
-
-**Personally-Identifiable Information**
-
-There are cases where we may ask you for personally-identifiable information such as your name, mailing address, email address and telephone number. We request personally-identifiable information when you register as a member of the Web Site, for online transactions, feedback forms, surveys and for other services that require registration or subscription. We will not collect any personally-identifiable information about you unless you provide it to us voluntarily. Please note that although certain registrations within Sycamore require certain user information, registration itself is entirely optional. We will also collect other users' comments about you in our feedback area.
-
-When you provide us with personally-identifiable information, Sycamore may:  
-
-
-  * store and process that information to better understand your needs, customize your experience, and to improve our products and services; 
-  * use that information to contact you periodically via email and postal mail for informational purposes (i.e. site updates, system outages, etc.); 
-  * disclose that information to third parties who need such information to provide products and services that you have requested; 
-  * disclose that information to third parties when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) Sycamore's rights or property, other members or users of the Web Site, or anyone else who could be harmed by such activities; and 
-  * disclose that information to third parties when we believe in good faith that the law requires it. 
+SYCAMORE LEAF SOLUTIONS, LLC
+PRIVACY POLICY
+Introduction
+1.   Your privacy is very important to us. Sycamore Leaf Solutions, LLC (hereafter referred to
+     as SLS) is the provider of Sycamore Education, Jcobi Campus, and other web-based
+     management solutions. This privacy policy applies to any websites and products
+     provided by or associated with SLS. We hope that by taking a few minutes to read our
+     Privacy Policy, you will have a better understanding of what we do with the information
+     you provide to us and how we keep it both private and secure
+2.   At times, SLS will collect certain personal information about customers and visitors to
+     websites hosted by us. Such information will include both identifiable personal data,
+     as well as non-identifiable personal information. Identifiable personal information will
+     be collected when you sign a contract for service with us, or use our website for a
+     transaction or subscription service. Non-identifiable information is gathered
+     automatically when you visit our website or those websites hosted by us, and stored
+     for use in our system.
+3.   The purpose of this privacy policy is to explain to customers what types of information
+     we will collect and how that information is used. In most cases, we collect this
+     information to ensure network integrity and that we continue to provide you with the
+     most relevant content and best possible service that suits your needs. In some cases,
+     we are required by law to collect personal information about customers. Except where
+     the law requires otherwise, we undertake to protect the confidentiality of such data.
+Confidentiality
+4.   SLS respects customer privacy and the privacy of those accessing our website, or
+     those websites hosted by us. We undertake to protect the confidentiality of our
+     customers and users including all personal information supplied in the course of
+     contracting with us for services. We undertake not to sell your personal information
+     to third parties for commercial or marketing purposes.
+Collection of Personal Data
+5.   SLS clients, including but not limited to schools, colleges, and businesses, will
+     generally collect personal information regarding staff, students, families, and
+     associated parties. This information may include, but not be limited to, employment,
+     tax identification, , financial, emergency contact, medical, insurance, academic,
+     behavioral, and demographic information. It is the responsibility of SLS clients to
+     utilize the services provided by SLS in a manner that protects privacy, and that
+     complies with federal, state, and similar regulations unique to the jurisdiction within
+     which the clients operate.
+6.   SLS collects personal data about our users when you visit a website hosted by us;
+     apply for a free trial of our products; ask us to contact you, etc., and through the use of
+     cookie technology.
 
 
+     [A cookie is a data file that sits on your computer hardisk. The cookie is placed there by a
+     remote web server that you have visited using a browser like Netscape or Internet
+     Explorer. It is used to uniquely identify you during web interactions with a website and
+     contains data parameters that allow the remote HTML server to keep a record of who
+     you are, and what actions you take at the remote web site. You have the option to disable
+     the cookie function in your browser, but will be restricted from accessing many sites as a
+     result.]
+Use of Personal Data
+7.   SLS may log the websites you visit; collect IP addresses and information about your
+     operating system and the type of browser you use for the purposes of
+     network/system administration, and to audit the use of our site. This data however
+     will not be used to identify individual users who will at all times remain anonymous
+8.   Any information SLS collects from you through correspondence with us, whether via
+     e-mail, telephonically or by written letter, will only be used to address the matters
+     within that correspondence. If this requires referring such correspondence within SLS
+     or to a third party to ensure customer service, your personal information will only be
+     disclosed to the point necessary to address your query or concerns, and will otherwise
+     be kept confidential.
+Public Space (Bulletin Boards, Chat Rooms and Third-Party Sites)
+9.   Any information that customers disclose in a public space, including on or in any
+     bulletin board, news article, chat room or on any site SLS may host for you, is available
+     to anyone else who visits that space. SLS cannot safeguard any information disclosed
+     there.
+Access to Customer Information:
+10. The primary goal of SLS in collecting personal information from our customers is to
+     assist our customers in managing the information they provide while utilizing our
+     products and services. We have always safeguarded the confidentiality of information
+     provided to us by our clients and are bound by our professional standards to continue
+     to maintain this vital aspect of our professional relationship.
+     The following individuals may have access to some or all of your information:
+Employees of the company: Employees who need such information to conclude a
+     transaction or provide technical support for which the customer has engaged SLS.
+Service providers: Occasionally, service firms may need access to certain information
+     within our databases and servers. For example. consultants that must have access to
+     certain client records in order to increase the efficiency of our data processing
+     systems. Any such information that needs to be disclosed for any business purpose
 
-Except as stated in this Privacy Policy, or as otherwise stated at the time personally-identifiable information is gathered, we will not provide personally-identifiable information to third parties.
 
-**Non-Personally-Identifiable Information**
-
-Sycamore may also collect information about you that is not personally-identifiable. This type of information includes your age, gender, zip code, area code, interests and preferences. We will not collect any such information about you unless you provide it to us voluntarily. We may share this information in the aggregate with advertisers, business partners, sponsors, and other third parties. For example, we may inform a sponsor that the membership of the Web Site is x percent females and y percent males. These data are used to customize our Site's content and advertising. We will also use that and other data and information to make visits to the Site easier, quicker, and better for you and our other members and users. We also may track certain information about your visit to the Web Site, including (without limitation) pages viewed, clickstreams, and searches. Such information is gathered in the aggregate and is not identified by any specific users.
-
-**Other Special Circumstances**
-
-Contests, sweepstakes, or other promotions on the Site will have separate privacy practices with regard to the information collected in connection with entering or participating in any such event. You will have a choice of whether or not you would like to allow certain information shared with third parties who may have a product or service of interest to you. You will also have the choice of whether a company that is co-sponsoring a promotion or contest may contact or send information to you.
-
-**Service Announcements**
-
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature.
-
-**Information Collected Automatically**
-
-Sycamore may also automatically collect non-personally-identifiable information about your use of the Web Site, such as the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account), the date and time you access the Site, and the Internet address of the website from which you linked directly to our Site. This information will not be linked to personally-identifiable information. We may use this information to analyze and enhance our Web Site and for security purposes, and we may aggregate this information and share the aggregated information with business partners, sponsors, and other third parties.
-
-**Information Placed Automatically On your Computer's Hard Drive**
-
-Not all cookies are edible. A "cookie" is information stored on your computer when you view a website. Our cookies help us in many ways. For example, a cookie is used to remember your username (if desired). This means that the next time you log in to Sycamore, you will only have to enter your password. If you visit another website from our Site, you may also receive a cookie or similar file from that site. With most Internet browsers, you can erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions. Remember, however, that blocking or deleting cookies may limit your ability to access some or all of the features and services of the Web Site.
-
-**Uploaded Information**
-
-We will not disclose to third parties any information, data and other materials that you upload to any non-public areas of the service offered on the Web Site (e.g., your calendar, your file folders, etc.) except as directed by you or when we believe in good faith that the law requires it.
-
-**Changing or Deleting Your Personal Information**
-
-Sycamore allows you to modify or delete your personal information or preferences, by clicking on the "Edit My Info" link in the top right corner of the navigation. You may also call Sycamore at 1-800-SLS-4YOU to request account cancellations or information changes.
-
-**Children**
-
-The Web Site is not directed at individuals under thirteen years of age, and Sycamore does not intend to collect any personally-identifiable information from such individuals.
-
-**Links to Other Web Sites**
-
-The Web Site allows links to various other web sites. We assume no responsibility for the information practices of sites you are able to access through the Web Site. Furthermore, a link to another does not imply an affiliation or an endorsement of that linked site.
-
-**Security**
-
-Please keep in mind that whenever you give out personal information online --- for example, via instant messaging or online meetings--- that information can be collected and used by people you don't know. While Sycamore strives to protect your information and privacy, we cannot guarantee the security of any information you disclose online, and you do so at your own risk.
-
-The importance of security for all personally-identifiable information associated with our users and members is of utmost concern to us. Unfortunately, no data transmission over the Internet can be guaranteed to be secure. As a result, while we strive to protect your personally-identifiable information, we can't ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. However, once we receive your personally-identifiable information, we will take reasonable efforts to ensure its security on our systems.
-
-In certain areas Sycamore uses SSL-encryption to protect data transmissions.
-
-Your account on the Web Site is password protected so that only you can access it and view the member information relevant to the account. We recommend that you do not divulge your password to anyone. Sycamore will never ask you for your password in an unsolicited phone call or email. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information. Remember to sign out of your account on the Web Site and close your browser window when you have finished your work. This will ensure that others cannot access your personal information and correspondence if your computer is accessible to others, if you share a computer with someone else, or if you use a computer in a public place like a library or Internet caf�.
-
-**Privacy Policy Changes**
-
-If we decide to materially change our privacy policy for Sycamore, we will prominently post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.
-
-**Whom to Contact**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Sycamore at:
-
-> > Privacy Policy   
-> Sycamore Leaf Solutions, LLC..   
-> 7906 E 159 St   
-> Belton, MO 64012
-
-Or email us at: [privacy@sycamoreleaf.com](mailto:privacy@sycamoreleaf.com)
-
-If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (<http://www.truste.org/watchdog.html>). TRUSTe will serve as a liaison with Sycamore to resolve your concerns.
+      will be considered confidential and not used for any purpose other than the specific
+      business need. That well-understood business policy of confidentiality will be
+      reinforced as needed by contractual agreements with any service provider having
+      access to your data.
+Site Linking
+11. SLS’s websites contain many links to sites that belong to third parties. SLS cannot be
+      held responsible for any use of your personal information arising from you disclosing
+      personal such information on third party sites. SLS cannot protect any information
+      you may disclose on these sites and recommends that you review the privacy policy
+      statements of those sites you visit.
+Reservation of Rights
+12. SLS reserves the right to disclose information about customers where required in
+      good faith, to do so by law or to exercise our legal rights or defend ourselves against
+      legal claims.
+13. SLS further reserves the right to share information with law enforcement to
+      investigate or prevent illegal activities being committed over our network.
+14. SLS reserves our rights to disclose your personal information where you have given
+      us explicit legal written consent to do so.
+15. SLS reserves the right to monitor user and network traffic for site security purposes
+      and prevent any unauthorized attempts to tamper with our site or cause damage to
+      our property.
+16. SLS reserves the right to make changes to this privacy policy or update it. The most
+      current version will be posted publicly on SLS’s websites. Customers and site visitors
+      bear the responsibility to ensure that they have read the changes or updates as the
+      case may be.
+      Contact Information:
+      Sycamore Leaf Solutions, LLC
+      P.O. Box 291
+      Fremont, NE 68025
+      Phone: 866 757 4968
+      Email: info@sycamoreleaf.com
