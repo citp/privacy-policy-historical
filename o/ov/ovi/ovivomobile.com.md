@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the ovivomobile.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604042916id_/http%3A//ovivomobile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ovivomobile.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228140011id_/http%3A//ovivomobile.com/privacy-policy) for the most accurate reproduction.*
 
-# OVIVO Mobile Privacy Policy | Ovivo Mobile
+# OVIVO Mobile | Privacy Policy
 
 OVIVO Mobile Communications Limited (We) are committed to protecting and respecting your privacy.  
 This policy (together with our terms and conditions for the supply of sim cards available at www.ovivomobile.com and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller is OVIVO Mobile Communications Limited a company incorporated in England and Wales with registered number 07768728 and having its registered office at Ashford House, Grenadier Road, Exeter, Devon, EX1 3LH
 
-1\. Information we May Collect from you
+### 1\. Information we May Collect from you
 
 We may collect and process the following data about you:
 
@@ -18,7 +18,9 @@ We may collect and process the following data about you:
 
 
 
-2\. Where we Store your Personal Data
+We may also use cookies (small text files stored in your browser) and other techniques such as web beacons (small, clear picture files used to follow your movements on our website and services).  These collect information that tells us how you use our services. We may use a persistent cookie (a cookie that stays linked to your browser) to record your details so we can recognise you if you use the service again.
+
+### 2\. Where we Store your Personal Data
 
 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (EEA). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
@@ -26,7 +28,7 @@ Where we have given you (or where you have chosen) a password which enables you 
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access
 
-3\. Uses Made of the Information
+### 3\. Uses Made of the Information
 
 We use information held about you in the following ways:
 
@@ -40,7 +42,7 @@ We use information held about you in the following ways:
 
 By using the Service you consent to us using your information in this manner and if you disable any device to block receipt of such communication we shall be entitled to terminate the Service to you.  Where required to maintain the integrity and quality of the Service we offer, we may disclose your information to Subsidiaries or Sub-Contractors.  However we will not share your personal information for Marketing or Advertising purposes with any 3rd Parties, unless we have explicit permission from you to do so.
 
-4\. Disclosure of your Information
+### 4\. Disclosure of your Information
 
 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
@@ -48,20 +50,22 @@ We may disclose your personal information to third parties.  In the event that 
 
 If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions of supply available at www.ovivomobile.com and other agreements; or to protect the rights, property, or safety of OVIVO Mobile Communications Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-5\. Your Rights
+### 5\. Your Rights
 
 You have the right to ask us not to process your personal data in the manner outlined. You can exercise the right at any time by contacting us at support@ovivomobile.com or writing to OVIVO Mobile Communications Limited, 65 Walton Street, London SW3 2HT and terminating the agreement between you and us. If you do not wish to receive marketing communication you must stop using the Service and return the SIM Card provided to you as part of the Service.
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-6\. Access to Information
+### 6\. Access to Information
 
 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you
 
-7\. Changes to our Privacy Policy
+### 7\. Changes to our Privacy Policy
 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail
 
-8\. Contact
+### 8\. Contact
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Customer Services
+
+This page last update November 27, 2013
