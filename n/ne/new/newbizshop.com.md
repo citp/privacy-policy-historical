@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the newbizshop.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530071123id_/http%3A//newbizshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbizshop.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228144740id_/http%3A//newbizshop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - NewBiz Advertising Blog
 
 Your **privacy** is of utmost importance to us here at NewBiz Advertising Blog. Rest assured that any information you provide will only be used in accordance with this **privacy** statement.
 
-This Privacy Policy governs the manner in which Newbiz Advertising Blog collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http:// **newbizshop.com**](http://newbizshop.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Newbiz Advertising Blog.
+This Privacy Policy governs the manner in which Newbiz Advertising Blog collects, uses, maintains and discloses information collected from users (each, a “User”) of the [**http://newbizshop.com**](http://newbizshop.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Newbiz Advertising Blog.
 
 ## Personal identification information
 
@@ -69,20 +69,3 @@ If you have any questions about this **Privacy** Policy, the practices of this s
 admin@newbizshop.com
 
 This document was last updated on Feb. 3rd, 2013
-
-  * Bio
-  * Twitter
-  * Facebook
-  * Google+
-  * LinkedIn
-  * Latest Posts
-
-
-
-Derek is a super moderator on the v7n Network community. He spends most of his time helping people out on the forum and drinks a lot of coffee. Derek has been in the affiliate marketing niche for a long time and blogs part-time which is really like a full time job. What is this thing called sleep?
-
-#### [@snakeair2](http://twitter.com/snakeair2)
-
-I run a free advertising blog and been in affiliate marketing for a long time. Follow me for valuable content from my blog and other content i tweet from V7N.
-
-Facebook Starts Verifying Popular Pages & Profiles <http://t.co/En5GhbsdG0> via [@marketingland](http://twitter.com/marketingland "Follow marketingland") \- 40 mins ago
