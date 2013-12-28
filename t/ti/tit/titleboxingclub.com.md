@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the titleboxingclub.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515030503id_/http%3A//www.titleboxingclub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titleboxingclub.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228062439id_/http%3A//titleboxingclub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy -
+# TITLE Boxing Club | Privacy Policy
 
 TITLE Boxing Club and TITLE Boxing are committed to protecting your privacy. We use the information we collect about our site visitors to provide a more personalized and relevant experience. Please read the following details about our privacy policy.
 
@@ -10,8 +10,8 @@ TITLE Boxing Club and TITLE Boxing collects the domain name of each visitor to o
 
 ### What about cookies?
 
-“Cookies” are bits of information that are captured and stored by your web browser on your computer's hard drive. TITLE Boxing Club and TITLE Boxing does not use cookies to gather information from your computer that was not originally sent within a cookie. Rather, we use cookies to measure usage of the site and to improve your web experience. Most web browsers automatically accept cookies, so if you would like to prevent receipt of such data you can usually do so by changing your web browser's settings.
+“Cookies” are bits of information that are captured and stored by your web browser on your computer’s hard drive. TITLE Boxing Club and TITLE Boxing do not use cookies to gather information from your computer that was not originally sent within a cookie. Rather, we use cookies to measure usage of the site and to improve your web experience. Most web browsers automatically accept cookies, so if you would like to prevent receipt of such data, you should refer to your web browser’s settings.
 
 ### How is this information used?
 
-The information we collect is used to improve the content and layout of our website. For example, information may be used to customize the content of our websites, to notify consumers about updates, or to contact consumers for marketing purposes directly related to TITLE Boxing Club and TITLE Boxing.
+The information we collect is used to improve the content and layout of our website. For example, information may be used to customize the content of our websites, to notify consumers about updates and to contact consumers for marketing purposes directly related to TITLE Boxing Club and TITLE Boxing.
