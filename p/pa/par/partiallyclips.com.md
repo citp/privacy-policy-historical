@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the partiallyclips.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520222632id_/http%3A//partiallyclips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partiallyclips.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228034836id_/http%3A//partiallyclips.com/privacy-policy) for the most accurate reproduction.*
 
-# PartiallyClips - Privacy Policy
+# PartiallyClips » Privacy Policy
 
 When you register at this site or its associated store, we may need to collect certain information from you such as: email address, physical address, phone number, or other information that uniquely identifies you. It our policy to keep this information private to internal site usage and to only use this information to verify your identity or to provide a specific purchased service to you. We do not sell your information to 3rd parties. All email or snail mail contact is strictly in relation to site usage (i.e. password resets, sign up confirmations, etc.), or to inform users of our new policies, products, or services. You may request to be removed from any of these contact methods at any time by using our contact form.
 
