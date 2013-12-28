@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oddblogger.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630013657id_/http%3A//oddblogger.com/oddblogger-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oddblogger.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228055320id_/http%3A//oddblogger.com/oddblogger-policy) for the most accurate reproduction.*
 
-# Privacy Policy » OddBlogger
+# Privacy Policy | OddBlogger
 
 **What information do we collect?**
 
@@ -69,7 +69,3 @@ New Delhi, Delhi 110018
 India
 
 [Contact me](http://oddblogger.com/contact/)
-
-### About [Abhi Balani](http://oddblogger.com/author/Abhi/ "Abhi Balani")
-
-I'm [+Abhi Balani](https://plus.google.com/u/0/101235105921186931671), owner of this blog. Computer Engineer (very soon), part time Blogger, a little of gEEk, Technology Lover, Mad for Gadgets, Software Freak, Hardware Junkie, Non-Political, Internet Addict, Funny! Visit my [My tech Blog](http://geek.oddblogger.com/)
