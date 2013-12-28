@@ -1,117 +1,192 @@
-> *The following text is extracted and transformed from the gorillaz.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516093054id_/http%3A//gorillaz.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorillaz.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228075432id_/http%3A//www.wminewmedia.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# 
 
-**PRIVACY  **
+**LAST UPDATED: 16 October 2013**
 
-****Our Commitment to You****
+**PRIVACY POLICY**
 
-Welcome to Gorillaz.com. Gorillaz Partnership and its employees take your privacy very seriously. To make it easier for you to read and understand our privacy policy, we’ve written it in plain language and tried to keep it to a reasonably short length.
+Warner Music UK Limited is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information.  This Privacy Policy describes our practices in connection with information that we or our third-party service providers collect through certain of our owned or controlled websites, web properties ( _e.g._ , widgets and applications) and mobile applications (“ **Mobile Apps** ”) (collectively the “ **Properties** ”).  By providing Personal Information (as defined below) to us through the Properties, you agree to the terms and conditions of this Privacy Policy. 
 
-The key points of our privacy policy are:
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third party, including Facebook, Inc., Apple Inc., Google Inc., Microsoft Corp., Research In Motion, any wireless carriers, our artists, our affiliates and any third party operating any site or property to which any Property contains a link.  In addition, the inclusion of a link on any Property does not imply endorsement of, or affiliation with, the linked site or Property by us or by our artists or affiliates.  Please note that the Properties may include the ability to access and submit (including, for example, via a third-party software application or service that is available through or in connection with a Property) certain information directly to third parties such as Facebook or to any application platform such as Apple’s App Store or Google Play.  Such information is submitted by you directly to such third parties; this Privacy Policy does not apply to any information submitted by you to third parties.  ****
 
- •We give you choices about the personally identifiable information you share with Gorillaz.com and other Gorillaz.com users.
+The Properties are controlled and operated from the United Kingdom; accordingly, this Privacy Policy, and our collection, use and disclosure of your Personal Information, is governed by the laws of England, and the Properties are not intended to subject Company or any of its affiliates to the laws or jurisdiction of any state, country or territory other than that of England.  If you are located in the European Union (EU), European Economic Area (EEA) or Switzerland, please note that we abide by the Safe Harbor framework agreed to by the U.S. Department of Commerce with respect to Personal Information collected by entities located in the EU, EEA and Switzerland and transferred to us in the United States.  Please review our Safe Harbor Privacy Policy located at **[http://www.wmg.com/privacy/safeharbor](http://www.wmg.com/privacy/safeharbor)**.  More information about the Safe Harbor framework can be found at [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/). 
 
-•You can end your membership at any time.
+The Properties are not directed to individuals under the age of thirteen (13), and we request that such individuals do not provide Personal Information through the Properties.
 
-•We only disclose information from which you may be personally identifiable to selected third parties in accordance with this privacy policy.
+**Your California Privacy Rights:**   If you are a California resident, you may request certain information once per year about our disclosure of certain categories of Personal Information during the preceding calendar year to third parties for such third parties’ own direct marketing purposes.  Please send your request by email to [privacypolicy@wmg.com](mailto:privacypolicy@wmg.com), or by postal mail to Warner Music UK Limited, The Warner Building, 28 Kensington Church Street, London, W8 4EP. **  **We reserve our right not to respond to requests submitted other than to the email or mailing addresses specified in this section.
 
-•Gorillaz.com does not spam.
+**UPDATES TO THIS PRIVACY POLICY**
 
-•By participating in the Gorillaz.com community, you agree to this privacy policy.
+We may change this Privacy Policy at any time.  Please take a look at the “ _LAST UPDATED_ ” legend at the top of this page to see when this Privacy Policy was last revised.  Any changes to this Privacy Policy will become effective when we make the revised Privacy Policy available on or through the Property.  Your use of any Property or your submission of any information in connection with a Property following such changes means that you accept the revised Privacy Policy.
 
-**Information Collected On Gorillaz.com**
+**PERSONAL INFORMATION**
 
-We collect the following types of information about you when you use Gorillaz.com:
+**Personal Information We May Collect   **
 
-•Information provided by you. We collect personally identifiable information, such as your name and email address, when you register to become a Gorillaz.com member. This information is needed to set up your personal profile. As part of your personal profile, you may choose to submit or incorporate additional information, such as photos.
+Two types of information are collected in connection with the Property:  Personal Information and Other Information.  “ **Personal Information** ” is information that identifies you as an individual.  “ **Other Information** ” is any information that does not reveal your specific identity.  Other Information is addressed separately below, under the heading “ _OTHER INFORMATION_ ”.
 
-•Information collected automatically. Gorillaz.com receives and stores information which is transmitted automatically from your computer when you use Gorillaz.com. This information includes information from cookies (which are described below), your IP address and browser type. Your IP address is the unique address of your computer which is automatically provided to other computers when your web browser or email application requests a web page or email from those computers on the Internet. We also collect information about how you use Gorillaz.com, including information about the features you use and where you go on the Service.
+We and our third-party service providers may collect Personal Information from you, including for example:
 
-**Use and Disclosure of Information**
+  * Name
+  * Postal address (including billing and shipping addresses)
+  * Telephone number
+  * Email address 
+  * Credit and debit card number 
 
-We use this information in order to operate Gorillaz.com and improve your experience:
 
-•We will display your personally identifiable information on your profile according to the preferences you set. We will use your username so that you are recognisable on our database and so that we can personalize your experience. We will use your email address to contact you from time to time and may also use it for security reasons to confirm that you are who you say you are. You can control the types and frequencies of certain emails you receive in your email preferences.
 
-•We may use the information collected automatically, such as your IP address, information stored via cookies, and information about how you use Gorillaz.com to develop statistics and aggregate information about the number of people who visit Gorillaz.com and to customise Gorillaz.com content, layout and services. We may share this information with third parties to help us improve Gorillaz.com and better serve our users.
+We and our third-party service providers collect Personal Information through the Properties, for example, when you participate in various opportunities provided through the Properties, such as: 
 
-•We may provide your personally identifiable information and the data generated by cookies and the aggregate information to the vendors and service agencies that we may engage to assist us in providing our services to you. Such third party entities will be obligated to use your personally identifiable information solely to provide the services to us.
+  * When you purchase a product or make a request.
+  * When you register for newsletters or other communications through the Properties.
+  * When you participate in a contest, promotion, sweepstakes, survey or other promotion through the Properties and/or through any linked social media.  When you participate through linked social media, the Personal Information we collect may include your name, email address, current location, hometown and gender.  When you link social media, you are authorizing us to collect, store and use such Personal Information and content in accordance with this Privacy Policy.
+  * When you participate in a blog or forum.
 
-•Personally identifiable information about you as a Gorillaz.co user, including the contents of your online communications, may be accessed or disclosed in response to legal process (for example, a court order, search warrant or subpoena); in other circumstances in which Gorillaz believes Gorillaz.com is being used in the commission of a crime; when we have a good faith belief that there is an emergency that poses a threat to the safety of you or another person; or when necessary either to protect the rights or property of Gorillaz and its affiliates, or for us to render the service you have requested.
 
-•Personally identifiable information collected in connection with your use of the Gorillaz.com may be stored in the United Kingdom, or other countries where Gorillaz or its parent, affiliates, subsidiaries or service providers maintain facilities.  By using Gorillaz.com, you expressly agree to the transfer to the United Kingdom and elsewhere of the personally identifiable information you provide Gorillaz. By publicly posting information on Gorillaz.com, you also certify that your posting conforms with all local data protection laws.
 
-•We reserve the right to transfer your personally identifiable information in the event of a transfer of ownership of Gorillaz.com, such as acquisition by or merger with another company. If an acquiring company should plan to materially change this privacy policy, we will notify you beforehand.
+**How We May Use Personal Information**
 
-**Tell-A-Friend**
+We and our third-party service providers may use Personal Information: ****
 
-If you choose to use our referral service to tell a friend about Gorillaz.com, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit Gorillaz.com. Gorillaz.com stores and only uses this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+  * To respond to your inquiries and fulfill your requests, such as to send newsletters to you or to provide you with information about our products and services. ****
+  * To send to you administrative information, including information regarding the Property and changes to our terms, conditions and policies.
+  * To complete and fulfill your purchase, for example, to process your payments, have your order delivered to you, communicate with you regarding your purchase and provide you with related customer service. 
+  * To send to you marketing communications that we believe may be of interest to you (including, without limitation, by our third-party service providers that send direct mail, email, and other types of advertising to those whose email addresses we have collected).
+  * To send to you SMS text messages, if you have indicated you would like to receive them.  Please keep in mind that message and data rates may apply.  You should check with your mobile service provider for applicable data rates.  At any time, you may text back “HELP” for further information regarding text messages.  If additional rules are provided in connection with any specific SMS text message sign-ups, such rules shall also apply and shall control in the event that they conflict with this Privacy Policy.
+  * To personalize your experience on the Property by presenting content, products, and offers tailored to you.
+  * To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities.  Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully; in the event of a conflict between such rules and this Privacy Policy, such rules will govern.
+  * To allow you to send messages (for example, music clips or artist information) to a friend through the Property.  By using such functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address. 
+  * For our business purposes, such as data analysis, audits, developing new products, enhancing the Property, improving our services, identifying usage trends and determining the effectiveness of promotional campaigns.
+  * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public or government authorities, including public or government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates or artists; (f) to protect our rights, privacy, safety or property, or that of our affiliates, our artists, you or others; or (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
-Your friend may submit a request that we remove this information from our database via the Contact Us; remove requests of this nature will be completed within 60 days.
 
-**Collection of Information On Other Sites**
 
-This privacy statement applies only to information collected by Gorillaz.com.
+We may combine Personal Information that you submit on or through the Property with information that we collect from and about you from other online and offline sources, including from our own websites and web properties (including apps, widgets and players) and third party sources, which may include social media services you interact with through our Properties.  We treat such combined information as Personal Information as long as it is so combined.
 
- Gorillaz.com contains links to other sites and services that are not owned or controlled by Gorillaz, including Gorillaz affiliates (e.g. All Access Today). Please be aware that these sites have their own privacy policies and that Gorillaz.com is not responsible for their privacy practices. We therefore encourage you to read the privacy statements of each and every site that collects personally identifiable information.
+**How Personal Information May Be Disclosed**
 
- "Masking" is a function of using programming techniques such that the displayed URL does not match the actual pages being viewed (e.g. user is on www.xyz.com, but the URL displayed is www.abc.com). In certain circumstances, Gorillaz.com may use Masking and, although it will appear that you are still on Gorillaz.com, you may be on a different site. For example, when you create a widget or when you upload a video, you may be transferred to a third party’s site and the privacy policy of the applicable third party site applies.
+Your Personal Information may be disclosed:
 
-**Cookies**
+·        To our third-party service providers (and in some cases, our affiliates) who provide services such as hosting, data analysis, payment processing, order fulfillment, infrastructure provision, IT services, customer service, email delivery, credit card processing, auditing and other similar services to enable them to provide such services.
 
- •Cookies are a common Internet technology. Many web sites use cookies to provide useful features for their users. Cookies are small files that are written or downloaded to your computers hard drive when you access a site. They allow Gorillaz.com to store and quickly retrieve login information on your computer and provide data that we can use to improve the quality of our service. Most Internet browsers (such as Internet Explorer and Safari) are initially set up to accept cookies. If you prefer, you can set your browser to refuse cookies, although you may not be able to take full advantage of Gorillaz.com if you do so. You can disable cookies by going to Tools on your top menu bar. This will bring up the "Internet Options" dialogue box. On the top of the dialogue box, click on "Privacy". This will bring up the "Settings" box. Scroll up using the slide bar on the left-hand side of the box, until the wording in the box states Block All Cookies. Then click on the "OK" button on the bottom of the menu box. If you follow these instructions, your computer will not accept cookies in future.
+·        To our affiliates <http://wminewmedia.com/AFFILIATES/>, to permit them to send marketing communications to you.  Warner Music Group is the party responsible for the management of jointly-used Personal Information.
 
-•Gorillaz.com may link information stored in cookies such as your age, gender and country with your personally identifiable information and we may use such information to gather statistics about the number of people who visit Gorillaz.com and to customize Gorillaz.com content, layout and services for delivery to you.
+·        To unaffiliated third parties, to permit them to send marketing communications to you. ** **
 
-You control who sees your profile information on Gorillaz.com
+·        To our artists (including any of the artists’ band members, if applicable) and their representatives, so that the artists and their representatives may use this information to send to you communications (including marketing communications) that they believe may be of interest to you, including, for example, if you (a) sign up to join the applicable artist’s mailing list and/or to receive such artist’s newsletters, (b) register with the applicable artist’s website, or (c) have otherwise indicated that you would like to receive information and/or marketing communications from the applicable artist.  We do not control, and are not responsible for, artists’ and their representatives’ use of Personal Information.
 
-•Your profile information on Gorillaz.com will only be shared with people you have specifically agreed to share such information with. By default your privacy settings are set up so that only your friends can view your wall comments and friends. Please bear in mind that if you choose to share your personal information (including any comments, photos or any other information) to other people on Gorillaz.com, you do so at your own risk. Gorillaz.com recommends that you don't share your personal contact information.
+·        To third parties that sponsor contests, sweepstakes and similar promotions.
 
-•You can choose to make your profile visible to all members of Gorillaz.com, non Gorillaz.com members by editing your profile and opting in to accessible public profile.
+·        To identify you to anyone to whom you send messages on or through the Property.
 
-•The default setting for profiles is private.
+·        By you, on or through message boards, chat, profile pages and blogs and other services to which you are able to post information and materials.  Please note that any information and materials that you post or disclose on or through a Property will become public information, and may be available to visitors to the Property and to the general public, and may be redistributed through the Internet and other media channels where they will reach an even broader audience.  Additionally, please note that, per our Terms of Use located at [http://www.wminewmedia.com/t&c/](http://www.wminewmedia.com/t&c/), we retain certain rights in the information and materials that you post on or through the Property, and we may use and disclose such information and materials (including any Personal Information included therein) in accordance with our Terms of Use.  We urge you to be very careful when deciding to disclose your Personal Information, or any Other Information, on or through the Property.  WE ARE NOT RESPONSIBLE FOR THE USE OR DISCLOSURE OF ANY INFORMATION YOU VOLUNTARILY DISCLOSE THROUGH ANY PROPERTY.
 
-**Sharing Information with Applications Providers**
+·        To a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceeding). 
 
-Reviewing, deleting and changing your Profile
+·        To a relevant artist who is no longer affiliated with us, if you indicated an interest in such artist (for example, by registering with the artist’s website). 
 
-You can review, delete, correct and revise your privacy settings and personal profile, including who has access to your personal profile in your account at any time or contact us for assistance via the Contact Us page; requests of this nature will be completed within 30 days.
+·        As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public or government authorities, including public or government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates or artists; (f) to protect our rights, privacy, safety or property, or that of our affiliates, our artists, you or others; or (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
-**Internet awareness**
+**Retention Period**
 
-Whenever you voluntarily post personal information in public areas, like wallposts and forums, this information can be accessed by the public and can in turn be used by others to send you unsolicited communications. Gorillaz.com recommends that you exercise discretion in deciding what information you disclose on the Internet.
+We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
 
-**Children – Under 13s**
+**Sensitive Information**
 
-•Children under the age of 13 are not eligible to use Gorillaz.com and must not attempt to register with Gorillaz.com and/or submit any personal information to us. Gorillaz.com does not knowingly collect personal information from any person who is under the age of 13 or allow them to register. If it comes to our attention that we have collected personal data from a person under the age of 13, we will delete this information as quickly as possible. If you have reason to believe that this has occurred, please contact us via the Contact Us page, and we will delete any such information.
+We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Properties or otherwise to us.
 
-•We recommend that children between the ages of 13 and 17 should not send any information about themselves to anyone over the Internet without asking their parents or legal guardians for permission beforehand.
+**OTHER INFORMATION**
 
-**Security and confidentiality**
+**Other Information We May Collect**
 
- •Bebo uses a variety of safeguards to help protect your personal information, including technical, administrative and physical controls. Please bear in mind though, that it is impossible for Gorillaz.com to guarantee that impenetrable security measures are in place. For example, we cannot control any illegal and/or unforeseen activity of other users that may allow them to get around the privacy or security settings on Gorillaz.com. Consequently, you acknowledge that there are circumstances in which your personal information may be accessed by unauthorised persons.
+We and our third-party service providers may collect Other Information (defined above) such as: 
 
-•The security of your personal information depends in part on your protection of your account password. Please do not disclose your account password to unauthorized people.
+  * Browser and device information
+  * Mobile App usage data
+  * Server log files
+  * Information collected through cookies, pixel tags and other technologies.  If you are located within the EEA please read our cookie policy <http://www.wminewmedia.com/cookies_policy21062012.htm> for further details on our use of cookies.
+  * Geographic location information 
+  * Demographic information and other non-personally identifiable information
+  * Information about how you use the Properties
+  * Aggregated information
 
-•We limit access to your personal information only to employees that we authorize to access that information in order to do their jobs in connection with Gorillaz.com
 
-•If you become aware of any breach of data security or have any other questions about the security of our website, please contact us via the Contact Us page.
 
-**Changes in Privacy Policy**
+**How We May Collect Other Information**
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+We and our third-party service providers may collect Other Information in a variety of ways, including: 
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+·         **Through your browser or your device:**   Certain information is collected by most browsers, such as your Media Access Control (MAC) address, device type (Windows or Macintosh), screen resolution, operating system version, Internet browser type and version and the type and version of the Property that you are using.  We and our service providers may also collect a unique device identifier assigned by us or our service providers to the device from which you are accessing the Property **** and other transactional information for the device that we and our service providers may use to serve content and advertisements to the device. 
 
-Additionally, we may send registered users an email notifying you of the change. IF ANY MODIFICATION IS UNACCEPTABLE TO YOU, YOU SHALL STOP USING GORILLAZ.COM. YOUR CONTINUED USE OF GORILLAZ.COM FOLLOWING OUR POSTING OF A CHANGE NOTICE OR ON OUR WEBSITE OR BLOG OR RECEIVING OUR EMAIL NOTIFYING YOU OF THE CHANGE WILL CONSTITUTE YOUR BINDING ACCEPTANCE OF THE CHANGE.
+·         **Through your use of Mobile Apps:** When you download and use a Mobile App, we and our service providers may track and collect Mobile App usage data, such as the date and time the Mobile App on your device accesses our servers and what information and files have been downloaded to the Mobile App based on your device number.
 
-**Cancelling membership**
+·         **Through server log files:**   An Internet Protocol (IP) address is a number that is automatically assigned to your device from which you are accessing the Property by your Internet Service Provider (ISP), and is identified and logged automatically in our server log files whenever you visit the Property, along with the time of the visit and the activity on the Property. ****  We and our service providers use IP addresses for purposes such as calculating Property usage levels, helping diagnose server problems, administering the Property and determining your approximate geographic location. 
 
-You always have the option to cancel your membership at any time. If you are a member and no longer wish to participate in Gorillaz.com you can sign in to the site and click on the My Account at the top of the page; then select cancel membership and follow the simple instructions.
+·         **Using cookies:   **We and our service providers may use cookies, pixel tags, web beacons, Adobe Flash technology (including Flash Local Stored Objects (“ **Flash LSOs** ”)) and other similar technologies to, among other things, better serve you with more tailored information for our products and services, and for those of third parties, facilitate your ongoing access to and use of the Property, and collect and store information about your use of the Property.  For example, pixel tags and web beacons may be used in connection with the Property to, among other things, track the actions of the Property users, measure the success of marketing campaigns and compile statistics about the Property usage and response rates. 
 
-**Co-Branding**
+o   If you do not want information collected through the use of cookies, there is a simple procedure on most devices through which the Properties are accessed that allows you to decline the use of cookies.  To learn more about cookies, please visit [http://www.allaboutcookies.org/](http://www.allaboutcookies.org/).  If you choose to decline cookies, then some or all of the features, functionality and promotions available through the Property that may not be available to you. 
 
-Gorillaz.com may be co-branded with our affiliates & partners.
+o   If your device stores Flash LSOs, and if you do not want Flash LSOs stored on your device through which you access the Property, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained using the [Website Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html "http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html"). You can also control Flash LSOs by going to the [Global Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html "http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html") and following the instructions (which may include instructions that explain, for example, how to delete existing Flash LSOs (referred to as “information” on the Macromedia site), how to prevent Flash LSOs from being placed on your device without you being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time).  Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications, including, potentially, Flash applications used in connection with the Property or our content. We expect our service providers and technology suppliers to honor any decision by you to restrict or limit Flash LSOs, but we cannot guarantee that they will do so.
 
-Effective Date and Last Revision Date: February 22, 2010
+o   The use of these technologies allows our third-party vendors to deliver advertisements about our products and services, and the products and services of third parties, when you use the Property or other applications or visit websites or web properties across the Internet. These vendors may place so-called “pixel tags,” “web beacons,” “clear GIFs” or similar technologies on the device through which you access the Property, and other applications or websites across the Internet, and also place or recognize third-party cookies when you use the Property, or other applications, websites or web properties. These vendors may use information about your visits to the Property, and other applications, websites or web properties (excluding your name, address, email address and telephone number) to provide advertisements for us and others about goods and services that may be of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit the Network Advertising Initiative at [www.networkadvertising.org](http://www.networkadvertising.org/ "blocked::http://www.networkadvertising.org/") or the Digital Advertising Alliance at [www.aboutads.info](http://www.aboutads.info/ "blocked::http://www.aboutads.info/").
+
+·         **Geographic location information:** If you use any location-enabled products or services, you may be sending us location information.  When you use a location-enabled service, we may collect and process information about your precise geographical location, such as GPS signals sent by a mobile device.  We and our third party service providers and partners may use your device’s physical location to provide you with personalized location-based services, content and advertisements. In some instances, you may be permitted to allow or deny such uses of your device’s location, but if you choose to deny such uses, we may not be able to provide you with the applicable personalized services and content.
+
+·         **From you:**   We may collect demographic information, such as your zip code or gender, as well as other information, such as your preferred means of communication, when you voluntarily provide this information to us.  Unless combined with Personal Information, this information does not personally identify you or any other user of the Properties.
+
+·         **Information about how you interact on the Properties:   **We may collect information about how you interact on the Properties.  For example, some Properties may utilize analytic tools to help us better serve you through improved products, services, and revisions to the Properties. This collected information may let us know which services and features you are using the most within a Property, as well as device type and hardware features, country and language of download, etc.
+
+·         **By aggregating information:**   We may aggregate Personal Information so that the end-product does not personally identify you or any other user of the Property, for example, by using Personal Information to calculate the percentage of our users who like a particular artist.  ****
+
+**How We May Use and Disclose Other Information**
+
+Please note that we may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law.  If we are required to treat Other Information as Personal Information under applicable law, then we may use it as described in “How We May Collect Other Information” section above, as well as for all the purposes for which we use and disclose Personal Information.  In some instances, we may combine Other Information with Personal Information (such as combining your name with your geographical location).  If we combine any Other Information with Personal Information, the combined information will be treated by us as Personal Information as long as it is combined.
+
+**SECURITY**
+
+We seek to use reasonable physical, technical and administrative measures to protect Personal Information under our control.  Unfortunately, no data transmission over the Internet or data security system can be guaranteed to be 100% secure.  
+
+**CHOICES AND ACCESS**
+
+**Your choices regarding our use and disclosure of your Personal Information**
+
+We give you many choices regarding our use and disclosure of your Personal Information for marketing purposes.  You may opt-out from: 
+
+  * **Receiving marketing-related emails from us and our affiliates:**   If you do not want to receive marketing-related emails from us and our affiliates on a going-forward basis, you may opt-out from receiving such emails either by using the unsubscribe mechanism provided in the email or by emailing us at [privacypolicy@wmg.com](mailto:privacypolicy@wmg.com). 
+
+
+  * **Receiving marketing-related SMS text messages from us and our affiliates:**   If you do not want to receive marketing-related SMS text messages from us and our affiliates on a going-forward basis, you may opt-out from receiving such messages by texting back “STOP” or by emailing us at [privacypolicy@wmg.com](mailto:privacypolicy@wmg.com).
+
+
+  * **Our sharing of your Personal Information with artists or unaffiliated third parties for their marketing purposes:**   If you prefer that we not share your Personal Information on a going-forward basis with artists or unaffiliated third parties for their marketing purposes, you may opt-out from such sharing by emailing us at [privacypolicy@wmg.com](mailto:privacypolicy@wmg.com).
+
+
+
+In each case, please make clear in your email what you are opting-out from.  We will try to comply with your request(s) as soon as reasonably practicable. 
+
+Please note that, if you opt-out as described above, we will not be able to remove your Personal Information from the databases of our artists or unaffiliated third parties with which we have already shared your Personal Information as of the date that we implement your opt-out request.  Please also note that, if you do opt-out from receiving marketing-related messages from us, we may still send administrative messages to you; you cannot opt-out from receiving administrative messages.
+
+**How you can access, change or suppress your Personal Information**
+
+If you would like to review, correct, update, suppress, delete or otherwise limit our use of your Personal Information that you have previously provided to us, you may contact us by emailing us at [privacypolicy@wmg.com](mailto:privacypolicy@wmg.com).  ****
+
+In your request, please make clear what Personal Information you would like to have changed and what limitations (if any) you would like to place on our use of your Personal Information.  We will try to comply with your request as soon as reasonably practicable.  We may need to retain certain information for recordkeeping purposes, and there may also be residual information that will remain within our databases and other records which will not be removed.   We are not responsible for changing, removing or suppressing information from the databases of artists or unaffiliated third parties with which we have already shared your Personal Information.
+
+**CONTACTING US**
+
+If you have any questions about this Privacy Policy, please contact us by email at [privacypolicy@wmg.com](mailto:privacypolicy@wmg.com), or please write to the following address:
+
+Warner Music UK Limited
+
+Legal Department
+
+The Warner Building
+
+28 Kensington Church Street
+
+London, W8 4EP
+
+Attn: Privacy Coordinator
+
+Please note that email communications are not always secure, so please do not include credit card information or other sensitive information in your email messages to us.
