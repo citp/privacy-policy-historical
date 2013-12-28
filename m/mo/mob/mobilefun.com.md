@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilefun.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629074546id_/http%3A//www.mobilefun.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilefun.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228111050id_/http%3A//www.mobilefun.com/blog/privacy) for the most accurate reproduction.*
 
 # Mobile Fun Blog » Privacy
 
@@ -30,7 +30,7 @@ We will give you the right to refuse any marketing e-mail from us in the future.
 
 We may use technology to track the patterns of behaviour of visitors to our site. This can include using a ‘cookie’, which would be stored on your browser. You can usually modify your browser to prevent this happening.
 
-The information collected in this way can be used to identify you unless you modify your browser settings. If you have any questions about our privacy policy you can contact the customer services manager at [customer.service@mobilefun.com](https://web.archive.org/web/20130629074546id_/http://www.mobilefun.com/blog/information/privacy/customer.service@mobilefun.com).
+The information collected in this way can be used to identify you unless you modify your browser settings. If you have any questions about our privacy policy you can contact the customer services manager at [customer.service@mobilefun.com](https://web.archive.org/web/20131228111050id_/http://www.mobilefun.com/blog/information/privacy/customer.service@mobilefun.com).
 
 ##  Information You Provide To Us
 
