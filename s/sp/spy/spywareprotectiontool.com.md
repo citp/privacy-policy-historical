@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spywareprotectiontool.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112153242id_/http%3A//www.spywareprotectiontool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spywareprotectiontool.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228123728id_/http%3A//www.spywareprotectiontool.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Spyware Protection Tool
 
@@ -55,3 +55,5 @@ If you have any questions or concerns regarding this privacy policy, or you wish
 support – at – spywareprotectiontool.com
 
 Rating: 10.0/ **10** (1 vote cast)
+
+Privacy Policy, 10.0 out of 10 based on 1 rating 
