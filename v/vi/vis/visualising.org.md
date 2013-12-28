@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualising.org privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630031747id_/http%3A//www.visualising.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualising.org privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228191831id_/http%3A//www.visualising.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | visualizing.org
 
@@ -29,6 +29,10 @@ We will not share your personal information with others except as indicated belo
 ###  E-mail Announcements and Newsletters 
 
 We may use e-mail to send announcements regarding new products, services, and/or promotions, and informational newsletters. Announcements via email are on an opt-in basis only. By posting material on any of our messaging services, chat services, bulletin boards, message boards, blogs, or other forums available on or through the Site, you are opting in to receiving these e-mail announcements. You can choose to unsubscribe to our e-mail at any time by sending an email to [unsubscribe@visualizing.org](mailto:unsubscribe@visualizing.org). 
+
+###  Challenges and Marathons 
+
+By entering a challenge or marathon, if selected as a winner you understand your name will be made public via announcements and your contact information will be shared with a third party sponsor (if applicable) in connection with a prize distribution. 
 
 ###  Security 
 
