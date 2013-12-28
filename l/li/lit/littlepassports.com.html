@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the littlepassports.com privacy policy that was archived on 2013-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530223358id_/http%3A//www.littlepassports.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the littlepassports.com privacy policy that was archived on 2013-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131228214114id_/http%3A//www.littlepassports.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -20,7 +20,7 @@
 <link rel="stylesheet" type="text/css" href="http://www.littlepassports.com/skin/frontend/littlepassports/littlepassports/css/styles.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.littlepassports.com/skin/frontend/littlepassports/littlepassports/css/widgets.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.littlepassports.com/skin/frontend/littlepassports/littlepassports/css/print.css" media="print">
-<script type="text/javascript" src="http://www.littlepassports.com/js/prototype/prototype.js"></script>
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0018/1632.js?439004" async="" type="text/javascript"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" src="http://www.littlepassports.com/js/prototype/prototype.js"></script>
 <script type="text/javascript" src="http://www.littlepassports.com/js/lib/ccard.js"></script>
 <script type="text/javascript" src="http://www.littlepassports.com/js/prototype/validation.js"></script>
 <script type="text/javascript" src="http://www.littlepassports.com/js/scriptaculous/builder.js"></script>
@@ -33,7 +33,9 @@
 <script type="text/javascript" src="http://www.littlepassports.com/js/varien/menu.js"></script>
 <script type="text/javascript" src="http://www.littlepassports.com/js/mage/translate.js"></script>
 <script type="text/javascript" src="http://www.littlepassports.com/js/mage/cookies.js"></script>
-<script type="text/javascript" src="http://www.littlepassports.com/js/isarp.js"></script>
+<script type="text/javascript" src="http://www.littlepassports.com/js/jquery/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://www.littlepassports.com/js/indaba/frontendMessages.js"></script>
+<script type="text/javascript" src="http://www.littlepassports.com/js/prototype/event.simulate.js"></script>
 <script type="text/javascript" src="http://www.littlepassports.com/skin/frontend/littlepassports/littlepassports/js/scripts.js"></script>
 <script type="text/javascript" src="http://www.littlepassports.com/skin/frontend/littlepassports/littlepassports/js/enterprise/catalogevent.js"></script>
 <!--[if lt IE 8]>
@@ -58,9 +60,57 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 </script>
 <script type="text/javascript">var Translator = new Translate({"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script><!--BEGIN Optimizely Pixel-->
 <script src="//cdn.optimizely.com/js/70629554.js"></script>
-<!--END Optimizely Pixel--><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body class=" cms-page-view cms-privacy-policy">
+<!--END Optimizely Pixel-->
 
+
+<!--BEGIN Pinterest Tag-->
+<meta name="p:domain_verify" content="67c76f396a39ba5c6263360d5c001975">
+<!--END Pinterest Tag--><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<body class=" cms-page-view cms-privacy-policy">
+<div style="display:none;">
+	<div id="lpNewsPopup" class="lp-subscribe">
+		<div class="lp-popup-inner">
+			<img class="lp-logo" src="http://www.littlepassports.com/skin/frontend/littlepassports/littlepassports/images/cloudlogo.png">
+			<p class="comicsans">Welcome to Little Passports!</p>
+			<p>We inspire kids to learn about the world in fun and exciting ways.</p>				
+			<p>Want a special offer to try Little Passports? Sign up for our newsletter to get your offer along with fun facts on holidays around the world, recipes, activities and more!</p>
+			<div class="lp-popup-form">
+    <form action="https://www.littlepassports.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+        <div class="input-box">
+           <input type="text" name="email" id="newsletter" title="Newsletter Signup" class="input-text required-entry validate-email">
+           <button type="submit" title="Signup" class="button"><span><span>Signup</span></span></button>
+        </div>
+        <!--<a id="closeBox" class="closeBox">No thanks (close this window)</a>-->
+    </form>
+	
+    <script type="text/javascript">
+    //<![CDATA[
+        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    //]]>
+    </script>
+</div>		</div>
+	</div>
+</div>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+	jQuery('#closeBox').click(function () {
+		jQuery.fn.colorbox.close();
+		return false;
+	});
+	if (document.cookie.indexOf('lpNewsletter=true') == -1) {
+		jQuery.fn.colorbox({
+			opacity: ".65",
+			initialWidth: "75px",
+			initialHeight: "75px",
+			inline: true,
+			href: "#lpNewsPopup"
+		});
+		var oneDay = 1000*60*60*24*3650; //3650 days
+		var expires = new Date((new Date()).valueOf() + oneDay);
+		document.cookie = "lpNewsletter=true;expires=" + expires.toUTCString();
+	}
+});
+</script>
 <!-- BEGIN GOOGLE ANALYTICS CODE -->
 <script type="text/javascript">
 //<![CDATA[
@@ -95,53 +145,24 @@ Ajax.Responders.register({onComplete: function() {ecjsInit();}});});
             </div>
         </div>
     </noscript>
-    
     <div class="page">
         
 
 <div class="header-container">
-<!--
-    <div class="header-panel">
-        <div class="switches"><div class="switch switcher-currency">
-    <label>Currency:</label>
-    <div class="switch-wrapper" id="currencySelect">
-        <strong class="current language-default">
-            USD - US Dollar        </strong>
-        <span class="switcher-holder">(<span onclick="popUpMenu(this);" class="switcher">Change</span>)</span>
-        <ul style="display:none" id="popId-currencySelect">
-            <li class="current currency-default">
-                <span>USD                                    - US Dollar</span>
-                            </li>
-                                                                            <li class="currency-EUR">
-                        <a href="http://www.littlepassports.com/directory/currency/switch/currency/EUR/uenc/aHR0cDovL3d3dy5saXR0bGVwYXNzcG9ydHMuY29tL3ByaXZhY3ktcG9saWN5/">EUR - Euro</a>
-                    </li>
-                                    </ul>
-    </div>
-</div>
-
-
-</div>
-        <p class="welcome-msg"></p>
-        <ul class="links">
-                        <li class="first" ><a href="https://www.littlepassports.com/customer/account/login/" title="Log In" >Log In</a></li>
-                                <li class=" last" > or <a href="https://www.littlepassports.com/customer/account/create/" title="register" >register</a>.</li>
-            </ul>
-    </div>
--->
     <div class="header">
         		<div class="top-promo">
-			<h4><a href="http://www.littlepassports.com/refer-a-friend/">Give $10 and Get $10 </a></h4>
-<p><a href="http://www.littlepassports.com/refer-a-friend/"> Share Little Passports with your friends and family to get an exclusive discount! </a></p>
-<p class="last"><a class="button-sm order" href="http://www.littlepassports.com/refer-a-friend/"><span><span>Refer A Friend </span></span></a></p>		</div>
+			<h4><a href="http://www.littlepassports.com/buy"> Get the Perfect Gift for Kids!</a></h4>
+<p><a href="http://www.littlepassports.com/buy">Order now and instantly download a printable gift card!</a></p>
+<p class="last"><a class="button-sm order" href="http://www.littlepassports.com/buy"><span><span>Order Now </span></span></a></p>		</div>
         <div class="branding">
                     <a href="/" title="Little Passports" class="logo"><strong>Little Passports</strong><img src="http://www.littlepassports.com/skin/frontend/littlepassports/littlepassports/images/logo.jpg" alt="Little Passports"></a>
                                 </div>
         <div class="quick-access">
             <div class="checkout-link"><ul class="links">
-                        <li class="first last"><a href="https://www.littlepassports.com/sarpcheckout/checkout/" title="Checkout" class="top-link-checkout">Checkout</a></li>
+                        <li class="first last"><a href="https://www.littlepassports.com/wizard/checkout/" title="Checkout" class="top-link-checkout">Checkout</a></li>
             </ul>
 </div>
-            
+            <!--{CART_SIDEBAR_e1677a15d88e6bf10651d226c07e3cd0}-->
 <div class="top-cart">
         <div class="block-title no-items">
         <strong id="cartHeader">My Cart (<span>0</span>)</strong>
@@ -160,7 +181,7 @@ Ajax.Responders.register({onComplete: function() {ecjsInit();}});});
     // Enterprise.TopCart.showCart(7);
 </script>
 </div>
-            <ul class="links">
+<!--/{CART_SIDEBAR_e1677a15d88e6bf10651d226c07e3cd0}-->            <ul class="links">
                         <li class="first last"><a href="https://www.littlepassports.com/customer/account/" title="My Account">My Account</a></li>
             </ul>
             <form id="search_mini_form" action="http://www.littlepassports.com/catalogsearch/result/" method="get">
@@ -176,24 +197,22 @@ Ajax.Responders.register({onComplete: function() {ecjsInit();}});});
 </div>
 </form>
         </div>
-		<div class="boarding-zone-link"><a href="/board"><img src="/skin/frontend/littlepassports/littlepassports/images/boarding_zone.png"></a></div>
-		    <div class="nav-container">
+		<!-- <div class="boarding-zone-link"><a href="/board"><img src="/skin/frontend/littlepassports/littlepassports/images/boarding_zone.png"></a></div> -->
+		<div class="header-awards"><img src="/skin/frontend/littlepassports/littlepassports/images/header-awards.png"></div>
+		<!--{CATALOG_NAVIGATION_89dcdc4ffe4cb3d44b86dd8c920e3618}--><div class="nav-container">
     <ul id="nav">
 		<li><a href="/how-it-works">How It Works</a></li>
-		<li><a href="/join">Join</a></li>
+		<li><a href="/join">Buy</a></li>
+		<li><a href="/gift">Gift</a></li>
 		<li><a href="/reviews">Reviews</a></li>
-		<li><a href="/blog">Blog</a></li>
+		<li class="last"><a href="/blog">Blog</a></li>
     </ul>
-</div>    </div>
+</div><!--/{CATALOG_NAVIGATION_89dcdc4ffe4cb3d44b86dd8c920e3618}-->    </div>
     </div>
 
-        
-           
-             
-        <div class="main-container col1-layout">
+                <!--{GLOBAL_MESSAGES_3e966cafdcb3f0c9cd9f8bc6a0021644}--><!--/{GLOBAL_MESSAGES_3e966cafdcb3f0c9cd9f8bc6a0021644}-->        <div class="main-container col1-layout">
             <div class="main">
-                                
-                <div class="col-main">                    
+                                <div class="col-main">
                         <div class="page-title">
         <h1>Privacy Policy</h1>
     </div>
@@ -271,6 +290,8 @@ San Francisco, California 94105</p>
 
 <p>Please direct any questions that you may have regarding our Privacy Statement at any time to <a href="mailto:customerservice@littlepassports.com">customerservice@littlepassports.com</a>.</p></div>                </div>
             </div>
+            <div class="seo-links">
+                            </div>
         </div>
         <div class="footer-container">
     <div class="footer">
@@ -332,7 +353,12 @@ San Francisco, California 94105</p>
 	</div>
 </div>
 
-
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0018/1632.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
 
 <!--
 <script type="text/javascript">
@@ -342,7 +368,8 @@ San Francisco, California 94105</p>
 </script>
 -->
 
-<!-- 204.13.108.24 -->            </div>
+<!--  -->
+            </div>
 </div>
 <div style="display:none;">
 	<!-- Google Code for Remarketing tag -->
@@ -382,9 +409,31 @@ window.onload = function(){
 }());
 </script>
 <!-- END Remarketing Tag for Adroll-->
+<!-- Start Quantcast Tag -->
+<script type="text/javascript"> 
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push(
+{qacct:"p-a938NunWeCfXD",labels:"_fp.event.Universal"}
+);
+</script>
+<noscript>
+<img src="//pixel.quantserve.com/pixel/p-a938NunWeCfXD.gif?labels=_fp.event.Universal" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- Start Nanigans Tag -->
+<img style="display:none" src="//api.nanigans.com/event.php?app_id=50366&amp;type=visit&amp;name=landing">
+<!-- End Nanigans Tag -->
 
 </div>
-
-
-
 </body></html>
