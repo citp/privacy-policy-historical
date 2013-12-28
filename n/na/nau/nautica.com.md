@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nautica.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626003457id_/http%3A//www.nautica.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nautica.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228102838id_/http%3A//www.nautica.com/privacy-policy-nau.html) for the most accurate reproduction.*
 
-# Nautica.com : Customer Service
-
-Our Privacy Policy
+# Our Privacy Policy
 
 Nautica Retail USA, Inc. ("Nautica") recognizes that you care how information about you is used and shared and respects your privacy. This Privacy Policy informs you of how information is collected on and through Nautica.com (the "Web Site") and how we use and disclose this information. Information collected on or through this Web Site may be collected by Nautica or by third-party service providers acting on our behalf. The term "we" as used in this Privacy Policy may include our third-party service providers, particularly with respect to the collection, use and storage of information. By accessing this Web Site, you agree to be bound by this Privacy Policy.
 
