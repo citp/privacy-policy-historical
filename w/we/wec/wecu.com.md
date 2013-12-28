@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wecu.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616234759id_/http%3A//www.wecu.com/documents/repository/7af935b3-192a-f5a9-2b5e-00003975fac4.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wecu.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228065534id_/http%3A//www.wecu.com/documents/repository/7af935b3-192a-f5a9-2b5e-00003975fac4.pdf) for the most accurate reproduction.*
 
 # FACTS
 
@@ -48,7 +48,7 @@ For our affiliates’ everyday business purposes—
 information about your creditworthiness
 For affiliates to market to you                                                        No                            We don’t share
 For non-affiliates to market to you                                                    No                            We don’t share
-                                                                                 ©2012 Whatcom Educational Credit Union/Farleigh Wada Witt
+                                                                                 ©2013 Whatcom Educational Credit Union/Farleigh Wada Witt
 
 
 What we do
@@ -60,39 +60,39 @@ protect my personal information?          access and use, we use security measur
                                           employees and volunteers who need to know the information
                                           to provide products or services to you.
 How does Whatcom Educational Credit Union We collect your personal information, for example, when you
-collect my personal information?              open an account or apply for a loan
-                                              apply for any credit union service
-                                              you visit our website, provide us information on any online
+collect my personal information?               open an account or apply for a loan
+                                               apply for any credit union service
+                                               you visit our website, provide us information on any online
                                                application or transaction, or information you send to us by
                                                email.
-                                              use your credit or debit card or pay your bills
-                                              make deposits to or withdrawals from your accounts
+                                               use your credit or debit card or pay your bills
+                                               make deposits to or withdrawals from your accounts
                                           We also collect your personal information from others, including
                                           credit bureaus or other companies.
 Why can’t I limit all sharing?            Federal law only gives you the right to limit information sharing as
                                           follows:
-                                              sharing for affiliates’ everyday business purposes—information
+                                               sharing for affiliates’ everyday business purposes—information
                                                about your creditworthiness
-                                              affiliates from using your information to market to you
-                                              sharing for non-affiliates to market to you
+                                               affiliates from using your information to market to you
+                                               sharing for non-affiliates to market to you
                                           However, we do not have any affiliates with whom we share any
                                           information.
 Definitions
 Affiliates                                Companies related by common ownership or control. They can be
                                           financial and nonfinancial companies.
-                                              Whatcom Educational Credit Union has no affiliates.
+                                               Whatcom Educational Credit Union has no affiliates.
 Non-affiliates                            Companies not related by common ownership or control. They can
                                           be financial and nonfinancial companies.
-                                              Whatcom Educational Credit Union does not share with non-
+                                               Whatcom Educational Credit Union does not share with non-
                                                affiliates so they can market to you except for our joint
                                                marketing arrangements.
 Joint marketing                           A formal agreement between Whatcom Educational Credit Union
                                           and a nonaffiliated financial company where we jointly market
                                           financial products or services to you.
-                                              Our joint marketing partners include financial services and
+                                               Our joint marketing partners include financial services and
                                                insurance companies.
 Other important information
-                                                                 ©2012 Whatcom Educational Credit Union/Farleigh Wada Witt
+                                                                 ©2013 Whatcom Educational Credit Union/Farleigh Wada Witt
 
 
  Protecting Children’s Private Information. Our online financial services are not designed for or directed toward
@@ -105,4 +105,4 @@ current version at www.wecu.com
                             through our InfoGuy service at www.wecu.com, or write to
 Questions?                  us at: Whatcom Educational Credit Union, PO Box 9750,
                             Bellingham, WA 98227-9750
-                                                                            ©2012 Whatcom Educational Credit Union/Farleigh Wada Witt
+                                                                            ©2013 Whatcom Educational Credit Union/Farleigh Wada Witt
