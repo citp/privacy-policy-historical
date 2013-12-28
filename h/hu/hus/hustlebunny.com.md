@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hustlebunny.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524024247id_/http%3A//hustlebunny.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hustlebunny.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228015720id_/http%3A//hustlebunny.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HustleBunny
 
