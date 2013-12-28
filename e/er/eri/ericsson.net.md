@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ericsson.net privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218120359id_/http%3A//www.ericsson.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ericsson.net privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228093641id_/http%3A//www.ericsson.com/privacy) for the most accurate reproduction.*
 
 # Internet privacy policy - Ericsson
 
