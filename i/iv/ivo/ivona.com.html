@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ivona.com privacy policy that was archived on 2013-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130616062341id_/http%3A//www.ivona.com/us/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ivona.com privacy policy that was archived on 2013-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131228041544id_/http%3A//www.ivona.com/us/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.1//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-2.dtd"><html xmlns="http://www.w3.org/1999/xhtml" version="XHTML+RDFa 1.1" lang="us" xmlns:fb="http://ogp.me/ns/fb#"><head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -33,7 +33,7 @@
 <link rel="alternate" type="application/rss+xml" title="IVONA Software RSS" href="http://feeds.feedburner.com/IVONASoftwareRssEn">
 
 
-<link type="text/css" href="http://static.ivona.com/www/static/css/styles3.css?v=1.9" rel="stylesheet" media="screen">
+<link type="text/css" href="http://static.ivona.com/www/static/css/styles3.css?v=2.0" rel="stylesheet" media="screen">
 <link type="text/css" href="http://static.ivona.com/www/static/css/jquery.linkselect.css" rel="stylesheet" media="screen">
 
 <!--[if lt IE 7]>
@@ -75,10 +75,10 @@ pageTracker._setDomainName(".ivona.com");
 							if(settings["data"].length){
 								settings["data"] += "&";
 							}
-							settings["data"] += "add57e1d64ac06ee3fd8b865096d6ca9b4d=92d8e27177c6ceec1dd1c85281fe3aca"
+							settings["data"] += "addfe618db6a336cd78f90c2fab88797dcb=a9edd2e15d2ab3fb63b43df092b893b7"
 						}
 						else{
-							settings["data"]["add57e1d64ac06ee3fd8b865096d6ca9b4d"] = "92d8e27177c6ceec1dd1c85281fe3aca"
+							settings["data"]["addfe618db6a336cd78f90c2fab88797dcb"] = "a9edd2e15d2ab3fb63b43df092b893b7"
 						}
 					}
 				});
@@ -104,9 +104,10 @@ pageTracker._setDomainName(".ivona.com");
         
             <div class="l lh14" style="width:75%">
                 
-        This web page uses cookies to deliver services in accordance with <a href="http://www.ivona.com/us/privacy/#head5"> Privacy Policy</a>.
-        You can specify the conditions for cookies storage and access in your browser. 
-        No change in your browser settings will mean that you agree to the use of cookies.
+        <span class="mt10 k">
+        This web page uses cookies to improve services in accordance with our <a href="http://www.ivona.com/us/privacy/#head5"> Privacy Policy</a>.
+        You can change your settings at any time.  
+        </span>
         
             </div>
             <div class="r " style="width:20%">
@@ -119,10 +120,15 @@ pageTracker._setDomainName(".ivona.com");
                 $(document).ready(function(){
                     $("#cookiePane").show();
                 });
-                function hideCookiePane(){
-                    $.post("/ecpa.php",{},function(){
-                        $("#cookiePane").slideUp();
-                    })
+                function hideCookiePane(){  
+
+                    $.ajax({
+                        type:"POST" ,
+                        complete:function(){
+                            $("#cookiePane").slideUp(); 
+                        },
+                        url:"/ecpa.php"
+                    });
                     
                 }
                 //]]>
@@ -138,12 +144,19 @@ pageTracker._setDomainName(".ivona.com");
         
         
 <div id="iapi_navTop" style="z-index=22;">	
+	
+        
 		<div id="mainHeader" class="">
-		<div class="l c mainNavi" style="border-bottom:1px solid #e2e2e2">
-		<div class="k">
+		<div class="l c mainNavi" style="border-bottom:1px solid #e2e2e2">      
+		    
+		 
+		    
+
+		<div class="k"> 
+		   
+
 			<div class="l" style="width:187px">
 				<a class="l nhu on pt10" style="padding-bottom:13px;" href="http://www.ivona.com/us/" onclick="track('Link', 'Click', 'ivona.all.header_logo_us');" title="IVONA Text-to-Speech">
-					
 					<span class="l ml20 " style="width:170px;height:45px">
 					<img src="http://static.ivona.com/www/static/images/logos/ivona_tts_amzn.png" title="IVONA Text-to-Speech">
 					</span>
@@ -158,7 +171,7 @@ pageTracker._setDomainName(".ivona.com");
 				<div class="r w100 pt5 fs10" style=" position: relative; z-index:1000000;">
 
 				
-					<ul class="sf-menu sf-vertical r">
+					<ul class="sf-menu sf-vertical r" style="margin-top:-2px;">
 						<li class="r rtl rtr rbl">
 						<h2><a class="r fs11 ar gray pr10 pl10 cp b" href="javascript:void null;" style="height:24px;padding-top:3px">Language: English <span id="langArrow" style="font-size:11px">›</span></a></h2>
                                                     <ul class="r rbr rtr rbl" style="width:160px">
@@ -185,8 +198,10 @@ pageTracker._setDomainName(".ivona.com");
 						</ul>
 					<span class="r pl10">|</span><a class="r pl10 " style="" href="http://www.ivona.com/us/basket/" onclick="track('Link', 'Click', 'ivona.all.header_cart');"><b class="l">Cart</b><span class="l" style="background:url(http://static.ivona.com/www/static/images/sprites/mainsprite5.png) no-repeat -181px -121px; width:15px; height:12px; padding-right:0px; margin-top:3px;margin-left:3px;padding-top:0px"></span></a>
 						<span class="r pl10">|</span>
-						<a class="r" rel="nofollow" href="https://secure.ivona.com/account/register.php" onclick="track('Link', 'Click', 'ivona.all.register');"><strong>Register</strong></a>
-						<span class="r pl10 pr10">|</span><a class="r " href="https://secure.ivona.com/account/login.php" onclick="track('Link', 'Click', 'ivona.all.header_log_in');" rel="nofollow"><strong>Log in</strong></a>
+						<a class="r" href="https://secure.ivona.com/account/register.php" onclick="track('Link', 'Click', 'ivona.all.register');"><strong>Register</strong></a>
+						<span class="r pl10 pr10">|</span>
+						<a class="r " href="https://secure.ivona.com/account/login.php" onclick="track('Link', 'Click', 'ivona.all.header_log_in');"><strong>Log in</strong></a>
+						
 
 		 </div>
 			</div>
@@ -298,15 +313,7 @@ pageTracker._setDomainName(".ivona.com");
 					<script type="text/javascript">$("#companyTab").addClass("activeNavTab rtl rtr");</script>
 					</div>
 					
-					<div class="r pt0 tal w13 pr15">
-						<a href="http://www.ivona.com/us/news/results-of-text-to-speech-accuracy-study-2011/" class="nhu" style="font-weight:400; font-size:12px">
-						<span class="l"><span class="mt3 l  spriteClass" style="background:url(http://static.ivona.com/www/static/images/sprites/mainsprite5.png) no-repeat -166px -118px;width:15px;height:14px"></span></span>
-								<span style="margin-left:3px;">
-						
-						Text-to-Speech Accuracy Study 2011
-								</span>
-						</a>
-					</div>
+				  
 					
 					</div>
 					</div>
@@ -728,7 +735,7 @@ pageTracker._setDomainName(".ivona.com");
 
 		</div></div>
 	
-					
+		           	
 			<div id="Footer" class="k">
 			
                             <div class="cw pt5">
@@ -742,11 +749,11 @@ pageTracker._setDomainName(".ivona.com");
 								<div class="k tac pb5">
 									<h2 class="k"><a href="http://www.ivona.com/us/events/" class="b">Meet us at</a></h2>
 								</div>
-								<div class="k tac pb5 pl10"><a href="http://www.ivona.com/us/events/"><span class="l spriteClass" onmouseover="jQuery(this).css('background-position','-100px -80px')" onmouseout="jQuery(this).css('background-position','-100px -120px')" style="background:url(http://static.ivona.com/www/static/images/sprites/partnerssprite006.png) no-repeat -100px -120px;width:100px;height:40px" title="CSUN Conference 2013">CSUN Conference 2013</span></a>
+								<div class="k tac pb5 pl10"><a href="http://www.ivona.com/us/events/"><span class="l spriteClass" onmouseover="jQuery(this).css('background-position','-800px 0px')" onmouseout="jQuery(this).css('background-position','-800px -40px')" style="background:url(http://static.ivona.com/www/static/images/sprites/partnerssprite007.png) no-repeat -800px -40px;width:100px;height:40px" title="Telematics Munich 2013">Telematics Munich 2013</span></a>
 								</div>
-								<div class="k tac pb5 pl10"><a href="http://www.ivona.com/us/events/"><span class="l spriteClass" onmouseover="jQuery(this).css('background-position','-600px 0px')" onmouseout="jQuery(this).css('background-position','-600px -40px')" style="background:url(http://static.ivona.com/www/static/images/sprites/partnerssprite006.png) no-repeat -600px -40px;width:100px;height:40px" title="Call Center World 2013">Call Center World 2013</span></a>
+								<div class="k tac pb5 pl10"><a href="http://www.ivona.com/us/events/"><span class="l spriteClass" onmouseover="jQuery(this).css('background-position','-600px -80px')" onmouseout="jQuery(this).css('background-position','-600px -120px')" style="background:url(http://static.ivona.com/www/static/images/sprites/partnerssprite007.png) no-repeat -600px -120px;width:100px;height:40px" title="Blizzard Challenge 2013">Blizzard Challenge 2013</span></a>
 								</div>
-								<div class="k tac pb5 pl10"><a href="http://www.ivona.com/us/events/"><span class="l spriteClass" onmouseover="jQuery(this).css('background-position','-500px -80px')" onmouseout="jQuery(this).css('background-position','-500px -120px')" style="background:url(http://static.ivona.com/www/static/images/sprites/partnerssprite006.png) no-repeat -500px -120px;width:100px;height:40px" title="BETT 2013">BETT 2013</span></a>
+								<div class="k tac pb5 pl10"><a href="http://www.ivona.com/us/events/"><span class="l spriteClass" onmouseover="jQuery(this).css('background-position','-700px -80px')" onmouseout="jQuery(this).css('background-position','-700px -120px')" style="background:url(http://static.ivona.com/www/static/images/sprites/partnerssprite007.png) no-repeat -700px -120px;width:100px;height:40px" title="Interspeech 2013">Interspeech 2013</span></a>
 								</div></div>	
                                     </div>
 
@@ -761,8 +768,6 @@ pageTracker._setDomainName(".ivona.com");
                                                 <li><a class="n" href="http://www.ivona.com/us/company/" onclick="track('Link', 'Click', 'ivona.all.footer_company');">Company</a></li>
                                                 <li><a class="n" href="http://www.ivona.com/us/technology/" onclick="track('Link', 'Click', 'ivona.all.footer_technology');">Technology</a></li>
                                                 <li><a class=" n" href="http://developer.ivona.com" onclick="track('Link', 'Click', 'ivona.all.footer_cooperation');">For Developers</a></li>														
-                                                <li><a class="n" href="http://www.ivona.com/us/products/" onclick="track('Link', 'Click', 'ivona.all.footer_products');">Products</a></li>													
-                                                <li><a class="n" href="http://www.ivona.com/us/licenses/" onclick="track('Link', 'Click', 'ivona.all.footer_license');">Licenses</a></li>
                                                 <li><a class="n" rel="nofollow" href="https://secure.ivona.com/order/?lang=us" onclick="track('Link', 'Click', 'ivona.all.footer_shop');">Shop</a></li>													
                                                 </ul>
                                         </div>
@@ -771,14 +776,14 @@ pageTracker._setDomainName(".ivona.com");
                                         <div class="l w14">
                                                 <h2><a class="b" href="http://www.ivona.com/us/for-business/">For Business</a></h2>
                                                 <ul class="l w14 fs11">
-                                                <li><a class="n" href="http://www.ivona.com/us/sdk/">SDK</a></li><li><a class="n" href="http://www.ivona.com/us/saas/">Speech Cloud (SaaS)</a></li><li><a class="n" href="http://www.ivona.com/us/speech-server/">Speech Server</a></li><li><a class="n" href="http://www.ivona.com/us/telecom/">Telecom</a></li><li><a class="n" href="http://www.ivona.com/us/studio/">Studio</a></li><li><a class="n" href="http://www.ivona.com/us/recordings/">Recordings</a></li><li><a class="n" href="http://www.ivona.com/us/custom-voice/">Voice Branding</a></li>
+                                                <li><a class="n" href="http://www.ivona.com/us/sdk/">SDK</a></li><li><a class="n" href="http://www.ivona.com/us/saas/">Speech Cloud (SaaS)</a></li><li><a class="n" href="http://www.ivona.com/us/speech-server/">Speech Server</a></li><li><a class="n" href="http://www.ivona.com/us/telecom/">Telecom</a></li><li><a class="n" href="http://www.ivona.com/us/studio/">Studio</a></li><li><a class="n" href="http://www.ivona.com/us/custom-voice/">Voice Branding</a></li>
                                                 </ul>
                                         </div>
 
                                         <div class="l w15">
                                                 <h2><a class="b" href="http://www.ivona.com/us/for-you/">For Individuals</a></h2>
                                                 <ul class="k fs11">
-                                                <li><a class="n" href="http://www.ivona.com/us/voices/">Voices for Windows</a></li><li><a class="n" href="https://market.android.com/details?id=com.ivona.tts&amp;referrer=utm_source%3Daffilate%26utm_medium%3Dcpa%26utm_campaign%3Divona">Voices for Android</a></li><li><a class="n" href="http://www.ivona.com/us/reader/">Text Reader</a></li><li><a class="n" href="http://www.ivona.com/us/accessibility/">Accessibility</a></li><li><a class="n" href="http://www.ivona.com/us/mini-reader/">MiniReader</a></li><li><a class="n" href="http://www.ivona.com/us/recordings/">Recordings</a></li>
+                                                <li><a class="n" href="http://www.ivona.com/us/voices/">Voices for Windows</a></li><li><a class="n" href="https://market.android.com/details?id=com.ivona.tts&amp;referrer=utm_source%3Daffilate%26utm_medium%3Dcpa%26utm_campaign%3Divona">Voices for Android</a></li><li><a class="n" href="http://www.ivona.com/us/reader/">Text Reader</a></li><li><a class="n" href="http://www.ivona.com/us/accessibility/">Accessibility</a></li><li><a class="n" href="http://www.ivona.com/us/mini-reader/">MiniReader</a></li>
 
                                                 </ul>
                                         </div>
@@ -823,8 +828,8 @@ pageTracker._setDomainName(".ivona.com");
 								"boxErrorId" : "newsletter_modal_box_error",
 								"boxSessionId" : "newsletter_modal_box_session",							
 								"modalErrorId" : "newsletter_modal_error",
-								"token1" : "add7a317bbe96f4207587d27edc5c87304b",
-								"token2" : "37d72ddcdf47be25e7421fa55dd40f07"
+								"token1" : "add43d9a02ffcb421c2308c479fdc3a9afc",
+								"token2" : "93b80532428d4d40a9dd2661865faabf"
 							}
 							if( "Enter your e-mail address..." != $("#newsletter_email").attr("value") && "" != $("#newsletter_email").attr("value") ) {
 								newsletter_modal(nfConfigArr); 
@@ -957,7 +962,22 @@ pageTracker._setDomainName(".ivona.com");
 				<div class="k mt20  tac fs11" style="color:#777">
 					© 2004-2013 IVONA Software
 				</div>
-				</div>
+				</div>  
+				
+				
+				<div class="k fs11" style="padding-bottom:20px;">
+                <div class="mainWrapper">
+                <div class="p10 pl10 pr10" style="color:#777">
+
+
+
+                    
+                    Please be informed that on 1st October 2013 IVONA Software sp. z o.o. (“IVONA”) has released new Terms of Use which governs your use of this and other websites controlled by IVONA. Those new terms of use are adjusted accordingly with the changes to the Polish law. For more details please click <a href="http://www.ivona.com/us/terms/">here</a>. 
+                    
+                </div>
+                </div>
+                </div>
+                
 			
 				</div>
                                 
