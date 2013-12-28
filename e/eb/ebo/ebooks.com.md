@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508054325id_/http%3A//www.ebooks.com/information/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228142958id_/http%3A//www.ebooks.com/information/privacy.asp) for the most accurate reproduction.*
 
 # Help - Privacy
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.ebooks.com&sealid=101)
-
 (Last Updated: Sept 27, 2007)
 
-eBooks Corporation is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [eBooks.com](http://www.ebooks.com/). Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+[](https://privacy.truste.com/privacy-seal/ebooks-com/validation?rid=da23d787-f1d9-42a3-8e55-7c83ca6e0245 "TRUSTe online privacy certification")
+
+eBooks.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, third-party organization whose mission is to increase online trust by promoting the use of fair information practices. This privacy statement covers the site [eBooks.com](http://www.ebooks.com/). Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact Customer Service by email at privacy@ebooks.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe (<http://www.truste.org/consumers/watchdog_complaint.php>). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
@@ -17,7 +17,7 @@ eBooks.com respects your privacy. As we develop our online presence, we will rev
 
 ## Collection of Personal Information
 
-eBooks Corporation is the sole owner of the information collected on eBooks.com. eBooks Corporation collects personally identifiable information from our users at several different points on our Web site.
+eBooks.com is the sole owner of the information collected on eBooks.com. eBooks.com collects personally identifiable information from our users at several different points on our Web site.
 
 If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and billing address) and financial information (such as credit card number, expiration date).
 
@@ -111,11 +111,11 @@ By default, credit card details are encrypted and stored for use with future pur
 
 ## TELL-A-FRIEND
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Ebooks Corporation does not store this information. 
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Ebooks.com does not store this information. 
 
 ## Links to Other Sites
 
-This Web site contains links to other sites that are not owned or controlled by eBooks Corporation. Please be aware that we, eBooks Corporation, are not responsible for the privacy practices of such other sites.
+This Web site contains links to other sites that are not owned or controlled by eBooks.com. Please be aware that we, eBooks.com, are not responsible for the privacy practices of such other sites.
 
 We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
 
@@ -127,7 +127,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ## Business Transitions
 
-In the event that eBooks Corporation goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via a notice on our Web site for 30 days of any such change in ownership or control of your personal information. 
+In the event that eBooks.com goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via a notice on our Web site for 30 days of any such change in ownership or control of your personal information. 
 
 ## Contact Us
 
@@ -136,6 +136,6 @@ Ph: 617-249-0460
 Fax: 617-249-0460  
 privacy@ebooks.com   
 Level 1, 62 Bayview Terrace  
-Claremont WA 6009  
+Claremont WA 6010  
 Australia  
 
