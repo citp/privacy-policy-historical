@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the powerprofitlist.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628234237id_/http%3A//powerprofitlist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerprofitlist.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228115954id_/http%3A//www.powerprofitlist.com/privacy.php) for the most accurate reproduction.*
 
 # Power Up Your List and Your Profits!
 
-[](http://powerprofitlist.com/bannerclick.php?id=11319)  
+[](http://powerprofitlist.com/bannerclick.php?id=10832)  
 
 
 Power Profit List Privacy Policy
