@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acra.gov.sg privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617204138id_/http%3A//www.acra.gov.sg/Government%2Bof%2BSingapore%2BPrivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acra.gov.sg privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228181609id_/http%3A//www.acra.gov.sg/Government%2Bof%2BSingapore%2BPrivacy.htm) for the most accurate reproduction.*
 
 # Accounting and Corporate Regulatory Authority Singapore
 
