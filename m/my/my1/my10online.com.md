@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my10online.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530065418id_/http%3A//my10online.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my10online.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228171718id_/http%3A//my10online.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | My10Online
 
