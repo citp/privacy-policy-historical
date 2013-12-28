@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nonstoptrafficformula.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629074400id_/http%3A//www.nonstoptrafficformula.com/disclaimers/2799) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nonstoptrafficformula.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228110158id_/http%3A//www.nonstoptrafficformula.com/disclaimers/2799) for the most accurate reproduction.*
 
 # 
 
