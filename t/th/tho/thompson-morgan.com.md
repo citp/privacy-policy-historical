@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thompson-morgan.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521102823id_/http%3A//www.thompson-morgan.com/cookies-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thompson-morgan.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228134955id_/http%3A//www.thompson-morgan.com/cookies-privacy-policy) for the most accurate reproduction.*
 
-# Cookies & Privacy Policy | Thompson & Morgan
+# Thompson & Morgan - Security & Privacy Policy
 
 Thompson & Morgan take online security very seriously and are committed to protecting the personal information of our customers. Our Cookie and Privacy Policy gives more information on how we collect and use this information to provide an enhanced online experience. This policy also explains your options relating to the collection, use and disclosure of your personal details. You can visit this Site without disclosing any personal information, however, by visiting our Site, you accept the practices outlined in this policy. If you do not agree to us acquiring or using your personal information in accordance with this policy then you should not submit information to us through this Site. This policy does not necessarily apply to our offline collection of your personal information. Please see below for more details. We are not responsible for the content or privacy practices on any Site to which this Site links or that links to this Site.
 
