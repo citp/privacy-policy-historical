@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the platform161.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531153441id_/http%3A//platform161.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platform161.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228114642id_/http%3A//platform161.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Cookie and privacy policy - Platform161
 
@@ -82,8 +82,8 @@ We also provide you with the possibility to no longer accept Platform161’s coo
 
 To opt-out or opt-in, please click on the corresponding link below:
 
-  * [Opt-out →](http://ads.p161.net/opt-out)
-  * [Opt-in →](http://ads.p161.net/opt-in)
+  * [Opt-out →](http://ads.creative-serving.com/opt-out)
+  * [Opt-in →](http://ads.creative-serving.com/opt-in)
 
 
 
