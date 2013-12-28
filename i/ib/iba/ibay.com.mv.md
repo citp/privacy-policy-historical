@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the ibay.com.mv privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629153720id_/http%3A//www.ibay.com.mv/pg-privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibay.com.mv privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228110205id_/http%3A//www.ibay.com.mv/pg-privacystatement.html) for the most accurate reproduction.*
 
 # Buy & Sell on Maldives No.1 Trade Website | ibay - Privacy Statement
 
 **Privacy Statement**  
 
 
-We respect your privacy. All the information collected on this site will be kept strictly confidential and will not be sold, reused, rented, disclosed, or loaned. Any information you give us will be held with the utmost care and will not be used in ways that you have not consented to. If you have any questions, please [ Contact Us](http://ibay.com.mv/help/index.php?a=add). This Privacy Statement is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
+We respect your privacy. All the information collected on this site will be kept strictly confidential and will not be sold, reused, rented, disclosed, or loaned. Any information you give us will be held with the utmost care and will not be used in ways that you have not consented to. If you have any questions, please [ Contact Us](http://support.ibay.com.mv/index.php?a=add). This Privacy Statement is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
 
 **What Information Do We Collect?**  
 When you visit our web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and web site use information collected on an aggregate basis as you and others browse our web site.
@@ -21,7 +21,7 @@ _**Web Site Use Information
 **_Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed and time spent at our Web site. 
 
 **How Do We Use the Information That You Provide Us?  
-**Generally, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our web site, new services and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by [ Contacting Us](http://ibay.com.mv/help/index.php?a=add)
+**Generally, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our web site, new services and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by [ Contacting Us](http://support.ibay.com.mv/index.php?a=add)
 
 **What Are Cookies?  
 **A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
