@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncsoft.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515085703id_/http%3A//us.ncsoft.com/en/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncsoft.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228180432id_/http%3A//us.ncsoft.com/en/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -180,7 +180,7 @@ We encourage you to investigate and ask questions before disclosing information 
 
 ##  6\. How users can correct any inaccuracies in the Personal Information
 
-To review and update your Personal Information stored with NCSOFT, please [access your account](https://login.ncsoft.com/login/loginform).
+To review and update your Personal Information stored with NCSOFT, please [access your account](https://secure.ncsoft.com/login).
 
 If you change your mind and do not want to receive e-mails from us and/or to have us share your name and e-mail address (or other personal information) with third parties, you may send an e-mail to us at [support@ncsoft.com](mailto:support@ncsoft.com).
 
