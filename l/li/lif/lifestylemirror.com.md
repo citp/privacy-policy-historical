@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifestylemirror.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606224310id_/http%3A//www.lifestylemirror.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifestylemirror.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228202135id_/http%3A//www.lifestylemirror.com/privacy_policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Lifestyle Mirror
 
@@ -6,7 +6,7 @@ The Company is committed to protecting your personal privacy. We provide this no
 
 When visiting this Website, you may be asked questions the answers to which are collected on an aggregate basis (i.e., the answers will not be stored in a manner that identifies them with you personally) and these questions will be identified as such on this Website. In all other instances, you should assume that we will track any information you provide on a personally identifiable basis.
 
-When you register with this Website, you can elect to receive information and updates on our products and services and those of our subsidiaries, affiliates, and parent companies and any of their related businesses. Information will not be used for this purpose unless you request to receive such material.
+When you register and/or set up an profile enter a sweepstakes or contest, complete a survey on this Website, we might use the contact information provided to provide you with content from our site, announce special offers, services and other announcements from our Website or our selected business partners. You may, at any time, elect to remove yourself from these emails. Additionally, we might request you to elect to receive information and updates from our subsidiaries, affiliates, business partners, advertisers and parent companies and any of their related businesses. 
 
 Registration may be required to be eligible to enter online contests or sweepstakes. The Company may use the information you provide when registering to fulfill prizes, which may include disclosure to third party entities that assist with such fulfillment, and for other marketing and promotional purposes related to the contests or sweepstakes as disclosed on the rules applicable to a particular contest or sweepstakes.
 
