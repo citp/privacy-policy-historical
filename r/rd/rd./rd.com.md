@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rd.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613021611id_/http%3A//www.rd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rd.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228021759id_/http%3A//www.rd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reader's Digest
 
@@ -12,7 +12,9 @@ Some functions and services offered through RD sites require that you provide ce
 
 We may use your personally identifiable information and other information we collect about you for purposes described in this policy or disclosed to you on RD sites or in connection with our services. For example, we may use your information to:
 
-• operate and improve RD sites, products and services; • understand you and your preferences to enhance your experience and enjoyment using RD sites, products and services; • process and deliver contest entries and rewards; • respond to your comments and questions and provide customer service; • provide and deliver products and services you request; • send you related information, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages; • communicate with you about new contests, promotions and rewards, upcoming events, and other news about products and services offered by Reader’s Digest and our selected partners; • link or combine it with other personal information we get from third parties, to help understand your needs and provide you with better service; • investigate and take action against fraudulent or illegal activity or improper conduct.
+• operate and improve RD sites, products and services;
+
+• understand you and your preferences to enhance your experience and enjoyment using RD sites, products and services; • process and deliver contest entries and rewards; • respond to your comments and questions and provide customer service; • provide and deliver products and services you request; • send you related information, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages; • communicate with you about new contests, promotions and rewards, upcoming events, and other news about products and services offered by Reader’s Digest and our selected partners; • link or combine it with other personal information we get from third parties, to help understand your needs and provide you with better service; • investigate and take action against fraudulent or illegal activity or improper conduct.
 
 Reader’s Digest may save your credit card information for use when you log in to make future purchases.
 
@@ -20,7 +22,9 @@ Reader’s Digest may store and process personal information in the United State
 
 **Sharing of Personally Identifiable Information**
 
-Reader’s Digest may share your PII for the following purposes and under the following circumstances. . • We may share your PII with our affiliates, our technical consultants, third-party auditors and other third parties who act on our behalf, for example, to make RD sites available, enhance their functionality, or provide associated services and/or who deal with you in delivering content, samples, products, and gifts and prizes, have access to and may use this information to provide us with services.
+Reader’s Digest may share your PII for the following purposes and under the following circumstances.
+
+• We may share your PII with our affiliates, our technical consultants, third-party auditors and other third parties who act on our behalf, for example, to make RD sites available, enhance their functionality, or provide associated services and/or who deal with you in delivering content, samples, products, and gifts and prizes, have access to and may use this information to provide us with services.
 
 • Occasionally, Reader’s Digest may make names and postal addresses we collect through the RD sites along with certain other information about you such as your interest in particular health or lifestyle topics available to reputable companies whose products and/or services may interest you, unless you opt out of being included in our postal mailing list. (See the section below on opting out of postal mailings).
 
@@ -42,7 +46,7 @@ You can also change your promotional and newsletter email preferences by [clicki
 
 If you opt-out of promotional or newsletter emails from Reader’s Digest, we may continue to send you certain communications such as service announcements and administrative messages, relating to Reader’s Digest and rd.com that are necessary to our relationship with you.
 
-For all other requests for changes relating to your PII, including opting out of postal mail, telemarketing calls, and our sharing PII with our partners, contact customer service at [rdservice@custhelp.com](mailto:rdservice@custhelp.com) or at:
+For all other requests for changes relating to your PII, including opting out of postal mail, telemarketing calls, and our sharing PII with our partners, contact customer service at [customercare@rd.com](mailto:customercare@rd.com) or at:
 
 Reader’s Digest PO Box 6095 Harlan, IA 51593
 
@@ -80,7 +84,7 @@ Please note that no data transmission over the Internet is 100% secure. As a res
 
 **Notice to EU Visitors**
 
-RDA has registered for Safe Harbor certification with the US Department of Commerce. [Click here](http://www.rd.com/safe-harbor-privacy-policy/) to see our Safe Harbor Privacy Policy.
+RDA has registered for Safe Harbor certification with the US Department of Commerce. [Click here](http://www.rd.com/safe-harbor-privacy-policy/%3Cbr%20/%3E) to see our Safe Harbor Privacy Policy.
 
 **Privacy Policy Changes**
 
