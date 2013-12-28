@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nesn.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609232815id_/http%3A//nesn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nesn.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228234719id_/http%3A//nesn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NESN.com
-
-Privacy Policy
 
 Thank you for visiting nesn.com, a New England Sports Network LP, site. Your privacy is important to us. To better protect your privacy, we provide this statement explaining our online information practices and the choices you can make about the way your information is collected and used at this NESN site.
 
@@ -113,8 +111,8 @@ We and our advertisers may use third parties to serve or present the ads that ap
   * Atlas DMT: [http://www.networkadvertising.org](http://www.networkadvertising.org/) or <http://www.atlasdmt.com/privacy/>
   * Advertising.com: [http://www.advertising.com/privacy_policy.php ](http://www.advertising.com/privacy_policy.php)
   * Bluestreak: <http://www.bluestreak.com/web/aboutus_privacypolicy.htm>
-  * DoubleClick: [http://www.networkadvretising.org](http://www.networkadvretising.org/) or <http://www.doubleclick.com/us/corporate/privacy>
-  * Eyeblaster: <http://www.eyebalster.com/site/privacy_policy_down.htm>
+  * DoubleClick: [http://www.networkadvertising.org](http://www.networkadveetising.org/) or <http://www.doubleclick.com/us/corporate/privacy>
+  * Eyeblaster: [http://www.eyebalster.com/site/privacy_policy_down.htm](http://www.eyeblaster.com/site/privacy_policy_down.htm)
   * EyeWonder: <http://www.eyewonder.com/about/privacy.cfm>
   * Dynamic Logic: <http://www.dynamiclogic.com/privacy_policy.php>
   * Klipmart: <http://www.klipmar.com/privacy.html>
