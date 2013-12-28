@@ -1,0 +1,583 @@
+<!--The following is the downloaded HTML source of the swol.co privacy policy that was archived on 2013-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131228095939id_/http%3A//swol.co/s/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" class=" js csstransitions"><!--<![endif]--><head>
+    <title>Privacy Policy | SWOL</title>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8">
+    <meta name="keywords" content="SWOL, Soccer, Football, Futbol, Without Limits, Soccer Transfer, Soccer News, Soccer Analysis, Soccer Fantasy, Fantasy Challenge, Social">
+    <meta name="author" content="SWOL - Soccer Without Limits">
+    <meta name="google-translate-customization" content="c1ab97751943d20-37ab4a2ecb1eb875-g30fe8e47fa952055-7">
+    <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="/static/img/SWOL_Striker_Black.jpg">
+    <link rel="apple-touch-icon" sizes="114x114" href="/static/img/SWOL_Striker_Black.jpg">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <noscript><link rel="stylesheet" href="/static/css/theme/no-js.css"></noscript> <!-- If JavaScript Disabled -->
+
+    <!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+    <link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Bitter" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+    
+    
+    <meta name="layout" content="theme">
+    
+
+    <script async="" type="text/javascript" src="//108050.hittail.com/mlt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script src="/static/plugins/jquery-1.8.3/js/jquery/jquery-1.8.3.min.js" type="text/javascript"></script>
+<link href="/static/plugins/jquery-ui-1.8.24/jquery-ui/themes/ui-lightness/jquery-ui-1.8.24.custom.css" type="text/css" rel="stylesheet" media="screen, projection">
+<script src="/static/plugins/jquery-ui-1.8.24/jquery-ui/js/jquery-ui-1.8.24.custom.min.js" type="text/javascript"></script>
+<link href="/static/bundle-bundle_bootstrap_head.css" type="text/css" rel="stylesheet" media="screen, projection">
+
+<link href="/static/css/theme/swol.css" type="text/css" rel="stylesheet" media="screen, projection">
+<link href="/static/bundle-bundle_theme_head.css" type="text/css" rel="stylesheet" media="screen, projection">
+
+
+
+
+
+    <script type="text/javascript">
+        $(function() {
+            var firstName = $( "#firstName" ),
+                    lastName = $( "#lastName"),
+                    email = $( "#email" ),
+                    allFields = $( [] ).add( firstName ).add(lastName).add( email ),
+                    tips = $( ".validateTips");
+
+            function updateTips( t ) {
+                tips
+                        .text( t )
+                        .addClass( "ui-state-highlight" );
+                setTimeout(function() {
+                    tips.removeClass( "ui-state-highlight", 1500 );
+                }, 500 );
+            }
+
+            function checkLength( o, n, min, max ) {
+                if ( o.val().length > max || o.val().length < min ) {
+                    o.addClass( "ui-state-error" );
+                    updateTips( "Length of " + n + " must be between " +
+                            min + " and " + max + "." );
+                    return false;
+                } else {
+                    return true;
+                }
+            }
+
+            function checkRegexp( o, regexp, n ) {
+                if ( !( regexp.test( o.val() ) ) ) {
+                    o.addClass( "ui-state-error" );
+                    updateTips( n );
+                    return false;
+                } else {
+                    return true;
+                }
+            }
+
+            function checkTerms() {
+                if (!document.getElementById("termscheck").checked){
+                    alert('Please read through the Terms & Conditions and acknowledge them.');
+                    return false;
+                } else {
+                    return true;
+                }
+            }
+
+            var my_dialog = $( "#dialog-form" ).dialog({
+                autoOpen: false,
+                width: 320,
+                height: 460,
+                modal: true,
+                resizable: false,
+                create: function(event, ui)
+                {
+                    $(this).parents(".ui-dialog:first").find(".ui-dialog-titlebar").css("display","none");
+                }
+            });
+
+            $( "#signup-btn" )
+                    .click(function() {
+                        $( "#dialog-form" ).dialog( "open" );
+                    });
+
+            $( "#signup-link" )
+                    .click(function() {
+                        $( "#dialog-form" ).dialog( "open" );
+                    });
+
+            $( "#signupclose").click(function() {
+                $( "#dialog-form" ).dialog( "close" );
+            });
+
+            $('a[href$="/login/index"]').attr('href', function() {
+                return $('a[href$="/login/index"]').attr('href') + "?goto=" + $(location).attr('href');
+            });
+
+            $("div.dialogButtons div button:nth-child(1)").addClass("btn");
+
+            $('#main-navigation > ul').mobileMenu({ // Create a main navigation menu for the responsive navigation
+                defaultText: 'Please select one option....',
+                className: 'slect-main-nav',
+                subMenuDash: '&mdash;'
+            });
+
+            $("#main-navigation select").change(function() { // Make the drop-down work
+                window.location = $(this).find("option:selected").val();
+            });
+
+            /* Back to top scroll */
+            $(window).scroll(function(){
+                if ($(this).scrollTop() > 100) { $('.scrollup').slideDown(); } else { $('.scrollup').slideUp(); }
+            });
+            $('.scrollup').click(function(){
+                $("html, body").stop().animate({ scrollTop: 0 }, 2000, 'easeInOutExpo');
+                return false;
+            });
+        });
+
+    </script>
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
+<body>
+
+
+    <div id="fb-root"></div>
+    <script>
+        window.fbAsyncInit = function() {
+            FB.init({
+                appId      : '544645882249510', // App ID
+                channelUrl : 'http://swol.co/channel.html', // Channel File
+                status     : true,
+                cookie     : true,
+                xfbml      : true,
+                oauth      : true
+            });
+        };
+        (function(d){
+            var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+            js = d.createElement('script'); js.id = id; js.async = true;
+            js.src = "//connect.facebook.net/en_US/all.js";
+            d.getElementsByTagName('head')[0].appendChild(js);
+        }(document));
+
+        //LOGIN FUNCTION
+        function login() {
+            FB.login(function(response) {
+                if (response.authResponse) {
+                    FB.api('/me', function(apiResp) {
+                        $.ajax({
+                            url: '/profile/persistFB',
+                            type: 'POST',
+                            contentType: 'application/json',
+                            data: JSON.stringify(apiResp),
+                            dataType:'json'
+                        });
+
+                        $('#firstName').val(apiResp.first_name);
+                        $('#lastName').val(apiResp.last_name);
+                        $('#email').val(apiResp.email);
+                        $('#termscheck').attr('checked', true);
+                        $('#authToken').val(response.authResponse.accessToken);
+                        $('#fbusername').val(apiResp.username);
+                        $('#signup-form').submit();
+                    });
+                }else{
+                    alert('Login Failed!');
+                }
+            }, {scope: 'email,user_likes'});
+        }
+    </script>
+
+    <!-- Start Alexa Certify Javascript -->
+    <script type="text/javascript">
+        _atrk_opts = { atrk_acct:"Qv2Qh1aon800yB", domain:"swol.co",dynamic: true};
+        (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+    </script>
+    <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=Qv2Qh1aon800yB" style="display:none" height="1" width="1" alt="" /></noscript>
+    <!-- End Alexa Certify Javascript -->
+
+<div class="theme-layout"> <!-- Stretched/Boxed Layout -->
+    
+<div id="top-navigation" class="theme-layout" style="position: fixed;">
+    
+    <div class="pull-right" style="padding-top: 5px;">
+        <a href="/login/index?goto=https://web.archive.org/web/20131228095939id_/http%3A//swol.co/s/privacy" name="swol-login" class="swolbtn btn-group blue"><i class="icon-trophy"></i> Login</a>&nbsp; or <a href="#" id="signup-btn" class="swolbtn btn-group"><i class="icon-user"></i> Sign Up</a>
+    </div>
+
+
+
+    
+
+    <div class="pull-left" style="padding: 5px 5px 0px 0px;">
+        <a href="/post/chooseType" class="swolbtn btn-group"><i class="icon-pencil"></i> Write an Article!</a>
+    </div>
+
+    <div class="pull-left" style="padding: 5px 5px 0px 0px;">
+        <form action="/page/search" method="post" name="searchForm" style="margin: 0px;" id="searchForm">
+            <input type="text" name="q" placeholder="Search SWOL" value="" id="q" class="ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+        </form>
+    </div>
+
+     <!-- End Container -->
+</div> <!-- End Top-Navigation -->
+
+<script type="text/javascript">
+    $(function() {
+        $('#notify-circle').click(function() {
+            $('#notify-ul').toggle();
+        });
+        $('#primary-container').click(function() {
+            $('#notify-ul').hide();
+        });
+
+        $( "#q" ).autocomplete({
+            source: function( req, add ) {
+                var host = window.location.protocol + "//" + window.location.host
+                if (host.indexOf('localhost') >= 0)
+                    host = host + '/swol_co'
+                var uri = host + "/page/lookahead"
+                $.getJSON(uri, req, function(data) {
+                    var suggestions = [];
+                    $.each(data, function(i, val) {
+                        suggestions.push({
+                            label: val.display,
+                            link: val.link
+                        });
+                    });
+                    add(suggestions);
+                });
+            },
+            minLength: 2,
+            select: function(event, ui) {
+                window.location.href = ui.item.link
+            }
+        });
+    });
+</script>
+
+    <div id="primary-container" class="container">
+        <header id="header" class="row-fluid clearfix">
+
+            <!-- Logo -->
+            <div id="swol-logo" class="span4 logo pull-left">
+            <a href="/"><img src="/static/img/SWOL_Striker_text_Black.png" width="320px;" alt="SWOL"></a>
+            </div>
+
+            <div id="swol-logo-right" class="span8">
+                
+    <!-- BEGIN JS TAG -  ROS 728x90 < - DO NOT MODIFY -->
+    <script src="http://ads.q1media.com/ttj?id=1878920" type="text/javascript"></script>
+    <!-- END TAG -->
+
+            </div>
+
+        </header> <!-- End Header -->
+
+        <nav id="main-navigation" class="clearfix">
+            <ul>
+                
+                    
+                    
+                        <li class="dropdown">
+                            <a href="#">Countries <b class="caret"></b></a>
+                            <ul class="sub-menu">
+                                
+                                    <li><a href="/c/England">England</a></li>
+                                
+                                    <li><a href="/c/Spain">Spain</a></li>
+                                
+                                    <li><a href="/c/Germany">Germany</a></li>
+                                
+                                    <li><a href="/c/Italy">Italy</a></li>
+                                
+                                    <li><a href="/c/France">France</a></li>
+                                
+                                    <li><a href="/c/Portugal">Portugal</a></li>
+                                
+                                    <li><a href="/c/USA">USA</a></li>
+                                
+                                    <li><a href="/c/Mexico">Mexico</a></li>
+                                
+                            </ul>
+                        </li>
+                    
+                
+                    
+                    
+                        <li class="dropdown">
+                            <a href="#">Tournaments <b class="caret"></b></a>
+                            <ul class="sub-menu">
+                                
+                                    <li><a href="/c/UEFA Champions League">UEFA Champions League</a></li>
+                                
+                                    <li><a href="/c/UEFA Europa League">UEFA Europa League</a></li>
+                                
+                                    <li><a href="/c/FA Cup">FA Cup</a></li>
+                                
+                                    <li><a href="/c/World Cup 2014">World Cup 2014</a></li>
+                                
+                                    <li><a href="/c/Other Tournaments">Other Tournaments</a></li>
+                                
+                            </ul>
+                        </li>
+                    
+                
+                    
+                    
+                        <li class="dropdown">
+                            <a href="#">Analysis <b class="caret"></b></a>
+                            <ul class="sub-menu">
+                                
+                                    <li><a href="/c/Lists">Lists</a></li>
+                                
+                                    <li><a href="/c/Pre-Match">Pre-Match</a></li>
+                                
+                                    <li><a href="/c/Post-Match">Post-Match</a></li>
+                                
+                                    <li><a href="/c/Team Transfer Analysis">Team Transfer Analysis</a></li>
+                                
+                            </ul>
+                        </li>
+                    
+                
+                    
+                    
+                        <li class="dropdown">
+                            <a href="#">Transfers <b class="caret"></b></a>
+                            <ul class="sub-menu">
+                                
+                                    <li><a href="/c/Transfer Rumors">Transfer Rumors</a></li>
+                                
+                                    <li><a href="/c/Emerging Talents">Emerging Talents</a></li>
+                                
+                            </ul>
+                        </li>
+                    
+                
+                    
+                    
+                        <li class="dropdown">
+                            <a href="#">Graphics and Video <b class="caret"></b></a>
+                            <ul class="sub-menu">
+                                
+                                    <li><a href="/c/Infographics">Infographics</a></li>
+                                
+                                    <li><a href="/c/Match Highlights">Match Highlights</a></li>
+                                
+                                    <li><a href="/c/Google Hangouts">Google Hangouts</a></li>
+                                
+                            </ul>
+                        </li>
+                    
+                
+                    
+                    
+                        <li class="dropdown">
+                            <a href="#">SWOciaL <b class="caret"></b></a>
+                            <ul class="sub-menu">
+                                
+                                    <li><a href="/c/Culture">Culture</a></li>
+                                
+                                    <li><a href="/c/Soccer For Good">Soccer For Good</a></li>
+                                
+                                    <li><a href="/c/Cribs, Cars, WAGS">Cribs, Cars, WAGS</a></li>
+                                
+                                    <li><a href="/c/Stadium Experiences">Stadium Experiences</a></li>
+                                
+                            </ul>
+                        </li>
+                    
+                
+                    
+                    
+                        <li><a href="/c/espanol">Español</a> </li>
+                    
+                
+            </ul><div class="select-nav"><select class="slect-main-nav"><option value="#">Please select one option....</option><option value="https://web.archive.org/web/20131228095939id_/http%3A//swol.co/s/privacy#">&nbsp;Countries </option><option value="https://web.archive.org/c/England">—&nbsp;England</option><option value="https://web.archive.org/c/Spain">—&nbsp;Spain</option><option value="https://web.archive.org/c/Germany">—&nbsp;Germany</option><option value="https://web.archive.org/c/Italy">—&nbsp;Italy</option><option value="https://web.archive.org/c/France">—&nbsp;France</option><option value="https://web.archive.org/c/Portugal">—&nbsp;Portugal</option><option value="https://web.archive.org/c/USA">—&nbsp;USA</option><option value="https://web.archive.org/c/Mexico">—&nbsp;Mexico</option><option value="https://web.archive.org/web/20131228095939id_/http%3A//swol.co/s/privacy#">&nbsp;Tournaments </option><option value="https://web.archive.org/c/UEFA%20Champions%20League">—&nbsp;UEFA Champions League</option><option value="https://web.archive.org/c/UEFA%20Europa%20League">—&nbsp;UEFA Europa League</option><option value="https://web.archive.org/c/FA%20Cup">—&nbsp;FA Cup</option><option value="https://web.archive.org/c/World%20Cup%202014">—&nbsp;World Cup 2014</option><option value="https://web.archive.org/c/Other%20Tournaments">—&nbsp;Other Tournaments</option><option value="https://web.archive.org/web/20131228095939id_/http%3A//swol.co/s/privacy#">&nbsp;Analysis </option><option value="https://web.archive.org/c/Lists">—&nbsp;Lists</option><option value="https://web.archive.org/c/Pre-Match">—&nbsp;Pre-Match</option><option value="https://web.archive.org/c/Post-Match">—&nbsp;Post-Match</option><option value="https://web.archive.org/c/Team%20Transfer%20Analysis">—&nbsp;Team Transfer Analysis</option><option value="https://web.archive.org/web/20131228095939id_/http%3A//swol.co/s/privacy#">&nbsp;Transfers </option><option value="https://web.archive.org/c/Transfer%20Rumors">—&nbsp;Transfer Rumors</option><option value="https://web.archive.org/c/Emerging%20Talents">—&nbsp;Emerging Talents</option><option value="https://web.archive.org/web/20131228095939id_/http%3A//swol.co/s/privacy#">&nbsp;Graphics and Video </option><option value="https://web.archive.org/c/Infographics">—&nbsp;Infographics</option><option value="https://web.archive.org/c/Match%20Highlights">—&nbsp;Match Highlights</option><option value="https://web.archive.org/c/Google%20Hangouts">—&nbsp;Google Hangouts</option><option value="https://web.archive.org/web/20131228095939id_/http%3A//swol.co/s/privacy#">&nbsp;SWOciaL </option><option value="https://web.archive.org/c/Culture">—&nbsp;Culture</option><option value="https://web.archive.org/c/Soccer%20For%20Good">—&nbsp;Soccer For Good</option><option value="https://web.archive.org/c/Cribs,%20Cars,%20WAGS">—&nbsp;Cribs, Cars, WAGS</option><option value="https://web.archive.org/c/Stadium%20Experiences">—&nbsp;Stadium Experiences</option><option value="https://web.archive.org/c/espanol">&nbsp;Español</option></select></div>
+        </nav> <!-- End Main-Navigation -->
+
+
+    
+
+    <div role="main">
+        <p></p><h4>Privacy Policy</h4><p>PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING </p><p>Effective: February 2013</p><p>This Privacy Policy is part of and incorporated into the terms and conditions found at http://www.soccerwithoutlimits.com/ (collectively, this “Agreement”). SWOL LLC (“SWOL,” “we,” “us,” or “our”) offers that website, including its content and site functionality; and related media and services that are or may become available through this website (the “Website”) to you, the user, subject to and conditioned on your acceptance of this Agreement. </p><p>By using the Website, you agree that you have read, understand, and are bound by this Agreement. We may, in our sole discretion, revise the Agreement from time to time by updating the Agreement, with the new terms taking effect on the date of posting. You should review the Agreement every time you use this Website as it is binding on you. IF YOU DO NOT INTEND TO ACCEPT THIS AGREEMENT, PLEASE DO NOT USE THIS SERVICE.</p><p>By using the Website, you signify your consent to the collection, use, and disclosure of your personal information in accordance with this Policy, which may be revised from time to time, with new terms taking effect on the date of posting. IF YOU DO NOT CONSENT TO THE COLLECTION, USE, AND DISCLOSURE OF YOUR PERSONAL INFORMATION IN ACCORDANCE WITH THIS POLICY, PLEASE DO NOT USE THE SERVICE. You must be 14 years or older to use the Website. </p><p>Application</p><p>This policy applies to the information you provide to SWOL through the Website. This policy does not apply to information collected by third parties linked in any way to the Website. We have no control over, and no responsibility or liability for, any third party’s collection, use, disclosure, or retention of the personal information that is provided directly to them, and that collection, use, disclosure, and retention is not subject to this policy.</p><p>Information Automatically Collected</p><p>The Website automatically collects certain information from users through the use of “cookies” and other tracking mechanisms. Information automatically collected may include, but is not limited to: your domain name and host for Internet access; the Internet address of the site from which you came; the date and time you access the Website; your computer or device’s IP address and information about its operating system, browser and host; and your geographic location. We may use this information for any lawful purpose, including, for example, using your IP address to help diagnose problems with our server, to administer the Website, to help identify you and to gather broad demographic data. </p><p>Information That You Manually Provide</p><p>It is your choice whether to provide personal information to SWOL. Some information must be provided in order to participate in certain services, features, programs or activities, so the decision not to provide information might limit or eliminate certain functions of the Website or the ability to participate. The types of personal information that SWOL tends to request about you include, but are not limited to: your first and last name, email address, and mailing address. Additionally, SWOL allows users to create a SWOL Profile, which allows, but does not require, you to upload profile information (“Profile Information), including a photograph, personal information of your choosing, your date of birth, location, social media information, and other information. Other users may see your Profile Information. There may be other opportunities to provide information on the Website that will be available to other users of the Website; these opportunities require your good judgment. It is your responsibility not to provide personal information about yourself that could be misused by others in a chat room, bulletin board, blog or similar forum. Do not provide personal information about others without their permission. </p><p>Do Not Provide Information About Others</p><p>Do not provide personal information about others unless you are authorized or required to do so by applicable law or contract. Before supplying personal information about others, you and the person about whom you supply the information must review and consent to the Agreement. By submitting any personal information about others, you represent and warrant that you are authorized to do so and that you have made the Agreement available to the person about whom you supply the information. If applicable law allows you to supply the information without doing the foregoing, you represent and warrant that you have abided by that law and that it allows us to receive and disclose the information under this Privacy Policy without any further action on our part. You agree to indemnify, defend and hold harmless SWOL, its affiliates, parents, subsidiaries, officers, directors, managers, managing members, members, employees and agents, sponsors and supporting artists, licensors, suppliers, and associates for any failure by you to comply with this paragraph. </p><p>Use of Information</p><p>SWOL may use information collected on the Website, which may include information gathered about you, for various purposes. In general, SWOL uses personal information it collects to pursue our mission and operations, including the management of our Website and to engage in related activities. You should assume that we will use all information for all lawful purposes. </p><p>We reserve the right, but do not undertake a duty, to notify you of court orders, subpoenas or other legal process if allowed. If you do not want us to respond to legal process compelling us to disclose your information, you need to seek a valid order permitting us to refuse to disclose it and serve the order on us at least three (3) business days before the response deadline.</p><p>We reserve the right to use, disclose, retain, share, sell and otherwise deal with all information collected via the Website internally or to third parties, for any lawful purpose or to prevent harm to us or others. For example, and without limitation, in our discretion we may: </p><ul><li>Disclose information to service providers and others in order to deal with requests and questions from you; to personalize or enhance transactions; to verify, process, store, enforce, investigate and/or collect actual or potential transactions; and to assist or respond to our consultants (including auditors and lenders); </li><li>Disclose information to government regulators, law enforcement authorities or alleged victims of identify theft, as well as voluntary disclosures; and</li><li>Disclose any matter relating to the Website or your account not listed in this Privacy Policy, but which is not prohibited by law from being disclosed.</li></ul><p>We do not purport to have listed all possible disclosures that we might make. This Privacy Policy is intended to help you understand our general practices. This Privacy Policy is not a promise that your information will never be disclosed except as described above. For example, third parties may unlawfully intercept or access information transmitted to or contained on the Website, technologies may malfunction or not work as anticipated, or someone might access, abuse or misuse information, despite a lack of permission. Although we use what we believe to be commercially reasonable practices to protect your privacy, that does not mean, and you should not expect it to mean, that your information or communications will always be private or protected.</p><p>We generally will retain information for as long as required, allowed or for as long as we believe it useful. If you cease using the Website, or your permission to use the Website is terminated, we may continue to use and disclose your personal information in accordance with this Policy as amended from time to time. We do not undertake retention obligations through this Privacy Policy. We may dispose of information in our discretion without notice, subject to applicable law.</p><p>Cookies</p><p>We may place a “cookie” on the browser of your computer. Cookies are a technology that installs a small amount of information on the computer of a website user to permit the website to recognize future visits using that computer. Cookies may enhance the convenience and use of the Website. For example, the information provided through cookies may be used to recognize you as a previous user of the Website (so you do not have to enter your personal information every time), offer personalized information for your use, and otherwise facilitate your experience using the Website. You may choose to decline cookies if your browser permits you to do so, but doing so may affect your ability to access or use certain features of the Website. We may also use clear gifs and log file information to store user information, customize content, or monitor Website activity.</p><p>Other Websites</p><p>The Website may contain hyperlinks to other websites or Internet resources. When you click on one of those links you are contacting another website. We have no control over, and no responsibility or liability for, other websites or their collection, use and disclosure of your personal information. You may encounter third-party advertisements in connection with your use of the Website through, for example, hyperlinked websites and advertisements. We have no control over, and no responsibility or liability for, the cookies or other technologies used in those advertisements or for the use and disclosure of information collected through advertisement cookies or other technologies that you may encounter in connection with your use of the Website.</p><p>Privacy Policy Incorporated in Terms and Conditions of Website</p><p>Your use of the Website is governed by the SWOL terms and conditions of service, available at http://soccerwithoutlimits.com/privacy-policy/. The terms and conditions contain important provisions, including provisions disclaiming, limiting, or excluding the liability of SWOL for your use of the Website and provisions determining the applicable law and exclusive jurisdiction for the resolution of any disputes regarding your use of the Website. Each of those provisions applies to any disputes that may arise in relation to this Privacy Policy and the collection, use and disclosure of your personal information and are of the same force and effect as if they had been reproduced directly in this Privacy Policy. </p><p>What Steps Are Taken To Keep Personal Information Secure?</p><p>Keeping secure the personal information that we collect is of great concern to us. We exercise care in providing secure transmission of your information from your computer to our servers in connection with the Website. Personal information collected by the Website is stored in secure operating environments that are not available to the public. While SWOL has mechanisms in place to safeguard your personal information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure.</p><p>Contacting Us</p><p>If you have any questions about this Privacy Policy or other matters that relates to it, you may contact us at: </p><address>  <strong>SWOL LLC</strong><br>  1010 NE 2nd Avenue<br>  Miami, FL 33132<br></address><p></p>
+        <p>&nbsp;</p>
+    </div>
+
+
+</div> <!-- End Theme-Layout -->
+
+    <div class="clearfix">&nbsp;</div>
+    <div id="bottom" class="theme-layout">
+    <div class="container">
+        <div class="row-fluid">
+
+            <div class="span3 widget clearfix">
+                <div class="header">
+                    <h4>Site</h4>
+                </div>
+
+                <div class="content">
+                    <a href="/login/auth">Login</a>
+                    <br>
+                    <a id="signup-link">Sign Up</a>
+                    <br>
+                    <a href="/post/chooseType">Contribute To SWOL</a>
+                    <br>
+                    <a href="/contactUs/index">Contact Us</a>
+                    
+                        <br>
+                        <a href="/s/about">About</a>
+                    
+                        <br>
+                        <a href="/s/terms">Terms &amp; Conditions</a>
+                    
+                        <br>
+                        <a href="/s/privacy">Privacy Policy</a>
+                    
+                        <br>
+                        <a href="/s/writerfaq">Write for SWOL FAQ</a>
+                    
+                        <br>
+                        <a href="/s/badges">Badges Defined</a>
+                    
+                        <br>
+                        <a href="/s/writer_levels">Writer Levels</a>
+                    
+                </div>
+            </div> <!-- End Widget -->
+
+            <div class="span3 widget clearfix">
+                <div class="tags-cloud">
+
+                    <div class="header">
+                        <h4>Tag Cloud</h4>
+                    </div>
+
+                    <ul>
+                        
+                            <li><a href="/t/arsenal">arsenal</a></li>
+                        
+                            <li><a href="/t/manchester-united">manchester-united</a></li>
+                        
+                            <li><a href="/t/chelsea">chelsea</a></li>
+                        
+                            <li><a href="/t/manchester-city">manchester-city</a></li>
+                        
+                            <li><a href="/t/newsnow">newsnow</a></li>
+                        
+                            <li><a href="/t/liverpool">liverpool</a></li>
+                        
+                            <li><a href="/t/english premier league">english premier league</a></li>
+                        
+                            <li><a href="/t/crystal palace">crystal palace</a></li>
+                        
+                            <li><a href="/t/etihad stadium">etihad stadium</a></li>
+                        
+                            <li><a href="/t/wayne-rooney">wayne-rooney</a></li>
+                        
+                            <li><a href="/t/norwich. manchester-united">norwich. manchester-united</a></li>
+                        
+                    </ul>
+
+                </div>
+            </div> <!-- End Widget -->
+
+            <div class="span3 widget clearfix">
+                <div>
+                    <div class="header">
+                        <h4>SWOCIAL</h4>
+                    </div>
+                    <div style="text-align: center;">
+                        <a href="http://www.facebook.com/myswol" target="_blank"><img src="/static/img/social/facebook2.png" style="padding-bottom:10px"></a>
+                        <br>
+                        <a href="http://www.twitter.com/swolofficial" target="_blank"><img src="/static/img/social/twitter2.png" style="padding-bottom:10px"></a>
+                        <br>
+                        <a href="http://www.google.com/+SWOL" target="_blank"><img src="/static/img/social/googleplus2.png" style="padding-bottom:10px"></a>
+                        <br>
+                        <a href="http://www.youtube.com/swolofficial" target="_blank"><img src="/static/img/social/youtube2.png" style="padding-bottom:10px"></a>
+                        <br>
+                        <a href="/feed/"><img src="/static/img/social/RSS2.png" style="padding-bottom:10px"></a>
+                    </div>
+                </div>
+            </div> <!-- End Widget -->
+
+        </div> <!-- End Row-Fluid -->
+    </div> <!-- End Container -->
+</div> <!-- End Bottom -->
+    <div id="footer" class="theme-layout">
+    <div class="container">
+
+        <p class="pull-left">Copyright ©
+            2013
+            SWOL.co&nbsp;&nbsp;|&nbsp;&nbsp;Soccer Without Limits.&nbsp;&nbsp;|&nbsp;&nbsp;All rights reserved.</p>
+        <ul class="social pull-right">
+            
+            
+            
+            <div id="google_translate_element"></div><script type="text/javascript">
+            function googleTranslateElementInit() {
+                new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL, gaTrack: true, gaId: 'UA-29389414-1'}, 'google_translate_element');
+            }
+            </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        </ul>
+
+    </div> <!-- End Container -->
+</div> <!-- End Footer -->
+
+<a href="index.html#" class="scrollup" title="Back to Top!">Scroll</a>
+
+
+
+
+    <script type="text/javascript" src="http://cdn.fluidads.co/scripts/fluid/swol/margin-width" id="FA_pubJS" async="" defer=""></script>
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-41523730-2']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+    <!-- HitTail Code -->
+    <script type="text/javascript">
+        (function(){ var ht = document.createElement('script');ht.async = true;
+            ht.type='text/javascript';ht.src = '//108050.hittail.com/mlt.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ht, s);})();
+    </script>
+
+
+
+<script src="/static/bundle-bundle_bootstrap_defer.js" type="text/javascript"></script>
+<script src="/static/js/application.js" type="text/javascript"></script>
+<script src="/static/bundle-bundle_theme_defer.js" type="text/javascript"></script>
+
+
+
+
+
+
+
+
+</div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-draggable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-dialog-form" style="display: none; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix" style="display: none;"><span class="ui-dialog-title" id="ui-dialog-title-dialog-form">&nbsp;</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="dialog-form" class="ui-dialog-content ui-widget-content">
+    <form action="/profile/signup" method="post" name="signup-form" id="signup-form">
+        <div>
+            <img src="https://s3.amazonaws.com/swoldev/embedded/POPUP.png">
+            <a href="#" id="fb-img-link" onclick="login();"><img class="center" style="padding-bottom: 20px;" src="/static/img/social/login-fb.png"></a>
+            <img src="https://s3.amazonaws.com/swoldev/embedded/bottom.png">
+            <a href="#" id="signupclose" style="padding-top: 10px;"><small>[X] Not right now</small></a>
+            <a href="/join" class="pull-right"><small>Sign up with email</small></a>
+        </div>
+        <fieldset>
+            <input type="hidden" name="firstName" id="firstName">
+            <input type="hidden" name="lastName" id="lastName">
+            <input type="hidden" name="email" id="email">
+            <input type="checkbox" name="termscheck" id="termscheck" style="display: none;">
+            <input type="hidden" name="authToken" id="authToken">
+            <input type="hidden" name="fbusername" id="fbusername">
+        </fieldset>
+    </form>
+</div></div><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1001; top: 0px; left: 0px; display: none;"></ul></body></html>
