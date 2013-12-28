@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opswat.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629002531id_/http%3A//www.opswat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opswat.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228115725id_/http%3A//www.opswat.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | OPSWAT | Software manageability and multiple engine scanning solutions
+# Privacy Policy | OPSWAT
 
 OPSWAT respects the privacy of individuals who provide us with personal information, including our customers, resellers, distributors, service providers and visitors to our website, and is committed to protect the personal information that is provided to us through our website, by email or by other means. OPSWAT does not collect or use personal information from an individual unless the individual intentionally provides it and consents to its usage. This privacy policy ("Policy") describes our personal information handling practices and applies to OPSWAT, Inc. and all of its subsidiaries worldwide.
 
