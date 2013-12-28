@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the marathistars.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521044159id_/http%3A//marathistars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marathistars.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228142952id_/http%3A//marathistars.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Marathi Stars,Actress,Actors,photos,wallpapers,Images,Movies Cast,Story,Tv Serials,Biography,News,EventsMarathi Stars,Actress,Actors,photos,wallpapers,Images,Movies Cast,Story,Tv Serials,Biography,News,Events
+# Privacy Policy | Marathi Stars,Actress,Actors,photos,wallpapers,Images,Movies Cast,Story,Tv Serials,Biography,News,Events
+
+[Home](http://marathistars.com/) Privacy Policy
 
 **What information is collected about our users and members?**
 
@@ -80,11 +82,8 @@ MarathiStars.com is registered in India. If you are a user / member accessing th
 
 MarathiStars.com reserve the right at any time to: change the terms of this Agreement; change the Services, including eliminating or modifying any content on or feature of the website; or change/charge any fees or charges for use of the Services.
 
-MarathiStars.com is committed to resolving disputes as soon as feasible and shall endeavour to resolve all disputes brought to our notice in keeping with the mechanism prescribed.  
-
+MarathiStars.com is committed to resolving disputes as soon as feasible and shall endeavour to resolve all disputes brought to our notice in keeping with the mechanism prescribed.
 
 #### Tags:
 
-  * [collect information in Marathi](http://marathistars.com/privacy-policy/ "collect information in Marathi")
-
-
+[marathi you can send product image](http://marathistars.com/privacy-policy/ "marathi you can send product image"), 
