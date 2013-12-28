@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the harmonhomes.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521132230id_/http%3A//www.harmonhomes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harmonhomes.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228011119id_/http%3A//www.harmonhomes.com/privacy) for the most accurate reproduction.*
 
-# Harmonhomes.com - Privacy Policy < Page < Harmonhomes.com
+# Harmonhomes.com - Privacy Policy | Page | Harmonhomes.com
 
 ### 1\. What information is collected?
 
