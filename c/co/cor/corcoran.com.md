@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corcoran.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605093947id_/http%3A//corcoran.com/nyc/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corcoran.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228115453id_/http%3A//www.corcoran.com/nyc/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Corcoran, Privacy Policy Manhattan, Brooklyn, Hamptons, Shelter Island, North Fork & Palm Beaches Real Estate
 
