@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ptvsports.tv privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627085852id_/http%3A//ptvsports.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptvsports.tv privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228045740id_/http%3A//ptvsports.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | live ptv sports tv online streaming | T20 cricket fooball World Cup
+# Privacy Policy | PTV Sports Live
 
 **Privacy Policy for www.ptvsports.tv**
 
