@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aaaa.org privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508122429id_/http%3A//www.aaaa.org/pages/privacy2.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaaa.org privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228021021id_/http%3A//www.aaaa.org/pages/privacy2.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Thank you for visiting the Web site of the 4A'sAmerican (Association of Advertising Agencies ) and reviewing our privacy policy. The 4A's will collect no personal information about you when you visit our Web site unless you choose to provide that information to us.
+Thank you for visiting the Web site of the 4A's American (Association of Advertising Agencies ) and reviewing our privacy policy. The 4A's will collect no personal information about you when you visit our Web site unless you choose to provide that information to us.
 
 Here is how we handle information about your visit to our Web site:
 
