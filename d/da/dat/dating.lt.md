@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dating.lt privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214084434id_/http%3A//www.dating.lt/home/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dating.lt privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228221114id_/http%3A//www.dating.lt/home/privacy_policy.php) for the most accurate reproduction.*
 
 # International dating service
 
@@ -8,7 +8,7 @@
 
 1\. Subject of regulation
 
-Lithuanian, USA and Russian Joint Venture JSC DKD (further - DKD) respects the right of members to confidentiality and will do everything possible to facilitate its non-disclosure. This Agreement determines the conditions and purposes of gathering, storing, protecting, processing and distributing information about the DKD website. 
+Lithuanian, USA and Russian Joint Venture JSC DKD (further - DKD) respects the right of members to confidentiality and will do everything possible to facilitate its non-disclosure. This Agreement determines the conditions and purposes of gathering, storing, protecting, processing and distributing information about the DKD website.
 
 2\. Information, covered by the Agreement
 
