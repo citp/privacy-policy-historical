@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galaxyplus.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511080552id_/http%3A//www.fiserv.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galaxyplus.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228020303id_/http%3A//www.fiserv.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Fiserv - Privacy Policy
 
