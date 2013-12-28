@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the therenegadeteam.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502003720id_/http%3A//www.therenegadeteam.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therenegadeteam.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228224937id_/https%3A//www.therenegadenetworkmarketer.com/privacy_policy.html) for the most accurate reproduction.*
 
-# 80/20 Marketing, Inc. Privacy Policy
+# 
+
+Renegade System Network
+
+Privacy Policy
 
 Thank you for visiting the Renegade System Network, which is owned by 80/20 Marketing, Inc., its subsidiary companies, affiliate companies, successors and assigns (hereinafter collectively referred to as "Renegade System," "We", or "Us") and which operates web sites accessible through www.TheRenegadeNetworkMarketer.com and www.TheRenegadeSystem.com, among other URLs (collectively referred to as the "Renegade System Network" or "the Site") and reviewing our Privacy Policy, effective June 15, 2007 We take your privacy very seriously and are committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our Site. 
 
@@ -68,11 +72,11 @@ We do not tolerate spam. You are not licensed to add a Renegade System's User, e
 
 Whenever the Renegade System handles your personal information, we take steps to ensure that your information is treated securely and in accordance with the relevant Terms and Conditions of Use Agreement and this Policy. We use procedural and mechanical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy, including encryption. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. We cannot, therefore, warrant or ensure the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
 
-##  **How are children's privacy protected?**
+**How are children's privacy protected?**
 
 Children under the age of 18 are not authorized to use the Site and we ask that children do not submit any personal information to us. 
 
-##  **Additional Information**
+**Additional Information**
 
 Any questions regarding this statement should be directed to [support@therenegadenetworkmarketer.com](mailto:support@therenegadenetworkmarketer.com). 
 
