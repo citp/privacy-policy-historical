@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cleanipedia.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218052332id_/http%3A//www.unileverprivacypolicy.com/en_gb/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleanipedia.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228035648id_/http%3A//www.unileverprivacypolicy.com/en_gb/policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## _UNILEVER PRIVACY PRINCIPLES_
+##  _UNILEVER PRIVACY PRINCIPLES_
 
 Unilever takes privacy seriously. The following five principles underpin our approach to respecting your privacy:
 
@@ -17,7 +17,7 @@ Unilever takes privacy seriously. The following five principles underpin our app
 
 ## _UNILEVER PRIVACY POLICY_
 
- _Last Updated: August 2012_
+_Last Updated: December 2012_
 
 Unilever is committed to protecting your privacy and ensuring that your personal information is protected.  This Privacy Policy explains the types of personal information we collect and how we use, disclose and protect that information.
 
@@ -79,7 +79,9 @@ We use cookies and other tools (such as web analytic tools and pixel tags) to au
 
 Most internet browsers are initially set up to accept cookies. You can change the settings to block cookies or to alert you when cookies are being sent to your device. If you disable the cookies this may impact your experience on Unilever Sites[](http://www.unilevercookiepolicy.com/)
 
-  * Information we collect from other sources
+[ ](http://www.unilevercookiepolicy.com/)
+[ ](http://www.unilevercookiepolicy.com/)
+  * [](http://www.unilevercookiepolicy.com/)Information we collect from other sources
 
 We may receive personal information about you from other sources if you have given permission for that information to be shared.  This may include information from commercially available sources, such as public databases and data aggregators, and information from third parties. The types of personal information that we may collect from such sources include your:
 
@@ -152,8 +154,8 @@ We may share your personal information with:
 
 
 
-We may also share your personal information with companies, organisations or individuals outside of the Unilever Group if we believe that disclosure of the information is necessary for legal reasons. [  
-](http://cms-2011.unileversolutions.com/WebUI/item.aspx?tcm=16#OLE_LINK4)
+We may also share your personal information with companies, organisations or individuals outside of the Unilever Group if we believe that disclosure of the information is necessary for legal reasons.   
+
 
 We may share your personal information to:
 
@@ -165,11 +167,7 @@ We may share your personal information to:
 
 
 If we do share your personal information with a third party, we shall use our best efforts to ensure that they keep your information secure, take all reasonable steps to protect it from misuse and only use it in a manner consistent with this Privacy Policy and applicable data protection laws and regulations.   
-Unilever does not sell personal information, except to an entity to which we divest all or a portion of our business (for example, in connection with our sale of a brand), or otherwise in connection with a merger, consolidation, change in control, reorganization or liquidation of all or a portion of our business. 
-
-## Where do we store your personal information?
-
-The host servers for Unilever Sites in the European Economic Area are located in the Republic of Ireland.  The host servers for all other Unilever Sites are located in the United States of America or in the Asia Pacific region (Singapore).  Your personal information will be hosted in one of these regions, depending on the origin of the Unilever Site you are using or the Unilever Group company you share information with, and will be transferred and processed within that region in accordance with applicable data protection laws and regulations.
+Unilever does not sell personal information, except to an entity to which we divest all or a portion of our business (for example, in connection with our sale of a brand), or otherwise in connection with a merger, consolidation, change in control, reorganization or liquidation of all or a portion of our business.
 
 ## Transferring your personal information
 
