@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securewebpayments.com privacy policy that was archived on 2013-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130125232227id_/http%3A//securewebpayments.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securewebpayments.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228070105id_/http%3A//securewebpayments.com/privacy) for the most accurate reproduction.*
 
 # Secure Web Payments – Privacy Policy
 
@@ -100,5 +100,5 @@ We may update this privacy statement to reflect changes to our information pract
 If you have any questions about this Privacy Policy, please contact us at **privacy@securewebpayments.com**  or at:
 
 383 Media, Inc.  
-5776 Stoneridge Mall Road, Suite 335  
+4683 Chabot Drive, Suite 220  
 Pleasanton, CA 94588
