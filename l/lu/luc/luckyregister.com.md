@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the luckyregister.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229161849id_/http%3A//www.luckyregister.com/Privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckyregister.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228083720id_/http%3A//secure.luckyregister.com/Agreements/Privacy.aspx%3Fprog_id%3DLuckyregister) for the most accurate reproduction.*
 
-# Legal Agreement
+# LuckyRegister - Cheap Domain Registration, Domain Hosting Services - Privacy Policy | LuckyRegister - Cheap Domain Registration, Domain Hosting Services - Respects Your Privacy
 
-**Last Revised: June 29, 2012**
+**Last Revised: July 22, 2013**
 
 LuckyRegister - Cheap Domain Registration, Domain Hosting Services - Respects your privacy
+
+This Privacy Policy describes how we collect and use the personally identifiable information you provide on our Site.  It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update that information.
 
 **Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
@@ -26,11 +28,13 @@ This Site also contains links to other websites. Unfortunately, LuckyRegister - 
 
 **Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security. 
 
 **Sending Emails**
 
-We use emails to communicate with you, to confirm your placed orders, and to send information that you have requested. We also provide email links, as on our ["About Us"](https://www.securepaynet.net/gdshop/about.asp?prog_id=Luckyregister) page, to allow you to contact us directly. We strive to promptly reply to your messages.
+We use emails to communicate with you, to confirm your placed orders, and to send information that you have requested. We also provide email links, as on our ["About Us"](https://secure.luckyregister.com/gdshop/about.asp?prog_id=Luckyregister) page, to allow you to contact us directly. We strive to promptly reply to your messages.
 
 The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
@@ -38,11 +42,25 @@ The information you send to us may be stored and used to improve this Site and o
 
 We may at times provide information about you to third parties to provide various services on our behalf, such as processing credit card payments, serving advertisements, conducting contests or surveys, performing analyses of our products or customer demographics, shipping of goods or services, and customer relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Google Analytics**
+
+We use a tool called “Google Analytics” to collect information about use of this Site, such as how often users visit the Site, what pages they visit when they do so, and what other sites they used prior to coming to this Site.  Google Analytics collects only the IP address assigned to you on the date you visit this Site, rather than your name or other identifying information. 
+
+Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this Site.  This cookie cannot be used by anyone but Google, Inc.  The information generated by the cookie will be transmitted to and stored by Google on servers in the United States.
+
+We use the information received from Google Analytics only to improve services on this Site.  We do not combine the information collected through the use of Google Analytics with personally identifiable information. 
+
+Google’s ability to use and share information collected by Google Analytics about your visits to this Site is restricted by the [Google Privacy Policy](http://www.google.com/policies/privacy/).  You can prevent Google Analytics from recognizing you on return visits to this Site by [disabling the Google Analytics cookie](https://tools.google.com/dlpage/gaoptout/) on your browser.
+
+**For Website Builder Users Only**
+
+Website Builder incorporates the Google Places API.  Google's ability to use and share information collected by the Google Places API is governed by the [Google Privacy Policy](http://www.google.com/policies/privacy/).
 
 **Supplementation of Information**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+In order to provide certain services to you, we may on occasion supplement the personally identifiable information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
 **Contests/Surveys**
 
@@ -58,15 +76,15 @@ LuckyRegister - Cheap Domain Registration, Domain Hosting Services - may display
 
 If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. LuckyRegister - Cheap Domain Registration, Domain Hosting Services - will automatically send the friend a one-time email inviting them to visit our Site. LuckyRegister - Cheap Domain Registration, Domain Hosting Services - stores this information for the sole purpose of sending this one-time email. The friend may contact LuckyRegister - Cheap Domain Registration, Domain Hosting Services - at to request the removal of this information from our database.
 
-**What Happens to my Personal Information if I Terminate my LuckyRegister - Cheap Domain Registration, Domain Hosting Services - Account?**
+**What Happens to my Personally Identifiable  Information if I Terminate my LuckyRegister - Cheap Domain Registration, Domain Hosting Services - Account? **
 
 When your LuckyRegister - Cheap Domain Registration, Domain Hosting Services - account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status on our relevant LuckyRegister - Cheap Domain Registration, Domain Hosting Services - databases. However, deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
 **Updating Your Information  **
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+You may alter, update or deactivate your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-  1. You may visit your online [Account Manager](https://www.securepaynet.net/gdshop/shopper_lookup.asp?prog_id=Luckyregister)
+  1. You may visit your online [Account Manager](https://secure.luckyregister.com/gdshop/shopper_lookup.asp?prog_id=Luckyregister)
   2. You may send mail to LuckyRegister - Cheap Domain Registration, Domain Hosting Services - at the following postal address:   
 14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
@@ -74,7 +92,9 @@ You may alter your account information or opt out of receiving communications fr
 
 **Compliance with Laws and Law Enforcement**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies. 
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+To the extent we are legally permitted to do so, we will take reasonable steps to notify you in the event that we are required to provide your personal information to third parties as part of legal process.
 
 **Changes in Our Practices**
 
