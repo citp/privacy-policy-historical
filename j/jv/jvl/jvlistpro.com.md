@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jvlistpro.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627000232id_/http%3A//www.aweber.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jvlistpro.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228033656id_/http%3A//www.aweber.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Your Information Is Kept Safe
 
@@ -124,7 +124,7 @@ We use this information, which does not identify individual users, to analyze tr
 
 ### Advertising
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](http://www.google.com/ads/preferences/html/opt-out.html). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
   
 
