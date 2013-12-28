@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hallels.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430043104id_/http%3A//www.hallels.com/aboutus/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hallels.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228234023id_/http%3A//www.hallels.com/privacypolicy) for the most accurate reproduction.*
 
-# Hallels - Privacypolicy Aboutus
+# Hallels
 
 Hallels.com is committed to protecting your privacy. We use the information we collect about you to process orders, to improve our web page, and to generate content. The following discloses what information our web site collects and what we do with it. This privacy statement is for informational purposes only and should not be viewed as a contract. If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact webmaster at http://www.hallels.com/???
 
