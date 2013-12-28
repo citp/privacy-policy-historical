@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filmyfriday.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626142638id_/http%3A//www.filmyfriday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmyfriday.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228180812id_/http%3A//www.filmyfriday.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Bollywood Actress | Hollywood News | Movie Review | Bollywood Actor | Celebrity photos
+# Privacy | Latest in Bollywood, Movie Review, tv news & Celebrity hot photos
 
 FilmyFriday.com has created this privacy statement in order to demonstrate our website commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: FilmyFriday.com  
 Information Automatically Logged  
@@ -25,5 +25,10 @@ Mailing List: http://www.FilmyFriday.com
 Security  
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. 
 
+Disclaimer  
+Filmyfriday.com delivers content from third-parties editor, Filmyfriday.com does not have any control over these contents. The links and contents provided through Filmyfriday.com are the property of the third-parties owners. In no case Filmyfriday.com might be taken responsible for any abuse, opinion, information, link, image or any digital material provided through Filmyfriday.com. Filmyfriday.com does not represent or endorse the accuracy, correctness or reliability of any advice, opinion, statement or other information displayed, uploaded or distributed through any web site hyperlinks. You acknowledge that any reliance upon any such opinion, advice, statement or information shall be taken at your own sole risk.
+
 Contacting the Web Site  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us using feedback form.
+
+**Tags:** [Google](http://www.filmyfriday.com/tag/google), [privacy statement](http://www.filmyfriday.com/tag/privacy-statement)
