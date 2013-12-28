@@ -1,21 +1,25 @@
-<!--The following is the downloaded HTML source of the galaxyplus.com privacy policy that was archived on 2012-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511080552id_/http%3A//www.fiserv.com/privacypolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the galaxyplus.com privacy policy that was archived on 2013-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131228020303id_/http%3A//www.fiserv.com/privacypolicy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><!-- PageID 392 - published by Open Text Web Solutions 10.1 - 10.1.2.287 - 34407 -->
-<title>Fiserv - Privacy Policy
+<title>
+    Fiserv - Privacy Policy
 </title>
-<!-- 392 - released on 2/10/2012 2:37:47 PM published on Thursday, May 10, 2012 5:02 PM-->
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- 392 - released on Tuesday, October 01, 2013 9:13 PM published on Monday, December 23, 2013 9:17 AM-->
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
 <link rel="shortcut icon" type="image/x-icon" href="/css/images/favicon-med.ico">
-<link rel="canonical" href="">
-        
 
-        
-<link rel="stylesheet" type="text/css" href="/css/main.css">
-<link rel="stylesheet" type="text/css" href="/css/inside.css">
+<link rel="stylesheet" type="text/css" href="/css/fiservcom.css">
+<link rel="stylesheet" type="text/css" href="">
+
+
+
+
+
 
 <!--[if IE 7]>
-<style type="text/css">
+<style type=""text/css"">
     #right-column .resource-list li {
         padding-bottom: 20px;
     }
@@ -27,11 +31,10 @@
     }
 </style>
 <![endif]-->
-
 <meta name="verify-v1" content="Ke42t2XAbq30Mx5dB4WvzVguz0XKb9wL7GXhTiHioec=">
 <meta name="google-site-verification" content="ycqYIqALoZ_9xvVeimB5BO35oP8QLmycwA3xbficrMs">
-<meta name="Description" content="">
-<meta name="Keywords" content="">
+<meta name="Description" content="Fiserv, Inc., on behalf of itself and its affiliates, (together, &quot;Fiserv&quot;) knows that privacy is important to you. It is also vital to our business.">
+
 <meta name="robots" content="all">
 
 
@@ -44,20 +47,17 @@
 
 
 <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-614954-1']);
-  _gaq.push(['_setDomainName', 'fiserv.com']);
-  _gaq.push(['_setAllowLinker',true]);
-  _gaq.push(['_trackPageview']);
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-$(document).ready(function() {
-
-/*        $.preloadCssImages({ 'imgDir': '/css/images' });*/
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-614954-1']);
+    _gaq.push(['_setDomainName', 'fiserv.com']);
+    _gaq.push(['_setAllowLinker',true]);
+    _gaq.push(['_trackPageview']);
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    $(document).ready(function() {
         $("ul#top-nav > li").hover(function() {
             $(this).css('border-top','solid 1px #CCCCCC');
             $(this).find("div.sub-nav").show();
@@ -66,20 +66,23 @@ $(document).ready(function() {
             $(this).css('border-top', 'solid 1px #FFFFFF');
             $(this).find("div.sub-nav").hide();
             $(this).find(".connector").hide();
-        }); 
- 
-        $(".share-button").hover(function() { //top-nav
-            $("#share-pallet").show();
-            $(this).parent().hover(function() {
-            }, function(){
-                $("#share-pallet").hide();
-            });
-        }); 
+        });
+        
+        
+            $(".share-button").hover(function() { //top-nav
+                $("#share-pallet").show();
+                $(this).parent().hover(function() {}, function(){
+                    $("#share-pallet").hide();
+                });
+            }); 
+        
+
         $('.tog').click(function() {
             $(this).nextAll('ul').slideToggle('fast','swing');
+            $(this).parent().toggleClass('selected');
             $(this).toggleClass('m');
             return false;
-        }).next().show();
+        });
         $(function(){
             $('#slides').slides({
                 preload: true,
@@ -89,51 +92,65 @@ $(document).ready(function() {
                 paginationClass: 'pagination'
             });
         });
+    
+        $('.page-content h2:first-child').css({
+            'font-size': '14px',
+            'color': '#FF6600',
+            'line-height': '1.6em'
+        });
+    
+        $('.no-marquee.sxnHome .page-content h2:first-child').css({
+            'color': '#FFFFFF'
+        });
     });
-
-$(window).load( function() {
-    $('body').height($('#page').height() + 200);
-    function adjRight() {
-        if ($('#center-column').height() > $('right-column').height()) {
-             $('#center-column,#right-column').equalHeightColumns();
-        }
-    }
-    function adjLeft() {
-        if ($('#left-column').height() > (document.getElementById('content-area').offsetTop + $('#content-area').height())) {
-            $('#content-area').height( $('#left-column').height() - document.getElementById('content-area').offsetTop );
-        }
-    }
-    adjRight();
-    adjLeft();
-});
-</script>
-</head>
-
-<body class="inside no-right" style="height: 2886px;">
-
-
-
-    
-    <div style="display:none">
         
-    </div>
+        function adjRight() {
+            if ($('#center-column').height() > $('right-column').height()) {
+                $('#center-column,#right-column').equalHeightColumns();
+            }
+        }
+        function adjLeft() {
+            if ($('#left-column').height() > (document.getElementById('content-area').offsetTop + $('#content-area').height())) {
+                $('#content-area').height( $('#left-column').height() - document.getElementById('content-area').offsetTop );
+            }
+        }
+        $(window).load( function() {
+            $('body').height($('#page').height() + 200);
+            adjRight();
+            adjLeft();
+        });    
     
+    var month=new Array(12);
+    month[0]="January";
+    month[1]="February";
+    month[2]="March";
+    month[3]="April";
+    month[4]="May";
+    month[5]="June";
+    month[6]="July";
+    month[7]="August";
+    month[8]="September";
+    month[9]="October";
+    month[10]="November";
+    month[11]="December";
+</script>
 
-<div id="whitespace"></div>
-<div id="full-bleed" style="background-image:url()">
-<div id="wrapper"> 
-<!--<span class="">-->
+
+
+<script type="text/javascript" async="" src="https://vlog.leadformix.com/bf/lfx.js"></script></head>
+<body class="inside no-right " style="height: 1946px;">
+    
+    
+    <div id="whitespace"></div>
+    <div id="full-bleed">
+        <div id="wrapper">
+            
+                            <!--<span class="white">-->
 <div id="social">
         <a href="http://www.facebook.com/fiserv" target="_blank"><img src="/css/images/facebook-little.png" alt="Find us on Facebook"></a>
         <a href="http://www.twitter.com/fiserv" target="_blank"><img src="/css/images/twitter-little.png" alt="Follow us on Twitter"></a>
-        <a href="/index.htm"><img src="/css/images/masthead-little-point.gif"></a>
-   <!--    
-                
-                        <span class="auth">
-<a href="/signup.htm">Sign Up</a> | <a href="/login.htm">Log In</a>
-</span>
-                    
-             -->
+        <a href="/index.htm"><img src="/css/images/masthead-little-point.gif" alt=""></a>
+   <!--     -->
 </div> <!--end social-->
 
 <ul id="top-nav">
@@ -146,6 +163,25 @@ $(window).load( function() {
     <div class="sub-nav" id="Solutions-nav-sub">
         <div class="sub-nav-sxn">
 
+    <ul>
+        <li class="header"><a href="/channel-management1.htm">Customer &amp; Channel Management</a></li>
+        <li><a href="/customer-channel-management/account-aggregation-services.htm">Account Aggregation Services</a></li>
+        <li><a href="/customer-channel-management/mobile-solutions.htm">Mobile Solutions</a></li>
+        <li><a href="/customer-channel-management/internet-banking.htm">Online Banking Solutions</a></li>
+        <li><a href="/customer-channel-management/output-solutions.htm">Output Solutions</a></li>
+        <li class="more"><a class="arrow-link" href="/channel-management1.htm">All Customer &amp; Channel Management</a></li>
+    </ul>
+            
+    <ul>
+        <li class="header"><a href="/business-optimization1.htm">Insights &amp; Optimization</a></li>
+        <li><a href="/insights-optimization/bank-intelligence-solutions.htm">Bank Intelligence Solutions</a></li>
+        <li><a href="/insights-optimization/cash-logistics.htm">Cash &amp; Logistics</a></li>
+        <li><a href="/insights-optimization/enterprise-content-management.htm">Enterprise Content Management</a></li>
+        <li><a href="/insights-optimization/information-management-solutions.htm">Information Management Solutions</a></li>
+        <li><a href="/insights-optimization/revenue-enhancement-solutions.htm">Revenue Enhancement Solutions</a></li>
+        <li class="more"><a class="arrow-link" href="/business-optimization1.htm">All Insights &amp; Optimization</a></li>
+    </ul>
+            
     <ul>
         <li class="header"><a href="/payments-solutions1.htm">Payments</a></li>
         <li><a href="/payments/ach-payments-solutions.htm">ACH Solutions</a></li>
@@ -178,35 +214,13 @@ $(window).load( function() {
     </ul>
             
     <ul>
-        <li class="header"><a href="/channel-management1.htm">Customer &amp; Channel Management</a></li>
-        <li><a href="/customer-channel-management/credit-debit-rewards.htm">Loyalty &amp; Reward Solutions</a></li>
-        <li><a href="/customer-channel-management/multichannel-marketing-systems.htm">Marketing Communications</a></li>
-        <li><a href="/customer-channel-management/mobile-solutions.htm">Mobile Solutions</a></li>
-        <li><a href="/customer-channel-management/internet-banking.htm">Online Banking Solutions</a></li>
-        <li><a href="/customer-channel-management/output-solutions.htm">Output Solutions</a></li>
-        <li><a href="/customer-channel-management/in-person-bill-payments.htm">Walk-In Solutions</a></li>
-        <li class="more"><a class="arrow-link" href="/channel-management1.htm">All Customer &amp; Channel Management</a></li>
-    </ul>
-            
-    <ul>
-        <li class="header"><a href="/business-optimization1.htm">Insights &amp; Optimization</a></li>
-        <li><a href="/insights-optimization/bank-intelligence-solutions.htm">Bank Intelligence Solutions</a></li>
-        <li><a href="/insights-optimization/currency-supply-chain.htm">Currency Supply Chain Management</a></li>
-        <li><a href="/insights-optimization/enterprise-content-management.htm">Enterprise Content Management</a></li>
-        <li><a href="/insights-optimization/housing-information-insights.htm">Housing Information &amp; Insights</a></li>
-        <li><a href="/insights-optimization/information-management-solutions.htm">Information Management Solutions</a></li>
-        <li><a href="/insights-optimization/revenue-enhancement-solutions.htm">Revenue Enhancement Solutions</a></li>
-        <li class="more"><a class="arrow-link" href="/business-optimization1.htm">All Insights &amp; Optimization</a></li>
-    </ul>
-            
-    <ul>
         <li class="header"><a href="/industries.htm">Solutions for Industries</a></li>
 
         <li><a href="/industries/core-bank-platforms.htm">Banks</a></li>
     
         <li><a href="/industries/wealth-management.htm">Wealth Management</a></li>
     
-        <li><a href="/industries/health-club-management.htm">Health &amp; Fitness</a></li>
+        <li><a href="/health-club-management.htm">Health &amp; Fitness</a></li>
     
         <li><a href="/industries/credit-union-platforms.htm">Credit Unions</a></li>
     
@@ -247,6 +261,11 @@ $(window).load( function() {
 
 
             
+        <li><a href="/industries/business-banking.htm">Business Banking</a></li>
+
+
+
+            
         <li><a href="/industries/communications.htm">Communications</a></li>
 
 
@@ -270,17 +289,22 @@ $(window).load( function() {
 
 
             
-        <li><a href="/industries/health-club-management.htm">Health &amp; Fitness</a></li>
-
-
-
-            
         <li><a href="/industries/healthcare-communications.htm">Healthcare</a></li>
 
 
 
             
+        <li><a href="/industries/institutional-management.htm">Institutional Management</a></li>
+
+
+
+            
         <li><a href="/industries/loan-processing.htm">Lending</a></li>
+
+
+
+            
+        <li><a href="/industries/property-management.htm">Property Management</a></li>
 
 
 
@@ -323,6 +347,11 @@ $(window).load( function() {
         <li><a href="/events.htm">Events</a></li>
 
 
+
+            
+        <li><a href="/social-media.htm">Fiserv In Social Media</a></li>
+
+
     </ul>
     <ul class="sec">
 
@@ -348,6 +377,11 @@ $(window).load( function() {
         <div class="sub-nav-sxn">
     <ul>
  
+        <li><a href="/resources/best-practices-guides.htm">Best Practices Guides</a></li>
+
+
+
+            
         <li><a href="/resources/brochures.htm">Brochures</a></li>
 
 
@@ -361,17 +395,12 @@ $(window).load( function() {
         <li><a href="/resources/point-of-view-papers.htm">Point of View Papers</a></li>
 
 
-
-            
-        <li><a href="/resources/research-papers.htm">Research Papers</a></li>
-
-
     </ul>
     <ul class="sec">
 
 
             
-        <li><a href="/resources/trending.htm">Trending</a></li>
+        <li><a href="/resources/research-papers.htm">Research Papers</a></li>
 
 
 
@@ -411,7 +440,7 @@ $(window).load( function() {
 
 
             
-        <li><a href="http://trans.fiserv.com/contact_us2.aspx">Contact Us</a></li>
+        <li><a href="/about/contact-us.htm">Contact Us</a></li>
 
 
 
@@ -484,162 +513,74 @@ $(window).load( function() {
 </div> 
 <!--end masthead-->
 <!--</span>-->
-
-
-<img src="/css/images/page-top.png" width="976" height="21" style="width:976px;">
-<div id="page">
-
-
-<div id="left-column" class="column">
-    <!--  -->
-    <ul id="left-nav">
-    <li class="header">
-
-            <a href="/about.htm">
-            
-                About Fiserv
-            </a>
-        </li>
-        
-
-
-                    <li>
-
-                    <div class="no-tog"></div>
-
-                <a href="http://investors.fiserv.com/directors.cfm">Board of Directors</a>
+                        
+            <div id="page-top"> </div>
+            <div id="page">
                 
-    </li>
-    
- 
- 
-
-
-                    <li>
-
-                    <div class="no-tog"></div>
-
-                <a href="/about/careers.htm">Careers</a>
-                
-    </li>
-    
- 
- 
-
-
-                    <li>
-
-                    <div class="no-tog"></div>
-
-                <a href="http://trans.fiserv.com/contact_us2.aspx">Contact Us</a>
-                
-    </li>
-    
- 
- 
-
-
-                    <li>
-
-                    <div class="no-tog"></div>
-
-                <a href="http://investors.fiserv.com/management.cfm">Executive Committee</a>
-                
-    </li>
-    
- 
- 
-
-
-                    <li>
-
-                    <div class="no-tog"></div>
-
-                <a href="http://investors.fiserv.com">For Investors</a>
-                
-    </li>
-    
- 
- 
-
-
-                    <li>
-
-                    <div class="no-tog"></div>
-
-                <a href="http://investors.fiserv.com/governance.cfm">Governance</a>
-                
-    </li>
-    
- 
- 
-
-
-                    <li>
-
-                    <div class="no-tog"></div>
-
-                <a href="/about/history.htm">History</a>
-                
-    </li>
-    
- 
- 
-
-
-                    <li>
-
-                    <div class="no-tog"></div>
-
-                <a href="/about/about-brand-identity.htm">Partners in Possibility</a>
-                
-    </li>
-    
- 
- 
-
-
-<li class="active">
-
-                    <div class="no-tog"></div>
-
-            
-            <a href="/about/privacypolicy.htm">Privacy Policy</a>
                     
+                        <div id="left-column" class="column">
+                            
+                            <ul id="left-nav">
+                                
+                                
+                                     <li class="header"><a href="/about.htm">About Fiserv</a></li><li><div class="no-tog"></div><a <a="" href="http://investors.fiserv.com/directors.cfm">Board of Directors</a></li><li><div class="no-tog"></div><a <a="" href="/about/careers.htm">Careers</a></li><li><div class="no-tog"></div><a <a="" href="/about/contact-us.htm">Contact Us</a></li><li><div class="no-tog"></div><a <a="" href="http://investors.fiserv.com/management.cfm">Executive Committee</a></li><li><div class="no-tog"></div><a <a="" href="http://investors.fiserv.com">For Investors</a></li><li><div class="no-tog"></div><a <a="" href="http://investors.fiserv.com/governance.cfm">Governance</a></li><li><div class="no-tog"></div><a <a="" href="/about/history.htm">History</a></li><li><div class="no-tog"></div><a <a="" href="/about/about-brand-identity.htm">Partners in Possibility</a></li>
+
+
+				<li class="active">
+					
+						<div class="no-tog"></div>
+					
+            <a href="/about/privacypolicy.htm">Privacy Policy</a>
 </li>
- 
-
-
- 
- 
-    </ul>
-</div>
-
-
-
-
-<div id="content-area">
-
-<!-- HErO MArQUIS AREA -->
-<div id="main-promo">
-    <div id="slides">
-        <div class="slides_container">  
-        
-        </div>
-    </div>
-</div>
-
-        
-
-    <div id="center-column" class="column" style="height: 2211px;">
-        <div class="page-content">
-            <h1>Privacy Policy</h1>
-            <div class="hr"></div>
-            <div class="box">
+                            </ul>
+                            
+                            
+                        </div>
+                        <!--end left-column-->
+                    
+                
+                
+                    
+                        <div id="content-area">
+                    
+                        <div id="main-promo">    
+                                                            
+                            
+                            <div id="slides">
+                                <div class="slides_container">                            
+                                    
+                                </div> <!--end slides_container-->
+                            </div> <!-- end slides-->        
+                        </div> <!--end main-promo-->
+                    
+                        <div id="center-column" class="column" style="height: 1550px;">
+                        
+                
+                <div class="page-content">
+                    
+                
+                    
+                            <h1>Privacy Policy</h1>
+                        
+                    
+                <div class="hr"></div>    
+                
+                    
+                
+                    
+                <div class="box">
     
+
     
 
     
+
+    
+
+    
+
+    
+
     
         <p>&nbsp;</p>
         <p><b>Last Update Posted: February 10, 2012</b></p>
@@ -655,24 +596,31 @@ $(window).load( function() {
         <p><b>6. Other Fiserv Sites.</b> This Privacy Policy is applicable to this Site, as specified above. However, an Other Fiserv Site (as defined in the <a href="http://www.fiserv.com/about/terms.htm">Terms</a>) may have its own privacy policy or other privacy-related terms posted. As with the <a href="http://www.fiserv.com/about/terms.htm">Terms</a>, those other privacy terms and conditions shall apply to privacy-related issues regarding that Other Fiserv Site and the use of any services, functionalities or other offerings made in connection with that Other Fiserv Site, and this Privacy Policy shall not apply in such circumstances. Furthermore, this Privacy Policy does not apply to any websites Fiserv creates for any individual client, and such websites shall be subject to the terms and conditions set forth in the applicable agreement between Fiserv and that client.</p>
         <p><b>7. Contacting Us.</b> If you have any questions about this Privacy Policy, please contact us at the address specified in the <a href="http://www.fiserv.com/about/terms.htm">Terms</a>. </p>
     
+
+    
+    
 </div>
+                
+            </div>
         </div>
-    </div> 
-
-
-</div>
-<div id="footer">
+        
+            
+        
+    </div> <!-- End full-bleed -->
+    
+                    <div id="footer">
     <div class="hr"></div>
     <ul id="copyright">
-        <li>© 2012 Fiserv, Inc., or its affiliates.</li>
+        <li>© 2013 Fiserv, Inc., or its affiliates.</li>
     </ul>
     <div class="horizontal"></div>
     <ul class="bottom-nav">
         <li class="header">Quick Links</li>
         <li><a href="/the-point.htm">The Point</a></li> 
         <li><a href="http://communities.fiserv.com" target="_blank">Boardroom Series</a></li>
-        <li><a href="/new-fiserv.htm">New Fiserv</a></li>
+        <!--<li></li>-->
         <li><a href="http://investors.fiserv.com">Investors</a></li>
+        <li><a href="/supplier-information.htm">Suppliers</a></li>
     </ul>
     <div class="horizontal"></div>
     <ul class="bottom-nav">
@@ -687,38 +635,45 @@ $(window).load( function() {
     <ul class="bottom-nav">
         <li class="header">About Fiserv</li>
         <li><a href="/about/careers.htm">Careers</a></li>
-        <li><a href="http://trans.fiserv.com/contact_us2.aspx">Contact Us</a></li>
+        <li><a href="/about/contact-us.htm">Contact Us</a></li>
         <li><a href="http://newsroom.fiserv.com/mediaContacts.cfm">Media</a></li>
         <li><a href="/about.htm">About</a></li>
     </ul>
     <div class="horizontal"></div>
     <ul class="bottom-nav social">
         <li class="header">Follow Us</li>
-        <li><a href="http://www.facebook.com/fiserv" target="_blank"><img src="/css/images/facebook-footer.gif" alt="Facebook" width="22" height="22"></a></li>
-        <li><a href="http://www.twitter.com/fiserv" target="_blank"><img src="/css/images/twitter-footer.gif"></a></li>
+        <li><a href="http://www.facebook.com/fiserv" alt="Find us on Facebook" target="_blank"><img src="/css/images/facebook-footer.gif" alt="Facebook" width="22" height="22"></a></li>
+        <li><a href="http://www.twitter.com/fiserv" alt="Follow us on Twitter" target="_blank"><img src="/css/images/twitter-footer.gif" alt="Twitter" width="22" height="22"></a></li>
     </ul>
 
 </div>
 
 
 
-
-
-
-<!--Start VisitorTrack Code 4.0-->
+ <!-- LeadFormix -->
+<a href="https://www.leadformix.com" title="Marketing Automation" onclick="window.open(this.href);return(false);">
 <script type="text/javascript">
-  imgsrc = location.protocol + '//www.visitortracklog.com/loghit.asp?id=10364&vr=4.0&rp=' + escape(document.referrer) + '&pa=' + escape(document.URL);
-document.write('<img border="0" alt="" src="' + imgsrc + '">');
-</script><img border="0" alt="" src="https://www.visitortracklog.com/loghit.asp?id=10364&amp;vr=4.0&amp;rp=&amp;pa=https%3A//web.archive.org/web/20120511080552id_/http%3A//www.fiserv.com/about/privacypolicy.htm">
-<!--End VisitorTrack Code-->
-
-
-</div>
-<img src="/css/images/page-bottom.png" width="976" height="8" class="bottom-shadow">
-</div> 
-</div>
- <!--end wrapper-->
- <!--end full-bleed-->
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://vlog.leadformix.com/" : "https://vlog.leadformix.com/");
+<!--
+bf_action_name = '';
+bf_idsite = 8233;
+bf_url = pkBaseURL+'bf/bf.php';
+(function() {
+var lfh = document.createElement('script'); lfh.type = 'text/javascript'; lfh.async = true;
+lfh.src = pkBaseURL+'bf/lfx.js';
+var s = document.getElementsByTagName('head')[0]; s.appendChild(lfh);
+})();
+//-->
+</script>
+<noscript><p>Marketing Automation Platform <img src="https://vlog.leadformix.com/bf/bf.php" style="border:0" alt="Marketing Automation Tool"/></p>
+</noscript>
+</a>
+<!-- /LeadFormix -->
+                
+    </div>
+    <img src="/css/images/page-bottom.png" width="976" height="8">
+    </div>
+    </div>
 
 
 </body></html>
