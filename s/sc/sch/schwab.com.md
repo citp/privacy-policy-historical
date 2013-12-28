@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the schwab.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628111222id_/http%3A//www.schwab.com/public/schwab/nn/legal_compliance/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schwab.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228075048id_/http%3A//www.schwab.com/public/schwab/nn/legal_compliance/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Charles Schwab
 
-Rev. July 2012
+Rev. July 2013
 
 FACTS | **WHAT DOES THE CHARLES SCHWAB CORPORATION DO WITH YOUR PERSONAL INFORMATION?**  
 ---|---  
@@ -55,11 +55,12 @@ State laws and individual companies may give you additional rights to limit shar
 **What happens when I limit sharing for an account I hold jointly with someone else?** | Your choices will apply to everyone on your account.  
 **Definitions**  
 ---  
-**Affiliates** | Companies related by common ownership or control. They can be financial and nonfinancial companies. _
+**Affiliates** | Companies related by common ownership or control. They can be financial and nonfinancial companies.   
 
-  * _Our affiliates include companies with a Charles Schwab name; financial companies such as: Charles Schwab & Co., Inc., Charles Schwab Bank, optionsXpress, Inc., Windhaven Investment Management, Inc., and nonfinancial companies such as Schwab Performance Technologies, and Compliance11, Inc._
 
-_  
+  * _Our affiliates include companies with a Charles Schwab name; financial companies such as: Charles Schwab & Co., Inc., Charles Schwab Bank, optionsXpress, Inc., ThomasPartners, Inc., Windhaven Investment Management,Inc.; and nonfinancial companies such as Schwab Performance Technologies, and Compliance11, Inc._
+
+  
 **Nonaffiliates** | Companies not related by common ownership or control. They can be financial and nonfinancial companies. _
 
   * _The Charles Schwab Corporation does not share with nonaffiliates so they can market to you._
@@ -80,8 +81,8 @@ Charles Schwab, U.K., Limited
 Charles Schwab, U.K., Limited (“Schwab U.K.”) introduces residents of the United Kingdom or Switzerland to Charles Schwab & Co., Inc. and processes personal information in accordance with the privacy policy of Schwab and various privacy laws of the United Kingdom. Clients introduced by Schwab U.K. may obtain further information at [www.schwab.co.uk](http://www.schwab.com/redirect/?url=http://www.schwab.co.uk).
 
 Charles Schwab, Hong Kong, Limited   
-Charles Schwab, Hong Kong, Limited (“Schwab H.K.”) has contracted with Charles Schwab & Co., Inc. to perform certain services for their customers (such as execution, clearance, settlement of trades, and custody of assets), and processes personal information in accordance with Schwab’s privacy policy and various privacy laws of Hong Kong. Clients of Schwab H.K. may obtain further information, at [www.schwab.com.hk](http://www.schwab.com/redirect/?url=http://www.schwab.com.hk).
+Charles Schwab, Hong Kong, Limited (“Schwab H.K.”) has contracted with Charles Schwab & Co., Inc. to perform certain services for their customers (such as execution, clearance, settlement of trades, and custody of assets), and processes personal information in accordance with Schwab’s privacy policy and various privacy laws of Hong Kong. Clients of Schwab H.K. should also review the privacy terms contained in their account agreement, available at [www.schwab.com.hk](http://www.schwab.com/redirect/?url=http://www.schwab.com.hk).
 
-© 2012 Charles Schwab & Co., Inc. All rights reserved. Member SIPC. CS16406-03 REG60835-01 (07/12)  
+© 2013 Charles Schwab & Co., Inc. All rights reserved. Member SIPC. Charles Schwab & Co., Inc. and optionsXpress, Inc. (Member SIPC) are separate but affiliated companies and subsidiaries of The Charles Schwab Corporation. CS19160-01 REG60835-02 (05/13) 00097408  
   
 
