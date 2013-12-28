@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the photobucket.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621150933id_/http%3A//photobucket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photobucket.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228042925id_/http%3A//photobucket.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Photobucket
 
-## Last revised March 30, 2012
+## Last revised August 20, 2013
 
 Thank you for visiting Photobucket.com (the "Site") and reviewing the Privacy Policy of Photobucket.com, Inc. ("Photobucket" or "we" or "us"). It is important to us that you understand what information we collect when you visit the Site either from a computer or a mobile device and what we may do with that information, so we have laid it all out here for you. This Privacy Policy also covers the collection of data from applications on mobile devices.
 
@@ -53,7 +53,7 @@ There are some things you may choose to do on or by accessing the Site which may
 ### Is There Anything Else I Need to Know?
 
   * **Non-US Users.** Your information may be stored in the United States or other countries where the data protection and other laws may not be as comprehensive as those in your country (especially for users in the EEA). By using this site you consent to your information being collected, used and transferred as set forth in this Privacy Policy. Information transferred to or stored in the United States may be subject to access requests from U.S. governments, courts, law enforcement officials and national security authorities in the United States according to United States laws.
-  * **14 and Up.** If you are under the age of 14, we're sorry, but you can't register at the Site. On the bright side, Photobucket will never knowingly collect personal information from children under the age of 14. If a child under 14 has provided us with personal information, his or her parent or guardian may contact us for the purpose of deleting this information.
+  * **13 and Up.** If you are under the age of 13, we're sorry, but you can't register at the Site. On the bright side, Photobucket will never knowingly collect personal information from children under the age of 13. If a child under 13 has provided us with personal information, his or her parent or guardian may contact us for the purpose of deleting this information.
   * **Changing Our Policy.** This Privacy Policy is subject to change. We will prominently post a notice on the Site when there are material changes in the way we treat PII. You should periodically check back and review this Privacy Policy so that you always will know what information we collect, how we use it, and with whom we share it.
 
 
@@ -76,7 +76,7 @@ We keep your personal information only so long as we need it for the purposes fo
 Don't Be Shy! If you have any questions regarding this Privacy Policy or information that you have submitted to us or if you would like to do any of the following:
 
   * see personal information that you have already sent us so that you can correct or update it, or delete your personal information from our files;
-  * if your child under 14 has sent us personal information, delete that personal information from our files;
+  * if your child under 13 has sent us personal information, delete that personal information from our files;
   * ask that we not send you mailings or otherwise contact you; or
   * report any violation of this Privacy Policy
 
