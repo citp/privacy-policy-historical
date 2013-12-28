@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geojit.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629021627id_/http%3A//geojitbnpparibas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geojit.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228122459id_/http%3A//www.geojitbnpparibas.com/privacy-policy) for the most accurate reproduction.*
 
 # Best online share trading site, Equity Derivatives, Share broking company.
 
@@ -55,13 +55,13 @@ Please note that Geojit BNP Paribas website may contain links to third party lin
   
 
 
-## 6. GRIEVANCE REDRESSAL
+## 6. GRIEVANCE REDRESSAL (ONLY PERSONAL INFORMATION RELATED AND NOT RELATED TO TRADING ACTIVITIES)
 
 We are committed to safeguard your personal information collected and handled by us and look forward to your continued support for the same. In case of any feedback or concern regarding protection of your personal information, you can contact us at mathew_pv@geojit.com. Alternatively, you may also direct your privacy-related feedback or concerns to the Privacy Grievance Officer whose details are as mentioned below: 
 
   * **Name:** Mathew P.V
   * **Designation:** Territory Information Security Officer
-  * **Details:** mathew_pv@geojit.com
+  * **Details:**[mathew_pv@geojit.com](mailto:mathew_pv@geojit.com)
   * **Contact no:** 0484-2405501
 
   
