@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the socl.us privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529193156id_/http%3A//socl.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socl.us privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228174918id_/http%3A//socl.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Social Sharing
 
 Socl[dot]us respect and protect the privacy of every individual who uses Socl[dot]us. Individually identifiable information about you is not handed over to third parties without your permission first, as described in this privacy policy (“Privacy Policy”) is.
 
- **Socl[dot]us and Cookies**  
+**Socl[dot]us and Cookies**  
 In your visit to Socl[dot]us, Socl[dot]us sends a “cookie” to your computer. A cookie is a collection of data that identifies you as an individual user. Socl[dot]us use cookies to improve the quality of our service and to better understand our user base. Socl[dot]us does this by storing the user’s choice in a cookie and monitor user trends and search patterns. Socl[dot]us will not disclose its cookies to third parties except when it is except if required in legal proceedings such as search warrant, subpoena, statute, or court order.
 
 Most browsers have settings to accept cookies. You can change your browser to refuse all cookies or to indicate when a cookie is sent. Please note, some parts of the Service Locator Socl[dot]us will not work properly if you refuse cookies.
 
- **What Information Do We Collect?**  
+**What Information Do We Collect?**  
 Socl[dot]us not collect specific information on yourself (such as your name, e-mail address, etc..) Unless you, the knowledge and to your satisfaction, providing such information. Socl[dot]us record and store information such as time, browser type, browser language, and IP address. That information is used to verify our records and to provide more relevant services to users.
 
- **Identity Data Information Sharing**  
+**Identity Data Information Sharing**  
 Socl[dot]us may share personal data to other companies or individuals in the following limited circumstances:
 
   1. If we have your permission to do that.
@@ -25,5 +25,5 @@ Socl[dot]us may share personal data to other companies or individuals in the fol
 
 
 
- **Rights of Common:**  
+**Rights of Common:**  
 We have the right to move any existing data to our designated company and we believe it to store information and assets Socl[dot]us. We reserve the right to change it at all or revise this Privacy Policy at any time.
