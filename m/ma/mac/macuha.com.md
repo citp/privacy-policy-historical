@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the macuha.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528212648id_/http%3A//www.macuha.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macuha.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229204037id_/http%3A//www.macuha.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AIM Global | Macuha.com
+# Privacy Policy - MACUHA DOT COM
+
+  * [](http://www.macuha.com/sikreto/?sid=JA021651-MC)
+
+
+
 
 I respect your privacy and I am committed to safeguarding your privacy while online at my site www.macuha.com . The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -23,3 +28,8 @@ I use outside ad companies to display ads on my site. These ads may contain cook
 
  **Contact Information**  
 If users have any questions or suggestions regarding my privacy policy, please contact me by filling up the [contact form](http://www.macuha.com/contact/).
+
+  * [](http://www.lazada.com.ph/camera-below-4000/#Q3569C8O3gzm25)
+
+
+
