@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezseonews.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531040023id_/http%3A//ezseonews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezseonews.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229144105id_/http%3A//ezseonews.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - ezSEO Newsletter
 
