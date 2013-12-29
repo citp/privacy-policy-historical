@@ -1,89 +1,168 @@
-> *The following text is extracted and transformed from the thexfactorusa.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501234336id_/http%3A//www.thexfactorusa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thexfactorusa.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229143321id_/http%3A//www.sonymusic.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Sony Music
 
-\------------------------
+This Privacy Policy describes our policies on the collection, use and disclosure of your information in connection with your use of our websites, emails, and mobile applications (“Site” or “Sites”).  Sony Music Entertainment (“Sony Music”) is a wholly owned subsidiary of Sony Corporation of America. Information collected on this Site may be used in the manner described below by Sony Music Entertainment, our labels, agents, subsidiaries, trusted partners and affiliates acting on our behalf (collectively, “Sony Music”). When used herein, the terms “we”, “us” and “our” refer to Sony Music.
 
-**1\. INTRODUCTION**
+When this Privacy Policy uses the term “personal information,” we mean information that identifies a particular individual, such as full name, street address, telephone number or email address.
 
-Fox Broadcasting Company, Syco TV a division of Simco Limited and FremantleMedia North America, Inc. (collectively, "THE X FACTOR," "we" or "us") provide www.THEXFACTORUSA.com, an entertainment website ("THE X FACTOR Website") and related services, such as, applications, community pages and any other features, content, promotions or games offered from time to time by THE X FACTOR including when accessed via the Internet, mobile or other devices (collectively, "THE X FACTOR Services"). Fox Broadcasting Company is part of the United States based operations of News Corporation. FremantleMedia North America, Inc. is part of the United States based operations of FremantleMedia Group. 
+Sony Music has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with[TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. Please note that TRUSTe provides this service only for information that is collected through Sony Music websites and does not cover information that may be collected through our mobile applications. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
-As set forth in THE X FACTOR [Terms of Use](https://web.archive.org/terms), THE X FACTOR Services are general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age. 
+We encourage you to review the entire Privacy Policy. Please click on any of the links below to review that particular section.
 
-This Privacy Policy applies to all users, including both those who use a THE X FACTOR Service without being registered with THE X FACTOR or subscribing to a THE X FACTOR Service and those who have registered with or subscribed to any THE X FACTOR Service. This Privacy Policy describes THE X FACTOR's collection and use of users' personal information (e.g., information that identifies a specific person, such as full name or email address) where that information is not otherwise publicly available on THE X FACTOR Services. We also describe generally THE X FACTOR's practices for handling non-personally identifiable information (e.g., interests, demographics and site usage) to the extent such information is associated with a particular user or user account. Your access to and use of certain THE X FACTOR Services may require you to accept additional terms and conditions or a privacy policy applicable to such THE X FACTOR Services. 
+* * *
 
-This Privacy Policy shall not apply to any unsolicited information you provide to us on or through THE X FACTOR Services ( **"Unsolicited Submissions"** ). Please see our Terms of Use for our policies regarding such Unsolicited Submissions. All such Unsolicited Submissions shall be deemed to be non-confidential, and we shall be free to reproduce, use, disclose and distribute such Unsolicited Submissions to others without limitation or attribution. 
+Collection and Use of Personal Information
 
-**2\. SUBMISSION AND COLLECTION OF INFORMATION ON THE X FACTOR SERVICES **
+Social Networks/Online Communities
 
-_User Submitted Information_
+Transactions
 
-**Registration Information** is the information that users must provide to THE X FACTOR at registration for a THE X FACTOR Service, for example, to receive a newsletter, enter a contest or sweepstakes, play a game or take a survey. Registration Information may include, for example, name, email address, zip code and birthday. Public Information and Posts consist of comments or content that you post to THE X FACTOR Services and the information about you that accompanies those posts or content, such as a username and/or user picture. 
+Information Sharing
 
-**Public Information and Posts** will always be public which means it will be available to everyone and will be displayed in search results both on THE X FACTOR Services and on external search engines. 
+Choice/Opt-Out
 
-**Third Party Information and Content.** If you access a THE X FACTOR Service through a third party connection or log-in, your user submitted information may also include your user ID and/or user name associated with that third party service, any information/content you have permitted the third party to share with THE X FACTOR, and any information you have made public in connection with that third party service (collectively, "Third Party Information and Content"). Third Party Information and Content obtained in this manner will be governed by this Privacy Policy, any applicable policy of the third party and the terms and conditions and/or terms of use for THE X FACTOR Service. 
+Tracking Technologies
 
-_ THE X FACTOR Collected Information _
+Security
 
-**Transactional and Site Activity Information.** When users access THE X FACTOR Services, we collect certain non-personally identifiable information about those visits. For example, in order to permit your connection to THE X FACTOR Services, our servers receive and record information about your computer and browser, including potentially your IP address, browser type, and other software or hardware information. If you access THE X FACTOR Services from a mobile or other device, we may collect a unique device identifier assigned to that device or other transactional information for that device in order to serve content to it. We may also use cookies and other tracking technologies (such as browser cookies, pixels, beacons, and Adobe flash technology), which are comprised of small bits of data that often include an anonymous unique identifier. Websites send this data to your browser when you first request a web page and then store the data on your computer so the website can access information when you make subsequent requests for pages from that site. These technologies may be used to collect and store information about your usage of THE X FACTOR Services, such as pages you have visited, search queries you have run, and advertisements you have seen. THE X FACTOR may also use cookies and similar tools to relate your use of THE X FACTOR Services to personal information obtained from you or a reputable third party. For example, if you have asked us to provide you information about our upcoming products or promotions, cookie and/or click stream data about your activities on THE X FACTOR Website may allow us to limit the materials we provide you to items we think you will find interesting, based on your prior online activities and preferences. 
+Updating Your Personal Information
 
-Third parties that support THE X FACTOR Services by serving advertisements or providing services, such as providing users with the ability to comment on content, allowing users to share content or tracking aggregate site usage statistics may also use these technologies to collect similar information. THE X FACTOR does not control these third party technologies and their use is governed by the privacy policies of these third parties using such technologies. For more information about third party ad networks that use these technologies, see www.aboutads.info. 
+Consent to Processing
 
-Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information (e.g., http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies). Users can manage the use of Flash technologies, including cookies, with the Flash management tools available at Adobe's website, see <http://www.adobe.com/products/flashplayer/security/privacy_policy/faq.html>. Please note that by blocking any or all cookies you may not have access to certain features or personalization available through THE X FACTOR Services. 
+Additional Information
 
-**Third Parties.** To improve the quality of our services, THE X FACTOR may supplement the information we collect with information we obtain from third parties. If you access a THE X FACTOR Service through a third party connection or log-in, we may also collect Third Party Information and Content. 
+Changes to This Policy
 
-**Collection of Payment Information by a Third Party.** If you elect to purchase a product or service in connection with THE X FACTOR Services you will be required to provide your payment information which may include your credit card information, billing address or other payment information, full name, phone number and shipping address (collectively, "Payment Information") in order to purchase such product or service. You acknowledge and agree that this Privacy Policy will not apply to any Payment Information that you provide to any independent third party company on THE X FACTOR Services and that all payment obligations related to such purchase shall be governed solely by the applicable independent third party company's privacy policy. You further acknowledge and agree that THE X FACTOR will have no liability for or control over such independent third party company's use or protection of your Payment Information. You should check the privacy policy of the independent third party company's website to determine how it will handle any Payment Information it collects from you and/or processes. You acknowledge and agree that in the event that such independent third party company experiences a data breach that compromises or otherwise affects your Payment Information, THE X FACTOR shall in no way be responsible or liable to you for such breach. You should contact the applicable independent third party company regarding any such data breach. 
+Your California Privacy Rights
 
-**3\. NOTICE & CHOICE**
+Questions About This Privacy Policy
 
-**Means of Notice and Choice.** This Privacy Policy is the primary means by which THE X FACTOR provides you with notice and choice about its collection and use of your personal information. THE X FACTOR will not use your personal information in a manner different from what is described in this Privacy Policy without your permission. 
+* * *
 
-**Privacy Policy Changes.** The X Factor may modify this Privacy Policy as necessary. If we make material changes to this Privacy Policy that expand our rights to use your personal information, we will notify you to seek your consent either through a email or a prominent posting on THE X FACTOR Website. In the event the last email address you provided to THE X FACTOR is not valid or is not capable of delivering the notice to you, THE X FACTOR's dispatch of an email containing the notice to that e-mail address shall nonetheless constitute effective notice. 
+**Collection and Use of Personal Information**
 
-**Location of Data.** The X FACTOR Services are hosted in the United States. If you are a user located outside the United States, you understand and consent to having any personal information you provide transferred to, processed, and stored in the United States and other countries where data protection and other privacy laws may not offer the same level of protection as in your jurisdiction, such as the European Union. This includes the use of cookies and other tracking technologies as described above. As a result, please read this Privacy Policy with care. 
+We may collect the following personal information from you:
 
-**Linked Services.** THE X FACTOR Services may also be linked to sites or services operated by Fox Broadcasting Company affiliates (i.e., that are part of the News America Group: "Fox Affiliated Companies") or third parties, and may carry advertisements or offer content, functionality, games, rewards programs, newsletters, contests or sweepstakes, or applications developed and maintained by third parties including, any online store. THE X FACTOR is not responsible for the privacy practices of any such third parties, and once you leave THE X FACTOR Services via a link, enable a third party service, or click an advertisement, you should check the applicable privacy policy of the third party site. Additionally, although all Fox Affiliated Companies adhere to the News Corporation corporate [Privacy Principles](http://www.newscorp.com/privacy.html), users who visit a Fox Affiliated Company site should still refer to its separate privacy policy, which may differ in some respects from this Privacy Policy. 
+  * Contact information such as name, email address, street address, and phone number
+  * Billing information such as credit card number and billing address
+  * Demographic information such as age, gender, interests, country and zip code
+  * Unique identifiers such as user name and password
+  * Preference and other information such as product wish lists, order history, marketing preferences and cell phone carrier
+  * Location information such as your actual or approximate location
 
-**4\. USE & DISCLOSURE**
 
-_Information Made Public Through Use of THE X FACTOR Services _
 
-Users' Public Information and Posts are always publicly available to anyone, including other users, search engines, advertisers, third party application developers, and anyone else with access to THE X FACTOR Services. 
+We or one of our trusted partners may use this information to:
 
-Third Party Information and Content may be publicly available according to the permissions you grant to THE X FACTOR, the applicable policies of the third party and the terms and conditions and/or terms of use for THE X FACTOR Service. 
+  * Send you requested updates and newsletters about an artist, type of music or related special offers
+  * Send you requested product or service information
+  * Send a one-time email or e-card to your friends upon your request when you provide their email address
+  * Fulfill your order
+  * Send you an order confirmation
+  * Respond to customer service requests, questions and concerns
+  * Administer your account
+  * Process information submitted with a job application
+  * Send you marketing communications
+  * Administer promotions and sweepstakes you enter and notify you of the results
+  * Improve our marketing efforts
+  * Conduct research and analysis
+  * Display content based upon your location and/or interests
+  * To provide location services such as “tagging” and “check-in”
 
-THE X FACTOR's Use and Disclosure of Information 
 
-We only share your non-public personal information with non-affiliated third parties when we believe sharing is permitted by you or authorized by this Privacy Policy. In addition, THE X FACTOR may share your personal information with Fox Affiliated Companies. 
 
-We use the information we collect from and about users for the following purposes:
+We also automatically collect information about your computer as you browse our Site(s).  Please see the Tracking Technologies section of this Privacy Policy. We will retain your information for as long as your account is active and as needed to provide you services.  We will use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
 
-**To provide and manage THE X FACTOR Services. ** We use the information we collect from and about users to provide THE X FACTOR Services and features to you, including to measure and improve those services and features, to personalize your experience by delivering relevant content, advertising and marketing messages, to allow you to comment on content, participate in online games, contests, promotions or rewards programs, to enable you to communicate and share with other users or services, and to provide you with customer support and respond to inquiries. We may use aggregated, anonymous data about use of and activity on THE X FACTOR Services to assist us in this regard and such data is not subject to this Privacy Policy. 
+**Social Networks/Online Communities**
 
-**To allow third party service providers to assist us in providing and managing THE X FACTOR Services. THE X FACTOR may make your non-public personal information available to certain third party service providers, such as contractors, agents or sponsors, who help us manage or provide THE X FACTOR Services by, for example: developing or supporting products and features; conducting email marketing on our behalf; processing payments; administering message boards; fulfilling orders; processing data or statistics; or assisting with the administration, judging and prize fulfillment aspects of contests, promotions and sweepstakes. These outside service providers are required to protect non-public personal information entrusted to them and not use it for any other purpose than the specific service they are providing to THE X FACTOR. **
+We enable you to create a profile for accessing blogs or online communities for sharing information such as messages, photos and videos.  Please note that we cannot control the actions of others with whom you may choose to share your pages and information.  We may also enable you to post content from some of our Sites to your profile on other social networks.  You can access these services from our Sites using Facebook Connect, Twitter, or other Open ID providers.  These services will authenticate your identity and allow you to post and share certain personal or other information with that site.  Please be aware that the privacy policy of that site will apply to any content you provide them in these instances.  We do not allow these services to provide any personal information or content back to our Sites or your profile with us unless you agree.  To request removal of your personal information from our blog or community forum, [contact us here](http://hub.sonymusic.com/about/feedback.php). If we are unable to remove your personal information, we will respond to your request with the applicable reasons.
 
-**To contact you.** THE X FACTOR may periodically send promotional materials (e.g., newsletters) or notifications related to THE X FACTOR Services to the email address you provided to us at registration or subscription to your account. If you want to stop receiving promotional materials from THE X FACTOR, Fox Broadcasting Company, Syco TV and FremantleMedia North America, Inc., follow the unsubscribe instructions at the bottom of each party's email. There are certain service notification emails that you may not opt-out of as long as you are registered with or subscribed to THE X FACTOR Services, such as notifications of changes to THE X FACTOR Services or policies. 
+**Transactions**
 
-**To deliver relevant advertising.** We may use the information you provide to us, and information we collect about your use of THE X FACTOR Services through cookies and other technologies, to assist us in delivering you relevant ads when you visit THE X FACTOR Services. We may work with third party advertising networks and advertisers who help deliver these ads to you. We do not share your non-public personal information with these third parties, but we may share anonymized or aggregated information with them to improve the relevancy of the ads you see on THE X FACTOR Services. As noted above, these third party advertising networks and advertisers may also use cookies and similar technologies to collect and track non-personally identifiable information such as demographic information, aggregated information, and Internet activity to assist them in delivering advertising that is more relevant to your interests. To find out more about third party online advertising and to opt out of this type of advertising, visit the [Network Advertising Initiative website](http://www.networkadvertising.org/managing/opt_out.asp). 
+You may purchase artists’ music or merchandise from some of our Site(s).  This Privacy Policy applies to any personal information you provide in connection with any such purchases.  In some instances, you may be directed to a third party site to initiate your transaction.  These third party sites will be clearly identified and link to their own privacy policies so you know which company is collecting your personal information.  You should refer to those policies for any privacy-related concerns regarding your purchase with them.
 
-**To protect the rights of THE X FACTOR and our users. ** There may be instances when THE X FACTOR may disclose user information without providing notice or choice, including situations where THE X FACTOR has a good faith belief that such disclosure is necessary in order to: (i) protect or defend the legal rights or property of THE X FACTOR, the Fox Affiliated Companies or their employees, agents and contractors (including enforcement of our agreements); (ii) protect the safety and security of users of THE X FACTOR Services or members of the public; (iii) protect against fraud or for risk management purposes; or (iv) comply with the law or legal process. 
+**Information Sharing**
 
-**To complete a merger or sale of assets.** If THE X FACTOR sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, THE X FACTOR may transfer your information to the party or parties involved in the transaction as part of that transaction. 
+We will share your personal information with third parties in the ways that are described in this Privacy Policy. We may provide your personal information to companies that help us with our business activities (e.g. processing credit card transactions, shipping your order, assisting us in Site operations, providing customer service, delivering email newsletters, etc.) or that assist us in improving our products, content, services or advertising.  These companies are authorized to use your personal information only as necessary to provide these services.
 
-**5\. SECURITY**
+We may also share your personal information:
 
-THE X FACTOR uses reasonable administrative, technical, personnel and physical measures to safeguard user information in its possession against loss, theft and unauthorized use, disclosure or modification. Unfortunately, no transmission of data over the Internet can ever be guaranteed to be completely secure. It may be possible for third parties not under our control to intercept or access transmissions or private communications unlawfully. While we strive to protect your personal information, THE X FACTOR cannot ensure or warrant the security of any personal information you transmit to us. Any such transmission is done at your own risk. If you believe that your interaction with us is no longer secure, please notify us of the problem by emailing [thexfactor.privacy@fox.com](mailto:thexfactor.privacy@fox.com). 
+  * With Sony Music affiliates and representatives of our current recording artists
+  * With affiliated Sony Group companies (i.e. any company in which Sony Corporation of America owns, directly or indirectly, 50% or more of its outstanding shares and any company with the name “SONY” as part of its trade name)
+  * With reputable third parties in whose products or services we think you may have an interest, with your prior consent to do so
+  * With representatives of former recording artists, who will be advised in advance that your consent is required for continued use
+  * As required by law, such as to comply with a subpoena or similar legal process
+  * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud or respond to a government request
+  * In connection with a corporate change including a merger, acquisition or sale of assets
+  * To any other third party with your prior consent to do so
 
-**6\. USER CONTROL**
 
-You may cancel your account by clicking on "delete your account" and may unsubscribe to THE X FACTOR newsletter by clicking the "unsubscribe" link at the bottom of the newsletter e-mail. Remember that even after you cancel your account, copies of some information that is publicly viewable may remain viewable in circumstances where, for example, you have commented on content on THE X FACTOR Services or if another person copied, stored or shared your information. We may also retain backup information related to your account on our servers for some time after cancellation for fraud detection or to comply with applicable law or our internal security policies. 
 
-If you would like to stop receiving messages from us on your mobile phone, please reply to the message with "STOP." You may also contact your wireless carrier for additional information on receiving or stopping mobile messages.
+**Choice/Opt-Out**
 
-**7\. CONTACT US**
+You may choose to stop receiving newsletters, updates or marketing emails by following the unsubscribe instructions included in these emails. Some Sites also allow you to change your email preferences within your online profile.
 
-If you have questions about this Privacy Policy, please contact THE X FACTOR by emailing [thexfactor.privacy@fox.com](mailto:thexfactor.privacy@fox.com). 
+If you choose to join a mobile marketing list, please be aware that there are usually costs associated with receiving SMS (text) or MMS (multimedia) messages depending on your wireless carrier and plan. You should check with your mobile carrier to determine what charges apply before signing up to receive our updates via your mobile phone. If you would like to stop receiving messages from us on your mobile phone, please reply to the message with “STOP.” You may also contact your wireless carrier for additional information on receiving or stopping mobile messages.
 
-**Your California Privacy Rights.** California Civil Code Section 1798.83 permits users who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send a request to the contact information above. 
+If you have previously enabled your computer or mobile device to send us location information, you may be able to opt-out from further allowing us to access such information by changing the settings on your computer or mobile device or by uninstalling the application.
+
+**Tracking Technologies**
+
+We and our third party partners may automatically collect information as you browse our Site(s) such as the domain name, Internet Service Provider, browser type and version, mobile device ID, operating system and device type, average time spent on our Site(s), pages viewed, information accessed, the Internet Protocol (IP) address you use to connect to the Internet and related geographical information about your computer or mobile device. Such information is sometimes referred to as web analytics and/or clickstream data.
+
+We and our third party partners use cookies and other technologies such as web beacons to keep track of your visits, preferences and profile information.  This information is used to make our Site(s) easier to use, improve our advertising, and to provide you with a more personal and convenient experience. For example, we may use this information to store some of your preferences or to provide you with tailored advertisements related to your specific interests. Additionally, should you choose to enroll, we and our third party partners may use this information to allow you to participate in one of our fan rewards programs. To learn more about the use of cookies in online advertising, including how to manage or delete them [click here](http://www.networkadvertising.org/managing/learn_more.asp).
+
+We and some of our third party partners use Flash cookies to store some of your preferences or personal information.  For more information on Flash cookies and how to manage privacy and storage settings [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).
+
+In some of our email messages, we use “click-through URLs” or pixel tags to determine whether the email has been opened and to measure the effectiveness of our customer communications.  This data may also be used to gauge your interest in particular topics, so we can deliver a more relevant, personal and convenient user-experience.
+
+**Security**
+
+The security of your personal information is important to us. When you enter sensitive billing information on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information.  We encourage you to read that privacy statement before providing your information.
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and after receipt. However, no method of transmission over the Internet or method of electronic storage is 100% secure and we cannot guarantee its absolute security.
+
+**Updating Your Personal Information**
+
+Our Sites may offer different methods for updating your personal information. To review and update your personal information on artist marketing Sites, please log in to your profile/account on each Site where you have registered.
+
+To update your billing or shipping information for purchases, please follow the customer service instructions in your order confirmation email.
+
+If you wish to cancel your account or request that we no longer use your information to provide you services contact us by [clicking here](http://hub.sonymusic.com/about/feedback.php).
+
+**Consent to Processing**
+
+Our Sites are operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect will be transferred to and processed in the United States. By using our Sites, or providing us with any information, you fully understand and unambiguously consent to this transfer, processing and storage of your information in the United States, a jurisdiction in which the privacy laws may not be as comprehensive as those in the country where you reside and/or are a citizen.
+
+**Additional Information**
+
+Widgets – Our Site(s) may include interactive mini-programs that provide specific services from another company (e.g., displaying digital news feeds, playing music, “liking” or sharing content, etc.), often referred to as widgets. You may have the opportunity to submit personal information, such as your email address, for collection through a widget. A widget may also use browser or Flash cookies and/or collect clickstream and usage data. Information collected by a widget is governed by the privacy policy of the company that created it.
+
+Links to Other Site(s) – Our Site(s) includes links to other site(s) whose privacy practices may differ from those of Sony Music.  If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any site you visit.
+
+Children – We do not attempt to collect any personal information from those under the age of 13. If you feel that we have unknowingly collected information from someone under the age of 13, please [contact us](http://www.sonymusic.com/about/feedback.php) immediately and this information will be removed.
+
+For more information on how to protect your children online:
+
+**Visit  [www.OnGuardOnline.gov](http://www.onguardonline.gov/) for social networking safety tips for [parents](http://www.onguardonline.gov/topics/social-networking-sites.aspx) and [youth](http://www.onguardonline.gov/topics/safety-tips-tweens-teens.aspx).**
+
+**Changes To This Policy**
+
+By using our Site(s), you agree to the terms of this Privacy Policy.  We may amend this Privacy Policy at any time and, as such, we encourage you to periodically review this page for the latest information on our privacy practices. If we make a material change to the way in which we collect, use, and/or share your personal information, we will send an email to users who have provided an email address or post a notice on our Site(s) prior to the change becoming effective.  Your continued use of the Site(s) after a revised version of this Privacy Policy has been posted will signify your consent to the terms of such revised policy.
+
+**Your California Privacy Rights**
+
+If you are a California resident, California Civil Code Section 1798.83 provides you the right to receive (a) information identifying any third party(ies) to whom we may have disclosed, within the preceding calendar year, your personal information for that third party’s direct marketing purposes; and (b) a description of the categories of personal information disclosed.  To obtain such information free of charge, please write to us at the address below, or [submit your request here](http://hub.sonymusic.com/about/feedback.php). We will respond to these requests within thirty (30) days. Requests that come to us by other means may result in a delayed response.
+
+**Questions About This Privacy Policy**
+
+If you have questions or concerns regarding this Privacy Policy, you should first contact Sony Music. You can contact us about this Privacy Policy by writing us:
+
+Sony Music Entertainment 550 Madison Avenue, Room 2316
+
+New York, NY 10022
+
+Or you can [click here](http://www.sonymusic.com/about/feedback.php) to submit feedback online.
+
+If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns TRUSTe provides this service only for information that is collected through Sony Music websites and does not cover information that may be collected through our mobile applications.
