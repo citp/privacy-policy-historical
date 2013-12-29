@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the dotsquares.com privacy policy that was archived on 2013-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130407002445id_/http%3A//www.dotsquares.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotsquares.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229012909id_/http%3A//www.dotsquares.com/privacy-policy) for the most accurate reproduction.*
 
-# Website Design Brighton & Hove,Web Design Sussex UK,Web Development
+# Privacy Policy
 
-Business privacy policy
-
-We are committed to the safeguarding the privacy of our website visitors. This privacy policy sets out how Dotsquares Ltd. uses and protects any information that you give Dotsquares Ltd. when you use this website. 
+We are committed to the safeguarding the privacy of our website visitors. This privacy policy sets out how Dotsquares Ltd. uses and protects any information that you give Dotsquares Ltd. when you use this website.
 
 Dotsquares Ltd. is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, and then you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -14,10 +12,8 @@ Dotsquares Ltd. may change this policy from time to time by updating this page. 
 
 We may collect, store and use the following types of information:
 
-  * name and job title.  
-
-  * contact information including email address   
-
+  * name and job title.
+  * contact information including email address
   * demographic information such as postcode, preferences and interests
   * other information relevant to customer surveys and/or offers
   * information about your computer and about your visits to and use of this website (including your IP address, browser type and version, operating system, referral source, length of visit, page views, website navigation)
@@ -34,8 +30,8 @@ We require this information to understand your needs and provide you with a bett
   * Internal record keeping.
   * We may use the information to improve our products and services.
   * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. 
-  * We may contact you by email, phone, fax or mail. 
+  * From time to time, we may also use your information to contact you for market research purposes.
+  * We may contact you by email, phone, fax or mail.
   * We may use the information to customise the website according to your interests.
 
 
