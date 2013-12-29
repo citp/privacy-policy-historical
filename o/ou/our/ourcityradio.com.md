@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourcityradio.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602194516id_/http%3A//ourcityradio.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourcityradio.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229122745id_/http%3A//ourcityradio.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Our City Radio » Privacy Policy
 
@@ -97,3 +97,5 @@ If you are a California resident, you have the right to request information abou
 2\. the names and addresses of the third parties that received that information; and
 
 3\. if the nature of the third party’s business cannot be determined from their name, examples of the products or services marketed.
+
+[](http://www.hupso.com/share/)
