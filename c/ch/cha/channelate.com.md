@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channelate.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512141847id_/http%3A//www.channelate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelate.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229080555id_/http%3A//www.channelate.com/privacy-policy) for the most accurate reproduction.*
 
 # Channelate - Privacy Policy
 
