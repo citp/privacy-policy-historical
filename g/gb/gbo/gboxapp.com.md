@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gboxapp.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603225519id_/http%3A//gboxapp.com%3Fid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gboxapp.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229140444id_/http%3A//gboxapp.com%3Fid%3D2) for the most accurate reproduction.*
 
-# GadgetBox - The web in a box
+# Gboxapp - The web in a box
 
 **The GadgetBox  Privacy Statement**
 
