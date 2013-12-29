@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the firehouse.com privacy policy that was archived on 2013-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630114124id_/http%3A//www.firehouse.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the firehouse.com privacy policy that was archived on 2013-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131229121132id_/http%3A//www.firehouse.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head>
 
@@ -12,19 +12,19 @@
    <!-- Meta tag includes -->
    <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
-<meta name="viewport" content="width=device-width, initial-scale=0.8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta property="fb:app_id" content="231310240241402">
 
 
    
 
    <!-- Begin included CSS -->
-   <link rel="stylesheet" type="text/css" href="http://www.firehouse.com/app/merrick/files/www.firehouse.com/css/master.orion.css?m=1372367417">
+   <link rel="stylesheet" type="text/css" href="http://www.firehouse.com/app/merrick/files/www.firehouse.com/css/master.orion.css?m=1387310385">
 
    <!-- End included CSS -->
 
    <!-- Begin included scripts -->
-   <script type="text/javascript" defer="" async="" src="/lib/piwik/piwik.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+   <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
 <script type="text/javascript" src="http://ox-d.firehouse.com/w/1.0/jstag"></script>
 <script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
@@ -42,7 +42,7 @@
 }
 
 </script>
-<script type="text/javascript" src="http://www.firehouse.com/app/merrick/files/www.firehouse.com/js/54582e73006f7739c6603845ed9bb77a.js"></script>
+<script type="text/javascript" src="http://www.firehouse.com/app/merrick/files/www.firehouse.com/js/b111d98d05148be40a2c634aa44d6770.js"></script>
 
 
    
@@ -67,10 +67,53 @@ var _gaq = _gaq || [];
                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
                   })();
 
+      var _baq = _baq || [];
+      window.trackerData = {"page_type":"Page: Privacy Policy"};
+      (function() {
+
+         var 
+            u = '/lib/baretrax/',
+            token = $.cookie('token');
+
+         _baq.push(['_setAccount', 5]);
+         _baq.push(['_setTrackerUrl', 'http://btl.firehouse.com/tracker']);
+
+         if (typeof window.trackerData.page_type !== 'undefined')
+         {
+            _baq.push(['_setPageType', window.trackerData.page_type]);
+         }
+         
+         if (token)
+         {
+            _baq.push(['_setUserId', token]);
+         }
+         _baq.push(['_setPageView']);
+
+         if (typeof window.trackerData.events !== 'undefined')
+         {
+            _baq.push(['_setEventGroup', 'view', window.trackerData.events]);
+         }
+
+         _baq.push(['_trackEvents']);
+         //console.log(_baq);
+
+         var d=document,
+         g=d.createElement('script'),
+         s=d.getElementsByTagName('script')[0];
+         g.type='text/javascript';
+         g.defer=true;
+         g.async=true;
+         g.src=u+'baretrax.js';
+         s.parentNode.insertBefore(g,s);
+         //console.log(_baq);
+      })();  
+   
+
    var default_fb_image = 'http://r3.cygnuspub.com/files/media/www.firehouse.com/orion/site_logo_fb.png';
 
-var OX_b39bfedd = OX();
-OX_b39bfedd.addAdUnit('366398,113476,113483,113484,113485');  OX_b39bfedd.addPage('10310');
+var OX_default = OX();
+if (typeof openxOnAdUnitRenderFinish === "function") {OX_default.addHook(openxOnAdUnitRenderFinish, 4);}
+OX_default.addAdUnit('469068,366398,113476,113483,113484,113485');  OX_default.addPage('10310');
 //]]>
 </script>
 
@@ -128,17 +171,40 @@ $(document).ready(function(){
 		});
 
 
+
    /* If the ad is being displayed, provide close button functionality */
    /* Animate the ad gracefully. */
+
    var timeout = 15000;
+
    if (typeof $('#welcome_ad')[0] != 'undefined' && $('#welcome_ad')[0].nodeName == 'DIV'){
+
       $('#welcome_ad .close').click(function(){ $('#welcome_ad').animate({ height: 0 }, 800, function() { $(this).remove(); }); });
+
       $('#welcome_ad').animate({ height: 520 }, 800);
-      if ($('#welcome_ad[class^=\'time_\']').length > 0){
+
+      if ($('#welcome_ad[class^=\'time_\']').length > 0) {
+
          var timeout = $('#welcome_ad[class^=\'time_\']').attr('class').split('_')[1]*1000;
+
       }
-      setTimeout("$('#welcome_ad').animate({ height: 0 }, 800, function() { $(this).remove(); });", timeout);
+
+      window.welcomeAdTimeoutHandle = window.setTimeout(function() {
+         $('#welcome_ad').animate({ height: 0 }, 800, function() { $(this).remove(); });
+      }, timeout);
+
+      $('#welcome_ad').on('hover', function() {
+
+         if ($(this).hasClass('persist-on-hover')) {
+
+            window.clearTimeout(window.welcomeAdTimeoutHandle);
+
+         }
+
+      });
+
    } else {
+
       if ($('#welcome_frame').contents().find('#welcome_ad[class^=\'time_\']').length > 0){
          var timeout = $('#welcome_frame').contents().find('#welcome_ad[class^=\'time_\']').attr('class').split('_')[1]*1000;
       }
@@ -160,19 +226,43 @@ $(document).ready(function(){
 
 
 
-      var items = $('.ad_tracking');
+      $( '.ad_tracking' ).on( 'click', function() {
+         
+         var openxAdObj = openxGetAdObject($(this));
+
+         if (typeof openxAdObj.adunit_id !== 'undefined') {
+            btAdClickHandler(openxAdObj);
+            _gaq.push(['_trackEvent', 'Advertising', 'Click', openxAdObj.adunit_id, undefined, true]);
+         }
+
+      }).find( '.close' ).on( 'click', function() {
+         return false;
+
+      });
+
+
+      var ad_units = $('.ad_tracking');
       var blocks = $('.block_level_tracking');
+
       $(window).on('scroll load', function () {
 
-         items.each(function() {
-            var ad_unit_id = $(this).attr('rel');
+         ad_units.each(function(index) {
+            var openxAdObj = openxGetAdObject($(this));
             var inviewport = $(this).is(':topInViewport');
 
             if (inviewport && !$(this).data('displayed')) {
+               // Mark the ad as being viewed
                $(this).data('displayed', true);
-               _gaq.push(['_trackEvent', 'Advertising', 'In-View Impression', ad_unit_id, undefined, true]);
-            }
 
+               // Remove from the loop
+               ad_units.splice(index, 1);
+
+               // Send to GA and Baretrax
+               if (typeof openxAdObj.adunit_id !== 'undefined') {
+                  btAdImpressionHandler(openxAdObj);
+                  _gaq.push(['_trackEvent', 'Advertising', 'In-View Impression', openxAdObj.adunit_id, undefined, true]);
+               }
+            }
          });
 
          blocks.each(function() {
@@ -224,9 +314,9 @@ window.setTimeout('social_activity_init()', 1000);});
    
 <script type="text/javascript">
 //<![CDATA[
-OX_b39bfedd.addVariable("env", "live");
-OX_b39bfedd.addVariable("pathname", "/privacy-policy");
-OX_b39bfedd.fetchAds();
+OX_default.addVariable("env", "live");
+OX_default.addVariable("pathname", "/privacy-policy");
+OX_default.fetchAds();
 //]]>
 </script>
 
@@ -239,6 +329,11 @@ OX_b39bfedd.fetchAds();
    
    
 
+
+
+
+            
+   
 
 
 <!-- Quantcast -->
@@ -279,7 +374,10 @@ OX_b39bfedd.fetchAds();
 <!-- Background Ad JS (custom) -->
 
 
+
+
 <!-- addOptions wrapper (custom) -->
+
 
 
 
@@ -304,8 +402,10 @@ OX_b39bfedd.fetchAds();
 <!-- OAS Ad Buffer -->
 
 
-<!-- Piwik -->
+<!-- Lotame Tracking -->
 
+
+<!-- Piwik -->
 
 
 
@@ -342,9 +442,6 @@ OX_b39bfedd.fetchAds();
 
 
 
-<!-- Background container -->
-<div id="background_container"></div>
-
 <div id="ad_hug">
 	<div id="ad_hug_left"></div>
 	<div id="ad_hug_right"></div>
@@ -365,8 +462,8 @@ OX_b39bfedd.fetchAds();
       </a>
 <br>
          <div class="primary">
-   	<a id="subscribe_link" class="subscribe button_tertiary button grid_item" href="/subscribe">Subscribe</a>      <a id="login_link" href="/reg/login/display?referer=/privacy-policy" class="login button_primary button grid_item" title="Sign In">Login</a>
-      <a id="register_link" href="/reg/register/display?referer=/privacy-policy" class="button_secondary button register grid_item alpha" title="Register for Firehouse">Register</a>
+   	<a id="subscribe_link" class="subscribe button_tertiary button grid_item" href="/subscribe">Subscribe</a>      <a id="login_link" href="/reg/login/display" class="login button_primary button grid_item" title="Sign In">Login</a>
+      <a id="register_link" href="/reg/register/display" class="button_secondary button register grid_item alpha" title="Register for Firehouse">Register</a>
       
       <div class="social_login grid_item">
          <script type="text/javascript">
@@ -401,8 +498,12 @@ OX_b39bfedd.fetchAds();
 
    <div class="header_advertisement">
 	<aside class="ad_728x90">
-   <div class="openx_ad ad_tracking" rel="113475" id="openx_adunit_id__113475"><script type="text/javascript">OX_b39bfedd.showAdUnit("113475");</script></div>
+   <div class="openx_ad ad_tracking" rel="113475" id="openx_adunit_id__113475"><script type="text/javascript">OX_default.showAdUnit("113475");</script></div>
 </aside>
+   <aside class="ad_225x90">
+   <div class="openx_ad ad_tracking" rel="469068" id="openx_adunit_id__469068"><script type="text/javascript">OX_default.showAdUnit("469068");</script></div>
+</aside>
+
    </div>
 
 </header>
@@ -427,18 +528,8 @@ OX_b39bfedd.fetchAds();
 							<a href="http://www.firehouse.com/topics/emergency-vehicles-operations" title="Emergency Vehicles &amp; Operations" class="single">Emergency Vehicles &amp; Operations</a>
 						</li>
 																											<li class="item">
-							<a href="http://www.firehouse.com/topics/firefighter-safety" title="Firefighter Safety" class="sidedrawer">Firefighter Safety<span class="decoration"></span></a>
-								<div class="sidedrawer_nav" style="display: none;">
-									<ul class="list">
-																					<li class="item">
-											<a href="http://www.firehouse.com/2010-safety-week" title="Safety Week 2010" class="first">Safety Week 2010</a>
-										</li>
-																					<li class="item">
-											<a href="http://www.firehouse.com/2011-safety-week" title="Safety Week 2011" class="last">Safety Week 2011</a>
-										</li>
-																				</ul>
-								</div>
-						</li>									
+							<a href="http://www.firehouse.com/topics/firefighter-safety" title="Firefighter Safety" class="single">Firefighter Safety</a>
+						</li>
 																											<li class="item">
 							<a href="http://www.firehouse.com/topics/prevention-investigation" title="Fire Prevention &amp; Investigation" class="single">Fire Prevention &amp; Investigation</a>
 						</li>
@@ -588,10 +679,7 @@ OX_b39bfedd.fetchAds();
 							<a href="http://www.firehouse.com/shop/specialty" title="Specialty" class="single">Specialty</a>
 						</li>
 																											<li class="item">
-							<a href="http://www.firehouse.com/shop/vehicle-equipment" title="Vehicle Equipment" class="single">Vehicle Equipment</a>
-						</li>
-																											<li class="item">
-							<a href="http://www.firehouse.com/product-highlights" title="2012 Product Highlights" class="last single">2012 Product Highlights</a>
+							<a href="http://www.firehouse.com/shop/vehicle-equipment" title="Vehicle Equipment" class="last single">Vehicle Equipment</a>
 						</li>
 																			</ul>
 				</div>					
@@ -610,16 +698,13 @@ OX_b39bfedd.fetchAds();
 							<a href="http://www.firehouse.com/directory/listing-faqs" title="Listing FAQs" class="single">Listing FAQs</a>
 						</li>
 																											<li class="item">
-							<a href="http://www.firehouse.com/directory/advertising-opportunities" title="Advertising Opportunities" class="single">Advertising Opportunities</a>
-						</li>
-																											<li class="item">
-							<a href="http://www.firehouse.com/product-highlights" title="2012 Product Highlights" class="last single">2012 Product Highlights</a>
+							<a href="http://www.firehouse.com/directory/advertising-opportunities" title="Advertising Opportunities" class="last single">Advertising Opportunities</a>
 						</li>
 																			</ul>
 				</div>					
 					</li>
 				<li class="" rel="#section_6542">
-						<a href="http://www.firehouse.com/events" class="primary_a dropdown">Expos &amp; Events</a>
+						<a href="http://www.firehouse.com/events" class="primary_a dropdown">Events</a>
 				<div class="dropdown_nav" style="display: none;">
 					<ul class="list">
 																				<li class="item">
@@ -671,7 +756,7 @@ OX_b39bfedd.fetchAds();
 				</div>					
 					</li>
 				<li class="" rel="#section_6543">
-						<a href="http://www.firehouse.com/magazine/fh" class="primary_a dropdown">Magazine</a>
+						<a href="http://www.firehouse.com/magazine/fh" class="primary_a dropdown">Magazine/MembersZone</a>
 				<div class="dropdown_nav" style="display: none;">
 					<ul class="list">
 																				<li class="item">
@@ -693,10 +778,7 @@ OX_b39bfedd.fetchAds();
 							<a href="http://www.firehouse.com/heroism" title="Heroism Awards" class="single">Heroism Awards</a>
 						</li>
 																											<li class="item">
-							<a href="http://www.firehouse.com/magazine/fh/archive" title="Archives" class="single">Archives</a>
-						</li>
-																											<li class="item">
-							<a href="http://www.firehouse.com/advertise" title="Media Kit" class="last single">Media Kit</a>
+							<a href="http://www.firehouse.com/magazine/fh/archive" title="Archives" class="last single">Archives</a>
 						</li>
 																			</ul>
 				</div>					
@@ -782,6 +864,9 @@ OX_b39bfedd.fetchAds();
 							<a href="http://www.firehouse.com/blogs/the-business-behind-firefighting" title="The Business Behind Firefighting" class="single">The Business Behind Firefighting</a>
 						</li>
 																											<li class="item">
+							<a href="http://www.firehouse.com/blogs/views-from-the-jumpseat" title="Views from the Jumpseat" class="single">Views from the Jumpseat</a>
+						</li>
+																											<li class="item">
 							<a href="http://www.firehouse.com/blogs/a-burning-passion" title="A Burning Passion" class="single">A Burning Passion</a>
 						</li>
 																											<li class="item">
@@ -791,28 +876,16 @@ OX_b39bfedd.fetchAds();
 							<a href="http://www.firehouse.com/blogs/riding-with-captain-dave" title="Riding with Captain Dave" class="single">Riding with Captain Dave</a>
 						</li>
 																											<li class="item">
-							<a href="http://www.firehouse.com/blogs/structural-anatomy-of-buildings-on-fire" title="Structural Anatomy of Buildings on Fire" class="single">Structural Anatomy of Buildings on Fire</a>
-						</li>
-																											<li class="item">
 							<a href="http://www.firehouse.com/blogs/playing-it-safe" title="Playing it Safe" class="single">Playing it Safe</a>
 						</li>
 																											<li class="item">
 							<a href="http://www.firehouse.com/blogs/the-view-from-my-front-porch" title="The View from my Front Porch" class="single">The View from my Front Porch</a>
 						</li>
 																											<li class="item">
-							<a href="http://www.firehouse.com/blogs/on-the-bleeding-edge-of-change" title="On the Bleeding Edge of Change" class="single">On the Bleeding Edge of Change</a>
-						</li>
-																											<li class="item">
-							<a href="http://www.firehouse.com/blogs/views-from-the-jumpseat" title="Views from the Jumpseat" class="single">Views from the Jumpseat</a>
-						</li>
-																											<li class="item">
 							<a href="http://www.firehouse.com/blogs/life-as-a-fire-wife" title="Life as a Fire Wife" class="single">Life as a Fire Wife</a>
 						</li>
 																											<li class="item">
-							<a href="http://www.firehouse.com/blogs/firehouse-best-practices-blog" title="Firehouse Best Practices Blog" class="single">Firehouse Best Practices Blog</a>
-						</li>
-																											<li class="item">
-							<a href="http://www.firehouse.com/blogs/ready-set-train" title="Ready, Set, Train" class="last single">Ready, Set, Train</a>
+							<a href="http://www.firehouse.com/blogs/fire-les-sons-on-leadership" title="Fire Les-sons on Leadership" class="last single">Fire Les-sons on Leadership</a>
 						</li>
 																			</ul>
 				</div>					
@@ -840,6 +913,7 @@ OX_b39bfedd.fetchAds();
 			</ul>
 <!-- end secondary navigation -->
 </nav>
+
 
 
 
@@ -924,7 +998,7 @@ OX_b39bfedd.fetchAds();
    
    
    <aside class="ad_300x250">
-   <div class="openx_ad ad_tracking" rel="113477" id="openx_adunit_id__113477"><script type="text/javascript">OX_b39bfedd.showAdUnit("113477");</script></div>
+   <div class="openx_ad ad_tracking" rel="113477" id="openx_adunit_id__113477"><script type="text/javascript">OX_default.showAdUnit("113477");</script></div>
 </aside>
 
    
@@ -955,7 +1029,7 @@ OX_b39bfedd.fetchAds();
 
    
    <aside class="ad_300x600">
-   <div class="openx_ad ad_tracking" rel="366398" id="openx_adunit_id__366398"><script type="text/javascript">OX_b39bfedd.showAdUnit("366398");</script></div>
+   <div class="openx_ad ad_tracking" rel="366398" id="openx_adunit_id__366398"><script type="text/javascript">OX_default.showAdUnit("366398");</script></div>
 </aside>
    
    <div class="clear"></div>
@@ -995,7 +1069,7 @@ var params = {
     <div class="ad_container">
         
         <aside class="ad_728x90">
-   <div class="openx_ad ad_tracking" rel="113476" id="openx_adunit_id__113476"><script type="text/javascript">OX_b39bfedd.showAdUnit("113476");</script></div>
+   <div class="openx_ad ad_tracking" rel="113476" id="openx_adunit_id__113476"><script type="text/javascript">OX_default.showAdUnit("113476");</script></div>
 </aside>
 
     </div>
@@ -1084,6 +1158,11 @@ var params = {
 </div>
 
 
+   <style type="text/css">
+.reg-prompt-form .container {
+   width: 630px !important;
+}
+</style>
 <div class="container reg-prompt-container">
 	<div class="reg-prompt message">
 		<div class="reg-prompt-header">
@@ -1092,6 +1171,7 @@ var params = {
 			<a class="reg-prompt login  button_primary button" href="/reg/login/display">Log in</a>
 		</div>
 		<div class="reg-prompt-body">
+
 
 						<div class="reg-prompt-intro">
 		   	
@@ -1115,15 +1195,15 @@ var params = {
          <!--[if gte IE 6 ]> <iframe src="/welcomead.html?env=live&pathname=%2Fprivacy-policy" align="middle" scrolling="no" frameborder="0" id="welcome_frame" style="left:25%;right:25%;width:640px;height:0px;margin:0 auto;"></iframe><![endif]-->
       <!--[if (gt IE 9)|!(IE)]><!-->
          <aside class="ad_flexible">
-   <div class="openx_ad ad_tracking" rel="113483" id="openx_adunit_id__113483"><script type="text/javascript">OX_b39bfedd.showAdUnit("113483");</script></div>
+   <div class="openx_ad ad_tracking" rel="113483" id="openx_adunit_id__113483"><script type="text/javascript">OX_default.showAdUnit("113483");</script></div>
 </aside>
       <!--[endif]---->
 
             <aside class="ad_flexible">
-   <div class="openx_ad ad_tracking" rel="113484" id="openx_adunit_id__113484"><script type="text/javascript">OX_b39bfedd.showAdUnit("113484");</script></div>
+   <div class="openx_ad ad_tracking" rel="113484" id="openx_adunit_id__113484"><script type="text/javascript">OX_default.showAdUnit("113484");</script></div>
 </aside>
             <aside class="ad_flexible">
-   <div class="openx_ad ad_tracking" rel="113485" id="openx_adunit_id__113485"><script type="text/javascript">OX_b39bfedd.showAdUnit("113485");</script></div>
+   <div class="openx_ad ad_tracking" rel="113485" id="openx_adunit_id__113485"><script type="text/javascript">OX_default.showAdUnit("113485");</script></div>
 </aside>
       
 
@@ -1157,8 +1237,12 @@ var params = {
 
 
 
-   <script type="text/javascript" src="http://srv.admailtiser.com/pix/asyncPixelLoader.js?url=http%3A%2F%2Fconvusmp.admailtiser.com%2Fst%3Fcias%3D1%26cipid%3D89000%26ttype%3D0%26pix%3D31118986"></script>
-<script type="text/javascript" src="http://www.firehouse.com/app/merrick/files/www.firehouse.com/js/5810c50d493c5601bb0c89c00e5b993b.js"></script>
+
+
+
+   <script type="text/javascript" src="http://tags.crwdcntrl.net/c/3676/cc_af.js"></script>
+<script type="text/javascript" src="http://srv.admailtiser.com/pix/asyncPixelLoader.js?url=http%3A%2F%2Fconvusmp.admailtiser.com%2Fst%3Fcias%3D1%26cipid%3D89000%26ttype%3D0%26pix%3D31118986"></script>
+<script type="text/javascript" src="http://www.firehouse.com/app/merrick/files/www.firehouse.com/js/90cd7be718332886b55821cab392528e.js"></script>
 
 
    
@@ -1182,47 +1266,6 @@ var params = {
    });
    
    
-
-window['tracker_data'] = { };
-try {
-   var _paq = _paq || [];
-   (function(){
-    var u='/lib/piwik/';
-    _paq.push(['setSiteId', 20]);
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setDomains','*.firehouse.com']);
-    _paq.push(['setCustomData',window['tracker_data']]);
-    _paq.push(['setRequestMethod','POST']);
-    _paq.push(['trackPageView']);
-    _paq.push(['enableLinkTracking']);
-    var d=document,
-        g=d.createElement('script'),
-        s=d.getElementsByTagName('script')[0];
-        g.type='text/javascript';
-        g.defer=true;
-        g.async=true;
-        g.src=u+'piwik.js';
-        s.parentNode.insertBefore(g,s);
-   })();
-} catch( err ) { }
-
-function track_action(action,name,data) {
-
-   if (typeof name == 'undefined') var name = '';
-   if (typeof data == 'undefined') var data = window['tracker_data'];
-   data['action_'+action] = true;
-   try {
-     var u='/lib/piwik/';
-     var piwikTracker = Piwik.getTracker(u + 'piwik.php', 20);
-     piwikTracker.setDomains('*.firehouse.com');
-     if (name != '') piwikTracker.setDocumentTitle(name);
-     piwikTracker.setCustomData(data);
-     piwikTracker.setRequestMethod('POST');
-     piwikTracker.trackPageView();
-   } catch( err ) { }
-}
-
-
 
 <!-- Default Insight Tag -->
 var _bizo_data_partner_id = "786";
