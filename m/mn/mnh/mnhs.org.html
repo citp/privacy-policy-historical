@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mnhs.org privacy policy that was archived on 2013-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629213828id_/http%3A//www.mnhs.org/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mnhs.org privacy policy that was archived on 2013-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131229051713id_/http%3A//www.mnhs.org/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!-- InstanceBegin template="/Templates/about.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -21,41 +21,57 @@
 <script type="text/javascript" src="http://www.mnhs.org/web_assets/js/jquery.hoverIntent.min.js"></script>
 <script type="text/javascript" src="http://www.mnhs.org/web_assets/js/jquery.client.min.js"></script>
 <script type="text/javascript" src="http://www.mnhs.org/web_assets/js/jquery.topzindex.min.js"></script>
-<script type="text/javascript" src="http://www.mnhs.org/web_assets/js/jquery.topzindex.min.js"></script>
 <script type="text/javascript" src="http://www.mnhs.org/web_assets/js/swfobject.js"></script>
-
-<script type="text/javascript" src="http://www.mnhs.org/web_assets/js/jquery.jmpopups-0.5.1.js"></script>
 
 <script type="text/javascript" src="http://www.mnhs.org/web_assets/js/jquery.mhs_dropnav.js"></script>
 
 <!-- <script src="http://legacy.mnhs.org/sites/all/includes/ismobile.php" type="text/javascript"></script> -->
 
 <link rel="stylesheet" href="http://www.mnhs.org/web_assets/stylesheets/dropnav/drop-navigation.css" type="text/css" media="screen">
-<!-- Reset -->
-<!-- Menu -->
-<!--[if IE 6]>
-<link rel="stylesheet" href="http://www.mnhs.org/web_assets/stylesheets/mega/ie/ie6.css" type="text/css" media="screen" />
-<![endif]-->
-<!--[if IE]>
-<style>
-#wrap-container {
-	background-image:none;
-}
-#wrap-container #search #keyword {
-	padding-top:3px;
-}
-
-</style>
-<![endif]-->
 <!--end global header-->
 
 
-
-
-<!-- <start of the shutdown code begins here-->
-<script type="text/javascript" src="http://www.mnhs.org/web_assets/js/jquery-1.5.min.js"></script>
-<script type="text/javascript" src="http://www.mnhs.org/web_assets/js/jquery.jmpopups-0.5.1.js"></script>
 <script type="text/javascript">
+var state = 0;
+function animate(state){
+switch(state){
+	case 0:
+		$('#expanding-ad, #expanding-ad img ').animate({
+				height: "244px"
+		}, 1000, "linear", function() {  $('#expanding-ad p.copy').animate({	opacity: 1}); 
+		});
+	$('.tbutton').addClass('false');
+		$('#expanding-ad p.initial-copy').animate({	opacity: 0.0}, 0); 
+		$('.tbutton').removeClass('true');
+		$('.tbutton').text('(Close)');
+		break;
+	case 1:
+		$('#expanding-ad, #expanding-ad img ').animate({
+    		height: "100px"
+		}, 500, "linear", function() {  $('#expanding-ad p.initial-copy').animate({	opacity: 1.0}, 500); 
+		});
+
+		$('#expanding-ad p.copy').animate({	opacity: 0.0}, 100); 
+		$('.tbutton').addClass('true');
+		$('.tbutton').removeClass('false');
+		$('.tbutton').text('(+)');
+		break;
+	}//end switch
+
+}
+
+jQuery(document).ready(function($) {
+
+	$('.tbutton').click(function() {
+		if ($(this).hasClass("false") ) {
+	  	animate(1);
+	  }
+	else{
+	  animate(0);
+	}
+});
+
+
 function getCookie(c_name)
 {
 var i,x,y,ARRcookies=document.cookie.split(";");
@@ -82,71 +98,35 @@ var date = new Date();
 var month = date.getMonth();
 var day = date.getDate();
 
-function checkCookie()
-{
-var sdnotice=getCookie("sdnotice");
-
-// month is one less than current array notaion
-if(month == "11" && day == "26"){
-	//openStaticPopup();
-	//alert('the day is correct');
-	if (sdnotice!=null && sdnotice!="")
-	  {
-	 // alert("Welcome again " + sdnotice);
-	  }
+function checkCookie(){
+	var sdnotice=getCookie("sdnotice");
+	if(month == "10" && day == "14"){
+	$('#expanding-ad p a').text('Donate Now!');
+		if ((sdnotice == undefined)){
+			//alert('if: ' + sdnotice);
+			setCookie("sdnotice",'Message Already Displayed',1);
+			animate(0);
+		}
+		else{
+			//alert('else: ' + sdnotice);
+			animate(1);
+		}
+	}
 	else{
-		setCookie("sdnotice",'true',1);
-		openStaticPopup();
-		}//end else
-	}//end if
+			animate(1);	
+	}
 }//end check cookie
 
-			//<![CDATA[
-				$.setupJMPopups({
-					screenLockerBackground: "#000000",
-					screenLockerOpacity: "0.8"
-				});
-				function openStaticPopup() {
-					$.openPopupLayer({
-						name: "myStaticPopup",
-						width: 500,
-						target: "myHiddenDiv"
-					});
-				}
-				function openAjaxPopup() {
-					$.openPopupLayer({
-						name: "mySecondPopup",
-						width: 500,
-						url: "http://www.mnhs.org/shutdown-alert.html"
-					});
-				}
-			//]]>
 jQuery(document).ready(function($) {
-$.closePopupLayer('.close-link');
-checkCookie();
+$('#expanding-ad').click(function(){window.location.href = "http://sites.mnhs.org/support/make-gift";});
+	checkCookie();
+});
+	
+	
 });//end jQuery(document).ready(function($)
 </script>
 <!-- </end of the shutdown code here-->
 
-<style>
-#myHiddenDiv {
-display:none;
-width:200px;
-height:300px;
-background:#fff;
-border-radius:10px;
-position:relative;
-}
-.inner{position:relative;}
-.close-link{
-	border:0!important;
-	text-shadow:0;
-	text-decoration:none;
-	position:absolute!important;
-	bottom:-8px!important;
-	right:-15px!important;
-}
-</style>
 </head>
 <body>
 <div align="center">
@@ -197,7 +177,7 @@ position:relative;
 	    <div class="clear"></div>
 
         <div id="logopos">
-        <a href="http://www.mnhs.org"><img src="http://www.mnhs.org/web_assets/mhs-logo-145-white.png" alt="Minnesota Historical Society Logo" id="mhs-logo"></a>
+        <a href="http://www.mnhs.org" target="_blank"><img src="http://www.mnhs.org/web_assets/mhs-logo-145-white.png" alt="Minnesota Historical Society Logo" id="mhs-logo"></a>
         </div>
 
 
@@ -205,18 +185,29 @@ position:relative;
     <div class="clear"></div>
 </div><!-- End wrap-container-->
 <div class="clear"></div>
-
-<!--
-<div id="myHiddenDiv">
-<div class="inner">
-<img src="http://www.mnhs.org/web_assets/12-26-mask.jpg" border="0" usemap="#Map2" />
-    <map name="Map2" id="Map2">
-      <area shape="rect" coords="119,178,489,255" href="http://www.usdakotawar.org/history/war-aftermath/trials-hanging" />
-    </map>
-	<a href="javascript:;" onclick="$.closePopupLayer('myStaticPopup')" title="Close" class="close-link"><img src="http://www.mnhs.org/web_assets/close-btn.png" /></a></p> 
-</div>
-</div>
--->
+<div class="message"><a target="_blank" href="http://sites.mnhs.org/support/make-gift">Help preserve Minnesota history! Make your fully tax-deductible gift by December 31st.<div class="button">Give Now!</div></a></div>
+<style>
+.message{
+display:block;
+text-align:center;
+background:#990000;
+padding:1em;
+}
+.message a{
+	color:#fff;
+	text-decoration:none;
+}
+.message .button{
+	display:inline;
+	padding:.25em .5em;
+	margin:0 0 0 10px;
+	border:2px solid #fff;
+	border-radius:4px;
+}
+.message .button:hover{
+	text-decoration:underline;
+}
+</style>
 
 <!--Navigation Here -->
 <!--mhs-primary-navigation.inc -->
@@ -424,7 +415,7 @@ position:relative;
                           
 	<li><a href="http://www.mnhs.org/about/publications/FY12_AnnualReport.pdf">Annual Report (PDF)</a></li>
 
-	<li><a href="http://www.mnhs.org/about/publications/FinancialStatements2012.pdf">Financial Report (PDF)</a></li>
+	<li><a href="http://www.mnhs.org/about/publications/FinancialStatements2013.pdf">Financial Report (PDF)</a></li>
 <li><a href="http://www.mnhs.org/about/publications/Information-Policy-Adopted-Jan-17-2007_.pdf">Information Policy(PDF)</a></li>
 	<li><a href="http://www.mnhs.org/historymatters">History Matters</a></li>
 						  
