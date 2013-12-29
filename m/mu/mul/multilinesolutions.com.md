@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the multilinesolutions.com privacy policy that was archived on 2013-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130306020105id_/http%3A//multilinesolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multilinesolutions.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229100530id_/http%3A//multilinesolutions.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Strange & Interesting
 
 Welcome to http://multilinesolutions.com (the “Site”).
 
