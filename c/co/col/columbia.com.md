@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the columbia.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604030812id_/http%3A//www.columbia.com/Privacy-Policy/Privacy_Policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbia.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229195531id_/http%3A//www.columbia.com/Privacy-Policy/Privacy_Policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Columbia Sportswear | Privacy Policy
 
 **COLUMBIA SPORTSWEAR PRIVACY POLICY**
 
-**Last Updated: June 7, 2012**
+**Last Updated: November 14, 2013**
 
 This privacy policy ("Policy") explains how your personal information is collected, used, and disclosed by Columbia Sportswear Company and its subsidiaries and affiliated companies, including Mountain Hardwear and Sorel ("Columbia" or "We"). Unless we otherwise indicate, this Policy applies to all personal information collected by Columbia from any source, including information collected through our online services and activities, including this Website and our mobile applications (collectively, "Sites"), and at retail locations. This Policy will not apply where we display or link to a different privacy policy.
 
@@ -14,11 +14,15 @@ We collect information from you in various ways. We collect personal information
 
 When you visit our Sites, some information is automatically collected. For example, we may collect your computer's operating system, Internet Protocol (IP) address, access times, browser type and language, and referring Web site addresses. If you access our Sites from a mobile device, we may also collect information about the type of mobile device you use, your device's unique ID, the type of mobile Internet browsers you use and information about the location of your device (for information about how to opt-out of location information collection, please see "Your Information Choices and Changes" below). We also collect information about your usage of and activity on our Sites.
 
-Cookies. We may automatically collect information using "cookies." Cookies are small data files stored on your hard drive by a Web site. Among other things, cookies help us improve our Sites and your experience. We use cookies to see which areas and features are popular and to count visits to our Sites. If you set your browser not to accept cookies or if you reject a cookie, it may affect certain features or services of our Sites.
+Cookies. We may automatically collect information using "cookies." Cookies are small data files stored on your hard drive by a Web site. Among other things, cookies help us improve our Sites and your experience. We use cookies to see which areas and features are popular and to count visits to our Sites. We may also use technologies such as our own cookies to provide you with enhanced online display advertising tailored to your interests. To opt out of advertising provided by Columbia, [click here](http://dtmc.columbia.com/adinfo/adchoices_fpc.html?cid=2558&cname=Columbia%20Sportswear&cmagic=2288f6&clogo=columbia_sportwear.png). If you set your browser not to accept cookies or if you reject a cookie, it may affect certain features or services of our Sites.
 
 Web Beacons. We may collect information using Web beacons. Web beacons, or "gifs," are electronic images that may be used on our Sites or in our emails. We use Web beacons to deliver cookies, count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon.
 
 We use third party cookies and web beacons to help us compile aggregated statistics about our Sites. We receive assurances from those third parties that they will not collect or access your personal information on our Sites.
+
+**COLUMBIA ADS ON THIRD PARTY WEBSITES**
+
+We may use information collected using third-party cookies and web beacons on our Sites and in our emails to deliver Columbia-branded advertising displayed to you on third-party websites. We also may use cookie information to know when you return to our website after visiting these third-party websites. We use this and other information about you to try to understand your interests and show you relevant advertising about products and services that may interest you. If you would like more information about this practice and to know your choices about not having this information used for these purposes, visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 **THIRD PARTY ADVERTISEMENTS**
 
