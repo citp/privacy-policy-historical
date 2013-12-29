@@ -1,170 +1,120 @@
-> *The following text is extracted and transformed from the sexintheuk.com privacy policy that was archived on 2013-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130415050112id_/http%3A//www.sexintheuk.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexintheuk.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229123701id_/http%3A//app.sexintheuk.com/help/privacy.cfm) for the most accurate reproduction.*
 
-# 
+# SexInTheUK :: SexInTheUK Member Privacy Policy
 
-**Privacy Policy**
+_Last updated on Wednesday 16th January, 2013_
 
-(' **We** ') Interactive Dating and Entertainment Limited (IDE) is committed to protecting and respecting your privacy.
+### Proprietor
 
-This policy (together with our [terms and conditions of use](https://web.archive.org/helptandc.asp?s=s) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+For the purposes of the Data Protection Act 1998 we confirm that the proprietor and operator of the SexInTheUK website at http://new.sexintheuk.com (the "Website") and the dating and networking service offered via the site (the "Service") is Global Personals Limited, a company registered under the laws of England, whose registered office is Minton Place, Victoria Street, Windsor, Berkshire, SL4 1EG ("we," "us," "our" or "Global Personals"). Global Personals can be contacted via the contact section on the Website or by writing to our registered address.
 
-As SexInTheUK ([www.sexintheuk.com](http://www.sexintheuk.com/)) is owned and operated by Interactive Dating and Entertainment Limited, your data will be stored and controlled by IDE which is the data controller for the purposes of the Data Protection Act 1998 (the ' **Act** ').
+Global Personals respects the privacy of each user accessing the Website ("you," "your") and is committed to protecting your privacy. Global Personals has structured the Website so that, in general, it is necessary to provide log-in information and identify yourself to access the Website. Global Personals ensures that any personal information provided by you to Global Personals will be processed in accordance with the eight principles of the Data Protection Act 1998 and the Privacy Policy set out below. The Website is registered with the Information Commissioner in accordance with the Data Protection Act 1998.
 
-**What information do we collect about you?**
+### Submission and Processing of Data
 
-We may collect and process the following information about you:
+When you subscribe or sign up to the Website, Global Personals may ask you for certain information and, subject to the Terms governing use of the Website, you may submit to or communicate through the Website, personal data of any kind, such as:
 
-  * > Information that you provide by filling in forms on our site SexInTheUK (the ' **Site** ') (including your personal details, contact details, mobile phone number email address and other profile information you submit when you create a membership profile). We may also collect information when you voluntarily complete customer surveys, provide feedback and participate in competitions.
-  * > Information from your web-based email accounts (including your profile picture and other publicly visible information) if you agree to add the Site's email address to the contact lists stored at your email provider's website.
-  * > Information from your other social network accounts (see full details below under ‘What information do you collect from other social networks I use?’)
-  * > Your location according to the IP address assigned to your PC or mobile device by your Internet Service Provider (see full details below under ‘Location data’)
-  * > If you contact us, we may keep a record of that correspondence.
-  * > Details of transactions you carry out through the Site, including any information we require to provide any products or services that you order from us through the Site.
-  * > Website usage information is also collected using cookies (see below under 'Cookies').
+  * your name, phone number, postal address, email address, contact and bank / credit card details;
+  * if you contact us, a record of that correspondence;
+  * your answers to any surveys that we use for research purposes, although you do not have to respond to them; or
+  * details of your visits to the Website including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
 
 
-**What information do you collect about my location?**
+Global Personals may also record which services you are interested in and which services you purchase as well as user traffic patterns and site use. This information will be kept securely in accordance with an internal security policy and may be used to:
 
-To help find other Site users nearby we collect data from your computer or mobile device which provides us with your location which is displayed to other users on the Site. When accessing from a mobile device you will be given the option to allow location sharing with our application. If you do not wish to share your location data with us please turn off this feature by following your mobile device instructions to do so.
+  * process your communications, your membership of and subscription to the Website and to enable your use of the Website and the services;
+  * provide you with an up to date, efficient and reliable service;
+  * help fraud prevention i.e. Global Personals checks card details with credit agencies and reserves the right to refuse to make available the Website services on that basis (your credit rating can be checked for a nominal fee with the main UK agencies Equifax and Experian);
+  * open and run your account;
+  * administer prize draws;
+  * provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes; and
+  * generally run the Website.
 
-We may also connect your account with location data applications such as FourSquare, and can show your FourSquare check-ins on our map within our Site for example.
 
-**How will we use the information about you?**
 
-We use the information we hold about you in the following ways:
+By registering and submitting your data you agree to this use.  
+From time to time Global Personals also monitor and record telephone calls for training purposes and to improve the service to you.  
+Global Personals will never collect sensitive information about you without your explicit consent.
 
-  * > To administer your user account with us (including notifying you of any compatible matches, tips, announcements, updates, special offers or services, should you consent to this).
-  * > To help us improve the structure, layout and usability of the Site.
-  * > To allow you to participate in any interactive features of the Site(including the features that require the mobile phone number).
-  * > To help personalise your repeat visits to the Site.
-  * > To notify you of any compatible matches or any matches who are near your location.
-  * > To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes (see below under 'Marketing' for more information). Such information may be sent to you by email or by SMS (if you provided your mobile phone number).
-  * > To answer any questions you may raise or respond to any comments you may send to us.
-  * > To notify you about changes to our service or the functionality of the Site.
-  * > To carry out market analysis and research.
-  * > To ensure that you are complying with the [terms and conditions of use](https://web.archive.org/helptandc.asp?s=s) and to comply with our statutory and regulatory obligations.
+### Associate Websites
 
+The Service is offered through and accessible through a number of other web sites in addition to the Website. By registering with the Website and submitting data to or through the Website you acknowledge and accept that all data that you post to the Website for access by members of the Website may be searchable and available to users of the Service who access it via different web sites from the Website. 
 
+Global Personals makes an effort to ensure that members of the Service are not connected with other members that may be inappropriate and therefore apply various classifications to the various web sites that provide access to the Service. By registering with the site you acknowledge and accept that Global Personals may apply certain classifications to your profile due to your accessing the Service via the Website and may use such classifications to restrict:
 
-**What information do we collect about others?**
+  * the availability of communication between yourself and other members of the Service;
+  * the availability of the details of other members of the Service to yourself; and
+  * the availability of your details to other members of the Service.
 
-  * > Some features of the Site allow you to share your Site experience with people you know (“your Contacts”), or to invite them to join the Site. When given the option to do so you can choose to upload your Contacts information; we will request their name and email address.
-  * > If you give us your password to upload these Contacts through a web based email provider we shall not store your password after you have uploaded your Contacts’ addresses.
-  * > You may also choose to invite friends through your connected social networks. You assume all responsibility for ensuring that when you select a friend to be invited by email, application or SMS that the person wants to receive that invite from you.
 
 
+### Marketing Communications
 
-**How do we use information about your Contacts?**
+If you have used the Website before, it is possible that Global Personals have this information already and it is being used to contact you about offers, events, items or related activities that you may find useful. If you are an existing customer, Global Personals will continue to keep you informed unless you tell us not to.
 
-  * > If you choose to upload your Contact’s name and email address and/or mobile number you are allowing us to send an email or social network or mobile invitation on your behalf, inviting your Contact to join the Site.
-  * > We will store your Contact’s name and email address solely for the purposes of inviting them to join our Site and for associating your Contact with you and other people they may know.
-  * > If your Contact does not want us to store their email address which you uploaded to our Site, they can ask us to remove it by contacting us at [datarequest@ideemail.com](mailto:datarequest@ideemail.com)
-  * > We will not store your Contacts information after invitations (up to a maximum of 3) have been sent. Your Contacts will then only receive future emails from us if they choose to accept the invitation and join our Site, or if you use any of our tools to share experiences with your Contacts and you input their email address for us to use again.
+If you are a new customer, Global Personals will give you the choice (for example, once you have subscribed or signed up) whether or not you want us or other reputable companies to contact you about future offers, events and new services or related activities that you may find useful. Global Personals will not bombard you with emails, but Global Personals would like to keep you informed of any developments on the Website.
 
-**Disclosure of your information**
+Global Personals and the Website do not sell, trade or rent your personal information to other companies and partners but from time to time may want to share data with other reputable companies both within and outside the European Union who may have interesting offers and information for you.
 
-As we continue to develop our business, we might sell or buy assets. In such transactions, the information we have collected about you will generally be one of the transferred business assets. Also in the unlikely event that we or our assets are purchased, your information will also be one of the transferred assets. We may share information about you with:
+Global Personals and the Website will not send you any marketing emails or pass your information on to third parties unless you give your consent or you have given it already. If you wish to receive this information, on the "My Settings" page please select "On" next to the option to receive "Relevant information from selected third parties" and click the "Save my settings" button.
 
-    * > Other companies in the same corporate group as us.
-    * > A buyer or prospective buyer of our business.
-    * > Our professional advisers, such as our lawyers, where it is necessary for them to advise us.
-    * > Other persons if we are under a duty to disclose or share your information in order to comply with any legal obligation.
+### Cookies
 
-We may also share information about you with third parties that we engage to help us in certain areas, such as processing payments for services you order from us. However, we will control and be responsible for the use of your information by these third parties.
+In order to improve the service and the Website, Global Personals may use a device known as a 'cookie'. Cookies are a means by which information relating to your Internet activity (such as whether you have visited the Website before) is recorded on your hard drive and used by us to improve the Website and the services and services available to you.
 
-We may also provide information about you to other users of the Site as reasonably required in order to provide the services that you order from us.
+Cookies enable us:
 
-**Marketing and other uses of your non-personal data by us and by third parties**
+  * To estimate our audience size and usage pattern;
+  * To store information about your preferences, and so allow us to customise our site according to your individual interests;
+  * To speed up your searches; and
+  * To recognise you when you return to our site.
 
-We may share your mobile telephone number and/or email address with carefully selected third parties to allow those third parties to market their products and services to you through us, or directly by the third party. We will also market our company’s brands, products and services to you from time to time.
 
-We may share non-personal information we collect under any of the above circumstances. We may share it with our own companies or other third parties to develop and deliver targeted advertising to you, or to help us prepare or share aggregate business and marketing reports.
 
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes please tick the appropriate boxes situated in the ' **My Account** ' area of the Site. You can also ask us to not to use your personal information, or to pass your details on to third parties for marketing purposes, by e-mailing us at: [unsubscribe@ideemail.com](mailto:unsubscribe@ideemail.com)
+Use of cookies is integral to the operation of the Website and if you disable cookies the Website will not function upon your computer.
 
-**User Profiles**
+### Security of Personal Data
 
-We may include your user profile in other IDE and Partner Network sites and allow users from these sites to view your profile and communicate with you. Therefore some of the user profiles that you view on the Site may have originated from other IDE and Partner Network sites.
+Transmission of data and information via the Website is not a secure or encrypted transmission method for sending your personal data, unless otherwise indicated on the Website. Accordingly, your attention is drawn to the fact that any information and personal data carried over the Internet is not secure. Information and personal data may be intercepted, lost, redirected, corrupted, changed and accessed by other people.
 
-**Cookies**
+We set strict security standards to prevent any unauthorised access to your personal data once we have received it and wherever possible we will use adequate security software and working procedures to ensure the security of your personal data. To prevent unauthorised access, maintain accuracy, and ensure proper use of personal data, we have employed physical, electronic, and managerial processes to safeguard and secure the information we collect online.
 
-We may collect information about your computer or mobile device by using Cookies. If you use our site you are consenting to the use of Cookies as explained here.
+### Disclosure of Personal Data
 
-Cookies are small text files that are placed on your computer by websites that you visit and provide statistical data to us, that does not identify you personally but an tell us a lot about your browsing habits to tailor your user experience to suit your needs. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. We use cookies to enhance our security, help us gather information during subscription and understand our web traffic trends.
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
-They help us to improve the Site and to deliver a better and more personalised service. They enable us:
+We may disclose your personal information to third parties:
 
-    * > To estimate our audience size and usage pattern.
-    * > To store information about your preferences, and so allow us to customise the Site according to your individual interests.
-    * > To speed up your searches.
-    * > To recognise you when you return to the Site.
-    * > To provide anoymised statistical information: Non-personal data may be gathered on our behalf using cookies, log file data, and code that is embedded on our websites by specific third party partners. We use this non-personal information to help improve the services we provides to you.
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
+  * If Global Personals or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets; 
+  * For the purpose of asking that third party to carry out data analysis, cleansing and/or market research on our behalf; or
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/help/terms.cfm "terms of use"); or to protect the rights, property, or safety of Global Personals, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-When you visit the publicly available sections of the Site, a session ID cookie is placed on your computer that only lasts while you’re visiting. We also place persistent cookies (also known as local storage devices) on members’ computers, so that we remember them to make your login in process faster and easier. You may set your browser to block cookies and local storage devices, but if you do so, you may not be able to access all of the features of the Site.
 
-This table shows fully the cookie functions and why they are used, although our uses may change over time and it is important that you revisit this page to understand these uses:
 
-| **Cookie Functions**|  **Cookie Purposes**  
----|---  
-Analytics and research| We use the information collected by Google Analytics to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  
-Authentication| These cookies help us to identify our members so that when you’re logged in, you can enjoy all of the features without having to continually log in – our Site “remembers” you and allows you full access without the need to keep entering your log in details.  
-Security and site integrity| We may use cookies and other devices, such as CAPTCHAs, to help keep the Site and our members safe and secure by protecting the Site from fraud and spam attacks to keep your data safe.  
-Site features and services| These cookies and local storage devices provide the functionality that our members enjoy, such as uploading of photographs, chats, instant messaging, your account settings etc. We also use cookies to help provide experiences, such as links to other social media sites, social plugins and video content, including making it easier for you to share content between the Site with your other favourite social networks.  
-In some cases, the site feature you choose may allow a third party to place cookies or local storage devices on your computer. The third party who places cookies on your device is responsible for how they process their data you should always read their privacy policies. Third parties who place cookies on your device when you use the Site include Twitter and Facebook whose own privacy policies apply.  
-Performance| We need to use certain cookies and local storage devices to ensure our members have the best possible experience, such assisting with your navigation of our site, ensuring pages load up quickly and respond faster to your requests for our Site and Services.  
-  
-For further information about cookies visit: [http://www.aboutcookies.org](http://www.aboutcookies.org/)
+### Subject Access Rights
 
-**Where we store your personal data**
+Under the Data Protection Act 1998, we have to provide you, as a "data subject", with a readable copy of all personal data which we may hold about you, within 40 days of receiving your written request for us to provide it. The Data Protection Act 1998 allows us to charge a fee of £10 pounds for this. Evidence or proof of your identity (for example, a copy of your passport, driver's licence or current bills) will be required.
 
-The personal data that we collect from you may be transferred to, and stored at, a location outside the European Economic Area (' **EEA** '). It may also be processed by staff located outside the EEA who work for us or for one of our suppliers (for example, staff who are involved in providing services that you order from us, processing your payment details or providing support services for the Site). By submitting your personal data to us through the Site, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+It is both in our interest and yours to store and process accurate personal data. If the data we hold about you is inaccurate in any way, where appropriate, you may have your personal data corrected by us on request by having it:
 
-Where we have given you (or where you have chosen) a password or user ID code which enables you to access certain parts of the Site, you are responsible for keeping the password or user ID code confidential. We ask you not to share a password or user ID code with anyone.
+  * completed;
+  * amended; and/or
+  * erased.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Site; any transmission is at your own risk. Once we have received your information, we will use procedures and security features to try to prevent unauthorised access.
 
-**Other Websites**
 
-The Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+Please contact us to update any of your personal data or to request access to your personal data by addressing the "Information Officer" via:
 
-**Access to information and correction**
+Email:   [support@globalpersonals.co.uk](mailto:support@globalpersonals.co.uk "Send an email to support@globalpersonals.co.uk")
 
-You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please contact us at [info@ideemail.com](mailto:info@ideemail.com). Please note that we may make a small charge for this service.
+We reserve the right to refuse to provide you with a copy of your personal data based on the exemptions set out in the Data Protection Act 1998, but if we do refuse we will give full reasons for our refusal and allow you to challenge our decision.
 
-We want to make sure that your personal information is accurate and up to date. You can ask us to correct or remove information you think is inaccurate at any time by e-mailing us at [info@ideemail.com](mailto:info@ideemail.com)
+If you have any questions or comments about privacy or the Website privacy policy, or if you already have submitted information that you do not wish us to have or if you think that the Website has cookies or data about you that you don't want us to use or that is incorrect please contact us by email (at [support@globalpersonals.co.uk](mailto:support@globalpersonals.co.uk "Send an email to support@globalpersonals.co.uk")) and the information will be corrected as soon as possible or removed from the database as you request.
 
-**Deletion of accounts**
+### Changes to this Privacy Policy and Transfers of Ownership
 
-Even after you remove information from your profile or delete your account, copies of that information may still be viewable and/or accessed on the Internet to the extent such information has been previously shared with others, or copied or stored by other users or to the extent such information has been shared with search engines. We cannot control this, nor do we accept any liability for this. If you have given third party applications or websites access to your personal information they may retain such information to the extent permitted under their terms of service or privacy policies.
+You agree that if we transfer ownership or management of the Website or Global Personals to a third party we may also transfer your personal data or other personal data you have provided to us, including all sensitive personal data and any other information about you to such third party, provided such third party agrees to observe this policy.
 
-**Changes to our privacy policy**
-
-We keep our privacy policy under regular review and will post any changes to it on this page. We encourage you to regularly review our privacy policy to make sure you are always aware of what information we collect, how we use it and under what circumstances, if any, we may share it with other parties.
-
-**Additional Privacy Protections for Children Using the Internet**
-
-We do not solicit or target persons younger than legal age for collection of information online. Our Site does not permit children under the age of 18 to become users and we do not accept any information from children. By submitting information via the Site you represent that you are over the age of 18. We encourage minors to seek the consent of their parents before providing any information about themselves or their households to anyone on the Internet. We encourage parents to take an active role to protect the privacy and security of their children and to prevent the inappropriate use of information about their children. We support the development of technologies that help parents to control the collection and use of personal information from children who use online services in their households.
-
-**Questions**
-
-If you have any questions about this privacy policy then please contact us at [info@ideemail.com](mailto:info@ideemail.com)
-
-**Contact**
-    
-        Interactive Dating and Entertainment Limited
-    Unit 145,
-    43 Bedford Street,
-    Covent Garden,
-    London,
-    WC2E 9HA
-    UNITED KINGDOM
-
-Email: [info@ideemail.com](mailto:info@ideemail.com)
-    
-        Customer Services:
-    United Kingdom (Freephone); 0808-189-0105
-    USA/Canada (Toll Free); 1-800-987-8048
-
-
-
+Global Personals will post any changes to this Privacy Policy on the Website from time to time and, where appropriate, notify you by e-mail. Please be sure to regularly check our Privacy Policy before using the Website. Continued use of the Website shall indicate your acceptance of any changes to this Privacy Policy.
