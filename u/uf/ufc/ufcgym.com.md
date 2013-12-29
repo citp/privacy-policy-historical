@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the ufcgym.com privacy policy that was archived on 2013-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130301133806id_/http%3A//www.ufcgym.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufcgym.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229090256id_/http%3A//www.ufcgym.com/privacy) for the most accurate reproduction.*
 
 # UFC Gym | The Ultimate Fitness Destination | Privacy Policy
 
 **PRIVACY POLICY**  
-Welcome to the ufcgymspecialoffers.com website. This website is owned and operated by Combattimento Gymnasiums, LLC d/b/a UFC Gym (which may be referred to herein as “we”, “our”, or “us”). We want ufcgymspecialoffers.com to be your source for fitness information, products, services and tools. Your privacy as you use our website is important to us. This privacy policy describes what information we gather from you, how we use that information and what we do to protect it.  
+Welcome to the ufcgym.com website. This website is owned and operated by U Gym, LLC d/b/a UFC Gym (which may be referred to herein as “we”, “our”, or “us”). We want ufcgym.com to be your source for fitness information, products, services and tools. Your privacy as you use our website is important to us. This privacy policy describes what information we gather from you, how we use that information and what we do to protect it.  
 **  
 Information We Gather  
 Personally Identifiable Information**  
