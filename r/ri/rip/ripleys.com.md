@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ripleys.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501074345id_/http%3A//www.ripleys.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripleys.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230001353id_/http%3A//www.ripleys.com/corporate/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ripley's Corporate
+# Privacy Policy
 
 **Ripley Entertainment, Inc.,** together with its parent, subsidiary and affiliated companies (collectively, “Ripley”) owns and operates this website and/or mobile application (the “Site”). We recognize that you may be concerned about our treatment of the personally identifiable information (“Information”) that you provide to us on this Site.
 
