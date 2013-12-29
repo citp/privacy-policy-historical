@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panda.org privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629061346id_/http%3A//wwf.panda.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panda.org privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229143544id_/http%3A//wwf.panda.org/privacy) for the most accurate reproduction.*
 
 # WWF - WWF Online Privacy Policy
 
@@ -12,8 +12,7 @@ Please check this page periodically for changes. Your continued use of this site
   * WWF is committed to ensuring the privacy of your personal information.
   * We will not sell or pass on your information to any other organization outside of WWF unless you specifically and expressly give us permission to do so.
   * We always give you the option to unsubscribe from our mailing lists.
-  * If you are under 18 years old, we suggest that you ask your parents or guardian before signing up on this site.  
-
+  * If you are under 18 years old, we suggest that you ask your parents or guardian before signing up on this site.
 
 
 
@@ -36,7 +35,10 @@ a) Personal information...
 
 b) Non-personal information...
 
-WWF collects data such as IP address (the location of the computer on the internet), pages accessed and files downloaded. This helps us to determine how many individuals use our site, how many people visit on a regular basis, which pages are most popular, and which pages are least popular. This information doesn't tell us anything about who you are, it simply allows us to monitor and improve our service.
+WWF collects data such as IP address (the location of the computer on the internet), pages accessed and files downloaded. This helps us to determine how many individuals use our site, how many people visit on a regular basis, which pages are most popular, and which pages are least popular. This information doesn't tell us anything about who you are, it simply allows us to monitor and improve our service.  
+  
+We use Google Analytics including Display Advertising (e.g. Remarketing, Google Display Network Impression Reporting. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads).  
+
 
 **2\. Where will the information be held?**
 
