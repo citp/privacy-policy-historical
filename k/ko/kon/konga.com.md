@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the konga.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630151901id_/http%3A//www.konga.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the konga.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229125410id_/http%3A//www.konga.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Konga.com - Privacy Policy
+# Privacy Policy | Konga Nigeria
 
 We value the trust you place in konga.com. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices. Note: Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.
 
