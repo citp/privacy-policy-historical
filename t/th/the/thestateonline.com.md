@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestateonline.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605211355id_/http%3A//www.thestate.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestateonline.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229054101id_/http%3A//www.thestate.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # The State Columbia, SC
 
