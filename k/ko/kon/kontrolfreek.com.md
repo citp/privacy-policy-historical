@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the kontrolfreek.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624205020id_/http%3A//www.kontrolfreek.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kontrolfreek.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229202702id_/http%3A//www.kontrolfreek.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# KontrolFreek Privacy Policy: Xbox 360 & PS3 Performance Game Controller Accessories by KontrolFreek
-
-KontrolFreek Privacy Policy: Xbox 360 & PS3 Performance Game Controller Accessories by KontrolFreek
+# Privacy Policy
 
 KontrolFreek has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: KontrolFreek.com. 
 
@@ -40,4 +38,4 @@ Atlanta, GA 30318
 ## Contacting KontrolFreek  
 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Customer Support using our [webform](http://www.kontrolfreek.com/contact.asp).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Customer Support using our [webform](http://www.kontrolfreek.com/contact-us/).
