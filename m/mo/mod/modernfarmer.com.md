@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the modernfarmer.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524201400id_/http%3A//modernfarmer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernfarmer.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229085501id_/http%3A//modernfarmer.com/privacy) for the most accurate reproduction.*
 
-# Modern Farmer | Privacy
+# Privacy - Modern Farmer
 
 **Protecting Your Privacy and Servicing Your Needs**  
 Modern Farmer is a quarterly magazine devoted to the people, policy, issues, animals plant and technology of farming and food. We bring you the ideas, insights and information that inspire and enable people to improve their lives and the world around them. We value integrity, and we’re deeply committed to protecting your privacy and the security of the information you share with us.
