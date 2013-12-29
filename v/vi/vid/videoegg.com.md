@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videoegg.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624181103id_/http%3A//www.saymedia.com/fine-print) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoegg.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229023136id_/http%3A//www.saymedia.com/fine-print) for the most accurate reproduction.*
 
 # The Fine Print | Say Media
 
