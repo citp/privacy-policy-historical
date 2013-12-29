@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcworld.ie privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630232422id_/http%3A//www.pcworld.ie/content/Privacy-Policy/932) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcworld.ie privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229234042id_/http%3A//www.pcworld.ie/content/Privacy-Policy/932) for the most accurate reproduction.*
 
 # PCWorld | Laptops| Netbooks | iPods | TV's
 
