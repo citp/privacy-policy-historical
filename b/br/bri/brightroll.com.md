@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightroll.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624181034id_/http%3A//www.brightroll.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightroll.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229023104id_/http%3A//www.brightroll.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BrightRoll
 
@@ -6,7 +6,7 @@ This privacy policy (the “Policy”) describes the privacy practices of Bright
 
 The collection, use and disclosure of information by BrightRoll Network/BRX sites is governed by the privacy policies and practices of the BrightRoll Network/BRX sites and their operators; BrightRoll does not control such policies and practices.
 
-[](http://www.brightroll.com//privacy.truste.com/privacy-seal/BrightRoll,-Inc-/validation?rid=975dc02c-76fa-4ddf-a52f-93d71059665d "TRUSTe online privacy certification")
+[](http://www.brightroll.com/wp-content/uploads/2008/11/trust_e_logo.png)
 
 **BrightRoll, Inc. has been awarded TRUSTe’s Privacy Seal** signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s web privacy & TRUSTed Data Program](http://www.truste.com/privacy-program-requirements/3rd-party-data-collection/), including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program covers only information that is collected through the Network, BRX and this website and does not cover data collected by mobile devices.
 
@@ -18,14 +18,46 @@ BrightRoll does not collect personal information regarding users for use in deli
 
 This policy covers the following areas in detail:
 
-[**What Data We Collect and How We Collect It**](http://www.brightroll.com/privacy/#datacollection)  
-[**Cookies & Tracking Pixels**](http://www.brightroll.com/privacy/#cookies)  
-[**Third-Party Data Collection**](http://www.brightroll.com/privacy/#3rdparty)  
-[**What Data We Disclose and Who We Disclose It To**](http://www.brightroll.com/privacy/#disclosure)  
-[**What Data We Use and How We Use It**](http://www.brightroll.com/privacy/#datausage)  
-[**Choice**](http://www.brightroll.com/privacy/#choice)  
-[**Children’s Privacy**](http://www.brightroll.com/privacy/#children)  
-[**Security**](http://www.brightroll.com/privacy/#security)  
+[**What Data We Collect and How We Collect It**](http://www.brightroll.com/privacy/#datacollection)
+
+[**Personally Identifiable Information (PII)**](http://www.brightroll.com/privacy/#PII)
+
+[**Cookies & Tracking Pixels**](http://www.brightroll.com/privacy/#cookies)
+
+[**Opt-out**](http://www.brightroll.com/privacy/#optout)
+
+[**Third-Party Data Collection**](http://www.brightroll.com/privacy/#3rdparty)
+
+[**Tracking Pixels**](http://www.brightroll.com/privacy/#pixels)
+
+[**Other Information is Collected.**](http://www.brightroll.com/privacy/#other)
+
+[**What Data We Use and How We Use It**](http://www.brightroll.com/privacy/#datausage)
+
+[**What Data We Disclose and Who We Disclose It To**](http://www.brightroll.com/privacy/#disclosure)
+
+[**Third-party Information Gathering**](http://www.brightroll.com/privacy/#gathering)
+
+[**Correspondence**](http://www.brightroll.com/privacy/#correspondence)
+
+[**Sharing of Information**](http://www.brightroll.com/privacy/#sharing)
+
+[**Changes to BrightRoll’s Corporate Structure**](http://www.brightroll.com/privacy/#changes)
+
+[**Retention**](http://www.brightroll.com/privacy/#retention)
+
+[**Choice**](http://www.brightroll.com/privacy/#choice)
+
+[**Notice to California Residents – Your California Privacy Rights**](http://www.brightroll.com/privacy/#california)
+
+[**Children’s Privacy**](http://www.brightroll.com/privacy/#children)
+
+[**Changes to Privacy Policy**](http://www.brightroll.com/privacy/#policychanges)
+
+[**Security**](http://www.brightroll.com/privacy/#security)
+
+[**Effective Date**](http://www.brightroll.com/privacy/#date)
+
 [**Questions and Comments**](http://www.brightroll.com/privacy/#questions)
 
 **What Data We Collect and How We Collect It**
@@ -44,7 +76,7 @@ On our wholly owned websites we do not ask for personally identifiable informati
 
 The BrightRoll cookie does not harm your computer in any way or provide us with any information about your identity. The BrightRoll cookie is not spyware or adware. The general definition of spyware/adware is that of a software package installed on your computer for purposes of monitoring all your Internet or general computer activity. We do not install software of any kind on your computer and have no ability to monitor or track your general computer or overall Internet usage. Cookies can be easily avoided by opting out from them or by adjusting your browser settings. Cookies traditionally expire after 30 days, while data collected for advertising purposes is kept for no longer than 2 years.
 
-**Opt-Out.  **You can also opt-out of the collection of data through cookies by following the instructions in the “Choice” section of this Policy below.
+**Opt-Out.** You can also opt-out of the collection of data through cookies by following the instructions in the “Choice” section of this Policy below.
 
 **Tracking Pixels.**  We also collect non-personally identifiable information through the use of tracking pixels. A tracking pixel is a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a web page and, in combination with a cookie, allows for the collection of information regarding the use of the web page that contains the tracking pixel. We use tracking pixels to tell when an advertisement has been clicked on or otherwise interacted with, and use that information to judge which advertisements are more appealing to users. In some cases, we use third-party service providers to help us collect and analyze this information.
 
@@ -98,7 +130,9 @@ The State of California enacted the Shine the Light law (California Civil Code S
 
 **Children’s Privacy**
 
-BrightRoll is very sensitive to the issue of children’s privacy. BrightRoll’s websites, products and services are neither developed for, nor directed at, children under the age of 13. If you believe your child has provided BrightRoll with personally identifiable data, or registered at one of BrightRoll’s websites and you would like to have the data removed, please contact [privacy@brightroll.com](mailto:privacy@brightroll.com) or Privacy Officer, BrightRoll, Inc., 343 Sansome Street, Suite 600, San Francisco CA 94104.
+BrightRoll is very sensitive to the issue of children’s privacy. BrightRoll’s websites, products and services are neither developed for, nor directed at, children under the age of 13. BrightRoll does not knowingly collect personally identifiable information from children under 13 and we will promptly delete any information related to children, once brought to our knowledge. At times, persistent identifiers are used for internal operations and optimizations, but never for behavioral targeting.
+
+If you believe your child has provided BrightRoll with personally identifiable data, or registered at one of BrightRoll’s websites and you would like to have the data removed, please contact [privacy@brightroll.com](mailto:privacy@brightroll.com) or Privacy Officer, BrightRoll, Inc., 343 Sansome Street, Suite 600, San Francisco CA 94104.
 
 **Security**
 
@@ -110,7 +144,7 @@ We may change this Policy from time to time. If we make changes, we will notify 
 
 **Effective Date**
 
-This Policy was last revised on December 1, 2012.
+This Policy was last revised on July 2, 2013.
 
 **Questions and Comments**
 
