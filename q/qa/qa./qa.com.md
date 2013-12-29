@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qa.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224031829id_/http%3A//qa.com/notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qa.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229135634id_/http%3A//www.qa.com/notices/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Website legal notices - QA
 
