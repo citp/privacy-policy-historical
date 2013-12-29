@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pogo.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620192722id_/http%3A//www.addthis.com/privacy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pogo.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229023102id_/http%3A//www.addthis.com/privacy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AddThis
 
@@ -14,7 +14,7 @@ AddThis complies with the U.S.-EU Safe Harbor Framework and the U.S. Swiss Safe 
 
 #### Advertising Choices
 
-[AddThis](http://www.addthis.com/), builder and operator of the AddThis platform, is a member of several industry groups that focus on effective communication, best practices, and policy review in the field of Online Behavioral Advertising (OBA). These organizations include the [Network Advertising Initiative](http://www.advertising.org/) (NAI), the Digital Advertising Alliance (DAA), and the [Interactive Advertising Bureau](http://www.iab.net/) (IAB). We are compliant with both the NAI and DAA self-regulatory codes. 
+[AddThis](http://www.addthis.com/), builder and operator of the AddThis platform, is a member of several industry groups that focus on effective communication, best practices, and policy review in the field of Online Behavioral Advertising (OBA). These organizations include the [Network Advertising Initiative](http://www.networkadvertising.org/) (NAI), the Digital Advertising Alliance (DAA), and the [Interactive Advertising Bureau](http://www.iab.net/) (IAB). We are compliant with both the NAI and DAA self-regulatory codes. 
 
 We believe that delivering targeted and relevant advertising enhances your internet experience. We collect non-personally identifiable information from many of the websites in which an AddThis button is enabled, and use that information to deliver targeted advertising on those websites as well as other websites you may visit. If you prefer that we do not collect Non-Personally Identifiable Information about your website visits for the purpose of delivering targeted advertising, you may [opt out](https://web.archive.org/privacy/opt-out).
 
