@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the efrennolasco.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616014041id_/http%3A//www.efrennolasco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efrennolasco.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229142024id_/http%3A//www.efrennolasco.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Efren Nolasco
 
-### Privacy Policy
+## [Privacy Policy](http://www.efrennolasco.com/privacy-policy/ "Permanent Link to Privacy Policy")
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
@@ -55,3 +55,5 @@ By using this site, you signify your agreement to the terms and conditions of th
 From time to time, Efren Nolasco dot com may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. Your continued use of the Efren Nolasco dot com Web Site following the posting of any changes to these terms shall mean that you have accepted those changes.
 
 Should you have other questions or concerns about these privacy policies, please email us at [efrenjrnolasco@gmail.com](mailto:efrenjrnolasco@gmail.com).
+
+* * *
