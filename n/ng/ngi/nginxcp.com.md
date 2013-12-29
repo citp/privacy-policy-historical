@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nginxcp.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531151343id_/http%3A//nginxcp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nginxcp.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229103034id_/http%3A//nginxcp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NginxCP.com
 
@@ -24,3 +24,9 @@ The contents of this statement may be altered at any time, at our discretion.
 If you have any questions regarding the privacy policy of NginxCP.com then you may [contact us](http://nginxcp.com/contact-us/ "contact us") at admin@nginxcp.com
 
 Last updated Mon, 27 Dec 2010 14:50
+
+#### Incoming search terms:
+
+  * PrivacyPolicy|NginxCP com
+
+
