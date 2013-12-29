@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviews.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606021121id_/http%3A//www.reviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviews.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229112635id_/http%3A//www.reviews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Reviews.com
 
@@ -19,3 +19,5 @@ You can change your browser settings to disable cookies if you have any privacy 
 ## Contact Information
 
 Concerns or questions about this privacy policy can be directed to our [Contact](http://www.reviews.com/contact/) page. We can also be reached by mail at 111 S. Jackson St, Suite #500, Seattle, WA 98104.
+
+Disclaimer: We do our best to ensure the information on Reviews.com is accurate and updated at all times, however, we are unable to guarantee the accuracy of all information. Efforts have been made to keep the content up to date and factual. For the most current and complete product details please verify with the merchant, product, issuer, or service directly on their website or during the buying or application process. Please understand that Reviews.com does have financial relationships with some of the merchants reviewed on this website. Reviews.com may receive compensation if users choose to click on the links located on the pages of this website and sales and/or leads are generated for the merchant. 
