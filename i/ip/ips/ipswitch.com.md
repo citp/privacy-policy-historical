@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipswitch.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505192235id_/http%3A//ipswitch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipswitch.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229112252id_/http%3A//www.ipswitch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Ipswitch.com
 
