@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the intetics.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623081638id_/http%3A//www.intetics.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intetics.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229185437id_/http%3A//www.intetics.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement | Intetics
 
 ## Introduction
 
@@ -57,3 +57,5 @@ If a complaint or dispute cannot be resolved through our internal process, the C
 ## Amendments
 
 This privacy policy may be amended from time to time to reflect and conform to the requirements of the Safe Harbor. The Company will post any revised policy on its website.
+
+To learn more about the Safe Harbor program, and to view Intetics’ certification, please visit <http://www.export.gov/safeharbor/>
