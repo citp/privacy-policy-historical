@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the twellow.com privacy policy that was archived on 2013-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130625131326id_/http%3A//www.twellow.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the twellow.com privacy policy that was archived on 2013-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131229080400id_/http%3A//www.twellow.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN
     "><html xmlns="http://www.w3.org/1999/xhtml"><head>
@@ -18,6 +18,7 @@ Twellow</title>
 <script type="text/javascript" src="/js/birdhouse.js"></script>
 <script type="text/javascript" src="/js/twellow.js"></script>
 <script type="text/javascript" src="/js/navbar.js"></script>
+<script type="text/javascript" src="/js/popup.js"></script>
 <script type="text/javascript" src="/js/jquery.jscroll.min.js"></script>
 <script type="text/javascript" src="/js/top.js"></script>
 <!-- temp feedback form stuff -->
@@ -49,6 +50,13 @@ qacct:"p-epEdTuZs9zP18"
 </div>
 </noscript>
 <!-- End Quantcast tag -->
+<script>
+    aj_server = 'http://ientry.rotator.hadj1.adjuggler.net/servlet/ajrotator/'; aj_tagver = '1.0';
+    aj_zone = 'ientry'; aj_adspot = '1413213,1413214,1413217,1413212,1413216,1413215'; aj_dim = '1404685;1391350;1412365;1405050;1391334;1391335'; aj_ch = '1412364;1412364;1412364;1412364;1412364;1412364'; aj_kw = ';;;;;';
+
+    aj_div = ['ajdiv_1413213','ajdiv_1413214','ajdiv_1413217','ajdiv_1413212','ajdiv_1413216','ajdiv_1413215'];
+</script>
+<script src="http://img1.cdn.adjuggler.com/banners/ajtg.js"></script> 
 </head>
 <body>
 <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
@@ -66,9 +74,8 @@ qacct:"p-epEdTuZs9zP18"
 </script>
 <div class="ientry-bar">  
   <div class="container-top">
-<script language="JavaScript" src="http://aj.600z.com/aj/105263/0/vj?z=1&amp;dim=102839&amp;kw=&amp;click="></script>
-<script language="JavaScript" src="http://aj.600z.com/aj/105264/0/vj?z=1&amp;dim=102840&amp;kw=&amp;click="></script>
-<script language="JavaScript" src="http://aj.600z.com/aj/105265/0/vj?z=1&amp;dim=102848&amp;kw=&amp;click="></script>
+<!-- Top Bar 1 -->
+<script>ajAd('ajdiv_1413215');</script>
     <div class="clear"> </div>
   </div> 
 </div>
@@ -101,7 +108,7 @@ qacct:"p-epEdTuZs9zP18"
                 <div class="signin-rightside">
                     <h3>Have an account?</h3>
                      Login to Twellow below:<br><br>
-                    <form action="/user/login" id="login_form" onsubmit="return twellow.login()">
+                    <form action="/user/login" id="login_form" onsubmit="twellow.login();location.reload(true);return false;">
                         <input id="login_email" type="text" name="email" value="Username or Email" class="signin-txt-bg">
                         <input id="login_password" type="password" name="password" value="Password" class="signin-txt-bg">
                         <input type="image" src="http://images.ientrymail.com/twellow/2011/signin-button.png" width="60" height="22" border="0" alt="Login In" title="Click to login in!" class="signin-button">
@@ -184,16 +191,18 @@ qacct:"p-epEdTuZs9zP18"
         </div>
     </div>
 </div>
+
 <div id="header">
 <div class="container">
 <div style="text-align: center;">
-<script language="JavaScript" src="http://aj.600z.com/aj/61589/0/vj?z=1&amp;dim=144&amp;kw=&amp;click="></script>
+<!-- 750x100 -->
+<script>ajAd('ajdiv_1413212');</script> 
 </div>
     <div class="logo"><a href="http://www.twellow.com"><img border="0" src="http://images.ientrymail.com/twellow/2011/twellow-header-logo.png" alt="Twellow, The Twitter Yellow Pages" title="Twellow, The Twitter Yellow Pages"></a></div>
     <div class="search-bar">
-        <form id="search" action="/search/"> 
-            <input type="text" class="swap-value" name="q" id="twellow-search" value="Find Twitter users anywhere!"> 
-            <input type="submit" id="go" style="background: #A3C0D1; width: 68px; height: 33px; border: none; cursor: pointer; color: #FFF; font-size: 15px;    border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; margin: 0px 0px 0px 4px;" alt="Search Twellow" title="Search Twellow" value="Search"> 
+        <form id="search" action="/twellowhood/search/"> 
+            <input type="text" class="swap-value" name="q" id="twellow-search" value="" placeholder="Enter location (city, state, country)" onfocus="this.value='';"> 
+            <input type="submit" id="go" style="background: #A3C0D1; width: 68px; height: 33px; border: none; cursor: pointer; color: #FFF; font-size: 15px;    border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; margin: 0px 0px 0px 4px;" alt="Search Twellowhood" title="Search TwellowHood" value="Search"> 
         </form> 
     </div>
 
@@ -283,13 +292,13 @@ qacct:"p-epEdTuZs9zP18"
                <li style="background: url(http://images.ientrymail.com/twellow/2011/featured-button-bg.png);"><a href="/categories" style="color: #333;">» View All</a></li>
        </ul>
    </li>
-   <li style="margin-left: 145px;"><a href="/users/following" class="unauthed" title="Users You are Following">Following</a></li>
-   <li><a href="/users/followers" class="unauthed" title="Users Following You">Followers</a></li>
-<!--   <li><a href="/twellowhood" title="Twellowhood">Twellowhood</a></li> -->
+   <li style="margin-left: 145px;"><a href="/users/following" title="Users You are Following">Following</a></li>
+   <li><a href="/users/followers" title="Users Following You">Followers</a></li>
+<li><a href="/twellowhood" title="Twellowhood">Twellowhood</a>
 <!--   <li><a href="/about" title="About Twellow">About</a></li> -->
-   <li><a href="/faq" title="Frequently Asked Questions">FAQ</a></li>
+   </li><li><a href="/faq" title="Frequently Asked Questions">FAQ</a></li>
    <li><a href="/contact-us" title="Contact Twellow">Contact Us</a></li>
-   <!--<li><a href="/pages/feedback" title="Feedback">Feedback</a></li>-->
+   <li><a href="/search" title="Search">Search</a></li>
 </ul>
 <div style="padding-top: 9px; float: right;">
     <a href="http://twitter.com/twellow" class="twitter-follow-button" data-show-count="false" data-width="200">Follow @twellow</a>
@@ -298,10 +307,16 @@ qacct:"p-epEdTuZs9zP18"
 <div style="padding-top: 9px; float: right;">
     <fb:like href="http://www.facebook.com/twellow" send="false" layout="button_count" width="100" show_faces="false" font=""></fb:like> 
 </div>
+
+
 </div>
 <div class="clear">&nbsp;</div>
 <!--<div style="width: 100%; text-align: center;"><a href="http://aj.600z.com/aj/109373/0/cc?z=1"><img src="http://aj.600z.com/aj/109373/0/vc?z=1&dim=105987&kw=&click=" width="790" height="48" border="0"></a></div>-->
-<div style="width: 100%; text-align: center;"><script type="text/javascript" src="http://www.ientry.com/ustream_header.php"></script></div>
+<div style="width: 100%; text-align: center;">
+<!-- Livebar -->
+<script>ajAd('ajdiv_1413216');</script>
+</div>
+
 <div class="container">
 <!--
 <div style="text-align: center; padding-top:15px;"><script language=JavaScript src="http://aj.600z.com/aj/61589/0/vj?z=1&dim=144&kw=&click="></script><noscript><a href="http://aj.600z.com/aj/61589/0/cc?z=1"><img src="http://aj.600z.com/aj/61589/0/vc?z=1&dim=144&kw=&click=&abr=$imginiframe" width="750" height="100" border="0"></a></noscript></div>
@@ -327,7 +342,8 @@ Should you ever wish to be removed from our database, simply contact us and we w
 <div class="lower-body-right">
  
 <div class="index-336">
-<script language="JavaScript" src="http://aj.600z.com/aj/70391/0/vj?z=1&amp;dim=122"></script> 
+<!-- 336x280 -->
+<script>ajAd('ajdiv_1413213');</script>  
 </div>
 <div id="toptwellowers" data-action="/users/top/">
     <div class="toggle">
@@ -338,19 +354,29 @@ Should you ever wish to be removed from our database, simply contact us and we w
     <div class="loading">&nbsp;</div> 
     <ul class="users">
         <li>
-            <img src="http://a0.twimg.com/profile_images/3280442413/15b33820231f166481f5d71b6ffdcd64_normal.png" alt="Snoop Dogg">
+            <img src="http://pbs.twimg.com/profile_images/378800000834899857/5ae088d5e605ffe3fda4fd87c4074e2c_normal.jpeg" alt="Snoop Dogg">
             <a href="/SnoopDogg" title="Snoop Dogg on Twellow">Snoop Dogg</a>
-            <p><strong>10,801,332</strong><br> followers</p>
+            <p><strong>11,066,610</strong><br> followers</p>
         </li>
         <li>
-            <img src="http://a0.twimg.com/profile_images/3278651282/2816e9c000ad0f8b206fe86264867c0b_normal.jpeg" alt="MTV">
+            <img src="http://pbs.twimg.com/profile_images/415526148857032704/0PHSV02n_normal.jpeg" alt="MTV">
             <a href="/MTV" title="MTV on Twellow">MTV</a>
-            <p><strong>6,656,040</strong><br> followers</p>
+            <p><strong>10,266,623</strong><br> followers</p>
         </li>
         <li>
-            <img src="http://a0.twimg.com/profile_images/3055613953/a02fdccd3984437f75851a9a0b53f002_normal.jpeg" alt="Samsung Mobile US">
+            <img src="http://pbs.twimg.com/profile_images/378800000616662724/35536cd3150835595152bbee80f7e929_normal.jpeg" alt="Samsung Mobile US">
             <a href="/SamsungMobileUS" title="Samsung Mobile US on Twellow">Samsung Mobile US</a>
-            <p><strong>4,287,502</strong><br> followers</p>
+            <p><strong>4,971,955</strong><br> followers</p>
+        </li>
+        <li>
+            <img src="http://pbs.twimg.com/profile_images/378800000829666750/975ceab4cff3ca4202f6660bf7c9e03a_normal.jpeg" alt="Jennette McCurdy">
+            <a href="/jennettemccurdy" title="Jennette McCurdy on Twellow">Jennette McCurdy</a>
+            <p><strong>4,550,505</strong><br> followers</p>
+        </li>
+        <li>
+            <img src="http://pbs.twimg.com/profile_images/3690637553/5c348fee8afbcefa1978004a864a51ce_normal.png" alt="Mashable">
+            <a href="/mashable" title="Mashable on Twellow">Mashable</a>
+            <p><strong>3,668,188</strong><br> followers</p>
         </li>
         <li>
             <img src="http://a0.twimg.com/profile_images/3126300674/4fc228b60f59dfdd4479b878546342ce_normal.jpeg" alt="DJ KING ASSASSIN ™">
@@ -358,24 +384,14 @@ Should you ever wish to be removed from our database, simply contact us and we w
             <p><strong>3,578,649</strong><br> followers</p>
         </li>
         <li>
-            <img src="http://a0.twimg.com/profile_images/3690637553/5c348fee8afbcefa1978004a864a51ce_normal.png" alt="Mashable">
-            <a href="/mashable" title="Mashable on Twellow">Mashable</a>
-            <p><strong>3,331,049</strong><br> followers</p>
+            <img src="http://pbs.twimg.com/profile_images/378800000704796580/12d8fe60b1eaf5363f06f93e43b55971_normal.png" alt="PlayStation">
+            <a href="/PlayStation" title="PlayStation on Twellow">PlayStation</a>
+            <p><strong>3,230,975</strong><br> followers</p>
         </li>
         <li>
-            <img src="http://a0.twimg.com/profile_images/3075997321/2597d1e0e745fc3b87a73cad21b419b3_normal.jpeg" alt="Los Gatos, CA">
-            <a href="/shoplosgatos" title="Los Gatos, CA on Twellow">Los Gatos, CA</a>
-            <p><strong>3,127,111</strong><br> followers</p>
-        </li>
-        <li>
-            <img src="http://a0.twimg.com/profile_images/344513261572996328/b5f8939c55e88df2dd218adbab1ccdbd_normal.jpeg" alt="Jennette McCurdy">
-            <a href="/jennettemccurdy" title="Jennette McCurdy on Twellow">Jennette McCurdy</a>
-            <p><strong>3,072,486</strong><br> followers</p>
-        </li>
-        <li>
-            <img src="http://a0.twimg.com/profile_images/1975355346/DIT_newlogo_normal.jpg" alt="Damn Its TRUE!">
-            <a href="/damnitstrue" title="Damn Its TRUE! on Twellow">Damn Its TRUE!</a>
-            <p><strong>2,610,650</strong><br> followers</p>
+            <img src="http://pbs.twimg.com/profile_images/378800000147711290/4c83f27b09e85820cec99acd2f2fef01_normal.jpeg" alt="Noticias Caracol">
+            <a href="/NoticiasCaracol" title="Noticias Caracol on Twellow">Noticias Caracol</a>
+            <p><strong>3,119,868</strong><br> followers</p>
         </li>
     </ul>
 </div> <!-- end div#toptwellowers -->
@@ -385,7 +401,10 @@ Should you ever wish to be removed from our database, simply contact us and we w
     <div><script language=JavaScript src="http://aj.600z.com/aj/105747/0/vj?z=1&dim=90126&kw=&click="></script><noscript><a href="http://aj.600z.com/aj/105747/0/cc?z=1"><img src="http://aj.600z.com/aj/105747/0/vc?z=1&dim=90126&kw=&click=&abr=$imginiframe" width="125" height="125" border="0"></a></noscript></div>
     <div><script language=JavaScript src="http://aj.600z.com/aj/105748/0/vj?z=1&dim=90127&kw=&click="></script><noscript><a href="http://aj.600z.com/aj/105748/0/cc?z=1"><img src="http://aj.600z.com/aj/105748/0/vc?z=1&dim=90127&kw=&click=&abr=$imginiframe" width="125" height="125" border="0"></a></noscript></div>
 </div>-->
-<div id="scrollme"><script language="JavaScript" src="http://aj.600z.com/aj/106738/0/vj?z=1&amp;dim=106103&amp;kw=&amp;click="></script><noscript><a href="http://aj.600z.com/aj/106738/0/cc?z=1"><img src="http://aj.600z.com/aj/106738/0/vc?z=1&dim=106103&kw=&click=&abr=$imginiframe" width="336" height="280" border="0"></a></noscript></div>
+<div id="scrollme">
+<!-- 336x280-bottom -->
+<script>ajAd('ajdiv_1413214');</script> 
+</div>
 <script type="text/javascript">
 $(function() {
     $("#scrollme").jScroll({top:75});
@@ -414,6 +433,8 @@ $(function() {
 
 			</script> 
 </div>
+
+
 
 
 <div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
