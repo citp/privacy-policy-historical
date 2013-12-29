@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodcraft.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513003501id_/http%3A//www.woodcraft.com/Static/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodcraft.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229131723id_/http%3A//www.woodcraft.com/Static/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Woodcraft's Privacy Policy
 
@@ -8,7 +8,7 @@ Your privacy is important to us. Woodcraft is a long time member of The DMA (Dir
 
 What information do we collect? How do we use it? 
 
-When you order, we need to know your name, e-mail address, mailing address, phone number, credit-card number and expiration date. This allows us to process and fulfill your orders, and notify you of your order status. Your phone number is necessary for FedEx Expedited shipping and International shipping. It will also be used to contact you if there is a question regarding your order. Phone numbers will not be used for sales calls. Our secure traffic is encrypted using the TLS protocol with a 1024 bit Public Key Certificate. 
+When you order, we need to know your name, e-mail address, mailing address, phone number, credit-card number and expiration date. This allows us to process and fulfill your orders, and notify you of your order status. Your phone number is necessary for UPS and International shipping. It will also be used to contact you if there is a question regarding your order. Phone numbers will not be used for sales calls. Our secure traffic is encrypted using the TLS protocol with a 1024 bit Public Key Certificate. 
 
 We occasionally make our customer list (postal mailing list only) available to carefully screened companies whose products may interest you. If you do not wish to receive their mailings, we will be sure your name is removed from the list we share with other organizations. Please contact us at the address listed below and provide us with your exact name and address. 
 
