@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishlistproducts.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630224155id_/http%3A//wishlistproducts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishlistproducts.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229180002id_/http%3A//wishlistproducts.com/privacy-policy) for the most accurate reproduction.*
 
 # WishList Products | Powerful Web Solutions For Today's Small Business Owner | Privacy Policy
 
@@ -88,7 +88,9 @@ This policy was last modified on **10/25/11**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[support.wishlistproducts.com](http://support.wishlistproducts.com/)  
+[support.wishlistproducts.com](http://support.wishlistproducts.com/)
+
+WishList Products, Inc.  
 P.O. Box 546  
 Cordova, TN 38088  
 United States  
@@ -107,5 +109,5 @@ If at anytime you have a cause that needs to be disputed please fill out the [Tr
 
 Respectfully,
 
-Stu McLaren (Co-Founder) & Nuwan Bandara (Co-Founder/Sales Director)  
+Stu McLaren (Co-Founder) & Tracy Childers (Co-Founder)  
 WishListProducts.com
