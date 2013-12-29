@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accc.gov.au privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629222305id_/http%3A//accc.gov.au/about-us/using-our-website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accc.gov.au privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229140026id_/http%3A//www.accc.gov.au/about-us/using-our-website/privacy) for the most accurate reproduction.*
 
 # Privacy | ACCC
 
