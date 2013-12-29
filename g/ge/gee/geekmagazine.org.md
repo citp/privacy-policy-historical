@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geekmagazine.org privacy policy that was archived on 2013-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130203182255id_/http%3A//www.geekmagazine.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekmagazine.org privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230005204id_/http%3A//www.geekinsider.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Geek Magazine
+# Privacy Policy
 
 **What information do we collect?**
 
