@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the firstgreatwestern.co.uk privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030022222id_/http%3A//www.firstgreatwestern.co.uk/Privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstgreatwestern.co.uk privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229150949id_/http%3A//firstgreatwestern.co.uk/Privacy-statement) for the most accurate reproduction.*
 
-# First Great Western - Privacy statement
+# Privacy Policy - First Great Western
 
 ## Introduction
 
@@ -10,7 +10,7 @@ By registering for any services on this Site or by providing any information to 
 
 ### Please note:
 
-From 1 April 2006 the personal data previously held by the former Trains Operating Companies – First Great Western, First Great Western Link and Wessex Trains and associated with: 
+From 1 April 2006 the personal data previously held by the former Trains Operating Companies – First Great Western and  First Great Western Link associated with: 
 
   * Season Tickets (please note this data will be used for season ticket administration and communication purposes only)
   * FORWARD customer recognition programme
