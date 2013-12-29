@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corero.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529124643id_/http%3A//www.corero.com/en/company/corero/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corero.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229014358id_/http%3A//www.corero.com/en/company/corero/privacy_policy) for the most accurate reproduction.*
 
 # Corero - Company - The Corero Difference - Privacy Policy
 
@@ -36,46 +36,26 @@ Because the company considers the individual information we maintain to be confi
 
 #### **Corporate Facts**
 
- **Year Founded  
-** 1997  
+**Year Founded**  
+1997
 
+**Headquarters**  
+Hudson, Massachusetts
 
- **Stock Symbol  
-** London Stock Exchange: CNS  
+**EMEA Headquarters**  
+London, United Kingdom
 
+**Customers**  
+2,000+ customers  
+22 countries
 
- **Headquarters  
-** Hudson, Massachusetts  
+**Units Shipped**  
+8000+ units
 
+**Market Leadership**  
+Distributed Denial of Service (DDoS) Defense  
+Intrusion Prevention System (IPS)
 
- **EMEA Headquarters  
-** London, United Kingdom  
-
-
- **Customers  
-** 2,000+ customers  
-22 countries  
-
-
- **Units Shipped**  
-8000+ units  
-
-
- **Market Leadership  
-** Distributed Denial of Service (DDoS) Defense  
-Intrusion Prevention System (IPS)  
-
-
- **Patents  
-** 6 patents, including:  
+**Patents**  
+6 patents, including:  
 System and Process for Defending Against Denial of Service Attacks (DoS) on Network Nodes
-
- **Industry Accolades  
-** 40+, including:  
-Innovator of the Year  
-Editor's Choice Award  
-Five Star Best Buy  
-Hot Company  
-Product of the Year  
-NSS Lab Approval  
-EAL 4 certified
