@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singularityhub.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430074837id_/http%3A//singularityhub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singularityhub.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229145347id_/http%3A//singularityhub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Singularity Hub
 
