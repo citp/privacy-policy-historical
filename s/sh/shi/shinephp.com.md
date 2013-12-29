@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shinephp.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606231441id_/http%3A//shinephp.com/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shinephp.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229222818id_/http%3A//shinephp.com/privacy-policy-statement) for the most accurate reproduction.*
 
 # Privacy Policy Statement - ShinePHP.com
 
