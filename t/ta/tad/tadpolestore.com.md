@@ -1,91 +1,24 @@
-> *The following text is extracted and transformed from the tadpolestore.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107034213id_/http%3A//www.tadpolestore.com/index.php%3Fdispatch%3Dpages.view%26page_id%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tadpolestore.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229080037id_/http%3A//www.tadpolestore.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy & Discliamer - Tadpole Store - India's Only Exclusive Online Shopping Destination for Authentic Designer Products
+# TadpoleStore.com Privacy Policy - India's Most Exclusive Online Shopping Destination for Authentic Designer Products
 
-Privacy Policy
+**Privacy Policy**
 
-This privacy policy sets out how tadpolestore.com uses and protects any information that you give tadpolestore.com when you use this website.
+**  
+**Tadpole Store believes in giving its customers a delightful and enjoyable shopping experience with a commitment to protect their privacy at all times. We have accordingly designed our Privacy Policy to protect your personal information and keep it confidential. Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site.
 
-tadpolestore.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+  
+Privacy of its customers is important to Tadpole Store and thus it takes all reasonable endeavors to prevent unauthorized disclosure of customer information to third parties. Customer information includes any and all information received by Tadpole Store from its customers, whether such information is received by email, online forms, telephone, facsimile, mail or otherwise. Tadpole Store stores this information to enable it to fulfill orders or to improve the level of service to its Customers.
 
-tadpolestore.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1-1-2012.
+  
+Tadpole Store also shares certain personal and/or financial information with its merchant account and banking vendors to process orders and payments and with common carriers to ship products to you. Unless required by law or by court order, Tadpole Store will not disclose, share or sell any customer information to any other third party without your prior authorization. Unless otherwise stated, this privacy policy does not apply to information posted by users to publicly accessible portions of our websites, including but not limited to, online forums, bulletin boards, etc. Throughout our websites there are forms that request information from you and/or allow you to purchase products and services. These forms typically ask for contact information (such as name, mailing address and email address), membership, login and password information and financial information (such as credit card number, expiration date and verification code) required to process your order and ship products to you. The provision of such information by you is entirely voluntary. If you elect or opt in to receive information from us, we will ask for a valid email address and telephone number so we can inform you of other products or services available or to contact you about your opinion of current products and services or potential new products and services that may be offered. You may opt out of receiving future mailings from Tadpole Store by following the procedures detailed in the Choice/Opt Out section located below, on forms located on our website or in emails you receive from us. You may also request that we delete any personal information from our customer databases at any time by contacting Tadpole Store. In certain cases, Tadpole Store, may forward purchasing and shipping information to vendors who ship products or provide services directly to consumers. Such third party vendors and suppliers are not bound by this privacy policy.
 
-**What we collect**
+Tadpole Store' web servers collect domain names and/or IP addresses of users to measure what pages and features are accessed by our visitors. Tadpole Store uses software to collect and analyze this information. This information helps us administer the site, improve content and gather broad demographic information for aggregate use. Tadpole Store links IP addresses to personally identifiable information submitted to Tadpole Store. This information is used to verify whether a visitor has opted in to receiving additional information from Tadpole Store. Tadpole Store may use cookies or similar files or scripts throughout its website to enhance your convenience in using our websites, to improve search functionality or to hold information that you would otherwise need to re-key. Cookies are text files collected by a user's web browser. If you do not wish to accept cookies from our website, you may configure your web browser so that it does not accept cookies; however, you may lose certain functions available on our website. The Tadpole Store website may contain links to other websites not affiliated with Tadpole Store, including websites of Tadpole Store' vendors and service providers. Tadpole Store is not responsible for the privacy practices or the content of such other sites. By including links to other websites, we neither endorse such sites nor guarantee that the information they contain is accurate.
 
-We may collect the following information:
+We encourage you to be aware when you leave our site to read the privacy statements of every linked website as the privacy policies of each may differ from ours. This privacy statement applies solely to websites owned or operated by Tadpole Store. Tadpole Store is under no obligation to monitor the conduct of its website users, but it may investigate and respond if violations are reported. Tadpole Store reserves the right to delete, remove or exclude any listing or information, in its sole discretion, that does not meet its intent and guidelines for the services offered on the website. In the future, Tadpole Store may offer new and different programs that necessitate a change in this Policy.
 
-• name and job title
+Tadpole Store reserves the right to change its privacy policy at any time without prior notice. Any changes to the privacy policy will be posted on this page and will be effective immediately upon posting. This Policy, and Tadpole Store' collection and use of customer information, shall be governed and interpreted in accordance with the laws of the India. Any disputes arising out of this Policy shall be adjudicated in a court of competent jurisdiction of New Delhi, India. We are committed to preventing others from unauthorized access to the personal information you provide to us, and we maintain commercially reasonable procedures and technology designed for this purpose. This website has reasonable technical and organizational security measures in place to protect the loss, misuse or alteration of information under our control. However, we cannot guarantee that unauthorized third parties will never be able to defeat those security measures. Although we cannot guarantee that our systems are 100% secure 100% of the time, we periodically update and test our technology in order to improve the protection of customer information. We suggest that you install anti-virus software on your computer and routinely check for viruses, spyware and other programs that may become installed on your computer without your permission. If you believe that you have received a virus from Tadpole Store, please contact us as soon as possible so that we may take remedial measures to remove the virus. Tadpole Store does not send emails to customers requesting billing, login or password information. If you receive an email purporting to be from Tadpole Store that asks you to provide personal or account information, or login and passwords, do not provide such information unless you have first verified that the website or email is from Tadpole Store. Such emails may be fraudulent and used in connection with scams known as phishing. Tadpole Store asks that you report any suspicious emails or websites to Tadpole Store.
 
-• contact information including email address
-
-• demographic information such as postcode, preferences and interests
-
-• other information relevant to customer surveys and/or offers
-
-What we do with the information we gather
-
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
-
-• Internal record keeping.
-
-• We may use the information to improve our products and services.
-
-• We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-
-• From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
-
-Security
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
-
-**How we use cookies**
-
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
-
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-**Links to other websites**
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-**Controlling your personal information**
-
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-• whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-
-• if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at 
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to: Tadpole,B-185, Defence Colony, Dehardun - 248001, Uttarakhand
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below:
-
-Tadpole
-
-B-185, Defence Colony, Dehardun - 248001, Uttarakhand
-
-Telephone No: 0135-2666733
-
-E-Mail ID : hello@tadpolestore.com
-
-Disclaimaer
-
-TADPOLE  is not liable for contracts formed between members of tadpolestore.com.
-
-TADPOLE is not liable for information on tadpolestore.com provided by its members. We claim no intellectual property rights over the material provide by members of tadpolestore.com.
-
-You agree to indemnify and hold us harmless from any claim or demand, including reasonable legal fees, made by any third party due to or arising out of your breach of these Terms & Conditions (including the documents incorporated by reference), or your violation of any law or the rights of a third party.
-
-In the event that you have any right, claim or action against any other user arising from that user's use of the Site, you agree to pursue such right, claim or action independently of and without recourse to us, and you release TADPOLE (and our parent, subsidiaries, affiliates, officers, directors, agents and employees) from all claims, liability, damages, losses, costs and expenses, including legal fees, known and unknown, arising from or in any way connected with such right, claim or action.
-
-TADPOLE STORE does not guarantee continuous, uninterrupted or secure access to our services, and operation of tadpolestore.com may be interfered with by numerous factors outside of our control. tadpolestore.com and the services of TADPOLE STORE are provided "as is" and as and when available, and to the extent permissible by law we exclude all implied warranties, conditions or other terms, whether implied by statute or otherwise, including without limitation any terms as to skill and care or timeliness of performance
+You may request copies of or have Tadpole Store make changes or corrections to personal information in Tadpole Store' possession by contacting Tadpole Store at You may opt out of receiving further communications from us or others through any of the following methods:   
+• Send an email to hello@tadpolestore.com  
+• Call 0135-2650999
