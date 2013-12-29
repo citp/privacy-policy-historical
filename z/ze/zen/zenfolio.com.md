@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the zenfolio.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627040011id_/http%3A//www.zenfolio.com/zf/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenfolio.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229053021id_/http%3A//www.zenfolio.com/zf/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | Zenfolio
 
-Please refer to the **Definitions** section set forth in the [Zenfolio Website Terms and Conditions of Use](https://web.archive.org/web/20130627040011id_/http%3A//www.zenfolio.com/zf/terms.aspx) agreement. 
+Please refer to the **Definitions** section set forth in the [Zenfolio Website Terms and Conditions of Use](https://web.archive.org/web/20131229053021id_/http%3A//www.zenfolio.com/zf/terms.aspx) agreement. 
 
 Your privacy is important to us so we will strive to keep Your information safe and secure. This privacy policy will explain the kind of information we collect about You and how we use it. By accessing and using Zenfolio Website, you agree to our Privacy Policy as outlined below. 
 
-Zenfolio Website collects and stores the following information: Your name, e-mail address, and display preferences. When subscribing for paid Services or placing e-commerce orders on our Website we may also collect Your name, billing address, telephone number, billing and credit card information, shipping addresses, and payment preferences. Users who request payments to be made to them from products sold on Zenfolio may also need to provide their tax ID information for IRS reporting purposes. 
+Zenfolio Website collects and stores the following information: Your name, email address, and display preferences. When subscribing for paid Services or placing e-commerce orders on our Website we may also collect Your name, billing address, telephone number, billing and credit card information, shipping addresses, and payment preferences. Users who request payments to be made to them from products sold on Zenfolio may also need to provide their tax ID information for IRS reporting purposes. 
 
 Zenfolio collects this information using direct user input and cookies. Cookies are small files written to your hard drive to help us identify your subscription level and account info. We utilize cookies to make using the service more convenient and efficient. 
 
