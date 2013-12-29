@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviegalleri.net privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606003011id_/http%3A//moviegalleri.net/privacy-policy-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviegalleri.net privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229150627id_/http%3A//moviegalleri.net/privacy-policy-disclaimer) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer | New Movie Posters
 
