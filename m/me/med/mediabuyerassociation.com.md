@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mediabuyerassociation.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630031345id_/http%3A//mediabuyerassociation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediabuyerassociation.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229231948id_/http%3A//mediabuyerassociation.com/privacy-policy) for the most accurate reproduction.*
 
-# mediabuyerassociation.com Privacy Policy
+# Privacy Policy — mediabuyerassociation.com
 
 **What information do we collect?**    
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
