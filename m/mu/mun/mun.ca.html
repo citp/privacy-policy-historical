@@ -1,49 +1,88 @@
-<!--The following is the downloaded HTML source of the mun.ca privacy policy that was archived on 2013-01-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130115043609id_/http%3A//www.mun.ca/marcomm/web/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mun.ca privacy policy that was archived on 2013-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131229090709id_/http%3A//www.mun.ca/marcomm/web/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
-	<title>Marketing &amp; Communications | Privacy</title>
-	<link href="http://www.mun.ca/appinclude/brand/2011v1/include/styles/base.css" rel="stylesheet" type="text/css" media="screen">
-    <link href="http://www.mun.ca/appinclude/brand/2011v1/include/styles/structure.css?1315478976" rel="stylesheet" type="text/css" media="screen">
-    <link href="http://www.mun.ca/appinclude/brand/2011v1/include/styles/content.css" rel="stylesheet" type="text/css" media="screen">
-    <link href="http://www.mun.ca/appinclude/brand/2011v1/include/styles/interior.css" rel="stylesheet" type="text/css" media="screen">
-    <link href="http://www.mun.ca/appinclude/brand/2011v1/include/styles/print.css" rel="stylesheet" type="text/css" media="print">
+<title>Marketing &amp; Communications | Privacy</title>
+<link href="http://www.mun.ca/appinclude/brand/2011v1/include/styles/base.css" rel="stylesheet" type="text/css" media="screen">
+<link href="http://www.mun.ca/appinclude/brand/2011v1/include/styles/structure.css?1315478976" rel="stylesheet" type="text/css" media="screen">
+<link href="http://www.mun.ca/appinclude/brand/2011v1/include/styles/content.css" rel="stylesheet" type="text/css" media="screen">
+<link href="http://www.mun.ca/appinclude/brand/2011v1/include/styles/interior.css" rel="stylesheet" type="text/css" media="screen">
+<link href="http://www.mun.ca/appinclude/brand/2011v1/include/styles/print.css" rel="stylesheet" type="text/css" media="print">
+
+<link href="http://www.mun.ca/appinclude/brand/2011v1/include/styles/news.css" rel="stylesheet" type="text/css" media="screen">
+<link href="http://www.mun.ca/appinclude/brand/2011v1/include/styles/icalendar.css" rel="stylesheet" type="text/css" media="screen">
+<link href="../../../include/instance.css" rel="stylesheet" type="text/css" media="screen">
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript" src="http://www.mun.ca/appinclude/js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" language="javascript" src="http://www.mun.ca/appinclude/brand/2011v1/include/basefunctions.js?1315478976"></script>
+<script type="text/javascript" language="javascript" src="http://www.mun.ca/appinclude/brand/2011v1/include/onready.js"></script>
+<script type="text/javascript" language="javascript" src="http://www.mun.ca/appinclude/brand/2011v1/include/topnav-content.js?1315478976"></script>
 
 
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript" src="http://www.mun.ca/appinclude/brand/2011v1/include/jquery.js"></script>
-    <script type="text/javascript" language="javascript" src="http://www.mun.ca/appinclude/brand/2011v1/include/basefunctions.js?1315478976"></script>
-    <script type="text/javascript" language="javascript" src="http://www.mun.ca/appinclude/brand/2011v1/include/onready.js"></script>
-    <script type="text/javascript" language="javascript" src="http://www.mun.ca/appinclude/brand/2011v1/include/topnav-content.js?1315478976"></script>
 
-
+<script type="text/javascript" language="javascript" src="../../../include/jquery.tinyscrollbar.min.js"></script>
 <script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-4957285-1']);
-  _gaq.push(['_trackPageview']);
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+
+$(document).ready(function() {
+		
+		$('#scrollbar1').tinyscrollbar();
+		$('#scrollbar2').tinyscrollbar();
+		$('#scrollbar3').tinyscrollbar();
+		$('#scrollbar4').tinyscrollbar();
+		$('#scrollbar5').tinyscrollbar();
+		$('#scrollbar6').tinyscrollbar();
+	
+	//Close I want to drop down
+	$('.wantTo_container').css('display','none');
+						   
+	//Set default open/close settings
+		$('.scroll_container').hide(); //Hide/close all containers
+		$('.scroll_trigger:first').addClass('active').next().show(); //Add "active" class to first trigger, then show/open the immediate next container
+
+		//On Click
+		$('.scroll_trigger').click(function(){
+			if( $(this).next().is(':hidden') ) { //If immediate next container is closed...
+				$('.scroll_trigger').removeClass('active').next().slideUp(); //Remove all "active" state and slide up the immediate next container
+				$(this).toggleClass('active').next().slideDown(); //Add "active" state to clicked trigger and slide down the immediate next container
+			}
+			return false; //Prevent the browser jump to the link anchor
+		});
+		
+		//On Click
+		$('.wantTo_trigger').click(function(){
+			if( $(this).next().is(':hidden') ) { //If immediate next container is closed...
+				$(this).toggleClass('active').next().slideDown(); //Add "active" state to clicked trigger and slide down the immediate next container
+			}
+			else{
+				$('.wantTo_trigger').removeClass('active').next().slideUp(); //Remove all "active" state and slide up the immediate next container
+			}
+			return false; //Prevent the browser jump to the link anchor
+		});
+});
+
 </script>
 
 
-	<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1"> 
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
 
-	<meta http-equiv="Content-Language" content="en-us"> 
+<meta http-equiv="Content-Language" content="en-us">
 
-	<meta name="ROBOTS" content="ALL"> 
+<meta name="ROBOTS" content="ALL">
 
-	<meta name="Copyright" content="Copyright (c) 2011 etc"> 
+<meta name="Copyright" content="Copyright (c) 2013 etc">
 
-	<meta name="MSSmartTagsPreventParsing" content="true"> 
+<meta name="MSSmartTagsPreventParsing" content="true">
 
-	<meta name="dc.title" content="Privacy">
+<meta name="dc.date.modified" content="1969-12-31">
 
-	<meta name="dc.date.modified" content="2011-06-30">
+<meta name="dc.language" scheme="ISO639-2" content="eng">
 
-	<meta name="dc.language" scheme="ISO639-2" content="eng">
+<meta name="title" content="">
+
+<meta name="keywords" content="">
+
+<meta name="description" content="">
 
 </head>
 
@@ -53,7 +92,7 @@
 
 
 
-	<!--googleoff: index-->
+<!--googleoff: index-->
 <div id="uber">
 	<div id="topNav">
 		<div class="topNavQlButton"><a id="tnql-quicklinks" href="http://www.mun.ca" title="Quick Links" onclick="toggleQlContent(this);return false">Quick Links</a></div>
@@ -77,7 +116,7 @@
         </div>
     </div>
 
-    <div id="sububer">
+    <div id="sububer-notitle">
         <div id="pageContent">
             <div id="searchError">Please Enter a Search Term</div>
             <div id="searchDropDown" style="display:none">
@@ -93,7 +132,7 @@
                 </div>
                 <div id="searchDropDownBottom"></div>
             </div>
-            <div id="header-interior">
+            <div id="header-interior-notitle">
                 <div id="headerlogo"><a href="http://www.mun.ca/" title="http://www.mun.ca">http://www.mun.ca</a></div>
                 <div id="headernav2">
                     <div id="navTab01" onclick="location.href='http://my.mun.ca';" style="cursor:pointer;" title="My.Mun.ca">My.Mun.ca</div>
@@ -108,189 +147,118 @@
                         <div id="pseudosearchtext"><span id="pseudosearchtextinner"></span></div>
                     </form>
                 </div>
-                <div id="header_title_text"><a style="color:#fff" href="http://www.mun.ca/marcomm/">Marketing &amp; Communications</a></div>
+                <div id="header_title_text"></div>
             </div>
             <!--googleon: index-->
-            <!-- header area ENDS -->			<div id="topSiteInclude">
-			            </div>
-
-            <!-- content area -->
-            <div id="content">
-                <div id="leftnav">
-                    <div id="leftnavTop"></div>
-                    <div id="navcontainer">
-						<ul>
-<li><a href="../home/">Home</a></li>
-<li><a href="../marketing/">Marketing</a></li>
-<li><a href="../communications/">Communications</a></li>
-<li><a href="../brand/">Memorial's brand</a></li>
-<li><a href="../web/">Web content</a><ul>
-<li><a href="../web/recentprojects.php">Recent projects</a></li>
-<li><a href="../web/upcomingprojects.php">Upcoming projects</a></li>
-<li><a href="../web/whythewebmatters.php">Why does the web matter?</a></li>
-<li><a href="../web/develop.php">Developing your website</a></li>
-<li><a href="../web/site_builder.php">Site Builder</a></li>
-<li><a href="../web/SBhelp/">Site Builder Help</a></li>
-<li><a href="../web/writing.php">Writing for the web</a></li>
-<li><a href="../web/policies.php">Web policies</a></li>
-<li><a href="../web/commercial.php">Commercial promotion on the web</a></li>
-<li><a href="../web/privacy.php" class="leftnavon">Privacy</a></li>
-<li><a href="../web/access/">Accessibility</a></li>
-<li><a href="http://builder.ucs.mun.ca">Site Builder Log-In</a></li>
+            <!-- header area ENDS --><div id="departmentWrapper" class="interior">
+            	<div id="departmentHeader"><span class="heading"><a style="color:#fff" href="http://www.mun.ca/marcomm/">Marketing &amp; Communications</a></span></div>
+                <div id="departmentNav">
+                	<ul>
+                    	<li id="departmentNavTab01" class="first "><a class="departmentNavItem" href="../../../people/" title="Who We Are">Who We Are</a></li><li id="departmentNavTab02" class="selected"><a class="departmentNavItem" href="../../../units/" title="What We Do">What We Do</a></li><li id="departmentNavTab03"><a class="departmentNavItem" href="../../../brand/" title="Memorial's Brand">Memorial's Brand</a></li><li id="departmentNavTab04"><a class="departmentNavItem" href="../../../work/" title="Our Work">Our Work</a></li><li id="departmentNavTab05"><a class="departmentNavItem" href="http://www.mun.ca/marcomm/brand/standards/templates/index.php" title="Templates">Templates</a></li><li id="departmentNavTab06" class="last "><a class="departmentNavItem" href="../../../resources/" title="Resources">Resources</a></li>                    </ul>
+                </div>
+                <div class="clear"></div>
+                <div id="contentContainer">
+                    <div id="content">
+                        <div id="leftnav">
+                        	<div id="navContainer">
+                                <ul>
+<li><a href="../../../units/communications/">Communications</a></li>
+<li><a href="../../../units/event_planning/">Event Planning</a></li>
+<li><a href="../../../units/marketing/">Marketing</a></li>
+<li><a href="../../../units/public_affairs/">Public Affairs</a></li>
+<li><a href="../../../units/web_content/">Web Content Services</a><ul>
+<li><a href="../../../units/web_content/help/">Web assistance</a></li>
+<li><a href="../../../units/web_content/banners/">Banners</a></li>
+<li><a href="../../../units/web_content/google_analytics/">Google Analytics guide</a></li>
+<li><a href="../../../units/web_content/sitebuilder/">Site Builder</a></li>
+<li><a href="../../../units/web_content/policy/" class="leftnavon">Policy and privacy</a><ul>
+<li><a href="../../../units/web_content/policy/commercial.php">Commercial promotion on the web</a></li>
+<li><a href="../../../units/web_content/policy/policies.php">Policies and obligations</a></li>
 </ul>
 </li>
-<li><a href="../image/">Image Services</a></li>
-<li><a href="../event/">Event planning</a></li>
-<li><a href="../public_affairs/">Public Affairs</a></li>
-<li><a href="../training/">Training &amp; Workshops</a></li>
-<li><a href="../contact/">Contact</a></li>
+<li><a href="../../../units/web_content/access/">Accessibility</a></li>
+<li><a href="http://www.mun.ca/munweb/ipa2.html">Information Provider's Agreement (IPA) Form</a></li>
+<li><a href="../../../units/web_content/services/">Services we offer</a></li>
 </ul>
-                    </div>
-
-                    <div id="leftnavBottom">
-					                    </div>
-                </div>
-
-
-
-                <div id="contentTop">
-		    				</div>
-
-				<div id="middle">
-		    		    <h1>Privacy</h1>
-			    		                
-            
-
-			
-
-
-		<h2>Version 1.0</h2>
-
-<p>Memorial University of Newfoundland is committed to protecting and respecting the privacy of users. The University supports the protection of privacy and the freedom of information in accordance with all applicable federal and provincial statutes.</p>
-
-<p>The University collects and stores web usage information and system logs. These records may contain personally identifiable information (e.g. IP addresses) and are used to manage capacity, performance and security, and to help maintain and improve services. Logged information is not shared with, or disclosed to, any third party except as explicitly approved by the website user or as required by law.</p>
-
-<p>This website may also deposit small text files called cookies on your computer. The University uses cookies only to enhance or customize your visit. Users may choose not to allow cookies to be stored on their computers. However, some information may not display properly, and some services may not be available as a result.</p>
-
-<p>In the course of accessing this website, you may provide the University with personal information. Information volunteered by you is used by the University to operate programs and services and to carry out its activities. Users should refer to the privacy policy associated with the specific program, service, or activity for which the information is collected.</p>
-
-<p>Some services (e.g. bulletin boards, web mail) by their nature distribute communications or information that you provide. Information you share via these services may be collected, stored and disseminated by others.</p>
-
-<p>MUN websites may provide links to external websites. The University does not control or endorse these sites and is not responsible for their availability, content, privacy practices, or delivery of services. The University encourages you to examine the privacy policy of each site you visit.</p>
-
-<h2>Responsibilities of Users</h2>
-
-<p>Some websites require authorized access, typically via an account name and password. Individual users are responsible for their own accounts and should never share passwords with other individuals.</p>
-
-<p>To protect your privacy and prevent unauthorized use, log out and completely close all web browser windows when you finish using a web-based service.</p>
-
-<h2>About this Statement</h2>
-
-<p>The privacy statement for this website is published under the authority of the Director, Computing and Communications.</p>
-
-<p>This statement may be amended from time to time. Refer to the version number and Last Update date at the beginning of this document.</p>
-
-<h2>Contact Information</h2>
-
-<p>Inquiries, comments, or complaints concerning this privacy statement may be directed to <a href="mailto:webfeedback@mun.ca">webfeedback@mun.ca</a> or</p>
-
-<div>Director, Computing and Communications<br> Memorial University of Newfoundland<br> St. John’s, NL, Canada<br> A1C 5S7<br> (709) 737-8329</div>
-
-<h2><br> Information and Privacy Protection at Memorial</h2>
-
-<div>If you need further infromation about privacy protection, consult the <a href="http://www.mun.ca/iapp/home/">Information Access and Privacy Protection</a> office.</div>
-
-
-
-	<style> 
-.addthis_default_style{    
-	padding-top: 25px;    
-} 
-.addthis_default_style a{    
-	margin-right: 5px; 
-} 
-a.addthis_button_facebook_like{    
-	width: 45px !important;    
-	height: 25px !important;    
-	overflow: hidden !important; 
-} 
-</style>
-<!-- AddThis Button BEGIN --> 
-<div class="addthis_toolbox addthis_default_style">    
-	<a class="addthis_button_facebook_like"></a>    
-	<a class="addthis_button_tweet" tw:count="none"></a>    
-	<a class="addthis_button_google_plusone" g:plusone:size="medium" g:plusone:count="false"></a>   
-	<a class="addthis_button" href="http://www.addthis.com/bookmark.php"><img src="http://www.mun.ca/appinclude/brand/2011v1/images/addthis_share.png" width="50" height="20" border="0" alt="Share" style="margin: 0;"></a>
-</div> 
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4f70b41d5da8ffef"></script> 
-<!-- AddThis Button END -->
-
-<script>
-jQuery(function ($) {
-   if (navigator.userAgent.indexOf('Safari') != -1 && navigator.userAgent.indexOf('Chrome') == -1 || navigator.userAgent.indexOf('MSIE') > -1) {
-		$('head').append('<style>a.addthis_button_facebook_like{width: 45px !important;}</style>');
-	}
-}); 
-</script>
-</div>
-
-
-
-        <div id="right">
-
-                            <div class="bg-floater">
-                    <div id="floatrelated2" style="margin-top: 0px;">
-                        <div id="box2">
-                            <h3 class="refreshHead">Marketing &amp; Communications Links</h3>
-                            <p><a href="http://today.mun.ca/">Current news and events at today.mun.ca</a></p>
-<p><a href="http://www.mun.ca/gazette">The Gazette</a></p>
-<p><a href="http://twitter.com/memorialu" target="_new">Twitter</a></p>
-<p><a href="http://www.mun.ca/convocation">Convocation</a></p>
-<p><a href="http://www.mun.ca/report2012/" target="_new">Dare or Truth: President's Report 2012</a></p>
-<p><a href="http://www.mun.ca/marcomm/communicator.php">The Communicator</a></p>
-<p><a href="http://www.yaffle.ca" target="_new">Yaffle</a></p>
-                            <div class="clear"></div>
-                        </div>
-                    </div>
-                </div>
-                
-            <div id="rightnavBottom">
+</li>
+</ul>
                             </div>
+							<div id="leftnavBottom"></div>
+                        </div>
+						
+                        <div id="rightWide">
+															<div id="middle2col">
+								<h1>Privacy</h1>
+																					
+<!-- SB START CONTENT -->
 
-        </div>
+<h3>Version 1.0</h3>
+<p>Memorial University of Newfoundland is committed to protecting and respecting the privacy of users. The University supports the protection of privacy and the freedom of information in accordance with all applicable federal and provincial statutes.</p>
+<p>The University collects and stores web usage information and system logs. These records may contain personally identifiable information (e.g. IP addresses) and are used to manage capacity, performance and security, and to help maintain and improve services. Logged information is not shared with, or disclosed to, any third party except as explicitly approved by the website user or as required by law.</p>
+<p>This website may also deposit small text files called cookies on your computer. The University uses cookies only to enhance or customize your visit. Users may choose not to allow cookies to be stored on their computers. However, some information may not display properly, and some services may not be available as a result.</p>
+<p>In the course of accessing this website, you may provide the University with personal information. Information volunteered by you is used by the University to operate programs and services and to carry out its activities. Users should refer to the privacy policy associated with the specific program, service, or activity for which the information is collected.</p>
+<p>Some services (e.g. bulletin boards, web mail) by their nature distribute communications or information that you provide. Information you share via these services may be collected, stored and disseminated by others.</p>
+<p>MUN websites may provide links to external websites. The University does not control or endorse these sites and is not responsible for their availability, content, privacy practices, or delivery of services. The University encourages you to examine the privacy policy of each site you visit.</p>
+<h3>Responsibilities of Users</h3>
+<p>Some websites require authorized access, typically via an account name and password. Individual users are responsible for their own accounts and should never share passwords with other individuals.</p>
+<p>To protect your privacy and prevent unauthorized use, log out and completely close all web browser windows when you finish using a web-based service.</p>
+<h3>About this Statement</h3>
+<p>The privacy statement for this website is published under the authority of the Director, Computing and Communications.</p>
+<p>This statement may be amended from time to time. Refer to the version number and Last Update date at the beginning of this document.</p>
+<h3>Contact Information</h3>
+<p>Inquiries, comments, or complaints concerning this privacy statement may be directed to <a href="mailto:webfeedback@mun.ca">webfeedback@mun.ca</a> or</p>
+<div>Director, Computing and Communications<br> Memorial University of Newfoundland<br> St. John’s, NL, Canada<br> A1C 5S7<br> (709) 864-8329</div>
+<h3><br> Information and Privacy Protection at Memorial</h3>
+<div>If you need further infromation about privacy protection, consult the <a href="http://www.mun.ca/iapp/home/" target="_blank">Information Access and Privacy Protection</a> office.</div>
+<!-- SB END CONTENT -->
 
-        <div class="clear"></div>
+                                            
+                    </div> <!-- middle/middle2col div close -->
 
-        </div>
+                    
+                    <div class="clear"></div> <!-- BRACE -->
 
-        
-<div id="bottomSiteInclude">
-    </div>
+                </div> <!-- content div close -->
 
-<!-- content END -->
-<!--googleoff: index-->
+			<!-- content END --><!--googleoff: index-->
 <div id="footer">
-    <div id="footerText">
-        <span class="black"><a href="http://www.mun.ca/copyright/web.php" class="black">Copyright © 2013 Memorial University of Newfoundland.</a></span>&nbsp;&nbsp;&nbsp;Newfoundland and Labrador, Canada.
-    </div>
-    <div id="footerlinks">
-        <a href="http://www.mun.ca/people_departments/a_z_listing.php">A-Z listing</a> |
-        <a href="http://www.mun.ca/marcomm/web/">About mun.ca</a> |
-        <a href="http://www.mun.ca/marcomm/web/access/">Accessibility</a> |
-        <a href="http://www.mun.ca/humanres/careers/">Careers</a> |
-        <a href="http://www.mun.ca/people_departments/">Contact</a> |
-        <a href="http://www.mun.ca/emergency/">Emergency</a> |
-        <a href=" http://www.mun.ca/marcomm/web/privacy.php">Privacy</a> |
-        <a href="../feedback.php?contentID=260">Web Feedback</a></div>
+                <div id="footerText">
+                    <span class="black"><a href="http://www.mun.ca/copyright/web.php" class="black">Copyright © 2013 Memorial University of Newfoundland.</a></span>&nbsp;&nbsp;&nbsp;Newfoundland and Labrador, Canada.
+                </div>
+                <div id="footerlinks">
+                    <a href="http://www.mun.ca/people_departments/a_z_listing.php">A-Z listing</a> |
+                    <a href="http://www.mun.ca/marcomm/web/">About mun.ca</a> |
+                    <a href="http://www.mun.ca/marcomm/web/access/">Accessibility</a> | 
+                    <a href="http://www.mun.ca/humanres/careers/">Careers</a> |
+                    <a href="http://www.mun.ca/people_departments/">Contact</a> | 
+                    <a href="http://www.mun.ca/emergency/">Emergency</a> | 
+                    <a href=" http://www.mun.ca/marcomm/web/privacy.php">Privacy</a> |
+                    <a href="../../../feedback.php?contentID=236">Web Feedback</a>
+				</div>
+				
+				
+				<div id="lastupdated"><a href="http://builder.ucs.mun.ca/route.php?siteID=436&amp;sectionID=44&amp;contentID=236" target="_blank">Last Updated: August 5th, 2013</a></div> 
 </div>
 <!-- end the uber and sububer containers -->
-<div id="lastupdated"><a href="http://builder.ucs.mun.ca/route.php?siteID=94&amp;sectionID=5&amp;contentID=260" target="_blank">Last Updated: June 30th, 2011</a></div>
-</div>
-</div>
+
+        </div>
+    </div>
 </div>
 <!--googleon: index-->
 	
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4957285-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
 
 
 
-</body></html>
+
+</div></div></div></body></html>
