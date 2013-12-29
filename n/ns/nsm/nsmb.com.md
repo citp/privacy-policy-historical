@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nsmb.com privacy policy that was archived on 2013-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130208083824id_/http%3A//www.nsmb.com/274-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsmb.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229191010id_/http%3A//www.nsmb.com/274-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Mountain Bike Reviews, News, Photo and Video
+# Privacy Policy - NSMB.com Mountain Bike Reviews, News, Photo and Video
 
 #### **North Shore Interactive Solutions Statement of Privacy**
 
