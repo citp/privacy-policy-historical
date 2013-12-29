@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universal-music.co.uk privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622053402id_/http%3A//store.universal-music.co.uk/restofworld/customer-services/privacy-policy/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universal-music.co.uk privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229110433id_/http%3A//store.universal-music.co.uk/restofworld/customer-services/privacy-policy/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Universal Music
 
@@ -6,27 +6,27 @@
 
 We take your privacy very seriously, and take many steps to protect any personal information we may hold as a result of our interaction with you. Below is our privacy policy which sets out our data protection commitments, and the terms under which we may use and store any data relating to you and any transaction with us.
 
-This website is operated by Universal Music Direct Limited, a company registered in England with number 6854191 whose registered office is at 364-366 Kensington High Street, London W14 8NS ("UMD").
+This website is operated by Universal Music Operations Limited, a company registered in England with number 0950138 whose registered office is at 364-366 Kensington High Street, London W14 8NS ("UMO").
 
-UMD is part of the Universal Music Group. Universal Music Group includes, in addition to UMD, Universal Music Operations Limited, Universal-Island Records Limited, Polydor Limited and Mercury Records Limited together with a large number of record labels around the world.
+UMO is part of the Universal Music Group. Universal Music Group includes, in addition to UMO, Universal Music Operations Limited, Universal-Island Records Limited, Polydor Limited and Mercury Records Limited together with a large number of record labels around the world.
 
-There are also a number of different divisions of UMD and its associated labels. These include Interscope Records, A&M Records, Geffen Records, Fiction, Vertigo, Island Def Jam Music Group, Concord, Motown, Universal Music TV, Universal Music Catalogue, Sanctuary, V2 and Universal Music Digital.
+There are also a number of different divisions of UMO and its associated labels. These include Interscope Records, A&M Records, Geffen Records, Fiction, Vertigo, Island Def Jam Music Group, Concord, Motown, Universal Music TV, Universal Music Catalogue, Sanctuary, V2 and Universal Music Digital.
 
-UMD, and our associated companies and labels, respect the security and privacy concerns of users of this and all the websites we operate and/or control. Personal information collected through this website will be controlled by Universal Music Direct Limited. UMD is notified under the Data Protection Act 1998.
+UMO, and our associated companies and labels, respect the security and privacy concerns of users of this and all the websites we operate and/or control. Personal information collected through this website will be controlled by Universal Music Operations Limited. UMO is notified under the Data Protection Act 1998.
 
-As UMD is part of a worldwide group of companies, it may be necessary from time to time for information to be transferred from the point of collection to a server located in another jurisdiction. Information will only be so transferred in circumstances where it is necessary to achieve the purposes set out in this Privacy Policy or the purposes made known to users at the time information is collected.
+As UMO is part of a worldwide group of companies, it may be necessary from time to time for information to be transferred from the point of collection to a server located in another jurisdiction. Information will only be so transferred in circumstances where it is necessary to achieve the purposes set out in this Privacy Policy or the purposes made known to users at the time information is collected.
 
 Back to top
 
 ## General
 
-By using the website you agree to the terms of this Privacy Policy. UMD may make changes to this Privacy Policy from time to time but will not change the way we use your information provided previously without your express consent.
+By using the website you agree to the terms of this Privacy Policy. UMO may make changes to this Privacy Policy from time to time but will not change the way we use your information provided previously without your express consent.
 
 As a general rule, no personal information (i.e. name, address, telephone number, e-mail address) is automatically collected from users of this website. However, there may be circumstances in which users voluntarily supply such information and in this event, any such information will be kept secure and confidential and will be used only for those purposes made known to users at the time the information is collected, or for the purposes specified in this Privacy Policy. We follow strict security procedures for the storage and disclosure or information you have given us in order to prevent unauthorised access.
 
 There may be circumstance where personal information is required to be collected such as for the access to or purchase of digital music and video products through this website and any streaming of music and video (collectively "Digital Music Product") through this Website.
 
-If any provision of this privacy policy is held to be invalid or unenforceable, such provision shall be struck out and the remaining provisions shall be enforced. UMD's failure to act with respect to a breach by you or others does not waive its right to act with respect to subsequent or similar breaches. This Privacy Policy is governed in all respects by the laws of England. Legal proceedings related to the matters set out in the Privacy Policy shall be brought in and adjudicated solely in the English courts.
+If any provision of this privacy policy is held to be invalid or unenforceable, such provision shall be struck out and the remaining provisions shall be enforced. UMO's failure to act with respect to a breach by you or others does not waive its right to act with respect to subsequent or similar breaches. This Privacy Policy is governed in all respects by the laws of England. Legal proceedings related to the matters set out in the Privacy Policy shall be brought in and adjudicated solely in the English courts.
 
 Back to top
 
@@ -96,7 +96,7 @@ Back to top
 
 ## Cookies
 
-A cookie is a small text file that can be stored on your computer's hard drive. It may be stored and updated at various times as you access the website. Each time you visit the website, the server may deliver certain customised information to your computer based on the data stored in your cookie. This allows UMD to tailor the service to your preferences, including by way of example only recommending products to you.
+A cookie is a small text file that can be stored on your computer's hard drive. It may be stored and updated at various times as you access the website. Each time you visit the website, the server may deliver certain customised information to your computer based on the data stored in your cookie. This allows UMO to tailor the service to your preferences, including by way of example only recommending products to you.
 
 You are not obliged to accept a cookie and you may modify your browser so that it will not accept cookies. If you wish to purchase any items on the Website you need to ensure that cookies are enabled. If, however, you do not want to accept cookies please use the help tools provided with your internet browser to find out how to achieve this.
 
@@ -106,13 +106,13 @@ Back to top
 
 ## Advertising on this Website
 
-We may feature advertising in this website. This may feature or relate to products or services offered by other companies within the Universal Music Group or by third party companies. The advertising may be static or may link to external website. Save as otherwise provided in this Privacy Policy and your preference UMD does not provide any personal information to these advertisers or third-party Web sites.
+We may feature advertising in this website. This may feature or relate to products or services offered by other companies within the Universal Music Group or by third party companies. The advertising may be static or may link to external website. Save as otherwise provided in this Privacy Policy and your preference UMO does not provide any personal information to these advertisers or third-party Web sites.
 
 These advertisers, or internet advertising agencies working on their behalf and the website to which the advertising may link, may use technology to send (or "serve") the advertisements that appear on our website directly to your browser. They will automatically receive your IP address when this happens. They may also use other technologies within the advertising or the website to which it links (such cookies, JavaScript, web beacons) to assess the effectiveness of the advertising and to 'personalise' the products and services shown in the relevant advertising or on the relevant website to which the advertising may link.
 
-UMD does not have access to or any control over these technologies and their use. Please refer to the privacy policies of these advertisers for information about on these technologies and how any information you provide through the advertising may be used.
+UMO does not have access to or any control over these technologies and their use. Please refer to the privacy policies of these advertisers for information about on these technologies and how any information you provide through the advertising may be used.
 
-UMD may 'personalise' the advertising displayed on this website based on this information you provide to us. If you do not want us to personalise the advertising during your sessions on this website please email [support@universal-music.co.uk](mailto:support@universal-music.co.uk).
+UMO may 'personalise' the advertising displayed on this website based on this information you provide to us. If you do not want us to personalise the advertising during your sessions on this website please email [support@universal-music.co.uk](mailto:support@universal-music.co.uk).
 
 Back to top
 
@@ -130,7 +130,7 @@ Back to top
 
 ## Website and Links to External Websites
 
-We may incorporate links to websites not owned or controlled by UMD including through advertising featured on this website. UMD is not responsible for the content of any external websites and is not responsible for the data collection practices of any external website.
+We may incorporate links to websites not owned or controlled by UMO including through advertising featured on this website. UMO is not responsible for the content of any external websites and is not responsible for the data collection practices of any external website.
 
 Back to top
 
