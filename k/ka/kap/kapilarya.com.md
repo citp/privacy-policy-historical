@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the kapilarya.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529184624id_/http%3A//www.kapilarya.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kapilarya.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229210100id_/http%3A//www.kapilarya.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Kapil Sparks™
 
-  
   
 
 
@@ -18,20 +17,15 @@ _Last Review : Jan 01, 2012._
 
 [](http://hosting.india.to/clients/aff.php?aff=3382)
 
-  
-
-
-## 
-  * [Microsoft’s New Logo : Metro Embedded](http://www.kapilarya.com/microsofts-new-logo-metro-embedded "Microsoft’s New Logo : Metro Embedded")
-  * [[FIX] Windows 8 Unable To Install Updates](http://www.kapilarya.com/fix-windows-8-unable-to-install-updates "\[FIX\] Windows 8 Unable To Install Updates")
-  * [[Google Chrome Stable Version Update] Google Chrome 21.0.1180.79 Is Here, Download Link Inside](http://www.kapilarya.com/google-chrome-latest-version-download "\[Google Chrome Stable Version Update\] Google Chrome 21.0.1180.79 Is Here, Download Link Inside")
-  * [[Google Chrome Beta Version Update] Google Chrome Beta Version 21.0.1180.83 Released, Download Now](http://www.kapilarya.com/google-chrome-latest-beta-download "\[Google Chrome Beta Version Update\] Google Chrome Beta Version 21.0.1180.83 Released, Download Now")
-  * [[Mozilla Firefox Beta Version Update] Mozilla Released Firefox 15 Beta 5, Download Link Inside](http://www.kapilarya.com/latest-firefox-beta-download "\[Mozilla Firefox Beta Version Update\] Mozilla Released Firefox 15 Beta 5, Download Link Inside")
-  * [Classic Shell : Bring Old Start Button & Menu Back In Windows 8](http://www.kapilarya.com/classic-shell-bring-old-start-menu-back-in-windows-8 "Classic Shell : Bring Old Start Button & Menu Back In Windows 8")
-  * [[FIX] Getting Error “0x8007007B” For Windows 8 Activation](http://www.kapilarya.com/fix-getting-error-0x8007007b-for-windows-8-activation "\[FIX\] Getting Error “0x8007007B” For Windows 8 Activation")
-  * [Windows 8 RTM 3 Month Free Trial Released For Technet & MSDN Users, Download Links Inside](http://www.kapilarya.com/windows-8-rtm-3-month-free-trial-released-for-technet-msdn-users-download-links-inside "Windows 8 RTM 3 Month Free Trial Released For Technet & MSDN Users, Download Links Inside")
-  * [Download Awesome “8 Style Skin Pack” For Windows 7](http://www.kapilarya.com/download-awesome-8-style-skin-pack-for-windows-7 "Download Awesome “8 Style Skin Pack” For Windows 7")
-  * [[FIX] No Instant Delete In Windows 8](http://www.kapilarya.com/fix-no-instant-delete-in-windows-8 "\[FIX\] No Instant Delete In Windows 8")
-
+  * [[Mozilla Firefox Beta Version Update] Mozilla Released Firefox 24 Beta 7, Download Link Inside](http://www.kapilarya.com/latest-firefox-beta-download "\[Mozilla Firefox Beta Version Update\] Mozilla Released Firefox 24 Beta 7, Download Link Inside")
+  * [[FIX] Can’t Switch To Most Recent App In Windows 8, 8.1 Using Swipe](http://www.kapilarya.com/fix-cant-switch-to-most-recent-app-in-windows-8-8-1-using-swipe "\[FIX\] Can’t Switch To Most Recent App In Windows 8, 8.1 Using Swipe")
+  * [[FIX] Error “User Profile Service Failed The Logon. User Profile Cannot Be Loaded” For Windows 8](http://www.kapilarya.com/fix-error-user-profile-service-failed-the-logon-user-profile-cannot-be-loaded-for-windows-8 "\[FIX\] Error “User Profile Service Failed The Logon. User Profile Cannot Be Loaded” For Windows 8")
+  * [[Opera Latest Version Update] Download Opera 16 Final Version](http://www.kapilarya.com/download-opera-latest-version "\[Opera Latest Version Update\] Download Opera 16 Final Version")
+  * [[Google Chrome Beta Version Update] Google Chrome Beta Version 30.0.1599.22 Available Now](http://www.kapilarya.com/google-chrome-latest-beta-download "\[Google Chrome Beta Version Update\] Google Chrome Beta Version 30.0.1599.22 Available Now")
+  * [[Google Chrome Stable Version Update] Google Chrome 29.0.1547.62 Final Released, Download Link Inside](http://www.kapilarya.com/google-chrome-latest-version-download "\[Google Chrome Stable Version Update\] Google Chrome 29.0.1547.62 Final Released, Download Link Inside")
+  * [[FIX] Unable To Get “Local Users & Groups Snap-in” In Windows 8.1](http://www.kapilarya.com/fix-unable-to-get-local-users-groups-snap-in-in-windows-8-1 "\[FIX\] Unable To Get “Local Users & Groups Snap-in” In Windows 8.1")
+  * [[FIX] Microsoft Word 2013 Has Stopped Working](http://www.kapilarya.com/fix-microsoft-word-2013-has-stopped-working "\[FIX\] Microsoft Word 2013 Has Stopped Working")
+  * [[FIX] Error “Setting The Lock Screen Failed. Please Try Again” For Windows 8, 8.1](http://www.kapilarya.com/fix-error-setting-the-lock-screen-failed-please-try-again-for-windows-8-8-1 "\[FIX\] Error “Setting The Lock Screen Failed. Please Try Again” For Windows 8, 8.1")
+  * [[How To] Install Apps In Windows 8, 8.1 That Aren’t Signed By Windows Store](http://www.kapilarya.com/how-to-install-apps-in-windows-8-8-1-that-arent-signed-by-windows-store "\[How To\] Install Apps In Windows 8, 8.1 That Aren’t Signed By Windows Store")
 
 
