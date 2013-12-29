@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universitas21.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523070607id_/http%3A//www.universitas21.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universitas21.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229164427id_/http%3A//www.universitas21.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
