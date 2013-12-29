@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sen.com.au privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412021140id_/http%3A//www.sen.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sen.com.au privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229085152id_/http%3A//www.sen.com.au/Privacy-Policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 This Privacy Policy applies to the collection of personal information ("PI") by or on behalf of Pacific Star Network Limited and all related companies ("Pacific Star"). References in this Privacy Policy to “SEN”,“MyMp” “Inside Football” “us”, “we” or “our” mean Pacific Star Network Limited of 473-479 Swan St, Richmond, Victoria, 3121 and its related companies.
 
