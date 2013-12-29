@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qiito.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610175610id_/http%3A//qiito.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qiito.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229074047id_/http%3A//qiito.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy - QIITO
 
