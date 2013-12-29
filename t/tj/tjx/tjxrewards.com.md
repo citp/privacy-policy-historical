@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the tjxrewards.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221075943id_/http%3A//www.tjxrewards.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tjxrewards.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229080956id_/http%3A//www.tjxrewards.com/privacy.asp) for the most accurate reproduction.*
 
 # TJXRewards®
 
 We at The TJX Companies, Inc. respect your concerns about privacy and value the relationship we have with you. This Privacy Notice describes the types of personal information we collect on this Website, how we may use that information and with whom we may share it. Our Privacy Notice also describes the measures we take to protect the security of the information. We also tell you how you can remove your name from our mailing list or contact us to answer any questions you may have about our privacy practices at [www.tjxrewards.com](http://www.tjxrewards.com/).  
-When you apply for the TJX Rewards™ Card, we share the information you provide with the financial institution that issues the card, GE Money bank, and it is their [privacy policy](https://www.onlinecreditcenter6.com/consumergen2/generic/tjx/layout/ESecPrivacy.jsp?clientId=tjx&langId=en&accountType=generic) that applies to the information you provide on the TJX Rewards™ Card application. 
+When you apply for the TJX Rewards® Credit Card, we share the information you provide with the financial institution that issues the card, GE Capital Retail Bank, and it is their [privacy policy](https://www.onlinecreditcenter6.com/consumergen2/generic/tjx/layout/ESecPrivacy.jsp?clientId=tjx&langId=en&accountType=generic) that applies to the information you provide on the TJX Rewards Credit Card application. 
 
 Click on one of the links below to jump to the listed section:
 
   * Information We Collect and How We Use It
-  * [Register for TJX Rewards Email](https://web.archive.org/web/20111221075943id_/http%3A//www.tjxrewards.com/email.html)
+  * [Register for TJX Rewards Email](https://web.archive.org/web/20131229080956id_/http%3A//www.tjxrewards.com/email_main.asp)
   * Information We Share
   * Your Choices
   * Information Security
@@ -20,7 +20,7 @@ Click on one of the links below to jump to the listed section:
 
 **Information We Collect and How We Use It**   
 _Register for TJX Rewards Email_  
-On the TJX Rewards Website, you may register to receive TJX Rewards Email. To register, we ask for your name, email address, postal address and phone number so we can send you the TJX Rewards Email you have requested. By opting into receiving email in connection with your account, you authorize TJX Rewards to send you emails and to provide your email address to GE Money Bank so you can receive email offers from the bank.
+On the TJX Rewards Website, you may register to receive TJX Rewards Email. To register, we ask for your name, email address, postal address and phone number so we can send you the TJX Rewards Email you have requested. By opting into receiving email in connection with your account, you authorize TJX Rewards to send you emails and to provide your email address to GE Capital Retail Bank so you can receive email offers from the bank.
 
 **Information We Share**  
 We do not sell or otherwise disclose personal information about our Website visitors, except as described here. We may share the information you provide with companies affiliated with TJX. You may ask us not to share the personal information you provide on this website with our affiliated companies. To opt out of such sharing with our affiliates, please contact us by: 
