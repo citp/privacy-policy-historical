@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pays2save.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628235025id_/http%3A//pays2save.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pays2save.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229090512id_/http%3A//pays2save.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pays2Save
-
-If you found this post helpful please share it. Also I love comments!    
 
 **Personal Information Collection**
 
