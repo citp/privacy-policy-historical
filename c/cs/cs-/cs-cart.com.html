@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cs-cart.com privacy policy that was archived on 2013-04-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130402005234id_/http%3A//www.cs-cart.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cs-cart.com privacy policy that was archived on 2013-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131229124237id_/http%3A//www.cs-cart.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <title>Resources :: Privacy Policy - </title>
@@ -13,14 +13,14 @@
 <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,300,600" rel="stylesheet" type="text/css">
 <link href="/skins/base/customer/addons/cscart_site/overrides/images/icons/favicon.ico?v2" rel="shortcut icon">
 
-<link href="/var/cache/css/style_c_801edb2ce500cd22afe5c67849d09c3e.css" rel="stylesheet" type="text/css">
+<link href="/var/cache/css/style_c_801edb2ce500cd22afe5c67849d09c3e.css?up1" rel="stylesheet" type="text/css">
 
 <link href="/skins/base/customer/print.css" rel="stylesheet" media="print" type="text/css">
 <!--[if lte IE 7]>
 <link href="/skins/base/customer/addons/cscart_site/overrides/styles_ie.css" rel="stylesheet" type="text/css" />
 <![endif]-->
 
-<script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript" src="/lib/js/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="/lib/js/jquery/jquery.min.js"></script>
 <script type="text/javascript" src="/lib/js/jqueryui/jquery-ui.custom.min.js"></script>
 <script type="text/javascript" src="/lib/js/tools/tooltip.min.js"></script>
 <script type="text/javascript" src="/lib/js/appear/jquery.appear-1.1.1.js"></script>
@@ -163,39 +163,6 @@ $(document).ready(function(){
 	
 //]]>
 </script>
-<script type="text/javascript" src="/addons/design_configurator/js/func.js"></script>
-
-
-<script type="text/javascript">
-//<![CDATA[
-	// prevent images from loading
-	$(function () {
-		/*$.each($('img.dc-prevent'), function() { ... });*/
-		$('img.dc-prevent').appear(function() {
-			var src = $(this).attr('src_tmp');
-			$(this).attr('src', src);
-			$(this).attr('src_tmp', '');
-			$(this).parent().preloadify({ imagedelay:0 });
-		});
-	});
-	// \prevent images from loading
-
-	$(document).delegate('.dc-dialog-opener', 'click', function(e){
-		var id = $(this).attr('rev');
-		
-		// Open dialog
-		$('#' + id).ceDialog('open', {
-			position: ['center', 35],
-			width: $('#' + id).attr('width') || 541
-		});
-		
-		// Close Dialog onclick
-		$('.ui-widget-overlay').click(function() {
-			$('#' + id).ceDialog('close');
-		});
-	});
-//]]>
-</script>
 <script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
 
 <body><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
@@ -215,23 +182,15 @@ $(document).ready(function(){
 		<div id="header"><div class="head">
 	<div class="header-helper-container clear">
 		<div class="logo-image">
-			<a href="/"><img src="/skins/base/customer/addons/cscart_site/overrides/images/logo_cscart_120-1.png" width="120" height="47" border="0" alt="Ecommerce shopping cart software"></a>
+			<a href="/"><img src="/skins/base/customer/addons/cscart_site/overrides/images/logo_cscart_120-1.png" width="102" height="40" border="0" alt="Ecommerce shopping cart software"></a>
 		</div>
+
+
+
 		<div class="top-search float-right">
 			<div>
 <ul id="cssmenu">
-	<li><a href="order-now.html" class="buynow-button">Buy Now</a>
-		<ul>
-			<li class="buynow"><a href="buy-ultimate.html">Buy CS-Cart Ultimate</a></li>
-			<li class="buynow"><a href="order-now.html">Buy CS-Cart Professional</a></li>
-            <li class="buynow"><a href="buy-multivendor.html">Buy CS-Cart Multi-Vendor</a></li>
-            <li class="buynow-last"><a href="buy-russian-builds.html">Buy CS-Cart Russian Builds</a></li>
-		</ul>
-	</li>
-	<li>|</li>
-	<li class="simple"><a href="send-message.html">Contact</a></li>
-	<li>|</li>
-	<li class="simple last">
+	<li class="simple">
 					<a rel="nofollow" href="/index.php?dispatch=auth.login_form&amp;return_url=">Sign in</a>
 					</li>
 </ul>
@@ -239,84 +198,14 @@ $(document).ready(function(){
 
 </div>
 			<div class="clear s-clear"></div>
-			<div class="float-right">
-<form action="index.php" name="search_form" method="get">
-<input type="hidden" name="subcats" value="Y">
-<input type="hidden" name="type" value="extended">
-<input type="hidden" name="status" value="A">
-<input type="hidden" name="pshort" value="Y">
-<input type="hidden" name="pfull" value="Y">
-<input type="hidden" name="pname" value="Y">
-<input type="hidden" name="pkeywords" value="Y">
-<input type="hidden" name="search_performed" value="Y">
- 
-
-<span class="search"><input type="text" name="q" value="Search..." onfocus="this.select();" class="search-input cm-hint"><input type="image" src="/skins/base/customer/addons/cscart_site/overrides/images/icons/go.gif" alt="Search" title="Search" class="go-button">
-<input type="hidden" name="dispatch" value="search.results"></span>
-
-</form></div>
 		</div>
-	</div>
-</div>
-
-<div class="top-menu-container clear">
+<div class="top-menu">
 	
 <div id="top_menu">
 <ul class="top-menu dropdown"><li class="has-subitems "><span><a href="/overview.html">Product</a></span>
 <ul>
-			<li class="dir">
-		<a href="/feature-tour.html">Feature Tour</a>
-					
-<ul>
 			<li class="">
-		<a href="/payment-systems.html">Payment Systems</a>
-			</li>
-					<li class="">
-		<a href="/ajax.html">Ajax</a>
-			</li>
-					<li class="">
-		<a href="/checkout.html">One-page Checkout</a>
-			</li>
-					<li class="">
-		<a href="/inventory-tracking.html">Inventory Tracking</a>
-			</li>
-					<li class="">
-		<a href="/promotions.html">Promotions</a>
-			</li>
-					<li class="">
-		<a href="/gift-certificates.html">Gift Certificates</a>
-			</li>
-					<li class="">
-		<a href="/rma.html">Return Management</a>
-			</li>
-					<li class="">
-		<a href="/block-manager.html">Block Manager</a>
-			</li>
-					<li class="">
-		<a href="/payment-gateways.html">Payment Gateways</a>
-			</li>
-					<li class="">
-		<a href="/real-time-shipping.html">Real-time Shipping</a>
-			</li>
-					<li class="">
-		<a href="/taxes.html">Taxes</a>
-			</li>
-					<li class="">
-		<a href="/affiliate-system.html">Affiliate System</a>
-			</li>
-					<li class="">
-		<a href="/statistics.html">Statistics</a>
-			</li>
-					<li class="">
-		<a href="/import-export.html">Import/Export</a>
-			</li>
-					<li class="">
-		<a href="/gift-registry.html">Gift Registry</a>
-			</li>
-					<li class=" m-last-items">
-		<a href="/pci-compliance.html">PCI Compliance</a>
-			</li>
-		<li class="tm-shadow">&nbsp;</li>		</ul>
+		<a href="features-design.html">Feature tour</a>
 			</li>
 					<li class="dir">
 		<a href="/demo-item.html">Demo</a>
@@ -326,7 +215,7 @@ $(document).ready(function(){
 		<a href="/demo-item.html">Online Demo</a>
 			</li>
 					<li class="">
-		<a href="/personal-demo.html">Personal Demo</a>
+		<a href="//www.cs-cart.com/personal-demo.html">Personal Demo</a>
 			</li>
 					<li class="">
 		<a href="/live-stores.html">Live Stores</a>
@@ -337,16 +226,16 @@ $(document).ready(function(){
 		<li class="tm-shadow">&nbsp;</li>		</ul>
 			</li>
 					<li class="">
-		<a href="/professional.html">CS-Cart Professional</a>
+		<a href="/cscart.html">CS-Cart Software</a>
 			</li>
 					<li class="">
-		<a href="/ultimate.html">CS-Cart Ultimate</a>
+		<a href="/multivendor.html">Multi-Vendor Software</a>
 			</li>
 					<li class="">
-		<a href="/multivendor.html">CS-Cart Multi-Vendor</a>
+		<a href="/compare.html">Compare Products</a>
 			</li>
 					<li class="">
-		<a href="/compare.html">Compare Editions</a>
+		<a href="/download-cs-cart.html">Download CS-Cart</a>
 			</li>
 					<li class="dir">
 		<a href="/twigmo.html">Mobile Commerce</a>
@@ -356,15 +245,9 @@ $(document).ready(function(){
 		<a href="/twigmo-installation.html">Twigmo Installation</a>
 			</li>
 					<li class=" m-last-items">
-		<a href="http://twigmo.com/demo/cs-cart" target="_blank">Twigmo Front-End Demo</a>
+		<a href="http://cscart.twigmo.com/ " target="_blank">Twigmo Front-End Demo</a>
 			</li>
 		<li class="tm-shadow">&nbsp;</li>		</ul>
-			</li>
-					<li class="">
-		<a href="/features.html">Ecommerce Features</a>
-			</li>
-					<li class="">
-		<a href="/overview.html">Software Overview</a>
 			</li>
 					<li class="">
 		<a href="/roadmap.html">Roadmap</a>
@@ -389,45 +272,6 @@ $(document).ready(function(){
 			</li>
 					<li class=" m-last-items">
 		<a href="/shopping-cart-labs.html">CS-Cart Labs</a>
-			</li>
-		<li class="tm-shadow">&nbsp;</li>		</ul>
-</li><li class="has-subitems "><span><a href="/documentation.html">Documentation</a></span>
-<ul>
-			<li class="">
-		<a href="/requirements.html">System Requirements</a>
-			</li>
-					<li class="">
-		<a href="installation.html">Installation</a>
-			</li>
-					<li class="">
-		<a href="reference-guide.html">Reference Guide</a>
-			</li>
-					<li class="">
-		<a href="http://kb.cs-cart.com">Knowledge Base</a>
-			</li>
-					<li class="">
-		<a href="http://docs.cs-cart.com">Developer Documentation</a>
-			</li>
-					<li class=" m-last-items">
-		<a href="/ecommerce-articles.html">Ecommerce Articles</a>
-			</li>
-		<li class="tm-shadow">&nbsp;</li>		</ul>
-</li><li class="has-subitems "><span><a href="/affiliate-program.html">Partners</a></span>
-<ul>
-			<li class="">
-		<a href="/affiliate-program.html">Affiliate Program</a>
-			</li>
-					<li class="dir">
-		<a href="/reseller-program.html">Reseller Program</a>
-					
-<ul>
-			<li class=" m-last-items">
-		<a href="/apply-for-reseller-status.html">Apply for a reseller status</a>
-			</li>
-		<li class="tm-shadow">&nbsp;</li>		</ul>
-			</li>
-					<li class=" m-last-items">
-		<a href="/authorized-resellers.html">Regional Resellers</a>
 			</li>
 		<li class="tm-shadow">&nbsp;</li>		</ul>
 </li><li class="has-subitems "><span><a href="about-marketplace.html">Marketplace</a></span>
@@ -457,49 +301,38 @@ $(document).ready(function(){
 		<a href="/disclaimer.html">Disclaimer</a>
 			</li>
 		<li class="tm-shadow">&nbsp;</li>		</ul>
-</li><li class="has-subitems "><span><a href="/support-service.html">Services</a></span>
+</li><li class="has-subitems "><span><a href="/support-service.html">Support</a></span>
 <ul>
 			<li class="">
-		<a href="/support-service.html">Technical Support</a>
+		<a href="support-service.html">Technical Support</a>
 			</li>
 					<li class="">
-		<a href="/custom-development.html">Custom Development</a>
-			</li>
-					<li class="dir">
-		<a href="/design-creation-service.html">Design</a>
-					
-<ul>
-			<li class="">
-		<a href="/design-configurator.html">Design configurator</a>
+		<a href="/requirements.html">System Requirements</a>
 			</li>
 					<li class="">
-		<a href="/design-packages.html">Packages</a>
+		<a href="installation.html">Installation</a>
 			</li>
 					<li class="">
-		<a href="/custom-design-service.html">Custom Design</a>
+		<a href="reference-guide.html">Reference Guide</a>
 			</li>
 					<li class="">
-		<a href="/banner-creation-service.html">Banners</a>
+		<a href="http://kb.cs-cart.com">Knowledge Base</a>
 			</li>
 					<li class="">
-		<a href="/logo-creation-service.html">Logos</a>
-			</li>
-					<li class="">
-		<a href="/design-integration.html">Integration</a>
+		<a href="http://docs.cs-cart.com">Developer Documentation</a>
 			</li>
 					<li class=" m-last-items">
-		<a href="/design-portfolio.html">Our Portfolio</a>
+		<a href="/ecommerce-articles.html">Ecommerce Articles</a>
 			</li>
 		<li class="tm-shadow">&nbsp;</li>		</ul>
-			</li>
-					<li class=" m-last-items">
-		<a href="/installation-service.html">Installation</a>
-			</li>
-		<li class="tm-shadow">&nbsp;</li>		</ul>
-</li><li class="first-level "><span><a href="http://blog.cs-cart.com/">Blog</a></span></li><li class="first-level "><span><a href="/helpdesk">Help Desk</a></span></li></ul>
+</li><li class="first-level "><span><a href="/helpdesk">Help Desk</a></span></li><li class="first-level "><span><a href="/buy-cscart.html">Buy Now</a></span></li></ul>
 </div>
 <span class="helper-block">&nbsp;</span>
 </div>
+	</div>
+</div>
+
+
 
 <div class="top-tools-container">
 	<span class="float-left">&nbsp;</span>
@@ -562,7 +395,7 @@ $(document).ready(function(){
 						<div class="central-column">
 				<div class="central-content">
 						<div class="breadcrumbs">
-		<a href="/">Home</a><img src="/skins/base/customer/images/icons/breadcrumbs_arrow.gif" class="bc-arrow" border="0" alt=">"><a href="/license.html">Resources</a><img src="/skins/base/customer/images/icons/breadcrumbs_arrow.gif" class="bc-arrow" border="0" alt=">">Privacy Policy
+		<a href="/">Home</a><img src="/skins/base/customer/images/icons/breadcrumbs_arrow.gif" class="bc-arrow" border="0" alt=">"><a href="/license-professional.html">Resources</a><img src="/skins/base/customer/images/icons/breadcrumbs_arrow.gif" class="bc-arrow" border="0" alt=">">Privacy Policy
 	</div>
 										
 
@@ -608,10 +441,10 @@ $(document).ready(function(){
 	<div class="sidebox-body">
 <ul class="p-navigation">
 
-											
+							
 	
 	<li class="">
-		<a href="/license.html">CS-Cart License Agreement</a>
+		<a href="/license.html">License Agreement</a>
 </li>
 	
 	<li class="">
@@ -619,27 +452,11 @@ $(document).ready(function(){
 </li>
 	
 	<li class="">
-		<a href="/development-services-agreement.html">Development Services Agreement</a>
+		<a href="/software-distribution-agreement.html">Reseller Agreement</a>
 </li>
 	
 	<li class="">
-		<a href="/design-agreement.html">Web Design Agreement</a>
-</li>
-	
-	<li class="">
-		<a href="/web-design-integration-agreement.html">Web Design Integration Agreement</a>
-</li>
-	
-	<li class="">
-		<a href="/software-upgrade-agreement.html">Software Upgrade  Agreement</a>
-</li>
-	
-	<li class="">
-		<a href="/software-distribution-agreement.html">Software Distribution Agreement</a>
-</li>
-	
-	<li class="">
-		<a href="/cooperation-agreement.html">Cooperation Agreement</a>
+		<a href="/cooperation-agreement.html">Cooperation Agreement with Hosting Provider</a>
 </li>
 	
 	<li class=" active">
@@ -664,60 +481,116 @@ $(document).ready(function(){
 	</div>
 </div>
 			</div>
-<div id="footer">
-	<div class="footer-helper-container">
-		
-<div class="float-right footer-logos">
-	<a href="http://www.facebook.com/cscart.official"><img src="/skins/base/customer/addons/cscart_site/overrides/images/facebook_logo.gif" width="22" height="22" border="0" alt="CS-Cart on Facebook"></a>
-	<a href="http://twitter.com/cscart"><img src="/skins/base/customer/addons/cscart_site/overrides/images/twitter_logo.gif" width="22" height="22" border="0" alt="CS-Cart on Twitter"></a>
+
+
+<div id="footer" class="center">
+
+	<div class="cols-wrapper footer-widgets section-boxed cols-4">
+	<div class="col">
+		<div class="footer-box widget_nav_menu" id="nav_menu-2"><h4 class="title">Product</h4>
+			<div class="menu-footer_product-container">
+			    <ul id="menu-footer_product" class="menu">
+			    	<li id="menu-item-4998" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4998"><a href="http://www.cs-cart.com/demo-item.html">Demo</a></li>
+                    <li id="menu-item-4633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4633"><a href="http://www.cs-cart.com/shopping-cart-labs.html">Labs</a></li>
+                    <li id="menu-item-4619" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4619"><a href="http://www.cs-cart.com/roadmap.html">Roadmap</a></li>
+                    <li id="menu-item-4474" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4474"><a target="_blank" href="http://forum.cs-cart.com/tracker/project-1-cs-cart/">Report bug</a></li>
+                    <li id="menu-item-4475" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4475"><a target="_blank" href="http://cscart.uservoice.com/forums/134344-cs-cart-ultimate">Suggest a Feature</a></li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="footer-box widget_nav_menu" id="nav_menu-5"><h4 class="title">Marketplace</h4>
+        	<div class="menu-footer_marketplace-container">
+        		<ul id="menu-footer_marketplace" class="menu">
+        			<li id="menu-item-6568" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6568"><a href="http://www.cs-cart.com/compatible-hosting.html">Hosting</a></li>
+                    <li id="menu-item-6569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6569"><a href="http://www.cs-cart.com/design-templates.html">Designers</a></li>
+                    <li id="menu-item-6570" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6570"><a href="http://www.cs-cart.com/companion-solutions.html">Developers</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col">
+        <div class="footer-box widget_nav_menu" id="nav_menu-4"><h4 class="title">Partners</h4>
+        	<div class="menu-footer_partners-container">
+        		<ul id="menu-footer_partners" class="menu">
+        			<li id="menu-item-4542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4542"><a href="http://www.cs-cart.com/affiliate-program.html">Affiliate Program</a></li>
+                    <li id="menu-item-4594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4594"><a href="http://www.cs-cart.com/reseller-program.html">Reseller Program</a></li>
+                    <li id="menu-item-4665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4665"><a href="http://www.cs-cart.com/authorized-resellers.html">Regional Resellers</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="footer-box widget_nav_menu" id="nav_menu-3"><h4 class="title">Support</h4>
+        	<div class="menu-footer_resources-container">
+        		<ul id="menu-footer_resources" class="menu">
+        			<li id="menu-item-5428" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5428"><a href="http://www.cs-cart.com/installation.html">Installation</a></li>
+                    <li id="menu-item-4477" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4477"><a target="_blank" href="https://cs-cart.com/helpdesk">Customer Help Desk</a></li>
+                    <li id="menu-item-5429" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5429"><a target="_blank" href="http://forum.cs-cart.com/">Community Forums</a></li>
+                    <li id="menu-item-5427" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5427"><a href="http://www.cs-cart.com/faq.html">FAQ</a></li>
+                    <li id="menu-item-4489" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4489"><a target="_blank" href="http://docs2.cs-cart.com/4.0.x/">Documentation</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="col">
+        <div class="footer-box widget_nav_menu" id="nav_menu-7"><h4 class="title">Resources</h4>
+			<div class="menu-footer_product-container">
+			    <ul id="menu-footer_product" class="menu">
+			    	<li id="menu-item-6303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4998"><a href="http://www.cs-cart.com/license.html">License Agreement</a></li>
+                    <li id="menu-item-6304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4633"><a href="http://www.cs-cart.com/privacy-policy.html">Privacy Policy</a></li>
+                    <li id="menu-item-6305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4619"><a href="http://www.cs-cart.com/money-back.html">Refund Policy</a></li>
+                    <li id="menu-item-6306" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4474"><a target="_blank" href="http://www.cs-cart.com/upgrade-policy.html">Upgrade Policy</a></li>
+                    <li id="menu-item-6307" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4475"><a target="_blank" href="http://cs-cart.com/helpdesk">Support Help Desk</a></li>
+                    <li id="menu-item-6308" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4475"><a target="_blank" href="http://www.cs-cart.com/check-your-license.html">Check License</a></li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="col nomargin">
+    	<div class="footer-box widget_nav_menu" id="nav_menu-6"><h4 class="title">About</h4>
+    		<div class="menu-footer_about-container">
+    			<ul id="menu-footer_about" class="menu">
+    				<li id="menu-item-4516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4516"><a href="http://www.cs-cart.com/send-message.html">Contact Us</a></li>
+                    <li id="menu-item-4515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4515"><a target="_blank" href="http://blog.cs-cart.com/">Blog</a></li>
+                </ul>
+            </div>
+        </div>
+
+    	<div class="footer-box widget_text" id="text-3"><h4 class="title">Social</h4>
+    		<div class="textwidget">
+    			<ul class="footer_social_icons">
+                    <li class="Facebook">
+                        <a href="http://www.facebook.com/cscart.official" target="_blank"><img src="/skins/base/customer/addons/cscart_site/overrides/images/social_facebook.png">Facebook</a>
+                    </li> 
+                    <li class="twitter">
+                        <a href="http://twitter.com/cscart" target="_blank"><img src="/skins/base/customer/addons/cscart_site/overrides/images/social_twitter.png">Twitter</a>
+                    </li>
+                </ul>
+            </div>
+		</div>
+	</div>	
+</div>
+
+	<div class="footer-bottom">
+	<div class="section-boxed">
+<span class="copyrights">
+© Copyright Shopping Cart Software &amp; Ecommerce Software Solutions by CS-Cart</span>
+<div class="footer-nav">
 </div>
 
 
-<p class="quick-links">
-			<a href="/license.html">License Agreement</a>&nbsp;&nbsp;
-			<a href="/privacy-policy.html">Privacy Policy</a>&nbsp;&nbsp;
-			<a href="money-back.html">Refund Policy</a>&nbsp;&nbsp;
-			<a href="/upgrade-policy.html">Upgrade Policy</a>&nbsp;&nbsp;
-			<a href="http://cs-cart.com/helpdesk">Support Help Desk</a>&nbsp;&nbsp;
-			<a href="check-your-license.html">Check License</a>&nbsp;&nbsp;
-	</p>
-<p class="bottom-copyright class">© 2004-2013 CS-Cart.com (Simbirsk Technologies Ltd).</p>
-
-
-
-
-
-
-
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript">
-(function (d, w, c) {
-    (w[c] = w[c] || []).push(function() {
-        try {
-            w.yaCounter15609217 = new Ya.Metrika({id:15609217, enableAll: true, webvisor:true});
-        } catch(e) {}
-    });
-    
-    var n = d.getElementsByTagName("script")[0],
-        s = d.createElement("script"),
-        f = function () { n.parentNode.insertBefore(s, n); };
-    s.type = "text/javascript";
-    s.async = true;
-    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
-
-    if (w.opera == "[object Opera]") {
-        d.addEventListener("DOMContentLoaded", f);
-    } else { f(); }
-})(document, window, "yandex_metrika_callbacks");
-</script>
-<noscript><div><img src="//mc.yandex.ru/watch/15609217" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
-	</div>
+</div>
+</div>
 </div>
 
 <script type="text/javascript">
 //<![CDATA[
 	var _gaq = _gaq || [];
+	_gaq.push(['_setDomainName', 'www.cs-cart.com']);
 	_gaq.push(["_setAccount", "UA-417963-2"]);
 	_gaq.push(["_trackPageview"]);
 	
