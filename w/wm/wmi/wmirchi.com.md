@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wmirchi.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430194909id_/http%3A//www.wmirchi.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmirchi.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229202640id_/http%3A//www.wmirchi.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy » Wmirchi.Com Best Social Networking sites in India
+# Privacy Policy chand Wmirchi.Com Best Social Networking sites in India
 
 **Wmirchi.Com Privacy Policy    
 **  
