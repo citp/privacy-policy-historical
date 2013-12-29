@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantsoftwarestore.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628004625id_/http%3A//instantsoftwarestore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantsoftwarestore.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229193726id_/http%3A//instantsoftwarestore.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -45,4 +45,4 @@ We are committed to conducting our business in accordance with these principles 
 Contact**
 
 If you have any questions regarding this Policy, or your dealings with our web site, please contact us.  
-support@mellenigroup.com
+support@instantsoftwarestore.com
