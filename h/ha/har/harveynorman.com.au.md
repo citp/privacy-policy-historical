@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the harveynorman.com.au privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629055130id_/http%3A//www.harveynorman.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harveynorman.com.au privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229051521id_/http%3A//www.harveynorman.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Harvey Norman Australia
 
 ### HARVEY NORMAN ONLINE - PRIVACY POLICY
 
 This Privacy Policy is applicable to Harvey Norman Online only.   
-To view the Privacy Policy of other Harvey Norman franchisees, please see the [relevant store](http://harveynorman.findnearest.com.au/ "Harvey Norman Store Finder") for details.
+To view the Privacy Policy of other Harvey Norman franchisees, please see the [relevant store](http://harveynorman.findnearest.com.au/ "Harvey Norman Store Finder") for details.   
+To view the Privacy Policy of the Publisher, please see the [Generic Publications](http://www.harveynorman.com.au/privacy-policy/generic-publications/) Privacy Policy.
 
 ### About Our Privacy Policy
 
