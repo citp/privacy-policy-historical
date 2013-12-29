@@ -1,190 +1,362 @@
-<!--The following is the downloaded HTML source of the glu.com privacy policy that was archived on 2013-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130623220027id_/http%3A//www.glu.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the glu.com privacy policy that was archived on 2013-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131229165418id_/http%3A//www.glu.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!DOCTYPE html><html><head>
+	
+	<title>Glu | The Leader in 3D Freemium Mobile Gaming </title>
+	
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="shortcut icon" href="http://www.glu.com/misc/favicon.ico" type="image/x-icon">
-	<title>Privacy Policy</title>
-	<link type="text/css" rel="stylesheet" media="all" href="http://www.glu.com/modules/node/node.css?8">
-<link type="text/css" rel="stylesheet" media="all" href="http://www.glu.com/modules/system/defaults.css?8">
-<link type="text/css" rel="stylesheet" media="all" href="http://www.glu.com/modules/system/system.css?8">
-<link type="text/css" rel="stylesheet" media="all" href="http://www.glu.com/modules/system/system-menus.css?8">
-<link type="text/css" rel="stylesheet" media="all" href="http://www.glu.com/modules/user/user.css?8">
-<link type="text/css" rel="stylesheet" media="all" href="http://www.glu.com/sites/all/modules/cck/theme/content-module.css?8">
-<link type="text/css" rel="stylesheet" media="all" href="http://www.glu.com/sites/all/modules/date/date.css?8">
-<link type="text/css" rel="stylesheet" media="all" href="http://www.glu.com/sites/all/modules/date/date_popup/themes/datepicker.css?8">
-<link type="text/css" rel="stylesheet" media="all" href="http://www.glu.com/sites/all/modules/date/date_popup/themes/jquery.timeentry.css?8">
-<link type="text/css" rel="stylesheet" media="all" href="http://www.glu.com/sites/all/modules/filefield/filefield.css?8">
-<link type="text/css" rel="stylesheet" media="all" href="http://www.glu.com/sites/all/modules/pollfield/pollfield.css?8">
-<link type="text/css" rel="stylesheet" media="all" href="http://www.glu.com/sites/all/modules/upload_element/upload_element.css?8">
-<link type="text/css" rel="stylesheet" media="all" href="http://www.glu.com/modules/forum/forum.css?8">
-<link type="text/css" rel="stylesheet" media="all" href="http://www.glu.com/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?8">
-<link type="text/css" rel="stylesheet" media="all" href="http://www.glu.com/sites/all/modules/views/css/views.css?8">
-<link type="text/css" rel="stylesheet" media="all" href="http://www.glu.com/sites/all/themes/glugames/style.css?8">
-	<!-- Pulled from http://code.google.com/p/html5shiv/ -->
+	<meta http-equiv="Cache-control" content="public">
+	
+	<style type="text/css">
+	
+		html {
+			background-color: #010101;
+		}
+		
+		body {
+			display: none;
+		}
+	
+	</style>
+	
+	<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://www.glu.com/scripts/jquery.js"></script>
+	<script type="text/javascript" src="http://www.glu.com/scripts/match-media.js"></script>
+	<script type="text/javascript">
+	
+		//determine if we're dealing with a touch device
+		var is_touch_device = 'ontouchstart' in window;
+	
+		if(is_touch_device)
+		{
+			//load stylesheet for touch devices
+			$("head").append('<link rel="stylesheet" type="text/css" href="http://www.glu.com/styles/styles_mobile.css" />');
+			//set meta viewport setting
+			$("head").append('<meta name="viewport" content="width=device-width, initial-scale=1" />');
+		}
+		else
+		{
+			//load full stylesheet for non-touch devices
+			$("head").append('<link rel="stylesheet" type="text/css" href="http://www.glu.com/styles/styles.css" />');
+		}
+		
+	
+		//set up mobile detection
+		var isMobile = {
+		    Android: function() {
+		        return navigator.userAgent.match(/Android/i);
+		    },
+		    BlackBerry: function() {
+		        return navigator.userAgent.match(/BlackBerry/i);
+		    },
+		    iOS: function() {
+		        return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+		    },
+		    Opera: function() {
+		        return navigator.userAgent.match(/Opera Mini/i);
+		    },
+		    Windows: function() {
+		        return navigator.userAgent.match(/IEMobile/i);
+		    },
+		    any: function() {
+		        return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+		    }
+		};
+		
+		// -- Newsletter Signup Scripts -- //
+		
+		function newsletterSignup()
+		{
+			var email_address = $("#newsletter").val();
+			
+			//verify email address
+			if(validateEmail(email_address))
+			{
+				//save the email address
+				$.ajax(
+					{
+						type: "POST",
+						data: "email=" + email_address,
+						url: "http://www.glu.com/ajax/newsletterSignup",
+						success: function(returned_data)
+						{
+							switch(returned_data)
+							{
+								case "success":
+									alert("You have been successfully signed up for our newsletter. Thank you.");
+								break;
+								
+								case "failure":
+									alert("There was a problem signing you up for our Newsletter. Please try again.");
+								break;
+								
+								case "invalid":
+									alert("Please enter a valid email address");
+								break;
+							}
+						}
+					});
+			}
+			else
+			{
+				alert("Please enter a valid email address");
+				return false;
+			}
+		}
+		
+		
+		function validateEmail(email)
+		{
+			var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+			    
+			return re.test(email);
+		}
+		
+		
+		function resetNewsletterForm()
+		{
+			var val = $("#newsletter").val();
+			
+			//clear the Email Address label if it exists
+			if(val == "Email Address")
+			{
+				$("#newsletter").val("");
+			}
+			
+			//reapply the email address label if the form is blank
+			if(val == "" || val == " ")
+			{
+				$("#newsletter").val("Email Address");
+			}
+		}
+		
+		// -- Search Field Scripts -- //
+		
+		function submitSearch()
+		{
+			//verify that there is a search term defined
+			var search_term = $("#search").val();
+			
+			if(search_term != "")
+			{
+				document.form2.submit();
+			}
+			else
+			{
+				alert("Please provide a search term.");
+				return false;
+			}
+		}
+	
+	</script>
+	
 	<!--[if lt IE 9]>
-	  <script src="/sites/all/themes/glugames/js/html5.js?8"></script>
+	<link rel="stylesheet" type="text/css" href="http://www.glu.com/styles/ie.css" />
+	<script type="text/javascript" src="http://www.glu.com/scripts/jquery-ie.js"></script>
 	<![endif]-->
-	<link rel="stylesheet" type="text/css" href="/sites/all/themes/glugames/css/reset-min.css?8">
-	<link rel="stylesheet" type="text/css" href="/sites/all/themes/glugames/css/corp-styles.css?8">
-	<link rel="stylesheet" type="text/css" href="/sites/all/themes/glugames/css/jquery-ui-1.7.2.custom.css?8">
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.glu.com/misc/jquery.js?8"></script>
-<script type="text/javascript" src="http://www.glu.com/misc/drupal.js?8"></script>
-<script type="text/javascript" src="http://www.glu.com/sites/all/modules/google_analytics/googleanalytics.js?8"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
-//--><!]]>
-</script>
-	<script type="text/javascript" src="/sites/all/themes/glugames/js/jquery-ui-1.7.2.custom.min.js?8"></script>
-	<script type="text/javascript" src="/sites/all/themes/glugames/js/page-corp.js?8"></script>
-	<script type="text/javascript"> </script>
-	<!--[if lt IE 7]>
-	 <script type="text/javascript" src="/sites/all/themes/glugames/js/unitpngfix.js"></script>
-	<![endif]-->
+	
 </head>
 
-<body class="not-front not-logged-in page-node node-type-page no-sidebars">
+<body>
 	
-<div id="container">
-  
-	<div id="header">
-		<a href="/"><img src="/sites/all/themes/glugames/img/logo.jpg" alt="Glu logo"></a>
-		<ul class="links primary-links" menu_type=""><li class="menu-1977 first"><a href="/" title="">Home</a></li>
-<li class="menu-1978"><a href="/game" title="">Games</a></li>
-<li class="menu-1979 last"><a href="/newslist" title="">News</a></li>
-</ul>		
-<link rel="stylesheet" type="text/css" href="/sites/all/themes/glugames/css/login-ui.css">
-<script type="text/javascript" src="/sites/all/themes/glugames/js/login.js"></script>
-
-	<div id="community-menu">
-		<div id="cmenu">
-			<div id="community-text">Community
-					<div id="community-submenu">
-						<ul>
-						  							<li><a href="/forum" class="">Forums</a></li>
-							<li><a href="/leaderboard" class="">Leaderboard</a></li>
-						</ul>
-				   </div>
-		   </div>
-	 </div>
-	 <div class="clear"></div>
-	</div>
-
-<div id="sbutton">
-  <img src="/sites/all/themes/glugames/img/signin_button.png">
-</div>
-<div id="signin">
-  <div id="signin1">&nbsp;</div>
-  <div class="signinmdlbg">
-	<div class="normtxt">
-	  <div id="loginstatusmsg"></div>
-	  <div class="heading name">Enter your username below to log in, or register a new account:</div>
-	  <div class="clear"></div>
-	  <div class="subheading nametxt">username:</div>
-	  <input type="text" name="nickname" size="20" value="" class="nickname">
-	  <div class="heading pass">Welcome Back!<br>Enter your password to login:</div>
-	  <div class="editnickname"><span class="nicknametxt">username</span><span class="changenickname">change</span></div>
-	  <div class="subheading passtxt">password:</div>
-	  <input type="password" name="password" size="20" value="" class="password">
-	  <div id="passerror"></div>
-      <div class="subheading mailtxt">email:</div>
-	  <input type="text" name="email" size="20" value="" class="mail">
-	  <div id="mailerror"></div>
-	  <div class="clear"></div><br clear="all">
-	  <div id="fgtpwd"><a href="/user/password" class="chname">FORGOT USERNAME?</a></div>
-	  <div id="login-continue" class="ysmallbutton continue">
-	    <span class="">CONTINUE</span>
-	  </div>
-	  <div class="clear"></div>
-	</div>
-  </div>
-  <div class="siginbottom"><!-- --></div>
-</div>
-<div id="block-menu-menu-support-links" class="block block-menu">
-  <h2>Support links</h2>
-
-  <div class="content">
-    <ul class="menu"><li class="leaf first"><a href="/jobs" title="">CAREERS</a></li>
-<li class="leaf last"><a href="/support" title="">SUPPORT</a></li>
-</ul>  </div>
-</div>
-	</div>
-  
-	<div id="main">
-		<div id="contentleft">
-			<h1>Glu Mobile Inc.</h1>
-	        <ul>
-		        <li><a href="/about" class="">About Us</a></li>
-		        <li><a href="/press" class="">Press Releases</a></li>
-		        <li><a href="/investors" class="">Investors</a></li>
-		        <li><a href="/jobs" class="">Jobs</a></li>
-		        <li><a href="/support" class="">Support</a></li>
-		        <li><a href="/contact-info" class="">Contact</a></li>
-	        </ul>
-        </div>
+	<div class="header_wrapper">
 		
-		<div id="contentright">
-			<p align="center"><strong>GLU MOBILE PRIVACY POLICY</strong></p>
-<p><strong>&nbsp;</strong></p>
-<p><strong>Last Updated:&nbsp; </strong>May 29, 2013</p>
-<p>&nbsp;</p>
-<p><strong>Material Changes:&nbsp; </strong>Please note the changes in “Analytics, Advertising and Other Services Provided</p>
-<p>by Other Companies” and in “Your Choices” below.&nbsp;</p>
-<p>&nbsp;</p>
-<p>This Privacy Policy explains how information about you is collected, used and disclosed by Glu Mobile Inc. (“<strong><em>Glu</em></strong>,” “<strong><em>we</em></strong>” or “<strong><em>us</em></strong>”).&nbsp; This Privacy Policy applies to information we collect when you use our websites, mobile applications and other online products and services (collectively, the “<strong><em>Services</em></strong>”). &nbsp;This Privacy Policy does not apply to the information collected from: (1) web-based applications that are based on our mobile applications but are published by third parties, (2) mobile applications that we distribute on behalf of third parties and which are hosted and operated by such parties, or (3) the on-line submission of resumes and employment applications in connection with the Jobs section of our website.</p>
-<p>&nbsp;</p>
-<p>We may change this Privacy Policy from time to time.&nbsp; If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as by adding a statement to our homepage or mobile applications or by sending you an email notification).&nbsp; We encourage you to review the Privacy Policy whenever you access the Services to stay informed about our information practices and the ways you can help protect your privacy.</p>
-<table width="97%" border="0" cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<td valign="top" width="27%">
-<p><strong>Collection of Information </strong></p>
-</td>
-<td valign="top" width="72%">
+		<div class="header">
+			
+			<div class="top_hat full">
+				
+				<div class="newsletter_signup top_hat_container">
+					
+					Newsletter:&nbsp;&nbsp;<input type="text" name="newsletter" id="newsletter" value="Email Address" onfocus="resetNewsletterForm();" onblur="resetNewsletterForm();">&nbsp;&nbsp;<a class="button" onclick="newsletterSignup();">Sign Up</a>
+					
+				</div>
+				
+				<div class="social_media top_hat_container">
+					
+					<ul>
+						<li>
+							<a href="https://twitter.com/glumobile" target="_blank"><img name="twitter_button" id="twitter_button" class="full_image" data-src="http://www.glu.com/images/glu_twitter_icon.jpg" alt="Twitter Icon"></a>
+						</li>
+						<li>
+							<a href="https://www.facebook.com/glu.mobile" target="_blank"><img name="facebook_button" id="facebook_button" class="full_image" data-src="http://www.glu.com/images/glu_facebook_icon.jpg" alt="Facebook Icon"></a>
+						</li>
+						<li>
+							<a href="http://www.youtube.com/glumobilegames/" target="_blank"><img name="youtube_button" id="youtube_button" class="full_image" data-src="http://www.glu.com/images/glu_youtube_icon.jpg" alt="Youtube Icon"></a>
+						</li>
+					</ul>
+					
+				</div>
+				
+				<div class="search top_hat_container">
+					
+					<form name="form2" id="form2" method="post" action="http://www.glu.com/search/">
+						<input type="text" name="search" id="search">&nbsp;&nbsp;<a class="button" type="submit" onclick="submitSearch();">Search</a>
+					</form>
+					
+				</div>
+				
+				<div class="customer_care top_hat_container">
+					
+					<ul>
+						<li><img class="full_image" data-src="http://www.glu.com/images/glu_guy.jpg" alt="Glu Guy"></li>
+						<li><a class="button" href="http://www.glu.com/support/">Customer Care</a></li>
+					</ul>
+					
+				</div>
+				
+			</div>
+			
+			<div class="logo full">
+				
+				<a href="http://www.glu.com/">
+					<img class="full_image" data-src="http://www.glu.com/images/glu_logo.jpg" alt="Glu Logo">
+				</a>
+				
+			</div>
+			
+			<div class="nav">
+				
+				<ul class="nav full">
+
+					<li><a href="http://www.glu.com/">Home</a></li>					
+					<li><a href="http://www.glu.com/games/genre/all">Games</a></li>					
+					<li><a href="http://www.glu.com/news/category/all">News</a></li>					
+					<li><a href="http://www.glu.com/community">Community</a></li>					
+					<li><a href="http://www.glu.com/support">Support</a></li>					
+					<li><a href="http://www.glu.com/careers">Careers</a></li>					
+					<!-- <li><a href="http://www.glu.com/glu_global">Glu Global</a></li> -->
+					
+				</ul>
+				
+				<ul class="nav mobile">
+				
+					<li><a href="http://www.glu.com/"><img class="mobile_image" data-src-mobile="http://www.glu.com/images/glu_logo_mobile.png" data-src="http://www.glu.com/images/glu_logo_mobile.png" data-src-large="http://www.glu.com/images/glu_logo_mobile.png" alt="Glu Logo"></a></li>
+					<li><a href="http://www.glu.com/games/genre/all">Games</a></li>
+					<li><a href="http://www.glu.com/news/category/all">News</a></li>	
+					<li><a href="http://www.glu.com/community">Forums</a></li>					
+					<li><a href="http://www.glu.com/support">Support</a></li>													
+					
+				</ul>
+				
+			</div>
+			
+		</div>
+		
+	</div>
+	
+	<div class="content_wrapper clear">
+		
+		<div class="content">
+			
+<!--
+	<div class="full right where">
+		
+		<h1>Where we work</h1>
+		
+		<div class="where_image">
+			
+			<img class="full_image" data-src="" alt="Where we work" />
+			
+		</div>
+		
+		<h2>Etiam interdum risus risus id pretium convallis. </h2>
+		
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dapibus facilisis enim id dignissim. Sed vel quam tellus, vitae blandit tortor. Maecenas porttitor adipiscing euismod. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed lacus nibh, aliquet molestie mattis pretium, fringilla id ipsum. Ut elementum, tellus a ultricies pulvinar, magna massa semper quam, in condimentum nunc elit at arcu. Nam interdum odio sed nisi adipiscing quis dictum lacus euismod.</p>
+		
+	</div>
+-->
+
+	<h1 class="page_heading">Privacy</h1>
+	
+	<div class="full right news_widget">
+		
+		
+	<div class="news_sidebar">
+		
+		<h1>Glu News <span class="right all_news"><a href="http://www.glu.com/news/category/all">All News&nbsp;&nbsp;<img class="full_image plus" alt="Plus Icon" data-src="http://www.glu.com/images/glu_plus_icon_full.png"></a></span></h1>
+		
+				
+			<div class="news_item">
+				
+				<span class="news_date">12.20.13</span><br>
+				<a href="http://www.glu.com/news/viewNewsItem/22"><span class="news_title">Deer Hunter 2014 infographic shows its massive scale!</span></a><br>
+				<span class="news_tag_line">Years in the thousands, bullets in the billions!</span> <a href="http://www.glu.com/news/viewNewsItem/22">Read More.</a>
+				
+			</div>
+		
+				
+			<div class="news_item">
+				
+				<span class="news_date">12.6.13</span><br>
+				<a href="http://www.glu.com/news/viewNewsItem/21"><span class="news_title">Deer Hunter 2014 is a Players' Choice finalist for most addictive game!</span></a><br>
+				<span class="news_tag_line">Vote now!</span> <a href="http://www.glu.com/news/viewNewsItem/21">Read More.</a>
+				
+			</div>
+		
+				
+			<div class="news_item">
+				
+				<span class="news_date">11.26.13</span><br>
+				<a href="http://www.glu.com/news/viewNewsItem/19"><span class="news_title">Win free stuff from Glu! </span></a><br>
+				<span class="news_tag_line">Enter this week's giveaway! </span> <a href="http://www.glu.com/news/viewNewsItem/19">Read More.</a>
+				
+			</div>
+		
+				
+			<div class="news_item">
+				
+				<span class="news_date">11.26.13</span><br>
+				<a href="http://www.glu.com/news/viewNewsItem/20"><span class="news_title">Featured Job of the Week: Graphic Designer</span></a><br>
+				<span class="news_tag_line">Join our Creative Services team in our SF office!</span> <a href="http://www.glu.com/news/viewNewsItem/20">Read More.</a>
+				
+			</div>
+		
+				
+	</div>
+		
+	</div>
+	
+	<div class="page_sub_content">
+	
+			
+		<h1>Glu Mobile Privacy Policy</h1>
+	
+		<div class="page_text">
+		
+			<p>Last Updated: &nbsp;May 29, 2013</p>
+<p>Material Changes: &nbsp;Please note the changes in “Analytics, Advertising and Other Services Provided&nbsp;by Other Companies” and in “Your Choices” below. &nbsp;</p>
+<p>This Privacy Policy explains how information about you is collected, used and disclosed by Glu Mobile Inc. (“Glu,” “we” or “us”). &nbsp;This Privacy Policy applies to information we collect when you use our websites, mobile applications and other online products and services (collectively, the “Services”). &nbsp;This Privacy Policy does not apply to the information collected from: (1) web-based applications that are based on our mobile applications but are published by third parties, (2) mobile applications that we distribute on behalf of third parties and which are hosted and operated by such parties, or (3) the on-line submission of resumes and employment applications in connection with the Jobs section of our website.</p>
+<p>We may change this Privacy Policy from time to time. &nbsp;If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as by adding a statement to our homepage or mobile applications or by sending you an email notification). &nbsp;We encourage you to review the Privacy Policy whenever you access the Services to stay informed about our information practices and the ways you can help protect your privacy.</p>
+<p><strong>Collection of Information</strong></p>
 <p><strong>Information You Provide to Us</strong></p>
-<p>We collect information you provide directly to us. &nbsp;For example, we collect information when you create an account, manage your user profile, participate in any interactive features of the Services, request our e-newsletter or other marketing communications, participate in a promotion or survey, request customer support or otherwise communicate with us.&nbsp; The types of information we may collect include your name, email address, postal address, photograph, avatar, password, forum posts and comments, messages between users and other contact or identifying information you choose to provide.&nbsp; Prize winners of contests or sweepstakes may also have to provide their Social Security Numbers, which are used exclusively for prize fulfillment and related tax purposes.&nbsp;</p>
-<p><strong>Information We Collect Automatically When You Use the Services </strong></p>
+<p>We collect information you provide directly to us. &nbsp;For example, we collect information when you create an account, manage your user profile, participate in any interactive features of the Services, request our e-newsletter or other marketing communications, participate in a promotion or survey, request customer support or otherwise communicate with us. &nbsp;The types of information we may collect include your name, email address, postal address, photograph, avatar, password, forum posts and comments, messages between users and other contact or identifying information you choose to provide. &nbsp;Prize winners of contests or sweepstakes may also have to provide their Social Security Numbers, which are used exclusively for prize fulfillment and related tax purposes. &nbsp;</p>
+<p><strong>Information We Collect Automatically When You Use the Services</strong>&nbsp;</p>
 <p>When you access or use our Services, we automatically collect information about you, including:</p>
 <ul>
-<li><strong>Device Information: </strong>We collect device-specific information when you access our Services from a mobile device, including your hardware model, operating system and version, unique device identifiers, mobile network information and country.</li>
-<li><strong>Use Information:</strong>&nbsp; We collect information about your use of the Services, including the type of browser you use, access times, pages viewed, game play activity, interactions with other players, your IP address and the page you visited before navigating to our Services.</li>
-<li><strong>Information Collected by Cookies and Other Tracking Technologies:</strong>&nbsp; We use various technologies to collect information, and this may include sending cookies to your computer or mobile device.&nbsp; Cookies are small data files stored on your hard drive or in device memory that helps us to improve our Services and your experience, see which areas and features of our Services are popular and count visits.&nbsp; For more information about cookies, and how to disable them, please see “Your Choices” below.&nbsp; We may also collect information using web beacons (also known as “tracking pixels”).&nbsp; Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon.</li>
-<li><strong>Other Information Collected with Permission</strong>: Our mobile applications that are distributed through the Google Play store and Amazon Appstore may also request permission to automatically collect other information from your mobile device, including your email address.&nbsp; We may only collect this information with your authorization in accordance with your device operating system’s permission process.&nbsp;</li>
+<li>Device Information: We collect device-specific information when you access our Services from a mobile device, including your hardware model, operating system and version, unique device identifiers, mobile network information and country.</li>
+<li>Use Information: &nbsp;We collect information about your use of the Services, including the type of browser you use, access times, pages viewed, game play activity, interactions with other players, your IP address and the page you visited before navigating to our Services.</li>
+<li>Information Collected by Cookies and Other Tracking Technologies: &nbsp;We use various technologies to collect information, and this may include sending cookies to your computer or mobile device. &nbsp;Cookies are small data files stored on your hard drive or in device memory that helps us to improve our Services and your experience, see which areas and features of our Services are popular and count visits. &nbsp;For more information about cookies, and how to disable them, please see “Your Choices” below. &nbsp;We may also collect information using web beacons (also known as “tracking pixels”). &nbsp;Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon.</li>
+<li>Other Information Collected with Permission: Our mobile applications that are distributed through the Google Play store and Amazon Appstore may also request permission to automatically collect other information from your mobile device, including your email address. &nbsp;We may only collect this information with your authorization in accordance with your device operating system’s permission process. &nbsp;</li>
 </ul>
 <p><strong>Information We Collect From Other Sources</strong></p>
-<p>We may also obtain information from other sources and combine that with information we collect through our Services.&nbsp; For example, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information, profile picture, phone number, email address, gender, date of birth and friends lists, in accordance with the authorization procedures determined by such social media site.&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="27%">
+<p>We may also obtain information from other sources and combine that with information we collect through our Services. &nbsp;For example, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information, profile picture, phone number, email address, gender, date of birth and friends lists, in accordance with the authorization procedures determined by such social media site. &nbsp;</p>
 <p><strong>Use of Information</strong></p>
-</td>
-<td valign="top" width="72%">
 <p>We may use information about you for various purposes, including to:</p>
 <ul>
 <li>Provide, maintain and improve our Services;</li>
-<li>Setup your gWallet account and manage the Glu credits that you earn and use across our Services;</li>
-<li>Provide and deliver the products and services you request and send you related information, including confirmations and invoices;</li>
-<li>Send you communications about products, services, offers, promotions, rewards, and events offered by Glu and other companies, and provide news and information we think will be of interest to you;</li>
+<li>Setup your gWallet account and manage the Glu credits that you earn and use across our Services;&nbsp;</li>
+<li>Provide and deliver the products and services you request and send you related information, including confirmations and invoices;&nbsp;</li>
+<li>Send you communications about products, services, offers, promotions, rewards, and events offered by Glu and other companies, and provide news and information we think will be of interest to you;&nbsp;</li>
 <li>Send you technical notices, updates, security alerts and support and administrative messages;</li>
 <li>Respond to your comments, questions and requests and provide customer service;</li>
-<li>Monitor and analyze trends, usage and activities in connection with our Services;</li>
-<li>Personalize and improve the Services and provide advertisements, content, suggested connections or features that match user profiles or activities;</li>
+<li>Monitor and analyze trends, usage and activities in connection with our Services;&nbsp;</li>
+<li>Personalize and improve the Services and provide advertisements, content, suggested connections or features that match user profiles or activities;&nbsp;</li>
 <li>Process and deliver contest entries and rewards;</li>
 <li>Link or combine with information we get from others to help understand your needs and provide you with better service; and</li>
 <li>Carry out any other purpose for which the information was collected.</li>
 </ul>
-<p>Glu is based in the United States and the information we collect is governed by U.S. law.&nbsp; By accessing or using the Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="27%">
-<p><strong>Sharing of</strong></p>
-<p><strong>Information</strong></p>
-</td>
-<td valign="top" width="72%">
+<p>Glu is based in the United States and the information we collect is governed by U.S. law. &nbsp;By accessing or using the Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries.&nbsp;</p>
+<p><strong>Sharing of&nbsp;Information</strong></p>
 <p>We may share information about you as follows or as otherwise described in this Privacy Policy:</p>
 <ul>
 <li>With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;</li>
@@ -194,106 +366,206 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 <li>With your consent or at your direction, including if we notify you through our Services that the information you provide will be shared in a particular manner and you provide such information.</li>
 </ul>
 <p>We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="27%">
 <p><strong>Social Sharing</strong></p>
-<p><strong>Features </strong></p>
-</td>
-<td valign="top" width="72%">
-<p>The Services may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Services with other media, and vice versa.&nbsp; The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature.&nbsp; For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="27%">
-<p><strong>Analytics, </strong></p>
-<p><strong>Advertising and Other Services Provided</strong></p>
-<p><strong>by Other</strong></p>
-<p><strong>Companies</strong><strong></strong></p>
-</td>
-<td valign="top" width="72%">
-<p>We may allow third parties to serve advertisements in connection with our Services, to provide analytics services and provide you with other services, such as rewards programs and tournaments.&nbsp; These third parties may use cookies, web beacons, your account information (that you set up with these third parties) and other technologies to collect information, such as your IP addresses, identifiers associated with your mobile device or applications on the device, the browsers you use to visit our Services, pages viewed, time spent on pages, links clicked, and conversion information.&nbsp; These third parties may also share this information with their customers and clients.&nbsp; This information may be used by Glu, these other companies and their customers and clients to analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests, and better understand your usage. Some of these third parties, including the third parties that share information they collect about you with their customers and clients, offer you a choice to opt out the collection of and/or sharing of this information; links to the opt-out mechanisms for the third parties that offer such a choice can be found below. This Privacy Policy does not apply to, and we are not responsible for, third-party cookies, web beacons, or other tracking technologies.&nbsp; &nbsp;&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="27%">
+<p><strong>Features</strong></p>
+<p>The Services may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Services with other media, and vice versa. &nbsp;The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. &nbsp;For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.</p>
+<p><strong>Analytics,&nbsp;Advertising and Other Services Provided&nbsp;by Other&nbsp;Companies</strong></p>
+<p>We may allow third parties to serve advertisements in connection with our Services, to provide analytics services and provide you with other services, such as rewards programs and tournaments. &nbsp;These third parties may use cookies, web beacons, your account information (that you set up with these third parties) and other technologies to collect information, such as your IP addresses, identifiers associated with your mobile device or applications on the device, the browsers you use to visit our Services, pages viewed, time spent on pages, links clicked, and conversion information. &nbsp;These third parties may also share this information with their customers and clients. &nbsp;This information may be used by Glu, these other companies and their customers and clients to analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests, and better understand your usage. Some of these third parties, including the third parties that share information they collect about you with their customers and clients, offer you a choice to opt out the collection of and/or sharing of this information; links to the opt-out mechanisms for the third parties that offer such a choice can be found below. This Privacy Policy does not apply to, and we are not responsible for, third-party cookies, web beacons, or other tracking technologies. &nbsp; &nbsp;</p>
 <p><strong>Security</strong></p>
-</td>
-<td valign="top" width="72%">
 <p>Glu takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="27%">
 <p><strong>Your Choices</strong></p>
-</td>
-<td valign="top" width="72%">
 <p><strong>Website Account Information</strong></p>
-<p>You may update, correct or delete your website account information, which includes your username, password, email address and avatar, by logging into your website account and managing your profile.&nbsp; If you wish to delete or deactivate your website account, please email us at privacy[at]glu.com, but note that we may retain certain information as required by law or for legitimate business purposes.&nbsp; We may also retain cached or archived copies of your website account information for a certain period of time.</p>
+<p>You may update, correct or delete your website account information, which includes your username, password, email address and avatar, by logging into your website account and managing your profile. &nbsp;If you wish to delete or deactivate your website account, please email us at privacy[at]glu.com, but note that we may retain certain information as required by law or for legitimate business purposes. &nbsp;We may also retain cached or archived copies of your website account information for a certain period of time.</p>
 <p><strong>Cookies</strong></p>
-<p>Most web browsers are set to accept cookies by default.&nbsp; If you prefer, you can usually choose to set your browser to remove or reject browser cookies.&nbsp; Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.</p>
+<p>Most web browsers are set to accept cookies by default. &nbsp;If you prefer, you can usually choose to set your browser to remove or reject browser cookies. &nbsp;Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.</p>
 <p><strong>Push Notifications</strong></p>
-<p>With your consent, we may send push notifications (or “alerts”) to your mobile device to provide game activity information, service updates, promotional communications and other related messages.&nbsp; You can deactivate push notifications by changing your notification settings via your device.&nbsp;</p>
+<p>With your consent, we may send push notifications (or “alerts”) to your mobile device to provide game activity information, service updates, promotional communications and other related messages. &nbsp;You can deactivate push notifications by changing your notification settings via your device. &nbsp;</p>
 <p><strong>Promotional Communications</strong></p>
 <p>You may opt out of receiving promotional messages from Glu by following the instructions in those messages or by contacting us at privacy[at]glu.com. If you opt out, we may still send you transactional or relationship messages, such as those about your account or our ongoing business relations.</p>
 <p><strong>Third Party Services</strong></p>
 <p>You may opt out of the collection of your information using the mechanisms described here for these third parties:</p>
-<p>Flurry:&nbsp; <a href="https://dev.flurry.com/secure/optOut.do">https://dev.flurry.com/secure/optOut.do</a></p>
-<p>Mobile App Tracking (MAT):&nbsp; <a href="https://optoutmobile.com/optOut" target="_blank">https://optoutmobile.com/optOut</a></p>
-<p>Skillz: &nbsp;You can adjust the collection of geolocation information by adjusting your device’s settings.&nbsp; Please see Skillz’s Terms of Service (<a href="http://skillz.com/corporate/terms-and-conditions">http://skillz.com/corporate/terms-and-conditions</a>) and Privacy Policy (<a href="http://skillz.com/corporate/privacy-policy">http://skillz.com/corporate/privacy-policy</a>) for more information and how to delete your Skillz account.</p>
-<p><strong>&nbsp;</strong><strong></strong></p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="27%">
+<p>Flurry: &nbsp;https://dev.flurry.com/secure/optOut.do&nbsp;</p>
+<p>Mobile App Tracking (MAT): &nbsp;https://optoutmobile.com/optOut</p>
+<p>Skillz: &nbsp;You can adjust the collection of geolocation information by adjusting your device’s settings. &nbsp;Please see Skillz’s Terms of Service (http://skillz.com/corporate/terms-and-conditions) and Privacy Policy (http://skillz.com/corporate/privacy-policy) for more information and how to delete your Skillz account.&nbsp;</p>
 <p><strong>Contact Us</strong></p>
-</td>
-<td valign="top" width="72%">
-<p>If you have any questions about this Privacy Policy, please contact us at:&nbsp; <a href="mailto:privacy@glu.com">Privacy Policy Administrator</a>. You may also contact our Privacy Policy Administrator by writing to:</p>
+<p>If you have any questions about this Privacy Policy, please contact us at: &nbsp;Privacy Policy Administrator. You may also contact our Privacy Policy Administrator by writing to:&nbsp;</p>
 <p>Privacy Policy Administrator</p>
 <p>Glu Mobile Inc.</p>
 <p>45 Fremont Street, Suite 2800</p>
-<p>San Francisco, CA 94105-2209.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>San Francisco, CA 94105-2209.</p>		
 		</div>
+<!--	
+		<div class="mobile where">
+		
+			<div class="where_image">
 			
-		<div class="clear"></div>
-	</div>
-  
-	<div id="footer" class="clear">
-		<ul menu_type="secondary_links"><li class="menu-1925 first">©2012 Glu Mobile Inc.</li>
-<li class="menu-1926">||</li>
-<li class="menu-1927"><a href="/" title="">Home</a></li>
-<li class="menu-1928"><a href="/game" title="">Games</a></li>
-<li class="menu-1944"><a href="/contact-info" title="Contact Info">Contact</a></li>
-<li class="menu-1943"><a href="/terms" title="Terms of Use">Terms</a></li>
-<li class="menu-1942 active-trail active"><a href="/privacy" title="Privacy Policy" class="active">Privacy</a></li>
-<li class="menu-1932">||</li>
-<li class="menu-1933">Company Information:</li>
-<li class="menu-1941"><a href="/about" title="About Us">About</a></li>
-<li class="menu-1935"><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=207033&amp;p=irol-news&amp;nyo=0" title="">Press</a></li>
-<li class="menu-1936"><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=207033&amp;p=irol-irhome" title="">Investors</a></li>
-<li class="menu-1940 last"><a href="/jobs" title="Jobs">Jobs</a></li>
-</ul>		<div class="socialfooter">
-	          <a href="http://www.youtube.com/user/glumobilegames" target="_blank"><img src="/sites/all/themes/glugames/img/icon_youtube16.png"></a>
-	          <a href="http://twitter.com/glumobile" target="_blank"><img src="/sites/all/themes/glugames/img/icon_twitter16.png"></a>
-	          <a href="http://www.facebook.com/glu.mobile" target="_blank"><img src="/sites/all/themes/glugames/img/icon_facebook16.png"></a>
-	          <span>Connect with Glu: </span>
-        </div>
-	</div>
-</div>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-10500461-4"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
-//--><!]]>
+				<img class="mobile_image" data-src-mobile="http://www.glu.com/images/glu_where_mobile.jpg" alt="Where we work" />
+			
+			</div>
+			
+			<h1>Where we work</h1>
+			
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dapibus facilisis enim id dignissim. Sed vel quam tellus, vitae blandit tortor. Maecenas porttitor adipiscing euismod. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed lacus nibh, aliquet molestie mattis pretium, fringilla id ipsum.</p> 
+			<p>Ut elementum, tellus a ultricies pulvinar, magna massa semper quam, in condimentum nunc elit at arcu. Nam interdum odio sed nisi adipiscing quis dictum lacus euismod.</p>
+		
+		</div>
+		
+-->
+	
+	</div>			<!-- Closing div for .content -->
+			</div>
+		<!-- Closing div for .content_wrapper -->
+		</div>
+
+		<div class="footer_wrapper clear">
+
+			<div class="footer">
+
+				<ul class="nav full">
+
+					<li><a href="http://www.glu.com/">Home</a></li>
+					<li>|</li>
+					<li><a href="http://www.glu.com/games/genre/all">Games</a></li>
+					<li>|</li>
+					<li><a href="http://www.glu.com/news/category/all">News</a></li>
+					<li>|</li>
+					<li><a href="http://www.glu.com/community">Community</a></li>
+					<li>|</li>
+					<li><a href="http://www.glu.com/support">Support</a></li>
+					<li>|</li>
+					<li><a href="http://www.glu.com/careers">Careers</a></li>
+					<li>|</li>
+					<!-- <li><a href="http://www.glu.com/glu_global">Glu Global</a></li>
+					<li>|</li> -->
+					<li><a href="http://www.glu.com/contact">Contact</a></li>
+					<li>|</li>
+					<li><a href="http://www.glu.com/about">About</a></li>
+					<li>|</li>
+					<li><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=207033&amp;p=irol-news&amp;nyo=0" target="_blank">Press</a></li>
+					<li>|</li>
+					<li><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=207033&amp;p=irol-irhome" target="_blank">Investors</a></li>
+					<li>|</li>
+					<li><a href="http://www.glu.com/privacy">Privacy</a></li>
+					<li>|</li>
+					<li><a href="http://www.glu.com/terms">Terms</a></li>
+
+				</ul>
+
+				<ul class="nav mobile">
+					
+					<li><a href="http://www.glu.com/careers">Careers</a></li>
+					<li>|</li>
+					<li><a href="http://www.glu.com/about">About</a></li>
+					<li>|</li>
+					<li><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=207033&amp;p=irol-irhome" target="_blank">Investors</a></li>
+					<li>|</li>
+					<li><a href="http://www.glu.com/privacy">Privacy</a></li>
+					<li>|</li>
+					<li><a href="http://www.glu.com/terms">Terms</a></li>
+
+				</ul>
+
+				<div class="copyright">
+					<p>©2013 Glu Mobile Inc All Rights Reserved</p>
+				</div>
+
+			</div>
+
+		</div>
+		
+		<script type="text/javascript">
+		
+			function toggleMobileMenu()
+			{
+				$("#news_categories_menu").toggle();
+			}
+			
+
+			function loadMobileImages()
+			{
+				$(".mobile_image").each(function()
+				{
+					var img_src = $(this).attr("data-src-mobile");
+
+					$(this).attr("src", img_src);
+				});
+			}
+
+
+			function loadMediumMobileImages()
+			{
+				$(".mobile_image").each(function()
+				{
+					var img_src = $(this).attr("data-src");
+
+					$(this).attr("src", img_src);
+				});
+			}
+
+
+			function loadLargeMobileImages()
+			{
+				$(".mobile_image").each(function()
+				{
+					var img_src = $(this).attr("data-src-large");
+
+					$(this).attr("src", img_src);
+				});
+			}
+
+
+			function loadFullImages()
+			{
+				$(".full_image").each(function()
+				{
+					var img_src = $(this).data("src");
+
+					$(this).attr("src", img_src);
+				});
+			}
+
+		
+			$(document).ready(function()
+			{
+				if(is_touch_device)
+				{
+					//display mobile images
+					if(window.matchMedia("(min-width: 20em)").matches && window.matchMedia("(max-width: 30em)").matches)
+					{
+						loadMobileImages();
+					}
+
+					//display medium images
+					if(window.matchMedia("(min-width: 30em)").matches && window.matchMedia("(max-width: 48em)").matches)
+					{
+						loadMediumMobileImages();
+					}
+
+					//display large mobile images
+					if(window.matchMedia("(min-width: 48em)").matches)
+					{
+						loadLargeMobileImages();
+					}
+				}
+				else
+				{
+					loadFullImages();
+				}
+			});	
+
+		</script>
+
+		<!-- Google Analytics Code -->
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44034331-1', 'glu.com');
+  ga('send', 'pageview');
+
 </script>
 
-
-
+	
 </body></html>
