@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleverhousewife.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624234107id_/http%3A//cleverhousewife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleverhousewife.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229090459id_/http%3A//cleverhousewife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Clever Housewife
 
@@ -72,4 +72,4 @@ United States
 emily@cleverhousewife.com  
 5306328752
 
-This policy is powered by Free Privacy Policy and Rhino Support [help desk software](http://www.rhinosupport.com/).
+This policy is powered by Free Privacy Policy and Rhino Support [help desk software](http://www.rhinosupport.com/). 
