@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blastro.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521004353id_/http%3A//www.blastro.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blastro.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229050130id_/http%3A//www.blastro.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy on Blastro
 
