@@ -1,7 +1,38 @@
-<!--The following is the downloaded HTML source of the ruelala.com privacy policy that was archived on 2013-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602163904id_/http%3A//www.ruelala.com/common/privacyModal) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ruelala.com privacy policy that was archived on 2013-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131229033941id_/http%3A//www.ruelala.com/common/privacyModal) for the most accurate reproduction.-->
 
-<html><head></head><body><h2 id="h_privacy">Privacy Policy</h2>
+<html><head><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//cdn.optimizely.com/js/11458354.js"></script> <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44727658-2', 'ruelala.com');
+  ga('create', 'UA-44727658-4', {'name': 'ruemaster'});
+
+ /* OPTIMIZELY UNIVERSAL ANALYTICS INTEGRATION */
+ (function(a){if (a) {
+ var optlyIntegrationVal = '';
+ var optly_ga_slot = 0;
+ var allExp = a.allExperiments || [];
+ for (key in allExp) {
+   if (allExp.hasOwnProperty(key) && allExp[key].hasOwnProperty("enabled") && allExp[key].hasOwnProperty("google_analytics")){
+       optly_ga_slot = allExp[key].google_analytics.slot;
+       optlyIntegrationVal = "Optimizely ("+key+"): " + a.allExperiments[key].name + " - " + a.variationNamesMap[key];
+       ga('set', 'dimension'+optly_ga_slot, optlyIntegrationVal); 
+   }
+ }
+ }})(window.optimizely);
+ /* END OPTIMIZELY INTEGRATION */
+
+  ga('send', 'pageview');
+  ga('ruemaster.send', 'pageview');
+
+</script> 
+  
+
+
+</head><body><h2 id="h_privacy">Privacy Policy</h2>
 <div id="privacyModalContent">
     
 
@@ -107,7 +138,5 @@ Boston, MA 02210<br>
 </div>
 
     <a class="button floatRight" href="#" onclick="Modalbox.hide()" title="Close">Close</a>
-<!-- analytics --><script type="text/javascript">
-manual_cm_mmc='Direct%20to%20Site-_-RueLaLa%20Top%20Level-_-RueLaLa%20Primary_-_-NA';
-cmCreatePageviewTag('Access : PrivacyModal', 'Access');
+<!-- analytics --><script type="text/javascript">cmCreatePageviewTag('Access : PrivacyModal', 'Access');
  </script> </body></html>
