@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the virginiadot.org privacy policy that was archived on 2013-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629174325id_/http%3A//virginiadot.org/info/legal.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the virginiadot.org privacy policy that was archived on 2013-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131229024531id_/http%3A//virginiadot.org/info/legal.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en"><!--<![endif]--><head>
 
@@ -13,6 +13,9 @@
 		<title>
     Legal
     </title>
+    
+    
+    
         <meta name="description" content=" Official website of the Virginia Department of Transportation ">
 		<meta name="viewport" content="width=device-width">
         <meta name="revisit-after" content="31 days">
@@ -43,14 +46,6 @@
         
         
               
-        
-        
-        
-         
-        
-        
-        
- 
                 
         
                     <link rel="alternate" type="application/rss+xml" title="Legal" href="/info/legal.xml">
@@ -60,10 +55,6 @@
 
   
   
-
-
-
-
   
 
   
@@ -124,9 +115,6 @@
               } 
           }
       }
-
-
-
 //-->
 
 </script>
@@ -179,7 +167,9 @@
 							<li><a href="/info/contactus.asp">Contact Us</a></li>
 							<li><a href="/sitemap/default.asp">Site Map</a></li>
 							<li><a href="/info/Spanishpage.asp">Español</a></li>
+                            <li><a href="/travel/511.asp#app">VDOT’s 511 Mobile App</a></li>
 							<li class="social">
+                            <a href="/travel/511.asp#app"><img src="/images/icon-511.png" alt="511 Mobile App"></a>
 								<a href="/newsroom/vdot_twitter_feeds.asp"><img src="/images/icon-twitter.png" alt="Twitter"></a>
 								<a href="http://www.facebook.com/VirginiaDOT" target="_blank"><img src="/images/icon-facebook.png" alt="Facebook"></a>
 								<a href="http://www.flickr.com/photos/vadot" target="_blank"><img src="/images/icon-flickr.png" alt="Flickr"></a>
@@ -303,14 +293,14 @@
                         <!--End popular links--><div class="aside-section">
 <h2>Popular Links</h2>
 <ul>
-<li><a href="/projects/richmond/i-95_bridges.asp">I-95 Richmond Bridge Restorations</a></li>
-<li><a href="/business/default.asp">Business Center</a></li>
-<li><a href="/jobs/AllJobs.asp">Current Opportunities</a></li>
 <li><a href="/travel/hov-novasched.asp">High Occupancy Vehicle (HOV) Systems</a></li>
 <li><a href="/travel/hov-rulesfaq.asp">High Occupancy Vehicle (HOV) Lanes - Rules and FAQs</a></li>
-<li><a href="/business/manuals-default.asp">Manuals and Guides</a></li>
-<li><a href="/jobs/default.asp">Consider a Career at VDOT</a></li>
 <li><a href="/travel/default.asp">On the Go in Virginia</a></li>
+<li><a href="/jobs/AllJobs.asp">Current Opportunities</a></li>
+<li><a href="/business/default.asp">Business Center</a></li>
+<li><a href="/travel/ferry-jamestown.asp">Jamestown-Scotland Ferry</a></li>
+<li><a href="/jobs/default.asp">Consider a Career at VDOT</a></li>
+<li><a href="/travel/map-rest-area.asp">Safety Rest Areas and Welcome Centers</a></li>
 </ul>
 </div>
 <!--End popular links-->
@@ -528,7 +518,10 @@ If you wish to receive this content in an accessible format per Section 508 of t
 		<script src="/js/slides.min.jquery.js"></script>
 		<script src="/js/plugins.js"></script>
         <script src="/js/jflickrfeed.min.js"></script>
-        <script src="/js/twitter.js"></script>
+		
+		
+		<script src="/js/twitter-1.1.js"></script>
+		
         
 		
 		
@@ -541,16 +534,38 @@ If you wish to receive this content in an accessible format per Section 508 of t
 		        $('.list-al, .list-cwu, .list-tab, .list-nav-tc').easyListSplitter({ colNumber: 2 });
 		        //Flickr Feed
 		        $('#flickr').jflickrfeed({
+                    feedapi: 'photoset.gne',
 		            limit: 4,
 		            qstrings: {
-		                id: '40713272@N05'
+		                /*id: '40713272@N05' - 7-2-2013 - used by itself without specifying feedapi if grabbing from the main photostream rather than a specific set*/
+                        set: '72157634426784382',
+                        nsid: '40713272@N05'
 		            },
 		            useTemplate: false,
 		            itemCallback: function (item) {
-		                $(this).append("<li><span><img src='" + item.image_m + "' alt='' style='margin: 0 0 8px 0'/></span></li>");
+                        var srcTokens = item.image_m.split("/");
+                        var src = srcTokens[srcTokens.length - 1];
+                        srcTokens = src.split("_");
+                        src = "http://www.flickr.com/photos/vadot/with/" + srcTokens[0];
+
+		                $(this).append("<li><span><a href='" + src + "' target='_blank'><img src='" + item.image_m + "' alt='' style='margin: 0 0 8px 0'/></a></span></li>");
 		                $('.photos img:nth-child(2n+1)').css('margin', '0 0 8px 0');
 		            }
 		        });
+
+                /*$(window).load(function(){*/
+                    /* This puts the link for each photo as the URL of the gallery that the photo originally came from */
+                    /*$("div.photos ul#flickr li a").each(function(){
+                        var srcTokens = $(this).find("img").attr("src").split("/");
+                        var src = srcTokens[srcTokens.length - 1];
+                        srcTokens = src.split("_");
+                        src = "http://www.flickr.com/photos/vadot/with/" + srcTokens[0];
+                        $(this).attr("href", src);
+                        $(this).attr("target", "_blank");
+                    });
+                }); */
+
+                
 
 		        jQuery.support.cors = true;
 		        if ($.browser.msie && window.XDomainRequest) {
@@ -566,7 +581,7 @@ If you wish to receive this content in an accessible format per Section 508 of t
 		        } else {
 		            $.ajax({
 		                type: "get",
-		                url: "https://gdata.youtube.com/feeds/api/users/vdotweb/uploads?v=2&alt=jsonc&orderby=published",
+		                url: "http://gdata.youtube.com/feeds/api/users/vdotweb/uploads?v=2&alt=jsonc&orderby=published",
 		                cache: false,
 		                dataType: 'json',
 		                success: function (data) {
@@ -1278,6 +1293,21 @@ function dcsAdv() {
  
 </script>
 <!-- END ANALYTICS -->
+
+
+
+<script type="text/javascript">
+function trackOutboundLink(link, category, action) { 
+ 
+try { 
+_gaq.push(['_trackEvent', category , action]); 
+} catch(err){}
+ 
+setTimeout(function() {
+document.location.href = link.href;
+}, 100);
+}
+</script>
 
 		<!-- ==================== End Scripts ==================== -->
 </body></html>
