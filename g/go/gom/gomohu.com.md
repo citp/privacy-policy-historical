@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomohu.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624141717id_/http%3A//www.gomohu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomohu.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229050942id_/http%3A//gomohu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mohu
 
@@ -9,6 +9,11 @@ Gomohu.com may contain links to other sites, including content from other sites 
 **Online Orders**
 
 If you place an online order, our secure order form requests contact, billing, and financial information (such as your credit card numbers for purchases). Contact information from the order form is used to send orders and information about our company to you. Your contact information is also used to get in touch with you should we have questions regarding your order or should we need to notify you of the status of your order. The financial information we collect is used ONLY to bill you for products you purchase.  
+  
+  
+**Coupons**
+
+All coupons are limit one per customer and cannot be combined with any other offers.  
   
 **Surveys / Mailing List**
 
