@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obscureinternet.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603114714id_/http%3A//obsoletegamer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obscureinternet.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229100201id_/http%3A//obsoletegamer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Obsolete Gamer
 
@@ -55,7 +55,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 www.obsoletegamer.com  
-jalaraque@obsoletegamer.com  
-  
----  
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fobsoletegamer.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
+jalaraque@obsoletegamer.com
