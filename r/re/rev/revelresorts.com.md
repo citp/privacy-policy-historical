@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revelresorts.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509074110id_/http%3A//revelresorts.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revelresorts.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229222430id_/http%3A//www.revelresorts.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Revel
 
