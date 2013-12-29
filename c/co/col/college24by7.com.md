@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the college24by7.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601235414id_/http%3A//www.college24by7.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the college24by7.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229201222id_/http%3A//test2.college24by7.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # online college management|admission, attendance, academics management, online classes, results & notifications
 
