@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachingchannel.org privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426115053id_/https%3A//www.teachingchannel.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachingchannel.org privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229064656id_/https%3A//www.teachingchannel.org/privacy) for the most accurate reproduction.*
 
 # Teaching Channel Respects the Privacy of Teachers, Administrators and All Visitors
 
@@ -121,6 +121,6 @@ You may, of course, decline to share certain personally identifiable information
 If you have questions about this Privacy Policy, or our Sites or Services, please contact:
 
 **Teaching Channel**  
-930 Montgomery Street  
-San Francisco, CA 94133  
+2201 Broadway, Suite 400  
+Oakland, CA 94612  
 [privacy@teachingchannel.org](mailto:privacy@teachingchannel.org)
