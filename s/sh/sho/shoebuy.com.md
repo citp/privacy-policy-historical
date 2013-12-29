@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the shoebuy.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423204013id_/http%3A//www.shoebuy.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoebuy.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229103910id_/http%3A//www.shoebuy.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Shoebuy.com - Free Shipping & Return Shipping
 
-| 
+Shoebuy.com, Inc. is part of the IAC family of businesses, which has grown in recent years to include over 60 brands including, in addition to Shoebuy, Ask.com, Match.com, Citysearch, Vimeo, ServiceMagic, Gifts.com, Pronto and many others. For a list of all of IAC's businesses, please visit [www.iac.com](http://www.iac.com/). In order to help customers clearly understand our data collection and use practices, IAC has decided to have its businesses follow a standard set of privacy practices and use a standard format to describe their privacy practices. The following Consumer Privacy statement applies to all IAC businesses. In addition, Shoebuy has revised its [Privacy Policy](https://web.archive.org/info/privacy-more), effective August 22, 2008, consistent with the IAC privacy commitment and standard privacy policy format. Refer to our [FAQs](https://web.archive.org/info/privacy-faq) for details about the changes. Please review both the Consumer Privacy statement and this site's complete Privacy Policy. 
 
-Shoebuy.com, Inc. is part of the IAC family of businesses, which has grown in recent years to include over 60 brands including, in addition to Shoebuy, Ask.com, Match.com, Citysearch, Vimeo, ServiceMagic, Gifts.com, Pronto and many others. For a list of all of IAC's businesses, please visit [www.iac.com](https://web.archive.org/i-a-c/). In order to help customers clearly understand our data collection and use practices, IAC has decided to have its businesses follow a standard set of privacy practices and use a standard format to describe their privacy practices. The following Consumer Privacy statement applies to all IAC businesses. In addition, Shoebuy has revised its [Privacy Policy](https://web.archive.org/info/privacy-more), effective August 22, 2008, consistent with the IAC privacy commitment and standard privacy policy format. Refer to our [FAQs](https://web.archive.org/info/privacy-faq) for details about the changes. Please review both the Consumer Privacy statement and this site's complete Privacy Policy. 
+## Consumer Privacy at Shoebuy.com, Inc., an IAC Company
 
-### Consumer Privacy at Shoebuy.com, Inc., an IAC Company
-
-Shoebuy is part of the IAC family of businesses. IAC is an interactive conglomerate with more than 60 brands, including Ask.com, Citysearch, Vimeo, Gifts.com, Match.com, ServiceMagic, and many others. For a list of all of IAC's businesses, please visit [www.iac.com](https://web.archive.org/i-a-c/).
+Shoebuy is part of the IAC family of businesses. IAC is an interactive conglomerate with more than 60 brands, including Ask.com, Citysearch, Vimeo, Gifts.com, Match.com, ServiceMagic, and many others. For a list of all of IAC's businesses, please visit [www.iac.com](http://www.iac.com/).
 
 At IAC, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of Shoebuy, please click [here](https://web.archive.org/info/privacy-more).
 
-### Information we may collect [[Read more]](https://web.archive.org/info/privacy-more#iwc)
+## Information we may collect [[Read more]](https://web.archive.org/info/privacy-more#iwc)
 
 We may collect information that can identify you ("personal information"), such as your name and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources.
 
@@ -26,19 +24,19 @@ We also may collect other types of information in the following ways when you vi
 
 We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children's Online Privacy Protection Act.
 
-### Information others may collect [ [Read more]](https://web.archive.org/info/privacy-more#ioc)
+## Information others may collect [ [Read more]](https://web.archive.org/info/privacy-more#ioc)
 
 We may allow third-party advertising companies or ad networks to display advertisements on our websites.
 
   * We do not provide any personal information to these companies 
   * These companies may use tracking tools, such as [cookies](https://web.archive.org/info/privacy-info#cookies), to collect information about computers used to view or interact with their advertisements. 
-  * Some of these companies may be members of the [Network Advertising Initiative](https://web.archive.org/networkadvertising/), which offers consumers the ability to opt out of ad targeting by all member companies. 
+  * Some of these companies may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/), which offers consumers the ability to opt out of ad targeting by all member companies. 
 
 
 
 If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information.
 
-### How we may use information we collect [[Read more]](https://web.archive.org/info/privacy-more#hwu)
+## How we may use information we collect [[Read more]](https://web.archive.org/info/privacy-more#hwu)
 
 We may use information to:
 
@@ -53,7 +51,7 @@ We may use information to:
 
 
 
-### With whom we may share information we collect [[Read more]](https://web.archive.org/info/privacy-more#ww)
+## With whom we may share information we collect [[Read more]](https://web.archive.org/info/privacy-more#ww)
 
 We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with:
 
@@ -66,7 +64,7 @@ We will not share your personal information with others except as indicated belo
 
 We may share aggregated, non-personal information in any of the above situations and also with advertisers and others. 
 
-### Your choices [ [Read more]](https://web.archive.org/info/privacy-more#yc)
+## Your choices [ [Read more]](https://web.archive.org/info/privacy-more#yc)
 
 You may choose:
 
@@ -78,15 +76,15 @@ You may choose:
 
 
 
-### Security [[Read more]](https://web.archive.org/info/privacy-more#sec)
+## Security [[Read more]](https://web.archive.org/info/privacy-more#sec)
 
 We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure. 
 
-### Changes to our Privacy Policy
+## Changes to our Privacy Policy
 
 We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to the email address you most recently provided to us and/or by prominently posting notice of the changes on our website.
 
-### How to contact us
+## How to contact us
 
 If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/info/privacy-more), or our information practices, please contact us by email or postal mail below:
 
@@ -97,6 +95,4 @@ Boston, MA 02110
 
 [privacy@shoebuy.com](mailto:privacy@shoebuy.com)
 
-Back to Top | [Back to Homepage](https://web.archive.org/)  
-  
----|---
+Back to Top | [Back to Homepage](https://web.archive.org/)
