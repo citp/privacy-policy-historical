@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shreveporttimes.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630032429id_/http%3A//www.shreveporttimes.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shreveporttimes.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229080954id_/http%3A//www.shreveporttimes.com/section/privacy) for the most accurate reproduction.*
 
 # privacy | Shreveporttimes | shreveporttimes.com
 
@@ -122,7 +122,7 @@ Become a subscriber today to enjoy these benefits:
 
 
 
-[View subscription options](https://web.archive.org/section/subscription-options?gps-source=CPPWOPT)
+[View subscription options](https://web.archive.org/section/subscription-options&gps-source=CPPWOPT)
 
 ## You now have full access.
 
