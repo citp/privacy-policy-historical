@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videoaround.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630060225id_/http%3A//www.videoaround.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoaround.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229092942id_/http%3A//www.videoaround.com/privacy) for the most accurate reproduction.*
 
 # Aviation Videos Around - Hundred of Aviation Video Clips
 
@@ -22,6 +22,13 @@ Please note that any video, image, or other content posted at the direction of U
 
 
 
+**Google Analytics and Display Advertising**
+
+  * Google Analytics Demographics and Interest Reporting.
+  * Users can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads).
+
+
+
 ## How we use uses Information
 
   * If you submit personally identifiable information to us through VideoAround, then we use your personal information to operate, maintain, and provide to you the features and functionality of the website. 
@@ -29,7 +36,3 @@ Please note that any video, image, or other content posted at the direction of U
   * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major website changes or for customer service purposes). 
 
 
-
-## Our Commitment To Childrens' Privacy
-
-Protecting the privacy of young children is especially important. For that reason, does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the VideoAround Sites from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the VideoAround Sites at any time or in any manner. If VideoAround learns that personally identifiable information of persons under 13 years of age has been collected on the VideoAround Sites without verified parental consent, then VideoAround will take the appropriate steps to delete this information. 
