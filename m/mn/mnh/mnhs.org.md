@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mnhs.org privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629213828id_/http%3A//www.mnhs.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mnhs.org privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229051713id_/http%3A//www.mnhs.org/privacy.html) for the most accurate reproduction.*
 
 # MHS Privacy Policy
 
