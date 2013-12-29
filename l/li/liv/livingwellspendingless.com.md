@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livingwellspendingless.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509051734id_/http%3A//www.livingwellspendingless.com/fine-print/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingwellspendingless.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230001103id_/http%3A//www.livingwellspendingless.com/fine-print/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy
+# privacy policy – Living Well Spending Less™
 
 At [livingwellspendingless.com](http://livingwellspendingless.com/), I recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit [livingwellspendingless.com](http://livingwellspendingless.com/), and how I safeguard your information.  I never sell your personal information to third parties.
 
