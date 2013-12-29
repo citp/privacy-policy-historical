@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the sertifi.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601110630id_/http%3A//sertifi.com/corp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sertifi.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229070015id_/http%3A//www.sertifi.com/corp/privacy-policy) for the most accurate reproduction.*
 
 # Sertifi Privacy Policy | Sertifi: Electronic Signatures & eSignatures
 
-**Privacy Policy**
-
 Sertifi.com Incorporated ("Sertifi") respects your privacy and has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. This policy governs web sites owned and operated by Sertifi, including [www.sertifi.com](http://www.sertifi.com/) We have established this Statement as a means to communicate our information gathering and dissemination practices to our customers and visitors. This online privacy policy describes how we use, disclose and protect personal information that you share with us. "Personal information" is information that enables us to identify you, such as your name and e-mail address. By using this Site, you agree to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the Site.
 
-If you have questions or concerns regarding this statement, you should first contact Sertifi Support at [support_ticket@sertifi.com](mailto:support_ticket@sertifi.com).
+If you have questions or concerns regarding this statement, you should first contact Sertifi Support at [support@sertifi.com](mailto:support@sertifi.com).
 
 **Information Collection and Use**
 
@@ -99,8 +97,9 @@ Sertifi will investigate and attempt to resolve complaints and disputes regardin
 Please address any questions or concerns regarding our Safe Harbor Privacy Notice or our practices regarding Personal Information to:
 
 **Sertifi Support Group**  
-[Support_ticket@sertifi.com](mailto:Support_ticket@sertifi.com)  
+[support@sertifi.com](mailto:support@sertifi.com)  
 1.866.983.8877
 
 Sertifi Inc.  
-325 W Huron Suite 207 Chicago, IL 60654
+325 W. Huron St. Suite 207  
+Chicago, IL 60654
