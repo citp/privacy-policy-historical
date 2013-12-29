@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturesoundsfor.me privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630130402id_/http%3A//naturesoundsfor.me/load/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturesoundsfor.me privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229023219id_/http%3A//naturesoundsfor.me/load/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,3 +17,13 @@ We do use cookies to store information, such as your personal preferences when y
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+
+## Analytics
+
+In order to better understand the audience of our website, we use Google Analytics service. It enables us to monitor and analyze web traffic and can be used to keep track of user behavior.
+
+Google Analytics is a web analysis service provided by Google Inc. ("Google"). Google utilizes the Data collected to track and examine website use, to prepare reports on an website's activities and share them with other Google services.
+
+In order to function Google Analytics collects website browsing and usage data and cookies.
+
+We have also enabled Google Analytics for Display Avertising functionality which we use for Google Analytics Demographics and Interest Reporting. You can opt-out of Google Analytics for Display Avertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads).
