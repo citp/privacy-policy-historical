@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ufcgym.com privacy policy that was archived on 2013-03-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130301133806id_/http%3A//www.ufcgym.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ufcgym.com privacy policy that was archived on 2013-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131229090256id_/http%3A//www.ufcgym.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <meta charset="utf-8">
@@ -29,16 +29,16 @@
   
   <link rel="stylesheet" href="/library/css/style.css" media="screen">	
   <link rel="stylesheet" href="/library/css/fonts.css">
-  <link rel="stylesheet" href="/library/css/navigation.css?x=2" media="screen">
-  <link rel="stylesheet" href="/library/css/main.css?x=2" media="screen">
+  <link rel="stylesheet" href="/library/css/navigation.css" media="screen">
+  <link rel="stylesheet" href="/library/css/main.css?x=5" media="screen">
   
   <link rel="stylesheet" href="/library/css/print.css" media="print">
   
-  <link rel="stylesheet" href="/library/css/iws.dropdown.css?x=2" media="screen">
+  <link rel="stylesheet" href="/library/css/iws.dropdown.css?v=1" media="screen">
   <link rel="stylesheet" href="/library/css/iws.slideshow.css" media="screen">
   
   
-  <link rel="stylesheet" href="/library/css/jquery-ui-1.8.16.custom.css?x=1" media="screen">    
+  <link rel="stylesheet" href="/library/css/jquery-ui-1.8.16.custom.css" media="screen">    
   <link rel="stylesheet" href="/library/css/validationEngine.jquery.css" type="text/css">
 
   
@@ -55,18 +55,25 @@
  
   
   <script type="text/javascript" src="/library/js/jquery.hoverIntent.minified.js"></script>
-  <script type="text/javascript" src="/library/js/iws.dropdown.js?x=4"></script>
-  <script type="text/javascript" src="/library/js/iws.slideshow.js"></script>
+  <script type="text/javascript" src="/library/js/iws.dropdown.js?x=1"></script>
+  <script type="text/javascript" src="/library/js/iws.slideshow.js?v=1"></script>
   <script type="text/javascript" src="/library/js/iws.truncate.js"></script>
+  
   <script type="text/javascript" src="/library/js/plugins/jquery.masonry.min.js"></script>
   <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
-
+  <script type="text/javascript" src="/library/js/underscore.js"></script>
+  <script type="text/javascript" src="/library/js/backbone.js"></script>
+  <script type="text/javascript" src="/library/js/iws.fit.js"></script>
+  <script type="text/javascript" src="/library/js/placeholder.js"></script>
+  
+	<script type="text/javascript" src="/library/js/locations.js?x=4"></script>
+    
   
   <script type="text/javascript" src="/library/js/iws.ajax_data_load.js"></script>
  
   
   <script src="/library/js/jquery.validationEngine-en.js" type="text/javascript" charset="utf-8"></script>
-  <script type="text/javascript" src="/library/js/jquery.validationEngine.js?x=4"></script>
+  <script type="text/javascript" src="/library/js/jquery.validationEngine.js"></script>
   
   
   
@@ -76,7 +83,7 @@
   <script type="text/javascript" src="/library/js/iws.deeplinking.js"></script>
 
   
-  <script defer="" src="/library/js/global-ui.js?x=5"></script>
+  <script defer="" src="/library/js/global-ui.js?x=6"></script>
   
   
   
@@ -140,7 +147,25 @@ function getPromoCode(){
   <script type="text/javascript" src="/library/js/plugins/jqplot.cursor.min.js"></script>
   <script type="text/javascript" src="/library/js/plugins/jqplot.dateAxisRenderer.min.js"></script>
   
+  <script type="text/javascript" src="https://connect.facebook.net/en_US/all.js"></script>
   
+  <script>
+	FB.init({
+	appId : '373655786082510',
+	status : true,
+	cookie : true,
+	xfbml : true
+	});
+</script>
+	
+	<script type="text/javascript">
+		
+		$(function() {
+			if($("body").hasClass(".fbtab"))
+				FB.Canvas.setAutoResize();
+		});
+		
+	</script>
 
 </head>
 
@@ -166,25 +191,1827 @@ function getPromoCode(){
 <div id="top_background"></div>
   <div id="container">
   	
+
 <header>
     <div id="header">
         <a href="/" id="header_home_link"><h1><span>UFC GYMS</span></h1></a>
-         
-             <div id="account_login_button">Account Login</div>
+        
+        <div id="LocationSwitchContainer">
+        	<div style="float:left;"></div>
+            
+            <div id="change_location_button">Change Location</div>
+            
+            <div id="change_location">
+                <h2>Change Location</h2>
+                
+                <a id="change_location_button_close"></a>
+                
+                <form method="post" id="LocationSwitchForm" style="display:block;">
+					<label>Select A Region</label>
+					<div id="RegionSelect" class="iws-dropdown short">
+                        <select id="change_location_region_select" name="change_location_gym_select2" type="select-one" class="validate[required]">
+                            <option>Select a Location</option>
+                            
+                            
+                                    <option value="Australia">Australia</option>
+                                
+                                    <option value="Arizona">Arizona</option>
+                                
+                                    <option value="Arkansas">Arkansas</option>
+                                
+                                    <option value="California">California</option>
+                                
+                                    <option value="Colorado">Colorado</option>
+                                
+                                    <option value="Connecticut">Connecticut</option>
+                                
+                                    <option value="District of Columbia">District of Columbia</option>
+                                
+                                    <option value="Florida">Florida</option>
+                                
+                                    <option value="Georgia">Georgia</option>
+                                
+                                    <option value="Hawaii">Hawaii</option>
+                                
+                                    <option value="Illinois">Illinois</option>
+                                
+                                    <option value="Indiana">Indiana</option>
+                                
+                                    <option value="Louisiana">Louisiana</option>
+                                
+                                    <option value="Maryland">Maryland</option>
+                                
+                                    <option value="Missouri">Missouri</option>
+                                
+                                    <option value="Nevada">Nevada</option>
+                                
+                                    <option value="New Jersey">New Jersey</option>
+                                
+                                    <option value="New Mexico">New Mexico</option>
+                                
+                                    <option value="New York">New York</option>
+                                
+                                    <option value="North Carolina">North Carolina</option>
+                                
+                                    <option value="Oregon">Oregon</option>
+                                
+                                    <option value="Pennsylvania">Pennsylvania</option>
+                                
+                                    <option value="Tennessee">Tennessee</option>
+                                
+                                    <option value="Texas">Texas</option>
+                                
+                                    <option value="Utah">Utah</option>
+                                
+                                    <option value="Virginia">Virginia</option>
+                                
+                                    <option value="Washington">Washington</option>
+                                
+                        </select>
+                        <div class="clear"></div>
+                        
+                    </div>
+                    
+                    
+                        
+                            <div class="change-region-dropdown" data-region="Australia">
+            				<label>Select A Gym</label>
+      <div class="clear"></div>
+                                <div class="iws-dropdown short">
+                                    <select name="change_location_location" class="validate[required]">
+                                        <option value="blank"></option>
+                                    
+                                        
+                                            <option value="67">Sydney</option>
+                                        
+                                    
+                                    </select>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        
+                        
+                        
+                            <div class="change-region-dropdown" data-region="Arizona">
+            				<label>Select A Gym</label>
+      <div class="clear"></div>
+                                <div class="iws-dropdown short">
+                                    <select name="change_location_location" class="validate[required]">
+                                        <option value="blank"></option>
+                                    
+                                        
+                                            <option value="194">Ahwatukee</option>
+                                        
+                                    
+                                        
+                                            <option value="192">Glendale</option>
+                                        
+                                    
+                                        
+                                            <option value="193">Mesa</option>
+                                        
+                                    
+                                        
+                                            <option value="294">Scottsdale</option>
+                                        
+                                    
+                                    </select>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        
+                        
+                        
+                            <div class="change-region-dropdown" data-region="Arkansas">
+            				<label>Select A Gym</label>
+      <div class="clear"></div>
+                                <div class="iws-dropdown short">
+                                    <select name="change_location_location" class="validate[required]">
+                                        <option value="blank"></option>
+                                    
+                                        
+                                            <option value="302">Fayetteville</option>
+                                        
+                                    
+                                    </select>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        
+                        
+                        
+                            <div class="change-region-dropdown" data-region="California">
+            				<label>Select A Gym</label>
+      <div class="clear"></div>
+                                <div class="iws-dropdown short">
+                                    <select name="change_location_location" class="validate[required]">
+                                        <option value="blank"></option>
+                                    
+                                        
+                                            <option value="195">Aliso Viejo</option>
+                                        
+                                    
+                                        
+                                            <option value="197">Carlsbad</option>
+                                        
+                                    
+                                        
+                                            <option value="12">Concord</option>
+                                        
+                                    
+                                        
+                                            <option value="11">Corona</option>
+                                        
+                                    
+                                        
+                                            <option value="198">Costa Mesa</option>
+                                        
+                                    
+                                        
+                                            <option value="199">Cypress</option>
+                                        
+                                    
+                                        
+                                            <option value="200">Fresno</option>
+                                        
+                                    
+                                        
+                                            <option value="201">Fullerton</option>
+                                        
+                                    
+                                        
+                                            <option value="202">Huntington Beach</option>
+                                        
+                                    
+                                        
+                                            <option value="203">Lake Forest</option>
+                                        
+                                    
+                                        
+                                            <option value="290">Lakewood</option>
+                                        
+                                    
+                                        
+                                            <option value="204">Long Beach</option>
+                                        
+                                    
+                                        
+                                            <option value="279">Murrieta</option>
+                                        
+                                    
+                                        
+                                            <option value="205">Orange</option>
+                                        
+                                    
+                                        
+                                            <option value="206">Rancho Santa Margarita</option>
+                                        
+                                    
+                                        
+                                            <option value="15">Rosemead</option>
+                                        
+                                    
+                                        
+                                            <option value="207">Sacramento</option>
+                                        
+                                    
+                                        
+                                            <option value="208">San Bruno</option>
+                                        
+                                    
+                                        
+                                            <option value="209">San Jose</option>
+                                        
+                                    
+                                        
+                                            <option value="210">San Marcos</option>
+                                        
+                                    
+                                        
+                                            <option value="306">South Corona</option>
+                                        
+                                    
+                                        
+                                            <option value="211">Torrance</option>
+                                        
+                                    
+                                        
+                                            <option value="14">Torrance</option>
+                                        
+                                    
+                                        
+                                            <option value="212">Walnut Creek</option>
+                                        
+                                    
+                                        
+                                            <option value="213">Yorba Linda</option>
+                                        
+                                    
+                                    </select>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        
+                        
+                        
+                            <div class="change-region-dropdown" data-region="Colorado">
+            				<label>Select A Gym</label>
+      <div class="clear"></div>
+                                <div class="iws-dropdown short">
+                                    <select name="change_location_location" class="validate[required]">
+                                        <option value="blank"></option>
+                                    
+                                        
+                                            <option value="214">Highlands Ranch</option>
+                                        
+                                    
+                                        
+                                            <option value="215">Littleton</option>
+                                        
+                                    
+                                        
+                                            <option value="216">Parker</option>
+                                        
+                                    
+                                        
+                                            <option value="217">Westminster</option>
+                                        
+                                    
+                                    </select>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        
+                        
+                        
+                            <div class="change-region-dropdown" data-region="Connecticut">
+            				<label>Select A Gym</label>
+      <div class="clear"></div>
+                                <div class="iws-dropdown short">
+                                    <select name="change_location_location" class="validate[required]">
+                                        <option value="blank"></option>
+                                    
+                                        
+                                            <option value="218">Norwalk</option>
+                                        
+                                    
+                                        
+                                            <option value="219">Stamford</option>
+                                        
+                                    
+                                    </select>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        
+                        
+                        
+                            <div class="change-region-dropdown" data-region="District of Columbia">
+            				<label>Select A Gym</label>
+      <div class="clear"></div>
+                                <div class="iws-dropdown short">
+                                    <select name="change_location_location" class="validate[required]">
+                                        <option value="blank"></option>
+                                    
+                                        
+                                            <option value="220">Georgetown</option>
+                                        
+                                    
+                                    </select>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        
+                        
+                        
+                            <div class="change-region-dropdown" data-region="Florida">
+            				<label>Select A Gym</label>
+      <div class="clear"></div>
+                                <div class="iws-dropdown short">
+                                    <select name="change_location_location" class="validate[required]">
+                                        <option value="blank"></option>
+                                    
+                                        
+                                            <option value="221">Clearwater</option>
+                                        
+                                    
+                                        
+                                            <option value="222">Winter Springs</option>
+                                        
+                                    
+                                    </select>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        
+                        
+                        
+                            <div class="change-region-dropdown" data-region="Georgia">
+            				<label>Select A Gym</label>
+      <div class="clear"></div>
+                                <div class="iws-dropdown short">
+                                    <select name="change_location_location" class="validate[required]">
+                                        <option value="blank"></option>
+                                    
+                                        
+                                            <option value="313">Atlanta, Perimeter</option>
+                                        
+                                    
+                                    </select>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        
+                        
+                        
+                            <div class="change-region-dropdown" data-region="Hawaii">
+            				<label>Select A Gym</label>
+      <div class="clear"></div>
+                                <div class="iws-dropdown short">
+                                    <select name="change_location_location" class="validate[required]">
+                                        <option value="blank"></option>
+                                    
+                                        
+                                            <option value="16">Honolulu</option>
+                                        
+                                    
+                                        
+                                            <option value="303">Waikele</option>
+                                        
+                                    
+                                    </select>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        
+                        
+                        
+                            <div class="change-region-dropdown" data-region="Illinois">
+            				<label>Select A Gym</label>
+      <div class="clear"></div>
+                                <div class="iws-dropdown short">
+                                    <select name="change_location_location" class="validate[required]">
+                                        <option value="blank"></option>
+                                    
+                                        
+                                            <option value="226">Oak Lawn</option>
+                                        
+                                    
+                                        
+                                            <option value="227">Orland Park</option>
+                                        
+                                    
+                                        
+                                            <option value="225">River North</option>
+                                        
+                                    
+                                        
+                                            <option value="223">South Loop</option>
+                                        
+                                    
+                                        
+                                            <option value="224">Wrigleyville</option>
+                                        
+                                    
+                                    </select>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        
+                        
+                        
+                            <div class="change-region-dropdown" data-region="Indiana">
+            				<label>Select A Gym</label>
+      <div class="clear"></div>
+                                <div class="iws-dropdown short">
+                                    <select name="change_location_location" class="validate[required]">
+                                        <option value="blank"></option>
+                                    
+                                        
+                                            <option value="228">Merrillville</option>
+                                        
+                                    
+                                    </select>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        
+                        
+                        
+                            <div class="change-region-dropdown" data-region="Louisiana">
+            				<label>Select A Gym</label>
+      <div class="clear"></div>
+                                <div class="iws-dropdown short">
+                                    <select name="change_location_location" class="validate[required]">
+                                        <option value="blank"></option>
+                                    
+                                        
+                                            <option value="230">Acadian</option>
+                                        
+                                    
+                                        
+                                            <option value="292">Lafayette</option>
+                                        
+                                    
+                                        
+                                            <option value="231">Mandeville</option>
+                                        
+                                    
+                                        
+                                            <option value="310">New Orleans, Elmwood</option>
+                                        
+                                    
+                                        
+                                            <option value="305">Sherwood</option>
+                                        
+                                    
+                                    </select>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        
+                        
+                        
+                            <div class="change-region-dropdown" data-region="Maryland">
+            				<label>Select A Gym</label>
+      <div class="clear"></div>
+                                <div class="iws-dropdown short">
+                                    <select name="change_location_location" class="validate[required]">
+                                        <option value="blank"></option>
+                                    
+                                        
+                                            <option value="232">Bethesda</option>
+                                        
+                                    
+                                    </select>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        
+                        
+                        
+                            <div class="change-region-dropdown" data-region="Missouri">
+            				<label>Select A Gym</label>
+      <div class="clear"></div>
+                                <div class="iws-dropdown short">
+                                    <select name="change_location_location" class="validate[required]">
+                                        <option value="blank"></option>
+                                    
+                                        
+                                            <option value="315">St. Louis, West County</option>
+                                        
+                                    
+                                    </select>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        
+                        
+                        
+                            <div class="change-region-dropdown" data-region="Nevada">
+            				<label>Select A Gym</label>
+      <div class="clear"></div>
+                                <div class="iws-dropdown short">
+                                    <select name="change_location_location" class="validate[required]">
+                                        <option value="blank"></option>
+                                    
+                                        
+                                            <option value="249">Anthem</option>
+                                        
+                                    
+                                        
+                                            <option value="250">Las Vegas Blue Diamond</option>
+                                        
+                                    
+                                        
+                                            <option value="251">North Las Vegas</option>
+                                        
+                                    
+                                    </select>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        
+                        
+                        
+                            <div class="change-region-dropdown" data-region="New Jersey">
+            				<label>Select A Gym</label>
+      <div class="clear"></div>
+                                <div class="iws-dropdown short">
+                                    <select name="change_location_location" class="validate[required]">
+                                        <option value="blank"></option>
+                                    
+                                        
+                                            <option value="238">Cherry Hill</option>
+                                        
+                                    
+                                        
+                                            <option value="295">Edgewater</option>
+                                        
+                                    
+                                        
+                                            <option value="240">Florham Park</option>
+                                        
+                                    
+                                        
+                                            <option value="241">Hoboken</option>
+                                        
+                                    
+                                        
+                                            <option value="239">Marlboro</option>
+                                        
+                                    
+                                        
+                                            <option value="242">Paramus</option>
+                                        
+                                    
+                                        
+                                            <option value="243">Shrewsbury</option>
+                                        
+                                    
+                                        
+                                            <option value="244">Totowa</option>
+                                        
+                                    
+                                        
+                                            <option value="245">Turnersville</option>
+                                        
+                                    
+                                    </select>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        
+                        
+                        
+                            <div class="change-region-dropdown" data-region="New Mexico">
+            				<label>Select A Gym</label>
+      <div class="clear"></div>
+                                <div class="iws-dropdown short">
+                                    <select name="change_location_location" class="validate[required]">
+                                        <option value="blank"></option>
+                                    
+                                        
+                                            <option value="246">Albuquerque</option>
+                                        
+                                    
+                                        
+                                            <option value="247">Albuquerque West</option>
+                                        
+                                    
+                                        
+                                            <option value="248">Rio Rancho</option>
+                                        
+                                    
+                                    </select>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        
+                        
+                        
+                            <div class="change-region-dropdown" data-region="New York">
+            				<label>Select A Gym</label>
+      <div class="clear"></div>
+                                <div class="iws-dropdown short">
+                                    <select name="change_location_location" class="validate[required]">
+                                        <option value="blank"></option>
+                                    
+                                        
+                                            <option value="255">Albany</option>
+                                        
+                                    
+                                        
+                                            <option value="254">Astoria</option>
+                                        
+                                    
+                                        
+                                            <option value="252">Brooklyn</option>
+                                        
+                                    
+                                        
+                                            <option value="253">Commack</option>
+                                        
+                                    
+                                        
+                                            <option value="283">Huntington Station</option>
+                                        
+                                    
+                                        
+                                            <option value="66">Long Island</option>
+                                        
+                                    
+                                        
+                                            <option value="256">Mamaroneck</option>
+                                        
+                                    
+                                        
+                                            <option value="275">NYC John Street</option>
+                                        
+                                    
+                                        
+                                            <option value="309">White Plains</option>
+                                        
+                                    
+                                    </select>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        
+                        
+                        
+                            <div class="change-region-dropdown" data-region="North Carolina">
+            				<label>Select A Gym</label>
+      <div class="clear"></div>
+                                <div class="iws-dropdown short">
+                                    <select name="change_location_location" class="validate[required]">
+                                        <option value="blank"></option>
+                                    
+                                        
+                                            <option value="318">Balentyne</option>
+                                        
+                                    
+                                        
+                                            <option value="235">Cary</option>
+                                        
+                                    
+                                        
+                                            <option value="236">Durham</option>
+                                        
+                                    
+                                        
+                                            <option value="237">Raleigh</option>
+                                        
+                                    
+                                    </select>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        
+                        
+                        
+                            <div class="change-region-dropdown" data-region="Oregon">
+            				<label>Select A Gym</label>
+      <div class="clear"></div>
+                                <div class="iws-dropdown short">
+                                    <select name="change_location_location" class="validate[required]">
+                                        <option value="blank"></option>
+                                    
+                                        
+                                            <option value="293">Beaverton</option>
+                                        
+                                    
+                                    </select>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        
+                        
+                        
+                            <div class="change-region-dropdown" data-region="Pennsylvania">
+            				<label>Select A Gym</label>
+      <div class="clear"></div>
+                                <div class="iws-dropdown short">
+                                    <select name="change_location_location" class="validate[required]">
+                                        <option value="blank"></option>
+                                    
+                                        
+                                            <option value="259">Exton</option>
+                                        
+                                    
+                                        
+                                            <option value="307">Lansdale</option>
+                                        
+                                    
+                                        
+                                            <option value="260">Springfield</option>
+                                        
+                                    
+                                    </select>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        
+                        
+                        
+                            <div class="change-region-dropdown" data-region="Tennessee">
+            				<label>Select A Gym</label>
+      <div class="clear"></div>
+                                <div class="iws-dropdown short">
+                                    <select name="change_location_location" class="validate[required]">
+                                        <option value="blank"></option>
+                                    
+                                        
+                                            <option value="301">Cordova</option>
+                                        
+                                    
+                                        
+                                            <option value="300">Germantown</option>
+                                        
+                                    
+                                        
+                                            <option value="317">Murfreesboro</option>
+                                        
+                                    
+                                    </select>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        
+                        
+                        
+                            <div class="change-region-dropdown" data-region="Texas">
+            				<label>Select A Gym</label>
+      <div class="clear"></div>
+                                <div class="iws-dropdown short">
+                                    <select name="change_location_location" class="validate[required]">
+                                        <option value="blank"></option>
+                                    
+                                        
+                                            <option value="299">Central ATX</option>
+                                        
+                                    
+                                        
+                                            <option value="262">El Paso East</option>
+                                        
+                                    
+                                        
+                                            <option value="263">El Paso West</option>
+                                        
+                                    
+                                        
+                                            <option value="296">Southpark Meadows</option>
+                                        
+                                    
+                                    </select>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        
+                        
+                        
+                            <div class="change-region-dropdown" data-region="Utah">
+            				<label>Select A Gym</label>
+      <div class="clear"></div>
+                                <div class="iws-dropdown short">
+                                    <select name="change_location_location" class="validate[required]">
+                                        <option value="blank"></option>
+                                    
+                                        
+                                            <option value="316">Sandy</option>
+                                        
+                                    
+                                    </select>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        
+                        
+                        
+                            <div class="change-region-dropdown" data-region="Virginia">
+            				<label>Select A Gym</label>
+      <div class="clear"></div>
+                                <div class="iws-dropdown short">
+                                    <select name="change_location_location" class="validate[required]">
+                                        <option value="blank"></option>
+                                    
+                                        
+                                            <option value="264">Alexandria</option>
+                                        
+                                    
+                                        
+                                            <option value="265">Arlington</option>
+                                        
+                                    
+                                        
+                                            <option value="266">Ashburn</option>
+                                        
+                                    
+                                        
+                                            <option value="267">Chantilly</option>
+                                        
+                                    
+                                        
+                                            <option value="268">Fairfax</option>
+                                        
+                                    
+                                        
+                                            <option value="270">Leesburg</option>
+                                        
+                                    
+                                        
+                                            <option value="269">Reston-Herndon</option>
+                                        
+                                    
+                                        
+                                            <option value="271">Sterling</option>
+                                        
+                                    
+                                        
+                                            <option value="272">Tyson's Corner</option>
+                                        
+                                    
+                                        
+                                            <option value="273">Woodbridge</option>
+                                        
+                                    
+                                    </select>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        
+                        
+                        
+                            <div class="change-region-dropdown" data-region="Washington">
+            				<label>Select A Gym</label>
+      <div class="clear"></div>
+                                <div class="iws-dropdown short">
+                                    <select name="change_location_location" class="validate[required]">
+                                        <option value="blank"></option>
+                                    
+                                        
+                                            <option value="274">Roosevelt</option>
+                                        
+                                    
+                                    </select>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        
+                        
+                        <div class="zip_section">
+                        <label>
+                        	Or Select Zipcode
+                        </label>
+                        <input type="text" name="change_location_zip">
+                        <input type="hidden" name="selected_location">
+                        </div>
+                        <div class="submit-button button_dark button" style="width"><span>Submit</span></div>
+                </form>
+                
+             </div>
+        </div>
+        
+        
+             <div id="account_login_button">Member Login</div>
              <div id="account_login">
                 <h2>Login</h2> 
                 <a id="account_login_button_close"></a>
                 <div id="header_login_error" class="error_box">Login Fail Error Message</div>
                 <form action="/my-account/" method="post" id="login_form" name="login_form">
+                <div id="login-selects" class="step-1" style="margin-top:15px;">
+                <label>Location*</label>
+                <div id="RegionSelect" class="iws-dropdown short">
+                    <select id="change_location_region_select" name="change_location_gym_select2" type="select-one" class="validate[required]">
+                        <option>Location</option>
+                        
+                        
+                                <option value="Australia">Australia</option>
+                            
+                                <option value="Arizona">Arizona</option>
+                            
+                                <option value="Arkansas">Arkansas</option>
+                            
+                                <option value="California">California</option>
+                            
+                                <option value="Colorado">Colorado</option>
+                            
+                                <option value="Connecticut">Connecticut</option>
+                            
+                                <option value="District of Columbia">District of Columbia</option>
+                            
+                                <option value="Florida">Florida</option>
+                            
+                                <option value="Georgia">Georgia</option>
+                            
+                                <option value="Hawaii">Hawaii</option>
+                            
+                                <option value="Illinois">Illinois</option>
+                            
+                                <option value="Indiana">Indiana</option>
+                            
+                                <option value="Louisiana">Louisiana</option>
+                            
+                                <option value="Maryland">Maryland</option>
+                            
+                                <option value="Missouri">Missouri</option>
+                            
+                                <option value="Nevada">Nevada</option>
+                            
+                                <option value="New Jersey">New Jersey</option>
+                            
+                                <option value="New Mexico">New Mexico</option>
+                            
+                                <option value="New York">New York</option>
+                            
+                                <option value="North Carolina">North Carolina</option>
+                            
+                                <option value="Oregon">Oregon</option>
+                            
+                                <option value="Pennsylvania">Pennsylvania</option>
+                            
+                                <option value="Tennessee">Tennessee</option>
+                            
+                                <option value="Texas">Texas</option>
+                            
+                                <option value="Utah">Utah</option>
+                            
+                                <option value="Virginia">Virginia</option>
+                            
+                                <option value="Washington">Washington</option>
+                            
+                    </select>
+                    <div class="clear"></div>
+                    
+                </div>
+                
+                
+                    
+                        <div class="change-region-dropdown" data-region="Australia">
+                        <label>Gym*</label>
+  <div class="clear"></div>
+                            <div class="iws-dropdown short">
+                                <select id="change_location_location" name="change_location_location" class="validate[required]">
+                                    <option value="blank"></option>
+                                
+                                    
+                                        <option value="67" data-franchise="0">Sydney</option>
+                                    
+                                
+                                </select>
+                                <input type="hidden" name="selected_location" id="selected_location">
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    
+                    
+                    
+                        <div class="change-region-dropdown" data-region="Arizona">
+                        <label>Gym*</label>
+  <div class="clear"></div>
+                            <div class="iws-dropdown short">
+                                <select id="change_location_location" name="change_location_location" class="validate[required]">
+                                    <option value="blank"></option>
+                                
+                                    
+                                        <option value="194" data-franchise="1">Ahwatukee</option>
+                                    
+                                
+                                    
+                                        <option value="192" data-franchise="1">Glendale</option>
+                                    
+                                
+                                    
+                                        <option value="193" data-franchise="1">Mesa</option>
+                                    
+                                
+                                    
+                                        <option value="294" data-franchise="1">Scottsdale</option>
+                                    
+                                
+                                </select>
+                                <input type="hidden" name="selected_location" id="selected_location">
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    
+                    
+                    
+                        <div class="change-region-dropdown" data-region="Arkansas">
+                        <label>Gym*</label>
+  <div class="clear"></div>
+                            <div class="iws-dropdown short">
+                                <select id="change_location_location" name="change_location_location" class="validate[required]">
+                                    <option value="blank"></option>
+                                
+                                    
+                                        <option value="302" data-franchise="1">Fayetteville</option>
+                                    
+                                
+                                </select>
+                                <input type="hidden" name="selected_location" id="selected_location">
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    
+                    
+                    
+                        <div class="change-region-dropdown" data-region="California">
+                        <label>Gym*</label>
+  <div class="clear"></div>
+                            <div class="iws-dropdown short">
+                                <select id="change_location_location" name="change_location_location" class="validate[required]">
+                                    <option value="blank"></option>
+                                
+                                    
+                                        <option value="195" data-franchise="1">Aliso Viejo</option>
+                                    
+                                
+                                    
+                                        <option value="197" data-franchise="1">Carlsbad</option>
+                                    
+                                
+                                    
+                                        <option value="12" data-franchise="0">Concord</option>
+                                    
+                                
+                                    
+                                        <option value="11" data-franchise="0">Corona</option>
+                                    
+                                
+                                    
+                                        <option value="198" data-franchise="1">Costa Mesa</option>
+                                    
+                                
+                                    
+                                        <option value="199" data-franchise="1">Cypress</option>
+                                    
+                                
+                                    
+                                        <option value="200" data-franchise="1">Fresno</option>
+                                    
+                                
+                                    
+                                        <option value="201" data-franchise="1">Fullerton</option>
+                                    
+                                
+                                    
+                                        <option value="202" data-franchise="1">Huntington Beach</option>
+                                    
+                                
+                                    
+                                        <option value="203" data-franchise="1">Lake Forest</option>
+                                    
+                                
+                                    
+                                        <option value="290" data-franchise="1">Lakewood</option>
+                                    
+                                
+                                    
+                                        <option value="204" data-franchise="1">Long Beach</option>
+                                    
+                                
+                                    
+                                        <option value="279" data-franchise="1">Murrieta</option>
+                                    
+                                
+                                    
+                                        <option value="205" data-franchise="1">Orange</option>
+                                    
+                                
+                                    
+                                        <option value="206" data-franchise="1">Rancho Santa Margarita</option>
+                                    
+                                
+                                    
+                                        <option value="15" data-franchise="0">Rosemead</option>
+                                    
+                                
+                                    
+                                        <option value="207" data-franchise="1">Sacramento</option>
+                                    
+                                
+                                    
+                                        <option value="208" data-franchise="1">San Bruno</option>
+                                    
+                                
+                                    
+                                        <option value="209" data-franchise="1">San Jose</option>
+                                    
+                                
+                                    
+                                        <option value="210" data-franchise="1">San Marcos</option>
+                                    
+                                
+                                    
+                                        <option value="306" data-franchise="1">South Corona</option>
+                                    
+                                
+                                    
+                                        <option value="211" data-franchise="1">Torrance LAB</option>
+                                    
+                                
+                                    
+                                        <option value="14" data-franchise="0">Torrance UFC</option>
+                                    
+                                
+                                    
+                                        <option value="212" data-franchise="1">Walnut Creek</option>
+                                    
+                                
+                                    
+                                        <option value="213" data-franchise="1">Yorba Linda</option>
+                                    
+                                
+                                </select>
+                                <input type="hidden" name="selected_location" id="selected_location">
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    
+                    
+                    
+                        <div class="change-region-dropdown" data-region="Colorado">
+                        <label>Gym*</label>
+  <div class="clear"></div>
+                            <div class="iws-dropdown short">
+                                <select id="change_location_location" name="change_location_location" class="validate[required]">
+                                    <option value="blank"></option>
+                                
+                                    
+                                        <option value="214" data-franchise="1">Highlands Ranch</option>
+                                    
+                                
+                                    
+                                        <option value="215" data-franchise="1">Littleton</option>
+                                    
+                                
+                                    
+                                        <option value="216" data-franchise="1">Parker</option>
+                                    
+                                
+                                    
+                                        <option value="217" data-franchise="1">Westminster</option>
+                                    
+                                
+                                </select>
+                                <input type="hidden" name="selected_location" id="selected_location">
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    
+                    
+                    
+                        <div class="change-region-dropdown" data-region="Connecticut">
+                        <label>Gym*</label>
+  <div class="clear"></div>
+                            <div class="iws-dropdown short">
+                                <select id="change_location_location" name="change_location_location" class="validate[required]">
+                                    <option value="blank"></option>
+                                
+                                    
+                                        <option value="218" data-franchise="1">Norwalk</option>
+                                    
+                                
+                                    
+                                        <option value="219" data-franchise="1">Stamford</option>
+                                    
+                                
+                                </select>
+                                <input type="hidden" name="selected_location" id="selected_location">
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    
+                    
+                    
+                        <div class="change-region-dropdown" data-region="District of Columbia">
+                        <label>Gym*</label>
+  <div class="clear"></div>
+                            <div class="iws-dropdown short">
+                                <select id="change_location_location" name="change_location_location" class="validate[required]">
+                                    <option value="blank"></option>
+                                
+                                    
+                                        <option value="220" data-franchise="1">Georgetown</option>
+                                    
+                                
+                                </select>
+                                <input type="hidden" name="selected_location" id="selected_location">
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    
+                    
+                    
+                        <div class="change-region-dropdown" data-region="Florida">
+                        <label>Gym*</label>
+  <div class="clear"></div>
+                            <div class="iws-dropdown short">
+                                <select id="change_location_location" name="change_location_location" class="validate[required]">
+                                    <option value="blank"></option>
+                                
+                                    
+                                        <option value="221" data-franchise="1">Clearwater</option>
+                                    
+                                
+                                    
+                                        <option value="222" data-franchise="1">Winter Springs</option>
+                                    
+                                
+                                </select>
+                                <input type="hidden" name="selected_location" id="selected_location">
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    
+                    
+                    
+                        <div class="change-region-dropdown" data-region="Georgia">
+                        <label>Gym*</label>
+  <div class="clear"></div>
+                            <div class="iws-dropdown short">
+                                <select id="change_location_location" name="change_location_location" class="validate[required]">
+                                    <option value="blank"></option>
+                                
+                                    
+                                        <option value="313" data-franchise="1">Atlanta, Perimeter</option>
+                                    
+                                
+                                </select>
+                                <input type="hidden" name="selected_location" id="selected_location">
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    
+                    
+                    
+                        <div class="change-region-dropdown" data-region="Hawaii">
+                        <label>Gym*</label>
+  <div class="clear"></div>
+                            <div class="iws-dropdown short">
+                                <select id="change_location_location" name="change_location_location" class="validate[required]">
+                                    <option value="blank"></option>
+                                
+                                    
+                                        <option value="16" data-franchise="0">Honolulu</option>
+                                    
+                                
+                                    
+                                        <option value="303" data-franchise="0">Waikele</option>
+                                    
+                                
+                                </select>
+                                <input type="hidden" name="selected_location" id="selected_location">
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    
+                    
+                    
+                        <div class="change-region-dropdown" data-region="Illinois">
+                        <label>Gym*</label>
+  <div class="clear"></div>
+                            <div class="iws-dropdown short">
+                                <select id="change_location_location" name="change_location_location" class="validate[required]">
+                                    <option value="blank"></option>
+                                
+                                    
+                                        <option value="226" data-franchise="1">Oak Lawn</option>
+                                    
+                                
+                                    
+                                        <option value="227" data-franchise="1">Orland Park</option>
+                                    
+                                
+                                    
+                                        <option value="225" data-franchise="1">River North</option>
+                                    
+                                
+                                    
+                                        <option value="223" data-franchise="1">South Loop</option>
+                                    
+                                
+                                    
+                                        <option value="224" data-franchise="1">Wrigleyville</option>
+                                    
+                                
+                                </select>
+                                <input type="hidden" name="selected_location" id="selected_location">
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    
+                    
+                    
+                        <div class="change-region-dropdown" data-region="Indiana">
+                        <label>Gym*</label>
+  <div class="clear"></div>
+                            <div class="iws-dropdown short">
+                                <select id="change_location_location" name="change_location_location" class="validate[required]">
+                                    <option value="blank"></option>
+                                
+                                    
+                                        <option value="228" data-franchise="1">Merrillville</option>
+                                    
+                                
+                                </select>
+                                <input type="hidden" name="selected_location" id="selected_location">
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    
+                    
+                    
+                        <div class="change-region-dropdown" data-region="Louisiana">
+                        <label>Gym*</label>
+  <div class="clear"></div>
+                            <div class="iws-dropdown short">
+                                <select id="change_location_location" name="change_location_location" class="validate[required]">
+                                    <option value="blank"></option>
+                                
+                                    
+                                        <option value="230" data-franchise="1">Acadian</option>
+                                    
+                                
+                                    
+                                        <option value="292" data-franchise="1">Lafayette</option>
+                                    
+                                
+                                    
+                                        <option value="231" data-franchise="1">Mandeville</option>
+                                    
+                                
+                                    
+                                        <option value="310" data-franchise="1">New Orleans, Elmwood</option>
+                                    
+                                
+                                    
+                                        <option value="305" data-franchise="1">Sherwood</option>
+                                    
+                                
+                                </select>
+                                <input type="hidden" name="selected_location" id="selected_location">
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    
+                    
+                    
+                        <div class="change-region-dropdown" data-region="Maryland">
+                        <label>Gym*</label>
+  <div class="clear"></div>
+                            <div class="iws-dropdown short">
+                                <select id="change_location_location" name="change_location_location" class="validate[required]">
+                                    <option value="blank"></option>
+                                
+                                    
+                                        <option value="232" data-franchise="1">Bethesda</option>
+                                    
+                                
+                                </select>
+                                <input type="hidden" name="selected_location" id="selected_location">
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    
+                    
+                    
+                        <div class="change-region-dropdown" data-region="Missouri">
+                        <label>Gym*</label>
+  <div class="clear"></div>
+                            <div class="iws-dropdown short">
+                                <select id="change_location_location" name="change_location_location" class="validate[required]">
+                                    <option value="blank"></option>
+                                
+                                    
+                                        <option value="315" data-franchise="1">St. Louis, West County</option>
+                                    
+                                
+                                </select>
+                                <input type="hidden" name="selected_location" id="selected_location">
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    
+                    
+                    
+                        <div class="change-region-dropdown" data-region="Nevada">
+                        <label>Gym*</label>
+  <div class="clear"></div>
+                            <div class="iws-dropdown short">
+                                <select id="change_location_location" name="change_location_location" class="validate[required]">
+                                    <option value="blank"></option>
+                                
+                                    
+                                        <option value="249" data-franchise="1">Anthem</option>
+                                    
+                                
+                                    
+                                        <option value="250" data-franchise="1">Las Vegas Blue Diamond</option>
+                                    
+                                
+                                    
+                                        <option value="251" data-franchise="1">North Las Vegas</option>
+                                    
+                                
+                                </select>
+                                <input type="hidden" name="selected_location" id="selected_location">
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    
+                    
+                    
+                        <div class="change-region-dropdown" data-region="New Jersey">
+                        <label>Gym*</label>
+  <div class="clear"></div>
+                            <div class="iws-dropdown short">
+                                <select id="change_location_location" name="change_location_location" class="validate[required]">
+                                    <option value="blank"></option>
+                                
+                                    
+                                        <option value="238" data-franchise="1">Cherry Hill</option>
+                                    
+                                
+                                    
+                                        <option value="295" data-franchise="1">Edgewater</option>
+                                    
+                                
+                                    
+                                        <option value="240" data-franchise="1">Florham Park</option>
+                                    
+                                
+                                    
+                                        <option value="241" data-franchise="1">Hoboken</option>
+                                    
+                                
+                                    
+                                        <option value="239" data-franchise="1">Marlboro</option>
+                                    
+                                
+                                    
+                                        <option value="242" data-franchise="1">Paramus</option>
+                                    
+                                
+                                    
+                                        <option value="243" data-franchise="1">Shrewsbury</option>
+                                    
+                                
+                                    
+                                        <option value="244" data-franchise="1">Totowa</option>
+                                    
+                                
+                                    
+                                        <option value="245" data-franchise="1">Turnersville</option>
+                                    
+                                
+                                </select>
+                                <input type="hidden" name="selected_location" id="selected_location">
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    
+                    
+                    
+                        <div class="change-region-dropdown" data-region="New Mexico">
+                        <label>Gym*</label>
+  <div class="clear"></div>
+                            <div class="iws-dropdown short">
+                                <select id="change_location_location" name="change_location_location" class="validate[required]">
+                                    <option value="blank"></option>
+                                
+                                    
+                                        <option value="246" data-franchise="1">Albuquerque</option>
+                                    
+                                
+                                    
+                                        <option value="247" data-franchise="1">Albuquerque West</option>
+                                    
+                                
+                                    
+                                        <option value="248" data-franchise="1">Rio Rancho</option>
+                                    
+                                
+                                </select>
+                                <input type="hidden" name="selected_location" id="selected_location">
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    
+                    
+                    
+                        <div class="change-region-dropdown" data-region="New York">
+                        <label>Gym*</label>
+  <div class="clear"></div>
+                            <div class="iws-dropdown short">
+                                <select id="change_location_location" name="change_location_location" class="validate[required]">
+                                    <option value="blank"></option>
+                                
+                                    
+                                        <option value="255" data-franchise="1">Albany</option>
+                                    
+                                
+                                    
+                                        <option value="254" data-franchise="1">Astoria</option>
+                                    
+                                
+                                    
+                                        <option value="252" data-franchise="1">Brooklyn</option>
+                                    
+                                
+                                    
+                                        <option value="253" data-franchise="1">Commack</option>
+                                    
+                                
+                                    
+                                        <option value="283" data-franchise="1">Huntington Station</option>
+                                    
+                                
+                                    
+                                        <option value="66" data-franchise="0">Long Island</option>
+                                    
+                                
+                                    
+                                        <option value="256" data-franchise="1">Mamaroneck</option>
+                                    
+                                
+                                    
+                                        <option value="275" data-franchise="1">NYC John Street</option>
+                                    
+                                
+                                    
+                                        <option value="309" data-franchise="1">White Plains</option>
+                                    
+                                
+                                </select>
+                                <input type="hidden" name="selected_location" id="selected_location">
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    
+                    
+                    
+                        <div class="change-region-dropdown" data-region="North Carolina">
+                        <label>Gym*</label>
+  <div class="clear"></div>
+                            <div class="iws-dropdown short">
+                                <select id="change_location_location" name="change_location_location" class="validate[required]">
+                                    <option value="blank"></option>
+                                
+                                    
+                                        <option value="318" data-franchise="1">Balentyne</option>
+                                    
+                                
+                                    
+                                        <option value="235" data-franchise="1">Cary</option>
+                                    
+                                
+                                    
+                                        <option value="236" data-franchise="1">Durham</option>
+                                    
+                                
+                                    
+                                        <option value="237" data-franchise="1">Raleigh</option>
+                                    
+                                
+                                </select>
+                                <input type="hidden" name="selected_location" id="selected_location">
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    
+                    
+                    
+                        <div class="change-region-dropdown" data-region="Oregon">
+                        <label>Gym*</label>
+  <div class="clear"></div>
+                            <div class="iws-dropdown short">
+                                <select id="change_location_location" name="change_location_location" class="validate[required]">
+                                    <option value="blank"></option>
+                                
+                                    
+                                        <option value="293" data-franchise="1">Beaverton</option>
+                                    
+                                
+                                </select>
+                                <input type="hidden" name="selected_location" id="selected_location">
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    
+                    
+                    
+                        <div class="change-region-dropdown" data-region="Pennsylvania">
+                        <label>Gym*</label>
+  <div class="clear"></div>
+                            <div class="iws-dropdown short">
+                                <select id="change_location_location" name="change_location_location" class="validate[required]">
+                                    <option value="blank"></option>
+                                
+                                    
+                                        <option value="259" data-franchise="1">Exton</option>
+                                    
+                                
+                                    
+                                        <option value="307" data-franchise="1">Lansdale</option>
+                                    
+                                
+                                    
+                                        <option value="260" data-franchise="1">Springfield</option>
+                                    
+                                
+                                </select>
+                                <input type="hidden" name="selected_location" id="selected_location">
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    
+                    
+                    
+                        <div class="change-region-dropdown" data-region="Tennessee">
+                        <label>Gym*</label>
+  <div class="clear"></div>
+                            <div class="iws-dropdown short">
+                                <select id="change_location_location" name="change_location_location" class="validate[required]">
+                                    <option value="blank"></option>
+                                
+                                    
+                                        <option value="301" data-franchise="1">Cordova</option>
+                                    
+                                
+                                    
+                                        <option value="300" data-franchise="1">Germantown</option>
+                                    
+                                
+                                    
+                                        <option value="317" data-franchise="1">Murfreesboro</option>
+                                    
+                                
+                                </select>
+                                <input type="hidden" name="selected_location" id="selected_location">
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    
+                    
+                    
+                        <div class="change-region-dropdown" data-region="Texas">
+                        <label>Gym*</label>
+  <div class="clear"></div>
+                            <div class="iws-dropdown short">
+                                <select id="change_location_location" name="change_location_location" class="validate[required]">
+                                    <option value="blank"></option>
+                                
+                                    
+                                        <option value="299" data-franchise="1">Central ATX</option>
+                                    
+                                
+                                    
+                                        <option value="262" data-franchise="1">El Paso East</option>
+                                    
+                                
+                                    
+                                        <option value="263" data-franchise="1">El Paso West</option>
+                                    
+                                
+                                    
+                                        <option value="296" data-franchise="1">Southpark Meadows</option>
+                                    
+                                
+                                </select>
+                                <input type="hidden" name="selected_location" id="selected_location">
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    
+                    
+                    
+                        <div class="change-region-dropdown" data-region="Utah">
+                        <label>Gym*</label>
+  <div class="clear"></div>
+                            <div class="iws-dropdown short">
+                                <select id="change_location_location" name="change_location_location" class="validate[required]">
+                                    <option value="blank"></option>
+                                
+                                    
+                                        <option value="316" data-franchise="1">Sandy</option>
+                                    
+                                
+                                </select>
+                                <input type="hidden" name="selected_location" id="selected_location">
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    
+                    
+                    
+                        <div class="change-region-dropdown" data-region="Virginia">
+                        <label>Gym*</label>
+  <div class="clear"></div>
+                            <div class="iws-dropdown short">
+                                <select id="change_location_location" name="change_location_location" class="validate[required]">
+                                    <option value="blank"></option>
+                                
+                                    
+                                        <option value="264" data-franchise="1">Alexandria</option>
+                                    
+                                
+                                    
+                                        <option value="265" data-franchise="1">Arlington</option>
+                                    
+                                
+                                    
+                                        <option value="266" data-franchise="1">Ashburn</option>
+                                    
+                                
+                                    
+                                        <option value="267" data-franchise="1">Chantilly</option>
+                                    
+                                
+                                    
+                                        <option value="268" data-franchise="1">Fairfax</option>
+                                    
+                                
+                                    
+                                        <option value="270" data-franchise="1">Leesburg</option>
+                                    
+                                
+                                    
+                                        <option value="269" data-franchise="1">Reston-Herndon</option>
+                                    
+                                
+                                    
+                                        <option value="271" data-franchise="1">Sterling</option>
+                                    
+                                
+                                    
+                                        <option value="272" data-franchise="1">Tyson's Corner</option>
+                                    
+                                
+                                    
+                                        <option value="273" data-franchise="1">Woodbridge</option>
+                                    
+                                
+                                </select>
+                                <input type="hidden" name="selected_location" id="selected_location">
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    
+                    
+                    
+                        <div class="change-region-dropdown" data-region="Washington">
+                        <label>Gym*</label>
+  <div class="clear"></div>
+                            <div class="iws-dropdown short">
+                                <select id="change_location_location" name="change_location_location" class="validate[required]">
+                                    <option value="blank"></option>
+                                
+                                    
+                                        <option value="274" data-franchise="1">Roosevelt</option>
+                                    
+                                
+                                </select>
+                                <input type="hidden" name="selected_location" id="selected_location">
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    
+                    
+                </div>
+                <div id="login-fields" class="step-2" style="display:none;">
                     <label class="username" for="username">Username</label>
                     <input name="username" id="header_username" type="text" value="" class="validate[required,custom[email]]" tabindex="1">
                     <a id="forgot_password" href="/my-account/forgot-password/">I forgot my password</a>
                     <label class="password" for="password">Password</label>
                     <input name="password" id="header_password" type="password" value="" class="validate[required]" tabindex="3">
+                    
                     <a id="account_sign_in" tabindex="3"><span>Sign In</span></a>
-                    <a href="/my-account/login/" id="create_account">
-                    	Create Account
-                    </a>
+                    <div class="clear"></div>
+                    <a href="javascript:void(0);" class="reset-button" style="margin-left:11px;">Reset</a>
+                    <a href="/my-account/login/" id="create_account">Create Account</a>
+                </div>
                 </form>
              </div>
         
@@ -193,93 +2020,12 @@ function getPromoCode(){
     <div id="navigation">
          <ul id="topnav">
             <div id="locations" class="border_right">
-            	
                 <li>
-                	
-                    <a href="javascript:void(0);">Locations</a>
-                    <div class="sub">
-                    	<div id="locations_legend">
-                        <div class="current-gym">UFC GYM</div>
-                        <div class="franchise-gym">UFC GYM Franchise</div> 
-                    </div>
-                    
-                        <ul class="wide-locations">
-                        
-                        
-                        
-                        
-                        <li style="width:200px !important"><h2><a class="stateheader" href="javascript:void(0);">California</a></h2></li>
-                                
-                    
-                    <li class="gym-red"><a href="/concord">Concord</a></li>
-                    
-                
-                    <li class="gym-red"><a href="/corona">Corona</a></li>
-                    
-                
-                    <li class="gym-grey"><a href="/murrieta">Murrieta</a></li>
-                    
-                
-                    <li class="gym-red"><a href="/rosemead">Rosemead</a></li>
-                    
-                
-                    <li class="gym-red"><a href="/torrance">Torrance</a></li>
-                    
-                
-                </ul> 
-                
-                <ul>        
-				
-                        
-                        <li><h2><a class="stateheader" href="javascript:void(0);">Hawaii</a></h2></li>
-                        
-                    
-                            <li class="gym-red"><a href="/honolulu">Honolulu</a></li>
-                
-                        </ul>
-                        <ul>
-                        
-                        
-                        <li><h2><a class="stateheader" href="javascript:void(0);">Illinois</a></h2></li>
-                        
-                    
-                            <li class="gym-grey"><a href="/rivernorth">River North</a></li>
-                
-                        </ul>
-                        <ul>
-                        
-                        
-                        <li><h2><a class="stateheader" href="javascript:void(0);">Nevada</a></h2></li>
-                        
-                    
-                            <li class="gym-grey"><a href="/bluediamond">Las Vegas Blue Diamond</a></li>
-                
-                        </ul>
-                        <ul>
-                        
-                        
-                        <li><h2><a class="stateheader" href="javascript:void(0);">New York</a></h2></li>
-                        
-                    
-                            <li class="gym-grey"><a href="/nycjohnst">John Street</a></li>
-                
-                            <li class="gym-red"><a href="/longisland">Long Island</a></li>
-                
-                        </ul> 
-                        <ul>
-				
-                                <li><h2><a class="stateheader" href="javascript:void(0);">Australia</a></h2></li>
-                    
-                        
-                            <li class="gym-red"><a href="/sydney">Sydney</a></li>
-                
-                        </ul>                  
-                    </div>
-                </li>
+                    <a href="/locations/">Locations</a></li>
             </div>
             <div id="programming" class="border_right">
                 <li>
-                    <a href="/programming/">Programming</a>
+                    <a href="/programming/">Classes</a>
                     <div class="sub">
                         <ul>
                             <li><a href="/programming/#class_descriptions">Class Descriptions</a></li>
@@ -320,7 +2066,9 @@ function getPromoCode(){
             </div>
             <div id="join-ufc-gym" class="border_right">
                 <li>
-                    <a href="/franchising/">Franchising</a>
+                
+                	<a href="/franchising/">Franchising</a>
+                    
                 
                 </li>
             </div>
@@ -338,8 +2086,6 @@ function getPromoCode(){
                         <li><a href="/about-us/jobs/">Jobs</a></li>
                     
                         <li><a href="/about-us/contact/">Contact Us</a></li>
-                    
-                        <li><a href="/about-us/membership-policies/">Membership Policies</a></li>
                      
                     </ul>
                 </div>
@@ -349,6 +2095,8 @@ function getPromoCode(){
             </div>
         </ul>
     </div>
+    
+    <div style="position:absolute;opacity:0;visibility:hidden;font-family:'KnockoutHTF31JuniorMiddlewtRg'">_</div>
 </navigation>
 
 
@@ -383,7 +2131,7 @@ function getPromoCode(){
                 <div id="content_wrapper" class="clearfix">
                     <div id="content_body_left" class="_70">
                         <p><b>PRIVACY POLICY</b><br>
-Welcome to the ufcgymspecialoffers.com website. This website is owned and operated by Combattimento Gymnasiums, LLC d/b/a UFC Gym (which may be referred to herein as “we”, “our”, or “us”). We want ufcgymspecialoffers.com to be your source for fitness information, products, services and tools. Your privacy as you use our website is important to us. This privacy policy describes what information we gather from you, how we use that information and what we do to protect it.<br>
+Welcome to the ufcgym.com website. This website is owned and operated by U Gym, LLC d/b/a UFC Gym (which may be referred to herein as “we”, “our”, or “us”). We want ufcgym.com to be your source for fitness information, products, services and tools. Your privacy as you use our website is important to us. This privacy policy describes what information we gather from you, how we use that information and what we do to protect it.<br>
 <b><br>
 Information We Gather<br>
 Personally Identifiable Information</b><br>
@@ -484,17 +2232,17 @@ We hope that this privacy policy is straightforward and clear, but if you have a
    
     <div class="seo_col">
         <h4 class="seo_col_header"><a href="/programming/" class="seo_link">Programming</a></h4>
-        <a href="sydneyprogramming/#class_descriptions">Class Description</a>
-        <a href="sydneyprogramming/#class_schedules">Class Schedules</a>
+        <a href="/programming/#class_descriptions">Class Description</a><div class="clear"></div>
+        <a href="/programming/#class_schedules">Class Schedules</a>
         
         
     </div>
     <div class="seo_col">
         <h4 class="seo_col_header"><a href="/training/" class="seo_link">Training</a></h4>
         
-            <a href="/training/benefits-and-overview/" class="seo_link">Personal Training Benefits</a>
+            <a href="/training/benefits-and-overview/" class="seo_link">Personal Training Benefits</a><div class="clear"></div>
         
-            <a href="/training/dotfit/" class="seo_link">dotFit</a>
+            <a href="/training/dotfit/" class="seo_link">dotFit</a><div class="clear"></div>
         
         
     </div>
@@ -515,15 +2263,13 @@ We hope that this privacy policy is straightforward and clear, but if you have a
     <div class="seo_col">
         <h4 class="seo_col_header"><a href="/about-us/" class="seo_link">About UFC Gym</a></h4>
         
-            <a href="/about-us/press/" class="seo_link">News &amp; Press</a>
+            <a href="/about-us/press/" class="seo_link">News &amp; Press</a><div class="clear"></div>
         
-            <a href="/about-us/partnerships/" class="seo_link">Partnerships</a>
+            <a href="/about-us/partnerships/" class="seo_link">Partnerships</a><div class="clear"></div>
         
-            <a href="/about-us/jobs/" class="seo_link">Jobs</a>
+            <a href="/about-us/jobs/" class="seo_link">Jobs</a><div class="clear"></div>
         
-            <a href="/about-us/contact/" class="seo_link">Contact Us</a>
-        
-            <a href="/about-us/membership-policies/" class="seo_link">Membership Policies</a>
+            <a href="/about-us/contact/" class="seo_link">Contact Us</a><div class="clear"></div>
         
         
     </div>
@@ -532,51 +2278,274 @@ We hope that this privacy policy is straightforward and clear, but if you have a
     
     <h4 class="seo_col_header" style="margin-left:21px;"><a href="/locations/" class="seo_link">Locations</a></h4>
         
-        
-        
+        <div class="seo_col">
+        	
+	            	<a href="/sydney" class="seo_link"> Sydney</a>
+                    <div class="clear"></div>
+            
+	            	<a href="/ahwatukee" class="seo_link">Arizona Ahwatukee</a>
+                    <div class="clear"></div>
+            
+	            	<a href="/glendale" class="seo_link">Arizona Glendale</a>
+                    <div class="clear"></div>
+            
+	            	<a href="/mesa" class="seo_link">Arizona Mesa</a>
+                    <div class="clear"></div>
+            
+	            	<a href="/scottsdale" class="seo_link">Arizona Scottsdale</a>
+                    <div class="clear"></div>
+            
+	            	<a href="/fayetteville" class="seo_link">Arkansas Fayetteville</a>
+                    <div class="clear"></div>
+            
+	            	<a href="/alisoviejo" class="seo_link">California Aliso Viejo</a>
+                    <div class="clear"></div>
+            
+	            	<a href="/carlsbad" class="seo_link">California Carlsbad</a>
+                    <div class="clear"></div>
+            
+	            	<a href="/concord" class="seo_link">California Concord</a>
+                    <div class="clear"></div>
+            
+	            	<a href="/corona" class="seo_link">California Corona</a>
+                    <div class="clear"></div>
+            
+	            	<a href="/costamesa" class="seo_link">California Costa Mesa</a>
+                    <div class="clear"></div>
+            
+	            	<a href="/cypress" class="seo_link">California Cypress</a>
+                    <div class="clear"></div>
+            
+	            	<a href="/fresno" class="seo_link">California Fresno</a>
+                    <div class="clear"></div>
+            
+	            	<a href="/fullerton" class="seo_link">California Fullerton</a>
+                    <div class="clear"></div>
+            
+	            	<a href="/huntingtonbeach" class="seo_link">California Huntington Beach</a>
+                    <div class="clear"></div>
+            
+	            	<a href="/lakeforest" class="seo_link">California Lake Forest</a>
+                    <div class="clear"></div>
+            
+	            	<a href="/lakewood" class="seo_link">California Lakewood</a>
+                    <div class="clear"></div>
+            
+        </div>
         
         <div class="seo_col">
         	
-	            <a href="sydney" class="seo_link"> Sydney</a>
+	            <a href="/longbeach" class="seo_link">California Long Beach</a>
+                <div class="clear"></div>
             
-	            <a href="concord" class="seo_link">California Concord</a>
+	            <a href="/murrieta" class="seo_link">California Murrieta</a>
+                <div class="clear"></div>
+            
+	            <a href="/orange" class="seo_link">California Orange</a>
+                <div class="clear"></div>
+            
+	            <a href="/ranchosantamargarita" class="seo_link">California Rancho Santa Margarita</a>
+                <div class="clear"></div>
+            
+	            <a href="/rosemead" class="seo_link">California Rosemead</a>
+                <div class="clear"></div>
+            
+	            <a href="/sacramento" class="seo_link">California Sacramento</a>
+                <div class="clear"></div>
+            
+	            <a href="/sanbruno" class="seo_link">California San Bruno</a>
+                <div class="clear"></div>
+            
+	            <a href="/sanjose" class="seo_link">California San Jose</a>
+                <div class="clear"></div>
+            
+	            <a href="/sanmarcos" class="seo_link">California San Marcos</a>
+                <div class="clear"></div>
+            
+	            <a href="/southcorona" class="seo_link">California South Corona</a>
+                <div class="clear"></div>
+            
+	            <a href="/torranceknoxstreet" class="seo_link">California Torrance</a>
+                <div class="clear"></div>
+            
+	            <a href="/torrance" class="seo_link">California Torrance</a>
+                <div class="clear"></div>
+            
+	            <a href="/walnutcreek" class="seo_link">California Walnut Creek</a>
+                <div class="clear"></div>
+            
+	            <a href="/yorbalinda" class="seo_link">California Yorba Linda</a>
+                <div class="clear"></div>
+            
+	            <a href="/highlandsranch" class="seo_link">Colorado Highlands Ranch</a>
+                <div class="clear"></div>
+            
+	            <a href="/littleton" class="seo_link">Colorado Littleton</a>
+                <div class="clear"></div>
+            
+	            <a href="/parker" class="seo_link">Colorado Parker</a>
+                <div class="clear"></div>
+            
+	            <a href="/westminster" class="seo_link">Colorado Westminster</a>
+                <div class="clear"></div>
             
         </div>
         <div class="seo_col">
         	
-	            <a href="corona" class="seo_link">California Corona</a>
+	            <a href="/norwalk" class="seo_link">Connecticut Norwalk</a><div class="clear"></div>
             
-	            <a href="murrieta" class="seo_link">California Murrieta</a>
+	            <a href="/stamford" class="seo_link">Connecticut Stamford</a><div class="clear"></div>
+            
+	            <a href="/georgetown" class="seo_link">District of Columbia Georgetown</a><div class="clear"></div>
+            
+	            <a href="/clearwater" class="seo_link">Florida Clearwater</a><div class="clear"></div>
+            
+	            <a href="/wintersprings" class="seo_link">Florida Winter Springs</a><div class="clear"></div>
+            
+	            <a href="/perimeter" class="seo_link">Georgia Atlanta, Perimeter</a><div class="clear"></div>
+            
+	            <a href="/honolulu" class="seo_link">Hawaii Honolulu</a><div class="clear"></div>
+            
+	            <a href="/waikele" class="seo_link">Hawaii Waikele</a><div class="clear"></div>
+            
+	            <a href="/oaklawn" class="seo_link">Illinois Oak Lawn</a><div class="clear"></div>
+            
+	            <a href="/orlandpark" class="seo_link">Illinois Orland Park</a><div class="clear"></div>
+            
+	            <a href="/rivernorth" class="seo_link">Illinois River North</a><div class="clear"></div>
+            
+	            <a href="/southloop" class="seo_link">Illinois South Loop</a><div class="clear"></div>
+            
+	            <a href="/wrigleyville" class="seo_link">Illinois Wrigleyville</a><div class="clear"></div>
+            
+	            <a href="/merrillville" class="seo_link">Indiana Merrillville</a><div class="clear"></div>
+            
+	            <a href="/acadian" class="seo_link">Louisiana Acadian</a><div class="clear"></div>
+            
+	            <a href="/lafayette" class="seo_link">Louisiana Lafayette</a><div class="clear"></div>
+            
+	            <a href="/mandeville" class="seo_link">Louisiana Mandeville</a><div class="clear"></div>
+            
+	            <a href="/elmwood" class="seo_link">Louisiana New Orleans, Elmwood</a><div class="clear"></div>
             
         </div>
         <div class="seo_col">
         	
-	            <a href="rosemead" class="seo_link">California Rosemead</a>
+	            <a href="/sherwood" class="seo_link">Louisiana Sherwood</a><div class="clear"></div>
             
-	            <a href="torrance" class="seo_link">California Torrance</a>
+	            <a href="/bethesda" class="seo_link">Maryland Bethesda</a><div class="clear"></div>
+            
+	            <a href="/westcounty" class="seo_link">Missouri St. Louis, West County</a><div class="clear"></div>
+            
+	            <a href="/anthem" class="seo_link">Nevada Anthem</a><div class="clear"></div>
+            
+	            <a href="/bluediamond" class="seo_link">Nevada Las Vegas Blue Diamond</a><div class="clear"></div>
+            
+	            <a href="/northlasvegas" class="seo_link">Nevada North Las Vegas</a><div class="clear"></div>
+            
+	            <a href="/cherryhill" class="seo_link">New Jersey Cherry Hill</a><div class="clear"></div>
+            
+	            <a href="/edgewater" class="seo_link">New Jersey Edgewater</a><div class="clear"></div>
+            
+	            <a href="/florhampark" class="seo_link">New Jersey Florham Park</a><div class="clear"></div>
+            
+	            <a href="/hoboken" class="seo_link">New Jersey Hoboken</a><div class="clear"></div>
+            
+	            <a href="/marlboro" class="seo_link">New Jersey Marlboro</a><div class="clear"></div>
+            
+	            <a href="/paramus" class="seo_link">New Jersey Paramus</a><div class="clear"></div>
+            
+	            <a href="/shrewsbury" class="seo_link">New Jersey Shrewsbury</a><div class="clear"></div>
+            
+	            <a href="/totowa" class="seo_link">New Jersey Totowa</a><div class="clear"></div>
+            
+	            <a href="/turnersville" class="seo_link">New Jersey Turnersville</a><div class="clear"></div>
+            
+	            <a href="/albuquerque" class="seo_link">New Mexico Albuquerque</a><div class="clear"></div>
+            
+	            <a href="/albuquerquewest" class="seo_link">New Mexico Albuquerque West</a><div class="clear"></div>
+            
+	            <a href="/riorancho" class="seo_link">New Mexico Rio Rancho</a><div class="clear"></div>
             
         </div>
         <div class="seo_col">
         	
-	            <a href="honolulu" class="seo_link">Hawaii Honolulu</a>
+	            <a href="/albany" class="seo_link">New York Albany</a><div class="clear"></div>
             
-	            <a href="river-north" class="seo_link">Illinois River North</a>
+	            <a href="/astoria" class="seo_link">New York Astoria</a><div class="clear"></div>
+            
+	            <a href="/brooklyn" class="seo_link">New York Brooklyn</a><div class="clear"></div>
+            
+	            <a href="/commack" class="seo_link">New York Commack</a><div class="clear"></div>
+            
+	            <a href="/huntingtonstation" class="seo_link">New York Huntington Station</a><div class="clear"></div>
+            
+	            <a href="/longisland" class="seo_link">New York Long Island</a><div class="clear"></div>
+            
+	            <a href="/mamaroneck" class="seo_link">New York Mamaroneck</a><div class="clear"></div>
+            
+	            <a href="/nycjohnst" class="seo_link">New York NYC John Street</a><div class="clear"></div>
+            
+	            <a href="/whiteplains" class="seo_link">New York White Plains</a><div class="clear"></div>
+            
+	            <a href="/balentyne" class="seo_link">North Carolina Balentyne</a><div class="clear"></div>
+            
+	            <a href="/cary" class="seo_link">North Carolina Cary</a><div class="clear"></div>
+            
+	            <a href="/durham" class="seo_link">North Carolina Durham</a><div class="clear"></div>
+            
+	            <a href="/raleigh" class="seo_link">North Carolina Raleigh</a><div class="clear"></div>
+            
+	            <a href="/beaverton" class="seo_link">Oregon Beaverton</a><div class="clear"></div>
+            
+	            <a href="/exton" class="seo_link">Pennsylvania Exton</a><div class="clear"></div>
+            
+	            <a href="/lansdale" class="seo_link">Pennsylvania Lansdale</a><div class="clear"></div>
+            
+	            <a href="/springfield" class="seo_link">Pennsylvania Springfield</a><div class="clear"></div>
+            
+	            <a href="/cordova" class="seo_link">Tennessee Cordova</a><div class="clear"></div>
             
         </div>
         <div class="seo_col">
         	
-	            <a href="blue-diamond" class="seo_link">Nevada Las Vegas Blue Diamond</a>
+	            <a href="/germantown" class="seo_link">Tennessee Germantown</a><div class="clear"></div>
             
-	            <a href="nycjohnst" class="seo_link">New York John Street</a>
+	            <a href="/murfreesboro" class="seo_link">Tennessee Murfreesboro</a><div class="clear"></div>
             
-	            <a href="long-island" class="seo_link">New York Long Island</a>
+	            <a href="/centralatx" class="seo_link">Texas Central ATX</a><div class="clear"></div>
+            
+	            <a href="/elpasoeast" class="seo_link">Texas El Paso East</a><div class="clear"></div>
+            
+	            <a href="/elpasowest" class="seo_link">Texas El Paso West</a><div class="clear"></div>
+            
+	            <a href="/southparkmeadows" class="seo_link">Texas Southpark Meadows</a><div class="clear"></div>
+            
+	            <a href="/sandy" class="seo_link">Utah Sandy</a><div class="clear"></div>
+            
+	            <a href="/alexandria" class="seo_link">Virginia Alexandria</a><div class="clear"></div>
+            
+	            <a href="/arlington" class="seo_link">Virginia Arlington</a><div class="clear"></div>
+            
+	            <a href="/ashburn" class="seo_link">Virginia Ashburn</a><div class="clear"></div>
+            
+	            <a href="/chantilly" class="seo_link">Virginia Chantilly</a><div class="clear"></div>
+            
+	            <a href="/fairfax" class="seo_link">Virginia Fairfax</a><div class="clear"></div>
+            
+	            <a href="/leesburg" class="seo_link">Virginia Leesburg</a><div class="clear"></div>
+            
+	            <a href="/restonherndon" class="seo_link">Virginia Reston-Herndon</a><div class="clear"></div>
+            
+	            <a href="/sterling" class="seo_link">Virginia Sterling</a><div class="clear"></div>
+            
+	            <a href="/tysonscorner" class="seo_link">Virginia Tyson's Corner</a><div class="clear"></div>
+            
+	            <a href="/woodbridge" class="seo_link">Virginia Woodbridge</a><div class="clear"></div>
+            
+	            <a href="/roosevelt" class="seo_link">Washington Roosevelt</a><div class="clear"></div>
             
         </div>
-        
-        
-        
-        
-        
        
 </div>
 
@@ -632,6 +2601,22 @@ var google_conversion_value = 0;
 <noscript>
 <div style="display:inline;">
 <img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/987489063/?label=lpuMCNGrygMQp8bv1gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript><!-- Google Code for UFC Gym Franchise Remarketing -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1035113703;
+var google_conversion_label = "rfDyCK-C2AYQ56nK7QM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1035113703/?value=0&amp;label=rfDyCK-C2AYQ56nK7QM&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
 
