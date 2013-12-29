@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the collectivebias.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211024452id_/http%3A//www.collectivebias.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectivebias.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229172712id_/http%3A//collectivebias.com/privacy.html) for the most accurate reproduction.*
 
 # Collective Bias | Privacy Policy
 
 * **Introduction.**  
-Collective Bias, LLC (“Collective Bias”) cares deeply about your privacy. Our company assists in the creation of social media content. Our innovative programs may gather personally identifiable information from individuals who choose to participate in these programs. We strive to keep this information confidential. We will only collect, store, and use any personal information you provide to us for defined purposes.
+Collective Bias, Inc (“Collective Bias”) cares deeply about your privacy. Our company assists in the creation of social media content. Our innovative programs may gather personally identifiable information from individuals who choose to participate in these programs. We strive to keep this information confidential. We will only collect, store, and use any personal information you provide to us for defined purposes.
 * **Purpose.**  
 This Privacy Policy explains how we handle personal information that you share with Collective Bias. As explained in detail below, our Privacy Policy is designed to provide notice to individuals regarding how their personal information is being collected and used, and to inform individuals that they have a choice as to: (1) whether their personal information is disclosed to third parties, and (2) how their personal information is used for particular purposes.
 * **Information Collection.**
@@ -45,7 +45,7 @@ mailing the details of your request to:
 John Panourgias, Esq.  
 Associate General Counsel/Privacy Officer
 
-Collective Bias, LLC  
+Collective Bias, Inc.  
 25200 Southfield, MI   
 Southfield, MI 48033 [(map)](http://maps.google.com/maps?q=25200+Southfield,+MI++Southfield,+MI+48033&hl=en&ll=42.484251,-83.273621&spn=1.033004,2.469177&sll=37.0625,-95.677068&sspn=35.494074,79.013672&hnear=Courtyard+Detroit+Southfield,+27027+Northwestern+Hwy,+Southfield,+Michigan+48033&t=m&z=9)
 
