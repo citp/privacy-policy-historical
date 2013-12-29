@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the cloud-iq.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622012431id_/http%3A//www.cloud-iq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloud-iq.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229141517id_/http%3A//cloud-iq.com/privacy) for the most accurate reproduction.*
 
 # Privacy - cloud.IQ
 
-Last updated 9th July 2012
-
-## Our Privacy Policy explains:
+### Our Privacy Policy explains:
 
 What information we collect and why we collect it.
 
@@ -16,7 +14,7 @@ What information we collect and why we collect it.
 
 Your privacy matters to cloud.IQ, so whether you are a new or a long-time user, please take the time to read our policy carefully.
 
-## Information that we collect
+### Information that we collect
 
 We collect information to provide better Products and service to all of our users. We collect information in two ways:
 
@@ -25,7 +23,7 @@ We collect information to provide better Products and service to all of our user
 
 
 
-## How we use information that we collect
+### How we use information that we collect
 
 We use the information that we collect from all of our Products to provide, maintain, protect and improve them, to develop new ones.
 
@@ -33,11 +31,11 @@ When you contact cloud.IQ, we may keep a record of your communication to help re
 
 We will ask for your consent before using information for a purpose other than those set out in this Privacy Policy.
 
-## Accessing and updating your personal information
+### Accessing and updating your personal information
 
-When you set up your account with cloud.IQ we will provide you with access to your personal information. If that information is wrong, you will be able to update it or to delete it – unless we have to keep that information for legitimate business or legal purposes. We aim to maintain our Products in a manner that protects information from accidental or malicious destruction.
+When you set up your account with cloud.IQ we will provide you with access to your personal information. If that information is wrong, you will be able to update it or to delete it - unless we have to keep that information for legitimate business or legal purposes. We aim to maintain our Products in a manner that protects information from accidental or malicious destruction.
 
-## Information that we share
+### Information that we share
 
 We will never share any sensitive personal information. We do not share personal information with anyone outside cloud.IQ unless it is:
 
@@ -49,7 +47,7 @@ We will never share any sensitive personal information. We do not share personal
 
 We will share information with companies, organisations or individuals outside cloud.IQ if we have a belief that disclosure of the information is reasonably necessary to meet any law, regulation, or governmental.
 
-## Use of cookies
+### Use of cookies
 
 cloud.IQ use cookies to help us to analyse and understand how people use the website (what they like most, when is the busiest time of day on the site, have people found new content when it is published, etc.). We perform this analysis to help us improve the usage and effectiveness of the website. None of the cookies used on our website collect personally identifiable information about you. Your continued use of this website will indicate your agreement to the use of cookies.
 
