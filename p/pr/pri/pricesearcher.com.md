@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricesearcher.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627184041id_/http%3A//pricesearcher.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricesearcher.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229065220id_/http%3A//pricesearcher.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Price Searcher
 
