@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the postadsdaily.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602012030id_/http%3A//postadsdaily.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postadsdaily.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229092522id_/http%3A//www.postadsdaily.com/privacy.php) for the most accurate reproduction.*
 
-# Post Free Ads > Free Ads Posting > Post Ads For Free
+# PostAdsDaily.com > Post Free Ads, get Traffic & Make Money Online!
 
   
-[](http://www.postadsdaily.com/bannerclick.php?id=10110)
+[](http://www.postadsdaily.com/bannerclick.php?id=9319)
 
 ** PostAdsDaily.com Privacy Policy**
 
@@ -34,6 +34,15 @@ What happens if the Privacy Policy Changes? We will let our Visitors and Authori
 
 Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
-[ Terms & Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) | [FAQ](http://www.postadsdaily.com/faq.php) | [Blog](http://www.postadsdaily.com/blog) > [Recommended Site of the Day](http://www.postadsdaily.com/recommends/index.php)
+[](http://www.postadsdaily.com/bannerclick.php?id=16723)
 
-© Copyright 2013 **PostAdsDaily.com** _All Rights Reserved_
+* * *
+
+[Upgrade to VIP](http://www.postadsdaily.com/offerpage.php "Upgrade to VIP")   |   [Upgrade to PRO](http://www.postadsdaily.com/offerpage2.php "Upgrade to PRO")   |   [x25 Ads Package](http://www.postadsdaily.com/offerpage3.php "x25 Ads Package")   |   [x11 Ads Package](http://www.postadsdaily.com/offerpage4.php "x10 Ads Package")   |   [AutoPost Ads](http://www.postadsdaily.com/members/autopost.php "AutoPost Ads")
+
+* * *
+
+[  
+Terms & Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) > [Recommended Site of the Day](http://www.postadsdaily.com/recommends/index.php)
+
+© Copyright 2008-13 **PostAdsDaily.com** _All Rights Reserved_
