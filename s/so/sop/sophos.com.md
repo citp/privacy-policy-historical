@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sophos.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015035855id_/http%3A//www.sophos.com/en-us/legal/sophos-group-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sophos.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229115444id_/http%3A//www.sophos.com/en-us/legal/sophos-group-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Sophos Group Privacy Policy - Legal - Sophos
 
-This document was last updated on 27 July 2012.
+This document was last updated on 9 July 2013.
 
 ### General
 
@@ -113,7 +113,9 @@ As a global company, we have international sites and users all over the world. W
 
 We may also pass your personal data to suppliers, service providers, subcontractors, agents, distributors, resellers and other partners, some of whom may be located outside the EEA, in order to provide you with the information, products and services that you requested or otherwise for the purposes described in this privacy policy.
 
-Except as set out above, we will not disclose your personal data save where we are obliged or allowed to do so by law, or where we need to do so in order to run our business or enforce our rights.
+In the event that we receive requests from government departments, agencies or other official bodies, we will only disclose your information if and to the extent that we believe we are legally required to do so (for example upon receipt of a court order, warrant, subpoena or equivalent).
+
+Except as set out above, we will not disclose your personal data save where we need to do so in order to enforce our rights.
 
 Whenever we share personal data, we take all reasonable steps to ensure that it is treated securely and in accordance with this privacy policy.
 
@@ -137,4 +139,4 @@ If you want to request any information about your personal data or believe that 
 
 ### Notification of changes
 
-This privacy policy was last updated on 27 July 2012. We reserve the right to amend or vary this policy at any time and the revised policy will apply from the date posted on the Site. You accept that by doing this, we have provided you with sufficient notice of the amendment or variation.
+This privacy policy was last updated on 9 July 2013. We reserve the right to amend or vary this policy at any time and the revised policy will apply from the date posted on the Site. You accept that by doing this, we have provided you with sufficient notice of the amendment or variation.
