@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emoiz.com privacy policy that was archived on 2013-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130305021246id_/http%3A//www.emoiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emoiz.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229173043id_/http%3A//www.moiz.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MOIZ.CO.UK
+# MOIZ.CO.UK » Privacy Policy
 
 We keep and maintain our visitors information while they visit **EMOIZ.COM** or create an account on it. We just use this information to evaluate the interests, likes, dislikes and preferences of our visitors. Here we conform that your stored data on our side is completely safe and we are not allowed to sell it to anyone else. Furthermore, you can read our following statement, which tells that what type of visitor information we keep.
 
@@ -16,8 +16,6 @@ We maintain the log files to keep the information of visitors. Information store
 
 
 **Cookies**  
-[](http://www.naeem.pk/) [](http://www.histats.com/ "counter")
-
 We use web Cookies to store visitors or account holders information on **EMOIZ.COM**. Cookies keep track of your authentication, session tracking. These just relate to your site preferences and we use it to maintain user information. Moreover, cookies depict the visitor interaction with our site.
 
 **Advertisers**  
