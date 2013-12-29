@@ -1,0 +1,293 @@
+<!--The following is the downloaded HTML source of the mydesktop.com.au privacy policy that was archived on 2013-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131229015827id_/http%3A//mydesktop.com.au/cgi-bin/clients/mydesktop-new/privacy.cgi) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+<title>MyDesktop - Real Estate Software Australia New Zealand</title>
+
+<meta name="description" content="MyDesktop is the industry leading web-based sales, listing and CRM technology that helps you run a successful real estate agency">
+<meta name="keywords" content="MyDesktop, Real Estate, Software, Australia, New Zealand">
+<meta name="robots" content="index, follow">
+
+
+<base href="http://mydesktop.com.au">
+
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+<link rel="Shortcut Icon" href="favicon.ico">
+
+<link rel="stylesheet" type="text/css" href="includes/css/global.css">
+
+
+<script src="includes/js/jquery-1.7.1.min.js" type="text/javascript"></script>
+<script src="includes/js/login.js" type="text/javascript"></script>
+
+<link rel="stylesheet" type="text/css" href="includes/css/colorbox.css">
+<script src="includes/js/jquery.colorbox.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		$(".youtube").colorbox({iframe:true, innerWidth:425, innerHeight:344});
+	});
+</script>
+
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		  $("#username").keypress(function(event) {
+				  if(event.which==13){
+						   $('#loginform').submit()
+				  }
+		 });
+		  $("#password").keypress(function(event) {
+				  if(event.which==13){
+						   $('#loginform').submit()
+				  }
+		 });
+	});
+</script>
+
+
+<!-- Contact Form -->
+<script src="includes/js/contact-form.js" type="text/javascript"></script>
+
+<!-- Cufon -->
+<script src="includes/js/cufon-yui.js" type="text/javascript"></script>
+<script type="text/javascript" src="includes/js/Avenir_LT_65_Medium_400-Avenir_900.font.js"></script>
+
+<script type="text/javascript">
+	Cufon.replace('h1', { fontFamily: 'Avenir LT 65 Medium' });
+	Cufon.replace('h2', { fontFamily: 'Avenir' });
+	Cufon.replace('h3', { fontFamily: 'Avenir' });
+	Cufon.replace('h4', { fontFamily: 'Avenir' });
+	Cufon.replace('h5', { fontFamily: 'Avenir LT 65 Medium' });
+	Cufon.replace('h6', { fontFamily: 'Avenir LT 65 Medium' });
+	Cufon.replace('.global-nav ul li a', { fontFamily: 'Avenir LT 65 Medium' });
+	Cufon.replace('.solution-row li a span.head', { fontFamily: 'Avenir' });
+	Cufon.replace('.charter-row li span.head', { fontFamily: 'Avenir' });
+	Cufon.replace('.sidenav li a', { fontFamily: 'Avenir LT 65 Medium' });
+</script>
+
+<!-- Accordion -->
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		$('div.login-btn').toggle(function() {
+                $('div.login-box').removeClass('current');
+                $(this).next().slideDown('normal');
+                $(this).next().addClass('current');
+                $('div.login-box:not(.current)').slideUp('normal');
+          },function() {
+              if (!$(".login-box").is(":visible")) {
+                    $('div.login-box').removeClass('current');
+                    $(this).next().slideDown('normal');
+                    $(this).next().addClass('current');
+                    $('div.login-box:not(.current)').slideUp('normal');
+              } else {
+                  $(this).next().slideUp('normal');
+              }
+          });
+//          $(".bodyContent, .bodyNav, .cufon-canvas").click(function () {
+//              $("div.login-box").slideUp('normal');
+//          });
+          $(".client-login").mouseleave(function () {
+              $("div.login-box").slideUp('normal');
+          });
+          $("div.login-box").hide();
+	});
+</script>
+
+<script type="text/javascript">
+	$(document).ready(function() {
+        var $prev_accordion_id = "";
+        $('div.accordionButton').click(function() {
+            var parts = $(this).attr("class").split(" ");
+            var accordion_content = parts[2];
+            if ($prev_accordion_id !== accordion_content) {
+                $(this).parent().children("div.accordionButton").each(function(){
+                    $(this).removeClass("current").removeClass("open").next().slideUp("normal");
+                });
+            }
+            if (accordion_content.length > 1) {
+                $("#"+accordion_content).slideDown("normal").addClass("current");
+                $(this).addClass("open");
+                $prev_accordion_id = accordion_content;
+            }
+        });
+        $("div.accordionContent").hide();
+		$(".accordionContent.current").slideDown();
+	});
+</script>
+
+</head>
+
+<body>
+<!--[if lt IE 7]><script src="includes/js/ie6_warning.js"></script><script>window.onload=function(){e("includes/js/ie6_warning/")}</script><![endif]-->
+
+
+<script type="text/javascript">
+  function Login() {
+        if ($('#username').val() == 'Username' && $('#password').val() == 'Password') {
+                alert('Please enter your username and password.');
+        } else {
+                $('#loginform').submit()
+        }
+
+        return false;
+  }
+</script>
+
+<div class="bodyTop">
+        <div class="wrap">
+            <div class="inner-wrap">
+
+                  <div class="header">
+                      <a href="/cgi-bin/clients/mydesktop-new/index.cgi"><img src="images/md-logo.png" alt="MyDesktop" class="logo"></a>
+                      <h1>The industry leading web-based sales, listing and <br>CRM technology that helps you run a successful real estate agency</h1>
+
+                      <div class="client-login login-less">
+                        <div class="login-btn"><h2>Client login</h2></div>
+                            <div id="a1" class="login-box">
+                            <form id="loginform" name="loginform" action="http://login.desktop.com.au/cgi-bin/clients/agents/login.cgi" method="post">
+                                <fieldset>
+                                    <legend>Client login</legend>
+                                    <input class="user" type="text" name="myusername" id="username" value="Username">
+                                    <input class="pass" type="password" name="mypassword" id="password" value="Password">
+                                </fieldset>
+                            </form>
+                            <p><a href="#" onclick="return Login();">› login now</a>&nbsp;&nbsp;<!--<a href="#">&rsaquo; forgot password?</a>--></p>
+                        </div><!-- login-box -->
+                    </div><!-- client-login -->
+
+                  </div><!-- header -->
+
+
+            </div><!-- innerwrap -->
+        </div><!-- wrap -->
+
+</div><!-- bodyTop -->
+
+
+<div class="bodyNav">
+    <div class="wrap">
+        <div class="inner-wrap">
+
+              <div class="global-nav">
+                                <ul>
+                                <li><a href="/cgi-bin/clients/mydesktop-new/index.cgi">Home</a></li>
+                            <li><a href="/cgi-bin/clients/mydesktop-new/clients.cgi">About us</a>
+                                <ul id="subnav">
+                                    <li><a href="/cgi-bin/clients/mydesktop-new/charter.cgi">Customer charter</a></li>
+                                    <li><a href="/cgi-bin/clients/mydesktop-new/clients.cgi" class="special">Our clients</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="/cgi-bin/clients/mydesktop-new/products.cgi">Products</a></li>
+                            <li><a href="/cgi-bin/clients/mydesktop-new/partners.cgi">Partners</a></li>
+                            <li><a href="/cgi-bin/clients/mydesktop-new/support.cgi">Support</a>
+                                <ul id="subnav-2">
+                                        <li><a href="/cgi-bin/clients/mydesktop-new/support.cgi">Support</a></li>
+                                    <li><a href="/cgi-bin/clients/mydesktop-new/training.cgi">Training</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="/cgi-bin/clients/mydesktop-new/contact.cgi">Contact us</a></li>
+                        </ul>
+              </div><!-- global-nav -->
+
+        </div><!-- innerwrap -->
+    </div><!-- wrap -->
+</div><!-- bodyNav -->
+
+
+<div class="bodyContent">
+<div class="wrap">    
+  <div class="content-inner std-content">  
+    
+    
+        <div class="largehalf-row-padded">      
+       		<h2>Privacy Policy</h2>       
+       		  <p><strong>Commerce Australia Internet Privacy Statement</strong> Commerce Australia is committed to protecting the privacy of those who access  its Internet site and is committed to complying with the Privacy Act, 1988 and  the associated National Privacy Principles ("the NPP's"). </p>
+              <p>It is important that readers of this statement note  that Commerce Australia may change its Internet privacy statement and privacy  policy from time to time as part of the Commerce Australia commitment to  ensuring that it complies with all of its obligations under the NPPs. </p>
+              <p>Persons who access the Commerce Australia Internet  site are urged to check to see whether Commerce Australia has amended its  Internet privacy statement or privacy policy by returning to this site from  time to time. To assist in this process, the date of the last update to this  Internet privacy statement is recorded at the top of this statement. </p>
+              <p>Information collected on the Commerce Australia  Internet site and use of that information Commerce Australia will only record  your email address if you send Commerce Australia a message. That address will  only be used for the purpose for which you have provided it and it will not be  added to a mailing list or used for any other purpose without your prior  consent. </p>
+              <p>Commerce Australia collects information on its  Internet site when Commerce Australia members or the public complete on-line  forms. When information is provided to Commerce Australia in this way that  information will only be used for a purpose made known to you; a purpose you  would reasonably expect; a purpose required, authorised or permitted by any  law; or a purpose otherwise authorised by you. </p>
+              <p>Persons who do not wish their personal information  to be used for any particular purpose should not hesitate to advise Commerce  Australia of that fact. Commerce Australia will respect those wishes. Links to  the third party websites The Commerce Australia Internet site may contain links  to other websites. </p>
+              <p>These websites are conducted by third parties and  Commerce Australia does not control the content or the information collected on  these websites. You should refer to those websites directly or to the authors  of those sites to obtain details of the privacy policies relevant to those web  pages. </p>
+              <p><strong>Further information</strong> Should  any person have any queries regarding the Commerce Australia use of personal  information in relation to its Internet site or have any other queries  regarding the Commerce Australia Privacy Policy they should not hesitate to  contact Commerce Australia on <a href="mailto:info@ca.com.au">info@ca.com.au</a></p>
+        </div><!-- fullrow -->    
+                           
+            
+         <div class="tinyhalf-row">    
+         	<h3>Quick links</h3>  
+            <ul class="sidenav">
+                <li><a href="/cgi-bin/clients/mydesktop-new/products.cgi">Account types</a></li>
+                  <li><a href="/cgi-bin/clients/mydesktop-new/privacy.cgi">Privacy policy</a></li>
+            </ul>
+		 </div><!-- fullrow -->              
+            
+            
+        
+    </div><!-- content-inner -->
+</div><!-- wrap -->
+</div><!-- bodyContent -->
+
+
+<div class="bodyBtm">
+<div class="wrap">
+
+    <div class="inner-wrap">
+        <div class="global-footer">
+            <a href="/cgi-bin/clients/mydesktop-new/index.cgi" class="footer-logo"><img src="images/md-logo-footer.png" alt="MyDesktop"></a>
+
+                <div class="footer-box">
+                    <h4>Products</h4>
+                    <ul>
+                        <li><a href="/cgi-bin/clients/mydesktop-new/products.cgi">Multi site bulk uploading </a></li>
+                        <li><a href="/cgi-bin/clients/mydesktop-new/products.cgi">CRM (buyer / tenant matching)</a></li>
+                        <li><a href="/cgi-bin/clients/mydesktop-new/products.cgi">SMS / email campaigns</a></li>
+                    </ul>
+                </div><!-- footer-box -->
+
+
+          <div class="footer-box">
+            <h4>Getting started</h4>
+              <ul>
+                  <li><a href="/cgi-bin/clients/mydesktop-new/products.cgi">Account types</a></li>
+                  <li><a href="/cgi-bin/clients/mydesktop-new/privacy.cgi">Privacy policy</a></li>
+              </ul>
+            </div><!-- footer-box -->
+
+
+                 <div class="footer-box">
+                    <h4>Follow us on</h4>
+                    <ul class="socials">
+                        <li><a onclick="window.open('https://twitter.com/adam_campbell')" href="javascript:void()" class="twitter">Twitter</a></li>
+                        <li><a onclick="window.open('http://www.youtube.com/user/mydesktopAUNZ')" href="javascript:void()" class="tube">YouTube</a></li>
+                    </ul>
+                </div><!-- footer-box -->
+
+        </div><!-- global-footer -->
+
+
+    </div><!-- inner-wrap -->
+
+</div><!-- wrap -->
+</div><!-- bodyBtm bodyBtm -->
+
+
+<div class="bodyFooter">
+<div class="wrap">
+   
+    <div class="inner-wrap">
+        <div class="copyright">
+            <p> © <!--?php echo date("Y"); ?-->  Commerce Australia.  All rights reserved. <a onclick="window.open('http://www.websiteblue.com/')" href="javascript:void()">Web Design Brisbane</a></p>
+        </div><!-- copyright -->
+
+    </div><!-- inner-wrap -->
+
+</div><!-- wrap -->
+</div><!-- bodyBtm bodyFooter -->
+
+
+<script type="text/javascript"> Cufon.now(); </script>
+
+
+</body></html>
