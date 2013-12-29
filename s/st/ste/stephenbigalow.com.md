@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stephenbigalow.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628094807id_/http%3A//stephenbigalow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stephenbigalow.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229123038id_/http%3A//stephenbigalow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
