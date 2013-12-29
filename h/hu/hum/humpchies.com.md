@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humpchies.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501075212id_/http%3A//www.humpchies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humpchies.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230001043id_/http%3A//www.humpchies.com/privacy) for the most accurate reproduction.*
 
 # Escorts & Erotic Massages in & Near Montreal
 
