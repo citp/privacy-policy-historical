@@ -1,99 +1,220 @@
-> *The following text is extracted and transformed from the cooking.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630220123id_/http%3A//www.cooking.com/help/detail/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooking.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229163532id_/http%3A//www.cooking.com/help/detail/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Cooking.com
 
-  
-Our Pledge   
-Use of Personal Information: What we collect & how we use it   
-Information Shared with Third Parties   
-Changing Your Information or Unsubscribing   
-Links to/from Other Sites   
-Cookies   
-AOL Certified Merchant   
-Notice of Changes
+At Cooking.com, we want you to know how we collect, use, share and protect information about you. By interacting with Cooking.com, you consent to use of information that is collected or submitted as described in this privacy policy. We may change or add to this privacy policy, so we encourage you to review it periodically. To help you track the changes, we include a history of changes below.
 
-Our pledge to you, our customer  
-Cooking.com respects your privacy. Our Internet site is meant to be a service to you. In order to provide you with the best products, timely information and quality customer service, we record a variety of information from your visit to our site. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
+Cooking.com is a wholly-owned subsidiary of Target Corporation.
 
-Your personal information: what we collect and how we use it
+### 1\. What Personal Information is Collected?
 
-* When you enter personal information in to the Shopping Cart, we collect your name, address, telephone number, e-mail address and credit card information. First, we use this information to fulfill your order and to communicate with you about your order. In fulfilling your order, we share your personal information with outside parties to the extent necessary to fulfill your order. In addition, 
+Types of personal information we collect include:
 
-a. Your First Use of the Shopping Cart at Cooking.com \- We use the information you provide to: 
+  * Your name 
+  * Your mailing address 
+  * Your e-mail address 
+  * Your phone (or mobile) number 
+  * Your drivers' license number 
+  * Your credit/debit card number 
+  * Your purchase/return/exchange information 
+  * Your registry event information 
+  * Your date of birth or age 
+  * Your interests and product preferences 
+  * Your friend’s names, e-mail addresses, and mailing addresses 
+  * Messages you write when you send recipes
 
-  * automatically place you on our e-mail list to receive special offers and updates about products and services, unless you edit your subscription profile at the time your order is placed; and 
-  * make lists of our customers' names and postal addresses (but not e-mail addresses or phone numbers) available to pre-screened companies who have specific direct mail (e.g. catalog) product or service offers that we think may be of interest to you. 
 
-b. Your Subsequent Use of the Shopping Cart at Cooking.com \- If you have purchased a product from a Cooking.com company before, unless you edit your subscription profile at the time your order is confirmed, your subscription status will remain unchanged.
 
-Whether you are using the Shopping Cart for the first time or not, if you later decide that you want to be removed from a list or do not want us to share your name and postal address information, simply follow the instructions in the section "Reviewing, Changing Your Information or Unsubscribing" below.
+If you choose not to provide personal information we may not be able to provide you with requested products, services or information.
 
-* When you send a gift and want it sent directly to the recipient, you will need to submit the recipient's name and postal address. We use this information only to ship the product and confirm delivery. We do not share this information with outside parties except to the extent necessary to fulfill that order. Information you provide us to create a gift-card is only used for that purpose, and it is only disclosed to the person receiving the gift.
-* When you subscribe to our e-mail newsletters, we collect your e-mail address so that we can send you our e-mail newsletters with special offers and updates about products and services. You can unsubscribe from one or more of our e-mail newsletters at any time by (i) clicking the unsubscribe link at the bottom of any electronic newsletter that you receive from us; or (ii) following the steps outlined below in the section "Reviewing, Changing Your Information or Unsubscribing." 
-* When you ask that we e-mail you when a product is back in stock, we collect your name and e-mail address and use this information to e-mail you information on when the product is back in stock. Unless you uncheck the box at the time of making the request, we automatically place you on our e-mail newsletter list to receive Cooking.com Companies e-mail newsletters, special offers and/or new products and new services. You can unsubscribe from one or more of our e-mail newsletters at any time by (i) clicking the unsubscribe link at the bottom of any electronic newsletter that you receive from us; or (ii) following the steps outlined below in the section "Reviewing, Changing Your Information or Unsubscribing."
-* When you send us an e-mail to support@cooking.com, we collect your name and e-mail address and use this to reply. We may also place you on our Cooking.com Companies e-mail newsletter list to receive our e-mail newsletters with special offers, new products and new services. You can unsubscribe from one or more of our e-mail newsletters at any time by (i) clicking the unsubscribe link at the bottom of any electronic newsletter that you receive from us; or (ii) following the steps outlined below in the section "Reviewing, Changing Your Information or Unsubscribing."
-* When you ask that we e-mail a recipe to one of your friends, we collect your name and e-mail address, your friend’s name and e-mail address and the message you write. We use your friend’s name and e-mail address only to send them the link to the recipe and to send them your message. Unless you uncheck the box at the time of making your request, we use your name and e-mail address to place you on our e-mail newsletter lists to receive Cooking.com Companies e-mail newsletters with special offers, new products and new services. You can unsubscribe from one or more of our e-mail newsletters at any time by (i) clicking the unsubscribe link at the bottom of any electronic newsletter that you receive from us; or (ii) following the steps outlined below in the section "Reviewing, Changing Your Information or Unsubscribing."
-* When you enter a sweepstakes sponsored by Cooking.com, we may ask for any or all of the following information: your name, postal address, e-mail address and telephone number. Check the official rules or the actual sweepstakes for what information is requested for any individual sweepstakes. Unless the official rules for a particular sweepstakes provide otherwise, when you provide your e-mail address you will be signed up for Cooking.com Companies e-mail newsletters and, if you provide us with your postal address, you will be added to our direct mail/catalog list. You can unsubscribe from the e-mail newsletters and/or direct mail/catalog list at any time by following the instructions in the section below "Reviewing, Changing Your Information or Unsubscribing."
-* When you register at My Cooking.com, we collect your name, address, telephone number and e-mail address. You can use My Cooking.com to update your account information, save addresses where you have sent products, track orders, create a personal wish list and save your favorite recipes. We also use the information you provide to:
+### Automated Information Collection 
 
-  * automatically place you on our e-mail lists to receive special offers and updates about products and services; and 
-  * automatically place you on our direct mail/ catalog list to receive from us direct mail and printed catalogs with special offers and updates about products and services. 
-  * automatically send you emails to collect feedback related to your purchases. 
+#### Cooking.com Automated Collection 
 
-If you want to be removed from a list, simply follow the instructions in the section "Reviewing, Changing Your Information or Unsubscribing" below.
-* If you are part of a rewards or incentive program such as American Airline's AAdvantage Program that gives you "points" or other incentives for purchasing product on our website, we will share your information with the operator of the rewards or incentive program in order to enable them to credit you with the purchase.
+We and our service providers use cookies, web beacons, and other technologies to receive and store information whenever you interact with our website through your computer or mobile device. This information, which includes the pages you visit on our site, which web address you came from, the type of browser/device/hardware you are using, , search terms and IP-based geographic location, helps us customize your website experience and make our marketing messages more relevant. This includes content presented on another website or mobile application. These technologies also enable us to provide features such as storage of items in your cart between visits, to improve site design, product assortments, and customer service.
 
-Information about customers and visitors shared with third parties
+In order to provide the best guest experience possible, we also use these technologies for reporting and analysis purposes, including how you use our website and the performance of our marketing efforts.
 
-* As described in the section "When you enter personal information into the Shopping Cart", in addition to being placed on our e-mail newsletter list and direct mail/catalog list, we may make your name and postal address available to pre-screened companies who have specific direct mail (e.g. catalog) product or service offers that we think may be of interest to you. If you do not want us to share your name and postal address information, simply follow the instructions in the section below "Reviewing, Changing Your Information or Unsubscribing." 
-* We also share information about our customers and visitors with trusted service providers who provide Cooking.com with specific services and/or administer activities offered on the Cooking.com site. (For example, we may provide customer information to companies that analyze our clickstream data in order to help us better design our site.) 
-* We also may use non-identifying and aggregate information (as opposed to identifiable individual information) about our customers and/or visitors to better design our website and we may provide it to advertisers and other third parties.  
+#### Third-Party Automated Collection
 
-* We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here [Third Party Advertising](http://www.networkadvertising.org/optout_nonppii.asp).  
+We allow third-party companies to collect information when you visit our website and to use that information to serve ads for products or services or for the products or services of other companies when you visit this website or other websites. These companies collect non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, hardware/software information, MAC address, cookie and session ID, and IP address) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These parties typically use a cookie or a third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, visit the [Network Advertising Initiative website](http://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance website.](http://aboutads.info/)
 
-* Upon completing your purchase, we may present offers on behalf of third party partners on the order confirmation page. If you click on some of these promotional links and accept the offer(s), we will send your personal information to this party to complete the transaction. We do not share this information without your consent.   
+### Social Media Widgets 
 
-* We may share your personally identifiable information with participating sponsors to a program or promotion (e.g., a sweepstakes or contest) you enter via our web site. Further, we may share your personally identifiable information with third parties such as our co-marketing partners and others with whom we have marketing or other relationships. In some cases those participating sponsors and third parties may offer you products or services which may interest you.   
+Cooking.com includes social media features, such as the Facebook Like button and the Google Plus, Pinterest, and Twitter widgets. These features may collect information about your IP address and which page you’re visiting on our site, and they may set a cookie to make sure the feature functions properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with those features are governed by the privacy policies of the companies that provide them.
 
-* On rare occasions, we may disclose specific information upon governmental request, in response to a court order, when required by law to do so, or protect the rights, property, or safety of Cooking.com, our users, or others. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.
+### Information from Other Sources
 
-Reviewing, Changing Your Information or Unsubscribing  
-At any time you can unsubscribe, correct or update your information or modify your preferences pertaining to our newsletters, catalog and mailing list.
+We collect data about you that’s publicly available. For example, information you submit in a public forum (e.g. a blog, chat room, or social network) can be read, collected, or used by us and others, and we may use it to personalize your experience with us. You are responsible for the information you choose to submit in these instances.
 
-* To review, change or update information, as it pertains to our newsletters, you have several options:
+We also obtain information about you from other third parties. For instance, we obtain information from companies that can enhance our existing guest information to improve the accuracy and add to the information we have about our guests (for example, by adding or updating address information).
 
-  * On the Cooking.com Site. Click on the "Help" button at the top of the home page then on the appropriate link under the "subscriptions" to change your information. 
-  * By e-mail. Send an email request to [Customer Service](https://web.archive.org/web/20130630220123id_/http%3A//www.cooking.com/help/Contact-Us). 
+Our collection of these types of information improves our ability to contact you and increases the relevance of our marketing by providing better product recommendations or special offers that may interest you.
+
+### 2\. How is Your Information Used?
+
+In addition to the uses described elsewhere in this privacy policy, examples of how we use the information we collect include: 
+
+#### Product and Service Fulfillment 
+
+  * Fulfill and manage purchases, orders, payments, returns/exchanges, or requests for information about our products and services on our, website and mobile website, or to otherwise serve you 
+  * Connect with us regarding guest service via our contact center, or on social media platforms Administer sweepstakes and contests Our Marketing Purposes 
+  * Deliver catalogs coupons, newsletters, receipt messages or other offerings by mail, e-mail, mobile, and social media 
+  * Provide interactive features of the website and other information regarding products, services and promotions
+
+
+
+#### Internal Operations
+
+  * Improve the effectiveness of our website and marketing efforts, merchandise selections, guest service, and overall shopping experience 
+  * Conduct research and analysis, including focus groups and surveys 
+  * Perform other business activities as needed, or as described elsewhere in this policy
+
+
+
+#### Fraud Prevention
+
+  * To prevent fraudulent transactions, monitor against theft and otherwise protect our guests and our business
+
+
+
+#### Legal Compliance
+
+  * For example, assist law enforcement and respond to legal/regulatory inquiries
+
+
+
+### 3\. How is Your Information Shared?
+
+#### Target Corporation
+
+We share the information we collect within Target Corporation, which includes all Target subsidiaries and affiliates.
+
+Target Corporation may use this information to offer you products and services that may be of interest to you.
+
+Target Corporation owns Target Stores and Target web sites. Target Corporation subsidiaries and affiliates include, but are not limited to: Target Bank, Target Canada, Target Commercial Interiors, TCC Cooking Co. (Cooking.com and CHEFS Catalog) and Dermstore LLC (Dermstore.com, Blush.com, and Hairenvy.com).
+
+#### Service Providers
+
+We may share the information we collect with companies that provide support services to us (such as a printer, e-mail, mobile marketing, analytics providers, web hosting providers, call center service providers, sweepstakes vendors, payment processors, coupon delivery vendors, or data enhancement provider) or that help us market our products and services. These companies may need information about you in order to perform their functions.
+
+These companies are not authorized to use the information we share with them for any other purpose.
+
+#### Legal Requirements
+
+We may disclose information we collect when we believe disclosure is appropriate to comply with the law; to enforce or apply applicable terms and conditions and other agreements; or to protect the rights, property or safety of our company, our guests or others.
+
+#### Elsewhere at Your Direction
+
+At your direction or request, we may share your information. For example, if you create a gift registry or shopping list and elect to make it available to the public, your information will be accessible on our website, mobile or social applications, and in our stores.
+
+#### Sharing with Other Companies (for their marketing purposes)
+
+Cooking.com may share your personal information with other companies, or organizations which are not part of Cooking.com or Target Corporation. These companies and organizations may use the information we share to provide special offers and opportunities to you. To opt out of our sharing of your personal information with such companies and organizations go to the Choice section of this privacy policy.
+
+#### Sharing Aggregate Information with Third Parties
+
+We may share aggregate information (information that does not directly identify an individual) with third parties for lawful purposes.
+
+#### Business Transfers
+
+If some or all of our business assets are sold or transferred, we may transfer the corresponding information regarding our guests. We also may retain a copy of that guest information.
+
+### 4\. What Choices Do You Have?
+
+#### Postal Mail
+
+If you do not wish to receive catalogs, coupons, and other promotional mail, contact us:
+
+  * By e-mail. Send an email request to [Customer Service](http://www.cooking.com/help/contact-us/)
   * By postal mail. Please include your email address and mail your request to us at 4086 Del Rey Avenue, Marina Del Rey, CA 90292: Attention: Customer Service. 
-  * By phone. Call toll-free at (800) 663-8810 in the USA and Canada.  
-(310) 450-3270 outside USA and Canada. 
+  * By phone. Call toll-free at (800) 663-8810 in the USA and Canada or (310) 664-1275 outside USA and Canada.
 
 
-* To review, change or update information as it pertains to our catalog or the sharing of your name and postal address with third parties who offer a product or service we think may be of interest to you, you have several options: 
 
-  * On the Cooking.com Site. Click on the "Help" button at the top of the home page then on the appropriate link under the “subscriptions" to change your information. 
-  * By e-mail. Send an email request to [Customer Service](https://web.archive.org/web/20130630220123id_/http%3A//www.cooking.com/help/Contact-Us). 
-  * By postal mail. Please follow [these instructions](https://web.archive.org/web/20130630220123id_/http%3A//www.cooking.com/help/detail/extras/mail_printout.htm) and mail your request to us at 4086 Del Rey Avenue, Marina Del Rey, CA 90292: Attention: Customer Service. 
-  * By phone. Call toll-free at (800) 663-8810 in the USA and Canada.  
-(310) 450-3270 outside USA and Canada. 
+#### E-mail
 
-To protect your privacy and security, we will take reasonable steps to verify your identity before granting access to this information or making corrections.Requests to be unsubscribed will be processed immediately, however you may receive additional newsletters for up to 1 week. Delays may occur if the email address or postal address information you provide us does not match the information in our database.
+Upon ordering or creating an account at Cooking.com, you will receive promotional e-mails from Cooking.com. You always have the ability to "opt-out" or stop receiving promotional e-mails by clicking the unsubscribe link in the email, logging into your account and managing your preferences, or contacting Customer Service [here](http://www.cooking.com/help/contact-us/) or via phone at 800-663-8810.
 
-Links to/from Other Sites  
-To enhance your shopping experience, the Cooking.com site may have links to other sites on the Internet that are owned by third party vendors and other third parties (External Sites), or you may come to Cooking.com from a link from an External Site. These other web sites will have their own rules on privacy that you should review. Cooking.com is not responsible for the privacy policies of External Sites.
+If you choose to "opt-out," we will stop sending you promotional e-mails, but will still send you order confirmations and shipping notice emails.
 
-Cookies  
-Cooking.com uses a feature of your Internet Web browser called a cookie to assign an identification code to your computer. Cookies are files that your Web browser places on your computer’s hard drive. We do not and cannot use cookies to retrieve personal information about you from your computer unless such information was knowingly and willingly provided by you. Cookies do not provide us with access to any credit card information.
+#### Sharing with Other Companies (for their marketing purposes) 
 
-Third Party Cookies  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.   
-Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to http://www.aboutads.info/choices. 
+If you do not want Cooking.com to share information about you with other companies (for their marketing purposes) contact us:
 
-Our Commitment to Data Security  
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+  * By e-mail. Send an email request to [Customer Service](http://www.cooking.com/help/contact-us/)
+  * By postal mail. Please include your email address and mail your request to us at 4086 Del Rey Avenue, Marina Del Rey, CA 90292: Attention: Customer Service. 
+  * By phone. Call toll-free at (800) 663-8810 in the USA and Canada or (310) 664-1275 outside USA and Canada.
 
-Cooking.com is an AOL Certified Merchant  
-As a Certified Merchant of America Online, we have agreed to abide by [AOL’s Privacy Policy](http://legal.web.aol.com/policy/aolpol/privpol.html). To read more about this policy, please visit AOL’s Privacy Policy. If you have further questions about Cooking.com’s privacy policy, please direct your inquiries to us via [e-mail](https://web.archive.org/web/20130630220123id_/http%3A//www.cooking.com/help/Contact-Us).
 
-Notice of Changes  
-Cooking.com’s Privacy Policy is subject to change without notice. At any time, you may visit our website to view the current policy.
+
+#### Cookies
+
+The help function of your browser should contain instructions to set your computer to accept all cookies, to notify you when a cookie is issued, or to not receive cookies at any time. If you set your computer to not receive cookies at any time, certain personalized services cannot be provided to you, and accordingly, you may not be able to take full advantage of all of the Cooking.com features (i.e. you will be able to browse the site, but may not be able to make a purchase).
+
+#### Third Party Cookies
+
+To opt out of third-party cookies used for online behavioral advertising purposes, visit the [Network Advertising Initiative website](http://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance website.](http://aboutads.info/)
+
+Other web site analytics services – for example, Site Catalyst by Adobe Analytics provides services that analyze information regarding visits to Target.com They use cookies and web beacons to collect this information.
+
+  * To learn about Adobe Analytics privacy practices or to opt out of cookies set to facilitate reporting, click [here](http://www.omniture.com/en/privacy/policy)
+
+
+
+#### California Residents
+
+If you are a California resident and have an established business relationship with Cooking.com you can request a notice disclosing the categories of personal information shared with third parties, for the third parties’ direct marketing purposes, during the preceding calendar year. To request a notice, please submit your request to: 
+
+Cooking.com
+
+Attn: California Shine the Light Inquiry
+
+4086 Del Rey Avenue
+
+Marina Del Rey, CA 90292
+
+Please allow 30 days for a response.
+
+### 5\. How Do You Access and Update Your Personal Information? 
+
+To review, change or update information, as it pertains to our newsletters, you have several options:
+
+  * On the Cooking.com Site. Click on the "Help" button at the top of the home page and then on [Modify My Subscription](http://www.cooking.com/checkout/newsletterpreferencesmodification.aspx) under “Cooking.com Newsletter” to change your information. 
+  * By e-mail. Send an email request to [Customer Service](http://www.cooking.com/help/contact-us/)
+  * By postal mail. Please include your email address and mail your request to us at 4086 Del Rey Avenue, Marina Del Rey, CA 90292: Attention: Customer Service. 
+  * By phone. Call toll-free at (800) 663-8810 in the USA and Canada or (310) 664-1275 outside USA and Canada. 
+
+
+
+### 6\. How is Your Personal Information Protected?
+
+#### Security Methods
+
+We maintain administrative, technical and physical safeguards to protect your personal information. When we collect or transmit sensitive information such as a credit or debit card number, we use industry standard methods to protect that information. However, no e-commerce solution, website, database or system is completely secure or “hacker proof.” You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse.
+
+#### E-mail Security
+
+"Phishing" is a scam designed to steal your personal information. If you receive an e-mail that looks like it is from us asking you for your personal information, do not respond. We will never request your password, user name, credit card information or other personal information through e-mail.
+
+#### Children’s Personal Information
+
+We recognize the particular importance of protecting privacy where children are involved. We do not knowingly collect personally identifiable information online from children under the age of 13. If a child under the age of 13 has provided us with personally identifiable information online, we ask that a parent or guardian contact us or call (800) 663-8810 in the USA and Canada or (310) 664-1275 outside USA and Canada.
+
+### 7\. How Do You Contact Cooking.com?
+
+By Postal Mail:
+
+Cooking.com
+
+4086 Del Rey Avenue
+
+Marina Del Rey, CA 90292
+
+By Phone: Call toll-free at (800) 663-8810 in the USA and Canada or (310) 664-1275 outside USA and Canada.
+
+By E-mail: Send an email request to [Customer Service](http://www.cooking.com/help/contact-us/)
+
+### 8\. Cooking.com Privacy Policy Revisions
+
+Last update: 11/20/2013
