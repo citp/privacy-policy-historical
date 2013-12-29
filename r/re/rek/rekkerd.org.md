@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rekkerd.org privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609213330id_/http%3A//rekkerd.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rekkerd.org privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229043201id_/http%3A//rekkerd.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy for rekkerd.org at rekkerd.org
+# Privacy policy for rekkerd.org – rekkerd.org
 
 rekkerd.org recognizes that your privacy and personal information may be important to you. In this privacy policy you will find what types of personal information rekkerd.org receives and collects when you visit the website, and how your information is safeguarded.
 
