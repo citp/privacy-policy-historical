@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlamp.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614031615id_/http%3A//oreilly.com/oreilly/privacy.csp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlamp.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229072518id_/http%3A//oreilly.com/oreilly/privacy.csp) for the most accurate reproduction.*
 
 # Privacy Policy
 
