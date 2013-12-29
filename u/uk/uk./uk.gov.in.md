@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the uk.gov.in privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514004747id_/http%3A//uk.gov.in/pages/display/147-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uk.gov.in privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229020025id_/http%3A//uk.gov.in/pages/display/147-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: Uttarakhand Government Portal, India
 
-  * The new website of Land Records website "Devbhoomi" is available at http://devbhoomi.uk.gov.in and it can be accessed from anywhere.
-  * New re-vamped website of USIDCL - Uttarakhand State Industrial Development Corporation (http://usidcl.gov.in) released with effect from 18/04/2011.
+  * ******Merry Christmas and Happy New Year 2014******Merry Christmas and Happy New Year 2014******Merry Christmas and Happy New Year 2014******
 
 
 
