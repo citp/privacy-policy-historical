@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bell.ca privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603065737id_/http%3A//support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bell.ca privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229073820id_/http%3A//support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy) for the most accurate reproduction.*
 
 # How does Bell respect my privacy? : Privacy at Bell
 
@@ -44,7 +44,7 @@ K1A 1H3
 1 800 282-1376  
 [www.priv.gc.ca](http://www.priv.gc.ca/)
 
-Last Update:22/04/2013
+Last Update:23/10/2013
 
   
 
@@ -55,24 +55,24 @@ Last Update:22/04/2013
 
 Personal information can include:
 
-  * Your name, address and phone number(s). 
-  * Other information about the Bell product(s) that you subscribe to, such as calling features or Bell TV programming. 
-  * Your service usage such as cellular call records, long distance usage or Internet surfing habits. 
-  * Account information such as the status of your account or your method of payment. 
+  * Your name, address and phone number(s).
+  * Other information about the Bell product(s) that you subscribe to, such as calling features or Bell TV programming.
+  * Your service usage such as cellular call records, long distance usage or Internet surfing habits.
+  * Account information such as the status of your account or your method of payment.
 
 
 
 **How and why does Bell collect personal information?**
 
-We collect information during the application process, when communicating or transacting business with you, and when providing you with service. Occasionally we collect information about you from third parties, such as credit reporting agencies for credit checks.
+We collect information during the application process, when communicating or transacting business with you, when you browse the Internet using your mobile device, laptop, computer or TV, and when providing you with service. Occasionally we collect information about you from third parties, such as credit reporting agencies for credit checks.
 
 We collect information to:
 
-  * Establish and maintain a responsible commercial relationship with you. For example, we may collect information to confirm your identity or to establish credit worthiness. 
-  * Understand your needs and preferences to make recommendations for products, services and bundled discounts. 
-  * Understand who the people are that use our products and services, how they use them, and how we can improve them. 
-  * Manage and develop Bell's business and operations. For example, we monitor usage volumes in order to plan and provision our communications networks. We also track product sales to determine the success of features, promotions and pricing. 
-  * Meet legal and regulatory requirements. For example, we may be required to collect information by a court order or to demonstrate compliance with a CRTC requirement. 
+  * Establish and maintain a responsible commercial relationship with you. For example, we may collect information to confirm your identity or to establish credit worthiness.
+  * Understand your needs and preferences to recommend relevant offers, products, services and bundled discounts on behalf of Bell and its affiliates.
+  * Understand who the people are that use our products and services, how they use them, and how we can improve them.
+  * Manage and develop Bell's business and operations. For example, we monitor usage volumes in order to plan and provision our communications networks. We also track product sales to determine the success of features, promotions and pricing.
+  * Meet legal and regulatory requirements. For example, we may be required to collect information by a court order or to demonstrate compliance with a CRTC requirement.
 
 
 
@@ -86,7 +86,7 @@ While the information may be subject to the legal jurisdictions of these countri
 
 The use of customer information in this way is governed by the Bell Privacy Policy.
 
-Last Update:22/04/2013
+Last Update:23/10/2013
 
   
 
@@ -97,9 +97,9 @@ Last Update:22/04/2013
 
 We do not provide personal information to any party outside of the Bell companies except in limited circumstances in which it is necessary for us to do so. These third parties may include:
 
-  * An agent acting on behalf of Bell, **** such as a company hired to perform installation work on our behalf. 
-  * Another communications service provider, in order to offer efficient and effective communications services (e.g., to provide mobile service while roaming in another company's coverage area) or as required by law. 
-  * A collection agency, for the express purpose of the collection of past due bills. 
+  * An agent acting on behalf of Bell, **** such as a company hired to perform installation work on our behalf.
+  * Another communications service provider, in order to offer efficient and effective communications services (e.g., to provide mobile service while roaming in another company's coverage area) or as required by law.
+  * A collection agency, for the express purpose of the collection of past due bills.
 
 
 
@@ -125,13 +125,95 @@ Please note that when you choose to opt out (or opt back in), it may take up to 
 
 It' s important to note that in certain circumstances, we may collect, use or disclose personal information without your knowledge or consent. For example:
 
-  * During the investigation of a breach of an agreement or the breaking of provincial or federal laws. 
-  * If we' re asked to comply with a subpoena, warrant, court order or other lawful request. 
-  * If there is an emergency where someone' s life, health or security is threatened. 
+  * During the investigation of a breach of an agreement or the breaking of provincial or federal laws.
+  * If we' re asked to comply with a subpoena, warrant, court order or other lawful request.
+  * If there is an emergency where someone' s life, health or security is threatened.
 
 
 
-Last Update:22/04/2013
+Last Update:23/10/2013
+
+  
+
+
+## Customer usage and account information to design relevant marketing
+
+Your privacy is an important priority at Bell, and so is providing an experience that best meets your needs. Our Privacy Policy (available at [bell.ca/privacy](https://web.archive.org/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy)) informs you about information we collect and how we use it. Today we want to tell you about some important updates relating to new uses of information.
+
+Starting on November 16, 2013, Bell will begin using certain information about your account and network usage for select purposes, such as continuing to improve network performance and product offers through new business and marketing reports, making some of the ads and marketing partner offers you see more relevant to you, and providing increased levels of fraud detection and prevention. We will not share any information that identifies you personally outside of Bell Canada and its affiliates. This supplements our Privacy Policy.
+
+Initially, Bell Mobility customers will be the first to benefit from this program but we look forward to expanding it to TV and Internet customers in the future. Remember, no customer is required to participate. If you don't want your data used for relevant advertising, we won't use it.
+
+### What information are we talking about?
+
+Bell will use the following categories of information:
+
+Network usage information, such as:  
+---  
+  
+  * Web pages visited from your mobile device or your Internet access at home.  
+This may include search terms that have been used.
+  * Location
+  * App and device feature usage
+  * TV viewing
+  * Calling patterns
+
+  
+Account information:  
+---  
+  
+  * Information about your use of Bell products and services (such as device type, postal code, payment patterns, and language preference)
+  * Demographic information such as gender or age range
+
+  
+  
+### Is my information shared?
+
+No, under these new programs, we will not share any information that identifies you personally outside of Bell Canada and its affiliates.
+
+### How information will be used
+
+To create business and marketing reports.  
+---  
+**Description**
+
+We will combine network usage information and account information in a way that does not personally identify you. We will use this information to prepare business and marketing reports that we may use ourselves or share with others.
+
+| **Example**
+
+We may generate a report that shows 5,000 mobile users downloaded a gaming application in a month, and 80% of them were 18–25 years old.  
+  
+For other companies to create business and marketing reports.  
+---  
+**Description**
+
+We may also share information with other companies in a way that does not personally identify you. We will allow these companies to produce limited business and marketing reports.
+
+| **Example**
+
+Using information from Bell and other mobile carriers, a company may generate a report that shows how many mobile users were active along a certain parade route.  
+  
+To make ads you see more relevant.  
+---  
+**Description**
+
+When you use the Internet on your mobile device, laptop, computer or TV, you often see unfiltered, random ads on websites and within apps. We would like to use certain network usage information and account information to make the ads you see more relevant to you. These ads may be from Bell or from third parties, however Bell will not share any of your personal information with a third party as part of placing a third party ad.
+
+| **Example**
+
+A hotel chain may want to only advertise their Montréal location to out-of-town mobile users. Bell may exclude Montréal users on the hotel's behalf when delivering the ad (without sharing personal information).  
+  
+Your choices.  
+---  
+**Description**
+
+You will receive unfiltered and random ads whether you participate or not, but under this program, ads may be more relevant to you.
+
+| 
+
+If you do not want us to use your information for any of the purposes  described above, you can [opt out](http://mobilebrowser.bwanet.ca/optout/v2/bell-en.jsp).    
+  
+Last Update:23/10/2013
 
   
 
@@ -148,7 +230,7 @@ The kinds of things we might ask you to confirm could include your account numbe
 
 We therefore ask for your patience and understanding when you are asked to confirm or provide such information as this process has been established to protect your personal account information.
 
-Last Update:22/04/2013
+Last Update:23/10/2013
 
   
 
@@ -163,12 +245,14 @@ For example, in the normal course of business, we may need to review certain asp
 
 Some of the things that will trigger monitoring of your use include:
 
-  * Spamming 
-  * Harassment of other users 
-  * Uploading, downloading or otherwise transmitting materials which are protected by copyrights or other intellectual property rights 
-  * Assisting or engaging in the fraudulent use of telecommunications services 
+  * Spamming
+  * Harassment of other users
+  * Uploading, downloading or otherwise transmitting materials which are protected by copyrights or other intellectual property rights
+  * Assisting or engaging in the fraudulent use of telecommunications services
 
 
+
+Bell may also use information about your account and network usage for other purposes, such as developing new business and marketing reports and improving the relevance of the ads and marketing partner offers we show you.  We will not share any information that identifies you personally outside of Bell Canada and its affiliates.
 
 You can [view your Bell Internet Service Agreement online](http://bell.ca/Legal_residential_services/Bell_Internet_and_Value_Added_Services.tab).
 
@@ -198,7 +282,7 @@ Because Bell is committed to continually improving its customer contact experien
 
 The Bell companies may also record outbound calls placed to our customers for similar purposes.
 
-Last Update:22/04/2013
+Last Update:23/10/2013
 
   
 
@@ -211,7 +295,7 @@ For more information regarding marketing to children, please visit the [Canadian
 
 For more information about protecting children online, bell.ca offers some [information about parental controls and safe surfing](http://support.bell.ca/Internet/Security/How-can-I-protect-my-kids-on-the-Internet) in our Internet support pages.
 
-Last Update:22/04/2013
+Last Update:23/10/2013
 
   
 
@@ -222,7 +306,7 @@ Last Update:22/04/2013
 
 [Bell offers a number of services](http://bell.ca/Home_phone/Calling_features/Control_your_calls.tab), such as Call Display, Call Privacy and Call Blocking, to help balance the privacy interests of customers and the people they call. You can also find information about these services in the introductory pages of the telephone directory, by calling **310-BELL** (2355) or by visiting a Bell store.
 
-Last Update:22/04/2013
+Last Update:23/10/2013
 
   
 
@@ -235,11 +319,11 @@ Telemarketing calls may only be made between 9 a.m. and 9:30 p.m. Monday to Frid
 
 Persons making telephone or fax telemarketing calls must:
 
-  * Identify themselves, the name of the telemarketer, and the name of the client when the call is being made by a telemarketer on behalf of a client. 
-  * Display the originating phone number or an alternative number where the telemarketer can be reached, unless number display is not available for technical reasons. The telemarketer’s fax number, name, address and phone number must also appear on the fax. 
-  * Upon request, remove your name and phone number from their calling or fax lists within 31 days (your request must remain in effect for three years). 
-  * Upon request, provide a representative’s name, toll-free phone number and address for both the telemarketing organization and, if applicable, its client to whom you can call or write to ask questions, make comments, or to make or verify a Do Not Call request. 
-  * For faxes only, provide the originating date and time of the fax. 
+  * Identify themselves, the name of the telemarketer, and the name of the client when the call is being made by a telemarketer on behalf of a client.
+  * Display the originating phone number or an alternative number where the telemarketer can be reached, unless number display is not available for technical reasons. The telemarketer’s fax number, name, address and phone number must also appear on the fax.
+  * Upon request, remove your name and phone number from their calling or fax lists within 31 days (your request must remain in effect for three years).
+  * Upon request, provide a representative’s name, toll-free phone number and address for both the telemarketing organization and, if applicable, its client to whom you can call or write to ask questions, make comments, or to make or verify a Do Not Call request.
+  * For faxes only, provide the originating date and time of the fax.
 
 
 
@@ -250,7 +334,7 @@ The above rules do not apply to telemarketing messages that are left in your voi
 If you want to limit the telephone or fax telemarketing calls you receive, you or a person you authorize to act on your behalf, can register your phone, cellular and fax numbers on the National Do Not Call List through one of the following methods:
 
   * Online at [www.lnnte-dncl.gc.ca/ ](http://www.lnnte-dncl.gc.ca/)
-  * By phone at **1 866-580- DNCL** (3625) 
+  * By phone at **1 866-580- DNCL** (3625)
   * Via TTY device at **1 888 362-5889**
   * By faxing your fax number to **1 888 362-5329**
 
@@ -264,12 +348,12 @@ All telephone or fax telemarketing calls that are not subject to one of the exem
 
 The following types of calls are exempt from the National Do Not Call List rules:
 
-  * Calls from organizations that you have done business with in the past 18 months, or to whom you have made an enquiry in the past 6 months (unless you have registered on their individual do not call lists). 
-  * Calls on behalf of registered charities. 
-  * Calls on behalf of political parties, nomination or leadership contestants, or candidates of a political party. 
-  * Calls from opinion polling or market research firms conducting surveys, when the call does not involve the sale of a product or service. 
-  * Calls from general circulation newspapers for the purpose of selling a subscription. 
-  * Calls to business consumers. 
+  * Calls from organizations that you have done business with in the past 18 months, or to whom you have made an enquiry in the past 6 months (unless you have registered on their individual do not call lists).
+  * Calls on behalf of registered charities.
+  * Calls on behalf of political parties, nomination or leadership contestants, or candidates of a political party.
+  * Calls from opinion polling or market research firms conducting surveys, when the call does not involve the sale of a product or service.
+  * Calls from general circulation newspapers for the purpose of selling a subscription.
+  * Calls to business consumers.
 
 
 
@@ -282,7 +366,7 @@ If you wish to be added to Bell’s internal Do Not Call List, please notify any
 You can register a complaint regarding a telephone or fax telemarketing call:
 
   * Online at <http://www.lnnte-dncl.gc.ca/>
-  * By phone at **1 866 580-DNCL** (3625) 
+  * By phone at **1 866 580-DNCL** (3625)
   * Via TTY device at **1 888 362-5889**
   * By fax to **1 888 362-5329**
 
@@ -290,11 +374,11 @@ You can register a complaint regarding a telephone or fax telemarketing call:
 
 In order to file a complaint, be sure to have the following information on hand:
 
-  * Your phone number 
-  * Name and/or phone number of the telemarketer 
-  * Date and time of the telemarketing call 
-  * Nature of the complaint 
-  * If it was a fax message, a copy of the fax 
+  * Your phone number
+  * Name and/or phone number of the telemarketer
+  * Date and time of the telemarketing call
+  * Nature of the complaint
+  * If it was a fax message, a copy of the fax
 
 
 
@@ -308,18 +392,18 @@ The use of ADADs to make telemarketing calls is prohibited, except where you hav
 
 ADADs used to make calls for purposes other than telemarketing must:
 
-  * Begin with a clear message identifying the person on behalf of whom the call is being made (this identification statement should include both a mailing address and a toll-free number of a call-back line). 
-  * Repeat the identification statement at the end of the call if the call exceeds 60 seconds. 
-  * Display the originating number or an alternative number where the caller can be reached, unless number display is not available for technical reasons. 
-  * In the case of a survey, identify either the survey company or its client. 
-  * Unless otherwise provided for by law, be made between 9 a.m. and 9:30 p.m. Monday to Friday, and between 10 a.m. and 6 p.m. on weekends (the times are those of the person receiving the call). 
-  * Disconnect within 10 seconds after the person receiving the call hangs up. 
+  * Begin with a clear message identifying the person on behalf of whom the call is being made (this identification statement should include both a mailing address and a toll-free number of a call-back line).
+  * Repeat the identification statement at the end of the call if the call exceeds 60 seconds.
+  * Display the originating number or an alternative number where the caller can be reached, unless number display is not available for technical reasons.
+  * In the case of a survey, identify either the survey company or its client.
+  * Unless otherwise provided for by law, be made between 9 a.m. and 9:30 p.m. Monday to Friday, and between 10 a.m. and 6 p.m. on weekends (the times are those of the person receiving the call).
+  * Disconnect within 10 seconds after the person receiving the call hangs up.
 
 
 
 These conditions do not apply to ADAD calls made for public-service reasons, including calls for emergency and administrative purposes by police and fire departments, schools, hospitals, or similar organizations.
 
-Last Update:22/04/2013
+Last Update:23/10/2013
 
   
 
@@ -344,9 +428,9 @@ Some of our customers have had calls from fraudulent telemarketing “operators�
 
 If you get a suspicious call:
 
-  * Do not give out your personal information. Legitimate companies will never call or email their customers requesting information such as passwords, bank account information or a credit card number, unless they are responding directly to an inquiry you know you have made. 
-  * If you suspect that you are speaking with a fraudulent telemarketer, you should end the call and contact the business or organization through its regular channels, for example, **310-BELL (2355)**. 
-  * Beware of being directed to websites that “look” like the sites from legitimate organizations – it is always best to access the site of a legitimate organization from its direct homepage, e.g. bell.ca. 
+  * Do not give out your personal information. Legitimate companies will never call or email their customers requesting information such as passwords, bank account information or a credit card number, unless they are responding directly to an inquiry you know you have made.
+  * If you suspect that you are speaking with a fraudulent telemarketer, you should end the call and contact the business or organization through its regular channels, for example, **310-BELL (2355)**.
+  * Beware of being directed to websites that “look” like the sites from legitimate organizations – it is always best to access the site of a legitimate organization from its direct homepage, e.g. bell.ca.
 
 
 
@@ -360,9 +444,9 @@ Scam artists are now using a wide range of tactics in order to steal your inform
 
 **Important tips:**
 
-  * Be cautious about posting personal information on public websites, such as social networking sites, as those details can be used by fraudsters to convince you that they represent Bell or other companies. 
-  * Keep your passwords, bank account information and social insurance number confidential at all times, and check your bank and credit card statements frequently. 
-  * Buy a shredder so you can destroy personal documents that you no longer need. You can be targeted for identity theft by fraud artists who find credit-card bills, etc., in your recycling. 
+  * Be cautious about posting personal information on public websites, such as social networking sites, as those details can be used by fraudsters to convince you that they represent Bell or other companies.
+  * Keep your passwords, bank account information and social insurance number confidential at all times, and check your bank and credit card statements frequently.
+  * Buy a shredder so you can destroy personal documents that you no longer need. You can be targeted for identity theft by fraud artists who find credit-card bills, etc., in your recycling.
 
 
 
@@ -378,15 +462,15 @@ Remember, it is your responsibility to remain vigilant and adopt the simple, but
 
 The following are some important tips to help protect you from fraudulent activities:
 
-  * Be cautious with the information you provide over the phone and make sure no one is watching when keying in your calling card PIN or any other PIN. 
-  * Watch out for free downloads over the Web. Some sites will try to draw you in with free offers and then download programs that may be directing your Web browser to telephone an Internet service provider overseas. You could be charged the additional long distance fees. 
-  * Always check your monthly statements carefully and look out for unusual charges. 
-  * Beware of suspiciously generous offers or prizes from any company. 
-  * Look out for aggressive marketing tactics, pressure to “act now,” instructions to pay administrative fees for the delivery of a prize or product, etc. 
-  * Very short offer-expiry dates are often a sign of a scam. Short expiries reduce the risk of the fraudster being traced by authorities. 
-  * Buy a shredder so you can destroy personal documents that you no longer need. You can be targeted for identity theft by fraud artists who find credit-card bills, etc., in your recycling. 
-  * Be cautious about posting personal information on public websites as those details can be used by fraudsters to convince you that they represent Bell or other companies. 
-  * Learn about [“phishing”](http://support.bell.ca/internet/security/how-do-i-use-email-safely?step=4) and Internet fraud and take steps to protect yourself. 
+  * Be cautious with the information you provide over the phone and make sure no one is watching when keying in your calling card PIN or any other PIN.
+  * Watch out for free downloads over the Web. Some sites will try to draw you in with free offers and then download programs that may be directing your Web browser to telephone an Internet service provider overseas. You could be charged the additional long distance fees.
+  * Always check your monthly statements carefully and look out for unusual charges.
+  * Beware of suspiciously generous offers or prizes from any company.
+  * Look out for aggressive marketing tactics, pressure to “act now,” instructions to pay administrative fees for the delivery of a prize or product, etc.
+  * Very short offer-expiry dates are often a sign of a scam. Short expiries reduce the risk of the fraudster being traced by authorities.
+  * Buy a shredder so you can destroy personal documents that you no longer need. You can be targeted for identity theft by fraud artists who find credit-card bills, etc., in your recycling.
+  * Be cautious about posting personal information on public websites as those details can be used by fraudsters to convince you that they represent Bell or other companies.
+  * Learn about [“phishing”](http://support.bell.ca/internet/security/how-do-i-use-email-safely?step=4) and Internet fraud and take steps to protect yourself.
 
 
 
@@ -398,7 +482,24 @@ Otherwise, if you suspect you’ve been a target of any type of phone or Interne
 
 To find out more about fraud prevention, go to [www.competitionbureau.gc.ca/fraud](http://www.competitionbureau.gc.ca/fraud).
 
-Last Update:22/04/2013
+Last Update:23/10/2013
+
+  
+
+
+## What does “Bell affiliates” mean?
+
+When it comes to your preferences for privacy and marketing, ‘Bell affiliates’ refers to the following companies:
+
+Bell Canada  
+---  
+Bell Mobility Inc.  
+Bell Aliant Regional Communications L.P.  
+Bell ExpressVu L.P.  
+The Source (Bell) Electronics Inc.  
+Bell Media Inc.  
+  
+Last Update:23/10/2013
 
   
 
