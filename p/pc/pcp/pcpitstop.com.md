@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcpitstop.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531202444id_/http%3A//www.pcpitstop.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcpitstop.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229041835id_/http%3A//pcpitstop.com/about/privacy.asp) for the most accurate reproduction.*
 
 # PC Pitstop FAQ
 
