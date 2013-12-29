@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wooga.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628221908id_/http%3A//www.wooga.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wooga.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229182946id_/http%3A//www.wooga.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wooga
 
@@ -44,9 +44,9 @@ Users may at any time decline to receive email advertising or a newsletter, and 
   5. ###  Use of personal data for marketing purposes  
 
 
-We never sell or hire out the user’s personal data to third parties for marketing purposes. 
+We never sell or hire out the user’s personal data to third parties for marketing purposes.
 
-If the user has given consent (see also Item 11), we may display targeted advertising in **Wooga** games and services, or we may place or arrange for a cookie (see Item 2 above) so that targeted advertising can be displayed in the user’s browser. This might include advertising that could be of particular interest to the user in view of the game being played for instance, or its age group or where it lives. We mainly advertise our own games and services. If we ever advertise for a third party, we will not provide the advertiser with any personal data and IP addresses will be duly abbreviated. 
+If the user has given consent (see also Item 11), we may display targeted advertising in Wooga games and services, or we may place or arrange for a cookie (see Item 2 above) so that targeted advertising can be displayed in the user’s browser. This might include advertising that could be of particular interest to the user in view of the game being played for instance, or its age group or where it lives. We mainly advertise our own games and services. If we ever advertise for a third party, we will not provide the advertiser with any personal data and IP addresses and device identifiers (such as MAC addresses) will be duly abbreviated. Device identifiers help to optimize the delivery of the advertisements. They are not collected or stored, but only accessed locally on the user’s device and immediately converted to secure hashed-based identifiers so that they cannot be resolved back to the original device identifier. 
 
   6. ###  Use of personal data by other players on **Wooga**  
 
@@ -106,6 +106,8 @@ If anything is still unclear, a visit to our FAQ is certain to be helpful (<http
 We use standard security practices, including encryption, passwords and physical security measures, to protect your personal data from unauthorised access and disclosure. Your user account information is stored on a secure server with firewall protection. If a user enters sensitive data (such as a credit card number), we encrypt that information using secure socket layer technology (SSL). 
 
 If you have any queries about the security of our services, please do not hesitate to contact us at any time on <http://support.wooga.com/>. 
+
+Berlin, November 5, 2013 
 
 
 
