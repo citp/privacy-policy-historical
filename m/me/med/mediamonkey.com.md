@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediamonkey.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630095636id_/http%3A//www.mediamonkey.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediamonkey.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229092835id_/http%3A//www.mediamonkey.com/privacy) for the most accurate reproduction.*
 
 # MediaMonkey » Privacy
 
