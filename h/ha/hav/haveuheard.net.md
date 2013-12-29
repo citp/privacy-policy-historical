@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the haveuheard.net privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602030620id_/http%3A//haveuheard.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haveuheard.net privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229044640id_/http%3A//haveuheard.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy PolicyHaveUHeard
+# Privacy Policy
 
 Privacy Policy
 
