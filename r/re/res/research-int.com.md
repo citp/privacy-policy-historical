@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the research-int.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630113745id_/http%3A//www.tnsglobal.com/what-we-do/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the research-int.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229111422id_/http%3A//www.tnsglobal.com/what-we-do/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy & Cookies | TNS Global
 
@@ -111,6 +111,10 @@ If you have questions or concerns regarding our compliance with the U.S. E.U. an
 
 ## Miscellaneous 
 
-This privacy policy is governed and construed in accordance with English law and incorporated into the terms and conditions set out in this website. If we make a material change to this policy, we will post a prominent notice on this site for 30 calendar days prior to the implementation of the material change and describe how individuals may exercise any applicable choice. Following the implementation of the material change, we will record at the introduction of this policy when the policy was last revised. TNS is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate our commitment to your privacy, we have agreed to have this websites privacy practices reviewed for compliance by TRUSTe.
+This privacy policy is governed and construed in accordance with English law and incorporated into the terms and conditions set out in this website. If we make a material change to this policy, we will post a prominent notice on this site for 30 calendar days prior to the implementation of the material change and describe how individuals may exercise any applicable choice. Following the implementation of the material change, we will record at the introduction of this policy when the policy was last revised. 
+
+[](https://privacy.truste.com/privacy-seal/TNS-Custom-Research/validation?rid=1da6b2bb-3d5c-463f-8b61-7f93cd0c5720 "TRUSTe European Safe Harbor certification")
+
+TNS is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate our commitment to your privacy, we have agreed to have this websites privacy practices reviewed for compliance by TRUSTe.
 
 We are Taylor Nelson Sofres, A Kantar Group Company, and our registered address is TNS House, Westgate, London W5 1AU (company number 912624).
