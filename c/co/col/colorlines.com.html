@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the colorlines.com privacy policy that was archived on 2013-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130502223210id_/http%3A//colorlines.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the colorlines.com privacy policy that was archived on 2013-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131229024827id_/http%3A//www.colorlines.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <script type="text/javascript" src="/scripts/mdetect.js"></script>
@@ -18,7 +18,6 @@
   <link rel="stylesheet" href="/print2.css" type="text/css" media="print" charset="utf-8">
   <meta name="title" content="COLORLINES - Privacy">
   <meta name="description" content="COLORLINES">
-  
   <!-- Facebook Open Graph metatags -->
   <meta property="og:site_name" content="COLORLINES">
   <meta property="og:type" content="website">
@@ -38,7 +37,7 @@
 <script type="text/javascript" src="http://userdb.colorlines.com/wp-content/plugins/gigya-socialize-for-wordpress/js/gigya.js?ver=3.4.1"></script> 
   <script type="text/javascript" src="http://w.sharethis.com/widget/?tabs=web%2Cpost%2Cemail&amp;charset=utf-8&amp;style=default&amp;publisher=f44ccaf8-7c11-4058-98a4-9370f07a4b47"></script>
   <script type="text/javascript" charset="utf-8" src="/mt.js"></script>
-  <script type="text/javascript" src="/scripts/webboot-wpuserdb2.js?nc=true"></script>
+  <script type="text/javascript" src="/scripts/webboot-wpuserdb.js?nc=true"></script>
   <script type="text/javascript" src="http://cdn.gigya.com/js/socialize.js?apiKey=2_ulP9PWB8q1oUpxhdPifTKowH0PZPrnxBk25sr8GDgC7G5MxGXx9qcUwzikWGXImC">{APIKey:'2_ulP9PWB8q1oUpxhdPifTKowH0PZPrnxBk25sr8GDgC7G5MxGXx9qcUwzikWGXImC', connectWithoutLoginBehavior:'alwaysLogin', showTermsLink:false, hideGigyaLink:true}</script>
   <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
@@ -78,12 +77,19 @@ $("document").ready(function(){
   equalHeight($(".category-article-mini"));
 });
 
-  //truncate teasers in the the go deeper grid
-  $("document").ready(function(){
+
+$("document").ready(function(){
+
+    // truncate teasers in the the go deeper grid
 	  if ($('.textbox .teaser-text').length) {
 		$('.textbox .teaser-text').truncatable({    limit: 120, more: ' ...' });
 		}
+
+    // adjust spacing on list items with no thumbnail
+    $('.recent-news .entry').not(':has(img)').children('.entry-content').css("width", "440px");
+
 	});
+
 
 
 function mtColorlinesComments(){
@@ -121,7 +127,7 @@ GA_googleFetchAds();
       <h1><a href="http://colorlines.com/"><img src="/images/logo.png" alt="Colorlines"></a></h1>
       <ul class="util">
         <li class="donate"><a href="/donate">&nbsp;</a></li>
-        <li class="about"><a href="/getemails">Get Emails</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/about">About</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.arc.org">ARC</a></li>
+        <li class="about"><a href="/getemails">Get Emails</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/about">About</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.raceforward.org">Race Forward</a></li>
         <li class="inputs">
           <form id="search-form" action="http://colorlines.com/cgi-sys/cgiwrap/colorlne/managed-mt/mt-search.cgi" method="GET">
             <input class="search example" value="Search" name="search">
@@ -136,22 +142,33 @@ GA_googleFetchAds();
         <li class=" action"><a href="http://colorlines.com/action/">&nbsp;</a></li>
       </ul>
       <div class="hot">
-        <p>Hot Topics</p>
+        <p>Featured &nbsp;&nbsp;</p>
         <ul>
+          <!--
+          <li><a href="http://colorlines.com/fruitvale-station/">'Fruitvale Station'</a></li>
           
-          <li><a href="http://colorlines.com/adria-richards/">Adria Richards</a></li>
+          <li><a href="http://colorlines.com/brentin-mock/">Voting Rights</a></li>
           
-          <li><a href="http://colorlines.com/budget-cuts/">Budget Cuts</a></li>
+          <li><a href="http://colorlines.com/paula-deen/">Paula Deen</a></li>
+           -->
           
-          <li><a href="http://colorlines.com/coping-with-terror/">Coping With Terror</a></li>
+          <li><a href="http://colorlines.com/now/">/NOW</a></li>
           
-          <li><a href="http://colorlines.com/guns/">Guns</a></li>
+          <li><a href="http://colorlines.com/akiba-solomon/">Gender</a></li>
           
-          <li><a href="http://colorlines.com/immigration-reform/">Immigration Reform</a></li>
+          <li><a href="http://colorlines.com/rinku-sen/">Movement</a></li>
           
-          <li><a href="http://colorlines.com/jackie-robinson/">Jackie Robinson</a></li>
+          <li><a href="http://colorlines.com/dispatches/">Dispatches</a></li>
           
-          <li><a href="http://colorlines.com/stop-and-frisk/">Stop-and-Frisk</a></li>
+          <li><a href="http://colorlines.com/race-forward/">Race Forward</a></li>
+          
+          <li><a href="http://colorlines.com/colorlines-mixtapes/">Colorlines Mixtapes</a></li>
+          
+          <li><a href="http://colorlines.com/black-friday/">Black Friday</a></li>
+          
+          <li><a href="http://colorlines.com/walmart/">Walmart</a></li>
+          
+          <li><a href="http://colorlines.com/obamacare/">Obamacare</a></li>
           
         </ul>
       </div>
@@ -163,40 +180,31 @@ GA_googleFetchAds();
          <div class="topic-summary">
             <!--<div class="right">-->
                 <h2>Privacy</h2>
-               <p><strong>Applied Research Center Privacy Statement</strong></p>
-<p>This Web site is operated and maintained by the Applied Research Center (ARC),  a nonprofit advancing racial justice though media,  research and activism.
+               <p><strong>Race Forward and Colorlines Privacy Statement</strong></p>
+<p>This Web site is operated and maintained by the Race Forward,  a national organization advancing racial justice though research, media and practice.
 </p>
-<p>ARC is committed to protecting your privacy and providing a rewarding online experience. This Privacy Policy describes ARC's policies and procedures for the collection of personal information by this site, and our use and dissemination of such information.
+<p>Race Forward is committed to protecting your privacy and providing a rewarding online experience. This Privacy Policy describes Race Forward's policies and procedures for the collection of personal information by this site, and our use and dissemination of such information.
 </p>
-<p><strong>Information Gathering </strong>If you subscribe to, purchase or otherwise make use of our products and services, we may ask to collect personal information from you, including your name, age, address, e-mail address, credit card number (only when making purchases) and facts about your computers, profession and similar information.
+<p><strong>Information Gathering </strong><br>If you subscribe to, purchase or otherwise make use of our products and services, we may ask to collect personal information from you, including your name, age, address, e-mail address, credit card number (only when making purchases) and facts about your computers, profession and similar information.
 </p>
 <p>Cookies: We use "cookies" to help deliver advertisements and to identify unique browsers that visit us and to track usage throughout our sites.
 </p>
-<p><strong>Information Use and Sharing</strong> In order to better serve our readers, we use cookies and periodically analyze web logs. We may also use third-party services such as Google Analytics. This helps us understand traffic patterns and know if there are problems with our website.
+<p><strong>Information Use and Sharing</strong><br> In order to better serve our readers, we use cookies and periodically analyze web logs. We may also use third-party services such as Google Analytics. This helps us understand traffic patterns and know if there are problems with our website.
   
   If you choose to subscribe to Colorlines Direct, our free weekly electronic newsletter, we collect your email address, and, if you choose to provide it, additional information such as your zip code.
-  ARC will never sell or share your information.  We reserve the right to send out emails for events and new releases on behalf of partner organizations but we never share your information.  </p>
-<p><strong>Links</strong> Our sites may contain links to other sites, in the form of hyperlinks and banner advertisements. We are not responsible for the privacy practices or the content of such sites.</p>
-<p><strong>Contacting Us</strong> If at any time you would like to unsubscribe from our email list, you may do so by e-mailing jrivas@arc.org.
+  Race Forward will never sell or share your information.  We reserve the right to send out emails for events and new releases on behalf of partner organizations but we never share your information.  </p>
+<p><strong>Links</strong><br> Our sites may contain links to other sites, in the form of hyperlinks and banner advertisements. We are not responsible for the privacy practices or the content of such sites.</p>
   
-  If you have any questions about this privacy statement, the practices of our sites, or your dealings with our sites, please contact:
-  
-  Noel Rabinowitz,
-  
-  Applied Research Center
-  
-  900 Alice Street, Suite 400
-  Oakland, CA 94607
-  nrabinowitz@arc.org </p>
-
+  <p>If you have any questions about this privacy statement, the practices of our sites, or your dealings with our sites, please contact <a href="mailto:webmaster@raceforward.org">webmaster@raceforward.org</a>.</p>
             <!--</div>-->
          </div>
       </div> 
       <div class="sidebar">
         <div class="action-campaign">
-  <p class="title">Take Action to Drop the I-Word!</p>
+<a href="http://www.raceforward.org"><img src="/images/RaceForward_Rebrand_ColorlinesAd.png"></a>
+ <!--  <p class="title">Take Action to Drop the I-Word!</p>
 <p class="text">No Human Being is “Illegal.” Sign the pledge today and check out our campaign toolkit for ideas on how to get involved.</p>
-  <p class="action-arrow"><a href="http://colorlines.com/droptheiword">Get Started</a></p>
+  <p class="action-arrow"><a href="http://colorlines.com/droptheiword">Get Started</a></p> -->
 </div>
 
 
@@ -317,9 +325,9 @@ GA_googleFillSlot("CL_RtColThird_300x250");
         <li><a href="/terms">Terms of Service</a></li>
       </ul>
       <ul class="last">
-        <li><img src="/images/logo-arc.gif" alt="Applied Research Center"></li>
-        <li>Published by <a href="http://www.arc.org">ARC</a>.</li>
-        <li>©2011 Colorlines.com</li>
+        <li><img src="/images/rf_micro_knockout.png" alt="Race Forward"></li>
+        <li>Published by <a href="http://www.raceforward.org">Race Forward</a>.</li>
+        <li>©2013 Colorlines.com</li>
       </ul>
     </div>
     <div class="clr"></div>
@@ -332,7 +340,7 @@ GA_googleFillSlot("CL_RtColThird_300x250");
 	      '&ref='+escape(document.referrer) + '">'
 	      );
 	   /* ]]> */
-	</script><img src="http://act.colorlines.com/acton/bn/1069/visitor.gif?ts=1580367760393&amp;ref=">
+	</script><img src="http://act.colorlines.com/acton/bn/1069/visitor.gif?ts=1580367761407&amp;ref=">
 <script src="/scripts/gatag.js" type="text/javascript"></script>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
