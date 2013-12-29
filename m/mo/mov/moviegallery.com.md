@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviegallery.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425201926id_/http%3A//moviegallery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviegallery.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229044527id_/http%3A//moviegallery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The NEW Movie Gallery
 
