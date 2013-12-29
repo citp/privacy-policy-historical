@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synopsys.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528182950id_/http%3A//www.synopsys.com/Company/Pages/SynopsysPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synopsys.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229021626id_/http%3A//www.synopsys.com/Company/Pages/SynopsysPrivacy.aspx) for the most accurate reproduction.*
 
 # Synopsys Privacy
 
@@ -48,6 +48,8 @@ We use this information to analyze trends, to administer the Site, to track user
 
 COOKIES  
 Some Synopsys web pages use “cookies,” which are small files saved on your computer. Cookies help us recognize your user preferences and can improve your future web visits. You can set your web browser to notify you when you are receiving a cookie and choose to reject it. However, rejecting cookies may affect the performance of the Synopsys Site and prevent you from accessing certain Synopsys information. 
+
+Additionally, we may also permit third-party vendors, such as Google, to place cookies in your browser so that we may advertise our products to you on other websites that you may visit. You can opt out of Google’s use of cookies by visiting Google’s Ads Settings page: <http://www.google.com/settings/ads>; you can also opt-out from many other third-party vendors’ use of cookies by visiting the Network Advertising Initiative’s Consumer Opt-Out page: <http://www.networkadvertising.org/choices/#completed>. 
 
 * * *
 
