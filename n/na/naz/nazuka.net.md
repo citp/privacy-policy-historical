@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nazuka.net privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531121028id_/http%3A//nazuka.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nazuka.net privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229151745id_/http%3A//nazuka.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy of free hosting service :: nazuka.net
 
