@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sa.gov.au privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629184248id_/http%3A//sa.gov.au/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sa.gov.au privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229090439id_/http%3A//www.sa.gov.au/site/privacy) for the most accurate reproduction.*
 
 # Privacy and Security Statement - Government of South Australia
 
