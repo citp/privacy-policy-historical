@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imailunlimited.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602090611id_/http%3A//www.imailunlimited.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imailunlimited.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230002845id_/http%3A//www.imailunlimited.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - UNLIMITED BULLET-PROOF SUPER SMTP SERVICE
+# iMailUnlimited | Privacy Policy
 
 #### Our Privacy Policy
 
@@ -14,17 +14,6 @@ All online visitor data collected by iMailUnlimited is protected against unautho
 
 Any Data List(s) you provide to us or load into any of our Servers and/or Software Applications will be treated as your private Customer-Provided Data List(s) and we will not not sell, trade, or give such data to other companies or organizations. Further, we will delete that data from our systems at your request, or automatically upon termination of your account, and take all reasonable security precautions to prevent any unauthorized access to your Customer-Provided Data List(s).
 
-#### Children’s Privacy
-
-We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. iMailUnlimited encourages parents to go online with their kids. Here are a few tips to help make a child’s online experience safer:
-
-  * Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc.
-  * Know the sites your kids are visiting and which sites are appropriate.
-  * Look for Web site privacy policies. Know how your child’s information is treated.
-  * Check out the FTC’s site for [more tips on protecting children’s privacy online](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html)
-
-
-
 #### Contacting Us
 
-We can be reached by submitting a [Contact Request](http://imailunlimited.com/contact-us/ "Contact Us").
+We can be reached by submitting a [Contact Request](http://www.imailunlimited.com/contact-us/ "Contact Us").
