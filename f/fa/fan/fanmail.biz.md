@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the fanmail.biz privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503080811id_/http%3A//www.fanmail.biz/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanmail.biz privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229052838id_/http%3A//www.fanmail.biz/privacy_statement.php) for the most accurate reproduction.*
 
-# ★ FanMail.biz: Privacy Statement
+# ★ FanMail.biz - Privacy Policy
 
-**Privacy Statement  
-**
+**Privacy Policy**
 
-Fanmail.biz has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: Fanmail.biz
+Fanmail.biz has created this privacy policy in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: Fanmail.biz
 
 **Collected Information**
 
@@ -49,7 +48,7 @@ This site contains links to other sites. Fanmail.biz.com is not responsible for 
 
 **Copyrights**
 
-The published images as well as the other information in this Web, have been extracted of sites where they were offered gratuitously and therefore are property of their respective creators. The material is not used commercially by any of the organizations related directly to this site. If some image has copyright that prohibe its publication, send us an e-mail and we will retire immediately. 
+The published images as well as the other information in this Web, have been extracted of sites where they were offered gratuitously and therefore are property of their respective creators. The material is not used commercially by any of the organizations related directly to this site. If some image has copyright that prohibe its publication, send us an e-mail and we will retire it immediately. 
 
 **Contacting the Web Site**
 
