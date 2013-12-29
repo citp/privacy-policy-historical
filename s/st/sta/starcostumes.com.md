@@ -1,56 +1,72 @@
-> *The following text is extracted and transformed from the starcostumes.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619204339id_/http%3A//www.starcostumes.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starcostumes.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229135756id_/http%3A//www.starcostumes.com/terms_privacy.asp) for the most accurate reproduction.*
 
-# Star Costumes - Privacy Policy
+# Terms: Privacy
 
-For more than 13 years, StarCostumes.com has developed relationships with our customers based on respect and integrity. We're aware of the trust and confidence you demonstrate when you visit our website and provide us with information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online. We promise that we will treat your information with the same honesty and sensitivity that we have displayed throughout our company's history.
+**Privacy Policy**
 
-We will never share your email address, phone number or credit card information with anyone.
+**What information do we collect?**
 
-**StarCostumes.com Privacy Notice**  
-By visiting StarCostumes.com website you agree to accept the practices described in this Privacy Notice.
+  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.
+  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
+  * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
+  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
 
-**Changes to this Privacy Notice, Conditions of Use and Notices:**  
-This notice was last updated on **September 8, 2010**.
+  
+ **How do we use your information?**
 
-This Privacy Notice and our Terms of Use will change over time and the use of information which we gather now is subject to these Notices and Terms as modified. Please check this page periodically as you continue to use our site to see if any changes have been made.
+We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-**Children**  
-StarCostumes.com does not sell products to persons under the age of 18. If you are under the age of 18, you are required to seek the approval of your parent or guardian to purchase products from this site.
+  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To allow us to better service you in responding to your customer service requests.
+  * To quickly process your transactions.
+  * To administer a contest, promotion, survey or other site feature.
+  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
 
-**Personal Information Collected By StarCostumes.com:**  
-StarCostumes.com uses information that we collect from our visitors to personalize and improve your visit at StarCostumes.com. We gather the following types of information:
+  
+ **How do we protect visitor information?**
 
-  * **Information you give us:** StarCostumes.com collects any information which you enter on our Web site. This information is normally provided when you search, buy, or when you communicate with any of our departments such as customer service, sales or technical services through our Web site, telephone, mail or fax. You also provide information when you establish an account with us. Examples of the type of information you may supply us with include your name, address, telephone number, credit card information and e-mail addresses.
+We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
 
+ **Do we use "cookies"?**
 
-  * **Automatic information collected by us:** We (or agents on our behalf) collect anonymous information from visits to our sites through the use of “Web Beacons.” Web Beacons are simply web page elements which may employ cookie technology that enable us to record anonymous data about visits to or transactions made on our web site. No personal data is collected through the use of Web Beacons on our sites. Through the use of cookies, we may also collect and analyze the IP address used to connect your computer to the Internet; computer and connection information such as your browser type and version; operating system and platform; purchase history; confirmation when you open e-mail that we send you; and the URLs which lead you to and around our Web site including the date and time. Your browser allows you to reject cookies and software is available from third parties which will allow you to visit our Web site without providing this information. You are welcome to visit our Web site if you use this software, but we will not be able to offer you our personalized services and we will be unable to accept any online orders from you. ****
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
+We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
 
-**Orders:**  
-If you place an order we use a secure order form which requires you to provide contact, billing, and financial information. This information is transmitted to your credit card company to authorize your purchase. All information obtained from you in the course of transacting orders is used for the purpose of fulfilling your order in a timely manner and for communicating the status of your order with you. 
+ **Do we disclose the information we collect to outside parties?**
 
-**Email Newsletter/Opt-Out:**  
-Additionally, upon placing an order, you may elect to receive the Star Costumes email newsletter. If you choose this option, Star Costumes will send you occasional emails informing you of new products, sales, and other news about our store. We generally send no more than one email message a week (fewer in the non-Halloween season) and you may opt out of our mailing list at any time. Again, Star Costumes will never share or sell your email address to anyone.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Star Design Costumes. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
-To **opt out** of receiving marketing messages from Star Costumes, you may use the link provided in each of our email messages, send an email requesting removal from our list to [newsletter@starcostumes.com](mailto:newsletter@starcostumes.com), or call us at 1-888-573-4594. 
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Credit Card Companies and Shippers:**  
-When you make a purchase at Star Costumes, we send your credit card information, name, billing address and the amount of your purchase to your credit card company to verify and authorize the purchase. Your name, telephone number and shipping information must be provided to third party shippers such as UPS, Federal Express and the United States Postal Service to deliver your purchase. There also may be instances in which we drop-ship orders directly to you from one of our manufacturers or suppliers. These drop-shippers are only given your name, postal address, and telephone number for the sole purpose of fulfilling your order.
+ **How can you opt-out, remove or modify information you have provided to us?**
 
-**Law Enforcement and Protection of Users:**  
-We will release personally identifiable information to third parties and organizations when we believe it is appropriate for us to do so to comply with the law. We will also do so to cooperate with law enforcement investigations, comply with court orders or subpoenas, and protect the legal rights of us and our users, or when we believe it is needed for fraud protection and / or credit risk reduction.
+To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.
 
-**Security:**  
-We employ the latest encryption technology in all areas of the site which require you to provide your personal or account information, including online ordering and order status. Your name and personal information are stored securely in our proprietary systems behind a firewall. To protect your identity, your credit card information is wiped out of our system completely once your order is complete. 
+To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
 
-To learn more about the security features of our website, please click here to read our Security Policy. [Link to new Security document]
+ **Third party links**
 
-**Contact Information:**  
-Our postal address is:
+In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
 
-Star Costumes  
-2708 Sylvania Ave.  
-Toledo, OH. 43613
+ **Changes to our policy**
 
-You can e-mail us at [questions@starcostumes.com](mailto:questions@starcostumes.com) or reach us by telephone at 1-888-573-4594. We would be happy to answer any questions or address concerns that you have.
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. **This policy was last modified on August 6, 2003.**
+
+ **Questions and feedback**
+
+We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
+
+ **Online Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+ **Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20131229135756id_/http%3A//www.starcostumes.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+
+ **Your consent**
+
+By using our site, you consent to our privacy policy.
