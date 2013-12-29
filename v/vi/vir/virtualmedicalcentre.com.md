@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualmedicalcentre.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420012535id_/http%3A//www.virtualmedicalcentre.com/health/privacy-policy/86) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualmedicalcentre.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229011637id_/http%3A//www.virtualmedicalcentre.com/health/privacy-policy/86) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,6 +35,8 @@ If you do nothing during your visit to this site but browse or download informat
 
   
 The information we automatically collect or store is used to improve the content of our web services and to help us understand how people are using our services. VMC analyses our site logs to continually improve the value of the materials available on our site. Our site logs are not personally identifiable, and we make no attempt to link them with the individuals that browse this site.
+
+Currently we are using Google Analytics to analyse the audience of the website and improve our content. No personal information is collected from Google Analytics. For further information on the privacy policy concerning Google Analytics, see <http://www.google.com/intl/en_uk/analytics/privacyoverview.html>
 
 VMC will not collect your personal information unless you have consented and given it to us.
 
