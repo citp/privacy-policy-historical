@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letsmove.gov privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627035811id_/http%3A//www.whitehouse.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsmove.gov privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229014813id_/http%3A//www.whitehouse.gov/privacy) for the most accurate reproduction.*
 
 # Our Online Privacy Policy | The White House
 
@@ -10,7 +10,7 @@ The White House is committed to protecting individual privacy and securing the p
 
 This privacy policy describes what information is made available to the White House and third parties when you visit WhiteHouse.gov or official White House pages on other sites, and how the White House uses and stores that information.
 
-If you have questions about this policy or suggestions for its improvement, please let us know.  You can contact us at [http://www.whitehouse.gov/privacy/feedback](https://web.archive.org/web/20130627035811id_/http%3A/privacy/feedback).
+If you have questions about this policy or suggestions for its improvement, please let us know.  You can contact us at [http://www.whitehouse.gov/privacy/feedback](https://web.archive.org/web/20131229014813id_/http%3A/privacy/feedback).
 
 This policy is organized into the following sections:
 
@@ -77,7 +77,7 @@ WhiteHouse.gov uses the following web measurement and customization technologies
 
 The White House uses a third-party analytics provider (currently Google Analytics) to analyze the data collected through the session and persistent metrics cookies.  The third-party analytics provider does not receive personally identifiable information through these cookies and does not combine, match, or cross-reference WhiteHouse.gov information with any other information.  Please review the third-party analytics provider’s [privacy policy ](http://www.google.com/intl/en/analytics/privacyoverview.html)for additional information.
 
-      4. These cookies collect information similar to that automatically received and stored on the servers hosting WhiteHouse.gov; they do not collect personal indentifying information.  The White House generally does not access or store the raw information collected through these cookies.  We do view aggregate statistical analyses prepared by our third-party analytics provider, but these analyses do not include any personally identifiable information.  We do not sell, rent, exchange, or otherwise disclose this information to persons or organizations outside the Executive Office of the President.  In some cases, we may share information with other federal agencies in response to lawful law enforcement requests or to protect WhiteHouse.gov from security threats.  As explained in section 1.2.3, you can control website measurement and customization technologies on WhiteHouse.gov.
+      4. These cookies collect information similar to that automatically received and stored on the servers hosting WhiteHouse.gov; they do not collect personal identifying information.  The White House generally does not access or store the raw information collected through these cookies.  We do view aggregate statistical analyses prepared by our third-party analytics provider, but these analyses do not include any personally identifiable information.  We do not sell, rent, exchange, or otherwise disclose this information to persons or organizations outside the Executive Office of the President.  In some cases, we may share information with other federal agencies in response to lawful law enforcement requests or to protect WhiteHouse.gov from security threats.  As explained in section 1.2.3, you can control website measurement and customization technologies on WhiteHouse.gov.
 
       5. _1.2.2. Third-party website measurement and customization technologies_
 
@@ -166,27 +166,43 @@ _Social Networks_
       * [Educate to Innovate](https://www.facebook.com/EducatetoInnovate)
       * [White House Live application](http://apps.facebook.com/whitehouselive)
     * Twitter ([Privacy](http://twitter.com/privacy)) 
+      * [@AmbassadorRice](http://twitter.com/AmbassadorRice)
       * [@Blog44](http://twitter.com/blog44)
+      * [@Bobby44](https://twitter.com/Bobby44)
       * [@Brundage44](http://twitter.com/brundage44)
+      * [@Cabinet](https://twitter.com/cabinet)
+      * [@Cecilia44](http://twitter.com/cecilia44)
       * [@DavidAgnew44](http://twitter.com/davidagnew44)
       * [@DrBiden](https://twitter.com/DrBiden)
+      * [@Erin44](https://twitter.com/Erin44)
       * [@FLOTUS](http://twitter.com/flotus)
+      * [@HealthCareTara](https://twitter.com/healthcaretara)
+      * [@Inouye44](https://twitter.com/Inouye44)
       * [@JEarnest44](http://twitter.com/jearnest44)
       * [@JesseCLee44](http://twitter.com/jesseclee44)
       * [@JoiningForces](http://twitter.com/joiningforces)
-      * [@JonCarson44](http://twitter.com/joncarson44)
+      * [@Jordan44](https://twitter.com/jordan44)
       * [@JSmith44](http://twitter.com/jsmith44)
+      * [@Katie44](https://twitter.com/Katie44)
+      * [@KLewis44](https://twitter.com/KLewis44)
+      * [@Lehrich44](https://twitter.com/lehrich44)
       * [@KS44](http://twitter.com/ks44)
       * [@LaCasaBlanca](http://twitter.com/LaCasaBlanca)
       * [@LetsMove](http://twitter.com/letsmove)  
       * [@Macon44](http://twitter.com/macon44)
+      * [@Maley44](http://twitter.com/maley44)
       * [@NSCPress](https://twitter.com/NSCPress)
+      * [@PAniskoff44](http://twitter.com/PAniskoff44)
       * [@PeteSouza](http://twitter.com/petesouza)
       * [@Pfeiffer44](http://twitter.com/pfeiffer44)
       * [@PressSec](http://twitter.com/presssec)
       * [@ProjectMyGov](http://twitter.com/projectmygov)
+      * [@Racusen44](https://twitter.com/racusen44)
       * [@Rhodes44](https://twitter.com/Rhodes44)
+      * [@Rosholm44](https://twitter.com/rosholm44)
+      * [@Schultz44](https://twitter.com/schultz44)
       * [@Simas44](https://twitter.com/simas44)
+      * [@Vargas44](https://twitter.com/Vargas44)
       * [@VJ44](http://twitter.com/vj44)
       * [@VP](http://twitter.com/vp)
       * [@WethePeople](http://twitter.com/wethepeople)
@@ -236,7 +252,7 @@ _  Video & Multimedia_
       * [Inside the White House](http://www.hulu.com/inside-the-white-house)
       * [Music and the Arts](http://www.hulu.com/music-and-the-arts)
       * [White House White Board](http://www.hulu.com/white-house-white-board)
-    * Flickr: ([Privacy](http://info.yahoo.com/privacy/us/yahoo/flickr/details.html)) 
+    * Flickr: ([Privacy](http://info.yahoo.com/privacy/us/yahoo/flickr/details.html)) 
       * [The White House](http://www.flickr.com/photos/whitehouse)
       * [Let's Move](http://www.flickr.com/photos/50399324@N07/)
     * iTunes: ([Privacy](http://www.apple.com/privacy/)) 
@@ -248,6 +264,9 @@ _  Video & Multimedia_
     * Vine: ([Privacy](http://vine.co/privacy)) 
       * [@WhiteHouse](https://twitter.com/whitehouse)
       * [@WHVine](http://twitter.com/whvine)
+    * Instagram: ([Privacy](http://instagram.com/about/legal/privacy/)) 
+      * [The White House](http://instagram.com/whitehouse)
+      * [First Lady Michelle Obama](http://instagram.com/michelleobama)
 
 _Document Sharing_
 
@@ -277,6 +296,6 @@ We take reasonable precautions to protect our site and information automatically
 
 
 
-Updated: May 14, 2013
+Updated: September 19, 2013
 
 Previous version(s) of this policy may be accessed on the [archive page](https://web.archive.org/privacy/archive).
