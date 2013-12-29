@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secuwa.org privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626023442id_/http%3A//www.schoolemployeescu.org/privacy-policy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secuwa.org privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229055338id_/http%3A//www.schoolemployeescu.org/privacy-policy-security.html) for the most accurate reproduction.*
 
 # Privacy Policy & Security | School Employees Credit Union of Washington | Seattle - Spokane
 
