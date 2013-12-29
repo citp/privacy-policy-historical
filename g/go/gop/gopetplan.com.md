@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gopetplan.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513221223id_/http%3A//www.gopetplan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopetplan.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229110334id_/http%3A//www.gopetplan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy from Petplan USA
 
@@ -102,8 +102,8 @@ The information that you provide to us is not sold to third party data compilati
   * If you have any questions after reading this privacy policy or would like further information please write to us at:   
 Privacy Administration   
 Petplan   
-1 International Plaza, Suite 140   
-Philadelphia, PA 19113 
+3805 West Chester Pike, Suite 240   
+Newtown Square, PA 19073 
 
 Telephone: 1.866.467.3875 
 
