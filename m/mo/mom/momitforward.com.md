@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the momitforward.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501074413id_/http%3A//momitforward.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momitforward.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230003455id_/http%3A//momitforward.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mom it ForwardMom it Forward
+# Privacy Policy - Mom it Forward
 
 Mom It Forward respects your privacy, and recognizes your concern for the way your personal information is handled and shared.  We want to ensure that you are aware of our practices and know how to contact us if you have a concern.  Please review our privacy policy below and note that we may occasionally update it to reflect new technologies or company procedures.  You should therefore review this policy regularly.
 
