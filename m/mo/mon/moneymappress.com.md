@@ -1,13 +1,17 @@
-> *The following text is extracted and transformed from the moneymappress.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111174933id_/http%3A//moneymappress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymappress.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229152116id_/http%3A//moneymappress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Money Map Press
 
-****_Money  Map_ _Press_ takes individual privacy very seriously. We are also aware of the threats to your security and privacy on the Internet. Please take a few moments to review the steps that _Money Map Press_
+****_Money  Map_ _Press_ takes individual privacy very seriously. We are also aware of the threats to your security and privacy on the Internet. Please take a few moments to review the steps that _Money Map Press_ takes to ensure your privacy and security while giving you the best possible customer service as you use our web sites.
 
-takes to ensure your privacy and security while giving you the best possible customer service as you use our web sites.
+**Policy against advertising our website using unsolicited email messages**
 
-**Cookies  
-**Cookies are small files placed on your hard drive by an Internet server when you visit a web site. Some cookies can be used to identify your computer each time you visit a site.
+We require that all e-mails promoting MoneyMapPress.com or its products are sent only to clients who have agreed to receive such messages. We prohibit any advertising of our brand and Web site using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination.
+
+If you feel you’ve been sent unsolicited emails promoting our brand or website and would like to register a complaint, please email our abuse department (customerservice@moneymappress.com). We will immediately investigate all allegations made related to unsolicited messages.
+
+**Cookies**  
+Cookies are small files placed on your hard drive by an Internet server when you visit a web site. Some cookies can be used to identify your computer each time you visit a site.
 
 _Money Map Press_ web site only uses cookies to allow authentication for access to the Subscriber Only areas of our sites.
 
