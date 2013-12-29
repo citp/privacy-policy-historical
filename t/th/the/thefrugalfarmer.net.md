@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thefrugalfarmer.net privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606030920id_/http%3A//www.thefrugalfarmer.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefrugalfarmer.net privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229155637id_/http%3A//www.thefrugalfarmer.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Frugal Farmer
-
-### THE LONG AND THE SHORT OF IT
+# Privacy Policy | The Frugal Farmer
 
 **The Short version…**
 
@@ -57,17 +55,3 @@ The web site contains links to other websites not owned by the owner of this web
 ### If you have any questions, concerns, or comments about our privacy policy or terms and conditions you may contact us.
 
 We reserve the right to make changes to this policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
-
-| 
-
-### The Big Experiment: A Year of Depression-Era Living
-
-Follow along with our family of 6 (mom, dad and four "youngins") as we "spend" 2013 not spending. Read our story on the ["About"](http://www.thefrugalfarmer.net/about/) page, and see our budget goals on the "Frugal Finance Management" page. Some of our budget goals: ZERO spending/fun money... ZERO health and beauty money (haircuts, etc.)... $300 on food each month for our family of 6... Follow along with us as we work toward getting back to basics and reducing our debtload. See our ["Journey to Debt-Freedom"](http://www.thefrugalfarmer.net/the-frugal-farmers-journey-to-debt-freedom/) for posts, etc., about our DE experiment. 
-
-### Your One Stop Shop for Saving and Earning Money
-
-[](http://shop.thea-zofsavingmoney.com/index.php?route=product/product&product_id=50&tracking=513d243483b79)
-
-### Running Free: Good, clean adventure for kids and adults alike
-
-### My favorite canning and preserving book
