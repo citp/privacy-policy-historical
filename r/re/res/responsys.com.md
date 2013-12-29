@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the responsys.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628190429id_/http%3A//responsys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsys.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229090632id_/http%3A//www.responsys.com/privacy-policy) for the most accurate reproduction.*
 
 # Legal - Privacy Policy | Responsys
 
@@ -103,10 +103,11 @@ Note that if you wish to unsubscribe from emails sent by our clients (as opposed
 
 If you have any questions about this Privacy Policy or this Web site, please contact us directly at [privacy@responsys.com](mailto:privacy@responsys.com). or:   
 Responsys, Inc.  
+Privacy Officer / General Counsel   
 1100 Grundy Lane, 3rd Floor  
 San Bruno, CA 94066  
 (650) 745-1700
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.responsys.com&sealid=101) [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.responsys.com&sealid=102)
+[](https://privacy.truste.com/privacy-seal/Responsys/validation?rid=7a88817d-b28f-4ed9-8a2a-07a9bbb740d6 "TRUSTe European Safe Harbor certification")
 
 [](http://www.espcoalition.org/)
