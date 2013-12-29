@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roliana.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630121243id_/http%3A//www.roliana.com/phpBB3/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roliana.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229090426id_/http%3A//www.roliana.com/phpBB3/privacy.php) for the most accurate reproduction.*
 
 # Roliana • Privacy Policy
 
