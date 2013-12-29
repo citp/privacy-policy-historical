@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mbaguys.net privacy policy that was archived on 2013-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130329181137id_/http%3A//www.mbaguys.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbaguys.net privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229085709id_/http%3A//www.mbaguys.net/pages/privacy) for the most accurate reproduction.*
 
-# MBAGuys.net privacy policy - MBA Guys
+# Privacy Policy | MBA Guys
 
 **Overview**
 
 MBAGuys.net, Inc. is a community of MBA aspirants on the web and this "Privacy Statement" discloses the privacy practices for the entire MBAGuys.net website and MBAGuys.net respects your privacy. Below is an outline of the information that MBAGuys.net gathers, how it’s used, and how you can "opt-out". 
 
-We invite you to contact us if you have questions about this policy. You may [contact us](http://www.mbaguys.net/sendmessage.php).
+We invite you to contact us if you have questions about this policy. You may [contact us](http://www.mbaguys.net/misc/contact).
 
 **Statement**
 
@@ -81,8 +81,10 @@ We use third-party advertising companies to serve ads when you visit our website
 
 **Questions and Comments**
 
-If you have any questions, comments or suggestions regarding our web site's privacy policy, or regarding any other aspects of our website, please [contact us](http://www.mbaguys.net/sendmessage.php). 
+If you have any questions, comments or suggestions regarding our web site's privacy policy, or regarding any other aspects of our website, please [contact us](http://www.mbaguys.net/misc/contact). 
 
 **Notification of Changes**
 
-If we decide to change the Privacy Policy, the changes will be posted [here](http://www.mbaguys.net/privacy.php)
+If we decide to change the Privacy Policy, the changes will be posted [here](http://www.mbaguys.net/pages/privacy/)
+
+[ ](http://www.mbaguys.net/)
