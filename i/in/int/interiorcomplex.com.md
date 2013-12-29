@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interiorcomplex.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530054217id_/http%3A//interiorcomplex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interiorcomplex.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229115916id_/http%3A//interiorcomplex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Interior Complex
 
