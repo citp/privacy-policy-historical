@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the solomid.net privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628214139id_/http%3A//www.solomid.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solomid.net privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229072305id_/http%3A//www.solomid.net/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - SoloMid.NET - League of Legends Competitive Gaming Community
+# 
 
 **What information do we collect?**
 
