@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalhotelindex.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630092427id_/http%3A//www.ghix.com/goto/privacy_protection.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalhotelindex.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229091535id_/http%3A//www.ghix.com/goto/privacy_protection.html) for the most accurate reproduction.*
 
 # Untitled Document 1
 
