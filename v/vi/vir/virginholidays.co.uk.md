@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the virginholidays.co.uk privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630163658id_/http%3A//www.virginholidays.co.uk/info/important/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginholidays.co.uk privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229011352id_/http%3A//www.virginholidays.co.uk/important/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy - Virgin Holidays
+# Privacy - Virgin Holidays
 
 ## Data Protection
 
@@ -45,7 +45,7 @@ You have the right to ask us in writing for a data subject access request form t
 
 If you believe that any of your personal information that is held or being processed by us is incorrect then please write to us immediately as we cannot be responsible for any problems that may arise due to inaccurate information that you have provided us with.
 
-We cannot accept responsibility for any issues concerning your data collected by websites that are not directly under our control. Please also be aware that individual organisations operate their own policies regarding the use and sale of personal information and the use of [cookies](https://web.archive.org/info/about/cookies/). If you have a concern regarding the way your personal information will be used on other sites then you are advised to read the relevant privacy statement.
+We cannot accept responsibility for any issues concerning your data collected by websites that are not directly under our control. Please also be aware that individual organisations operate their own policies regarding the use and sale of personal information and the use of [cookies](https://web.archive.org/cookies/). If you have a concern regarding the way your personal information will be used on other sites then you are advised to read the relevant privacy statement.
 
 ## Privacy Policy
 
@@ -86,7 +86,7 @@ A cookie is a text-only string of information that a website transfers to the co
 
 A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number. 
 
-For more information on cookies and how they are used on the Virgin Holidays website, [please click here. ](https://web.archive.org/info/about/cookies/)
+For more information on cookies and how they are used on the Virgin Holidays website, [please click here. ](https://web.archive.org/cookies/)
 
 ### 4\. Links to other websites and their security and privacy policies
 
