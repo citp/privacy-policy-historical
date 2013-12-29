@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowcher.co.uk privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623052234id_/http%3A//www.wowcher.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowcher.co.uk privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229123313id_/http%3A//www.wowcher.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # Wowcher | Privacy Policy
 
@@ -20,7 +20,7 @@ Most internet browsers accept cookies automatically, but usually you can alter t
 
 The information collected by cookies and web beacons is not personally identifiable, it only includes general information about your computer settings, your connection to the internet e.g. operating system and platform, IP address, your browsing patterns and timings of browsing on the Site and geographical location. 
 
-Display advertising on the Site is provided by our advertising partners. Our advertising partners will serve advertisements that they believe are most likely to be of interest to you, based on information about your visit to the Site and other websites (this information is anonymous in that it does not include your name, street address, email address or telephone number). For more information about this type of online behavioural advertising please visit [ www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/). 
+Display advertising on the Site is provided by our advertising partners. Our advertising partners will serve advertisements that they believe are most likely to be of interest to you, based on information about your visit to the Site and other websites (this information is anonymous in that it does not include your name, street address, email address or telephone number). For more information about this type of online behavioural advertising please visit [ www.youronlinechoices.com/uk/](http://www.youronlinechoices.com/uk/). 
 
 For more detail on our cookies, and on trusted 3rd party companies using cookies on our Site [click here](https://web.archive.org/cookies.html). 
 
@@ -70,7 +70,7 @@ Northcliffe House
 Meadow Road  
 Derby  
 DE1 2BH  
-01332 253 089
+0844 264 0417
 
 We may charge a small administration fee (not exceeding the maximum permitted by law in England) in relation to fulfilling a request for access to personal information.
 
