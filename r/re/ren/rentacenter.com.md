@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the rentacenter.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509194057id_/http%3A//www6.rentacenter.com/Privacy-Policy.html%3FWT.z_position%3Dfoot%26WT.z_content%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentacenter.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229011934id_/http%3A//www6.rentacenter.com/privacy-policy%3FWT.z_position%3Dfoot%26WT.z_content%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **1\. What information does the Company collect about you on this Web site and what does it do with the information?**  
 The Company collects personally-identifiable information that you provide on one of our many on-line forms. These forms include a preliminary rental order, sweepstakes registration, online specials or contact requests, and online surveys. The personally-identifiable information ("personal information" or "your information") collected on this Web site can include some or all of the following - your name, address, phone number, email address, birthday, social security number, and information regarding your lease or mortgage and product interests.
 
-In addition to the personal information identified above, the Company also automatically receives and records data from our servers and from your browser when you visit this Web site, including your IP address, the time, and information about the page you requested and the Web site through which you were linked to our site, if any. We may use tracking technologies in a variety of ways, including the following: keeping count of return visits to our site; accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on Web site usage; and determining which features users like best.
+In addition to the personal information identified above, the Company also automatically receives and records data from our servers and from your browser when you visit this Web site, including your IP address, the time, and information about the page you requested and the Web site through which you were linked to our site, if any. We may use tracking technologies in a variety of ways, including the following: keeping count of return visits to our site; accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on Web site usage; and determining which features users like best. If you do not want us to collect this information from your browser for these purposes, you can tell us that by "
+
+[opting out](https://metrics.rentacenter.com/optout.html?locale=en_US&popup=true "Opt Out")".
 
 Finally, your Internet browser has a feature called "cookies," which stores small amounts of data on your computer about your visit to our site. Cookies tell us nothing about who you are, however, unless you specifically give us personal information. You do not need to have cookies turned on to visit rentacenter.com. You may also elect not to allow cookies to be collected by selecting certain options on your browser.
 
@@ -28,10 +30,10 @@ The Company will use appropriate security measures to protect your information i
 Yes. This Web site provides links to other Web sites that are not owned or operated by the Company. Such Web sites are not subject to the Company's Privacy Policy. Accordingly, you should consult the privacy policies of those Web sites, if any, prior to entering any personal information on those Web sites.
 
  **6\. What is the effective date of the Company's Privacy Policy and how will the Company notify me of changes to its Privacy Policy?**  
-This Privacy Policy is effective August 6, 2004. Any material changes to this Privacy Policy will be posted on this Web site.
+This Privacy Policy is effective September 13, 2013. Any material changes to this Privacy Policy will be posted on this Web site.
 
  **7\. How does the Company handle children's privacy online?**  
 The Company's Web site is intended for a general audience. The Company does not knowingly collect personal information about children or enter into rental-purchase transactions with children. In accordance with the Children's Online Privacy Protection Act, the Company does not permit registration by, and will not knowingly collect or use personal information from, anyone under 13 years of age. If the Company is notified that it has inadvertently collected personal information from anyone under 13 years old, it will destroy such information. If you are under the age of 18, you must ask a parent or legal guardian to order merchandise from the Company.
 
  **8\. How do I contact the Company?**  
-[Click here for information on how to contact our Customer Service Department](https://web.archive.org/How-RAC-Works/Contact-Us.html "Contact Us") with questions or comments.
+[Click here for information on how to contact our Customer Service Department](https://web.archive.org/how-rac-works/contact-us "Contact Us") with questions or comments.
