@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the quirktools.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231172740id_/http%3A//quirktools.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quirktools.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229010150id_/http%3A//quirktools.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy / QuirkTools / Online Tools for Creative People
-
-## Privacy Policy
+# QuirkTools / Privacy Policy
 
 ###### Our Commitment to Privacy
 
