@@ -1,21 +1,22 @@
-> *The following text is extracted and transformed from the thirddoormedia.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630185107id_/http%3A//thirddoormedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirddoormedia.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229092321id_/http%3A//thirddoormedia.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for Third Door Media - Third Door Media
+# Privacy Policy - Third Door Media
 
 We want to protect your privacy. In order to operate, our web sites and business operations may gather information about you. These terms explain how this may happen, what we will do with any potentially private data and how you can get in contact should you have any concerns.
 
 ## Personally Identifiable Information Collected
 
-Personal identifiable information is information that allows you to be identified as a particular person, such as your name, your address or phone number.  
+Personal identifiable information is information that allows you to be identified as a particular person, such as your name, your address or phone number.
+
 We collect certain types of personal information when you register for an event, a webcast or a newsletter. This information may include:
 
-  * your name
-  * your title
-  * your address
-  * your phone number
-  * your fax number
-  * your email address
-  * your credit card number or other payment method
+  * __your name
+  * __your title
+  * __your address
+  * __your phone number
+  * __your fax number
+  * __your email address
+  * __your credit card number or other payment method
 
 
 
@@ -45,10 +46,10 @@ Browsers can be set to accept or reject cookies or notify you when a cookie is b
 
 Personally identifiable information you provide may be used to:
 
-  * Send you something you’ve requested, such as email newsletter
-  * Send you information from Third Door Media that we think you’ll be interested in
-  * Send you information from our advertisers 
-  * Target advertising based on your interests, if you’ve provided those
+  * __Send you something you’ve requested, such as email newsletter
+  * __Send you information from Third Door Media that we think you’ll be interested in
+  * __Send you information from our advertisers
+  * __Target advertising based on your interests, if you’ve provided those
 
 
 
@@ -56,9 +57,9 @@ Personally identifiable information you provide may be used to:
 
 Your personally identifiable information will only be shared with other companies when:
 
-  * We have asked for and you have given your consent to share the information with advertisers, exhibitors and sponsors for a specific service.
-  * We need to provide it to other companies in order to deliver the services you want from us, such as having an email list sent out or to process your event order. In these cases, the information is used only for the specific service you wanted from us.
-  * You allow your badge to be scanned at Search Marketing Expo conference.
+  * __We have asked for and you have given your consent to share the information with advertisers, exhibitors and sponsors for a specific service.
+  * __We need to provide it to other companies in order to deliver the services you want from us, such as having an email list sent out or to process your event order. In these cases, the information is used only for the specific service you wanted from us.
+  * __You allow your badge to be scanned at Search Marketing Expo conference.
 
 
 
@@ -70,4 +71,4 @@ We may buy or sell a company or property. If we sell a business, we may transfer
 
 ## Policy Changes, Questions & Comments
 
-We’ll post changes to this policy on this page. Questions about this policy should be emailed using [this form](https://web.archive.org/contact/feedback.html) or sent to our offices at Third Door Media, 279 Newtown TPKE, Redding, CT 06896.
+We’ll post changes to this policy on this page. Questions about this policy should be emailed using [this form](https://web.archive.org/contact) or sent to our offices at Third Door Media, 279 Newtown TPKE, Redding, CT 06896.
