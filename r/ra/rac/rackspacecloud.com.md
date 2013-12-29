@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rackspacecloud.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618105733id_/http%3A//www.rackspace.com/information/legal/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rackspacecloud.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229031513id_/http%3A//www.rackspace.com/information/legal/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement | Rackspace Legal | Rackspace Hosting
 
