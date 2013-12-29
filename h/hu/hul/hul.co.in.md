@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hul.co.in privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624020338id_/http%3A//www.hul.co.in/resource/cookiepolicy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hul.co.in privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229200322id_/http%3A//www.hul.co.in/resource/cookiepolicy/index.aspx) for the most accurate reproduction.*
 
 # Cookie policy
 
