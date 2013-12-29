@@ -1,63 +1,67 @@
-> *The following text is extracted and transformed from the horseplayerinteractive.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Discover/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horseplayerinteractive.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229232402id_/http%3A//www.horseplayerinteractive.com/Discover/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # HorsePlayer Interactive
 
-  * |  [Hollywood Park](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=43&Race=8&SessionDate=2013-06-30)
+  * |  [Sunland Park](https://web.archive.org/web/20131229232402id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=86&Race=11&SessionDate=2013-12-29)
 
-Race 8, 9 MTP
-
-[](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/Schedules.aspx?code=HPItv)  
+Race 11, 11 MTP  
   
 ---  
-[Pleasanton](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=133&Race=8&SessionDate=2013-06-30)
+[Hawthorne TB](https://web.archive.org/web/20131229232402id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=105&Race=10&SessionDate=2013-12-29)
 
-Race 8, 19 MTP  
+Race 10, 19 MTP  
   
-[Hastings](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=39&Race=7&SessionDate=2013-06-30)
+[Portland](https://web.archive.org/web/20131229232402id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=121&Race=9&SessionDate=2013-12-29)
 
-Race 7, 13 MTP
-
-[](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/Schedules.aspx?code=HPItv)  
+Race 9, 20 MTP  
   
-[Emerald](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=22&Race=6&SessionDate=2013-06-30)
+[Santa Anita](https://web.archive.org/web/20131229232402id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=81&Race=7&SessionDate=2013-12-29)
 
-Race 6, 21 MTP  
+Race 7, 10 MTP
+
+[](https://web.archive.org/web/20131229232402id_/http%3A//www.horseplayerinteractive.com/Racing/Schedules.aspx?code=HPItv)  
   
-[Presque Isle](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=156&Race=6&SessionDate=2013-06-30)
+[Fraser Downs](https://web.archive.org/web/20131229232402id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=32&Race=9&SessionDate=2013-12-29)
+
+Race 9, 6 MTP
+
+[](https://web.archive.org/web/20131229232402id_/http%3A//www.horseplayerinteractive.com/Racing/Schedules.aspx?code=HPItv)  
+  
+[Golden Gate](https://web.archive.org/web/20131229232402id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=34&Race=6&SessionDate=2013-12-29)
 
 Race 6, Off  
   
-[Pocono Downs](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=180&Race=4&SessionDate=2013-06-30)
+[Dover Downs](https://web.archive.org/web/20131229232402id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=20&Race=4&SessionDate=2013-12-29)
 
 Race 4, 0 MTP  
   
-[Rideau Carleton](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=76&Race=4&SessionDate=2013-06-30)
+[Flamboro](https://web.archive.org/web/20131229232402id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=28&Race=2&SessionDate=2013-12-29)
 
-Race 4, 6 MTP
+Race 2, Off
 
-[](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/Schedules.aspx?code=HPItv)  
+[](https://web.archive.org/web/20131229232402id_/http%3A//www.horseplayerinteractive.com/Racing/Schedules.aspx?code=HPItv)  
   
-[Running Aces](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=179&Race=3&SessionDate=2013-06-30)
+[Rideau Carleton](https://web.archive.org/web/20131229232402id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=76&Race=1&SessionDate=2013-12-29)
 
-Race 3, 9 MTP  
+Race 1, 6 MTP
+
+[](https://web.archive.org/web/20131229232402id_/http%3A//www.horseplayerinteractive.com/Racing/Schedules.aspx?code=HPItv)  
   
-[Mountaineer](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=60&Race=3&SessionDate=2013-06-30)
+[Northfield Park](https://web.archive.org/web/20131229232402id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=62&Race=1&SessionDate=2013-12-29)
 
-Race 3, 12 MTP
+Race 1, 12 MTP
 
-[](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/Schedules.aspx?code=HPItv)  
+[](https://web.archive.org/web/20131229232402id_/http%3A//www.horseplayerinteractive.com/Racing/Schedules.aspx?code=HPItv)  
   
-[Balmoral](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=7&Race=1&SessionDate=2013-06-30)
+[Mountaineer](https://web.archive.org/web/20131229232402id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=60&Race=1&SessionDate=2013-12-29)
 
-Race 1, 32 MTP
+Race 1, 36 MTP
 
-[](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/Schedules.aspx?code=HPItv)  
+[](https://web.archive.org/web/20131229232402id_/http%3A//www.horseplayerinteractive.com/Racing/Schedules.aspx?code=HPItv)  
   
-[Los Alamitos](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=52&Race=1&SessionDate=2013-06-30)
+[Pompano Park](https://web.archive.org/web/20131229232402id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=70&Race=1&SessionDate=2013-12-29)
 
-Race 1, 58 MTP
-
-[](https://web.archive.org/web/20130630233631id_/http%3A//www.horseplayerinteractive.com/Racing/Schedules.aspx?code=HPItv)  
+Race 1, 41 MTP  
   
   *   * 
 
