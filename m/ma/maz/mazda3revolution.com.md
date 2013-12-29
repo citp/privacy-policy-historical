@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mazda3revolution.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601174418id_/http%3A//mazda3revolution.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazda3revolution.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229024527id_/http%3A//mazda3revolution.com/privacy-policy) for the most accurate reproduction.*
 
 # 2013-04 Mazda 3 Community : Mazda3Revolution.com | Privacy Policy
 
