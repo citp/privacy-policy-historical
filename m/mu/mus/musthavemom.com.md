@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musthavemom.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608220823id_/http%3A//musthavemom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musthavemom.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229073822id_/http%3A//musthavemom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Must Have Mom
 
@@ -20,4 +20,4 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at sarah@musthavemom.com.
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fmusthavemom.com%2Fprivacy-policy&media=&description=Privacy+Policy)
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fmusthavemom.com%2Fprivacy-policy&media=&description=Privacy+Policy)[ ](https://www.linksalpha.com/social/mobile)
