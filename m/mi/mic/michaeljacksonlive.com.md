@@ -1,200 +1,168 @@
-> *The following text is extracted and transformed from the michaeljacksonlive.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509021343id_/http%3A//www.michaeljacksonlive.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaeljacksonlive.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229143321id_/http%3A//www.sonymusic.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Michael Jackson Live!
+# Privacy Policy | Sony Music
 
-  * [Home](https://web.archive.org/index.php)
-  * [Ticket Info](https://web.archive.org/refunds.php)
-  * [Credits](https://web.archive.org/thisisit/credits.php)
-  * [This Is It](http://www.thisisit-movie.com/)
-  * [Register](https://web.archive.org/exhibition.php)
-  * [Merchandise](http://www.michaeljacksonmerch.com/)
-  * [MichaelJackson.com](http://www.michaeljackson.com/)
+This Privacy Policy describes our policies on the collection, use and disclosure of your information in connection with your use of our websites, emails, and mobile applications (“Site” or “Sites”).  Sony Music Entertainment (“Sony Music”) is a wholly owned subsidiary of Sony Corporation of America. Information collected on this Site may be used in the manner described below by Sony Music Entertainment, our labels, agents, subsidiaries, trusted partners and affiliates acting on our behalf (collectively, “Sony Music”). When used herein, the terms “we”, “us” and “our” refer to Sony Music.
 
+When this Privacy Policy uses the term “personal information,” we mean information that identifies a particular individual, such as full name, street address, telephone number or email address.
 
+Sony Music has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with[TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. Please note that TRUSTe provides this service only for information that is collected through Sony Music websites and does not cover information that may be collected through our mobile applications. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
-### Privacy Policy
+We encourage you to review the entire Privacy Policy. Please click on any of the links below to review that particular section.
 
-#### General Overview
+* * *
 
-The purpose of this Privacy Policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
+Collection and Use of Personal Information
 
-AEG Live and MJJ Productions is committed to protecting your privacy. We use the information we collect about you to process and complete the commercial transactions you request, and to provide you with a more personalized experience on our site. We have created this privacy policy statement in order to demonstrate our firm commitment to protecting the privacy of all of our customers and visitors. The following Privacy Policy discloses the information-gathering and dissemination practices and policies of AEG Live and MJJ Productions.
+Social Networks/Online Communities
 
-Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you online. For some services, we either collect and transfer personal information to a service provider, or you may visit other merchants through links on our site who may collect and use your personal information. We encourage you to ask questions and to be very cautious before you disclose your personal information to others.
+Transactions
 
-Please read the following to learn more about our data collection policies and practices.
+Information Sharing
 
-  1. Types of Information that may be collected.
-  2. How is information collected?
-  3. How we use the information we collect.
-  4. With whom the information may be disclosed.
-  5. What choices do I have about AEG Live and MJJ Productions collecting, using, and disclosing my information?
-  6. What security precautions are in place to protect against the loss, misuse, or alteration of your information?
-  7. Chat Rooms, Forums, and Message Boards.
-  8. Links to other Websites.
-  9. A special note for parents concerning privacy.
-  10. International users.
-  11. Limitation of Liability.
-  12. Notification of changes and acceptance of the Privacy Policy.
-  13. Correcting and updating personal information.
-  14. Opting out of Registration.
-  15. Whom do I contact with questions or concerns about this privacy policy?
+Choice/Opt-Out
 
+Tracking Technologies
 
+Security
 
-### 1\. Types of information that may be collected
+Updating Your Personal Information
 
-The personally identifiable information we collect is used to facilitate delivery of tickets and/or other products and/or services to our customers. In the process of providing these products and/or services, we require our customers to provide certain personally identifiable information. Specific details may include, but are not limited to the following and may be subject to change:
+Consent to Processing
 
-In the case of contests, promotions, and/or newsletter registrations or other features that may or may not involve a purchase: We may require all users and/or customers wishing to participate in any of our contests, drawings, sweepstakes, promotions, newsletters, Fantasy Games, Webcasts or other interactive features which may or may not require a purchase to complete an entry form which will require the submission of certain personally-identifiable information.
+Additional Information
 
-The personally-identifiable information that may be collected in an entry form includes, but may not be limited to: customer's first name, last name, zip code, phone number, age and email address. Winners of contests, drawings, sweepstakes, and/or promotions will be required to provide additional personally identifiable information such as a shipping address and telephone number. If the privacy policy varies for a particular sweepstakes or promotion, that information will be disclosed in the sweepstakes or promotion rules.
+Changes to This Policy
 
-In the case of a ticket or other product and/or service which involves a purchase on our Site: In order to complete the purchase of a product and/or service, an online credit card transaction is required. During this process we generate and collect certain personally identifiable information.
+Your California Privacy Rights
 
-The personally identifiable information that may be collected from our customers in completion of a product and/or service purchase, includes, but may not be limited to: customer's first and last name, first and last name of the credit card owner, credit card billing address, credit card number, credit card security code, credit card expiration date, customer's shipping address, phone number, and email address. You may also have the opportunity to permit us to maintain this information in a personal profile for you so you do not have to re-enter the information each time you make a purchase.
+Questions About This Privacy Policy
 
-If a customer sends us personal correspondence, such as emails or letters, we may collect such information into a file specific to such customer.
+* * *
 
-Back to Top
+**Collection and Use of Personal Information**
 
-### 2\. How is information collected?
+We may collect the following personal information from you:
 
-We may collect information from you in several different areas on our Site, including but not limited to those described below:
+  * Contact information such as name, email address, street address, and phone number
+  * Billing information such as credit card number and billing address
+  * Demographic information such as age, gender, interests, country and zip code
+  * Unique identifiers such as user name and password
+  * Preference and other information such as product wish lists, order history, marketing preferences and cell phone carrier
+  * Location information such as your actual or approximate location
 
-**Registration**
 
-You may be asked first to complete a registration form and provide personally-identifiable information. You may also be asked to choose a user ID and password in order to take advantage of certain features our Site may choose to offer, including, but not limited to, newsletters, contests, forums, fantasy, webcasts or other subscription based services.
 
-**Newsletters and Site Emails**
+We or one of our trusted partners may use this information to:
 
-We may offer free newsletters to share information with you about our Site, about us and our affiliates and subsidiaries, or about our business partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on our Site. You may cancel your free email subscription by following the instructions provided on our Site or in the designated area of the newsletters or emails.
+  * Send you requested updates and newsletters about an artist, type of music or related special offers
+  * Send you requested product or service information
+  * Send a one-time email or e-card to your friends upon your request when you provide their email address
+  * Fulfill your order
+  * Send you an order confirmation
+  * Respond to customer service requests, questions and concerns
+  * Administer your account
+  * Process information submitted with a job application
+  * Send you marketing communications
+  * Administer promotions and sweepstakes you enter and notify you of the results
+  * Improve our marketing efforts
+  * Conduct research and analysis
+  * Display content based upon your location and/or interests
+  * To provide location services such as “tagging” and “check-in”
 
-**Contests or Sweepstakes**
 
-We may operate contests and sweepstakes through our Site, which may require registration. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes. Your entry in the contest or sweepstakes may also result in your being added to our mailing lists as well as those of our promotional partners associated with the contest or sweepstakes. Acceptance of a prize may require you (unless prohibited by law) to allow us to post publicly some of your information on our Site, such as on a winner's page, in the event you win a contest or sweepstakes. In some instances, a third-party advertiser or sponsor may operate or host a contest or sweepstakes on our Site, and collect your information. In those cases, where we are not the operator or host of the contest or sweepstakes, we have no control over the information collected and accordingly urge you to review the official rules of the contest/sweepstakes as well as the advertiser's or sponsor's privacy policy applicable to the contest or sweepstakes before participating.
 
-**Surveys or Voting**
+We also automatically collect information about your computer as you browse our Site(s).  Please see the Tracking Technologies section of this Privacy Policy. We will retain your information for as long as your account is active and as needed to provide you services.  We will use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
 
-From time-to-time we may request personally-identifiable information from you via surveys or voting polls. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information. At times, you may have to register to vote or to take part in a survey.
+**Social Networks/Online Communities**
 
-**Cookies**
+We enable you to create a profile for accessing blogs or online communities for sharing information such as messages, photos and videos.  Please note that we cannot control the actions of others with whom you may choose to share your pages and information.  We may also enable you to post content from some of our Sites to your profile on other social networks.  You can access these services from our Sites using Facebook Connect, Twitter, or other Open ID providers.  These services will authenticate your identity and allow you to post and share certain personal or other information with that site.  Please be aware that the privacy policy of that site will apply to any content you provide them in these instances.  We do not allow these services to provide any personal information or content back to our Sites or your profile with us unless you agree.  To request removal of your personal information from our blog or community forum, [contact us here](http://hub.sonymusic.com/about/feedback.php). If we are unable to remove your personal information, we will respond to your request with the applicable reasons.
 
-As with many Websites, our Site uses standard technology called "cookies," which are small data files that are transferred to your computer when you allow your browser to accept cookies. Cookies automatically identify your Web browser to our Site whenever you visit our Site, and make using our Site easier for you by saving your passwords, purchases, and preferences. By tracking how and when you use our Site, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Site are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on our Site. Cookies may also allow our Site to present to you advertising which may be of interest to you. If you do not want information collected through the use of cookies, you generally can opt out of providing this information by turning the cookies off in your browser; however, some areas of our Site may not provide you with a personalized experience if you have disabled the use of cookies.
+**Transactions**
 
-**IP Addresses and Click-stream Data**
+You may purchase artists’ music or merchandise from some of our Site(s).  This Privacy Policy applies to any personal information you provide in connection with any such purchases.  In some instances, you may be directed to a third party site to initiate your transaction.  These third party sites will be clearly identified and link to their own privacy policies so you know which company is collecting your personal information.  You should refer to those policies for any privacy-related concerns regarding your purchase with them.
 
-We may collect IP addresses and/or click-stream data for purposes of system administration, to improve our Site and to report aggregate information to our advertisers and sponsors or other internal uses. An IP address is a number that is automatically assigned to your computer whenever you access the Internet. Our computers identify your computer by its IP address. When you request Web pages from our Site, our computers log your IP address.
+**Information Sharing**
 
-Click-stream data is information collected by our computers when you request Web pages from our Site. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. When analyzed, this data helps us analyze how visitors arrive at our Site, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like.
+We will share your personal information with third parties in the ways that are described in this Privacy Policy. We may provide your personal information to companies that help us with our business activities (e.g. processing credit card transactions, shipping your order, assisting us in Site operations, providing customer service, delivering email newsletters, etc.) or that assist us in improving our products, content, services or advertising.  These companies are authorized to use your personal information only as necessary to provide these services.
 
-**Transaction Information**
+We may also share your personal information:
 
-If you place an order or subscribe for any of the services offered on our Site, we will ask you to complete an order form that will request certain information from you, including financial information such as a credit card number and expiration date and general contact, billing and shipping information. We will use this information to complete the transaction that you have requested, e.g., to deliver the information, products or other services that you order, and to invoice you. Such information is collected and stored through encrypted means for your protection.
+  * With Sony Music affiliates and representatives of our current recording artists
+  * With affiliated Sony Group companies (i.e. any company in which Sony Corporation of America owns, directly or indirectly, 50% or more of its outstanding shares and any company with the name “SONY” as part of its trade name)
+  * With reputable third parties in whose products or services we think you may have an interest, with your prior consent to do so
+  * With representatives of former recording artists, who will be advised in advance that your consent is required for continued use
+  * As required by law, such as to comply with a subpoena or similar legal process
+  * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud or respond to a government request
+  * In connection with a corporate change including a merger, acquisition or sale of assets
+  * To any other third party with your prior consent to do so
 
-**Fantasy Games**
 
-When you register to play Fantasy games, you may be asked to provide personally identifiable information.
 
-Back to Top
+**Choice/Opt-Out**
 
-### 3\. How we use the information we collect?
+You may choose to stop receiving newsletters, updates or marketing emails by following the unsubscribe instructions included in these emails. Some Sites also allow you to change your email preferences within your online profile.
 
-We internally use personally identifiable information about our customers to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our Site's content and layout. We believe these uses allow us to improve our Site and provide better service to our customers.
+If you choose to join a mobile marketing list, please be aware that there are usually costs associated with receiving SMS (text) or MMS (multimedia) messages depending on your wireless carrier and plan. You should check with your mobile carrier to determine what charges apply before signing up to receive our updates via your mobile phone. If you would like to stop receiving messages from us on your mobile phone, please reply to the message with “STOP.” You may also contact your wireless carrier for additional information on receiving or stopping mobile messages.
 
-We may use a customer's email address and, in rare situations mailing address or phone number, to contact a customer regarding, administrative matters or notices, satisfaction with our Site and/or services and to provide further information regarding additional events, products or services we believe the customer would be interested in.
+If you have previously enabled your computer or mobile device to send us location information, you may be able to opt-out from further allowing us to access such information by changing the settings on your computer or mobile device or by uninstalling the application.
 
-We may use information in the file we maintain about a customer to resolve disputes and troubleshoot problems.
+**Tracking Technologies**
 
-Back to Top
+We and our third party partners may automatically collect information as you browse our Site(s) such as the domain name, Internet Service Provider, browser type and version, mobile device ID, operating system and device type, average time spent on our Site(s), pages viewed, information accessed, the Internet Protocol (IP) address you use to connect to the Internet and related geographical information about your computer or mobile device. Such information is sometimes referred to as web analytics and/or clickstream data.
 
-### 4\. With whom the information may be disclosed.
+We and our third party partners use cookies and other technologies such as web beacons to keep track of your visits, preferences and profile information.  This information is used to make our Site(s) easier to use, improve our advertising, and to provide you with a more personal and convenient experience. For example, we may use this information to store some of your preferences or to provide you with tailored advertisements related to your specific interests. Additionally, should you choose to enroll, we and our third party partners may use this information to allow you to participate in one of our fan rewards programs. To learn more about the use of cookies in online advertising, including how to manage or delete them [click here](http://www.networkadvertising.org/managing/learn_more.asp).
 
-In order to process your requests we may provide your personally-identifiable information to service providers or other companies who work on our behalf in order, for example, to process the transaction and deliver the tickets or other goods or services you have ordered. When we do so, we use reasonable efforts to assure that they comply with our privacy policy and applicable law. Information we collect may be accessed by a variety of parties, depending upon the purpose for which the information was provided, and the context in which the information was provided.
+We and some of our third party partners use Flash cookies to store some of your preferences or personal information.  For more information on Flash cookies and how to manage privacy and storage settings [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).
 
-If you purchase a ticket to a specific event on our Site, your first name, last name, physical address, phone number and email address may be provided to the management of the artist(s) for that event.
+In some of our email messages, we use “click-through URLs” or pixel tags to determine whether the email has been opened and to measure the effectiveness of our customer communications.  This data may also be used to gauge your interest in particular topics, so we can deliver a more relevant, personal and convenient user-experience.
 
-While we believe any disclosure of your information will result in opportunities that may be of interest to you, you have the right to opt out from receiving any future communications by contacting such third party directly. You may also opt out from receiving future communications from AEG Live and MJJ Productions through one of the following methods: (i) clicking on the appropriate links contained in our email communications; (ii) sending us a written request to the following address: Privacy Policy - AEG Live and MJJ Productions, C/O AEG Digital, 800 West Olympic Blvd., Suite 200, Los Angeles, CA 90015 or (iii) emailing: [privacypolicy@aegworldwide.com](https://web.archive.org/web/20130509021343id_/http%3A//www.michaeljacksonlive.com/privacypolicy@aegworldwide.com)
+**Security**
 
-Your request must include your name, email address, mailing address and must be signed. (Signature only required for written request sent by regular mail). Please allow six weeks to process your request. You may also opt out by clicking on the appropriate links contained in our email communications. Under some circumstances, such as where we are contractually required to disclose ticket purchase information to artist management, we may not be able to fulfill your ticket order if you have requested that we do not disclose your information to third parties.
+The security of your personal information is important to us. When you enter sensitive billing information on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information.  We encourage you to read that privacy statement before providing your information.
 
-In addition, in the event that we go through an existing or potential business transition, such as a merger, acquisition, liquidation or sale of all or a portion of its assets, visitor information will, in most instances, be part of the assets transferred.
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and after receipt. However, no method of transmission over the Internet or method of electronic storage is 100% secure and we cannot guarantee its absolute security.
 
-Finally, we may, without your consent, access and disclose your personal information, any communications sent or received by you, and any other information that we may have about you as may be permitted or required by law, regulation, rule or court order; pursuant to requests from governmental, regulatory or administrative agencies or law enforcement authorities; or to prevent, investigate, identify persons or organizations potentially involved in, or take any action regarding suspected fraud, violations of our Terms of Service, or activity that appears to us to be illegal or we believe may expose us to legal liability. Additionally, we may disclose personal information in situations that we believe to be emergencies involving potential threats to the physical safety or any person or property if we believe that your information in any way relates to that threat.
+**Updating Your Personal Information**
 
-Back to Top
+Our Sites may offer different methods for updating your personal information. To review and update your personal information on artist marketing Sites, please log in to your profile/account on each Site where you have registered.
 
-### 5\. What choices do I have about AEG Live and MJJ Productions collecting, using, and disclosing my information?
+To update your billing or shipping information for purchases, please follow the customer service instructions in your order confirmation email.
 
-It is possible for you to use much of our Site without giving us any personally identifiable information. When you do register with us or give us personally identifiable information, you will have an opportunity at the time we collect your information -- to limit e-mail communications from AEG Live and MJJ Productions and from our third-party partners. You can request at any time that AEG Live and MJJ Productions not send future e-mail to you either by unsubscribing from the communication or by contacting us at [privacypolicy@aegworldwide.com](https://web.archive.org/web/20130509021343id_/http%3A//www.michaeljacksonlive.com/privacypolicy@aegworldwide.com). Also, as mentioned above, there are ways to limit the information collected through technology -- though some of our Site features won't work if you decide to do this.
+If you wish to cancel your account or request that we no longer use your information to provide you services contact us by [clicking here](http://hub.sonymusic.com/about/feedback.php).
 
-Even if you request that we not disclose your personal information to third parties, we may disclose personally identifiable information in the good faith belief that we are required to do so by law, or that doing so is reasonably necessary to comply with legal process, respond to any claims, or to protect the rights, property, or personal safety of AEG Live and MJJ Productions, Site users or the public. Information collected through this Site, including personally identifiable information, may be disclosed as part of, or during negotiations of, any merger, sale of company assets or acquisition.
+**Consent to Processing**
 
-Back to Top
+Our Sites are operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect will be transferred to and processed in the United States. By using our Sites, or providing us with any information, you fully understand and unambiguously consent to this transfer, processing and storage of your information in the United States, a jurisdiction in which the privacy laws may not be as comprehensive as those in the country where you reside and/or are a citizen.
 
-### 6\. What security precautions are in place to protect against the loss, misuse, or alteration of your information?
+**Additional Information**
 
-We have implemented reasonable security measures to safeguard your personally identifiable information using reasonable industry standards. However, please keep in mind that "perfect security" does not exist on the Internet and/or the World Wide Web.
+Widgets – Our Site(s) may include interactive mini-programs that provide specific services from another company (e.g., displaying digital news feeds, playing music, “liking” or sharing content, etc.), often referred to as widgets. You may have the opportunity to submit personal information, such as your email address, for collection through a widget. A widget may also use browser or Flash cookies and/or collect clickstream and usage data. Information collected by a widget is governed by the privacy policy of the company that created it.
 
-Back to Top
+Links to Other Site(s) – Our Site(s) includes links to other site(s) whose privacy practices may differ from those of Sony Music.  If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any site you visit.
 
-### 7\. Chat Rooms, Forums, and Message Boards
+Children – We do not attempt to collect any personal information from those under the age of 13. If you feel that we have unknowingly collected information from someone under the age of 13, please [contact us](http://www.sonymusic.com/about/feedback.php) immediately and this information will be removed.
 
-Our Site may make chat rooms, forums, webcasts and message boards available to its users. You are not required to provide any personal information when using these areas but you may choose to do so. We strongly recommend that you do not use your personal information as your user name or that you post any personally identifiable information on line, since such information will be publicly available and you may receive unsolicited messages from other parties. AEG Live and MJJ Productions cannot ensure the security of any information you choose to make public in a chat room, forum, webcast, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy.
+For more information on how to protect your children online:
 
-Back to Top
+**Visit  [www.OnGuardOnline.gov](http://www.onguardonline.gov/) for social networking safety tips for [parents](http://www.onguardonline.gov/topics/social-networking-sites.aspx) and [youth](http://www.onguardonline.gov/topics/safety-tips-tweens-teens.aspx).**
 
-### 8\. Links to other Websites
+**Changes To This Policy**
 
-You should be aware that when you are on our Site you could be directed to other sites beyond our control. For example, if you seek to purchase a ticket to a concert that is not sold on our Site or "click" on a banner advertisement, the "click" may take you off our Site onto a different Website. This includes links from advertisers, sponsors and partners that may use our Site's logo as part of a co-branding agreement. These other Websites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked to our Site, you should review that site's privacy policy before providing any personal information. This Privacy Policy does not apply to any information you submit to third-party Websites, including, without limitation, any Websites that may be connected to our Site by hypertext link or otherwise.
+By using our Site(s), you agree to the terms of this Privacy Policy.  We may amend this Privacy Policy at any time and, as such, we encourage you to periodically review this page for the latest information on our privacy practices. If we make a material change to the way in which we collect, use, and/or share your personal information, we will send an email to users who have provided an email address or post a notice on our Site(s) prior to the change becoming effective.  Your continued use of the Site(s) after a revised version of this Privacy Policy has been posted will signify your consent to the terms of such revised policy.
 
-Back to Top
+**Your California Privacy Rights**
 
-### 9\. A special note for parents concerning privacy
+If you are a California resident, California Civil Code Section 1798.83 provides you the right to receive (a) information identifying any third party(ies) to whom we may have disclosed, within the preceding calendar year, your personal information for that third party’s direct marketing purposes; and (b) a description of the categories of personal information disclosed.  To obtain such information free of charge, please write to us at the address below, or [submit your request here](http://hub.sonymusic.com/about/feedback.php). We will respond to these requests within thirty (30) days. Requests that come to us by other means may result in a delayed response.
 
-This Site is not intended for use by children under the age of 13. We do not knowingly collect personally identifiable information from children.
+**Questions About This Privacy Policy**
 
-Back to Top
+If you have questions or concerns regarding this Privacy Policy, you should first contact Sony Music. You can contact us about this Privacy Policy by writing us:
 
-### 10\. International users.
+Sony Music Entertainment 550 Madison Avenue, Room 2316
 
-If you are accessing this Site from outside of the United States, your information will be transferred to the United States. Regardless of where your information is collected or transferred, the information will be treated in accordance with this Privacy Policy.
+New York, NY 10022
 
-Back to Top
+Or you can [click here](http://www.sonymusic.com/about/feedback.php) to submit feedback online.
 
-### 11\. Limitation of Liability
-
-By providing us with any personal information you expressly and unconditionally release and hold harmless Anschutz Entertainment Group, Inc., its parents, shareholders, owners, members, and each of their subsidiaries, affiliates, directors, officers, employees and agents (collectively, the "Releasees") from any and all liability for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your collected personal information. In addition, while AEG Live and MJJ Productions takes efforts to ensure the proper and appropriate use of AEG Live and MJJ Productions data provided by AEG Live and MJJ Productions to third party companies, promotional partners or vendors, the Releasees are not liable for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your collected personal information by such third parties.
-
-Back to Top
-
-### 12\. Notification of changes and acceptance of the Privacy Policy
-
-By using this Site, you signify your agreement to the terms of our Privacy Policy. AEG Live and MJJ Productions may change this Privacy Policy from time to time. If so, any such changes will be posted on this page, so that AEG Live and MJJ Productions may keep its users informed of its information collection practices. Accordingly, we recommend that you consult this page frequently so that you are aware of our latest policy and/or any changes to this Privacy Policy. Your continued use of our Site shall constitute your acceptance of any such new or revised privacy policy. If at any point we decide to use personal information in a manner different from that stated at the time it was collected, we will send such person an email notifying him/her of such changes and giving him/her the option as to whether to allow us to use such information in such different manner. Without such consent, we will use personal information in accordance with the privacy policy under which it was collected.
-
-Back to Top
-
-### 13\. Correcting and updating personal information
-
-If your PII changes, or if you no longer wish to receive communications from us, you should make changes to your password protected registered user profile on the Site, respond to an opt-out message in an email or text, or email us at [privacypolicy@aegworldwide.com](https://web.archive.org/web/20130509021343id_/http%3A//www.michaeljacksonlive.com/privacypolicy@aegworldwide.com). Please note that to the extent that such information is stored in our databases, we will respond to your changes as soon as reasonably practicable, however that information may remain stored indefinitely in our back-up and archival records. Any information that is stored in aggregate ("headless") form that may have been excerpted from is not considered PII and will not be updated or changed pursuant to a request from you.
-
-Back to Top
-
-### 14\. Opting out of Registration.
-
-If you are a registered subscriber and no longer wish to receive our email communications, you may opt out. Choosing to opt out means we will remove your personal data from our database and you will not receive further communications from us. You may opt out by utilizing one of the following methods: (i) emailing us at [privacypolicy@aegworldwide.com](https://web.archive.org/web/20130509021343id_/http%3A//www.michaeljacksonlive.com/privacypolicy@aegworldwide.com), (ii) using an option out message contained in an email from us or (iii) by using the opt-out form below.
-
-Back to Top
-
-### 15\. Whom do I contact with questions or concerns about this privacy policy?
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact AEG Live and MJJ Productions by sending a letter to:
-
-Privacy Policy - AEG Live and MJJ Productions  
-C/O AEG Digital   
-800 West Olympic Blvd., Suite 200  
-Los Angeles, CA 90015
-
-You may also contact us by e-mail at: [privacypolicy@aegworldwide.com](https://web.archive.org/web/20130509021343id_/http%3A//www.michaeljacksonlive.com/privacypolicy@aegworldwide.com)
-
-Back to Top
+If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns TRUSTe provides this service only for information that is collected through Sony Music websites and does not cover information that may be collected through our mobile applications.
