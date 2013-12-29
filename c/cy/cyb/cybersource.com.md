@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cybersource.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604080312id_/http%3A//www.cybersource.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybersource.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229073521id_/http%3A//www.cybersource.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for CyberSource Corporation - CyberSource
 
