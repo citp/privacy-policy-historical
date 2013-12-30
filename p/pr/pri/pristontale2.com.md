@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pristontale2.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601171054id_/http%3A//www.gamerkraft.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pristontale2.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230112612id_/http%3A//www.gamerkraft.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # GamerKraft - Play Free.
 
