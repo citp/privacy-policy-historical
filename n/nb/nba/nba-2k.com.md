@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nba-2k.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604015930id_/http%3A//nbasky.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nba-2k.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231002635id_/http%3A//nbasky.com/privacy) for the most accurate reproduction.*
 
-# Privacy - NBASky.COM - NBA 2K13 Patches, NBA 2K13 Rosters
+# Privacy - NBASky.com - NBA 2K14 Patches, NBA 2K14 Rosters
 
 ## Privacy
 
