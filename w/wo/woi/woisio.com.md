@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the woisio.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509162039id_/http%3A//info.woisio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woisio.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230110332id_/http%3A//info.woisio.com/en/privacy-policy) for the most accurate reproduction.*
 
 # woisio-privacy-policy
 
-**Last updated: January 9th, 2013.**
+**Last updated: November 11th, 2013.**
 
 The use of the Woisio website(s), application(s), software, services and products (collectively, the “Woisio Service” or “Service”) are subject to this Privacy Policy including any amendments or updates hereto in addition to the Woisio Terms & Conditions. 
 
@@ -75,7 +75,13 @@ Woisio may provide links to third party websites or referrals to third parties�
 
 Woisio allows third party companies to serve ads and/or collect certain anonymous information when you visit. They may use non personally identifiable information (click stream information, browser type, mobile platform, time and date, location, type of advertisements engaged with, etc.) during your visits to this site and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third-party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising (from the participating advertisers), you can click [here](http://www.networkadvertising.org/managing/opt_out.asp "Learn more about this behavioral advertising practice") or visit the companies by clicking on the adchoices icon on the banners where available.
 
-Woisio uses Remarketing with Google Analytics to advertise online (Click [here](http://support.google.com/analytics/bin/answer.py?hl=en&answer=2611268&topic=2611283&ctx=topic "Learn more about remarketing") to learn more). Third-party vendors, including Google, shows Woisio’s ads on sites across the internet. Woisio and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to Woisio website. If you would like to opt-out of receiving advertising like this from Google, you can manage these settings by visiting the [Google Ads Preferences Manager](http://www.google.com/settings/ads/onweb/?sig=ACi0TCiRDcnrXrdffABE6Nifr9QppTwHkj_NTB8gd0FaMd9YV_wg5YIp3OvYIp-y-pdTWNhIhLjQXh6TyIek2jcL233J8XokduMKuR1N-zHOJP2Ls6zIAM_wKkwTu-xTmML-Aucg-KSrCOB6oLAL11n-sPX9rEefGBMsmC7iVBTJsDKZmWkr3jnzCeVGR-wzwiV8cGO96yfR&hl=en "Google Ads Preferences Manager"). Also, Google recommends installing the [Google Analytics Opt-out Browser Add-on](http://tools.google.com/dlpage/gaoptout/ "Google Analytics Opt-out Browser Add-on").
+Woisio uses Remarketing with Google Analytics to advertise online (Click [here](http://support.google.com/analytics/bin/answer.py?hl=en&answer=2611268&topic=2611283&ctx=topic "Learn more about remarketing") to learn more). Third-party vendors, including Google, shows Woisio’s ads on sites across the internet. Woisio and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to Woisio website.
+
+Woisio uses Google Analytics Demographics and Interest Reporting to better understand the demographic and interest breakdown of the Woisio visitors in order to add/remove relevant/irrelevant stages (channels) to Woisio Lineup, and improve the content alignment with existing stages (channels). Woisio also uses this insight to better align ads with stages (channels). 
+
+If you would like to opt-out of receiving advertising like this from Google, or change any of the demographic or interest information about you; you can manage these settings by visiting the [Google Ads Settings](http://www.google.com/settings/ads/ "Google Ads Settings"). Also, Google recommends installing the [Google Analytics Opt-out Browser Add-on](http://tools.google.com/dlpage/gaoptout/ "Google Analytics Opt-out Browser Add-on").
+
+Woisio will not facilitate the merging of personally-identifiable information with non-personally identifiable information previously collected from Display Advertising features that is based on the DoubleClick cookie unless we have robust notice of, and your prior affirmative (i.e., opt-in) consent to, that merger.
 
 ###  5\. DATA SECURITY
 
@@ -111,7 +117,7 @@ Woisio Service is hosted in the United States. If you are using the Woisio Servi
 
 Woisio does not guarantee error free performance under this Privacy Policy. We will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when we learn of any failure to comply with it. We welcome your feedback regarding any privacy concerns that you may have, including how we can improve this Privacy Policy. 
 
-This Privacy Policy is subject to the terms in Woisio Terms & Conditions, available for review at [here](https://web.archive.org/terms "Terms & Conditions"). Our Terms & Conditions take precedence over any conflicting provision in this Privacy Policy.
+This Privacy Policy is subject to the terms in Woisio Terms & Conditions, available for review at [here](https://web.archive.org/woisio/woisio-landing/blob/develop/terms "Terms & Conditions"). Our Terms & Conditions take precedence over any conflicting provision in this Privacy Policy.
 
 This Privacy Policy does not cover the information practices exercised by other providers of products or services, advertisers or other web sites, or companies / people that Woisio does not own or control, or does not employ or manage.
 
