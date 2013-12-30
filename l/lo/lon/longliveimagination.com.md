@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longliveimagination.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518003547id_/http%3A//usa.canon.com/cusa/about_canon/standard_display/abtcan_lgl_privacy_misc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longliveimagination.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231000036id_/http%3A//usa.canon.com/cusa/about_canon/standard_display/abtcan_lgl_privacy_misc) for the most accurate reproduction.*
 
 # Canon U.S.A. : Privacy Statement - Your Privacy Rights
 
