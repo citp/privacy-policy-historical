@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the traders.com privacy policy that was archived on 2013-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130402201414id_/http%3A//www.traders.com/index.php/component/content/article/2-uncategorised/47-traderscom-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traders.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231005111id_/http%3A//www.traders.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D47%26Itemid%3D182) for the most accurate reproduction.*
 
-# Traders.com
+# Privacy Statement
 
 Many of our readers are concerned about privacy on the Internet. Because we gather certain types of information about the users of Traders.com, we want you to understand how we collect and use that information. By reading this document, you will learn what information we gather, how we use it, and how to correct or change it.
 
