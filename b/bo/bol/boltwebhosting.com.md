@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boltwebhosting.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629141930id_/http%3A//www.boltwebhosting.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boltwebhosting.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230032014id_/http%3A//www.boltwebhosting.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,8 +23,6 @@ Detailed billing and financial information is not stored on our servers, as our 
 ## Privacy of Data
 
 We do not sell any personal information about our customers to any third party. Additionally, we limit the data that is sent to 3rd party applications (i.e. Google Analytics listed above) as much as possible.
-
-## Join Us On Facebook
 
 Bolt Web Hosting is on Facebook! Come join us for a chance to win some amazing prizes and be kept updated on our latest announcements.
 
