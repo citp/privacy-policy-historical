@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the txstate.edu privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619064853id_/http%3A//www.tr.txstate.edu/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txstate.edu privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230063310id_/http%3A//www.tr.txstate.edu/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement : Technology Resources : Texas State University
 
-**Texas State University** makes the following statement in regards to information gathering and dissemination practices for its web site: [www.txstate.edu](http://www.txstate.edu/). 
+**Texas State University** makes the following statement in regards to information gathering and dissemination practices for its website: [www.txstate.edu](http://www.txstate.edu/). 
 
 **I. Cookies  **
 
