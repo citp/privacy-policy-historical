@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the readersdigest.com.au privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518184329id_/http%3A//www.readersdigest.com.au/readers-digest-privacy-policy-anz) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.com.au privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231003545id_/http%3A//www.readersdigest.com.au/readers-digest-privacy-policy-anz%3Futm_source%3Drdau%26utm_medium%3Dfooter%26utm_campaign%3DPrivacy%252BPolicy) for the most accurate reproduction.*
 
-# Reader's Digest Privacy Policy | Reader's Digest
+# Reader's Digest Privacy Policy | Reader’s Digest Australia
 
-**General statement**
-
+**General statement**  
 Many Internet users are unaware of how easy it is to give away information about themselves when they navigate the web. We respect and protect the privacy of our users. Reader’s Digest (RD) wishes the users of its online presence to know that it seeks to comply with all elements of the relevant privacy legislation. 
 
 **Record of visits**  
@@ -16,9 +15,9 @@ We collect personal information from visitors to our sites during online purchas
 We will record your email address and other personal information if you send us a message, place an order with the RD Online Store, or respond to a prize or product opportunity. These will be used for the purpose for which you have provided them to RD and from time to time we may email, and mail you with promotional offers and opportunities to purchase products from us. Should you receive an offer, you will always be provided with the option to opt out from further offers.
 
 **Cookies**  
-RD makes use of "cookies" to make our website perform better. A "cookie" is a feature built into your browser that assigns you a "user ID". Cookies are used to follow the pattern of movements of web users. Cookies let us know which pages on our website are visited, in what order and how often. By themselves, cookies can't be used to discover your identity ­ they merely identify your computer to our servers when you visit us. If you are unhappy about having a cookie assigned to you, you can set your browser to refuse cookies. Cookies are not used to record any personal information such as your name, address or email address. ****
+RD makes use of "cookies" to make our website perform better. A "cookie" is a feature built into your browser that assigns you a "user ID". Cookies are used to follow the pattern of movements of web users. Cookies let us know which pages on our website are visited, in what order and how often. By themselves, cookies can't be used to discover your identity ­ they merely identify your computer to our servers when you visit us. If you are unhappy about having a cookie assigned to you, you can set your browser to refuse cookies. Cookies are not used to record any personal information such as your name, address or email address.
 
-Security  
+ **Security**  
 When you begin to place credit card details on the RD Online Store, a secure system software called "socket security layer" (SSL) encrypts all information you input before it is sent to us.
 
 **Information by mail**  
@@ -30,17 +29,17 @@ We are happy to provide you with details of information held about you on our cu
 **You and your privacy**  
 If you have any questions regarding any matters related to your privacy, or if you believe there has been a breach of your privacy, please contact us on:
 
-> **FOR AUSTRALIAN RESIDENTS**
-> 
-> * Mailing Address: The Privacy Office, Reader's Digest (Australia) Pty Limited, GPO Box 4353, Sydney NSW 2001
-> 
-> * Email: [privacy@au.readersdigest.com](mailto:privacy@au.readersdigest.com)
-> 
-> * Our privacy Hotline: 1300 133 176
-> 
-> **FOR NEW ZEALAND RESIDENTS**
-> 
-> Customer Service Office,  
->  Reader's Digest (New Zealand) Limited,  
->  P.O. Box 3372,  
->  Auckland 1015
+**FOR AUSTRALIAN RESIDENTS**
+
+Mailing Address:  
+The Privacy Office, Reader's Digest (Australia) Pty Limited  
+GPO Box 4353  
+Sydney NSW 2001  
+Email: [privacy.au@readersdigest.com](mailto:privacy@au.readersdigest.com)  
+Our privacy Hotline: 1300 133 176
+
+**FOR NEW ZEALAND RESIDENTS**
+
+Customer Service Office  
+Reader's Digest (New Zealand) Limited  
+P.O. Box 3372
