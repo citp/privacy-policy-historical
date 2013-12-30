@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unicef.org.uk privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501185212id_/http%3A//www.unicef.org.uk/Privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unicef.org.uk privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230105324id_/http%3A//www.unicef.org.uk/Privacy-statement) for the most accurate reproduction.*
 
-# Privacy statement | UNICEF UK
+# Cookies and privacy | UNICEF UK
 
 ## 1\. Statement of Intent
 
@@ -73,13 +73,13 @@ As well as using personal information to fulfil requests, we also like to keep o
 
 We do agree from time to time with other like-minded organisations to contact each other's supporters for mutual benefit. We would only provide another organisation with your information in this way if you had not objected to us doing so.  In addition, we sometimes contact our supporters with offers from companies that benefit UNICEF and may be of interest. In some cases we work with a company on a promotion to raise funds for UNICEF, such as our UNICEF credit card, and may pass your information to that company so that they can contact you about the promotion.
 
-When submitting your personal information, you will be given the option not to be included in mailings or other contacts from UNICEF or other organisations. If you don’t object to us sending you this information, and later decide that you no longer wish to be contacted, you can let us know by emailing: [helpdesk@unicef.org.uk](mailto:helpdesk@unicef.org.uk).
+When submitting your personal information, you will be given the option not to be included in mailings or other contacts from UNICEF or other organisations. If you don’t object to us sending you this information, and later decide that you no longer wish to be contacted, you can let us know by emailing: [supportercare@unicef.org.uk](mailto:helpdesk@unicef.org.uk).
 
 If we contact you by email, each time you receive a message you will also have the option to decline to receive further information from us.      
 
 ## 6\. **Access to and changes to your personal information**
 
-You have the right to request a copy of the personal information which UNICEF holds about you and to have any inaccuracies corrected. (We charge a fee of £10 for information requests.) Please address requests to the Data Protection Officer (email: [helpdesk@unicef.org.uk](mailto:helpdesk@unicef.org.uk)).
+You have the right to request a copy of the personal information which UNICEF holds about you and to have any inaccuracies corrected. (We charge a fee of £10 for information requests.) Please address requests to the Data Protection Officer (email: [supportercare@unicef.org.uk](mailto:helpdesk@unicef.org.uk)).
 
 The Data Protection Act 1998 applies to our use of personal information submitted via our websites. To find out more about your entitlements under this legislation, visit the Information Commissioner's website: [http://www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/)
 
@@ -93,7 +93,7 @@ No data transmission over the internet can be guaranteed to be 100% secure. As a
 
 ## 9\. **Fraudulent online activity**
 
-UNICEF endeavours to prevent online fraudulent activity taking place. In order to prevent this activity from happening we have put additional security checks in place on our website. As a result of these checks there are times when we will be unable to process card transactions on the first attempt due to missing or incorrect information. This could include an uncompleted field or missing/incorrect address information. On these occasions we will encourage the cardholder to contact our Helpdesk in order to complete the transaction or to try again online using a different card. If you would like to speak to someone about a transaction you have made please contact our Helpdesk on 0844 8012414 between 9:00am – 5:00pm from Monday to Friday, or you can email them at [helpdesk@unicef.org.uk](mailto:helpdesk@unicef.org.uk).
+UNICEF endeavours to prevent online fraudulent activity taking place. In order to prevent this activity from happening we have put additional security checks in place on our website. As a result of these checks there are times when we will be unable to process card transactions on the first attempt due to missing or incorrect information. This could include an uncompleted field or missing/incorrect address information. On these occasions we will encourage the cardholder to contact our Supporter Care team in order to complete the transaction or to try again online using a different card. If you would like to speak to someone about a transaction you have made please contact our Supporter Care on 0844 8012414 between 8:00am – 6:00pm from Monday to Friday, or you can email them at [supportercare@unicef.org.uk](mailto:helpdesk@unicef.org.uk).
 
 ## 10\. **Links**
 
@@ -113,4 +113,4 @@ We may make changes to this statement from time to time. If we change our Privac
 
 By using our sites, you consent to the collection and use of information by UNICEF in accordance with this statement. If you do not agree to this statement, please do not use our sites.
 
-This Statement was last updated December 2009.
+This Statement was last updated December 2012.
