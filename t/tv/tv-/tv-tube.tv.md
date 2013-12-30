@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tv-tube.tv privacy policy that was archived on 2013-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130313081759id_/http%3A//www.tv-tube.tv/informations/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tv-tube.tv privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230013716id_/http%3A//www.tv-tube.tv/informations/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | TvTube - Watch live TV channels online on the Internet for free
+# Privacy policy | TvTube - Watch live or recorded TV channels online on the Internet for free
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by our [contact form](http://www.tv-tube.tv/informations/contact). 
 
@@ -27,5 +27,7 @@ You may at any time view, add, edit to the interest categories used to provide y
 You may also may choose to [opt out of the DoubleClick cookie](http://optout.doubleclick.com/cgi-bin/optoutgoogle.pl) at any time. If you opt-out, ads delivered to your browser by our ad-serving technology will not be served based on the DoubleClick cookie. Find more information on [Google Privacy Center](http://www.google.com/privacy_ads.html) about opting out of the DoubleClick cookie.
 
 TvTube does not provide or disclose any personal information to third-party companies or ad-servers, without your consent. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. TvTube's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+Advertisements
 
 [ ](http://www.discovergames.net/ "Discover games - Free online games")
