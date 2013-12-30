@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jatt.us privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617105652id_/http%3A//jatt.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jatt.us privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231004307id_/http%3A//jatt.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JATT.US - Punjabi Videos | Punjabi Film Downloads | Punjabi Music Download
 
@@ -31,6 +31,34 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 * * *
 
   * %swww jatt
-  * %sye jaawani hai dewaani song down/
+  * r v feat joban sandhu song adawaa
+  * aaibo gudi teri song download
+  * PrivacyPolicy|JATT US-PunjabiVideos|PunjabiFilmDownloads|PunjabiMusicDownload
+  * Video9 in punjabi song kudi Tu pataka
+  * Adawa rv feat joban sidhu
+  * honey singh blue eyes video9
+  * jatt airways new pajabi movie video song down
+  * joban sandhu adawa punjabi video song downlod sites
+  * karwa chauth vartain punjabi
+  * jatt airways soneg
+  * Isp grari movie all song
+  * Guddi teri aaiboo
+  * herpreet dhillon new song cook
+  * harprrt dhillion cook
+  * harpreet dihllo mp3 song cook
+  * Harpreet dhillonnewsongcook
+  * Miss pooja video9 song download com
+  * New punjabi mp3 song adawa by joban sandhu
+  * www yo yo honi sing video9song in
+  * www video9 miss poja com
+  * www punjabi mp3 song adawa com
+  * www new jatt com popups
+  * Video9 n songs punjab
+  * video9 in punjabi miss pooja
+  * Sherry mann oy hoey peaar ho geya film movie com
+  * serry mann songs ip grari
+  * serry mann isp grari song
+  * pajabi song miss pooja video 9
+  * new punjabi song harpreet dhillondj punjb com
 
 
