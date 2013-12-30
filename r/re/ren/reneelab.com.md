@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reneelab.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623042110id_/http%3A//www.reneelab.com/about_special.php%3Fid%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reneelab.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230164233id_/http%3A//www.reneelab.com/about-5.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy -
 
 Rene.E Laboratory Ltd. devotes itself to protecting your privacy. We only collect your personal information for specific purposes. As an obligation, we would by no means disseminate or share your personal information. We may share your information with excellent cooperative partners, who has long time been adhering to the principle of protecting your privacy. We promise your personal information would not be sold in any form.
 
