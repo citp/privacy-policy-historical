@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the thomasnelson.com privacy policy that was archived on 2013-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130125224322id_/http%3A//www.thomasnelsoncorporate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomasnelson.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230091234id_/http%3A//www.harpercollinschristian.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 _Effective June 5, 2012_
 
-Thomas Nelson, Inc. (“Thomas Nelson” or “we”), a company duly incorporated and existing under the laws of the State of Tennessee in the United States of America, with corporate headquarters located at 501 Nelson Place, Nashville, TN, USA, has adopted the privacy policy outlined in this document (this “Policy”) applicable to all of the web sites (our or the “Sites”) of its U.S. based companies, affiliates and subsidiaries.
+HarperCollins Christian Publishing (“HCCP” or “we”), a division of HarperCollins Publishers, has adopted the privacy policy outlined in this document (this “Policy”) applicable to all of the web sites (our or the “Sites”) of its U.S. based companies, affiliates and subsidiaries.
 
-This Policy informs you how we collect, use and share the personally identifiable information we obtain from and about you. This Policy applies only to information collected on our Sites and not to information collected offline. We are not responsible for the content or privacy practices on any web site not operated by Thomas Nelson to which our Sites link or that links to our Sites.
+This Policy informs you how we collect, use and share the personally identifiable information we obtain from and about you. This Policy applies only to information collected on our Sites and not to information collected offline. We are not responsible for the content or privacy practices on any web site not operated by HCCP to which our Sites link or that links to our Sites.
 
 By using our Sites, you express your consent for your personal data to be treated pursuant to the terms and conditions of this Policy. We encourage you to review this Policy from time to time to ensure you are aware of any changes or updates. Your continued use of our Sites following revisions to this Policy constitutes your acceptances of the revisions.
 
 **1\. CHILDREN’S PRIVACY POLICY (COPPA)**
 
-Our Sites are not directed to children under the age of 13 and children under the age of 13 should not use any of our Sites. Thomas Nelson also does not knowingly collect or maintain information collected online from children under the age of 13.
+Our Sites are not directed to children under the age of 13 and children under the age of 13 should not use any of our Sites. HCCP also does not knowingly collect or maintain information collected online from children under the age of 13.
 
 **2\. INFORMATION WE COLLECT**
 
-a. Personally Identifiable Information. Depending on the nature of the Site, Thomas Nelson collects personally identifiable information including, but not limited to, your name, email address, mailing address, and telephone number when you voluntarily submit this information to us in order to participate in activities like blog comments, product reviews, online forums/communities, email newsletter subscriptions, or because you want us to provide you with products, services or information. In addition, we may also ask you for your country of residence and age so we can comply with applicable laws and regulations. We may also collect your credit card information when you purchase products, tickets or subscriptions on one of our Sites, but this information is only used to fulfill your purchase.
+a. Personally Identifiable Information. Depending on the nature of the Site, HCCP collects personally identifiable information including, but not limited to, your name, email address, mailing address, and telephone number when you voluntarily submit this information to us in order to participate in activities like blog comments, product reviews, online forums/communities, email newsletter subscriptions, or because you want us to provide you with products, services or information. In addition, we may also ask you for your country of residence and age so we can comply with applicable laws and regulations. We may also collect your credit card information when you purchase products, tickets or subscriptions on one of our Sites, but this information is only used to fulfill your purchase.
 
 b. Cookies and Other Technology. Like many other websites, our Sites employ the use of cookies and web beacons (also known as clear GIFs or “action tags”) to speed your navigation of our Sites, recognize you and automatically log you in to our Sites, track your usage of our Sites and to otherwise enable us to make your visits to our Sites more enjoyable.
 
@@ -36,9 +36,9 @@ b. Reviews / Comments / Communities. Some elements of your personal information 
 
 c. Content / Layout / Design. We may internally use your personal information to improve the content, layout and design of our Sites and marketing efforts, and to determine general trends from visitors to our Sites.
 
-d. Communications. We may use your personal information to communicate with you about your request for products, service or information, when you purchase a product, ticket or subscription from us, or when you become a member of one of our Sites. These one-time “transactional” emails are a necessary part of our fulfilling your request or order so you cannot opt-out of these. We may also use your email address to send you content-based email newsletters or communications regarding products and services for sale; however, you will have the option of opting out of these types of communications. You may also globally opt-out of any future email communication from Thomas Nelson. Please see the Opt-Out and Correction section for additional information.
+d. Communications. We may use your personal information to communicate with you about your request for products, service or information, when you purchase a product, ticket or subscription from us, or when you become a member of one of our Sites. These one-time “transactional” emails are a necessary part of our fulfilling your request or order so you cannot opt-out of these. We may also use your email address to send you content-based email newsletters or communications regarding products and services for sale; however, you will have the option of opting out of these types of communications. You may also globally opt-out of any future email communication from HCCP. Please see the Opt-Out and Correction section for additional information.
 
-e. External Use. Thomas Nelson does not sell, rent, trade, license or otherwise disclose your personal information to anyone other than to entities under the direct control of Thomas Nelson, except that:
+e. External Use. HCCP does not sell, rent, trade, license or otherwise disclose your personal information to anyone other than to entities under the direct control of HCCP, except that:
 
 i. We sometimes need to use third-party companies to perform specific business-related functions on our behalf. For example, we partner with third parties (such as the U.S. Postal Service, United Parcel Service, and Federal Express) to ship products, ensure delivery, and to obtain feedback, improve the quality of our service, and measure and improve the quality of the service of the third party. In the example of shippers, we provide them some personally identifiable information such as your name, shipping address, email, and phone number.
 
@@ -60,11 +60,11 @@ Our Sites incorporate physical, electronic, and administrative procedures to saf
 
 While we use industry-standard precautions to safeguard your personal information, due to the nature of the Internet, we cannot guarantee complete security.
 
-**5\. OPT-OUT, CORRECTIONS AND THOMAS NELSON CONTACT INFORMATION**
+**5\. OPT-OUT, CORRECTIONS AND HCCP CONTACT INFORMATION**
 
 Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests by emailing privacy@thomasnelson.com or by sending a letter to:
 
-Thomas Nelson  
+HarperCollins Christian Publishing  
 Legal Department / Privacy  
 PO Box 141000  
 Nashville, TN 37214
