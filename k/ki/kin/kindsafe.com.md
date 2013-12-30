@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kindsafe.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607111843id_/http%3A//www.kindsafe.com/info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kindsafe.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230101139id_/http%3A//www.kindsafe.com/info) for the most accurate reproduction.*
 
 # About Kindsafe.com
 
@@ -24,9 +24,9 @@ Martinická 987/3, 197 00 Praha 9 Kbely
 Czech Republic  
 E-mail: ateniumplay [at] gmail.com
 
-## Your personal information
+## Terms of use
 
-Kindsafe uses your basic personal information (email and password) just for purpose to identify you. We need your unique login information to provide exclusive access to our API services. We will not sell, or share any personal information about you to any 3rd party. 
+Kindsafe uses your basic personal information (email and password) just for purpose to identify you. We need your unique login information to provide exclusive access to our API services. We will not sell, or share any personal information about you to any 3rd party. We reserve right to contact you in case of important changes on Kindsafe.com 
 
 ## Privacy Policy
 
