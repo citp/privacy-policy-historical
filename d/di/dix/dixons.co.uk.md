@@ -1,23 +1,16 @@
-> *The following text is extracted and transformed from the dixons.co.uk privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501081605id_/http%3A//www.currys.co.uk/gbuk/privacy-on-currys-321-commercial.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dixons.co.uk privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230011553id_/http%3A//www.currys.co.uk/gbuk/privacy-on-currys-321-commercial.html) for the most accurate reproduction.*
 
 # Cookie Guide & Privacy Information | Currys
 
-**Browse products** __Back to top
-
   * [](http://www.currys.co.uk/gbuk/s/home.html)
-  * [**Home Appliances**](http://www.currys.co.uk/gbuk/household-appliances-35-u.html)
+  * [Kitchen Appliances](http://www.currys.co.uk/gbuk/home-appliances-36-u.html)
     * [Laundry & dishwashers](http://www.currys.co.uk/gbuk/household-appliances/laundry-dishwashers-332-c.html)
     * [Refrigeration](http://www.currys.co.uk/gbuk/household-appliances/refrigeration-333-c.html)
     * [Cooking](http://www.currys.co.uk/gbuk/household-appliances/cooking-335-c.html)
-    * [Clearance - Large kitchen appliances](http://www.currys.co.uk/gbuk/clearance-kitchen-appliances-502-commercial.html)
+    * [Built-in Appliances](http://www.currys.co.uk/gbuk/built-in-appliances-60-u.html)
+    * [Services](http://www.currys.co.uk/gbuk/knowhow-household-608-commercial.html)
     * Feature
-  * [**Built-in Appliances**](http://www.currys.co.uk/gbuk/built-in-appliances-60-u.html)
-    * [Built-in cooking](http://www.currys.co.uk/gbuk/built-in-appliances/built-in-cooking-231-c.html)
-    * [Integrated laundry](http://www.currys.co.uk/gbuk/built-in-appliances/integrated-laundry-210-c.html)
-    * [Integrated refrigeration](http://www.currys.co.uk/gbuk/built-in-appliances/integrated-refrigeration-211-c.html)
-    * [Integrated Dishwashers](http://www.currys.co.uk/gbuk/built-in-appliances/integrated-dishwashers/dishwashers/230_3801_31493_xx_xx/xx-criteria.html)
-    * Feature
-  * [**Small Appliances**](http://www.currys.co.uk/gbuk/home-appliances-36-u.html)
+  * [Small Appliances](http://www.currys.co.uk/gbuk/home-appliances-36-u.html)
     * [Floorcare](http://www.currys.co.uk/gbuk/home-appliances/vacuum-cleaners-337-c.html)
     * [Microwaves](http://www.currys.co.uk/gbuk/household-appliances/cooking/microwaves/335_3152_32014_xx_xx/xx-criteria.html)
     * [Small kitchen appliances](http://www.currys.co.uk/gbuk/household-appliances/small-kitchen-appliances-336-c.html)
@@ -26,23 +19,24 @@
     * [Fans & Heaters](http://www.currys.co.uk/gbuk/home-appliances/fans-air-conditioning-340-c.html)
     * [Clearance - Small kitchen appliances](http://www.currys.co.uk/gbuk/clearance-household-appliances-1846-commercial.html)
     * Feature
-  * [**TV & Entertainment**](http://www.currys.co.uk/gbuk/tv-dvd-blu-ray-31-u.html)
+  * [TV & Entertainment](http://www.currys.co.uk/gbuk/tv-dvd-blu-ray-31-u.html)
     * [Televisions](http://www.currys.co.uk/gbuk/tv-dvd-blu-ray/televisions-301-c.html)
     * [TV accessories](http://www.currys.co.uk/gbuk/tv-dvd-blu-ray/tv-accessories-302-c.html)
     * [DVD, Blu-ray & home cinema](http://www.currys.co.uk/gbuk/tv-dvd-blu-ray/dvd-blu-ray-home-cinema-303-c.html)
     * [Digital set top boxes](http://www.currys.co.uk/gbuk/tv-dvd-blu-ray/digital-tv-services-304-c.html)
     * Gaming
-    * [Clearance - TV, DVD & Blu-ray](http://www.currys.co.uk/gbuk/clearance-tv-dvd-blu-ray-1865-commercial.html)
+    * [Services](http://www.currys.co.uk/gbuk/knowhow-tv-609-commercial.html)
     * Feature
-  * [**Cameras**](http://www.currys.co.uk/gbuk/cameras-38-u.html)
+  * [Cameras](http://www.currys.co.uk/gbuk/cameras-38-u.html)
     * [Cameras](http://www.currys.co.uk/gbuk/cameras/digital-cameras-344-c.html)
     * [Camcorders](http://www.currys.co.uk/gbuk/cameras/digital-camcorders-347-c.html)
     * [Bags, cases and straps](http://www.currys.co.uk/gbuk/cameras/accessories/cases-3205-m.html)
     * [Memory Cards & Readers](http://www.currys.co.uk/gbuk/cameras/accessories/memory-cards-readers-3295-m.html)
     * [Photography accessories](http://www.currys.co.uk/gbuk/cameras/accessories-346-c.html)
     * [Binoculars & telescopes](http://www.currys.co.uk/gbuk/cameras/accessories/binoculars/346_3797_31507_xx_xx/xx-criteria.html)
+    * [Clearance - Photography](http://www.currys.co.uk/gbuk/clearance-photography-1902-commercial.html)
     * Feature
-  * [**Audio & Phones**](http://www.currys.co.uk/gbuk/audio-32-u.html)
+  * [Audio & Sat Nav](http://www.currys.co.uk/gbuk/audio-32-u.html)
     * Wireless audio
     * [Hi-Fi & speaker docks ](http://www.currys.co.uk/gbuk/audio/hi-fi-speaker-docks-290-c.html)
     * [Headphones](http://www.currys.co.uk/gbuk/audio/headphones/headphones-3919-m.html)
@@ -52,30 +46,44 @@
     * [Radios](http://www.currys.co.uk/gbuk/audio/radios-309-c.html)
     * Phones & Broadband
     * [Sat Nav ](http://www.currys.co.uk/gbuk/phones-broadband-gps/sat-nav-systems-403-c.html)
-    * [Mobile Phone Accessories](http://www.currys.co.uk/gbuk/phones-broadband-gps/mobile-phones-and-broadband/mobile-phone-accessories/362_3413_32042_xx_xx/xx-criteria.html)
-    * [Clearance - Audio](http://www.currys.co.uk/gbuk/clearance-audio-1886-commercial.html)
+    * [Car Audio](http://www.currys.co.uk/gbuk/search-keywords/303_3019_30019_xx_xx/in-car+rds+stereo/xx-criteria.html)
+    * [Clearance - Audio, Sat Nav & Phones](http://www.currys.co.uk/gbuk/clearance-audio-1886-commercial.html)
     * Feature
-  * [**Computing**](http://www.currys.co.uk/gbuk/computing-33-u.html)
+  * [Computing](http://www.currys.co.uk/gbuk/computing-33-u.html)
     * [Laptops](http://www.currys.co.uk/gbuk/computing/laptops-315-c.html)
     * [iPad, tablets and eReaders](http://www.currys.co.uk/gbuk/computing/ipad-tablets-and-ereaders-149-c.html)
     * [Desktop PCs](http://www.currys.co.uk/gbuk/computing/desktop-pcs-317-c.html)
+    * Refurbished Computing
     * [Monitors and projectors](http://www.currys.co.uk/gbuk/computing/monitors-and-projectors-354-c.html)
-    * [Computing Accessories](http://www.currys.co.uk/gbuk/computing-accessories-40-u.html)
-    * [Clearance - Computing](http://www.currys.co.uk/gbuk/clearance-refurb-computing-1887-commercial.html)
+    * [Printers & ink](http://www.currys.co.uk/gbuk/computing-accessories/printers-ink-319-c.html)
+    * [Software](http://www.currys.co.uk/gbuk/computing-accessories/software-323-c.html)
+    * [Clearance - Computing](http://www.currys.co.uk/gbuk/clearance-computing-1885-commercial.html)
     * Feature
-  * [**Clearance**](http://www.currys.co.uk/gbuk/clearance-refurb-computing-1887-commercial.html)
-    * [Household Clearance](http://www.currys.co.uk/gbuk/clearance-household-appliances-1846-commercial.html)
-    * [Gaming Clearance](http://www.currys.co.uk/gbuk/clearance-gaming-1848-commercial.html)
-    * [Sat Nav & Phones Clearance](http://www.currys.co.uk/gbuk/clearance-sat-nav-1903-commercial.html)
-    * [Audio Clearance](http://www.currys.co.uk/gbuk/clearance-audio-1886-commercial.html)
-    * [Computing Accessories Clearance](http://www.currys.co.uk/gbuk/clearance-computing-1885-commercial.html)
-    * [TV, DVD & Blu Ray Clearance](http://www.currys.co.uk/gbuk/clearance-tv-dvd-blu-ray-1865-commercial.html)
-    * [Computing Clearance](http://www.currys.co.uk/gbuk/clearance-refurb-computing-1887-commercial.html)
-    * [Photography Clearance](http://www.currys.co.uk/gbuk/clearance-photography-1902-commercial.html)
+  * [PC Accessories](http://www.currys.co.uk/gbuk/computing-accessories-40-u.html)
+    * [Print, Ink & Office](http://www.currys.co.uk/gbuk/computing-accessories/printers-ink-319-c.html)
+    * [Hard Drives & Storage](http://www.currys.co.uk/gbuk/computing-accessories/data-storage-355-c.html)
+    * [Internet & Networking](http://www.currys.co.uk/gbuk/computing-accessories/networking-321-c.html)
+    * [Software & Books](http://www.currys.co.uk/gbuk/computing-accessories/software-323-c.html)
+    * [Components & upgrades](http://www.currys.co.uk/gbuk/computing-accessories/components-upgrades-324-c.html)
+    * [Peripherals & Plugins](http://www.currys.co.uk/gbuk/computing-accessories/accessories-and-bags-318-c.html)
+    * [PC Gaming](http://www.currys.co.uk/gbuk/gaming/pc-gaming-accessories-330-c.html)
+    * [Bags, Cases & Sleeves](http://www.currys.co.uk/gbuk/computing-accessories/accessories-and-bags/laptop-bags-cases-3059-m.html)
+    * [Knowhow Services](http://www.currys.co.uk/gbuk/other-knowhow-services-1941-theme.html)
+    * [Clearance - PC Accessories](http://www.currys.co.uk/gbuk/clearance-computer-accessories-1887-commercial.html)
+  * [Sale]()
+    * [See all our TV advertised offers](http://www.currys.co.uk/gbuk/as-advertised-on-tv-616-commercial.html)
+    * [Save up to £400 on large screen TVs](http://www.currys.co.uk/gbuk/sale-home-entertainment-1842-commercial.html)
+    * [Save up to 40% on large home appliances ](http://www.currys.co.uk/gbuk/sale-home-appliances-2189-commercial.html)
+    * [Save up to £150 on laptops & desktop PCs](http://www.currys.co.uk/gbuk/sale-computing-2190-commercial.html)
+    * [Save £100 on selected Samsung tablets](http://www.currys.co.uk/gbuk/sale-computing-2190-commercial.html#tablets)
+    * [Save up to half price on floorcare](http://www.currys.co.uk/gbuk/sale-floorcare-646-commercial.html)
+    * [Save up to half price on small appliances](http://www.currys.co.uk/gbuk/sale-small-home-appliances-266-commercial.html)
+    * [Save up to £200 on selected Mac](http://www.currys.co.uk/gbuk/sale-computing-2190-commercial.html#mac)
+    * [Save up to 40% on small screen TVs](http://www.currys.co.uk/gbuk/sale-home-entertainment-1842-commercial.html#SSTV)
+    * [Save up to half price on PC accessories](http://www.currys.co.uk/gbuk/sale-computing-accessories-2230-commercial.html)
+    * [Save up to half price on audio and sat nav](http://www.currys.co.uk/gbuk/sale-audio-2208-commercial.html)
 
 
-
-Browse Services __
 
 ## Privacy & Cookies
 
@@ -326,7 +334,7 @@ You can visit the following website for an in-depth guide to cookies and how to 
   
 ### Banner Advertising & Tags
 
-In addition to the list of cookies that we use on Currys, we wanted to take you through our use of advertising tags. We use tags from 3rd party suppliers dedicated to helping us improve the relevance of our advertising banners, both on our website and across the web where we have advertisements on other websites. Our advertising policy is designed to give you the most relevant adverts possible, based on your previous visits to our website and the things you looked at, so we can build a profile of what we think you might like to see on our website next time you visit. A tag is simply a way for us to identify if a specific page was viewed by a customer and use that information to form a more accurate advertising strategy. 
+In addition to the list of cookies that we use on Currys, we wanted to take you through our use of advertising tags. We use tags from 3rd party suppliers dedicated to helping us improve the relevance of our advertising banners, both on our website and across the web where we have advertisements on other websites. Our advertising policy is designed to give you the most relevant adverts possible, based on your previous visits to our website and the things you looked at and/or added to your basket, so we can build a profile of what we think you might like to see on our website next time you visit. A tag is simply a way for us to identify if a specific page was viewed by a customer and use that information to form a more accurate advertising strategy. 
 
 Many online businesses work with such partners as ours below in order to improve and personalise the experience their customers have of their website and brand advertising online. All reputable companies, such as those we choose to work with, have very strict policies around your privacy and the information captured. They do not collect any information that can personally identify you in any way. Almost all of these tracking tags can be disabled or opted out of. A website dedicated to helping you understand what networks currently use tracking tags on your machine is: 
 
@@ -384,6 +392,14 @@ AudienceScience help us develop a better understanding for customer behaviour on
 
 Then click the link to opt-out. This will drop a cookie that will stop the tracking of your activity by AudienceScience. If you delete this cookie, the tracking will resume.
 
+SaleCycle
+
+SaleCycle collect information to enable them to send bespoke service emails to customers that cannot complete their checkout journey. To opt out of SaleCycle tracking, please visit: 
+
+<http://www.salecycle.com/privacy-policy>
+
+This will drop a persistent cookie on your machine, blocking the use of SaleCycle tracking. If you delete this cookie, the tracking will resume.
+
 ### Privacy on Currys
 
 Is shopping online with Currys safe?
@@ -428,7 +444,7 @@ The information we collect via this website may include:
 
 (1) Any personal details you type in and submit, such as name, address, email address, etc. We only collect information that we require for completion of orders and account set up. We never store payment details on the websites. 
 
-(2) Data which allows us to recognise you, your preferences and how you use this website. This saves you from re-entering information when you return to the site. This data is collected by cookies from your navigation around the site. A complete guide to our cookies policy and how to control cookies on your computer can be found [here](http://www.currys.co.uk/gbuk/privacy-on-currys-321-commercial.html#tab-2). 
+(2) Data which allows us to recognise you, your preferences (including items added to your basket) and how you use this website. This saves you from re-entering information when you return to the site. This data is collected by cookies from your navigation around the site. A complete guide to our cookies policy and how to control cookies on your computer can be found [here](http://www.currys.co.uk/gbuk/privacy-on-currys-321-commercial.html#tab-2). 
 
 (3) Your IP address (this is your computer’s individual identification number) which is automatically logged by our web server. This is used to note your interest in our website and your location (e.g. county/city) for our site analytics. 
 
@@ -449,24 +465,21 @@ We would also like to inform you of various promotions, goods and services that 
 
 Your rights
 
-(1) You can ask us to update your personal information by emailing precise details of your request to [privacy@currys.co.uk](mailto:privacy@currys.co.uk).   
-(2) You can ask us not to send you future marketing communications. To do this, simply email [privacy@currys.co.uk](mailto:privacy@currys.co.uk). Type ‘No Marketing’ in the subject line and then the following in the main text:
+(1) You can ask us to update your personal information by emailing precise details of your request to [customer.services@currys.co.uk](mailto:customer.services@currys.co.uk).
 
-  * your full name
-  * your postal address, including postcode
-  * your email address
+(2) You can ask us not to send you future marketing communications. To do this, simply click this [link](https://dixonsregistration.co.uk/permoptout/?referrer=3) and submit your details.
 
+We will then suppress your data from all direct marketing, although we will still keep it for processing your order and fulfilling customer service and after sale obligations. Alternatively, you can post your request to the address in (3) below.
 
+(3) You also have the right to request a copy of any personal information we hold about you. To do this, simply write to us at the following address. Please enclose a cheque for £10 payable to DSG Retail Limited to cover our administration costs and proof of ID such as a copy of your driving licence or a recent utility bill:
 
-We will then suppress your data from all direct marketing, although we will still keep it for processing your order and fulfilling customer service and after sale obligations. Alternatively, you can post your request to the address in (3) below. 
-
-(3) You also have the right to request a copy of any personal information we hold about you. To do this, simply write to us at the following address, enclosing a cheque for £10 payable to DSG Retail Limited to cover our administration costs:
-
-Customer Services (Data Subject Request)
-
+Subject Access Request   
+Legal Services  
 DSG Retail Limited  
-The Parkway  
-Sheffield S2 5DD
+Maylands Avenue  
+Hemel Hempstead  
+Hertfordshire  
+HP2 7TG
 
 Other Websites
 
