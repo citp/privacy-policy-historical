@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qut.edu.au privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502145529id_/http%3A//www.qut.edu.au/additional/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qut.edu.au privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231001015id_/http%3A//www.qut.edu.au/additional/privacy) for the most accurate reproduction.*
 
 # QUT - Privacy
 
@@ -14,7 +14,7 @@ We monitor this site so we can make it useful. This website does collect some in
 
 ## Email and feedback information
 
-We are a statutory authority in Queensland, so all email correspondence sent to us is treated as a public record and is retained as required by the [Public Records Act 2002](http://www.qgcio.qld.gov.au/qgcio/architectureandstandards/informationstandards/current/Pages/index.aspx) and our [records disposal schedule](http://www.governance.qut.edu.au/rms/retention_disposal/index.jsp).
+We are a statutory authority in Queensland, so all email correspondence sent to us is treated as a public record and is retained as required by the Public Records Act 2002 and our [records disposal schedule](http://www.governance.qut.edu.au/rms/retention_disposal/index.jsp).
 
 Email messages may be monitored by our web team for trouble shooting and maintenance, and some emails received by our website support staff may be forwarded to other QUT teams. We won't disclose these details to third parties without your consent, except if required by law.
 
