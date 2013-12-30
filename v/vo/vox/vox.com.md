@@ -1,164 +1,107 @@
-> *The following text is extracted and transformed from the vox.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228085437id_/http%3A//www.vox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vox.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230010208id_/http%3A//www.sixapart.com/privacy) for the most accurate reproduction.*
 
-# VOX - Privacy Policy
+# Six Apart - Privacy
 
-### PRIVACY POLICY
+Six Apart, Ltd. ("Six Apart") may retain your Personal Information (as defined in Article 2, Paragraph 1 below, hereinafter the same) that we receive through our website and services, in order to provide stably or newly develop our products and services. Six Apart acknowledges the significance of protecting the Personal Information, handles the Personal Information in accordance with the Privacy Policy set out below, and ensures protection thereof.
 
-### What This Privacy Policy Covers
+### Article 1. Information Acquisition
 
-This policy covers how Six Apart, Ltd., a Delaware corporation ("Six Apart," "we," "us," or "our") treats personal information that it collects and receives on Vox and www.vox.com] (“VOX”). Information you share with us is used for VOX’s business purposes. Six Apart is not in the business of selling information about you. This notice tells you what information we collect, steps we take to protect and secure it, how we use and share information, and finally, how you can contact us with questions or concerns.
+Six Apart acquires your Personal Information, in a lawful and fair manner, when you use Six Apart's products or services, post as a guest any copyright protected contents on the Six Apart's blog site or make registrations with Six Apart in order to enter into promotions or sweepstakes. Six Apart may combine your Personal Information with information which we obtain from our business partners or other companies in a lawful and fair manner.
 
-### Information We Gather
+### Article 2. Scope of Personal Information
 
-  * VOX collects personal information when you register with us, use VOX products or services or post content on a VOX weblog site.
+1\. "Personal Information" means information which Six Apart acquires pursuant to the preceding Article and controls and by one or more of which Six Apart is able to identify a certain client. Personal Information includes the followings: (i) Your name, contact information (email address, address, telephone number) and credit card information; (ii) Other information about you registered on an optional basis, including your date of birth, place of birth, your mother's maiden name, sex, postal code, background, user names for instant messaging services (such as ICQ, AIM, Yahoo and MSN), associate codes for U.S. Amazon.com and its subsidiaries, occupation, job type and hobbies; (iii) Information relating to transactions between you and any corporation or individual which is engaged in advertising, promotional or sales activities or customer services jointly with Six Apart ("Partner"); (iv) Information which exists on Six Apart's server or which Six Apart automatically receives and records, including your IP address, cookies, web beacons, script and the pages you viewed sent from your browser 
 
-  * VOX may also collect personal information when you enter into promotions or sweepstakes.
+2\. Articles posted on Six Apart's blog site are not be deemed as "Personal Information" or as Personal Information covered by this Privacy Policy.
 
-  * The Six Apart Sites, Products and Services may combine information about you that we have with information we obtain from business partners or others.
+3\. This Privacy Policy does not apply to the practices of companies that Six Apart does not own or control or to people that Six Apart does not employ or manage.
 
-  * VOX may also collect information about your transactions with us and with some of our business partners. This information might include information necessary to process payments due to us from you such as your credit card number.
+### Article 3. Use of Personal Information
 
-  * VOX may automatically receive and record information on our server logs from your browser, including your IP address, cookies, and the pages you request.
+1\. General Provisions Six Apart uses your Personal Information for the following purposes: (i) Provision of products, services and related information; (ii) Billing; (iii) Identification and authentication of users; (iv) Marketing, sales and advertising activities carried out individually or jointly with any Partner; (v) Improvement in Six Apart's website and services; and (vi) Notification of other important matters and research for products and services development 
 
-  * The Six Apart Sites, Products and Services use information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, research, and anonymous reporting.
+2\. IP Address  
+Six Apart receives IP address information from all users which is automatically sent from each browser to its web pages. Your IP address is stored in Six Apart's user registration data base upon your registration with Six Apart. IP addresses are used for the following purposes:  
+(i) To diagnose service or technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP (internet service provider);  
+(ii) To place special advertisements based on information concerning any geographical regions or other information derived from the IP addresses;  
+(iii) To make reports to the advertisers on the information obtained from the IP addresses;  
+(iv) To estimate the number of users of Six Apart from specific geographical regions or category; and  
+(v) To determine which users have access privileges to certain content or services
 
+3\. Cookies  
+(1) A "cookie" is a small amount of data, which may include an anonymous unique authentication code that is sent to your browser from computers on which you view websites and stored on your computer's hard drive. You can accept all cookies, reject all cookies or receive notice when a cookie is set depending on your browser configuration. If you reject all cookies, you may not be able to use Six Apart's products and services that require you to log in to your account. However, in many cases Six Apart's products and services do not require you accept cookies.
 
+(2) Six Apart uses its own cookies for the following purposes:  
+(i) To access to your information when you log in;  
+(ii) To record and keep track of preferences you specify while you are using Six Apart's services;  
+(iii) To indicate on Six Apart's web pages the most suitable banner advertisement based on your interests and actions;  
+(iv) To estimate and research Six Apart's total audience size and traffic;  
+(v) To conduct researches to improve Six Apart's contents and services; and  
+(vi) To require you to re-enter your password after a certain period of time has elapsed to protect you against others accidentally accessing your account contents
 
+(3) Six Apart allows any advertising agency to set and access cookies on your computer. Such agency shall use its own cookies in accordance with its own privacy policy. Neither the advertiser nor other advertising agency may access Six Apart's cookies. 
 
-### IP Address
+4\. Web Beacon  
+A "web beacon" is an electronic file that signals when a web page, an advertisement, a video or other types of content, an email or a newsletter has been viewed. Six Apart uses web beacons on its or third party's website, or in its services and products, for the following purposes:  
+(i) To count visitors to websites;  
+(ii) To recognize and access cookies;  
+(iii) To record page view information;  
+(vi) To record the internet protocol address of the computer that downloads a web beacon;  
+(v) To record the type of browser used to view a page where a web beacon is placed;  
+(vi) To track the delivery, viewing and responses to emails and newsletters;  
+(vii) To estimate and research our total audience size and traffic;  
+(viii) To conduct research to improve Six Apart's websites, services and products
 
-  * VOX may occasionally obtain IP addresses from users depending upon how you access our web sites. IP addresses, browser and session information may be used for various purposes, including to: 
+5\. Script  
+A "script" is a short section of computer code included in a web page or other content that can be used to set and access a cookie on your computer's hard drive and to record your activity on a website. Six Apart uses scripts on its or any third party's websites or in its services and products, for the following purposes:  
+(i) To track the performance of advertising campaigns;  
+(ii) To identify sources of traffic to Six Apart's websites, services and products;  
+(iii) To count the number of "clicks" on a link in a web page, advertisement, email or newsletter;  
+(iv) To follow the distribution of content;  
+(v) To measure patterns of activity on Six Apart's websites, services and products such as usage by date, time and geographic location;  
+(vi) To estimate and research our total audience size and traffic; and  
+(vii) To conduct research to improve Six Apart's websites, services and products
 
-    * Diagnose and prevent service or technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP.
+### Article 4. Information Disclosure and Provision
 
-    * Estimate the total number of users visiting Six Apart's web sites from specific geographical regions.
+1\. When you post a message, your ID with Six Apart or alias that you are posting under may be disclosed to other users. In addition, when you post a message on Six Apart's blog sites, you may possibly post a message which may include personally identifiable information about you. If you post Personal Information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
 
-    * Help determine which users have access privileges to certain content, services or resources that we offer.
+2\. Six Apart does not provide your Personal Information to any third party without your consent. However, we may provide it to a third party when:  
+(i) Six Apart provides the Personal Information, including your name, contact information (email address, address, telephone number), etc. by way of electronic transmission in accordance with Six Apart's Information Control Regulation and other policies concerning the handling of the Personal Information, to our reliable Partners that conduct businesses together with Six Apart in order to carry out advertising, promotional or sales activities or customer services, by executing confidentiality agreements with such Partners;  
+(ii) Six Apart provides the Personal Information, for entrusting the administration thereof, to any reliable corporation or individual by executing a confidentiality agreement;  
+(iii) Six Apart is required to provide or disclose such Personal Information by any order or judgment issued by a court or other public authority, or otherwise necessary for performance of obligations under laws and regulations;  
+(iv) Six Apart takes actions necessary for protecting itself from damage claims and other legal actions, by exercising its legal rights or putting up defenses;   
+(v) Six Apart conducts research, adopts preventive measures and takes necessary actions if there exists a possibility of illegal acts, suspected fraud or bodily injury or death, breach of Six Apart's service conditions or if it is legally required
 
-    * Monitor and prevent fraud and abuse.
+3\. If Six Apart becomes subject to acquisition or other transaction which accompanies transfer of a part or all of Six Apart's assets, your Personal Information will be transferred. In such case, Six Apart will inform you to that effect before your Personal Information is transferred to and becomes subject to the privacy policy of any third party. 
 
-    * Provide more relevant advertisements to you.
+4\. You may request suspension of provision of such Personal Information to any third party [by following a certain method prescribed by Six Apart](http://www.sixapart.com/privacy/Procedure%20for%20disclosure%202011.pdf).
 
+### Article 5. Setting, Edit and Deletion of Your Account Information
 
+You may refer to and edit your own account information at any time. Six Apart is entitled to dispatch to you specific information relating to Six Apart's services, such as announcements concerning the services, communication required for the administrative purpose and news from Six Apart ("Dispatched Information"). The Dispatched Information is deemed as part of the account with Six Apart and the receipt thereof may not be rejected. For a part of services, you may delete your account by visiting the applicable account deletion page; however, please note that your identification, billing and contact information remains in our records for a period necessary for our business reasons.
 
+### Article 6. Disclosure, Correction, Suspension of Use and Deletion of Personal Information
 
-### Cookies
+As for disclosure, correction, suspension of use, deletion and other procedures concerning the Personal Information owned by Six Apart, please contact us by following a certain method prescribed by Six Apart. We will respond to the request as soon as practicable upon your notification.
 
-  * A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a web site's computers and stored on your computer's hard drive.
+### Article 7. Confidentiality and Safety Control
 
-  * If you reject all cookies, you may not be able to use VOX services or products that require you to "sign in" and you may not be able to take full advantage of all offerings.
+1\. Only limited employees who are deemed to be in need of access to your Personal Information in order to provide you with the products and services may have access to your Personal Information. We control your Personal Information appropriately by appointing a control manager. 
 
-  * You can configure your browser to accept all cookies, reject all cookies or notify you when a cookie is set.
+2\. Six Apart uses physical, electronic, and procedural safeguards to protect your Personal Information. Your account information is password-protected. In certain procedures, Six Apart uses industry-standard SSL-encryption to enhance security for data transmissions. 
 
-  * VOX uses its own cookies for a number of purposes, including to:
+3\. Six Apart complies with laws, ordinances and rules relating to the Personal Information and ensures the protection and appropriate handling of the Personal Information. 
 
-    * Require you to re-enter your password after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
+4\. Six Apart destroys Personal Information by (i) shredding or tearing up, if such Personal Information is recorded in written form or in a CD-ROM or other physical recording media, or (ii) deleting, if such Personal Information is in an electronic form.
 
-    * Keep track of preferences you specify while you are using the Six Apart Sites, Products and Services.
+### Article 8. Modification to Privacy Policy
 
-    * Estimate and report our total audience size and traffic.
+Six Apart is entitled to modify this Privacy Policy. If Six Apart modifies the Personal Information handling procedures in a material respect, we will notify you to that effect by sending notice to the primary email address designated in your account with Six Apart or by posting such notice on Six Apart's site. 
 
-    * Conduct research to improve the content and services provided on the Six Apart Sites, Products and Services.
+Last updated on May 29, 2011 
 
-    * Ensure that visitors are not repeatedly offered the same advertisements and to customize advertising based on browser type and user profile information.
+Copyright © 2011 Six Apart Ltd. All rights reserved.
 
-  * Six Apart lets other entities that show advertisements or provide services on some of our web pages set and access their cookies on your computer. Other entities' use of their cookies is subject to their own privacy policies, and not this policy. Advertisers or other entities do not have access to Six Apart's cookies.
+  
 
-
-
-
-### Information Relating to Children
-
-  * Users under the age of 13 are prohibited from using VOX.
-
-
-
-
-### Information Use, Sharing and Disclosure
-
-  * VOX does not share personal information we learn about you from your use of the VOX web sites, products and services with others except as described in this policy.
-
-  * When you provide personal information through using VOX you are however sharing your personal information with Six Apart and its affiliated entities. The use of your personal information by these organizations is subject to this policy.
-
-  * We do not share your information with unrelated third parties for their direct marketing purposes. However, VOX may display targeted advertisements based on personally non-identifiable information (such as browser type and IP address) and/or personal selection (See the Section entitled “Third Party Advertising” below for more information on how your information is shared with advertisers).
-
-  * VOX may use or share your personal information where it is necessary to complete a transaction, to operate or improve the VOX products and services, to do something that you have asked us to do, or tell you of products and services that we think may be of interest.
-
-  * From time to time, Six Apart or a partner, may sponsor a promotion, sweepstake or contest on VOX. You may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. Six Apart may transfer personal information to certain advertising partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.
-
-  * Where you are contacted with an offer or service based on information you have shared with VOX, we will do our best to provide you with an opportunity to opt-out of receiving such further communications at the time you are contacted, however, in connection with any of our paid products and services (i.e., products or services that you license or use for a fee), we reserve the right to send you certain communications relating to those products and services, such as service announcements, administrative messages and the Six Apart Newsletter, that are considered part of your Six Apart account, without offering you the opportunity to opt-out of receiving them.
-
-  * When you register for VOX, Six Apart collects user-submitted account information such as name, email address and age to identify users and send notifications related to the use of the service. Six Apart also collects user-submitted profile information, including additional contact information, location, biographical information and photos. This additional profile information will assist other users in finding and communicating with you.
-
-  * VOX will display your “Display Name” on your Blog Site. VOX will display your name and email address on your Blog Site according to the preferences you set in your account. Additionally, Six Apart will display any user-submitted profile information on your Blog Site.
-
-  * To facilitate searching and finding friends and acquaintances on the Service, VOX allows users to search for other members using your “Display Name.” Additionally, VOX will allow users to search for you by your first and last name and email address according to the preferences you set in your account.
-
-  * Email addresses and full names are used when a user invites a friend via email to join VOX, when a user requests to add another user to their network and when VOX sends notifications to a user related to their use of VOX.
-
-  * When you post a message on a VOX Blog Site, you have the ability to post a message which may include personally identifiable information about yourself.
-
-  * If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
-
-  * Six Apart may share personally identifiable information about you under the following circumstances:
-
-    * In the course of operating our business it may be necessary or appropriate for us to provide access to your personal information to others such as our service providers, contractors and select vendors so that we can operate VOX and our business. Where practical, we seek to obtain confidentiality agreements that are consistent with this policy and that limit others' use or disclosure of the information you have shared.
-
-    * We may share your personal information to respond to subpoenas, court orders, or legal process, to establish or exercise our legal rights or, defend against legal claims and if in our judgment in such circumstances disclosure is required or appropriate.
-
-    * We may share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our various terms of use, or as otherwise required by law.
-
-    * As we continue to develop our business, we may also buy or sell all or part of our business. In such transactions, personally identifiable information you have shared with us is generally one of the business assets that will be transferred. The transferred personally identifiable information will remain subject to the promises made in this privacy policy or subsequent policies to which you have consented.
-
-
-
-
-### Third Party Advertising
-
-Advertisements appearing on the Six Apart Site, Product or Services may be delivered to users by Six Apart or one of our Web advertising partners. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy policy covers the use of cookies by Six Apart and does not cover the use of cookies by any advertisers.
-
-Six Apart does not share any personally identifiable information with advertisers. Six Apart may share general demographic information (such as aggregated statistics about members’ interests and occupations) and non-personally identifiable information (such as browser type and IP addresses) with advertisers and partners. Six Apart does not give advertisers access to your individual personal account information. However, by selecting, interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
-
-From time to time, Six Apart or a partner, may sponsor a promotion, sweepstake or contest on VOX. You may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. Six Apart may transfer personal information to certain advertising partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.
-
-### Changes to this Privacy Policy
-
-Six Apart may revise, modify or update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your particular Six Apart account or by placing a prominent notice on our site.
-
-### Confidentiality and Security
-
-No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make efforts to ensure security on our systems.
-
-  * We use physical, electronic, and procedural safeguards to protect personal information about you.
-
-  * Your account information is password-protected.
-
-  * In certain areas, VOX uses industry-standard SSL-encryption to protect data transmissions. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software.
-
-
-
-
-If Six Apart learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using VOX or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of those sites, products and services. We may post a notice on our applicable web sites if a security breach occurs. If this happens, you will need a web browser enabling you to view the applicable web sites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at [privacy@sixapart.com](mailto:privacy@sixapart.com).
-
-### Changing your Preferences and Personal Information
-
-  * You can edit your account information with VOX at any time. Most personal information you may provide is entirely optional. For example, to the extent that parents are considering whether to permit their children to use VOX, we do not condition a child's participation based upon their provision of any more personal information than is necessary to operate those sites, products and services.
-
-  * You can delete your applicable account by visiting the applicable account deletion page; however, please note that some personal information, primarily your contact information, may remain in our records to the extent necessary to protect our legal interests or document compliance with regulatory requirements.
-
-
-
-
-### Contacting Six Apart
-
-If you have a privacy concern regarding VOX, or this policy, and if you cannot satisfactorily resolve it through the use of those sites, products or services, you should complete a feedback form or you can write to us by email at [privacy@sixapart.com](mailto:privacy@sixapart.com). Alternatively, we can be reached by telephone at 415-344-0056 or our postal mail address:
-
-Six Apart, Ltd.  
-548 4th St.  
-San Francisco, CA 94107  
-Attention: Privacy Officer
-
-If you object to any sharing of your personal information that may be permitted under this policy, you may do so by writing us at the above address. We will take reasonable steps to accommodate your requests as they relate to our advertising practices. In some instances, honoring your requests may interfere with or preclude your ability to use VOX or may require us to terminate our relationship with you.
-
-Effective Date: May 31, 2006  
-Copyright 2003-6 Six Apart, Ltd. All rights reserved. 
