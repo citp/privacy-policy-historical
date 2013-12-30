@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topeleven.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630133504id_/http%3A//www.topeleven.com/privacy-facebook) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topeleven.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230155040id_/http%3A//www.topeleven.com/privacy-facebook) for the most accurate reproduction.*
 
 # Privacy Policy - Top Eleven be a Football Manager
 
@@ -12,7 +12,7 @@ Last updated on 1 May 2013.
 
 ### Introduction
 
-  1. NORDEUS, LLC (“we” or “us” or “our”, depending on what makes the most sense) are committed to protecting and respecting your privacy.
+  1. NORDEUS, Ltd. (“we” or “us” or “our”, depending on what makes the most sense) are committed to protecting and respecting your privacy.
   2. This privacy policy (together with our End User Licence Agreement http://www.topeleven.com/terms.htm sets out the basis on which we will process any personal information we collect from you, or that you provide to us. Please read this privacy policy carefully so that you understand how we will treat your personal information.
 
 
