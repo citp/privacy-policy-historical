@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the pinporn.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226054319id_/http%3A//www.pinporn.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinporn.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231004337id_/http%3A//www.sex.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Pinporn.com
+# Privacy Policy | Sex.com
 
 Effective February 2012
 
-We provide this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.pinporn.com. This Privacy Policy applies only to information that you provide to us through the site. This Privacy Policy may be updated on occasion. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes.
+We provide this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.sex.com. This Privacy Policy applies only to information that you provide to us through the site. This Privacy Policy may be updated on occasion. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes.
 
 This site expressly and strictly limits its membership and/or viewing privileges to adults 18 years of age and over, or having attained the age of majority in their country. All persons who do not meet this criteria are strictly forbidden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.
 
-The security of your Data is very important to Pinporn and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
+The security of your Data is very important to Sex.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
 
 ## DATA COLLECTED
 
@@ -23,19 +23,19 @@ Personal Information:
 
 Content Uploaded to the site: Any personal information or picture/video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
 
-Cookies: When you visit Pinporn, we may send one or more cookies to your computer that uniquely identifies your browser session. Pinporn uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.
+Cookies: When you visit Sex.com, we may send one or more cookies to your computer that uniquely identifies your browser session. Sex.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.
 
-Log File Information: When you visit Pinporn, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
+Log File Information: When you visit Sex.com, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
 
 Emails: If you contact us, we may keep a record of that correspondence.
 
 ## USES
 
-The personally identifiable information you submit to Pinporn is used to provide you as the user with special, personalized site features.
+The personally identifiable information you submit to Sex.com is used to provide you as the user with special, personalized site features.
 
 Your chosen username (not your email address) is displayed to other Users alongside the content you upload, including pictures & videos, comments, likes, etc.
 
-Any picture or videos that you submit to Pinporn may be redistributed through the internet and other media channels, and may be viewed by the general public.
+Any picture or videos that you submit to Sex.com may be redistributed through the internet and other media channels, and may be viewed by the general public.
 
 We may use your email address or other personally identifiable information to send commercial or marketing messages.
 
@@ -45,13 +45,13 @@ Opt-in communication — Subscriber expressly and specifically acknowledges and 
 
 Opt-out communication — Subscriber expressly and specifically acknowledges and agrees that his/her email address or other means of communicating with subscriber may not be used to send him/her offers, information or any other commercially oriented emails or other means of communications.
 
-We analyze aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the Pinporn user-experience.
+We analyze aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the Sex.com user-experience.
 
 ## DISCLOSURE OF INFORMATION
 
-If required to do so, Pinporn may release data to comply with any legal obligation, or in order to enforce our Terms of Service and other agreements; or to protect the rights, property or safety of Pinporn or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms of Service. It is Pinporn's policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.
+If required to do so, Sex.com may release data to comply with any legal obligation, or in order to enforce our Terms of Service and other agreements; or to protect the rights, property or safety of Sex.com or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms of Service. It is Sex.com's policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.
 
-Should you deliberately upload any illegal material, Pinporn shall forward all available information to all relevant authorities and do so without notice.
+Should you deliberately upload any illegal material, Sex.com shall forward all available information to all relevant authorities and do so without notice.
 
 We do not share your personally identifiable information, such as email address, with other third-party companies for their commercial or marketing use without your consent, or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
 
@@ -63,7 +63,7 @@ Our site contains links to other websites. If you choose to visit an advertiser 
 
 Here we have given you, or you have chosen, a password, which enables you to access certain parts of our Site. You are responsible for keeping this password confidential. We ask you not to share your password with anyone.
 
-Unfortunately, the transmission of information via the Internet is not completely secure. Pinporn uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Pinporn, and you do so at your own risk.
+Unfortunately, the transmission of information via the Internet is not completely secure. Sex.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Sex.com, and you do so at your own risk.
 
 Identity theft and the practice currently known as "phishing" are of great concern to us. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, login information, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission's website.
 
