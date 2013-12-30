@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubularlabs.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503171229id_/http%3A//tubularlabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubularlabs.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230235212id_/http%3A//tubularlabs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tubular Labs
 
@@ -71,7 +71,7 @@ Under California Civil Code sections 1798.83-1798.84, also known as the "Shine t
 
 If you have any questions about our privacy practices, please email us at [legal@TubularLabs.com](mailto:legal@TubularLabs.com).
 
-You can also contact us by mail at Tubular Labs Inc., 440 N Wolfe Rd, Sunnyvale, CA 94085.
+You can also contact us by mail at Tubular Labs Inc., 655 W Evelyn Ave, Suite 3, CA 94041.
 
 In addition, if you wish to exclude your personal information from our direct marketing, or if you would like to update or delete your email address, mailing address or other personal information, or otherwise manage communications your receive from Tubular Labs, please contact us at the above.
 
