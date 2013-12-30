@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iese.edu privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519061441id_/http%3A//www.iese.edu/en/more-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iese.edu privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230032216id_/http%3A//www.iese.edu/en/more-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: IESE Business School
 
