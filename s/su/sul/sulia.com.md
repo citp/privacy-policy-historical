@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sulia.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603040340id_/http%3A//sulia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sulia.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230201837id_/http%3A//sulia.com/privacy) for the most accurate reproduction.*
 
 # Sulia Privacy Policy
 
@@ -87,7 +87,7 @@ Except as set forth above, you will be notified when your Personally Identifiabl
 
 ## How Can I Delete My Account?
 
-Should you ever decide to delete your Account, you may do so by emailing [support@sulia.com](mailto:support@sulia.com). If you terminate and delete your Account, any association between your Account and information stored in connection with Sulia will no longer be accessible. However, you understand that (i) certain User Content will remain available, (ii) any of your User Content that has been re-posted will not be removed and will continue to be used in accordance with the [Terms of Use](https://web.archive.org/terms_of_use), and (iii) any removed User Content may persist in backup copies for a reasonable period of time. 
+Should you ever decide to delete your Account, you may do so by emailing [support@sulia.com](mailto:support@sulia.com). If you terminate and delete your Account, any association between your Account and information stored in connection with Sulia will no longer be accessible. However, you understand that (i) certain User Content will remain available, (ii) any of your User Content that has been re-posted will not be removed and will continue to be used in accordance with the [Terms of Use](https://web.archive.org/terms_of_use/), and (iii) any removed User Content may persist in backup copies for a reasonable period of time. 
 
 ## What Happens When There Are Changes to this Privacy Policy?
 
