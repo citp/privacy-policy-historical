@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the send2press.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529194134id_/http%3A//www.send2press.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the send2press.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230110031id_/http%3A//www.send2press.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for Send2Press Newswire, a service of Neotrope
 
@@ -6,9 +6,7 @@
 ---|---|---  
 | 
 
-Today is Wed., May 29, 2013   
-
-
+Today is Mon., Dec 30, 2013   
   
 **Questions? Call Toll-Free:**   
 1.866.473.5924 (in U.S.)   
@@ -35,20 +33,22 @@ Send2Press® Newswire is a service of Neotrope®, established Jan. of 1983 in Re
   
 
 
-[](http://validator.w3.org/check?uri=referer)
-
 | 
 
 Privacy Statement for Send2Press.com
 
-**April 2013 News**
+**November 2013 News**
 
 * * *
 
-As of April 1 all of our distribution plans now include placement on 100-200 websites automatically at no extra cost. This includes top sites like _CBS MoneyWatch, SF Chronicle, Boston.com, Houston Chronicle, SiliconValley.com, etc._ A link report is included with all plans. 
+Still working on our 2014 site revamp (see the [Help + FAQs](http://www.send2press.com/help/) page for preview). 
 
-For up to date 2013 pricing and plan bullet points during our Spring remodeling (moving to a responsive design), please see:  
-» [E-Z View Price/Features](http://www.send2press.com/services/ez_price_list.shtml)
+* * *
+
+**What's New:**   
+• All plans now include placement on up on to 500 websites worldwide (like boston.com, etc.); even the budget plans.   
+• All “Extended” plans (except with international or US1) now include a base word length limit of 500 words.   
+• SPECIAL: “Extended National” plan now only $395 through Dec. 31, 2013. No limits. (Cannot be combined with any coupon.) 
 
 The following privacy statement applies to all Neotrope® online properties, and this site ([www.Send2Press.com](http://www.send2press.com/)) you are now visiting and viewing. Send2Press® is a _service_ of Neotrope, and not an independent company. Neotrope is proud to be a U.S.-based company, established January of 1983, and located in Redondo Beach / Torrance, California (Los Angeles County), USA. All staff are based in the U.S., and our secure Web servers are based in Texas. 
 
@@ -58,7 +58,7 @@ Neotrope® and Send2Press® (Send2Press.com) have created this privacy statement
 
 This policy is believed to meet all local, state and Federal privacy laws and guidelines of the U.S.A. currently in place as of its writing, and is believed to meet the minimum requirements for the European Union, and Canada, but may not meet the requirements for other countries. 
 
-You may wish to review this policy annually, as it may be updated each January, or as industry and/or legal standards require it. This page was last updated on: February 10, 2011. 
+You may wish to review this policy annually, as it may be updated each January, or as industry and/or legal standards require it. This page was last updated on: November 08, 2013. 
 
 This policy statement contains the following topics:   
 ( **Click subject to "jump" to topics on this page, below** )
