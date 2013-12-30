@@ -1,17 +1,15 @@
-> *The following text is extracted and transformed from the livephish.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501120431id_/http%3A//www.livephish.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livephish.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230155741id_/http%3A//www.livephish.com/privacy.aspx) for the most accurate reproduction.*
 
 # LivePhish.com - Privacy Policy - Live Phish MP3 Downloads FLAC Downloads Live CDs
 
-| 
-
-Thank you for visiting the LivePhish.com website. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at LivePhish.com. 
+Thank you for visiting LivePhish.com. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at LivePhish.com. 
 
 **The Information We Collect**  
-At the LivePhish.com website, you can order products, express an opinion, subscribe to potential services such as online newsletters. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information. 
+At LivePhish.com, you can order products, express an opinion, subscribe to potential services such as online newsletters. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information. 
 
 At certain parts of some of our site, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings. 
 
-We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows 98 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink). 
+We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Safari, Chrome, Internet Explorer), the type of operating system you are using, (e.g., Mac OS, Android, Windows) and the domain name of your Internet service provider. 
 
 **How We Use the Information**  
 We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you. 
@@ -40,5 +38,3 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 **How to Contact Us**  
 If you have any questions or concerns about the LivePhish.com online policy for this site or its implementation you may contact us at [webmaster@livephish.com ](mailto:webmaster@livephish.com). 
-
-| 
