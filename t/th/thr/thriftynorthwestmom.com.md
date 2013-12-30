@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thriftynorthwestmom.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513083324id_/http%3A//www.thriftynorthwestmom.com/contact/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thriftynorthwestmom.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230235957id_/http%3A//www.thriftynorthwestmom.com/contact/disclosure-privacy-policy) for the most accurate reproduction.*
 
-# Disclosure & Privacy Policy
+# Disclosure & Privacy Policy - Thrifty NW Mom
 
 ## **Disclosure Policy:**
 
@@ -55,5 +55,3 @@ Be Sociable, Share!
   * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.thriftynorthwestmom.com%2Fcontact%2Fdisclosure-privacy-policy%2F&Title=Disclosure%20%26%20Privacy%20Policy "BlinkList")
   * 
 
-
-[ ](http://www.thriftynorthwestmom.com/advertisepr/disclosure/)[](http://www.printfriendly.com/ "Print an optimized version of this web page")
