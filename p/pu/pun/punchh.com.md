@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the punchh.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625102945id_/http%3A//punchh.com/static/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punchh.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230050417id_/http%3A//punchh.com/privacy_policy) for the most accurate reproduction.*
 
 # Punchh
 
-## Privacy Policy
+## Privacy
 
-#### Punchh does not send Spam or sell email addresses.
+Punchh does not send Spam or sell email addresses.  
+About Punchh and the Information We Collect
 
-#### About Punchh and the Information We Collect
-
-### Profile Information submitted by Members to Punchh
+#### Profile Information submitted by Members to Punchh
 
 Punchh is an online community that connects people through the places they visit and helps them discover places around them.. To accomplish this, each Punchh Member creates his or her own profile, which contains a list of places relevant to the member. This personal information includes such things as:
 
@@ -18,30 +17,27 @@ Punchh is an online community that connects people through the places they visit
 
 
 
-### Other Information submitted by Members to Punchh
+#### Other Information submitted by Members to Punchh
 
 Punchh also collects Member-submitted account information such as name and email address to identify Members, send notifications related to the use of the Punchh service and conduct market research and marketing for Punchh's internal use only.
 
-### Information Not Directly Submitted by Members or Other Website Users to Punchh
+#### Information Not Directly Submitted by Members or Other Website Users to Punchh
 
 Finally, we may also collect some information from Members, as well as from other visitors to the Punchh website, that is not personally identifiable, such as browser type and IP address. This information is gathered from all Members and visitors to the website.
 
-### Use of Information Obtained by Punchh
+#### Use of Information Obtained by Punchh
 
 #### Display of Members' Information
 
 Except where a Member might choose to include a full name in his or her profile, a Member's email address and full name will only be used in the following circumstances:
 
-  * When the Member invites a friend via email to become a Punchh Member,
-  * When the Member sends a request to another Member to add the other Member to his or her friend list,
-  * When we send notifications to the Member relating to his or her use of the Punchh service or Punchh website, and
-  * If the Member so chooses, when we send regular notifications, weekly updates, or other news regarding the Punchh service or the Punchh website.
-
-
-
+When the Member invites a friend via email to become a Punchh Member,  
+When the Member sends a request to another Member to add the other Member to his or her friend list,  
+When we send notifications to the Member relating to his or her use of the Punchh service or Punchh website, and  
+If the Member so chooses, when we send regular notifications, weekly updates, or other news regarding the Punchh service or the Punchh website.  
 Except when inviting or adding friends or as otherwise expressly set forth herein, a Member's email address will never be shared with or displayed to any other person. Members and their friends, and other Members within their personal networks (depending on the level of sharing a Member has chosen) communicate on Punchh with each other through the Punchh service, without disclosing email addresses.
 
-### Punchh's Use of Members' Information
+#### Punchh's Use of Members' Information
 
 We use information relating to each Member's server information, IP address, and browser-type.
 
@@ -49,7 +45,7 @@ We use information relating to each Member's server information, IP address, and
 
 Except as explained herein, or where you are expressly informed otherwise, we do not sell, rent, share, trade or give away any of your personal information unless required by law or for the protection of your Membership. However, Punchh may share profile information and aggregate usage information in a non-personally identifiable manner with advertisers and other third parties in order to present to Members and other users of the Punchh website more targeted advertising, products and services; provided that, in such situations, we will never disclose information that would personally identify you. As set forth above, Punchh may (i) use your email address to conduct market research for Punchh's internal use only; and/or (ii) use your email address to market Punchh to you (e.g., new features and applications, announcements, opportunities of interest). Punchh may contract with a third party to conduct such research and marketing; provided that such third party will be fully bound by an obligation of confidentiality to Punchh and may not use any personally-identifiable information provided by Punchh other than as expressly instructed by Punchh and in strict compliance with the terms of this Privacy Policy.
 
-#### Links
+Links
 
 The Punchh Website contains links to other websites. This includes links that are placed there by Punchh (such as in advertisements), as well as by other Punchh Members. Please be aware that Punchh is not responsible for the privacy practices of any other website. We encourage all Members and other users of the Punchh website to be aware of when they leave our website, and to read the privacy policies of each and every website that collects personally identifiable information. This privacy policy applies solely to information collected by Punchh through the Punchh website.
 
@@ -77,10 +73,10 @@ Members who no longer wish to receive our weekly email updates or other email no
 
 The ads appearing on this Web site are delivered to Members by our Web advertising partners. Our Web advertising partners may use cookie
 
-#### Members and Users Located Outside of the United States of America
+Members and Users Located Outside of the United States of America
 
-We have made an effort to protect the personal information of all Members and other users of the Punchh website, and to the extent applicable, we attempt to comply with local data protection and consumer rights laws. If you are unsure whether this privacy policy is in conflict with the applicable local rules where you are located, you should not submit your personal information to the Punchh website. **IN ADDITION, IF YOU ARE LOCATED WITHIN THE EUROPEAN UNION, YOU SHOULD NOTE THAT YOUR INFORMATION WILL BE TRANSFERRED TO THE UNITED STATES, THE LAWS OF WHICH MAY BE DEEMED BY THE EUROPEAN UNION TO HAVE INADEQUATE DATA PROTECTION** (see, for example, European Union Directive 95/46/EC of 24 October 1995, a copy of which can be found here). Members and other users of the Punchh website located in countries outside of the United States of America who submit personal information do thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to and/or storage of the information in the United States of America.
+We have made an effort to protect the personal information of all Members and other users of the Punchh website, and to the extent applicable, we attempt to comply with local data protection and consumer rights laws. If you are unsure whether this privacy policy is in conflict with the applicable local rules where you are located, you should not submit your personal information to the Punchh website. IN ADDITION, IF YOU ARE LOCATED WITHIN THE EUROPEAN UNION, YOU SHOULD NOTE THAT YOUR INFORMATION WILL BE TRANSFERRED TO THE UNITED STATES, THE LAWS OF WHICH MAY BE DEEMED BY THE EUROPEAN UNION TO HAVE INADEQUATE DATA PROTECTION (see, for example, European Union Directive 95/46/EC of 24 October 1995, a copy of which can be found here). Members and other users of the Punchh website located in countries outside of the United States of America who submit personal information do thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to and/or storage of the information in the United States of America.
 
-### Contacting Punchh
+#### Contacting Punchh
 
 If you have any questions about this privacy policy, Punchh's privacy practices, or your dealings with Punchh, please contact us.
