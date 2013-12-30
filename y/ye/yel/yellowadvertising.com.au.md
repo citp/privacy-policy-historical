@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowadvertising.com.au privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514032502id_/http%3A//about.sensis.com.au/legal/privacy.php%3Fref%3Dypflk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowadvertising.com.au privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230160827id_/http%3A//about.sensis.com.au/legal/privacy.php%3Fref%3Dypflk) for the most accurate reproduction.*
 
 # Privacy Collection Statement | Sensis
 
