@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ourgreatrecipes.com privacy policy that was archived on 2012-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120211001346id_/http%3A//ourgreatrecipes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourgreatrecipes.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230153700id_/http%3A//ourgreatrecipes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Our Great Recipes
+# Privacy Policy | Dave's Kitchen
 
 Privacy Policy for Our Great Recipes – ourgreatrecipes.com
 
