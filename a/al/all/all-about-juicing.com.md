@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the all-about-juicing.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504160743id_/http%3A//www.all-about-juicing.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-about-juicing.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230220257id_/http%3A//www.all-about-juicing.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-**Disclaimer**
 
 Everything on www.all-about-juicing.com is intended for for educational purposes ONLY.
 
@@ -22,9 +20,7 @@ This website and its contents are provided "AS IS" without warranty of any kind,
 
 Reproduction, distribution, republication, and/or retransmission of material contained within this website are prohibited unless the prior written permission of (company or website name) has been obtained.
 
- **Privacy**
-
-We recognize that your privacy is important. 
+We recognize that your privacy is important.
 
 www.all-about-juicing.com strives to maintain the higheststandards of decency, fairness and integrity in all ouroperations. Likewise, we are dedicated to protecting ourcustomers', consumers' and online visitors' privacy on ourwebsite.
 
@@ -76,102 +72,25 @@ If you do not agree to all-about-juicing.com’s Privacy Policy as posted here o
 
 Your use of this site indicates acceptance of this privacy policy.
 
+This site is my personal site. It accepts advertising and receives other forms of compensation. Such compensation does not influence the information in this site. We always give our honest opinions, findings, beliefs, or an experience as that is important to me.
+
+I only accept sponsorships or link to affiliates sites from providers of high-quality goods or services. I appreciate their recognition and support of this site.﻿
+
+Also, All-About-Juicing.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to www.amazon.com.  
+
+Rest assured that the actual content on sponsored pages are independent of any sponsorship or affiliate relationship. To avoid the appearance of any conflict of interest and in the spirit of full disclosure, I identify all sponsored content to you.
+
+﻿
+
+Please do support my affiliates and recommendations. This site takes time and effort to deliver original content, free, to you.  Without them, I would not be able to provide this information to help others.  Supporting my sponsors is a win-win-win for you, me, and them. Thank you very much.
+
 #### Thanks for visiting :)
 
   
 [Return from Privacy Policy and Disclamer to All About Juicing Home](http://www.all-about-juicing.com/index.html)
 
-**Instant Access to  ** **Juicy Coolness  
-**
-
-* * *
-
+  
   
 
 
-We’re completely crazy  
-about your site! Thanks for all the information and we look forward to more.  
-
-
-Sherri & John, Florida  
-
-
-This is the best site ever.  
-I am helping a lot of people get healthier and I will forward this site to all of them.  
-
-
-Seth, Vancouver, Canada  
-
-
-I've recently lost 10 pounds by using the weekend weight loss plan.  
-
-
-Jan G, New Mexico  
-
-
-I have no questions.  
-They've all been answered after visiting and reading your awesome site.  
-
-
-Jeff, California  
-
-
-You’re site is full of great information.  
-
-
-Chrissy, Maine  
-
-
-I enjoy your newsletters;  
-this recipe was the best one yet. I look forward to your next creation.  
-
-
-Alex, Chicago  
-
-
-  
-
-
-  **Join Thousands  ** **of  ** **Juicy Followers**
-
-* * *
-
-[](http://www.facebook.com/AllAboutJuicing)[](https://twitter.com/AllAboutJuicing)[](http://pinterest.com/allaboutjuicing) [](http://feeds.feedburner.com/TheJuicyBlog)[](https://www.tumblr.com/)[](http://www.stumbleupon.com/)
-
-**Get Your Copy Now**
-
-* * *
-
-[](http://www.all-about-juicing.com/detox-juice-recipes.html "Go to Detox Juice Recipes")
-
-Get a Rockin' body, rosy complexion and live a longer, healthier life
-
-[Jumpstart your health with these powerful detox recipes](http://www.all-about-juicing.com/detox-juice-recipes.html)
-
-**Most Popular Posts**
-
-* * *
-
-[Lose weight by juicing, really?](http://www.all-about-juicing.com/juicing-for-weight-loss.html)
-
-[Find top juicers that fit your style](http://www.all-about-juicing.com/best-juicer.html)
-
-[Fasting to heal and cleanse](http://www.all-about-juicing.com/Juice_Fast.html)
-
-[How to make green drinks to tempt your taste buds](http://www.all-about-juicing.com/green_juice_recipes.html)
-
-**Hippest, Hottest & Recommended**
-
-* * *
-
-[](http://www.all-about-juicing.com/omega-vert-juicer.html "Go to Omega Vert Juicer Review | Omega Vert 330 & HD Vrt 350")
-
-[](http://www.all-about-juicing.com/green-star-juicer.html "Go to Green Star Juicer Review")
-
-[](http://www.all-about-juicing.com/breville-juicer.html "Go to Breville Juicer | Juice Fountain Reviews")
-
-**The Best Blender in the Juicy World**
-
-* * *
-
-[](https://secure.vitamix.com/?COUPON=06-005503 "Vitamix Juicer Free Shipping")
+[](http://www.all-about-juicing.com/)
