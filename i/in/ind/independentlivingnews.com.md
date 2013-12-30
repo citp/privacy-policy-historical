@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the independentlivingnews.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603003053id_/http%3A//independentlivingnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independentlivingnews.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230050823id_/http%3A//independentlivingnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IndependentLivingNews.com
 
@@ -27,8 +27,6 @@
 
 
 If you need to modify the limited customer data we possess or wish to “opt-out” of any free content or marketing you have received, please contact us toll free at 1-877-371-1807.
-
-Email addresses and other personal information collected are used for delivery of specific sign-up promotion and/or site inquiry. In addition, any email address collected during sign-up promotions also receive promotions and helpful insights into the precious metals industry directly from **Independent Living Bullion**.
 
 © 2020 American Lantern Press. All Rights Reserved. • 377 Rubin Center Dr, Suite 203 • Fort Mill, SC • 29708  
 Call: (877) 371-1807 24 hr. hotline to order by phone 
