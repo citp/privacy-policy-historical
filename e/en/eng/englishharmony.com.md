@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the englishharmony.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630084205id_/http%3A//englishharmony.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishharmony.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230050331id_/http%3A//englishharmony.com/privacy-statement) for the most accurate reproduction.*
 
 # English Harmony Privacy Policy | English Harmony
 
-**Privacy Policy**
+Share this article with your friends!
+
+
+
+
+ **Privacy Policy**
 
 I have created this privacy statement in order to demonstrate my firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. I hold the privacy of your personal information in the highest regard. The following discloses my information gathering and dissemination practices for this website.
 
@@ -80,3 +85,8 @@ In the event that the web site (or a substantial portion of its assets) is acqui
 **Regards,**
 
 **Robby Kukurs**
+
+Share this article with your friends!
+
+
+
