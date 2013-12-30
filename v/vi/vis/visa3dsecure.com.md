@@ -1,140 +1,158 @@
-> *The following text is extracted and transformed from the visa3dsecure.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529124255id_/http%3A//www.visa.com/tracking/trk_privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visa3dsecure.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230022456id_/http%3A//usa.visa.com/sitewide/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy | Visa Corporate
+# Visa Privacy Policy | Visa USA
 
-Visa is committed to protecting your privacy. Visa (“we”, “us” or “our”) safeguards your personal information to maintain customer trust. 
+Revised February 2013 
 
-Visa respects the privacy of visitors of Visa.com and its related sites (collectively “Visa.com”) by disclosing and explaining in this Privacy Policy (“Policy”) how Visa collects, uses and shares information about you from Visa.com and the choices that you can make about the way your information is collected, used and shared. Visa encourages you to read this Privacy Policy and those of all web sites you visit. 
+**To learn more about how Visa uses your data for anonymous marketing reports and to OPT-OUT of this use[click here](https://web.archive.org/sitewide/privacy_policy_optout.html).**
 
-The following sections address Visa.com’s privacy issues in more detail: 
+Any time you visit a Web site, you may be providing information about yourself to the site’s owner or operator. We at Visa U.S.A. Inc. (“Visa U.S.A.”), like you, value privacy, so we want you to learn what you need to know to protect your personal privacy. When you visit or supply information to any Web site, it's a good idea for you to first understand the site's privacy policies. If the site owner doesn't tell you, don't hesitate to ask. 
 
-**On This Page**
+**The bottom line** at our Web site (also referred to generally as the "Visa U.S.A. site") is that we use information that we get from your visit to enable you to participate in and take advantage of the various programs and features presented on the Visa U.S.A. site, for our own internal analysis, and to make the Visa U.S.A. site and our programs and features more safe, useful and interesting to you. We do not use the information that we collect from the Visa U.S.A. site for any other purpose, nor do we share it with any affiliate or third party, except as specifically noted and with agencies, vendors, partners, or affiliates under contract with Visa U.S.A. 
 
-####  01\. Sites covered by this Privacy Policy 
+#### A special note about children
 
-This Privacy Policy applies to all services and sub-sites available under the domain visa.com (excluding usa.visa.com). Although this is a global privacy policy, each regional or country site may have rules and regulations that are not covered by this policy. We encourage you to read your regional or country’s privacy policy before using the site. By visiting this web site, you are agreeing in advance to the current and future terms of this Privacy Policy. If you do not wish to agree to these terms, you should leave this web site. 
+The Visa U.S.A. site is not intended for children under the age of 13, and Visa U.S.A. does not knowingly collect personal information from those children. 
 
-####  02\. Types of information collected on Visa.com 
+#### Applicability of this privacy policy
 
-There are two types of information collected on Visa.com: Personally Identifiable Information and Non-Personally Identifiable Information. 
+This privacy policy applies only to the information that we collect on the Visa U.S.A. site and not to any information that we collect through other methods or sources, including sites owned or operated by our affiliates, vendors, or partners. When visiting Visa Web sites for other countries or regions or other Web sites that are not owned or operated by Visa U.S.A., please review the privacy policy for those sites. 
 
-**Personally Identifiable Information**  
-Personally Identifiable Information (“personal information”) is information that identifies you as an individual, such as your name, mailing address, email address, age range, etc. Personal information is only obtained when you voluntarily provide the information to us. Visa uses personal information to better understand your needs and interests and to provide you with better service. For example, you may be asked to voluntarily submit your email address to us when communicating with us or your name and email address when entering a sweepstakes or contest. 
+### Notice
 
-On occasion, Visa may ask you to voluntarily submit information about other people. For example, this may be done to send them a link to a web page or sign them up for a promotion. 
+#### What information we collect and how we use it
 
-Once you choose to provide us with personal information, you can be assured it will be used only to support your relationship with Visa. We take seriously the trust you place in us and will not sell, rent or lease your personal information to others. 
+When you visit the Visa U.S.A. site, we capture your Internet provider's domain name (e.g., 'aol.com') and your IP Address. Note: For users who access the Internet from an Internet Service Provider (ISP), the IP address will be different every time you log on. Visa U.S.A. does not typically associate this information with any individual. We also capture the city and country from where the visit came, the paths taken as you move from page to page (i.e., your "click stream" activity), as well as some browser usage, settings and functionality and other information related to the device used to access the Visa U.S.A site. 
 
-**Non-Personally Identifiable Information**  
-Non-Personally Identifiable Information (“non-personal information”) is information that does not identify you as an individual, such as your browser type, IP Address, the URL of the previous web site you visited, etc. Visa may automatically collect certain types of non-personal information from you when using Visa.com. We may also collect non-personal information that you voluntarily provide, such as information included in response to a questionnaire or survey. 
+Information we collect on the Visa U.S.A. site may be used to enhance this Web site in ways like these: 
 
-Back to Top
+  * Arrange this Web site in the most user-friendly way 
+  * Customize your browsing experience of this Web site 
+  * Communicate special offers and featured items to you, if you choose to receive such notices 
+  * Respond to your questions or suggestions 
+  * Enhance security by identifying suspicious patterns of use and other anomalies 
 
-####  03\. Why we collect your information 
 
-Visa’s primary purpose in collecting personal information on Visa.com is to provide you with a safe and efficient experience and to provide you with services and features that better meet your needs or requests. We only collect information that we consider necessary for achieving this purpose. 
 
-Back to Top
+Visa U.S.A. only collects personal information that you choose to provide **voluntarily** when using or registering with the Visa U.S.A. site. "Personal information" includes information that can identify you, such as: 
 
-####  04\. How we collect information 
+  * Name, address, phone number, email address, or company name 
+  * Log-in information 
+  * Social Security number or Federal Identification number 
+  * Credit/debit card information 
 
-Visa collects data when you provide information to us or through the use of web technology.
 
-**Information Collected Through You**  
-If you choose to use certain services on Visa.com, we may require you to provide contact and identity information. Where possible, we indicate which fields are required and which fields are optional. If you choose not to use a particular service or feature, you do not have to provide the contact or identity information it calls for. 
 
-**Non-Personally Identifiable Information Collected Through Technology**
+While you can browse our Web site without providing personal information, you will need to input certain personal information as indicated on specific pages of our Web site in order to take advantage of certain features, such as requesting updates on promotional offers or participating in special programs. 
 
-**Cookies:**  
-Visa.com may use cookie technology to improve your experience on Visa.com and gather data for web site statistical reporting. Cookie technology does not capture your individual email address or any personal information about you. 
+Visa U.S.A. may also on occasion ask you to voluntarily submit information about other people. For example, you might be asked for the name and/or email address of people you know so we can inform them about a sweepstakes, contest, or other promotion or program offered on the Visa U.S.A. site, or otherwise in connection with any program that Visa U.S.A. or its member financial institutions might offer. 
 
-A cookie is a small piece of information sent by a web site that is saved on your hard disk by your computer’s browser. It holds information a site may need to personalize your experience (i.e., rotating images on Visa.com home page) and gathers web site statistical data, such as which pages are visited, what is downloaded, the Internet provider’s domain name and country that our visitors come from and the addresses of sites visited immediately before and after coming to Visa.com. However, none of this is associated with you as an individual and is measured only in aggregate.
+#### Browsing and the use of cookies, Web beacons, and logs
 
-To browse without cookies, you can configure your browser to reject all cookies or to notify you when a cookie is set. (Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences.) Your experience of the Visa.com site may be different if you set your browser to block cookies. 
+Visa U.S.A. uses **cookie** technology as part of our Web site's statistical reporting. A cookie is a small piece of information sent by a Web site that is saved on your hard disk by your computer's browser. It holds information a site may need to personalize your experience (such as, rotating images on the home page of the Visa U.S.A. site). Cookies may also be used for security and authentication purposes and to gather Web site statistical data, such as which pages are visited, what is downloaded, the Internet provider's domain name and country of origin, and the addresses of sites visited immediately before, and after, coming to the Visa U.S.A. site, as well as your "click stream" activity (meaning, the paths taken by visitors to our Web site as they move from page to page). 
 
-**Web Beacons:**  
-Visa.com may use web beacons to serve advertising, enhance email advertising and track usage on Visa.com. We use third parties to manage web beacons and the data they collect. Web beacons do not capture your individual email address or any other personal information. 
+None of this, however, is associated with you as an individual and is measured anonymously and only in aggregate, unless you have selected to opt-in to participate in an email program or other feature or functionality available at the Visa U.S.A. site. An email program consists of you voluntarily registering your email address at the Visa U.S.A site to receive periodic emails from Visa. Cookies do not capture your individual email address or any private information about you. 
 
-Web beacons, also called clear GIFs (a common format for image files), are invisible files on web pages that you visit. If you visit a page on Visa.com that contains a web beacon, it communicates with your computer to determine, among other things, whether you have been to that page before or viewed a particular advertisement. 
+If you prefer, you can configure your browser to reject all cookies, or to notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie and privacy preferences.) 
 
-DoubleClick Web beacons are also used on some Visa.com promotional microsites. DoubleClick offers a way for you to choose not to accept persistent cookies associated with these beacons. For more information, please visit the [DoubleClick site.](http://www.doubleclick.com/us/about_doubleclick/privacy/)
+A **Web beacon** is an electronic image, also called a single-pixel or clear GIF, placed in the code of a Web page. The Visa U.S.A. site uses Web beacons to track traffic patterns of users as they navigate from one page to another. This information lets us tune and improve our users' browsing experience. As with cookies, the information that Web beacons collect is aggregated, anonymous "click stream" data, and is not associated with you as an individual, unless you have selected to opt-in to participate in an email program. 
 
-**IP Address:**  
-Visa.com may collect IP addresses for the purposes of systems administration, server problem diagnosis and compiling aggregate information (such as how many visitors logged on to Visa.com). When you visit a particular web page on Visa.com, our servers log your IP address. An IP address is a number that is assigned to your computer automatically when you use the Internet. 
+We use third party advertising and media companies to serve ads on our behalf across the Internet and to help manage and optimize our Internet business and communications.Through the use of cookies and Action Tags (commonly referred to as Web beacons or GIF tags - e.g., Atlas cookies and Action Tags, Omniture tags, and Doubleclick Web beacons), which are inserted in various places within our Web site, such third party companies may collect anonymous information about your visits to the Visa U.S.A.site and your interaction with our ads and content. For instance, they may keep track of how many of our ads you had seen before visiting our Web site. These third party companies may share such anonymous information about your visits to this and other Web sites with us, and may use it in order to provide ads about goods and services of interest to you. From time to time, we may also share anonymous information with such third party companies in an aggregate form, for purposes of analysis and improvement of our Web site. If you would like more information about the use of third - party cookies and tags, or to opt out of the use of these cookies or tags to display targeted ads to you, please go to this [link](http://info.evidon.com/pub_info/987?v=1&nt=1&nw=true) or [http://aboutads.info](http://aboutads.info/). 
 
-Back to Top
+A **mash-up** is a web application that uses data from one or more sources to create a useful tool or service. Visa U.S.A. uses Yahoo! Maps, a mash-up application that integrates address information from various sources into an interactive mapping tool. As a third-party application, Yahoo! Maps sets a cookie in each user's browser, and uses information from those cookies in much the same way outlined above, but according to its own policies. For details of Yahoo! privacy policy, please go to <http://info.yahoo.com/privacy/us/yahoo/details.html>. 
 
-####  05\. Who we share information with 
+We also use Google Analytics, as well as standard Web server log files to help us count visitors and evaluate our Web site's technical capacity. This information tells us how many people visit the Visa U.S.A. site, and helps us decide how to arrange pages in the most user-friendly way. It also helps us keep the site browser-friendly and more useful to our visitors. We record information on site traffic, but not on individual visitors to our Web site, so no personal information about you will be kept or used, unless you have selected to opt-in to participate in an email program. 
 
-We take seriously the trust you place in us and will not sell, rent or lease your information to others. 
+#### Sweepstakes, contests, games, and surveys
 
-Visa employs other companies and individuals (“agents”) to perform services on behalf of Visa.com, such as administering sweepstakes and contests, sending emails, providing marketing assistance, web site management and analyzing data. Such agents will have access to personal and non-personal information only as necessary to perform their services for us and are not permitted to use it for any other purpose. 
+From time to time, Visa U.S.A. may conduct sweepstakes, contests, games or other promotions, and also conduct surveys through our Web site. If you choose to participate—unless otherwise noted in the applicable rules, terms and conditions, or disclaimers—we may use the information you provide in connection with the administration of the applicable promotion, including for selection and notification of sweepstakes or contest winners and for creation of new promotions, and/or to publish survey results in aggregate on the site. Except where necessary to administer a sweepstakes, contest, game or other promotion, or survey, unless you have otherwise agreed or unless required by law, we will not share or publish any response you give connected to your name or address. We will hold these responses only as anonymous statistics. 
 
-Visa may also work with other companies (“partners”) to provide co-branded services or promotions. To provide a co-branded service to you, it may be necessary for us to share your personal information with our partners. The partner will only be able to use the information as necessary to perform the requested service or in aggregate form for statistical reporting. 
+#### Discount Offers
 
-Remember, if you go to other web sites, including those of our partners, advertisers, merchants and other sites that link to our site, those other sites may collect personal and non-personal information about you. The information practices of those other sites are not covered by this Privacy Policy. We have no liability or responsibility for those sites or their own policies. 
+If you choose to participate in discounts available at the Visa U.S.A. site or through email, we may utilize cookies and Web beacons. These cookies and Web beacons do not contain any personal information nor are they associated with any personal information collected at the Web site. These technologies are used by Visa U.S.A., third party merchants and other service providers to process your discount and for internal administrative and other non-commercial purposes. Please note that once you click on a discount link, you will be directed to the respective merchant’s Web site and any information provided to the merchant will be subject to the merchant’s respective privacy policy and practices. 
 
-_Disclosure of personal information for legal purposes and protection of Visa.com and others:_ Visa.com reserves the right to share your personal information with third parties if we believe such action is necessary in order to: (a) conform with the requirements of the law or to comply with legal process served upon us; (b) protect or defend our legal rights or property, Visa.com or our users; or (c) investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person or violations of the terms and conditions of using Visa.com. 
+#### Email, mailing lists, and other services
 
-Back to Top
+When you send us an email, we use your email address to thank you for your comment and/or reply to your question. We store your communication and our reply in case we correspond further. Beyond our initial reply, we will not use your email address to send you any unsolicited message or information, nor will we share it with, or sell it to, anyone else for such use, other than as specified in this policy. 
 
-####  06\. Your choices and opting out 
+When you request information or services, we use your email address and any other information you give us to provide you with the information or services you’ve requested until you ask us to stop (by using the “unsubscribe” instructions provided on each email and/or the Web site where you signed up and/or as we otherwise provide), or until the information or service is no longer available. We will not use your email address or other information to provide you with any unsolicited message or information (unless the message or information is part of the service you are requesting). 
 
-Visa.com will contact you only if you elect to be contacted. 
+#### Affiliated businesses and links to other sites
 
-If you choose to receive email messages, Visa.com may periodically send you email messages describing updates, new features or promotional offers related to this web site. You can choose to stop receiving this email at any time. Simply follow the instructions included in your email or send a reply stating your request. 
+We work closely with our affiliated businesses, vendors and partners, many of which have links within the Visa U.S.A. site. Please remember that when you use a link to go from the Visa U.S.A. site to another Web site, this Privacy Policy no longer applies. Your browsing and interaction on any third party’s Web site, including any Web site that has a link on the Visa U.S.A. site, is subject to the rules and policies of that Web site. We encourage you to read the rules and policies of the Web sites you visit to better understand their procedures for collecting, using, and disclosing personal information. 
 
-If you do not explicitly choose to receive informational emails, the only email messages you will receive from Visa.com will be in response to email inquiries that you send us. 
+#### Our policy regarding selling or renting of personal information
 
-At any time, you can “opt-out” of receiving direct mail and marketing material from Visa.com, such as product and service updates, by following the instructions included in your email or by sending a reply stating your request, and we will make the requested changes. 
+Our policy is simple: we do not sell or rent your personal information to any third parties under any circumstances, except in the event of a bankruptcy or reorganization, or a sale of all or substantially all of our assets, as further provided below. 
 
-Back to Top
+#### Agents
 
-####  07\. Children’s privacy 
+We may employ other companies and individuals to perform services on behalf of Visa U.S.A., such as (1) administering special reward or other programs affiliated with Visa U.S.A., or sweepstakes, contests and other promotions, (2) sending emails, (3) providing marketing assistance, and (4) analyzing data. Some of these companies and individuals will have access to the personal information necessary to perform their services, but will not be permitted to use it for any other purpose. 
 
-Visa.com is not intended for use by children. We do not knowingly collect information from children under the age of 13. If we learn that personal information on a child under the age of 13 is collected, we will delete that information from our systems. We encourage parents and guardians to be familiar with the web sites that their children visit. 
+#### Banners and other advertisements on Visa U.S.A.
 
-Back to Top
+The Visa U.S.A. site displays banners and other advertisements that may be placed by third parties. Such advertisers may collect non-personal information (meaning, information that is not identifiable to any individual) when you click or scan one of their advertisements, by placing cookies on your computer or by using other technology. We encourage you to review the privacy policies of any such third parties. In addition, we may share aggregate information about our visitors to third-party ad servers or potential advertisers in order to provide advertisements on Visa U.S.A. about products and services that may be of interest to you. 
 
-####  08\. Keeping your information secure 
+#### Business transfers
 
-The security of your personal information is very important to us, and we are committed to protecting the information that we collect. We have security measures in place at our facilities to protect against the loss, misuse or alteration of information that Visa has collected from you at our web site. 
+If a third party acquires all or substantially all of our assets, your personal information, aggregated information, and any other information that we have collected on the Visa U.S.A. site may be transferred to such third party as part of our business assets. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered one of our assets and may be sold or transferred to third parties. 
 
-Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100 percent secure. As a result, while we strive to protect your personal information, Visa cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. 
+#### Disclosure of personal information for legal purposes and protection of Visa U.S.A. and others
 
-Back to Top
+We reserve the right to share your personal information with third parties if required to do so by law, or if we believe such action is necessary in order to: (1) conform to the requirements of the law or comply with legal process served upon us; (2) protect or defend our legal rights or property, the Visa U.S.A. site, or our users; or (3) investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of the terms and conditions for using the Visa U.S.A. site. 
 
-####  09\. Acceptance of policy 
+### Choice
 
-By visiting Visa.com, you are accepting the terms and conditions of this Privacy Policy, and we have the right to use your information as described in this Privacy Policy. We reserve the right to modify this Privacy Policy at any time. Your continued use of Visa.com after we either personally notify you or generally post such changes on Visa.com will constitute your acceptance of those changes. 
+#### How you can decide what communication you'll receive from us
 
-This Privacy Policy applies only with respect to the information that we collect on Visa.com and not to any information that Visa collects through other methods or sources. 
+If you choose to receive them, we may periodically send you email messages describing updates, new features, or promotional offers related to this Web site or otherwise related to Visa U.S.A. or its member financial institutions. You can choose to stop receiving this email at any time. Simply follow the instructions included in your email, or send a reply stating your request. 
 
-If for some reason you believe that Visa.com has not adhered to this Privacy Policy, please notify us at one of the addresses below. 
+If you do not explicitly choose to receive informational emails, the only email messages you will receive from Visa U.S.A. will be a response to an email inquiry that you send us. 
 
-Back to Top
+#### How you can choose to opt-out of online targeted ads
 
-####  10\. Changes to statement 
+_Visa U.S.A._ and/or our ad network partners may use browsing behavior data collected on this site and others to customize ads to you on other web sites as you browse the web. If you do not want your browsing behavior on this site to be used for online behavioral advertising purposes, CLICK [HERE](http://info.evidon.com/pub_info/987?v=1&nt=1&nw=true) to opt-out. You can also opt-out of targeted Visa online ads by clicking on the Ad Choices icon on the corner of our online ads. 
 
-Visa may modify or amend this Privacy Policy from time to time. In an effort to keep you informed of changes to this Privacy Policy, please note that the latest revision occurred in September 2004. Changes to this Privacy Policy will not affect our use of previously provided personal information. 
+### Access and data retention
 
-Back to Top
+#### How to update, correct, or delete your personal information
 
-####  11\. Contacting us 
+You can access and modify certain personal information stored on the Visa U.S.A. site, such as your name, phone number, email address, and mailing address, by contacting us via email at [askvisausa@visa.com](mailto:askvisausa@visa.com) or via mail at the address set forth below in the "How to contact Visa U.S.A. regarding your concerns and questions" section. 
 
-Please note that whenever you submit any information to us in connection with any Visa.com-related services, you consent to Visa’s processing of this information in the United States as necessary to provide the services in which you are participating. 
+To modify or delete personal information related to an email program, simply follow the instructions included in your email, or send a reply stating your request, and we will make the requested changes. 
 
-If you have any questions or comments about Visa.com’s Privacy Policy and/or the way it affects you, please feel free to contact us by: 
+We retain information provided to us indefinitely unless otherwise stated. We will keep some personal information you have requested to remove for the following purposes: 
 
-  * Sending an e-mail request to askvisacorporate@visa.com; or 
-  * Sending a letter via US Mail to:
+  * Troubleshoot problems 
+  * Assist with investigations 
+  * Enforce our Web site rules 
+  * Comply with legal requirements 
 
-Attention: Visa.com/M3-3D   
-Visa Inc.   
-P.O. Box 8999   
-San Francisco, CA 94128-8999 
 
 
+Therefore, you should not expect that all of your personal information will always be completely removed from our databases in response to your requests. 
 
+### Security
 
-Back to Top
+#### How we protect the security of your personal information
+
+The security of your personal information is very important to us, and we are committed to protecting the information we collect. While we cannot guarantee absolute security of your personal information, Visa U.S.A. uses firewalls and Secure Socket Layers for all personal data we collect from you. We also employ many different security techniques to protect personal data against loss, misuse, alteration, and unauthorized access. 
+
+### Customer service and recourse
+
+#### Changes to the Visa U.S.A. privacy policy
+
+This privacy policy was revised and posted February 2013. Visa U.S.A. reserves the right to change, modify, or amend this policy at any time. Please also read over the Visa U.S.A. [site rules](https://web.archive.org/sitewide/legal.html). Visa takes privacy matters very seriously, and intends to stay at the forefront of privacy policy and protection matters. Visa will occasionally update our privacy policy and we will post those updates on this page. You are responsible for revisiting this page to review our privacy policy updates. 
+
+#### How to contact Visa U.S.A. regarding your concerns and questions
+
+Please note that whenever you submit any information to us in connection with any services related to the Visa U.S.A. site, you consent to let us process this information in the United States as necessary to provide the services in which you are participating. 
+
+If you have any questions, comments, criticisms, or complaints about Visa U.S.A.'s privacy policy and/or the way it affects you, please feel free to email us at [askvisausa@visa.com](mailto:askvisausa@visa.com) or write to us at: 
+
+Visa U.S.A. Inc.   
+P.O. Box 194607   
+San Francisco, California 94119-4607   
+Attention: Webmaster 
+
+Should you have a dispute regarding this privacy policy, we will resolve it and take any remedial action as we reasonably determine in our discretion and in accordance with applicable laws. 
