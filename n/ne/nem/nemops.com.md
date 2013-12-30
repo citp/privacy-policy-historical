@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nemops.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501114730id_/http%3A//store.nemops.com/content/6-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nemops.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230155412id_/http%3A//store.nemops.com/content/6-privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Nemo's PostScriptum Store
+# Privacy policy - Prestashop Modules Store - Nemo's PostScriptum
 
 ## Privacy Policy
 
