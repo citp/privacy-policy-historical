@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaunsa.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526064405id_/http%3A//www.kaunsa.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaunsa.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230120916id_/http%3A//www.kaunsa.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - Kaunsa.com, Online Shopping Store
 
