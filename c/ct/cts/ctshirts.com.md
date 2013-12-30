@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctshirts.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501080433id_/http%3A//www.ctshirts.com/Charles-Tyrwhitt-privacy-policy%3Fcnt%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctshirts.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231001702id_/http%3A//www.ctshirts.com/Charles-Tyrwhitt-privacy-policy%3Fcnt%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Charles Tyrwhitt
 
