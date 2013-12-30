@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redheart.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529154600id_/http%3A//redheart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redheart.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231003641id_/http%3A//www.redheart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Red Heart
 
