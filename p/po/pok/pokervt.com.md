@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pokervt.com privacy policy that was archived on 2013-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130325184851id_/http%3A//pokervt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokervt.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230014934id_/http%3A//pokervt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Poker VT
 
-At POKER VT, we take privacy issues seriously and strive to keep your personal information confidential. By ensuring that you are aware of and understand the POKER VT Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information.
+At POKER VT, we take privacy issues seriously and strive to keep your personal information confidential. By ensuring that you are aware of and understand the POKER VT Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information. 
 
 **Why do we collect personal information?**  
 POKER VT collects personal information to improve the manner by which we operate, offer our products and services, communicate with you about those products and services, and provide effective, timely customer support when needed. We will never rent or sell any of the personal information we collect from you to third parties, and we will not share your personal information with third parties unless such sharing is necessary for the purposes set forth in this Privacy Policy.
