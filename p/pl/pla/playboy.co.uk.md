@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playboy.co.uk privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627204438id_/http%3A//www.playboy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playboy.co.uk privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230163952id_/http%3A//www.playboy.com/privacy-policy) for the most accurate reproduction.*
 
 # Hot Girls, Sexy Girls, Naked Women, Nude Pics, Sexy Women, Playmates, Playboy Magazine, Naked Celebs, Playboy.com
 
@@ -80,5 +80,3 @@ None of the personal identifying information you provided to PBP in connection w
 The following third parties offer information about their data collection practices, and in some cases, an opt-out, on their respective websites. Please visit each company's privacy policy to better understand the controls available to you.
 
 <http://www.nielsen-netratings.com/privacy/sitecensus.htm>
-
-* * *
