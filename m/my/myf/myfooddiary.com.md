@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfooddiary.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629130816id_/http%3A//myfooddiary.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfooddiary.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230033824id_/http%3A//www.myfooddiary.com/Home/Privacy) for the most accurate reproduction.*
 
 # MyFoodDiary Privacy Policy
 
@@ -80,6 +80,14 @@ We use session cookies to make it easier for you to navigate our site.  A sessi
 
 Persistent cookies remain on your hard drive for an extended period of time.  If you select the "remember me" option when logging into our members' section, a persistent cookie will be used to allow you to bypass the log in process in the future.  We also use persistent cookies to help us track how new members find our site.  You can remove persistent cookies by following directions provided in your Internet browser's "help" file.
 
+#### Google Analytics
+
+Google Analytics provides us with statistics about our site traffic. We also use Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, show our ads on sites across the Internet. We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to our website.
+
+We will not facilitate the merging of personally-identifiable information with non-personally identifiable information previously collected from Display Advertising features that is based on the DoubleClick cookie unless we have robust notice of, and the user's prior affirmative (i.e., opt-in) consent to, that merger.
+
+Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads) or by installing the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
+
 #### Links to Other Sites
 
 This Web site contains links to other sites that are not owned or controlled by MyFoodDiary.com or Aligned Web Solutions, Inc.  Please be aware that we are not responsible for the privacy practices of such other sites.  We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
@@ -115,7 +123,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 If you have any questions or suggestions regarding our privacy policy, please contact us at: [https://www.myfooddiary.com/Support](https://web.archive.org/support).
 
 **MyFoodDiary**  
-651 Perimeter Drive, Ste. 620  
-Lexington, KY 40517 
+1600 Harmony Hall Rd.  
+Lexington, KY 40502 
 
-Last Updated on December 11, 2012
+Last Updated on October 3, 2013
