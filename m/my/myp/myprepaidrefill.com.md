@@ -1,23 +1,19 @@
-> *The following text is extracted and transformed from the myprepaidrefill.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626044025id_/http%3A//www.wireless.att.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myprepaidrefill.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230224249id_/http%3A//www.wireless.att.com/privacy) for the most accurate reproduction.*
 
 # AT&T Privacy Policy
 
-## Privacy Commitments
+## Our privacy commitments
 
-AT&T takes your privacy very seriously. Our customers told us they want to see clear, easy-to-read information about our privacy commitments and policy. We have made our privacy policy easier to find and easier to read. And we're listening. We welcome your questions and feedback on our privacy policy, and invite you to [contact us](https://web.archive.org/gen/privacy-policy?pid=13692#contact "contact us").
+Our privacy commitments are fundamental to the way we do business every day. These apply to everyone who has a relationship with us - including customers (wireless, Internet, digital TV, and telephone) and Web site visitors.
 
-Our privacy commitments are fundamental to the way we do business every day. These apply to everyone who has a relationship with AT&T — including customers (wireless, Internet, digital TV, and telephone) and Web site visitors. 
-
-  * We will protect your privacy and keep your personal information safe. We use powerful encryption and other security safeguards to protect customer data. 
+  * We will protect your privacy and keep your personal information safe. We use encryption and other security safeguards to protect customer data.
   * We will not sell your personal information to anyone, for any purpose. Period.
   * We will fully disclose our privacy policy in plain language, and make our policy easily accessible to you.
   * We will notify you of revisions to our privacy policy, in advance. No surprises.
-  * You have choices about how AT&T uses your information for marketing purposes. Customers are in control. 
-  * We're listening. You can send us questions or feedback on our privacy policy.
+  * You have choices about how AT&T uses your information for marketing purposes. Customers are in control.
+  * We want to hear from you. You can send us questions or feedback on our privacy policy.
 
 
-
-### Privacy Policy
 
 ### Privacy Policy Scope
 
