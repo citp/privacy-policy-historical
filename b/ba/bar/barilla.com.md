@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the barilla.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630092838id_/http%3A//www.barilla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barilla.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230010915id_/http%3A//www.barilla.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Barilla
+# Privacy Policy | Barilla
 
 STATEMENT OF PRIVACY
 
