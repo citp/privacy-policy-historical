@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viasat.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508234608id_/http%3A//www.viasat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viasat.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230045559id_/http%3A//www.viasat.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - ViaSat
+# Satellite and Other Digital Communications Networks, Services, and Technology
 
 ViaSat, Inc. and our subsidiaries (collectively, ViaSat) respect your privacy and are committed to protect the personal information that you share with us. Generally, you can browse through our website without giving us any information about yourself. When we do need your personal information to provide services that you request or when you choose to provide us with your personal information, this Privacy Policy describes how we collect and use your personal information.
 
@@ -67,7 +67,7 @@ ViaSat takes the privacy of children seriously. ViaSat does not seek to collect 
 
 ### **EEA Safe Harbor Notice**
 
-ViaSat, Inc. US adheres to the Safe Harbor Privacy Principles published by US Department of Commerce (“Safe Harbor Principles”) with respect to personal data about individuals in the EEA that subsidiaries, customers and other business partners in the EEA send to ViaSat, Inc. US. ViaSat US’s Safe Harbor Certification does not extend to data that ViaSat US receives directly through [www.viasat.com](http://www.viasat.com/ "www.viasat.com") or other websites (information on ViaSat US’s practices regarding data received through websites is contained in the applicable website privacy statements, if any). More information on the Safe Harbor Principles and ViaSat US’s scope of participation is available at [www.export.gov/safeharbor](http://www.export.gov/safeharbor/sh_overview.html "http://www.export.gov/safeharbor/sh_overview.html").
+ViaSat, Inc. US adheres to the Safe Harbor Privacy Principles published by US Department of Commerce (“Safe Harbor Principles”) with respect to personal data about individuals in the EEA that subsidiaries, customers and other business partners in the EEA send to ViaSat, Inc. US. ViaSat US’s Safe Harbor Certification does not extend to data that ViaSat US receives directly through [www.viasat.com](http://www.viasat.com/) or other websites (information on ViaSat US’s practices regarding data received through websites is contained in the applicable website privacy statements, if any). More information on the Safe Harbor Principles and ViaSat US’s scope of participation is available at [www.export.gov/safeharbor](http://www.export.gov/safeharbor/sh_overview.html "http://www.export.gov/safeharbor/sh_overview.html").
 
 ### Changes to this Privacy Policy
 
