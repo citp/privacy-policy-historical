@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the coldwellbanker.com privacy policy that was archived on 2013-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130502014802id_/http%3A//www.coldwellbanker.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coldwellbanker.com privacy policy that was archived on 2013-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131230084346id_/http%3A//www.coldwellbanker.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><!--<![endif]--><head>
 	
@@ -25,17 +25,19 @@
 		<link rel="icon" href="/favicon.ico" type="image/x-icon">
 		<link href="http://fonts.googleapis.com/css?family=Ubuntu:300,500,700" rel="stylesheet" type="text/css">
 	<!--	<link wicket:id="legacyStyles" rel="Stylesheet" type="text/css" href=""/>-->
-		<link rel="Stylesheet" type="text/css" href="http://edge.coldwellbanker.com/styles/cb-global-124334.css">
-		<link rel="Stylesheet" type="text/css" href="http://edge.coldwellbanker.com/styles/cb-about-124334.css">
+		<link rel="Stylesheet" type="text/css" href="http://edge.coldwellbanker.com/styles/cb-global-126966.css">
+		<link rel="Stylesheet" type="text/css" href="http://edge.coldwellbanker.com/styles/cb-about-126966.css">
 		
 		<link rel="canonical" href="http://www.coldwellbanker.com/privacy">
+		
+
 
 		<!--[if IE 7]>
 		<link rel="stylesheet" type="text/css" href="http://edge.coldwellbanker.com/styles/IE7Fixes.css"/><![endif]-->
 
 		<!--[if lt IE 9]><script language="javascript" type="text/javascript" src="http://edge.coldwellbanker.com/js/global/jquery.jqplot/excanvas.js"></script><![endif]-->
 		<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">var baseSecureUrl = 'http://www.coldwellbanker.com'</script>
-		<script type="text/javascript" src="http://edge.coldwellbanker.com/js/cb-urlhelper-124334.js"></script>
+		<script type="text/javascript" src="http://edge.coldwellbanker.com/js/cb-urlhelper-126966.js"></script>
 		<script id="com-coldwellbanker-web-page-PropertyResults-0">URLHELPER = new UrlHelper();</script>
 
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
@@ -93,7 +95,7 @@
 <style>#homesearch { background-image: url("http://edge.coldwellbanker.com/images/home/searchBG.png"); }</style>
 <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?domready=1#username=deepsky"></script>
 <script type="text/javascript" id="addThisInitializer"><!--/*--><![CDATA[/*><!--*/
-var addthis_config = {"ui_hover_direction":-1,"ui_header_background":"#F2F2F2","ui_header_color":"#000000","ui_delay":500,"services_compact":"email, favorites, delicious, digg, google, myspace, live, facebook, stumbleupon, twitter","services_expanded":"email, favorites, delicious, digg, google, myspace, live, facebook, stumbleupon, twitter","data_use_flash":true,"services_exclude":"print,printfriendly","data_track_clickback":true,"data_ga_property":"UA-10879045-1"};
+var addthis_config = {"ui_hover_direction":-1,"ui_header_background":"#F2F2F2","ui_header_color":"#000000","ui_delay":500,"data_use_flash":true,"services_exclude":"print,printfriendly","data_track_clickback":true,"data_ga_property":"UA-10879045-1"};
 var addthis_share = {
    templates: {
       twitter: "{{title}} - {{url}} via @coldwellbanker"
@@ -103,6 +105,19 @@ $(function() { addthis.init(); });
 /*-->]]>*/</script>
 
 
+		<script type="text/javascript" id="com-coldwellbanker-web-panel-HeaderV2-0">
+           $(document).ready(function() {
+			   if(!saveditems.isInitiated){
+				saveditems.init();
+			   }
+				
+				// see BasePage.java#addAuthenticationFailureAlert()
+				if (typeof CREDENTIALS_VALIDATED !== 'undefined' && CREDENTIALS_VALIDATED) {
+					 analytics.runTag('account_registered');
+				}
+            });
+		</script>
+	
 
     </head>
 
@@ -327,44 +342,149 @@ $(function() { addthis.init(); });
 					</div>
 
 					<div class="navItem">
-							<div class="navItemOuterWrapper">
-								<div class="navItemWrapper joinUs">
-									<a href="/join" class="navTop">JOIN US</a>
-								</div>
-								<div class="subnav">
-									
-										<div class="subnavItem">
-											<a href="/join/careers">Careers in Real Estate</a>
-										</div>
-										<div class="divider">&nbsp;</div>
-										<div class="subnavItem">
-											<a href="/join/franchise">Franchising Opportunities</a>
-										</div>
-										<div class="divider">&nbsp;</div>
-									
-
-									
-								</div>
-
-								<div class="navDivider">&nbsp;</div>
+						<div class="navItemOuterWrapper">
+							<div class="navItemWrapper joinUs">
+								<a href="/join" class="navTop">JOIN US</a>
 							</div>
-                        </div>
+							<div class="subnav">
+								
+									<div class="subnavItem">
+										<a href="/join/careers">Careers in Real Estate</a>
+									</div>
+									<div class="divider">&nbsp;</div>
+									<div class="subnavItem">
+										<a href="/join/franchise">Franchising Opportunities</a>
+									</div>
+									<div class="divider">&nbsp;</div>
+								
 
-					<div class="navItem">
+								
+							</div>
+
+							<div class="navDivider">&nbsp;</div>
+						</div>
+					</div>
+
+					<div id="favorites" class="navItem">
 						<div class="navItemOuterWrapper">
 							<div class="navItemWrapper favorites">
 								<a href="/home_file" class="navTop">FAVORITES</a>
 							</div>
-							<div class="subnav favorites">
-								<div class="subnavItem">
-									<a href="/home_file">Newly Listed Homes</a>
+							<div class="subnav">
+								<div class="tabLayerContent clearfix">
+									<div class="subnavItem">
+
+                                        <div id="saveditemsLogin" class="saveditemsLogin clearfix">
+											<form action="/j_spring_security_check" onsubmit="return saveditems.login('globalLogin');">
+												<input type="hidden" name="j_redirect" value="home_file">
+												<!-- Remember-Me -->
+												<input type="hidden" name="_spring_security_remember_me" value="true">
+
+												<h3 class="title">Welcome to Favorites</h3>
+                                                <p class="sub-title">Get started by registering, or logging in below.</p>
+
+												<div class="clearfix">
+                                                    <label for="globalLoginEmail">Email</label>
+                                                    <input id="globalLoginEmail" name="j_username" type="email" required="">
+                                                </div>
+												<div class="clearfix">
+                                                    <label for="globalLoginPassword">Password</label>
+                                                    <input id="globalLoginPassword" name="j_password" type="password" required="">
+                                                </div>
+
+												<div class="loginRow">
+                                                    <div class="loginLinks">
+                                                        <a href="/home_file#Home">Register Now</a>
+                                                        <a href="javascript:saveditems.forgotPassword();">forgot Your Password?</a>
+                                                        <a class="works-link" href="/home_file#HowWorks">HOW IT WORKS</a>
+                                                    </div>
+													<div class="orangeButtonLarge"><input type="submit" value="Login"></div>
+												</div>
+											</form>
+										</div>
+										
+										<div id="saveditemsLoggedIn" style="height: 160px;" class="saveditemsLoggedIn clearfix">
+                                            <div class="savedItemsAccount">
+                                                <h3 class="title">
+                                                    Welcome <span id="saveditemsLoginName">&nbsp;</span>
+                                                </h3>
+                                                <span class="notUser">
+                                                    Not <span id="saveditemsNotUserLink">&nbsp;</span>? <a href="j_spring_security_logout">Click here</a>
+                                                </span>
+
+                                                <span class="url"><a href="javascript:saveditems.savedSearchesView()">SAVED SEARCHES (<span id="saveditemsSavedSearches">&nbsp;</span>)</a></span>
+                                                <span class="url"><a href="javascript:saveditems.editAccountSettings()">EDIT ACCOUNT SETTINGS</a></span>
+                                                <span class="url"><a href="/home_file#HowWorks">HOW IT WORKS</a></span>
+                                                <span class="url"><a href="j_spring_security_logout">LOGOUT</a></span>
+                                            </div>
+
+
+											<div id="saveditemsContent" class="saveditemsContent">
+												<div id="saveditemsTabContainer" class="saveditemsTabContainer">
+													<!--All-->
+													<div class="saveditemsTab">
+														<div id="saveditemsAllButton" class="saveditemsButton active" onclick="saveditems.populateTab('All');">
+															ALL
+															<div class="tabCount" id="saveditemsAllCount">&nbsp;</div>
+														</div>
+													</div>
+
+													<!--Properties-->
+													<div class="saveditemsTab">
+														<div id="saveditemsPropertyButton" class="saveditemsButton" onclick="saveditems.populateTab('Property');">
+															PROPERTIES
+															<div class="tabCount" id="saveditemsPropertyCount">&nbsp;</div>
+														</div>
+													</div>
+
+													<!--Agents-->
+													<div class="saveditemsTab">
+														<div id="saveditemsAgentButton" class="saveditemsButton" onclick="saveditems.populateTab('Agent');">
+															AGENTS
+															<div class="tabCount" id="saveditemsAgentCount">&nbsp;</div>
+														</div>
+													</div>
+
+													<!--Offices-->
+													<div class="saveditemsTab">
+														<div id="saveditemsOfficeButton" class="saveditemsButton" onclick="saveditems.populateTab('Office');">
+															OFFICES
+															<div class="tabCount" id="saveditemsOfficeCount">&nbsp;</div>
+														</div>
+													</div>
+
+													<!--Resources-->
+													<div class="saveditemsTab">
+														<div id="saveditemsResourceButton" class="saveditemsButton" onclick="saveditems.populateTab('Resource');">
+															RESOURCES
+															<div class="tabCount" id="saveditemsResourceCount">&nbsp;</div>
+														</div>
+													</div>
+
+													<!--Searches-->
+													<div class="saveditemsTab" style="margin-right: 0">
+														<div id="saveditemsSavedSearchesButton" class="saveditemsButton" onclick="saveditems.populateTab('SavedSearches');">
+															SEARCHES
+															<div class="tabCount" id="saveditemsSavedSearche">&nbsp;</div>
+														</div>
+													</div>
+
+													<!--View Recently Rated-->
+													<div style="float: right;">
+														<div id="saveditemsRecentlyRatedButton" class="saveditemsButton" onclick="saveditems.populateTab('RecentlyRated');">
+															RECENTLY RATED
+															<div class="tabCount" id="saveditemsRated">&nbsp;</div>
+														</div>
+													</div>
+												</div>
+
+												<div id="saveditemsCarousel" class="savedItemsCarousel">
+													<div id="saveditemsCarouselContainer" class="carouselContainer">&nbsp;</div>
+												</div>
+											</div>
+										</div>
+									</div>
 								</div>
-								<div class="divider">&nbsp;</div>
-								<div class="subnavItem">
-									<a href="/home_file">Saved Searches</a>
-								</div>
-								<div class="divider">&nbsp;</div>
-								
 							</div>
 						</div>
 					</div>
@@ -390,18 +510,17 @@ $(function() { addthis.init(); });
 					<div id="tabRentalHomes" class="tabItem"><a href="javascript:$.globalsearch('toggleTab','rentalhomes');">RENTALS</a></div>
 					<div id="tabAgents" class="tabItem"><a href="javascript:$.globalsearch('toggleTab','agents');">AGENTS/TEAMS</a></div>
 					<div id="tabOffices" class="tabItem"><a href="javascript:$.globalsearch('toggleTab','offices');">OFFICES</a></div>
-					<div id="tabSavedItems" class="tabItem"><a href="javascript:$.globalsearch('toggleTab','saveditems');">SAVED ITEMS</a></div>
 				</div>
 				<div class="tabContent clearfix">
 					<div id="globalsearchHomes" class="tabLayer active">
 		<!-- ==|== PROPERTY TAB ============================================================================================ -->
-		<form action="/property?action=list" onsubmit="return $.globalsearch('validate','Homes');" method="GET">
+		<form action="/property?action=list" id="searchHomesForm" onsubmit="return $.globalsearch('validate','Homes');" method="GET">
 			<div class="tabLayerContent clearfix">
 				<div class="tabRow clearfix">
 					<div class="countryWrapper">
 						<label for="countryHomes">COUNTRY</label>
 						<select id="countryHomes" name="countryId" onchange="$.globalsearch('toggleCountryElements',this, 'Homes');">
-							<option value="1" selected="true">USA</option><option value="9">Canada</option><option value="81">Aruba</option><option value="5">Australia</option><option value="4">Austria</option><option value="60">Bahamas</option><option value="82">Barbados</option><option value="6">Belgium</option><option value="61">Bermuda</option><option value="115">Bolivia</option><option value="7">Brazil</option><option value="83">British Virgin Islands</option><option value="62">Cayman Islands</option><option value="12">China</option><option value="13">Colombia</option><option value="71">Costa Rica</option><option value="112">Curacao</option><option value="63">Dominican Republic</option><option value="108">Ecuador</option><option value="19">France</option><option value="20">Germany</option><option value="113">Guatemala</option><option value="106">Honduras</option><option value="25">Indonesia</option><option value="28">Ireland</option><option value="30">Italy</option><option value="65">Jamaica</option><option value="33">Mexico</option><option value="100">Panama</option><option value="107">Peru</option><option value="43">Puerto Rico</option><option value="67">Saint Maarten</option><option value="49">Spain</option><option value="66">St. Kitts and Nevis</option><option value="56">Turkey</option><option value="68">Turks &amp; Caicos</option><option value="76">United Arab Emirates</option><option value="69">US Virgin Islands</option><option value="59">Venezuela</option>
+							<option value="1" selected="true">USA</option><option value="9">Canada</option><option value="81">Aruba</option><option value="5">Australia</option><option value="60">Bahamas</option><option value="82">Barbados</option><option value="6">Belgium</option><option value="70">Belize</option><option value="61">Bermuda</option><option value="115">Bolivia</option><option value="83">British Virgin Islands</option><option value="62">Cayman Islands</option><option value="12">China</option><option value="13">Colombia</option><option value="71">Costa Rica</option><option value="112">Curacao</option><option value="127">Cyprus</option><option value="114">Czech Republic</option><option value="63">Dominican Republic</option><option value="108">Ecuador</option><option value="19">France</option><option value="104">Greece</option><option value="113">Guatemala</option><option value="106">Honduras</option><option value="28">Ireland</option><option value="30">Italy</option><option value="65">Jamaica</option><option value="33">Mexico</option><option value="100">Panama</option><option value="107">Peru</option><option value="43">Puerto Rico</option><option value="67">Saint Maarten</option><option value="49">Spain</option><option value="66">St. Kitts and Nevis</option><option value="56">Turkey</option><option value="68">Turks &amp; Caicos</option><option value="76">United Arab Emirates</option><option value="69">US Virgin Islands</option><option value="59">Venezuela</option>
 						</select>
 					</div>
 					<div class="freetextWrapper">
@@ -451,15 +570,8 @@ $(function() { addthis.init(); });
 				<label for="keywordHomes" class="keywordLabel">FILTER BY KEYWORD</label>
 				<input type="text" name="keywords" id="keywordHomes" class="keyword" placeholder="E.G. Pool Parties, Big Yard" onkeyup="$.globalsearch('checkFeaturedListings');" value="">
 
-				<input type="checkbox" name="showOpenHouseFirst" class="openhouses" onclick="$.globalsearch('checkFeaturedListings');" id="openhousesHomes">
-				<label for="openhousesHomes" class="openhousesLabel">SHOW OPEN HOUSES FIRST</label>
-
-				
-					<div id="cblistingsWrapper" class="cblistingsWrapper active">
-						<input type="checkbox" name="searchCbOnly" id="cblistingsonly" onclick="$.globalsearch('toggleCBListings', this);">
-						<label for="cblistingsonly" class="cblistingsLabel">FEATURED LISTINGS ONLY</label>
-					</div>
-				
+				<!--<input wicket:id="showOpenHouseFirst" type="checkbox" name="showOpenHouseFirst" class="openhouses" onclick="$.globalsearch('checkFeaturedListings');" id="openhousesHomes" style="display: none;"/>
+				<label for="openhousesHomes" class="openhousesLabel" style="display:none; width: 182px;margin-top: 7px">SHOW OPEN HOUSES FIRST</label>-->
 				
 				<div class="orangeButtonLarge">
 					<input type="submit" value="SEARCH">
@@ -515,15 +627,38 @@ $(function() { addthis.init(); });
 									<option value="1" selected="true">1 day</option><option value="5">5 days</option><option value="7">7 days</option><option value="10">10 days</option><option value="14">14 days</option>
 								</select>
 
+                                <div class="clearfix" style="margin: 10px 0;"></div>
+
+                                <label>HOMES WITH:</label>
+
+                                <input type="checkbox" name="showOpenHouseFirst" class="listingsvideo" id="listingsvideo2" onclick="$.globalsearch('checkFeaturedListings');">
+                                <label for="listingsvideo">OPEN HOUSES</label>
+
 								<input type="checkbox" name="listingsWithVideo" class="listingsvideo" id="listingsvideo" onclick="$.globalsearch('checkFeaturedListings');">
-								<label for="listingsvideo">LISTINGS WITH VIDEO</label>
+								<label for="listingsvideo">VIDEO</label>
+								
+								<input type="checkbox" name="listingsWithImages" class="listingsvideo" id="listingsimages" onclick="$.globalsearch('checkFeaturedListings');">
+								<label for="listingsvideo">IMAGES</label>
 							</div>
 
-							<label class="streetaddress" for="streetaddressHomes">STREET ADDRESS</label>
-							<input type="text" name="streetAddress" class="streetaddress" id="streetaddressHomes" value="">
+                            <div class="mlsWrapper">
+                                <div class="streetAddressDiv">
+                                    <label class="streetaddress" for="streetaddressHomes">STREET ADDRESS</label><br>
+                                    <input type="text" name="streetAddress" class="streetaddress" id="streetaddressHomes" value="">
+                                </div>
 
-							<input type="text" name="mls" class="mls" id="mlsHomes" value="">
-							<label id="mlsLabel" class="mls" for="mlsHomes">MLS/ID#</label>
+                                <div class="mlsDiv">
+                                    <label id="mlsLabel" class="mls" for="mlsHomes">MLS/ID#</label><br>
+                                    <input type="text" name="mls" class="mls" id="mlsHomes" value="">
+                                </div>
+
+                                <div class="acreageDiv">
+                                    <label for="acreageOptions">ACREAGE</label><br>
+                                    <select name="acreage" id="acreageOptions">
+                                        <option value="Any" selected="true">Any</option><option value="1">1+</option><option value="2">2+</option><option value="5">5+</option><option value="10">10+</option><option value="20">20+</option>
+                                    </select>
+                                </div>
+                            </div>
 						</div>
 
 						<div class="tabRow clearfix checkboxes init" id="advancedCheckboxes">
@@ -533,7 +668,7 @@ $(function() { addthis.init(); });
 									<div class="checkboxRow">
 										<input type="checkbox" name="airConditioning" id="airconditioning">
 										<label for="airconditioning">Air Conditioning</label>
-									</div>
+									</div>								
 									<div class="checkboxRow">
 										<input type="checkbox" name="backyard" id="backyard">
 										<label for="backyard">Backyard</label>
@@ -626,8 +761,8 @@ $(function() { addthis.init(); });
 										<label for="condotownhouse">Condo / Townhouse</label>
 									</div>
 									<div class="checkboxRow">
-										<input type="checkbox" name="lotLandFarm" id="lotlandfarm">
-										<label for="lotlandfarm">Lot / Land</label>
+										<input type="checkbox" name="lotLand" id="lotland">
+										<label for="lotland">Lot / Land</label>
 									</div>
 									<div class="checkboxRow">
 										<input type="checkbox" name="coOp" id="coop">
@@ -673,7 +808,7 @@ $(function() { addthis.init(); });
 					<div class="countryWrapper">
 						<label for="countryRentals">COUNTRY</label>
 						<select id="countryRentals" name="countryId" onchange="$.globalsearch('toggleCountryElements',this, 'Rentals');">
-							<option value="1" selected="true">USA</option><option value="9">Canada</option><option value="81">Aruba</option><option value="5">Australia</option><option value="60">Bahamas</option><option value="115">Bolivia</option><option value="13">Colombia</option><option value="71">Costa Rica</option><option value="112">Curacao</option><option value="113">Guatemala</option><option value="106">Honduras</option><option value="28">Ireland</option><option value="30">Italy</option><option value="65">Jamaica</option><option value="72">Lebanon</option><option value="33">Mexico</option><option value="100">Panama</option><option value="107">Peru</option><option value="43">Puerto Rico</option><option value="67">Saint Maarten</option><option value="66">St. Kitts and Nevis</option><option value="59">Venezuela</option>
+							<option value="1" selected="true">USA</option><option value="9">Canada</option><option value="81">Aruba</option><option value="5">Australia</option><option value="60">Bahamas</option><option value="61">Bermuda</option><option value="115">Bolivia</option><option value="83">British Virgin Islands</option><option value="62">Cayman Islands</option><option value="13">Colombia</option><option value="71">Costa Rica</option><option value="112">Curacao</option><option value="114">Czech Republic</option><option value="63">Dominican Republic</option><option value="108">Ecuador</option><option value="104">Greece</option><option value="113">Guatemala</option><option value="106">Honduras</option><option value="28">Ireland</option><option value="30">Italy</option><option value="65">Jamaica</option><option value="72">Lebanon</option><option value="33">Mexico</option><option value="100">Panama</option><option value="107">Peru</option><option value="67">Saint Maarten</option><option value="49">Spain</option><option value="66">St. Kitts and Nevis</option><option value="68">Turks &amp; Caicos</option><option value="69">US Virgin Islands</option><option value="59">Venezuela</option>
 						</select>
 					</div>
 					<div class="freetextWrapper">
@@ -740,15 +875,38 @@ $(function() { addthis.init(); });
 									<option value="1" selected="true">1 day</option><option value="5">5 days</option><option value="7">7 days</option><option value="10">10 days</option><option value="14">14 days</option>
 								</select>
 
+                                <div class="clearfix" style="margin: 10px 0;"></div>
+
+                                <label>HOMES WITH:</label>
+
+                                <input type="checkbox" name="showOpenHouseFirst" class="listingsvideo" id="listingsvideo2" onclick="$.globalsearch('checkFeaturedListings');">
+                                <label for="listingsvideo">OPEN HOUSES</label>
+
 								<input type="checkbox" name="listingsWithVideo" class="listingsvideo" id="listingsvideoRentals">
-								<label for="listingsvideoRentals">RENTALS WITH VIDEO</label>
+								<label for="listingsvideoRentals">VIDEO</label>
+								
+								<input type="checkbox" name="listingsWithImages" class="listingsvideo" id="listingsimages" onclick="$.globalsearch('checkFeaturedListings');">
+								<label for="listingsvideo">IMAGES</label>
 							</div>
 
-							<label for="streetaddressRentals" class="streetaddress">STREET ADDRESS</label>
-							<input type="text" name="streetAddress" class="streetaddress" id="streetaddressRentals" value="">
+                            <div class="mlsWrapper">
+                                <div class="streetAddressDiv">
+                                    <label for="streetaddressRentals" class="streetaddress">STREET ADDRESS</label><br>
+                                    <input type="text" name="streetAddress" class="streetaddress" id="streetaddressRentals" value="">
+                                </div>
 
-							<input type="text" name="mls" class="mls" id="mlsRentals" value="">
-							<label id="mlsLabel" class="mls" for="mlsRentals">MLS/ID#</label>
+                                <div class="mlsDiv">
+                                    <label id="mlsLabel" class="mls" for="mlsRentals">MLS/ID#</label><br>
+                                    <input type="text" name="mls" class="mls" id="mlsRentals" value="">
+                                </div>
+
+                                <div class="acreageDiv">
+                                    <label for="acreageOptions">ACREAGE</label><br>
+                                    <select name="acreage" id="acreageOptions">
+                                        <option value="Any" selected="true">Any</option><option value="1">1+</option><option value="2">2+</option><option value="5">5+</option><option value="10">10+</option><option value="20">20+</option>
+                                    </select>
+                                </div>
+                            </div>
 						</div>
 
 						<div class="tabRow clearfix checkboxes">
@@ -758,6 +916,10 @@ $(function() { addthis.init(); });
 									<div class="checkboxRow">
 										<input type="checkbox" name="airConditioning" id="airconditioningRentals">
 										<label for="airconditioningRentals">Air Conditioning</label>
+									</div>
+									<div class="checkboxRow">
+										<input type="checkbox" name="washerDryer" id="washerDryerRentals">
+										<label for="washerDryerRentals">Washer/Dryer</label>
 									</div>
 									<div class="checkboxRow">
 										<input type="checkbox" name="backyard" id="backyardRentals">
@@ -770,14 +932,14 @@ $(function() { addthis.init(); });
 									<div class="checkboxRow">
 										<input type="checkbox" name="waterFront" id="waterfrontRentals">
 										<label for="waterfrontRentals">Waterfront</label>
-									</div>
+									</div>									
+								</div>
+
+								<div class="checkboxCol2">
 									<div class="checkboxRow">
 										<input type="checkbox" name="basement" id="basementRentals">
 										<label for="basementRentals">Basement</label>
 									</div>
-								</div>
-
-								<div class="checkboxCol2">
 									<div class="checkboxRow">
 										<input type="checkbox" name="fireplace" id="fireplaceRentals">
 										<label for="fireplaceRentals">Fireplace</label>
@@ -885,7 +1047,7 @@ $(function() { addthis.init(); });
 					<div class="countryWrapper">
 						<label for="countryAgents">COUNTRY</label>
 						<select id="countryAgents" name="countryId" onchange="$.globalsearch('toggleCountryElements',this, 'Agents');">
-							<option value="1" selected="true">USA</option><option value="9">Canada</option><option value="81">Aruba</option><option value="5">Australia</option><option value="60">Bahamas</option><option value="82">Barbados</option><option value="70">Belize</option><option value="61">Bermuda</option><option value="115">Bolivia</option><option value="7">Brazil</option><option value="83">British Virgin Islands</option><option value="62">Cayman Islands</option><option value="12">China</option><option value="13">Colombia</option><option value="71">Costa Rica</option><option value="112">Curacao</option><option value="114">Czech Republic</option><option value="63">Dominican Republic</option><option value="108">Ecuador</option><option value="16">Egypt</option><option value="19">France</option><option value="104">Greece</option><option value="113">Guatemala</option><option value="106">Honduras</option><option value="24">India</option><option value="25">Indonesia</option><option value="28">Ireland</option><option value="30">Italy</option><option value="65">Jamaica</option><option value="31">Japan</option><option value="72">Lebanon</option><option value="105">Malta</option><option value="33">Mexico</option><option value="35">Netherlands</option><option value="94">Nicaragua</option><option value="100">Panama</option><option value="107">Peru</option><option value="43">Puerto Rico</option><option value="102">Romania</option><option value="67">Saint Maarten</option><option value="47">Singapore</option><option value="49">Spain</option><option value="66">St. Kitts and Nevis</option><option value="111">St. Martin</option><option value="51">Switzerland</option><option value="56">Turkey</option><option value="68">Turks &amp; Caicos</option><option value="76">United Arab Emirates</option><option value="69">US Virgin Islands</option><option value="59">Venezuela</option>
+							<option value="1" selected="true">USA</option><option value="9">Canada</option><option value="81">Aruba</option><option value="5">Australia</option><option value="60">Bahamas</option><option value="82">Barbados</option><option value="70">Belize</option><option value="61">Bermuda</option><option value="115">Bolivia</option><option value="7">Brazil</option><option value="83">British Virgin Islands</option><option value="62">Cayman Islands</option><option value="12">China</option><option value="13">Colombia</option><option value="71">Costa Rica</option><option value="112">Curacao</option><option value="114">Czech Republic</option><option value="63">Dominican Republic</option><option value="108">Ecuador</option><option value="16">Egypt</option><option value="19">France</option><option value="104">Greece</option><option value="113">Guatemala</option><option value="106">Honduras</option><option value="24">India</option><option value="25">Indonesia</option><option value="28">Ireland</option><option value="30">Italy</option><option value="65">Jamaica</option><option value="31">Japan</option><option value="72">Lebanon</option><option value="105">Malta</option><option value="33">Mexico</option><option value="94">Nicaragua</option><option value="100">Panama</option><option value="107">Peru</option><option value="43">Puerto Rico</option><option value="102">Romania</option><option value="67">Saint Maarten</option><option value="47">Singapore</option><option value="49">Spain</option><option value="66">St. Kitts and Nevis</option><option value="111">St. Martin</option><option value="51">Switzerland</option><option value="56">Turkey</option><option value="68">Turks &amp; Caicos</option><option value="76">United Arab Emirates</option><option value="69">US Virgin Islands</option><option value="59">Venezuela</option>
 						</select>
 					</div>
 					<div class="freetextWrapper">
@@ -933,7 +1095,7 @@ $(function() { addthis.init(); });
 					<div class="countryWrapper">
 						<label for="countryOffices">COUNTRY</label>
 						<select id="countryOffices" name="countryId" onchange="$.globalsearch('toggleCountryElements',this, 'Offices');">
-							<option value="1" selected="true">USA</option><option value="9">Canada</option><option value="81">Aruba</option><option value="5">Australia</option><option value="60">Bahamas</option><option value="82">Barbados</option><option value="70">Belize</option><option value="61">Bermuda</option><option value="115">Bolivia</option><option value="7">Brazil</option><option value="83">British Virgin Islands</option><option value="62">Cayman Islands</option><option value="12">China</option><option value="13">Colombia</option><option value="71">Costa Rica</option><option value="112">Curacao</option><option value="114">Czech Republic</option><option value="63">Dominican Republic</option><option value="108">Ecuador</option><option value="16">Egypt</option><option value="19">France</option><option value="104">Greece</option><option value="113">Guatemala</option><option value="106">Honduras</option><option value="24">India</option><option value="25">Indonesia</option><option value="28">Ireland</option><option value="30">Italy</option><option value="65">Jamaica</option><option value="31">Japan</option><option value="72">Lebanon</option><option value="105">Malta</option><option value="33">Mexico</option><option value="35">Netherlands</option><option value="94">Nicaragua</option><option value="100">Panama</option><option value="107">Peru</option><option value="43">Puerto Rico</option><option value="102">Romania</option><option value="67">Saint Maarten</option><option value="47">Singapore</option><option value="49">Spain</option><option value="66">St. Kitts and Nevis</option><option value="111">St. Martin</option><option value="51">Switzerland</option><option value="56">Turkey</option><option value="68">Turks &amp; Caicos</option><option value="76">United Arab Emirates</option><option value="69">US Virgin Islands</option><option value="59">Venezuela</option>
+							<option value="1" selected="true">USA</option><option value="9">Canada</option><option value="81">Aruba</option><option value="5">Australia</option><option value="60">Bahamas</option><option value="82">Barbados</option><option value="70">Belize</option><option value="61">Bermuda</option><option value="115">Bolivia</option><option value="7">Brazil</option><option value="83">British Virgin Islands</option><option value="62">Cayman Islands</option><option value="12">China</option><option value="13">Colombia</option><option value="71">Costa Rica</option><option value="112">Curacao</option><option value="114">Czech Republic</option><option value="63">Dominican Republic</option><option value="108">Ecuador</option><option value="16">Egypt</option><option value="19">France</option><option value="104">Greece</option><option value="113">Guatemala</option><option value="106">Honduras</option><option value="24">India</option><option value="25">Indonesia</option><option value="28">Ireland</option><option value="30">Italy</option><option value="65">Jamaica</option><option value="31">Japan</option><option value="72">Lebanon</option><option value="105">Malta</option><option value="33">Mexico</option><option value="94">Nicaragua</option><option value="100">Panama</option><option value="107">Peru</option><option value="43">Puerto Rico</option><option value="102">Romania</option><option value="67">Saint Maarten</option><option value="47">Singapore</option><option value="49">Spain</option><option value="66">St. Kitts and Nevis</option><option value="111">St. Martin</option><option value="51">Switzerland</option><option value="56">Turkey</option><option value="68">Turks &amp; Caicos</option><option value="76">United Arab Emirates</option><option value="69">US Virgin Islands</option><option value="59">Venezuela</option>
 						</select>
 					</div>
 					<div class="freetextWrapper">
@@ -1009,113 +1171,6 @@ $(function() { addthis.init(); });
 		</form>
 		<!-- ==|== END OFFICES TAB ========================================================================================= -->
 	</div>
-					<div id="globalsearchSavedItems" class="tabLayer">
-		<!-- ==|== SAVED ITEMS TAB ========================================================================================= -->
-		<div class="tabLayerContent clearfix">
-			<div id="saveditemsLogin" class="saveditemsLogin">
-				<form action="/j_spring_security_check" onsubmit="return saveditems.login('globalLogin');">
-					<input type="hidden" name="j_redirect" value="privacy?homeFileLogin=true">
-					<!-- Remember-Me -->
-					<input type="hidden" name="_spring_security_remember_me" value="true">
-
-					<span class="title">LOG IN TO HOME FILE</span>
-
-					<span><input id="globalLoginEmail" name="j_username" type="email" placeholder="Email" required=""></span>
-					<span><input id="globalLoginPassword" name="j_password" type="password" placeholder="Password" required=""></span>
-
-					<div class="loginRow">
-						<div class="orangeButtonLarge"><input type="submit" value="Login"></div>
-
-						<div class="loginLinks">
-							<a href="javascript:saveditems.forgotPassword();">forgot your password?</a><br>
-							<a href="/home_file#Home">register now</a>
-						</div>
-					</div>
-				</form>
-			</div>
-
-			<div id="saveditemsLoggedIn" class="saveditemsLoggedIn">
-				<span class="title">
-					Welcome <span id="saveditemsLoginName">&nbsp;</span>
-				</span>
-				<span class="notUser">
-					Not <span id="saveditemsNotUserLink">&nbsp;</span>? <a href="j_spring_security_logout">Click here</a>
-				</span>
-
-				<div class="divider">&nbsp;</div>
-
-				<span class="url"><a href="javascript:saveditems.savedSearchesView();">NEW LISTINGS (<span id="saveditemsNewListings">&nbsp;</span>)</a></span>
-				<span class="url"><a href="javascript:saveditems.savedSearchesView()">SAVED SEARCHES (<span id="saveditemsSavedSearches">&nbsp;</span>)</a></span>
-				<span class="url"><a href="javascript:saveditems.editAccountSettings()">EDIT ACCOUNT SETTINGS</a></span>
-				<span class="url"><a href="j_spring_security_logout">LOGOUT</a></span>
-			</div>
-
-			<div id="saveditemsContent" class="saveditemsContent">
-				<div id="saveditemsTabContainer" class="saveditemsTabContainer">
-					<!--All-->
-					<div class="saveditemsTab">
-						<div id="saveditemsAllButton" class="saveditemsButton active" onclick="saveditems.populateTab('All');">
-							ALL
-							<div class="tabCount" id="saveditemsAllCount">&nbsp;</div>
-						</div>
-					</div>
-
-					<!--Properties-->
-					<div class="saveditemsTab">
-						<div id="saveditemsPropertyButton" class="saveditemsButton" onclick="saveditems.populateTab('Property');">
-							PROPERTIES
-							<div class="tabCount" id="saveditemsPropertyCount">&nbsp;</div>
-						</div>
-					</div>
-
-					<!--Agents-->
-					<div class="saveditemsTab">
-						<div id="saveditemsAgentButton" class="saveditemsButton" onclick="saveditems.populateTab('Agent');">
-							AGENTS
-							<div class="tabCount" id="saveditemsAgentCount">&nbsp;</div>
-						</div>
-					</div>
-
-					<!--Offices-->
-					<div class="saveditemsTab">
-						<div id="saveditemsOfficeButton" class="saveditemsButton" onclick="saveditems.populateTab('Office');">
-							OFFICES
-							<div class="tabCount" id="saveditemsOfficeCount">&nbsp;</div>
-						</div>
-					</div>
-
-					<!--Resources-->
-					<div class="saveditemsTab">
-						<div id="saveditemsResourceButton" class="saveditemsButton" onclick="saveditems.populateTab('Resource');">
-							RESOURCES
-							<div class="tabCount" id="saveditemsResourceCount">&nbsp;</div>
-						</div>
-					</div>
-
-					<!--Searches-->
-					<div class="saveditemsTab" style="margin-right: 0">
-						<div id="saveditemsSavedSearchesButton" class="saveditemsButton" onclick="saveditems.populateTab('SavedSearches');">
-							SEARCHES
-							<div class="tabCount" id="saveditemsSavedSearche">&nbsp;</div>
-						</div>
-					</div>
-
-					<!--View Recently Rated-->
-					<div style="float: right;">
-						<div id="saveditemsRecentlyRatedButton" class="saveditemsButton" onclick="saveditems.populateTab('RecentlyRated');">
-							RECENTLY RATED
-                            <div class="tabCount" id="saveditemsRated">&nbsp;</div>
-						</div>
-					</div>
-				</div>
-
-				<div id="saveditemsCarousel" class="savedItemsCarousel">
-					<div id="saveditemsCarouselContainer" class="carouselContainer">&nbsp;</div>
-				</div>
-			</div>
-		</div>
-		<!-- ==|== END SAVED ITEMS TAB ===================================================================================== -->
-	</div>                       
 				</div>
 			</section>
 		</div>
@@ -1124,7 +1179,7 @@ $(function() { addthis.init(); });
                 <h1 class="privacy-policy">Privacy Policy</h1>
 
                 <div>
-		<div class="navigationLinks">
+		<div class="navigationLinks" style="margin-right: 22px">
 			<a href="real_estate/learn/Press_Release_News">News</a>
 			<a href="contact">Contact Us</a>
 		</div>
@@ -1326,19 +1381,28 @@ $(function() { addthis.init(); });
                             </div>                            
                         </div>
                     </div>
-                    <div class="didYouKnow">
-                        <div class="description">
+					
+                    <div>
+						<img src="http://edge.coldwellbanker.com/images/home/homepage_footerad.jpg" usemap="#mobileMap" style="margin-left: 34px;width: 413px;">
+						<map name="mobileMap" id="mobileMap">
+							<area shape="rect" coords="190,66,242,150" href="https://itunes.apple.com/us/app/real-estate-coldwell-banker/id584927199?ls=1&amp;mt=8" alt="iPhone" title="iPhone">
+							<area shape="rect" coords="248,66,335,150" href="https://itunes.apple.com/us/app/coldwell-banker-real-estate/id424003485?mt=8&amp;ls=1" alt="iPad" title="iPad">
+							<area shape="rect" coords="348,66,406,150" href="https://play.google.com/store/apps/details?id=coldWellBankerUI.android&amp;feature=search_result#?t=W251bGwsMSwxLDEsImNvbGRXZWxsQmFua2VyVUkuYW5kcm9pZCJd" alt="Android" title="Android">
+						</map>
+						
+<!--                        <div class="description">
                             <h3>DID YOU <span class="know">KNOW?</span></h3>
                             <span class="advancedOptions">
                                 <strong>Advanced Options and Keyword Search </strong> let you search beyond beds, baths and price.
                             </span>
-                        </div>
+                        </div>-->
+						
                     </div>
                     <div class="loginBox">
-                        <form class="loginForm" id="cbworksLoginForm" method="post" action="https://cbworks.coldwellbanker.com/app/Login?action=login">
+                        <form class="loginForm" id="cbworksLoginForm" method="post" action="https://cbworks.coldwellbanker.com/app/Login?action=login&amp;forwardURL=http%3A%2F%2Fwww.coldwellbanker.com%2Fprivacy">
                             <div class="loginRow first">
 								<div class="lockIcon">&nbsp;</div>
-								<h3>REAL ESTATE AGENT LOGIN</h3>
+								<h3 style="font-size: 13px;">REAL ESTATE AGENT LOGIN	- Coldwell Banker <sup>®</sup> Works</h3>
                             </div>
                             
                             <div class="loginRow formWrapper">
@@ -1365,6 +1429,10 @@ $(function() { addthis.init(); });
                                 <a href="http://cbworks.coldwellbanker.com/app/Login?action=forgotLogin">Forgot your login information?</a>
                             </div>
                         </form>
+						
+						
+						
+						
                     </div>
                 </div>
                 <div id="footerBottomPanel" class="footerRow">
@@ -1393,10 +1461,12 @@ $(function() { addthis.init(); });
         <div>
 			© <span>2013</span>
 			<span>
-				Coldwell Banker Real Estate LLC. A Realogy Company. All Rights Reserved. Coldwell Banker Real
-				Estate LLC fully supports the principles of the Fair Housing Act and the Equal Opportunity Act. Each Office
-				is Independently Owned and Operated. Coldwell Banker<sup>®</sup>and the Coldwell Banker Logo
-				are registered service marks owned by Coldwell Banker Real Estate LLC.
+				Coldwell Banker Real Estate LLC. All Rights Reserved. <b>Coldwell Banker</b>®, 
+				the <b>Coldwell Banker</b> logo, <b>Coldwell Banker Previews International</b>® and the 
+				Coldwell Banker Previews International logo are registered service marks 
+				owned by Coldwell Banker Real Estate LLC. Coldwell Banker Real Estate LLC 
+				fully supports the principles of the Fair Housing Act and the Equal 
+				Opportunity Act. Each Office is Independently Owned and Operated.
 			</span>
 			
         </div>
@@ -1406,25 +1476,21 @@ $(function() { addthis.init(); });
             <br><br>
 
             <div>
-				Since 1906, the Coldwell Banker brand has represented an unparalleled commitment to professionalism and
-				customer service in the real estate industry. Our rich heritage of experience, our unparalleled global
-				network of real estate agents and representatives, and our industry-leading tools and services
-				- such as coldwellbanker.com - has helped make the dream of owning a home a reality for millions of
-				families. Our website is a reflection of our belief in customer service and providing an exceptional real
-				estate experience. 
-				<br><br>
+                Certain listing content on this website has been provided by The Canadian Real Estate Association.
+                Such Listing Content is owned by The Canadian Real Estate Association and/or its member Boards and Associations. All rights reserved.
+                <br><br>
             </div>
                                 
             <div>
-                                The estimated monthly rate is based on a 30-year fixed rate of 4.08% with 20% down. Taxes are included 
-                                in this estimate, but insurance is not. (Taxes based on current tax rate where available, otherwise 
-                                effective tax rate assumed to be 1.5%). The estimated payment is offered for convenience and is not an 
-                                offer of credit. Due to market fluctuations, interest rates are subject to change at any time and without 
-                                notice. Interest rates are also subject to credit and property approval based on secondary market guidelines. 
-                                The rates shown are based on average rates for our best qualified customers. Your individual rate may vary. 
-                                Rates may differ for FHA, VA or jumbo loans. For an estimate, please contact an experienced Coldwell Banker® 
-                                Mortgage Consultant at (888) 308-6558 to find the right loan for your financial situation.
-                                <br><br>
+                The estimated monthly rate is based on a 30-year fixed rate of 4.08% with 20% down. Taxes are included
+                in this estimate, but insurance is not. (Taxes based on current tax rate where available, otherwise
+                effective tax rate assumed to be 1.5%). The estimated payment is offered for convenience and is not an
+                offer of credit. Due to market fluctuations, interest rates are subject to change at any time and without
+                notice. Interest rates are also subject to credit and property approval based on secondary market guidelines.
+                The rates shown are based on average rates for our best qualified customers. Your individual rate may vary.
+                Rates may differ for FHA, VA or jumbo loans. For an estimate, please contact an experienced Coldwell Banker®
+                Mortgage Consultant at (888) 308-6558 to find the right loan for your financial situation.
+                <br><br>
             </div>
             
         </div>
@@ -1451,9 +1517,10 @@ $(function() { addthis.init(); });
     </footer>
 	
 
-	<script type="text/javascript" src="http://edge.coldwellbanker.com/js/cb-global-124334.js"></script>
-	<script type="text/javascript" src="http://edge.coldwellbanker.com/js/cb-about-124334.js"></script>
+	<script type="text/javascript" src="http://edge.coldwellbanker.com/js/cb-global-126966.js"></script>
+	<script type="text/javascript" src="http://edge.coldwellbanker.com/js/cb-about-126966.js"></script>
 	
+	<script type="text/javascript" src="http://tracking.listhub.net/scripts/la.js"></script>
 
 	<script type="text/javascript"></script>
 	
@@ -1468,8 +1535,8 @@ $(function() { addthis.init(); });
                         <img src="http://edge.coldwellbanker.com/images/home/currency-close.gif" width="12" height="11" alt="close window">
                         close
                     </a>
-                </p><p>
-            </p></div>
+                </p>
+            </div>
             <div>
                 <form name="currencyForm" id="id1" method="post" action="privacy/wicket:interface/:0:currencyChangeForm:currencyForm::IFormSubmitListener::"><div style="width:0px;height:0px;position:absolute;left:-100px;top:-100px;overflow:hidden"><input type="hidden" name="currencyChangeForm_currencyForm_hf_0" id="currencyChangeForm_currencyForm_hf_0"></div>
                     <select onchange="this.form.submit();" name="currenciesDropDown" id="currencySelectDropDown">
