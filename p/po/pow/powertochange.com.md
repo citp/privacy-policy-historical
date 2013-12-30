@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powertochange.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515061109id_/http%3A//powertochange.com/general-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powertochange.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230153641id_/http%3A//powertochange.com/general-information/privacy-policy) for the most accurate reproduction.*
 
 # The Life: Privacy Policy – Power to Change
 
