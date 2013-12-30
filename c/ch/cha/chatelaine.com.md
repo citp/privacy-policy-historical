@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatelaine.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628221657id_/http%3A//www.rogerspublishing.ca/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatelaine.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230110545id_/http%3A//www.rogerspublishing.ca/privacy.shtml) for the most accurate reproduction.*
 
 # Rogers Publishing -- Canada’s largest publisher magazines and online
 
@@ -109,7 +109,11 @@ We may use other industry standard technologies like pixel tags and web beacons 
 Back to top
 
 **__How does Rogers Media advertise on its website?**  
-The ads appearing on many of the Rogers Media websites are delivered to you using online advertising networks. Information about your visits to this website, such as number of times you have viewed an ad or visits to certain pages of Rogers Media websites (but not your name, address, e-mail address or other personal information) is used to serve ads to you. The ad network providers use cookies, web beacons, or similar technologies on your computer to help present, better target, and measure the effectiveness of the advertisements served to you on Rogers Media websites or through affiliate advertising network providers. Web beacons utilize JavaScript code and write information to cookies, which are small files on your computers.  If you do not want a cookie to be written, simply change the setting in your browser.  For more information and how to "opt-out" from ad network providers’ cookies, please [click here](http://www.networkadvertising.org/managing/opt_out.asp).  
+The ads appearing on many of the Rogers Media websites are delivered to you using online advertising networks, and Adobe Media Optimizer technology. Information about your visits to this website, such as the number of times you have viewed an ad or visited certain pages of Rogers Media websites (but not your name, address, email or other personal information) is used to serve ads to you. 
+
+The ad network providers use cookies, web beacons, or similar technologies on your computer to help present, better target, and measure the effectiveness of the advertisements served to you on Rogers Media websites or through affiliate advertising network providers.
+
+Web beacons utilize JavaScript code and write information to cookies, which are small files on your computer. If you do not want a cookie to be written, simply change the setting in your browser. For more information and how to ‘opt-out’ from ad network providers’ cookies, visit the [Your Ad Choices website](http://youradchoices.ca/choices).  
 Back to top
 
 **__What about information on public forums?**  
