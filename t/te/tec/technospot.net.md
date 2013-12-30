@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the technospot.net privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520200312id_/http%3A//www.technospot.net/blogs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technospot.net privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230104843id_/http%3A//www.technospot.net/blogs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[Home](http://www.technospot.net/blogs)  »  Privacy Policy
 
 Technospot.Net value our readers and visitors privacy. However for maintaining statics and keeping away spammers we do need to collect and preserve small piece of information of people who visit our site.
 
