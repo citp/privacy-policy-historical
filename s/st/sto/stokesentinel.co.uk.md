@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stokesentinel.co.uk privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617125228id_/http%3A//www.stokesentinel.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stokesentinel.co.uk privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230010649id_/http%3A//www.stokesentinel.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
-# The Sentinel | Privacy Policy
+# Stoke Sentinel | Privacy Policy
 
 Effective from 1 January 2013
 
