@@ -1,66 +1,55 @@
-> *The following text is extracted and transformed from the manchester.gov.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615091149id_/http%3A//www.manchester.gov.uk/site/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manchester.gov.uk privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231000453id_/http%3A//www.manchester.gov.uk/cookies) for the most accurate reproduction.*
 
-# Manchester City Council: Website privacy statement
+# Website privacy statement | Website privacy statement | Manchester City Council
 
-Under the Data Protection Act, we have a legal duty to protect any personal information we collect from you.
+### Privacy statement
 
-Manchester City Council does not capture and store any personal information about individuals who access this web site, except where you voluntarily choose to give us your personal details via email, or by using an electronic form, or enquiring about any of our services. In these circumstances, any personal information you supply will only be used to provide the information or service you have requested. Personal information is not disclosed to third parties unless this is indicated on the web page and / or relevant form at the point of collecting information from you, or as required by law.
+This privacy statement covers www.manchester.go.uk and any other websites that include ‘manchester.gov.uk’ in the address. 
 
-#### Statistical data
+When you use these websites you are agreeing to this statement, and any additional statements on individual pages within the sites. 
 
-We automatically collect statistical data about usage patterns on our website. This information is not used to identify any individual. It is only collected to provide us with an understanding of the areas of interest on our site and kept only for as long as required for this purpose.
+We may change this information without notice, so you should revisit this page and any other relevant pages from time to time. 
 
-#### Use of cookies
+### Data Protection
 
-Manchester City Council uses cookies on its site.
+As a registered Data Controller, we will process your personal data and information in accordance with the Data Protection Act 1998. For more information about data protection see  [www.ico.org.uk](http://www.ico.org.uk/)
 
-A cookie is a text file that identifies your computer to our server. Cookies in themselves do not identify the individual user, just the computer used.
+If you have any queries about the Data Protection Act 1998 or the Freedom of Information Act 2000, email: informationcompliance@manchester.gov.uk. 
 
-We do not use cookies to collect any personal information about you.
+### Respecting your privacy
 
-We conduct web visitor exit surveys which deposit a cookie on web visitors’ computers. The cookie is used to identify web visitors’ computers which activated the prompt inviting the visitor to complete the exit survey so that the prompt is not activated a second time within any three month period. The survey is run for the council by Nielsen/Net Ratings.
+We respect your privacy. Information you provide, or that is gathered automatically, helps us monitor our service and provide the services you are entitled to as a resident of Manchester or visitor to our website. 
 
-You have the opportunity to set your computer to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. If you accept cookies, they remain on your computer for up to five years, unless you delete them. Please note that turning off cookies may limit your use of our website and website services.
+We treat incoming emails and forms in the same way as other communications we receive. 
 
-#### Other Manchester City Council websites
+Emails sent through the internet may not be secure. They could be intercepted and read by someone else. Please consider this before you send personal or sensitive information by email. 
 
-The City Council also operates a number of other websites, linked from this one, enabling visitors to make on line payments and to access currently available on-line services. These sites are covered by separate privacy policies and the secure sites provide additional information about security measures. The sites are:
+Our secure-server software ‘encrypts’ all your personal information including your name and address, and credit or debit card numbers if you make an online payment. This means your information is converted to bits of code that is unreadable to other people, websites or organisations. We translate the code back into information for our use. If you make an online payment, we transmit the entire credit or debit card number to the appropriate card company. 
 
-  * [Manchester City Council E-Services](https://www.e-manchester.gov.uk/)
-  * [Rent and Benefit Calculator](http://195.134.18.42/index.html)
-  * [Manchester Homefinder](http://www.manchesterhomefinder.org/)
+We may occasionally request proof of identity before we give you personal information – for example if you register for a customer account. 
 
+Please protect against unauthorised access to your passwords and to your computer or mobile device. You should always log out of secure sites – especially when you use a shared computer. 
 
+We aim to have a secure and reliable website, and use appropriate security technology to protect any sensitive personal data we process about you. But your use of the internet, and this website, is entirely at your own risk. We have no responsibility or liability for the security of personal information transmitted over the internet. 
 
-#### Links to external sites
+### Other organisations
 
-www.manchester.gov.uk contains links to other sites. Manchester City Council is not responsible for the privacy practices or content of such other sites. This privacy statement applies solely to information collected by this website.
+We don’t make your personal details available to other companies for marketing purposes, but we may share those details with partner organisations that we use to help deliver services. We may also share non-personal details with those organisations, for use in compiling statistics for example. 
 
-#### Changes to this privacy policy
+If requested we may share information with law-enforcement or government authorities, for a criminal investigation. 
 
-If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect.
+### Registering for a customer account
 
-#### Who to contact about the policy
+You can get your own customer account to get extra services such as faster online forms, ordering services without giving your details every time, and the ability to track progress of your requests. 
 
-The Council's contact for Data Protection and Freedom of Information matters is:
+If you register, we may contact you by email about your requests, and about services, information and events of interest provided by the council and our partner organisations. 
 
-Information Compliance Officer  
-Town Hall  
-Albert Square  
-MANCHESTER  
-M60 2LA
+If you do not want us to do this, you can advise us at any time by emailing: webfeedback@manchester.gov.uk. 
 
-tel: 0161 234 4415  
-email: [informationcompliance@manchester.gov.uk](mailto:informationcompliance@manchester.gov.uk)
+### Cookies
 
-Requests to access data collected by this web site may also be made to the Information Compliance Officer. If you remain dissatisfied after raising an issue about this policy and / or a request to access personal information collected from you on this site, you may also contact:
+Like most websites we use 'cookies' to collect anonymous statistics about how people use the site, and to help us keep it relevant for the user. Cookies 'remember' bits of information from your visit to the site. 
 
-The Information Commissioner  
-Wycliffe House  
-Water Lane  
-WILMSLOW  
-Cheshire  
-SK9 5AF
+A cookie is a simple text file that's stored on your computer or mobile device by a website's server. Only that server can retrieve or read the contents of that cookie. Each cookie is unique to your web browser. So if we put a cookie on your computer, it can't be read by any other website. 
 
-email: [data@dataprotection.gov.uk](mailto:data@dataprotection.gov.uk)  
-website: [Information Commissioner](http://www.dataprotection.gov.uk/) (external site)
+[More about cookies and how to manage them](http://www.manchester.gov.uk/homepage/651/cookies).
