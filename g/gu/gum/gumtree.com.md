@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gumtree.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426095745id_/http%3A//www.gumtree.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gumtree.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231005327id_/http%3A//www.gumtree.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy | Gumtree.com
 
-This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the Gumtree website ('Gumtree') work and to keep it safe (details below). In formal terms, Gumtree.com Limited, 5 New Street Square, London EC4A 3TW, registered in England and Wales with number 3934849, acting itself and through its subsidiaries, is the 'data controller' of your personal information. This policy is effective 22 May 2012. You can find the old Privacy Policy [here](http://www.gumtree.com/privacypolicy2008).
+This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the Gumtree website ('Gumtree') work and to keep it safe (details below). In formal terms, Gumtree.com Limited, 107 Cheapside, London, United Kingdom, EC2V 6DN, registered in England and Wales with number 3934849, acting itself and through its subsidiaries, is the 'data controller' of your personal information. This policy is effective 22 May 2012. You can find the old Privacy Policy [here](http://www.gumtree.com/privacypolicy2008).
 
 ## Collection
 
