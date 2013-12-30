@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digtriad.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611123918id_/http%3A//www.digtriad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digtriad.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230023703id_/http%3A//www.digtriad.com/privacy) for the most accurate reproduction.*
 
 # digtriad.com | Greensboro, NC
 
