@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buildium.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116144254id_/http%3A//www.buildium.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildium.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230085926id_/http%3A//www.buildium.com/privacy-policy) for the most accurate reproduction.*
 
 # Property Management Software | Buildium | Privacy Policy
 
@@ -72,5 +72,5 @@ If you have any questions about our Privacy Policy, please [email us](http://www
 
 Buildium, LLC  
 Privacy Department  
-308 Congress Street, 5th Floor  
-Boston, MA 02210
+38 Chauncy St, 12th Floor  
+Boston, MA 02111
