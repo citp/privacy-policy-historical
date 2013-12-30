@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endnote.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229141346id_/http%3A//ip-science.thomsonreuters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endnote.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230021057id_/http%3A//ip-science.thomsonreuters.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - IP & Science - Thomson Reuters
 
