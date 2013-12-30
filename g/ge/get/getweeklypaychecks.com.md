@@ -1,0 +1,19 @@
+> *The following text is extracted and transformed from the getweeklypaychecks.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230202818id_/http%3A//getweeklypaychecks.com/privacypolicy.php) for the most accurate reproduction.*
+
+# Privacy Policy
+
+## Information that is gathered from visitors
+
+In common with other websites, log files are stored on the web server saving details such as the visitor's IP address, browser type, referring page and time of visit.
+
+Where registration is completed, the visitor's email and all other information submitted via a form will be stored on the server. 
+
+## How the Information is used
+
+Bizsites and Guides inc and GetWeeklyPaychecks.com collects only the information necessary to market to and communicate with its members and prospects. We do not hold credit card information personally nor do we store sensitive information of any kind on our own systems. Further, we do not sell or rent your information to third parties for any reason.  The use of information as described may or may not be how information that is collected is customarily used by this site. While actual use of any information collected may be used quite conservatively, you must assume that it is not. You must assume that information collected may be shared with other persons or entities for commercial purposes. While this is uncommon in practice, you must assume that it is as you make your decision whether or not to view or interact with this website. This type of shared information may include your name, address, phone number, email address and buying habits, as well as other information. This information may be used for general commercial solicitation by this website or other persons it is shared with.
+
+E-mail may be sent to inform you of news of our services or offers by us or our affiliates and trusted 3rd party partners. 
+
+## Visitor Options
+
+If you have subscribed to one of our services, you may unsubscribe by following the instructions which are included in the emails that you receive. 
