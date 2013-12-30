@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snappytv.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630213420id_/http%3A//www.snappytv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snappytv.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230160941id_/http%3A//www.snappytv.com/privacy) for the most accurate reproduction.*
 
 # SnappyTV - Privacy
 
@@ -118,4 +118,4 @@ For more information about our privacy practices, write to us at:
 
 SnappyTV Privacy
 
-321 Potrero Ave / San Francisco CA, 94103 / USA
+1153 Mission Street / San Francisco CA, 94103 / USA
