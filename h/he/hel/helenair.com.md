@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helenair.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501083047id_/http%3A//helenair.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helenair.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230103824id_/http%3A//helenair.com/privacy) for the most accurate reproduction.*
 
 # helenair.com | Terms of Use
 
