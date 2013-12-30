@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clinicaltrials.gov privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630140841id_/http%3A//www.nlm.nih.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clinicaltrials.gov privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230202544id_/http%3A//www.nlm.nih.gov/privacy.html) for the most accurate reproduction.*
 
 # NLM Privacy Policy
 
@@ -33,7 +33,7 @@ Session Cookies: We use session cookies for technical purposes such as to enable
 
 Persistent Cookies: NLM uses persistent cookies to enhance the Web experience for our users. Persistent cookies remain on your computer between visits to NLM until they expire. The OMB Memo 10-22 Guidance defines our use of persistent cookies as "Usage Tier 2 – Multi-session without Personally Identifiable Information (PII)." This tier encompasses any use of multi-session Web measurement and customization technologies when no PII is collected.
 
-For example, NLM uses persistent cookies to enable a PubMed retrieval system feature called "MyNCBI." The persistent cookie retains user preferences such as search result filters, LinkOut displays, institutional icon links, document delivery services, etc. across user sessions. Users may opt out of the persistent cookie selection in their MyNCBI settings at any time. NLM also uses persistent cookies to avoid repeated invitations to take the American Customer Satisfaction Inventory (ACSI) survey. The persistent cookies that block repeated survey invitations expire in 90 days. NLM may employ persistent cookies in other ways consistent with our mission and the OMB guidelines to analyze use patters and improve our users' experience on NLM Web sites.
+For example, NLM uses persistent cookies to enable a PubMed retrieval system feature called "MyNCBI." The persistent cookie retains user preferences such as search result filters, LinkOut displays, institutional icon links, document delivery services, etc. across user sessions. Users may opt out of the persistent cookie selection in their MyNCBI settings at any time. NLM also uses persistent cookies to avoid repeated invitations to take the American Customer Satisfaction Inventory (ACSI) survey. The persistent cookies that block repeated survey invitations expire in 90 days. NLM may employ persistent cookies in other ways consistent with our mission and the OMB guidelines to analyze use patterns and improve our users' experience on NLM Web sites.
 
 ### How to Opt Out or Disable Cookies
 
@@ -67,7 +67,7 @@ The AddThis service collects non-personal data, including aggregate and summary 
 
 ### Go.USA.Gov and Bit.ly
 
-NLM uses the Go.USA.gov and Bit.ly URL shortening services. The shorter URLs are shared in our e-mail messages, Twitter feeds, and on NLM's Facebook pages. The services collect data about how often users click on these shortened URLs. The analytics data is provided by Go.USA.Gov and Bit.ly. This data does not provide any personally identifiable information about the visitors who opened NLM's shortened links. The Go.USA.Gov Privacy Statement is available at <https://go.usa.gov/privacy_statement>. The Bit.ly Privacy Policy is available at: <http://bit.ly/pages/privacy>.
+NLM uses the Go.USA.gov and Bit.ly URL shortening services. The shorter URLs are shared in our e-mail messages, Twitter feeds, and on NLM's Facebook pages. The services collect data about how often users click on these shortened URLs. The analytics data is provided by Go.USA.Gov and Bit.ly. This data does not provide any personally identifiable information about the visitors who opened NLM's shortened links. The Go.USA.Gov Privacy Statement is available at <https://go.usa.gov/policies>. The Bit.ly Privacy Policy is available at: <http://bit.ly/pages/privacy>.
 
 ### Facebook
 
