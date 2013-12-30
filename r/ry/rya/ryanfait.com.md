@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryanfait.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502003100id_/http%3A//ryanfait.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryanfait.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230155544id_/http%3A//ryanfait.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,4 +14,4 @@ I will not sell, share or exchange any personal information about you with any t
 
 1.) If I believe it necessary to share information to investigate, prevent, or take legal action against fraud, and 2.) If I am required by law to release personal information regarding a specific individual or company.
 
-If you have any questions or concerns regarding this policy, please contact me immediately at [privacypolicy@ryanfait.com](mailto:privacypolicy@ryanfait.com).
+If you have any questions or concerns regarding this policy, please contact me immediately at privacypolicy_at_ryanfait.com.
