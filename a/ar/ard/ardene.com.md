@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ardene.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608003449id_/http%3A//www.ardene.com/en/privacy-policy-en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ardene.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231000648id_/http%3A//www.ardene.com/en/privacy-policy1) for the most accurate reproduction.*
 
 # Privacy Policy - EN
 
