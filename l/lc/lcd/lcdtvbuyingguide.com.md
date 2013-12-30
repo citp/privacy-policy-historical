@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lcdtvbuyingguide.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606062423id_/http%3A//www.lcdtvbuyingguide.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lcdtvbuyingguide.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230190912id_/http%3A//www.lcdtvbuyingguide.com/privacy.shtml) for the most accurate reproduction.*
 
 # LCD TV Buying Guide: flat screen tv ordering FAQ & Tips
 
