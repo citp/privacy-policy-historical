@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rob-jones.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517205410id_/http%3A//rob-jones.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rob-jones.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230130630id_/http%3A//rob-jones.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
