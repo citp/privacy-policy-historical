@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tennis-x.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605200339id_/http%3A//www.tennis-x.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennis-x.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230100422id_/http%3A//www.tennis-x.com/pages/privacy.php) for the most accurate reproduction.*
 
-# Tennis-X.com Privacy Policy
+# Tennis-X.com Privacy Policy & Terms
 
 **  
 Tennis-X.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Tennis-X.com
@@ -11,8 +11,10 @@ Your privacy is important at Tennis-X.com and we regard all personal information
 **Advertisers**  
 We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
 
- **Public Forums**  
-This site makes discussion boards available to its users. Please remember that any information that is disclosed in these or any other areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+ **Public Forums & Blog Commenting**  
+This site makes discussion boards and blog commenting available to its users. Please remember that any information that is disclosed in these or any other areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+
+Should you violate any of our [commenting guidelines](http://www.tennis-x.com/pages/commenting.php) we reserve the right to deny your postings. 
 
 **External Links**  
 This site contains links to other sites, and as such Tennis-X.com is not responsible for the privacy practices or the content of such Web sites. 
