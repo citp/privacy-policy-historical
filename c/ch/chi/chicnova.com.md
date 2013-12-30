@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicnova.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522050053id_/http%3A//www.chicnova.com/help_main%3Fpage%3Dprivacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicnova.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230064721id_/http%3A//www.chicnova.com/help_main%3Fpage%3Dprivacy_notice) for the most accurate reproduction.*
 
 # Help Center at Chicnova.com
 
@@ -51,6 +51,8 @@ Our site may contain links to and from the websites of our partner networks, adv
 If you wish to verify the details you have submitted to CHICNOVA you may do so by contacting us via the e-mail address or address given below. Our security procedures mean that we may request proof of identity before we reveal information. This proof of identity will take the form of your e-mail address and password submitted upon registration. You must therefore keep this information safe as you will be responsible for any action which we take in response to a request from someone using your e-mail and password. We would strongly recommend that you do not use the browser's password memory function as that would permit other people using your terminal to access your personal information. 
 
 Once we have verified your identity, you will be able to access and update the contact information you gave us during registration, or modify any marketing or other choices you have made when registering with our site, or opting out of participation in the site services. You may also unsubscribe from certain e-mail communications by clicking on unsubscribe links in those e-mails. Please note that even if you elect to terminate your registration with the site, we may retain your personal information for legal or other reasons. The treatment of that retained personal information will at all times be governed by this Privacy Policy. 
+
+[service@chicnova.com](mailto:service@chicnova.com)
 
 ## VIII.Disclaimer
 
