@@ -1,8 +1,29 @@
-> *The following text is extracted and transformed from the indonetwork.net privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601180000id_/http%3A//indonetwork.net/help-0317.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indonetwork.net privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231003534id_/http%3A//indonetwork.net/help-0317.html) for the most accurate reproduction.*
 
 # Help Center - Indonetwork.net
 
-**Third party service providers**  
+**WHAT IS A COOKIE?**  
+A "cookie" is a small piece of information that a website can store in a designated file on your computer. It can be used, among other things, to identify you when you log in to a website. When you visit a site, that site can access only the information which it stored in your cookie -- not information put in your cookie by other sites. Indonetwork is one of many sites that use cookies. 
+
+**Why does Indonetwork use cookies?**  
+Cookies allow Indonetwork to recognize you as a return user every time you visit our site. This cookie helps you save time whenever you send an inquiry. Whenever you want to send an inquiry or an offer, from anywhere on the site, the inquiry form or offer sheet is automatically filled in with your contact and business details. You can just type in your message and send it! 
+
+**Will another website be able to steal my ID and password?**   
+No. Only Indonetwork can read the information about your ID and password. No website has access to it through your browser. That is how web browsers are. However, anyone who sits down at your computer can log on to our site using your information if you have chosen to save your sign-on information. We recommend you sign-on only if your computer is located in a secure place. 
+
+**Will I receive unsolicited e-mail if I accept your cookies?**   
+No. Acceptance of cookies on our website does not result in your receiving any e-mail from us. When you signed up for our FREE services, you chose whether to receive promotional e-mail from Indonetwork. To check or update this choice, please see Your Profile. 
+
+**What do those characters I see in the cookie alert mean?**   
+If you have setup your browser to warn you every time a cookie is set, you can see the contents of a cookie before your computer accepts it. 
+
+**What if I do not accept your cookies?**   
+Some of our services or features require cookies. If you do not accept cookies on our website, you may not be able to use, access or participate in such services or features fully or at all.  
+
+
+↑ Back to top ↑
+
+ **Third party service providers**  
 You may notice that some services available through our website are "Powered by" or "Provided by" other third party content or technology service providers. We contract with these third party providers to help us provide you with better value and service. To fully access and use such services, you may sometimes be required to register for them or to otherwise provide certain information and data. In order to provide you with the services in question, such information and data may have to be made available to the third party provider, who may then process or update such information and data and transmit them back to us. We are highly selective in choosing these third party providers, and they are allowed to use your information and data only for the purpose of and in connection with providing the services which we have contracted with them to provide. 
 
 **Important Notice** Although we adhere to industry standard practices to protect your personal information and confidential data, we cannot ensure that such information and data will never be disclosed in ways not otherwise described in this Privacy Policy.
@@ -26,27 +47,6 @@ Our system also logs some basic and generic information about your computer, inc
 
 
 We use this information about your computer to perform routine web site maintenance and to generate various aggregate reports for internal analysis, research and monitoring purposes, so as to help us develop and enhance our web site and services for our users.  
-
-
-↑ Back to top ↑
-
- **WHAT IS A COOKIE?**  
-A "cookie" is a small piece of information that a website can store in a designated file on your computer. It can be used, among other things, to identify you when you log in to a website. When you visit a site, that site can access only the information which it stored in your cookie -- not information put in your cookie by other sites. Indonetwork is one of many sites that use cookies. 
-
-**Why does Indonetwork use cookies?**  
-Cookies allow Indonetwork to recognize you as a return user every time you visit our site. This cookie helps you save time whenever you send an inquiry. Whenever you want to send an inquiry or an offer, from anywhere on the site, the inquiry form or offer sheet is automatically filled in with your contact and business details. You can just type in your message and send it! 
-
-**Will another website be able to steal my ID and password?**   
-No. Only Indonetwork can read the information about your ID and password. No website has access to it through your browser. That is how web browsers are. However, anyone who sits down at your computer can log on to our site using your information if you have chosen to save your sign-on information. We recommend you sign-on only if your computer is located in a secure place. 
-
-**Will I receive unsolicited e-mail if I accept your cookies?**   
-No. Acceptance of cookies on our website does not result in your receiving any e-mail from us. When you signed up for our FREE services, you chose whether to receive promotional e-mail from Indonetwork. To check or update this choice, please see Your Profile. 
-
-**What do those characters I see in the cookie alert mean?**   
-If you have setup your browser to warn you every time a cookie is set, you can see the contents of a cookie before your computer accepts it. 
-
-**What if I do not accept your cookies?**   
-Some of our services or features require cookies. If you do not accept cookies on our website, you may not be able to use, access or participate in such services or features fully or at all.  
 
 
 ↑ Back to top ↑
