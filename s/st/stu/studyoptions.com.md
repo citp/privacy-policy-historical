@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the studyoptions.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629045102id_/http%3A//www.studyoptions.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyoptions.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230063114id_/http%3A//www.studyoptions.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Study Options
+# Study Options: Privacy Policy
 
 ## Privacy Policy
 
