@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apkcrack.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116120543id_/http%3A//www.apkcrack.com/privacy-polic) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apkcrack.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230162151id_/http%3A//www.apkcrack.com/privacy-polic) for the most accurate reproduction.*
 
 # Privacy Policy | APK Crack
 
@@ -21,6 +21,10 @@ We have included links on this site for your use and reference. We are not respo
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of Modern Wheels then you may contact us at modernwheels.net@gmail.com
+If you have any questions regarding the privacy policy of Modern Wheels then you may contact us at justmobilephone@gmail.com
+
+### Income Generation
+
+We may generate income from this site via Advertisement / ads and blogs listing. If any party want to advertise on our site then contact us on our address given above.
 
 Last updated Mon, 11 Jul 2011 07:15
