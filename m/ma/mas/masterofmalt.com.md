@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masterofmalt.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620225704id_/http%3A//www.masterofmalt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterofmalt.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230100756id_/http%3A//www.masterofmalt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Master of Malt
 
@@ -44,7 +44,7 @@ We use cookies to:
 
   * Keep track of your shopping basket
   * Allow you to login to your account to provide additional services
-  * Remember choices such as dissmissing notifications
+  * Remember choices such as dismissing notifications
   * Customize the website to be more relevant to you, such as displaying prices in your country's currency
 
 
