@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the backcountryedge.com privacy policy that was archived on 2013-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629222016id_/http%3A//www.backcountryedge.com/t-privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the backcountryedge.com privacy policy that was archived on 2013-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131230171553id_/http%3A//www.backcountryedge.com/t-privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Backcountry Edge Privacy Policy
@@ -23,7 +23,7 @@
         
 
         <link href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css">
-        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+        <script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
         <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
         <script type="text/javascript">
             //jQuery.noConflict( );
@@ -36,11 +36,24 @@
 	    <link rel="stylesheet" type="text/css" href="jscripts/fancybox2/jquery.fancybox.css" media="screen">
 
         <script type="text/javascript" src="jscripts/formValidate.js"></script>
-        <script type="text/javascript" language="javascript" src="https://ssl.google-analytics.com/urchin.js"></script>
-        <script type="text/javascript" language="javascript">
-            _uacct="UA-2243286-1";
-            urchinTracker( );
+        
+        
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-2243286-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
         </script>
+
+        
+        
         <script type="text/javascript">
             function ClickSearchButton( source, eventArgs ) {
                 __doPostBack('ctl00$SearchButton','');
@@ -50,6 +63,35 @@
             function displayUpdatingPanel() {
                 jQuery("#updating-panel").dialog({ modal: true, closeOnEscape: true, draggable: false, resizable: false });
             }
+        </script>
+        <script type="text/javascript">
+            $(function() {
+                // Patch fractional .x, .y form parameters for IE10.
+                if (typeof (Sys) !== 'undefined' && Sys.Browser.agent === Sys.Browser.InternetExplorer && Sys.Browser.version === 10) {
+                    Sys.WebForms.PageRequestManager.getInstance()._onFormElementActive = function Sys$WebForms$PageRequestManager$_onFormElementActive(element, offsetX, offsetY) {
+                        if (element.disabled) {
+                            return;
+                        }
+                        this._activeElement = element;
+                        this._postBackSettings = this._getPostBackSettings(element, element.name);
+                        if (element.name) {
+                            var tagName = element.tagName.toUpperCase();
+                            if (tagName === 'INPUT') {
+                                var type = element.type;
+                                if (type === 'submit') {
+                                    this._additionalInput = encodeURIComponent(element.name) + '=' + encodeURIComponent(element.value);
+                                }
+                                else if (type === 'image') {
+                                    this._additionalInput = encodeURIComponent(element.name) + '.x=' + Math.floor(offsetX) + '&' + encodeURIComponent(element.name) + '.y=' + Math.floor(offsetY);
+                                }
+                            }
+                            else if ((tagName === 'BUTTON') && (element.name.length !== 0) && (element.type === 'submit')) {
+                                this._additionalInput = encodeURIComponent(element.name) + '=' + encodeURIComponent(element.value);
+                            }
+                        }
+                    };
+                }
+            });        
         </script>
         <style type="text/css">
             .ui-dialog-titlebar {
@@ -74,7 +116,7 @@
         <!-- End Monitor Tracking Variables  -->
 
 
-        <script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=84154300"></script></head>
+        <script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=84154300"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
     <body>
 
@@ -187,7 +229,6 @@
   <option value="big_agnes.aspx">Big Agnes</option>
   <option value="black_diamond.aspx">Black Diamond</option>
   <option value="boreas.aspx">Boreas</option>
-  <option value="bridgedale.aspx">Bridgedale</option>
   <option value="brunton.aspx">Brunton</option>
   <option value="buck.aspx">Buck</option>
   <option value="buff.aspx">Buff</option>
@@ -205,6 +246,7 @@
   <option value="exped.aspx">Exped</option>
   <option value="garmont.aspx">Garmont</option>
   <option value="gerber.aspx">Gerber</option>
+  <option value="grabber.aspx">Grabber</option>
   <option value="granite_gear.aspx">Granite Gear</option>
   <option value="gregory.aspx">Gregory</option>
   <option value="gsi_outdoors.aspx">GSI Outdoors</option>
@@ -222,10 +264,10 @@
   <option value="klymit.aspx">Klymit</option>
   <option value="komperdell.aspx">Komperdell</option>
   <option value="lafuma.aspx">Lafuma</option>
-  <option value="laken.aspx">Laken</option>
   <option value="leki.aspx">LEKI</option>
   <option value="lowe_alpine.aspx">Lowe Alpine</option>
   <option value="mammut.aspx">Mammut</option>
+  <option value="manzella.aspx">Manzella</option>
   <option value="marmot.aspx">Marmot</option>
   <option value="mcnett.aspx">McNett</option>
   <option value="millet.aspx">Millet</option>
@@ -241,7 +283,6 @@
   <option value="nikwax.aspx">Nikwax</option>
   <option value="nite_ize.aspx">Nite Ize</option>
   <option value="nomad_adventure_journals.aspx">Nomad Adventure Journals</option>
-  <option value="open_country.aspx">Open Country</option>
   <option value="optimus.aspx">Optimus</option>
   <option value="osprey.aspx">Osprey</option>
   <option value="outdoor_research.aspx">Outdoor Research</option>
@@ -252,7 +293,6 @@
   <option value="platypus.aspx">Platypus</option>
   <option value="point_6.aspx">Point 6</option>
   <option value="powderidge.aspx">PowdeRidge</option>
-  <option value="primus.aspx">Primus</option>
   <option value="princeton_tec.aspx">Princeton Tec</option>
   <option value="rab.aspx">Rab</option>
   <option value="red_ledge.aspx">Red Ledge</option>
@@ -262,6 +302,7 @@
   <option value="salomon.aspx">Salomon</option>
   <option value="sierra_designs.aspx">Sierra Designs</option>
   <option value="snow_peak.aspx">Snow Peak</option>
+  <option value="spenco.aspx">Spenco</option>
   <option value="steripen.aspx">SteriPEN</option>
   <option value="suunto.aspx">Suunto</option>
   <option value="terramar.aspx">Terramar</option>
@@ -436,13 +477,13 @@
             <div id="footer">
                 <div id="footer-inner">
                     <div class="printonly">
-                        <!-- READ FROM DB -->Questions about your order?<br>Call:&nbsp; 800-617-0643&nbsp; 9:00 am - 5:30 pm<br>Email: <a href="mailto:customerservice@backcountryedge.com">customerservice@backcountryedge.com</a><br><a href="http://www.backcountryedge.com/">www.backcountryedge.com</a> 708 Ditz Drive, Manheim, PA&nbsp; 17545<br><!-- END OF DB -->
+                        <!-- READ FROM DB --><p>Questions?<br>Call:&nbsp; 800-617-0643&nbsp; 9:00 am - 5:30 pm<br>Email: customersupport@backcountryedge.com<br>Backcountry edge<br>www.BackcountryEdge.com<br>708 Ditz Drive, Manheim, PA&nbsp; 17545<br></p><!-- END OF DB -->
 
 
                     </div>
                     <div class="noprint">
                         <!-- READ FROM DB -->  <div id="bottom-menu">
-    	<p><a href="video-index.aspx">Videos</a> <span class="link-space">|</span> <a href="shoppingcart.aspx">Shopping Cart</a> <span class="link-space">|</span> <a href="t-service.aspx">Customer Service</a> <span class="link-space">|</span> <a href="t-privacy.aspx">Privacy Policy</a> <span class="link-space">|</span> <a href="t-about.aspx">About Us</a> <span class="link-space">|</span> <a href="t-contact.aspx">Contact Us</a><br><a href="t-shipping.aspx">Shipping Information</a> <span class="link-space">|</span> <a href="t-satisfactionguarantee.aspx">Returns</a> <span class="link-space">|</span> <a href="t-satisfactionguarantee.aspx">100% Satisfaction Guarantee!</a> <span class="link-space">|</span> <a href="t-affiliate.aspx">Affiliates</a> <span class="link-space">|</span> <a href="t-jobs.aspx">Careers</a> | <a href="t-termsandconditions.aspx">Terms of Use</a><!--</p--> 
+    	<p><a href="video-index.aspx">Videos</a> <span class="link-space">|</span> <a href="shoppingcart.aspx">Shopping Cart</a> <span class="link-space">|</span> <a href="t-service.aspx">Customer Service</a> <span class="link-space">|</span> <a href="t-privacy.aspx">Privacy Policy</a> <span class="link-space">|</span> <a href="t-about.aspx">About Us</a> <span class="link-space">|</span> <a href="t-pricematch.aspx">Price Match</a><br><a href="t-shipping.aspx">Shipping Information</a> <span class="link-space">|</span> <a href="t-satisfactionguarantee.aspx">Returns</a> <span class="link-space">|</span> <a href="t-satisfactionguarantee.aspx">100% Satisfaction Guarantee!</a> <span class="link-space">|</span> <a href="t-affiliate.aspx">Affiliates</a> <span class="link-space">|</span> <a href="t-jobs.aspx">Careers</a> | <a href="t-termsandconditions.aspx">Terms of Use</a><!--</p--> 
         </p><p><strong>Contact Us by Phone: 1-800-617-0643</strong> (9:00 AM - 5:30 PM EST M-F) or by <a href="mailto:webmaster@backcountryedge.com">e-mail</a>.</p>
     	 <p><img alt="MasterCard, Visa, Discover, American Express" src="images/customimages/credit_card_logos-v.gif" border="0"></p>
       </div><!-- End bottom-menu -->
@@ -487,7 +528,24 @@
 		    <li><a href="video-marmot-plasma-15-degree-down-sleeping-bag.aspx">Marmot Plasma 15</a></li>
 		    <li><a href="video-osprey-atmos-and-aura-backpacks.aspx">Osprey Atmos and Aura</a></li>
  </ul><br class="clearfloat"> 
-   	  </div><!-- End btm_sm_links --><!-- END OF DB -->
+   	  </div><!-- End btm_sm_links -->
+<script type="text/javascript">
+adroll_adv_id = "MDPFVOO3FJENRM43ZIAUJ7";
+adroll_pix_id = "SERQR7WJQJF2ZPWV5ZFLUH";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script><!-- END OF DB -->
 
 
                         <p id="footnote">Copyright © <span id="ctl00_YearLabel">2013</span> Backcountry 
@@ -510,6 +568,32 @@
         </script>
         <script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
         </script>
+        
+        
+        
+        <!-- BEGIN: Google Trusted Store -->
+        <script type="text/javascript">
+            var gts = gts || [];
+
+            gts.push(["id", "206596"]);
+            gts.push(["google_base_subaccount_id", "93092"]);
+            gts.push(["google_base_country", "US"]);
+            gts.push(["google_base_language", "EN"]);
+
+            (function() {
+                var scheme = (("https:" == document.location.protocol) ? "https://" : "http://");
+                var gts = document.createElement("script");
+                gts.type = "text/javascript";
+                gts.async = true;
+                gts.src = scheme + "www.googlecommerce.com/trustedstores/gtmp_compiled.js";
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(gts, s);
+            })();
+        </script>
+        <!-- END: Google Trusted Store -->
+
+                
+        
         <noscript>
             <div style="display:inline;">
                 <img height="1" width="1" style="border-style:none;" alt="" src='https://www.googleadservices.com/pagead/conversion/1070700876/?label=km8cCMzO9gEQzLLG_gM&amp;guid=ON&amp;script=0' />
