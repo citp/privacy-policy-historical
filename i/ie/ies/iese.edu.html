@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the iese.edu privacy policy that was archived on 2013-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130519061441id_/http%3A//www.iese.edu/en/more-information/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iese.edu privacy policy that was archived on 2013-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131230032216id_/http%3A//www.iese.edu/en/more-information/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
+
 
 
 <meta charset="utf-8">
@@ -30,7 +31,7 @@
 <link rel="stylesheet" type="text/css" href="/system/tipography/tradegothic.css">
   <link rel="stylesheet" type="text/css" href="/system/css/esquema-colores.css">
 <!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/system/css/ie_style.css" /><![endif]-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/system/js/jquery-1.7.min.js"></script>
+<script type="text/javascript" src="/system/js/jquery-1.7.min.js"></script>
 <script type="text/javascript" src="/system/js/general.js"></script>
 <script type="text/javascript" src="/system/js/iese.menus.js"></script>
 <script type="text/javascript" src="/system/js/iese.fn.js"></script>
@@ -92,8 +93,6 @@
 
 
 
-
-
 </head>
 <body>
 
@@ -102,14 +101,95 @@
 
 
 
+
  
-  
 
 
 
 
 
 
+
+ 
+
+
+
+
+<!--googleoff: all-->
+
+<div id="acceptCookieBanner" style="background-color: rgb(94, 94, 94);">
+	<script type="text/javascript" charset="utf-8">
+		function createAcceptCookie() {
+			var currentTime = new Date();
+			var month = currentTime.getMonth();
+			var day = currentTime.getDate();
+			var year = currentTime.getFullYear();
+			var dateExpire = new Date(year+1,month,day);
+			var strExppire = dateExpire.toGMTString();
+			var thecookie = "acceptCookies" + " = " + "true" + "; expires=" + strExppire+"; path=/; domain=."+"iese.edu";
+                                                document.cookie = thecookie;
+			$('#acceptCookieBanner').hide();
+		};
+
+		function readAcceptCookie() {
+			var lista = document.cookie.split(";");
+			for (i in lista) {
+				var busca = lista[i].search("acceptCookies");
+				if (busca > -1) {
+					micookie=lista[i]
+					var igual = micookie.indexOf("=");
+					var valor = micookie.substring(igual+1);
+					return valor;
+				}
+			}
+			return null;
+		};
+		
+		$(document).ready(function() {
+			if(readAcceptCookie()=="true"){
+				$('#acceptCookieBanner').hide();	
+			}else {
+                                                                            $('#acceptCookieBanner').show();	
+                                                         }
+			
+		});
+	</script>
+
+
+<div class="wrapper">
+
+
+	<h4 class="title"><strong><p>Cookies on the IESE Website</p></strong></h4>	
+
+	<div class="content">
+
+This website uses cookies to improve your user experience and to show you content related to your preferences. If you continue browsing, we consider that you agree to their use.
+
+
+
+<p>
+
+<a href="/en/system/modalcookies.html?tcm=tcm:41-117230" class="nmodal">More Information</a>
+
+</p>
+
+
+</div>
+
+	<p style="float:right; margin-top: 50px; font-size: 1.1em" class="form1">
+		<input class="bt" type="button" value="Accept" onclick="createAcceptCookie()">
+	</p>
+                   <p style="clear:both">
+                   
+
+</p></div>
+</div>
+
+<!--googleon: all-->  
+
+
+
+ 
 
 <header id="header">
 <div class="wrapper clearfix">
@@ -186,8 +266,8 @@ function detectNavigators(forIEandMovile, other){
 <input type="hidden" name="language" value="en">
 <input type="text" class="texto magical" placeholder="Search" name="keyword"> <input type="submit" class="bt" value=">">
 
-                            <input type="hidden" id="ppr" name="ppr" value="13">
-                            <input type="hidden" id="pex" name="pex" value="9">
+                            <input type="hidden" id="ppr" name="ppr" value="100">
+                            <input type="hidden" id="pex" name="pex" value="50">
 </form>
 </div>
 			
@@ -252,6 +332,11 @@ langVar="es";
 pubId="42";
 </script>
 
+
+
+
+
+
 <li id="languageSelector">
 <a href="/es/informacion/politica-privacidad/" title="Español" id="esLangCode" onclick="refreshVarsSession(langVar, pubId, url)">Español</a>
 </li>
@@ -265,8 +350,8 @@ pubId="42";
 <script type="text/javascript">     
 $(document).ready(function() {
 
-
-if ($('#languageSelector a').length == 0){
+ $("#languageSelector").each(function(index1) {
+if ($('#languageSelector').length == 0){
 var texto = $('#languageSelector').html();
 var linkHome = "<a href='/es'>" + texto + "</a>";
 
@@ -275,6 +360,7 @@ $("#languageSelector").append(linkHome);
 }
 
 });
+  });   
 </script>
                                                           
                                                                  
@@ -703,7 +789,7 @@ $("#languageSelector").append(linkHome);
          
 
 
-<a target="_blank" href="/en/ourcommunity/alumninew/home/home.asp?" title="">Alumni &gt;</a>
+<a target="_blank" href="http://iese.edu/es/ourcommunity/alumninew/home/home.asp?" title="">Alumni &gt;</a>
 
  
 
@@ -861,7 +947,7 @@ $("#languageSelector").append(linkHome);
 
 
 
-<a href="/en/Microsites/ExecutiveEducation/InstitucionesCulturales/Home.asp" title="" target="_blank">Arts &amp; Culture Initiative &gt;</a>
+<a href="http://www.iese.edu/en/Microsites/ExecutiveEducation/InstitucionesCulturales/Home.asp" title="" target="_blank">Arts &amp; Culture Initiative &gt;</a>
 
 
 
@@ -881,7 +967,7 @@ $("#languageSelector").append(linkHome);
      <li>
 
 
-<a href="/en/faculty-research/research-centers/cplg/research/" title="">Public Sector Initiative </a>
+<a href="/en/companies-institutions/initiatives/public-sector/" title="">Public Management Initiative</a>
 
 
 
@@ -893,6 +979,17 @@ $("#languageSelector").append(linkHome);
 
 
 <a href="/en/companies-institutions/initiatives/excellence-in-operations/" title="">Excellence in Operations Initiative </a>
+
+
+
+
+
+ </li>
+
+     <li>
+
+
+<a href="/en/companies-institutions/initiatives/media-entertainment/" title="">Media &amp; Entertainment Initiative</a>
 
 
 
@@ -975,7 +1072,7 @@ $("#languageSelector").append(linkHome);
          
 
 
-<a target="_blank" href="/en/Research/Library/search2.asp" title="">Library &gt;</a>
+<a target="_blank" href="http://www.iese.edu/en/Research/Library/search2.asp" title="">Library &gt;</a>
 
  
 
@@ -988,7 +1085,7 @@ $("#languageSelector").append(linkHome);
 
 
          
-<a href="/en/resources/global-campus/" title="">Global Campus &gt;</a>
+<a href="/en/resources/global-campus/" title="">Virtual Campus</a>
 
 
 
@@ -1209,8 +1306,7 @@ $("#languageSelector").append(linkHome);
 	</ul>
 </nav>
 </div>
-</header>
-
+</header>  
 
 
 
@@ -1249,6 +1345,12 @@ var mapsVar= "false";
 </script>
 
 	<div class="program-search">
+
+
+
+
+
+
 		 
                                  
 	                       <div class="share alone">
@@ -1718,10 +1820,8 @@ var mapsVar= "false";
 <div class="block grid10 f-l">
 
 
+<div class="block mbxl cl">
 
-
-  
-<div class="block mbxl">
 
 
 
@@ -1733,6 +1833,8 @@ var mapsVar= "false";
 
 
 <h3 class="tit">   
+
+   
 
    
       Privacy Policy
@@ -1763,6 +1865,8 @@ var mapsVar= "false";
 
 <div class="post mbn">
 
+
+   
 
    
 
@@ -1822,43 +1926,7 @@ var mapsVar= "false";
 	$('.cargaMapaGoogle').loadGMScript();
     })
 </script>
-
-
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 </div>
@@ -1881,8 +1949,9 @@ var mapsVar= "false";
 
 <footer id="footer">
 
-  
 
+
+ 
 
 
 
@@ -2086,9 +2155,9 @@ var mapsVar= "false";
 
      <li>
         
+<a href="/en/companies-institutions/recruit-iese-talent/get-know-students/" title="">Recruit IESE Talent </a>
 
 
-<a href="" title="">Recruit IESE Talent </a>
   </li>
 
      <li>
@@ -2147,12 +2216,12 @@ var mapsVar= "false";
         
 
 
-<a href="/en/Research/Library/search2.asp" title="">Library &gt;</a>
+<a href="http://www.iese.edu/en/Research/Library/search2.asp" title="">Library &gt;</a>
   </li>
 
      <li>
         
-<a href="/en/resources/global-campus/" title="">Global Campus &gt;</a>
+<a href="/en/resources/global-campus/" title="">Virtual Campus</a>
 
 
   </li>
@@ -2320,15 +2389,11 @@ var mapsVar= "false";
 </div>
 </div><!--join-us-->
 
-</div><!--foot-top-->
+</div><!--foot-top-->  
 
 
 
-
-
-  
-
-
+ 
 
 
 
@@ -2390,7 +2455,7 @@ $("#footerTelf").find("span").each(function(index){
 
 
    
-<p><span>New York, NY  (+1) 212 956 0400</span>    |       
+<p><span>New York, NY  (+1) 646 346 8850</span>    |       
    
    
 
@@ -2554,7 +2619,7 @@ $("#footerTelf").find("span").each(function(index){
 
 
 
-<a href="/en/IESE/JobOpportunities/JobOpportunitiesAtIESE.asp" target="_blank" title="">Job Opportunities</a>
+<a href="http://iesejobs.cvtools.com/jefam/site/en/microsite-1552" target="_blank" title="">Job Opportunities</a>
 
 
 
@@ -2588,7 +2653,7 @@ $("#footerTelf").find("span").each(function(index){
 
 
 
-Sitemap
+<a href="/en/more-information/sitemap/" target="_blank" title="">Sitemap</a>
 
 
 
@@ -2653,31 +2718,16 @@ Sitemap
 </div>
 </div>
 
+  
+
+
 
 </footer>
 
 
    
-        
-<script type="text/javascript">
-   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-1229805-2']);
-  _gaq.push(['_setDomainName', '.iese.edu']);
-  _gaq.push(['_trackPageview']);
-  
-  (function() {
-     var ga = document.createElement('script');     ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:'   == document.location.protocol ? 'https://ssl'   : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-        
-<!-- CAMPAIGN MANAGER -->
-<img src="http://aplisic.iese.edu/Tracking/Grabar.aspx" height="1" width="1">
-      
-   
 
-<!-- node: IESEAPPPRO2.iese.local, version: 1.1.0.2c, compile date: 03.05.2013 (10:55:56 CEST) -->
+<!-- node: IESEAPPPRO2.iese.local, version: 1.4.0.7, compile date: 18.12.2013 (19:32:50 CET) -->
 
 
 <!--sharethis-->
