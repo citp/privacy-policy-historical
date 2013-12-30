@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oddstuffmagazine.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531061934id_/http%3A//oddstuffmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oddstuffmagazine.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230170612id_/http%3A//oddstuffmagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
