@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the producerloops.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403152012id_/http%3A//www.producerloops.com/privacy-policy-and-legal-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the producerloops.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231001931id_/http%3A//www.producerloops.com/privacy-policy-and-legal-statement.html) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Statement - Producer Loops
 
@@ -46,6 +46,8 @@ Some of our product data (the information you see) is managed by third parties, 
 
 If we believe that your use of the site is unlawful or damaging to others, we reserve the right to disclose the information we have obtained through the site about you to the extent that it is reasonably necessary in our opinion to prevent, remedy or take action in relation to such conduct.  
   
+[ ](https://web.archive.org/feed.php)
+
 Download 300MB of Samples, Loops & Reason Refills for FREE when you sign up to our Weekly Newsletter:
 
 0800 098 8607
