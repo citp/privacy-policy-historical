@@ -1,15 +1,18 @@
-> *The following text is extracted and transformed from the comm100.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218165510id_/http%3A//www.comm100.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comm100.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230100324id_/http%3A//www.comm100.com/privacy) for the most accurate reproduction.*
 
 # Comm100 Privacy Policy
 
-**Last Updated on April 20, 2010**
+**Last Updated on June 24, 2013**
 
 Comm100 Network Corporation (herein referred to as "We", "Comm100" or the "Company") is committed to protecting the privacy of your information. This Privacy Policy describes Comm100's information practices. 
 
-|  [ ](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.comm100.com)  
+| 
+
+[ ](https://privacy.truste.com/privacy-seal/Comm100-Network-Corporation/validation?rid=75257e22-f2a1-46d8-9653-38277e4a9cd2 "TRUSTe online privacy certification")  
+  
 ---|---  
   
-Comm100 has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and Comm100's information practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/#WPS) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy statement covers the Web site comm100.com and its sub-domains. 
+Comm100 has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and Comm100's information practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/#WPS) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy statement covers the Web site comm100.com and its sub-domains. 
 
 If you have questions or concerns regarding this statement, you should first contact Comm100 at privacy@comm100.com. If you are not satisfied with our response you can contact [ TRUSTe here](https://watchdog.truste.com/pvr.php?page=complaint).
 
@@ -19,14 +22,14 @@ The TRUSTe program only covers information that is collected through this Web si
 
 1\. What Does Comm100 Do?
 
-  * Comm100 provides open source and free hosted customer service and communication software for small and medium businesses. Comm100 focuses on developing and managing fully integrated customer support solutions to enable businesses to communicate with their customers more effectively through multiple communication channels, including live chat, forum, newsletter, knowledge base, email ticket, issue tracking, survey, etc. 
+  * Comm100 is the leader in customer service and communication software. Comm100 focuses on developing and managing fully integrated customer support solutions to enable businesses to communicate with their customers more effectively through multiple communication channels, including live chat, ticket, email marketing, forum, knowledge base, help desk and more. 
 
 
 
 2\. Personal Information Collected
 
-  * Comm100 offers a variety of services that are collectively referred to as the "Service". Comm100 collects information from individuals who visit the Company's Web sites (herein referred to as "Visitors") and individuals who download the Company's software, register to use the Service or register to partner with us (herein referred to as "Users"). 
-  * When you express an interest in obtaining additional information about the Service, downloading the software, registering to use the Service or registering to be our partner, Comm100 requires you to provide the Company with contact information, such as name, web site URL and email address ("Required Contact Information"). Comm100 may also ask you to provide additional information, such as company address, number of employees, or industry ("Optional Information"). 
+  * Comm100 offers a variety of services that are collectively referred to as the "Service". Comm100 collects information from individuals who visit the Company's Web sites (herein referred to as "Visitors") and individuals who download the Company's software or related resources, register to use the Service or register to partner with us (herein referred to as "Users"). 
+  * When you express an interest in obtaining additional information about the Service, downloading the software or related resources, registering to use the Service or registering to be our partner, Comm100 requires you to provide the Company with contact information, such as name, web site URL and email address ("Required Contact Information"). Comm100 may also ask you to provide additional information, such as company address, number of employees, or industry ("Optional Information"). 
   * When you purchase the Service, Comm100 requires you to provide the Company with financial qualification and billing information, such as billing name and address, credit card number and expiration date. ("Billing Information").
   * As you navigate the Company's Web sites, Comm100 may also collect information through the use of commonly-used information-gathering tools, such as cookies and Web beacons ("Web Site Navigational Information"). Web Site Navigational Information includes standard information from your Web browser (such as browser type and browser language), your Internet Protocol ("IP") address, and the actions you take on the Company's Web sites (such as the Web pages viewed and the links clicked). 
   * Besides the signing up user, you may have other team members or customer service representatives in your organization ("Operator") using Comm100 software or services. An Operator is an internal user of your organization, often a customer service representative. As you add Operator to your site account, Comm100 collects the operator's name and email address. 
@@ -36,7 +39,7 @@ The TRUSTe program only covers information that is collected through this Web si
 
 3\. Use of Information Collected
 
-  * The Company uses information collected to perform the services requested. We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at privacy@comm100.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+  * The Company uses information collected to perform the services requested. We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at support@comm100.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
   * Comm100 uses information collected to communicate with Users and Visitors to promote better use of the Company's software and services. For example, Comm100 may send Users a maintenance notice or list of new features of the Company's software and services.
   * The Company may also use information collected for marketing purposes. For example, the Company may use information you provide to contact you to further discuss your interest in Comm100, the Service, and to send you information regarding the Company and its partners, such as information about promotions or events.
   * Comm100 uses credit card information solely to check the financial qualifications of prospective customers and to collect payment for the Service.
@@ -53,6 +56,11 @@ The TRUSTe program only covers information that is collected through this Web si
   * The use of cookies by our partners, affiliates, tracking utility company or service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company or service providers use session ID cookies to help us track your navigations or actions on our site and provide you with better experiences or services.
   * Our third party data analytics partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
   * We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see "Choice and Opt-out."
+  * Widgets: Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+  * Flash LSOs: We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
+
+Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies [ click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118). 
+
 
 
 
@@ -85,7 +93,7 @@ The TRUSTe program only covers information that is collected through this Web si
 
 8\. Unsubscribe and Opt-Out
 
-  * • Comm100 offers Users and Visitors who provide contact information means to choose how the Company uses the information provided. You may unsubscribe from receiving marketing and non-transactional communications by clicking on the "unsubscribe" link located on the bottom of the Company's marketing emails. Additionally, you may reply the received email and let us know you want to unsubscribe.
+  * Comm100 offers Users and Visitors who provide contact information means to choose how the Company uses the information provided. You may unsubscribe from receiving marketing and non-transactional communications by clicking on the "unsubscribe" link located on the bottom of the Company's marketing emails. Additionally, you may reply the received email and let us know you want to unsubscribe.
   * Please note that generally Users cannot opt out of receiving transactional emails related to their account with Comm100 or the Service. If you really do not wish to receive them, you can contact us at [privacy@comm100.com](mailto:privacy@comm100.com). 
   * Comm100 will remove Users or Visitors from the Company's mailing list(s) in 10 business days upon receiving Users or Visitors' unsubscribe requests. 
 
@@ -101,7 +109,7 @@ The TRUSTe program only covers information that is collected through this Web si
 
   * Comm100 Users use the Service to host data and information ("User Data"). Comm100 will NOT review, share, distribute, or reference any such User Data except required by law. 
   * User Data is collected and owned by Comm100 Users, thus the use of User Data is governed by the privacy practice of Comm100 Users instead of Comm100. This privacy statement does not cover Comm100 Users' policy on information of their website visitors and clients collected through Comm100 web sites and services. Comm100 takes no responsibility for the privacy issues of Comm100 Users. 
-  * Individual records of User Data may be viewed or accessed only for the purpose of investigating an abuse complaint in Comm100 Newsletter, resolving a problem, support issues, or suspected violation of the Comm100 Hosted Service Agreement, or as may be required by law. To prevent spamming in Comm100 Newsletter, if your newsletter site status is "Moderation Needed", the Company's customer service representatives will look into the content of your moderation needed emails to decide if Comm100 Newsletter system will send out your emails. 
+  * Individual records of User Data may be viewed or accessed only for the purpose of investigating an abuse complaint in Comm100 Email Marketing, resolving a problem, support issues, or suspected violation of the Comm100 Hosted Service Agreement, or as may be required by law. To prevent spamming in Comm100 Email Marketing, the Company's customer service representatives may look into the content of your emails to decide if Comm100 Email Marketing system will send out your emails.
   * To maintain our email sending reputation, we examine the delivery data on each individual email basis for Comm100 users. The email delivery data includes, but is not limited to, if an email is delivered, reported as spam or rejected by receiving server. These delivery data may be collected from our email sending program or provided by the email receiving entity. 
   * Users are responsible for maintaining the security and confidentiality of their Comm100 usernames and passwords. 
 
@@ -109,7 +117,7 @@ The TRUSTe program only covers information that is collected through this Web si
 
 11\. Security
 
-  * Comm100 uses robust security measures to protect data from unauthorized access, maintain data accuracy, and help ensure the appropriate use of User Data. When the Service is accessed using Internet Explorer version 6.0 or later, Firefox version 2.0 or later, or Safari version 3.0 or later, Secure Socket Layer ("SSL") technology protects User Data using both server authentication and data encryption. The chat content in Comm100 Live Chat can be encrypted with SSL if the User chooses to use SSL. These technologies help ensure that User Data is safe, secure, and only available to the User to whom the information belongs and those to whom the User has granted access. Comm100 also implements an advanced security method based on dynamic data and encoded session identifications, and the Company hosts its Web sites in a secure server environment that uses firewalls and other advanced technology to prevent interference or access from outside intruders. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. 
+  * Comm100 uses robust security measures to protect data from unauthorized access, maintain data accuracy, and help ensure the appropriate use of User Data. When the Service is accessed using Internet Explorer version 6.0 or later, Firefox version 2.0 or later, or Safari version 3.0 or later, Secure Socket Layer ("SSL") technology protects User Data using both server authentication and data encryption. The chat content in Comm100 Live Chat is encrypted with SSL by default. These technologies help ensure that User Data is safe, secure, and only available to the User to whom the information belongs and those to whom the User has granted access. Comm100 also implements an advanced security method based on dynamic data and encoded session identifications, and the Company hosts its Web sites in a secure server environment that uses firewalls and other advanced technology to prevent interference or access from outside intruders. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. 
 
 
 
@@ -122,6 +130,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 Comm100 Network Corporation  
 Email: [privacy@comm100.com](mailto:privacy@comm100.com)  
+Tel: 1-778-785-0464  
 Address: Suite 238 - 1027 Davie Street  
 Vancouver, British Columbia  
 V6E 4L2, Canada 
