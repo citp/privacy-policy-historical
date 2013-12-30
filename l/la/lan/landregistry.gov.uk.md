@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landregistry.gov.uk privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629022908id_/http%3A//www.landregistry.gov.uk/public/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landregistry.gov.uk privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230020358id_/http%3A//www.landregistry.gov.uk/public/information/privacy) for the most accurate reproduction.*
 
 # Privacy statement - Land Registry for England and Wales
 
@@ -36,7 +36,9 @@ Our sites use forms for customers to request information, products and services,
 
 Our terms and conditions set out what we may use your information for. You should note that any information we may hold may be disclosed to or shared with others where appropriate. See Disclosure of personal information and Sharing information.
 
-Customers using our Find a property e–service will make payment in advance for services by credit/debit card. In relation to credit and debit cards, we comply with the Payment Card Industry Data Security Standards where applicable. When you pay for the services it will be via RBS Worldpay. Card holder information is held by the third party and not Land Registry. Your attention is drawn to the [privacy policy](http://www.rbsworldpay.com/about_us/index.php?page=terms&c=UK)  of RBS Worldpay. 
+Customers using our Find a property e–service will make payment in advance for services by credit/debit card. In relation to credit and debit cards, we comply with the Payment Card Industry Data Security Standards where applicable. When you pay for the services it will be via RBS Worldpay. Card holder information is held by the third party and not Land Registry. Your attention is drawn to the [privacy policy](http://www.rbsworldpay.com/about_us/index.php?page=terms&c=UK)  of RBS Worldpay.
+
+Customers using our free Property Alert service will be able to see day list information for up to three different title numbers at any given time. They will receive a message sent by email when an application or search is lodged against a title number they have selected. We will disclose details of anyone using the service if a request is made to identify individuals who are searching specific title numbers. 
 
 ### People who use our business e-services
 
@@ -113,7 +115,7 @@ If we do hold information about you, you can ask us to correct any mistakes by, 
 
 Land Registry seeks to ensure that your information and prefernces are accurate and complete. If you wish to view, change your information or opt out of receiving information from us, please let us know by sending your name, full address, email address and company name (if applicable) either:
 
-  * by email to [privacy@landregistry.gov.uk](mailto:privacy@landregistry.gov.uk)
+  * by email to [privacy@landregistry.gsi.gov.uk](mailto:privacy@landregistry.gsi.gov.uk)
   * or write to us at FREEPOST RSZE - TEZA - JCTH, Land Registry, CRM Team, Land Registry Croydon Office, Trafalgar House, 1 Bedford Park, Croydon, CR0 2AQ.  
 
 
@@ -136,12 +138,14 @@ You should note that we are under a duty to comply with the Freedom of Informati
 
 ### Sharing of Information
 
-Land Registry may, where appropriate, share any information held with third parties such as other government departments, law enforcement and regulatory agencies and other relevant bodies, (including Specified Anti – Fraud Organisations under section 68 Serious Crime Act 2007, counter fraud department, and counter fraud organisations and their members)  if it is considered to be:
+Land Registry may, where appropriate, share any information held with third parties such as other government departments, law enforcement and regulatory agencies and other relevant bodies, (including Specified Anti – Fraud Organisations under section 68 Serious Crime Act 2007, counter fraud department, and counter fraud organisations and their members)  if false or inaccurate information is provided and/or if the sharing of information is considered to be:
 
   * in the public interest , for example, investigation of land banking schemes and/or 
   * for the prevention and detection of crime including prevention, detection and investigation of registration fraud,
 
 
+
+Information disclosed to counter fraud organisations may be accessed and used by us and other organisations to prevent fraud and money laundering. Further details explaining how such information held by counter fraud organisations may be used can be obtained from our Data Protection Officer using the contact details set out at the end of this notice.
 
 Information that relates to confirmed fraud will be routinely shared with the Police for one or more of the following policing purposes:
 
