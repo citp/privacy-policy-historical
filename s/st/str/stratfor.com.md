@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stratfor.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603071918id_/http%3A//www.stratfor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stratfor.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230022733id_/http%3A//www.stratfor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stratfor
 
@@ -28,7 +28,7 @@ Cookies: We may employ cookie technology to help visitors and subscribers move f
 
 Security: The personally identifiable information we collect about you is stored in limited access servers. We will maintain safeguards to protect the security of these servers and your personally identifiable information.
 
-Pixels: Stratfor.com uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to: <http://www.doubleclick.net/us/corporate/privacy>.
+Pixels: Stratfor.com uses pixels, cookies or transparent GIF files, to help manage online advertising. These files are provided by one or more of our ad management partners. These files enable those partners to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The information that we collect and share through pixels, cookies and GIF files is anonymous and not personally identifiable. It does not contain your name, address, telephone number or email address.
 
 Policy Modifications: We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically.
 
