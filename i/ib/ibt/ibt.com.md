@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ibt.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513205400id_/http%3A//www.ibtimes.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibt.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230060209id_/http%3A//www.ibtimes.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Privacy Policy
 
 **INTRODUCTION:**  
 This Privacy Policy describes how International Business Times, Inc. ("IBTimes," "us" or "we"), will collect and use your personally identifiable information ("PII") (that is -- your full name, email address, mailing address, telephone number, or credit card number) as well as data that can, under certain circumstances, indirectly lead to PII ("Related Data").
