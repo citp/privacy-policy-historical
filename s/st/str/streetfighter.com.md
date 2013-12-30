@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetfighter.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211071212id_/http%3A//www.capcom.com/capcom/legal_privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetfighter.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230212142id_/http%3A//www.capcom.com/capcom/legal_privacy/privacy.html) for the most accurate reproduction.*
 
 # Capcom Privacy Policy
 
@@ -141,7 +141,7 @@ Since 2005, California Civil Code Section 1798.83 permits our customers who are 
 
 Capcom USA  
 Attn.: Privacy Policy Administrator  
-800 Concar Drive, Suite 300  
+800 Concar Drive, Suite 175  
 San Mateo, CA 94402  
 (650) 350-6500  
 privacy@capcom.com   
@@ -168,7 +168,7 @@ If you have questions or wish to send us comments about this Privacy Policy, ple
 
 Capcom USA  
 Attn.: Privacy Policy Administrator  
-800 Concar Drive, Suite 300  
+800 Concar Drive, Suite 175  
 San Mateo, CA 94402  
 (650) 350-6500  
 privacy@capcom.com   
@@ -189,4 +189,4 @@ privacy@esrb.org
 
 We may amend this Privacy Policy at any time. If we make any material changes in how we collect, use, or share your personal information, we will send you a private message on Capcom-Unity.com and prominently post a notice of the changes on the websites covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective when posted, and your continued use of any of the websites covered by the Privacy Policy after the posting will constitute your acceptance of and agreement to be bound by those changes.
 
-Here is a [PDF version](https://web.archive.org/web/20121211071212id_/http%3A//www.capcom.com/capcom/legal_privacy/Capcom%20Privacy%20Policy.pdf) of our Privacy Policy for those who wish to save or print the contents of this page.
+Here is a [PDF version](https://web.archive.org/web/20131230212142id_/http%3A//www.capcom.com/capcom/legal_privacy/Capcom%20Privacy%20Policy.pdf) of our Privacy Policy for those who wish to save or print the contents of this page.
