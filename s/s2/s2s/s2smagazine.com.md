@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the s2smagazine.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502002358id_/http%3A//s2smagazine.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the s2smagazine.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230102259id_/http%3A//s2smagazine.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | S2SMagazine.com
 
