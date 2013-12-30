@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyspares.co.uk privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604052428id_/http%3A//www.buyspares.co.uk/payment-security/help.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyspares.co.uk privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230150648id_/http%3A//www.buyspares.co.uk/payment-security/help.pl) for the most accurate reproduction.*
 
 # Terms & Conditions
 
@@ -138,7 +138,7 @@ During the process of accepting your payment we may use information received fro
 
 ##### **Charity Donations through Pennies**
 
-We provide you with the opportunity to donate a few pence to charity as part of the checkout process. If you use this facility then your donation will be distributed by The Pennies Foundation, registered charity number 1122489. 75% will go to John Taylor Hospice, 25% will be shared amongst other UK charities. This donation is separate to your Buyspares order and is non-refundable.
+We provide you with the opportunity to donate a few pence to charity as part of the checkout process. If you use this facility then your donation will be distributed by The Pennies Foundation, registered charity number 1122489. 95% of donations is split equally between our charities who are Marie Curie Cancer Care and The League of Friends of the John Taylor Hospice and 5% is retained by Pennies. This donation is separate to your BuySpares order and is non-refundable.
 
   * View Cookie Policy
 
