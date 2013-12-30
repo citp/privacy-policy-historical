@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the portent.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530044741id_/http%3A//www.portent.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portent.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230204920id_/http%3A//www.portent.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Portent, Inc. Privacy Policy – Portent
+# Portent, Inc. Privacy Policy & Terms of Use – Portent
 
 Your privacy is important. The privacy policy outlined below provides information on the data Portent, Inc. collects from you and the ways we protect your data. Please review this policy carefully and contact us if you have any questions.
 
@@ -34,6 +34,17 @@ Portent.com uses the [AdRoll display advertising network](http://www.adroll.com/
 
 Use of our site implies consent to this privacy policy, which is designed for residents of the US. Any changes to the policy will be posted on this page.
 
+## Terms of Use
+
+This Web site is owned and operated by Portent, Inc. for your personal, personal use only.  
+Access to and use of this Site are subject to the following terms and conditions.
+
+By using this Site, you agree to be bound by, these terms of use, whether or not you register as a member. By using this site you represent and warrant that you have the right, authority and capacity to enter into this Agreement and to abide by all of the terms and conditions of this Agreement. We reserve the right, at our discretion, to change, modify, add or remove portions of these terms and conditions at any time. Such changes shall be posted on this page of www.portent.com and shall become effective immediately upon posting. Visitors to this Site should periodically check for changes to these terms. Your continued use of this Site following the posting of changes to these terms and conditions (including the Privacy Policy) will mean you accept these changes.
+
+## Refund / Cancellation policy
+
+Portent.com does not accept returns for downloadable eBooks and videos. For services packages, you may cancel within 24 hours of purchase.
+
 If you have any questions about this policy, contact us at:  
 506 2nd Ave., Suite 1700  
 Seattle, WA 98104  
@@ -41,4 +52,4 @@ USA
 [info@portent.com](mailto:info@portent.com)  
 206.575.3740
 
- _This policy was last modified on November 7, 2012_
+ _This policy was last modified on October 24, 2013_
