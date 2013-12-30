@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maltapark.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615050202id_/http%3A//maltapark.com/Terms/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maltapark.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230032343id_/http%3A//www.maltapark.com/Terms/Privacy.aspx) for the most accurate reproduction.*
 
 # 
 
