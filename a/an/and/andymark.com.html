@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the andymark.com privacy policy that was archived on 2013-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130627142127id_/http%3A//www.andymark.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the andymark.com privacy policy that was archived on 2013-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131230033845id_/http%3A//www.andymark.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
@@ -28,6 +28,7 @@ var Config_CDN_URL = '/'
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -43,7 +44,30 @@ var Config_CDN_URL = '/'
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?currentBuild"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 
 
 <script type="text/javascript" src="/a/j/soft_add.js"></script>
@@ -56,21 +80,20 @@ var Config_CDN_URL = '/'
 </script>
 
 <script type="text/javascript" src="/a/j/soft_add_mult.js"></script>
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.36.0.120"></script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_currentBuild"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
 </script>
 
 
-
+<meta property="twitter:account_id" content="202761475">
 <!-- 
 DYNAMIC PAGE-SPECIFIC META TAGS WILL BE PLACED HERE
 DO NOT ADD YOUR OWN META TAGS
 ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG
 -->
 <link href="/v/vspfiles/templates/151/css/Imports.css" rel="stylesheet" type="text/css">
-<meta name="google-site-verification" content="Lpif4aedqojbajsJ3LXcj9EL1cjonYL0sTjxsDiRYXw">
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <link rel="alternate" type="application/rss+xml" title="AndyMark RSS" href="http://www.andymark.com/AndyMark.xml">
 <script language="javascript" src="/v/vspfiles/assets/js/docreadyfunctions.js" type="text/javascript"></script>
@@ -90,30 +113,18 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=no,scrollbars=no,
 }
 </script>
 
+<!-- jAlert Files -->
+<link rel="stylesheet" type="text/css" href="/v/vspfiles/jAlerts/jquery.alerts.css">
+<script src="/v/vspfiles/jAlerts/jquery.alerts.js"></script>
+
 <!-- FC Additions
 <link rel="stylesheet" type="text/css" href="/v/vspfiles/firstchoice2013/styles.css" />
-<link rel="stylesheet" type="text/css" href="/v/vspfiles/firstchoice2013/jquery.alerts.css" />
-<script src="/v/vspfiles/firstchoice2013/jquery.alerts.js"></script>
 <script src="/v/vspfiles/firstchoice2013/library.js"></script>
  FC Additions -->
 
 <script src="/v/CheckoutFunctions.js"></script>
 
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-19831472-1']);
-  _gaq.push(['_setDomainName', 'andymark.com']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-</head>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body id="body">
 
 <!-- ==================== HEADER ==================== -->
@@ -135,7 +146,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=no,scrollbars=no,
               <input type="text" name="Search" class="empty" value="Search All Products Here" onfocus="if (this.value == 'Search All Products Here') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search All Products Here';}">
               <img src="/v/vspfiles/templates/151/images/template/search_btn.gif" border="0" alt="Search" align="top" style="cursor: pointer;" onclick="document.forms['SearchBoxForm'].submit();">
             </form>
-            <a style="text-align: right; font-family: Arial Narrow; font-size: 12pt; font-style: normal; letter-spacing: 1px;" href="http://www.andymark.com/category-s/271.htm">Search Our Entire Website</a>
+            
          
           </div>
         </div>
@@ -156,7 +167,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=no,scrollbars=no,
         <div id="display_promotions_999"><br><br>
 <br>
 <br>
-<div style="text-align: center;"><span style="font-size: 10pt; font-weight: bold;">PROUD supporter of</span><br><a href="http://www.usfirst.org/"><img src="http://files.andymark.com/FIRST_Logo.png" alt="FIRST Logo" style="width: 120px; height: 104px;" align="middle" border="0"></a></div></div>
+<div style="text-align: center;"><span style="font-size: 10pt; font-weight: bold;">PROUD supporter of</span><br><a href="http://www.usfirst.org/"><img src="https://s3.amazonaws.com/cadfiles/FIRST_Logo.png" alt="FIRST Logo" style="width: 120px; height: 104px;" align="middle" border="0"></a></div></div>
       </td>
 
         <!-- ==================== CONTENT AREA ==================== -->
@@ -196,7 +207,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=no,scrollbars=no,
 <div align="center"><!-- (c) 2005, 2012. Authorize.Net is a registered trademark of CyberSource Corporation --> <div class="AuthorizeNetSeal"> <script type="text/javascript" language="javascript">var ANS_customer_id="ddb35a21-e9a4-4243-96bd-7f65fd2b7f7c";</script> <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script> <a href="http://www.authorize.net/" id="AuthorizeNetText" target="_blank">Payment Processing</a> </div></div>
 </td>
 <td style="width: 175px;">
-<div align="center"><img src="http://files.andymark.com/CreditCardLogos.png"></div>
+<div align="center"><img src="https://s3.amazonaws.com/cadfiles/CreditCardLogos.png"></div>
 </td>
 <td style="width: 175px;">
 <div align="center"><style type="text/css">#volusion_ssl_seal { behavior: url(/a/iepngfix.htc); }</style><br><a href="javascript:void(0);" onclick="window.open('https://www.volusion.com/ssl.asp?url=www.andymark.com', 'VolusionSSL', 'top=10,left=10,menubar=0,resizable=0,scrollbars=0,width=467,height=467')"><img id="volusion_ssl_seal" src="/a/i/seal_volusion1.png" border="0" height="113" width="100"></a><br>
@@ -269,17 +280,17 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=no,scrollbars=no,
   </div>
 </div>
 <!--
-google analytics code
--->
+google analytics code in wrong spot
+
 
 <script type="text/javascript">// <![CDATA[
 var gaJsHost = (("https:" == document.location.protocol) ? " https://ssl." : "http://www.");
 document.write("<" + "script type='text/javascript' src='" + gaJsHost + "google-analytics.com/ga.js'><" + "/script>");
-// ]]></script><script type="text/javascript" src=" https://ssl.google-analytics.com/ga.js"></script>
+// ]]></script>
 <script type="text/javascript">// <![CDATA[
 function v_ga_track(ga_account, trackDomainName, theDomainName) {
   var domainNameTracking = trackDomainName ? true : false;
-  var pageTracker = _gat._getTracker(ga_account);
+  var pageTracker = _gat._createTracker(ga_account);
         pageTracker._setDomainName(".andymark.com");
   pageTracker._initData();
 
@@ -303,8 +314,8 @@ function v_ga_track(ga_account, trackDomainName, theDomainName) {
 v_ga_track("UA-19831472-1");
 // ]]></script>
 
-<!--
-google analytics code
+
+google analytics code in wrong spot
 -->
 
 
@@ -315,9 +326,59 @@ change AM Logo Script
 $(document).ready(function(){
    var randomImages = ['AMChristmas','AMChristmas-1'];
    var rndNum = Math.floor(Math.random() * randomImages.length);
-   $("div#header").css( { background: "url(http://files.andymark.com/" + randomImages[rndNum] + ".gif) no-repeat left top" } );
+   $("div#header").css( { background: "url(https://files.andymark.com/" + randomImages[rndNum] + ".gif) no-repeat left top" } );
 });
 </script>-->
+
+<!-- Freshdesk Widget Script Start-->
+<script type="text/javascript" src="http://assets.freshdesk.com/widget/freshwidget.js"></script>
+<style type="text/css" media="screen, projection">
+	@import url(http://assets.freshdesk.com/widget/freshwidget.css); 
+</style> 
+<script type="text/javascript">
+	FreshWidget.init("", {"queryString": "&widgetType=popup&formTitle=Help+%26+Support&submitThanks=Thank+you+for+submitting+your+support+ticket%2C+we+typically+respond+within+48+business+hours.", "widgetType": "popup", "buttonText": "Product Support", "buttonColor": "white", "buttonBg": "#EB0E00", "backgroundImage": "", "alignment": "4", "offset": "175px", "formHeight": "400px", "url": "http://andymark.freshdesk.com"} );
+</script>
+<!-- Freshdesk Widget Script End-->
+
+<!-- Adroll Analyitics Script Start-->
+<script type="text/javascript">
+adroll_adv_id = "K7UZSP5YQBASDJ2IMBDQFS";
+adroll_pix_id = "MGZHUOAMWVDLDLZ5HYGTGU";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+<!-- Adroll Analyitics Script End -->
+
+<!-- Google Analytics Code Start -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-19831472-1']);
+  _gaq.push(['_setDomainName', 'andymark.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+<!-- Google Analytics Code End -->
+
+</script>
+
 
 
 
