@@ -1,21 +1,22 @@
-<!--The following is the downloaded HTML source of the reneelab.com privacy policy that was archived on 2013-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130623042110id_/http%3A//www.reneelab.com/about_special.php%3Fid%3D5) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reneelab.com privacy policy that was archived on 2013-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131230164233id_/http%3A//www.reneelab.com/about-5.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-<title>Privacy Policy</title>
+<title>Privacy Policy - </title>
 <meta name="keywords" content="Data Recovery Software, Backup and Restore Software, PDF Converter, Reset Windows Password">
 <meta name="description" content="Rene.E Lab offers high quality PC Utilities, PDF Tools, Commercial Encryption etc.">
- <link href="templates/default/images/Style.css?v=20121218" rel="stylesheet" type="text/css">
+ <link href="templates/default/images/Style.css?v=20131025" rel="stylesheet" type="text/css">
+
  <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="templates/default/images/jquery.min.js?v=20121218"></script>
  <script type="text/javascript" src="templates/default/images/Style.js?v=2013032801"></script>
 <script type="text/javascript" src="templates/default/images/msclass.js?v=20121218"></script>
-
+ <script type="text/javascript" src="templates/default/images/jquery.ba-outside-events.min.js"></script>
+<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
  <!--标题栏图标-->
  <link rel="icon" href="favicon.ico" mce_href="favicon.ico" type="image/x-icon">
  <link rel="shortcut icon" href="favicon.ico" mce_href="favicon.ico" type="image/x-icon">
- 
  
  <script type="text/javascript" language="javascript">
     $(document).ready(function() {
@@ -49,72 +50,119 @@
 				{
 				    SetMenuSeleced("coloum7");	
 				}
+				
+				
+				//$('#region').bind("click",function(){ showLang();return false; })
+				
+				setTimeout(function(){
+		          $('#langMenu').bind("clickoutside focusout",function(e){  
+				             var target = $(e.target);
+							 //alert(target.attr("id"));
+							 if(target.attr("id")!="region1" && target.attr("id")!="region2")
+							 {
+						          $('#langMenu').hide();
+							 }
+							 else
+							 {
+							    showLang();
+							 }
+							  
+							 
+						 });
+				  },0)
+				
     }); 
 	
 	function SearchCheck()
 	{
 	    
 	}
+	
+	function showLang()
+	{
+	    var pos = $('#selectDiv').position();
+        var topPosition = pos.top+24;
+        var leftPosition = pos.left - 4;
+		
+        $('#langMenu').css("top",topPosition);
+		$('#langMenu').css("left",leftPosition); 
+		$('#langMenu').show();
+		
+		
+	}
 </script>
+ 
 </head>
 <body style="font-family:Arial;">
+<input type="hidden" id="loginid" name="loginid" value="0">
 <div class="Dbody">
 	<!--顶部-->
 	<div class="topContener">
-		<div class="topleftbg"><a href="home.php"><img src="templates/default/images/site_16.jpg" border="0"></a></div>
+		<div class="topleftbg"><a href="./"><img src="templates/default/images/site_16.jpg" border="0" width="268" height="122"></a></div>
 		<div class="toprightbg">
 			<div id="toprightbanben">
-				<ul>
-									<li><a href="#"><img src="templates/default/images/en-2.jpg" border="0"></a></li>
-										<li><a href="http://www.reneelab.fr"><img src="templates/default/images/fr-1.jpg" border="0"></a></li>
-										<li><a href="http://www.reneelab.de"><img src="templates/default/images/de-1.jpg" border="0"></a></li>
-										<li><a href="http://www.reneelab.it"><img src="templates/default/images/it-1.jpg" border="0"></a></li>
-										<li><a href="http://www.reneelab.es"><img src="templates/default/images/es-1.jpg" border="0"></a></li>
-										<li><a href="http://www.reneelab.biz"><img src="templates/default/images/biz-1.jpg" border="0"></a></li>
-										<li><a href="http://www.reneelab.net/cn"><img src="templates/default/images/cn-1.jpg" border="0"></a></li>
-										<li><a href="http://www.reneelab.net"><img src="templates/default/images/hk-1.jpg" border="0"></a></li>
-										<li><a href="http://www.reneelab.jp"><img src="templates/default/images/jp-1.jpg" border="0"></a></li>
-										<li><a href="http://www.reneelab.kr"><img src="templates/default/images/kr-1.jpg" border="0"></a></li>
-										
-				</ul>
+			  <div style="display:block; z-index:9999; ">
+              			  <div style="float:right">
+			  <ul style="list-style:none; margin-left:98px; line-height:30px;z-index:99999;display:inline">
+			    <li style="width:50px"><img src="templates/default/images/en-2.jpg" border="0" width="30" height="30"></li>
+			    <li id="selectDiv" style="width:auto;"><a href="go/showregion" id="region" onclick="return false;"><span id="region1" style="font-size:16px; color:#666666">English</span><img id="region2" src="templates/default/images/40.png" border="0" width="16" height="16" align="absmiddle"></a></li>
+			    
+			  </ul>
+			  </div>
+			  </div> 
+			  <div id="langMenu" style="display:none; z-index:8888;border:#d6d6d6 solid 1px; background-color:#f5f5f5; width:160px; position:absolute; text-align:left; height:auto; padding-top:1px; padding-bottom:4px">
+			  <div style="float:right; display:block"><a href="/go/close" onclick="$('#langMenu').hide();return false;"><img src="templates/default/images/close.png" border="0"></a></div>
+			  <div style="display:block; margin-top:18px">
+									<a href="http://www.reneelab.fr"><img src="templates/default/images/fr-1.jpg" border="0" width="30" height="30" style="margin-left:5px"></a>
+		 					<a href="http://www.reneelab.de"><img src="templates/default/images/de-1.jpg" border="0" width="30" height="30" style="margin-left:5px"></a>
+		 					<a href="http://www.reneelab.it"><img src="templates/default/images/it-1.jpg" border="0" width="30" height="30" style="margin-left:5px"></a>
+		 					<a href="http://www.reneelab.es"><img src="templates/default/images/es-1.jpg" border="0" width="30" height="30" style="margin-left:5px"></a>
+		 					<a href="http://www.reneelab.biz"><img src="templates/default/images/biz-1.jpg" border="0" width="30" height="30" style="margin-left:5px"></a>
+		 					<a href="http://www.reneelab.com.cn"><img src="templates/default/images/cn-1.jpg" border="0" width="30" height="30" style="margin-left:5px"></a>
+		 					<a href="http://www.reneelab.net"><img src="templates/default/images/hk-1.jpg" border="0" width="30" height="30" style="margin-left:5px"></a>
+		 					<a href="http://www.reneelab.jp"><img src="templates/default/images/jp-1.jpg" border="0" width="30" height="30" style="margin-left:5px"></a>
+		 					<a href="http://www.reneelab.kr"><img src="templates/default/images/kr-1.jpg" border="0" width="30" height="30" style="margin-left:5px"></a>
+		 					<a href="http://www.reneelab.ru/"><img src="templates/default/images/ru-1.jpg" border="0" width="30" height="30" style="margin-left:5px"></a>
+		 					<a href="http://www.reneelab.pl"><img src="templates/default/images/pl-1.jpg" border="0" width="30" height="30" style="margin-left:5px"></a>
+		 			    </div>		
+				
+				</div>
 			</div>
-			<div class="toprightsearch"></div>
-			
-			<div class="toprightsearchbg" style=" margin-left:50px">
+			<div class="toprightsearch" style="margin-top:0px"></div>
+						<div class="toprightsearchbg" style=" margin-left:120px;">
 			  <form name="fheadsearch" action="about_list.php" onsubmit="">
 			  <input type="hidden" name="id" value="6">
-				<input type="text" class="input_text" size="27" name="keyword"><img src="templates/default/images/site_25.jpg" onclick="fheadsearch.submit()" style="cursor:hand;">
-			  </form>	
-			</div>
-		</div>
+				<input type="text" class="input_text" size="27" name="keyword"><img width="40" height="27" src="templates/default/images/site_25.jpg" onclick="fheadsearch.submit()" style="cursor:hand;">
+			  </form>
+			  
+			</div>		</div>
 		
 		<div class="menu">
-		    <input type="hidden" id="CurrentColumn" value="coloum6">
+		    <input type="hidden" id="CurrentColumn" value="coloum1">
 			<div id="menulist">
 				<ul>
-					<li class="UnSelectPic" onmouseover="TopMouse_Over(this);" onmouseout="TopMouse_Out(this);" id="coloum1" onclick="TranferToUrl('index.php')" style="cursor:hand">&nbsp;<a href="index.php"><img src="templates/default/images/home.gif" border="0"></a></li>
+					<li class="UnSelectPic" onmouseover="TopMouse_Over(this);" onmouseout="TopMouse_Out(this);" id="coloum1" onclick="TranferToUrl('./')" style="cursor:hand">&nbsp;<a href="./"><img src="templates/default/images/home.gif" border="0" width="21" height="19"></a></li>
 					<li class="UnSelectPic" onmouseover="TopMouse_Over(this);" onmouseout="TopMouse_Out(this);" id="coloum2" onclick="TranferToUrl('product_all.php')" style="cursor:hand"><a href="product_all.php">Product</a></li>
 					<li class="UnSelectPic" onmouseover="TopMouse_Over(this);" onmouseout="TopMouse_Out(this);" id="coloum7" onclick="TranferToUrl('purchase.php')" style="cursor:hand"><a href="purchase.php">Purchase</a></li>
 					<li class="UnSelectPic" onmouseover="TopMouse_Over(this);" onmouseout="TopMouse_Out(this);" id="coloum3" onclick="TranferToUrl('support_all.php')" style="cursor:hand"><a href="support_all.php">Support</a></li>			
-					<li class="UnSelectPic" onmouseover="TopMouse_Over(this);" onmouseout="TopMouse_Out(this);" id="coloum4" onclick="TranferToUrl('contact.php')" style="cursor:hand"><a href="contact.php">Contact Us</a></li>						
-					<li class="SelectPic" onmouseover="TopMouse_Over(this);" onmouseout="TopMouse_Out(this);" id="coloum6" onclick="window.location.href='about_special.php?id=1'" style="cursor:hand"><a href="about_special.php?id=1">About</a>
+					<li class="UnSelectPic" onmouseover="TopMouse_Over(this);" onmouseout="TopMouse_Out(this);" id="coloum4" onclick="TranferToUrl('contact.php')" style="cursor:hand"><a href="contact.php">Contact Us</a></li>	
+										
+					<li class="UnSelectPic" onmouseover="TopMouse_Over(this);" onmouseout="TopMouse_Out(this);" id="coloum6" onclick="window.location.href='about_special.php?id=1'" style="cursor:hand"><a href="about-1.html">About</a>
 					
 				  </li>			                </ul>
 			</div>
-		</div><table cellpadding="0" cellspacing="0" width="100%" class="SoftwareContener">
-	<tbody><tr>
-		<td valign="top">
+		</div><div class="SoftwareContener msg-1">
+	<div class="msg-1-1" style="background-color:#FFFFFF">
 		<div id="crumbs">
 				<ul>
-					<li><a class="first" href="home.php" title="Home">Home</a></li>
+					<li><a class="first" href="./" title="Home">Home</a></li>
 					<li><a href="#" title="About">About</a></li>
 					<li><a class="last" href="#" title="Privacy Policy">Privacy Policy</a></li>
 				</ul>
 		</div>
 		<div class="Softwareclear"></div>
-		<table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-			<td width="690" valign="top">
+		<div class="msg-1">
+		   <div class="msg-2-1" style=" min-height:600px">
 			<div class="Software2leftconterner">
 			  	<div class="ContractCss">
 				<div class="NewsCssContent" style="word-break:normal;"><table width="96%" align="center" border="0" cellspacing="0" cellpadding="0">
@@ -161,22 +209,23 @@
 </table></div>
 				</div>
 			</div>
-			</td>
-			<td width="1" bgcolor="#d6d6d6"></td>
-			<td width="265" valign="top">
+			</div>
+			
+			<div class="msg-2-3">
 			<div class="Software2rightConterner">
 				
 					<div class="Newsbt">
 						
 						<ul>
-		<li class="lxx3">&nbsp; <a href="about_special.php?id=1" style="">About RENE.E</a></li>
-		<li class="lxx3">&nbsp; <a href="about_list.php?id=6" style="">Press Releases</a></li>
-		<li class="lxx3">&nbsp; <a href="about_special.php?id=7" style="">Offices</a></li>
-		<li class="lxx3">&nbsp; <a href="about_special.php?id=6" style="">Jobs</a></li>
-		<li class="lxx3">&nbsp; <a href="about_special.php?id=5" style="">Privacy Policy</a></li>
-		<li class="lxx3">&nbsp; <a href="about_special.php?id=4" style="">Terms of Use</a></li>
-		<li class="lxx3">&nbsp; <a href="about_special.php?id=3" style="">License Agreements</a></li>
-		<li class="lxx3">&nbsp; <a href="about_special.php?id=22" style="">Testimonials</a></li>
+			<li class="lxx3">&nbsp; <a href="about-1.html" style="">About RENE.E</a></li>
+			<li class="lxx3">&nbsp; <a href="about_list.php?id=6" style="">Press Releases</a></li>
+			<li class="lxx3">&nbsp; <a href="about-7.html" style="">Offices</a></li>
+			<li class="lxx3">&nbsp; <a href="about-6.html" style="">Jobs</a></li>
+			<li class="lxx3">&nbsp; <a href="about-5.html" style="">Privacy Policy</a></li>
+			<li class="lxx3">&nbsp; <a href="about-4.html" style="">Terms of Use</a></li>
+			<li class="lxx3">&nbsp; <a href="about-3.html" style="">License Agreements</a></li>
+			<li class="lxx3">&nbsp; <a href="about-22.html" style="">Testimonials</a></li>
+			<li class="lxx3">&nbsp; <a href="about-54.html" style="">Link</a></li>
 	</ul>
 					</div>
 					<div class="Software2rightjg"></div>				<script type="text/javascript">
@@ -221,12 +270,11 @@ function qgcheckaddbook2()
 </form>
 					<div class="Software2rightjg"></div>	
 		    </div>
-			</td>
-			</tr>
-		</tbody></table>
-		</td>
-		</tr>
-		</tbody></table>
+           </div>
+		   </div>
+		   </div>
+		   </div>
+		  
 <script language="javascript">
 
 </script>
@@ -247,19 +295,19 @@ function qgcheckaddbook2()
 			<div class="pagebottomContentRow">
 				<ul>
 					<li class="pagebottomContentRow11"><a href="support_all.php">Support</a></li>
-										    <li class="pagebottomContentRow22"><a href="support_all.php?id=72 ">Features</a></li>
-										    <li class="pagebottomContentRow22"><a href="support_all.php?id=77 ">FAQ</a></li>
-										    <li class="pagebottomContentRow22"><a href="support_all.php?id=78 ">Screenshots</a></li>
+										    <li class="pagebottomContentRow22"><a href="support-all-72.html ">Features</a></li>
+										    <li class="pagebottomContentRow22"><a href="support-all-77.html ">FAQ</a></li>
+										    <li class="pagebottomContentRow22"><a href="support-all-78.html ">Screenshots</a></li>
 									</ul>		
 			</div>
 			<div class="pagebottomContentRow">
 				<ul>
 					<li class="pagebottomContentRow11"><a href="#">Business</a></li>
-										      <li class="pagebottomContentRow22"><a href="contract.php">Message</a></li>
-										      <li class="pagebottomContentRow22"><a href="about_special.php?id=7">Offices</a></li>
-										      <li class="pagebottomContentRow22"><a href="about_special.php?id=5">Privacy Policy</a></li>
-										      <li class="pagebottomContentRow22"><a href="about_special.php?id=4">Terms of Use</a></li>
-										      <li class="pagebottomContentRow22"><a href="about_special.php?id=3">License Agreements</a></li>
+										      <li class="pagebottomContentRow22"><a href="http://support.reneelab.com/anonymous_requests/new">Message</a></li>
+										      <li class="pagebottomContentRow22"><a href="about-7.html">Offices</a></li>
+										      <li class="pagebottomContentRow22"><a href="about-5.html">Privacy Policy</a></li>
+										      <li class="pagebottomContentRow22"><a href="about-4.html">Terms of Use</a></li>
+										      <li class="pagebottomContentRow22"><a href="about-3.html">License Agreements</a></li>
 									</ul>		
 			</div>
 			<div class="pagebottomContentRow">
@@ -272,15 +320,15 @@ function qgcheckaddbook2()
 			</div>
 			<div class="pagebottomContentRow" style="width:100px;margin-left:30px">
 				<ul>
-				<li><a href="http://www.siteadvisor.com/sites/reneelab.com" target="_blank"><img src="templates/default/images/1.jpg" border="0"></a></li>
+				<li><a href="http://www.siteadvisor.com/sites/reneelab.com" target="_blank"><img src="templates/default/images/1.jpg" border="0" width="91" height="50"></a></li>
 				<li style="height:5px">&nbsp;</li>
-				<li><a href="http://safeweb.norton.com/report/show?url=reneelab.com" target="_blank"><img src="templates/default/images/2.jpg" border="0"></a></li>
+				<li><a href="http://safeweb.norton.com/report/show?url=reneelab.com" target="_blank"><img src="templates/default/images/2.jpg" border="0" width="91" height="50"></a></li>
 				</ul>
 				</div>
 		</div>
 	</div>
 	<div class="pagebottomImg"></div>
-	<div class="pagebottomCopyRight">Copyright © 2012 Rene.E Laboratory . All Rights Reserved.</div>
+	<div class="pagebottomCopyRight">Copyright © 2012 Rene.E Laboratory . All Rights Reserved.&nbsp;&nbsp;</div>
 </div>
 <script language="JavaScript">
 var wholePare = -1;
@@ -291,15 +339,75 @@ function callback(evt) {
   if((target.href!=undefined && target.href!="")  || target.tagName=="IMG") { if(!evt.shiftKey && target.getAttribute("showBlank")==null){wholePare = 1;} }
 }  
 
-//}
 
+window.onunload = function(e){
+   
+   //var totalPageNum = getCookie("__checkPageNum");
+   //totalPageNum = parseInt(totalPageNum) - 1;
+   
+   //addCookie("__checkPageNum",totalPageNum.toString(),0);
+   //alert('close');
+}
+
+window.onbeforeunload = function(e){
+   //alert(wholePare);
+   //alert(getCookie("__checkPayStatus"));
+   //判断是否关闭页面
+   e = e || window.event; 
+// For IE and Firefox prior to version 4 
+
+ if (e) { 
+    //LoginOut();
+ } 
+} 
+//}
+function LoginOut(){
+   if($("#loginid").val() != undefined && $("#loginid").val()!="0")
+   {
+      $.ajax({
+            type: "get",
+            url: "GetAction.php?id=" + $("#loginid").val(),
+            cache: false,
+            async: true,
+            success: function(data) {
+
+            },
+            error: function(XMLHttpRequest, textStatus, errorThrown) {
+
+                //alert("加载失败!");
+
+            }
+        });
+		if(flag==0)
+		{
+		  setTimeout(Stop,4000);
+		  flag = 1;
+		}
+		else
+		{
+		   
+		}
+   }
+   else
+   {
+        clearInterval(tm);    
+   }
+}
+var flag = 0;
+var tm = setInterval(LoginOut,1000);
+
+function Stop(){
+   clearInterval(tm);
+   tm = setInterval(LoginOut,10000);
+}
 
  function   closeErrors()   {   
   return   true;   
   }   
   window.onerror=closeErrors;  
   
-   
+  
+ 
     var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-38198269-1']);
   _gaq.push(['_setDomainName', 'reneelab.com']);
@@ -314,14 +422,17 @@ function callback(evt) {
   
    
    
+ 
+ 
    
+ 
    
+ 
  
    
    
    
-   
-  </script> 
+   </script> 
 
 <!-- Google Code for &#20877;&#33829;&#38144;&#20195;&#30721; -->
 <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
