@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scripted.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625072229id_/http%3A//scripted.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripted.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230170120id_/http%3A//scripted.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Scripted
 
@@ -50,9 +50,9 @@ If at any time You decide to remove Your personally identifiable information fro
 
 Scripted, Inc.
 
-379A Clementina Street
+797 Bryant Street
 
-San Francisco, CA 94103
+San Francisco, CA 94107
 
 Upon such removal, Scripted may not be able to provide certain services or features of the Website to You.
 
