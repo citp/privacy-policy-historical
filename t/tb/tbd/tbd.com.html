@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tbd.com privacy policy that was archived on 2013-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630163433id_/http%3A//www.wjla.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tbd.com privacy policy that was archived on 2013-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131230101932id_/http%3A//www.wjla.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" dir="ltr" class="js"><head>
 
@@ -109,7 +109,6 @@
 <script type="text/javascript" src="http://www.wjla.com/js/jsr_class.js"></script>
 <link href="http://www.wjla.com/css/jsonSuggest.css" rel="stylesheet" type="text/css">
 <script src="http://www.wjla.com/js/plugins/jquery.xml2json.js" type="text/javascript"></script>
-<script src="http://www.wjla.com/js/plugins/jquery.weathertop.js" type="text/javascript"></script>
 <script src="http://www.wjla.com/js/login.js" type="text/javascript"></script>
 
 
@@ -135,29 +134,41 @@ if(WEATHERPHRASE == null || WEATHERPHRASE == '' || WEATHERPHRASE == undefined){
 	setCookie("WEATHERPHRASE",WEATHERPHRASE,1000,"/","wjla.com");
 }
 	
-$(document).ready(function(){
-	var thezip = '20005';
-	var thephrase = 'CURRENT CONDITIONS'
-	$('#currentConditionsTop').weatherCurrentConditionTop(
-		thezip,{
-		imageurl: "http://images.wjla.com",
-		locationDisp: thephrase
-	});
-});
-
 </script>
-
 
 
 <link rel="alternate" type="application/rss+xml" title="Main news feed" href="http://www.wjla.com/rss/all.xml">
 <link rel="alternate" type="application/rss+xml" title="Another feed" href="http://www.wjla.com/rss/">
 
-<script src="http://scripts.verticalacuity.com/vat/mon/vtw.js" type="text/javascript"></script>
 
+				<script src="http://www.wjla.com/js/jquery.jsonp.js" type="text/javascript"></script>
+				<script src="http://www.wjla.com/js/plugins/jquery.weather2.js" type="text/javascript"></script>
+				<script>		
+					$(document).ready(function(){
+						
+						$.fn.refreshWeatherTop = function(xml) {
+							if ($.weather.jsontop == null || $.weather.jsontop == '' || $.isEmptyObject($.weather.jsontop) ){
+								return false;
+							}
+							var thezip = '20005';
+							var thephrase = 'CURRENT CONDITIONS'
+							$('#currentConditionsTop').weatherCurrentConditionTop(
+								thezip,{
+								imageurl: "http://images.wjla.com/weather/sm/",
+								locationDisp: thephrase
+							});
+						};
+						
+						$.fn.getTwuFeedTop("20005");
+						
+					});
+			
+				</script>
+			
 <script>
 var ldpth = "/includes/";
 
-var dynsvr = "http://my.wjla.com";
+var dynsvr = "http://www.wjla.com/p";
 </script>
 <script src="http://www.wjla.com/js/widgets.js"></script>
 </head>
@@ -207,7 +218,7 @@ dcCat="null";
 ord=Math.random()*10000000000000000;
 //<![CDATA[
 document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6526/adj/allb.wjla/uncat;tile=1;pos=top;cat=null;sz=728x90,980x90;KW=null;ord=' + ord + '?"><\/script>');
-</script><script type="text/javascript" src="http://ad.doubleclick.net/N6526/adj/allb.wjla/uncat;tile=1;pos=top;cat=null;sz=728x90,980x90;KW=null;ord=8458083467046431?"></script>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/N6526/adj/allb.wjla/uncat;tile=1;pos=top;cat=null;sz=728x90,980x90;KW=null;ord=9610766110068792?"></script>
 <noscript><a href="http://ad.doubleclick.net/N6526/jump/allb.wjla/uncat;tile=1;pos=top;cat=null;reg=null;sz=728x90,980x90;KW=null;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/N6526/ad/allb.wjla/uncat;tile=1;pos=top;cat=null;reg=null;sz=728x90,980x90;KW=null;ord=123456789?" border="0" alt="" /></a></noscript>
 <!--// end ad tag -->
 
@@ -225,7 +236,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6
 	
 
 	<div id="header" role="banner">
-		<h1 id="siteLogo"><a href="http://www.wjla.com" class="team-jacqui-scott-amanda">WJLA</a></h1> 
+		<h1 id="siteLogo"><a href="http://www.wjla.com" class="team-autria-jummy-jacqui-amanda">WJLA</a></h1> 
 		
 		<div class="full-wrap">
 			
@@ -256,21 +267,18 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6
 	</div><!--/#header-->
 
 	
-	
-	<div id="currentConditionsTop" class="current-conditions full-wrap">
-
-
-		<div class="inner">
-			<a href="http://www.wjla.com/weather" title="Get full weather report">
-			<div class="weather-city">Current Conditions</div>
-			<div class="temp">80°</div>
-			
-			<div class="condition">Partly Cloudy</div>
-			<img id="currentConditionsImg" src="http://images.wjla.com/weather/sm/32.png" alt="Partly Cloudy" class="weather-visual">
-			</a>
-		</div><!--/.inner-->
-	</div><!--/.current-conditions-->
-	
+		<div id="currentConditionsTop" class="current-conditions full-wrap">
+			<div class="inner">
+				<a href="http://www.wjla.com/weather" title="Get full weather report">
+				<div class="weather-city"></div>
+				<div class="temp"></div>
+				<div class="high-low"></div>
+				<div class="condition"></div>
+				<img src="" alt="" class="weather-visual" id="currentConditionsImg" width="52" height="52">
+				</a>
+			</div><!--/.inner-->
+		</div><!--/.current-conditions-->
+		
 
 	<div id="mainWrapper">
 		
@@ -298,17 +306,19 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6
 					
 								<li class="nav-video first"><a href="http://www.wjla.com/video/" class="flagged-lighter-blue">Video</a></li>
 							
+								<li class="nav-govmatters"><a href="http://www.wjla.com/news/government-matters/" class="flagged-lighter-blue">GovMatters</a></li>
+							
+								<li class="nav-politics"><a href="http://www.wjla.com/politics/" class="flagged-lighter-blue">Politics</a></li>
+							
 								<li class="nav-entertainment"><a href="http://www.wjla.com/entertainment/" class="flagged-lighter-blue">Entertainment</a></li>
 							
-								<li class="nav-bizgov"><a href="http://www.wjla.com/news/bizgov/" class="flagged-lighter-blue">bizgov</a></li>
-							
-								<li class="nav-health"><a href="http://www.wjla.com/health/" class="flagged-lighter-blue">Health</a></li>
+								<li class="nav-health"><a href="http://www.wjla.com/health/" class="flagged-blue">Health</a></li>
 							
 								<li class="nav-abc7-alerts"><a href="http://www.wjla.com/newsletter-signup/" class="flagged-red">ABC7 Alerts</a></li>
 							
 								<li class="nav-powerjobs"><a href="http://www.powerjobs.com" class="flagged-lighter-blue">Powerjobs</a></li>
 							
-								<li class="nav-newschannel8- last current"><a href="http://www.wjla.com/news/newschannel-8/" class="flagged-lighter-blue">NEWSCHANNEL8 </a></li>
+								<li class="nav-newschannel8- last current"><a href="http://www.wjla.com/news/newschannel-8/" class="flagged-blue">NEWSCHANNEL8 </a></li>
 							
 				</ul>
 			</div><!--/primaryNavigation-->
@@ -321,24 +331,20 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6
 						<h5>Hot Topics »</h5>
 						<ul> 
 							
-										<li class=""><a href="http://www.wjla.com/articles/2013/06/scotus-expected-to-rule-on-doma-prop-8-wednesday-90573.html">DOMA/Prop 8</a></li>
+										<li class=""><a href="http://www.wjla.com/articles/2013/12/xavier-hawkins-police-seek-suspect-who-shot-se-santa-98547.html">Santa shot in D.C.</a></li>
 									
-										<li class=""><a href="http://www.wjla.com/articles/2013/06/aaron-hernandez-arrested-at-north-attleboro-mass-home-90604.html">Aaron Hernandez</a></li>
+										<li class=""><a href="http://www.wjla.com/articles/2013/12/target-credit-card-breach-seven-things-to-know-about-the-hack-98351.html">Target breach</a></li>
 									
-										<li class=""><a href="http://www.wjla.com/articles/2013/06/joe-lefeged-colts-safety-arrested-in-d-c--90752.html">Joe Lefeged</a></li>
+										<li class=""><a href="http://www.wjla.com/articles/2013/12/delta-to-honor-extra-low-mistake-fares--98565.html">Mistake fares</a></li>
 									
-										<li class=""><a href="http://www.wjla.com/articles/2013/06/obama-will-not-visit-mandela-in-hospital-90747.html">Nelson Mandela</a></li>
-									
-										<li class="last"><a href="http://my.wjla.com/contests/twitteripad2?reset=true">Win an iPad</a></li>
+										<li class="last"><a href="http://www.wjla.com/articles/2013/12/new-year-most-americans-happy-to-say-goodbye-to-2013-says-poll-98575.html">Goodbye 2013?</a></li>
 									
 						</ul> 
 					</div><!--/.buzz-list-->
 				
 				
 		<div id="searchContainer">
-			<div class="search-sponsor">
-				
-			</div><!--/search-sponsor-->
+			
 			<form role="search" method="get" action="http://www.wjla.com/search/" id="siteSearch" enctype="application/x-www-form-urlencoded">
 				<label for="rampSearch" class="populate">Search WJLA.com</label>
 				<input type="text" id="rampSearch" name="key" value="" autocomplete="off">
@@ -357,7 +363,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6
         	<div id="mainContent" role="main">
 				
         <h1 class="co-branded">Privacy Policy</h1>
-<div class="last-updated">Last Updated: 4/3/2013</div>
+<div class="last-updated">Last Updated: 10/04/2013</div>
 
 <h2>PRIVACY PRACTICES</h2>
 <p>This statement discloses the privacy practices for the WJLA.com website, mobile websites and applications associated therewith (together, the "Website") a service provided by WJLA-TV/NewsChannel 8, a division of Allbritton Communications Company ("WJLA"). Questions regarding this statement should be directed to WJLA at privacy@wjla.com or 1100 Wilson Blvd., 6th Floor, Arlington, Virginia 22209. This privacy policy does not apply to data collected offline including, but not limited to, data collected via the mail, telephone or at live events.</p> 
@@ -372,7 +378,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6
 <p>WJLA may present information collected from users of the Website to third parties. Such information is generally in the form of aggregated statistics on traffic within the Website, although from time to time, WJLA may share personal information on users of the Website with those marketing products and services that we believe may be of interest to users.</p>
 
 <h2>Cookies</h2>
-<p>To help make the Website more responsive to the needs of users, the Website employs a standard feature of browser software, called a "cookie," to assign each user a unique, random number that resides on a user's computer. The cookie does not personally identify the user; it merely identifies the computer with which the user accesses the Website. Unless a user voluntarily identifies himself or herself (through registration, for example), the Website will not be able to identify the identity of the user, even if a cookie is assigned to a user's computer. The only personal information a cookie can contain is information supplied by a user. The advertisers on the Website may also assign their own cookies to a user's browser, a process that WJLA does not control. The Website uses cookies to help tailor the Website and deliver a more personalized service. Of course, users are free to instruct their web browsers not to accept cookies; however, doing so may render a computer unable to take advantage of the personalized features enjoyed by other users of the Website.</p> 
+<p>To help make the Website more responsive to the needs of users, the Website employs a standard feature of browser software, called a "cookie," to assign each user a unique, random number that resides on a user's computer. The cookie does not personally identify the user; it merely identifies the computer with which the user accesses the Website. Unless a user voluntarily identifies himself or herself (through registration, for example), the Website will not be able to identify the identity of the user, even if a cookie is assigned to a user's computer. The only personal information a cookie can contain is information supplied by a user. The advertisers on the Website may also assign their own cookies to a user's browser, a process that WJLA does not control. The Website uses cookies to help tailor the Website and deliver a more personalized service. Of course, users are free to instruct their web browsers not to accept cookies and/or opt-out of third party cookies via the <a href="http://www.networkadvertising.org/">Network Advertising Initiative</a> or other websites; however, doing so may render a computer unable to take advantage of the personalized features enjoyed by other users of the Website.</p> 
 
 <h2>IP Addresses &amp; Device Information</h2>
 <p>The Website's servers automatically collect limited information about a user's computer's connection to the Internet, including a user's IP address. (The IP address is a number that lets computers attached to the Internet know where to send data - such as the web pages users view.) An IP address does not personally identify a user.  We may also track device identification statistics and other non-identifying information for the purpose of analytics, push notifications, and error reporting.  The Website uses this information to deliver its content to users upon request, to tailor the Website to a user's interests, and to measure traffic within the Website.</p> 
@@ -405,7 +411,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6
 dcCat="null";
 //<![CDATA[
 document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6526/adj/allb.wjla/uncat;tile=2;pos=top;cat=null;sz=300x250;KW=null;ord=' + ord + '?"><\/script>');
-</script><script type="text/javascript" src="http://ad.doubleclick.net/N6526/adj/allb.wjla/uncat;tile=2;pos=top;cat=null;sz=300x250;KW=null;ord=8458083467046431?"></script>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/N6526/adj/allb.wjla/uncat;tile=2;pos=top;cat=null;sz=300x250;KW=null;ord=9610766110068792?"></script>
 <noscript><a href="http://ad.doubleclick.net/N6526/jump/allb.wjla/uncat;tile=2;pos=top;cat=null;reg=null;sz=300x250;KW=null;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/N6526/ad/allb.wjla/uncat;tile=2;pos=top;cat=null;reg=null;sz=300x250;KW=null;ord=123456789?" border="0" alt="" /></a></noscript>
 <!--// end ad tag -->
 
@@ -512,8 +518,11 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6
 		
 		
 	</div><!--/footer-->
+
 <script type="text/javascript">
 var _sf_async_config={uid:25380,domain:"wjla.com"};
+_sf_async_config.sections = "";
+_sf_async_config.authors = "";
 (function(){
   function loadChartbeat() {
     window._sf_endpt=(new Date()).getTime();
@@ -534,4 +543,4 @@ var _sf_async_config={uid:25380,domain:"wjla.com"};
 
 
 
-<!--  timestamp {ts '2013-06-30 00:59:30'} --><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+<!--  timestamp {ts '2013-12-30 00:59:59'} --><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
