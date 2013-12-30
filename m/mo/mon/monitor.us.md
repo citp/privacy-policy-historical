@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monitor.us privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528165232id_/http%3A//www.monitor.us/privacy-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monitor.us privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230111611id_/http%3A//www.monitor.us/en/privacy-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy - Monitor.Us
 
@@ -29,7 +29,7 @@ __qca|  Various| This cookie is used to measure the websites 'audience reach' us
 WRUID| [www.monitor.us ](http://www.monitor.us/)| This cookie is used by Clicktale, a website analytics system, to record an identication number for each visitor.  
 _jsuid| [www.monitor.us](http://www.monitis.com/)| This cookie is used by Clicktale, a website analytics system, to record an identication number for each visitor  
 __utmc| Various| This takes a timestamp of the exact moment in time when a visitor leaves a site.  
-SAPISID| [google.com](https://plus.google.com/u/0/103596530823599548330/posts)| This is used a part of the Google + sharing facility.  
+SAPISID| google.com| This is used a part of the Google + sharing facility.  
 bcookie| [linkedin.com](http://www.linkedin.com/groups/MonitorUs-4368759?home=&gid=4368759&trk=anet_ug_hm)| This is a cookie used by LinkedIn as part of the sharing functionality on some pages on this website.  
 __utma| Various| This cookie keeps track of the number of times a visitor has been to the site pertaining to the cookie, when their first visit was, and when their last visit occurred. Google Analytics uses the information from this cookie to calculate things like Days and Visits.  
 __utmz| Various| Keeps track of where the visitor came from, what search engine you used, what link you clicked on, what keyword you used, and where they were in the world when you accessed the website.  
@@ -37,14 +37,14 @@ __utmv| Various| This is a Google Analytics cookie. It is used for user-custom v
 __utmb| [linkedin.com](http://www.linkedin.com/groups/MonitorUs-4368759?home=&gid=4368759&trk=anet_ug_hm)| This is a Google Analytics cookie. It takes a timestamp of the exact moment in time when a visitor enters a site.  
 _leo_profile| [linkedin.com](http://www.linkedin.com/groups/MonitorUs-4368759?home=&gid=4368759&trk=anet_ug_hm)| This is a cookie used by LinkedIn as part of the sharing functionality on some pages on this website.  
 _lipt| [linkedin.com](http://www.linkedin.com/groups/MonitorUs-4368759?home=&gid=4368759&trk=anet_ug_hm)| This is a cookie used by LinkedIn as part of the sharing functionality on some pages on this website.  
-lang| [google.com](https://plus.google.com/u/0/103596530823599548330/posts)| This is a Google Analytics cookie  
-rememberme| [google.com](https://plus.google.com/u/0/103596530823599548330/posts)| This is a Google Analytics cookie  
-SS| [google.com](https://plus.google.com/u/0/103596530823599548330/posts)| This is a Google Analytics cookie  
-HSID| [google.com](https://plus.google.com/u/0/103596530823599548330/posts)| This is a Google Analytics cookie  
-SSID| [google.com](https://plus.google.com/u/0/103596530823599548330/posts)| This is a Google Analytics cookie  
-APISID| [google.com](https://plus.google.com/u/0/103596530823599548330/posts)| This is a Google Analytics cookie  
-PREF| [google.com](https://plus.google.com/u/0/103596530823599548330/posts)| This is a Google Analytics cookie  
-NID| [google.com](https://plus.google.com/u/0/103596530823599548330/posts)| This is a Google Analytics cookie  
+lang| google.com| This is a Google Analytics cookie  
+rememberme| google.com| This is a Google Analytics cookie  
+SS| google.com| This is a Google Analytics cookie  
+HSID| google.com| This is a Google Analytics cookie  
+SSID| google.com| This is a Google Analytics cookie  
+APISID| google.com| This is a Google Analytics cookie  
+PREF| google.com| This is a Google Analytics cookie  
+NID| google.com| This is a Google Analytics cookie  
 SID| [linkedin.com](http://www.linkedin.com/groups/MonitorUs-4368759?home=&gid=4368759&trk=anet_ug_hm)| This is a cookie used by LinkedIn as part of the sharing functionality on some pages on this website.  
 visit| [linkedin.com](http://www.linkedin.com/groups/MonitorUs-4368759?home=&gid=4368759&trk=anet_ug_hm)| This is a cookie used by LinkedIn as part of the sharing functionality on some pages on this website.  
 leo_auth_toekn| [linkedin.com](http://www.linkedin.com/groups/MonitorUs-4368759?home=&gid=4368759&trk=anet_ug_hm)| This is a cookie used by LinkedIn as part of the sharing functionality on some pages on this website.  
