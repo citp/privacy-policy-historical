@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wvgazettemail.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624030313id_/http%3A//www.cnpapers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wvgazettemail.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230043022id_/http%3A//www.cnpapers.com/privacy) for the most accurate reproduction.*
 
-# 
+# None
 
   * I. Information That We Collect
   * II. AP News Registry
