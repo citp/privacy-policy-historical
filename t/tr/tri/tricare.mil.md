@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tricare.mil privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521121351id_/http%3A//tricare.mil/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tricare.mil privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231000102id_/http%3A//www.tricare.mil/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -8,15 +8,15 @@ For site management, information is collected for statistical purposes. This gov
 
 Below is an example of the information collected based on a standard request for a World Wide Web document: 
 
-> > >   1. xxx.yyy.com - [28/Jan/1997:00:00:01 -0500] "GET /sitename/news/nr012797.html HTTP/1.0" 200 16704 Mozilla 3.0/www.altavista.digital.com
+> > >   1. xxx.yyy.com - [28/Jan/1997:00:00:01 -0500] "GET /sitename/news/nr012797.html HTTP/1.0" 200 16704 Mozilla 3.0/www.altavista.digital.com 
   2. xxx.yyy.com (or 123.123.23.12) - this is the host name (or IP address) associated with the requester (you as the visitor). In this case, (....com) the requester is coming from a commercial address. 
-  3. Depending on the requestor's method of network connection, the host name (or IP address) may or may not identify a specific computer. Connections via many Internet Service Providers assign different IP addresses for each session, so the host name identifies only the ISP. The host name (or IP address) will identify a specific computer if that computer has a fixed IP address.
-  4. [28/Jan/1997:00:00:01 -0500] - this is the date and time of the request.
-  5. "GET /sitename/news/nr012797.html HTTP/1.0" -- this is the location of the requested file.
-  6. 200 -- this is the status code - 200 is OK - the request was filled.
-  7. 16704 -- this is the size of the requested file in bytes.
-  8. Mozilla 3.0 -- this identifies the type of browser software used to access the page, which indicates what design parameters to use in constructing the pages.
-  9. www.altavista.digital.com -- this indicates the last site the person visited, which indicates how people find this site. Requests for other types of documents use similar information. No other user-identifying information is collected.
+  3. Depending on the requestor's method of network connection, the host name (or IP address) may or may not identify a specific computer. Connections via many Internet Service Providers assign different IP addresses for each session, so the host name identifies only the ISP. The host name (or IP address) will identify a specific computer if that computer has a fixed IP address. 
+  4. [28/Jan/1997:00:00:01 -0500] - this is the date and time of the request. 
+  5. "GET /sitename/news/nr012797.html HTTP/1.0" -- this is the location of the requested file. 
+  6. 200 -- this is the status code - 200 is OK - the request was filled. 
+  7. 16704 -- this is the size of the requested file in bytes. 
+  8. Mozilla 3.0 -- this identifies the type of browser software used to access the page, which indicates what design parameters to use in constructing the pages. 
+  9. www.altavista.digital.com -- this indicates the last site the person visited, which indicates how people find this site. Requests for other types of documents use similar information. No other user-identifying information is collected. 
 
 
 
@@ -28,4 +28,4 @@ Unauthorized attempts to upload information or change information on this servic
 
 If you have any questions or comments about the information presented here, please forward them via [Site Feedback](mailto:WebsiteFeedback@tma.osd.mil?subject=Website%20Feedback).
 
-Last Updated 12/17/2012
+Last Updated 9/3/2013
