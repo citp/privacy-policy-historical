@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsflag.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630080612id_/http%3A//jobsflag.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsflag.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230073418id_/http%3A//jobsflag.com/privacy.php) for the most accurate reproduction.*
 
 # Career Opportunities In Your Area
 
@@ -7,8 +7,8 @@
 This Privacy Policy applies to all of the products, services and websites offered by jobsflag.com or its subsidiaries or affiliated companies. In addition, we may from time to time add new sites that may or may not be listed in this Privacy Policy. Please note that this policy applies only to the information collected through this website and not to websites maintained by other companies or organizations to which we link. In addition, this policy applies only to information collected by us online, not offline. If you have any questions about this Privacy Policy, please feel free to contact us through our website or write to us at: 
 
 jobsflag.com  
-223 W Bulldog Blvd #523  
-Provo Utah 84604 
+1178 South State 2nd Floor  
+Orem Utah 84097 
 
 To opt-out of future marketing communications please click [Unsubscribe](https://web.archive.org/unsubscribe.php)
 
