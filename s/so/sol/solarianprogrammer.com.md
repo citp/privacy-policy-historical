@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solarianprogrammer.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616111552id_/http%3A//solarianprogrammer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarianprogrammer.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230060503id_/http%3A//solarianprogrammer.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Solarian Programmer
 
