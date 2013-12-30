@@ -1,10 +1,13 @@
-<!--The following is the downloaded HTML source of the brainyquote.com privacy policy that was archived on 2013-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130607211701id_/http%3A//www.brainyquote.com/inquire/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brainyquote.com privacy policy that was archived on 2013-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131231005342id_/http%3A//www.brainyquote.com/inquire/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head><script src="https://web.archive.org/st/js/177721/jq_plugins.js"></script><script src="https://web.archive.org/st/js/177721/core.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head><script src="https://web.archive.org/st/js/472915/jq_plugins.js"></script><script src="https://web.archive.org/st/js/472915/core.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 <title>BrainyQuote - Privacy Policy</title>
 <meta name="googlebot" content="NOODP">
 <meta property="og:site_name" content="BrainyQuote">
+<meta property="ver" content="2.3.1:472915">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta property="ts" content="1388444810">
 <meta property="og:type" content="article">
 <meta property="og:image" content="http://i.brainyquote.com/i/fbl.jpg">
 <meta property="og:image:type" content="image/jpeg">
@@ -14,8 +17,10 @@
 <link rel="canonical" href="http://www.brainyquote.com/inquire/privacy.html">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="alternate" media="only screen and (max-width: 640px)" href="http://mobile.brainyquote.com/inquire/privacy.html">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://cdn.yb0t.com/js/yieldbot.intent.js"></script><script type="text/javascript" src="http://js.bqcpu.com/javascript/jsInit.php"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://cdn.yb0t.com/js/yieldbot.intent.js"></script><script type="text/javascript">BQ_TBAN="";BQ_TTOP="";BQ_TMID="";BQ_TBOT="";</script>
+<script type="text/javascript" src="http://js.bqcpu.com/javascript/jsInit.php"></script>
 <script type="text/javascript">
  var ybotq = ybotq || [];
  (function() {
@@ -35,6 +40,28 @@ ybotq.push(function () {
 });
 </script>
 <script type="text/javascript">
+ var konsole={log: function(args){}, dir:function(args){}};
+ if (typeof window.console != 'undefined' && typeof window.console.log == 'function') { konsole = window.console; }
+
+ function ReadCookie(name) {
+     var nameEQ = name + "=";
+     var ca = document.cookie.split(';');
+     for(var i=0;i < ca.length;i++) {
+         var c = ca[i];
+         while (c.charAt(0)==' ') c = c.substring(1,c.length);
+         if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+     }
+     return null;
+}
+ 
+ function qc_results(result) {
+   quantSegs = [];
+   for (var i = 0; i < result.segments.length; i++) {
+      quantSegs.push(result.segments[i].id);
+   }        
+   document.cookie = "quantcast_segments=" + quantSegs.join('|');
+ }          
+
  var googletag = googletag || {};
  googletag.cmd = googletag.cmd || [];
  (function() {
@@ -49,12 +76,12 @@ ybotq.push(function () {
   })();
  
  
- STICKY_ON = ((Math.random() * 100)  < 50);
+ STICKY_ON = ((Math.random() * 100)  < 0);
  ST_AD_DIVS=[];
  var slot;
  
-   
  if (ST_AD_DIVS.length==0) {STICKY_ON=false;} 
+ 
   
  ybotq.push(function() {
   googletag.cmd.push(function() {		
@@ -62,20 +89,26 @@ ybotq.push(function () {
    .setTargeting('ybot_ad', yieldbot.adAvailable('BQ_ros_top_728x90'))
    .setTargeting('ybot_slot', 'BQ_ros_top_728x90')
    .addService(googletag.pubads());
+   if (BQ_TBAN!='') { slot.setTargeting('pr',BQ_TBAN); }
 
   slot=googletag.defineSlot('/1008298/BQ_ros_square_300x250', [300, 250], 'div-gpt-ad-1348185546004-2')
    .setTargeting('ybot_ad', yieldbot.adAvailable('BQ_ros_square_300x250'))
    .setTargeting('ybot_slot', 'BQ_ros_square_300x250')
    .addService(googletag.pubads());
+   if (BQ_TTOP!='') { slot.setTargeting('pr',BQ_TTOP); }
 
 
    if (typeof(BQ_CC) == "undefined" || !BQ_CC) {
 	   BQ_CC = "99";
    }
-   var konsole={log: function(args){}, dir:function(args){}};
-   if (typeof window.console != 'undefined' && typeof window.console.log == 'function') { konsole = window.console; }	   	   
    googletag.pubads().setTargeting("bq_cc", BQ_CC);
    googletag.pubads().setTargeting("bq_cc_dvc", BQ_CC + "|" + BQ_DVC);
+
+   var qcc = ReadCookie("quantcast_segments");
+   if (qcc) {
+	   // konsole.log("qcc=", qcc);
+       googletag.pubads().setTargeting("quantcast", qcc.split("|"));
+   }
    konsole.log("t bq_cc_dvc=" + BQ_CC + "|" + BQ_DVC);
    googletag.pubads().enableSingleRequest();
    googletag.pubads().collapseEmptyDivs();
@@ -85,6 +118,7 @@ ybotq.push(function () {
 });
 
  </script>
+<script type="text/javascript" src="http://pixel.quantserve.com/api/segments.json?a=p-berY5RRQGbf0c&amp;callback=qc_results"></script>
 <script type="text/javascript">
 IS_MBL=0;
 
@@ -101,19 +135,19 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
 
 </script>
+<script type="text/javascript" src="http://scripts.webspectator.com/ws-F5A6D6C5.js"></script>
+<link href="http://cf.shareasimage.com/static/app/css/publisher.css" type="text/css" rel="stylesheet">
 <script type="text/javascript">if (window!=top){top.location.href=location.href;};</script>
 <meta name="robots" content="noindex">
-<link href="/st/css/177721/core.css" media="screen, print" type="text/css" rel="stylesheet">
+<link href="/st/css/472915/core.css" media="screen, print" type="text/css" rel="stylesheet">
 </head>
 <body>
-<div id="bq_top_ad" align="center">
+<div align="center">
  
-<div id="div-gpt-ad-1348185546004-3" class="bq_ad_90min">
+<div id="div-gpt-ad-1348185546004-3" class="bq_ad_90min  wsz" data-pid="3271">
 <script type="text/javascript">
-	ybotq.push(function() {
-	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1348185546004-3'); });
-	});
-	</script>
+		ybotq.push(function() {googletag.cmd.push(function() { googletag.display('div-gpt-ad-1348185546004-3'); });
+		});</script>
 </div>
 </div>
  
@@ -121,7 +155,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <div class="container">
 <div class="row">
 <div class="span12" style="text-align: center">
-<a href="/"><img src="/st/img/177721/bql.png" id="bqlimg" width="420" height="90" alt="BrainyQuote Logo"></a>
+<a href="/"><img src="/st/img/472915/bql.png" id="bqlimg" width="420" height="90" alt="BrainyQuote Logo"></a>
 </div>
 </div>
 </div>
@@ -396,24 +430,26 @@ privacy policy fun, exciting, enjoyable, and memorable for our readers
 <div class="bq_s">
 <div class="bq_ad_320x250">
  
-<div id="div-gpt-ad-1348185546004-2" class="bq_ad_320x250">
+<div id="div-gpt-ad-1348185546004-2" class="bq_ad_320x250  wsz" data-pid="3270">
 <script type="text/javascript">
-	ybotq.push(function() {
-	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1348185546004-2'); });
-	});
-	</script>
+		ybotq.push(function() {googletag.cmd.push(function() { googletag.display('div-gpt-ad-1348185546004-2'); });
+		});</script>
 </div>
 </div>
 </div>
 </div>
 </div>
 </div>
+<script type="text/javascript">
+PF_ON = ((Math.random() * 100) < 3);
+
+</script>
 <div class="bq_bot_nav bq-no-print">
 <div class="container">
 <div class="row">
 <div class="span3" style="position:relative">
 <div style="float:left; position:absolute; top:-25px">
-<img src="/st/img/177721/pinwheel.gif">
+<img src="/st/img/472915/pinwheel.gif">
 </div>
 <div style="height:75px"></div>
 <div class="bq_s">
@@ -458,6 +494,7 @@ privacy policy fun, exciting, enjoyable, and memorable for our readers
 <div class="bqLn"><a href="/link/feed_funny.html">Funny Quote Feed</a></div>
 <div class="bqLn"><a href="/link/feed_love.html">Love Quote Feed</a></div>
 <div class="bqLn"><a href="/link/feed_nature.html">Nature Quote Feed</a></div>
+<div class="bqLn"><a href="/link/wordpress_plugin.html">WordPress Plugin</a></div>
 </div>
 </div>
 <div class="span3">
@@ -479,21 +516,28 @@ privacy policy fun, exciting, enjoyable, and memorable for our readers
 <footer class="footer bq-no-print">
 <div class="container">
 <div class="sixteen columns alpha" style="text-align: center;">
-<span class="small" style="vertical-align:top"><a href="/inquire/copyright.html" style="vertical-align:top">Copyright</a>© 2001 - 2013 BrainyQuote®
+<span class="small" style="vertical-align:top"><a href="/inquire/copyright.html" style="vertical-align:top">Copyright</a> © 2001 - 2013 BrainyQuote®
 &nbsp; &nbsp; &nbsp; BookRags Media Network &nbsp; &nbsp; &nbsp;</span>
-<img src="http://i.brainyquote.com/i/Tend_160x48_gry.gif" border="0" width="160" height="48" alt="Glam Media Logo">
+<img src="http://i.brainyquote.com/i/Tend_160x48_gry.gif" border="0" width="160" height="48" alt="Glam Media Logo"><img id="lon" src="/images/1x1.png" width="25" height="30">
 <br><br><br>
 </div>
 </div>
 </footer>
+<div id="bq__lg" style="display:none"></div>
 <script type="text/javascript" src="/st/js/LAB203.js"></script>
 <script type="text/javascript">
+function authorCl(a, i, pos) { _gaq.push(['_trackEvent', 'Popular Authors', 'Author ' + pos + ' Click', a, i, true]); }
+function topicCl(t, i, pos) { _gaq.push(['_trackEvent', 'Popular Topics', 'Topic ' + pos + ' Click', t, i, true]); }
 
+var addToHomeConfig = {
+    expire: 43829, 
+    touchIcon:true
+};
 VIS_DIVS = [];
 
 
 BQ_MBL=0;
-RID = "177721";
+RID = "472915";
 
 
 
