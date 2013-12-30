@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the edweek.org privacy policy that was archived on 2013-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531125449id_/http%3A//www.edweek.org/info/about/privacy-policy.html%3Fintc%3Dthed) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the edweek.org privacy policy that was archived on 2013-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131230030602id_/http%3A//www.edweek.org/info/about/privacy-policy.html%3Fintc%3Dthed) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     
@@ -16,7 +16,7 @@ on_before_html_head - end
 
 -->
 
-<!-- T:page_events-on_before_html_head:(0.00015091896057129} s-->
+
     <title>Privacy Statement</title>
     
 
@@ -45,17 +45,18 @@ on_before_html_head - end
   function _hbLink(p1, p2){}
   function _hbPageView(p1, p2){}
 </script>
-<script type="text/javascript"> // <!--
+<script type="text/javascript">
 var s_account="epeglobal";
-// --></script>
-<script language="JavaScript" type="text/javascript" src="/js/sc.js?v=132"></script>
+</script>
+<script language="JavaScript" type="text/javascript" src="/js/sc.js?v=139"></script>
 <script type="text/javascript">
 <!-- //
 s.prop32 = 'free tier';s.prop36 = 'FULL';// -->
-</script><!-- T:sc-:(0.00072216987609863} s-->
-<script type="text/javascript"> // <!--
-s._login=false;s._preview=false;s._slu=false;s._level=0;s._access=0;s._prof=0;s.channel="info";s.server="www.edweek.org";
-// --></script><!-- ---- BEGIN g_analytics.html ---- --> 
+</script>
+<script type="text/javascript">
+s._isinternal = false;
+s._login=false;s._preview=false;s._slu=false;s._level=0;s._access=0;s._prof=0;s.channel="info";s.server="www.edweek.org";s.prop53=s.eVar53="";
+</script><!-- ---- BEGIN g_analytics.html ---- --> 
 <script type="text/javascript">
   var act = "UA-4758180";
   
@@ -87,6 +88,167 @@ on_after_html_head - start
 
 -->
 
+<!--BEGIN PAGE OBJECT-->
+
+
+<script type="text/javascript">
+<!--
+	function EPEUser(parent) 
+	{ 
+		this.parent = parent; 
+		this.is_logged = false;
+		this.is_sitelicense = false; 
+		this.type = 'anonymous'; 
+		this.profession = 0;
+		this.name = ''; 
+		this.id = '';
+	}
+-->
+</script>
+
+<script type="text/javascript">
+<!--
+	function EPETracker(parent) 
+	{ 
+		this.parent = parent; 
+	}
+	EPETracker.prototype.FireEvent = function (f, g)
+	{ 
+        if ( (null != g) && ("" != g) && (0 != g) ) 
+		{
+            s.linkTrackVars = 'events,prop15,eVar15'; 
+            s.linkTrackEvents = 'event' + g.toString();
+            s.events = 'event' + g.toString();
+            var link_name = f;
+            s.prop15 = s.eVar15 = link_name + ':' + s.pageName;
+			s.tl(window, 'o', link_name);
+        }	
+	}
+	EPETracker.prototype.fireevent = function(linkValue, linkEvents, linkVarIDs, linkDelay, linkRedirect, linkFormNameSubmit) 
+	{
+		try {
+			var s = s_gi(s_account); //clears any existing vars when there are multiple link tracker events on a page
+			s.linkTrackVars='prop15,eVar15'; //default for all hits
+			
+			// Create array of events
+			var linkEventsArray = linkEvents.split(',');
+			var optEvtSuffix = [,,,,,,"_registration_initiation","_registration","_subscription", "_login", "_newsletter_signup", "", "_print_content", "_email_content", , "_leave_comment", "_recommend_comment", "_bookmark_content", "_recommend_story", , "_download",,,,,,"_submit_calendar_listing","_submit_site_license_request",,,,,,,,,,,,,"_update_profile"];
+			var eventStr = "";
+			var currentEvent = "";
+		
+			// Look through the events
+			for (var i = 0; i < linkEventsArray.length; i++) {				
+				if (eventStr != "") eventStr += ",";
+				
+				currentEvent = parseInt(linkEventsArray[i]); // See if the event passed is a number
+				if (!isNaN(currentEvent)) { 
+					eventStr += "event" + linkEventsArray[i]; // If it's a number, prepend 'event' to it.
+					
+					//if it's a number, see if we can find it in the optEvetSuffix array defined above for Optimizely call
+					if (optEvtSuffix[currentEvent]) {
+						var optEvtStr = "sc_event" + currentEvent + optEvtSuffix[currentEvent];
+						console.log("Event Found. Sending " + optEvtStr + " event to Optimizely");
+						window.optimizely = window.optimizely || [];		
+						window.optimizely.push(['trackEvent', optEvtStr]);
+					}
+					
+				} else {  // If it's NOT a number, just add it to the eventStr (ie 'products')
+					eventStr += linkEventsArray[i];		
+				}
+			}
+			
+			//If we have linkEvents
+			if (linkEvents) {
+				s.linkTrackVars += ',events'; // Make sure we add 'events' to end so events are sent
+				s.events = s.linkTrackEvents = eventStr; // Set s.events to s.linkTrackEvents which is set to eventStr
+			}
+			else
+			{
+				s.linkTrackEvents = 'None';
+			}
+			
+			if (linkVarIDs) {
+				//loop through comma-separated list and build out eVars and sProps
+				var linkVarArr = linkVarIDs.split(',');
+				for (var i = 0; i < linkVarArr.length; i++) {
+					console.log("Varid: " + linkVarArr[i]);
+					currentVar = parseInt(linkVarArr[i]); // Set first array value as an integer
+					if (!isNaN(currentVar)) { // If it's a number, than create the prop and evar for it
+						console.log("currenVar is a number");
+						s.linkTrackVars += ',prop' + linkVarArr[i] + ',eVar' + linkVarArr[i];												
+					} else { // If it's not a number, just add it (ie 'products');
+						console.log("currenVar is NOT a number");
+						s.linkTrackVars += "," + linkVarArr[i];					
+					}
+				}
+			}
+			
+			//Console.log out what seems to be working in the RegistrationInit function to make sure we have the same values
+			console.log("s.linkTrackVars: " + s.linkTrackVars + "\ns.linkTrackEvents: " + s.linkTrackEvents + "\ns.products: " + s.products + "\ns.events: " + s.events);			
+			
+			s.prop15 = linkValue + ':' + s.pageName;
+			s.eVar15 = 'D=c15';		
+			s.tl(true, 'o', linkValue);
+			
+			// Delay the submission of the form if needed
+			if (linkDelay && (linkRedirect || linkFormNameSubmit)) {
+				setTimeout(function() {
+					if (linkRedirect) {
+						console.log("Redirecting to: " + linkRedirect);
+						window.location.href=linkRedirect;
+					} else if (linkFormNameSubmit)
+						document.forms[linkFormNameSubmit].submit();
+				}, 700);
+				return false;
+			}
+		} catch(e) {
+			console.log("Threw Error: " + e.message);
+		} finally {
+		
+		}
+	}	
+	-->
+</script>
+
+<script type="text/javascript">
+<!--
+	function EPEPage()
+	{
+		this.user = new EPEUser(this);
+		this.tracker = new EPETracker(this);
+	}
+-->
+</script>
+
+<script type="text/javascript">
+<!--
+	var page = new EPEPage();
+-->
+</script>
+
+
+<!--END PAGE OBJECT-->
+	<!-- BEGIN global_js.html -->
+    <script type="text/javascript" src="http://www.edweek.org/js/common.js"></script>
+    <script type="text/javascript" src="http://www.edweek.org/js/flash.js"></script>
+    <script type="text/javascript" src="http://www.edweek.org/js/jquery.js?v=172"></script>
+    <script type="text/javascript" src="http://www.edweek.org/js/tabpane.js"></script>
+    <script type="text/javascript" src="/js/blog.js"></script>
+    <script type="text/javascript" src="http://www.edweek.org/js/featuredcontentglider.js">
+    /***********************************************
+    * Featured Content Glider script- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+    * Visit http://www.dynamicDrive.com for hundreds of DHTML scripts
+    * This notice must stay intact for legal use
+    ***********************************************/
+    </script>	
+    <script type="text/javascript" src="http://www.edweek.org/js/jquery.hoverIntent.minified.js"></script>  
+    <script type="text/javascript">
+       jQuery.noConflict();
+       var $j = jQuery;
+    </script>
+	<script type="text/javascript" src="/js/metermessage_v2-min.js"></script>  
+    <script src="//cdn.optimizely.com/js/315407138.js"></script>
+	<!-- END global_js.html -->
 
 <!--
 
@@ -94,7 +256,7 @@ on_after_html_head - end
 
 -->
 
-<!-- T:page_events-on_after_html_head:(2.3126602172852E-5} s--></head>
+</head>
 <body>
 
 <!-- #container begin --> 
@@ -113,7 +275,7 @@ on_before_page - end
 
 -->
 
-<!-- T:page_events-on_before_page:(1.3828277587891E-5} s-->
+
 
     
 <!--
@@ -129,29 +291,23 @@ on_before_page_header - end
 
 -->
 
-<!-- T:page_events-on_before_page_header:(1.2874603271484E-5} s-->    <!-- #header begin -->
-<script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script>
-<script type="text/javascript" src="/js/jquery.hoverIntent.minified.js"></script>
-<script type="text/javascript">
-    jQuery.noConflict();
-    var $j = jQuery;
-</script>
+    <!-- #header begin -->
 <link rel="stylesheet" href="/js/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen">
 <script type="text/javascript" src="/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
 <script type="text/javascript" src="/js/fancybox/jquery.easing-1.3.pack.js"></script>
 <!-- BEGIN ONEBYONE -->
-<div style="height:0;"><script type="text/javascript" src="http://ad.doubleclick.net/adj/info/info;-1;tile=1;sz=1x1;dcopt=ist;ord=88751416;r=a;"></script></div>
+<div style="height:0;"><script type="text/javascript" src="http://ad.doubleclick.net/adj/info/info;-1;tile=1;sz=1x1;dcopt=ist;ord=91339863;r=a;"></script></div>
 <!-- END ONEBYONE -->
 
  
 
 <div id="header">
-    <!-- #global nav menu --><div class="header-nav"><ul id="globalnav"><li><a href="http://www.edweek.org/?intc=thed" class="onelevel">Education Week</a></li><li><a href="http://www.edweek.org/tm/?intc=thed" class="onelevel">Teacher</a></li><li><a href="http://www.edweek.org/dd/?intc=thed" class="onelevel">Digital Directions</a></li><li><a href="http://www.edweek.org/ii/?intc=thed" class="onelevel">Industry &amp; Innovation</a></li><li><a href="http://www.topschooljobs.org/?intc=thed" class="onelevel">TopSchoolJobs</a></li><li><a href="#" class="twolevels">Shop</a><div class="sub"><ul><li><h2> </h2></li><li class="twolevels"><a href="http://www.edweek.org/store.html?iSFCatId=4&amp;intc=tabsa">Annual Reports</a></li><li class="twolevels"><a href="http://www.edweek.org/go/books">Books</a></li><li class="twolevels"><a href="http://www.edweek.org/store.html?iSFCatId=10&amp;intc=tabsi">Back Issues</a></li><li class="twolevels"><a href="http://www.edweek.org/ew/marketplace/products/edweek_spotlights.html?intc=tabsl">Edweek Spotlights</a></li><li class="twolevels"><a href="http://www.edweek.org/offer.html?intc=tabss">Subscriptions</a></li><li class="twolevels"><a href="http://www.edweek.org/subscriptions/multi-user/index.html?intc=thed">Site Licenses</a></li><li class="twolevels"><a href="http://www.edweek.org/info/about/reprints.html?intc=thed">Reprints</a></li></ul></div></li><li><a href="#" class="twolevels">Advertise</a><div class="sub"><ul><li><h2> </h2></li><li class="twolevels"><a href="http://www.topschooljobs.org/employerx/?utm_source=edweek.org&amp;utm_medium=link&amp;utm_content=Recruitment%2BAdvertising&amp;utm_campaign=leads&amp;intc=thed">Recruitment Advertising</a></li><li class="twolevels"><a href="http://www.edweek.org/advertise/?intc=thed">Display Advertising</a></li><li class="twolevels"><a href="http://www.edweek.org/ew/marketplace/whitepapers/white-papers.html?intc=thed">White Papers</a></li><li class="twolevels"><a href="http://pddirectory.edweek.org/?intc=thed">Professional Development Directory</a></li></ul></div></li></ul><div class="searchtool-default"><div id="Re09searchBox"><form action="/search.html" method="get"><input type="text" id="Re09searchFld" onfocus="this.value=''" maxlength="100" size="25" name="qs"><input type="submit" id="Re09searchBtn" value=""></form></div><a id="Re09advSearchLink" href="http://www.edweek.org/search.html">Advanced Search</a></div><!--end .searchtoolspon--></div><!-- #global nav menu -->
+    <!-- #global nav menu --><div class="header-nav"><ul id="globalnav"><li><a href="http://www.edweek.org/?intc=thed" class="onelevel">Education Week</a></li><li><a href="http://www.edweek.org/tm/?intc=thed" class="onelevel">Teacher</a></li><li><a href="http://www.edweek.org/dd/?intc=thed" class="onelevel">Digital Directions</a></li><li><a href="http://www.edweek.org/ii/?intc=thed" class="onelevel">Industry &amp; Innovation</a></li><li><a href="http://www.topschooljobs.org/?intc=thed" class="onelevel">TopSchoolJobs</a></li><li><a href="#" class="twolevels">Shop</a><div class="sub"><ul><li><h2> </h2></li><li class="twolevels"><a href="http://www.edweek.org/store.html?iSFCatId=4&amp;intc=tabsa">Annual Reports</a></li><li class="twolevels"><a href="http://www.edweek.org/go/books">Books</a></li><li class="twolevels"><a href="http://www.edweek.org/store.html?iSFCatId=10&amp;intc=tabsi">Back Issues</a></li><li class="twolevels"><a href="http://www.edweek.org/ew/marketplace/products/edweek_spotlights.html?intc=tabsl">Edweek Spotlights</a></li><li class="twolevels"><a href="http://www.edweek.org/offer.html?intc=tabss">Subscriptions</a></li><li class="twolevels"><a href="http://www.edweek.org/subscriptions/multi-user/index.html?intc=thed">Group Subscription</a></li><li class="twolevels"><a href="http://www.edweek.org/info/about/reprints.html?intc=thed">Reprints</a></li></ul></div></li><li><a href="#" class="twolevels">Advertise</a><div class="sub"><ul><li><h2> </h2></li><li class="twolevels"><a href="http://www.topschooljobs.org/employerx/?utm_source=edweek.org&amp;utm_medium=link&amp;utm_content=Recruitment%2BAdvertising&amp;utm_campaign=leads&amp;intc=thed">Recruitment Advertising</a></li><li class="twolevels"><a href="http://www.edweek.org/advertise/?intc=thed">Display Advertising</a></li><li class="twolevels"><a href="http://www.edweek.org/ew/marketplace/whitepapers/white-papers.html?intc=thed">White Papers</a></li><li class="twolevels"><a href="http://pddirectory.edweek.org/?intc=thed">Professional Development Directory</a></li></ul></div></li></ul><div class="searchtool-default"><div id="Re09searchBox"><form action="/search.html" method="get"><input type="text" id="Re09searchFld" onfocus="this.value=''" maxlength="100" size="25" name="qs"><input type="submit" id="Re09searchBtn" value=""></form></div><a id="Re09advSearchLink" href="http://www.edweek.org/search.html">Advanced Search</a></div><!--end .searchtoolspon--></div><!-- #global nav menu -->
     
     
     <div id="header-center">
         <div id="masthead">
-            <!-- <div class="dateline">May 31, 2013</div> -->
+            <!-- <div class="dateline">December 29, 2013</div> -->
             <a href="http://www.edweek.org/info/about/"><img src="/images/spacer.gif" id="ewlogo" width="300" height="50px" alt="Education Week"></a>
         </div>
         <div id="header-tools">
@@ -276,7 +432,7 @@ on_before_page_header - end
 
 <!-- #header script begin -->
 
-<!-- T:page_header:(0.062948942184448}-->    
+    
 <!--
 
 on_after_page_header - start
@@ -290,7 +446,7 @@ on_after_page_header - end
 
 -->
 
-<!-- T:page_events-on_after_page_header:(2.598762512207E-5} s-->
+
 
 <!--
 
@@ -305,7 +461,7 @@ on_before_top_ad - end
 
 -->
 
-<!-- T:page_events-on_before_top_ad:(1.4066696166992E-5} s--><!-- There is no top ad here -->
+<!-- There is no top ad here -->
 
 <!--
 
@@ -320,7 +476,7 @@ on_after_top_ad - end
 
 -->
 
-<!-- T:page_events-on_after_top_ad:(1.2874603271484E-5} s-->
+
   
 <!-- #content begin --> 
 <div id="content"> 
@@ -338,7 +494,7 @@ on_before_page_content - end
 
 -->
 
-<!-- T:page_events-on_before_page_content:(1.1920928955078E-5} s-->
+
 
 
 
@@ -478,7 +634,7 @@ on_before_page_content - end
                   
                 </div>
 <!-- left nav ends -->
-<!-- T:left_menu:(0.025471925735474}--><!-- left nav ends -->
+<!-- left nav ends -->
 
 <!-- #center-well begin --> 
 <div id="center-well"> 
@@ -500,7 +656,7 @@ on_before_center_column - end
 
 -->
 
-<!-- T:page_events-on_before_center_column:(2.4080276489258E-5} s--> 
+ 
 <!-- Start Content for Search -->
 
 <h1>Privacy Statement</h1>
@@ -727,7 +883,7 @@ on_after_center_column - end
 
 -->
 
-<!-- T:page_events-on_after_center_column:(1.5974044799805E-5} s--></div><!--#center-well-content end--> 
+</div><!--#center-well-content end--> 
 </div><!-- #center-well end --> 
  
 
@@ -744,7 +900,7 @@ on_after_page_content - end
 
 -->
 
-<!-- T:page_events-on_after_page_content:(1.3113021850586E-5} s--></div><!-- #content end --> 
+</div><!-- #content end --> 
 
     
 <!--
@@ -760,7 +916,7 @@ on_before_page_footer - end
 
 -->
 
-<!-- T:page_events-on_before_page_footer:(1.3113021850586E-5} s-->    <div id="site-footer">
+    <div id="site-footer">
             <div id="footer-links">
                                                                                                                                                                                                                                     
                   <ul class="services left">
@@ -777,7 +933,7 @@ on_before_page_footer - end
                                                                                                                                                                                                                                                                                                                                      
                               <li>•<a href="http://www.edweek.org/newsletter.html?intc=hpftr">Manage E-Newsletters/<br>Preferences </a></li>
                                                                                                                                                                                                                                                                                                                                      
-                              <li>•<a href="http://www.edweek.org/subscriptions/multi-user/index.html?intc=thed">Site Licenses </a></li>
+                              <li>•<a href="http://www.edweek.org/subscriptions/multi-user/index.html?intc=thed">Group Subscription </a></li>
                             
                                       </ul>
                   
@@ -882,7 +1038,7 @@ src="http://m.edweek.org/b/ss/educationweek/1/H.20.3--NS/0"
 height="1" width="1" border="0" alt="" /></a></noscript>
 <!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.20.3. -->
-<!-- T:page_footer:(0.023421049118042}-->    
+    
 <!--
 
 on_after_page_footer - start
@@ -896,7 +1052,7 @@ on_after_page_footer - end
 
 -->
 
-<!-- T:page_events-on_after_page_footer:(2.3841857910156E-5} s-->
+
 
 
 <!--
@@ -905,70 +1061,14 @@ on_after_page - start
 
 -->
 
-<!--BEGIN PAGE OBJECT-->
-
-
-<script type="text/javascript">
-<!--
-	function EPEUser(parent) 
-	{ 
-		this.parent = parent; 
-		this.islogged = false;
-		this.issitelicense = false; 
-		this.type = 'anonymous'; 
-		this.profession = 0;
-		this.name = ''; 
-		this.id = '';
-	}
--->
-</script>
-
-<script type="text/javascript">
-<!--
-	function EPETracker(parent) 
-	{ 
-		this.parent = parent; 
-	}
-	EPETracker.prototype.FireEvent = function (f, g)
-	{ 
-        if ( (null != g) && ("" != g) && (0 != g) ) 
-		{
-            s.linkTrackVars = 'events,prop15,eVar15'; 
-            s.linkTrackEvents = 'event' + g.toString();
-            s.events = 'event' + g.toString();
-            var link_name = f;
-            s.prop15 = s.eVar15 = link_name + ':' + s.pageName;
-			s.tl(window, 'o', link_name);
-        }	
-	}
--->
-</script>
-
-<script type="text/javascript">
-<!--
-	function EPEPage()
-	{
-		this.user = new EPEUser(this);
-		this.tracker = new EPETracker(this);
-	}
--->
-</script>
-
-<script type="text/javascript">
-<!--
-	var page = new EPEPage();
--->
-</script>
-
-
-<!--END PAGE OBJECT-->
+<div id="meteredMessageContainer" style="display:none;">[MESSAGE]</div>
 <!--
 
 on_after_page - end
 
 -->
 
-<!-- T:page_events-on_after_page:(0.0023400783538818} s--></div><!-- #container end --> 
+</div><!-- #container end --> 
 
 
 
