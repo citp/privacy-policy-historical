@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tennis.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527054634id_/http%3A//www.tennis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennis.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230103003id_/http%3A//www.tennis.com/privacy-policy) for the most accurate reproduction.*
 
-# Tennis
+# TENNIS.com
 
 Thank you for visiting TENNIS.com, a Miller Sports Group LLC site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Miller Sports Group LLC. This web site is governed by this Privacy Notice.
 
@@ -59,7 +59,7 @@ We may also use small pieces of code called "web beacons" or "clear gifs" to col
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect.
 
 **How You can Access or Correct Information**  
-To inquire about personally identifiable information that this Miller Sports Group LLC site has collected about you, or how to correct factual errors in such information, please email us by [clicking here](http://www.tennis.com/info/contactus/index.aspx).
+To inquire about personally identifiable information that this Miller Sports Group LLC site has collected about you, or how to correct factual errors in such information, please email us by [clicking here](http://www.tennis.com/contact-us/).
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 
@@ -70,7 +70,7 @@ The site you are visiting is one of the Miller Sports Group LLC general audience
 This Notice may be changed by Miller Sports Group LLC. The revised Notice will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.
 
 **How to Contact Us**  
-If you have any questions or concerns about the Miller Sports Group LLC Privacy Notice or its implementation please contact us via email by [clicking here](http://www.tennis.com/info/contactus/index.aspx) or at the following address:
+If you have any questions or concerns about the Miller Sports Group LLC Privacy Notice or its implementation please contact us via email by [clicking here](http://www.tennis.com/contact-us/) or at the following address:
 
 814 South Westgate  
 Suite 100  
