@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adam.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630035412id_/http%3A//www.adam.com/privacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adam.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230195546id_/http%3A//www.adam.com/privacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
