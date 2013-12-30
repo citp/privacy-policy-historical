@@ -1,14 +1,16 @@
-<!--The following is the downloaded HTML source of the producerloops.com privacy policy that was archived on 2013-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130403152012id_/http%3A//www.producerloops.com/privacy-policy-and-legal-statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the producerloops.com privacy policy that was archived on 2013-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131231001931id_/http%3A//www.producerloops.com/privacy-policy-and-legal-statement.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml"><head prefix="og: http://ogp.me/ns# 
+		 fb: http://ogp.me/ns/fb# 
+		 product: http://ogp.me/ns/product#">
 <title>Privacy Policy and Legal Statement - Producer Loops</title>
 <meta name="description" content="Privacy Policy and Legal Statement">
 <meta name="keywords" content="Privacy Policy and Legal Statement">
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="language" content="en">
-<script type="text/javascript">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5C5V9"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">
 <!--
 var number_format_dec = '.';
 var number_format_th = '';
@@ -23,13 +25,10 @@ var current_area = 'C';
 
 
  
-
-
 <link rel="stylesheet" href="http://www.producerloops.com/skin1//skin1.css">
-
 <link type="text/css" href="http://www.producerloops.com/skin1//jquery-ui-1.8.4.custom.css" rel="stylesheet">
 <!--<script type="text/javascript" src="/flowplayer/flowplayer-3.2.11.min.js"></script>	-->
-<script type="text/javascript" src="http://www.producerloops.com/skin1//jquery-1.4.2.min.js"></script> 
+	<script type="text/javascript" src="http://www.producerloops.com/skin1//jquery-1.4.2.min.js"></script> 
 <script type="text/javascript" src="http://www.producerloops.com/skin1//jquery-ui-1.8.4.custom.min.js"></script> 
 <script type="text/javascript" src="http://www.producerloops.com/skin1//jquery.lightbox-0.5.pack.js"></script>
 <script type="text/javascript" src="/skin2/js/swfobject.js"></script> 
@@ -76,21 +75,22 @@ function hideBuyNow() {
 
 
 var selected = 0;
+var jplayer_ready = false;
 	$(function() {
-	
+		
 		$('#overlay-buy-dialog').dialog({
 			autoOpen: false,
 			width: 600,
 			open: function() { 
 				var $prod_data = $("#overlay-buy-dialog");
                 //$(this).load('/api/buynow.php', {productid: $prod_data.data('productid'), skin_dir: 'skin1'});
-				$(this).load('/api/buynow_skin1.php', {productid: $prod_data.data('productid'), skin_dir: 'skin1'});
+				$(this).load('/api/buynow_skin1.php', {productid: $prod_data.data('productid'), skin_dir: 'skin1', lang: ''});
             }
 		});
 	
 		$("#tags").autocomplete({
 		
-					source: 'http://www.producerloops.com/api/ac.php',
+					source: 'http://www.producerloops.com//api/ac.php',
 				
 	   		select: function(event, ui) { 
 				document.getElementById('including_phrase').value = 'phrase';
@@ -117,11 +117,16 @@ var selected = 0;
 		
 		$('.play_btn').click(function(e) {
 			e.preventDefault();
+			
 			//$("#header").css('padding-top', '25px');
 			//$("#jp_container_1").show();
+			
 			$("#jquery_jplayer_1")
 				.jPlayer("setMedia", {mp3: this.rel })
 				.jPlayer("play");
+			
+			//console.log($('#jquery_jplayer_1').data().jPlayer.status.readyState);
+			
 			return false;
 		});
 		
@@ -134,11 +139,13 @@ var selected = 0;
 	
 	function playMP3(mp3_demo) {
 		$("#jquery_jplayer_1").jPlayer({
-			/*ready: function () {
-				$(this).jPlayer("setMedia", {
+			ready: function () {
+				/*$(this).jPlayer("setMedia", {
 					mp3: mp3_demo
-				});
-			},*/
+				});*/
+				jplayer_ready = true;
+				$(".play_btn").css('display', 'block');
+			},
 			//errorAlerts: true,
 			swfPath: "/jplayer/Jplayer.swf",
 			supplied: "mp3", 
@@ -166,9 +173,71 @@ var has_free_left = 0;
 var showed = ''
 </script>
 <script type="text/javascript" src="http://www.producerloops.com/skin1//notice.js"></script>
+
+
+
+<meta name="robots" content="noodp, noydir">
+<meta name="google-site-verification" content="-MN-xs-jJJSOaUmoLEM4v01zxUNnkEoU5vmBb2rpB4E">
+<meta name="google-site-verification" content="Y5_w8I2XZa3d4o9wFeCr08waB-PHRJIW7ENIWm1fTRA">
+
+
+<script type="text/javascript">
+	
+	$(function() {
+		$("body").prepend("<div id='snow_div_gif' \/>");  
+		/*var snowflake_count = 40;
+		if ($.browser.mozilla) {
+			snowflake_count = 30;
+		}
+		if (!$.browser.mozilla) {
+			$().jSnow({
+				vSize: $(window).height(),
+				flakes: snowflake_count, 
+				flakeMaxSize: 12,  
+				flakeMinSize: 8, 
+				fadeAway:true,
+				zIndex: "-1", 
+				fallingSpeedMin: 2,  
+				fallingSpeedMax: 5
+			});
+		}*/
+	});
+	
+</script>
+
+
 </head>
 
 <body onload="javascript: ;" style="	font-family: Verdana;	font-size: 11px;	color: #000000;">
+<!-- Start Alexa Certify Javascript -->
+
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"TS6Bi1a4ZP00OQ", domain:"producerloops.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=TS6Bi1a4ZP00OQ" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5C5V9" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5C5V9');</script>
+<!-- End Google Tag Manager -->
+
+
+
 <div id="overlay-buy-dialog" title="Add to cart" style="display:none;"><div id="overlay-buy-container"></div></div>
 <div id="free_notice" style="display: none; padding-top: 15px;"></div>
 
@@ -264,9 +333,9 @@ img9.src = 'http://www.producerloops.com/skin1/images//menu1_4_rollover.jpg';
 <form action="home.php" method="get" name="sl_form">
 <input type="hidden" name="redirect" value="">
 <input type="hidden" name="sl" value="US" id="s1">
-<a href="http://www.producerloops.com/privacy-policy-and-legal-statement.html" title="English" rel="nofollow"><img src="http://www.producerloops.com/skin1/images//flag_1.gif" alt="English" border="0" style="margin-right:13px"></a>
-<a href="http://www.producerloops.com/es/privacy-policy-and-legal-statement.html" title="Spanish" rel="nofollow"><img src="http://www.producerloops.com/skin1/images//flag_3.gif" alt="Spanish" border="0" style="margin-right:13px"></a>
-<a href="http://www.producerloops.com/de/privacy-policy-and-legal-statement.html" title="German" rel="nofollow"><img src="http://www.producerloops.com/skin1/images//flag_2.gif" alt="German" border="0" style="margin-right:13px"></a>
+<a href="http://www.producerloops.com/privacy-policy-and-legal-statement.html" title="English"><img src="http://www.producerloops.com/skin1/images//flag_1.gif" alt="English" border="0" style="margin-right:5px"></a>
+<a href="http://www.producerloops.com/es/privacy-policy-and-legal-statement.html" title="Spanish"><img src="http://www.producerloops.com/skin1/images//flag_3.gif" alt="Spanish" border="0" style="margin-right:5px"></a>
+<a href="http://www.producerloops.com/de/privacy-policy-and-legal-statement.html" title="German"><img src="http://www.producerloops.com/skin1/images//flag_2.gif" alt="German" border="0" style="margin-right:5px"></a>
 </form>
 </div>
 
@@ -525,19 +594,37 @@ img9.src = 'http://www.producerloops.com/skin1/images//menu1_4_rollover.jpg';
 </div>
 
 
+<div style="float: left;margin-left: 5px;">
+				
+					
+	
+	<div class="fb-like" style="float: left;width: 79px;overflow: hidden;margin-left: 5px;">
+		<iframe src="//www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3A%2F%2Fwww.producerloops.com&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21&amp;appId=457739537571470" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowtransparency="true"></iframe>
+	</div>
+	<div style="float: left; margin-left: 2px;">
+		<div class="g-plusone" data-size="medium" data-href="http%3A%2F%2Fwww.producerloops.com"></div>
+	</div>
+</div>
+
+<div style="float: right; margin-right: 5px;">
+	<a href="/products.xml" target="_blank">
+		<img border="0" alt="" src="/skin1/images/rss_t.png">
+	</a>
+</div>
+
 <div id="header_top_menu" style="float: right; margin-right: 5px;">
-<a href="/" rel="nofollow"><img src="http://www.producerloops.com/skin1/images//menu1.gif" alt="Home" border="0" style="margin-right:12px"></a>
-<a href="help.php?section=contactus&amp;mode=update" rel="nofollow"><img src="http://www.producerloops.com/skin1/images//menu2.gif" alt="Contact us" border="0" style="margin-right:12px"></a>
-<a href="sitemap.php" rel="nofollow"><img src="http://www.producerloops.com/skin1/images//menu3.gif" alt="" border="0"></a></div>
+<a href="/"><img src="http://www.producerloops.com/skin1/images//menu1.gif" alt="Home" border="0" style="margin-right:12px"></a>
+<a href="help.php?section=contactus&amp;mode=update"><img src="http://www.producerloops.com/skin1/images//menu2.gif" alt="Contact us" border="0" style="margin-right:12px"></a>
+<a href="sitemap.php"><img src="http://www.producerloops.com/skin1/images//menu3.gif" alt="" border="0"></a></div>
 </div>
 <div id="header_center">
 	<div id="header_center_left">
-		<div id="logo"><a href="/" rel="nofollow"><img src="/skin1/images/aqua_logo.png" alt="Home" border="0"></a></div> 			<div style="float:left" id="menu1">
+		<div id="logo"><a href="/"><img src="/skin1/images/aqua_logo.png" alt="Home" border="0"></a></div> 			<div style="float:left" id="menu1">
 
-<div><a href="https://www.producerloops.com/register.php" rel="nofollow"><img src="http://www.producerloops.com/skin1/images//menu1_1.jpg" alt="Register" border="0" onmouseout="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu1_1.jpg';" onmouseover="javascript: this.src = img6.src; "></a></div>
-<div><a href="https://www.producerloops.com/error_message.php?need_login" rel="nofollow"><img src="http://www.producerloops.com/skin1/images//menu1_2.jpg" onmouseout="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu1_2.jpg';" onmouseover="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu1_2_rollover.jpg'; " alt="Login" border="0"></a></div>
-<div><a href="https://www.producerloops.com/register.php?mode=update" rel="nofollow"><img src="http://www.producerloops.com/skin1/images//menu1_3.jpg" onmouseout="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu1_3.jpg';" onmouseover="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu1_3_rollover.jpg'; " alt="My account" border="0"></a></div>
-<div><a href="https://www.producerloops.com/support.html?index.php?_m=knowledgebase&amp;_a=view" rel="nofollow"><img src="http://www.producerloops.com/skin1/images//menu1_4.jpg" onmouseout="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu1_4.jpg';" onmouseover="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu1_4_rollover.jpg'; " alt="Customer services" border="0"></a></div>
+<div><a href="http://www.producerloops.com/register.php"><img src="http://www.producerloops.com/skin1/images//menu1_1.jpg" alt="Register" border="0" onmouseout="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu1_1.jpg';" onmouseover="javascript: this.src = img6.src; "></a></div>
+<div><a href="http://www.producerloops.com/error_message.php?need_login"><img src="http://www.producerloops.com/skin1/images//menu1_2.jpg" onmouseout="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu1_2.jpg';" onmouseover="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu1_2_rollover.jpg'; " alt="Login" border="0"></a></div>
+<div><a href="http://www.producerloops.com/register.php?mode=update"><img src="http://www.producerloops.com/skin1/images//menu1_3.jpg" onmouseout="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu1_3.jpg';" onmouseover="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu1_3_rollover.jpg'; " alt="My account" border="0"></a></div>
+<div><a href="http://www.producerloops.com/support.html?index.php?_m=knowledgebase&amp;_a=view"><img src="http://www.producerloops.com/skin1/images//menu1_4.jpg" onmouseout="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu1_4.jpg';" onmouseover="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu1_4_rollover.jpg'; " alt="Customer services" border="0"></a></div>
 </div>
 	</div>
 					<div id="header_center_right">
@@ -596,6 +683,7 @@ img9.src = 'http://www.producerloops.com/skin1/images//menu1_4_rollover.jpg';
 		                  				<option value="312">&nbsp;&nbsp;&nbsp;Roland Fantom Sounds</option>
 		                  				<option value="313">&nbsp;&nbsp;&nbsp;Roland Fantom-S Sounds</option>
 		                  				<option value="314">&nbsp;&nbsp;&nbsp;Roland Fantom-X &amp; XR Sounds</option>
+		                  				<option value="506">&nbsp;&nbsp;&nbsp;Roland GAIA</option>
 		                  				<option value="426">&nbsp;&nbsp;&nbsp;Roland JP-8000 Sounds</option>
 		                  				<option value="427">&nbsp;&nbsp;&nbsp;Roland JP-8080 Sounds</option>
 		                  				<option value="374">&nbsp;&nbsp;&nbsp;Roland V-Synth Sounds</option>
@@ -607,6 +695,7 @@ img9.src = 'http://www.producerloops.com/skin1/images//menu1_4_rollover.jpg';
 		                  				<option value="352">&nbsp;&nbsp;&nbsp;Yamaha SY-85 Sounds</option>
 		                  				<option value="488">&nbsp;&nbsp;&nbsp;N.I Absynth</option>
 		                  				<option value="253">Download by genre</option>
+		                  				<option value="511">&nbsp;&nbsp;&nbsp;Acid House</option>
 		                  				<option value="263">&nbsp;&nbsp;&nbsp;Ambient</option>
 		                  				<option value="401">&nbsp;&nbsp;&nbsp;Bassline 4x4</option>
 		                  				<option value="293">&nbsp;&nbsp;&nbsp;Blues</option>
@@ -619,9 +708,10 @@ img9.src = 'http://www.producerloops.com/skin1/images//menu1_4_rollover.jpg';
 		                  				<option value="392">&nbsp;&nbsp;&nbsp;Deep/Tech</option>
 		                  				<option value="413">&nbsp;&nbsp;&nbsp;Dirty South</option>
 		                  				<option value="386">&nbsp;&nbsp;&nbsp;Disco</option>
-		                  				<option value="266">&nbsp;&nbsp;&nbsp;DnB</option>
+		                  				<option value="266">&nbsp;&nbsp;&nbsp;Drum &amp; Bass</option>
 		                  				<option value="402">&nbsp;&nbsp;&nbsp;Dub</option>
 		                  				<option value="299">&nbsp;&nbsp;&nbsp;Dubstep</option>
+		                  				<option value="512">&nbsp;&nbsp;&nbsp;EDM</option>
 		                  				<option value="475">&nbsp;&nbsp;&nbsp;East Coast</option>
 		                  				<option value="287">&nbsp;&nbsp;&nbsp;Electro</option>
 		                  				<option value="434">&nbsp;&nbsp;&nbsp;Fidget House</option>
@@ -635,6 +725,7 @@ img9.src = 'http://www.producerloops.com/skin1/images//menu1_4_rollover.jpg';
 		                  				<option value="379">&nbsp;&nbsp;&nbsp;Hardstyle</option>
 		                  				<option value="268">&nbsp;&nbsp;&nbsp;Hip Hop</option>
 		                  				<option value="292">&nbsp;&nbsp;&nbsp;House</option>
+		                  				<option value="514">&nbsp;&nbsp;&nbsp;Indie</option>
 		                  				<option value="297">&nbsp;&nbsp;&nbsp;Industrial</option>
 		                  				<option value="298">&nbsp;&nbsp;&nbsp;Jazz</option>
 		                  				<option value="380">&nbsp;&nbsp;&nbsp;Jumpstyle</option>
@@ -677,8 +768,8 @@ img9.src = 'http://www.producerloops.com/skin1/images//menu1_4_rollover.jpg';
 		                  				<option value="262">&nbsp;&nbsp;&nbsp;Multi-Samples</option>
 		                  				<option value="474">&nbsp;&nbsp;&nbsp;OMF</option>
 		                  				<option value="477">&nbsp;&nbsp;&nbsp;Octatrack</option>
-		                  				<option value="259">&nbsp;&nbsp;&nbsp;REX/RMX</option>
-		                  				<option value="467">&nbsp;&nbsp;&nbsp;Reason NN19 &amp; NN-XT</option>
+		                  				<option value="259">&nbsp;&nbsp;&nbsp;REX</option>
+		                  				<option value="467">&nbsp;&nbsp;&nbsp;Reason NN19/NN-XT</option>
 		                  				<option value="290">&nbsp;&nbsp;&nbsp;Reason Refills</option>
 		                  				<option value="410">&nbsp;&nbsp;&nbsp;SFZ</option>
 		                  				<option value="419">&nbsp;&nbsp;&nbsp;SP-404</option>
@@ -698,6 +789,8 @@ img9.src = 'http://www.producerloops.com/skin1/images//menu1_4_rollover.jpg';
 		                  				<option value="463">&nbsp;&nbsp;&nbsp;Korg Mono/Poly</option>
 		                  				<option value="348">&nbsp;&nbsp;&nbsp;Linplug Octopus Sounds</option>
 		                  				<option value="425">&nbsp;&nbsp;&nbsp;Logic ES2 Sounds</option>
+		                  				<option value="509">&nbsp;&nbsp;&nbsp;Madrona Labs Aalto</option>
+		                  				<option value="513">&nbsp;&nbsp;&nbsp;Music Weapons</option>
 		                  				<option value="489">&nbsp;&nbsp;&nbsp;N.I Absynth</option>
 		                  				<option value="493">&nbsp;&nbsp;&nbsp;N.I Prism</option>
 		                  				<option value="492">&nbsp;&nbsp;&nbsp;N.I Spark</option>
@@ -706,7 +799,8 @@ img9.src = 'http://www.producerloops.com/skin1/images//menu1_4_rollover.jpg';
 		                  				<option value="418">&nbsp;&nbsp;&nbsp;Native Instruments MASSIVE</option>
 		                  				<option value="500">&nbsp;&nbsp;&nbsp;Native Instruments Maschine</option>
 		                  				<option value="487">&nbsp;&nbsp;&nbsp;Native Instruments Razor</option>
-		                  				<option value="501">&nbsp;&nbsp;&nbsp;Nattive Instruments Traktor Kontrol</option>
+		                  				<option value="501">&nbsp;&nbsp;&nbsp;Native Instruments Traktor Kontrol</option>
+		                  				<option value="515">&nbsp;&nbsp;&nbsp;Native Instruments/Monark</option>
 		                  				<option value="450">&nbsp;&nbsp;&nbsp;Novation Bass Station Sounds</option>
 		                  				<option value="340">&nbsp;&nbsp;&nbsp;Novation V-Station Sounds</option>
 		                  				<option value="478">&nbsp;&nbsp;&nbsp;Omnisphere Sounds</option>
@@ -714,18 +808,23 @@ img9.src = 'http://www.producerloops.com/skin1/images//menu1_4_rollover.jpg';
 		                  				<option value="416">&nbsp;&nbsp;&nbsp;Pro-53 Sounds</option>
 		                  				<option value="471">&nbsp;&nbsp;&nbsp;ReFX QuadraSID sounds</option>
 		                  				<option value="491">&nbsp;&nbsp;&nbsp;Red Dragon</option>
+		                  				<option value="516">&nbsp;&nbsp;&nbsp;Reveal Spire</option>
 		                  				<option value="344">&nbsp;&nbsp;&nbsp;Rob Papen Albino Sounds</option>
 		                  				<option value="341">&nbsp;&nbsp;&nbsp;Rob Papen Blue Sounds</option>
 		                  				<option value="428">&nbsp;&nbsp;&nbsp;Rob Papen Predator Sounds</option>
 		                  				<option value="447">&nbsp;&nbsp;&nbsp;Rob Papen's SubBoomBass</option>
 		                  				<option value="444">&nbsp;&nbsp;&nbsp;SPL DrumXchanger Sounds</option>
 		                  				<option value="448">&nbsp;&nbsp;&nbsp;Scanned Synth Pro</option>
+		                  				<option value="510">&nbsp;&nbsp;&nbsp;Slate Trigger</option>
+		                  				<option value="505">&nbsp;&nbsp;&nbsp;Sonic Academy ANA</option>
+		                  				<option value="504">&nbsp;&nbsp;&nbsp;Sonic Charge Synplant</option>
 		                  				<option value="490">&nbsp;&nbsp;&nbsp;Steinberg Retrologue</option>
 		                  				<option value="456">&nbsp;&nbsp;&nbsp;String Studio VS-1</option>
 		                  				<option value="422">&nbsp;&nbsp;&nbsp;Sylenth Sounds</option>
 		                  				<option value="462">&nbsp;&nbsp;&nbsp;Synapse Dune</option>
 		                  				<option value="437">&nbsp;&nbsp;&nbsp;Tone2 Firebird Sounds</option>
 		                  				<option value="435">&nbsp;&nbsp;&nbsp;Tone2 Gladiator Sounds</option>
+		                  				<option value="503">&nbsp;&nbsp;&nbsp;Tone2 Saurus Sounds</option>
 		                  				<option value="459">&nbsp;&nbsp;&nbsp;U-he ACE</option>
 		                  				<option value="485">&nbsp;&nbsp;&nbsp;U-he Diva</option>
 		                  				<option value="449">&nbsp;&nbsp;&nbsp;U-he Zebra Sounds</option>
@@ -735,17 +834,21 @@ img9.src = 'http://www.producerloops.com/skin1/images//menu1_4_rollover.jpg';
 		                  				<option value="466">&nbsp;&nbsp;&nbsp;Waldorf PPG</option>
 		                  				<option value="460">&nbsp;&nbsp;&nbsp;Waldorf Q</option>
 		                  				<option value="481">&nbsp;&nbsp;&nbsp;XILS 3</option>
+		                  				<option value="507">&nbsp;&nbsp;&nbsp;iZotope/Iris</option>
 		                  				<option value="339">&nbsp;&nbsp;&nbsp;reFX Vanguard Sounds</option>
 		                  				<option value="496">&nbsp;&nbsp;&nbsp;Ableton Live! Templates</option>
 		                  				<option value="497">&nbsp;&nbsp;&nbsp;Cubase Templates</option>
+		                  				<option value="508">&nbsp;&nbsp;&nbsp;FL Studio Templates</option>
 		                  				<option value="498">&nbsp;&nbsp;&nbsp;Logic Pro Templates</option>
 		                  				<option value="499">&nbsp;&nbsp;&nbsp;Reason Templates</option>
 		                  
 	</select><br>
 	<div id="search_block">
-	<input style="width:153px; margin-top:6px" type="text" name="posted_data[substring]" value="" id="tags">
-	<input name="GO" type="button" id="GO" value="GO" onclick="javascript: document.productsearchform.submit();"><br>
-	<a href="search.php" rel="nofollow"><span class="text1_Verdana11_white">Advanced search</span></a>
+	
+		<input style="width:153px; margin-top:6px" type="text" name="posted_data[substring]" value="" id="tags" onkeydown="javascript: if (event.keyCode == 13) { document.productsearchform.submit(); }">
+	
+	 	<input name="GO" type="button" id="GO" value="GO" onclick="javascript: document.productsearchform.submit();"><br>
+	<a href="search.php"><span class="text1_Verdana11_white">Advanced search</span></a>
 	</div>
 
 	<img src="http://www.producerloops.com/skin1/images//progress_bar.gif" style="display:none; padding-top: 10px;" id="bar_ind" alt="Progress bar">
@@ -753,22 +856,22 @@ img9.src = 'http://www.producerloops.com/skin1/images//menu1_4_rollover.jpg';
 </div>				</div>
 			<div id="header_bottom_menu">
 
-<div style="padding: 0; border:0;"><a href="/" title="Home" rel="nofollow">
-<img style="display:block; padding: 0; border:0;" src="http://www.producerloops.com/skin1/images/menu2_1.gif" alt="Home" width="109" height="26" border="0" onmouseout="javascript: this.src = 'http://www.producerloops.com/skin1/images/menu2_1.gif';" onmouseover="javascript: this.src = 'http://www.producerloops.com/skin1/images/menu2_1_rollover.gif';">
-</a></div><div style="padding: 0; border:0;"><a href="New-Arrivals.html" title="New Arrivals" rel="nofollow">
-<img style="display:block; padding: 0; border:0;" src="http://www.producerloops.com/skin1/images/menu2_7.gif" alt="New Arrivals" width="109" height="26" border="0" onmouseout="javascript: this.src = 'http://www.producerloops.com/skin1/images/menu2_7.gif';" onmouseover="javascript: this.src = 'http://www.producerloops.com/skin1/images/menu2_7_rollover.gif';">
-</a></div><div style="padding: 0; border:0;"><a href="On-Sale.html" title="" rel="nofollow">
-<img style="display:block; padding: 0; border:0;" src="http://www.producerloops.com/skin1/images/menu2_9.gif" alt="" width="109" height="26" border="0" onmouseout="javascript: this.src = 'http://www.producerloops.com/skin1/images/menu2_9.gif';" onmouseover="javascript: this.src = 'http://www.producerloops.com/skin1/images/menu2_9_rollover.gif';">
-</a></div><div style="padding: 0; border:0;"><a href="https://www.producerloops.com/support.html?/index.php?_m=news&amp;_a=view" title="News" rel="nofollow">
-<img style="display:block; padding: 0; border:0;" src="http://www.producerloops.com/skin1/images/menu2_8.gif" alt="News" width="109" height="26" border="0" onmouseout="javascript: this.src = 'http://www.producerloops.com/skin1/images/menu2_8.gif';" onmouseover="javascript: this.src = 'http://www.producerloops.com/skin1/images/menu2_8_rollover.gif';">
-</a></div><div style="padding: 0; border:0;"><a title="How to order" href="/how-to-order.html" rel="nofollow">
-<img style="display:block; padding: 0; border:0;" src="http://www.producerloops.com/skin1/images/menu2_2.gif" alt="How to order" width="109" height="26" border="0" onmouseout="javascript: this.src = 'http://www.producerloops.com/skin1/images/menu2_2.gif';" onmouseover="javascript: this.src = 'http://www.producerloops.com/skin1/images/menu2_2_rollover.gif';">
-</a></div><div style="padding: 0; border:0;"><a title="About us" href="/about-us.html" rel="nofollow">
-<img style="display:block; padding: 0; border:0;" src="http://www.producerloops.com/skin1/images/menu2_4.gif" alt="About Us" width="109" height="26" border="0" onmouseout="javascript: this.src = 'http://www.producerloops.com/skin1/images/menu2_4.gif';" onmouseover="javascript: this.src = 'http://www.producerloops.com/skin1/images/menu2_4_rollover.gif';">
-</a></div><div style="padding: 0; border:0;"><a title="Contact us" href="/contact-us.html" rel="nofollow">
-<img style="display:block; padding: 0; border:0;" src="http://www.producerloops.com/skin1/images/menu2_5.gif" alt="Contact us" width="109" height="26" border="0" onmouseout="javascript: this.src = 'http://www.producerloops.com/skin1/images/menu2_5.gif';" onmouseover="javascript: this.src = 'http://www.producerloops.com/skin1/images/menu2_5_rollover.gif';">
-</a></div><div style="padding: 0; border:0;"><a href="https://www.producerloops.com/support.html?index.php?_m=knowledgebase&amp;_a=view" title="FAQ" rel="nofollow">
-<img style="display:block; padding: 0; border:0;" src="http://www.producerloops.com/skin1/images/menu2_6.gif" alt="FAQ" width="109" height="26" border="0" onmouseout="javascript: this.src = 'http://www.producerloops.com/skin1/images/menu2_6.gif';" onmouseover="javascript: this.src = 'http://www.producerloops.com/skin1/images/menu2_6_rollover.gif';">
+<div style="padding: 0; border:0;"><a href="/" title="Home">
+<img style="display:block; padding: 0; border:0;" src="http://www.producerloops.com/skin1/images//menu2_1.gif" alt="Home" width="109" height="26" border="0" onmouseout="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu2_1.gif';" onmouseover="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu2_1_rollover.gif';">
+</a></div><div style="padding: 0; border:0;"><a href="New-Arrivals.html" title="New Arrivals">
+<img style="display:block; padding: 0; border:0;" src="http://www.producerloops.com/skin1/images//menu2_7.gif" alt="New Arrivals" width="109" height="26" border="0" onmouseout="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu2_7.gif';" onmouseover="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu2_7_rollover.gif';">
+</a></div><div style="padding: 0; border:0;"><a href="On-Sale.html" title="">
+<img style="display:block; padding: 0; border:0;" src="http://www.producerloops.com/skin1/images//menu2_9.gif" alt="" width="109" height="26" border="0" onmouseout="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu2_9.gif';" onmouseover="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu2_9_rollover.gif';">
+</a></div><div style="padding: 0; border:0;"><a href="https://www.producerloops.com/support.html?/index.php?_m=news&amp;_a=view" title="News">
+<img style="display:block; padding: 0; border:0;" src="http://www.producerloops.com/skin1/images//menu2_8.gif" alt="News" width="109" height="26" border="0" onmouseout="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu2_8.gif';" onmouseover="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu2_8_rollover.gif';">
+</a></div><div style="padding: 0; border:0;"><a title="How to order" href="/how-to-order.html">
+<img style="display:block; padding: 0; border:0;" src="http://www.producerloops.com/skin1/images//menu2_2.gif" alt="How to order" width="109" height="26" border="0" onmouseout="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu2_2.gif';" onmouseover="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu2_2_rollover.gif';">
+</a></div><div style="padding: 0; border:0;"><a title="About us" href="/about-us.html">
+<img style="display:block; padding: 0; border:0;" src="http://www.producerloops.com/skin1/images//menu2_4.gif" alt="About Us" width="109" height="26" border="0" onmouseout="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu2_4.gif';" onmouseover="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu2_4_rollover.gif';">
+</a></div><div style="padding: 0; border:0;"><a title="Contact us" href="/contact-us.html">
+<img style="display:block; padding: 0; border:0;" src="http://www.producerloops.com/skin1/images//menu2_5.gif" alt="Contact us" width="109" height="26" border="0" onmouseout="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu2_5.gif';" onmouseover="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu2_5_rollover.gif';">
+</a></div><div style="padding: 0; border:0;"><a href="https://www.producerloops.com/support.html?index.php?_m=knowledgebase&amp;_a=view" title="FAQ">
+<img style="display:block; padding: 0; border:0;" src="http://www.producerloops.com/skin1/images//menu2_6.gif" alt="FAQ" width="109" height="26" border="0" onmouseout="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu2_6.gif';" onmouseover="javascript: this.src = 'http://www.producerloops.com/skin1/images//menu2_6_rollover.gif';">
 </a></div>
 			</div>
 		</div></td>
@@ -789,13 +892,15 @@ img9.src = 'http://www.producerloops.com/skin1/images//menu1_4_rollover.jpg';
 						<td id="content_center" style="background:#FFFFFF; font-family: Verdana;font-size: 11px;vertical-align:top;margin: 0px; padding:0px;" valign="top">
 														
 
-							<div style="width:524px;>
-																
+							<div style="width:524px;">
+																																				
+					
 
-								 							</div>
+	
+																									 							</div>
 							
 							
-							<div style=" padding:="" 5px;="" font-family:="" verdana;="" font-size:="" 11px;"="">
+							<div style="padding: 5px; font-family: Verdana;	font-size: 11px;">
 														<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
 	<td height="30" style="padding-left:15px"><span class="text5_arial11_bold_">
@@ -832,7 +937,8 @@ img9.src = 'http://www.producerloops.com/skin1/images//menu1_4_rollover.jpg';
 <br />
 </div>							
 							</noscript>
-																					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+														<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
 	<td valign="middle" class="h1_bg"><h1>Privacy Policy and Legal Statement</h1></td>
 </tr>
@@ -893,132 +999,137 @@ img9.src = 'http://www.producerloops.com/skin1/images//menu1_4_rollover.jpg';
 				<div id="content_left">
 					
 <div><a title="Download Plugins, Samples and Sound Effects by Type" href="/download-products-by-type/"><img src="http://www.producerloops.com/skin1/images//menu_vert_section1.gif" alt="DOWNLOADS by type"></a></div>
-<div class="vert_menu2"><a title="Akai MPC 2500 Training" href="/Download-Akai-MPC-2500-Training-Videos/" rel="nofollow">Akai MPC 2500 Training</a></div><div class="vert_menu1"><a title="Download Audio Plugins" href="/download-audio-plugins/" rel="nofollow">Audio Plugins</a></div><div class="vert_menu2"><a title="Bundles" href="/Bundles/" rel="nofollow">Bundles</a></div><div class="vert_menu1"><a title="Construction Kits" href="/Construction-Kits/" rel="nofollow">Construction Kits</a></div><div class="vert_menu2"><a title="DAW Templates" href="/daw-templates/" rel="nofollow">DAW Templates</a></div><div class="vert_menu1"><a title="DJ Mixtools" href="/DJ-Mixtools/" rel="nofollow">DJ Mixtools</a></div><div class="vert_menu2"><a title="Download Drum Samples" href="/download-drum-samples/" rel="nofollow">Drum Samples</a></div><div class="vert_menu1"><a title="Exclusive Products" href="/Exclusive-Products/" rel="nofollow">Exclusive Products</a></div><div class="vert_menu2"><a title="Download Free Samples Loops Download" href="/Download-Free-Samples-Loops-Download/" rel="nofollow">Free Samples</a></div><div class="vert_menu1"><a title="Download MIDI Loops &amp; MIDI Riffs" href="/download-midi-loops-midi-riffs/" rel="nofollow">MIDI Loops</a></div><div class="vert_menu2"><a title="Multi-Buy" href="/multi-buy/" rel="nofollow">Multi-Buy Discounts</a></div><div class="vert_menu1"><a title="Multi-Track Loops" href="/Multi-Track-Loops/" rel="nofollow">Multi-Track Loops</a></div><div class="vert_menu2"><a title="Download Music Software" href="/download-music-software/" rel="nofollow">Music Software</a></div><div class="vert_menu1"><a title="Pick 'n' Mix Products" href="/Pick-n-Mix-Products/" rel="nofollow">Pick 'n' Mix</a></div><div class="vert_menu2"><a title="Download Samples &amp; Loops" href="/download-samples-loops/" rel="nofollow">Samples/Loops</a></div><div class="vert_menu1"><a title="Download Sound Effects" href="/download-sound-effects/" rel="nofollow">Sound Effects</a></div><div class="vert_menu2"><a title="Download Synthesizer Sounds" href="/download-synth-sounds/" rel="nofollow">Synthesizer Sounds</a></div><div class="vert_menu1"><a title="Download Pro Audio Tutorials" href="/download-pro-audio-tutorials/" rel="nofollow">Tutorials/Training</a></div><div class="vert_menu2"><a title="VST Sound Banks" href="/VST-Sound-Banks/" rel="nofollow">VST Sound Banks</a></div><div class="vert_menu1"><a title="Video Tutorials: Learn How To Produce Music" href="/Video-Tutorials-Learn-How-To-Produce-Music/" rel="nofollow">Video Tutorials</a></div><div class="vert_menu2"><a title="Download Virtual Instruments" href="/download-virtual-instruments/" rel="nofollow">Virtual Instruments</a></div><div class="vert_menu1"><a title="Vocal Samples" href="/download-vocal-samples/" rel="nofollow">Vocal Samples</a></div><div><a title="Download Loops &amp; Samples By Genre" href="/download-samples-loops-by-genre/"><img src="http://www.producerloops.com/skin1/images//menu_vert_section2.gif" alt="DOWNLOADS by genre"></a></div>
-<div class="vert_menu1"><a title="Download Ambient Samples &amp; Loops" href="/download-ambient-loops-samples/" rel="nofollow">Ambient</a></div><div class="vert_menu2"><a title="Download Bassline 4x4 Samples &amp; 4x4 Loops" href="/Download-Bassline-4x4-Samples-and-4x4-Loops/" rel="nofollow">Bassline 4x4</a></div><div class="vert_menu1"><a title="Download Blues Loops &amp; Samples" href="/download-blues-loops-samples/" rel="nofollow">Blues</a></div><div class="vert_menu2"><a title="Download Bollywood Loops &amp; Samples" href="/Download-Bollywood-Loops-and-Bollywood-Samples/" rel="nofollow">Bollywood</a></div><div class="vert_menu1"><a title="Download Breakbeat Samples &amp; Loops" href="/download-breakbeat-loops-samples/" rel="nofollow">Breaks</a></div><div class="vert_menu2"><a title="Cinematic Loops, Movie Soundtrack Loops" href="/Cinematic-Loops-Movie-Soundtrack-Loops/" rel="nofollow">Cinematic</a></div><div class="vert_menu1"><a title="Download Country Loops &amp; Samples" href="/download-country-loops-samples/" rel="nofollow">Country</a></div><div class="vert_menu2"><a title="Download Dance Samples &amp; Loops" href="/download-dance-loops-samples/" rel="nofollow">Dance</a></div><div class="vert_menu1"><a title="Dancehall Samples &amp; Dancehall Loops" href="/Dancehall-Samples-Dancehall-Loops/" rel="nofollow">Dancehall</a></div><div class="vert_menu2"><a title="Deep/Tech House" href="/deep-tech-house-loops-samples/" rel="nofollow">Deep/Tech</a></div><div class="vert_menu1"><a title="Dirty South" href="/Download-Dirty-South-Loops-Dirty-South-Samples/" rel="nofollow">Dirty South</a></div><div class="vert_menu2"><a title="Download Disco Loops &amp; Samples" href="/download-disco-loops-samples/" rel="nofollow">Disco</a></div><div class="vert_menu1"><a title="Download Drum and Bass Samples &amp; Loops" href="/download-drum-and-bass-loops-samples/" rel="nofollow">DnB</a></div><div class="vert_menu2"><a title="Download Dub Samples &amp; Dub Loops" href="/download-dub-samples-dub-loops/" rel="nofollow">Dub</a></div><div class="vert_menu1"><a title="Download Dubstep Loops &amp; Samples" href="/download-dubstep-loops-samples/" rel="nofollow">Dubstep</a></div><div class="vert_menu2"><a title="East Coast" href="/east-coast/" rel="nofollow">East Coast</a></div><div class="vert_menu1"><a title="Download Electro Loops &amp; Samples" href="/download-electro-loops-samples/" rel="nofollow">Electro</a></div><div class="vert_menu2"><a title="Fidget House Samples &amp; Fidget House Loops" href="/Fidget-House-Samples-Fidget-House-Loops/" rel="nofollow">Fidget House</a></div><div class="vert_menu1"><a title="Download Funk Samples &amp; Funk Loops" href="/download-funk-loops-samples/" rel="nofollow">Funk</a></div><div class="vert_menu2"><a title="Download Gabber Loops &amp; Samples" href="/download-gabber-loops-samples/" rel="nofollow">Gabber</a></div><div class="vert_menu1"><a title="Download Garage Loops &amp; Garage Samples" href="/download-garage-loops-samples/" rel="nofollow">Garage</a></div><div class="vert_menu2"><a title="Glitch Samples and Glitch Loops" href="/Glitch-Samples-and-Glitch-Loops/" rel="nofollow">Glitch</a></div><div class="vert_menu1"><a title="Download Gospel Samples and Loops at Producerloops.com" href="/gospel/" rel="nofollow">Gospel</a></div><div class="vert_menu2"><a title="Download Grime Loops &amp; Samples" href="/download-grime-loops-samples/" rel="nofollow">Grime</a></div><div class="vert_menu1"><a title="Download Hardcore Loops &amp; Samples" href="/download-hardcore-loops-samples/" rel="nofollow">Hardcore</a></div><div class="vert_menu2"><a title="Download Hardstyle Loops &amp; Samples" href="/download-hardstyle-loops-samples/" rel="nofollow">Hardstyle</a></div><div class="vert_menu1"><a title="Download Hip Hop Loops &amp; Samples" href="/download-hip-hop-loops-samples/" rel="nofollow">Hip Hop</a></div><div class="vert_menu2"><a title="Download House Loops &amp; Samples" href="/download-house-loops-samples/" rel="nofollow">House</a></div><div class="vert_menu1"><a title="Download Industrial Loops &amp; Samples" href="/download-industrial-loops-samples/" rel="nofollow">Industrial</a></div><div class="vert_menu2"><a title="Download Jazz Loops &amp; Samples" href="/download-jazz-loops-samples/" rel="nofollow">Jazz</a></div><div class="vert_menu1"><a title="Download Jumpstyle Loops &amp; Samples" href="/download-jumpstyle-loops-samples/" rel="nofollow">Jumpstyle</a></div><div class="vert_menu2"><a title="Download Latin Loops &amp; Samples" href="/download-latin-loops-samples/" rel="nofollow">Latin</a></div><div class="vert_menu1"><a title="Download Lounge Loops &amp; Samples" href="/download-lounge-loops-samples/" rel="nofollow">Lounge</a></div><div class="vert_menu2"><a title="Download Minimal Loops &amp; Minimal Samples" href="/download-minimal-loops-samples/" rel="nofollow">Minimal</a></div><div class="vert_menu1"><a title="Neo Soul" href="/neo-soul/" rel="nofollow">Neo Soul</a></div><div class="vert_menu2"><a title="Download Orchestral Loops &amp; Instrument Samples" href="/download-orchestral-loops-samples/" rel="nofollow">Orchestral</a></div><div class="vert_menu1"><a title="Download Pop Samples &amp; Loops" href="/download-pop-loops-samples/" rel="nofollow">Pop</a></div><div class="vert_menu2"><a title="Progressive" href="/Progressive-Samples-Loops/" rel="nofollow">Progressive</a></div><div class="vert_menu1"><a title="Download RnB Samples &amp; Loops" href="/download-rnb-loops-samples/" rel="nofollow">R'n'B</a></div><div class="vert_menu2"><a title="Download Reggae Samples &amp; Loops" href="/download-reggae-loops-samples/" rel="nofollow">Reggae</a></div><div class="vert_menu1"><a title="Reggaeton Samples &amp; Reggaeton Loops" href="/Reggaeton-Samples-Reggaeton-Loops/" rel="nofollow">Reggaeton</a></div><div class="vert_menu2"><a title="Download Rock Samples &amp; Loops" href="/download-rock-loops-samples/" rel="nofollow">Rock</a></div><div class="vert_menu1"><a title="Download Soul Loops &amp; Samples" href="/download-soul-loops-samples/" rel="nofollow">Soul</a></div><div class="vert_menu2"><a title="Download Tech-House Loops &amp; Tech-House Samples" href="/download-tech-house-loops-samples/" rel="nofollow">Tech-House</a></div><div class="vert_menu1"><a title="Download Techno Loops &amp; Samples" href="/download-techno-loops-samples/" rel="nofollow">Techno</a></div><div class="vert_menu2"><a title="Download Trance Loops &amp; Trance Samples" href="/download-trance-loops-trance-samples/" rel="nofollow">Trance</a></div><div class="vert_menu1"><a title="Trap" href="/trap/" rel="nofollow">Trap</a></div><div class="vert_menu2"><a title="Download Trip Hop Loops &amp; Trip Hop Samples" href="/Download-Trip-Hop-Loops-Trip-Hop-Samples/" rel="nofollow">Trip Hop</a></div><div class="vert_menu1"><a title="West Coast" href="/west-coast/" rel="nofollow">West Coast</a></div><div class="vert_menu2"><a title="Download World Samples &amp; Loops" href="/download-world-ethnic-loops-samples/" rel="nofollow">World</a></div><div><a title="Download Loops &amp; Samples By Format" href="/download-samples-loops-by-format/"><img src="http://www.producerloops.com/skin1/images//menu_vert_section3.gif" alt="DOWNLOADS by format"></a></div>
-<div class="vert_menu2"><a title="Download Ableton Live Loops &amp; Samples" href="/download-ableton-live-loops-samples/" rel="nofollow">Ableton Live!</a></div><div class="vert_menu1"><a title="Download Acid Loops &amp; Samples" href="/download-acid-loops/" rel="nofollow">Acid Loops</a></div><div class="vert_menu2"><a title="Akai MPC Samples" href="/Download-Akai-MPC-Format-Samples-Loops/" rel="nofollow">Akai MPC</a></div><div class="vert_menu1"><a title="Download Akai S-1000 &amp; Akai S-3000 Samples &amp; Loops" href="/download-akai-s1000-s3000-samples-loops/" rel="nofollow">Akai S-1000</a></div><div class="vert_menu2"><a title="Akai S-3000 Downloads" href="/Akai-S-3000-Sample-CD-Downloads/" rel="nofollow">Akai S-3000</a></div><div class="vert_menu1"><a title="Download Apple Loops &amp; AIFF Samples &amp; Loops" href="/download-apple-loops-aiff-samples-loops/" rel="nofollow">Apple Loops/Aiff</a></div><div class="vert_menu2"><a title="Battery" href="/Download-Native-Instruments-Battery-Patches/" rel="nofollow">Battery</a></div><div class="vert_menu1"><a title="Download Beatmaker Kits for Apple iPhone" href="/Download-Beatmaker-Kits-for-Apple-iPhone/" rel="nofollow">Beatmaker Kits</a></div><div class="vert_menu2"><a title="E-mu X2" href="/Download-E-mu-X2-Patches/" rel="nofollow">E-mu X2</a></div><div class="vert_menu1"><a title="Elastik Sound Banks" href="/Elastik-Sound-Banks/" rel="nofollow">Elastik Sound Banks</a></div><div class="vert_menu2"><a title="Download EXS24 Samples, Loops &amp; Patches" href="/Download-EXS24-Samples-Loops-Patches/" rel="nofollow">Exs24</a></div><div class="vert_menu1"><a title="Download Fruity Loops Samples" href="/download-fruity-loops-samples/" rel="nofollow">Fruity Loops</a></div><div class="vert_menu2"><a title="Download Halion Samples" href="/Download-Halion-Samples/" rel="nofollow">Halion</a></div><div class="vert_menu1"><a title="Download Kontakt Loops &amp; Samples" href="/download-kontakt-loops-samples/" rel="nofollow">Kontakt</a></div><div class="vert_menu2"><a title="Download MIDI Files &amp; MIDI Loops" href="/download-midi/" rel="nofollow">MIDI</a></div><div class="vert_menu1"><a title="Download Mach Five Samples &amp; Mach5 Loops" href="/Download-Mach-Five-Samples-Mach5-Loops/" rel="nofollow">Mach Five</a></div><div class="vert_menu2"><a title="Download Synthesizer MultiSamples" href="/download-synthesizer-multisamples/" rel="nofollow">Multi-Samples</a></div><div class="vert_menu1"><a title="OMF Files" href="/OMF/" rel="nofollow">OMF</a></div><div class="vert_menu2"><a title="Download Octatrack Loops" href="/Download-Octatrack-Loops/" rel="nofollow">Octatrack</a></div><div class="vert_menu1"><a title="Download REX Loops for Reason &amp; Stylus RMX" href="/download-rex-loops-for-reason-stylus-rmx/" rel="nofollow">REX/RMX</a></div><div class="vert_menu2"><a title="Download sampler patches for Reason" href="/download-reason-sampler-patches/" rel="nofollow">Reason NN19 &amp; NN-XT</a></div><div class="vert_menu1"><a title="Download Reason Refills" href="/download-reason-refills/" rel="nofollow">Reason Refills</a></div><div class="vert_menu2"><a title="Download Cakewalk SFZ Patches" href="/Download-Cakewalk-SFZ-Patches/" rel="nofollow">SFZ</a></div><div class="vert_menu1"><a title="SP-404" href="/sp-404/" rel="nofollow">SP-404</a></div><div class="vert_menu2"><a title="Download Soundfonts" href="/download-soundfonts/" rel="nofollow">Soundfont</a></div><div class="vert_menu1"><a title="Stylus RMX Loops" href="/Stylus-RMX-Loops/" rel="nofollow">Stylus RMX</a></div><div class="vert_menu2"><a title="Download Sysex Patches &amp; Sounds" href="/download-sysex-patches-sounds/" rel="nofollow">Sysex Patches</a></div><div class="vert_menu1"><a title="Download WAV Loops &amp; Samples" href="/download-wav-loops-samples/" rel="nofollow">WAV</a></div>
-<div><a href="manufacturers.php"><img src="http://www.producerloops.com/skin1/images//menu_vert_section4.gif" alt="DOWNLOADS by manufacturer"></a></div>
-<div class="vert_menu1"><a title="Acid Music Loops" href="/Acid-Music-Loops/" rel="nofollow">Acid Music Loops</a></div>
-<div class="vert_menu2"><a title="Acid Records" href="/Acid-Records/" rel="nofollow">Acid Records</a></div>
-<div class="vert_menu1"><a title="Advanced Media Group" href="/Advanced-Media-Group/" rel="nofollow">Advanced Media Group</a></div>
-<div class="vert_menu2"><a title="Alonso Sound" href="/Alonso-Sound/" rel="nofollow">Alonso Sound</a></div>
-<div class="vert_menu1"><a title="Artis Audio" href="/Artis-Audio/" rel="nofollow">Artis Audio</a></div>
-<div class="vert_menu2"><a title="Astro Loops" href="/Astro-Loops/" rel="nofollow">Astro Loops</a></div>
-<div class="vert_menu1"><a title="Auditory" href="/Auditory/" rel="nofollow">Auditory</a></div>
-<div class="vert_menu2"><a title="Best Service" href="/Best-Service/" rel="nofollow">Best Service</a></div>
-<div class="vert_menu1"><a title="Big Citi Loops" href="/Big-Citi-Loops/" rel="nofollow">Big Citi Loops</a></div>
-<div class="vert_menu2"><a title="Black Dynasty" href="/Black-Dynasty/" rel="nofollow">Black Dynasty</a></div>
-<div class="vert_menu1"><a title="Black Hand Loops" href="/Black-Hand-Loops/" rel="nofollow">Black Hand Loops</a></div>
-<div class="vert_menu2"><a title="Bluezone Corporation" href="/Bluezone-Corporation/" rel="nofollow">Bluezone Corporation</a></div>
-<div class="vert_menu1"><a title="Bollywoodsounds" href="/Bollywoodsounds/" rel="nofollow">Bollywood Sounds</a></div>
-<div class="vert_menu2"><a title="Bunker 8 Digital Labs" href="/Bunker-8-Digital-Labs/" rel="nofollow">Bunker 8 Digital Labs</a></div>
-<div class="vert_menu1"><a title="CG3Audio" href="/CG3Audio/" rel="nofollow">CG3 Audio</a></div>
-<div class="vert_menu2"><a title="Chorus Music &amp; Media" href="/Chorus-Music-&amp;-Media/" rel="nofollow">Chorus Music &amp; Media</a></div>
-<div class="vert_menu1"><a title="Cluster Sound" href="/Cluster-Sound/" rel="nofollow">Cluster Sound</a></div>
-<div class="vert_menu2"><a title="DN Loops" href="/DN-Loops/" rel="nofollow">DN Loops</a></div>
-<div class="vert_menu1"><a title="DSP" href="/DSP/" rel="nofollow">DSP</a></div>
-<div class="vert_menu2"><a title="Diginoiz" href="/Diginoiz/" rel="nofollow">Diginoiz</a></div>
-<div class="vert_menu1"><a title="Digital Redux" href="/Digital-Redux/" rel="nofollow">Digital Redux</a></div>
-<div class="vert_menu2"><a title="Discovery Sound" href="/Discovery-Sound/" rel="nofollow">Discovery Sound</a></div>
-<div class="vert_menu1"><a title="Drum Drops" href="/Drum-Drops/" rel="nofollow">Drum Drops</a></div>
-<div class="vert_menu2"><a title="ElectroniSounds" href="/ElectroniSounds/" rel="nofollow">ElectroniSounds</a></div>
-<div class="vert_menu1"><a title="Equinox Sounds" href="/Equinox-Sounds/" rel="nofollow">Equinox Sounds</a></div>
-<div class="vert_menu2"><a title="Essential Audio Media " href="/Essential-Audio-Media-/" rel="nofollow">Essential Audio Media </a></div>
-<div class="vert_menu1"><a title="Fakulty Studios" href="/Fakulty-Studios/" rel="nofollow">Fakulty Studios</a></div>
-<div class="vert_menu2"><a title="Fat Loud" href="/Fat-Loud/" rel="nofollow">FatLoud</a></div>
-<div class="vert_menu1"><a title="Fox Samples" href="/Fox-Samples/" rel="nofollow">Fox Samples</a></div>
-<div class="vert_menu2"><a title="Freak Samples" href="/Freak-Samples/" rel="nofollow">Freak Samples</a></div>
-<div class="vert_menu1"><a title="Function Loops" href="/Function-Loops/" rel="nofollow">Function Loops</a></div>
-<div class="vert_menu2"><a title="Future Loops" href="/Future-Loops/" rel="nofollow">Future Loops</a></div>
-<div class="vert_menu1"><a title="GC Music" href="/GC-Music/" rel="nofollow">GC Music</a></div>
-<div class="vert_menu2"><a title="Giga Loops" href="/Giga-Loops/" rel="nofollow">Giga Loops</a></div>
-<div class="vert_menu1"><a title="Golden Samples" href="/Golden-Samples/" rel="nofollow">Golden Samples</a></div>
-<div class="vert_menu2"><a title="HighlifeSamples" href="/HighlifeSamples/" rel="nofollow">HighLife Samples</a></div>
-<div class="vert_menu1"><a title="Hot Music Factory" href="/Hot-Music-Factory/" rel="nofollow">Hot Music Factory</a></div>
-<div class="vert_menu2"><a title="Industrial Strength Records" href="/Industrial-Strength-Records/" rel="nofollow">Industrial Strength Records</a></div>
-<div class="vert_menu1"><a title="Inspiration Sounds" href="/Inspiration-Sounds/" rel="nofollow">Inspiration Sounds</a></div>
-<div class="vert_menu2"><a title="L8 Night Records" href="/L8-Night-Records/" rel="nofollow">L8 Night Records</a></div>
-<div class="vert_menu1"><a title="Live Soundz Productions" href="/Live-Soundz-Productions/" rel="nofollow">Live Soundz Productions</a></div>
-<div class="vert_menu2"><a title="Loop Nerds" href="/Loop-Nerds/" rel="nofollow">Loop Nerds</a></div>
-<div class="vert_menu1"><a title="Loop Boutique" href="/Loopboutique/" rel="nofollow">Loopboutique</a></div>
-<div class="vert_menu2"><a title="Loopmasters" href="/Loopmasters/" rel="nofollow">Loopmasters</a></div>
-<div class="vert_menu1"><a title="Loopoholics" href="/Loopoholics/" rel="nofollow">Loopoholics</a></div>
-<div class="vert_menu2"><a title="Loopstable" href="/Loopstable/" rel="nofollow">Loopstable</a></div>
-<div class="vert_menu1"><a title="Loopstarz" href="/Loopstarz/" rel="nofollow">Loopstarz</a></div>
-<div class="vert_menu2"><a title="Looptroniks" href="/Looptroniks/" rel="nofollow">Looptroniks</a></div>
-<div class="vert_menu1"><a title="MS Records" href="/MS-Records/" rel="nofollow">MS Records</a></div>
-<div class="vert_menu2"><a title="MVP Loops" href="/MVP-Loops/" rel="nofollow">MVP Loops</a></div>
-<div class="vert_menu1"><a title="Mainroom Warehouse" href="/Mainroom-Warehouse/" rel="nofollow">Mainroom Warehouse</a></div>
-<div class="vert_menu2"><a title="Masterbits" href="/Masterbits/" rel="nofollow">Masterbits</a></div>
-<div class="vert_menu1"><a title="Maxamatrix" href="/Maxamatrix/" rel="nofollow">Maxamatrix</a></div>
-<div class="vert_menu2"><a title="Misfit Digital " href="/Misfit-Digital-/" rel="nofollow">Misfit Digital </a></div>
-<div class="vert_menu1"><a title="Molgli" href="/Molgli/" rel="nofollow">Molgli</a></div>
-<div class="vert_menu2"><a title="Mosh Loops" href="/Mosh-Loops/" rel="nofollow">Mosh Loops</a></div>
-<div class="vert_menu1"><a title="Nano Musik Loops" href="/Nano-Musik-Loops/" rel="nofollow">Nano Musik Loops</a></div>
-<div class="vert_menu2"><a title="Nine 8 Audio" href="/Nine-8-Audio/" rel="nofollow">Nine 8 Audio</a></div>
-<div class="vert_menu1"><a title="Nomad Factory" href="/Nomad-Factory/" rel="nofollow">Nomad Factory</a></div>
-<div class="vert_menu2"><a title="P5 Audio" href="/P5-Audio/" rel="nofollow">P5 Audio</a></div>
-<div class="vert_menu1"><a title="Pakotec Samples" href="/Pakotec-Samples/" rel="nofollow">Pakotec Samples</a></div>
-<div class="vert_menu2"><a title="Party Design" href="/Party-Design/" rel="nofollow">Party Design</a></div>
-<div class="vert_menu1"><a title="Perimeter Sound Arts" href="/Perimeter-Sound-Arts/" rel="nofollow">Perimeter Sound Arts</a></div>
-<div class="vert_menu2"><a title="Pound Audio" href="/Pound-Audio/" rel="nofollow">Pound Audio</a></div>
-<div class="vert_menu1"><a title="Prime Loops" href="/Prime-Loops/" rel="nofollow">Prime Loops</a></div>
-<div class="vert_menu2"><a title="Producer Loops" href="/Producer-Loops/" rel="nofollow">Producer Loops</a></div>
-<div class="vert_menu1"><a title="Pulsed Records" href="/Pulsed-Records/" rel="nofollow">Pulsed Records</a></div>
-<div class="vert_menu2"><a title="Push Button Bang" href="/Push-Button-Bang/" rel="nofollow">Push Button Bang</a></div>
-<div class="vert_menu1"><a title="Resonance Sound" href="/Resonance-Sound/" rel="nofollow">Resonance Sound</a></div>
-<div class="vert_menu2"><a title="Rob-Lee-Music" href="/Rob-Lee-Music/" rel="nofollow">Rob Lee Music</a></div>
-<div class="vert_menu1"><a title="Roqstar Entertainment" href="/Roqstar-Entertainment/" rel="nofollow">Roqstar Entertainment</a></div>
-<div class="vert_menu2"><a title="SSL Productions" href="/SSL-Productions/" rel="nofollow">SSL Productions</a></div>
-<div class="vert_menu1"><a title="Samplecraze" href="/Samplecraze/" rel="nofollow">Sample Craze</a></div>
-<div class="vert_menu2"><a title="Samplephonics" href="/Samplephonics/" rel="nofollow">Samplephonics</a></div>
-<div class="vert_menu1"><a title="Shockwave" href="/Shockwave/" rel="nofollow">Shockwave</a></div>
-<div class="vert_menu2"><a title="Smash Up The Studio" href="/Smash-Up-The-Studio/" rel="nofollow">Smash Up The Studio</a></div>
-<div class="vert_menu1"><a title="Song Stream" href="/Song-Stream/" rel="nofollow">Song Stream</a></div>
-<div class="vert_menu2"><a title="Sonic Drive Media" href="/Sonic-Drive-Media/" rel="nofollow">Sonic Drive Media</a></div>
-<div class="vert_menu1"><a title="Sonic Flavours" href="/Sonic-Flavours/" rel="nofollow">Sonic Flavours</a></div>
-<div class="vert_menu2"><a title="Sonic Range" href="/Sonic-Range/" rel="nofollow">Sonic Range</a></div>
-<div class="vert_menu1"><a title="Sonic Reality" href="/Sonic-Reality/" rel="nofollow">Sonic Reality</a></div>
-<div class="vert_menu2"><a title="Sound Killers" href="/Sound-Killers/" rel="nofollow">Sound Killers</a></div>
-<div class="vert_menu1"><a title="Sound Propulsion" href="/Sound-Propulsion/" rel="nofollow">Sound Propulsion</a></div>
-<div class="vert_menu2"><a title="Sound Vibez" href="/Sound-Vibez/" rel="nofollow">Sound Vibez</a></div>
-<div class="vert_menu1"><a title="Soundcells" href="/Soundcells/" rel="nofollow">Soundcells</a></div>
-<div class="vert_menu2"><a title="Soundscan" href="/Soundscan/" rel="nofollow">Soundscan</a></div>
-<div class="vert_menu1"><a title="Soundtrack Loops" href="/Soundtrack-Loops/" rel="nofollow">Soundtrack Loops</a></div>
-<div class="vert_menu2"><a title="Stereophonics" href="/Stereophonics/" rel="nofollow">Stereophonics</a></div>
-<div class="vert_menu1"><a title="Strategic Audio" href="/Strategic-Audio/" rel="nofollow">Strategic Audio</a></div>
-<div class="vert_menu2"><a title="Studio Silva" href="/Studio-Silva/" rel="nofollow">Studio Silva</a></div>
-<div class="vert_menu1"><a title="Studio Wormbone" href="/Studio-Wormbone/" rel="nofollow">Studio Wormbone</a></div>
-<div class="vert_menu2"><a title="Synthetic Solutions" href="/Synthetic-Solutions/" rel="nofollow">Synthetic Solutions</a></div>
-<div class="vert_menu1"><a title="Temporal Geometry" href="/Temporal-Geometry/" rel="nofollow">Temporal Geometry</a></div>
-<div class="vert_menu2"><a title="TheHitSound" href="/TheHitSound/" rel="nofollow">The Hit Sound</a></div>
-<div class="vert_menu1"><a title="The Loop Loft" href="/The-Loop-Loft/" rel="nofollow">The Loop Loft</a></div>
-<div class="vert_menu2"><a title="Trance Euphoria" href="/Trance-Euphoria/" rel="nofollow">Trance Euphoria</a></div>
-<div class="vert_menu1"><a title="Twenty-Six" href="/Twenty-Six/" rel="nofollow">Twenty-Six</a></div>
-<div class="vert_menu2"><a title="Ueberschall" href="/Ueberschall/" rel="nofollow">Ueberschall</a></div>
-<div class="vert_menu1"><a title="Urbanistic" href="/Urbanistic/" rel="nofollow">Urbanistic</a></div>
-<div class="vert_menu2"><a title="Vandalism" href="/Vandalism/" rel="nofollow">Vandalism</a></div>
-<div class="vert_menu1"><a title="WM Entertainment" href="/WM-Entertainment/" rel="nofollow">WM Entertainment</a></div>
-<div class="vert_menu2"><a title="Wave Alchemy" href="/Wave-Alchemy/" rel="nofollow">Wave Alchemy</a></div>
-<div class="vert_menu1"><a title="Wide Range Electric" href="/Wide-Range-Electric/" rel="nofollow">Wide Range Electric</a></div>
-<div class="vert_menu2"><a title="Wow! Records" href="/Wow-Records/" rel="nofollow">Wow! Records</a></div>
-<div class="vert_menu1"><a title="X-R Audio" href="/X-R-Audio/" rel="nofollow">X-R Audio</a></div>
-<div class="vert_menu2"><a title="YnK Audio" href="/YnK-Audio/" rel="nofollow">YnK Audio</a></div>
-<div class="vert_menu1"><a title="Zero-G" href="/Zero-G/" rel="nofollow">Zero-G</a></div>
-<div id="more"><a href="manufacturers.php"><img src="http://www.producerloops.com/skin1/images//more.gif" alt="more..." border="0"></a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Download-Akai-MPC-2500-Training-Videos/" title="Akai MPC 2500 Training">Akai MPC 2500 Training</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-audio-plugins/" title="Audio Plugins">Audio Plugins</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/Bundles/" title="Bundles">Bundles</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/Construction-Kits/" title="Construction Kits">Construction Kits</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/daw-templates/" title="DAW Templates">DAW Templates</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/DJ-Mixtools/" title="DJ Mixtools">DJ Mixtools</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/download-drum-samples/" title="Drum Samples">Drum Samples</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/Exclusive-Products/" title="Exclusive Products">Exclusive Products</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/Download-Free-Samples-Loops-Download/" title="Free Samples">Free Samples</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-midi-loops-midi-riffs/" title="MIDI Loops">MIDI Loops</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/multi-buy/" title="Multi-Buy Discounts">Multi-Buy Discounts</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/Multi-Track-Loops/" title="Multi-Track Loops">Multi-Track Loops</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/download-music-software/" title="Music Software">Music Software</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/Pick-n-Mix-Products/" title="Pick 'n' Mix">Pick 'n' Mix</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/download-samples-loops/" title="Samples/Loops">Samples/Loops</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-sound-effects/" title="Sound Effects">Sound Effects</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/download-synth-sounds/" title="Synthesizer Sounds">Synthesizer Sounds</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-pro-audio-tutorials/" title="Tutorials/Training">Tutorials/Training</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/VST-Sound-Banks/" title="VST Sound Banks">VST Sound Banks</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/Video-Tutorials-Learn-How-To-Produce-Music/" title="Video Tutorials">Video Tutorials</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/download-virtual-instruments/" title="Virtual Instruments">Virtual Instruments</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-vocal-samples/" title="Vocal Samples">Vocal Samples</a></div><div><a title="Download Loops &amp; Samples By Genre" href="/download-samples-loops-by-genre/"><img src="http://www.producerloops.com/skin1/images//menu_vert_section2.gif" alt="DOWNLOADS by genre"></a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Acid-House-Samples-Loops/" title="Acid House">Acid House</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-ambient-loops-samples/" title="Ambient">Ambient</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/Download-Bassline-4x4-Samples-and-4x4-Loops/" title="Bassline 4x4">Bassline 4x4</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-blues-loops-samples/" title="Blues">Blues</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/Download-Bollywood-Loops-and-Bollywood-Samples/" title="Bollywood">Bollywood</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-breakbeat-loops-samples/" title="Breaks">Breaks</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/Cinematic-Loops-Movie-Soundtrack-Loops/" title="Cinematic">Cinematic</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-country-loops-samples/" title="Country">Country</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/download-dance-loops-samples/" title="Dance">Dance</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/Dancehall-Samples-Dancehall-Loops/" title="Dancehall">Dancehall</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/deep-tech-house-loops-samples/" title="Deep/Tech">Deep/Tech</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/Download-Dirty-South-Loops-Dirty-South-Samples/" title="Dirty South">Dirty South</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/download-disco-loops-samples/" title="Disco">Disco</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-drum-and-bass-loops-samples/" title="Drum &amp; Bass">Drum &amp; Bass</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/download-dub-samples-dub-loops/" title="Dub">Dub</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-dubstep-loops-samples/" title="Dubstep">Dubstep</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/edm-loops-edm-samples/" title="EDM">EDM</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/east-coast/" title="East Coast">East Coast</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/download-electro-loops-samples/" title="Electro">Electro</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/Fidget-House-Samples-Fidget-House-Loops/" title="Fidget House">Fidget House</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/download-funk-loops-samples/" title="Funk">Funk</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-gabber-loops-samples/" title="Gabber">Gabber</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/download-garage-loops-samples/" title="Garage">Garage</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/Glitch-Samples-and-Glitch-Loops/" title="Glitch">Glitch</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/gospel/" title="Gospel">Gospel</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-grime-loops-samples/" title="Grime">Grime</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/download-hardcore-loops-samples/" title="Hardcore">Hardcore</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-hardstyle-loops-samples/" title="Hardstyle">Hardstyle</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/download-hip-hop-loops-samples/" title="Hip Hop">Hip Hop</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-house-loops-samples/" title="House">House</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/indie/" title="Indie">Indie</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-industrial-loops-samples/" title="Industrial">Industrial</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/download-jazz-loops-samples/" title="Jazz">Jazz</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-jumpstyle-loops-samples/" title="Jumpstyle">Jumpstyle</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/download-latin-loops-samples/" title="Latin">Latin</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-lounge-loops-samples/" title="Lounge">Lounge</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/download-minimal-loops-samples/" title="Minimal">Minimal</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/neo-soul/" title="Neo Soul">Neo Soul</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/download-orchestral-loops-samples/" title="Orchestral">Orchestral</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-pop-loops-samples/" title="Pop">Pop</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/Progressive-Samples-Loops/" title="Progressive">Progressive</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-rnb-loops-samples/" title="R'n'B">R'n'B</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/download-reggae-loops-samples/" title="Reggae">Reggae</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/Reggaeton-Samples-Reggaeton-Loops/" title="Reggaeton">Reggaeton</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/download-rock-loops-samples/" title="Rock">Rock</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-soul-loops-samples/" title="Soul">Soul</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/download-tech-house-loops-samples/" title="Tech-House">Tech-House</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-techno-loops-samples/" title="Techno">Techno</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/download-trance-loops-trance-samples/" title="Trance">Trance</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/trap/" title="Trap">Trap</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/Download-Trip-Hop-Loops-Trip-Hop-Samples/" title="Trip Hop">Trip Hop</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/west-coast/" title="West Coast">West Coast</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/download-world-ethnic-loops-samples/" title="World">World</a></div><div><a title="Download Loops &amp; Samples By Format" href="/download-samples-loops-by-format/"><img src="http://www.producerloops.com/skin1/images//menu_vert_section3.gif" alt="DOWNLOADS by format"></a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/download-ableton-live-loops-samples/" title="Ableton Live!">Ableton Live!</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-acid-loops/" title="Acid Loops">Acid Loops</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/Download-Akai-MPC-Format-Samples-Loops/" title="Akai MPC">Akai MPC</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-akai-s1000-s3000-samples-loops/" title="Akai S-1000">Akai S-1000</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/Akai-S-3000-Sample-CD-Downloads/" title="Akai S-3000">Akai S-3000</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-apple-loops-aiff-samples-loops/" title="Apple Loops/Aiff">Apple Loops/Aiff</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/Download-Native-Instruments-Battery-Patches/" title="Battery">Battery</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/Download-Beatmaker-Kits-for-Apple-iPhone/" title="Beatmaker Kits">Beatmaker Kits</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/Download-E-mu-X2-Patches/" title="E-mu X2">E-mu X2</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/Elastik-Sound-Banks/" title="Elastik Sound Banks">Elastik Sound Banks</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/Download-EXS24-Samples-Loops-Patches/" title="Exs24">Exs24</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-fruity-loops-samples/" title="Fruity Loops">Fruity Loops</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/Download-Halion-Samples/" title="Halion">Halion</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-kontakt-loops-samples/" title="Kontakt">Kontakt</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/download-midi/" title="MIDI">MIDI</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/Download-Mach-Five-Samples-Mach5-Loops/" title="Mach Five">Mach Five</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/download-synthesizer-multisamples/" title="Multi-Samples">Multi-Samples</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/OMF/" title="OMF">OMF</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/Download-Octatrack-Loops/" title="Octatrack">Octatrack</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-rex-loops/" title="REX">REX</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/download-reason-sampler-patches/" title="Reason NN19/NN-XT">Reason NN19/NN-XT</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-reason-refills/" title="Reason Refills">Reason Refills</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/Download-Cakewalk-SFZ-Patches/" title="SFZ">SFZ</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/sp-404/" title="SP-404">SP-404</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/download-soundfonts/" title="Soundfont">Soundfont</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/Stylus-RMX-Loops/" title="Stylus RMX">Stylus RMX</a></div><div class="vert_menu2"><a href="http://www.producerloops.com/download-sysex-patches-sounds/" title="Sysex Patches">Sysex Patches</a></div><div class="vert_menu1"><a href="http://www.producerloops.com/download-wav-loops-samples/" title="WAV">WAV</a></div>
+<div><a href="http://www.producerloops.com/manufacturers.php"><img src="http://www.producerloops.com/skin1/images//menu_vert_section4.gif" alt="DOWNLOADS by manufacturer"></a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Acid-Records/">Acid Records</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Alonso-Sound/">Alonso Sound</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Anthology/">Anthology</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Artis-Audio/">Artis Audio</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Astro-Loops/">Astro Loops</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Auditory/">Auditory</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Best-Service/">Best Service</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Big-Citi-Loops/">Big Citi Loops</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Black-Dynasty/">Black Dynasty</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Black-Hand-Loops/">Black Hand Loops</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Bluezone-Corporation/">Bluezone Corporation</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Bollywoodsounds/">Bollywood Sounds</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Bunker-8-Digital-Labs/">Bunker 8 Digital Labs</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/CG3Audio/">CG3 Audio</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Chorus-Music-&amp;-Media/">Chorus Music &amp; Media</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Cluster-Sound/">Cluster Sound</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/DN-Loops/">DN Loops</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Diginoiz/">Diginoiz</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Digital-Redux/">Digital Redux</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Discovery-Sound/">Discovery Sound</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Drum-Drops/">Drum Drops</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/ElectroniSounds/">ElectroniSounds</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Equinox-Sounds/">Equinox Sounds</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Essential-Audio-Media-/">Essential Audio Media </a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Fakulty-Studios/">Fakulty Studios</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Fat-Loud/">FatLoud</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Fox-Samples/">Fox Samples</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Freak-Samples/">Freak Samples</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Function-Loops/">Function Loops</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Future-Loops/">Future Loops</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/GC-Music/">GC Music</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Giga-Loops/">Giga Loops</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Golden-Samples/">Golden Samples</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/HighlifeSamples/">HighLife Samples</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Hot-Music-Factory/">Hot Music Factory</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Industrial-Strength-Records/">Industrial Strength Records</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Inspiration-Sounds/">Inspiration Sounds</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Jungle-Loops/">Jungle Loops</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Loop-Nerds/">Loop Nerds</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Loopboutique/">Loopboutique</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Loopmasters/">Loopmasters</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Loopoholics/">Loopoholics</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Loopstable/">Loopstable</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Loopstarz/">Loopstarz</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Looptroniks/">Looptroniks</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/MS-Records/">MS Records</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/MVP-Loops/">MVP Loops</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Mainroom-Warehouse/">Mainroom Warehouse</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Masterbits/">Masterbits</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Misfit-Digital-/">Misfit Digital </a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Molgli/">Molgli</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Mosh-Loops/">Mosh Loops</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Nano-Musik-Loops/">Nano Musik Loops</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Nine-8-Audio/">Nine 8 Audio</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Nomad-Factory/">Nomad Factory</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Organic-Loops/">Organic Loops</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/P5-Audio/">P5 Audio</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Pakotec-Samples/">Pakotec Samples</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Party-Design/">Party Design</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Perimeter-Sound-Arts/">Perimeter Sound Arts</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Platinum-Audiolab/">Platinum Audiolab</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Pound-Audio/">Pound Audio</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Premier-Sound-Bank/">Premier Sound Bank</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Prime-Loops/">Prime Loops</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Producer-Loops/">Producer Loops</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Prototype-Samples/">Prototype Samples</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Pulsed-Records/">Pulsed Records</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Pure-Edm/">Pure EDM</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Push-Button-Bang/">Push Button Bang</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Resonance-Sound/">Resonance Sound</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Rob-Lee-Music/">Rob Lee Music</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Roqstar-Entertainment/">Roqstar Entertainment</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/SSL-Productions/">SSL Productions</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Samplecraze/">Sample Craze</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Samplephonics/">Samplephonics</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Shockwave/">Shockwave</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Smash-Up-The-Studio/">Smash Up The Studio</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Song-Stream/">Song Stream</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Sonic-Drive-Media/">Sonic Drive Media</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Sonic-Flavours/">Sonic Flavours</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Sonic-Reality/">Sonic Reality</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Sound-Killers/">Sound Killers</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Sound-Propulsion/">Sound Propulsion</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Soundcells/">Soundcells</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Sounds-+-MIDI/">Sounds + MIDI</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Sounds-And-Effects/">Sounds And Effects</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Soundscan/">Soundscan</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Soundtrack-Loops/">Soundtrack Loops</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Standalone-music/">Standalone-music</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Stereophonics/">Stereophonics</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Strategic-Audio/">Strategic Audio</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Studio-Silva/">Studio Silva</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Studio-Wormbone/">Studio Wormbone</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Synthetic-Solutions/">Synthetic Solutions</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Temporal-Geometry/">Temporal Geometry</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/TheHitSound/">The Hit Sound</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/The-Loop-Loft/">The Loop Loft</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Trance-Euphoria/">Trance Euphoria</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Twenty-Six/">Twenty-Six</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Ueberschall/">Ueberschall</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Urban-Elite/">Urban Elite</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Urbanistic/">Urbanistic</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Vandalism/">Vandalism</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/WM-Entertainment/">WM Entertainment</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Wave-Alchemy/">Wave Alchemy</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/Wide-Range-Electric/">Wide Range Electric</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Wow-Records/">Wow! Records</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/X-R-Audio/">X-R Audio</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Xenos-Soundworks/">Xenos Soundworks</a></div>
+<div class="vert_menu2"><a href="http://www.producerloops.com/YnK-Audio/">YnK Audio</a></div>
+<div class="vert_menu1"><a href="http://www.producerloops.com/Zero-G/">Zero-G</a></div>
+<div id="more"><a href="http://www.producerloops.com/manufacturers.php"><img src="http://www.producerloops.com/skin1/images//more.gif" alt="more..." border="0"></a></div>
 					<div style="text-align:center;">
 
 </div>
-
+					
+					
 
 		<div style="position:relative;">
 			<div>
 				<img src="http://www.producerloops.com/skin1/images//join.gif" alt="Join us and become a provider" height="83" width="192">
 			</div>
 			<div style=" position:absolute; align:right;bottom:5px;right:10px; color:#FFFFFF; font-family:Arial; font-size:12px;">
-				<a href="/provider/register.php" rel="nofollow">click here</a>
+				<a href="/provider/register.php">click here</a>
 			</div>
 		</div>
-				<div id="supplier_login"><a href="/provider/home.php" rel="nofollow"><img src="http://www.producerloops.com/skin1/images//supplier_login.gif" alt="Supplier login" border="0"></a></div>
+				<div id="supplier_login"><a href="/provider/home.php"><img src="http://www.producerloops.com/skin1/images//supplier_login.gif" alt="Supplier login" border="0"></a></div>
 				</div>
 			</td>
 		</tr>
@@ -1034,10 +1145,10 @@ img9.src = 'http://www.producerloops.com/skin1/images//menu1_4_rollover.jpg';
 <div id="your_order_center">
 		Cart is empty
 <br><br>
-		<input type="button" class="your_order_center_button" value="View Basket" onclick="window.location='cart.php'">
+		<input type="button" class="your_order_center_button" value="View Cart" onclick="window.location='cart.php'">
 		<input type="button" class="your_order_center_button" value="Checkout" onclick="javascript: show_notice();">
 	</div>
-					<div style="text-align:center;" align="center">
+	<div style="text-align:center;background-color:#313131;" align="center">
 
 <table width="135" border="0" cellpadding="0" cellspacing="2" title="Click to Verify - This site chose a Symantec SSL Certificate for secure e-commerce and confidential communications." align="center" style="text-align:center;">
 	<tbody><tr>
@@ -1045,8 +1156,8 @@ img9.src = 'http://www.producerloops.com/skin1/images//menu1_4_rollover.jpg';
 			<script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.producerloops.com&amp;size=M&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
 		</td>
 	</tr>
-</tbody></table>									
-  					</div>
+	</tbody></table>
+</div>
 	
 </div>
 
@@ -1054,13 +1165,14 @@ img9.src = 'http://www.producerloops.com/skin1/images//menu1_4_rollover.jpg';
 				
 				
 <div id="latest_news">
-	<div id="latest_news_top"><img src="http://www.producerloops.com/skin1/images//latest_news.gif" alt="Latest News"></div>
+	<div id="latest_news_top" alt="Latest News" title="Latest News"><a href="/feed.php" target="_blank" style="float: right; margin: 3px 3px 0 0;">
+<img border="0" alt="" src="/skin1/images/rss_t.png">
+</a></div>
 	<div class="latest_news_block">
 <span class="text1_Verdana11_white"></span><br>
-<p style="margin-top:-10px;"><a href="https://www.producerloops.com/Download-Producer-Loops-Commercial-Dance-Elements-Vol-2.html">Commercial Dance Elements Vol 2
-</a><br><br>'Commercial Dance Elements Vol 2' is the second in a set of rhythmic and FX one-shots designed with versatility in mind, created and produced exclusively for Producer Loops by Simon Rudd of "The Fliptones". The 'toolbox' approach offered in this pack allows these samples to be slotted effortlessly into your next Dance or Commercial RnB projects, to spark maximum creativity. <br><br><a href="https://www.producerloops.com/Producer-Loops/&#10;">View The Complete Range of Producer Loops Products</a> </p><br>
+<p style="margin-top:-10px;"><a href="https://www.producerloops.com/Download-Producer-Loops-LA-Pop-Sessions-Vol-3.html">The Ultimate Christmas Deal
+</a><br><br>The "Ultimate" Christmas Deal is here. Get 'Commercial RnB: Trance &amp; Dance Bundle (Vols 1-6)' (RRP £129.95) for FREE with ANY order over £25.00 placed before January 2nd. Includes 6.5GB content and 2900 Loops and Samples. This product will be automatically added to your Cart. Happy Christmas from the Producer Loops team. <br><br><a href="https://www.producerloops.com/Producer-Loops/">View All Producer Loops Products</a> </p><br>
 <span class="text1_Verdana11_white" style="font-size:10px;"><a href="/support.html?/index.php?_m=news&amp;_a=view" class="SmallNote"><b><font color="white" style="font-size:11px;">Read the full article here...</font></b></a></span>
-
 </div>
 
 </div>
@@ -1135,16 +1247,16 @@ Your email address:<br>
 
 </div>
 
+	
+					
 
-
-
+	
 
 
 <object type="application/x-shockwave-flash" data="/190-600-Producertech.swf" width="190" height="600">
 <param name="movie" value="/190-600-Producertech.swf">
 <param name="wmode" value="transparent">
 </object>
-
 
 <img src="http://www.producerloops.com/ad_banner_images/ad_banner26.gif" height="500" width="190" alt="Buy 1 get 2 for free banner">
 
@@ -1159,11 +1271,22 @@ Your email address:<br>
 				<div style="text-align:center;">
 
 </div>	
-
 				
-
 				
+								
+					
+					
 
+	
+				
+					
+					
+
+	
+					
+					
+
+	
 		</div>
 
 	</td>
@@ -1176,18 +1299,20 @@ Your email address:<br>
 			<div id="footer_top"></div>
 			<div id="footer_menu">
 			<a href="/">Producer Loops Home</a> |
-			<a title="About us" href="/about-us.html" rel="nofollow">About Us</a> |
-      <a href="help.php?section=contactus&amp;mode=update" rel="nofollow">Contact us</a> |
-			<a href="https://www.producerloops.com/support.html" rel="nofollow">Help</a> |
-      <a href="help.php?section=conditions" rel="nofollow">Terms &amp; Conditions</a> |
-      <a title="Privacy Policy and Legal Statement" href="/privacy-policy-and-legal-statement.html" rel="nofollow">Privacy Policy</a> |
-			<a title="Security" href="/security.html" rel="nofollow">Security</a> |
-			<a title="Refund Policy" href="/refund-policy.html" rel="nofollow">Refunds</a>  |
-      <a href="links.html" rel="nofollow">Links</a>  |
-      <a href="sitemap.php" rel="nofollow">Site Map</a>  |
-	    <a href="cookie-policy.html" rel="nofollow">Cookie Policy</a></div>
-			<div id="copyright">Copyright © 2008 - 2013. Producer Loops Limited. All rights reserved.<br>
-</div>
+			<a title="About us" href="/about-us.html">About Us</a> |
+      <a href="help.php?section=contactus&amp;mode=update">Contact us</a> |
+			<a href="https://www.producerloops.com/support.html">Help</a> |
+      <a href="help.php?section=conditions">Terms &amp; Conditions</a> |
+      <a title="Privacy Policy and Legal Statement" href="/privacy-policy-and-legal-statement.html">Privacy Policy</a> |
+			<a title="Security" href="/security.html">Security</a> |
+			<a title="Refund Policy" href="/refund-policy.html">Refunds</a>  |
+      <a href="links.html">Links</a>  |
+      <a href="sitemap.php">Site Map</a>  |
+	    <a href="cookie-policy.html">Cookie Policy</a></div>
+			<div id="copyright">Copyright © 2008 - 2013. Producer Loops Limited. All rights reserved.
+			<a style="float: right; margin-right: 5px;" target="_blank" href="/products.xml"><img border="0" src="/skin1/images/rss_t.png" alt="">
+			</a>
+			</div>
 		</div>
 	</td>
 </tr>
@@ -1227,6 +1352,19 @@ Your email address:<br>
 	</script>
 	
 
+
+
+
+
+
+<!-- Place this tag after the last +1 button tag. -->
+<script type="text/javascript">
+  (function() {
+	var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+	po.src = 'https://apis.google.com/js/plusone.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
 
 
 
