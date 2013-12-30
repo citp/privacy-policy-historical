@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liekkas.com privacy policy that was archived on 2013-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130306070227id_/http%3A//www.liekkas.com/%3Fpage_id%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liekkas.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230160618id_/http%3A//www.liekkas.com/%3Fpage_id%3D8) for the most accurate reproduction.*
 
 # Privacy Policy | Liekkas.com
 
