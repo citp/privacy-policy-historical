@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techfume.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513012428id_/http%3A//www.techfume.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techfume.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230024712id_/http%3A//www.techfume.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TechFume
 
