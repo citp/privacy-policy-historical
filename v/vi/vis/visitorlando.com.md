@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the visitorlando.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515090540id_/http%3A//www.visitorlando.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitorlando.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230165607id_/http%3A//www.visitorlando.com/privacy-policy) for the most accurate reproduction.*
 
 # Visit Orlando - Official Florida Vacation Information
 
-**Privacy Policy**
+Privacy Policy 
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name. 
 
@@ -53,7 +53,7 @@ This policy and the use of this Site are subject to the laws and regulations of 
 Should you have any question regarding the privacy policy or our Web site, or if you feel that this site is not following its stated information policy, you may contact us at: 
 
 VisitOrlando.com  
-6700 Forum Drive, Ste 100  
+6277 Sea Harbor Drive, Ste 400  
 Orlando FL 32821  
 407-363-5823 
 
