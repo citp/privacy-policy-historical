@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyvacationcritic.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501072547id_/http%3A//www.familyvacationcritic.com/privacy/abt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyvacationcritic.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231001114id_/http%3A//www.familyvacationcritic.com/privacy/abt) for the most accurate reproduction.*
 
 # Privacy - Family Vacation Critic
 
