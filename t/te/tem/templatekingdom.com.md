@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the templatekingdom.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601050212id_/http%3A//www.templatekingdom.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatekingdom.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230014439id_/http%3A//www.templatekingdom.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy - Template Kingdom
+# Privacy Policy
 
-Template Kingdom (hereafter referred to as Template Kingdom) has created this privacy policy to demonstrate our commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users. 
+Template Kingdom (hereafter referred to as Template Kingdom) has created this privacy policy to demonstrate our commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
 ### Coverage & Scope
 
-  * This privacy policy covers Template Kingdom's treatment of personally identifiable information collected by Template Kingdom, a website owned and operated by Template Kingdom. 
+  * This privacy policy covers Template Kingdom's treatment of personally identifiable information collected by Template Kingdom, a website owned and operated by Template Kingdom.
   * This privacy policy does not apply to the practices of companies that Template Kingdom does not own or control, or of persons that Template Kingdom does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which Template Kingdom websites link.
 
 
