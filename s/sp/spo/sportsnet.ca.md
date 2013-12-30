@@ -1,90 +1,163 @@
-> *The following text is extracted and transformed from the sportsnet.ca privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603224854id_/http%3A//www.sportsnet.ca/legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsnet.ca privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230110545id_/http%3A//www.rogerspublishing.ca/privacy.shtml) for the most accurate reproduction.*
 
-# CTVSportsnet.com
+# Rogers Publishing -- Canada’s largest publisher magazines and online
 
-**General Privacy Statement**
+Thank you for your interest in Rogers Media products and services. We believe in giving you full disclosure about the kinds of personal information we gather and what we do with it, as well as giving you a choice about the use of your personal information.
 
-Privacy on the Internet remains a priority for CTV Sportsnet; to this end CTV Sportsnet gathers user information for research, development and marketing purposes only. The collection of logistic/ demographic information allows for the enhancement of site development. This privacy statement discloses what information is gathered, how it is gathered and how to correct, amend or opt out of the collection process. The collection of this demographic information is strictly on a voluntary basis. To safeguard privacy, CTV Sportsnet remains committed to informing our users what identifiable information is collected, how the information is used, with whom the information is shared and how our users may opt out and/or correct or modify any personal information. 
+**General FAQs**  
+_What is Rogers Media?_  
+_Where can I learn about the Rogers Group of Companies privacy policy?_  
+_What is the purpose of these privacy policy FAQs?_  
+_What is personal information?_  
+_Does Rogers collect personal information?_  
+_How does Rogers use information it gathers about me?_  
+_Might I be contacted by organizations outside Rogers?_  
+_What are marketing preferences?_  
+_How can I change my marketing preferences?_  
+_Can I change or update my e-mail newsletter subscriptions?_  
+_Does Rogers Media use telemarketing to sell magazine subscriptions?_  
+_What about personalized ads in magazines?_  
+_How does Rogers Media protect the privacy of children?_  
+_I'm registering on one of your websites for the first time, but my name is here already. How?_  
+_Do Rogers Media websites use cookies?_  
+_Do Rogers Media websites record information about my computer or my visit?_  
+_How does Rogers Media advertise on its website?_  
+_What about information on public forums?_  
+_What steps do you take for the security of my information?_  
+_How else can I protect my privacy online?_  
+_What happens to information I provide on a contest entry?_  
+_Are there other ways my information will be used?_
 
-Personally identifiable information on our users will not be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection. At such points of collection, the user will have the opportunity to opt out of receiving promotional and/or marketing materials about other products, services and/or offerings from CTV Sportsnet and/or any other third parties. 
-
-Not withstanding any opting out provision by the user, CTV Sportsnet reserves the right to contact a subscriber regarding account status, changes to the subscriber agreement, reproduction of user emails for promotional purposes, and other matters relevant to the underlying service and/or the information collected. 
-
-CTV Sportsnet reserves the right to collect and analyse user aggregate demographics for further site development and enhancement, and marketing purposes. Users should be aware that CTV Sportsnet may permit third parties to offer subscription and/or registration based services through CTV Sportsnet’s website. However, CTV Sportsnet is not responsible for any actions or policies of such third parties, and users should check the applicable privacy policy of such party when providing personally identifiable information. 
-
-Users should be aware that when voluntarily disclosing personally identifiable information on bulletin boards or chat rooms on the CTV Sportsnet website that information, along with any substantive information disclosed in the user’s communication, can be collected and correlated and used by third parties, and may result in unsolicited messages from other posters or third parties. Please be advised that such activities are beyond the control of ctvsportsnet. We remind users that an opting out provision is provided ( see below). 
-
-Questions regarding this statement should be directed to: 
-
-memberservices@ctvsportsnet.com 
-
-ctvsportsnet collects data for research, site development, and marketing and promotional purposes only. Demographic information is conveyed only in aggregate form to third parties. ctvsportsnet collects personally identifying information under the following conditions: 
-
-  * Contest or sweepstakes registration
-  * Site subscription
-  * Online shopping
-  * Community postings (i.e. chat rooms and/or bulletin boards)
-  * Voting/polling activities
-
-Our users may elect to opt out of the data collection process or change/modify the information gathered. 
-
-**Registration**
-
-Anyone who participates in interactive activities (i.e. chat rooms, message boards, contest entries, on-line commerce) on the CTV Sportsnet website may be asked to register a free ID and password or complete a subscription registration for a member ID and password. We use customer information from this registration form to send the user information about our company and promotional material from some of our partners. Financial information that is collected is used to bill the user for products and services. The customer’s information is also used to contact the user for customer service reasons. Users may opt out of receiving future mailings. Identifiers such as IDs and passwords are collected to verify the user’s identity and for the use as account numbers in our record system. 
-
-**Opt Out/ Modify**
-
-Users may opt out of further promotional contacts or up date their personal information. Upon request, ctvsportsnet will use commercially reasonable efforts to functionally delete the user’s personal information from its database; however, it may be impossible to delete a user’s entry without some residual information because of backups and records of deletions. Users may opt out or modify/change information that is communicated to the ctvsportsnet website by emailing member services at: memberservices@ctvsportsnet.com. ctvsportsnet is not responsible for information that has been communicated prior to the user exercising their right to opt out, modify or change profile information. 
-
-**IP Address**
-
-An IP address is a number that is automatically assigned to your computer whenever you access the website. When the user requests information from the site the server logs the user’s IP address. The IP address is used as a diagnostic tool for identifying system problems with the server, to administer the ctvsportsnet website, and to report aggregate information to advertisers. 
-
-**Cookies**
-
-Cookies are small text files a website can use to recognize repeat users, facilitate the user’s ongoing access to and use of the site, and allow a site to track usage behaviour and compile aggregate data that will allow content improvements and target advertising. Cookies are not programs that come onto a user’s system and damage files. Cookies work by assigning a unique number to the user that has no meaning outside the assigning site. Users should be advised that ctvsportsnet cannot control the use of cookies or the resulting information by advertisers or third parties hosting data for ctvsportsnet. If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to deny or accept the cookie feature; however, users should note that cookies may be necessary to provide the user with certain features available on the ctvsportsnet site. 
-
-Personal information conveyed online may be collected by third parties; conveyance of personal information online is done at the user’s own risk. While ctvsportsnet strives to protect its user’s personal information and privacy, we cannot guarantee the security of any information disclosed online. 
-
-**Order Forms**
-
-ctvsportsnet may utilize an order form for customers to purchase products and services. If you place an order with the website store personal information including credit card numbers will be collected. This information will be used by the merchant to bill the user for products and services. Contact information from the order will also be used to ship orders, to contact a user for customer service related issues, and for marketing and promotions. At any time the user may opt out of providing information by contacting the service manager at the above noted email address. 
-
-**Surveys**
-
-Online surveys ask users for their ctvsportsnet email address and demographic information. This demographic and profile data is collected and used for the following purposes: 
-
-  * Research and Development.
-  * Website Enhancement.
-  * Marketing and Promotions.
+**Contact Us**  
 
 
+* * *
 
-Users may exercise their right to opt out at any time by contacting the service manager via email. 
+**General FAQs**
 
-**Contests**
+**_What is Rogers Media?_**  
+Rogers Media Inc. operates Rogers Broadcasting and Rogers Publishing. Rogers Media Inc. is a wholly owned subsidiary of Rogers Communications Partnership (Rogers) (TSX: RCI; NYSE: RCI). Rogers Communications and its subsidiaries and affiliates are referred to as the Rogers Group of Companies.   
+Back to top
 
-CTVsportsnet may periodically administer online contests in which user information is required. The information collected is used strictly for the above noted purposes only. The majority of the contests will be hosted by the ctvsportsnet website; however, there may be cases in which a third party sponsor will host an online contest and collect user information. In those cases, users are advised to review the privacy statements of the third party site. Users are further reminded of their right to opt out by contacting the service manager via email or telephone. 
+_**Where can I learn about the Rogers Group of Companies privacy policy?**_  
+The privacy policy of the Rogers Group of Companies, including Rogers Media, can be found at <http://www.rogers.com/web/content/Privacy-CRTC> .  
+Back to top
 
-**Newsletter**
+_**What is the purpose of these privacy policy FAQs?**_  
+These FAQs provide additional information regarding, and interpretation of, the Rogers Group of Companies’ privacy policy as it applies to Rogers Media. The FAQs explain how Rogers Media treats your personal information collected in connection with your subscription to all Rogers Media publications and your interactions with Rogers Media radio, website and digital properties. They also provide contact information in the event that you want to make further inquiries regarding your personal information.  
+Back to top
 
-CTVsportsnet may offer online newsletters to users to share information about recent site developments. Users may cancel their email subscriptions by following the simple instructions at the bottom of each newsletter. 
+**_What is personal information?_**  
+Personal information is any information that is related to an identifiable individual. It typically includes such information as your name, e-mail address, or mailing address. It could also include preferences you provided at websites or other information. It does not include the business contact information of a person, such as name, title and mailing contact information.  
+Back to top
 
-**Security**
+**_Does Rogers collect personal information?_**  
+We collect personal information such as your name, address, e-mail address, or other personal information when you register with a website or order a product or service. You may also be asked for personal information when you enter into contests or promotions sponsored by us or our partners.  
+Back to top
 
-CTVsportsnet utilizes a variety of security measures to maintain the safety of user personal information. All user contact information is contained behind a firewall and is only accessible by a limited number of support staff who have special access rights to production systems. Passwords and credit card numbers are encrypted in ctvsportsnet’s secure database located behind a firewall. All credit and other personal information supplied by users is transmitted via secure socket layer technology and then encrypted and stored behind the firewall. 
+**_How does Rogers use information it gathers about me?_**  
+Rogers Media uses your personal information to provide you with products or services that you have requested. We may further use such information to develop and customize products or services to better meet your needs and preferences, and to offer you products and services from Rogers, including any companies within the Rogers Group of Companies.  
+Back to top
 
-**Conclusion**
+**_Might I be contacted by organizations outside Rogers?_**  
+Advertisers may ask Rogers Media for permission to send material to you that you may find of interest. In such cases, your name, email or mailing address are only released to a reputable third party service bureau for the purpose of sending the specific material. All such advertising material is reviewed by Rogers Media and subject to approval for acceptable advertising content.  
+If you would prefer that your name, email or mailing address not be provided to marketers outside of Rogers Group of Companies, please [click here](http://www.rogersmedia.com/contact-information) for a list of Rogers Media properties and links to their respective customer account logins.  
+Back to top
 
-All online information is analyzed in aggregate form; the information collected from users is grouped together to ensure that an individual is not identified. This aggregated information is used for research and development, website enhancement , and marketing and promotions. ctvsportsnet will not disclose to any third party any information about any individual user except to comply with applicable laws or valid legal procedure. 
+**_What are marketing preferences?_**  
+Your relationship with Rogers Media permits us to contact you about our products and services, as well as those of our affiliates in the Rogers Group of Companies. But if you prefer otherwise, we provide clear and easy ways for you to tell us so. These are your personal marketing preferences.  
+Back to top
 
-CTVsportsnet’s website may contain links to partners, advertisers and/or third party internet sites and services who may collect data in connection with sweepstakes, promotions, ecommerce etc. They each have separate privacy and data collection practices, independent of ctvsportsnet. ctvsportsnet has no responsibility and/or liability for these independent policies or actions and is not responsible for the privacy practices or the content of such websites. 
+_**How can I change my marketing preferences?**_  
+To access and change your marketing preferences, please [click here](http://www.rogersmedia.com/contact-information) for a list of Rogers Media properties and links to their respective customer account logins.  
+Back to top
 
-CTVsportsnet advises users that voluntarily and publicly disclosed personal information on any online service or website can be collected and used by others. Personal information conveyed online may be accessible to the public and may result in unsolicited messages from third parties. While we strive to protect users personal information, ctvsportsnet cannot ensure and/or warrant the security of any information transmitted online. Users are advised that conveying personal information online is done so at the users own risk and the user remains solely responsible for maintaining the secrecy of passwords and/or any account and/or credit information. 
+_**How can I change or update my e-mail newsletter subscriptions?**_  
+We have many e-mail newsletters for you to choose from and realize your preferences may change over time.  To review or update your e-mail newsletter subscriptions please [click here](http://www.rogersmedia.com/contact-information) for a list of Rogers Media properties and links to their respective customer account logins.  
+Back to top
 
-CTVsportsnet invites users to review or change the information that has been collected in the course of their visits to ctvsportsnet.com. As a result, users may make a written request for a record of the personal information that has been collected in the course of their visits to ctvsportnet's website. You can make your request in writing by sending an e-mail to memberservices@ctvsportnet.com, Attention of: Director of Business Affairs. Ctvsportsnet will answer all requests within thirty (30) days of the date on which the e-mail requesting the information is received. 
+_**Does Rogers Media use telemarketing to sell magazine subscriptions?**_  
+Yes, some consumers find it convenient to be contacted by phone either to start new subscriptions or to renew an existing subscription. The authorized agents who sell new subscriptions are required to make use of the national “Do Not Call” registry to ensure that they do not call the phone numbers of people who have registered. If you are already a subscriber and do not want to receive telemarketing calls, you may add your phone number to our internal Do Not Call list by sending your request to:   
+For Consumer Publications - [webmedia@rci.rogers.com](mailto:webmedia@rci.rogers.com)   
+For Business Publications - [bppgservice@rci.rogers.com](mailto:bppgservice@rci.rogers.com)   
+You can get more information about the national “Do Not Call” registry here <http://www.crtc.gc.ca/eng/INFO_SHT/t1031.htm>.  
+Back to top
 
-If you are still a minor in the province in which you live you can only use these services offered on this website with the approval of your parent or guardian. 
+_**What about personalized ads in magazines?**_  
+Occasionally an advertiser may ask that we print the name of subscribers on their advertisement in our publications. When this is done, the subscriber's name is printed on the ad at the same time that the mailing label is printed on the cover of the magazine. The subscriber's name appears only in their personal copy of the magazine. If you would prefer not have your name included in such advertisements, please [click here](https://customer.rogersmagazineservice.com/app/) for a list of Rogers Media properties and links to their respective customer account logins.  
+Please note ‘Do Not Personalize’ is not applicable to business magazines.
 
-NOTE: THIS PRIVACY POLICY IS SUBJECT TO CHANGE AND SHOULD BE CHECKED FREQUENTLY. THIS POLICY IS COMPLIANT WITH ALL RELEVANT LAWS OF CANADA.   
- 
+_**How does Rogers Media protect the privacy of children?**_  
+The privacy of children is important to us. We will not knowingly send direct mailings, e-mail or other correspondence to anyone who indicates that they are younger than 16 years old. Your children should always ask you for permission before sending personal information to Rogers Media or to anyone else. Any personal information we gather about children under the age of 16 would be used solely for demographic purposes. Access to some of our websites may be prohibited to children under a certain age as specified in the website’s Terms of Service. Rogers Media cannot verify the validity of persons claiming to be age-eligible to access such websites.  
+Back to top
+
+**__I'm registering on one of your websites for the first time, but my name is here already. How?**  
+Some Rogers Media websites may share online registration services. Any information you provide while registering for a website is tied to your e-mail address. If you use the same e-mail address to register at another Rogers Media website, the associated information will be retrieved, so you don't have to re-enter it.  
+Back to top
+
+**__Do Rogers Media websites use cookies?**  
+Yes, Rogers Media websites use cookies. A cookie is set when you register on our websites.  
+A cookie is a small text file sent to your internet browser's files for our reference. No one else can read this file. Cookies allow our server computer to recognize your computer when you return to our websites, so you don't have to re-register and so we can retain any preferences you may have given us. If you do not wish to receive cookies, most browsers allow you to be alerted when a cookie is sent to your computer, so you can decide whether to accept it.  
+Back to top
+
+**__Do Rogers Media websites record information about my computer or my visit?**  
+Rogers Media collects IP addresses and related information for the purposes of system administration and to create aggregate statistical reports for advertisers. This information cannot identify you personally.  
+Browser information (i.e. the URL of the webpage you were just on, the IP address of the computer you are using, your domain type, and your browser version) is automatically recorded as part of transmitting information over the Internet. We may use it to help us display information in the best format for you.  
+We may develop summary reports for advertisers, to help them better understand our audience and provide advertisements that are more likely to be of interest to you. For example, we may report total number of visitors to our website in general or to specific webpages, average length of visit, etc. No identifying data about individuals is reported.  
+During your visit to our websites, we may record choices you have made and use this to provide more customized content or advertising. The data does not identify you and is not retained after your visit. This is sometimes called "clickstream" data.  
+We may use other industry standard technologies like pixel tags and web beacons to track your use of our websites and promotions, or we may allow our affiliates and third party service providers to use these devices on our behalf.  Pixel tags and web beacons are tiny graphic images placed on certain pages on our websites, or in our emails that allow us to determine whether you have performed a specific action.   When you access these pages or open or click an email, pixel tags and web beacons generate a notice of that action.  Pixel tags allow us to measure and improve our understanding of visitor traffic and behaviour on our websites, as well as give us a way to measure the effectiveness of our promotions and performance.  
+Back to top
+
+**__How does Rogers Media advertise on its website?**  
+The ads appearing on many of the Rogers Media websites are delivered to you using online advertising networks, and Adobe Media Optimizer technology. Information about your visits to this website, such as the number of times you have viewed an ad or visited certain pages of Rogers Media websites (but not your name, address, email or other personal information) is used to serve ads to you. 
+
+The ad network providers use cookies, web beacons, or similar technologies on your computer to help present, better target, and measure the effectiveness of the advertisements served to you on Rogers Media websites or through affiliate advertising network providers.
+
+Web beacons utilize JavaScript code and write information to cookies, which are small files on your computer. If you do not want a cookie to be written, simply change the setting in your browser. For more information and how to ‘opt-out’ from ad network providers’ cookies, visit the [Your Ad Choices website](http://youradchoices.ca/choices).  
+Back to top
+
+**__What about information on public forums?**  
+Rogers Media websites may make chat rooms, forums, message boards and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.   
+Back to top
+
+**__What steps do you take for the security of my information?**  
+Our websites use industry-standard security measures to protect data against loss, misuse and interception by third parties. Our security policies are periodically reviewed and enhanced as necessary. However, Rogers Media assumes no liability for interception, alteration or misuse of information transmitted over the Internet.  
+Back to top
+
+**__How else can I protect my privacy online?**  
+Generally speaking, whenever you disclose personal information online there is a risk that the information may be intercepted, collected and used. That goes for information disclosed on message boards, in chat areas - or even in e-mail. The Rogers Group of Companies is not responsible if that information is intercepted. You transmit information at your own risk.  
+Co-branded websites and third party websites and services may be accessible through Rogers Media websites. Third parties may collect information for their own contests or promotions, and may have their own privacy and data collection practices. The Rogers Group of Companies is not responsible for and bears no liability for these policies or actions.  
+You alone are responsible for keeping passwords and information safe. Be careful and responsible whenever you're online.  
+Back to top
+
+**__What happens to information I provide on a contest entry?**  
+Rogers Media uses a variety of contests and similar promotions to increase awareness of our products and services. We generally request contact information so that we can notify you if you are a prize winner. As well, in some cases we may contact contest entrants with product information. Contest entries generally include a way for you to indicate that you do not want to be contacted based on the information on your entry. Because contests may involve co-sponsors outside Rogers Group of Companies who have their own privacy practices, it is always advisable to read the entry form and contest rules before entering.  
+Back to top
+
+**__Are there other ways my information will be used?**  
+Rogers Media may also use or disclose your personal information when we believe in good faith that the law requires it or under circumstances specifically described to you when we collect the information (such as in a Terms of Service or Use agreement).  
+Back to top
+
+* * *
+
+**Contact Us**
+
+**General Inquiries**  
+If you have any questions about these Rogers Media Privacy FAQs, the privacy practices of our web sites, or your dealings with us, please contact: 
+
+**Rogers Media Web Customer Care**  
+One Mount Pleasant Road, 8th Floor  
+Toronto, ON M4Y 2Y5  
+[webmedia@rci.rogers.com](mailto:webmedia@rci.rogers.com)
+
+**Privacy Policy Inquiries**  
+For information about the Rogers Group of Companies’ Commitment to Privacy, please contact:  
+Chief Privacy Officer  
+Rogers Communications Partnership  
+333 Bloor Street East  
+Toronto, ON M4W 1G9
+
+**Office of the Privacy Commissioner of Canada**  
+The Office of the Privacy Commissioner of Canada oversees our personal information handling practices.  If any privacy concerns are not addressed to your satisfaction you may contact the Office of the Privacy Commissioner of Canada for further guidance:
+
+Back to top
