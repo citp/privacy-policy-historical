@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the receivetipstricks.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630124648id_/http%3A//receivetipstricks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the receivetipstricks.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230123447id_/http%3A//receivetipstricks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - RTT
 
@@ -32,3 +32,7 @@ Or use the [contact form](http://receivetipstricks.com/contact-us/) in the site.
 Jaipur, India
 
 This document was last updated on Dec 26, 2012
+
+Rating: 7.0/ **10** (1 vote cast)
+
+Privacy policy, 7.0 out of 10 based on 1 rating 
