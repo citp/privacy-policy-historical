@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the script4profit.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610192448id_/http%3A//script4profit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the script4profit.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230054256id_/http%3A//www.script4profit.com/privacy) for the most accurate reproduction.*
 
-# EGN Software : Privacy policy | Software MLM | Script MLM | Membership Management | HYIP, Downline Builder, Support System
+# EGN Software : Privacy policy | MLM Software | Script MLM | Investment & HYIP | Network Marketing | Membership Management
 
 **Introduction**  
 Script4Profit.com respects and commits to protect your privacy. Therefore this Private Policy is made in order to make you understand that we respect and keep your Private Information.
