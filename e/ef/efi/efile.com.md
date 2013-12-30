@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efile.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530205141id_/http%3A//www.efile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efile.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231004506id_/http%3A//www.efile.com/privacy-policy) for the most accurate reproduction.*
 
 # efile.com Privacy Policy, Tax Information Security, Tax Law
 
@@ -135,21 +135,4 @@ Email: support@efile.com 
 
 Web site: [http://www.efile.com/contact/](http://www.efile.com/tax-service/contact/efile-contact/)
 
-  
-
-
-Start a Tax Return
-
-  * No Risk
-  * No Registration
-  * Maximum Refund Faster
-
-
-
-Like us on Facebook
-
-> "I have had a great experience with efile.com. Thank you for another great tax year!"  
->  Mike (US Marine)
-
-> "Wow, this was so easy and not time consuming either."  
->  Lisa in Portland
+[ ](https://web.archive.org/try-free/)
