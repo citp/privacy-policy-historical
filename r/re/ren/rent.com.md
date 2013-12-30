@@ -1,32 +1,30 @@
-> *The following text is extracted and transformed from the rent.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518080800id_/http%3A//www.rent.com/company/privacy-full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230100756id_/http%3A//www.rent.com/company/privacy-full) for the most accurate reproduction.*
 
-# Rent.com:
+# Privacy Policy - Rent.com®
 
-Help
+Rent.com is a technology platform owned and operated by Viva Group, Inc., a subsidiary of RentPath, Inc. The rental advertisements and related services accessed on Rent.com or through its tools, applications or services ("Rent.com") are procured and provided by Viva Group, Inc. and its subsidiaries and affiliates.
 
-Contact Us
+  1. ### Scope.
 
-Security Center
+This Privacy Policy describes how we handle your personal information for our services available on Rent.com and on other related sites, tools, applications, or services. By accepting the Privacy Policy and the Terms of Use in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy, including its transfer to and storage on our servers in the United States or elsewhere in the world where Viva Group, Inc. has facilities.
+  2. ### Collection.
 
-Legal
-
-Rent.com is a technology platform owned and operated by Viva Group, Inc. The rental advertisements and related services accessed on Rent.com or through its tools, applications or services ("Rent.com") are procured and provided by Viva Group, Inc. and its subsidiaries and affiliates.
-
-  1. Scope. This Privacy Policy describes how we handle your personal information for our services available on Rent.com and on other related sites, tools, applications, or services. By accepting the Privacy Policy and the Terms of Use in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy, including its transfer to and storage on our servers in the United States or elsewhere in the world where Viva Group, Inc. has facilities. 
-  2. Collection. While you can use some functions of Rent.com without being a registered user, certain activities (such as viewing property contact information and advertising a property) do require registration. Once you give us your personal information, you are not anonymous to us. In most cases, the information we hold about you is collected through Rent.com, but we may also collect information from private-label, co-branded and affiliate websites or their tools, applications or services ("Other Sites"). Depending on the services used, we may collect and store the following personal information:
+While you can use some functions of Rent.com without being a registered user, certain activities (such as viewing property contact information and advertising a property) do require registration. Once you give us your personal information, you are not anonymous to us. In most cases, the information we hold about you is collected through Rent.com, but we may also collect information from private-label, co-branded and affiliate websites or their tools, applications or services ("Other Sites"). Depending on the services used, we may collect and store the following personal information:
     * contact information such as name, email address, address and telephone number;
     * move-in date and demographic information such as gender, age, marital status, occupation, and other personal and lifestyle information (for example, if you respond to an optional survey request);
     * financial information such as credit card or bank account numbers;
     * additional information we may ask you to send or questions we may ask you to answer to verify your identity (such as your driver's license, credit card statement, and/or a recent utility bill or other information confirming your address);
     * information contained in "eMail Notes and Photos" submissions;
-    * logs, contact information and other information about the communications between Renters and Lessors using our communications tools (see Lead Response below).
+    * logs, contact information and other information about the communications between Renters and Lessors using our communications tools (see Lead Response below);
     * guest card information, lease terms, lease parties and other transactional information;
     * information based on your interactions with Rent.com or the Other Sites and their advertising, such as search information, computer sign-on data, statistics on page views, traffic to, from and within Rent.com or Other Sites, ad data, IP address and standard web log information; and
     * supplemental information from third parties (for example, if you incur a debt to Rent.com, we may conduct a credit check by obtaining additional information about you from a credit bureau, as permitted by law).
 
 We may also collect information about your computer or other access device to mitigate risk and for fraud prevention purposes.
 
-  3. Use. Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. We may use your personal information to:
+  3. ### Use.
+
+Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. We may use your personal information to:
     * Provide the services and customer support you request, including confirming emails related to the Rent.com services, reminders and transactions.
     * Provide the ability to communicate with Renters and Lessors.
     * Resolve disputes, collect fees and troubleshoot problems.
@@ -37,7 +35,9 @@ We may also collect information about your computer or other access device to mi
     * Help promote a safe service and detect and prevent error, fraud and other potentially prohibited or illegal activity.
     * Enforce our agreements, terms, condition, and policies.
     * Provide services as otherwise described to you at the time of collection.
-  4. Disclosure. We don't sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may share some or all of your personal information with:
+  4. ### Disclosure.
+
+We don't sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may share some or all of your personal information with:
     * Law enforcement offices, third-party rights owners or others in the good faith belief that such disclosure is reasonably necessary to enforce our Terms of Use or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.
     * Other third parties to whom you explicitly ask us to send your information, or about whom you are explicitly notified and consent to when using a specific service. (The information we disclose in this way may be subject to those third parties' privacy policies.)
     * Service providers under contract who help with our business operations (such as fraud investigations, bill collection, invoicing, affiliate and rewards programs and co-branded credit cards).
@@ -45,7 +45,9 @@ We may also collect information about your computer or other access device to mi
 
 Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, we will not otherwise disclose your personal information to law enforcement, other government officials, or other third parties without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.
 
-  5. Communications and Communication Tools. Rent.com communicates with users, and facilitates communications between users, in a variety of ways. 
+  5. ### Communications and Communication Tools.
+
+Rent.com communicates with users, and facilitates communications between users, in a variety of ways. 
 
 Lead Response. We make tools available that facilitate communications between Renters and Lessors by phone or email. When these tools are used, we may collect certain information related to the communication, like contact logs, calling number, call duration, contents of the email communication, and (when notified during the call) call recordings. We may share this information with Lessors so they can manage their communications with Renters, and we will use this information to enforce our rights to collect fees payable by the Lessors.
 
@@ -55,31 +57,72 @@ Email preferences. We provide all users with the opportunity to opt out of recei
 
 Email Notes and Photos. If you use our Email Notes and Photos to a Friend tool, your notes and/or photos will be displayed for your friend on Rent.com and treated like other personal information you have provided. If your posting contains personal information, post only personal information for which you have authorization.
 
-  6. Cookies. We or our service providers may place cookies or web beacons on your computer when you visit portions of Rent.com. We use permanent cookies to provide personalized features, such as automatically logging you into your personalized home page and to deliver customized services, content, and advertising. We use session cookies, which are deleted when you log out of Rent.com or browse to a different website, to monitor and improve the functionality and usability of our website. You can block our cookies by changing the settings on your browser (contact your ISP for help), but doing so may prevent us from delivering certain services to you. 
+  6. ### Cookies.
+
+We or our service providers may place cookies or web beacons on your computer when you visit portions of Rent.com. We use permanent cookies to provide personalized features, such as automatically logging you into your personalized home page and to deliver customized services, content, and advertising. We use session cookies, which are deleted when you log out of Rent.com or browse to a different website, to monitor and improve the functionality and usability of our website. You can block our cookies by changing the settings on your browser (contact your ISP for help), but doing so may prevent us from delivering certain services to you. 
 
 We may use third-party advertising companies such as Cross Pixel Media, DoubleClick or Yahoo! to serve ads on our and our advertising partners' behalf. These companies may employ cookies and web beacons to deliver advertising and measure its effectiveness. Any information that these third parties collect via cookies and web beacons is completely anonymous. Please visit the Cross Pixel Media, DoubleClick or Yahoo! websites for more information about how to "opt-out." For more information about why we use cookies, see [Cookies, Web Beacons and Your Privacy](https://web.archive.org/company/cookie-policy/)
 
-  7. Third Parties. Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to others, whether they are Renters and Lessors or other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. Rent.com does not control the privacy policies of third parties. We encourage you to ask questions before you disclose your personal information to others. 
+  7. ### Third Parties.
+
+Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to others, whether they are Renters and Lessors or other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. Rent.com does not control the privacy policies of third parties. We encourage you to ask questions before you disclose your personal information to others. 
 
 Rent.com has links to other websites that may collect personal information about you. Rent.com is not responsible for the privacy practices or the content of those linked websites.
 
-  8. Accessing, Reviewing and Changing Your Personal Information. You can see, review and change most of your personal information by logging into Rent.com and editing your [account profile](https://www.rent.com/account/profile/). Generally, we will not manually modify your personal information because it is very difficult to verify your identity remotely. You must promptly update your personal information if it changes or is inaccurate. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts in order to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Terms of Use, and take other actions otherwise permitted by law. 
-  9. Account Protection. Your password is the key to your account. Use unique numbers, letters and special characters, and do not disclose your Rent.com password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify Rent.com and change your password. 
-  10. Security. Your information is stored on our servers located in the United States. We treat data as an asset that must be protected and use lots of tools (encryption, passwords, physical security, etc.) to protect your personal information against unauthorized access and disclosure. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from Rent.com. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. 
-  11. General. We may amend this Privacy Policy at any time by posting the amended terms on Rent.com. We'll provide you with notice of the changes on the site. Amended terms take effect upon acceptance for new users and 30 days after they are posted on Rent.com for all other users. 
-  12. Questions. Questions regarding this policy should be directed to the following address: 
+  8. ### Accessing, Reviewing and Changing Your Personal Information.
 
-Attn: Privacy Officer  
+You can see, review and change most of your personal information by logging into Rent.com and editing your [account profile](https://www.rent.com/account/profile/). Generally, we will not manually modify your personal information because it is very difficult to verify your identity remotely. You must promptly update your personal information if it changes or is inaccurate. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts in order to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Terms of Use, and take other actions otherwise permitted by law.
+  9. ### Account Protection.
+
+Your password is the key to your account. Use unique numbers, letters and special characters, and do not disclose your Rent.com password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify Rent.com and change your password.
+  10. ### Security.
+
+Your information is stored on our servers located in the United States. We treat data as an asset that must be protected and use many tools (encryption, passwords, physical security, etc.) to protect your personal information against unauthorized access and disclosure. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from Rent.com. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
+  11. ### General.
+
+We may amend this Privacy Policy at any time by posting the amended terms on Rent.com. We'll provide you with notice of the changes on the site. Amended terms take effect upon acceptance for new users and 30 days after they are posted on Rent.com for all other users.
+  12. ### Questions.
+
+Questions regarding this policy should be directed to the following address: Attn: Privacy Officer  
 Rent.com  
 2425 Olympic Blvd.  
 Suite 400E  
-Santa Monica, CA 90404
+Santa Monica, CA 90404  
+or [Contact Us](https://web.archive.org/company/contact/renter/?subject=renter_other)
 
-or 
-
-[Contact Us](https://web.archive.org/company/contact/renter/?subject=renter_other)
-
-Last updated April 2, 2012
+Last updated October 16, 2013.
 
 
 
+
+No big deal. Just enter your email and we'll send you password reset instructions. 
+
+Email Address 
+
+  * Got it. It's on its way. Check your email for a password reset link.
+
+
+
+Create account to claim Reward
+
+X
+
+Email addresses are not shared with third-parties. We will give you a heads up on apartment listings via email. [Privacy Policy](https://web.archive.org/company/privacy-full/)
+
+Already have an account? Sign In
+
+Sign In to claim Reward
+
+X
+
+Don't have an account? Create one
+
+Get more with a free account
+
+x
+
+A Rent.com account allows you to save favorites, organize searches, contact property managers, and claim your [Rent.com $100 Visa® Reward Card](https://web.archive.org/service/reward). 
+
+Email addresses are not shared with third-parties. We will give you a heads up on apartment listings via email. [Privacy Policy](https://web.archive.org/company/privacy-full/)
+
+Already have an account? Sign In
