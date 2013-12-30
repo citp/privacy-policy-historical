@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matesmingle.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623075333id_/http%3A//www.matesmingle.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matesmingle.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230223528id_/http%3A//www.matesmingle.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Mates Mingle
 
