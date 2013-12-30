@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptccentral.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530144913id_/http%3A//ptccentral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptccentral.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230155825id_/http%3A//ptccentral.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PTC Central
 
@@ -12,7 +12,7 @@ We collect personally identifiable information, like names, email addresses, etc
 
 ### Cookie/Tracking Technology
 
-PTC Central uses cookies to better the users experience while visiting the website. Cookies are small files saved to the users computers hard drive that track, save and store information about the users interactions and usage of the website. This allows the website, through it’s server to provide the users with a tailored experience within this website.
+PTC Central uses cookies to improve the users experience while visiting the website. Cookies are small files saved to the users computers hard drive that track, save and store information about the users interactions and usage of the website. This allows the website, through it’s server to provide the users with a tailored experience within this website.
 
 Users are advised that if they wish to deny the use and saving of cookies from this website on to their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and it’s external serving vendors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
 
@@ -22,7 +22,7 @@ Other cookies may be stored to your computers hard drive by external vendors whe
 
 ### Third Party Links
 
-You might find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
+You will find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
 
 ### Controlling your personal information
 
@@ -42,7 +42,7 @@ Your personally identifiable information is kept secure. Only owners of PTC Cent
 
 ### Privacy Contact Information
 
-If you have any questions, concerns, or comments about our privacy policy you may email us at [contact@ptccentral.com](mailto:contact@ptccentral.com)
+If you have any questions, concerns, or comments about our privacy policy you may email us at [admin@ptccentral.com](mailto:admin@ptccentral.com)
 
 ### Changes to this Policy
 
