@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationaleatingdisorders.org privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602172341id_/http%3A//www.nationaleatingdisorders.org/privacy-policy-nationaleatingdisordersorg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationaleatingdisorders.org privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230023728id_/http%3A//www.nationaleatingdisorders.org/privacy-policy-nationaleatingdisordersorg) for the most accurate reproduction.*
 
 # Privacy Policy: NationalEatingDisorders.org | National Eating Disorders Association
 
@@ -36,6 +36,10 @@ Links to Outside Sites
 
 The Website contains links to other Websites and services that are not maintained by NEDA. These sites have their own privacy policies and/or data collection practices concerning personal or donor information which may be substantially different from ours. We encourage all donors and/or users to learn about the privacy policies and practices of all websites and charities. We take no responsibility for linked sites.
 
+Images
+
+All images being used on this website are for illustrative purposes only. Any person depicted in the Content/website is a model. The depiction does not suggest the model’s endorsement of any business, product, service, cause, association, or other endeavors of the NEDA. Nor does NEDA suggest that such person has or had eating disorders, or any other associations with eating disorders, explicit or implied.
+
 Changes to this Privacy Policy
 
 From time to time we may decide, or be required by law, to make changes to this Privacy Policy. If we make any material changes to this policy that may impact how we use personal information we have already obtained, we will update this Privacy Policy by posting a revised Privacy Policy, and, as necessary, notify you as required by law. You are encouraged to return to this page periodically to check for updates.
@@ -48,7 +52,10 @@ If at any time you would like to correct your information or discontinue receivi
 165 West 46th Street, #402  
 New York, NY 10036**
 
-(212) 575-6200  
- **U.S. Governing Law**
+(212) 575-6200
 
-The Website is designed and targeted to users who reside in the United States and is governed by and operated in accordance with the laws of the United States. We make no representation that the Website is operated in accordance with the laws or regulations of, or governed by, other nations. By accessing and/or providing personal information through the Website, you certify that you meet the age and other requirements for disclosure of personal information in your jurisdiction. If you do not meet the age and other requirements, please contact us and request that we delete your personal information, and discontinue disclosing personal information through the Website. Continued use of the Website and/or disclosure of personally identifiable information indicate that you are agreeing to the collection, use, disclosure, management and storage of your personal and non-personal information as described in this Privacy Policy.  _This Privacy Policy was last updated on December 30, 2011._
+**U.S. Governing Law**
+
+The Website is designed and targeted to users who reside in the United States and is governed by and operated in accordance with the laws of the United States. We make no representation that the Website is operated in accordance with the laws or regulations of, or governed by, other nations. By accessing and/or providing personal information through the Website, you certify that you meet the age and other requirements for disclosure of personal information in your jurisdiction. If you do not meet the age and other requirements, please contact us and request that we delete your personal information, and discontinue disclosing personal information through the Website. Continued use of the Website and/or disclosure of personally identifiable information indicate that you are agreeing to the collection, use, disclosure, management and storage of your personal and non-personal information as described in this Privacy Policy.
+
+_This Privacy Policy was last updated on August 8, 2013._
