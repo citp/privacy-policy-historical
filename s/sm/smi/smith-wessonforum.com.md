@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the smith-wessonforum.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628064906id_/http%3A//www.intermarkets.net/ourCompany/legal/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smith-wessonforum.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230162015id_/http%3A//www.intermarkets.net/ourCompany/legal/index.html) for the most accurate reproduction.*
 
 # Intermarkets, Inc.
 
-Revised: August 17, 2011
+Revised: July 17, 2013
 
 Intermarkets, Inc. is an online advertising management services firm that offers advertisers opportunities to display their interactive ads on websites that are included within the Intermarkets Portfolio. Our services streamline the selection and delivery of interactive ads for advertisers and website publishers. We also provide targeted advertising services using non-personal information that is gathered across multiple, unaffiliated websites. 
 
@@ -60,9 +60,9 @@ Intermarkets cooperates with government and law enforcement officials and privat
 
 ## Cookie Opt-Out Procedure
 
-IF YOU DO NOT WANT INTERMARKETS TO SERVE ADVERTISING TO YOU USING OUR COOKIE, CLICK [**HERE**](http://www.adtechus.com/cookie_opt-out/) **** TO REPLACE YOUR UNIQUE INTERMARKETS COOKIE WITH AN OPT-OUT COOKIE.
+IF YOU DO NOT WANT INTERMARKETS TO SERVE ADVERTISING TO YOU USING OUR COOKIE, [CLICK HERE](http://www.networkadvertising.org/choices/) TO REPLACE YOUR UNIQUE INTERMARKETS COOKIE WITH OPT-OUT COOKIES FROM AOL ADVERTISING AND LOTAME SOLUTIONS.
 
-YOU CAN ALSO OPT OUT OF RECEIVING COOKIES FROM MEMBERS OF THE NETWORK ADVERTISING INITIATIVE BY CLICKING [**HERE**](http://www.networkadvertising.org/managing/opt_out.asp).
+YOU CAN ALSO OPT OUT OF RECEIVING COOKIES FROM OTHER MEMBERS OF THE NETWORK ADVERTISING INITIATIVE BY CLICKING [HERE](http://www.networkadvertising.org/choices/).
 
 This opt-out functionality is cookie-based. When you receive this cookie, Intermarkets’ systems will know that you have opted out and will not attempt to assign other Intermarkets cookies in the future. In order for the opt-out to work on your computer, your Web browser must be set to accept third-party cookies and the Intermarkets opt-out cookie must remain on your computer for us to recognize you as an opt-out user. If you buy a new computer, change Web browsers, or delete this cookie, you will need to perform the opt-out task again.
 
@@ -110,7 +110,7 @@ When you use the Intermarkets website, you are accepting the terms and condition
 
 ## Additional information
 
-For the privacy policies for each of our Portfolio publishers, please visit their sites.  Links to our Portfolio publishers’ websites are located in our [Media Kit](https://web.archive.org/web/20130628064906id_/http%3A//www.intermarkets.net/advertisers/index.html). 
+For the privacy policies for each of our Portfolio publishers, please visit their sites.  Links to our Portfolio publishers’ websites are located in our [Media Kit](https://web.archive.org/web/20131230162015id_/http%3A//www.intermarkets.net/advertisers/index.html). 
 
 RETURN TO TOP
 
