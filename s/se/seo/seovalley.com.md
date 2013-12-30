@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seovalley.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525083721id_/http%3A//www.seovalley.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seovalley.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230052419id_/http%3A//www.seovalley.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Affordable Search Engine Optimization Services, Website Promotion - Privacy Policy
 
@@ -44,4 +44,4 @@ You can request that we delete your information by emailing us.
 
 **How to Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please call us at 0091-755-4203649 or email at [info[@]seovalley.com](mailto:info@seovalley.com).
+Should you have other questions or concerns about these privacy policies, please call us at +91. 755.6680122 or email at [info[@]seovalley.com](mailto:info@seovalley.com).
