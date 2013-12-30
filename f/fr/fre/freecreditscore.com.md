@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freecreditscore.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529141129id_/http%3A//www.freecreditscore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecreditscore.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230030337id_/http%3A//www.freecreditscore.com/privacy-policy-nbw) for the most accurate reproduction.*
 
-# Privacy Policy | Freecreditscore.com™
+# Explanation of Terms: Credit Report Accounts Tab
 
 Last revised: 9/20/2012
 
