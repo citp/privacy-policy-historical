@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kayako.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628065721id_/http%3A//www.kayako.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayako.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230140636id_/http%3A//www.kayako.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Kayako
 
@@ -91,15 +91,6 @@ Jalandhar
 Punjab, 144001   
 India   
 
-
-and
-
-Kayako Inc.   
-Suite 203   
-420 Mainstreet   
-Boise  
-Idaho, 83706   
-United States
 
 ## Changes to this policy
 
