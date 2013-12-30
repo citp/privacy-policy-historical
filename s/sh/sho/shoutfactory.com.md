@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoutfactory.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426170545id_/http%3A//www.shoutfactory.com%3Fq%3Dnode/23) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoutfactory.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230165349id_/http%3A//www.shoutfactory.com/node/23) for the most accurate reproduction.*
 
 # Privacy | Shout!Factory
 
