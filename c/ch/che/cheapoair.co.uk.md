@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the cheapoair.co.uk privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501042603id_/http%3A//www.cheapoair.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapoair.co.uk privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230103945id_/http%3A//www.cheapoair.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policies - CheapOair.co.uk
 
-|   
-  
+|  | 
+
 | 
 
 Email Sign Up!
@@ -14,7 +14,7 @@ PLUS, get £15** off now!
   
 ---  
   
-|   | 
+|  | 
 
 |  |  |    Privacy Policy  
 ---  
@@ -29,7 +29,7 @@ This privacy policy ("Privacy Policy") (together with our [Terms and Conditions]
 
 Duke's Court Travel Limited has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [cservice@CheapOair.co.uk.](mailto:cservice@CheapOair.co.uk) If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-Duke's Court Travel Limited complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. [Participant] has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Duke's Court Travel Limited’s certification, please visit <http://www.export.gov/safeharbor/>.
+Duke's Court Travel Limited complies with Directive 95/46/EC on the protection of individuals with regard to the processing of personal data and on the free movement of such data.
 
 We may amend this Privacy Policy at any time. This Privacy Policy shall apply whilst published on the Site. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a prominent notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. Your continued use of the Site following the posting of changes to this Privacy Policy will mean that you accept those changes. 
 
@@ -151,9 +151,9 @@ W6 0RA
 [cservice@CheapOair.co.uk](mailto:cservice@CheapOair.co.uk)**  
    
   
-  |    
-  | 
+|   
+| 
 
 ** Enter Promo at time of check out. Promo code provides $15 or the amount of the promo code, discount for stated routes against our service fees. Use of Promo code is in addition to any applicable instant savings offers. Actual amount of discount varies based on the service fees charged. Service fee discount will be up to the amount of the service fees charged less any applicable instant savings for that transaction or the value of the promo code, whichever is less. Promo code expires on date stated and can be withdrawn without notice. 
 
-|  
+| 
