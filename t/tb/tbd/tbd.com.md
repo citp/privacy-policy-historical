@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tbd.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630163433id_/http%3A//www.wjla.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tbd.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230101932id_/http%3A//www.wjla.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WJLA.com
 
-Last Updated: 4/3/2013
+Last Updated: 10/04/2013
 
 ## PRIVACY PRACTICES
 
@@ -22,7 +22,7 @@ WJLA may present information collected from users of the Website to third partie
 
 ## Cookies
 
-To help make the Website more responsive to the needs of users, the Website employs a standard feature of browser software, called a "cookie," to assign each user a unique, random number that resides on a user's computer. The cookie does not personally identify the user; it merely identifies the computer with which the user accesses the Website. Unless a user voluntarily identifies himself or herself (through registration, for example), the Website will not be able to identify the identity of the user, even if a cookie is assigned to a user's computer. The only personal information a cookie can contain is information supplied by a user. The advertisers on the Website may also assign their own cookies to a user's browser, a process that WJLA does not control. The Website uses cookies to help tailor the Website and deliver a more personalized service. Of course, users are free to instruct their web browsers not to accept cookies; however, doing so may render a computer unable to take advantage of the personalized features enjoyed by other users of the Website.
+To help make the Website more responsive to the needs of users, the Website employs a standard feature of browser software, called a "cookie," to assign each user a unique, random number that resides on a user's computer. The cookie does not personally identify the user; it merely identifies the computer with which the user accesses the Website. Unless a user voluntarily identifies himself or herself (through registration, for example), the Website will not be able to identify the identity of the user, even if a cookie is assigned to a user's computer. The only personal information a cookie can contain is information supplied by a user. The advertisers on the Website may also assign their own cookies to a user's browser, a process that WJLA does not control. The Website uses cookies to help tailor the Website and deliver a more personalized service. Of course, users are free to instruct their web browsers not to accept cookies and/or opt-out of third party cookies via the [Network Advertising Initiative](http://www.networkadvertising.org/) or other websites; however, doing so may render a computer unable to take advantage of the personalized features enjoyed by other users of the Website.
 
 ## IP Addresses & Device Information
 
