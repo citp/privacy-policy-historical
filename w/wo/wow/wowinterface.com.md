@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowinterface.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501092704id_/http%3A//www.mmointerface.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowinterface.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231003619id_/http%3A//www.mmointerface.com/privacy.php) for the most accurate reproduction.*
 
 # MMOUI : Privacy Statement
 
