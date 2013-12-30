@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itunes.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628093540id_/http%3A//www.apple.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itunes.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230110928id_/http%3A//www.apple.com/privacy) for the most accurate reproduction.*
 
 # Apple - Apple Customer Privacy Policy
 
@@ -91,7 +91,7 @@ You can help ensure that your contact information and preferences are accurate, 
 
 ## Children
 
-We do not knowingly collect personal information from children under 13. If we learn that we have collected the personal information of a child under 13 we will take steps to delete the information as soon as possible.
+We do not knowingly collect personal information from children under 13 except where a parent has set up an Apple ID for their child through the Apple ID for Students program and provided Apple with verified parental consent. Learn more about the [Apple ID for Students program](http://images.apple.com/education/docs/Apple_ID_Parent_Guide.pdf) and [device parental controls](http://support.apple.com/kb/HT4213). If we learn that we have collected the personal information of a child under 13 without first receiving verifiable parental consent we will take steps to delete the information as soon as possible.
 
 ## Location-Based Services
 
@@ -121,4 +121,4 @@ Apple may update its Privacy Policy from time to time. When we change the policy
 
 Apple Inc. 1 Infinite Loop, Cupertino, California, USA, 95014
 
-_Last updated: May 21, 2012_
+_Last updated: August 1, 2013_
