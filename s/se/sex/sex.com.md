@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sex.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628130740id_/http%3A//www.sex.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sex.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231004337id_/http%3A//www.sex.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Sex.com
 
@@ -74,5 +74,3 @@ All Members may review, update, correct or delete the personal information in th
 ## CONTACTING US
 
 If you have any questions about this privacy policy, please contact us at:
-
-This content is yours and claiming this pin will give you proper attribution.
