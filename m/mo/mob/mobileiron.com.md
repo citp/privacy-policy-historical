@@ -1,89 +1,132 @@
-> *The following text is extracted and transformed from the mobileiron.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118025029id_/http%3A//www.mobileiron.com/component/content/article/73/131-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileiron.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230060843id_/http%3A//www.mobileiron.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MobileIron
+# MobileIron Website Privacy Notice | MobileIron
 
-[](http://privacy.truste.com/privacy-seal/MobileIron/validation?rid=714fc7cc-8427-4d8c-97fe-6e1e4119c5ea)[](http://privacy.truste.com/privacy-seal/MobileIron/validation?rid=714fc7cc-8427-4d8c-97fe-6e1e4119c5ea)
+Mobile Iron, Inc. (“MobileIron”) is a leader in enterprise mobility management. Our products and services enable companies around the world to securely manage and deliver apps, documents and other content to their employees’ mobile devices. This Privacy Notice describes how we handle the personal information we collect for our own purposes via MobileIron websites, mobile applications and our social media assets (collectively, “our sites”), and by email  in connection with our business development efforts, marketing programs, surveys, offers, events and other promotions. We may obtain this information directly from you as well as from our affiliated companies, business partners and other third parties 
 
-The Company, MobileIron, Inc., is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of the MobileIron Service Platform (Clients). This Privacy Policy is incorporated into, and considered part of, the Company's Terms of Service available at [www.mobileiron.com/terms-of-service](http://www.mobileiron.com/component/content/article/73/132-terms-of-service). Capitalized terms not defined herein are defined in Terms of Service.
+## **Information We Collect**  
 
-MobileIron has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@mobileiron.com](mailto:info@mobileiron.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-This Privacy Policy only covers our use and disclosure of information we collect on the MobileIron Service Platform. Information collected through our service platform is owned by our Client. The collection and use of this information shall be limited to the purpose of providing the service for which the Client has engaged MobileIron.
+The types of information we may obtain about you include:
 
-MobileIron complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding the both the E.U. and Swiss Safe Harbor Frameworks can be found at: <http://export.gov/safeharbor>
-
-**Information that MobileIron Collects:**
-
-MobileIron collects information under the direction of its Clients, MobileIron has no direct relationship with the individual whose personal data it processes. MobileIron works with its Clients to help them provide notice to their customers concerning, the purpose for which personal information is collected.
-
-We collect the following personal information from our Clients
-
-  * Contact Information such as name, email address, mailing address, phone number 
-  * Unique Identifiers such as user name, account number, password 
-  * Registration Credentials (e.g., information regarding the smart phones you are using with the Website Services) 
-  * User name, phone number, phone type, operating system, country, status, applications running on the device. We also collect the following information from our Client 
-  * Information about your business such as company name, company size, business type 
-  * Demographic information such as age, education, gender, interests and zip code 
+  * Personal or business contact information (such as name, postal and email address, Twitter handle or phone number, name of your company or department, and your business function or title)
+  * Demographic information (such as age and gender) 
+  * Information you provide by interacting with us through our sites, including by submitting questions, commenting on our forums and interacting with us through social media 
+  * Contact information of individuals with whom you would like to share MobileIron content 
+  * Other details that you may submit to us or that may be included in the information provided to us by third parties 
 
 
 
-**How MobileIron Uses Information:**
+The information we may collect by automated means includes: 
 
-We use this information to for our Clients to
-
-  * Send you requested product or service information 
-  * Respond to customer service requests 
-  * Administer your account 
-  * Send you a newsletter 
-  * Send you marketing communications 
-
-
-
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [EMAIL]
-
-We collect information for our Clients, if you are a customer of one of our Clients and no longer wish to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly.
-
-**Disclosure of Information:** We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
-
-We may also disclose personal information
-
-  * as required by law, such as to comply with a subpoena, or similar legal process 
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
-  * to any other third party with your prior consent to do so. 
-  * if MobileIron is involved in a merger, acquisition, or sale of all or a portion of its assets, our Clients will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
+  * Information about the devices our visitors use to access the Internet (such as IP address, domain name, and the device, browser and operating system type) 
+  * Information on actions taken by visitors on our sites (such as page views and site navigation patterns) 
+  * URLs that refer visitors to our sites 
+  * Dates and times of visits to our sites 
+  * A general geographic location (such as country and city) from which a visitor accesses our sites 
+  * Search terms that visitors use to reach our sites 
 
 
 
-**Security**
+The automated means we may use to collect this information may include cookies and web beacons. A “cookie” is a text file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, is used to transmit information back to a web server.  We may use third-party website analytics tools that collect automated information about visitor traffic on our sites. 
 
-The security of your personal information and our clients' information is important to us. When you enter sensitive information (such as login credentials) we encrypt the transmission of that information using secure socket layer technology (SSL)
+## **How We Use the Information We Collect**  
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact [info@mobileiron.com](mailto:info@mobileiron.com).
 
-**Cookies:**
+We may use the information we obtain about you to:
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. [We do/do not link the information we store in cookies to any personally identifiable information you submit while on our site.]
+  * Respond to your questions and comments, including requests for information about our company, products and services 
+  * Communicate with you (including by phone or by email) about our products, services, offers, surveys, events and promotions, and offer products and services we believe may be of interest to your company 
+  * Tailor our offerings to the manner in which visitors use our sites 
+  * Register your company on our sites, and identify you as a registered user 
+  * Enable you to communicate with us through our blogs, vblogs, online forums, social media pages and other interactive media
+  * Publish your testimonials about MobileIron, including on our sites, forums, blogs, and social media assets (if we choose to publish your testimonial, we will generally only include your name, title and company name) 
+  * Follow up with individuals and companies with whom you have shared MobileIron content 
+  * Manage your participation in our events, conferences, surveys, and other promotions
+  * Operate, evaluate and improve our business and the products and services we offer 
+  * Analyze and enhance our marketing communications and lead generation strategies (including by identifying when emails sent to you have been received and read) 
+  * Analyze trends and statistics regarding visitors’ use of our sites 
+  * Protect against and prevent fraud, unauthorized transactions, and claims, and manage risk exposure 
+  * Enforce our contractual rights 
+  * Comply with applicable legal requirements, industry standards and our policies 
 
-We use [both] session ID cookies [and/or] persistent cookies. [We use session cookies to make it easier for you to navigate our site.] A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. [Provide a link to information on cookies.]
 
-We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
 
-**Access to Data Controlled by our Clients:**
+We may combine the information we collect with publicly available information and information we receive from our affiliated companies, business partners and other third parties. We may use that combined information for the purposes described in this Privacy Notice. 
 
-MobileIron has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to our Client (the data controller). If the client requests MobileIron to remove the data, we will respond to our Client's request within 30 business days.
+We also may use the information we obtain about you in other ways for which we provide specific notice to you. ****
 
-**Data Retention:** MobileIron will retain personal data we process on behalf of our client for as long as needed to provide services to our client. MobileIron will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+## **Online Advertising**  
 
-**Changes to the Policy:**
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify our Clients by email (sent to the e-mail address specified in our agreement) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+On our sites, we may collect information about your online activities to provide advertising about products and services tailored to your individual interests. You may see certain ads on our sites  and other sites because we participate in advertising networks. Ad networks allow us to target our advertising to users through demographic, behavioral and contextual means. These networks may track your online activities over time and across third-party websites or online services, including by collecting information through automated means through the use of cookies, web server logs, web beacons and other methods. The networks use this information to show you advertisements for MobileIron and our business partners that are tailored to your individual interests. They may also use the information they collect for their own purposes. The information our ad network **** vendors collect includes information about your visits to websites that participate in the vendors’ advertising networks, such as the pages or advertisements you have viewed, and the actions you take on the sites. This data collection and ad targeting take place both on our sites and on third-party websites that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts. 
 
-**Contact Information:**
+We offer you certain choices to limit advertising you may receive from our ad network partners.  Please see “Your Choices” section of this Privacy Notice for details. 
 
-You can contact us by writing or email us at the address below:
+## **Information We Share**  
 
-MobileIron  
-415 East Middlefield Road  
-Sunnyvale, CA 94043
 
-This Privacy Policy was last revised on December 6, 2012
+We do not sell, rent, or otherwise disclose personal information about you, except as described in this Privacy Notice. 
+
+We may share the information we collect with our affiliated companies, business partners, ad network vendors and their participants, and other third parties for the purposes described in this Privacy Notice, including to communicate with you about products and services, offers, events and promotions that we believe may be of interest to you.  
+We also may share the information with our service providers that perform services on our behalf. We do not authorize these service providers to use or disclose the information except as necessary to perform certain services on our behalf or comply with legal requirements. We require these service providers by contract to appropriately safeguard the privacy and security of personal information they process on our behalf.   ****
+
+We also may share information about you with other third parties when we have given you an opportunity to opt out of such sharing and you do not opt out. 
+
+We may disclose information about you (i) if we are required to do so by law or legal process (such as a court order), (ii) in response to a request by law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate (a) to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity, or (b) to protect or defend the rights or property of MobileIron. We also reserve the right to transfer personal information we have about you in the event we sell, merge or transfer all or a portion of our business or assets. Should such a sale, merger or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided to us in a manner that is consistent with our Privacy Notice. Following such a sale, merger or transfer, you may contact the entity to which we transferred your personal information with any inquiries concerning the processing of that information. 
+
+## **Your Choices**  
+
+
+We offer you certain choices about what information we collect from you, how we use and disclose the information, and how we communicate with you. ****  
+You may withdraw any consent you previously provided to us or object at any time on legitimate grounds to the processing of your personal information. We will apply your preferences going forward within a reasonable period of time. In some circumstances, withdrawing your consent to MobileIron’s use or disclosure of your personal information will mean that you cannot take advantage of certain MobileIron offerings or site features. ****
+
+Here are the choices we offer: ****
+
+**_Sharing Information with Business Partners_**  
+You may direct MobileIron not to share your personal information with third parties’ for those parties’ own purposes. To do so, please email us at [info@mobileiron.com](mailto:info@mobileiron.com). If you opt out, we will continue sharing your information as otherwise described in the “Information We Share” section of this Privacy Notice, including with our service providers, to fulfill your requests and to comply with legal requirements. 
+
+**_Marketing Emails_**  
+You may choose not to receive marketing email communications from us by clicking on the unsubscribe link in the marketing emails you receive from us.  
+ ****
+
+**_Targeted Advertising_**  
+We may engage with advertising network vendors that are members of organizations that manage the privacy choices these ad networks offer consumers.  For example, you may opt out of receiving certain marketing communications through the Network Advertising Initiative (“NAI”) member ad networks by clicking here [_http://www.networkadvertising.org/managing/opt_out.asp_](http://www.networkadvertising.org/managing/opt_out.asp) and learn about additional opt-out options by clicking here [_http://www.evidon.com/consumers-privacy/opt-out_](http://www.evidon.com/consumers-privacy/opt-out) _._  
+
+Please note that we may also engage with ad network vendors that may employ their own opt-out mechanisms and may not honor the opt-outs we linked above. 
+
+**_Cookies_**  
+Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Please note, however, that without cookies you may not be able to take full advantage of all of our sites’ features. In addition, disabling cookies may cancel opt-outs that rely on cookies, such as web analytics or targeted advertising opt-outs. ****
+
+**_Your California Privacy Rights_**  
+If you are a California resident, you may request that we provide to you (i) a list of the categories of personal information about you that MobileIron has disclosed to third parties for the third parties’ direct marketing purposes during the calendar year preceding your request, (ii) the names and addresses of such third parties, and (iii) if the nature of the third parties’ business cannot reasonably be determined from their names, examples of the products or services marketed, if known to MobileIron, sufficient to give you a reasonable indication of the nature of the third parties’ business. To submit your request, please email [info@mobileiron.com](mailto:info@mobileiron.com). 
+
+**Access and Correction**  
+You may contact us at [info@mobileiron.com](mailto:info@mobileiron.com)  and we will provide you with reasonable access to the personal information we maintain about you. We will also provide you a reasonable opportunity to correct, amend or delete that information where it is inaccurate. We may limit or deny access to personal information where providing such access is unreasonably burdensome or expensive under the circumstances, or as we otherwise deem appropriate. In addition, please note that (i) we may not be able to edit or delete your personal information stored with our third-party service providers, and (ii) we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). ****
+
+**Links to Other Websites**  
+Our sites may contain links to other sites for your convenience and information. The links do not signify our endorsement of such other websites or links, its contents, or the third party that offers the site or information. These third-party sites may be operated by companies not affiliated with MobileIron. Linked sites may have their own privacy notices, which you should review if you visit those websites. They also may collect information about you. We are not responsible for the content of any websites not affiliated with MobileIron, any use of those sites, or those sites’ privacy practices. 
+
+**Data Transfers**  
+This is a U.S. website subject to U.S. law, including applicable privacy and information security requirements. When you visit this site, we may process information about you outside of the country in which you are located, including in the U.S. We will protect information collected through this site as described in this Privacy Notice.    
+MobileIron is certified under the Safe Harbor privacy framework as set forth by the U.S. Department of Commerce, European Commission and Switzerland regarding the collection, storage, use, transfer and other processing of personal data transferred from the European Economic Area or Switzerland to the U.S. Click [here](https://web.archive.org/legal/safe-harbor-privacy-policy) to view our Safe Harbor Privacy Policy. 
+
+**How We Protect Personal Information**   
+MobileIron has implemented administrative, technical and physical safeguards designed to assist the company in protecting the personal information we collect against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use. Please note that no electronic transmission of information can be entirely secure. We cannot guarantee that the security measures we have in place to safeguard personal information will never be defeated or fail, or that those measures will always be sufficient or effective. 
+
+**Children’s Privacy**   
+MobileIron does not direct its sites to children under the age of thirteen. We require site visitors to be at least eighteen years old. If we learn that a user is under eighteen years of age, we will promptly delete any personal information that the individual has provided to us. 
+
+**Updates to this Privacy Notice**  
+This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will post a prominent notice on this site to notify you of any significant changes to our Privacy Notice and indicate at the bottom of the notice when it was most recently updated. ****
+
+## **How to Contact Us**
+
+If you have any questions, comments or concerns about this Privacy Notice, or if you would like us to update information we have about you or your choices or preferences, please contact us by email at [info@mobileiron.com](mailto:info@mobileiron.com). You also may write to us at:
+
+**Mobile Iron, Inc.**  
+ **Attn: Privacy Office**  
+ **415 East Middlefield Road**  
+ **Mountain View, CA 94043**
+
+**Effective Date:   December 18, 2013**
