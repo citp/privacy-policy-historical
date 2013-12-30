@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walgreens.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630200815id_/http%3A//www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp%3Ffoot%3Dsecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walgreens.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230134523id_/http%3A//www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp%3Ffoot%3Dsecurity) for the most accurate reproduction.*
 
 # Online Privacy and Security Policy | Walgreens
 
@@ -79,6 +79,13 @@ We may work with other companies who place cookies or web beacons on our website
 
 
 
+**Third Party Partnerships:**  
+We may work with other companies who operate their own websites or mobile apps, to allow them to offer Walgreens customers the ability to connect to Walgreens services. These services give you more options for ways to use Walgreens services from websites or apps that are not owned or operated by Walgreens.
+
+  * We contract with companies including Samsung and Google to allow Walgreens customers to access their Balance Rewards account from those partners' websites and/or mobile apps. This may include the ability to join Balance Rewards, add an existing Balance Rewards membership, and/or access your account balance.
+
+
+
 **Does Walgreens collect information from children?**  
 It is our intent not to sell to persons under the age of 18 and it is our policy not to do so. We sell children's products for purchase by adults. If you are under 18, you may use this website only with involvement of a parent or guardian. However photo.walgreens.com does allow for the viewing of albums by minors above the age of 13 but purchases of products must be made by an adult.
 
@@ -110,7 +117,7 @@ It is your responsibility to review our privacy policy and Terms and Conditions 
 
 **How To Contact Us**  
 If you have questions about our Privacy Policy, contact us by:  
-Phone:  
+Phone: (847) 236-6518  
 E-mail: [privacy.office@walgreens.com](mailto:privacy.office@walgreens.com)  
 Regular mail:  
 Walgreen Co. Privacy Office  
@@ -118,4 +125,4 @@ Attn: Privacy Officer
 200 Wilmot Rd, MS 9000  
 Deerfield, IL 60015
 
-**Effective Date:** 05/16/2013
+**Effective Date:** 11/22/2013
