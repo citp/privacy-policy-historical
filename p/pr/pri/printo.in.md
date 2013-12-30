@@ -1,25 +1,23 @@
-> *The following text is extracted and transformed from the printo.in privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111172747id_/http%3A//www.printo.in/faq.php%3Fpage_id%3D589) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printo.in privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230072117id_/http%3A//www.printo.in/printo/privacy-policy) for the most accurate reproduction.*
 
-# Printo
+# Privacy Policy - Printo
 
 Our Privacy Policy has been updated. Please read through the complete Privacy Policy.
 
 Printo is committed to protecting your privacy and ensuring you have a positive experience on our website. This policy outlines our personal information handling practices for both online and offline data. If you give us personal information, we will treat it according to this policy.
 
-  * We encourage you to read this policy to ensure you understand Printoï¿½s privacy practices.
+  * We encourage you to read this policy to ensure you understand Printo’s privacy practices.
   * We adhere to the following principles to protect your privacy:
   * We do not rent or sell your personally identifiable information to third parties for any purposes, including marketing purposes.
   * We do not share your contact information with another User without your explicit consent.
   * Any personally identifiable information that you provide will be secured with industry standard protocols and technology.
   * We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by means of a notice on our home page.
+  * By continuing to use the Printo service after notice of changes have been sent to you or published on the Printo website, you are consenting to the changes.
 
-
-  *   *   *   * By continuing to use the Printo service after notice of changes have been sent to you or published on the Printo website, you are consenting to the changes.
-  * 
 
 
 **  
-1.Personal Information collected:**
+1\. Personal Information collected:**
 
 Printo lets upload your photos and order personalized gifts for your friends and family online. _We advise you that if you do not wish to have this information used or displayed as described in the privacy policy and user agreement, you should reconsider becoming a member of the Printo community. You willingly provide us certain personal information, which we collect in order to allow you to benefit from the Printo services. If you have any hesitation about providing such information to us and/or having such information displayed on the Printo website or otherwise used in any manner permitted in this Privacy Policy and the User Agreement, you should not become a member of the Printo community._
 
@@ -37,7 +35,7 @@ d. Cookies and Web Beacons
 
 Like most websites, Printo uses cookies and web log files to track site usage. We use cookies to improve the quality of our service by storing User preferences and tracking User trends. In the course of serving advertisements or optimizing services to our Users, we may allow authorized third parties to place or recognize a unique cookie on your browser. Printo does not store personally identifiable information in the cookies.
 
-We allow other companies, to serve advertisements to Users. These companies include third party ad servers, ad agencies, ad technology vendors and research firms. Printo may ï¿½targetï¿½ some ads to Users that fit a certain general profile. Printo does NOT use personally identifiable information to target ads.
+We allow other companies, to serve advertisements to Users. These companies include third party ad servers, ad agencies, ad technology vendors and research firms. Printo may target some ads to Users that fit a certain general profile. Printo does NOT use personally identifiable information to target ads.
 
 e. Processing information about you and modification of such information
 
@@ -51,21 +49,21 @@ This Privacy Policy applies to web sites and services that are owned and operate
 
 **2.Uses of Personal Information:**
 
-Printoï¿½s online service which helps you connect with other Users or the public Printos. Your personally identifiable information you choose to provide on our website is used to help you describe yourself to other Users. Other information, that does not personally identify you as an individual, is collected by Printo from Users (such as, patterns of utilization described above) and is exclusively owned by Printo. This information can be utilized by Printo in such manner as Printo, in its sole discretion, deems appropriate.
+Printo’s online service which helps you connect with other Users or the public Printos. Your personally identifiable information you choose to provide on our website is used to help you describe yourself to other Users. Other information, that does not personally identify you as an individual, is collected by Printo from Users (such as, patterns of utilization described above) and is exclusively owned by Printo. This information can be utilized by Printo in such manner as Printo, in its sole discretion, deems appropriate.
 
 a. Communication and Update
 
-Printo will communicate with you through email and notices posted on the Printo website or through other means available through the service, including text and other forms of messaging. You can change your e-mail and contact preferences at any time by logging into your ï¿½ Accountï¿½ <http://www.printo.in/account/notifications> and change the account settings.
+Printo will communicate with you through email and notices posted on the Printo website or through other means available through the service, including text and other forms of messaging. You can change your e-mail and contact preferences at any time by logging into your Account <http://www.printo.in/account/notifications> and change the account settings.
 
 b. Sharing Information with Third Parties
 
 Printo takes the privacy of Users very seriously. We do not sell, rent, or otherwise provide your personally identifiable information to third parties for marketing purposes. We will only share your personally identifiable information with third parties to carry out your instructions or to provide specific services or information.
 
-We may provide aggregated anonymous data about the usage of our services to third parties for such purposes as we deem, in our sole discretion, to be appropriate, including to prospective advertisers on Printo. If you wish to opt-out of this service, please email [support@printo.in](mailto:support@printo.in)
+We may provide aggregated anonymous data about the usage of our services to third parties for such purposes as we deem, in our sole discretion, to be appropriate, including to prospective advertisers on Printo. If you wish to opt-out of this service, please email [support@printo.in](mailto:support@printo.in)
 
 c. Surveys and Polls
 
-As a User, you will receive requests to participate in market research including polls and surveys submitted by other Printo members. If you participate in surveys and polls offered through our website, the information you provide may be visible to others using the Printo website. You may opt-out of participating by changing your ï¿½Accountï¿½ [settings](http://www.printo.in/account/settings).
+As a User, you will receive requests to participate in market research including polls and surveys submitted by other Printo members. If you participate in surveys and polls offered through our website, the information you provide may be visible to others using the Printo website. You may opt-out of participating by changing your Account [settings](http://www.printo.in/account/settings).
 
 d. Forum and Blogs
 
@@ -77,7 +75,7 @@ It is possible that we may need to disclose personal information when required b
 
 f. Disclosures to others
 
-We may also disclose your personal and other information you provide, to another third party as part of a reorganization or a sale of the assets of a Printo corporation division or company. Any third party to which we transfer or sell Printoï¿½s assets will have the right to continue to use the personal and other information that you provide to us.
+We may also disclose your personal and other information you provide, to another third party as part of a reorganization or a sale of the assets of a Printo corporation division or company. Any third party to which we transfer or sell Printo’s assets will have the right to continue to use the personal and other information that you provide to us.
 
 g.Other uses:
 
@@ -99,8 +97,6 @@ You can also close your account on Printo. On closure, we will remove your name 
 b. Retrieval of information
 
 Information provided by you including those which is set to be visible only to you is accessible by select Printo team. Printo internally has a process on information security and your information being accessed only by those who are authorised. In situations where you accidentally delete your information and would like to retrieve, then this core team may access the stored database and recover the same. Please be aware that this team may have to go through your personal information in order to restore the information sought by you.
-
-‘
 
 **4\. Users Obligations**
 
@@ -130,4 +126,4 @@ Printo may update this privacy policy at any time, with or without advance notic
 
 If you use the Printo service after notice of changes have been sent to you or published on our site, you hereby provide your consent to the changed practices.
 
-**Last update : September 5, 2012**
+**Last update : 15 May 2013**
