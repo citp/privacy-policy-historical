@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livelinkcafe.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501082757id_/http%3A//livelinkcafe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livelinkcafe.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230032916id_/http%3A//livelinkcafe.com/privacy.php) for the most accurate reproduction.*
 
-# Live Link Cafe - Free Exchange Link Network | Add My URL
+# LiveLinkCafe.com - Free Traffic Exchange | Unique Link Surfing System
 
 |  |  |  | 
 
@@ -12,7 +12,7 @@
   
 ---|---  
   
-Members: [ **2640** ]  
+Members: [ **3499** ]  
   
 * * *  
   
@@ -45,9 +45,10 @@ Violations:
 
 Please report any violations of the TOS to us at: [helpdesk@livelinkcafe.com](mailto:helpdesk@livelinkcafe.com)
 
+  
 Cancel Your Membership / Opt Out
 
-If at any time you wish to close your account you may email your request to [](mailto:helpdesk@livelinkcafe.com) [helpdesk@livelinkcafe.com](mailto:helpdesk@livelinkcafe.com). Please be aware that terminating your account will cancel any and all credits due, without refund.   
+If at any time you wish to close your account you may email your request to [helpdesk@livelinkcafe.com](mailto:helpdesk@livelinkcafe.com). Please be aware that terminating your account will cancel any and all credits due, without refund.   
 
 
 * * *
@@ -57,4 +58,6 @@ If at any time you wish to close your account you may email your request to [](m
 ---  
   
   
-[](http://activesafelist.com/bizoppers.htm)
+[](http://www.clixsense.com/?2966256)
+
+[](http://www.easyhits4u.com/?ref=dublife)
