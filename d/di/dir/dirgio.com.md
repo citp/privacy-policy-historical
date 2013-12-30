@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dirgio.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530034603id_/http%3A//www.dirgio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirgio.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230200525id_/http%3A//www.dirgio.com/privacy) for the most accurate reproduction.*
 
 # Dirgio - Privacy Policy
 
