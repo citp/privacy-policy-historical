@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the thebark.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629222054id_/http%3A//thebark.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebark.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230020258id_/http%3A//thebark.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Bark
 
-Last updated: 05/24/13  
+Last updated: 05/24/13
+
 The Bark, Inc. (“Bark,” “we” or “us”) respects your privacy and has adopted policies and procedures to ensure that information collected on our website or by ordering from The Bark about our visitors and customers (“you” or "visitors") is handled responsibly. This Privacy Policy (“Policy”) describes the privacy practices of [www.thebark.com](http://www.thebark.com/) (“website”) and _The Bark_ ("magazine"). Use of this website is also subject to our [Terms of Use](http://thebark.com/content/terms-service).
 
 **Information Collection and Use – Personally Identifiable Information**  
