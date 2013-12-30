@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demandbase.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630010051id_/http%3A//www.demandbase.com/who-is-demandbase/about-demandbase/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandbase.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230173708id_/http%3A//www.demandbase.com/who-is-demandbase/about-demandbase/privacy) for the most accurate reproduction.*
 
 # Privacy :: Demandbase :: B2B Marketing, Account-Based Targeting and Personalization Platform
 
