@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepoplook.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623132917id_/http%3A//thepoplook.com/cms.php%3Fid_cms%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepoplook.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230102426id_/http%3A//www.thepoplook.com/cms.php%3Fid_cms%3D6) for the most accurate reproduction.*
 
 # privacy policy - ThePoplook.com
 
