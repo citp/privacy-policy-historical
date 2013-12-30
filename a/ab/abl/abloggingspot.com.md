@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the abloggingspot.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531191116id_/http%3A//abloggingspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abloggingspot.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230132751id_/http%3A//abloggingspot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | A Blogging Spot
+# Privacy Policy - A Blogging Spot
 
-You are here: [Home](http://abloggingspot.com/) / Privacy Policy
+## Privacy Policy
+
+## Privacy Policy Here…
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
