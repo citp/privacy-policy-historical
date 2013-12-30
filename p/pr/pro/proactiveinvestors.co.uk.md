@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proactiveinvestors.co.uk privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508153309id_/http%3A//www.proactiveinvestors.co.uk/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proactiveinvestors.co.uk privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230050229id_/http%3A//www.proactiveinvestors.co.uk/pages/privacy) for the most accurate reproduction.*
 
 # Proactive Investors - Leading source of Financial News, Investor Forums, CEO Interviews, Financial Columnists, Stock Information - Privacy
 
@@ -44,14 +44,15 @@ We may intercept, record and/or monitor any communication(s) (including telephon
 
 In the case of communications by email you should note that as emails are not currently encrypted (and may therefore be intercepted by third parties) and as the identity of the sender cannot be confirmed you must NOT provide your security details by email and should avoid providing any Personal Data to us by email. We will not provide Personal Data to you be email.
 
-We have certain responsibilities under the Money Laundering Regulations 2003 and the FSA Rules to verify the identity of clients and may need to make certain enquiries and obtain certain information from you for that purpose. You confirm that all information you supply will be accurate and that we may disclose such information as we consider necessary to comply with any reporting or legal and regulatory requirements.
+We have certain responsibilities under the Money Laundering Regulations 2003 and the FCA Rules to verify the identity of clients and may need to make certain enquiries and obtain certain information from you for that purpose. You confirm that all information you supply will be accurate and that we may disclose such information as we consider necessary to comply with any reporting or legal and regulatory requirements.
 
-You agree that we may disclose to the FSA and to any other regulatory authority to which we are subject and to, or to any person empowered to require such information by or under any legal enactment, any information they may request or require relating to you or, if relevant, any of your clients.
+You agree that we may disclose to the FCA and to any other regulatory authority to which we are subject and to, or to any person empowered to require such information by or under any legal enactment, any information they may request or require relating to you or, if relevant, any of your clients.
 
 Obtaining copies of and changing your Personal Data
 
 In the event that you wish to see a copy of your Personal Data held by us please visit the "Your Personal Details" page on the Site or write to:
 
-**Proactive Investors UK Limited, 21 Mansell Street, London, EC1 8AA**
+**Proactive Investors UK Limited, The Business Centre, Wool House, 74 Back Church Lane London E1 1AF  
+Tel: +44 (0)207 989 0813**
 
-We will amend or delete any Personal Data relating to you which is found to be incorrect or not relevant in accordance with the Act. If you are aware of any changes that should be made to your Personal Data please visit the "My Profiles" page on the Site or otherwise notify the Interactive Investor Contact Centre on **0207 989 0813** as soon as possible.
+We will amend or delete any Personal Data relating to you which is found to be incorrect or not relevant in accordance with the Act. If you are aware of any changes that should be made to your Personal Data please visit the "My Profiles" page on the Site or otherwise notify Proactive Investors on **0207 989 0813** as soon as possible.
