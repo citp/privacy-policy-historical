@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the giftster.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630233012id_/http%3A//giftster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftster.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230110116id_/http%3A//www.giftster.com/privacy) for the most accurate reproduction.*
 
-# Giftster | privacy policy | free wish list, gift registry and event calendar for family and friends
+# Giftster | privacy policy | gifts I want
 
 We treat your information as we would want our information treated. That is the English language version. For the legal one, read on... 
 
