@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prowrestlingscoops.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627052132id_/http%3A//www.prowrestlingscoops.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prowrestlingscoops.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231042343id_/http%3A//www.prowrestlingscoops.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wrestling News, WWE News, TNA News - ProWrestlingScoops.com
 
