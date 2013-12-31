@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbaa.org privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612155735id_/http%3A//www.nbaa.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbaa.org privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231012937id_/http%3A//www.nbaa.org/about/privacy) for the most accurate reproduction.*
 
 # NBAA Website Privacy Policy | NBAA - National Business Aviation Association
 
