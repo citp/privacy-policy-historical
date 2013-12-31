@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apolisglobal.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501073952id_/http%3A//www.apolisglobal.com/service/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apolisglobal.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231162302id_/http%3A//www.apolisglobal.com/service/security-privacy) for the most accurate reproduction.*
 
 # Security & Privacy | Apolis
 
