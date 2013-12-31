@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the flattr.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602172509id_/https%3A//flattr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flattr.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231030337id_/https%3A//flattr.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy - Flattr.com
+# Zásady ochrany osobních údajů - Flattr.com
 
-  * [Terms of use](https://web.archive.org/terms)
-  * [Privacy policy](https://web.archive.org/privacy)
+  * [Podmínky užívání](https://web.archive.org/terms)
+  * [Zásady ochrany osobních údajů](https://web.archive.org/privacy)
 
 
 
