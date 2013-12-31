@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patriots.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627153853id_/http%3A//www.patriots.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriots.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231130123id_/http%3A//www.patriots.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Official Website of the New England Patriots | Privacy Policy
 
@@ -137,7 +137,7 @@ We employ other businesses, certain services and individuals to perform function
 
 ###### Promotional Offers:
 
-We may send offers by email to you on behalf of other partners. When we do this, we do not give that partner your name and address. If you do not want to receive such offers, you may opt out in response to the email, or change your preferences by visiting http://www.patriots.com/fanzone/.
+We may send offers by email to you on behalf of other partners. When we do this, we do not give that partner your name and address. If you do not want to receive such offers, you may opt out or change your preferences using the links provided in the footer of the email.
 
 ###### Aggregate Information:
 
@@ -209,4 +209,4 @@ If you have any questions about this privacy policy or the privacy practices of 
 
 [](http://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.patriots.com/seal_m "TRUSTe European Safe Harbor certification")
 
-_Last Updated on June 15, 2012_
+_Last Updated on September 17, 2013_
