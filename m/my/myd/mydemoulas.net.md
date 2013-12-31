@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the mydemoulas.net privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526164705id_/http%3A//www.mydemoulas.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydemoulas.net privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231140446id_/http%3A//www.mydemoulas.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Market Basket Supermarket's of New England
-
-  
-
 
 This Privacy Policy governs the manner in which MyDemoulas.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.MyDemoulas.net](http://www.mydemoulas.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by MyDemoulas.net.
 
@@ -30,7 +27,7 @@ We continually strive to improve our website offerings based on the information 
   * _\- To improve customer service_  
 Your information helps us to more effectively respond to your customer service requests and support needs.
   * _\- To share your information with third parties_  
-We may share or sell information with third parties for marketing or other purposes.
+We do not share or sell information with third parties for marketing or other purposes.
   * _\- To administer a content, promotion, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
   * _\- To send periodic emails_  
