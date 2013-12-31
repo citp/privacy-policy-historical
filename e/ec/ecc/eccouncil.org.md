@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eccouncil.org privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612042351id_/https%3A//www.eccouncil.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eccouncil.org privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231124821id_/http%3A//www.eccouncil.org/privacy) for the most accurate reproduction.*
 
-# Certified Ethical Hacker, EC Council, CEH, Information Security, Computer Security, Network Security, Internet Security, Security Courses, Hacking
+# Certified Ethical Hacker, Information Security Certifications, Computer Security Training, Network Security Courses, Internet Security, Hacking | EC-Council
 
 EC-Council is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the EC-Council Web site and governs data collection and usage. By using the EC-Council website, you consent to the data practices described in this statement.
 
