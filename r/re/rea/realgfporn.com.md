@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realgfporn.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601135710id_/http%3A//www.realgfporn.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realgfporn.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231034339id_/http%3A//www.realgfporn.com/privacy.php) for the most accurate reproduction.*
 
 # PrivacyatReal GF Porn
 
