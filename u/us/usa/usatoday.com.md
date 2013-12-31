@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usatoday.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627030417id_/http%3A//www.usatoday.com/legal/privacynotice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usatoday.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231114755id_/http%3A//www.usatoday.com/legal/privacynotice.html) for the most accurate reproduction.*
 
-# USA TODAY
+# USATODAY
 
 Last Updated: December 1, 2012
 
