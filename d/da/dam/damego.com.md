@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the damego.com privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410084818id_/http%3A//www.damego.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the damego.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231075216id_/http%3A//www.damego.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Damego
 
@@ -89,8 +89,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 http://www.damego.com
 
-1648 Pine Place  
+411 Cleveland St # 249  
 Clearwater, Florida 33755  
 US  
-contact @ damego.com  
-
+contact @ damego.com
