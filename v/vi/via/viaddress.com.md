@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viaddress.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604100706id_/http%3A//www.viaddress.com/privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viaddress.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231095210id_/http%3A//www.viaddress.com/privacy%2520policy) for the most accurate reproduction.*
 
 # Viaddress : The Global Leader in Package Forwarding
 
