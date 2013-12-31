@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the funofart.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626013447id_/http%3A//www.funofart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funofart.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231234922id_/http%3A//www.funofart.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Funofart
-
-### PRIVACY
+# Privacy Policy | The Best Photography Site
 
 **Funofart respects your privacy.**
 
@@ -27,5 +25,3 @@ While we do our best to protect your personal information, we cannot guarantee 
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
 For any other information email [webmaster](mailto:info@funofart.com)
-
-Comments are closed.
