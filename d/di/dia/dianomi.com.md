@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dianomi.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522003713id_/http%3A//www.dianomioffers.co.uk/legal/privacy.epl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dianomi.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231121352id_/http%3A//www.dianomioffers.co.uk/legal/privacy.epl) for the most accurate reproduction.*
 
 # Privacy Policy - dianomi - intelligent customer acquisition
 
@@ -18,6 +18,8 @@ We (and, if appropriate, our advertising partners) may also use your personal in
 
 When you submit your personal information on the Website, you are giving your consent to the collection, use and disclosure of such information as set forth in this Privacy Policy. 
 
+If you don't want to receive information on other products and services, please contact us via email: [sales@dianomi.com](mailto:sales@dianomi.com) or write to us: dianomi ltd, 18 Buckingham Gate, London SW1E 6LB. 
+
 **2\. Disclosure of Personal Information**
 
 Except as described in this Privacy Policy or in connection with certain services offered on the Website, we do not share your personal information with third parties for their own use without your consent. If you choose to let us share your personal information with third parties, we are not responsible for the actions of such third party companies, nor are we responsible for any additional information you provide directly to these or to any other third parties. 
@@ -30,6 +32,8 @@ In addition, Dianomi may retain other third party vendors, consultants and other
 In addition, Dianomi may disclose personal information when we are lawfully authorized or required to do so. 
 
 Information about our users, including personal information, may also be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets, financing or acquisition, an insolvency, bankruptcy or receivership or in any other situation where personal information may be transferred as one of the business assets of Dianomi. 
+
+Your address data may be cross-referenced against the Experian Financial Strategy Segments or Mosaic databases and augmented with demographic information which is included in the information we provide our 3rd party advertising partners in order to help them assess the suitability of the services on offer. 
 
 **3\. Use of Cookies and Web Beacons**
 
