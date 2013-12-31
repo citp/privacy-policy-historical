@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infolinks.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529171239id_/http%3A//www.infolinks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infolinks.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231224923id_/http%3A//www.infolinks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
