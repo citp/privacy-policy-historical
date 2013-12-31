@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the times.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627165039id_/http%3A//www.nytimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the times.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231194318id_/http%3A//www.nytimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The New York Times
 
-_Last Updated on February 13, 2013_
+_Last Updated on October 14, 2013_
 
-This Privacy Policy discloses the privacy practices for The New York Times newspaper and NYTimes.com (including global.nytimes.com, the online edition of The International Herald Tribune) [The New York Times Home Delivery](http://homedelivery.nytimes.com/HDS/HDSHome.do?mode=HDSHome) Web site, [The New York Times Neediest Cases Fund](http://nytneediestcases.com/), Times Skimmer, Times Reader, [The New York Times Store](http://www.nytstore.com/ "Welcome to The New York Times Store  - Rare and Newsworthy Items") and [The New York Times Learning Network](http://learning.blogs.nytimes.com/ "The Learning Network - The Learning Network Blog - NYTimes.com"), Web sites and other applications (collectively referred to as the “NYT Services”), and to any services that display this notice. For the purposes of this Privacy Policy, unless otherwise noted, all references to "The New York Times" include NYTimes.com and The New York Times newspaper.
+This Privacy Policy discloses the privacy practices for The New York Times newspaper and NYTimes.com (including international.nytimes.com, the online edition of The International New York Times) [The New York Times Home Delivery](http://homedelivery.nytimes.com/HDS/HDSHome.do?mode=HDSHome) Web site, [The New York Times Neediest Cases Fund](http://nytneediestcases.com/), Times Skimmer, Times Reader, [The New York Times Store](http://www.nytstore.com/ "Welcome to The New York Times Store  - Rare and Newsworthy Items") and [The New York Times Learning Network](http://learning.blogs.nytimes.com/ "The Learning Network - The Learning Network Blog - NYTimes.com"), Web sites and other applications (collectively referred to as the “NYT Services”), and to any services that display this notice. For the purposes of this Privacy Policy, unless otherwise noted, all references to "The New York Times" include NYTimes.com and The New York Times newspaper.
 
 The New York Times Replica Edition, which is maintained by NewspaperDirect, maintains its own [Privacy Policy](http://nytimes.newspaperdirect.com/epaper/helpandsupport.aspx?subpage=PrivacyPolicy "The New York Times - Replica Edition").
 
@@ -84,7 +84,7 @@ _**Non-Personal Information Collected Using Technology**_
 
 **Information Collected by Us Using Technology**
 
-****We use various Internet technologies to manage the NYT Services and track use of the Services. Non-personal information that we collect using these technologies may be combined with other information about you.
+We use various Internet technologies to manage the NYT Services and track use of the Services. Non-personal information that we collect using these technologies may be combined with other information about you.
 
 **Device Information.** We may collect non-personal information about the computer, mobile device or other device you use to access the NYT Services, such as IP address, geolocation information, unique device identifiers, browser type, browser language and other transactional information.
 
