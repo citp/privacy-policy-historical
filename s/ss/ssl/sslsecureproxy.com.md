@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sslsecureproxy.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502230655id_/http%3A//www.sslsecureproxy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sslsecureproxy.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231170403id_/http%3A//www.sslsecureproxy.com/privacy.php) for the most accurate reproduction.*
 
 # SSL Secure Proxy - Unblock YouTube, Facebook, Twitter, Adult
 
@@ -20,11 +20,11 @@ Our website stores a cookie on your computer, if allowed by your browser's priva
 
 We may also use third-party advertising partners on our website. Advertisers may send you cookies or use web beacons. We have no control over cookies, web beacons or the information collected by our advertisers. Consult the third-party advertiser's privacy policy for more information on their practices.
 
-  * [Home](https://web.archive.org/web/20130502230655id_/http%3A//www.sslsecureproxy.com/index.php)
-  * [Edit Browser](https://web.archive.org/web/20130502230655id_/http%3A//www.sslsecureproxy.com/edit-browser.php)
-  * [Manage Cookies](https://web.archive.org/web/20130502230655id_/http%3A//www.sslsecureproxy.com/cookies.php)
-  * [Privacy Policy](https://web.archive.org/web/20130502230655id_/http%3A//www.sslsecureproxy.com/privacy.php)
-  * [Disclaimer](https://web.archive.org/web/20130502230655id_/http%3A//www.sslsecureproxy.com/disclaimer.php)
-  * [Terms of Use](https://web.archive.org/web/20130502230655id_/http%3A//www.sslsecureproxy.com/tou.php)
+  * [Home](https://web.archive.org/web/20131231170403id_/http%3A//www.sslsecureproxy.com/index.php)
+  * [Edit Browser](https://web.archive.org/web/20131231170403id_/http%3A//www.sslsecureproxy.com/edit-browser.php)
+  * [Manage Cookies](https://web.archive.org/web/20131231170403id_/http%3A//www.sslsecureproxy.com/cookies.php)
+  * [Privacy Policy](https://web.archive.org/web/20131231170403id_/http%3A//www.sslsecureproxy.com/privacy.php)
+  * [Disclaimer](https://web.archive.org/web/20131231170403id_/http%3A//www.sslsecureproxy.com/disclaimer.php)
+  * [Terms of Use](https://web.archive.org/web/20131231170403id_/http%3A//www.sslsecureproxy.com/tou.php)
 
 
