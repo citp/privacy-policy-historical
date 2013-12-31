@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ico.gov.uk privacy policy that was archived on 2013-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130308231644id_/http%3A//www.ico.gov.uk/Global/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ico.gov.uk privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231130118id_/http%3A//www.ico.org.uk/Global/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Notice - Information Commissioner's Office - ICO
 
 ## How we use your information
 
-This privacy notice tells you what to expect when the Information Commissioner’s Office collects personal information. It applies to information we collect about:
+This privacy notice tells you what to expect when the Information Commissioner’s Office (ICO) collects personal information. It applies to information we collect about:
 
   * visitors to our websites 
   * complainants and other individuals in relation to a data protection or freedom of information complaint or enquiry 
@@ -16,33 +16,37 @@ This privacy notice tells you what to expect when the Information Commissioner�
 
 ## Visitors to our websites
 
-When someone visits [www.ico.gov.uk](http://www.ico.gov.uk/) we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone. We do not make any attempt to find out the identities of those visiting either of our websites ([www.ico.gov.uk](http://www.ico.gov.uk/) or [www.ico.jobs](http://www.ico.jobs/)). We will not associate any data gathered from this site with any personally identifying information from any source. If we do want to collect personally identifiable information through our website, we will be up front about this. We will make it clear when we collect personal information and will explain what we intend to do with it.
+When someone visits [www.ico.org.uk](http://www.ico.org.uk/) we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone. We do not make any attempt to find out the identities of those visiting either of our websites ([www.ico.org.uk](http://www.ico.org.uk/) or [www.ico.jobs](http://www.ico.jobs/)). We will not associate any data gathered from this site with any personally identifying information from any source. If we do want to collect personally identifiable information through our website, we will be up front about this. We will make it clear when we collect personal information and will explain what we intend to do with it.
 
 ### Use of cookies by the ICO
 
-You can read more about how we use cookies on our [Cookies page](https://web.archive.org/Global/cookies.aspx).
-
-### People taking part in the survey about our website
-
-We are running a survey on our main website ([www.ico.gov.uk](http://www.ico.gov.uk/)). The survey will help us measure satisfaction with our site, to ascertain whether it is performing as expected and to identify potential future improvements.
-
-We have contracted Bunnyfoot ([www.bunnyfoot.com](http://www.bunnyfoot.com/)) to conduct the research on our behalf. The survey is intended to be anonymous and will not ask for any personal information, eg names or email addresses. As with all forms of market research, your participation is voluntary. Those participating in the survey must indicate they are over 16.
-
-Bunnyfoot is using SurveyMonkey to run and store data from the survey. Bunnyfoot administer the survey data, and will only store it for as long as is necessary for the purposes of this research. The survey collects standard internet log information, including your IP address. Neither the ICO, Bunnyfoot or SurveyMonkey will link, or seek to link, any information gathered by the survey with the identity of a computer user. The survey uses cookies. For full details of SurveyMonkey’s privacy policy see <http://www.surveymonkey.com/mp/policy/privacy-policy/>. 
+You can read more about how we use cookies on our [Cookies page](https://web.archive.org/Global/cookies).
 
 ### Search engine
 
-The search engine on our website is designed to be as powerful and easy to use as the popular search engine Google. The search is made possible by a piece of hardware (a search ‘appliance’) supplied by Google that is plugged into our server and continuously indexes the content on our site. All search requests are handled by the appliance and the information is not passed on to any third party, including Google.
+Our website search and decision notice search is powered by System Associates. Search queries and results are logged anonymously to help us improve our website and search functionality. No user-specific data is collected by either ICO or any third party.
 
 ### E-newsletter
 
 We use a third party provider, Adestra, to deliver our monthly e-newsletter. We gather statistics around email opening and clicks using industry standard technologies including clear gifs to help us monitor and improve our e-newsletter. For more information, please see [Adestra’s privacy notice](http://www.adestra.com/home/privacy-policy/ "External link").
+
+### Online reporting tool
+
+We collect information volunteered by members of the public about nuisance calls and texts using an online reporting tool hosted by Snap Surveys. This company is a data processor for the ICO and only processes personal information in line with our instructions.
+
+### Data Protection Practitioners Conference site
+
+We use a third party service, WordPress.com, to publish [our 2014 conference mini-site](http://www.ico.org.uk/conference2014 "External site"). The site is hosted at WordPress.com, which is run by Automattic Inc. We use a standard WordPress service to collect anonymous information about users' activity on the site, for example the number of users viewing pages on the site, to monitor and report on the effectiveness of the site and help us improve it. WordPress requires visitors that want to post a comment to enter a name and email address. For more information about how WordPress processes data, please [see Automattic's privacy notice](http://automattic.com/privacy "External site").
 
 ## People who call our helpline
 
 When you call the ICO's helpline we collect Calling Line Identification (CLI) information. We use this information to help improve its efficiency and effectiveness.
 
 Our helpline also offers a translation service for customers when English is not their first language, this is provided by a third party company. The company that provides this service does not retain any information from the calls or record them.
+
+## People who email us
+
+The ICO is part of the GSI network. Any email sent to us, including any attachments, may be monitored and used by us for reasons of security and for monitoring compliance with office policy.  Email monitoring or blocking software may also be used. Please be aware that you have a responsibility to ensure that any email you send to us is within the bounds of the law. 
 
 ## People who make a complaint to us
 
@@ -64,13 +68,21 @@ The ICO offers various services to the public. We use a third party to deal wit
 
 We have to hold the details of the people who have requested the service in order to provide it. However, we only use these details to provide the service the person has requested and for other closely related purposes. For example, we might use information about people who have requested a publication to carry out a survey to find out if they are happy with the level of service they received. When people do subscribe to our services, they can cancel their subscription at any time and are given an easy way of doing this. 
 
-## People who ‘notify’ under the Data Protection Act 1998
+## People who register (notify) under the Data Protection Act 1998
 
-Many businesses are required by law to ‘notify’ certain specified information to the Information Commissioner. This may contain personal information, for example where the business is a sole trader. The ICO compiles this information into a register which it is required by law to make publicly available. The ICO puts technical measures in place to prevent the bulk down-load of the electronic version of the register. However, as the register is publicly available, the ICO cannot give any guarantees as to how the information contained on the register will be used by those accessing it.
+Many businesses are required by law to ‘notify’ certain specified information to the Information Commissioner. This may contain personal information, for example where the business is a sole trader. The ICO compiles this information into a register which it is required by law to make publicly available. The ICO puts technical measures in place to prevent the bulk download of the electronic version of the register. However, as the register is publicly available, the ICO cannot give any guarantees as to how the information contained on the register will be used by those accessing it.
 
-When businesses fill in their notification forms, they are asked to provide the contact details of a relevant member of staff. ICO will use this for its own purposes, for example where we have a query about a notification, but will not put it on the public register.
+When businesses fill in their registration forms, they are asked to provide the contact details of a relevant member of staff. ICO will use this for its own purposes, for example where we have a query about a registration, but will not put it on the public register.
 
-When we request information as part of the notification process, we make it clear where the provision of information is required by law and where it is voluntary.
+When we request information as part of the registration process, we make it clear where the provision of information is required by law and where it is voluntary.
+
+## Service providers reporting a breach
+
+Public electronic communications service providers are required by law to report any security breaches involving personal data to the ICO.
+
+We provide an online form for this purpose, hosted by Egress. We use the data collected by the form to record the breach, to make decisions about the action we may take, and as relevant in order to carry out those actions. We retain personal information only for as long as necessary to carry out these functions, and in line with our retention schedule. This means that logs and breach reports will be retained for two years from receipt, and longer where this information leads to regulatory action being taken. We retain de-personalised information about organisations for as long as is necessary to help inform future actions, but no individuals are identifiable from that data.
+
+The ICO and Egress have measures in place to ensure the security of data collected and transferred to the ICO via this form. Egress is a data processor for the ICO and only processes personal information in line with our instructions.
 
 ## Job applicants, current and former ICO employees
 
@@ -122,12 +134,12 @@ This privacy notice does not cover the links within this site linking to other w
 
 ## Changes to this privacy notice
 
-We keep our privacy notice under regular review. This privacy notice was last updated on 1 February 2013.
+We keep our privacy notice under regular review. This privacy notice was last updated on 7 November 2013.
 
 ## How to contact us
 
-Requests for information about our privacy policy can be emailed to the Information Governance department or by writing to:  
-Information Governance  
+If you want to request information about our privacy policy you can [email us](mailto:informationgovernance@ico.org.uk) or write to:  
+Information Governance department  
 Information Commissioner's Office  
 Wycliffe House  
 Water Lane  
@@ -135,4 +147,4 @@ Wilmslow
 Cheshire  
 SK9 5AF
 
-[Read more in our guide to information](https://web.archive.org/Global/publication_scheme_compliance.aspx)
+[Read more in our guide to information](https://web.archive.org/Global/publication_scheme_compliance)
