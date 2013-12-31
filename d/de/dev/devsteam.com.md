@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the devsteam.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625160622id_/http%3A//devsteam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devsteam.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231115744id_/http%3A//devsteam.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy & Terms of Services
+# Privacy Policy - DevsTeam
 
 Your Privacy is extremely important to us. At DevsTeam we have some fundamental policies that we strictly maintain.
 
