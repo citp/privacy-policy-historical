@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 3am.co.uk privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627030846id_/http%3A//www.mirror.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3am.co.uk privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231072637id_/http%3A//www.mirror.co.uk/privacy-statement) for the most accurate reproduction.*
 
-# Mirror Online: Number one for news, opinion, sport & celebrity gossip
+# Mirror Online: The intelligent tabloid. #madeuthink
 
 ## Privacy Statement
 
