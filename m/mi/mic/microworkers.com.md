@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the microworkers.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512232031id_/http%3A//www.microworkers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microworkers.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231061144id_/http%3A//microworkers.com/privacy.php) for the most accurate reproduction.*
 
 # Microworkers
 
-This policy is effective as of February 26, 2013.
+This policy is effective as of June 17, 2013.
 
 Welcome to the Microworkers Service, a web service utility that connects employers and workers on a micro level. The Microworkers service is operated by Weblabcentercom, Inc. and its subsidiaries and affiliates ("us," "we",  "Microworkers", “site” or “Microworkers.com”). By using or accessing the Microworkers Service, you agree that you have read, understand and are bound by these Terms of Use ("Terms"). We reserve the right, at our sole discretion, to change or delete portions of these Terms at any time without further notice. Your continued use of the Microworkers Service after any such changes constitutes your acceptance of the new Terms.
 
 **Microworkers Principles**
 
-We built Microworkers to make it easy to (a) advertise your product (b) find people who will be interested in helping you promote your website, product, etc. (c) find people who will help you do work for you – finish tasks you usually are not able to finish yourself or you want more people to work on a task (d) convert your work into earnings. We understand you may not want everyone in the world to access your personal information; that is why all personal information is hidden from other users. Our  privacy settings is very strict and does not allow other users to see any of your personal information except your Microworkers ID.
+We built Microworkers to make it easy to (a) advertise your product (b) find people who will be interested in helping you promote your website, product, etc. (c) find people who will help you do work for you – finish tasks you usually are not able to finish yourself or you want more people to work on a task (d) convert your work into earnings. We understand you may not want everyone in the world to access your personal information; that is why all personal information is hidden from other users. Our  privacy settings does not allow other users to see your personal information except your Microworkers ID, your IP Address, and your browser information.
 
 Microworkers does not share information with other users. As employer you choose what information you put in response to replying to a worker. As a worker you choose what information you put in response to replying to an employer. We suggest you not to reply with any personal information such as your MSN ID, Skype ID, Email, phone number, etc.. There is no need to publish any of your personal information as all communication in Microworkers system is based upon user ID.
 
@@ -44,7 +44,7 @@ Microworkers does not knowingly collect or solicit personal information from any
 
 When you register with Microworkers, you create your own account. Your profile information and email  are not displayed to other users. Unless you decide to share your personal information with other users, the only information displayed is your account ID. We may occasionally use your name and email address to send you notifications regarding new services offered by Microworkers that we think you may find valuable.
 
-We will also use your mailing address information to send you a PIN code you need to activate payments to you. In case you select check as payment option we will send a check payment to you directly.
+We will also use your mailing address information to send you a Postal PIN code you need to activate payments to you. In case you select Paypal, or Skrill as payment option, we will send the payment to the Paypal email or Skrill email as you request.
 
 Microworkers may send you service-related announcements from time to time through the general operation of the service. For instance, if another users sends you a message regarding a job or a task, you may receive an email alerting you to that fact.
 
@@ -54,7 +54,7 @@ We may use information about you that we collect from other sources, including b
 
 **Sharing Your Information with Third Parties**
 
-Microworkers will not share information in your profile with third parties.
+Microworkers will not share information in your profile with third parties unless it is required by law to do so.
 
 **Users data**
 
