@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ple.com.au privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630084850id_/http%3A//ple.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ple.com.au privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231030635id_/http%3A//www.ple.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # PLE Computers Privacy
 
@@ -31,4 +31,10 @@ iv. Comply with legal compulsion such as a Court order.
 7\. PLE Computers is constantly improving and enhancing its products and services to customers, and may update this privacy policy from time to time. Any changes to the policy will be advised to customers in our regular newsletter and by updating this page on the PLE Computers web site.   
 
 
-8\. If you have any queries or comments concerning the privacy policy, call PLE Computers on 08 9309 4771 or email: [service@ple.com.au](mailto:service@ple.com.au)
+8\. Do we use cookies? Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.   
+
+
+9\. Remarketing We also uses 3rd party vendor re-marketing tracking cookies, including the Google Adwords tracking cookie. This means we will continue to show ads to you across the internet, specifically on the Google Content Network (GCN). As always we respect your privacy and are not collecting any identifiable information through the use of Google’s or any other 3rd party remarketing system. The third-party vendors, including Google, whose services we use – will place cookies on web browsers in order to serve ads based on past visits to our website. – Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. This allows us to make special offers and continue to market our services to those who have shown interest in our service.   
+
+
+10\. If you have any queries or comments concerning the privacy policy, call PLE Computers on 08 9309 4771 or email: [service@ple.com.au](mailto:service@ple.com.au)
