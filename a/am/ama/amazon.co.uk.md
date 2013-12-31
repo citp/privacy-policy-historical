@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the amazon.co.uk privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622232654id_/http%3A//www.amazon.co.uk/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D502584) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazon.co.uk privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231235113id_/http%3A//www.amazon.co.uk/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D502584) for the most accurate reproduction.*
 
 # Amazon.co.uk Help: Privacy Notice
 
 | 
 
-Last Updated: 25 September 2012. To view changes to the Privacy Notice please click [here](http://www.amazon.co.uk/gp/help/customer/display.html?nodeId=200321100)
+Last Updated: 25 September 2012. To view changes to the Privacy Notice please click [here](https://web.archive.org/gp/help/customer/display.html?nodeId=200321100)
 
 Amazon.co.uk knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes the privacy policy of Amazon.co.uk. **By visiting Amazon.co.uk, you are accepting and consenting to the practices described in this Privacy Notice.**
 
@@ -27,7 +27,7 @@ Amazon.co.uk knows that you care how information about you is used and shared an
 
 Any personal information provided to or gathered by Amazon.co.uk is controlled by Amazon EU SARL, Amazon Services Europe SARL and Amazon Media EU SARL (the data controllers), all three at 5 Rue Plaetis L-2338, Luxembourg. Amazon.co.uk Ltd of Patriot Court, 1-9 The Grove, Slough, Berkshire, England SL1 1QP UK acts as data processor on behalf of the data controllers.
 
-Amazon.com, Inc. and its controlled US subsidiaries are participants in the Safe Harbour programme developed by the US Department of Commerce and the European Union. These Amazon Group companies have certified that they adhere to the Safe Harbour Privacy Principles agreed upon by the US and the EU. For more information about the Safe Harbour and to view these Amazon Group companies' certification, visit the [U.S. Department of Commerce's Safe Harbour](http://www.export.gov/safeharbor) website. If you would like to contact Amazon directly about the Safe Harbour programme, please send an e-mail to [safeharbor@amazon.com](mailto:safeharbor@amazon.com).
+Amazon.com, Inc. and its controlled US subsidiaries are participants in the Safe Harbour programme developed by the US Department of Commerce and the European Union. These Amazon Group companies have certified that they adhere to the Safe Harbour Privacy Principles agreed upon by the US and the EU. For more information about the Safe Harbour and to view these Amazon Group companies' certification, visit the [U.S. Department of Commerce's Safe Harbour](https://www.export.gov/safeharbor) website. If you would like to contact Amazon directly about the Safe Harbour programme, please send an e-mail to [safeharbor@amazon.com](mailto:safeharbor@amazon.com).
 
 Back to top
 
@@ -39,13 +39,13 @@ Here are the types of information we gather.
 
   * **Information You Give Us:** we receive and store any information you enter on our website or give us in any other way. Click here to see examples of what we collect. You can choose not to provide certain information but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customising future shopping for you, improving our stores, and communicating with you. 
   * **Automatic Information:** we receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies" and we obtain certain types of information when your Web browser accesses Amazon.co.uk or advertisements and other content served by or on behalf of Amazon.co.uk on other Web sites. Click here to see examples of the information we receive.
-  * **Mobile:** When you download or use [apps created by Amazon](http://www.amazon.co.uk/gp/feature.html/ref=sa_menu_adr_amz2?ie=UTF8&docId=1000501923) or its subsidiaries and, where applicable, have requested or consented to location services, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as search results, and other personalised content. Most mobile devices allow you to turn off location services. For more information about how to do this, click here.
+  * **Mobile:** When you download or use [apps created by Amazon](https://web.archive.org/gp/feature.html/ref=sa_menu_adr_amz2?ie=UTF8&docId=1000501923) or its subsidiaries and, where applicable, have requested or consented to location services, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as search results, and other personalised content. Most mobile devices allow you to turn off location services. For more information about how to do this, click here.
   * **E-mail Communications:** to help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Amazon.co.uk if your computer supports such capabilities. We also compare our customer list to lists received from other companies in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your [Customer Communication Preferences](https://www.amazon.co.uk/ap/signin?_encoding=UTF8&openid.assoc_handle=gbflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=900&openid.return_to=https%3A%2F%2Fwww.amazon.co.uk%2Fgp%2Fgss%2Fccp%3Fie%3DUTF8%26ref_%3Dya__21)
   * **Information from Other Sources:** we might receive information about you from other sources and add it to our account information. Click here to see examples of the information we receive.
 
 
 
-To enable our systems to recognise your device and to provide features to you, we use cookies. For more information about cookies and how we use them, please read our [Cookies & Internet Advertising policy](http://www.amazon.co.uk/gp/BIT/InternetBasedAds). 
+To enable our systems to recognise your device and to provide features to you, we use cookies. For more information about cookies and how we use them, please read our [Cookies & Internet Advertising policy](https://web.archive.org/gp/BIT/InternetBasedAds). 
 
 Back to top
 
@@ -67,7 +67,7 @@ Whenever we transfer personal information to countries outside of the European E
   * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
   * We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
   * We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of personally identifiable customer information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you. 
-  * It is important for you to protect against unauthorised access to your password and to your computer. Be sure to sign off when you finish using a shared computer. [Click here](http://www.amazon.co.uk/gp/help/customer/display.html/ref=hp_sn_dd?nodeId=1093784) for more information on how to sign off. 
+  * It is important for you to protect against unauthorised access to your password and to your computer. Be sure to sign off when you finish using a shared computer. [Click here](https://web.archive.org/gp/help/customer/display.html/ref=hp_sn_dd?nodeId=1093784) for more information on how to sign off. 
 
 
 
@@ -75,7 +75,7 @@ Back to top
 
 **What About Third-Party Advertisers and Links to Other Web sites?**
 
-Our site may include third-party advertising and links to other Web sites. For more information about third-party advertising at Amazon.co.uk, including personalised or interest-based ads, please read our [Cookies & Internet Advertising policy](http://www.amazon.co.uk/gp/BIT/InternetBasedAds).
+Our site may include third-party advertising and links to other Web sites. For more information about third-party advertising at Amazon.co.uk, including personalised or interest-based ads, please read our [Cookies & Internet Advertising policy](https://web.archive.org/gp/BIT/InternetBasedAds).
 
 Back to top
 
@@ -83,9 +83,9 @@ Back to top
 
 Amazon.co.uk gives you access to a broad range of information about your account and your interactions with Amazon.co.uk for the limited purpose of viewing and, in certain cases, updating that information. Click here to see some examples. This list will change as our website evolves.
 
-  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Amazon.co.uk features as [Your Profile](http://www.amazon.co.uk/gp/help/customer/display.html?ie=UTF8&nodeId=200039420), [Wish Lists](http://www.amazon.co.uk/gp/help/customer/display.html?nodeId=748390), [Customer Reviews](http://www.amazon.co.uk/gp/help/customer/display.html?nodeId=200267590) and [Amazon Prime](http://www.amazon.co.uk/gp/help/customer/display.html?nodeId=200182130).
+  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Amazon.co.uk features as [Your Profile](https://web.archive.org/gp/help/customer/display.html?ie=UTF8&nodeId=200039420), [Wish Lists](https://web.archive.org/gp/help/customer/display.html?nodeId=748390), [Customer Reviews](https://web.archive.org/gp/help/customer/display.html?nodeId=200267590) and [Amazon Prime](https://web.archive.org/gp/help/customer/display.html?nodeId=200182130).
   * You can add or update certain information on pages such as those referenced in the Which Information Can I Access? section. When you update information, we usually keep a copy of the previous version for our records. 
-  * If you do not want to receive e-mail or other mail from us, please adjust your [Customer Communication Preferences](https://www.amazon.co.uk/ap/signin?_encoding=UTF8&openid.assoc_handle=gbflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=900&openid.return_to=https%3A%2F%2Fwww.amazon.co.uk%2Fgp%2Fgss%2Fccp%3Fie%3DUTF8%26ref_%3Dya__21). (If you do not want to receive [Conditions of Use and Sale](http://www.amazon.co.uk/gp/help/customer/display.html/026-3166383-1414827?nodeId=1040616) and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Amazon.co.uk and orders placed with Amazon.co.uk, and it is your responsibility to review them for changes.) 
+  * If you do not want to receive e-mail or other mail from us, please adjust your [Customer Communication Preferences](https://www.amazon.co.uk/ap/signin?_encoding=UTF8&openid.assoc_handle=gbflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=900&openid.return_to=https%3A%2F%2Fwww.amazon.co.uk%2Fgp%2Fgss%2Fccp%3Fie%3DUTF8%26ref_%3Dya__21). (If you do not want to receive [Conditions of Use and Sale](https://web.archive.org/gp/help/customer/display.html/026-3166383-1414827?nodeId=1040616) and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Amazon.co.uk and orders placed with Amazon.co.uk, and it is your responsibility to review them for changes.) 
   * If you do not want us to use personal information that we gather to allow third parties to personalise advertisements we display to you, please adjust your [Advertising Preferences](https://www.amazon.co.uk/gp/advertising/oo). 
   * The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. However, because cookies allow you to take advantage of some of Amazon.co.uk's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Basket, proceed to Checkout, or use any Amazon.co.uk products and services that require you to Sign in.
 
@@ -95,17 +95,17 @@ Amazon.co.uk does not sell products for purchase by children. We sell children's
 
 **Conditions of Use, Notices, and Revisions**
 
-If you have any concern about privacy at Amazon.co.uk, please [e-mail us](http://www.amazon.co.uk/gp/help/contact-us/general-questions.html) with a thorough description and we will try to resolve the issue for you.
+If you have any concern about privacy at Amazon.co.uk, please [e-mail us](https://web.archive.org/gp/help/contact-us/general-questions.html) with a thorough description and we will try to resolve the issue for you.
 
-Our business changes constantly and our Privacy Notice and the [Conditions of Use and Sale](http://www.amazon.co.uk/gp/help/customer/display.html/026-3166383-1414827?nodeId=1040616) will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
+Our business changes constantly and our Privacy Notice and the [Conditions of Use and Sale](https://web.archive.org/gp/help/customer/display.html/026-3166383-1414827?nodeId=1040616) will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
 
 **Related Practices and Information:**
 
-  * [Conditions of Use and Sale](http://www.amazon.co.uk/gp/help/customer/display.html/026-3166383-1414827?nodeId=1040616)
-  * [Discussion Boards](http://www.amazon.co.uk/gp/forum/content/db-guidelines.html/)
-  * [Help Desk](http://www.amazon.co.uk/gp/help/customer/display.html?nodeId=471044)
+  * [Conditions of Use and Sale](https://web.archive.org/gp/help/customer/display.html/026-3166383-1414827?nodeId=1040616)
+  * [Discussion Boards](https://web.archive.org/gp/forum/content/db-guidelines.html/)
+  * [Help Desk](https://web.archive.org/gp/help/customer/display.html?nodeId=471044)
   * [Most Recent Purchases](https://www.amazon.co.uk/gp/css/order-history?ie=UTF8&ref_=ya_orders&)
-  * [Your Profile and Community Guidelines](http://www.amazon.co.uk/gp/help/customer/display.html?nodeId=200039740)
+  * [Your Profile and Community Guidelines](https://web.archive.org/gp/help/customer/display.html?nodeId=200039740)
 
 
 
