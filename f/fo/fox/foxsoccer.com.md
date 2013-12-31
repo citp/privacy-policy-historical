@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the foxsoccer.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612093411id_/http%3A//msn.foxsports.com/other/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxsoccer.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231034619id_/http%3A//msn.foxsports.com/other/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FOX Sports on MSN
 
 **FOX Sports Digital Privacy Policy**
 
-Effective Date: October 10, 2012
+Effective Date: November 15, 2013
 
 Table of Contents:  
-**1.INTRODUCTION   
-2\. COLLECTION OF INFORMATION   
+**1.INTRODUCTION  
+2\. COLLECTION OF INFORMATION  
 3\. NOTICE AND CHOICE  
 4\. USE AND DISCLOSURE  
 5\. SECURITY  
 6\. USER CONTROL  
 7\. DATA RETENTION  
-8\. SENSITIVE INFORMATION   
-9\. CONTACT US   
+8\. SENSITIVE INFORMATION  
+9\. CONTACT US  
 **
 
 **1.INTRODUCTION**
 
-Fox Sports Digital ("FSD"), which is operated and controlled by Fox Networks Group, Inc., has developed this Privacy Policy to describe how we collect, use and disclose information. This Privacy Policy applies to the sports-related websites, mobile sites, applications ("apps"), widgets, and other content and services that are linked to this Privacy Policy (collectively, the "FSD Sites"), including Foxsports.com, Foxsoccer.com, Speed.com, FoxDeportes.com, SoonerSports.tv and FOXSportsNext.com.
+Fox Sports Digital ("FSD"), which is operated and controlled by Fox Networks Group, Inc., has developed this Privacy Policy to describe how we collect, use and disclose information. This Privacy Policy applies to the sports-related websites, mobile sites, applications ("apps"), widgets, and other content and services that are linked to this Privacy Policy (collectively, the "FSD Sites"), including Foxsports.com, Foxsoccer.com, Speed.com, FoxDeportes.com, and SoonerSports.tv.
 
-By providing personal information to us and using the FSD Sites, you agree to the terms and conditions of this Privacy Policy. To see a list of our affiliated companies ("FSD Affiliates") [click here](http://www.newscorp.com/).
+By providing personal information to us and using the FSD Sites, you agree to the terms and conditions of this Privacy Policy. To see a list of our affiliated companies ("FSD Affiliates") [click here](http://www.21cf.com/).
 
 As set forth in our [Terms of Use](http://msn.foxsports.com/other/page/terms-of-use), the FSD Sites are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.
 
@@ -32,18 +32,13 @@ This Privacy Policy applies to all users, including both those who use some of t
 
 We work with Microsoft to bring you certain features for some of the FSD Sites.  By providing information to or using the FSD Sites, you agree that we may share your information with Microsoft. Microsoft's use of your information is governed by Microsoft's Privacy Policy, which can be found here: _<http://go.microsoft.com/fwlink/?LinkId=248688>_.
 
-**Services Offered with Publishers**  
-
-
-FOX Sports Next works with local website owners and content providers (collectively "Publishers") to bring you certain features for some of the FOX Sports Next services, such as magazines, message boards and premium forums (the "FOX Sports Next Services"). By providing information to, or using, those FOX Sports Next Services, you agree that we may share your information with the applicable Publisher.[Click here](http://www.foxsportsnext.com/home/teams/college.html) for a list of Publishers. Be sure to check the applicable Publisher's privacy policy that governs the Publisher's use of your information. 
-
 **2.COLLECTION OF INFORMATION**
 
-FSD and our service providers collect the following information from and about you:. 
+FSD and our service providers collect the following information from and about you:.
 
-**Registration Information** is the information you submit to register for our FSD Sites, for example to create a FSD account, post comments, receive a newsletter or mobile alert, or enter a contest or sweepstakes. Registration Information may include, for example, name, email address, gender, zip code, birthday, and phone number. 
+**Registration Information** is the information you submit to register for our FSD Sites, for example to create a FSD account, post comments, receive a newsletter or mobile alert, or enter a contest or sweepstakes. Registration Information may include, for example, name, email address, gender, zip code, birthday, and phone number.
 
-**Public Information and Posts** consist of comments or content that you post to the FSD Sites and the information about you that accompanies those posts or content, which may include a name, user name, comments, likes, status, profile information and picture. Public Information and Posts are always public, which means they are available to everyone and may be displayed in search results on external search engines. 
+**Public Information and Posts** consist of comments or content that you post to the FSD Sites and the information about you that accompanies those posts or content, which may include a name, user name, comments, likes, status, profile information and picture. Public Information and Posts are always public, which means they are available to everyone and may be displayed in search results on external search engines.
 
 **Social Media Information and Content.** If you access or log-in to a FSD Site through a social media service or another website, app, service or log-in ("Other Service"), or connect a FSD Site to Other Services, the information we collect may also include your user ID and/or user name associated with that Other Service, any information or content you have permitted the Other Service to share with us, such as your profile picture, email address or friends' lists, and any information you have made public in connection with that Other Service (collectively, "Social Media Information and Content"). When you access the FSD Sites through Other Services, or when you connect a FSD Site to Other Services, you are authorizing FSD to collect, store, and use any and all Social Media Information and Content in accordance with this Privacy Policy.
 
@@ -118,3 +113,6 @@ We ask that you not send us, and you not disclose, any sensitive personal inform
 **9.CONTACT US**
 
 If you have questions about this Privacy Policy, please send an email to the applicable FSD Site email contact for "Privacy Policy matters" [listed here](http://msn.foxsports.com/other/page/contacts).
+
+  
+ 
