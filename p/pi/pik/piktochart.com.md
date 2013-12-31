@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the piktochart.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425194859id_/http%3A//piktochart.com/piktocharts-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piktochart.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231052322id_/http%3A//piktochart.com/piktocharts-privacy-policy) for the most accurate reproduction.*
 
-# Piktochart's Privacy Policy » Piktochart Infographics
+# Piktochart's Privacy Policy - Piktochart Infographics
 
 Your privacy is of utmost importance to us, and we would like to inform you about our policy for protecting your privacy online. As a business, we DO collect information from you, and we do it in two ways: Information we get from your usage of the system (see Google Analytics) and information you give us (see Social Media). We do not collect any data/information from you in regards to the Piktocharts you save on our server (see Piktochart infographics).
 
