@@ -1,49 +1,32 @@
-> *The following text is extracted and transformed from the cambio.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602022910id_/http%3A//www.cambio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cambio.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231214238id_/http%3A//privacy.aol.com) for the most accurate reproduction.*
 
-# Cambio | Entertainment News, Celebrity Photos, Music Videos, Movie Trailers, TV Recaps
+# AOL Privacy
 
-## Privacy Policys
+This notice provides highlights of the full [privacy policy](https://web.archive.org/privacy-policy/) and covers the collection and use of information from any device used to access or connect to AOL branded websites, services, and software, as well as many websites owned by or affiliated with AOL and operating under different names. Para leer este documento en español haz clic [aquí](http://privacy.aol.com/puntos-importante).
 
-**Data Collection Form & Use of Information Collected**
+### Personal Information
 
-The personally identifiable information collected on cambio.com, which includes birth date, first name, last name, email address, and cell phone number will be used for marketing purposes pertaining to the launch of the cambio.com Web site as well as ongoing communications surrounding the marketing of cambio.com’s programs and offerings. We will never post or display any of the user’s personally identifiable information or share any of their info with any 3rd party services outside of those necessary to manage and the cambio.com web servers and online services.
+We collect personal information when you make your information known, such as by registering, authenticating, making purchases, or interacting with AOL. If you do not make yourself known to AOL, your use of our content and services is generally anonymous.
 
-**Opt-out Policy**
+### How we use your Information
 
-Personally identifiable information received from our form is used to send information and promotional material about Cambio via email and/or text messaging. The default assumption is that the user has "opted-in" and consented to use of their information in this manner and in accordance with our standard policies and procedures. If a user no longer wishes to receive emails from Cambio, they can click to "opt-out" link on the bottom of all email communications. If they user no longer wishes to receive text messages they can send a request using the Questions form provided at the footer of the cambio.com Web site.
+Your AOL information is used to operate and improve our services, fulfill your requests and communicate with you, conduct research, and personalize the content and advertisements provided to you.
 
-**Age Restriction and COPPA Compliance**
+### Information Sharing
 
-The cambio.com forms are not intended for use by children who are under the age of 13. We will not knowingly collect any information from site visitors in this age group and have taken such measures by requiring all users to enter their birth date prior to entering personally identifiable information. If at the time the user is under the age of 13 our system will inform them that they are not old enough to complete this process.
+AOL may share your personal information in limited circumstances, including when we have your consent to do so or when sharing is necessary to protect AOL or comply with the law. Our agents and contractors may have access to your information, but only to perform services for AOL. We do not sell or rent your personal information to third parties.
 
-However, if we learn that a child under the age of 13 has submitted personally identifiable information online, in contravention of these measures, we will take all reasonable measures to delete such information from our databases and to not use such information for any purpose except where necessary to protect the safety of the child or others or as required by law. For purposes of this policy, information regarding your children that you (the parent) provide to us is treated in the same manner as information collected about users over the age of 13.
+### Internet Advertising
 
-**Tracking Data**
+Our ability to provide free content and services depends on advertising. Some of our ads are displayed based on the page visited, but many of our ads are targeted to you based on your interests and other information we have about you. We want you to understand how internet advertising works and offer resources and choices. [Learn more](http://privacy.aol.com/advertising-and-privacy/).
 
-Each time a user visits our site various technologies including server logs and tracking software automatically collects data including but not limited to the user’s IP address, referring URL, browser type, operating system, and a record of activity while visiting the site.
+### How to Opt-Out
 
-We collect information to understand what area of this site is most popular, what third party Web sites are driving traffic tour site and what technologies our visitors are using. This information helps us to update and improve the site and our marketing approach. We also use this information for security purposes to detect and to block security breaches and to provide users with a safe online environment.
+You can [opt-out](http://www.aboutads.info/choices/) of targeted advertising delivered by the AOL Advertising Network.
 
-**Security**
+### How to Contact Us
 
-We recognize and respect the user’s desire for privacy when it comes to their personal information. We use reasonable industry standard procedures and processes to safeguard the confidentiality of identifiable personal information. However, when a user submits information over the Internet, the information may travel over systems not under our control.
-
-Third Party Web Sites
-
-This Site may contain links to other web sites operated by third parties that may be of interest to our users. We cannot control these third party Web sites, which may collect personal information from its users. When users follow a links and leave this cambio.com they do so at their own risk.
-
-**Contact Us**
-
-If you have additional questions regarding the use of personal information, you can contact us by phone, e-mail, or postal mail.
-
-By e-mail:  
-[AOLKidsprvacy@aol.com](mailto:AOLKidsprvacy@aol.com)
-
-By mail:  
-AOL Children's Online Privacy  
-ATT: H1A:C02  
+**AOL Privacy**  
 22000 AOL Way  
-Dulles, VA 20166-9302
-
-By phone:  
-(888)206-6088
+Dulles, VA 20166  
+privacyquestions@aol.com
