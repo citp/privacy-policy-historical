@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templatemonster.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622065648id_/http%3A//www.templatemonster.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatemonster.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231032153id_/http%3A//www.templatemonster.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,6 +36,14 @@ TemplateMonster.com, Inc. (hereafter referred to as TemplateMonster.com) has cre
     * We need to respond to subpoenas, court orders or such other legal process;
     * We need to protect the personal safety of the users of our websites or defend the rights or property of TemplateMonster.com;
     * We find that your actions on our websites violate the TemplateMonster.com Terms of Use document or any of our usage guidelines for specific products or services.
+
+
+
+#### Display Advertising
+
+  * TemplateMonster.com has implemented Display Advertising and uses Remarketing with Google Analytics to advertise online. It means that third-party vendors, including Google, show our ads on sites across the Internet.
+  * TemplateMonster.com along with third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our website.
+  * If you want to opt-out of Google Analytics for Display Advertising, just customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads) or using [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/) that will instruct the Google Analytics JavaScript not to send any information about the website visit to Google Analytics.
 
 
 
