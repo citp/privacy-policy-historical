@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the opinionlab.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629215541id_/http%3A//www.opinionlab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opinionlab.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231163725id_/http%3A//www.opinionlab.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy – OpinionLab | Omnichannel Voice of Customer Feedback | Customer Feedback Management
+# privacy policy – OpinionLab – Omnichannel Digital Feedback Management – Voice of Customer Feedback Anytime, Anywhere ™
 
-This website is operated by us, OpinionLab Inc., a corporation organized and existing under the laws of the State of Delaware. Our principal place of business is at 600 Central Avenue, Suite 265, Highland Park, IL 60035.
+This website is operated by us, OpinionLab Inc., a corporation organized and existing under the laws of the State of Delaware. Our principal place of business is at 549 West Randolph Street, Suite 401, Chicago, IL 60661.
 
 OpinionLab is a Voice of Customer company that empowers consumers with an easy tool for sending comments to the brands they use. At the same time, we help those brands better listen to and engage with customers by making sure your message is heard, understood, and acted on.
 
@@ -19,7 +19,7 @@ We collect information you provide on our website such as contact information or
 OpinionLab collects additional information from subscribers who purchase our services and any users they may authorize to act on their behalf. When a subscriber account is created, we collect the subscriber’s name, job title, phone number, email address, company name, industry and mailing address. Where the subscriber is a corporate entity, like a company, this may include information about the person registering on the subscriber’s behalf. 
 
 **Cookies**  
-We may use cookies and similar technologies such as web beacons to support the functionality of our customer portal, monitor traffic patterns and collect information about your previous visits to our web site. For more information, visit our cookies page at <http://www.opinionlab.com/company/cookies-policy>.
+We may use cookies and similar technologies such as web beacons to support the functionality of our customer portal, monitor traffic patterns and collect information about your previous visits to our web site. For more information, visit our cookies page at <http://www.opinionlab.com/cookies-policy>.
 
 ## How Does OpinionLab Use Information Collected From Visitors?
 
@@ -48,9 +48,10 @@ By using our website, you consent to the collection, processing and storage of i
 **Change/Modify**  
 Subscribers who purchase OpinionLab products or services may access, review and/or correct all their personally identifiable information that we collect online by sending an email to info@opinionlab.com.
 
-OpinionLab, Inc. 600 Central Avenue Suite 265  
-Highland Park, IL 60035  
+OpinionLab, Inc.   
+549 W. Randolph St, Suite 401   
+Chicago, IL 60661  
 United States of America
 
 **Contact Us**  
-If you have any questions about how we collect, store and use your information, you may contact us by telephoning (847) 681-6100 or by e-mailing us at [info@opinionlab.com](mailto:info@opinionlab.com). 
+If you have any questions about how we collect, store and use your information, you may contact us by telephoning (312) 800-4500 or by e-mailing us at [info@opinionlab.com](mailto:info@opinionlab.com). 
