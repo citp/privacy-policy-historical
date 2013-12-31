@@ -1,99 +1,103 @@
-<!--The following is the downloaded HTML source of the speedtest.net privacy policy that was archived on 2012-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121212064541id_/http%3A//www.speedtest.net/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the speedtest.net privacy policy that was archived on 2013-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131231215656id_/http%3A//www.speedtest.net/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<meta name="description" content="Test your Internet connection bandwidth to locations around the world with this interactive broadband speed test">
+	<meta name="description" content="Test your Internet connection bandwidth to locations around the world with this interactive broadband speed test from Ookla">
 	<meta name="keywords" lang="en" content="ookla, speed, test, speedtest, speed test, bandwidth speed test, internet speed test, broadband speed test, speakeasy, flash, cnet, internet, network, connection, broadband, bandwidth, latency, ping, throughput, download, upload, connection, dsl, adsl, cable, t1, voip, isp, asp, internet, ip, ip address, tcp, ds3">
 	<meta name="ROBOTS" content="NOYDIR">
 	<meta http-equiv="X-UA-Compatible" content="IE=8">
-	<title>Speedtest.net - Privacy Policy</title>
+	<title>Speedtest.net by Ookla - Privacy Policy</title>
 	<link rel="stylesheet" type="text/css" href="http://c.speedtest.net/css/reset.css" media="screen">
 	<link rel="stylesheet" type="text/css" href="http://c.speedtest.net/css/tipTip.css" media="screen">
-	<link rel="stylesheet" type="text/css" href="http://c.speedtest.net/css/layout.css" media="screen">
-	<link rel="stylesheet" type="text/css" href="http://c.speedtest.net/css/global.css?v=2012-11-23" media="screen">
-	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://c.speedtest.net/javascript/jquery-1.8.0.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://c.speedtest.net/css/layout.css?v=20131029" media="screen">
+	<link rel="stylesheet" type="text/css" href="http://c.speedtest.net/css/global.css?v=20131217" media="screen">
+	<link rel="canonical" href="http://www.speedtest.net/privacy.php">
+	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://c.speedtest.net/javascript/jquery-1.8.1.min.js"></script>
 	<script type="text/javascript" src="http://c.speedtest.net/javascript/jquery.tipTip.js"></script>
 	<script type="text/javascript" src="http://c.speedtest.net/javascript/jquery.placeholder.min.js"></script>
-	<script type="text/javascript" src="http://c.speedtest.net/javascript/functions.js?v=2012-11-23"></script>
+	<script type="text/javascript" src="http://c.speedtest.net/javascript/functions.js?v=20131025"></script>
 	<!--[if lte IE 6]>
         <link rel="stylesheet" type="text/css" href="css/ie6.css?v=2012-11-23" media="screen" />
 	<![endif]-->
 	
-
-	<script type="text/javascript">
 	
-	  function load_image(src) {
-		var img = document.createElement("img");
-		img.src = src;
-		img.width = 1;
-		img.height = 1;
-		document.body.appendChild(img);
-	  }
-		
-	  var pageLoaded = new Date().getTime();
-	  var testStart = 0;
-	  function gaTracker(params) {
-		if(params.length >= 3 && params[2] == "test_loaded") {
-			var testLoaded = new Date().getTime();
-			_gaq.push(['_trackTiming', 'speedtest', 'testloaded', testLoaded - pageLoaded]);
+  <script type="text/javascript">
+
+  function load_image(src) {
+  	var ts = new Date().getTime();
+	var img = document.createElement("img");
+	img.src = src + "&ts=" + ts;
+	img.width = 1;
+	img.height = 1;
+	document.body.appendChild(img);
+  }
+
+  var pageLoaded = new Date().getTime();
+  var testStart = 0;
+  function gaTracker(params) {
+	if(params.length >= 3 && params[2] == "test_loaded") {
+		var testLoaded = new Date().getTime();
+		_gaq.push(['_trackTiming', 'speedtest', 'testloaded', testLoaded - pageLoaded]);
+	}
+
+	if(params.length >= 3 && params[2] == "test_started") {
+		testStart = new Date().getTime();
+	}
+
+	if(params.length >= 4 && params[2] == "test_complete") {
+		if(testStart > 0) {
+			var testComplete = new Date().getTime();
+			_gaq.push(['_trackTiming', 'speedtest', 'testlength', testComplete - testStart]);
+			testStart = 0;
 		}
 
-		if(params.length >= 3 && params[2] == "test_started") {
-			testStart = new Date().getTime();
-		}
+		_gaq.push(['_setCustomVar',2,'test_taken',params[3], 2]); // slot=2, test_taken=count, visit
+	}
 
-		if(params.length >= 4 && params[2] == "test_complete") {
-			if(testStart > 0) {
-				var testComplete = new Date().getTime();
-				_gaq.push(['_trackTiming', 'speedtest', 'testlength', testComplete - testStart]);
-				testStart = 0;
+	// click tracking
+	if(params.length >= 3 && params[1] == "advertising") {
+
+		// parse param 3
+		var lp_params = params[2].split(";");
+
+		if (lp_params.length == 3) {
+			// banner position
+			var bp = lp_params[0];	// banner position L = leaderboard, S = skyscraper, F = flash
+			var id = lp_params[1];	// impression depth
+			var et = lp_params[2];	// vital event type
+
+			var img_src = "/vital/"+ et + ".png?x=" + bp + ";" + id;
+
+			load_image(img_src);
+
+			// reset param 2 so google analytics tracks properly
+			if (bp == 'L') {
+				params[2] = 'leaderboard_click';
+			} else if (bp == 'S') {
+				params[2] = 'skyscraper_click';
+			} else if (bp == 'F') {
+				params[2] = 'endtest_click';
 			}
-
-			_gaq.push(['_setCustomVar',2,'test_taken',params[3], 2]); // slot=2, test_taken=count, visit
 		}
-		
-		// click tracking
-		if(params.length >= 3 && params[2] != "test_loaded" && params[2] != 'test_started' && params[2] != 'test_complete') {
-		
-			// parse param 3
-			var lp_params = params[2].split(";");
-			
-			if (lp_params.length == 3) {
-				// banner position
-				var bp = lp_params[0];	// banner position L = leaderboard, S = skyscraper, F = flash
-				var id = lp_params[1];	// impression depth
-				var et = lp_params[2];	// vital event type
-			
-				var img_src = "/vital/"+ et + ".png?x=" + bp + ";" + id;
-			
-				load_image(img_src);
-				
-				// reset param 2 so google analytics tracks properly
-				if (bp == 'L') {
-					params[2] = 'leaderboard_click';
-				} else if (bp == 'S') {
-					params[2] = 'skyscraper_click';
-				} else if (bp == 'F') {
-					params[2] = 'endtest_click';
-				}
-			}
-		}
-		
-	    _gaq.push(params);
-	  }
+	}
 
-	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-389482-3']);
-	  _gaq.push(['_setDomainName', 'speedtest.net']);
-	  _gaq.push(['_trackPageview']);
+    _gaq.push(params);
+  }
 
-	  (function() {
-	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
-	</script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-389482-3']);
+  _gaq.push(['_setDomainName', 'speedtest.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+  	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+	
+
 </head>
 <body id="generic" class="">
 
@@ -102,40 +106,18 @@
 <div id="header">
 
 <div id="logo">
-<a href="/">Speedtest.net</a>
+<a href="/">Ookla Speedtest</a>
 </div><!--/logo-->
 
-
-
 <div id="nav">
-<span id="nav-left"></span>
 <ul>
 	<li class="nav-results"><a href="/results.php">My Results</a></li>
 <li class="nav-support"><a href="/support.php">Support</a></li>
 <li class="nav-settings"><a href="/user-settings.php">Settings</a></li>
 <li class="nav-login last"><a class="login-title" href="/user-login.php">Login</a></li>
 
-</ul><span id="nav-right"></span>
-</div><!--/nav-->
-
-<!--
-<div id="lang">
-<span class="current-lang">en</span>
-<ul class="other-lang">
-	<li><a href="/switch_language.php?lang=de">DE</a></li>
-	<li><a href="/switch_language.php?lang=en">EN</a></li>
-	<li><a href="/switch_language.php?lang=es">ES</a></li>
-	<li><a href="/switch_language.php?lang=fr">FR</a></li>
-	<li><a href="/switch_language.php?lang=id">ID</a></li>
-	<li><a href="/switch_language.php?lang=it">IT</a></li>
-	<li><a href="/switch_language.php?lang=nl">NL</a></li>
-	<li><a href="/switch_language.php?lang=pl">PL</a></li>
-	<li><a href="/switch_language.php?lang=pt">PT</a></li>
-	<li><a href="/switch_language.php?lang=ru">RU</a></li>
-	<li><a href="/switch_language.php?lang=sv">SV</a></li>
 </ul>
-</div>
--->
+</div><!--/nav-->
 
 <div class="login-box">
 	<form method="post" action="https://www.speedtest.net/user-login.php">
@@ -153,12 +135,14 @@
 </div><!--/login-box-->
 
 
+
 <div id="createaccount"><a href="/user-register.php">Create Account</a></div>
+
 </div><!--/header-->
 <div id="content">
 
 <div id="generic-header">
-	<h1>Speedtest.net Privacy Policy</h1>
+	<h1>Ookla Speedtest Privacy Policy</h1>
 
 </div><!--/generic-header-->
 
@@ -167,7 +151,7 @@
 <div id="generic-main-content">
 <p><i>Updated December 4th, 2011</i></p>
 
-<p>At Ookla, we know that our success in providing free broadband services to the globe is all the result of trust. Trust in the fact that we are 100% independent -- from ISPs, mobile/cellular carriers, phone &amp; cable companies and yes, from government, lobbyists and special interests too. In fact the owners and operators of Speedtest.net have been broadband advocates (some have said activists) since 1992. Today, we focus first and foremost on what was merely a dream back then: Provide the world with free and easy to use broadband testing applications that fill the need for a single, global broadband standard. We have built Speedtest.net on an almost infinitely scalable platform that (now) serves millions of people on all major operating systems and almost any platform: anytime, anywhere, and to/from thousands of physical locations all around the world.</p>
+<p>At Ookla, we know that our success in providing free broadband services to the globe is all the result of trust. Trust in the fact that we are 100% independent -- from ISPs, mobile/cellular carriers, phone &amp; cable companies and yes, from government, lobbyists and special interests too. In fact the owners and operators of Ookla Speedtest have been broadband advocates (some have said activists) since 1992. Today, we focus first and foremost on what was merely a dream back then: Provide the world with free and easy to use broadband testing applications that fill the need for a single, global broadband standard. We have built Ookla Speedtest on an almost infinitely scalable platform that (now) serves millions of people on all major operating systems and almost any platform: anytime, anywhere, and to/from thousands of physical locations all around the world.</p>
 
 <p>We also know that above all, this trust in based in the unrivaled accuracy of our tools. We provide this accuracy whether testing from your home, work, or a mobile device when on the go. Your results are all, strictly at your option, stored under a single free account to make it even easier to manage and compare. All of our valued customers do so knowing they remain entirely anonymous because we don’t collect any personally identifiable information whatsoever. Our customers depend on us to reinvest and innovate, and provide these services at no cost to them. How do we do without selling personally identifiable information? First, it is important to realize that our business model is very different than many other free sites. While we are and will always remain free to the entire worldwide population (250 million served in the last year alone), we separately serve thousands of clients who license special versions our technology for use on their own web site(s). In fact, this is all part of our success as the single global standard, exclusively used by over 80% of North American Internet and Application Service Providers (60% globally, and growing even faster) and Fortune 500, Fortune 50, as well as serving many national government, federal communication organizations, including the FCC.</p>
 
@@ -177,7 +161,7 @@
 
 <h3>Your Test Results</h3>
 
-<p>Naturally in order to show you your result, we have to store that along with all of the information that allows you to compare your performance with others, and we do so with all tests that are performed on Speedtest.net (Web or Mobile) or at Pingtest.net. These anonymous Test Results typically include the actual measurement results (Mbps), the IPv4 or IPv6 network address, and the make and version of web browser that was used to access the site. We take note also of the date and time the test was run and which ISP, college or organization who operates the network the connection is on and an approximate location for the server and the client machine (using only publicly available information). With Mobile devices, we collect the type of device, which version it is both hardware and software and the very same information about the network including what type the test was run on (cellular or WiFi). As well, and only if you have allowed us explicitly to do so on your device, the approximate location information only regarding where the test was run from.</p>
+<p>Naturally in order to show you your result, we have to store that along with all of the information that allows you to compare your performance with others, and we do so with all tests that are performed with Ookla Speedtest (Web or Mobile) or at Pingtest.net. These anonymous Test Results typically include the actual measurement results (Mbps), the IPv4 or IPv6 network address, and the make and version of web browser that was used to access the site. We take note also of the date and time the test was run and which ISP, college or organization who operates the network the connection is on and an approximate location for the server and the client machine (using only publicly available information). With Mobile devices, we collect the type of device, which version it is both hardware and software and the very same information about the network including what type the test was run on (cellular or WiFi). As well, and only if you have allowed us explicitly to do so on your device, the approximate location information only regarding where the test was run from.</p>
 
 <h3>How We Use The Data We Collect</h3>
 
@@ -222,15 +206,17 @@
 <ul>
 	<li class="footer-title" id="footer-company">Company</li>
 	<li><a href="/about.php">About</a></li>
-	<li><a href="/support.php">Contact</a></li>
+	<li><a href="/advertise">Advertise</a></li>
 	<li><a href="/support.php">Support</a></li>
 	<li><a href="/host.php">Become A Host</a></li>
+	<li><a href="/isp-performance">ISP Performance</a></li>
+	<li><a href="/location-performance">Location Performance</a></li>
 </ul>
 
 <ul>
 	<li class="footer-title" id="footer-products">Products</li>
-	<li><a href="/mobile.php">Speedtest.net Mobile</a></li>
-	<li><a href="/mini.php">Speedtest.net Mini</a></li>
+	<li><a href="/mobile/">Ookla Speedtest Mobile</a></li>
+	<li><a href="/mini.php">Ookla Speedtest Mini</a></li>
 	<li><a href="http://www.pingtest.net">Pingtest.net</a></li>
 	<li><a href="http://www.netindex.com">NetIndex.com</a></li>
 </ul>
@@ -240,6 +226,7 @@
 	<li><a href="/link.php">Link to Us</a></li>
 	<li><a href="http://www.twitter.com/ookla">Twitter</a></li>
 	<li><a href="http://www.facebook.com/teamookla">Facebook</a></li>
+	<li><a href="/support.php">Contact</a></li>
 </ul>
 
 <div id="footer-ookla">
@@ -250,7 +237,6 @@
 </div><!--/footer-nav-->
 
 <div id="footer-lang">
-	<!-- <strong>en</strong> | -->
 	<a href="/switch_language.php?lang=de">DE</a> |
 	<a href="/switch_language.php?lang=en">EN</a> |
 	<a href="/switch_language.php?lang=es">ES</a> |
@@ -264,16 +250,14 @@
 	<a href="/switch_language.php?lang=sv">SV</a>
 </div>
 
-<span id="copyright"><strong>Accurate, free and powered by Ookla — the global standard in network testing.</strong><br>
-© Copyright 2012 Ookla | <a href="/privacy.php">Privacy Policy</a></span>
+<span id="copyright"><strong>Accurate, free and powered by <a href="http://ookla.com/">Ookla</a> — the global standard in network testing.</strong><br>
+© Copyright 2013 <a href="http://ookla.com/">Ookla</a> | <a href="/privacy.php">Privacy Policy</a></span>
 
 <iframe id="iframedl" name="iframedl" frameborder="0"></iframe>
 
 </div><!--/footer-->
 
 
-
-<!-- <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script> -->
 
 <!-- Quantcast Tag -->
 <script type="text/javascript">
