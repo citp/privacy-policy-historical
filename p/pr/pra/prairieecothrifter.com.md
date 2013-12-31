@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prairieecothrifter.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610173312id_/http%3A//prairieecothrifter.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prairieecothrifter.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231152640id_/http%3A//prairieecothrifter.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy | Prairie Eco-Thrifter
 
