@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clixsense.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601024328id_/http%3A//www.clixsense.com/en/About-Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clixsense.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231034526id_/http%3A//www.clixsense.com/en/About-Privacy_Policy) for the most accurate reproduction.*
 
 # About: Privacy Policy - ClixSense
 
@@ -41,7 +41,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 **California Online Privacy Protection Act Compliance**  
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their accounts and going to the 'My Profile' page.
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their accounts and going to the 'Profile and Settings' page.
 
 **Online Privacy Policy Only**  
 This online privacy policy applies only to information collected through our website and not to information collected offline.
