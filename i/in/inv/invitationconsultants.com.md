@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invitationconsultants.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511082628id_/http%3A//www.invitationconsultants.com/cs-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitationconsultants.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231165151id_/http%3A//www.invitationconsultants.com/cs-privacy.aspx) for the most accurate reproduction.*
 
 # Help Center at InvitationConsultants.com - Security & Privacy
 
@@ -149,7 +149,7 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
 
-**Invitation Consultants, Inc.** | 12175 W. Linebaugh Avenue | Tampa, FL 33626 
+**Invitation Consultants, Inc.** | 4062 Henderson Boulevard | Tampa, FL 33629 
 
 (back to top)
 
