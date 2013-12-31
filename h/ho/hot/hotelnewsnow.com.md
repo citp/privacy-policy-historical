@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the hotelnewsnow.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602132805id_/http%3A//www.hotelnewsnow.com/Disclaimer.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelnewsnow.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231143656id_/http%3A//www.hotelnewsnow.com/home/privacy) for the most accurate reproduction.*
 
-# Disclaimer
+# Privacy
 
 Privacy and Security  
-Effective as of 01 January 2008  
-
+Effective as of 01 January 2008
 
 **Introduction**
 
@@ -30,7 +29,7 @@ Personal information is used only for limited purposes. For example, when you re
 
 **Disclosure of Information to Third Parties**
 
-Although we may provide your personal information to service providers that handle information on our behalf (i.e. product orders or event registration), we will usually not share the information with any of our affiliated companies for secondary or unrelated purposes unless otherwise disclosed at the point of collection. 
+Although we may provide your personal information to service providers that handle information on our behalf (i.e. product orders or event registration), we will usually not share the information with any of our affiliated companies for secondary or unrelated purposes unless otherwise disclosed at the point of collection.
 
   Personal information may be transmitted internationally through the our worldwide organization (including HNN and RRC Associates, Inc) or to third parties for the purposes identified above. This may include transfer to countries without data protection rules similar to those in effect in your country of residence. By providing information to HNN through this website, you are consenting to such transfers. Where appropriate, personal information may be disclosed to law enforcement, regulatory or other government agencies, or third parties where necessary or desirable to investigate or take action regarding illegal or fraudulent activity, to comply with legal or regulatory obligations or requests, or for the purposes identified above.  
 HNN will not sell, rent or lease your personally identifiable information to others without your consent, except as provided in this policy.
@@ -66,8 +65,8 @@ Any dispute over privacy is subject to the Privacy Policy then in effect at the 
 
   
 HotelNewsNow.com  
-159 Crocker Park Blvd.  
-Suite 250  
-Westlake, OH 44145  USA
+18500 Lake Rd.  
+Suite 310  
+Rocky River, Ohio 44116
 
 and we will try to resolve it. We may post a revised Privacy Policy on our site. Please note that the use of information that we gather is subject to the Privacy Policy in effect at the time of use. You should check our web site frequently to see recent changes.
