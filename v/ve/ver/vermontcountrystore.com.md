@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vermontcountrystore.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106071134id_/http%3A//www.vermontcountrystore.com/store/company/static/Customer-Service/Privacy-%26-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vermontcountrystore.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231051046id_/http%3A//www.vermontcountrystore.com/store/company/static/Customer-Service/Privacy-%26-Security) for the most accurate reproduction.*
 
 # Privacy-and-Security
 
