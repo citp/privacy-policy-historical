@@ -1,56 +1,61 @@
-> *The following text is extracted and transformed from the caring.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203165500id_/http%3A//www.caring.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caring.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231063756id_/http%3A//www.caring.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Caring.com
 
-Caring, Inc. has created this Privacy Policy to let you know know why we collect information from you and what we do with it. This Privacy Policy applies to Caring.com and all of its trade names, including but not limited to GilbertGuide.com and Caring.com, henceforth referred to collectively as "Caring.com."
+## Last Updated: November 14, 2013
 
-Your privacy is important to us. Caring.com has prepared these privacy and security policies ("Statement") so you may better understand how Caring.com ("our Website") may use your personal information in connection with our Website and services, as well as how it protects your information against unauthorized use. Please take the time to review this Statement and contact us using the Contact Information below with any questions or concerns.
+Caring, Inc. has created this Privacy Policy to let you know what we do with the personal information you submit to us via forms and the non-personal web usage information we collect when you visit our websites. This Privacy Policy applies to Caring.com and all of its trade names, including but not limited to GilbertGuide.com and Caring.com, henceforth referred to collectively as "Caring.com."
+
+Your privacy is important to us. Caring.com has prepared these privacy and security policies ("Statement") so you may better understand how Caring.com ("our website") may use your personal information in connection with our website and services, as well as how it protects your information against unauthorized use. Please take the time to review this Statement and contact us using the Contact Information below with any questions or concerns.
 
 ## COLLECTION OF INFORMATION
 
-**Personal Information** Caring.com may ask you to register and provide personal information in certain instances, such as when you choose to personalize your use of our Website for medical conditions of interest, when you ask a question of our experts, or when you contact our customer support group. Personally identifiable information that we may collect includes your name, e-mail address, address, telephone number, and information about the medical conditions of a loved one. Caring.com may also collect demographic information such as your age, gender, zip code, level of education, household income, and interests.
+**Personal Information** You may submit to Caring.com personal information that identifies you as an individual when you choose to interact with us on our website. Personal information that you may submit includes your name, e-mail address, postal address, and telephone number. In some cases, you may also submit demographic information such as your age, gender, zip code, level of education, household income, and interests. If we combine demographic information with your personal information, we will treat it as personal information as set forth in this Privacy Statement. In some cases, you may provide additional information including when you choose to personalize your use of our website for medical conditions of interest, when you ask a question of our experts, or when you contact our customer support group.
 
-If you choose not to register, you can still use most of our Website. Unfortunately, you will not be able to access areas that require registration.
+**Personal Information Provided When Requesting Information on Senior Care Services or Facilities ("Senior Services Provider")** On the Caring.com website, you will find web forms where you are requested to submit personal information in order to receive information from Senior Services Providers (such as assisted living facilities or home-care providers). When you submit your personal information via such forms, you are providing consent to Caring.com to contact you via the phone number and/or e-mail address you have submitted. Additionally, you are providing consent to us to convey the information you have provided to the Senior Services Provider that you have identified or, in some cases, to other Senior Service Providers that may meet your needs. Such Senior Services Providers may contact you directly and will protect your personal information in accordance with their own privacy and information security policies.
 
 **Children's Personal Information** Caring.com does not knowingly collect personally identifiable information from users under the age of 13. If we find out that we have such personal information, we will take reasonable steps to delete it.
 
-**Website Usage Information** Caring.com tracks navigational data (log files, server logs, click-stream) and information about how our Website is used by you (through cookies, Internet tags, or web beacons). We also collect information such as the URL of the Website you previously visited and the time of day that you use our Website. Caring.com also keeps track of the pages you visit within our Website as well as any transaction details (downloads, orders, requests, or referrals). You can set your browser to notify you when a cookie is sent, or to refuse or delete cookies altogether, but in such cases certain features of our Website might not function as expected.
+**Website Usage Information** Caring.com collects non-personally identifiable information such as navigational data (log files, server logs, click-stream) and information about how our website is used by you (through cookies or web beacons, etc.). We also collect information such as the URL of the website you previously visited and the time of day that you use our website. Caring.com also keeps track of the pages you visit within our website. You can set your browser to notify you when a cookie is sent, or to refuse or delete cookies altogether, but in such cases many features of our website will not function as designed.
 
-**Third-Party Ad-serving Companies** On our Website, we will display third-party advertisements. While many of these advertisements are displayed by Caring.com, we allow third-party ad-serving companies or ad networks to display advertisements on our Website. Some of these ad networks may place a persistent cookie in order to recognize your computer each time they send you an online advertisement. Thus, third party ad-serving companies or ad networks may compile information about where you are using your computer, where you saw their advertisements, and which ads are clicked on. This information allows the third party to deliver targeted advertisements that they believe will be of most interest to you. Caring.com does not have access to the cookies that may be placed by the third-party ad-serving companies or ad networks. We will not share information that will specifically identify you to an ad-serving company or ad
+**Third-Party Ad-Serving Companies** On our website, we will display third-party advertisements. We allow third-party ad-serving companies or ad networks to display advertisements on our website. Some of these ad networks may set a persistent cookie on your computer in order to recognize your computer each time they send you an online advertisement. Thus, third party ad-serving companies or ad networks may compile information about where you are using your computer, where you saw their advertisements, and which ads you clicked on. This information allows the third party to deliver targeted advertisements that they believe will be of most interest to you. Caring.com does not have access to the cookies that may be placed by the third-party ad-serving companies or ad networks. We will not share information that will specifically identify you to an ad-serving company.
 
 ## HOW WE USE YOUR INFORMATION
 
-**Personal Information** Caring.com collects, integrates, and uses your personal information to help enhance and personalize your use of our Website and the services that we may offer. This information also allows us to provide you with targeted content, information, and advertising (on our Website, in newsletters, via e-mail, etc.). We also use anonymous and aggregated data to create statistics and reports for various business purposes. We may aggregate anonymous data and share it with our advertisers or Caring.com partners in order to offer you potentially desirable products and services.
+**Personal Information** Caring.com uses the personal information that you submit to help enhance and personalize your use of our website. This information also allows us to provide you with relevant content, information, and advertising (on our website, in newsletters, via e-mail, etc.).
 
-Caring.com may also use your information to communicate with you, but only after you give your express permission for such communication. The exception is the case of "service e-mails," which we use to communicate with you regarding the system itself or your use of the system. Examples include: communication around system downtimes, announcements regarding the launch of new services, responses to customer service enquires, and messages regarding the completion of transactions you have initiated.
+When you respond to an offer of information or a service on Caring.com (for example, by completing an online form), Caring.com may use that information to connect you to a specific provider or with a trusted partner who will provide the information or service that you requested.
 
-**Website Usage Information** The website usage information we collect (e.g., cookies, Internet tags, web beacons, etc.) is used by Caring.com to monitor the operation, technical functions, and quality of our Website and services. This information is also used to provide general statistics regarding use of our Website. We may also use such information for research or improvements of our Website and the services we offer you. This data is also used by Caring.com to deliver customized content and advertising to you when your online behavior indicates that you are interested in a particular subject area.
+Caring.com may also use your personal information to respond to your inquiries via phone and/or e-mail, send you service e-mails with important information regarding our website and related services, and to send you newsletters and offers.
 
-**Disclosure of Data** Caring.com keeps your personally identifiable information confidential. We do not disclose it to third parties or others that do not have a need to know such information, except under certain circumstances. Set forth below are various circumstances under which Caring.com may share your personal information:
+**Non-Personal Information** We use anonymous and aggregated data to create statistics and reports for various business purposes. We may aggregate anonymous data and share it with our advertisers or Caring.com partners in order to offer you potentially desirable content, products, and services.
+
+The website usage information we collect is used by Caring.com to monitor and improve the operation, technical functions, and quality of our website and services. This data is also used by Caring.com to deliver customized content and advertising to you when your online behavior indicates that you are interested in a particular subject area.
+
+**Disclosure of Data** Caring.com does not disclose your personal information to third parties except under certain circumstances. Set forth below are various circumstances under which Caring.com may disclose your personal information:
 
   * Certain of our employees and independent contractors have access to your personally identifiable information for the sole purpose of helping us run our business. These employees and contractors have confidentiality and security obligations.
-  * We may disclose your personally identifiable information in the event that we sell this Website or substantial parts of our business, provided that the buyer agrees to comply with this Statement.
-  * We may share your information with affiliated companies or strategic alliance partners, provided they comply with this Statement.
-  * Although we do not provide your personally identifiable information to our advertising customers and ad networks, we do aggregate and supply them with anonymous data (for example, "20,000 members of Caring.com are caring for a loved one with Alzheimer's").
-  * If you post any information in public areas of our Website, such as chat rooms and message boards, it will be available to the public and we may reuse and republish such information at our discretion and in accordance with our Terms of Use.
-  * We may also share your personally identifiable information to respond to law enforcement requests, court orders, or other legal processes; or if we believe that such disclosure is necessary to investigate, prevent, or respond to illegal activities, fraud, physical threats to you or others; or as otherwise required by any applicable law or regulation.
-  * Before we disclose your personally identifiable information for other reasons, we will first obtain your consent, via e-mail, click-through, an online opportunity to enter your preference, or some other manner.
+  * We may disclose your information to third parties who provide services to Caring.com, such as (but not limited to): contact information verification, payment processing, customer service, website hosting, and e-mail delivery services.
+  * We may disclose your information to another business entity should we plan to merge with or be acquired by that business entity; or to any organization involved in a merger, transfer, or sale of our assets or business.
+  * We may also disclose your personally identifiable information to respond to law enforcement requests, court orders, or other legal processes; or if we believe that such disclosure is necessary to investigate, prevent, or respond to illegal activities, fraud, physical threats to you, others, or to yourself; or as otherwise required by any applicable law or regulation.
 
 
 
-In the event that we disclose your personally identifiable information as set forth above, we will require thirdparty organizations to protect and maintain your personally identifiable information in compliance with the terms and conditions of this Statement.
+Before we disclose your personally identifiable information for other reasons, we will first obtain your consent, via e-mail, click-through, an online opportunity to enter your preference, or some other manner.
 
-**Prohibited Disclosures** Except as set forth above, Caring.com will not disclose your personally identifiable information to any third party, including advertisers, without your explicit consent. In addition, Caring.com will not sell, rent, or otherwise disclose Caring.com's e-mail list or address list except as explicitly set forth in this Privacy Policy.
+In the event that we disclose your personally identifiable information in accordance with this section ("Disclosure of Data"), we will require third parties to take appropriate measures to protect and maintain the privacy and confidentiality of your personally identifiable information.
+
+**Prohibited Disclosures** Except as set forth above, Caring.com will not disclose your personally identifiable information to any third party without your explicit consent. In addition, Caring.com will not sell, rent, or otherwise disclose Caring.com's e-mail list or address list except as explicitly set forth in this Statement.
 
 ## CONTROL OF YOUR PERSONAL INFORMATION
 
-Caring.com offers its customers choices for the collection, use, and sharing of personally identifiable information at the time a customer decides to register. In addition, customers may stop the delivery of future communications from Caring.com by unsubscribing at any time. For instance, each e-mail you receive (aside from "service e-mails") contain instructions explaining how to stop receiving such e-mails.
+Caring.com customers may choose whether to provide personally identifiable information at the time of collection. In addition, customers may stop the delivery of future e-mail communications by unsubscribing at any time. For instance, each e-mail you receive (aside from "service e-mails") contains instructions explaining how to stop receiving such e-mails.
 
-If your personally identifiable information changes (such as zip code, phone, or e-mail or postal address), or if you no longer desire our service, we provide a way for you to correct, update, or delete/deactivate your personally identifiable information. This can be done by visiting the Profile page on our Website or by e-mailing our Customer Support service at support@caring.com.
+If your personally identifiable information (such as zip code, phone, or e-mail or postal address) changes, or if you no longer desire our service, we provide a way for you to correct, update, or delete/deactivate your personally identifiable information. This can be done by visiting the Profile page on our website or by e-mailing our Customer Support service at support@caring.com.
 
 ## PROTECTION OF INFORMATION -- SECURITY
 
-Caring.com is committed to protecting the security of your personal information. We use a variety of up-todate security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store any personal information you provide on computer systems with limited access. These systems are located in controlled facilities. When we transmit highly confidential information over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+We are committed to the protection of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure.
 
 You should keep in mind that no Internet communication is ever completely secure or error-free.
 
@@ -60,13 +65,14 @@ We may periodically update this Statement to reflect changes in our services and
 
 ## CONTACT INFORMATION
 
-If you have questions or complaints regarding this Statement, you should first contact us at privacy@caring.com with any questions or concerns. All customer requests will be formally reviewed by Caring.com.
+If you have questions or complaints regarding this Statement, you should first contact us at the physical address below or via an e-mail to privacy@caring.com.
 
-Chief Privacy Officer  
-Caring.com  
-2600 El Camino Real, Suite 300  
-San Mateo, CA 94403
+Chief Privacy Officer, Caring.com  
+2600 El Camino Real  
+Suite 300  
+San Mateo, CA 94403  
+
 
 ## Terms of Use
 
-Note also that your use of the Website is subject to our [Terms of Use](https://web.archive.org/about/terms.html).
+Note also that your use of the Website is subject to our [Terms of Use](https://web.archive.org/about/terms).
