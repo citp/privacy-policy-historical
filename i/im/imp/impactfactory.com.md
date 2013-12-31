@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the impactfactory.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604194421id_/http%3A//impactfactory.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impactfactory.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231152034id_/http%3A//www.impactfactory.com/privacy.shtml) for the most accurate reproduction.*
 
 # Impact Factory - Communication training - our privacy policy
 
-##  Privacy policy 
+## Privacy policy
 
-This is the website of Impact Factory. Our postal address is 121 Business Design Centre, 52 Upper Street, Islington, London 
+This is the website of Impact Factory. Our postal address is 121 Business Design Centre, 52 Upper Street, Islington, London N1 0QH 
 
 We can be reached via e-mail at enquiries@impactfactory.com or you can reach us by telephone at +44 (0)20 7226 1877. 
 
