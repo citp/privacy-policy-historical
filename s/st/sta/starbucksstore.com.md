@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the starbucksstore.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509171421id_/http%3A//www.starbucksstore.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucksstore.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231152345id_/http%3A//www.starbucksstore.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Starbucks | Privacy Policy
 
-Last updated: June 28, 2011
+Last updated: August 16, 2013
 
-The Starbucks name and reputation were built on a foundation of trust. This Starbucks Privacy Policy ("Policy") describes how Starbucks and its subsidiaries and affiliated companies ("Starbucks") collects, uses and discloses personal information of customers through our websites and online services, including [Starbucks.com](http://www.starbucks.com/), and other Starbucks owned or operated websites and online services that link to this policy (collectively, the “Sites”), through our programs and in our physical stores ("Services"). This Policy does not apply to websites and services that display or link to different privacy statements. Websites and services co-branded with other partners may display or link to a joint privacy statement or separate privacy statements of our partners in addition to our Policy.
-
-  
-
+The Starbucks name and reputation were built on a foundation of trust. This Starbucks Privacy Policy ("Policy") describes how Starbucks and its subsidiaries and affiliated companies ("Starbucks") collects, uses and discloses personal information of customers through our websites and online services, including [Starbucks.com](http://www.starbucks.com/), and other Starbucks owned or operated websites and online services that link to this policy (collectively, the "Sites"), through our programs and in our physical stores ("Services"). This Policy does not apply to websites and services that display or link to different privacy statements. Websites and services co-branded with other partners may display or link to a joint privacy statement or separate privacy statements of our partners in addition to our Policy.
 
 ## What Type of Information Does Starbucks Collect?
 
@@ -27,14 +24,23 @@ We may also collect information about you such as:
 
 
 
-We may automatically collect website use information when you visit our Sites. This information may include information about your Internet service provider, your operating system, browser type, domain name, Internet protocol (IP) address, your access times, the website that referred you to us, the Web pages you request, and the date and time of those requests. Our collection of website use information may involve the use of cookies and Web beacons. Cookies are small data files stored on your hard drive by a website. Among other things, cookies help us improve our Sites and your experience. We use cookies to see which areas and features are popular and to count visits to our Sites. Web beacons are electronic images that may be used on our Sites or in our emails. We use Web beacons to deliver cookies, count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon. We may also use Local Shared Objects (Flash cookies). To identify Local Shared Objects on your computer and adjust your settings, visit: www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html#117645.
+We may automatically collect website use information when you visit our Sites. This information may include information about your Internet service provider, your operating system, browser type, domain name, Internet protocol (IP) address, your access times, the website that referred you to us, the Web pages you request, and the date and time of those requests. Our collection of website use information may involve the use of cookies and Web beacons. Cookies are small data files stored on your hard drive by website to, among other things, help us improve our Sites and your experience. In addition, this Site uses Targeting or Advertising cookies to see which areas and features are popular and to count visits to our Sites. These cookies are used by third parties such as social networks and advertisers to provide services in return for recognizing that you have visited our Site. They are usually placed by advertising networks with the website operator's permission. They remember that you have visited our Sites and this information is shared with third party organizations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the third party organization.
+
+Examples include:
+
+  
+
+
+  * To allow "Like" buttons and "Share" buttons to work
+  * To collect information about your browsing habits and share it with other websites so they can display advertising that is more relevant to you
+
+
+
+Web beacons are electronic images that may be used on our Sites or in our emails. We use Web beacons to deliver cookies, count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon. We may also use Local Shared Objects (Flash cookies). To identify Local Shared Objects on your computer and adjust your settings, visit: www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html#117645.
 
 Starbucks may also collect aggregated data or anonymized data that does not directly identify you.
 
 We may combine information we collect about you with information we receive from third parties.
-
-  
-
 
 ## How Does Starbucks Use Information About You?
 
@@ -62,9 +68,6 @@ Starbucks shares your personal information in limited ways.
 
 We may also share aggregated or anonymized information that does not directly identify you.
 
-  
-
-
 ## What Choices Does Starbucks Offer About Personal Information?
 
 Starbucks offers choices for you to request to update or change your personal information and how we communicate with you. Here are some of the ways you can request changes:
@@ -79,26 +82,17 @@ If you opt out of receiving promotional communications from us, we may still sen
 
 You can usually choose to set your browser to warn you when a cookie is being sent or to remove or reject cookies. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookie settings. If you choose to remove or reject cookies, it will affect many features or Services on our Sites.
 
-  
-
-
 ## How is Personal Information Secured?
 
 Starbucks takes reasonable steps to maintain appropriate physical, technical and administrative security to help prevent loss, misuse, unauthorized access, disclosure or modification of personal information.
 
 While we take these reasonable efforts to safeguard your personal information, no system or transmission of data over the Internet or any other public network can be guaranteed to be 100% secure.
 
-  
-
-
 ## Privacy Policy Updates
 
 We may update this privacy policy from time to time. When we do so, we will post the new privacy policy on this page and change the date at the top of the policy.
 
 We encourage you to check the date of our privacy policy when you visit this Site for any updates or changes. We will notify you of any modified versions of the privacy policy that might materially affect the way we use or disclose your personal information.
-
-  
-
 
 ## Questions and Feedback
 
