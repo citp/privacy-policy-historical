@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the movieweb.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605100151id_/http%3A//www.movieweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieweb.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231014235id_/http%3A//www.movieweb.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - MovieWeb.com
+# Privacy Policy
 
-MovieWeb, Inc. has created this privacy statement to describe our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this website: "MovieWeb.com" at [http://www.movieweb.com](http://www.movieweb.com/).  We seek to protect your private information so that you have a pleasurable viewing experience on our Web site. We will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. Please return to this page from time to time, as we will be updating this statement as our services continue to grow. We welcome and encourage questions, comments, and suggestions. Please contact us at [webmaster@movieweb.com](mailto:webmaster@movieweb.com) with any questions. 
+WATCHR Media, Inc. has created this privacy statement to describe our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this website: "MovieWeb.com" at [http://www.movieweb.com](http://www.movieweb.com/).  We seek to protect your private information so that you have a pleasurable viewing experience on our Web site. We will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. Please return to this page from time to time, as we will be updating this statement as our services continue to grow. We welcome and encourage questions, comments, and suggestions. Please contact us at [webmaster@movieweb.com](mailto:webmaster@movieweb.com) with any questions. 
 
 ## Cookies
 
@@ -22,11 +22,11 @@ We use cookies
 
 
 
-Companies that place ads on the MovieWeb.com Web site — including, but not limited to Gorilla Nation, MTVN, Brightroll, Adconion, Google, Tribal Fusion, Husky Media Advertising.com, DoubleClick and/or others — may also use their own cookies to help determine the frequency and placement of particular ads. Your browser controls how cookies are used and can be set to not allow them. However, it is possible that some parts of the MovieWeb.com site may not function properly if your browser refuses our cookies. We may, from time to time, use cookies to store your zip code and email address for use with certain current or future services such as e-mail update list(s), showtimes e-mail services, local showtimes profiles, theater and movie preference profiles. 
+Companies that place ads on the MovieWeb Web site — including, but not limited to Gorilla Nation, MTVN, Brightroll, Adconion, Google, Tribal Fusion, Husky Media Advertising.com, DoubleClick and/or others — may also use their own cookies to help determine the frequency and placement of particular ads. Your browser controls how cookies are used and can be set to not allow them. However, it is possible that some parts of the MovieWeb site may not function properly if your browser refuses our cookies. We may, from time to time, use cookies to store your zip code and email address for use with certain current or future services such as e-mail update list(s), showtimes e-mail services, local showtimes profiles, theater and movie preference profiles. 
 
 ## Cookie Notification and Disabling
 
-Most browsers permit you to set the browser to accept, reject, or notify you of cookie use. However, some parts of the MovieWeb.com Web site may not function properly if your browser is set to reject cookies. 
+Most browsers permit you to set the browser to accept, reject, or notify you of cookie use. However, some parts of the MovieWeb Web site may not function properly if your browser is set to reject cookies. 
 
 ## Personally Identifiable Information
 
@@ -35,19 +35,19 @@ Personally identifiable information is your name, address, e-mail address, phone
 
 ## Where We Collect Personally Identifiable Information
 
-MovieWeb.com collects personally identifiable information when you (1) subscribe to our mailing list(s), (2) enter contests, (3) buy products, make referrals, or use the "tell a friend" option, and (4) submit feedback, questions, or "contact us" messages. 
+WATCHR Media, Inc..com collects personally identifiable information when you (1) subscribe to our mailing list(s), (2) enter contests, (3) buy products, make referrals, or use the "tell a friend" option, and (4) submit feedback, questions, or "contact us" messages. 
 
 ## How We Use Personally Identifiable Information
 
-MovieWeb.com uses your personally identifiable information to personalize your experience on our Web site, to deliver products and/or services ordered and/or purchased by you and to contact you. MovieWeb.com also compiles aggregate data from all of our customers to prepare internal reports about which pages are popular, how many total unique users visit our site, and different traffic patterns. MovieWeb.com does not combine your personally identifiable information with information about pages visited, purchases made, or any other click-stream data. 
+WATCHR Media, Inc..com uses your personally identifiable information to personalize your experience on our Web site, to deliver products and/or services ordered and/or purchased by you and to contact you. WATCHR Media, Inc..com also compiles aggregate data from all of our customers to prepare internal reports about which pages are popular, how many total unique users visit our site, and different traffic patterns. WATCHR Media, Inc..com does not combine your personally identifiable information with information about pages visited, purchases made, or any other click-stream data. 
 
 ## Who We Disclose Personally Identifiable Information To
 
-MovieWeb.com will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. MovieWeb.com may disclose some personal information to outside companies who help MovieWeb.com with the administration and delivery of newsletters, promotional games, trivia contests, and sweepstakes. For example, a company who administers a sweepstakes for us may use your e-mail address to update you on your status in the sweepstakes. Or, our newsletters may be distributed by another company that will use your e-mail or shipping address for delivery. The MovieWeb.com Web site contains links to other Web sites. Although we do not provide any personally identifiable information to these companies, we cannot guarantee your privacy once you leave the MovieWeb.com Web site. MovieWeb.com is not responsible for the privacy policies, practices, or content of Web sites with links on our site. MovieWeb.com may also disclose your personal information to law enforcement personnel, government officials, or others when we, in our sole discretion, believe that disclosure is necessary to prevent violations of the law, injury to person or property, or any harm to MovieWeb.com or others. 
+WATCHR Media, Inc..com will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. WATCHR Media, Inc..com may disclose some personal information to outside companies who help WATCHR Media, Inc..com with the administration and delivery of newsletters, promotional games, trivia contests, and sweepstakes. For example, a company who administers a sweepstakes for us may use your e-mail address to update you on your status in the sweepstakes. Or, our newsletters may be distributed by another company that will use your e-mail or shipping address for delivery. The WATCHR Media, Inc..com Web site contains links to other Web sites. Although we do not provide any personally identifiable information to these companies, we cannot guarantee your privacy once you leave the WATCHR Media, Inc..com Web site. WATCHR Media, Inc..com is not responsible for the privacy policies, practices, or content of Web sites with links on our site. WATCHR Media, Inc..com may also disclose your personal information to law enforcement personnel, government officials, or others when we, in our sole discretion, believe that disclosure is necessary to prevent violations of the law, injury to person or property, or any harm to WATCHR Media, Inc..com or others. 
 
 ## Communication
 
-We collect personally identifiable information such as first and last name and email address when you sign up for our email list(s). These email services provide MovieWeb.com users free opt-in updates about the MovieWeb.com site and movie information and/or content. We may also request secondary information, such as your movie preferences, which we will use to help personalize the site for you in the future. We may also on occasion send promotional and informational mail to you from MovieWeb.com. You may opt-out of receiving these secondary communications by sending an email with "remove" in the subject line to [webmaster@movieweb.com](mailto:webmaster@movieweb.com). 
+We collect personally identifiable information such as first and last name and email address when you sign up for our email list(s). These email services provide WATCHR Media, Inc..com users free opt-in updates about the WATCHR Media, Inc..com site and movie information and/or content. We may also request secondary information, such as your movie preferences, which we will use to help personalize the site for you in the future. We may also on occasion send promotional and informational mail to you from WATCHR Media, Inc..com. You may opt-out of receiving these secondary communications by sending an email with "remove" in the subject line to [webmaster@movieweb.com](mailto:webmaster@movieweb.com). 
 
 ## Demographic Information
 
@@ -59,11 +59,11 @@ This site makes voting and message boards available to its users. Please remembe
 
 ## Log Files
 
-MovieWeb.com, both using its own systems and the systems of others (such as Google or Quantcast, among others) automatically logs information such as IP addresses, ISPs, and browser type but does not link that information to personally identifying information. We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. 
+WATCHR Media, Inc..com, both using its own systems and the systems of others (such as Google or Quantcast, among others) automatically logs information such as IP addresses, ISPs, and browser type but does not link that information to personally identifying information. We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. 
 
 ## Sharing of Information
 
-MovieWeb.com is engaged in "powered by" relationships as more fully described herein. MovieWeb.com does not share any personally identifiable information with third-parties, other than its partners as herein described, and will otherwise only share information in aggregate form. We use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies from banner ads are collected by advertising networks, and we do not have access to this information. 
+WATCHR Media, Inc..com is engaged in "powered by" relationships as more fully described herein. WATCHR Media, Inc..com does not share any personally identifiable information with third-parties, other than its partners as herein described, and will otherwise only share information in aggregate form. We use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies from banner ads are collected by advertising networks, and we do not have access to this information. 
 
 ## Third Party Advertising
 
@@ -71,24 +71,24 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 ## Security
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Employees are notified in staff meetings of security policies and practices regularly. Access to data limited and employees obtain access to log files by a secured password. MovieWeb periodically reviews web security and ensures that all policies and practices are adhered to within the company. 
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Employees are notified in staff meetings of security policies and practices regularly. Access to data limited and employees obtain access to log files by a secured password. WATCHR Media, Inc. periodically reviews web security and ensures that all policies and practices are adhered to within the company. 
 
 ## Children
 
-**Our Policy For Guests Under Age 18** MovieWeb.com is committed to protecting the privacy of children. We encourage parents and guardians to explore the Internet with their children. Visitors under age 18 should not submit any personally identifiable information to MovieWeb.com. 
+**Our Policy For Guests Under Age 18** WATCHR Media, Inc. is committed to protecting the privacy of children. We encourage parents and guardians to explore the Internet with their children. Visitors under age 18 should not submit any personally identifiable information to WATCHR Media, Inc..com. 
 
 ## Links
 
-MovieWeb.com site contains links to other web sites. Please note that when you click on one of these links, you are ‘clicking’ to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours. 
+MovieWeb site contains links to other web sites. Please note that when you click on one of these links, you are ‘clicking’ to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours. 
 
 ## Correct/Update or Cancel Subscription
 
-Users can change their information with MovieWeb.com by emailing a request to [webmaster@movieweb.com](mailto:webmaster@movieweb.com). If you wish to unsubscribe from any MovieWeb mailing list, please email [webmaster@movieweb.com](mailto:webmaster@movieweb.com) using the e-mail address you would like removed and type “UNSUBSCRIBE” as the subject of the message. 
+Users can change their information with WATCHR Media, Inc. by emailing a request to [webmaster@movieweb.com](mailto:webmaster@watchrmedia.com). If you wish to unsubscribe from any WATCHR Media, Inc. mailing list, please email [webmaster@watchrmedia.com](mailto:webmaster@watchrmedia.com) using the e-mail address you would like removed and type “UNSUBSCRIBE” as the subject of the message. 
 
 ## Notification of Changes
 
-MovieWeb.com privacy practices may change periodically. MovieWeb.com will notify users of changes only if the information collected from the user differs from that stated at the time of collection. MovieWeb.com may also obtain the user’s consent by posting notice on the site. 
+WATCHR Media, Inc. privacy practices may change periodically. WATCHR Media, Inc. will notify users of changes only if the information collected from the user differs from that stated at the time of collection. WATCHR Media, Inc..com may also obtain the user’s consent by posting notice on the site. 
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact: MovieWeb Email: [webmaster@movieweb.com](mailto:webmaster@movieweb.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact: WATCHR Media, Inc. Email: [webmaster@watchrmedia.com](mailto:webmaster@watchrmedia.com)
