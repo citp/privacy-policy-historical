@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the london.gov.uk privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602010551id_/http%3A//www.london.gov.uk/utilities/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the london.gov.uk privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231085648id_/http%3A//www.london.gov.uk/utilities/privacy-policy) for the most accurate reproduction.*
 
 # The Greater London Authority’s Commitment to Privacy | Greater London Authority
 
@@ -40,7 +40,7 @@ We may use your personal information for a number of purposes, including:
 
   * To deal with your requests and enquiries.
   * To contact you for reasons related to your enquiry.
-  * To notify you about updates to the [www.london.gov.uk](http://www.london.gov.uk/) website.
+  * To notify you about updates to the [www.london.gov.uk](https://www.london.gov.uk/) website.
   * To use your IP address to monitor traffic and gather browsing behaviours of visitors to our websites. We will not use your IP address to identify you in any way.
   * To create meaningful, actionable analysis that will help us to understand how policy issues and the Mayor and the GLA are being talked about and to react accordingly.
 
@@ -95,15 +95,14 @@ Back to the top
 
 Under the Data Protection Act 1998, you can ask to see any personal information that we hold about you. Such requests are called subject access requests.
 
-If you would like to make a subject access request, please contact the GLA's Data Protection Officer:
+If you would like to make a subject access request, please contact the GLA's Information Governance Officer:
 
-Data Protection Officer  
-Technology Group  
+Information Governance Officer  
+Governance & Resilience  
 Greater London Authority  
 City Hall  
 The Queen’s Walk  
-London SE1 2AA  
-[dataprotection@london.gov.uk](mailto:dataprotection@london.gov.uk)
+London SE1 2AA
 
 You will also need to provide two forms of identification, for example, driving licence, utility bill or passport and, if appropriate, any particulars about the source or location of the information you are requesting.
 
@@ -119,7 +118,7 @@ Back to the top
 
 ## Changes to our Privacy Policy
 
-We regularly review our Privacy Policy and updates will appear on this page when necessary. This Privacy Policy was last updated on 22 March 2013.
+We regularly review our Privacy Policy and updates will appear on this page when necessary. This Privacy Policy was last updated on 24 July 2013.
 
 Back to the top  
  
