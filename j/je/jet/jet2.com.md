@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jet2.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424100140id_/http%3A//www.jet2.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jet2.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231020828id_/http%3A//www.jet2.com/new/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | Jet2.com
 
 ## Privacy Policy
 
@@ -25,13 +25,13 @@
 
 **4.** We collect personal information to help us deliver an effective service as follows:
 
-  * **4.1** to fulfil any travel booking you make with us including necessary reservation, payment and ticketing arrangements and administration associated with the travel arrangements (exceptionally this may include sensitive personal data, for example relating to your health or disabilities) and you recognise that, by providing us with such sensitive personal data, you give your explicit consent to us to process such data for the purposes set out in this policy
-  * **4.2** to provide any other product or service you have purchased from us
-  * **4.3** to deal with any queries or requests you have regarding your booking and manage any amendments you may wish to make to travel arrangements or changes we need to advise you about
-  * **4.4** to fulfil security, customs, immigration and border control requirements associated with your reservation which may include providing information to the police and appropriate government agencies
-  * **4.5** to make information available to appropriate third parties where necessary in the event of an emergency.
-  * **4.6** to provide you with information about products, services and promotions that may be of interest to you unless you have asked us not to contact you
-  * **4.7** to ensure that content from our website is presented in the most effective manner for you and for your computer?
+  * **4.1** to fulfil any existing and/or future travel booking you make with us including necessary reservation, payment and ticketing arrangements and administration associated with the travel arrangements (exceptionally this may include sensitive personal data, for example relating to your health or disabilities) and you recognise that, by providing us with such sensitive personal data, you give your explicit consent to us to process such data for the purposes set out in this policy;
+  * **4.2** to provide any other product or service you have purchased from us;
+  * **4.3** to deal with any queries or requests you have regarding your booking and manage any amendments you may wish to make to travel arrangements or changes we need to advise you about;
+  * **4.4** to fulfil security, customs, immigration and border control requirements associated with your reservation which may include providing information to the police and appropriate government agencies;
+  * **4.5** to make information available to appropriate third parties where necessary in the event of an emergency;
+  * **4.6** to provide you with information about products, services and promotions that may be of interest to you unless you have asked us not to contact you;
+  * **4.7** to ensure that content from our website is presented in the most effective manner for you and for your computer; and
   * **4.8** for quality assurance testing, market analysis, systems testing, analysis of statistics, benchmarking, auditing and performance measures (which may include monitoring or recording your telephone conversations with us for the purposes set out herein).
 
 
@@ -40,7 +40,7 @@
 
 **5.** We may contact you from time to time to provide you with information which we think you may find of interest. We may also pass on your details to other members of Dart Group plc so that they can tell you about products or services which may be of interest to you.
 
-Contact may be made by post, telephone or email unless you have indicated in the appropriate section of the registration process that you do not wish to receive this information.
+Contact may be made by post, telephone, email or social media unless you have indicated in the appropriate section of the registration process that you do not wish to receive this information.
 
 You can contact us at any time to remove your details from our marketing database by visiting our ['unsubscribe'](http://www.jet2.com/new/unsubscribe) page or write to the following address: PO Box 304, Whitehouse Lane, Leeds, West Yorkshire, LS19 9DY. Please give your name, postal address details and your email address.
 
@@ -60,7 +60,7 @@ We may disclose personal information as part of due legal process and as otherwi
 
 **9.** Similar to other commercial websites, our website utilises a standard technology to collect information about how our website is used by individual computers connected to the internet. Information is gathered through cookies and Web server logs which allow us to monitor website traffic and to personalise the content of the site for you.
 
-**10.** Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses. 
+**10.** Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses. For our full cookies policy, please see [www.jet2.com/new/cookies](http://www.jet2.com/new/cookies)
 
 ### Accessing your information
 
