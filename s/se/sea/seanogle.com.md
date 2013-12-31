@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the seanogle.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430000153id_/http%3A//www.seanogle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seanogle.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231041906id_/http%3A//www.seanogle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Location 180 | Build a Business, Live Anywhere, Achieve Freedom
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.seanogle.com%2Fprivacy-policy&media=&description=Privacy+Policy)
 
 This privacy policy sets out how Location 180, LLC uses and protects any information that you give Location 180, LLC when you use this website.
 
@@ -68,3 +66,5 @@ We will not sell, distribute or lease your personal information to third parties
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to **  **sean@seanogle.com.****
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.seanogle.com%2Fprivacy-policy&media=&description=Privacy+Policy)
