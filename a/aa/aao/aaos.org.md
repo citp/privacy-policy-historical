@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaos.org privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626012822id_/http%3A//www.aaos.org/about/webpolicies/privpol.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaos.org privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231230657id_/http%3A//www.aaos.org/about/webpolicies/privpol.asp) for the most accurate reproduction.*
 
 # Privacy Policy - AAOS
 
@@ -88,6 +88,7 @@ In addition, the AAOS may on occasion collect information about AAOS Fellows and
     * AAOS may provide the names, postal mailing addresses, and telephone and Fax numbers of AAOS Fellows and Members to third party organizations with whom the AAOS has contracted to provide courses, goods or services. 
     * The National Provider Identifier (NPI) number may be given to exhibitors who are required to report to the government payments they have provided to health care providers, including orthopaedic surgeons.
   3. At the current time, we are aware of no other circumstances under which AAOS will provide personal information collected online to third parties.
+  4. AAOS does not provide AAOS membership contact information to third parties for survey distribution purposes. Further, AAOS does not distribute surveys to its membership in behalf of third parties.
 
 
 
