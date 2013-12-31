@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the houzz.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621235414id_/http%3A//www.houzz.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houzz.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231123940id_/http%3A//www.houzz.com/privacyPolicy) for the most accurate reproduction.*
 
 # Houzz - Home Design, Decorating and Remodeling Ideas and Inspiration, Kitchen and Bathroom Design
-
-### PRIVACY POLICY
 
 This Privacy Policy describes the types of information Houzz collects and how we use and disclose that information. This Privacy Policy is incorporated into and subject to the terms of the Houzz Terms of Use. By your use of and/or registration on Houzz, you expressly consent to our collection, use and disclosure of your personal information in the manner described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use Houzz. Houzz reserves the right to modify this Privacy Policy at any time and without prior notice. The date of the most recent revision will appear on this page, and your continued use of Houzz will constitute your acceptance of any revisions of this Privacy Policy. 
 
