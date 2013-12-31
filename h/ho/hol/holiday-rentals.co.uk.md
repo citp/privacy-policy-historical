@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holiday-rentals.co.uk privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609192407id_/http%3A//www.homeaway.co.uk/info/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holiday-rentals.co.uk privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231033426id_/http%3A//www.homeaway.co.uk/info/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # HomeAway Holiday-Rentals Privacy Policy
 
@@ -50,7 +50,7 @@ You may have accessed our website through a hyperlink from the website of one of
 In the unlikely event that we or HomeAway or any part of the HomeAway group is sold, or some of its assets transferred to a third party, your personal information, as a valuable asset, may also be transferred.  Potential purchasers and their advisors may have access to data as part of the sale process.  However, use of your personal information will remain subject to this Privacy Policy.  Similarly, your personal information may be passed on to a successor in interest in the unlikely event of a liquidation, bankruptcy or administration. Our customer database could be sold separately from the rest of the business, in whole or in a number of parts.  It could be that the purchaser’s business is different from ours too.
 
 **Newsletters**  
-If you sign up as a member of the Site, you will receive our "Owner" newsletter, which is an integral part of the services we provide. Traveller that use the Site will receive our newsletter when they register with us. We and HomeAway group may offer different newsletters from time to time intended to enhance the services we or they offer. Users may cancel their subscription to these newsletters at any time, although it may take a short while for the changes in your preferences to become effective.
+If you sign up as a member of the Site, you will receive our "Owner" newsletter, which is an integral part of the services we provide. Travellers that use the Site will receive our newsletter when they register with us. We and HomeAway group may offer different newsletters from time to time intended to enhance the services we or they offer. Users may cancel their subscription to these newsletters at any time, although it may take a short while for the changes in your preferences to become effective.
 
 **Surveys**  
 Surveys are another method by which we gather information about our users. From time to time, we request users' input in order to evaluate potential features and services. The decision to answer a survey is completely yours. We use information gathered from surveys to improve our services.
@@ -91,11 +91,11 @@ Web beacons may be used to track the traffic patterns of users from one page to 
 If you receive an unsolicited email that appears to be from us or one of our members that requests personal information (such as your credit card, login, or password), or that asks you to verify or confirm your account or other personal information by clicking on a link, that email was likely to have been sent by someone trying to unlawfully obtain your information, sometimes referred to as a "phisher" or "spoofer." We do not ask for this type of information in an email. Do not provide the information or click on the link. Please contact us at Customer
 
 **How do I correct or update my information?**  
-We allow our users the option to change or modify information previously provided. This may be done buy sending the request to us at [Customer Support](http://www.homeaway.co.uk/index.cfm/tgt/support_request?leftnav=none)
+We allow our users the option to change or modify information previously provided. This may be done buy sending the request to us at [Customer Support](http://help.homeaway.co.uk/contact)
 
   How do I opt-out of receiving marketing communications from you?  
 You may opt-out of receiving marketing communications from us by the following means:  
-1.    Contact us at  [Customer Support](http://www.homeaway.co.uk/index.cfm/tgt/support_request?leftnav=none),  
+1.    Contact us at  [Customer Support](http://help.homeaway.co.uk/contact),  
 2.    Follow the instructions included in each communication or newsletter,  
 3.    Use the [Unsubscribe function](http://www.homeaway.co.uk/newsletter/subscribe), or  
 4.    Mail the request to us at
@@ -106,4 +106,4 @@ HomeAway UK Ltd, attn: General Manager, Portland House, 25th floor, Bressenden P
 We will retain your personal data only as long as is necessary for the purposes to which you consent under the Terms and Conditions and this Privacy Policy, or as is required by applicable law, and then we will delete it.
 
 **How do I contact you?**  
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, we encourage you to contact us at [Customer Support](http://www.homeaway.co.uk/index.cfm/tgt/support_request?leftnav=none).  If you are unhappy with their answers you can also speak to our Chief Privacy Officer Arndt Soret [asoret@homeaway.com](http://mailto:asoret@homeaway.com/). In the unlikely event you still have an unresolved complaint, if your data was transferred to the US from the EU or Switzerland under Safe Harbor. You can also contact our dispute resolution service operated by NIPC, an independent arbitration service based in the EU. Our Chief Privacy Officer can give you the details for this service.
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, we encourage you to contact us at [Customer Support](http://help.homeaway.co.uk/contact).  If you are unhappy with their answers you can also speak to our Chief Privacy Officer Arndt Soret [asoret@homeaway.com](http://mailto:asoret@homeaway.com/). In the unlikely event you still have an unresolved complaint, if your data was transferred to the US from the EU or Switzerland under Safe Harbor. You can also contact our dispute resolution service operated by NIPC, an independent arbitration service based in the EU. Our Chief Privacy Officer can give you the details for this service.
