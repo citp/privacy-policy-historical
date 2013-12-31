@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the brokeprofessionals.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529200904id_/http%3A//brokeprofessionals.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokeprofessionals.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231030936id_/http%3A//www.brokeprofessionals.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Broke Professionals
 
-WWW.BROKEPROFESSIONALS.COM (hereinafter referred to as “We”) has created this privacy statement for www.brokeprofessionals.com in order to demonstrate our commitment to privacy. Accordingly, below discloses the privacy statement and privacy practices of this site.
+WWW.BROKEPROFESSIONALS.COM (hereinafter referred to as “We”) has created this [privacy statement](http://www.brokeprofessionals.com/privacy-statement/ "privacy statement") for www.brokeprofessionals.com in order to demonstrate our commitment to privacy. Accordingly, below discloses the privacy statement and privacy practices of this site.
 
 **Information Automatically Logged**  
 This site may log your IP address to help diagnose problems with the web server and to administer this web site and such information will be used for general traffic tracking and security as through the web-host, etc..
 
 **Cookies**  
-This site may use cookies to track information about its visitors to see pages viewed, etc.
+This site may use cookies to track information [about](http://www.brokeprofessionals.com/about-2/ "about") its visitors to see pages viewed, etc.
 
 **Subscription to Website**  
 This site provides order forms for you to subscribe to an RSS feed, etc.  Any such information freely provided by you at this time will be completely private and shall only be used for purposes of keeping track of subscribers.  This website will never sell your information provided or otherwise use it other than in the standard use of the website.  Additonally, to subscribe the website has very little required/requested information.  Do not subscribe or provide any such information if you are not over 18 years of age.
