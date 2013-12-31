@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the port.ac.uk privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509122624id_/http%3A//www.port.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the port.ac.uk privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231133223id_/http%3A//port.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
 
-# Privacy | University of Portsmouth
+# Privacy and cookies - University of Portsmouth
 
-The University of Portsmouth is committed to ensuring visitors’ privacy whilst viewing University web pages. This Policy explains the types of data collected and how this information will be used.
+The University of Portsmouth is committed to ensuring visitors’ privacy whilst viewing University web pages. This page explains the types of data collected and how this information will be used.
 
 ## Access Information
 
@@ -10,6 +10,72 @@ The University of Portsmouth web servers automatically log each visit that they 
 
 This information is used for the sole purpose of statistical information gathering and demographics relating to the University web sites, and enables us to determine general visitor patterns and pathways within our pages. This statistical data is then fed back into future design and usability modifications made to the University web pages.
 
+## Cookies
+
+Cookies are small pieces of information in the form of a text file that a website can put on your hard drive in order for it to remember something about you at a later time.
+
+The University of Portsmouth web site uses cookies for certain applications, for example to remember your name when filling out online forms or for identifying user behavior with the aim of providing you the best browsing experience we can.
+
+Our cookies are used for the following:
+
+  * Make the website work in the way you would expect it to
+  * Remember certain settings in between visits
+  * Allow you to share pages with social networks
+  * Continually improve our website for you
+
+
+
+We do not use our cookies to do any of the following:
+
+  * Pass personal data to any third parties
+  * Pass data to any advertising networks
+  * Collect any sensitive or personally identifiable information (without your express permission)
+
+
+
+### Allowing us to place cookies on your computer
+
+**If your browser settings are such that you allow cookies to be set, we take this and your continued use of our website to mean that you consent to us using cookies on our website.**
+
+If you do not wish to accept cookies from our website then you can adjust your chosen browser to refuse cookies (see instructions on how to do this at [All About Cookies](http://www.allaboutcookies.org/ "All About Cookies website")) although this will most likely affect your browsing experience.
+
+### Cookies used on www.port.ac.uk
+
+Provider| Name| Description and further information  
+---|---|---  
+University of Portsmouth | JSESSIONID | Session Cookie - This creates a record of courses visited to build the "Related courses" and "Course history" widget on coursepages. No personally identifiable information is collected.  
+University of Portsmouth | PHPSESSID | Session Cookie - This enables some forms to function properly.  
+Google Analytics | 
+
+__utma
+
+__utmb
+
+__utmc
+
+__utmz
+
+| 
+
+ Google Analytics uses cookies to define user sessions, as well as to provide a number of key features in the Google Analytics reports.
+
+See the [Cookies and Google Analytics](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies "Cookies and Google Analytics.") web page for full details.
+
+Also see the [Google Privacy Policy](http://www.google.com/intl/en_uk/policies/privacy/ "Google Privacy Policy") for full details.  
+  
+ AddThis |  __atuvc | 
+
+ To enable numbers of shares to be registered.
+
+See the [AddThis Privacy Policy](http://www.addthis.com/privacy/privacy-policy#.T79y6bA9Asc "AddThis privacy policy.") for full details.  
+  
+Google Map | NNID  
+PREF | 
+
+Used by Google where we embed Google Maps.
+
+See the [Google Privacy Policy](http://www.google.com/intl/en_uk/policies/privacy/ "Google Privacy Policy") for full details.  
+  
 ## Personal information
 
 ### Submission forms and surveys
@@ -17,10 +83,6 @@ This information is used for the sole purpose of statistical information gatheri
 The University of Portsmouth may also collect personal information supplied through the use of web-based forms and surveys. This information will not be supplied to any third party, and will only be used for subsequent communications, if indicated by you, the user, at the time of submission. The data will be kept for no longer than two years.
 
 In submitting your personal information online, you are agreeing that University staff may use your details for the sole purpose of conducting the business of the University. If at anytime you no longer wish to receive any information from the University of Portsmouth, please respond to any email and state that you wish to “unsubscribe”.
-
-### Cookies
-
-Cookies are small pieces of information that a website can put on your hard drive in order for it to remember something about you at a later time. The information is in the form of a text file, which will only be understood by the web site that initially set the cookie. The University web site uses cookies for certain applications, for example to remember your name when filling in online forms. A cookie is also used to anonymously track how visitors interact with the University website, including where they came from and what they did. This is then used to ultimately provide a better online experience for all our audiences.You can stop your browser exchanging cookies with web servers at any time by changing the settings in your web browser. For more information about cookies visit <http://www.aboutcookies.org/>
 
 ### Email
 
