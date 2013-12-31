@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketfuel.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624181039id_/http%3A//rocketfuel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketfuel.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231201951id_/http%3A//rocketfuel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Web Surfers - Rocket Fuel
 
@@ -61,3 +61,5 @@ c/o Privacy
 350 Marine Parkway  
 Suite 220  
 Redwood Shores, CA 94065 USA
+
+[日本語版](http://rocketfuel.com/jp/privacy-policy)
