@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jvzoo.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429155752id_/http%3A//www.jvzoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jvzoo.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231011030id_/https%3A//www.jvzoo.com/privacy) for the most accurate reproduction.*
 
 # JVZoo.com's Policies, Terms and User Agreements
 
