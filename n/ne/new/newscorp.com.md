@@ -1,44 +1,92 @@
-> *The following text is extracted and transformed from the newscorp.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528232919id_/http%3A//www.newscorp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newscorp.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231150354id_/http%3A//newscorp.com/privacy-policy) for the most accurate reproduction.*
 
-# News Corporation
+# Privacy Policy | News Corp
 
-### News Corporation Statement of Privacy Principles
+**Privacy Policy  
+Effective December 11, 2013**
 
-**PREAMBLE**  
-News Corporation is one of the world's largest media companies. The U.S.-based businesses of News Corporation include: the production and distribution of motion pictures, television programming and related consumer products; television broadcasting; cable programming; the publication of newspapers, books, magazines and promotional free-standing inserts; marketing services; educational products; and Internet services. In this Statement of Privacy Principles these U.S. businesses are collectively called the News America Group. 
+Table of Contents:
 
-At the News America Group we strive to enhance our relationship with consumers. Collecting personal information about consumers is vital to this effort. 
+  1. **INTRODUCTION**
+  2. **COLLECTION OF INFORMATION**
+  3. **USE AND DISCLOSURE**
+  4. **SECURITY**
+  5. **USER ACCESS AND CONTROL**
+  6. **OTHER IMPORTANT INFORMATION**
+  7. **CONTACT US**
 
-This Statement of Privacy Principles describes the policies and procedures of the News America Group’s U.S.-based businesses for the collection, use and dissemination of personal information (i.e., information that identifies a specific person) about U.S. consumers in both the online and offline world. The Principles are based on the concepts of consumer notice and choice. 
 
-The individual privacy notice of each News America Group business unit will indicate how that business unit is implementing this Statement of Principles by describing the business unit’s policies and practices regarding the collection and use of consumers’ personal information. 
 
-The News America Group is actively involved in ongoing discussions about privacy and is continually monitoring privacy developments. Accordingly, from time to time we may modify these Privacy Principles to reflect changes in the law, self-regulatory initiatives and technology. 
+**1.     INTRODUCTION**
 
-**COLLECTION**  
-The News America Group obtains personal information only if we believe the information is relevant to our relationship with a consumer or to assist us in creating a relationship with a consumer. We obtain personal information about consumers directly from consumers, primarily in the course of providing them with products, information and services. The News America Group may also obtain personal information from third-party sources. In those instances where our information collection activities are directed to children, the News America Group provides special privacy protections.
+News Corporation ( **“News Corp”** or **“we”** ) wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through newscorp.com (the **“Site”** ).  By using the Site, you agree to the terms and conditions of this Privacy Policy.
 
-**NOTICE**  
-When the News America Group collects personal information from consumers, we inform them about who is collecting the information, why it is being collected, how it is being collected, the types of uses we will make of the information, whether we will disclose the information to third parties and the types of third parties to whom we will disclose the information, and consumers’ options regarding the use of their information.
+When you visit the Site, you are visiting News Corp’s corporate website.  Affiliates of News Corp ( **“News Corp Affiliates”** ) operate a large number of websites, mobile applications and other services associated with News Corp’s various businesses, brands and products.  Each of these services that you may choose to visit has privacy policies that may differ from this Privacy Policy due to the nature of those services. This Privacy Policy does not apply to the websites, mobile applications and other services operated by News Corp Affiliates.  A list of News Corp Affiliates is available [here](http://newscorpcom.wordpress.com/about "Terms of Use").
 
-**CHOICE**  
-The News America Group provides consumers with an opportunity to choose whether the business unit that collects their personal information may use it for purposes that are new and may not be expected based on what is described either in its privacy notice or at the time the information was submitted.
+The Site is for a general audience, is not targeted to children, and does not knowingly collect personal information from children under 13 years of age.
 
-**USE AND DISCLOSURE OF PERSONAL INFORMATION**  
-The News America Group uses personal information to respond to our customers and to make decisions about the goods and services that the News America Group or its business partners provide or hope to provide to consumers. Each News America Group business uses personal information only in a manner consistent with these Privacy Principles and the applicable provisions of its privacy notice. Personal information is available only to our employees, affiliates, agents and contractors who have a business reason to have access to such information, and others as detailed in our business unit privacy policies.
+This Privacy Policy applies to News Corp’s collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address).  It also describes generally News Corp’s practices for handling non-personal information (for example, interests, demographics and services usage).
 
-**SECURITY**  
-The News America Group uses reasonable administrative, technical, personnel and physical measures to safeguard personal information in its possession against loss, theft, and unauthorized use, disclosure or modification.
+**2.     COLLECTION OF INFORMATION**
 
-**ACCESS, CORRECTION AND DELETION**  
-When appropriate, each News America Group business unit provides consumers with the ability to access the personal information it maintains about them, to correct any information that is incorrect and to request the business unit to delete the information from its database.
+News Corp and our service providers collect the following information from and about you:
 
-**REMEDIES**  
-Consumers may contact each News America Group business unit regarding privacy questions, complaints and disputes.
+**Information You Submit.**  You may choose to send us communications through the email addresses listed on the Site or receive newsletters or notifications.  Information you submit may include, for example, name, email address, gender and/or zip code.
 
-**COMPLIANCE**  
-Each News America Group business unit will take appropriate measures to ensure compliance with these Privacy Principles.
+**Activity Information.**  When you access and interact with the Site, we may collect certain information about those visits.  For example, in order to permit your connection to the Site, our servers receive and record information about your computer, device, and browser, including potentially your IP address, browser type, and other software or hardware information.  If you access the Site from a mobile or other device, we may collect a unique device identifier assigned to that device, geolocation data, or other transactional information for that device. At this time we do not respond to browser ‘Do Not Track’ signals, as we await the work of interested stakeholders and others to develop standards for how such signals should be interpreted.
 
-_Revised as of: July 16, 2012_
+Cookies and other tracking technologies (such as browser cookies, pixels, beacons, and Adobe Flash technology including cookies) are comprised of small bits of data that often include a de-identified or anonymous unique identifier.  Websites, apps and other services send this data to your browser when you first request a web page and then store the data on your computer so the website can access information when you make subsequent requests for pages from that service.  These technologies may also be used to collect and store information about your usage of the Site, such as pages you have visited, content you have viewed, search queries you have run and advertisements you have seen.
 
-* Please see the [Commentary](http://www.newscorp.com/commentary.html) further explaining these Principles.
+Third parties that support the Site by providing services, such as tracking aggregate Site usage statistics, may also use these technologies to collect similar information.  News Corp does not control these third-party technologies and their use is governed by the privacy policies of third parties using such technologies.
+
+Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether.  Please consult the “Help” section of your browser for more information.  Users can manage the use of Flash technologies, with the Flash management tools available at Adobe’s website, see <http://www.adobe.com/products/flashplayer/security/privacy_policy/faq.html>.  Please note that by blocking any or all cookies you may not have access to certain features, content or personalization available through the Site.
+
+**Information from Other Sources.**  We may supplement the information we collect with information from other sources, such as publicly available information from social media services, commercially available sources and information from our News Corp Affiliates or business partners.
+
+**3.     USE AND DISCLOSURE**
+
+We use the information we collect from and about you to provide the Site and features to you, including: to measure and improve those Site and features; to improve your experience with the Site by providing content you may find relevant and interesting; to provide you with support and to respond to inquiries.  When the information collected from or about you does not identify you as a specific person, we may use that information for any purpose or share it with third parties.
+
+We use the information we collect from and about you for these additional purposes:
+
+**To allow service providers to assist us in providing and managing the Site.**  News Corp may make your information available to certain third-party service providers, such as contractors, agents or sponsors, who help us manage or provide the Site.
+
+**To contact you.**  News Corp may periodically send materials and notifications related to the Site.  If you want to stop receiving materials and notifications, you can contact us as provided in Section 7 below or by following the unsubscribe instructions that may appear in such communications.  There are certain service notification communications that you may not opt-out of, such as notifications of changes to the Site or policies.
+
+**To share with our News Corp Affiliates.**  News Corp may share your information with News Corp Affiliates for the purposes described in this Privacy Policy.  A link to a list of News Corp Affiliates can be found at the beginning of this policy.  Users who visit News Corp Affiliates’ services should still refer to their separate privacy policies, which may differ from this Privacy Policy
+
+**To protect the rights of News Corp and others.**  There may be instances when News Corp may disclose your information, including situations where News Corp has a good faith belief that such disclosure is necessary in order to: (i) protect, enforce, or defend the legal rights, privacy, safety, or property of News Corp, our News Corp Affiliates or their employees, agents and contractors (including enforcement of our agreements and our terms of use); (ii) protect the safety, privacy, and security of users of the Site or members of the public; (iii) protect against fraud or for risk management purposes; (iv) comply with the law or legal process; or (v) respond to requests from public and government authorities.
+
+**To complete a merger or sale of assets.**  If News Corp sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, News Corp may transfer your information to the party or parties involved in the transaction as part of that transaction.
+
+**4.     SECURITY**
+
+News Corp uses commercially reasonable administrative, technical, personnel and physical measures to safeguard information in its possession against loss, theft and unauthorized use, disclosure or modification. However, no one can guarantee the complete safety of your information.
+
+**5.     USER ACCESS AND CONTROL**
+
+If you would like to access, review, correct, update, suppress, or otherwise limit our use of your personal information you have previously provided directly to us, you may contact us as outlined in Section 7. In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access, change, update, or suppress.  We will try to comply with your request as soon as reasonably practicable.
+
+For California residents, you may request that we not share your personal information on a going-forward basis with News Corp Affiliates or unaffiliated third parties for their direct marketing purposes by emailing the contact provided in Section 7.  We will try to comply with your request(s) as soon as reasonably practicable.
+
+**6.     OTHER IMPORTANT INFORMATION**
+
+**Updates to Privacy Policy.**  News Corp may modify this Privacy Policy.  Please look at the Effective Date at the top of this Privacy Policy to see when this Privacy Policy was last revised.  Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site.
+
+**Location of Data.**  The Site is hosted in and managed from the United States.  If you are a user located outside the United States, you understand and consent to having any personal information processed in the United States.  United States data protection and other relevant laws may not be the same as those in your jurisdiction.  This includes the use of cookies and other tracking technologies as described above.  As a result, please read this Privacy Policy with care.
+
+**Linked Services.**  The Site may also be linked to sites operated by unaffiliated companies, and may carry advertisements or offer content, functionality, newsletters,  or applications developed and maintained by unaffiliated companies. News Corp is not responsible for the privacy practices of unaffiliated companies, and once you leave the Site or click an advertisement you should check the applicable privacy policy of the other service.
+
+**Data Retention.**  We will retain your information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
+
+It is not always possible to completely remove or delete all of your information due to technical constraints, contractual, financial or legal requirements.
+
+**Sensitive Information.**  We ask that you not send us, and you not disclose, any sensitive personal information (such as social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Site or otherwise.
+
+**7.     CONTACT US**
+
+If you have questions about this Privacy Policy, please contact us at:
+
+Email: [privacypolicy@newscorp.com](mailto:someone@example.com)
+
+Mail: News Corp, 1211 Avenue of the Americas, New York, New York 10036
