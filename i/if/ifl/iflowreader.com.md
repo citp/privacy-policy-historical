@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iflowreader.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502122934id_/http%3A//iflowreader.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iflowreader.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231235635id_/http%3A//iflowreader.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Redsnow Jailbreak iOS 6.1.3 6.1.2 iPhone 5 4S 4, iPad and iPod
+# Privacy Policy
 
 **Cookies & 3rd Party Advertisements**
 
