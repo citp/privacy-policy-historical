@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dailyfailcenter.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430084145id_/http%3A//dailyfailcenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyfailcenter.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231225844id_/http%3A//www.dailyfailcenter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DailyFailCenter
-
-**[Login](http://dailyfailcenter.com/user)or [Register ](http://dailyfailcenter.com/user/register)to post new photos!**
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by using the form on this page: Contact.
 
