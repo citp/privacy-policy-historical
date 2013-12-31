@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 180fusion.com privacy policy that was archived on 2012-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120415110006id_/http%3A//www.180fusion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 180fusion.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231142049id_/http%3A//www.180fusion.com/privacy) for the most accurate reproduction.*
 
-# SEO Services, Affordable SEO, Local SEO, Pay Per Click, Social Media Marketing Services –180Fusion SEO.
+# 180Fusion's Privacy Policy
 
 Your privacy is very important to 180Fusion. Accordingly, this document will explain to you how 180Fusion treats any personal information that we collect and receive. By submitting your personally identifiable to us you agree to the terms of this Privacy Policy.
 
