@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamblingcommission.gov.uk privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501084529id_/http%3A//www.gamblingcommission.gov.uk/gf-terms_and_conditions/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamblingcommission.gov.uk privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231011353id_/http%3A//www.gamblingcommission.gov.uk/gf-terms_and_conditions/privacy_statement.aspx) for the most accurate reproduction.*
 
 # Gambling Commission - Privacy statement
 
@@ -117,5 +117,5 @@ B2 4BP
 
 This privacy statement only covers the Gambling Commission website at [www.gamblingcommission.gov.uk](http://www.gamblingcommission.gov.uk/default.aspx "www.gamblingcommission.gov.uk"). This statement does not cover links within this site to other websites.
 
-Page last reviewed: July 2012
+Page last reviewed: October 2013
   *[IP address]: IP address
