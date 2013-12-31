@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sitescout.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608230911id_/http%3A//www.sitescout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitescout.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231100604id_/http%3A//www.sitescout.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | SiteScout
 
-_
+_If you have seen an advertisement on another website, it may have been delivered to you by the ad serving software, SiteScout AdServer._
 
-If you have seen an advertisement on another website, it may have been delivered to you by the ad serving software, SiteScout AdServer. 
+ _
 
 You can view the privacy policy for the SiteScout AdServer [here](https://web.archive.org/privacy/adserver).
 
@@ -99,7 +99,7 @@ Contacting Us**
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 http://www.sitescout.com  
-630-185 The West Mall  
-Toronto, Ontario M9C 5L5  
+579 Richmond St. W, Suite 100  
+Toronto, Ontario, M5V 1Y6  
 Canada  
 legal@sitescout.com
