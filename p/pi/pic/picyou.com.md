@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picyou.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607164301id_/http%3A//picyou.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picyou.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231044555id_/http%3A//picyou.com/policy) for the most accurate reproduction.*
 
 # PicYou's photo sharing privacy policy
 
