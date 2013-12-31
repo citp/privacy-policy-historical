@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytopfreegames.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603092245id_/http%3A//mytopfreegames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytopfreegames.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231050621id_/http%3A//mytopfreegames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » My Top Free Games
 
