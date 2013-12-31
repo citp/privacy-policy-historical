@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scribd.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425064535id_/http%3A//www.scribd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribd.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231022721id_/http%3A//www.scribd.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy : Support Desk
 
