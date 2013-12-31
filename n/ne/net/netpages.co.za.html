@@ -1,20 +1,19 @@
-<!--The following is the downloaded HTML source of the netpages.co.za privacy policy that was archived on 2013-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130502003038id_/http%3A//www.netpages.co.za/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the netpages.co.za privacy policy that was archived on 2013-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131231143838id_/http%3A//www.netpages.co.za/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head>
 	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE6">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 			<title>Privay Policy - NetPages</title>
-			
-		
+		<meta name="Description" content="">	<meta name="keywords" content="">		
 	<link rel="shortcut icon" href="/favicon.ico">
 	<link rel="stylesheet" type="text/css" media="screen" href="http://www.netpages.co.za/extra/css/style.css">
 	<link rel="stylesheet" type="text/css" media="screen" href="http://www.netpages.co.za/extra/css/jquery.fancybox-1.3.4.css">
-
+  <link href="http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700" rel="stylesheet" type="text/css">
+        
     <script type="text/javascript">
     <!--
-    var MOBILE_SITE_URL = 'http://m.netpages.co.za';
-    var MOBILE_COOKIE=0; var MOBILE_DEVICE = 0;
+    var MOBILE_SITE_URL = 'http://m.netpages.co.za'; var MOBILE_COOKIE = 0; var MOBILE_DEVICE = 0;
     // -->
     </script>
 
@@ -29,7 +28,9 @@
     <div id="main_layout">
 	
 	<div class="lsize">
-	<a class="mobile_link_img" href="http://m.netpages.co.za" target="_blank" title="Mobile version">Mobile version</a>
+    <a class="mobile_link_img" href="http://m.netpages.co.za" target="_blank" title="Mobile version">Mobile version</a>
+    <span id="id_vertical" class="fr bold mtb10">&nbsp;</span>
+    <div class="clear"></div>
 	<div id="header_bg_color">
 		<div id="logo"><h2><a href="http://www.netpages.co.za">NetPages.co.za</a></h2></div>
 		<div class="wide_banner"><script type="text/javascript"><!--
@@ -46,8 +47,8 @@
 
 	<div id="menubg">
 		<div id="menu">
-												<a class="bg_none" href="http://www.netpages.co.za" title="Find a Business">Find a Business</a>
-			<a class="bg_none get_quote_fancy" id="get_quote_fancy" href="javascript:void(0);" rel="nofollow">Get Quote ?</a>
+															<a class="bg_none" href="http://www.netpages.co.za" title="Find a Business">Find a Business</a>
+			<a class="bg_none relative" href="http://www.netpages.co.za/List-Quotes">Quotes Wanted<span class="new_caption"></span></a>
 			<!-- <a class="" href="http://www.netpages.co.za/Classifieds" title="To-let">To-let</a> -->
 			<a class="bg_none" href="http://www.netpages.co.za/Deals/Pick+n+Pay" title="Deals">Deals</a>
 		</div>
@@ -226,12 +227,48 @@ jQuery(document).ready(function() {
 		var href = jQuery(this).attr('href');
 		jQuery.fancybox({
 			'href'		: href,
-			'padding'	: 0,
-		})
+			'padding'	: 0
+		});
+	});
+
+	/** Get quote fancybox from quotes wanted listing page */
+    jQuery('#quote_form, #quote_list').live("click",function() {
+    	var cat = city = href = '';
+    	var frm = 'Quotelist';
+    	var eleId = jQuery(this).attr("id");
+
+    	if(eleId == 'quote_form')
+    	{
+    		cat = jQuery('#quote_cat').val();
+    		city = jQuery('#city').val();
+    		href = '/getQuote.php?src_category='+cat+'&searchCity='+city+'&from='+frm;
+    	}
+    	else if(eleId == 'quote_list')
+    	{
+    		cat = jQuery(this).nextAll('.list_keyword:first').text();
+    		href = '/getQuote.php?src_category='+cat+'&searchCity='+city+'&from='+frm;
+    	}
+
+		jQuery.fancybox({
+	        'scrolling'     : 'no',
+	        'padding'       : 0,
+	        'titleShow'     : false,
+	        'overlayShow'   : true,
+	        'speedIn'       : 500,
+	        'speedOut': 300,
+	        'centerOnScroll': true,
+	        'onClosed'      : function() {},
+			'href'			: href,
+			'onComplete'    : function() {
+				//jQuery("#fancybox-content").width(970);
+				//jQuery("#fancybox-close").css('right', '-54px');
+				//jQuery("#fancybox-wrap").css('padding', '0px');
+			}
+	    });
 	});
 
 	//use .one() so that the handler is executed at most once per element
-	jQuery('a.review_fancy, a.inquiry_fancy, a.inacrt_fancy, a.reg_fancy, a.log_fancy, a.clEmail_box, a.clfav_box').one('click', function ()
+	jQuery('a.cont_req, a.review_fancy, a.inquiry_fancy, a.inacrt_fancy, a.reg_fancy, a.log_fancy, a.clEmail_box, a.clfav_box').one('click', function ()
 	{
 		openFancybox(this);
 		return false;
@@ -243,7 +280,7 @@ jQuery(document).ready(function() {
 		jQuery("a.gallery_fancy").fancybox({
 			"autoScale"         : false,
 			"transitionIn"      : "elastic",
-			"transitionOut"     : "elastic",
+			"transitionOut"     : "elastic"
 		});
 	}
 
@@ -273,45 +310,15 @@ jQuery(document).ready(function() {
 
 	    }).click();
 	}
-
-    //use .one() so that the handler is executed at most once per element
-    if(jQuery('#id_auction_fancy').length > 0)
-    {
-    	jQuery(window).one('scroll', function ()
-    	{
-        	var category = '';
-        	var getQuoteFlag = '';
-        	getQuoteFlag = '';
-            var searchWhatCookie = getCookie('searchWhat');
-            var auctionCounter = getCookie('auctionCounter');
-
-            if(searchWhatCookie != category && (auctionCounter == null || auctionCounter == '' || auctionCounter <= 4))
-            {
-            	var tInSec = 5;
-                window.setTimeout(function (){openFancybox('a.auction_fancy')}, tInSec * 1000);
-                return false;
-            }
-        });
-    }
 });
 
-jQuery("#get_quote_fancy").click(function()
-{
-	jQuery.fancybox({
-        'scrolling'     : 'no',
-        'padding'       : 0,
-        'titleShow'     : false,
-        'overlayShow'   : true,
-        'speedIn'       : 500,
-        'speedOut': 300,
-        'centerOnScroll': true,
-        'href':   'http://www.netpages.co.za/businessAuction.php?opt=getQuote',
-        'onClosed'      : function() {}
-    });
-});
+
+var arrVerticals = {"Jobs":"http:\/\/www.brick7.co.za","Cars":"http:\/\/cars.brick7.co.za","Property":"http:\/\/property.brick7.co.za","Motorcycle":"http:\/\/motorcycle.brick7.co.za","Boats":"http:\/\/boats.brick7.co.za","For Sale":"http:\/\/sales.brick7.co.za","Machines":"http:\/\/machines.brick7.co.za"};
+
+getVerticalLinks(arrVerticals);
 
 //]]>
 </script>
 
-	
+	    
 </body></html>
