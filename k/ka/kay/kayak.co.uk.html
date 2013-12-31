@@ -1,17 +1,17 @@
-<!--The following is the downloaded HTML source of the kayak.co.uk privacy policy that was archived on 2013-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130616130606id_/http%3A//www.kayak.co.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kayak.co.uk privacy policy that was archived on 2013-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131231083807id_/http%3A//www.kayak.co.uk/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" lang="en_GB"><head>
-<title>KAYAK - Privacy Policy</title>
+<title>Privacy Policy - KAYAK</title>
 <meta name="description" content="Privacy Policy Find KAYAK's corporate privacy policy regarding users' personally identifiable information (“PII”) and other information">
 <meta name="keywords" content="about kayak, kayak.com, kayak, about kayak.com, kayak company, kayak info">
-                                            <link rel="stylesheet" href="/sv595/en/GB/css/widgetcore.css" type="text/css">
-                            <link rel="stylesheet" href="/sv595/en/GB/css/widgets.css" type="text/css">
-                <link rel="stylesheet" href="/sv595/en/GB/css/seo/corppages.css" type="text/css">
+                                            <link rel="stylesheet" href="/res/en/GB/css/widgetcore.css?v=268003ac79e9a7fe2cc39c7629a46251d578455b" type="text/css">
+                            <link rel="stylesheet" href="/res/en/GB/css/widgets.css?v=e56cef926bfbdc295033634032f5f4691a21671f" type="text/css">
+                <link rel="stylesheet" href="/res/en/GB/css/seo/corppages.css?v=f8415592108efb2d43b37a564dc315cb9b5ea727" type="text/css">
 
-<!--[if lt IE 9]>                <link rel="stylesheet" href="/sv595/en/GB/css/r9.ie8.css" type="text/css"/>
+<!--[if lt IE 9]>                <link rel="stylesheet" href="/res/en/GB/css/r9.ie8.css?v=d5647c67a62d7b8d39e004201e5c55c7aee543b5" type="text/css"/>
 <![endif]-->
-<!--[if lt IE 8]>                <link rel="stylesheet" href="/sv595/en/GB/css/r9.ie7.css" type="text/css"/>
+<!--[if lt IE 8]>                <link rel="stylesheet" href="/res/en/GB/css/r9.ie7.css?v=c60040158cb6b088ea7b5cb91cde1f6616eb3e27" type="text/css"/>
 <![endif]-->
 <!--[if IE]>
 <style>
@@ -20,16 +20,19 @@ div.filterSectionContent {
 }
 </style>
 <![endif]-->
-                <script type="text/javascript" src="/sv007/en/GB/js/alien/r9alien.js"></script>
-        <script type="text/javascript" src="/sv595/en/GB/js/r9.js"></script>
-            <script type="text/javascript" src="/sv595/en/GB/js/widgets.js"></script>
+                <script type="text/javascript" src="/res/en/GB/js/alien/r9alien.js?v=1854ab82d4423890f5ea26193245b621c097477b"></script>
+        <script type="text/javascript" src="/res/en/GB/js/r9.js?v=1d3f09e9c376d056e25a846b8a25bb95f88246b2"></script>
+            <script type="text/javascript" src="/res/en/GB/js/widgets.js?v=9e84f0ecc72115c5e962bb7c644737cdbce3b606"></script>
 <script>
-    var R9 = R9 || {};
-    R9.extend('globals', {"adsRefreshTimer":5000,"affiliate":"kayak","browserCapabilities":{},"formtoken":"eGnQn77hsSj0CDzNosd7cb2JYNU","locale":{"lc_cc":"GB","lc":"en"},"experiment":"unknown","searchCount":0,"affiliateskin":"kayak"});
+    R9 = R9 || {};
+    R9.extend('globals', {"adsRefreshTimer":5000,"ignoreUrlRoutes":["^\\/?hotels(.*?)-details\\/(.*?)$"],"locale":{"lc_cc":"GB","loc":"en_GB","lc":"en"},"affiliateskin":"kayak","analytics":{"vertical":"unknown","google":{"trackEvent":"false","trackPageView":"false","tid":"UA-42209185-8"},"pageId":"PRIVACY_POLICY","vslog":{"trackEvent":"true","trackPageView":"false"}},"cacheInitialPage":"true","affiliate":"kayak","formtoken":"itWDiQb1IvyrALEWh4ZhkYfalOY","browserCapabilities":{},"experiment":"unknown","uiconfig":{},"searchCount":29,"submitTimeout":0});
 
 R9.extend("globals",{
+    useFullSearchUrl: false,
     isTouch: jq.support.touch || typeof(window.ontouchstart) != "undefined"
 });
+
+R9.Alien.Moment.setupLocale(R9.globals.locale, moment);
 
 R9.extend('URL.Generator.prototype.options', {
     maxLegs: 6,
@@ -45,6 +48,8 @@ AjaxReg.remoteHost = "https://www.kayak.co.uk";
 
 
 R9.extend('cmp2', {
+    useInterstitialPage: true,
+    noOpenPopunders: false,
     useReserveWindows: true,
     popupBlockerMessageEnabled: true,
     queuePopups: true,
@@ -54,120 +59,871 @@ R9.extend('cmp2', {
 });
 
 R9.extend('ccfeecalculator', {
-    attachCCFeeCalcNoticeTooltip: false
-});</script>
+    attachCCFeeCalcNoticeTooltip: true
+});
+
+R9.extend('login', {
+    newform: false
+});
+
+R9.extend('Tabs.SearchTabs.prototype.options', {
+    message: "Loading results..."
+});
+
+window.R9App = window.R9App || {};
+if (!window.R9App.AppInstance) {
+    var appOptions = {
+        useClientCache: ("false" !== R9.globals.useClientCache),
+        cacheInitialPage: ("true" === R9.globals.cacheInitialPage),
+        maxCacheEntrySize: 10,
+        ignoreUrls: R9.globals.ignoreUrlRoutes || []
+    };
+
+            appOptions.beforeNavigate = function(category, vertical, url) {
+            jq(".fadeable").addClass("loadingNewPage");
+            window.searchid = null;             if(R9.Common.PinToTop) {                 R9.Common.PinToTop.removePinnedListeners();
+            }
+
+        };
+
+        appOptions.beforeHtmlSet = function(content, cached) {
+            jq(".fadeable", content.body).addClass("loadingNewPage");
+
+            // If cached, restore last known tabs and reset current tab
+            if (cached) {
+                R9.Tabs.SearchTabs.restoreLastKnownTabs(content);
+            }
+        };
+
+        appOptions.beforeCssReplace = function(content, cached, currentContent) {
+            jq(".fadeable", currentContent.body).css("visibility", "hidden");
+        };
+
+        appOptions.afterHtmlSet = function(content, cached, oldContent) {
+            jq(".fadeable", oldContent.body).css("visibility","");
+            jq(".fadeable").removeClass("loadingNewPage");
+
+            // Store tabs, if this was not cached
+            if (! cached) {
+                R9.Tabs.SearchTabs.setLastKnownTabs(content);
+            }
+        };
+
+        appOptions.beforeScripts = function(content, cached) {
+            // a bit of a hack to force the old date picker control to recreate it's div
+            jq.datepicker.initialized = false;
+
+            // clear cmp2 global
+            window.cmp2CTR = null;
+        };
+
+        appOptions.afterScripts = function(content, cached) {
+            // Fix header events
+            R9.ui.initHeader();
+            R9.Analytics.api.trackPageView();
+            if (window.IntentMedia && IntentMedia.page_id_updated) {
+                IntentMedia.page_id_updated();
+            }
+        };
+        window.R9App.AppInstance = new R9.App.Application(appOptions);
+
+    // cache the page at the end of streaming
+    if (appOptions.useClientCache && appOptions.cacheInitialPage) {
+        jq(window).bind('r9.streaming.done', function() {
+            window.R9App.AppInstance.cachePage(document.location.pathname);
+        });
+    }
+
+    R9.Analytics.api.trackPageView();
+}
+
+jq(function() {
+    jq("#headermaintabs > a").not(jq("a.directLink")).off("click.navigation").on("click.navigation", function(event) {
+        event.preventDefault();
+        R9App.AppInstance.navigate(this.pathname);
+        return false;
+    });
+
+    initializeCountryPicker();
+});
+</script>
 <script>
     AjaxReg.remoteHost = "https://www.kayak.co.uk";
 </script>
 
-            <meta property="og:image" content="https://www.kayak.co.uk/images/logos/og_logo_64x64.png">
-         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+            <meta property="og:image" content="http://www.kayak.co.uk/images/logos/og_logo_64x64.png">
+                        <link rel="stylesheet" href="/res/en/GB/css/common/common.grid.css?v=12b9a7f79afb4f8f6151e6df5bdb9a2b599ce79e" type="text/css">
+     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <link rel="shortcut icon" href="/k.ico">
     <meta name="robots" content="NOODP">
 
            <link rel="canonical" href="http://www.kayak.co.uk/privacy">
     
-                        <link rel="alternate" hreflang="en" href="http://www.kayak.com/privacy">
-                    <link rel="alternate" hreflang="en-gb" href="http://www.kayak.co.uk/privacy">
-                    <link rel="alternate" hreflang="en-in" href="http://www.kayak.co.in/privacy">
-                    <link rel="alternate" hreflang="de" href="http://www.kayak.de/privacy">
-                    <link rel="alternate" hreflang="fr" href="http://www.kayak.fr/privacy">
-                    <link rel="alternate" hreflang="es" href="http://www.kayak.es/privacy">
-                    <link rel="alternate" hreflang="it" href="http://www.kayak.it/privacy">
-                    <link rel="alternate" hreflang="sv" href="http://www.kayak.se/privacy">
-                    <link rel="alternate" hreflang="no" href="http://www.kayak.no/privacy">
-                    <link rel="alternate" hreflang="da" href="http://www.kayak.dk/privacy">
-                    <link rel="alternate" hreflang="fi" href="http://www.fi.kayak.com/privacy">
-                    <link rel="alternate" hreflang="de-ch" href="http://www.kayak.ch/privacy">
-                    <link rel="alternate" hreflang="lt" href="http://www.kayak.lt/privacy">
-                    <link rel="alternate" hreflang="pt" href="http://www.kayak.pt/privacy">
-                    <link rel="alternate" hreflang="pt-br" href="http://www.kayak.com.br/privacy">
-                    <link rel="alternate" hreflang="pl" href="http://www.kayak.pl/privacy">
-                    <link rel="alternate" hreflang="ru" href="http://www.kayak.ru/privacy">
-                    <link rel="alternate" hreflang="en-ca" href="http://www.ca.kayak.com/privacy">
-            
-        
-</head>
+                                        <link rel="alternate" hreflang="en" href="http://www.kayak.com/privacy">
+                                                <link rel="alternate" hreflang="en-GB" href="http://www.kayak.co.uk/privacy">
+                                                <link rel="alternate" hreflang="en-IN" href="http://www.kayak.co.in/privacy">
+                                                <link rel="alternate" hreflang="de" href="http://www.kayak.de/privacy">
+                                                <link rel="alternate" hreflang="fr" href="http://www.kayak.fr/privacy">
+                                                <link rel="alternate" hreflang="es" href="http://www.kayak.es/privacy">
+                                                <link rel="alternate" hreflang="it" href="http://www.kayak.it/privacy">
+                                                <link rel="alternate" hreflang="sv" href="http://www.kayak.se/privacy">
+                                                <link rel="alternate" hreflang="no" href="http://www.kayak.no/privacy">
+                                                <link rel="alternate" hreflang="da" href="http://www.kayak.dk/privacy">
+                                                <link rel="alternate" hreflang="fi" href="http://www.fi.kayak.com/privacy">
+                                                <link rel="alternate" hreflang="de-CH" href="http://www.kayak.ch/privacy">
+                                                <link rel="alternate" hreflang="en-IE" href="http://www.kayak.ie/privacy">
+                                                                    <link rel="alternate" hreflang="nl" href="http://www.kayak.nl/privacy">
+                                                <link rel="alternate" hreflang="pt" href="http://www.kayak.pt/privacy">
+                                                <link rel="alternate" hreflang="pt-BR" href="http://www.kayak.com.br/privacy">
+                                                <link rel="alternate" hreflang="pl" href="http://www.kayak.pl/privacy">
+                                                <link rel="alternate" hreflang="ru" href="http://www.kayak.ru/privacy">
+                                                                    <link rel="alternate" hreflang="en-AU" href="http://www.kayak.com.au/privacy">
+                                                                    <link rel="alternate" hreflang="es-MX" href="http://www.kayak.com.mx/privacy">
+                                                <link rel="alternate" hreflang="fr-BE" href="http://www.be.kayak.com/privacy">
+                                                <link rel="alternate" hreflang="en-HK" href="http://www.kayak.com.hk/privacy">
+                                                <link rel="alternate" hreflang="en-SG" href="http://www.kayak.sg/privacy">
+                                                <link rel="alternate" hreflang="tr" href="http://www.kayak.com.tr/privacy">
+                                                <link rel="alternate" hreflang="el" href="http://www.gr.kayak.com/privacy">
+                                                <link rel="alternate" hreflang="zh-TW" href="http://www.tw.kayak.com/privacy">
+                                                <link rel="alternate" hreflang="es-AR" href="http://www.ar.kayak.com/privacy">
+                        
+        </head>
 <body>
-    <div id="doc3Outer" class="yui-t2 fixedWidthOuter hotelOuterResults">
-    <div class="newheader">
-    
+
+    <div id="hd" class="newheader">
+        <div class="liner">
+                          
+            <div id="logo">
+                                                     <a href="/"><img border="0" src="/v697174/images/kayak-logo.png" alt="KAYAK - Travel Deals - Cheap flights and hotels"></a>
+            </div> 
+                            <div id="headermaintabs" class="headertabs">
       
-    <div id="logo">
-          <a href="https://www.kayak.co.uk/flights"><img border="0" src="/v595174/images/kayak-logo.png" alt=" - Travel Deals - Cheap flights and hotels"></a>
-        </div> 
-            <div id="headermaintabs" class="headertabs">
-      <div id="headermaintabs">
-            <a id="flights-link" href="https://www.kayak.co.uk/flights">Flights</a>
-    
-            <a id="hotels-link" href="https://www.kayak.co.uk/hotels">Hotels</a>
-    
-            <a id="cars-link" href="https://www.kayak.co.uk/cars">Cars</a>
-    
-            <a href="https://www.kayak.co.uk/holidays">Holidays<span class="newMarker"></span></a>
-                    <a href="https://www.kayak.co.uk/citybreaks">City Breaks</a>
-    
 
-    
 
-    
-    
-    
-    
-    
+<div id="headermaintabs">
+            
+                        
+                    <a id="hotels-link" class="" href="/hotels">HOTELS</a>
         
-            <a id="more-link" href="https://www.kayak.co.uk/more">
-                            More <img src="/v595/images/arrows/more-pulldown.png" alt="" class="pulldown">
+                    
+                    <a id="flights-link" class="" href="/flights">FLIGHTS</a>
+            
+            
+                <a id="cars-link" class="" href="/cars">CARS</a>
+    
+                    
+                                    <a id="kpack-link" class="" href="/holidays">FLIGHT+HOTEL<span class="infoMarker">HOLIDAYS</span></a>
+            
+            
+                <a id="" class="" onclick="return setupSearchParams('');" href="/citybreaks">CITY BREAKS</a>
+    
+
+    
+
+    
+    
+    
+    
+    
+            <a id="more-link" href="/more">
+                            MORE
                     </a>
     </div>
    </div>
-        <div id="header">
-        
+                <div id="header">
+            <span class="headerItem">
+        <a href="/trips">MY TRIPS</a>
+    </span>
+<span class="headerItem">
+            <a class="breadcrumbs" href="#" id="headersigninlink" onclick="if(window.event){if(event.preventDefault){event.preventDefault();}event.returnValue = false;}AjaxReg.regtype='toprightsignin';AjaxReg.ui.login();" rel="nofollow">LOGIN</a>
+                &nbsp;
+</span>
+
 
     <span class="headerItem">
-                    <a rel="nofollow" id="headersigninlink" href="javascript:AjaxReg.regtype='toprightsignin';AjaxReg.ui.login();" class="breadcrumbs">Log in</a>
-                            <span class="headerItemSeparator">&nbsp;</span>
-    </span>
+        <span class="countryPicker">
+            <span id="countrypickerlink" onmousedown="javascript:loadCCCpicker();">
+                                    <span>£&nbsp;GBP</span>
+                                <span class="flag grayscale gb"></span>
+                <div id="countryList">
+                    
 
-            <span class="headerItem">
-                            <span class="">
-                    <a href="/trips" id="mytripsheaderlink">My Trips</a>
-                </span>
-                        <span class="headerItemSeparator">&nbsp;</span>
-        </span>
+<div id="currentCountry" class="clearfix">
+            <div class="flag gb"></div>
     
-       
-      
+        <div id="countrynameheader">United Kingdom&nbsp;-
 
-    <span class="headerItem countryPicker">
-        <span id="countrypickerlink" onmousedown="javascript:showCountryList();">
-                            <span>£&nbsp;GBP</span>
-                        <span class="flag grayscale gb"></span>
-            <div id="countryList"></div>
-        </span>
-    </span>
-</div>
-            <div class="searchsummaryholder">
+      
+                        £&nbsp;(GBP)&nbsp;&nbsp;
+              
+    </div>
+    </div>
+
+<div id="otherCountries">
+    <span class="menuheader">Choose country...</span>
+
+            
+                        <div class="clearfix">
+                
+                                                    <a href="http://www.ar.kayak.com/" lang="es" hreflang="es-AR">
+                                  <div class="flag ar"></div>
+                  <div class="countryname ar">Argentina</div>
+              </a>
             </div>
-    </div>     <div id="headerspace" style="height: 10px;"></div>
-<div class="cityguide charm seoWidget corpPages">
-<div class="hidden"><div class="crumbs">
-    <div class="crumbsinner">
-        <table><tbody><tr><td>
-                                        <span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-                    <a href="https://www.kayak.co.uk" itemprop="url"><span itemprop="title">Home</span></a><span class="divider">/</span>                </span>
-                            <span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-                    <a href="/about" itemprop="url"><span itemprop="title">About Us</span></a><span class="divider">/</span>                </span>
-                            <span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-                    <a href="/privacy" itemprop="url" class="current"><span itemprop="title">Privacy Policy</span></a>                </span>
-                    </td></tr></tbody></table>
+                                <div class="clearfix">
+                
+                                                    <a href="http://www.kayak.com.au/" lang="en" hreflang="en-AU">
+                                  <div class="flag au"></div>
+                  <div class="countryname au">Australia</div>
+              </a>
+            </div>
+                                <div class="clearfix">
+                
+                                    <div class="languages">
+                                                                                <a class="languageLink" href="javascript:void(0)" lang="fr" hreflang="BE" data-href="http://www.be.kayak.com/in?url=/&amp;cc=be&amp;a=kayak&amp;p=&amp;regen=1&amp;lc=fr">FR</a>
+                                                                                <a class="languageLink" href="javascript:void(0)" lang="nl" hreflang="BE" data-href="http://www.be.kayak.com/in?url=/&amp;cc=be&amp;a=kayak&amp;p=&amp;regen=1&amp;lc=nl">NL</a>
+                                            </div>
+                                                    <a href="http://www.be.kayak.com/" lang="fr" hreflang="fr-BE">
+                                  <div class="flag be"></div>
+                  <div class="countryname be">Belgique</div>
+              </a>
+            </div>
+                                <div class="clearfix">
+                
+                                                    <a href="http://www.kayak.com.br/" lang="pt" hreflang="pt-BR">
+                                  <div class="flag br"></div>
+                  <div class="countryname br">Brasil</div>
+              </a>
+            </div>
+                                <div class="clearfix">
+                
+                                    <div class="languages">
+                                                                                <a class="languageLink" href="javascript:void(0)" lang="en" hreflang="CA" data-href="http://www.ca.kayak.com/in?url=/&amp;cc=ca&amp;a=kayak&amp;p=&amp;regen=1&amp;lc=en">EN</a>
+                                                                                <a class="languageLink" href="javascript:void(0)" lang="fr" hreflang="CA" data-href="http://www.ca.kayak.com/in?url=/&amp;cc=ca&amp;a=kayak&amp;p=&amp;regen=1&amp;lc=fr">FR</a>
+                                            </div>
+                                                    <a href="http://www.ca.kayak.com/" lang="en" hreflang="en-CA">
+                                  <div class="flag ca"></div>
+                  <div class="countryname ca">Canada</div>
+              </a>
+            </div>
+                                <div class="clearfix">
+                
+                                                    <a href="http://www.kayak.dk/" lang="da" hreflang="da-DK">
+                                  <div class="flag dk"></div>
+                  <div class="countryname dk">Danmark</div>
+              </a>
+            </div>
+                                <div class="clearfix">
+                
+                                                    <a href="http://www.kayak.de/" lang="de" hreflang="de-DE">
+                                  <div class="flag de"></div>
+                  <div class="countryname de">Deutschland</div>
+              </a>
+            </div>
+                                <div class="clearfix">
+                
+                                                    <a href="http://www.kayak.es/" lang="es" hreflang="es-ES">
+                                  <div class="flag es"></div>
+                  <div class="countryname es">España</div>
+              </a>
+            </div>
+                                <div class="clearfix">
+                
+                                                    <a href="http://www.kayak.fr/" lang="fr" hreflang="fr-FR">
+                                  <div class="flag fr"></div>
+                  <div class="countryname fr">France</div>
+              </a>
+            </div>
+                                <div class="clearfix">
+                
+                                    <div class="languages">
+                                                                                <a class="languageLink" href="javascript:void(0)" lang="en" hreflang="HK" data-href="http://www.kayak.com.hk/in?url=/&amp;cc=hk&amp;a=kayak&amp;p=&amp;regen=1&amp;lc=en">EN</a>
+                                                                                <a class="languageLink" href="javascript:void(0)" lang="zh" hreflang="HK" data-href="http://www.kayak.com.hk/in?url=/&amp;cc=hk&amp;a=kayak&amp;p=&amp;regen=1&amp;lc=zh">ZH</a>
+                                            </div>
+                                                    <a href="http://www.kayak.com.hk/" lang="en" hreflang="en-HK">
+                                  <div class="flag hk"></div>
+                  <div class="countryname hk">Hong Kong</div>
+              </a>
+            </div>
+                                <div class="clearfix">
+                
+                                                    <a href="http://www.kayak.co.in/" lang="en" hreflang="en-IN">
+                                  <div class="flag in"></div>
+                  <div class="countryname in">India</div>
+              </a>
+            </div>
+                                <div class="clearfix">
+                
+                                                    <a href="http://www.kayak.ie/" lang="en" hreflang="en-IE">
+                                  <div class="flag ie"></div>
+                  <div class="countryname ie">Ireland</div>
+              </a>
+            </div>
+                                <div class="clearfix">
+                
+                                                    <a href="http://www.kayak.it/" lang="it" hreflang="it-IT">
+                                  <div class="flag it"></div>
+                  <div class="countryname it">Italia</div>
+              </a>
+            </div>
+                                <div class="clearfix">
+                
+                                                    <a href="http://www.kayak.lt/" lang="lt" hreflang="lt-LT">
+                                  <div class="flag lt"></div>
+                  <div class="countryname lt">Lietuva</div>
+              </a>
+            </div>
+                                <div class="clearfix">
+                
+                                                    <a href="http://www.kayak.com.mx/" lang="es" hreflang="es-MX">
+                                  <div class="flag mx"></div>
+                  <div class="countryname mx">México</div>
+              </a>
+            </div>
+                                <div class="clearfix">
+                
+                                                    <a href="http://www.kayak.nl/" lang="nl" hreflang="nl-NL">
+                                  <div class="flag nl"></div>
+                  <div class="countryname nl">Nederland</div>
+              </a>
+            </div>
+                                <div class="clearfix">
+                
+                                                    <a href="http://www.nz.kayak.com/" lang="en" hreflang="en-NZ">
+                                  <div class="flag nz"></div>
+                  <div class="countryname nz">New Zealand</div>
+              </a>
+            </div>
+                                <div class="clearfix">
+                
+                                                    <a href="http://www.kayak.no/" lang="no" hreflang="no-NO">
+                                  <div class="flag no"></div>
+                  <div class="countryname no">Norge</div>
+              </a>
+            </div>
+                                <div class="clearfix">
+                
+                                                    <a href="http://www.kayak.pl/" lang="pl" hreflang="pl-PL">
+                                  <div class="flag pl"></div>
+                  <div class="countryname pl">Polska</div>
+              </a>
+            </div>
+                                <div class="clearfix">
+                
+                                                    <a href="http://www.kayak.pt/" lang="pt" hreflang="pt-PT">
+                                  <div class="flag pt"></div>
+                  <div class="countryname pt">Portugal</div>
+              </a>
+            </div>
+                                <div class="clearfix">
+                
+                                                    <a href="http://www.kayak.ch/" lang="de" hreflang="de-CH">
+                                  <div class="flag ch"></div>
+                  <div class="countryname ch">Schweiz</div>
+              </a>
+            </div>
+                                <div class="clearfix">
+                
+                                                    <a href="http://www.kayak.sg/" lang="en" hreflang="en-SG">
+                                  <div class="flag sg"></div>
+                  <div class="countryname sg">Singapore</div>
+              </a>
+            </div>
+                                <div class="clearfix">
+                
+                                                    <a href="http://www.fi.kayak.com/" lang="fi" hreflang="fi-FI">
+                                  <div class="flag fi"></div>
+                  <div class="countryname fi">Suomi</div>
+              </a>
+            </div>
+                                <div class="clearfix">
+                
+                                                    <a href="http://www.kayak.se/" lang="sv" hreflang="sv-SE">
+                                  <div class="flag se"></div>
+                  <div class="countryname se">Sverige</div>
+              </a>
+            </div>
+                                <div class="clearfix">
+                
+                                                    <a href="http://www.kayak.com.tr/" lang="tr" hreflang="tr-TR">
+                                  <div class="flag tr"></div>
+                  <div class="countryname tr">Türkiye</div>
+              </a>
+            </div>
+                                            <div class="clearfix">
+                
+                                                    <a href="http://www.kayak.com/" lang="en" hreflang="en-US">
+                                  <div class="flag us"></div>
+                  <div class="countryname us">United States</div>
+              </a>
+            </div>
+                                <div class="clearfix">
+                
+                                                    <a href="http://www.gr.kayak.com/" lang="el" hreflang="el-GR">
+                                  <div class="flag gr"></div>
+                  <div class="countryname gr">Ελλάδα</div>
+              </a>
+            </div>
+                                <div class="clearfix">
+                
+                                                    <a href="http://www.kayak.ru/" lang="ru" hreflang="ru-RU">
+                                  <div class="flag ru"></div>
+                  <div class="countryname ru">Россия</div>
+              </a>
+            </div>
+                                <div class="clearfix">
+                
+                                                    <a href="http://www.tw.kayak.com/" lang="zh" hreflang="zh-TW">
+                                  <div class="flag tw"></div>
+                  <div class="countryname tw">台湾</div>
+              </a>
+            </div>
+            </div>
+
+<div id="currencies">
+    <span class="menuheader">Choose currency...</span>
+
+        
+                                <a href="javascript:setCurrency('EUR')">
+            <span>€</span>
+            <span>EUR</span>
+
+            <div class="clear"></div>
+        </a>
+                            <a href="javascript:setCurrency('USD')">
+            <span>$</span>
+            <span>USD</span>
+
+            <div class="clear"></div>
+        </a>
+                            <a href="javascript:setCurrency('AUD')">
+            <span>$</span>
+            <span>AUD</span>
+
+            <div class="clear"></div>
+        </a>
+                            <a href="javascript:setCurrency('CAD')">
+            <span>$</span>
+            <span>CAD</span>
+
+            <div class="clear"></div>
+        </a>
+            
+    <a id="morecurrencieslink">
+        <span><img style="vertical-align:middle" src="/v697190/images/a-left-arrow.gif"></span>
+        <span>more...</span>
+    </a>
+    
+    
+        <div id="morecurrencies" class="morecurrencies">
+        <table cellpadding="0" cellspacing="0" class="currencytable" style="width:100%;padding-bottom:5px">
+            <tbody><tr>
+                <th colspan="3">Choose currency...</th>
+            </tr>
+            
+                                                                                <tr>
+                                        <td onclick="javascript:setCurrency('AED')">
+                        <span>AED</span>
+                        <span>AED</span>
+                    </td>
+                                    
+                                
+                                                                                                    <td onclick="javascript:setCurrency('HUF')">
+                        <span>Ft</span>
+                        <span>HUF</span>
+                    </td>
+                                    
+                                
+                                                                                                    <td onclick="javascript:setCurrency('PLN')">
+                        <span>zł</span>
+                        <span>PLN</span>
+                    </td>
+                                        </tr>
+                                    
+                                
+                                                                                                    <tr>
+                                        <td onclick="javascript:setCurrency('ARS')">
+                        <span>$</span>
+                        <span>ARS</span>
+                    </td>
+                                    
+                                
+                                                                                                    <td onclick="javascript:setCurrency('IDR')">
+                        <span>Rp</span>
+                        <span>IDR</span>
+                    </td>
+                                    
+                                
+                                                                                                    <td onclick="javascript:setCurrency('RON')">
+                        <span>lei</span>
+                        <span>RON</span>
+                    </td>
+                                        </tr>
+                                    
+                                
+                                                                                                    <tr>
+                                        <td onclick="javascript:setCurrency('AUD')">
+                        <span>$</span>
+                        <span>AUD</span>
+                    </td>
+                                    
+                                
+                                                                                                    <td onclick="javascript:setCurrency('ILS')">
+                        <span>₪</span>
+                        <span>ILS</span>
+                    </td>
+                                    
+                                
+                                                                                                    <td onclick="javascript:setCurrency('RUB')">
+                        <span>р.</span>
+                        <span>RUB</span>
+                    </td>
+                                        </tr>
+                                    
+                                
+                                                                                                    <tr>
+                                        <td onclick="javascript:setCurrency('BDT')">
+                        <span>Tk</span>
+                        <span>BDT</span>
+                    </td>
+                                    
+                                
+                                                                                                    <td onclick="javascript:setCurrency('INR')">
+                        <span>Rs.</span>
+                        <span>INR</span>
+                    </td>
+                                    
+                                
+                                                                                                    <td onclick="javascript:setCurrency('SAR')">
+                        <span>﷼</span>
+                        <span>SAR</span>
+                    </td>
+                                        </tr>
+                                    
+                                
+                                                                                                    <tr>
+                                        <td onclick="javascript:setCurrency('BRL')">
+                        <span>R$</span>
+                        <span>BRL</span>
+                    </td>
+                                    
+                                
+                                                                                                    <td onclick="javascript:setCurrency('ISK')">
+                        <span>kr</span>
+                        <span>ISK</span>
+                    </td>
+                                    
+                                
+                                                                                                    <td onclick="javascript:setCurrency('SEK')">
+                        <span>kr</span>
+                        <span>SEK</span>
+                    </td>
+                                        </tr>
+                                    
+                                
+                                                                                                    <tr>
+                                        <td onclick="javascript:setCurrency('CAD')">
+                        <span>$</span>
+                        <span>CAD</span>
+                    </td>
+                                    
+                                
+                                                                                                    <td onclick="javascript:setCurrency('JMD')">
+                        <span>$</span>
+                        <span>JMD</span>
+                    </td>
+                                    
+                                
+                                                                                                    <td onclick="javascript:setCurrency('SGD')">
+                        <span>$</span>
+                        <span>SGD</span>
+                    </td>
+                                        </tr>
+                                    
+                                
+                                                                                                    <tr>
+                                        <td onclick="javascript:setCurrency('CHF')">
+                        <span>SFr.</span>
+                        <span>CHF</span>
+                    </td>
+                                    
+                                
+                                                                                                    <td onclick="javascript:setCurrency('JPY')">
+                        <span>¥</span>
+                        <span>JPY</span>
+                    </td>
+                                    
+                                
+                                                                                                    <td onclick="javascript:setCurrency('SKK')">
+                        <span>Sk</span>
+                        <span>SKK</span>
+                    </td>
+                                        </tr>
+                                    
+                                
+                                                                                                    <tr>
+                                        <td onclick="javascript:setCurrency('CLP')">
+                        <span>$</span>
+                        <span>CLP</span>
+                    </td>
+                                    
+                                
+                                                                                                    <td onclick="javascript:setCurrency('KRW')">
+                        <span>₩</span>
+                        <span>KRW</span>
+                    </td>
+                                    
+                                
+                                                                                                    <td onclick="javascript:setCurrency('THB')">
+                        <span>฿</span>
+                        <span>THB</span>
+                    </td>
+                                        </tr>
+                                    
+                                
+                                                                                                    <tr>
+                                        <td onclick="javascript:setCurrency('CNY')">
+                        <span>元</span>
+                        <span>CNY</span>
+                    </td>
+                                    
+                                
+                                                                                                    <td onclick="javascript:setCurrency('LTL')">
+                        <span>Lt</span>
+                        <span>LTL</span>
+                    </td>
+                                    
+                                
+                                                                                                    <td onclick="javascript:setCurrency('TRY')">
+                        <span>TL</span>
+                        <span>TRY</span>
+                    </td>
+                                        </tr>
+                                    
+                                
+                                                                                                    <tr>
+                                        <td onclick="javascript:setCurrency('CZK')">
+                        <span>Kč</span>
+                        <span>CZK</span>
+                    </td>
+                                    
+                                
+                                                                                                    <td onclick="javascript:setCurrency('MXN')">
+                        <span>$</span>
+                        <span>MXN</span>
+                    </td>
+                                    
+                                
+                                                                                                    <td onclick="javascript:setCurrency('TWD')">
+                        <span>元</span>
+                        <span>TWD</span>
+                    </td>
+                                        </tr>
+                                    
+                                
+                                                                                                    <tr>
+                                        <td onclick="javascript:setCurrency('DKK')">
+                        <span>kr</span>
+                        <span>DKK</span>
+                    </td>
+                                    
+                                
+                                                                                                    <td onclick="javascript:setCurrency('MYR')">
+                        <span>M$</span>
+                        <span>MYR</span>
+                    </td>
+                                    
+                                
+                                                                                                    <td onclick="javascript:setCurrency('UAH')">
+                        <span>грн.</span>
+                        <span>UAH</span>
+                    </td>
+                                        </tr>
+                                    
+                                
+                                                                                                    <tr>
+                                        <td onclick="javascript:setCurrency('EGP')">
+                        <span>£</span>
+                        <span>EGP</span>
+                    </td>
+                                    
+                                
+                                                                                                    <td onclick="javascript:setCurrency('NOK')">
+                        <span>kr</span>
+                        <span>NOK</span>
+                    </td>
+                                    
+                                
+                                                                                                    <td onclick="javascript:setCurrency('USD')">
+                        <span>$</span>
+                        <span>USD</span>
+                    </td>
+                                        </tr>
+                                    
+                                
+                                                                                                    <tr>
+                                        <td onclick="javascript:setCurrency('EUR')">
+                        <span>€</span>
+                        <span>EUR</span>
+                    </td>
+                                    
+                                
+                                                                                                    <td onclick="javascript:setCurrency('NZD')">
+                        <span>$</span>
+                        <span>NZD</span>
+                    </td>
+                                    
+                                
+                                                                                                    <td onclick="javascript:setCurrency('ZAR')">
+                        <span>R</span>
+                        <span>ZAR</span>
+                    </td>
+                                        </tr>
+                                    
+                                
+                                                                                                    <tr>
+                                        <td onclick="javascript:setCurrency('FJD')">
+                        <span>$</span>
+                        <span>FJD</span>
+                    </td>
+                                    
+                                
+                                                                                                    <td onclick="javascript:setCurrency('PHP')">
+                        <span>₱</span>
+                        <span>PHP</span>
+                    </td>
+                                    
+                                
+                                                    </tr>
+
+                                                                                                        <tr>
+                                        <td onclick="javascript:setCurrency('HKD')">
+                        <span>$</span>
+                        <span>HKD</span>
+                    </td>
+                                    
+                                
+                                                                                                    <td onclick="javascript:setCurrency('PKR')">
+                        <span>₨</span>
+                        <span>PKR</span>
+                    </td>
+                                    
+                                
+                                                    </tr>
+
+                                                        </tbody></table>
     </div>
 </div>
+
+<script>
+    var _mouseincurmenu = false, _mouseoncurmenulink = false;
+
+    function initCountryCurMenu() {
+        jq("#countrypickerlink").click(loadCCCpicker);
+        jq("#countrypickerlink2").click(loadCCCpicker);
+    }
+
+    function showMoreCurMenu() {
+        if (_mouseoncurmenulink) {
+            jq("#morecurrencies")
+                    .show()
+                    .position({
+                        my:"right",
+                        at:"left",
+                        of:"#morecurrencieslink",
+                        offset:"6 0",
+                        collision:"fit"
+                    });
+        }
+    }
+
+    function initMoreCurMenu() {
+        jq("#morecurrencieslink").hover(function () {
+            _mouseoncurmenulink = true;
+            setTimeout(showMoreCurMenu, 100);
+        }, function () {
+            _mouseoncurmenulink = false;
+        });
+
+        jq("#morecurrencies").hover(function () {
+            _mouseincurmenu = true;
+        }, function () {
+            _mouseincurmenu = false;
+        });
+    }
+
+    function setCurrency(cur, defaultcur) {
+        hideCCCpicker();
+
+        var mydata = {newcurrency:cur};
+        if (typeof defaultcur !== 'undefined') {
+            mydata.defaultcur = defaultcur;
+        }
+                jq.ajax({
+            type:"POST",
+            url:"/k/run/currencysetter/setcurrency",
+            data:mydata,
+            dataType:"html",
+            success:function (html) {
+                var form = jq(html);
+                if (form.text() !== "") {
+                    form.find("button").button();
+                    // IE7 calculated the width wrong. There was a
+                    // white line going through the button so we had to set the width
+                                        form.find("#saveCurrency").click(function () {
+                        saveCurrency(cur, true);
+                    });
+                    form.find("#setCurrency").click(function () {
+                        if (typeof defaultcur === 'undefined') {
+                            saveCurrency(cur, false);
+                        } else {
+                            saveCurrency(defaultcur, false);
+                        }
+                    });
+                    form.find("#currencysignup").click(function () {
+                        jq(form).r9dialog("close");
+                        AjaxReg.ui.register(function () {
+                            saveCurrency(cur, true);
+                        });
+                    });
+                    jq(form).r9dialog();
+                } else {
+                    if (typeof defaultcur !== 'undefined') {
+                        saveCurrency(defaultcur, false);
+                    } else {
+                        saveCurrency(cur, false);
+                    }
+                }
+            }
+        });
+            }
+
+    </script>
+
+
+                </div>
+            </span>
+        </span>
+    </span>
 </div>
-    <table width="100%" class="seoCorpTable">
-        <tbody><tr>
-            <td class="leftcol" valign="top">
-                <div class="seoWidget topWidget sidebox">
+                                    <div class="searchsummaryholder">
+                            </div>
+        </div>
+    </div>     <div id="headerspace" style="height: 10px;"></div>
+<div id="bd" class="bd cityguide charm seoWidget corpPages">
+    <div class="contentWithLeftNavPage">
+        <div class="hidden"><div class="crumbs">
+    <div class="crumbsinner">
+                                            <span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://www.kayak.co.uk" itemprop="url"><span itemprop="title">Home</span></a></span><span class="divider">&nbsp;»</span>
+                                                <span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/about" itemprop="url"><span itemprop="title">About Us</span></a></span><span class="divider">&nbsp;»</span>
+                                                <span>Privacy Policy</span>
+                        </div>
+</div>
+</div>
+        <table width="100%" class="seoCorpTable">
+            <tbody><tr>
+                <td class="leftcol" valign="top">
+                    <div class="seoWidget topWidget sidebox">
     <div id="" class="seoWidgetHeaderSquare corpTitle"><div><table style="width:100%"><tbody><tr><td class="seoWidgetHeaderCell"><h2>KAYAK Users</h2></td></tr></tbody></table></div></div>
 
     <div class="seoWidgetContent corpPages fdsearchnav">
@@ -179,7 +935,7 @@ R9.extend('ccfeecalculator', {
                 <a href="/about/help">Help with KAYAK</a>
             </li>
             <li class="popular clearfix ">
-                <a href="/contact">Contact</a>
+                <a href="/contact">Locations</a>
             </li>
             <li class="popular clearfix ">
                 <a href="/team">Team</a>
@@ -187,17 +943,17 @@ R9.extend('ccfeecalculator', {
             <li class="popular clearfix ">
                     <a class="follow" href="/follow">Follow</a>
             </li>
-            <li class="popular clearfix ">
+                        <li class="popular clearfix ">
                 <a href="/news">Blog</a>
             </li>
-                        <li class="popular clearfix ">
-                <a href="traveltips">Traveltips</a>
+                                    <li class="popular clearfix ">
+                <a href="/traveltips">Traveltips</a>
             </li>
                     </ul>
     </div>
 </div>
 
-                <div class="seoWidget innerWidget sidebox">
+                    <div class="seoWidget innerWidget sidebox">
     <div id="" class="seoWidgetHeaderSquare corpTitle"><div><table style="width:100%"><tbody><tr><td class="seoWidgetHeaderCell"><h2>Press &amp; Investors</h2></td></tr></tbody></table></div></div>
 
     <div class="seoWidgetContent corpPages fdsearchnav">
@@ -205,11 +961,11 @@ R9.extend('ccfeecalculator', {
             <li class="popular clearfix ">
                 <a href="/press-contact">Inquiries</a>
             </li>
-        </ul>
+                    </ul>
     </div>
 </div>
 
-                <div class="seoWidget innerWidget sidebox">
+                    <div class="seoWidget innerWidget sidebox">
     <div id="" class="seoWidgetHeaderSquare corpTitle"><div><table style="width:100%"><tbody><tr><td class="seoWidgetHeaderCell"><h2>Partners</h2></td></tr></tbody></table></div></div>
 
     <div class="seoWidgetContent corpPages fdsearchnav">
@@ -218,14 +974,14 @@ R9.extend('ccfeecalculator', {
                 <a href="/hotelowner">Hotel Owners</a>
             </li>
             <li class="popular clearfix ">
-                <a href="/partners-contact">Partners Contact</a>
+                <a href="/partners-contact">Other</a>
             </li>
         </ul>
     </div>
 </div>
 
- 
-                <div class="seoWidget bottomWidget sidebox">
+
+                    <div class="seoWidget bottomWidget sidebox">
     <div id="" class="seoWidgetHeaderSquare corpTitle"><div><table style="width:100%"><tbody><tr><td class="seoWidgetHeaderCell"><h2>Mumbo Jumbo</h2></td></tr></tbody></table></div></div>
 
     <div class="seoWidgetContent corpPages fdsearchnav">
@@ -233,7 +989,10 @@ R9.extend('ccfeecalculator', {
             <li class="popular clearfix  navselected ">
                 <a href="/privacy">Privacy Policy</a>
             </li>
-            <li class="popular clearfix ">
+                        <li class="popular clearfix ">
+                <a href="/impressum">Legal notice</a>
+            </li>
+                        <li class="popular clearfix ">
                 <a href="/terms-of-use">Terms &amp; Conditions</a>
             </li>
                             <li class="popular"><a href="/privacy#cookies">Cookie Policy</a></li>
@@ -241,11 +1000,11 @@ R9.extend('ccfeecalculator', {
     </div>
     <div class="seoWidgetFooter"><div></div></div>
 </div>
- 
-            </td>
-            <td class="centercol" width="738px" valign="top">
-                <div class="seoWidget articledetail innerWidget">
-        
+
+                </td>
+                <td class="centercol" valign="top">
+                    <div class="seoWidget articledetail innerWidget">
+    
             <div id="" class="seoWidgetHeader corpContentTitle ">
     <div>
         <table width="100%">
@@ -261,29 +1020,38 @@ R9.extend('ccfeecalculator', {
                 <hr class="section-separator">
     <div class="seoWidgetContent">
         <div class="blogstory corparticle ">
-                            <p style="text-align:right"> <i>Effective as of 8 March 2013</i></p>
+                            <p style="text-align:right"> <i>Effective as of 1 July 2013</i></p>
 <div class="article-section first-section">
-<p>Our goal is to make KAYAK the most trusted site in online travel. To do this, we need your help, so any suggestions for improvement can be sent to us directly via the privacy feedback form. </p>
-<p>KAYAK is a search engine that saves you time and money. We search the web for the best fares and rates. Registration on KAYAK is strictly voluntary. You do get some cool information and access to certain great features if you do register, but membership is not necessary to get our great rates and fares.</p>
+<p>
+<a href="#cookies">Cookies</a>
+</p>
+<p>Our goal is to make KAYAK the most trusted site in online travel. To do this, we need your help, so any suggestions for improvement can be sent to us directly via the feedback form.</p>
+<p>KAYAK is a search engine that saves you time and money. We search the web for the best fares and rates. Registration on KAYAK is strictly voluntary. You do get some cool information and access to certain great features if you do register, but membership is not necessary to get our great rates and fares. If you choose to book via our site, you will need to provide us with certain personal information.</p>
 </div>
 
 <div class="article-section">
 <h3>1. What's Your Sign?</h3>
-<p>KAYAK collects personal information (<b>"Personal Data"</b>) to provide you with its search engine services and send you targeted email marketing messages. This includes (at your discretion) your name, email address, password and certain parts of the travel information you submit when you choose to use the KAYAK Trips service (the <b>"Trips Service"</b>). If you do decide to give us this information, you are telling us that this information is both true and accurate. Also, you are telling us that you have the authorisation to provide us with that information. Our software uses the Personal Data to personalise and manage the KAYAK website for you. For example, our site stores your favourite airport and airlines. Also, the Trips Service software uses Personal Data to create and maintain your travel itineraries.</p>
-<p>In order to make our site more efficient, we may also collect certain Personal Data (such as destination, your favourite airport and airlines, your travel itineraries and site usage behaviour) based on your use of KAYAK. We may use this information to personalise and manage the KAYAK site for you, to display advertising that you find interesting and suppress advertising that you might find boring or annoying. For example, we might show you travel offers from your home airport, but not those from airports that are other places in the country.</p>
-<p>To help us debug problems with our software (rare as they are), we may collect some technical information from your browser software (such as Mozilla Firefox or Internet Explorer), screen resolution and the website that referred you to us.  We may also use cookies to operate our site and provide the Trips Service to you.  For more information, please see "Cookies, Not the Kind You Eat With Milk".</p>
+<p>KAYAK collects personal information ("Personal Data") to provide you with its services. The categories of Personal Data collected depend on the services you are using and the information you provide to us. </p>
+<p>If you only perform searches on the site without being logged in, we will collect your IP address, access times, duration of visit and referring URL to track usage of our site.</p>
+<p>In order to make our site more efficient, we may also collect certain Personal Data (such as destination, your favourite airport and airlines, your travel itineraries and site usage behaviour) based on your use of KAYAK. We may use this information to personalise and manage the KAYAK site for you, to display advertising that you find interesting and suppress advertising that you might find boring or annoying. For example, we might show you travel offers from your home airport, but not those from airports that are in other places in that country.</p>
+<p>To help us debug problems with our software (rare as they are), we may collect some technical information from your browser software (such as Mozilla Firefox or Internet Explorer), screen resolution and the website that referred you to us. We may also use cookies to operate our site and provide the My Trips Service to you. For more information, please see "Cookies, Not the Kind You Eat With Milk".</p>
+<p>If you register, we will also collect your email address, password and home airport, and other information you provide us with, at your discretion, at the time of registration or later on, such as your name (e.g. as part of your email address) and your preferences. We will collect your search history so you can easily repeat your searches. </p>
+<p>If you choose KAYAK personal trip management service (the “My Trips Service”), you authorise us to collect your travel information in order to create and maintain your travel itineraries. We will also collect the confirmation emails you forward us, which may include Personal Data such as your name, address, birth date, passport number and more. </p>
+<p>If you choose to book via KAYAK with a travel agent, your name, travel dates, destination, itinerary, supplier (airline, hotel etc.), passport number, email address, telephone number, credit card information and billing address may be necessary to process your booking. You authorise us to process your Personal Data and forward it to the travel agent named on the booking page. You can also choose to store your credit card information and other Personal Data in your user account to facilitate future bookings.</p>
+<p>If you do decide to give us any of this information, you are telling us that this information is true, current and accurate. </p>
+
 </div>
 
 <div class="article-section">
 <h3>2. We'll Keep You In The Loop</h3>
-<p>When you choose to register with us, KAYAK logs you in automatically using your email address. This makes it easier for you as you don't have to create and remember a login identifier. The use of your email address for login also allows KAYAK the chance to email you a new password in case you forget or lose your old one. This is perfectly OK and happens to the best of us, particularly those of us who are incredibly busy. If you do register with us, KAYAK will save your information and recognise you regardless of where you login from. So if you are visiting friends and using their computer, we'll know it's you and display your searches and preferences when you do login.</p>
-<p>When you register with us, KAYAK gives you the option of receiving emails from us, which may include information about our goods and services or those of other companies. We think they are useful to you, but you may not and can opt out any time. Our emails are sent from a KAYAK address and are sent to your real email address. If you are a registered user and send email booking confirmations to our Trips Service, we will recognize you. If you've never registered on KAYAK and you send us email booking confirmations, we'll send you an email asking you to register. We'll also send you an email if you send us your email booking confirmations but we are unable to recognize the travel provider or otherwise to create your consolidated itinerary. Every email that we send has an opt-out URL, so you can be unsubscribed when you want. We do hate spam at KAYAK and suspect that you do too.</p>
+<p>When you choose to register with us, KAYAK logs you in automatically using your email address. This makes it easier for you as you don't have to create and remember a login identifier. The use of your email address for login also allows KAYAK the chance to email you a new password in case you forget or lose your old one. This is perfectly OK and happens to the best of us, particularly those of us who are incredibly busy. If you do register with us, KAYAK will save your information and recognise you regardless of where you log in from. So if you are visiting friends and using their computer, we'll know it's you and display your searches and preferences when you do log in.</p>
 </div>
 
 <div class="article-section">
 <h3>3. In This Case Sharing Is Not Caring</h3>
-<p>What's yours is yours. We won't sell your Personal Data to anyone. There might be an exception in the event KAYAK itself is sold. In this case we would transfer your Personal Data to our buyers so that they could continue to provide the same great KAYAK service. Also, if you use the Trips Service, you can send, or grant access to, your itinerary to your friends and family. If you select an itinerary to be displayed on publicly viewable web pages, that travel information can be collected and used by others.</p>
-<p>However, we do share your Personal Data with certain suppliers that provide services on our behalf and under contractual arrangements with us, and with travel suppliers with whom you book travel products that you find on our site.  We do this in order to operate the site, to provide you with the Trips Service and to enable travel suppliers to fulfil your travel reservations.  For example, we may share your Personal Data with travel suppliers who fulfil your travel reservations and with other service providers that help us to operate the site by, for example, providing website hosting, visitor analytics, or online advertising.  We only let these service providers use your Personal Data as necessary to perform their functions and we require them at all times to keep your Personal Data safe and secure.  If you want more details about the service providers we use and how they may use your Personal Data, you can request this information by contacting us at <script>kmail("privacy")</script>.</p>
+<p>What's yours is yours. We won't sell your Personal Data to anyone. There might be an exception in the event KAYAK itself is sold. In this case we would transfer your Personal Data to our buyers so that they could continue to provide the same great KAYAK service. Also, if you use the My Trips Service, you can send, or grant access to, your itinerary and your Personal Data to your friends and family, or anyone you choose. Granting access to your My Trips itinerary could provide the recipient with enough information, such as booking reference codes, to cancel or modify your booking or perform other mischief. So think twice about whom you want to share your itinerary with! By linking the My Trips Service with your Facebook account, your itinerary may be shared on your Facebook wall depending on your Facebook settings. If you select an itinerary to be displayed on publicly viewable web pages, that travel information can be collected and used by others. Please also read the detailed My Trips FAQ.</p>
+<p>However, we do share your Personal Data with certain suppliers that provide services on our behalf and under contractual arrangements with us. We do this in order to operate the site, including providing you with the My Trips Service. For example, we may share your Personal Data with service providers that help us to operate the site by, for example, providing website hosting, visitor analytics, or online advertising. We only let these service providers use your Personal Data as necessary to perform their functions and we require them at all times to keep your Personal Data safe and secure. If you want more details about the service providers we use and how they may use your Personal Data, you can request this information by contacting us at <script>kmail("privacy")</script>.</p>
+<p>If you choose to book via KAYAK, you authorise us to forward your Personal Data, including payment information, to the travel agents and travel suppliers with whom you book travel products in order to enable them to process and fulfil your travel reservations. The name of the travel agent you are booking with is provided on the booking page. If you buy travel insurance via the KAYAK site, you authorise us to forward your Personal Data to the insurance provider. Your Personal Data will be processed by these third parties in accordance with their privacy policies.</p>
 <p>From time to time, we will also share aggregated usage information with others. This type of information does not contain your identity or anything personally identifiable to you.</p>
 </div>
 
@@ -294,41 +1062,42 @@ R9.extend('ccfeecalculator', {
 
 <div class="article-section">
 <h3>5. You Are The Boss</h3>
-<p>KAYAK members and site visitors have control over the use of their Personal Data. Since you are the boss on KAYAK, you always can change your account settings in the "My Account" pages on KAYAK. How does it feel to be such a big shot? Furthermore, you can always delete your account <a href="/zap" target="_blank">here</a>.</p>
+<p>KAYAK members and site visitors have control over the use of their Personal Data. Since you are the boss on KAYAK, you always can change your account settings in the "My Account" pages on KAYAK. Furthermore, you can always delete your account <a href="/zap" target="_blank">here</a>. How does it feel to be such a big shot?</p>
 </div>
 
 <div class="article-section">
 <h3>6. Protecting Your Information</h3>
-<p>KAYAK has a sophisticated security program intended to keep the information stored in our systems protected from unauthorised access. We store your information in secure data centres located in the United States and in Switzerland. Our systems are configured with data encryption, or scrambling technologies and firewalls constructed to the highest industry standards. We also use Secure Socket Layer (SSL) technology that protects the data you send over the Internet. Third party security firms review our internal security policies and documentation regularly. The bottom line is, when it comes to information security, we mean business, whether your Personal Data is in the UK or the US.</p>
-<p>As your Personal Data may therefore be transferred outside of the EU, by using our services you understand that your information may be transferred to us and those of third parties with whom we share it as described in this Policy.  Please note that the data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to ensure that your privacy is protected.</p>
+<p>KAYAK has a sophisticated security program intended to keep the information stored in our systems protected from unauthorised access. We store your information in secure data centres located in the United States and in Switzerland. Our systems are configured with data encryption, or scrambling technologies and firewalls constructed to the highest industry standards. We also use Secure Socket Layer (SSL) technology that protects the data you send over the Internet. Third party security firms review our internal security policies and documentation regularly. Personal Data may only be accessed by persons within our organisations, or our third party vendors, who require such access to carry out the purposes indicated in this Privacy Policy. The bottom line is, when it comes to information security, we mean business, whether your Personal Data is in the UK, Switzerland or the US.</p>
+<p>Your Personal Data will therefore be transferred outside of the EU, and by using our services you agree to such transfer. Please note that the data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to ensure that your privacy is protected.</p>
 </div>
 
 <div class="article-section">
 <a name="cookies"></a>
 <h3>7. Cookies (Not The Kind You Eat With Milk)</h3>
-<p>When you visit KAYAK we may store information about your web session and assign you one or more 'cookies'. Your browser will store these cookies on you computer in a small text file.</p>
-<p>There are two broad categories of cookies - 'first party cookies' and 'third party cookies'.  First party cookies are cookies that are served directly by the website operator to your computer and are used only by the website operator to recognise your computer when it revisits that site.  Third party cookies are served by a service provider on behalf of the website operator and can be used by the service provider to recognise your computer when it visits other websites.  Third party cookies are most commonly used for website analytics or advertising purposes.</p>
+<p>When you visit KAYAK we may store information about your web session and assign you one or more 'cookies'. Your browser will store these cookies on your computer in a small text file.</p>
+<p>There are two broad categories of cookies - 'first party cookies' and 'third party cookies'. First party cookies are cookies that are served directly by the website operator to your computer and are used only by the website operator to recognise your computer when it revisits that site. Third party cookies are served by a service provider on behalf of the website operator and can be used by the service provider to recognise your computer when it visits other websites. Third party cookies are most commonly used for website analytics or advertising purposes.</p>
 <p>KAYAK uses first and third party cookies for the following general purposes:</p>
-<p>(i) To help us recognise your browser as a previous visitor and save and remember any preferences that may have been set while your browser was visiting out site. For example, if you register on our site, we may use cookies to remember your login information, so you do not need to log into our site each time you visit. Please note that member IDs, passwords, and any other account-related data included in such cookies are encrypted for security purposes. Unless you register with us, these cookies will not contain any personal information.  The cookies described in this bullet point are first party cookies.</p>
+<p>(i) To help us recognise your browser as a previous visitor and save and remember any preferences that may have been set while your browser was visiting our site. For example, if you register on our site, we may use cookies to remember your login information, so you do not need to log into our site each time you visit. Please note that member IDs, passwords, and any other account-related data included in such cookies are encrypted for security purposes. Unless you register with us, these cookies will not contain any personal information. The cookies described in this bullet point are first party cookies.</p>
 <p>(ii) To help us provide targeted advertisements and content to you through our site. For example, when you access a page on our site, our third party advertising partners (including Bluekai, which you can opt out of <a href="http://www.bluekai.com/consumers_optout.php">here</a>) will set a cookie to recognise your browser as you navigate the Internet and present you with targeted advertising based on your interests.  The cookies described in this bullet point are third party cookies. To learn more about targeted advertising and how you can accept or refuse these type of advertisements, we recommend that you visit <a href="http://www.youronlinechoices.eu">www.youronlinechoices.eu</a> and <a href="http://www.aboutads.info/choices">www.aboutads.info/choices</a>.</p>
-<p>(iii) To help improve our website offering and for capacity planning purposes, we or our third party service providers may set analytics cookies.  These allow us to gather aggregated or segmented information about the types of visitors that access our site and the pages and advertisements that they view, and we do not use this information to personally identify any individual. The cookies described in this bullet point may be first or third party cookies.</p>
+<p>(iii) To help improve our website offering and for capacity planning purposes, we or our third party service providers may set analytics cookies. These allow us to gather aggregated or segmented information about the types of visitors that access our site and the pages and advertisements that they view, and we do not use this information to personally identify any individual. The cookies described in this bullet point may be first or third party cookies.</p>
 <p>You have the right to choose whether or not to accept cookies. As the means by which you can do this varies from browser to browser, you should view the Help menu on the browser you use for further information.  The Help menu on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.  You can also find information about how to control cookies on the third party resource <a href="http://www.allaboutcookies.org">www.allaboutcookies.org</a>.  Please note that certain aspects of our site (including the Trips Service) use cookies in order to function.  If you refuse cookies, these aspects of the site will therefore be unavailable to you.</p>
 <p>KAYAK does make money by selling advertising as well as referrals from searches on our site. Our third party advertising partners often use Web beacons (single pixel GIF images) which are tiny graphics with a unique identifier, similar in function to cookies, that are placed in the code of a Web page to track when a click becomes a sale (cha ching).</p>
 </div>
 
 <div class="article-section">
 <h3>8. Can We Email You Sometime?</h3>
-<p>Except for service announcements, administrative messages and those much-needed emails confirming your registration, providing you with account information, or relating directly to an itinerary or travel profiles created through the Trips Service, we will not send you any emails unless you opt-in to receive communications from us. If you opt-in to receive communications from us, you will receive information we believe will be of use and interest to you, including targeted email marketing messages from us or our third party advertising partners. If you decide that you are no longer interested in receiving email communications from us, you may follow the instructions in our emails to unsubscribe from our email list or opt-out from your My Account pages</p>
+<p>If you register with us, or if you are not a registered user but previously provided us with your email address, we will retain your email address to send you service announcements, administrative messages and those much needed emails confirming your registration, providing you with account information, or relating directly to an itinerary or travel profiles created through the My Trips Service. Oh, and if you've never registered on KAYAK and you send us email booking confirmations, we'll send you an email asking you to register so that you can use the My Trips Service. </p>
+<p>We will not send you other emails unless you opt-in to receive communications from us. If you opt-in to receive communications from us, you will receive information we believe will be of use and interest to you, including targeted email marketing messages from us or our third party advertising partners. If you decide that you are no longer interested in receiving email communications from us, you may follow the instructions in our emails to unsubscribe from our email list or opt-out from your My Account pages. We do hate spam at KAYAK and suspect that you do too.</p>
 </div>
 
 <div class="article-section">
 <h3>9. Every Website Has Its Own Voice and Policies</h3>
-<p>Although we work with responsible third parties, their business policies may include different privacy policies and practices than we have. So when you click through to third party websites, our privacy policies no longer apply. We encourage you to read the privacy policies of these partner websites.</p>
+<p>Although we work with responsible third parties, their business policies may include different privacy policies and practices than we have. So when you click through to third party websites, our privacy policies do not apply there. We encourage you to read the privacy policies of these partner websites.</p>
 </div>
 
 <div class="article-section">
 <h3>10. Big Kids Only Please</h3>
-<p>KAYAK does not knowingly collect Personal Data from people under the age of 18. If we become aware of the fact that a minor is attempting to submit this information, we will remove it from our records.</p>
+<p>KAYAK does not knowingly collect Personal Data from minors. If we become aware of the fact that a minor is attempting to submit this information, we will remove it from our records. If you are the parent/legal guardian of a minor who has given us Personal Data, you may contact us to delete it.</p>
 </div>
 
 <div class="article-section">
@@ -338,73 +1107,60 @@ R9.extend('ccfeecalculator', {
 
 <div class="article-section">
 <h3>12.  Right to Information/Rectification</h3>
-<p>You are entitled at any time and without any fee to obtain information about all your personal data that we store. Also, you can at any time withdraw your consent to the use of the data that you have given when the data were collected. In addition, you can always demand the deletion and the rectification of your data. However, statutory provisions, especially such regarding technical accounting and bookkeeping purposes, may prohibit such a deletion. In order to revoke your consent to the use of data, to obtain information or to demand a rectification, blocking or deletion, please contact:</p>
+<p>You are entitled at any time and without any fee to obtain information about all your Personal Data that we store. Also, you can at any time withdraw your consent to the use of the data that you gave when the data was collected. In addition, you can always demand the deletion and the rectification of your data. However, statutory provisions, especially such regarding technical accounting and bookkeeping purposes, may prohibit such a deletion. In order to revoke your consent to the use of data, to obtain information or to demand a rectification, blocking or deletion, please contact:</p>
 <p><script>kmail("privacy")</script></p>
 <p>Or in writing to:</p>
-<p>KAYAK Europe GmbH<br>
-C/O Privacy Officer<br>
+<p>KAYAK Europe LLC<br>
+attn Privacy Officer<br>
 Fraumünsterstrasse 16<br>
 8001 Zürich<br>
 Switzerland</p>
-<p>Last updated: 8 March 2013</p>
-</div>    
+<p>Kayak Europe LLC is the controller of your Personal Data.</p>
+</div>
                     </div>
     </div>
     <div class="seoWidgetFooter"><div></div></div>
 </div>
- 
-            </td>
-        </tr>
-    </tbody></table>
+
+                </td>
+            </tr>
+        </tbody></table>
+    </div>
 </div>
 
-    <div style="clear: both;"></div>
-
-
+    <div id="ft">
     <div id="commonfooter" class="frontdoorfooter">
-
-        
-        <span id="footerMenu">
-        
-    <span class="copyright">
+        	
+<span id="footerMenu">
+	        <a id="aboutus-link" class="core" href="/about">About</a>
+    
+        <span class="divider">&nbsp;•&nbsp;</span>
+        <a id="privacy-link" class="core" href="/privacy">Privacy &amp; Cookies</a>
+    
+            
+            
+        <span class="divider">&nbsp;•&nbsp;</span>
+        <a id="help-link" class="core" href="/help" target="_blank">Help</a>
+    
+            
+            
+            
+            
+        	    <span class="copyright">
         ©2013 KAYAK.com
-        <span class="divider">&nbsp;|&nbsp;</span>
     </span>
-        
-    <a id="aboutus-link" class="core" href="https://www.kayak.co.uk/about">About</a>
-    
-    <span class="divider">&nbsp;|&nbsp;</span>
-    <a id="privacy-link" class="core" href="https://www.kayak.co.uk/privacy">Privacy</a>
-
-    <span class="divider">&nbsp;|&nbsp;</span>
-    <a id="help-link" class="core" href="https://www.kayak.co.uk/help" target="_blank">Feedback</a>
-
-    
-    
-    
-        
 </span>
+    
 
-<br>
-                            
-                        
-                            
-        
-        
-        
-                    <div class="footerSEO">
-                                            </div>
-        
-        
-                    <div style="margin-top: 9px;">
-                                    <a class="seoFlag us" href="http://www.kayak.com/privacy" title="Privacy Policy"></a>
-                                    <a class="seoFlag de" href="http://www.kayak.de/privacy" title="Datenschutz"></a>
-                                    <a class="seoFlag fr" href="http://www.kayak.fr/privacy" title="Confidentialité"></a>
-                                    <a class="seoFlag br" href="http://www.kayak.com.br/privacy" title="Política de privacidade"></a>
-                            </div>
-        
-    </div>
 
+    
+
+
+
+
+
+
+    
             
 
 
@@ -418,11 +1174,11 @@ Switzerland</p>
                 <script type="text/javascript" id="econdascript">
         window.emosPageId = "general";
         </script>
-                    <script type="text/javascript" src="/sv595/en/GB/js/emos2.js"></script>
+                    <script type="text/javascript" src="/res/en/GB/js/alien/emos2.js?v=f88d76f049a47177d1899e8ebaac3659a6d188fa"></script>
         <!-- /econda -->
     
-<div style="clear: both;"></div>
-<br>
+    </div>
+</div>
 
 <script>
 jq(window).ready(function() {
@@ -430,7 +1186,7 @@ jq(window).ready(function() {
     ;
 });
 </script>
-</div> 
+
 <div id="fb-root"></div>
 <script type="text/javascript">
     jq(load_facebook_api);
