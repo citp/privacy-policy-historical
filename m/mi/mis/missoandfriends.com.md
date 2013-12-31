@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the missoandfriends.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501041817id_/http%3A//www.missomoms.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missoandfriends.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231074248id_/http%3A//www.missomoms.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Miss O Moms
+# Moms blog privacy statement - Miss O Moms
 
-                                                                                                                                         HD Group, LLC  
-                                                                                                                                          Miss O Moms℠
+Miss O Moms℠  July, 2011
 
-                                                                                                                                             July, 2011
+A Division of HDGroup, LLC  
+                                                                                                                                           
 
 Terms of Service
 
@@ -107,6 +107,8 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google�
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 If you have any questions or concerns about MissOMoms’s Privacy Statement, please contact us: [pbrindak@missoandfriends.com](mailto:pbrindak@missoandfriends.com)
+
+The following two tabs change content below.
 
   * Bio
   * Latest Posts
