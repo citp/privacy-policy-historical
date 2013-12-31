@@ -1,20 +1,509 @@
-<!--The following is the downloaded HTML source of the independent.co.uk privacy policy that was archived on 2013-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130624025457id_/http%3A//www.independent.co.uk/service/privacy-policy-759574.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the independent.co.uk privacy policy that was archived on 2013-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131231044654id_/http%3A//www.independent.co.uk/service/privacy-policy-759574.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><head>
-<link rel="stylesheet" type="text/css" href="/independent.co.uk/assets/css/overwrite.css?ver=1q">
-<link rel="stylesheet" type="text/css" href="/independent.co.uk/editorial/commercial/newsletter/ebooks/css/ebooks_mods.css?ver=2m">
+<link rel="stylesheet" type="text/css" href="/independent.co.uk/assets/css/overwrite_redesign.css">
+<link rel="stylesheet" type="text/css" href="/independent.co.uk/editorial/commercial/newsletter/ebooks/css/ebooks_mods.css?ver=1a">
+<link rel="stylesheet" type="text/css" href="/independent.co.uk/assets/css/gallery.css">
 <style type="text/css">
 /* PLEASE ADD YOUR INLINE STYLES HERE ELSE ... */
-/* Page peel ad fix */
-.promoAndLeaderboard.x940 {position:relative;overflow:visible;}
-#header {overflow:visible !important;}
-/* FB Send button */
-.fb_iframe_widget iframe {z-index:99999;}
+/*elephant appeal tweaks */
+.topExternalLinks ul li:first-child a {color: #f8bb01 !important; font-weight:bold !important;}
+.intro .clhdBrightYellow {background: #f8bb01;
+position: absolute;top:0px;left: 0;padding: 3px 10px;margin-left: 0;color: #fff;font-weight: 800;z-index: 999;text-transform:uppercase;}
+/* view our picture galleries right hand column 300px wide */
+#picGal .ivPromo-title-logo {display:none !important;}
+#picGal .ivPromo-title {background-color: black !important; width:300px !important;}
+#picGal .ivPromo-title-text { width: 100% !important; padding: 5px 10px !important;}
+#picGal .ivPromo-title-text p { font-family: Open Sans !important;
+font-weight: normal !important;
+color: red !important;
+font-size: 15px !important;
+margin: 0;
+text-transform: uppercase !important;
+}
+#picGal .mini-carouselConrtainer .textArea .heading a {
+font-family: Open Sans !important;
+font-size: 15px !important;
+font-color:red !important;
+}
+#picGal .mini-carouselConrtainer .fullWidth {width:300px !important;}
+/* independent images homepage carousel 620px wide */
+#picGal620 .container {width:620px !important; height:425px !important;}
+#picGal620 .ivPromo-title-logo {display:none !important;}
+#picGal620 .ivPromo-title {display:none !important;}
+#picGal620 .ivPromo-title-text { width: 620px !important; padding: 5px 10px !important;}
+#picGal620 .ivPromo-title-text p { font-family: Open Sans !important;
+color: #b80000! important;
+font-size: 15px !important;
+margin: 0;
+font-weight: normal !important;
+text-transform: uppercase !important;
+}
+#picGal620 .mini-carouselConrtainer .textArea .heading a {
+font-family: Open Sans !important;
+font-size: 15px !important;
+font-color:#b80000 !important;
+}
+#picGal620 .mini-carouselConrtainer .fullWidth {width:620px !important;}
+#picGal620 .mini-carouselConrtainer .textAreaBg {width:620px !important;}
+/*
+#picGal620 .ivPromo.w380 .ivPromo-miniCarousel {
+height:425px !important;}
+#picGal620 .ivPromo .ivPromo-miniCarousel {
+height:425px !important;} */
+#picGal620 .ivPromo-miniCarousel {
+height:425px !important;}
+#picGal620 .mini-carouselConrtainer .fullWidth .textArea {width:600px !important;}
+#picGal .ivPromo-title-text p a {
+font-family: Open Sans !important;
+font-weight: normal !important;
+color: red !important;
+font-size: 15px !important;
+margin: 0;
+text-transform: uppercase !important;
+}
+#picGal .ivPromo-title-text p a:hover {text-decoration: underline !important;}
+/* story content widget styling for minus margin due to in article google widget */
+#content #main #googleadInpage, #content #main .googleadInpage {margin-top:0px!important;margin-bottom:0px!important;padding-top:2px!important;}
+#content #main #googleadInpage ul, #content #main .googleadInpage ul {margin-top:-10px;}
+#content #main #googleadInpage ul li , #content #main .googleadInpage ul li {padding: 6px 0!important;border-bottom: 1px solid #d6d6d6!important;margin:0;}
+#content #main #googleadInpage ul li:last-child, #content #main .googleadInpage ul li:last-child {border-bottom:none!important;}
+#content #main #googleadInpage ul li a:nth-of-type(2), #content #main .googleadInpage ul li a:nth-of-type(2), #page .googlead ul li a:nth-of-type(2) {margin-top:0px!important;font-size: 10px!important;color:#005689!important;}
+#page .googlead ul li {border-bottom: 1px solid #d6d6d6!important;}
+#page .googlead ul li:last-child {border-bottom:none!important;}
+#content #main .googlead > a {text-transform:none!important;}
+#content #main #googleadInpage {border-top:none!important;border-bottom:none!important;}
+.widget.ad.googlead {background:#F8F8F8;);padding: 8px!important;}
+.widget.storyContent.article.articleContent {margin-top:-12px!important;}
+.widget.storyContent.article.articleContent.voicesArticleLayout {margin-top:0px!important;}
+/* Skyscraper background colour fix */
+.ad div.skyscraper {background:#fff!important;}
+/* outbrain thumbnail link colour */
+.AR_4 .strip-rec-link-title.ob-tcolor {color: #005689!important;}
+/* travel widget background colour change */
+.tm_cta a, .tm_cta a:hover {color:#fff!important;}
+#ashesLauncher {
+margin: 0 10px 0px 10px !important;
+width: 210px; margin-bottom: 10px !important;}
+.article #main .storyContent .body a, .article #main .storyContent .storyTop a {color: #005689!important;border-bottom: none;}
+.article #main .storyContent .body a:hover , .article #main .storyContent .storyTop a:hover {text-decoration:underline!important;color: #005689!important;}
+/* Voices hot topics align fix */
+.voices .tagLabel {left: 197px!important;}
+.voices .tagNames {left: 263px!important;width: 677px;}
+/* reinstate strapline */
+.strapLine {padding:0px!important;margin:0px!important;}
+.strapLine h2.strapline {border:none;margin-bottom: 6px;padding: 4px 0 5px 0;display:block!important;border-bottom:1px solid #cdcdcd;}
+/* min height for OB video middle col widget due to slow/non loading states */
+.obVideo {min-height:50px!important;}
+/*
+Debate Comment Widget specific CSS
+*/
+.voicesDualComment .title, .voicesDualComment .submit input{background: url("/skins/ind/voices/gfx/debate-comment-bg.png") no-repeat scroll left bottom black;color: white;float: left;font-family: league gothic;-webkit-font-smoothing: antialiased;font-size: 25px;height: 30px;letter-spacing: 1px;padding: 4px 16px 4px 50px;text-transform: uppercase;}
+.voicesDualComment .postCommentWrapper{float:left;clear:both;width:100%;padding: 15px 0;background: #f5f5f5;}
+.voicesDualComment .postCommentWrapper .for, .voicesDualComment .postCommentWrapper .against{float:left; height:145px; margin-left:4%; width:43%;}
+.voicesDualComment .or{background: url("/skins/ind/voices/gfx/or-bg.png") no-repeat; width:44px; height:43px; float:left;margin:50px 0 0 6px;}
+.voicesDualComment .postCommentWrapper .against{float:right; margin:0 4% 0 0;}
+.voicesDualComment .postCommentWrapper .txtHolder {width: 370px;height: 115px;background: white;padding: 15px;}
+.voicesDualComment .postCommentWrapper textarea{resize:none;border:none; background:#ffffff; width:100%; height:100%;font-size: 1.1em;font-family: georgia;font-style: italic;line-height: 1.5em;}
+.voicesDualComment .error {float: left;margin: 10px 0 0 5px;color: red;font-size: 1.2em;}
+.voicesDualComment .submit{float:right;margin-right:5%;}
+.voicesDualComment .submit input{cursor: pointer;height:38px;padding:4px 55px 4px 10px;border:none; background: url("/skins/ind/voices/gfx/debate-comment2-bg.png") no-repeat scroll right bottom black;}
+.voicesDualComment .separator{float:left;height:21px;background:url("/skins/ind/voices/gfx/debate-separator.png") no-repeat left bottom #e0e0e0; width:95%;}
+.voicesDualComment #debateCommentStream_postCommentFor{overflow: auto;background: url("/skins/ind/voices/gfx/for-bg.jpg") no-repeat 50% 50% #ffffff;}
+.debateTextareaActive{background-image:none !important;}
+.voicesDualComment #debateCommentStream_postCommentAgainst{overflow: auto;background: url("/skins/ind/voices/gfx/against-bg.jpg") no-repeat 50% 50% #ffffff;}
+.voicesDualComment .postComment{width:100%;float:left;margin-bottom:30px;}
+.voicesDualComment .commentHeader, .voicesSingleComment .commentHeader{font-weight:normal;background: url("/skins/ind/voices/gfx/debate-heading-bg.png") no-repeat scroll right 0 black;color: white;font-family: league gothic;-webkit-font-smoothing: antialiased;font-size: 20px;float:left; padding: 0 70px 0 0; height:30px;letter-spacing: 1px;text-transform: uppercase;margin:0;}
+.voicesDualComment .commentHeader span, .voicesSingleComment .commentHeader span {float: left;padding: 4px 0 2px 10px;}
+.voicesDualComment .commentHeader .commentNumber, .voicesSingleComment .commentHeader .commentNumber {background: none repeat scroll 0 0 #FE521B;padding: 4px 10px 2px;}
+.voicesDualComment .commentCount, .voicesSingleComment .commentCount {border-bottom: 1px solid #FE521B;float: left;width: 100%;margin-bottom: 15px;}
+.voicesDualComment .comments, .voicesSingleComment .comments {float: left;width: 48%;}
+.voicesDualComment .comments.for{border-right:3px solid #fe521b; padding:0 15px 40px 0;}
+.voicesDualComment .comments.against {float: left; border-left:3px solid #fe521b; padding:0 0 40px 15px; margin-left:-3px;}
+.voicesDualComment .senderNameAndTime, .voicesSingleComment .senderNameAndTime{float:left;font-weight:bold;}
+.voicesDualComment .senderName, .voicesSingleComment .senderName{color:#fe521b;background:url("/skins/ind/voices/gfx/debate-sender-bg.png") no-repeat right 1px; padding: 0 10px 0 0;text-transform: uppercase;font: italic 1.2em league gothic;-webkit-font-smoothing:antialiased;}
+.voicesDualComment .senderTime, .voicesSingleComment .senderTime{color:#444444;font-size:0.8em;}
+.voicesDualComment .debate-commentData-header, .voicesSingleComment .single-commentData-header{border-bottom:1px solid #CCC;float:left;width:100%;}
+.voicesDualComment .debate-commentData-header .flag, .voicesSingleComment .single-commentData-header .flag{float:right;margin-right:4px;}
+.voicesDualComment .debate-commentData-header .flag a, .voicesSingleComment .single-commentData-header .flag a{background:url("/skins/ind/voices/gfx/flag-db-comment.png") no-repeat right bottom;display: block;width:15px;height:18px;}
+.voicesDualComment .commentBody, .voicesSingleComment .commentBody{word-wrap: break-word;border-bottom:1px solid #CCC;float:left;width:100%;padding:7px 0;margin-bottom:15px;font-size: 1.1em;line-height: 1.3em;}
+.voicesDualComment .commentImage, .voicesSingleComment .commentImage{float:left;}
+.voicesDualComment img, .voicesSingleComment .img{border:none;}
+.voicesDualComment .commentAside, .voicesSingleComment .commentAside{float:right;width:85%;}
+.voicesDualComment .commentBlock, .voicesSingleComment .commentBlock{float:left;width:100%;border-bottom: 5px solid #cccccc;padding:15px 0;}
+.voicesDualComment .vote-buttons, .voicesSingleComment .vote-buttons{float:right;background:#fe521b;border-bottom:1px solid #000000; color:#ffffff; padding:2px 0;}
+.voicesDualComment .vote-buttons .vote-pos, .voicesDualComment .vote-buttons .vote-score, .voicesDualComment .vote-buttons .vote-neg, .voicesSingleComment .vote-buttons .vote-pos, .voicesSingleComment .vote-buttons .vote-score, .voicesSingleComment .vote-buttons .vote-neg{float:left;padding:0 7px;font-size:1.2em;}
+.voicesDualComment .vote-buttons .vote-pos a, .voicesDualComment .vote-buttons .vote-neg a, .voicesSingleComment .vote-buttons .vote-pos a, .voicesSingleComment .vote-buttons .vote-neg a {color:#ffffff;}
+.voicesDualComment .vote-buttons .vote-pos, .voicesDualComment .vote-buttons .vote-score, .voicesSingleComment .vote-buttons .vote-pos, .voicesSingleComment .vote-buttons .vote-score{border-right:1px solid #000000;}
+.voicesDualComment .readMore{clear:both; text-align:center;}
+.voicesDualComment .readMore a {background: #fe521b;padding: 1px 30px;color: #fff;display: inline-block;text-transform: uppercase;font-style: italic;font-family: league gothic;-webkit-font-smoothing: antialiased;font-size: 20px;letter-spacing: 1px;}
+/*
+Single Comment Widget specific CSS
+*/
+.voicesSingleComment .commentImage{width:50px; margin-right:10px;position: absolute;left: 0;top: 15px;}
+.voicesSingleComment.widget{width: 100%; position:relative; padding-top:6px; margin-top:20px; float:left;}
+.voicesSingleComment.widget img{border:none;}
+.voicesSingleComment .comments{width:100%;}
+.voicesSingleComment .commentCount{margin-bottom:36px;}
+.voicesSingleComment .commentsLogo {width: 70px;height: 70px;position: absolute;right: 0;top: 0;}
+.voicesSingleComment .share, .voicesDualComment .share{float:right;}
+.voicesSingleComment .custom-twitter-share-button, .voicesDualComment .custom-twitter-share-button{margin-right:5px; background: url("/skins/ind/voices/gfx/tweet-comments.png") no-repeat; width:18px; height:18px; float:left;}
+.voicesSingleComment .facebook-share-button, .voicesDualComment .facebook-share-button{margin-right:5px; background: url("/skins/ind/voices/gfx/facebook-icon.png") no-repeat; width:18px; height:18px; float:left;}
+.voicesSingleComment .reply{float:left;}
+.voicesSingleComment .reply-form{clear:both;}
+.voicesSingleComment .reply-form form{clear:both; position:relative;padding-top:10px;}
+.voicesSingleComment .close-replyform{cursor: pointer;background: url("/skins/ind/voices/gfx/close_reply_icon.png") no-repeat;width:15px; height:15px; position:absolute;top:15px; right:10px;}
+.voicesSingleComment .reply a {background: url("/skins/ind/voices/gfx/reply-bg.png") no-repeat right bottom #FE521B;color: white;font-family: league gothic;-webkit-font-smoothing: antialiased;letter-spacing: 1px;padding: 4px 34px 3px 10px;font-size:14px;text-transform: uppercase;}
+.voicesSingleComment .replies{margin-left: 50px; width:auto;}
+.voicesSingleComment .replies .commentBlock{border-top:5px solid #cccccc; border-bottom:none; margin: 15px 0 -15px 0;}
+.voicesSingleComment .commentAside{width:90%; float:left; padding: 0 0 0 60px;}
+.voicesSingleComment .postCommentWrapper .for{padding:5px;width: auto;float: none;color: #4D4D4D;position: static;text-align: left;vertical-align: baseline;}
+.voicesSingleComment .postCommentWrapper{border-radius: 3px;margin: 0 0 5px;zoom: 1;hasLayout: true;background-color: white;border: 1px solid silver;height: 88px;box-shadow: inset 0 0 4px gainsboro;-moz-box-shadow: inset 0 0 4px #DCDCDC;-webkit-box-shadow: inset 0 0 4px gainsboro;}
+.voicesSingleComment .postCommentWrapper .for textarea{width:100%;overflow: auto;word-wrap: break-word;zoom: 1;hasLayout: true;height: 78px;padding: 0px;resize: none;border: none;}
+.voicesSingleComment .submit input, .voicesSingleComment .login input{line-height: 20px;font-weight: bold;font-size: 12px;padding: 0 10px;float: right;border-radius: 3px;cursor: pointer;border: 1px solid #C5C7C7;box-shadow: 0 0 2px RGBA(0,0,0,0.15);
+-webkit-box-shadow: 0 0 2px RGBA(0,0,0,0.15);-moz-box-shadow: 0 0 2px RGBA(0,0,0,0.15);background: white;filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#FFFFFF", endColorstr="#EAEBEB");
+background: -webkit-gradient(linear, left top, left bottom, from(white), to(#EAEBEB));background: -moz-linear-gradient(top, white, #EAEBEB);}
+.voicesSingleComment .login input{float:left;}
+.voicesSingleComment .submit input:hover, .voicesSingleComment .login input:hover{background: #EAEBEB;filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#EAEBEB", endColorstr="#FFFFFF");background: -webkit-gradient(linear, left top, left bottom, from(#EAEBEB), to(white));background: -moz-linear-gradient(top, #EAEBEB, white);}
+.voicesSingleComment .formContainer {clear: both;}
+.voicesSingleComment .formContainer .avatar {margin: 0 10px 10px 0;float: left;width: 50px;height: 50px;}
+.voicesSingleComment .formContainer .title{margin-bottom:10px; padding-top:2px;}
+.voicesSingleComment .formContainer form {clear: both;margin-top: 10px;}
+.voicesSingleComment .readMore{width: 100%;text-align: center;background: #FE521B;clear: both;margin-top: 30px;float: left;}
+.voicesSingleComment .readMore a {width:100%;color: white;font-style: italic;text-transform: uppercase;font-family: league gothic;-webkit-font-smoothing: antialiased;font-size: 1.5em;float: left;letter-spacing: 1px;}
+.voicesSingleComment .readMore a:hover{color:black;}
+.voicesSingleComment #replyText {width: 100%;}
+.voicesSingleComment .replies .commentAside {width: 89%;}
+.voicesSingleComment .replies .replies .commentAside {width: 88%;}
+.voicesSingleComment .replies .replies .replies .commentAside {width: 87%;}
+.voicesSingleComment .replies .replies .reply {display: none;}
+.voicesSingleComment .replies .replies .replies .replies .commentAside {width: 86%;}
+.voicesSingleComment .commentBlock {position: relative;}
+#commentReference{float:left;}
+.voicesDualComment h1 {font-weight: bold;margin-bottom: 30px;font-size: 2.5em;}
+.voices-read-more {color: #FE521B;font-family: league gothic;text-transform: uppercase;-webkit-font-smoothing: antialiased;font-style: italic;}
+.voices-read-more:hover {color: #FE521B;border-bottom: 1px dotted #FE521B;}
+.deleteComment {float: right;margin-right: 4px;margin-top: 2px;}
+.deleteCommentIcon {background: url("/skins/ind/voices/gfx/close_reply_icon.png") no-repeat;width: 15px;height: 15px; display:block;}
+div.relative.commentsCount {position:relative; margin-left:5px;}
+/*IND-ES1023 (Formatting Comments)*/
+.comment-formatting-btns {list-style: none; overflow: hidden; margin: 0 0 3px 0;}
+.comment-formatting-btns .formatting-btn {background: url("/skins/ind/voices/gfx/comment-formatting.png") no-repeat left center #fff; border: 1px solid #ccc; float: left; height: 20px; text-indent: -99em; width: 22px; margin: 0 2px 0 0;}
+.comment-formatting-btns .formatting-btn[data-btn="bold"] {background-position: -1px center;}
+.comment-formatting-btns .formatting-btn[data-btn="italic"] {background-position: -25px center;}
+.comment-formatting-btns .formatting-btn[data-btn="blockquote"] {background-position: -73px center;}
+.comment-formatting-btns .formatting-btn[data-btn="anchor"] {background-position: -49px center;}
+.comment-formatting-btn-link {width:295px !important;height:30px !important;}
+.comment-formatting-btn-link input {width:220px;}
+.ui-widget-content.formatting-btn-link-overlay {width: 325px !important;}
+.ui-dialog.formatting-btn-link-overlay .ui-dialog-buttonpane {width: 325px !important;}
+#singleCommentHeader ul.sorting-controls.hide {display: none;}
+#singleCommentHeader ul.sorting-controls {height:30px;list-style:none;clear:both;border-bottom: 1px solid #F54E2E;}
+#singleCommentHeader ul.sorting-controls li {float: left;padding-right: 5px;background: url("/skins/ind/images/tabs-border-v.png") no-repeat right top;}
+#singleCommentHeader ul.sorting-controls li.oldest {background: url("/skins/ind/images/third-tab-border-v.png") no-repeat right top;padding-right:31px;height:30px;}
+#singleCommentHeader ul.sorting-controls li a.active {color: #F54E2E;padding-bottom: 1px;border: 1px solid #f54e26;border-bottom: 0px none;background: #fff;}
+#singleCommentHeader ul.sorting-controls li a {padding: 3px 15px 1px 15px;font-size: 21px;font-family: league gothic;-webkit-font-smoothing:antialiased;color: white;font-weight: normal;display: block;background: #f54e2e;text-transform: uppercase;}
+#singleCommentHeader .comments .loading {position:relative;left:50%;top:20px;margin: 0 0 200px 0;}
+.voicesSingleComment .readMore a {color:#fff!important;font-style:normal!important;}
+/*IND-ES1023 (Formatting Comments)*/
+/* Gigya comments - students #980051 */
+.voicesSingleComment.student .commentCount {border-bottom: 1px solid #980051!important;}
+.voicesSingleComment.student .commentsLogo {display:none;}
+.voicesSingleComment.student .commentHeader {background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/students/debate-heading-bg.png") no-repeat scroll right 0 black; }
+.voicesSingleComment.student #singleCommentHeader ul {padding-left:0px;}
+.voicesSingleComment.student .commentHeader .commentNumber {background: none repeat scroll 0 0 #980051;}
+.voicesSingleComment.student #singleCommentHeader ul.sorting-controls {border-bottom: 1px solid #980051;}
+.voicesSingleComment.student #singleCommentHeader ul.sorting-controls li a {background: #980051;}
+.voicesSingleComment.student #singleCommentHeader ul.sorting-controls li a.active {color: #980051;border: 1px solid #980051;background:#fff!important;border-bottom:none!important;}
+.voicesSingleComment.student .reply a {background:url("/skins/ind/voices/gfx/reply-bg.png") no-repeat right bottom #980051!important;color: white!important;}
+.voicesSingleComment.student .vote-buttons {background: #980051;}
+.voicesSingleComment.student .vote-buttons .vote-pos a, .voicesSingleComment.student .vote-buttons .vote-neg a {color:#fff!important;}
+.voicesSingleComment.student .vote-buttons .vote-pos a:hover, .voicesSingleComment.student .vote-buttons .vote-neg a:hover {color:#fff!important;}
+.voicesSingleComment.student #singleCommentHeader ul.sorting-controls li {background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/students/tabs-border-v.png") no-repeat right top;}
+.voicesSingleComment.student #singleCommentHeader ul.sorting-controls li.oldest {background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/students/third-tab-border-v.png") no-repeat right top;}
+.voicesSingleComment.student .readMore {background:#980051!important;}
+/* Gigya comments - indyBest #0084b4 */
+.voicesSingleComment.indyBest .commentCount {border-bottom: 1px solid #0084b4!important;}
+.voicesSingleComment.indyBest .commentsLogo {display:none;}
+.voicesSingleComment.indyBest .commentHeader {background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/indybest/debate-heading-bg.png") no-repeat scroll right 0 black; }
+.voicesSingleComment.indyBest #singleCommentHeader ul {padding-left:0px;}
+.voicesSingleComment.indyBest .commentHeader .commentNumber {background: none repeat scroll 0 0 #0084b4;}
+.voicesSingleComment.indyBest #singleCommentHeader ul.sorting-controls {border-bottom: 1px solid #0084b4;}
+.voicesSingleComment.indyBest #singleCommentHeader ul.sorting-controls li a {background: #0084b4;}
+.voicesSingleComment.indyBest #singleCommentHeader ul.sorting-controls li a.active {color: #0084b4;border: 1px solid #0084b4;background:#fff!important;border-bottom:none!important;}
+.voicesSingleComment.indyBest .reply a {background:url("/skins/ind/voices/gfx/reply-bg.png") no-repeat right bottom #0084b4!important;color: white!important;}
+.voicesSingleComment.indyBest .vote-buttons {background: #0084b4;}
+.voicesSingleComment.indyBest .vote-buttons .vote-pos a, .voicesSingleComment.indyBest .vote-buttons .vote-neg a {color:#fff!important;}
+.voicesSingleComment.indyBest .vote-buttons .vote-pos a:hover, .voicesSingleComment.indyBest .vote-buttons .vote-neg a:hover {color:#fff!important;}
+.voicesSingleComment.indyBest #singleCommentHeader ul.sorting-controls li {background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/indybest/tabs-border-v.png") no-repeat right top;}
+.voicesSingleComment.student #singleCommentHeader ul.sorting-controls li.oldest {background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/indybest/third-tab-border-v.png") no-repeat right top;}
+.voicesSingleComment.indyBest .readMore {background:#0084b4!important;}
+/* Gigya comments - Money #3b5998 */
+.voicesSingleComment.money .commentCount {border-bottom: 1px solid #3b5998!important;}
+.voicesSingleComment.money .commentsLogo {display:none;}
+.voicesSingleComment.money .commentHeader {background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/money/debate-heading-bg.png") no-repeat scroll right 0 black; }
+.voicesSingleComment.money #singleCommentHeader ul {padding-left:0px;}
+.voicesSingleComment.money .commentHeader .commentNumber {background: none repeat scroll 0 0 #3b5998;}
+.voicesSingleComment.money #singleCommentHeader ul.sorting-controls {border-bottom: 1px solid #3b5998;}
+.voicesSingleComment.money #singleCommentHeader ul.sorting-controls li a {background: #3b5998;}
+.voicesSingleComment.money #singleCommentHeader ul.sorting-controls li a.active {color: #3b5998;border: 1px solid #3b5998;background:#fff!important;border-bottom:none!important;}
+.voicesSingleComment.money .reply a {background:url("/skins/ind/voices/gfx/reply-bg.png") no-repeat right bottom #3b5998!important;color: white!important;}
+.voicesSingleComment.money .vote-buttons {background: #3b5998;}
+.voicesSingleComment.money .vote-buttons .vote-pos a, .voicesSingleComment.money .vote-buttons .vote-neg a {color:#fff!important;}
+.voicesSingleComment.money .vote-buttons .vote-pos a:hover, .voicesSingleComment.money .vote-buttons .vote-neg a:hover {color:#fff!important;}
+.voicesSingleComment.money #singleCommentHeader ul.sorting-controls li {background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/money/tabs-border-v.png") no-repeat right top;}
+.voicesSingleComment.money #singleCommentHeader ul.sorting-controls li.oldest {background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/money/third-tab-border-v.png") no-repeat right top;}
+.voicesSingleComment.money .readMore {background:#3b5998!important;}
+/* Gigya comments - Travel #ff851b */
+.voicesSingleComment.travel .commentCount {border-bottom: 1px solid #ff851b!important;}
+.voicesSingleComment.travel .commentsLogo {display:none;}
+.voicesSingleComment.travel .commentHeader {background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/travel/debate-heading-bg.png") no-repeat scroll right 0 black; }
+.voicesSingleComment.travel #singleCommentHeader ul {padding-left:0px;}
+.voicesSingleComment.travel .commentHeader .commentNumber {background: none repeat scroll 0 0 #ff851b;}
+.voicesSingleComment.travel #singleCommentHeader ul.sorting-controls {border-bottom: 1px solid #ff851b;}
+.voicesSingleComment.travel #singleCommentHeader ul.sorting-controls li a {background: #ff851b;}
+.voicesSingleComment.travel #singleCommentHeader ul.sorting-controls li a.active {color: #ff851b;border: 1px solid #ff851b;background:#fff!important;border-bottom:none!important;}
+.voicesSingleComment.travel .reply a {background:url("/skins/ind/voices/gfx/reply-bg.png") no-repeat right bottom #ff851b!important;color: white!important;}
+.voicesSingleComment.travel .vote-buttons {background: #ff851b;}
+.voicesSingleComment.travel .vote-buttons .vote-pos a, .voicesSingleComment.travel .vote-buttons .vote-neg a {color:#fff!important;}
+.voicesSingleComment.travel .vote-buttons .vote-pos a:hover, .voicesSingleComment.travel .vote-buttons .vote-neg a:hover {color:#fff!important;}
+.voicesSingleComment.travel #singleCommentHeader ul.sorting-controls li {background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/travel/tabs-border-v.png") no-repeat right top;}
+.voicesSingleComment.travel #singleCommentHeader ul.sorting-controls li.oldest {background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/travel/third-tab-border-v.png") no-repeat right top;}
+.voicesSingleComment.travel .readMore {background:#ff851b!important;}
+/* Gigya comments - Arts & Ents #636363 */
+.voicesSingleComment.artsEnts .commentCount {border-bottom: 1px solid #636363!important;}
+.voicesSingleComment.artsEnts .commentsLogo {display:none;}
+.voicesSingleComment.artsEnts .commentHeader {background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/artsents/debate-heading-bg.png") no-repeat scroll right 0 black; }
+.voicesSingleComment.artsEnts #singleCommentHeader ul {padding-left:0px;}
+.voicesSingleComment.artsEnts .commentHeader .commentNumber {background: none repeat scroll 0 0 #636363;}
+.voicesSingleComment.artsEnts #singleCommentHeader ul.sorting-controls {border-bottom: 1px solid #636363;}
+.voicesSingleComment.artsEnts #singleCommentHeader ul.sorting-controls li a {background: #636363;}
+.voicesSingleComment.artsEnts #singleCommentHeader ul.sorting-controls li a.active {color: #636363;border: 1px solid #636363;background:#fff!important;border-bottom:none!important;}
+.voicesSingleComment.artsEnts .reply a {background:url("/skins/ind/voices/gfx/reply-bg.png") no-repeat right bottom #636363!important;color: white!important;}
+.voicesSingleComment.artsEnts .vote-buttons {background: #636363;}
+.voicesSingleComment.artsEnts .vote-buttons .vote-pos a, .voicesSingleComment.artsEnts .vote-buttons .vote-neg a {color:#fff!important;}
+.voicesSingleComment.artsEnts .vote-buttons .vote-pos a:hover, .voicesSingleComment.artsEnts .vote-buttons .vote-neg a:hover {color:#fff!important;}
+.voicesSingleComment.artsEnts #singleCommentHeader ul.sorting-controls li {background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/artsents/tabs-border-v.png") no-repeat right top;}
+.voicesSingleComment.artsEnts #singleCommentHeader ul.sorting-controls li.oldest {background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/artsents/third-tab-border-v.png") no-repeat right top;}
+.voicesSingleComment.artsEnts .readMore {background:#636363!important;}
+/* Gigya comments - Property #660046 */
+.voicesSingleComment.property .commentCount {border-bottom: 1px solid #660046!important;}
+.voicesSingleComment.property .commentsLogo {display:none;}
+.voicesSingleComment.property .commentHeader {background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/property/debate-heading-bg.png") no-repeat scroll right 0 black; }
+.voicesSingleComment.property #singleCommentHeader ul {padding-left:0px;}
+.voicesSingleComment.property .commentHeader .commentNumber {background: none repeat scroll 0 0 #660046;}
+.voicesSingleComment.property #singleCommentHeader ul.sorting-controls {border-bottom: 1px solid #660046;}
+.voicesSingleComment.property #singleCommentHeader ul.sorting-controls li a {background: #660046;}
+.voicesSingleComment.property #singleCommentHeader ul.sorting-controls li a.active {color: #660046;border: 1px solid #660046;background:#fff!important;border-bottom:none!important;}
+.voicesSingleComment.property .reply a {background:url("/skins/ind/voices/gfx/reply-bg.png") no-repeat right bottom #660046!important;color: white!important;}
+.voicesSingleComment.property .vote-buttons {background: #660046;}
+.voicesSingleComment.property .vote-buttons .vote-pos a, .voicesSingleComment.property .vote-buttons .vote-neg a {color:#fff!important;}
+.voicesSingleComment.property .vote-buttons .vote-pos a:hover, .voicesSingleComment.property .vote-buttons .vote-neg a:hover {color:#fff!important;}
+.voicesSingleComment.property #singleCommentHeader ul.sorting-controls li {background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/property/tabs-border-v.png") no-repeat right top;}
+.voicesSingleComment.property #singleCommentHeader ul.sorting-controls li.oldest {background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/property/third-tab-border-v.png") no-repeat right top;}
+.voicesSingleComment.property .readMore {background:#660046!important;}
+/* Gigya comments - Life & Style #660046 */
+.voicesSingleComment.lifeStyle .commentCount {border-bottom: 1px solid #660046!important;}
+.voicesSingleComment.lifeStyle .commentsLogo {display:none;}
+.voicesSingleComment.lifeStyle .commentHeader {background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/lifestyle/debate-heading-bg.png") no-repeat scroll right 0 black; }
+.voicesSingleComment.lifeStyle #singleCommentHeader ul {padding-left:0px;}
+.voicesSingleComment.lifeStyle .commentHeader .commentNumber {background: none repeat scroll 0 0 #660046;}
+.voicesSingleComment.lifeStyle #singleCommentHeader ul.sorting-controls {border-bottom: 1px solid #660046;}
+.voicesSingleComment.lifeStyle #singleCommentHeader ul.sorting-controls li a {background: #660046;}
+.voicesSingleComment.lifeStyle #singleCommentHeader ul.sorting-controls li a.active {color: #660046;border: 1px solid #660046;background:#fff!important;border-bottom:none!important;}
+.voicesSingleComment.lifeStyle .reply a {background:url("/skins/ind/voices/gfx/reply-bg.png") no-repeat right bottom #660046!important;color: white!important;}
+.voicesSingleComment.lifeStyle .vote-buttons {background: #660046;}
+.voicesSingleComment.lifeStyle .vote-buttons .vote-pos a, .voicesSingleComment.lifeStyle .vote-buttons .vote-neg a {color:#fff!important;}
+.voicesSingleComment.lifeStyle .vote-buttons .vote-pos a:hover, .voicesSingleComment.lifeStyle .vote-buttons .vote-neg a:hover {color:#fff!important;}
+.voicesSingleComment.lifeStyle #singleCommentHeader ul.sorting-controls li {background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/lifestyle/tabs-border-v.png") no-repeat right top;}
+.voicesSingleComment.lifeStyle #singleCommentHeader ul.sorting-controls li.oldest {background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/lifestyle/third-tab-border-v.png") no-repeat right top;}
+.voicesSingleComment.lifeStyle .readMore {background:#660046!important;}
+/* Gigya comments - Sport #1d7000 */
+.voicesSingleComment.sport .commentCount {border-bottom: 1px solid #1d7000!important;}
+.voicesSingleComment.sport .commentsLogo {display:none;}
+.voicesSingleComment.sport .commentHeader {background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/sport/debate-heading-bg.png") no-repeat scroll right 0 black; }
+.voicesSingleComment.sport #singleCommentHeader ul {padding-left:0px;}
+.voicesSingleComment.sport .commentHeader .commentNumber {background: none repeat scroll 0 0 #1d7000;}
+.voicesSingleComment.sport #singleCommentHeader ul.sorting-controls {border-bottom: 1px solid #1d7000;}
+.voicesSingleComment.sport #singleCommentHeader ul.sorting-controls li a {background: #1d7000;}
+.voicesSingleComment.sport #singleCommentHeader ul.sorting-controls li a.active {color: #1d7000;border: 1px solid #1d7000;background:#fff!important;border-bottom:none!important;}
+.voicesSingleComment.sport .reply a {background:url("/skins/ind/voices/gfx/reply-bg.png") no-repeat right bottom #1d7000!important;color: white!important;}
+.voicesSingleComment.sport .vote-buttons {background: #1d7000;}
+.voicesSingleComment.sport .vote-buttons .vote-pos a, .voicesSingleComment.sport .vote-buttons .vote-neg a {color:#fff!important;}
+.voicesSingleComment.sport .vote-buttons .vote-pos a:hover, .voicesSingleComment.sport .vote-buttons .vote-neg a:hover {color:#fff!important;}
+.voicesSingleComment.sport #singleCommentHeader ul.sorting-controls li {background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/sport/tabs-border-v.png") no-repeat right top;}
+.voicesSingleComment.sport #singleCommentHeader ul.sorting-controls li.oldest {background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/sport/third-tab-border-v.png") no-repeat right top;}
+.voicesSingleComment.sport .readMore {background:#1d7000!important;}
+/* Gigya comments - News #b80000 */
+.voicesSingleComment.news .commentCount {border-bottom: 1px solid #b80000!important;}
+.voicesSingleComment.news .commentsLogo {display:none;}
+.voicesSingleComment.news .commentHeader {background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/news/debate-heading-bg.png") no-repeat scroll right 0 black; }
+.voicesSingleComment.news #singleCommentHeader ul {padding-left:0px;}
+.voicesSingleComment.news .commentHeader .commentNumber {background: none repeat scroll 0 0 #b80000;}
+.voicesSingleComment.news #singleCommentHeader ul.sorting-controls {border-bottom: 1px solid #b80000;}
+.voicesSingleComment.news #singleCommentHeader ul.sorting-controls li a {background: #b80000;}
+.voicesSingleComment.news #singleCommentHeader ul.sorting-controls li a.active {color: #b80000;border: 1px solid #b80000;background:#fff!important;border-bottom:none!important;}
+.voicesSingleComment.news .reply a {background:url("/skins/ind/voices/gfx/reply-bg.png") no-repeat right bottom #b80000!important;color: white!important;}
+.voicesSingleComment.news .vote-buttons {background: #b80000;}
+.voicesSingleComment.news .vote-buttons .vote-pos a, .voicesSingleComment.news .vote-buttons .vote-neg a {color:#fff!important;}
+.voicesSingleComment.news .vote-buttons .vote-pos a:hover, .voicesSingleComment.news .vote-buttons .vote-neg a:hover {color:#fff!important;}
+.voicesSingleComment.news #singleCommentHeader ul.sorting-controls li {background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/news/tabs-border-v.png") no-repeat right top;}
+.voicesSingleComment.news #singleCommentHeader ul.sorting-controls li.oldest {background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/news/third-tab-border-v.png") no-repeat right top;}
+.voicesSingleComment.news .readMore {background:#b80000!important;}
+/* width fix for comments/replies */
+.voicesSingleComment.student .commentAside, .voicesSingleComment.indyBest .commentAside, .voicesSingleComment.money .commentAside, .voicesSingleComment.travel .commentAside, .voicesSingleComment.artsEnts .commentAside, .voicesSingleComment.property .commentAside, .voicesSingleComment.lifeStyle .commentAside, .voicesSingleComment.sport .commentAside, .voicesSingleComment.news .commentAside {width: 87%;}
+.voicesSingleComment.student .replies .commentAside, .voicesSingleComment.indyBest .replies .commentAside, .voicesSingleComment.money .replies .commentAside, .voicesSingleComment.travel .replies .commentAside, .voicesSingleComment.artsEnts .replies .commentAside, .voicesSingleComment.property .replies .commentAside, .voicesSingleComment.lifeStyle .replies .commentAside, .voicesSingleComment.sport .replies .commentAside, .voicesSingleComment.news .replies .commentAside {width: 85%;}
+.voicesSingleComment.student .replies .replies .commentAside, .voicesSingleComment.indyBest .replies .replies .commentAside, .voicesSingleComment.money .replies .replies .commentAside, .voicesSingleComment.travel .replies .replies .commentAside, .voicesSingleComment.artsEnts .replies .replies .commentAside, .voicesSingleComment.property .replies .replies .commentAside, .voicesSingleComment.lifeStyle .replies .replies .commentAside, .voicesSingleComment.sport .replies .replies .commentAside, .voicesSingleComment.news .replies .replies .commentAside {width: 83%;}
+/* Gigya popup register/login windows */
+.gigya-lightbox-header {
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/login-background-image.png") no-repeat center 10px!important;
+background-size: 500px!important;
+padding-bottom: 15px!important;
+}
+#gigya-regbox .col-header .col-subtitle {
+font-size: 0px!important;
+/*background: url("http://www.independent.co.uk/independent.co.uk/assets/images/redesign/masthead/indy-new-masthead-800x64.png") no-repeat 0px 0px !important;
+background-size: 180px!important;
+display: inline-flex;
+width: 180px;
+height: 14px;
+position: relative;
+top: -12px;*/
+}
+#gigya-regbox .col-header .col-subtitle:after {
+content: "The Independent";
+font-size: 16px;
+color: #000;
+line-height: 16px;
+font-family: Georgia,"Times New Roman",Serif;
+}
+/*gigya most commented widget - hide author name */
+.bylineTextWithCommentCount a.author {display:none !important;}
+/*.topExternalLinks ul li:first-child a {color:#b80000 !important;}*/
+/* Video Hub */
+.video-hub {min-height: initial;;margin:15px 0;}
+.video-hub.player-ctr {width:620px;float:left;margin:0 10px 0 0;padding:0 0 10px 0;}
+.video-hub.player-ctr .published-date {display: block;font-size: 12px;font-weight: bold;margin: 10px 0;}
+.video-hub.player-ctr .description {font-size:14px;}
+.video-hub.related-videos {width:310px;float:left;}
+.video-hub.video-lists-ctr {position: relative;margin:0px 0;padding-top: 19px;border-top: 1px solid #cdcdcd;}
+.video-hub.related-videos-ctr {}
+.video-hub h1 {margin:0;}
+.video-hub h3 {color:#fff;margin:0;background:#b80000;padding:3px 10px;z-index: 88;position: relative;left: 10px;top: 8px;display: inline-block;font-family: 'Open Sans', arial;font-weight: 700;font-size: 12px;}
+.video-hub.related-videos-ctr h3 {
+color: #b80000;
+font-family: 'Open Sans', arial;
+font-weight: 700;
+font-size: 12px;
+background: none;
+padding: 0px;
+margin: 0;
+top: 0;
+left: 0;
+}
+.video-hub.related-videos {list-style:none;margin:0;padding:0;}
+.video-hub.related-videos .video {margin:0 0 7px 0;overflow:hidden;clear:left;}
+.video-hub.related-videos .video .image {float:left;margin:0 7px 0 0;position:relative;}
+.video-hub.related-videos .video .info {float:left;width:213px;}
+.video-hub.related-videos .video .info h5 {margin:0;}
+.video-hub.video-views {font-family:arial;font-size:11px;color:#999;}
+.video-hub.published-date {display:block;margin:2px 0 0 0;font-size:11px;color:#999;font-family:arial;}
+.video-hub.video-time {background-color: #000;position: absolute;right:0;bottom: 4px;font: 11px bold arial;padding: 0 3px;}
+.video-hub.video-lists-ctr .video-list-inner {position:relative;}
+.video-hub.video-lists-ctr h3.news {background:#C52D28;}
+.video-hub.video-lists-ctr h3.sport {background:#4FB02F;}
+.video-hub.video-lists-ctr h3.lifestyle {background:#622A69;}
+.video-hub.video-lists-ctr h3.entertainment {background:#8E9999;}
+.video-hub.video-lists-ctr h3.travel {background:#FA4C4B;}
+.video-hub.video-lists-ctr h3.technology {background:#622A69;}
+.video-hub.video-lists-ctr .more-vid-heading {
+position: absolute;
+right: 1px;
+top: 10px;
+font-family: 'Open Sans', sans-serif;
+font-size: 12px;
+line-height: 12px;
+z-index:99;
+}
+.video-hub.video-lists-ctr .more-vid-heading span a {text-transform:uppercase;font-weight: bold;}
+.video-hub.video-lists-ctr .more-vid-heading span.news a {color:#C52D28!important;}
+.video-hub.video-lists-ctr .more-vid-heading span.sport a {color:#4FB02F!important;}
+.video-hub.video-lists-ctr .more-vid-heading span.lifestyle a {color:#622A69!important;}
+.video-hub.video-lists-ctr .more-vid-heading span.entertainment a {color:#8E9999!important;}
+.video-hub.video-lists-ctr .more-vid-heading span.travel a {color:#FA4C4B!important;}
+.video-hub.video-lists-ctr .more-vid-heading span.technology a {color:#622A69!important;}
+.video-hub .video-list {list-style:none;overflow:hidden;margin:0 0 10px 0;padding:0 0 20px 0;z-index: 9;background-color: #3e3e3e;}
+.video-hub .video-list .video {float:left;width:155px;padding-bottom:10px;height:225px;margin-right:0px;}
+.video-hub .video-list .published-date {display:inline-block;font-size: 11px;}
+.video-hub .video-list .video .image {position: relative;display: block;background-color: #494949;padding: 20px 0 0 0;text-align:center;border-bottom: 1px solid #555;}
+.video-hub .video-list .video .image .video-time {position: relative;top: -94px;right: -43px;color: #fff;font-family: arial;z-index:10;background:#444;padding:1px 3px;}
+.video-hub .video-list .video .info {background-color: #3d3d3d;width: 130px;padding: 10px 9px 0 16px;font-size: 12px;}
+.video-hub .video-list .video .info h5 {padding:0 0 5px 0;overflow: hidden;max-height: 73px;margin:0;}
+.video-hub .video-list .video .info h5 a {color: #fff !important;}
+.related-videos-ctr .related-videos {margin-left:0px;padding-left:0px;}
+.related-videos-ctr .related-videos .video {
+display: block;
+min-height: 92px;
+width: 300px;
+padding: 10px 0;
+border-bottom:1px solid #cdcdcd;
+margin:0;
+}
+.related-videos-ctr .related-videos .video .image img {float:right;}
+.related-videos-ctr .related-videos .video .video-time {position: absolute;right: 0px;background: #444;padding: 1px 3px;color:#fff;font-family:arial;}
+.related-videos-ctr .related-videos .info {width:155px!important;}
+.related-videos-ctr .related-videos .info h5 {margin:0px;}
+.related-videos-ctr .related-videos .info h5 a {display: block;padding: 0px 0px;font-size:15px;width: 155px;}
+.video-list .video .info .published-date {color:#fff;font-size:10px;}
+/*h3*/.browse-videos-ctr-h3 {
+color: #b80000;
+font-family: 'Open Sans', arial;
+font-weight: 700;
+font-size: 12px;
+background: none;
+padding: 0px;
+margin: 0;
+top: 0;
+left: 0;
+}
+/*ul*/.browse-videos-ctr {
+margin: 10px 0 0 0;
+padding:0;
+}
+.browse-videos-ctr li {
+display:block;
+float:left;
+margin:0;
+padding:2px 0;
+list-style:none;
+font-size:12px;
+}
+.browse-videos-ctr li a {
+display:block;
+width:130px;
+}
+.browse-videos-ctr li a:hover {
+text-decoration:underline!important;
+}
+#topicTitleUpper h1 {text-transform:uppercase !important;}
+/* black span tag for environment section */
+.intro .clhdBlack {
+position: absolute;top:0px;left: 0;padding: 3px 10px;margin-left: 0;color: #fff;font-weight: 800;z-index: 999;text-transform:uppercase;}
+.intro .clhdBlack {background: #000000;} /* hide environment span class header in col 1 */
+.column-1 .intro .clhdBlack {display:none;}
 </style>
+<!-- Disable debug option for Galleria so that no errors or warnings are thrown on frontend -->
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" src="http://a.visualrevenue.com/vrs.js"></script><script type="text/javascript" async="" src="https://webservices.sub2tech.com/independent/sub2.js"></script><script type="text/javascript">
+if( typeof Galleria === "function" ) {
+Galleria.configure({
+debug: false // debug is now off for deployment
+});
+}
+</script>
 <!-- Require JS for JavaScript file and module loader -->
-<!-- script src="http://www.independent.co.uk/independent.co.uk/assets/js/require.min.js" data-main="http://www.independent.co.uk/independent.co.uk/assets/js/main"></script -->
-<script async="" type="text/javascript" src="http://publishing.kalooga.com/acct/449.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" src="http://a.visualrevenue.com/vrs.js"></script><script type="text/javascript" src="http://s.ppjol.net/pp.js">{
+<script src="http://www.independent.co.uk/independent.co.uk/assets/js/require.min.js" data-main="http://www.independent.co.uk/independent.co.uk/assets/js/main"></script>
+<script type="text/javascript" src="http://s.ppjol.net/pp.js">{
 'zone':"8rCVcqssYH8Dl2nF5Xl5uU",
 'mode':"meter",
 'debug':0
@@ -23,13 +512,50 @@
 <script type="text/javascript">
 var rsi_segs = []; var segs_beg=document.cookie.indexOf('rsi_segs='); if (segs_beg>=0){ segs_beg=document.cookie.indexOf('=',segs_beg)+1; if(segs_beg>0){ var segs_end=document.cookie.indexOf(';',segs_beg); if(segs_end==-1) segs_end=document.cookie.length; rsi_segs=document.cookie.substring(segs_beg,segs_end) .split('|'); } } var segLen=20; var segQS=""; if (rsi_segs.length<segLen){segLen=rsi_segs.length} for (var i=0;i<segLen;i++){ segQS+=('rsi='+rsi_segs[i]+";") } </script>
 <!-- Criterio -->
-<script type="text/javascript"> function crtg_getCookie(a){var b,c,d,e=document.cookie.split(";");for(b=0;b<e.length;b++){c=e[b].substr(0,e[b].indexOf("="));d=e[b].substr(e[b].indexOf("=")+1);c=c.replace(/^\s+|\s+$/g,"");if(c==a){return unescape(d)}}return""}var crtg_nid="1680";var crtg_cookiename="cto2_independent";var crtg_content=crtg_getCookie(crtg_cookiename);var crtg_rnd=Math.floor(Math.random()*99999999999);var crtg_url="http://rtax.criteo.com/delivery/rta/rta.js?netid="+escape(crtg_nid);crtg_url+="&cookieName="+escape(crtg_cookiename);crtg_url+="&rnd="+crtg_rnd;crtg_url+="&varName=crtg_content";var crtg_script=document.createElement("script");crtg_script.type="text/javascript";crtg_script.src=crtg_url;crtg_script.async=true;if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script) </script><script type="text/javascript" src="http://rtax.criteo.com/delivery/rta/rta.js?netid=1680&amp;cookieName=cto2_independent&amp;rnd=22103274132&amp;varName=crtg_content" async=""></script>
+<script type="text/javascript"> function crtg_getCookie(a){var b,c,d,e=document.cookie.split(";");for(b=0;b<e.length;b++){c=e[b].substr(0,e[b].indexOf("="));d=e[b].substr(e[b].indexOf("=")+1);c=c.replace(/^\s+|\s+$/g,"");if(c==a){return unescape(d)}}return""}var crtg_nid="1680";var crtg_cookiename="cto2_independent";var crtg_content=crtg_getCookie(crtg_cookiename);var crtg_rnd=Math.floor(Math.random()*99999999999);var crtg_url="http://rtax.criteo.com/delivery/rta/rta.js?netid="+escape(crtg_nid);crtg_url+="&cookieName="+escape(crtg_cookiename);crtg_url+="&rnd="+crtg_rnd;crtg_url+="&varName=crtg_content";var crtg_script=document.createElement("script");crtg_script.type="text/javascript";crtg_script.src=crtg_url;crtg_script.async=true;if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script) </script><script type="text/javascript" src="http://rtax.criteo.com/delivery/rta/rta.js?netid=1680&amp;cookieName=cto2_independent&amp;rnd=1834855159&amp;varName=crtg_content" async=""></script>
 <!-- Peer 39 -->
 <script type="text/javascript">
-var p39_ids='';
-function afterFinished_1373() { p39_ids = p39_KVP('p',';');}
+// var p39_ids='';
+// function afterFinished_1373() { p39_ids = p39_KVP('p',';');}
 </script>
-<script id="peer39ScriptLoader type=" text="" javascript"="" src="http://stags.peer39.net/1373/trg_1373.js?ct=c_Independent"></script>
+<!--<script id="peer39ScriptLoader type="text/javascript" src="http://stags.peer39.net/1373/trg_1373.js?ct=c_Independent"></script>-->
+<!-- Quantcast -->
+<script type="text/javascript"> quantSegs="";
+function qc_results(result) {
+for (var i = 0; i < result.segments.length; i++) {
+quantSegs += "qcseg=" + result.segments[i].id + ";"; //customizable per your ad server
+}
+}
+</script>
+<script type="text/javascript" src="http://segapi.quantserve.com/api/segments.json?a=p-jAJ_WUYAnDzxn&amp;callback=qc_results"></script>
+<!--- Sub2 ---->
+<script type="text/javascript">
+var _sub2_JSCODE = document.createElement('script');
+_sub2_JSCODE.type = 'text/javascript';
+_sub2_JSCODE.async = true;
+_sub2_JSCODE.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'webservices.sub2tech.com/independent/sub2.js'
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(_sub2_JSCODE,s);
+function _SUB2_Code() {
+S2Tech_2Prompt(); }
+if( _sub2_JSCODE.readyState ) {
+_sub2_JSCODE.onreadystatechange = function() {
+if ( _sub2_JSCODE.readyState == 'complete' || _sub2_JSCODE.readyState == 'loaded' ) {
+try {
+_SUB2_Code(); }
+catch (e) {}
+}
+};
+}
+else {
+_sub2_JSCODE.onload = function() {
+try {
+_SUB2_Code();
+}
+catch (e) {}
+};
+}
+</script>
 <meta charset="utf-8">
 <link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/jquery-ui-1.8.6.custom.css">
 <link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/escenic-widgets.css">
@@ -89,6 +615,10 @@ var commentCountDataArray = new Array();
 <script type="text/javascript" src="http://www.independent.co.uk/js/voicesCarousel.js"></script>
 <!--[if IE]><script type="text/javascript" src="http://www.independent.co.uk/skins/ind/js/excanvas.js"></script><![endif]-->
 <script type="text/javascript" src="http://www.independent.co.uk/resources/js/init.js"></script>
+<!-- Indy : intialisation call, to be placed only once on the page, before the first ad tag -->
+<script type="text/javascript" language="Javascript"> //<![CDATA[
+var gs_channels="DEFAULT"; document.write('<SCR' + 'IPT type="text/javascript" language="javascript" src="http://dmgt.grapeshot.co.uk/independent/channels.cgi?url=' + escape(top.location.href) + '"></SCR' + 'IPT>'); //]]>
+</script><script type="text/javascript" language="javascript" src="http://dmgt.grapeshot.co.uk/independent/channels.cgi?url=https%3A//web.archive.org/web/20131231044654id_/http%253A//www.independent.co.uk/service/privacy-policy-759574.html"></script>
 <meta property="og:title" content="Privacy policy">
 <meta property="og:type" content="article">
 <meta property="og:image" content="http://www.independent.co.uk/skins/ind/images/eagle_logo.jpg">
@@ -104,7 +634,7 @@ var commentCountDataArray = new Array();
 <title>
 Privacy policy - Service - The Independent
 </title>
-<!-- Release 1.2.46 -->
+<!-- Release 1.2.72 -->
 <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="http://independentnews.disqus.com/embed.js"></script></head>
 <body>
 <script type="text/javascript" src="/js/voicesCommentCount.js"></script>
@@ -139,7 +669,91 @@ height="1" width="1" border="0" alt="" /></a></noscript>
 <div id="viewport">
 <div id="page" class="article ">
 <div id="header">
-<script type="text/javascript"> var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-27212627-1']); _gaq.push(['_setDomainName', '.independent.co.uk']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; //var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+<script type="text/javascript">
+var dartAdjUrl = 'http://ad.doubleclick.net/adj';
+var dartNoScriptJumpUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/jump/';
+var dartNoScriptAdUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/ad/';
+var dartSiteName = '71347885';
+var dartPartnerZoneName = 'indy_indyhome_partners';
+var dartAdSize = '300x150,300x250';
+var dartTile = '';
+var dartOptValue = '';
+var articleId = '6184927';
+var ordValue = '752315727';
+</script>
+<div class="widget ad partner widget-editable viziwyg-section-507 inpage-widget-8453904">
+</div>
+<script type="text/javascript">
+var dartAdjUrl = 'http://ad.doubleclick.net/adj';
+var dartNoScriptJumpUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/jump/';
+var dartNoScriptAdUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/ad/';
+var dartSiteName = '71347885';
+var dartZoneName = '(Core)_The_Independent_UK';
+var dartHomepageZoneName = 'indy_indynews';
+var articleId = '6184927';
+var dartAdSize = '';
+var dartTile = '';
+var dartOptValue = '';
+var ordValue = '752315727';
+</script>
+<div class="widget ad dart widget-editable viziwyg-section-507 inpage-widget-8453901">
+<script type="text/javascript">
+/* Load Utility module */
+require(['modules/utility'], function(utility){
+window.ChannelName = utility.getPageKeywords();
+});
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+googletag.cmd.push(function() {
+var unitName = '/' + dartSiteName + '/' + dartZoneName + '/' + dartHomepageZoneName,
+unitNamePartner = '/' + dartSiteName + '/' + dartZoneName + '/' + dartPartnerZoneName;
+// OutOfPageSlot ad
+googletag.defineOutOfPageSlot(unitName, "outOfPageSlot").addService(googletag.pubads());
+// Leaderboard banner ad
+googletag.defineSlot(unitName, [[468,60],[728, 90],[1,1]], "leaderboard").addService(googletag.pubads()).setTargeting("gs_cat", gs_channels).setTargeting("article", articleId).setTargeting("tile", "leaderboard").setTargeting("crtg_content", crtg_content);
+// 1920x1241 wallpaper ad googletag.defineSlot(unitName, [[1920, 1241],[1,1]], "wallpaper").addService(googletag.pubads()).setTargeting("gs_cat", gs_channels).setTargeting("article", articleId).setTargeting("tile", "wallpaper").setTargeting("crtg_content", crtg_content);
+// Bellyband ad
+googletag.defineSlot(unitName, [[900, 250],[970,250],[900,40],[1,1]], "bellyband").addService(googletag.pubads()).setTargeting("gs_cat", gs_channels).setTargeting("article", articleId).setTargeting("tile", "bellyband").setTargeting("crtg_content", crtg_content);
+// Bellyband or Leaderboard ad
+googletag.defineSlot(unitName, [[900, 250],[970,250],[900,40],[468,60],[728, 90],[1,1]], "bellyband-leaderboard").addService(googletag.pubads()).setTargeting("gs_cat", gs_channels).setTargeting("article", articleId).setTargeting("tile", "bellyband-leaderboard").setTargeting("crtg_content", crtg_content);
+// ATF mpu ad - c.a.gallery.refresh has its own specific mpu call which excludes 300x600 ads, this is within a separate widget, ID9022770
+googletag.defineSlot(unitName, [[300, 250], [300, 600],[1,1]], "mpu").addService(googletag.pubads()).setTargeting("gs_cat", gs_channels).setTargeting("article", articleId).setTargeting("tile", "mpu").setTargeting("crtg_content", crtg_content);
+// Skyscrapper ad
+googletag.defineSlot(unitName, [[120, 600], [160, 600],[1,1]], "skyscrapper").addService(googletag.pubads()).setTargeting("gs_cat", gs_channels).setTargeting("article", articleId).setTargeting("tile", "skyscraper").setTargeting("crtg_content", crtg_content);
+// 622x42_strip
+googletag.defineSlot(unitNamePartner, [622, 42], "622x42_strip").addService(googletag.pubads()).setTargeting("gs_cat", gs_channels).setTargeting("article", articleId).setTargeting("crtg_content", crtg_content);
+// InSkin 8x8 ad
+var fn_pageskin = "no";
+if (screen.width >= 1280) { fn_pageskin = "yes"; }
+googletag.defineSlot(unitName, [8, 8], "inskin8x8").addService(googletag.pubads()).setTargeting("inskin", fn_pageskin).setTargeting("gs_cat", gs_channels).setTargeting("article", articleId).setTargeting("crtg_content", crtg_content);
+// Partner 300x150 ad
+googletag.defineSlot(unitNamePartner, [300, 150], "partnersmall").addService(googletag.pubads()).setTargeting("target", "ps").setTargeting("kw", articleId).setTargeting("ord", ordValue1);
+// Partner 300x250_1 ad
+googletag.defineSlot(unitNamePartner, [300, 250], "partner300x250_1").addService(googletag.pubads()).setTargeting("target", "ps").setTargeting("kw", articleId).setTargeting("ord", ordValue1);
+// Partner 300x250_2 ad
+googletag.defineSlot(unitNamePartner, [300, 250], "partner300x250_2").addService(googletag.pubads()).setTargeting("target", "psmpu2").setTargeting("kw", articleId).setTargeting("ord", ordValue1);
+//googletag.pubads().enableSingleRequest();
+//googletag.pubads().refresh();
+googletag.pubads().collapseEmptyDivs();
+googletag.pubads().enableAsyncRendering();
+googletag.enableServices();
+});
+</script>
+</div>
+<!--Google Analytics -->
+<script type="text/javascript"> var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-27212627-1']); _gaq.push(['_setDomainName', '.independent.co.uk']); _gaq.push(['_trackPageview']); (function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+//var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 var s = document.getElementsByTagName('head')[0]; s.appendChild(ga); })(); </script>
 <!--Visual Revenue Reader Response Tracking Script (v142) -->
 <script type="text/javascript">
@@ -157,30 +771,571 @@ x.parentNode.insertBefore(s, x);
 </script>
 <!-- End of VR RR Tracking Script - All rights reserved -->
 <meta property="twitter:account_id" content="16973333">
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8453966">
+<div id="outOfPageSlot">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.display("outOfPageSlot");
+});
+</script>
+</div>
+</div>
+<div class="x940 bellyBand">
+<div class="column-1">
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8453970">
+<div id="bellyband">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.display("bellyband"); });
+</script>
+</div>
+</div>
+</div>
+</div>
 <div class="x940 linksDateWeather">
 <div class="column-1">
 <div class="widget dateline default widget-editable viziwyg-section-1023 inpage-widget-5054699 topDateTime">
 <ul>
 <li class="current first">
-Monday 24 June 2013
+Tuesday 31 December 2013
 </li>
 </ul>
 </div>
+<div class="widget code jsp widget-editable viziwyg-section-507 inpage-widget-8117921 topExternalLinks">
+<style type="text/css">
+*{ outline:none;
+}
+</style>
+<script type="text/javascript" src="http://www.independent.co.uk/js/jquery.json-2.3.min.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+function PlaceHolder(){
+var normalItems = new Array(
+["reg-email", "EMAIL"],
+["log-email", "EMAIL"]
+);
+var passwordItems = new Array(
+["dummy-reg-password", "reg-password"],
+["dummy-reg-password2", "reg-password2"],
+["dummy-log-password", "log-password"]
+);
+function selectPasswordItems(){
+$(passwordItems).each(function(i){
+passwordType(passwordItems[i][0], passwordItems[i][1]);
+});
+}
+function selectNormalItems(){
+$(normalItems).each(function(i){
+normalType(normalItems[i][0], normalItems[i][1]);
+});
+}
+function normalType(c, d){
+var elementId = $("#"+c);
+var elementValue = d;
+elementId.addClass("newInputStyle");
+elementId.blur(function(){
+var value=$(this).val();
+//$(this).addClass("placeHolderActive");
+/* if(value!=elementValue){
+$(this).removeClass("placeHolderActive");
+}*/
+if(value==elementValue){
+$(this).addClass("placeHolderActive");
+}
+if(value==""){
+$(this).addClass("placeHolderActive");
+}
+elementId.focus(function(){
+$(this).removeClass("placeHolderActive");
+var value=$(this).val();
+if(value==elementValue){
+$(this).val("");
+$(this).blur(function(){
+if($(this).val()==""){
+$(this).val(elementValue);
+}
+});
+}
+});
+});
+}
+function passwordType(a, b){
+var dummyElement = $("#"+a);
+var realElement = $("#"+b);
+dummyElement.addClass("newInputStyle");
+realElement.addClass("newInputStyle");
+realElement.hide();
+dummyElement.focus(function(){
+if(dummyElement.val() === "PASSWORD" || dummyElement.val() === "CONFIRM PASSWORD"){
+realElement.css("display", "inline");
+dummyElement.hide();
+realElement.focus();
+}
+});
+realElement.blur(function(){
+if($(this).val() ==""){
+$(this).hide();
+dummyElement.css("display", "inline");
+}
+});
+}
+function closeLightbox(){
+$('.ui-dialog-titlebar-close').click(function(){
+$('#reg-email').val("EMAIL");
+$('#log-email').val("EMAIL");
+});
+$('#gigya-join-now-link').click(function(){
+$('#log-email').val("EMAIL");
+})
+}
+selectNormalItems();
+selectPasswordItems();
+closeLightbox();
+}
+$(function () {
+EVS.gigyaLinksToggle('#GigyaShowLoggedIn', '#GigyaShowLoggedOut');
+var gigyaPlaceHolder = new PlaceHolder();
+});
+//]]>
+</script>
+<div id="GigyaShowLoggedIn">
+<ul>
+<li id="myaccount-link"><a href="http://www.independent.co.uk/myaccount/"><span>My Account</span></a></li>
+<li id="logout-link"><span>Logout</span></li>
+</ul>
+</div>
+<div id="GigyaShowLoggedOut">
+<ul>
+<li id="register-link"><span>Register</span></li>
+<li id="login-link" class="login-link"><span>Login</span></li>
+</ul>
+</div>
+<div id="gigya-regbox" class="gigya-box">
+<div class="col-header">
+<span class="col-title reg-head-text">Register for <span class="col-subtitle">INDEPENDENT VOICES</span> now to comment on the Independent site, sign up for newsletters, react to articles and more...</span>
+</div>
+<div class="box">
+<div class="divider"></div>
+<div class="side-a">
+<div class="col-content">	<div id="reg-message" class="error"></div>
+<form id="gigyaRegForm" name="gigyaRegForm" action="/gigya/register.gigya" method="post">
+<fieldset>
+<div class="input">
+<!-- <label for="reg-email">Email: </label> -->
+<input type="text" name="email" id="reg-email" class="email placeHolderActive" value="EMAIL">
+</div>
+<div class="input">
+<!-- <label for="reg-password">Password: </label> -->
+<input type="text" value="PASSWORD" id="dummy-reg-password" class="placeHolderActive"><input type="password" name="password" id="reg-password" class="password" value="">
+</div>
+<div class="input">
+<!-- <label for="reg-password2">Confirm Password: </label> -->
+<input type="text" value="CONFIRM PASSWORD" id="dummy-reg-password2" class="placeHolderActive"><input type="password" name="password2" id="reg-password2" class="password2" value="">
+</div>
+<div class="input">
+<input type="submit" id="register" name="register" value="Join Now">
+</div> </fieldset>
+</form>
+</div> </div>
+<div class="side-b">
+<!-- <div class="col-header">
+<span class="col-title">Use your social network</span>
+</div> -->
+<div class="col-content">
+<!-- <div class="gigya-time">
+Save time by using your existing account to sign in to Independent
+</div>
+<div class="gigya-lock">
+We&#39;ll never share your information or post anything to your account without your permission
+</div> -->
+<div id="register-component-div"> </div>
+</div>
+</div>
+</div>
+<div class="sign-in">
+Already a member? <span id="gigya-signin-link"> click here to sign in</span> </div>
+</div>
+<div id="gigya-loginbox" class="gigya-box"> <div class="col-header gigya-lightbox-header">
+</div>
+<div class="box">
+<div class="divider"></div>
+<div class="side-a">
+<!-- <div class="col-header">
+<span class="col-title">Welcome! Sign in here</span>
+</div> -->
+<div class="col-content">	<div id="login-message" class="error"></div>	<form id="gigya-login-form" name="gigya-login-form" action="/gigya/login.gigya" method="post">
+<fieldset>
+<div class="input">
+<!-- <label for="log-email">Email: </label> -->
+<input type="text" name="email" id="log-email" class="email placeHolderActive" value="EMAIL">
+</div>
+<div class="input">
+<!-- <label for="log-password">Password: </label> -->
+<input type="text" value="PASSWORD" id="dummy-log-password" class="placeHolderActive"><input type="password" name="password" id="log-password" class="password" value="">
+</div>
+<div class="forgot-password">
+<p id="gigya-forgot-password-link">Forgot password?</p>
+</div>
+<div>
+<input type="submit" id="login" name="login" value="Submit">
+</div> </fieldset>
+</form>
+</div>
+</div>	<div class="side-b">
+<!-- <div class="col-header">
+<span class="col-title">Use your social network</span>
+</div> -->
+<div class="col-content">
+<!-- <div class="gigya-time">
+Save time by using your existing account to sign in to Independent
+</div>
+<div class="gigya-lock">
+We&#39;ll never share your information or post anything to your account without your permission
+</div> -->
+<div id="login-component-div"> </div>
+</div>
+</div>
+</div>
+<div class="sign-in">
+Don't have an account yet? <span id="gigya-join-now-link">Join Now!</span>
+</div>
+</div>
+<div id="gigya-link-account" class="gigya-box">
+<form id="gigya-link-account-form" name="gigya-link-account-form" action="/gigya/linkAccounts.gigya" method="post">
+<div class="col-header gigya-lightbox-header">
+</div>
+<div class="box">
+<div class="col-header">
+<span class="col-title">We've found an existing account with the given email. To link the social network identity with your site account, please provide the site password for the provided email.</span>
+</div>
+<div class="col-content">	<div id="link-message" class="error"></div>
+<fieldset>
+<div class="input">
+<label for="link-email">Email: </label>
+<input type="text" name="email" id="link-email" class="email" value="" disabled="disabled">
+<input type="hidden" name="suid" id="link-suid" class="suid" value="">
+</div>
+<div class="input">
+<label for="link-password">Password: </label>
+<input type="password" name="password" id="link-password" class="password" value="">
+</div>
+<div>
+<input type="submit" id="link" name="link" value="Link Now">
+</div>
+</fieldset>
+</div>	</div>
+</form>
+</div>
+<div id="gigya-forgot-password" class="gigya-box">
+<div class="col-header gigya-lightbox-header">
+</div>
+<div class="box">
+<div class="col-header">
+<span class="col-title">Forgot your password ?</span>
+</div> <div class="col-content">	<div id="forgotpassword-message" class="error"></div>
+<form id="gigyaForgotPassword-Form" name="gigyaForgotPassword-Form" action="/gigya/forgotPassword.gigya" method="post">
+<fieldset>
+<div class="input">
+<label for="email-input">Email: </label>
+<input type="text" name="email" id="email-input" class="email" value="">
+</div>
+<div class="input">
+<input type="submit" id="forgotPassword-email" name="forgotPassword-email" value="Recover Now">
+</div> </fieldset>
+</form>	</div> </div>
+</div>
+<div id="gigya-completeregistrationbox" class="gigya-box">
+<div class="col-header gigya-lightbox-header"></div>
+<div class="col-header">Registration</div>
+<form name="completeregistration-form" id="completeregistration-form" action="/gigya/completeUserRegistration.gigya" method="post">
+<div class="myaccount-leftbox">
+<div id="complete-reg-message"></div>
+<p class="first">indicates fields that are mandatory <span class="orange">*</span></p>
+<fieldset>
+<div class="input">
+<label for="reg-email">Email <span class="orange">*</span></label>
+<input type="text" name="email" id="reg-email" class="email">
+<input type="hidden" name="suid" id="reg-suid" class="suid" value="">
+</div>
+<div id="completeregistrationbox-password" class="input">
+<label for="reg-password">Password <span class="orange">*</span></label>
+<input type="password" name="password" id="reg-password" class="password" value="">
+</div>
+<div id="completeregistrationbox-password2" class="input">
+<label for="reg-password2">Confirm Password <span class="orange">*</span></label>
+<input type="password" name="password2" id="reg-password2" class="password2" value="">
+</div>
+<div class="input">
+<label for="reg-firstname">First name <span class="orange">*</span></label>
+<input type="text" name="firstname" id="reg-firstname" class="firstname" value="">
+</div>
+<div class="input">
+<label for="reg-lastname">Surname <span class="orange">*</span></label>
+<input type="text" name="lastname" id="reg-lastname" class="lastname" value="">
+</div>
+<div class="input">
+<label for="reg-postcode">Postcode <span class="orange">*</span></label>
+<input type="text" name="postcode" id="reg-postcode" class="postcode" value="">
+</div>
+<div class="input">
+<label for="reg-country">Country <span class="orange">*</span></label>
+<select id="reg-country" class="country" name="country">
+<option value="United Kingdom">United Kingdom</option>
+<option value="United States">United States</option>
+<option value="Republic of Ireland">Republic of Ireland</option>
+<option value="Rest of the World">Rest of the World</option>
+</select>
+</div>
+<div class="input">
+<label for="reg-mobile">Mobile phone number</label>
+<input type="text" name="mobile" id="reg-mobile" class="mobile" value="">
+</div>
+<div class="input">
+<label for="reg-username">Username <span class="orange">*</span></label>
+<input type="text" name="username" id="reg-username" class="username" value="">
+</div>
+<div class="input">
+<label for="reg-gender">Gender <span class="orange">*</span></label>
+<select name="gender" id="reg-gender" class="gender">
+<option>Male</option>
+<option>Female</option>
+</select>
+</div>
+<div class="input">
+<label for="reg-yearofbirth">Year of birth <span class="orange">*</span></label>
+<select name="yearofbirth" id="reg-yearofbirth" class="yearofbirth">
+<option value=""> -- </option>
+<option value="1920">1920</option>
+<option value="1921">1921</option>
+<option value="1922">1922</option>
+<option value="1923">1923</option>
+<option value="1924">1924</option>
+<option value="1925">1925</option>
+<option value="1926">1926</option>
+<option value="1927">1927</option>
+<option value="1928">1928</option>
+<option value="1929">1929</option>
+<option value="1930">1930</option>
+<option value="1931">1931</option>
+<option value="1932">1932</option>
+<option value="1933">1933</option>
+<option value="1934">1934</option>
+<option value="1935">1935</option>
+<option value="1936">1936</option>
+<option value="1937">1937</option>
+<option value="1938">1938</option>
+<option value="1939">1939</option>
+<option value="1940">1940</option>
+<option value="1941">1941</option>
+<option value="1942">1942</option>
+<option value="1943">1943</option>
+<option value="1944">1944</option>
+<option value="1945">1945</option>
+<option value="1946">1946</option>
+<option value="1947">1947</option>
+<option value="1948">1948</option>
+<option value="1949">1949</option>
+<option value="1950">1950</option>
+<option value="1951">1951</option>
+<option value="1952">1952</option>
+<option value="1953">1953</option>
+<option value="1954">1954</option>
+<option value="1955">1955</option>
+<option value="1956">1956</option>
+<option value="1957">1957</option>
+<option value="1958">1958</option>
+<option value="1959">1959</option>
+<option value="1960">1960</option>
+<option value="1961">1961</option>
+<option value="1962">1962</option>
+<option value="1963">1963</option>
+<option value="1964">1964</option>
+<option value="1965">1965</option>
+<option value="1966">1966</option>
+<option value="1967">1967</option>
+<option value="1968">1968</option>
+<option value="1969">1969</option>
+<option value="1970">1970</option>
+<option value="1971">1971</option>
+<option value="1972">1972</option>
+<option value="1973">1973</option>
+<option value="1974">1974</option>
+<option value="1975">1975</option>
+<option value="1976">1976</option>
+<option value="1977">1977</option>
+<option value="1978">1978</option>
+<option value="1979">1979</option>
+<option value="1980">1980</option>
+<option value="1981">1981</option>
+<option value="1982">1982</option>
+<option value="1983">1983</option>
+<option value="1984">1984</option>
+<option value="1985">1985</option>
+<option value="1986">1986</option>
+<option value="1987">1987</option>
+<option value="1988">1988</option>
+<option value="1989">1989</option>
+<option value="1990">1990</option>
+<option value="1991">1991</option>
+<option value="1992">1992</option>
+<option value="1993">1993</option>
+<option value="1994">1994</option>
+<option value="1995">1995</option>
+<option value="1996">1996</option>
+<option value="1997">1997</option>
+<option value="1998">1998</option>
+<option value="1999">1999</option>
+<option value="2000">2000</option>
+<option value="2001">2001</option>
+<option value="2002">2002</option>
+<option value="2003">2003</option>
+<option value="2004">2004</option>
+<option value="2005">2005</option>
+<option value="2006">2006</option>
+<option value="2007">2007</option>
+<option value="2008">2008</option>
+<option value="2009">2009</option>
+<option value="2010">2010</option>
+<option value="2011">2011</option>
+<option value="2012">2012</option>
+<option value="2013">2013</option>
+</select>
+</div>
+</fieldset>	</div>
+<div class="myaccount-rightbox">
+<fieldset>
+<div class="gigya-info borderb">
+<p class="normal-text">The Independent has a range of email newsletters simply choose which ones you want to receive.</p>
+</div>
+<div class="input">
+<p><strong>Please select the newsletters you would like to receive from The Independent</strong></p>
+<input type="checkbox" id="reg-receiveIndyHeadlinesNews" name="receiveIndyHeadlinesNews" class="receiveIndyHeadlinesNews checkbox">
+<label for="reg-receiveIndyHeadlinesNews">IndyNews email: Early morning news headlines (Monday-Friday)</label>
+</div>
+<div class="input">
+<input type="checkbox" id="reg-receiveIndyVoicesNews" name="receiveIndyVoicesNews" class="receiveIndyVoicesNews checkbox">
+<label for="reg-receiveIndyVoicesNews">Independent Voices newsletter: Updates with the best of our Opinion content</label>
+</div>
+<div class="input">
+<input type="checkbox" id="reg-receiveIndyFootballNews" name="receiveIndyFootballNews" class="receiveIndyFootballNews checkbox">
+<label for="reg-receiveIndyFootballNews">IndyFootball email: Lunchtime football and sport headlines (Monday-Friday)</label>
+</div>
+<div class="input">
+<input type="checkbox" id="reg-receiveIndyTravelNews" name="receiveIndyTravelNews" class="receiveIndyTravelNews checkbox">
+<label for="reg-receiveIndyTravelNews">Independent Travel newsletter: All the latest travel news and great offers (every Friday)</label>
+</div>
+<div class="input">
+<input type="checkbox" id="reg-receiveIndyArtsAndEntertainmentNews" name="receiveIndyArtsAndEntertainmentNews" class="receiveIndyArtsAndEntertainmentNews checkbox">
+<label for="reg-receiveIndyArtsAndEntertainmentNews">Indy Arts and Entertainment newsletter: All the latest from the world of arts and entertainment (every Monday)</label>
+</div>
+<div class="input">
+<input type="checkbox" id="reg-receiveIndyCompetitionNews" name="receiveIndyCompetitionNews" class="receiveIndyCompetitionNews checkbox">
+<label for="reg-receiveIndyCompetitionNews">The Independent Competitions and Offers email: The best new prizes, offers and bargains (every Friday)</label>
+</div>
+<div class="input">
+<input type="checkbox" id="reg-receiveReplyEmailNotifications" name="receiveReplyEmailNotifications" checked="checked" class="receiveReplyEmailNotifications checkbox">
+<label for="reg-receiveReplyEmailNotifications">Comment Reply Notification</label>
+</div>
+<div class="gigya-info">
+<p><strong>Occasionally we would like to send you emails detailing specific offers, from us or carefully selected partners. If you would like to receive these then please tick the appropriate boxes below. <span class="never">We will never pass on your details to anyone else.</span></strong></p>
+</div>
+<div class="input">	<input type="checkbox" id="reg-receiveIndyOffers" name="receiveIndyOffers" class="receiveIndyOffers checkbox">
+<label for="reg-receiveIndyOffers">I would like to receive additional offers and information from The Independent</label>
+</div>
+<div class="input borderb">
+<input type="checkbox" id="reg-receiveIndyThirdPartyOffers" name="receiveIndyThirdPartyOffers" class="receiveIndyThirdPartyOffers checkbox">
+<label for="reg-receiveIndyThirdPartyOffers">I would like to receive additional offers and information sent by The Independent on behalf of carefully selected partners</label>
+</div>
+<div class="input last">
+<p>Terms and Conditions</p> <input type="checkbox" id="reg-agreetnc" class="agreetnc checkbox" name="agreetnc">
+<label for="reg-agreetnc"><span class="orange">*</span> I have read, understood and agree to be bound by the <a href="http://www.independent.co.uk/terms" target="_blank">terms and conditions</a> of Independent Digital News and Media Limited</label>
+</div>
+<div>
+<input type="submit" class="myaccount-submit" id="submitcompletereg" name="submitcompletereg" value="Complete Registration">	</div>
+</fieldset>
+</div>
+</form>
+</div>
+<div id="gigya-lightregistrationbox" class="gigya-box">
+<div class="col-header gigya-lightbox-header"></div>
+<div class="col-header">Registration</div>
+<form name="lightregistration-form" id="lightregistration-form" action="/gigya/completeUserRegistration.gigya" method="post">
+<div class="col-content">
+<div id="light-reg-message"></div>
+<p class="first"><span class="orange">*</span> indicates fields that are mandatory</p>
+<fieldset>
+<div class="input">
+<label for="lightreg-email">Email <span class="orange">*</span></label>
+<input type="text" name="email" id="lightreg-email" class="email">
+<input type="hidden" name="suid" id="lightreg-suid" class="suid" value="">
+</div>
+<div id="lightregistrationform-password" class="input">
+<label for="lightreg-password">Password <span class="orange">*</span></label>
+<input type="password" name="password" id="lightreg-password" class="password" value="">
+</div>
+<div id="lightregistrationform-password2" class="input">
+<label for="lightreg-password2">Confirm Password <span class="orange">*</span></label>
+<input type="password" name="password2" id="lightreg-password2" class="password2" value="">
+</div>
+<div class="input">
+<label for="lightreg-firstname">First name <span class="orange">*</span></label>
+<input type="text" name="firstname" id="lightreg-firstname" class="firstname" value="">
+</div>
+<div class="input">
+<label for="lightreg-lastname">Surname <span class="orange">*</span></label>
+<input type="text" name="lastname" id="lightreg-lastname" class="lastname" value="">
+</div>
+<div class="input">
+<label for="lightreg-username">Username <span class="orange">*</span></label>
+<input type="text" name="username" id="lightreg-username" class="username" value="">
+</div>
+<div class="input">
+<p><strong>Terms and Conditions</strong></p>
+<input type="checkbox" id="lightreg-agreetnc" class="agreetnc" name="agreetnc">
+<label for="lightreg-agreetnc"><span class="orange">*</span> I have read, understood and agree to be bound by the <a href="http://www.independent.co.uk/terms" target="_blank">terms and conditions</a> of Independent</label>
+</div>
+<div>
+<input type="submit" class="myaccount-submit" id="submitlightreg" name="submitlightreg" value="Complete">	</div>
+</fieldset>	</div>
+</form>
+</div>
+<div id="gigya-email-confirmation-message-box" class="gigya-box">
+<div class="col-header gigya-lightbox-header"></div>
+<div class="box">
+<div class="col-header">
+<span class="col-title">Mail Sent for Registration Confirmation.</span>
+</div> <div class="col-content">	A confirmation email has been sent. Please activate your account by clicking on the activation link sent in your mail box.
+</div> </div>
+</div>
+<div id="gigya-flag-confirmation-message-box" class="gigya-box">
+<div class="col-header gigya-lightbox-header"></div>
+<div class="box">
+<div class="col-header">
+<span class="col-title">Flag Sent for Moderation.</span>
+</div> <div class="col-content">	The comment you selected has been flagged to the moderators. Thank you for bringing it to our attention.
+</div> </div>
+</div>
+</div>
 <div class="widget menu horizontal widget-editable viziwyg-section-1023 inpage-widget-5054700 topExternalLinks">
 <ul>
+<li>
+<a href="http://www.independent.co.uk/voices/campaigns/elephant-campaign/">
+<span>Elephant Appeal </span>
+</a>
+</li>
+<li>
+<a href="http://www.independent.co.uk/ebooks/">
+<span>ebooks </span>
+</a>
+</li>
 <li>
 <a href="http://ijobs.independent.co.uk/">
 <span>i Jobs </span>
 </a>
 </li>
 <li>
-<a href="http://www.independent.co.uk/dating/">
+<a href="http://dating.independent.co.uk/">
 <span>Dating </span>
-</a>
-</li>
-<li>
-<a href="http://www.independent.co.uk/property/">
-<span>Property </span>
 </a>
 </li>
 <li>
@@ -194,43 +1349,43 @@ Monday 24 June 2013
 </div>
 <div class="x940 promoAndLeaderboard" id="stacked">
 <div class="column-1">
-<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-7906463 carousel topPromo">
-<a href="http://www.independent.co.uk">
-<img src="http://www.independent.co.uk/independent.co.uk/images/independent_masthead.png" title="The Independent" alt="The Independent" width="190" height="90">
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8927185">
+<div id="mini-masthead-lboard"><a href="http://www.independent.co.uk">
+<img src="/independent.co.uk/assets/images/redesign/masthead/indy-masthead-small.png" title="The Independent" alt="The Independent" width="90" height="90" id="independent-mini-logo">
 </a>
 </div>
+<style type="text/css">
+<!--
+/* bolds indy title on dateline */
+.topDateTime ul li:before {font-weight:bold;}
+-->
+</style>
+<div style="position: absolute;top: -7px;right: 0px;border-left: 1px solid #d2d3d5;border-right: 1px solid #d2d3d5;padding-top: 34px;"><a href="http://www.independent.co.uk/i/" target="_blank" style="display: block;padding: 0px 35px 0;/* margin-top: -15px; */"><img src="http://www.independent.co.uk/independent.co.uk/assets/images/redesign/masthead/ipaper_lrg_masthead.png" height="56px" style="
+margin-top: -10px;
+padding-bottom: 15px;
+"></a></div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8453964 ad">
+<div id="leaderboard" style="width: 728px; height: 90px">
 <script type="text/javascript">
-var dartAdjUrl = 'http://ad.doubleclick.net/adj';
-var dartNoScriptJumpUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/jump/';
-var dartNoScriptAdUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/ad/';
-var dartSiteName = 'indy.uk';
-var dartZoneName = 'indy_indynews';
-var dartHomepageZoneName = 'indy_indynews';
-var articleId = '6184927';
-var dartAdSize = 'sz=728x90,468x60';
-var dartTile = 'tile=1';
-var dartOptValue = 'dcopt=ist';
-var ordValue = '658277203';
+googletag.cmd.push(function() {
+googletag.display("leaderboard"); });
 </script>
-<div class="widget ad dart widget-editable viziwyg-section-507 inpage-widget-7643709">
-<!-- begin ad tag (tile=1) -->
-<script type="text/javascript">
-document.write('<'+'sc'+'ript type= "text/javascript" src="'+dartAdjUrl+'/'+dartSiteName+'/'+dartZoneName+';'+dartAdSize+';'+dartTile+';article='+articleId+';'+dartOptValue+';ord=' + ordValue1 +';gs_cat='+gs_channels+';'+segQS+crtg_content + p39_ids+'?"><\/'+'sc'+'ript>');
-</script>
-<noscript>
-<a href="'+dartNoScriptJumpUrl+'/'+dartSiteName+'/'+dartZoneName+';'+dartAdSize+';'+dartTile+';article='+articleId+';'+dartOptValue+';ord=' + ordValue1 +'key=GS_CHANNELS;?" target="_blank">
-<img src="'+dartNoScriptAdUrl+'/+dartSiteName+'/'+dartZoneName+';'+dartAdSize+';'+dartTile+';article='+articleId+';'+dartOptValue+';ord=' + ordValue1 +'key=GS_CHANNELS;?" width="728" height="90" border="0" alt="Click here...">Click here...</a>
-</noscript>
+</div>
 </div>
 </div>
 </div>
 </div>
 <div id="navigation">
-<div class="widget menu vertical widget-editable viziwyg-section-1023 inpage-widget-5054718 navPrimary">
+<div class="widget menu vertical widget-editable viziwyg-section-1023 inpage-widget-5054718 navPrimary newNav">
 <ul class="main-level">
 <li class="black-nav ">
 <a href="http://www.independent.co.uk/news/">
 News </a>
+</li>
+<li class="black-nav ">
+<a href="http://www.independent.co.uk/news/pictures/">
+Images </a>
 </li>
 <li class="orange-voices-nav ">
 <a href="http://www.independent.co.uk/voices/">
@@ -252,9 +1407,9 @@ Life </a>
 <a href="http://www.independent.co.uk/property/">
 Property </a>
 </li>
-<li class="grey-nav ">
+<li class="dark-grey-nav ">
 <a href="http://www.independent.co.uk/arts-entertainment/">
-<span class="ArtsText">Arts</span> <span class="&amp;Text">&amp;</span> <span class="EntsText">Ents</span> </a>
+<span class="ArtsText">Arts</span> <span class="+Text">+</span> <span class="EntsText">Ents</span> </a>
 </li>
 <li class="orange-nav ">
 <a href="http://www.independent.co.uk/travel/">
@@ -272,7 +1427,7 @@ IndyBest </a>
 <a href="http://blogs.independent.co.uk/" target="_blank">
 Blogs </a>
 </li>
-<li class="darkTurqoise-nav ">
+<li class="eggplant-nav ">
 <a href="http://www.independent.co.uk/student/">
 Student </a>
 </li>
@@ -282,50 +1437,16 @@ Offers </a>
 </li>
 </ul>
 </div>
-<div class="widget code html widget-editable viziwyg-section-1023 inpage-widget-6249648">
-<div class="widget logo">
-<a title="i Newspaper" href="http://www.independent.co.uk/i/">
-<img title="i Newspaper" alt="i Newspaper" src="http://www.independent.co.uk/independent.co.uk/editorial/logo/ipaper_masthead.png">
-</a>
-</div>
-</div>
 <div class="x940 hotTopics">
 <div class="column-1">
 <div class="tagLabel color"></div>
 <div class="tagNames">
-<a href="http://www.independent.co.uk/voices/comment/our-love-for-the-nhs-blinds-us-to-its-failures-morecambe-bay-is-yet-another-wake-up-call-8665269.html" target="_self">NHS Failures</a>
-<a href="http://www.independent.co.uk/voices/iv-drip/5-ways-to-remember-the-great-talent-of-james-gandolfini-8666312.html" target="_self">James Gandolfini</a>
-<a href="http://www.independent.co.uk/voices/comment/turkey-protests-government-fury-at-istanbul-protests-exposes-an-authoritarian-regime-8660309.htmll" target="_self">Erdogan </a>
+<a href="http://www.independent.co.uk/voices/comment/teamnigella-its-the-only-side-to-be-on-9018710.html" target="_self">Nigella Lawson</a>
+<a href="http://www.independent.co.uk/voices/campaigns/elephant-campaign/" target="_self">Elephant Appeal</a>
+<a href="http://www.independent.co.uk/voices/comment/oh-come-all-ye-romanians-useful-and-delightful-9020088.html" target="_self">Immigration</a>
 <a href="http://www.independent.co.uk/topic/GeorgeOsborne">George Osborne</a>
 <a href="http://www.independent.co.uk/topic/Greece">Greece</a>
 <a href="http://www.independent.co.uk/topic/MichaelGove">Michael Gove</a>
-</div>
-</div>
-</div>
-<div class="x940 bellyBand">
-<div class="column-1">
-<script type="text/javascript">
-var dartAdjUrl = 'http://ad.doubleclick.net/adj';
-var dartNoScriptJumpUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/jump/';
-var dartNoScriptAdUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/ad/';
-var dartSiteName = 'indy.uk';
-var dartZoneName = 'indy_indynews';
-var dartHomepageZoneName = 'indy_indynews';
-var articleId = '6184927';
-var dartAdSize = 'sz=900x250';
-var dartTile = 'tile=4';
-var dartOptValue = '';
-var ordValue = '658277203';
-</script>
-<div class="widget ad dart widget-editable viziwyg-section-507 inpage-widget-7681806">
-<!-- begin ad tag (tile=1) -->
-<script type="text/javascript">
-document.write('<'+'sc'+'ript type= "text/javascript" src="'+dartAdjUrl+'/'+dartSiteName+'/'+dartZoneName+';'+dartAdSize+';'+dartTile+';article='+articleId+';'+dartOptValue+'ord=' + ordValue1 +';gs_cat='+gs_channels+';'+segQS+crtg_content + p39_ids+'?"><\/'+'sc'+'ript>');
-</script>
-<noscript>
-<a href="'+dartNoScriptJumpUrl+'/'+dartSiteName+'/'+dartZoneName+';'+dartAdSize+';'+dartTile+';article='+articleId+';'+dartOptValue+';ord=' + ordValue1 +'key=GS_CHANNELS;?" target="_blank">
-<img src="'+dartNoScriptAdUrl+'/+dartSiteName+'/'+dartZoneName+';'+dartAdSize+';'+dartTile+';article='+articleId+';'+dartOptValue+';ord=' + ordValue1 +'key=GS_CHANNELS;?" width="728" height="90" border="0" alt="Click here...">Click here...</a>
-</noscript>
 </div>
 </div>
 </div>
@@ -536,13 +1657,16 @@ ind.article.videoPriority = 'false';
 ind.article.fullSlideshow = 0;
 //]]>
 </script>
-<div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-6138699 articleContent">
+<div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-8939454 articleContent">
 <span class="storyTop ">
 <p>Before using the Website (that is, any site operated by Independent Digital News and Media Limited) it is your responsibility to read the Privacy Policy. You can notify us in the manner set out below if you do not want us to share information about you with third parties.</p>
 </span>
+</div>
+<div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-6138699 articleContent">
 <div class="body ">
 <p>Independent Digital News and Media Limited is hereinafter referred to in this Privacy Policy as IDNM. <strong>Please note that IDNM may revise this Privacy Policy at any time by posting an update on its website. Please ensure that you check this website from time to time to review the current privacy policy against any preferences you may have indicated. This Privacy Policy was last updated on the date indicated above.</strong></p><p>* <a href="http://www.independent.co.uk/service/evening-standard-limited-and-independent-print-limited--code-of-conduct-6280644.html">Code of Conduct</a> <br>* <a href="http://www.independent.co.uk/service/article759573.html">Terms &amp; Policies</a> <br>* <a href="http://www.independent.co.uk/service/article1673234.html">Advertising terms and conditions</a> <br>* <a href="http://www.independent.co.uk/service/article759575.html">Competition terms and conditions</a> <br>* <a href="http://www.independent.co.uk/service/external-contributors-terms--conditions-for-freelancers-bloggers-and-contributors-of-usergenerated-content-7905982.html">External contributors: Terms &amp; conditions for freelancers, bloggers and contributors of user-generated content</a><br>* <a href="http://www.independent.co.uk/service/article2224620.html">Work experience terms and conditions</a> <br>* <a href="http://www.independent.co.uk/news/corrections/">Corrections &amp; Clarifications</a></p><p><strong>The basic principles</strong></p><p>By accessing and using the Website you are agreeing to be legally bound by the Legal Terms and Policies and this Privacy Policy. You should therefore also read the Legal Terms and Policies before using the Website.</p><p>IDNM is determined to protect your privacy. It is very important to us that you should be able to use and enjoy the Website without having to compromise your privacy unacceptably.</p><p>Knowing something about our users is, however, necessary to ensure that our service is continually improved. We need to build an accurate picture of the needs and wishes of our users, and to be able to communicate with you. That enables us to offer a service that is relevant and truly interactive, which is what our users expect. It also helps us to maintain the greatest possible free-to-user access to the Website.</p><p>Behavioural advertising: technology now also enables interest based advertising which allows advertisers to customize adverts to your particular interests and is referred to below.</p><p><strong>We answer your important questions</strong></p><p><em>"What information do you collect about me?"</em></p><p>We automatically collect some data about our users' browsing actions and patterns. This is aggregate data and does not identify any individual.</p><p>We may also ask you to provide personal information on a voluntary basis in order to get a clearer picture of our users. It is then entirely up to you whether you are happy to give us this information.</p><p>In the course of entering competitions, promotions and other offers you will be asked to give some details about yourself. You may also choose to e-mail us or make contact with us in other ways. Such contact gives us information about you.</p><p>If you have any financial dealings, for instance if you make purchases with our trading partners on co-branded sites, or if you place an order through The Independent Shop, the information you submit will be disclosed to us and to relevant third parties, for example suppliers of goods and services and our web service providers.</p><p><em>"For what purposes do you collect and use my information?"</em></p><p>We use aggregate audience details (where no individual is identifiable) to help us improve our understanding of our users and their preferences. We may <strong></strong>use it to assist us in arranging relevant advertising, commercial opportunities and competitions, as well as ensuring the best editorial coverage. It also helps us develop the Website and audit its use.</p><p>The information about you as an identifiable individual, including contact details, may be used in the following ways:</p><p>* to conduct market research and other surveys.</p><p>* to create and draw to your attention editorial material and commercial opportunities that may be of interest to you.</p><p>* to be shared with advertisers, trading partners and other commercial entities with whom we have or might have an association. We may also be able to share the information that they obtain about their users.</p><p>* to respond to any enquiry you make.</p><p><em>"How private are my details?"</em></p><p>Apart from other companies in the IDNM group, we only share personal information about you with third parties whom we have selected carefully and with whom we have, or may have, a commercial relationship. IDNM complies with the relevant legal requirements and takes all reasonable care to ensure that your information is secure and private and is only seen by responsible third parties. However we cannot be held responsible for the actions of any third party who receives or obtains access to the information, or for any breach of security. We may also disclose your information if required to do so to comply with any laws, regulations, legal proceedings or governmental request - but this will be subject in each case to the requirements of the Data Protection Act 1998.</p><p>If you tell us that you do not want us to use your details, by emailing a request to customerservices@independent.co.uk, <strong></strong>then data about your use of the Website would then only form part of aggregated statistics and would not be related to you as an individual.</p><p>You can ask to see the information we have about you by emailing a request to customerservices@independent.co.uk.</p><p><strong>Use of cookies on a website</strong></p><p align="left">In addition to personal information you optionally provide, we may also collect anonymous information about you when you visit the site. The collection of anonymous data via cookies or web beacons allows us to track our own performance - but also allows us to display content which is more personalised, thereby enhancing your experience of the website.</p><p align="left">IDNM does its utmost to respect your privacy. Cookies let us monitor our performance and provide a better service, as well as sell advertising space, which we use to stay free of charge to our readers.</p><p align="left">To this end, we allow a careful selection of trusted third parties to use cookies and tracking to offer you a more personal experience.</p><p align="left">Most browsers accept cookies automatically, but you can change your settings to remove them or prevent your computer from automatically accepting them if you prefer.</p><p align="left">By continuing to use the website, you agree to the placement of cookies on your device. If you choose not to receive our cookies, we cannot guarantee that your experience will be as fulfilling as it would otherwise be. For instance, the site won’t be able to recognise your commenter ID, meaning that you won’t be able to leave comments.</p><p align="left">For more details on cookies (including how to opt out of cookies issued by third party advertisers) click <a href="http://www.independent.co.uk/service/cookie-policy-7785164.html">here</a>.</p><p><strong>International transfer of personal data</strong></p><p>As you will know, the internet does not recognise national boundaries. Services on the net are accessible globally so collection and transmission of personal data is not always confined to one country. You should be aware that by using the Website and those of our partners or any site we link through to, your personal data may be processed in or transferred to other countries, the USA for example, and you agree to your personal data being transferred or processed in this way.</p><p><em>"What do I do if I am not happy for you to share information about me with others?"</em></p><p>You may not wish us to share personal details about you with third parties outside IDNM, or to use your information in the other ways we have described in this Privacy Policy. You can e-mail customerservices@independent.co.uk at any time to let us know of any objections you may have to how we use or disclose your data in the ways set out in this Privacy Policy. Your personal details may in any event be shared with third party organisations we have contracted to provide services to us, on an agency basis, which include processing data. We may also have to release information (which could include the contents of e-mail communications between any persons) because of a legal requirement on us or pursuant to a court order.</p><p><strong>Further information</strong></p><p>If you want further information, or wish to communicate with us about this Privacy Policy and your wishes about your personal information, please e-mail us at customerservice@independent.co.uk.</p><p><strong>Company and data protection information</strong></p><p>The data controller of data on the Website is Independent Digital News and Media Limited, registered in England and Wales under company number 732 0345, whose registered office is at 2 Derry Street, London, W8 5HF, UK. VAT number GB 995 5180 73. Any queries or notices under the Data Protection Act should be addressed to the IT Director at the above address.</p><p>This newspaper adheres to the system of self-regulation overseen by the Press Complaints Commission. The PCC takes complaints about the editorial content of publications under the Editor’s Code of Practice, a copy of which can be found at <a href="http://www.pcc.org.uk" target="_blank">www.pcc.org.uk</a></p>
 </div>
+<div class="clear"></div>
 </div>
 <div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-6138702 socialwidget">
 <!--[if !IE 7]><!-->
@@ -573,29 +1697,6 @@ type="text/javascript">
 <div class="widget code html widget-editable viziwyg-section-1024 inpage-widget-6138641 socialwidget">
 <div class="g-plusone" data-size="medium"></div>
 </div>
-<div class="widget code jsp widget-editable viziwyg-section-1024 inpage-widget-6138609">
-<div class="strapLine gotocomments">
-<h2 class="strapline">
-<a href="#disqus_thread">Comments</a>
-</h2>
-</div>
-</div>
-<div class="widget code jsp widget-editable viziwyg-section-1024 inpage-widget-6191980 MoreIn">
-<div>
-<span>
-<a href="http://www.independent.co.uk/service/">
-More in
-<span class="section">Service</span> »
-</a>
-</span>
-</div>
-<script type="text/javascript">
-//<![CDATA[
-channelColor = $('.submenu').css('background-color');
-$('.MoreIn .section').css('color', channelColor);
-//]]>
-</script>
-</div>
 <script type="text/javascript">
 var googleChannelId = '1985344535';
 var googleClientId = 'ca-pub-5964551156905038';
@@ -604,7 +1705,7 @@ var googleAdType = 'text';
 var googleAdsenseUrl = 'http://www.independent.co.uk/independent.co.uk/editorial/web/adsense/adsense.js';
 var googleShowAdsUrl = 'http://www.independent.co.uk/independent.co.uk/editorial/web/adsense/show_ads.js';
 var googleMaxNumAds = '4';
-var ordValue = '658277203';
+var ordValue = '752315727';
 </script>
 <div class="widget ad google widget-editable viziwyg-section-1024 inpage-widget-6278027 googlead" id="fullwidth">
 <script type="text/javascript">
@@ -617,7 +1718,7 @@ document.write('<'+'sc'+'ript type= "text/javascript" src='+googleAdsenseUrl+'><
 document.write('<'+'sc'+'ript type= "text/javascript" src='+googleShowAdsUrl+'><\/'+'sc'+'ript>');
 </script><script type="text/javascript" src="http://www.independent.co.uk/independent.co.uk/editorial/web/adsense/adsense.js"></script><script type="text/javascript" src="http://www.independent.co.uk/independent.co.uk/editorial/web/adsense/show_ads.js"></script>
 </div>
-<div class="widget code jsp widget-editable viziwyg-section-1024 inpage-widget-6252381">
+<div class="widget code jsp widget-editable viziwyg-section-1024 inpage-widget-6252381 clearBoth">
 <div class="disqus greyRuler">
 <span class="commentTitle">Independent Comment</span>
 <div id="disqus_thread"></div>
@@ -778,53 +1879,53 @@ alert("Search word should not start with !@#$%^&*()+=-[]\\\';,./{}|\":<>?~_");
 <li class="mmm">
 <span>1</span>
 <div class="leftImage">
-<a href="http://www.independent.co.uk/sport/football/news-and-comment/the-last-word-mr-blatter-the-partys-over-8669855.html">
-<img class="mmmImg" src="http://www.independent.co.uk/incoming/article8669856.ece/ALTERNATES/w88h52/v223.epa.jpg" alt="Gas attack: Riot police go into heavy-handed action against one of the 300,000 demonstrators on the streets of Rio" title="Gas attack: Riot police go into heavy-handed action against one of the 300,000 demonstrators on the streets of Rio" width="88" height="52">
+<a href="http://www.independent.co.uk/environment/nature/dolphins-deliberately-get-high-on-puffer-fish-nerve-toxins-by-carefully-chewing-and-passing-them-around-9030126.html">
+<img class="mmmImg" src="http://www.independent.co.uk/incoming/article9030125.ece/ALTERNATES/w88h52/dolphins-bbc-youtube.jpg" alt="Footage captured for the BBC One documentary Dolphins: Spy in the Pod showed the marine mammals chewing on puffer fish in order to get 'high'" title="Footage captured for the BBC One documentary Dolphins: Spy in the Pod showed the marine mammals chewing on puffer fish in order to get 'high'" width="88" height="52">
 </a>
 </div>
-<a href="http://www.independent.co.uk/sport/football/news-and-comment/the-last-word-mr-blatter-the-partys-over-8669855.html" class="title">The Last Word: Mr Blatter, the party's over</a>
+<a href="http://www.independent.co.uk/environment/nature/dolphins-deliberately-get-high-on-puffer-fish-nerve-toxins-by-carefully-chewing-and-passing-them-around-9030126.html" class="title">Dolphins ‘deliberately get high’ on puffer fish nerve toxins by carefully chewing and passing them around</a>
 </li>
-<!-- 1 - 1 - 8669855 - http://www.independent.co.uk/sport/football/news-and-comment/the-last-word-mr-blatter-the-partys-over-8669855.html -->
+<!-- 1 - 1 - 9030126 - http://www.independent.co.uk/environment/nature/dolphins-deliberately-get-high-on-puffer-fish-nerve-toxins-by-carefully-chewing-and-passing-them-around-9030126.html -->
 <li class="mmm">
 <span>2</span>
 <div class="leftImage">
-<a href="http://www.independent.co.uk/news/uk/home-news/manchester-museum-bosses-puzzled-by-ancient-egyptian-statue-which-mysteriously-turns-itself-8670060.html">
-<img class="mmmImg" src="http://www.independent.co.uk/incoming/article8670061.ece/ALTERNATES/w88h52/egypt-mm.jpg" alt="The video clearly shows the statue rotating" title="The video clearly shows the statue rotating" width="88" height="52">
+<a href="http://www.independent.co.uk/news/science/brain-function-boosted-for-days-after-reading-a-novel-9028302.html">
+<img class="mmmImg" src="http://www.independent.co.uk/incoming/article9028300.ece/ALTERNATES/w88h52/v2-Reading+beach.jpg" alt="Reading a novel may boost brain functionality for days, new research has found" title="Reading a novel may boost brain functionality for days, new research has found" width="88" height="52">
 </a>
 </div>
-<a href="http://www.independent.co.uk/news/uk/home-news/manchester-museum-bosses-puzzled-by-ancient-egyptian-statue-which-mysteriously-turns-itself-8670060.html" class="title">Manchester Museum bosses puzzled by ancient Egyptian statue which mysteriously turns itself</a>
+<a href="http://www.independent.co.uk/news/science/brain-function-boosted-for-days-after-reading-a-novel-9028302.html" class="title">Brain function 'boosted for days after reading a novel'</a>
 </li>
-<!-- 2 - 2 - 8670060 - http://www.independent.co.uk/news/uk/home-news/manchester-museum-bosses-vexed-by-ancient-egyptian-statue-which-mysteriously-turns-itself-8670060.html -->
+<!-- 2 - 2 - 9028302 - http://www.independent.co.uk/news/science/brain-function-boosted-for-days-after-reading-a-novel-9028302.html -->
 <li class="mmm">
 <span>3</span>
 <div class="leftImage">
-<a href="http://www.independent.co.uk/news/uk/home-news/moonday-night-skywatchers-revel-in-one-of-the-most-impressive-celestial-events-of-the-year-8670250.html">
-<img class="mmmImg" src="http://www.independent.co.uk/incoming/article8670254.ece/ALTERNATES/w88h52/30-temple-of-Poseidon-Reute.jpg" alt="The ‘Supermoon’ rises over the temple of Poseidon, near Athens" title="The ‘Supermoon’ rises over the temple of Poseidon, near Athens" width="88" height="52">
+<a href="http://www.independent.co.uk/news/business/news/waitrose-faces-middleclass-revolt-over-free-coffee-loyalty-card-9030195.html">
+<img class="mmmImg" src="http://www.independent.co.uk/incoming/article9030223.ece/ALTERNATES/w88h52/waitrose.jpg" alt="" title="" width="88" height="52">
 </a>
 </div>
-<a href="http://www.independent.co.uk/news/uk/home-news/moonday-night-skywatchers-revel-in-one-of-the-most-impressive-celestial-events-of-the-year-8670250.html" class="title">Moonday night: Skywatchers revel in one of the most impressive celestial events of the year</a>
+<a href="http://www.independent.co.uk/news/business/news/waitrose-faces-middleclass-revolt-over-free-coffee-loyalty-card-9030195.html" class="title">Waitrose faces middle-class revolt over free coffee loyalty card</a>
 </li>
-<!-- 3 - 3 - 8670250 - http://www.independent.co.uk/news/uk/home-news/moonday-night-skywatchers-revel-in-one-of-the-most-impressive-celestial-events-of-the-year-8670250.html -->
+<!-- 3 - 3 - 9030195 - http://www.independent.co.uk/news/business/news/waitrose-faces-middleclass-revolt-over-free-coffee-loyalty-card-9030195.html -->
 <li class="mmm">
 <span>4</span>
 <div class="leftImage">
-<a href="http://www.independent.co.uk/news/world/europe/turkeys-crowds-return-armed-only-with-flowers-8669864.html">
-<img class="mmmImg" src="http://www.independent.co.uk/incoming/article8669862.ece/ALTERNATES/w88h52/turkey.afp.jpg" alt="Protesters shower police with blooms in Taksim Square yesterday" title="Protesters shower police with blooms in Taksim Square yesterday" width="88" height="52">
+<a href="http://www.independent.co.uk/news/world/americas/great-white-shark-photobombs-two-boys-surfing-in-california-as-mother-looks-on-9030445.html">
+<img class="mmmImg" src="http://www.independent.co.uk/incoming/article9030458.ece/ALTERNATES/w88h52/shark-photobomb3.jpgv2" alt="" title="" width="88" height="52">
 </a>
 </div>
-<a href="http://www.independent.co.uk/news/world/europe/turkeys-crowds-return-armed-only-with-flowers-8669864.html" class="title">Turkey's crowds return, armed only with flowers</a>
+<a href="http://www.independent.co.uk/news/world/americas/great-white-shark-photobombs-two-boys-surfing-in-california-as-mother-looks-on-9030445.html" class="title">‘Great white shark’ photobombs two boys surfing in California as mother looks on</a>
 </li>
-<!-- 4 - 4 - 8669864 - http://www.independent.co.uk/news/world/europe/turkeys-crowds-return-armed-only-with-flowers-8669864.html -->
+<!-- 4 - 4 - 9030445 - http://www.independent.co.uk/news/world/americas/great-white-shark-photobombs-two-boys-surfing-in-california-as-mother-looks-on-9030445.html -->
 <li class="mmm">
 <span>5</span>
 <div class="leftImage">
-<a href="http://www.independent.co.uk/arts-entertainment/art/news/disappeared-banksy-set-to-sell-for-900000-8641432.html">
-<img class="mmmImg" src="http://www.independent.co.uk/incoming/article8641433.ece/ALTERNATES/w88h52/12-Banksy.jpg" alt="Banksy’s Slave Labour should be ‘returned to its rightful place’ in north London, says the local MP" title="Banksy’s Slave Labour should be ‘returned to its rightful place’ in north London, says the local MP" width="88" height="52">
+<a href="http://www.independent.co.uk/news/science/video-sun-has-flipped-upside-down-as-new-magnetic-cycle-begins-9029378.html">
+<img class="mmmImg" src="http://www.independent.co.uk/incoming/article9029350.ece/ALTERNATES/w88h52/PIA03149.jpg" alt="At the height of the magnetic flip, the sun goes through periods of increased solar activity with more sunspots and eruptive events such as solar flares" title="At the height of the magnetic flip, the sun goes through periods of increased solar activity with more sunspots and eruptive events such as solar flares" width="88" height="52">
 </a>
 </div>
-<a href="http://www.independent.co.uk/arts-entertainment/art/news/disappeared-banksy-set-to-sell-for-900000-8641432.html" class="title">'Disappeared' Banksy set to sell for £900,000</a>
+<a href="http://www.independent.co.uk/news/science/video-sun-has-flipped-upside-down-as-new-magnetic-cycle-begins-9029378.html" class="title">Video: Sun has 'flipped upside down' as new magnetic cycle begins</a>
 </li>
-<!-- 5 - 5 - 8641432 - http://www.independent.co.uk/arts-entertainment/art/news/disappeared-banksy-set-to-sell-for-900000-8641432.html -->
+<!-- 5 - 5 - 9029378 - http://www.independent.co.uk/news/science/video-sun-has-flipped-upside-down-as-new-magnetic-cycle-begins-9029378.html -->
 </ul> </div>	</div>
 <div class="tabPane">
 <div class="widget code jsp widget-editable viziwyg-section-1052 inpage-widget-6249656">
@@ -866,78 +1967,37 @@ initialIndex : 0
 </div>
 <div class="x300 ">
 <div class="column-1">
+<div class="widget ad script widget-editable viziwyg-section-507 inpage-widget-7643779">
+<div id="mpu">
 <script type="text/javascript">
-var dartAdjUrl = 'http://ad.doubleclick.net/adj';
-var dartNoScriptJumpUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/jump/';
-var dartNoScriptAdUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/ad/';
-var dartSiteName = 'indy.uk';
-var dartZoneName = 'indy_indynews';
-var dartHomepageZoneName = 'indy_indynews';
-var articleId = '6184927';
-var dartAdSize = 'sz=300x250,300x600,300x1050';
-var dartTile = 'tile=2';
-var dartOptValue = '';
-var ordValue = '658277203';
+googletag.cmd.push(function() {
+googletag.display("mpu"); });
 </script>
-<div class="widget ad dart widget-editable viziwyg-section-507 inpage-widget-7643779">
-<!-- begin ad tag (tile=1) -->
-<script type="text/javascript">
-document.write('<'+'sc'+'ript type= "text/javascript" src="'+dartAdjUrl+'/'+dartSiteName+'/'+dartZoneName+';'+dartAdSize+';'+dartTile+';article='+articleId+';'+dartOptValue+'ord=' + ordValue1 +';gs_cat='+gs_channels+';'+segQS+crtg_content + p39_ids+'?"><\/'+'sc'+'ript>');
-</script>
-<noscript>
-<a href="'+dartNoScriptJumpUrl+'/'+dartSiteName+'/'+dartZoneName+';'+dartAdSize+';'+dartTile+';article='+articleId+';'+dartOptValue+';ord=' + ordValue1 +'key=GS_CHANNELS;?" target="_blank">
-<img src="'+dartNoScriptAdUrl+'/+dartSiteName+'/'+dartZoneName+';'+dartAdSize+';'+dartTile+';article='+articleId+';'+dartOptValue+';ord=' + ordValue1 +'key=GS_CHANNELS;?" width="728" height="90" border="0" alt="Click here...">Click here...</a>
-</noscript>
+</div>
 </div>
 </div>
 </div>
 <div class="x300 ">
 <div class="column-1">
+<div class="widget ad script widget-editable viziwyg-section-507 inpage-widget-7643724">
+<div id="partnersmall">
 <script type="text/javascript">
-var dartAdjUrl = 'http://ad.doubleclick.net/adj';
-var dartNoScriptJumpUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/jump/';
-var dartNoScriptAdUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/ad/';
-var dartSiteName = 'indy.uk';
-var dartPartnerZoneName = 'indy_indyhome_partners';
-var dartAdSize = 'sz=300x150';
-var dartTile = '';
-var dartOptValue = '';
-var articleId = '6184927';
-var ordValue = '658277203';
+googletag.cmd.push(function() {
+googletag.display("partnersmall"); });
 </script>
-<div class="widget ad partner widget-editable viziwyg-section-507 inpage-widget-7643724">
-<!-- begin partner 300x150 ad tag -->
-<script type="text/javascript">
-document.write('<'+'sc'+'ript type= "text/javascript" src="'+dartAdjUrl+'/'+dartSiteName+'/'+dartPartnerZoneName+';target=ps;'+dartAdSize+';kw='+articleId+';ord=' + ordValue1 +';gs_cat='+gs_channels+';'+segQS+'?"><\/'+'sc'+'ript>');
-</script>
-<!-- begin partner 300x150 ad tag -->
 </div>
 </div>
 </div>
-<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-6234329 border-bottom">
-<link rel="stylesheet" type="text/css" href="http://blogs.independent.co.uk/other/fb/css/swire.css" media="screen">
-<div id="fb-root"></div> <div id="fb-widget"></div><div id="showWidget"></div> <script type="text/javascript" src="http://blogs.independent.co.uk/other/fb/swire_latest.js"></script>
 </div>
 <div class="x300 ">
 <div class="column-1">
+<div class="widget ad script widget-editable viziwyg-section-507 inpage-widget-7643727">
+<div id="partner300x250_1">
 <script type="text/javascript">
-var dartAdjUrl = 'http://ad.doubleclick.net/adj';
-var dartNoScriptJumpUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/jump/';
-var dartNoScriptAdUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/ad/';
-var dartSiteName = 'indy.uk';
-var dartPartnerZoneName = 'indy_indyhome_partners';
-var dartAdSize = 'sz=300x250';
-var dartTile = '';
-var dartOptValue = '';
-var articleId = '6184927';
-var ordValue = '658277203';
+googletag.cmd.push(function() {
+googletag.display("partner300x250_1"); });
 </script>
-<div class="widget ad partner widget-editable viziwyg-section-507 inpage-widget-7643727">
-<!-- begin partner 300x150 ad tag -->
-<script type="text/javascript">
-document.write('<'+'sc'+'ript type= "text/javascript" src="'+dartAdjUrl+'/'+dartSiteName+'/'+dartPartnerZoneName+';target=ps;'+dartAdSize+';kw='+articleId+';ord=' + ordValue1 +';gs_cat='+gs_channels+';'+segQS+'?"><\/'+'sc'+'ript>');
-</script>
-<!-- begin partner 300x150 ad tag -->
+</div>
 </div>
 </div>
 </div>
@@ -952,69 +2012,38 @@ document.write('<'+'sc'+'ript type= "text/javascript" src="'+dartAdjUrl+'/'+dart
 <div class="scrollable-6279238 commercial-scrollable">
 <div class="items">
 <div class="item">
-<a class="main-img" href="http://www.independent.co.uk/life-style/food-and-drink/how-will-you-make-today-delicious-tell-us-and-you-could-win-a-50-ms-giftcard-8645325.html"><img src="http://www.independent.co.uk/incoming/article8647340.ece/ALTERNATES/w300/mands.jpg" width="278"></a> <div class="item-content">
-<h2 class="item-title"><a href="http://www.independent.co.uk/life-style/food-and-drink/how-will-you-make-today-delicious-tell-us-and-you-could-win-a-50-ms-giftcard-8645325.html">How will you make today delicious? </a>
+<a class="main-img" href="http://www.independent.co.uk/life-style/five-things-to-do-for-a-fiver-in-london-this-december-8996106.html"><img src="http://www.independent.co.uk/incoming/article8996151.ece/ALTERNATES/w300/indy-ncp-sp.jpg" width="278"></a> <div class="item-content">
+<h2 class="item-title"><a href="http://www.independent.co.uk/life-style/five-things-to-do-for-a-fiver-in-london-this-december-8996106.html">Five things to do for a fiver in London this December</a>
 </h2>
-<p>Tell us how you plan to make today delicious and you could win a
-£50 M&amp;S gift card.</p>
-</div>
-<div class="item-list first-list"> <a href="http://www.standard.co.uk/advertorials/nook/">
-Nook
+<p>This Christmas, you can park in one of NCP’s ten most popular London car
+parks for just <a href="http://www.ncp.co.uk/parking-solutions/cities/christmas-promotion/">£5
+for six hours of parking at selected times during weekdays and the weekend.</a></p><a href="http://www.ncp.co.uk/parking-solutions/cities/christmas-promotion/">
+</a></div><a href="http://www.ncp.co.uk/parking-solutions/cities/christmas-promotion/">
+</a><div class="item-list first-list"><a href="http://www.ncp.co.uk/parking-solutions/cities/christmas-promotion/"> </a><a href="http://independent.co.uk/commercial/inspiretoteach/take-our-short-survey-for-your-opportunity-to-win-one-of-two-100-amazon-vouchers-9016063.html">
+Win £100 voucher
 </a>
-<a href="http://www.standard.co.uk/news/get-london-reading/getreading/">
-Get reading
-</a>
-<a href="http://www.independent.co.uk/competitions/" class="last">
+<a href="http://www.independent.co.uk/competitions/">
 Prizes &amp; offers
 </a>
-</div>
-<div class="item-list">
-<a href="http://www.independent.co.uk/news/business/analysis-and-features/commercial-thought-leaders-2368410.html">
+<a href="http://www.independent.co.uk/news/business/analysis-and-features/commercial-thought-leaders-2368410.html" class="last">
 Business videos
 </a>
 </div>
 </div>
 <div class="item">
-<a class="main-img" href="http://www.standard.co.uk/advertorials/nook/"><img src="http://www.independent.co.uk/incoming/article8629609.ece/ALTERNATES/w300/nook_get_reading1.png" width="278"></a> <div class="item-content">
-<h2 class="item-title"><a href="http://www.standard.co.uk/advertorials/nook/">Win a Nook® Simple Touch eReader </a>
+<a class="main-img" href="http://independent.co.uk/commercial/inspiretoteach/take-our-short-survey-for-your-opportunity-to-win-one-of-two-100-amazon-vouchers-9016063.html"><img src="http://www.independent.co.uk/incoming/article9017553.ece/ALTERNATES/w300/sponsored-features.jpg" width="278"></a> <div class="item-content">
+<h2 class="item-title"><a href="http://independent.co.uk/commercial/inspiretoteach/take-our-short-survey-for-your-opportunity-to-win-one-of-two-100-amazon-vouchers-9016063.html">READER SURVEY</a>
 </h2>
-<p>Find out how Nook® is supporting the Evening Standard's Get
-Reading campaign - and your chance to win one.</p>
+<p>Take our short survey for your
+opportunity to win one of two £100 Amazon vouchers.</p>
 </div>
-<div class="item-list first-list"> <a href="http://www.independent.co.uk/life-style/food-and-drink/how-will-you-make-today-delicious-tell-us-and-you-could-win-a-50-ms-giftcard-8645325.html">
-M&amp;S prizes
+<div class="item-list first-list"> <a href="http://www.independent.co.uk/life-style/five-things-to-do-for-a-fiver-in-london-this-december-8996106.html">
+NCP Parking
 </a>
-<a href="http://www.standard.co.uk/news/get-london-reading/getreading/">
-Get reading
-</a>
-<a href="http://www.independent.co.uk/competitions/" class="last">
+<a href="http://www.independent.co.uk/competitions/">
 Prizes &amp; offers
 </a>
-</div>
-<div class="item-list">
-<a href="http://www.independent.co.uk/news/business/analysis-and-features/commercial-thought-leaders-2368410.html">
-Business videos
-</a>
-</div>
-</div>
-<div class="item">
-<a class="main-img" href="http://www.standard.co.uk/news/get-london-reading/getreading/"><img src="http://www.independent.co.uk/incoming/article8664861.ece/ALTERNATES/w300/Get-reading_Trafalgar_sq_sf.png" width="278"></a> <div class="item-content">
-<h2 class="item-title"><a href="http://www.standard.co.uk/news/get-london-reading/getreading/">Free reading festival for families </a>
-</h2>
-<p>Follow The Standard's campaign to get London's children reading - and experience this unique event at Trafalgar Square on 13 July.</p>
-</div>
-<div class="item-list first-list"> <a href="http://www.independent.co.uk/life-style/food-and-drink/how-will-you-make-today-delicious-tell-us-and-you-could-win-a-50-ms-giftcard-8645325.html">
-M&amp;S prizes
-</a>
-<a href="http://www.standard.co.uk/advertorials/nook/">
-Nook
-</a>
-<a href="http://www.independent.co.uk/competitions/" class="last">
-Prizes &amp; offers
-</a>
-</div>
-<div class="item-list">
-<a href="http://www.independent.co.uk/news/business/analysis-and-features/commercial-thought-leaders-2368410.html">
+<a href="http://www.independent.co.uk/news/business/analysis-and-features/commercial-thought-leaders-2368410.html" class="last">
 Business videos
 </a>
 </div>
@@ -1025,18 +2054,13 @@ Business videos
 </h2>
 <p>Win anything from gadgets to five-star holidays on our competitions and offers page.</p>
 </div>
-<div class="item-list first-list"> <a href="http://www.independent.co.uk/life-style/food-and-drink/how-will-you-make-today-delicious-tell-us-and-you-could-win-a-50-ms-giftcard-8645325.html">
-M&amp;S prizes
+<div class="item-list first-list"> <a href="http://www.independent.co.uk/life-style/five-things-to-do-for-a-fiver-in-london-this-december-8996106.html">
+NCP Parking
 </a>
-<a href="http://www.standard.co.uk/advertorials/nook/">
-Nook
+<a href="http://independent.co.uk/commercial/inspiretoteach/take-our-short-survey-for-your-opportunity-to-win-one-of-two-100-amazon-vouchers-9016063.html">
+Win £100 voucher
 </a>
-<a href="http://www.standard.co.uk/news/get-london-reading/getreading/" class="last">
-Get reading
-</a>
-</div>
-<div class="item-list">
-<a href="http://www.independent.co.uk/news/business/analysis-and-features/commercial-thought-leaders-2368410.html">
+<a href="http://www.independent.co.uk/news/business/analysis-and-features/commercial-thought-leaders-2368410.html" class="last">
 Business videos
 </a>
 </div>
@@ -1047,20 +2071,17 @@ Business videos
 </h2>
 <p>Watch the best in the business world give their insights into the world of business.</p>
 </div>
-<div class="item-list first-list"> <a href="http://www.independent.co.uk/life-style/food-and-drink/how-will-you-make-today-delicious-tell-us-and-you-could-win-a-50-ms-giftcard-8645325.html">
-M&amp;S prizes
+<div class="item-list first-list"> <a href="http://www.independent.co.uk/life-style/five-things-to-do-for-a-fiver-in-london-this-december-8996106.html">
+NCP Parking
 </a>
-<a href="http://www.standard.co.uk/advertorials/nook/">
-Nook
+<a href="http://independent.co.uk/commercial/inspiretoteach/take-our-short-survey-for-your-opportunity-to-win-one-of-two-100-amazon-vouchers-9016063.html">
+Win £100 voucher
 </a>
-<a href="http://www.standard.co.uk/news/get-london-reading/getreading/" class="last">
-Get reading
+<a href="http://www.independent.co.uk/competitions/" class="last">
+Prizes &amp; offers
 </a>
 </div>
 <div class="item-list">
-<a href="http://www.independent.co.uk/competitions/">
-Prizes &amp; offers
-</a>
 </div>
 </div>
 </div>
@@ -1086,28 +2107,13 @@ ind.commercialInstance.move(1);
 </div>
 <div class="x300 ">
 <div class="column-1">
+<div class="widget ad script widget-editable viziwyg-section-507 inpage-widget-7643730 partnerAd, border-bottom">
+<div id="partner300x250_2">
 <script type="text/javascript">
-var dartAdjUrl = 'http://ad.doubleclick.net/adj';
-var dartNoScriptJumpUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/jump/';
-var dartNoScriptAdUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/ad/';
-var dartSiteName = 'indy.uk';
-var dartPartnerZoneName = 'indy_indyhome_partners';
-var dartAdSize = 'sz=300x250';
-var dartTile = '';
-var dartOptValue = '';
-var articleId = '6184927';
-var ordValue = '658277203';
+googletag.cmd.push(function() {
+googletag.display("partner300x250_2"); });
 </script>
-<div class="widget ad partner widget-editable viziwyg-section-507 inpage-widget-7643730 partnerAd, border-bottom">
-<!--CSS -->
-<style>
-#side .partnerAd{border-bottom:none;}
-</style>
-<!-- begin partner 300x150 ad tag -->
-<script type="text/javascript">
-document.write('<'+'sc'+'ript type= "text/javascript" src="'+dartAdjUrl+'/'+dartSiteName+'/'+dartPartnerZoneName+';target=psmpu2;'+dartAdSize+';kw='+articleId+';ord=' + ordValue1 +';gs_cat='+gs_channels+';'+segQS+'?"><\/'+'sc'+'ript>');
-</script>
-<!-- begin partner 300x150 ad tag -->
+</div>
 </div>
 </div>
 </div>
@@ -1162,13 +2168,13 @@ initialIndex : 0
 </div>
 <div class="widget archive form widget-editable viziwyg-section-1023 inpage-widget-6138560 arcForm">
 <ul>
-<li class="day first"><a href="http://www.independent.co.uk/dayinapage/?day=23&amp;month=6&amp;year=2013" title="Sun">Sun</a></li>
-<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=24&amp;month=6&amp;year=2013" title="Mon">Mon</a></li>
-<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=18&amp;month=6&amp;year=2013" title="Tue">Tue</a></li>
-<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=19&amp;month=6&amp;year=2013" title="Wed">Wed</a></li>
-<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=20&amp;month=6&amp;year=2013" title="Thu">Thu</a></li>
-<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=21&amp;month=6&amp;year=2013" title="Fri">Fri</a></li>
-<li class="day last"><a href="http://www.independent.co.uk/dayinapage/?day=22&amp;month=6&amp;year=2013" title="Sat">Sat</a></li>
+<li class="day first"><a href="http://www.independent.co.uk/dayinapage/?day=29&amp;month=12&amp;year=2013" title="Sun">Sun</a></li>
+<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=30&amp;month=12&amp;year=2013" title="Mon">Mon</a></li>
+<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=31&amp;month=12&amp;year=2013" title="Tue">Tue</a></li>
+<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=25&amp;month=12&amp;year=2013" title="Wed">Wed</a></li>
+<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=26&amp;month=12&amp;year=2013" title="Thu">Thu</a></li>
+<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=27&amp;month=12&amp;year=2013" title="Fri">Fri</a></li>
+<li class="day last"><a href="http://www.independent.co.uk/dayinapage/?day=28&amp;month=12&amp;year=2013" title="Sat">Sat</a></li>
 </ul>
 <div class="form">
 <form method="GET" action="http://www.independent.co.uk/dayinapage/">
@@ -1197,14 +2203,14 @@ initialIndex : 0
 <option value="21">21</option>
 <option value="22">22</option>
 <option value="23">23</option>
-<option value="24" selected="selected">24</option>
+<option value="24">24</option>
 <option value="25">25</option>
 <option value="26">26</option>
 <option value="27">27</option>
 <option value="28">28</option>
 <option value="29">29</option>
 <option value="30">30</option>
-<option value="31">31</option>
+<option value="31" selected="selected">31</option>
 </select>
 <select name="month" id="f_month">
 <option value="1">January</option>
@@ -1212,13 +2218,13 @@ initialIndex : 0
 <option value="3">March</option>
 <option value="4">April</option>
 <option value="5">May</option>
-<option value="6" selected="selected">June</option>
+<option value="6">June</option>
 <option value="7">July</option>
 <option value="8">August</option>
 <option value="9">September</option>
 <option value="10">October</option>
 <option value="11">November</option>
-<option value="12">December</option>
+<option value="12" selected="selected">December</option>
 </select>
 <select name="year" id="f_year">
 <option value="1992">1992</option>
@@ -1260,113 +2266,113 @@ initialIndex : 0
 <div class="items">
 <div class="page h148" style="width: 815.0px;">
 <div class="item w148">
-<a href="http://www.independent.co.uk/sport/tennis/andy-murray-i-finally-deserve-a-place-in-fab-four-8670377.html">
-<img alt="Andy Murray: 'I finally deserve a place in Fab Four'" src="http://www.independent.co.uk/incoming/article8670382.ece/ALTERNATES/w148/13-Andy-Murray2-Getty.jpg" width="148" height="222" class="" rel="div-caption-1">
+<a href="http://www.independent.co.uk/news/people/news/who-is-dieudonn-how-the-french-comedian-was-thrust-into-the-spotlight-by-nicolas-anelkas-quenelle-goal-celebration-9030721.html">
+<img alt="Who is Dieudonné? How the French comedian was thrust into the spotlight by Nicolas Anelka's 'quenelle' goal celebration" src="http://www.independent.co.uk/incoming/article9030696.ece/ALTERNATES/w148/20-dieudonne-afpgt.jpg" width="148" height="222" class="" rel="div-caption-1">
 </a>
 <div class="" id="div-caption-1">
-<h2 class="fs_title">'I finally deserve a place in Fab Four'</h2> <div class="fs_body">Andy Murray tells Paul Newman that winning a Grand Slam has made him feel less awkward as a member of the elite</div> </div>
+<h2 class="fs_title">Who is Dieudonné?</h2> <div class="fs_body">How the French comedian was thrust into the spotlight by Nicolas Anelka's 'quenelle' goal celebration </div> </div>
 </div>
 <div class="item w148">
-<a href="http://www.independent.co.uk/life-style/fashion/features/fashion-shoot-sugar-spice-and-everything-nice-8670140.html">
-<img alt="Fashion shoot: Sugar, spice, and everything nice" src="http://www.independent.co.uk/incoming/article8670141.ece/ALTERNATES/w148/shoot-3.jpg" width="148" height="222" class="" rel="div-caption-2">
+<a href="http://www.independent.co.uk/arts-entertainment/tv/features/sherlocks-amanda-abbington-admits-partner-martin-freeman-is-one-of-her-favourite-actors-9030613.html">
+<img alt="Sherlock's Amanda Abbington admits partner Martin Freeman is one of her favourite actors" src="http://www.independent.co.uk/incoming/article9030500.ece/ALTERNATES/w148/sherlock.jpg" width="148" height="222" class="" rel="div-caption-2">
 </a>
 <div class="" id="div-caption-2">
-<h2 class="fs_title">Sugar, spice, and everything nice</h2> <div class="fs_body">Pastels shades are the perfect sun-bleached tones to offset tawny skin this summer</div> </div>
+<h2 class="fs_title">The game is afoot for the new Mrs Watson</h2> <div class="fs_body">For actress Amanda Abbington, joining real-life partner Martin Freeman in the latest series of Sherlock was far from elementary</div> </div>
 </div>
 <div class="item w148">
-<a href="http://www.independent.co.uk/life-style/fashion/features/make-do-and-trend-8670135.html">
-<img alt="Make do and trend" src="http://www.independent.co.uk/incoming/article8670137.ece/ALTERNATES/w148/jeans-1.jpg" width="148" height="222" class="" rel="div-caption-3">
+<a href="http://www.independent.co.uk/life-style/health-and-families/features/psychosis-the-secret-life-of-my-family-9030670.html">
+<img alt="Psychosis: The secret life of my family" src="http://www.independent.co.uk/incoming/article9030490.ece/ALTERNATES/w148/v2psychosis.jpgv2" width="148" height="222" class="" rel="div-caption-3">
 </a>
 <div class="" id="div-caption-3">
-<h2 class="fs_title">Make do and trend</h2> <div class="fs_body">From Nudie's 'Repair Station' to the 10-Year Hoodie, interest in mending clothes is on the up</div> </div>
+<h2 class="fs_title">Psychosis: The secret life of my family</h2> <div class="fs_body">For 20 years, Sara Kenney has kept silent about her two brothers' psychotic illness. But now she hopes her film, inspired by their story, will help to lift the stigma</div> </div>
 </div>
 <div class="item w148">
-<a href="http://www.independent.co.uk/news/uk/this-britain/paddington-where-author-michael-bonds-daughter-reveals-truthof-bears-famous-address--32-windsor-gardens-8670236.html">
-<img alt="Paddington where? Author Michael Bond’s daughter reveals truth&nbsp;of bear’s famous address - 32 Windsor Gardens" src="http://www.independent.co.uk/incoming/article8670237.ece/ALTERNATES/w148/13-windsor-gardens.jpg" width="148" height="222" class="" rel="div-caption-4">
+<a href="http://www.independent.co.uk/arts-entertainment/comedy/features/it-doesnt-pay-to-be-funny-on-screen-why-comedy-is-the-poor-relation-9030709.html">
+<img alt="It doesn't pay to be funny on screen: Why comedy is the poor relation" src="http://www.independent.co.uk/incoming/article9030489.ece/ALTERNATES/w148/partridge.jpg" width="148" height="222" class="" rel="div-caption-4">
 </a>
 <div class="" id="div-caption-4">
-<h2 class="fs_title">Paddington where? </h2> <div class="fs_body">Author’s daughter reveals truth&nbsp;of bear’s famous address</div> </div>
+<h2 class="fs_title">It doesn't pay to be funny on screen</h2> <div class="fs_body">Why comedy is the poor relation</div> </div>
 </div>
 <div class="item w148">
-<a href="http://www.independent.co.uk/news/uk/home-news/special-report-how-community-spirit-pays-a-dividend-8669751.html">
-<img alt="Special report: How community spirit pays a dividend" src="http://www.independent.co.uk/incoming/article8669782.ece/ALTERNATES/w148/v218.guzelian.jpg" width="148" height="222" class="" rel="div-caption-5">
+<a href="http://www.independent.co.uk/arts-entertainment/architecture/who-wants-to-visit-a-house-like-this-not-enough-of-us-apparently-celebrated-modernist-home-closed-to-visitors-by-the-national-trust-due-to-lack-of-interest-9030836.html">
+<img alt="Who wants to visit a house like this? Not enough of us, apparently: Celebrated Modernist home closed to visitors by the National Trust due to lack of interest" src="http://www.independent.co.uk/incoming/article9030707.ece/ALTERNATES/w148/18-visit-house-pa.jpg" width="148" height="222" class="" rel="div-caption-5">
 </a>
 <div class="" id="div-caption-5">
-<h2 class="fs_title">Special report: How community spirit pays a dividend</h2> <div class="fs_body">A Cumbrian town shows how co-operatively owned businesses can keep remote areas alive and thriving</div> </div>
+<h2 class="fs_title">Who wants to visit a house like this? Not enough of us, apparently</h2> <div class="fs_body">Celebrated Modernist home closed to visitors by the National Trust due to lack of interest</div> </div>
 </div>
 </div>
 <div class="page h148" style="width: 815.0px;">
 <div class="item w148">
-<a href="http://www.independent.co.uk/news/people/profiles/sue-smith-ill-never-walk-away-from-this-battle-8669755.html">
-<img alt="Sue Smith: 'I'll never walk away from this battle'" src="http://www.independent.co.uk/incoming/article8669778.ece/ALTERNATES/w148/24.andrewfox.jpg" width="148" height="222" class="" rel="div-caption-6">
+<a href="http://www.independent.co.uk/news/science/could-symmetrical-knees-be-the-secret-to-usain-bolts-success-a-new-study-seems-to-think-so-9030598.html">
+<img alt="Could symmetrical knees be the secret to Usain Bolt's success? A new study seems to think so" src="http://www.independent.co.uk/incoming/article9030605.ece/ALTERNATES/w148/bolt-gt.jpgv2" width="148" height="222" class="" rel="div-caption-6">
 </a>
 <div class="" id="div-caption-6">
-<h2 class="fs_title">Sue Smith: 'I'll never walk away from this battle'</h2> <div class="fs_body">A mother's eight-year fight for justice for her dead soldier son has left a legacy – human rights protection for every serviceman and woman</div> </div>
+<h2 class="fs_title">Could symmetrical knees be the secret to Usain Bolt's success?</h2> <div class="fs_body">A new study seems to think so</div> </div>
 </div>
 <div class="item w148">
-<a href="http://www.independent.co.uk/news/uk/home-news/special-report-the-centenary-of-wwi--tommies-and-tariqs-fought-side-by-side-8669758.html">
-<img alt="Special report: 'Tommies and Tariqs fought side by side' - the centenary of WWI" src="http://www.independent.co.uk/incoming/article8669766.ece/ALTERNATES/w148/28.get.jpg" width="148" height="222" class="" rel="div-caption-7">
+<a href="http://www.independent.co.uk/news/media/press/they-all-hit-the-headlines-in-2013--but-what-happened-next-9030790.html">
+<img alt="They all hit the headlines in 2013 - but what happened next?" src="http://www.independent.co.uk/incoming/article9030610.ece/ALTERNATES/w148/27-big-read-gt.jpg" width="148" height="222" class="" rel="div-caption-7">
 </a>
 <div class="" id="div-caption-7">
-<h2 class="fs_title">Special report: The centenary of WWI - 'Tommies and Tariqs fought side by side'</h2> <div class="fs_body">It is vital that the role of Empire troops in the First World War is acknowledged, says Baroness Warsi</div> </div>
+<h2 class="fs_title">They all hit the headlines in 2013 - but what happened next?</h2> <div class="fs_body">For the people who made the news in 2013, it will be a year to remember – or one to try and forget. But what happened once the media moved on?</div> </div>
 </div>
 <div class="item w148">
-<a href="http://www.independent.co.uk/voices/comment/james-gandolfini-the-first-and-best-of-a-new-kind-of-star-8669706.html">
-<img alt="James Gandolfini: The first, and best, of a new kind of star" src="http://www.independent.co.uk/incoming/article8669693.ece/ALTERNATES/w148/40.jpg" width="148" height="222" class="" rel="div-caption-8">
+<a href="http://www.independent.co.uk/sport/football/premier-league/halfterm-reports-so-who-is-making-the-grade-in-the-premier-league-so-far-9030925.html">
+<img alt="Half-term reports: So who is making the grade in the Premier League so far?" src="http://www.independent.co.uk/incoming/article9030839.ece/ALTERNATES/w148/v3v254-halt-term-reports-gt.jpg" width="148" height="222" class="" rel="div-caption-8">
 </a>
 <div class="" id="div-caption-8">
-<h2 class="fs_title">James Gandolfini: The first, and best, of a new kind of star</h2> <div class="fs_body">His portrayal of Tony Soprano changed television's concept of a leading man. Tim Walker studies how handsome hunks became bald lunks</div> </div>
+<h2 class="fs_title">Half-term reports: So who is making the grade in the Premier League so far?</h2> <div class="fs_body">At mid-point of the most exciting, volatile season in years, Jack Pitt-Brooke runs the rule over the teams and separates teacher's pets from class clowns</div> </div>
 </div>
 <div class="item w148">
-<a href="http://www.independent.co.uk/arts-entertainment/books/news/ernest-hemingways-last-word-from-beyond-the-grave-8669795.html">
-<img alt="Ernest Hemingway's last word from beyond the grave" src="http://www.independent.co.uk/incoming/article8669799.ece/ALTERNATES/w148/9.afp.jpg" width="148" height="222" class="" rel="div-caption-9">
+<a href="http://www.independent.co.uk/sport/football/news-and-comment/ian-herbert-tragic-tale-of-wayne-harrison-shows-football-is-more-about-those-who-get-discarded-along-the-way-than-those-who-earn-fat-salaries-9030917.html">
+<img alt="Ian Herbert: Tragic tale of Wayne Harrison shows football is more about those who get discarded along the way than those who earn fat salaries" src="http://www.independent.co.uk/incoming/article9030840.ece/ALTERNATES/w148/52-ian-herbert-gt-NO-REUSE.jpg" width="148" height="222" class="" rel="div-caption-9">
 </a>
 <div class="" id="div-caption-9">
-<h2 class="fs_title">Ernest Hemingway's last word from beyond the grave</h2> <div class="fs_body">Ninety years after 'Vanity Fair' turned down a story by the writer, the tables are turned</div> </div>
+<h2 class="fs_title">Ian Herbert: The tragic tale of Wayne Harrison</h2> <div class="fs_body">When a Liverpool v Oldham testimonial was staged he wasn't fit enough to play</div> </div>
 </div>
 <div class="item w148">
-<a href="http://www.independent.co.uk/life-style/gadgets-and-tech/news/pedal-power-wins-daredevil-cyclist-65-million-hits-on-youtube-8669757.html">
-<img alt="Pedal power wins daredevil cyclist 65 million hits on YouTube" src="http://www.independent.co.uk/incoming/article8669779.ece/ALTERNATES/w148/26.jasonalden.jpg" width="148" height="222" class="" rel="div-caption-10">
+<a href="http://www.independent.co.uk/life-style/fashion/features/pirelli-celebrates-50-years-of-its-calendar-girls-with-release-of-lost-edition-shot-by-helmut-newton-in-1986-9029390.html">
+<img alt="50 years of the Pirelli calendar - and the lost edition shot by Helmut Newton in 1986" src="http://www.independent.co.uk/incoming/article9029414.ece/ALTERNATES/w148/pirelli7.jpg" width="148" height="222" class="" rel="div-caption-10">
 </a>
 <div class="" id="div-caption-10">
-<h2 class="fs_title">Pedal power wins daredevil cyclist 65 million hits on YouTube</h2> <div class="fs_body">Danny MacAskill, famed online for his stunts, shows Jamie Merrill a trick or two</div> </div>
+<h2 class="fs_title">50 years of Pirelli calendars</h2> <div class="fs_body">Lost edition shot by Helmut Newton in 1986 released</div> </div>
 </div>
 </div>
 <div class="page h148" style="width: 815.0px;">
 <div class="item w148">
-<a href="http://www.independent.co.uk/arts-entertainment/music/features/waxing-lyrical-david-lynch-on-his-new-passion--and-why-he-may-never-make-another-movie-8665457.html">
-<img alt="Waxing lyrical: David Lynch on his new passion - and why he may never make another movie" src="http://www.independent.co.uk/incoming/article8667622.ece/ALTERNATES/w148/5575294.jpg" width="148" height="222" class="" rel="div-caption-11">
+<a href="http://www.independent.co.uk/news/science/video-sun-has-flipped-upside-down-as-new-magnetic-cycle-begins-9029378.html">
+<img alt="Sun has 'flipped upside down' as new magnetic cycle begins" src="http://www.independent.co.uk/incoming/article9029350.ece/ALTERNATES/w148/PIA03149.jpg" width="148" height="222" class="" rel="div-caption-11">
 </a>
 <div class="" id="div-caption-11">
-<h2 class="fs_title">Waxing lyrical: David Lynch's new passion</h2> <div class="fs_body">The director seems able to turn his hand to anything and transform it in the process. So why does he seem so out of touch with the modern world?</div> </div>
+<h2 class="fs_title">Sun has 'flipped upside down' as new magnetic cycle begins</h2> <div class="fs_body">The sun’s magnetic field has now fully reversed its polarity,</div> </div>
 </div>
 <div class="item w148">
-<a href="http://www.independent.co.uk/news/world/asia/hard-rock-calling-the-gemstone-hunters-who-risk-it-all-in-the-mountains-of-pakistan-8665458.html">
-<img alt="Hard rock calling: The gemstone hunters who risk it all in the mountains of Pakistan" src="http://www.independent.co.uk/incoming/article8667692.ece/ALTERNATES/w148/5575324.jpg" width="148" height="222" class="" rel="div-caption-12">
+<a href="http://www.independent.co.uk/news/world/americas/michael-bloomberg-the-man-who-believed-he-knew-what-new-york-needed-prepares-to-step-down--but-had-he-lost-touch-with-the-people-of-the-city-9029551.html">
+<img alt="The man who thought he knew best for New York" src="http://www.independent.co.uk/incoming/article9029563.ece/ALTERNATES/w148/bloomberg-gt.jpg" width="148" height="222" class="" rel="div-caption-12">
 </a>
 <div class="" id="div-caption-12">
-<h2 class="fs_title">Hard rock calling: Pakistan's gemstone hunters</h2> <div class="fs_body">Photographer Anna Huix joins the high-altitude gemstone hunters of Pakistan’s remote Karakoram National Park as they risk all to seek their illegal fortunes under the shadow of K2.</div> </div>
+<h2 class="fs_title">The man who thought he knew best for New York</h2> <div class="fs_body">Had Michael Bloomberg lost touch with the people?</div> </div>
 </div>
 <div class="item w148">
-<a href="http://www.independent.co.uk/news/world/world-history/goodbye-to-berlin-postcards-from-nazi-germany-tell-story-of-the-kindertransport-8665473.html">
-<img alt="Goodbye to Berlin: Postcards from Nazi Germany tell story of the Kindertransport" src="http://www.independent.co.uk/incoming/article8667671.ece/ALTERNATES/w148/5575311.jpg" width="148" height="222" class="" rel="div-caption-13">
+<a href="http://www.independent.co.uk/extras/indybest/food-drink/the-10-best-champagnes-9029537.html?action=gallery">
+<img alt="The 10 best Champagnes" src="http://www.independent.co.uk/incoming/article9030314.ece/ALTERNATES/w148/champagnesteaser.jpg" width="148" height="222" class="" rel="div-caption-13">
 </a>
 <div class="" id="div-caption-13">
-<h2 class="fs_title">Goodbye to Berlin: Postcards from Nazi Germany</h2> <div class="fs_body">A new books marks the 75th anniversary of the Kindertransport, which saw 10,000 children escape from Nazi Germany to the UK.</div> </div>
+<h2 class="fs_title">The 10 best Champagnes</h2> <div class="fs_body">See in the new year in style with a bottle of bubbles</div> </div>
 </div>
 <div class="item w148">
-<a href="http://www.independent.co.uk/news/world/americas/gettysburg-from-gore-to-family-fun-8669764.html">
-<img alt="Gettysburg: From gore to family fun" src="http://www.independent.co.uk/incoming/article8669765.ece/ALTERNATES/w148/36.afp.jpg" width="148" height="222" class="" rel="div-caption-14">
+<a href="http://www.independent.co.uk/voices/comment/the-independents-christmas-charity-auction-part-three-8973215.html">
+<img alt="The Independent's Christmas charity auction: Part three" src="http://www.independent.co.uk/incoming/article9023955.ece/ALTERNATES/w148/emin1.jpg" width="148" height="222" class="" rel="div-caption-14">
 </a>
 <div class="" id="div-caption-14">
-<h2 class="fs_title">Gettysburg: From gore to family fun</h2> <div class="fs_body">Slaughter is sanitised as town celebrates the battle on which US history turned</div> </div>
+<h2 class="fs_title">The Independent's Christmas charity auction</h2> <div class="fs_body">Get ready to bid on lots such as an original Tracey Emin artwork, or a luxury holiday in Kenya</div> </div>
 </div>
 <div class="item w148">
-<a href="http://www.independent.co.uk/life-style/food-and-drink/news/barbecues-rain-or-shine-itll-be-a-grilliant-summer-8669756.html">
-<img alt="Barbecues: Rain or shine, it'll be a grilliant summer" src="http://www.independent.co.uk/incoming/article8669780.ece/ALTERNATES/w148/27.jpg" width="148" height="222" class="" rel="div-caption-15">
+<a href="http://www.independent.co.uk/voices/comment/sunni-monarchs-back-youtube-hate-preachers-antishia-propaganda-threatens-a-sectarian-civil-war-which-will-engulf-the-entire-muslim-world-9028538.html">
+<img alt="Sunni monarchs back YouTube hate preachers: The Saudis and their allies are sponsoring propaganda that opens the door to sectarian civil war engulfing the entire Muslim world" src="http://www.independent.co.uk/incoming/article9028590.ece/ALTERNATES/w148/p31bahrainigrlAFPGETTY.jpg" width="148" height="222" class="" rel="div-caption-15">
 </a>
 <div class="" id="div-caption-15">
-<h2 class="fs_title">Rain or shine, it'll be a grilliant summer</h2> <div class="fs_body">Barbecues are hot – as in fashionable. To get it right, you need the most modern kit and dishes beyond boring old burgers</div> </div>
+<h2 class="fs_title">Patrick Cockburn: Sunni monarchs back YouTube hate preachers</h2> <div class="fs_body">Anti-Shia propaganda threatens a sectarian civil war which will engulf the entire Muslim world</div> </div>
 </div>
 </div>
 </div>
@@ -1454,16 +2460,8 @@ s.prop7 = '';
 </div>
 </div>
 <div id="footer">
-<div class="x170x515x255 ">
+<div class="x170x515x255 redesign-footer">
 <div class="column-1">
-<div class="widget logo default widget-editable viziwyg-section-1042 inpage-widget-6138622">
-<a href="http://www.independent.co.uk/" title="">
-<img src="http://www.independent.co.uk/news/article6138600.ece/BINARY/original/footer-logo.png" alt="ind" title="ind">
-</a>
-</div>
-<div class="widget code html widget-editable viziwyg-section-1042 inpage-widget-6138618 footerLogoBox">
-<strong>The Independent</strong><br>2 Derry Street London W8 5TT<p>© independent.co.uk</p>
-</div>
 </div>
 <div class="column-2">
 <div class="widget menu vertical widget-editable viziwyg-section-1023 inpage-widget-5054706">
@@ -1554,8 +2552,16 @@ Syndication </a>
 </li>
 </ul>
 </div>
+<div class="widget code html widget-editable viziwyg-section-1023 inpage-widget-6138554 copyright">
+<strong>© independent.co.uk</strong>
+</div>
 </div>
 <div class="column-3">
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8925767 footer-eagle">
+<a href="/" title="The Independent">
+<img src="/independent.co.uk/assets/images/redesign/masthead/black-eagle-square.png" alt="The Independent" title="The Independent" width="80px">
+</a>
+</div>
 <div class="widget search simpleForm widget-editable viziwyg-section-1023 inpage-widget-5054704 superSearchBox">
 <script type="text/javascript" src="http://www.independent.co.uk/resources/js/searchFormHandler.js"></script>
 <div class="simpleSearch" id="simpleSearch-5054704">
@@ -1663,33 +2669,7 @@ alert("Search word should not start with !@#$%^&*()+=-[]\\\';,./{}|\":<>?~_");
 </li>
 </ul>
 </div>
-<div class="widget code html widget-editable viziwyg-section-1023 inpage-widget-6138554 copyright">
-<strong>© independent.co.uk</strong>
 </div>
-</div>
-</div>
-<script type="text/javascript">
-var dartAdjUrl = 'http://ad.doubleclick.net/adj';
-var dartNoScriptJumpUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/jump/';
-var dartNoScriptAdUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/ad/';
-var dartSiteName = 'indy.uk';
-var dartZoneName = 'indy_indynews';
-var dartHomepageZoneName = 'indy_indynews';
-var articleId = '6184927';
-var dartAdSize = 'sz=1100x40,1100x60';
-var dartTile = '';
-var dartOptValue = '';
-var ordValue = '658277203';
-</script>
-<div class="widget ad dart widget-editable viziwyg-section-507 inpage-widget-8130735">
-<!-- begin ad tag (tile=1) -->
-<script type="text/javascript">
-document.write('<'+'sc'+'ript type= "text/javascript" src="'+dartAdjUrl+'/'+dartSiteName+'/'+dartHomepageZoneName+';'+dartAdSize+';'+dartTile+';article='+articleId+';'+dartOptValue+'ord=' + ordValue1 +';gs_cat='+gs_channels+';'+segQS+'?"><\/'+'sc'+'ript>');
-</script>
-<noscript>
-<a href="'+dartNoScriptJumpUrl+'/'+dartSiteName+'/'+dartZoneName+';'+dartAdSize+';'+dartTile+';kw='+articleId+';'+dartOptValue+';ord=' + ordValue1 +'key=GS_CHANNELS;?" target="_blank">
-<img src="'+dartNoScriptAdUrl+'/+dartSiteName+'/'+dartZoneName+';'+dartAdSize+';'+dartTile+';kw='+articleId+';'+dartOptValue+';ord=' + ordValue1 +'key=GS_CHANNELS;?" width="728" height="90" border="0" alt="Click here...">Click here...</a>
-</noscript>
 </div>
 <div class="widget code html widget-editable viziwyg-section-507 inpage-widget-7681317">
 <script src="http://tags.crwdcntrl.net/c/991/cc.js?ns=_cc991" id="LOTCC_991"></script>
@@ -1719,68 +2699,52 @@ width="1" height="1" alt="" />
 </div>
 </noscript>
 <!-- END Nielsen Online SiteCensus V6.0 -->
-<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8496585">
+<!-- Quantcast Tag -->
 <script type="text/javascript">
-(function(){
-var d=document,k="kalooga",s="script",n=d.createElement(s),f=d.getElementsByTagName(s)[0];
-n.async=true;n.type="text/java"+s;n.src="http://publishing.kalooga.com/acct/449.js";
-f.parentNode.insertBefore(n,f);
+var _qevents = _qevents || [];
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
 })();
-</script>
-</div>
-<script type="text/javascript">
-var dartAdjUrl = 'http://ad.doubleclick.net/adj';
-var dartNoScriptJumpUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/jump/';
-var dartNoScriptAdUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/ad/';
-var dartSiteName = 'indy.uk';
-var dartZoneName = 'indy_indynews';
-var dartHomepageZoneName = 'indy_indynews';
-var articleId = '6184927';
-var dartAdSize = 'sz=1x5';
-var dartTile = '';
-var dartOptValue = '';
-var ordValue = '658277203';
-</script>
-<div class="widget ad dart widget-editable viziwyg-section-507 inpage-widget-7959613">
-<!-- begin ad tag (tile=1) -->
-<script type="text/javascript">
-document.write('<'+'sc'+'ript type= "text/javascript" src="'+dartAdjUrl+'/'+dartSiteName+'/'+dartZoneName+';'+dartAdSize+';'+dartTile+';article='+articleId+';'+dartOptValue+';ord=' + ordValue1 +';gs_cat='+gs_channels+';'+segQS+'?"><\/'+'sc'+'ript>');
+//Quantcast labels
+var quantcastLabels = "Independent.";
+quantcastLabels += (s.hier1.replace(/,/g, ".")) ? s.hier1.replace(/,/g, ".") : "Home";
+_qevents.push({
+qacct:"p-jAJ_WUYAnDzxn",
+labels: quantcastLabels
+});
 </script>
 <noscript>
-<a href="'+dartNoScriptJumpUrl+'/'+dartSiteName+'/'+dartZoneName+';'+dartAdSize+';'+dartTile+';article='+articleId+';'+dartOptValue+';ord=' + ordValue1 +'key=GS_CHANNELS;?" target="_blank">
-<img src="'+dartNoScriptAdUrl+'/+dartSiteName+'/'+dartZoneName+';'+dartAdSize+';'+dartTile+';article='+articleId+';'+dartOptValue+';ord=' + ordValue1 +'key=GS_CHANNELS;?" width="728" height="90" border="0" alt="Click here...">Click here...</a>
-</noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-jAJ_WUYAnDzxn.gif" border="0" height="1" width="1" alt="Quantcast"/>
 </div>
+</noscript>
+<!-- End Quantcast tag -->
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8976968">
+<div id="inskin8x8">
 <script type="text/javascript">
-var dartAdjUrl = 'http://ad.doubleclick.net/adj';
-var dartNoScriptJumpUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/jump/';
-var dartNoScriptAdUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/ad/';
-var dartSiteName = 'indy.uk';
-var dartZoneName = 'indy_indynews';
-var dartHomepageZoneName = 'indy_indynews';
-var articleId = '6184927';
-var dartAdSize = 'sz=8x8';
-var dartTile = '';
-var dartOptValue = '';
-var ordValue = '658277203';
+googletag.cmd.push(function() {
+googletag.display("inskin8x8"); });
 </script>
-<div class="widget ad dart widget-editable viziwyg-section-507 inpage-widget-8608505">
-<!-- begin ad tag (tile=1) -->
+</div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8755159">
 <script type="text/javascript">
-if (typeof (window.pageSkinAdCall) != "undefined") {
-document.write('<'+'sc'+'ript type= "text/javascript" src="'+dartAdjUrl+'/'+dartSiteName+'/'+dartZoneName+';'+dartAdSize+';'+dartTile+';inskin='+pageSkinResolutionCheck("yes")+';article='+articleId+';'+dartOptValue+';ord=' + ordValue1 +';gs_cat='+gs_channels+';'+segQS+'?"><\/'+'sc'+'ript>');
-} else {
-document.write('<'+'sc'+'ript type= "text/javascript" src="'+dartAdjUrl+'/'+dartSiteName+'/'+dartZoneName+';'+dartAdSize+';'+dartTile+';article='+articleId+';'+dartOptValue+';ord=' + ordValue1 +';gs_cat='+gs_channels+';'+segQS+'?"><\/'+'sc'+'ript>');
+if( $(".esi-gallery").length > 0 ) {
+require(["/independent.co.uk/assets/js/modules/esi.gallery.v1.js"], function(ESIGallery) {
+var galleryObj = new ESIGallery();
+galleryObj.load();
+});
 }
 </script>
-<noscript>
-<a href="'+dartNoScriptJumpUrl+'/'+dartSiteName+'/'+dartZoneName+';'+dartAdSize+';'+dartTile+';article='+articleId+';'+dartOptValue+';ord=' + ordValue1 +'key=GS_CHANNELS;?" target="_blank">
-<img src="'+dartNoScriptAdUrl+'/+dartSiteName+'/'+dartZoneName+';'+dartAdSize+';'+dartTile+';article='+articleId+';'+dartOptValue+';ord=' + ordValue1 +'key=GS_CHANNELS;?" width="728" height="90" border="0" alt="Click here...">Click here...</a>
-</noscript>
 </div>
 </div>
 </div>
 </div>
-<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-3.newrelic.com","3668cd9096","1061572","NV1aNUNQXUJXWkJZWQwXcjJhHkdUW0laUUIHF1sOXFxcXxhTRUA=",0,694,new Date().getTime(),"","","","",""]);</script>
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-5.newrelic.com","3668cd9096","1061572","NV1aNUNQXUJXWkJZWQwXcjJhHkdUW0laUUIHF1sOXFxcXxhTRUA=",0,884,new Date().getTime(),"","","","",""]);</script>
 
-<script type="text/javascript" src="https://rpm-images.newrelic.com/42/eum/rum.js"></script></body></html>
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
