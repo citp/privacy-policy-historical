@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ico.org.uk privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625234200id_/http%3A//www.ico.org.uk/Global/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ico.org.uk privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231130118id_/http%3A//www.ico.org.uk/Global/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Notice - Information Commissioner's Office - ICO
 
@@ -24,7 +24,7 @@ You can read more about how we use cookies on our [Cookies page](https://web.ar
 
 ### Search engine
 
-Our website search is powered by System Associates. Search queries and results are logged anonymously to help us improve our website and search functionality. No user-specific data is collected by either ICO or any third party.
+Our website search and decision notice search is powered by System Associates. Search queries and results are logged anonymously to help us improve our website and search functionality. No user-specific data is collected by either ICO or any third party.
 
 ### E-newsletter
 
@@ -33,6 +33,10 @@ We use a third party provider, Adestra, to deliver our monthly e-newsletter. We 
 ### Online reporting tool
 
 We collect information volunteered by members of the public about nuisance calls and texts using an online reporting tool hosted by Snap Surveys. This company is a data processor for the ICO and only processes personal information in line with our instructions.
+
+### Data Protection Practitioners Conference site
+
+We use a third party service, WordPress.com, to publish [our 2014 conference mini-site](http://www.ico.org.uk/conference2014 "External site"). The site is hosted at WordPress.com, which is run by Automattic Inc. We use a standard WordPress service to collect anonymous information about users' activity on the site, for example the number of users viewing pages on the site, to monitor and report on the effectiveness of the site and help us improve it. WordPress requires visitors that want to post a comment to enter a name and email address. For more information about how WordPress processes data, please [see Automattic's privacy notice](http://automattic.com/privacy "External site").
 
 ## People who call our helpline
 
@@ -71,6 +75,14 @@ Many businesses are required by law to ‘notify’ certain specified informatio
 When businesses fill in their registration forms, they are asked to provide the contact details of a relevant member of staff. ICO will use this for its own purposes, for example where we have a query about a registration, but will not put it on the public register.
 
 When we request information as part of the registration process, we make it clear where the provision of information is required by law and where it is voluntary.
+
+## Service providers reporting a breach
+
+Public electronic communications service providers are required by law to report any security breaches involving personal data to the ICO.
+
+We provide an online form for this purpose, hosted by Egress. We use the data collected by the form to record the breach, to make decisions about the action we may take, and as relevant in order to carry out those actions. We retain personal information only for as long as necessary to carry out these functions, and in line with our retention schedule. This means that logs and breach reports will be retained for two years from receipt, and longer where this information leads to regulatory action being taken. We retain de-personalised information about organisations for as long as is necessary to help inform future actions, but no individuals are identifiable from that data.
+
+The ICO and Egress have measures in place to ensure the security of data collected and transferred to the ICO via this form. Egress is a data processor for the ICO and only processes personal information in line with our instructions.
 
 ## Job applicants, current and former ICO employees
 
@@ -122,7 +134,7 @@ This privacy notice does not cover the links within this site linking to other w
 
 ## Changes to this privacy notice
 
-We keep our privacy notice under regular review. This privacy notice was last updated on 2 April 2013.
+We keep our privacy notice under regular review. This privacy notice was last updated on 7 November 2013.
 
 ## How to contact us
 
