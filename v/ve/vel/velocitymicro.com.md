@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the velocitymicro.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501105053id_/http%3A//www.velocitymicro.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velocitymicro.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231010552id_/http%3A//www.velocitymicro.com/Privacy.php) for the most accurate reproduction.*
 
 # Velocity Micro | Privacy
 
@@ -41,7 +41,7 @@ This site contains links to other sites. VelocityMicro.com is not responsible fo
 
 **Contact Us**  
 If you have any additional questions or concerns about our privacy policy, please contact us:  
-Velocity Micro, Inc.  
-7510 Whitepine Rd.  
-Richmond, VA 23237  
-800-303-7866
+Velocity Micro  
+835 Grove Rd.  
+Midlothian, VA 23114  
+888-300-4450
