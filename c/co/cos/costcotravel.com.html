@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the costcotravel.com privacy policy that was archived on 2013-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130620110138id_/http%3A//www.costco.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the costcotravel.com privacy policy that was archived on 2013-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131231231318id_/http%3A//www.costco.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html><html><head>
 
 	
 
@@ -19,35 +19,42 @@
 
 
 
-<meta name="currentBuildNumber" content="3.0.3065.0">
+<meta name="currentBuildNumber" content="3.0.5471.0">
 <meta name="ServerName" content="www.costco.com ">
-<meta name="LocalAddress" content="xxx.xxx.xxx.67">
-<meta name="LocalName" content="cp1Server08">
+<meta name="LocalAddress" content="xxx.xxx.xxx.117">
+<meta name="LocalName" content="cp1Server17">
 
 
 
 <link rel="icon" type="image/vnd.microsoft.icon" href="/wcsstore/CostcoGLOBALSAS/images/favicon.ico"> 
 <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/wcsstore/CostcoGLOBALSAS/images/favicon.ico"> 
 
-<link rel="stylesheet" href="/dynamic_css?langId=-1&amp;storeId=10301&amp;catalogId=10701" type="text/css">
+<link rel="stylesheet" href="/dynamic_css?langId=-1&amp;storeId=10301&amp;catalogId=10701&amp;v=3054710" type="text/css">
+
 <link rel="stylesheet" href="/wcsstore/CostcoGLOBALSAS/css/ui-lightness/jquery-ui-1.8.10.custom.css" type="text/css">
 
-<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/jquery/jquery-1.6.1.min.js"></script>
-<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/util.001.js"></script>
+<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/jquery/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/jquery/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/util.js?v=3054710"></script>
 <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/jquery.cookie.js"></script>
+<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/tempoJs/tempo.js"></script>
+<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/tempoJs/tempowrap.js"></script>
+
+
 
 
 	<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/s_code.js"></script>
 
-<script type="text/javascript" src="//www.costco.com/dynamicJs?langId=-1&amp;storeId=10301&amp;catalogId=10701"></script>
 
-<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/cleanup.js"></script>
+<script type="text/javascript" src="/dynamicJs?langId=-1&amp;storeId=10301&amp;catalogId=10701"></script>
+
+<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/cleanup.js?v=3054710"></script>
 
 <!-- END ClientSideIncludes.jspf -->
 	
 	
 </head>
-<body class="show-compare">
+<body class="show-compare" itemscope="" itemtype="http://schema.org/WebPage" style="">
 	
 	
 	<script type="text/javascript">
@@ -78,9 +85,24 @@ if (typeof r3_common != 'undefined')
 	{
 		R3_COMMON.setUserId(hashedUserId);
 	}
+	var countryLoc = $.cookie('C_LOC');
+	if (countryLoc != null && typeof(countryLoc) != 'undefined' && countryLoc != '')
+	{
+		R3_COMMON.setRegionId(countryLoc);
+	}
+	var user = getMemberCookie(), signedIn = user.signedIn, costcoMember = user.costcoMember;
+	mos.setUserInfo(signedIn,costcoMember);
+	signedIn = (signedIn == 'undefined') ? false : signedIn;
+	costcoMember = (costcoMember == 'undefined') ? false : costcoMember;
+	var rrUserInfo = {};
+	rrUserInfo.signedIn = signedIn;
+	rrUserInfo.costcoMember = costcoMember;
 	
-			R3_COMMON.setBaseUrl('http://recs.richrelevance.com/rrserver/');
-		
+	R3_COMMON.setBaseUrl(window.location.protocol+"//"+'recs.richrelevance.com/rrserver/');
+	
+	R3_COMMON.setClickthruServer(window.location.protocol+"//"+window.location.host);
+	
+	
 	 	var R3_CATEGORY = new r3_category();
 		R3_CATEGORY.setId('32510');
 		
@@ -124,7 +146,7 @@ if (typeof r3_common != 'undefined')
 	<div id="page">
 		<!-- BEGIN LayoutContainerTop.jspf --><!-- BEGIN HeaderDisplay.jspf --> 
 
-<a href="#" class="skipToMainContent">Skip to Main Content</a>
+<a href="#main_content" class="skipToMainContent">Skip to Main Content</a>
 <div id="top-navigation-wrap">
 	<div class="c1000">
 		<ul id="lob-navigation">
@@ -155,6 +177,7 @@ if (typeof r3_common != 'undefined')
 		<li><a href="http://www.costco.com"><img class="flag" src="/wcsstore/CostcoGLOBALSAS/images/flags/US.png" alt="United States">United States</a></li>
     	<li><a href="http://www.costco.ca"><img class="flag" src="/wcsstore/CostcoGLOBALSAS/images/flags/CA.png" alt="Canada">Canada</a></li>
     	<li><a href="http://www.costco.co.uk"><img class="flag" src="/wcsstore/CostcoGLOBALSAS/images/flags/UK.png" alt="United Kingdom">United Kingdom</a></li>
+    	<li><a href="http://www.costco.com.mx"><img class="flag" src="/wcsstore/CostcoGLOBALSAS/images/flags/MX.png" alt="Mexico">Mexico</a></li>
 	</ul>
 </div>
 	
@@ -163,15 +186,250 @@ if (typeof r3_common != 'undefined')
 		
 <div id="header-wrap">
 	<div class="c1000">
-		
+		<!--  flush cannot be first line of file -->
 
+<script type="text/javascript">
 
+var countries = [ 
 
+		{ 
+			"code" : "US",
+			"displayName" : "United States",
+ 			"states" : [
+ 						{ 	"code" : "NO_STATE_TYPE_SELECTED",
+ 							"displayName" : "* Select"
+ 						},
+				
+			  			{ 	"code" : "AA",
+			  				"displayName" : "AA - Armed Forces America"
+			  			}
+			  		,
+			  			{ 	"code" : "AE",
+			  				"displayName" : "AE - Armed Forces Europe"
+			  			}
+			  		,
+			  			{ 	"code" : "AL",
+			  				"displayName" : "Alabama"
+			  			}
+			  		,
+			  			{ 	"code" : "AK",
+			  				"displayName" : "Alaska"
+			  			}
+			  		,
+			  			{ 	"code" : "AP",
+			  				"displayName" : "AP - Armed Forces Pacific"
+			  			}
+			  		,
+			  			{ 	"code" : "AZ",
+			  				"displayName" : "Arizona"
+			  			}
+			  		,
+			  			{ 	"code" : "AR",
+			  				"displayName" : "Arkansas"
+			  			}
+			  		,
+			  			{ 	"code" : "CA",
+			  				"displayName" : "California"
+			  			}
+			  		,
+			  			{ 	"code" : "CO",
+			  				"displayName" : "Colorado"
+			  			}
+			  		,
+			  			{ 	"code" : "CT",
+			  				"displayName" : "Connecticut"
+			  			}
+			  		,
+			  			{ 	"code" : "DE",
+			  				"displayName" : "Delaware"
+			  			}
+			  		,
+			  			{ 	"code" : "DC",
+			  				"displayName" : "District of Columbia"
+			  			}
+			  		,
+			  			{ 	"code" : "FL",
+			  				"displayName" : "Florida"
+			  			}
+			  		,
+			  			{ 	"code" : "GA",
+			  				"displayName" : "Georgia"
+			  			}
+			  		,
+			  			{ 	"code" : "HI",
+			  				"displayName" : "Hawaii"
+			  			}
+			  		,
+			  			{ 	"code" : "ID",
+			  				"displayName" : "Idaho"
+			  			}
+			  		,
+			  			{ 	"code" : "IL",
+			  				"displayName" : "Illinois"
+			  			}
+			  		,
+			  			{ 	"code" : "IN",
+			  				"displayName" : "Indiana"
+			  			}
+			  		,
+			  			{ 	"code" : "IA",
+			  				"displayName" : "Iowa"
+			  			}
+			  		,
+			  			{ 	"code" : "KS",
+			  				"displayName" : "Kansas"
+			  			}
+			  		,
+			  			{ 	"code" : "KY",
+			  				"displayName" : "Kentucky"
+			  			}
+			  		,
+			  			{ 	"code" : "LA",
+			  				"displayName" : "Louisiana"
+			  			}
+			  		,
+			  			{ 	"code" : "ME",
+			  				"displayName" : "Maine"
+			  			}
+			  		,
+			  			{ 	"code" : "MD",
+			  				"displayName" : "Maryland"
+			  			}
+			  		,
+			  			{ 	"code" : "MA",
+			  				"displayName" : "Massachusetts"
+			  			}
+			  		,
+			  			{ 	"code" : "MI",
+			  				"displayName" : "Michigan"
+			  			}
+			  		,
+			  			{ 	"code" : "MN",
+			  				"displayName" : "Minnesota"
+			  			}
+			  		,
+			  			{ 	"code" : "MS",
+			  				"displayName" : "Mississippi"
+			  			}
+			  		,
+			  			{ 	"code" : "MO",
+			  				"displayName" : "Missouri"
+			  			}
+			  		,
+			  			{ 	"code" : "MT",
+			  				"displayName" : "Montana"
+			  			}
+			  		,
+			  			{ 	"code" : "NE",
+			  				"displayName" : "Nebraska"
+			  			}
+			  		,
+			  			{ 	"code" : "NV",
+			  				"displayName" : "Nevada"
+			  			}
+			  		,
+			  			{ 	"code" : "NH",
+			  				"displayName" : "New Hampshire"
+			  			}
+			  		,
+			  			{ 	"code" : "NJ",
+			  				"displayName" : "New Jersey"
+			  			}
+			  		,
+			  			{ 	"code" : "NM",
+			  				"displayName" : "New Mexico"
+			  			}
+			  		,
+			  			{ 	"code" : "NY",
+			  				"displayName" : "New York"
+			  			}
+			  		,
+			  			{ 	"code" : "NC",
+			  				"displayName" : "North Carolina"
+			  			}
+			  		,
+			  			{ 	"code" : "ND",
+			  				"displayName" : "North Dakota"
+			  			}
+			  		,
+			  			{ 	"code" : "OH",
+			  				"displayName" : "Ohio"
+			  			}
+			  		,
+			  			{ 	"code" : "OK",
+			  				"displayName" : "Oklahoma"
+			  			}
+			  		,
+			  			{ 	"code" : "OR",
+			  				"displayName" : "Oregon"
+			  			}
+			  		,
+			  			{ 	"code" : "PA",
+			  				"displayName" : "Pennsylvania"
+			  			}
+			  		,
+			  			{ 	"code" : "PR",
+			  				"displayName" : "Puerto Rico"
+			  			}
+			  		,
+			  			{ 	"code" : "RI",
+			  				"displayName" : "Rhode Island"
+			  			}
+			  		,
+			  			{ 	"code" : "SC",
+			  				"displayName" : "South Carolina"
+			  			}
+			  		,
+			  			{ 	"code" : "SD",
+			  				"displayName" : "South Dakota"
+			  			}
+			  		,
+			  			{ 	"code" : "TN",
+			  				"displayName" : "Tennessee"
+			  			}
+			  		,
+			  			{ 	"code" : "TX",
+			  				"displayName" : "Texas"
+			  			}
+			  		,
+			  			{ 	"code" : "UT",
+			  				"displayName" : "Utah"
+			  			}
+			  		,
+			  			{ 	"code" : "VT",
+			  				"displayName" : "Vermont"
+			  			}
+			  		,
+			  			{ 	"code" : "VA",
+			  				"displayName" : "Virginia"
+			  			}
+			  		,
+			  			{ 	"code" : "WA",
+			  				"displayName" : "Washington"
+			  			}
+			  		,
+			  			{ 	"code" : "WV",
+			  				"displayName" : "West Virginia"
+			  			}
+			  		,
+			  			{ 	"code" : "WI",
+			  				"displayName" : "Wisconsin"
+			  			}
+			  		,
+			  			{ 	"code" : "WY",
+			  				"displayName" : "Wyoming"
+			  			}
+			  		
+			  		   ]
+		}
+];
+
+</script>
 
 <!-- BEGIN CachedHeaderDisplay.jsp --><!--  Defect #CIS100068720 Default Date Range calculation  --><!-- Defect CIS100068754 : Added locale variable --><!-- Section Ends --> 
 
 <div id="header" class="c1000">
-	<a class="header-logo" href="http://www.costco.com/" id="WC_CachedHeaderDisplay_Link_2"><img src="/wcsstore/CostcoGLOBALSAS/images/costco_wholesale_214_64.png" alt="Costco.com"></a>
+	<a class="header-logo" href="http://www.costco.com/" id="WC_CachedHeaderDisplay_Link_2"><img src="/wcsstore/CostcoGLOBALSAS/images/costco_wholesale_214_64.png" alt="Costco US homepage"></a>
 	<ul id="header_links1" class="axs navigation">
 		<li>
 			<a href="http://www.costco.com/WarehouseLocatorView?langId=-1&amp;storeId=10301&amp;catalogId=10701" class="dropdown-link">Warehouse Locations</a>
@@ -226,7 +484,7 @@ if (typeof r3_common != 'undefined')
 						</ul>
 					</div>
 		    		<div class="form-item submit-row">
-			    		<button type="submit" class="submit costco-button"><span class="s1"><span class="s2">Find</span></span></button>
+			    		<button type="submit" class="submit">Find</button>
 			    	</div>
 		    	</form>
 		    </div>
@@ -254,7 +512,7 @@ if (typeof r3_common != 'undefined')
 						<input style="display:block;" id="header_emailSignUpEmail" name="emailSignUp" type="text">
 					</div>
 			    	<div class="form-item">
-				   		<button type="submit" class="submit costco-button"><span class="s1"><span class="s2">Sign up</span></span></button>
+				   		<button type="submit" class="submit">Sign up</button>
 				   	</div>
 			    </form>
 			</div>
@@ -268,20 +526,52 @@ if (typeof r3_common != 'undefined')
 					<script>
 						var cashCardBalanceUrl = 'https://www.costco.com/CashCardFormView?langId=-1&storeId=10301&catalogId=10701';
 					</script>
-					<iframe id="CashCardIFrame" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+					<iframe title="Cash Card Form" id="CashCardIFrame" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
 				</div>
 			</li>
 		
 		<li><a href="http://www.costco.com/customer-service.html">Customer Service</a></li>
 	</ul>
+	
+	<div id="header-promo" class="espot">	
+		<!-- BEGIN ContentAreaESpot.jsp -->
+
+
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_Header">
+	<div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_Header">[Header]</div>
+
+	
+
+	<div class="featureAllItems">
+		<ul class="featureItemsTable">
+						
+
+				<li value="1">	
+				
+                           <a id="WC_ContentAreaESpot_links_7_" class="ClickInfoLink" href="http://www.costco.com/join-costco.html?cm_re=Common-_-Top_Nav-_-Join_Now">
+                           	<span class="ClickInfoUrl" style="display:none;">http://www.costco.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=-1010&amp;intv_id=34501&amp;storeId=10301&amp;catalogId=10701&amp;langId=-1&amp;URL=%2fwcsstore%2fhtml%2fblank.html</span>
+                       <h3>Join the millions already saving!</h3>               
+                           </a>
+                       
+				</li>
+				
+				
+		</ul>
+	</div>
+</div>
+
+<!-- END ContentAreaESpot.jsp -->
+	</div>
 	<ul id="header_links">
 		
 			<li>
-	        	<a href="http://www.costco.com/OrderByItemsDisplayView?storeId=10301&amp;catalogId=10701&amp;langId=-1&amp;fromPage=OrderByItemsDisplayView">Order by Item Number</a>
+	        	<a href="https://www.costco.com/OrderByItemsDisplayView?storeId=10301&amp;catalogId=10701&amp;langId=-1&amp;fromPage=OrderByItemsDisplayView">Order by Item Number</a>
 	        </li>
         
        	<li>
-			<a href="https://www.costco.com/OrderStatusCmd?storeId=10301&amp;catalogId=10701&amp;langId=-1&amp;orderStatusStyle=strong&amp;URL=OrderStatusSummaryView&amp;fromYear=2013&amp;fromMonth=12&amp;toYear=2013&amp;toMonth=5" class="h_tnav_but" id="WC_CachedHeaderDisplay_Link_3">Order Status</a>
+			<a href="https://www.costco.com/OrderStatusCmd?storeId=10301&amp;catalogId=10701&amp;langId=-1&amp;orderStatusStyle=strong&amp;URL=OrderStatusSummaryView&amp;fromYear=2013&amp;fromMonth=6&amp;toYear=2013&amp;toMonth=11" class="h_tnav_but" id="WC_CachedHeaderDisplay_Link_3">Order Status</a>
        	</li>
         <li>
         	<a href="https://www.costco.com/LogonForm?langId=-1&amp;storeId=10301&amp;catalogId=10701&amp;URL=LogonForm" class="h_tnav_but" id="headerMyAccount">My Account</a>
@@ -292,38 +582,19 @@ if (typeof r3_common != 'undefined')
 		<li id="signInOutContainer">
 			
 			<a href="https://www.costco.com/LogonForm?langId=-1&amp;storeId=10301&amp;catalogId=10701" class="red" id="logon">Sign In or Register</a>
-			<a href="https://www.costco.com/Logoff?langId=-1&amp;storeId=10301&amp;catalogId=10701&amp;URL=TopCategoriesDisplay" id="logoff" style="display: none;">Sign Out</a>
+			<a href="https://www.costco.com/Logoff?langId=-1&amp;storeId=10301&amp;catalogId=10701&amp;URL=TopCategoriesDisplay" id="logoff">Sign Out</a>
 		</li>
 		<script type="text/javascript">signInOutContainerInit();</script>
 
 	</ul>
-	<div id="header-promo" class="espot">
-		<!-- BEGIN ContentAreaESpot.jsp -->
-
-
-
-
-<div class="genericESpot" id="WC_ContentAreaESpot_div_1_Header">
-	<div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_Header">[Header]</div>
-
 	
-                           <a id="WC_ContentAreaESpot_links_7_1" class="ClickInfoLink" href="http://www.costco.com/warehouse-coupon-offers.html">
-                           	<span class="ClickInfoUrl" style="display:none;">http://www.costco.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=-1010&amp;intv_id=34501&amp;storeId=10301&amp;catalogId=10701&amp;langId=-1&amp;URL=%2fwcsstore%2fhtml%2fblank.html</span>
-                       <h3>Click here for warehouse savings starting 6/13/13</h3>               
-                           </a>
-                       
-
-</div>
-
-<!-- END ContentAreaESpot.jsp -->
-	</div>
 </div>
 
 <div id="sub-header">
 	<!-- BEGIN TopNavigationDisplay.jsp -->
 
 <div id="category-navigation" class="ui-corner-tl">
-	<span tabindex="0" class="subhead-title">SHOP ALL DEPARTMENTS</span>				
+	<span tabindex="0" class="subhead-title" id="shop_all_dept_header">SHOP ALL DEPARTMENTS</span>				
 	<div id="category-navigation-categories">
 		<ul>
 		<li class="first">&nbsp;</li>
@@ -377,7 +648,7 @@ if (typeof r3_common != 'undefined')
 				</li>
 			
 				<li>
-					<a href="http://www.costco.com/jewelry.html" id="WC_CategoriesSidebarDisplayf_links_3_13" name="Jewelry" title="Jewelry">Jewelry</a>
+					<a href="http://www.costco.com/jewelry.html" id="WC_CategoriesSidebarDisplayf_links_3_13" name="Jewelry &amp; Watches" title="Jewelry &amp; Watches">Jewelry &amp; Watches</a>
 				</li>
 			
 				<li>
@@ -394,6 +665,10 @@ if (typeof r3_common != 'undefined')
 			
 				<li>
 					<a href="http://www.costco.com/sports-fitness.html" id="WC_CategoriesSidebarDisplayf_links_3_17" name="Sports &amp; Fitness" title="Sports &amp; Fitness">Sports &amp; Fitness</a>
+				</li>
+			
+				<li>
+					<a href="http://www.costco.com/travel-luggage.html" id="WC_CategoriesSidebarDisplayf_links_3_18" name="Travel &amp; Luggage" title="Travel &amp; Luggage">Travel &amp; Luggage</a>
 				</li>
 			
 			<li class="last">&nbsp;</li>
@@ -415,7 +690,7 @@ if (typeof r3_common != 'undefined')
 	<div id="mini-shopping-cart" class="ui-corner-tr">
 		<!-- BEGIN MiniShopCartDisplay.jsp -->
 
-<a href="https://www.costco.com/OrderItemDisplayViewShiptoAssoc?langId=-1&amp;storeId=10301&amp;catalogId=10701&amp;orderId=." class="subhead-title">
+<a href="https://www.costco.com/CheckoutCartView?langId=-1&amp;storeId=10301&amp;catalogId=10701&amp;orderId=." class="subhead-title">
 	Cart
 </a>
 
@@ -423,11 +698,9 @@ if (typeof r3_common != 'undefined')
 	</div>		
 	<script type="text/javascript">miniShopCartRefresh();</script>
 </div>
-<!-- END CachedHeaderDisplay.jsp -->	
+<!-- END CachedHeaderDisplay.jsp --><!-- BreadCrumbs -->
 
-
-
-<ul id="breadcrumbs">
+<ul id="breadcrumbs" itemprop="breadcrumb">
 <li>
 	
 	<a href="http://www.costco.com/">
@@ -435,6 +708,10 @@ if (typeof r3_common != 'undefined')
 	</a>
 </li>
 
+			<li>
+				
+			</li>
+		
 			<li>
 				
 			</li>
@@ -486,7 +763,14 @@ if (typeof r3_common != 'undefined')
 <div class="genericESpot" id="WC_ContentAreaESpot_div_1_privacy-policy-1_Slot1">
 	<div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_privacy-policy-1_Slot1">[privacy-policy-1_Slot 1]</div>
 
-	<style type="text/css">
+	
+
+	<div class="featureAllItems">
+		<ul class="featureItemsTable">
+						
+
+				<li value="1">	
+				<style type="text/css">
 
 /* CSS Document - updated 130306*/
 
@@ -804,10 +1088,52 @@ ul.ftpg-6columns-fair-list2 {
 
 /******* 6-COL-Fair *******/
 
-</style><!-------start fp-legal-privacy-policy ------->
+
+/***********FOR FULL SITE LP - MVM***********/
+
+    #fullsiteContent {
+        background-color: #EFEFEF;
+    }
+	
+    div.itemWrapper {
+		width: 900px;
+		margin-left: auto;
+		margin-right: auto;
+		
+	}
+	
+    .bigImage {
+        max-width: 900px;
+    }
+    
+    div.promoProduct {
+        max-width: 210px;
+		margin: 15px 5px 15px 5px;
+        display: inline-block;
+        vertical-align: top;
+        float:left;
+    }
+    
+    .promoProductImg {
+        max-width: 200px;
+		padding: 3px; 
+		border: 2px solid #e6e6e6;
+    }
+	
+	.promoProductTxt {
+        padding: 5px 10px 10px 8px;
+    }
+
+</style>
+				</li>
+				
+							
+
+				<li value="2">	
+				<!-------start fp-legal-privacy-policy ------->
 <h1 style="TEXT-ALIGN: center">Costco Wholesale  Corporation<br>Your Privacy Rights</h1>
 <h3 class="ftpg" style="TEXT-ALIGN: center"> (United States and  Puerto Rico) <br>
-  Last Updated October 22, 2012 </h3>
+  Last Updated December 31, 2013 </h3>
 <p>This privacy statement (also referred to as Costco's Privacy  Policy) explains our privacy practices for our customers who: (1) shop in our  United States and Puerto Rico warehouses or (2) use our website, <a href="http://www.costco.com/">www.costco.com</a>. </p>
 <h2 class="ftpg">Costco's Commitment to Privacy</h2>
 <p>We respect your right to privacy. We do not sell, rent,  share or disclose personal information to third parties without your prior  consent, except in the circumstances described in this Privacy Statement.  In addition, your ability to make informed  choices about the uses of your information is important to us. This privacy  statement explains our policy regarding the collection, use, disclosure and  protection of personal information. The links below provide detailed  information about our privacy practices:</p>
@@ -947,11 +1273,11 @@ ul.ftpg-6columns-fair-list2 {
   <ol class="number">
     <p></p>
     <li class="number" id="H1"><strong>Health Care Centers</strong> <br>
-      We appreciate the importance of  safeguarding the privacy of your personal health information and consequently  we have special procedures to protect this sensitive information provided to  our pharmacies, and optical and hearing aid departments ("Health Care  Centers"). Personal health information includes your prescription  information, your Pharmacy Patient Profile and other related information. Review  our <a href="/health-center-privacy.html">Health Care Centers' Notice of Privacy Practices</a>. If you are an Executive Member, your purchase  information from our Health Care Centers will be combined with your other  personal information to calculate your Executive Member 2% Reward, subject to  the terms and conditions of that program.</li>
+      We appreciate the importance of  safeguarding the privacy of your personal health information and consequently  we have special procedures to protect this sensitive information provided to  our pharmacies, and optical and hearing aid departments ("Health Care  Centers"). Personal health information includes your prescription  information, your Pharmacy Patient Profile and other related information. Review  our <a href="http://www2.costco.com/Images/Content/misc/PDF/Notice_of%20_Privacy%20_Practice_09-23-13.pdf" target="_blank">Notice of Privacy Practices: Pharmacies &amp; Health Care Centers</a>. If you are an Executive Member, your purchase  information from our Health Care Centers will be combined with your other  personal information to calculate your Executive Member 2% Reward, subject to  the terms and conditions of that program.</li>
     <p></p>
     <p></p>
     <li class="number" id="H2"><strong>Pharmacies</strong> <br>
-      This section explains our policy  with respect to the uses of personal pharmacy information, whether you use our  services online or in a warehouse pharmacy. Prescription information is stored  in an electronic system separate from all other member stored personal  information. To fill your prescriptions, we collect your name, address,  telephone number, age, gender, allergies, and other prescription-related  information. We are required by law to collect this type of information to  identify potentially dangerous drug interactions or other health concerns. We  use this information to process your order, contact you with any questions and  provide you with the counseling you may require. Our pharmacist database is  maintained separately from other Member databases. Only licensed pharmacists,  specifically authorized staff, and others permitted by law to view this  database, are allowed to do so. When you use our services, you consent to our  use and disclosure of your personal health information for purposes of  treatment, payment or health care operations. We do not otherwise sell, share,  rent or disclose personal information collected from our pharmacy pages or  maintained in pharmacist records unless you have authorized such disclosure, or  such disclosure is permitted or required by law. Additional terms regarding the  confidentiality of your prescription information are explained in our  confidentiality of personal pharmacy information page located on our Web site <a href="https://www2.costco.com/Pharmacy/RegPharmacy/PrivacyPolicyHealthCareConsent.aspx?lang=en-US" target="_blank">https://www2.costco.com/Pharmacy/RegPharmacy/PrivacyPolicyHealthCareConsent.aspx?lang=en-US</a> and incorporated in this Privacy Policy by this reference. Please review these  terms so that you understand how they affect your actions and information. </li>
+      This section explains our policy  with respect to the uses of personal pharmacy information, whether you use our  services online or in a warehouse pharmacy. Prescription information is stored  in an electronic system separate from all other member stored personal  information. To fill your prescriptions, we collect your name, address,  telephone number, age, gender, allergies, and other prescription-related  information. We are required by law to collect this type of information to  identify potentially dangerous drug interactions or other health concerns. We  use this information to process your order, contact you with any questions and  provide you with the counseling you may require. Our pharmacist database is  maintained separately from other Member databases. Only licensed pharmacists,  specifically authorized staff, and others permitted by law to view this  database, are allowed to do so. When you use our services, you consent to our  use and disclosure of your personal health information for purposes of  treatment, payment or health care operations. We do not otherwise sell, share,  rent or disclose personal information collected from our pharmacy pages or  maintained in pharmacist records unless you have authorized such disclosure, or  such disclosure is permitted or required by law. Additional terms regarding the  confidentiality of your prescription information are explained in our  confidentiality of personal pharmacy information page located on our <a href="http://www2.costco.com/Images/Content/misc/PDF/Notice_of%20_Privacy%20_Practice_09-23-13.pdf" target="_blank">Notice of Privacy Practices: Pharmacies &amp; Health Care Centers</a> and incorporated in this Privacy Policy by this reference. Please review these  terms so that you understand how they affect your actions and information. </li>
     <p></p>
   </ol>
 </div>
@@ -960,13 +1286,13 @@ ul.ftpg-6columns-fair-list2 {
   <ol class="number">
     <p></p>
     <li class="number" id="I1"><strong>Information Gathering and Use.<br>
-      </strong>We use cookies.  Cookies are small files that are stored on  your computer. They enable us to monitor online activity.  We use this information to help optimize your  shopping experience. For example, we may customize our home page for you,  better display pages according to your browser type, and/or deliver customized  product recommendations and email.  To  opt out of these features see <a href="#G">Choices</a>.   Cookies are not spyware, and Costco does not collect multi-site data or  share information with others that we gather through cookies.<br>
+      </strong>We use cookies.  Cookies are small files that are stored on  your computer. They enable us to monitor online activity.  We use this information to help optimize your  shopping experience. For example, we may customize our home page for you,  better display pages according to your browser type, and/or deliver customized  product recommendations and email.  To  opt out of these features see <a href="#G">Choices</a>.   Cookies are not spyware, and Costco does not collect multi-site data, share information with others that we gather through cookies or allow others to gather information on our site using cookies.  Currently our site does not respond to “Do Not Track” features enabled through your browser.<br>
       <br>
       Like most web sites, our servers  log your IP address, the URL from which you accessed our site, your browser  type, and the date and time of your purchases and other activities.  We use this information for system  administration, troubleshooting, fraud investigation and communications from  Costco (only).<br>
       <br>
       Finally, we use web beacons to  determine when and how many times a page has been viewed.  Again, we use this information for our own  marketing purposes.<br>
       <br>
-      Your browser will accept cookies  and allow automatic collection of information unless you change the browser default settings.  If cookies are disabled the web site will not load properly.</li>
+      Your browser will accept cookies  and allow automatic collection of information unless you change the browser default settings.  If cookies are disabled the web site will not load properly. Currently our site does not respond to "do not track" mechanisms.</li>
     <p></p>
     <p></p>
     <li class="number" id="I2"><strong>Links  to Other Sites</strong> <br>
@@ -1017,7 +1343,11 @@ ul.ftpg-6columns-fair-list2 {
 <p>We may change this privacy statement at any time, but will  alert you that changes have been made by indicating at the top of the privacy  statement the date it was last updated. We encourage you to review our privacy  statement to make sure you understand how your Personal Information will be  used. If we make a material change to how we use Personal Information and the  new uses are unrelated to uses we disclose in this statement, we will  communicate the changes in advance.</p>
 <p></p>
 <!-------end fp-legal-privacy-policy ------->
-
+				</li>
+				
+				
+		</ul>
+	</div>
 </div>
 
 <!-- END ContentAreaESpot.jsp -->
@@ -1043,11 +1373,18 @@ ul.ftpg-6columns-fair-list2 {
 <div class="genericESpot" id="WC_ContentAreaESpot_div_1_Footer">
 	<div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_Footer">[Footer]</div>
 
-	<!-- usa-official-footer-121220 -->
+	
+
+	<div class="featureAllItems">
+		<ul class="featureItemsTable">
+						
+
+				<li value="1">	
+				<!-- usa-official-footer-121220 -->
 <ul class="c980">
   <li class="footer-column"> 
     <ul>
-      <li class="column-header">About us</li>
+      <li class="column-header"><a href="/about.html">About us</a></li>
       <li><a href="/membership-information.html">Company Information </a></li>
       <li><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=83830&amp;p=irol-irhome&amp;cm_re=1_en-_-Bottom_Nav-_-Bottom_investor&amp;lang=en-US" target="_blank">Investor Relations</a></li>
       <li><a href="/privacy-policy.html">Your Privacy Rights</a></li>
@@ -1060,7 +1397,7 @@ ul.ftpg-6columns-fair-list2 {
   </li>
   <li class="footer-column">
     <ul>
-      <li class="column-header">Membership</li>
+      <li class="column-header"><a href="/membership.html">Membership</a></li>
       <li><a href="/join-costco.html">Join Now</a></li>
       <li><a href="/membership-renewal.html">Renew Membership</a></li>
       <li><a href="http://www.americanexpress.com/costcofooter">Credit Card</a></li>
@@ -1080,14 +1417,13 @@ ul.ftpg-6columns-fair-list2 {
       <li><a href="/recalls.html">Recalls</a></li>
       <li><a href="/rebates.html">Rebates</a></li>
       <li><a href="/fraud-prevention.html">Preventing Fraud </a></li>
-      <li><a href="/faq.html">FAQs</a></li>
       <li><a href="/export-sales.html">Export Sales</a> </li>
       <li><a href="/volume-bulk-sales.html">Volume Sales</a>
     </li></ul>
   </li>
   <li class="footer-column">
     <ul>
-      <li class="column-header">Locations &amp; Services</li>
+      <li class="column-header">Locations &amp;<br>Services</li>
       <li><a href="/WarehouseLocatorView?langId=-1&amp;storeId=10301&amp;catalogId=10701">Locations</a></li>
       <li><a href="/new-locations.html">Locations Coming Soon</a></li>
       <li><a href="/hours-and-holiday-closures.html">Hours &amp; Holiday Closures</a></li>
@@ -1109,7 +1445,6 @@ ul.ftpg-6columns-fair-list2 {
       <li><a href="http://www.costcoconnection.com/connection/current" target="_blank">Current Issue</a></li>
       <li><a href="/costco-connection-online-edition.html">Recipes The Costco Way</a></li>
       <li><a href="/costco-connection-online-edition.html">Resources</a></li>
-	  <li><a href="http://www.diabetesdigest.com/epubs/CostcoQ412">Diabetes Digest</a></li>
       <li class="column-header"><a href="/vendor-inquiries.html">Vendors &amp; Suppliers</a> </li>
       <li><a href="/disclosure-regarding-human-trafficking-and-anti-slavery.html">Supply Chain Disclosure</a> </li>
       <li><a href="/confidential-ethics-hotline-for-suppliers.html">Ethics Hotline for Suppliers</a> </li>
@@ -1127,7 +1462,7 @@ ul.ftpg-6columns-fair-list2 {
           <input style="display:block;" id="footer_emailSignUpEmail" name="emailSignUp" type="text">
         </li>
         <li style="margin-top: 5px;">
-          <button type="submit" class="submit costco-button"><span class="s1"><span class="s2">Sign up</span></span></button>
+          <button type="submit" class="submit">Sign up</button>
         </li>
         <li>&nbsp;</li>
         <li>© 1998 — 2013</li>
@@ -1139,7 +1474,11 @@ ul.ftpg-6columns-fair-list2 {
 </ul>
 <!-- usa-official-footer-121220 -->
 
-
+				</li>
+				
+				
+		</ul>
+	</div>
 </div>
 
 <!-- END ContentAreaESpot.jsp -->
@@ -1173,7 +1512,7 @@ ul.ftpg-6columns-fair-list2 {
 
 </div>
 
-<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/jquery/jquery-ui-1.8.10.custom.min.js"></script>
+<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/jquery/jquery-ui-1.10.1.custom.min.js"></script>
 <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/jquery/jquery.tmpl.min.js"></script>
 <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/jquery.hover.js"></script>
 <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/jquery/jquery.hoverIntent.minified.js"></script>
@@ -1183,20 +1522,20 @@ ul.ftpg-6columns-fair-list2 {
 <script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/jquery.validate.js"></script>
 
 
-<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/costco.js"></script>
-<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/productCompare.js"></script>
-<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/categoryNavigation.js"></script>
-<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/ezColumns.js"></script>
-<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/carousel.js"></script>
-<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/json2.js"></script>
-<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/forms.js"></script>
+<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/costco.js?v=3054710"></script>
+<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/productCompare.js?v=3054710"></script>
+<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/categoryNavigation.js?v=3054710"></script>
+<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/ezColumns.js?v=3054710"></script>
+<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/carousel.js?v=3054710"></script>
+<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/json2.js?v=3054710"></script>
+<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/forms.js?v=3054710"></script>
 
 
 
-<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/member.js"></script>
+<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/member.js?v=3054710"></script>
 
 
-	<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/catalog.js"></script>
+	<script type="text/javascript" src="/wcsstore/CostcoGLOBALSAS/javascript/catalog.js?v=3054710"></script>
 <!-- END FooterDisplay.jspf -->
 
 <script type="text/javascript">
