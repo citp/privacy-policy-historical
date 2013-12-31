@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the isubscribe.com.au privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530042922id_/http%3A//www.isubscribe.com.au/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isubscribe.com.au privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231035522id_/http%3A//www.isubscribe.com.au/privacy.cfm) for the most accurate reproduction.*
 
-# Privacy - Australian Magazines :: iSUBSCRiBE - magazine subscriptions online
+# Privacy Policy :: iSUBSCRiBE - Magazine Subscription Specialists
 
 iSUBSCRiBE Pty Ltd is committed to protecting and maintaining your privacy. As part of normal daily operations we may collect your information. The following Privacy Policy describes the type of information iSUBSCRiBE may collect and what may happen to that information.
 
@@ -14,7 +14,7 @@ iSUBSCRiBE may also be provided with personal information about an individual fr
 
 The type of personal information collected includes (but is not limited to) name, address, contact details, age range and gender.
 
- **How is this information used by iSUBSCRiBE?**
+**How is this information used by iSUBSCRiBE?**
 
 iSUBSCRiBE uses personal information primarily for the purpose to facilitate orders for subscriptions via it's website(s).
 
@@ -26,10 +26,20 @@ From time to time, we may provide statistical information about sales, trading p
 
 Unless requested not to, iSUBSCRiBE may provide your personal information to third parties, which may in turn provide your information to other third parties for marketing purposes. If you would not like us to share your information in this way please notify us by submitting the email address you used to subscribe here:
 
+by email: [info@isubscribe.com.au](mailto:info@isubscribe.com.au?subject=Unsubscribe&body=Please%20unsubscribe%20me%20from%20further%20information%20from%20magazine%20publishers%20or%20other%20organisations.)  
+or call us on 1300 303 619  
+ 
+
+**To whom might iSUBSCRiBE disclose Personal Information?**
+
 iSUBSCRiBE will provide your information to Publishers of the magazines / newspapers you have subscribed to so that the subscriptions can be fulfilled.
 
 iSUBSCRiBE may also provide your information to other organizations who are sponsoring or otherwise involved with or participating in a promotion, competition or survey; including registered companies that are involved with the drawing of the prize and database management entities.
 
+**Use of Internet Cookies online**
+
 Cookies are small pieces of information that are stored by your browser on your computers hard drive. Our cookies do not contain any personally identifying information, but they do enable us to provide the functionality you require when visiting iSUBSCRiBE websites (for example, to place items in your shopping cart).
 
-If you would like to make an access request or wish to provide feedback about this policy, please contact iSUBSCRiBE by writing to the General Manager iSUBSCRiBE Pty Ltd, Suite 17, 13 Hickson Road, Dawes Point NSW Australia 2000 or via e-mail [info@isubscribe.com.au](mailto:info@isubscribe.com.au)
+**How to contact iSUBSCRiBE**
+
+If you would like to make an access request or wish to provide feedback about this policy, please contact iSUBSCRiBE by writing to the General Manager iSUBSCRiBE Pty Ltd, Suite 17, 13 Hickson Road, Dawes Point NSW Australia 2000 or via e-mail info@isubscribe.com.au  
