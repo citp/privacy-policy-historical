@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudmade.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628073226id_/http%3A//cloudmade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudmade.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231064019id_/http%3A//cloudmade.com/privacy-policy) for the most accurate reproduction.*
 
 # CloudMade Privacy Policy | CloudMade - The Location Platform Serving OEMs, Enterprises & Developers
 
