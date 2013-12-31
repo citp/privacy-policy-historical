@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elanceonline.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425113454id_/https%3A//www.elance.com/p/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elanceonline.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231015542id_/https%3A//www.elance.com/p/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Elance
 
@@ -108,7 +108,7 @@ We share the email addresses of Contractors and Clients to each other once a pro
 
 ### Tracker Software
 
-We may use the information collected and transferred to us by Tracker to determine whether Elance will guarantee your work. Elance may disclose your Tracker information to your Clients. You will have the ability to choose which Screenshots are disclosed to the Client. Notwithstanding the foregoing, Clients will have the ability to view any Screenshots transferred to the Workroom until you choose not to share such Screenshots. Elance may use other information transferred by Tracker, such as your Account and computer information, to provide you services or improve our Site Services.
+We may use the information collected and transferred to us by Tracker to determine whether Elance will guarantee payment for your work. Elance may disclose your Tracker information to your Clients. You will have the ability to choose which Screenshots are disclosed to the Client (and that will affect whether Elance will guarantee payment for that work). Notwithstanding the foregoing, Clients will have the ability to view any Screenshots transferred to the Workroom until you choose not to share such Screenshots. Elance may use other information transferred by Tracker, such as your Account and computer information, to provide you services or improve our Site Services.
 
 ### Social Media Widgets
 
