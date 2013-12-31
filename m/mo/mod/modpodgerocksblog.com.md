@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the modpodgerocksblog.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618202420id_/http%3A//modpodgerocksblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modpodgerocksblog.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231051728id_/http%3A//modpodgerocksblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Mod Podge Rocks
+# Privacy Policy
 
 The privacy of our visitors to modpodgerocksblog.com is important to us.
 
