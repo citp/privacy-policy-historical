@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ericstips.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601071523id_/http%3A//www.ericstips.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ericstips.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231135056id_/http%3A//www.ericstips.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Eric's Tips
-
-## PRIVACY POLICY
 
 **1\. HOW WE PROTECT YOUR PRIVACY.**   
 This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
