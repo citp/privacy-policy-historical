@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rpgmakerweb.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425232354id_/http%3A//www.rpgmakerweb.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgmakerweb.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231102005id_/http%3A//www.rpgmakerweb.com/company/privacy) for the most accurate reproduction.*
 
-# Create Your Own Game | Privacy Policy
+# Privacy Policy | RPG Maker | How To Make A Video Game!
 
 Degica Co., Ltd. ("Degica") is committed to protecting the privacy of any personal information that you may provide to us when using any of our online services.
 
@@ -11,6 +11,8 @@ Degica may collect personally identifiable information if you purchase, download
 ## COOKIES
 
 Degica may from time to time use cookies. A "cookie" is a unique text file that the Degica Web site can send to your Internet browsing software in order to tailor information presented to you based on your browser settings and preferences. Cookies may also be stored on an Internet User’s computer for the purposes of tracking the Internet user’s clicks to ensure that they are directed to the correct click-through destination site, or to track the performance of its business partners and to ensure proper payment for their sales activities related to their business relationship with Degica. Degica’s usage of cookies does not collect any personal information in any way. If you do not want Degica to deploy cookies in your browser, you can set your browser to reject cookies or notify you when a Web site tries to put a cookie in your browser software, however, rejecting cookies may affect your ability to use of some of the products and/or services at our website.
+
+We use proprietary and third party cookies to improve your experience and our services, as well as to display advertising from our website or third party websites based on an analysis of your browsing habits. If you continue browsing, we shall consider that you accept their use. For more information see our Cookies Policy.
 
 ## STATISTICAL INFORMATION
 
@@ -32,7 +34,8 @@ Degica may from time to time make modifications to this Privacy Policy to ensure
 
 If you would like to contact us, or have questions or suggestions regarding our Privacy Policies, please write, or e-mail us at the following address
 
-Degica Co., Ltd.  
+Degica Co., Ltd.
+
 Data Protection Officer Email: [support@rpgmakerweb.com](mailto:support@rpgmakerweb.com)
 
 Effective: 2012.03.15
