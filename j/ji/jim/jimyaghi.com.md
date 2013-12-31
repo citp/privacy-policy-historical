@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jimyaghi.com privacy policy that was archived on 2013-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130321061441id_/http%3A//jimyaghi.com/start/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimyaghi.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231013815id_/http%3A//jimyaghi.com/start/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Fun Education for Home Businesses & Affiliate Marketers HUNGRY for Monster Traffic & Leads | Jim Yaghi
 
@@ -120,13 +120,31 @@ So every single email communication from this website has a link at the bottom a
 
 Complete privacy policy and relevant docs are linked below. please note we will remind you about whatever is important in these docs whenever applicable. i place these here for people who like courts. we don't:
 
-  * [privacy policy](https://web.archive.org/web/20130321061441id_/http%3A//jimyaghi.com/start/legal/privacyPolicy.html)
-  * [anti spam policy](https://web.archive.org/web/20130321061441id_/http%3A//jimyaghi.com/start/legal/antiSpamPolicy.html)
-  * [external links policy](https://web.archive.org/web/20130321061441id_/http%3A//jimyaghi.com/start/legal/externalLinksPolicy.html)
-  * [compensation disclosure](https://web.archive.org/web/20130321061441id_/http%3A//jimyaghi.com/start/legal/compensationDisclosure.html)
-  * [terms and conditions](https://web.archive.org/web/20130321061441id_/http%3A//jimyaghi.com/start/legal/termsAndConditions.html)
-  * [refund policy](https://web.archive.org/web/20130321061441id_/http%3A//jimyaghi.com/start/legal/refundPolicy.html)
-  * [digital millenium copyright act notice](https://web.archive.org/web/20130321061441id_/http%3A//jimyaghi.com/start/legal/DMCANotice.html)
-  * [earning disclaimer](https://web.archive.org/web/20130321061441id_/http%3A//jimyaghi.com/start/legal/earningsDisclaimer.html)
+### Interest Based Data
+
+We use Remarketing at this website.
+
+What this means is, when you visit our website by clicking one of our Google ads, you may begin to see our ads while browsing other websites on the Internet.
+
+There's no need to worry, however. We do not store any personally identifiable information. In fact, any information we use is stored locally on your machine through a "cookie" in your browser.
+
+Third party vendors, including Google, will check for this cookie when you run future searches or use their products. And on the basis of this cookie existing (or not existing) their technology will understand you've showed interest in one of our ads before.
+
+In this case, you may begin to see our ads turn up more often.
+
+By accessing this website, you agree to see our ads on other websites including but not limited to Google, Gmail, YouTube, and any other property that supports Interest Based Advertising.
+
+### How to Opt Out of Interest Based Ads
+
+You can stop seeing our Interest Based ads at any time, by following the instructions here: http://www.google.com/settings/ads .
+
+  * [privacy policy](https://web.archive.org/web/20131231013815id_/http%3A//jimyaghi.com/start/legal/privacyPolicy.html)
+  * [anti spam policy](https://web.archive.org/web/20131231013815id_/http%3A//jimyaghi.com/start/legal/antiSpamPolicy.html)
+  * [external links policy](https://web.archive.org/web/20131231013815id_/http%3A//jimyaghi.com/start/legal/externalLinksPolicy.html)
+  * [compensation disclosure](https://web.archive.org/web/20131231013815id_/http%3A//jimyaghi.com/start/legal/compensationDisclosure.html)
+  * [terms and conditions](https://web.archive.org/web/20131231013815id_/http%3A//jimyaghi.com/start/legal/termsAndConditions.html)
+  * [refund policy](https://web.archive.org/web/20131231013815id_/http%3A//jimyaghi.com/start/legal/refundPolicy.html)
+  * [digital millenium copyright act notice](https://web.archive.org/web/20131231013815id_/http%3A//jimyaghi.com/start/legal/DMCANotice.html)
+  * [earning disclaimer](https://web.archive.org/web/20131231013815id_/http%3A//jimyaghi.com/start/legal/earningsDisclaimer.html)
 
 
