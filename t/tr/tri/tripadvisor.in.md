@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripadvisor.in privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625085318id_/http%3A//www.tripadvisor.in/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.in privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231045737id_/http%3A//www.tripadvisor.in/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - TripAdvisor
 
