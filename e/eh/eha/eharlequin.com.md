@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eharlequin.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607085015id_/http%3A//www.harlequin.com/articlepage.html%3FarticleId%3D897%26chapter%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharlequin.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231212449id_/http%3A//www.harlequin.com/articlepage.html%3FarticleId%3D897%26chapter%3D0) for the most accurate reproduction.*
 
 # Harlequin.com | Privacy Policy
 
-[Click here](https://web.archive.org/web/20130607085015id_/http%3A//media/images/pdf/HarlequinPrivacyPolicy.pdf) for a printable version of Harlequin's Privacy Policy. 
+[Click here](https://web.archive.org/web/20131231212449id_/http%3A//media/images/pdf/HarlequinPrivacyPolicy.pdf) for a printable version of Harlequin's Privacy Policy. 
 
 **Effective Date: October 3, 2006**   
 **Last Updated: August 19, 2011**
@@ -196,3 +196,14 @@ Attention: Chief Privacy Officer
 Fax Number: (416) 391-7055
 
 If the issue is still not resolved to your satisfaction, you may file a complaint with the Privacy Commissioner of Canada.
+
+### Stay Connected
+
+[](http://facebook.com/HarlequinBooks)Find us   
+on Facebook 
+
+[](http://twitter.com/HarlequinBooks)Follow us   
+on Twitter 
+
+[](http://pinterest.com/HarlequinBooks)Follow us   
+on Pinterest 
