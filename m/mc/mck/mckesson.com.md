@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mckesson.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624045320id_/http%3A//www.mckesson.com/About-McKesson/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mckesson.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231161500id_/http%3A//www.mckesson.com/About-McKesson/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,3 +52,11 @@ We retain the flexibility to update this policy. McKesson may periodically updat
 
 **HIPAA at McKesson**  
 As a key provider of services and technology to the healthcare industry, McKesson Corporation and its affiliated companies collectively, ("McKesson") have implemented programs to address the transaction standards, and the privacy and security implications of the rules promulgated pursuant to the Health Insurance Portability and Accountability Act of 1996 ("HIPAA"). 
+
+**Independent Assessments  **
+
+McKesson has demonstrated the effectiveness of their information security program by maintaining a number of ISO 27001:2005 certifications across the enterprise, including the McKesson IT organization, which assists business units with IT and security-related services. The ISO 27001:2005 standard is designed to validate the selection of adequate and proportionate security controls which are examined by a third party assessing organization.   
+  
+---  
+  
+McKesson also completes annual Service Organization Controls (SOC) 1 Type II examinations performed by a third party assessing organization in accordance with the Statement on Standards for Attestation Engagements (SSAE) 16. McKesson engages the SOC 1 examination across the enterprise, including the McKesson IT organization, and other organizations within McKesson Technology Solutions. The SOC 1 report is a widely recognized report and contains relevant controls related to internal controls over financial and Sarbanes-Oxley Act reporting compliance. 
