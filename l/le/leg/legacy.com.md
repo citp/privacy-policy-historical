@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legacy.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607220629id_/http%3A//www.legacy.com/NS/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legacy.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231201622id_/http%3A//www.legacy.com/NS/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Obituaries | Death Notices | Newspaper Obituaries | Online Obituaries | Newspaper Death Notices | Online Death Notices
 
