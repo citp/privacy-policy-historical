@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the earsucker.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601010030id_/http%3A//earsucker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earsucker.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231043614id_/http%3A//earsucker.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy · earsucker
+# Privacy Policy « Earsucker
 
 **DATA COLLECTION:**
 
