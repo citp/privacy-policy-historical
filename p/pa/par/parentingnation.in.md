@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parentingnation.in privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527172741id_/http%3A//www.parentingnation.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentingnation.in privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231121357id_/http%3A//www.parentingnation.in/privacy-policy) for the most accurate reproduction.*
 
 # Parenting Advice India, Pregnancy Advice, Baby Care, Baby Names India - Parenting Nation India
 
@@ -12,13 +12,27 @@ Once users utilize this site, user accept all terms of our privacy policy. The i
 
 **For Parents:**
 
-Our site is developed and is intended to provide information to parents. Any personal information provided by age group under 15 can be used unknowingly. we want our members, users and visitors to provide any information or data regarding kids or children after the consent of their parents. We ask parents to talk to their kids about the use of any personal information on internet.
+Our site is developed and is intended to create baby photo contest just for fun. Any personal information provided by age group under 13 can be used unknowingly. we want our members, users and visitors to provide any information or data regarding kids or children after the consent of their parents. We ask parents to talk to their kids about the use of any personal information on internet.
+
+**This site is for India so gift can be sent to addresses of India only.**
 
 **Use of Parentination Articles & Information **
 
 Different kind of Content, Advices, Articles, Comments, text, Post, Photographs and other data is available on the Parenting nation. This all content is provided by Writers hired by parentination and people who is visiting our site. Parenting nation is not responsible for any inaccurate or unauthenticated content. Any advice or opinion made by any kind of user on the website is not endorsed by parenting nation and we don’t take any responsibility for the same. This all Content is provided in consideration that neither parentingnation nor it suppliers are part of any Medical, Legal or any kind of Counseling. And all content is to be used as just general informative content and not to be used for any Medical or Health Related problems. We would suggest for any Medical or Health Related problems please consult your physician or qualified doctor.
 
 **Information or Data From User:**
+
+Information collected from the site can be used in following ways.
+
+To make our site better by improving functions on feedback we receive.
+
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+
+To Run a photo contest, Take surveys and other promotion activity.
+
+**Newsletter emails :**
+
+You may receive some newsletters from us regarding contest and other service, we have provided unsubscribe link so if you dont want any further emails pls unsubscribe from the site. .
 
 Our site gathers information from our members by asking questions and we also get in touch by communicating through e-mail, Face book, Twitter, and parents forum. the communication may include some personal information also, like name, e-mail id, phone number, detail address, photos and may be more. Our site also demand some personal information from users to let them have maximum benefits of our features like, vaccination chart, parenting information, advise/suggestions, gifts and so on. the information demanded can be for participating on some area of our site like baby photo contest. Users will be guided at every step of information demanded.
 
