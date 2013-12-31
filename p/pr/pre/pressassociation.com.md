@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressassociation.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627013210id_/http%3A//www.pressassociation.com/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressassociation.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231203843id_/http%3A//www.pressassociation.com/Privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -26,11 +26,11 @@ Storage of your data and international transfers
 
 Data security
 
-How to contact us   
+How to contact us  
 
 
-**Who are we?  
-**   
+ **Who are we?  
+**  
 The Press Association Limited is the owner of this Site, and is a member of the PA Group.
 
 *PA Group means PA Group Limited and any other company which is more than 50% owned or controlled by PA Group Limited (company number 4197) or any of its wholly owned subsidiaries (such as The Press Association Limited, PA Photos Limited or PA Sport UK Limited).
@@ -90,7 +90,7 @@ Telecomfinance.com
 <http://pads.pa-sport.com/api/olympics>  
   
 **What personal information do we collect and why?  
-**   
+**  
 We may collect personal information from you (such as your name, address, telephone number, email address etc) when you complete registration or enquiry forms or send emails to us, so that we may provide you with the services and information which you request. Please do not submit your personal information to us if you do not wish us to collect it.
 
 If you login or subscribe to any PA Group service or product, we will use your personal information to provide you with the service or product you select, (e.g. sending you password reminders or notices about the relevant service or product being suspended for emergency or routine maintenance).
@@ -101,8 +101,8 @@ We may collect information if you choose to post information to the Site in the 
 
 You are under no obligation to provide any such information. However, if you should choose to withhold requested information, we may not be able to provide you with certain services.
 
-**Use of your personal information for marketing purposes  
-**   
+ **Use of your personal information for marketing purposes  
+**  
 We may, with your agreement, give your personal information to other companies within the PA Group, for the purposes of providing products and services you have requested from us and so that those group companies can provide you with information relating to products and services we think may interest you, by letter, email or on your mobile device.
 
 If you do not wish to receive this promotional material, you may opt-out at any time by:
@@ -115,7 +115,7 @@ If you do not wish to receive this promotional material, you may opt-out at any 
 
   
 **Disclosure of personal information to third parties  
-**   
+**  
 We will not disclose any personal information you provide to us to any third party organisation outside the PA Group of companies, unless:
 
   * we need to do so to provide you with the      products or services you select, for example where we use service      providers to provide certain services in support of the Site;
@@ -129,7 +129,7 @@ We will not disclose any personal information you provide to us to any third par
 
   
 **Use of cookies and similar technology  
-**   
+**  
 Cookies are text files stored by your browser software that identify your device to the cookie owner's server. We use cookies to remember you when you visit the Site or other services that we provide to you. There are two main types of cookies that we use:
 
 (a)      ‘ **Session’** cookies – where they only last for the duration of your browser session and expire when you close it.
@@ -149,7 +149,7 @@ We do not use cookies to store your credit or debit card details. ****
 
 _You can remove cookies from your Browser:_
 
-Most web browsers are set up to automatically accept cookies but, if you prefer, you may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting, you may be unable to use the full functionality of the Site and your user experience may be adversely affected. You can learn more about cookies by visiting  [www.allaboutcookies.org](http://www.allaboutcookies.org/) which includes additional information on cookies and how to block cookies using different types of browser.
+Most web browsers are set up to automatically accept cookies but, if you prefer, you may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting, you may be unable to use the full functionality of the Site and your user experience may be adversely affected. You can learn more about cookies by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/) which includes additional information on cookies and how to block cookies using different types of browser.
 
 A simple guide to removing cookies is to go to the “Tools” option in your web browser options, select “Settings”. To delete all cookies on your computer to date select “Clear Browsing History” and to set options for future cookies select “Cookies” and the options you wish to apply to your web browser. 
 
@@ -365,7 +365,7 @@ Only used for maintaining login sessions
 
 Session only  
   
-<http://pads.pa-sport.com/api/olympics> ****
+<http://pads.pa-sport.com/api/olympics>****
 
 | 
 
@@ -375,7 +375,7 @@ Domain level to store the API Key when accessing the online documentation for de
 
 Remember me for 1 year  
   
-<http://pads.pa-sport.com/api/football> ****
+<http://pads.pa-sport.com/api/football>****
 
 | 
 
@@ -465,7 +465,7 @@ Remember Me for 6 months
 
 Go to <http://tools.google.com/dlpage/gaoptout>   and follow the steps  
   
-If you would like to know more about Google Analytics cookies please visit: <http://www.google.com/analytics/iq.html> __
+If you would like to know more about Google Analytics cookies please visit: <http://www.google.com/analytics/iq.html>__
 
 **Links to other websites**
 
@@ -478,18 +478,18 @@ Information that you submit via the Site is sent to and stored on secure servers
 In addition, if you use our services while you are outside the EEA, your information may be transferred outside the EEA in order to provide you with those services.
 
 **Data Security  
-**   
+**  
 All information you provide to us is stored on our secure servers or in secure filing systems.
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to us via the internet; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-**How to contact us  
-**   
+ **How to contact us  
+**  
 If you have any queries with regard to our data processing practices or you wish to correct or update or request a copy of any of the personal details we hold about you, please contact your usual PA Group contact or send us an email or write to us at: The Data Protection Officer, Legal Department, The Press Association Limited, 292 Vauxhall Bridge Road, London SW1V 1AE. 
 
 Any request for a copy of information may be subject to a fee (currently £10) to meet our costs in providing you with details of the information we may hold about you.
 
-**  
+ **  
 **.
 
 * * *
