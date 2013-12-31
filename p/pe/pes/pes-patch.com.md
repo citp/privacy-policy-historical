@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pes-patch.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423205127id_/http%3A//www.pes-patch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pes-patch.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231090308id_/http%3A//www.pes-patch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Download PES 2013 Patch,PES 2013 Demo,PES 2012 Patch,PES 2011 Patchs,PES 13,PES Parche,PES2012 Update,PES Patch,PES Edit,Option File,DLC,PS3 of,PES PC. - PES Patch,PES 2013 Patch,PES 2013 Demo,PES 2012 Patch,PES Parche, PES Edit,Patch Update Pro Evolution Soccer 13
+# Privacy Policy - Download PES 2014 Patch, PES 2014 Demo, PES 2013 Patch, PES 2012 Patchs, PES2014 Update, PES Patch, PES Edit, Option File and DLC. - PES Patch,PES 2014 Patch,PES 2014 Demo,Pro Evolution Soccer 2014
 
 ## Privacy Policy
 
@@ -23,4 +23,12 @@ Adding Patches & Files
 Site Advertising  
 We use third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you.
 
-Rating: 0.0/ **5** (0 votes cast)
+  * Bio
+  * Twitter
+  * Facebook
+  * Google+
+  * Latest Posts
+
+
+
+I like playing PES and adding here new patches for all Pro Evolution Soccer fans.
