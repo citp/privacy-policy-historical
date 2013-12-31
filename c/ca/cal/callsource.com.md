@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callsource.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613040742id_/http%3A//callsource.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callsource.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231170551id_/http%3A//www.callsource.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CallSource
 
