@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intech-bb.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509102943id_/http%3A//www.intech-bb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intech-bb.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231131846id_/http%3A//www.intech-bb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Social Media News, Tutorials, and Web Tips
 
