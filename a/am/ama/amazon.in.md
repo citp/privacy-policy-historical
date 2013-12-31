@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazon.in privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612083458id_/http%3A//www.amazon.in/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D200534380) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazon.in privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231035944id_/http%3A//www.amazon.in/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D200534380) for the most accurate reproduction.*
 
 # Amazon.in Help
 
