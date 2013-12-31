@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthlink.net privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530011359id_/http%3A//www.earthlink.net/about/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthlink.net privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231232447id_/http%3A//www.earthlink.net/about/policies/privacy) for the most accurate reproduction.*
 
 # Earthlink Policies & Agreements - Privacy Policy
 
@@ -92,7 +92,7 @@ EarthLink may share Non-PII with select advertisers. In some instances, we use t
 
 Protecting children's privacy is especially important to us. You must be 18 years of age or older to order and receive the EarthLink Consumer Services. EarthLink does not knowingly ask for or collect PII from any person under the age of 18.
 
-EarthLink recommends that children ask a parent for permission before sending any PII anywhere using the Internet. For further information about tips, techniques and resources about Internet safety, please visit [www.GetNetWise.org](http://www.getnetwise.org/) or[ www.StaySafeOnline.org](http://www.earthlink.net/www.StaySafeOnline.org). 
+EarthLink recommends that children ask a parent for permission before sending any PII anywhere using the Internet. For further information about tips, techniques and resources about Internet safety, please visit [www.GetNetWise.org](http://www.getnetwise.org/) or[ www.StaySafeOnline.org](https://www.earthlink.net/www.StaySafeOnline.org). 
 
 **11\. California Privacy Rights**
 
