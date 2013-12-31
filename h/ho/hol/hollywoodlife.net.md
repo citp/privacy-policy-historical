@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywoodlife.net privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603022657id_/http%3A//hollywoodlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodlife.net privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231055105id_/http%3A//hollywoodlife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hollywood Life
 
