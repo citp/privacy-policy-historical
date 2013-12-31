@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the deepdyve.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604030512id_/http%3A//www.deepdyve.com/corp/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepdyve.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231140442id_/http%3A//www.deepdyve.com/corp/privacy_policy) for the most accurate reproduction.*
 
 # About DeepDyve | DeepDyve
 
-Last Updated 2/21/2013
+Last Updated 11/12/2013
 
 DeepDyve, Inc. (“DeepDyve”) knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting DeepDyve’s website at [http://www.deepdyve.com](http://www.deepdyve.com/) (“deepdyve.com”), or using any of our services or products, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
@@ -140,5 +140,5 @@ DeepDyve may make changes to this Privacy Policy from time to time for any reaso
 If you have any questions or concerns regarding privacy at deepdyve.com, please send us a detailed message to [privacy_policy@deepdyve.com](mailto:privacy_policy@deepdyve.com).
 
 DeepDyve Inc.  
-333 W El Camino Real, Suite 230  
-Sunnyvale, CA 94087 
+2221 Broadway St.  
+Redwood City, CA 94063 
