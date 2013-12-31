@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mumsnet.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527152531id_/http%3A//www.mumsnet.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mumsnet.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231104924id_/http%3A//www.mumsnet.com/info/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | Mumsnet
 
@@ -25,11 +25,13 @@ We may collect the following information:
 
 What we do with the information we gather
 
-**We will never pass on your information, unless you specifically consent to us doing so or we are specifically required to by law.** We only use it to understand your needs and provide you with a better service, and in particular:
+**We do not, as a clear and overarching rule, pass on your information, unless you specifically consent to us doing so or we are specifically required to by law.** However, on rare occasions where there appears to be a clear need to safeguard the welfare of a Mumsnetter and/or his/her family, it may be necessary to contact relevant authorities about a clearly identifiable member and his/her posts on Mumsnet.
+
+We only use the information you give us to understand your needs and provide you with a better service, and in particular:
 
   * For internal record keeping.
   * To improve our services, and email you responses to discussion-board posts you have reported.
-  * To periodically send you emails about parenting news, Mumsnet news, competitions, discounts or other information which we think you may find interesting, using the email address which you have provided. This includes updates on the Mumsnet Blogging Network, should you join.
+  * To periodically send you emails about parenting news, Mumsnet news and courses, competitions, discounts or other information which we think you may find interesting, using the email address which you have provided. This includes updates on the Mumsnet Blogging Network, should you join.
   * To send you pregnancy-stage emails or child development emails, should you choose to receive them.
   * To contact you, but only with your prior permission, by email or personal message, for market-research purposes.
   * To offer you, on our website pages, information based on your location.
@@ -56,8 +58,6 @@ Our website may contain links or references to other websites to which this Priv
 Controlling your personal information
 
 You may choose to change or restrict the use of your personal information by going to [your My Mumsnet area ](http://www.mumsnet.com/member/)and altering your registration details and subscribing/unsubscribing to our email options.
-
-**We will not give your personal information to third parties unless we have your permission or are specifically required to by law.**
 
 You may ask us to provide details of the personal information we hold about you, under the Data Protection Act 1998. To request this information, please mail us at contactus@mumsnet.com or write to Mumsnet Limited, Unit 6, Deane House Studios, 27 Greenwood Place, Highgate Rd, London NW5 1LB.
 
