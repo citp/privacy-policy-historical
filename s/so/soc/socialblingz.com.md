@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialblingz.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530221818id_/http%3A//www.socialblingz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialblingz.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231072252id_/http%3A//socialblingz.com/privacy.php) for the most accurate reproduction.*
 
 # Social Blingz - Get Facebook Fans, Twitter Followers, Youtube Views, Google +1's, Stumbleupon Followers, Digg Followers, Website Hits, Twitter ReTweets, and MORE!
 
@@ -63,7 +63,7 @@ Social Blingz has the discretion to update this privacy policy at any time. When
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20130530221818id_/http%3A//www.socialblingz.com/tos.php). If you do not agree to this policy or terms, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20131231072252id_/http%3A//socialblingz.com/tos.php). If you do not agree to this policy or terms, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
@@ -74,4 +74,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 This document was last updated on September 30, 2012
 
-[](https://web.archive.org/web/20130530221818id_/http%3A//www.socialblingz.com/goban.php?id=2)
+[](https://web.archive.org/web/20131231072252id_/http%3A//socialblingz.com/goban.php?id=2)
