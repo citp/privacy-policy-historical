@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the digitalworldz.co.uk privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506031431id_/http%3A//www.digitalworldz.co.uk/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalworldz.co.uk privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231065144id_/http%3A//www.digitalworldz.co.uk/privacy-policy.php) for the most accurate reproduction.*
 
-# DigitalWorldz - Satellite, Cable, Console Forums -
+# DigitalWorldz Technology Forum - Satellite, television, consoles, community -
 
 ## **Privacy  Policy**
 
 This is a privacy policy for Digitalworldz. Our homepage on the Web is located at <http://www.digitalworldz.co.uk/>.
 
-We invite you to [contact us](http://www.digitalworldz.co.uk/contact.php) if you have questions about this policy or require information on how to opt-in or opt-out of use of your information.
+We invite you to [contact us](http://www.digitalworldz.co.uk/sendmessage.php) if you have questions about this policy or require information on how to opt-in or opt-out of use of your information.
 
   
 
@@ -194,3 +194,6 @@ These third-party ad servers or ad networks use technology to the advertisements
 [Permalink](http://www.digitalworldz.co.uk/privacy-policy.php) | Last updated: Jan 04, 12:45 PM
 
 * * *
+
+  
+
