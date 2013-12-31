@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopclues.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515041305id_/http%3A//www.shopclues.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopclues.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231085335id_/http%3A//www.shopclues.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -99,7 +99,3 @@ Name and address of the entity collecting and retaining Your Information shall b
 #### Grievance Officer:
 
 In accordance with Information Technology Act 2000 and rules made there under, the name and contact details of the Grievance Officer are published on the Website in [User Agreement](http://www.shopclues.com/user-agreement.html).
-
-#### Shopclues University Resources
-
-* * *
