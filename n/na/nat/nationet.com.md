@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the nationet.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602043508id_/http%3A//www.nationet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationet.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231235524id_/http%3A//www.nationet.com/about_nationwide/cookie_and_privacy_policy/cookie_and_privacy_policy.htm) for the most accurate reproduction.*
 
 # About Nationwide - Membership matters - Cookie and privacy policy
-
-Cookie and privacy policy
-
-## Privacy and cookies on our websites
 
 This policy refers to the privacy of your information when you access any of Nationwide’s websites.
 
@@ -18,7 +14,7 @@ When you use our secure services, all information, including messages, are prote
 
 For more details on how Nationwide uses your information, please follow this link:
 
-[How Nationwide uses your information.](https://web.archive.org/about_nationwide/cookie_and_privacy_policy/personal_information.htm)
+[ How Nationwide uses your information.](https://web.archive.org/about_nationwide/cookie_and_privacy_policy/personal_information.htm)
 
 ### Cookies
 
@@ -33,6 +29,3 @@ When you use any of our websites, we log your Internet Protocol (IP) address, wh
 Find out how we keep your information secure and how you can protect your own information online in our full [security section](http://www.nationwide.co.uk/internetbanking/onlinesecurity/onlinesecurity.htm)
 
 ‘Nationwide’ refers to Nationwide Building Society, its trading divisions, subsidiary companies, and any limited liability partnerships of which it is a member. These include Derbyshire Building Society, Cheshire Building Society, Dunfermline Building Society, Nationwide International Ltd, Nationwide UK (Ireland), , The Mortgage Works (UK) plc, Derbyshire Home Loans Ltd, and UCB Home Loans Corporation Ltd.
-
-  
-
