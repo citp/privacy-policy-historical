@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michelfortin.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604190302id_/http%3A//successdoctor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michelfortin.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231071336id_/http%3A//successdoctor.com/privacy) for the most accurate reproduction.*
 
 # Privacy And Disclosure Policies - The Success Doctor
 
@@ -21,7 +21,7 @@ Users are provided with the opportunity to easily opt-out of receiving future co
 
   * **Online:** Directly by clicking the unsubscribe link at the bottom of each email.
   * **Email:** Contact tech support [on this page](http://successdoctor.com/contact/ "Contact The Success Doctor, Inc.") via email or online
-  * **Mail:** 1707 Cara Crescent, Ottawa, Ontario K4A 1M4 (Canada)
+  * **Mail:** 505 Harvest Valley Avenue, Ottawa, Ontario (Canada) K4A 0S3
   * **Telephone/Fax:** 613-482-4828
 
 
