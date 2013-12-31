@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rocketfuel.com privacy policy that was archived on 2013-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130624181039id_/http%3A//rocketfuel.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rocketfuel.com privacy policy that was archived on 2013-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131231201951id_/http%3A//rocketfuel.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<meta property="twitter:account_id" content="23532467">
@@ -40,6 +40,8 @@
 							<li><a href="http://rocketfuel.com/newsroom">News</a></li>
 							<li><a href="http://rocketfuel.com/careers">Careers</a></li>
 							<li><a href="http://rocketfuel.com/resources">Resources</a></li>
+<li><a href="http://investor.rocketfuel.com/">Investors</a></li>
+
 						</ul>
 					</div>
 					<div id="callus"><img src="http://rocketfuel.com/images/smg/call-icon.gif" width="26" height="15" align="texttop">Sales (888) 717.8873</div>
@@ -109,26 +111,30 @@ function getURLParameter(name) {
 }
 function opt(imageName, successMessage) {
 var opt = $('div#optout');
-var img_src = "http://a.rfihub.com/" + imageName +'?cbust=' + new Date().getTime();
+if (!navigator.cookieEnabled){ opt.html('Your browser cookies need to be enabled to perform this action.'); return; }
+if (!DWS_THIRD_PARTY_COOKIES){ opt.html('You have third party cookies disabled, so we are not able to opt-out you out. In order to opt out of Rocket Fuel, please enable third party cookies and try again.'); opt.show(); return; }
+var img_src = "http://oo.rfihub.com/" + imageName +'?cbust=' + new Date().getTime();
 if (getURLParameter('ip')) { img_src += '&ipay='+getURLParameter('ip'); }
 /* This optional parameter comes in as ip from FBX, but we need to send ipay to our opt out servlet to opt the user out of multiple browsers at once */
 var img = $('<img width="0" height="0" src="'+img_src+'">');
-
-img.load(function () { opt.html(successMessage); });
-
-img.error(function () { opt.html('Whoops, something went wrong. Please try again later.'); });
-
+img.load(function ()
+{ opt.html(successMessage); }
+);
+console.log("anna");
+img.error(function ()
+{ opt.html('Whoops, something went wrong. Please try again later.'); }
+);
 opt.append(img).append('Loading, please wait...').show();
 }
               </script>
-	<h2 class="ruled" id="optout">
+	<h2 class="ruled" id="optout_ren">
 		Opting Out</h2>
 	<p>
 		It's a virtuous cycle we're happy to be part of, and we hope you're equally happy with your role in this endeavor. But if you're not, please click <strong><a href="#" onclick="optout(); return false;">here</a></strong> <strong>to opt out</strong> of personalized ads based on the Rocket Fuel cookie, or <strong><a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">here</a></strong> to opt out of other personalized advertising via the <strong>Network Advertising Initiative’s opt-out page</strong>.</p>
 	<p>
 		If you opt out, you'll still see ads from us online, and we'll still do our best to serve the most relevant ads we can. We just won't know it's you, so we won't be able to apply any of your ad preferences. Note that we'll still maintain a cookie on your computer to track that you've opted out. That opt-out cookie (like all cookies) is associated with a particular computer and browser. So, for example, if you get a new computer, install a new browser, or clear your cookies, you’ll need to opt-out again. If you change your mind, click <strong><a href="#" onclick="optin(); return false;">here</a></strong> <strong>to opt back in</strong>.</p>
-	<div id="optout" style="display: none;">
-		Opt Out status</div>
+	<div id="optout" style="display: none">
+		&nbsp;</div>
 	<h2>
 		Industry Memberships</h2>
 	<p>
@@ -154,6 +160,8 @@ opt.append(img).append('Loading, please wait...').show();
 		Suite 220<br>
 		Redwood Shores, CA 94065 USA</p>
 </section>
+<p>
+	<a href="http://rocketfuel.com/jp/privacy-policy">日本語版</a></p>
 	
 	</section>
 	
@@ -164,13 +172,13 @@ opt.append(img).append('Loading, please wait...').show();
 <h4>From the News Room</h4>
 <ul>
 
-	<li><a href="/newsroom/news/in-your-retargeting-overcooked" title="Is Your Retargeting Overcooked?">Is Your Retargeting Overcooked?</a><span class="active arrow">»</span></li>
+	<li><a href="/newsroom/blog/information-weeks-top-10-big-data-stories-of-2013" title="Information Week’s Top 10 Big Data Stories of 2013">Information Week’s Top 10 Big Data Stories of 2013</a><span class="active arrow">»</span></li>
 
-	<li><a href="/newsroom/press_release/rocket-fuel-appoints-michael-racic-vice-president-of-category-development" title="Rocket Fuel Appoints Michael Racic to Vice President of Category Development">Rocket Fuel Appoints Michael Racic to Vice President of Category Development</a><span class="active arrow">»</span></li>
+	<li><a href="/newsroom/blog/the-10-most-interesting-things-people-said-about-the-future-in-2013" title="The 10 Most Interesting Things People Said About the Future in 2013">The 10 Most Interesting Things People Said About the Future in 2013</a><span class="active arrow">»</span></li>
 
-	<li><a href="/newsroom/news/pro-level-tips-to-succeed-at-retargeting" title="Pro-level Tips to Succeed at Retargeting">Pro-level Tips to Succeed at Retargeting</a><span class="active arrow">»</span></li>
+	<li><a href="/newsroom/blog/the-predictive-power-of-big-data" title="The Predictive Power of Big Data">The Predictive Power of Big Data</a><span class="active arrow">»</span></li>
 
-	<li><a href="/newsroom/news/rocket-fuelnow-in-spain" title="Rocket Fuel—Now In Spain!">Rocket Fuel—Now In Spain!</a><span class="active arrow">»</span></li>
+	<li><a href="/newsroom/blog/how-engineers-build-lovable-robots" title="How Engineers Build Lovable Robots">How Engineers Build Lovable Robots</a><span class="active arrow">»</span></li>
 
 </ul>
 <p class="more"><a href="/newsroom" class="active">more</a><span class="active arrow">»</span></p>
@@ -183,26 +191,28 @@ opt.append(img).append('Loading, please wait...').show();
 		
 <div class="module">
 <h4>People Are Talking</h4>
-<p class="quote">For the CPG brands we manage, Rocket Fuel's CPG Booster represents a leap in our ability to precisely connect with the most receptive digital audiences, and quantify the value of these online advertising efforts relative to offline sales.</p>
-<p class="author">Justine McGrath <br>
-Digital Director<br>
-Optimedia</p>
+<p class="quote">We were keen on launching FBX with Rocket Fuel. Since we went live, the results have been brilliant. We've seen a 41% reduction in CPO compared to average CPO across all other DR placements. We can't wait to see more!</p>
+<p class="author">Domitille Mereuze<br>
+Digital Marketing Executive<br>
+Carphone Warehouse</p>
 </div><!-- .module -->
 		
 		
-		<div id="twitterstream" class="module">
+		<!--
+<div id="twitterstream" class='module'>
 <h4>Twitter Feed</h4>
 <ul>
 
-<li class="tweet">Our own <a title="Jarvis Mak" href="http://twitter.com/jarvismak">@jarvismak</a> will be at @SMX Advanced Seattle talking "Pro-level Tips To Succeeding At Retargeting" 6/12: <a title="http://ow.ly/lP2Oc" href="http://t.co/JJ69NVu6Kk">http://t.co/JJ69NVu6Kk</a><div class="time"><a href="https://twitter.com/#!/rocketfuelinc/status/344515527705784320" title="Tweet permalink" target="_blank">1 week, 6 days, 6 minutes ago</a></div></li>
+<li class="tweet">Our own <a title='Jarvis Mak' href='http://twitter.com/jarvismak'>@jarvismak</a> will be at @SMX Advanced Seattle talking "Pro-level Tips To Succeeding At Retargeting" 6/12: <a title='http://ow.ly/lP2Oc' href='http://t.co/JJ69NVu6Kk'>http://t.co/JJ69NVu6Kk</a><div class="time"><a href="https://twitter.com/#!/rocketfuelinc/status/344515527705784320" title='Tweet permalink' target='_blank'>6 months, 2 weeks, 6 days, 14 hours, 15 minutes ago</a></div></li>
 
-<li class="tweet">See how <a title="Rocket Fuel Inc." href="http://twitter.com/rocketfuelinc">@rocketfuelinc</a> drove social-media engagement for <a title="Miracle Whip" href="http://twitter.com/MiracleWhip">@MiracleWhip</a> and delivered real results. <a title="http://ow.ly/lP1eO" href="http://t.co/D47pOVhyjR">http://t.co/D47pOVhyjR</a> <a title="Kraft Foods" href="http://twitter.com/kraftfoods">@kraftfoods</a><div class="time"><a href="https://twitter.com/#!/rocketfuelinc/status/344485329237078018" title="Tweet permalink" target="_blank">1 week, 6 days, 2 hours, 6 minutes ago</a></div></li>
+<li class="tweet">See how <a title='Rocket Fuel Inc.' href='http://twitter.com/rocketfuelinc'>@rocketfuelinc</a> drove social-media engagement for <a title='Miracle Whip' href='http://twitter.com/MiracleWhip'>@MiracleWhip</a> and delivered real results. <a title='http://ow.ly/lP1eO' href='http://t.co/D47pOVhyjR'>http://t.co/D47pOVhyjR</a> <a title='Kraft Foods' href='http://twitter.com/kraftfoods'>@kraftfoods</a><div class="time"><a href="https://twitter.com/#!/rocketfuelinc/status/344485329237078018" title='Tweet permalink' target='_blank'>6 months, 2 weeks, 6 days, 16 hours, 15 minutes ago</a></div></li>
 
-<li class="tweet">Missed <a title="gjohn" href="http://twitter.com/gjohn">@gjohn</a>'s "The Age of Artificial Intelligence" <a title="Search for TEDx" href="http://twitter.com/search?q=#TEDx">#TEDx</a> talk in London last month? Catch it here: <a title="http://ow.ly/lKpUi" href="http://t.co/IxGKNtucsd">http://t.co/IxGKNtucsd</a> <a title="Search for AI" href="http://twitter.com/search?q=#AI">#AI</a><div class="time"><a href="https://twitter.com/#!/rocketfuelinc/status/344152984743182337" title="Tweet permalink" target="_blank">2 weeks, 6 minutes ago</a></div></li>
+<li class="tweet">Missed <a title='gjohn' href='http://twitter.com/gjohn'>@gjohn</a>'s "The Age of Artificial Intelligence" <a title='Search for TEDx' href='http://twitter.com/search?q=#TEDx'>#TEDx</a> talk in London last month? Catch it here: <a title='http://ow.ly/lKpUi' href='http://t.co/IxGKNtucsd'>http://t.co/IxGKNtucsd</a> <a title='Search for AI' href='http://twitter.com/search?q=#AI'>#AI</a><div class="time"><a href="https://twitter.com/#!/rocketfuelinc/status/344152984743182337" title='Tweet permalink' target='_blank'>6 months, 3 weeks, 14 hours, 15 minutes ago</a></div></li>
 
-<li><a href="https://twitter.com/#!/rocketfuelinc" title="Follow us on Twitter" target="_blank"><img src="/images/static/twitterfeedcta_178x25.png" alt="Follow us on Twitter." width="178" height="25"></a></li>
+<li><a href="https://twitter.com/#!/rocketfuelinc" title='Follow us on Twitter' target='_blank'><img src="/images/static/twitterfeedcta_178x25.png" alt="Follow us on Twitter." width='178' height='25'></a></li>
 </ul>
-</div> <!-- #tweets -->		
+</div>
+-->		
 		
 	</aside> <!-- .modules -->
 	
@@ -261,14 +271,14 @@ Optimedia</p>
 <div class="hiddenFields">
 <input type="hidden" name="ACT" value="25031999">
 <input type="hidden" name="URI" value="privacy-policy">
-<input type="hidden" name="XID" value="56c3abb642ce406e8d59582af6b0be26689525f9">
+<input type="hidden" name="XID" value="6730f51d7e21c07f13f86ecb5f611d4accb1c2cd">
 <input type="hidden" name="status" value="open">
 <input type="hidden" name="return" value="contact/thank_you">
 <input type="hidden" name="redirect_on_duplicate" value="">
 <input type="hidden" name="RET" value="http://rocketfuel.com/privacy-policy">
 <input type="hidden" name="form_name" value="Newsletter Signups">
 <input type="hidden" name="ajax_request" value="y">
-<input type="hidden" name="params_id" value="15019674">
+<input type="hidden" name="params_id" value="19486787">
 <input type="hidden" name="site_id" value="1">
 </div>
 
@@ -343,4 +353,5 @@ try{(new g(100,"r","QSI_S_SI_3kHGLPM0Cg1d57D","http://zn_54hwaibnpncuyip-rocketf
 <noscript><iframe src='http://20479603p.rfihub.com/ca.html?rb=323&ca=20479603&ra=' style='display:none;padding:0;margin:0' width='0' height='0'></iframe></noscript>
 
 
-<script type="text/javascript" src="http://zn_54hwaibnpncuyip-rocketfuel.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_3kHGLPM0Cg1d57D&amp;Q_LOC=https%3A%2F%2Fweb.archive.org%2Fweb%2F20130624181039id_%2Fhttp%253A%2F%2Frocketfuel.com%2Fprivacy-policy&amp;t=1580433374395"></script></body></html>
+
+<script type="text/javascript" src="http://zn_54hwaibnpncuyip-rocketfuel.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_3kHGLPM0Cg1d57D&amp;Q_LOC=https%3A%2F%2Fweb.archive.org%2Fweb%2F20131231201951id_%2Fhttp%253A%2F%2Frocketfuel.com%2Fprivacy-policy&amp;t=1580433376925"></script></body></html>
