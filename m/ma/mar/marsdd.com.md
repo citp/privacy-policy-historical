@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marsdd.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619002851id_/http%3A//www.marsdd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marsdd.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231095329id_/http%3A//www.marsdd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MaRS
 
