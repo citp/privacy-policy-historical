@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iclassprov2.com privacy policy that was archived on 2013-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130409064633id_/http%3A//www.iclasspro.com/notice/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iclassprov2.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231131923id_/http%3A//www.iclasspro.com/notice/privacy-policy) for the most accurate reproduction.*
 
-# None
+# iClassPro - iClassPro - Class Management
 
 Last Updated: July, 09 2012
 
