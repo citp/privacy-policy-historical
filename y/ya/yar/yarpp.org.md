@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yarpp.org privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619211356id_/http%3A//wordpress.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yarpp.org privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231192645id_/http%3A//wordpress.org/about/privacy) for the most accurate reproduction.*
 
 # WordPress › About » Privacy Policy
 
@@ -10,7 +10,7 @@ WordPress.org also collects potentially personally-identifying information like 
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to WordPress.org’s websites choose to interact with WordPress.org in ways that require WordPress.org to gather personally-identifying information. The amount and type of information that WordPress.org gathers depends on the nature of the interaction. For example, we ask visitors who use our forums to provide a username and email address. In each case, WordPress.org collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with WordPress.org. WordPress.org does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to WordPress.org’s websites (including wordcamp.org) choose to interact with WordPress.org in ways that require WordPress.org to gather personally-identifying information. The amount and type of information that WordPress.org gathers depends on the nature of the interaction. For example, we ask visitors who use our forums to provide a username and email address. In each case, WordPress.org collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with WordPress.org. WordPress.org does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
