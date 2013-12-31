@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opendaylight.org privacy policy that was archived on 2013-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130414070449id_/http%3A//www.opendaylight.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opendaylight.org privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231131635id_/http%3A//www.opendaylight.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OpenDaylight
 
@@ -7,9 +7,9 @@ OPEN DAYLIGHT PROJECT, INC.
 UNITED STATES/EUROPEAN UNION SAFE HARBOR PRIVACY STATEMENT ("PRIVACY STATEMENT")
 
    
-(Effective Date April 2, 2013)
+(Effective Date May 7, 2013)
 
-OpenDaylight Project, Inc., ("OpenDaylight"), comprised of its Internet sites, is committed to protecting the privacy of users of the Sites. OpenDaylight intends to give users as much control as possible over user’s personally identifiable information, including registration data. This Privacy Statement applies to each of the Sites and describes the information OpenDaylight collects about users and how that information may be used.
+OpenDaylight Project, Inc. ("OpenDaylight"), comprised of its Internet sites, is committed to protecting the privacy of users of the Sites. OpenDaylight intends to give users as much control as possible over user’s personally identifiable information, including registration data. This Privacy Statement applies to each of the Sites and describes the information OpenDaylight collects about users and how that information may be used.
 
 OpenDaylight reserves the right to update and change this Privacy Statement from time to time. If OpenDaylight makes material changes to its privacy practices, a prominent notice will be posted on this web page. Each time a user uses the Sites, the current version of the Privacy Statement applies. Accordingly, a user should check the date of this Privacy Statement (which appears at the top) and review for any changes since the last version. If a user does not agree to the Privacy Statement, the user should not use the Sites.
 
@@ -35,7 +35,7 @@ In order to tailor OpenDaylight’s subsequent communications to users and conti
 
 **Web beacons**
 
-OpenDaylight may use web beacons from time to time. Such web beacons may be provided by OpenDaylight’s third party advertising companies to help manage and optimize OpenDaylight’s online advertising. A web beacon is a string of code that provides a method for delivering a graphic image on a web page or in an email message for the purpose of transferring data, or determining how many times a specific web page has been viewed. Web beacons enable OpenDaylight to recognize a browser’s cookie when a browser visits a Site, and to learn which banner ads bring users to each Site. For example, when a user visits a web page, the code for the page may include instructions to go to another server to gather a single pixel graphic image. Web beacons are not placed on a user’s computer, and users remain anonymous. To opt out of targeted advertising delivered by OpenDaylight, or third party advertisers, users can opt to use freely available ad blocking software, to prevent ads from displaying in their browser. The OpenDaylight does not promote or recommend any type of ad blocking software, nor guarantees that any of the Site services will remain fully functional if the user utilizes such software.
+OpenDaylight may use web beacons from time to time. Such web beacons may be provided by OpenDaylight’s third party advertising companies to help manage and optimize OpenDaylight’s online advertising. A web beacon is a string of code that provides a method for delivering a graphic image on a web page or in an email message for the purpose of transferring data, or determining how many times a specific web page has been viewed. Web beacons enable OpenDaylight to recognize a browser’s cookie when a browser visits a Site, and to learn which banner ads bring users to each Site. For example, when a user visits a web page, the code for the page may include instructions to go to another server to gather a single pixel graphic image. Web beacons are not placed on a user’s computer, and users remain anonymous. To opt out of targeted advertising delivered by OpenDaylight, or third party advertisers, users can opt to use freely available ad blocking software, to prevent ads from displaying in their browser. OpenDaylight does not promote or recommend any type of ad blocking software, nor guarantees that any of the Site services will remain fully functional if the user utilizes such software.
 
 **Cookies**
 
@@ -108,9 +108,9 @@ Users may have the opportunity to submit photographs to the Sites for product pr
 
 **With whom may OpenDaylight share information?**
 
-OpenDaylight will not sell, rent, or lease a user’s personally identifiable information to others, except as described in this Privacy Statement. Unless OpenDaylight has a user’s permission or as required by law, OpenDaylight will only share the personally identifiable information a user provides online with other entities that are part of the OpenDaylight corporate family and/or outside service providers who may be used to ship products, process credit cards, provide technical support, handle order processing, or otherwise act on OpenDaylight’s behalf. These third parties are prohibited from using users’ information for any other purpose, including their own marketing.
+OpenDaylight will not sell, rent, or lease a user’s personally identifiable information to others, except as described in this Privacy Statement. Unless OpenDaylight has a user’s permission or as required by law, OpenDaylight will only share the personally identifiable information a user provides online with other entities that are part of the OpenDaylight corporate family and/or outside service providers who may be used to ship products, process credit cards, provide technical support, handle order processing, or otherwise act on OpenDaylight’s behalf. These third parties are prohibited from using users’ information for any other purpose, including their own marketing. Further, OpenDaylight may share a user’s email and other personally identifiable information with its third party management services provider, The Linux Foundation, which may send email correspondence to the user on behalf of OpenDaylight.
 
-When OpenDaylight uses third parties to assist in processing a Site’s user personally identifiable information, OpenDaylight requests that they comply with OpenDaylight privacy practices, and other appropriate confidentiality and security measures.
+When OpenDaylight uses third parties to assist in processing a Site’s user personally identifiable information, or in sending emails to the Site’s users, OpenDaylight requests that they comply with OpenDaylight privacy practices, and other appropriate confidentiality and security measures.
 
 Please be advised that in certain instances, it may be necessary for OpenDaylight to disclose a user’s personally identifiable information without a user’s permission to government officials or otherwise as required by legal obligations. OpenDaylight may disclose such personally identifiable information when responding to subpoenas, court orders, or legal process, or to establish or exercise legal rights or defend against claims, including fraud or infringement investigations.
 
