@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netcraft.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630222004id_/http%3A//www.netcraft.com/about-netcraft/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netcraft.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231180605id_/http%3A//www.netcraft.com/about-netcraft/privacy-statement) for the most accurate reproduction.*
 
 # Netcraft | Privacy Statement
 
