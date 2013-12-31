@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetradedesk.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609130909id_/http%3A//www.thetradedesk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetradedesk.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231211956id_/http%3A//www.thetradedesk.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « The Trade Desk. The DSP (demand-side platform) for all things RTB (real-time bidding).
+# Privacy Policy « The Trade Desk
 
 The Trade Desk is committed to protecting consumer privacy and respecting your right to choice as it relates to advertising and the data used to help serve ads relevant to those consumers. The Trade Desk is a technology company which helps advertisers connect with consumers who are interested or could benefit from the advertisers’ products. Protecting consumer privacy is of the utmost priority to The Trade Desk.  See below for our complete Privacy Policy or to opt out of receiving relevant ads served by us.
 
