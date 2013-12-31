@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thinkdigit.com privacy policy that was archived on 2013-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130604100614id_/http%3A//www.thinkdigit.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thinkdigit.com privacy policy that was archived on 2013-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131231021631id_/http%3A//www.thinkdigit.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -9,26 +9,31 @@
     <meta name="alexaVerifyID" content="bxyNoKPeD68k5Zh_rdt2LKMCq-8">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/thinkdigit/zpZl">
 
-            <title>PrivacyPolicy - Thinkdigit.com</title>
-    
-            <meta name="keywords" content="privacypolicy">
-    
-            <meta name="description" content="Read the thinkdigit.com privacypolicy">
-    
-            <link href="/css/css-combine-v7.css" type="text/css" rel="stylesheet">
-        
+          <title>PrivacyPolicy - Thinkdigit.com</title>
+             
+                <meta name="keywords" content="privacypolicy">
+                
+                <meta name="description" content="Read the thinkdigit.com privacypolicy">
+                
+            <link href="http://d3vm8zfrmku7k9.cloudfront.net/css/css-home-v2.css" type="text/css" rel="stylesheet">
+                
 
     
     <link rel="shortcut icon" href="/images/favicon.ico">
-
-            <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="http://sdscdn.userreport.com/userreport.js"></script><script src="/js/jquery-1.6.4.min.js" type="text/javascript"></script>
-        <script src="/js/jquery.main.js" type="text/javascript"></script>
-        <!--<script src="/js/browser.js" type="text/javascript"></script>-->
+    <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://d3vm8zfrmku7k9.cloudfront.net/js/jquery-1.6.4.min.js" type="text/javascript"></script>
+    <script src="http://d3vm8zfrmku7k9.cloudfront.net/js/jquery.main.js" type="text/javascript"></script>
+    <script src="/js/jquery.cookie.js" type="text/javascript"></script>
+    
+                <!--<script src="/js/browser.js" type="text/javascript"></script>-->
         <style>
             #left{width:130px; height:100%; min-height:536px; float:left;  right top; position:fixed; left:-174px;z-index:999;}
             #right{ width:130px; height:100%; min-height:536px; float:right;left top; position:fixed; right:0px; z-index:999;}
 
+
+
         </style>
+
+<style> #takeover-ad-wrap{position:fixed; border: 0 none; height: 1000px;left: 0;margin: 0 auto;overflow: hidden;top: 0;width: 99.9%; z-index:0;} #takeover-ad{position:relative;height:1000px;width:990px;margin:0 auto;z-index:20;} #leftGutterContainer{position:absolute;left:-308px;top:0;height:1000px;width:300px;z-index:1;} #rightGutterContainer{position:absolute;right:-301px;top:0;height:1000px;width:300px;z-index:1;} #takeover-ad-wrap { position: fixed !important; } .main-container{ height:100%; width:1000px !important; margin:0 auto !important} </style>
 
         <script type="text/javascript">
             function catFish()
@@ -66,18 +71,78 @@
                     </script>
 
         <script type="text/javascript">
-            function toggle(siteCaptureDiv)
+            function toggle(siteCaptureDiv,action)
             {
 
                 var obj = document.getElementById(siteCaptureDiv);
 
-                //         alert('asdsadsa');
-                obj.style.visibility = "hidden";
-                obj.innerHTML = "";
+                if(action == 'close'){
+                    $.cookie('siteCaptureDiv', 'true');
+                }
+                    obj.style.visibility = "hidden";
+                    obj.innerHTML = "";
             }
         </script>
-
+        
         <script type="text/javascript">
+
+        $(function(){
+            var loader=$('#loader');
+            var pollcontainer=$('#pollcontainer');
+            loader.fadeIn();
+            //Load the poll form
+
+            $.get('/poll/poll.php', '', function(data, status)
+                    {
+                pollcontainer.html(data);
+                animateResults(pollcontainer);
+                pollcontainer.find('#viewresult').click(function(){
+                    //if user wants to see result
+                    loader.fadeIn();
+                    $.get('/poll/poll.php', 'result=1', function(data,status){
+                        pollcontainer.fadeOut(1000, function(){
+                            $(this).html(data);
+                            animateResults(this);
+                        });
+                        loader.fadeOut();
+                    });
+                    //prevent default behavior
+                    return false;
+                }).end()
+                .find('#pollform').submit(function(){
+                    var selected_val=$(this).find('input[name=poll]:checked').val();
+                    if(selected_val!=''){
+                        //post data only if a value is selected
+                        loader.fadeIn();
+                        $.post('/poll/poll.php', $(this).serialize(), function(data, status){
+                            $('#formcontainer').fadeOut(100, function(){
+                                $(this).html(data);
+                                animateResults(this);
+                                loader.fadeOut();
+                            });
+                        });
+                    }
+                    //prevent form default behavior
+                    return false;
+                });
+                loader.fadeOut();
+            });
+            
+            function animateResults(data){
+                $(data).find('.bar').hide().end().fadeIn('slow', function(){
+                                    $(this).find('.bar').each(function(){
+                                        var bar_width=$(this).css('width');
+                                        $(this).css('width', '0').animate({ width: bar_width }, 1000);
+                                    });
+                                });
+            }
+            
+        });
+        </script>
+
+
+       
+    <script type="text/javascript">
 
         function getConfirmation(){
             var retVal = confirm("Do you want to continue ?");
@@ -94,302 +159,98 @@
     
     <!-- for mobile site -->
         <!-- for mobile site -->
-      <script src="http://partner.googleadservices.com/gampad/google_service.js" type="text/javascript"></script>
 
-  
-
-
-			<script type="text/javascript">
-				GS_googleAddAdSenseService("ca-pub-6549793407717263");
-				GS_googleEnableAllServices();
-			</script>
-			
-			
-			
-			
-			<script type="text/javascript">
-				/* Header Homepage 728X90 Code start*/
-                  GA_googleAddSlot("ca-pub-6549793407717263", "TD_HomePage_Header_LeaderBoard");
-				/* Header Homepage 729X90 Code End*/
-				
-				/* Header 728X90 Code start for  TD_Laptops_Header_LeaderBoard*/
-                   GA_googleAddSlot("ca-pub-6549793407717263", "TD_Laptops_Header_LeaderBoard");
-				/* Header 729X90 Code End  TD_Laptops_Header_LeaderBoard*/
-				
-				/* Header 728X90 Code start for  TD_MobilePhones_Header_LeaderBoard */
-                  GA_googleAddSlot("ca-pub-6549793407717263", "TD_MobilePhones_Header_LeaderBoard");
-				/* Header 729X90 Code End  TD_MobilePhones_Header_LeaderBoard*/
-				
-				/* Header 728X90 Code start for  TD_DigitalCameras_Header_LeaderBoard */
-                  GA_googleAddSlot("ca-pub-6549793407717263", "TD_DigitalCameras_Header_LeaderBoard");
-				/* Header 729X90 Code End  TD_DigitalCameras_Header_LeaderBoard */
-				
-				/* Header 728X90 Code start for   TD_Tablets_Header_LeaderBoard*/
-                  GA_googleAddSlot("ca-pub-6549793407717263", "TD_Tablets_Header_LeaderBoard");
-				/* Header 729X90 Code End   TD_Tablets_Header_LeaderBoard*/
-				
-				/* Header 728X90 Code start for  TD_Videos_Header_LeaderBoard*/
-				  GA_googleAddSlot("ca-pub-6549793407717263", "TD_Videos_Header_LeaderBoard");
-                                  
-                          /* Header 728X90 Code start for  TD_Software_Header_LeaderBoard*/
-                          GA_googleAddSlot("ca-pub-6549793407717263", "TD_Software_Header_LeaderBoard");
-
-                          /* Header 728X90 Code start for  TD_App_Header_LeaderBoard*/
-                          GA_googleAddSlot("ca-pub-6549793407717263", "TD_Apps_Header_LeaderBoard");
-
-                          /* Header 728X90 Code start for  TD_Internet_Header_LeaderBoard*/
-                          GA_googleAddSlot("ca-pub-6549793407717263", "TD_Internet_Header_LeaderBoard");
-                                 
-                                 
-				/* Header 729X90 Code End  TD_Videos_Header_LeaderBoard*/
-				
-				/* Header 728X90 Code start for  TD_Downloads_Header_LeaderBoard*/
-                   GA_googleAddSlot("ca-pub-6549793407717263", "TD_Downloads_Header_LeaderBoard");
-				/* Header 729X90 Code End  TD_Downloads_Header_LeaderBoard*/
-
-				GA_googleAddSlot("ca-pub-6549793407717263", "Ultrabooks_leaderboard");
-				
-				/* Header 728X90 Code start for  TD_NonForum_Header_LeaderBoard*/
-                  GA_googleAddSlot("ca-pub-6549793407717263", "TD_NonForum_Header_LeaderBoard");
-				/* Header 729X90 Code End  TD_NonForum_Header_LeaderBoard*/
-				
-				
-				
-				/* Right side Banner Code start*/
-				        GA_googleAddSlot("ca-pub-6549793407717263", "TD_HomePage_First_Square");
-                        GA_googleAddSlot("ca-pub-6549793407717263", "TD_Laptops_FirstSquare");
-                        GA_googleAddSlot("ca-pub-6549793407717263", "TD_MobilePhones_FirstSquare");
-                        GA_googleAddSlot("ca-pub-6549793407717263", "TD_DigitalCameras_FirstSquare");
-                        GA_googleAddSlot("ca-pub-6549793407717263", "TD_Tablets_FirstSquare");
-                        GA_googleAddSlot("ca-pub-6549793407717263", "TD_Videos_FirstSquare");
-                        GA_googleAddSlot("ca-pub-6549793407717263", "TD_Downloads_FirstSquare");
-                        GA_googleAddSlot("ca-pub-6549793407717263", "TD_NonForum_FirstSquare");
-                        GA_googleAddSlot("ca-pub-6549793407717263", "TD_Software_FirstSquare");
-                        GA_googleAddSlot("ca-pub-6549793407717263", "TD_Apps_FirstSquare");
-                        GA_googleAddSlot("ca-pub-6549793407717263", "TD_Internet_FirstSquare");
-                        GA_googleAddSlot("ca-pub-6549793407717263", "Ultrabooks_firstsquare");
-
-                        GA_googleAddSlot("ca-pub-6549793407717263", "TD_NonForum_SecondSquare");
-                        GA_googleAddSlot("ca-pub-6549793407717263", "TD_NonForum_ThirdSquare");
-                        GA_googleAddSlot("ca-pub-6549793407717263", "TD_NonForum_FourthSquare");
-                        GA_googleAddSlot("ca-pub-6549793407717263", "TD_NonForum_FifthSquare");
-                        GA_googleAddSlot("ca-pub-6549793407717263", "TD_NonForum_125X125");
-
-                        GA_googleAddSlot("ca-pub-6549793407717263", "TD_Laptops_fifthSquare");
-
-                        /*laptop page*/
-						GA_googleAddSlot("ca-pub-6549793407717263", "TD_Laptops_fourthSquare");
-						GA_googleAddSlot("ca-pub-6549793407717263", "TD_Laptops_SecondSquare");
-						GA_googleAddSlot("ca-pub-6549793407717263", "TD_Laptops_ThirdSquare");
-
-						/*ultrabook page*/
-						GA_googleAddSlot("ca-pub-6549793407717263", "TD_ultrabook_fifthSquare");
-						GA_googleAddSlot("ca-pub-6549793407717263", "TD_ultrabook_fourthSquare");
-						GA_googleAddSlot("ca-pub-6549793407717263", "TD_ultrabook_SecondSquare");
-						GA_googleAddSlot("ca-pub-6549793407717263", "TD_ultrabook_ThirdSquare");
+          <script type="text/javascript">
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function() {
+	var gads = document.createElement('script');
+	gads.async = true;
+	gads.type = 'text/javascript';
+	var useSSL = 'https:' == document.location.protocol;
+	gads.src = (useSSL ? 'https:' : 'http:') + 
+	'//www.googletagservices.com/tag/js/gpt.js';
+	var node = document.getElementsByTagName('script')[0];
+	node.parentNode.insertBefore(gads, node);
+	})();
+</script>
 
 
 
-				/* Right side  Banner Code start*/
+<script>
+	
+</script>
 
-				/* Right side 2nd Banner Code start*/
-					GA_googleAddSlot("ca-pub-6549793407717263", "TD_ArticlePages_300x100");
-				/* Right side 2nd Banner Code start*/
-				
-					/* Footer Banner Code start*/
-					
-					GA_googleAddSlot("ca-pub-6549793407717263", "TD_HomePage_Footer_LeaderBoard");
-					GA_googleAddSlot("ca-pub-6549793407717263", "TD_NonForum_Footer_LeaderBoard");
-					GA_googleAddSlot("ca-pub-6549793407717263", "TD_NonForum_Small_Footer");
-					
-				  /* Footer Banner Code start*/
-				  
-				  
-				  /* Article Page  Text Ads Code start*/
-					GA_googleAddSlot("ca-pub-6549793407717263", "TD_ArticlePages_TextLink_1");
-					GA_googleAddSlot("ca-pub-6549793407717263", "TD_ArticlePages_TextLink_2");
-				 /* Article Page Text Ads Code start*/
-								 
-				  /* Home Page  Text Ads Code start*/
-                   GA_googleAddSlot("ca-pub-6549793407717263", "TD_HomePage_TextLinkBelowTopTen");
-				
-				  /* Home Page Text Ads Code start*/
-				  
-				  
-				   /* Article Page ticker Ads Code start*/
-				GA_googleAddSlot("ca-pub-6549793407717263", "TD_ArticlePages_Ticker_1");
-				GA_googleAddSlot("ca-pub-6549793407717263", "TD_ArticlePages_Ticker_2");
-				GA_googleAddSlot("ca-pub-6549793407717263", "TD_ArticlePages_Ticker_3");
-				GA_googleAddSlot("ca-pub-6549793407717263", "TD_ArticlePages_Ticker_4");
-				GA_googleAddSlot("ca-pub-6549793407717263", "TD_banner_526x83");
-                                
-                                GA_googleAddSlot("ca-pub-6549793407717263", "TD_article_page_below_nav");
-					
-				  /* Article Page ticker Ads Code start*/
-				  
-				   /* Home Page ticker Ads Code start*/
-					GA_googleAddSlot("ca-pub-6549793407717263", "TD_HomePage_Ticker_1");
-					GA_googleAddSlot("ca-pub-6549793407717263", "TD_HomePage_Ticker_2");
-					GA_googleAddSlot("ca-pub-6549793407717263", "TD_HomePage_Ticker_3");
+
+
+
+<script>
+
+googletag.cmd.push(function() {
+	googletag.defineSlot('/1042151/TD_Homepage_SiteCapture_640x300', [640, 300], 'div-gpt-ad-1384167553270-6').addService(googletag.pubads());
+ 	googletag.defineSlot('/1042151/TD_Below_Article_Small_Leaderboard', [468, 60], 'div-gpt-ad-1383814530607-7').addService(googletag.pubads());
+	googletag.defineSlot('/1042151/TD_NonForum_Header_LeaderBoard', [728, 90], 'div-gpt-ad-1384159161179-8').addService(googletag.pubads());
+	googletag.defineSlot('/1042151/TD_CategoryPages_Small_LeaderBoard_1', [468, 60], 'div-gpt-ad-1383814530607-8').addService(googletag.pubads());
+	googletag.defineSlot('/1042151/TD_header_250x90', [250, 90], 'div-gpt-ad-1383814530607-18').addService(googletag.pubads());
+	googletag.defineSlot('/1042151/TD_CategoryPages_Small_LeaderBoard_2', [468, 60], 'div-gpt-ad-1383814530607-9').addService(googletag.pubads());
+	googletag.defineSlot('/1042151/TD_article_page_below_nav', [992, 40], 'div-gpt-ad-1383814530607-6').addService(googletag.pubads());
+	googletag.defineSlot('/1042151/TD-ArticlePages-BelowRelatedStory-2-185x60', [185, 60], 'div-gpt-ad-1383814530607-2').addService(googletag.pubads());
+	googletag.defineSlot('/1042151/TD_127x195', [127, 195], 'div-gpt-ad-1383814530607-3').addService(googletag.pubads());
+	googletag.defineSlot('/1042151/TD_CategoryPages_Small_LeaderBoard_3', [468, 60], 'div-gpt-ad-1383814530607-10').addService(googletag.pubads());
+
+	googletag.defineSlot('/1042151/TD_NonForum_Catfish_Left', [300, 900], 'div-gpt-ad-1384159161179-2').addService(googletag.pubads());
+	googletag.defineSlot('/1042151/TD_NonForum_Catfish_Right', [300, 900], 'div-gpt-ad-1384159161179-3').addService(googletag.pubads());
+	googletag.defineSlot('/1042151/TD_NonForum_125X125', [125, 125], 'div-gpt-ad-1383817403114-11').addService(googletag.pubads());
+	googletag.defineSlot('/1042151/below_logo_textad_240x15', [240, 15], 'div-gpt-ad-1383814530607-1').addService(googletag.pubads());
+	googletag.defineSlot('/1042151/TD-Download-275x63', [275, 63], 'div-gpt-ad-1383897912920-0').addService(googletag.pubads());
+	googletag.defineSlot('/1042151/TD_NonForum_Footer_LeaderBoard', [728, 90], 'div-gpt-ad-1383817403114-15').addService(googletag.pubads());
+	googletag.defineSlot('/1042151/TD_NonForum_Small_Footer', [250, 90], 'div-gpt-ad-1383817403114-19').addService(googletag.pubads());
+	googletag.defineSlot('/1042151/TD_NonForum_FirstSquare', [300, 250], 'div-gpt-ad-1384159161179-5').addService(googletag.pubads());
+	googletag.defineSlot('/1042151/TD_NonForum_SecondSquare', [300, 250], 'div-gpt-ad-1384159161179-9').addService(googletag.pubads());
+	googletag.defineSlot('/1042151/TD_NonForum_ThirdSquare', [300, 250], 'div-gpt-ad-1384159161179-11').addService(googletag.pubads());
+	googletag.defineSlot('/1042151/TD_NonForum_FourthSquare', [300, 250], 'div-gpt-ad-1384159161179-7').addService(googletag.pubads());
+	googletag.defineSlot('/1042151/TD_NonForum_FifthSquare', [300, 250], 'div-gpt-ad-1384159161179-4').addService(googletag.pubads());
+	googletag.defineSlot('/1042151/TD_footer_subscription_150x150', [150, 150], 'div-gpt-ad-1384240944316-0').addService(googletag.pubads());
+	googletag.defineSlot('/1042151/TD_subscription_280x90', [280, 90], 'div-gpt-ad-1384241535390-0').addService(googletag.pubads());
 
 	
+	googletag.enableServices();
+});
 
-			    /* Home Page ticker Ads Code start*/
-				  
-			
-			
-			   /* TD_CategoryPages_Small_LeaderBoard banner Code start*/
-			   
-					GA_googleAddSlot("ca-pub-6549793407717263", "TD_CategoryPages_Small_LeaderBoard_1");
-					GA_googleAddSlot("ca-pub-6549793407717263", "TD_CategoryPages_Small_LeaderBoard_2");
-					GA_googleAddSlot("ca-pub-6549793407717263", "TD_CategoryPages_Small_LeaderBoard_3");
-					
-				/* Right Side 300x90 banner Code end*/
-			
-			
-			
-			
-				  
-				/* Right Side 300x90 banner Code start*/
-                                GA_googleAddSlot("ca-pub-6549793407717263", "TD_HomePage_300x90");
-				/* Right Side 300x90 banner Code end*/
-				
-				/* Detail page Footer banner Code start*/
-					GA_googleAddSlot("ca-pub-6549793407717263", "TD_Below_Article_Small_Leaderboard");			
-				/* Detail page Footer banner Code end*/
-			
-				/* Download 300x90 ads on detail page */
-				GA_googleAddSlot("ca-pub-6549793407717263", "TD_Download_InsidePage");
-				/*VideosDetail page 225x70 */
-                              GA_googleAddSlot("ca-pub-6549793407717263", "TD_Videos_Ticker");
-
-				/*TD_HomePage_Catfish*/
-                GA_googleAddSlot("ca-pub-6549793407717263", "TD_HomePage_Catfish_left");
-                GA_googleAddSlot("ca-pub-6549793407717263", "TD_HomePage_Catfish_Right");
-
-		<!-- TD_NonForum_Catfish_Right -->
-
-		GA_googleAddSlot("ca-pub-6549793407717263", "TD_NonForum_Catfish_Left");
-		GA_googleAddSlot("ca-pub-6549793407717263", "TD_NonForum_Catfish_Right");
-		
-
-				/* Download 282x90 ads on detail page */
-		                 GA_googleAddSlot("ca-pub-6549793407717263", "TD_Below_Article_282X90");
-		 /*rightside_download275x63 */
-              GA_googleAddSlot("ca-pub-6549793407717263", "TD-Download-275x63");			
-		/* Review Inner Page Near Summary section */
-		GA_googleAddSlot("ca-pub-6549793407717263", "TD_Below_Article_282X90");
-                GA_googleAddSlot("ca-pub-6549793407717263", "TD-ArticlePages-BelowRelatedStory-1-185x60");
-                GA_googleAddSlot("ca-pub-6549793407717263", "TD-ArticlePages-BelowRelatedStory-2-185x60");
-
-
-
-
-              /*siteCapture */
-            GA_googleAddSlot("ca-pub-6549793407717263", "TD_Homepage_SiteCapture_640x300");
-
-			
-                /*TD_MobileCategory_Catfish*/
-		GA_googleAddSlot("ca-pub-6549793407717263", "TD_MobilePhone_Catfish_Left");
-		GA_googleAddSlot("ca-pub-6549793407717263", "TD_Mobile_Phone_Catfish_Right");
-
-
-
-             /*TD_Digital Camera_Catfish*/
-           GA_googleAddSlot("ca-pub-6549793407717263", "TD_DigitalCamera_Catfish_Left");
-           GA_googleAddSlot("ca-pub-6549793407717263", "TD_DigitalCamera_Catfish_Right");
-
-	/* ---- eBay codes for TD -----------*/
-
-        GA_googleAddSlot("ca-pub-6549793407717263", "TD_215x43_ArticlePage_Below_RelatedStories");
-	GA_googleAddSlot("ca-pub-6549793407717263", "TD_135x43_Next2Breadcrum");
-	GA_googleAddSlot("ca-pub-6549793407717263", "TD_120x40_Next2Tabs");
-	GA_googleAddSlot("ca-pub-6549793407717263", "TD_243x38_ReviewDetailPage");
-
-
-
-	    /*tag page catfish ads */
-              GA_googleAddSlot("ca-pub-6549793407717263", "TD_Headphones_Catfish_Left");
-              
-              GA_googleAddSlot("ca-pub-6549793407717263", "TD_Headphones_Catfish_Right");		
-            
-
-           /*TD_Top10_Small_Leaderboard */
-
-	    GA_googleAddSlot("ca-pub-6549793407717263", "TD_Top10_Small_Leaderboard");	
-
-
-         /*TD_buttom pop ads */
-
-         GA_googleAddSlot("ca-pub-6549793407717263", "TD_127x195");
-
-
-          /*Footer Ads popUp */
-	GA_googleAddSlot("ca-pub-6549793407717263", "CM_HP_header_Leaderboard");
-
-	/*ArticleDetail page 250x90 */
-	GA_googleAddSlot("ca-pub-6549793407717263", "TD_header_250x90");
-
-	/*Lenovo Ads */
-	GA_googleAddSlot("ca-pub-6549793407717263", "Page_bottom_1240x100");
-	GA_googleAddSlot("ca-pub-6549793407717263", "Page_left_44x530");
-	GA_googleAddSlot("ca-pub-6549793407717263", "Page_right_37x530");
-	GA_googleAddSlot("ca-pub-6549793407717263", "page_top_1240x38");
-
-      /*printer Catfish Ads */
-
-       GA_googleAddSlot("ca-pub-6549793407717263", "TD_printer_Catfish_left");
-       GA_googleAddSlot("ca-pub-6549793407717263", "TD_printer_Catfish_right");
-
-       GA_googleAddSlot("ca-pub-6549793407717263", "TD_printer_first_square");
-       GA_googleAddSlot("ca-pub-6549793407717263", "TD_printer_Header_LeaderBoard");
-
-       	</script>
-	<script type="text/javascript">
-				GA_googleFetchAds();
-			</script>
-			
-			
-			
- <script type="text/javascript">
-                function recordOutboundLink(link, category, action) {
-                _gat._getTrackerByName()._trackEvent(category, action);
-                setTimeout('document.location = "' + link.href + '"', 100);
-                }
-                </script>
-
-<script type="text/javascript" src="http://tags.crwdcntrl.net/c/192/cc.js?ns=_cc192" id="LOTCC_192">
 </script>
-<script>
-_cc192.bcp();
-</script>                
-  
-<script type="text/javascript">
-var _urq = _urq || [];
-_urq.push(['initSite', '5e0d9765-4b2d-4129-be40-ab57ac71ec7a']);
-(function() {
-var ur = document.createElement('script'); ur.type = 'text/javascript'; ur.async = true;
-ur.src = 'http://sdscdn.userreport.com/userreport.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ur, s);
-})();
-</script> 
+
 
 </head>
 <body onload="catFish()">
 
 <!-- catfish banner start -->
 
-<div id="left" style="display: block;">
-    <script type="text/javascript">
-        GA_googleFillSlot("TD_HomePage_Catfish_left");
-    </script>
+
+
+<div id="takeover-ad-wrap">
+    <div id="takeover-ad">
+        <div id="leftGutterContainer">
+            <!-- TD_HomePage_Catfish_left -->
+                <div id="div-gpt-ad-1384167553270-1" style="width:300px; height:900px;">
+                    <script type="text/javascript">
+                        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384167553270-1'); });
+                    </script>
+                </div>
+
+        </div>
+        <div id="rightGutterContainer">
+            
+           <!-- TD_HomePage_Catfish_Right -->
+                <div id="div-gpt-ad-1384167553270-2" style="width:300px; height:900px;">
+                    <script type="text/javascript">
+                        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384167553270-2'); });
+                    </script>
+                </div>
+        </div>
+    </div>
 </div>
-<div id="right" style="display: block;">
-    <!-- TD_HomePage_Catfish_Right -->
-    <script type="text/javascript">
-        GA_googleFillSlot("TD_HomePage_Catfish_Right");
-    </script>
-</div>
+
+    
 
 <!-- catfish banner end -->
 
@@ -408,7 +269,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ur
                 <!-- header -->
                                     <div id="header">
 
-                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                               
+                        
 
 <script type="text/javascript" src="http://www.google.com/jsapi"></script>
 <script type="text/javascript">
@@ -449,7 +311,7 @@ function validateSearchBox()
     </script>
 
     <!-- Analytics code here -->
-    <script type="text/javascript">
+      <script type="text/javascript">
 
        var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-3260171-1']);
@@ -459,12 +321,11 @@ function validateSearchBox()
 
       (function() {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+       ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
 
         </script>
-
 
 
 
@@ -484,21 +345,38 @@ function validateSearchBox()
             <!-- End comScore Tag -->
             <div class="top-area">
                 <!-- logo -->
-                <span class="logo"><a href="http://www.thinkdigit.com/" title="thinkdigit">Think Digit - your technology navigator</a></span>
-                <!-- banner -->
+               <div style="float:left">
+                <div class="logo">
+
+
+
+<a href="http://www.thinkdigit.com/" title="Digit - Technology News, Product Reviews and Downloads" alt="Digit - Technology News, Product Reviews and Downloads">Think Digit - your technology navigator</a>
+
+</div>
+              <div style="margin-top:-19px;margin-left:4px;">
+              <div id="div-gpt-ad-1383814530607-1" style="width:240px; height:15px;">
+                    <script type="text/javascript">
+                        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1383814530607-1'); });
+                    </script>
+                </div>
+              </div>
+         </div>
+          <!-- logo -->
+          
+
+                  <!-- banner -->
                 <div class="banner01">
                  
 
+	
 
 
-
-  <!-- ca-pub-6549793407717263/Ad-Unit: TD_NonForum_Header_LeaderBoard -->
+<!-- TD_NonForum_Header_LeaderBoard -->
+<div id="div-gpt-ad-1384159161179-8" style="width:728px; height:90px;">
 <script type="text/javascript">
-GA_googleFillSlot("TD_NonForum_Header_LeaderBoard");
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384159161179-8'); });
 </script>
-
-
-
+</div>
 
                 </div>
                 </div>
@@ -506,8 +384,8 @@ GA_googleFillSlot("TD_NonForum_Header_LeaderBoard");
                     <!-- top navigation -->
                     <ul class="top-nav">
                         <li><a class="forum" href="http://www.thinkdigit.com/forum/" target="_blank">FORUM</a></li>
-                        <li><a class="dev-works" href="http://devworx.in" target="_blank">DEV WORKS</a></li>
-                        <li><a class="skoar" href="http://skoar.thinkdigit.com" target="_blank">SKOAR!</a></li>
+                        <li><a class="dev-works" target="_blank">DEV WORKS</a></li>
+                        <li><a class="skoar" target="_blank">SKOAR!</a></li>
                     </ul>
                     <!-- social area -->
                     <div class="social-bar">
@@ -516,8 +394,8 @@ GA_googleFillSlot("TD_NonForum_Header_LeaderBoard");
                                 <li><a class="twitter" href="http://www.thinkdigit.com/twitter" target="_blank">Twitter</a></li>
                                 <li><a class="google" href="https://plus.google.com/107491101603370931278" rel="publisher" target="_blank">Google</a></li>
                             </ul>
-                            <a class="link" href="/jointhinkdigit.html">Join thinkdigit.com Now!</a>
-                        </div>
+                            <a class="link" href="http://www.thinkdigit.com/subscribe.php" style="color:#FFF !important; font-size:12px !important;; margin-left:10px">Subscribe to Digit Magazine</a>
+                                                    </div>
                         <!-- search form -->
 
                              <form class="form-search" action="http://www.thinkdigit.com/search.php" id="cse-search-box" onsubmit="return validateSearchBox()">
@@ -539,246 +417,42 @@ GA_googleFillSlot("TD_NonForum_Header_LeaderBoard");
                         <!-- news area -->
                         <div class="news-bar">
                             <span class="title">
-                                <a href="http://www.thinkdigit.com/newsletter.php" style="color:#ffffff;text-decoration:none">Get your newsletter</a>
+                                <a href="http://www.thinkdigit.com/newsletter.php" style="color:#ffffff;text-decoration:none" onclick="recordOutboundLink(this,'newsletter','/newsletter.php');return false;">Get your newsletter</a>
                             </span>
                             <ul>
-                                <li><a class="email" href="http://www.thinkdigit.com/newsletter.php">email</a></li>
-                                <li><a class="rss" href="http://feeds.feedburner.com/thinkdigit/zpZl" target="_blank">rss</a></li>
+                                <li><a class="email" href="http://www.thinkdigit.com/newsletter.php" onclick="recordOutboundLink(this,'newsletter','/newsletter.php');return false;">email</a></li>
+                                <li><a class="rss" href="http://feeds.feedburner.com/thinkdigit/zpZl" onclick="recordOutboundLink(this,'rssfeed','http://feeds.feedburner.com/thinkdigit/zpZl');return false;">rss</a></li>
                             </ul>
                         </div>
                     </div>
                     <!-- main navigation -->
                     <ul id="nav">
                         <li class="active"><a class="home" href="http://www.thinkdigit.com/">Home</a></li>
+
+			<li><a class="finder" href="http://www.thinkdigit.com/product-finder/">Gadget Finder</a>
+			<div class="dropfinder">
+
+	<div class="m">
+	<div class="holder"> <a href="http://www.thinkdigit.com/product-finder/filter=category:4"><img class="visual" src="/images/findlaptop1.png" alt="Find Laptops"></a>
+	<a href="http://www.thinkdigit.com/product-finder/filter=category:3"><img class="visual" src="/images/findmobile1.png" alt="Find Mobiles"></a>
+	<a href="http://www.thinkdigit.com/product-finder/filter=category:5"><img class="visual" src="/images/findtablet1.png" alt="Find Tablets"></a>
+	</div>
+			</div>
+			<div class="b"></div>
+			</div>
+
+			</li>
+
                         <li><a class="news" href="http://www.thinkdigit.com/technology-news.html">News</a></li>
                         <li><a class="reviews" href="http://www.thinkdigit.com/review.php">Reviews</a></li>
                         <li><a class="features" href="http://www.thinkdigit.com/feature.php">Features</a></li>
+                        <li><a class="howto" href="http://www.thinkdigit.com/howto">How To</a></li>
                         <li><a class="slideshow" href="http://www.thinkdigit.com/slideshows/">Slideshow</a></li>
                         <li><a class="downloads" href="http://www.thinkdigit.com/download.php">Downloads</a></li>
                         <li> <a class="top" href="http://www.thinkdigit.com/top-products.php">Digit Top10</a></li>
                         <li><a class="videos" href="http://www.thinkdigit.com/videos.php">Videos</a></li>
-                                                <li><a class="deal" href="#">deal</a>
-                                                  
-
-<div class="dropebay" style="height:350px; overflow:scroll; z-index:9999">
-                                 <div class="ebay">  
-                               
-
-                                    <div class="holder">
-                                       <div>
- 
-	
-			
-		<div style="color:#182842; font-size:18px; padding-top:10px; float:left; padding-left:10px">  Featured Hot Deals </div>
-         
-	
-			<div style="padding-top:10px; margin-left:5px;float:left;font-size:10px; ">powered by </div>
-	 
-	
-			<div><img class="visual" src="/hotdealimages/ebay_logo.png" alt="image description" style="margin-left:10px"></div>
-	                </div>
-                                    </div>
-
-                                    <div style="clear:both; height:1px; background:#666666"></div>
-                                    
-                            
-  
-                                    <div class="holder">
-                                       <div style="float:left; width:130px"> 
-                                          <div>
-                                       <a href="/hotdealnavbartrack.php?hid=49" target="_blank"><img class="visual" src="http://www.thinkdigit.com/hotdealimages/samsung_galaxy_s4_i9500_1369732771.jpg" width="75" alt="image description"></a>
-                                       </div>
-                                         <div style="clear:both;"></div>
-   <div style="color:#182842; font-size:12px;width:100px"><a href="/hotdealnavbartrack.php?hid=49" target="_blank" style="color:color:#182842 !important; text-indent:0px !important">Samsung Galaxy S4 i9500</a></div>
-                                       
-                                       </div>
-                                       
-                                       <div style="float:left; width:130px; font-size:18px; padding-top:30px">Rs. 39000</div>
-                                         <div style="float:left; width:90px; padding-top:25px"><a href="/hotdealnavbartrack.php?hid=49" target="_blank">
-                          <img class="visual" src="http://www.thinkdigit.com/images/buy_now_ebay_but.png" width="84" height="30" alt="Buy Now"></a></div>
-                                    </div>
-
-                                    <div style="clear:both; height:1px; background:#666666"></div>
-
-                            
-  
-                                    <div class="holder">
-                                       <div style="float:left; width:130px"> 
-                                          <div>
-                                       <a href="/hotdealnavbartrack.php?hid=40" target="_blank"><img class="visual" src="http://www.thinkdigit.com/hotdealimages/intex_aqua_star_1369393091.jpg" width="75" alt="image description"></a>
-                                       </div>
-                                         <div style="clear:both;"></div>
-   <div style="color:#182842; font-size:12px;width:100px"><a href="/hotdealnavbartrack.php?hid=40" target="_blank" style="color:color:#182842 !important; text-indent:0px !important">Intex Aqua Star</a></div>
-                                       
-                                       </div>
-                                       
-                                       <div style="float:left; width:130px; font-size:18px; padding-top:30px">Rs. 4000</div>
-                                         <div style="float:left; width:90px; padding-top:25px"><a href="/hotdealnavbartrack.php?hid=40" target="_blank">
-                          <img class="visual" src="http://www.thinkdigit.com/images/buy_now_ebay_but.png" width="84" height="30" alt="Buy Now"></a></div>
-                                    </div>
-
-                                    <div style="clear:both; height:1px; background:#666666"></div>
-
-                            
-  
-                                    <div class="holder">
-                                       <div style="float:left; width:130px"> 
-                                          <div>
-                                       <a href="/hotdealnavbartrack.php?hid=6" target="_blank"><img class="visual" src="http://www.thinkdigit.com/hotdealimages/htc_8s_1369375769.jpg" width="75" alt="image description"></a>
-                                       </div>
-                                         <div style="clear:both;"></div>
-   <div style="color:#182842; font-size:12px;width:100px"><a href="/hotdealnavbartrack.php?hid=6" target="_blank" style="color:color:#182842 !important; text-indent:0px !important">HTC 8S</a></div>
-                                       
-                                       </div>
-                                       
-                                       <div style="float:left; width:130px; font-size:18px; padding-top:30px">Rs. 15000</div>
-                                         <div style="float:left; width:90px; padding-top:25px"><a href="/hotdealnavbartrack.php?hid=6" target="_blank">
-                          <img class="visual" src="http://www.thinkdigit.com/images/buy_now_ebay_but.png" width="84" height="30" alt="Buy Now"></a></div>
-                                    </div>
-
-                                    <div style="clear:both; height:1px; background:#666666"></div>
-
-                            
-  
-                                    <div class="holder">
-                                       <div style="float:left; width:130px"> 
-                                          <div>
-                                       <a href="/hotdealnavbartrack.php?hid=38" target="_blank"><img class="visual" src="http://www.thinkdigit.com/hotdealimages/huawei_ascend_y300_1369392942.jpg" width="75" alt="image description"></a>
-                                       </div>
-                                         <div style="clear:both;"></div>
-   <div style="color:#182842; font-size:12px;width:100px"><a href="/hotdealnavbartrack.php?hid=38" target="_blank" style="color:color:#182842 !important; text-indent:0px !important">Huawei Ascend Y300</a></div>
-                                       
-                                       </div>
-                                       
-                                       <div style="float:left; width:130px; font-size:18px; padding-top:30px">Rs. 7000</div>
-                                         <div style="float:left; width:90px; padding-top:25px"><a href="/hotdealnavbartrack.php?hid=38" target="_blank">
-                          <img class="visual" src="http://www.thinkdigit.com/images/buy_now_ebay_but.png" width="84" height="30" alt="Buy Now"></a></div>
-                                    </div>
-
-                                    <div style="clear:both; height:1px; background:#666666"></div>
-
-                            
-  
-                                    <div class="holder">
-                                       <div style="float:left; width:130px"> 
-                                          <div>
-                                       <a href="/hotdealnavbartrack.php?hid=44" target="_blank"><img class="visual" src="http://www.thinkdigit.com/hotdealimages/nokia_lumia_520_1369732056.jpg" width="75" alt="image description"></a>
-                                       </div>
-                                         <div style="clear:both;"></div>
-   <div style="color:#182842; font-size:12px;width:100px"><a href="/hotdealnavbartrack.php?hid=44" target="_blank" style="color:color:#182842 !important; text-indent:0px !important">Nokia Lumia 520</a></div>
-                                       
-                                       </div>
-                                       
-                                       <div style="float:left; width:130px; font-size:18px; padding-top:30px">Rs. 9500</div>
-                                         <div style="float:left; width:90px; padding-top:25px"><a href="/hotdealnavbartrack.php?hid=44" target="_blank">
-                          <img class="visual" src="http://www.thinkdigit.com/images/buy_now_ebay_but.png" width="84" height="30" alt="Buy Now"></a></div>
-                                    </div>
-
-                                    <div style="clear:both; height:1px; background:#666666"></div>
-
-                            
-  
-                                    <div class="holder">
-                                       <div style="float:left; width:130px"> 
-                                          <div>
-                                       <a href="/hotdealnavbartrack.php?hid=28" target="_blank"><img class="visual" src="http://www.thinkdigit.com/hotdealimages/samsung_w279_cdma_1369378568.jpg" width="75" alt="image description"></a>
-                                       </div>
-                                         <div style="clear:both;"></div>
-   <div style="color:#182842; font-size:12px;width:100px"><a href="/hotdealnavbartrack.php?hid=28" target="_blank" style="color:color:#182842 !important; text-indent:0px !important">Samsung W279 CDMA</a></div>
-                                       
-                                       </div>
-                                       
-                                       <div style="float:left; width:130px; font-size:18px; padding-top:30px">Rs. 5500</div>
-                                         <div style="float:left; width:90px; padding-top:25px"><a href="/hotdealnavbartrack.php?hid=28" target="_blank">
-                          <img class="visual" src="http://www.thinkdigit.com/images/buy_now_ebay_but.png" width="84" height="30" alt="Buy Now"></a></div>
-                                    </div>
-
-                                    <div style="clear:both; height:1px; background:#666666"></div>
-
-                            
-  
-                                    <div class="holder">
-                                       <div style="float:left; width:130px"> 
-                                          <div>
-                                       <a href="/hotdealnavbartrack.php?hid=30" target="_blank"><img class="visual" src="http://www.thinkdigit.com/hotdealimages/samsung_s239_cdma_1369378693.jpg" width="75" alt="image description"></a>
-                                       </div>
-                                         <div style="clear:both;"></div>
-   <div style="color:#182842; font-size:12px;width:100px"><a href="/hotdealnavbartrack.php?hid=30" target="_blank" style="color:color:#182842 !important; text-indent:0px !important">Samsung S239 CDMA</a></div>
-                                       
-                                       </div>
-                                       
-                                       <div style="float:left; width:130px; font-size:18px; padding-top:30px">Rs. 6000</div>
-                                         <div style="float:left; width:90px; padding-top:25px"><a href="/hotdealnavbartrack.php?hid=30" target="_blank">
-                          <img class="visual" src="http://www.thinkdigit.com/images/buy_now_ebay_but.png" width="84" height="30" alt="Buy Now"></a></div>
-                                    </div>
-
-                                    <div style="clear:both; height:1px; background:#666666"></div>
-
-                            
-  
-                                    <div class="holder">
-                                       <div style="float:left; width:130px"> 
-                                          <div>
-                                       <a href="/hotdealnavbartrack.php?hid=25" target="_blank"><img class="visual" src="http://www.thinkdigit.com/hotdealimages/sony_xperia_e_dual_1369378496.jpg" width="75" alt="image description"></a>
-                                       </div>
-                                         <div style="clear:both;"></div>
-   <div style="color:#182842; font-size:12px;width:100px"><a href="/hotdealnavbartrack.php?hid=25" target="_blank" style="color:color:#182842 !important; text-indent:0px !important">Sony Xperia E Dual</a></div>
-                                       
-                                       </div>
-                                       
-                                       <div style="float:left; width:130px; font-size:18px; padding-top:30px">Rs. 7500</div>
-                                         <div style="float:left; width:90px; padding-top:25px"><a href="/hotdealnavbartrack.php?hid=25" target="_blank">
-                          <img class="visual" src="http://www.thinkdigit.com/images/buy_now_ebay_but.png" width="84" height="30" alt="Buy Now"></a></div>
-                                    </div>
-
-                                    <div style="clear:both; height:1px; background:#666666"></div>
-
-                            
-  
-                                    <div class="holder">
-                                       <div style="float:left; width:130px"> 
-                                          <div>
-                                       <a href="/hotdealnavbartrack.php?hid=8" target="_blank"><img class="visual" src="http://www.thinkdigit.com/hotdealimages/htc_desire_v_1369376189.jpg" width="75" alt="image description"></a>
-                                       </div>
-                                         <div style="clear:both;"></div>
-   <div style="color:#182842; font-size:12px;width:100px"><a href="/hotdealnavbartrack.php?hid=8" target="_blank" style="color:color:#182842 !important; text-indent:0px !important">HTC Desire V</a></div>
-                                       
-                                       </div>
-                                       
-                                       <div style="float:left; width:130px; font-size:18px; padding-top:30px">Rs. 11000</div>
-                                         <div style="float:left; width:90px; padding-top:25px"><a href="/hotdealnavbartrack.php?hid=8" target="_blank">
-                          <img class="visual" src="http://www.thinkdigit.com/images/buy_now_ebay_but.png" width="84" height="30" alt="Buy Now"></a></div>
-                                    </div>
-
-                                    <div style="clear:both; height:1px; background:#666666"></div>
-
-                            
-  
-                                    <div class="holder">
-                                       <div style="float:left; width:130px"> 
-                                          <div>
-                                       <a href="/hotdealnavbartrack.php?hid=13" target="_blank"><img class="visual" src="http://www.thinkdigit.com/hotdealimages/xolo_b700_1369378046.jpg" width="75" alt="image description"></a>
-                                       </div>
-                                         <div style="clear:both;"></div>
-   <div style="color:#182842; font-size:12px;width:100px"><a href="/hotdealnavbartrack.php?hid=13" target="_blank" style="color:color:#182842 !important; text-indent:0px !important">XOLO B700</a></div>
-                                       
-                                       </div>
-                                       
-                                       <div style="float:left; width:130px; font-size:18px; padding-top:30px">Rs. 9000</div>
-                                         <div style="float:left; width:90px; padding-top:25px"><a href="/hotdealnavbartrack.php?hid=13" target="_blank">
-                          <img class="visual" src="http://www.thinkdigit.com/images/buy_now_ebay_but.png" width="84" height="30" alt="Buy Now"></a></div>
-                                    </div>
-
-                                    <div style="clear:both; height:1px; background:#666666"></div>
-
-                            
-
-
-
-                               <div class="b"></div>
-                            </div>
-
-                        </div></li>
+                                                <li><a class="deal" href="http://www.thinkdigit.com/hot-deals">deal</a>
+                                                 </li>
                         <li><a class="contests" href="http://www.thinkdigit.com/contests">Contests</a></li>
                                                <li>
                             <a class="magazine" href="http://www.thinkdigit.com/store">Magazine</a>
@@ -786,11 +460,11 @@ GA_googleFillSlot("TD_NonForum_Header_LeaderBoard");
                                 <div class="t"></div>
                                 <div class="m">
                                     <div class="holder">
-                                        <img class="visual" src="/images/img01.jpg" width="125" height="100" alt="image description">
+                                        <img class="visual" src="/images/img01.jpg" width="125" height="100" alt="magazine">
                                         <ul>
-                                            <li><a href="http://www.thinkdigit.com/subscribe.php">subscribe now</a></li>
-                                            <li><a href="/cartdisplay.php?mode=cart_add&amp;product_id=369&amp;quantity=1&amp;type=ci">buy current issue</a></li>
-                                                                                           <li><a href="http://www.thinkdigit.com/cart.php">buy previous issue</a></li>
+                                            <li><a href="http://www.thinkdigit.com/subscribe.php" onclick="recordOutboundLink(this,'Subscription','http://www.thinkdigit.com/subscribe.php');return false;">subscribe now</a></li>
+                                            <li><a href="/cartdisplay.php?mode=cart_add&amp;product_id=397&amp;quantity=1&amp;type=ci" onclick="recordOutboundLink(this,'Cart','/cartdisplay.php?mode=cart_add&amp;product_id=397&amp;quantity=1&amp;type=ci');return false;">buy current issue</a></li>
+                                                                                           <li><a href="http://www.thinkdigit.com/cart.php" onclick="recordOutboundLink(this,'currentissue','http://www.thinkdigit.com/cart.php');return false;">buy previous issue</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -900,11 +574,15 @@ GA_googleFillSlot("TD_NonForum_Header_LeaderBoard");
 <!-- banner -->
 
 	 <div class="banner"> 
-        <!-- ca-pub-6549793407717263/thinkdigit-homepage-rightside First Banner -->
-        <script type="text/javascript">
-      GA_googleFillSlot("TD_HomePage_First_Square");
-        </script>
+
+	<!-- TD_HomePage_First_Square -->
+	<div id="div-gpt-ad-1384167553270-3" style="width:300px; height:250px;">
+	<script type="text/javascript">
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384167553270-3'); });
+	</script>
+	</div>
 </div> 
+
 
 
 <div>
@@ -945,20 +623,26 @@ GA_googleFillSlot("TD_NonForum_Header_LeaderBoard");
                         <div style="padding-bottom:118px;padding-left: 2px;">
                             <div style="float:left;width:728px; height:90px;border:1px solid #3b3b3b;">
 
-
-  <!-- ca-pub-6549793407717263/Ad-Unit: TD_NonForum_Footer_LeaderBoard -->
+<!-- TD_NonForum_Footer_LeaderBoard -->
+<div id="div-gpt-ad-1383817403114-15" style="width:728px; height:90px;">
 <script type="text/javascript">
-GA_googleFillSlot("TD_NonForum_Footer_LeaderBoard");
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1383817403114-15'); });
 </script>
+</div>
 
 </div>
 
 	<div style="float:left;height:90px; width:250px; border:1px solid #3b3b3b;margin-left:5px">
-	<script type="text/javascript">
-   GA_googleFillSlot("TD_NonForum_Small_Footer");
-	</script>
+	
+<!-- TD_NonForum_Small_Footer -->
+<div id="div-gpt-ad-1383817403114-19" style="width:250px; height:90px;">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1383817403114-19'); });
+</script>
+</div>
 				
 	</div>
+
                         </div>
                         
 <!-- bottom navs -->
@@ -973,28 +657,28 @@ GA_googleFillSlot("TD_NonForum_Footer_LeaderBoard");
         <ul>
              
               <li>
-                                    <a href="/Internet/The-Ins-and-Outs-of-Zoho-online_14899.html">
-                        The Ins and Outs of Zoho online...</a>
+                                    <a href="/Parts-Peripherals/30-days-with-Kingston-HyperX-Beast-RAM_19180.html">
+                        30 days with Kingston HyperX...</a>
                               </li>
              
               <li>
-                                    <a href="/Internet/Best-cloud-storage-services-to-keep-your_14898.html">
-                        Best cloud storage services...</a>
+                                    <a href="/General/10-cool-tech-products-that-we-lost_19166.html">
+                        10 cool tech products that...</a>
                               </li>
              
               <li>
-                                    <a href="/Digital-Cameras/Sony-Alpha-NEX-3N-Review_14897.html">
-                        Sony Alpha NEX-3N Review</a>
+                                    <a href="/General/Geek-into-2014_19176.html">
+                        Geek into 2014</a>
                               </li>
              
               <li>
-                                    <a href="/Mobiles-PDAs/MTS-Duet-Dual-SIM-CDMAGSM-Gingerbread-smartphone-launched_14896.html">
-                        MTS Duet: Dual-SIM (CDMA+GSM)...</a>
+                                    <a href="/Software/Top-free-Security-Tools_19171.html">
+                        Top free Security Tools</a>
                               </li>
              
               <li>
-                                    <a href="/Tablets/Computex-2013-Asus-launches-Transformer-Book-Trio_14895.html">
-                        Computex 2013: Asus launches...</a>
+                                    <a href="/Parts-Peripherals/Best-High-end-Cabinets-2013-Digit-Zero1-Awards_19170.html">
+                        Best High-end Cabinets 2013:...</a>
                               </li>
               
         </ul>
@@ -1010,8 +694,7 @@ GA_googleFillSlot("TD_NonForum_Footer_LeaderBoard");
                  <h3>Sister Sites</h3>
                     <ul>
                             <li><a href="http://skoar.thinkdigit.com/" target="_blank">Skoar!</a></li>
-                            <li style="color: #b1b1b1;padding: 1px 4px 3px">Consumermate</li>
-                           <li><a href="http://www.devworx.in" target="_blank">devworx</a></li> 
+                                                      <li><a href="http://www.devworx.in" target="_blank">devworx</a></li> 
                     </ul>
 
                   
@@ -1027,8 +710,7 @@ GA_googleFillSlot("TD_NonForum_Footer_LeaderBoard");
                             <li><a href="http://www.thinkdigit.com/twitter" target="_blank" rel="nofollow">Twitter</a></li>
                             <li><a href="http://www.thinkdigit.com/youtube" rel="nofollow" target="_blank">Youtube</a></li>
                             <li><a href="http://www.thinkdigit.com/forum/" target="_blank">Forum</a></li>
-                            <li><a href="http://feeds.feedburner.com/thinkdigit/zpZl" target="_blank">RSS</a></li>
-                    </ul>
+                                                </ul>
             </div>
             <div class="column">
                     <h3>Facebook Channels</h3>
@@ -1071,17 +753,16 @@ function openPopup()
 
 
 
- <h3>Digit Magazine</h3>
-        <div class="visual">
-                <a href="http://www.thinkdigit.com/store" title="June"><img src="/images/img10.jpg" width="170" height="135" alt=" Jun 2013 issue"></a>         </div>
-        <ul>
-         
-                <li><a href="/cartdisplay.php?mode=cart_add&amp;product_id=369&amp;quantity=1&amp;type=ci">Buy  Jun 2013 issue</a></li>
-                <li><a href="/cartPrewiew?mode=cart_add&amp;product_id=369&amp;quantity=1">Preview  Jun 2013 issue</a></li>
-                <li><a href="http://www.thinkdigit.com/subscribe.php">Subscribe to Digit</a></li>
-                <li><a href="http://www.thinkdigit.com/customer_service.php">Customer Service</a></li>
-        </ul>
-  
+     
+    <div class="column column-last">
+      <!-- TD_footer_subscription_150x150 -->
+<div id="div-gpt-ad-1384240944316-0" style="width:150px; height:150px;">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384240944316-0'); });
+</script>
+</div>
+ </div>
+      
    
   
 
@@ -1117,11 +798,17 @@ function openPopup()
     </div>
 </div>
 <script type="text/javascript">
-    setTimeout("toggle('siteCaptureDiv')",9000);
+    setTimeout("toggle('siteCaptureDiv','auto')",9000);
 </script>
+
+
 
 <!-- Start Save for Web Slices -->
 <!-- End Save for Web Slices -->
+ 
+
+
+
 
 
 </body></html>
