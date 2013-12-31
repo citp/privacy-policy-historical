@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wonderglee.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621235116id_/http%3A//www.iminent.com/Corporate/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wonderglee.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231032325id_/http%3A//www.iminent.com/Corporate/Privacy) for the most accurate reproduction.*
 
 # Iminent -Free download: Smileys, Emoticons & Games for Facebook, Messengers & Emails!
 
@@ -82,4 +82,4 @@ Address: [support@iminent.com](mailto:support@iminent.com).
 
 Iminent is compatible with : Windows Xp, Vista, 7 & Internet Explorer 8.0 or higher, Mozilla Firefox 3.6.8 or higher. [ Learn more](https://web.archive.org/service/iminentapp/)
 
-Facebook, Microsoft, Twitter, Yahoo and other properties whose names may appear on our site or within Iminent or Imbooster and its associated elements are trademarks of their respective owners. The use of these tradenames is purely informative and exemplary – it does not connote sponsorship, authorization, or endorsement of Sien SA. 
+Microsoft, Twitter, Yahoo and other properties whose names may appear on our site or within Iminent or Imbooster and its associated elements are trademarks of their respective owners. The use of these tradenames is purely informative and exemplary – it does not connote sponsorship, authorization, or endorsement of Sien SA. 
