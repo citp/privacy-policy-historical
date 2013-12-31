@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecharge.in privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424135352id_/https%3A//www.freecharge.in/app/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecharge.in privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231145230id_/https%3A//www.freecharge.in/app/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy |Freecharge.in - India's Top Online Prepaid Mobile Recharge Service Providers
 
@@ -29,6 +29,6 @@ For any kind of communication, please write to [info@freecharge.in](mailto:info@
 ## FreeCharge is headquartered at:
 
 Accelyst solutions Pvt. Ltd.  
-D-1, Udyog Sadan No.3, MIDC Central Road,  
-Andheri(E), Mumbai-400 093  
+Vaibhav Chambers, Unit No. 2A, 2nd floor  
+Bandra Kurla Complex, Bandra East, Mumbai-400 051  
 
