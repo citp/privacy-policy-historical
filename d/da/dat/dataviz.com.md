@@ -1,16 +1,7 @@
-> *The following text is extracted and transformed from the dataviz.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424093217id_/http%3A//www.dataviz.com/company_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dataviz.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231033349id_/http%3A//www.dataviz.com/company_privacy.html) for the most accurate reproduction.*
 
 # DataViz, Inc.
 
-  |   |   |    
----|---|---|---  
-| 
-
-## Dataviz Privacy Statement
-
-|   |    
-  | At DataViz, we take your privacy very seriously. We are NOT in the business of selling, renting or disclosing your personally identifiable information to others. We have created this statement to describe our commitment to your privacy.  
-  |  |   |    
   |   
 We record IP addresses (the Internet address of a computer) to track sessions on our site. Tracking gives us an idea of which parts and pages of our site users are visiting, how often they visit them, and how long they spend there. We do not link IP addresses to anything personally identifiable. This means that even if your session is tracked, you still remain anonymous. 
 
@@ -37,10 +28,15 @@ You may be asked to provide us your name, e-mail address, phone number, fax numb
 
 
 
-In addition, some of our software products may include technology that, if an Internet connection is available, contacts DataViz servers with basic information about the user's installed copy of the product and the operating system and the types of programs it is used with. Prior to installing any software product, the end-user license agreement will tell you whether such technology is present and how it may be turned off.  
-  
-|  |  |   
-  | 
+In addition, in version 5.0 of Documents To Go, DataViz may gather some information concerning the way in which our products or services are used. This can be turned off in the Settings under Analytics. For example: We track the different file types (e.g., Word vs. Excel vs. PowerPoint vs. PDF) that our customer are opening. We also look at how long users are in a given document as well as whether or not users are viewing or editing documents. This helps us to better understand how to improve our products and services, as well as where to focus future development efforts.
+
+We may use third parties for tools or analytical software to automatically collect and use certain anonymous data that does not directly enable us to identify you. The types of anonymous data that DataViz may collect and use include, but are not limited to: (i) device properties, including, but not limited to unique device identifier or other device identifier ("UDID"); (ii) device software platform and firmware; (iii) mobile phone carrier; (iv) geographical data such as zip code, area code and location; and (v) other anonymous data to help us enhance our products and services.
+
+The analytics software may provide information about how you use your mobile applications as well as how applications are performing across different handsets. The third parties obtain this information as a result of data being sent to their servers from our software "agent" if embedded in your mobile application. The data collected by the agent may include: agent version, platform, SDK version, timestamp, API key (identifier for application), application version, device identifier, iOS Identifier for Advertising, iOS Identifier for Vendors, Media Access Control (MAC) address, International Mobile Equipment Identity (IMEI), Model, manufacture and OS version of device, session start/stop time, locale (specific location where a given language is spoken), time zone, and network status (WiFi, etc.). It hashes iOS device identifiers, MAC address and IMEI; however, we do not hash platform device identifiers such as the iOS Identifier for Advertising, ANDROID_ID and the BB_PIN. Hashing involves the transformation of these identifiers into a value or key that represents the original identifier. The device identifiers (if applicable), IMEI (if applicable), MAC address (if applicable), and platform are hashed to a third party ID.
+
+In addition, our third parties may collect the following data: User ID (for your service), latitude and longitude (obfuscated by the third parties to state/city), gender, age, events, errors, and page views. Finally, we see your IP address, device type, locale and timezone through the HTTP request. Our third parties may use this data to enable demographic and customer-created segment advertising targeting, create reports for you to analyze you and to create reports and/or metrics against which we can compare with our user base. In addition, our third parties may provide us with the option of exporting raw third party data to our servers such as timestamp, platform, event, and user ID. We can also record errors that occur in your applications and receive an export of data containing the error information.
+
+|   | 
 
 Cookies are unique text files that are sent to your browser from a Web server. As you browse our web site, cookies are placed on your computer's hard drive including when you download, register and/or purchase software. Cookies may include registration numbers for any or all of your registered DataViz products. Because some cookies may contain registration number(s), they can be linked to personally identifiable information. DataViz does not provide any personally identifiable information from cookie data to third parties. DataViz may use a third party to analyze for DataViz general web site statistics such as number of pages viewed, browser types, etc. obtained from cookies. Cookies are used by DataViz for the following:
 
@@ -58,53 +54,8 @@ We may collect, create and disclose to third parties aggregated, anonymous stati
 
 We may also sometimes engage agents or contractors to perform services necessary to our operations (for example, delivery of products, distribution of e-mail, etc.). When we do, we may give them access to name, addresses or other information necessary for them to do their job for us, but not for any other purpose.
 
-In limited cases, when you buy a third-party product from us, we will share your registration information (name, address, etc.) with the manufacturer of that product. That manufacturer then may use your data to contact you and might also share your data with others, depending upon that manufacturer's own privacy policy. We believe that the manufacturers whose products we sell typically will respect your privacy. But we don't control what they do with data they receive from us. We therefore recommend that you check the privacy policy of any third-party manufacturer whose products you choose to buy from us, including how to tell that manufacturer your e-mail opt-out preferences, request to update or delete your data, etc. If you have any questions about the data we give to third-party manufacturers of products you buy from us or which specific manufacturers we share information with, please [contact us directly](https://web.archive.org/web/20130424093217id_/http%3A//www.dataviz.com/company_contact.html).
+In limited cases, when you buy a third-party product from us, we will share your registration information (name, address, etc.) with the manufacturer of that product. That manufacturer then may use your data to contact you and might also share your data with others, depending upon that manufacturer's own privacy policy. We believe that the manufacturers whose products we sell typically will respect your privacy. But we don't control what they do with data they receive from us. We therefore recommend that you check the privacy policy of any third-party manufacturer whose products you choose to buy from us, including how to tell that manufacturer your e-mail opt-out preferences, request to update or delete your data, etc. If you have any questions about the data we give to third-party manufacturers of products you buy from us or which specific manufacturers we share information with, please [contact us directly](https://web.archive.org/web/20131231033349id_/http%3A//www.dataviz.com/company_contact.html).
 
 Finally, in the event our company or its assets were ever sold, our customer database naturally would be transferred to the new owner.
 
-Except as described above, and except as may be required by law, we will not disclose your personally identifiable information to others without your consent.  
-  
-  |  |   
-  | 
-
-The information collected may be used for processing orders, personalizing the shopping experience, contests, promotions, newsletters, announcements, special offers, etc. 
-
-When you download a trial version of one of our products, we reserve the right to send a reasonable number of e-mail follow-up messages with information regarding purchasing the software.
-
-From time to time, we partner with companies whose products we believe will interest you. We don't normally give your information to our partners, but rather we inform you directly ourselves of these offers via e-mail or postal mail. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the "Choose or Opt-Out" section below.
-
-| 
-
-**Trial or Demo Customers:** If you submit your e-mail address for a trial or demo version of DataViz software, you may receive one or more promotional e-mails from DataViz. Any promotional e-mail you receive will include options to unsubscribe. 
-
-**Registered DataViz Customers:** Registered customers who do not wish to receive product announcements or special offers can update their information [here](https://web.archive.org/web/20130424093217id_/http%3A//www.dataviz.com/EFORM_optinout.html) or by [contacting DataViz](https://web.archive.org/web/20130424093217id_/http%3A//www.dataviz.com/company_contact.html) directly.  
-  
-  |  |   
-  | 
-
-If your personally identifiable information changes (such as your zip code), or if you no longer desire our service, we will endeavor to provide a way to correct, update or remove your personal data provided to us. This can be accomplished by contacting DataViz via e-mail, fax, phone or mail communication. Registered users can update their information [here](https://web.archive.org/customer_accountmaint_regi.html) or by [contacting DataViz](https://web.archive.org/web/20130424093217id_/http%3A//www.dataviz.com/company_contact.html) directly.
-
-| 
-
-The DataViz site contains links to other Web sites. Although we do not provide any personally identifiable information to these companies, we cannot guarantee your privacy once you leave the DataViz site. We are not responsible for the privacy policies, practices or content of web sites with links on our site. We encourage you to read the posted privacy statement whenever interacting with any web site.  
-  
-  |  |   
-  | 
-
-Protecting your order information is important to us and we make every effort to protect your online order information by using Secure Sockets Layer (SSL) technology. However, some firewalls and certain versions of browsers don't permit communication through secure servers.
-
-| 
-
-If you have any questions or feedback regarding our privacy statement, please contact us as follows: 
-
-DataViz, Inc.  
-Merritt Corporate Woods  
-612 Wheelers Farms Road  
-Milford, CT 06461  
-[E-mail DataViz](https://web.archive.org/web/20130424093217id_/http%3A//www.dataviz.com/company_contact.html)  
-  
-  |  |    
-  |  |  You should check back for updates to this privacy policy since we may update it from time to time without notice. This page was last modified on March 2009.  
----  
-   
- 
+Except as described above, and except as may be required by law, we will not disclose your personally identifiable information to others without your consent.
