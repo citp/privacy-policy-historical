@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatsoma.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606030730id_/http%3A//www.fatsoma.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatsoma.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231202031id_/http%3A//www.fatsoma.com/privacy) for the most accurate reproduction.*
 
 # Fatsoma Social Ticketing - Buy Tickets for Nightclubs, Events and Festivals.
 
