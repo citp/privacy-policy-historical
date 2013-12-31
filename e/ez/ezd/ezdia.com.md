@@ -1,31 +1,57 @@
-> *The following text is extracted and transformed from the ezdia.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216045020id_/http%3A//ezdia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezdia.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231075041id_/http%3A//www.ezdia.com/view/store/signinPages/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# eZdia :: Privacy Notice
+# Privacy Policy | eZdia
 
-We at eZdia respect your privacy and take the issue of Internet privacy very seriously. By accepting the eZdia Terms of Service, you consent to the use and disclosure of personal information that you provide to us as outlined in this Privacy Statement. As eZdia improves its services, we may modify the Privacy Statement, and urge you to check here for updates from time to time. 
+This privacy policy applies solely to information collected by this web site. It will notify you of the following:
 
-**Registration Information**
+  1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
+  2. What choices are available to you regarding the use of your data.
+  3. The security procedures in place to protect the misuse of your information.
+  4. How you can correct any inaccuracies in the information.
 
-In order to use this website, both eZdia Clients and eZdia Experts must first complete the registration form. During registration we request users' contact information, such as name and email address. This information is used to contact the user about the services on our site for which they have expressed interest, and is also used as the user's sign in information. It is optional for the user to provide additional personalized information (such as experience and qualifications) and unique identifiers (such as a screen name), but encouraged so we can provide a more personalized experience on our site. During the Registration process, you have the ability to "opt-out" of receiving eZdia newsletters and promotions. 
 
-**Services Through the Site**
 
-You provide us with information during the process of using the eZdia service. We break down users of our service into two categories, Clients and Experts (you may register as both a Client and an Expert). Clients must provide financial information such as a credit card number and expiration date in order to pay for and use the eZdia service. Experts must provide contact information, like name and mailing address, in order to receive their payment from eZdia. The information we collect from both Clients and Experts is to provide users with the best possible eZdia service. If we have trouble providing that service, we may use contact information to get in touch with the user. 
+## Information Collection, Use, and Sharing
 
-**Client-Expert Communication Using the eZdia Service**
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
-The main purpose of eZdia is to allow registered eZdia Experts to provide Clients with services that the Clients need. Experts and Members can negotiate and enter into a contract for a service using the eZdia site. Certain communications may be recorded and maintained by eZdia. eZdia does not screen or edit the content of communications between Clients and Experts. Such communications are personal and private unless both parties agree to additional distribution, for example by posting questions or services on the Public Board (described later). Information that is relayed between the Client and the Expert during either the negotiation phase of their relationship or during the actual relaying of service is kept completely confidential, and no other users of eZdia have access to this information. 
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to fulfill our services to you.
 
-**Log Files**
+Unless you ask us not to, we may contact you via email in the future to tell you about news, specials, new products or services, or changes to this privacy policy.
 
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are also linked to personally identifiable information in order to better the user's experience when using our site. We may also retain any emails, letters, or other correspondence between you and eZdia to ensure quality control and the best possible service, although we have no obligation to do so. 
+## Your Access to and Control Over Information
 
-**Use of Information Available Through eZdia**
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
 
-To ensure both Clients and Experts with the best service possible on our site, and to facilitate communication among Clients and Experts, eZdia provides email addresses to Clients and Experts only under specific circumstances, including but not necessarily limited to participants involved in disputed and unpaid transactions. By reviewing eZdia's Terms of Service and approving eZdia's Legal Agreement, registered users of eZdia agree to use the Public Board area and all communication facilities provided by eZdia exclusively for interaction associated with eZdia services and their delivery. Registered users may not use information gathered through a eZdia transaction to defame, abuse, harass, stalk, threaten or otherwise violate the legal and civil rights of any other registered user. Registered users may not use information gathered through a eZdia transaction to sell any goods or services for any commercial purpose outside the scope of the eZdia service. Email addresses and personal information may not be used to forward surveys contests, pyramid schemes or chain letters, or to post the same message repeatedly (a practice referred to as "spamming"). eZdia may terminate the ability of any Client or Expert to use the eZdia service. 
+  * Change/correct any data we have about you.
+  * Express any concern you have about our use of your data.
 
-**Security We Provide**
 
-This website takes every precaution to protect our users' information. When our registration form asks users to enter sensitive information (such as a credit card number), that information is encrypted. We use the industry standard Secure Socket Layer (SSL) encryption and firewalls to protect against loss, misuse, and alteration of any personal data under our control. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with eZdia, Please write email us at: support@eZdia.com. You may also contact us by mail at 7322 SouthWest Fwy, Suite 1100, Houston TX 77074.
+## Security 
+
+We take precautions to protect your information. When you submit information via the website, your information is protected.
+
+Wherever we collect information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.
+
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
+
+## Registration
+
+In order to use certain areas of our website, a user must first complete the registration form. During registration a user is required to give certain information (such as name and email address). This information is used to deliver our product/services to you, contact you about the products/services on our site in which you have expressed interest. At your option, you may also provide demographic information (such as gender or age) about yourself, but it is not required.
+
+## Orders
+
+We request information from you on our order form pages. To buy from us, you may provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing an order, we'll use this information to contact you.
+
+## Cookies
+
+We use "cookies" on this site. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site.
+
+## Updates
+
+Our Privacy Policy may change from time to time and all updates will be posted on this page.
+
+Our Privacy Policy was last updated on August 14, 2013.
+
+**If you have any questions, concerns or comments about this privacy policy, please contact us at support@ezdia.com. Thank you!**
