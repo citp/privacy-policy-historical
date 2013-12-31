@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishtimes.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627071752id_/http%3A//www.irishtimes.com/policy-and-terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishtimes.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231083101id_/http%3A//www.irishtimes.com/policy-and-terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Irish Times
 
@@ -18,7 +18,7 @@ We collect any information you voluntarily provide through any correspondence wi
 
 For example, if you contact our editorial staff via email, we collect your email address, name and any additional information you include in your email message. Information such as your email address and name may also be collected when you sign up to optional services offered by The Irish Times and our partner services. These services currently include the following:
 
-  * Subscription services from The Irish Times: newspaper delivery, epaper, Archive, Crossword and email notifications.
+  * Subscription services from The Irish Times: newspaper delivery, The Irish Times Digital Edition, Archive, Crossword and email notifications.
   * Subscription services from our partners: Ancestors, Text Alerts, Family Notices and Dating.
   * Participation in competitions, promotions and surveys.
 
