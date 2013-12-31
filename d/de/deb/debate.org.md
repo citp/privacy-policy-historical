@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the debate.org privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615055306id_/https%3A//www.debate.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debate.org privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231045415id_/http%3A//www.debate.org/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Debate.org
-
-## Debate.org Privacy Policy
 
 We at Debate.org, doing business as Juggle, LLC ("we" or "Juggle") have created this privacy policy to inform you of our commitment to protecting your personal information and inform you about how your personal information is handled. This privacy policy only applies to activity, transactions and data gathered from your activities on the Debate.org Website, between Debate.org members (collectively, the "Site") but does not apply to any other website or offline point of contact between Debate.org, Juggle, or any other company, and consumers.
 
@@ -20,7 +18,11 @@ We at Debate.org do not and will not send spam emails to email addresses entered
 
 ## Private Information
 
-To accept new members, we may require information that includes, but is not limited to: email address, first name, last name, birth date, a user-specified username and password, country, state, and city. We primarily use email addresses submitted by members to verify enrollment. Email addresses may also be used in private correspondence with the user for customer service issues. All other private information submitted by the user is confidential and will not be disclosed except as required by law or to protect members of Debate.org. Most private information can be updated by the user at any time. Except where you are expressly informed otherwise, we do not sell, rent, share, trade or give away any of your personal information unless required by law or for the protection of your membership.
+To accept new members, we may require information that includes, but is not limited to: email address, first name, last name, birth date, a user-specified username and password, country, state, and city. We primarily use email addresses submitted by members to verify enrollment. Email addresses may also be used in private correspondence with the user for customer service issues. We collect date of birth to help us ensure we provide the right experience for a user's age. All other private information submitted by the user is confidential and will not be disclosed except as required by law or to protect members of Debate.org. Most private information can be updated by the user at any time. Except where you are expressly informed otherwise, we do not sell, rent, share, trade or give away any of your personal information unless required by law or for the protection of your membership.
+
+## Minors & Safety
+
+We take safety and privacy issues very seriously, particularly when they involve minors. Debate.org does not solicit membership for persons under the age of 13 nor are our services targeted towards minors. We do not knowingly collect personal information from children under 13. If we become aware that a minor under the age of 13 has created an account and provided personal information, we will take the necessary steps to remove the information and delete the account. If you become aware that your child has provided us with personal information without your consent, please contact us at [moderation@debate.org](mailto:moderation@debate.org).
 
 ## Legal
 
