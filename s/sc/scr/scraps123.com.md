@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scraps123.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513155514id_/http%3A//www.scraps123.com/2009/06/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scraps123.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231134900id_/http%3A//www.scraps123.com/2009/06/privacy-policy.html) for the most accurate reproduction.*
 
 # Scraps123 Privacy Policy Status and Cover Pic
 
