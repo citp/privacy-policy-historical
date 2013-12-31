@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brevardtimes.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501235852id_/http%3A//news.brevardtimes.com/2012/01/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brevardtimes.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231140108id_/http%3A//news.brevardtimes.com/2012/01/privacy-policy.html) for the most accurate reproduction.*
 
 # Brevard Times: Privacy Policy
 
@@ -30,6 +30,7 @@ Google Adsense
 Commission Junction  
 Vibrant Media  
 GumGum  
+[Content.ad](https://www.content.ad/privacy.aspx)   
   
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://www.brevardtimes.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.    
   
