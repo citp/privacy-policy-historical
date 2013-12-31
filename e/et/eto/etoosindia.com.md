@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the etoosindia.com privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120035428id_/http%3A//www.etoosindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etoosindia.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231123700id_/http%3A//www.etoosindia.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
+
+###  Privacy Policy
 
   * _**Privacy Policy**_
 
@@ -14,7 +16,7 @@ Our web portal incorporates various communication ways like email address, first
 
     2. **How etoosindia.com uses the information it collects/tracks?**
 
-To fulfill your requirements for IIT JEE preparation in all manners we collect information from our qualified faculties to ensure quality. 
+To fulfill your requirements for IIT JEE preparation in all manners we collect information from our qualified faculties to ensure quality.
 
     3. **With whom the site shares the information it collects/tracks?**
 
@@ -22,7 +24,7 @@ We have a privacy policy that does not allow us to disclose any information with
 
     4. **Do all visitors have to pay?**
 
-All users across India can browse our site free of cost for searching any course, faculty, article or feature offered by our web portal. You are liable to pay only when you purchase/renew a course. 
+All users across India can browse our site free of cost for searching any course, faculty, article or feature offered by our web portal. You are liable to pay only when you purchase/renew a course.
 
     5. **How etoosindia.com team can contact you?**
 
