@@ -1,11 +1,35 @@
-> *The following text is extracted and transformed from the charitynavigator.org privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628234423id_/http%3A//www.charitynavigator.org/index.cfm%3Fbay%3Dcontent.view%26cpid%3D38) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charitynavigator.org privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231134823id_/http%3A//www.charitynavigator.org/index.cfm%3Fbay%3Dcontent.view%26cpid%3D38) for the most accurate reproduction.*
 
-# Charity Navigator - Privacy
+# Privacy : Charity Navigator
+
+[](http://www.charitynavigator.org/index.cfm?bay=content.view&cpid=38&print=1)
 
 **CHARITY NAVIGATOR, INC. PRIVACY POLICY  
 Last Updated [October 5, 2012]**
 
-We, at Charity Navigator, Inc. (“ _Charity Navigator_ ,” “ _we_ ,” “ _us_ ,” or “ _our_ ”), have created this privacy policy (this “ _Privacy Policy_ ”) because we know that you care about how information you provide to us is used and shared.  This Privacy Policy applies to all information received by Charity Navigator, both online and offline, in any format, including electronic, paper, verbal, and through the Platform.
+At Charity Navigator, Inc. (“
+
+ _Charity Navigator_
+
+,” “
+
+ _we_
+
+,” “
+
+ _us_
+
+,” or “
+
+ _our_
+
+”), our fundamental philosophy is "site visitors first."  That value powers all of the decisions we make, including how we gather and respect your personal information.  We've crafted this privacy policy (this “
+
+ _Privacy Policy_
+
+”) to be as clear and straightforwards as possible because we know that you care about how information you provide to us is used and shared.  Our aim is for you - a valued user of our site -  to always feel informed and empowered with respect to your privacy on Charity Navigator.  
+
+This Privacy Policy applies to all information received by Charity Navigator, both online and offline, in any format, including electronic, paper, verbal, and through the Platform.
 
 Capitalized terms not defined in this Privacy Policy shall have the meaning set forth in our Terms of Use.
 
