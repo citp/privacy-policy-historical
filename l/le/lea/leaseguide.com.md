@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leaseguide.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606072744id_/http%3A//leaseguide.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaseguide.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231202630id_/http%3A//www.leaseguide.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - LeaseGuide.com - Car Lease Guide
 
