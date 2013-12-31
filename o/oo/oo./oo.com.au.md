@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oo.com.au privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623080716id_/http%3A//www.oo.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oo.com.au privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231083254id_/http%3A//www.oo.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 ### Effective Date of this policy: 02/04/2013
 
-OO Australasia Pty Ltd ("OO") has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with  [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy statement covers the web site www.oo.com.au. 
+oo.com.au ("OO") has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with  [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy statement covers the web site www.oo.com.au. 
 
 If you have questions or concerns regarding this statement, you should first contact our Customer Service Manager ([policy@oo.com.au](mailto:policy@oo.com.au)). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
@@ -58,11 +58,11 @@ We will retain your information for as long as your account is active or as need
 
 ### Contact By Phone:
 
-Call our hotline on 1300 132 151 between 9am and 5pm AET, and we will gladly be of assistance. If you are calling from New Zealand, please call +61 2 8336 6788
+Call our hotline on 1300 132 151 between 9am and 5pm AET, and we will gladly be of assistance. If you are calling from New Zealand, please call +61 2 9101 9971
 
 ### Contact By Mail:
 
-oo.com.au, PO Box 7210, Alexandria NSW 2015, Australia 
+oo.com.au, PO Box 366, Regents Park BC NSW 2143, Australia 
 
 ### How OO Uses Personal Information Collected Online
 
@@ -99,6 +99,6 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 **oo.com.au**
 
-25-55 Rothschild Ave   
-Rosebery NSW 2018   
+PO Box 366  
+Regents Park BC NSW 2143   
 Australia 
