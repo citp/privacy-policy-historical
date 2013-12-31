@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripadvisor.com.my privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521043725id_/http%3A//www.tripadvisor.com.my/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.com.my privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231045741id_/http%3A//www.tripadvisor.com.my/pages/privacy.html) for the most accurate reproduction.*
 
 # TRIPADVISOR PRIVACY POLICY - TripAdvisor
 
