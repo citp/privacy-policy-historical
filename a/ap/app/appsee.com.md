@@ -1,100 +1,103 @@
-> *The following text is extracted and transformed from the appsee.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsee.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231031533id_/http%3A//www.appsee.com/legal/privacypolicy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | Appsee
 
-**Go Daddy Respects Your Privacy**
+**_Shift 6 (Appsee) Privacy Policy_**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Last Revised: November 17th, 2013
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Shift 6 Ltd. (“ **Shift 6** ", “ **we** ” or " **us** ") respects the privacy of the users of its Services and/or its website at <http://www.appsee.com/> (the " **Service(s)** " and " **Site** " respectively as such terms are defined in detailed in our Terms of Use at <http://www.appsee.com/legal/terms> (the " **TOU** ")) ( **“User** ” or  **“You** ”) and is committed to protect the personal information that its Users share with it. We believe that You have a right to know our practices regarding the information we may collect and use when You use our Site and/or our Service.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Capitalized terms which are not defined herein, shall have the meaning ascribed to them in the TOU, which this Privacy Policy is incorporated thereto by reference.
 
-**Information Collection and Use**
+**1.         ** ** _Your Consent (PLEASE READ CAREFULLY!)_**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+BY ENTERING TO, CONNECTING TO, ACCESSING OR USING THE SITE AND/OR SERVICE AND/OR BY OPENING AN ACCOUNT AND/OR BY INSTALLING THE APPSEE SDK YOU AGREE TO THE TERMS AND CONDITIONS SET FORTH IN THIS PRIVACY POLICY (THE " **PRIVACY POLICY** "), INCLUDING TO THE COLLECTION AND PROCESSING OF YOUR PERSONAL INFORMATION (AS DEFINED BELOW). IF YOU DISAGREE TO ANY TERM PROVIDED HEREIN, PLEASE DO NOT ENTER TO, CONNECT TO, ACCESS OR USE THE SITE (INCLUDING BUT NOT LIMITED TO THE SERVICES) IN ANY MANNER AND UNINSTALL THE APPSEE SDK FROM YOUR APPLICATION.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+**2.         ** ** _Which information we may collect on our Users?_**
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We may collect two types of data and information on our Users:
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+a.      The first type of information is non-identifiable and anonymous information (“ **Non-personal Information** ”).  **We are not aware of the identity of the User from which we have collected the Non-personal Information.**  Non-Personal Information is any unconcealed information which is available to us while Users are using the Site and/or Service. Non-personal Information which is being gathered consists of technical information and behavioral information, and may contain, among other things, type and version of operation system, type of browser, screen resolution, browser and keyboard language, referrer, User’s 'click-stream' on the properties and the User's browsing history (visited pages and dates). 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+b.     The second type of information is individually identifiable information ( **“Personal Information** ”). **  This information may identify an individual or may be of a private and/or sensitive nature**.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+·       Users who are only visiting the Site do not need to provide any Personal Information.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+·       Users who are interested in opening an Account in order to use our Services should provide details via the registration form of the Site (namely, name, address, e-mail address, company, the name of its Application, phone number). In addition, we may collect Personal Information in order to charge the User for the Services. This information may include a credit card number and other related billing information) (see section 11 below regarding the payment method).
 
-**Security**
+**We do not collect any Personal Information from  You or related to You without Your approval, which is obtained,  _inter alia_ , through Your active acceptance to the Terms and the Privacy Policy.**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**3.         ** ** _How Do We Collect Information on Our Users?_**
 
-**Updating Your Information**
+There are two main methods we use:
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+a.         **We collect Non-Personal Information through Your use of the Site and/or Service**. In other words, when You are using the Site and/or Service we are aware of it and may gather, collect and record the information relating to such usage. 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+b.         **We collect Personal Information** **  which You provide us voluntarily **when You register to our Site and open an Account by completing the registration form. We store the Personal Information either independently or through the help of our authorized third-party service providers as detailed below.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**4.         ** ** _What are the Purposes of the Collection of Information?_**
 
-      iii.      You may call us at: (480) 505-8800
+Non-personal Information is collected in order to:  
 
-       iv.      You may fax us at: (480) 505-8844
+·        Use it for statistical and research purposes and for customization and improvement of the Service and/or Site.
 
-**Sending Emails**
+   Personal Information is collected in order to:  
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+·        Allow Users to use the Service.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+·        Allow us to contact the registered Users in order to receive feedback with respect to their use of the Service.
 
-**Compliance with Laws and Law Enforcement**
+·        Provide the Users applicable support.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+**5.         ** ** _Sharing Information with Third Parties_**
 
-**Third Party Service Providers**
+Shift 6 will not share any Personal Information it collects with any third party. Notwithstanding, Shift 6 may disclose Personal Information in the following cases: (a) to satisfy any applicable law, regulation, legal process, subpoena or governmental request; (b) to enforce this Privacy Policy and/or the TOU, including investigation of potential violations thereof; (c) to detect, prevent, or otherwise address fraud, security or technical issues; (d) to respond to User's support requests; (e) respond to claims that any content available on the Site violates the rights of third-parties; (f) to respond to claims that contact information (e.g. name, e-mail address, etc.) of a third-party had been posted or transmitted without their consent or as a form of harassment; (g) to protect the rights, property, or personal safety of Shift 6, its Users, or the general public; (h) when Shift 6 is undergoing any change in control, including by means of merger, acquisition or purchase of all or substantially all of its assets; (i) to collect, hold and/or manage Your Personal Information through its authorized third party service providers, as reasonable for business purposes, which may be located in countries outside Israel, including but not limited to the United States of America; (j) to enable payment through certain online payment method (see section 11 below); or (k) pursuant to Your explicit approval prior to the disclosure. For avoidance of doubt, Shift 6 may transfer and disclose Non-personal Information to third parties at its own discretion.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+**6.        ** ** _What is our Privacy Policy with respect to End-User Data we receive from  You?_**
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+·        As part of the Service You may provide us with data about Your End-User in connection with the End-User’s use of Your Application (the " **End-User Data** "), such as:
 
-**Supplementation of Information**
+(a)    _Non-personal Information regarding the End-Users_ : which consists of technical information and behavioral information, and may contain, among other things: type and version of operation system the End-User is using, the usage length, the phone model which the End-User is using, country, screens the End-User visited in the Application, touch gestures the End-Users performed in the Application, scrolling activity, the text the End-User types on the Application and any other actions the End-User performed (clicked buttons etc.) in the Application, and any other touch gestures performed by an End-User in fields which were not marked by You as “sensitive”.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+(b)   _Personal Information regarding the End-User:  _as detailed in our TOU, You can choose not to provide us any Personal Information with respect to its End-Users (see further details with respect to this matter in the TOU). However, if You choose to provide us with such Personal Information, You must receive the End-User's explicit consent for such use, as further detailed in our TOU. Such Personal Information may include any Personal Information that is displayed by the End-User on the screens of the Application (including, but not limited to the End-User's name, address, gender, photos etc.)
 
-**Contests/Surveys**
+·        Our Services and the Appsee's SDK will not collect the End-User's IP address, any information about other programs that the End-Users are running on their mobile phone/computer, the Appsee does not track the End-User's activity across applications which do not use Appsee Services and will not collect any passwords entered into the End-User's mobile phone/computer.  
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+·        We will use the End-User Data only for these purposes: (1) we will store and process the End-User Data on Your behalf in order to provide You with the Service, including without limitation providing You with Reports regarding Your End-Users interactions on Your Application (such as aggregate reports of touch gestures ),i.e, the use of the End-User Data is limited mainly to the purpose of providing the Services to You; (2) we will use the End-User Data on an anonymous basis, in the aggregate, in order to perform application uses  analysis and statistical reports, _  inter alia_, to operate and improve our Services; and (3) we will use the End-User Data for the purposes which are specified is Section 6,  _mutandis  mutandis_. We reserve the right to retain the End-User Data we process on Your behalf for as long as we are providing You with the Services and for a reasonable time thereafter according to the data retention plan that the User has purchased.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+·        As further detailed herein and in the TOU, we have no direct relationship with the individual End-Users. Therefore, an End-User who seeks to correct, amend, delete inaccurate End-User Data or withdraw consent for further use of its End-User Data should direct its query to the applicable User he deals with directly. If the User requests us to remove such data we will do that, per section 7 below.   
 
-**Tell-A-Friend**
+**7.         ** ** _Modification or Deleting Personal Information_**
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+We will retain Your Non-personal Information and Your Personal Information for as long as You have an active Account. If for any reason You wish to modify Your Personal Information You can do so Yourself on the Site or send us an email to: contact@appsee.com. If for any reason You wish to delete Your Personal Information You can send us an email to contact@appsee.com. We will make reasonable efforts to modify or delete any such Personal Information pursuant to any applicable privacy laws.
 
-**What Happens to my Personal Information if I Opt Out?**
+**8.         ** ** _Security_**
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+We take a great care in implementing and maintaining the security of Shift 6's Site and its User's Personal Information. The Personal Information is hosted on the Amazon Cloud which provides advanced security features. Shift 6 employs industry standard procedures to ensure the safety of its Users’ Personal Information, and prevent unauthorized use of any such information.  However, we do not guarantee that unauthorized access will never occur.
 
-**Transfer of Data Abroad**
+**9.         ** ** _Third Party Software/Service_**
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+While using the Site and/or Service we may be using third party software and/or service, in order to collect, store and/or process the information detailed herein. Such software/service include without limitation, Google Analytics (<http://www.google.com/analytics/>), Woopra (<http://www.woopra.com/>), Inspectlet (<http://www.inspectlet.com/>), and WalkMe (<http://www.walkme.com/>) and Amazon cloud services which privacy policy can be found at: <http://aws.amazon.com/privacy/>.
 
-**Changes in Our Practices**
+**10.      ** ** _Direct Marketing_**
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+You hereby agree that we may use Your contact details for the purpose of informing You regarding products and services offered by us which may interest You and to send to You newsletters, transmitted to the e-mail address You have provided. You may withdraw Your consent via sending a written notice to Shift 6 by email to the following address to contact@appsee.com.  
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+**11.      ** ** _Payment_**
 
-**Contacting Our Site**
+Services may be purchased using certain online payment methods such as PayPal and/or BlueSnap ("Online Payment Services") which enables Users to send and receive payments securely online using a credit card or bank account. For more information please visit the PayPal website: ([https://www.paypal.com](https://www.paypal.com/)) and/or, as applicable, the BlueSnap website: (<http://www.bluesnap.com/ecommerce/>). Please note that you shall be subject to the applicable PayPal's terms of use (See <https://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_bonus-outside>) and/or, as applicable, the applicable BlueSnap terms of use (see <http://www.bluesnap.com/ecommerce/legal/terms_and_conditions>). Shift 6 is not affiliated with the providers of such Online Payment Services, as each is an independent contractor, and neither is the agent or employee of the other, and neither is responsible in any way for the actions or performance (or lack thereof) of the other. The use of the Online Payment Services is at the User's discretion and sole liability. It is the User's responsibility to abide by all the terms specified by the Online Payment Services' providers in their terms of use and privacy policies, including but not limited to any age restrictions specified therein.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+**12.      ** ** _Cookies and Local Storage_**
 
-* * *
+When You access or use the Site and/or Service, we may use industry-wide technologies such as "cookies" and Flash (or similar technologies), which stores certain information on Your computer (" **Local Storage** ") and which will allow us to enable automatic activation of certain features, and make Your experience much more convenient and effortless. It is easy to prohibit the Local Storage. Most browsers will allow You to erase cookies from Your computer's hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. In order to erase or disable the Local Storage option in Flash You should use the settings option of Flash according to the specific instructions provided by the technology provider. However, if You block or erase cookies, or change the settings of Flash, Your online experience may be limited.
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+We may also use certain third-party cookies. These are a different kind of cookies, stored on Your computer by third parties, rather than by Shift 6. This kind of cookie is only read (and not altered by the Site) each time You visit the Site, and also when You visit certain websites or applications that uses similar cookies. Third-party cookies usually store only a Non-personal Information, such as the web pages You have visited, the duration of Your browsing, etc.
+
+**13.      ** ** _Changes to the Privacy Policy_**
+
+The terms of this Privacy Policy will govern the use of the Site and Service and any information collected therein. Shift 6 reserves the right to change this policy at any time, so please re-visit this page frequently. We will provide notice of substantial changes of this policy on the homepage of the Site and/or we will send You an e-mail regarding such changes to the e-mail address that You provided in the registration form. Such substantial changes will take effect seven (7) days after such notice was provided on our website or sent by email. Otherwise, all other changes to this Privacy Policy are effective as of the stated “Last Revised” date and Your continued use of the Site after the Last Revised date will constitute acceptance of, and agreement to be bound by, those changes.
+
+**_Have any Questions_** **?**
+
+If You have any questions (or comments) concerning this Privacy Policy, You are most welcomed to send us an email or otherwise contact us to the following address and we will make an effort to reply within a reasonable timeframe: contact@appsee.com
