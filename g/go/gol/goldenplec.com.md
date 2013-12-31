@@ -1,29 +1,60 @@
-> *The following text is extracted and transformed from the goldenplec.com privacy policy that was archived on 2004-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040803085943id_/http%3A//www.goldenplec.com/modules.php%3Fname%3DDocs%26file%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenplec.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231233915id_/http%3A//www.goldenplec.com/privacy-policy) for the most accurate reproduction.*
 
-# Goldenplec
+# Privacy Policy
 
-**Goldenplec** is the sole owner of the information collected from our website. We do not, or will not sell, share, or rent this information to others in ways different from what is disclosed in our privacy statement below.
+## Privacy Policy
 
- ** _Cookies_**  
-A cookie is a piece of data stored on the visitor's hard drive containing information about the visitor. Advertisers connected to **Goldenplec** at times require cookies to tract statistics about products and locations, but at no time are these linked to any personal identification. At this time, **Goldenplec** uses cookies only for login convenience.
+Your privacy is critically important to us. At [Goldenplec](http://www.goldenplec.com/ "Goldenplec") we have a few fundamental principles:
 
- ** _Log Files_**  
- **Goldenplec** keeps log files on broad fields to analyze trends, track user movements, and gather data for demographic locations. This is not attached in anyway to visitor's personal identification.
+  * We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)
+  * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
+  * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
+  * In our blogging products, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.
 
- ** _Sharing_**  
-At this time, **Goldenplec** does not share any information with advertisers, merchants, or any other third party.
 
- ** _Links_**  
-Links to other sites outside of **Goldenplec** do not apply to this privacy statement. We are not responsible for privacy policies of other websites linked to **Goldenplec**. Please read the privacy statement of each website linked to **Goldenplec** for information and data use for visitor's personal identification. Our privacy statement applies solely to **Goldenplec**.
 
- ** _Contests_**  
-At any particular time, **Goldenplec** will conduct contests for our visitor's. Visitor participation for these contests is voluntary, and in no way requires the visitor to give out personal information when choosing not to enter in the contest. Collected information may include contact information and demographic information, such as name, e-mail, address, state, ect. This information will be used to notify the winners and award prizes.
+If you have questions about deleting or correcting your personal data please contact our [Administrator](mailto:admin@goldenplec.com).
 
- ** _Newsletter_**  
-After registering for a Membership, you are given the choice of subscribing to our Newsletter. You can either elect to subscribe or unsubscribe at any time. All information stored on our database is not shared or sold to any third party what so ever. Subscribers wishing to unsubscribe to our newsletter can uncheck the option in their account, using the 'Your Information' link.
+It is [Goldenplec](http://www.goldenplec.com/ "Goldenplec")’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
- ** _Sending to a Friend_**  
-When a visitor chooses to send News, Articles, Reviews, ect, to a friend, the names and e-mail addresses are **not** logged. **Goldenplec** will send the friend a one-time e-mail inviting them to visit our site. **Goldenplec** will never send another e-mail to the visitor or friend for any purpose.
+### Website Visitors
 
- ** _Changes of our Policy_**  
-If and when our policy statement changes, visitors with Memberships in our databases will be notified of the changes, and provided a link to this page to view the changes. If a visitor decides that our policy does not benefit them, they can use the opt-out option at anytime.
+Like most website operators, Goldenplec collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Goldenplec’s purpose in collecting non-personally identifying information is to better understand how Goldenplec’s visitors use its website. From time to time, Goldenplec may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+
+Goldenplec also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on articles. Goldenplec only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.
+
+### Gathering of Personally-Identifying Information
+
+Certain visitors to Goldenplec’s websites choose to interact with Goldenplec in ways that require Goldenplec to gather personally-identifying information. The amount and type of information that Goldenplec gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account to comment to provide a username and email address. Goldenplec collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Goldenplec. Goldenplec does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+
+### Aggregated Statistics
+
+Goldenplec may collect statistics about the behavior of visitors to its websites. For instance, Goldenplec may monitor the most popular posts on Goldenplec.com or use spam screened by the Akismet service to help identify spam. Goldenplec may display this information publicly or provide it to others. However, Goldenplec does not disclose personally-identifying information other than as described below.
+
+### Protection of Certain Personally-Identifying Information
+
+Goldenplec discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Goldenplec’s behalf or to provide services available at Goldenplec’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Goldenplec’s websites, you consent to the transfer of such information to them. Goldenplec will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Goldenplec discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Goldenplec believes in good faith that disclosure is reasonably necessary to protect the property or rights of Goldenplec, third parties or the public at large. If you are a registered user of a Goldenplec mailing list and have supplied your email address, Goldenplec may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Goldenplec and our products. We primarily use our various mailing lists to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Goldenplec takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+
+### Cookies
+
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Goldenplec uses cookies to help Goldenplec identify and track visitors, their usage of Goldenplec website, and their website access preferences. Goldenplec visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Goldenplec’s websites, with the drawback that certain features of Goldenplec’s websites may not function properly without the aid of cookies.
+
+This is implied acceptance of the cookies as per the EU Cookie Directive. Implied consent is hereby granted by use of the site.
+
+### Business Transfers
+
+If Goldenplec, or substantially all of its assets, were acquired, or in the unlikely event that Goldenplec goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Goldenplec may continue to use your personal information as set forth in this policy.
+
+### Ads
+
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Goldenplec and does not cover the use of cookies by any advertisers.
+
+In the case of Muzu video adverts, cookies may be used to remember a users choices on our site. If you mute the video or advert, it will remember this and keep all Muzu content muted for you from then on in.
+
+### Comments
+
+Comments and other content submitted to our Akismet anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.
+
+### Privacy Policy Changes
+
+Although most changes are likely to be minor, Goldenplec may change its Privacy Policy from time to time, and in Goldenplec’s sole discretion. Goldenplec encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a WordPress.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
