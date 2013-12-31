@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the livingly.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618082206id_/http%3A//www.livingly.com%3Fpage_id%3D35) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingly.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231095608id_/http%3A//www.livingly.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Livingly Media
+# Privacy Policy - Livingly Media | Fashion. Beauty. Entertainment. Pop Culture. Deeply Engaging.
+
+## Privacy Policy
 
 Last Updated: March 25, 2008
 
@@ -22,7 +24,7 @@ Last Updated: March 25, 2008
 
 ## Information We Do Not Collect
 
-**Children.** As explained further in our Terms of Service, currently available at [www.livingly.com/company/policies/tos.html](https://web.archive.org/web/20130618082206id_/http://www.livingly.com/privacy-policy/www.livingly.com/company/policies/tos.html "www.livingly.com/company/policies/tos.html"), you must be 13 years of age or older to register to use our website. Therefore, we do not knowingly collect personally identifiable information about children. If you believe that we have information from or about anyone under 13 years of age, please notify us by email at [privacy@livingly.com](mailto:privacy@livingly.com "privacy@livingly.com") or write to our Privacy Director at the address noted above.
+**Children.** As explained further in our Terms of Service, currently available at <http://www.livingly.com/terms-of-service/>, you must be 13 years of age or older to register to use our website. Therefore, we do not knowingly collect personally identifiable information about children. If you believe that we have information from or about anyone under 13 years of age, please notify us by email at [privacy@livingly.com](mailto:privacy@livingly.com "privacy@livingly.com") or write to our Privacy Director at the address noted above.
 
 **Social Security Number.** We do not ask for or require your social security number to use any of our services or to access any part of our site.
 
