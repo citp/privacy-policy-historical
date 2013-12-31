@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designdeal.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629232911id_/http%3A//www.designdeal.com/cms/%3Fpi%3D6543214569) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designdeal.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231140634id_/http%3A//www.designdeal.com/cms/%3Fpi%3D6543214569) for the most accurate reproduction.*
 
 # DESIGNDEAL | Websites for Online Shopping in India | Original Art Prints Online
 
