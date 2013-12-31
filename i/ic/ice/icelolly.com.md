@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icelolly.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623041535id_/http%3A//www.icelolly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icelolly.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231112551id_/http%3A//www.icelolly.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | IceLolly
+# Privacy policy | icelolly
 
 Icelolly Marketing Limited ("We") are committed to protecting and respecting your privacy. 
 
