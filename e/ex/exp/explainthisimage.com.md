@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explainthisimage.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602051008id_/http%3A//explainthisimage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explainthisimage.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231010401id_/http%3A//explainthisimage.com/privacy-policy) for the most accurate reproduction.*
 
 # Explain This Image - Privacy Policy
 
