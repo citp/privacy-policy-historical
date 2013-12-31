@@ -1,88 +1,109 @@
-> *The following text is extracted and transformed from the slickdeals.net privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630182940id_/http%3A//slickdeals.net/blog/index.php/legal-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slickdeals.net privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231224942id_/http%3A//slickdeals.net/blog/index.php/legal-privacy-policy) for the most accurate reproduction.*
 
 # Slickdeals.net Blog » Legal: Privacy Policy
 
-## Privacy Policy
+**Privacy Policy**
 
-Slickdeals, Inc. (herein after “Slickdeals”) values its users on the Slickdeals.net web site (herein after the “Web Site”) and the services offered on it (herein after the “Services”). Slickdeals recognizes that users may be concerned about Slickdeals’s collection, use, and disclosure of users personally identifiable information (herein after “Personal Information”) that may be collected when users use the Web Site and the Slickdeals Services.
+Slickdeals, LLC (herein after “Slickdeals”) values its users on the Slickdeals.net web site, mobile site and apps (“Properties”) and the services offered on our Properties (we will refer to the Properties and all other services collectively as the “Services”). Slickdeals has implemented this Privacy Policy to inform users of the information that Slickdeals collects from you and what Slickdeals does with it after it is collected. By using the Services, you are agreeing to the practices described in this policy.
 
-Your privacy is very important to Slickdeals. Accordingly, Slickdeals has implemented this Privacy Policy to inform you, the user, of the information that Slickdeals collects from you, how Slickdeals collects this information, and what Slickdeals’s does with it after it is collected. By using the Slickdeals.net Web Site you are accepting the practices described in this policy.
+If you have any questions or comments regarding this Privacy Policy, please contact Slickdeals at: privacy@slickdeals.net.
 
-If you have any questions or comments regarding this Privacy Policy, please contact Slickdeals at:[admin@slickdeals.net](mailto:admin@slickdeals.net).
+**Does Slickdeals.net Ever Make Changes to its Privacy Policy?**
 
-### Does Slickdeals.net Ever Make Changes to its Privacy Policy?
+Slickdeals may make changes to the Privacy Policy from time to time. Slickdeals will notify you of any changes by sending you an email, Private Message, or posting a notice on our Web site or other Properties. In such case, you should review the new Privacy Policy carefully to make sure you understand Slickdeals new privacy practices.  If you use the Services after we provide notice of a change, you are necessarily agreeing to the changed terms.
 
-Slickdeals may make changes to the Privacy Policy from time to time. Slickdeals will notify you of any changes by sending you an email, Private Message, or posting a notice on the Slickdeals Web Site, after Slickdeals has made changes. If you receive notification of a change in Slickdeals Privacy Policy, you must review the new Privacy Policy carefully to make sure you understand Slickdeals practices and procedures before using the Slickdeals.net Website and any Services.
+**What Types of Information Does Slickdeals.net Collect From Me?**
 
-### What Types of Information Does Slickdeals.net Collect From Me?
+Slickdeals will collect the personal information you provide when you register, take a survey, sign up for notifications, register for a sweepstakes or giveaway, email us or otherwise send us your information. This information may include your name, email address and other information that can be used to identify you. You can use some of the Services without providing any personal information but some features may not be available.
 
-**Personal Information**.  
-For each visitor to the Slickdeals Web Site, the Slickdeals Web server automatically recognizes only the consumer’s domain name and IP address, but not the e-mail address (where possible).
+Each time you use the Services, Slickdeals also collects other, non-personal information from you, such as your browser type, the URL of the previous web site you visited, your ISP, operating system, and your IP Address. If you access the Services from a mobile or other device, we may collect a unique device identifier assigned to that device or other transactional information for that device. If you receive email from us, we will track related information such as if an email is opened and whether you click on an ad or offer in the email. In addition, like the operators of most web sites, Slickdeals uses analytic and reporting technologies to record information such as Internet domain and host names, Internet protocol (IP) addresses, browser software and operating system types, clickstream patterns, and the dates and times that the Properties and the other Services are accessed.
 
-Slickdeals collects the e-mail addresses of those who communicate with Slickdeals via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+If you log in via a third party service like Facebook or Google, we will access the information described in the request for authorization. You should review your privacy settings with these third party services to be sure you are only sharing information you wish to share.
 
-**Non-Personal Information**.  
-Slickdeals also collects “non-personal” information from you, such as your browser type, the URL of the previous web site you visited, your ISP, operating system, and your IP Address. This information (“Non-Personal Information”) cannot be easily used to personally identify you.
+**What About Cookies?**
 
-### How and When Does Slickdeals.net Collect This Information?
+In addition, Slickdeals uses “cookies,” a small data string our server writes to your computer, and other tracking technology to help us manage and track your interaction with the Services. These technologies collect non-personally identifiable information to improve the Services, including to keep count of return visits to the Properties or our advertisers’ or partners’ websites, collect and report on aggregate statistical information, save your password and login information, and display advertising or content based on your interests. Slickdeals may also collect other data such as search criteria and results, date, time, connection speed and IP addresses. Third parties whose products or services are accessible or advertised via the Services may also use cookies, and we advise you to check their privacy policies for information about their cookies and other privacy practices.
 
-**Providing Information to Slickdeals**.  
-Slickdeals collects Personal Information from you when you provide it to us. For example, when you register with the Slickdeals.net web site, Slickdeals may collect your username, email address, and other information that Slickdeals requests in the registration process, and any additional information that you provide on your profile page (e.g. contact information). If you sign up to receive an email notification, Slickdeals will collect your email address.
+**Do Third Parties Gather My Information?**
 
-**Communications With Slickdeals**.  
-If you communicate with Slickdeals regarding the Web Site or the Slickdeals.net Services, Slickdeals’s will collect any information that you provide to Slickdeals in any such communication.
+We use third-party advertising companies to serve ads when you visit our Properties. These companies may use non-personal information (i.e., not including your name, address, email address or telephone number) about your visits to the Properties and other online properties (e.g., Web sites, mobile sites and apps) in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/managing/opt_out.asp>. We may also permit third parties to gather non-personal information about our users (e.g., information related to online behavior associated with a particular computer) and to use and share that information with other companies to help them provide relevant advertising on and off our Properties.
 
-**Analytic and Reporting Technologies**.  
-Like the operators of most web sites, Slickdeals uses analytic and reporting technologies to record Non-Personal Information such as Internet domain and host names, Internet protocol (IP) addresses, browser software and operating system types, clickstream patterns, and the dates and times that the Web Site and the Slickdeals Services are accessed.
+In addition, like millions of other websites, we use analytics services provided by third parties such as Google and Flurry. These companies use cookies and other tracking mechanisms to gather data about how users use our Properties. This information will be transmitted to and stored by our analytics providers, who will use this information for purposes such as evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to activity on our Properties and internet usage. These providers may also transfer this information to third parties where required to do so by law, or where such third parties process the information on their behalf.
 
-### How Does Slickdeals.net Use My Information?
+We also use Google Analytics for Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting.)   Google Analytics for Display Advertising allows Google to collect data from DoubleClick cookies in addition to data collected through the standard Google Analytics implementation.  Specifically:
 
-Slickdeals uses Personal Information and Non-Personal Information primarily to improve the content of Slickdeals Web page, used to notify consumers about updates to the Slickdeals Web site, used by Slickdeals to contact consumers for marketing purposes, not shared with other organizations for commercial purposes.
+a)    We will use Remarketing with Google Analytics to advertise online.
 
-### When Will Slickdeals.net Disclose My Information to Third Parties?
+b)    Third party vendors, including Google, will show our ads on sites across the Internet.
 
-Generally speaking, Slickdeals does not intentionally disclose your information to third parties without your consent. However, Slickdeals reserves the right to do so because it is necessary to the operation and continued growth of Slickdeals or to protect the rights of others. These instances are discussed below:
+c)    We, along with third-party vendors, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the Double Click cookie) together to inform, optimize, and serve ads based on your past visits to our website.
 
-**Disclosure to Successors**.  
-Slickdeals may disclose your Personal Information to any successor-in-interest of Slickdeals, such as a company that acquires Slickdeals. In the event Slickdeals.net goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email or by a notice on the Slickdeals Web Site of any such change in ownership or control of your personal information.
+d)    We, along with third-party vendors, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the Double Click cookie) together to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits of our site.
 
-**Disclosure to Unaffiliated Third Parties**.  
-Slickdeals may disclose your Personal Information to prevent an emergency, to protect or enforce our rights, to protect or enforce the rights of a third party, or as required or permitted by law (including, without limitation, to comply with a subpoena or court order). Winners of contests, giveaways and other promotions may have their information given to a third party for the verification of eligibility and the delivery of prizes. Slickdeals may disclose your information to a third party that alleges that you have infringed their intellectual property rights. Similarly, if you allege that a user allegedly infringed on your intellectual property rights, Slickdeals may disclose your information to that user.
+e)    We may use data from Google’s Interest-based advertising or 3rd-party audience data (such as age, gender and interests) with Google Analytics to improve the ads you see online, and to give you meaningful choices over how that information is used. Google offers you several ways to control the information that’s gathered through interest-based advertising.
 
-**Disclosure to Third-Party Service Providers**.  
-Slickdeals may contract with various third parties who help Slickdeals provide and maintain the Web Site or the Slickdeals.net Services. Slickdeals cannot guarantee that such third parties will not disclose your Personal Information. Additionally, please keep in mind that whenever you give out personal information online — for example, via message boards or chat — that information can be collected and used by people you don’t know. While SlickDeals.net Forums strives to protect your personal information and privacy, Slickdeals cannot guarantee the security of any information you disclose online; you make such disclosures at your own risk. However, if you violate the rules, SlickDeals.net Forums reserves the right to disclose any and all user activity to the public, third parties and or law enforcement agencies. With respect to Ad Servers: To try and bring you offers that are of interest to you, Slickdeals has relationships with other companies that allow other companies to place ads on the Slickdeals Web Site. As a result of your visit to Slickdeals.net site, ad server companies may collect information such as your domain type, your IP address and clickstream information.
+You may opt-out of Google Analytics for Display Advertising and customize Google Display Network ads at [www.google.com/ads/preferences](http://www.google.com/ads/preferences%E2%80%8E).
 
-### What About Cookies?
+You may refuse the use of cookies by selecting the appropriate settings on your browser and opt out of certain other forms of tracking.   If you do this you may not be able to use the full functionality of our Properties.
 
-A cookie is a message that is sent to your computer from a web server and stored on your computer’s hard drive. With respect to cookies: Slickdeals uses cookies. Cookies help us save your preferences and allow you to login to particpate in the community forums. This Privacy Policy covers the use of cookies by Slickdeals.net only and does not cover the use of cookies by any advertisers.
+By using our Services, you consent to the processing of data about you by our third parties analytics provisions as described above. To opt out of Google Analytics, please visit <https://tools.google.com/dlpage/gaoptout/>.
 
-### Does Slickdeals.net Protect My Personal Information?
+**How Does Slickdeals Use My Information?**
 
-**Personal Information**.  
-Whenever Slickdeals obtains your Personal Information, Slickdeals uses commercially reasonable efforts to protect it from unauthorized access or disclosure. However, Slickdeals is not an insurer of the security of your Personal Information. Accordingly, Slickdeals assumes no liability for any disclosure of data due to errors in transmission, unauthorized third party access or other acts of third parties, or acts or omissions beyond Slickdeals reasonable control.
+Slickdeals uses the information collected from users for the following purposes:
 
-**Banner Advertising**  
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+To customize and personalize the advertising and the content you see.
 
-**Web Site Content**.  
-The content that you store, post, or transmit on or through the Web Site, such as message board postings, your profile page, and images you upload to the Web Site, may be accessed by other users, including people that you do not know. Slickdeals is not responsible for the actions of others. Therefore, you should use care in communicating with other users and only disclose your Personal Information to other users that you know to be trustworthy. You should not assume that your content will be kept private.
+To fulfill your requests for certain Services.
 
-### Security
+To send you information that you agreed to receive about topics that we think will be of interest to you.
 
-The security of your personal information is important to Slickdeals.
+To alert you to the latest developments and features on our Services.
 
-Slickdeals follows generally accepted industry standards to protect the Personal Information submitted to Slickdeals, both during transmission and once Slickdeals receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while Slickdeals strive to use commercially acceptable means to protect your personal information, Slickdeals cannot guarantee its absolute security.
+**When Will Slickdeals Disclose My Information to Third Parties?**
 
-### Does This Privacy Policy Apply When I Access Third Party Web Sites?
+We may make your personally identifiable information available to other companies or people. For example:
 
-You may be able to access third-party web sites directly from the Slickdeals Web Site. This Privacy Policy does not apply when you access such web sites. Slickdeals cannot control how third parties may use Personal Information you disclose to them, so you should carefully review the privacy policy of any third-party web site you visit before using it or disclosing your Personal Information to its provider.
+Information you disclose when you participate in community and social networking features will be shared with other users. Slickdeals is not responsible for the information you disclose in public forums and we strongly recommend that you only disclose your personal information to other users that you know to be trustworthy.
 
-### What About Children’s Privacy?
+We may share information you allow us to share when you register with us, or through a subsequent affirmative election.
 
-**Under Thirteen**.  
-The Slickdeals Services are only for users ages 13 and older. Accordingly, Slickdeals will delete any information that Slickdeals knows originates from a child under the age of 13.
+We may share information with third party vendors who are providing services on our behalf, such as data processing and hosting.
 
-**Thirteen to Seventeen**.  
-Slickdeals insists that prospective users between the ages of 13 and 17 using the Slickdeals.net Services should be under their parents’ or legal guardian’s supervision while accessing the Web Site to ensure their privacy.
+User information may be shared in connection with an actual or potential merger, sale or acquisition of Slickdeals, or in the event of a sale or transfer of all or some of our assets.
 
-**Effective Date: September 28, 2006**
+We may share your information in order to (i) protect or defend our legal rights or property or the rights/property of our other users, business partners, employees, agents and contractors (including enforcement of our agreements); (ii) protect the safety and security of our users or members of the public; (iii) protect against fraud or for other risk management purposes; or (iv) comply with the law or legal process.
+
+We also may use and share non-personally identifiable information, such as general demographic or location information, or information about the computer or device from which you access the Service. Additionally, we may de-identify personally identifiable information and share it in a de-identified or aggregated form with third parties, advertisers and/or business partners for our own business purposes and for third party marketing and other purposes. The use and disclosure of such information is not subject to any restrictions under this Privacy Policy.
+
+**Security**
+
+Slickdeals uses commercially reasonable measures to protect your personal information. However, despite these measures, no method of online transmission or storage is 100% secure.
+
+**Does This Privacy Policy Apply When I Access Third Party Sites?**
+
+You may be able to access third-party web sites, mobile sites and/or apps directly from links on the Properties. This Privacy Policy does not apply when you access such properties. Slickdeals cannot control how third parties may use your information so you should carefully review the privacy policy of any third-party properties you visit before using it or disclosing your any information to its provider.
+
+**Consent to Processing**
+
+Slickdeals collects, processes and stores information in the United States. By using the Services outside of the United States, you consent to the transfer of your personal information to, and the collection and processing of such personal information in the United States and other countries or territories. The laws on personal information in the United States may vary and be less stringent than laws of your state or country.
+
+**What About Children’s Privacy?**
+
+**Under Thirteen**
+
+The Slickdeals Services are only for users ages 13 and older. Accordingly, Slickdeals will not knowingly collect any information from a child under the age of 13.
+
+**Thirteen to Seventeen**
+
+Slickdeals insists that prospective users between the ages of 13 and 17 using the Services should be under their parents’ or legal guardian’s supervision while using the Services.
+
+**Your California Privacy Rights**
+
+Under California Civil Code Section 1798.83, users who are California residents may request and receive once a year, free of charge, a list of the third parties to whom we disclosed personal information (if any) for direct marketing purposes in the preceding calendar year and the categories of personal information disclosed to those third parties. If you wish to make such a request, you may send an email to privacy@slickdeals.net or write to us at 10300 West Charleston Blvd, #13-131, Las Vegas, Nevada 89135.
+
+**What About Cookies?**
+
+A cookie is a message that is sent to your computer from a web server and stored on your computer’s hard drive. With respect to cookies: Slickdeals uses cookies. Cookies help us save your preferences and allow you to login to participate in the community forums. This Privacy Policy covers the use of cookies by Slickdeals.net only and does not cover the use of cookies by any advertisers.
+
+**Last updated December 6, 2013**
