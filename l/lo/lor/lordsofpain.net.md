@@ -1,75 +1,177 @@
-> *The following text is extracted and transformed from the lordsofpain.net privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614220032id_/http%3A//www.ugo.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lordsofpain.net privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231143012id_/http%3A//www.google.com/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – UGO Entertainment - UGO.com
+# Privacy Policy – Policies & Principles – Google
 
-This document describes the information gathering, use, and dissemination practices for UGO Entertainment, Inc., and its affiliate and subsidiary companies (“UGO”), in connection with the Web site located at [www.ugo.com](http://www.ugo.com/) and its related sites, including but not limited to:
+Last modified: December 20, 2013 ([view archived versions](https://web.archive.org/web/20131231143012id_/http://www.google.com/policies/privacy/archive/)) 
 
-(collectively, the “Sites”). This Privacy Statement addresses UGO’s practices regarding information collected only directly through or from the Sites – it does not address or govern any information gathering, use, or dissemination practices related to information collected other than directly through or from the Sites, including, without limitation, from or via telephone, facsimile, postal mail, personal delivery, or other or additional offline means or media. UGO can be contacted by mail at 300 West 57th, New York, NY 10019, by phone at (917) 934-6767, by facsimile at (917) 934-6744, or by e-mail at [privacy@ugo.com](mailto:privacy@ugo.com). California and Canadian residents have the right to know how their information may be shared with third parties who engage in direct marketing activities and this Privacy Statement explains our practices and how you can opt-out of having your information shared for such purposes.
+There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a [Google Account](https://web.archive.org/web/20131231143012id_/http://www.google.com/policies/privacy/key-terms/#toc-terms-account), we can make those services even better – to show you more relevant search results and ads, to help you connect with people or to make sharing with others quicker and easier. As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy. 
 
-## Information Collection
+Our Privacy Policy explains: 
 
-UGO may collect or track (1) the e-mail addresses of visitors that communicate with UGO via e-mail, and (2) information knowingly provided by the visitor in online forms, registration forms, forums, surveys, contests, polls, e-mail, the “Contact Us” section of the Sites, and other online avenues (including, without limitation, demographic, interests, behavior, and personal profile data), (3) the home server domain names, e-mail addresses, IP addresses, type of client computer, files downloaded, search engine used, operating system, and type of Web browser of visitors to the Sites and persons responding to polls, and (4) aggregate and visitor-specific information regarding which pages visitors access. For example:
+  * What information we collect and why we collect it. 
+  * How we use that information. 
+  * The choices we offer, including how to access and update information.
 
-### Registration
 
-In order to submit content or participate in the community forums on the Sites, sign up for and/or use UGO services, such as online games, a visitor may be asked to first complete a registration form. During registration a visitor may be required to give their contact information (such as name and email address).
 
-### Information Collected Via Log Files And Cookies
+We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then read about these [key terms](https://web.archive.org/web/20131231143012id_/http://www.google.com/policies/privacy/key-terms/) first. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions [consult this page](http://support.google.com/policies/troubleshooter/2990837?hl=en&rd=2). 
 
-While a visitor is on the Sites, UGO automatically tracks certain information through log files and, on some pages, through cookies (a cookie is a piece of data stored on the visitor\'s hard drive containing information about the visitor) or Web bugs (a Web “bug” is a file object, which can be a graphic image such as a transparent one pixel-by-one pixel graphics file, which is placed on a Web page or in an e-mail message to monitor user activity). This information may include data regarding a visitor’s most recent visit, the URL they came from, the URL they visit next, the browser they are using, and their IP address. UGO evaluates this data on an aggregate basis and does not associate the information with a visitor’s personal identity.
+## Information we collect
 
-### Newsletter
+We collect information to provide better services to all of our users – from figuring out basic stuff like which language you speak, to more complex things like which ads you’ll find most useful or the people who matter most to you online. 
 
-If a visitor wishes to subscribe to our newsletter, UGO asks for contact information such as name and email address. UGO presents the option to not receive these types of communications. Please see our choice and opt-out below.
+We collect information in two ways: 
 
-### Surveys, Polls, & Contests
+  * **Information you give us.** For example, many of our services require you to sign up for a Google Account. When you do, we’ll ask for [personal information](https://web.archive.org/web/20131231143012id_/http://www.google.com/policies/privacy/key-terms/#toc-terms-personal-info), like your name, email address, telephone number or credit card. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible [Google Profile](http://support.google.com/accounts/bin/answer.py?hl=en&answer=112783), which may include your name and photo. 
 
-From time-to-time our Sites request information from visitors via surveys, polls, contests, sweepstakes, or other promotions, either sponsored by UGO or one of its business partners. Participation in these surveys, contests, or polls is completely voluntary and the visitor therefore has a choice whether or not to disclose any information (although, for example, mailing address and demographic information may be required to enter contests). Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level).
+  * **Information we get from your use of our services.** We may collect information about the services that you use and how you use them, like when you visit a website that uses our advertising services or you view and interact with our ads and content. This information includes: 
 
-### Tell-A-Friend
+    * **Device information**
 
-If a visitor elects to use our referral service for informing a friend about our Sites, UGO asks them for the friend\'s name and email address.
+We may collect device-specific information (such as your hardware model, operating system version, [unique device identifiers](https://web.archive.org/web/20131231143012id_/http://www.google.com/policies/privacy/key-terms/#toc-terms-unique-device-id), and mobile network information including phone number). Google may associate your device identifiers or phone number with your Google Account. 
 
-### Special Offers
+    * **Log information**
 
-UGO sends all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our visitors UGO presents the option to not receive these types of communications. Please see our choice and opt-out below.
+When you use our services or view content provided by Google, we may automatically collect and store certain information in [server logs](https://web.archive.org/web/20131231143012id_/http://www.google.com/policies/privacy/key-terms/#toc-terms-server-logs). This may include: 
 
-## Use of Information
+      * details of how you used our service, such as your search queries. 
+      * telephony log information like your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information and types of calls. 
+      * [Internet protocol address](https://web.archive.org/web/20131231143012id_/http://www.google.com/policies/privacy/key-terms/#toc-terms-ip). 
+      * device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL. 
+      * cookies that may uniquely identify your browser or your Google Account.
+    * **Location information**
 
-Personal data collected by UGO may be used by UGO for many reasons, for example, for editorial and feedback purposes, for marketing and promotional purposes, such as to deliver advertisements and promotions targeted to our visitor’s interests, for a statistical analysis of visitors’ behavior, for product development, for content improvement, to deliver promotional information from UGO or its sponsors provided the visitor opted in for these notifications, to contact a visitor, or to customize the content and layout of the Sites. Aggregate visitor data may be used for internal purposes, and individually identifying information, such as names, postal and e-mail addresses, phone numbers, and other personal information which visitors voluntarily provide to UGO may be added to UGO’s databases and used for future calls, mailings, and other communications regarding updates of Sites, new products and services, and upcoming events. Aggregate visitor data may be provided to marketing firms and other organizations that provide marketing and/or marketing support services to UGO.
+When you use a location-enabled Google service, we may collect and process information about your actual location, like GPS signals sent by a mobile device. We may also use various technologies to determine location, such as sensor data from your device that may, for example, provide information on nearby Wi-Fi access points and cell towers. 
 
-In addition, registration information may be used to contact the visitor about the services on our Sites for which they have expressed interest. For example, contest information may be used to notify the winners and award prizes and as otherwise set forth in this Privacy Statement. Survey and poll information may be used for purposes of monitoring or improving the use and satisfaction of the Sites, and as otherwise set forth in this Privacy Statement. Tell-A-Friend information may be used by UGO to send the friend a one-time email inviting them to visit the Sites (UGO stores this information for the sole purpose of sending this one-time email). Information collected via cookies or Web bugs may be used to analyze trends, administer the Sites, track visitor\'s movement, and gather broad demographic information for aggregate use.
+    * **Unique application numbers**
 
-## Disclosure of Information
+Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Google when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates. 
 
-Identifiable or non-identifiable data may be disclosed or distributed (1) to another party with which UGO enters or reasonably may enter into a corporate transaction, such as, for example, a merger, consolidation, acquisition, or asset purchase, (2) to a third party (a) pursuant to a subpoena, court order, or other form of legal process, (b) in response to a request by or on behalf of any local, state, federal, or other government agency, department, or body, whether or not pursuant to a subpoena, court order, or other form of legal process, or (c) if determined by UGO in its sole judgment that such disclosure or distribution is appropriate to protect the life, health, rights, or property of UGO or any other person or entity, or (3) as necessary to third parties under contract with UGO to improve and provide services associated with the Sites. In situations involving bankruptcy or insolvency, the database containing personal data may be treated as an asset of UGO. Identifiable and non-identifiable visitor information and data which visitors provide to UGO also may be provided to third parties that provide products, information, or services which UGO believes that visitors may be interested in directly or indirectly purchasing or obtaining.
+    * **Local storage**
 
-While UGO may undertake efforts to see that any third party to or with which UGO shares, rents, sells, or otherwise discloses personal data is under a contractual obligation to use the personal data solely for the purposes for which the data was disclosed, UGO is not responsible for their conduct, actions, omissions, or information handling or dissemination practices and UGO will not be liable therefor.
+We may collect and store information (including personal information) locally on your device using mechanisms such as browser web storage (including HTML 5) and application data caches. 
 
-## Choice/Opt-out
+    * **Cookies and anonymous identifiers**
 
-Except as necessary for UGO to provide the services, information, or products requested by a visitor, the visitor may opt out of having his or her personally identifiable information, which has been voluntarily provided to UGO through an online form, registration form, forum, survey, contest, poll, the “Contact Us” section of the Sites, or other similar mechanism, prospectively retained by UGO, used by UGO for secondary purposes, or disclosed by UGO to third parties by updating your information at the member information page or contacting UGO via postal mail, e-mail, facsimile, or telephone at the address or numbers set out above. Once UGO has implemented the visitor’s request, UGO will prospectively cease retaining, using for secondary purposes, or disclosing to third parties the personally identifiable information identified by the visitor in his or her request, to the extent directed in the request, except as required by law. (This does not apply to collection of the type of Web browser of the visitor to the Sites or to information provided or collected that does not meet the above description.)
+We use various technologies to collect and store information when you visit a Google service, and this may include sending one or more [cookies](https://web.archive.org/web/20131231143012id_/http://www.google.com/policies/privacy/key-terms/#toc-terms-cookie) or [anonymous identifiers](https://web.archive.org/web/20131231143012id_/http://www.google.com/policies/privacy/key-terms/#toc-terms-identifier) to your device. We also use cookies and anonymous identifiers when you interact with services we offer to our partners, such as advertising services or Google features that may appear on other sites.
 
-## Third Party Advertisements, Products, and Services
 
-The Sites contains links to other Web sites, advertisements for or placed by third parties, and products or services provided by third party business development partners. UGO is not responsible for the privacy practices of such Web sites, advertisers, or third parties, the products or services provided, or for the content of such sites or advertisements. It is possible that these portions of the Sites, links, or advertisements, themselves, may be used by third parties or others to collect personal or other information about Sites visitors. Often, these companies employ cookie and 1x1 pixel/Web bug technology to collect and use anonymous information about your visits to such Web sites and other Web sites to track the performance of an ad program. In addition, UGO may use third-party advertising companies and networks to serve ads to you on our behalf when you visit our websites. Both UGO and these companies may use information (not including your names, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. It is solely the visitors’ obligation to review and understand the privacy practices and policies of these other Web sites and of these advertisers and third parties. If you would like more information about this practice and to know your choices about not having this information used by other companies, please visit <http://www.networkadvertising.org/optout_nonppii.asp>.If you want to opt out of UGO itself using your information for the purpose of sending you targeted advertisements, please send an email to [privacy@ugo.com](mailto:privacy@ugo.com) with the words “Opt Out” in the subject.
 
-## Non-U.S. Users
 
-If you are located outside of the United States, please note that the information you provide to us will be transferred to the United States. By using these Sites, you consent to this transfer. You also consent to the adjudication of any disputes arising in connection with the Sites in the federal and state courts of, and in accordance with the laws of, the state of New York.
+## How we use information we collect
 
-## Security
+We use the information we collect from all of our services to provide, maintain, protect and improve them, to develop new ones, and to protect Google and our users. We also use this information to offer you tailored content – like giving you more relevant search results and ads. 
 
-UGO has implemented numerous security features designed to prevent the unauthorized release of or access to personal information. Please be advised that the confidentiality of any communication or materials transmitted to or from UGO via the Sites or e-mail cannot be guaranteed. Accordingly, UGO is not responsible for the security of information transmitted via the Internet. Instead of communicating with UGO via e-mail or the Internet, visitors can contact UGO by mail, phone, or facsimile at the address or numbers set forth at the beginning of this Privacy Statement. The site located at www.heromachine.com provides for payment via the PayPal system. Payments made through the www.heromachine.com website using PayPal and the information provided during that process are governed solely by the PayPal privacy and security policies, which are located at [www.paypal.com](http://www.paypal.com/).
+We may use the name you provide for your Google Profile across all of the services we offer that require a Google Account. In addition, we may replace past names associated with your Google Account so that you are represented consistently across all our services. If other users already have your email, or other information that identifies you, we may show them your publicly visible Google Profile information, such as your name and photo. 
 
-## Children Under 13
+When you contact Google, we may keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements. 
 
-The Sites must not be used by children under 13. Children under 13 MUST not submit personal information.
+We use information collected from cookies and other technologies, like [pixel tags](https://web.archive.org/web/20131231143012id_/http://www.google.com/policies/privacy/key-terms/#toc-terms-pixel), to improve your user experience and the overall quality of our services. For example, by saving your language preferences, we’ll be able to have our services appear in the language you prefer. When showing you tailored ads, we will not associate a cookie or anonymous identifier with sensitive categories, such as those based on race, religion, sexual orientation or health. 
 
-## Changes and Updates
+We may combine personal information from one service with information, including personal information, from other Google services – for example to make it easier to share things with people you know. We will not combine DoubleClick cookie information with personally identifiable information unless we have your opt-in consent. 
 
-UGO may amend this Privacy Statement at any time by posting the amended policy on the Sites. The amended policy shall automatically take effect 30 days after it is first posted on the Sites. Continued use of the Sites after any changes made to this Privacy Statement signifies a visitor’s understanding, intention and agreement to be bound by such change. It is the visitor’s responsibility to monitor this Privacy Statement for changes. Any change to this Privacy Statement shall be effective as to any visitor who has visited the Sites before the change was made.
+We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy. 
 
-This Privacy Statement is effective February 9, 2009.
+Google processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live. 
 
-Copyright© 2009 UGO Entertainment, Inc. All rights reserved.
+## Transparency and choice
+
+People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can: 
+
+  * [Review and control](https://www.google.com/dashboard/?hl=en) certain types of information tied to your Google Account by using Google Dashboard. 
+  * [View and edit](https://www.google.com/settings/ads/preferences?hl=en) your preferences about the ads shown to you on Google and across the web, such as which categories might interest you, using Ads Settings. You can also opt out of certain Google advertising services here. 
+  * [Use our editor](http://support.google.com/accounts/bin/answer.py?hl=en&answer=112783) to see and adjust how your Google Profile appears to particular individuals. 
+  * [Control](http://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347) who you share information with. 
+  * [Take information](http://www.dataliberation.org/) out of many of our services.
+
+
+
+You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services may not function properly if your cookies are disabled. For example, we may not remember your language preferences. 
+
+## Information you share
+
+Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google. Our services provide you with different options on sharing and removing your content. 
+
+## Accessing and updating your personal information
+
+Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request. 
+
+We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup systems). 
+
+Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems. 
+
+## Information we share
+
+We do not share personal information with companies, organizations and individuals outside of Google unless one of the following circumstances applies: 
+
+  * **With your consent**
+
+We will share personal information with companies, organizations or individuals outside of Google when we have your consent to do so. We require opt-in consent for the sharing of any [sensitive personal information](https://web.archive.org/web/20131231143012id_/http://www.google.com/policies/privacy/key-terms/#toc-terms-sensitive-info). 
+
+  * **With domain administrators**
+
+If your Google Account is managed for you by a [domain administrator](http://support.google.com/a/bin/answer.py?hl=en&answer=178897) (for example, for Google Apps users) then your domain administrator and resellers who provide user support to your organization will have access to your Google Account information (including your email and other data). Your domain administrator may be able to: 
+
+    * view statistics regarding your account, like statistics regarding applications you install. 
+    * change your account password. 
+    * suspend or terminate your account access. 
+    * access or retain information stored as part of your account. 
+    * receive your account information in order to satisfy applicable law, regulation, legal process or enforceable governmental request. 
+    * restrict your ability to delete or edit information or privacy settings.
+
+Please refer to your domain administrator’s privacy policy for more information. 
+
+  * **For external processing**
+
+We provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. 
+
+  * **For legal reasons**
+
+We will share personal information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
+
+    * meet any applicable law, regulation, legal process or enforceable governmental request. 
+    * enforce applicable Terms of Service, including investigation of potential violations. 
+    * detect, prevent, or otherwise address fraud, security or technical issues. 
+    * protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.
+
+
+
+We may share aggregated, [non-personally identifiable information](https://web.archive.org/web/20131231143012id_/http://www.google.com/policies/privacy/key-terms/#toc-terms-info) publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly to show trends about the general use of our services. 
+
+If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy. 
+
+## Information security
+
+We work hard to protect Google and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular: 
+
+  * We encrypt many of our services [using SSL](http://support.google.com/websearch/bin/answer.py?answer=173733&en). 
+  * We offer you [two step verification](https://www.google.com/intl/en/landing/2step/) when you access your Google Account, and a [Safe Browsing feature](http://www.google.com/chrome/intl/en/more/security.html) in Google Chrome. 
+  * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems. 
+  * We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+
+
+
+## Application
+
+Our Privacy Policy applies to all of the services offered by Google Inc. and its affiliates, including services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy. 
+
+Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Google services, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads. 
+
+## Enforcement
+
+We regularly review our compliance with our Privacy Policy. We also adhere to several [self regulatory frameworks](https://web.archive.org/web/20131231143012id_/http://www.google.com/policies/privacy/frameworks/). When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly. 
+
+## Changes
+
+Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review. 
+
+## Specific product practices
+
+The following notices explain specific privacy practices with respect to certain Google products and services that you may use: 
+
+  * [Chrome and Chrome OS](http://www.google.com/chrome/intl/en/privacy.html)
+  * [Books](http://books.google.com/intl/en/googlebooks/privacy.html)
+  * [Wallet](http://wallet.google.com/files/privacy.html?hl=en)
+  * [Fiber](https://fiber.google.com/legal/privacy.html)
+
+
