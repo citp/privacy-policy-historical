@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topcashback.co.uk privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627202852id_/http%3A//www.topcashback.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topcashback.co.uk privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231142417id_/http%3A//www.topcashback.co.uk/Privacy) for the most accurate reproduction.*
 
 # Top Cashback - Privacy
 
@@ -50,8 +50,6 @@ In order to track your purchases, cookies are stored on your computer, they simp
 
 Cookies may also be used by Top CashBack to enable full use of our website, including logging in and user preferences. If a user can sign-in to our site, then they most likely have cookies enabled. Users may also check if they have cookies enabled using our ‘Tracking Test’ page. 
 
-Like many websites, Top CashBack may use cookies to allow third party advertisers (which we generally label as “sponsored adverts”) to present you with advertising on Top CashBack based on interests/preferences defined by your past web browsing activity – also known as ‘behavioural advertising’. To find out more about how this works or you are concerned about this, please visit [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). 
-
 We recommend that all users enable cookies in their browsers in order to make full use of the site and in order to ensure that any purchases on third party sites are recorded. You may refuse to accept cookies by adjusting the settings of your browser software, however, if you do not have cookies enabled, third-party merchants will not record your purchases and you will not be able to earn cashback from our service. 
 
 For more information regarding the use of cookies, please visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) or <http://www.microsoft.com/info/cookies.mspx>
@@ -75,6 +73,14 @@ Cookies are used by TopCashBack to perform the below functions:
 8\. To tell us how you found the website and who to assign any referral bonuses.
 
 Having reviewed the use of cookies as part of the Top CashBack service, we believe that the cookies used are strictly necessary to offer the services/provision of cashback and related services and/or are non-intrusive cookies which are used to enhance the service offered. 
+
+### 3rd Party Cookies
+
+Like many websites, Top CashBack may use cookies to allow third party advertisers (which we generally label as “sponsored adverts”) to present you with advertising on Top CashBack/other sites based on interests/preferences defined by your past web browsing activity – also known as ‘behavioural advertising’. 
+
+These cookies cannot be used to identify an individual; they can only be used for statistical purposes, for example, in providing you with advertisements that are more relevant to your interests. Some of the information gleaned from third party cookies will be aggregated with other anonymous information for statistical purposes. The third party companies that generate these cookies have their own, very strict, privacy policies but we don't have access to these cookies; other than allowing them to be served, we have no role to play in these cookies at all (although we may use statistical information arising from these third party cookies and provided to us by third parties, to improve the targeting of advertisements to users of the website). 
+
+To find out more about how this works or you are concerned about this, please visit [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/). 
 
 ## AMENDING YOUR DETAILS/EMAIL SETTINGS
 
