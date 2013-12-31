@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the oakwood.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614235423id_/http%3A//www.oakwood.com/cms/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oakwood.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231053206id_/http%3A//www.oakwood.com/cms/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Oakwood
 
 [](http://www.oakwood.com/ "Oakwood Worldwide Home")
 
-[](http://www.etrust.org/cert/687567.html)
+[](http://www.etrust.org/cert/687567.html)[](http://www.etrust.org/cert/687567.html)
 
 ## Online Privacy Statement 
 
-(Last Updated March 13, 2013) 
+(Last Updated August 21, 2013)
 
-[ Download PDF](http://images.oakwood.com/pdf/Oakwood-Worldwide-Online-Privacy-Statement.pdf)
+[ Download PDF](http://images.oakwood.com/pdf/OakwoodWorldwideOnlinePrivacyStatementFinal_08212013.pdf)
 
 We are dedicated to protecting your privacy and safeguarding your "personally identifiable" information. We are committed to using our customers' information only in a responsible manner. We are committed to respecting your privacy and adhering to the principles of applicable data protection and privacy laws.
 
@@ -81,9 +81,7 @@ In some cases your permission will be implied from the nature of the service req
 **International Visitors and Data Transfers Across International Borders**  
 The nature of our business and our operations may require us to transfer your information, including personally identifiable information, to other group companies, properties, centers of operations, data centers, or service providers that may be located in countries outside of your own. Although the data protection and other laws of these various countries may not be as comprehensive as those in your own country, Oakwood Worldwide will take appropriate steps to ensure that your personally identifiable information is protected and handled as described in this Privacy Statement. 
 
-Japan residents, please visit <http://www.privacyexchange.org/japan/JapanPIPA2003v3_1.pdf>. 
-
-Oakwood Worldwide complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries. Oakwood Worldwide has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, please visit <http://www.export.gov/safeharbor>.
+Oakwood Worldwide complies with the U.S.-EU Safe Harbor Framework and the U.S. Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries. Oakwood Worldwide has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, please visit <http://www.export.gov/safeharbor>.
 
 For the Japan Personal Information Protection Act. For the EU Data Directive, please visit <http://dsv.su.se/jpalme/society/eu-personal-privacy-directive.html>. 
 
