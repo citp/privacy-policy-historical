@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the eurobookings.com privacy policy that was archived on 2013-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130606161941id_/http%3A//www.eurobookings.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eurobookings.com privacy policy that was archived on 2013-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131231113828id_/http%3A//www.eurobookings.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     	<title>Eurobookings.com - Privacy statement</title>
@@ -12,7 +12,7 @@
 				
         <meta name="DC.title" content="L">
 
-        <link rel="stylesheet" type="text/css" href="http://static.eurobookings.com/styles/br_MasterStylesheet.css"><link rel="stylesheet" type="text/css" href="http://static.eurobookings.com/styles/br_Cms.css">
+        <link rel="stylesheet" type="text/css" href="http://static.eurobookings.com/styles/bs_MasterStylesheet.css"><link rel="stylesheet" type="text/css" href="http://static.eurobookings.com/styles/bs_Cms.css">
     	<style type="text/css">
 			/* ---- FireFox 2 addings  ---- */
 			.clsEbGuestReviewScoresLarge, .clsBookWithUsWrapper, .clsInlineBlock, .clsEbGuestReviewScoresSmall, ul#idEbLanguageUl li, #idOverallRatingBox,
@@ -66,16 +66,17 @@
          document.write("</style>");
         }
 
+        var trackCall = function(){};
+        var trackPopup = function( type ){};
         var trackHotelVideo = function(){};
         var trackCityVideo = function(){};
         var trackNewsReg = function(){};
         var trackSearchSuggest = function(){};
         var trackSearchEmpty = function(){};
-
+        
         /* ]]> */
         </script><style type="text/css">.clsScriptSwitchOnBlock { display: block; }.clsScriptKeepOnBlock { display: block; }.clsScriptKeepOff { display: none; }.clsScriptSwitchOnInline { display: inline; }.clsScriptSwitchOff { display: none; }.clsScriptSwitchGrey { color:#999999; }.clsRowRoomToggleButton { display: table-row; }.clsRowRoomToggle { display: none; }</style>
-
-           </head>
+    </head>
 <body>
 <!--  start header  -->
 <div id="idHeader">
@@ -133,9 +134,8 @@
 
             <div id="idEbHeaderMenuPos">
                 <div id="idEbHeaderMenu" style="width:600px;">
-                	                	<a href="http://videos.eurobookings.com/" title="Travel Videos" target="_blank">Travel&nbsp;Videos</a> |
-                	<a rel="noindex" href="http://www.eurobookings.com/travel-news/travel-news-main.html" title="Travel News">Travel&nbsp;News</a> |
-        			<a rel="nofollow" href="http://www.eurobookings.com/scripts/php/popupMyBooking.php?strLang=en" onclick="void(funLoadPopUp('http://www.eurobookings.com/scripts/php/popupMyBooking.php?strLang=en', '', '', 100,260,550,380));return false;" target="_blank" title="My Booking">My&nbsp;Booking</a> |
+                	                	                	<a rel="noindex" href="http://www.eurobookings.com/travel-news/travel-news-main.html" title="Travel News">Travel&nbsp;News</a> |
+        			<a rel="nofollow" href="http://www.eurobookings.com/scripts/php/popupMyBooking.php?strLang=en" onclick="trackPopup('My Booking'); void(funLoadPopUp('http://www.eurobookings.com/scripts/php/popupMyBooking.php?strLang=en', '', '', 100,260,550,380));return false;" target="_blank" title="My Booking">My&nbsp;Booking</a> |
         			<a rel="nofollow" href="http://www.eurobookings.com/customer-service.html" title="Customer Service">Customer&nbsp;Service</a>
         	    </div>
             </div>
@@ -459,7 +459,7 @@
         			<div class="clsTransparentBgFooterRight"></div>
         				<input type="text" id="ac_id_email" name="email" value="" class="clsNewsletterInputInFooter">
         				<div style="float:left;margin-left:5px;margin-right:2px;">
-            				<div class="clsButtonNewsL" style="min-width:65px; padding-left:10px;" onclick="trackNewsReg(); document.getElementById('ac_id_form_newsletter_footer').submit(); return false;" title="Sign Up">
+            				<div class="clsButtonNewsL" style="min-width:65px; padding-left:10px;" onclick="trackNewsReg(); trackPopup('Newsletter Registration'); document.getElementById('ac_id_form_newsletter_footer').submit(); return false;" title="Sign Up">
             					<div class="clsButtonNewsLRight"></div>
             					<div class="clsButtonNewsLTxt">Send</div>
             				</div>
@@ -487,9 +487,9 @@
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-1163077-1']);
   _gaq.push(['_setDomainName', '.eurobookings.com']);
-  _gaq.push(['_setCustomVar', 1,'lang_server_site', 'en|USA-LA_la-web05|www', 2]);
-  _gaq.push(['_setCustomVar', 2,'testplan','bookprocess=F:notaxes=yes:views=yes:lastbooked=no:phonenrs=not_hd:rank=B:lessimages=no',2]);
-  // _gaq.push(['_setCustomVar', 3,'serverlocation','USA-LA_la-web05',2]);
+  _gaq.push(['_setCustomVar', 1,'lang_server_site', 'en|USA-LA_p1-appserver6|A', 2]);
+  _gaq.push(['_setCustomVar', 2,'testplan','bookprocess=F:notaxes=yes:views=yes:lastbooked=yes:phonenrs=not_hd:rank=A:pn=n:tp=n:sb=n:bi=n',2]);
+  // _gaq.push(['_setCustomVar', 3,'serverlocation','USA-LA_p1-appserver6',2]);
   _gaq.push(['_setCustomVar', 4,'direct','',2]);
   _gaq.push(['_setCustomVar', 5,'all','',2]);
   _gaq.push(function(){
@@ -521,120 +521,30 @@
     return false;
   }
   /* ]]> */
-</script><script type="text/javascript" src="http://static.eurobookings.com/scripts/js/min/br_scripts.js"></script><script type="text/javascript">
-     		var s_account = "eubeurobookingscom";
-	</script><script language="JavaScript" type="text/javascript" src="/scripts/js/min/s_code.js"></script>
-	<script language="JavaScript" type="text/javascript">
-	
-    <!--
-    /* Page specifics */
-    function sc_trackLink(link,linkname,events,eVar23){
-    	var s = s_gi(s_account);
-    	s.charSet='UTF-8';
-    	s.currencyCode='USD';
-    	s.linkTrackVars='eVar23,events,products';
-    	s.linkTrackEvents='event4,event7,event13,event14';
-    	s.events=events;
-    	s.eVar23=eVar23;
-    	if(link != null && link !== true && link.tagName.toLowerCase() == 'a'){
-    	    s.tl(link,'o',linkname);
-    	} else {
-    		s.tl(true,'o',linkname);
-    	}
-    }
+</script><script type="text/javascript">
+
+    trackCall = function(){
+        _gaq.push(['_trackEvent', 'Call', 'Cms']);
+    };
+    trackPopup = function( type ){
+        _gaq.push(['_trackEvent', 'Popup', type, 'Cms', 0, true]);
+    };
     trackHotelVideo = function(){
-        sc_trackLink(true, 'Hotel video', '', 'hotel video');
+        _gaq.push(['_trackEvent', 'Videos', 'Play_Hotel', 'Cms', 0, true]);
     };
     trackCityVideo = function(){
-        sc_trackLink(true, 'City video', '', 'city video');
+        _gaq.push(['_trackEvent', 'Videos', 'Play_City', 'Cms', 0, true]);
     };
     trackNewsReg = function(){
-       sc_trackLink(true, 'Newsletter registration', 'event4', '');
+        _gaq.push(['_trackEvent', 'Registration', 'Newsletter', 'Cms', 0, true]);
     };
     trackSearchSuggest = function(){
-       sc_trackLink(true, 'Search with autofill', 'event13', '');
+        _gaq.push(['_trackEvent', 'Search', 'With_Autofill']);
     };
     trackSearchEmpty = function(){
-       sc_trackLink(true, 'No search results found', 'event14', '');
+        _gaq.push(['_trackEvent', 'Search', 'Empty']);
     };
-
-    function plstart(){
-		var lt = Cookie.read('sc_plstart');
-        var d  = new Date();
-        var ret = '';
-        if(lt != null && (d.getTime() - lt) > 0){
-            ret = d.getTime() - lt;
-        }
-        setInterval(function(){  var d = new Date();
-                                 Cookie.write('sc_plstart', d.getTime(), { path:'/', domain:'.eurobookings.com', duration: 0});
-                               }, 150);
-        return ret;
-    }
-
-    s.pageName  = 'Cms|Privacy';
-    s.server    = document.location.host;
-    s.channel   = 'Hotel';
-    s.hier1     = 'Home|Cms|Privacy';
-    s.linkInternalFilters=document.domain+",javascript:,eurobookings.com";
-    
-    s.trackingServer='eurobookings.d3.sc.omtrdc.net';
-    // s.trackingServer='metrics.eurobookings.com';
-    // s.trackingServerSecure='smetrics.eurobookings.com';
-
-    
-
-    /* Props */
-    s.prop1 = 'en';
-    s.prop2 = 'la-web05';
-    s.prop3 = 'bookprocess=F:notaxes=yes:views=yes:lastbooked=no:phonenrs=not_hd:rank=B:lessimages=no';
-    s.prop4 = plstart();
-    
-    
-    
-    
-    
-    s.prop10 = 'H.23.2._20110631';
-    
-
-    /* eVars */
-    s.eVar1 = 'en';
-    s.eVar3 = 'bookprocess=F:notaxes=yes:views=yes:lastbooked=no:phonenrs=not_hd:rank=B:lessimages=no';
-    s.eVar4 = '';
-
-    
-    
-
-    
-    
-    
-
-    s.eVar10 = 'Home';
-    s.eVar11 = 'Home|Cms';
-    s.eVar12 = 'Home|Cms|Privacy';
-    s.eVar13 = 'Home|Cms|Privacy';
-
-    s.eVar17 = '/privacy.html';
-    s.eVar24 = 'single';
-    s.eVar31 = 'no date';
-    s.eVar32 = 'no date';
-
-    s.campaign = s.getValOnce('','campaign',0);
-
-    
-    
-    
-
-    var s_code=s.t();
-    if(s_code)document.write(s_code);
-
-    //-->
-
-	<!--
-    if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-    //--></script><noscript><img src="https://eurobookings.d3.sc.omtrdc.net/b/ss/eubeurobookingscom/1/H.23.4--NS/0"
-    height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
-    <!-- End SiteCatalyst code version: H.23.4. -->
-
+</script><script type="text/javascript" src="http://static.eurobookings.com/scripts/js/min/bs_scripts.js"></script>
  <!-- inline script header -->
        <script type="text/javascript">
 			/* <![CDATA[ */
@@ -646,12 +556,12 @@
     		var arrWeekDaysKalendar = new Array('Su', 'Mo',	'Tu',	'We',	'Th',	'Fr',	'Sa');
     		var arrShortMonths = new Array('Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec');
     		var arrLongMonths = new Array('January','February','March','April','May','June','July','August','September','October','November','December');
-    		var currentDateCheckIn = '06-06-2013';
-    		var startDateCheckIn = '06-06-2013';
-    		var endDateCheckIn = '05-06-2014';
-        	var currentDateCheckOut = '06-06-2013';
-    		var startDateCheckOut = '07-06-2013';
-    		var endDateCheckOut = '06-06-2014';
+    		var currentDateCheckIn = '31-12-2013';
+    		var startDateCheckIn = '31-12-2013';
+    		var endDateCheckIn = '30-12-2014';
+        	var currentDateCheckOut = '31-12-2013';
+    		var startDateCheckOut = '01-01-2014';
+    		var endDateCheckOut = '31-12-2014';
     		var loadingText = 'Loading';
 
     		var closeButtonText = 'close';
