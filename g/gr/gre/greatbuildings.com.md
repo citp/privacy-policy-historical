@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatbuildings.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429000234id_/http%3A//www.greatbuildings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatbuildings.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231143713id_/http%3A//www.greatbuildings.com/privacy.html) for the most accurate reproduction.*
 
 # Great Buildings Online Privacy Statement
 
