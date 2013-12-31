@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nanigans.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626082410id_/http%3A//www.nanigans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanigans.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231201951id_/http%3A//www.nanigans.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nanigans – Predictive Lifetime Value SaaS Platform for Performance Marketing at Scale
 
