@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secretgeek.net privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602143550id_/http%3A//secretgeek.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secretgeek.net privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231182322id_/http%3A//secretgeek.net/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
