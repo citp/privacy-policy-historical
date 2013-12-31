@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the celebutopia.net privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506225307id_/http%3A//www.celebutopia.net/%3Fpage_id%3D1168) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebutopia.net privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231034322id_/http%3A//www.celebutopia.net/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | Celebutopia
 
 At Celebutopia.net we respect your privacy and are committed to protecting it at all times. This Internet Privacy Notice explains how we collect, use, and safeguard information on this Website. Please read this Privacy Notice carefully. By visiting Celebutopia.net, you are accepting the practices described in this Privacy Notice and agree that any dispute over privacy is governed by this Privacy Notice and Conditions of Use.
 
