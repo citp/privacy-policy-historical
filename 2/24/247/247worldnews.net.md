@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 247worldnews.net privacy policy that was archived on 2013-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130209012657id_/http%3A//www.247worldnews.net%3Fpage_id%3D32765) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247worldnews.net privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231112032id_/http%3A//www.247worldnews.net/privacy) for the most accurate reproduction.*
 
-# – Privacy | 24/7 World News Network
+# Privacy
 
 247worldnews.net  is committed to protecting your privacy. This Privacy Policy explains the type of information 247worldnews.net collects through its website and what 247worldnews.net does with it. Please read the following privacy policy carefully before using the 247worldnews.netwebsite. If you use the 247worldnews.net website, you will be bound by the terms of this Privacy Policy. This policy may change from time to time so you should check it frequently. 247worldnews.net does not attempt to determine the identity of any 247worldnews.net user by analyzing Web usage paths.
 
