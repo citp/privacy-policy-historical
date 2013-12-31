@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the movieinsider.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628231546id_/http%3A//www.movieinsider.com/contact/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieinsider.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231100454id_/http%3A//www.movieinsider.com/contact/%23privacy) for the most accurate reproduction.*
 
 # Contact Us - About Us - Privacy Policy - Movie Insider
-
-[On Facebook](http://www.facebook.com/movieinsider) • [Tweet Us: @movieinsider](http://www.twitter.com/movieinsider)
 
 ### About Movie Insider®
 
@@ -94,7 +92,7 @@ Third-Party Advertising
 
 Movie Insider uses multiple third-party advertising companies, including DoubleClick, ValueClick, BurstMedia, among others, to serve ads and/or collect certain anonymous information when you visit the website.
 
-These companies may use _non-personally identifiable information_ (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. Also known as _online behavioral advertising (“OBA”) and/or multi-site advertising_ , these companies typically use a cookie or third -party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/managing/opt_out.asp).
+These companies may use _non-personally identifiable information_ (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. Also known as _online behavioral advertising ("OBA") and/or multi-site advertising_ , these companies typically use a cookie or third -party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/managing/opt_out.asp).
 
 Opt-Out Information
 
@@ -108,4 +106,4 @@ Acceptance of Policy
 
 By using this website, you agree to the terms mentioned above. If you do not agree to this policy, you should stop using this site. This policy may be revised or changed from time to time. Your continued use of the Movie Insider website after the posting of changes means you accept those changes.
 
-Last Updated: March 5, 2013
+Last Updated: September 23, 2013
