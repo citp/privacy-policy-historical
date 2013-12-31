@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anandkg22.hubpages.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627121932id_/http%3A//hubpages.com/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anandkg22.hubpages.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231021533id_/http%3A//hubpages.com/help/privacy_policy) for the most accurate reproduction.*
 
 # HubPages Privacy Policy
 
