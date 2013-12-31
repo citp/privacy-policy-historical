@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripadvisor.com.sg privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615011249id_/http%3A//www.tripadvisor.com.sg/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.com.sg privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231045737id_/http%3A//www.tripadvisor.com.sg/pages/privacy.html) for the most accurate reproduction.*
 
 # TRIPADVISOR PRIVACY POLICY - TripAdvisor
 
