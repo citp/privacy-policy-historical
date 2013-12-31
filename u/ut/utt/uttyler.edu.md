@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uttyler.edu privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430211339id_/http%3A//uttyler.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uttyler.edu privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231235645id_/http%3A//uttyler.edu/privacy) for the most accurate reproduction.*
 
 # UT Tyler Privacy | The University of Texas at Tyler, Privacy Policy Statement
 
-The University of Texas at Tyler maintains the UT Tyler web site (www2.uttyler.edu) as a public service. The following statement applies only to members of the general public and is intended to address concerns about the types of information gathered from the public, if any, and how that information is used.
+The University of Texas at Tyler maintains the UT Tyler web site ([www.uttyler.edu](https://web.archive.org/)) as a public service. The following statement applies only to members of the general public and is intended to address concerns about the types of information gathered from the public, if any, and how that information is used.
 
 **I. Notice of Personal Information**
 
