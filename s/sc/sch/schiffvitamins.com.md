@@ -1,23 +1,59 @@
-> *The following text is extracted and transformed from the schiffvitamins.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116201728id_/http%3A//www.schiffvitamins.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schiffvitamins.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231135212id_/http%3A//www.schiffvitamins.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Schiff Vitamins
 
-Schiff Products ("Schiff") respects your privacy. Our purpose in collecting information from you is to help us provide you with better service, such as processing a bid you have requested or notifying you about special offers and promotions. We will not willfully disclose any individually identifiable information about you to any third party without first receiving your permission, as explained in this privacy policy.
+### What this Privacy Policy Covers
 
-What Information Do We Collect?  
-From time to time we may request that you provide us with certain personal identifying information (such as your name, email address, etc.) in connection with the services offered on our site. We do not collect any personal identifying information about you except when you specifically and knowingly provide such information. When we request personal identifying information, we explain how this information may be used and give you an opportunity to decline providing the information. You can also opt out of future communications from us at any time by emailing us at [AskSchiff@SchiffVitamins.com](mailto:AskSchiff@SchiffVitamins.com).
+Reckitt Benckiser LLC (USA) ("Reckitt Benckiser LLC") respects the privacy of every individual who visits our sites or responds to our interactive advertisements. This Privacy Policy outlines the information Reckitt Benckiser LLC will collect and how we will use that information. This Policy will also instruct you on what to do if you do not want your personal information collected or shared when you visit Reckitt Benckiser LLC sites or respond to our advertisements.
 
-Cookies  
-Like most sites, SchiffVitamins.com uses cookies. Cookies are data files stored on your computer that identify you as a unique user. Cookies enable us to track user trends, preferences and patterns to better understand our user base and to improve the quality of our service. Most browsers permit users to refuse cookies or to be notified before a cookie is accepted. You can visit our site without using cookies.
+### Personally Identifiable Information
 
-Links to Other Sites  
-Schiff contains links to other sites. These sites may send their own cookies to users, collect data, or solicit personal information. Since we do not control these sites, we are not responsible or liable for the privacy practices or content of such sites.
+Reckitt Benckiser LLC will not collect any personally identifiable information about you (that is, your name, address, telephone number, or email address) unless you provide it to us voluntarily. For example, and not by limitation, we may collect personally identifiable information when you make a purchase, participate in a contest or sweepstakes promotion; fill out a questionnaire; sign up for a survey or otherwise interact with us.
 
-With Whom Do We Share Information?  
-Schiff will only share personal identifying information with third parties with your permission. We may share non-personal information about our users with advertisers, business partners, sponsors, and other third parties, without your permission. However, we only divulge aggregate information, such as how often the average user visits SchiffVitamins.com. We will not share personally identifiable information with any third party without your consent.
+When you provide personally identifiable information to us, we may ask if you want to receive future communication from us, such as newsletters, email or other information. You can choose not to receive this communication, if you wish and you may opt-out by clicking on the link on the bottom of an email you received or by clicking here. If you do not want your personally identifiable information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please click here to provide us with the email address.
 
-Consent and Changes to this Privacy Policy  
-By using our site, you consent to the collection and use of your information as we have outlined in this privacy policy and to our Terms of Use. Schiff may decide to change this privacy policy from time to time. When we do, we will post the changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
+In addition to providing you with the service or information you request on our site, your personally identifiable information may also be used to help us track the way you use our site and our products. We may also combine the information you provide with information that we collect separately, including information you have provided to other organizations as well as public information. All of this will help us, for instance, better design our products, web sites and advertisements. In order to do this, we may also share your information with companies who carry out work for us. Information may be shared with service providers who provide services for or administer activities on behalf of Reckitt Benckiser LLC (such as, but not limited to, authorization of credit card and check transactions, sweepstakes, promotions and contests. Information you submit to one or more of the Reckitt Benckiser LLC brands may be shared with another of the Reckitt Benckiser LLC brands. Your personally identifiable information may also be shared with service providers who warehouse product, perform order fulfillment or provide hosting services. These companies have agreed to only use your information in the way we tell them and to have procedures in place to protect the information.
 
-Who Can I Ask If I Have Additional Questions?  
-Feel free to contact us any time with any questions you may have regarding our privacy policy. Our email address is [AskSchiff@SchiffVitamins.com](mailto:AskSchiff@SchiffVitamins.com). 
+In the event a division or Reckitt Benckiser LLC, or its assets, is bought or sold, personally identifiable information may be included among the transferred business assets.
+
+Reckitt Benckiser LLC may disclose specific personally identifiable information if it determines that such disclosure is necessary to comply with the law or to protect the safety of the public. This includes exchanging personally identifiable information with other companies and organizations for fraud protection and credit risk reduction. 
+
+If we intend to share your information with an unaffiliated company, other than as set out above, we will contact you first and give you the opportunity to remove your information from our database.
+
+### Children’s Privacy
+
+Reckitt Benckiser LLC does not knowingly solicit or collect personally identifiable information (that is, name, address, telephone number, or email address) from individuals under the age of thirteen years. Where appropriate, Reckitt Benckiser LLC will specifically instruct children not to submit such information on our sites or advertisements. If a child has provided us with personally identifiable information, a parent or guardian of that child should [click here](mailto:consumer.relations@rbnorthamerica.com) to provide us with the email address if they would like this information deleted from our records. Reckitt Benckiser LLC will take all reasonable measures to delete such information from its database and to not use such information for any purpose (except where necessary to protect the safety of the child or others or as required by law.)
+
+### Linked Sites
+
+The Reckitt Benckiser LLC web site(s) may contain links to other sites . The privacy policies at these other sites may be different from this one. You should refer to the privacy policy of any site linked to or framed within a Reckitt Benckiser LLC site, or when you are leaving a Reckitt Benckiser LLC site or site(s) for information and the privacy policy pertaining to that site.
+
+### Non-Personally Identifiable Information Collected Automatically
+
+In some cases, we may collect information about you that is not personally identifiable. Examples of this type of information include the type of Internet Browser you are using, the type of computer operating system you are using, and the domain name of the site from which you linked to our site or advertisement. We use this information for the purposes of better understanding our customer's interests and to help improve our business and sites.
+
+### Information We May Place Automatically On Your Computer's Hard Drive
+
+When you view one of our sites or advertisements, we may store some information on your computer. For example, this information may be in the form of a "Cookie" or similar file that will allow us to tailor a site or advertisement to better match your interests and preferences. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions. Please note that removing or blocking Cookies may interfere with your full use of our site. You may need to download applications and readjust your security settings to access some or all of the information on one or more of the Reckitt Benckiser LLC site(s).
+
+### How Your Personal Information is Protected
+
+Reckitt Benckiser LLC uses industry standard security techniques to help protect against the loss, misuse or alteration of information collected from you at a Reckitt Benckiser LLC site. When you transmit personally identifiable information, that information is stored on servers that Reckitt Benckiser LLC has attempted to secure from unauthorized access or intrusion. Of course, the Reckitt Benckiser LLC sites cannot be and are not responsible for unauthorized access to information by hackers who have obtained such access through illegal measures.
+
+### Who to Contact
+
+If you have submitted personally identifiable information through a Reckitt Benckiser LLC site or interactive advertisement, and would like that information modified, changed or deleted from our records, please [click here](mailto:consumer.relations@rbnorthamerica.com) to provide us with the email address.
+
+### How can you Update or Change your Information
+
+If at any time you want to update or change your information, you may contact us by sending an email by [clicking here](mailto:consumer.relations@rbnorthamerica.com?subject=Please%20Update%20My%20Information) If have received an email and you would like to opt-out of receiving future emails, please click on the opt-out link at the bottom of that email. If you would like to be removed from our database and you have not received an email, please [click here](http://ebm.cheetahmail.com/r/regf2?a=0&aid=2087003840&n=9) to opt-out.
+
+### U.S. - EU Safe Harbor Framework
+
+Reckitt Benckiser LLC adheres to the U.S. Department of Commerce Safe Harbor Principles concerning the transfer of personal data from the European Union to the U.S., and has committed to handling such personal information in accordance with our US - EU Safe Harbor Privacy Statement.
+
+For more information regarding the Safe Harbor Principles, please visit the U.S. Department of Commerce's website at [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
+
+### Revisions to this Privacy Policy
+
+We may modify this Privacy Policy and you should therefore periodically visit this page to be sure that you have read and agree with our most current Privacy Policy. This Privacy Policy was last revised on 05/03/2005 and is effective as of 9/15/2005.
