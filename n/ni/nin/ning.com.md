@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the ning.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620091000id_/http%3A//www.ning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ning.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231013028id_/http%3A//www.ning.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ning.com
 
-_Last Updated: November 13, 2012_
+_Last Updated: September 19, 2013_
 
 Ning, Inc. (“Ning”, “we” or “us”) is an online service provider that provides a set of services and technology applications that enable users to create their own Networks utilizing our technology platform (the “Ning Platform”). Ning is not involved in the management of Networks on the Ning Platform and is not involved in the decisions relating to the focus of Networks or the Content uploaded or published to Networks using the Ning Platform. These are your Networks and, as a Network Creator, you are responsible for managing them in all respects (including the actions, conduct, and Content of Your Members) in compliance with the Ning [Terms of Service](https://web.archive.org/termsofservice/).
 
-We value your privacy, and we want to help make your experience on the Ning Platform as satisfying and safe as possible. We have established this Privacy Policy to explain how Personal Information (as defined below) is collected on the Ning Platform, and how that Personal Information is used and disclosed. “Personal Information” is information that allows a person to directly identify an individual, such as name or email address, and information that we combine directly with such identifying information. This Privacy Policy is incorporated into and is subject to the Ning [Terms of Service](https://web.archive.org/termsofservice/). Any capitalized terms not defined herein have the meaning set forth in the Ning [Terms of Service](https://web.archive.org/termsofservice/). By using the Ning Platform, you expressly consent to the information handling practices described in this Privacy Policy.
+We value your privacy, and we want to help make your experience on the Ning Platform as satisfying and safe as possible. We have established this Privacy Policy to explain how Personal Information (as defined below) is collected on the [Web](https://web.archive.org/) [site](https://web.archive.org/) and the Ning Platform, and how that Personal Information is used and disclosed. “Personal Information” is information that allows a person to directly identify an individual, such as name or email address, and information that we combine directly with such identifying information. This Privacy Policy is incorporated into and is subject to the Ning [Terms of Service](https://web.archive.org/termsofservice/). Any capitalized terms not defined herein have the meaning set forth in the Ning [Terms of Service](https://web.archive.org/termsofservice/). By using the Ning Platform, you expressly consent to the information handling practices described in this Privacy Policy.
 
-[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.ning.com/seal_m "Validate TRUSTe privacy certification") Ning has been awarded TRUSTe’s Privacy Seal signifying that our privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacyinfo [at] ning [dot] com](mailto:privacyinfo@ning.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
+[](https://privacy.truste.com/privacy-seal/Ning,-Inc-/validation?rid=7f774d7a-2a5e-4ab7-971d-6f3ab2a0e372 "TRUSTe European Safe Harbor certification")
 
-[](http://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.ning.com/seal_l "TRUSTe European Safe Harbor certification") Ning complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. Ning has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Ning certification, please visit <http://export.gov/safeharbor>.
+Ning has been awarded TRUSTe’s Privacy Seal signifying that our privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacyinfo [at] ning [dot] com](mailto:privacyinfo@ning.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this [Web](https://web.archive.org/) [site](https://web.archive.org/), and does not cover information that may be collected through software downloaded from the site.
+
+Ning complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. Ning has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Ning certification, please visit <http://export.gov/safeharbor>.
 
 ### 1\. How the Ning Platform Operates
 
@@ -89,6 +91,8 @@ We will retain your Personal Information for as long as your account status is a
 
 ### 12\. Privacy Settings
 
+**Ning 2.0 Networks** – If you belong to a Network that was created prior to March 11, 2013, which we refer to as a “Ning 2.0 Network”, the following privacy settings are available on that Network:
+
 As a Network Creator, you control certain privacy settings on your Network (known as “Network Privacy Settings”). Network Creators can edit these settings at any time by signing in to your Network and clicking on “Privacy” from the “My Network” page. Network Creators can choose from the following Network Privacy Settings:
 
         * **Public** \- Your Network is visible to everyone (Members and non-Members). Anyone can sign up to be a Member. As for which parts of your Network are visible to non-Members, there are two further options: 
@@ -110,6 +114,34 @@ To further enhance Network privacy, Network Creators can set “Private – Only
 
 
 These settings are not retroactive, so if you’d like these privacy settings to apply to content you’ve uploaded in the past, you must update the privacy settings of the individual content item you previously uploaded. Even if you’ve changed your privacy settings as described above for your profile, certain portions of your basic profile page (such as your name and profile photo), will always be visible to people who can access the Network. The remaining portion of your basic profile (such as gender, location and age/birthday), can be hidden or disabled by accessing the “Profile” section of your Settings page. Regardless of the individual privacy settings selected by a Member, please note that Network Creators and their designated administrators will still be able to view that Network’s profile pages, lists of friends and content in full.
+
+**Ning 3.0 Networks** – If you belong to a Network that was created on or after March 11, 2013, which we refer to as a “Ning 3.0 Network”, the following privacy settings are available on that Network:
+
+With Ning 3.0 Networks, there is no single privacy setting on your Network to make all pages private or all pages public. Instead, you set the privacy option for each individual page you create, which allows you to choose highly customized network privacy options. Network Creators can edit the privacy of each page by signing in to your Network, clicking on “Site & Pages” in the Social Site Manager and going to the General section of each page. This is where you can set access permissions for a page.
+
+Network Creators can choose from the following Page Privacy Settings:
+
+  * **Everyone (Public)** \- This means that everyone (members and non-members alike) can view this page.
+  * **Members** \- Only Members of the Network can view this page; visitors will be prompted to sign in.
+  * **Featured Members** \- Only featured Members and Administrators of the Network can view this view page.
+  * **Administrators** \- Only Administrators of the Network can view this page.
+  * **Member Category** \- Only Members of a specific member category can view this page.
+
+
+
+In addition, Network Creators can change the default privacy setting for all member profile pages on the Network. For example, if you want to prevent member profile pages from showing up in search results, you may wish to change the default privacy setting from “Everyone (Public)” to “Members.” You can edit the default Privacy Page Settings for member profiles by signing in to your Network, clicking on “Site & Pages” in the Social Site Manager and going to the General section of the Members page.
+
+Network Creators can choose from the following Privacy Page Settings for member profile pages:
+
+  * **Everyone (Public)** \- This means that everyone (members and non-members alike) can view member.
+  * **Members** \- Only Members of the Network can view member profile pages; visitors will be prompted to sign in.
+  * **Friends** \- Only friends can view member profile pages.
+
+
+
+Members and Network Creators can edit the personal privacy settings on their profile page to hide their age, gender or birthdate. You can also set your profile page to be visible to everyone (default), only members of the Ning Network or just to your friends on the Ning Network. To change the privacy of your profile page, click on the edit icon that looks like a pencil on the top right of your profile page. You should land on the “Profile” tab in your personal settings area. Choose the level of privacy you’d like from the “Profile Page Privacy” drop down and then update the page. Please see [here](https://web.archive.org/ning3help/control-the-privacy-settings-of-your-profile-page/) for more information on how to control the privacy settings of your profile page.
+
+As with Ning 2.0 Networks, regardless of the individual privacy settings selected by a Member, Network Creators and their designated administrators will still be able to view that Network’s profile pages, lists of friends and content in full.
 
 ### 13\. Email Communications and Unsolicited Commercial Email
 
