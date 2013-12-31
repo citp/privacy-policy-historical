@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebaumsworld.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606135212id_/http%3A//www.ebaumsworld.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebaumsworld.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231035354id_/http%3A//www.ebaumsworld.com/pages/privacy) for the most accurate reproduction.*
 
 # Funny Videos, Funny Pictures, Flash Games, Jokes
 
