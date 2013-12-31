@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veoh.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514032941id_/http%3A//www.veoh.com/corporate/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veoh.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231193128id_/http%3A//www.veoh.com/corporate/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Veoh Video Network
 
@@ -58,8 +58,9 @@ Veoh provides users the opportunity to opt-out of receiving certain communicatio
 
 You should be aware that the United States and other countries have not harmonized their privacy regulations. Because Veoh is intended specifically for users in the United States, we have written our Privacy Policy to satisfy United States regulations and make no representations regarding the laws and regulations of other jurisdictions. By using Veoh, you agree to the level of privacy protection set out in our Privacy Policy. 
 
-Qlipso Media Networks Ltd  
-2434 Main Street, Ste. 202  
-Santa Monica, CA 90405  
-Tel: +972-2-6409812  
+FC2  
+101 Convention Center Drive  
+Suite 700  
+Las Vegas, NV 89019  
+Tel: 310-770-4880  
 Email: [info@veoh.com](mailto:info@veoh.com)
