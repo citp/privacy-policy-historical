@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mype.co.za privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523171113id_/http%3A//mype.co.za/new/2011/02/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mype.co.za privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231124104id_/http%3A//mype.co.za/new/2011/02/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -77,7 +77,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
   * <http://mype.co.za/new/contact/>
-  * 6 van Niekerk St. Port Elizabeth, South Africa
+  * 6 van Niekerk St. [Port Elizabeth](http://www.mype.co.za/cgi-bin/search.cgi?keywords=Port+Elizabeth "Port Elizabeth"), South Africa
   * _alan[at]mype.co.za_
 
 
@@ -123,3 +123,16 @@ www.MyPE.co.za (“MyPE”) offers on-line listing of commercial providers of go
   * Should the advertiser owe any monies to MyPE in lieu of fees for advertising, such amount will be payable to MyPE within one (1) week of notice of cancellation from MyPE, as described above.
 
 
+
+The following two tabs change content below.
+
+  * Bio
+  * Latest Posts
+
+
+
+Passionate about Port Elizabeth and definitely NOT packing for Perth. Alan's ethos is epitomised in the words of Nelson Mandela; " _I have fought against white domination and I have fought against black domination. I have cherished the idea of a democratic and free society. If need be, it is an ideal for which I am prepared to die._ " [See more articles by Alan](http://mype.co.za/new/author/Alan/).
+
+**These businesses support[MyPE](http://mype.co.za/new/2011/07/more-ad-choices-on-mype/):**
+
+**[MyPE](http://mype.co.za/new/2011/07/more-ad-choices-on-mype/) supports PE business:**
