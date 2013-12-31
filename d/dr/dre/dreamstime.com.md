@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamstime.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519072305id_/http%3A//www.dreamstime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamstime.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231215958id_/http%3A//www.dreamstime.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Dreamstime
 
@@ -56,7 +56,7 @@ Our site may contain advertisements, references and links to other web sites and
 
 **Disclosure to Third Parties:  
 **Except as described in this Privacy Policy, Dreamstim uses good faith efforts not to provide third parties with access to your personally identifiable information. We will, however, make your personally identifiable information available to others:   
-\- When we have your consent (you "opt in") to do so, in which case their use of your information is subject to their own privacy policies;   
+\- As part of your public member profile, where your name and location are displayed unless your profile has been set to confidential (please [contact support](http://www.dreamstime.com/contact) for assistance);   
 \- When we have retained companies to work with or on behalf of Dreamstime.com to provide Products, goods or services that you have requested;   
 \- When we are compelled to do so by a governmental agency, court or other entity (e.g., to respond to subpoenas, court orders or legal process);   
 \- If we believe your actions violate any law, regulation, our Terms of Use or any of our guidelines for promotions, Product offerings or any other features or functions of the site, or if you threaten the rights, property or safety of Dreamstime.com, its suppliers, advertisers, other customers or users, or any other party;   
