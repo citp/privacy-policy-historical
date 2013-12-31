@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babycenter.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629064017id_/http%3A//www.babycenter.com/help-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycenter.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231221527id_/http%3A//www.babycenter.com/help-privacy) for the most accurate reproduction.*
 
 # About Us - Privacy Policy - Main | BabyCenter
 
