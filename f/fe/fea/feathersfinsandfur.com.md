@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feathersfinsandfur.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605092901id_/http%3A//wasabiventures.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feathersfinsandfur.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231213330id_/http%3A//wasabiventures.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Wasabi Ventures, LLC. Privacy Policy
 
@@ -49,8 +49,7 @@ If you have any questions about anything in this Privacy Policy, or about collec
 Wasabi Ventures, Inc  
 2450 El Camino Real  
 Suite 200  
-Palo Alto, CA 94306  
-650-224-6362 
+Palo Alto, CA 94306 
 
 You may also use the above contact information if you think any information about you is inaccurate, incomplete, or if you want to change the sort of information about you that Wasabi Ventures may have collected.
 
