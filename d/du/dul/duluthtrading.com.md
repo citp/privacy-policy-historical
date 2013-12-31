@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duluthtrading.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529115824id_/http%3A//www.duluthtrading.com/store/dtc-shared/customer-service/privacy-and-security/privacy-security-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duluthtrading.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231030838id_/http%3A//www.duluthtrading.com/store/dtc-shared/customer-service/privacy-and-security/privacy-security-policy.aspx) for the most accurate reproduction.*
 
 # Privacy & Security - Duluth Trading
 
@@ -76,7 +76,7 @@ At your request, DTC will allow you to access or review your Personal Data and c
 
 ## Choice
 
-DTC allows you to choose not to have your Personal Data disclosed to third parties or used for a purpose incompatible with the purpose for which it was originally collected. If you do not want your Personal Data disclosed to third parties or used for purposes other than providing you with the services you requested, you may contact us at [customerservice@duluthtrading.com](mailto:customerservice@duluthtrading.com), contact us by mail at 170 Countryside Dr., Belleville, WI 53508, or call 1-800-505-8888.
+DTC allows you to choose not to have your Personal Data disclosed to third parties or used for a purpose incompatible with the purpose for which it was originally collected. If you do not want your Personal Data disclosed to third parties or used for purposes other than providing you with the services you requested, you may contact us at [customerservice@duluthtrading.com](mailto:customerservice@duluthtrading.com), contact us by mail at 170 Countryside Dr., Belleville, WI 53508, or call 1-866-300-9719.
 
 ## Links to Other Websites
 
@@ -84,4 +84,4 @@ This Privacy Policy applies only to Personal Data, as defined above. The DTC Web
 
 ## Questions About Our Privacy Policy
 
-If you have any questions about this Privacy Policy or concerns about the way DTC processes your Personal Data, please email us at [customerservice@duluthtrading.com](mailto:customerservice@duluthtrading.com), contact us by mail at 170 Countryside Dr., Belleville, WI 53508, or call 1-800-505-8888.
+If you have any questions about this Privacy Policy or concerns about the way DTC processes your Personal Data, please email us at [customerservice@duluthtrading.com](mailto:customerservice@duluthtrading.com), contact us by mail at 170 Countryside Dr., Belleville, WI 53508, or call 1-866-300-9719.
