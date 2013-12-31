@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theverge.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630231717id_/http%3A//www.theverge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theverge.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231220409id_/http%3A//www.theverge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Verge
 
@@ -52,7 +52,7 @@ In order to serve offers and advertisements that may be interest to our users, w
 
 * ### Your Options and Information about Advertisers and Targeted Ads.
 
-You can learn more about the advertising companies we work with and what options they may offer you regarding cookies and targeted advertising by clicking [here](http://www.theverge.com/guide/privacy_advertising). Many of these companies are also members of the Network Advertising Initiative or the Digital Advertising Alliance, which each provide a simple way to opt-out of ad targeting from participating companies. 
+You can learn more about the advertising companies we work with and what options they may offer you regarding cookies and targeted advertising by clicking [here](http://www.theverge.com/privacy-policy-advertising). Many of these companies are also members of the Network Advertising Initiative or the Digital Advertising Alliance, which each provide a simple way to opt-out of ad targeting from participating companies. 
 
 * ### Mobile.
 
