@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puppyurl.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430152720id_/http%3A//www.puppyurl.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puppyurl.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231151534id_/http%3A//www.puppyurl.com/privacy_policy.html) for the most accurate reproduction.*
 
 # PuppyURL - Web Directory - Privacy Policy
 
