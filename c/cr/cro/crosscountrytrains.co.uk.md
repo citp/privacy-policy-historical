@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the crosscountrytrains.co.uk privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501211448id_/http%3A//www.crosscountrytrains.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crosscountrytrains.co.uk privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231135237id_/http%3A//www.crosscountrytrains.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | CrossCountry
 
+We use cookies to give you the best experience of our website. By using the website you agree to the use of these cookies. You can find out more or [change the use of cookies here](https://web.archive.org/cookie-policy). 
+
 ## At CrossCountry, we're committed to protecting and respecting your privacy.
 
-This policy outlines the personal data we collect from you, or that you provide to us and how we will process it. Please read it carefully as it should help you understand how we collect and use your personal information.
+This policy outlines the personal data we collect from you, or that you provide to us and how we will process it. Please read it carefully as it should help you understand how we collect and use your personal information..
 
 We may collect and process the following data about you:
 
@@ -59,6 +61,8 @@ Unfortunately, the transmission of information via the internet is not completel
 You have the right to ask us not to process your personal data for marketing purposes (usually by ticking/un-ticking a box on a form). We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can always refuse this at any time by contacting us at [customer.relations@crosscountrytrains.co.uk](mailto:customer.relations@crosscountrytrains.co.uk)
 
 Our site may, from time to time, contain links to and from the websites of our members, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites as we can't control how they use your data.
+
+You can unsubscribe at any time from our e-mails by simply clicking on the unsubscribe link at the bottom of any e-mail you receive from us and confirming your unsubscribe request. Alternatively, if you have an online account with CrossCountry, you can change your preferences in the 'My Details' section, once you are signed in to your account. If you experience any problems when trying to unsubscribe, you can contact our Customer Relations team.
 
 ## Further information
 
