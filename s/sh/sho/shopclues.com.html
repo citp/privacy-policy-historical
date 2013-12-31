@@ -1,9 +1,13 @@
-<!--The following is the downloaded HTML source of the shopclues.com privacy policy that was archived on 2013-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130515041305id_/http%3A//www.shopclues.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shopclues.com privacy policy that was archived on 2013-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131231085335id_/http%3A//www.shopclues.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:fb="http://ogp.me/ns/fb#" lang="en" xmlns:og="http://opengraphprotocol.org/schema/"><head><meta http-equiv="X-UA-Compatible" content="IE=9">
 
+<script type="text/javascript" async="" src="https://chuknu.sokrati.com/235/tracker.js"></script><script src="//cdn.viralmint.com/js/viralmint-min.js" id="viralmint-js"></script><script src="//cdn.optimizely.com/js/326496668.js"></script>
 <title>Privacy Policy</title>
+
+
+
 
 <base href="http://www.shopclues.com/">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -14,13 +18,12 @@
 
 
 <meta property="og:site_name" content="shopclues">
-<meta property="og:image" content="http://www.shopclues.com/images/Logo_shopclues.png">
+<meta property="og:image" content="http://www.shopclues.com/images/banners/shopclues_ficon.gif">
 
 <meta property="og:type" content="product">
 <meta property="fb:app_id" content="233137156813679">
-<meta property="og:description" content="_home_meta_description">
+<meta property="og:description" content="Shopclues.com - India's First and Largest Managed Marketplace">
 <meta property="og:title" content="Privacy Policy">
-
 <meta property="og:url" content="http://www.shopclues.com">
 <link href="/skins/basic/customer/images/icons/favicon.ico" rel="shortcut icon">
 
@@ -30,10 +33,10 @@
 <link href="/skins/basic/customer/styles.css" rel="stylesheet" type="text/css" />
 <link href="/skins/basic/customer/print.css" rel="stylesheet" media="print" type="text/css" />-->
 
-<link href="http://www.shopclues.com/skins/basic/customer/css/ui/jqueryui.css?v=76" rel="stylesheet" type="text/css">
+<link href="http://www.shopclues.com/skins/basic/customer/css/ui/jqueryui.css?v=121" rel="stylesheet" type="text/css">
 <!--<link href="http://www.shopclues.com/skins/basic/customer/styles.css" rel="stylesheet" type="text/css" /> -->
-<link href="http://www.shopclues.com/skins/basic/customer/styles.css?v=76" rel="stylesheet" type="text/css">
-<link href="http://www.shopclues.com/skins/basic/customer/print.css?v=76" rel="stylesheet" media="print" type="text/css">
+<link href="http://www.shopclues.com/skins/basic/customer/styles.css?v=121" rel="stylesheet" type="text/css">
+<link href="http://www.shopclues.com/skins/basic/customer/print.css?v=121" rel="stylesheet" media="print" type="text/css">
 
 
 <!--[if lte IE 7]>
@@ -52,12 +55,14 @@
 
 
 <!--<link rel="stylesheet" href="/skins/basic/customer/style.min.css" />-->
-<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://chuknu.sokrati.com/235/tracker.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" src="http://www.shopclues.com/js/merged.js"></script>
+<script type="text/javascript" src="http://www.shopclues.com/js/merged.js"></script>
 <script type="text/javascript" src="http://www.shopclues.com/js/jquery.jqzoom-core.js"></script>
 
 <script type="text/javascript" src="http://www.shopclues.com/js/jquery.jcarousel.min.js"></script>
 <script type="text/javascript" src="http://www.shopclues.com/js/detectmobilebrowser.js"></script>
 <script type="text/javascript" src="http://www.shopclues.com/js/jquery.raty.min.js"></script>
+<script type="text/javascript" src="http://www.shopclues.com/js/raj_rating.js"></script>
+<script type="text/javascript" src="http://www.shopclues.com/js/crawler.js"></script>
 <script type="text/javascript" src="http://www.shopclues.com/js/jquery.countdown.js"></script>
 <!--<script type="text/javascript" src="http://www.shopclues.com/js/jquery.min.js" ></script>
 <script type="text/javascript" src="http://www.shopclues.com/js/selectbox.js" ></script>-->
@@ -76,9 +81,55 @@ fn_register_hooks('reward_points', ['check_exceptions']);
 </script>
 <script type="text/javascript" src="http://www.shopclues.com/js/jquery.rs.slideshow.js"></script>
 <script type="text/javascript" src="http://www.shopclues.com/js/dynamic-controls-bootstrap.js"></script>
-
-
+    
+ 
 <script type="text/javascript">
+  
+$(document).ready(function(){
+  
+    $(".box_GridProduct img, .product_homepagedealblock img, .box_metacategory img, .prd_lst_img_blk img").each(function(i,obj){
+      $(this).error(function(){
+          
+            var imgValue = $(this).attr('src');
+           
+            $(this).attr('src', 'http://cdn.shopclues.com/images/no_image.gif');
+           
+            var productId = $(this).prev().attr('id');
+                //imagePath = $('#' + productId).val();
+                urlPath = 'http://catalog.shopclues.com/';
+                
+             $.ajax({
+                 
+                  type:'POST',
+                  cache:false,
+                  url: urlPath + 'tools/image_generate.php',
+                  dataType : 'jsonP',
+                  crossDomain : true,
+                 // data: {product_id:productId,image_path:imagePath},
+		  data:  {product_id:productId},
+                  success:function(msg){
+
+                      }
+                  
+                 });
+            });
+        
+        }); //})
+        
+        
+//$(document).ready(function(){
+  $('img').bind('error', function(){
+      if($(this).parents('.product-main-info').length >= 1){
+               
+           //$(this).css("display","none");
+          $(this).attr('src', 'http://cdn.shopclues.com/images/no_image.gif');
+      }
+          
+    });
+     
+  });
+        
+  
     function ReadCookie(cookieName) {
 		var theCookie=" "+document.cookie;
 		var ind=theCookie.indexOf(" "+cookieName+"=");
@@ -88,262 +139,20 @@ fn_register_hooks('reward_points', ['check_exceptions']);
 		if (ind1==-1) ind1=theCookie.length; 
 		return unescape(theCookie.substring(ind+cookieName.length+2,ind1));
        }
-       
-       function SetCookie(cookieName,cookieValue,nDays,domain) {
-                var today = new Date();
-		var expire = new Date();
-		if (nDays==null || nDays==0) nDays=1;
-		expire.setTime(today.getTime() + 3600000*nDays);
-		if(domain != ''){
-                    document.cookie = cookieName+"="+escape(cookieValue) + ";expires="+expire.toGMTString()+";domain="+domain+";path=/";
-                }else{
-                    document.cookie = cookieName+"="+escape(cookieValue) + ";expires="+expire.toGMTString();
-                }
-       }
-</script>    
-
-	
-<style>
-.lightbox_overlay
-{
- width:100%;
- height:100%;
- background-color:#000;
- opacity:0.5;
- -moz-opacity:.50;
- filter:alpha(opacity=50); 
- z-index:10000;
- position:fixed;
- left:0px;
- top:0px;
-}
-.lightbox_container
-{
- /*background:rgba(255,255,255,.7);
- border-radius:20px;
- -moz-border-radius:15px;
- -webkit-border-radius:15px;
- border:1px solid #fff;*/
- height:335px;
- width:650px; 
- z-index:10001;
- position:fixed;
- left:50%;
- margin-left:-350px;
- top:100px;
-}
-
-.lightbox_container .lightbox_container_close
-{
- position:absolute;
- margin-left:655px;
- margin-top:-12px;
- z-index:10002;
- background:url(images/skin/sprite_png_icon.png) -74px -1px no-repeat; 
- height:30px;
- width:31px;
- cursor: pointer;
-}
-.lightbox_container .lightbox_container_bg
-{
- float:left;
- display:inline;
- background: left top no-repeat;
- width:675px;
- height:331px;
-}
-.lightbox_container .lightbox_container_coupon_bg
-{
- float:left;
- display:inline;
- background-color:white;
- width:696px;
- height:325px;
- margin-top:5px;
- margin-left:5px;
- border-radius:10px;
- -moz-border-radius:10px;
- -webkit-border-radius:10px;
- overflow:auto;
-}
-.lightbox_container .lightbox_container_label
-{
- float:left;
- display:inline;
- font:20px trebuchet ms;
- color:#fff;
- margin-top:120px;
- margin-left:165px;
-}
-.lightbox_container .lightbox_container_textbox
-{
- float:left;
- display:inline;
- font:15px trebuchet ms;
- color:#656366;
- margin-top:117px;
- margin-left:10px;
- padding:5px 5px 5px 5px;
- border-radius:5px;
- width:185px;
- border:0px;
- background-color:#fff;
-}
-.lightbox_container .lightbox_container_button
-{
- float:left;
- display:inline;
- font:15px trebuchet ms;
- color:#fff;
- margin-top:117px;
- margin-left:15px;
- padding:5px;
- border-radius:5px;
- -moz-border-radius:5px;
- -webkit-border-radius:5px;
- border:0px;
-/* background:url(images/skin/diwali_pop_up_btn.gif) no-repeat 0 0 ;
- width:223px;*/
- height:30px;
-background:#0084b6;
-}
-.lightbox_container .lightbox_container_button:hover{background:#0587bb}
-</style>
-
-<script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head><body><div id="popup_exp_reg" style="display: none;">
-<div class="lightbox_overlay"></div>
-
-<div class="lightbox_container">
-
-<div class="lightbox_container_close" id="popup_close"></div>
-
-<div class="clearboth"></div>
-
-<form name="popup_registration_form" action="/" method="post" onsubmit="return validate();">
-<div class="lightbox_container_bg">
-<label for="email_popup_registration" class="lightbox_container_label">Email ID</label>
- <input type="hidden" name="dispatch" value="simple_registration.register">
- <input type="hidden" name="referer" value="popup">
-<input value="Your Email Address" name="email" id="email_popup_registration" type="text" class="lightbox_container_textbox">
-<input name="" id="email_popup_submit" type="submit" class="lightbox_container_button" value="Sign Up" style="cursor: pointer;">
-</div>
-</form>
-
-</div>
-</div> 
-
-
-<script>
     
- function validate(){
-            var val = document.getElementById('email_popup_registration').value;
-            val = jQuery.trim(val);
-            document.getElementById('email_popup_registration').value = val;
-            if(val== '' || val=='Your Email Address'){
-                    document.getElementById('email_popup_registration').style.color = "#333";
-                    document.getElementById('email_popup_registration').style.background = "#FFDDDD";
-                    document.getElementById('email_popup_registration').value = 'Your Email Address';
-                    return false;
-            }else{
-                var filter = /^\w[a-zA-Z0-9-_.]+@[a-zA-Z_]+.[a-zA-Z]+.[a-zA-Z]{2,3}$/;
-                if(String(document.getElementById('email_popup_registration').value).search (filter) == -1)                         
-                {
-                    document.getElementById('email_popup_registration').style.color = "#333";
-                    document.getElementById('email_popup_registration').style.background = "#FFF";
-                    document.getElementById('email_popup_registration').value = 'Your Email Address';
-                    return false;
-                }
-            }
-        }
-        
-        jQuery("#email_popup_registration").bind('blur',function(){
-   var val = document.getElementById('email_popup_registration').value;
-   val = jQuery.trim(val);
-   document.getElementById('email_popup_registration').value = val;
-   if(val== '' || val=='Your Email Address'){
-    document.getElementById('email_popup_registration').style.color = "#ccc";
-    document.getElementById('email_popup_registration').value = 'Your Email Address';
-   }
- });
- jQuery("#email_popup_registration").bind('focus',function(){
-   var val = document.getElementById('email_popup_registration').value;
-   
-   if(val=='Your Email Address'){
-    document.getElementById('email_popup_registration').style.color = "#111";
-    document.getElementById('email_popup_registration').value = '';
-   }
-  
-  });
-    </script>
-
-
-
-<script type="text/javascript">
-	
-	
-        var force_login = 'NO';
-        var force_signin_pages = 'products-121245';
-        var page = 'pages';
-        
-        var page_id = '';
-        if(page == 'products'){
-            
-            page_id = '';
-            
-        }else if(page == 'categories'){
-            
-            page_id = '';
-            
-        }                
-        if(page_id != '') {
-            var page_name = page+'-'+page_id;
-            page_list = force_signin_pages.split(',');        
-            close_popup = 'YES';
-            for(var i=0; i<page_list.length; i++) {
-                if(page_name == page_list[i] && force_login == 'YES' && page != 'index'){
-                    close_popup = 'NO';
-                }
-            }
-        }else{
-           close_popup = 'YES'; 
-        }         
-        var cookie_status = ReadCookie('skip_express_reg'); 
-        if((cookie_status == '' && $.browser.mobile == false ) || (close_popup == 'YES' && $.browser.mobile == false ) )
-	{	           
-            if(cookie_status != 'skip'){
-                document.getElementById('popup_exp_reg').style.display="block";
-				//$('.lightbox_container_bg').css("background-color","#555");
-				$('.lightbox_container_bg').css("background-image","url(http://cdn.shopclues.com/images/skin/bg_great_deal_popup.gif)");
-            }
-            SetCookie('skip_express_reg','skip','6','');
-	}else if($.browser.mobile == false){         
-            var force_signin_cookie_status = ReadCookie('force_signin');
-            if(force_signin_cookie_status != 'skip'){
-                document.getElementById('popup_exp_reg').style.display="block";
-			//	$('.lightbox_container_bg').css("background-color","#555");
-				$('.lightbox_container_bg').css("background-image","url(http://cdn.shopclues.com/images/skin/bg_great_deal_popup.gif)");
-                document.getElementById('popup_close').style.display="none";
-            }
-        }
-	
-        
-
-	$('#popup_close').click(function(){
-		$('#popup_exp_reg').toggle();	
-	});
-        
 </script>
 
-        
+<script type="text/javascript" src="http://www.shopclues.com/js/dpf.js"></script>
 
+<script src="https://ssl.google-analytics.com/ga.js" async="true"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
-
+<body class="">
 <!--<div class="promotional-banner">
 <div id="promotional-banner-text" class="promotional-banner-text"></div>
 </div> -->
 
 
-<div class="helper-container">
+<div class="helper-container ">
 	<a name="top"></a>
 	
 <div id="ajax_loading_box" class="ajax-loading-box"><div class="right-inner-loading-box"><div id="ajax_loading_message" class="ajax-inner-loading-box">Loading...</div></div></div>
@@ -364,9 +173,13 @@ background:#0084b6;
 <div id="sc_news" style="margin: auto; width: 978px; padding-left:20px; height: 30px; background:#edf8fe; color:#777777;">
 <div style="float: left; padding-left:1px;">
 <marquee scrollamount="4" onmouseout="this.start();" onmouseover="this.stop();" style="font-size: 12px; font-weight: bold; float:left; margin: 0px; text-align: left; padding-top: 6px; width:900px;" direction="left">
- Finding the right products has never been easier! Check out our new SEARCH!
+ <span style="padding-left:400px"> Simple Office Workouts - </span>
+<a href="http://blog.shopclues.com/stay-relaxed-at-work">Read Blog</a>
+
+<span style="padding-left:400px"> Sweet Winter Delight - </span>
+<a href="http://blog.shopclues.com/sweet-winter-delight">Read Blog</a>
  </marquee></div><div style="float: right;padding-top:5px; text-align:center;">
-<div class="list_lightboxcartitem " style="width:auto; float:right; padding:0; border-bottom:0px;"> <a class="cm-ajax list_lightboxcartitem_close" onclick="$('#sc_news').hide('slow'); abc();" rev="cart_status" style="padding:2px 4px; height:auto; margin:0px 5px 0 0; width:auto; border-radius:5px; -moz-border-radius:5px;">
+<div class="list_lightboxcartitem " style="float:right; padding:0; width:65px; border-bottom:0px;"> <a class="cm-ajax list_lightboxcartitem_close" onclick="$('#sc_news').hide('slow'); abc();" rev="cart_status" style="padding:2px 4px; height:auto; margin:0px 5px 0 0; width:auto; border-radius:5px; -moz-border-radius:5px;">
 <span style="float: left; margin-right: 4px; margin-top: 1px;">Close </span>
 <img style="border-radius: 12px 12px 12px 12px; margin-top: 1px;" src="images/skin/close_alert_header.png">
 </a></div>
@@ -375,21 +188,21 @@ background:#0084b6;
 
  
 <script type="text/javascript">
-var sa='1ec7e9497db24b4534af731e2ba61a14';
+    
+    
+var sa='46cf530ef221003ebf65823bc862d749';
 var cookie_status = ReadCookie('skip_express_news'); 
+
+    if(cookie_status == sa || sa == ''){
+				$("#sc_news").hide();
+			}
 function abc(){	           
 	SetCookie('skip_express_news',sa,'365','');		
 }
+
 </script>
 
-
-
-<script type="text/javascript">
-            if(cookie_status == sa || sa == ''){
-				$("#sc_news").hide();
-			}
-</script>
-
+   
 
   <div class="header_global"> 
     <a title="Shopclues online shopping" href="http://www.shopclues.com" class="float_left"> <img src="http://cdn.shopclues.com/images/skin/shopclues_logo.gif" alt="" border="0"> </a>  
@@ -397,72 +210,25 @@ function abc(){
     <div class="sb_wrapper">
     
      <div class="welcomegst">
-          <!--by ankur to hide search on checkout-->
-          <a href="/sell" style="float:right; clear:none; margin:-5px 23px 0px 0;" class="sell_wid_us_nl"><img src="http://cdn.shopclues.com/images/skin/sell_with_us_icon.jpg" style="margin:-2px 3px -2px 0">Sell with Us</a> 
-           <!--end-->
+         
      </div>
-     <!--by ankur to hide search on checkout-->
-        <span style="float:left">
-        <div style="width:550px;">
-        	<form action="/" name="search_form" id="search_form" method="get" onsubmit="return check_blank()">
-<input type="hidden" id="search_for"> <!--this is for checking which form is to search at client side-->
-<input type="hidden" name="subcats" value="Y">
-<input type="hidden" name="status" value="A">
-<!--<input type="hidden" name="pshort" value="Y" />
-<input type="hidden" name="pfull" value="Y" />-->
-<input type="hidden" name="pname" value="Y">
-<input type="hidden" name="product_code" value="Y">
-<input type="hidden" name="match" value="all">
-<input type="hidden" name="pkeywords" value="Y">
-<input type="hidden" name="search_performed" value="Y">
- 
-
-<select name="cid" class="search-selectbox float_left"><option value="0">All Categories</option><option value="1175">48 hrs Sales</option><option value="453">Mobiles &amp; Tablets</option><option value="85">Computers</option><option value="460">Electronics</option><option value="682">Cameras </option><option value="87">Fashion</option><option value="282">Jewelry &amp; Watches</option><option value="337">Home &amp; Garden</option><option value="368">Home Appliances</option><option value="480">Beauty &amp; Perfumes</option><option value="1332">Health &amp; Nutrition</option><option value="129">Sports &amp; Outdoors</option><option value="93">Books &amp; Media</option><option value="633">Kids &amp; Toys</option><option value="668">Gaming</option><option value="628">Auto Accessories</option><option value="180">Gifts &amp; Flowers</option><option value="1067">Pet Supplies</option></select><div class="search-input"><input type="text" id="q" name="q" value="Search for Item" onfocus="if(this.value=='Search for Item') this.value='';this.select();document.getElementById('search_for').value='top_search_bar'" class="float_left" onblur="if(this.value=='') this.value='Search for Item'"></div><input type="submit" alt="" title="" class="ml_box_searchmain_buttonnn"><input type="hidden" name="dispatch" value="products.search">
-
-</form>
-
-<script>
-  function check_blank()
-  {
-	  if(document.getElementById('q').value=='Search for Item' || document.getElementById('q').value=='')
-	  {
-		  alert('Please Enter A Item');
-		  return false;
-	  }
-	  else
-	  {
-		  return true;
-	  }
-  }
-
-  jQuery(document).ready(function($){
-	$("#q").autocomplete({
-		source: "autosuggest.php",
-		minLength: 1,
-		select: function(event, ui) {
-	    if(ui.item){
-	        $('#q').val(ui.item.value);
-	    }
-	    	$('#search_form').submit();
-		}
-	});
-  });
-
-</script>
-         </div>
-     </span>
-          <!--end-->
+    
+    
     </div>
-            
-
-
-
-    <ul class="global_nav" style="">
-      <li> 
-		
-      	
+            <div class="box_header_right">
+    <div class="box_header_userinfo">
+    <div class="box_header_userinfo_left"></div>
+    
+    <div id="login_user_data">
+                    <a style="float:left; margin-left:10px;" href="/login?return_url=index.php%3Fdispatch%3Dpages.view%26page_id%3D7">Sign In</a>
+            <span style="float:left" class="box_header_userinfo_span">/</span>
+            <a style="float:left" href="/login?return_url=index.php%3Fdispatch%3Dpages.view%26page_id%3D7">Register</a>         
         
-<div class="margin_left_five float_right">
+                
+    </div>    
+    <div id="cart_data">
+        
+<div class="float_right margin_right_five">
 	<div id="cart_status">
 	<div class="box_cartstatus">
 		        		
@@ -486,67 +252,111 @@ function abc(){
 	
 	<!--cart_status--></div>
 </div>
-        	        <div class="float_right margin_left_five">|</div>
-             <a class="float_right margin_left_five" href="/login?return_url=index.php%3Fdispatch%3Dpages.view%26page_id%3D7">Register</a>
-             <div class="float_right margin_left_five">/</div>
-             <a class="float_right" href="/login?return_url=index.php%3Fdispatch%3Dpages.view%26page_id%3D7">Sign-In</a>
-             
-                        
-      	 
-        </li>
-                  <li class="livechat"><script type="text/javascript">
-  var __lc = {};
-  __lc.license = 1911872;
+    </div>
+    </div>    
+        <div class="box_websitelinks">
+    <a href="/sell" class="box_websitelinks_sellwithus">Sell with Us</a>
+     
+    <a href="http://www.shopclues.com/index.php?dispatch=write_to_us.write" class="box_websitelinks_customersupport">
+    Customer Support
+    </a>
+    
+    <a href="http://www.shopclues.com/help.html" class="box_websitelinks_help">
+    Help
+    </a> 
+    </div>    
+    
+    <div class="clearboth"></div>
+    
+    <div class="box_search">
+    <form action="/" name="search_form" id="search_form" method="get" onsubmit="return check_blank()">
+<input type="hidden" id="search_for"> <!--this is for checking which form is to search at client side-->
+<input type="hidden" name="subcats" value="Y">
+<input type="hidden" name="status" value="A">
+<!--<input type="hidden" name="pshort" value="Y" />
+<input type="hidden" name="pfull" value="Y" />-->
+<input type="hidden" name="pname" value="Y">
+<input type="hidden" name="product_code" value="Y">
+<input type="hidden" name="match" value="all">
+<input type="hidden" name="pkeywords" value="Y">
+<input type="hidden" name="search_performed" value="Y">
+ 
 
-  (function() {
-    var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
-    lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
-  })();
+<select name="cid" id="cid" style="font:13px trebuchet ms;" class="search-selectbox float_left"><option value="0">All Categories</option><option value="453">Mobiles &amp; Tablets</option><option value="85">Computers</option><option value="460">Electronics</option><option value="87">Fashion</option><option value="89">Footwear</option><option value="282">Jewelry &amp; Watches</option><option value="337">Home &amp; Garden</option><option value="368">Home Appliances</option><option value="480">Beauty &amp; Perfumes</option><option value="1332">Health &amp; Nutrition</option><option value="129">Sports &amp; Outdoors</option><option value="1768">Books &amp; Stationery</option><option value="633">Kids &amp; Toys</option><option value="359">Baby</option><option value="628">Auto Accessories</option><option value="180">Gifts &amp; Flowers</option><option value="2051">Everything Else</option></select><div class="search-input"><input type="text" id="q" name="q" value="Search for Item" onfocus="if(this.value=='Search for Item') this.value='';this.select();document.getElementById('search_for').value='top_search_bar'" class="float_left" onblur="if(this.value=='') this.value='Search for Item'"></div><input type="submit" alt="" title="" class="ml_box_searchmain_buttonnn"><input type="hidden" name="dispatch" value="products.search">
+
+</form>
+
+<script>
+  function check_blank()
+  {
+  	  var qitem = document.getElementById('q').value;
+	  if(qitem=='Search for Item' || jQuery.trim(qitem)=='')
+	  {
+		  alert('Please Enter A Item');
+		  return false;
+	  }
+	  else
+	  {
+		  return true;
+	  }
+  }
+
+  jQuery(document).ready(function($){
+  	
+	$("#q").autocomplete({
+		source: "autosuggest.php",
+		minLength: 1,
+		select: function(event, ui) {
+	    if(ui.item){
+	        $('#q').val(ui.item.value);
+	        $('#cid').val($('#cid').val()); 
+	    }
+	    	$('#search_form').submit();
+		}
+	});
+	
+	$["ui"]["autocomplete"].prototype["_renderItem"] = function( ul, item) {
+            return $( "<li></li>" )
+            .data( "item.autocomplete", item )
+            .append( $( "<a></a>" ).html( item.label ) )
+            .appendTo( ul );
+        };
+
+  });
+
+
+
 </script>
-</li>
-          <!--<li class="support"> 
-          	
-            <span class="callblue left">-->
-            
-            <!--<img class="float_left" src="images/skin/phoneicon.png" align="texttop" /> <span style="float:right; font:bold 18px arial; margin-right:0px; letter-spacing: 0.5px;">0124-441 4888</span>
-<div style="float: right; text-align:right; font: 9px/9px verdana; color: #666; margin-top: 1px; margin-right:0px;">
-9am - 11pm, Mon-Sat<br>
-10am - 6pm, Sun
-</div>-->
-           <!-- <a href="http://www.shopclues.com/index.php?dispatch=write_to_us.add" class="supemail">
-            <span style="background:url(https://images.shopclues.com/images/skin/bg_home_customersupport.gif) 0px 2px no-repeat; height:16px; padding:0 0 0 19px; margin-top:0px;
-float: left;
-clear: both;
-width: 105px; text-align:right;">Customer Support</span>
-            </a>
-            
-            </span>
-         </li>-->
-          <li class="support"> 
-        <span class="callblue left">
-        
-        <img class="float_left" src="images/skin/phoneicon.png" align="texttop"> <span style="float:right; font:bold 18px arial; margin-right:0px; letter-spacing: 0.5px;">0124-441 4888</span>
-<div style="float: right; text-align:right; font: 9px/9px verdana; color: #666; margin-top: 1px; margin-right:0px;">
-9am - 11pm, Mon-Sat<br>
-10am - 6pm, Sun
-</div>
-        <a href="http://www.shopclues.com/help.html" style="margin-right:0; clear:both; border-left:1px solid #bbb; padding-left:8px; margin-left:8px;" class="supemail">
-        Help
-        </a>
-        <!--<a href="http://www.shopclues.com/index.php?dispatch=write_to_us.add" style="margin-right:0;" class="supemail"> -->
-        <a href="http://www.shopclues.com/index.php?dispatch=order_lookup.form_order&amp;x=y" style="margin-right:0;" class="supemail">
-        <span style="background:url(https://images.shopclues.com/images/skin/bg_home_customersupport.gif) 0px 2px no-repeat; height:16px; padding:0 0 0 19px; margin-top:0px;
-float: left;
-clear: both;
-width: 105px; text-align:right;">Customer Support</span>
-        </a>
 
-        
-        </span>
-      </li>
-                
-    </ul>
+    </div>
+    
+    
+    <div class="box_customersupport"><style type="text/css">
+/*#sc_news{border-top-left-radius: 10px; border-top-right-radius:10px;}
+body{background:url(http://cdn.shopclues.com/images/banners/icons/bg_top_body_bg1.gif) no-repeat center 0 fixed; min-height:100%; height:100%; position:relative; padding-top:15px;}
+.footer_execpt_chckout{background:url(http://cdn.shopclues.com/images/banners/icons/bg_bottom_body_bg1.png) no-repeat center bottom ; padding-bottom:47px;}*/
+.ml_box_containermain
+{
+background-color:#fff;
+}
+#content
+{
+background-color:#fff;
+}
+
+</style>
+
+
+<span style="float:right; font:18px trebuchet ms; margin-right:0px; color:#2566b2; width:100%;">0124-441 4888</span>
+<div style="float: right; text-align:right; font: 9px/9px verdana; color: #666; margin-top: 1px; margin-right:0px; width:100%;">
+9am - 11pm, Mon-Sat<br>
+10am - 6pm, Sun
+</div></div>
+
+
+    
+    
+    </div>
         <!--_user_secure_payment_header-->
           </div>
   <div style="clear:both"></div>
@@ -574,61 +384,79 @@ width: 105px; text-align:right;">Customer Support</span>
     <!--Box Main -->
   <div class="ml_containermain">
     <div class="ml_box_containermain">
-  
+
+	     
     
-    <div class="clearboth"></div>
-    <!--by ankur to hide top bar on checkout-->
-              <div class="box_topmenu">         <ul id="hmenu" class="nav_topmenu">
-          <li><a href="index.php" title="Home" style="padding:13px 10px;"><img alt="Home" src="images/home_icon.png"></a></li>
-          
-<li> <a href="/48-hrs-sales.html"><div class="nav_topmenu_label"> 48 hrs Sales </div></a><div class="clearboth"></div> </li><li> <a href="/mobiles.html"><div class="nav_topmenu_label"> Mobiles &amp; Tablets </div></a><div class="clearboth"></div><div class="box_topsubmenu box_submenu_background_top "><div class="box_topsubmenu_Column"><ul class="nav_topsubmenu"><li> <a href="/mobiles/samsung-special.html"><div class="nav_topsubmenu_label">Samsung Special</div><div class="nav_topsubmenu_iconnew"></div> </a> <a href="/mobiles/bsnl-tab-special.html"><div class="nav_topsubmenu_label">BSNL Tablets Special</div><div class="nav_topsubmenu_iconnew"></div> </a> <a href="/mobiles/mobile-phones.html"><div class="nav_topsubmenu_label">Mobile Phones</div><div class="nav_topsubmenu_bulletCategory"></div> </a> <ul class="nav_topsubmenu_category"><li> <a href="/mobiles/mobile-phones/feature-phones.html">Feature Phones</a></li><li> <a href="/mobiles/mobile-phones/mobilephones.html">Business &amp; Smart Phones</a></li><li> <a href="/mobiles/mobile-phones/entry-level-phones.html">Entry Level Phones</a></li><li> <a href="/mobiles/mobile-phones/multi-sim-phones.html">Multi-Sim Phones</a></li><li> <a href="/mobiles/mobile-phones/cdma-phones.html">CDMA Phones</a></li></ul><a href="/mobiles/tablet-en.html"><div class="nav_topsubmenu_label">Tablets</div> </a> <a href="/mobiles/mobile-accessories-en-2.html"><div class="nav_topsubmenu_label">Mobile &amp; Tablet Accessories</div><div class="nav_topsubmenu_bulletCategory"></div> </a> <ul class="nav_topsubmenu_category"><li> <a href="/mobiles/mobile-accessories-en-2/memory-cards-en.html">MicroSD Cards</a></li><li> <a href="/mobiles/mobile-accessories-en-2/battery-and-chargers.html">Adaptor &amp; Cables</a></li><li> <a href="/mobiles/mobile-accessories-en-2/battery-and-charges.html">Chargers</a></li><li> <a href="/mobiles/mobile-accessories-en-2/screen-protectors.html">Screen Protectors</a></li><li> <a href="/mobiles/mobile-accessories-en-2/bluetooth.html">Bluetooth Headset</a></li><li> <a href="/mobiles/mobile-accessories-en-2/mobile-and-tablet-antivirus.html">Mobile &amp; Tablet Antivirus</a></li><li> <a href="/mobiles/mobile-accessories-en-2/case-and-cover.html">Case &amp; Cover</a></li><li> <a href="/mobiles/mobile-accessories-en-2.html" class="nav_topsubmenu_category_more">More...</a> </li></ul> </li></ul></div><div class="box_topsubmenuBrand"><h3 class="box_topsubmenuBrand_heading">Popular Brands</h3><ul class="box_topsubmenuBrand_brand"><li><a href="/mobiles.html?subcats=Y&amp;features_hash%5B0%5D=9.209">Samsung</a></li><li><a href="/mobiles.html?subcats=Y&amp;features_hash%5B0%5D=9.2933">HTC</a></li><li><a href="/mobiles.html?subcats=Y&amp;features_hash%5B0%5D=9.1132">Apple</a></li><li><a href="/mobiles.html?subcats=Y&amp;features_hash%5B0%5D=9.4857">Blackberry</a></li><li><a href="/mobiles.html?subcats=Y&amp;features_hash%5B0%5D=9.1644">Nokia</a></li><li><a href="/mobiles.html?subcats=Y&amp;features_hash%5B0%5D=9.207">Sony</a></li><li><a href="/mobiles.html?subcats=Y&amp;features_hash%5B0%5D=9.212">LG</a></li><li><a href="/mobiles.html?subcats=Y&amp;features_hash%5B0%5D=9.653">Zync</a></li><li><a href="/mobiles.html?subcats=Y&amp;features_hash%5B0%5D=9.223840">Karbonn</a></li><li><a href="/mobiles.html?subcats=Y&amp;features_hash%5B0%5D=9.1788">Sandisk</a></li><li><a href="/mobiles.html?subcats=Y&amp;features_hash%5B0%5D=9.5100">Transcend</a></li><li><a href="/mobiles.html?subcats=Y&amp;features_hash%5B0%5D=9.1779">Belkin</a></li><li><a href="/mobiles.html?subcats=Y&amp;features_hash%5B0%5D=9.7133">Strontium</a></li><li><a href="/mobiles.html?subcats=Y&amp;features_hash%5B0%5D=9.5400">Plantronics</a></li><li><a href="/mobiles.html?subcats=Y&amp;features_hash%5B0%5D=9.2320">Jabra</a></li></ul></div><!--Category Image --><!-- <div class="float_left"><img src="/images/detailed/73/mobile.jpg" /></div> --><!--End Category Image --></div> </li><li> <a href="/computers.html"><div class="nav_topmenu_label"> Computers </div></a><div class="clearboth"></div><div class="box_topsubmenu box_submenu_background_top "><div class="box_topsubmenu_Column"><ul class="nav_topsubmenu"><li> <a href="/computers/laptop-sale-en-2.html"><div class="nav_topsubmenu_label">Laptop Sale</div><div class="nav_topsubmenu_iconnew"></div><div class="nav_topsubmenu_bulletCategory"></div> </a> <ul class="nav_topsubmenu_category"><li> <a href="/computers/laptop-sale-en-2/flat-rs.500-off-en-2-3-4-5-6-7.html">Flat Rs.500 Off</a></li><li> <a href="/computers/laptop-sale-en-2/flat-rs.750-off.html">Flat Rs.750 Off</a></li><li> <a href="/computers/laptop-sale-en-2/flat-rs.1000-off-en-2-3-4-5-6-7-8.html">Flat Rs.1000 Off</a></li></ul><a href="/computers/special-freebies-on-laptop.html"><div class="nav_topsubmenu_label">Special Freebies on Laptop</div><div class="nav_topsubmenu_iconnew"></div> </a> <a href="/computers/laptops.html"><div class="nav_topsubmenu_label">Laptops</div> </a> <a href="/computers/desktops.html"><div class="nav_topsubmenu_label">Desktops</div> </a> <a href="/computers/category-568.html"><div class="nav_topsubmenu_label">Accessories</div><div class="nav_topsubmenu_bulletCategory"></div> </a> <ul class="nav_topsubmenu_category"><li> <a href="/computers/category-568/category-548.html">Speakers</a></li><li> <a href="/computers/category-568/category-549.html">Web Cams</a></li><li> <a href="/computers/category-568/category-491.html">Mouse</a></li><li> <a href="/computers/category-568/mouse-pads.html">Mouse Pads</a></li><li> <a href="/computers/category-568/category-1443.html">Adapters</a></li><li> <a href="/computers/category-568/category-665.html">Battery </a></li><li> <a href="/computers/category-568/category-457.html">UPS</a></li><li> <a href="/computers/category-568.html" class="nav_topsubmenu_category_more">More...</a> </li></ul> </li></ul></div><div class="box_topsubmenu_Column"><ul class="nav_topsubmenu"><li><a href="/computers/monitors.html"><div class="nav_topsubmenu_label">Monitors</div></a>  </li><li><a href="/computers/memory-devices.html"><div class="nav_topsubmenu_label">Memory Devices</div><div class="nav_topsubmenu_bulletCategory"></div></a> <ul class="nav_topsubmenu_category"><li> <a href="/computers/memory-devices/pen-drives.html">Pen Drive</a></li><li> <a href="/computers/memory-devices/hard-drives.html">External/Portable Hard Disk</a></li><li> <a href="/computers/memory-devices/strontium-special.html">Strontium Special</a></li></ul> </li><li><a href="/computers/software.html"><div class="nav_topsubmenu_label">Software</div><div class="nav_topsubmenu_bulletCategory"></div></a> <ul class="nav_topsubmenu_category"><li> <a href="/computers/software/antivirus.html">Antivirus</a></li><li> <a href="/computers/software/office-graphics-and-multimedia.html">Office, Graphics &amp; Multimedia</a></li><li> <a href="/computers/software/operating-system-en.html">Operating System</a></li><li> <a href="/computers/software/utility-en.html">Utility</a></li></ul> </li><li><a href="/computers/printers-and-ink.html"><div class="nav_topsubmenu_label">Printers &amp; Scanners</div><div class="nav_topsubmenu_bulletCategory"></div></a> <ul class="nav_topsubmenu_category"><li> <a href="/computers/printers-and-ink/printers.html">Printers</a></li><li> <a href="/computers/printers-and-ink/inks.html">Inks</a></li><li> <a href="/computers/printers-and-ink/scanners.html">Scanners</a></li></ul> </li><li><a href="/computers/network-and-communications.html"><div class="nav_topsubmenu_label">Network &amp; Communications</div><div class="nav_topsubmenu_bulletCategory"></div></a> <ul class="nav_topsubmenu_category"><li> <a href="/computers/network-and-communications/huawei-special.html">Huawei Special</a></li><li> <a href="/computers/network-and-communications/data-card.html">Data Card</a></li><li> <a href="/computers/network-and-communications/bridges-routers-gateways.html">Routers</a></li><li> <a href="/computers/network-and-communications/modems-en.html">Modems</a></li><li> <a href="/computers/network-and-communications/network-hubs-and-switches.html">Switches</a></li><li> <a href="/computers/network-and-communications/access-points.html">Access Points</a></li><li> <a href="/computers/network-and-communications/category-608.html">Cables</a></li><li> <a href="/computers/network-and-communications/wireless-adapters.html">Wireless Adapters</a></li><li> <a href="/computers/network-and-communications/pc-card-ethernet.html">Others</a></li></ul> </li><li> <a href="/computers.html" class="nav_topsubmenu_more">More...</a> </li></ul></div><div class="box_topsubmenuBrand"><h3 class="box_topsubmenuBrand_heading">Popular Brands</h3><ul class="box_topsubmenuBrand_brand"><li><a href="/computers.html?subcats=Y&amp;features_hash%5B0%5D=9.1132">Apple</a></li><li><a href="/computers.html?subcats=Y&amp;features_hash%5B0%5D=9.203">Dell</a></li><li><a href="/computers.html?subcats=Y&amp;features_hash%5B0%5D=9.65937">HP</a></li><li><a href="/computers.html?subcats=Y&amp;features_hash%5B0%5D=9.5873">Fujitsu</a></li><li><a href="/computers.html?subcats=Y&amp;features_hash%5B0%5D=9.62952">Sony</a></li><li><a href="/computers.html?subcats=Y&amp;features_hash%5B0%5D=9.1764">Western Digital</a></li><li><a href="/computers.html?subcats=Y&amp;features_hash%5B0%5D=9.1777">Seagate</a></li><li><a href="/computers.html?subcats=Y&amp;features_hash%5B0%5D=9.5111">Moser Baer</a></li><li><a href="/computers.html?subcats=Y&amp;features_hash%5B0%5D=9.5100">Transcend</a></li><li><a href="/computers.html?subcats=Y&amp;features_hash%5B0%5D=9.1779">Belkin</a></li><li><a href="/computers.html?subcats=Y&amp;features_hash%5B0%5D=9.51801">Headturnerz</a></li><li><a href="/computers.html?subcats=Y&amp;features_hash%5B0%5D=9.5301">Norton</a></li><li><a href="/computers.html?subcats=Y&amp;features_hash%5B0%5D=9.1585">Kaspersky</a></li><li><a href="/computers.html?subcats=Y&amp;features_hash%5B0%5D=9.1647">TrustPort</a></li><li><a href="/computers.html?subcats=Y&amp;features_hash%5B0%5D=9.50698">McAfee</a></li></ul></div><!--Category Image --><!-- <div class="float_left"><img src="/images/detailed/73/Computers.jpg" /></div> --><!--End Category Image --></div> </li><li> <a href="/electronics.html"><div class="nav_topmenu_label"> Electronics </div></a><div class="clearboth"></div><div class="box_topsubmenu box_submenu_background_top "><div class="box_topsubmenu_Column"><ul class="nav_topsubmenu"><li> <a href="/electronics/tv-special.html"><div class="nav_topsubmenu_label">Big TV Sale</div><div class="nav_topsubmenu_bulletCategory"></div> </a> <ul class="nav_topsubmenu_category"><li> <a href="/electronics/tv-special/flat-rs.500-off-en-2-3-4.html">Flat Rs.2000 Off</a></li><li> <a href="/electronics/tv-special/flat-rs.1000-off-en-2-3-4-5.html">Flat Rs.1000 Off</a></li><li> <a href="/electronics/tv-special/flat-rs.-1500-off.html">Flat Rs. 1500 Off</a></li></ul><a href="/electronics/tvs.html"><div class="nav_topsubmenu_label">TVs</div><div class="nav_topsubmenu_bulletCategory"></div> </a> <ul class="nav_topsubmenu_category"><li> <a href="/electronics/tvs/lcd.html">LCD</a></li><li> <a href="/electronics/tvs/led.html">LED</a></li><li> <a href="/electronics/tvs/plasma.html">Plasma</a></li><li> <a href="/electronics/tvs/dth.html">DTH</a></li><li> <a href="/electronics/tvs/tv-accessories.html">TV Accessories</a></li></ul><a href="/electronics/home-video.html"><div class="nav_topsubmenu_label">Home Video</div><div class="nav_topsubmenu_bulletCategory"></div> </a> <ul class="nav_topsubmenu_category"><li> <a href="/electronics/home-video/dvd-players.html">DVD Players</a></li><li> <a href="/electronics/home-video/media-players-en.html"> Media Players</a></li></ul><a href="/electronics/home-audio.html"><div class="nav_topsubmenu_label">Home Audio</div><div class="nav_topsubmenu_bulletCategory"></div> </a> <ul class="nav_topsubmenu_category"><li> <a href="/electronics/home-audio/home-theatres.html">Home Theaters</a></li><li> <a href="/electronics/home-audio/music-system.html">Music Systems</a></li><li> <a href="/electronics/home-audio/speakers-en-2-3-4.html">Speakers</a></li><li> <a href="/electronics/home-audio/fm-radios.html">FM Radios</a></li></ul><a href="/electronics/ipods-and-sounddocks.html"><div class="nav_topsubmenu_label">Ipods &amp; SoundDocks</div><div class="nav_topsubmenu_bulletCategory"></div> </a> <ul class="nav_topsubmenu_category"><li> <a href="/electronics/ipods-and-sounddocks/ipods.html">Ipods</a></li><li> <a href="/electronics/ipods-and-sounddocks/sounddocks.html">SoundDocks</a></li><li> <a href="/electronics/ipods-and-sounddocks/ipod-accessories.html">Ipod Accessories</a></li></ul> </li></ul></div><div class="box_topsubmenu_Column"><ul class="nav_topsubmenu"><li><a href="/electronics/mp3-and-mp4-players.html"><div class="nav_topsubmenu_label">Mp3 &amp; Mp4 Players</div><div class="nav_topsubmenu_bulletCategory"></div></a> <ul class="nav_topsubmenu_category"><li> <a href="/electronics/mp3-and-mp4-players/mp3-players.html">Mp3 Players</a></li><li> <a href="/electronics/mp3-and-mp4-players/mp4-video-mp3-players.html">Mp4(Video) Players</a></li></ul> </li><li><a href="/electronics/headset-and-headphones.html"><div class="nav_topsubmenu_label">Earphones &amp; Headphones</div></a>  </li><li><a href="/electronics/electronics-accessories.html"><div class="nav_topsubmenu_label">Electronic Accessories</div><div class="nav_topsubmenu_bulletCategory"></div></a> <ul class="nav_topsubmenu_category"><li> <a href="/electronics/electronics-accessories/cables-and-connectors.html">Cables &amp; Connectors</a></li><li> <a href="/electronics/electronics-accessories/splitters-and-converters.html">Splitters &amp; Converters</a></li><li> <a href="/electronics/electronics-accessories/universal-remote.html">Universal Remote</a></li></ul> </li><li><a href="/electronics/telephones.html"><div class="nav_topsubmenu_label">Telephones</div><div class="nav_topsubmenu_bulletCategory"></div></a> <ul class="nav_topsubmenu_category"><li> <a href="/electronics/telephones/corded.html">Corded</a></li><li> <a href="/electronics/telephones/cordless.html">Cordless</a></li></ul> </li><li><a href="/electronics/musical-instruments-en.html"><div class="nav_topsubmenu_label">Musical Instruments</div></a>  </li><li> <a href="/electronics.html" class="nav_topsubmenu_more">More...</a> </li></ul></div><div class="box_topsubmenuBrand"><h3 class="box_topsubmenuBrand_heading">Popular Brands</h3><ul class="box_topsubmenuBrand_brand"><li><a href="/electronics.html?subcats=Y&amp;features_hash%5B0%5D=9.209">Samsung</a></li><li><a href="/electronics.html?subcats=Y&amp;features_hash%5B0%5D=9.67143">LG</a></li><li><a href="/electronics.html?subcats=Y&amp;features_hash%5B0%5D=9.207">Sony</a></li><li><a href="/electronics.html?subcats=Y&amp;features_hash%5B0%5D=9.1780">Philips</a></li><li><a href="/electronics.html?subcats=Y&amp;features_hash%5B0%5D=9.1779">Belkin</a></li><li><a href="/electronics.html?subcats=Y&amp;features_hash%5B0%5D=9.1069">Panasonic</a></li><li><a href="/electronics.html?subcats=Y&amp;features_hash%5B0%5D=9.5164">Toshiba</a></li><li><a href="/electronics.html?subcats=Y&amp;features_hash%5B0%5D=9.19709">JBL</a></li><li><a href="/electronics.html?subcats=Y&amp;features_hash%5B0%5D=9.19985">Harman Kardon</a></li><li><a href="/electronics.html?subcats=Y&amp;features_hash%5B0%5D=9.1132">Apple</a></li><li><a href="/electronics.html?subcats=Y&amp;features_hash%5B0%5D=9.2362">MapmyIndia</a></li><li><a href="/electronics.html?subcats=Y&amp;features_hash%5B0%5D=9.2765">Casio</a></li><li><a href="/electronics.html?subcats=Y&amp;features_hash%5B0%5D=9.1764">Western Digital</a></li><li><a href="/electronics.html?subcats=Y&amp;features_hash%5B0%5D=9.10145">Mitashi</a></li><li><a href="/electronics.html?subcats=Y&amp;features_hash%5B0%5D=9.211">Creative</a></li></ul></div><!--Category Image --><!-- <div class="float_left"><img src="/images/detailed/73/Electronics.jpg" /></div> --><!--End Category Image --></div> </li><li> <a href="/digital-camera-en.html"><div class="nav_topmenu_label"> Cameras  </div></a><div class="clearboth"></div><div class="box_topsubmenu box_submenu_background_top  box_topsubmenu_rightAlignLastFour"><div class="box_topsubmenu_Column"><ul class="nav_topsubmenu"><li> <a href="/digital-camera-en/digital-camera.html"><div class="nav_topsubmenu_label">Point &amp; Shoot </div> </a> <a href="/digital-camera-en/mirrorless-cameras.html"><div class="nav_topsubmenu_label">Mirrorless</div> </a> <a href="/digital-camera-en/digital-slr.html"><div class="nav_topsubmenu_label">DSLR</div> </a> <a href="/digital-camera-en/camcorder.html"><div class="nav_topsubmenu_label">Camcorder</div> </a> <a href="/digital-camera-en/hidden-cameras.html"><div class="nav_topsubmenu_label">Hidden Cameras</div> </a>  </li></ul></div><div class="box_topsubmenu_Column"><ul class="nav_topsubmenu"><li><a href="/digital-camera-en/digital-photo-frame.html"><div class="nav_topsubmenu_label">Digital Photo Frame</div></a>  </li><li><a href="/digital-camera-en/binocular.html"><div class="nav_topsubmenu_label">Binocular</div></a>  </li><li><a href="/digital-camera-en/camera-accessories.html"><div class="nav_topsubmenu_label">Camera Accessories</div><div class="nav_topsubmenu_bulletCategory"></div></a> <ul class="nav_topsubmenu_category"><li> <a href="/digital-camera-en/camera-accessories/memory-cards.html">Memory Cards</a></li><li> <a href="/digital-camera-en/camera-accessories/tripods.html">Tripods</a></li><li> <a href="/digital-camera-en/camera-accessories/camera-lens.html">Lens</a></li><li> <a href="/digital-camera-en/camera-accessories/filter.html">Filter</a></li><li> <a href="/digital-camera-en/camera-accessories/battery-and-charger.html">Battery &amp; Charger </a></li><li> <a href="/digital-camera-en/camera-accessories/flash.html">Flash </a></li><li> <a href="/digital-camera-en/camera-accessories/bag-and-cases.html">Bag &amp; Cases</a></li><li> <a href="/digital-camera-en/camera-accessories/adaptor.html">Adaptor </a></li><li> <a href="/digital-camera-en/camera-accessories/connecting-cable.html">Connecting Cable </a></li><li> <a href="/digital-camera-en/camera-accessories/screen-protectors-en.html">Screen Protectors </a></li></ul> </li></ul></div><div class="box_topsubmenuBrand"><h3 class="box_topsubmenuBrand_heading">Popular Brands</h3><ul class="box_topsubmenuBrand_brand"><li><a href="/digital-camera-en.html?subcats=Y&amp;features_hash%5B0%5D=9.1068">Nikon</a></li><li><a href="/digital-camera-en.html?subcats=Y&amp;features_hash%5B0%5D=9.733">Canon</a></li><li><a href="/digital-camera-en.html?subcats=Y&amp;features_hash%5B0%5D=9.207">Sony</a></li><li><a href="/digital-camera-en.html?subcats=Y&amp;features_hash%5B0%5D=9.1066">FujiFilm</a></li><li><a href="/digital-camera-en.html?subcats=Y&amp;features_hash%5B0%5D=9.1131">Olympus</a></li><li><a href="/digital-camera-en.html?subcats=Y&amp;features_hash%5B0%5D=9.1780">Philips</a></li><li><a href="/digital-camera-en.html?subcats=Y&amp;features_hash%5B0%5D=9.8090">Slik</a></li><li><a href="/digital-camera-en.html?subcats=Y&amp;features_hash%5B0%5D=9.8077">Caselogic</a></li><li><a href="/digital-camera-en.html?subcats=Y&amp;features_hash%5B0%5D=9.8083">Lowepro</a></li><li><a href="/digital-camera-en.html?subcats=Y&amp;features_hash%5B0%5D=9.8092">Tamrac</a></li><li><a href="/digital-camera-en.html?subcats=Y&amp;features_hash%5B0%5D=9.8087">National Geographic</a></li><li><a href="/digital-camera-en.html?subcats=Y&amp;features_hash%5B0%5D=9.8093">Vanguard</a></li><li><a href="/digital-camera-en.html?subcats=Y&amp;features_hash%5B0%5D=9.32823">Thinktank</a></li><li><a href="/digital-camera-en.html?subcats=Y&amp;features_hash%5B0%5D=9.8079">Hoya</a></li><li><a href="/digital-camera-en.html?subcats=Y&amp;features_hash%5B0%5D=9.1788">Sandisk</a></li></ul></div><!--Category Image --><!-- <div class="float_left"><img src="/images/detailed/73/Camera13407143714fe9ad83a92a6.jpg" /></div> --><!--End Category Image --></div> </li><li> <a href="/fashion.html"><div class="nav_topmenu_label"> Fashion </div></a><div class="clearboth"></div><div class="box_topsubmenu box_submenu_background_top  box_topsubmenu_rightAlignLastFour"><div class="box_topsubmenu_Column"><ul class="nav_topsubmenu"><li> <a href="/fashion/nightwear-special.html"><div class="nav_topsubmenu_label">Nightwear Special</div><div class="nav_topsubmenu_iconnew"></div> </a> <a href="/fashion/dimoda-sale.html"><div class="nav_topsubmenu_label">Dimoda Sale</div><div class="nav_topsubmenu_iconnew"></div> </a> <a href="/fashion/womens-apparel.html"><div class="nav_topsubmenu_label">Women's Apparel</div><div class="nav_topsubmenu_bulletCategory"></div> </a> <ul class="nav_topsubmenu_category"><li> <a href="/fashion/womens-apparel/tops.html">Tops</a></li><li> <a href="/fashion/womens-apparel/kurti.html">Kurta/Kurti</a></li><li> <a href="/fashion/womens-apparel/tunics.html">Tunics</a></li><li> <a href="/fashion/womens-apparel/t-shirts-en-2-3-4.html">T-shirts</a></li><li> <a href="/fashion/womens-apparel/jeans.html">Jeans</a></li><li> <a href="/fashion/womens-apparel/skirts.html">Skirts</a></li><li> <a href="/fashion/womens-apparel/bottoms.html">Bottoms</a></li><li> <a href="/fashion/womens-apparel.html" class="nav_topsubmenu_category_more">More...</a> </li></ul><a href="/fashion/mens-apparel.html"><div class="nav_topsubmenu_label">Men's Apparel</div><div class="nav_topsubmenu_bulletCategory"></div> </a> <ul class="nav_topsubmenu_category"><li> <a href="/fashion/mens-apparel/formal-shirts.html">Shirts</a></li><li> <a href="/fashion/mens-apparel/t-shirts-en.html">T-Shirts</a></li><li> <a href="/fashion/mens-apparel/pants-en.html">Trousers</a></li><li> <a href="/fashion/mens-apparel/jeans-en.html">Jeans</a></li><li> <a href="/fashion/mens-apparel/ethnic-wear-en.html">Ethnic Wear</a></li><li> <a href="/fashion/mens-apparel/shorts.html">Shorts</a></li><li> <a href="/fashion/mens-apparel/gym-wear-en.html">Gym Wear</a></li><li> <a href="/fashion/mens-apparel.html" class="nav_topsubmenu_category_more">More...</a> </li></ul><a href="/fashion/winterwear-en.html"><div class="nav_topsubmenu_label">Winterwear</div><div class="nav_topsubmenu_bulletCategory"></div> </a> <ul class="nav_topsubmenu_category"><li> <a href="/fashion/winterwear-en/apparel-en-2.html">Apparel </a></li><li> <a href="/fashion/winterwear-en/winter-accessories.html">Winter Accessories</a></li></ul> </li></ul></div><div class="box_topsubmenu_Column"><ul class="nav_topsubmenu"><li><a href="/fashion/kids-and-baby.html"><div class="nav_topsubmenu_label">Kid's Apparel</div><div class="nav_topsubmenu_bulletCategory"></div></a> <ul class="nav_topsubmenu_category"><li> <a href="/fashion/kids-and-baby/girls-apparel.html">Girls Apparel</a></li><li> <a href="/fashion/kids-and-baby/boys-apparel.html">Boys Apparel</a></li></ul> </li><li><a href="/fashion/handbags.html"><div class="nav_topsubmenu_label">Bags</div><div class="nav_topsubmenu_bulletCategory"></div></a> <ul class="nav_topsubmenu_category"><li> <a href="/fashion/handbags/handbags-en.html">Handbags</a></li><li> <a href="/fashion/handbags/crossbody-bags.html">Crossbody Bags</a></li><li> <a href="/fashion/handbags/totes.html">Totes</a></li><li> <a href="/fashion/handbags/luggage.html">Luggage</a></li><li> <a href="/fashion/handbags/wallets.html">Wallets</a></li><li> <a href="/fashion/handbags/clutch.html">Clutch</a></li></ul> </li><li><a href="/fashion/fashion-and-accessories.html"><div class="nav_topsubmenu_label">Accessories</div><div class="nav_topsubmenu_bulletCategory"></div><div class="nav_topsubmenu_iconnew"></div></a> <ul class="nav_topsubmenu_category"><li> <a href="/fashion/fashion-and-accessories/socks.html">Socks</a></li><li> <a href="/fashion/fashion-and-accessories/sunglasses.html">Sunglasses</a></li><li> <a href="/fashion/fashion-and-accessories/belts.html">Belts</a></li><li> <a href="/fashion/fashion-and-accessories/tie.html">Tie</a></li><li> <a href="/fashion/fashion-and-accessories/key-chains.html">Key Chains</a></li><li> <a href="/fashion/fashion-and-accessories/cufflinks-en.html">Cufflinks</a></li><li> <a href="/fashion/fashion-and-accessories/handkerchiefs.html">Handkerchiefs</a></li><li> <a href="/fashion/fashion-and-accessories/head-gear.html">Head Gear</a></li><li> <a href="/fashion/fashion-and-accessories/scarve.html">Scarves</a></li></ul> </li><li><a href="/fashion/shoes.html"><div class="nav_topsubmenu_label">Shoes</div><div class="nav_topsubmenu_bulletCategory"></div></a> <ul class="nav_topsubmenu_category"><li> <a href="/fashion/shoes/mens-shoes.html">Men's Shoes</a></li><li> <a href="/fashion/shoes/womens-shoes.html">Women's Shoes</a></li><li> <a href="/fashion/shoes/shoe-care-and-accessories.html">Shoe Care &amp; Accessories</a></li></ul> </li><li><a href="/fashion/costumes.html"><div class="nav_topsubmenu_label">Costumes</div><div class="nav_topsubmenu_iconnew"></div></a>  </li><li> <a href="/fashion.html" class="nav_topsubmenu_more">More...</a> </li></ul></div><div class="box_topsubmenuBrand"><h3 class="box_topsubmenuBrand_heading">Popular Brands</h3><ul class="box_topsubmenuBrand_brand"><li><a href="/fashion.html?subcats=Y&amp;features_hash%5B0%5D=9.6567">YepMe</a></li><li><a href="/fashion.html?subcats=Y&amp;features_hash%5B0%5D=9.1841">Sri Jagdamba Pearls</a></li><li><a href="/fashion.html?subcats=Y&amp;features_hash%5B0%5D=9.1782">Via Spiga</a></li><li><a href="/fashion.html?subcats=Y&amp;features_hash%5B0%5D=9.11574">Slazenger</a></li><li><a href="/fashion.html?subcats=Y&amp;features_hash%5B0%5D=9.29981">Horn Ok</a></li><li><a href="/fashion.html?subcats=Y&amp;features_hash%5B0%5D=9.7457">Femella</a></li><li><a href="/fashion.html?subcats=Y&amp;features_hash%5B0%5D=9.1787">Michael Kors</a></li><li><a href="/fashion.html?subcats=Y&amp;features_hash%5B0%5D=9.45941">Orosilber</a></li><li><a href="/fashion.html?subcats=Y&amp;features_hash%5B0%5D=9.26391">Fashos</a></li><li><a href="/fashion.html?subcats=Y&amp;features_hash%5B0%5D=9.26423">MOCAS</a></li><li><a href="/fashion.html?subcats=Y&amp;features_hash%5B0%5D=9.1865">Aeropostale</a></li><li><a href="/fashion.html?subcats=Y&amp;features_hash%5B0%5D=9.8093">Vanguard</a></li><li><a href="/fashion.html?subcats=Y&amp;features_hash%5B0%5D=9.71811">Nautica</a></li><li><a href="/fashion.html?subcats=Y&amp;features_hash%5B0%5D=9.950">Joseph Abboud</a></li><li><a href="/fashion.html?subcats=Y&amp;features_hash%5B0%5D=9.1783">Jessica Simpson Collection</a></li></ul></div><!--Category Image --><!-- <div class="float_left"><img src="/images/detailed/73/Fashion.jpg" /></div> --><!--End Category Image --></div> </li><li> <a href="/jewelry-and-watches.html"><div class="nav_topmenu_label"> Jewelry &amp; Watches </div></a><div class="clearboth"></div><div class="box_topsubmenu box_submenu_background_top  box_topsubmenu_rightAlignLastFour"><div class="box_topsubmenu_Column"><ul class="nav_topsubmenu"><li> <a href="/jewelry-and-watches/akshaya-tritya-special.html"><div class="nav_topsubmenu_label">Akshaya Tritya Special</div><div class="nav_topsubmenu_iconnew"></div> </a> <a href="/jewelry-and-watches/jewelry.html"><div class="nav_topsubmenu_label">Jewelry</div><div class="nav_topsubmenu_bulletCategory"></div> </a> <ul class="nav_topsubmenu_category"><li> <a href="/jewelry-and-watches/jewelry/ear-rings.html">Earrings</a></li><li> <a href="/jewelry-and-watches/jewelry/anklets.html">Anklets</a></li><li> <a href="/jewelry-and-watches/jewelry/pendants.html">Pendants</a></li><li> <a href="/jewelry-and-watches/jewelry/necklace.html">Necklace</a></li><li> <a href="/jewelry-and-watches/jewelry/rings.html">Rings</a></li><li> <a href="/jewelry-and-watches/jewelry/bangles-and-bracelet.html">Bracelets &amp; Bangles</a></li><li> <a href="/jewelry-and-watches/jewelry/nose-rings.html">Nose Rings</a></li><li> <a href="/jewelry-and-watches/jewelry.html" class="nav_topsubmenu_category_more">More...</a> </li></ul><a href="/jewelry-and-watches/watches.html"><div class="nav_topsubmenu_label">Watches</div><div class="nav_topsubmenu_bulletCategory"></div> </a> <ul class="nav_topsubmenu_category"><li> <a href="/jewelry-and-watches/watches/mens.html">Men's</a></li><li> <a href="/jewelry-and-watches/watches/womens-en.html">Women's</a></li><li> <a href="/jewelry-and-watches/watches/unisex.html">Unisex</a></li><li> <a href="/jewelry-and-watches/watches/kids-en-2.html">Kids</a></li><li> <a href="/jewelry-and-watches/watches/couple.html">Couple</a></li></ul><a href="/jewelry-and-watches/coins-en.html"><div class="nav_topsubmenu_label">Coins</div> </a>  </li></ul></div><div class="box_topsubmenuBrand"><h3 class="box_topsubmenuBrand_heading">Popular Brands</h3><ul class="box_topsubmenuBrand_brand"><li><a href="/jewelry-and-watches.html?subcats=Y&amp;features_hash%5B0%5D=9.10150">Titan</a></li><li><a href="/jewelry-and-watches.html?subcats=Y&amp;features_hash%5B0%5D=9.10162">Seiko</a></li><li><a href="/jewelry-and-watches.html?subcats=Y&amp;features_hash%5B0%5D=9.6536">Citizen</a></li><li><a href="/jewelry-and-watches.html?subcats=Y&amp;features_hash%5B0%5D=9.74390">Timex</a></li><li><a href="/jewelry-and-watches.html?subcats=Y&amp;features_hash%5B0%5D=9.57345">Maxima</a></li><li><a href="/jewelry-and-watches.html?subcats=Y&amp;features_hash%5B0%5D=9.52369">Suunto</a></li><li><a href="/jewelry-and-watches.html?subcats=Y&amp;features_hash%5B0%5D=9.2765">Casio</a></li><li><a href="/jewelry-and-watches.html?subcats=Y&amp;features_hash%5B0%5D=9.51789">D'vine</a></li><li><a href="/jewelry-and-watches.html?subcats=Y&amp;features_hash%5B0%5D=9.46136">Erato</a></li><li><a href="/jewelry-and-watches.html?subcats=Y&amp;features_hash%5B0%5D=9.13223">Jpearls</a></li><li><a href="/jewelry-and-watches.html?subcats=Y&amp;features_hash%5B0%5D=9.1796">Jorie Bazaar</a></li><li><a href="/jewelry-and-watches.html?subcats=Y&amp;features_hash%5B0%5D=9.53349">FusionKraft</a></li><li><a href="/jewelry-and-watches.html?subcats=Y&amp;features_hash%5B0%5D=9.66962">Eva Jewels</a></li><li><a href="/jewelry-and-watches.html?subcats=Y&amp;features_hash%5B0%5D=9.60505">Via Mazzini</a></li><li><a href="/jewelry-and-watches.html?subcats=Y&amp;features_hash%5B0%5D=9.64457">Johareez</a></li></ul></div><!--Category Image --><!-- <div class="float_left"><img src="/images/detailed/73/Jewelry.jpg" /></div> --><!--End Category Image --></div> </li><li> <a href="/home-garden.html"><div class="nav_topmenu_label"> Home &amp; Garden </div></a><div class="clearboth"></div><div class="box_topsubmenu box_submenu_background_top  box_topsubmenu_rightAlignLastFour"><div class="box_topsubmenu_Column"><ul class="nav_topsubmenu"><li> <a href="/home-garden/wall-clocks-special.html"><div class="nav_topsubmenu_label">Wall Clocks Special</div><div class="nav_topsubmenu_iconnew"></div> </a> <a href="/home-garden/home-furnishing.html"><div class="nav_topsubmenu_label">Home Furnishing</div><div class="nav_topsubmenu_bulletCategory"></div> </a> <ul class="nav_topsubmenu_category"><li> <a href="/home-garden/home-furnishing/bedsheets.html">Bedsheets</a></li><li> <a href="/home-garden/home-furnishing/cushion-cover-sale.html">Cushions</a></li></ul><a href="/home-garden/home-decor.html"><div class="nav_topsubmenu_label">Home Decor</div><div class="nav_topsubmenu_bulletCategory"></div> </a> <ul class="nav_topsubmenu_category"><li> <a href="/home-garden/home-decor/cushion-covers.html">Cushion Covers</a></li><li> <a href="/home-garden/home-decor/lights.html">Lighting</a></li><li> <a href="/home-garden/home-decor/rugs-door-mats.html">Rugs / Door Mats</a></li><li> <a href="/home-garden/home-decor/artifacts.html">Artifacts</a></li><li> <a href="/home-garden/home-decor/window-treatments.html">Curtains</a></li><li> <a href="/home-garden/home-decor/wall-art.html">Wall Art</a></li><li> <a href="/home-garden/home-decor/photo-frames.html">Photo Frames</a></li><li> <a href="/home-garden/home-decor.html" class="nav_topsubmenu_category_more">More...</a> </li></ul><a href="/home-garden/kitchen-en.html"><div class="nav_topsubmenu_label">Kitchen </div><div class="nav_topsubmenu_bulletCategory"></div> </a> <ul class="nav_topsubmenu_category"><li> <a href="/home-garden/kitchen-en/kitchen-linen.html">Kitchen Linen</a></li><li> <a href="/home-garden/kitchen-en/cookware.html">Cookware</a></li><li> <a href="/home-garden/kitchen-en/kitchen-knives-cutlery.html">Kitchen Knives &amp; Cutlery</a></li><li> <a href="/home-garden/kitchen-en/gas-cooktops.html">Gas Cooktops</a></li><li> <a href="/home-garden/kitchen-en/category-407.html">Kitchen Tools</a></li><li> <a href="/home-garden/kitchen-en/storage-and-organization.html">Storage &amp; Organization </a></li><li> <a href="/home-garden/kitchen-en/kitchen-essentials.html">Kitchen Essentials</a></li></ul><a href="/home-garden/dinning.html"><div class="nav_topsubmenu_label">Dining </div><div class="nav_topsubmenu_bulletCategory"></div> </a> <ul class="nav_topsubmenu_category"><li> <a href="/home-garden/dinning/dinnerware.html">Dinnerware</a></li><li> <a href="/home-garden/dinning/glassware.html">Glassware</a></li><li> <a href="/home-garden/dinning/cups-and-mugs.html">Cups &amp; Mugs</a></li><li> <a href="/home-garden/dinning/tea-sets.html">Tea Sets</a></li><li> <a href="/home-garden/dinning/bar-tools.html">Bar Tools</a></li></ul> </li></ul></div><div class="box_topsubmenu_Column"><ul class="nav_topsubmenu"><li><a href="/home-garden/bath-en.html"><div class="nav_topsubmenu_label">Bath</div><div class="nav_topsubmenu_bulletCategory"></div></a> <ul class="nav_topsubmenu_category"><li> <a href="/home-garden/bath-en/towels-en.html">Towels</a></li><li> <a href="/home-garden/bath-en/bathroom-accessories.html">Bathroom Accessories</a></li></ul> </li><li><a href="/home-garden/bed-en.html"><div class="nav_topsubmenu_label">Bed</div><div class="nav_topsubmenu_bulletCategory"></div></a> <ul class="nav_topsubmenu_category"><li> <a href="/home-garden/bed-en/mattresses.html">Mattresses</a></li><li> <a href="/home-garden/bed-en/bed-linen.html">Bed Linen</a></li><li> <a href="/home-garden/bed-en/blankets-duvets.html">Blankets / Duvets  </a></li><li> <a href="/home-garden/bed-en/space-savers.html">Space Savers</a></li></ul> </li><li><a href="/home-garden/furnishing.html"><div class="nav_topsubmenu_label">Furnishing</div></a>  </li><li><a href="/home-garden/home-utility.html"><div class="nav_topsubmenu_label">Home Utility </div></a>  </li><li><a href="/home-garden/garden.html"><div class="nav_topsubmenu_label">Garden</div></a>  </li><li> <a href="/home-garden.html" class="nav_topsubmenu_more">More...</a> </li></ul></div><div class="box_topsubmenuBrand"><h3 class="box_topsubmenuBrand_heading">Popular Brands</h3><ul class="box_topsubmenuBrand_brand"><li><a href="/home-garden.html?subcats=Y&amp;features_hash%5B0%5D=9.9852">Illuminations</a></li><li><a href="/home-garden.html?subcats=Y&amp;features_hash%5B0%5D=9.6912">Ambest</a></li><li><a href="/home-garden.html?subcats=Y&amp;features_hash%5B0%5D=9.6702">Little India</a></li><li><a href="/home-garden.html?subcats=Y&amp;features_hash%5B0%5D=9.66960">HandloomWala</a></li><li><a href="/home-garden.html?subcats=Y&amp;features_hash%5B0%5D=9.51733">Craftila</a></li><li><a href="/home-garden.html?subcats=Y&amp;features_hash%5B0%5D=9.68034">Goodway</a></li><li><a href="/home-garden.html?subcats=Y&amp;features_hash%5B0%5D=9.1760">Calma</a></li><li><a href="/home-garden.html?subcats=Y&amp;features_hash%5B0%5D=9.78080">Nano9</a></li><li><a href="/home-garden.html?subcats=Y&amp;features_hash%5B0%5D=9.39646">Omada</a></li><li><a href="/home-garden.html?subcats=Y&amp;features_hash%5B0%5D=9.20445">Mortein </a></li><li><a href="/home-garden.html?subcats=Y&amp;features_hash%5B0%5D=9.55400">BD</a></li><li><a href="/home-garden.html?subcats=Y&amp;features_hash%5B0%5D=9.10344">SOLO</a></li><li><a href="/home-garden.html?subcats=Y&amp;features_hash%5B0%5D=9.4024">Biglife</a></li><li><a href="/home-garden.html?subcats=Y&amp;features_hash%5B0%5D=9.54013">3M</a></li><li><a href="/home-garden.html?subcats=Y&amp;features_hash%5B0%5D=9.3401">The Bombay Store</a></li></ul></div><!--Category Image --><!-- <div class="float_left"><img src="/images/detailed/148/sandwitch_maker.gif" /></div> --><!--End Category Image --></div> </li><li><a href="#"><div class="nav_topmenu_label">More...</div></a><div class="clearboth"></div><div class="box_topsubmenu box_topmenu_lastaligntment"><div class="box_topsubmenu_Column"><ul class="nav_topsubmenu"><li><a href="/home-applliances.html"><div class="nav_topsubmenu_label">Home Appliances</div></a></li><li><a href="/health-and-beauty.html"><div class="nav_topsubmenu_label">Beauty &amp; Perfumes</div></a></li><li><a href="/health-and-nutrition.html"><div class="nav_topsubmenu_label">Health &amp; Nutrition</div></a></li><li><a href="/sports-and-outdoors.html"><div class="nav_topsubmenu_label">Sports &amp; Outdoors</div><div class="nav_topmenu_iconnew"></div></a></li><li><a href="/books.html"><div class="nav_topsubmenu_label">Books &amp; Media</div></a></li><li><a href="/kids-and-baby-en.html"><div class="nav_topsubmenu_label">Kids &amp; Toys</div></a></li><li><a href="/video-games.html"><div class="nav_topsubmenu_label">Gaming</div></a></li><li><a href="/car-and-bike-accessories.html"><div class="nav_topsubmenu_label">Auto Accessories</div></a></li><li><a href="/gifts-and-flowers.html"><div class="nav_topsubmenu_label">Gifts &amp; Flowers</div></a></li><li><a href="/pet-supplies.html"><div class="nav_topsubmenu_label">Pet Supplies</div><div class="nav_topmenu_iconnew"></div></a></li></ul></div></div></li> 
-        </ul>
-      </div>
-      <div class="clearboth"></div>
-      <div class="topbluband">
- 	  <ul style="float:left; width:100%;">    	
-        <li class="bndtrust float_left"><a style="font-size:14px; font-weight:normal; color:#fff;" class="ahover_nl" href="bandoftrust.html">Band of Trust</a></li>
+    <div id="content" style="float:left;">
+        <div class="content-helper">           <div class="header"> <table class="fixed-layout" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr valign="top"><td width="100%"><div class="wysiwyg-content">
+<style>
+.box_topmenu ul li a
+{
+padding:10px 9px 16px 9px !important;
+height:8px !important;
+}
+.box_topmenu ul li .hightlighted:hover div
+{
+color:#fff !important;
+}
+.box_topmenu ul li .hightlighted div
+{
+color:#f00f00 !important;
+}
+
+</style>
+<div class="box_topmenu">
+  <div>         <ul id="hmenu" class="nav_topmenu">
+      <li><a href="/" title="Home" style="padding:8px 10px 6px 10px; display:block;"><img alt="Home" src="images/home_icon.png"></a></li>
+<!--<li><a class="hightlighted" href="http://www.shopclues.com/48-hrs-sales.html"><div class="nav_topmenu_label">48hrs Sale</div></a></li>-->
+
+<li><a href="http://www.shopclues.com/fashion/top-fashion-pick.html"><div class="nav_topmenu_label"> Top Fashion Picks
+</div></a></li>
+<li><a href="http://www.shopclues.com/electronics/tv-carnival.html"><div class="nav_topmenu_label">TV Carnival </div></a></li>
+<li><a href="http://www.shopclues.com/computers/laptops-special.html"><div class="nav_topmenu_label">Laptop Special</div></a></li>
+<li><a href="http://www.shopclues.com/health-and-nutrition/healthcare-special.html"><div class="nav_topmenu_label">Healthcare Special</div></a></li>
+<li><a href="http://www.shopclues.com/home-garden/containers-sale.html"><div class="nav_topmenu_label">Container Sale</div></a></li>
+<li><a href="http://www.shopclues.com/home-applliances/geysers-and-heaters-sale.html"><div class="nav_topmenu_label">Geysers &amp; Heaters Sale</div></a></li>
+
+
+
+
+      </ul></div>
+  <div><a href="http://www.shopclues.com/clearance-sale.html" title="" style="padding:3px 5px 0px 10px; float:right"><img alt="Clearance Sale" src="http://cdn.shopclues.com/images/banners/clearncesaleoffer145218.jpg"></a></div>
+</div>
+ <div class="clearboth"></div>
+ <div class="topbluband">
+    <ul style="float:left; width:100%; position:relative;">     
+        <li class="bndtrust float_left">Band of Trust</li>
         <li class="grtsltion float_left"><div class="hp_fav_icon_blue_header"></div><a href="bandoftrust.html">Great Selection</a></li>
         <li class="lowprse float_left"><div class="hp_fav_icon_blue_header"></div><a href="bandoftrust.html">Low Prices</a></li>
         <li class="fstdvry float_left "><div class="hp_fav_icon_blue_header"></div><a href="bandoftrust.html">Fast Delivery</a></li>
-		<li id="fblike_button" class="facebooklike float_right"><iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FShopClues&amp;send=false&amp;layout=button_count&amp;width=95&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=233137156813679" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:95px; height:21px; float:left;" allowtransparency="true"></iframe><a href="https://twitter.com/ShopClues" class="twitter-follow-button float_right" data-show-count="false">Follow Us</a></li>
+		       
         <li class="fstdvry gc_link_header float_right" style="margin:2px 10px 2px 2px;"><a href="/index.php?dispatch=wishlist.view">Wishlist</a></li>
-        <li class="fstdvry gc_link_header float_right" style="margin-right:3px;"><a href="/giftcertificate" class="ahover_nl"><div class="gift_certificate_nl_hp_spt"></div><span style="width: 90px; word-wrap: break-word; line-height: 12px; margin-top: -1px; display:block;">Gift Certificate</span></a></li>
-        <li class="fstdvry float_right" style="padding:2px 1px 2px 0;"><a href="http://shopclues.com/whats-new.html" class="ahover_nl"><div class="whats_new_hp_nl" style="width:15px;"></div><span style="width: 61px; margin-right:8px; word-wrap: break-word; display: block; line-height: 12px; margin-top: 2px;">What's New</span></a></li>
-	</ul>
- </div>
         
-   <!-- end-->
- 
- 
-<script type="text/javascript">
-	//<![CDATA[	
-	//$(document).ready(function() {
-		// create a new date and insert it
-		var EndDate = new Date(2013,04,16,12,56,00);
-		$.countdown('#cat_timer', EndDate);
-	//});	
-	//]]>
-</script>
-      
-      
-      
-            
-       
-      
-    
-      <div id="content" style="float:left;">
-        <div class="content-helper">           <div class="header"> <table class="fixed-layout" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr valign="top"><td><div class="wysiwyg-content">
-<script type="text/javascript">// <![CDATA[
-$('#promotional-banner-text').html("Happy Shopping!&nbsp;");
-// ]]></script>
-</div></td><td width="10"></td><td><div class="wysiwyg-content">
-<script type="text/javascript">// <![CDATA[
-$('#band-of-trust-text').html("<a class=\"no-link-decoration\" href=\"bandoftrust.html\"><b>BAND OF TRUST</b>: Reliable Merchants, Genuine Brands, Great Prices, No Anxiety Shipping</a>");
-// ]]></script>
+        <li class="fstdvry gc_link_header float_right" style="margin-right:3px;">
+        <a href="/giftcertificate" class="ahover_nl">
+        <div class="gift_certificate_nl_hp_spt"></div>
+        <span style="width: 80px; margin-left:25px; word-wrap: break-word; line-height: 12px; margin-top: -1px; display:block;">Gift Certificate</span>
+        </a>
+        </li>
+        
+        <li class="fstdvry float_right" style="padding:2px 1px 2px 0;">
+        <a href="http://shopclues.com/whats-new.html" class="ahover_nl">
+        <div class="whats_new_hp_nl" style="width:15px;"></div>
+        <span style="width: 61px; margin-right:8px; word-wrap: break-word; display: block; line-height: 12px; margin-top: 2px;">What's New</span>
+        </a>
+        </li>
+ </ul>
+ </div>
+
 </div></td></tr></tbody></table> </div>
           <div class="clearboth height_ten"></div>
-                     
+                      <div class="clearboth"></div>
+            
+             
+            
+                       
           <!----> 
           <!--added by wiantech--> 
              
@@ -643,6 +471,7 @@ $('#band-of-trust-text').html("<a class=\"no-link-decoration\" href=\"bandoftrus
                               
              
                     		  
+
 		  
              
                               
@@ -656,7 +485,6 @@ $('#band-of-trust-text').html("<a class=\"no-link-decoration\" href=\"bandoftrus
                               
              
                               
-          
            
                               
            
@@ -681,7 +509,12 @@ $('#band-of-trust-text').html("<a class=\"no-link-decoration\" href=\"bandoftrus
            
                               
            
-                                
+                              
+             
+                    
+             
+                              
+            
                              
            
             
@@ -709,11 +542,15 @@ $('#band-of-trust-text').html("<a class=\"no-link-decoration\" href=\"bandoftrus
 		     
                               
 		   
+                    
+             
                               
-                               <div class="central-column                            ">
+           
+                              
+                               <div class="central-column                                ">
             <div class="central-content"> 
 	<div class="breadcrumbs">
-		<a href="/">Home</a><img src="/skins/basic/customer/images/icons/breadcrumbs_arrow.gif" class="bc-arrow" border="0" alt=">">Privacy Policy
+		<a href="/">Home</a><img src="/skins/basic/customer/images/icons/breadcrumbs_arrow.gif" class="bc-arrow" border="0" alt=">"><span>Privacy Policy</span>
 	</div>
               
 
@@ -721,8 +558,7 @@ $('#band-of-trust-text').html("<a class=\"no-link-decoration\" href=\"bandoftrus
 
 <div class="cm-notification-container"></div>
               
-                               
-                      
+                                    
               
 <div class="wysiwyg-content">
 		
@@ -733,7 +569,7 @@ $('#band-of-trust-text').html("<a class=\"no-link-decoration\" href=\"bandoftrus
 
 
 
-<script>
+<script type="text/javascript">
 function useful_count(id,call_type,controller,obj_id)
 {
    $('#but_'+id).hide();
@@ -852,14 +688,19 @@ $('#add_post_form').submit(function(){
 			$('#review_result').html(fail_message);
 			$('#review_result').fadeIn(5000);	
 			$('#review_result').fadeOut(5000);
-		}
+		}else if(msg == 'character_error'){
+                    var fail_message = '<span style="color:red;">Please make sure your review contains at least 200 characters.</span>';
+			$('#review_result').html(fail_message);
+			$('#review_result').fadeIn(5000);	
+			$('#review_result').fadeOut(5000);
+                    
+                 }
       }
      });
     return false;
 });
 
 </script>
-
 <div class="wysiwyg-content">
 <h1>Overview</h1>
 <p>At ShopClues.com your privacy is very important. We do not publish, sell or rent your personal information to third parties for their marketing purposes without your explicit consent. Please read this privacy policy to learn more about the ways in which we use and protect your personal information.
@@ -938,58 +779,8 @@ Name and address of the entity collecting and retaining Your Information shall b
 <p>In accordance with Information Technology Act 2000 and rules made there under, the name and contact details of the Grievance Officer are published on the Website in <a href="/user-agreement.html">User Agreement</a>.</p>
 
 
-</div><div class="wysiwyg-content">
-<style>
-.div_shop_uni_odr_links{color:#2A2A2A;text-align:center; margin-top:10px; clear:both; font:11px/18px verdana; display:block; padding:5px 8px; border-radius:5px; -moz-border-radius:5px; border:1px solid #ccc; background:#f6f6f6;}
-a.new_link_nl_deals{padding:0 10px; clear:both; display:block; display:block}
-a.new_link_nl_deals:hover{text-decoration:underline}
-.div_shop_uni_odr_links .inner_blk_guides{ width:240px; vertical-align:top; display:inline-block}
-.td_v_align_top_nl_mer_guide{border-right:1px dashed #aaa; vertical-align:top; text-align:left;}
-.td_v_align_top_nl_mer_guide b{padding:0 10px;}
-</style>
-<h4 style="padding-top: 10px; margin-bottom:0; clear: both;">Shopclues University Resources</h4>
-<hr>
-<div style="clear:both;"></div>
-<div class="div_shop_uni_odr_links">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td class="td_v_align_top_nl_mer_guide"><div class="inner_blk_guides"><b>Other Useful Resources </b> 
-<a href="/getting-started.html" class="new_link_nl_deals">Getting Started Guide</a>
-<a href="/product-upload-shopclues.html" class="new_link_nl_deals">Product Upload @ ShopClues.com</a>
-<a href="/merchant-market-obligation.html" style="border:0;" class="new_link_nl_deals">Merchant Marketplace Obligation</a>
-<a href="/how-does-payment-work--shopclues.html" style="border:0;" class="new_link_nl_deals">Understand Services Fee</a><br>
-
-<b style="line-height:11px; padding-bottom:5px; display:block;">Merchant Resources</b> 
-<a href="/merchant-help.html" class="new_link_nl_deals">Frequently Asked Question</a>
-<a href="/merchant-tools.html" class="new_link_nl_deals">Merchant Tools</a>
-<a href="/best-practice.html" style="border:0;" class="new_link_nl_deals">Best Practice</a>
-</div></td>
-    <td class="td_v_align_top_nl_mer_guide"><div class="inner_blk_guides"><b>Merchant Guides</b> 
-<a href="/index.php?dispatch=pages.view&amp;page_id=88" class="new_link_nl_deals">Pricing Guide</a>
-<a href="/index.php?dispatch=pages.view&amp;page_id=87" class="new_link_nl_deals">Catalog Guide</a>
-<a href="/index.php?dispatch=pages.view&amp;page_id=86" class="new_link_nl_deals">Packing Guide</a>
-<a href="/merchant-return-guide.html" class="new_link_nl_deals">Return Guide</a>
-<a href="/merchant-fulfillment-guide.html" class="new_link_nl_deals">Fulfillment Guide</a>
-<a href="/merchant-shipping-guide.html" class="new_link_nl_deals">Shipping Guide</a>
-<a href="/merchant-payment-faq.html" class="new_link_nl_deals">Payment Guide</a>
-<a href="/merchant-direct-fulfillment-guide.html" class="new_link_nl_deals">MDF Packing Guide</a>
-<a href="/merchant-order-preparation-guide.html" class="new_link_nl_deals">Order Preparation Guide</a>
-<a href="/merchant-fulfillment-comparison-chart.html" style="border:0;" class="new_link_nl_deals">Fulfillment Type Comparison Chart</a>
-</div></td>
-    <td class="td_v_align_top_nl_mer_guide" style="border:0;"><div class="inner_blk_guides"><b>Grow Your Online Business</b> 
-<a href="/merchant-trm-guide.html" class="new_link_nl_deals">Top Rated Merchant Guide</a>
-<a href="/merchant-deals-and-promotions-guide.html" class="new_link_nl_deals">Deals &amp; Promotions Guide</a><br>
-
-<b style="line-height:11px; padding-bottom:5px; display:block;">Merchant Policies, Rules and Agreements</b> 
-<a href="/index.php?dispatch=pages.view&amp;page_id=9" class="new_link_nl_deals">User Agreement</a>
-<a href="/policies-and-rules.html" class="new_link_nl_deals">Policies and Rules</a>
-<a href="/privacy-policy.html" class="new_link_nl_deals">Privacy Policy</a>
-<a href="/merchant-payment-faq.html" style="border:0;" class="new_link_nl_deals">Payment Policy</a>
-</div></td>
-  </tr>
-</tbody></table>
-</div>
 </div> </div>
+                 
           </div>
            
                     
@@ -1005,6 +796,7 @@ a.new_link_nl_deals:hover{text-decoration:underline}
     right:0px;
     bottom:45px!important;
     display:none;/*hid the button first*/
+    z-index: 10000;
 }
 #backtotop a {
     text-decoration:none;
@@ -1021,7 +813,7 @@ outline:none;
 
    <a href="#">
 
-      <img href="career.html#engineering" src="images/skin/backtotop.png" border="0" alt="Back to TOP">
+      <img src="http://cdn.shopclues.com/images/skin/backtotop.png" border="0" alt="Back to TOP">
 
    </a>
 </div>
@@ -1175,33 +967,63 @@ Frankly speaking..very genuine discount..I have made so many purchases as of now
 
 <div class="clearboth height_twenty"></div>
 <!--Footer Area Start Here-->
+<div class=" footer_execpt_chckout">
 <div class="sc_footer_con">
     <!--Changes by ankur for hiding the footer on checkout pages-->
       
-        
-         <div class="wysiwyg-content">
-            <div class="box_trustimages"></div>
-         </div>
-         <div class="clearboth height_twenty"></div>
+                 <style type="text/css">
+.hp_special_text{float: left; padding: 15px 0 20px 30px; background: url(http://cdn.shopclues.com/images/skin/h-sepline.gif) no-repeat -25px top; width: 970px; font-size:30px;}
+.hp_special_text .flt_lft_blk{text-align:center; float:left; margin-right:37px; font-family:Tahoma, Geneva, sans-serif,ubuntu; }
+.hp_special_text .flt_lft_blk .flt_blk_lrg_fnt{font-size:100%; line-height:35px; font-weight:bold; white-space:nowrap; color:#ccc;}
+.hp_special_text .flt_lft_blk .flt_blk_sml_fnt{font-size:40%; color:#000;}
+.rup_img_sign{ background:url(http://cdn.shopclues.com/images/banners/rupee_sign_footer_img.png) no-repeat left 5px; padding-left:27px; background-size:16%;}
+.hp_special_text .no_margin_blk{margin:0!important;}
+.cls_sev_size{font-size:70%;}
+</style>
+<div class="hp_special_text">
+	<div class="flt_lft_blk" style="margin-left: 180px;">
+    	<div class="flt_blk_lrg_fnt">27k<span class="cls_sev_size">+</span></div>
+        <div class="flt_blk_sml_fnt">Merchants</div>
+    </div>
+    <div class="flt_lft_blk">
+    	<div class="flt_blk_lrg_fnt">1,760<span class="cls_sev_size">+</span></div>
+        <div class="flt_blk_sml_fnt">Listing Categories</div>
+    </div>
+    <div class="flt_lft_blk">
+    	<div class="flt_blk_lrg_fnt">3 <span class="cls_sev_size">Mil+</span></div>
+        <div class="flt_blk_sml_fnt">Products</div>
+    </div>
+    <div class="flt_lft_blk no_margin_blk">
+    	<div class="flt_blk_lrg_fnt rup_img_sign">12,000 <span class="cls_sev_size">Cr</span></div>
+        <div class="flt_blk_sml_fnt">Listed Merchandize Value</div>
+    </div>
+</div>
+                  
                    
          <div class="sc_footer clearfix">
-         	<div class="foot_fstcol float_left" style="height:450px; padding:0; margin:10px 0 0 17px">
+         	<style type="text/css">
+helper-container {
+background: url(http://cdn.shopclues.com/images/banners/icons/bg_bottom_body_bg.png) no-repeat center bottom;
+padding-bottom: 47px;
+}
+</style>
+<div class="foot_fstcol float_left" style="padding:0; margin:10px 0 0 17px">
                 <ul class="colfst">
                 	<h2><a href="buyercentral">Buyer Central</a></h2>
                     <li><a href="/login?return_url=index.php">Sign in</a></li>
                     <li><a href="/login?return_url=index.php">Register</a></li>
                     <li><a href="http://www.shopclues.com/buyer-protection.html">Buyer Protection</a></li>
                     <li><a href="http://www.shopclues.com/payment-policy.html">Payment Options </a></li>
-                    <li><a href="http://www.shopclues.com/emi-payment-option.html">0% EMI Payment</a></li>
+                    <li><a href="http://www.shopclues.com/emi-payment-option.html">EMI Payment</a></li>
                     <li><a href="http://www.shopclues.com/shipping.html">Shipping Policy</a></li>
                     <li><a href="http://www.shopclues.com/return-policy.html">Return Policy</a></li>
                     <li><a href="http://www.shopclues.com/cancellation.html">Cancellation Policy</a></li>
                     <li><a href="http://www.shopclues.com/cluesbucks.html">Clues Bucks</a></li>
                     <li><a href="/index.php?dispatch=wishlist.view">Wishlist</a></li>
-                    <li><a href="http://www.shopclues.com/buyers-guide.html">Buyer Guide <img src="images/skin/icon_new_category.gif"></a></li>
+                    <li><a href="http://www.shopclues.com/buyers-guide.html">Buyer Guide <img src="http://cdn.shopclues.com/images/skin/icon_new_category.gif" height="11" width="27" alt="New" title="New"></a></li>
 <li><a href="http://www.shopclues.com/giftcertificate">Gift Certificate </a></li>
-<li><a href="http://www.shopclues.com/whats-new.html">What's New <img src="images/skin/icon_new_category.gif"></a></li>
-<li><a href="/help.html">Help <img src="images/skin/icon_new_category.gif"></a></li>
+<li><a href="http://www.shopclues.com/whats-new.html">What's New <img src="http://cdn.shopclues.com/images/skin/icon_new_category.gif" height="11" width="27" alt="New" title="New"></a></li>
+<li><a href="/help.html">Help <img src="http://cdn.shopclues.com/images/skin/icon_new_category.gif" height="11" width="27" alt="New" title="New"></a></li>
 
                 </ul>
                 
@@ -1218,15 +1040,14 @@ Frankly speaking..very genuine discount..I have made so many purchases as of now
                     
                 </ul>
             </div>
-            <div class="foot_fstcol float_left" style="height:450px; padding:0; margin:10px 0 0 17px">
+            <div class="foot_fstcol float_left" style="padding:0; margin:10px 0 0 17px">
                 <ul class="colfst">
                 	<h2><a href="aboutus">About Us</a></h2>
                     <li><a href="/team.html">Team</a></li>
                     <li><a href="/bandoftrust.html">Band of Trust</a></li>
-                    <li><a href="/shopclues-history.html">ShopClues History</a></li>
                     <li><a href="/news.html">News</a></li>
                     <li><a href="/inthepress.html">In the Press</a></li>
-                    <li><a href="/awards.html">Awards <img src="images/skin/icon_new_category.gif"></a></li>
+                    <li><a href="/awards.html">Awards <img src="http://cdn.shopclues.com/images/skin/icon_new_category.gif" height="11" width="27" alt="New" title="New"></a></li>
                     <li><a href="/career.html">Career</a></li>
                     
                 </ul>
@@ -1248,9 +1069,11 @@ Frankly speaking..very genuine discount..I have made so many purchases as of now
                     <li><a href="/b2b-inquiries.html">Bulk Orders</a></li>
                     <li><a href="/press.html">Press</a></li>
                 </ul>
-                <h2><a href="http://www.shopclues.com/anniversary.html">ShopClues 1st Year <img src="images/skin/icon_new_category.gif"></a></h2>
-            </div>
-             
+                <h2><a href="/1st-seller-summit.html">1st Seller Summit</a></h2>
+                <h2><a href="/2nd-seller-summit.html">2nd Seller Summit <img src="http://cdn.shopclues.com/images/skin/icon_new_category.gif" height="11" width="27" alt="New" title="New"></a></h2>
+                <h2><a href="http://blog.shopclues.com/">Blog <img src="http://cdn.shopclues.com/images/skin/icon_new_category.gif" height="11" width="27" alt="New" title="New"></a></h2>
+                <h2><a href="/anniversary.html">ShopClues 1st Year </a></h2>
+            </div> 
             
             
             <div class="foot_seccol float_left">
@@ -1322,24 +1145,24 @@ Frankly speaking..very genuine discount..I have made so many purchases as of now
                     
                     </div>
                     
-                    <p class="foot_dot" style="padding: 0; background: url(images/skin/dotline_footer.png) center; height: 1px; clear: both; width:97%;"></p>
+                    <p class="foot_dot" style="padding: 0; background: url(http://cdn.shopclues.com/images/skin/dotline_footer.png) center; height: 1px; clear: both; width:97%;"></p>
                     <div class="foot_iconarea">
                     	<div class="icon_community float_left">
                         	<h3>Keep in touch:</h3>
                             <ul style="border-bottom: 1px solid #ccc; float: left;">
-                            	<li style="margin:15px 18px 15px 0;" class="foot_comicon float_left"><a target="_blank" href="http://facebook.com/shopclues"><img src="images/skin/facebook.png" width="42" height="47" alt=""></a></li>
-                                <li style="margin:15px 18px 15px 0;" class="foot_comicon float_left"><a target="_blank" href="http://pinterest.com/shopclues/"><img src="images/skin/pinterest.png" alt=""></a></li>
-                                <li style="margin:15px 18px 15px 0;" class="foot_comicon float_left"><a target="_blank" href="http://twitter.com/shopclues"><img src="images/skin/twitter.png" width="40" height="46" alt=""></a></li>
-                                <li style="margin:15px 0px 15px 0;" class="foot_comicon float_left"><a target="_blank" href="https://plus.google.com/110218897457374040465/posts"><img src="images/skin/google_plus.png" alt=""></a></li>
+                            	<li style="margin:15px 18px 15px 0;" class="foot_comicon float_left"><a target="_blank" href="http://facebook.com/shopclues"><img src="http://cdn.shopclues.com/images/skin/facebook.png" width="42" height="47" alt=""></a></li>
+                                <li style="margin:15px 18px 15px 0;" class="foot_comicon float_left"><a target="_blank" href="http://pinterest.com/shopclues/"><img src="http://cdn.shopclues.com/images/skin/pinterest.png" alt=""></a></li>
+                                <li style="margin:15px 18px 15px 0;" class="foot_comicon float_left"><a target="_blank" href="http://twitter.com/shopclues"><img src="http://cdn.shopclues.com/images/skin/twitter.png" width="40" height="46" alt=""></a></li>
+                                <li style="margin:15px 0px 15px 0;" class="foot_comicon float_left"><a target="_blank" href="https://plus.google.com/110218897457374040465/posts"><img src="http://cdn.shopclues.com/images/skin/google_plus.png" alt=""></a></li>
                             </ul>
                             
                             <div>
                             	<div style="float:left; width:50%; padding:10px 0 20px 0">
-                                	<div style="float:left; width:100%; font-size:26px; color:#434343;">225k+</div>
+                                	<div style="float:left; width:100%; font-size:26px; color:#434343;">800k+</div>
                                 	<div style="float:left; width:100%; clear:both;font:11px/13px Verdana, Geneva, sans-serif;">Product Reviews</div>
                                 </div>
                                 <div style="float:left; width:48%;padding:10px 0 20px 0">
-                                	<div style="float:left; width:100%; font-size:26px; color:#434343;">130k+</div>
+                                	<div style="float:left; width:100%; font-size:26px; color:#434343;">460k+</div>
                                 	<div style="float:left; width:100%; clear:both; font:11px/13px Verdana, Geneva, sans-serif;">Merchant Ratings</div>
                                 </div>
                             </div>
@@ -1348,28 +1171,27 @@ Frankly speaking..very genuine discount..I have made so many purchases as of now
                         <div class="right_border float_left" style="height:152px;"></div>
                         <div class="foot_textrght float_left" style="width:262px; margin-left:10px;  margin-bottom:10px">
                         	<ul>
-<li style="font: bold 14px/24px arial;">3,00,000+ Products</li>
-                            	<li style="font: bold 14px/24px arial;">Delivers in 9,000+ Locations</li>
+                            	<li style="font: bold 14px/24px arial;">Delivers in 12,000+ Locations</li>
                                 <li style="font: bold 14px/24px arial;">Easy Replacement</li>
                                 <li style="font: bold 14px/24px arial;">Genuine Brands &amp; Warranties</li>
                                 <li style="font: bold 14px/24px arial;">Earn Clues Bucks on Prepaid Orders</li>
                             </ul>
                         </div>
                     </div>
-                    <p class="foot_dot" style="padding: 0; background: url(images/skin/dotline_footer.png) center; height: 1px; clear: both; width:97%;"></p>
+                    <p class="foot_dot" style="padding: 0; background: url(http://cdn.shopclues.com/images/skin/dotline_footer.png) center; height: 1px; clear: both; width:97%;"></p>
                     <div class="foot_paymentmarea">
                     	<div class="pm_heading">
                         	<div class="float_left" style="width:250px;"><h3>Completely Safe &amp; Secure Payment</h3></div>
-                            <div class="float_left" style="float:right; margin-right:10px"><img src="images/skin/verified-secured.jpg" width="115" height="22" alt=""></div>
+                            <div class="float_left" style="float:right; margin-right:10px"><img src="http://cdn.shopclues.com/images/skin/verified-secured.jpg" width="115" height="22" alt=""></div>
                         </div>
-                        <p>We accept Net Banking, all major Credit cards, Debit cards, and Cash Cards. We also offer Cash on Delivery and India's largest selection of 0% EMI options.</p>
+                        <p>We accept Net Banking, all major Credit cards, Debit cards, and Cash Cards. We also offer Cash on Delivery and India's largest selection of EMI options.</p>
                     <div class="foot_paymentlogo">
                     	<ul>
-                        	<li class="float_left"><img src="images/skin/verified-visa.jpg" width="58" height="37" alt=""></li>
-                            <li class="float_left"><img src="images/skin/mastercard.jpg" width="58" height="37" alt=""></li>
-                            <li class="float_left"><img src="images/skin/americav-express.jpg" width="57" height="37" alt=""></li>
-                            <li class="float_left"><img src="images/skin/dinersclub-int.jpg" width="96" height="37" alt=""></li>
-                            <li class="float_left"><img src="images/skin/2emi.png" width="72" height="43" alt="" style="margin-top:-5px;"></li>
+                        	<li class="float_left"><img src="http://cdn.shopclues.com/images/skin/verified-visa.jpg" width="58" height="37" alt=""></li>
+                            <li class="float_left"><img src="http://cdn.shopclues.com/images/skin/mastercard.jpg" width="58" height="37" alt=""></li>
+                            <li class="float_left"><img src="http://cdn.shopclues.com/images/skin/americav-express.jpg" width="57" height="37" alt=""></li>
+                            <li class="float_left"><img src="http://cdn.shopclues.com/images/skin/dinersclub-int.jpg" width="96" height="37" alt=""></li>
+                            <li class="float_left"><img src="http://cdn.shopclues.com/images/skin/2emi.png" width="72" height="43" alt="" style="margin-top:-5px;"></li>
                         </ul>
                     
                     </div>
@@ -1379,7 +1201,31 @@ Frankly speaking..very genuine discount..I have made so many purchases as of now
          </div>
              
          <div class="clearboth"></div>
-          <div class="foot_bluebot">
+         <!-- ViralMint JS -->
+<script type="text/javascript">
+window.vrlmnt = (function(d, s, id) {
+var js, vjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return; js = d.createElement(s);
+js.src = "//cdn.viralmint.com/js/viralmint-min.js";
+js.id = id; js.acc_id = "1376179846"; vjs.parentNode.insertBefore(js, vjs);
+return window.vrlmnt || (v = { _e: [], ready: function(f){v._e.push(f)}});
+}(document, "script", "viralmint-js"));
+</script>
+
+<!-- Advertiser 'Clues Network Pvt Ltd.-INR',  Include user in segment '1732892_Shopclues_CPC_SRT_Pixel_121013' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
+<img src="http://ads.yahoo.com/pixel?id=2452772&amp;t=2" width="1" height="1">
+<!-- End of segment tag -->
+
+<script type="text/javascript">
+document.write('<' 
++ 'script type="text/javascript" src="' 
++ document.location.protocol 
++ '//stats2.clicktracks.com/cgi-bin/ctasp-server.cgi?i=LbuGMDtWnw2GHK' 
++ '"><' 
++ '/script>'); 
+</script><script type="text/javascript" src="https://stats2.clicktracks.com/cgi-bin/ctasp-server.cgi?i=LbuGMDtWnw2GHK"></script>
+ 
+<div class="foot_bluebot">
          	<a href="privacy-policy.html">Privacy Policy</a> | <a href="user-agreement.html">User Agreement</a>     <span>Copyright © 2011-2013 Clues Network PVT. LTD.</span>
          </div>
 
@@ -1391,10 +1237,54 @@ Frankly speaking..very genuine discount..I have made so many purchases as of now
 	     })();
 </script>
 
-        
-        
+<div id="adsensecode" style="display:none;">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-7254794502685998";
 
+/* Test */
+google_ad_slot = "7406521862";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+
+</script>
+<script type="text/javascript">
+$(document).ready(function(){
+    $("#adsensecode").find("iframe").appendTo("#google_adsense_clues");
+    $("#adsensecode").remove();
+    $("#google_adsense_clues").find("iframe").css('position','relative');
+});
+</script>
 </div>
+         
+         
+         <script type="text/javascript"> 
+adroll_adv_id = "FH7NTQ632VGRTITHRCKAZV"; 
+adroll_pix_id = "7VKIKCDLOVAG7CIK7EJUPB"; 
+(function () { 
+var oldonload = window.onload; 
+window.onload = function(){ 
+   __adroll_loaded=true; 
+   var scr = document.createElement("script"); 
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com"); 
+   scr.setAttribute('async', 'true'); 
+   scr.type = "text/javascript"; 
+   scr.src = host + "/j/roundtrip.js"; 
+   ((document.getElementsByTagName('head') || [null])[0] || 
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr); 
+   if(oldonload){oldonload()}}; 
+}()); 
+</script>
+
+         
+</div>
+
+
+
+
 <!--Footer Area End Here-->
 
 
@@ -1428,7 +1318,7 @@ $(document).ready(function(){
 			've[screen_x]': (screen.width || null),
 			've[screen_y]': (screen.height || null),
 			've[color]': (screen.colorDepth || screen.pixelDepth || null),
-			've[time_begin]': 1368590415.0625
+			've[time_begin]': 1388480016.3876
 		},
 		hidden: true
 	});
@@ -1437,7 +1327,7 @@ $(document).ready(function(){
 </script>
 
 <noscript>
-<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=%2Fprivacy-policy.html&amp;ve%5Btitle%5D=Privacy+Policy&amp;ve%5Breferrer%5D=&amp;ve%5Btime_begin%5D=1368590415.0625" width="0" height="0"></object>
+<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=%2Fprivacy-policy.html&amp;ve%5Btitle%5D=Privacy+Policy&amp;ve%5Breferrer%5D=http%3A%2F%2Fwww.shopclues.com%2F&amp;ve%5Btime_begin%5D=1388480016.3876" width="0" height="0"></object>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
@@ -1455,6 +1345,74 @@ $(document).ready(function(){
 </script>
 
 
+
+    
+<script type="text/javascript">
+    Number.prototype.formatMoney = function(c, d, t){
+        var n = this,
+                c = isNaN(c = Math.abs(c)) ? 2 : c,
+                d = d == undefined ? "." : d,
+                t = t == undefined ? "," : t,
+                s = n < 0 ? "-" : "",
+                i = parseInt(n = Math.abs(+n || 0).toFixed(c)) + "",
+                j = (j = i.length) > 3 ? j % 3 : 0;
+        return s + (j ? i.substr(0, j) + t : "") + i.substr(j).replace(/(\d{3})(?=\d)/g, "$1" + t) + (c ? d + Math.abs(n - i).toFixed(c).slice(2) : "");
+    };
+       
+       function SetCookie(cookieName,cookieValue,nDays,domain) {
+                var today = new Date();
+		var expire = new Date();
+		if (nDays==null || nDays==0) nDays=1;
+		expire.setTime(today.getTime() + 3600000*nDays);
+		if(domain != ''){
+                    document.cookie = cookieName+"="+escape(cookieValue) + ";expires="+expire.toGMTString()+";domain="+domain+";path=/";
+                }else{
+                    document.cookie = cookieName+"="+escape(cookieValue) + ";expires="+expire.toGMTString();
+                }
+       }
+    
+ function validate(){
+            var val = document.getElementById('email_popup_registration').value;
+            val = jQuery.trim(val);
+            document.getElementById('email_popup_registration').value = val;
+            if(val== '' || val=='Your Email Address'){
+                    document.getElementById('email_popup_registration').style.color = "#333";
+                    document.getElementById('email_popup_registration').style.background = "#eee";
+                    document.getElementById('email_popup_registration').value = 'Your Email Address';
+                    return false;
+            }else{
+                var filter = /^\w[a-zA-Z0-9-_.]+@[a-zA-Z_]+.[a-zA-Z]+.[a-zA-Z]{2,3}$/;
+                if(String(document.getElementById('email_popup_registration').value).search (filter) == -1)                         
+                {
+                    document.getElementById('email_popup_registration').style.color = "#333";
+                    document.getElementById('email_popup_registration').style.background = "#eee";
+                    document.getElementById('email_popup_registration').value = 'Your Email Address';
+                    return false;
+                }
+            }
+        }
+        
+        jQuery("#email_popup_registration").bind('blur',function(){
+   var val = document.getElementById('email_popup_registration').value;
+   val = jQuery.trim(val);
+   document.getElementById('email_popup_registration').value = val;
+   if(val== '' || val=='Your Email Address'){
+    document.getElementById('email_popup_registration').style.color = "#ccc";
+    document.getElementById('email_popup_registration').value = 'Your Email Address';
+   }
+ });
+ jQuery("#email_popup_registration").bind('focus',function(){
+   var val = document.getElementById('email_popup_registration').value;
+   
+   if(val=='Your Email Address'){
+    document.getElementById('email_popup_registration').style.color = "#111";
+    document.getElementById('email_popup_registration').value = '';
+   }
+  
+  });
+    </script>
+
+
 <script type="text/javascript">
         var utm_source = '';
         var source ='';
@@ -1470,6 +1428,78 @@ $(document).ready(function(){
 
 
 
+
+
+<script type="text/javascript">
+$(document).ready(function () {
+    js_cart_show = false;
+    ssl_page = true;
+    if(window.location.protocol == "http:"){
+        js_cart_show = true;
+        ssl_page = false;
+    }
+    else if(window.location.pathname == "/login" || window.location.search.search("\\?dispatch=auth.login_form") == 0){
+        js_cart_show = true;
+    }    
+    //by ajay to prevent user_name on write_to_us.login page
+    if(window.location.search.search("\\?dispatch=write_to_us.login") == 0){
+        ssl_page = true;
+    }
+    //end by ajay
+    
+    if(!ssl_page && ($('div.welcomegst label').length == 0)){
+        var un = ReadCookie('scun');
+        if(un != ""){
+            un = JSON.parse(window.atob(un));
+            un = un.replace('+',' ');
+            $('div.header_global div.welcomegst').html('<label>Welcome <span class="bold">'+un+'</span></label>');
+
+
+            $('#login_user_data').html('\
+            <div style="float:left">\n\
+                <a href="https://secure.shopclues.com/index.php?dispatch=auth.logout&amp;redirect_url=index.php%3Fdispatch%3Dprofiles.myaccount" class="">Sign Out</a>\n\
+            </div>\n\
+            <span class="box_header_userinfo_span" style="float:left">/</span>\n\
+            <a style="float:left"  href="https://secure.shopclues.com/myaccount">My Account</a>\n\
+            \
+            ');
+        }
+    }
+    
+    if(js_cart_show && ($('#cart_box .list-container .list ul').length == 0)){
+        
+        sess_id1 = ReadCookie('sess_id1');
+        
+        if(sess_id1 == "")
+            return;
+        
+        sess_id1 = JSON.parse(window.atob(sess_id1));
+        cart_count = 0;
+        cart_content = "";
+        for (i in sess_id1){
+            cart_count += 1;
+            cart_content += '<li class="clear">\
+                                <a href="index.php?dispatch=products.view&product_id=' + sess_id1[i]['product_id'] + '" style="font:12px trebuchet ms; width:85%;">' + sess_id1[i]['name'] + '</a>\
+                                <div style="float:right; margin-top:5px;">\
+                                    <a name="delete_cart_item" href="index.php?dispatch=checkout.delete.from_status&amp;cart_id=' + i + '" class="cm-ajax" rev="cart_status"><img src="skins/basic/customer/images/icons/icon_delete_small.gif" width="10" height="9" border="0" alt="Delete" title="Delete"></a>\
+                                </div>\
+                                <p style="float:left; width:100%;">\
+                                    <strong class="valign">' + sess_id1[i]['amount']  + '</strong>&nbsp;x&nbsp;\
+                                    <span class="none">Rs.</span><span id="sec_price_' + i + '" class="none">' + sess_id1[i]['price'] + '</span>\
+                                </p>\
+                                </li>';
+        }
+
+        if(cart_count > 0 && cart_content.length > 0){    
+            $('.box_cartstatus').children('a.shopping_cart_link').children('span.nl_new_luk_cart_no').html(cart_count);
+            $('#cart_box').children('.list-container').children('.list').html('<ul>' + cart_content + '</ul>');
+            $('#cart_box').removeClass('hidden').addClass('cart-list');
+            $('#cart_box div.buttons-container').addClass('full-cart');
+        }
+    }
+
+});
+</script>
 
 
 <div id="order_lookup" style="display:none; position: fixed; z-index: 1003; top:150px; left:50%; margin-left:-150px;">
@@ -1527,7 +1557,8 @@ $(document).ready(function(){
 </div>
 <p> </p><p> </p><p> </p><p> </p><p> </p>
 <p align="justify"> </p><ul><li style="list-style:disc;">Provide order number and email used to place the order.</li></ul><p></p>
-<p align="justify"><a href="http://www.shopclues.com/support"></a></p><ul><li style="list-style:disc;"><a href="http://www.shopclues.com/support">Do not have an order number?</a></li></ul><p></p>
+
+<!--<p align='justify'><a href='http://www.shopclues.com/index.php?dispatch=write_to_us.add'><ul><li style="list-style:disc;">Do not have an order number?</li></ul></a></p> -->
 
 </div>
 
@@ -1547,6 +1578,8 @@ $(document).ready(function(){
 		<li><a href="/payments.html">Confirm Order Delivery</a></li>
 		<li><a href="/promotions-and-coupon.html">Edit Order Address</a></li>-->
 		<li><a target="_blank" href="https://secure.shopclues.com/index.php?dispatch=orders.search">Request Return Of Order</a></li>
+		<li><a href="/clues-bucks.html" target="_blank">Clues Bucks Tracker</a></li>
+        <li><a href="/giftcertificate" target="_blank">Gift Certificate Tracker</a></li>
 		<li><a target="_blank" href="https://secure.shopclues.com/index.php?dispatch=profiles.manage_addressbook">Update Address Book</a></li>
 		<li><a target="_blank" href="https://secure.shopclues.com/update-profile">Change Password</a></li>
 	</ul>
@@ -1584,12 +1617,155 @@ $(document).ready(function(){
 
 </div>
 
-<script>
-document.getElementById('fblike_button').innerHTML='<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FShopClues&amp;send=false&amp;layout=button_count&amp;width=95&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=233137156813679" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:95px; height:21px; float:left;" allowTransparency="true"></iframe><a href="https://twitter.com/ShopClues" class="twitter-follow-button float_right" data-show-count="false">Follow Us</a>';
+
+
+
+
+	<div id="fb-root"></div>
+<div id="content_popup">
+</div>
+
+
+<script type="text/javascript">
+     var popup_content = '     <div id="fb-root"></div>    <div id="popup_exp_reg" style="display: none;">    <div class="lightbox_overlay"></div>    <div class="lightbox_container">    <div class="lightbox_container_close" id="popup_close"></div>    <div class="clearboth"></div>    <div class="lightbox_container_bgg">    <!--<div class="lightbox_container_heading">Shop with us & get hottest deals online !</div> -->    <!--<div class="lightbox_container_logo"></div> -->    <div class="clue_buyer_pro_nl" style="display:none;">    <div class="clues_logo_icon_nl"></div>    </div>    <form name="popup_registration_form" action="/" method="post" onsubmit="return validate();">    <div class="clues_middle_pro">    <div class="clearboth"></div>    <label for="email_popup_registration" class="lightbox_container_label"></label>     <input type="hidden" name="dispatch" value="simple_registration.register" />     <input type="hidden" name="referer" value="popup" />    <input value="Your Email Address" name="email" id="email_popup_registration" type="text" class="lightbox_container_textbox" />    <input name="" id="email_popup_submit" type="submit" class="lightbox_container_button" value="" style="cursor: pointer;" />    </div>    </form>    <div class="clues_right_pro_blk" >        <div class="pop_right_sign_up_easy"></div>        <div class="pop_right_sign_in_easy right_pro_blk" id="right_pro_blk" style="display:none;">            <a href="tools/fb_apps/fbaccess.php?auth=fb&page=login" class="sign_in_fb"></a>            <a href="tools/fb_apps/google_login/index.php?auth=google&page=login" class="sign_in_gg"></a>        </div>                                        <div class="pop_right_registration_easy section_fb_new" id="section_fb_new" style="display:none;">            <iframe style="margin-top:20px;" src="http://www.facebook.com/plugins/registration.php?                 client_id=208941289250794&                 redirect_uri=http://www.shopclues.com/index.php?dispatch=auth.fb_login&                 fields=name,email,location,gender,birthday"            scrolling="auto"            frameborder="no"            style="border:none"            allowTransparency="true"            width="335px"            height="311px">            </iframe>        </div>        <div id="social_login_fb_new" class="social_login_fb_new" style="display:none;">             <!--Social Login -->            <div class="ml_sociallogin" style="width:200px; margin:95px 0 0 65px; border:0;": id="social_login">                <div class="clearboth"></div>                <div class="ml_sociallogin_container margin_top_ten popup_blk_nl_login fb_login_new_pop">                    <div class="ml_sociallogin_content">                        <a href="tools/fb_apps/fbaccess.php?auth=fb&page=login" class="scl_lnk_pop fb_bg_prd_pg">                            <span class="socl_icon"></span>                            <label class="socl_label">Sign in with Facebook</label>                        </a>                    </div>                </div>                <div class="ml_sociallogin_container popup_blk_nl_login fb_login_new_pop">                    <div class="ml_sociallogin_content">                        <a href="tools/fb_apps/google_login/index.php?auth=google&page=login" class="scl_lnk_pop  goo_bg_prd_pg">                            <span class="socl_icon"></span>                            <label class="socl_label">Sign in with Google</label>                        </a>                    </div>                </div>    <!--<div class="ml_sociallogin_container">    <div class="ml_sociallogin_content"><img src="images/monalisa/img_loginLinkedin.gif" width="150" height="22" /></div>    </div>-->    </div>    <!--End Social Login -->        </div>    </div>    </div>    </div>    </div>  ';
+     var fb_pixel = "var fb_param = {};fb_param.pixel_id = '6010269443024';fb_param.value = '0.00';fb_param.currency = 'USD';(function(){ var fpw = document.createElement('script'); fpw.async = true; fpw.src = '//connect.facebook.net/en_US/fp.js'; var ref = document.getElementsByTagName('script')[0]; ref.parentNode.insertBefore(fpw, ref); })(); ";
+     var fb_no_script = " ";
+	
+        var force_login = 'NO';
+        var force_signin_pages = 'products-121245';
+        var page = 'pages';
+        
+        var page_id = '';
+        if(page == 'products'){
+            
+            page_id = '';
+            
+        }else if(page == 'categories'){
+            
+            page_id = '';
+            
+        }                
+        if(page_id != '') {
+            var page_name = page+'-'+page_id;
+            page_list = force_signin_pages.split(',');        
+            close_popup = 'YES';
+            for(var i=0; i<page_list.length; i++) {
+                if(page_name == page_list[i] && force_login == 'YES' && page != 'index'){
+                    close_popup = 'NO';
+                }
+            }
+        }else{
+           close_popup = 'YES'; 
+        }         
+        var cookie_status = ReadCookie('skip_express_reg');
+        var cookie_cache = ReadCookie('sccache');
+        if((cookie_status == '' && $.browser.mobile == false ) || (close_popup == 'YES' && $.browser.mobile == false ) )
+	{	           
+            if(cookie_status != 'skip' && cookie_cache != 1){
+                document.getElementById('content_popup').innerHTML= popup_content;
+                var script = document.createElement('script');
+                script.type='text/javascript';
+                script.id='fb_pixelID';
+                document.getElementById("content_popup").appendChild(script);
+                $("#fb_pixelID").append(fb_pixel);
+                $("#content_popup").append(fb_no_script);
+
+                $(document).ready(function(){
+                    $('#popup_exp_reg').ready(function() { 
+                            document.getElementById('popup_exp_reg').style.display="block";
+                    });
+                });
+                //document.getElementById('popup_exp_reg').append(popupContent);
+				//$('.lightbox_container_bg').css("background-color","#555");
+                $('.lightbox_container_bg').css("background-image","url(http://cdn.shopclues.com/images/skin/bg_great_deal_popup.gif)");
+            }
+        SetCookie('skip_express_reg','skip','6','');
+	}else if($.browser.mobile == false){         
+            var force_signin_cookie_status = ReadCookie('force_signin');
+            if(force_signin_cookie_status != 'skip'){
+                document.getElementById('content_popup').innerHTML= popup_content;
+                var script = document.createElement('script');
+                script.type='text/javascript';
+                script.id='fb_pixelID';
+                document.getElementById("content_popup").appendChild(script);
+                $("#fb_pixelID").append(fb_pixel);
+                $("#content_popup").append(fb_no_script);
+                 $(document).ready(function(){
+                    $('#popup_exp_reg').ready(function() { 
+                            document.getElementById('popup_exp_reg').style.display="block";
+                    });
+                });
+			//	$('.lightbox_container_bg').css("background-color","#555");
+                $('.lightbox_container_bg').css("background-image","url(http://cdn.shopclues.com/images/skin/bg_great_deal_popup.gif)");
+                document.getElementById('popup_close').style.display="none";
+            }
+        }
+	
+        
+
+	$('#popup_close').click(function(){
+		$('#popup_exp_reg').toggle();	
+	});
+        
 </script>
 
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+
+
+
+<script type="text/javascript">
+ $(document).ready(function(){
+ var li_count = $( "li.cate_nl_hover_cond" ).size() ; 
+ 	 
+ for ( var child = 12;	child <= li_count; child++ ){
+	 $( "li.cate_nl_hover_cond:nth-child(" + child + ") div.box_submenu").addClass("box_submenu_bottomAlign");
+	 }
+	 
+
+var app_ids = '208941289250794';
+ window.fbAsyncInit = function() {
+    FB.init({appId: app_ids, status: true, cookie: true,
+     xfbml: true});
+    FB.getLoginStatus(function(o) { 
+       if (!o && o.status) return;
+       if(o.status == "connected" ){     
+
+       jQuery('.section_fb_new').show();
+        jQuery('.social_login_fb_new').hide();
+        jQuery('.right_pro_blk').show();       
+                jQuery('#section_fb').show();
+                jQuery('#social_login_fb').hide();
+      } else if (o.status == 'not_authorized') {
+          jQuery('.section_fb_new').show();
+          jQuery('.social_login_fb_new').hide();
+          jQuery('.right_pro_blk').show();
+         jQuery('#section_fb').show();
+         jQuery('#social_login_fb').hide();
+
+      } else {     
+        jQuery('#social_login_fb').show();
+        jQuery('.social_login_fb_new').show();
+      }
+  });
+};
+(function() {
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol +
+    '//connect.facebook.net/en_US/all.js';
+    document.getElementById('fb-root').appendChild(e);
+}());
+
+
+	});
+
+
+
+
+
+
 </script>
 
 
-</body></html>
+
+
+ 
+</div></body></html>
