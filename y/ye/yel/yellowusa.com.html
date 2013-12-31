@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the yellowusa.com privacy policy that was archived on 2013-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130626002033id_/http%3A//www.yellowusa.com/privacy_policy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yellowusa.com privacy policy that was archived on 2013-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131231233042id_/http%3A//www.yellowusa.com/privacy_policy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<!DOCTYPE html><html><head>
+
+
 <title>YellowUSA.com Privacy Policy</title>
 	<meta name="Keywords" content="YellowUSA.com Privacy Policy, yellow pages, real yellow pages, yellow pages directory, phone directory, directory, business directory, internet yellow pages, ultimate yellow pages, the yellow pages">
 	<meta name="Description" content="YellowUSA respects the privacy of all our registered users.">
@@ -11,6 +13,7 @@
 
 <link rel="image_src" href="/fingers.gif">
 <link rel="STYLESHEET" type="text/css" href="/yellowusa.css">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript">
 function doPhoneLink(clickUrl, suffix) {
 	var rtn = true;
@@ -69,14 +72,20 @@ function logClick(clickUrl) {
 </script>
 
 
+
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
 <script src="/scripts/jquery-ui-1.8.11.custom.min.js" type="text/javascript"></script>
 <script src="/scripts/jquery.ui.autocomplete.html.js"></script>
 <script src="/scripts/jquery.maskedinput.js" type="text/javascript"></script>
 <script src="/scripts/yu.js"></script>
 <script src="/scripts/profile.js"></script>
+
 <link href="/scripts/profile.css" rel="stylesheet">
+
 <link href="/css/jquery-ui-1.8.11.custom.css" rel="stylesheet">
+<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">
+<link href="/css/normalize.2.1.2.css" rel="stylesheet">
+<script src="/scripts/slides.min.jquery.js"></script>
 
 
 <script type="text/javascript">
@@ -93,78 +102,56 @@ function logClick(clickUrl) {
   })();
 
 </script>
-<!-- BEGIN Tynt Script -->
-<script type="text/javascript">
-if(document.location.protocol=='http:'){
-	var Tynt=Tynt||[];Tynt.push('dltPxEpMmr4O-eacwqm_6r');
-	(function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
-}
-</script>
-<!-- END Tynt Script -->
+
 </head>
-<body bgcolor="#FFFFFF" leftmargin="5" topmargin="5" marginwidth="0" marginheight="0" vspace="5" hspace="0" link="#0000FF" vlink="#0000FF">
 
-<table width="99%">
-	<tbody><tr>
-		<td>
-			<a href="/add-your-business.cfm"><b>Add Your Business to the YellowUSA directory</b></a>
-		</td>
-		<td align="right">
-			<b><a href="http://www.yellowusa.com/login.cfm">Login to the Business Center</a></b>
-		</td>
-	</tr>
-</tbody></table>
-<table id="Table_01" height="73" border="0" cellpadding="0" cellspacing="0" width="100%">
-	<tbody><tr>
-		<td width="66">
-			<a href="/" title="YellowUSA.com Internet Yellow Pages">
-				<img src="/header_01.jpg" width="66" height="73" alt="" border="0">
-			</a>
-		</td>
-		<td align="center" background="/header_02.jpg">
+
+<body>
+
+
+<div id="header_container">
+
+	<div id="header_container_inner">
+	
+		<div id="header_links"><a href="/add-your-business.cfm">Add Your Business</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a rel="nofollow" href="/login.cfm">Business Center</a></div>
+		
+		<div id="header_nav_container">
+		
+			<div id="header_logo"><a href="/"><img src="/images/yellowusa-header-logo.png" border="0" alt=""></a></div>
 			
-<img src="/blank.gif" width="5" height="25" border="0" align="left" alt="">
+			<div id="header_btn_container">
+				
+				<a href="/"><div id="header_btn_business">Local Businesses</div></a><a href="/deals/"><div id="header_btn_deals">Local Deals</div></a><a href="/events/"><div id="header_btn_events">Local Events</div></a>
+				
+			</div>
+			
+		</div>
+	
+	</div>
 
-<table border="0" cellspacing="0" cellpadding="0" align="center">
-	<tbody><tr>
-		<td>
+	
+		
+		<div id="header_search_container">
+			
+			
 			<form action="/search.cfm" method="get">
-				<input type="hidden" name="current_cat_name" value="">
-				<table border="0" cellspacing="5" cellpadding="0" align="center">
-					<tbody><tr style="font-size: 10px; font-family: arial;">
-						<td>
-							<strong>Keyword / Category</strong><br>
-							
-							<input type="text" name="keywords" value="" size="40" style="font-size: 10px;" tabindex="1">
-						</td>
-						<td>
-							<strong>Location</strong><br>
-							
-							<input type="text" name="location" value="," size="40" style="font-size: 10px;" tabindex="2" id="location">
-						</td>
-						<td>
-							<br>
-							
-							<input type="submit" value="Search" style="font-size: 10px;" tabindex="3">
-						</td>
-					</tr>
-				</tbody></table>
+			<div id="search_kw_label"><b>Keyword:</b></div>
+			<div id="search_kw"><input type="text" id="keyword" name="keywords" value="" size="30" tabindex="0"></div>
+			<div id="search_loc_label"><b>Location</b></div>
+			<div id="search_loc"><input type="Text" id="location" name="location" size="30" value=""></div>
+			<div id="search_button_container"><input id="search_button" type="Submit" value="&nbsp;Go!&nbsp;"></div>
 			</form>
-		</td>
-	</tr>
-</tbody></table>
-
-		</td>
-		<td width="225">
-			<a href="/" title="YellowUSA.com Internet Yellow Pages">
-				<img src="/header_04.jpg" width="225" height="73" alt="YellowUSA.com" border="0">
-			</a>
-		</td>
-	</tr>
-</tbody></table>
+			
+			
+		</div>
+		
+	
+	
+</div>
 
 
-<table width="85%" align="center">
+
+<table width="970" align="center">
 <tbody><tr><td>&nbsp;</td></tr>
 	<tr>
 		<td>
@@ -254,13 +241,34 @@ if(document.location.protocol=='http:'){
 <br>
 <br>
 
+<script>
+	
+	$(function() {
+		$( "#calendar" ).datepicker({
+			dateFormat: "yymmdd", 
+			buttonImage: "/images/cal-icon.png",
+			buttonImageOnly: true,
+			showOn: "both",
+			altField: "#theDate",
+			minDate: "20131231",
+			onSelect: function(dateText, inst) {
+			$("#cal_form").submit();
+			}
+		});
+	});
+	
+</script>
+
+
+
 
 <table width="100%" border="0" cellspacing="0" cellpadding="2" align="center">
 
 <tbody><tr><td><hr></td></tr>
 <tr><td align="center"> 
 <font size="-2">
-<a href="/" class="headerLinks" title="YellowUSA Internet Neighborhoods">HOME</a> <b>&nbsp;|&nbsp;</b> <a href="http://www.yellowusa.com/cities.html" class="headerLinks" title="Cities">CITIES</a> <b>&nbsp;|&nbsp;</b>
+<a href="/" class="headerLinks" title="YellowUSA Internet Neighborhoods">HOME</a> <b>&nbsp;|&nbsp;</b> <a href="/cities.html" class="headerLinks" title="Cities">CITIES</a> <b>&nbsp;|&nbsp;</b>
+
 	<a href="http://www.yellowusa.com/categories.html" class="headerLinks" title="Categories">CATEGORIES</a> <b>&nbsp;|&nbsp;</b>
 	<a href="http://www.yellowusa.com/add_your_business.cfm" class="headerLinks" title="Add Your Business" rel="nofollow">ADD YOUR BUSINESS</a> <b>&nbsp;|&nbsp;</b>
 	<a href="http://www.yellowusa.com/advertise.htm" class="headerLinks" title="Advertise with Us" rel="nofollow">ADVERTISE WITH US</a>
