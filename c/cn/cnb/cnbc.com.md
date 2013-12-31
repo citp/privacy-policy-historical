@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cnbc.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611005912id_/http%3A//www.cnbc.com/id/100000959) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnbc.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231052746id_/http%3A//www.cnbc.com/id/100000959) for the most accurate reproduction.*
 
 # CNBC.com Privacy Policy
 
- Text Size  
+   Text Size  
 
 Published: Friday, 11 May 2012 | 7:49 AM ET
 
