@@ -1,174 +1,99 @@
-> *The following text is extracted and transformed from the thewire.com privacy policy that was archived on 2012-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120116035154id_/http%3A//www.thewire.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewire.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231224915id_/http%3A//www.thewire.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - The Wire
 
-### DARK BLUE SEA - PRIVACY POLICY
+**Last Updated:   August 28, 2012**
 
-This Privacy Policy explains why and how we collect certain personal information from our customers and the visitors to our websites, and what we do with that information.
+**Privacy Policy**
 
-The Dark Blue Sea group of companies is part of the Photon Group and offers an exciting range of online products and services including domain name registration, website hosting, domain monetization, domain name resale, expiring and deleted domain name services, reseller services and search engine services.
+_Please note that our Sites and Mobile Content are under constant development. New services are added frequently and this agreement may therefore be modified and updated on an ongoing basis. It is important to check back to this page regularly._  
+ 
 
-The Dark Blue Sea group comprises a number of companies that includes:
+At the Atlantic Monthly Group, Inc. ("The Atlantic"), we want you to enjoy and benefit from our websites and online services secure in the knowledge that we have implemented fair information practices designed to protect your privacy.  Our privacy policy below describes the information we collect, how we use it, and the choices you have regarding collection and use of your personal information.  This policy applies to all websites and online services operated by _The Atlantic_ , including theatlantic.com and theatlanticwire.com, as well as to the content and services we provide to mobile users, through WAP and apps available on mobile devices such as Apple's iPhone and iPad (collectively, our "Sites" or "Sites and Mobile Content").  (App purchases are typically also subject to the terms and conditions of the entity that operates the app store, which are accessible on that entity's website.)
 
-  * Dark Blue Sea Pty Ltd ABN 47 091 509 796
-  * Fabulous.com Pty Ltd ABN 64 094 218 443 (operates the business Fabulous Domains)
-  * Fabulous Parking Pty Ltd ABN 16 094 225 091
-  * Fabulous.com.au Pty Ltd ABN 34 139 626 994 (trading as Drop.com.au)
-  * Roar.com Pty Ltd ABN 99 094 225 064
-  * Pageseeker.com Pty Ltd ABN 45 090 513 849
-  * Darkblue.com Pty Ltd ABN 14 094 225 082
-  * Yexa.com Pty Ltd ABN 12 094 225 073
-  * Domain8 Pty Ltd ABN 79 135 424 878
-  * Yexa.com.au Pty Ltd ABN 84 137 606 172
-  * Whois Privacy Services Pty Ltd ABN 65 133 058 741
+**What We Learn**
 
+Our Sites may automatically recognize your domain name, IP address, browser version, operating system and the website you passed through to reach us. In addition, our Sites automatically gather certain usage information, like the numbers and frequency of visits to the Sites and their areas - very much like television ratings that tell how many people tuned in to a program.  The information we obtain in providing Mobile Content varies depending on the practices of your device manufacturer, service provider, and choices available to you as a user.
 
+Some features of our Sites do offer you the option of providing information such as your name, e-mail address, postal address, phone number, organization, location, or any other identifying information.  As described in greater detail below, such information will only be used to provide you with products or services you have requested or additional information about the Sites or their affiliates.  (You may also provide us with such information in the course of subscribing to _The Atlantic_ magazine or other offerings from The Atlantic - details of how we use such information are also provided below.) 
 
-#### ABOUT THIS PRIVACY POLICY
+Information gathered through the use of cookies is not used by our Sites to track any personally identifiable details.   
+ 
 
-This Privacy Policy has been drafted to comply with the National Privacy Principles set out in the _Australian Privacy Act 1988 (Cth)_. More information about the Privacy Act is available on the Australian Privacy Commissioner's website at [http://www.privacy.gov.au](http://www.privacy.gov.au/).
+**How We Use What We Learn**
 
-#### WHY WE NEED TO COLLECT PERSONAL INFORMATION
+The information we collect is used to improve the content of _The Atlantic_ magazine and our Sites  and to keep you apprised of important developments.  For example, we may use personally identifiable information to contact you as part of an online survey about our editorial offerings, inform you of material changes or additions to our services, advise you of account status, or contact you in order to comply with any legal requirements.  Also, we compile and use your information so that we may keep you apprised of special offers, as well as additional products that may be of interest to you. 
 
-Personal information is any information that identifies you or by which your identity can be reasonably determined.
+In some cases, we may share personally identifiable information to contact you (sometimes through a vendor or business partner) for the reasons we have described.
 
-The collection, use and disclosure of personal information is essential to enable us to conduct our business of delivering online products and services to our customers and website visitors. For example most of our products and services require some form of registration or subscription, while others require a payment to be made. Contact details of our customers and website visitors may also be required from time to time to notify them of competition prizes they may have won. 
+**What We Tell Others About You**
 
-Some of the personal information we collect, including that obtained from our online enquiry/feedback facilities, is used to help us develop and improve the quality of our products and services, which in turn, provides our customers and website visitors with a more satisfying and enjoyable online experience.
+We will not sell or rent or willfully disclose any personally identifying information obtained through the Sites (other than in connection with magazine subscriptions ordered, as explained below) to a party outside Atlantic Media Company, its divisions, its affiliated publications (such as National Journal, National Journal Daily, Government Executive, and NextGov), its vendors providing Internet hosting services, or third party list managers, without first receiving the user's permission. We do not collect personally identifying information from our visitors, other than what is supplied to us on a voluntary basis.
 
-Without collecting and making use of your personal information, we may not be able to provide our online products and services to you.
+From time to time we allow reputable companies, whose products or services we feel may interest our print subscribers, to contact these subscribers using the addresses provided to us during the process of subscribing to _The Atlantic_ 's print edition.  (We do not share these addresses directly with these companies, however--only with a third party who administers the process on our behalf.) Many of our subscribers find this a valuable and time-saving service. If you do not want your information to be shared, you can choose not to allow the transfer by letting us know by e-mailing, calling, or writing us (see addresses below).
 
-#### WHAT WE DO WITH YOUR PERSONAL INFORMATION
+We may provide statistical usage data in the aggregate--not information about you personally--to our partners about how visitors use the Sites. From time to time we conduct research on our users' demographics, interests and behavior based on the information you provide to us upon registration, on order forms, as well as from our server log files or from surveys. We do this to better understand and serve our users. This research is compiled and analyzed on an aggregated basis and we may share this aggregated data with advertisers or other businesses.
 
-We use personal information that we collect to conduct our business of delivering online products and services and to continually improve our relationship with you.
+In some cases, we may disclose information about you to a third party if we are required to do so by law or if we in good faith believe that such action is necessary to comply with the law or legal process, to protect and defend our rights or to prevent misuse of our Sites, or to protect the personal safety or property of our users or the public.
 
-In order to do this, we share your personal information with our related companies.
+In the event of a corporate change in control resulting from, for example, a sale to, or merger with, another entity, or in the event of a sale of assets or a bankruptcy, The Atlantic reserves the right to transfer your personally identifiable information to the new party in control or the party acquiring assets.
 
-Personal information may be used to enable us to send you online promotional material on our range of products and services. You may at any time notify us that you do not wish to receive this material via the unsubscribe facility accompanying the material. Once you have notified us, we will not send you any further promotional material. 
+**What Are Cookies And How Do We Use Them?**
 
-#### HOW WE COLLECT INFORMATION
+The Sites place a "cookie" on the browser of a user's computer to gather and store basic tracking information and to monitor the presentation of advertisements. We may also use the information for editorial purposes and for other purposes such as measuring certain traffic patterns. For example, cookies are used to ensure that you don't see the same ad too many times in a single session. Cookies are also used to restrict access to certain areas of the Sites to bona fide subscribers and to enable you to set up customized alerts that no other subscribers are permitted to see. Cookies are not related to any personally identifiable information and are not used to retrieve information from your computer that was not originally sent in a cookie
 
-**Personal Information provided to us**
+Advertising service vendors that serve ads into our Sites may also use their own cookies. You may opt-out of the cookies delivered by the Sites by changing the setting on your browser. Some browsers are set to refuse all cookies, or to restrict the conditions under which they are set. Please be aware that this will disable all cookies delivered to your browser, not just the ones delivered by us. If you would like more information about advertisers' use of cookies, and about your ability not to accept these cookies, please visit the Network Advertising Initiative's Opt-Out page [here](http://www.networkadvertising.org/managing/opt_out.asp).  If you would like to opt-out of having interest-based information collected during your visits to this or other sites, please visit the consumer opt-out page for the Self Regulatory Program for Online Behavioral Advertising [here ](http://www.aboutads.info/choices/)(currently in beta)
 
-We collect and store personal information that is voluntarily provided by our customers as part of doing business with us. Such information may include a customer's full name, date of birth, addresses (including home, postal and email address) and telephone numbers. We also collect and securely store customer's payment details such as their credit card details (where necessary).
+Some online advertising for the Sites is delivered by the vendor DoubleClick, a Google company. For more information about DoubleClick's use of cookies, and to "opt-out" of the Doubleclick cookies, visit [www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy).
 
-We collect this personal information and make use of these details to provide you with our products and services and to better manage our relationship with you.
+**Advertisers and Links**
 
-**Website activity, cookies and related technology**
+The Sites contain links to other sites, including those produced by other organizations. Additionally, our advertisers, or Web sites that have links on our Sites, may also collect personally identifiable information directly from you. We are not responsible for the privacy policies or the content of those sites.  Please visit the sites of these businesses to review their privacy policies.
 
-We provide products and services via a number of different websites. When you view one of our websites, our web server records anonymous information such as the time and date the website is viewed and the web pages/URL's requested. This information assists us to improve the structure of our websites and monitor their performance.  
-We also allow third parties with whom we have entered contractual arrangements ("Advertising Providers") to serve advertising on our websites.  
-We make use of cookies and iframes on our websites and permit Advertising Providers to place and read cookies on end users' browsers. These Advertising Providers may use web beacons or similar technologies to collect information in the course of advertisements being served on our websites.
+**Kids & Parents**
 
-Cookies are pieces of information that a website transfers to your hard drive for record-keeping purposes. The browser stores the information, and sends the information back to the server each time you request a webpage from the server. The use of cookies is an industry standard, utilized by the majority of website operators.
+Kids under 13:  Do not send us any information about yourself, such as your name, address, or e-mail address.
 
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, some parts of our websites, or the products and services provided through our websites, may not function properly or may be considerably slower if you do not enable cookies on your Internet browser.  
-The National Advertising Initiative ("NAI") offers an opt-out tool (located at <http://www.networkadvertising.org/managin/opt_out.asp>) for the purpose of allowing consumers to "opt-out" of the behavioural advertising delivered by its member companies. Some of the third parties with whom we have entered into contractual arrangements are members of NAI.  
-We may have iframes embedded on our websites and may enter into contractual arrangements with third parties so that they may analyse your online behaviour. These iframes allow for the collection of non-personally identifiable information about your website visits.
+Parents: These Sites are not directed to children under the age of thirteen (13) and we do not knowingly collect personally identifiable information from children under the age of 13 as part of the Sites. If we become aware that we have inadvertently received personally identifiable information from a user under the age of 13 as part of the Sites without verifiable parental consent, we will delete such information from our records.
 
-**IP Addresses**
+**Data Security**
 
-When you access our websites, our website servers register the type of web browsers that you are using and your IP address.
+We have in place reasonable physical, electronic and managerial procedures to protect the information we collect online. However, as effective as these measures are, no security system is impenetrable. We cannot guarantee the security of our database, websites, or services, nor can we guarantee that the information you supply will not be intercepted while being transmitted to us over the Internet.
 
-We collect IP addresses for the purposes of system administration, to report aggregate traffic information to our customers, fraud detection and to generally audit the use of our websites. When you request pages from our websites, our servers may log your IP address.
+**What if I am a Non-U.S. User?**
 
-We do not normally link IP addresses to any personal information, which means that your session will be logged, but you otherwise remain anonymous.
+Please note that the Sites are directed towards users who reside in the United States. It is not our intent to gather personally identifiable information from individuals residing outside of the United States. If you are located outside of the United States, the information you provide to us will be transferred to the United States whose laws may not provide the same level of protection for personal information as your home country. By using this web site, you consent to this transfer. You also consent to the adjudication of any disputes arising in connection with this website in the federal and other courts of, and in accordance with the laws of, the District of Columbia.
 
-We can and will use your IP address to identify you when it is necessary to enforce compliance with our terms of service or to protect the integrity of our services and websites, as well as to protect our interests and those of our other customers.
+**Disclaimer**
 
-Some services provided by us, such as certain message boards, may display IP addresses along with the message poster's name and message. Please review each service prior to use and only use those services if you are comfortable with their methods of collection and disclosure of personal information.
+This Privacy Policy may be changed at any time at our discretion.
 
-#### WHEN WE DISCLOSE PERSONAL INFORMATION
+**How Can I Request that my Personally Identifiable Information not be Shared? How Can I Review My Personally Identifiable Information?**
 
-We take all reasonable steps to protect the personal information we hold from misuse and loss and from unauthorized access, modification or disclosure.
+As indicated above, if you do not want your personally identifiable information to be shared, you can choose not to allow the transfer by letting us know by e-mailing, calling or writing us (see addresses below). Similarly, please contact us at the same addresses if at any time you wish to review your personally identifiable information.
 
-We may disclose your personal information where you have consented to us doing so. This consent may be express (eg. in writing or verbal) or implied from your conduct. There may however be times where we are required to disclose personal information without your consent eg. when it is required or authorized by law.
+**_Online_**
 
-Personal information that you provide to us may be shared among our related companies. Our related companies are required to keep such information private and confidential and otherwise deal with such personal information strictly in accordance with this Privacy Policy.
+Atlantic Monthly Group, Inc.
 
-In order for us to conduct our business, it is necessary to disclose personal information to third parties. We may provide your personal information to third parties with whom we have contracted to provide administrative or other services, including to our affiliated website operators. We will ensure that these third parties are either bound by the Australian Privacy Act or subject to an equivalent law of another jurisdiction.
+600 New Hampshire Avenue, NW
 
-When you utilize our domain name registration services, we provide your personal information to the registry operator for the relevant top level domain name for the purpose of inclusion in their registry database and the WHOIS service as well as to a third party providing registrar data escrow services (as required by our registrar accreditation agreement with the Internet Corporation for Assigned Names and Numbers ("ICANN")). The WHOIS service allows Internet users to query a domain name to find out the identity and contact details of the registrant. The public WHOIS service is a standard feature of domain name systems around the world. Please see auDA's WHOIS policy at <http://www.auda.org.au/whois-policy> which sets out auDA's guidelines on the collection, disclosure and use of WHOIS data. Please refer to the relevant TLD/ccTLD authority for specific WHOIS data collection policies. We are unable to provide our domain registration services to you without providing your personal information to these parties.
+Washington, DC 20037
 
-#### TRANSBORDER FLOW OF PERSONAL INFORMATION
+**_Print:_**
 
-We are in the business of delivering online products and services. The Internet has no boundaries and as such we deal with international organizations and companies such as ICANN, registry operators and other service providers. We reasonably believe that these parties are subject to a law, binding scheme or contract which effectively upholds principles of fair handling of the information that are substantially similar to the National Privacy Principles. Without the transfer overseas to these entities, we will be unable to provide our online products and services to you.
+Atlantic Customer Care
 
-#### EPP SHARING ARRANGEMENTS
+P.O. Box 420235
 
-Fabulous.com.au Pty Ltd, has with the consent of .au Domain Administration Limited, the Australian Domain Name Administrator ("auDA"), entered into an EPP sharing arrangement with Netstart Pty Ltd ACN 111 018 154, an auDA accredited domain name registrar. "EPP" means the connection which the .au registry operator allows registrars to have to the domain name registry. Via the EPP, it is possible for Fabulous.com.au Pty Ltd, Domain8 Pty Ltd and Yexa.com.au Pty Ltd (formerly Domain Candy Pty Ltd) to have access to the registrant information of domain names managed by Netstart Pty Ltd. For this reason, agreements have been signed to protect registrant privacy and whois integrity.
+Palm Coast, FL 32142-0235
 
-#### PROTECTING KIDS PRIVACY
+**Any Questions?**
 
-We are committed to complying with the provisions of the _Children's Online Privacy Protection Act of 1998_ (United States) and its rules and regulations. We encourage parents and guardians to spend time online with their children and to participate in the activities offered on our websites. 
+For more information on our Privacy Policy, or if at any time you wish to discontinue receiving communications from us that do not directly pertain to your subscription, please let us know by emailing us at [theatlantic@emailcustomerservice.com](mailto:theatlantic@emailcustomerservice.com), calling us at 800-234-2411, or writing to us at the address listed below.
 
-**Notice to Kids**
+**Our Postal Address**
 
-If you are under 13 years of age, we must get your parent or guardian's permission before we can collect any personal information about you, such as your name, date of birth and your hobbies. 
-
-You are allowed to give us either your email address, or the email address of your parent or guardian, so that we can contact them and ask for their permission to collect your personal information. 
-
-No other information about you should be given to us, or one of our websites, until your parent or guardian has given you permission. 
-
-**Notice to Parents**
-
-Before your child can access most of the interactive products and services we provide, they are required to provide us with certain information about themselves, for example, their name, date of birth and contact details, so that we can register them as a member. 
-
-However, before we collect this personal information from your child, they are required to provide us with an e-mail address at which you, their parent or guardian can be contacted, so that we can obtain your consent. 
-
-Although users under 13 years of age may be allowed to participate in some contests and promotions, if they win, notification and prizes are sent to the parents or guardians at the address specified in the initial registration process. Publication of contest winners' names, ages, or images for individuals under 13 require parental or guardian consent. 
-
-Subject to the below exemptions, the personal information that we collect from your child will be subject to and dealt with in accordance with the terms of this Privacy Policy. 
-
-No information collected from visitors under 13 years of age is used for any promotional purposes whatsoever, unless expressly stated during the collection of this information or during registration for contests or promotions (and in that case, the information collected is used only for the specific contest or promotion). 
-
-We do not allow visitors under 13 years of age to be listed in our member directory or to receive direct promotional communications from us.
-
-#### LINKS TO OTHER WEBSITES
-
-You should be aware that on our affiliated websites, there are links to third party websites. If you "click" on a banner advertisement, a search result or another type of link contained on one of our sites, the "click" may result in you leaving our site and your browser being redirected to a website owned and controlled by a third party. 
-
-In this case, we recommend that you refer to the privacy policy of the websites you visit. We have no control over, and hence accept no responsibility for, the content of these sites or the actions of the operators in relation to the collection of personal information of users of these sites. 
-
-Whilst we make every reasonable effort to protect the privacy of your personal information, we cannot guarantee the security of any information you disclose online and you do so at your own risk. 
-
-You should keep in mind that whenever you give out personal information online, there is a risk that the information can be intercepted and used by third parties without our knowledge. We are in no way responsible or liable for the misuse of personal information obtained in this manner. 
-
-#### ACCESS AND ACCURACY OF PERSONAL INFORMATION
-
-You may request access to any personal information that we hold about you. All requests will be handled as quickly as possible, and we will endeavour to process any request for access within 30 days of its receipt.
-
-We may refuse access to personal information in certain circumstances such as where the information relates to anticipated legal proceedings with you, where denying access is required or authorized by law, where providing access would be likely to prejudice an investigation by an enforcement body or where the request for access is regarded as frivolous or vexatious. If we deny you access to personal information or refuse to correct personal information, we will give you reasons as to why.
-
-#### ENSURING PERSONAL INFORMATION IS UP-TO-DATE
-
-It is very important that the personal information that we hold about you is complete, accurate and up-to-date. Please notify us immediately if there has been any change to your personal information.
-
-If you register a domain name with us, you will be provided with a unique registry key and/or username/password which may be used to access your personal information as well as to amend/update that personal information.
-
-#### PRIVACY COMPLAINTS
-
-If you believe that we have not protected your personal information in accordance with this Privacy Policy, you can lodge a complaint by:
-
-  * Emailing: privacy@darkbluesea.com
-  * Telephoning: +61 7 3007 0070
-  * Faxing: +61 7 3007 0001
-  * Writing to us at:  
-PO Box 757  
-Fortitude Valley QLD 4006
-
-
-
-If you are not satisfied with the result of your complaint to us, you can refer your complaint to the Australian Privacy Commissioner as follows:
-
-  * Telephoning: +61 1300 363 992
-  * Writing to:  
-Privacy Commissioner  
-GPO Box 5218  
-Sydney NSW 2001
-
-
-
-#### YOUR ACCEPTANCE OF THESE TERMS
-
-By using this website or our affiliated websites, you consent to us collecting, using and disclosing your personal information in accordance with this Privacy Policy (as amended from time to time).
+Atlantic Monthly Group, Inc.  
+600 New Hampshire Avenue, NW  
+Washington, DC 20037
