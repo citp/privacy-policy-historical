@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kayak.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615014713id_/http%3A//www.kayak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayak.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231085250id_/http%3A//www.kayak.com/privacy) for the most accurate reproduction.*
 
-# KAYAK - Privacy Policy
+# Privacy Policy - KAYAK
 
 _Effective as of May 1, 2013_
 
@@ -36,7 +36,7 @@ We may share information you provide us with third parties for our legitimate bu
 
 What's yours is yours. We won't sell your name, email address, phone number, credit card information, passport number or billing address to anyone. There might be an exception in the event KAYAK itself is sold or if there is otherwise a change in corporate ownership. In this case we would transfer your PII to our buyers so that they could continue to provide the same great KAYAK service. Also, if you use the My Trips Service, you can send, or grant access to, your itinerary to your friends and family. Once displayed on publicly-viewable web pages, that PII can be collected and used by others.
 
-If you book on our site, we will share your PII with the selected hotels, airlines and car rental companies to complete your booking and/or to comply with applicable law. We may also share this PII with our corporate affiliates.
+If you book on our site, we will share your PII with the selected online travel agencies, hotels, airlines and car rental companies to complete your booking and/or to comply with applicable law. We may also share this PII with our corporate affiliates.
 
 From time to time, we will also share aggregated usage information with others. This type of information does not contain your identity or anything personally identifiable to you.
 
@@ -62,7 +62,7 @@ When you visit KAYAK we may store information about your web session and assign 
 
 KAYAK does make money by selling advertising as well as referrals from searches on our site. We use third-party advertising companies to serve ads when you visit our web site. These companies may use PII (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
 
-To learn how to manage how we – and our vendors– use cookies and other tracking tools, please [click here](https://web.archive.org/trackingtools).
+To learn how to manage how we – and our vendors– use cookies and other tracking tools, please click here.
 
 ### We Will Email You Sometimes
 
@@ -88,7 +88,38 @@ If you have questions about our privacy practices or need assistance with exerci
 
 KAYAK   
 Attention: Privacy Officer   
-55 North Water Street, Suite 1   
-Norwalk, CT 06854. 
+7 Market Street   
+Stamford, CT 06902. 
 
 Last updated: May 1, 2013
+
+  
+
+
+* * *
+
+### We use common tracking technologies.
+
+We (or our vendors) use several common tracking tools. These may include browser cookies. Your browser will store these cookies on your computer in a small file. We use these tools to track our consumers and website visitors. We also use them for other business purposes, including: 
+
+  * To track new visitors to our sites.
+  * To recognize past customers.
+  * To store your password if you are registered on our sites.
+  * To serve you with advertising content in which we think you will be interested. As part of this customization, we may observe your behaviors on this website or on other websites. We may also get information about your browsing history from our trusted business partners.
+  * So we can better understand our audience, our customers, our website visitors, and their respective interests.
+
+
+
+### You can control tracking tools.
+
+Your browser may give you the ability to control cookies. How you do so depends on the type of cookie. Certain browsers can be set to reject browser cookies, but please note, if you disable your cookies it is very likely you will not be able to use our website. NOTE: If you set your computer to block cookies, you may not be able to use certain features on our sites.
+
+### Our ads on other websites may be served based on tracking.
+
+We may also work with online advertising companies to provide you with advertising that is as relevant and useful as possible. We may provide this advertising on our website and other third party sites that you visit. These ads may be based on information you submit on our websites or third party sites. They may also be based on your activities or behaviors on our websites or on third party sites. The information gathered may be used to serve you with advertisements on our websites or on third party websites. This includes mobile websites or applications.
+
+### You can opt-out of online behavioral advertising.
+
+We sometimes work with vendors to provide you with online ads. What ads you see may be based on your activities on our website or third party sites. 
+
+To opt out of having your online behavior tracked for advertising purposes [click here](http://www.aboutads.info/choices/)
