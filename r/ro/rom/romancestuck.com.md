@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the romancestuck.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501110354id_/http%3A//www.romancestuck.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romancestuck.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231082241id_/http%3A//www.romancestuck.com/privacy.htm) for the most accurate reproduction.*
 
 # RomanceStuck Privacy Policy | ♥ RomanceStuck.com
-
-  
-
 
 To protect your privacy, **RomanceStuck** has instituted policies that give you information and control.
 
