@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the abrsm.org privacy policy that was archived on 2013-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130224092256id_/http%3A//us.abrsm.org/en/policies/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abrsm.org privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231025658id_/http%3A//us.abrsm.org/en/policies/website-privacy-policy) for the most accurate reproduction.*
 
 # ABRSM: Website Privacy Policy
 
-  * [Safeguarding & Child Protection Policy](http://us.abrsm.org/en/policies/child-safeguarding-policy/)
-  * [Customer Service Statement](http://us.abrsm.org/en/policies/customer-service-statement/)
+  * [Withdrawals, Non-Attendance and Fee Refund Policy](http://us.abrsm.org/en/policies/withdrawals-non-attendance-and-fee-refund-policy/)
   * [Special Consideration Policy](http://us.abrsm.org/en/policies/special-consideration-policy/)
-  * [Equal Opportunities Statement](http://us.abrsm.org/en/policies/equal-opportunities-policy/)
+  * [Safeguarding & Child Protection Policy](http://us.abrsm.org/en/policies/safeguarding-child-protection-policy/)
+  * [Customer Service Statement](http://us.abrsm.org/en/policies/customer-service-statement/)
+  * [Equal Opportunities Statement](http://us.abrsm.org/en/policies/equal-opportunities-statement/)
   * [Website Privacy Policy](http://us.abrsm.org/en/policies/website-privacy-policy/)
   * [Cookie Policy](http://us.abrsm.org/en/policies/cookie-policy/)
 
