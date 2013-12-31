@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the senukeinferno.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613000631id_/http%3A//senukeinferno.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the senukeinferno.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231134620id_/http%3A//senukeinferno.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Senuke Inferno
 
