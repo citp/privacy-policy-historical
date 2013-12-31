@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winecoolerdirect.com privacy policy that was archived on 2013-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130328084713id_/http%3A//www.winecoolerdirect.com/CS%253A-Other-Information%253A-Privacy-Policy/PRIVACY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winecoolerdirect.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231155707id_/http%3A//www.winecoolerdirect.com/cs%253A-other-information%253A-privacy-policy/PRIVACY_POLICY.html) for the most accurate reproduction.*
 
 # CS: Other Information: Privacy Policy
 
