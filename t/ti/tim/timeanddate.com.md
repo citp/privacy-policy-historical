@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeanddate.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513183719id_/http%3A//www.timeanddate.com/information/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeanddate.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231012200id_/http%3A//www.timeanddate.com/information/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for timeanddate.com
 
@@ -26,4 +26,9 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, you can contact:
 
-Time and Date ASPO Box 27 ForusNO-4064 StavangerNorway[webmaster@timeanddate.com](https://web.archive.org/common/mailto.cgi?webmaster=timeanddate.com)Fax: +47 5163 2711
+Time and Date AS  
+PO Box 27 Forus  
+NO-4064 Stavanger  
+Norway  
+[webmaster@timeanddate.com](https://web.archive.org/common/mailto.cgi?webmaster=timeanddate.com)  
+Fax: +47 5163 2711
