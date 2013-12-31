@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebayinc.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606004022id_/http%3A//www.ebayinc.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebayinc.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231151413id_/http%3A//www.ebayinc.com/content/privacy-policy%3Fprintable%3Dtrue%26notAuto%3Dtrue) for the most accurate reproduction.*
 
 # Privacy Policy | ebay inc
 
