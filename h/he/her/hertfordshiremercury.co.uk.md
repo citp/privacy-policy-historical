@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hertfordshiremercury.co.uk privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518170245id_/http%3A//www.hertfordshiremercury.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hertfordshiremercury.co.uk privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231161816id_/http%3A//www.hertfordshiremercury.co.uk/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Hertfordshire News | Local News & Events in Hertford | Latest Sports, Jobs & Business News Hertfordshire Newspaper
 
