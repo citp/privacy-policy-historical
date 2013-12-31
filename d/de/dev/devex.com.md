@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the devex.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512205301id_/https%3A//www.devex.com/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devex.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231040816id_/https%3A//www.devex.com/en/privacy-statement) for the most accurate reproduction.*
 
-# International Development
+# 
 
 This is the official privacy statement that applies to Devex. Devex will hereafter be referred to as "Company", "we", "us", or "our". We take your privacy seriously and are committed to keeping our users
 
