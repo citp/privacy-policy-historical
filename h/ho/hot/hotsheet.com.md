@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the hotsheet.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201131731id_/http%3A//www.hotsheet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotsheet.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231143712id_/http%3A//www.hotsheet.com/privacy.html) for the most accurate reproduction.*
 
-# HotSheet.com privacy policy
+# Hot Sheet web directory Privacy Policy
 
 **Summary of Privacy Policy**  
-The information provided to us through our web sites is held in strict confidence. The purpose of information collected by HotSheet.com,Inc. is only to enhance the user experience through customized features. User specific data will not be shared, sold or made available to any outside agencies.  
+The information provided to us through our web sites is held in strict confidence. The purpose of information collected by HotSheet.com,Inc. is only to enhance the user experience through customized features. User specific data will not be shared, sold or made available to any outside agencies.
 
+* * *
 
 **Information Collection and Use**  
-HotSheet.com Inc. collects information from our users at several different points on our web site. HotSheet.com Inc. is the sole owner of the information collected for our e-commerce services and customization features. We will not sell, share, or rent this information to others. Customization features on our primary HotSheet directory page use a Cookie on the users computer to store data (ie:zip code, colors, etc). The information for these features is not transmitted to, nor stored by, HotSheet.com.   
+HotSheet.com Inc. collects information from our users at several different points on our web site. HotSheet.com Inc. is the sole owner of the information collected for our e-commerce services and customization features. We will not sell, share, or rent this information to others. Customization features on our primary HotSheet directory page use a Cookie on the users computer to store data (ie:zip code, colors, etc). The information for these features is not transmitted to, nor stored by, HotSheet.com. 
+
 Our My HotSheet service allows users to create and maintain a personalized page of favorite web site links. The custom information for this service is transmitted to HotSheet.com, and is stored in databases on our computers. The personalized link page can be accessed and maintained only by individuals with the appropriate user name and password. We do provide a method for a registered user to allow use of their link collection by others (accessed directly by a custom URL), without allowing additions or changes by the visiting user. 
 
 **Registration**  
@@ -40,7 +42,7 @@ When our order checkout form asks users to enter sensitive information (such as 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to personally identifiable information.  
 All employees are kept up-to-date on our security and privacy practices. At any time policies are changed or added, employees are notified and/or reminded about the importance placed on privacy, and what they must do to ensure that customer information is protected.  
 Regarding computer hardware, the web servers that are used to store personally identifiable information are kept in a secure physical environment, accessible only by authorized personnel.   
-If you have any questions about the security at our web site, you can send an e-mail to webmaster@hotsheet.com. 
+If you have any questions about the security at our web site, you can send an e-mail to ram(at)hotsheet.com. 
 
 **Special Offers**  
 We send all new members a welcoming e-mail to verify password and user name. Established members will occasionally receive information on products, services, special deals, and/or a periodic newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below. 
@@ -51,15 +53,11 @@ We also may send the user site and service announcement updates. Members are not
 **Correction/Updating Personal Information**  
 If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member options page or by e-mailing our Customer Support. 
 
-**Choice/Opt-out**  
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their e-mail address off of our lists.   
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the e-mail or e-mail us at webmaster@hotsheet.com . Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
-
 **E-Mail Service**  
-This privacy policy does not apply to the HotSheet e-mail service. HotSheet e-mail is provided by and administered through an outside partner company with a separate privacy policy. 
+This privacy policy does not apply to the HotSheet e-mail service. This is a service where users can get a hotsheet.com email address. The HotSheet e-mail is provided by, and administered through, an outside partner company with a separate privacy policy. 
 
 **Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we would notify users by way of an e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+If we decide to change our privacy policy, we will post those changes on this page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we would notify users by way of an e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
 
   
 
