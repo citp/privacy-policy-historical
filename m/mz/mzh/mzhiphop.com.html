@@ -1,0 +1,341 @@
+<!--The following is the downloaded HTML source of the mzhiphop.com privacy policy that was archived on 2013-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131231212341id_/http%3A//www.mzhiphop.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<title>Privacy Policy // MzHipHop.com</title>
+<meta name="title" content="Privacy Policy // MzHipHop.com">
+<meta name="description" content="Privacy Policy // MzHipHop.com">
+<meta name="keywords" content="Privacy Policy // MzHipHop.com">
+<meta property="og:title" content="Privacy Policy // MzHipHop.com">
+<meta property="og:image" content="http://www.mzhiphop.com/images/logo_fb.jpg?t=12345">
+
+<meta property="og:site_name" content="MzHipHop">
+<meta property="fb:app_id" content="127880950733789">
+<meta property="fb:admins" content="100001480665678">
+
+<meta content="index, follow, all" name="robots">
+<meta content="1 days" name="revisit-after">
+<meta name="google-site-verification" content="TwpLQ20JhkK9yI7Z8yIuhLPgUB9DapEfB32LXmByxaY">
+
+<link rel="canonical" href="http://www.mzhiphop.com/">
+
+<link rel="shortcut icon" href="images/favicon.ico">
+<link rel="stylesheet" type="text/css" href="styles.css?v=20">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+
+<script type="text/javascript" src="js/pop_up.js?v=1"></script>
+
+
+<script type="text/javascript">
+var prev_id = -1;
+var next_id = 1;
+var current = 0;
+$(document).ready(function() {
+
+
+  $("#pagim_big #pg").addClass("songs_pages_small_hover");
+  $("#pagim_small #pg").addClass("songs_pages_small_hover");
+  $("img.btn").live('mouseover',function () {
+    var src = $(this).attr("src").match(/[^\.]+/) + "_hover" + $(this).attr("src").slice(-4);
+    $(this).attr("src", src);
+  }).live('mouseout',function () {
+    var src = $(this).attr("src").replace("_hover", "");
+    $(this).attr("src", src);
+  });
+
+  $('.songs_pages_small').click(function() {
+    var id = $(this).attr('id');
+    id = id.split("pg");
+    location.href='http://www.mzhiphop.com/privacy.php?page='+id[1]+'';
+  });
+
+  $("#box_update_clip, .latest_video").mouseover(function() { 
+    var src = $(this).find($('.btn_play')).attr("src").match(/[^\.]+/) + "_hover.png";
+    $(this).find($('.btn_play')).attr("src", src);
+  }).mouseout(function() {
+    var src = $(this).find($('.btn_play')).attr("src").replace("_hover.png", ".png");
+    $(this).find($('.btn_play')).attr("src", src);
+  });
+
+  $(".latest_video_inner,.update_song,.update_song_other,.update_song_1st,.update_song_2nd,.update_song_4th").mouseover(function() { 
+    if($(this).find($('.btn_play_small')).length > 0) {
+
+      var src = $(this).find($('.btn_play_small')).attr("src").match(/[^\.]+/) + "_hover.png";
+      $(this).find($('.btn_play_small')).attr("src", src);
+
+    } else if($(this).find($('.btn_play_small_notitle')).length > 0) {
+
+      var src = $(this).find($('.btn_play_small_notitle')).attr("src").match(/[^\.]+/) + "_hover.png";
+      $(this).find($('.btn_play_small_notitle')).attr("src", src);
+
+    } else {
+
+      var src = $(this).find($('.btn_play_notitle')).attr("src").match(/[^\.]+/) + "_hover.png";
+      $(this).find($('.btn_play_notitle')).attr("src", src);
+
+    }
+  }).mouseout(function() {
+    if($(this).find($('.btn_play_small')).length > 0) {
+
+      var src = $(this).find($('.btn_play_small')).attr("src").replace("_hover.png", ".png");
+      $(this).find($('.btn_play_small')).attr("src", src);
+
+    } else if($(this).find($('.btn_play_small_notitle')).length > 0) {
+
+      var src = $(this).find($('.btn_play_small_notitle')).attr("src").replace("_hover.png", ".png");
+      $(this).find($('.btn_play_small_notitle')).attr("src", src);
+
+    } else {
+
+      var src = $(this).find($('.btn_play_notitle')).attr("src").replace("_hover.png", ".png");
+      $(this).find($('.btn_play_notitle')).attr("src", src);
+
+    }
+  });
+
+  $('.indexupdate').live('mouseover',function () {
+    $(this).children('.bg_updatesmall_title').show();
+    $('#updates_box').find('.indexupdate_click').removeClass('indexupdate_click').addClass("indexupdate");
+    $(this).addClass("indexupdate_click");
+
+    var new_big_pic = $(this).find('img.small_update').attr('src');
+    new_big_pic = new_big_pic.split("&image=/");
+    $('#big_update').attr("src", new_big_pic[1]);
+
+  }).live('mouseout',function () {
+    $(this).children('.bg_updatesmall_title').hide();
+  });
+
+  $('#updates_right').live('mouseleave',function () {
+    $(this).find('.indexupdate_click').removeClass('indexupdate_click').addClass("indexupdate");
+    $('#updates_box').find('.indexupdate:first-child').addClass("indexupdate_click");
+
+    var new_big_pic = $(this).find('img.small_update').attr('src');
+    new_big_pic = new_big_pic.split("&image=/");
+    $('#big_update').attr("src", new_big_pic[1]);
+  });
+
+  $("#prev_update").click(function() { 
+    $.get('ajax/updates_box.php?current='+current+'&page='+prev_id, function (data) {
+      if(data != ''){
+	$('#updates_box').html(data);
+	prev_id = prev_id-1;
+	next_id = next_id-1;
+      }
+    });
+  });
+
+  $("#next_update").click(function() {
+    $.get('ajax/updates_box.php?current='+current+'&page='+next_id, function (data) {
+      if(data != ''){
+	$('#updates_box').html(data);
+	prev_id = prev_id+1;
+	next_id = next_id+1;
+      }
+    });
+  });
+
+  $(".indexupdate").live('click',function () {
+    var id = $(this).attr('id');
+    id = id.split("update_");
+    location.href='http://www.mzhiphop.com/updates-'+id[1]+'.html';
+  });
+});
+
+
+function show_news(dir){
+
+   var disabled = 'false';
+     $('#news_prev').css('cursor', 'pointer');
+     $('#news_next').css('cursor', 'pointer');
+
+   if(dir == 'prev' && $('#current_news_page').val() < 2){
+     var disabled = 'true';
+     $('#news_prev').css('cursor', 'default');
+   }else if(dir == 'next' && $('#current_news_page').val() > 9){
+     var disabled = 'true';
+     $('#news_next').css('cursor', 'default');
+   }else if(dir == 'prev'){
+     var current_news_page = parseInt($('#current_news_page').val())-1;
+   }else{
+     var current_news_page = parseInt($('#current_news_page').val())+1;
+   }
+
+   if(disabled == 'false'){
+    $('#news_area').html('');
+    if($('#img_loader').length == 0){
+	$('#news_area').prepend('<img src="images/ajax-loader.gif" id="img_loader" />');
+    }
+
+     $('#current_news_page').val(current_news_page);
+
+     $.ajax({
+      type: "POST",
+      data: "page="+current_news_page,
+      url: "ajax/news_area.php",
+      cache: false,
+      success: function(news){
+	$('#img_loader').remove();
+	$('#news_area').html(news);
+      }
+     });
+   }
+}
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7027027-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></head>
+<body>
+<div align="center">
+   <div id="site_box">
+            <div id="bg_menu">&nbsp;
+	<a href="http://www.mzhiphop.com/"><img src="images/logo.png" class="logo" alt=""></a>
+
+	<div id="menu_list">
+	   <div class="right"><a href="http://www.mzhiphop.com/"><img src="images/btn_index.png" alt=""></a></div>
+	   <div class="center"><img src="images/icon_live.png" alt="" style="position: absolute; margin-top: -12px; margin-left: 9px;"><a href="songs.php">SONGS</a></div>
+	   <div class="center"><a href="videos.php">VIDEOS</a></div>
+	   <div class="center" id="top100"><a href="top100.php">TOP100</a></div>
+	   <div class="center"><a href="special_updates.php">SPECIALS</a></div>
+	   <div class="center"><a href="oldbutgold.php">OLD BUT GOLD</a></div>
+	   <div class="center"><a href="remixes.php">REMIXES</a></div>
+	   <div class="center"><a href="news.php">NEWS</a></div>
+	   <div class="left" id="menuhover"><a href="contact.php">CONTACT</a></div>
+	</div>
+
+	<div id="search_form">
+	<form method="GET" action="songs.php">
+	<input type="text" name="s" value="" style="border: none;">
+	<input type="submit" id="btn_submit" value="">
+	</form>
+	</div>
+
+      </div>
+      
+            <div id="header_adblock" style="height: 110px;">
+	<div id="header_ad728"><iframe src="ads/ad_2.php" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true" style="width: 728px; height: 90px;"></iframe></div>
+
+	<div id="social_area">
+	   <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FMZHipHopOfficial&amp;width=232&amp;height=62&amp;show_faces=false&amp;colorscheme=light&amp;stream=false&amp;border_color&amp;header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:232px; height:62px;" allowtransparency="true"></iframe>
+	   <iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=MZ_HipHop" style="width:134px; height:20px; margin-left: 10px; float: left;"></iframe>
+	</div>
+
+	      </div>
+      
+      <div style="width: 970px; margin-top: 10px;">
+    <div style="height: 46px;">
+      <div class="huge_title">&nbsp;
+	<img src="images/text_latestnews.png" alt="">
+
+	<a href="news.php"><img src="images/btn_viewall.jpg" alt="View All News" title="View All News" class="btn"></a>
+
+	<div class="more_updates_btn">
+	<img src="images/btn_update_next.png" id="news_next" onclick="show_news('next');" class="btn" alt="">
+	<img src="images/btn_update_prev.png" id="news_prev" onclick="show_news('prev');" class="btn" alt="">
+	</div>
+
+      </div>
+      <div class="song_list_title_hr"></div>
+    </div>
+
+    <input type="hidden" id="current_news_page" value="1">
+    <div id="news_area">
+    <div class="news_a_box" style="margin-right: 8px;">
+	<a href="http://www.mzhiphop.com/article-720-Kanye-West-Discusses-Profanity-In-His-Lyrics">
+	<img src="images/icon_news.png" alt="" class="article_icon">
+	<img src="pics_upload/tumblr_m4g12g7PQr1rnoi4lo1_1280_thumb.jpg" class="article_pic" alt="Kanye West Discusses Profanity In His Lyrics" title="Kanye West Discusses Profanity In His Lyrics"></a>
+	<div>
+	   <a href="http://www.mzhiphop.com/article-720-Kanye-West-Discusses-Profanity-In-His-Lyrics" alt="Kanye West Discusses Profanity In His Lyrics" title="Kanye West Discusses Profanity In His Lyrics">Kanye West Discusses Profanity In His Lyrics</a><br>
+	   Kanye West talks about the profanity &amp; profundity in his lyrics in a recent interview, before being impressed with his own statement.
+	</div>
+    </div><div class="news_a_box" style="margin-right: 8px;">
+	<a href="http://www.mzhiphop.com/article-719-Hustle-Gang's-Doe-B-Killed-In-Alabama-Club-Shooting">
+	<img src="images/icon_news.png" alt="" class="article_icon">
+	<img src="pics_upload/64630ee16ed335df670eaccdc39e24b3_thumb.jpg" class="article_pic" alt="Hustle Gang's Doe B Killed In Alabama Club Shooting" title="Hustle Gang's Doe B Killed In Alabama Club Shooting"></a>
+	<div>
+	   <a href="http://www.mzhiphop.com/article-719-Hustle-Gang's-Doe-B-Killed-In-Alabama-Club-Shooting" alt="Hustle Gang's Doe B Killed In Alabama Club Shooting" title="Hustle Gang's Doe B Killed In Alabama Club Shooting">Hustle Gang's Doe B Killed In Alabama Club Shooting</a><br>
+	   Update: New Details Emerge
+	</div>
+    </div><div class="news_a_box" style="margin-right: 8px;">
+	<a href="http://www.mzhiphop.com/article-718-50-Cent-Would-Like-To-Collaborate-With-Leonardo-DiCaprio">
+	<img src="images/icon_news.png" alt="" class="article_icon">
+	<img src="pics_upload/e3093b2b3373682ce7d1bebb59d708aa_thumb.jpg" class="article_pic" alt="50 Cent Would Like To Collaborate With Leonardo DiCaprio" title="50 Cent Would Like To Collaborate With Leonardo DiCaprio"></a>
+	<div>
+	   <a href="http://www.mzhiphop.com/article-718-50-Cent-Would-Like-To-Collaborate-With-Leonardo-DiCaprio" alt="50 Cent Would Like To Collaborate With Leonardo DiCaprio" title="50 Cent Would Like To Collaborate With Leonardo DiCaprio">50 Cent Would Like To Collaborate With Leonardo DiCaprio</a><br>
+	   50 Cent is looking to work with Hollywood actor Leonardo DiCaprio.
+	</div>
+    </div><div class="news_a_box">
+	<a href="http://www.mzhiphop.com/article-717-DMX-Settles-Million-Dollar-Child-Support-Case">
+	<img src="images/icon_news.png" alt="" class="article_icon">
+	<img src="pics_upload/4277026db03c87451903efcf5454842e_thumb.jpg" class="article_pic" alt="DMX Settles Million-Dollar Child Support Case" title="DMX Settles Million-Dollar Child Support Case"></a>
+	<div>
+	   <a href="http://www.mzhiphop.com/article-717-DMX-Settles-Million-Dollar-Child-Support-Case" alt="DMX Settles Million-Dollar Child Support Case" title="DMX Settles Million-Dollar Child Support Case">DMX Settles Million-Dollar Child Support Case</a><br>
+	   DMX has settled his lingering $1M child support case.
+	</div>
+    </div>    </div>
+  </div>
+    
+  <div id="bg_location"><a href="http://www.mzhiphop.com/">Home Page</a> &gt; <a href="http://www.mzhiphop.com/privacy.php">Privacy</a> <a href="http://www.mzhiphop.com/"><img src="images/btn_homepage.png" alt=""></a></div>
+
+  <div id="content_con">
+
+    <div style="height: 46px;">
+      <div class="hugh_title">
+	<img src="images/text_privacy.png" style="margin-left: 10px;" alt="">&nbsp;
+      </div>
+      <div class="song_list_title_hr"></div>
+    </div>
+
+  <div id="page_content">
+MZHIPHOP.com is committed to protecting your privacy online. We will not rent, sell or share your personal information with third parties, except when required by law.<br>
+<br>
+<b>What information do we collect?</b><br>
+MZHIPHOP.com collects some personal information when you register on our website.<br>
+<br>
+<b>What are “cookies” and how do we use them?</b><br>
+Cookies are a feature of Web browser that allows Web servers to recognize the computer used to access a Web site. Cookies are used to manage your user session to ensure smooth and personalized browsing experience.<br>
+<br>
+<b>What do we do with the information we collect?</b><br>
+We use the information we collect to help provide you personalized contents.<br>
+<br>
+<b>Your Consent</b><br>
+By using our website, you consent to the collection and use of your personal information by MZHIPHOP.com as outlined in this Privacy Policy.<br>
+<br>
+<b>Modification of Privacy Policy</b><br>
+MZHIPHOP may modify the Privacy Policy which will become effective immediately upon posting on the website. Your continued use of the website and any associated services indicates your acceptance of the Privacy Policy.
+  </div>
+
+  </div>
+
+              <div id="footer">
+	<a href="http://www.mzhiphop.com/">Home</a>
+	<a href="http://www.mzhiphop.com/songs.php">Songs</a>
+	<a href="http://www.mzhiphop.com/videos.php">Videos</a>
+	<a href="http://www.mzhiphop.com/news.php">News</a>
+	<a href="http://www.mzhiphop.com/top100.php">Top100</a>
+	<a href="http://www.mzhiphop.com/allupdates.php">All Updates</a>
+	<a href="http://www.mzhiphop.com/contact.php">Contact</a>
+	<a href="http://www.mzhiphop.com/tos.php">Terms</a>
+	<a href="http://www.mzhiphop.com/privacy.php">Privacy</a>
+	<a href="http://www.mzhiphop.com/dmca.php">DMCA</a>
+
+	<div class="footer_sep"></div>
+
+	Copyright © 2010-2013 MzHipHop All Rights Reserved.
+      </div>
+         </div>
+</div>
+<div style="height: 90px;"><!-- --></div>
+</body></html>
