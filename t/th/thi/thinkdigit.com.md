@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkdigit.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604100614id_/http%3A//www.thinkdigit.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkdigit.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231021631id_/http%3A//www.thinkdigit.com/privacy-policy.php) for the most accurate reproduction.*
 
 # PrivacyPolicy - Thinkdigit.com
 
