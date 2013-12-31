@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skirt.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531220019id_/http%3A//skirt.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skirt.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231082158id_/http%3A//skirt.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | skirt!
 
