@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the researchnow.com privacy policy that was archived on 2013-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530081018id_/http%3A//www.researchnow.com/en-US/Help/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the researchnow.com privacy policy that was archived on 2013-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131231200500id_/http%3A//www.researchnow.com/en-US/Help/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Privacy Policy
@@ -29,12 +29,22 @@
                     $(".servicesdropped").toggle();
                     //var servicesDropdown = $.get(".downservices");
                     $("li.downservices").toggleClass("troynew");
+					if($('li.downservices').hasClass('troynew')){
+					$('#gallery').css('zIndex',-1);
+					} else {
+					$('#gallery').css('zIndex',1);
+					}
                 });
 
                 $("#countries").click(function () {
                     var servicesDropdown = $.get(".downservices");
                     $(".servicesdropped").toggle();
                     $("li.downservices").toggleClass("troynew");
+					if($('li.downservices').hasClass('troynew')){
+					$('#gallery').css('zIndex',-1);
+					} else {
+					$('#gallery').css('zIndex',1);
+					}
                 });
             } else {
                 $(".downservices").click(function () {
@@ -195,7 +205,7 @@ Cufon.replace('fieldset strong ,.socialnet strong,.downloads strong,.text-box h2
                 Change country
             </h3>
             <p>
-                <select id="countries" size="5" name="usersselect" style="width: 160px;">
+                <select id="countries" size="5" name="usersselect" style="width: 160px; height: 195px;">
                     
                             <option value="USA">
                                 USA</option>
@@ -517,14 +527,7 @@ Cufon.replace('fieldset strong ,.socialnet strong,.downloads strong,.text-box h2
     
 </ul>
 
-<div id="header_0_pnlGEOIP" class="messaging">
-	
 
-  <p><span class="turq">We have detected that you are based in United Kingdom.</span><br>
-  Do you wish to visit the <a href="/en-US/Help/PrivacyPolicy.aspx?language=en-GB" id="header_0_lnkGeoIP" class="blue">United Kingdom Website?</a></p>
-
-
-</div>
 
         </div>
         <!-- main -->
@@ -546,7 +549,7 @@ Cufon.replace('fieldset strong ,.socialnet strong,.downloads strong,.text-box h2
                 </li>
             
                 <li>
-                    <a id="content_0_left_0_sidebarcontent1_0_repMenuAboutUs_ctl01_hlMenuLink" href="/en-US/AboutUs/WhyRN.aspx">Why Research Now ?</a>
+                    <a id="content_0_left_0_sidebarcontent1_0_repMenuAboutUs_ctl01_hlMenuLink" href="/en-US/AboutUs/WhyRN.aspx">Why Research Now?</a>
                 </li>
             
                 <li>
@@ -838,7 +841,7 @@ If we are going to use personal data in a manner materially different from that 
                                 </li>
                              
                                 <li>
-                                    <a id="footer_0_repBottomMenuOuter_ctl00_repBottomMenuInner_ctl09_hlSubMenuLink" href="/en-US/Services/EvoListen.aspx">EvoListen™</a>                         
+                                    <a id="footer_0_repBottomMenuOuter_ctl00_repBottomMenuInner_ctl09_hlSubMenuLink" href="/en-US/Services/EvoListen.aspx">EvoListen®</a>                         
                                 </li>
                              
                                 <li>
@@ -993,7 +996,7 @@ If we are going to use personal data in a manner materially different from that 
                                 </li>
                              
                                 <li>
-                                    <a id="footer_0_repBottomMenuOuter_ctl03_repBottomMenuInner_ctl01_hlSubMenuLink" href="/en-US/AboutUs/WhyRN.aspx">Why Research Now ?</a>                         
+                                    <a id="footer_0_repBottomMenuOuter_ctl03_repBottomMenuInner_ctl01_hlSubMenuLink" href="/en-US/AboutUs/WhyRN.aspx">Why Research Now?</a>                         
                                 </li>
                              
                                 <li>
@@ -1048,7 +1051,7 @@ If we are going to use personal data in a manner materially different from that 
 
 	</div>
 </div>
-<span class="copy">Copyright © <strong>research now</strong> 2013 </span>
+<span class="copy"> ©2013 <strong>Research Now. All rights reserved.</strong></span>
     </div>
     
 	
