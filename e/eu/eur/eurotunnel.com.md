@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurotunnel.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105012245id_/http%3A//www.eurotunnel.com/uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurotunnel.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231151002id_/http%3A//www.eurotunnel.com/privacy) for the most accurate reproduction.*
 
 # Eurotunnel Privacy and cookie policy
 
@@ -112,4 +112,4 @@ Our site contains links to other websites operated by third parties. We do not h
 
 ##### How do you know if our privacy policy has changed?
 
-Any changes to our privacy policy in the future will be posted to this site and, where appropriate, through e-mail notification.
+Any changes to our privacy policy in the future will be posted to this site and, where appropriate, through e-mail notification..
