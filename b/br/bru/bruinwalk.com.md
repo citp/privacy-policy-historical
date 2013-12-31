@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bruinwalk.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509162606id_/http%3A//www.bruinwalk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bruinwalk.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231135032id_/http%3A//www.bruinwalk.com/privacy) for the most accurate reproduction.*
 
 # BruinWalk: Privacy policy
 
