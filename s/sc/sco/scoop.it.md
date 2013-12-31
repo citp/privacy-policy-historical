@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoop.it privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521092234id_/http%3A//www.scoop.it/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoop.it privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231033021id_/http%3A//www.scoop.it/privacy-policy) for the most accurate reproduction.*
 
 # Scoop.it
 
