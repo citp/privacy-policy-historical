@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the eastcoast.co.uk privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622044205id_/http%3A//www.eastcoast.co.uk/-general-links-/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastcoast.co.uk privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231194555id_/http%3A//www.eastcoast.co.uk/-general-links-/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy > East Coast
 
-This privacy policy outlines the procedures East Coast Main Line Company Limited has in place regarding the collection and use of any personal information (i.e. information from which you can be identified) that you give us or we collect when you use this website, our mobile site, mobile applications and/or the on-board Wi-Fi and Hotspot Wi-Fi service (Wi-Fi access at East Coast stations) or SMS feedback service. We respect your privacy and take care in the storage and use of your personal information. If you have any questions or queries regarding this policy, please contact our Customer Relations Team at [**customers@eastcoast.co.uk**](mailto:customers@eastcoast.co.uk).
+This privacy policy outlines the procedures East Coast Main Line Company Limited has in place regarding the collection and use of any personal information (i.e. information from which you can be identified) that you give us or we collect when you use this website, our mobile site, mobile applications, social media channels and/or the on-board Wi-Fi and Hotspot Wi-Fi service (Wi-Fi access at East Coast stations) or SMS feedback service. We respect your privacy and take care in the storage and use of your personal information. If you have any questions or queries regarding this policy, please contact our Customer Relations Team at [**customers@eastcoast.co.uk**](mailto:customers@eastcoast.co.uk).
 
   
 We may change this policy from time to time by updating this page. You should check this page from time to time to ensure you are happy with any changes. This policy is effective from 26 May 2012.
 
-We consider as private any of your personal information supplied by you or given to us while you use **eastcoast.co.uk** , our mobile website, mobile applications, on-board and Hotspot Wi-Fi, or the SMS feedback service and will hold it and process it in accordance with this Privacy Policy and all applicable Data Protection legislation currently in force.
+We consider as private any of your personal information supplied by you or given to us while you use **eastcoast.co.uk** , our mobile website, mobile applications, social media channels, on-board and Hotspot Wi-Fi, or the SMS feedback service and will hold it and process it in accordance with this Privacy Policy and all applicable Data Protection legislation currently in force.
 
 Information we may collect, may include, by way of example, the following examples:
 
@@ -30,7 +30,8 @@ We will use this information for the following reasons:
   * to improve our products and services;
   * to treat your more personally;
   * to tailor how our site can help you;
-  * for analysis about how customers use the website; 
+  * for analysis about how customers use the website; 
+  * for analysis of our marketing activities;
   * to track usage of particular websites through the on-board and Hotspot W-Fi;
   * to follow up if you have purchased goods or services from our website;
   * to follow up as part of our customer care procedures; and/or
