@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nationbuilder.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529125942id_/http%3A//nationbuilder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationbuilder.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231213311id_/http%3A//nationbuilder.com/privacy) for the most accurate reproduction.*
 
-# NationBuilder privacy policy
+# NationBuilder Privacy Policy
 
 Effective Date: March 28, 2011
 
