@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zendesk.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502090229id_/http%3A//www.zendesk.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zendesk.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231221051id_/http%3A//www.zendesk.com/company/privacy) for the most accurate reproduction.*
 
 # Zendesk Privacy Policy
 
