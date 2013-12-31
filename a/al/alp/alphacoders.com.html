@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the alphacoders.com privacy policy that was archived on 2013-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130603005911id_/http%3A//alphacoders.com/site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alphacoders.com privacy policy that was archived on 2013-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131231112207id_/http%3A//alphacoders.com/site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <title>
@@ -8,7 +8,7 @@
 
         <meta name="description" content="Enjoy art, wallpapers, and quotes!">
         <meta charset="utf-8">
-        <link href="http://alphacoders.com/css/site_new.css" rel="stylesheet" type="text/css"><link href="http://alphacoders.com/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"><link href="http://alphacoders.com/favicon.ico" rel="shortcut icon" type="image/ico">
+        <link href="http://alphacoders.com/css/site_new.css" rel="stylesheet" type="text/css"><link href="http://static.alphacoders.com/site.css" rel="stylesheet" type="text/css"><link href="http://static.alphacoders.com/bootstrap_test/css/bootstrap.min.css" rel="stylesheet" type="text/css"><link href="http://alphacoders.com/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"><link href="http://alphacoders.com/favicon.ico" rel="shortcut icon" type="image/ico">
 
         <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://static.alphacoders.com/jquery.js"></script>
         <script type="text/javascript" src="http://static.alphacoders.com/ckeditor/ckeditor.js"></script>
@@ -57,6 +57,13 @@
         });
     }
 
+    function favoritePic(id, item_id) {
+        $.post("http://alphacoders.com/pictures/favorite", { id: id},
+            function(data) {
+                $("#favorite_pic_" + item_id).html(data);
+            });
+    }
+
     function rateArt(rating, art_id, mode, item_id)
     {
             $.post("http://alphacoders.com/arts/rate", { rating: rating, id: art_id, mode: mode },
@@ -93,6 +100,13 @@
             function(data) {
                 $("#rate_" + item_id).html(data);
         });
+    }
+
+    function rateComment(rating, comment_id) {
+        $.post("http://alphacoders.com/comments/rate", { rating: rating, id: comment_id},
+            function(data) {
+                $("#rate_" + comment_id).html(data);
+            });
     }
 
     function unfan_user(id)
@@ -291,136 +305,117 @@ overflow: hidden !important;
 
 
 
-  <div class="navbar navbar-inverse">
+  <div class="navbar navbar-inverse" style="margin-bottom:0px;">
   <div class="navbar-inner">
     <div class="container-fluid">
 
-      <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </a>
+        <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </a>
 
-        <a class="brand" href="http://alphacoders.com/"><i class="icon-home icon-white"></i> Alpha Coders</a>
+        <ul class="nav">
+            <li class="dropdown" data-toggle="collapse" data-target="#alpha_coders_content"><a class="dropdown-toggle brand" href="#"><i class="icon-home white"></i> Alpha Coders <span class="caret"></span></a></li>
+        </ul>
 
+        <!-- Everything you want hidden at 940px or less, place within here -->
+        <div class="nav-collapse">
+            <ul class="nav">
+                <li class="dropdown" data-toggle="collapse" data-target="#submit_content"><a class="dropdown-toggle" href="#"><i class="icon-circle-arrow-up white"></i> Submit <span class="caret"></span></a></li>
+                <li class="dropdown" data-toggle="collapse" data-target="#cool_stuff"><a class="dropdown-toggle" href="#"><i class="icon-gift white"></i> Cool Stuff <span class="caret"></span></a></li>
+            </ul>
 
-	 <ul class="nav">
-		  <li class="dropdown">
-                    <a data-toggle="dropdown" class="dropdown-toggle" href="#"><i class="icon-star-empty icon-white"></i> Our Websites <b class="caret"></b></a>
-                    <ul class="dropdown-menu">
+        </div> <!--/.nav-collapse -->
 
-                        <li class="nav-header">We Also Have</li>
-                                                   <li><a href="http://wall.alphacoders.com">Wallpapers</a></li>
-                                <li><a href="http://art.alphacoders.com">Art</a></li>
-                                <li><a href="http://photos.alphacoders.com">Photography</a></li>
-                                <li><a href="http://games.alphacoders.com">Games</a></li>
-                                <li><a href="http://movies.alphacoders.com">Movies</a></li>
-                                <li><a href="http://tvshows.alphacoders.com">TV Shows</a></li>
-                                <li><a href="http://gifs.alphacoders.com">Gifs</a></li>
-                                <li><a href="http://memes.alphacoders.com">Memes</a></li>
-                                <li><a href="http://avatars.alphacoders.com">Forum Avatars</a></li>
-                                <li><a href="http://quote.alphacoders.com">Quotes</a></li>
-                                <li><a href="http://img.alphacoders.com">Image Hosting</a></li>
-
-				<li class="nav-header">More Of Our Websites!</li>
-                                <li><a href="http://forum.alphacoders.com">Our Forums - With Chat!</a></li>
-				<li><a href="http://neo.alphacoders.com">Neo Colony - Custom Communities!</a></li>
-				<li><a href="http://ping.alphacoders.com">Up Ping - Monitor Your Website</a></li>
-				<li><a href="http://alphacoders.com/incubators">Incubator - Our Beta Websites</a></li>
-                            <li class="divider"></li>
-                            <li><a href="http://alphacoders.com">All By Alpha Coders!</a></li>
-                                          </ul>
-            </li>
-	</ul>
-
-	<ul class="nav">
-	  <li class="dropdown">
-		  <a data-toggle="dropdown" class="dropdown-toggle" href="#"><i class="icon-circle-arrow-up icon-white"></i> Submit <b class="caret"></b></a>
-		  <ul class="dropdown-menu">
-                    <li class="nav-header">It's easy and fun</li>
-
-                    <li><a href="http://wall.alphacoders.com/submit.php">Wallpapers</a></li>
-                    <li><a href="http://art.alphacoders.com/arts/submit">Art</a></li>
-                    <li><a href="http://photos.alphacoders.com/photos/submit">Photography</a></li>
-                    <li><a href="http://quote.alphacoders.com/quotes/submit">Quotes</a></li>
-                    <li><a href="http://gifs.alphacoders.com/gifs/submit">Gifs</a></li>
-                    <li><a href="http://memes.alphacoders.com/memes/submit">Memes</a></li>
-                    <li><a href="http://avatars.alphacoders.com/avatars/submit">Avatars</a></li>
-                    <li><a href="http://neo.alphacoders.com">To Neo Colony</a></li>
-                    <li><a href="http://blogs.alphacoders.com/blogs/submit">A Blog Post</a></li>
-		  </ul>
-		</li>
-	</ul>
-
-
-	
-
-
-	 <ul class="nav">
-		  <li class="dropdown">
-                      <a data-toggle="dropdown" class="dropdown-toggle" href="#"><i class="icon-gift icon-white"></i> Cool Stuff <b class="caret"></b></a>
-              <ul class="dropdown-menu">
-
-
-                 <li class="nav-header">Monthly Contests !</li>
-
-
-
-                 <li><a href="http://alphacoders.com/contests"><img src="http://static.alphacoders.com/raffle-20-Minecraft-Light-Up-Redstone-Ore.png">                    It's a Raffle! For this lovely:
-                    Minecraft Light-Up Redstone Ore                    </a></li>
-                    <li><a href="http://alphacoders.com/contests"><img src="http://static.alphacoders.com/raffle-20-Adventure-Time-Finns-Sword.png">                    It's a Raffle! For this lovely:
-                    Adventure Time Finns Sword                    </a></li>
-                    <li><a href="http://alphacoders.com/contests">Anyone with points can enter raffles and suggest future items!</a></li>
-
-                <li class="nav-header">Earn By Participating !</li>
-
-                     <a href="http://alphacoders.com/ac_points/index"></a><li><a href="http://alphacoders.com/ac_points/index"><img src="http://alphacoders.com/images/up.png">
-                     Earn <strong>AC Points</strong> by participating in our community!
-					 </a></li>
-
-					
-				<li class="nav-header">Submissions Do Good!</li>
-
-
-              
-                <li><a href="http://alphacoders.com/site/helping_others">
-				<img src="http://alphacoders.com/images/tree.png" alt="">
-                Submissions help the environment!</a></li>
-
-
-				<li><a href="http://alphacoders.com/site/helping_others">
-                <img style="height:20px;" src="http://alphacoders.com/images/kiva.png">
-                Submissions also help more people build their dreams!
-				</a></li>
-
-
-
-
-
-
-              </ul>
-            </li>
-	</ul>
-
-	  <!-- Everything you want hidden at 940px or less, place within here -->
-      <div class="nav-collapse">
-
-					<p class="navbar-text pull-right"><a href="http://alphacoders.com/users/login">Login</a> or <a href="http://alphacoders.com/users/register">Register</a>			
-
-      </p></div><!--/.nav-collapse -->
-
-    </div>
+                    <p class="navbar-text pull-right"><a href="http://alphacoders.com/users/login">Login</a> or <a href="http://alphacoders.com/users/register">Register</a>
+                </p></div>
   </div>
 </div>
 
+
+
+<div id="alpha_coders_content" class="collapse" style="width:90%;  padding-left:5%; padding-right:5%; background-color:#171717;">
+    <h3 class="white">Alpha Coders Content:</h3>
+    <ul class="nav nav-pills">
+        <li class="active"><a href="http://alphacoders.com">Alpha Coders Home</a></li>
+        <li><a href="http://wall.alphacoders.com">Wallpapers and Backgrounds</a></li>
+        <li><a href="http://art.alphacoders.com">Art</a></li>
+        <li><a href="http://photos.alphacoders.com">Photography</a></li>
+        <li><a href="http://games.alphacoders.com">Games</a></li>
+        <li><a href="http://movies.alphacoders.com">Movies</a></li>
+        <li><a href="http://tvshows.alphacoders.com">TV Shows</a></li>
+        <li><a href="http://gifs.alphacoders.com">Animated Gifs</a></li>
+        <li><a href="http://memes.alphacoders.com">Memes</a></li>
+        <li><a href="http://avatars.alphacoders.com">Forum Avatars</a></li>
+        <li><a href="http://fbcovers.alphacoders.com">Facebook Covers</a></li>
+        <li><a href="http://quote.alphacoders.com">Quotes and Sayings</a></li>
+        <li><a href="http://img.alphacoders.com">Image Hosting</a></li>
+        <li><a href="http://alphacoders.com/pictures">Pictures and Images</a></li>
+        <li><a href="http://communities.alphacoders.com">Discussions</a></li>
+        <li><a href="http://forum.alphacoders.com">Forums with Chat</a></li>
+    </ul>
+</div>
+
+<div id="submit_content" class="collapse" style="width:100%; padding-left:10px; background-color:#171717;">
+    <h4 class="white">Submit Things, Earn Points, Have Fun.</h4>
+    <ul class="nav nav-pills">
+        <li><a href="http://alphacoders.com/site/submit">Wallpapers and Backgrounds</a></li>
+        <li><a href="http://alphacoders.com/site/submit">Art</a></li>
+        <li><a href="http://alphacoders.com/site/submit">Photography</a></li>
+        <li><a href="http://alphacoders.com/site/submit">Animated Gifs</a></li>
+        <li><a href="http://alphacoders.com/site/submit">Memes</a></li>
+        <li><a href="http://alphacoders.com/site/submit">Forum Avatars</a></li>
+        <li><a href="http://quote.alphacoders.com/quotes/submit">Quotes and Sayings</a></li>
+        <li><a href="http://alphacoders.com/site/submit">Pictures and Images</a></li>
+    </ul>
+</div>
+
+<div id="cool_stuff" class="collapse" style="width:100%; padding-left:10px; background-color:#171717;">
+    <h3 class="white">We Have Monthly Contests and Prizes</h3>
+    <ul class="nav nav-pills nav-stacked"><li class="active"><a href="http://alphacoders.com/contests"><img src="http://static.alphacoders.com/raffle-50-Dragon-Ball.png">            It's a Raffle! For this lovely:
+            Dragon Ball            </a></li>
+        </ul>    <ul class="nav nav-pills">
+        <li><a href="http://alphacoders.com/contests/current_raffle">Anyone with points can enter!</a></li>
+        <li><a href="http://alphacoders.com/contests/current_raffle"><i class="icon-arrow-up white"></i> Earn Points By Participating!</a></li>
+    </ul>
+
+    <h5 class="white">Submissions Do Good!</h5>
+
+    <ul class="nav nav-pills">
+        <li><a href="http://alphacoders.com/site/helping_others">
+                <i class="icon-leaf"></i> Submissions help the environment</a></li>
+
+
+        <li><a href="http://alphacoders.com/site/helping_others">
+                <i class="icon-plus"></i> Submissions also help more people build their dreams!</a></li>
+    </ul>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="nav nav-tabs">
+    <li><a href="http://alphacoders.com/">Featured Collections</a></li>
+    <li><a href="http://alphacoders.com/site/popular">Popular Submissions This Week</a></li>
+</ul>
 
 
 <div class="fluid-container sidebar-left clearfix">
 
     <div class="fluid-sidebar" style="width:300px; margin-left:-310px; float:left;">
 
-<!-- SIDE CONTENT -->
-    <script type="text/javascript">
+    <!-- SIDE CONTENT -->
+        <script type="text/javascript">
         var googletag = googletag || {};
         googletag.cmd = googletag.cmd || [];
         (function() {
@@ -460,18 +455,8 @@ overflow: hidden !important;
     </ul>
 
     <form action="http://alphacoders.com/site/privacy" method="post" accept-charset="utf-8">    <table style="width:98%; margin-left:auto; margin-right:auto;">
+
         <tbody><tr>
-            <td>
-              Type
-            </td>
-            <td>
-                <select name="type" id="type" class="input-large">
-                    <option value="popular" selected="true">Popular This Week</option>
-                    <option value="all">Recent Activity</option>
-                </select>
-            </td>
-        </tr>
-        <tr>
             <td>
                View
             </td>
@@ -485,7 +470,7 @@ A PHP Error was encountered
 Severity: Notice
 Message:  Undefined variable: view
 Filename: site/side.php
-Line Number: 58
+Line Number: 54
 
 &gt;Rows</option>
                 </select>
@@ -530,33 +515,33 @@ Line Number: 58
                 <li><center><a href="http://alphacoders.com/collections">View All Collections</a></center></li>                    <li>
                     <a href="http://alphacoders.com/franchises/view/384">Cats</a>                    </li>
                                         <li>
-                    <a href="http://alphacoders.com/franchises/view/275">Bleach</a>                    </li>
-                                        <li>
                     <a href="http://alphacoders.com/franchises/view/386">Flowers</a>                    </li>
+                                        <li>
+                    <a href="http://alphacoders.com/franchises/view/275">Bleach</a>                    </li>
                                         <li>
                     <a href="http://alphacoders.com/franchises/view/365">Birds</a>                    </li>
                                         <li>
-                    <a href="http://alphacoders.com/franchises/view/307">Aircraft</a>                    </li>
-                                        <li>
-                    <a href="http://alphacoders.com/franchises/view/414">Canines</a>                    </li>
-                                        <li>
-                    <a href="http://alphacoders.com/franchises/view/21">Ford</a>                    </li>
+                    <a href="http://alphacoders.com/franchises/view/368">Dogs</a>                    </li>
                                         <li>
                     <a href="http://alphacoders.com/franchises/view/296">Cities</a>                    </li>
+                                        <li>
+                    <a href="http://alphacoders.com/franchises/view/21">Ford</a>                    </li>
                                         <li>
                     <a href="http://alphacoders.com/franchises/view/301">Buildings</a>                    </li>
                                         <li>
                     <a href="http://alphacoders.com/franchises/view/47">Star Wars</a>                    </li>
                                         <li>
+                    <a href="http://alphacoders.com/franchises/view/542">Military Aircrafts</a>                    </li>
+                                        <li>
                     <a href="http://alphacoders.com/franchises/view/39">Batman</a>                    </li>
                                         <li>
-                    <a href="http://alphacoders.com/franchises/view/285">Mercedes-Benz</a>                    </li>
+                    <a href="http://alphacoders.com/franchises/view/81">Pokémon</a>                    </li>
                                         <li>
-                    <a href="http://alphacoders.com/franchises/view/341">Chevrolet</a>                    </li>
+                    <a href="http://alphacoders.com/franchises/view/72">Star Trek</a>                    </li>
                                         <li>
                     <a href="http://alphacoders.com/franchises/view/276">Ferrari</a>                    </li>
                                         <li>
-                    <a href="http://alphacoders.com/franchises/view/422">Fruits</a>                    </li>
+                    <a href="http://alphacoders.com/franchises/view/285">Mercedes-Benz</a>                    </li>
                     <li><center><a href="http://alphacoders.com/collections">View All Collections</a></center></li>
             </ul>
         </div>
@@ -607,7 +592,7 @@ Line Number: 58
     </ul>
     <i class="icon-leaf"></i> <a href="http://alphacoders.com/site/helping_others">Your submissions help the environment!</a>    <br>
     <img src="http://alphacoders.com/images/present.png" alt="">    Every month we have a raffles for cool stuff!
-    <span class="title_big"></span><br> <a href="http://alphacoders.com/contests/current_raffle">Minecraft Light-Up Redstone Ore</a><span class="title_big"></span><br> <a href="http://alphacoders.com/contests/current_raffle">Adventure Time Finns Sword</a></div>
+    <span class="title_big"></span><br> <a href="http://alphacoders.com/contests/current_raffle">Dragon Ball</a></div>
 
 <div class="well well-small">
     <ul class="nav nav-list">
@@ -672,24 +657,24 @@ Line Number: 58
       <div class="span12">
 
 <table class="content_white"><tbody><tr><td>
-            <center><span class="header">
+            <center><h2>
                     Alpha Coders Privacy Policy
-                </span> </center>
+                </h2> </center>
          
 <span class="info">
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@alphacoders.com.</span>
 
 <span class="nav"><br>
 <p> At wall.alphacoders.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by wall.alphacoders.com and how it is used. </p>
-<br><p> <b>Log Files</b><br> Like many other Web sites, wall.alphacoders.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user?s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. </p>
-<br><p> <b>Cookies and Web Beacons</b><br> wall.alphacoders.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. </p>
-<br><b>DoubleClick DART Cookie</b><br>
-<p>
-.:: Google, as a third party vendor, uses cookies to serve ads on wall.alphacoders.com.<br>
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to wall.alphacoders.com and other sites on the Internet. <br>
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html </p>
-<p> Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....... <br> Google Adsense <br> ValueClick Media
-<br> <br></p>
+<br><p> </p><h4>Log Files</h4><br> Like many other Web sites, wall.alphacoders.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user?s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. <p></p>
+<br><p> </p><h4>Cookies and Web Beacons</h4><br> wall.alphacoders.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. <p></p>
+<br><h4>DoubleClick DART Cookie</h4><br>
+<p></p><ul>
+        <li> Google, as a third party vendor, uses cookies to serve ads on wall.alphacoders.com.</li>
+        <li> Google's use of the DART cookie enables it to serve ads to your users based on their visit to wall.alphacoders.com and other sites on the Internet. </li>
+        <li> Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <a href="http://www.google.com/privacy_ads.html"></a> <p></p></li></ul>
+<p> Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....... <br></p><ul><li> Google Adsense</li><li>  ValueClick Media</li></ul>
+<br> <br><p></p>
 <p> These third-party ad servers or ad networks use technology to the advertisements and links that appear on wall.alphacoders.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. </p>
 <p> wall.alphacoders.com has no access to or control over these cookies that are used by third-party advertisers. </p>
 <p> You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. wall.alphacoders.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. </p>
@@ -745,7 +730,7 @@ We use third-party advertising companies to serve ads when you visit our Website
       <center><h5 class="white">Website text and design is copyright 2012 Alpha Coders.<br>
           All submitted content remains copyright its original copyright holder | <a href="http://alphacoders.com/site/copyright">DMCA Copyright Violation</a><br>Images are for personal, non commercial use.</h5></center>
 
-<center><span class="white">Page Rendered In: 0.0154 Seconds&nbsp;|&nbsp;This page is using: 1.39MB of memory.</span></center></div>
+<center><span class="white">Page Rendered In: 0.0151 Seconds&nbsp;|&nbsp;This page is using: 1.42MB of memory.</span></center></div>
 
       <br>      
     
