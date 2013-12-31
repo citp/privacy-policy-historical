@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kickstarter.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620133813id_/http%3A//www.kickstarter.com/privacy%3Fref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kickstarter.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231023411id_/http%3A//www.kickstarter.com/privacy%3Fref%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy — Kickstarter
 
