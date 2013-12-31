@@ -1,100 +1,133 @@
-> *The following text is extracted and transformed from the sareeka.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sareeka.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231181320id_/http%3A//www.sareeka.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+We take your privacy seriously, and we want you to know how we collect, use, share and protect your information.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+**INFORMATION WE COLLECT**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Information You Give Us
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+We receive and may store any information you enter on our website. For example, we collect information from you when you place an order, create an account, call us with a question, create a Wish List, write a review, or use any of our services.
 
-**Information Collection and Use**
+The information we collect from you includes things like:
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+• Your name
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+• Your mailing address
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+• Your e-mail address
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+• Your phone number
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+• Demographic and lifestyle information, such as age, personal interests and product preferences
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+• Location information
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+It may also include information you give us about other people, such as the name and address of a gift recipient, or the name and contact info of a Friends & Family.
 
-**Security**
+Information from Other Sources
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+We may also receive information about you from other sources, including third parties that help us update, expand and analyze our records and identify new customers.
 
-**Updating Your Information**
+**Automatic Information**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Like many other websites, we also collect information through cookies and other automated means. Cookies are commonly used by websites to save data on your computer. The information we collect from cookies may include your IP address, browser and device characteristics, referring URLs, and a record of your interactions with our websites. We use cookies to create a more personalized shopping experience on our websites. This cookie may facilitate the tailoring of advertisements and offers to you, sometimes in connection with interest-based advertising.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+To help us understand and enhance our interactions with visitors to our websites, we may permit web analytics providers to collect information on our websites using automated tools like cookies. We also may share personal information with those providers. We may have similar arrangements with interest-based advertisers. Interest-based advertising is covered in more detail below.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**Location Information**
 
-      iii.      You may call us at: (480) 505-8800
+Our website may collect certain information such as the type of device you're using or your specific location to help your shipping cost.
 
-       iv.      You may fax us at: (480) 505-8844
+**Public Blog, Reviews, Forums  **
 
-**Sending Emails**
+Our website offer publicly accessible blogs, reviews or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+**HOW WE USE THE INFORMATION WE COLLECT**
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+We use the information we collect for things like:
 
-**Compliance with Laws and Law Enforcement**
+• Fulfilling orders and requests for products, services or information
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+• Processing returns, exchanges and layaway requests
 
-**Third Party Service Providers**
+• Tracking and confirming online orders
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+• Delivering products
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+• Managing our Reward Zone program
 
-**Supplementation of Information**
+• Marketing and advertising products and services
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+• Conducting research and analysis
 
-**Contests/Surveys**
+• Establishing and managing your accounts with us
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+• Communicating things like special events, sweepstakes, promotions and surveys
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+• Identifying you on our websites and tailoring advertisements and offers to you based on your interactions online.
 
-**Tell-A-Friend**
+• Facilitating interactions with Sareeka and others, such as enabling you to e-mail a link to a friend
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+• Operating, evaluating and improving our business
 
-**What Happens to my Personal Information if I Opt Out?**
+**Data Retention**
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-**Transfer of Data Abroad**
+**HOW WE SHARE THE INFORMATION WE COLLECT**
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+Sareeka does not sell, rent or trade your personal information to third parties.
 
-**Changes in Our Practices**
+We may share your information with third parties to perform services on our behalf such as:
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+• Fulfilling orders
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+• Delivering packages
 
-**Contacting Our Site**
+• Sending Sareeka marketing communications
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+• Fulfilling subscription services
 
-* * *
+• Conducting research and analysis
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+• Providing chat functions
+
+Sometimes we may be required to share personal information in response to a regulation, court order or subpoena. We may also share information when we believe it's necessary to comply with the law. We may also share information to respond to a government request or when we believe disclosure is necessary or appropriate to protect the rights, property or safety of Sareeka, our customers, or others; to prevent harm or loss; or in connection with an investigation of suspected or actual unlawful activity.
+
+We may also share personal information in the event of a corporate sale, merger, acquisition, dissolution or similar event.
+
+**HOW WE PROTECT THE INFORMATION WE COLLECT**
+
+Whether you are shopping online or in our stores, we use reasonable security measures to protect the confidentiality of personal information under our control and appropriately limit access to it. Sareeka cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.
+
+**YOUR CHOICES REGARDING THE INFORMATION WE COLLECT**
+
+You may choose to:
+
+• Stop receiving marketing or promotional e-mails, direct mail, phone and mobile marketing communications
+
+• Update and correct your personal information
+
+• Cancel your account or request that we no longer use your information to provide you services
+
+• Request removal of your personal information from our blog or community forum
+
+To do any of these, let us know by one of these methods:
+
+• Follow the directions in a marketing e-mail or direct mail or mobile communication that you receive from us
+
+• Send an e-mail with your request and current contact information to info@sareeka.com
+
+**LINKS TO OTHER WEBSITES**
+
+Our websites link to other websites, many of which have their own privacy policies. Be sure to review the privacy policy on the site you're visiting.
+
+**PRIVACY POLICY UPDATES**
+
+We may need to update our Privacy Policy as Sareeka and our customers grow and evolve.
+
+**HAVE QUESTIONS?**
+
+If you have any questions about our Privacy Policy, we'll do our best to answer them. Please contact us at info@sareeka.com
