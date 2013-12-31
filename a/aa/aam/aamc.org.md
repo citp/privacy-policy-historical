@@ -1,22 +1,10 @@
-> *The following text is extracted and transformed from the aamc.org privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615130141id_/https%3A//www.aamc.org/44866/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aamc.org privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231021450id_/https%3A//www.aamc.org/44866/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - AAMC
 
 Last updated: May 21, 2013 
 
-_AAMC recently made changes to its privacy statement to permit the AAMC to use your personal information in the following ways:_
-
-> • _To conduct market research,_
-> 
-> • _To pre-populate contact information in meeting registration forms,_
-> 
-> • _To inform you about AAMC programs, products, or services that may be of interest to you, and_
-> 
-> • _To acknowledge that AAMC, and the third parties with whom it is permitted to share your personal information, may charge others reasonable fees for the data._
-
- _If you have any questions about these changes, please contact_ [privacy@aamc.org](mailto:privacy@aamc.org) _._
-
-####  **Our Commitment to Privacy**
+#### **Our Commitment to Privacy**
 
 We recognize that users of this Web site, AAMC programs and services, and surveys may have questions about how and why this information is collected. This privacy notice explains what kinds of information we collect through our Web site, Web-based applications, and other AAMC programs, and how we use this information.
 
@@ -91,7 +79,7 @@ Certain AAMC services and surveys provide additional detailed information regard
 ---|---  
 Annual Development Survey| [Users' Guide 2012 Edition ](https://www.aamc.org/download/321632/data/2012usersguide.pdf)  
 AMCAS® (American Medical College Application Service®)| [AAMC Policies Regarding the Collection, Use, and Dissemination of Medical Student and Applicant Data](https://www.aamc.org/students/applying/amcas/amcasresources/60768/amcas_datacollection.html)  
-ERAS® (Electronic Residency Application Service)| [AAMC Policies Regarding the Collection, Use, and Dissemination of Resident, Intern, Fellow, and Residency, Internship, and Fellowship Application Data  ](https://www.aamc.org/download/69376/data/eras-data-policy.pdf)  
+ERAS® (Electronic Residency Application Service)| [AAMC Policies Regarding the Collection, Use, and Dissemination of Resident, Intern, Fellow, and Residency, Internship, and Fellowship Application Data ](https://www.aamc.org/download/139278/data/datapolicy.pdf)  
 Faculty Roster| [Privacy Policy](https://www.aamc.org/data/facultyroster/privacy_policy/)  
 FindAResident®| [FindAResident Privacy and Data Policy  ](https://www.aamc.org/download/69918/data/privacydatapolicy.pdf)  
 GHLO™ (Global Health Learning Opportunities)| [GHLO Services Privacy Statement](https://www.aamc.org/services/ghlo/policies/)  
