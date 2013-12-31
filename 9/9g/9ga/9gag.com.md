@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9gag.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629200319id_/http%3A//9gag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9gag.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231085351id_/http%3A//9gag.com/privacy) for the most accurate reproduction.*
 
 # 9GAG - Just For Fun
 
@@ -64,5 +64,3 @@ If you have any questions about this privacy policy or our sites in general, ple
 
 
 
-
-[Give Feedback](mailto:newdesign@9gag.com?subject=Shut%20up%20and%20take%20my%20feedback)
