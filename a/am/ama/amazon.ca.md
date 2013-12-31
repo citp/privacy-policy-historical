@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazon.ca privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620084046id_/http%3A//www.amazon.ca/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D918814) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazon.ca privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231014116id_/http%3A//www.amazon.ca/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D918814) for the most accurate reproduction.*
 
 # Amazon.ca Help: Amazon.ca Privacy Notice
 
