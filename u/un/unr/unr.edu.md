@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unr.edu privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030041222id_/http%3A//www.unr.edu/general-information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unr.edu privacy policy that was archived on 2014-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140102121029id_/http%3A//www.unr.edu/general-information/privacy) for the most accurate reproduction.*
 
 # Privacy: General Information: University of Nevada, Reno
 
@@ -16,15 +16,15 @@ Contact |  [Contact Us](http://www.unr.edu/general-information/contact-us "Conta
   
 ## Privacy
 
-The following policy describes the information gathering and dissemination practices for the University of Nevada, Reno's main website ([www.unr.edu](http://www.unr.edu/)), all sites in the unr.edu domain, and other affiliated University websites/domains:
+The following policy describes the information gathering and dissemination practices for the [University of Nevada, Reno's main website](http://www.unr.edu/), all sites in the unr.edu domain, and other affiliated University websites/domains:
 
 ### Information gathering and Cookies
 
 The University of Nevada, Reno uses cookies and server log information to track user activity on the unr.edu website. This information includes, but is not limited to:
 
-  1. Usage levels of specific areas of our site. 
-  2. Origin of our site's audience. 
-  3. Browser and operating system of site visitors. 
+  1. Usage levels of specific areas of our site.
+  2. Origin of our site's audience.
+  3. Browser and operating system of site visitors.
 
 
 
