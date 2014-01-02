@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gardeningclub.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219001948id_/http%3A//namginc.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardeningclub.com privacy policy that was archived on 2014-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140102104147id_/http%3A//namginc.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
