@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the palmyrabowl.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606193654id_/http%3A//www.palmyrabowl.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palmyrabowl.com privacy policy that was archived on 2014-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140103221644id_/http%3A//www.palmyrabowl.com/more/privacypolicy) for the most accurate reproduction.*
 
-# Palmyra Bowling | Privacy Policy
-
-## Privacy Policy
+# Privacy Policy
 
 Any information gathered will be used by Palmyra Bowling. Palmyra Bowling recognizes the importance of protecting the privacy of all information provided by users of our Internet properties. We created the following policy guidelines with a fundamental respect for our users' right to privacy and to guide our relationships with our users. This Privacy Policy is subject to change at Palmyra Bowling's sole discretion. You should check back every time you visit the site to review the current policy.
 
 ### Information Collected
 
-Palmyra Bowling collects information about users during their registration, their inquiries, their participation in certain activities on our website, including contests and polls, and through the use of cookies. When users request pages from our server, our web server automatically collects some information about the users, including their IP addresses. These addresses are used by computers on the network to send the requested pages to users. 
+Palmyra Bowling collects information about users during their registration, their inquiries, their participation in certain activities on our website, including contests and polls, and through the use of cookies. When users request pages from our server, our web server automatically collects some information about the users, including their IP addresses. These addresses are used by computers on the network to send the requested pages to users.
 
 ### Use of Information
 
