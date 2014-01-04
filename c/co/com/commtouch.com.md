@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the commtouch.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030111025id_/http%3A//www.commtouch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commtouch.com privacy policy that was archived on 2014-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140104230829id_/http%3A//www.commtouch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Commtouch - Internet Security Solutions
+# Privacy Policy | Commtouch
 
 ## Commtouch’s Commitment to Privacy
 
@@ -12,11 +12,11 @@ This notice applies to all information collected or submitted on the Commtouch c
 
 ## Cookies
 
-"Cookies" are small data files that are written to and stored on your hard drive when you visit a Web site; they do not read files on your hard drive. Like most Web sites, we use cookies to personalize a user's experience of our Web site and to make it easier for users to complete forms. Our cookies do not track user movement once you leave our Web site.
+“Cookies” are small data files that are written to and stored on your hard drive when you visit a Web site; they do not read files on your hard drive. Like most Web sites, we use cookies to personalize a user’s experience of our Web site and to make it easier for users to complete forms. Our cookies do not track user movement once you leave our Web site.
 
 Most Web browsers allow the user to be notified upon the proposed installation of a cookie and the user can then decline the cookie. Even if you decline the cookie, you may continue to use our entire Web site.
 
-We use data and information received from our cookies for marketing research purposes, to improve the site’s content and structure, for example, to potentially revise or restructure our Web site for easier and more intuitive movement throughout.. We may also use the information to evaluate our site's technical capacity in order to improve it. 
+We use data and information received from our cookies for marketing research purposes, to improve the site’s content and structure, for example, to potentially revise or restructure our Web site for easier and more intuitive movement throughout.. We may also use the information to evaluate our site’s technical capacity in order to improve it. 
 
 Currently, the data and information we collect with cookies is only reviewed in an aggregated form, which is not personally identifiable. In the future, however, we may correlate the data and information received from cookies with personally identifiable information, to identify specific users and track their Web site usage.  Whether or not the data and information received from cookies is correlated to any specific user, we do not and will not disclose, sell, rent or share any data or information derived from cookies with any third parties.
 
@@ -37,7 +37,7 @@ The only users that will receive ongoing correspondence from Commtouch are those
 
 ## Aggregate Information
 
-We use non-identifying and aggregate information to better design our Web site and analyze user trends. This includes reviewing data and information contained in log files located on our Web server, which record the date and time of each visit to the site, the user's IP (internet protocol) address, the referring URL (the prior Web site visited) and the files viewed on our Web site (including HTML pages, documents downloaded etc.). 
+We use non-identifying and aggregate information to better design our Web site and analyze user trends. This includes reviewing data and information contained in log files located on our Web server, which record the date and time of each visit to the site, the user’s IP (internet protocol) address, the referring URL (the prior Web site visited) and the files viewed on our Web site (including HTML pages, documents downloaded etc.). 
 
 We do not disclose, sell, rent or share any information derived from log files with any third parties.
 
