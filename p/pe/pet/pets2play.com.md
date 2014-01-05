@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pets2play.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103201924id_/http%3A//www.pets2play.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pets2play.com privacy policy that was archived on 2014-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140105101230id_/http%3A//www.pets2play.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy - Pets2play.com
+# 
 
 Pets2play.com is single-mindedly devoted in proffering a service, which is but an amusing, fun-filled as well as an educational service. Pets2play.com pays sincere attention towards the privacy concerns of the visitors, who pay a visit to Pets2play.com 
 
