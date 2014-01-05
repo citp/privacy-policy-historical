@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theparkingplace.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209143101id_/http%3A//www.theparkingplace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theparkingplace.com privacy policy that was archived on 2014-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140105143036id_/http%3A//www.theparkingplace.com/privacy) for the most accurate reproduction.*
 
 # The Parking Place
 
