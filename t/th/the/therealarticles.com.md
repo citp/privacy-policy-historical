@@ -1,38 +1,34 @@
-> *The following text is extracted and transformed from the therealarticles.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428131620id_/http%3A//www.therealarticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therealarticles.com privacy policy that was archived on 2014-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140105085520id_/http%3A//www.therealarticles.com/privacy-policy) for the most accurate reproduction.*
 
-# The Real Articles
+# Privacy Policy | The Real Articles
 
-[](https://web.archive.org/english.php?u=https://web.archive.org/web/20090428131620id_/http%3A//www.therealarticles.com/privacy.php) |  [](https://web.archive.org/german.php?u=https://web.archive.org/web/20090428131620id_/http%3A//www.therealarticles.com/privacy.php) |  [](https://web.archive.org/spanish.php?u=https://web.archive.org/web/20090428131620id_/http%3A//www.therealarticles.com/privacy.php) |  [](https://web.archive.org/french.php?u=https://web.archive.org/web/20090428131620id_/http%3A//www.therealarticles.com/privacy.php) |  [](https://web.archive.org/italian.php?u=https://web.archive.org/web/20090428131620id_/http%3A//www.therealarticles.com/privacy.php) |  [](https://web.archive.org/portuguese.php?u=https://web.archive.org/web/20090428131620id_/http%3A//www.therealarticles.com/privacy.php) |  [](https://web.archive.org/japanese.php?u=https://web.archive.org/web/20090428131620id_/http%3A//www.therealarticles.com/privacy.php) |  [](https://web.archive.org/korean.php?u=https://web.archive.org/web/20090428131620id_/http%3A//www.therealarticles.com/privacy.php) |  [](https://web.archive.org/chinese.php?u=https://web.archive.org/web/20090428131620id_/http%3A//www.therealarticles.com/privacy.php) |   
----|---|---|---|---|---|---|---|---|---  
-  
-The Real Articles™ values the privacy of our Authors/Publisher, we will not disclose any personal information to any vendor, partner or outside agency. This includes your e-mail address, name, and location.
+This Privacy Policy was last modified on December 11, 2013.
 
-**IP Addresses**
+therealarticles.com (“us”, “we”, or “our”) operates http://therealarticles.com/ (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
-We use your IP address to help diagnose problems with our server, and to administer our site. Your IP address, should you decide to subscribe to our updates, is also used to prevent your registering twice due to temporary technical problems. Finally, your IP address may also be used to help verify that you are who you say you are.
+We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://therealarticles.com/.
 
-**"Cookies"**
+**Information Collection And Use**  
+While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, email address, postal address and phone number (“Personal Information”).
 
-Upon your first visit to this web site, a "cookie" is sent to your computer. A cookie is a file that identifies you as a unique user. It stores personal preferences and user data. In no way does this tell us who you are.
+**Log Data**  
+Like many site operators, we collect information that your browser sends whenever you visit our Site (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-While both of these activities depend on the use of a "cookie," visitors to this site always have the option of disabling cookies via their browser preferences. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent.
+**Cookies**  
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
 
-**Information Gathering**
+Like many sites, we use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site.
 
-This web site collects contact information in various ways, including inquiry forms, registration forms, surveys, and contests. The information collected may be used to send the user information about our company, or to get in touch with the user when necessary. Users may opt-out of receiving future mailings by requesting the editor cancel their account. 
+**Security**  
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-**Off-Site Links**
+**Links To Other Sites**  
+Our Site may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
 
-This site contains links to other sites. The Real Articles™ is not responsible for the privacy practices or content of such sites.
+therealarticles.com has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party sites or services.
 
-**Security**
+**Changes To This Privacy Policy**  
+therealarticles.com may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
 
-Your email address information will only be known to us. You are assurred that you will not get any spam mails from The Real Articles™. You hereby acknowledge that the profiles details that you provided during registration are real.
-
-This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
-
-[**Contacting Us**](http://www.therealarticles.com/contacts.php)
-
-If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please contact us via email.
-
-**The Real Articles™ reserves the right to change this policy at any time. Your continued use of this site means you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.**
+**Contact Us**  
+If you have any questions about this Privacy Policy, please contact us.
