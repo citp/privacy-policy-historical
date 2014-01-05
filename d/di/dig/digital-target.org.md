@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digital-target.org privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925204605id_/http%3A//www.digital-target.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digital-target.org privacy policy that was archived on 2014-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140105144118id_/http%3A//www.digital-target.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Digital Traget
 
