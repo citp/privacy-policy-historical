@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the rasqal.com privacy policy that was archived on 2012-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120418164504id_/http%3A//rasqal.com/%3Fpage_id%3D36) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rasqal.com privacy policy that was archived on 2014-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140106223645id_/http%3A//rasqal.com/%3Fpage_id%3D224) for the most accurate reproduction.*
 
-# Privacy Policy | Rasqal's Savings & Daily Deals Privacy Policy | An honest voice to the madness of shopping
+# Privacy Policy Rasqal's Savings & Daily Deals
 
   1. 1\. We are committed to protecting the privacy of our users. The purpose of this privacy policy is to inform you of what kinds of information we may gather about you when you visit Rasqal.com, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. Please note that this policy applies only to Rasqal.com and not to other companies’ or organizations’ websites to which we link.
   2. 2\. Providing personal information to Rasqal is voluntary. We collect and use personal information about you to respond to your request for products and services offered through our websites. You will always have the option to remove yourself once you have signed up by contacting us at support@rasqal.com.
 
 
 
-**Promotions And Contests**
+**Promotions And Coupons**
 
-If opting into a promotion or contests, your information (email and name in most cases) may be used for the purpose of informing you of your status.
+If opting into a promotion or coupon, your information (email and name in most cases) may be used for the purpose of informing you of your status.
 
 We utilise “cookies” which enable us to monitor traffic patterns and to serve you more efficiently if you revisit the site. It is possible to enable your browser to notify you when you receive a cookie. This will provide you with an opportunity to accept or reject the cookie in each instance.
 
@@ -24,7 +24,7 @@ We utilise “cookies” which enable us to monitor traffic patterns and to serv
 
 
 
- Third party vendors, including Google, show Rasqal ads on sites on the internet.
+Third party vendors, including Google, show Rasqal ads on sites on the internet.
 
 We may transfer non-personally identifiable search information to third parties for the purpose of presenting visitors or members with targeted advertisements by utilizing cookies and pixel tags. Any visitor or member may contact us for information on how to opt out at any time. Learn more and/or opt-out of this service by visiting [www.aboutads.info](http://www.aboutads.info/ "go to aboutads.com") or http://www.google.com/privacy_ads.html
 
