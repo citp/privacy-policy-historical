@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyrazor.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210034220id_/http%3A//www.dailyrazor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyrazor.com privacy policy that was archived on 2014-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140106072328id_/http%3A//www.dailyrazor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at DailyRazor.com
 
