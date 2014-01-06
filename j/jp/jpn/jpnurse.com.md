@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jpnurse.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105200326id_/http%3A//www.supportidols.com/support_faq/jpnurse-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpnurse.com privacy policy that was archived on 2014-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140106190539id_/http%3A//www.supportidols.com/support_faq/jpnurse-privacy.html) for the most accurate reproduction.*
 
 # JpNurse.com - Privacy Statement
 
