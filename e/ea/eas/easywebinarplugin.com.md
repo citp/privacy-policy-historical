@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easywebinarplugin.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106181244id_/http%3A//www.easywebinarplugin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easywebinarplugin.com privacy policy that was archived on 2014-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140106152353id_/http%3A//www.easywebinarplugin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Easy Webinar Plugin
 
