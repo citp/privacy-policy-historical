@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the restfile.co privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208024854id_/http%3A//www.wallpapersbaby.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restfile.co privacy policy that was archived on 2014-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140106104358id_/http%3A//www.wallpapersbaby.com/privacy_policy.html) for the most accurate reproduction.*
 
 # 
 
