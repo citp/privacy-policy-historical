@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecustomeradvantage.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105185941id_/http%3A//thecustomeradvantage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecustomeradvantage.com privacy policy that was archived on 2014-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140107035048id_/http%3A//thecustomeradvantage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy > The Customer Advantage
 
