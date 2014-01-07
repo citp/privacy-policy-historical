@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lightake.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230000323id_/http%3A//lightake.com/help/detail.do/ID.46) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightake.com privacy policy that was archived on 2014-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140107222226id_/http%3A//help.lightake.com/detail.do/ID.46) for the most accurate reproduction.*
 
-# Wholesale Dropshipping Direct,China Dropship Companies-Lightake
+# Lightake.com ShoppingCart
 
 Lightake.com takes precautions to protect your Personal information. When you submit sensitive information via the website, your information is protected both online and offline.
 
