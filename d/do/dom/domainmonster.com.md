@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainmonster.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106011151id_/http%3A//www.domainmonster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainmonster.com privacy policy that was archived on 2014-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140107024943id_/http%3A//www.domainmonster.com/privacy) for the most accurate reproduction.*
 
 # Domainmonster Privacy Policy
 
