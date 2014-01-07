@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teambox.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221050409id_/http%3A//teambox.com/more-info/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teambox.com privacy policy that was archived on 2014-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140107210017id_/http%3A//teambox.com/more-info/security-privacy) for the most accurate reproduction.*
 
 # Security and Privacy | Our Policies to Protect You | Teambox
 
