@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the supplyon.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109151520id_/http%3A//www.supplyon.com/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supplyon.com privacy policy that was archived on 2014-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140108165720id_/http%3A//supplyon.com/en/privacy_notice.html) for the most accurate reproduction.*
 
 # SupplyOn - Privacy Notice
 
-**Data Protection Instructions (as per section 13 of the Telemedia Act)  
+**Data Protection Instructions (as per section 13 of the Telemedia Act)    
 **It is natural for SupplyOn to take the protection of your personal data seriously. We should like you to feel secure when you visit our website.
 
 **Collection and processing of your personal data**  
@@ -18,12 +18,12 @@ You can configure your browser so that it informs you of the placement of cookie
 
 **Data on usage**
 
-When you visit our Internet site, our provider's Web servers store the following data:  the IP address of your Internet service provider or proxies, the session cookie, the Web browser used, the Internet site you visit us from, the pages you visit on our site, the date and time you access them, the data volume transferred and the access status (page found/not found).   
+When you visit our Internet site, our provider's Web servers store the following data:  the IP address of your Internet service provider or proxies, the session cookie, the Web browser used, the Internet site you visit us from, the pages you visit on our site, the date and time you access them, the data volume transferred and the access status (page found/not found).   
 This information is vital to enable technical transfer of the Internet site and secure server operation. It is analyzed only for statistical purposes. Such analyses allow us to tailor our Web pages to your needs and optimize them. A personalized analysis of the data is not conducted, nor is the data disclosed to third parties, either for commercial or non-commercial purposes.
 
 We erase the data on usage as soon as processing or use of it is no longer necessary for utilization of the Internet site.
 
-**Newsletter** ****
+**Newsletter**
 
 We need your e-mail address to be able to send you the SupplyOn newsletter free of charge. Once you have completed the fields and pressed the "send" button, a confirmation mail is sent to the e-mail address you specified. Your registration does not become effective until you confirm the link contained in the confirmation mail. Your data is used solely for sending the newsletter. You can revoke your consent to processing of the data required for sending the SupplyOn newsletter at any time with future effect, for example by clicking on the link at the end of each newsletter or sending an e-mail to cancel it to the following address:
 
@@ -33,6 +33,4 @@ Your data is then removed from the mailing system.
 
 **Right of information**
 
-For queries regarding data protection, you can contact our operational data protection officer at [datenschutz@supplyon.com](mailto:datenschutz@supplyon.com) or in writing at the address given in the [imprint](https://web.archive.org/web/20131109151520id_/http%3A//www.supplyon.com/imprint.html). Upon request, we will inform you in writing in accordance with the applicable legislation whether and which personal data of yours are stored by us.
-
- 
+For queries regarding data protection, you can contact our operational data protection officer at [datenschutz@supplyon.com](mailto:datenschutz@supplyon.com) or in writing at the address given in the [imprint](http://supplyon.com/en/imprint.html). Upon request, we will inform you in writing in accordance with the applicable legislation whether and which personal data of yours are stored by us.
