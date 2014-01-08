@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engineeringbookspdf.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016062039id_/http%3A//engineeringbookspdf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineeringbookspdf.com privacy policy that was archived on 2014-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140108035044id_/http%3A//engineeringbookspdf.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EngineeringBooksPDF
 
