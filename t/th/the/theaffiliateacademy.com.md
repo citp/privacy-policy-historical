@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theaffiliateacademy.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209114101id_/http%3A//theaffiliateacademy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaffiliateacademy.com privacy policy that was archived on 2014-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140108125534id_/http%3A//theaffiliateacademy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Affiliate Academy
 
@@ -24,9 +24,3 @@ The contents of this statement may be altered at any time, at our discretion.
 If you have any questions regarding the privacy policy of The Affiliate Academy then you may contact us at admin@theaffiliateacademy.com 
 
 Last updated Mon, 01 Nov 2010 22:44
-
-[Affiliate Marketing](http://www.amazon.com/Affiliate-Marketing-The-Internet-Academy-ebook/dp/B00B1FGFPC?SubscriptionId=1RY4ZZJ4VZ8TH3DPH202&tag=livingtrustse-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00B1FGFPC)Affiliate marketing is a marketing approach where other people promote your products and services and in return they receive payment for each sale tha... [Read More >](http://www.amazon.com/Affiliate-Marketing-The-Internet-Academy-ebook/dp/B00B1FGFPC?SubscriptionId=1RY4ZZJ4VZ8TH3DPH202&tag=livingtrustse-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00B1FGFPC)
-
-[Affiliate Wealth System](http://www.amazon.com/Affiliate-Wealth-System/dp/B004GNEE04?SubscriptionId=1RY4ZZJ4VZ8TH3DPH202&tag=livingtrustse-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B004GNEE04)The "Affiliate Wealth System" consists of a total of 30 step-by-step videos (totaling to a near 5-hour running time) where you will discover every ste... [Read More >](http://www.amazon.com/Affiliate-Wealth-System/dp/B004GNEE04?SubscriptionId=1RY4ZZJ4VZ8TH3DPH202&tag=livingtrustse-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B004GNEE04)
-
-[Affiliate Marketing: Just the FAQs](http://www.amazon.com/Affiliate-Marketing-Just-Laura-Burke-ebook/dp/B009BYIM5Q?SubscriptionId=1RY4ZZJ4VZ8TH3DPH202&tag=livingtrustse-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B009BYIM5Q)Who hasn't dreamed of working from home on the Internet? Maybe the idea is to stay at home with your small children. Maybe you have health problems th... [Read More >](http://www.amazon.com/Affiliate-Marketing-Just-Laura-Burke-ebook/dp/B009BYIM5Q?SubscriptionId=1RY4ZZJ4VZ8TH3DPH202&tag=livingtrustse-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B009BYIM5Q)
