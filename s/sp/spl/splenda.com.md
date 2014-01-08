@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splenda.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823205653id_/http%3A//www.splenda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splenda.com privacy policy that was archived on 2014-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140108122359id_/http%3A//www.splenda.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | SPLENDA®
 
@@ -68,7 +68,7 @@ This site may contain links or references to other Web sites to which this Priva
 
 If you have any questions, comments, requests, or concerns related to this Privacy Policy or the information practices of this site, or if you would like to opt out of future communications, please contact us as follows:
 
-[_Customer Service_](https://web.archive.org/contact-us)
+[_Customer Service_](http://www.ccc-consumercarecenter.com/universal-contact-us/us-splenda-ucu/www.splenda.com)
 
 #### Changes to This Privacy Policy
 
