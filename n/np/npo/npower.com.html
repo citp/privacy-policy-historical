@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the npower.com privacy policy that was archived on 2013-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131101145815id_/http%3A//www.npower.com/home/terms-and-conditions/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the npower.com privacy policy that was archived on 2014-01-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140108102824id_/http%3A//www.npower.com/home/terms-and-conditions/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" no-touch js localstorage" lang="en"><!--<![endif]--><head>
   
@@ -112,8 +112,9 @@
 	 
   <script src="https://npower.widget.custhelp.com/euf/rightnow/RightNow.Client.js"></script>
         
+        
       
-	<script type="text/javascript" src="https://ots.optimize.webtrends.com/ots/lib/3.2/wt_lib.js" async="true" defer="true"></script><script type="text/javascript" src="/foresee/foresee-surveydef.js?build=4"></script><link rel="stylesheet" type="text/css" href="/foresee/foresee-dhtml.css?build=4"></head>
+	<script type="text/javascript" src="https://ots.optimize.webtrends.com/ots/lib/3.2/wt_lib.js" async="true" defer="true"></script><script type="text/javascript" src="/foresee/foresee-surveydef.js?build=4"></script></head>
 	<body style="position: absolute; left: -1000%;">
 		<a href="#content" class="visuallyhidden focusable">Skip to content</a>
 			<!-- START HTML for the cookie bar -->
@@ -135,58 +136,80 @@
 				
 
 
-  <div class="nav_container" id="top">   
-    <div class="container_24">
-      <div class="grid_24">
-      	<script type="text/javascript">
-			    $(document).ready(function () {
-		        // set up login dropdown
-		        var isLoggedIn = false;
-		        var aCookie = document.cookie.split("; ");
-		        for (var i = 0; i < aCookie.length; i++) {
-		            var aCrumb = aCookie[i].split("=");
-				if (aCrumb[0] == "loggedIn" && unescape (aCrumb[1]) != null && unescape (aCrumb[1]).length > 0) {isLoggedIn = true;}}
-		      	if (isLoggedIn == true) {
-		            $('.loggedout_links').hide();
-		            $('.loggedin_links').show();
-		        } else {
-		            $('.loggedout_links').show();
-		            $('.loggedin_links').hide();
-		        }
-		    	});
+  	<div class="nav_container" id="top">   
+    	<div class="container_24">
+      		<div class="grid_24">
+	  			<script>
+					$(document).ready(function () {
+						// set up basket
+						var basketItemCount = 0;
+
+						// set up login dropdown
+						var isLoggedIn = false;
+						var aCookie = document.cookie.split("; ");
+						for (var i = 0; i < aCookie.length; i++) {
+							var aCrumb = aCookie[i].split("=");
+							if (aCrumb[0] == "loggedIn" && unescape (aCrumb[1]) != null && unescape (aCrumb[1]).length > 0) {isLoggedIn = true;}
+							
+							//BasketItemCountCookie
+							if(aCrumb[0] == "BasketItemCount" && !isNaN(aCrumb[1])) { basketItemCount = aCrumb[1]; }				
+						}
+						if (isLoggedIn == true) {
+							$('.loggedout_links').hide();
+							$('.loggedin_links').show();
+						} else {
+							$('.loggedout_links').show();
+							$('.loggedin_links').hide();
+						}
+						basketItemCount > 0 ? $(".basket_count").text("(" + basketItemCount + ")") : "";
+					});
 				</script>
+				<div class="top_links">
 					<div class="loggedin_links" style="display:none">
-
-				  	<span class="right mobile_hide login_top"><a href="/mynpower" title="View your account" class="blue button auto inline">View your account</a></span>
-				  	<span class="right register_top t_margin_small"> <a href="/logout" title="Log out of your online account">Log out</a></span>
-
-
-		        	<ul class="hide mobile_show nav_new_mynpower">
-		        		<li><a href="/at_home/applications/atlas.web/account.aspx/summary" title="Account summary">Account summary</a></li>
-		        		<li><a href="/at_home/applications/Atlas.Web/BillsandPayments.aspx/Summary" title="Bills &amp; payments">Bills &amp; payments</a></li>
-		        		<li><a href="/at_home/applications/atlas.web.energytracker/myusage.aspx" title="Meter readings - Your account">Meter readings</a></li>
-		        		<li><a href="/at_home/applications/atlas.web.energytracker/energyusage.aspx" title="Energy usage">Energy usage</a></li>
-		        		<li><a href="/at_home/applications/atlas.web.energytracker/accountactivity.aspx" title="Account activity">Account activity</a></li>
-		        		<li><a href="/at_home/applications/Atlas.Web/Account.aspx/Preferences/Change" title="Account settings">Account settings</a></li>
-		        	</ul>
-	        </div>
-	        <div class="loggedout_links">
-			 			<span class="right login_top"> <a href="/mynpower" title="Log in to your online account" class="blue button auto inline padlock">Log in</a></span>
-			      <span class="right register_top t_margin_small"><span class="mobile_hide">Manage your account online</span> <img src="/idc/groups/wcms_content/@wcms/documents/digitalassets/image_hand_drawn_arrow_xxs.jpg" alt="" class="mobile_hide"> <a href="/at_home/applications/MyNpower/ProcessStart.aspx?Workflow=OneStepRegistration" title="Register for an online account today">Register</a></span>
-		      </div>				
-	        <div class="site_selection mobile_hide half_prefix_1">
-	          <ul class="inline">
-	            <li>
-	              <a class="active" title="For your home" href="/home/">For your home
-	              </a>
-	            </li>
-	            <li>
-	              <a title="For your business" class="overlaybox cookielink" data-overlay-id="sme_overlay" data-special-link="BusinessLink" href="/business/">For your business
-	              </a>
-	            </li>
-	          </ul>
-	        </div>
-	      </div>
+						<span class="basket_top">
+							<a class="button blue basket auto medium" href="/at_home/applications/product_comparison/Basket.aspx/BasketSummary">Your basket <span class="basket_count"></span></a>
+						</span>
+						<span class="login_top">
+							<a href="/logout" title="Log out of your online account">Log out</a> <span class="hide">|</span>
+							<a href="/mynpower" title="Manage your online account" class="spaced_left_large mobile_hide">Manage account</a>
+						</span>
+						<ul class="hide mobile_show nav_new_mynpower">
+			        		<li><a href="/at_home/applications/atlas.web/account.aspx/summary" title="Account summary">Account summary</a></li>
+			        		<li><a href="/at_home/applications/Atlas.Web/BillsandPayments.aspx/Summary" title="Bills &amp; payments">Bills &amp; payments</a></li>
+			        		<li><a href="/at_home/applications/atlas.web.energytracker/myusage.aspx" title="Meter readings - Your account">Meter readings</a></li>
+			        		<li><a href="/at_home/applications/atlas.web.energytracker/energyusage.aspx" title="Energy usage">Energy usage</a></li>
+			        		<li><a href="/at_home/applications/atlas.web.energytracker/accountactivity.aspx" title="Account activity">Account activity</a></li>
+			        		<li><a href="/at_home/applications/Atlas.Web/Account.aspx/Preferences/Change" title="Account settings">Account settings</a></li>
+			        	</ul>
+					</div>
+					<div class="loggedout_links">
+						<span class="basket_top">
+							<a class="button blue basket medium auto" href="/at_home/applications/product_comparison/Basket.aspx/BasketSummary">Your basket <span class="basket_count"></span>
+							</a>
+						</span>
+						
+						<span class="login_top">
+							<a href="/mynpower" title="Log in to your online account">Log in <img src="/idc/groups/wcms_content/@wcms/documents/digitalassets/icon_padlock_blue.png" alt=""></a>
+						</span>
+						
+						<span class="register_top">
+							<a href="/at_home/applications/MyNpower/ProcessStart.aspx?Workflow=OneStepRegistration" title="Register for an online account today">Register</a>
+						</span>
+					</div>				
+					<div class="site_selection mobile_hide">
+						<ul class="inline">
+							<li>
+								<a class="active" title="For your home" href="/home">For your home
+								</a>
+							</li>
+							<li>
+								<a title="For your business" class="overlaybox cookielink" rel="sme_overlay" rev="BusinessLink" href="/business">For your business
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
 	      <header class="grid_24 rounded baseline_header" role="banner">
 	        <div class="grid_4 alpha">
 	          <a href="/home/" class="npower_logo"><img class="fluid" src="/idc/groups/wcms_content/@wcms/@resi/documents/digitalassets/npower_logo_h40_trans.png" alt="npower logo"></a>
@@ -203,91 +226,75 @@
 	                    <li><a title="Switch to npower" href="/at_home/Applications/QAndS/Evo1/quote.aspx?workflow=QuoteAndSwitch" target="_blank" tabindex="-1">Switch to npower</a></li>
 	                    <li><a title="New connections" href="/home/electricity-and-gas/new-connections/" tabindex="-1">New connections</a></li>
 	                    <li><a title="Switching to npower" href="/home/help-and-support/electricity-and-gas-tariffs/switching-to-npower/" tabindex="-1">How to switch</a></li>
-	                    <li><a title="Electricity and gas prices" href="/home/electricity-and-gas/electricity-and-gas-prices/" tabindex="-1">Electricity and gas prices</a></li>
+ 						<li><a title="Prices-in-your-area" href="/home/electricity-and-gas/Prices-in-your-area/" tabindex="-1">Prices in your area</a></li>
 	                  </ul>
 	                  <ul class="grid_5 b_margin_xxl links">
-											<li class="mobile_hide"><p class="lead bold">Popular tariffs</p></li>
-
-
-											<li><a href="/home/electricity-and-gas/products/fixed-short/" tabindex="-1">Price Fix April 2015</a></li>
-
-											<li><a href="/home/electricity-and-gas/products/fixed-long/" tabindex="-1">Price Protector December 2017</a></li>
-
-							            	<li><a href="/home/electricity-and-gas/products/standard/">Standard Variable</a></li>
+						<li class="mobile_hide"><p class="lead bold">Popular tariffs</p></li>
+						<li><a href="/home/electricity-and-gas/products/fixed-short/" tabindex="-1">Price Fix August 2015</a></li>
+						<li><a href="/home/electricity-and-gas/products/fixed-long/" tabindex="-1">Price Protector December 2017</a></li>
+		            	<li><a href="/home/electricity-and-gas/products/standard/">Standard Variable</a></li>
 	                  </ul>
 	                  <ul class="grid_5 b_margin_xxl omega suffix_1 links">
 	                    <li class="mobile_hide"><p class="lead bold">Useful information</p></li>
-	                    <li><a title="npower discounts" href="/home/electricity-and-gas/electricity-and-gas-prices/direct-debit-discounts/" tabindex="-1">npower discounts</a></li>
-	                    <li><a title="Your meter explained" href="/home/electricity-and-gas/types-of-meter/" tabindex="-1">Your meter explained</a></li>
-	                    <li><a title="Prepayment information" href="/home/help-and-support/prepayment-meters/prepayment-meter-tariffs/" tabindex="-1">Prepayment information</a></li>
-	                    <li><a title="Our prices explained" href="/home/electricity-and-gas/electricity-and-gas-prices/" tabindex="-1">Our prices explained</a></li>
-	                    <li><a title="Spreading Warmth" href="/spreading_warmth/content/homepage/" tabindex="-1">Spreading Warmth</a></li>
-	                    <li><a title="Electricity and Gas Terms and conditions" href="/home/electricity-and-gas/terms-and-conditions/" tabindex="-1">Terms and conditions</a></li>
+						<li><a title="Your meter explained" href="/home/electricity-and-gas/types-of-meter/" tabindex="-1">Your meter explained</a></li>
+						<li><a title="Prepayment information" href="/home/help-and-support/prepayment-meters/prepayment-meter-tariffs/" tabindex="-1">Prepayment information</a></li>
+						<li><a title="Spreading Warmth" href="/spreading_warmth/home/" tabindex="-1">Spreading Warmth</a></li>
+						<li><a title="Electricity and Gas Terms and conditions" href="/home/about-npower/terms-and-conditions/" tabindex="-1">Terms and conditions</a></li>
 	                  </ul>
 	                  <ul class="grid_6 mobile_hide b_margin_large alpha omega border_left half_prefix_1">
                       <li>
                         <p class="lead bold">Up to £90 annual discount</p>
-                        <p><img alt="" src="/idc/groups/wcms_content/@wcms/documents/digitalassets/image_dd_duel_100dis_loz_h90.png" class="right b_margin_none spaced_left_medium"> £90 discount each year if you pay for both your electricity and gas by Direct Debit.</p>
+                        <p><img alt="" src="/idc/groups/wcms_content/@wcms/documents/digitalassets/image_dd_duel_100dis_loz_h90.png" class="right b_margin_none spaced_left_medium">£90 discount each year if you pay for both your electricity and gas by Direct Debit.</p>
                         <ul class="right_arrow grid_6 alpha">
-                          <li><a href="/campaigns/direct_debit/" title="Find out more on our Direct Debit discounts" tabindex="-1">Direct Debit discounts</a></li>
+                          <li><a href="/home/help-and-support/bills-and-payments/paying-your-bill/" title="Find out more on our Direct Debit discounts" tabindex="-1">Direct Debit discounts</a></li>
                         </ul>
                       </li>
 	                  </ul>
 	                </div>
 	              </div>
 	            </li><li>
-	              <a href="/home/npower-hometeam/" title="Boilers and Heating products and services" class="parent">Boilers &amp; Heating <span class="pointer">&nbsp;</span></a>
+	              <a href="/home/home-and-heating/" title="Boilers and Heating products and services" class="parent">Home &amp; Heating <span class="pointer">&nbsp;</span></a>
 	              <div class="grid_24 alpha omega nav_submenu">
 	                <div class="wrapper fat rounded_bottom border border_blue">
 	                  <ul class="grid_5 alpha b_margin_xxl links">
-	                    <li class="mobile_hide"><p class="lead bold">Service and repairs</p></li>
-	                    <li><a title="Boiler and heating care" href="/home/npower-hometeam/care-products/" tabindex="-1">Boiler and heating care</a></li>
-	                    <li><a title="Gas boiler servicing" href="/home/npower-hometeam/gas-boiler-service/" tabindex="-1">Gas boiler servicing</a></li>
-	                    <li><a title="Central heating repair" href="/home/npower-hometeam/pay-as-you-go-central-heating-repair/" tabindex="-1">Central heating repair</a></li>
-	                    <li><a title="Other home care" href="/home/npower-hometeam/" tabindex="-1">Other home care</a></li>
+	                    <li class="mobile_hide"><p class="lead bold">Boiler and Central Heating Care</p></li>
+						<li><a title="Boiler and heating care" href="/home/home-and-heating/boiler-and-heating-care-plans/" tabindex="-1">Boiler and heating care plans</a></li>
+						<li><a href="/home/home-and-heating/boiler-and-heating-care-plans/central-heating-care/">Central heating care</a></li>
+						<li><a href="/home/home-and-heating/boiler-and-heating-care-plans/boiler-care/">Boiler care</a></li>
 	                  </ul>
 	                  <ul class="grid_5 b_margin_xxl omega suffix_1 links">
-	                    <li class="mobile_hide"><p class="lead bold">Other options</p></li>
-	                    <li><a title="Carbon monoxide alarm" href="/home/npower-hometeam/heating-system-solutions/carbon-monoxide-alarms/" tabindex="-1">Carbon monoxide alarm</a></li>
-	                    <li><a title="Wireless room thermostat" href="/home/npower-hometeam/heating-system-solutions/wireless-room-thermostat/" tabindex="-1">Wireless room thermostat</a></li>
-	                    <li><a title="Thermostatic radiator valve" href="/home/npower-hometeam/heating-system-solutions/thermostatic-radiator-valve/" tabindex="-1">Thermostatic radiator valve</a></li>
+	                    <li class="mobile_hide"><p class="lead bold">Accessories</p></li>
+						<li><a href="/home/home-and-heating/accessories/">Accessories</a></li>
+						<li><a title="Carbon monoxide alarm" href="/home/home-and-heating/accessories/carbon-monoxide-alarm/" tabindex="-1">Carbon monoxide alarm</a></li>
+						<li><a title="Wireless room thermostat" href="/home/home-and-heating/accessories/wireless-room-thermostat/" tabindex="-1">Wireless room thermostat</a></li>
+						<li><a title="Thermostatic radiator valve" href="/home/home-and-heating/accessories/thermostatic-radiator-valve/" tabindex="-1">Thermostatic radiator valve</a></li>
+						<li class="mobile_hide"><a href="/home/home-and-heating/accessories/">More accessories</a></li>
 	                  </ul>
+	                 
+					<div class="grid_6 mobile_hide b_margin_xl alpha omega border_left half_prefix_1">		 
+							<ul>
+							<li>
+								<p class="lead_large bold">Care for your boiler for just £10.45 a month for the first year</p>
+								<p class="lead b_margin_small b_padding_none"><strong> All our plans include:</strong></p>
+								<ul class="bullet">
+								<li>Annual boiler service worth £99</li>
+								<li>Parts and labour</li>
+								<li>24/7 UK based helpline</li>
+							</ul>	
+							<p class="t_margin_medium b_margin_medium">Call out fees may apply on some plans</p>
+								<ul class="links b_margin_medium">
+								<li><a href="/Campaigns/hometeam/winter/Q4/winter2/" title="Find out more about Boiler and Central Heating care " tabindex="-1">Find out more about Boiler and Central Heating care </a>	
+								</li>
+								</ul>
+								<p class="caveat">Subject to eligibility. Terms, conditions and exclusions apply</p>
+							</li>
+							</ul>
+					</div>	  
+					<div class="grid_5 omega t_margin_xl mobile_hide">		  
+							<img alt="For just £10.45 for the first year" src="/idc/groups/wcms_content/@wcms/documents/digitalassets/stamp-boiler-care-99-small.png" class="right b_margin_none spaced_left_medium">
+					</div>  
 					  
-					  
-					  
-					  
-<div class="grid_6 mobile_hide b_margin_xl alpha omega border_left half_prefix_1">  
-  <ul>
-	<li>
-	  <p class="lead_large bold">Care for your boiler for just £10.45 for the first year</p>
-	  <p class="lead b_margin_small b_padding_none"><strong> All our plans include:</strong></p>
-	 <ul class="bullet">
-		<li>Annual boiler service worth £99</li>
-		<li>Parts and labour</li>
-		<li>24/7 UK based helpline</li>
-	</ul>	
-		<p class="t_margin_medium b_margin_medium">Call out fees may apply on some plans</p>
-	  <ul class="links b_margin_medium">
-		<li><a href="/Campaigns/hometeam/winter/Q4/winter2/" title="Find out more about Boiler and Central Heating care " tabindex="-1">Find out more about Boiler and Central Heating care </a>	
-		</li>
-	  </ul>
-	  <p class="caveat">Subject to eligibility. Terms, conditions and exclusions apply</p>
-	</li>
-  </ul>
-</div>	  
-<div class="grid_5 omega t_margin_xl">		  
-<img alt="For just £10.45 for the first year" src="/idc/groups/wcms_content/@wcms/documents/digitalassets/stamp-boiler-care-99-small.png" class="right b_margin_none spaced_left_medium">
-</div>  
-					  
-					  
-					  
-					  
-					  
-					  
-					  
-					  
-					  
-	                </div>
+				</div>
 	              </div>
 	            </li><li>
 	              <a href="/home/energy-efficiency/" title="Saving energy products and advice" class="parent">Save Energy <span class="pointer">&nbsp;</span></a>
@@ -298,13 +305,13 @@
 						<li><a href="/home/energy-efficiency/green-deal/" title="Home energy saving schemes">Home energy saving schemes</a></li>
 	                    <li><a title="npower solar" href="/home/energy-efficiency/solar/" tabindex="-1">Solar PV panels</a></li>
 	                    <li><a title="npower solar thermal" href="/home/energy-efficiency/solar-thermal/" tabindex="-1">Solar thermal panels</a></li>
-	                    <li><a href="/home/energy-efficiency/heat-pumps/" title="Heat Pumps">Heat Pumps</a></li>
+	                    <li><a href="/home/energy-efficiency/heat-pumps/" title="Heat pumps">Heat pumps</a></li>
 	                    <li><a title="Energy saving advice" href="/home/energy-efficiency/saving-energy/" tabindex="-1">Energy saving advice</a></li>
 	                    <li><a title="Home Energy Survey" href="/home/energy-efficiency/saving-energy/home-energy-survey/" tabindex="-1">Home Energy Survey</a></li>
 	                  </ul>
 	                  <ul class="grid_5 b_margin_xxl links">
 	                    <li class="mobile_hide"><p class="lead bold">Green for business</p></li>
-	                    <li><a title="npower SmartStart" href="/business/smartstart/" tabindex="-1">npower SmartStart</a></li>
+	                    <li><a title="Save Energy" href="/business/save-energy/" tabindex="-1">Save Energy</a></li>
 	                    <li><a title="Renewable energy" href="/large-business/buying-energy/renewable-energy/" tabindex="-1">Renewable energy</a></li>
 	                    <li><a title="Business energy index" href="/business/electricity-and-gas/white-paper/" tabindex="-1">Business energy index</a></li>
 	                  </ul>
@@ -351,7 +358,7 @@
 	                    <li class="mobile_hide"><p class="lead bold">Customer support</p></li>
 	                    <li><a title="Contact npower" href="/home/help-and-support/contact-us/" tabindex="-1">Contact us</a></li>
 	                    <li><a title="Emergency information" href="/home/help-and-support/emergency-information/" tabindex="-1">Emergency information</a></li>
-	                    <li><a title="Complaints" href="/home/help-and-support/contact-us/complaints/" tabindex="-1">Complaints</a></li>
+	                    <li><a title="Complaints performance" href="/home/help-and-support/contact-us/complaints-performance/" tabindex="-1">Complaints performance</a></li>
 	                    <li><a title="Meeting your needs" href="/home/help-and-support/meeting-your-needs/" tabindex="-1">Meeting your needs</a></li>
 	                    <li><a title="Energy efficiency" href="/home/help-and-support/energy-efficiency/" tabindex="-1">Energy efficiency</a></li>
 	                  </ul>
@@ -382,15 +389,18 @@
 	    </div>  
 			   
 			  <!-- HEADER AREA END -->
+
+
+  
   <div class="container_24">
   
 
 
   
    
-	 
-  
-        <div class="breadcrumb grid_24">
+	   
+    
+          <div class="breadcrumb grid_24">
         <ul>
 		<li><a href="/" title="home"><img src="/idc/groups/wcms_content/@wcms/documents/digitalassets/icon_house_xsmall.png" alt="home"></a></li>
                  
@@ -402,19 +412,23 @@
         </ul>
         </div>
      
+  
+  
+    
+  
   <div class="grid_24" id="content" role="main"> <!-- Full width -->
     
     
     <!-- TopRegion -->
     <div class="grid_24 alpha omega"> <!-- Full width -->
-    
 
 
-    		
+
+        
     </div>
     <!-- /TopRegion -->
     <!-- MainContentRegion -->
-      				<div class="grid_24 alpha omega"> <!-- Full width -->
+              <div class="grid_24 alpha omega"> <!-- Full width -->
  
 
 
@@ -671,6 +685,12 @@
 
     
   <!-- BottomFullWidthRegion -->
+  <!-- BottomFullWidthCaveatRegion -->
+
+
+    
+  <!-- BottomFullWidthCaveatRegion -->
+
 		
 
 
@@ -695,12 +715,15 @@
           </ul>
         </div>
         <div class="grid_6 mobile_half mobile_hide">
-          <p class="lead b_margin_medium_mobile">Boilers &amp; heating</p>
-          <ul class="links">
-            <li><a href="/home/npower-hometeam/" title="Find out more about boiler care">Boiler and central heating care</a></li>
-            <li><a href="/home/npower-hometeam/gas-boiler-service/" title="Find out more about servicing your boiler">Servicing your boiler</a></li>
-            <li><a href="/home/npower-hometeam/pay-as-you-go-central-heating-repair/" title="Find out more about repairing your boiler">Repairing your boiler</a></li>
-          </ul>
+			<p class="lead b_margin_medium_mobile">Home &amp; Heating</p>
+			<ul class="links">
+            <li><a title="Boiler and heating care" href="/home/home-and-heating/boiler-and-heating-care-plans/" tabindex="-1">Boiler and heating care plans</a>
+				<ul>
+					<li><a href="/home/home-and-heating/boiler-and-heating-care-plans/central-heating-care/">Central heating care</a></li>
+					<li><a href="/home/home-and-heating/boiler-and-heating-care-plans/boiler-care/">Boiler care</a></li>
+					</ul>
+				</li>
+			</ul>
           </div>
           <div class="grid_6 omega mobile_half mobile_hide">
             <p class="lead b_margin_medium_mobile">Manage my account</p>
@@ -715,7 +738,7 @@
               <li class="yt"><a href="http://www.youtube.com/user/npowerEnergy" target="_blank" title="Visit npower's YouTube channel (opens in a new window)"><img src="/idc/groups/wcms_content/@wcms/documents/digitalassets/icon_youtube_med_alt4.png" alt="YouTube">
                 <span>Visit our YouTube channel</span>
               </a></li>
-              <li class="blog"><a href="https://blog.npower.com/" target="_blank" title="Visit npower's blog (opens in a new window)"><img src="/idc/groups/wcms_content/@wcms/documents/digitalassets/icon_blog_med_alt4.png" alt="Npower blog">
+              <li class="blog"><a href="https://blog.npower.com/" target="_blank" title="Visit npower's blog (opens in a new window)"><img src="/idc/groups/wcms_content/@wcms/documents/digitalassets/icon_blog_med_alt4.png" alt="npower blog">
                 <span>Read the npower blog</span>
               </a></li>              
             </ul>
@@ -739,10 +762,10 @@
                 <li><a href="http://education.npower.com/web/homepage/" target="_blank" title="npower education">npower education</a></li>
                 <li><a href="http://www.npowermediacentre.com/" title="Media centre">Media centre</a></li>
                 <li><a href="/home/site-map/" title="Sitemap">Sitemap</a></li>
-                <li><a href="/home/terms-and-conditions/" title="Website terms and conditions">Terms &amp; conditions</a></li>
+                <li><a href="/home/about-npower/terms-and-conditions/" title="Website terms and conditions">Terms &amp; conditions</a></li>
                 <li><a href="/home/terms-and-conditions/privacy-policy/" title="npower's privacy policy">Privacy policy</a></li>
                 <li><a href="/home/terms-and-conditions/cookies/" title="npower's cookie policy">Cookies</a></li>
-                <li class="right">© npower 2013</li>
+                <li class="right">© npower 2014</li>
             </ul>
             <a class="scroll left" href="#top">
               <div class="wrapper dark_grey rounded_top skinny_top b_margin_none">
@@ -821,7 +844,7 @@ window.webtrendsAsyncInit=function(){
 // DoubleClick DART Natural Search Tracking Code
 if (document.referrer){
 var ord = Math.random()*1000000000000;
-document.write('<script type="text/javascript" src="//ad.doubleclick.net/adj/N4419.197812.NSO.CODESRV/B7413229;dcadv=4023889;sz=1x2;ord=' + ord + '?"><\/script>');
+document.write('<script type="text/javascript" src="//ad.doubleclick.net/adj/N9391.197812.NSO.CODESRV/B7978776;dcadv=4339580;sz=1x2;ord=' + ord + '?"><\/script>');
 }
 </script>
 <script type="text/javascript">
