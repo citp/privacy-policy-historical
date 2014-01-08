@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutthissite.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207121357id_/http%3A//aboutthissite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutthissite.com privacy policy that was archived on 2014-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140108024905id_/http%3A//aboutthissite.com/privacy-policy) for the most accurate reproduction.*
 
 # AboutThisSite.com Privacy Policy
 
