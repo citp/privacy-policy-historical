@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dola.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907100145id_/http%3A//dola.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dola.com privacy policy that was archived on 2014-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140108013849id_/http%3A//dola.com/privacy) for the most accurate reproduction.*
 
 # DoLA | LA Music, Art, Theater, Happy Hours & Fun
 
@@ -77,7 +77,7 @@ Although most changes are likely to be minor unless we introduce a new service t
 
 If you feel that we are not abiding by this privacy policy, or if you have any other questions or concerns, please contact us at the following address:
 
-hello@dola.com
+otto@dola.com
 
 You should also provide a copy of your complaint, question or concern to DoStuff:
 
