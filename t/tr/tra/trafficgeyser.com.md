@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficgeyser.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208140521id_/http%3A//www.trafficgeyser.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficgeyser.com privacy policy that was archived on 2014-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140108122324id_/http%3A//www.trafficgeyser.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Traffic Geyser: Get Top Search Engine Listings in Google, Yahoo and MSN Within Hours
 
