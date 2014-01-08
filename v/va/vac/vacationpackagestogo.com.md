@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vacationpackagestogo.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630101000id_/http%3A//vacationpackagestogo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationpackagestogo.com privacy policy that was archived on 2014-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140108084437id_/http%3A//vacationpackagestogo.com/privacy-policy) for the most accurate reproduction.*
 
-# Vacation packages to go
+# Privacy Policy - Discounted hotel resort getaway, tickets, vacation package | Discounted hotel resort getaway, tickets, vacation package
 
 ## Vacation Packages Privacy Policy
 
