@@ -1,77 +1,69 @@
-> *The following text is extracted and transformed from the topgame.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630213704id_/http%3A//cdn.dsultra.com/t/privacy_ds.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topgame.com privacy policy that was archived on 2014-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140109205347id_/http%3A//topgame.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - TOPGAME
 
-### DomainSponsor Privacy Policy Highlights
+TOPGAME Privacy Policy 
 
-Last Updated: April 28th, 2010
+TOPGAME, LLC. ("TOPGAME" or "we") is dedicated to protecting the privacy rights of our online users ("users" or "you"). This Online Privacy Policy ("Privacy Policy") has been crafted to inform you as to the ways we collect, store, use, and manage the information you provide in connection with any TOPGAME game or application ("Service"). Please note that the scope of this Privacy Policy is limited to only information collected from TOPGAME through use of the Service. 
 
-### Scope
+By using the Service, you are agreeing to the collection and use of your personal information as outlined in this Privacy Policy. We may amend the Privacy Policy from time to time, and we encourage you to consult the Privacy Policy regularly for changes. 
 
-The DomainSponsor [Privacy Policy](http://domainsponsor.com/privacy.php) applies to DomainSponsor's and our affiliates' websites that link to the [Privacy Policy](http://domainsponsor.com/privacy.php). Below follows some of the highlights of the Privacy Policy. 
+Information Collected and Used
 
-### Information Collection
+TOPGAME's primary objective in collecting user information is to provide and enhance the Service and to enable users to easily navigate and enjoy the Service. 
 
-  * We may collect personal information that can identify you, such as your name and e-mail address, as well as other information that does not identify you. 
-  * We may collect and store any personal information you provide to us, such as when you contact us for help. 
-  * We use various technologies to collect information from your computer and about your activities on our Site, such as cookies, log files, clear gifs (also known as web beacons), and other tracking pixels and third parties to help determine your viewing preferences for advertising and other purposes. 
-  * We and our business partners, such as advertisers, may use technologies, such as cookies and tracking pixels, to collect information about users who view or interact with these advertisements and connect to other websites. 
-  * Links or sponsor websites may be presented in a manner that allows us to keep track of whether the links or sponsor sites have been used. 
+When you install any of the TOPGAME games or applications, we may collect and record the information you provide us voluntarily through www.facebook.com ("Facebook") in accordance with the policies and terms of Facebook. 
 
+The types of personal information collected in accordance with the activities listed above may vary depending on the activity. This "personal information" is defined as information about you that can be used to contact or identify you. Personal information may include:   
+(1) your name,   
+(2) Facebook user identification number,   
+(3) or email address. 
 
+Additionally, we may acquire information from you through:   
+(1) your access and participation in message boards on the Service   
+(2) your email of a question to our customer support or   
+(3) your purchase of a virtual product of any type. Please note that because a third party site manages the purchases of virtual goods offered by the Service, we do not have access to your credit card details and billing information. 
 
-### Information Use and Sharing
+TOPGAME may also invite you to share non-personal information about yourself which may include but is not limited to:   
+(1) your age or date of birth;   
+(2) your gender;   
+(3) information about the hardware you may own;   
+(4) your favorite websites, friend information and fan pages (collectively referred to as "non-personal information"). If non-personal information is collected for an activity that also requires personal information, TOPGAME may combine your non-personal information with your personal information in an attempt to provide you with a better user experience, to improve the quality and value of the Services and to analyze how our Service is used. 
 
-Examples of some of the ways we use or share information that we collect about you include, but are not limited to, the following: 
+The Service will also record game play information such as your high scores or game session duration. 
 
-  * To provide you with products or services, including the display of customized content, advertising, and services.
-  * To provide technical or customer support.
-  * To perform research and analysis to gauge use of or interest in products, services, or content offered on our sites, and to develop new services.
-  * To communicate with you by e-mail about products or services that may be of interest to you.
-  * To enforce our terms and conditions, or otherwise manage our business.
-  * To perform functions as otherwise described to you at the time of collection.
-  * To communicate with you, such as through email, newsletters, RSS feeds, service announcements, or for customer service, unless you have opted out of these features where available. 
+In addition to information collected as described above, you may choose to share additional information about yourself throughout the Service, such as in games or on message boards. Any action you perform with other players are considered public, and are your sole discretion. 
 
+Finally, any time you access the Service, we may collect aggregate information including but not limited to internet protocol addresses, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, and the date and time of this activity. We use this information to better tailor the Service to your interests, to provide you more efficient customer support, and to overall enhance the Service. 
 
+In all cases of data access and collection, the information you provide will not be disclosed, rented, leased, loaned, sold, or otherwise voluntarily distributed to unaffiliated third parties and will be used solely for the purpose of providing you with and improving the Service. 
 
-### Information Use and Sharing with Third Parties
+Other Disclosure of Your Personal Information
 
-Unless you have opted out where available, we may rent, sell, or share any of your information, personal or otherwise, with third parties, including without limitation for the following purposes: 
+You understand and agree that we may be required to disclose any personal information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to avoid liability, to comply with legal process, including but not limited to a search warrant, subpoena, statute, or court order, or to protect our rights and property, or that of the public. Note that TOPGAME is not required to question or contest the validity of any search warrant, subpoena or other similar governmental request that TOPGAME may receive. 
 
-  * To respond to your request for customer service on our sites.
-  * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. 
-  * To respond to a subpoena or similar investigative demand, a court order, or a request for cooperation from any law enforcement or other government agency. 
-  * To establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. 
-  * To investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing.
-  * To protect and defend the rights, property or safety of our company, our users, our employees, or others.
-  * To comply with applicable law or cooperate with law enforcement.
-  * To enforce our sites' terms of use or other agreements or policies.
+Additionally, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, customer information may be transferred to TOPGAME's successor or assignee, if permitted by and done in accordance with applicable law. 
 
+Cookies
 
+A cookie is a small data file that we transfer to your computer’s hard disk, generally to quickly identify a user's computer and to "remember" things about the user's visit, such as your preferences or a user name and password. The Service sends cookies to your computer when you access or view content of a TOPGAME game. Information contained in a cookie may be linked to your personal information for purposes such as improving the quality of our service, tailoring recommendations to your interests, and making the Service easier to use. You can disable cookies at any time, although you may not be able to access or use features of the Service. 
 
-We may also rent, sell, or share aggregated demographic information not specifically identifiable to you, and other non-personal information we collect, with any third parties for any reason, including to develop and deliver targeted advertising, and to conduct general business analysis. We may combine non-personal information we collect with additional non-personal information collected from other sources. 
+Links
 
-Our Privacy Policy does not cover any third party's use or handling of your information once it is shared, and the privacy policies of the various third parties will govern. 
+The Service may contain links to other websites. The fact that the Service links to a website or presents a banner ad or other type of advertisement does not mean that TOPGAME endorses or authorizes that third party, nor is it a representation of our affiliation with that third party. TOPGAME is in no way responsible for the privacy policies of these other websites to which you chose to access from the Service. Please be sure to read the privacy policies of those websites when exiting the Service. 
 
-Our sites contain links to other websites, including through advertisements. We are not responsible for the privacy practices of third party linked websites, even if our sites frame the linked third party websites. 
+Changing or Deleting Your Information
 
-### Choice/Opt Out
+You may review, update, correct or delete any personal information by changing the applicable information by changing the applicable information in your Facebook profile page. If you completely delete all this information, your account may become deactivated. If you would like us to delete your record in our system, please contact us and we will attempt to accommodate your request if we are not legally obligated to retain the record. 
 
-  * When we collect information from you, you may tell us that you do not want the information used for purposes not directly related to our sites at the point where we ask for the information.
-  * You may choose to discontinue receiving communications or our services by following the <http://www.networkadvertising.org/managing/opt_out.asp> and requesting to opt-out, sending an email to [privacy@domainsponsor.com](mailto:privacy@domainsponsor.com), or sending mail to DomainSponsor, Privacy, 515 S. Flower Street, Suite 4400, Los Angeles, CA 90071.
-  * To opt-out of communications from our third party business partners, please contact them directly. 
+Security
 
+We have put in place reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure. However, we cannot guarantee that unauthorized third parties will never be able to overcome those measures or use your personal information for improper purposes. Also please note that email and messaging systems are not considered secure, so we discourage you from sending us personal information through these mediums.
 
+Policy Regarding Children
 
-### Privacy Policy Changes
+The Service is not geared toward children under the age of 13 and we do not knowingly collect personal information from children under the age of 13. If we learn that a child under 13 has provided us with personal information we will delete such information from our files as quickly as possible. 
 
-DomainSponsor's Privacy Policy may be updated from time to time to reflect changes in our practices and Services. If we make any material changes in the way we collect, use, and/or share personal information that may impact you, we will prominently post a notice of the changes on our sites and/or notify you by sending an e-mail to the e-mail address you most recently provided us.
+Contacting Us
 
-### General Contact:
-
-DomainSponsor  
-Attn: Privacy  
-515 S. Flower Street, Suite 4400  
-Los Angeles, California 90071
-
-[privacy@domainsponsor.com](mailto:privacy@domainsponsor.com)
+If you have any questions about this Privacy Policy, please contact us at support@topgame.com 
