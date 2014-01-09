@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scenelog.eu privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219022338id_/http%3A//scenelog.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scenelog.eu privacy policy that was archived on 2014-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140109081648id_/http%3A//scenelog.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Scenelog.eu
+# Privacy Policy - Scenelog.org
 
 This Privacy Policy governs the manner in which Scenelog.eu collects, uses, maintains and discloses information collected from users (each, a “User”) of the Scenelog.eu website (“Site”). This privacy policy applies to the Site and all products and services offered by Scenelog.
 
