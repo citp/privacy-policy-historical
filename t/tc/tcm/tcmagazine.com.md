@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcmagazine.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220020359id_/http%3A//www.gameconnect.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcmagazine.com privacy policy that was archived on 2014-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140109120225id_/http%3A//www.gameconnect.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GameConnect | GameConnect
 
@@ -33,7 +33,4 @@ Though GameConnect will take reasonable measures to ensure that users under the 
 #### Privacy Contact Info:
 
 GameConnect  
-Poststraat 12  
-6135KR Sittard, Netherlands  
-Phone: +31 46 7074994  
-Fax: +31 46 4517688
+info@gameconnect.net
