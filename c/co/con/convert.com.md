@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convert.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217215457id_/http%3A//www.convert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convert.com privacy policy that was archived on 2014-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140110215153id_/http%3A//www.convert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | A/B Testing Software
 
