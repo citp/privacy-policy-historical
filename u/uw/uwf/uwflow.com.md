@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwflow.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210074530id_/http%3A//uwflow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwflow.com privacy policy that was archived on 2014-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140110094557id_/http%3A//uwflow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - University of Waterloo: Flow
 
