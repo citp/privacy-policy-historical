@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the travelerhelper.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109071111id_/http%3A//www.travelerhelper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelerhelper.com privacy policy that was archived on 2014-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140111070351id_/http%3A//www.travelerhelper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Travel, Travel Articles, Travel Tips, Travel Topics, Travel Advice, Leisure Topics, Leisure Articles, Travel & Leisure and Cheap Travel Tips.
 
-�
+?/div>
 
 **1\. Collection of Data**
 
