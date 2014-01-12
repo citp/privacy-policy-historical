@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bleacherreport.com privacy policy that was archived on 2013-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130726141206id_/http%3A//bleacherreport.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleacherreport.com privacy policy that was archived on 2014-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140112162614id_/http%3A//bleacherreport.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy**
 
-Last Updated:  August 22, 2012
+Last Updated:  December 20, 2013
 
 Welcome to Bleacher Report, the online and mobile service of Bleacher Report, Inc. (“Bleacher Report,” “we,” or “us”).  Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information.
 
@@ -82,7 +82,7 @@ If you no longer wish to receive Messages, you may text “STOP” to the number
 
 If you have any questions about reviewing or modifying your account information, you can contact us directly at [support@bleacherreport.com](mailto:support@bleacherreport.com).
 
-**b.** ** ** ** ** **Opting out of collection of your information**   **for Tracking / Advertising** :  Please refer to your mobile device or browser’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools.  Depending on your type of device, it may not be possible to delete or disable tracking mechanisms on your mobile device.  Note that disabling cookies and/or other tracking tools prevents Bleacher Report or its business partners from tracking your browser’s activities in relation to the Service, and for use in targeted advertising activities by third parties.  However, doing so may disable many of the features available through the Service.  If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at [support@bleacherreport.com](mailto:support@bleacherreport.com).
+**b.** ** ** ** ** **Opting out of collection of your information**   **for Tracking / Advertising** :  At this time sites on the Turner Network do not recognize automated browser signals regarding tracking mechanisms, which may include “do not track” instructions. Please refer to your mobile device or browser’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools.  Depending on your type of device, it may not be possible to delete or disable tracking mechanisms on your mobile device.  Note that disabling cookies and/or other tracking tools prevents Bleacher Report or its business partners from tracking your browser’s activities in relation to the Service, and for use in targeted advertising activities by third parties.  However, doing so may disable many of the features available through the Service.  If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at [support@bleacherreport.com](mailto:support@bleacherreport.com).
 
 **c.** **   ** ** ** **How long we keep your User Content** :  Following termination or deactivation of your User account, Bleacher Report may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes.
 
