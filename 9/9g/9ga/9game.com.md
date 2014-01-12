@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 9game.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101105027id_/http%3A//a.9game.com/tpl/android/state.html%3Ftext%3DAndroid_state) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9game.com privacy policy that was archived on 2014-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140112045006id_/http%3A//www.9game.com/tpl/android/state.html) for the most accurate reproduction.*
 
 # 9Game - Android games free download
+
+Welcome to 9Game
 
   
 9GAME.COM WEBSITE STATEMENT OF PRIVACY PRACTICES
@@ -70,9 +72,9 @@ __________________
 __________________  
 __________________ [?]
 
-  * [Home](https://web.archive.org/index.html?text=andbottom_index)
-  * [Featured](https://web.archive.org/ablums.html?text=andindex_zt)
-  * [Rank](https://web.archive.org/order.html?orderby=1&text=andbottom_order)
-  * [Category](https://web.archive.org/category.html?text=andbottom_category)
+  * [Home](https://web.archive.org/)
+  * [Featured](https://web.archive.org/featured-games/)
+  * [Rank](https://web.archive.org/top-android-games-all/)
+  * [Category](https://web.archive.org/cg/)
 
 
