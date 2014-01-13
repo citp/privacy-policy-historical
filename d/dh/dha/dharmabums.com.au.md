@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dharmabums.com.au privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120065049id_/http%3A//www.dharmabums.com.au/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dharmabums.com.au privacy policy that was archived on 2014-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140113064013id_/http%3A//www.dharmabums.com.au/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Dharma Bums Activewear
+# Privacy Policy – Dharma Bums Yoga and Activewear
 
 #### SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
 
