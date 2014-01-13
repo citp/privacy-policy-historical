@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vpike.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209074237id_/http%3A//www.vpike.com%3Fr%3Df%26st%3Dp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpike.com privacy policy that was archived on 2014-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140113204432id_/http%3A//vpike.com%3Fr%3Df%26st%3Dp) for the most accurate reproduction.*
 
 # vPike.com Privacy Policy
 
