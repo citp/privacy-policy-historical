@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolfree-downloads.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130031817id_/http%3A//www.coolfree-downloads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolfree-downloads.com privacy policy that was archived on 2014-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140113192439id_/http%3A//www.onlineapplicationsdownloads.com/privacy-policy) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
@@ -20,8 +20,8 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 ** Unsolicited email messages **
 
-We prohibit any advertising of our COOLFREE-DOWNLOADS.COM web site using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination.   
-If you feel you've been sent unsolicited emails promoting our brand or website and would like to register a complaint, please contact us at <http://coolfree-downloads.com/contactus>. We will immediately investigate all allegations made related to unsolicited messages. 
+We prohibit any advertising of our ONLINEAPPLICATIONSDOWNLOADS.COM web site using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination.   
+If you feel you've been sent unsolicited emails promoting our brand or website and would like to register a complaint, please contact us at <http://onlineapplicationsdownloads.com/contactus>. We will immediately investigate all allegations made related to unsolicited messages. 
 
 ** Your Consent **
 
