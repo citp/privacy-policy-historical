@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liveindiansexwebcams.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928013428id_/http%3A//liveindiansexwebcams.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveindiansexwebcams.com privacy policy that was archived on 2014-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140113021317id_/http%3A//www.liveindiansexwebcams.com/privacy-policy) for the most accurate reproduction.*
 
-# Live Indian Sex Webcams Privacy Policy
+# Indian sex cams- Watch hot indian girls Live straight from their home Privacy Policy
 
 We know that protecting your privacy is very important to you.
 
