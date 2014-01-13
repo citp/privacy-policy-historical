@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ugamsolutions.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028070032id_/http%3A//www.ugamsolutions.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugamsolutions.com privacy policy that was archived on 2014-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140113122712id_/http%3A//www.ugamsolutions.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ugam Solutions
 
