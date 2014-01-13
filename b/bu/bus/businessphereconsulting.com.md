@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessphereconsulting.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113121047id_/http%3A//businessphereconsulting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessphereconsulting.com privacy policy that was archived on 2014-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140113123505id_/http%3A//businessphereconsulting.com/privacy-policy) for the most accurate reproduction.*
 
 # Business Sphere | Privacy Policy
 
