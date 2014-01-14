@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezonlineclassifieds.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113170204id_/http%3A//www.ezonlineclassifieds.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezonlineclassifieds.com privacy policy that was archived on 2014-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140114235526id_/http%3A//www.ezonlineclassifieds.com/privacy.asp) for the most accurate reproduction.*
 
 # Targeted classified advertising
 
