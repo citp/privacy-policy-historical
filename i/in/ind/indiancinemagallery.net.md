@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiancinemagallery.net privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114120434id_/http%3A//indiancinemagallery.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiancinemagallery.net privacy policy that was archived on 2014-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140114122056id_/http%3A//indiancinemagallery.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Latest Photo Gallery Updates | Indian Cinema Gallery - Home of Indian Cinema including Bollywood, Tollywood, Kollywood, Sandalwood and Mollywood Movies News and Celebrity
 
@@ -53,4 +53,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 Thanks & Regards
 
 www.cine-gallery.com  
-admin (at) cine-gallery.com (8)
+admin (at) cine-gallery.com (38)
