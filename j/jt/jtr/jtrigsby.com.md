@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jtrigsby.com privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830061504id_/http%3A//www.jtrigsby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jtrigsby.com privacy policy that was archived on 2014-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140114123033id_/http%3A//www.thomrigsby.com/privacy) for the most accurate reproduction.*
 
 # Privacy at jtrigsby.com | Thom Rigsby
 
@@ -8,7 +8,7 @@ Here at jtrigsby.com, I respect your privacy (unlike my other sites?) and I am c
 
 **RSS Feeds and Email Updates**
 
-If a user wishes to subscribe to my RSS Feeds or Email Updates (powered by Feedburner), I ask for [contact](http://www.jtrigsby.com/contact-thom/ "contact") information such as name and email address. Users may opt-out of these communications at any time. Your personal information will never be sold or given to a third party. (You will never be spammed by me – ever)
+If a user wishes to subscribe to my RSS Feeds or Email Updates (powered by Feedburner), I ask for [contact](http://www.thomrigsby.com/contact-thom/ "contact") information such as name and email address. Users may opt-out of these communications at any time. Your personal information will never be sold or given to a third party. (You will never be spammed by me – ever)
 
 **Log Files and Stats**
 
