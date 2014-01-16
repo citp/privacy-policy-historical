@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the racklodge.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926180700id_/https%3A//www.racklodge.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racklodge.com privacy policy that was archived on 2014-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140117003353id_/http%3A//www.racklodge.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - Rack Lodge Data Center Costa Rica | Rack Lodge Data Center Costa Rica
+# Your privacy is our number one priority | Rack Lodge DataCenter
 
 **Contact Us**
 
