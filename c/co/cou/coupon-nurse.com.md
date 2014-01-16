@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the coupon-nurse.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115014013id_/http%3A//coupon-nurse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupon-nurse.com privacy policy that was archived on 2014-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140116170912id_/http%3A//coupon-nurse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Coupon Nurse
-
-Take advantage of some other Freebies : Free Halloween Tote [CLICK HERE](http://partners.mysavings.com/z/24232/CD7215/) FREE Child Id Kit [CLICK HERE ](http://www.mitwodotoh.com/click?c=249761&a=37883&s1=)
 
 Privacy Policy  
 This Privacy Policy governs the manner in which Coupon Nurse collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.coupon-nurse.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by Coupon Nurse.
