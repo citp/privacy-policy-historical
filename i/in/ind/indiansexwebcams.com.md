@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiansexwebcams.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118035441id_/http%3A//www.indiansexwebcams.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiansexwebcams.com privacy policy that was archived on 2014-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140118015347id_/http%3A//www.indiansexwebcams.com/privacy.htm) for the most accurate reproduction.*
 
 # Our Commitment To Privacy
 
