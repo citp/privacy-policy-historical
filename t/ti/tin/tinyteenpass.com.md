@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinyteenpass.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208140053id_/http%3A//tinyteenpass.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyteenpass.com privacy policy that was archived on 2014-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140118035733id_/http%3A//tinyteenpass.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
