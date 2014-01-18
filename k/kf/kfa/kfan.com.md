@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kfan.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101075842id_/http%3A//www.kfan.com/cc-common/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfan.com privacy policy that was archived on 2014-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140118030650id_/http%3A//www.kfan.com/cc-common/privacystatement.html) for the most accurate reproduction.*
 
 # KFAN FM 100.3 Privacy Statement
+
+The radio station to which this web site or application is related is licensed to and operated by the Aloha Station Trust, LLC (the "Trust"). The Trust has elected, with the concurrence of Clear Channel, to continue to make use of the following terms conditions, and policies, for this web site or application, previously implemented by Clear Channel, as they may be changed from time-to-time.
 
 PRIVACY STATEMENT
 
