@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the genxgame.com privacy policy that was archived on 2013-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130417124135id_/http%3A//www.genxgame.com/front/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genxgame.com privacy policy that was archived on 2014-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140119022626id_/http%3A//www.genxgame.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - genxgame
+# genxgame.com - Privacy Policy
 
 KH Media, LLC ("GenXGame") operates a variety of web sites ("Web Site" or "Site") including www.genxgame.com and is committed to protecting the privacy of our Web Site users ("Users") and KH Media, LLC members ("Members"). To that end, we offer this Privacy Policy to inform our Members and Users (referred to individually, or collectively, as "you") of how we collect, use and disclose your personal information. KH Media, LLC will take reasonable steps to protect your personal information in accordance with this Privacy Policy and applicable laws. To make this notice easy to find, we provide a link to our policy at the bottom of most pages of our Web Site.
 
