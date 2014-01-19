@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezeegift.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119043825id_/http%3A//www.ezeegift.com/pages/Privacy-Policy/pgid-68975.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezeegift.com privacy policy that was archived on 2014-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140119235529id_/http%3A//www.ezeegift.com/pages/Privacy-Policy/pgid-68975.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
