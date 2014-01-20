@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewhitecompany.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121014050id_/http%3A//www.thewhitecompany.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewhitecompany.com privacy policy that was archived on 2014-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140120110043id_/http%3A//www.thewhitecompany.com/help/privacy-policy) for the most accurate reproduction.*
 
 # The White Company - Privacy & Data Protection
 
