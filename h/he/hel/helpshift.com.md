@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helpshift.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213081435id_/http%3A//www.helpshift.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpshift.com privacy policy that was archived on 2014-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140120173825id_/https%3A//www.helpshift.com/privacypolicy) for the most accurate reproduction.*
 
 # The customer support help desk for native apps | Helpshift
 
