@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kvaser.com privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826062217id_/http%3A//www.kvaser.com/en/kvaser/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kvaser.com privacy policy that was archived on 2014-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140120113728id_/http%3A//www.kvaser.com/en/kvaser/privacypolicy.html) for the most accurate reproduction.*
 
 # kvaser.com - Privacy Statement
 
