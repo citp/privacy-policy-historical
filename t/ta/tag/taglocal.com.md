@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taglocal.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504035550id_/http%3A//www.taglocal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taglocal.com privacy policy that was archived on 2014-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140121230541id_/http%3A//www.taglocal.com/privacy.html) for the most accurate reproduction.*
 
 # TagLocal.com | Privacy Policy
 
