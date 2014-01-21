@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submitedge.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220065348id_/http%3A//www.submitedge.com/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitedge.com privacy policy that was archived on 2014-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140121184834id_/http%3A//www.submitedge.com/policies.html) for the most accurate reproduction.*
 
 # SubmitEdge Privacy Policies
 
