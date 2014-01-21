@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the espiya.net privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906121138id_/http%3A//espiya.net/infocenter/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the espiya.net privacy policy that was archived on 2014-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140121030234id_/http%3A//espiya.net/infocenter/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Espiya.Net
 
