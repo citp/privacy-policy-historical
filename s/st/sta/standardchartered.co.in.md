@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standardchartered.co.in privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815055700id_/http%3A//www.standardchartered.co.in/website-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardchartered.co.in privacy policy that was archived on 2014-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140122085422id_/https%3A//www.sc.com/in/website-privacy-statement.html) for the most accurate reproduction.*
 
 # Website Privacy Statement – Standard Chartered Bank India
 
@@ -49,15 +49,15 @@ required for the operation of our Website to:
 
 
 
-**(iv) Targeting / advertising cookies.** These cookies record your visit to our Website, your response to our online advertisements, track the pages you have visited and the website links you have followed. We use this information to:
+**(iv) Targeting / advertising cookies.** These cookies record your visit to our Website, your response to our online advertisements; track the pages you have visited and the website links you have followed. We use this information to:
 
-  * make our Website more relevant to your interests;
-  * provide online advertisements or offers on our Website or third-party websites which are most likely to interest you;
-  * limit the number of times you see an advertisement and evaluate the effectiveness of our online marketing and advertising programs.
+  * make our Website more relevant to your interests based on your past visits to our Website; 
+  * tailor our online advertisements or offers on our Website or third-party websites which are most likely to interest you;
+  * evaluate the effectiveness of our online marketing and advertising campaigns.
 
 
 
-The above cookies may be placed on your Device by us or by third parties on our behalf (for example, advertising networks and providers of external services like web traffic analysis services).
+The above cookies may be placed on your Device by us or by third parties on our behalf (for example, advertising service providers like Google and DoubleClick and other service providers for web analytics). You can opt out of Google's use of cookies by visiting [Google’s Ad Settings](http://www.google.com/settings/ads) and DoubleClick’s use of cookies by visiting the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb).
 
 Most web browsers are initially set up to accept cookies. You can choose to ‘not accept’ cookies by changing the settings on your web browser but if you block all cookies, including strictly necessary cookies, you may find that certain features on our Website will not work properly.
 
