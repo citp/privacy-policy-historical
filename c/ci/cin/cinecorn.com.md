@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cinecorn.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221234249id_/http%3A//www.cinecorn.com/telugu/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinecorn.com privacy policy that was archived on 2014-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140122155824id_/http%3A//www.cinecorn.com/telugu/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | Ramayya Vasthavayya Telugu Review Ratings - Ramayya Vasthavayya Collections | CineCorn.Com - Latest Telugu Cinema News,Reviews,Boxoffice,Gallery,Videos
+# Privacy Policy | Yevadu Collections | 1 Nenokkadine Collections | Ram Charan Yevadu Review | CineCorn.Com - Latest Telugu Cinema News,Reviews,Boxoffice,Gallery,Videos
 
 **Cookies & 3rd Party Advertisements**
 
