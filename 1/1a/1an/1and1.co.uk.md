@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1and1.co.uk privacy policy that was archived on 2012-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120831201501id_/http%3A//www.1and1.co.uk/PrivacyPolicy%3F__lf%3DStatic%26linkOrigin%3D%26linkId%3Dft.nav.privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1and1.co.uk privacy policy that was archived on 2014-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140122203203id_/http%3A//www.1and1.co.uk/PrivacyPolicy%3F__lf%3DStatic%26linkId%3Dft.nav.privacypolicy) for the most accurate reproduction.*
 
 # 1&1 Internet - Privacy Policy
 
@@ -44,7 +44,7 @@ Like most standard Websites, 1&1 use log files. This information may include int
 
 1&1 may from time to time engage third parties, including its own subsidiaries and affiliated companies, to preserve, analyse or otherwise store or manipulate data received by 1&1 from its customers. In all such cases, such third party service providers will be required to treat all such data with the same degree of care as 1&1 and they will be prohibited from disclosing such data to any other person or party, except as otherwise provided for in this Privacy Policy. 
 
-For all domain registrations your registrant details are passed to the domain registrar in accordance with the [Domain Terms and Conditions](http://registrarterms.1and1.co.uk/). Only .UK domains offer an Opt-Out for personal registrations. 
+For all domain registrations your registrant details are passed to the domain registrar in accordance with the [Domain Terms and Conditions](https://web.archive.org/deref?link=http%3A%2F%2Fregistrarterms.1and1.co.uk%2F&__sign=f84863e8184a7aa897a0b14895c52183&__ts=1390422724450). Only .UK domains offer an Opt-Out for personal registrations. 
 
 ## Special Offers and Updates
 
@@ -71,4 +71,4 @@ Always remember to log out after your session ends, to ensure that others cannot
 
 ## Questions
 
-Any questions concerning this Privacy Policy may be directed by e-mail to [PrivacyPolicy@1and1.co.uk](mailto:PrivacyPolicy@1and1.co.uk). 
+Any questions concerning this Privacy Policy may be directed by e-mail to [PrivacyPolicy@1and1.co.uk](https://web.archive.org/deref?link=mailto%3APrivacyPolicy%401and1.co.uk&__sign=4c44dc931a7e1b0ad9ec20423347d5ba&__ts=1390422724451). 
