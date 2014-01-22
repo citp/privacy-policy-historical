@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campussuite.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827094613id_/http%3A//www.campussuite.com/Privacy-Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campussuite.com privacy policy that was archived on 2014-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140122044950id_/http%3A//campussuite.com/Privacy-Policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
