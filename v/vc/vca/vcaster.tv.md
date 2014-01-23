@@ -1,112 +1,90 @@
-> *The following text is extracted and transformed from the vcaster.tv privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310082008id_/http%3A//vcaster.tv/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcaster.tv privacy policy that was archived on 2014-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140124001354id_/http%3A//vcaster.tv/privacy.html) for the most accurate reproduction.*
 
-# Vcaster Beta 2.0 - Live Video Stream on Tencast
+# AMCast
 
-vcaster.tv are committed to protecting and respecting your privacy.
+Welcome to the AMCast.tv. ("AMCast.tv") applications, platform, website( [www.AMCast.tv](http://www.amcast.tv/)), and any other web sites, applications, or services operated or produced by AMCast.tv (collectively, the "AMCast.tv Platform"). AMCast.tv values the privacy of the users, subscribers, publishers, members, and others who visit and use the AMCast.tv Platform (collectively or individually, "You" or "Users").
 
-This policy (together with our Terms of Use and vcaster.tv! End User Licence Agreement (and any other documents referred to therein) describes the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+By using the AMCast.tv Platform, you expressly consent to the information handling practices described in this policy.
 
-Unless otherwise defined below, defined terms referred to in this Privacy Policy shall have the meaning set out in the vcaster.tv! Terms of Use.  
-How we collect information
+This Privacy Policy is incorporated into and is subject to the AMCast.tv Platform [Terms of Service](http://amcast.tv/terms). Your use of the AMCast.tv Platform and any personal information you provide through the AMCast.tv Platform are subject at all time to this Privacy Policy and the [Terms of Service](http://amcast.tv/terms).
 
-We may collect and process the following information about you:
+**The Information AMCast.tv Collects**
 
-1\. In order to access the vcaster.tv! service for the first time, you may be asked to create a user account by providing information including your first and last name, a valid email address and a password made up of alpha numeric characters. Subsequently, you may be asked to sign in using your registered email address and password, which we refer to as your "credentials". As part of creating your user account, you may also be requested to provide questions and secret answers, which we use to help verify your identity and assist in resetting your password, as well as an alternate email address. Finally, a unique ID number will be assigned to your credentials which will be used to identify your credentials and associated information.
-
-2\. We ask you to provide personal information, such as your e-mail address, name, company name, home or work address or telephone number. We may also collect demographic information, such as your ZIP or postal code, age, gender, preferences, interests and favourites.
-
-3\. We may collect information about your visit, including the pages you view, the links you click and other actions taken in connection with the Site and other vcaster.tv sites and services. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses.
-
-4\. When you use the Services to distribute User Content to other Users of the Services, we may collect information about the User Content you are distributing including the title, description, genre, type (audio or video) and location information. In addition, if you use the vcaster.tv! User Microsite or Channel page feature, you will be able to create and edit your own page on the Site, which will contain addition information about you (that you provide) and which will be visible to other users of the Services.
-
-5\. When you receive newsletters or promotional e-mail, we may use web beacons, customised links or similar technologies to determine whether the e-mail has been opened and which links you click in order to provide you more focused e-mail communications or other information.
-
-6\. In order to offer you a more consistent and personalised experience in your interactions with the Services and us, information collected through one vcaster.tv service may be combined with information obtained through other vcaster.tv services. We may also supplement the information we collect with information obtained from other companies. For example, we may use services from other companies that enable us to derive a general geographic area based on your IP address in order to customise certain services to your geographic area.  
-IP Addresses and Cookies
-
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about Users" browsing actions and patterns, and does not identify any individual.
-
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies are small text files that are placed on your hard disk by a web page server. Cookies cannot be used programs or deliver viruses to your computer. They help us to improve the Services and to deliver a better and more personalised service. They enable us:
-
-  * To estimate our audience size and usage pattern;
-  * To store information about your preferences, and so allow us to customise the Site according to your individual interests;
-
-
-  * To speed up your searches and
-  * To recognise you when you return to the Site.
+  * User-provided Information: You may provide to AMCast.tv what is generally called "personally identifiable" information (such as your name, email address, postal mailing address, home/mobile telephone number, credit card number and billing information) if you upload, purchase, or view or download certain content or products from the AMCast.tv Platform, enter contests or sweepstakes, or otherwise use the features and functionality of the AMCast.tv Platform.
+  * "Cookies" Information: When you access the AMCast.tv Platform, we may send one or more cookies - small text files containing a string of alphanumeric characters - to your computer. AMCast.tv may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the AMCast.tv Platform. Persistent cookies can be removed. Please review your web browser "Help" file to learn the proper way to modify your cookie settings.
+  * "Automatically Collected" Information: When you access the AMCast.tv Platform or open one of our HTML emails, we may automatically record certain information from your system by using different types of tracking technology. This "automatically collected" information may include Internet Protocol address ("IP Address"), a unique user ID, version of software installed, system type, the content and pages that you access on the AMCast.tv Platform, and the dates and times that you visit the AMCast.tv Platform. 
 
 
 
-We use "session" cookies which confirm that users are logged on to the Site. These cookies terminate once the User closes the browser. You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of the Site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to the Site.
+**The Way AMCast.tv Uses Information**
 
-Please note that our advertisers may also use cookies, over which we have no control.  
-Where we store your personal data
-
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staffs operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy polic y.
-
-All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Site, you are responsible for keeping this password confidential. You must not share your password with anyone. If you are sharing a computer with anyone you should always choose to log out before leaving a site or service to protect access to your information from subsequent users.  
-How we keep your information secure
-
-We are committed to protecting the security of your personal information. As such, all information you provide to us is stored on our secure servers and we use a variety of security technologies and procedures to help protect your personal information from unauthorised access, use or disclosure.
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.  
-How we use the information we collect
-
-We use information held about you in the following ways:
-
-  * To ensure that content from the Site is presented in the most effective manner for you and for your computer;
-
-
-  * To allow us to operate and improve the Site and deliver the services or carry out the transactions you have requested in the most effective manner;
-
-
-  * Performing research and analysis aimed at improving our products, services and technologies;
-
-
-  * To allow you to participate in interactive features of our service, when you choose to do so; and
-
-
-  * To notify you about changes to our service.
+  * AMCast.tv uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on the AMCast.tv Platform as well as to track user-generated content and Users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act. 
+  * We will use your email address, without further consent, for administrative communications such as notifying you of major AMCast.tv Platform updates, for customer service purposes, to address copyright infringement or defamation issues, or to contact you regarding any content that you have posted to or downloaded from the AMCast.tv Platform.
+  * AMCast.tv uses all of the information that we collect to understand the usage trends and preferences of our Users, to improve the way the AMCast.tv Platform works and looks, and to create new features and functionality.
+  * AMCast.tv may use "Automatically Collected" information and "Cookies" information to: (a) automatically update the AMCast.tv application on your system; (b) remember your information so that you will not have to re-enter it during your visit or the next time you access the AMCast.tv Platform; (c) provide customized third-party advertisements, content and information; (d) monitor the effectiveness of third-party marketing campaigns; (e) monitor aggregate site usage metrics such as total number of visitors and pages accessed; and (f) track your entries, submissions, and status in any promotions or other activities.
 
 
 
-We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users. We may also use such aggregate information to help advertisers reach the kind of audience they want to target. We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.  
-Children under age 13
+**When AMCast.tv Discloses Information**
 
-In accordance with our Terms of Use, we do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register to use the Services. If you are under 13, please do not send any information about yourself to us. No one under the age of 13 is allowed to provide any personal information to vcaster.tv or to use any of the Services. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under the age of 13, please contact us at [info@vcaster.tv](mailto:info@vcaster.tv) .  
-Children aged between ages 13 and 14
-
-We require that children over the age of 13 ask their parents or legal guardians for permission before sending any information about themselves over the Internet.  
-Disclosure of your information
-
-vcaster.tv! enables you to distribute live audio and video content and other information about yourself with other Users. We allow you to choose the information you share with other Users.
-
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries.
-
-In addition, some vcaster.tv services may be co-branded and offered in conjunction with another company. If you register for or use such services, both vcaster.tv and the other company may receive information collected in conjunction with the co-branded services.
-
-We may disclose your personal information to third parties:
-
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
-
-
-  * If vcaster.tv or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets; and
-
-
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms of Use and other agreements; or to protect the rights, property, or safety of vcaster.tv, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * AMCast.tv does not share your personally identifiable information with other organizations for their marketing or promotional uses without your prior express consent. Please be aware, however, that any personally identifiable information that you voluntarily choose to display on any publicly available portion of the AMCast.tv Platform - such as when you publish content, comments or profile information - becomes publicly available and may be collected and used by others without restriction.
+  * AMCast.tv may disclose Automatically Collected and other aggregate non-personally-identifiable information with interested third parties to assist such parties in understanding the usage and demographic patterns for certain programs, content, services, advertisements, promotions, or other functionality of AMCast.tv.
+  * We may disclose some limited User information to affiliated companies or other businesses or persons to: provide web site hosting, maintenance, and security services; fulfill orders; conduct data analysis and create reports; offer certain functionality; and assist AMCast.tv in improving the AMCast.tv Platform and creating new services features. We require that these parties process such information in compliance with this Privacy Policy, we authorize only a limited use of such information, and we require these parties to use reasonable confidentiality measures.
+  * AMCast.tv may disclose User information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright law) or respond to a court order, judicial or other government subpoena, or warrant in the manner required by the requesting entity.
+  * AMCast.tv also reserves the right to disclose User information that we believe, in good faith, is appropriate or necessary to take precautions against liability; protect AMCast.tv from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the AMCast.tv Platform; or to protect the rights, property, or personal safety of AMCast.tv, our Users, or others.
 
 
 
-In accordance with our TERMS OF USE, we may disclose your identity to any third party who claims that any User Content posted or uploaded by you to the Site or delivered by you using the Services to other Users of the Services constitutes a violation of their intellectual property rights, or of their right to privacy OR ANY BREACH OF LAW OR REGULATION IN ANY JURISDICTION.  
-Your rights
+**Your Choices**
 
-You may have the ability to view or edit your personal information online. In order to help prevent your personal information from being viewed by others, you will be required to sign in with your credentials.
+You may, of course, decline to share your personally-identifiable information with AMCast.tv, in which case AMCast.tv will not be able to provide to you some of the features and functionality found on the AMCast.tv Platform. You may update, correct, or delete your user information and preferences by clicking on the "Edit Settings" link on the top left of the page once you have logged in to the AMCast.tv Platform.
 
-You have the right to request details of the information we hold about you and to delete or rectify any inaccurate information about you by sending us a written request to [info@vcaster.tv](mailto:info@vcaster.tv) stating your full name and your address. A small administrative charge may be made for fulfilling this request.
+To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. You are responsible for maintaining the secrecy of your unique password and account information at all times.
 
-The Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites
+**Advertisers**
 
-You have the right to ask us not to process your personal data for marketing purposes. We will inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data (if any). You can also exercise the right at any time by contacting us at [admin@vcaster.tv](mailto:admin@vcaster.tv)  
-Changes to our privacy policy
+AMCast.tv may allow advertisers, third party advertising networks and third-party advertising serving companies to serve advertisements directly to you within the AMCast.tv site, services and software. By serving these advertisements directly to you, these companies can set their own cookies on your computer and trigger their own Web beacons to measure the effectiveness of their advertisements and to personalize the advertising content. AMCast.tv does not provide your personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks AMCast.tv to show an advertisement to a certain audience (for example, males age 15 to 18) or audience segment (for example, males age 15 to 18 who have participated in certain promotions) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience that they were trying to reach. You should consult the respective privacy policies of these third-party ad servers or ad networks.
 
-vcaster.tv under a continuing development process. Any changes we may make to our privacy policy in the future will be posted on this page. You should check this page from time to time to ensure you are happy with any changes.
+Some of these companies are participants in the Network Advertising Initiative ("NAI"), a cooperative of online marketing and analytic companies committed to building consumer awareness and establishing responsible business and data management practices and standards. You can learn more about NAI and how you may "opt out" of targeted advertising delivered by NAI member ad networks here:  
+[  
+http://www.networkadvertising.org/](http://www.networkadvertising.org/).
+
+This Privacy Policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. AMCast.tv reserves the right the add or remove third-party ad networks or ad servers in its discretion and AMCast.tv may not at all times list such updated ad network or ad server partners in this Privacy Policy.
+
+**Our Commitment to Data Security**
+
+AMCast.tv uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to AMCast.tv, and you do so at your own risk. Once we receive your transmission of information, AMCast.tv makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. 
+
+If AMCast.tv learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. AMCast.tv may post a notice on the AMCast.tv Platform if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at [privacy@AMCast.tv](mailto:privacy@AMCast.tv). 
+
+**Our Commitment to Children's Privacy**
+
+If you are under 13 years of age, then please do not use or access THE AMCast.tv PLATFORM at any time or in any manner.
+
+Protecting the privacy of young children is especially important. For that reason, AMCast.tv does not knowingly collect or maintain personally identifiable information from persons under 13 years-of-age. If AMCast.tv learns that personally-identifiable information of persons less than 13-years-of-age has been collected on or through the AMCast.tv Platform, then AMCast.tv will take the appropriate steps to delete this information.
+
+If you are the parent or legal guardian of a child under 13 who has become AMCast.tv Platform member, then please contact AMCast.tv at [privacy@AMCast.tv](mailto:privacy@AMCast.tv). This e-mail address is being protected from spambots. You need JavaScript enabled to view it to have that child's account terminated and information deleted.
+
+The following are some resources that may help parents and legal guardians in monitoring and limiting your childrens' access to certain types of material on the Internet. While AMCast.tv does not endorse these products, we provide information about them as a public service to our community.
+
+  * ["OnGuard Online," maintained by the FTC.](http://onguardonline.gov/socialnetworking.html)
+  * [WiredSafety](http://www.wiredsafety.org/)
+  * [Netsmartz.org](http://www.netsmartz.org/)
+  * [The Child Safety Network](http://www.csn.org/index.jsp)
+  * [Control Kids](http://www.controlkids.tv/)
+  * [Cyber Sitter](http://www.solidoak.tv/)
+  * [Net Nanny](http://www.netnanny.tv/)
+
+
+
+**International Visitors**
+
+For Users visiting the AMCast.tv Platform from the European Economic Area or other non-U.S. territories, please note that any data you enter into the AMCast.tv Platform will be transferred outside the European Economic Area or such other non-U.S. territory for use by AMCast.tv and its affiliates for any of the purposes described herein. In addition, because AMCast.tv operates globally, we may make information we gather available to worldwide business units and affiliates. By providing any data on the AMCast.tv Platform, you hereby expressly consent to such transfers of your data to the United States or other countries.
+
+**In the Event of Merger or Sale**
+
+In the event that AMCast.tv is acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from Users as part of that merger, acquisition, sale, or other change of control. Changes and Updates to this Privacy Policy:
+
+This Privacy Policy may be revised periodically without further policy to you and this will be reflected by a "last modified" date below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Policy in effect when we received that personal information. Your continued use of the AMCast.tv Platform constitutes your agreement to this Privacy Policy and any future revisions.
+
+For revisions to this Privacy Policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will make reasonable efforts to notify you and obtain your consent before implementing revisions with respect to such information.
