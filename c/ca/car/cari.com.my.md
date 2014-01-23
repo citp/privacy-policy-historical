@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cari.com.my privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823205945id_/http%3A//cari.com.my/cari/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cari.com.my privacy policy that was archived on 2014-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140123064538id_/http%3A//cari.com.my/cari/privacy_policy.php) for the most accurate reproduction.*
 
 # CARI's Online Privacy Policy - Cari.com.my - Find Malaysia Here
 
