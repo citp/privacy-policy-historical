@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialsurf4u.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124004801id_/http%3A//www.socialsurf4u.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialsurf4u.com privacy policy that was archived on 2014-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140123124430id_/http%3A//www.socialsurf4u.com/privacy.php) for the most accurate reproduction.*
 
 # SocialSurf4U.com | Privacy Policy
 
