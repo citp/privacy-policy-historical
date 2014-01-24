@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelbureau.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207101827id_/http%3A//travelbureau.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelbureau.com privacy policy that was archived on 2014-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140124130651id_/http%3A//www.travelbureau.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
