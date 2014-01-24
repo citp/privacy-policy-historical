@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metacrawler.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030060316id_/http%3A//www.metacrawler.com/support/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metacrawler.com privacy policy that was archived on 2014-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140124073018id_/http%3A//www.metacrawler.com/support/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,13 +22,13 @@ From time to time, InfoSpace may conduct surveys or contests on an InfoSpace Sit
 
 ### Go2Net.com Registration
 
-The InfoSpace Site located at www.go2net.com offers customization capabilities. To register, you must provide InfoSpace with your name, zip code, e-mail address, birth date, gender, and income range. While not all of this data is required for our services to function, we are better able to customize your experience if you volunteer complete and accurate information. Users who complete the registration process are given a Go2Net ID and can take full advantage of the Go2Net customization capabilities.
+The InfoSpace Site located at [www.go2net.com](http://www.go2net.com/) offers customization capabilities. To register, you must provide InfoSpace with your name, zip code, e-mail address, birth date, gender, and income range. While not all of this data is required for our services to function, we are better able to customize your experience if you volunteer complete and accurate information. Users who complete the registration process are given a Go2Net ID and can take full advantage of the Go2Net customization capabilities.
 
 ### Directory Services
 
 InfoSpace offers certain personalization services within its directory services (i.e., White Pages and Yellow Pages) that enable you to give us your geographic location so we can remember it for you when you return to use our service. For example, if we know that you are searching from Bellevue, Washington for a particular company, we will pre-populate the city and state fields with Bellevue and Washington. While you are not required to use this feature of the directory services, the information enables us to provide you with a more efficient experience on the InfoSpace Sites. In addition, InfoSpace allows you to update, correct any errors in the listings, or include yourself in the directory services. In order to make these modifications, you may provide InfoSpace with certain individual user information that InfoSpace will use, along with its affiliates and third party service providers, to modify and update your information in the directory services database. 
 
-Yellow Pages listings are supplied by Verizon SuperPages. To add or update your existing free basic Yellow Pages listing, please go to the following web site: https://snap.superpages.com/NASApp/Listing/control/ViewListing. To delete your listing, please call the customer service department at 1-800-428-8722, stay on the line without pushing any prompts, and a representative will assist you. 
+Yellow Pages listings are supplied by Verizon SuperPages. To add or update your existing free basic Yellow Pages listing, please go to the following web site: <https://snap.superpages.com/NASApp/Listing/control/ViewListing>. To delete your listing, please call the customer service department at 1-800-428-8722, stay on the line without pushing any prompts, and a representative will assist you. 
 
 Once you have located it, simply click the update or remove link. To verify your request, InfoSpace will send an e-mail message to the address that you provide. Once you confirm the request, your listing will be updated or deleted. Please allow approximately 24 hours for the update to become active after we receive your confirmation.
 
@@ -68,7 +68,7 @@ In the event InfoSpace goes through a business transition, such as a merger, bei
 
 ### Choice/Opt-out
 
-We desire to keep you in control of the personal information you provide to us. Accordingly, you can review, correct, change or remove the personal registration information you provide to InfoSpace and that InfoSpace controls. In order to elect not to receive future communications from us, please [Contact us](https://web.archive.org/mczoo/support/contactus)
+We desire to keep you in control of the personal information you provide to us. Accordingly, you can review, correct, change or remove the personal registration information you provide to InfoSpace and that InfoSpace controls. In order to elect not to receive future communications from us, please [Contact us](https://web.archive.org/info.metac.t3/support/contactus)
 
 ### Notification of Changes
 
@@ -89,11 +89,11 @@ It is possible that by fraud or deception we may receive information given to us
 
 Questions regarding children's privacy should be directed to:   
 InfoSpace, Inc.   
-601 108th Avenue NE, Suite 1200   
+10900 NE 8th Street, Suite 800   
 Bellevue, Washington 98004 USA   
 \+ (1) 425.201.6100 phone   
 \+ (1) 425.201.6150 fax 
 
-E-mail: [Contact us](https://web.archive.org/mczoo/support/contactus)
+E-mail: [Contact us](https://web.archive.org/info.metac.t3/support/contactus)
 
 Policy effective Oct 11, 2007
