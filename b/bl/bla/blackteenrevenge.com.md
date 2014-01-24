@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackteenrevenge.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821062053id_/http%3A//blackteenrevenge.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackteenrevenge.com privacy policy that was archived on 2014-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140124041448id_/http%3A//blackteenrevenge.com/privacy.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY STATEMENT
 
@@ -31,8 +31,6 @@ We employ the latest and best techniques available for protecting its systems fr
 Spam Policy
 
 We do not condone the use of spam and the sending of unsolicited materials in any form, nor do we control other websites involvement and/or practices in this area.
-
-??
 
 * * *
 
