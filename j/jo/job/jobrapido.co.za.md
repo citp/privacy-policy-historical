@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobrapido.co.za privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124071901id_/http%3A//za.jobrapido.com/info/privacy-policy-iframe%3Fpopup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobrapido.co.za privacy policy that was archived on 2014-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140124074928id_/http%3A//za.jobrapido.com/info/privacy-policy-iframe%3Fpopup) for the most accurate reproduction.*
 
 # 
 
