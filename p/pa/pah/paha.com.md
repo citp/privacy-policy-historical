@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paha.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127074158id_/http%3A//paha.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paha.com privacy policy that was archived on 2014-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140125091048id_/http%3A//paha.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
