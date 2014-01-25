@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sugartester.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209041313id_/http%3A//sugartester.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugartester.com privacy policy that was archived on 2014-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140125183003id_/http%3A//sugartester.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
