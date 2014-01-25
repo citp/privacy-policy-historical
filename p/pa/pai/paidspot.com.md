@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paidspot.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126173849id_/http%3A//paidspot.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidspot.com privacy policy that was archived on 2014-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140125091102id_/http%3A//paidspot.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
