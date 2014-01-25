@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-pool.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207204531id_/http%3A//the-pool.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-pool.com privacy policy that was archived on 2014-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140125135721id_/http%3A//the-pool.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
