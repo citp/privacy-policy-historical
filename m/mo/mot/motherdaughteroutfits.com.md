@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motherdaughteroutfits.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209031323id_/http%3A//motherdaughteroutfits.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherdaughteroutfits.com privacy policy that was archived on 2014-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140125134124id_/http%3A//motherdaughteroutfits.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
