@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitbucket.org privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110010513id_/https%3A//www.atlassian.com/company/privacy%3Futm_source%3Dbitbucket%26utm_medium%3Dlink%26utm_campaign%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitbucket.org privacy policy that was archived on 2014-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140125150202id_/https%3A//www.atlassian.com/company/privacy%3Futm_source%3Dbitbucket%26utm_medium%3Dlink%26utm_campaign%3Dfooter) for the most accurate reproduction.*
 
 # Privacy and Legal Statement - Atlassian | Atlassian
 
