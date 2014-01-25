@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the explorerstartpage.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219090926id_/http%3A//www.explorerstartpage.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorerstartpage.com privacy policy that was archived on 2014-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140125022402id_/http%3A//explorerstartpage.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Explorer Startpage
+# Privacy
 
-## [Privacy](http://www.explorerstartpage.com/privacy.html "Permanent Link to Privacy")
+#### Privacy
 
 Explorer Startpage takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
 
@@ -28,4 +28,5 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 Concerns or questions about this privacy policy can be directed to us via our [contact page](https://web.archive.org/contact-us) for further clarification.
 
-[admin](http://www.explorerstartpage.com/author/admin/ "Posts by admin") |  May 8, 2011 10:08 am 
+  
+by 
