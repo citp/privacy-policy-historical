@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-journal.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209004003id_/http%3A//the-journal.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-journal.com privacy policy that was archived on 2014-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140125195245id_/http%3A//the-journal.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
