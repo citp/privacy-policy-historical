@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kith.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006022424id_/http%3A//kith.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kith.com privacy policy that was archived on 2014-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140125061826id_/http%3A//kith.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
