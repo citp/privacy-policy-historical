@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetechportal.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208174118id_/http%3A//thetechportal.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetechportal.com privacy policy that was archived on 2014-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140125195823id_/http%3A//thetechportal.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
