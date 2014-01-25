@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swellpro.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207221819id_/http%3A//swellpro.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swellpro.com privacy policy that was archived on 2014-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140125184716id_/http%3A//swellpro.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
