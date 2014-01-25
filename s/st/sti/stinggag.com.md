@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stinggag.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126004110id_/http%3A//stinggag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stinggag.com privacy policy that was archived on 2014-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140125175338id_/http%3A//stinggag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sting Gag
 
