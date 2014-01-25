@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aas.com.au privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509181836id_/http%3A//www.aas.com.au/public/Footer/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aas.com.au privacy policy that was archived on 2014-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140125041323id_/http%3A//www.aas.com.au/public/Footer/Privacy-Policy.html) for the most accurate reproduction.*
 
 # AAS | Privacy policy
 
