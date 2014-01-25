@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tucat.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207141323id_/http%3A//tucat.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tucat.com privacy policy that was archived on 2014-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140125143301id_/http%3A//tucat.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
