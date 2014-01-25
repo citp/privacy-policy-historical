@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emobucket.com privacy policy that was archived on 2013-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130715040246id_/http%3A//www.emobucket.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emobucket.com privacy policy that was archived on 2014-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140125192616id_/http%3A//www.altbucket.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Emo Bucket
 
@@ -39,5 +39,5 @@ Consumers can have this information corrected by sending us e-mail at the above 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
-  
+{CREDITS}  
 
