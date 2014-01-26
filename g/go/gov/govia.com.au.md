@@ -1,142 +1,141 @@
-> *The following text is extracted and transformed from the govia.com.au privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224132337id_/https%3A//www.govia.com.au/via/home/Customer%2Bsupport/Privacy%2BStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govia.com.au privacy policy that was archived on 2014-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140126121443id_/https%3A//www.govia.com.au/via/home/Customer%2Bsupport/Privacy%2BStatement) for the most accurate reproduction.*
 
 # go via - Privacy Statement
 
-[Download a copy of Queensland Motorways Pty Ltd Privacy Statement](https://web.archive.org/via/home/resources/4/c/4c2ada80445d8510b22dff401c4b9db2/QM649_PrivacyStatement_Dis02_nh.pdf "Privacy Statement")  
- 
+**About this policy**
 
-As part of our commitment to provide the highest standards of customer service, Queensland Motorways Pty Limited ACN 067 242 513 and its controlled entities (The Gateway Bridge Company Limited, Logan Motorway Company Limited, Port Motorway Limited and Queensland Motorways Management Pty Ltd) are committed to protecting the privacy of our customers’ personal information. We only collect the personal information we reasonably require to conduct our business and to provide the best possible standard of service to you.
+This Privacy Policy outlines the commitment of Queensland Motorways Holding Pty Limited and its controlled and related entities (“ **Queensland Motorways”** or “ **we** ”, “ **us** ” or “ **our** ”) to protect the privacy of our customers’ personal information.    
+We comply with all relevant privacy laws, including requirements applicable to us under:
 
-We comply with:
-
-  * the _Privacy Act 1988_ (Cth) and National Privacy Principles;
-  * the _Information Privacy Act 2009_ (Qld) and its Information Privacy Principles;
-  * the _Transport Infrastructure Act 1994_ (Qld); and
-  * Australian Standard 4721:2000 – _Personal Privacy Practices for the Electronic Tolling Industry_.   
- 
+  * the Privacy Act 1988 (Cth);
+  * the Transport Infrastructure Act 1994 (Qld); and
+  * Australian Standard 4721–2000: Personal privacy practices for the electronic tolling industry.
 
 
 
-The primary purpose for which we use your personal information is to calculate and collect the tolls, fees and charges prescribed by law or otherwise payable and, if you have an account with or pass issued by us, to manage your account or pass in accordance with the provisions of our Customer Services Agreement.
+This Policy sets out, in general terms, how we manage personal information, including, generally, the kinds of personal information we may collect, the purposes for which we may collect it and how we hold, use and disclose personal information. 
 
-Unless you opt out (which you may do by notifying us at any time), we may also use information related to you and your travel on our roads for our traffic planning and management and market research and we may notify you of new products or services, changes to our Customer Services Agreement, changes to or discontinuance of our products or services and changes to conditions for the use of our roads.
+By using our products or services or providing personal information to us, you agree to the terms of this Policy. 
 
-If you wish to opt out, you may elect to do so on our application form or, at any time, by using our unsubscribe facility.
+**Collection of personal information**
 
-By visiting our website and/or providing personal information to us, you consent to our use of your personal information in the manner outlined in our Privacy Policy unless you tell us to the contrary by following the instructions contained on our website or by contacting our Privacy Officer.
-
-**go via Account customers**
-
-Where you have an account with us, we need the personal details, which you provide on your application form for the following purposes:
-
-1.    to verify your identity;
-
-2.    to obtain identifying particulars of your vehicle;
-
-3.    to open an account for you;
-
-4.    to send you an account card (if you have not authorised automatic top-ups) and any tags you request;
-
-5.    to return the tags to you if they are lost, mislaid or stolen and are later returned to us;
-
-6.    to contact you if there is any problem with your tags or your account;
-
-7.    to conduct relevant and appropriate checks for creditworthiness and for fraud;
-
-8.    to manage and administer your use of our roads (and the use of your tags on other toll roads) and to collect the tolls, fees and charges due;
-
-9.    to respond to any query you may have and to process any payment you wish to make to us or to process any refund due to you;
-
-10.   to notify you of new products or services, changes to our Customer Service Agreement, changes to or discontinuance of any of our products or services and changes to conditions for the use of our roads;
-
-11.   to conduct research about our products and services and traffic conditions; and
-
-12.   for traffic planning and vehicle management services.
-
-The type of personal information that our staff will collect from you includes:
-
-  * your name and contact details;
-  * your vehicle details, including your vehicle Licence Plate Number (LPN);
-  * your credit card details where payment is made by credit card or where a ‘top-up’ facility is paid by credit card or your bank account details where ‘top-up’ payments are paid by direct debit to a nominated bank account;
-  * images of your motor vehicle (including your LPN);
-  * if you have a tag, your tag details; and
-  * images of motor vehicles generally which are taken as part of our monitoring of traffic flow and incidents which occur on our motorways.
+  * Queensland Motorways collects your personal information to allow it to perform its business functions and activities.  These may include:
+  * providing you with Queensland Motorways’ products and/or services;
+  * administering and managing Queensland Motorways’ products and services provided to you, including calculating and collecting tolls, fees and charges prescribed by law or otherwise payable for Queensland Motorways’ products and services;
+  * administering and managing products and services provided to you by other toll road operators, if you choose to use a Queensland Motorways product to pay for those products or services (for example, using an etag provided by Queensland Motorways for travel on another operator’s toll road);
+  * verifying your identity;
+  * conducting relevant and appropriate checks for creditworthiness and fraud; 
+  * undertaking traffic planning and vehicle management services; 
+  * conducting market research and research regarding traffic conditions; 
+  * meeting our obligations and performing our functions under applicable laws and agreements; 
+  * preventing or investigating any fraud or crime (or suspected fraud or crime); 
+  * responding to your queries;
+  * notifying you of changes to our tolls, fees, charges, agreements, products or services;
 
 
 
-**go via Pass customers**
+Unless you ask us not to, we may also use your personal information to contact you about Queensland Motorways’ products or services that you might be interested in. You can opt-out of receiving this information on an application form when you create an account with us or purchase a service or by using the unsubscribe facility available in our marketing communications. You can also opt out by contacting us using the details set out at the end of this policy. 
 
-Where you have a pass issued by us but do not have an account with us, we will collect and hold the following personal information to enable us to carry on our business as toll road operator:
+The types of personal information Queensland Motorways collects and records include:
 
-  * your name and contact details (for post-paid passes);
-  * your vehicle details including your vehicle LPN;
-  * images of your motor vehicle including your LPN; and
-  * images of motor vehicles generally which are taken as part of our monitoring of traffic flow and incidents which occur on our motorways.
-
-
-
-**Other users of our toll roads**
-
-Where you use our toll roads but do not have an account with us or a pass issued by us, we will collect and hold the following personal information to enable us to carry on our business as toll road operator:
-
-  * images of your motor vehicle (including your LPN);
-  * if you have a tag supplied by another toll road operator, your tag details; and
-  * images of motor vehicles generally which are taken as part of our monitoring of traffic flow and incidents which occur on our motorways.
+  * your name and contact details; 
+  * banking/payment details (eg. account numbers, credit card numbers);
+  * vehicle details, including the Licence Plate Number ( **LPN** );
+  * images of such vehicles, including the LPN and occupants in the vehicle; 
+  * tag details; 
+  * for business accounts, information collected from referees as part of the sign-up process; 
+  * information on your use of the Queensland Motorways websites collected using cookies; and
+  * information we collect as part of a survey, customer feedback request or a competition you participate in. 
 
 
 
-**Imaging**
+If necessary, Queensland Motorways may also ask you to provide additional personal information from time to time.
 
-Our tolling system will take images of your vehicle as it travels through toll points on our roads. We will use these images to classify your vehicle, and to identify the toll to be charged if a tag is not fitted, so that we can process tolls, fees and charges against your account or pass.
+In some circumstances, Queensland Motorways may collect your personal information from third parties, including the Department of Transport and Main Roads. Where this occurs, we ensure that we act in accordance with relevant laws. 
 
-If you do not have a valid **go via** account or pass or an equivalent arrangement with another toll road operator and do not pay the applicable tolls, fees and charges when we request that we do so, these images may be passed to a Government agency as required or authorised by or under law, or as otherwise authorised, so that appropriate enforcement action may be taken.
+If you do not provide Queensland Motorways with personal information, we may be unable to supply you with products or services. 
 
-We use closed circuit cameras to monitor traffic conditions and incidents on our motorways, and webcams to provide information to the general public about traffic conditions.
+**Disclosure of personal information**
 
-**Cookies**
+In order to provide you with the products or services you request, Queensland Motorways may disclose your personal information to Queensland Motorways’ consultants, contractors and service providers performing services for Queensland Motorways including (but not limited to) debt recovery, credit reporting, mail-house, email distribution, legal and accounting. 
 
-Cookies are generally not used on our websites.
+If your personal information is collected by one entity in the Queensland Motorways Group, it may also be disclosed to other Queensland Motorways Group entities. By disclosing personal information to any entity in the Queensland Motorways Group, you consent to all other Queensland Motorways Group entities using that personal information for the purposes described above under the heading ‘Collection of personal information’. 
 
-**Retention and release of personal information**
+If all or part of the Queensland Motorways Group or its assets is sold or restructured, you consent to the transfer of your personal information to the purchaser or a new entity created as part of a restructure. 
 
-Your personal information (including photographs of your vehicle) is kept for as long as it is required for the purpose for which it was obtained or as otherwise required by law. We take appropriate measures to destroy or permanently de-identify personal information when its retention is no longer required. The types of measures we take vary with the type of information, and how it is collected and stored.
+When you apply for an account, Queensland Motorways may disclose your personal information to a credit reporting agency to obtain a credit check. 
 
-Your personal information (including images of your vehicle) is only released to third parties:
+If you have amounts owing under your account, Queensland Motorways may disclose your personal information to:
 
-where we are authorised or required to release it by law; or
-
-  * as disclosed under our Privacy Policy or this Privacy Statement; or
-  * where you have consented to the release of information; or
-  * where disclosure is otherwise permitted under any privacy law.
+  * a credit reporting agency, to report the debt; 
+  * a debt collection or enforcement agencies, to pursue the debt; and
+  * a legal firm, for legal services in relation to debt recovery.
 
 
 
-**Post-paid accounts**
+We may also disclose limited amounts of personal information (usually the LPN and tag details only) to other toll road operators to administer and manage your travel on non-Queensland Motorways toll roads. 
 
-If you submit an application for a post-paid account, you agree (or are deemed to have agreed) that we will not give you access to any reports we receive from any referees you nominate or to any details of our evaluation processes in deciding whether to offer a post-paid account to you.
+In order to protect your credit card information we may implement tokenisation. This will involve disclosing your credit card data to a bank or other financial institution, who will securely store that information on behalf of Queensland Motorways, and assist with processing any authorised transactions.
 
-Accessing and correcting personal information Queensland Motorways takes reasonable care to ensure that all the personal information we collect and use is accurate, complete, up-to-date and protected from misuse and loss and from unauthorised access, modification or disclosure. The accuracy of that personal information relies substantially on the information you provide to us. If you wish to:
+If a vehicle registered in your name is linked to a Queensland Motorways account, Queensland Motorways may disclose information about trips your vehicle makes across our roads to the account holder. 
 
-  * Update personal information you have provided to us, please log onto your account or post-paid pass on our website (www.govia.com.au) to correct it or contact our Customer Contact Centre or Customer Service Centre so that we may correct it for you.
-  * Access your personal information, please contact our Privacy Officer at the contact details shown below.
+If your vehicle is involved in an accident, Queensland Motorways may disclose information including images of the accident and your vehicle, and your vehicle’s details to police. 
+
+Other than those third parties referred to above, Queensland Motorways will not disclose your personal information to any other third party unless it has reasonable grounds to believe:
+
+  * you have authorised Queensland Motorways to do so; 
+  * your safety, or the safety of others in the community, is at risk; or 
+  * Queensland Motorways is required or permitted by law to do so.
 
 
 
-Proof of identity may be required before any release or correction of personal information.
+If Queensland Motorways provides your personal information to a third party, Queensland Motorways generally requires the third party to protect your personal information in the same way Queensland Motorways does.
 
-**Complaint**
+**  
+Storage of personal information**
 
-If you have a complaint about the way that we have dealt with your personal information, please contact our Privacy Officer. We will make all attempts to respond to your complaints and requests within a reasonable time.
+Queensland Motorways uses reasonably appropriate safeguards and security measures to ensure personal information it holds about you is protected from risks such as misuse, interference, unauthorised access, modification or disclosure.  Personal information is only retained for as long as is necessary for the identified purposes or as required by law.
 
-**Privacy Policy**
+**Information access and correction**
 
-While this Privacy Statement summarises how we manage privacy protection of your personal information, a complete copy of our Privacy Policy will be made available to you on request by contacting the Privacy Officer.
+Queensland Motorways takes reasonable steps to ensure personal information it holds about you is accurate, complete, up-to-date, relevant and not misleading. 
+
+You have rights to access the personal information Queensland Motorways holds about you.  You may do so by contacting the Privacy Officer (contact details below).  We will not charge you a fee for your access request, but we reserve the right to charge a reasonable fee for the preparation and provision of that information to you.
+
+Queensland Motorways can only refuse your request if permitted by law. If your request is refused, Queensland Motorways will provide you with a written explanation for that refusal. 
+
+You also have rights to request the correction of personal information which Queensland Motorways holds about you. You may do so at any time by contacting the Privacy Officer (contact details below).  Queensland Motorways reserves the right to refuse to correct your information in some circumstances.  If Queensland Motorways refuses to correct any personal information about you, and subsequent agreement cannot be reached between you and Queensland Motorways, you may request that a note or statement regarding the correction requested be attached to the file that contains your personal information.  
+
+
+**Sensitive information**
+
+We will only collect sensitive information about you with your consent (unless we are otherwise allowed or required by law to collect that information). Sensitive information includes information about your health, racial or ethnic origin, religious beliefs and criminal record.
+
+**Transfer of information overseas**
+
+Queensland Motorways does not currently transfer any of your personal information outside of Australia. If this changes, we will inform you of the change by updating this Policy.  
+
+**Monitoring of calls**
+
+We may record and monitor telephone calls between you and us for training, service quality control and compliance purposes.
+
+**Changes to this privacy policy**
+
+Queensland Motorways reserves the right to change this Policy from time to time.  If Queensland Motorways changes this Policy, it will post an updated copy on its website.
+
+**Complaints**
+
+If you have any complaints about Queensland Motorways’ treatment of your personal information, please contact the Privacy Officer (contact details below).  We take your concerns seriously, and will respond to any complaints as soon as possible. 
+
+**Contact**
 
 Privacy Officer  
-Queensland Motorways Pty Limited  
-PO Box 2125  
-Mansfield Qld 4122  
-Tel: (07) 3323 0000  
-Email: legal@qldmotorways.com.au
+Queensland Motorways Pty Limited 
 
-More information about privacy law and the National Privacy Principles is also available from the Commonwealth Privacy Commissioner at [www.privacy.gov.au](http://www.privacy.gov.au/).
+PO Box 2125
+
+Mansfield QLD 4122
+
+Phone: (07) 3323 0000
+
+Email: [privacyofficer@qldmotorways.com.au](mailto:privacyofficer@qldmotorways.com.au)
