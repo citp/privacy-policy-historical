@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resumebook360.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028051439id_/http%3A//www.resumebook360.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resumebook360.com privacy policy that was archived on 2014-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140126171752id_/http%3A//resumebook360.com/privacy-policy) for the most accurate reproduction.*
 
 # Resumebook360 - Privacy Policy
 
