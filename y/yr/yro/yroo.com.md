@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yroo.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211003648id_/http%3A//yroo.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yroo.com privacy policy that was archived on 2014-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140126035432id_/http%3A//yroo.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
