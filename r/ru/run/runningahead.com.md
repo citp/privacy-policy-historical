@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the runningahead.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425084956id_/http%3A//www.runningahead.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runningahead.com privacy policy that was archived on 2014-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140127075646id_/http%3A//www.runningahead.com/legal/privacy) for the most accurate reproduction.*
 
 # RunningAHEAD
 
 Last Updated May 9, 2011
 
-This Privacy Policy is incorporated into and subject to the RunningAHEAD, LLC Terms of Use and serves to notify you of the following:
+This Privacy Policy is incorporated into and subject to the RunningAHEAD, LLC Terms of Service and serves to notify you of the following:
 
   * [What information about me is collected? ]()
   * [Where and when is information collected (including through the use of cookies and action tags)?]()
@@ -88,7 +88,7 @@ Except as set forth in this Privacy Policy or as specifically authorized by you,
 
 ## Laws and Legal Rights.
 
-We may disclose your information (including personally identifiable information) if we believe in good faith that we are required to do so in order to comply with an applicable statute, regulation, rule or law, a subpoena, a search warrant, a court or regulatory order, or other valid legal process. We may disclose personally identifiable information in special circumstances when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating the Terms of Use for our Service, to detect fraud, for assistance with delinquent accounts, or to protect the safety and/or security of our users, the Service or the general public.
+We may disclose your information (including personally identifiable information) if we believe in good faith that we are required to do so in order to comply with an applicable statute, regulation, rule or law, a subpoena, a search warrant, a court or regulatory order, or other valid legal process. We may disclose personally identifiable information in special circumstances when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating the Terms of Service for our Service, to detect fraud, for assistance with delinquent accounts, or to protect the safety and/or security of our users, the Service or the general public.
 
 ## Third Parties Generally.
 
