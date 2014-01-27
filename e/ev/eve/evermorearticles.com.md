@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the evermorearticles.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227041201id_/http%3A//www.evermorearticles.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evermorearticles.com privacy policy that was archived on 2014-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140127092118id_/http%3A//www.evermorearticles.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy The Best Article and Web Directory
 
 Whois Online 
 
-| Active Users: | 26  
+| Active Users: | 7  
 ---|---  
 Accounts: | 0  
-Guests: | 26  
-Visits Today: | 641  
-Total visits: | 1962562  
+Guests: | 7  
+Visits Today: | 662  
+Total visits: | 2039818  
   
 **Privacy Policy Overview**
 
