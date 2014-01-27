@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkinsanity.com privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008190457id_/http%3A//linkinsanity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkinsanity.com privacy policy that was archived on 2014-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140127173029id_/http%3A//linkinsanity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Link Insanity - unit of Great SEO Business
 
