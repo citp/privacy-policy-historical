@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enca.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021163141id_/http%3A//www.enca.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enca.com privacy policy that was archived on 2014-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140127084302id_/http%3A//enca.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | eNCA
 
