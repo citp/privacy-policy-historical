@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyerkeywordsgenerator.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822175023id_/http%3A//www.buyerkeywordsgenerator.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyerkeywordsgenerator.com privacy policy that was archived on 2014-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140130100655id_/http%3A//buyerkeywordsgenerator.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Buyer Keywords Generator
 
