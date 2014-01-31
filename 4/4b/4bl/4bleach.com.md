@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4bleach.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029035523id_/http%3A//4bleach.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4bleach.com privacy policy that was archived on 2014-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140131031116id_/http%3A//4bleach.com/privacy-policy) for the most accurate reproduction.*
 
 # Anime DVD | Bleach Episodes | Shop | Buy Anime DVD Online » Privacy Policy
 
