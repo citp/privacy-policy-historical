@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thedailyheel.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220170947id_/http%3A//thedailyheel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailyheel.com privacy policy that was archived on 2014-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140131075516id_/http%3A//www.thedailyheel.com/privacy) for the most accurate reproduction.*
 
 # The Daily Heel - Privacy Policy
 
-This privacy policy sets out how Black Ocean Management LLC  uses and protects any information that you give while using www.tpstr.com
+This privacy policy sets out how The Lifestyle Press LLC  uses and protects any information that you give while using www.thedailyheel.com
 
 Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Black Ocean Management LLC   may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 24/02/2013.
+The Lifestyle Press LLC   may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 24/02/2013.
 
 What we collect
 
@@ -64,4 +64,4 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please contact us at tpstr@tpstr.com
+If you believe that any information we are holding on you is incorrect or incomplete, please contact us at lifestylepress@thelifestylepress.com
