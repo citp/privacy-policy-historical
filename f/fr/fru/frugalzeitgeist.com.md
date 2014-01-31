@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frugalzeitgeist.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516225603id_/http%3A//frugalzeitgeist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugalzeitgeist.com privacy policy that was archived on 2014-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140131214913id_/http%3A//frugalzeitgeist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Frugal Zeitgeist
 
@@ -39,6 +39,3 @@ We may allow third-party companies that use tracking technologies, such as cooki
 If you have any questions or suggestions regarding the FrugalZeitgeist.com privacy policy, please feel free to contact me at forest.parks@gmail.com.
 
 Original policy wording supplied by [www.aaroncook.com](http://aaroncook.com/)
-
-**GD Star Rating**  
- _loading..._
