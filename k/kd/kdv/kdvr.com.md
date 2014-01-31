@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kdvr.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223171731id_/http%3A//kdvr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kdvr.com privacy policy that was archived on 2014-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140131230041id_/http%3A//kdvr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KDVR.com
 
