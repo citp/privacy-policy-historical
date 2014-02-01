@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarkets.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816043439id_/https%3A//smarkets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarkets.com privacy policy that was archived on 2014-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140201112504id_/https%3A//smarkets.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Smarkets
 
