@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the mindtickle.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122221904id_/http%3A//www.mindtickle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindtickle.com privacy policy that was archived on 2014-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140201122304id_/http%3A//www.mindtickle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MindTickle
 
-Privacy Policy
-
 This privacy policy sets out how "MindTickle" uses and protects any information that you give "MindTickle" when you use this website. "MindTickle" is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can rest assured that it will only be used in accordance with this privacy statement."MindTickle" may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This updated policy is effective from 1st January 2013.
 
-What we collect
+## What we collect
 
 We may collect the following information:
 
