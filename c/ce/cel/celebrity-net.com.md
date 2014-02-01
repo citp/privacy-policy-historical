@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebrity-net.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225092651id_/http%3A//www.celebrity-net.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrity-net.com privacy policy that was archived on 2014-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140201053558id_/http%3A//www.celebrity-net.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Health Care Center
 
