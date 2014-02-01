@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoplebank.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430211501id_/http%3A//www.peoplebank.com/pb3/pb/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplebank.com privacy policy that was archived on 2014-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140201014926id_/http%3A//www.peoplebank.com/pb3/pb/html/privacy.html) for the most accurate reproduction.*
 
 # PeopleBank: Privacy
 
@@ -24,7 +24,7 @@ Our website makes use of cookies which are small digital files that are stored i
 
 Your browser settings may allow you to block these cookies, but we recommend you have them enabled to help us personalise your experience of our website. 
 
-[Contact us for more information](https://web.archive.org/web/20130430211501id_/http%3A//www.peoplebank.com/pb3/pb/html/contacts.html)
+[Contact us for more information](https://web.archive.org/web/20140201014926id_/http%3A//www.peoplebank.com/pb3/pb/html/contacts.html)
 
 ## Important Information
 
