@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the credit.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824115441id_/http%3A//www.credit.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the credit.com privacy policy that was archived on 2014-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140202155815id_/http%3A//www.credit.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Credit.com
 
@@ -25,7 +25,7 @@ We collect the following categories of NPPI: (i) information you provide such as
 
 We automatically track and collect traffic data. Traffic data is information that does not identify you personally but may include your IP address, ISP and other similar types of information that help us administer our site, and improve our service offerings. We use cookies and web-beacons to track traffic data and customer transactions for accounting purposes. 
 
-No NPPI information that identifies a customer or former customer is revealed in the collection and use of traffic data. We do share anonymous traffic and transactional information with our affiliates and service providers on an aggregate basis for marketing, accounting and site-optimization purposes. 
+No NPPI information that identifies a customer or former customer is revealed in the collection and use of traffic data. Consequently, we do not adjust or alter our website’s automatic tracking and data collection in response to a Do Not Track signal or request. We believe we can offer customers a more personalized experience when visiting our website when we are able to retrieve data from a customer’s previous activity on our website. We do share anonymous traffic and transactional information with our affiliates and service providers on an aggregate basis for marketing, accounting and site-optimization purposes. 
 
 ### Non-public personal information
 
@@ -120,6 +120,8 @@ We do not knowingly solicit information from children or send them requests for 
 This privacy policy applies only to the website http://www.credit.com and the users of the site. It does not apply to any other web site whether it is a site that you may link to, or a site that may link to this site. Credit.com is not responsible for the privacy practices on any other site or of any other entity or person. We encourage you to learn about the privacy policies of any site you visit and the companies that operate them. 
 
 ### Privacy policies and non-affiliated third-parties
+
+We do not permit third parties to collect NPPI on our website, but our website does include links to third-party websites, services and products, and when you link to a third-party website, the third-party website’s privacy policy applies. In addition, you authorize us to provide your NPPI to non-affiliated third parties when you request a financial product or service offered by a third party. 
 
 Because this privacy policy applies only to the Credit.com website it may be different than that of the non-affiliated third-parties to whom your NPPI is disclosed to process the financial product or service you request or authorize. Credit.com urges you to review the privacy policies of every website you visit where you are required to disclose your NPPI to obtain a product or service. 
 
