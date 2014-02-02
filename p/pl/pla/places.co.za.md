@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the places.co.za privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109151145id_/http%3A//www.places.co.za/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the places.co.za privacy policy that was archived on 2014-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140202220248id_/http%3A//www.places.co.za/privacy.html) for the most accurate reproduction.*
 
 # SA Places - Privacy Policy
 
