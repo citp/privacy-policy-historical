@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcumb.edu privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509140355id_/http%3A//www.kcumb.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcumb.edu privacy policy that was archived on 2014-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140202224233id_/http%3A//www.kcumb.edu/privacy-policy) for the most accurate reproduction.*
 
 # Kansas City University of Medicine and Biosciences
 
