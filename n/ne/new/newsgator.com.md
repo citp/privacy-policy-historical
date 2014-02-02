@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsgator.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203131856id_/http%3A//www.newsgator.com/cookies-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsgator.com privacy policy that was archived on 2014-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140202030741id_/http%3A//www.newsgator.com/cookies-and-privacy) for the most accurate reproduction.*
 
-# Cookies & Privacy | newsgator.com
+# Cookies & Privacy | sitrion.com
 
 ## Our Commitment to Privacy 
 
