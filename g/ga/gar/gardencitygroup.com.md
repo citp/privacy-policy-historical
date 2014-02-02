@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gardencitygroup.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113062707id_/http%3A//www.gcginc.com/pages/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardencitygroup.com privacy policy that was archived on 2014-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140202023403id_/http%3A//gardencitygroup.com/pages/privacy-policy.php) for the most accurate reproduction.*
 
 # GCG - Privacy Notice
 
