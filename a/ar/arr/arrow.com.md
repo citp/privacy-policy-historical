@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arrow.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128034156id_/http%3A//www.arrow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arrow.com privacy policy that was archived on 2014-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140203134023id_/http%3A//www.arrow.com/privacy.html) for the most accurate reproduction.*
 
 # Arrow Electronics: Privacy Policy
 
