@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123financekey.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121101648id_/http%3A//www.123financekey.com/%3Fpage_id%3D3540) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123financekey.com privacy policy that was archived on 2014-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140203223732id_/http%3A//www.123financekey.com/%3Fpage_id%3D3540) for the most accurate reproduction.*
 
 # Privacy Policy | 123FinanceKey.com
 
