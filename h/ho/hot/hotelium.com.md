@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelium.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511113758id_/http%3A//info.hotelium.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelium.com privacy policy that was archived on 2014-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140203083705id_/http%3A//info.hotelium.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
