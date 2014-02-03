@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratemyarea.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126120318id_/http%3A//www.ratemyarea.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemyarea.com privacy policy that was archived on 2014-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140204000610id_/http%3A//www.ratemyarea.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Rate My Area
 
