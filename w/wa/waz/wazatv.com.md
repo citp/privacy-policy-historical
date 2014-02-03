@@ -1,96 +1,63 @@
-> *The following text is extracted and transformed from the wazatv.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806070940id_/http%3A//wazatv.com/general-info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wazatv.com privacy policy that was archived on 2014-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140203024446id_/http%3A//funqp.com/privacy) for the most accurate reproduction.*
 
-# Watch All TV Series Online from A to Z | Privacy | Policy
+# Privacy | FunQP.com
 
-## WazaTV.com Privacy policy
+  * ### Introduction
 
-At WazaTV.com we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by WazaTV.com or its subsidiaries or affiliated companies (collectively, WazaTV.com's "services"). In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information. 
+FunqQP takes the private nature of your personal information very seriously.
 
-WazaTV.com adheres to the US safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. 
+This privacy policy, which we adapted from a policy originally provided by [Automattic](http://www.automattic.com/) ([WordPress.com](http://www.wordpress.com/)), describes how we treat the information we collect when you visit and use our websites. Please read this notice very carefully.
 
-If you have any questions about this Policy, please feel free to contact us through our website. Information we collect and how we use it: 
+  * ### Website Visitors
 
-We offer a number of services that do not require you to register for an account or provide any personal information to us, such as WazaTV.com Search. In order to provide our full range of services, we may collect the following types of information: 
+Like most website operators, FunqQP collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. FunqQP’s purpose in collecting non-personally identifying information is to better understand how FunqQP’s visitors use its website. From time to time, FunqQP may release non-personally-identifying information in the aggregate, e.g. by publishing a report on trends in the usage of its website.  
+FunqQP also collects potentially personally-identifying information like Internet Protocol (IP) addresses. FunqQP does not use such information to identify its visitors, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
 
-## Information you provide
+  * ### Gathering of Personally-Identifying Information
 
-When you sign up for a WazaTV.com Account or other WazaTV.com service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). We may combine the information you submit under your account with information from other WazaTV.com services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information 
+Certain visitors to FunqQP’s websites choose to interact with FunqQP in ways that require FunqQP to gather personally-identifying information. The amount and type of information that FunqQP gathers depends on the nature of the interaction. For example, we ask visitors who sign up for FunqQP.com to provide a username and email address. In each case, FunqQP collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with FunqQP. FunqQP does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-## WazaTV.com cookies
+  * ### Aggregated Statistics
 
-\- When you visit WazaTV.com, we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some WazaTV.com features and services may not function properly if your cookies are disabled. 
+FunqQP may collect statistics about the behavior of visitors to its websites. For instance, FunqQP may monitor the most popular collections on FunqQP.com. FunqQP may display this information publicly or provide it to others. However, FunqQP does not disclose personally-identifying information other than as described below.
 
-## Log information
+  * ### Protection of Certain Personally-Identifying Information
 
-When you use WazaTV.com services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
+FunqQP discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on FunqQP’s behalf or to provide services available at FunqQP’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using FunqQP’s websites, you consent to the transfer of such information to them. In addition, in some cases we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if FunqQP or substantially all of its assets were acquired, or in the unlikely event that FunqQP goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of FunqQP may continue to use your personal and non-personal information only as set forth in this policy. Otherwise, FunqQP will not rent or sell potentially personally-identifying and personally-identifying information to anyone.  
+Other than to its employees, contractors and affiliated organizations, as described above, FunqQP discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when FunqQP believes in good faith that disclosure is reasonably necessary to protect the property or rights of FunqQP, third parties or the public at large. If you are a registered user of a FunqQP website and have supplied your email address, FunqQP may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with FunqQP and its products. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. FunqQP takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.  
+You should also be aware that if you submit information to “chat rooms,” “forums” or “message boards” such information becomes public information, meaning that you lose any privacy rights you might have with regards to that information. Such disclosures may also increase your chances of receiving unwanted communications.
 
-## User communications 
+  * ### Cookies
 
-When you send email or other communication to WazaTV.com, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. FunqQP uses cookies to help FunqQP identify and track visitors, their usage of FunqQP websites, and their website access preferences. FunqQP visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using FunqQP’s websites, with the drawback that certain features of FunqQP’s websites may not function properly without the aid of cookies.
 
-## Affiliated sites
+  * ### Ads
 
-We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to WazaTV.com in order to deliver the service. We process such information in accordance with this Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. 
+Ads appearing on any FunqQP websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy covers the use of cookies by FunqQP and does not cover the use of cookies by any advertisers.
 
-## Links 
+  * ### Links to Third Party Sites
 
-WazaTV.com may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our technology, customized content and advertising. 
+This privacy policy only applies to information collected by FunqQP. This privacy policy does not apply to the practices of companies that FunqQP does not own or control, or employees that FunqQP does not manage. A FunqQP website may contain links to third party websites. Any information you provide to, or that is collected by, third-party sites may be subject to the privacy policies of those sites, if any. We encourage you to read such privacy policies of any third-party sites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your personally-identifying information, and FunqQP and its affiliates shall not be liable for wrongful use or disclosure of your personally-identifying information by any third party.
 
-## Other sites
+  * ### Security
 
-This Privacy Policy applies to web sites and services that are owned and operated by WazaTV.com. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
+All non-personally-identifying information, potentially personally-identifying and personally identifying-information described above is stored on restricted database servers.
 
-WazaTV.com only processes personal information for the purposes described in the applicable Privacy Policy and/or privacy notice for specific services. In addition to the above, such purposes include: 
+  * ### Choice/Opt-out
 
-  1. Providing our products and services to users, including the display of customized content and advertising;
-  2. Auditing, research and analysis in order to maintain, protect and improve our services;
-  3. Ensuring the technical functioning of our network; and
-  4. Developing new services.
+If we ever send you information by email concerning new products, services or information that you did not expressly request, we will provide you with an email address by which you may request no further notices.
 
+  * ### Address Book Data
 
+Any external address book data (email contacts, etc.) that a user voluntarily gives FunqQP access to will only be used for the described feature (looking up friends, etc.), and will not be stored or repurposed.
 
-You can find more information about how we process personal information by referring to the privacy notices for particular services. 
+  * ### Privacy Policy Changes
 
-WazaTV.com processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners. 
+Although most changes are likely to be minor, FunqQP may change its privacy policy from time to time, and in FunqQP ’s sole discretion. FunqQP encourages visitors to frequently check this page for any changes to its privacy policy. Your continued use of this site after any change in this privacy policy will constitute your acceptance of such change.
 
-Choices for personal information 
+  * ### Contact Us
 
-When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use. 
-
-If we propose to use personal information for any purposes other than those described in this Policy and/or in the specific service notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Policy and/or in the specific service notices, unless we have obtained your prior consent. 
-
-You can decline to submit personal information to any of our services, in which case WazaTV.com may not be able to provide those services to you. 
-
-Information sharing
-
-WazaTV.com only shares personal information with other companies or individuals outside of WazaTV.com in the following limited circumstances: 
-
-  1. We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
-  2. We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures.
-  3. We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) detect, prevent, or otherwise address fraud, security or technical issues, or (c) protect against imminent harm to the rights, property or safety of WazaTV.com, its users or the public as required or permitted by law.
+If you have any questions about this privacy policy or our sites in general, please [contact us](http://funqp.com/contact/ "Contact US").
 
 
 
-If WazaTV.com becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy. 
-
-We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually. 
-
-Please contact us at [here](http://watch-freeseries.mu/contact.html) for any additional questions about the management or use of personal data. Information security 
-
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. 
-
-We restrict access to personal information to Watch-FreeSeries.mu employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. 
-
-## Data integrity
-
-Watch-FreeSeries.mu processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. 
-
-## Accessing and updating personal information
-
-When you use Watch-FreeSeries.mu services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users' personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services. 
-
-## Enforcement
-
-WazaTv.com regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or WazaTv.com's treatment of personal information by [contacting us](http://wazatv.com/contact.html) through this web site We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between WazaTv.com and an individual. Changes to this policy 
-
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). 
