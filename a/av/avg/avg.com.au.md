@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avg.com.au privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102064903id_/https%3A//www.avg.com.au/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avg.com.au privacy policy that was archived on 2014-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140204003630id_/https%3A//www.avg.com.au/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AVG Australia & New Zealand
 
