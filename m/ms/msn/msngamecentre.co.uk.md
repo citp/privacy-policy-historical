@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the msngamecentre.co.uk privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203130646id_/http%3A//www.msngamecentre.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msngamecentre.co.uk privacy policy that was archived on 2014-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140204022039id_/http%3A//www.msngamecentre.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MSN UK
+# Privacy Policy - Iplay UK
+
+## Play Thousands of FREE Games!
 
 **NOTICE TO UNITED STATES AND OTHER NON-EUROPEAN UNION RESIDENTS:** This Privacy Policy is provided by Iplay. IPLAY IS A UNITED STATES COMPANY, and is the party responsible for the collection and maintenance of your information. 
 
