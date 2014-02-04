@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relevantknowledge.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227070528id_/http%3A//www.relevantknowledge.com/RKPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relevantknowledge.com privacy policy that was archived on 2014-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140204031435id_/http%3A//www.relevantknowledge.com/RKPrivacy.aspx) for the most accurate reproduction.*
 
 # RelevantKnowledge Privacy Policy
 
@@ -15,7 +15,7 @@ About Our Trees for Knowledge Campaign
 
 Worldwide carbon dioxide emissions have more than doubled over the last 10 years, and too much carbon dioxide in the atmosphere may be one of the major causes of global warming. But planting trees can help reduce the effects of carbon dioxide. That’s why comScore has partnered with Trees for the Future to establish our Trees for Knowledge campaign. Since 1988, Trees for the Future has helped thousands of communities in Central America, Africa, and Asia improve their livelihoods and their environment by planting nearly 50 million trees. Working with Trees for the Future, we have donated millions of trees on behalf of members of our research community, so that we are not only improving the Internet, we’re improving the environment as well.
 
-PRIVACY POLICY & USER LICENSE AGREEMENT 
+PRIVACY POLICY, USER LICENSE AGREEMENT, AND PATENT NOTICE 
 
   
 
@@ -27,13 +27,13 @@ Requirements for participation:
   
 
 
-In order to participate in this program, you must:
+In order to participate in this program, you must: 
 
   * Be at least 18 years of age and capable of entering into a binding agreement;
   * Be the parent or legal guardian of anyone under 18 having access to such computer;
   * Own or control the computers that you allow to be configured to use this system;
   * If your household subscribes to a TV service, be the TV service subscriber for your household, or be authorized to enter into this agreement on behalf of that TV service subscriber;
-  * Not be employed or related to an individual employed by an unaffiliated market research company; and
+  * Not be employed or related to an individual employed by an unaffiliated market research company or online publisher; and
   * Acknowledge and agree to allow the software to operate as described herein, including allowing the software to automatically upgrade provided that any such upgrades do not change the functionality of the software beyond what is described in this privacy policy and user license agreement.
 
 
@@ -45,11 +45,11 @@ What information is collected?
   
 
 
-Basic Demographic Information: When you sign up for this program, we may obtain your contact information and some basic demographic information about you using a questionnaire, information from companies through which you obtained or inquired about this program, or the application that you install onto your computer and allow to track your Internet usage.
+Basic Demographic Information: When you sign up for this program, we may obtain your contact information and some basic demographic information about you using a questionnaire, information from companies through which you obtained or inquired about this program, or the application that you install onto your computer and allow to track your Internet usage. 
 
-Survey response information: Once you agree to participate in this program, we may notify you of survey opportunities through e-mail, pop-ups, toast windows, U.S. mail, and other means. If you elect to participate in a survey, we require that you provide complete and accurate information about yourself and your household. The survey opportunities that we provide to you may be related to other information that we collect. For example, we may provide you with a survey asking you about the quality of your user experience at a particular website.
+Survey response information: Once you agree to participate in this program, we may notify you of survey opportunities through e-mail, pop-ups, toast windows, U.S. mail, and other means. If you elect to participate in a survey, we require that you provide complete and accurate information about yourself and your household. The survey opportunities that we provide to you may be related to other information that we collect. For example, we may provide you with a survey asking you about the quality of your user experience at a particular website. 
 
-Computer hardware, software, and other configuration information: Our application may collect general hardware, software, computer configuration and application usage information about the computer on which you install our application, including such data as the speed of the computer processor, its memory capacities and Internet connection speed. In addition, our application may report on devices connected to your computer and your network, such as the type of printer or router you may be using.
+Computer hardware, software, and other configuration information: Our application may collect general hardware, software, computer configuration and application usage information about the computer on which you install our application, including such data as the speed of the computer processor, its memory capacities and Internet connection speed. In addition, our application may report on devices connected to your computer and your network, such as the type of printer or router you may be using. 
 
 TV and Mobility Data: Your TV Data includes items such as the channels and programs you watch and record, when the TV and set-top box are turned on and off, the on-demand programming you order, the interactive TV applications you use and other similar information. Your Mobility Data includes information about your use of your mobile device, such as the type and configuration of your mobile phone, the websites you visit on your device, the date and time of those visits and use, as well as other similar information.
 
@@ -85,16 +85,16 @@ Market Research Reports: Applying concepts similar to those used by television-r
 
 Our customers use our market research reports to: (i) modify online services and offerings; (ii) make more effective use of online data to understand both online and offline commercial behavior; and (iii) discern general economic trends and the business performance of specific entities for a wide range of business purposes including, but not limited to, identifying financial investment opportunities and understanding the value and interest in certain business enterprises.
 
-By Service Providers: From time to time, we may share your contact information with those third parties who help us deliver this program to you (for example, companies that administer incentive programs). When we do this, we provide only the necessary information for the service provider to perform its assigned function, and we contractually prohibit the use or disclosure of this information to anyone else unless you authorize it.
+By Service Providers: From time to time, we may share your contact information with those third parties who help us deliver this program to you (for example, companies that administer incentive programs). When we do this, we provide only the necessary information for the service provider to perform its assigned function, and we contractually prohibit the use or disclosure of this information to anyone else unless you authorize it. 
 
-As Required by Law: In rare cases, and as is done by any other business, if we are compelled to disclose certain information through a valid legal process, such as a court order, subpoena, or a search warrant, we would do so. However, we would comply by providing only the minimum information necessary.
+As Required by Law: In rare cases, and as is done by any other business, if we are compelled to disclose certain information through a valid legal process, such as a court order, subpoena, or a search warrant, we would do so. However, we would comply by providing only the minimum information necessary. 
 
 How is the information secured? 
 
   
 
 
-Safeguards: We have implemented a variety of safeguards (including physical, digital, and legal protections) focused on ensuring that the information collected through this program is protected from unauthorized use, modification, or disclosure. For example, any secure information collected by our application is encrypted before it is sent to our servers. Moreover, our employees are subjected to periodic evaluation and investigation, are contractually restricted on their use and access to personally identifiable information, and are educated and retrained as needed on internal security policies and procedures.
+Safeguards: We have implemented a variety of safeguards (including physical, digital, and legal protections) focused on ensuring that the information collected through this program is protected from unauthorized use, modification, or disclosure. For example, any secure information collected by our application is encrypted before it is sent to our servers. Moreover, our employees are subjected to periodic evaluation and investigation, are contractually restricted on their use and access to personally identifiable information, and are educated and retrained as needed on internal security policies and procedures. 
 
 If you would like to access, modify, and/or request deletion of the personally identifiable profile information submitted by you as part of this program, you may complete a support form on our website, or e-mail our support staff at the e-mail address provided below.
 
@@ -117,15 +117,15 @@ What if I wish to stop participating in this program?
   
 
 
-Resignation: You may resign at any time by contacting us at the support address listed below or by selecting the “Terminate all Services” link from the Members section on your panel’s web page (where applicable).
+Resignation: You may resign at any time by contacting us at the support address listed below or by selecting the “Terminate all Services” link from the Members section on your panel’s web page (where applicable). 
 
 Removing our Application: You may remove our application using the Windows Add/Remove Programs function (known as “Programs and Features” in Vista and Windows 7). Alternatively, you may e-mail our support staff at the e-mail address provided below and request removal instructions. Please be sure to follow this same removal procedure on all of the computers from which you wish to remove this application. Removing the application will stop tracking of your online browsing and purchasing behavior, but unless you resign from all services in accordance with the procedure stated above, you still may be contacted for administrative purposes or for special participant opportunities. After you remove our application from a computer, all settings we have made to your computer will be deactivated. 
 
-Use of Third Party Programs to Remove our Software: Please note that use of third party programs to remove this application may cause instability in your system and to your Internet connection. We reserve the right to repair any of its settings that are partially removed, to minimize potential instability. In fact, our software will inspect itself and make repairs when necessary. This action is not done to try and stop you from uninstalling our software, it is only done to assure that our software is operating properly on your computer and does not cause technical problems. This ability to upgrade or repair corrupted files in no way impedes your ability to delete the program. Once the program has been has been uninstalled through the Windows Add/Remove Programs function, the application will be removed, so that no updates or repairs may be made. So, should you wish to resign, we ask that you use the instructions provided above.
+Use of Third Party Programs to Remove our Software: Please note that use of third party programs to remove this application may cause instability in your system and to your Internet connection. We reserve the right to repair any of its settings that are partially removed, to minimize potential instability. In fact, our software will inspect itself and make repairs when necessary. This action is not done to try and stop you from uninstalling our software, it is only done to assure that our software is operating properly on your computer and does not cause technical problems. This ability to upgrade or repair corrupted files in no way impedes your ability to delete the program. Once the program has been has been uninstalled through the Windows Add/Remove Programs function, the application will be removed, so that no updates or repairs may be made. So, should you wish to resign, we ask that you use the instructions provided above. 
 
-Stop Participating in Surveys: You may contact us at the support address listed below to alter how you receive, or to completely stop receiving, surveys, or you can edit your survey preferences at the Members section on your panel’s web page (where applicable).
+Stop Participating in Surveys: You may contact us at the support address listed below to alter how you receive, or to completely stop receiving, surveys, or you can edit your survey preferences at the Members section on your panel’s web page (where applicable). 
 
-Please note: we may continue to use information collected prior to resignation, but all such information remains fully subject to, and governed by, the agreement effective at the time of your resignation.
+Please note: we may continue to use information collected prior to resignation, but all such information remains fully subject to, and governed by, the agreement effective at the time of your resignation. 
 
 What is the policy regarding children? 
 
@@ -180,12 +180,14 @@ We commit to making commercially reasonable efforts to do the following:
   
 
 
+Our application incorporates and implements patented technologies. For more information visit <http://www.comscore.com/patents>. 
+
 What are the other legal terms and conditions of participating in this program? 
 
   
 
 
-Governing Law: You agree that any dispute or claim arising out of this program or agreement shall be settled by binding arbitration in Fairfax County, Virginia under the American Arbitration Association Rules. The proceedings shall be conducted and all evidence shall be offered in the English language. Regardless of any law to the contrary, any claim against us must be filed within one year of the time such claim arose, otherwise such claim will be barred forever. We agree that regardless of any law to the contrary, that the arbitrator shall have no authority to award, punitive or exemplary damages against any party to this agreement.
+Governing Law: You agree that any dispute or claim arising out of this program or agreement shall be settled by binding arbitration in Fairfax County, Virginia under the American Arbitration Association Rules. The proceedings shall be conducted and all evidence shall be offered in the English language. Regardless of any law to the contrary, any claim against us must be filed within one year of the time such claim arose, otherwise such claim will be barred forever. We agree that regardless of any law to the contrary, that the arbitrator shall have no authority to award, punitive or exemplary damages against any party to this agreement. 
 
 Notwithstanding the above, we may apply to any court of competent jurisdiction for a temporary restraining order or other interim relief, as necessary without breach of this agreement and without abridgment of the powers of the arbitrator.
 
@@ -197,25 +199,27 @@ TMRG, Inc., complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss S
 
 Fraud: Any attempt by a participant to undermine the legitimate operation of the panel is a violation of criminal and civil laws and should such an attempt be made, TMRG, Inc. reserves the right to seek damages from any such respondent to the fullest extent permitted by law. Multiple accounts are not permitted; participants are limited to signing up for a maximum of one account.
 
-Third Party Rights: This agreement shall not create any rights or remedies in any parties other than the parties to the agreement and no person shall assert any rights as a third party beneficiary under this agreement.
+Third Party Rights: This agreement shall not create any rights or remedies in any parties other than the parties to the agreement and no person shall assert any rights as a third party beneficiary under this agreement. 
 
-Assignment: You may not assign this agreement or any rights or obligations under this agreement without our prior written approval.
+Assignment: You may not assign this agreement or any rights or obligations under this agreement without our prior written approval. 
 
-Waiver: The failure of us to exercise or enforce any right or provision of the Agreement shall not constitute a waiver of such right or provision.
+Waiver: The failure of us to exercise or enforce any right or provision of the Agreement shall not constitute a waiver of such right or provision. 
 
-Severability: If any provision of this agreement is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable. In any event, the remaining provisions shall be enforced.
+Severability: If any provision of this agreement is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable. In any event, the remaining provisions shall be enforced. 
 
-Indemnity: You agree to defend, indemnify and hold our company and our affiliates, officers, directors, and employees harmless from and against any and all claims, losses, damages, liabilities and costs including without limitation, reasonable attorney’s fees, arising out of or relating to your breach of this Agreement or misuse of this program.
+Indemnity: You agree to defend, indemnify and hold our company and our affiliates, officers, directors, and employees harmless from and against any and all claims, losses, damages, liabilities and costs including without limitation, reasonable attorney’s fees, arising out of or relating to your breach of this Agreement or misuse of this program. 
 
-Disclaimers of Warranty: YOU ACKNOWLEDGE THAT THIS PROGRAM AND ALL SOFTWARE, CHANGES TO YOUR COMPUTER, FUNCTIONS, MATERIALS AND INFORMATION MADE AVAILABLE AS PART OF THIS PROGRAM ARE PROVIDED ‘AS IS.' OUR COMPANY, ITS SERVICE PROVIDERS, AND AFFILIATES DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+Disclaimers of Warranty: YOU ACKNOWLEDGE THAT THIS PROGRAM AND ALL SOFTWARE, CHANGES TO YOUR COMPUTER, FUNCTIONS, MATERIALS AND INFORMATION MADE AVAILABLE AS PART OF THIS PROGRAM ARE PROVIDED ‘AS IS.' OUR COMPANY, ITS SERVICE PROVIDERS, AND AFFILIATES DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. 
 
 UNDER NO CIRCUMSTANCES WILL OUR COMPANY, ITS SERVICE PROVIDERS OR AFFILIATES BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES THAT RESULT FROM THE USE OF, OR INABILITY TO USE, THE PROGRAM, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES RESULTING IN ANY WAY FROM THIS PROGRAM. THE TERMS OF THIS SECTION WILL SURVIVE ANY TERMINATION OF THIS AGREEMENT. IN JURISDICTIONS WHICH RESTRICT LIMITATION OF LIABILITY OR DISCLAIMER OF WARRANTY PROVISIONS, OUR COMPANY’S LIABILITY WILL BE LIMITED TO THE GREATEST EXTENT PERMITTED BY LAW. THIS LIMITATION WILL APPLY REGARDLESS OF THE FAILURE OF THE ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.
 
-Third Party Products and Services: We neither endorse nor accept responsibility for any third party materials accessed through the Internet.
+Third Party Products and Services: We neither endorse nor accept responsibility for any third party materials accessed through the Internet. 
 
-ENTIRE AGREEMENT: This Agreement constitutes the entire agreement between sponsor and you with respect to the subject matter contained in the Agreement.
+ENTIRE AGREEMENT: This Agreement constitutes the entire agreement between sponsor and you with respect to the subject matter contained in the Agreement. 
 
-This Agreement is effective as of October 13, 2011.
+RelevantKnowledge does not react to Do Not Track signals because there is no standard for how those signals are sent. This site may employ the ScorecardResearch service, and you may control your level of participation in ScorecardResearch’s market research programs by visiting here: <http://www.scorecardresearch.com/preferences.aspx>
+
+This Agreement is effective as of December 19, 2013.
 
 Whom can I contact if I have additional questions? 
 
@@ -232,4 +236,4 @@ Reston, VA 20190
 
 For any support issues, please contact: support@tmrginc.com.
 
-LP 1142
+LP 1350
