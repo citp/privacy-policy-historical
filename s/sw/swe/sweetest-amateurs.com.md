@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetest-amateurs.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113085229id_/http%3A//sweetest-amateurs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetest-amateurs.com privacy policy that was archived on 2014-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140205054014id_/http%3A//sweetest-amateurs.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
