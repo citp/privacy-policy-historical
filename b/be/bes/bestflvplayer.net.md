@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestflvplayer.net privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812030444id_/http%3A//www.bestflvplayer.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestflvplayer.net privacy policy that was archived on 2014-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140205030344id_/http%3A//www.bestflvplayer.net/privacy-policy) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
