@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigtitsy.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604190724id_/http%3A//www.fuq.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtitsy.com privacy policy that was archived on 2014-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140205194254id_/http%3A//www.fuq.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
