@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tal.ki privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210201303id_/http%3A//tal.ki/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tal.ki privacy policy that was archived on 2014-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140206031533id_/http%3A//tal.ki/privacy) for the most accurate reproduction.*
 
-# Tal.ki Embeddable Forums - Privacy Policy
+# Talki Embeddable Forums - Privacy Policy
 
 ## TALKI PRIVACY POLICY
 
 ### What This Privacy Policy Covers
 
-  * This policy covers how Talki, owned and operated by Team Awesome Productions Inc., a Delaware corporation. ("Talki," "we," "us," or "our"), and all of its affiliated websites, products and services, including, without limitation, www.tal.ki, treat personal information that the Talki Sites, Products and Services collect and receive. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. Please note that any posting made while using the Talki Sites, Products and Services is not considered "personal information" and is not considered the type of information protected by a privacy policy.
+  * This policy covers how Talki, owned and operated by Team Awesome Productions Inc., a Delaware corporation. ("Talki," "we," "us," or "our"), and all of its affiliated websites, products and services, including, without limitation, www.talkiforum.com, treat personal information that the Talki Sites, Products and Services collect and receive. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. Please note that any posting made while using the Talki Sites, Products and Services is not considered "personal information" and is not considered the type of information protected by a privacy policy.
   * This policy covers how the Talki Sites, Products and Services deal with information about your children under the Children's Online Privacy Protection Act ("COPPA"), and how parents and legal guardians may request from us how they can review, delete or stop the collection of the personally identifiable information of their child.
   * This policy does not apply to the practices of companies that Talki does not own or control, or to people that Talki does not employ or manage.
 
@@ -101,7 +101,7 @@ No data transmissions over the Internet can be guaranteed to be 100% secure. Con
 
 
 
-If Talki learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Talki Sites, Products and Services or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of those sites, products and services. We may post a notice on our applicable web sites if a security breach occurs. If this happens, you will need a web browser enabling you to view the applicable web sites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at privacy@tal.ki.
+If Talki learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Talki Sites, Products and Services or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of those sites, products and services. We may post a notice on our applicable web sites if a security breach occurs. If this happens, you will need a web browser enabling you to view the applicable web sites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at privacy@talkiforum.com.
 
 ### Changing your Preferences and Personal Information
 
@@ -112,7 +112,7 @@ If Talki learns of a security systems breach we may attempt to notify you electr
 
 ### Contacting Talki
 
-If you have a privacy concern regarding any Talki Site, Product or Service, or this policy, and if you cannot satisfactorily resolve it through the use of those sites, products or services, you should complete a feedback form or you can write to us by email at privacy@tal.ki. Alternatively, we can be reached by our postal mail address:
+If you have a privacy concern regarding any Talki Site, Product or Service, or this policy, and if you cannot satisfactorily resolve it through the use of those sites, products or services, you should complete a feedback form or you can write to us by email at privacy@talkiforum.com. Alternatively, we can be reached by our postal mail address:
     
     
     Talki
