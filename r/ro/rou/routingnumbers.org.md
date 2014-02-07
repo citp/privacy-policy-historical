@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the routingnumbers.org privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028220618id_/http%3A//www.routingnumbers.org/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the routingnumbers.org privacy policy that was archived on 2014-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140207234339id_/http%3A//www.routingnumbers.org/privacypolicy.php) for the most accurate reproduction.*
 
 # RoutingNumbers.Org privacy policy
 
