@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animegalleries.net privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823004509id_/http%3A//www.animegalleries.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animegalleries.net privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208003729id_/http%3A//www.animegalleries.net/privacy.php) for the most accurate reproduction.*
 
 # Anime Galleries dot Net - Pics, Images, Screencaps, and Scans
 
