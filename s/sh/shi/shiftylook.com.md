@@ -1,59 +1,80 @@
-> *The following text is extracted and transformed from the shiftylook.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126082633id_/http%3A//shiftylook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiftylook.com privacy policy that was archived on 2014-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140207233425id_/http%3A//www.bandainamcogames.co.jp/english/privacy/index.php) for the most accurate reproduction.*
 
-# Privacy Policy | ShiftyLook
+# Privacy Policy | NAMCO BANDAI Games
 
-###  The followings are the NAMCO BANDAI Games Inc.'s measures for the protection of personal information.
+The followings are NAMCO BANDAI Games Inc.'s measures taken for the protection of personal information of its customers.
 
-  1. NAMCO BANDAI Games Inc.'s custody and management of personal information of its customers will comply with pertinent laws and regulations and other codes of practice.
-  2. NAMCO BANDAI Games Inc. will acquire the personal information of customers using lawful and ethical means. It will not use improper methods to acquire such information. It will give individual and public notice of its intended uses for personal information to the customers to whom such information relates. In the event that NAMCO BANDAI Games Inc. needs to use such information for purposes other than those of which it has given notice, it will provide individual and public notice of the new purposes of use and obtain the customer's consent.
-  3. NAMCO BANDAI Games Inc. will implement appropriate measures to prevent unauthorized access to or the loss, destruction, alteration, or disclosure of customers' personal information.
-  4. In the event that it entrusts the management of personal information to an outside party, NAMCO BANDAI Games Inc. will execute agreements with such party to ensure the necessary protection of such information and the proper supervision of such management.
-  5. In the event that it receives a request from a customer to disclose, correct, stop the use of, or delete that customer's personal information, NAMCO BANDAI Games Inc. will take the appropriate action after confirming that the personal information relates to the customer in question.
-  6. Except in the following events, NAMCO BANDAI Games Inc. will not disclose a customer's personal information to any third party: 
-    1. Where the customer agrees to such disclosure.
-    2. Where the information is disclosed in a form whereby the customer cannot be identified (for example, in the form of statistical data).
-    3. Where NAMCO BANDAI Games Inc. is lawfully ordered by a judicial or government authority to disclose or submit such information.
+  1. NAMCO BANDAI Games Inc.'s handling of personal information of its customers will comply with pertinent laws and regulations.
+  2. NAMCO BANDAI Games Inc. will acquire the personal information of its customers lawfully and rightfully. It will not use wrongful methods to acquire such information. It will give individual and public notice of its intended use of personal information to the customers to whom such information relates. In the event it needs to use such information for purposes other than the said purpose, it will provide individual and public notice of the new purposes of such use and after obtaining the customers’ consent, will use such information.
+  3. NAMCO BANDAI Games Inc. will implement appropriate measures to prevent unauthorized access to or loss, destruction, alteration, or disclosure of customers' personal information.
+  4. In the event NAMCO BANDAI Games Inc. entrusts the handling of personal information of its customers to an outside party, NAMCO BANDAI Games Inc. will execute an agreement with such party necessary to ensure the security control of such information and will supervise such party appropriately.
+  5. In the event NAMCO BANDAI Games Inc. receives a request from a customer to disclose, correct, discontinue the use of, or delete that customer's personal information, it will take an appropriate action after verifying the identity of such consumer.
+  6. Except in the following cases, NAMCO BANDAI Games Inc. will not disclose a customer's personal information to a third party: 
+    1. Cases where the customer agrees to such disclosure.
+    2. Cases where the information is disclosed in a form whereby the customer cannot be identified (for example, in the form of statistical data).
+    3. Cases where NAMCO BANDAI Games Inc. is required to provide such information pursuant to the Act on the Protection of Personal Information and/or other relevant laws, or
+    4. Cases where such third party who has received such personal information (e.g., outside party which has been entrusted the handling of personal information by NAMCO BANDAI Games Inc.) shall not be deemed a “third party” as defined in Article 23 (Restriction of Provision to A Third Party) of the Act on the Protection of Personal Information.
   7. NAMCO BANDAI Games Inc. will review and improve its measures for the protection of personal information on an ongoing basis.
 
 
 
-NAMCO BANDAI Games Inc
+Partially revised on July 23, 2013  
+Chief Privacy Officer  
+NAMCO BANDAI Games Inc.
 
-###  We collect personal information from our guests to
+### Purposes of Use of Personal Information
 
-Registration for NAMCO BANDAI Games Inc. and/or other service accounts;  
-Newsletter subscriptions, referral services, and other marketing surveys and email campaigns;  
-Customer support and/or technical service requests;  
-Product, service and/or subscription orders;  
-Otherwise through use of our software, mobile or online services where personal information is required for use and/or participation
+NAMCO BANDAI Games Inc. will use personal information of its customers to the extent necessary to achieve the following purposes:
 
-###  Cookies
+  1. To verify the identity of customers of NAMCO BANDAI Games Inc. when they use its services;
+  2. To inform the customers of NAMCO BANDAI Games Inc. about its services and products, campaign, and to send surveys and direct mails;
+  3. To send NAMCO BANDAI Games Inc.'s products and premiums;
+  4. To respond to inquiries from the customers of NAMCO BANDAI Games Inc.;
+  5. To use such personal information (including the footage identifiable which has been shot at shows, events, or location tests) as a material for research, development, sale of NAMCO BANDAI Games Inc.'s products;
+  6. To perform appropriately and smoothly the services entrusted by other business entities which services include the handling of whole or part of such personal information; or
+  7. To achieve the purpose specified separately in the specific situation where NAMCO BANDAI Games Inc. has obtained such personal information (if any).
 
-In order to provide our customers with improved services, cookies may be used on websites maintained by NAMCO BANDAI Games Inc. These cookies will not breach customer privacy. Websites where cookies are used will clearly indicate in advance the use intended for each cookie. Depending on the browser you use, you may be able to change its settings so as to inactivate the cookie function. As a consequence however you may not be able to access some or any of the services on our web pages.
 
-###  Links to other websites
 
-NAMCO BANDAI Games Inc. accepts no liability for the personal information of customers on third party websites that are linked to websites maintained by our company.
+### Cookies
 
-###  Children
+In order to provide our customers with improved services, cookies may be used on websites operated by NAMCO BANDAI Games Inc. These cookies will not breach customers' privacy. Each website where cookies are used will clearly indicate the purpose of use of such cookies respectively in advance. Depending on the browser you use, you may be able to change its settings so as to inactivate the cookie function. As a consequence however you may not be able to access some or any of the services provided on our web pages.
 
-We take kids privacy seriously, and encourage parents to play an active role in their children's online experience at all times.
+### Links to other websites
 
-###  Inquiries concerning personal information
+NAMCO BANDAI Games Inc. accepts no liability for the handling of personal information of its customers which has been provided to a third party at such party's websites that are linked to websites operated by NAMCO BANDAI Games Inc.
 
-For any inquiries or requests concerning your personal information (such as a request to our company to disclose, correct, stop the use of, delete your personal information or to notify you of the intended use of your personal information), please contact the department below for further details.
+### Provision of Personal Information of Minors
 
-Corporate Administration Division
+In case NAMCO BANDAI Game Inc. intends to obtain personal information from minors, it will do so after obtaining the consent of their legal representatives as necessary.
 
-Contact |  NAMCO BANDAI Games Inc.  
-4-5-15, Higashi-Shinagawa, Shinagawa-ku,  
-Tokyo 140-8590, Japan  
+### Inquiries concerning personal information
+
+For any inquiries concerning your personal information, please contact the following e-mail address:
+
+Please note that any inquiries other than those regarding the handling of personal information will not be responded to through this e-mail address.
+
+Contact | ppolicy@bandainamcogames.co.jp  
 ---|---  
-Opening hours |  10:00am - 5:30pm  
-Monday - Friday (public holidays excluded)  
   
-###  Fees
+### Request for Disclosure of Personal Information
 
-A separate fee will be charged for requests to disclose your personal information or to provide notice of the intended uses of your personal information.  
-No fee will be charged for requests to correct, stop the use of, or delete your personal information.  
-Fee:800 yen per request.
+If you request us to disclose, correct, discontinue using, or delete your personal information, or notify you of the purpose of use of your personal information, please fill out the applicable form among the forms attached below under the title “Request Forms for Disclosure of Personal Information” and send it with a copy of either of your (i) driver's license (ii) passport (iii) health insurance card (in case your domicile of origin or medical records are indicated, please do not copy them) enclosed to our address below by post. Further, if you make the above request through your legal representative or proxy, please enclose the necessary documents listed in the following applicable form.
+
+Attached files: “Request Forms for Disclosure of Personal Information”  
+(1) Request for Disclosure and Notice of Purpose of Use of Personal Information  
+(2) Request for Correction of Personal Information  
+(3) Request for Discontinue of Use of Personal Information
+
+### Fees
+
+The following fee will be charged for your request to disclose your personal information and to provide notice of the intended uses of your personal information.  
+No fee will be charged for your request(s) to correct, discontinue the use of, or delete your personal information.  
+Fee: 800 yen per request.  
+Payment Method: Please enclose postal money order (issued by post office) with the above request.
+
+Attention: Contact for Personal Information Matter, NAMCO BANDAI Games Inc.  
+Address: 4-5-15 Higashi-shinagawa, Shinagawa-ku, Tokyo 140-8590, Japan
+
+Please note that in case the above form submitted by you was incomplete or incorrect, we may not be able to respond to you appropriately.  
+We will use your personal information provided by you through the above request procedure for the purpose of responding to your request of disclosure, correction, etc. of your personal information appropriately, and we will keep it strictly confidential for a certain period. Further, please note that we will not return the above form and the enclosures provided by you.
