@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imghook.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209005045id_/http%3A//imghook.com/ppolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imghook.com privacy policy that was archived on 2014-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140207214518id_/http%3A//imghook.com/ppolicy) for the most accurate reproduction.*
 
 # ImgHook Privacy Policy
 
