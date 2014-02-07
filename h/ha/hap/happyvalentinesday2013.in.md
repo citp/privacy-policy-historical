@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the happyvalentinesday2013.in privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227215856id_/http%3A//happyvalentinesday2013.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happyvalentinesday2013.in privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208003709id_/http%3A//happyvalentinesday2013.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Love SMS Messages romantic love Quotes Greetings Wishes
+# Privacy Policy | Happy Valentine Day 2014 SMS Messages Quotes
 
 At http://happyvalentinesday2013.in/, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://happyvalentinesday2013.in/ and how it is used.
 
@@ -12,16 +12,8 @@ Like many other Web sites, http://happyvalentinesday2013.in/ makes use of log f
 
 http://happyvalentinesday2013.in/ does not use cookies.
 
-**Advertiser Cookies**
-
-1\. Google, as a third party vendor, uses cookies to serve ads on our site.  
-2\. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-3\. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
-
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google Adsense etc
-
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://happyvalentinesday2013.in/ send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+**Advertiser Cookies**  
+we use Amazon associates etc These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://happyvalentinesday2013.in/ send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
 http://happyvalentinesday2013.in/ has no access to or control over these cookies that are used by third-party advertisers.
 
