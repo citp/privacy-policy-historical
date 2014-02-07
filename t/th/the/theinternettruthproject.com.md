@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theinternettruthproject.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013184546id_/http%3A//theinternettruthproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinternettruthproject.com privacy policy that was archived on 2014-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140207234558id_/http%3A//theinternettruthproject.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — The Internet Truth Project
+# Privacy Policy —
 
 This privacy policy sets out how The Internet Truth Project uses and protects any information that you give The Internet Truth Project when you use this website.
 
