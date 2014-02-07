@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mortgagecove.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126215614id_/http%3A//www.mortgagecove.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mortgagecove.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208004341id_/http%3A//mortgagecove.com/privacy.html) for the most accurate reproduction.*
 
 # None
 
