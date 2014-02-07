@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formlabs.com privacy policy that was archived on 2013-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131002155513id_/http%3A//formlabs.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formlabs.com privacy policy that was archived on 2014-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140207233358id_/http%3A//formlabs.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Formlabs - High Resolution Desktop 3D Printer
 
