@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwpresident.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103191156id_/https%3A//i.nwpresident.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwpresident.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208003944id_/https%3A//i.nwpresident.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -16,7 +16,7 @@
 
 [ ](mailto:residentservices@nwpsc.com)
 
-[](https://web.archive.org/web/20131103191156id_/https%3A//i.nwpresident.com/conservation.html)
+[](https://web.archive.org/web/20140208003944id_/https%3A//i.nwpresident.com/conservation.html)
 
 ### Privacy 
 
