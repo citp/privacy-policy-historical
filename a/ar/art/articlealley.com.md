@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlealley.com privacy policy that was archived on 2013-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130725103202id_/http%3A//www.articlealley.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlealley.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208004558id_/http%3A//www.articlealley.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy of Article Alley the leader amongst Article Directories
 
@@ -19,6 +19,8 @@ This web site agrees to notify you of:
 **Information Collection and Use**
 
 Submit articles or find free articles. is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Submit articles or find free articles. collects information from our users at several different points on our website, and may publish articles on other sites with our network.
+
+We do not ask for or store customer's credit card details.
 
 **Order**
 
