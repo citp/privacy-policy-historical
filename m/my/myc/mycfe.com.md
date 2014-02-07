@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the mycfe.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806105519id_/https%3A//mycfe.com/resources/Disclosures/privacy%2520notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycfe.com privacy policy that was archived on 2014-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140207091537id_/https%3A//mycfe.com/resources/Disclosures/privacy%2520notice.pdf) for the most accurate reproduction.*
 
 # FACTS
 
       About            Printing Requirements           Reset         Show Field Borders
-                                                                                                                                    Rev. 04/2012
-                               WHAT DOES CFE FEDERAL CREDIT UNION, ALSO SERVING UCF FEDERAL
- FACTS                         CREDIT UNION, DO WITH YOUR PERSONAL INFORMATION?
+                                                                                                                                    Rev. 08/2013
+                               WHAT DOES CFE FEDERAL CREDIT UNION DO WITH YOUR PERSONAL
+ FACTS                         INFORMATION?
  Why?                          Financial companies choose how they share your personal information. Federal law gives consumers
                                the right to limit some but not all sharing. Federal law also requires us to tell you how we collect,
                                share, and protect your personal information. Please read this notice carefully to understand what we
@@ -18,10 +18,9 @@
                                When you are no longer a member, we continue to share your information as described in this notice.
  How?                          All financial companies need to share members' personal information to run their everyday business.
                                In the section below, we list the reasons financial companies can share their members' personal
-                               information; the reasons CFE Federal Credit Union, also serving UCF Federal Credit Union, chooses
-                               to share; and whether you can limit this sharing.
-    Reasons we can share your personal information                                Does CFE FCU, also             Can you limit this sharing?
-                                                                               serving UCF FCU share?
+                               information; the reasons CFE Federal Credit Union chooses to share; and whether you can limit this
+                               sharing.
+    Reasons we can share your personal information                              Does CFE FCU share?              Can you limit this sharing?
  For our everyday business purposes -                                                          Yes                          No
  such as to process your transactions, maintain your
  account(s), respond to court orders and legal
@@ -37,23 +36,21 @@
  Questions?                    Call 407- 896-9411 or outside Orlando 800-771-9411 option 3 or go to MyCFE.com
 Privacy Model Disclosure                                                                                                        PRIV-MODEL 8/1/2010
 VMP® Bankers Systems™
-Wolters Kluwer Financial Services © 2010                               2012.1/0648 3123969-010 Custom EPRV0648
+Wolters Kluwer Financial Services © 2010                               2012.1/0648 3800520-010 Custom EPRV0648
 
 
 Page 2
 Who We Are
-Who is providing this notice?          CFE Federal Credit Union, also serving UCF Federal Credit Union, means Central
-                                       Florida Educators' Federal Credit Union, also serving UCF Federal Credit Union,.
+Who is providing this notice?          CFE Federal Credit Union means Central Florida Educators' Federal Credit Union.
 What We Do
-How does CFE FCU, also                 To protect your personal information from unauthorized access and use, we use
-serving UCF FCU, protect my            security measures that comply with federal law. These measures include computer
-personal information?                  safeguards and secured files and buildings.
+How does CFE FCU protect my            To protect your personal information from unauthorized access and use, we use
+personal information?                  security measures that comply with federal law. These measures include computer
+                                       safeguards and secured files and buildings.
                                        We also maintain other physical, electronic and procedural safeguards to protect
                                        this information and we limit access to information to those employees for whom
                                        access is appropriate.
-How does CFE FCU, also                 We collect your personal information, for example, when you
-serving UCF FCU, collect my              l Open an account                          l Apply for financing
-personal information?
+How does CFE FCU collect my            We collect your personal information, for example, when you
+personal information?                    l Open an account                          l Apply for financing
                                          l Apply for a loan                         l Show your driver's license
                                          l Provide employment information
                                        We also collect your personal information from others, such as credit bureaus,
@@ -67,17 +64,15 @@ Why can't I limit all sharing?         Federal law gives you the right to limit 
                                        See below for more on your rights under state law.
 Definitions
 Affiliates                             Companies related by common ownership or control. They can be financial and
-                                       non-financial companies.
-                                         l CFE Federal Credit Union, also serving UCF Federal Credit Union, does not
-                                            share with our affiliates.
+                                       nonfinancial companies.
+                                         l CFE Federal Credit Union does not share with our affiliates.
 Nonaffiliates                          Companies not related by common ownership or control. They can be financial and
-                                       non-financial companies.
-                                         l CFE Federal Credit Union, also serving UCF Federal Credit Union, does not
-                                            share with nonaffiliates so they can market to you.
+                                       nonfinancial companies.
+                                         l CFE Federal Credit Union does not share with nonaffiliates so they can market
+                                            to you.
 Joint Marketing                        A formal agreement between nonaffiliated financial companies that together market
                                        financial products or services to you.
-                                         l Our joint marketing partners include CUNA Mutual Financial Group Life
-                                            Insurance Company and Affinion Benefits Group
+                                         l Our joint marketing partners include insurance and credit card companies.
 Other Important Information
 We will not disclose information about you to anyone or information about former members, except as permitted by law.
 For Alaska, Illinois, Maryland and North Dakota Members. We will not share personal information with
