@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scottrade.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805124051id_/https%3A//www.scottrade.com/documents/alt/PrivacyStatement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottrade.com privacy policy that was archived on 2014-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140207150704id_/https%3A//www.scottrade.com/documents/alt/PrivacyStatement.pdf) for the most accurate reproduction.*
 
-# 
+# FACTS
 
                      WHAT DOES SCOTTRADE DO
  FACTS               WITH YOUR PERSONAL INFORMATION?
@@ -21,27 +21,27 @@
  Reasons we can share your personal information
                                                                              share?                 sharing?
  For our everyday business purposes – such as to process
- your transactions, maintain your account(s), respond to court                 Yes                      No
+ your transactions, maintain your account(s), respond to court                  Yes                      No
  orders and legal investigations, or report to credit bureaus
  For our marketing purposes – to offer our products and
-                                                                               Yes                      No
+                                                                                Yes                      No
  services to you
- For joint marketing with other financial companies                            Yes                      No
+ For joint marketing with other financial companies                             Yes                      No
  For our affiliates’ everyday business purposes – information
-                                                                               Yes                      No
+                                                                                Yes                      No
  about your transactions and experiences
  For our affiliates’ everyday business purposes – information
-                                                                               Yes                     Yes
+                                                                                Yes                     Yes
  about your creditworthiness
- For our affiliates to market to you                                           Yes                     Yes
- For non-affiliates to market to you                                            No               We don’t share
+ For our affiliates to market to you                                            Yes                     Yes
+ For non-affiliates to market to you                                            No                We don’t share
                      Call (800) 619-SAVE (7283) – our menu will prompt you through your choices.
                      Please note: If you are a new customer, we can begin sharing your information 30 days from
  To limit our        the date we sent this notice. When you are no longer our customer, we continue to share
  sharing             your information as described in this notice.
                      However, you can contact us at any time to limit our sharing.
  Questions?          Call 1-800-619-SAVE (7283) or go to www.scottrade.com
-Rev. June 2013                                                                                              Page 1 of 3
+Rev. June 2013                                                                                               Page 1 of 3
 
 
  Who we are
@@ -88,12 +88,12 @@ Rev. June 2013                                                                  
         transactions and experiences with you without your consent.
     • For accounts with a California mailing address – California residents are provided an additional notice
         on the following page describing the privacy choices available under California law.
-Rev. June 2013                                                                                             Page 2 of 3
+Rev. June 2013                                                                                              Page 2 of 3
 
 
-                                  CALIFORNIA PRIVACY NOTICE
+                                   CALIFORNIA PRIVACY NOTICE
                                Important Privacy Choices for California Residents
-  You have the right to control whether we share some of your personal information. Please
+   You have the right to control whether we share some of your personal information. Please
            read the following information carefully before you make your choices below.
  Your Rights
   You have the following rights to restrict the sharing of personal and financial information with our affiliates
@@ -121,7 +121,7 @@ Rev. June 2013                                                                  
          Scottrade Information Privacy Request – California Residents ONLY
  (_) Don’t share my personal & financial information with your affiliated companies.
  (_) Don’t share my personal & financial information with outside companies with whom you do business.
- Accountholder Name: __________________________________________________________________
- Account Number:______________________________________________________________________
- Signature:_____________________________________________________________________________
-Rev. June 2013                                                                                                 Page 3 of 3
+ Accountholder Name:
+ Account Number:
+ Signature:
+Rev. June 2013                                                                                                  Page 3 of 3
