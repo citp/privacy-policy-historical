@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobalertsusa.com privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011203807id_/http%3A//forms.jobalertsusa.com/classic/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobalertsusa.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208002359id_/http%3A//forms.jobalertsusa.com/classic/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - jobalertsusa.com
 
@@ -72,4 +72,4 @@ New York, NY 10017
 
 By using the Website and/or agreeing to receive information via e-mail from us, you agree to this Privacy Policy. We reserve the right, in our sole discretion, to change, modify, add and/or remove portions of this Privacy Policy at any time. All Privacy Policy changes will take effect immediately upon their posting on the Website. Please check this page periodically for any changes. Your continued use of the Website and/or acceptance of our e-mail communications following the posting of changes to this Privacy Policy will constitute your acceptance of any and all changes. 
 
-© 2009-2013 jobalertsusa.com. All rights reserved.
+© 2009-2014 jobalertsusa.com. All rights reserved.
