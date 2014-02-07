@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubpenguin.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226133601id_/http%3A//www.clubpenguin.com/privacy-policy/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubpenguin.com privacy policy that was archived on 2014-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140207222925id_/http%3A//www.clubpenguin.com/privacy-policy/en) for the most accurate reproduction.*
 
 # Privacy Policy | Club Penguin
 
