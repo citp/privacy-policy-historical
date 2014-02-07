@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs4jobs.com privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915084623id_/http%3A//www.jobs4jobs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs4jobs.com privacy policy that was archived on 2014-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140207233808id_/http%3A//www.jobs4jobs.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Jobs4jobs.com
 
@@ -62,4 +62,4 @@ If we decide to change our privacy commitment for Jobs4jobs.com, we will post th
 
 Don’t pay a fee upfront! Most legitimate employment agencies don’t charge unless they actually succeed in getting you a job, and often it’s the new employer who pays. Beware any deal involving Western Union, Moneygram, wire transfer, cashier check, money order, shipping, escrow, or any promise of transaction protection / certification / guarantee
 
-Last updated, 13/07/2012
+Last updated, 12/01/2014
