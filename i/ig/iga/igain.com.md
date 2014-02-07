@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the igain.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106074853id_/http%3A//www.igain.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igain.com privacy policy that was archived on 2014-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140207235912id_/http%3A//igain.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
 **Website Privacy Policy**
 
@@ -14,7 +14,7 @@ This Privacy Policy describes how iGain will handle certain information on the S
 
 iGain may also collect and keep personal information when you choose to voluntarily submit such information. For example, if you choose to fill out one of the forms on the Site to register as a Publisher or Advertiser iGain will retain the information submitted by you. You should not submit any information, personal or otherwise, that you do not want to be retained.
 
-**Use By Adults 18 Years And Older.** You must be 18 years of age or older to access and use the Site. iGain is intended only for persons 18 years of age or older. ****
+**Use By Adults 18 Years And Older.** You must be 18 years of age or older to access and use the Site. iGain is intended only for persons 18 years of age or older.
 
 **NOTICE TO CHILDREN UNDER THE AGE OF 13 AND THEIR PARENTS OR LEGAL GUARDIANS:** IF YOU ARE UNDER THE AGE OF 13 AND WOULD LIKE TO CONTACT IGAIN PLEASE DO SO THROUGH YOUR PARENTS OR LEGAL GUARDIANS. THIS SITE IS ONLY INTENDED FOR ADULTS. IGAIN DOES NOT KNOWINGLY COLLECT PERSONAL INFORMATION FROM CHILDREN UNDER THE AGE OF 13. IF YOU ARE UNDER THE AGE OF 13 PLEASE DO NOT SEND IGAIN ANY PERSONAL INFORMATION INCLUDING WITHOUT LIMITATION YOUR EMAIL ADDRESS, NAME AND/OR CONTACT INFORMATION.
 
