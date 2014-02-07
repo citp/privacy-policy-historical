@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jabcomix.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925170733id_/http%3A//www.jabcomix.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jabcomix.com privacy policy that was archived on 2014-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140207234412id_/https%3A//www.jabcomix.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # JABcomix :: Privacy Policy
 
@@ -6,7 +6,7 @@ JABcomix.com respects each individual’s right to personal privacy. We will onl
 
 **  
 Membership/Paid Subscription**  
-All credit card, checks, and phone billing subscriptions are processed safely by a third party billing processor, Verotel. With this being the case, we do not store nor have access to your sensitive credit card, debit card, or checking account information. Verotel has its own [privacy statement](https://secure.verotel.com/privacy_statement.html) regarding how it processes transactions. 
+All credit card, checks, and phone billing subscriptions are processed safely by a third party billing processor, Verotel. With this being the case, we do not store nor have access to your sensitive credit card, debit card, or checking account information. Verotel has its own [privacy statement](http://secure.verotel.com/privacy_statement.html) regarding how it processes transactions. 
 
 W
 
