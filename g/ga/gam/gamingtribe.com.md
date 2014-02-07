@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamingtribe.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928063609id_/http%3A//www.gamingtribe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamingtribe.com privacy policy that was archived on 2014-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140207234913id_/https%3A//www.gamingtribe.com/privacy) for the most accurate reproduction.*
 
-# Gaming Tribe Beta - Privacy Policy
+# Privacy Policy - Gaming Tribe
 
 Gaming Tribe Privacy Policy
 
@@ -19,7 +19,7 @@ How We Treat Your Information
 We will never spam you.  
 We do send email notifications via our private mailing list, but you can unsubscribe anytime.  
 We will never disclose your personal information without your permission.  
-We will never sell, rent or share your personal information with a third party without your express permission.  
+We will never sell, rent or share your personal information with a third party without your explicit permission.  
 We give you full control over your information, including the ability to wipe it from our system.  
 We will only access your personal information when:  
 \- You specifically request us to do so (e.g. you are having technical difficulties).  
