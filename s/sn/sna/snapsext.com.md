@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapsext.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230131613id_/http%3A//www.snapsext.com/main.php%3Fa%3Dcontent.info%26page%3Dprivacy%26id%3Dsnapsext%26prg%3D1%26tour%3D1%26pg%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapsext.com privacy policy that was archived on 2014-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140207233532id_/http%3A//snapsext.com/main.php%3Fa%3Dcontent.info%26page%3Dprivacy%26id%3Dsnapsext%26prg%3D1%26tour%3D1%26pg%3D1) for the most accurate reproduction.*
 
 # Snapsext.com - World's Best Personals
 
