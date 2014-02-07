@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the livefreecamx.com privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914112020id_/http%3A//livefreecamx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livefreecamx.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208003231id_/http%3A//livefreecamx.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - livefreecamx
 
-This Privacy Policy applies to all of the products, services, and websites (collectively, our “Services”) offered by ZmediaNow, LLC(“livefreecamx,” “we,” “our”). By using our Services and/or registering with livefreecamx, you acknowledge and accept the provisions in this Privacy Policy and grant us permission to collect, store, and use the items of personal information described herein, so long as livefreecamx adheres to the standards set forth more clearly below.
+This Privacy Policy applies to all of the products, services, and websites (collectively, our “Services”) offered by ZmediaNow, LLC (“livefreecamx,” “we,” “our”). By using our Services and/or registering with livefreecamx, you acknowledge and accept the provisions in this Privacy Policy and grant us permission to collect, store, and use the items of personal information described herein, so long as livefreecamx adheres to the standards set forth more clearly below.
 
 We reserve the right to amend this Privacy Policy at any time and provide such amendments to you by posting a revised version on our website. If the revised version includes a substantial change, we will provide you with thirty (30) days’ notice prior to the effectiveness thereof by posting notice of the change in a prominent place on the livefreecamx website, such as presenting to you a click-through page immediately following your account login. Otherwise, in the case of insubstantial changes, the revised version will be effective at the time we post it. In any event, we will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most changes will be minor. Each version of this Privacy Policy will be identified at the top of the page by its Last Modified date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
 
-If you have any questions about this Privacy Policy, please feel free to contact us through our website or by email at [support@chaturbate.com](mailto:support@chaturbate.com).
+If you have any questions about this Privacy Policy, please feel free to contact us through our website, by email at [support@chaturbate.com](mailto:support@chaturbate.com), or by phone at 1-949-274-7960.
 
 **Information Collected**
 
@@ -98,4 +98,18 @@ We regularly review our compliance with this Privacy Policy. If you feel there h
 
 It is our policy to contact the complaining user regarding his or her concerns when we receive formal written complaints at this address. In order to resolve any complaints regarding the transfer of personal data that cannot be resolved between livefreecamx and an individual, we will cooperate with the appropriate regulatory authorities, such as local data protection authorities.
 
-If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site or by email at [support@chaturbate.com](mailto:%20support@chaturbate.com).
+**Email Communications**
+
+By providing your email address in connection with the creation of an account with Chaturbate, you thereby demonstrate your consent to receive email communications from us. Email addresses, when provided, are only used for friend notifications, monthly newsletters, broadcast and payout reminders, and account verification. Your email address is never sold or shared. If you wish to "opt-out" of all future email communications relating to Chaturbate, you may do so by taking the following steps:
+
+While logged in on the site, visit the "MY PROFILE" page using the link appearing the in upper right-hand area of the page.
+
+From the "MY PROFILE" page, click on the "Settings & Privacy" tab.
+
+Delete your email address from the "E-mail address" input box under the "Personal Data" heading
+
+Click on the "Update Settings" button link near the bottom of the "MY PROFILE" page.
+
+After opting out, please allow up to 10 days for your email to be fully removed from our mailing list.
+
+If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site, by email at [support@chaturbate.com](mailto:%20support@chaturbate.com), or by phone at 1-949-274-7960.
