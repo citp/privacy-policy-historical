@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the virtualassistantjobs.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualassistantjobs.com privacy policy that was archived on 2014-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140207235508id_/http%3A//www.virtualassistantjobs.com/privacy) for the most accurate reproduction.*
 
-# VOT: Virtual Office Temps Administrative Services & Virtual Assistants: Work At Home Positions Are Available!
-
-| 
+# Virtual Assistant Jobs - Free Training and Virtual Assistant Training - Since 1998
 
 Virtual Office Temps, Virtual Assistant Jobs 
 
@@ -62,94 +60,3 @@ Virtual Office Temps/Virtual Assistant Jobs has the discretion to occasionally u
 
 CONTACTING US   
 If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please send your comments to: info@virtualassistantjobs.com 
-
-|  |  |  | 
-
-* * *
-
-Featured Virtual Assistants
-
-  
-| [Sr Online Corporate expert](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/resume_view.php?id_code=90588)  
----  
-[Marketing Communications and Event Managment...](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/resume_view.php?id_code=59974)  
-[Virtual Virtual Assistant](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/resume_view.php?id_code=107034)  
-[Administration](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/resume_view.php?id_code=121422)  
-[Virtual Consultant and Assistant](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/resume_view.php?id_code=135625)  
-[Nicole](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/resume_view.php?id_code=28387)  
-[Virtual Assistant with Accounting, Web...](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/resume_view.php?id_code=43968)  
-[Management Experience](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/resume_view.php?id_code=37801)  
-[Virtual Assistant , Data Entry, Cl](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/resume_view.php?id_code=53225)  
-[Working as a vovation, not as a profession](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/resume_view.php?id_code=86999)  
-[More Top Resumes...](http://www.virtualassistantjobs.com/directory.php)  
-  
-* * *
-
-Jobs & Projects At A Glance
-
-  
-[Follow Up Assistants](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=906)  
----  
-[Clerical / Customer Assistants](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=905)  
-[Virtual Research Scanners](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=904)  
-[Virtual Marketing Specialists](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=903)  
-[Customer Account Representative and Processor](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=902)  
-[Real Estate Monitors and Recorders](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=901)  
-[Virtual Assistants](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=545)  
-[Virtual Admin Assistants](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=544)  
-[Podcast Transcribers](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=543)  
-[Data Entry, Customer Service, Admin](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=541)  
-[Customer Consumer Service Assistants ](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=540)  
-[Data Typing Agents](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=539)  
-[Legal Typists and Transcribers](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=538)  
-[Data Typists and Transcribers](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=537)  
-[Legal Typing](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=536)  
-[Audio Typists](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=535)  
-[Email Data Assistants](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=534)  
-[Data Entry and Research](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=533)  
-[Remote Live Office Agents](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=532)  
-[Virtual Phone Agents](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=531)  
-[Live Remote Receptionists](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=530)  
-[VIRTUAL Admin Financial Services](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=529)  
-[VIRTUAL Keyers](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=528)  
-[VIRTUAL Financial Data Keyers](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=527)  
-[Medical and Legal Typist Transcribers](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=526)  
-[Human Resources Customer Service Agent](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=525)  
-[Virtual Medical Transcriptionists Needed](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=524)  
-[Seasonal Keyers Needed NOW](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=523)  
-[Executive Administrative Research Associates](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=522)  
-[Web Data Assistants](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=521)  
-[Virtual Coders](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=520)  
-[Virtual At Home Agents](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=519)  
-[At Home Virtual Telephone Reps](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=518)  
-[At Home Team Members](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=517)  
-[Department Store Virtual Customer Service](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=516)  
-[Typing Transcriptionists](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=515)  
-[Data Entry Coding Assistants](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=514)  
-[Administrative Data Recording](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=513)  
-[Online Social Media Assistants](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=512)  
-[Text Chat Agents](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_view.php?id_code=511)  
-[Search All...](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/job_listings.php)  
-  
-* * *
-
-Keep Up With the VOT Blog
-
-  
-[Resumes For Virtual Administrative Secretarial Jobs](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/Real-Resumes-For-Administrative-Secretarial20101006.php)  
----  
-[Establishing Your Virtual Identity](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/How-Hiring-and-Project-Managers-Are-Looking20110206.php)  
-[Become a Guest Writer For VOT](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/Become-a-Guest-Writer-on-VOT20101014.php)  
-[Home Based Social Networking Jobs Fastest Growing New Virtual Field](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/Home-Based-Social-Networking-Jobs-is-Fastest20110406.php)  
-[Freelance Your Way to a Virtual Assistant Job](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/Freelance-Your-Way-to-a-Virtual-Assistant20111130.php)  
-[Virtual Jobs With Top Fortune 500 Employers](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/Virtual-Jobs-With-Top-Fortune-500-Employers20110330.php)  
-[Best Virtual Work At Home Jobs for 2012](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/Best-Virtual-Work-At-Home-Jobs-for-201220120222.php)  
-[10 Real Work At Home Jobs You Can Get Now](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/10-Real-Work-At-Home-Jobs-You-Can-Get-Now20101026.php)  
-[Real Virtual Data Entry Jobs](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/Real-Virtual-Data-Entry-Jobs20120620.php)  
-[Setting Up Your Virtual Assistant Website](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/Setting-Up-Your-Virtual-Assistant-Website20110122.php)  
-[Become A Medical Transcriptionist and Get Hired Now](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/Become-A-Medical-Transcriptionist-and-Get20111130.php)  
-[Virtual Assistants Free Career Certifications Coming Soon](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/Virtual-Assistants-Free-Career-Certifications20120328.php)  
-[Celebrating Administrative Professionals Day](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/Celebrating-Administrative-Professionals20100421.php)  
-[Create A Job Winning Virtual Assistant Resume and Website](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/Write-a-Job-Winning-Virtual-Assistant-Resume20101129.php)  
-[How Virtual Assistants Can Use Pinterest To Work From Home](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/How-Virtual-Assistants-Can-Use-Pinterest20120215.php)  
-[View All...](https://web.archive.org/web/20130811152249id_/http%3A//www.virtualassistantjobs.com/blog.php)
