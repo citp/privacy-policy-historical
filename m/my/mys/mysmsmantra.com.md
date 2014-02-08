@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysmsmantra.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022120113id_/http%3A//www.mysmsmantra.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysmsmantra.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208012520id_/http%3A//mysmsmantra.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | My Sms Mantra
 
