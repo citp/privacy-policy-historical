@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeschoolingmom4two.com privacy policy that was archived on 2013-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130327092818id_/http%3A//homeschoolingmom4two.blogspot.ca/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeschoolingmom4two.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208025852id_/http%3A//homeschoolingmom4two.blogspot.ca/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Homeschooling Mom 4 Two: Privacy Policy
 
