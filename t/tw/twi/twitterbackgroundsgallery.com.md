@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twitterbackgroundsgallery.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519124140id_/http%3A//twitterbackgroundgallery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitterbackgroundsgallery.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208062746id_/http%3A//twitterbackgroundgallery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Twitter Backgrounds Gallery
 
