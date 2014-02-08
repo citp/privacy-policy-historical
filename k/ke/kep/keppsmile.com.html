@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the keppsmile.com privacy policy that was archived on 2013-09-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130925185951id_/http%3A//keppsmile.com/page/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the keppsmile.com privacy policy that was archived on 2014-02-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140208035052id_/http%3A//keppsmile.com/page/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#">
     <base href="http://keppsmile.com/">
@@ -11,7 +11,7 @@
 <meta property="og:type" content="activity">
 <meta property="og:locale" content="en_us">
 <meta name="medium" content="image">
-<meta property="fb:app_id" content="187887948031171">
+<meta property="fb:app_id" content="550840348310825">
 <meta property="og:site_name" content="KEEP YOU SMILE Funny Pictures website">
 <meta name="Language" content="English">
 <meta name="Revisit-After" content="1 days">
@@ -24,7 +24,7 @@
 	<link rel="stylesheet" type="text/css" media="all" href="http://keppsmile.com/templates/wlol_v3/css/layout.css">
 	<link rel="stylesheet" type="text/css" media="all" href="http://keppsmile.com/templates/wlol_v3/css/style.css">
     <link rel="stylesheet" type="text/css" href="http://keppsmile.com/templates/core/inc_cssjs/css/core.css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=187887948031171"></script><script type="text/javascript" src="http://keppsmile.com/templates/core/inc_cssjs/js/jquery.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=550840348310825"></script><script type="text/javascript" src="http://keppsmile.com/templates/core/inc_cssjs/js/jquery.js"></script>
 <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
 <script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>    <link rel="stylesheet" type="text/css" href="http://keppsmile.com/templates/core/inc/css.php">
     <script type="text/javascript" src="http://keppsmile.com/templates/core/inc/js.php"></script>
@@ -77,39 +77,28 @@
 <div id="fb-root"></div>
 <script>
 function fbActionPost()
-{	
-	var opts = {
-		message : '<br />
-<b>Notice</b>:  Undefined index: title in <b>/home/content/27/11077527/html/templates/wlol_v3/pages/header.php</b> on line <b>65</b><br />
-',
-		name : '<br />
-<b>Notice</b>:  Undefined index: title in <b>/home/content/27/11077527/html/templates/wlol_v3/pages/header.php</b> on line <b>66</b><br />
-',
-		link : '<br />
-<b>Notice</b>:  Undefined index: url in <b>/home/content/27/11077527/html/templates/wlol_v3/pages/header.php</b> on line <b>67</b><br />
-',
-		description : 'Click To See The Pic...',
-		picture : '<br />
-<b>Notice</b>:  Undefined index: path in <b>/home/content/27/11077527/html/templates/wlol_v3/pages/header.php</b> on line <b>69</b><br />
-'
-		
-		
-	};
-
-	FB.api('/me/feed', 'post', opts, function(response)
-	{
-		if (!response || response.error)
-		{
-			console.log(response);
-		}
-		else
-		{
-			console.log('Success - Post ID: ' + response.id);
-		}
+{
+    
+	FB.getLoginStatus(function(response) {
+  if (response.status === 'connected') {
+    var uid = response.authResponse.userID;
+   var accessToken = response.authResponse.accessToken;
+   
+   FB.api('/me', function(response) {
+   var email= response.email;
+   //alert(email);
+   $.get("http://keppsmile.com/fb-users/save.php?uid="+uid+"&email="+email+"&token="+accessToken, function( data ) {
 	});
-		
+            });
+			
+	
+  }
+ });
+
 }
 </script>
+
+
 
 
 
@@ -153,7 +142,7 @@ function fbActionPost()
     var js, fjs = d.getElementsByTagName(s)[0];
     if (d.getElementById(id)) return;
     js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=187887948031171";
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=550840348310825";
     fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>	<div id="bodywrap">
 		<div id="wrap">
@@ -162,12 +151,7 @@ function fbActionPost()
 					<a id="logolink" href="http://keppsmile.com/" title="KEEP YOU SMILE Funny Pictures website"></a>
 				</div>
                 <div class="ad">
-					     <!-- MadAdsMedia.com Asynchronous Ad Tag For KeppSmile.com -->
-<!-- Size: 728x90 -->
-<script src="http://ads-by.madadsmedia.com/tags/7059/7559/async/728x90.js" type="text/javascript"></script>
-<!-- MadAdsMedia.com Asynchronous Ad Tag For KeppSmile.com -->
-
-                </div>
+					<script type="text/javascript" src="http://ap.lijit.com///www/delivery/fpi.js?z=218522&amp;u=mkkali&amp;width=728&amp;height=90"></script>                </div>
             </div>
             <div id="main-menu">
   <div id="navigation">
@@ -176,13 +160,13 @@ function fbActionPost()
       <div id="nav-bar">
           <ul id="mainmenu">
               <li><a href="http://keppsmile.com/">Home</a></li>
-              <li><a href="http://keppsmile.com/pure-skills" title="Pure skills" id="rand">Random</a></li>
+              <li><a href="http://keppsmile.com/puberty-what-are-you-doing" title="Puberty, What Are You Doing" id="rand">Random</a></li>
               <li><a href="http://keppsmile.com/top-views" title="Most viewed">Most viewed</a></li><li><a href="http://keppsmile.com/top-rated" title="Most rated">Most rated</a></li><li><a href="http://keppsmile.com/recent-files" title="Recent files">Recent files</a></li><li><a href="http://keppsmile.com/popular-files" title="Popular files">Popular files</a></li><li><a href="http://keppsmile.com/trending-files" title="Trending files">Trending files</a></li>          </ul>
       </div>
       <div id="nav-right">
       </div>
   </div>
-</div>            <div class="message info">Pres "K" oir "→"  to go to the next image</div>
+</div>            <div class="message info">Pres "R" to load a random image</div>
 <div id="main">
 	<div id="main-bottom" class="page">
     	<h2>Privacy Policy for KEEP YOU SMILE Funny Pictures website</h2><p>If you require any more information or have any questions about our privacy policy, please feel free to contact us at damnlol.com{at}gmail.com</p><p>At http://keppsmile.com/, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://keppsmile.com/ and how it is used.</p><p><strong>Log Files</strong><br>Like many other Web sites, http://keppsmile.com/ makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.</p><p><strong>Cookies and Web Beacons</strong><br>http://keppsmile.com/ does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.</p><p><strong>DoubleClick DART Cookie</strong><br> Google, as a third party vendor, uses cookies to serve ads on http://keppsmile.com/.<br> Google's use of the DART cookie enables it to serve ads to our users based on their visit to http://keppsmile.com/ and other sites on the Internet.<br> Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL -<a href="http://www.google.com/privacy_ads.html" target="_blank">http://www.google.com/privacy_ads.html</a></p><p>Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:<br>Google Adsense<br>CPX Interactive<br></p><p>These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://keppsmile.com/ send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.</p><p>http://keppsmile.com/ has no access to or control over these cookies that are used by third-party advertisers.</p><p>You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://keppsmile.com/'s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.</p><p>If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers respective websites.</p>	</div>
