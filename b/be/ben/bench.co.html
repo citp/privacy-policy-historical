@@ -1,59 +1,84 @@
-<!--The following is the downloaded HTML source of the bench.co privacy policy that was archived on 2013-08-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130806101920id_/https%3A//bench.co/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bench.co privacy policy that was archived on 2014-02-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140208044811id_/https%3A//bench.co/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us" style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<link href="/assets/css/screen.css" rel="stylesheet" type="text/css" media="screen, projection">
+	<link href="/assets/css/screen.css?0207175627" rel="stylesheet" type="text/css" media="screen, projection">
+    <link href="/assets/css/print.css" rel="stylesheet" type="text/css" media="print">
 	<link href="/assets/webfonts/ss-gizmo/ss-gizmo.css" rel="stylesheet" type="text/css" media="screen, projection">
   <link rel="alternate" type="application/rss+xml" title="Bench Blog" href="/blog/feed.xml">
-	<script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/ckibuthkr6/analytics.min.js"></script><script src="/assets/js/vendor/jquery-1.9.1.min.js"></script>
-	<script src="/assets/js/vendor/parsley-1.1.15.js"></script>
-	<script src="/assets/js/vendor/jquery.json-2.4.min.js"></script>
-	<script src="/assets/js/vendor/ladda.js"></script>
-  <script src="/assets/js/vendor/two.min.js"></script>
-  <script src="/assets/js/vendor/modernizr.js"></script>
-	<script src="/assets/js/common.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenLite.min.js"></script>
-  	<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/latest/easing/EasePack.min.js"></script>
+    <script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/ckibuthkr6/analytics.min.js"></script><script src="//j.maxmind.com/js/country.js" type="text/javascript"></script>
+    <script src="//cdn.optimizely.com/js/303359106.js"></script>
+    <script src="/assets/js/uglify.min.js?0207175627"></script>
     <script>var API_URL = "/api/v1";</script>
     <title>Bench — Privacy Policy</title>
     <meta name="title" content="Privacy Policy">
-    <meta name="description" content="">
+    <meta name="description" content="We take privacy and data security seriously. We are committed to being fair and transparent in the collection and use of your data.">
+    <!-- twitter cards -->
+    <meta name="twitter:site" content="@bench">
+    <meta name="twitter:creator" content="@bench">
+    <meta name="twitter:url" content="https://bench.co/privacy.htm">
+    <meta name="twitter:title" content="Privacy Policy">
+    <meta name="twitter:description" content="We take privacy and data security seriously. We are committed to being fair and transparent in the collection and use of your data.">
+    
+        <meta name="twitter:image" content="https://bench.co/assets/img/press/bench-logo-small.jpg">
+    
+    <!-- Facebook / Open graph cards -->
+    <meta property="og:title" content="Privacy Policy">
+    <meta property="og:url" content="https://bench.co/privacy.htm">
+    <meta property="og:description" content="We take privacy and data security seriously. We are committed to being fair and transparent in the collection and use of your data.">
+    
+        <meta property="og:image" content="https://bench.co/assets/img/press/bench-logo-small.jpg">
+    
+ <script type="text/javascript" src="/templates/common/js/lib/tracekit.js"></script>
+  <script type="text/javascript" src="/templates/common/js/tools/js_logger.js"></script>
     <script type="text/javascript">
   // Create a queue, but don't obliterate an existing one!
-  var analytics = analytics || [];
-  
+  window.analytics || (window.analytics = []);
+
+  // A list of all the methods in analytics.js that we want to stub.
+  window.analytics.methods = ['identify', 'track', 'trackLink', 'trackForm',
+  'trackClick', 'trackSubmit', 'page', 'pageview', 'ab', 'alias', 'ready',
+  'group', 'on', 'once', 'off'];
+
+  // Define a factory to create queue stubs. These are placeholders for the
+  // "real" methods in analytics.js so that you never have to wait for the library
+  // to load asynchronously to actually track things. The `method` is always the
+  // first argument, so we know which method to replay the call into.
+  window.analytics.factory = function (method) {
+    return function () {
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      window.analytics.push(args);
+      return window.analytics;
+    };
+  };
+
+  // For each of our methods, generate a queueing method.
+  for (var i = 0; i < window.analytics.methods.length; i++) {
+    var method = window.analytics.methods[i];
+    window.analytics[method] = window.analytics.factory(method);
+  }
+
   // Define a method that will asynchronously load analytics.js from our CDN.
-  analytics.load = function(apiKey) {
-  
-    // Create an async script element for analytics.js.
+  window.analytics.load = function (apiKey) {
+
+    // Create an async script element for analytics.js based on your API key.
     var script = document.createElement('script');
     script.type = 'text/javascript';
     script.async = true;
     script.src = ('https:' === document.location.protocol ? 'https://' : 'http://') +
                   'd2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/' + apiKey + '/analytics.min.js';
-  
+
     // Find the first script element on the page and insert our script next to it.
     var firstScript = document.getElementsByTagName('script')[0];
     firstScript.parentNode.insertBefore(script, firstScript);
-  
-    // Define a factory that generates wrapper methods to push arrays of
-    // arguments onto our `analytics` queue, where the first element of the arrays
-    // is always the name of the analytics.js method itself (eg. `track`).
-    var methodFactory = function (type) {
-      return function () {
-        analytics.push([type].concat(Array.prototype.slice.call(arguments, 0)));
-      };
-    };
-  
-    // Loop through analytics.js' methods and generate a wrapper method for each.
-    var methods = ['identify', 'track', 'trackLink', 'trackForm', 'trackClick',
-                   'trackSubmit', 'pageview', 'ab', 'alias', 'ready', 'group'];
-    for (var i = 0; i < methods.length; i++) {
-      analytics[methods[i]] = methodFactory(methods[i]);
-    }
   };
+
+  // Add a version so we can keep track of what's out there in the wild.
+  window.analytics.SNIPPET_VERSION = '2.0.8';
+
   
   // Load analytics.js with your API key, which will automatically load all of the
   // analytics integrations you've turned on for your account. Boosh!
@@ -65,6 +90,11 @@
     // Segment.io development key
     analytics.load('ckibuthkr6');
   }
+  
+  // Make our first page call to load the integrations. If you'd like to manually
+  // name or tag the page, edit or move this call to use your own tags.
+  /*  */
+  window.analytics.page();
 
   analytics.pageview(location.href);
 
@@ -82,12 +112,22 @@
     if(window.onload!==NREUMQ.f){NREUMQ.a=window.onload;window.onload=NREUMQ.f;};
     NREUMQ.push(["nrf2","beacon-1.newrelic.com","api-key",1774409,"cV5eEkBfCF1WRBgECFZEQwNAbwVBQ1peAgdGWF8IQR8LR1ZEQQgDRQ==",6,707, new Date().getTime()]);
   });
+
+  if (window.localStorage) {
+      var landingUrl = window.localStorage.getItem("landingUrl");
+      if (landingUrl === undefined || landingUrl === null) { //check if local storage was already populated
+          window.localStorage.setItem("landingUrl", window.location.href);
+          if(document.referrer!=="")
+            window.localStorage.setItem("referrer", document.referrer);
+      }
+  }
+
 </script>
 </head>
   <body>
     <div class="page">
   
-<header id="desktop-topbar" data-menu="desktop" class="topbar header--inverse">
+<header id="desktop-topbar" data-menu="desktop" class="topbar topbar--fade ">
     <div class="masthead">
       <a href="/"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="123.667px" height="29.833px" viewBox="0 0 123.667 29.833" enable-background="new 0 0 123.667 29.833" xml:space="preserve" class="logo">
     <g>
@@ -125,14 +165,12 @@
 </a>
     </div>
     <nav>
-      <ul class="linklist">
-        <li><a href="/pricing.htm">Pricing</a></li>
-        <li><a href="/contact.htm">Contact</a></li>
-        <li><a href="/blog">Blog</a></li>
-      </ul>
-      <ul class="buttonlist">
-        <li><a href="/login.htm" class="btn btn--outline">Login</a></li>
-        <li class="last"><a href="/signup.htm" class="btn btn--outline">Get Started</a></li>
+      <ul class="linklist" id="header__linklist">
+        <li><a class="header__link" id="why-bench-parent" href="/why-bench/bench-method.htm">Why Bench</a></li>
+        <li><a class="header__link" href="/pricing.htm">Pricing</a></li>
+        <li><a class="header__link" href="/syllabus/">Syllabus</a></li>
+        <li><a class="header__link" href="/login.htm">Login</a></li>
+        <li class="last"><a href="/signup.htm" class="btn--fill">Get Started</a></li>
       </ul>
     </nav>
 </header>
@@ -179,16 +217,16 @@
 
 <nav id="mobile-nav" class="mobile-nav" data-target="mobile">
   <ul class="mobile-nav__list">
+    <a class="mobile-nav__link" href="/why-bench/bench-method.htm"><li>Why Bench?</li></a>
     <a class="mobile-nav__link" href="/pricing.htm"><li>Pricing</li></a>
-    <a class="mobile-nav__link" href="/contact.htm"><li>Contact</li></a>
-    <a class="mobile-nav__link" href="/blog"><li>Blog</li></a>
+    <a class="mobile-nav__link" href="/syllabus/"><li>Syllabus</li></a>
   </ul>
   <ul class="mobile-nav__list">
     <!-- Hidden temporarily, maybe shouldn't be available for mobile users.<li><a href="/login.htm" class="btn btn--outline btn--mobile">Login</a></li> -->
     <a href="/signup.htm" class="btn btn--outline btn--mobile"><li>Get Started</li></a>
   </ul>
 </nav>
-<script src="/assets/js/header.js"></script>
+
   <div class="page__title" style="background-image: url(/assets/img/privacy.jpg)">
     <div class="page__header__contents">
       <h1>Privacy Policy</h1>
@@ -196,7 +234,7 @@
     <div class="overlay"></div>
   </div>
   <div class="page__container">
-    <div class="row">
+    <div class="row content">
         <div class="page__contents">
 
 <h5>In a nutshell</h5>
@@ -291,74 +329,138 @@
 </div>
     </div>
   </div>
-  <div class="footer__call_to_action">
-  <div class="row">
-    <div class="columns large-8">
-      <h1>Ready to meet your bookkeeper?</h1>
-      <h6>$100 per month - includes professional online bookkeeper and apps.</h6>
-    </div>
-    <div class="columns large-4">
-      <a href="/signup.htm" class="btn btn--cta">get started</a>
-    </div>
-  </div>
-</div>
+  <!-- 
+Parameters: 
 
-<footer class="footer">
-	<div class="row">
-		<ul class="small-block-grid-2 large-block-grid-4">
-			<li>
-				<div class="footer__chunk">
-					<h1 class="footer__heading">Latest Posts</h1>
-					<ul>
-						
-							<li><a href="/blog/bookkeeping-basics-part-4-balance-sheet">Bookkeeping Basics Part 4 - Balance Sheet</a></li>
-						
-							<li><a href="/blog/why-we-keep-receipts-for-taxes">The Burden of Proof – Why We Keep Receipts for Taxes?</a></li>
-						
-							<li><a href="/blog/bookkeeping-basics-part-3-income-statement">Bookkeeping Basics Part III - Income Statement</a></li>
-						
-					</ul>
-				</div>
-			</li>
-			<li>
-				<div class="footer__chunk">
-					<h1 class="footer__heading">Company</h1>
-					<ul>
-						<li><a href="/contact.htm">Contact</a></li>
-						<li><a href="/careers.htm">Careers</a></li>
-						<li><a href="http://techstars.com">TechStars</a></li>
-					</ul>
-				</div>
-			</li>
-			<li>
-				<div class="footer__chunk">
-				<h1 class="footer__heading">Community</h1>
-				<ul>
-					<li><a href="/blog">Blog</a></li>
-					<li><a href="http://twitter.com/BenchAccounting">Twitter</a></li>
+class - the class the signup block will belong to. Can specify multiple classes delimited by a space. Make sure the combination is unique to this signup block, ie you cannot have two signup blocks with the same classes
+
+id - a unique ID for the signup form elements. Needed for parsley to work properly
+ -->
+
+
+
+<div class="modular__signup">
+	<h5 class="js-US-only hero__offer" id="hero__offer--us" style="display:none;">Get your <strong>January Income Statement</strong> prepared by a <strong>professional accountant</strong> for <strong><em>free:</em></strong></h5>
+	<h5 class="js-CA-only hero__offer" id="hero__offer--us" style="display:none;">Get your <strong>January Income Statement</strong> prepared by a <strong>professional accountant</strong> for <strong><em>free:</em></strong></h5>
+	<h5 class="js-unsupported-location hero__offer" id="hero__warning" style="display:none;">Note: Bench is only available for US and Canadian businesses right now.</h5>
+	<form id="modular__signup_form" class="hero__signup__form" data-validate="parsley">
+    <fieldset>
+        <div class="row">
+
+          <div class="hero__signup__chunk">
+            <div class="row collapse">
+              <span class="hero__signup__icon small-2 columns"><span class="ss-gizmo ss-mail"></span></span>
+              <input class="hero__signup__input js-signup-email small-10 columns parsley-validated" id="modular__signup_email" name="email" type="text" placeholder="Email" data-trigger="change" data-required="true" data-type="email" data-remote="/api/v1/signup.json/account_available" data-remote-message="This email exists in our server">
+            </div>
+          </div>
+
+          <div class="hero__signup__chunk">
+            <div class="row collapse">
+              <span class="hero__signup__icon small-2 columns"><span class="ss-gizmo ss-lock"></span></span>
+              <input class="hero__signup__input js-signup-password-1 small-10 columns parsley-validated" id="modular__signup_password_1" name="password_1" type="password" data-trigger="keyup" placeholder="Password" data-required="true" data-error-message="Please enter a password">
+            </div>
+          </div>
+
+        	<div class="hero__signup__chunk">
+            <div class="row collapse">
+              <span class="hero__signup__icon small-2 columns"><span class="ss-gizmo ss-like"></span></span>
+              <input class="hero__signup__input js-signup-password-2 small-10 columns parsley-validated" id="modular__signup_password_2" name="password_2" type="password" data-trigger="keyup" placeholder="Repeat Password" data-required="true" data-equalto="#modular__signup_password_1" data-error-message="Passwords must match">
+            </div>
+          </div>
+
+          <div class="hero__login__controls">
+            <button class="ladda-button js-signup-submit slide-up btn btn--outline btn--login" id="btn--login" type="submit">
+              <span class="ladda-label label--signup">SIGN UP<i class="ss-right"></i></span> 
+              <span class="ladda-spinner"></span>
+            </button>
+          </div>
+          
+        </div>
+    	</fieldset>
+  	</form>
+</div>
+  <footer class="footer">
+	<div class="footer__main">
+		<div class="row">
+			<div class="columns large-6">
+				<ul class="small-block-grid-3 large-block-grid-3">
+					<li>
+						<div class="footer__chunk">
+							<h6 class="footer__heading">about</h6>
+							<ul>
+								<li><a href="/why-bench/bench-method.htm">Why Bench</a></li>
+								<li><a href="/pricing.htm">Pricing</a></li>
+								<li><a href="/syllabus">Syllabus</a></li>
+							</ul>
+						</div>
+					</li>
+					<li>
+						<div class="footer__chunk">
+						<h6 class="footer__heading">company</h6>
+						<ul>
+							<li><a href="/security.htm">Security</a></li>
+							<li><a href="/careers.htm">Careers</a></li>
+							<li><a href="/press.htm">Press</a></li>
+
+						</ul>
+						</div>
+					</li>
+					<li>
+						<div class="footer__chunk">
+							<h6 class="footer__heading">community</h6>
+							<ul>
+								<li><a href="/support.htm">Support</a></li>
+								<li><a href="https://www.hipchat.com/g47o2iwLE">Live Chat</a></li>
+								<li><a href="/contact.htm">Contact</a></li>
+							</ul>
+						</div>
+					</li>
 				</ul>
+			</div>
+			<div class="columns large-6 footer__contact">
+				<div class="row group">
+				  <a href="mailto:help@bench.co">
+				    <div class="columns large-6">
+				      <div class="footer__contact__icon">
+				        <img src="/assets/img/landing/email.svg">
+				      </div>
+				      <h6>help@bench.co</h6>
+				    </div>
+				  </a>
+
+					<div class="columns large-6">
+					  <div class="footer__contact__icon">
+					    <img src="/assets/img/landing/phone.svg">
+					  </div>
+					  <h6>1.888.760.1940</h6>
+					</div>
 				</div>
-			</li>
-			<li>
-				<div class="footer__chunk">
-					<h1 class="footer__heading">Policies</h1>
-					<ul>
-						<li><a href="/terms.htm">Terms of Service</a></li>
-						<li><a href="/privacy.htm">Privacy Policy</a></li>
-					</ul>
-				</div>
-			</li></ul></div>
-		
-	</footer></div>
-	<div class="row">
-		<div class="large-12 columns">
-			<div class="footer__chunk">
-				<p class="footer__copyright">© Bench 2013</p>
 			</div>
 		</div>
 	</div>
-
-  <script src="/assets/js/page.js"></script>
-
+	<div class="footer__under">
+		<div class="row">
+			<div class="large-12 columns">
+				<div class="footer__copyright">
+					<p>© Bench 2013 – <a href="/terms.htm">Terms of Service</a> – <a href="/privacy.htm">Privacy Policy</a>
+					</p>
+				</div>
+				<div class="footer__social">
+					<a href="http://www.linkedin.com/company/bench-accounting" class="footer__social__icon">
+					  <img src="/assets/img/landing/linkdin.svg">
+					</a>
+					<a href="https://www.facebook.com/BenchAccounting" class="footer__social__icon">
+					  <img src="/assets/img/landing/facebook.svg">
+					</a>
+					<a href="http://twitter.com/bench" class="footer__social__icon">
+					  <img src="/assets/img/landing/bird.svg">
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+</div>
   
+
 <script type="text/javascript" async="" src="https://d7p9czrvs14ne.cloudfront.net/11/eum/rum.js"></script></body></html>
