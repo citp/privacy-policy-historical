@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazyvdo.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824084229id_/http%3A//crazyvdo.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyvdo.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208035309id_/http%3A//crazyvdo.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy at POPVDO
 
