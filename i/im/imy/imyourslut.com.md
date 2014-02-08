@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imyourslut.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128093823id_/http%3A//imyourslut.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imyourslut.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209000104id_/http%3A//imyourslut.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
