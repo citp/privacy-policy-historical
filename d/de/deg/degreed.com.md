@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the degreed.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823104356id_/http%3A//degreed.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreed.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208071448id_/http%3A//degreed.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy | degreed.
+# Privacy Policy | Degreed
 
 ### Privacy Policy
 
-Degreed, Inc. (together with Degreed.com, “Degreed”) is committed to respecting the privacy of the users. We strive to provide a safe, secure online user experience. By choosing to create a Degreed Profile you are agreeing to the terms of this Privacy Policy. This Privacy Policy sets forth the online data collection and usage policies and practices that apply to Degreed. We are not responsible for the privacy policies or practices of other websites to which you choose to link from Degreed. Users participate in Degreed voluntarily.
+Degreed, Inc. (together with Degreed.com, "Degreed") is committed to respecting the privacy of the users. We strive to provide a safe, secure online user experience. By choosing to create a Degreed Profile you are agreeing to the terms of this Privacy Policy. This Privacy Policy sets forth the online data collection and usage policies and practices that apply to Degreed. We are not responsible for the privacy policies or practices of other websites to which you choose to link from Degreed. Users participate in Degreed voluntarily.
 
 #### What Information is Collected
 
@@ -16,7 +16,7 @@ All personal information is gathered directly from Users through online registra
 
 #### Personal Student Information May Be Utilized For the Following Purposes:
 
-To provide information or services that a User has requested; To service a User's account; To improve Degreed's services; To develop and/or inform Users of additional products or services we think will be of interest and benefit to Users; To answer questions Users may have; and to inform winners of scholarships which we run regularly. You may remove your Degreed Profile from our database at any time.
+To provide information or services that a User has requested; To service a User's account; To improve Degreed's services; To develop and/or inform Users of additional products or services we think will be of interest and benefit to Users, including allowing users to share their information with specific universities that the Users are interested in receiving addition information about; To answer questions Users may have; and to inform winners of scholarships which we run regularly. You may remove your Degreed Profile from our database at any time.
 
 #### Scholarships and Scholarship Selection Process
 
