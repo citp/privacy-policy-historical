@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easytechvideos.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605012846id_/http%3A//easytechvideos.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easytechvideos.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208024939id_/http%3A//easytechvideos.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for EasyTechVideos.com
 
@@ -31,8 +31,9 @@ Personally Identifiable Information collected by EasyTechVideos.com is securely 
 Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [info@mediadealer.net](mailto:info@mediadealer.net)
 
 **Are Cookies Used on the Site?**  
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
+Cookies are used by us and cooperating 3rd parties for a variety of reasons. We place Cookies on your computer system to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 
+you may remove cookies through your browsers options menu and prevent cookies from being placed on your computer by adjusting your browsers security & privacy preferences.   
 **How does EasyTechVideos.com use login information?**  
 EasyTechVideos.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
 
