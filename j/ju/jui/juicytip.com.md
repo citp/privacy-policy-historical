@@ -1,79 +1,47 @@
-> *The following text is extracted and transformed from the juicytip.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823182225id_/http%3A//juicytip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juicytip.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208012404id_/http%3A//juicytip.com/privacy) for the most accurate reproduction.*
 
-# 
+# Likes.com
 
-**What information do we collect?**
+We take your privacy very seriously. 
 
-We collect information from you when you register on our site, respond to a survey or fill out a form. 
+##  Introduction 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+juicytip.com (“JuicyTip”) takes the private nature of your personal information very seriously. 
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+This privacy policy describes how we treat the information we collect when you visit and use our websites. Please read this notice very carefully. 
 
- **What do we use your information for?**
+##  Website Visitors 
 
-Any of the information we collect from you may be used in one of the following ways: 
+Like most website operators, JuicyTip collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. JuicyTip’s purpose in collecting non-personally identifying information is to better understand how JuicyTip’s visitors use its website. From time to time, JuicyTip may release non-personally-identifying information in the aggregate, e.g. by publishing a report on trends in the usage of its website. 
 
-* To personalize your experience  
-(your information helps us to better respond to your individual needs)
+JuicyTip also collects potentially personally-identifying information like Internet Protocol (IP) addresses. JuicyTip does not use such information to identify its visitors, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below. 
 
-* To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+##  Aggregated Statistics 
 
-* To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+JuicyTip may collect statistics about the behavior of visitors to its websites. For instance, JuicyTip may monitor the most popular collections on juicytip.com. JuicyTip may display this information publicly or provide it to others. However, JuicyTip does not disclose personally-identifying information other than as described below. 
 
-* To administer a contest, promotion, survey or other site feature
+##  Protection of Certain Personally-Identifying Information 
 
-* To send periodic emails
+JuicyTip discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on JuicyTip’s behalf or to provide services available at JuicyTip’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using JuicyTip’s websites, you consent to the transfer of such information to them. In addition, in some cases we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if JuicyTip or substantially all of its assets were acquired, or in the unlikely event that JuicyTip goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of JuicyTip may continue to use your personal and non-personal information only as set forth in this policy. Otherwise, JuicyTip will not rent or sell potentially personally-identifying and personally-identifying information to anyone. 
 
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+Other than to its employees, contractors and affiliated organizations, as described above, JuicyTip discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when JuicyTip believes in good faith that disclosure is reasonably necessary to protect the property or rights of JuicyTip, third parties or the public at large. If you are a registered user of a JuicyTip website and have supplied your email address, JuicyTip may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with JuicyTip and its products. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. JuicyTip takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information. 
 
- **How do we protect your information?**
+##  Cookies 
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. JuicyTip uses cookies to help JuicyTip identify and track visitors, their usage of JuicyTip websites, and their website access preferences. JuicyTip visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using JuicyTip’s websites, with the drawback that certain features of JuicyTip’s websites may not function properly without the aid of cookies. 
 
-**Do we use cookies?**
+##  Ads 
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Ads appearing on any JuicyTip websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy covers the use of cookies by JuicyTip and does not cover the use of cookies by any advertisers. 
 
-We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+##  Links to Third Party Sites 
 
- **Do we disclose any information to outside parties?**
+This privacy policy only applies to information collected by JuicyTip. This privacy policy does not apply to the practices of companies that JuicyTip does not own or control, or employees that JuicyTip does not manage. A JuicyTip website may contain links to third party websites. Any information you provide to, or that is collected by, third-party sites may be subject to the privacy policies of those sites, if any. We encourage you to read such privacy policies of any third-party sites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your personally-identifying information, and JuicyTip and its affiliates shall not be liable for wrongful use or disclosure of your personally-identifying information by any third party. 
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+##  Privacy Policy Changes 
 
- **Third party links**
+Although most changes are likely to be minor, JuicyTip may change its privacy policy from time to time, and in JuicyTip’s sole discretion. JuicyTip encourages visitors to frequently check this page for any changes to its privacy policy. Your continued use of this site after any change in this privacy policy will constitute your acceptance of such change. 
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+##  Contact Us 
 
- **California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at any time by signing into the site and choosing the "My Profile" link.
-
- **Childrens Online Privacy Protection Act Compliance**
-
-In compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
- **Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://juicytip.com/terms](https://web.archive.org/terms)
-
- **Your Consent**
-
-By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
-
- **Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
-
-This policy was last modified on 2/29/2012
-
- **Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-http://juicytip.com  
-nick@juicytip.com
+If you have any questions about this privacy policy or our sites in general, please contact us at contact@juicytip.com. 
