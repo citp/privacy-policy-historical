@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cybercafepro.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102163411id_/http%3A//www.cybercafepro.com/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybercafepro.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208032752id_/http%3A//www.cybercafepro.com/privacy.pdf) for the most accurate reproduction.*
 
 # 
 
