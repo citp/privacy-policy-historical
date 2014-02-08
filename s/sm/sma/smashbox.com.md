@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smashbox.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925162600id_/http%3A//www.smashbox.com/customer_service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashbox.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208090737id_/http%3A//www.smashbox.com/customer_service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Smashbox Cosmetics
 
@@ -6,7 +6,7 @@
 
 ###  Smashbox Beauty Cosmetics United States Privacy Policy
 
-Effective Date 7/3/2013
+Effective Date 10/16/2013
 
 **Smashbox Beauty Cosmetics (“we, us, or our”)** respects your concerns about privacy and values the relationship we have with you. This Privacy Policy describes the types of personal information we collect about our customers, how we use the information, with whom we share it, and the choices available to our customers regarding our use of the information. We also describe the measures we take to protect the security of the information and how our customers can contact us about our privacy practices.
 
@@ -149,7 +149,7 @@ You can ask Smashbox to stop sending you marketing communications by postal mail
 
   * ####  Text Message Opt-Out
 
-If you so elect, you may provide your mobile phone number in order to receive text message alerts containing product and event information, cosmetics tips or promotions (“Text Messages”). There is no fee from Smashbox to receive Text Messages, however, your mobile service provider may charge you for sending and/or receiving text messages and air-time, as well as any other standard applicable rates charged by your mobile service provider. Participating Carriers are:
+If you so elect, you may provide your mobile phone number in order to receive text message alerts containing product and event information, cosmetics tips or promotions that may be sent using automated dialing systems (“Text Messages”), and your election to receive Text Messages is not otherwise required to purchase any goods or services from us. There is no fee from Smashbox to receive Text Messages, however, your mobile service provider may charge you for sending and/or receiving text messages and air-time, as well as any other standard applicable rates charged by your mobile service provider. Participating Carriers are:
 
     
 
