@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediahb.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107161810id_/http%3A//mediahb.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediahb.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208031157id_/http%3A//mediahb.com/privacy.php) for the most accurate reproduction.*
 
 # MediaHB.com - Privacy Policy
 
