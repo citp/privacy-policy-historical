@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yowgo.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811232418id_/http%3A//www.yowgo.com/page/load/yowgo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yowgo.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208070949id_/http%3A//www.yowgo.com/page/load/yowgo_privacy) for the most accurate reproduction.*
 
 # 
 
