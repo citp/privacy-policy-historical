@@ -1,109 +1,66 @@
-> *The following text is extracted and transformed from the rocketprofit.com privacy policy that was archived on 2011-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110309072835id_/http%3A//media.atrinsic.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketprofit.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208043600id_/http%3A//rocketprofit.com/privacy.php) for the most accurate reproduction.*
 
-# Atrinsic Media Network
+# RocketProfit
 
-Last Updated On March 12, 2010
+Privacy Policy 
 
-**_Atrinsic, Inc. Media Network Privacy Policy_**
+Protecting your private information is our priority. This Statement of Privacy applies to the http://rocketprofit.com and Websites Direct, LLC - Rocketprofit.com and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Websites Direct, LLC - Rocketprofit.com include http://rocketprofit.com, Rocket Profit, Rocketprofit.com, http://rocketprofit.com and http://websitesdirect.net. The Rocket Profit website is a advertising network site. By using the Rocket Profit website, you consent to the data practices described in this statement. 
 
-**General**
+Collection of your Personal Information
 
-This Privacy Policy outlines important information regarding the use and disclosure of information collected via Atrinsic’s Media Network Website(s).  Members of the Atrinsic Media Network include publishers and advertisers involved in advertising transactions (collectively, “Members”). This privacy statement applies only to Member information collected by Atrinsic’s Media Network Website(s). 
+Rocket Profit may collect personally identifiable information, such as your name. If you purchase Rocket Profit's products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. We may gather additional personal or non-personal information in the future. 
 
-ATRINSIC’S PRIVACY POLICY MAY FROM TIME TO TIME CHANGE, UPON ATRINSIC’S SOLE DISCRETION, WITHOUT NOTICE, AND SUCH CHANGES ARE EFFECTIVE UPON POSTING. PLEASE CHECK BACK FREQUENTLY FOR UPDATES AS IT IS YOUR SOLE RESPONSIBILITY TO BE AWARE OF ALL SUCH CHANGES. ATRINSIC DOES NOT PROVIDE NOTICES OF CHANGES IN ANY MANNER OTHER THAN BY POSTING THE CHANGES AT ITS WEBSITE(S). IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT PROVIDE ANY INFORMATION TO ATRINSIC OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON ANY OF ITS WEBSITES.
+Information about your computer hardware and software may be automatically collected by Rocket Profit. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Rocket Profit website. 
 
-ATRINSIC IS NOT RESPONSIBLE FOR THE INFORMATION COLLECTION OR PRIVACY POLICIES AND PRACTICES OF ANY MEMBER, THIRD-PARTY WEBSITES OR APPLICATIONS.
+Rocket Profit encourages you to review the privacy statements of websites you choose to link to from Rocket Profit so that you can understand how those websites collect, use and share your information. Rocket Profit is not responsible for the privacy statements or other content on websites outside of the Rocket Profit website. 
 
-**1.              ****Ownership of Information**
+Use of your Personal Information
 
-**_Atrinsic is the sole owner of the information collected on the Website(s)_**. Atrinsic collects information from our Members at several different points on Atrinsic’s Website(s).
+Rocket Profit collects and uses your personal information to operate its website(s) and deliver the services you have requested. 
 
-**2.              Member Information Collection, Storage, Use and Disclosure**
+Rocket Profit may also use your personally identifiable information to inform you of other products or services available from Rocket Profit and its affiliates. Rocket Profit may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered. 
 
-**                 2.1          Information Collected to Conduct Business**
+Rocket Profit does not sell, rent or lease its customer lists to third parties. 
 
-Member information collected includes personally identifiable information that is necessary to conduct business, including but not limited to: name(s), phone number(s), email address(es), postal addresses, social security number(s) and/or tax ID number(s). Payments made to and from Atrinsic require the provision of and collection of certain personally identifiable information that may include bank account information and credit card numbers. Phone numbers and other personally identifiable information may be used to contact Members for, among other reasons, sales or inventory acquisition purposes.
+Rocket Profit may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. Rocket Profit may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Rocket Profit, and they are required to maintain the confidentiality of your information. 
 
-                **2.2           Information Use and Disclosure**
+Rocket Profit may keep track of the websites and pages our users visit within Rocket Profit, in order to determine what Rocket Profit services are the most popular. This data is used to deliver customized content and advertising within Rocket Profit to customers whose behavior indicates that they are interested in a particular subject area. 
 
-All Member information is used for service(s), media delivery, contact, billing,  accounts payable and other business purposes. We will not sell, share (except as provided for herein or as agreed to by Member(s)), or rent this personally identifiable information to third parties. 
+Rocket Profit will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Rocket Profit or the site; (b) protect and defend the rights or property of Rocket Profit; and, (c) act under exigent circumstances to protect the personal safety of users of Rocket Profit, or the public. 
 
-                                **2.2.1**        **Disclosure through Member Agreements**
+Security of your Personal Information
 
-Atrinsic may use and disclose Member information it collects through any agreement between the Member and Atrinsic.  Pursuant to Atrinsic’s agreements with its Members, Atrinsic may have broad discretion to use and share the information that Members provide, including the right to furnish any or all of that information to other Members or third parties.  Atrinsic shall not be liable or responsible for any use or disclosure of Member information by any other Member or other third party to whom it furnishes such information.
+To secure your personal information from unauthorized access, use or disclosure, Rocket Profit uses the following: 
 
-                                **2.2.2**        **Disclosure through** **Special Offers and Updates**
+Comodo SSL Certificate  
+PositiveSSL CA2 SSL Certificate 
 
-Atrinsic sends all new Members emails to verify their password and username. Established Members will occasionally receive information on products, services and special deals. Out of respect for the privacy of Atrinsic’s Members, Atrinsic presents the option to not receive these types of communications.   _For how to elect to opt-out of receiving such information, please see the Choice/Opt-out section of the Atrinsic Media Network Website(s) or within the Atrinsic Media Network Member Communication Mailings_. 
+When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol. 
 
-Please be advised that Atrinsic reserves the right to use information provided by Members as it deems necessary or appropriate, in its discretion, to satisfy legal and/or business obligations, regardless of a Members “Opt-In” Status.  By way of example, should a Member Opt-Out of receiving Atrinsic Media Network Mailings, Atrinsic will stop communication with that Member regarding the promotion of advertisements via the Atrinsic Media Network; HOWEVER, Atrinsic may choose to continue to communicate with the Member regarding the settlement of any advertising transactions.  Such use of Member information by Atrinsic for legal and/or business obligations as it deems necessary or appropriate in Atrinsic’s discretion, shall not constitute a violation of this privacy policy.
+Children Under Thirteen
 
-**                                 2.2.3       Disclosure through Customer Service**
+Rocket Profit does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website. 
 
-Atrinsic communicates with Members on a regular basis to provide requested services and in regards to issues relating to their account.  Atrinsic may reply via email or phone or correspondence, as determined by Atrinsic. 
+Opt-Out & Unsubscribe
 
-**                                 2.2.4       Disclosure of Aggregate Information (non-personally identifiable information)**
+We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Rocket Profit by contacting us here:
 
-Atrinsic does not share aggregated demographic information with Members. However, Atrinsic does store aggregate data in order to provide outside sources with non-individualized or anonymous or summary information ( _e.g_., general traffic statistics from Atrinsic’s Website(s)).
+\- Web page: www.rocketprofit.com  
+\- Email: complaints@rocketprofit.com   
+\- Phone: +1.720.336.5808
 
-                                **2.2.5        Disclosure through Legal Process**
+Changes to this Statement
 
-Atrinsic may need to disclose Member information in direct response to subpoenas, court orders and other legal processes. Atrinsic may also disclose Member information if Atrinsic believes, in its discretion, such action is necessary or appropriate to comply with any form of legal processes.
+Rocket Profit will occasionally update this Statement of Privacy to reflect company and customer feedback. Rocket Profit encourages you to periodically review this Statement to be informed of how Rocket Profit is protecting your information. 
 
-**                 2.3          Process of Information Collection and Storage**
+Contact Information
 
-                                **2.3.1**        **Collection and Storage.**  
+Rocket Profit welcomes your questions or comments regarding this Statement of Privacy. If you believe that Rocket Profit has not adhered to this Statement, please contact Rocket Profit at: 
 
-All Member information is collected, modified (as needed) and stored in a password protected environment. Collection of Member information occurs through cookies, log files, clear gifs and/or third parties, to create a profile of our Members. A profile is stored information that we keep on individual Members which details their viewing preferences. Atrinsic may, but is not obligated to, retain any Member information that it obtains about a Member if and when a Member leaves Atrinsic’s Network.
+Websites Direct, LLC - Rocketprofit.com  
+600 17th Street, Suite 2800 South  
+Denver, Colorado 80202-5428
 
-                                **2.3.2**        **Cookies**
-
-A cookie is a piece of data stored on the Member’s computer tied to information about the Member. We use session ID cookies to keep track of a Member when they move through our Website.  Cookies may be required to perform transactions on the Atrinsic Media Network Website. Cookies are used to improve the experience consumers have when they see web advertisements. When a consumer responds to or views a web advertisement served by Atrinsic (such as through third-party websites or email solicitation) or visits an Atrinsic Member site, we may send a Cookie and/or gif file to assign an anonymous, unique identifier to the end consumer's Internet browser. One function of these Cookies is to provide Atrinsic with information for the purpose of paying Members a predetermined transactional fee when a consumer clicks on a link, creates a lead or makes a purchase as a result of the consumer’s interaction with a Member's website or Internet marketing. Atrinsic may use Cookies to estimate the total reach of an advertising campaign, as well as frequency of display. This allows Members to determine with greater accuracy the composition of the audience they reach. Cookies may also be used to control the delivery of a series of advertisements to a web browser, and to limit the number of times a web browser receives any one advertisement. Atrinsic reserves the right to retain all ad delivery and reporting data as long as may be reasonably necessary for accounting and audit purposes. Cookies are also used to simplify Member login and to facilitate secure navigation through the password protected areas of the Atrinsic Media Network Website(s). Atrinsic records Member IP addresses at each log-in, and this information is part of a secure database and is password protected. Cookies may also be used to allow Atrinsic to monitor log-ins and site traffic patterns. Members who choose to reject all cookies may have difficulty navigating the password protected areas of the Atrinsic Media Network Website(s).
-
-**                                 2.3.3       Log Files**
-
-Atrinsic’s use of log files includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp and number of clicks to analyze trends, administer the site, track Members’ movement in the aggregate and gather information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
-
-                                **2.3.4**        **Clear Gifs (Web Beacons/Web Bugs)**
-
-Atrinsic employs a software technology called clear gifs ( _a.k.a_. Web Beacons / Tracking Pixels), that help us better manage content on our Website(s) by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Members and consumers. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear gifs are tied to Member and consumer personally identifiable information to allow us to keep track of the transactions that have resulted from third-party and/or Member advertising. In addition, Atrinsic uses clear gifs in our HTML-based emails to let us know which emails have been opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of marketing campaigns. If Members would like to opt-out of these emails, please see the Opt-out section. 
-
-**3.              Legal Disclaimers**
-
-                **3.1           Purchase of List Information**.  If and when Atrinsic purchases third party list information for use in conducting business transactions, Atrinsic seeks assurances from the seller of such lists that the seller has the right to sell or transfer them.  Atrinsic shall not be liable or responsible in the event it purchases list information from a seller who does not have the right to sell or transfer such information.
-
-                **3.2           Members Use of Cookies**.  Members and their networks may use their own cookies, web beacons, tracking pixels and other technology for the purpose of collecting information.  Atrinsic does not control Members’ use of such technology to collect this information and shall not be liable or responsible for the use of such technology to collect such information. 
-
-                **3.3           Links to and Use of Members’ Websites and Their Privacy Practices**.
-
-Atrinsic’s Website(s) contains links to other sites. The inclusion of a link does not imply or constitute an endorsement of the services or the site, its contents or the sponsor.  Each Member is solely and exclusively responsible for establishing, communicating and enforcing its own Privacy Policy.  Atrinsic shall not be liable or responsible for the privacy practices of such other Member or third party sites.  To the maximum extent permitted by law, Atrinsic expressly disclaims any obligation, liability and/or responsibility of any kind or nature to any consumer or Member of any Member’s or third party’s website, including with regard to the collection, processing, storage, use and/or disclosure of such information.  Atrinsic encourages Members to read the privacy statements of each and every website that collects personally identifiable information. 
-
-                **3.4           Information from Members**
-
-To the maximum extent permitted by law, Atrinsic expressly disclaims any obligation, liability and/or responsibility of any kind or nature to any Member, including without limitation, the collection, processing, storage, use and/or disclosure of such Member’s information, where the source of such information is any third party.
-
-                **3.5           Data Processing**
-
-By providing information to Atrinsic, Member acknowledges that Atrinsic operates in the United States and Canada and all such information will be stored in the United Sates and/or Canada.  By using the Website(s), Member consents to the transfer of information to and/or storage of information outside your country and in the United States and/or Canada.
-
-**4.              Security**
-
-Atrinsic takes precautions to protect its Members’ information. When Members submit sensitive information via the Website(s), their information is protected both online and off-line.  When Atrinsic requests Members to enter personally identifiable information (such as credit card numbers and/or social security numbers), that information may be encrypted and protected with SSL encryption software. While Atrinsic may use SSL encryption to protect sensitive information online, Atrinsic also takes measures to protect Member information off-line.  All Member information is restricted in Atrinsic’s offices, and only those employees who need the information to perform a specific job are granted access to personally identifiable information. Furthermore, all employees are kept up-to-date on our security and privacy practices. The servers that store personally identifiable information are in a secure environment, behind a electronic firewall and housed in secure facility that employs strict security measures to restrict physical access. Notwithstanding such measures, Atrinsic cannot guarantee that its security measures will prevent Atrinsic’s computers from being illegally accessed and the personally identifiable information on them from being stolen or altered. 
-
-**5.              Choice/Opt-out**
-
-Members are given the opportunity to ‘Opt-Out’ of having their information used for purposes not directly related to Atrinsic’s Media Network Website(s) by changing their preferences or clicking on an Opt-Out link within a Member communication. Members who no longer wish to receive Atrinsic’s promotional communications may opt-out of receiving these communications by sending an email to [amnoptout@atrinsic.com](mailto:amnoptout@atrinsic.com).  The Member also may contact us at Atrinsic Media Network, 469 7th Avenue, 10th Floor, New York, NY 10018.
-
-Please be advised that Atrinsic reserves the right to use information provided by Members as it deems necessary or appropriate, in its discretion, to satisfy legal and/or business obligations, regardless of a Members “Opt-In” Status.  By way of example, should a Member Opt-Out of receiving Atrinsic Media Network Mailings, Atrinsic will stop communication with that Member regarding the promotion of advertisements via the Atrinsic Media Network; HOWEVER, Atrinsic may choose to continue to communicate with the Member regarding the settlement of any advertising transactions.  Such use of Member information by Atrinsic for legal and/or business obligations as it deems necessary or appropriate in Atrinsic’s discretion, shall not constitute a violation of this privacy policy.
-
-**6.              Correcting/Updating/Deleting/Deactivating Personal Information**
-
-If a Member’s personally identifiable information changes (such as credit card number, email or postal address), or if a Member no longer desires Atrinsic’s service, the Member can correct, update or delete/deactivate Member’s personally identifiable information by emailing at [amncs@atrinsic.com](mailto:amncs@atrinsic.com) or by contacting us at Atrinsic Media Network, 469 7th Avenue, 10th Floor, New York, NY 10018
-
-**7.              Contact Information**
-
-If Members have any questions or suggestions regarding Atrinsic’s privacy policy, please contact us at:
-
-**Email:** _[amnppinfo@atrinsic.com](mailto:amnppinfo@atrinsic.com)_
-
-**Postal Address:** Atrinsic Media Network, 469 7th Avenue, 10th Floor, New York, NY 10018
+Email Address:  
+info@rocketprofit.com  
+Effective as of October 01, 2013
