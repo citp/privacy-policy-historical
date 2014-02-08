@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationaldelight.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112035118id_/http%3A//www.internationaldelight.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationaldelight.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208020421id_/http%3A//www.internationaldelight.com/Privacy-Policy) for the most accurate reproduction.*
 
 # International Delight: Privacy Policy - International Delight Coffee Creamer - Flavor Your World/block} privacy
 
