@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myvirpus.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126035202id_/http%3A//virpus.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvirpus.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208030223id_/http%3A//virpus.com/legal/privacy.html) for the most accurate reproduction.*
 
-# Virpus | Privacy Policy
+# Our Privacy Policy | Virpus
 
 Virpus Networks is strongly committed to protecting the privacy of consumers of its interactive products and services. Through the Internet, our primary goal is to contribute to providing a safe and secure environment for consumers and site visitors just looking for information.   
 
