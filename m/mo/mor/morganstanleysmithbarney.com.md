@@ -1,168 +1,153 @@
-> *The following text is extracted and transformed from the morganstanleysmithbarney.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025092135id_/http%3A//www.morganstanleyindividual.com/customerservice/mssbms_privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morganstanleysmithbarney.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208042754id_/https%3A//www.morganstanleyclientserv.com/contentmanagement/HTMLFiles/pdf/online_privacy_policy.pdf) for the most accurate reproduction.*
 
-# Privacy Notice
+# MORGAN STANLEY SMITH BARNEY, LLC ONLINE PRIVACY POLICY
 
-Privacy Notice
-This privacy notice describes the U.S. privacy policy of Morgan Stanley Smith Barney LLC (“us,” “our” or “we”).   Personal Questions
-   We are required by federal law to provide you with notice of our U.S. privacy policy (“Policy”). This Policy
-applies to both our current and former clients unless we state otherwise and is intended for individual clients   1. What personal
-who purchase products or receive services from us for personal, family or household purposes. This Policy         information do we
-is not applicable to partnerships, corporations, trusts or other non-individual clients or account holders, nor   collect about you?
-is this Policy applicable to individuals who are either beneficiaries of a trust for which we serve as trustee or
-                                                                                                                  2. When do we disclose
-participants in an employee benefit plan administered or advised by us. This Policy is, however, applicable
-                                                                                                                  personal information
-to individuals who select us to be a custodian of securities or assets in individual retirement accounts, 401(k)
-                                                                                                                  we collect about you?
-accounts, or accounts subject to the Uniform Gifts to Minors Act.
-   This notice sets out our business practices to protect your privacy; how we collect and share personal         3. How do we protect
-information about you; and how you can limit our sharing or certain uses by others of this information. We        the security and
-may amend our Policy at any time, and will inform you of any changes to our Policy as required by law.            confidentiality of
-We Respect Your Privacy                                                                                           personal information
-                                                                                                                  we collect about you?
-We appreciate that you have provided us with your personal financial information and understand your
-concerns about your information. We continue to follow the long-standing commitment to safeguard the              4. How can you limit our
-information our clients entrust to us. Protecting the confidentiality and security of client information is an    sharing certain personal
-important part of how we conduct our business.                                                                    information about
-   This notice describes what personal information we collect about you, how we collect it, when we may           you with our affiliated
-share it with others, and how certain others may use it. It discusses the steps you may take to limit our shar-   companies for eligibility
-ing of certain information about you with our affiliated companies, including but not limited to our affiliated   determination?
-investment management businesses, our banking businesses and our credit services affiliates. It also discloses
-how you may limit our affiliates’ use of shared information for marketing purposes.                               5. How can you limit
-   Throughout this notice, we refer to the nonpublic information that personally identifies you as “personal      the use of certain
-information.” We also use the term “affiliated company” in this notice. An affiliated company is a company in     personal information
-our family of companies, and includes companies with the Morgan Stanley name. These affiliated companies          about you by our
-are financial institutions, such as broker-dealers, banks, and credit card issuers. We refer to any company       affiliated companies
-that is not an affiliated company as a nonaffiliated third party.                                                 for marketing?
-    For purposes of Section 5 of this notice, and your ability to limit certain uses of personal information by
-our affiliates, this notice applies to the use of personal information by our affiliated companies.               6. How can you send us
-                                                                                                                  an opt-out instruction?
-1. What personal information do we collect about you?
-We may collect the following types of personal information about you: (i) information provided by you,            7. What if an affiliated
-including information from applications and other forms we receive from you, (ii) information about your          company becomes
-transactions with us or our affiliates, (iii) information about your transactions with nonaffiliated third par-   a nonaffiliated
-ties, (iv) information from consumer reporting agencies, (v) information obtained from our websites, and          third party?
-(vi) information obtained from other sources.
-    For example:
-        We collect information such as your name, address, email address, telephone/fax numbers, assets,
-         income and investment objectives through applications and other forms you submit to us.
-       We may obtain information about account balances, your use of account(s) and the types of
-         products and services you prefer to receive from us through your dealings and transactions with
-         us and other sources.
+                         MORGAN STANLEY SMITH BARNEY, LLC
+                                    ONLINE PRIVACY POLICY
+Effective Date January 10, 2014
+Overview
+Morgan Stanley Smith Barney LLC (“MSSB”, “us”, “our” or “we”) appreciates that you have
+provided us with your personal information and protecting that information is an important part
+of how we conduct our business. We believe it is important for you to know how we treat
+information about you that we may receive from this site (“Site”) or through a software
+application on a mobile device that was created by Morgan Stanley Smith Barney LLC (an
+“App”). Please read this Privacy Policy carefully before using this Site or an App (collectively,
+our “online services”). This Privacy Policy currently is applicable only to United States
+consumers and only when they access and use this Site or an App, and may not be applicable to
+transactions performed and information collected in other channels. Our online services are not
+directed to or intended for individuals under 18 years of age.
+This Online Privacy Policy describes how we collect, use, share and protect information when
+you access or use our online services and how you can update and control the use of information
+provided through our online services. This Online Privacy Policy does not apply to other
+information we collect, including information collected on other sites, such as separate sites
+operated by our affiliates or business partners or other information you may provide to us
+through other means.
+If you have a financial product or service with us, we will use and share any information that we
+collect from or about you in accordance with our U.S. Customer Privacy Notice, which offers
+you certain choices with respect to the use and sharing of your personal information.
+Information Collected
+Personal information means personally identifiable information such as information you provide
+via forms, applications or other online fields including name, postal or email addresses,
+telephone, fax or mobile numbers, account numbers, user name and password. There are
+portions of our online services where we may collect personal information about you for
+identification purposes or to fulfill your online requests. We may obtain information about you
+directly from you, through your use of our products and services and from third parties (such as
+credit bureaus and demographic firms).
+In addition, when you visit our Site, our web servers collect the IP address of the device you used
+to access the Internet, which pages on our Site you visited and when they were visited, your
+Internet browser type and platform, the link that brought you to our Site and any links clicked
+Page | 1                                                                                  1/31/2014
 
 
-         e may obtain information about your creditworthiness
-        W                                                              that comply with applicable law and regulations to help safeguard
-        and credit history from consumer reporting agencies.           the personal information we collect about you. We have internal
-       We may collect background information from and through         policies governing the proper handling of client information by
-        third-party vendors to verify representations you have         employees. Third parties that provide support or marketing services
-        made and to comply with various regulatory requirements.       on our behalf may also receive personal information about you, and
-                                                                       we require them to adhere to appropriate security standards with
-2. When do we disclose personal information we collect
-                                                                       respect to such information.
-about you?
-We may disclose personal information we collect about you in each      4. How can you limit our sharing certain personal informa-
-of the categories listed above to affiliated companies and to nonaf-   tion about you with our affiliated companies for eligibility
-filiated third parties.                                                determination?
-    a. Information we disclose to affiliated companies                 By following the opt-out procedures in Section 6, below, you may
-    We may disclose personal information that we collect about you     limit the extent to which we share with our affiliated companies
-to our affiliated companies, which include both financial service      personal information that was collected to determine your eligibil-
-providers and non-financial companies, for a variety of reasons,       ity for products and services such as your credit reports and other
-including to manage your account(s) effectively, to service and        information that you have provided to us or that we may obtain from
-process your transactions, to let you know about products and          third parties (“eligibility information”). Eligibility information does
-services offered by us and our affiliated companies, to manage our     not include your identification information or personal information
-business, and as otherwise required or permitted by law. Offers for    pertaining to our transactions or experiences with you. Please note
-products and services from our affiliated companies are developed      that, even if you direct us not to share eligibility information with
-under conditions designed to safeguard your personal information.      our affiliated companies, we may still share your personal informa-
-    b. Information we disclose to nonaffiliated third parties          tion, including eligibility information, with our affiliated companies
-    We may disclose personal information that we collect about         under circumstances that are permitted under applicable law, such
-you to nonaffiliated third parties, which include both financial       as to process transactions or to service your account.
-service providers and non-financial companies. We may disclose
-                                                                       5. How can you limit the use of certain personal information
-all of the information we collect, as described above, to companies    about you by our affiliated companies for marketing?
-that perform marketing services on our behalf or to other financial
-                                                                       By following the opt-out instructions in Section 6, below, you may
-institutions with whom we have joint marketing agreements. We
-                                                                       limit our affiliated companies from marketing their products or
-may also disclose all of the information we collect to other non-
-                                                                       services to you based on personal information we disclose to them.
-affiliated third parties for our everyday business purposes, such
-                                                                       This information may include, for example, your income and your
-as to process transactions, maintain account(s), respond to court
-                                                                       account history with us. Please note that, even if you choose to
-orders and legal investigations, report to credit bureaus, offer our
-                                                                       limit our affiliated companies from using personal information
-own products and services, protect against fraud, for institutional
-                                                                       about you that we may share with them for marketing their prod-
-risk control, to perform services on our behalf, and as otherwise
-                                                                       ucts and services to you, our affiliated companies may use your
-required or permitted by law.
-                                                                       personal information that they obtain from us to market to you in
-    For Morgan Stanley Wealth Management clients, we recognize
-                                                                       circumstances permitted by law, such as if the affiliated party has
-that your relationship with your Financial Advisor or Private Wealth
-                                                                       its own relationship with you.
-Advisor is important. If your Financial Advisor or Private Wealth
-Advisor’s affiliation with us ends and he or she joins a nonaffiliated 6. How can you send us an opt-out instruction?
-securities broker-dealer with which we have entered into an agree-     If you wish to limit our sharing of eligibility information about you
-ment limiting the use of information, we will permit your Financial    with our affiliated companies, or our affiliated companies’ use of
-Advisor or Private Wealth Advisor to retain certain of your contact    personal information for marketing purposes, as described in this
-information, limited to your name, address, email address, phone       notice, you may do so by:
-number and account title. Other than the disclosure described in         • Calling us at 1-800-295-1460.
-this paragraph or as otherwise required or permitted by law, we do       • Sending an email to privacy-optout@morganstanley.com, or
-not disclose any personal information about our former customers.        •W riting to us at the following address:
-    When we share personal information about you with a nonaf-             Morgan Stanley
-filiated third party, they are required to limit their use of personal     Client Correspondence Department
-information about you to the particular purpose for which it was           PO Box 95002
-shared and they are not allowed to share personal information about        South Jordan, UT 84095
-you with others except to fulfill that limited purpose or as may be
-                                                                          If you choose to email or write to us, your request should include
-permitted or required by law.
-                                                                       your name, address, telephone number and account number(s) to
-3. How do we protect the security and confidentiality of               which the opt-out applies and whether you are opting out with
-personal information we collect about you?                             respect to sharing of eligibility information (Section 4 above), or
-We maintain physical, electronic and procedural security measures      information used for marketing (Section 5 above), or both. Written
+within our Site. This information may be used by us, our service providers, affiliates and
+business partners to measure the number of visits, average time spent, page views and other
+statistics about visitors to our Site. We also use this data to monitor Site performance and make
+the Site easier and more convenient to use.
+Our web servers also seek (as many websites do) to place a “cookie” (a small data file) on your
+computer’s hard drive which allows the server to determine the computer when it visits again in
+order to track statistical information about navigation to and throughout certain areas of our Site.
+This cookie is not used to obtain your name or any personal information, and the information
+that is tracked is used only for internal purposes, such as to improve site navigation and to
+measure the effectiveness of our Site, and is not shared with anyone other than MSSB affiliates
+and contractors who assist MSSB in these efforts and who are bound to confidentiality. Many
+web browsers allow you to control the use of most cookies through their browser settings. To
+learn more about cookies, including information on what cookies have been set on your
+computer and how cookies can be managed and deleted, visit www.allaboutcookies.org. Unless
+you have adjusted your browser setting so that it will reject cookies, our system will issue
+cookies when you access or use our Site. In the event you refuse to accept cookies by adjusting
+your browser setting, some or all areas of our Site may not function properly or may not be
+accessible. To view our and our affiliates’ full Global Cookies Policy, click here.
+When you download and use our Apps, we and companies we work with may track and collect
+application usage data, such as the date and time the App on your device accesses our servers
+and what information and files have been downloaded to the App based on your unique device
+identifier, and may also collect the IP address of the device on which you use the App. In
+addition, we may gather information such as which version of the application you are using, your
+screen resolution, the type of operating system you have and your device model and
+manufacturer. This information helps us provide a mobile experience that matches your device
+and also helps us calculate usage levels of the App, diagnose problems, ensure that the App
+functions properly and otherwise administer the App.
+When you connect to us using a mobile application if you use any location-enabled products, you
+may be sending us location information. MSSB does not store or use this information other than
+to provide the service you requested. For example, a mobile product may use specific GPS data
+to help you find a nearby retail branch, ATM or financial advisor. Location-enabled features are
+opt-in and you have control over your participation and can turn these services off at any time.
+Some mobile applications will utilize analytic tools to help us better serve our customers through
+improved products, services, and revisions to the mobile applications. This collected information
+does not identify you to MSSB. It may, however let us know anonymously, which services and
+features you are using the most within the application, as well as device type and hardware
+features, country and language of download.
+Page | 2                                                                                   1/31/2014
 
 
-opt-out requests should not be sent with any other correspondence.                 other than those who are providing you this notice, you may receive
-In order to process your request, we require that the request be                   multiple privacy notices from them. You will need to separately
-provided by you directly and not through a third party. Once you                   notify those companies of your privacy choices for those accounts
-have informed us about your privacy preferences, your opt-out                      or relationships.
-preference will remain in effect with respect to our Policy (as it
-                                                                                   7. What if an affiliated company becomes a nonaffiliated
-may be amended) until you notify us otherwise. If you are a joint
-                                                                                   third party?
-account owner, we will accept instructions from any one of you
-                                                                                   If, at any time in the future, an affiliated company becomes a nonaf-
-and apply those instructions to the entire account.
-                                                                                   filiated third party, further disclosures of personal information made
-  Please understand that if you limit our sharing or our affiliated
-                                                                                   to the former affiliated company will be limited to those described
-companies’ use of personal information, you and any joint account
-                                                                                   in Section 2(b) above relating to nonaffiliated third parties. If you
-holder(s) may not receive information about our affiliated com-
-                                                                                   elected under Section 6 to limit disclosures we make to affiliated
-panies’ products and services, including products or services that
-                                                                                   companies, or use of personal information by affiliated companies,
-could help you manage your financial resources and achieve your
-                                                                                   your election will not apply to use by any former affiliated company
-investment objectives.
-                                                                                   of your personal information in their possession once it becomes
-  If you have more than one account or relationship with us, please
-                                                                                   a nonaffiliated third party.
-specify the accounts to which you would like us to apply your privacy
-choices. If you have accounts or relationships with our affiliates,
-           special notice to residents of vermont
-           The following section supplements our Policy with respect to our individual clients who have a Vermont address and supersedes anything
-           to the contrary in the above Policy with respect to those clients only.
-           The state of Vermont requires financial institutions to obtain your consent prior to sharing personal information that they collect about
-           you with nonaffiliated third parties, or eligibility information with affiliated companies, other than in certain limited circumstances.
-           Except as permitted by law, we will not share personal information we collect about you with nonaffiliated third parties, or eligibility
-           information with affiliated companies, unless you provide us with your written consent to share such information.
-           special notice to residents of california
-           The following section supplements our Policy with respect to our individual clients who have a California address and supersedes
-           anything to the contrary in the above Policy with respect to those clients only.
-           In response to a California law, if your account has a California home address, your personal information will not be disclosed to
-           nonaffiliated third parties except as permitted by applicable California law, and we will limit sharing such personal information with
-           our affiliates to comply with California privacy laws that apply to us.
-© 2013 Morgan Stanley Smith Barney LLC. Member SIPC.                                                                                         CS 7653303 08/13
+Do Not Track Policy
+We do not engage in the collection of personal information about your online activities over time
+and across third –party Web sites or online services and do not allow third parties to collect
+personal information about your online activities over time and across third-party Web sites
+when you use our online services. We do not respond to Web browser “do not track signals”.
+Use of Collected Information
+We may use information you provide us through our online services to:
+    •   respond to your questions and requests;
+    •   provide customer support;
+    •   provide specified services to you;
+    •   contact you about updates to our service;
+    •   send you marketing communications that we believe may be of interest to you;
+    •   verify/authenticate your identity and/or location in order to allow access to your accounts,
+        conduct online transactions and to maintain measures aimed at fraud detection and
+        prevention and protecting the security of accounts, personal information and our online
+        services;
+    •   allow you to use certain Site financial planning tools;
+    •   consolidate your financial account information at one online location;
+    •   manage institutional risk; and
+    •   comply with laws, regulations, legal processes and law enforcement requirements.
+Any personal information we collect through our online services may be shared pursuant to our
+U.S Customer Privacy Notice which may include service providers, financial institutions with
+whom we jointly offer financial products, our affiliates, or as permitted or required by law (such
+as credit bureau agencies, business we buy or sell assets from, and law enforcement or
+government agencies).
+If we have personal information from you, or information that is publicly available from other
+sources, we may use it in combination with the information that we have collected through our
+online services. We can use this information to better tailor and personalize our services and
+marketing communications with you, both online and offline.
+We may also use and share data that we collect on an aggregate or anonymous basis (such that it
+does not identify any individual customers) for various business purposes, where permissible
+under applicable laws and regulations.
+Our Security Procedures
+At MSSB, our goal is to protect your personal information submitted to us through our online
+services. We maintain reasonable physical, electronic, and procedural safeguards that comply
+Page | 3                                                                                  1/31/2014
+
+
+with federal standards to guard nonpublic personal information about you against loss, misuse or
+unauthorized access, disclosure, alteration or destruction of the information you have provided to
+us through our online services. We have internal policies governing the proper handling of client
+information by employees. Employees who misuse customer information are subject to
+disciplinary action. Third parties that provide support or marketing services on our behalf may
+also receive personal information about you, and we require them to adhere to appropriate
+security standards with respect to such information.
+Updating Your Information
+You may review, or update certain account information by logging in to this Site. If you cannot
+change the incorrect information online, or you prefer to request changes offline, please update
+such information by contacting your financial advisor or customer service using the contact
+information listed on your account statements, records, or other account materials.
+Links to Other Sites
+This Online Privacy Policy only applies to the use and disclosure of information we collect
+through our online services. Our Site may contain links to other sites such as other Morgan
+Stanley websites and sites belonging to our business partners (who are not affiliated with us).
+The inclusion of a link on our Site or App does not imply endorsement of the linked site or
+service by us. While we try to link only to sites that share our high standards and respect for
+privacy, we are not responsible for the content, security, or privacy practices employed by other
+sites. Information you disclose to other parties or through such sites is subject to the privacy and
+security practices and policies of those parties or sites.
+International Users
+Our online services are United States-based and are controlled, operated and administered by
+MSSB from its offices within the United States of America. This Online Privacy Policy is
+provided in accordance with and subject to applicable U.S. law. If you decide to continue to
+access our online services from your location outside the United States, you hereby agree that
+your use of those services is subject to this Online Privacy Policy and your personal information
+may be transferred or processed in the United States.
+Changes to this Privacy Policy
+We reserve the right to modify or supplement this Online Privacy Policy at any time. Therefore,
+we recommend that you review this Online Privacy Policy, updated and posted on this Site,
+regularly for changes. The Effective Date of this Online Privacy Policy, as stated above,
+indicates the last time this Online Privacy Policy was revised or materially changed.
+Page | 4                                                                                    1/31/2014
