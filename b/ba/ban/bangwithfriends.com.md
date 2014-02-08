@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bangwithfriends.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816041754id_/http%3A//bangwithfriends.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangwithfriends.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208070041id_/http%3A//www.downapp.com/privacy) for the most accurate reproduction.*
 
-# Bang With friends- Privacy
+# DOWN - Privacy
 
 ## Privacy Policy
 
-This Privacy Policy governs the manner in which Bang With Friends collects, uses, maintains and discloses information collected from users (each, a "User") of the www.bangwithfriends.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Bang With Friends. 
+This Privacy Policy governs the manner in which DOWN collects, uses, maintains and discloses information collected from users (each, a "User") of the www.downapp.com website ("Site"). This privacy policy applies to the Site and all products and services offered by DOWN. 
 
 ### Personal identification information
 
@@ -20,13 +20,12 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 ### How we use collected information
 
-Bang With Friends may collect and use Users personal information for the following purposes: 
+DOWN may collect and use Users personal information for the following purposes: 
 
-— To personalize user experience   
+• To personalize user experience   
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.   
-— To process payments   
+• To process payments   
 We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.   
-— To send periodic emails   
 We may use the email address to respond to their inquiries, questions, and/or other requests. 
 
 ### How we protect your information
@@ -43,17 +42,20 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 ### Changes to this privacy policy
 
-Bang With Friends has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
+DOWN has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
 
 ### Your acceptance of these terms
 
 By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
 
-  
+We may use the email address to respond to their inquiries, questions, and/or other requests. 
 
+### How we protect your information
 
-### Contacting us
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [feedback@downapp.com](mailto:feedback@downapp.com)
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: Bang With Friends www.bangwithfriends.com 
+### This website is protected with SSL Protocol
 
-##### This document was last updated on December 12, 2012
+[ ](https://www.positivessl.com/)
+
+##### This document was last updated on December 12, 2013
