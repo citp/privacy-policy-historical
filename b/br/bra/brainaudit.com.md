@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainaudit.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219152954id_/http%3A//brainaudit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainaudit.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208062503id_/http%3A//brainaudit.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Brain Audit
 
