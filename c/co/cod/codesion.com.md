@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codesion.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529181858id_/http%3A//www.collab.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codesion.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208092751id_/http%3A//www.collab.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CollabNet
 
@@ -120,7 +120,7 @@ If you have any questions about any of these practices or CollabNet's use of you
 
 CollabNet, Inc.  
 Legal Department  
-8000 Marina Boulevard, Suite 600  
-Brisbane, California 94005
+4000 Shoreline Court, Suite 300  
+South San Francisco, CA 94080
 
 The Terms were last amended on March 28, 2012.
