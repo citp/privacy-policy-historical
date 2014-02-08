@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alphasandesh.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810120901id_/http%3A//www.alphasandesh.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphasandesh.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208053016id_/http%3A//www.alphasandesh.com/privacy.php) for the most accurate reproduction.*
 
 # Mass email marketing company-Alphasandesh.com
 
@@ -8,7 +8,7 @@ Our policy includes transparency, accountability and choice regarding the collec
 
 If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact us and we will then serve you to resolve your concerns.
 
-This page is to help you understand how we collect and use the personal information you provide us and to help you make the appropriate decisions when using our services. 
+This page is to help you understand how we collect and use the personal information you provide us and to help you make the appropriate decisions when using our services.
 
 ## What information we gather and track
 
@@ -24,7 +24,7 @@ We may use your personal information such as your email address for sending upda
 
 We may use your IP address to help diagnose problems with our server and to administer our website. Tracking your browser and screen resolution type help us understand your needs related to our website presentation.
 
-Monitoring the data stored in your account and volume of emails you send allows us to anticipate product usage and ensure we have sufficient infrastructure in place to provide the expected service for our users. 
+Monitoring the data stored in your account and volume of emails you send allows us to anticipate product usage and ensure we have sufficient infrastructure in place to provide the expected service for our users.
 
 ## With whom this site shares information it gathers/tracks
 
