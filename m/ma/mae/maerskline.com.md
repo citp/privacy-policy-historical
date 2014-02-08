@@ -1,61 +1,62 @@
-> *The following text is extracted and transformed from the maerskline.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502212909id_/http%3A//www.maerskline.com/link/%3Fpage%3Dbrochure%26path%3D/user_terms_general/user_terms_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maerskline.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208203432id_/http%3A//terms.maerskline.com/privacy) for the most accurate reproduction.*
 
-# Maersk Line shipping containers worldwide
+# Privacy and Cookie Policy | Maerskline Terms
 
-Privacy statement for www.maerskline.com 
+This website is provided and controlled by A. P. Møller – Mærsk A/S, Esplanaden 50, DK-1098 Copenhagen K, Denmark, CVR no.: 22 75 62 14 (“Maersk”).
 
-Maersk Line has created this privacy statement in order to demonstrate our commitment to protect the privacy of our users. 
+##  1\. Scope 
 
-**Personal Information**   
-The registration form used for accessing the Maersk Line website and its interactive shipping applications requires for users to give us contact details such as (name, address and communication details). This information is being used to send information and promotional material to registered users about our company and new applications to be launched on our website. 
+Maersk recognizes and respects the importance of the privacy of our visitors of our websites. This policy accounts for the personal data and cookies etc. used via our websites. If you do not agree with the terms herein, please do not use this website and delete the cookies placed by the website.
 
-The information or data registered via www.maerskline.com are not made publicly available. 
+Please be aware that a separate privacy statement applies to recruitment. The privacy state-ment applicable to recruitment is available [here](http://www.maersk.com/Career/Vacancies/Pages/PrivacyStatement_EN.aspx). However, the section on cookies below also applies to recruitment.
 
-www.maerskline.com has security measures in place to protect the user information registered in our systems. These measures include restricted access to databases containing user information, protected by digital certificates. 
+##  2.  Personal data
 
-Except as set out below or as may be otherwise agreed, Maersk Line does not publish, share, trade, sell or otherwise disseminate any of the information or data registered or provided to us to any other party. Maersk Line may, however, be obligated and are entitled to disclose information and data registered or provided to us in compliance with applicable law, court or arbitration orders, judgements awards or other legal processes served or in compliance with requests by any entitled authority, body or person or to protect the interests, rights, property of Maersk Line, our users or others. 
+On our websites, we may collect information about name, postal address, email address, other contact information, age, interests, gender, IP addresses and other personal data. Our websites are intended for a general audience, and Maersk does not knowingly collect personal data about any person under the age of 18 years.
 
-In addition, Maersk Line may disclose any information and/or data registered via www.maerskline.com to and co-operate with authorities in any jurisdiction in relation to any direction or request to disclose such information and/or data regarding any user or the use of the website, content or services. 
+We process personal data for the following purposes:
 
-Should any information or data be transferred to a recipient based outside the EU/EEA, Maersk Line will ensure prior to such transfer that the recipient’s level of data protection is sufficient. 
-
-During your use of our website we automatically collect IP addresses and other information concerning your use of our website in order to (i) help diagnose problems with our server,  (ii) identify ways of making our site better, (iii) ensure that the website is used in accordance with relevant legislation and the applicable user terms, and (iv) for any processing which Maersk Line is required to perform under applicable law, court or arbitration orders, judgements awards or other legal processes served or for the processing of information as set out above.
-
-**Cookies**   
-A cookie is information that a web site puts on your hard disk so that it can remember something about you at a later time. (More technically, it is information for future use that is stored by the server on the client side of a client/server communication.) We use 'cookies' to generate digital certificates that identifies the user when logging on to our interactive shipping services. 'Cookies' are also used to control the correct display of the website navigation bar. 
-
-  
-**Live Help**   
-What is Live Help? 
-
-Live Help is an on-line user and e-business support function providing technical and business support for the Maersk Line website. 
-
-Live Help is designed to provide: 
-
-  * online problem solving 
-  * management of customer queries 
-  * facilitate and ensure follow-up by the Maersk Line organisation 
+  * Provision of Maersk services and products and to accommodate your requests and inquiries
+  * Provision of newsletters offered by Maersk
+  * The purposes listed in the below cookie section
 
 
 
+As a global group Maersk may transfer personal data collected by us on an aggregated or individual level to various divisions, subsidiaries, joint ventures and affiliated companies of A.P. Møller – Mærsk A/S (“Maersk Group”) around the world located inside or outside the European Economic Area for the purposes stated above, as well to data processors outside of Maersk in India or other countries globally for storage and service purposes. Personal data will not be disclosed to anyone outside the Maersk Group without your consent unless permitted or required under applicable legislation.
 
-Live Help is not intended to negotiate or settle on-line issues of commercial or contractual nature or the like matters. However, Live Help will relay and manage such matters internally in Maersk Line to ensure follow-up - all to the benefit of our website users. 
+We delete or anonymize your personal data when it is no longer needed for the purposes for which it was collected and subsequently processed.
 
-To the benefit of our website users, we will record and keep transcripts of all communications concerning support issues raised through Live Help. 
+If you have submitted personal data to us, e.g. when registering for a newsletter, you enjoy certain rights to access and rectify data, however, subject to certain legal limitations.
 
-This is done only to facilitate any repeated or recurring contacts on issues addressed earlier by the individual user and for internal education and training purposes. Transcripts will be stored in a secure and confidential manner and, except as may be required to comply with prevailing law or judgments, awards, orders and the like, or to meet the well-founded and reasonable requests by a public authority, body or person, will be available only to Maersk Line and the concerned user. Transcripts will be stored for 7 years except where a user in writing has specifically requested for its deletion. 
+We have implemented appropriate organizational and technical security measures to protect your personal data. We store personal data on servers with limited access located in secured facilities, and our security measures are evaluated on an ongoing basis. The servers are protected by anti-virus software and firewalls, among other measures.
 
-**Update/Removal**   
-You may update, change or opt for removal of information registered at www.maerskline.com either by sending an e-mail to ([cenwwwsvcbus@maersk.com](mailto:cenwwwsvcbus@maersk.com)) or send the changes to your local Maersk Line office (use the Contact link on the website to locate your local Maersk Line office and its contact details). 
+##  3.  Cookies 
 
-**Links**   
-This site contains links to other third party websites. www.maerskline.com is not responsible for the privacy practices or content of such third party web sites. 
+Our websites use cookies. A cookie is a small text file, which is stored on your computer in order to recognize your computer at recurring visits. The cookie may transmit information via your browser with a purpose of authenticating or identifying the computer (via e.g. the IP address) or the user. Cookies may contain information such as registration data and user preferences. When a server receives a request from a computer which stores a cookie from the website, the server is able to use the information stored in the cookie in combination with the information stored on the server. A cookie cannot collect information from your computer and cannot carry any vira or other damaging files.
 
-**Contact**   
-If you have any questions or comments about privacy, the use of this web site, or your dealings with this web site you can contact: 
+The following third parties store the following cookies on this website:
 
-Maersk Line Centre E-Commerce   
-A. P. Møller – Mærsk A/S   
-50, Esplanaden   
-DK-1098 Copenhagen K   
-Denmark 
+  * Google Analytics (provided by Google Inc.) to enable us a) to perform statistical analyses of e.g. number of visitors, information on gender, age, location, interests and the like to learn about our visitors and b) to improve the website friendliness and usability, e.g. on the basis of website traffic measurements
+  * Addthis (provided by AddThis, Inc.) to enable the visitors of our website to use social media features, like sharing, sending or recommending pages toothers
+  * Youtube (provided by YouTube LLC.) to store session preferences (e.g. language) and suggest other content based on your previous uses (only activated when you are logged in to Youtube when visiting our website and only when clicking the YouTube button)
+  * Facebook (provided by Facebook, Inc.) to identify users logged in to Facebook for the purpose of sharing content on Facebook (only when you are logged in to Facebook when visiting our website and only when clicking the Facebook button)
+  * LinkedIn (provided by LinkedIn Corp.) to enable the “follow” and “share” features of LinkedIn (only when you are logged in to LinkedIn when visiting our website and only when clicking the LinkedIn button).
+
+
+
+You may delete cookies if you no longer wish to store them on your computer. However, please note that the high quality of our website may be reduced as a consequence thereof. Please refer to the help guide for your browser for further guidance.
+
+  * For Internet Explorer, a help guide is available [here](http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies)
+  * For Mozilla, a help guide is available [here](http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+  * For Chrome, a help guide is available [here](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
+  * For Safari, a help guide is available [here](http://support.apple.com/kb/ph5042)
+
+
+
+##  4.  Changes 
+
+We reserve the right in our sole discretion to amend and/or delete this privacy and cookie policy at any time without providing prior notice to you. We will post the at any time current version of this privacy and cookie policy on the website.
+
+##  5.  Contact details 
+
+If you have any questions or comments or wish to exercise your rights under applicable legislation, please contact our privacy team by emailing to [dataprivacy@maersk.com](mailto:dataprivacy@maersk.com).
