@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcpglobal.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209130436id_/http%3A//www.tcpglobal.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcpglobal.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208151804id_/http%3A//www.tcpglobal.com/privacy.aspx) for the most accurate reproduction.*
 
 # TCP Global - Quality & Service Since 1974
 
