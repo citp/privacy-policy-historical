@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the usr.me privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401145056id_/http%3A//usr.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usr.me privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208035651id_/http%3A//usr.me/go/privacy) for the most accurate reproduction.*
 
-# usr.me Ad-Free Webhosting.
+# Privacy Policy : Web Hosting Help Desk
 
 We view your privacy as a very important issue and we do not share your personal information with anyone except to facilitate an order you have made, or as required by law, or to provide you with a product or service at your request or in those limited situations set forth below.
 
-We don?t store personal information on our servers unless required for the on-going operation of one of our services.
+We don’t store personal information on our servers unless required for the on-going operation of one of our services.
 
 If you have questions about accessing or correcting your personal data please contact our support team.
 
@@ -12,11 +12,11 @@ It is our policy to respect your privacy regarding any information we may collec
 
 **Website Visitors**
 
-Like most website operators, we collect non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Our purpose in collecting non-personally identifying information is to better understand how our visitors use our site and services. From time to time, we may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website. Further information about this is contained in the ?Cookies? section below.
+Like most website operators, we collect non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Our purpose in collecting non-personally identifying information is to better understand how our visitors use our site and services. From time to time, we may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website. Further information about this is contained in the “Cookies” section below.
 
 **Gathering of Personally-Identifying Information**
 
-Certain visitors to our site choose to interact with our site in ways that require us to gather personally-identifying information. The amount and type of information that we gather depends on the nature of the interaction. Those who engage in transactions with us are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, we collect such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor?s interaction with our site or services. We do not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to our site choose to interact with our site in ways that require us to gather personally-identifying information. The amount and type of information that we gather depends on the nature of the interaction. Those who engage in transactions with us are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, we collect such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with our site or services. We do not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 **Aggregated Statistics**
 
@@ -24,7 +24,7 @@ We may collect statistics about the behavior of visitors to our site. However, w
 
 **Third Party Services**
 
-Certain services offered through the Websites are subject to third party privacy policies.  Facebook?s ?Like? button is an example of this happens on the Internet.  (and is subject to Facebook?s privacy policies). As a reseller, we may have to disclose information as a condition of being legally able to resell our products and services.
+Certain services offered through the Websites are subject to third party privacy policies.  Facebook’s “Like” button is an example of this happens on the Internet.  (and is subject to Facebook’s privacy policies). As a reseller, we may have to disclose information as a condition of being legally able to resell our products and services.
 
 **Content Uploaded to Site.**
 
@@ -40,7 +40,7 @@ We use cookies, web beacons, and log file information to: (a) store information 
 
 The information gathered is not shared with third parties. You may turn off your cookies by adjusting the appropriate setting on your browser.
 
-Please consult the HELP menu of your browser to learn how to turn your cookies off. Cookies do not reveal personal information and if you turn off your cookies you may find your enjoyment of the Internet, and our site, to be reduced or impaired. Turning off your cookies may interfere with some of our site?s functions and the site may not appear to be properly working if you turn off your cookies.
+Please consult the HELP menu of your browser to learn how to turn your cookies off. Cookies do not reveal personal information and if you turn off your cookies you may find your enjoyment of the Internet, and our site, to be reduced or impaired. Turning off your cookies may interfere with some of our site’s functions and the site may not appear to be properly working if you turn off your cookies.
 
 In order to seek out and repair functionality issues with our servers and related programming, we may use your email and IP addresses for evaluation and diagnostic purposes.
 
@@ -61,7 +61,7 @@ When you visit this website, we can record certain information in relation to yo
 
 
 
-Cookies may provide Recording Session information, show us visitor preferences regarding return visits to our website, help us to mange subscription or private areas on our website, record user specific tracking or aggregate tracking information of visitors and deliver user customized content based on user specific information, such as browser type, screen type and resolution and so forth. None of the information gathered is shared with third parties. These activities are done for the benefit of the site?s user so that we can provide a better, more effective and enjoyable user experience to all users.
+Cookies may provide Recording Session information, show us visitor preferences regarding return visits to our website, help us to mange subscription or private areas on our website, record user specific tracking or aggregate tracking information of visitors and deliver user customized content based on user specific information, such as browser type, screen type and resolution and so forth. None of the information gathered is shared with third parties. These activities are done for the benefit of the site’s user so that we can provide a better, more effective and enjoyable user experience to all users.
 
 Other possible uses for the information that we collect include internal tracking, review, or is used for contacting purposes and then is archived by us for future usage. We also use the information we collect to provide custom content for our user base.
 
@@ -77,7 +77,7 @@ In some cases, we may choose to buy or sell assets rather than engage in a full 
 
 **Protection of Certain Personally-Identifying Information**
 
-We disclose potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on our behalf or to provide services available at our site, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using our site; you consent to the transfer of such information to them.  We will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above,  we disclose potentially personally-identifying and personally-identifying information only when required to do so by law, or when we believe in good faith that disclosure is reasonably necessary to protect our property or legal rights, third parties or the public at large. If you are a registered user of our website and have supplied your email address, we may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what?s going on with our business and our services. We respect your trust in providing us with your email address, so we expect to keep this type of email to a reasonable level. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. We take all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+We disclose potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on our behalf or to provide services available at our site, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using our site; you consent to the transfer of such information to them.  We will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above,  we disclose potentially personally-identifying and personally-identifying information only when required to do so by law, or when we believe in good faith that disclosure is reasonably necessary to protect our property or legal rights, third parties or the public at large. If you are a registered user of our website and have supplied your email address, we may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with our business and our services. We respect your trust in providing us with your email address, so we expect to keep this type of email to a reasonable level. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. We take all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
 **Ads**
 
