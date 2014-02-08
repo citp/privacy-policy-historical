@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuclear-coffee.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025101143id_/http%3A//nuclear-coffee.com/php/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuclear-coffee.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208013444id_/http%3A//nuclear-coffee.com/php/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
