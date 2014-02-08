@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-parcel.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031222841id_/http%3A//www.i-parcel.com/safeharbor.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-parcel.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208022301id_/http%3A//www.i-parcel.com/safeharbor.aspx) for the most accurate reproduction.*
 
 # i-parcel Safe Harbor Privacy Statement
 
