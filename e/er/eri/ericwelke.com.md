@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ericwelke.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127012719id_/http%3A//ericwelke.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ericwelke.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208014101id_/http%3A//ericwelke.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - EricWelke.com
 
@@ -15,7 +15,7 @@ A cookie is a very small text document, which often includes an anonymous unique
 IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as “traffic data” so that data (such as the Web pages you request) can be sent to you.  
 **Email Information**
 
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail and telephone.  
+If you choose to correspond with us through email, we may retain the content of your email messages together with your [email address](http://ericwelke.com/tag/email-address/ "email address") and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail and telephone.  
 **How Do We Use the Information That You Provide to Us?**
 
 Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other items and services to our customers and prospective customers.
@@ -30,7 +30,7 @@ A Special Note About Children**
 Children are not eligible to use our web site and services and we ask that minors (under the age of 13) do not submit any personal information to us. If you are a minor, you can use this site only in conjunction with permission and guidance from your parents or guardians.  
 **How Do We Protect Your Information and Secure Information Transmissions?**
 
-Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our Web site may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. Credit Card information is never transmitted via email.
+Email is not recognized as a secure medium of [communication](http://ericwelke.com/tag/communication/ "communication"). For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our Web site may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. [Credit Card](http://ericwelke.com/tag/credit-card/ "Credit Card") information is never transmitted via email.
 
 may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
 
@@ -46,8 +46,8 @@ Contact**
 
 If you have any questions regarding this Policy, or your dealings with our web site, please contact us.
 
-#### About 
+### Be Sure To Comment, Like & Share!
+
+#### About 
 
 Eric is a catalyst for online business success. He provides strategies, knowledge and platforms that get results in weeks, instead of months or years. His primary focus is to enable and empower other business owners and entrepreneurs to grow their business and build a better life.
-
-### Be Sure To Comment, Like & Share!
