@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womeninventorznetwork.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209143024id_/http%3A//www.womeninventorznetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womeninventorznetwork.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208043449id_/http%3A//www.womeninventorznetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Women Inventorz Network Privacy Policy
 
