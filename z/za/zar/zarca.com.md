@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zarca.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209025930id_/http%3A//www.zarca.com/online-survey-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zarca.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208062211id_/http%3A//www.zarca.com/online-survey-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -119,4 +119,4 @@ If you have questions about this Privacy Policy or the Site, you may contact us 
 Suite 300  
 Herndon, VA 20171
 
-Last Updated: 12/05/2012
+Last Updated: 12/2/2013
