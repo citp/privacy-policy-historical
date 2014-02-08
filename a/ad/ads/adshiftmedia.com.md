@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adshiftmedia.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805071835id_/https%3A//adshiftmedia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adshiftmedia.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208043855id_/https%3A//adshiftmedia.com/privacy.php) for the most accurate reproduction.*
 
 # AdShift | Exclusive Affiliate Network, Incentivized Traffic & Content Locking
 
