@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grownupgeek.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921213157id_/http%3A//grownupgeek.com/node/584) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grownupgeek.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208013045id_/http%3A//www.grownupgeek.com/node/584) for the most accurate reproduction.*
 
 # GrownUpGeek.com Privacy/Content Policies and Terms of Service | Help For Beginners
 
@@ -167,7 +167,7 @@ Should you have other questions or concerns about these policies you may contact
 
 Or by postal mail at the following address:
 
-**iHelpers  
+**[iHelpers LLC](http://www.ihelpers.net/)  
 P.O. Box 9591**
 
 **Rancho Cucamonga, CA 91701-8477**
