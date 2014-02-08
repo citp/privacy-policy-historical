@@ -1,47 +1,49 @@
-> *The following text is extracted and transformed from the wateenmobile.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806052010id_/http%3A//www.wateenmobile.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wateenmobile.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208015300id_/http%3A//www.wateenmobile.com/privacy.html) for the most accurate reproduction.*
 
-# WATEENMOBILE.COM ...... Privacy Policy
+# WATEENMOBILE.COM ...... Get Latest Mobile Price
 
-Privacy Policy
+## **Privacy Policy**
 
-We at WateenMobile.com take your privacy very seriously. We believe that electronic privacy is crucial for the ongoing success of the Internet.
+This Privacy Policy governs the manner in which WateenMobile collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.wateenmobile.com website (“Site”). This privacy policy applies to the Site and all products and services offered by WateenMobile.  
 
-We believe this information should only be used to help us provide you with better service. That's why we have put a policy in place to protect your personal information.
+## **Privacy Policy**
 
-Summary of Our policy
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.  
 
-In general, when you visit our websites and access information you remain anonymous. Before we ask you for information, we will explain how this information will be used. We will not provide any of your personal information to other companies or individuals without your permission.
+## Non-personal identification information
 
-Some of our sections require registration to access, although typically all that's requested is an e-mail address and some basic information about you.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. 
 
-There are occasions where we will ask for additional information. We do this to be able to better understand your needs, and provide you with services that we believe may be valuable to you. Some examples of information our websites collect are name, email, home page address, and personal info. We give you the opportunity to elect not to receive materials from us.
+## Web browser cookies
 
-Protecting your privacy
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.  
 
-We will take appropriate steps to protect your privacy. Whenever you provide sensitive information (for example, a credit card number to make a purchase), we will take reasonable steps to protect it, such as encrypting your card number. We will also take reasonable security measures to protect your personal information in storage. Credit card numbers are used only for payment processing and are not retained for marketing purposes.
+## How we use collected information
 
-We will not provide any of your personal information to other companies or individuals without your permission.
+WateenMobile may collect and use Users personal information for the following purposes:
 
-Use of Cookies
+_-   **To improve our Site**_ We may use feedback you provide to improve our products and services. _-   **To send periodic emails**_ We may use the email address to respond to their inquiries, questions, and/or other requests. 
 
-The Website uses "cookies" to identify a user's session on the Website and thereby offers continuity as the member moves around the site. Cookies are only used on the Website to store non-critical data. Cookies are pieces of information that websites transfer to your computer's hard drive for record-keeping purposes.
+## How we protect your information
 
-Cookies allow websites to maintain user information across connections. They are small strings of characters used by many websites to deliver data to your computer, and in certain circumstances, return the information to the website. Cookies contain only information that members volunteer, and they do not have the capability of infiltrating a user's hard drive and stealing personal information. The simple function of a cookie is that of helping the user navigate a website with as little obstruction as possible.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.  
 
-Wateenmbile may use an outside ad company to display ads on our site. Ads may contain cookies, and appear to be coming from the Website, but in reality they are coming from our partners who are serving ads on the Website. Certain websites may place a "cookie" on your machine in order to provide personalised services and/or maintain your identity across multiple pages within a single session.
+## Sharing your personal information
 
-Public Forums
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. 
 
-This site makes forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+## Advertising
 
-Security
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.   **Google Adsense** Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html 
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. These measures include basic and complex data protection methods, in particular offline storage of information and securitizing of our database servers.
+## Changes to this privacy policy
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
+WateenMobile has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.  
 
-You can send an email to  Wateenmobile@gmail.com
+## Your acceptance of these terms
 
-Changes to this Privacy Policy
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.  
 
-Wateenmobile.com will amend this policy from time to time. It is your responsibility to check this page frequently if you wish to be made aware of such changes
+## Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: Wateen Mobile www.WateenMobile.com info@wateenmobile.com This document was last updated on September 15, 2013
