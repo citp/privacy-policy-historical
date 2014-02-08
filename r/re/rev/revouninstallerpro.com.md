@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revouninstallerpro.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022160841id_/http%3A//www.revouninstallerpro.com/revo_uninstaller_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revouninstallerpro.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208022658id_/http%3A//www.revouninstallerpro.com/revo_uninstaller_privacy_policy.html) for the most accurate reproduction.*
 
 # Revo Uninstaller Pro - Privacy Policy
 
@@ -18,5 +18,3 @@ We may use your personal information for particular purposes such as processing 
 We may, from time to time, send you mailings regarding our products and services. We will send you these mailings only if you indicated that you do not object to these offers. If you do not wish to receive further information from VS Revo Group you can send us an e-mail [contact@vsrevogroup.com](mailto:contact@vsrevogroup.com) and tell us that you do not want to receive future communications. You may ask to have the information on your account deleted or removed, however, because we keep track of past transactions, you cannot delete information associated with past transactions on our web site. In addition, it may be impossible to completely delete your information without some residual information because of backups. 
 
 By using this Web site you are agreeing to the terms of the VS Revo Group Privacy Policy. We reserve the right to modify our privacy policy as business needs require. We will post such changes on our Web site. 
-
-E-mail: [contact@vsrevogroup.com](mailto:contact@vsrevogroup.com)
