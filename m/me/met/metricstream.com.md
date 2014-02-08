@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metricstream.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017142938id_/http%3A//www.metricstream.com/company/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metricstream.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208042921id_/http%3A//www.metricstream.com/company/privacy_policy.htm) for the most accurate reproduction.*
 
 # MetricStream Privacy Policy - MetricStream
 
@@ -47,5 +47,5 @@ Or you can phone, mail to:
 2600 E. Bayshore Road   
 Palo Alto, CA 94303   
 Phone: 650-620-2955   
-Fax: 650-632-1953   
+Fax: 650-565-8542   
 Email: [info@metricstream.com](mailto:info@metricstream.com)
