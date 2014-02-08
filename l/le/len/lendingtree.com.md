@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lendingtree.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031022621id_/https%3A//www.lendingtree.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendingtree.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208050148id_/https%3A//www.lendingtree.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # LendingTree Privacy Policy - Consumer Privacy Policy
 
@@ -84,6 +84,6 @@ Charlotte, North Carolina 28277
 or  
 [privacy@tree.com](mailto:privacy@lendingtree.com)
 
-  16. **Tree Businesses.** Tree Businesses include, without limitation: DegreeTree®, Done Right!®, GetSmart®, HealthTree, InsuranceTree®, LendingTree Autos, LendingTree Holdings Corp., LendingTree, LLC, LendingTree Inc., LendingTree, LLC d/b/a LT Technologies, LendingTree, LLC d/b/a LT Technologies, LLC, LT Real Estate, Inc., Degree Tree, Inc., Tree Home Services, Inc., ServiceTree, www.servicetree.com, www.doneright.com, www.careerdegreesource.com, www.careereducationsource.com, www.degreetree.com, www.educationdegreesource.com, www.getsmart.com, www.justthrive.com, www.healthtree.com, www.homeloancenter.com, www.insurancetree.com, www.investinyoureducation.com, www.lendingtree.com, and www.tree.com.
+  16. **Tree Businesses.** Tree Businesses include, without limitation: DegreeTree®, Done Right!®, GetSmart®, HealthTree, InsuranceTree®, LendingTree Autos, LendingTree Holdings Corp., LendingTree, LLC, LendingTree Inc., LendingTree, LLC d/b/a LT Technologies, LendingTree, LLC d/b/a LT Technologies, LLC, LT Real Estate, Inc., Degree Tree, Inc., Tree Home Services, Inc., LendingTree Home Pros, ServiceTree, www.servicetree.com, www.doneright.com, homepros.lendingtree.com, www.careerdegreesource.com, www.careereducationsource.com, www.degreetree.com, www.educationdegreesource.com, www.getsmart.com, www.justthrive.com, www.healthtree.com, www.homeloancenter.com, www.insurancetree.com, www.investinyoureducation.com, www.lendingtree.com, and www.tree.com.
 We may change, remove or add a Tree Business in our discretion without notice to you. 
 
