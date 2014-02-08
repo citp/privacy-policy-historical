@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the site-sift.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808052410id_/http%3A//www.site-sift.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site-sift.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208034058id_/http%3A//site-sift.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Site Sift
 
