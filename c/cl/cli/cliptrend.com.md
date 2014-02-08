@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cliptrend.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214135708id_/http%3A//www.cliptrend.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cliptrend.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208144745id_/http%3A//www.cliptrend.com/privacy-policy) for the most accurate reproduction.*
 
 # Cliptrend.com Privacy Policy | Cliptrend.com
 
