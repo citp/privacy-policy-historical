@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medbullets.com privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008140116id_/http%3A//www.medbullets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medbullets.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208104830id_/http%3A//www.medbullets.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Medbullets.com
 
