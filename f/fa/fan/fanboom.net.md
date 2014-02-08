@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanboom.net privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828002449id_/http%3A//fanboom.net/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanboom.net privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208222817id_/http%3A//fanboom.net/privacy-and-cookies) for the most accurate reproduction.*
 
 # FanBoom Privacy and Cookies Policy | FanBoom
 
@@ -9,7 +9,7 @@ We are strongly committed to protecting the privacy of the users of this website
 
 Any information you provide will be held securely and in accordance with the Data Protection Act 1998. Your personal details will not be disclosed to third parties. **  
 ** **  
-**This website is hosted by[WPEngine](http://wpengine.com/) using the very best and most secure infrastructure available. **  
+**This website is hosted by Amazon Web Services using the very best and most secure infrastructure available. **  
 ** **  
 **We do not store customer credit card details on this site nor do we share customer details with any 3rd parties. **  
 ** **  
