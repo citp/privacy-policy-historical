@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vila.com privacy policy that was archived on 2013-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130315032822id_/http%3A//shop.bestseller.com/customer-service/privacy-policy/vl-cs-privacy-policy%2Cen_GB%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vila.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208010658id_/http%3A//shop.bestseller.com/customer-service/privacy-policy/vl-cs-privacy-policy%2Cen_GB%2Cpg.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy - read about privacy policy for VILA
 
 ###### Collection of personal data
 
@@ -20,7 +20,29 @@ BESTSELLER HANDELS AG will process your personal data for marketing purposes sub
 
 ###### Cookies
 
-Cookie Policy available on the website.
+BESTSELLER* uses cookies to give you the best possible experience when you visit our website. A cookie is a small text file which is attached to your computer's hard disk, smartphone or other IT equipment. It enables your computer/IP address to be recognised and information to be collected regarding the pages and functions you visit.
+
+The first time you visit our website, you will see a banner at the top with the statement that we use cookies. If you click on the link "No thanks to cookies", we will not apply more cookies than those required to implement the choices you make, e.g. cookies to make a purchase from our online shop. If you don't want us to use cookies at all, you must deactivate cookies in your browser. However, you should be aware that in this case there may be services and functions which you cannot use as they require cookies to remember the choices you are making. You can follow the link below if you would like instructions on how to delete cookies from your browser.
+
+BESTSELLER uses cookies to give you a better user experience on our website, to remember the choices you are making when you use our website, for example choice of country, and for ongoing improvement of the content and functions you experience on our website. We also use cookies to target our marketing so that it matches your requirements, and to generate statistics regarding the use of our website.
+
+Some cookies are kept until you close down your browser, while others are kept for longer.
+
+BESTSELLER makes use of third-party cookies. A third-party cookie is a cookie which is installed by someone other than BESTSELLER, such as other websites which provide content for our website, suppliers of some of our functions on the website or analysis programmes. Below you can see a list of the third-party cookies we use. 
+
+Google Analytics, Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+
+Demandware Inc., 5 Wall St., Burlington, MA 01803, USA
+
+AddThis, 1595 Spring Hill Rd, Suite 300, Vienna, VA 22182
+
+BESTSELLER will occasionally show content from YouTube. YouTube may therefore place cookies, including third-party cookies, over which BESTSELLER has no influence. BESTSELLER has no knowledge of the identity or purpose of such cookies. If you want to know more about which cookies are used by YouTube, you can see their cookie policy [here](http://www.google.com/intl/en/policies/technologies/cookies/). 
+
+If you use a link from BESTSELLER's websites to a third-party's website, you should be aware that new cookies may be used over which BESTSELLER has no influence. In this case you should investigate the website's cookie policy yourself. 
+
+Links to remove cookies via browser settings: 
+
+*: BESTSELLER comprises Bestseller A/S, Vila A/S and Bestseller Handels AG
 
 ###### Security
 
@@ -32,7 +54,7 @@ You are entitled to access data about you which is processed by BESTSELLER HANDE
 
 ###### Change of information or deregistration, etc.
 
-If you want us to update, change or delete personal data which we have registered about you or if you do not want to receive additional messages from us or if you have questions regarding the above guidelines, please contact us at [customerservice@shop.bestseller.com](mailto:customerservice@bestseller.com)
+If you want us to update, change or delete personal data which we have registered about you or if you do not want to receive additional messages from us or if you have questions regarding the above guidelines, please contact us at [customerservice@bestseller.com](mailto:customerservice@bestseller.com)
 
 ###### Transfer to third parties
 
