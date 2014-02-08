@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the photodex.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824095023id_/http%3A//www.photodex.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photodex.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208031754id_/http%3A//www.photodex.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy
-
-**Photodex values the privacy of our customers' information, and makes a strong effort to ensure your information is protected.**
-
-You may unsubscribe from our mailing list at any time. If you choose to do so, Photodex will no longer send you e-mail notifications of product updates. 
 
 This PRIVACY POLICY (this "Policy") governs your access and use of this website (as it may be modified from time to time) (the "Site"), which is owned and operated by Photodex Corporation ("Photodex"). This Policy is intended to explain Photodex's privacy practices for the Site, and to provide you, the person accessing or using the Site and any person helping you access or use the Site (collectively, "you" or "your"), with an overview of the following: 
 
@@ -105,7 +101,7 @@ To help maintain the security of your personal information, Photodex asks that y
 You may request that Photodex no longer use your personal information to provide you with the Site's product(s) and services(s), or to request an opportunity to review and change your personal information collected through the Site, at any time by any of the following means: 
 
   * By e-mail: privacy@photdex.com, with an e-mail subject/reference line of "Your Personal Information"
-  * By mail: Photodex Corporation, attn.: Privacy Administrator, Photodex Corporation, 11100 Metric Boulevard, Suite 400, Austin, Texas 78758, with a letter subject/reference line of "Your Personal Information".
+  * By mail: Photodex Corporation, attn.: Privacy Administrator, Photodex Corporation, 4030 W Braker Ln, Building 2 STE 100, Austin Texas 78759, with a letter subject/reference line of "Your Personal Information".
 
 
 
@@ -118,7 +114,7 @@ You are solely responsible for the accuracy and content of your personal informa
 Pursuant to Section 1798.83 of the California Civil Code, if you are a resident of the State of California and Photodex has an established business relationship with you, then you have the right to request the following: (a) information from Photodex free of charge regarding the manner in which Photodex shares certain personal information collected through the Site with third parties who use such information for direct marketing purposes; and (b) the discontinuation (or opt-out) of Photodex's sharing of such information with such third parties. Please submit these requests to Photodex by any of the following means: 
 
   * By e-mail: privacy@photdex.com, with an e-mail subject/reference line of "California Privacy Rights"
-  * By mail: Photodex Corporation, attn.: Privacy Administrator, Photodex Corporation, 11100 Metric Boulevard, Suite 400, Austin, Texas 78758, with a letter subject/reference line of "California Privacy Rights".
+  * By mail: Photodex Corporation, attn.: Privacy Administrator, Photodex Corporation, 4030 W Braker Ln, Building 2 STE 100, Austin Texas 78759, with a letter subject/reference line of "California Privacy Rights".
 
 
 
@@ -137,7 +133,7 @@ If any term or condition of this Policy is deemed invalid or unenforceable by a 
 Please direct any questions or comments you may have about this Policy to Photodex by any of the following means: 
 
   1. By e-mail: privacy@photdex.com
-  2. By mail: Photodex Corporation, attn.: Privacy Administrator, Photodex Corporation, 11100 Metric Boulevard, Suite 400, Austin, Texas 78758
+  2. By mail: Photodex Corporation, attn.: Privacy Administrator, Photodex Corporation, 4030 W Braker Ln, Building 2 STE 100, Austin Texas 78759
   3. By phone: (512) 419-7000
 
 
