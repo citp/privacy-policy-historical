@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siteimprove.com privacy policy that was archived on 2013-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130716005820id_/http%3A//siteimprove.com/about-us/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteimprove.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208022126id_/http%3A//siteimprove.com/about-us/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy – Siteimprove
 
