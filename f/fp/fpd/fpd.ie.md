@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fpd.ie privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118073608id_/http%3A//www.fpd.ie/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fpd.ie privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208080642id_/http%3A//www.fpd.ie/page/privacy-policy) for the most accurate reproduction.*
 
-# Free PrizeDraws - Page Front
+# Privacy Policy | Free Competitions | FPD.ie
 
 Free Prizedraws is committed to protecting your privacy rights at all times and will ensure that your personal data is handled and maintained in a secure and data protection compliant environment.
 
@@ -44,7 +44,7 @@ consents at any time – see the Official Rules.
 You have the right to: - obtain access to your personal data; - receive information about us and  
 the purposes for which we process your personal data; - prevent processing which may cause you  
 damage or distress; - object to direct marketing; - object to purely automated decision-making in  
-certain cases; - receive compensation for breach of a data controller’s obligations; - ask us to correct and errors or delete the information we hold - opt out of any further contact. If you would like to amend/delete details or contact us in relation to the above, please contact using the contact us page.
+certain cases; - you have the right to seek compensation through the civil courts for a breach of a data controller’s obligations; - ask us to correct any errors and/or delete the information we hold - opt out of any further contact. If you would like to amend/delete details or contact us in relation to the above, please contact using the contact us page.
 
 **Contact Security**
 
