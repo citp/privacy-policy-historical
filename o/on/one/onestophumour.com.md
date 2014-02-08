@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the onestophumour.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207191729id_/http%3A//onestophumour.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestophumour.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208021212id_/http%3A//onestophumour.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - One Stop Humor: Funny Pictures and Videos!
 
 Privacy Policy
 
-This Privacy Policy governs the manner in which OneStopHumour collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.onestophumour.com"](https://web.archive.org/web/20131207191729id_/http%3A//onestophumour.com/www.onestophumour.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by OnestopHumour.
+This Privacy Policy governs the manner in which OneStopHumour collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.onestophumour.com"](https://web.archive.org/web/20140208021212id_/http%3A//onestophumour.com/www.onestophumour.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by OnestopHumour.
 
 **Personal identification information**
 
@@ -69,14 +69,16 @@ OneStopHumour has the discretion to update this privacy policy at any time. When
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20131207191729id_/http%3A//onestophumour.com/www.onestophumour.com/terms.html). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20140208021212id_/http%3A//onestophumour.com/www.onestophumour.com/terms.html). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[One Stop Humour](https://web.archive.org/web/20131207191729id_/http%3A//onestophumour.com/www.onestophumour.com)  
-[www.onestophumour.com](https://web.archive.org/web/20131207191729id_/http%3A//onestophumour.com/www.onestophumour.com)  
+[One Stop Humour](https://web.archive.org/web/20140208021212id_/http%3A//onestophumour.com/www.onestophumour.com)  
+[www.onestophumour.com](https://web.archive.org/web/20140208021212id_/http%3A//onestophumour.com/www.onestophumour.com)  
 39 North Road London  
 woahhcom@gmail.com
 
 This document was last updated on July 01, 2013
+
+**Warning** : include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in **/home/woahhcom/public_html/onestophumour.com/privacy_policy.php** on line **89**
