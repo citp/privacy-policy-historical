@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnypicsimages.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126003343id_/http%3A//www.funnypicsimages.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnypicsimages.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208164133id_/http%3A//www.funnypicsimages.com/page/privacy.html) for the most accurate reproduction.*
 
 # Funny Pics Images - Funny Pictures, Epic Fails, Funny Shots, iPhone Autocorrects, Awkward Texts, LOL Photos, Hilarious, Animal LOLs, Troll Comics, Gags, Cartoon
 
