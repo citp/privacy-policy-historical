@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penatropin.com privacy policy that was archived on 2013-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130226182649id_/http%3A//penatropin.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penatropin.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208014639id_/http%3A//penatropin.com/privacy.php) for the most accurate reproduction.*
 
 # Penatropin | Official Website
 
@@ -6,7 +6,7 @@
 
 Registration at penatropin.com is not required. However, during checkout you will be required to provide contact information (such as name, email address, billing and shipping address). We use your information to send you an order confirmation and shipping notification for your order.
 
-Bio Vita Labs is the sole owner of the information collected on penatropin.com. Bio Vita Labs collects personally identifiable information from our users during check out.
+Phyto Health USA, LLC is the sole owner of the information collected on penatropin.com. Phyto Health USA, LLC collects personally identifiable information from our users during check out.
 
 ###### Orders
 
@@ -58,11 +58,11 @@ We set a persistent cookie to store your shipping address, so you don’t have t
 
 If you reject cookies, you may still use our site.
 
-This privacy statement covers the use of cookies by Bio Vita Labs and Penatropin only, and does not cover the use of cookies by any advertisers.
+This privacy statement covers the use of cookies by Phyto Health USA, LLC and Penatropin only, and does not cover the use of cookies by any advertisers.
 
 ###### Links to Other Sites
 
-This Website contains links to other sites that are not owned or controlled by Bio Vita Labs. Please be aware that Bio Vita Labs is not responsible for the privacy practices of these sites.
+This Website contains links to other sites that are not owned or controlled by Phyto Health USA, LLC. Please be aware that Phyto Health USA, LLC is not responsible for the privacy practices of these sites.
 
 We encourage you to be aware when you leave our site to read the privacy statements of each and every Website that collects personally identifiable information.
 
@@ -88,7 +88,7 @@ If you no longer wish to receive our newsletter and promotional communications, 
 
 ###### Business Transitions
 
-In the event Bio Vita Labs goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via notice on our Website for 30 days of any such change in ownership or control of your personal information.
+In the event Phyto Health USA, LLC goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via notice on our Website for 30 days of any such change in ownership or control of your personal information.
 
 ###### Changes in this Privacy Statement
 
@@ -100,4 +100,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 If you have any questions or suggestions regarding our privacy policy, please contact us. 
 
-These statements have not been evaluated by the Food and Drug Administration and are for informational purposes only. They should not be considered medical advice. Always consult a doctor for medical advice. This product is not intended to diagnose, treat, cure, or prevent any disease. Penatropin is a registered trademark of Bio Vita Labs.
+These statements have not been evaluated by the Food and Drug Administration and are for informational purposes only. They should not be considered medical advice. Always consult a doctor for medical advice. This product is not intended to diagnose, treat, cure, or prevent any disease. Penatropin is a registered trademark of Phyto Health USA.
