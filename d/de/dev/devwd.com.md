@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devwd.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906021639id_/http%3A//devwd.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devwd.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208021352id_/http%3A//devwd.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - devwd.com
 
