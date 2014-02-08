@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallse.net privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213215700id_/http%3A//wallse.net/search/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallse.net privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208062334id_/http%3A//wallse.net/search/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for WALLSE.NET
 
