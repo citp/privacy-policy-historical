@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the 247azpropertysearch.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117203807id_/http%3A//www.247azpropertysearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247azpropertysearch.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208060920id_/http%3A//www.247azpropertysearch.com/privacy) for the most accurate reproduction.*
 
-# 247AZPropertySearch.com | Privacy Policy
+# Privacy Policy
 
-## Privacy Policy
-
-**Thank you for visiting 247azpropertysearch.com! We are committed to respecting your right to privacy and will protect it when you visit our website.**
+**Thank you for visiting 247AZPropertySearch.com! We are committed to respecting your right to privacy and will protect it when you visit our website.**
 
 This Privacy Policy explains our online information practices only, including how we collect and use your personal information.
 
@@ -16,7 +14,9 @@ When you visit our website, we collect information about your visit that does no
 
 ### Do we use cookies or other tracking devices?
 
-A "cookie" is a small text file that is stored on your computer or other device and makes it easy for you to move around a website without having to continually re-enter your name, password, preferences, and so on. We use cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, and customize web page content based on visitors’ browser type or other information that the visitor sends. These cookies do not access, read or modify any other data on your device.  All web browsers offer the option for the user’s device to refuse cookies, and if your device refuses our cookie, we do not gather any information on you through cookies, although some functionality of our website will not be available to you. We do not use cookies to track your Internet activities when you are not on our website.
+A "cookie" is a small text file that is stored on your computer and makes it easy for you to move around a website without having to continually re-enter your name, password, preferences, and so on. We use cookies to store visitors' preferences, record user-specific information on what pages users access or visit, customize Web page content based on visitors' browser type or other information that the visitor sends. We also use cookies for advertising and targeting of advertising purposes as set forth below. 
+
+We may advertise on the Google advertising network using Google’s Remarketing with Google Analytics technology. In doing so, a unique ad-serving cookie will be placed on your computer by us or by a third-party vendor (including Google). Non -personal information about your browser and your activity at this site may be used to inform, optimize and serve our ads to you on sites across Google’s content network. The ad-serving cookie is a persistent cookie. You may opt out of Google’s use of these cookies by visiting the [Ads Preferences Manager](https://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TCjhe0ZSnDuDgIyx6Q6TE2TgU24s50d4jHG-y0DRyrGbc5NxrqYDlYnbtW_Dzyf6y1axqw_TJDZ5rLCbbXBvbMV9P0QyGiaF5hhs3R85qt6sEUFNtmlHCEOGCedi3PYjvWtMFg99meGBZ0p_ngWnWUQvI6b4R-C062sev2dkr0TcejFMEbei6_FYXp3y42UJrgqrceP4&hl=en) on the Google website. You can learn more about Remarketing with Google Analytics by visiting this [Google Remarketing](http://support.google.com/analytics/bin/answer.py?hl=en&answer=2611268) page.
 
 ### What additional information do we collect about you, and how is information used?
 
@@ -26,7 +26,7 @@ Our website is not intended for use by children. No one under age 13 should prov
 
 ### Do we share the information we collect online?
 
-You may ask us for information that we ask a third party to provide to you, and we share your information with them so that they can provide the requested information. For example, if you contact us about a mortgage, an officer from our preferred lending partner will contact you regarding your inquiry. This lending partner and similar entities who respond to your requests or inquiries are contractually bound by this Privacy Policy and the Terms and Conditions of Use of this website.
+You may ask us for information that we ask a third party to provide to you, and we share your information with them so that they can provide the requested information. For example, if you contact us about a mortgage, an officer from a trusted local lender will contact you regarding your inquiry. This lender and similar entities who respond to your requests or inquiries are contractually bound by this Privacy Policy and the Terms and Conditions of Use of this website.
 
 We share information about you if we are required by law to do so for authorized law enforcement, homeland security, and national security. We may create, use, and disclose aggregated data and statistical information that does not identify you individually in order to describe or promote our website and for other lawful purposes. We may disclose information provided by you as part of any proposed or actual merger, sale, other acquisition, or financing.
 
@@ -43,5 +43,3 @@ This Privacy Policy covers information collected on this website only. It does n
 This Privacy Policy was last revised on **September 4, 2012**. We reserve the right to modify or amend this policy at any time by posting the revised Privacy Policy on the website
 
 Close Window
-
-© 2013 Arizona Regional Multiple Listing Service, Inc. All rights reserved. All information should be verified by the recipient and none is guaranteed as accurate by ARMLS. The ARMLS logo indicates a property listed by a real estate brokerage other than West USA Realty Revelation. Data last updated 1/17/2013.
