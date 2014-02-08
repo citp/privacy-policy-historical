@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the twistedviraltraffic.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625071007id_/http%3A//twistedviraltraffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistedviraltraffic.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208034452id_/http%3A//twistedviraltraffic.com/privacy.php) for the most accurate reproduction.*
 
 # Twisted Viral Traffic!
 
-[](http://twistedviraltraffic.com/bannerclick.php?id=62)  
+[](http://twistedviraltraffic.com/bannerclick.php?id=11439)  
 
 
 Twisted Viral Traffic Privacy Policy
