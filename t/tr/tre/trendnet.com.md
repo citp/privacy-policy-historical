@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trendnet.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809191711id_/http%3A//www.trendnet.com/company/default.asp%3Fcompany%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendnet.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209092659id_/http%3A//www.trendnet.com/company/%3Fcompany%3Dprivacy_policy) for the most accurate reproduction.*
 
-# TRENDnet | Company Profile
+# TRENDnet | Company | Privacy Policy
 
 TRENDnet values our customers’ trust and is committed to the responsible management, use and protection of personal information. When you visit [www.trendnet.com](http://www.trendnet.com/) and share personal information, you can be assured that we are committed to your personal privacy. The following is TRENDnet's Privacy Policy. We encourage you to read this Policy carefully before providing any personal information on our Website. Should you have any questions or concerns regarding this policy, please contact us at webmaster@trendnet.com. 
 
