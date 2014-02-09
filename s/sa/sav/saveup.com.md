@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the saveup.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806014121id_/https%3A//www.saveup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveup.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209061911id_/https%3A//www.saveup.com/privacy) for the most accurate reproduction.*
 
 # SaveUp | Privacy Policy
-
-## **Privacy** policy.
 
 SaveUp, Inc. ("SaveUp") is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at [saveup.com](https://web.archive.org/) ("Site") and the services made available through the Site ("Services"). Capitalized terms not defined in this Privacy Policy have the meaning set forth in the Terms of Service. 
 
