@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usawebsitesdirectory.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814173854id_/http%3A//www.usawebsitesdirectory.com/read_usawebsitesdirectory_com_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usawebsitesdirectory.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209121040id_/http%3A//www.usawebsitesdirectory.com/read_usawebsitesdirectory_com_privacy_policy.html) for the most accurate reproduction.*
 
 # USA Web Sites submission Marketing Directory - Read Our Privacy Policy before using http://www.usawebsitesdirectory.com
 
