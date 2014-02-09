@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the radionomy.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504025351id_/http%3A//www.radionomy.com/en/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radionomy.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209072447id_/http%3A//www.radionomy.com/en/static/privacy) for the most accurate reproduction.*
 
-# Listen to online radios. Create your own radio on Radionomy for free
+# Radionomy
 
 I. Identiﬁcation of the site and the organization responsible for it. 
 
