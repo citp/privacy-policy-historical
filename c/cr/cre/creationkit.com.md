@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the creationkit.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014025939id_/http%3A//www.zenimax.com/legal_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creationkit.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209012031id_/http%3A//www.zenimax.com/legal_privacy.htm) for the most accurate reproduction.*
 
 # ZeniMax Media Inc.
 
-[](https://privacy.truste.com/privacy-seal/ZeniMax-Media-Inc-/validation?rid=8fa683b2-f1ba-487d-a36b-6975e4be76ba "TRUSTe European Safe Harbor certification")
+* * *
 
-> ## _Revised February 22, 2013_
+### Change Your Language
+
+* * *
+
+[](https://privacy.truste.com/privacy-seal/ZeniMax-Media-Inc-/validation?rid=8fa683b2-f1ba-487d-a36b-6975e4be76ba "TRUSTe European Safe Harbor certification")
 
 **ZENIMAX MEDIA ONLINE PRIVACY POLICY**
 
