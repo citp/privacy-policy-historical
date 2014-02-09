@@ -1,51 +1,59 @@
-<!--The following is the downloaded HTML source of the cryptsy.com privacy policy that was archived on 2013-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131102234028id_/https%3A//www.cryptsy.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cryptsy.com privacy policy that was archived on 2014-02-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209154142id_/https%3A//www.cryptsy.com/pages/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" style="overflow-x: hidden;"><head><script async="" src="https://www.cryptsy.com:8443/chat.php?callback=jQuery1910006535558834019017_1580452417677&amp;time=1580452418141&amp;_=1580452417678"></script>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta content="utf-8" http-equiv="encoding">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>
-	Cryptsy - Privacy</title>
-<link href="/css/reset.css?version=20130925b" rel="stylesheet" type="text/css">
-<link href="/css/style.css?version=20130925b" rel="stylesheet" type="text/css">
+	Cryptsy - Privacy</title>    
+<meta charset="utf-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<link href="/css2/style.css?rev=5" rel="stylesheet" media="screen"> 
+<link href="/css2/jquery.dataTables.css" rel="stylesheet" media="screen"> 
+<link href="/css2/select2.css" rel="stylesheet" media="screen"> 
+<link href="/css2/prettyCheckable.css" rel="stylesheet" media="screen"> 
 <link type="text/css" media="screen" rel="stylesheet" href="/js/colorbox.css?version=20130925b">
-<link type="text/css" media="screen" rel="stylesheet" href="/css/jquery.dataTables.css">
 <link href="/css/jquery.loadmask.css" rel="stylesheet" type="text/css">
-<link href="/css/buttons.css" rel="stylesheet" type="text/css">
+<link type="text/css" rel="stylesheet" href="/css2/dropit.css">
 
-<!--[if IE 6]>
-<link rel="stylesheet" href="ie.css" type="text/css" />
-<![endif]-->
-<!--[if IE]>
-			<link type="text/css" media="screen" rel="stylesheet" href="/js/colorbox-custom-ie.css" title="Cleanity" />
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,700,500,300" rel="stylesheet" type="text/css"> 
+
+<link rel="stylesheet" href="/css2/badger.min.css?rev=2" type="text/css">
+<!--[if lt IE 9]>
+	<script src="/js2/html5shiv.js"></script>
+	<script src="/js2/respond.min.js"></script>
 <![endif]-->
 
-<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=9"></script><script type="text/javascript" src="/js/jquery-1.9.1.min.js"></script>
+<link href="/css/form.authy.min.css" media="screen" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=1"></script><script type="text/javascript" src="/js/jquery-1.10.2.min.js"></script>
 <script type="text/javascript" src="/js/jquery.colorbox.js?version=20130801"></script>
 <script type="text/javascript" src="/js/jquery-ui-1.10.2.custom.min.js"></script>
-<script type="text/javascript" src="/js/jquery.corners.min.js"></script>
-<script type="text/javascript" src="/js/bg.pos.js"></script>
 
+<script type="text/javascript" src="/js/bg.pos.js"></script>
 <script src="/js/tabs.pack.js" type="text/javascript"></script>
 <script type="text/javascript" src="/js/highstock.js"></script>
 <script type="text/javascript" src="/js/jquery.dataTables.min.js"></script>
 <script type="text/javascript" src="/js/jquery.loadmask.min.js"></script>
-
 <script type="text/javascript" src="/js/noty/jquery.noty.js"></script>
 <script type="text/javascript" src="/js/noty/layouts/center.js"></script>
 <script type="text/javascript" src="/js/noty/layouts/bottomLeft.js"></script>
 <script type="text/javascript" src="/js/noty/themes/default.js"></script>
-
-<script type="text/javascript" src="/js/cleanity.js?version=20130925b"></script>
-<script type="text/javascript" src="/js/jquery.cookie.js"></script>
-<script type="text/javascript" src="/js/jquery.tabSlideOut.v1.3.js"></script>
-
 <script type="text/javascript" src="/js/jquery.base64.min.js"></script>
-
 <script src="/js/jquery.json-2.2.min.js"></script>
 <script src="/js/socket.io/socket.io.min.js"></script>
+<script src="/js2/select2.js"></script>
+<script src="/js2/prettyCheckable.js"></script>
+<script src="/js2/bootstrap.js"></script>
+<script src="/js2/iscroll.js"></script>
+<script src="/js2/custom.js?rev=2"></script>
+<script type="text/javascript" src="/js2/dropit.js?version=20140131"></script>
+
+<script type="text/javascript" src="/js2/badger.min.js"></script>
+
+<script src="/js/form.authy.min.js" type="text/javascript"></script>
 
 <script type="text/javascript">
+
+
 
 // This is just for display purposes - actual fee is charged on the server side
 
@@ -59,31 +67,35 @@ var dttradehistory = false;
 var dtuserorderslist = false;
 var dtusertradehistory = false;
 
-var startchattime = 0;
-
-var sleepertime = 10;
+var sleepertime = 5;
 
 var lastusertime = new Date().getTime();
-var lastchattime = new Date().getTime();
 var lasttradetime = new Date().getTime();
 var lastmarkettime = new Date().getTime();
 
-//var socket;
-var socket = io.connect('https://www.cryptsy.com:8081');
+var socket;
 
+$(function() {
+	socket = io.connect('https://node.cryptsy.com');
+});
 
 
 var idleInterval = setInterval("timerIncrement()", 60000); // 1 minute
 
 //Zero the idle timer on mouse movement.
 $(this).mousemove(function (e) {
+
 	if (!socket)
+	{
+		socket = io.connect('https://node.cryptsy.com');
+	}
+	else
 	{
 		socket.socket.reconnect();
 	}
+	
 	if (idleTime >= sleepertime)
 	{
-		getchats(startchattime);
 			
 		
 		
@@ -108,351 +120,888 @@ function timerIncrement() {
 
 </script>
 
+    
+  <script type="text/javascript" src="https://s3.amazonaws.com/assets.freshdesk.com/widget/html2canvas.js?ver=2"></script><link rel="stylesheet" type="text/css" href="https://s3.amazonaws.com/assets.freshdesk.com/widget/freshwidget.css?ver=2"></head>
+  <body style=""><div class="freshwidget-container responsive" id="FreshWidget" style="display: none;"><div class="widget-ovelay" id="freshwidget-overlay">&nbsp;</div><div class="freshwidget-dialog" id="freshwidget-dialog"> <img id="freshwidget-close" class="widget-close" src="https://s3.amazonaws.com/assets.freshdesk.com/widget/widget_close.png?ver=2"><div class="mobile-widget-close" id="mobile-widget-close"></div> <div class="frame-container"> 	</div><iframe id="freshwidget-frame" src="https://cryptsy.freshdesk.com/loading.html?ver=2" frameborder="0" scrolling="auto" allowtransparency="true" style="height: 500px"> </div></iframe></div></div><div id="freshwidget-button" class="freshwidget-button fd-btn-left" style="display: none; top: 230px;"><a href="javascript:void(0)" class="freshwidget-theme" style="color: white; background-color: rgb(66, 139, 202); border-color: white;">Support</a></div>
+  
 
-<style type="text/css">
-      
-      .slide-out-div {
-          padding: 0px;
-          padding-right:5px;
-          width: 350px;
-          background: #ccc;
-          border: 1px solid #29216d;
-      }  
-          
-</style>
-      
-</head>
+      <!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-blue">
+      <div class="container ">
+        <div class="navbar-header"> 
+          <a class="navbar-brand" href="/"><img src="/img/biglogo.png" alt=""></a>
+        </div> 
+          <ul class="nav navbar-nav pull-right ">
+            <li><a href="/users/register"><div class="avatar"><img src="/img/register.png" alt="">&nbsp;&nbsp;Register New Account</div></a></li>
+            <li><a href="/users/login"><div class="avatar"><img src="/img/avatar.png" alt="">&nbsp;&nbsp;Login</div></a></li>
 
-<body>
-<div id="container">
-    <div id="header">
-      <div id="top">
-      <h1><a href="/"><img src="/images/logo.png" border="0" title="Cryptsy - CryptoCurrency Exchange" fontinfo="cw bandy"></a></h1>
-      
-
-
-      <p id="userbox"><a href="/users/login">Login</a> | <a href="/users/register">Register</a><br>
-      <small></small></p>
-
-
-      <span class="clearFix">&nbsp;</span>
+          </ul>  
       </div>
-      <ul id="menu">
-        <li><a href="/" style="background-position: 0px 0px;">Trade</a></li>
-        <li><a class="top-level" href="#" style="background-position: 0px 0px;">Account<span>&nbsp;</span></a>
-          <ul>
-            <li><a href="/users/login" style="background-position: 0px 0px;">Login</a></li>
-            <li><a href="/users/register" style="background-position: 0px 0px;">Register</a></li>
-          </ul>
-        </li>
-        <li><a href="/pages/terms" style="background-position: 0px 0px;">Terms</a></li>
-        <li class="selected"><a href="/pages/privacy" style="background-position: 0px 0px;">Privacy</a></li>
-        <li><a href="https://cryptsy.freshdesk.com/support/home" style="background-position: 0px 0px;">Support</a></li>
-        <li><a href="/pages/api" style="background-position: 0px 0px;">API</a></li>
-        <li><a href="/pages/about" style="background-position: 0px 0px;">About</a></li>
-
-      </ul>
-      <span class="clearFix">&nbsp;</span>
-    </div><!-- end of #header -->
-
-<div id="content">
+    </div>
 
 
+ 
+    <div id="wrap" class="container ">
+
+      <div class="row maincontents">
+        
+        <!-- Sidebar start -->
+
+        <div class="" id="sidebar" role="navigation">
+            <div class="alert alert-black"><b>Feb 9th 10:41AM EST</b></div>
+            <input type="hidden" id="visChangeText" value="1">
+              
+              
+            <div class="moduletable moduletable-usd-markets">
+              <div class="moduletable-header"><span class="glyphicon glyphicon-btc-markets"></span> USD Markets</div>
+
+              <div class="usd-markets-wrap" style="top:22px; height:32px; border:1px solid #dddddd;" id="usd-markets-top"> 
+                <ul class="nav nav-list" id="leftusdlisttop"> 
+               		<li><a>&nbsp;</a></li>
+				</ul>
+			  </div>
+			  
+              <div class="usd-markets-wrap" id="usd-markets"> 
+
+                <ul class="nav nav-list" id="leftusdlist" style="transition-timing-function: cubic-bezier(0.1, 0.57, 0.1, 1); transition-duration: 0ms; transform: translate(0px, 0px) translateZ(0px);"> 
+
+                 </ul> 
+              <div class="iScrollVerticalScrollbar iScrollLoneScrollbar" style="position: absolute; z-index: 9999; width: 7px; bottom: 2px; top: 2px; right: 1px;"><div class="iScrollIndicator" style="box-sizing: border-box; position: absolute; background: rgba(0, 0, 0, 0.5); border: 1px solid rgba(255, 255, 255, 0.9); border-radius: 3px; width: 100%; transition-duration: 0ms; display: none; height: 142px; transform: translate(0px, 0px) translateZ(0px); transition-timing-function: cubic-bezier(0.1, 0.57, 0.1, 1);"></div></div></div>
+              <hr class="separator">
+            </div>
+                          
+              
+            <div class="moduletable moduletable-btc-markets">
+              <div class="moduletable-header"><span class="glyphicon glyphicon-btc-markets"></span> BTC Markets</div>
+
+              <div class="btc-markets-wrap" style="top:22px; height:32px; border:1px solid #dddddd;" id="btc-markets-top"> 
+                <ul class="nav nav-list" id="leftbtclisttop"> 
+               		<li><a>&nbsp;</a></li>
+				</ul>
+			  </div>
+			  
+              <div class="btc-markets-wrap" id="btc-markets"> 
+
+                <ul class="nav nav-list" id="leftbtclist" style="transition-timing-function: cubic-bezier(0.1, 0.57, 0.1, 1); transition-duration: 0ms; transform: translate(0px, 0px) translateZ(0px);"> 
+
+                  <li><a id="leftmarketinfo_141" class="leftmarketinfo_141" href="/markets/view/141" title="42CoinBitCoin">
+                  
+                  42/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_141_arrow"></span> <span class="status pull-right" id="market_price_141">181.50000001</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_57" class="leftmarketinfo_57" href="/markets/view/57" title="AlphaCoinBitCoin">
+                  
+                  ALF/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_57_arrow"></span> <span class="status pull-right" id="market_price_57">0.00000695</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_43" class="leftmarketinfo_43" href="/markets/view/43" title="AmericanCoinBitCoin">
+                  
+                  AMC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_43_arrow"></span> <span class="status pull-right" id="market_price_43">0.00000773</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_66" class="leftmarketinfo_66" href="/markets/view/66" title="AnonCoinBitCoin">
+                  
+                  ANC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_66_arrow"></span> <span class="status pull-right" id="market_price_66">0.00353727</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_48" class="leftmarketinfo_48" href="/markets/view/48" title="ArgentumBitCoin">
+                  
+                  ARG/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_48_arrow"></span> <span class="status pull-right" id="market_price_48">0.00032003</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_142" class="leftmarketinfo_142" href="/markets/view/142" title="BattleCoinBitCoin">
+                  
+                  BCX/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_142_arrow"></span> <span class="status pull-right" id="market_price_142">0.00002106</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_129" class="leftmarketinfo_129" href="/markets/view/129" title="BetacoinBitCoin">
+                  
+                  BET/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_129_arrow"></span> <span class="status pull-right" id="market_price_129">0.00004300</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_10" class="leftmarketinfo_10" href="/markets/view/10" title="BBQCoinBitCoin">
+                  
+                  BQC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_10_arrow"></span> <span class="status pull-right" id="market_price_10">0.00003100</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_23" class="leftmarketinfo_23" href="/markets/view/23" title="BitBarBitCoin">
+                  
+                  BTB/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_23_arrow"></span> <span class="status pull-right" id="market_price_23">0.07250000</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_49" class="leftmarketinfo_49" href="/markets/view/49" title="ByteCoinBitCoin">
+                  
+                  BTE/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_49_arrow"></span> <span class="status pull-right" id="market_price_49">0.00013550</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_50" class="leftmarketinfo_50" href="/markets/view/50" title="BitGemBitCoin">
+                  
+                  BTG/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_50_arrow"></span> <span class="status pull-right" id="market_price_50">0.00896000</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_102" class="leftmarketinfo_102" href="/markets/view/102" title="CryptoBuckBitCoin">
+                  
+                  BUK/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_102_arrow"></span> <span class="status pull-right" id="market_price_102">0.00031598</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_53" class="leftmarketinfo_53" href="/markets/view/53" title="BottleCapsBitCoin">
+                  
+                  CAP/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_53_arrow"></span> <span class="status pull-right" id="market_price_53">0.00002934</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_150" class="leftmarketinfo_150" href="/markets/view/150" title="CashCoinBitCoin">
+                  
+                  CASH/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_150_arrow"></span> <span class="status pull-right" id="market_price_150">0.00030000</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_136" class="leftmarketinfo_136" href="/markets/view/136" title="CatCoinBitCoin">
+                  
+                  CAT/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_136_arrow"></span> <span class="status pull-right" id="market_price_136">0.00037546</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_70" class="leftmarketinfo_70" href="/markets/view/70" title="CryptogenicBullionBitCoin">
+                  
+                  CGB/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_70_arrow"></span> <span class="status pull-right" id="market_price_70">0.00115000</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_95" class="leftmarketinfo_95" href="/markets/view/95" title="CopperLarkBitCoin">
+                  
+                  CLR/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_95_arrow"></span> <span class="status pull-right" id="market_price_95">0.00028919</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_74" class="leftmarketinfo_74" href="/markets/view/74" title="CosmoscoinBitCoin">
+                  
+                  CMC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_74_arrow"></span> <span class="status pull-right" id="market_price_74">0.00025898</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_8" class="leftmarketinfo_8" href="/markets/view/8" title="CHNCoinBitCoin">
+                  
+                  CNC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_8_arrow"></span> <span class="status pull-right" id="market_price_8">0.00001520</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_58" class="leftmarketinfo_58" href="/markets/view/58" title="CraftCoinBitCoin">
+                  
+                  CRC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_58_arrow"></span> <span class="status pull-right" id="market_price_58">0.00031000</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_68" class="leftmarketinfo_68" href="/markets/view/68" title="CasinoCoinBitCoin">
+                  
+                  CSC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_68_arrow"></span> <span class="status pull-right" id="market_price_68">0.00002000</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_131" class="leftmarketinfo_131" href="/markets/view/131" title="eMarkBitCoin">
+                  
+                  DEM/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_131_arrow"></span> <span class="status pull-right" id="market_price_131">0.00009222</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_26" class="leftmarketinfo_26" href="/markets/view/26" title="DigitalCoinBitCoin">
+                  
+                  DGC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_26_arrow"></span> <span class="status pull-right" id="market_price_26">0.00028099</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_72" class="leftmarketinfo_72" href="/markets/view/72" title="DiamondBitCoin">
+                  
+                  DMD/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_72_arrow"></span> <span class="status pull-right" id="market_price_72">0.00082000</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_132" class="leftmarketinfo_132" href="/markets/view/132" title="DogecoinBitCoin">
+                  
+                  DOGE/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_132_arrow"></span> <span class="status pull-right" id="market_price_132">0.00000174</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_40" class="leftmarketinfo_40" href="/markets/view/40" title="DevCoinBitCoin">
+                  
+                  DVC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_40_arrow"></span> <span class="status pull-right" id="market_price_40">0.00000060</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_139" class="leftmarketinfo_139" href="/markets/view/139" title="EarthCoinBitCoin">
+                  
+                  EAC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_139_arrow"></span> <span class="status pull-right" id="market_price_139">0.00000119</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_12" class="leftmarketinfo_12" href="/markets/view/12" title="ElaCoinBitCoin">
+                  
+                  ELC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_12_arrow"></span> <span class="status pull-right" id="market_price_12">0.00083500</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_69" class="leftmarketinfo_69" href="/markets/view/69" title="EmeraldBitCoin">
+                  
+                  EMD/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_69_arrow"></span> <span class="status pull-right" id="market_price_69">0.00001738</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_138" class="leftmarketinfo_138" href="/markets/view/138" title="FireflyCoinBitCoin">
+                  
+                  FFC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_138_arrow"></span> <span class="status pull-right" id="market_price_138">0.00000154</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_39" class="leftmarketinfo_39" href="/markets/view/39" title="FreiCoinBitCoin">
+                  
+                  FRC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_39_arrow"></span> <span class="status pull-right" id="market_price_39">0.00005351</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_33" class="leftmarketinfo_33" href="/markets/view/33" title="FrankoBitCoin">
+                  
+                  FRK/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_33_arrow"></span> <span class="status pull-right" id="market_price_33">0.00273000</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_44" class="leftmarketinfo_44" href="/markets/view/44" title="FastCoinBitCoin">
+                  
+                  FST/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_44_arrow"></span> <span class="status pull-right" id="market_price_44">0.00000855</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_5" class="leftmarketinfo_5" href="/markets/view/5" title="FeatherCoinBitCoin">
+                  
+                  FTC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_5_arrow"></span> <span class="status pull-right" id="market_price_5">0.00029434</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_82" class="leftmarketinfo_82" href="/markets/view/82" title="GrandCoinBitCoin">
+                  
+                  GDC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_82_arrow"></span> <span class="status pull-right" id="market_price_82">0.00000091</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_76" class="leftmarketinfo_76" href="/markets/view/76" title="GlobalcoinBitCoin">
+                  
+                  GLC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_76_arrow"></span> <span class="status pull-right" id="market_price_76">0.00000642</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_30" class="leftmarketinfo_30" href="/markets/view/30" title="GoldCoinBitCoin">
+                  
+                  GLD/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_30_arrow"></span> <span class="status pull-right" id="market_price_30">0.00003050</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_78" class="leftmarketinfo_78" href="/markets/view/78" title="GalaxycoinBitCoin">
+                  
+                  GLX/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_78_arrow"></span> <span class="status pull-right" id="market_price_78">0.00000395</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_80" class="leftmarketinfo_80" href="/markets/view/80" title="HoboNickelsBitCoin">
+                  
+                  HBN/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_80_arrow"></span> <span class="status pull-right" id="market_price_80">0.00009344</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_38" class="leftmarketinfo_38" href="/markets/view/38" title="IXCoinBitCoin">
+                  
+                  IXC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_38_arrow"></span> <span class="status pull-right" id="market_price_38">0.00012008</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_65" class="leftmarketinfo_65" href="/markets/view/65" title="KrugerCoinBitCoin">
+                  
+                  KGC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_65_arrow"></span> <span class="status pull-right" id="market_price_65">0.00000442</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_148" class="leftmarketinfo_148" href="/markets/view/148" title="LeafCoinBitCoin">
+                  
+                  LEAF/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_148_arrow"></span> <span class="status pull-right" id="market_price_148">0.00000015</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_116" class="leftmarketinfo_116" href="/markets/view/116" title="Lucky7CoinBitCoin">
+                  
+                  LK7/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_116_arrow"></span> <span class="status pull-right" id="market_price_116">0.00000269</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_34" class="leftmarketinfo_34" href="/markets/view/34" title="LuckyCoinBitCoin">
+                  
+                  LKY/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_34_arrow"></span> <span class="status pull-right" id="market_price_34">0.00001588</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_137" class="leftmarketinfo_137" href="/markets/view/137" title="LottoCoinBitCoin">
+                  
+                  LOT/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_137_arrow"></span> <span class="status pull-right" id="market_price_137">0.00000017</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_3" class="leftmarketinfo_3" href="/markets/view/3" title="LiteCoinBitCoin">
+                  
+                  LTC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_3_arrow"></span> <span class="status pull-right" id="market_price_3">0.02600000</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_45" class="leftmarketinfo_45" href="/markets/view/45" title="MegaCoinBitCoin">
+                  
+                  MEC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_45_arrow"></span> <span class="status pull-right" id="market_price_45">0.00070510</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_149" class="leftmarketinfo_149" href="/markets/view/149" title="KittehCoinBitCoin">
+                  
+                  MEOW/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_149_arrow"></span> <span class="status pull-right" id="market_price_149">0.00000040</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_7" class="leftmarketinfo_7" href="/markets/view/7" title="MinCoinBitCoin">
+                  
+                  MNC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_7_arrow"></span> <span class="status pull-right" id="market_price_7">0.00063500</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_146" class="leftmarketinfo_146" href="/markets/view/146" title="MoonCoinBitCoin">
+                  
+                  MOON/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_146_arrow"></span> <span class="status pull-right" id="market_price_146">0.00000010</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_64" class="leftmarketinfo_64" href="/markets/view/64" title="NanoTokenBitCoin">
+                  
+                  NAN/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_64_arrow"></span> <span class="status pull-right" id="market_price_64">0.00001200</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_32" class="leftmarketinfo_32" href="/markets/view/32" title="NibbleBitCoin">
+                  
+                  NBL/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_32_arrow"></span> <span class="status pull-right" id="market_price_32">0.00002848</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_90" class="leftmarketinfo_90" href="/markets/view/90" title="NeoCoinBitCoin">
+                  
+                  NEC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_90_arrow"></span> <span class="status pull-right" id="market_price_90">0.00005114</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_134" class="leftmarketinfo_134" href="/markets/view/134" title="NetcoinBitCoin">
+                  
+                  NET/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_134_arrow"></span> <span class="status pull-right" id="market_price_134">0.00001202</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_29" class="leftmarketinfo_29" href="/markets/view/29" title="NameCoinBitCoin">
+                  
+                  NMC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_29_arrow"></span> <span class="status pull-right" id="market_price_29">0.00619954</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_54" class="leftmarketinfo_54" href="/markets/view/54" title="NoirBitsBitCoin">
+                  
+                  NRB/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_54_arrow"></span> <span class="status pull-right" id="market_price_54">0.00005939</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_13" class="leftmarketinfo_13" href="/markets/view/13" title="NovaCoinBitCoin">
+                  
+                  NVC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_13_arrow"></span> <span class="status pull-right" id="market_price_13">0.01412707</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_75" class="leftmarketinfo_75" href="/markets/view/75" title="OrbitcoinBitCoin">
+                  
+                  ORB/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_75_arrow"></span> <span class="status pull-right" id="market_price_75">0.00026240</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_144" class="leftmarketinfo_144" href="/markets/view/144" title="OpenSourceCoinBitCoin">
+                  
+                  OSC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_144_arrow"></span> <span class="status pull-right" id="market_price_144">0.00002732</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_86" class="leftmarketinfo_86" href="/markets/view/86" title="PhilosopherStoneBitCoin">
+                  
+                  PHS/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_86_arrow"></span> <span class="status pull-right" id="market_price_86">0.00015720</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_120" class="leftmarketinfo_120" href="/markets/view/120" title="CryptsyPointsBitCoin">
+                  
+                  Points/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_120_arrow"></span> <span class="status pull-right" id="market_price_120">0.00094638</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_28" class="leftmarketinfo_28" href="/markets/view/28" title="PeercoinBitCoin">
+                  
+                  PPC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_28_arrow"></span> <span class="status pull-right" id="market_price_28">0.00668043</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_119" class="leftmarketinfo_119" href="/markets/view/119" title="ProtoSharesBitCoin">
+                  
+                  PTS/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_119_arrow"></span> <span class="status pull-right" id="market_price_119">0.01553683</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_31" class="leftmarketinfo_31" href="/markets/view/31" title="PhoenixCoinBitCoin">
+                  
+                  PXC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_31_arrow"></span> <span class="status pull-right" id="market_price_31">0.00001302</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_92" class="leftmarketinfo_92" href="/markets/view/92" title="PayCoinBitCoin">
+                  
+                  PYC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_92_arrow"></span> <span class="status pull-right" id="market_price_92">0.00003457</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_71" class="leftmarketinfo_71" href="/markets/view/71" title="QuarkBitCoin">
+                  
+                  QRK/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_71_arrow"></span> <span class="status pull-right" id="market_price_71">0.00011020</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_143" class="leftmarketinfo_143" href="/markets/view/143" title="RonPaulCoinBitCoin">
+                  
+                  RPC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_143_arrow"></span> <span class="status pull-right" id="market_price_143">0.01000004</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_51" class="leftmarketinfo_51" href="/markets/view/51" title="StableCoinBitCoin">
+                  
+                  SBC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_51_arrow"></span> <span class="status pull-right" id="market_price_51">0.00002263</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_81" class="leftmarketinfo_81" href="/markets/view/81" title="SpotsBitCoin">
+                  
+                  SPT/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_81_arrow"></span> <span class="status pull-right" id="market_price_81">0.00001829</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_88" class="leftmarketinfo_88" href="/markets/view/88" title="SecureCoinBitCoin">
+                  
+                  SRC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_88_arrow"></span> <span class="status pull-right" id="market_price_88">0.00113000</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_83" class="leftmarketinfo_83" href="/markets/view/83" title="StarCoinBitCoin">
+                  
+                  STR/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_83_arrow"></span> <span class="status pull-right" id="market_price_83">0.00000226</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_117" class="leftmarketinfo_117" href="/markets/view/117" title="TagCoinBitCoin">
+                  
+                  TAG/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_117_arrow"></span> <span class="status pull-right" id="market_price_117">0.00150067</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_114" class="leftmarketinfo_114" href="/markets/view/114" title="TekCoinBitCoin">
+                  
+                  TEK/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_114_arrow"></span> <span class="status pull-right" id="market_price_114">0.00015100</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_130" class="leftmarketinfo_130" href="/markets/view/130" title="TigerCoinBitCoin">
+                  
+                  TGC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_130_arrow"></span> <span class="status pull-right" id="market_price_130">0.00000950</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_27" class="leftmarketinfo_27" href="/markets/view/27" title="TerraCoinBitCoin">
+                  
+                  TRC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_27_arrow"></span> <span class="status pull-right" id="market_price_27">0.00033684</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_133" class="leftmarketinfo_133" href="/markets/view/133" title="UnobtaniumBitCoin">
+                  
+                  UNO/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_133_arrow"></span> <span class="status pull-right" id="market_price_133">0.02035000</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_151" class="leftmarketinfo_151" href="/markets/view/151" title="VertCoinBitCoin">
+                  
+                  VTC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_151_arrow"></span> <span class="status pull-right" id="market_price_151">0.00503800</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_14" class="leftmarketinfo_14" href="/markets/view/14" title="WorldCoinBitCoin">
+                  
+                  WDC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_14_arrow"></span> <span class="status pull-right" id="market_price_14">0.00025321</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_115" class="leftmarketinfo_115" href="/markets/view/115" title="JouleCoinBitCoin">
+                  
+                  XJO/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_115_arrow"></span> <span class="status pull-right" id="market_price_115">0.00002457</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_63" class="leftmarketinfo_63" href="/markets/view/63" title="PrimeCoinBitCoin">
+                  
+                  XPM/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_63_arrow"></span> <span class="status pull-right" id="market_price_63">0.00330000</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_73" class="leftmarketinfo_73" href="/markets/view/73" title="YBCoinBitCoin">
+                  
+                  YBC/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_73_arrow"></span> <span class="status pull-right" id="market_price_73">0.00446973</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_85" class="leftmarketinfo_85" href="/markets/view/85" title="ZetaCoinBitCoin">
+                  
+                  ZET/BTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_85_arrow"></span> <span class="status pull-right" id="market_price_85">0.00002377</span>
+                                    
+                  </a></li>
+
+                 </ul> 
+              <div class="iScrollVerticalScrollbar iScrollLoneScrollbar" style="position: absolute; z-index: 9999; width: 7px; bottom: 2px; top: 2px; right: 1px;"><div class="iScrollIndicator" style="box-sizing: border-box; position: absolute; background: rgba(0, 0, 0, 0.5); border: 1px solid rgba(255, 255, 255, 0.9); border-radius: 3px; width: 100%; transition-duration: 0ms; display: block; height: 58px; transform: translate(0px, 0px) translateZ(0px); transition-timing-function: cubic-bezier(0.1, 0.57, 0.1, 1);"></div></div></div>
+              <hr class="separator">
+            </div>
+
+            <div class="moduletable moduletable-ltc-markets">
+              <div class="moduletable-header"><span class="glyphicon glyphicon-ltc-markets"></span> LTC Markets</div>
+              
+              
+              <div class="ltc-markets-wrap" style="top:22px; height:32px; border:1px solid #dddddd;" id="ltc-markets-top"> 
+                <ul class="nav nav-list" id="leftltclisttop"> 
+               		<li><a>&nbsp;</a></li>
+				</ul>
+			  </div>
+              
+              
+              <div class="ltc-markets-wrap" id="ltc-markets"> 
+
+              <ul class="nav nav-list" id="leftltclist" style="transition-timing-function: cubic-bezier(0.1, 0.57, 0.1, 1); transition-duration: 0ms; transform: translate(0px, 0px) translateZ(0px);"> 
+              
+              
+                
+
+                  <li><a id="leftmarketinfo_121" class="leftmarketinfo_121" href="/markets/view/121" title="AnonCoinLiteCoin">
+                  
+                  ANC/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_121_arrow"></span> <span class="status pull-right" id="market_price_121">0.13247813</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_111" class="leftmarketinfo_111" href="/markets/view/111" title="AsicCoinLiteCoin">
+                  
+                  ASC/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_111_arrow"></span> <span class="status pull-right" id="market_price_111">0.00003519</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_123" class="leftmarketinfo_123" href="/markets/view/123" title="CryptogenicBullionLiteCoin">
+                  
+                  CGB/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_123_arrow"></span> <span class="status pull-right" id="market_price_123">0.04447880</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_17" class="leftmarketinfo_17" href="/markets/view/17" title="CHNCoinLiteCoin">
+                  
+                  CNC/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_17_arrow"></span> <span class="status pull-right" id="market_price_17">0.00057750</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_91" class="leftmarketinfo_91" href="/markets/view/91" title="CopperBarsLiteCoin">
+                  
+                  CPR/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_91_arrow"></span> <span class="status pull-right" id="market_price_91">0.25020000</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_46" class="leftmarketinfo_46" href="/markets/view/46" title="DoubloonsLiteCoin">
+                  
+                  DBL/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_46_arrow"></span> <span class="status pull-right" id="market_price_46">0.00221150</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_96" class="leftmarketinfo_96" href="/markets/view/96" title="DigitalCoinLiteCoin">
+                  
+                  DGC/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_96_arrow"></span> <span class="status pull-right" id="market_price_96">0.01090107</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_135" class="leftmarketinfo_135" href="/markets/view/135" title="DogecoinLiteCoin">
+                  
+                  DOGE/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_135_arrow"></span> <span class="status pull-right" id="market_price_135">0.00006781</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_52" class="leftmarketinfo_52" href="/markets/view/52" title="DevCoinLiteCoin">
+                  
+                  DVC/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_52_arrow"></span> <span class="status pull-right" id="market_price_52">0.00002387</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_93" class="leftmarketinfo_93" href="/markets/view/93" title="ElephantCoinLiteCoin">
+                  
+                  ELP/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_93_arrow"></span> <span class="status pull-right" id="market_price_93">0.00009480</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_55" class="leftmarketinfo_55" href="/markets/view/55" title="EZCoinLiteCoin">
+                  
+                  EZC/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_55_arrow"></span> <span class="status pull-right" id="market_price_55">0.00043995</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_61" class="leftmarketinfo_61" href="/markets/view/61" title="FlorinCoinLiteCoin">
+                  
+                  FLO/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_61_arrow"></span> <span class="status pull-right" id="market_price_61">0.00047503</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_124" class="leftmarketinfo_124" href="/markets/view/124" title="FastCoinLiteCoin">
+                  
+                  FST/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_124_arrow"></span> <span class="status pull-right" id="market_price_124">0.00033212</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_36" class="leftmarketinfo_36" href="/markets/view/36" title="GoldCoinLiteCoin">
+                  
+                  GLD/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_36_arrow"></span> <span class="status pull-right" id="market_price_36">0.00111503</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_84" class="leftmarketinfo_84" href="/markets/view/84" title="GameCoinLiteCoin">
+                  
+                  GME/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_84_arrow"></span> <span class="status pull-right" id="market_price_84">0.00002185</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_60" class="leftmarketinfo_60" href="/markets/view/60" title="InfiniteCoinLiteCoin">
+                  
+                  IFC/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_60_arrow"></span> <span class="status pull-right" id="market_price_60">0.00000520</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_35" class="leftmarketinfo_35" href="/markets/view/35" title="JunkCoinLiteCoin">
+                  
+                  JKC/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_35_arrow"></span> <span class="status pull-right" id="market_price_35">0.00169321</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_100" class="leftmarketinfo_100" href="/markets/view/100" title="MegaCoinLiteCoin">
+                  
+                  MEC/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_100_arrow"></span> <span class="status pull-right" id="market_price_100">0.02675726</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_56" class="leftmarketinfo_56" href="/markets/view/56" title="MemeCoinLiteCoin">
+                  
+                  MEM/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_56_arrow"></span> <span class="status pull-right" id="market_price_56">0.00015750</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_145" class="leftmarketinfo_145" href="/markets/view/145" title="MoonCoinLiteCoin">
+                  
+                  MOON/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_145_arrow"></span> <span class="status pull-right" id="market_price_145">0.00000419</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_62" class="leftmarketinfo_62" href="/markets/view/62" title="MasterCoin (Hydro)LiteCoin">
+                  
+                  MST/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_62_arrow"></span> <span class="status pull-right" id="market_price_62">0.00026000</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_108" class="leftmarketinfo_108" href="/markets/view/108" title="NetcoinLiteCoin">
+                  
+                  NET/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_108_arrow"></span> <span class="status pull-right" id="market_price_108">0.00045590</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_125" class="leftmarketinfo_125" href="/markets/view/125" title="PeercoinLiteCoin">
+                  
+                  PPC/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_125_arrow"></span> <span class="status pull-right" id="market_price_125">0.26234759</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_101" class="leftmarketinfo_101" href="/markets/view/101" title="PhoenixCoinLiteCoin">
+                  
+                  PXC/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_101_arrow"></span> <span class="status pull-right" id="market_price_101">0.00049993</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_126" class="leftmarketinfo_126" href="/markets/view/126" title="QuarkLiteCoin">
+                  
+                  QRK/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_126_arrow"></span> <span class="status pull-right" id="market_price_126">0.00421757</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_87" class="leftmarketinfo_87" href="/markets/view/87" title="RedCoinLiteCoin">
+                  
+                  RED/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_87_arrow"></span> <span class="status pull-right" id="market_price_87">0.00056000</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_37" class="leftmarketinfo_37" href="/markets/view/37" title="RoyalCoinLiteCoin">
+                  
+                  RYC/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_37_arrow"></span> <span class="status pull-right" id="market_price_37">0.00022476</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_128" class="leftmarketinfo_128" href="/markets/view/128" title="StableCoinLiteCoin">
+                  
+                  SBC/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_128_arrow"></span> <span class="status pull-right" id="market_price_128">0.00088799</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_98" class="leftmarketinfo_98" href="/markets/view/98" title="SexCoinLiteCoin">
+                  
+                  SXC/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_98_arrow"></span> <span class="status pull-right" id="market_price_98">0.00063501</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_147" class="leftmarketinfo_147" href="/markets/view/147" title="FedoraCoinLiteCoin">
+                  
+                  TIPS/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_147_arrow"></span> <span class="status pull-right" id="market_price_147">0.00000048</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_107" class="leftmarketinfo_107" href="/markets/view/107" title="TicketsLiteCoin">
+                  
+                  TIX/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_107_arrow"></span> <span class="status pull-right" id="market_price_107">0.00000252</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_21" class="leftmarketinfo_21" href="/markets/view/21" title="WorldCoinLiteCoin">
+                  
+                  WDC/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_21_arrow"></span> <span class="status pull-right" id="market_price_21">0.00975557</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_67" class="leftmarketinfo_67" href="/markets/view/67" title="XenCoinLiteCoin">
+                  
+                  XNC/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_67_arrow"></span> <span class="status pull-right" id="market_price_67">0.00002096</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_106" class="leftmarketinfo_106" href="/markets/view/106" title="PrimeCoinLiteCoin">
+                  
+                  XPM/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_106_arrow"></span> <span class="status pull-right" id="market_price_106">0.12600001</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_127" class="leftmarketinfo_127" href="/markets/view/127" title="ZetaCoinLiteCoin">
+                  
+                  ZET/LTC <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_127_arrow"></span> <span class="status pull-right" id="market_price_127">0.00089503</span>
+                                    
+                  </a></li>
+
+               </ul> 
+               <div class="iScrollVerticalScrollbar iScrollLoneScrollbar" style="position: absolute; z-index: 9999; width: 7px; bottom: 2px; top: 2px; right: 1px;"><div class="iScrollIndicator" style="box-sizing: border-box; position: absolute; background: rgba(0, 0, 0, 0.5); border: 1px solid rgba(255, 255, 255, 0.9); border-radius: 3px; width: 100%; transition-duration: 0ms; display: block; height: 136px; transform: translate(0px, 0px) translateZ(0px); transition-timing-function: cubic-bezier(0.1, 0.57, 0.1, 1);"></div></div></div>
+              <hr class="separator">
+            </div>
+            
+            <div class="moduletable moduletable-xpm-markets">
+              <div class="moduletable-header"><span class="glyphicon glyphicon-xpm-markets"></span> XPM Markets</div>
+              
+              
+              <div class="xpm-markets-wrap" style="top:22px; height:32px; border:1px solid #dddddd;" id="xpm-markets-top"> 
+                <ul class="nav nav-list" id="leftxpmlisttop"> 
+               		<li><a>&nbsp;</a></li>
+				</ul>
+			  </div>
+              
+              
+              <div class="xpm-markets-wrap" id="xpm-markets"> 
+
+              <ul class="nav nav-list" id="leftxpmlist" style="transition-timing-function: cubic-bezier(0.1, 0.57, 0.1, 1); transition-duration: 0ms; transform: translate(0px, 0px) translateZ(0px);"> 
+              
+              
+                
+
+                  <li><a id="leftmarketinfo_112" class="leftmarketinfo_112" href="/markets/view/112" title="AsicCoinPrimeCoin">
+                  
+                  ASC/XPM <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_112_arrow"></span> <span class="status pull-right" id="market_price_112">0.00028901</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_118" class="leftmarketinfo_118" href="/markets/view/118" title="PenniesPrimeCoin">
+                  
+                  CENT/XPM <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_118_arrow"></span> <span class="status pull-right" id="market_price_118">0.00000002</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_122" class="leftmarketinfo_122" href="/markets/view/122" title="DevCoinPrimeCoin">
+                  
+                  DVC/XPM <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_122_arrow"></span> <span class="status pull-right" id="market_price_122">0.00018580</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_105" class="leftmarketinfo_105" href="/markets/view/105" title="InfiniteCoinPrimeCoin">
+                  
+                  IFC/XPM <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_105_arrow"></span> <span class="status pull-right" id="market_price_105">0.00004050</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_104" class="leftmarketinfo_104" href="/markets/view/104" title="NetcoinPrimeCoin">
+                  
+                  NET/XPM <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_104_arrow"></span> <span class="status pull-right" id="market_price_104">0.00350362</span>
+                                    
+                  </a></li>
+
+                  <li><a id="leftmarketinfo_103" class="leftmarketinfo_103" href="/markets/view/103" title="TicketsPrimeCoin">
+                  
+                  TIX/XPM <span class="pull-right glyphicon glyphicon-arrownone leftmarketinfo_103_arrow"></span> <span class="status pull-right" id="market_price_103">0.00001928</span>
+                                    
+                  </a></li>
+
+               </ul> 
+               <div class="iScrollVerticalScrollbar iScrollLoneScrollbar" style="position: absolute; z-index: 9999; width: 7px; bottom: 2px; top: 2px; right: 1px;"><div class="iScrollIndicator" style="box-sizing: border-box; position: absolute; background: rgba(0, 0, 0, 0.5); border: 1px solid rgba(255, 255, 255, 0.9); border-radius: 3px; width: 100%; transition-duration: 0ms; display: none; height: 392px; transform: translate(0px, 0px) translateZ(0px); transition-timing-function: cubic-bezier(0.1, 0.57, 0.1, 1);"></div></div></div>
+              <hr class="separator">
+            </div>
+            
+            <div class="clearfix"></div>
+            
+        </div>
+
+        <!-- Sidebar end -->
+
+
+        <!-- Content start -->
+        <div class="page" id="content" role="main">
+        			
+
+            
+            <div class="working-contents">
+              
+              
 
 
 
+<div class="page page-settings">
 
-
-
-      <div id="left-col">
-      
-          <div class="box">
-              <h4 class="light-grey rounded_by_jQuery_corners" style="padding: 0px;"><div style="font-size: 1px; background-color: rgb(232, 232, 221);"><div style="margin: 0px 2px; height: 1px; overflow: hidden; background-color: rgb(181, 183, 176);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(103, 108, 107);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(67, 72, 75);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div></div></div><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(145, 148, 144);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(181, 183, 176);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(103, 108, 107);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(67, 72, 75);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div></div><div style="padding: 5px 10px 10px;">USD Markets (Coming Soon)</div></h4>
-          <div class="box-container rounded_by_jQuery_corners" style="padding: 0px;"><div style="padding: 10px 10px 5px;"><!-- use no-padding wherever you need element padding gone -->
-
-<center>
-In the meantime...
 <br>
-<a href="https://coinbase.com/?r=519be0ae4d00525e4a00002c" alt="Create A Bitoin Wallet On Coinbase"><img src="https://coinbase.com/assets/badges/badge1.png" width="128" height="128"></a>
-<br>
-Buy &amp; Sell BitCoins @ <a href="https://coinbase.com/?r=519be0ae4d00525e4a00002c" alt="Create A Bitoin Wallet On Coinbase">Coinbase</a>
 
-</center>
+              <div class="panel panel-default">
 
-          </div><div style="font-size: 1px; background-color: rgb(232, 232, 221);"><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(254, 254, 253);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(249, 249, 246);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(239, 239, 231);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(244, 244, 238);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div></div><div style="margin: 0px 2px; height: 1px; overflow: hidden; background-color: rgb(239, 239, 231);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(249, 249, 246);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(254, 254, 253);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div></div></div></div></div><!--end of div.box-container -->
-          </div><!-- end of div.box --><!--end of div.box --><!-- end of div.box -->
-          
+                <div class="panel-heading"> 
+                	<span class="glyphicon glyphicon-market-display-settings"></span> CRYPTSY PRIVACY POLICY
+                </div>
 
-      
-          <div class="box">
-              <h4 class="light-grey rounded_by_jQuery_corners" style="padding: 0px;"><div style="font-size: 1px; background-color: rgb(232, 232, 221);"><div style="margin: 0px 2px; height: 1px; overflow: hidden; background-color: rgb(181, 183, 176);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(103, 108, 107);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(67, 72, 75);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div></div></div><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(145, 148, 144);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(181, 183, 176);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(103, 108, 107);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(67, 72, 75);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div></div><div style="padding: 5px 10px 10px;">BTC Markets</div></h4>
-          <div class="box-container rounded_by_jQuery_corners" style="padding: 0px;"><div style="padding: 10px 10px 5px;"><!-- use no-padding wherever you need element padding gone -->
-              <ul class="list-links">
-
-                  <li><a id="leftmarketinfo_57" href="/markets/view/57" title="AlphaCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">ALF/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_57">0.00000076</div></a></li>
-
-                  <li><a id="leftmarketinfo_43" href="/markets/view/43" title="AmericanCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">AMC/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_43">0.00000207</div></a></li>
-
-                  <li><a id="leftmarketinfo_66" href="/markets/view/66" title="AnonCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">ANC/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_66">0.00113000</div></a></li>
-
-                  <li><a id="leftmarketinfo_48" href="/markets/view/48" title="Argentum → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">ARG/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_48">0.00004640</div></a></li>
-
-                  <li><a id="leftmarketinfo_10" href="/markets/view/10" title="BBQCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">BQC/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_10">0.00000790</div></a></li>
-
-                  <li><a id="leftmarketinfo_23" href="/markets/view/23" title="BitBar → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">BTB/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_23">0.00350000</div></a></li>
-
-                  <li><a id="leftmarketinfo_49" href="/markets/view/49" title="ByteCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">BTE/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_49">0.00003075</div></a></li>
-
-                  <li><a id="leftmarketinfo_50" href="/markets/view/50" title="BitGem → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">BTG/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_50">0.00035005</div></a></li>
-
-                  <li><a id="leftmarketinfo_102" href="/markets/view/102" title="CryptoBuck → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">BUK/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_102">0.00010959</div></a></li>
-
-                  <li><a id="leftmarketinfo_53" href="/markets/view/53" title="BottleCaps → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">CAP/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_53">0.00001336</div></a></li>
-
-                  <li><a id="leftmarketinfo_70" href="/markets/view/70" title="CryptogenicBullion → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">CGB/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_70">0.00099250</div></a></li>
-
-                  <li><a id="leftmarketinfo_95" href="/markets/view/95" title="CopperLark → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">CLR/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_95">0.00033900</div></a></li>
-
-                  <li><a id="leftmarketinfo_74" href="/markets/view/74" title="Cosmoscoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">CMC/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_74">0.00004200</div></a></li>
-
-                  <li><a id="leftmarketinfo_58" href="/markets/view/58" title="CraftCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">CRC/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_58">0.00002147</div></a></li>
-
-                  <li><a id="leftmarketinfo_68" href="/markets/view/68" title="CasinoCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">CSC/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_68">0.00000304</div></a></li>
-
-                  <li><a id="leftmarketinfo_26" href="/markets/view/26" title="DigitalCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">DGC/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_26">0.00006021</div></a></li>
-
-                  <li><a id="leftmarketinfo_72" href="/markets/view/72" title="Diamond → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">DMD/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_72">0.00006521</div></a></li>
-
-                  <li><a id="leftmarketinfo_12" href="/markets/view/12" title="ElaCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">ELC/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_12">0.00030003</div></a></li>
-
-                  <li><a id="leftmarketinfo_69" href="/markets/view/69" title="Emerald → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">EMD/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_69">0.00000228</div></a></li>
-
-                  <li><a id="leftmarketinfo_39" href="/markets/view/39" title="FreiCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">FRC/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_39">0.00002487</div></a></li>
-
-                  <li><a id="leftmarketinfo_33" href="/markets/view/33" title="Franko → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">FRK/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_33">0.00224827</div></a></li>
-
-                  <li><a id="leftmarketinfo_44" href="/markets/view/44" title="FastCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">FST/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_44">0.00000386</div></a></li>
-
-                  <li><a id="leftmarketinfo_5" href="/markets/view/5" title="FeatherCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">FTC/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_5">0.00036675</div></a></li>
-
-                  <li><a id="leftmarketinfo_82" href="/markets/view/82" title="GrandCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">GDC/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_82">0.00000009</div></a></li>
-
-                  <li><a id="leftmarketinfo_76" href="/markets/view/76" title="Globalcoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">GLC/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_76">0.00000072</div></a></li>
-
-                  <li><a id="leftmarketinfo_78" href="/markets/view/78" title="Galaxycoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">GLX/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_78">0.00000052</div></a></li>
-
-                  <li><a id="leftmarketinfo_80" href="/markets/view/80" title="HoboNickels → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">HBN/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_80">0.00001500</div></a></li>
-
-                  <li><a id="leftmarketinfo_38" href="/markets/view/38" title="IXCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">IXC/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_38">0.00004921</div></a></li>
-
-                  <li><a id="leftmarketinfo_65" href="/markets/view/65" title="KrugerCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">KGC/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_65">0.00000045</div></a></li>
-
-                  <li><a id="leftmarketinfo_116" href="/markets/view/116" title="Lucky7Coin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">LK7/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_116">0.00000059</div></a></li>
-
-                  <li><a id="leftmarketinfo_34" href="/markets/view/34" title="LuckyCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">LKY/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_34">0.00001577</div></a></li>
-
-                  <li><a id="leftmarketinfo_3" href="/markets/view/3" title="LiteCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">LTC/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_3">0.01277998</div></a></li>
-
-                  <li><a id="leftmarketinfo_45" href="/markets/view/45" title="MegaCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">MEC/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_45">0.00006304</div></a></li>
-
-                  <li><a id="leftmarketinfo_32" href="/markets/view/32" title="Nibble → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">NBL/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_32">0.00001000</div></a></li>
-
-                  <li><a id="leftmarketinfo_90" href="/markets/view/90" title="NeoCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">NEC/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_90">0.00000300</div></a></li>
-
-                  <li><a id="leftmarketinfo_29" href="/markets/view/29" title="NameCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">NMC/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_29">0.00260000</div></a></li>
-
-                  <li><a id="leftmarketinfo_54" href="/markets/view/54" title="NoirBits → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">NRB/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_54">0.00000403</div></a></li>
-
-                  <li><a id="leftmarketinfo_13" href="/markets/view/13" title="NovaCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">NVC/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_13">0.02000000</div></a></li>
-
-                  <li><a id="leftmarketinfo_86" href="/markets/view/86" title="PhilosopherStone → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">PHS/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_86">0.00000824</div></a></li>
-
-                  <li><a id="leftmarketinfo_28" href="/markets/view/28" title="PPCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">PPC/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_28">0.00182502</div></a></li>
-
-                  <li><a id="leftmarketinfo_31" href="/markets/view/31" title="PhoenixCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">PXC/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_31">0.00000351</div></a></li>
-
-                  <li><a id="leftmarketinfo_92" href="/markets/view/92" title="PayCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">PYC/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_92">0.00001214</div></a></li>
-
-                  <li><a id="leftmarketinfo_71" href="/markets/view/71" title="Quark → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">QRK/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_71">0.00000072</div></a></li>
-
-                  <li><a id="leftmarketinfo_51" href="/markets/view/51" title="StableCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">SBC/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_51">0.00000090</div></a></li>
-
-                  <li><a id="leftmarketinfo_81" href="/markets/view/81" title="Spots → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">SPT/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_81">0.00000275</div></a></li>
-
-                  <li><a id="leftmarketinfo_88" href="/markets/view/88" title="SecureCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">SRC/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_88">0.00036002</div></a></li>
-
-                  <li><a id="leftmarketinfo_117" href="/markets/view/117" title="TagCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">TAG/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_117">0.00170425</div></a></li>
-
-                  <li><a id="leftmarketinfo_114" href="/markets/view/114" title="TekCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">TEK/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_114">0.00014019</div></a></li>
-
-                  <li><a id="leftmarketinfo_27" href="/markets/view/27" title="TerraCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">TRC/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_27">0.00038516</div></a></li>
-
-                  <li><a id="leftmarketinfo_14" href="/markets/view/14" title="WorldCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">WDC/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_14">0.00014238</div></a></li>
-
-                  <li><a id="leftmarketinfo_115" href="/markets/view/115" title="JouleCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">XJO/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_115">0.00001469</div></a></li>
-
-                  <li><a id="leftmarketinfo_63" href="/markets/view/63" title="PrimeCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">XPM/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_63">0.00347982</div></a></li>
-
-                  <li><a id="leftmarketinfo_11" href="/markets/view/11" title="YaCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">YAC/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_11">0.00001277</div></a></li>
-
-                  <li><a id="leftmarketinfo_73" href="/markets/view/73" title="YBCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">YBC/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_73">0.00290251</div></a></li>
-
-                  <li><a id="leftmarketinfo_85" href="/markets/view/85" title="ZetaCoin → BitCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">ZET/BTC</label><div style="text-align:right; padding-right:30px;" id="market_price_85">0.00000240</div></a></li>
-
-              </ul>
-          </div><div style="font-size: 1px; background-color: rgb(232, 232, 221);"><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(254, 254, 253);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(249, 249, 246);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(239, 239, 231);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(244, 244, 238);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div></div><div style="margin: 0px 2px; height: 1px; overflow: hidden; background-color: rgb(239, 239, 231);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(249, 249, 246);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(254, 254, 253);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div></div></div></div></div><!--end of div.box-container -->
-          </div><!-- end of div.box --><!--end of div.box --><!-- end of div.box -->
-          
-          <div class="box">
-              <h4 class="light-grey rounded_by_jQuery_corners" style="padding: 0px;"><div style="font-size: 1px; background-color: rgb(232, 232, 221);"><div style="margin: 0px 2px; height: 1px; overflow: hidden; background-color: rgb(181, 183, 176);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(103, 108, 107);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(67, 72, 75);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div></div></div><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(145, 148, 144);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(181, 183, 176);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(103, 108, 107);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(67, 72, 75);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div></div><div style="padding: 5px 10px 10px;">LTC Markets</div></h4>
-          <div class="box-container rounded_by_jQuery_corners" style="padding: 0px;"><div style="padding: 10px 10px 5px;"><!-- use no-padding wherever you need element padding gone -->
-              <ul class="list-links">
-
-                  <li><a id="leftmarketinfo_94" href="/markets/view/94" title="AndroidsTokens → LiteCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">ADT/LTC</label><div style="text-align:right; padding-right:30px;" id="market_price_94">0.00000012</div></a></li>
-
-                  <li><a id="leftmarketinfo_111" href="/markets/view/111" title="AsicCoin → LiteCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">ASC/LTC</label><div style="text-align:right; padding-right:30px;" id="market_price_111">0.00001800</div></a></li>
-
-                  <li><a id="leftmarketinfo_97" href="/markets/view/97" title="Pennies → LiteCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">CENT/LTC</label><div style="text-align:right; padding-right:30px;" id="market_price_97">0.00000008</div></a></li>
-
-                  <li><a id="leftmarketinfo_109" href="/markets/view/109" title="ColossusCoin → LiteCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">COL/LTC</label><div style="text-align:right; padding-right:30px;" id="market_price_109">0.00000003</div></a></li>
-
-                  <li><a id="leftmarketinfo_91" href="/markets/view/91" title="CopperBars → LiteCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">CPR/LTC</label><div style="text-align:right; padding-right:30px;" id="market_price_91">0.50000000</div></a></li>
-
-                  <li><a id="leftmarketinfo_46" href="/markets/view/46" title="Doubloons → LiteCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">DBL/LTC</label><div style="text-align:right; padding-right:30px;" id="market_price_46">0.00300498</div></a></li>
-
-                  <li><a id="leftmarketinfo_96" href="/markets/view/96" title="DigitalCoin → LiteCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">DGC/LTC</label><div style="text-align:right; padding-right:30px;" id="market_price_96">0.00530400</div></a></li>
-
-                  <li><a id="leftmarketinfo_52" href="/markets/view/52" title="DevCoin → LiteCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">DVC/LTC</label><div style="text-align:right; padding-right:30px;" id="market_price_52">0.00002262</div></a></li>
-
-                  <li><a id="leftmarketinfo_93" href="/markets/view/93" title="ElephantCoin → LiteCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">ELP/LTC</label><div style="text-align:right; padding-right:30px;" id="market_price_93">0.00002005</div></a></li>
-
-                  <li><a id="leftmarketinfo_55" href="/markets/view/55" title="EZCoin → LiteCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">EZC/LTC</label><div style="text-align:right; padding-right:30px;" id="market_price_55">0.00009100</div></a></li>
-
-                  <li><a id="leftmarketinfo_61" href="/markets/view/61" title="FlorinCoin → LiteCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">FLO/LTC</label><div style="text-align:right; padding-right:30px;" id="market_price_61">0.00047003</div></a></li>
-
-                  <li><a id="leftmarketinfo_84" href="/markets/view/84" title="GameCoin → LiteCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">GME/LTC</label><div style="text-align:right; padding-right:30px;" id="market_price_84">0.00000805</div></a></li>
-
-                  <li><a id="leftmarketinfo_60" href="/markets/view/60" title="InfiniteCoin → LiteCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">IFC/LTC</label><div style="text-align:right; padding-right:30px;" id="market_price_60">0.00000037</div></a></li>
-
-                  <li><a id="leftmarketinfo_35" href="/markets/view/35" title="JunkCoin → LiteCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">JKC/LTC</label><div style="text-align:right; padding-right:30px;" id="market_price_35">0.00012201</div></a></li>
-
-                  <li><a id="leftmarketinfo_100" href="/markets/view/100" title="MegaCoin → LiteCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">MEC/LTC</label><div style="text-align:right; padding-right:30px;" id="market_price_100">0.00530000</div></a></li>
-
-                  <li><a id="leftmarketinfo_56" href="/markets/view/56" title="MemeCoin → LiteCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">MEM/LTC</label><div style="text-align:right; padding-right:30px;" id="market_price_56">0.00007983</div></a></li>
-
-                  <li><a id="leftmarketinfo_62" href="/markets/view/62" title="MasterCoin → LiteCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">MST/LTC</label><div style="text-align:right; padding-right:30px;" id="market_price_62">0.00007004</div></a></li>
-
-                  <li><a id="leftmarketinfo_108" href="/markets/view/108" title="Netcoin → LiteCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">NET/LTC</label><div style="text-align:right; padding-right:30px;" id="market_price_108">0.00002500</div></a></li>
-
-                  <li><a id="leftmarketinfo_101" href="/markets/view/101" title="PhoenixCoin → LiteCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">PXC/LTC</label><div style="text-align:right; padding-right:30px;" id="market_price_101">0.00025016</div></a></li>
-
-                  <li><a id="leftmarketinfo_87" href="/markets/view/87" title="RedCoin → LiteCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">RED/LTC</label><div style="text-align:right; padding-right:30px;" id="market_price_87">0.00008051</div></a></li>
-
-                  <li><a id="leftmarketinfo_37" href="/markets/view/37" title="RoyalCoin → LiteCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">RYC/LTC</label><div style="text-align:right; padding-right:30px;" id="market_price_37">0.00015000</div></a></li>
-
-                  <li><a id="leftmarketinfo_98" href="/markets/view/98" title="SexCoin → LiteCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">SXC/LTC</label><div style="text-align:right; padding-right:30px;" id="market_price_98">0.00020008</div></a></li>
-
-                  <li><a id="leftmarketinfo_107" href="/markets/view/107" title="Tickets → LiteCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">TIX/LTC</label><div style="text-align:right; padding-right:30px;" id="market_price_107">0.00000025</div></a></li>
-
-                  <li><a id="leftmarketinfo_21" href="/markets/view/21" title="WorldCoin → LiteCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">WDC/LTC</label><div style="text-align:right; padding-right:30px;" id="market_price_21">0.01252998</div></a></li>
-
-                  <li><a id="leftmarketinfo_67" href="/markets/view/67" title="XenCoin → LiteCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">XNC/LTC</label><div style="text-align:right; padding-right:30px;" id="market_price_67">0.00009870</div></a></li>
-
-                  <li><a id="leftmarketinfo_106" href="/markets/view/106" title="PrimeCoin → LiteCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">XPM/LTC</label><div style="text-align:right; padding-right:30px;" id="market_price_106">0.29798978</div></a></li>
-
-              </ul>
-          </div><div style="font-size: 1px; background-color: rgb(232, 232, 221);"><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(254, 254, 253);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(249, 249, 246);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(239, 239, 231);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(244, 244, 238);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div></div><div style="margin: 0px 2px; height: 1px; overflow: hidden; background-color: rgb(239, 239, 231);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(249, 249, 246);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(254, 254, 253);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div></div></div></div></div><!--end of div.box-container -->
-          </div><!-- end of div.box --><!--end of div.box --><!-- end of div.box -->
-          
-
-          <div class="box">
-              <h4 class="light-grey rounded_by_jQuery_corners" style="padding: 0px;"><div style="font-size: 1px; background-color: rgb(232, 232, 221);"><div style="margin: 0px 2px; height: 1px; overflow: hidden; background-color: rgb(181, 183, 176);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(103, 108, 107);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(67, 72, 75);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div></div></div><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(145, 148, 144);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(181, 183, 176);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(103, 108, 107);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(67, 72, 75);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div></div><div style="padding: 5px 10px 10px;">XPM Markets</div></h4>
-          <div class="box-container rounded_by_jQuery_corners" style="padding: 0px;"><div style="padding: 10px 10px 5px;"><!-- use no-padding wherever you need element padding gone -->
-              <ul class="list-links">
-
-                  <li><a id="leftmarketinfo_113" href="/markets/view/113" title="AndroidsTokens → PrimeCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">ADT/XPM</label><div style="text-align:right; padding-right:30px;" id="market_price_113">0.00000046</div></a></li>
-
-                  <li><a id="leftmarketinfo_112" href="/markets/view/112" title="AsicCoin → PrimeCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">ASC/XPM</label><div style="text-align:right; padding-right:30px;" id="market_price_112">0.00005500</div></a></li>
-
-                  <li><a id="leftmarketinfo_110" href="/markets/view/110" title="ColossusCoin → PrimeCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">COL/XPM</label><div style="text-align:right; padding-right:30px;" id="market_price_110">0.00000012</div></a></li>
-
-                  <li><a id="leftmarketinfo_105" href="/markets/view/105" title="InfiniteCoin → PrimeCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">IFC/XPM</label><div style="text-align:right; padding-right:30px;" id="market_price_105">0.00000130</div></a></li>
-
-                  <li><a id="leftmarketinfo_104" href="/markets/view/104" title="Netcoin → PrimeCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">NET/XPM</label><div style="text-align:right; padding-right:30px;" id="market_price_104">0.00008398</div></a></li>
-
-                  <li><a id="leftmarketinfo_103" href="/markets/view/103" title="Tickets → PrimeCoin"><label style="cursor: pointer; display:block; width:75px; float:left;">TIX/XPM</label><div style="text-align:right; padding-right:30px;" id="market_price_103">0.00000077</div></a></li>
-
-              </ul>
-          </div><div style="font-size: 1px; background-color: rgb(232, 232, 221);"><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(254, 254, 253);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(249, 249, 246);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(239, 239, 231);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(244, 244, 238);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div></div><div style="margin: 0px 2px; height: 1px; overflow: hidden; background-color: rgb(239, 239, 231);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(249, 249, 246);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(254, 254, 253);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div></div></div></div></div><!--end of div.box-container -->
-          </div><!-- end of div.box --><!--end of div.box --><!-- end of div.box -->
-          
-
-
-
-          
-          
-
-          <div class="box">
-              <h4 class="light-blue rounded_by_jQuery_corners" style="padding: 0px;"><div style="font-size: 1px; background-color: rgb(232, 232, 221);"><div style="margin: 0px 2px; height: 1px; overflow: hidden; background-color: rgb(181, 183, 176);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(103, 108, 107);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(67, 72, 75);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div></div></div><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(145, 148, 144);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(181, 183, 176);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(103, 108, 107);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(67, 72, 75);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div></div><div style="padding: 5px 10px 10px;">Contacts &amp; Links</div></h4>
-          <div class="box-container rounded_by_jQuery_corners" style="padding: 0px;"><div style="padding: 10px 10px 5px;"><!-- use no-padding wherever you need element padding gone -->
-              <ulx class="list-links">
-
-
-<br>
- Twitter - @cryptsy<br>
- E-mail - support@cryptsy.com<br>
- <br><br>
-<strong>BigVern Pools:</strong>
-<br><br>
-<div style="padding-bottom:5px;"><label style="width:40px;display:block; float:left;">LTC:</label><a href="http://www.litebonk.com" target="_new" style="text-decoration:none; color:#5c6467; font-weight:bold;">www.litebonk.com</a></div>
-<div style="padding-bottom:5px;"><label style="width:40px;display:block; float:left;">FTC:</label><a href="http://www.fcpool.com" target="_new" style="text-decoration:none; color:#5c6467; font-weight:bold;">www.fcpool.com</a></div>
-<div style="padding-bottom:5px;"><label style="width:40px;display:block; float:left;">CHN:</label><a href="http://www.chnpool.com" target="_new" style="text-decoration:none; color:#5c6467; font-weight:bold;">www.chnpool.com</a></div>
-<div style="padding-bottom:5px;"><label style="width:40px;display:block; float:left;">MNC:</label><a href="http://www.mincoinpool.com" target="_new" style="text-decoration:none; color:#5c6467; font-weight:bold;">www.mincoinpool.com</a></div>
-<div style="padding-bottom:5px;"><label style="width:40px;display:block; float:left;">RYC:</label><a href="http://www.royalcoinpool.com" target="_new" style="text-decoration:none; color:#5c6467; font-weight:bold;">www.royalcoinpool.com</a></div>
-<div style="padding-bottom:5px;"><label style="width:40px;display:block; float:left;">BQC:</label><a href="http://www.bqcpool.com" target="_new" style="text-decoration:none; color:#5c6467; font-weight:bold;">www.bqcpool.com</a></div>
-<div style="padding-bottom:5px;"><label style="width:40px;display:block; float:left;">WDC:</label><a href="http://www.worldcoinpool.com" target="_new" style="text-decoration:none; color:#5c6467; font-weight:bold;">www.worldcoinpool.com</a></div>
-<div style="padding-bottom:5px;"><label style="width:40px;display:block; float:left;">NVC:</label><a href="http://www.nvcpool.com" target="_new" style="text-decoration:none; color:#5c6467; font-weight:bold;">www.nvcpool.com</a></div>
-<div style="padding-bottom:5px;"><label style="width:40px;display:block; float:left;">ELC:</label><a href="http://www.elacoinpool.com" target="_new" style="text-decoration:none; color:#5c6467; font-weight:bold;">www.elacoinpool.com</a></div>
-<div style="padding-bottom:5px;"><label style="width:40px;display:block; float:left;">DGC:</label><a href="http://www.digicoinpool.com" target="_new" style="text-decoration:none; color:#5c6467; font-weight:bold;">www.digicoinpool.com</a></div>
-<div style="padding-bottom:5px;"><label style="width:40px;display:block; float:left;">LKY:</label><a href="http://www.luckycoinpool.com" target="_new" style="text-decoration:none; color:#5c6467; font-weight:bold;">www.luckycoinpool.com</a></div>
-<div style="padding-bottom:5px;"><label style="width:40px;display:block; float:left;">FRK:</label><a href="http://www.frankopool.com" target="_new" style="text-decoration:none; color:#5c6467; font-weight:bold;">www.frankopool.com</a></div>
-<div style="padding-bottom:5px;"><label style="width:40px;display:block; float:left;">BTB:</label><a href="http://www.bitbarpool.com" target="_new" style="text-decoration:none; color:#5c6467; font-weight:bold;">www.bitbarpool.com</a></div>
-<div style="padding-bottom:5px;"><label style="width:40px;display:block; float:left;">MEM:</label><a href="http://www.memecoinpool.com" target="_new" style="text-decoration:none; color:#5c6467; font-weight:bold;">www.memecoinpool.com</a></div>
-<div style="padding-bottom:5px;"><label style="width:40px;display:block; float:left;">AMC:</label><a href="http://www.americancoinpool.com" target="_new" style="text-decoration:none; color:#5c6467; font-weight:bold;">www.americancoinpool.com</a></div>
-<div style="padding-bottom:5px;"><label style="width:40px;display:block; float:left;">HYC:</label><a href="http://www.hypercoinpool.com" target="_new" style="text-decoration:none; color:#5c6467; font-weight:bold;">www.hypercoinpool.com</a></div>
-<div style="padding-bottom:5px;"><label style="width:40px;display:block; float:left;">PXC:</label><a href="http://www.phenixcoinpool.com" target="_new" style="text-decoration:none; color:#5c6467; font-weight:bold;">www.phenixcoinpool.com</a></div>
-<div style="padding-bottom:5px;"><label style="width:40px;display:block; float:left;">ARG:</label><a href="http://www.argentumpool.com" target="_new" style="text-decoration:none; color:#5c6467; font-weight:bold;">www.argentumpool.com</a></div>
-<div style="padding-bottom:5px;"><label style="width:40px;display:block; float:left;">CAP:</label><a href="http://www.bottlecapspool.com" target="_new" style="text-decoration:none; color:#5c6467; font-weight:bold;">www.bottlecapspool.com</a></div>
-
-<br><br>
-<strong>Other Links:</strong>
-<br><br>
-CryptoCoin Charts<br>
- - <a href="http://www.cryptocoincharts.info/" target="_new" style="text-decoration:none; color:#5c6467; font-weight:bold;">cryptocoincharts.info</a><br><br>
-
-
-              </ulx>
-          </div><div style="font-size: 1px; background-color: rgb(232, 232, 221);"><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(254, 254, 253);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(249, 249, 246);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(239, 239, 231);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(244, 244, 238);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div></div><div style="margin: 0px 2px; height: 1px; overflow: hidden; background-color: rgb(239, 239, 231);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(249, 249, 246);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(254, 254, 253);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div></div></div></div></div><!--end of div.box-container -->
-          </div><!-- end of div.box --><!--end of div.box --><!-- end of div.box -->
-          
-          
-          
-          
-          
-          
-      </div> <!-- end of div#left-col -->
-
-
-
-
-      
-      <div id="mid-col" class="full-col"><!-- end of div.box -->
-
-
-
-<div class="box">
-      		<h4 class="white rounded_by_jQuery_corners" style="padding: 0px;"><div style="font-size: 1px; background-color: rgb(232, 232, 221);"><div style="margin: 0px 2px; height: 1px; overflow: hidden; background-color: rgb(181, 183, 176);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(103, 108, 107);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(67, 72, 75);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div></div></div><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(145, 148, 144);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(181, 183, 176);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(103, 108, 107);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(67, 72, 75);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(58, 64, 67);"></div></div></div><div style="padding: 5px 10px 10px;">PRIVACY POLICY</div></h4>
-        	<div class="box-container rounded_by_jQuery_corners" style="padding: 0px;"><div style="padding: 10px 10px 5px;">
+                  <div class="generaltext">
 
 
 This Privacy Policy governs the manner in which Project Investors, Inc collects, uses, maintains and discloses information collected from users (each, a "User") of the <a href="https://www.cryptsy.com">www.cryptsy.com</a> website ("Site"). This privacy policy applies to the Site and all products and services offered by Project Investors, Inc.<br><br>
@@ -484,7 +1033,8 @@ Project Investors, Inc may collect and use Users personal information for the fo
 <li><i>- To send periodic emails</i><br><br>
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.</li><br>
 </ul>
-<br>
+
+
 <b>How we protect your information</b><br><br>
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.<br><br>
@@ -511,9 +1061,9 @@ By using this Site, you signify your acceptance of this policy and <a href="http
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:<br><br>
 <a href="https://www.cryptsy.com">www.cryptsy.com</a><br>
-Project Investors Inc<br>
-PO Box 3255<br>
-Boynton Beach, FL  33436<br>
+Project Investors Inc DBA Cryptsy.com<br>
+1300 NW 17th Ave Suite 152<br>
+Delray Beach, FL  33445<br>
 888-963-9935<br>
 support@cryptsy.com<br>
 <br>
@@ -521,52 +1071,55 @@ This document was last updated on July 16, 2013<br><br>
 
 
  	
-      	</div><div style="font-size: 1px; background-color: rgb(232, 232, 221);"><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(254, 254, 253);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(249, 249, 246);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div><div style="margin: 0px; height: 1px; overflow: hidden; background-color: rgb(239, 239, 231);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(244, 244, 238);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div></div><div style="margin: 0px 2px; height: 1px; overflow: hidden; background-color: rgb(239, 239, 231);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(249, 249, 246);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(254, 254, 253);"><div style="margin: 0px 1px; height: 1px; overflow: hidden; background-color: rgb(255, 255, 255);"></div></div></div></div></div></div>
+      	</div>
+</div>
 </div>
 
 
-      </div><!-- end of div#mid-col --><!-- end of div#right-col -->     
-      
-      <span class="clearFix">&nbsp;</span>     
-</div><!-- end of div#content -->
-<div class="push"></div>
-</div><!-- end of #container -->
+            <div class="clearfix"></div>
 
-<div id="footer-wrap">
-	<div id="footer">
-        
-        <div id="footer-bottom">
-        	<p>© 2013 Cryptsy. All Rights Reserved &nbsp;&nbsp; BSA ID: 31000027060819</p>
+
+            </div><!--/end working-contents--> 
+        </div><!--/content-->
+
+       
+    </div><!--/row/maincontents-->
+    
+
+</div> <!-- /container -->
+
+<div class="clearfix"></div>
+<footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-6 copyrights">
+          <p>© 2014 Project Investors Inc  -  All Rights Reserved</p>
         </div>
-        
-	</div>
-</div>
+        <div class="col-xs-6 nav">
+          <ul class="nav nav-pills pull-right"> 
+            <li><a href="/pages/terms" title="Terms">Terms</a></li>
+            <li><a href="/pages/privacy" title="Privacy">Privacy</a></li>
+            <li><a href="http://blog.cryptsy.com" title="Blog">Blog</a></li>
+            <li><a href="https://cryptsy.freshdesk.com/support/home" target="_new" title="Support">Support</a></li>
+            <li><a href="/pages/api" title="API">API</a></li>
+            <li><a href="/pages/security" title="About">Security</a></li>
+            <li><a href="/pages/about" title="About">About</a></li>
+            <li><a href="/pages/jobs" title="About">Jobs</a></li>
 
-
-<div class="slide-out-div" style="height: 554px; line-height: 1; position: fixed; top: 60px; right: -357px;">
-<a class="handle" href="#" style="background: url(&quot;/images/chat_tab.gif&quot;) no-repeat; width: 40px; height: 122px; display: block; text-indent: -99999px; outline: none; position: absolute; top: 0px; left: -40px;">&nbsp;</a>
-
-<div id="chatcontent" style="overflow-y:auto; overflow-x:hidden; border:1px solid #eeeeee; border-bottom: 1px solid #333333; width:350px; height:500px; background:#ffffff;"></div>
-
-<div id="chatbottom" style="text-align:center; height:50px;">
-<br>Log In To Join Chat
-</div>
-
-</div>
-
+          </ul>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12 notice">
+<p>Market volatility, volume, and system availability may delay account access and trade executions.  Project Investors Inc. FinCEN BSA ID: 31000027060819<br>This is not an offer or solicitation in any jurisdiction where we are not authorized to do business. Cryptsy is a trademark owned by Project Investors, Inc.</p>
+  		</div>
+      </div>
+    </div>
+</footer> 
+    
 <script type="text/javascript">
 
-$(function() {
-	
-
-
-
-	getchats(0);
-	
-
-
-
-function getlasttrades()
+function getlasttrades(bypass)
 {
 	var cachebuster =  new Date().getTime();
 	$.getJSON('/trades/ajaxlasttrades?'+cachebuster, function(data) 
@@ -577,167 +1130,117 @@ function getlasttrades()
 			if (val != origval)
 			{
 				$("#market_price_"+key).text(val);
-				if (val > origval)
+				
+				if (bypass != 1)
 				{
-					$("#leftmarketinfo_"+key).effect("highlight", {color: '#ADFF2F'}, 2000);
-				}
-				else
-				{
-					$("#leftmarketinfo_"+key).effect("highlight", {color: '#F08080'}, 2000);
+					if (val > origval)
+					{
+						$("#leftmarketinfo_"+key).effect("highlight");
+						$("#leftmarketinfo_"+key+"_arrow").removeClass("glyphicon-arrowdown");
+						$("#leftmarketinfo_"+key+"_arrow").removeClass("glyphicon-arrownone");
+						$("#leftmarketinfo_"+key+"_arrow").addClass("glyphicon-arrowup");					
+					}
+					else
+					{
+						$("#leftmarketinfo_"+key).effect("highlight");
+						$("#leftmarketinfo_"+key+"_arrow").removeClass("glyphicon-arrowup");
+						$("#leftmarketinfo_"+key+"_arrow").removeClass("glyphicon-arrownone");
+						$("#leftmarketinfo_"+key+"_arrow").addClass("glyphicon-arrowdown");
+					}
 				}
 			}
 		});
 	});
 }
 
-getlasttrades();
-
-
-// Polling for Chat and User Changes
-
-});
-
-
-
-
-function replyto(handle)
-{
-	$("#chatinput").val('@' + handle + ': ');
-}
-
-function chatoptions(handle)
-{
-
-
-}
-
+getlasttrades(1);
 
 $(function() {
 
 
-
-    $('.slide-out-div').tabSlideOut({
-        tabHandle: '.handle',                     // class of the element that will become your tab
-        pathToTabImage: '/images/chat_tab.gif',   // path to the image for the tab //Optionally can be set using css
-        imageHeight: '122px',                     // height of tab image           //Optionally can be set using css
-        imageWidth: '40px',                       // width of tab image            //Optionally can be set using css
-        tabLocation: 'right',                     // side of screen where tab lives, top, right, bottom, or left
-        speed: 300,                               // speed of animation
-        action: 'click',                          // options: 'click' or 'hover', action to trigger animation
-        topPos: '60px',                          // position from the top/ use if tabLocation is left or right
-        leftPos: '20px',                          // position from left/ use if tabLocation is bottom or top
-        fixedPosition: true                       // options: true makes it stick(fixed position) on scroll
-    });
-
-
-	if ($('.slide-out-div').hasClass("open"))
-	{
-		// Nada
-	}
-	else
-	{
-		if ($.cookie('chatwin') == 'open')
-		{
-			$('.handle').click();
-		}
-	}
+// Polling for Changes
 
 });
-
-	var chatsrunning = 0;
-
-	function getchats(chattime)
-	{
-	
-		if (chatsrunning == 0)
-		{
-		
-			chatsrunning = 1;
-		
-			var cachebuster =  new Date().getTime();
-
-			$.getJSON('https://www.cryptsy.com:8443/chat.php?callback=?&time='+cachebuster, function(data) 
-			{
-				var content = ''
-				var bgcolor = '';
-				$.each(data, function(key, val) 
-				{
-					if (key%2==0)
-					{
-						bgcolor = "#ffffff";
-					}
-					else
-					{
-						bgcolor = "#eeeeee";
-					}
-
-					var splitter = val.indexOf("|");
-					var tstamp = val.substr(0,splitter);
-					var msg = val.substr(splitter+1);
-
-					startchattime = Math.max(chattime,tstamp);
-	
-					if (tstamp > chattime)
-					{
-						content += "<div style='padding: 2px; padding-top:5px; padding-bottom:5px; background:"+bgcolor+"'>" + msg + "</div>";
-					}
-
-				});
-
-
-				var innheight = $('#chatcontent').innerHeight();
-				var scrtop = $('#chatcontent').scrollTop();
-				var scrheight2 = $("#chatcontent").get(0).scrollHeight;
-
-				var totheight = innheight + scrtop;
-
-				var atbottom = false;
-				if (totheight == scrheight2)
-				{
-					atbottom = true;
-				}
-
-				$('#chatcontent').append(content);
-				if (atbottom || chattime == 0)
-				{
-					if (chattime == 0)
-					{
-						$("#chatcontent").animate({ scrollTop: $("#chatcontent")[0].scrollHeight}, 1);
-					}
-					else
-					{
-						$("#chatcontent").animate({ scrollTop: $("#chatcontent")[0].scrollHeight}, 800);
-					}
-				}
-			});
-		
-			chatsrunning = 0;
-		
-		}
-
-	}
 
 
 </script>
 
-<script type="text/javascript" src="https://s3.amazonaws.com/assets.freshdesk.com/widget/freshwidget.js"></script>
+<script type="text/javascript" src="/js/freshwidget.js"></script>
 <style type="text/css" media="screen, projection">
-	@import url(https://s3.amazonaws.com/assets.freshdesk.com/widget/freshwidget.css); 
+	@import url(/css/freshwidget.css); 
 </style> 
 <script type="text/javascript">
 $(function() {
-	FreshWidget.init("", {"queryString": "", "buttonText": "Support", "buttonColor": "white", "buttonBg": "#006063", "alignment": "4", "offset": "230px", "url": "https://cryptsy.freshdesk.com", "assetUrl": "https://s3.amazonaws.com/assets.freshdesk.com/widget"} );
+	FreshWidget.init("", {"queryString": "", "buttonText": "Support", "buttonColor": "white", "buttonBg": "#428bca", "alignment": "4", "offset": "230px", "url": "https://cryptsy.freshdesk.com", "assetUrl": "https://s3.amazonaws.com/assets.freshdesk.com/widget"} );
 });
 </script>
 
 <script type="text/javascript">
+
+$(function() {
+
+	// We will not update the charts if nobody is watching
+
+	function getHiddenProp(){
+	    var prefixes = ['webkit','moz','ms','o'];
+    
+	    // if 'hidden' is natively supported just return it
+	    if ('hidden' in document) return 'hidden';
+    
+	    // otherwise loop over all the known prefixes until we find one
+	    for (var i = 0; i < prefixes.length; i++){
+	        if ((prefixes[i] + 'Hidden') in document) 
+	            return prefixes[i] + 'Hidden';
+	    }
+
+	    // otherwise it's not supported
+	    return null;
+	}
+
+	function isHidden() {
+	    var prop = getHiddenProp();
+	    if (!prop) return false;
+    
+	    return document[prop];
+	}
+
+	var visProp = getHiddenProp();
+	if (visProp) {
+	  var evtname = visProp.replace(/[H|h]idden/,'') + 'visibilitychange';
+	  document.addEventListener(evtname, visChange);
+	}
+
+	function visChange() {
+	   var txtFld = $('#visChangeText');
+
+	   if (txtFld) {
+	      if (isHidden())
+	      {
+	         txtFld.val("0");
+	      }
+	      else
+	      {
+	         txtFld.val("1");
+	         
+	         
+	         
+	         
+	      }
+	   }
+	}
+
+});
+
+</script>  
+  <script type="text/javascript">
 //<![CDATA[
 (function() {
 var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=9';
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
 var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
 })();
 // ]]>
 </script>
+<!-- web33 -->
 
 <div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><button type="button" id="cboxClose"></button></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
