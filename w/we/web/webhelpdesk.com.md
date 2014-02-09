@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhelpdesk.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816053154id_/http%3A//www.webhelpdesk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhelpdesk.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209093256id_/http%3A//www.webhelpdesk.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Help Desk Software by Web Help Desk
 
@@ -27,4 +27,4 @@ This Privacy Statement and the Terms of Use of the SolarWinds Website constitute
 
 
 
-© 2013, SolarWinds Worldwide, LLC. All Rights Reserved.
+© 2014, SolarWinds Worldwide, LLC. All Rights Reserved.
