@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the braintreepaymentsolutions.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810052908id_/https%3A//www.braintreepayments.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the braintreepaymentsolutions.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209111124id_/https%3A//www.braintreepayments.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Braintree
+
+#### Revised: December 3, 2013
 
 ## Your privacy is very important to us. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. Please read this privacy policy to learn more about the ways in which we use and protect your personal information. We want you to fully understand our privacy practices.
 
@@ -10,7 +12,7 @@ The privacy practices of this statement apply to our services available under th
 
 Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience safer and easier. We only collect personal information about you that we consider necessary for achieving this purpose.
 
-In general, you can browse the Site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. If you choose to use our services, we may require you to provide contact and identity information, billing information and other personal information as indicated on the forms throughout the Site. Where possible, we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to use a particular service or feature. Under some circumstances we may require some additional financial information.
+In general, you can browse the Site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. If you choose to use our services, we may require you to provide contact and identity information, billing information and other personal information as indicated on the forms throughout the Site. Where possible, we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to use a particular service or feature. Under some circumstances we may require some additional financial or personal information about you from you or from one of our third party service providers.
 
 We automatically track certain information based upon your behavior on the Site. We use this information to do internal research on our users' demographics, interests, and behavior to better understand, protect and serve you and our community. This information may include the URL that you just came from (whether this URL is on the Site or not), which URL you next go to (whether this URL is on the Site or not), your computer browser information, and your IP address.
 
@@ -20,7 +22,7 @@ If you send us personal correspondence, such as emails or letters, or if other u
 
 ### Communications from the Site
 
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, for product updates, we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. 
+On rare occasions it is necessary to send out a strictly service related announcement. For instance, for product updates, we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature.
 
 We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the user's wishes.
 
@@ -30,13 +32,15 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 
 We share aggregated demographic information with our partners and advertisers. This is not linked to any personally identifiable information.
 
-Other Corporate Entities. We share much of our data, including personal information about you, with our partners that are committed to serving you throughout the world. To the extent that these entities have access to your information, they will treat it at least as protectively as they treat information they obtain from their other users. 
+Other Corporate Entities. We share much of our data, including personal information about you, with our partners that are committed to serving you throughout the world. To the extent that these entities have access to your information, they will treat it at least as protectively as they treat information they obtain from their other users.
+
+We may provide your information to, or request information about you from, third party service providers to assist in providing services to you and for fraud detection, identity verification or other similar purposes.
 
 In the event Braintree goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.
 
 ### Choice/Opt-out
 
-Our users are given the opportunity to ‘opt-out' of having their information used for purposes not directly related to our Site at the point where we ask for information. Users who no longer wish to receive communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or emailing us. Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
+Users who no longer wish to receive communications from us or our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or emailing us.
 
 ### Links
 
@@ -56,11 +60,11 @@ If a user's personally identifiable information changes (such as zip code, phone
 
 ### Safe Harbor
 
-Braintree follows the U.S.-EU Safe Harbor Principles and the U.S.-Swiss Safe Harbor Principles published by the United States Department of Commerce (the "Principles") with respect to the transfer of personal data from the European Union or Switzerland to the United States of America. To learn more about the Safe Harbor program, and to view Braintree's Safe Harbor certification, please visit <http://www.export.gov/safeharbor/>. This Privacy Policy details certain policies implemented throughout Braintree implementing the Principles and governing Braintree's use of personally identifiable information provided to Braintree via this Internet web site (the "Site") or otherwise. If there is any conflict between the policies in this Privacy Policy and the Principles, the Principles will govern.
+Braintree follows the U.S.-EU Safe Harbor Principles and the U.S.-Swiss Safe Harbor Principles published by the United States Department of Commerce (the "Principles") with respect to the transfer of personal data from the European Union or Switzerland to the United States of America. To learn more about the Safe Harbor program, and to view Braintree's Safe Harbor certification, please visit http://www.export.gov/safeharbor/. This Privacy Policy details certain policies implemented throughout Braintree implementing the Principles and governing Braintree's use of personally identifiable information provided to Braintree via this Internet web site (the "Site") or otherwise. If there is any conflict between the policies in this Privacy Policy and the Principles, the Principles will govern.
 
 ### Notification of Changes
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Site for 30 days. 
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Site for 30 days.
 
 ### Contact Information
 
