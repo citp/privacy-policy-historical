@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printinghost.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807121038id_/http%3A//www.printinghost.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printinghost.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209190902id_/http%3A//www.printinghost.com/privacypolicy.html) for the most accurate reproduction.*
 
 # printing host has the policy to place your order for customized printing and privacy
 
@@ -68,7 +68,7 @@ If customers have opted out of all communication with the site, or deleted/deact
 
 <span black;="" color:="" ;="" sans-serif="" ,="" verdana="" 9pt;="">If customers have any questions or suggestions regarding our privacy policy, please contact us at:
 
- **infoatprintinghostdotcom** **[](https://web.archive.org/web/20130807121038id_/http%3A//www.printinghost.com/%5C%22mailto:info@printinghost.com%5C%22)**
+ **infoatprintinghostdotcom** **[](https://web.archive.org/web/20140209190902id_/http%3A//www.printinghost.com/%5C%22mailto:info@printinghost.com%5C%22)**
 
  **USA Office:  
 ** 26645 W 12 Mile RD STE 201  
