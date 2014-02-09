@@ -1,21 +1,31 @@
-<!--The following is the downloaded HTML source of the echinacities.com privacy policy that was archived on 2013-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130502030843id_/http%3A//www.echinacities.com/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the echinacities.com privacy policy that was archived on 2014-02-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209132232id_/http%3A//www.echinacities.com/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 	<title>Privacy policy</title>
 	<meta name="description" content="">
 	<meta name="keyword" content="">
-	<link href="/static/css/common.css?7" rel="stylesheet" type="text/css">
-	<link href="/static/css/city_guide.css?7" rel="stylesheet" type="text/css">
-		<link rel="stylesheet" href="/static/css/static_comm.css?7">
+	<link href="/static/css/common.css?1" rel="stylesheet" type="text/css">
+	<link href="/static/css/city_guide.css?1" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" href="/static/css/static_comm.css?1">
 		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/static/js/jquery-1.4.4.min.js"></script>
 	<script type="text/javascript" src="/static/js/global.js"></script>
-		<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+	    <script type="text/javascript">
+	 $(function(){
+	    $('.needHelp').hover(function(){
+		    $(this).children('.needHelp_con').show();
+		},function(){
+		    $(this).children('.needHelp_con').hide();
+		});
+	});
+
+
+	</script>
 </head>
 <body>
 <div class="box_out">
-	<link href="/static/css/header.css?7" rel="stylesheet" type="text/css">
+	<link href="/static/css/header.css?1" rel="stylesheet" type="text/css">
 <script type="text/javascript">
 $(function(){
 	 $('.City_pulse').hover(function(){
@@ -54,13 +64,78 @@ $(function(){
 		$("#button"+i).hide();
 	}
 	
+$(function(){
+   $('.loginSpan').hover(function(){
+      $(this).find('ul').show();
+	  $(this).prev('span').css('border-right','none')
+   },function(){
+	   $(this).find('ul').hide();
+	   $(this).prev('span').css('border-right','1px solid #ccc')
+   });
+//more city
+$('#city dt span').click(function(){$('#city dd').html($(this).html())});
+var current=$('.jobs_more_city li'),index,tab=$('.moreCity_tab'),select_city=$('.select_city'),sel=$('.moreCity_hd dd'),sel_box=$('.moreCity_hd dt'),lis=$('.moreCity_hd dt span');
+tab.not(':first').hide();
+
+
+
+current.bind('click',function(){
 	
+   index=$(this).index();  
+   $(this).addClass('current').siblings().removeClass('current');
+   li = $(this).parents('.moreCoty_box').find('.moreCity_tab');
+   li.hide();
+  li.eq(index).show()
+ 
+
+}); 
+
+
+/*sel.click(function(){
+ $(this).parent().siblings(select_city).children('dt').hide();
+ if($(this).siblings(sel_box).is(':visible'))
+    $(this).siblings(sel_box).hide();
+ else
+   $(this).siblings(sel_box).show();
+   return false;
+});*/
+
+$('.More_city').hover(function(){$(this).find('ul').show();});
+$('.More_city .more_city_a').click(function(){
+	 if($(this).siblings('.jobs_more_city').is(':visible'))
+        $(this).siblings('.jobs_more_city').hide();
+     else
+	   $(this).siblings('.jobs_more_city').show();
+	  return false;
+});
+
+
+
+lis.click(function(){
+	 $(this).parent().siblings(sel).html($(this).html())
+}); 
+
+ $('#pro dt span').click(function(){
+	 var index1=$(this).index();
+	 $('#city').show();
+	 $('#city dd').html('请选择');
+     $('#city dt div').eq(index1).show().siblings().hide();
+ });  
+   
+ $('.jobs_more_city .colsed').live('click',function(){
+ 	$(this).parent('.jobs_more_city').hide();
+ });
+   
+//增加积分入口
+ $('.blog_points').hover(function(){
+	 $(this).children('.app_inner').show();
+ },function(){
+	 $(this).children('.app_inner').hide();
+ });
+   
+   
+});
 </script>
-
-
-
-
-
 <div class="box">
 	<div class="job_header">
 		<div class="head_top">
@@ -68,10 +143,11 @@ $(function(){
 				<div class="logo_L"><a href="http://www.echinacities.com"><img src="/static/img/Logo2.jpg" width="206" height="45"></a></div>
 								<div class="logo_R"><a href="#" class="Choose choose_click">Choose City</a></div>
 							 </div><!--logo-->
-				<div class="head_top_search" style="position:relative;">
+				<div class="head_top_search">
                     <div class="head_top_login_top">
-										<a href="http://www.echinacities.com/login">Login</a>|<a href="/register">Register</a>|<!--<a href="/forget_pwd">Forgot your  password</a>|-->
-										<a href="http://www.echinacities.com/faqs">FAQs</a>
+                       <script type="text/javascript" src="http://www.echinacities.com/user/user/get_login_html" charset="UTF-8"></script>
+					<a href="http://www.echinacities.com/faqs" title="Tips about using the website and its features
+">FAQs</a>
 			 		</div>      
 				</div><!--头部搜索-->
 		  <div class="head_top_login">
@@ -94,6 +170,7 @@ $(function(){
 						<span class="share_f"><a href="http://weibo.com/echinacities" target="_blank"><img src="/static/img/sinawb.jpg" width="24" height="25"></a><!--<p><a href="http://weibo.com/echinacities">新浪微博</a></p>--></span>
 					</div>
 		  </div><!--login_分享-->
+          <div class="clear"></div>
 		</div><!--head_top-->
 	      
         <div class="Menu">
@@ -149,12 +226,20 @@ $(function(){
                   </ul>
           </li> 
           <li><a class="Hover_color3" href="http://answers.echinacities.com/" target="_blank" onmouseover="ddrivetip('The place to ask China-related questions','#FFFFCC',240)" onmouseout="hideddrivetip()">ANSWERS</a></li> 
-          <li><a class="Hover_color4" href="http://jobs.echinacities.com/" onmouseover="ddrivetip('Search, find, post jobs across China','#FFFFCC',220)" onmouseout="hideddrivetip()">JOBS</a></li> 
+          <li class="menu_jobs">
+          		<a class="Hover_color4" href="http://jobs.echinacities.com/" onmouseover="ddrivetip('Search, find, post jobs across China','#FFFFCC',220)" onmouseout="hideddrivetip()">JOBS</a>
+                <i></i>
+          </li> 
           <li><a class="Hover_color5" href="http://classifieds.echinacities.com" onmouseover="ddrivetip('Buy, sell, personals &amp; more','#FFFFCC',180)" onmouseout="hideddrivetip()">CLASSIFIEDS</a></li> 
           <li><a class="Hover_color6" href="http://dating.echinacities.com" target="_blank" onmouseover="ddrivetip('Connecting Chinese &amp; foreign singles','#FFFFCC',220)" onmouseout="hideddrivetip()">DATING</a></li>
           <!-- <li><a class="Hover_color7" href="http://community.echinacities.com" onmouseover="ddrivetip('Connect, write, post, comment, share','#FFFFCC',220)" onmouseout="hideddrivetip()">COMMUNITY</a></li> -->
       </ul>
          <ul class="Menu_R">
+          <li>
+            <a href="http://listings.echinacities.com/Beijing/add">Add Venue</a>
+          </li>
+          <li class="job_menu_fgx"></li>
+          
           <li class="Post_ad" onmouseover="showbuttons(2)" onmouseout="hidebuttons(2)"><a class="Post_a" href="#">Post Ad</a>
             <ul class="Post_next" id="button2" style="display:none">
                <li><a href="http://jobs.echinacities.com/post_jobs">Post a Job</a></li>
@@ -164,8 +249,13 @@ $(function(){
             </ul>
           </li>
           <li class="job_menu_fgx"></li>
-          <li>
-            <a href="http://profile.echinacities.com/blog/pubblognode">Post a Blog</a>
+          <li class="blog_points">
+                      <a href="/login?url=http%3A%2F%2Fprofile.echinacities.com%2Fblog%2Fpubblognode" title="">Post a Blog</a>
+            <div class="app_inner">
+                <p class="app_inner_p"><span class="arrow-up"></span>
+                <span class="arrow-up-in"></span></p>
+                <p>Share your blog with others and earn  5 <a target="_blank" style="color:#054B7B" href="http://www.echinacities.com/faqs#point_1">points</a>.</p>
+           </div>
           </li>
          </ul>
          <div class="clear"></div>
@@ -265,19 +355,21 @@ $(function(){
     }
     else
     {
-      obj = $('.Menu_two_L>ul>li').not('.job_menu_fgx').get(hl_para_id)
+	      obj = $('.Menu_two_L>ul>li').not('.job_menu_fgx').get(hl_para_id)
     }
     $(obj).addClass(hl_class)
   }
-</script>
-	<div class="box">
+	$(".municipality").live('click',function(){
+		$("#city dd").html($(this).html())
+	});
+</script>	<div class="box">
 				<div class="city_con">
 			<div class="city_tit"></div>
 		</div>
 				<div class="resume">
   <div class="Lx_Left fl">
    <a href="/about_us">About Us</a>
-   <a href="/contact_us">Contact Us</a>
+   <a href="http://www.echinacities.com/main/contact/contact_us/customer_service">Contact Us</a>
    <a href="/careers">Careers</a>
    <a href="/policy" id="Hover">Privacy Policy</a>
   <!-- <a target="_blank" href="http://www.echinacities.com/survey-site/">Survey</a> -->
@@ -305,7 +397,7 @@ $(function(){
 				<ul>
 					<li><a href="http://www.echinacities.com/about_us">About Us</a></li>
 					<li>|</li>
-					<li><a href="http://www.echinacities.com/contact_us">Contact Us</a></li>
+					<li><a href="http://www.echinacities.com/main/contact/contact_us/customer_service">Contact Us</a></li>
 					<li>|</li>
 					<li><a href="http://www.echinacities.com/careers">Careers</a></li>
 					<li>|</li>
@@ -416,8 +508,8 @@ $(function(){
      </div>
      
  </div>
-</div>
-</div>
+</div>  
+    </div> 
 
 
 <script type="text/javascript">
@@ -427,7 +519,7 @@ document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3
 </script><script src=" https://hm.baidu.com/h.js?96e775c5e2e9c52158bba90e8ceecf7c" type="text/javascript"></script>
 
 <script type="text/javascript">
-  var _gaq = _gaq || [];
+var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-5050936-1']);
   _gaq.push(['_setDomainName', 'echinacities.com']);
   _gaq.push(['_trackPageview']);
@@ -437,4 +529,8 @@ document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-</script></body></html>
+</script>
+
+
+
+</body></html>
