@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the resume-library.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806101426id_/http%3A//www.resume-library.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resume-library.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209021021id_/http%3A//www.resume-library.com/privacy) for the most accurate reproduction.*
 
-# Resume-Library - Resume-Library.com Privacy Policy
+# Terms & Conditions | Privacy Policy | Resume-Library.com
 
 Resume-Library endeavours to ensure that the information that you submit to us remains private, and that it is used only for the purposes described below. We aim to provide a safe and secure experience for all of our users. We make every effort to comply with our obligations under the 1998 Data Protection Act. Additionally, we understand the importance of maintaining the confidentiality of your Resume and other information stored about you while using the site.
 
