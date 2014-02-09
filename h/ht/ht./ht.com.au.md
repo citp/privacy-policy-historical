@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ht.com.au privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817050337id_/http%3A//www.ht.com.au/itype/purchasing/article/security_and_privacy/information_detail.hts) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ht.com.au privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209165000id_/http%3A//www.ht.com.au/itype/purchasing/article/security_and_privacy/information_detail.hts) for the most accurate reproduction.*
 
 # Security &amp; Privacy Policy | Purchasing Information | ht.com.au
 
@@ -51,9 +51,3 @@ We do not want to send emails to you if you would prefer not to receive them. Th
 Changes to your contact, invoice and delivery details can be made using the [Account](https://web.archive.org/account.hts) section of ht.com.au.
 
 Subscribing, unsubscribing or changing your subscription preferences can be made using the [Subscription Centre](https://web.archive.org/subscriptions.hts) available anyone with a Harris Technology account.
-
-#### Coles Group Limited Privacy Policy
-
-Coles Group Limited is committed to protecting the privacy of everyone who shops or interacts with them. Their privacy policy applies to Coles Group Limited Ltd and its related companies, and covers all personal information that Coles Group Limited collects about customers and other individuals outside the Coles Group Limited group. 
-
-[Read the Coles Group Limited Privacy Policy](http://www.colesgroup.com.au/Home/privacy.asp). 
