@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beamite.com privacy policy that was archived on 2012-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120131230348id_/http%3A//www.beamite.com/index.php%3Fukey%3Dauxpage_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beamite.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209091427id_/http%3A//beamite.com/index.php%3Fukey%3Dauxpage_privacy) for the most accurate reproduction.*
 
 # Privacy Policy ― Beamite.com
 
@@ -18,7 +18,7 @@ Order Information \- When placing an order we collect the following information:
 
 This information is used to process your order, send you a receipt, and inform you of your order status. Your information will not be given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product.
 
-We keep electronic safeguards to ensure the maximum security of your personal information. All orders placed on our site are protected by the highest level of encryption. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway providers database, only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+We keep electronic safeguards to ensure the maximum security of your personal information. All orders placed on our site are protected by the highest level of encryption. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway providers database, only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. Please note, we do not keep live payment card details as part of our policy of compliance to PCI DSS. 
 
 We also have reasonable procedures in place to protect against the loss, misuse, and alteration of the information under our control Credit card transactions are processed by a trusted third-party financial institution. 
 
