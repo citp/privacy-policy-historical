@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hogville.net privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203183330id_/http%3A//www.hogville.net/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hogville.net privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209215216id_/http%3A//hogville.net/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Hogville.net
 
@@ -37,15 +37,15 @@ Most popular forums:
 
 | Board | Topics | Posts  
 ---|---|---  
-[Monday Morning Quarterback](http://www.hogville.net/yabbse/index.php?board=1.0) [](http://www.hogville.net/yabbse/index.php?board=1.0) | 162,522 | 3,441,037  
-[Jump Ball](http://www.hogville.net/yabbse/index.php?board=71.0) [](http://www.hogville.net/yabbse/index.php?board=71.0) | 23,189 | 589,614  
-[Recruiting Forum](http://www.hogville.net/yabbse/index.php?board=3.0) [](http://www.hogville.net/yabbse/index.php?board=3.0) | 20,225 | 403,397  
+[Monday Morning Quarterback](http://www.hogville.net/yabbse/index.php?board=1.0) [](http://www.hogville.net/yabbse/index.php?board=1.0) | 163,111 | 3,462,042  
+[Jump Ball](http://www.hogville.net/yabbse/index.php?board=71.0) [](http://www.hogville.net/yabbse/index.php?board=71.0) | 24,298 | 626,317  
+[SEC Sports](http://www.hogville.net/yabbse/index.php?board=92.0) [](http://www.hogville.net/yabbse/index.php?board=92.0) | 13,774 | 399,873  
   
 Most Popular Threads: 
 
 | Views | Replies  
 ---|---|---  
-[Agnosticism](http://www.hogville.net/yabbse/index.php?topic=482000.0) | 224,577 | 16,382  
-[Arkansas CWS game thread - Hogs headed home ........LSU 14 Razorbacks 5](http://www.hogville.net/yabbse/index.php?topic=296176.0) | 253,068 | 12,272  
-[Omaha '12 Thread: CWS game 4 Arkansas vs SC round 3](http://www.hogville.net/yabbse/index.php?topic=483367.0) | 286,298 | 8,949  
-[The Soccer Thread](http://www.hogville.net/yabbse/index.php?topic=161321.0) | 333,933 | 8,771
+[Agnosticism](http://www.hogville.net/yabbse/index.php?topic=482000.0) | 247,570 | 17,020  
+[Arkansas CWS game thread - Hogs headed home ........LSU 14 Razorbacks 5](http://www.hogville.net/yabbse/index.php?topic=296176.0) | 257,435 | 12,272  
+[Omaha '12 Thread: CWS game 4 Arkansas vs SC round 3](http://www.hogville.net/yabbse/index.php?topic=483367.0) | 297,769 | 8,949  
+[The Soccer Thread](http://www.hogville.net/yabbse/index.php?topic=161321.0) | 343,279 | 8,889
