@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retailmenot.ca privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817103359id_/http%3A//www.retailmenot.ca/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailmenot.ca privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209064637id_/http%3A//www.retailmenot.ca/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -120,7 +120,7 @@ We think that you benefit from a more personalized experience when we know more 
 
 #### Email
 
-You can manage your email preferences by submitting a request through our [Contact Us](https://web.archive.org/web/20130817103359id_/http://www.retailmenot.ca/static/privacy/www.retailmenot.ca/contact) form located at www.retailmenot.ca/contact and clicking on the "Email Preferences" link. You can also manage your subscriptions by following subscription management instructions contained in the commercial messages that we send you. You may choose to subscribe to some types of messages, and may choose to unsubscribe from others. You may also update your subscription preferences from time to time. If you wish to opt out of receiving offers directly from RetailMeNot merchants or business partners, you can follow the opt-out instructions in the emails that they send you.
+You can manage your email preferences by submitting a request through our [Contact Us](https://web.archive.org/web/20140209064637id_/http://www.retailmenot.ca/static/privacy/www.retailmenot.ca/contact) form located at www.retailmenot.ca/contact and clicking on the "Email Preferences" link. You can also manage your subscriptions by following subscription management instructions contained in the commercial messages that we send you. You may choose to subscribe to some types of messages, and may choose to unsubscribe from others. You may also update your subscription preferences from time to time. If you wish to opt out of receiving offers directly from RetailMeNot merchants or business partners, you can follow the opt-out instructions in the emails that they send you.
 
 #### Cookies
 
