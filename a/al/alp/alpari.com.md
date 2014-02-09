@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alpari.com privacy policy that was archived on 2013-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130715154248id_/http%3A//www.alpari.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpari.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209141446id_/http%3A//www.alpari.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Alpari UK
 
@@ -26,7 +26,7 @@ We have developed and will maintain security procedures to safeguard personal da
 
 Cookies are small pieces of information sent by a web server to store on a web browser so it can be read back later from that web browser. Cookies may be used on some pages of the Site for us to provide Site users with a more customised web browsing experience.
 
-[Find out more about how we use cookies](http://www.alpari.com/privacy-policy/cookie-policy "Cookies")
+[Find out more about how we use cookies](http://www.alpari.com/privacy-policy/cookies "Cookies")
 
 ### Third parties and third party links
 
