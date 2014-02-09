@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iafstore.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007010924id_/http%3A//www.iafstore.com/npag.asp%3Fn%3D47%26m%3D45%26t%3DCustomer%2520Care) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iafstore.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210001102id_/http%3A//www.iafstore.com/npag.asp%3Fn%3D47%26m%3D45%26t%3DCustomer%2520Care) for the most accurate reproduction.*
 
 # IAFSTORE - Customer Care - Privacy Policy
 
