@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneybookers.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209054926id_/https%3A//www.skrill.com/en/siteinformation/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneybookers.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209105653id_/https%3A//www.skrill.com/en/siteinformation/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Skrill
 
