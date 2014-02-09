@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the malecontravel.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016030123id_/http%3A//www.malecontravel.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malecontravel.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209072328id_/http%3A//malecontravel.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy - Malecón Travel
+# Privacy | Malecón TravelMalecón Travel
 
 We have created this privacy policy to demonstrate our firm commitment to your privacy and the protection of your information.
 
@@ -34,9 +34,6 @@ If you have questions or concerns regarding this statement, you should first con
   * 0183 OSLO
   * NORWAY
 
-
-
-  
 
 
 In general, you can visit the Site without telling us who you are or providing any information about yourself. In some areas of the Site, we ask you to provide information that will enable us to process an order, offer services that require registration, assist you with technical support issues or to follow up with you.
@@ -91,9 +88,6 @@ If you have any questions about our privacy policy and/or the practices of our w
   * 0183 OSLO
   * NORWAY
 
-
-
-  
 
 
 This policy was created March 2008. Last updated May 2012
