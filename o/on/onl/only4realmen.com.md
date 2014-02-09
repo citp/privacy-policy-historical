@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the only4realmen.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012130416id_/http%3A//www.only4realmen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the only4realmen.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209224434id_/http%3A//www.only4realmen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Only for Men
 
