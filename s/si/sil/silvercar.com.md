@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silvercar.com privacy policy that was archived on 2013-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130130040618id_/https%3A//www.silvercar.com/agreements/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silvercar.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209081036id_/https%3A//www.silvercar.com/agreements/privacy_policy) for the most accurate reproduction.*
 
 # 
 
@@ -190,6 +190,6 @@ This Privacy Notice applies to all information we collect or receive, on or afte
 
 We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Notice. **If we materially change the way your personal information will be used, we notify you by way of either prominent posting on our Website(s), e-mail and/or mail. We encourage you to periodically review this Privacy Notice in order to keep apprised of any changes**.
 
-© 2013 Silvercar. All rights Reserved
+© 2014 Silvercar. All rights Reserved
 
 _
