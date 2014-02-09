@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wooplr.com privacy policy that was archived on 2013-08-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130823203811id_/http%3A//www.wooplr.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wooplr.com privacy policy that was archived on 2014-02-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209055949id_/http%3A//www.wooplr.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"><head>
     <link rel="icon" type="image/png" href="http://www.wooplr.com/favicon.ico">
@@ -16,18 +16,22 @@
     <meta name="keywords" content="wooplr, social, shopping, commerce, discover, recommendations, perks, rewards, badges, trending, share, brand, ambassador, woop">
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
     <title>Wooplr | Privacy Policy</title>
-    <link href="/styles/styles-1355480000.css" rel="stylesheet" type="text/css">
+    
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/jquery-1.7.1.min.js" type="text/javascript"></script>
-<script src="/js/common-1376759615.js" type="text/javascript"></script>
-<script type="text/javascript" src="//use.typekit.net/pvd1mow.js"></script>
-<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link href="/styles/styles-1370001445.css" rel="stylesheet" type="text/css">
 <link href="/styles/font-awesome.min.css" rel="stylesheet" type="text/css">
-<script src="/js/jquery.autocomplete/jquery.autocomplete.1373365776.js" type="text/javascript"></script>
 <!--[if IE 7]>
 <link rel="stylesheet" href="/styles/font-awesome-ie7.min.css">
 <![endif]-->
 
+
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="http://wooplr100.appspot.com/js/jquery-1.8.2.min.js" type="text/javascript"></script>
+<script src="http://wooplr100.appspot.com/js/common-1376759617.js" type="text/javascript"></script>
+<script src="http://wooplr100.appspot.com/js/jquery.autocomplete/jquery.autocomplete.1373365777.js" type="text/javascript"></script>
+<script type="text/javascript" src="//use.typekit.net/pvd1mow.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link href="/common/opensearch.xml" rel="search" title="Wooplr" type="application/opensearchdescription+xml">
+<meta property="fb:admins" content="504431568">
 
 
 
@@ -39,6 +43,7 @@
 
 
     
+
 
 
 
@@ -74,8 +79,8 @@
 <div class="header-wrapper fixed-container">
 <div class="header-center-fix">
 <div class="site-logo">
-    <a href="/home">
-        <img src="/images/wooplr-site-logo-beta.png" alt="Wooplr">
+    <a href="/home" track-event="Header_Click_Logo">
+        <img src="/images/wooplr-site-logo.png" alt="Wooplr">
     </a>
 </div>
 
@@ -85,7 +90,7 @@
 <div class="search-bar">
     <div class="search-field-wrapper">
         <span class="search-icon"><i class="icon-search"></i></span>
-        <input class="search-textbox ac_input" id="headerSearchBox" type="text" placeholder="Search" autocomplete="off">
+        <input class="search-textbox" id="headerSearchBox" track-event="Header_Click_SearchBox" type="text" placeholder="Search">
     </div>
 </div>
 
@@ -93,6 +98,26 @@
 <div class="top-menu-container">
 
 
+
+
+
+
+
+<ul class="target-parent">
+
+
+
+
+
+
+<div class="clear"></div>
+</ul>
+
+
+<a href="#" id="publicSignUpBtn" class="btn blue-btn signup-btn" track-event="Header_Click_PublicSignup">Sign Up</a>
+<div class="login-section">
+    or <a href="/user/signin" class="text-link" track-event="Header_Click_PublicSignin">Sign-in Here</a>
+</div>
 
 
 <div class="clear"></div>
@@ -105,20 +130,20 @@
 <script src="http://connect.facebook.net/en_US/all.js"></script>
 <script>
     try{
-    FB.init({
-        appId: '368800216493543', cookie: true,
-        status: true, xfbml: true,
-        frictionlessRequests: true
+        FB.init({
+            appId: '368800216493543', cookie: true,
+            status: true, xfbml: true,
+            frictionlessRequests: true
 
-    });
+        });
     } catch(e){}
 
 
     function FacebookInviteFriends() {
         try{
-        FB.ui({ method: 'apprequests',
-            message: 'Check out Wooplr  - Share & discover great finds in fashion, food and decor'}, function (res) {
-        });
+            FB.ui({ method: 'apprequests',
+                message: 'Check out Wooplr  - Share & discover great finds in fashion, food and decor'}, function (res) {
+            });
         } catch(e){}
 
     }
@@ -127,101 +152,26 @@
 <script type="text/javascript">
     $(document).ready(function() {
         
-
             var $headerSearchBox = $("#headerSearchBox");
-
-            $headerSearchBox.autocomplete("/resources/search", {
-                multiple: false,
-                extraParams: {type: "all"},
-                autoFill: false,
-                resultsClass: 'ac_search_results',
-                scrollHeight: 300,
-                minChars: 2,
-                delay: 500,
-                fixedSearchResults: true,
-                forSearch: true,
-                formatItem: function (data, i, n, value) {
-                    var imageUrl, iconType, typeText;
-                    if (data.length >= 3) {
-                        imageUrl = getShowImageURL("tiny", data[1], data[2]);
-                    }
-                    else {
-                        imageUrl = getDefaultImageURL("tiny", "ATTRIBUTE");
-                    }
-                    var url = "#";
-                    if (data.length >= 5) {
-                        url = data[5];
-                    }
-
-                    if (data[1] == "USER") {
-                        iconType = "user";
-                        typeText = "People";
-                    }
-                    else if (data[1] == "RECOMMENDATION") {
-                        iconType = "star";
-                        typeText = "Recommendation";
-                    }
-                    else if (data[1] == "PRODUCER") {
-                        iconType = "map-marker";
-                        typeText = "Store";
-                    }
-                    if (typeText === "Store") {
-                        return "<a href='" + url + "'>" +
-                            "<div class='thumb'>" +
-                            "<img src='" + imageUrl + "'/></div> " +
-                            "<div class='content'>" +
-                            "<div class='name'>" + value + "</div>" +
-                            "<div class='name-addon'>" + data[3] + "</div>" +
-                            "</div>" +
-                            "<div class='icon' title='" + typeText + "'><i class='icon-" + iconType + "'></i></div>" +
-                            "</a>"
-                            ;
-                    } else {
-                        return "<a href='" + url + "'>" +
-                            "<div class='thumb'>" +
-                            "<img src='" + imageUrl + "'/></div> " +
-                            "<div class='content single'><div class='name'>" + value + "</div></div>" +
-                            "<div class='icon' title='" + typeText + "'><i class='icon-" + iconType + "'></i></div>" +
-                            "</a>"
-                            ;
-                    }
-
-                },
-                formatResult: function (data, value) {
-                    return unencode(value.split(".")[0]);
-                }
+            $headerSearchBox.focus(function(e){
+                e.stopPropagation();
+                e.preventDefault();
+                _gaq.push(['_trackEvent', 'FacebookFacebox', 'Click', 'FromSearchBoxonPublicView',,true]);
+                e.preventDefault();
+                stayOnPage = true;
+                $.facebox({ajax: '/facebox/facebook-signup-screen.jsp'});
             });
-
-            $headerSearchBox.result(function (event, data, formatted) {
-                if (data.length >= 5) {
-                    url = data[5];
-                    window.location.href = url;
-                }
-            });
-
-            function unencode(name) {
-                return name.replace(/&#(\d+);/g, function (m, n) {
-                    return String.fromCharCode(n);
-                })
-            }
-
-            $('.search-field-wrapper').click(function () {
-                var $textBox = $(this).find('input');
-                if (!$textBox.is(':focus')) {
-                    $textBox.focus();
-                }
-            });
-
-            $headerSearchBox.focus(function(){
-                $(this).parent().addClass('search-active');
-            });
-
-            $headerSearchBox.blur(function(){
-                if (!$(this).val().length > 0)
-                    $(this).parent().removeClass('search-active');
-            });
-
         
+
+        $('#header').on('click', 'a#publicSignUpBtn', function(e) {
+            e.stopPropagation();
+            e.preventDefault();
+            _gaq.push(['_trackEvent', 'FacebookFacebox', 'Click', 'FromHEaderSignupBtn',,true]);
+            e.preventDefault();
+            stayOnPage = true;
+            $.facebox({ajax: '/facebox/facebook-signup-screen.jsp'});
+        });
+
     });
 </script>
 
@@ -321,7 +271,8 @@
 <div id="footer-line"></div>
 <div id="footer-teaser">
     <div class="footer-teaser-wrapper fixed-container">
-        <img src="/images/discover-better-footer.png" alt="Discover Better">
+        <div class="icon"><img src="/images/wooplr-square-icon.png" alt="Wooplr"></div>
+        <div class="tagline"><img src="/images/discover-better-footer.png" alt="Discover Better"></div>
         <div class="pitch">Wooplr<span class="vertical-divider"></span>Share &amp; discover great finds in fashion, food and decor.</div>
     </div>
 </div>
@@ -332,19 +283,82 @@
                 <li class="first"><a href="/getting-started">Getting Started</a>|</li>
                 <li><a href="/about">About</a>|</li>
                 <li><a href="/story" target="_blank">The Story</a>|</li>
+                <li><a href="/guides" target="_blank">Wooplr Guides</a>|</li>
+                <li><a href="/influencers" target="_blank">Top Users</a>|</li>
                 <li><a href="http://blog.wooplr.com" target="_blank">Blog</a>|</li>
+                <li><a href="/terms">Terms &amp; Conditions</a>|</li>
+                <li><a href="/shipping-and-returns">Shipping, Cancellation &amp; Returns</a>|</li>
                 <li><a href="/contact">Contact</a>|</li>
-                <li><a href="/privacy-policy">Privacy Policy</a>|</li>
-                <li><a href="/m">Mobile Site</a>|</li>
+                <li><a href="/privacy-policy">Privacy Policy</a></li>
+            </ul>
+        </div>
+
+        <div class="footer-menu top-margin">
+            <ul class="clearfix">
+                <li><span class="menu-label">Get Wooplr on Your Phone:</span></li>
                 <li><a href="https://play.google.com/store/apps/details?id=com.app.wooplr" target="_blank">Android App</a>|</li>
-                <li><a href="https://itunes.apple.com/us/app/wooplr/id620446244" target="_blank">iPhone App</a></li>
+                <li><a href="https://itunes.apple.com/us/app/wooplr/id620446244" target="_blank">iPhone App</a>|</li>
+                <li><a href="http://www.windowsphone.com/en-in/store/app/wooplr/080fb9f1-98d8-4baa-988d-4207cf689e55" target="_blank">Windows Phone 8 App</a>|</li>
+                <li><a href="/m">Mobile Site</a></li>
+            </ul>
+        </div>
+        
+        <div class="quick-links">
+            <ul class="clearfix">
+                <li><span class="menu-label">Discover Great Finds:</span>
+                
+                </li><li>
+                    <a href="/recommendations/category/clothing">Clothing</a>|
+                </li>
+                
+                <li>
+                    <a href="/recommendations/category/accessories">Accessories</a>|
+                </li>
+                
+                <li>
+                    <a href="/recommendations/category/handbags">Handbags</a>|
+                </li>
+                
+                <li>
+                    <a href="/recommendations/category/shoes">Shoes</a>|
+                </li>
+                
+                <li>
+                    <a href="/recommendations/category/home_living">Home &amp; Living</a>|
+                </li>
+                
+                <li>
+                    <a href="/recommendations/category/food_drink">Food &amp; Drink</a>|
+                </li>
+                
+                <li>
+                    <a href="/recommendations/category/beauty">Beauty</a>|
+                </li>
+                
+                <li>
+                    <a href="/recommendations/category/collectibles">Collectibles</a>
+                </li>
+                
             </ul>
         </div>
         
         <div class="legal">© 2013 Wooplr. All Rights Reserved. </div>
     </div>
 </div>
+<input type="hidden" id="gImportStatus" name="gImportStatus" value="">
 
+    <a id="persistent-helper" href="#" track-event="Persistent_GetTheApp_Click">
+        <span class="icon"></span>
+        <span class="message">Get the App</span>
+    </a>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('#persistent-helper').click(function(e){
+                e.preventDefault();
+                showTour('/facebox/get-the-app', false);
+            });
+        });
+    </script>
 
 
 
@@ -362,6 +376,10 @@
     }
 
     var _gaq = _gaq || [];
+    var pluginUrl =
+     '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+    _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+
     _gaq.push(['_setAccount', 'UA-26866996-1']);
 
 
@@ -383,7 +401,7 @@
         var ga = document.createElement('script');
         ga.type = 'text/javascript';
         ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
         var s = document.getElementsByTagName('script')[0];
         s.parentNode.insertBefore(ga, s);
     })();
