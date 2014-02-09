@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airwick.us privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917124653id_/http%3A//www.airwick.us/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airwick.us privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209180042id_/http%3A//www.airwick.us/privacy_statement.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -102,7 +102,7 @@ If at any time you want to update or change your information, you may contact us
 **10\. U.S. - EU Safe Harbor Framework**  
 
 
-Reckitt Benckiser LLC adheres to the U.S. Department of Commerce Safe Harbor Principles concerning the transfer of personal data from the European Union to the U.S., and has committed to handling such personal information in accordance with our [US - EU Safe Harbor Privacy Statement](https://web.archive.org/web/20130917124653id_/http%3A//www.airwick.us/safe_harbor.php). 
+Reckitt Benckiser LLC adheres to the U.S. Department of Commerce Safe Harbor Principles concerning the transfer of personal data from the European Union to the U.S., and has committed to handling such personal information in accordance with our [US - EU Safe Harbor Privacy Statement](https://web.archive.org/web/20140209180042id_/http%3A//www.airwick.us/safe_harbor.php). 
 
 For more information regarding the Safe Harbor Principles, please visit the U.S. Department of Commerce's website at [www.export.gov/safeharbor.](http://www.export.gov/safeharbor)
 
@@ -114,7 +114,7 @@ For more information regarding the Safe Harbor Principles, please visit the U.S.
 
 We may modify this Privacy Policy and you should therefore periodically visit this page to be sure that you have read and agree with our most current Privacy Policy. This Privacy Policy was last revised on 05/03/2005 and is effective as of 9/15/2005. 
 
-©2013 Reckitt Benckiser LLC All rights reserved. 
+©2014 Reckitt Benckiser LLC All rights reserved. 
 
 [ BACK TO TOP ]
 
