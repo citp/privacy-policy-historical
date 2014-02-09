@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the streetinsider.com privacy policy that was archived on 2013-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131014205323id_/http%3A//www.streetinsider.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the streetinsider.com privacy policy that was archived on 2014-02-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209084251id_/http%3A//www.streetinsider.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head prefix="og:http://ogp.me/ns#">
 <title>StreetInsider.com</title>
@@ -10,10 +10,11 @@
 <meta property="og:site_name" content="StreetInsider.com">
 
 
+
 <meta name="google-play-app" content="app-id=com.streetinsider.siandroid">
 
 <!-- jquery setup -->
-<script type="text/javascript" src="js/jquery-1.5.2.min.js"></script>
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="js/jquery-1.5.2.min.js"></script>
 <script type="text/javascript">
 $jq = jQuery.noConflict();
 </script>
@@ -50,6 +51,36 @@ IC.LoadView(siteInfo);
 </head>
 <body onload="focusLoginField();">
 
+<div id="fb-root"></div>
+<script type="text/javascript">
+window.fbAsyncInit = function() {
+	FB.init({
+		appId      : '415409898518774', // App ID
+		channelUrl : '//www.streetinsider.com/fbchannel.php', // Channel File
+		status     : true, // check login status
+		cookie     : true, // enable cookies to allow the server to access the session
+		xfbml      : true  // parse XFBML
+	});
+
+	// Additional initialization code here
+	FB.Event.subscribe('auth.statusChange', function(response) {
+		if ( response.status == 'connected' ) {
+			if ( window.fbLoginCallback ) {
+				window.fbLoginCallback.call(window, response);
+			}
+		}
+	});
+};
+
+// Load the SDK Asynchronously
+(function(d){
+var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+if (d.getElementById(id)) {return;}
+js = d.createElement('script'); js.id = id; js.async = true;
+js.src = "//connect.facebook.net/en_US/all.js";
+ref.parentNode.insertBefore(js, ref);
+}(document));
+</script>
 
 
 <div id="container">
@@ -129,7 +160,7 @@ registerDefaultInput('google_search_header');
 <!-- begin ad tag (tile=15) -->
 <script language="JavaScript" type="text/javascript">;
 document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/invc.streetinsider/qtsearch;kw=;kval=qtsearch;tile=15;sz=88x31;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/invc.streetinsider/qtsearch;kw=;kval=qtsearch;tile=15;sz=88x31;ord=3343881751481634.5?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/invc.streetinsider/qtsearch;kw=;kval=qtsearch;tile=15;sz=88x31;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/invc.streetinsider/qtsearch;kw=;kval=qtsearch;tile=15;sz=88x31;ord=123456789?" width="88" height="31" border="0" alt=""></a></noscript>
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/invc.streetinsider/qtsearch;kw=;kval=qtsearch;tile=15;sz=88x31;ord=2856788639128078.5?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/invc.streetinsider/qtsearch;kw=;kval=qtsearch;tile=15;sz=88x31;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/invc.streetinsider/qtsearch;kw=;kval=qtsearch;tile=15;sz=88x31;ord=123456789?" width="88" height="31" border="0" alt=""></a></noscript>
 <!-- End ad tag --></div>
 
 
@@ -177,7 +208,7 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 					<li class="main_li" onmouseover="SIJS.toggleMenu(this, true);" onmouseout="SIJS.toggleMenu(this, false);">
 		<a href="http://www.streetinsider.com/portal/Earnings+Insider/5.html">EPS Insider</a>
 		<ul class="nav_submenu" style="white-space:nowrap">
-									<li class="MarginBottomNeg15 sub_li"><a class="" href="http://www.streetinsider.com/ec_calendar.php?month=10&amp;year=2013">Earnings Calendar</a></li>
+									<li class="MarginBottomNeg15 sub_li"><a class="" href="http://www.streetinsider.com/ec_calendar.php?month=02&amp;year=2014">Earnings Calendar</a></li>
 									<li class="MarginBottomNeg15 sub_li"><a class="" href="http://www.streetinsider.com/Earnings">Earnings News</a></li>
 									<li class="MarginBottomNeg15 sub_li premiumtab"><a class="" href="http://www.streetinsider.com/Hot+Earnings">Hot Earnings $</a></li>
 									<li class="MarginBottomNeg15 sub_li"><a class="" href="http://www.streetinsider.com/Guidance">Guidance</a></li>
@@ -234,11 +265,13 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 <li><a href="http://www.streetinsider.com/portal.php?id=5&amp;ec_sort=todays_move">EPS Movers</a></li>
 <li><a href="http://www.streetinsider.com/portal.php?id=4&amp;full=top_left">Top Upgrades</a></li>
 <li><a href="http://www.streetinsider.com/entities/Warren+Buffett/?view_portfolio">Buffett's Stocks</a></li>
-<li><a href="http://www.streetinsider.com/Newsletter/Streetinsider.com+Pulse+Picks/2.html"><b>*NEW Pulse Picks</b></a></li>
 <li><a href="http://www.streetinsider.com/signup_email.php"><b>Newsletters</b></a></li>
-<li style="padding-left: 8px;">
-	<a href="http://twitter.com/Street_Insider" data-width="243" class="twitter-follow-button">Follow @Street_Insider</a>
+<li style="padding-left: 6px;">
+	<a href="http://twitter.com/Street_Insider" data-width="241" class="twitter-follow-button">Follow @Street_Insider</a>
 	<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</li>
+<li style="padding-left: 6px;">
+	<div class="fb-like" data-href="https://www.facebook.com/streetinsiderdotcom" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
 </li>
 </ul>
 </div>
@@ -264,11 +297,11 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 <!--START Ad Space -->
 
 <div class="top_headlines">
-	<span>Special Reports</span>
+	<span>Highlighted Articles</span>
     <ul>
-		<li><a href="Special+Reports/Notable+52-Week+Highs+and+Lows+of+the+Day+1014%3A+%28ATRS%29+%28OPK%29+%28AMAT%29+High%3B+%28CNDO%29+%28AMRN%29+%28GORO%29+Low/8774206.html">Notable 52-Week Highs and Lows of the Day 10/14: (ATRS) (OPK) (AMAT) High; (CNDO) (AMRN) (GORO) Low</a></li>
-		<li><a href="Special+Reports/Trading+Radar+for+1015%3A+Yahoo%21+%28YHOO%29%2C+Citi+%28C%29%2C+Intel+%28INTC%29%2C+Johnson+%26+Johnson+%28JNJ%29%2C+CSX+Corp.+%28CSX%29+Report/8774158.html">Trading Radar for 10/15: Yahoo! (YHOO), Citi (C), Intel (INTC), Johnson &amp; Johnson (JNJ), CSX Corp. (CSX) Report</a></li>
-		<li><a href="Special+Reports/Unusual+11+Mid-Day+Movers+1014%3A+%28VISN%29+%28FU%29+%28FWM%29+Higher%3B+%28CNDO%29+%28BLRX%29+%28EXPE%29+Lower/8774072.html">Unusual 11 Mid-Day Movers 10/14: (VISN) (FU) (FWM) Higher; (CNDO) (BLRX) (EXPE) Lower</a></li>
+		<li><a href="Analyst+Comments/Apple+%28AAPL%29+Buyback+Was+About+19%25+of+Avg.+Daily+Volume%2C+BMO+Says%3B+News+is+a+Positive/9138679.html">Apple (AAPL) Buyback Was About 19% of Avg. Daily Volume, BMO Says; News is a Positive</a></li>
+		<li><a href="Insiders+Blog/This+P%26G+%28PG%29+Sochi+Olympics+Ad+Is+What+Its+All+About/9139031.html">This P&amp;G (PG) Sochi Olympics Ad Is What It's All About</a></li>
+		<li><a href="Insiders+Blog/Tesla+%28TSLA%29+Bear+Shifts+Gears/9137822.html">Tesla (TSLA) Bear Shifts Gears</a></li>
 	    </ul>
 </div>
 
@@ -413,7 +446,7 @@ _qacct="p-10HO819ww3FLg";quantserve();</script>
 </div>
 
 <div class="copy">
-© Copyright 2013 StreetInsider.com
+© Copyright 2014 StreetInsider.com
 </div>
 
 <div class="links">
