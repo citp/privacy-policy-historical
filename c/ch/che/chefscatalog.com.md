@@ -1,107 +1,206 @@
-> *The following text is extracted and transformed from the chefscatalog.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102110906id_/http%3A//www.chefscatalog.com/service/security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chefscatalog.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209113404id_/http%3A//www.chefscatalog.com/service/security.aspx) for the most accurate reproduction.*
 
 # CHEFS: The Best Kitchen Starts Here
 
-**Secure ordering**  
-Your online credit card transactions are secure with chefscatalog.com. We use Secure Socket Layering (SSL), the industry-standard encryption technology that ensures safe Internet transmission of your personal information. When the letters "http" in the URL change to "https," the "s" indicates you are in a secure area employing SSL; also, your browser may give you a pop-up message that you're about to enter a secure area.
+At CHEFS Catalog, we want you to know how we collect, use, share and protect information about you. By interacting with CHEFScatalog.com, you consent to the use of information that is collected or submitted as described in this privacy policy. We may change or add to this privacy policy, so we encourage you to review it periodically. To help you track the changes, we include a history of changes below.
 
-Making a credit card purchase is just as safe on our Web site as it is by telephone, but if you prefer the latter, you may purchase online merchandise by calling [customer service](http://www.chefscatalog.com/service/customer-service.aspx).
+CHEFS Catalog is a wholly-owned subsidiary of Target Corporation.
 
- **Privacy policy**  
-To help us achieve our goal of providing the highest quality products and services, we use information from our interactions with you and other customers, as well as from other parties. Because we respect your privacy, we have procedures to ensure that your personal information is handled in a safe, secure, and responsible manner.
+Types of personal information we collect include:
 
-We have posted this privacy policy to let you know what kind of information we collect, how it is handled, with whom it may be shared, what choices you have regarding our use of your information, and how you may access some of the information you provide to us.
+  * Your name 
+  * Your mailing address 
+  * Your e-mail address 
+  * Your phone (or mobile) number 
+  * Your drivers' license number 
+  * Your credit/debit card number 
+  * Your purchase/return/exchange information 
+  * Your registry event information 
+  * Your date of birth or age 
+  * Your interests and product preferences 
+  * Your friend’s names, e-mail addresses, and mailing addresses 
+  * Messages you write when you send recipes, write reviews, ask questions or make comments 
 
-As we continue to develop our Web site and take advantage of advances in technology, our privacy policy may change. Please refer to this page frequently for the most up-to-date information.
 
-This Privacy Policy has been in effect as of 6/30/2010.
 
- **The information we collect**  
-Whenever you shop with CHEFS -- online, through our catalogs or our Colorado Springs outlet -- we obtain from you the information we need to complete your transaction. This may include your name, address, telephone number, driver's license number, birth date, and e-mail address. If you use a credit or debit card or pay by check, it will include your account number.
+If you choose not to provide personal information we may not be able to provide you with requested products, services or information. 
 
-When you register with us as an online customer, we may ask for additional information, such as your favorite products.
+**Automated Information Collection**
 
-If you use one of our services, or participate in one of our promotions or sweepstakes, we may ask for additional information, such as your age, interests or product preferences.
+_CHEFS Catalog Automated Collection_
 
-From your purchases and other interactions with us, we obtain information concerning the specific products or services you purchase or use.
+We and our service providers use cookies, web beacons, and other technologies to receive and store certain types of information whenever you interact with our website through your computer or mobile device. This information, which includes the pages you visit on our site, which web address you came from, the type of browser/device/hardware you are using, purchase information and checkout process, search terms and IP-based geographic location, helps us customize your website experience and make our marketing messages more relevant. This includes content presented on another website or mobile application.. These technologies enable us to provide features such as storage of items in your cart between visits, Short Message Service (SMS)/text messages you have chosen to receive, items previously viewed, to improve site design, product assortments, customer service, and provide promotions.
 
-To improve our Web site, we collect non-personal information about how users navigate through the site. We may share this non-personally identifiable information with our affiliates or other outside companies.
+In order to provide the best guest experience possible, we also use these technologies for reporting and analysis purposes, such as how you are shopping our website, performance of our marketing efforts, and your response to those marketing efforts.
 
- **How we use the information we collect**  
-We use the information we collect for various purposes, including:  
-to complete your purchase transactions  
-to provide the services you request  
-to send you our catalogs and other offerings by mail  
-to keep you informed about the status of your orders  
-to identify your product and service preferences, so we can notify you of new or additional products, services, and promotions that might be of interest to you  
-to notify you of product recalls or provide other information concerning products you have purchased to improve our merchandise selections, customer service, and overall shopping experience
+_Third-Party Automated Collection_
 
- **Others with whom we share your information**  
-Service providers: We provide information to outside companies that help us bring you the products and services we offer. For example, we may work with an outside company to manage a database of customer information or assist us in distributing e-mails.
+CHEFS Catalog participates in online behavioral advertising (OBA), also known as interest-based advertising. We use third-party advertising companies to display ads tailored to your individual interests based on how you browse and shop online.
 
-Other companies: We may provide your information to carefully selected outside companies when we believe their products or services may be of interest to you.
+We allow third-party companies to collect certain information when you visit our website and to use that information to serve ads for products or services or for the products or services of other companies when you visit this website or other websites. These companies use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, hardware/software information, MAC address, cookie and session ID, and personally identifiable information (e.g. IP address)) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These parties typically use a cookie or a third party web beacon to collect this information. 
 
-Business Transitions: We may transfer or share a copy of personal information about you in the event that CHEFS, or one its properties, affiliates or subsidiaries, goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets. You will be notified via email or prominent notice on our web site prior to a change of ownership or control of your personal information, if your personal information will be used contrary to this policy. However, nothing in this Privacy Policy is intended to interfere with the ability of CHEFS to transfer all or part of its business and/or assets to an affiliate or independent third party at any time, for any purpose, without any limitation whatsoever. CHEFS specifically reserves the right to transfer or share a copy of personally identifiable information collected from its websites to the buyer of that portion of its business relating to that information.
+At this time, we do not respond to browser “do not track” signals, but we do provide you the option to opt out of behavioral advertising. To learn more about OBA or to opt-out of this type of advertising, visit the [Network Advertising Initiative website](http://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance website](http://www.aboutads.info/).
 
- **Your choices regarding use of the information we collect**  
-If you do not want us to share information about you with any company or organization outside of CHEFS:  
-Call 1-800-338-3232
+**Social Media Widgets**
 
-Write:  
+Chefscatalog.com includes social media features, such as the Facebook Like button, Google Plus, Pinterest, and Twitter widgets. These features may collect information about your IP address and which page you’re visiting on our site, and they may set a cookie to make sure the feature functions properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with those features are governed by the privacy policies of the companies that provide them.
+
+**Information from Other Sources**
+
+We collect data that’s publicly available. For example, information you submit in a public forum (e.g. a blog, chat room, or social network) can be read, collected, or used by us and others, and could be used to personalize your experience. You are responsible for the information you choose to submit in these instances.
+
+We also obtain information provided by third parties. For instance, we obtain information from companies that can enhance our existing guest information to improve the accuracy and add to the information we have about our guests (for example, adding address information).
+
+This improves our ability to contact you and increases the relevance of our marketing by providing better product recommendations or special offers that may interest you. 
+
+Examples of how we use the information we collect include:
+
+**Product and Service Fulfillment**
+
+  * Fulfill and manage purchases, orders, payments, returns/exchanges, or requests for information about our products and services on our, website and mobile website, or to otherwise serve you 
+  * Connect with us regarding guest service via our contact center, or on social media platforms 
+  * Provide services such as wish list, Gift Registry or a saved cart 
+  * Administer sweepstakes and contests 
+
+
+
+**Our Marketing Purposes**
+
+  * Deliver catalogs or other offerings by mail, coupons, mobile coupons, newsletters, receipt messages, e-mails, mobile messages, and social media notifications 
+  * Provide interactive features of the website, such as product reviews and other information regarding products, services and promotions 
+
+
+
+**Internal Operations**
+
+  * Improve the effectiveness of our website and marketing efforts, merchandise selections, guest service, and overall shopping experience 
+  * Conduct research and analysis, including focus groups and surveys 
+  * Perform other business activities as needed, or as described elsewhere in this policy 
+
+
+
+**Fraud Prevention**
+
+  * To prevent fraudulent transactions, monitor against theft and otherwise protect our guests and our business (e.g. product recalls) 
+
+
+
+**Legal Compliance**
+
+  * For example, assist law enforcement and respond to legal/regulatory inquiries 
+
+
+
+Target Corporation
+
+We share the information we collect within Target Corporation, which includes all Target subsidiaries and affiliates.
+
+Target Corporation may use this information to offer you products and services that may be of interest to you.
+
+Target Corporation owns Target Stores and Target web sites. Target Corporation subsidiaries and affiliates include, but are not limited to: Target Bank, Target Canada, Target Commercial Interiors, TCC Cooking Co.(Cooking.com and CHEFS Catalog) and Dermstore LLC (Dermstore.com, Blush.com, Hairenvy.com).
+
+**Service Providers**
+
+We may share the information we collect with companies that provide support services to us (such as a printer, e-mail, mobile marketing, analytics providers, web hosting providers, call center service providers, sweepstakes vendors, payment processors, coupon delivery vendors, or data enhancement provider) or that help us market our products and services. These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we share with them for any other purpose.
+
+**Legal Requirements**
+
+We may disclose information we collect when we believe disclosure is appropriate to comply with the law; to enforce or apply applicable terms and conditions and other agreements; or to protect the rights, property or safety of our company, our guests or others.
+
+**Elsewhere at Your Direction**
+
+At your direction or request, we may share your information. For example, if you create a wish list, gift registry or saved cart and elect to make it available to the public, your information will be accessible on our website, mobile or social applications, and in our stores.
+
+**Sharing with Other Companies (for their marketing purposes)**
+
+CHEFS Catalog may share your personal information with other companies, or organizations which are not part of CHEFS Catalog . These companies and organizations may use the information we share to provide special offers and opportunities to you. To opt out of our sharing of your personal information with such companies and organizations go to the Choice section of this privacy policy.
+
+**Sharing Aggregate Information with Third Parties**
+
+We may share aggregate information (information that does not directly identify an individual) with third parties for lawful purposes.
+
+**Business Transfers**
+
+If some or all of our business assets are sold or transferred, we may transfer the corresponding information regarding our guests. We also may retain a copy of that guest information.
+
+**Postal Mail**
+
+If you do not wish to receive catalogs, coupons, and other promotional mail, contact us:
+
+  * **By email:** customerservice@ecare.chefscatalog.com 
+  * **By Phone.** Call toll-free at (800) 338-3232 or 
+  * **By postal mail.** Please mail request to us at: CHEFS Management, 5070 Centennial Blvd., Colorado Springs, CO 80919 
+
+
+
+**Email**
+
+Upon ordering or creating an account at chefscatalog.com, you will receive promotional e-mails from CHEFS. You always have the ability to "opt-out" or stop receiving promotional e-mails from CHEFS by clicking the unsubscribe link in the email, logging into your account and managing your preferences, or contacting customer service at 800-338-3232 or customerservice@ecare.chefscatalog.com.
+
+**If you choose to "opt-out," we will stop sending you promotional e-mails, but will still send you order confirmations and shipping notice emails.**
+
+**Sharing with Other Companies (for their marketing purposes)**
+
+If you do not want CHEFS Catalog to share information about you with other companies (for their marketing purposes) contact us:
+
+  * **By email:** customerservice@ecare.chefscatalog.com 
+  * **By Phone.** Call toll-free at (800) 338-3232 or 
+  * **By postal mail.** Please mail request to us at: CHEFS Management, 5070 Centennial Blvd., Colorado Springs, CO 80919 
+
+
+
+**Third Party Cookies**
+
+To opt out of third-party cookies, visit the [Network Advertising Initiative website](http://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance website](http://www.aboutads.info/).
+
+**California Residents**
+
+If you are a California resident and have an established business relationship with CHEFS Catalog you can request a notice disclosing the categories of personal information shared with third parties, for the third parties’ direct marketing purposes, during the preceding calendar year. To request a notice, please submit your request to:
+
+CHEFS Management  
+Attn: California Shine the Light Inquiry  
+5070 Centennial Blvd.  
+Colorado Springs, CO 80919
+
+Please allow 30 days for a response.
+
+In order to keep your personal information accurate and complete, you can access or update some of it in the following ways: 
+
+If you have created a CHEFS Catalog account, you can log in and update your account information, including contact, billing, and shipping information.
+
+Contact us with your current contact information and the personal information you would like to access. We will provide you the personal information requested if reasonably available, or will describe the types of personal information we typically collect.
+
+Write to:
+
 CHEFS Management  
 5070 Centennial Blvd.  
 Colorado Springs, CO 80919
 
-Please note that many promotions and mailings are completed well in advance, so you may continue to receive some offers after you ask us to stop sharing your information. We appreciate your patience in giving us time to carry out your request.
+**Security Methods**
 
-Further, you can visit the [NAI's Web Site](http://www.networkadvertising.org/managing/opt_out.asp) to opt out of having all NAI member advertising networks collect non-personally identifiable information for use in targeted advertising. When you opt-out using this method an opt-out cookie will be placed on your browser. You should note that if you delete, block or otherwise restrict cookies, or if you use a different computer or browser, you may need to renew your opt-out choice. Once you have opted out, information that was collected to help deliver targeted advertisements will no longer be used. However, we may use such information for related purposes described above, including to support and complete current on-line interactions, to facilitate Web site and system administration, and for research and development, as well as for other purposes unrelated to targeted advertising outside of www.chefscatalog.com.
+We maintain administrative, technical and physical safeguards to protect your personal information. When we collect or transmit sensitive information such as a credit or debit card number, we use industry standard methods to protect that information. However, no e-commerce solution, website, database or system is completely secure or “hacker proof.” You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse.
 
- **Cookies and how we use them**  
-A "cookie" is a small data file stored by your Web browser on your computer's hard drive. It allows us to recognize your computer (but not specifically who is using it) upon entering our site by associating the identification numbers in the cookie with other customer information you have provided us. That customer information is stored on our secured database.
+**E-mail Security**
 
-We use cookies to identify the pages you click on during your visit to our site and the name of the Web site you visited immediately before clicking to chefscatalog.com. We use this information to improve our site design, product assortments, customer service, and special promotions.
+"Phishing" is a scam designed to steal your personal information. If you receive an e-mail that looks like it is from us asking you for your personal information, do not respond. We will never request your password, user name, credit card information or other personal information through e-mail.
 
-We may contract with third parties who may use cookies and collect information on our behalf or provide services such as credit card processing, shipping, promotional services or data management.
+**Children’s Personal Information**
 
- **Children's privacy**  
-The Children's Online Privacy Protection Act took effect on April 21, 2000. It imposes certain requirements on Web sites directed at children under 13 that collect information on those children, and on Web sites that knowingly collect information on children under 13.
+We recognize the particular importance of protecting privacy where children are involved. We do not knowingly collect personally identifiable information online from children under the age of 13. If a child under the age of 13 has provided us with personally identifiable information online, we ask that a parent or guardian contact us or call 800-338-3232.
 
-We do not knowingly collect any personal information from children under the age of 13 on our Web site, and our online sweepstakes are restricted to entrants who are at least 18 years old.
+**Mail:**
 
-No one under the age of 15 should submit any personal information to this or any other Web site without the consent of a parent or guardian.
-
- **Links to other sites**  
-While visiting chefscatalog.com, you may link to Web sites operated by our business partners or other third parties. This does not mean that we endorse these Web sites. We do not make any representations or warranties about any Web site you may access through this Web site. They are independent from us, and we have no control over, or responsibility for, their information or activities. You need to make your own independent decisions regarding your interactions or communications with any other Web site.
-
-If you provide personal information at one of those sites, you are subject to the privacy policy of the operator of that site, not the CHEFS privacy policy. We encourage you to read that policy before submitting any personal information.
-
- **Online account registration**  
-To make online shopping faster and easier, you may register with chefscatalog.com. As a registered customer, you only have to enter your shipping addresses and billing information once; they will be securely stored with us for your future use. Using a unique name and a password of your choice, you may access your account online at any time to add, delete, or change information.
-
-If you are using a public computer, we strongly encourage you to LOG OUT at the conclusion of your session. Your information will still be stored with us but it will not be accessible to anyone else from that computer.
-
- **E-mails**  
-We use your email address to: 
-
-  * keep you informed about the status of your orders 
-  * notify you of new or additional products, services, and promotions that might be of interest to you 
-  * notify you of product recalls or provide other information concerning products you have purchased 
-
-
-
-Upon ordering or creating an account at chefscatalog.com, you will receive promotional e-mails from CHEFS. You always have the ability to "opt-out" or stop receiving promotional e-mails from CHEFS by clicking the unsubscribe link in the email, logging into your account and managing your preferences, or contacting customer service at 800-338-3232.
-
-If you choose to "opt-out," we will stop sending you promotional e-mails, but will still send you order confirmations and shipping notice emails. Please note, however, that some e-mail promotions are prepared well in advance, so you may continue to receive offers after you have chosen to "opt-out." We appreciate your patience in giving us time to carry out your request.
-
- **Any questions?**  
-We'll be happy to provide additional information or answer any questions.  
-Call toll-free: 1-800-338-3232
-
-Write:  
-CHEFS  
-Customer Relations  
+CHEFS Management  
 5070 Centennial Blvd.  
 Colorado Springs, CO 80919
 
-  
+**Phone:**
 
+800-338-3232
+
+**E-mail:**
+
+customerservice@ecare.chefscatalog.com
+
+**Last update: 1/28/2014**  
+January 2014 Added Dermstore LLC websites to the list of subsidiaries and affiliates
