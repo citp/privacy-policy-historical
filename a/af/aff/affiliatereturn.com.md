@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the affiliatereturn.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202000339id_/http%3A//affiliatereturn.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatereturn.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209100015id_/http%3A//affiliatereturn.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
 # Affiliate Return Make Money from the Web
 
 **THIS PRIVACY STATEMENT DISCLOSES THE PRIVACY PRACTICES FOR AffiliateReturn.com**
 
 **Information Collection and Use of Information**  
-In order to use this website, a user must first complete the registration form. During registration a user is required to give his contact information (email address). This information is used to contact the user about the service and products we provide or wish to provide. We will not sell, share, or rent personal information to others.
+In order to use this website, a user must first complete the registration form. During registration a user is required to give his contact information (email address). This information is used to contact the user about the service and products we provide or wish to provide. We will not sell, share, or rent personal information to others.  
+We are using cookies and register IP's for internal security reasons
 
 **Security**  
 This website takes every precaution to protect our users personal information. When a user submits sensitive information via our site, the information is protected both online and off-line. Only the administrator of this site can access personal information of the users. 
