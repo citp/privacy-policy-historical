@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theapplicantmanager.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509174312id_/https%3A//theapplicantmanager.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theapplicantmanager.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209130743id_/https%3A//theapplicantmanager.com/privacy) for the most accurate reproduction.*
 
-# The Applicant Manager | Applicant Tracking System | Recruiting Software
+# The Applicant Manager | Applicant Tracking System | Recruiting Software | TAM
 
 **This Privacy Policy is effective as of January 1, 2012.**
 
