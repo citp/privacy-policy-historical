@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justluxe.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813051401id_/http%3A//www.justluxe.com/terms/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justluxe.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209153301id_/http%3A//www.justluxe.com/terms/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,6 +40,10 @@ We limit access to personal information about you to employees who we believe ha
 ### Changes to this Privacy Policy
 
 JustLuxe may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your email account or by placing a prominent notice on our site. 
+
+### Google Analytics Demographics and Interest Reporting
+
+We may use data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender and interests) to better understand our users' preferences.
 
 ### Contact Us
 
