@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gloadmarket.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105131647id_/http%3A//gloadmarket.com/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gloadmarket.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209211800id_/https%3A//gloadmarket.com/page/privacy_policy) for the most accurate reproduction.*
 
-# Global Advertising Market
-
-**GloAdMarket privacy policy**
+# Global Advertising Market | Advertiser, Publiser
 
 GloAdMarket, as part of providing online services, we collect information from you when you register on our site. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, Password. 
 
