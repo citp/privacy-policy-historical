@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dqindia.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103174604id_/http%3A//www.cybermedia.co.in/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dqindia.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209085144id_/http%3A//www.cybermedia.co.in/static/privacy-policy) for the most accurate reproduction.*
 
 # CyberMedia - Impacting Communities through Media Mesh
 
@@ -42,4 +42,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ## Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20131103174604id_/http%3A//static/contact)
+If you have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20140209085144id_/http%3A//static/contact)
