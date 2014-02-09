@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authenticthemes.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816193006id_/https%3A//www.authenticthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authenticthemes.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209072153id_/https%3A//www.authenticthemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Authentic Themes
 
