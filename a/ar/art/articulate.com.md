@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articulate.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207000705id_/http%3A//www.articulate.com/terms/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articulate.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209112931id_/http%3A//www.articulate.com/terms/privacy.php) for the most accurate reproduction.*
 
 # Articulate Privacy Policy
 
