@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engagor.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908054645id_/https%3A//app.engagor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engagor.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209094607id_/https%3A//app.engagor.com/privacy-policy) for the most accurate reproduction.*
 
 # Engagor | Privacy Policy
 
@@ -6,7 +6,7 @@ _Last Updated August 6th, 2012._
 
 Engagor NV ("Engagor", "we" or "us") is committed to doing business with the highest ethical standards. We want to deliver a high quality service to our clients. We are committed to handle information regarding its business responsibly. In this privacy statement we describe how we handle different types of (personal) information we gather.
 
-The first part of this privacy statement ("Application Privacy Policy") addresses how we handle personal information gathered via the use of our Website (http://engagor.com) and our Application (http://app.engagor.com). The second part ("Social Media Content Privacy Policy") addresses our handling of information obtained from public Internet resources via our Application.
+The first part of this privacy statement ("Application Privacy Policy") addresses how we handle personal information gathered via the use of our Website (https://engagor.com) and our Application (https://app.engagor.com). The second part ("Social Media Content Privacy Policy") addresses our handling of information obtained from public Internet resources via our Application.
 
 If you have question about our privacy policy and how they relate to your use of our Application, you can contact us at:
 
@@ -40,7 +40,7 @@ We reserve the right to change this Privacy Statement. We will provide notificat
 
 ## Application Privacy Policy
 
-This part of the Policy addresses the handling of information on our Website (http://engagor.com) and Application (http://app.engagor.com)..
+This part of the Policy addresses the handling of information on our Website (https://engagor.com) and Application (https://app.engagor.com)..
 
 ### 1\. Information Collected
 
