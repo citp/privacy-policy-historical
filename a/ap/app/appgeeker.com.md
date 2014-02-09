@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appgeeker.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821010148id_/http%3A//www.appgeeker.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appgeeker.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209151317id_/http%3A//www.appgeeker.com/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement | AppGeeker
 
