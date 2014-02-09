@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mig33.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017111007id_/http%3A//www.mig33.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mig33.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209225338id_/http%3A//www.mig33.com/privacy) for the most accurate reproduction.*
 
 # Privacy | mig33
 
 ## Introduction and Scope
 
-In this Privacy Policy, we (Project Goth, Inc., headquartered in Palo Alto, California) describe how we use personally identifiable information about you that we collect through our website at [www.mig33.com](http://www.mig33.com/), through our mig33 software, through your use of our messaging and voice telephony services, and through our customer support, contact@mig33.com. This Privacy Policy does not apply to any other data, including, without limitation, data that we collect offline about our customers, data about our employees or data that others collect on websites that are linked to our website.
+In this Privacy Policy, we (Project Goth, Inc., headquartered in Singapore) describe how we use personally identifiable information about you that we collect through our website at [www.mig33.com](http://www.mig33.com/), through our mig33 software, through your use of our platform services, and through our customer support, contact@mig33.com. This Privacy Policy does not apply to any other data, including, without limitation, data that we collect offline about our customers, data about our employees or data that others collect on websites that are linked to our website.
 
 ## About Children
 
@@ -46,7 +46,7 @@ We keep your personally identifiable information confidential and we disclose it
   * We may share your information with trusted third-party service providers and other business partners, which we engage and obligate to process your data only on our behalf or on behalf of joint purposes, e.g., in support of delivering information, products or services to you.
   * We may also share your personally identifiable information to respond to law enforcement requests, court orders or other legal process or if we believe that such disclosure is necessary to investigate, prevent or respond to illegal activities, fraud, physical threats to you or others or as otherwise required by any applicable law or regulation.
   * We may share or transfer your information in connection with a prospective or actual sale, merger, transfer or other reorganization of all or parts of our business.
-  * We freely use and disclose data in anonymous form.
+  * We freely use and disclose data received in anonymous form.
   * Before we disclose your personally identifiable data for other reasons, we will first obtain your consent, for example via email, click-through, an online opportunity to opt-out or otherwise.
 
 
@@ -75,4 +75,4 @@ Note also that your use of our website is subject to our [Terms of Use](https:/
 
 ## Contact Us
 
-Please feel free to contact us with any comments, questions, complaints or suggestions you might have regarding the information practices described in this privacy policy. You may send us an e-mail at [contact@mig33.com](mailto:contact@mig33.com) or write to us at 3150 Porter Drive, Palo Alto, CA 94304, USA.
+Please feel free to contact us with any comments, questions, complaints or suggestions you might have regarding the information practices described in this privacy policy. You may send us an e-mail at [contact@mig33.com](mailto:contact@mig33.com).
