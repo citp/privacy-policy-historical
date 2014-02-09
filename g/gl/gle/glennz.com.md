@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glennz.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206091710id_/http%3A//store.glennz.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glennz.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209213305id_/http%3A//store.glennz.com/privacypolicy.html) for the most accurate reproduction.*
 
 # GlennzTees
 
