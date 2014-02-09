@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digikey.us privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404214658id_/http%3A//dkc1.digikey.com/us/en/mkt/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digikey.us privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209114415id_/http%3A//dkc1.digikey.com/us/en/mkt/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | DigiKey
 
@@ -98,5 +98,7 @@ We welcome you to the Digi-Key® Web Site. At Digi-Key, your privacy and the pro
 >  Phone: 800-344-4539 or 218-681-6674  
 >  Fax: 218-681-3380  
 >  Email: [sales@digikey.com](mailto:sales@digikey.com)
+
+"Calls to Digi-Key may be monitored and recorded for quality assurance purposes."
 
 _Note: We reserve the right to make changes to our privacy policy at any time without prior notification_.
