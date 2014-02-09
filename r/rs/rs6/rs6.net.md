@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rs6.net privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204030052id_/http%3A//www.constantcontact.com/privacy_guarantee.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rs6.net privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209031719id_/http%3A//www.constantcontact.com/privacy_guarantee.jsp) for the most accurate reproduction.*
 
 # Privacy Statement - Constant Contact ®
 
