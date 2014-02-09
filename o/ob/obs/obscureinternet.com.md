@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obscureinternet.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229100201id_/http%3A//obsoletegamer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obscureinternet.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210000101id_/http%3A//obsoletegamer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Obsolete Gamer
 
@@ -40,7 +40,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://obscureinternet.com/Terms-and-conditions>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://obscureinternet.com/Terms-and-conditions
 
 **Your Consent**
 
