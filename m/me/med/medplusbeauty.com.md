@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the medplusbeauty.com privacy policy that was archived on 2013-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130129120730id_/http%3A//www.medplusbeauty.com/control/privacyPage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medplusbeauty.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209122336id_/http%3A//www.medplusbeauty.com/control/privacyPage) for the most accurate reproduction.*
 
-# Skin Care Products Online | Health & Beauty Care | Makeup | Hair Products | Security Privacy | Medplus E-Commerce Store | MedPlus Beauty
+# MedPlus Beauty - Personal Care, Health and Beauty Store Online in India
 
 Our goal at **[www.medplusbeauty.com](http://www.medplusbeauty.com/ "www.medPlusbeauty.com")**  is to make your shopping experience **comfortable** , **safe** , and **convenient**. Protecting your privacy is very important to us. We have accordingly developed this Privacy Policy to protect your personal information and keep it confidential. We endeavour to comply with laws of other countries but cannot and do not warrant that we do. We do everything we reasonably can to protect your rights of privacy on systems and the websites controlled by us, but we are not liable for any unauthorised or unlawful disclosures of your personal and confidential information made by third parties who are not subject to our control, for example advertisers and websites that have links to our website.
 
