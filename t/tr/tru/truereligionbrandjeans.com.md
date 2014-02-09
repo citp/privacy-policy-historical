@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the truereligionbrandjeans.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930020753id_/http%3A//www.truereligionbrandjeans.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truereligionbrandjeans.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209205336id_/http%3A//www.truereligionbrandjeans.com/privacy_policy.html) for the most accurate reproduction.*
 
-# - True Religion Brand Jeans - Men's & Women's Denim & Fashion Clothing
+# True Religion Brand Jeans - Men's & Women's Denim & Fashion Clothing
+
+* * *
 
   
 **_Last updated May 28, 2013_**
@@ -13,9 +15,11 @@ We want you to know that we take the privacy, security and confidentiality of yo
 
 Please also be advised that the practices described in this Privacy Policy apply only to Personal Data provided to or gathered by the Site and, where applicable, through our Customer Service Department in connection with this Site, and do not necessarily describe or reflect our information collection and sharing practices with respect to information gathered through other websites that we may operate or through other off-line means.
 
-**CONSENT:**
+**CONSENT:
 
-**BY ACESSING THE SITE AND/OR CREATING AN ACCOUNT WITH US OR ALLOWING SOMEONE TO USE THE SITE ON YOUR BEHALF, YOU ARE CONSENTING TO THE COLLECTION, USE, DISCLOSURE, TRANSFER AND STORAGE OF PERSONAL AND NON-PERSONAL DATA OR OTHER INFORMATION RECEIVED BY US AS A RESULT OF SUCH USE IN ACCORDANCE WITH THIS PRIVACY POLICY.**
+BY ACESSING THE SITE AND/OR CREATING AN ACCOUNT WITH US OR ALLOWING SOMEONE TO USE THE SITE ON YOUR BEHALF, YOU ARE CONSENTING TO THE COLLECTION, USE, DISCLOSURE, TRANSFER AND STORAGE OF PERSONAL AND NON-PERSONAL DATA OR OTHER INFORMATION RECEIVED BY US AS A RESULT OF SUCH USE IN ACCORDANCE WITH THIS PRIVACY POLICY.
+
+**
 
 **_Your California Privacy Rights, Our Contact Info & Requests for Information_**
 
@@ -138,3 +142,7 @@ The Site and our business may change from time to time. As a result (and for oth
 If we make any material changes to this Privacy Policy (as determined by us), we will post a notice on the Site notifying users of the changes and providing an opportunity for you to take action relative to those changes prior to their implementation. In some cases, we also may send an email notifying registered users of upcoming changes.
 
 This Privacy Policy was last updated on the date indicated above. Your continued use of the Site after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised and then-current Privacy Policy.
+
+* * *
+
+BACK TO THE TOP 
