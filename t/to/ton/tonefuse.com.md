@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tonefuse.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210160142id_/http%3A//tonefuse.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tonefuse.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209070241id_/http%3A//tonefuse.com/privacy.php) for the most accurate reproduction.*
 
 # ToneFuse
 
