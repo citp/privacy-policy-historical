@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatssotrue.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209143259id_/http%3A//www.thatssotrue.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatssotrue.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209153122id_/http%3A//www.thatssotrue.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Gif Stories - That's So True
 
@@ -12,6 +12,7 @@ The types of personal information Spartz Inc collects are:
   * Information that you provide for the purposes of registering for this website
   * Information about transactions carried out over this website
   * Information you provide for the purpose of subscribing to the website services
+  * Demographic and interests reporting
   * Any other information that you send Spartz Inc
 
 
