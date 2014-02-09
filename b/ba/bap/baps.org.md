@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baps.org privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123003644id_/http%3A//www.baps.org/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baps.org privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209111439id_/http%3A//www.baps.org/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
