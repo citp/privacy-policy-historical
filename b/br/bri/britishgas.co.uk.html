@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the britishgas.co.uk privacy policy that was archived on 2013-10-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131029060947id_/http%3A//www.britishgas.co.uk/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the britishgas.co.uk privacy policy that was archived on 2014-02-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209164554id_/http%3A//www.britishgas.co.uk/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--[if lt IE 7 ]> <html class="no-js ie6"> <![endif]--><!--[if IE 7 ]>    <html class="no-js ie7"> <![endif]--><!--[if IE 8 ]>    <html class="no-js ie8"> <![endif]--><!--[if (gte IE 9)|!(IE)]><!--><!--<![endif]--><head>
  
@@ -18,15 +18,18 @@
 
 
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<meta http-equiv="keywords" content="">
-<meta http-equiv="description" content="The British Gas privacy policy applies to personal information we hold about individuals, sole traders and partnerships. More info here.">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="keywords" content="">
+<meta name="description" content="The British Gas privacy policy applies to personal information we hold about individuals, sole traders and partnerships. More info here.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="format-detection" content="telephone=no">
+
  
  
  
      
 <link href="/etc/designs/centrica/css/reset.css" rel="stylesheet" type="text/css">
-    <link href="/etc/designs/centrica/css/main.css" rel="stylesheet" type="text/css">
+<link href="/etc/designs/centrica/css/responsive-tables.css" rel="stylesheet" type="text/css">
+<link href="/etc/designs/centrica/css/flexslider.css" rel="stylesheet" type="text/css">
+<link href="/etc/designs/centrica/css/main.css" rel="stylesheet" type="text/css">
 
 <link href="/etc/designs/centrica/bgas/css/color.css" rel="stylesheet" type="text/css">
 <link href="/etc/designs/centrica/bgas/css/superfish.css" rel="stylesheet" type="text/css">
@@ -131,8 +134,8 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 
  
  
-  <!-- [HM] Header module -->
-<!-- Header Starts-->
+  
+
 <div id="header">
 <div role="banner" id="main-header">
     <div class="header-container">
@@ -192,128 +195,216 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 
 
 
+   
 
-  <script>
-var currentsearchform="#site-search-formeb75b507-dbe2-44e6-b1f7-bb2f3046a087";
-</script>
-      <div class="topsrch fleft">
-        <form role="search" id="site-search-formeb75b507-dbe2-44e6-b1f7-bb2f3046a087">
-            <input type="text" name="site_search" class="site_search srchbox fleft ac_input" id="site-search-inputeb75b507-dbe2-44e6-b1f7-bb2f3046a087" title="Search" value="Search" autocomplete="off">
-            <input type="image" class="fleft site-search-submit" alt="Search" title="Search" src="/etc/designs/centrica/bgas/images/btn-search-input.png" id="site-search-submiteb75b507-dbe2-44e6-b1f7-bb2f3046a087">
-            <input id="uri" type="hidden" name="uri" value="/SiteSearch/">
-        </form>         
-    </div>
-    
- 
-
- <script type="text/javascript">
-       var arrayofjson =[];
-       var siteSearchURL ="";
-       var searchindex;
-       var searchText;
-       if(siteSerchValues==undefined)
-       var siteSerchValues=[];
-       $(document).ready(function(){
-           searchindex=$(".site_search").index($(currentsearchform+" .site_search"));
-          
-        $(".site-search-submit").click(function(e){
-            e.preventDefault();
-            searchText = $(this).prev('.site_search').val();
-            sitesearchResult(searchText);
-           
-        });
-    
-     
-       $('.site_search').keypress(function(e){
-            if(e.which==13) {
-                e.preventDefault();
-                searchText = $(this).val();
-                sitesearchResult(searchText);
-                return false;
-              
-            }
-        });
-
-
-       $('.site_search').click(function(e){
-           if ($(this).val()=='Search') {
+<div class="topsrch fleft">
+    <form id="newSearchFormSmall" name="newSearchFormSmall" action="/siteSearch/sitesearchresults.html" method="get">    
+        <fieldset>
+            <label for="searchtermsmall" class="displaynone">Search</label>        
+            <legend class="displaynone">Search</legend>
+            <input type="text" autocomplete="off" name="queryString" id="searchtermsmall" maxlength="" value="Search" class="srchbox fleft ui-autocomplete-input" aria-describedby="" aria-required="true" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+             <!-- Go button --> 
+             <input type="hidden" value="Search" name="smallMediumPlaceholderH" id="smallMediumPlaceholderH">           
+             <input type="hidden" value="UTF-8" name="_charset_" id="_charset_">
+            <button id="" type="submit" title="Search" class="newSearchButtonSmall fleft"> </button> 
+         </fieldset>
+    </form>
+</div>      
+<div class="cb"></div>
+    <div id="searchtermsmallresult"> 
+<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></div>  
+    <script type="text/javascript">
+      
+ $(document).ready(function(){ 
+ var defaultMsgLarge = $("#largePlaceholderH").val();
+ var defaultMsgSmallMedium = $("#smallMediumPlaceholderH").val();
+ //console.log("defaultMsgLarge = "+ defaultMsgLarge);
+ //console.log("defaultMsgSmallMedium = "+ defaultMsgSmallMedium );
+    //small and medium search boxes
+    $('#searchtermsmall, #searchtermmedium').click(function(e){
+           if ($(this).val()==defaultMsgSmallMedium ) {
                 $(this).val('');
             }
        });
 
-
-       $('.site_search').focus(function(e){
-           if ($(this).val()=='Search') {
+    $('#searchtermsmall, #searchtermmedium').focus(function(e){
+           if ($(this).val()==defaultMsgSmallMedium) {
                $(this).val('').css("color","black" );
                } 
            return false;
-       });
-
-
-       $('.site_search').blur(function(e){
+    });
+    
+    $('#searchtermsmall, #searchtermmedium').blur(function(e){
            if ($(this).val()=='') {
-               $(this).val('Search').css("color","#999999" );
+               $(this).val(defaultMsgSmallMedium).css("color","#999999" );
                return false;
               }
-       });
+       });     
        
-       });
+    //logic for the small submit btn
+    $(".newSearchButtonSmall, .newSearchButtonSmallTablet").click(function(e){
+       if ( ($("#searchtermsmall").val() == defaultMsgSmallMedium) || ($("#searchtermsmall").val() == ' ') )
+           {
+               e.preventDefault();
+           }
+    });
        
-       function sitesearchResult(searchString) {
-            var uri = $("#uri").val();
-            searchString = replaceAll(searchString," ","+");
-            searchString = uri + "?q=" + searchString;
-            siteSearchURL="";
-            siteSearchURL =  siteSearchURL + searchString;
-            window.location.href=siteSearchURL ;         
-        }
-    
-     function replaceAll(source,findString,replaceString){
-        var temp = source;
-        if(source != null && source != "undefined") {
-        var index = temp.indexOf(findString);
-          while(index != -1){
-              temp = temp.replace(findString,replaceString);
-              index = temp.indexOf(findString);
-          }
-          return temp;
-          }
-      }
+    //logic for the medium submit btn   
+     $("#siteSearchSubmitMedium").click(function(){
+        if ( ($("#searchtermmedium").val() != '') && ($("#searchtermmedium").val() != defaultMsgSmallMedium) ){
+           $("#searchtermsmall").val($("#searchtermmedium").val());           
+            $( "#newSearchFormSmall").submit();                
+           }      
+     });     
 
-
-     var dd=0;
-    
-     var url = "/content/sysadmin/britishgas/sitesearch/_jcr_content.infinity.json";
-    $.ajaxSetup({ async: false });
-    $.getJSON(url, function(data) {
-         $.each(data, function(i, node) {
-             if(i.match(/^sitesearch*/)){
-                 $.each(node, function(j, childnode) {
-                     if(j=="authoradds"){
-                         if(typeof(childnode)=="object"){
-                             for(k=0;k<childnode.length;k++)
-                                 arrayofjson[dd++]=(childnode[k]);
-                         }
-                         else
-                             arrayofjson[dd++]=(childnode);
-                     }
-                 });
-             }
-         });
-         var searchindex=$(".site_search").index($(currentsearchform+" .site_search"));
-         siteSerchValues[searchindex]=arrayofjson;
-         
-    });
-
-    $(document).ready(function() {
-        $("body").removeAttr("onload");
-    });
-
-
-</script>
-         
-
+   //logic for the large search box on h&a only
+    if( $("input[name='defaultFilter']").val() == "HelpAndAdvice" ){ 
+         if ( $('#searchtermlarge').val() == ''){
+            $('#searchtermlarge').val(defaultMsgLarge).css("color","#999999" );
+         }
         
+         $('#searchtermlarge').click(function(e){
+               if ($(this).val()=='defaultMsgLarge ') {
+                    $(this).val('');
+                }
+           });
+
+           $('#searchtermlarge').focus(function(e){
+               if ($(this).val() == defaultMsgLarge) {
+                   $(this).val('').css("color","black" );
+                   } 
+               return false;
+           });
+
+        $('#searchtermlarge').blur(function(e){
+               if ($(this).val()=='') {
+                   $(this).val(defaultMsgLarge).css("color","#999999" );
+                   return false;
+                  }
+           }); 
+    }
+    
+    //logic for the large submit btn
+    $("#siteSearchSubmit").click(function(e){
+       if ( ($("#searchtermlarge").val() == '') || ($("#searchtermlarge").val() == defaultMsgLarge ) )
+           {
+              e.preventDefault();
+           }
+    });    
+      
+   //logic for the filters
+    if($("#entireSite").attr("checked")==true){
+        $("#smartLivingH").val("");
+        $("#productsAndServicesH").val("");
+        $("#helpAndAdviceH").val("");
+        $("#videosH").val("");
+    } 
+   
+    if($("#smartLiving").attr("checked")==true){
+        $("#smartLivingH").val("SmartLiving");
+    }
+       
+    if($("#productsAndServices").attr("checked")==true){
+        $("#productsAndServicesH").val("ProductsAndService");
+    }
+
+    if($("#helpAndAdvice").attr("checked")==true){
+        $("#helpAndAdviceH").val("HelpAndAdvice");
+    }
+
+
+    if($("#videos").attr("checked")==true){
+        $("#videosH").val("video");
+    }     
+
+
+   $("#entireSite").change(function() {
+
+        enableDisableFilter($(this));            
+        $("#smartLivingH").val("");
+        $("#productsAndServicesH").val("");
+        $("#helpAndAdviceH").val("");
+        $("#videosH").val("");           
+        updateFilters("entireSite", "entireSiteH"); 
+        $("#newSearchFormId").submit();
+    });
+    
+    $("#helpAndAdvice").change(function() {
+
+        enableDisableFilter($(this));
+        $("#entireSiteH").val("");
+        $('#entireSite').attr('checked', false);
+        updateFilters("helpAndAdvice", "helpAndAdviceH"); 
+        $("#newSearchFormId").submit();
+    });
+    
+    $("#smartLiving").change(function() {
+    
+
+        enableDisableFilter($(this));
+        $("#entireSiteH").val("");
+        $('#entireSite').attr('checked', false);
+        updateFilters("smartLiving", "smartLivingH"); 
+        $("#newSearchFormId").submit();
+    });
+     
+    $("#productsAndServices").change(function() {
+    
+
+        enableDisableFilter($(this));
+         $("#entireSiteH").val("");
+              $('#entireSite').attr('checked', false);
+           updateFilters("productsAndServices", "productsAndServicesH"); 
+           $("#newSearchFormId").submit();
+    });
+    
+    $("#videos").change(function() {
+    
+
+        enableDisableFilter($(this));
+        $("#entireSiteH").val("");
+        $('#entireSite').attr('checked', false);
+        updateFilters("videos", "videosH");   
+        $("#newSearchFormId").submit();
+    });         
+} );
+    
+
+    function updateFilters(checkID, hiddenID){
+    
+
+       
+        if($("#"+checkID).attr("checked")==true)
+        {
+                $("#"+hiddenID).val($("#"+checkID).val());   
+        }
+        else
+        {
+                $("#"+hiddenID).val("");
+        }
+    }
+    
+    function entireSiteCheck(){
+        if ($("#helpAndAdvice").not(':checked') && $("#smartLiving").not(':checked') && 
+                $("#productsAndServices").not(':checked') && $("#videos").not(':checked')) {       
+            $('#entireSite').attr('checked', true);
+        }
+    }
+     
+    function enableDisableFilter(checkbox) {
+        if ($(checkbox).val() == '') {
+            $('#helpAndAdvice').attr('checked', false);
+            $('#smartLiving').attr('checked', false);
+            $('#productsAndServices').attr('checked', false);
+            $('#videos').attr('checked', false);
+        } else if ($(checkbox).val() == 'HelpAndAdvice' || $(checkbox).val() == 'SmartLiving'
+                    || $(checkbox).val() == 'ProductsAndService' || $(checkbox).val() == 'video') {       
+            $('#entireSite').attr('checked', false);
+        }
+    } 
+</script>   
+
+      
  
    
     </div>
@@ -333,373 +424,3198 @@ var currentsearchform="#site-search-formeb75b507-dbe2-44e6-b1f7-bb2f3046a087";
         
  
 
+       
 
-<div id="mega-menu" role="navigation">
-<span class="hidden" id="menu-description">Main site navigation</span>
-<ul class="sf-menu sf-js-enabled sf-shadow" role="menubar" aria-labelledby="menu-description">
-<li role="presentation" class="menuheading first-menu"><a class="menubar-link sf-with-ul" href="/products-and-services.html" role="menuitem" tabindex="0">Products &amp; services<span class="sf-sub-indicator"> »</span></a>
-<ul class="mega-menu" role="menu" style="display: none; visibility: hidden;"><li class="mega-menu-list"><div class="mega-wrapper">
+            
+    <div class="header-right fright">    
+             
+            
+                <div id="mega-menu" class="fleft" role="navigation">     
+                    <span class="hidden" id="menu-description">Main site navigation</span>
+                    
+                    <ul class="sf-menu sf-js-enabled sf-shadow" role="menubar" aria-labelledby="menu-description">
+                     
+                         
+                                       <div class="parsys hero-panel"><div class="megamenu section">
  
-<div class="mega-column-new">
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/products-and-services/gas-and-electricity.html" role="menuitem" tabindex="-1">Gas &amp; electricity</a></h3>
-<ul>
-<li role="presentation"><a href="/GetAQuote/" role="menuitem" tabindex="-1">Get a quote</a></li>
-<li role="presentation"><a href="/products-and-services/gas-and-electricity/tariff-check/switch-to-british-gas-anonymous.html" role="menuitem" tabindex="-1">Switch to British Gas</a></li>
-<li role="presentation"><a href="/products-and-services/gas-and-electricity/our-energy-tariffs.html" role="menuitem" tabindex="-1">Our tariffs</a></li>
-<li role="presentation"><a href="/products-and-services/gas-and-electricity/tariff-check.html" role="menuitem" tabindex="-1">Tariff Check</a></li>
-<li role="presentation"><a href="/products-and-services/gas-and-electricity/customerpacks.html" role="menuitem" tabindex="-1">Customer packs</a></li>
-<li role="presentation"><a href="/products-and-services/gas-and-electricity/energysmart.html" role="menuitem" tabindex="-1">EnergySmart™ </a></li>
-<li role="presentation"><a href="/products-and-services/gas-and-electricity/the-warm-home-discount.html" role="menuitem" tabindex="-1">Warm Home Discount</a></li>
-<li role="presentation"><a href="/products-and-services/gas-and-electricity/gas-safety.html" role="menuitem" tabindex="-1">Gas safety</a></li>
-<li role="presentation"><a href="/products-and-services/gas-and-electricity/new-connections.html" role="menuitem" tabindex="-1">New Connections</a></li>
-<li role="presentation"><a href="/products-and-services/gas-and-electricity/benefits-of-being-with-us.html" role="menuitem" tabindex="-1">The benefits of being with us</a></li>
-<li role="presentation"><a href="/products-and-services/gas-and-electricity/the-key-facts.html" role="menuitem" tabindex="-1">Key facts about British Gas</a></li>
-</ul>
-</div></div>
- 
-</div>
-<div class="mega-column-new">
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/products-and-services/boilers-and-central-heating.html" role="menuitem" tabindex="-1">Boilers &amp; central heating</a></h3>
-<ul>
-<li role="presentation"><a href="/products-and-services/boilers-and-central-heating/cover.html" role="menuitem" tabindex="-1">Boiler &amp; heating cover</a></li>
-<li role="presentation"><a href="/products-and-services/boilers-and-central-heating/one-off-boiler-repairs.html" role="menuitem" tabindex="-1">One off boiler repair</a></li>
-<li role="presentation"><a href="/products-and-services/boilers-and-central-heating/boiler-service-and-safety-checks.html" role="menuitem" tabindex="-1">Boiler service &amp; safety</a></li>
-<li role="presentation"><a href="/products-and-services/boilers-and-central-heating/new-boilers.html" role="menuitem" tabindex="-1">New boilers</a></li>
-<li role="presentation"><a href="/products-and-services/boilers-and-central-heating/heating-upgrades.html" role="menuitem" tabindex="-1">Heating upgrades</a></li>
-</ul>
-</div></div>
- 
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/products-and-services/plumbing-and-drains.html" role="menuitem" tabindex="-1">Plumbing &amp; drains </a></h3>
-<ul>
-<li role="presentation"><a href="/products-and-services/plumbing-and-drains/plumbing-and-drains-cover.html" role="menuitem" tabindex="-1">Plumbing &amp; drains cover</a></li>
-<li role="presentation"><a href="/products-and-services/plumbing-and-drains/get-a-repair-quote.html" role="menuitem" tabindex="-1">One off plumbing &amp; drains repair</a></li>
-</ul>
-</div></div>
- 
-</div>
-<div class="mega-column-new">
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/products-and-services/home-electrics.html" role="menuitem" tabindex="-1">Home electrics</a></h3>
-<ul>
-<li role="presentation"><a href="/products-and-services/home-electrics/home-electrical-cover.html" role="menuitem" tabindex="-1">Home electrical cover</a></li>
-<li role="presentation"><a href="/products-and-services/home-electrics/one-off-electrical-appliance-repairs.html" role="menuitem" tabindex="-1">One off electrical and appliance repairs</a></li>
-<li role="presentation"><a href="/products-and-services/home-electrics/electricial-home-improvements.html" role="menuitem" tabindex="-1">Improvements</a></li>
-</ul>
-</div></div>
- 
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/products-and-services/home-appliances.html" role="menuitem" tabindex="-1">Home appliances</a></h3>
-<ul>
-<li role="presentation"><a href="/ViewQuoteDetails/coverGas/" role="menuitem" tabindex="-1">Gas appliance cover</a></li>
-<li role="presentation"><a href="/ViewQuoteDetails/coverKitchen/" role="menuitem" tabindex="-1">Kitchen appliance cover</a></li>
-</ul>
-</div></div>
- 
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/products-and-services/landlords.html" role="menuitem" tabindex="-1">Landlords</a></h3>
-<ul>
-<li role="presentation"><a href="/products-and-services/landlords/gas-safety-certificate.html" role="menuitem" tabindex="-1">Gas safety certificate</a></li>
-<li role="presentation"><a href="/products-and-services/landlords/landlord-packages.html" role="menuitem" tabindex="-1">Landlord packages</a></li>
-</ul>
-</div></div>
- 
-</div>
-<div class="mega-column-new">
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/products-and-services/home-insurance.html" role="menuitem" tabindex="-1">Home insurance</a></h3>
-<ul>
-<li role="presentation"><a href="/products-and-services/home-insurance/buildings-and-contents-insurance.html" role="menuitem" tabindex="-1">Buildings and contents insurance</a></li>
-<li role="presentation"><a href="/products-and-services/home-insurance/buildings-insurance.html" role="menuitem" tabindex="-1">Buildings insurance</a></li>
-<li role="presentation"><a href="/products-and-services/home-insurance/contents-insurance.html" role="menuitem" tabindex="-1">Contents insurance</a></li>
-</ul>
-</div></div>
- 
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/products-and-services/energy-saving.html" role="menuitem" tabindex="-1">Energy saving products</a></h3>
-<ul>
-<li role="presentation"><a href="/products-and-services/energy-saving/home-insulation/free-insulation.html" role="menuitem" tabindex="-1">Free insulation</a></li>
-<li role="presentation"><a href="/products-and-services/energy-saving/electric-vehicles.html" role="menuitem" tabindex="-1">Electric vehicles</a></li>
-</ul>
-</div></div>
- 
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/products-and-services/safe-and-secure.html" role="menuitem" tabindex="-1">Safe &amp; Secure</a></h3>
-<ul>
-<li role="presentation"><a href="/products-and-services/safe-and-secure/home-monitoring-explained.html" role="menuitem" tabindex="-1">Home monitoring explained</a></li>
-</ul>
-</div></div>
- 
-</div>
-<div class="mega-column-new">
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/products-and-services/solar-panels.html" role="menuitem" tabindex="-1">Solar panels</a></h3>
-<ul>
-<li role="presentation"><a href="/products-and-services/solar-panels/solar-pv.html" role="menuitem" tabindex="-1">Solar PV</a></li>
-<li role="presentation"><a href="/products-and-services/solar-panels/solar-thermal.html" role="menuitem" tabindex="-1">Solar thermal</a></li>
-</ul>
-</div></div>
- 
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/products-and-services/hive-active-heating.html" role="menuitem" tabindex="-1">Hive Active Heating™</a></h3>
-<ul>
-<li role="presentation"><a href="/products-and-services/hive-active-heating/how-to-use.html" role="menuitem" tabindex="-1">How to use</a></li>
-<li role="presentation"><a href="/products-and-services/hive-active-heating/how-it-works.html" role="menuitem" tabindex="-1">How it works</a></li>
-<li role="presentation"><a href="/products-and-services/hive-active-heating/installation.html" role="menuitem" tabindex="-1">Installation</a></li>
-</ul>
-</div></div>
- 
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/products-and-services/nectar.html" role="menuitem" tabindex="-1">Nectar</a></h3>
-<ul>
-<li role="presentation"><a href="/products-and-services/nectar/collect-points.html" role="menuitem" tabindex="-1">Collect points</a></li>
-<li role="presentation"><a href="/products-and-services/nectar/spend-points.html" role="menuitem" tabindex="-1">Spend points</a></li>
-</ul>
-</div></div>
- 
- 
-</div></div></li></ul></li>
-<li role="presentation" class="menuheading"><a class="menubar-link sf-with-ul" href="/smarter-living.html" role="menuitem" tabindex="-1">Smarter living<span class="sf-sub-indicator"> »</span></a>
-<ul class="mega-menu" role="menu" style="display: none; visibility: hidden;"><li class="mega-menu-list"><div class="mega-wrapper">
- 
-<div class="mega-column-new">
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/smarter-living/save-energy.html" role="menuitem" tabindex="-1">Save energy</a></h3>
-<ul>
-<li role="presentation"><a href="/smarter-living/save-energy/tariff-check-sl.html" role="menuitem" tabindex="-1">Tariff Check</a></li>
-<li role="presentation"><a href="/smarter-living/save-energy/energy-saving-tips.html" role="menuitem" tabindex="-1">Energy saving tips</a></li>
-<li role="presentation"><a href="/smarter-living/save-energy/green-streets.html" role="menuitem" tabindex="-1">Green Streets</a></li>
-<li role="presentation"><a href="/smarter-living/save-energy/green-deal.html" role="menuitem" tabindex="-1">Green Deal</a></li>
-<li role="presentation"><a href="/products-and-services/energy-saving/home-insulation/free-insulation.html" role="menuitem" tabindex="-1">Free insulation</a></li>
-</ul>
-</div></div>
- 
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/smarter-living/control-energy.html" role="menuitem" tabindex="-1">Control energy</a></h3>
-<ul>
-<li role="presentation"><a href="/smarter-living/control-energy/smart-meters.html" role="menuitem" tabindex="-1">Smart meter upgrade</a></li>
-<li role="presentation"><a href="/smarter-living/control-energy/hive-active-heating.html" role="menuitem" tabindex="-1">Hive Active Heating™</a></li>
-<li role="presentation"><a href="/smarter-living/control-energy/safe-and-secure.html" role="menuitem" tabindex="-1">Safe &amp; Secure</a></li>
-</ul>
-</div></div>
- 
-</div>
-<div class="mega-column-new">
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/smarter-living/create-energy.html" role="menuitem" tabindex="-1">Create energy</a></h3>
-</div></div>
- 
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/smarter-living/travel.html" role="menuitem" tabindex="-1">Travel smarter</a></h3>
-</div></div>
- 
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/smarter-living/smart-homes.html" role="menuitem" tabindex="-1">Homes are about to get smarter</a></h3>
-</div></div>
- 
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/smarter-living/smart-technology-reviews.html" role="menuitem" tabindex="-1">User reviews - Smarter Homes</a></h3>
-</div></div>
- 
-<div class="mega-column">
-<div class="mega-column-content last-mega-column-content">
-<h3><a href="/smarter-living/students.html" role="menuitem" tabindex="-1">Students - tips &amp; advice</a></h3>
-</div></div>
-</div></div></li></ul></li>
-<li role="presentation" class="menuheading"><a class="menubar-link sf-with-ul" href="/HelpAndAdvice/LookUp/" role="menuitem" tabindex="-1">Help &amp; advice<span class="sf-sub-indicator"> »</span></a>
-<ul class="mega-menu" role="menu" style="display: none; visibility: hidden;"><li class="mega-menu-list"><div class="mega-wrapper">
- 
-<div class="mega-column-new">
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/HelpAndAdvice/LookUp/?SXI=14,CASE=283,USETEMPLATE=sublanding_1.tem" role="menuitem" tabindex="-1">Bills &amp; payments</a></h3>
-<ul>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=4,CASE=270,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">Direct Debit</a></li>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=7,CASE=435,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">Ways to pay</a></li>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=6,CASE=3939,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">Your bill</a></li>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=18,CASE=3657,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">Trouble paying</a></li>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=18,CASE=4305,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">Payment cards</a></li>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=16,CASE=3668,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">Combined energy bills</a></li>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=16,CASE=4306,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">Annual statements</a></li>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=9,CASE=4596,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">Probate</a></li>
-</ul>
-</div></div>
- 
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/HelpAndAdvice/LookUp/?SXI=19,CASE=4323,USETEMPLATE=sublanding_1.tem" role="menuitem" tabindex="-1">Moving home</a></h3>
-</div></div>
- 
-</div>
-<div class="mega-column-new">
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/HelpAndAdvice/LookUp/?SXI=9,CASE=4312,USETEMPLATE=sublanding_1.tem" role="menuitem" tabindex="-1">Meters &amp; meter readings</a></h3>
-<ul>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=14,CASE=4313,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">Meter readings</a></li>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=14,CASE=3731,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">Smart Meters</a></li>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=14,CASE=3596,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">Pay As You Go</a></li>
-</ul>
-</div></div>
- 
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/HelpAndAdvice/LookUp/?SXI=16,CASE=1570,USETEMPLATE=sublanding_1.tem" role="menuitem" tabindex="-1">Tariffs &amp; add-ons</a></h3>
-<ul>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=16,CASE=4304,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">Tariffs</a></li>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=16,CASE=5125,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">EnergySmart™</a></li>
-</ul>
-</div></div>
- 
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/HelpAndAdvice/LookUp/?SXI=16,CASE=3582,USETEMPLATE=sublanding_1.tem" role="menuitem" tabindex="-1">Save energy - save money</a></h3>
-</div></div>
- 
-</div>
-<div class="mega-column-new">
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/HelpAndAdvice/LookUp/?SXI=6,CASE=4307,USETEMPLATE=sublanding_1.tem" role="menuitem" tabindex="-1">Online account</a></h3>
-<ul>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=11,CASE=4308,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">New customers</a></li>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=11,CASE=4309,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">Manage my details</a></li>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=11,CASE=4310,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">What can I do online?</a></li>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=16,CASE=5757,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">Online security</a></li>
-</ul>
-</div></div>
- 
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/HelpAndAdvice/LookUp/?SXI=16,CASE=285,USETEMPLATE=sublanding_1.tem" role="menuitem" tabindex="-1">Boiler &amp; HomeCare®</a></h3>
-<ul>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=16,CASE=4318,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">Annual service / Maintenance</a></li>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=16,CASE=4320,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">Breakdowns &amp; repairs</a></li>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=16,CASE=4319,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">Troubleshooting</a></li>
-</ul>
-</div></div>
- 
-</div>
-<div class="mega-column-new">
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/HelpAndAdvice/LookUp/?SXI=12,CASE=284,USETEMPLATE=sublanding_1.tem" role="menuitem" tabindex="-1">Pay As You Go Energy™</a></h3>
-<ul>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=12,CASE=3027,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">Home Energy Top Up</a></li>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=4,CASE=3572,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">Cards &amp; keys</a></li>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=4,CASE=3596,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">Meters</a></li>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=4,CASE=1011,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">Account queries</a></li>
-</ul>
-</div></div>
- 
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/HelpAndAdvice/LookUp/?SXI=16,CASE=1763,USETEMPLATE=sublanding_1.tem" role="menuitem" tabindex="-1">More</a></h3>
-<ul>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=16,CASE=2437,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">Mobile app help</a></li>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=19,CASE=4504,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">Emergencies</a></li>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=16,CASE=2737,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">Safe &amp; Secure</a></li>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=17,CASE=7031,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">Remote Heating Control</a></li>
-<li role="presentation"><a href="/HelpAndAdvice/LookUp/?SXI=16,CASE=4329,USETEMPLATE=sublanding_2.tem" role="menuitem" tabindex="-1">Nectar</a></li>
-</ul>
-</div></div>
- 
-</div>
-<div class="mega-column-new">
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/about-us.html" role="menuitem" tabindex="-1">About us</a></h3>
-<ul>
-<li role="presentation"><a href="/about-us/about-British-Gas/customer-service-performance.html" role="menuitem" tabindex="-1">Customer service performance</a></li>
-<li role="presentation"><a href="http://www.britishgas.co.uk/mediacentre" role="menuitem" tabindex="-1">Media Centre</a></li>
-</ul>
-</div></div>
- 
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/Help_Advice/ContactUs/" role="menuitem" tabindex="-1">Contact us</a></h3>
-<ul>
-<li role="presentation"><a href="/Help_Advice/ContactUs/" role="menuitem" tabindex="-1">Ways to contact us</a></li>
-<li role="presentation"><a href="/help-and-advice/contactus-personal-details/emergency-numbers.html" role="menuitem" tabindex="-1">Emergency numbers</a></li>
-<li role="presentation"><a href="/help-and-advice/contactus-personal-details/contact-us.html" role="menuitem" tabindex="-1">Contact telephone numbers</a></li>
-</ul>
-</div></div>
- 
-<div class="mega-column">
-<div class="mega-column-content last-mega-column-content">
-<h3><a href="/help-and-advice/contactus-personal-details/complaints.html" role="menuitem" tabindex="-1">Complaints</a></h3>
-<ul>
-<li role="presentation"><a href="/help-and-advice/contactus-personal-details/complaints.html" role="menuitem" tabindex="-1">Make a Complaint </a></li>
-<li role="presentation"><a href="/help-and-advice/contactus-personal-details/complaints-performance.html" role="menuitem" tabindex="-1">Complaints performance</a></li>
-</ul>
-</div></div>
-</div></div></li></ul></li>
-<li role="presentation" class="menuheading last-menu"><a class="menubar-link sf-with-ul" href="/Your_Account/Account_Details/" role="menuitem" tabindex="-1">Your account<span class="sf-sub-indicator"> »</span></a>
-<ul class="mega-menu" role="menu" style="display: none; visibility: hidden;"><li class="mega-menu-list"><div class="mega-wrapper">
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-<div class="mega-column-new">
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/Your_Account/Account_Details/" role="menuitem" tabindex="-1">Log in</a></h3>
-</div></div>
- 
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/Registration/Account-Details-Entry/Link/ID/Register/" role="menuitem" tabindex="-1">Register</a></h3>
-</div></div>
- 
-<div class="mega-column">
-<div class="mega-column-content">
-<h3><a href="/youraccount/discover.html" role="menuitem" tabindex="-1">Discover your account</a></h3>
-<ul>
-<li role="presentation"><a href="/youraccount/discover/submit-meter-reading.html" role="menuitem" tabindex="-1">Submit a meter reading</a></li>
-<li role="presentation"><a href="/youraccount/discover/you-are-in-control-with-direct-debit.html" role="menuitem" tabindex="-1">Direct Debit</a></li>
-<li role="presentation"><a href="/youraccount/discover/manage-your-engineer-visit.html" role="menuitem" tabindex="-1">Manage your engineer visit</a></li>
-<li role="presentation"><a href="/HomeMove/Home-Move-Services/" role="menuitem" tabindex="-1">Moving home</a></li>
-<li role="presentation"><a href="/youraccount/discover/home-energy-top-up-service.html" role="menuitem" tabindex="-1">Home Energy Top Up</a></li>
-<li role="presentation"><a href="/youraccount/discover/monitor-consumption.html" role="menuitem" tabindex="-1">Monitor consumption</a></li>
-<li role="presentation"><a href="/youraccount/discover/your-bill.html" role="menuitem" tabindex="-1">Your bill</a></li>
-</ul>
-</div></div>
- 
- 
- 
-</div></div></li></ul></li>
 
 
-</ul>
-</div>
 
+
+ 
+
+
+
+    
+     
+    
+        
+       
+    
+    
+    
+<li role="presentation" class="menuheading  first-menu">
+        <a class="menubar-link sf-with-ul" title="Products &amp; services" href="/products-and-services.html" tabindex="0"> 
+            Products &amp; services
+        <span class="sf-sub-indicator"> »</span><span class="sf-sub-indicator"> »</span></a>
+        <ul class="mega-menu" role="menu" style="display: none; visibility: hidden;">    
+            <li class="mega-menu-list">  
+                <div class="mega-wrapper">
+                    <div class="megamenusection menu-head-1">
+     
+
+
+                 
+
+
+<div class="max-width">
+
+    <div class="mega-column-new">
+        <div class="cb"></div>
+        <div class="parsys menu-parsys-11"><div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Gas &amp; electricity" href="/products-and-services/gas-and-electricity.html" tabindex="-1">Gas &amp; electricity</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+     
+        <ul>  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Get a quote" href="/GetAQuote/" tabindex="-1">
+                        Get a quote
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Switch to British Gas" href="/products-and-services/gas-and-electricity/tariff-check/switch-to-british-gas-anonymous.html" tabindex="-1">
+                        Switch to British Gas
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Our tariffs" href="/products-and-services/gas-and-electricity/our-energy-tariffs.html" tabindex="-1">
+                        Our tariffs
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Tariff Check" href="/products-and-services/gas-and-electricity/tariff-check.html" tabindex="-1">
+                        Tariff Check
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="EnergySmart™ " href="/products-and-services/gas-and-electricity/energysmart.html" tabindex="-1">
+                        EnergySmart™ 
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Warm Home Discount" href="/products-and-services/gas-and-electricity/the-warm-home-discount.html" tabindex="-1">
+                        Warm Home Discount
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Gas safety" href="/products-and-services/gas-and-electricity/gas-safety.html" tabindex="-1">
+                        Gas safety
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="New Connections" href="/products-and-services/gas-and-electricity/new-connections.html" tabindex="-1">
+                        New Connections
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="The benefits of being with us" href="/products-and-services/gas-and-electricity/benefits-of-being-with-us.html" tabindex="-1">
+                        The benefits of being with us
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Key facts about British Gas" href="/products-and-services/gas-and-electricity/the-key-facts.html" tabindex="-1">
+                        Key facts about British Gas
+                    </a>                    
+                </li> 
+                
+                  
+            
+        </ul> 
+    
   
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+</div>
+
+    </div>
+
+    <div class="mega-column-new">
+        <div class="cb"></div>
+        <div class="parsys menu-parsys-12"><div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Boilers &amp; central heating" href="/products-and-services/boilers-and-central-heating.html" tabindex="-1">Boilers &amp; central heating</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+     
+        <ul>  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Boiler &amp; heating cover" href="/products-and-services/boilers-and-central-heating/cover.html" tabindex="-1">
+                        Boiler &amp; heating cover
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="One off boiler repair" href="/products-and-services/boilers-and-central-heating/one-off-boiler-repairs.html" tabindex="-1">
+                        One off boiler repair
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Boiler service &amp; safety" href="/products-and-services/boilers-and-central-heating/boiler-service-and-safety-checks.html" tabindex="-1">
+                        Boiler service &amp; safety
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="New boilers" href="/products-and-services/boilers-and-central-heating/new-boilers.html" tabindex="-1">
+                        New boilers
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Heating upgrades" href="/products-and-services/boilers-and-central-heating/heating-upgrades.html" tabindex="-1">
+                        Heating upgrades
+                    </a>                    
+                </li> 
+                
+                  
+            
+        </ul> 
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+<div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Plumbing &amp; drains " href="/products-and-services/plumbing-and-drains.html" tabindex="-1">Plumbing &amp; drains </a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+     
+        <ul>  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Plumbing &amp; drains cover" href="/products-and-services/plumbing-and-drains/plumbing-and-drains-cover.html" tabindex="-1">
+                        Plumbing &amp; drains cover
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="One off plumbing &amp; drains repair" href="/products-and-services/plumbing-and-drains/get-a-repair-quote.html" tabindex="-1">
+                        One off plumbing &amp; drains repair
+                    </a>                    
+                </li> 
+                
+                  
+            
+        </ul> 
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+</div>
+
+    </div>
+
+    <div class="mega-column-new">
+        <div class="cb"></div>
+        <div class="parsys menu-parsys-13"><div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Home electrics" href="/products-and-services/home-electrics.html" tabindex="-1">Home electrics</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+     
+        <ul>  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Home electrical cover" href="/products-and-services/home-electrics/home-electrical-cover.html" tabindex="-1">
+                        Home electrical cover
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="One off electrical and appliance repairs" href="/products-and-services/home-electrics/one-off-electrical-appliance-repairs.html" tabindex="-1">
+                        One off electrical and appliance repairs
+                    </a>                    
+                </li> 
+                
+                  
+            
+        </ul> 
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+<div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Home appliances" href="/products-and-services/home-appliances.html" tabindex="-1">Home appliances</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+     
+        <ul>  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Gas appliance cover" href="/ViewQuoteDetails/coverGas/" tabindex="-1">
+                        Gas appliance cover
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Kitchen appliance cover" href="/ViewQuoteDetails/coverKitchen/" tabindex="-1">
+                        Kitchen appliance cover
+                    </a>                    
+                </li> 
+                
+                  
+            
+        </ul> 
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+<div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Landlords" href="/products-and-services/landlords.html" tabindex="-1">Landlords</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+     
+        <ul>  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Gas safety certificate" href="/products-and-services/landlords/gas-safety-certificate.html" tabindex="-1">
+                        Gas safety certificate
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Landlord packages" href="/products-and-services/landlords/landlord-packages.html" tabindex="-1">
+                        Landlord packages
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Landlord insurance" href="/products-and-services/landlords/landlord-insurance.html" tabindex="-1">
+                        Landlord insurance
+                    </a>                    
+                </li> 
+                
+                  
+            
+        </ul> 
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+</div>
+
+    </div>
+
+    <div class="mega-column-new">
+        <div class="cb"></div>
+        <div class="parsys menu-parsys-14"><div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Home insurance" href="/products-and-services/home-insurance.html" tabindex="-1">Home insurance</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+     
+        <ul>  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Buildings and contents insurance" href="/products-and-services/home-insurance/buildings-and-contents-insurance.html" tabindex="-1">
+                        Buildings and contents insurance
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Buildings insurance" href="/products-and-services/home-insurance/buildings-insurance.html" tabindex="-1">
+                        Buildings insurance
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Contents insurance" href="/products-and-services/home-insurance/contents-insurance.html" tabindex="-1">
+                        Contents insurance
+                    </a>                    
+                </li> 
+                
+                  
+            
+        </ul> 
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+<div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Energy saving products" href="/products-and-services/energy-saving.html" tabindex="-1">Energy saving products</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+     
+        <ul>  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Free insulation" href="/products-and-services/energy-saving/home-insulation/free-insulation.html" tabindex="-1">
+                        Free insulation
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Electric vehicles" href="/products-and-services/energy-saving/electric-vehicles.html" tabindex="-1">
+                        Electric vehicles
+                    </a>                    
+                </li> 
+                
+                  
+            
+        </ul> 
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+<div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Solar panels" href="/products-and-services/solar-panels.html" tabindex="-1">Solar panels</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+     
+        <ul>  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Solar PV" href="/products-and-services/solar-panels/solar-pv.html" tabindex="-1">
+                        Solar PV
+                    </a>                    
+                </li> 
+                
+                  
+            
+        </ul> 
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+</div>
+
+    </div>
+
+    <div class="mega-column-new">
+        <div class="cb"></div>
+        <div class="parsys menu-parsys-15"><div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Hive Active Heating™" href="/products-and-services/hive-active-heating.html" tabindex="-1">Hive Active Heating™</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+     
+        <ul>  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="How to use" href="/products-and-services/hive-active-heating/how-to-use.html" tabindex="-1">
+                        How to use
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="How it works" href="/products-and-services/hive-active-heating/how-it-works.html" tabindex="-1">
+                        How it works
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Installation" href="/products-and-services/hive-active-heating/installation.html" tabindex="-1">
+                        Installation
+                    </a>                    
+                </li> 
+                
+                  
+            
+        </ul> 
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+<div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Nectar" href="/products-and-services/nectar.html" tabindex="-1">Nectar</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+     
+        <ul>  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Collect points" href="/products-and-services/nectar/collect-points.html" tabindex="-1">
+                        Collect points
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Spend points" href="/products-and-services/nectar/spend-points.html" tabindex="-1">
+                        Spend points
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Vue Cinema offer" href="/products-and-services/nectar/nectar-reward-points-vue-cinema-tickets-offer.html" tabindex="-1">
+                        Vue Cinema offer
+                    </a>                    
+                </li> 
+                
+                  
+            
+        </ul> 
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+<div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Exclusive Offers" href="/products-and-services/exclusive-offers.html" tabindex="-1">Exclusive Offers</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+</div>
+
+    </div>
+
+</div>
+<div class="cb"></div>
+  
+
+ </div>
+  
+                </div>
+            </li>
+        </ul>        
+    </li>
+
+
+    
+
+    
+     
+       
+    
+    
+    
+<li role="presentation" class="menuheading">
+        <a class="menubar-link sf-with-ul" title="Smarter living" href="/smarter-living.html" tabindex="-1"> 
+            Smarter living
+        <span class="sf-sub-indicator"> »</span><span class="sf-sub-indicator"> »</span></a>
+        <ul class="mega-menu" role="menu" style="display: none; visibility: hidden;">    
+            <li class="mega-menu-list">  
+                <div class="mega-wrapper">
+                    <div class="megamenusection menu-head-2">
+     
+
+
+                 
+
+
+<div class="max-width">
+
+    <div class="mega-column-new">
+        <div class="cb"></div>
+        <div class="parsys menu-parsys-21"><div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Save energy" href="/smarter-living/save-energy.html" tabindex="-1">Save energy</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+     
+        <ul>  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Tariff Check" href="/smarter-living/save-energy/tariff-check-sl.html" tabindex="-1">
+                        Tariff Check
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Free insulation" href="/products-and-services/energy-saving/home-insulation/free-insulation.html" tabindex="-1">
+                        Free insulation
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Energy saving tips" href="/smarter-living/save-energy/energy-saving-tips.html" tabindex="-1">
+                        Energy saving tips
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Green Streets" href="/smarter-living/save-energy/green-streets.html" tabindex="-1">
+                        Green Streets
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Green Deal" href="/smarter-living/save-energy/green-deal.html" tabindex="-1">
+                        Green Deal
+                    </a>                    
+                </li> 
+                
+                  
+            
+        </ul> 
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+<div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Control energy" href="/smarter-living/control-energy.html" tabindex="-1">Control energy</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+     
+        <ul>  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Smart meter upgrade" href="/smarter-living/control-energy/smart-meters.html" tabindex="-1">
+                        Smart meter upgrade
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Hive Active Heating™" href="/smarter-living/control-energy/hive-active-heating.html" tabindex="-1">
+                        Hive Active Heating™
+                    </a>                    
+                </li> 
+                
+                  
+            
+        </ul> 
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+<div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Create energy" href="/smarter-living/create-energy.html" tabindex="-1">Create energy</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+</div>
+
+    </div>
+
+    <div class="mega-column-new">
+        <div class="cb"></div>
+        <div class="parsys menu-parsys-22"><div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Travel smarter" href="/smarter-living/travel.html" tabindex="-1">Travel smarter</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+<div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Students - tips &amp; advice" href="/smarter-living/students.html" tabindex="-1">Students - tips &amp; advice</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+</div>
+
+    </div>
+
+</div>
+<div class="cb"></div>
+  
+
+ </div>
+  
+                </div>
+            </li>
+        </ul>        
+    </li>
+
+
+    
+
+    
+     
+       
+    
+    
+    
+<li role="presentation" class="menuheading">
+        <a class="menubar-link sf-with-ul" title="Help &amp; advice" href="/HelpAndAdvice/LookUp/" tabindex="-1"> 
+            Help &amp; advice
+        <span class="sf-sub-indicator"> »</span><span class="sf-sub-indicator"> »</span></a>
+        <ul class="mega-menu" role="menu" style="display: none; visibility: hidden;">    
+            <li class="mega-menu-list">  
+                <div class="mega-wrapper">
+                    <div class="megamenusection menu-head-3">
+     
+
+
+                 
+
+
+<div class="max-width">
+
+    <div class="mega-column-new">
+        <div class="cb"></div>
+        <div class="parsys menu-parsys-31"><div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Bills &amp; payments" href="/HelpAndAdvice/LookUp/?category=Bills-payments" tabindex="-1">Bills &amp; payments</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+     
+        <ul>  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Direct Debits" href="/HelpAndAdvice/LookUp/?category=Bills-payments&amp;topic=Direct-Debits" tabindex="-1">
+                        Direct Debits
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Ways to pay" href="/HelpAndAdvice/LookUp/?category=Bills-payments&amp;topic=Ways-to-pay" tabindex="-1">
+                        Ways to pay
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Your bill" href="/HelpAndAdvice/LookUp/?category=Bills-payments&amp;topic=Your-bill" tabindex="-1">
+                        Your bill
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Trouble paying" href="/HelpAndAdvice/LookUp/?category=Bills-payments&amp;topic=Trouble-paying" tabindex="-1">
+                        Trouble paying
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Your annual statement" href="/HelpAndAdvice/LookUp/?category=Bills-payments&amp;topic=Your-annual-statement" tabindex="-1">
+                        Your annual statement
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Payment Cards" href="/HelpAndAdvice/LookUp/?category=Bills-payments&amp;topic=Payment-Cards" tabindex="-1">
+                        Payment Cards
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="All about probate" href="/HelpAndAdvice/LookUp/?category=Bills-payments&amp;topic=All-about-probate" tabindex="-1">
+                        All about probate
+                    </a>                    
+                </li> 
+                
+                  
+            
+        </ul> 
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+<div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Moving home" href="/HelpAndAdvice/LookUp/?category=Moving-home" tabindex="-1">Moving home</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+</div>
+
+    </div>
+
+    <div class="mega-column-new">
+        <div class="cb"></div>
+        <div class="parsys menu-parsys-32"><div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Tariffs &amp; add-ons" href="/HelpAndAdvice/LookUp/?category=Tariffs-add-ons" tabindex="-1">Tariffs &amp; add-ons</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+     
+        <ul>  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="All about tariffs" href="/HelpAndAdvice/LookUp/?category=Tariffs-add-ons&amp;topic=All-about-tariffs" tabindex="-1">
+                        All about tariffs
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="EnergySmart™ " href="/HelpAndAdvice/LookUp/?category=Tariffs-add-ons&amp;topic=EnergySmart" tabindex="-1">
+                        EnergySmart™ 
+                    </a>                    
+                </li> 
+                
+                  
+            
+        </ul> 
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+<div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Meters &amp; meter reads" href="/HelpAndAdvice/LookUp/?category=Meters-meter-readings" tabindex="-1">Meters &amp; meter reads</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+     
+        <ul>  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Meter readings" href="/HelpAndAdvice/LookUp/?category=Meters-meter-readings&amp;topic=Meter-readings" tabindex="-1">
+                        Meter readings
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Smart meters" href="/HelpAndAdvice/LookUp/?category=Meters-meter-readings&amp;topic=Smart-Meters" tabindex="-1">
+                        Smart meters
+                    </a>                    
+                </li> 
+                
+                  
+            
+        </ul> 
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+<div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Pay As You Go Energy™" href="/HelpAndAdvice/LookUp/?category=Pay-As-You-Go-Energy" tabindex="-1">Pay As You Go Energy™</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+     
+        <ul>  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Home Energy Top Up" href="/HelpAndAdvice/LookUp/?category=Pay-As-You-Go-Energy&amp;topic=Home-Energy-Top-Up" tabindex="-1">
+                        Home Energy Top Up
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Cards &amp; keys" href="/HelpAndAdvice/LookUp/?category=Pay-As-You-Go-Energy&amp;topic=Cards-keys" tabindex="-1">
+                        Cards &amp; keys
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Pay as you go meters" href="/HelpAndAdvice/LookUp/?category=Pay-As-You-Go-Energy&amp;topic=Pay-as-you-go-meters" tabindex="-1">
+                        Pay as you go meters
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Account queries" href="/HelpAndAdvice/LookUp/?category=Pay-As-You-Go-Energy&amp;topic=Account-queries" tabindex="-1">
+                        Account queries
+                    </a>                    
+                </li> 
+                
+                  
+            
+        </ul> 
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+</div>
+
+    </div>
+
+    <div class="mega-column-new">
+        <div class="cb"></div>
+        <div class="parsys menu-parsys-33"><div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Boiler &amp; HomeCare®" href="/HelpAndAdvice/LookUp/?category=Boiler-HomeCare" tabindex="-1">Boiler &amp; HomeCare®</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+     
+        <ul>  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Annual service / Maintenance" href="/HelpAndAdvice/LookUp/?category=Boiler-HomeCare&amp;topic=Annual-service-Maintenance" tabindex="-1">
+                        Annual service / Maintenance
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Breakdowns and repairs" href="/HelpAndAdvice/LookUp/?category=Boiler-HomeCare&amp;topic=Breakdowns-and-repairs" tabindex="-1">
+                        Breakdowns and repairs
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Troubleshooting" href="/HelpAndAdvice/LookUp/?category=Boiler-HomeCare&amp;topic=Troubleshooting" tabindex="-1">
+                        Troubleshooting
+                    </a>                    
+                </li> 
+                
+                  
+            
+        </ul> 
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+<div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Online account " href="/HelpAndAdvice/LookUp/?category=Online-account" tabindex="-1">Online account </a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+     
+        <ul>  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="New customers" href="/HelpAndAdvice/LookUp/?category=Online-account&amp;topic=New-customers" tabindex="-1">
+                        New customers
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Managing your details" href="/HelpAndAdvice/LookUp/?category=Online-account&amp;topic=Managing-your-details" tabindex="-1">
+                        Managing your details
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="What you can do online" href="/HelpAndAdvice/LookUp/?category=Online-account&amp;topic=What-you-can-do-online" tabindex="-1">
+                        What you can do online
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Online security" href="/HelpAndAdvice/LookUp/?category=Online-account&amp;topic=Online-security" tabindex="-1">
+                        Online security
+                    </a>                    
+                </li> 
+                
+                  
+            
+        </ul> 
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+<div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Nectar" href="/HelpAndAdvice/LookUp/?category=Nectar" tabindex="-1">Nectar</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+</div>
+
+    </div>
+
+    <div class="mega-column-new">
+        <div class="cb"></div>
+        <div class="parsys menu-parsys-34"><div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Save energy save money" href="/HelpAndAdvice/LookUp/?category=save-energy-save-money" tabindex="-1">Save energy save money</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+     
+        <ul>  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Energy saving tips" href="/HelpAndAdvice/LookUp/?category=save-energy-save-money&amp;topic=Energy-saving-tips" tabindex="-1">
+                        Energy saving tips
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Smart Energy Report" href="/HelpAndAdvice/LookUp/?category=save-energy-save-money&amp;topic=Smart-Energy-Report" tabindex="-1">
+                        Smart Energy Report
+                    </a>                    
+                </li> 
+                
+                  
+            
+        </ul> 
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+<div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Ways We Can Help Tool" href="/waysWeCanHelp/GetStarted/" tabindex="-1">Ways We Can Help Tool</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+<div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="More" href="/HelpAndAdvice/LookUp/?category=More" tabindex="-1">More</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+     
+        <ul>  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Mobile App help" href="/HelpAndAdvice/LookUp/?category=More&amp;topic=Mobile-App-help" tabindex="-1">
+                        Mobile App help
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Help in an emergency" href="/HelpAndAdvice/LookUp/?category=More&amp;topic=Help-in-an-emergency" tabindex="-1">
+                        Help in an emergency
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Remote Heating Control™" href="/HelpAndAdvice/LookUp/?category=More&amp;topic=Remote-Heating-Control" tabindex="-1">
+                        Remote Heating Control™
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Safe &amp; Secure" href="/HelpAndAdvice/LookUp/?category=More&amp;topic=Safe-Secure" tabindex="-1">
+                        Safe &amp; Secure
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Electric vehicles" href="/HelpAndAdvice/LookUp/?category=More&amp;topic=Electric-Vehicles" tabindex="-1">
+                        Electric vehicles
+                    </a>                    
+                </li> 
+                
+                  
+            
+        </ul> 
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+</div>
+
+    </div>
+
+    <div class="mega-column-new">
+        <div class="cb"></div>
+        <div class="parsys menu-parsys-35"><div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="About us" href="/about-us.html" tabindex="-1">About us</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+     
+        <ul>  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Customer service performance" href="/about-us/about-British-Gas/customer-service-performance.html" tabindex="-1">
+                        Customer service performance
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Media Centre" href="http://www.britishgas.co.uk/mediacentre" tabindex="-1">
+                        Media Centre
+                    </a>                    
+                </li> 
+                
+                  
+            
+        </ul> 
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+<div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Contact us" href="/Help_Advice/ContactUs/" tabindex="-1">Contact us</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+     
+        <ul>  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Ways to contact us" href="/Help_Advice/ContactUs/" tabindex="-1">
+                        Ways to contact us
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Emergency numbers" href="/help-and-advice/contactus-personal-details/emergency-numbers.html" tabindex="-1">
+                        Emergency numbers
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Contact telephone numbers" href="/help-and-advice/contactus-personal-details/contact-us.html" tabindex="-1">
+                        Contact telephone numbers
+                    </a>                    
+                </li> 
+                
+                  
+            
+        </ul> 
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+<div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Complaints" href="/help-and-advice/contactus-personal-details/complaints.html" tabindex="-1">Complaints</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+     
+        <ul>  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Make a Complaint " href="/help-and-advice/contactus-personal-details/complaints.html" tabindex="-1">
+                        Make a Complaint 
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Complaints performance" href="/help-and-advice/contactus-personal-details/complaints-performance.html" tabindex="-1">
+                        Complaints performance
+                    </a>                    
+                </li> 
+                
+                  
+            
+        </ul> 
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+ 
+</div>
+</div>
+
+    </div>
+
+</div>
+<div class="cb"></div>
+  
+
+ </div>
+  
+                </div>
+            </li>
+        </ul>        
+    </li>
+
+
+    
+
+    
+        
+    
+     
+       
+    
+    
+    
+<li role="presentation" class="menuheading last-menu">
+        <a class="menubar-link sf-with-ul" title="Your account" href="/Your_Account/Account_Details/" tabindex="-1"> 
+            Your account
+        <span class="sf-sub-indicator"> »</span><span class="sf-sub-indicator"> »</span></a>
+        <ul class="mega-menu" role="menu" style="display: none; visibility: hidden;">    
+            <li class="mega-menu-list">  
+                <div class="mega-wrapper">
+                    <div class="menu-head-4 megamenusection">
+     
+
+
+                 
+
+
+<div class="max-width">
+
+    <div class="mega-column-new">
+        <div class="cb"></div>
+        <div class="parsys menu-parsys-41"><div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+                     
+                   
+                         <h3>   <a href="/Your_Account/Account_Details/" title="Log in" role="menuitem" class="" tabindex="-1">Log in</a>   </h3> 
+                     
+             
+          
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+
+
+ 
+</div>
+<div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+                     
+                   
+                         <h3>  <a href="/Registration/Account-Details-Entry/Link/ID/Register/" title="Register" role="menuitem" class="" tabindex="-1">Register</a>   </h3> 
+                     
+             
+          
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+
+
+ 
+</div>
+<div class="menulinks section">
+   
+   
+
+ 
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column"> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Discover your account" href="/youraccount/discover.html" tabindex="-1">Discover your account</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+     
+        <ul>  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Submit a meter reading" href="/youraccount/discover/submit-meter-reading.html" tabindex="-1">
+                        Submit a meter reading
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Direct Debit" href="/youraccount/discover/you-are-in-control-with-direct-debit.html" tabindex="-1">
+                        Direct Debit
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Manage your engineer visit" href="/youraccount/discover/manage-your-engineer-visit.html" tabindex="-1">
+                        Manage your engineer visit
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Moving home" href="/youraccount/discover/homemove.html" tabindex="-1">
+                        Moving home
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Home Energy Top Up" href="/youraccount/discover/home-energy-top-up-service.html" tabindex="-1">
+                        Home Energy Top Up
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Monitor consumption" href="/youraccount/discover/monitor-consumption.html" tabindex="-1">
+                        Monitor consumption
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="Your bill" href="/youraccount/discover/your-bill.html" tabindex="-1">
+                        Your bill
+                    </a>                    
+                </li> 
+                
+                  
+            
+        </ul> 
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+
+
+
+ 
+</div>
+</div>
+
+    </div>
+
+</div>
+<div class="cb"></div>
+  
+
+ </div>
+  
+                </div>
+            </li>
+        </ul>        
+    </li>
+
+
+    
+
+
+ </div>
+</div>
+     
+                                    
+                   </ul>         
+                </div>    
+              
+               <script type="text/javascript">
+                  $('ul.sf-menu').superfish();     
+                  if ("ontouchstart" in document.documentElement){   
+                      $('ul.sf-menu').sftouchscreen();              
+                      
+                  }
+                 
+                  </script>   
+                 
+                   
+       
+
+    </div>
+
+
+
+
+
+
+
+
+
+
     
     
 
@@ -733,14 +3649,12 @@ var currentsearchform="#site-search-formeb75b507-dbe2-44e6-b1f7-bb2f3046a087";
  
 
 
+  
+
+
+
+
  
- <!--  ********** SSRV Sprint 8 October 08 2013 release changes - start *********** -->
-
-
-
-
-
- <!--  ********** SSRV Sprint 8 October 08 2013 release changes - End *********** -->
 <div id="breadcrumb">
 <ul>
 
@@ -764,7 +3678,7 @@ var currentsearchform="#site-search-formeb75b507-dbe2-44e6-b1f7-bb2f3046a087";
           
   </div> 
 
-<!-- Header Ends-->
+
 
 
 <div id="content-body">
@@ -1107,6 +4021,8 @@ If you do not want us to use cookies in your browser, you can set your browser t
             
             
 			
+            
+			
 			
             
             
@@ -1114,6 +4030,7 @@ If you do not want us to use cookies in your browser, you can set your browser t
             
 			   
 
+            
             
             
 	    
@@ -1124,6 +4041,9 @@ If you do not want us to use cookies in your browser, you can set your browser t
      
 			
 			  
+            
+			
+            
             
          
       
@@ -1155,55 +4075,261 @@ If you do not want us to use cookies in your browser, you can set your browser t
 <div id="footer" role="contentinfo">
 <div id="footer-wrap">  
     <div id="footer-cont">
-    
-    <div class="ft-links fleft">
-        <ul>
-           <li><a href="/products-and-services/gas-and-electricity.html">Gas &amp; Electricity</a></li>
-<li><a href="/products-and-services/gas-and-electricity/our-energy-tariffs.html">Dual Fuel</a></li>
-<li><a href="/products-and-services/gas-and-electricity/tips-and-advice.html">Energy Tips &amp; Advice</a></li>
-<li><a href="/products-and-services/boilers-and-central-heating.html">Boilers</a></li>
-<li><a href="/products-and-services/boilers-and-central-heating/cover.html">Boiler cover</a></li>
-<li><a href="/products-and-services/boilers-and-central-heating/one-off-boiler-repairs.html">Boiler repair</a></li>
-<li><a href="/products-and-services/home-insurance.html">Home insurance</a></li>
-<li><a href="/smarter-living/save-energy/green-deal.html">Green Deal</a></li>
-<li><a href="/smarter-living/control-energy/smart-meters.html">Smart meters</a></li>
-<li><a href="http://www.britishgas.co.uk/business/gas/">Business Gas</a></li>
-<li><a href="http://www.britishgas.co.uk/business/electricity/">Business Electricity</a></li>
+        <div class="ft-links">
+         <div class="nav-links globalFooter">
+ 
 
-        </ul>
-    </div>
-    <div class="cb"></div>
-    <!-- PRB 9412 Starts -->
-    <div class="section separator">
-    <div class="divider-1"></div>
-    <div>
-    <!-- PRB 9412 Ends -->
-    <div class="ft-links fleft">
-        <ul>
-           <li><a href="/terms-and-conditions.html">Terms &amp; conditions</a></li>
-<li><a href="/privacy-policy.html">Privacy</a></li>
-<li><a href="/accessibility.html">Accessibility</a></li>
-<li><a href="/welsh-speaking.html"><span lang="cy">Cymraeg</span></a></li>
-<li><a href="/affiliates.html">Affiliates</a></li>
-<li><a href="/sitemap.html">Sitemap</a></li>
-<li><a href="http://www.centrica.com/">Centrica</a></li>
-<li><a href="/legal-information.html">Legal</a></li>
-<li><a href="/global-maintenance/cookies-policy.html">Cookies</a></li>
 
-        </ul>
-    </div>
-        <div class="ft-links-rgt fright">
-           
-             <ul class="social fleft">
-                <li><a href="http://www.britishgastoday.co.uk" class="rss" title="Latest news" target="_blank">Latest news</a></li>
-                <li><a href="http://www.facebook.com/britishgas" class="facebook" title="Facebook" target="_blank">Facebook</a></li>
-                <li><a href="http://www.twitter.com/britishgas" class="twitter" title="Twitter" target="_blank">Twitter</a></li>
-                <li><a href="http://www.youtube.com/britishgas" class="youtube" title="Youtube" target="_blank">YouTube</a></li>
-             </ul>
+<div class="parsys hero-panel"><div class="parsys section"><div class="list section">
+ 
+
+
+
+
+
+
+
+<ul class="">
+
+  
+
+    <li>
+        <a href="/products-and-services/gas-and-electricity.html" title="Gas &amp; Electricity">Gas &amp; Electricity</a>
+
+    </li>
+  
+
+    <li>
+        <a title="Dual Fuel" href="/products-and-services/gas-and-electricity/our-energy-tariffs.html">Dual Fuel</a>
+
+    </li>
+  
+
+    <li>
+        <a title="Energy Tips &amp; Advice" href="/products-and-services/gas-and-electricity/tips-and-advice.html">Energy Tips &amp; Advice</a>
+
+    </li>
+  
+
+    <li>
+        <a title="Boilers" href="/products-and-services/boilers-and-central-heating.html">Boilers</a>
+
+    </li>
+  
+
+    <li>
+        <a title="Boiler cover" href="/products-and-services/boilers-and-central-heating/cover.html">Boiler cover</a>
+
+    </li>
+  
+
+    <li>
+        <a title="Boiler repair" href="/products-and-services/boilers-and-central-heating/one-off-boiler-repairs.html">Boiler repair</a>
+
+    </li>
+  
+
+    <li>
+        <a href="/products-and-services/home-insurance.html" title="Home insurance">Home insurance</a>
+
+    </li>
+  
+
+    <li>
+        <a href="/smarter-living/save-energy/green-deal.html" title="Green Deal">Green Deal</a>
+
+    </li>
+  
+
+    <li>
+        <a title="Smart meters" href="/smarter-living/control-energy/smart-meters.html">Smart meters</a>
+
+    </li>
+  
+
+    <li>
+        <a title="Business Gas" href="http://www.britishgas.co.uk/business/gas/">Business Gas</a>
+
+    </li>
+  
+
+    <li>
+        <a title="Business Electricity" href="http://www.britishgas.co.uk/business/electricity/">Business Electricity</a>
+
+    </li>
+
+</ul>
+
+</div>
+<div class="parsys section separator">
+ 
+
+<div class="separatortype divider-1">
+   
+</div></div>
+<div class="parbase contentPrioritization section">
+ 
+
+
+
+
+
+
+<div class="parsys contentparsys"><div class="parsys_column cq-colctrl-lt6"><div class="parsys_column cq-colctrl-lt6-c0"><div class="list section">
+ 
+
+
+
+
+
+
+
+<ul class="cb">
+
+  
+
+    <li>
+        <a href="/terms-and-conditions.html" title="Terms &amp; conditions">Terms &amp; conditions</a>
+
+    </li>
+  
+
+    <li>
+        <a title="Privacy" href="/privacy-policy.html">Privacy</a>
+
+    </li>
+  
+
+    <li>
+        <a href="/accessibility.html" title="Accessibility">Accessibility</a>
+
+    </li>
+  
+
+    <li>
+        <a href="/welsh-speaking.html" title="Cymraeg">Cymraeg</a>
+
+    </li>
+  
+
+    <li>
+        <a href="/affiliates.html" title="Affiliates">Affiliates</a>
+
+    </li>
+  
+
+    <li>
+        <a href="/sitemap.html" title="Sitemap">Sitemap</a>
+
+    </li>
+  
+
+    <li>
+        <a href="http://www.centrica.com/" title="Centrica">Centrica</a>
+
+    </li>
+  
+
+    <li>
+        <a title="Legal" href="/legal-information.html">Legal</a>
+
+    </li>
+  
+
+    <li>
+        <a href="/global-maintenance/cookies-policy.html" title="Cookies">Cookies</a>
+
+    </li>
+
+</ul>
+
+</div>
+</div><div class="parsys_column cq-colctrl-lt6-c1"><div class="list section">
+ 
+
+
+
+
+
+
+
+<ul class="social fright">
+
+  
+
+    <li>
+        <a target="_blank" title="Latest news" class="rss" href="http://www.britishgastoday.co.uk">Latest news</a>
+
+    </li>
+  
+
+    <li>
+        <a target="_blank" title="Facebook" class="facebook" href="http://www.facebook.com/britishgas">Facebook</a>
+
+    </li>
+  
+
+    <li>
+        <a target="_blank" title="Twitter" class="twitter" href="http://www.twitter.com/britishgas">Twitter</a>
+
+    </li>
+  
+
+    <li>
+        <a target="_blank" title="Youtube" class="youtube" href="http://www.youtube.com/britishgas">YouTube</a>
+
+    </li>
+
+</ul>
+
+</div>
+</div></div><div style="clear:both"></div><div class="parbase contentPrioritization section">
+ 
+
+
+
+ 
+
+
+</div>
+<div class="text parbase section">
+ 
+<p><span class="small">© British Gas 2014</span></p>
+
+</div>
+</div>
+
+
+
+
+ 
+
+
+</div>
+<div class="parbase contentPrioritization section">
+ 
+
+
+
+ 
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+     <div class="cb"></div>
         </div>
+    </div>
+</div>
+</div>
+    
+   
         <div class="cb"></div>
-        <p class="copyrights"> © British Gas 2013 </p>
-		
+        
+        
  <div class="globalSessionTimeOut globalSession_timeout">
  
 
@@ -1230,6 +4356,8 @@ $(document).ready(function() {
 var secs;
 var sessionTimeOutForm; 
 var sessionTimer;
+var logoutDestiny = '/Logout/Logout-Session-Succesful/';
+var redirectDestiny = '/Logout/Logout-Succesful/'; 
 
 function initiateSessionCounter(){    
     sessionTimer = setTimeout("initiate()", 1140000);
@@ -1265,7 +4393,7 @@ function countLastMinute(seconds) {
     document.getElementById('disp').innerHTML = secs;
     
     if(secs == 0 && document.sessionTimeOutForm.stopTimer.value == "false") {
-        parent.location = '/Logout/Logout-Session-Succesful/';
+        parent.location = logoutDestiny;
     } else {
         if (document.sessionTimeOutForm.stopTimer.value == "false") {
             sessionTimeOutForm = setTimeout("countLastMinute()", 1000);
@@ -1279,7 +4407,7 @@ var secs=0;
 
     if(secs == 0)
     {
-        parent.location = '/Logout/Logout-Succesful/'; // redirects to specified page once timer ends
+        parent.location = redirectDestiny; // redirects to specified page once timer ends
     }
 }
 
@@ -1349,20 +4477,20 @@ function keepSessionAlive()
 
  
     </div>
-    </div>
-   	 
-    	<div id="fixme-bottom">
-    		<a href="javascript:websiteFeedbackPopup();"><img class="fright" src="/content/dam/british-gas/global/feedback.gif" alt="feedback on our website" title="feedback on our website"></a>
+    
+     
+        <div id="fixme-bottom">
+            <a href="javascript:websiteFeedbackPopup();" title="feedback on our website"><img class="fright" src="/content/dam/british-gas/global/feedback.gif" alt="feedback on our website" title="feedback on our website"></a>
 </div>
 
-</div>
+
 
 <!--Footer Ends-->
 
 
 
 
-</div>
+
 
  
 
@@ -1373,11 +4501,17 @@ function keepSessionAlive()
 <script src="/etc/designs/centrica/scripts/jquery-autocomplete.js" type="text/javascript"></script>
 <script src="/etc/designs/centrica/scripts/jquery-csv.js" type="text/javascript"></script>
 <script src="/etc/designs/centrica/scripts/bg_jquery.lightbox.pack.js" type="text/javascript"></script>
+<script src="/etc/designs/centrica/scripts/devices/jquery.flexslider.js" type="text/javascript"></script>
+<script src="/etc/designs/centrica/scripts/devices/responsive-tables.js" type="text/javascript"></script>
 <script type="text/javascript" src="/etc/designs/centrica/scripts/printarea.js"></script>
 <script type="text/javascript" src="/etc/designs/centrica/scripts/slides.min.jquery.js"></script>
 <script type="text/javascript" src="/etc/designs/centrica/scripts/jsrender.js"></script>
 <script src="/etc/designs/centrica/bgas/scripts/functional/sitesearch/sitesearch.js" type="text/javascript"></script>
-
+<script src="/etc/designs/centrica/bgas/scripts/jquery.pagination.js" type="text/javascript"></script>
+<script src="/etc/designs/centrica/scripts/jquery.pagination.js" type="text/javascript"></script>
+<script src="/etc/designs/centrica/scripts/underscore-min.js" type="text/javascript"></script>
+<script src="/etc/designs/centrica/scripts/backbone-min.js" type="text/javascript"></script>
+<script src="/etc/designs/centrica/scripts/amplify-1.1.min.js" type="text/javascript"></script>
 
      <script src="/etc/designs/centrica/bgas/scripts/functions.js" type="text/javascript"></script>
 
@@ -1395,7 +4529,7 @@ function keepSessionAlive()
 
 <script>
     var currentbrandName = "britishgas";
-    var currentUcrn = "001000233197";
+    var currentUcrn = "300038710820";
     if(currentUcrn=='null'){
         currentUcrn = '';
     }
@@ -1592,7 +4726,7 @@ function keepSessionAlive()
 <!--
 More detailed timing info is available by uncommenting some code in the timing.jsp component
 Timing chart URL:
-http://chart.apis.google.com/chart?chtt=privacy-policy.html+%281102ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,1102,0,1102&chxr=0,0,1102&chd=t:98,101,102,109,278,280,282,283,317,318,319,319,320,320,321,322,322,323,330,330,331,332,332,333,333,334,334,335,336,337,338,340,340,1098,1099,1100,1101|1,6,5,166,0,0,0,52,1,1,0,1,0,1,0,0,1,7,0,1,0,0,0,0,0,0,1,0,9,8,7,4,4,4,3,0,1&chly=clickstreamcloud.jsp|globalSiteSearch.jsp|siteSearchJourney.jsp|megamenu.jsp|breadcrumb.jsp|title.jsp|parsys.jsp|parsys.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|parsys.jsp|reference.jsp|panelcontainer.jsp|textimage.jsp|parsys.jsp|globalSessionTimeOut.jsp|sessionTimeout.jsp|text.jsp|genericNextButton.jsp&chs=600x500
+http://chart.apis.google.com/chart?chtt=privacy-policy.html+%28182ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,182,0,182&chxr=0,0,182&chd=t:11,15,17,26,28,28,30,31,31,36,37,40,51,52,54,56,58,59,61,63,73,74,76,78,89,90,91,93,95,97,98,99,101,102,103,106,108,109,111,113,124,125,127,129,131,132,133,133,135,136,137,138,141,142,142,143,143,146,148,149,150,151,152,152,152,153,153,154,154,154,155,158,159,159,159,160,160,160,161,161,161,162,162,163,164,164,168,169,170,170,171,171,172,172,174,174,174,175,176,177,178,178|1,9,4,119,117,117,49,5,5,15,2,1,7,2,2,2,14,2,2,2,6,2,2,1,11,6,2,2,1,3,1,1,39,6,3,2,15,2,2,2,7,2,2,2,4,1,0,2,5,1,1,1,4,1,3,0,2,1,0,1,11,1,0,0,1,0,0,0,0,1,3,1,0,0,1,0,0,0,0,0,0,5,5,4,3,3,7,6,0,5,0,4,1,3,0,0,1,0,6,2,0,1&chly=clickstreamcloud.jsp|globalSiteSearch.jsp|siteSearchJourney.jsp|megamenu.jsp|megamenu.jsp|parsys.jsp|megamenusection.jsp|menulinks.jsp|parsys.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|menulinks.jsp|megamenusection.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|megamenusection.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|menulinks.jsp|megamenusection.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|breadcrumb.jsp|title.jsp|parsys.jsp|parsys.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|reference.jsp|parsys.jsp|panelcontainer.jsp|textimage.jsp|parsys.jsp|globalFooter.jsp|parsys.jsp|list.jsp|parsys.jsp|separator.jsp|contentPrioritization.jsp|list.jsp|parsys.jsp|list.jsp|contentPrioritization.jsp|text.jsp|contentPrioritization.jsp|globalSessionTimeOut.jsp|sessionTimeout.jsp|text.jsp|genericNextButton.jsp&chs=600x500
 -->
 
 
@@ -1607,7 +4741,7 @@ document.write(unescape("%3Cscript src='" + stHost + "sitetagger.co.uk/" + stAcc
 
 
 
-</div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all  ui-draggable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-timeoutoverlay-content" style="display: none; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-timeoutoverlay-content">&nbsp;</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="timeoutoverlay-content" class="modalDialog ui-dialog-content ui-widget-content">
+<div class="ui-dialog ui-widget ui-widget-content ui-corner-all  ui-draggable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-timeoutoverlay-content" style="display: none; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-timeoutoverlay-content">&nbsp;</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="timeoutoverlay-content" class="modalDialog ui-dialog-content ui-widget-content">
                 <form name="sessionTimeOutForm" class="session-logout fleft">
              
 
@@ -1654,6 +4788,14 @@ document.write(unescape("%3Cscript src='" + stHost + "sitetagger.co.uk/" + stAcc
 
 
     
+        
+            
+                
+                
+                
+            
+            
+        
     
 
 
@@ -1670,7 +4812,7 @@ document.write(unescape("%3Cscript src='" + stHost + "sitetagger.co.uk/" + stAcc
 
 </div>
 
-                    <a title="Cancel" href="javascript:redo11();" alt="Cancel">Logout</a>
+                    <a href="javascript:redo11();" alt="Logout" title="Logout">Logout</a>
                 </div>
             </form>
        </div></div></body></html>
