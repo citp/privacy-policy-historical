@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elegantangel.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821032653id_/http%3A//www.clubelegantangel.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elegantangel.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209102528id_/http%3A//www.clubelegantangel.com/privacy.html) for the most accurate reproduction.*
 
 # Club Elegant Angel
 
@@ -36,9 +36,11 @@ While we uses commercially reasonable physical, managerial and technical safegua
 
 We utilize the services of outside advertising agencies to advertise our services and goods and/or services offered by third parties. Either we or our advertising agencies may use cookies and/or "action tags" to measure advertising effectiveness on an "anonymous basis". Some emails from us may contain advertisements from companies unrelated to the Sites. Should you elect to visit any such advertiser's website, we cannot, and do not, make any representations about applicable terms and conditions or privacy policies for such advertisers' websites. If you choose to make any purchases on such sites or accept any offers from such companies, we may provide your information, including Financial Data, to the advertiser as necessary to your request. Finally, we cannot, and do not, make any representations about the privacy policies or terms and conditions of advertisements appearing anywhere on our service, whether through our website or emails, this is regardless of whether or not there may be any mentions of or references to any or all of the Sites on such advertisers' website(s).
 
-**OPT-IN EMAIL OFFERS**
+**EMAIL OPT-IN AND USER COMMUNICATION**
 
-By accepting membership to this site, the subscriber expressly and specifically acknowledges and agrees that it may receive from time to time, email communications from this site or from third-party services. These communications shall be deemed to be opt-in email communications by virtue of the subscriber joining this site. Thru this process, the subscriber's personal information and data may be disclosed to third-party services.
+The subscriber's e-mail address may be used by the site to communicate special offers and other relevant information such as new services, subscription information, etc. In addition, there may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third-party service, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials. These communications shall be deemed to be opt-in email communications by virtue of the subscriber joining this site.
+
+**The subscriber may opt-out of a mailing list by clicking on the removal link located at the bottom of the promotional email or by visiting the site:**
 
 **Disclaimer**
 
