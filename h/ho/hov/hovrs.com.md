@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hovrs.com privacy policy that was archived on 2013-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130715024221id_/http%3A//www.purple.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hovrs.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209142255id_/http%3A//www.purple.us/privacy) for the most accurate reproduction.*
 
 # Purple Communications
 
@@ -12,6 +12,10 @@ Purple Communications, Inc.
 Rocklin, CA 95765  
 USA
 
+### By phone:
+
+(800)-900-9478 Ext. 6914
+
 ### Collection of Personal Information from Site Visitors
 
 Purple may collect and/or track 1), home server domain names, email addresses, type of client computer and type of visitor Web browsers to Purple’s website, 2) email addresses of visitors communicating with Purple via email, 3) information knowingly provided by the visitor in online forms, registration forms, surveys and contest entries (including demographic and personal profile data), and 4) aggregate and user-specific information on pages Purple Website visitor access.
@@ -20,11 +24,37 @@ Purple may place Internet “cookies” on visitors’ hard drives. Internet coo
 
 ### Use of Personal Data Collected
 
-Personal data collected by Purple may be used by Purple for editorial and feedback purposes, for marketing and promotional purposes, for a statistical analysis of user behavior, for product development, for content improvement, to inform advertisers of how many visitors have seen or clicked on their advertisements or to customize the content and layout of Purple’s site. Aggregate data on visitor home servers may be used for internal purposes or provided to third parties, such as advertisers. Individually identifying information, such as names, postal and email addresses, phone numbers, and other personal information which visitors voluntarily provide to Purple may be i) added to Purple’s databases and used for future calls and mailings regarding site updates, new products and services, upcoming events, and status of orders placed online, or ii) provided to reputable third parties who provide products and services which Purple believes that visitors may be interested in purchasing or obtaining, with prior notice to the visitor.
+Personal data collected by Purple may be used by Purple for editorial and feedback purposes, for marketing and promotional purposes (unless you choose to opt-out as outlined below), for a statistical analysis of user behavior, for product development, for content improvement, to inform advertisers of how many visitors have seen or clicked on their advertisements or to customize the content and layout of Purple’s site. Aggregate data on visitor home servers may be used for internal purposes or provided to third parties, such as advertisers. Individually identifying information, such as names, postal and email addresses, phone numbers, and other personal information which visitors voluntarily provide to Purple may be i) added to Purple’s databases and used for future calls and mailings regarding site updates, new products and services, upcoming events, and status of orders placed online, or ii) provided to reputable third parties who provide products and services which Purple believes that visitors may be interested in purchasing or obtaining, with prior notice to the visitor.
 
 ### Disclosure of Personal Data to Third Parties
 
 Any third party to which Purple shares, rents, sells or otherwise discloses personal data will be under a contractual obligation to use the personal data for marketing products and services which Purple determines, in its sole judgment, that visitors might find of interest. Purple will use its reasonable efforts to identify such third parties who may have products or services of interest to visitors to Purple’s site; however, such parties are independent third parties over which Purple exercises no control, and therefore, Purple is not responsible for their conduct, products or services, and will not be liable therefore. Purple will disclose to third parties only information in aggregate form that is publicly available, and/or that is knowingly and voluntarily disclosed by visitors. If there are advertisements on Purple’s website, the advertiser(s) will be electronically notified when visitors view or click on their advertisements through the use of third party cookies.
+
+### Customer Proprietary Network Information (CPNI)
+
+Customer Proprietary Network Information (CPNI) is information that Purple and other relay providers obtain when providing customers with relay service.  CPNI includes the types of relay a customer uses, the amount of relay calls made, and the location of those calls. 
+
+### Use of CPNI
+
+Purple and its affiliates may access CPNI to provide you with relay service, to process 911 calls, for installation, maintenance and repair services, and to offer you additional services of the type you already registered for with Purple and its affiliates.  Purple and its affiliates may also use your CPNI to offer you products and services which may be different from the types of services you already use.  Purple asks for your consent to do this during your registration process.  At any time you may choose to opt out of this use of your CPNI for marketing purposes.
+
+### Restricting Use of CPNI
+
+Customers have the right to deny any TRS providers the right to use, disclose or permit access to customer CPNI for certain marketing purposes, and TRS providers have a duty under federal law to honor the customer’s right and to protect the confidentiality of CPNI.
+
+If you wish to restrict Purple’s use of your CPNI for marketing purposes, you may do the following:
+
+  1. Login at **[www.purple.us](https://web.archive.org/)** ;
+  2. Go to the Email & Password section of your User Profile; and
+  3. Uncheck the CPNI Opt-in checkbox.
+
+
+
+Alternatively, you may contact Purple Customer Care at 877-885-3172.
+
+Your approval or denial for use of CPNI for these marketing purposes will not affect Purple’s provision of relay services to you.  However, the lack of access to CPNI may prohibit Purple and its affiliates from offering you new and different services that may be of interest to you and tailored to your relay needs. 
+
+Your approval or denial for use of CPNI outside of the service for which Purple and its affiliates are your default provider will stay in place until you change it.
 
 ### Security Measures
 
@@ -48,4 +78,4 @@ Purple reserves the right to contact site visitors regarding account status and 
 
 ### Purple’s Right to Change Privacy Policy
 
-The foregoing policy is effective as of February 2009. Purple reserves the right to change this policy at any time by notifying visitors of the existence and location of the new or revised privacy policy. By entering the Purple website, you are accepting all terms and conditions outlined in the above Purple Privacy Policy.
+The foregoing policy is effective as of December 2013. Purple reserves the right to change this policy at any time by notifying visitors of the existence and location of the new or revised privacy policy. By entering the Purple website, you are accepting all terms and conditions outlined in the above Purple Privacy Policy.
