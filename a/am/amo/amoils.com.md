@@ -1,59 +1,8 @@
-> *The following text is extracted and transformed from the amoils.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030124951id_/http%3A//www.amoils.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amoils.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209050621id_/http%3A//www.amoils.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Healing Natural Oils - Amoils.com
 
-| 
-
-  * [Home](http://www.amoils.com/)
-  * [About](http://www.amoils.com/about.html)
-  * [FAQs](http://www.amoils.com/faq.html)
-  * [Shipping](http://www.amoils.com/shipping.html)
-  * [Returns](http://www.amoils.com/returns.html)
-  * [Contact Us](http://www.amoils.com/contact.html)
-  *   * [Bundle Packs](http://www.amoils.com/bundle-packs.html)
-  * [All Products](http://www.amoils.com/products.html)
-
-
-  * Treatments
-    * [Acne](http://www.amoils.com/acne.html "Acne")
-    * [Arthritis](http://www.amoils.com/arthritis.html "Arthritis")
-    * [Athletes Foot](http://www.amoils.com/athlete.html "Athletes Foot")
-    * [Candida](http://www.amoils.com/candida.html "Candida")
-    * [Cellulite](http://www.amoils.com/cellulite-treatment.html "Cellulite")
-    * [Cracked Heels](http://www.amoils.com/cracked-heel-treatment.html "Cracked Heels")
-    * [Eczema](http://www.amoils.com/eczema.html "Eczema")
-    * [Fissures](http://www.amoils.com/anal-fissures.html "Fissures")
-    * [Headaches](http://www.amoils.com/headaches.html "Headaches")
-    * [Hemorrhoids](http://www.amoils.com/hemorrhoids.html "Hemorrhoids")
-    * [Insomnia](http://www.amoils.com/insomnia-treatment.html "Insomnia")
-    * [Jock Itch](http://www.amoils.com/jock-itch.html "Jock Itch")
-    * [Moles](http://www.amoils.com/mole-removal.html "Moles")
-    * [Nail Fungus](http://www.amoils.com/nail-fungus-treatment.html "Nail Fungus")
-    * [Psoriasis](http://www.amoils.com/psoriasis.html "Psoriasis")
-    * [Rosacea](http://www.amoils.com/rosacea-treatment.html "Rosacea")
-    * [Scars](http://www.amoils.com/scars.html "Scars")
-    * [Skin Tags](http://www.amoils.com/skin-tags-removal.html "Skin Tags")
-    * [Stretch Marks](http://www.amoils.com/stretch-marks.html "Stretch Marks")
-    * [Varicose Veins](http://www.amoils.com/varicose-veins-remedy.html "Varicose Veins")
-    * [Warts](http://www.amoils.com/warts.html "Warts")
-    * [Wrinkles](http://www.amoils.com/wrinkle-treatment.html "Wrinkle Treatment")
-  * Pregnancy / Moms
-    * [Fissures](http://www.amoils.com/pregnancy-products/pregnancy-fissures.html "Fissures")
-    * [Hemorrhoids](http://www.amoils.com/pregnancy-products/pregnancy-hemorrhoids.html "Hemorrhoids")
-    * [Stretch Marks](http://www.amoils.com/pregnancy-products/pregnancy-stretch-marks.html "Stretch Marks")
-    * [Varicose Veins](http://www.amoils.com/pregnancy-products/varicose-veins-treatment.html "Varicose Veins")
-  * Enhancements
-    * [Fsensual](http://www.amoils.com/sexual-enhancement/increase-libido.html "FSensual")
-    * [Msensual](http://www.amoils.com/sexual-enhancement/enhanced-sex.html "MSensual")
-
-
-  * [Image Gallery](http://www.amoils.com/image-gallery.html)
-  * [Health Articles](http://www.amoils.com/treatment/)
-  * [Health News Blog](http://www.amoils.com/health-blog/)
-
-| 
-
-[](http://twitter.com/share?url=http%3A%2F%2Fwww.amoils.com%2Fprivacy-policy.html) [](http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.amoils.com%2Fprivacy-policy.html&t=Privacy+Policy+-+Healing+Natural+Oils+-+Amoils.com)
+|  | 
 
 When accessing our Website, Healing Natural Oils will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
@@ -71,14 +20,12 @@ For site security purposes and to ensure that this service remains available to 
 
 Healing Natural Oils will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
 
-| 
-
-Over 500,000 Sold 
-
-Click Here   
-
-
+|   
+---|---|---  
   
-  
-  
----|---|---
+[Home](http://www.amoils.com/) | [Terms and Conditions](http://www.amoils.com/terms-and-conditions.html) | [Privacy Policy](http://www.amoils.com/privacy-policy.html) | [Contact Us](http://www.amoils.com/contact.html) | [Sitemap](http://www.amoils.com/amoils-sitemap.html) | [Become an Affiliate](http://www.amoils.com/affiliate.html)
+
+Healing Natural Oils 5195 Del Mar Mesa Rd San Diego, CA 92130 (858) 794-8474  
+© Copyright 2001 - 2014 Amoils.com All Rights Reserved 
+
+[Disclaimer](http://www.amoils.com/disclaimer.html) \- These products, the information and statements contained within this web site, including any links to external sites, are designed for educational purposes only and are not intended to replace medical advice. These statements have not been assessed by the FDA . Use as instructed and if your condition persists, consult your medical professional. 
