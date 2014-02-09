@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amarchitrakatha.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906081007id_/http%3A//www.amarchitrakatha.com/ack/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amarchitrakatha.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209180753id_/http%3A//www.amarchitrakatha.com/ack/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - ACK
 
