@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manuallinkbuilding.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229134508id_/http%3A//manuallinkbuilding.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manuallinkbuilding.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209011544id_/http%3A//manuallinkbuilding.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Link Building Services | SEO Outsourcing | Link Building Company | SEO Link Building
 
