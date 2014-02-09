@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the halobeauty.com privacy policy that was archived on 2013-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130606121014id_/http%3A//www.afterglowcosmetics.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the halobeauty.com privacy policy that was archived on 2014-02-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209061620id_/http%3A//afterglowcosmetics.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="../Templates/newindex_1.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -36,8 +36,70 @@ a:active {
 	font:12px/1.3em normal Arial, Helvetica, sans-serif;
 	color:#fff;
 }
+
+#jsddm {margin:0 0 0 7px; padding:0;}
+#jsddm li {float: left; background: -moz-linear-gradient(top,  #c5968d,  #672e23); list-style: none; font: 12px/1.2 Arial, Helvetica, sans-serif normal; font-weight:bold; border-bottom: 1px solid #605D5C; border-top: 1px solid #561D14;}
+#jsddm li {filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#c5968d', endColorstr='#672e23');}
+#jsddm li {background: -webkit-gradient(linear, left top, left bottom, from(#c5968d), to(#672e23));}
+#jsddm li a {display: block; padding: 4px 13px; text-decoration: none; border-right: 1px solid #9e6862; border-left: 1px solid #85514b; width:; color: #ffffff; white-space: nowrap}
+#jsddm li a:hover {background: #9e3823}
+#jsddm li ul {margin: 0; padding: 0; position: absolute; visibility: hidden; border-bottom: 1px solid #000000;}
+#jsddm li ul li {float: none; display: inline}
+#jsddm li ul li a {width: auto; background: #ffffff; color:#000; font-weight:normal; padding: 5px 40px 5px 20px;}
+#jsddm li ul li a:hover {background: #e1e1e1;}
+#jsddm li.checkout {float: left; background: -moz-linear-gradient(top, #9e5a4e, #4d1f16);}
+#jsddm li.checkout {filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#9e5a4e', endColorstr='#4d1f16');}
+#jsddm li.checkout {background: -webkit-gradient(linear, left top, left bottom, from(#9e5a4e), to(#4d1f16));}
+
+.wrapper1 {background-color: #FFFFFF; background-image: url("../images/bgrey.gif"); background-repeat: repeat-x; height: auto; margin: 0 auto; width: 990px;}
+.wrapper2 {background-color:#ffffff; background-repeat: repeat-x; float: left; height: auto; overflow: hidden; width: 100%; padding-bottom:20px;}
+
+#container {width: 946px; margin:; position: relative; margin-left:44px;}
+div#slideshow {width: 700px; height: 417px; padding: 0; background: ; overflow: scroll; /* Allows the slides to be viewed using scrollbar if Javascript isn't available */  position: relative; z-index: 1;}
+div#slideshow ul#nav {display: none; list-style: none; position: relative; top: 210px; z-index: 15;}
+div#slideshow ul#nav li#prev {float: left; margin: 0 0 0 -15px;}
+div#slideshow ul#nav li#next {float: right; margin: 0 -40px 0 0;}
+div#slideshow ul#nav li a {display: block; width: 80px; height: 80px; text-indent: -9999px;}
+div#slideshow ul#nav li#prev a {background: url(js/prev.png) no-repeat;}
+div#slideshow ul#nav li#next a {background: url(js/next.png) no-repeat;}
+div#slideshow ul#slides {list-style: none;}
+div#slideshow ul#slides li {margin: 0 0 20px 0;}
+
 -->
 </style>
+
+<script type="text/javascript" src="http://afterglowcosmetics.com/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://afterglowcosmetics.com/js/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="http://afterglowcosmetics.com/js/slideshow.js"></script>
+
+<script type="text/javascript">
+var timeout    = 500;
+var closetimer = 0;
+var ddmenuitem = 0;
+
+function jsddm_open()
+{  jsddm_canceltimer();
+   jsddm_close();
+   ddmenuitem = $(this).find('ul').css('visibility', 'visible');}
+
+function jsddm_close()
+{  if(ddmenuitem) ddmenuitem.css('visibility', 'hidden');}
+
+function jsddm_timer()
+{  closetimer = window.setTimeout(jsddm_close, timeout);}
+
+function jsddm_canceltimer()
+{  if(closetimer)
+   {  window.clearTimeout(closetimer);
+      closetimer = null;}}
+
+$(document).ready(function()
+{  $('#jsddm > li').bind('mouseover', jsddm_open)
+   $('#jsddm > li').bind('mouseout',  jsddm_timer)});
+
+document.onclick = jsddm_close;
+</script>
+
 <link href="../css/alltext.css" rel="stylesheet" type="text/css">
 <link href="../css/revamp.css" rel="stylesheet" type="text/css">
 </head>
@@ -49,30 +111,7 @@ a:active {
 <div class="top01"><a href="/"><img src="/images/header-1.png" border="0" longdesc="/"></a></div>
 <div class="top02">
 
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="225" height="118" id="FlashID2" title="Free Shipping">
-    <param name="movie" value="../flash/freeShipping3.swf">
-    <param name="quality" value="high">
-    <param name="wmode" value="opaque">
-    <param name="swfversion" value="6.0.65.0">
-    <!-- This param tag prompts users with Flash Player 6.0 r65 and higher to download the latest version of Flash Player. Delete it if you don’t want users to see the prompt. -->
-    <param name="expressinstall" value="../Scripts/expressInstall.swf">
-    <!-- Next object tag is for non-IE browsers. So hide it from IE using IECC. -->
-    <!--[if !IE]>-->
-    <object type="application/x-shockwave-flash" data="../flash/freeShipping3.swf" width="225" height="118">
-      <!--<![endif]-->
-      <param name="quality" value="high">
-      <param name="wmode" value="opaque">
-      <param name="swfversion" value="6.0.65.0">
-      <param name="expressinstall" value="../Scripts/expressInstall.swf">
-      <!-- The browser displays the following alternative content for users with Flash Player 6.0 and older. -->
-      <div>
-        <h4>Content on this page requires a newer version of Adobe Flash Player.</h4>
-        <p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player"></a></p>
-      </div>
-      <!--[if !IE]>-->
-    </object>
-    <!--<![endif]-->
-  </object>
+<a href="../Exuberance-Beauty-Skin-Care"><img src="../Exuberance-Beauty-Skin-Care/images/EC-AC_Promo_TopHDR.png" border="0"></a>
 
 </div>
 <div class="top03" style="padding-right:20px; width:310px; text-align:right;">
@@ -80,41 +119,33 @@ a:active {
 <strong>Have questions?</strong> <a href="../beauty_advisor/">E-mail us!</a><br>
 <strong>US orders</strong> 1.866.630.4569<br>
 <a href="http://afterglowcosmetics.com/stores/" style="font:12px/1.3em normal Arial, Helvetica, sans-serif;">Store Locator</a><br>
-<!-- BEGIN ProvideSupport.com Text Chat Link Code --></p><div id="ciEMXt"><img src="../images/icnChat.png" width="22" alt="Live Chat" style="float:left; margin-left:150px"></div><div id="scEMXt"></div><div id="sdEMXt"><script type="text/javascript" src="https://image.providesupport.com/js/afterglow/safe-textlink.js?ps_h=EMXt&amp;ps_t=1580369325130&amp;online-link-html=Chat%20Live%3A%20Online&amp;offline-link-html=Chat%20Live%3A%20Offline"></script></div><script type="text/javascript">var seEMXt=document.createElement("script");seEMXt.type="text/javascript";var seEMXts=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/afterglow/safe-textlink.js?ps_h=EMXt&ps_t="+new Date().getTime()+"&online-link-html=Chat%20Live%3A%20Online&offline-link-html=Chat%20Live%3A%20Offline";setTimeout("seEMXt.src=seEMXts;document.getElementById('sdEMXt').appendChild(seEMXt)",1)</script><noscript><div style="display:inline"> <a href="http://www.providesupport.com?messenger=afterglow" style="padding-right:20px;">Customer Service</a></div></noscript><!-- END ProvideSupport.com Text Chat Link Code -->
+<!-- BEGIN ProvideSupport.com Text Chat Link Code --></p><div id="ciEMXt"><img src="../images/icnChat.png" width="22" alt="Live Chat" style="float:left; margin-left:150px"></div><div id="scEMXt"></div><div id="sdEMXt"><script type="text/javascript" src="https://image.providesupport.com/js/afterglow/safe-textlink.js?ps_h=EMXt&amp;ps_t=1580369327768&amp;online-link-html=Chat%20Live%3A%20Online&amp;offline-link-html=Chat%20Live%3A%20Offline"></script></div><script type="text/javascript">var seEMXt=document.createElement("script");seEMXt.type="text/javascript";var seEMXts=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/afterglow/safe-textlink.js?ps_h=EMXt&ps_t="+new Date().getTime()+"&online-link-html=Chat%20Live%3A%20Online&offline-link-html=Chat%20Live%3A%20Offline";setTimeout("seEMXt.src=seEMXts;document.getElementById('sdEMXt').appendChild(seEMXt)",1)</script><noscript><div style="display:inline"> <a href="http://www.providesupport.com?messenger=afterglow" style="padding-right:20px;">Customer Service</a></div></noscript><!-- END ProvideSupport.com Text Chat Link Code -->
 <p></p>
 </div>
-<div class="topnavigation">
-<!-- Starts navigation -->
-<table width="965" border="0" align="center" cellpadding="0" cellspacing="0">
-<tbody><tr><td height="36">
-<div id="multi-level">
-<ul class="menu">
-	<li class="top p1"><a href="/about" id="n1" class="top_link"><span></span></a><!--[if IE 7]><!--><!--<![endif]-->
-		<!--[if lte IE 6]><table><tr><td><![endif]-->
-		<ul class="sub">
-			<li><a href="/about">About</a></li>        
-			<li><a href="/mission">Mission</a></li>
-			<li><a href="/history">History</a></li>
-			<li><a href="/founder">Founder</a></li>
-			</ul> 
-		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-	</li>
-	
-	<li class="top p2"><a href="/where_do_I_start" id="n2" class="top_link"><span></span></a><!--[if IE 7]><!--><!--<![endif]-->
-		<!--[if lte IE 6]><table><tr><td><![endif]-->
-		<ul class="sub">
-			<li><a href="/whats_the_difference">What's the Difference? </a></li>
-			<li><a href="/why_afterglow">Why Afterglow? </a></li>
-			<li><a href="/where_do_I_start">Where do I Start?</a></li>
-			<li><a href="/easy_returns">Guarantee</a></li>
-			</ul>
-		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-	</li>
-	
-	<li class="top p3"><a href="/all_products" id="n3" class="top_link"><span></span></a><!--[if IE 7]><!--><!--<![endif]-->
-		<!--[if lte IE 6]><table><tr><td><![endif]-->
-		<ul class="sub">
-        	<li><a href="../all_products">All Products</a></li>
+
+<div class="topnavigation" style="position:relative; z-index:2;">
+<!-- START Navigation -->
+<ul id="jsddm">
+    <li><a href="#">About</a>
+        <ul>
+            <li><a href="../about/">About</a></li>
+            <li><a href="../mission">Mission</a></li>
+            <li><a href="../history">History</a></li>
+            <li><a href="../founder">Founder</a></li>
+        </ul>
+    </li>
+    <li><a href="#">New to Minerals?</a>
+        <ul>
+            <li><a href="../whats_the_difference">What's the Difference? </a></li>
+			<li><a href="../why_afterglow">Why Afterglow? </a></li>
+			<li><a href="../where_do_I_start">Where do I Start?</a></li>
+			<li><a href="../easy_returns">Guarantee</a></li>
+        </ul>
+    </li>
+    <li><a href="#">Products</a>
+        <ul>
+            <li><a href="../all_products">All Products</a></li>
+            <li><a href="../Exuberance-Beauty-Skin-Care">Shop Skin Care</a></li>
 			<li><a href="../Afterglow-Best-Sellers">Bestsellers</a></li>
     		<li><a href="../face">Face</a></li>
     		<li><a href="../eyes">Eyes</a></li>
@@ -125,103 +156,73 @@ a:active {
     		<li><a href="../collections/multitasking-items.html">Multi-Taskers</a></li>
     		<li><a href="../gift_ideas">eGift Certificates</a></li>
             <li><a href="../all_products/sale.html">Ciao Bella - SALE</a></li>
-			</ul>
-		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-	</li>
-	
-	<li class="top p4"><a href="/new_products" id="n4" class="top_link"><span></span></a>
-	      <!--[if IE 7]><!-->
-	  
-	    <!--<![endif]-->
-        <!--[if lte IE 6]><table><tr><td><![endif]-->
-        <ul class="sub">
-          <li><a href="/new_products">New Products </a></li>
-          <li><a href="/news_events">News and Events </a></li>
         </ul>
-	  <!--[if lte IE 6]></td></tr></table></a><![endif]-->
     </li>
-	<li class="top p5"><a href="/beauty_advisor" id="n5" class="top_link"><span></span></a><!--[if IE 7]><!--><!--<![endif]-->
-		<!--[if lte IE 6]><table><tr><td><![endif]-->
-		<ul class="sub">
-			<li><a href="/faq">FAQ </a></li>
-			<li><a href="/tips_tricks">Tips and Tricks </a></li>
-			<li><a href="/sensitive_skin">Sensitive Skin </a></li>
-            <li><a href="/beauty_advisor">Ask an Advisor </a></li>
-            <li><a href="/color_profiles">Color Profiles </a></li>	
-            <li><a href="/shade_translations">Shade Translations </a></li>
-			<li><a href="/gift_ideas">Gift Ideas </a></li>
-            <li><a href="/recycle">Recycle </a></li>            
-
-		</ul>
-		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-	</li>
-	
-	<li class="top p6"><a href="/ingredients" id="n6" class="top_link"><span></span></a><!--[if IE 7]><!--><!--<![endif]-->
-		<!--[if lte IE 6]><table><tr><td><![endif]-->
-		<ul class="sub">
-			<li><a href="/ingredients">Ingredients </a></li>
-			<li><a href="/ingredient_glossary">Glossary </a></li>
-			<li><a href="/truth">Truth </a></li>
-            <li><a href="/sensitive_skin">Sensitive Skin </a></li>
-            <li><a href="/paraben_free_cosmetics">Paraben Free</a></li>
-            <li><a href="/gluten_free_cosmetics">Gluten Free</a></li>
-            <li><a href="/fragrance_free_cosmetics">Fragrance Free</a></li>
-            <li><a href="/bismuth_oxychloride">Bismuth Oxychloride</a></li>
-			<li><a href="http://organicallybeautifullife.com/" target="_blank">Blog </a></li>
-		</ul>
-		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-	</li>
-	
-	<li class="top p7"><a href="/testimonials" id="n7" class="top_link"><span></span></a><!--[if IE 7]><!--><!--<![endif]-->
-		<!--[if lte IE 6]><table><tr><td><![endif]-->
-		<ul class="sub">
-			<li><a href="/testimonials">Testimonials </a></li>
-			<li><a href="/press">Press </a></li>
-		</ul>
-		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-	</li>
-	
-	<li class="top p8"><a href="/tell_a_friend" id="n8" class="top_link"><span></span></a>
-	<!--[if IE 7]><!--><!--<![endif]-->
-		<!--[if lte IE 6]><table><tr><td><![endif]-->
-		<ul class="sub">
-			<li><a href="../contact/afterglow-referral-program.html">Referral Program</a></li>
-		</ul>
-		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-
-	</li> 
-	
-	<li class="top p9"><a href="/charity" id="n9" class="top_link"><span></span></a>
-	</li>
-	
-	<li class="top p10"><a href="/contact" id="n10" class="top_link"><span></span></a><!--[if IE 7]><!--><!--<![endif]-->
-		<!--[if lte IE 6]><table><tr><td><![endif]-->
-		<ul class="sub">
-			<li><a href="/policies">Store Policies </a></li>
-			<li><a href="/shipping">Shipping </a></li>
+    <li><a href="#">What's New?</a>
+    	<ul>
+        	<li><a href="../new_products">New Products </a></li>
+			<li><a href="../news_events">News and Events </a></li>
+        </ul>
+    </li>
+    <li><a href="#">Advise</a>
+	    <ul>
+            <li><a href="../faq">FAQ </a></li>
+			<li><a href="../tips_tricks">Tips and Tricks </a></li>
+			<li><a href="../sensitive_skin">Sensitive Skin </a></li>
+            <li><a href="../beauty_advisor">Ask an Advisor </a></li>
+            <li><a href="../color_profiles">Color Profiles </a></li>	
+            <li><a href="../shade_translations">Shade Translations </a></li>
+			<li><a href="../gift_ideas">Gift Ideas </a></li>
+            <li><a href="../recycle">Recycle </a></li>
+        </ul>
+    </li>
+    <li><a href="#">Resources</a>
+    	<ul>
+            <li><a href="../ingredients">Ingredients </a></li>
+			<li><a href="../ingredient_glossary">Glossary </a></li>
+			<li><a href="../truth">Truth </a></li>
+            <li><a href="../sensitive_skin">Sensitive Skin </a></li>
+            <li><a href="../paraben_free_cosmetics">Paraben Free</a></li>
+            <li><a href="../gluten_free_cosmetics">Gluten Free</a></li>
+            <li><a href="../fragrance_free_cosmetics">Fragrance Free</a></li>
+            <li><a href="../bismuth_oxychloride">Bismuth Oxychloride</a></li>
+			<li><a href="http://blog.afterglowcosmetics.com/" target="_blank">Blog </a></li>
+        </ul>
+    </li>
+    <li><a href="#">Praise</a>
+    	<ul>
+            <li><a href="../testimonials">Testimonials </a></li>
+			<li><a href="../press">Press </a></li>
+        </ul>
+    </li>
+    <li><a href="#">Tell a Friend</a>
+    	<ul>
+            <li><a href="../contact/afterglow-referral-program.html">Referral Program</a></li>
+        </ul>
+    </li>
+    <li><a href="../charity">Charity</a></li>
+    <li><a href="#">Customer Service</a>
+    	<ul>
+            <li><a href="../policies">Store Policies </a></li>
+			<li><a href="../shipping">Shipping </a></li>
             <li><a href="../shipping/international.html">International Shipping Policies</a></li>
-            <li><a href="/easy_returns">Easy Returns</a></li>
-			<li><a href="/contact">Contact Us</a></li>
-            <li><a href="/stores">Store Locator</a></li>
-            <li><a href="/wholesale">Wholesale</a></li>
-            <li><a href="/affiliate">Affiliate Program</a></li>
-            <li><a href="/Organic-Exclusives-Program">Organic Exclusives Program</a></li>
-
-		</ul>
-		<!--[if lte IE 6]></td></tr></table></a><![endif]--> 
-	</li>
-	
-	<li class="top p11"><a href="http://store1.afterglowcosmetics.com/shoppingcart.asp" id="n11" class="top_link"></a><!--[if IE 7]><!--><!--<![endif]-->
-	</li>
+            <li><a href="../easy_returns">Easy Returns</a></li>
+			<li><a href="../contact">Contact Us</a></li>
+            <li><a href="../stores">Store Locator</a></li>
+            <li><a href="../wholesale">Wholesale</a></li>
+            <li><a href="../affiliate">Affiliate Program</a></li>
+            <li><a href="../Organic-Exclusives-Program">Organic Exclusives Program</a></li>
+        </ul>
+    </li>
+    <li class="checkout"><a href="http://store1.afterglowcosmetics.com/shoppingcart.asp">Checkout</a></li>
 </ul>
+<!-- END Navigation -->
 </div>
-</td></tr></tbody></table>
-</div>
-<!-- Navigation Closed -->
+
 <!-- Starts Contanor 100% -->
 <div class="container100">
 <!-- InstanceBeginEditable name="EditRegion1" -->
-<div class="info01" style="padding-top:25px; height:25px;"></div>
+<div class="info01" style="padding-top:10px; height:10px;"></div>
 <div class="info04" id="all">
 
 <table width="875" border="0">
@@ -277,9 +278,14 @@ if (document.all && typeof(hcShowTheImage) != 'undefined') {lpOldShowTheImage = 
 
 <!-- BEGIN Google Analytics  -->
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4558768-1']);
+  _gaq.push(['_setDomainName', 'afterglowcosmetics.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('scricript>
 <script type="text/javascript">
 var pageTracker = _gat._getTracker("UA-4558768-1");
 pageTracker._initData();
@@ -297,9 +303,14 @@ pageTracker._trackPageview();
 
 <!-- BEGIN Google Analytics  -->
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4558768-1']);
+  _gaq.push(['_setDomainName', 'afterglowcosmetics.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('scricript>
 <script type="text/javascript">
 var pageTracker = _gat._getTracker("UA-4558768-1");
 pageTracker._initData();
