@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pac-12.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020153517id_/http%3A//static.pac-12.com/Images/general/pdfs/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pac-12.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209042719id_/http%3A//static.pac-12.com/Images/general/pdfs/privacy.pdf) for the most accurate reproduction.*
 
-# 
+# •
 
 Privacy Policy
 Effective Date: May 18, 2012
@@ -50,8 +50,6 @@ We may collect the following information directly from you:
      •    Usage, viewing and technical data, including your device identifier or IP address, when you visit our Sites,
           use our Applications on third-party sites or platforms or open emails we send.
 User Generated Content
-C:\Documents and Settings\rf31889\My Documents\Working Files\PAC 12\Policies\Website\Privacy Policy\PAC12 Privacy Policy (Draft
-051812).doc
 
 
 Any information that you post to our Sites or Applications may be viewable by other users, as well as visitors to our
@@ -94,10 +92,10 @@ We use the information that we gather about you for the following purposes:
 3.         Sharing Your Information
 We may share your information, including personally identifiable information, with other users and affiliated and non-
 affiliated third parties as described in this section.
-•     We may disclose the information we collect from you to the Pac-12 Family of Entities and our affiliates and
+      •    We may disclose the information we collect from you to the Pac-12 Family of Entities and our affiliates and
       subsidiaries to assist us in providing our services to you and for marketing products and services that we believe
       would be of interest to you.
-•     We may disclose the information that we collect about you to non-affiliated third parties, such as promotional
+      • We may disclose the information that we collect about you to non-affiliated third parties, such as promotional
       partners, third party sites or platforms and others with whom we have marketing or other relationships. Those
       third parties may use your information for marketing purposes, such as to market products and services that they
       believe would be of interest to you. We also may combine the information that we collect about you with other
@@ -107,28 +105,28 @@ affiliated third parties as described in this section.
 
      respond to your choices. (*Please note that once we share your personal information with another company, the
      information received by the other company becomes subject to the other company's privacy practices).
-•    We may disclose the information that we collect about you when we cooperate with financial institutions to offer
-     co-branded products or services to you, such as our co-branded products or services; however, we will do so
-     only if permitted by applicable law and, in these cases, the financial institutions are prohibited from using your
+     • We may disclose the information that we collect about you when we cooperate with financial institutions to
+     offer co-branded products or services to you, such as our co-branded products or services; however, we will do
+     so only if permitted by applicable law and, in these cases, the financial institutions are prohibited from using your
      personal information for purposes other than those related to the co-branded products or services.
-•    We may disclose the information we collect from you to third party vendors, service providers, contractors or
+     • We may disclose the information we collect from you to third party vendors, service providers, contractors or
      agents who perform functions on our behalf. For example, these providers may help us administer our Sites.
-•    We may disclose the information we collect from you in connection with the sale of a business, if we are acquired
-     by or merged with another company, if substantially all of our assets are transferred to another company, or as
-     part of a bankruptcy proceeding, we may transfer the information we have collected from you to the acquiring
-     company.
-•    We may disclose the information we collect from you where we believe it is necessary to investigate, prevent or
-     take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any
-     person or violations of our Terms and Conditions or this Policy.
-•    We may disclose the information we collect from you to enforce our Terms of Use or rules, to protect our rights
-     and property and the rights and property of our guests and third parties, or in other cases if we believe in good
-     faith that disclosure is required by law.
-•    We may disclose the information we collect from you in order to comply with the law, a judicial proceeding, court
-     order or other legal process, such as in response to a subpoena.
-•    We may share aggregate or anonymized information about users with third parties for marketing, advertising,
-     research or similar purposes. For example, if we display advertisements on behalf of a third party, we may share
-     aggregate, demographic information with that third party about the users to whom we displayed the
-     advertisements.
+     • We may disclose the information we collect from you in connection with the sale of a business, if we are
+     acquired by or merged with another company, if substantially all of our assets are transferred to another
+     company, or as part of a bankruptcy proceeding, we may transfer the information we have collected from you to
+     the acquiring company.
+     • We may disclose the information we collect from you where we believe it is necessary to investigate, prevent
+     or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of
+     any person or violations of our Terms and Conditions or this Policy.
+     • We may disclose the information we collect from you to enforce our Terms of Use or rules, to protect our
+     rights and property and the rights and property of our guests and third parties, or in other cases if we believe in
+     good faith that disclosure is required by law.
+     • We may disclose the information we collect from you in order to comply with the law, a judicial proceeding,
+     court order or other legal process, such as in response to a subpoena.
+     • We may share aggregate or anonymized information about users with third parties for marketing,
+     advertising, research or similar purposes. For example, if we display advertisements on behalf of a third party,
+     we may share aggregate, demographic information with that third party about the users to whom we displayed
+     the advertisements.
 4.        Your Controls and Choices
 We provide you the ability to exercise certain controls and choices regarding our collection, use and sharing of your
 information. In accordance with local law, your controls and choices may include:
@@ -143,11 +141,11 @@ information. In accordance with local law, your controls and choices may include
      •    You may request access to the personal information we hold about you and that we amend or delete it and
           we request third parties with whom we have shared the information do the same.
 You may exercise your controls and choices, or request access to your personal information, by visiting
-Communication Choices, contacting Nic Lloyd, Product Manager, Web and Social at the information provided below,
-or following instructions provided in communications sent to you. Please be aware that, if you do not allow us to
-collect personal information from you, we may not be able to deliver certain products and services to you, and some
-of our services may not be able to take account of your interests and preferences. If you have questions regarding
-the specific personal information about you that we process or retain, please contact us.
+Communication Choices, us at the information provided below, or following instructions provided in communications
+sent to you. Please be aware that, if you do not allow us to collect personal information from you, we may not be able
+to deliver certain products and services to you, and some of our services may not be able to take account of your
+interests and preferences. If you have questions regarding the specific personal information about you that we
+process or retain, please contact us.
 5.        What About Cookies and Other Tracking Technologies?
 When you interact with the Sites and Applications, we strive to make your experience easy and meaningful. We or
 our third party service providers use cookies, web beacons (including clear GIFs), Flash LSOs, and similar
@@ -274,16 +272,18 @@ the third parties' direct marketing purposes. With respect to these entities, th
 within the State of California. To make such a request, please send an email to privacy@pac-12.org
 CA Privacy Rights
 PAC-12 Enterprises
-Nic Lloyd, Product Manager, Web and Social
-1350 Treat Boulevard, Suite 100
-Walnut Creek, CA 94597
+ATTN: Legal Department
+                 rd
+360 Third St., 3 Floor
+San Francisco, CA 94107
 privacy@pac-12.org
 In your request, please specify the member of The PAC-12 Family of Entities to which your request pertains. If no
 member is specified, we will treat your request as pertaining to PAC-12 Enterprises.
 12.       Comments and Questions
 If you have a comment or question about this privacy policy, please contact us at:
-Nic Lloyd
- Product Manager, Web and Social
-1350 Treat Boulevard, Suite 100
-Walnut Creek, CA 94597
-Privacy@pac-12.org
+PAC-12 Enterprises
+ATTN: Legal Department
+                 rd
+360 Third St., 3 Floor
+San Francisco, CA 94107
+privacy@pac-12.org
