@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponcode.com privacy policy that was archived on 2013-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130904193702id_/http%3A//couponcode.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponcode.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209055410id_/http%3A//couponcode.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -59,9 +59,9 @@ LDSM staff and volunteers having access to personal data are required to respect
 
 **Privacy Questions**
 
-If you are aware of any inaccuracy or changes in the personal information which we hold about you, please [contact](https://web.archive.org/web/20130904193702id_/http%3A//couponcode.com/contact031511.cfm) an LDSM staff.
+If you are aware of any inaccuracy or changes in the personal information which we hold about you, please [contact](https://web.archive.org/web/20140209055410id_/http%3A//couponcode.com/contact031511.cfm) an LDSM staff.
 
-If you have a complaint or concern about LDSM's information handling practices, we encourage you to talk to us. You can [contact](https://web.archive.org/web/20130904193702id_/http%3A//couponcode.com/contact031511.cfm) LDSM's Chief Privacy Officer . You will be asked to provide the following information in writing:
+If you have a complaint or concern about LDSM's information handling practices, we encourage you to talk to us. You can [contact](https://web.archive.org/web/20140209055410id_/http%3A//couponcode.com/contact031511.cfm) LDSM's Chief Privacy Officer . You will be asked to provide the following information in writing:
 
 Your name, address or fax number where you prefer to be reached;
 
@@ -75,4 +75,4 @@ LDSM will investigate and assist with resolving your concern.
 
 LDSM regularly reviews its policies and procedures to ensure we remain current with changing laws and evolving public expectations.
 
-LDS Marketing welcomes comments and questions on this policy. Due to the evolving nature of the technologies we use to communicate with you, we may occasionally update this policy. Notice of any revisions will be posted to this site. Any comments or questions regarding our privacy practices, please [contact us](https://web.archive.org/web/20130904193702id_/http%3A//couponcode.com/contact031511.cfm).
+LDS Marketing welcomes comments and questions on this policy. Due to the evolving nature of the technologies we use to communicate with you, we may occasionally update this policy. Notice of any revisions will be posted to this site. Any comments or questions regarding our privacy practices, please [contact us](https://web.archive.org/web/20140209055410id_/http%3A//couponcode.com/contact031511.cfm).
