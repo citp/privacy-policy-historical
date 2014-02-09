@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amygrindhouse.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807051113id_/http%3A//amygrindhouse.com/terms-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amygrindhouse.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209064202id_/http%3A//amygrindhouse.com/terms-legal) for the most accurate reproduction.*
 
 # Terms & Legal
 
