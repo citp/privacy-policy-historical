@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buildingachickencoop.com privacy policy that was archived on 2013-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130802044333id_/http%3A//www.buildingachickencoop.com/private.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildingachickencoop.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209075034id_/http%3A//www.buildingachickencoop.com/private.html) for the most accurate reproduction.*
 
 # Privacy Policy | Building A Chicken Coop
 
@@ -24,4 +24,4 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 **How To Contact Us:**
 
-Should you have other questions or concerns about these privacy policies, please send us an email at bill@buildingachickencoop.com
+Should you have other questions or concerns about these privacy policies, please send us an email at buildchickcoop@gmail.com
