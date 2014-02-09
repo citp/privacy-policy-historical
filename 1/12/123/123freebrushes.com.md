@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123freebrushes.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831001959id_/http%3A//123freebrushes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123freebrushes.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209220734id_/http%3A//123freebrushes.com/privacy-policy) for the most accurate reproduction.*
 
 # | Free Photoshop Brushes Downloads | 123FreeBrushes
 
