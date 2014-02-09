@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atcomaart.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809050034id_/http%3A//www.atcomaart.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atcomaart.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209231005id_/http%3A//www.atcomaart.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -87,7 +87,7 @@ This website may be linked to other sites that are not owned, maintained or oper
 
 To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. We safeguard personal information, during electronic transfer from forms to our database, using encryption, security standards and procedures. We constantly review and if found beneficial, use new technology for protecting customer information on a regular basis. 
 
-If you have any questions regarding privacy policy or your dealings with the website, or due to any reasons, you want to change or delete your personal information, provided already, please contact at [webmaster@atcomaart.com](mailto:webmaster@atcomaart.com)
+If you have any questions regarding privacy policy or your dealings with the website, or due to any reasons, you want to change or delete your personal information, provided already, please contact at [contact@atcomaart.com](mailto:contact@atcomaart.com)
 
 **BY USING THIS WEBSITE, YOU SIGNIFY YOUR ACCEPTANCE OF OUR PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE DO NOT USE THIS WEBSITE.  
 WE RESERVE THE RIGHT, AT OUR SOLE DISCRETION, TO CHANGE, MODIFY, ADD OR REMOVE PORTIONS FROM THIS PRIVACY POLICY AT ANY TIME. YOUR CONTINUED USE OF WEBSITE FOLLOWING THE POSTING OF CHANGES TO THESE TERMS MEANS YOU ACCEPT THESE CHANGES. **  
