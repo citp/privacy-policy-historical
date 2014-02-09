@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadbolt.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006033218id_/http%3A//www.leadbolt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadbolt.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209141153id_/http%3A//www.leadbolt.com/privacy.php) for the most accurate reproduction.*
 
 # LeadBolt Privacy | LeadBolt
 
@@ -25,8 +25,6 @@ Information we get from your use of our services: in order to effectively run ou
 Device information: including Device ID, e.g. Android ID or IDFA, other device specific information like, IMEI or MEID, manufacture make & model of device, operating system & version, carrier, and other mobile network information.
 
 Other information: When you use our services, we may automatically collect and store certain information in server files. This may include details of how you used our service, location, ISP, carrier and device information, IP address, event information such as crashes, system activity, hardware settings, browser information, the date and time of your request and referral applications. 
-
-Additionally, if you are using our Offerlux service, we may collect and store information relating to your user ID or sub ID disclosed to us by the App developer to enable the App developer to recognise event completions or for reward recognition.
 
 ### How we deal with personal information
 
@@ -86,4 +84,8 @@ email: mobile.privacy@leadbolt.com
 
 We do not knowingly collect personal information from children under 13. If we learn that we have collected the personal information of a child under 13 we will take steps to delete the information as soon as possible.
 
-We reserve the right to amend this policy at any time. The policy, as modified, shall appear on our mobile website; http://www.leadbolt.com/privacy 
+#### NAI Opt-out
+
+You may opt-out from receiving Interest-Based Advertising from some or all of the Network Advertising Initiative's ("NAI") participating companies via the NAI opt-out page accessible on its website at www.networkadvertising.org.
+
+We reserve the right to amend this policy at any time. The policy, as modified, shall appear on our mobile website; http://www.leadbolt.com/privacy.php 
