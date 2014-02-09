@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explorable.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231070629id_/http%3A//explorable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorable.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209025501id_/http%3A//explorable.com/privacy-policy) for the most accurate reproduction.*
 
 # Terms and Privacy Policy
 
