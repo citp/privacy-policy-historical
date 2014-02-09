@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the extraplay.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115022002id_/http%3A//www.extraplay.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extraplay.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209032042id_/http%3A//www.extraplay.com/privacy-policy.php) for the most accurate reproduction.*
 
 # extraplay - Privacy Policy
 
 **Notice:** We may need to collect and store your name, address, and other basic Personally-Identifiable Information, for example, to provide you with the services you request.
 
 **Security:** We will maintain appropriate safeguards to ensure the security, integrity and privacy of your Personally-Identifiable Information.
-
-extraplay will not sell personal data in any form, including mailing lists. All data is for internal use only:
 
 extraplay will continue to oversee implementation of and compliance with our Policy and will adapt the Policy to reflect changes in technology and the expectations of everyone we deal with. To ensure that we are following our stated Policy, we also conduct periodic and random audits of our systems.
 
