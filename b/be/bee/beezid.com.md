@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the beezid.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806212443id_/http%3A//www.beezid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beezid.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209104758id_/http%3A//www.beezid.com/privacy) for the most accurate reproduction.*
 
 # Privacy
-
-[ ](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.beezid.com/seal_m "Validate TRUSTe privacy certification") [TRUSTe Validation](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.beezid.com/seal_m "Validate TRUSTe privacy certification")
-
-The TRUSTe seal indicates that Beezid.com complies with the world's largest privacy seal program, certifying more than 3,500 websites.
-
-Beezid Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at Beezid Customer Support [support@beezid.com](mailto:support@beezid.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this Web site.
 
 ### » Scope
 
