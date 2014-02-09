@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equileaseone.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201095312id_/http%3A//equileaseone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equileaseone.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209221707id_/http%3A//equileaseone.com/privacy-policy) for the most accurate reproduction.*
 
 # | Unique Project Financing|Equipment Leasing|Commercial Loans|Business Financing|Home Loans| 303-521-7622
 
