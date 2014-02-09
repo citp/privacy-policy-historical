@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelstart.co.za privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829155006id_/http%3A//www.travelstart.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelstart.co.za privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209161345id_/http%3A//www3.travelstart.co.za/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Travelstart South Africa
 
@@ -70,7 +70,7 @@ By disclosing your Personal Data to Travelstart using the Sites or via email or 
 
 ### Opt-Out Policy
 
-Travelstart’s newsletter subscribers have the option to opt-out of receiving further information from Travelstart. Send an email to [newsletter@travelstart.com](mailto:newsletter@travelstart.com) to unsubscribe. The client may also contact us to unsubscribe to any of our marketing material.
+Travelstart’s newsletter subscribers have the option to opt-out of receiving further information from Travelstart. There is an "unsubscribe" link in the footer of each email you receive.  Alternatively, send an email to [newsletter@travelstart.com](mailto:newsletter@travelstart.com) to unsubscribe. The client may also contact us to unsubscribe to any of our marketing material.
 
 ### Change/ Modification of E-mail Details
 
@@ -81,3 +81,5 @@ If you need to modify or change your Personal Data after you have made a purchas
 ### Contact
 
 If you have any questions or concerns about the information Travelstart holds about you, please do not hesitate to contact Travelstart on the relevant contact details set out on the [Contact Us](https://web.archive.org/contact-us) pages on the Sites.
+
+Travelstart address: 7th Floor, 56 Shortmarket & Long Street, Cape Town, 8000, South Africa. Tel: 0861 878 278 (International: +27 21 468 4300)
