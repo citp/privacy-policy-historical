@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gluecklicher-tag.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620194442id_/http%3A//www.lucky-day-uk.com/pages/UK/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gluecklicher-tag.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209014034id_/http%3A//www.lucky-day-uk.com/pages/UK/privacy.html) for the most accurate reproduction.*
 
 # DVX Interactive: Privacy Policy
 
@@ -95,4 +95,4 @@ Atlanta, GA 30324 USA
 
 If you do not feel as though your complaint has been satisfactorily addressed, disputes shall be resolved using the American Arbitration Association (www.adr.org.)
 
-© DVX LLC 2013
+© DVX LLC 2014
