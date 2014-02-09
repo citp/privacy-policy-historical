@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ottawasun.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206010020id_/http%3A//www.ottawasun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ottawasun.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209034448id_/http%3A//www.ottawasun.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Ottawa Sun
 
@@ -67,6 +67,12 @@ While the information cannot be used to identify a visitor, cookies provide impo
 **In conclusion…**
 
 We hope that this information has provided you with a better understanding of our strict privacy protection policies. Please note that the Ottawa Sun reserves the right to modify these policies at any time. Thus, we invite you to periodically consult this section for possible updates and changes. 
+
+If you have any questions or concerns about our privacy practices, you may call 416-947-3100 or contact us in writing at the following address: 
+
+Sun Media Privacy Officer  
+333 King Street East  
+Toronto ON M5A 3X5
 
 The Ottawa Sun respects the confidentiality of the personal information of its subscribers, readers, advertisers and those who enter our contests and promotions. As part of our commitment to you, we want to clarify the details of our privacy policy concerning the personal information that we collect. 
 
