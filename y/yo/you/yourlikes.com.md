@@ -1,41 +1,47 @@
-> *The following text is extracted and transformed from the yourlikes.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621062656id_/http%3A//mylikes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourlikes.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209030402id_/http%3A//yourlikes.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - MyLikes
+# Likes.com
 
-MyLikes takes your privacy seriously. Please read the following to learn more about our privacy policy. The federal government and technology industry have developed practical tips to help you guard against Internet fraud, secure your computer and protect your personal information.
+We take your privacy very seriously. 
 
-### INFORMATION AND COLLECTION OF USE
+##  Introduction 
 
-MyLikes collects personal information when you register with MyLikes, when you visit MyLikes pages. MyLikes may combine information about you that we have with information we obtain from business partners or other companies. When you register we ask for information such as your name and email address. When you register with MyLikes and sign in to our services, you are not anonymous to us. MyLikes automatically receives and records information from your computer and browser, including your IP address, MyLikes cookie information, software and hardware attributes, and the page you request. MyLikes uses information for the following general purposes: to customize the content you see, fulfill your requests for products and services, improve our services, contact you, and conduct research. You may set up a profile on MyLikes.
+yourlikes.com (“YourLikes”) takes the private nature of your personal information very seriously. 
 
-### INFORMATION SHARING
+This privacy policy describes how we treat the information we collect when you visit and use our websites. Please read this notice very carefully. 
 
-MyLikes does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or when we respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. If MyLikes becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
+##  Website Visitors 
 
-### COOKIES
+Like most website operators, YourLikes collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. YourLikes’s purpose in collecting non-personally identifying information is to better understand how YourLikes’s visitors use its website. From time to time, YourLikes may release non-personally-identifying information in the aggregate, e.g. by publishing a report on trends in the usage of its website. 
 
-MyLikes may set and access MyLikes cookies on your computer. MyLikes uses these cookies in connection with MyLikes products and services.
+YourLikes also collects potentially personally-identifying information like Internet Protocol (IP) addresses. YourLikes does not use such information to identify its visitors, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below. 
 
-### NON-PERSONALLY IDENTIFYING INFORMATION
+##  Aggregated Statistics 
 
-This is information that is commonly made available by web browsers and servers, such as the browser type, language preference, referring site, and the date and time of each visitor request. MyLikes uses this information to understand how visitors use our website.
+YourLikes may collect statistics about the behavior of visitors to its websites. For instance, YourLikes may monitor the most popular collections on yourlikes.com. YourLikes may display this information publicly or provide it to others. However, YourLikes does not disclose personally-identifying information other than as described below. 
 
-### CONTENTS OF ITEMS
+##  Protection of Certain Personally-Identifying Information 
 
-The contents of any item that you post directly to the Site, including any text, images, photos, videos and audio, are stored and maintained on our servers in order to publish these items and provide the Service. Your submitted content will be associated with your account.
+YourLikes discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on YourLikes’s behalf or to provide services available at YourLikes’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using YourLikes’s websites, you consent to the transfer of such information to them. In addition, in some cases we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if YourLikes or substantially all of its assets were acquired, or in the unlikely event that YourLikes goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of YourLikes may continue to use your personal and non-personal information only as set forth in this policy. Otherwise, YourLikes will not rent or sell potentially personally-identifying and personally-identifying information to anyone. 
 
-### CONFIDENTIALITY AND SECURITY
+Other than to its employees, contractors and affiliated organizations, as described above, YourLikes discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when YourLikes believes in good faith that disclosure is reasonably necessary to protect the property or rights of YourLikes, third parties or the public at large. If you are a registered user of a YourLikes website and have supplied your email address, YourLikes may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with YourLikes and its products. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. YourLikes takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information. 
 
-We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+##  Cookies 
 
-### THIRD PARTY SITES
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. YourLikes uses cookies to help YourLikes identify and track visitors, their usage of YourLikes websites, and their website access preferences. YourLikes visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using YourLikes’s websites, with the drawback that certain features of YourLikes’s websites may not function properly without the aid of cookies. 
 
-This Policy only applies to the MyLikes website and services. We do not exercise control over the sites that our service links to. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. We encourage you to read such privacy policies of any third-party sites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your personally-identifying information, and MyLikes shall not be liable for wrongful use or disclosure of your personally-identifying information by any third party.
+##  Ads 
 
-### DATA INTEGRITY
+Ads appearing on any YourLikes websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy covers the use of cookies by YourLikes and does not cover the use of cookies by any advertisers. 
 
-MyLikes processes personal information only for the purposes for which it was collected and in accordance with this Policy. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+##  Links to Third Party Sites 
 
-### CHANGES TO THIS PRIVACY POLICY
+This privacy policy only applies to information collected by YourLikes. This privacy policy does not apply to the practices of companies that YourLikes does not own or control, or employees that YourLikes does not manage. A YourLikes website may contain links to third party websites. Any information you provide to, or that is collected by, third-party sites may be subject to the privacy policies of those sites, if any. We encourage you to read such privacy policies of any third-party sites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your personally-identifying information, and YourLikes and its affiliates shall not be liable for wrongful use or disclosure of your personally-identifying information by any third party. 
 
-MyLikes may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your MyLikes account or by placing a prominent notice on our site.
+##  Privacy Policy Changes 
+
+Although most changes are likely to be minor, YourLikes may change its privacy policy from time to time, and in YourLikes’s sole discretion. YourLikes encourages visitors to frequently check this page for any changes to its privacy policy. Your continued use of this site after any change in this privacy policy will constitute your acceptance of such change. 
+
+##  Contact Us 
+
+If you have any questions about this privacy policy or our sites in general, please contact us at help@mylikes.com. 
