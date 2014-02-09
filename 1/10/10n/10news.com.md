@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the 10news.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015000755id_/http%3A//www.10news.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10news.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209215433id_/http%3A//www.10news.com/about/privacy-policy) for the most accurate reproduction.*
 
 # 10News - Privacy Policy - About Story
 
 PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 21, 2013.
 
-If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, you can contact us via e-mail to our Webmaster (kgtv_web@10news.com) , or you can also write us at:   
-KGTV (ABC10)   
-Channel 10   
-4600 Air Way   
+If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, you can contact us via e-mail to our Webmaster (kgtv_web@10news.com) , or you can also write us at:  
+KGTV (ABC10)  
+Channel 10  
+4600 Air Way  
 San Diego, CA 92102
 
 PRIVACY POLICY
@@ -30,9 +30,7 @@ Our Website typically collects two kinds of information about you: (a) informati
 
 B. HOW WE USE & SHARE THE INFORMATION COLLECTED
 
-(1) Personally Identifiable Information: The personally identifiable information you submit to us is generally used to
-
-carry out your requests, respond to your inquiries, better serve you, or in other ways naturally associated with the circumstances in which you provided the information. We may also use this information to later contact you for a variety of reasons, such as customer service, providing you promotional information for our products or those of our parent company, subsidiaries or other affiliated companies (“"affiliated companies”"), or to communicate with you about content or other information you have posted or shared with us via our Website. You may opt-out from receiving future promotional information from us or our affiliated companies, or direct that we not share your information with any affiliated companies, as set forth below.
+(1) Personally Identifiable Information: The personally identifiable information you submit to us is generally used to carry out your requests, respond to your inquiries, better serve you, or in other ways naturally associated with the circumstances in which you provided the information. We may also use this information to later contact you for a variety of reasons, such as customer service, providing you promotional information for our products or those of our parent company, subsidiaries or other affiliated companies (“"affiliated companies”"), or to communicate with you about content or other information you have posted or shared with us via our Website. You may opt-out from receiving future promotional information from us or our affiliated companies, or direct that we not share your information with any affiliated companies, as set forth below.
 
 In certain instances we may also share your personally identifiable information with our third party vendors performing functions on our behalf (or on behalf of our affiliated companies) – e.g., vendors that process credit card orders, deliver our merchandise, administer our promotions, provide us marketing or promotional assistance, analyze our data, assist us with customer service, etc. Our vendors agree to use this information, and we share information with them, only to carry out our requests. In addition, we may share your personally identifiable information with participating sponsors to a program or promotion (e.g., a sweepstakes or contest) you enter via our Website, and with third parties who assist us in using the content or other information you have posted or shared with us via our Website (e.g., production companies we may use). Further, we may share your personally identifiable information with third parties such as our co-promotional partners and others with whom we have marketing or other relationships. Except as provided in this Privacy Policy, our Terms of Use, or as set forth when you submit the information, your personally identifiable information will not be shared or sold to any third parties without your prior approval.
 
@@ -46,9 +44,7 @@ Examples of the information we collect and analyze in this manner include the In
 
 If you are concerned about the storage and use of cookies, you may be able to direct your Internet browser to notify you and seek approval whenever a cookie is being sent to your web browser or hard drive. You may also delete a cookie manually from your hard drive through your internet browser or other programs. CLICK HERE for more information on cookies and browser controls. Please note, however, that some parts of our Website will not function properly or be available to you if you refuse to accept a cookie or choose to disable the acceptance of cookies.
 
-(2) Preference Based Advertising: We may work with third parties, including advertising companies and website analysis firms, who use cookies and web beacons to collect non-personally identifiable information when you visit our Website and third party sites. This non-personally identifiable information, collected through cookies and web beacons, is typically used by these third party advertising companies (i.e., advertising networks) to serve you with advertisements while on third party sites tailored to meet your
-
-preferences and needs. For comprehensive information on online advertising, please CLICK HERE. If you do not wish to participate in this activity, please CLICK HERE and follow the simple opt-out process.
+(2) Preference Based Advertising: We may work with third parties, including advertising companies and website analysis firms, who use cookies and web beacons to collect non-personally identifiable information when you visit our Website and third party sites. This non-personally identifiable information, collected through cookies and web beacons, is typically used by these third party advertising companies (i.e., advertising networks) to serve you with advertisements while on third party sites tailored to meet your preferences and needs. For comprehensive information on online advertising, please CLICK HERE. If you do not wish to participate in this activity, please CLICK HERE and follow the simple opt-out process.
 
 A couple of important notes about this opt-out tool: (1) it includes all the advertising networks that we may work with, but also many that we do not work with; and (2) it relies on cookies to ensure that a given advertising network does not collect information about you (“Opt-out Cookies”). Therefore, if you buy a new computer, change web browsers or delete these Opt-out Cookies from your computer, you will need to perform the opt-out task again.
 
@@ -64,9 +60,7 @@ However, aside from our reply to such an email, it is not our standard practice 
 
 (4) Other: Notwithstanding anything herein to the contrary, we reserve the right to disclose any personally identifiable or Non-PII about you if we are required to do so by law, with respect to copyright and other intellectual property infringement claims, or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website's users or the general public.
 
-(5) Your California Privacy Rights: Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information in writing as provided in Section
-
-I.
+(5) Your California Privacy Rights: Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information in writing as provided in Section I.
 
 E. PUBLIC FORUMS
 
@@ -96,4 +90,4 @@ J. SOLE STATEMENT
 
 This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website.
 
-Copyright 2012 Scripps Media, Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed.
+Copyright 2012 Scripps Media, Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. 
