@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optionsuniversity.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424103525id_/http%3A//www.optionsuniversity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionsuniversity.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209114225id_/http%3A//www.optionsuniversity.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICYOptions University | Options University
 
@@ -24,7 +24,7 @@ In order to use this Web site, you must first complete the registration form. Du
 
 Please see “Communications from the Site” section.
 
-Options University, LLC is the sole owner of the information collected on[http://www.optionsuniversity.com](https://web.archive.org/web/20130424103525id_/http://www.optionsuniversity.com/). Options University, LLC, collects personally identifiable information from our users at several different points on the OU Web site.
+Options University, LLC is the sole owner of the information collected on[http://www.optionsuniversity.com](https://web.archive.org/web/20140209114225id_/http://www.optionsuniversity.com/). Options University, LLC, collects personally identifiable information from our users at several different points on the OU Web site.
 
 **Orders**  
 If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date).
