@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anisearch.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226130416id_/http%3A//en.anisearch.com/faq/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anisearch.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209114613id_/http%3A//en.anisearch.com/faq/privacy) for the most accurate reproduction.*
 
-# FAQ - Privacy Policy
+# FAQ - Privacy Policy — Information about anime, manga and Asian movies
 
 aniSearch takes the security of your personal information very seriously. Collected data will only be used within the framework of existing legislation, particularly the [Federal Data Protection Act](http://www.gesetze-im-internet.de/bdsg_1990/) and the German [Teleservices Act](http://www.gesetze-im-internet.de/tmg/). We neither sell nor share your data, unless issued to by a judicial decree. 
 
