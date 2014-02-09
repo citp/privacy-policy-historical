@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeep4x4center.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903121815id_/http%3A//www.jeep4x4center.com/popup/privacy-promise-popup.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeep4x4center.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209105436id_/http%3A//www.jeep4x4center.com/popup/privacy-promise-popup.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Morris 4x4 Center
 
@@ -32,7 +32,7 @@ If you choose to provide more information to us through our e-mail registration,
 You may **"opt-out"** of our e-mail newsletter at any time by calling us at 1-877-553-5337 or by emailing us and notating "Stop" or "Unsubscribe". Email us here at [memberservices@morris4x4center.com](mailto:memberservices@morris4x4center.com "Member Services - Unsubscribe")
 
 We do NOT sell, trade or share our e-mail list with any other person or organization.   
-**Note:** Our e-mail accounts are hosted by our sister site [www.cyberjeep.com](https://web.archive.org/web/20130903121815id_/http%3A//www.jeep4x4center.com/popup/www.cyberjeep.com). 
+**Note:** Our e-mail accounts are hosted by our sister site [www.cyberjeep.com](https://web.archive.org/web/20140209105436id_/http%3A//www.jeep4x4center.com/popup/www.cyberjeep.com). 
 
 Our Address: Morris 4x4 Center | 1020 SW 10th Avenue | Pompano Beach, Florida | 33069 | Phone: (877) 553-5337 
 
