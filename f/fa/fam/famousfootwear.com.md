@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famousfootwear.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807173541id_/http%3A//www.famousfootwear.com/en-US/Content/PRIVACY.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famousfootwear.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209105649id_/http%3A//www.famousfootwear.com/en-US/Content/PRIVACY.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Famous Footwear
 
@@ -16,7 +16,7 @@ Because we want to demonstrate our commitment to your privacy, this privacy stat
 
 
 
-If you feel that we are not abiding by our posted privacy policy, you should [contact](https://web.archive.org/Contact.aspx) Famous Footwear.com Customer Service.
+If you feel that we are not abiding by our posted privacy policy, you should [contact](http://famousfootwear.custhelp.com/app/ask) Famous Footwear.com Customer Service.
 
 ## Information Collection and Use
 
@@ -62,7 +62,7 @@ When our registration form or order form asks you to enter sensitive information
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Our employees are regularly notified and reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers on which we store personally identifiable information are kept in a secure environment.
 
-If you have questions about the security of our website, [contact](https://web.archive.org/Contact.aspx) Famous Footwear Customer Service.
+If you have questions about the security of our website, [contact](http://famousfootwear.custhelp.com/app/ask) Famous Footwear Customer Service.
 
 ## Special Offers
 
@@ -74,13 +74,17 @@ We also send our users site and service announcement updates. We may communicate
 
 ## Correcting or Updating Personal Information
 
-If your personally identifiable information changes (such as your zip code), or if you no longer desire our service, we will endeavor to provide a way for you to correct, update or remove your personal data provided to us. This can usually be done at the [REWARDS Customer Account](https://web.archive.org/Profiles/login.aspx?REWARDS=Y) information page or by [contacting](https://web.archive.org/Contact.aspx) Famous Footwear Customer Service.
+If your personally identifiable information changes (such as your zip code), or if you no longer desire our service, we will endeavor to provide a way for you to correct, update or remove your personal data provided to us. This can usually be done at the [REWARDS Customer Account](https://web.archive.org/Profiles/login.aspx?REWARDS=Y) information page or by [contacting](http://famousfootwear.custhelp.com/app/ask) Famous Footwear Customer Service.
 
 ## Choice and Opt-out
 
-Our users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our [REWARDS Customer Account](https://web.archive.org/Profiles/login.aspx?REWARDS=Y) information form has an 'opt-out' mechanism so users who register with us, but don't want any marketing material or those of our marketing partners, can keep their email address off of our lists. If you no longer wish to receive our promotional materials you may opt-out of receiving these communications by either visiting our [REWARDS Customer Account](https://web.archive.org/Profiles/login.aspx?REWARDS=Y) information page or by [contacting](https://web.archive.org/Contact.aspx) Famous Footwear Customer Service.
+Our users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our [REWARDS Customer Account](https://web.archive.org/Profiles/login.aspx?REWARDS=Y) information form has an 'opt-out' mechanism so users who register with us, but don't want any marketing material or those of our marketing partners, can keep their email address off of our lists. If you no longer wish to receive our promotional materials you may opt-out of receiving these communications by either visiting our [REWARDS Customer Account](https://web.archive.org/Profiles/login.aspx?REWARDS=Y) information page or by [contacting](http://famousfootwear.custhelp.com/app/ask) Famous Footwear Customer Service.
 
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.
+
+## Do Not Track Policy
+
+Some web browsers have a “do not track” feature that lets you tell websites you visit that you do not want to have your online activities tracked. These features are not yet uniform across browsers, so this site is not currently set up to respond to those signals.
 
 ## Notification of Changes
 
