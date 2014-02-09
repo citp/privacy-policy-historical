@@ -1,159 +1,123 @@
-> *The following text is extracted and transformed from the totsy.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615062734id_/http%3A//www.totsy.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totsy.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209121147id_/https%3A//modnique.zendesk.com/entries/24914748) for the most accurate reproduction.*
 
-# Privacy Policy
+# PRIVACY POLICY : Modnique
 
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.totsy.com/seal_m "Validate TRUSTe privacy certification")
+**PRIVACY POLICY**
 
-The privacy of our Members is important to us. Please read our Privacy Policy below so you understand how Totsy collects information about our Members, what type of information we collect about our Members, why we collect such information, how we protect personal information about our Members and in which limited circumstances Totsy may have to share such information with other parties.
+Modnique, Inc. and ("Modnique," "we," "our," "us") knows that our customers and other visitors to our site may be concerned about how their personal information is used and shared.  First and foremost we want to assure everyone that we take privacy concerns seriously.  As such, we welcome and encourage you to read the following in order to fully understand our Privacy Policy.  
 
-1\. Totsy's Privacy Policy.
+By visiting and using the Modnique.com website and the features, services, content or mobile applications offered therein (collectively, the "Website"), you acknowledge that you understand and accept the practices and policies outlined in this Privacy Policy.
 
-* * *
+**What information does this Privacy Policy cover?**
 
-The information we collect through our Site helps us provide you with information specific to your needs and interests. This privacy policy (the "Privacy Policy") covers Totsy's website, www.totsy.com (the "Site"). Please read below to review our Privacy Policy and the types of information we gather through our Site. In this Privacy Policy, "we", "us", "our" and other similar references mean Totsy and "you" and "your" and other similar references mean a specific user of the Site. By visiting the Site, you accept the practices described in this Privacy Policy.
+This Privacy Policy covers Modnique's treatment of personally identifiable information ("Personal Information") that Modnique gathers when you are accessing Modnique's Website and when you use Modnique’s services. This policy does not apply to the practices of third parties that we do not own or control, or to individuals that Modnique does not employ or manage.  Also, we do not consider Personal Information to include information that has been made anonymous or aggregated so that it can no longer be used, whether in combination with other information or otherwise, to identify a specific person.
 
-Totsy has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 888-247-9444. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site.
+**What Personal Information does Modnique collect?**
 
-2\. How Totsy Gather and Use Information About Its Members?
+The information we gather from customers enables us to personalize and improve our services, and to allow our users to set up a user account and make purchases via the Website. We collect the following types of information from our customers.
 
-* * *
+**Personal information you give us:**
 
-(i) Cookies.
+We may receive and store any information you enter on our Website or provide to us in any other way. The types of Personal Information collected may include your name, email address, gender, zip code, country, IP address, browser information, and, if you make a purchase through our Website, your credit card number, credit card security code, expiration date, billing address, and shipping address. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features, and you may not be able to complete a purchase through the Website. The Personal Information you provide is used for such purposes as allowing you to purchase items, improving the content of the Website, customizing the advertising and content you see, and communicating with you about specials and new features.
 
-* * *
+We do not direct any of our content specifically to children. Users of our Website are required to be at least 18 years old, and any user under 18 is not an authorized user. Additionally, if we learn that a user is under 13 years of age, we will promptly delete any Personal Information we have collected about that user.
 
-Cookies are pieces of data assigned by a web server that uniquely identify the browser on your PC. Websites typically use temporary cookies called "session" cookies to ensure that you are recognized when you move from page to page within one site and that any information you have entered is remembered. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. For example, if an e-commerce site did not use session cookies then items placed in a shopping basket would disappear by the time you reach the checkout. Websites also use cookies called "persistent" cookies to enable a website to remember you on subsequent visits, speeding up or enhancing your experience of services or functions offered. Totsy attempts to install both persistent and session cookies when a user arrives at our Site. Cookies enable our systems to gather information about your navigational patterns through the site. Viewers have the option to accept or disable cookies at any time through their browsers. For more information about how to delete cookies from your web browser, you will usually find responses in the "help" menu of your web browser. Please note that if you block or refuse to accept cookies, or delete cookies between visits to the site, you may not be able to access or use certain features or functions of our Site.
+**Personal information we collect automatically:**
 
-The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, etc. 
+  * We receive and store certain types of information whenever you interact with our Website or services. Modnique automatically receives and records information on our server logs from your browser including your IP address, cookie information, the page you requested, and any items you may purchase. This information may be used to customize the content you see on our Website or to communicate with you about specials and new features.
+  * Usage information, such as the numbers and frequency of visitors to our site and its components may also be used in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often customers use parts of the Website or services so that we can make the Website appealing to as many customers as possible, and improve those services. As part of this use of information, we may provide aggregate information to our partners about how our customers, collectively, use our site. We share this type of statistical data so that our partners also understand how often people use their services and our Website, so that they, too, may provide you with an optimal online experience. Modnique never discloses aggregate information to a partner in a manner that would identify you personally.
 
-(ii) Server Statistics.
 
-* * *
 
-We and our third party tracking partners collect general statistics to track user trends on our Site. These statistics include hits to our server, the types of browsers used to access our Site, page views, and navigational patterns. The information that is collected in this manner does NOT provide us with any personally identifiable information about our users. It helps us track "where" our users are coming from. This allows us to pinpoint high traffic areas and determine the most effective ways to communicate with our users. 
+**E-mail Communications:**
 
-As part of that ongoing analysis, Totsy also uses devices called "web beacons" to help us identify when emails sent to you have been received and read. In order to prevent the introduction of viruses and hackers into the Totsy site we may collect information, such as IP addresses, into a log file to be used to identify potential hackers of the Totsy site.
+We may receive a confirmation when you open an email from Modnique if your computer supports this type of program. Modnique uses this confirmation to help us make emails more interesting and helpful and improve our service. If you do not want to receive email or other mail from us, please indicate your preference by making a modification on your account page, or by using the "Unsubscribe" feature in any email we send to you.
 
-(iii) Personal Information You Provide To Us.
+**Mobile:**
 
-* * *
+When you download or use our mobile applications, or access one of our mobile optimized sites, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location based services, such as advertising, shipping information, and other personalized content. Most mobile devices allow you to control or disable location services in the device's setting's menu. If you have questions about how to disable your device's location services, we recommend you contact your mobile service carrier or the manufacture of your particular device.
 
-For the purposes of this Privacy Policy, "Personal Information" is any information that identifies you, would enable someone to contact you, or that describes your relationship with Totsy. We collect and store Personal Information (such as email address, name, address, phone number) when you register to use our Site, ask a question, complete a form, conduct a transaction, or send us an email. While you are not required to submit any information to our Site, if you do not provide the requested information, you may not be able to access or use some of the features and functions of our Site and we may not be able to provide you with certain services. Totsy uses your Personal Information to complete transactions, respond to your requests, deliver the products and services you request, and notify you of promotions, updates, or special offers that we think may interest you.
+**Information from other sources** :
 
-3\. Communications From The Site
+We may receive or collect supplemental information about you from third parties sources and add it to our account information. This may include, but is not limited to, demographic, navigation information, additional contact information, credit check information, and additional information about you from credit bureaus or other sources, as permitted by law.
 
-* * *
+**What are Cookies?**
 
-**Newsletters**
+  * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. Modnique cookies do not collect Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are or what is your screen name or email address.
+  * Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of our Website's most attractive features.
+  * We may use cookies to compile usage or "clickstream" information about you or others who use your computer. This information allows us to, among other things, deliver targeted content that we believe will be of most interest to you.
 
-When you register on our site, we will use your email address to send you our newsletter and emails letting you know about our daily sales. If you wish to no longer receive these emails you may do so by following the unsubscribe instructions contained within each of the communications you receive. 
 
-**Service-related Announcements**
 
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. 
+**Will Modnique share any of the Personal Information?**
 
-Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
+Personal Information about our customers is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only as described below.
 
-4\. Tell-A-Friend
+_Affiliated Businesses We Do Not Control:_ We are affiliated with a variety of businesses and work closely with them. In certain situations, these businesses sell items to you through Modnique's Website. In other situations, Modnique provides services, or sells products jointly with affiliated businesses. You can recognize when an affiliated business is associated with your transaction, and we will share your Personal Information that is related to such transactions with that affiliated business.
 
-* * *
+_Agents:_ We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Modnique's agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Totsy stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
+_Employees:_ We restrict access to your Personal Information to those employees who need to know that information to provide products or services to you.
 
-You can import contacts from your Outlook or other email account address book to invite them to become members of our site. We collect the username and password for the email account you wish to import your contacts from and will only use it for that purpose. 
+_Business Transfers:_ In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. Moreover, if Modnique, or substantially all of its assets were acquired, or in the unlikely event that Modnique goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Modnique may continue to use your Personal Information as set forth in this policy.
 
-Your friend may contact [Totsy Customer Service](http://totsy.custhelp.com/app/ask) to request that we remove this information from our database.
+_Protection of Modnique and Others:_ We may release Personal Information when we believe in good faith that release is necessary to comply with that law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Modnique, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
-5\. What Security Procedures Does Totsy Use To Protect Personal Information of Its Members?
+**How secure is my Personal Information?**
 
-* * *
+Your Modnique account Personal Information is protected by a password for your privacy and security. You need to prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
 
-The privacy of our members is important to us. We use physical, electronic, and administrative safeguards to assist us in preventing unauthorized access, maintaining data accuracy, and correctly using your Personal Information. Except as specified in this Privacy Policy, we use commercially reasonable efforts to limit access to your Personal Information to the employees, agents, and officers of Totsy who need the information for the performance of their jobs.
+When Modnique's order form asks users to enter Personal Information such as a credit card number, that information is encrypted with industry-standard Secure Socket Layers ("SSL") encryption to keep your online order safe and secure. When the letters "http" in the URL address change to "https", the "s" indicates you are in a secure area employing SSL. Modnique also maintains physical, electronic, and procedural safeguards that comply with federal regulations to protect your Personal Information.
 
-6\. Will Totsy Disclose The Information It Collects To Outside Parties?
+Modnique endeavors to protect user information to ensure that user account information is kept private, however, Modnique cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
 
-* * *
+The Website may contain links to other sites. Modnique is not responsible for the privacy policies and/or practices on other sites. When linking to another site you should read the privacy policy stated on that site. This Privacy Policy only governs information collected on the Website.
 
-Totsy warrants that its employees, agents, officer and directors, consultants or subcontractors are obligated to and will hold any Personal Information in strict confidence and to take all reasonable measures to ensure that confidentiality is respected. We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties. Totsy may share information with carefully selected vendors and business partners with whom we work. This includes companies that offer affinity, frequent-user, and reward programs; and, companies that perform marketing services and other business operations for us such as a shipping company to fulfill orders, and a credit card processing company to bill you for goods and services, an email service provider to send out emails on our behalf, live chat software to assist you if you have questions regarding our service while you are on the site, and third party service provider to allow you to comment on our blog and share some portions of our site with others. All companies that act on our behalf are contractually obligated to keep all information confidential and to use the Member information only to provide the services we ask them to perform for you and us. We may provide aggregate statistics about our Members, sales, traffic patterns and related site information to reputable third party vendors, but these statistics do not include Personal Information. We may disclose Personal Information we collect from you if required by law, or in the good-faith belief that disclosure is necessary (a) to obey the law or comply with legal process served on us or our affiliates; (b) to protect and defend our rights or property or the rights or property of other users of our Site; or (c) to act in an emergency to protect the personal safety of users of our Site or the public.
+**What Personal Information can I access?**
 
-If Totsy is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+Modnique allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information. This list may change as our Website changes.
 
-7\. Accessing Your Personally Identifyable Information
+  * E-mail address
+  * Gender
+  * Zip code
+  * Country
+  * Shipping & Billing information
 
-* * *
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete/deactivate it by making the change on our member information page or contact [Totsy Customer Service](http://totsy.custhelp.com/app/ask)
 
-or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
+**What choices do I have?**
 
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+  * As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of certain Modnique features, including the ability to purchase items through the Website.
+  * You are able to add or update certain information on pages, such as those listed in the "What Personal Information Can I Access" section above. When you update information, however, we may maintain a copy of the unrevised information in our private records.
+  * If you do not wish to receive email or other mail from us, including promotional offers, please indicate this preference by changing your account settings, or by notifying us by using the "Unsubscribe" feature in any email we send to you. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Modnique Website, and you are responsible for reviewing such legal notices for changes.
 
-8\. Security
 
-* * *
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+**Links to Other Websites**
 
-No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+Our websites may contain links to other sites for your convenience and information. These sites may be operated by companies not affiliated with MODNIQUE. Linked sites may have their own privacy notices, which you should review if you visit those websites. We are not responsible for the content of any websites not affiliated with MODNIQUE, any use of those sites, or those sites’ privacy practices.
 
-9\. External Links. About Other Entities Which May Have Links on Their Sites to Our Site.
+**Changes to Privacy Policy**
 
-* * *
+Modnique may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website and/or sending you an email. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted.
 
-We are not responsible for how non affiliated companies or organizations collect, use, disclose, or secure the information that you provide to them. If you choose to access a third party website linked to our Site, you do so at your own risk and subject to any terms of service or privacy policy (if any) associated with such third party websites.
+**Mobile Privacy**
 
-10\. Facebook Connect Or Other OpenID Provider
+We may offer you the ability for you to connect with our sites, or use our mobile applications, services, and tools using a mobile device, either through a mobile application or via a mobile optimized website. The provisions of this Privacy Policy apply to all such mobile access and use of mobile devices. This Privacy Policy will be referenced by all such mobile applications or mobile optimized websites.
 
-* * *
+**Children's Privacy**
 
-You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+Our Website is a general audience website, and it and its related sites, mobile applications, services, and tools are not intended for children under the age of 13. We do not knowingly collect personal information via our websites, applications, services, or tools from users in this age group.
 
-11\. Testimonials
+**Your California Privacy Rights**
 
-* * *
+If you are a California resident, you may request that we provide to you (i) a list of the categories of personal information about you that Modnique has disclosed to third parties for the third parties’ direct marketing purposes during the calendar year preceding your request, (ii) the names and addresses of such third parties, and (iii) if the nature of the third parties’ business cannot reasonably be determined from their names, examples of the products or services marketed, if known to Modnique, sufficient to give you a reasonable indication of the nature of the third parties’ business. To submit your request, please email [legal@Modnique.com](mailto:legal@Modnique.com), with the subject line "California Privacy" and your request in the body of your email.
 
-We provide you with the opportunity to send us video testimonials. While we screen these testimonials for content you should be aware that any information you provide in them may be collected, and used by others who view them. If you want your testimonial removed please contact [Totsy Customer Service](http://totsy.custhelp.com/app/ask).
+**Contact**
 
-12\. Public Forums
+If you have any questions or concerns regarding our Privacy Policy, please contact us at:
 
-* * *
-
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact [Totsy Customer Service](http://totsy.custhelp.com/app/ask). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
-
-13\. Collection Of Information From Children.
-
-* * *
-
-Totsy does not direct any of our content specifically to children nor do we knowingly collect personal information from individuals under the age of 13. If we learn that a user is under thirteen (13) years of age, we will promptly delete any Personal Information we have collected about that user.
-
-14\. Consent To Processing In The United States.
-
-* * *
-
-By providing any Personal Information to Totsy, all users, including, without limitation, users in Canada and the member states of the European Union, fully understand and unambiguously consent to this Privacy Policy and to the transfer of such Personal Information across international borders in accordance with Totsy's standard operations, including the collection, storage, and processing of such information in the United States of America, and waive any rights that they may have under their local laws which would conflict with Totsy's Privacy Policy.
-
-15\. Your California Privacy Rights.
-
-* * *
-
-As provided by California Civil Code Section 1798.83, a California resident who has provided Personal Information to a business with whom he/she has established a business relationship for personal, family, or household purposes ("California Member") is entitled to request information about whether the business has disclosed Personal Information to any third parties for the third parties' direct marketing purposes. In general, if the business has made such a disclosure of Personal Information, upon receipt of a request by a California Member, the business is required to provide a list of all third parties to whom Personal Information was disclosed in the preceding calendar year, as well as a list of the categories of Personal Information that were disclosed.
-
-However, under the law, a business is not required to provide the above-described lists if the business adopts and discloses to the public (in its privacy policy) a policy of not disclosing Member's Personal Information to third parties for their direct marketing purposes unless the Member first affirmatively agrees to the disclosure, as long as the business maintains and discloses this policy. Rather, the business may comply with the law by notifying the California Member of his or her right to prevent disclosure of Personal Information and providing a cost free means to exercise that right.
-
-As stated in this Privacy Policy, we do not share information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure -- typically by opting in to receive information from a third party that is participating in some activity describes on our site. If you do ask us to share your information with a third party for its marketing purposes, we will only share information in connection with that specific activity, as we do not share information with any third party on a continual basis. To prevent disclosure of your Personal Information for use in direct marketing by a third party, do not opt in to such use when you provide Personal Information on our site. Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party's privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information.
-
-California Member may request further information about our compliance with this law by contacting us on our website under the CONTACT US menu. Please note that we are only required to respond to one request per Member each year, and we are not required to respond to requests made by means other than through our Site.
-
-16\. Modification And Notification Of Changes.
-
-* * *
-
-Totsy may at its sole discretion edit this Privacy Policy. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) and/or by means of a prominent notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
-
-17\. In Summary.
-
-* * *
-
-Totsy is committed to protecting your privacy. The information collected from our Site helps us better understand our market and consumer interests. This allows us to serve our Members and business associates with the level of satisfaction they deserve.
-
-If you have questions or suggestions regarding this Privacy Policy or our privacy practices please contact [Totsy Customer Service](http://totsy.custhelp.com/app/ask) or via postal mail at 75 Broad Street, Suite 1500, New York, NY 10004, Thank you.
+**Modnique, Inc.**  
+2400 Marine Avenue  
+Redondo Beach, CA 90278  
+[legal@modnique.com](mailto:legal@modnique.com)
