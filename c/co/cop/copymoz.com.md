@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copymoz.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016062245id_/http%3A//copymoz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copymoz.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209061051id_/http%3A//copymoz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Copymoz.com
 
