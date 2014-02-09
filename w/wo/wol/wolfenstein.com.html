@@ -1,12 +1,117 @@
-<!--The following is the downloaded HTML source of the wolfenstein.com privacy policy that was archived on 2013-04-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130424220729id_/http%3A//www.zenimax.com/legal_privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wolfenstein.com privacy policy that was archived on 2014-02-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209012031id_/http%3A//www.zenimax.com/legal_privacy.htm) for the most accurate reproduction.-->
 
 <html><head>
 <title>ZeniMax Media Inc.</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" href="zenimaxstyle2.css" type="text/css">
+<meta charset="UTF-8">
+<link rel="stylesheet" href="zenimaxstyle2.css?v=1" type="text/css">
 <link rel="stylesheet" href="zenimaxstyle2print.css" type="text/css" media="print">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//js.maxmind.com/js/apis/geoip2/v2.0/geoip2.js"></script>
+
+<script src="js/cookie.js"></script>
+
+<script type="text/javascript">
+
+  var redirect = (function () {
+
+      var redirectBrowser = function (country_code) {
+          var uri = "http://www.zenimax.com/legal_privacy_" + country_code + ".htm";
+          window.location = uri;
+      };
+
+      var sites = {
+          "de": true,
+          "it": true,
+          "fr": true,
+          "pl": true,
+          "pt": true,
+          "es": true,
+          "ch": true,
+          "at": true,
+          "li": true,
+          "lu": true,
+          "mc": true,
+          "br": true,
+          "mx": true,
+          "co": true,
+          "pe": true,
+          "ve": true,
+          "ar": true,
+          "cl": true,
+          "do": true,
+          "ec": true,
+          "bo": true,
+          "cr": true,
+          "hn": true,
+          "py": true,
+          "us": true
+      };
+
+      var defaultSite = "us";
+
+      var onSuccess = function (geoipResponse) {
+          if (!geoipResponse.country.iso_code) {
+              redirectBrowser("us");
+              return;
+          }
+
+          var code = geoipResponse.country.iso_code.toLowerCase();
+
+          if ( sites[code] ) {
+
+              if (code == "at" || code == "ch" || code == "li") {
+                code = "de";
+              }
+
+              if (code == "lu" || code == "mc") {
+                code = "fr";
+              }
+
+              if (code == "mx" || code == "co" || code == "pe" || code == "ve" || code == "ar" || code == "cl" || code == "do" || code == "ec" || code == "bo" || code == "cr" || code == "hn" || code == "py") {
+                code = "es";
+              }
+
+              if (code == "br") {
+                code = "pt";
+              }
+
+              redirectBrowser(code);
+
+          } else {
+
+              redirectBrowser("us");
+
+          }
+      };
+
+      /* We don't really care what the error is, we'll send them
+       * to the default site. */
+      var onError = function (error) {
+          redirectBrowser("us");
+      };
+
+      return function () {
+          geoip2.country( onSuccess, onError );
+      };
+  }());
+
+  var zmi_lang_pref = readCookie('zmi_lang_pref');
+  
+  if (zmi_lang_pref) {
+
+      var uri = "http://www.zenimax.com/legal_privacy_" + zmi_lang_pref + ".htm";
+      window.location = uri;
+
+  } else {
+
+    redirect();
+
+  }
+  
+</script>
+
+<script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-16889011-1']);
@@ -41,29 +146,45 @@
 
 </a><div id="wrap1"><a name="top">
 <div id="topbar"><img src="images/layout/topbar.gif" width="682" height="7"></div>
-	</a><div id="wrap2"><a name="top">
-		</a><div id="right"><a name="top">
-			</a><a class="printbutton" href="#" onclick="window.print();return false;">
-				<img src="print.jpg" border="0"><font class="legal">Click to Print</font>
-			</a>
-		</div>
-		<div id="wrap3">
+  </a><div id="wrap2"><a name="top">
+    </a><div id="right"><a name="top">
+      </a><a class="printbutton" href="#" onclick="window.print();return false;">
+        <img src="print.jpg" border="0"><font class="legal">Click to Print</font>
+      </a>
+    </div>
+    <div id="wrap3">
       <div id="main">
-		<p class="policymenu">
-			<a href="legal_terms.htm">Terms &amp; Conditions</a><br>
-			<b>Privacy Policy</b><br>
-     	<a href="legal_info.htm">Legal Information</a>
+    <p class="policymenu">
+      <a href="legal_terms.htm">Terms of Service</a><br>
+      <b>Privacy Policy</b><br>
+      <a href="legal_info.htm">Legal Information</a>
     </p>
 
-        <p></p><div id="9fcb044e-ce15-414a-897a-5b8708b96b9d"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/ZeniMax-Media-Inc-/asc?rid=9fcb044e-ce15-414a-897a-5b8708b96b9d"></script><a href="//privacy.truste.com/privacy-seal/ZeniMax-Media-Inc-/validation?rid=8fa683b2-f1ba-487d-a36b-6975e4be76ba" title="TRUSTe European Safe Harbor certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/ZeniMax-Media-Inc-/seal?rid=f0d6ff38-7a33-4522-a3fd-589eaecc7f7f" alt="TRUSTe European Safe Harbor certification"></a></div><p></p>
+    <hr>
 
-        <blockquote><h2><font color="#d91e27"><em>Revised February 22, 2013</em></font></h2></blockquote>
+      <h3 align="center">Change Your Language</h3>
+
+        <h3 align="center" class="languagemenu">
+<a href="legal_privacy_us.htm" target="_self">English</a> | 
+<a href="legal_privacy_fr.htm" target="_self">Français</a> | 
+<a href="legal_privacy_de.htm" target="_self">Deutsch</a> | 
+<a href="legal_privacy_it.htm" target="_self">Italiano</a> | 
+<a href="legal_privacy_es.htm" target="_self">Español</a> | 
+<a href="legal_privacy_pt.htm" target="_self">Português</a> | 
+<a href="legal_privacy_ja.htm" target="_self">日本語</a> | 
+<a href="legal_privacy_pl.htm" target="_self">Polski</a>
+<!-- <a href = 'legal_privacy.htm' target = '_self'>Pуcckий</a> -->
+        </h3>
+
+        <hr>
+
+        <p></p><div id="9fcb044e-ce15-414a-897a-5b8708b96b9d"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/ZeniMax-Media-Inc-/asc?rid=9fcb044e-ce15-414a-897a-5b8708b96b9d"></script><a href="//privacy.truste.com/privacy-seal/ZeniMax-Media-Inc-/validation?rid=8fa683b2-f1ba-487d-a36b-6975e4be76ba" title="TRUSTe European Safe Harbor certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/ZeniMax-Media-Inc-/seal?rid=f0d6ff38-7a33-4522-a3fd-589eaecc7f7f" alt="TRUSTe European Safe Harbor certification"></a></div><p></p>
 
         <p><b class="maintxt">ZENIMAX MEDIA ONLINE PRIVACY POLICY</b></p>
 
         <p>ZeniMax Media Inc. and its divisions and subsidiaries(collectively, "ZeniMax") are committed to protecting your privacy online. To further this commitment, we have adopted an Online Privacy Policy that guides how we collect, store, and use the information collected about you when you visit one of our websites (collectively "Sites") or in conjunction with your use any of the products, services, features or games available through our Sites (collectively the "Services").</p>
 
-        <p>ZeniMax Media Inc. has received TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" target="_blank">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe’s certification covers all Sites that link to this privacy policy and display the TRUSTe certified privacy seal.  The TRUSTe program does not cover information that may be collected through downloadable software.   If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:privacy04@zenimax.com">privacy04@zenimax.com</a>.  If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_blank">TRUSTe here</a>.</p>
+        <p>ZeniMax Media Inc. has received TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" target="_blank">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe’s certification covers all Sites that link to this privacy policy and display the TRUSTe certified privacy seal.  The TRUSTe program does not cover information that may be collected through downloadable software.   If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:privacy10@zenimax.com">privacy10@zenimax.com</a>.  If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_blank">TRUSTe here</a>.</p>
 
         <p>Your personal data may be transferred to and processed in countries outside of the European Economic Area.  To ensure an adequate level of protection for personal information as required by European data protection law, ZeniMax is a participant in the U.S. - E.U. and the U.S. - Switzerland Safe Harbor frameworks as set forth  by the U.S. Department of Commerce and agreed upon with the European Commission and the Federal Data Protection and Information Commissioner of Switzerland, respectively.  ZeniMax has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view ZeniMax’s certification, please visit <a href="http://www.export.gov/safeharbor/" target="_blank">http://www.export.gov/safeharbor/</a>.</p>
 
@@ -136,7 +257,7 @@
 
 <p>For some activities, we may ask you to create a username and password, and to provide personal information such as your age and date of birth.  In some instances, we combine personal and non-personal information in order to improve your in game experience, or for security, system integrity, or enforcement purposes.</p>
 
-<p>Additionally, we may collect information provided by you and your computer through use of our Services, embedded within messages to you, within social media, in some of our products, and otherwise. Your web browser and/or client software may transmit certain geographic information (such as IP address) or information regarding your computer (capabilities, game data processing, and so on) to ZeniMax.  ZeniMax may use this information to generate aggregate statistics about our user community, personalize your experience for your geographic area and may provide such information to our service partners in order to personalize your experience on our Sites, improve your gameplay experience, including to provide tailored customer service support, security, system integrity (preventing hacking, cheats, etc.) or to enforce this Privacy Policy, our terms or our legal rights in accordance with national law.  You may opt-out from the use of your data for user profile purposes by contacting <a href="mailto:privacy04@zenimax.com">privacy04@zenimax.com</a>.</p>
+<p>Additionally, we may collect information provided by you and your computer through use of our Services, embedded within messages to you, within social media, in some of our products, and otherwise. Your web browser and/or client software may transmit certain geographic information (such as IP address) or information regarding your computer (capabilities, game data processing, and so on) to ZeniMax.  ZeniMax may use this information to generate aggregate statistics about our user community, personalize your experience for your geographic area and may provide such information to our service partners in order to personalize your experience on our Sites, improve your gameplay experience, including to provide tailored customer service support, security, system integrity (preventing hacking, cheats, etc.) or to enforce this Privacy Policy, our terms or our legal rights in accordance with national law.  You may opt-out from the use of your data for user profile purposes by contacting <a href="mailto:privacy10@zenimax.com">privacy10@zenimax.com</a>.</p>
 
 <p>Note that, depending on the ZeniMax website that you are visiting, many of the activities listed may not be available and, as such, personal information and/or non-personal information may not be collected.  Additionally, we do not require this information to gain access to our Sites; however, you will not be able to utilize certain products, Services, or features that require registration or receive materials such as newsletters unless such information is provided.</p>
 
@@ -166,7 +287,7 @@ For some of our products, ZeniMax may send to you Service-related announcements 
 
             <p>Some of our forums are product-specific and may require you to create a game account.  In these circumstances, you are not required to play the game.  However, should you use features of and/or play the game in connection with forums use, information you provide to us during the game may be combined with your forum username and demographic information.</p>
 
-            <p>Please note that the information (e.g., email address, username, occupation, and interests) contained in your profile (i.e., that you provide when registering) may be viewable to other users of ZeniMax's Services. We cannot and do not guarantee that this information will be kept confidential or private.  If you do not want the public to see this information, please leave the information blank at the time of registration or choose to make your email address and other information inaccessible to other users of the forum. To request removal of your personal information from our community forum, contact us at <a href="mailto:privacy04@zenimax.com">privacy04@zenimax.com</a>.  In some cases, we may not be able to remove your personal information; we will let you know if we are unable to do so and why.</p>
+            <p>Please note that the information (e.g., email address, username, occupation, and interests) contained in your profile (i.e., that you provide when registering) may be viewable to other users of ZeniMax's Services. We cannot and do not guarantee that this information will be kept confidential or private.  If you do not want the public to see this information, please leave the information blank at the time of registration or choose to make your email address and other information inaccessible to other users of the forum. To request removal of your personal information from our community forum, contact us at <a href="mailto:privacy10@zenimax.com">privacy10@zenimax.com</a>.  In some cases, we may not be able to remove your personal information; we will let you know if we are unable to do so and why.</p>
           </li>
 
           <li><u><a name="b1"></a>Tell-A-Friend</u>
@@ -210,12 +331,12 @@ When creating a profile for certain products and/or Services, ZeniMax may collec
         <p>Unless noted otherwise, we may also use any of the information we collect about you for our marketing, demographic research and analytical purposes, so we can constantly improve the products and Services we provide you.</p>
         <p>No matter what method we use to collect information and no matter how we use that information, we will only collect the information deemed reasonably necessary by us to respond to your online requests, offer our products and Services and fulfill our legitimate business objectives.</p>
 
-		<p><a class="backtotop" href="#top">Back to top.</a></p>
+    <p><a class="backtotop" href="#top">Back to top.</a></p>
 
         <p><b><a name="4"></a>What happens if I refuse to provide my personal information to ZeniMax?</b></p>
         <p>You can always choose not to submit personal information to us.  However, if you choose not to submit personal information when requested, you may not be able to participate in certain activities or access certain products or Services on our Sites and may considerably limit the Services we can provide you. For example, if you refuse to provide your email address when registering, you will not be able to use our message boards.</p>
 
-		<p><a class="backtotop" href="#top">Back to top.</a></p>
+    <p><a class="backtotop" href="#top">Back to top.</a></p>
 
         <p><b><a name="5"></a>Does ZeniMax or third parties use cookies, track IP addresses or use other passive means to collect information?</b></p>
 
@@ -255,7 +376,7 @@ When creating a profile for certain products and/or Services, ZeniMax may collec
 
         <p><b><a name="6"></a>Who is collecting my personal information?</b></p>
         <p>ZeniMax Media Inc. is the data controller of the personal data processed in connection with our Sites and is used in the manner specified <a href="#5">above</a>.</p>
-		
+    
 <p><a class="backtotop" href="#top">Back to top.</a></p>
 
         <p><b><a name="7"></a>With whom does ZeniMax share my personal information?</b></p>
@@ -280,19 +401,19 @@ You should be aware that any personally identifiable information that you submit
 <p><a class="backtotop" href="#top">Back to top.</a></p>
 
         <p><b><a name="9"></a>Can I choose how my personal information is used?</b></p>
-        <p>If you prefer not to receive marketing information from our Sites, email notices from our message board operators, or any other communication from ZeniMax, please do not "opt-in" when you register or at the time you submit your information. If you've already opted-in, but you wish to stop any further communications, just let us know by sending an email to: <a href="mailto:privacy04@zenimax.com">privacy04@zenimax.com</a> or follow the unsubscribe instructions included in each promotional email.</p>
+        <p>If you prefer not to receive marketing information from our Sites, email notices from our message board operators, or any other communication from ZeniMax, please do not "opt-in" when you register or at the time you submit your information. If you've already opted-in, but you wish to stop any further communications, just let us know by sending an email to: <a href="mailto:privacy10@zenimax.com">privacy10@zenimax.com</a> or follow the unsubscribe instructions included in each promotional email.</p>
 
         <p><b>Service-related Announcements</b></p>
         <p>We will send you strictly Service-related announcements on rare occasions when it is necessary to do so.  For instance, if our Service is temporarily suspended for maintenance, we might send you an email.  Generally, you may not opt-out of these communications, which are not promotional in nature.  If you do not wish to receive them, you have the option to deactivate your account.  </p>
 
         <p><b>Your California Privacy Rights</b></p>
-        <p>If you are a California resident, you may request a list of the third parties to which we have disclosed personally identifiable information about you for their own direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at via email at <a href="mailto:privacy04@zenimax.com">privacy04@zenimax.com</a>, by phone at (301) 963-2000, or by regular mail at: Privacy Coordinator, ZeniMax Media Inc., 1370 Piccard Drive, Suite 120, Rockville, MD 20850 USA. Please allow up to thirty (30) days for a response.</p>
+        <p>If you are a California resident, you may request a list of the third parties to which we have disclosed personally identifiable information about you for their own direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at via email at <a href="mailto:privacy10@zenimax.com">privacy10@zenimax.com</a>, by phone at (301) 963-2000, or by regular mail at: Privacy Coordinator, ZeniMax Media Inc., 1370 Piccard Drive, Suite 120, Rockville, MD 20850 USA. Please allow up to thirty (30) days for a response.</p>
 
 <p><a class="backtotop" href="#top">Back to top.</a></p>
 
         <p><b><a name="10"></a>How can I access my personal information?</b></p>
         <p>If you have registered for a game-specific bulletin board on our website and wish to update your profile, you may do so online by visiting the "profile" section found at each game forum on our websites. You may be required to submit your login name and password before you can access your profile information.</p><p>
-If you wish to review, update, or delete any other personal information that we may have collected about you, please send an email to our Privacy Coordinator by email at <a href="mailto:privacy04@zenimax.com">privacy04@zenimax.com</a>, or by regular mail at ZeniMax Media Inc., 1370 Piccard Drive, Suite 120, Rockville, MD 20850 USA. We will respond to all access requests within 30 days.</p>
+If you wish to review, update, or delete any other personal information that we may have collected about you, please send an email to our Privacy Coordinator by email at <a href="mailto:privacy10@zenimax.com">privacy10@zenimax.com</a>, or by regular mail at ZeniMax Media Inc., 1370 Piccard Drive, Suite 120, Rockville, MD 20850 USA. We will respond to all access requests within 30 days.</p>
 
 <p><a class="backtotop" href="#top">Back to top.</a></p>
 
@@ -312,12 +433,12 @@ If you wish to review, update, or delete any other personal information that we 
 
         <p>We also have security measures in place to protect against the loss, misuse and alteration of the information under our control (i.e., maintain data quality). Before we allow website users to access their personal information, for example, we verify their identity by prompting them to submit information such as their login name and password.</p>
 
-        <p>We will retain your information for as long as permitted for legitimate business purposes. If you wish to cancel your account or request that we no longer use your information to provide you Services contact us at  <a href="mailto:privacy04@zenimax.com">privacy04@zenimax.com</a>.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+        <p>We will retain your information for as long as permitted for legitimate business purposes. If you wish to cancel your account or request that we no longer use your information to provide you Services contact us at  <a href="mailto:privacy10@zenimax.com">privacy10@zenimax.com</a>.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
 
 <p><a class="backtotop" href="#top">Back to top.</a></p>
 
         <p><b><a name="13"></a>How do I ask a question or file a complaint?</b></p>
-        <p>If you have any questions, complaints or comments regarding our Privacy Policy or practices, please contact us via email at <a href="mailto:privacy04@zenimax.com">privacy04@zenimax.com</a>, by phone at (301) 963-2000, or by regular mail at:</p>
+        <p>If you have any questions, complaints or comments regarding our Privacy Policy or practices, please contact us via email at <a href="mailto:privacy10@zenimax.com">privacy10@zenimax.com</a>, by phone at (301) 963-2000, or by regular mail at:</p>
         <p> <em>Privacy Coordinator<br>
           ZeniMax Media Inc.<br>
           1370 Piccard Drive, Suite 120<br>
@@ -330,23 +451,23 @@ If you wish to review, update, or delete any other personal information that we 
           Updated 02/22/2013</em></p>
           </div>
       <!--close main-->
-		</div><!--close wrap3-->
-	</div><!--close wrap2-->
+    </div><!--close wrap3-->
+  </div><!--close wrap2-->
   <div id="bottombar" align="right">
       <img src="images/layout/bottombar.gif" width="682" height="3"></div>
 </div>
 <!--close wrap1--><!-- #BeginLibraryItem "/Library/legal.lbi" --><div id="bottom"> 
   <table width="681" border="0" cellspacing="0" cellpadding="0">
-  	<tbody><tr>
-		<td colspan="2">&nbsp;</td>
-	</tr>
+    <tbody><tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
     <tr>
       <td>
         <center class="legal">
-          © 2013 ZeniMax Media Inc. Trademarks are the property of their 
+          © 2014 ZeniMax Media Inc. Trademarks are the property of their 
           respective owners. All Rights Reserved.<br>
           <a href="legal_privacy.htm">Privacy Policy</a> | 
-          <a href="legal_terms.htm">Terms &amp; Conditions</a> 
+          2014<a href="legal_terms.htm">Terms of Service <img src="http://cdnstatic.bethsoft.com/zenimax.com/legal/new_text_en.png"></a> 
           | <a href="legal_info.htm">Legal Info</a> | <a href="contact.htm">Contact 
           Us</a> 
         </center>
