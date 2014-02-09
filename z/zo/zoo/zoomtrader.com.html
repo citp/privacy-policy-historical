@@ -1,31 +1,19 @@
-<!--The following is the downloaded HTML source of the zoomtrader.com privacy policy that was archived on 2012-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121016202720id_/http%3A//www.zoomtrader.com/privacy-and-security.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zoomtrader.com privacy policy that was archived on 2014-02-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209125304id_/http%3A//www.zoomtrader.com/privacy-and-security.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" webkit chrome linux js"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><link href="/Skins/ZoomTraderSkin/Media/CSS/main.css" type="text/css" rel="stylesheet"><link id="ctl00_favLink" rel="SHORTCUT ICON" href="http://www.zoomtrader.com/Skins/ZoomTraderSkin/media/Images/Accounts/230/fav_icon.ICO">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript" src="/scripts/jquery/jquery-latest.js"></script>
-    <script language="javascript" type="text/javascript" src="/scripts/jquery/jquery.query-2.1.6.js"></script>
-    <script language="javascript" type="text/javascript" src="/scripts/jquery/jquery.mousewheel.min.js"></script>
-    <script language="javascript" type="text/javascript" src="/scripts/jquery/jquery.marquee.min.js"></script>  
-    <script language="javascript" type="text/javascript" src="/scripts/jquery/jquery.dd.js"></script>  
-    <script language="javascript" type="text/javascript" src="/scripts/jquery/jquery.combobox.js"></script>
-    <script language="javascript" type="text/javascript" src="/scripts/jquery/jquery.alerts.js"></script>
-    <script language="javascript" type="text/javascript" src="/scripts/jquery/browserDetect.js"></script>
-    <script language="javascript" type="text/javascript" src="/scripts/stringformat.src.js"></script>     
-    <script language="javascript" type="text/javascript" src="/scripts/Services.js"></script>
-    <script language="javascript" type="text/javascript" src="/scripts/master.js"></script> 
-    <script language="javascript" type="text/javascript" src="/scripts/css_browser_selector.js"></script>  
-    <script language="javascript" type="text/javascript" src="/scripts/jquery/jquery.validate.js"></script>
-    <script language="javascript" type="text/javascript" src="/scripts/jquery/jquery.validate.password.js"></script> 
-    <script language="javascript" type="text/javascript" src="/scripts/jquery/jquery.tipsy.js"></script>    
-    <script language="javascript" type="text/javascript" src="/scripts/jquery/ui.core.js"></script>
-    <script language="javascript" type="text/javascript" src="/scripts/jquery/ui.effects.core-1.7-doublerebel.js"></script>
-    <script language="javascript" type="text/javascript" src="/scripts/jquery/ui.effects.highlight.js"></script>
-    <script language="javascript" type="text/javascript" src="/scripts/jquery/ui.accordion.js"></script>
-    <script language="javascript" type="text/javascript" src="/scripts/jquery/jquery.elementReady.js"></script>
-    <script language="javascript" type="text/javascript" src="/scripts/Utils.js"></script><title>
-	Privacy and Security
-</title>
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" webkit chrome linux js"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><link href="/Skins/ZoomTraderSkin/Media/CSS/main.css" type="text/css" rel="stylesheet"><link id="ctl00_favLink" rel="SHORTCUT ICON" href="/Skins/ZoomTraderSkin/media/Images/Accounts/230/fav_icon.ICO"><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0020/7278.js?439004" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script language="javascript" type="text/javascript" src="/scripts/MasterPage.min.js"></script>
+<script language="javascript" type="text/javascript" src="/scripts/jquery/jquery.dd.js"></script>
+<script type="text/javascript">
+        $(document).ready(function () {
+            window.setTimeout(function () {
+                $('.skype_pnh_container').html('');
+                $('.skype_pnh_print_container').removeClass('skype_pnh_print_container');
+            }, 800);
+        });
+    </script>
+<title>
+Privacy and Security
+</title><link id="ctl00_canonicalLinkPlaceholder" rel="canonical" href="http://www.zoomtrader.com/privacy-and-security.aspx">
 <script type="text/javascript">
     function getServerResource(key) {
         switch (key) {
@@ -63,6 +51,8 @@
                 return 'Expired at';
             case 'AssetTradeBlock_Expiring':
                 return 'Expiring...';   
+            case 'AssetTradeBlock_Expired':
+                return 'Expired';   
             case 'AssetTradeBlock_OptionExpired':
                 return 'Option expired';
             case 'TradeOrderBlock_ChooseAsset':
@@ -75,7 +65,12 @@
                 return 'Cost';
             case 'AssetFiltering_NoOptions':
                 return 'There are no options available for trading for this view';
-          
+
+            case 'TradeRoom_TradingError':
+                return ' reference ID (8888)';
+            case 'TradeRoom_UnActiveOption':
+                return 'The selected option is no longer available.';
+
             case 'AssetFiltering_Return':
                 return 'Return to Previous View';
             case 'AssetFiltering_TradeWillStartAt':
@@ -115,7 +110,7 @@
            case 'LimitationExceptionMsg_TradeRangeMax':
                 return 'Maximum trade is {0}. Please re-enter.';
            case 'TradeOrder_PriceOutOfDate':
-                return 'Your trade could not be executed at the moment. <BR\>Please try again later.';
+                return 'The trade you are trying to execute has been withdrawn due to a disproportionately high risk factor at this time.<br/>For more information please contact <a href="mailto:support@zoomtrader.com">support@zoomtrader.com</a>';
            case 'SaveTradeOrder_NotLoggedIn':
                 return 'You cannot place a trade order before logging into the system.';
            case 'LimitationExceptionMsg_MinTradeInterval':
@@ -124,8 +119,69 @@
                return 'Minimum trade is {0}. Please re-enter.';
            case 'LimitationExceptionMsg_TradeGameRange':
                return 'Range options can be traded for {0} only.';
-           case 'Exceptions_LimitationException':
-                return 'Your trade order could not be executed at this moment. For any question, please contact us at: <a href="mailto:support@zoomtrader.com">support@zoomtrader.com</a> - referrence ID (TFG9999)';
+           case 'LimitationExceptionMsg_IsExposureLimitation':
+               return 'Due to market conditions, the trade cannot be executed at the moment';
+
+
+            case 'Exceptions_LimitationException_NoLimitation':
+            	return 'Due to market conditions, the trade cannot be executed at the moment.';
+			case 'Exceptions_LimitationException_MaxOpenTradesPerAsset':
+                return ' reference ID (1)';
+            case 'Exceptions_LimitationException_MaxOpenTradesGlobal':
+                return ' reference ID (2)';
+            case 'Exceptions_LimitationException_MaxOpenTradesAmountPerAsset':
+                return ' reference ID (3)';
+            case 'Exceptions_LimitationException_MaxOpenTradesAmount':
+                return ' reference ID (4)';
+            case 'Exceptions_LimitationException_MaxOpenDealsInMinuteInterval':
+                return ' reference ID (5)';
+            case 'Exceptions_LimitationException_MaxTotalExposure':
+                return ' reference ID (6)';
+            case 'Exceptions_LimitationException_MaxTotalExposurePerAsset':
+                return ' reference ID (7)';
+            case 'Exceptions_LimitationException_MaxTotalExposurePerOption':
+                return ' reference ID (8)';
+            case 'Exceptions_LimitationException_MinTradeInterval':
+                return ' reference ID (10)';
+            case 'Exceptions_LimitationException_MaxTradeStopsPerOption':
+                return ' reference ID (11)';
+            case 'Exceptions_LimitationException_MaxRangeOpenTradesPerAsset':
+                return ' reference ID (12)';
+            case 'Exceptions_LimitationException_MaxRangeOpenTradesAmountPerAsset':
+                return ' reference ID (13)';
+            case 'Exceptions_LimitationException_MaxOpenTradesAmountPerOption':
+                return ' reference ID (14)';
+            case 'Exceptions_LimitationException_MaxOpenTradesPerOption':
+                return ' reference ID (15)';
+            case 'Exceptions_LimitationException_MaxTouchOpenTradesPerAsset':
+                return ' reference ID (16)';
+            case 'Exceptions_LimitationException_MaxTouchOpenTradesAmountPerAsset':
+                return ' reference ID (17)';
+            case 'Exceptions_LimitationException_MaxTouchOpenTradesAmountPerOption':
+                return ' reference ID (18)';
+            case 'Exceptions_LimitationException_MaxTouchOpenTradesPerOption':
+                return ' reference ID (19)';
+            case 'Exceptions_LimitationException_MaxPOTradesAmountPerAssetPerInterval':
+                return ' reference ID (20)';
+            case 'Exceptions_LimitationException_MaxPOTradesPerInterval':
+                return ' reference ID (21)';
+            case 'Exceptions_LimitationException_MaxOneTouchOpenTradesAmountPerAsset':
+                return ' reference ID (22)';
+            case 'Exceptions_LimitationException_MaxOneTouchOpenTradesAmountPerOption':
+                return ' reference ID (23)';
+            case 'Exceptions_LimitationException_MaxOneTouchOpenTradesPerAsset':
+                return ' reference ID (24)';
+            case 'Exceptions_LimitationException_MaxOneTouchOpenTradesPerOption':
+                return ' reference ID (25)';
+            case 'Exceptions_LimitationException_MinPOTradeInterval':
+                return ' reference ID (26)';
+            case 'Exceptions_LimitationException_MinValidTradeRange':
+                return ' reference ID (27)';
+            case 'Exceptions_LimitationException_MaxValidTradeRange':
+                return ' reference ID (28)';
+            case 'Exceptions_LimitationException':
+                return 'Your trade order could not be executed at this moment. For any question, please contact us at: <a href="mailto:support@zoomtrader.com">support@zoomtrader.com</a> - reference ID (9999)';
+
            case 'SaveTradeOrder_insufficientBalance':
                 return 'You have insufficient balance to commit this trade';
            case 'SaveTradeOrder_investDisabled':
@@ -228,22 +284,26 @@
                return 'Current Strike';               
            case 'OpenTrades_ExtendTradeTo':
                return 'Extend trade to&nbsp;';
-           case 'DirName_HI': return 'Hi';
-           case 'DirName_LOW':
-           case 'DirName_LO':
-            return 'Low';
+            case 'Processing':
+                return 'Processing...';
+           case 'DirName_HI': return 'High';
+            case 'DirName_LOW':
+            case 'DirName_LO':
+               return 'Low';
            case 'DirName_ChPlus_HI': return 'Call';
            case 'DirName_ChPlus_LO': return 'Put';
-           case 'DirName_INSIDE': case 'DirName_IN':return 'Inside';
-           case 'DirName_OUTSIDE': case 'DirName_OUT':return 'Outside';
-           case 'DirName_UPPER': case 'DirName_UP':return 'Upper';
+            case 'DirName_INSIDE': case 'DirName_IN': return 'Inside';
+            case 'DirName_OUTSIDE': case 'DirName_OUT': return 'Outside';
+            case 'DirName_UPPER': case 'DirName_UP': return 'Upper';
            case 'DirName_LOWER': case 'DirName_DOWN': return 'Lower';
            case 'TradeRoom_OptionsArentAvailable': return '{0} options for {1} are not available for trading at this moment.{2}';
            case 'GameName_TradeDigital': return 'Digital';
            case 'GameName_TradeRange': return 'Range';
            case 'GameName_TradeTouch': return 'Touch';
            case 'GameName_TradeOneTouch': return 'One Touch';
-           case 'GameName_SixtySecs': return '60 Seconds';
+           case 'GameName_TurboBinary': return 'Turbo Binary';
+           case 'GameName_Matrix': return 'Matrix';
+           case 'GameName_Binary100': return 'Binary 100';
            case 'TradeOrder_INSIDE': return 'Inside';
            case 'TradeOrder_NOTOUCH': return 'No Touch';
            case 'TradeOrder_OUTSIDE': return 'Outside';
@@ -254,36 +314,166 @@
            case 'OpenTradesTitle_TradeOneTouch': return 'OneTouch,Order Id : {0}';
            case 'OpenTradesTitle_TradeDigital': return 'Digital,Order Id : {0}';
            case 'OpenTradesTitle_TradeRange': return 'Range,Order Id : {0}';
+           case 'OpenTrades_ExtendTo': return 'Extend To';
            case 'reuters_text': return 'Expiry provided by ';
-           case 'reuters_img': return '/Media/Images/Accounts/' + 230+"/chartBG.png"   ;                       
-           case 'TradeText_Touch' : case 'DirName_TOUCH': return 'Touch';
-           case 'TradeText_NoTouch': case 'DirName_NOTOUCH':  return 'No Touch';          
+            case 'reuters_img': return '/Media/Images/Accounts/' + 230 +"/chartBG.png";
+            case 'TradeText_Touch': case 'DirName_TOUCH': return 'Touch';
+            case 'TradeText_NoTouch': case 'DirName_NOTOUCH': return 'No Touch';
            case 'AssetFiltering_CurrentlyNo': return 'Market options for';
            case 'AssetFiltering_OptionsAreAvailable': return 'are not available for trading at this moment';
            case 'TradeBox_Up': return 'Up';
            case 'TradeBox_Down': return 'Down';
            case 'Deposit_USfilterAlert': return 'Due to regulations, US clients can trade ONLY on stock options. ZoomTrader provides you over 20 stocks from Asia, Europe, and America for you to trade on.';
            case 'Chart_Expiration': return 'Expiration';
+		   case 'Chart_EndInvestment': return 'Time to invest';
+           case 'MilkMessage_LiveChat': return '<a id="contactus_livechat" class="livechat_hook talktous" href="#"></a>';
+           case 'AboutUs_Email_Address': return 'support@{0}';
+           case 'Account_Email_DNS': return 'ZoomTrader.com';
+           case 'OpenTrades_Cancel': return 'Cancel';
+           case 'OpenTrades_Extend': return 'Extend';
+           case 'Register_AdditContact': return 'Additional Contact'; 
+           case 'Registration_Email': return 'E-mail'; 
+           case 'Registration_PleaseChoose': return 'Select'; 
+
+           case 'My_Performance_TradedGames': return 'Traded Games'; 
+           case 'My_Performance_TradedAssets': return 'Traded Assets'; 
+           case 'Trades_Profit': return 'Profit'; 
+           case 'MyOptions_Amount': return 'Amount'; 
+           case 'TurboBinary_ExpiresIn': return 'Expires in'; 
+           case 'My_Performance_Amount': return 'Amount';
+           case 'TurboBinary_min': return 'min';
+           case 'TradingOptionBitURL': return 'trading.optionbit.com';
+           case 'CookieDomain': return '';
+           case 'EnableTranslatedAssets': return 'True';
+           case 'GameName_Multi': return 'Multi';
+           case 'TradeRoom_B100Sell': return 'Sell'; 
+           case 'TradeRoom_B100Buy': return 'Buy'; 
+        	case 'EnableDynamicPayout': return 'False';
+            case 'Close_The_Word': return 'X';
+            case 'EnableTraderTools': return 'True';
            return 'Error:' + key;
                 
         }
     }
 </script>
-
-
-<link href="App_Themes/ZoomTraderSkin/Media/css/jquery.alerts.css" type="text/css" rel="stylesheet"><link href="App_Themes/ZoomTraderSkin/Media/css/main.css" type="text/css" rel="stylesheet"><link href="App_Themes/ZoomTraderSkin/Media/Landing/Css/LandingMaster.css" type="text/css" rel="stylesheet"><meta http-equiv="CACHE-CONTROL" content="NO-CACHE"><meta id="ctl00_MetaTagDescription" name="description" content="ZoomTrader is the world's leading binary options trading platform for make money, easy money, fast income, easy to invest, quick profit and allowing you to trade binary options on currencies, indices, commodities and stocks."><meta id="ctl00_MetaTagKeywords" name="keywords" content="quick profit, make money, easy money, fast income, easy to invest, quick profits, fast incomes, invest to easy"><meta id="ctl00_MetaTagTitle" name="title" content="Make Money, Easy Money, Fast Income, Easy to Invest, Quick Profit by Bull Option"><link href="/Skins/ZoomTraderSkin/Media/CSS/Accounts/230/additional.css" type="text/css" rel="stylesheet"><link href="/Skins/ZoomTraderSkin/Media/CSS/dd-chrome.css" type="text/css" rel="stylesheet"><script language="javascript" type="text/javascript">var Skin='/App_Themes/ZoomTraderSkin';
+<script language="javascript" type="text/javascript">var Skin='/App_Themes/ZoomTraderSkin';
 var BaseSkin='/Skins/ZoomTraderSkin';
 var Theme='XP';
-</script><script language="javascript" type="text/javascript">var ClientTimeOffsetMS = ServerTime.getInstance().GetClientTimeZoneOffset();Set_Cookie("GMTOffset", ClientTimeOffsetMS, "30");var m_CurrentCS = '$';var BLINKING_TIME_OUT = 4000;var BLINKING_TEXT_INTERVAL = 500;var TimeoutBlinkProcess;var OldBalance = 0;var fnMouseDown = fnMouseOut = function(obj, className) {if (!$(obj).hasClass(className)) {$(obj).addClass(className) }  else{ $(obj).removeClass(className)} };function fnMouseUp(obj, className) { fnMouseDown(obj, className);  document.location.replace($(obj).children("a").attr("href"))  }; function fnMouseUpTrade(obj) { document.location.replace($(obj).children("a").attr("href"))};$(document).ready(function () {startClock(); $('.infoTXE').mouseover(function () { $(this).trigger('stop'); }).mouseout(function () { $(this).trigger('start');});});</script></head>
-<body class="browserChrome browserChrome6">
-       
-        <!-- ClickTale Top part -->
-        <script type="text/javascript">
+</script><script language="javascript" type="text/javascript">var ClientTimeOffsetMS = ServerTime.getInstance().GetClientTimeZoneOffset();
+                                        Set_Cookie('GMTOffset', ClientTimeOffsetMS, '30');
+                                        var m_CurrentCS = '$';
+                                        var BLINKING_TIME_OUT = 4000;
+                                        var BLINKING_TEXT_INTERVAL = 500;
+                                        var TimeoutBlinkProcess;
+                                        var OldBalance = 0;
+                                        var sessionName = 'm_session_230';
+                                        accountId = 230;</script><script language="javascript" type="text/javascript">var fnMouseDown = fnMouseOut = function(obj, className) {
+                                                if (!$(obj).hasClass(className)) {
+                                                    $(obj).addClass(className) 
+                                                } else { 
+                                                    $(obj).removeClass(className)} 
+                                                };
+                                        function fnMouseUp(obj, className) { 
+                                            fnMouseDown(obj, className);  
+                                            document.location.replace($(obj).children('a').attr('href'))  
+                                        }; 
+                                        function fnMouseUpTrade(obj) { 
+                                            document.location.replace($(obj).children('a').attr('href'))
+                                        };
+                                        $(document).ready(function () {
+                                            startClock(); 
+                                            $('.infoTXE').mouseover(function () { 
+                                                $(this).trigger('stop'); 
+                                            }).mouseout(function () {
+                                                $(this).trigger('start');
+                                            });
+                                        });</script><link href="App_Themes/ZoomTraderSkin/Media/css/jquery.alerts.css" type="text/css" rel="stylesheet"><link href="App_Themes/ZoomTraderSkin/Media/css/main.css" type="text/css" rel="stylesheet"><link href="App_Themes/ZoomTraderSkin/Media/Landing/Css/LandingMaster.css" type="text/css" rel="stylesheet"><meta http-equiv="Expires" content="-1"><meta http-equiv="Content-type" content="text/html;charset=UTF-8"><meta id="ctl00_MetaTagDescription" name="description" content="ZoomTrader is the world's leading binary options trading platform for make money, easy money, fast income, easy to invest, quick profit and allowing you to trade binary options on currencies, indices, commodities and stocks."><meta id="ctl00_MetaTagKeywords" name="keywords" content="quick profit, make money, easy money, fast income, easy to invest, quick profits, fast incomes, invest to easy"><meta id="ctl00_MetaTagTitle" name="title" content="Binary Options on Zoomtrader, Make Money, Easy Money, Fast Income, Easy to Invest"><link href="/Skins/ZoomTraderSkin/Media/CSS/Accounts/230/additional.css" type="text/css" rel="stylesheet"><link href="/Skins/ZoomTraderSkin/Media/CSS/dd-chrome.css" type="text/css" rel="stylesheet"><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<body class="ltr  browserChrome browserChrome6">
+<script type="text/javascript">
+
+    window.fbAsyncInit = function () {
+        FB.init({
+            appId: ' ', // App ID
+            status: true, // check login status
+            cookie: true, // enable cookies to allow the server to access the session
+            xfbml: true  // parse XFBML
+        });
+
+
+    };
+
+    // Load the SDK Asynchronously
+    (function (d) {
+        var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+        if (d.getElementById(id)) { return; }
+        js = d.createElement('script'); js.id = id; js.async = true;
+        js.src = "//connect.facebook.net/en_US/all.js";
+        ref.parentNode.insertBefore(js, ref);
+    } (document));
+
+    function loginFB() {
+        FB.login(function (response) {
+            if (response.status == "connected") {
+
+                // Do a post to the server to finish the logon
+                // This is a form post since we don't want to use AJAX
+                var form = document.createElement("form");
+                form.setAttribute("method", 'post');
+                form.setAttribute("action", '/Handlers/FacebookHandler.ashx');
+
+                var field = document.createElement("input");
+                field.setAttribute("type", "hidden");
+                field.setAttribute("name", 'accessToken');
+                field.setAttribute("value", response.authResponse.accessToken);
+                form.appendChild(field);
+
+                var field2 = document.createElement("input");
+                field2.setAttribute("type", "hidden");
+                field2.setAttribute("name", 'facebookId');
+                field2.setAttribute("value", response.authResponse.userID);
+                form.appendChild(field2);
+
+                document.body.appendChild(form);
+                form.submit();
+            }
+            else {
+                //not connected
+            }
+        }, { scope: 'user_birthday, email' });
+    }
+
+    function connect() {
+        FB.login(function (response) {
+            if (response.status == "connected") {
+
+                // Do a post to the server to finish the logon
+                // This is a form post since we don't want to use AJAX
+                var form = document.createElement("form");
+                form.setAttribute("method", 'post');
+                form.setAttribute("action", '/Handlers/FacebookHandler.ashx');
+
+                var field2 = document.createElement("input");
+                field2.setAttribute("type", "hidden");
+                field2.setAttribute("name", 'facebookId');
+                field2.setAttribute("value", response.authResponse.userID);
+                form.appendChild(field2);
+
+                document.body.appendChild(form);
+                form.submit();
+            }
+            else {
+                //not connected
+            }
+        });
+    }
+</script>
+<div id="fb-root"></div>
+ 
+<script type="text/javascript">
             var WRInitTime = (new Date()).getTime();
         </script>
-        <!-- ClickTale end of Top part -->
-       
-       <!--[if IE 8]>
+ 
+<!--[if IE 8]>
         <script type="text/javascript">  
             $(document).ready(function() {
                 $('#ctl00_ContentPlaceHolder1_ctl02_CreditCardType').height('25px');
@@ -298,19 +488,69 @@ var Theme='XP';
             });
         </script>
         <![endif]-->
-       
-        <script type="text/javascript">
+<script type="text/javascript">
             $(document).ready(function () {
                 if ($.browser.msie && parseInt($.browser.version, 10) < 8) {
                     $("#divIeUpdate").slideDown();
                 }
             });
         </script>
-    <span id="ctl00_livePersoneCodePlace"></span>
-    <form name="aspnetForm" method="post" action="/privacy-and-security.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTMxODYyODM5Ng9kFgJmD2QWAgICD2QWCAIBD2QWBGYPZBYCZg8QZBAVCQAHRW5nbGlzaAdEZXV0c2NoCUZyYW7Dp2FpcwpQb3J0dWd1w6pzCEVzcGHDsW9sDtCg0YPRgdGB0LrQuNC5BlBvbHNraQAVCQItMQJlbgJkZQJmcgJwdAJlcwJydQJwbAItMhQrAwlnZ2dnZ2dnZ2dkZAIBD2QWAmYPEGQQFQkAB0VuZ2xpc2gHRGV1dHNjaAlGcmFuw6dhaXMKUG9ydHVndcOqcwhFc3Bhw7FvbA7QoNGD0YHRgdC60LjQuQZQb2xza2kAFQkCLTECZW4CZGUCZnICcHQCZXMCcnUCcGwCLTIUKwMJZ2dnZ2dnZ2dnZGQCAg9kFgICAw9kFgJmDxBkEBUJAAdFbmdsaXNoB0RldXRzY2gJRnJhbsOnYWlzClBvcnR1Z3XDqnMIRXNwYcOxb2wO0KDRg9GB0YHQutC40LkGUG9sc2tpABUJAi0xAmVuAmRlAmZyAnB0AmVzAnJ1AnBsAi0yFCsDCWdnZ2dnZ2dnZ2RkAgMPZBYEAgEPZBYCZg8QZBAVCQAHRW5nbGlzaAdEZXV0c2NoCUZyYW7Dp2FpcwpQb3J0dWd1w6pzCEVzcGHDsW9sDtCg0YPRgdGB0LrQuNC5BlBvbHNraQAVCQItMQJlbgJkZQJmcgJwdAJlcwJydQJwbAItMhQrAwlnZ2dnZ2dnZ2dkZAIDD2QWAmYPEGQQFQkAB0VuZ2xpc2gHRGV1dHNjaAlGcmFuw6dhaXMKUG9ydHVndcOqcwhFc3Bhw7FvbA7QoNGD0YHRgdC60LjQuQZQb2xza2kAFQkCLTECZW4CZGUCZnICcHQCZXMCcnUCcGwCLTIUKwMJZ2dnZ2dnZ2dnZGQCBg9kFgJmD2QWAmYPDxYCHghJbWFnZVVybAVIL0FwcF9UaGVtZXMvWm9vbVRyYWRlclNraW4vbWVkaWEvaW1hZ2VzL2FjY291bnRzLzIzMC9hc3NldF9pbmRleF9pbWcuanBnZGRkcCSGqKVIy9W49Lx+y88Sn8oc0is=">
-
+<span id="ctl00_livePersoneCodePlace">
 <script type="text/javascript">
+
+            $(document).ready(function() {
+  
+
+                // BEGIN LivePerson Monitor.
+                window.lpTag = { site: '20003090', _v: '1.1', protocol: location.protocol, events: { bind: function (app, ev, fn) { lpTag.defer(function () { lpTag.events.bind(app, ev, fn); }); }, trigger: function (app, ev, json) { lpTag.defer(function () { lpTag.events.trigger(app, ev, json); }); } }, defer: function (fn) { this._defL = this._defL || []; this._defL.push(fn); }, load: function (src, chr, id) { var t = this; setTimeout(function () { t._load(src, chr, id); }, 0); }, _load: function (src, chr, id) { var url = src; if (!src) { url = this.protocol + '//' + ((this.ovr && this.ovr.domain) ? this.ovr.domain : 'lptag.liveperson.net') + '/tag/tag.js?site=' + this.site; } var s = document.createElement('script'); s.setAttribute('charset', chr ? chr : 'UTF-8'); if (id) { s.setAttribute('id', id); } s.setAttribute('src', url); document.getElementsByTagName('head').item(0).appendChild(s); }, init: function () { this._timing = this._timing || {}; this._timing.start = (new Date()).getTime(); var that = this; if (window.attachEvent) { window.attachEvent('onload', function () { that._domReady('domReady'); }); } else { window.addEventListener('DOMContentLoaded', function () { that._domReady('contReady'); }, false); window.addEventListener('load', function () { that._domReady('domReady'); }, false); } if (typeof (window._lptStop) == 'undefined') { this.load(); } }, _domReady: function (n) { if (!this.isDom) { this.isDom = true; this.events.trigger('LPT', 'DOM_READY', { t: n }); } this._timing[n] = (new Date()).getTime(); } }; lpTag.init();
+                // END LivePerson Monitor.
+        
+             
+
+            // BEGIN Monitor Tracking Variables
+        
+                if (typeof (lpMTagConfig) == 'undefined') { lpMTagConfig = {}; }
+                if (typeof (lpMTagConfig.sessionVar) == "undefined") { lpMTagConfig.sessionVar = []; }
+                if (typeof (lpMTagConfig.pageVar) == "undefined") { lpMTagConfig.pageVar = []; }
+                lpMTagConfig.pageVar[lpMTagConfig.pageVar.length] = 'UserID=NA';
+                
+                
+                
+                
+                lpMTagConfig.pageVar[lpMTagConfig.pageVar.length] = 'DepositLimit=NA';
+                
+                
+                lpMTagConfig.pageVar[lpMTagConfig.pageVar.length] = 'AgentName=NA';
+                lpMTagConfig.pageVar[lpMTagConfig.pageVar.length] = 'Advertiser=NA';
+                                  
+             
+             });
+
+             // End Monitor Tracking Variables
+         
+                 </script>
+</span>
+<form method="post" action="privacy-and-security.aspx" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNTc2MDM1ODUxD2QWAmYPZBYEZg9kFgICBg8WAh4EaHJlZgUzaHR0cDovL3d3dy56b29tdHJhZGVyLmNvbS9wcml2YWN5LWFuZC1zZWN1cml0eS5hc3B4ZAIFD2QWCgIDD2QWBGYPZBYCZg8QZBAVEQAHRW5nbGlzaAdEZXV0c2NoCUZyYW7Dp2FpcwpQb3J0dWd1w6pzCEVzcGHDsW9sDtCg0YPRgdGB0LrQuNC5BlBvbHNraQogSXRhbGlhbm8gDtin2YTYudix2KjZitipCe2VnOq1reyWtAhUw7xya8OnZQbkuK3mlocFRHV0Y2gJ5pel5pys6KqeB1N2ZW5za2EAFRECLTECZW4CZGUCZnICcHQCZXMCcnUCcGwCaXQCYXICa28CdHICemgCbmwCamECc3YCLTIUKwMRZ2dnZ2dnZ2dnZ2dnZ2dnZ2dkZAIBD2QWAmYPEGQQFREAB0VuZ2xpc2gHRGV1dHNjaAlGcmFuw6dhaXMKUG9ydHVndcOqcwhFc3Bhw7FvbA7QoNGD0YHRgdC60LjQuQZQb2xza2kKIEl0YWxpYW5vIA7Yp9mE2LnYsdio2YrYqQntlZzqta3slrQIVMO8cmvDp2UG5Lit5paHBUR1dGNoCeaXpeacrOiqngdTdmVuc2thABURAi0xAmVuAmRlAmZyAnB0AmVzAnJ1AnBsAml0AmFyAmtvAnRyAnpoAm5sAmphAnN2Ai0yFCsDEWdnZ2dnZ2dnZ2dnZ2dnZ2dnZGQCBA9kFgJmD2QWAmYPEGQQFREAB0VuZ2xpc2gHRGV1dHNjaAlGcmFuw6dhaXMKUG9ydHVndcOqcwhFc3Bhw7FvbA7QoNGD0YHRgdC60LjQuQZQb2xza2kKIEl0YWxpYW5vIA7Yp9mE2LnYsdio2YrYqQntlZzqta3slrQIVMO8cmvDp2UG5Lit5paHBUR1dGNoCeaXpeacrOiqngdTdmVuc2thABURAi0xAmVuAmRlAmZyAnB0AmVzAnJ1AnBsAml0AmFyAmtvAnRyAnpoAm5sAmphAnN2Ai0yFCsDEWdnZ2dnZ2dnZ2dnZ2dnZ2dnZGQCBQ9kFgRmD2QWAmYPEGQQFREAB0VuZ2xpc2gHRGV1dHNjaAlGcmFuw6dhaXMKUG9ydHVndcOqcwhFc3Bhw7FvbA7QoNGD0YHRgdC60LjQuQZQb2xza2kKIEl0YWxpYW5vIA7Yp9mE2LnYsdio2YrYqQntlZzqta3slrQIVMO8cmvDp2UG5Lit5paHBUR1dGNoCeaXpeacrOiqngdTdmVuc2thABURAi0xAmVuAmRlAmZyAnB0AmVzAnJ1AnBsAml0AmFyAmtvAnRyAnpoAm5sAmphAnN2Ai0yFCsDEWdnZ2dnZ2dnZ2dnZ2dnZ2dnZGQCAQ9kFgJmDxBkEBURAAdFbmdsaXNoB0RldXRzY2gJRnJhbsOnYWlzClBvcnR1Z3XDqnMIRXNwYcOxb2wO0KDRg9GB0YHQutC40LkGUG9sc2tpCiBJdGFsaWFubyAO2KfZhNi52LHYqNmK2KkJ7ZWc6rWt7Ja0CFTDvHJrw6dlBuS4reaWhwVEdXRjaAnml6XmnKzoqp4HU3ZlbnNrYQAVEQItMQJlbgJkZQJmcgJwdAJlcwJydQJwbAJpdAJhcgJrbwJ0cgJ6aAJubAJqYQJzdgItMhQrAxFnZ2dnZ2dnZ2dnZ2dnZ2dnZ2RkAgYPZBYCAgMPZBYCZg8QZBAVEQAHRW5nbGlzaAdEZXV0c2NoCUZyYW7Dp2FpcwpQb3J0dWd1w6pzCEVzcGHDsW9sDtCg0YPRgdGB0LrQuNC5BlBvbHNraQogSXRhbGlhbm8gDtin2YTYudix2KjZitipCe2VnOq1reyWtAhUw7xya8OnZQbkuK3mlocFRHV0Y2gJ5pel5pys6KqeB1N2ZW5za2EAFRECLTECZW4CZGUCZnICcHQCZXMCcnUCcGwCaXQCYXICa28CdHICemgCbmwCamECc3YCLTIUKwMRZ2dnZ2dnZ2dnZ2dnZ2dnZ2dkZAIHD2QWBAIBD2QWAmYPEGQQFREAB0VuZ2xpc2gHRGV1dHNjaAlGcmFuw6dhaXMKUG9ydHVndcOqcwhFc3Bhw7FvbA7QoNGD0YHRgdC60LjQuQZQb2xza2kKIEl0YWxpYW5vIA7Yp9mE2LnYsdio2YrYqQntlZzqta3slrQIVMO8cmvDp2UG5Lit5paHBUR1dGNoCeaXpeacrOiqngdTdmVuc2thABURAi0xAmVuAmRlAmZyAnB0AmVzAnJ1AnBsAml0AmFyAmtvAnRyAnpoAm5sAmphAnN2Ai0yFCsDEWdnZ2dnZ2dnZ2dnZ2dnZ2dnZGQCAw9kFgJmDxBkEBURAAdFbmdsaXNoB0RldXRzY2gJRnJhbsOnYWlzClBvcnR1Z3XDqnMIRXNwYcOxb2wO0KDRg9GB0YHQutC40LkGUG9sc2tpCiBJdGFsaWFubyAO2KfZhNi52LHYqNmK2KkJ7ZWc6rWt7Ja0CFTDvHJrw6dlBuS4reaWhwVEdXRjaAnml6XmnKzoqp4HU3ZlbnNrYQAVEQItMQJlbgJkZQJmcgJwdAJlcwJydQJwbAJpdAJhcgJrbwJ0cgJ6aAJubAJqYQJzdgItMhQrAxFnZ2dnZ2dnZ2dnZ2dnZ2dnZ2RkZP+vchWe2IdTVnxdKOcTdpBEpQsW1/HzNz9niehRJIzT">
+</div>
+ 
+ 
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 991067198;
+var google_conversion_label = "w4AkCML5twQQvvjJ2AM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/991067198/?value=0&label=w4AkCML5twQQvvjJ2AM&guid=ON&script=0"/>
+</div>
+</noscript><script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-32773293-1']);
@@ -322,125 +562,134 @@ var Theme='XP';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
+</script><script type="text/javascript">
+adroll_adv_id = "TRKTLP2WMZBODCE6XSVLQ2";
+adroll_pix_id = "MWMF7XFYKFBK5PNJQIX6Y5";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script><script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0020/7278.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCgKVjKGJBgKU07S8AgKs0+C+AgKr08S+AgKt07C+AgLH04i+AgKs04y+AgLZ04S+AgLH0+i+AgKU07C8AtH147cQjIxgDU1vCtmqXiHuDyyy">
-        <div id="divIeUpdate" style="display:none; border: 1px dashed #000000;">
-            <b>Did you know that your Internet Explorer is out of date?</b>
-            <br>
-            To get the best possible experience using our site we recommend that you upgrade to a modern web browser. Download a newer version <a target="_blank" href="http://www.microsoft.com/windows/internet-explorer">here</a>.
-            <br>
-        </div>  
-        <center>
-            <div class="wrap "> <!-- Ljupcho 24092012: AccountID is used to get Binary88 -->
-                <div class="baseContentTable MainSize" id="MainContentTable">
-                            
-                             <center class="bgHeader"><table class="headerTable1" cellspacing="0px" cellpadding="0px">
-                            <tbody><tr>
-                                <td>
-                                    <table class="headerTable2" cellpadding="0px" cellspacing="0px">
-                                        <tbody><tr>
-                                            <td valign="top" class="logoTD" align="left">
-                                                <!-- LOGO -->
-                                                <a href="http://www.zoomtrader.com/">
-                                                     <span class="logoPlace" title="ZoomTrader"></span></a>
-                                                    
-                                                <!-- LOGO -->
-                                               
-                                            </td>
-                                            <td align="center" valign="bottom">
-                                                
-                                            </td>
-
-                                            <td valign="middle" align="right">
-                                                <!-- LOG-IN USER BLOCK START -->
-                                                
-            <table class="loginBlockTable" cellpadding="0" cellspacing="0">
-                
-                <tbody><tr class="userData1R UserdetailsBarBG">
-                    
-                    <td class="userDetailsTDBorder">
-                        
-                            <table class="usernameTable" cellpadding="0px" cellspacing="0px">
-                                <tbody><tr>
-                                    
-                                    <td valign="top" class="userdataborders">
-                                        <img src="/Skins/ZoomTraderSkin/media/images/header_text_box_left.gif">
-                                    </td>
-                                    
-                                    <td align="center" class="HeaderTextBoxCenterTd" nowrap="nowrap">
-                                        <input type="text" id="userName" onkeypress="return clickButton(event,'loginBTN')" class="headerEmailPassword">
-                                        <input id="userName-text" type="text" value="Email" t="Email" class="headerStandartEmailPassword">
-                                    </td>
-                                    
-                                    <td class="userdataborders" valign="top">
-                                        <img src="/Skins/ZoomTraderSkin/media/images/header_text_box_right.gif">
-                                    </td>
-                                    
-                                </tr>
-                            </tbody></table>
-                       
-                    </td>
-                    <td class="userDetailsTDBorder">
-                        <div style="margin-left: 0px">
-                            <table class="passwordInputTable" cellpadding="0px" cellspacing="0px">
-                                <tbody><tr>
-                                    
-                                    <td valign="top" class="userdataborders">
-                                        <img src="/Skins/ZoomTraderSkin/media/images/header_text_box_left.gif">
-                                    </td>
-                                    
-                                    <td align="center" class="HeaderTextBoxCenterTd" nowrap="nowrap">
-                                     
-                                        <input type="password" id="Password" onkeypress="clickButton(event,'loginBTN')" class="headerEmailPassword">
-                                        <input id="pass-text" type="text" value="Password" t="Password" class="headerStandartEmailPassword ">
-                                        
-
-                                        <script language="javascript" type="text/javascript">                                            applyLoginFieldsEffect();</script>
-
-                                    </td>
-                                    
-                                    <td class="userdataborders" valign="top">
-                                        <img src="/Skins/ZoomTraderSkin/media/images/header_text_box_right.gif">
-                                    </td>
-                                    
-                                </tr>
-                            </tbody></table>
-                        </div>
-                        
-                    </td>
-                    <td align="left" class="loginTD">
-                        
-                            <img name="login" src="/App_Themes/ZoomTraderSkin/media/images/login.gif" onmouseover="this.src='/App_Themes/ZoomTraderSkin/media/images/login_over.gif';" onmouseout="this.src='/App_Themes/ZoomTraderSkin/media/images/login.gif';" style="cursor: pointer;" onkeypress="return clickButton(event,'loginBTN')" onclick="AuthUser();" id="loginBTN">  
-                          
-                    </td>
-                    
-                    <td nowrap="nowrap" align="left">
-                        <a href="https://www.zoomtrader.com/registration.aspx" class="forgetTXT openAccountLink colorWight">
-                            Create new account</a><br>
-                        <a href="https://www.zoomtrader.com/forgot-password.aspx" class="blockPosition openAccountLink forgetTXT colorBlue">
-                            Forgot Password?</a>
-                    </td>
-                    
-                    <td align="right" class="loginLangTD">
-                            <div class="ddOutOfVision" style="height:0px;overflow:hidden;position:absolute;" id="ctl00_UserData1_LanguageIDDPlace_LangDDL_msddHolder"><select name="ctl00$UserData1$LanguageIDDPlace$LangDDL" id="ctl00_UserData1_LanguageIDDPlace_LangDDL" onchange="fnChange()">
-	<option value="-1"></option>
-	<option selected="selected" value="en" title="/Skins/ZoomTraderSkin/Media/Images/Flags/us.gif">English</option>
-	<option value="de" title="/Skins/ZoomTraderSkin/Media/Images/Flags/Deutsch.gif">Deutsch</option>
-	<option value="fr" title="/Skins/ZoomTraderSkin/Media/Images/Flags/French.gif">Français</option>
-	<option value="pt" title="/Skins/ZoomTraderSkin/Media/Images/Flags/Portugese.gif">Português</option>
-	<option value="es" title="/Skins/ZoomTraderSkin/Media/Images/Flags/Spanish.gif">Español</option>
-	<option value="ru" title="/Skins/ZoomTraderSkin/Media/Images/Flags/Russian.gif">Русский</option>
-	<option value="pl" title="/Skins/ZoomTraderSkin/Media/Images/Flags/Polish.gif">Polski</option>
-	<option value="-2"></option>
-
-</select></div><div id="ctl00_UserData1_LanguageIDDPlace_LangDDL_msdd" class="landDD" style="width: 145px;"><div id="ctl00_UserData1_LanguageIDDPlace_LangDDL_title" class="ddTitle"><span id="ctl00_UserData1_LanguageIDDPlace_LangDDL_arrow" class="arrow"></span><span class="ddTitleText" id="ctl00_UserData1_LanguageIDDPlace_LangDDL_titletext"><img src="/Skins/ZoomTraderSkin/Media/Images/Flags/us.gif" align="absmiddle"> <span class="ddTitleText">English</span></span></div><div id="ctl00_UserData1_LanguageIDDPlace_LangDDL_child" class="ddChild" style="width: 143px; height: 157px;"><div class="first"></div><a href="javascript:void(0);" class="selected enabled" id="ctl00_UserData1_LanguageIDDPlace_LangDDL_msa_1"><img src="/Skins/ZoomTraderSkin/Media/Images/Flags/us.gif" align="absmiddle"> <span class="ddTitleText">English</span></a><a href="javascript:void(0);" class="enabled" id="ctl00_UserData1_LanguageIDDPlace_LangDDL_msa_2"><img src="/Skins/ZoomTraderSkin/Media/Images/Flags/Deutsch.gif" align="absmiddle"> <span class="ddTitleText">Deutsch</span></a><a href="javascript:void(0);" class="enabled" id="ctl00_UserData1_LanguageIDDPlace_LangDDL_msa_3"><img src="/Skins/ZoomTraderSkin/Media/Images/Flags/French.gif" align="absmiddle"> <span class="ddTitleText">Français</span></a><a href="javascript:void(0);" class="enabled" id="ctl00_UserData1_LanguageIDDPlace_LangDDL_msa_4"><img src="/Skins/ZoomTraderSkin/Media/Images/Flags/Portugese.gif" align="absmiddle"> <span class="ddTitleText">Português</span></a><a href="javascript:void(0);" class="enabled" id="ctl00_UserData1_LanguageIDDPlace_LangDDL_msa_5"><img src="/Skins/ZoomTraderSkin/Media/Images/Flags/Spanish.gif" align="absmiddle"> <span class="ddTitleText">Español</span></a><a href="javascript:void(0);" class="enabled" id="ctl00_UserData1_LanguageIDDPlace_LangDDL_msa_6"><img src="/Skins/ZoomTraderSkin/Media/Images/Flags/Russian.gif" align="absmiddle"> <span class="ddTitleText">Русский</span></a><a href="javascript:void(0);" class="enabled" id="ctl00_UserData1_LanguageIDDPlace_LangDDL_msa_7"><img src="/Skins/ZoomTraderSkin/Media/Images/Flags/Polish.gif" align="absmiddle"> <span class="ddTitleText">Polski</span></a><div class="last"></div></div></div>
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdABIuuIgiYjJFRH4vRZKknJ49GOyyV/YfYTHghGuAoU3Gb2K6fIJB9ZxUkahGSfnGD1iQP0nU7cwXZXpikAp1R9j3KuNIAfmBVYme24VWwLcAADFWBOzX4VTq77fhI3t6pFdc100RXB0Vub6r9jqLSJwI4UtUhFmz5H2yCDk1RUPARneOD+LAe1I6GOc/5vNKnSZEnubybycaF2wQhFTw3/P6w5mx4RduTcleUO5QzSLheDvxeC2VrN1uS3/8SQLKnREkn3P2eKsnMjBqmMuWAfohKw20dZHZeLD3lE3F42DDFan/BvZVMgnRvBolijYjYK6NjfFvUK+7s3MWFNS1eYWG1f83pMWy4qa8aSMiHUpLa1Vz/HYKlL6gDOKoFD2JNJGfICpyfHh96Rhq07pf6AuuDDE8rZuU/xuEZQS1V4uqqQ==">
+</div>
+<div id="pixelDiv" style="display:none;">
+</div>
+<div id="divIeUpdate" style="display:none; border: 1px dashed #000000;">
+<b>Did you know that your Internet Explorer is out of date?</b>
+<br>
+To get the best possible experience using our site we recommend that you upgrade to a modern web browser. Download a newer version <a target="_blank" href="http://www.microsoft.com/windows/internet-explorer">here</a>.
+<br>
+</div>
+<center>
+<div class="wrap ">
+<div class="baseContentTable MainSize" id="MainContentTable">
+<center class="bgHeader"><table class="headerTable1" cellspacing="0px" cellpadding="0px">
+<tbody><tr>
+<td>
+<table class="headerTable2" cellpadding="0px" cellspacing="0px">
+<tbody><tr>
+<td valign="top" class="logoTD" align="left">
+ 
+<a href="http://www.zoomtrader.com/">
+<span class="logoPlace" title="ZoomTrader"></span>
+</a>
+ 
+</td>
+<td align="center" valign="bottom">
+</td>
+<td valign="middle" align="right">
+ 
+<table class="loginBlockTable" cellpadding="0" cellspacing="0">
+<tbody><tr class="userData1R UserdetailsBarBG">
+<td class="userDetailsTDBorder">
+<table class="usernameTable" cellpadding="0px" cellspacing="0px">
+<tbody><tr>
+<td valign="top" class="userdataborders">
+<img src="/Skins/ZoomTraderSkin/media/images/header_text_box_left.gif">
+</td>
+<td align="center" class="HeaderTextBoxCenterTd" nowrap="nowrap">
+<input type="text" id="userName" onkeypress="return clickButton(event,'loginBTN')" class="headerEmailPassword" tabindex="20">
+<input id="userName-text" type="text" value="Email" t="Email" class="headerStandartEmailPassword" tabindex="21">
+</td>
+<td class="userdataborders" valign="top">
+<img src="/Skins/ZoomTraderSkin/media/images/header_text_box_right.gif">
+</td>
+</tr>
+</tbody></table>
+</td>
+<td class="userDetailsTDBorder">
+<div style="margin-left: 0px">
+<table class="passwordInputTable" cellpadding="0px" cellspacing="0px">
+<tbody><tr>
+<td valign="top" class="userdataborders">
+<img src="/Skins/ZoomTraderSkin/media/images/header_text_box_left.gif">
+</td>
+<td align="center" class="HeaderTextBoxCenterTd" nowrap="nowrap">
+<input type="password" id="Password" onkeypress="clickButton(event,'loginBTN')" class="headerEmailPassword" tabindex="20">
+<input id="pass-text" type="text" value="Password" t="Password" class="headerStandartEmailPassword" tabindex="21">
+<script language="javascript" type="text/javascript">                                            applyLoginFieldsEffect();</script>
+</td>
+<td class="userdataborders" valign="top">
+<img src="/Skins/ZoomTraderSkin/media/images/header_text_box_right.gif">
+</td>
+</tr>
+</tbody></table>
+</div>
+</td>
+<td align="left" class="loginTD">
+<img name="login" src="/App_Themes/ZoomTraderSkin/media/images/login.gif" onmouseover="this.src='/App_Themes/ZoomTraderSkin/media/images/login_over.gif';" onmouseout="this.src='/App_Themes/ZoomTraderSkin/media/images/login.gif';" style="cursor: pointer;" onkeypress="return clickButton(event,'loginBTN')" onclick="AuthUser();" id="loginBTN">
+</td>
+<td nowrap="nowrap" align="left">
+<a href="https://www.zoomtrader.com/registration.aspx" class="forgetTXT openAccountLink colorWight">
+Create new account</a><br>
+<a href="https://www.zoomtrader.com/forgot-password.aspx" class="blockPosition openAccountLink forgetTXT colorBlue">
+Forgot Password?</a>
+</td>
+<td align="right" class="loginLangTD">
+<div class="ddOutOfVision" style="height:0px;overflow:hidden;position:absolute;" id="ctl00_UserData1_LanguageIDDPlace_LangDDL_msddHolder"><select name="ctl00$UserData1$LanguageIDDPlace$LangDDL" id="ctl00_UserData1_LanguageIDDPlace_LangDDL" onchange="fnChange()" style="width:139px;">
+<option value="-1"></option>
+<option selected="selected" value="en" title="/Skins/ZoomTraderSkin/Media/Images/Flags/us.gif">English</option>
+<option value="de" title="/Skins/ZoomTraderSkin/Media/Images/Flags/Deutsch.gif">Deutsch</option>
+<option value="fr" title="/Skins/ZoomTraderSkin/Media/Images/Flags/French.gif">Français</option>
+<option value="pt" title="/Skins/ZoomTraderSkin/Media/Images/Flags/Portuguese.gif">Português</option>
+<option value="es" title="/Skins/ZoomTraderSkin/Media/Images/Flags/Spanish.gif">Español</option>
+<option value="ru" title="/Skins/ZoomTraderSkin/Media/Images/Flags/Russian.gif">Русский</option>
+<option value="pl" title="/Skins/ZoomTraderSkin/Media/Images/Flags/Polish.gif">Polski</option>
+<option value="it" title="/Skins/ZoomTraderSkin/Media/Images/Flags/Italian.gif"> Italiano </option>
+<option value="ar" title="/Skins/ZoomTraderSkin/Media/Images/Flags/Arabic.gif">العربية</option>
+<option value="ko" title="/Skins/ZoomTraderSkin/Media/Images/Flags/Korean.gif">한국어</option>
+<option value="tr" title="/Skins/ZoomTraderSkin/Media/Images/Flags/Turkish.gif">Türkçe</option>
+<option value="zh" title="/Skins/ZoomTraderSkin/Media/Images/Flags/Chinese.gif">中文</option>
+<option value="nl" title="/Skins/ZoomTraderSkin/Media/Images/Flags/Dutch (Netherlands).gif">Dutch</option>
+<option value="ja" title="/Skins/ZoomTraderSkin/Media/Images/Flags/Japanese.gif">日本語</option>
+<option value="sv" title="/Skins/ZoomTraderSkin/Media/Images/Flags/Swedish.gif">Svenska</option>
+<option value="-2"></option>
+</select></div><div id="ctl00_UserData1_LanguageIDDPlace_LangDDL_msdd" class="landDD" style="width: 145px;"><div id="ctl00_UserData1_LanguageIDDPlace_LangDDL_title" class="ddTitle"><span id="ctl00_UserData1_LanguageIDDPlace_LangDDL_arrow" class="arrow"></span><span class="ddTitleText" id="ctl00_UserData1_LanguageIDDPlace_LangDDL_titletext"><img src="/Skins/ZoomTraderSkin/Media/Images/Flags/us.gif" align="absmiddle"> <span class="ddTitleText">English</span></span></div><div id="ctl00_UserData1_LanguageIDDPlace_LangDDL_child" class="ddChild" style="width: 143px; height: 157px;"><a href="javascript:void(0);" class="enabled" id="ctl00_UserData1_LanguageIDDPlace_LangDDL_msa_0"><span class="ddTitleText"></span></a><a href="javascript:void(0);" class="selected enabled" id="ctl00_UserData1_LanguageIDDPlace_LangDDL_msa_1"><img src="/Skins/ZoomTraderSkin/Media/Images/Flags/us.gif" align="absmiddle"> <span class="ddTitleText">English</span></a><a href="javascript:void(0);" class="enabled" id="ctl00_UserData1_LanguageIDDPlace_LangDDL_msa_2"><img src="/Skins/ZoomTraderSkin/Media/Images/Flags/Deutsch.gif" align="absmiddle"> <span class="ddTitleText">Deutsch</span></a><a href="javascript:void(0);" class="enabled" id="ctl00_UserData1_LanguageIDDPlace_LangDDL_msa_3"><img src="/Skins/ZoomTraderSkin/Media/Images/Flags/French.gif" align="absmiddle"> <span class="ddTitleText">Français</span></a><a href="javascript:void(0);" class="enabled" id="ctl00_UserData1_LanguageIDDPlace_LangDDL_msa_4"><img src="/Skins/ZoomTraderSkin/Media/Images/Flags/Portuguese.gif" align="absmiddle"> <span class="ddTitleText">Português</span></a><a href="javascript:void(0);" class="enabled" id="ctl00_UserData1_LanguageIDDPlace_LangDDL_msa_5"><img src="/Skins/ZoomTraderSkin/Media/Images/Flags/Spanish.gif" align="absmiddle"> <span class="ddTitleText">Español</span></a><a href="javascript:void(0);" class="enabled" id="ctl00_UserData1_LanguageIDDPlace_LangDDL_msa_6"><img src="/Skins/ZoomTraderSkin/Media/Images/Flags/Russian.gif" align="absmiddle"> <span class="ddTitleText">Русский</span></a><a href="javascript:void(0);" class="enabled" id="ctl00_UserData1_LanguageIDDPlace_LangDDL_msa_7"><img src="/Skins/ZoomTraderSkin/Media/Images/Flags/Polish.gif" align="absmiddle"> <span class="ddTitleText">Polski</span></a><a href="javascript:void(0);" class="enabled" id="ctl00_UserData1_LanguageIDDPlace_LangDDL_msa_8"><img src="/Skins/ZoomTraderSkin/Media/Images/Flags/Italian.gif" align="absmiddle"> <span class="ddTitleText"> Italiano </span></a><a href="javascript:void(0);" class="enabled" id="ctl00_UserData1_LanguageIDDPlace_LangDDL_msa_9"><img src="/Skins/ZoomTraderSkin/Media/Images/Flags/Arabic.gif" align="absmiddle"> <span class="ddTitleText">العربية</span></a><a href="javascript:void(0);" class="enabled" id="ctl00_UserData1_LanguageIDDPlace_LangDDL_msa_10"><img src="/Skins/ZoomTraderSkin/Media/Images/Flags/Korean.gif" align="absmiddle"> <span class="ddTitleText">한국어</span></a><a href="javascript:void(0);" class="enabled" id="ctl00_UserData1_LanguageIDDPlace_LangDDL_msa_11"><img src="/Skins/ZoomTraderSkin/Media/Images/Flags/Turkish.gif" align="absmiddle"> <span class="ddTitleText">Türkçe</span></a><a href="javascript:void(0);" class="enabled" id="ctl00_UserData1_LanguageIDDPlace_LangDDL_msa_12"><img src="/Skins/ZoomTraderSkin/Media/Images/Flags/Chinese.gif" align="absmiddle"> <span class="ddTitleText">中文</span></a><a href="javascript:void(0);" class="enabled" id="ctl00_UserData1_LanguageIDDPlace_LangDDL_msa_13"><img src="/Skins/ZoomTraderSkin/Media/Images/Flags/Dutch (Netherlands).gif" align="absmiddle"> <span class="ddTitleText">Dutch</span></a><a href="javascript:void(0);" class="enabled" id="ctl00_UserData1_LanguageIDDPlace_LangDDL_msa_14"><img src="/Skins/ZoomTraderSkin/Media/Images/Flags/Japanese.gif" align="absmiddle"> <span class="ddTitleText">日本語</span></a><a href="javascript:void(0);" class="enabled" id="ctl00_UserData1_LanguageIDDPlace_LangDDL_msa_15"><img src="/Skins/ZoomTraderSkin/Media/Images/Flags/Swedish.gif" align="absmiddle"> <span class="ddTitleText">Svenska</span></a><a href="javascript:void(0);" class="enabled" id="ctl00_UserData1_LanguageIDDPlace_LangDDL_msa_16"><span class="ddTitleText"></span></a></div></div>
+<script type="text/javascript">
+        function fnUpdateUserLanguageinDB(langCode) { }
+    </script>
 <script type="text/javascript">
       var isShowIcon =!(Skin.toLowerCase().indexOf("opshomskin")>-1)
       var langDD = $("select[id*=LangDDL]").msDropDown({ mainCSS: "landDD", height: 300, showIcon: isShowIcon,width:145 }).data("dd");  
        
      $(document).ready(function(){ 
-       $(".ddChild").children("a:first").replaceWith( "<div class='first'></div>" );
-       $(".ddChild").children("a:last").replaceWith( "<div class='last'></div>" );
+       $(".ddChild").children("a:first-child").replaceWith( "<div class='first'></div>" );
+       $(".ddChild").children("a:last-child").replaceWith( "<div class='last'></div>" );
        
 //      this is causin error in IE8
 //
@@ -476,22 +725,15 @@ var Theme='XP';
         if (id < 0) return;
 		switchLanguage(id);
 		*/
+        fnUpdateUserLanguageinDB(langDD.item([langDD.get(["selectedIndex"])]).value);
 		switchLanguageCode(langDD.item([langDD.get(["selectedIndex"])]).value);
-    }
+        
+    }    
 </script>
-
-                      </td>
-                    
-                </tr>
-                
-                
-                
-                
-                
-                
-            </tbody></table>
-
-            <script language="javascript">
+</td>
+</tr>
+</tbody></table>
+<script language="javascript">
 
     function AuthUser() 
     {
@@ -508,27 +750,41 @@ var Theme='XP';
                 
             else if (result != "")
             {     
-                  
-                  if(Skin.toLowerCase().indexOf("ezbinaryskin")>-1)  //task 1643 
-                   Delete_Cookie("tbv1","/",window.location.hostname);
+                if (result.tl != undefined) {
+                    if (result.tl == 0) {
+                        ShowMsgbox('User has been locked. Account will be unlocked in less than 1 minute.', result.tl);
+                    }
+                    else {
+                        ShowMsgbox('User has been locked. Account will be unlocked in {0} minutes.'.replace('{0}', result.tl));
+                    }
+                }
+                else {
+                    if (Skin.toLowerCase().indexOf("ezbinaryskin") > -1)  //task 1643 
+                        Delete_Cookie("tbv1", "/", window.location.hostname);
+
+                    var sessionDate = new Date();
+                    m_session = result.s;
+                    var daysLeft = result.t;
+                    var convertedFromLead = result.c;
+
+                    Set_Cookie("m_session", m_session, sessionDate.setMinutes(sessionDate.getMinutes() + 30));
+                    if ($('#userName').length > 0) {
+                        Set_Cookie("userEmail", document.getElementById("userName").value, "365", "/", "", "");
+                    }
 
 
-                var sessionDate = new Date();             
-                m_session = result.s;
-                var daysLeft = result.t;
-                
-                Set_Cookie("m_session", m_session, sessionDate.setMinutes(sessionDate.getMinutes() + 30));
-                Set_Cookie("userEmail", document.getElementById("userName").value, "365", "/", "", "");   
-                
-                
-                
-                if(daysLeft == 0) //TimeEnded
-                      {location.href = 'https://www.zoomtrader.com/deposit.aspx';} 
+                    if (convertedFromLead == true || convertedFromLead == 'True') {
+
+                        location.href = 'http://www.zoomtrader.com/my-profile.aspx';
+                    }
+                    else {
+                        if (daysLeft == 0) //TimeEnded
+                        { location.href = 'https://www.zoomtrader.com/deposit.aspx'; }
                         else
-                   { location.href = 'https://www.zoomtrader.com/traderoom.aspx';}
-                 
-                
-                
+                        { location.href = 'https://www.zoomtrader.com/traderoom.aspx'; }
+                    }
+                }
+                                
             }  
             
             else
@@ -552,91 +808,82 @@ var Theme='XP';
     
     
             </script>
-
-                                                
-                                                <!--LOG-IN USER BLOCK END -->
-                                            </td>
-                                            <td>
-                                            </td>
-                                            <td valign="top">
-                                            </td>
-                                        </tr>
-                                    </tbody></table>
-                                </td>
-                            </tr>
-                            </tbody></table></center>
-                            <center><div id="ctl00_TopMenuPlace" class="TopMenuPlace">
-
-<table class="headerTopMenuTable1" cellpadding="0" cellspacing="0" id="TopMenu">
-    <tbody><tr class="tableMenuBlue">
-        <td align="center" class="nowrap tradeNow" onclick="window.location='https://www.zoomtrader.com/traderoom.aspx'">
-            <span>
-                &nbsp;</span>
-        </td>
-        <td class="headerTopMenuPipeTD" align="center">
-            |
-        </td>
-        <td class="separatorTD separatorPadding">
-            <img src="/Skins/ZoomTraderSkin/media/images/topmenu-separator.gif">
-        </td>
-        <td class="nowrap assetIndex">
-            <a href="http://www.zoomtrader.com/assets-index.aspx"><span>
-                asset index</span></a>
-        </td>
-        <td class="separatorTD">
-            <img src="/Skins/ZoomTraderSkin/media/images/topmenu-separator.gif">
-        </td>
-        <td class="nowrap aboutUs">
-            <a href="http://www.zoomtrader.com/about-us.aspx"><span>
-                about us</span></a>
-        </td>
-        <td class="separatorTD">
-            <img src="/Skins/ZoomTraderSkin/media/images/topmenu-separator.gif">
-        </td>
-        <td class="nowrap contactUs">
-            <a href="http://www.zoomtrader.com/contact-us.aspx"><span>
-                contact us</span></a>
-        </td>
-        <td class="separatorTD">
-            <img src="/Skins/ZoomTraderSkin/media/images/topmenu-separator.gif">
-        </td>
-        <td class="nowrap pastExpiries">
-            <a href="http://www.zoomtrader.com/past_expiries.aspx"><span>
-                Past Expiries</span></a>
-        </td>
-        <td class="separatorTD">
-            <img src="/Skins/ZoomTraderSkin/media/images/topmenu-separator.gif">
-        </td>
-        
-        <td class="nowrap registration">
-           <a href="https://www.zoomtrader.com/registration.aspx"> <span>
-                Register Now</span></a>
-        </td>
-        <td class="separatorTD">
-            <img src="/Skins/ZoomTraderSkin/media/images/topmenu-separator.gif">
-        </td>
-        
-          <td align="right" class="clockTd">
-            <div class="dateBlueXP">
-                <span class="dateLineSpan">|</span><span class="dateSpan" id="date" style="margin-left: 10px">16 Oct</span><span class="clockTXT1" id="clock"></span><span class="dateSpan"></span><span class="GMTSpan" id="GMTclock" style="margin-right: 10px;"></span></div>
-        </td>
-        <td align="right" class="menuEndR">
-        </td>
-    </tr>
+ 
+</td>
+<td>
+</td>
+<td valign="top">
+</td>
+</tr>
 </tbody></table>
-
-
-</div>  </center>  
-
-                              
-                                <center><table class="sharBG" cellpadding="0" cellspacing="0">
-                                     <tbody><tr>
-                                     <td class="runnerTD1"></td>
-                                     <td>
-                                         
-            <iframe src="/MarketDataRunnerContent.aspx" frameborder="0" scrolling="no" width="714px" height="25px" id="marketDataRunnerFrame"></iframe>
-         
-        <script type="text/javascript">
+</td>
+</tr>
+</tbody></table></center>
+<center><div id="ctl00_TopMenuPlace" class="TopMenuPlace">
+<table class="headerTopMenuTable1" cellpadding="0" cellspacing="0" id="TopMenu">
+<tbody><tr class="tableMenuBlue">
+<td align="center" class="nowrap tradeNow" onclick="window.location='https://www.zoomtrader.com/traderoom.aspx'">
+<span>
+&nbsp;</span>
+</td>
+<td class="headerTopMenuPipeTD" align="center">|
+</td>
+<td class="separatorTD separatorPadding">
+<img src="/Skins/ZoomTraderSkin/media/images/topmenu-separator.gif">
+</td>
+<td class="nowrap assetIndex">
+<a href="http://www.zoomtrader.com/assets-index.aspx">
+<span>asset index</span></a>
+</td>
+<td class="separatorTD">
+<img src="/Skins/ZoomTraderSkin/media/images/topmenu-separator.gif">
+</td>
+<td class="nowrap aboutUs">
+<a href="http://www.zoomtrader.com/about-us.aspx">
+<span>about us</span>
+</a>
+</td>
+<td class="separatorTD">
+<img src="/Skins/ZoomTraderSkin/media/images/topmenu-separator.gif">
+</td>
+<td class="nowrap contactUs">
+<a href="http://www.zoomtrader.com/contact-us.aspx">
+<span>contact us</span></a>
+</td>
+<td class="separatorTD">
+<img src="/Skins/ZoomTraderSkin/media/images/topmenu-separator.gif">
+</td>
+<td class="nowrap pastExpiries">
+<a href="http://www.zoomtrader.com/past_expiries.aspx"><span>
+Past Expiries</span></a>
+</td>
+<td class="separatorTD">
+<img src="/Skins/ZoomTraderSkin/media/images/topmenu-separator.gif">
+</td>
+<td class="nowrap registration">
+<a href="https://www.zoomtrader.com/registration.aspx"><span>
+Register Now</span></a>
+</td>
+<td class="separatorTD">
+<img src="/Skins/ZoomTraderSkin/media/images/topmenu-separator.gif">
+</td>
+<td align="right" class="clockTd">
+<div class="dateBlueXP">
+<span class="dateLineSpan">|</span><span class="dateSpan" id="date" style="margin-left: 10px">09 Feb</span>
+<span class="clockTXT1" id="clock"></span><span class="dateSpan"></span><span class="GMTSpan" id="GMTclock" style="margin-right: 10px;"></span>
+</div>
+</td>
+<td align="right" class="menuEndR"></td>
+</tr>
+</tbody></table>
+</div> </center>
+<center><table class="sharBG" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td class="runnerTD1"></td>
+<td>
+<div id="marketDataRunnerFrame_overlay"></div>
+<iframe src="" frameborder="0" scrolling="no" width="714px" height="25px" id="marketDataRunnerFrame"></iframe>
+<script type="text/javascript">
 
             $(document).ready(function () {
                 if (document.getElementById("marketDataRunnerFrame")) {
@@ -659,542 +906,304 @@ var Theme='XP';
                 }
             });
 </script>
-
-                                     </td>                                     
-                                   </tr>
-                              </tbody></table></center>
-                              
-
-
-               
-                     
-             
-               
-                   
-                        <!-- in page -->
-                        <center>
-
-<div id="InnerContainer" class="MainSize">    
-<div class="centerBlock" dir="ltr">
-     
-
-<div id="topbannerswrap">
-<div id="main-image" style="display:none">
-    <img id="ctl00_ContentPlaceHolder1_RightBannerZoomtrader1_imgMainBanner" src="/App_Themes/ZoomTraderSkin/media/images/accounts/230/asset_index_img.jpg" border="0">
+<div class="socialicon">
+<a href="https://www.facebook.com/ZoomTradercom" title="Facebook" target="_blank"><img src="/Skins/ZoomTraderSkin/media/images/FB.png" alt="FB.png"></a>
+<a href="https://twitter.com/Zoomtrader_EN" title="Twitter" target="_blank"><img src="/Skins/ZoomTraderSkin/media/images/TW.png" alt="TW.png"></a>
+<a href="http://www.youtube.com/user/ZoomTraderCom" title="Youtube" target="_blank"><img src="/Skins/ZoomTraderSkin/media/images/YT.png" alt="YT.png"></a>
 </div>
+</td>
+</tr>
+</tbody></table></center>
+ 
+<center>
+<div id="InnerContainer" class="MainSize">
+<div class="centerBlock" dir="ltr">
+<div id="topbannerswrap">
 <div id="banners">
-    <div>
-    <div id="twotopbann">
-        <div id="banner2" class="bnr">
-            
-            <a href="/registration.aspx">
-                <img src="/App_Themes/ZoomTraderSkin/media/images/Accounts/230/unlogin.jpg" alt="ZoomTrader" width="275" height="425">               
-            </a>
-          
-        </div>
-    </div>
-    <div id="banner3" class="bnr">
-        
-
-
-<!-- BEGIN LivePerson Button Code -->
-
-            <!--[if IE 8]>
+<div>
+<div id="twotopbann">
+<div id="banner2" class="bnr">
+<a href="/registration.aspx">
+<img src="/App_Themes/ZoomTraderSkin/media/images/Accounts/230/unlogin.jpg" alt="ZoomTrader" width="275" height="425">
+</a>
+</div>
+</div>
+<div id="banner3" class="bnr">
+<!--[if IE 8]>
                 
                     <style type="text/css">
                         .chartButtonTradeMenuImgTR{ margin-left:-80px;}
                     </style>
                      
             <![endif]-->
-            
-                      
-                            <div id="LiveChatSiteIMGDivOld" class="chartButtonImg" style="min-width:137px;">
-                            <a id="_lpChatBtn" href="https://server.iad.liveperson.net/hc/20003090/?cmd=file&amp;file=visitorWantsToChat&amp;site=20003090&amp;byhref=1&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/3a" target="chat20003090" onclick="lpButtonCTTUrl = 'https://server.iad.liveperson.net/hc/20003090/?cmd=file&amp;file=visitorWantsToChat&amp;site=20003090&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/3a&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); lpButtonCTTUrl = ((typeof(lpMTag)!='undefined' &amp;&amp; typeof(lpMTag.addFirstPartyCookies)!='undefined')?lpMTag.addFirstPartyCookies(lpButtonCTTUrl):lpButtonCTTUrl);window.open(lpButtonCTTUrl,'chat20003090','width=475,height=400,resizable=yes');return false;">
-                            <img id="chatButtonImg" class="chartButtonImg" src="/App_Themes/ZoomTraderSkin/media/images/right-chat.png" onmouseover="this.src='/App_Themes/ZoomTraderSkin/media/images/right-chat.png'" onmouseout="this.src='/App_Themes/ZoomTraderSkin/media/images/right-chat.png'" border="0" alt=""></a>
-                            </div>
-                      
-    </div>
-    </div>
+<div id="LiveChatSiteIMGDivOld" class="chartButtonImg" style="min-width:137px;">
+<a id="_lpChatBtn" href="https://server.iad.liveperson.net/hc/20003090/?cmd=file&amp;file=visitorWantsToChat&amp;site=20003090&amp;byhref=1&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/3a" target="chat20003090" onclick="lpButtonCTTUrl = 'https://server.iad.liveperson.net/hc/20003090/?cmd=file&amp;file=visitorWantsToChat&amp;site=20003090&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/3a&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); lpButtonCTTUrl = ((typeof(lpMTag)!='undefined' &amp;&amp; typeof(lpMTag.addFirstPartyCookies)!='undefined')?lpMTag.addFirstPartyCookies(lpButtonCTTUrl):lpButtonCTTUrl);window.open(lpButtonCTTUrl,'chat20003090','width=475,height=400,resizable=yes');return false;">
+<img id="chatButtonImg" class="chartButtonImg" src="/App_Themes/ZoomTraderSkin/media/images/right-chat.png" onmouseover="this.src='/App_Themes/ZoomTraderSkin/media/images/right-chat.png'" onmouseout="this.src='/App_Themes/ZoomTraderSkin/media/images/right-chat.png'" border="0" alt=""></a>
 </div>
 </div>
-
-
-
-            
-    <div class="titleBlock add-flip-horizontal" dir="ltr"><span>Privacy Policy</span></div>
-    <div dir="ltr" class="content">
-       
-       <p id="resP">1.By accessing, visiting and/or using this Website or any other webpage thereon, you unequivocally and unreservedly express your binding agreement to any and all of these terms. <br><br>
-2.	Protecting your privacy is one of our top priorities. This privacy policy sets out how we collect information regarding Website users, what we may do with it, and what you can do to protect your privacy. <br><br>
-3.	This policy applies to all information collected to or submitted on Website. You may be able to execute financial transactions, make requests, submit data, register to receive materials, etc. Types of personal information that may be collected on Website include user's name, home address, e-mail address, telephone number, bank account, credit card number, etc., whether pertaining to yourself, or to third parties, where you act on behalf of any such party. Information from various sources may be combined by Website. You may update part of your personal information from time to time by accessing your Site account and act according to the "updating your information" instructions therein. You hereby confirm that you aware to the fact that due to legal requirements some of your information detailed cannot be changed. <br><br>
-4.	Website may also collect other types of information, as logged by Website's servers, including your IP address, browser type and language, and the date and time of your visit, in order to infer certain user trends or to block certain users from accessing Website. Thus, Website may assign your computer one or more cookies which may collect information in order to facilitate access to Website and to personalize your online experience, and/or use standard or non-standard internet tools, such as web beacons or monitoring programs, which collect information that tracks your use of Website and enables it to customize our services and promotions. <br><br>
-5.	Personal information given to us by you shall not be disclosed to any third party without your prior consent, unless such information: (i) is required to be disclosed to related companies of ours; (ii) was publicly known to us and/or made generally available in the public domain prior to the time of disclosure by you; (iii) becomes publicly known and made generally available after disclosure by you to us through no action or inaction of us; (iv) is required to be disclosed by law or regulation, in which case we shall give the you as much advance notice of the proposed disclosure as is practical (including a copy of any written request or order)in order to allow you to limit or restrict such disclosure; (v) is furnished or made known to us by a third party otherwise than in breach of any of our confidentiality obligation hereunder; is independently developed by us without reference to the information disclosed by you or was known to us, without restriction, at the time of disclosure by you, as shall be shown and evidenced by written documents; or (vii) is required to be disclosed in order for us to protect our rights. <br><br>
-6.	In order to prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. <br><br>
-7.	In order to protect child privacy, we never knowingly collect or maintain information from users under 18; no part of our website is structured to attract anyone under 18. <br><br>
-8.	If you so wish, you may choose and ask not to receive emails and/or newsletters from the Website, and/or delete or decline cookies by changing your browser settings. <br><br>
-9.	This privacy policy may be changed from time to time. We reserve the right, at any time, to amend, alter, modify or change, as we see fit, any term of this Privacy Policy our without any prior notice, and you hereby agree to conform to the current version as published in this site.</p>  
-    </div>
 </div>
-
+</div>
+</div>
+<div class="titleBlock add-flip-horizontal" dir="ltr"><span>Privacy Policy</span></div>
+<div dir="ltr" class="content generalContentTerms">
+<p id="resP">1.By accessing, visiting and/or using this Website or any other webpage thereon, you unequivocally and unreservedly express your binding agreement to any and all of these terms.<br><br>2. Protecting your privacy is one of our top priorities. This privacy policy sets out how we collect information regarding Website users, what we may do with it, and what you can do to protect your privacy.<br><br>3. This policy applies to all information collected to or submitted on Website. You may be able to execute financial transactions, make requests, submit data, register to receive materials, etc. Types of personal information that may be collected on Website include user's name, home address, e-mail address, telephone number, bank account, credit card number, etc., whether pertaining to yourself, or to third parties, where you act on behalf of any such party. Information from various sources may be combined by Website. You may update part of your personal information from time to time by accessing your Site account and act according to the "updating your information" instructions therein. You hereby confirm that you aware to the fact that due to legal requirements some of your information detailed cannot be changed.<br><br>4. Website may also collect other types of information, as logged by Website's servers, including your IP address, browser type and language, and the date and time of your visit, in order to infer certain user trends or to block certain users from accessing Website. Thus, Website may assign your computer one or more cookies which may collect information in order to facilitate access to Website and to personalize your online experience, and/or use standard or non-standard internet tools, such as web beacons or monitoring programs, which collect information that tracks your use of Website and enables it to customize our services and promotions.<br><br>5. Personal information given to us by you shall not be disclosed to any third party without your prior consent, unless such information: (i) is required to be disclosed to related companies of ours; (ii) was publicly known to us and/or made generally available in the public domain prior to the time of disclosure by you; (iii) becomes publicly known and made generally available after disclosure by you to us through no action or inaction of us; (iv) is required to be disclosed by law or regulation, in which case we shall give the you as much advance notice of the proposed disclosure as is practical (including a copy of any written request or order)in order to allow you to limit or restrict such disclosure; (v) is furnished or made known to us by a third party otherwise than in breach of any of our confidentiality obligation hereunder; is independently developed by us without reference to the information disclosed by you or was known to us, without restriction, at the time of disclosure by you, as shall be shown and evidenced by written documents; or (vii) is required to be disclosed in order for us to protect our rights.<br><br>6. In order to prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.<br><br>7. In order to protect child privacy, we never knowingly collect or maintain information from users under 18; no part of our website is structured to attract anyone under 18.<br><br>8. If you so wish, you may choose and ask not to receive emails and/or newsletters from the Website, and/or delete or decline cookies by changing your browser settings.<br><br>9. This privacy policy may be changed from time to time. We reserve the right, at any time, to amend, alter, modify or change, as we see fit, any term of this Privacy Policy our without any prior notice, and you hereby agree to conform to the current version as published in this site.</p>
+</div>
+</div>
 </div></center>
-                        <!-- in page -->
-                   
-
-
-
-                    
-               <center>
-                     
-                                   </center>   
-                    <center>
-                    <div id="ctl00_footerPlace" class="footerTD">
-                                
-<script src="../scripts/jquery/jquery.ui.widget.js" type="text/javascript"></script>
-<script src="../scripts/jquery/jquery.ui.rcarousel.js" type="text/javascript"></script>
-<script src="../scripts/jquery/jcarousellite_1.0.1.pack.js" type="text/javascript"></script>
-<script type="text/javascript">
-          $(document).ready(function () {
-              //<![CDATA[
-              jQuery(function ($) {
-                  $("#carousel1").rcarousel({ auto: { enabled: true} },
-          {
-              width: 115,
-              height: 40,
-              visible: 4,
-              step: 2,
-              speed: 5000,
-              interval: 4000,
-              margin: 10
-          });
-
-              });
-          });
-          //]]>
-
-</script>
-<style type="text/css">
-            #carousel1{
-                  float: left;
-                  margin-left: 0px;
-                  padding-bottom:30px;
-            }
-             .logos{
-                  float: left;
-                  width: 115px;
-                  height: 33px;
-              }
-            .ui-carousel {
-	            height: 55px;
-	            margin: 0;
-	            overflow: auto;
-	            padding: 0;
-	            position: relative; /*for ie7 to work e.g in html carousels*/
-	            width: 410px;
-                      #margin-left: 10px;
-            }
-
-            .ui-carousel > .wrapper {
-                margin: 0;
-                padding: 0;
-                width: 9999px;
-            }
-
-            .ui-carousel > .wrapper > * {
-	            border: 0;
-	            display: block;
-	            float: left;
-	            height: 100px;
-	            overflow: hidden;
-	            width: 100px;
-            }
-      </style>
-<table cellpadding="0" cellspacing="0" style="width: 100%">
-    <tbody><tr>
-        <td>
-            <center>
-            
-                        <table class="footerMenuTable" id="footerMenu" cellpadding="0" cellspacing="0" style="width: 100%">
-                            <tbody><tr valign="top">
-                    
-                        <td id="myRow" valign="top" class="footercolumn_0" rowspan="7">
-                        
-                              <div class="footerTitleText">
-                                  Binary Options
-                              </div>
-                              
-                                      <div class="footerLinkText">
-                                          <a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/what-is-digital" target="_self">
-                                              Digital
-                                          </a>
-                                      </div>
-                                  
-                                      <div class="footerLinkText">
-                                          <a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/What is Touch" target="_self">
-                                              Touch
-                                          </a>
-                                      </div>
-                                  
-                                      <div class="footerLinkText">
-                                          <a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/What is Range" target="_self">
-                                              Range
-                                          </a>
-                                      </div>
-                                  
-                              
-                          </td>
-                      
-                        <td id="myRow" valign="top" class="footercolumn_1" rowspan="7">
-                        
-                              <div class="footerTitleText">
-                                  Trading
-                              </div>
-                              
-                                      <div class="footerLinkText">
-                                          <a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/Binary Options 1" target="_self">
-                                              Binary Options
-                                          </a>
-                                      </div>
-                                  
-                                      <div class="footerLinkText">
-                                          <a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/Best Traders" target="_self">
-                                              Best Traders
-                                          </a>
-                                      </div>
-                                  
-                                      <div class="footerLinkText">
-                                          <a class="footerMenuItemHref SessionLink" href="http://www.zoomtrader.com/content/Glossary" target="">
-                                              Glossary
-                                          </a>
-                                      </div>
-                                  
-                                      <div class="footerLinkText">
-                                          <a class="footerMenuItemHref SessionLink" href="http://www.zoomtrader.com/content/Tutorial" target="">
-                                              Tutorial
-                                          </a>
-                                      </div>
-                                  
-                              
-                          </td>
-                      
-                        <td id="myRow" valign="top" class="footercolumn_2" rowspan="7">
-                        
-                              <div class="footerTitleText">
-                                  Course
-                              </div>
-                              
-                                      <div class="footerLinkText">
-                                          <a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/Daily Market News" target="_self">
-                                              Daily Market News
-                                          </a>
-                                      </div>
-                                  
-                                      <div class="footerLinkText">
-                                          <a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/Fundamental Trading" target="_self">
-                                              Fundamental Trading
-                                          </a>
-                                      </div>
-                                  
-                                      <div class="footerLinkText">
-                                          <a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/Technical Trading" target="_self">
-                                              Technical Trading
-                                          </a>
-                                      </div>
-                                  
-                                      <div class="footerLinkText">
-                                          <a class="footerMenuItemHref SessionLink" href="http://news.zoomtrader.com/" target="">
-                                              Binary Options Blog
-                                          </a>
-                                      </div>
-                                  
-                                      <div class="footerLinkText">
-                                          <a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/Brief Guide" target="_self">
-                                              Ebook
-                                          </a>
-                                      </div>
-                                  
-                              
-                          </td>
-                      
-                        <td id="myRow" valign="top" class="footercolumn_3" rowspan="7">
-                        
-                              <div class="footerTitleText">
-                                  Partners
-                              </div>
-                              
-                                      <div class="footerLinkText">
-                                          <a class="footerMenuItemHref SessionLink" href="http://www.zoomtrader.com/promotions.aspx" target="">
-                                              Promotions
-                                          </a>
-                                      </div>
-                                  
-                                      <div class="footerLinkText">
-                                          <a class="footerMenuItemHref SessionLink" href="http://affiliates.zoomtrader.com/" target="">
-                                              Affiliates
-                                          </a>
-                                      </div>
-                                  
-                                      <div class="footerLinkText">
-                                          <a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/Refer a friend" target="_self">
-                                              Refer a friend
-                                          </a>
-                                      </div>
-                                  
-                              
-                          </td>
-                      
-                        <td id="myRow" valign="top" class="footercolumn_4" rowspan="7">
-                        
-                              <div class="footerTitleText">
-                                  Banking
-                              </div>
-                              
-                                      <div class="footerLinkText">
-                                          <a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/How-to-deposit" target="_self">
-                                              How to Deposit
-                                          </a>
-                                      </div>
-                                  
-                                      <div class="footerLinkText">
-                                          <a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/How to withdraw" target="_self">
-                                              How to Withdraw
-                                          </a>
-                                      </div>
-                                  
-                                      <div class="footerLinkText">
-                                          <a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/Transfer Methods" target="_self">
-                                              Transfer Methods
-                                          </a>
-                                      </div>
-                                  
-                                      <div class="footerLinkText">
-                                          <a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/Paypal" target="_self">
-                                              PayPal
-                                          </a>
-                                      </div>
-                                  
-                              
-                          </td>
-                      
-                        <td id="myRow" valign="top" class="footercolumn_5" rowspan="7">
-                        
-                              <div class="footerTitleText">
-                                  Help
-                              </div>
-                              
-                                      <div class="footerLinkText">
-                                          <a class="footerMenuItemHref SessionLink" href="http://www.zoomtrader.com/contact-us.aspx" target="">
-                                              Contact us
-                                          </a>
-                                      </div>
-                                  
-                                      <div class="footerLinkText">
-                                          <a class="footerMenuItemHref SessionLink" href="https://server.iad.liveperson.net/hc/20003090/?cmd=file&amp;file=visitorWantsToChat&amp;site=20003090&amp;byhref=1&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/3a" target="">
-                                              Live Chat
-                                          </a>
-                                      </div>
-                                  
-                                      <div class="footerLinkText">
-                                          <a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/Call Support" target="_self">
-                                              Call Support
-                                          </a>
-                                      </div>
-                                  
-                                      <div class="footerLinkText">
-                                          <a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/Frequently Asked Questions" target="_self">
-                                              FAQ
-                                          </a>
-                                      </div>
-                                  
-                              
-                          </td>
-                      
-                        <td id="myRow" valign="top" class="footercolumn_6" rowspan="7">
-                        
-                              <div class="footerTitleText">
-                                  ZoomTrader
-                              </div>
-                              
-                                      <div class="footerLinkText">
-                                          <a class="footerMenuItemHref SessionLink" href="http://www.zoomtrader.com/about-us.aspx" target="">
-                                              About Us
-                                          </a>
-                                      </div>
-                                  
-                                      <div class="footerLinkText">
-                                          <a class="footerMenuItemHref SessionLink" href="http://www.zoomtrader.com/privacy-and-security.aspx" target="">
-                                              Privacy Policy
-                                          </a>
-                                      </div>
-                                  
-                                      <div class="footerLinkText">
-                                          <a class="footerMenuItemHref SessionLink" href="http://www.zoomtrader.com/terms-and-conditions.aspx" target="">
-                                              Terms &amp; Conditions
-                                          </a>
-                                      </div>
-                                  
-                                      <div class="footerLinkText">
-                                          <a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/Codex" target="_self">
-                                              Ethic Codex
-                                          </a>
-                                      </div>
-                                  
-                              
-                          </td>
-                      
-                          </tr> </tbody></table>
-                      
-                  
-            </center>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <center>
-                
-            </center>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <center>
-                <table class="FooterIconsT">
-                    
-                    <tbody><tr>
-                        <td>
-                            
-
-<div class="FooterDynContPHwrapper">
-
-<div style="float:left" class="FootDynLeftPHDIV">
-    <span></span>
-</div>
-
-    <div class="FootDynContIconsDIV">
-     
-    </div>
-
-<div style="float:left" class="FootDynRightPHDIV">
-    <span><center>
-	<table class="FooterIconsT">
-		<tbody>
-			<tr>
-				<td>
-					<a href="http://www.reuters.com/" target="_blank"> <img src="/Skins/ZoomTraderSkin/media/images/reuters.jpg" title="Reuters"> </a></td>
-				<td style="width: 5px">
-				</td>
-				<td align="center" valign="top">
-					<table>
-						<tbody>
-							<tr>
-								<td>
-									<img alt="" src="/Skins/ZoomTraderSkin/media/images/nasdaq.png" title="Nasdaq"></td>
-								<td>
-									<img alt="" src="/Skins/ZoomTraderSkin/media/images/nyse.png" title="NYSE"></td>
-								<td>
-									<img alt="" src="/Skins/ZoomTraderSkin/media/images/london.png" title="London Stock Exchange"></td>
-								<td>
-									<img alt="" src="/Skins/ZoomTraderSkin/media/images/dowjones.png" title="DowJones"></td>
-								<td>
-									<img alt="" src="/Skins/ZoomTraderSkin/media/images/citibank.png" title="CITI Bank"></td>
-								<td>
-									<img alt="" src="/Skins/ZoomTraderSkin/media/images/apple.png" title="Apple"></td>
-								<td>
-									<img alt="" src="/Skins/ZoomTraderSkin/media/images/cocacola.png" title="Coca-Cola"></td>
-							</tr>
-							<tr>
-								<td colspan="7">
-									<table width="100%">
-										<tbody>
-											<tr>
-												<td align="right">
-													<img alt="Google" src="/Skins/ZoomTraderSkin/media/images/google.png" title="Google"></td>
-												<td align="center">
-													<img alt="" src="/Skins/ZoomTraderSkin/media/images/microsoft.png" title="Microsoft"></td>
-												<td align="center">
-													<img alt="" src="/Skins/ZoomTraderSkin/media/images/facebook.png" title="Facebook"></td>
-												<td align="left">
-													<img alt="" src="/Skins/ZoomTraderSkin/media/images/tradologic.png" title="Tradologic"></td>
-											</tr>
-										</tbody>
-									</table>
-								</td>
-							</tr>
-						</tbody>
-					</table>
-				</td>
-			</tr>
-		</tbody>
-	</table>
+ 
+<script language="javascript" type="text/javascript" src="/scripts/jquery/jquery.ui.widget.js"></script>
+<script language="javascript" type="text/javascript" src="/scripts/jquery/jquery.ui.rcarousel.js"></script>
+<center>
 </center>
-</span>
+<center>
+<div id="ctl00_footerPlace" class="footerTD">
+<style type="text/css">#carousel1{float:left;margin-left:0px;padding-bottom:30px;}.logos{float:left;width:115px;height:33px;}.ui-carousel{height:55px;margin:0;overflow:auto;padding:0;position:relative;width:410px;#margin-left: 10px;}.ui-carousel>.wrapper{margin:0;padding:0;width:9999px;}.ui-carousel>.wrapper>*{border:0;display:block;float:left;height:100px;overflow:hidden;width:100px;}</style>
+<span class="footer-text-top"><div style="text-align: center;"> <span style="text-align: center;">Important note: Binary option trading, although can be very profitable, may also involve a significant risk of losing your investment.</span></div></span>
+<table cellpadding="0" cellspacing="0" style="width: 100%">
+<tbody><tr>
+<td>
+<center>
+<table class="footerMenuTable" id="footerMenu" cellpadding="0" cellspacing="0" style="width: 100%">
+<tbody><tr valign="top">
+<td id="myRow" valign="top" class="footercolumn_0" rowspan="7">
+<div class="footerTitleText">
+Binary Options
 </div>
-
+<div class="footerLinkText">
+<a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/Trading Platforms " target="_self">
+Trading Platforms
+</a>
 </div>
-
-                        </td>
-                    </tr>
-                    
+<div class="footerLinkText">
+<a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/Binary Options 1" target="_self">
+What are Binary Options?
+</a>
+</div>
+<div class="footerLinkText">
+<a class="footerMenuItemHref SessionLink" href="http://www.zoomtrader.com/content/Glossary" target="">
+Glossary
+</a>
+</div>
+</td>
+<td id="myRow" valign="top" class="footercolumn_1" rowspan="7">
+<div class="footerTitleText">
+Trading
+</div>
+<div class="footerLinkText">
+<a class="footerMenuItemHref SessionLink" href="http://www.zoomtrader.com/assets-index.aspx" target="_blank">
+View Our Assets
+</a>
+</div>
+<div class="footerLinkText">
+<a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/Best Traders" target="_self">
+Best Traders
+</a>
+</div>
+<div class="footerLinkText">
+<a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/Trader Insight" target="_self">
+Trader Insight
+</a>
+</div>
+<div class="footerLinkText">
+<a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/Economic Calendar" target="_self">
+Economic Calendar
+</a>
+</div>
+</td>
+<td id="myRow" valign="top" class="footercolumn_2" rowspan="7">
+<div class="footerTitleText">
+Information Centre
+</div>
+<div class="footerLinkText">
+<a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/Daily Market News" target="_self">
+Daily Market Updates
+</a>
+</div>
+<div class="footerLinkText">
+<a class="footerMenuItemHref SessionLink" href="http://news.zoomtrader.com/" target="">
+Blog
+</a>
+</div>
+<div class="footerLinkText">
+<a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/Brief Guide" target="_self">
+Ebook
+</a>
+</div>
+<div class="footerLinkText">
+<a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/Education" target="_self">
+Education center
+</a>
+</div>
+</td>
+<td id="myRow" valign="top" class="footercolumn_3" rowspan="7">
+<div class="footerTitleText">
+Partners
+</div>
+<div class="footerLinkText">
+<a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/Bonuses" target="_self">
+Bonuses
+</a>
+</div>
+<div class="footerLinkText">
+<a class="footerMenuItemHref SessionLink" href="http://affiliates.zoomtrader.com/" target="">
+Affiliates
+</a>
+</div>
+<div class="footerLinkText">
+<a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/Refer a friend" target="_self">
+Refer a friend
+</a>
+</div>
+</td>
+<td id="myRow" valign="top" class="footercolumn_4" rowspan="7">
+<div class="footerTitleText">
+Banking
+</div>
+<div class="footerLinkText">
+<a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/How-to-deposit" target="_self">
+How to Deposit
+</a>
+</div>
+<div class="footerLinkText">
+<a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/How to withdraw" target="_self">
+How to Withdraw
+</a>
+</div>
+<div class="footerLinkText">
+<a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/Transfer Methods" target="_self">
+Transfer Methods
+</a>
+</div>
+</td>
+<td id="myRow" valign="top" class="footercolumn_5" rowspan="7">
+<div class="footerTitleText">
+Help
+</div>
+<div class="footerLinkText">
+<a class="footerMenuItemHref SessionLink" href="http://www.zoomtrader.com/contact-us.aspx" target="">
+Contact us
+</a>
+</div>
+<div class="footerLinkText">
+<a class="footerMenuItemHref SessionLink" href="https://server.iad.liveperson.net/hc/20003090/?cmd=file&amp;file=visitorWantsToChat&amp;site=20003090&amp;byhref=1&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/3a" target="">
+Live Chat
+</a>
+</div>
+<div class="footerLinkText">
+<a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/Call Support" target="_self">
+Call Support
+</a>
+</div>
+<div class="footerLinkText">
+<a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/Frequently Asked Questions" target="_self">
+FAQ
+</a>
+</div>
+</td>
+<td id="myRow" valign="top" class="footercolumn_6" rowspan="7">
+<div class="footerTitleText">
+ZoomTrader
+</div>
+<div class="footerLinkText">
+<a class="footerMenuItemHref SessionLink" href="http://www.zoomtrader.com/about-us.aspx" target="">
+About Us
+</a>
+</div>
+<div class="footerLinkText">
+<a class="footerMenuItemHref SessionLink" href="http://www.zoomtrader.com/privacy-and-security.aspx" target="">
+Privacy Policy
+</a>
+</div>
+<div class="footerLinkText">
+<a class="footerMenuItemHref SessionLink" href="http://www.zoomtrader.com/terms-and-conditions.aspx" target="">
+Terms &amp; Conditions
+</a>
+</div>
+<div class="footerLinkText">
+<a class="footerMenuItemHref SessionLinkContent" href="http://www.zoomtrader.com/content/Codex" target="_self">
+Ethic Codex
+</a>
+</div>
+</td>
+</tr> </tbody></table>
+</center>
+</td>
+</tr>
+<tr>
+<td>
+<center>
+</center>
+</td>
+</tr>
+<tr>
+<td>
+<center>
+<table class="FooterIconsT">
+<tbody><tr>
+<td>
+<div class="FooterDynContPHwrapper">
+<div style="float:left" class="FootDynLeftPHDIV">
+</div>
+<div class="FootDynContIconsDIV">
+</div>
+<div style="float:left" class="FootDynRightPHDIV">
+<span><div class="footer_icons"> <img alt="payment prividers" src="/Skins/ZoomTraderSkin/media/images/footer.png"></div></span>
+</div>
+</div>
+</td>
+</tr>
 </tbody></table>
 </center>
 </td>
 </tr>
 </tbody></table>
-</div> </center>   
-                    <center><div class="footerLowTD">
-                        
+</div> </center>
+<center><div class="footerLowTD">
 <div class="footerText">
-    <br>
-    ZoomTrader is a revolutionary <a href="http://www.zoomtrader.com/" class="lowerFooterLink">binary options trading</a> platform that offers a wide range of unique features to make it easier for traders to manage their risk and set the terms of the trade. 
-    Traders can trade binary options on stocks, commodities, currency pairs and indices 24 hours a day, 6 days a week.
-    ZoomTrader provides investors with high returns up to 75 - 85% if the option is in-the-money. 
-    The option prices that are listed on the ZoomTrader website are the prices in which ZoomTrader is willing to offer the options. 
-    The prices displayed are not the real time prices for underlying assets. 
-    
-  Important risk note: Binary options trading involves significant risk. 
-            We strongly advise that you read our <a href="http://www.zoomtrader.com/terms-and-conditions.aspx" class="lowerFooterLink">Terms &amp; Conditions</a> before making any investments. 
-            The prices we present on our site are the ones <strong>ZoomTrader</strong> is willing to sell options at and <strong>are not necessarily the real time market prices.</strong> 
-            Customers must be aware of their individual capital gain tax liability in their country of residence.
-            <br> Copyright © 2012 ZoomTrader - All rights reserved.
+<br>
+ZoomTrader is a revolutionary <a href="http://www.zoomtrader.com/" class="lowerFooterLink">binary options trading</a> platform that offers a wide range of unique features to make it easier for traders to manage their risk and set the terms of the trade. Traders can trade binary options on stocks, commodities, currency pairs and indices 24 hours a day, 6 days a week. ZoomTrader provides investors with high returns up to 75 - 85% if the option is in-the-money. The option prices that are listed on the ZoomTrader website are the prices in which ZoomTrader is willing to offer the options. The prices displayed are not the real time prices for underlying assets. Important risk note: Binary options trading involves significant risk. We strongly advise that you read our <a href="http://www.zoomtrader.com/terms-and-conditions.aspx" class="lowerFooterLink">Terms &amp; Conditions</a> before making any investments. The prices we present on our site are the ones&nbsp;<strong>ZoomTrader</strong>&nbsp;is willing to sell options at and&nbsp;<strong>are not necessarily the real time market prices.</strong>&nbsp;Customers must be aware of their individual capital gain tax liability in their country of residence.<br>Copyright © 2014 ZoomTrader - All rights reserved - Hithcliff Ltd., 788-790 Finchley Road, London, NW11 7TJ. 
 </div>
-<span id="ctl00_LowFooter1_lblUploadVersion"></span></div></center>
-                   
-                
-                </div>
-            </div>
-        </center>
-                  
-    
-
+<span id="ctl00_LowFooter1_lblUploadVersion"></span>
+</div></center>
+</div>
+</div>
+</center>
 <script type="text/javascript">
 //<![CDATA[
-var m_session = '';//]]>
+var m_session = '';var lcid=1033;callMessages = false;classExtend = true; classClose = true; classDouble = true;var useRestApi = false;var restApiUrl = 'http://api2.tradologic.net';//]]>
 </script>
 </form>
-    
-     
-    
-    
-    <script language="javascript" type="text/javascript">
+<script language="javascript" type="text/javascript">
 
-          var sessionName = "m_session_" + 230; if (Get_Cookie(sessionName) != ""){var sessionDate = new Date();Set_Cookie(sessionName, Get_Cookie(sessionName), sessionDate.setMinutes(sessionDate.getMinutes() + 30),"/");}ApplyHoverability();       
+        if (Get_Cookie(sessionName) != ""){var sessionDate = new Date();Set_Cookie(sessionName, Get_Cookie(sessionName), sessionDate.setMinutes(sessionDate.getMinutes() + 30),"/");}ApplyHoverability();       
       
       </script>
-             
-            <!-- ClickTale Bottom part -->
-            <div id="ClickTaleDiv" style="display: none;"></div>
-            <script type="text/javascript">
+ 
+<div id="ClickTaleDiv" style="display: none;"></div>
+<script type="text/javascript">
                 document.write(unescape("%3Cscript%20src='" +
              (document.location.protocol == 'https:' ?
               'https://clicktale.pantherssl.com/' :
               'http://s.clicktale.net/') +
              "WRd.js'%20type='text/javascript'%3E%3C/script%3E"));
             </script><script src="https://clicktale.pantherssl.com/WRd.js" type="text/javascript"></script>
-            <script type="text/javascript">
+<script type="text/javascript">
                 var ClickTaleSSL = 1;
                 if (typeof ClickTale == 'function') ClickTale(58, 0.24, "www14");
             </script>
-            <!-- ClickTale end of Bottom part -->
-         
+ 
+<script type="text/javascript">
+             $(document).ready(function () {
+
+                 var cUrl = window.location.pathname.split('/');
+                 cUrl = cUrl[cUrl.length - 1];
+                 if(cUrl!="binary-options.aspx"){
+                     cUrl = cUrl.replace('-opt', '');
+                 }
+                    $('.mainMenu li a[href$="' + cUrl + '"]').addClass('activeLink');
+             }); 
+</script>
+ 
 
 
 </body></html>
