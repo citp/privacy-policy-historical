@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divx.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030224540id_/http%3A//www.divx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divx.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209064021id_/http%3A//www.divx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DivX.com
 
@@ -67,6 +67,8 @@ Back to top
 When you visit Rovi websites and other Rovi Properties, we and our advertising partners may store and access information from your device, including “cookies”, clear GIFs (which are also sometimes called web bugs or web beacons) and browser details. We may collect information such as your browser type, the type of operating system you use, the domain name of your Internet service provider, IP address, pages visited on the site, services used and how you have used them. We and our advertising partners do this for a variety of purposes. In the case of our advertising partners, this may include the personalisation of advertisements based on your visits to sites in that partner’s network.
 
 We may provide data about our users, traffic patterns, products, services and site information to third-parties (such as vendors, advertisers and our business partners) (‘Partners’), but we will use reasonable efforts to provide it in a form that does not directly identify you.
+
+We do not use any user-based tracking in terms of IP address or device ID that persists and tracks your browsing behavior on other sites. However, we do use Google analytics. Google analytics manages ‘Do Not Track’ instructions from your browser in accordance with its own privacy policies  [http://www.google.com/intl/en/policies/privacy/](http://www.google.com/intl/en/policies/privacy/).
 
 Back to top
 
@@ -161,8 +163,7 @@ If you are a California resident and wish to request information about how to ex
 
 Back to top
 
- **Inquiries**  
+**Inquiries**  
 If you have any concern about privacy at Rovi, please send us a thorough description of your concern to [legal@rovicorp.com](mailto:legal@rovicorp.com) or the address above, and we will try to resolve it.
 
-This privacy policy was last updated on: June 21st 2012.  
-
+This privacy policy was last updated on: December 27th, 2013.
