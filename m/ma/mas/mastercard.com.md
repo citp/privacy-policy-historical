@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mastercard.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919190329id_/http%3A//www.mastercard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastercard.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209095454id_/http%3A//www.mastercard.com/privacy) for the most accurate reproduction.*
 
 # MasterCard Web Analytics Privacy Settings
 
@@ -139,7 +139,7 @@ Back to top
 
 How To Contact Us
 
-If you have any questions or comments about this Global Privacy Policy, or if you would like us to update information we have about you or your preferences, please [click here](https://web.archive.org/privacy/contact-us.html). You also may write to:
+If you have any questions or comments about this Global Privacy Policy, or if you would like us to update information we have about you or your preferences, please [click here](http://www.mastercard.us/privacy/contact-us.html). You also may write to:
 
 Global Privacy & Data Usage Officer  
 MasterCard Worldwide  
@@ -147,7 +147,7 @@ MasterCard Worldwide
 Purchase, New York 10577  
 USA
 
-If you are located in the European Economic Area or Switzerland, MasterCard Europe sprl may be the entity responsible for the processing of your personal information. To exercise your rights of access, rectifications, blocking, or deletion or to object to the processing of your personal information, contact us by [clicking here](https://web.archive.org/privacy/contact-us.html) or writing to us at:
+If you are located in the European Economic Area or Switzerland, MasterCard Europe sprl may be the entity responsible for the processing of your personal information. To exercise your rights of access, rectifications, blocking, or deletion or to object to the processing of your personal information, contact us by [clicking here](http://www.mastercard.us/privacy/contact-us.html) or writing to us at:
 
 Global Privacy & Data Usage Officer  
 MasterCard Europe sprl  
