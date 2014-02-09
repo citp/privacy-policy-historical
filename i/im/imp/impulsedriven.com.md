@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the impulsedriven.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030064313id_/http%3A//www.impulsedriven.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impulsedriven.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209171043id_/http%3A//impulsedriven.com/support/privacy) for the most accurate reproduction.*
 
 # GameStop PC Downloads : Support : Privacy Policy
 
-Last updated: July 8, 2013
+Last updated: December 31, 2013
 
 GameStop is aware of your concerns about use of your personal information. We attempt to use and share personal information that we collect online carefully and sensibly. This notice describes our privacy policy. By visiting Impulsedriven.com, you are accepting the practices described in this privacy notice. 
 
@@ -77,6 +77,8 @@ You always may choose not to provide information. Obviously, if you choose not t
 If, after receiving a non-order related email, you do not want to receive such emails in the future, you can notify us, by clicking on the "unsubscribe" link attached to each email.
 
 You can change or delete certain of your information on your account screen. You may also contact us at this address below if you would like to change your information or have us remove your information from our database.
+
+**Do Not Track** : Do Not Track (DNT) is a privacy preference that users can set in their web browsers, allowing users to opt out of tracking by websites and online services. At the present time, the World Wide Web Consortium (W3C) has not yet established universal standards for recognizable DNT signals, and, therefore, GameStop does not recognize DNT.
 
 ### Public Areas of Website
 
