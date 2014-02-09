@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vietson.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031164435id_/http%3A//www.vietson.com/home/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vietson.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209115849id_/http%3A//www.vietson.com/home/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy at VIETSON
 
@@ -43,7 +43,7 @@ Inviting friends to vietson.com is always completely optional. When you choose t
 
 For your convenience, vietson.com offers the ability to import email addresses from common address books such as Hotmail/Yahoo/Gmail/AOL. If you choose to use this feature, we will access your address book using the login details that you provide. We access your address book only once to retrieve your friends' information so that you may select whom to invite. We do not store your login details nor do we use them for any other purpose then to retrieve your contacts. We never send invitations to contacts you do not explicitly select and your invitations are the only email we will ever send to your friends unless they register to join the site. 
 
-If you have accidentally sent invitations you did not intend - please [contact us](https://web.archive.org/web/20131031164435id_/http%3A//www.vietson.com/home/Contact.cfm) and we can cancel the reminder message. 
+If you have accidentally sent invitations you did not intend - please [contact us](https://web.archive.org/web/20140209115849id_/http%3A//www.vietson.com/home/Contact.cfm) and we can cancel the reminder message. 
 
 #### Our Disclosure of Your Information
 
