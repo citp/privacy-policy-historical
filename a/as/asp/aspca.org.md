@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspca.org privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015022803id_/http%3A//www.aspca.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspca.org privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209061611id_/http%3A//www.aspca.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ASPCA
 
@@ -6,7 +6,7 @@ The ASPCA respects your privacy and is committed to protecting it through our co
 
 The Privacy Policy is designed to provide you with information about how we collect, store and use non-personally identifiable and personally identifiable information obtained through our website.  By visiting our website, you are accepting the practices described in this privacy policy. The ASPCA reserves the right to change this Privacy Policy at any time by posting such change here.  Your continued use of the website after such change is made constitutes acceptance of and agreement to be bound by the terms of the Privacy Policy as modified.
 
-This Privacy Policy applies to all our websites, including but not limited to [www.aspca.org](http://www.aspca.org/) and [www.aspcapro.org](http://www.aspcapro.org/) (the “ASPCA Websites”), and excluding  [ASPCAKids.org](http://www.aspca.org/ASPCAKids.aspx).  The ASPCAKids.org website has a separate policy, which can be found here. The ASPCA is not responsible for the privacy policy or content of any third-party website linked to our website. Please check with these third-party organizations or companies for their specific privacy policies.
+This Privacy Policy applies to all our websites, including but not limited to [www.aspca.org](http://www.aspca.org/) and [www.aspcapro.org](http://www.aspcapro.org/) (the “ASPCA Websites”). The ASPCA is not responsible for the privacy policy or content of any third-party website linked to our website. Please check with these third-party organizations or companies for their specific privacy policies.
 
 What information does the ASPCA collect?   
 How is the information used?   
@@ -45,7 +45,7 @@ Our website has industry standard high encryption security measures in place to 
 
 #### 
 
-No one under the age of 18 is allowed to register on this website.  The ASPCA is committed to safeguarding our users' online privacy and recognizes the importance of protecting the privacy of personal information, particularly that of children.  The ASPCA takes all required steps to protect the privacy and safety of children in accordance with the Children's Online Privacy Protection Act ("COPPA"). To review the measures the ASPCA takes in relation to the privacy of children, visit our [children's website's Privacy Policy](http://www.aspca.org/aspcakids/legal.aspx).
+No one under the age of 18 is allowed to register on this website.  The ASPCA is committed to safeguarding our users' online privacy and recognizes the importance of protecting the privacy of personal information, particularly that of children.  The ASPCA takes all required steps to protect the privacy and safety of children in accordance with the Children's Online Privacy Protection Act ("COPPA").
 
 #### 
 
