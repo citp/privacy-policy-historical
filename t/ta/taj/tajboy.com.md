@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tajboy.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218184844id_/http%3A//tajboy.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tajboy.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209041845id_/http%3A//www.tajboy.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Tajboy General Directory - Privacy Policy
 
