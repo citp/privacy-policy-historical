@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the kunena.org privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030142333id_/http%3A//www.kunena.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kunena.org privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209065822id_/http%3A//www.kunena.org/privacy-policy) for the most accurate reproduction.*
 
 # Kunena - To Speak! Next Generation Forum Component for Joomla - Privacy Policy
 
 ##  Privacy Policy 
 
 Details
-     Last Updated on Monday, 03 December 2012 22:54 
+     Last Updated on Thursday, 28 November 2013 10:26 
      Published on Friday, 20 July 2012 17:19 
 
 #### What information do we collect?
 
-We collect information from you when you register on our site or conact us for questions about problems that you may be having with the software products obtained from this website. When registering on our site you may be asked to enter your name, e-mail address, gender and geograhical location. You may, however, visit our site anonymously.Google, as a third party vendor, uses cookies to serve ads on this site.
+We collect information from you when you register on our site or contact us for questions about problems that you may be having with the software products obtained from this website. When registering on our site you may be asked to enter your name, e-mail address, gender and geograhical location. You may, however, visit our site anonymously.Google, as a third party vendor, uses cookies to serve ads on this site.
 
 Google's use of the DART cookie enables it to serve ads to users based on their visit to this site and other sites on the internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
