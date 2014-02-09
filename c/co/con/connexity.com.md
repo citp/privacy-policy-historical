@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connexity.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108111257id_/http%3A//www.connexity.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connexity.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209062631id_/http%3A//www.connexity.com/about/privacy) for the most accurate reproduction.*
 
 # Connexity - Audience Discovery
 
@@ -24,7 +24,7 @@ Our approach to this is based on many variables, most of which involve the colle
 
 We only collect data from websites we have a business relationship with. We anonymously collect data over time and across the network. We also use anonymous data from third party data providers who are contractually obligated to adhere to comparable privacy principles. This additional anonymous data is used to improve our audience database and make ads more interesting to you.
 
-Connexity uses a number of common technologies to identify devices that have been on the network before. These include browser cookies, local shared objects, HTML5 and entity tags. These are collectively called "persistence files" and are only used to synchronize the browser session with our server-side audience database. When you voluntarily Opt-Out of receiving behaviorally targeted advertising from Connexity, we also use these persistence tools to maintain your Opt-Out state indefinitely.
+Connexity uses a number of common technologies to identify devices that have been on the network before. These include HTTP cookies, HTML5 cookies, browser cache and entity tags. These are collectively called "persistence files" and are only used to synchronize the browser session with our server-side audience database. When you voluntarily Opt-Out of receiving behaviorally targeted advertising from Connexity, we also use these persistence tools to maintain your Opt-Out state indefinitely.
 
 ### What data we collect
 
