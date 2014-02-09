@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tikilive.com privacy policy that was archived on 2013-10-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131028052647id_/http%3A//www.tikilive.com/page/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tikilive.com privacy policy that was archived on 2014-02-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209043625id_/http%3A//www.tikilive.com/page/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta charset="utf-8">
@@ -23,29 +23,30 @@
 	<base href="http://www.tikilive.com/">
 
     <link rel="stylesheet" type="text/css" href="http://www.tikilive.com/templates/white-theme/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="http://www.tikilive.com/templates/white-theme/css/custom.css">
-	<link rel="stylesheet" type="text/css" href="http://www.tikilive.com/templates/white-theme/css/tikilive.css">
-	
-    	<!--[if IE]><link rel="stylesheet" type="text/css" href="http://www.tikilive.com/templates/white-theme/css/ie.css"/><![endif]-->
-	<!--[if IE 6]><style type="text/css">.ie6Warning { display: block; }</style><![endif]-->
+	<link rel="stylesheet" type="text/css" href="http://www.tikilive.com/templates/white-theme/css/custom.css?v=4.2.11">
+	<link rel="stylesheet" type="text/css" href="http://www.tikilive.com/templates/white-theme/css/tikilive.css?v=4.2.11">
+    	<!--[if IE 6]><style type="text/css">.ie6Warning { display: block; }</style><![endif]-->
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript">
 		var www_root = "http://www.tikilive.com/";
-		var www_flash_path = "http://www.tikilive.com/public/flash/";
 		var template_path = "white-theme";
 	</script>
 	
     <script src="http://www.tikilive.com/templates/white-theme/js/jquery.min.js"></script>
+    <script src="http://www.tikilive.com/templates/white-theme/js/jquery-ui.js"></script>
     <script src="http://www.tikilive.com/templates/white-theme/js/jquery.clickOutside.js"></script> 
     <script src="http://www.tikilive.com/public/white-theme/js/jquery.tools.min.js"></script> 
     <script src="http://www.tikilive.com/templates/white-theme/js/bootstrap.min.js"></script>     
-    <script src="http://www.tikilive.com/templates/white-theme/js/utils.js"></script>
+    <script src="http://www.tikilive.com/templates/white-theme/js/utils.js?v=4.2.11"></script>
+    <script src="http://www.tikilive.com/templates/white-theme/js/shopping-cart.js?v=4.2.11"></script>
     <script src="http://www.tikilive.com/templates/white-theme/js/kkcountdown.js" type="text/javascript"></script>     
     <script src="http://www.tikilive.com/templates/white-theme/js/bootstrap.hover.dropdown.js"></script>     
-    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="http://www.tikilive.com/templates/white-theme/js/jquery.slimscroll.min.js"></script>
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet" type="text/css">
 	
     <script src="http://www.tikilive.com/templates/white-theme/js/fancybox/jquery.fancybox-1.3.4.pack.js" type="text/javascript"></script>
     <link href="http://www.tikilive.com/templates/white-theme/js/fancybox/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css" media="screen">
     <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+    <!--[if !IE]><!--><script>if (/*@cc_on!@*/false) {document.documentElement.className+=' ie10';}</script><!--<![endif]-->
 </head>
 <body data-spy="scroll" data-target="#sidebar_tabs">
 <div id="fb-root"></div>
@@ -77,6 +78,18 @@ window.fbAsyncInit = function() {
 </script>
 
 <div class="modal hide" id="myModal"></div> 
+<div class="modal hide smallModal" id="alertModal">
+    <div class="modal-header"> 
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button> 
+        <h3>Info</h3>
+     </div>
+     <div class="modal-body">  
+        <div class="alert alert-info text-center margin-bottom-none" id="alertModalContent"></div>
+     </div>
+     <div class="modal-footer">  
+         <button class="btn btn-larger btn-block" data-dismiss="modal">OK</button> 
+     </div>
+</div> 
 <div class="wrapper">
 
         <nav class="navbar margin-bottom-none">
@@ -106,7 +119,10 @@ window.fbAsyncInit = function() {
                                 <label class="checkbox"><input type="radio" name="search" checked="checked" value="videos"> Videos</label>
                                 <label class="checkbox"><input type="radio" name="search" value="channels"> Channels</label>
                                 <label class="checkbox"><input type="radio" name="search" value="broadcasters"> Broadcasters</label>
-                                 </form> 
+								 
+                                <label class="checkbox"><input type="radio" name="search" value="manual"> Manual</label>
+                                                                
+								</form> 
 							</li>					
 									</ul>
                 
@@ -119,7 +135,9 @@ window.fbAsyncInit = function() {
                         <b class="explore-caret"><b class="caret-up"></b><b class="caret-down"></b></b>
                         <div class="liner"><div class="liner-left"></div><div class="liner-right"></div></div>
                         </a>
-                        <ul class="dropdown-menu">                          
+                        <ul class="dropdown-menu">   
+						  <li><a tabindex="-1" href="http://www.tikilive.com/page/Premium-HD-TV-for-Cable-Operators">Premium Content API</a></li>
+							<li><a tabindex="-1" href="http://www.tikilive.com/page/Premium-HD-TV-for-Active-Subscribers">Premium Mobile Content</a></li>							  
                           <li><a tabindex="-1" href="http://www.tikilive.com/live/show/only-live">Channels</a></li>
                                                     <li><a tabindex="-1" href="http://www.tikilive.com/radios/show/only-live">Live Radio</a></li>
                                                     <li><a tabindex="-1" href="http://www.tikilive.com/recordedvideos">Videos</a></li>
@@ -135,7 +153,7 @@ window.fbAsyncInit = function() {
                 <ul class="nav nav-main">
                     <li><a href="http://www.tikilive.com/schedule"><b class="menu-icon menu-live"></b><br>Channel Guide</a></li>
                                             <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-hover="dropdown" data-delay="0" data-prevent-click="true"><b class="menu-icon menu-tools"></b><br>Channels
+                            <a href="#" class="dropdown-toggle" data-hover="dropdown" data-delay="0" data-prevent-click="true"><b class="menu-icon menu-channels"></b><br>Channels
                             <div class="liner"><div class="liner-left"></div><div class="liner-right"></div></div>
                             </a>
                                 <ul class="dropdown-menu">                             
@@ -143,8 +161,7 @@ window.fbAsyncInit = function() {
                                   <li><a tabindex="-1" href="http://www.tikilive.com/radios/show/only-live">Radio Channels</a></li>                            
                                 </ul>
                         </li>
-                    
-                                            <li><a href="http://www.tikilive.com/offers"><b class="menu-icon menu-premium"></b><br>Media Packs</a></li>
+                                                                <li><a href="http://www.tikilive.com/offers"><b class="menu-icon menu-offers"></b><br>Media Packs</a></li>
                                                                               
                         <li><a href="http://www.tikilive.com/upgrade"><b class="menu-icon menu-upgrade"></b><br>Broadcaster Pros</a></li>
                                         
@@ -173,6 +190,9 @@ window.fbAsyncInit = function() {
                                  <label class="checkbox">
                                     <input type="radio" name="search" value="broadcasters"> Broadcasters
                                 </label>
+								 
+                                <label class="checkbox"><input type="radio" name="search" value="manual"> Manual</label>
+                                  
                                 
                                  </form> 
                         </li>
@@ -185,19 +205,39 @@ window.fbAsyncInit = function() {
                 
                 <div class="pull-right account-holder">
                                             <div class="dropdown header-btn-holder header-btn-holder-first">  
-                           <a href="m/login" data-toggle="modal" data-target="#myModal" class="btn btn-large dropdown-toggle" data-hover="dropdown" data-delay="0">Login&nbsp;<span class="caret"></span></a>
-                             <ul class="dropdown-menu login-menu">
+                            <a href="m/login" data-toggle="modal" data-target="#myModal" class="btn btn-large dropdown-toggle" data-hover="dropdown" data-delay="0">Login&nbsp;<span class="caret"></span></a>
+                            <ul class="dropdown-menu login-menu">
                                 <li><a href="m/login" data-toggle="modal" data-target="#myModal">Login/Register</a></li>
                                 <li><a tabindex="-1" href="http://www.tikilive.com/lostpassword">Forgot Password</a></li>
                                 <li><a tabindex="-1" href="http://www.tikilive.com/reactivate">Resend Activation Email</a></li>
                                 <li><a tabindex="-1" href="http://www.tikilive.com/register">Create an Account</a></li>
-                             </ul>
-                         </div>  
+                            </ul>
+                        </div>
                                         
-                                        <div class="header-btn-holder">
+                    <div class="header-btn-holder">
                     <a href="m/login/redirect/http%3A%2F%2Fwww.tikilive.com%2Fbroadcasting_properties" data-toggle="modal" data-target="#myModal" class="btn btn-primary btn-large">Go LIVE</a>  
                     </div>
-                     
+                         
+                    <ul class="nav nav-shopping-cart">
+                        <li class="dropdown">
+                            <a href="http://www.tikilive.com/checkout" class="dropdown-toggle" data-hover="dropdown" data-delay="0">
+                                <div class="spc-line"></div>
+                                <button class="btn btn-warning btn-large" id="spc_button"><i class="icon icon-shopping-cart"></i>Cart<span class="spc-nr-items" id="spc_nr_items"></span></button>
+                                <div class="liner"><div class="liner-left"></div><div class="liner-right"></div></div>      
+                            </a>
+                            <ul class="dropdown-menu cart-menu" id="cartMenu">
+                                 <li class="text-center">
+    <div class="row-fluid margin-top-medium">
+        <img src="http://www.tikilive.com/templates/white-theme/images/shopping-cart-small-icon.png">
+    </div>
+    <div class="row-fluid margin-top-small margin-bottom-medium font-size-normal">
+        You have no items in cart.
+    </div>
+</li>
+     
+                            </ul>
+                        </li>    
+                    </ul>
                                     </div>
 			
 			
@@ -310,49 +350,50 @@ Revised: May 23, 2013</p>
         <div class="push"></div>
          </div>
     </div>
-    <script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=b8cc7f50-efd6-4bfe-907d-32a2e0f79c25&amp;type=website&amp;embeds=true&amp;button=false"></script>
-    <footer class="footer">
+
+
+<script type="text/javascript">var switchTo5x=false;</script>
+<script type="text/javascript" src="//ws.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "b8cc7f50-efd6-4bfe-907d-32a2e0f79c25", doNotHash: true, doNotCopy: true, hashAddressBar: false });</script>
+
+
+    <footer id="footer" class="footer">
      
         <div class="container-fluid container-fluid-footer">
                 <div class="row-fluid">
                                                <ul class="span3">
-                            <li><h5>Help</h5></li>
-                                                         <li><a href="/welcome" title="User Dashboard"> User Dashboard</a></li>
-                                                         <li><a href="http://www.tikilive.com/show/eyepartner-live-support" title="Live Support" target="_blank"> Live Support</a></li>
-                                                         <li><a href="http://www.tikilive.com/show/tikilive-help-desk" title="Help Desk"> Help Desk</a></li>
-                                                         <li><a href="http://v4manual.tikilive.org/" title="TikiLive Manual" target="_blank"> TikiLive Manual</a></li>
+                        <li><h5>Help</h5></li>
+                                                     <li><a href="/welcome" title="User Dashboard">User Dashboard</a></li>
+                                                     <li><a href="http://www.tikilive.com/show/eyepartner-live-support" title="Live Support" target="_blank">Live Support</a></li>
+                                                     <li><a href="http://www.tikilive.com/show/tikilive-help-desk" title="Help Desk">Help Desk</a></li>
+                                                     <li><a href="http://v4manual.tikilive.org/" title="TikiLive Manual" target="_blank">TikiLive Manual</a></li>
                                                     </ul>
                                                 <ul class="span3">
-                            <li><h5>TikiLIVE Developers</h5></li>
-                                                         <li><a href="http://www.eyepartner.com/" title="An Eyepartner Company" target="_blank"> An Eyepartner Company</a></li>
-                                                         <li><a href="http://www.bmi.com/licensing/entry/business_using_music_bmi_and_performing_rights" title="Licensed by BMI" target="_blank"> Licensed by BMI</a></li>
-                                                         <li><a href="http://www.ascap.com/licensing/types/web-mobile" title="Licensed by ASCAP" target="_blank"> Licensed by ASCAP</a></li>
-                                                         <li><a href="http://www.socan.ca/licensees" title="Licensed by SOCAN" target="_blank"> Licensed by SOCAN</a></li>
-                                                         <li><a href="http://blog.eyepartner.com/" title="Our Blog" target="_blank"> Our Blog</a></li>
-                                                         <li><a href="http://eyepartner.com/case-studies.php" title="Case Studies" target="_blank"> Case Studies</a></li>
-                                                         <li><a href="http://www.eyepartner.com/contact.php?from=tikilive.com" title="Contact Us" target="_blank"> Contact Us</a></li>
+                        <li><h5>TikiLIVE Developers</h5></li>
+                                                     <li><a href="http://www.eyepartner.com/" title="An Eyepartner Company" target="_blank">An Eyepartner Company</a></li>
+                                                     <li><a href="http://www.bmi.com/licensing/entry/business_using_music_bmi_and_performing_rights" title="Licensed by BMI" target="_blank">Licensed by BMI</a></li>
+                                                     <li><a href="http://www.ascap.com/licensing/types/web-mobile" title="Licensed by ASCAP" target="_blank">Licensed by ASCAP</a></li>
+                                                     <li><a href="http://www.socan.ca/licensees" title="Licensed by SOCAN" target="_blank">Licensed by SOCAN</a></li>
+                                                     <li><a href="http://blog.eyepartner.com/" title="Our Blog" target="_blank">Our Blog</a></li>
+                                                     <li><a href="http://eyepartner.com/case-studies.php" title="Case Studies" target="_blank">Case Studies</a></li>
+                                                     <li><a href="http://www.eyepartner.com/contact.php?from=tikilive.com" title="Contact Us" target="_blank">Contact Us</a></li>
                                                     </ul>
                                                 <ul class="span3">
-                            <li><h5>Info</h5></li>
-                                                         <li><a href="http://www.eyepartner.com/broadcasting-platform/tikilive/features-list/" title="Build Your Site"> Build Your Site</a></li>
-                                                         <li><a href="/page/terms-of-use" title="Terms of Use"> Terms of Use</a></li>
-                                                         <li><a href="/page/privacy-policy" title="Privacy Policy"> Privacy Policy</a></li>
-                                                         <li><a href="/page/copyright-policy" title="Copyright Policy"> Copyright Policy</a></li>
-                                                         <li><a href="/page/dmca-notice" title="DMCA Notice"> DMCA Notice</a></li>
-                                                         <li><a href="/page/f-a-q" title="F.A.Q."> F.A.Q.</a></li>
-                                                         <li><a href="http://www.tikilive.com/affiliates" title="Become an Affiliate"> Become an Affiliate</a></li>
+                        <li><h5>Info</h5></li>
+                                                     <li><a href="http://www.eyepartner.com/broadcasting-platform/tikilive/features-list/" title="Build Your Site">Build Your Site</a></li>
+                                                     <li><a href="/page/terms-of-use" title="Terms of Use">Terms of Use</a></li>
+                                                     <li><a href="/page/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
+                                                     <li><a href="/page/copyright-policy" title="Copyright Policy">Copyright Policy</a></li>
+                                                     <li><a href="/page/dmca-notice" title="DMCA Notice">DMCA Notice</a></li>
+                                                     <li><a href="/page/f-a-q" title="F.A.Q.">F.A.Q.</a></li>
+                                                     <li><a href="http://www.tikilive.com/affiliates" title="Become an Affiliate">Become an Affiliate</a></li>
                                                     </ul>
                         
                         <div class="pull-left social-icons-holder">
                             <div class="pull-left text-align-right clear-both">
                                 <a href="http://twitter.com/tikilive" target="_blank" class="social-icon social-twitter pull-left"></a>
                                 <a href="http://www.facebook.com/TikiLIVE" target="_blank" class="social-icon social-facebook pull-left"></a>
-                                <a href="#" class="social-icon social-sharethis pull-left" id="shareThisButton"></a>
-                                <script language="javascript" type="text/javascript">
-                                var object = SHARETHIS.addEntry({title:'share', summary: 'Sharing is good for the soul.'}, {button:false});
-                                var element = document.getElementById("shareThisButton");
-                                object.attachButton(element);
-                                </script>
+                            <span class="st_sharethis_custom social-icon social-sharethis pull-left" id="shareThisButton">&nbsp;</span>
                             </div>
                             <div class="clear-both">
                                     <div class="control-group pull-right" id="newsletterHolder">
@@ -376,7 +417,7 @@ Revised: May 23, 2013</p>
     <div class="copy">
         <div class="container-fluid padding-bottom-none">
             <div class="row-fluid">
-                 <div class="pull-left margin-left-medium"> Copyright © TikiLIVE v4.1.3, All Rights Reserved</div>
+                 <div class="pull-left margin-left-medium"> Copyright © TikiLIVE v4.2.11, All Rights Reserved</div>
                                 <div class="pull-right margin-left-medium margin-right-medium">
                     <div class="languages-holder">
                         <div class="pull-left">Language:&nbsp;</div>
@@ -495,6 +536,5 @@ PostAffTracker.track();
   })();
 
 </script>
-
 
 </body></html>
