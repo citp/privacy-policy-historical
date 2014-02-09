@@ -1,49 +1,103 @@
-> *The following text is extracted and transformed from the transportationsoftware.com privacy policy that was archived on 2004-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040806131015id_/http%3A//www.transportationsoftware.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transportationsoftware.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209034636id_/http%3A//www.dat.com/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# CarrierWatch
+# Privacy Policy - DAT
 
-This Privacy Statement discloses the information gathering and dissemination practices of TC IP, Ltd., its parent, affiliate, and subsidiary companies (“TransCore”) in connection with the World Wide Web site located at [www.transportationsoftware.com](http://www.transportationsoftware.com/) (collectively, the “Site”). The Site is controlled and operated by TransCore Commercial Services, Inc. from its offices in the United States. This Privacy Statement addresses only TransCore’s practices regarding information collected directly from the Site – it does not address or govern any information gathering or dissemination practices related to information collected by way of other means or media, whether off-line or otherwise. TransCore can be contacted by mail at 11000 SW Stratus Street, Suite 100, Beaverton, Oregon, 97008, by phone at 1.800.547.5417 (within the United States) or 1.503.643.4331(outside the United States), or by e-mail at [inquiries @transcorebusiness.com](mailto:inquiries@transcorebusiness.comtranscore) .
+Effective Date June 1, 2012
 
-**1\. Collection of Personal Information from Site Visitors**
+At TransCore we recognize that privacy is important. This Privacy Policy applies to all of the products, Services and websites offered by TransCore or its subsidiaries or affiliated companies; collectively, TransCore’s “Services”.
 
-TransCore may collect or track (1) the home server domain names, e-mail addresses, type of client computer, files downloaded, search engine used, operating system, and type of Web browser of visitors to the Site, (2) the e-mail addresses of visitors that communicate with TransCore via e-mail, (3) information knowingly provided by the visitor in online order forms, sign-up forms, contact forms, online resume submissions, registration forms, surveys, e-mail, and other online avenues (including, without limitation, demographic and personal profile data), and (4) aggregate and user-specific information regarding which pages Site visitors access.
+TransCore adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce’s Safe Harbor Program. If you have any questions about this Privacy Policy, please feel free to contact us through our website or write to us at:
 
-TransCore may place Internet “cookies” on visitors’ hard drives. Internet cookies save data about individual visitors, such as the visitor’s name, password, user-name, shopping cart, screen preferences, and the pages of a site viewed by the visitor. When the visitor revisits the Site, TransCore may recognize the visitor by the Internet cookie and customize the visitor’s experience accordingly. Visitors may decline Internet cookies, if any, by using the appropriate feature of their Web client software, if available.
+_Privacy Matters  
+TransCore  
+8158 Adams Drive_  
+_Suite 200_  
+_Hummelstown, PA 17036_  
+_USA_
 
-TransCore also may use Web bugs to gather, store, and track certain information related to your visit to and activity on the Site. A Web “bug” is a file object, which can be a graphic image such as a transparent one pixel-by-one pixel graphics file, which is placed on a Web page or in an e-mail message to monitor user activity. A Web bug can gather, for example, the IP address of your computer, the time the Web page was viewed, and the type of browser used.
+Information we collect and how we use it
 
-When a visitor performs a search within the Site, TransCore may record information identifying the visitor or linking the visitor to the search performed. TransCore may also record limited information for every search request and use that information to solve technical problems with the services available directly or indirectly in connection with the Site and to calculate overall usage statistics.
+We offer a number of Services that do not require you to register for an account or provide any personal information to us. In order to provide our full range of Services, we may collect the following types of information: 
 
-**2\. Use of Personal Data Collected**
+  * **Information you provide** – When you sign up for a TransCore Service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). For certain Services, such as our Freight Matching Services and DAT Onboarding, we also request credit card or other payment account information, as well as Federal Tax ID #, which we maintain in encrypted form on secure servers. We may combine the information you submit under your account with information from other TransCore Services or third parties in order to provide you with a better experience and to improve the quality of our Services. For certain Services, we may give you the opportunity to opt out of combining such information.
+  * **Cookies** – When you visit TransCore, we send one or more cookies – a small file containing a string of characters – to your computer that uniquely identifies your browser. We use cookies to improve the quality of our Service by storing user preferences and tracking user trends, such as how people navigate our websites.
+  * **Log information** – When you access TransCore Services, our servers automatically record information that your browser sends whenever you visit a website. These [server logs](http://www.google.com/intl/en/privacy_faq.html#serverlogs "This link will open in a new tab") may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+  * **User communications** – When you send email or other communications to TransCore, we may retain those communications in order to process your inquiries, respond to your requests and improve our Services.
+  * **Affiliated sites** – We offer some of our Services in connection with other web sites. Personal information that you provide to those sites may be sent to TransCore in order to deliver the Service. We process such information in accordance with this Privacy Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies.
+  * **Links** – TransCore may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our customer relationship systems and customized content.
+  * **Other sites** – This Privacy Policy applies to TransCore Services only. We do not exercise control over the sites displayed as links from within our various Services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
 
-Personal data collected by TransCore may be used by TransCore for many reasons, for example, for editorial and feedback purposes, for marketing and promotional purposes, for a statistical analysis of users’ behavior, for product development, for content improvement, for fulfillment of a requested transaction or recordkeeping, or to customize the content and layout of the Site. Aggregate data on visitors’ home servers may be used for internal purposes, and individually identifying information, such as names, postal and e-mail addresses, phone numbers, and other personal information which visitors voluntarily provide to TransCore may be added to TransCore’s databases and used for future calls and mailings regarding Site updates, new products and services, and upcoming events.
 
-TransCore also may use Site visitor data to contact the Site visitors regarding account status and changes to the subscriber agreement, privacy statement, and any other policies or agreements relevant to Site visitors.
 
-**3\. Disclosure of Personal Data to Third Parties**
+TransCore processes personal information for the purposes described in this Privacy Policy. In addition to the above, such purposes include but are not limited to:
 
-Aggregate data on visitors' home servers may be provided to marketing, promotion, and similar firms. . Identifiable and non-identifiable visitor information and data which visitors provide to TransCore may be provided to third parties who provide products, information, or services which TransCore believes that visitors may be interested in directly or indirectly purchasing or obtaining. Identifiable or non-identifiable data also may be disclosed or distributed to another party with which TransCore enters or reasonably may enter into a corporate transaction, such as, for example, a merger, consolidation, acquisition, or asset purchase, or to a third party pursuant to a subpoena, other form of legal process, or a request by or on behalf of any local, state, federal, or other government department or agency.
+  * Providing our Services to users, including the display of customized content and advertising;
+  * Auditing, research and analysis in order to maintain, protect and improve our Services; 
+  * Ensuring the technical functioning of our network; and 
+  * Developing new Services.
 
-While TransCore may undertake efforts to see that any third party to which TransCore shares, rents, sells, or otherwise discloses personal data is under a contractual obligation to use the personal data solely for the purposes for which the data was disclosed, such third parties are independent third parties over which TransCore exercises no control, and TransCore is not responsible for their conduct, actions, omissions, or information handling or dissemination practices and TransCore will not be liable therefor.
 
-This Site may contain links to other World Wide Web sites or advertisements for or placed by third parties. TransCore is not responsible for the privacy practices of such Web sites, advertisers, or third parties, or for the content of such sites or advertisements. It is possible that these links or advertisements, themselves, may be used by third parties or others to collect personal or other information about Site visitors. It is solely the visitors’ obligation to review and understand the privacy practices and policies of these other Web sites and of these advertisers and third parties.
 
-**4\. Security Measures**
+You can find more information about how we process personal information by referring to the supplementary privacy notices if any, for particular Services. TransCore processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own Services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our business partners.
 
-TransCore has implemented numerous security features to prevent the unauthorized release of or access to personal information. For example, employees responsible for operation and maintenance of the Site are asked to sign a non-disclosure agreement. Please be advised, however, that the confidentiality of any communication or material transmitted to or from TransCore via this Site or e-mail cannot be guaranteed. Accordingly, TransCore is not responsible for the security of information transmitted via the Internet. Instead of communicating with TransCore via e-mail or the Internet, visitors can contact TransCore by mail at 11000 SW Stratus Street, Suite 100, Beaverton, Oregon, 97008, or by phone at1.800.547.5417 (within the United States) or 1.503.643.4331 (outside the United States).
+Choices for personal information
 
-**5\. Opt-Out Right  
-**  
-Except in connection with TransCore’s provision of services, information, and products requested by a visitor, the visitor may opt out of having his or her personally identifiable information, which has been voluntarily provided to TransCore through an account registration, customer order, or electronic news or information subscription, prospectively retained by TransCore, used by TransCore for secondary purposes, or disclosed by TransCore to third parties by contacting TransCore via postal mail, e-mail, or telephone at the addresses set out above. (This does not apply to collection of the type of Web browser of the visitor to the Site or to information provided or collected that does not meet the above description.)
+When you sign up for a particular Service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
 
-**6\. Access to and Ability to Correct Personal Data**
+If we propose to use personal information for any purposes other than those described in this Privacy Policy and/or in the specific Service privacy notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Privacy Policy and/or in the supplementary Service privacy notices, unless we have obtained your prior consent.
 
-Upon a visitor’s request via postal mail, e-mail, or phone, TransCore will provide to the visitor a summary of any personally identifiable information retained by TransCore regarding the visitor, which information has been voluntarily provided to TransCore through the Site through an account registration, customer order, or electronic news or information subscription. A visitor may modify, correct, change or update their personally identifiable information by contacting TransCore via postal mail, e-mail, or telephone at the addresses or numbers above.
+Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some TransCore features and Services may not function properly if your cookies are disabled. You may decline to submit personal information to any of our Services, in which case TransCore may not be able to provide those Services to you.
 
-**7\. Right to Change Privacy Statement**
+Information sharing
 
-TransCore may change this Privacy Statement at any time. Notice of any new or revised Privacy Statement, as well as the location of the new or revised statement, will be posted on the Site for at least 60 days after the change. It is the obligation of users visiting the Site before the change to learn of changes to the Privacy Statement since their last visit. Any change to this Privacy Statement shall be effective as to any visitor who has visited the Site before the change was made. 
+TransCore only shares personal information with other companies or individuals outside of TransCore in the following limited circumstances: 
 
-**8\. Date Privacy Statement Effective**
+  * We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
+  * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and/or any other appropriate confidentiality and security measures. 
+  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of TransCore, its users or the public as required or permitted by law. 
 
-This Privacy Statement is effective March 26, 2003. 
+
+
+If TransCore becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy. We may share with third parties certain pieces of [aggregated, non-personal information](http://www.google.com/intl/en/privacy_faq.html#aggregatedinfo "This link will open in a new tab"). This refers to information that is recorded about users and collected into groups so that it no longer reflects or references an individually identifiable user. Examples could include the number of users who clicked on a particular advertisement or the number of users submitting a particular Freight Matching search. Such information does not identify you individually.
+
+Please contact us at the address below for any additional questions about the management or use of personal data.
+
+Information security
+
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
+
+We restrict access to personal information to TransCore employees, contractors and agents who need to know that information in order to operate, develop or improve our Services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+
+Data integrity
+
+TransCore processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy or any applicable Service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our Services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+
+Accessing and updating personal information
+
+When you use TransCore Services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this Service free of charge, except if doing so would require a disproportionate effort. Some of our Services have different procedures to access, correct or delete users’ personal information.
+
+Enforcement
+
+TransCore regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or TransCore’s treatment of personal information by contacting us through this web site or by writing to us at
+
+_Privacy Matters  
+TransCore  
+8158 Adams Drive_  
+_Suite 200_  
+_Hummelstown, PA 17036_  
+_USA_
+
+When we receive formal written complaints at this address, it is TransCore’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between TransCore and an individual.
+
+Changes to this Privacy Policy
+
+Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain Services, email notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page by its Effective Date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
+
+If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site or at 
+
+_Privacy Matters  
+TransCore  
+8158 Adams Drive_  
+_Suite 200_  
+_Hummelstown, PA 17036_  
+_USA_
