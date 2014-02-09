@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memberspeed.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017174026id_/http%3A//www.memberspeed.com/Privacy_Policy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memberspeed.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209122233id_/http%3A//www.memberspeed.com/Privacy_Policy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # MemberSpeed.com Privacy Policy
 
