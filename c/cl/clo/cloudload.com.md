@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudload.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807020020id_/http%3A//www.cloudload.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudload.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209141944id_/http%3A//www.cloudload.com/privacy-policy) for the most accurate reproduction.*
 
 # CloudLoad.com - From the web to the cloud. Stream video, view photos, store documents.
 
