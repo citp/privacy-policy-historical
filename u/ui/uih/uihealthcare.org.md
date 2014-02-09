@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uihealthcare.org privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105125610id_/http%3A//www.uihealthcare.org/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D21932%26libID%3D22162) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uihealthcare.org privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209044908id_/http%3A//www.uihealthcare.org/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D21932%26libID%3D22162) for the most accurate reproduction.*
 
 # Privacy Policy
 
