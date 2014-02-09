@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snowcovered.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821094109id_/http%3A//store.dnnsoftware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snowcovered.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209101555id_/http%3A//store.dnnsoftware.com/privacy) for the most accurate reproduction.*
 
-# DNN Store Home
+# The Official DNN Store - Modules, Skins and Extensions
 
 DNN Corp The Store is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the DNN Corp The Store Web site and governs data collection and usage. By using the DNN Corp The Store website, you consent to the data practices described in this statement.
 
