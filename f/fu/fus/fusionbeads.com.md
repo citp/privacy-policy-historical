@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fusionbeads.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823091332id_/http%3A//www.fusionbeads.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fusionbeads.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209084650id_/http%3A//www.fusionbeads.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,7 +65,7 @@ Pursuant to Section 1798.83 of the California Civil Code, residents of Californi
 **8\. How you can Stop Receiving Communications from Us**  
 When you receive communications from us, including email, you may indicate a preference to stop receiving further communications from us by following the "unsubscribe" instructions provided in the e-mail you receive, or by contacting us directly. Once you have submitted your e-mail address to unsubscribe, please note that you may continue to receive emails for a short time while our system updates your request. 
 
-You may change any of the personal information in your account by editing your [Account information.](https://fusionbeads.securedcheckout.com/app/center/nlvisitor.nl?sc=6&__utmx=-&__utmv=-&__utmz=1.1373999091.1.1.utmcsr=\(direct\)|utmccn=\(direct\)|utmcmd=\(none\)&__utmk=119089161&__utma=1.496230336.1373999091.1375832919.1375894636.25&__utmc=1&__utmb=1.2.10.1375894636&ck=z_Ht40W-AcEutTtx&vid=z_Ht40W-AcYutVuA&cktime=114314&addrcountry=US&gc=clear)
+You may change any of the personal information in your account by editing your [Account information.](https://fusionbeads.securedcheckout.com/app/center/nlvisitor.nl?sc=6&__utmx=-&__utmv=-&__utmz=1.1373999091.1.1.utmcsr=\(direct\)|utmccn=\(direct\)|utmcmd=\(none\)&__utmk=119089161&__utma=1.496230336.1373999091.1375832919.1375894636.25&__utmc=1&__utmb=1.2.10.1375894636&ck=z_Ht4QfhAQORiE2p&vid=z_Ht4QfhAQeRiCcg&cktime=122976&addrcountry=US&gc=clear)
 
  **9\. How you can Reach Us**  
 If you have any questions or concerns regarding this Privacy Policy, to request access to your personal information in our records, or the correction of that information, or to opt out of receiving information as permitted under this Privacy Policy, please contact us at: Fusion Beads 13024 Stone Ave. N. Seattle, WA 98133 
