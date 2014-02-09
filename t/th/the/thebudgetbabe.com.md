@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebudgetbabe.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927040503id_/http%3A//www.thebudgetbabe.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebudgetbabe.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209042500id_/http%3A//www.thebudgetbabe.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Budget Babe
 
