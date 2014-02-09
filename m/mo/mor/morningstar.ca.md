@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morningstar.ca privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221170154id_/https%3A//members.morningstar.ca/PrivacyPolicy.aspx%3Fculture%3Den-CA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morningstar.ca privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209173736id_/https%3A//members.morningstar.ca/PrivacyPolicy.aspx%3Fculture%3Den-CA) for the most accurate reproduction.*
 
 # Morningstar: Mutual fund investing, analysis, research, ratings and news
 
