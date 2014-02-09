@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submittable.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211100257id_/http%3A//www.submittable.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submittable.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209030303id_/http%3A//www.submittable.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy
 
