@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the clark.edu privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601205513id_/http%3A//www.clark.edu/about_clark/policies/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clark.edu privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209191555id_/http%3A//www.clark.edu/about_clark/policies/privacy_policy.php) for the most accurate reproduction.*
 
-# About Clark- Clark College Public Records Privacy Protection Policy
-
-Public Records Privacy Protection Policy 
-
-  
-
+# None
 
 **Adopted by the Information Services Board (ISB)—  
 Effective: 06/12/2001**
@@ -51,7 +46,7 @@ Effective: 06/12/2001**
 **Information collected if you only browse this site.**  
 If you do nothing during your visit to our Web site but browse, read pages, or download information, we will gather and store certain information about your visit. This information does not identify you personally. We automatically collect and store the following information about your visit:
 
-| 1. | The Internet Protocol address and domain name used. The Internet Protocol address is a numerical identifier assigned either to your Internet Service Provider (ISP) or directly to your computer. We use the Internet Protocol address to direct Internet traffic to you. This address can be translated to determine the domain name of your service provider (e.g. xcompany.com or yourschool.edu);   
+1. | The Internet Protocol address and domain name used. The Internet Protocol address is a numerical identifier assigned either to your Internet Service Provider (ISP) or directly to your computer. We use the Internet Protocol address to direct Internet traffic to you. This address can be translated to determine the domain name of your service provider (e.g. xcompany.com or yourschool.edu);   
 ---|---  
 2. |  The type of browser and operating system you used;   
 3. | The date and time you visited this site;   
