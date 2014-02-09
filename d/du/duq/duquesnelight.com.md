@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duquesnelight.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819100200id_/https%3A//www.duquesnelight.com/forOurCustomers/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duquesnelight.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209182740id_/https%3A//www.duquesnelight.com/forOurCustomers/privacyPolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
