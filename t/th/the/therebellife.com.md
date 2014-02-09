@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the therebellife.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027094431id_/http%3A//www.therebellife.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therebellife.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209103734id_/http%3A//www.therebellife.com/privacy_policy.php) for the most accurate reproduction.*
 
-# The Canadian National Newspaper: About Us
+# The Canadian National Newspaper: About Us - The Rebel Life | Canada's eclectic magazine | therebellife.com
 
 The Canadian is a not-for-profit organization. We seek to respect the privacy of our readers, and everyone in general, in relation to the vital human rights principles that we support.
 
