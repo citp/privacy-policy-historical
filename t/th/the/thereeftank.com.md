@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thereeftank.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820155637id_/http%3A//www.thereeftank.com/forums/faq.php%3Ffaq%3Dprivacy%23faq_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thereeftank.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209220649id_/http%3A//www.thereeftank.com/forums/faq.php%3Ffaq%3Dprivacy%23faq_statement) for the most accurate reproduction.*
 
 # The Reef Tank - FAQ: Privacy Statement
 
