@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedomwithwriting.com privacy policy that was archived on 2013-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130128012219id_/http%3A//www.freedomwithwriting.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedomwithwriting.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209213157id_/http%3A//www.freedomwithwriting.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,7 +15,7 @@ Referring url, if provided by the user's browsing software
 
 ### How we use the information we gather
 
-We use the information to enhance your visitor experience. If you provide your name and email address, we will send you free information about mystery shopping. Your personal information is never shared, sold, bartered, or exchanged with anyone. Ever. We take your privacy seriously.
+We use the information to enhance your visitor experience. If you provide your name and email address, we will send you free information about freelance writing. Your personal information is never shared, sold, bartered, or exchanged with anyone. Ever. We take your privacy seriously.
 
 ### Our use of cookies
 
