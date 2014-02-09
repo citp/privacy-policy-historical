@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incrediblecharts.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203084459id_/http%3A//www.incrediblecharts.com/legal_vizhon/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incrediblecharts.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209133439id_/http%3A//www.incrediblecharts.com/legal_vizhon/privacy_policy.php) for the most accurate reproduction.*
 
 # Incredible Charts: Privacy Policy
 
@@ -12,11 +12,11 @@ We do not run opt-in mailing lists or send third-party emails.
 
 We are committed to maintain the privacy of personal information that you provide when using our services.
 
-We comply with the privacy laws of both the United States and Australia.
+We comply with the privacy laws of both Australia and the United States.
 
 ## Definitions
 
-"We" are Vizhon Corporation and our affiliates.
+"We" are Incredible Charts Pty Ltd and our affiliates.
 
 Our "affiliates" include our licensors, licensees, marketing partners and service providers.
 
@@ -49,7 +49,7 @@ We use information collected in the following ways:
 
 ## Right To Access
 
-You have a right to access your personal information, subject to some exceptions allowed by law. If you would like to do so, please contact us. You may be required to put your request in writing for security reasons. Vizhon Corporation reserves the right to charge a fee for searching for and providing access to your information.
+You have a right to access your personal information, subject to some exceptions allowed by law. If you would like to do so, please contact us. You may be required to put your request in writing for security reasons. Incredible Charts Pty Ltd reserves the right to charge a fee for searching for and providing access to your information.
 
 ## Security 
 
@@ -71,7 +71,7 @@ We may use third party network advertisers to deliver ads to you on our behalf. 
 
 We ask that children under the age of 18 have a parent or guardian verify their subscription or membership application. While we will make every reasonable effort to ensure that children's privacy and other rights are not compromised, it is ultimately the responsibility of parents to monitor their children's Internet usage.
 
-If you have any questions regarding privacy, please [contact us](https://web.archive.org/support/general.php) or write to us c/o Incredible Charts at PO Box 5182, Gold Coast Mail Centre, Queensland 4217. 
+If you have any questions regarding privacy, please [contact us](https://web.archive.org/support/general.php) or write to us at Incredible Charts, PO Box 5182, Gold Coast Mail Centre, Queensland 4217. 
 
 ## Policy Modifications
 
