@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cutehookup.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817041600id_/http%3A//www.cutehookup.com/pop.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutehookup.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209192241id_/http%3A//www.cutehookup.com/pop.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # CuteHookup - Find cuties for naughty fun!
 
