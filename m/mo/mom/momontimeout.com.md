@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momontimeout.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010175427id_/http%3A//www.momontimeout.com/about/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momontimeout.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209214351id_/http%3A//www.momontimeout.com/about/disclosure) for the most accurate reproduction.*
 
 # Disclosure/Privacy Policy - Mom On Timeout
 
