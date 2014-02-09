@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mi.gov privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204212911id_/http%3A//mi.gov/som/0%2C4669%2C7-192-26914-2088--%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mi.gov privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209115746id_/http%3A//mi.gov/som/0%2C4669%2C7-192-26914-2088--%2C00.html) for the most accurate reproduction.*
 
 # SOM - Terms of Use, Privacy Policy, and Linking Policy
 
