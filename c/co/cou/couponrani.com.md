@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponrani.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112113926id_/http%3A//www.couponrani.com/staticpages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponrani.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209055137id_/http%3A//www.couponrani.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | CouponRani - Coupons, Coupon Codes and Offers
 
