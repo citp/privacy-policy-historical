@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pexsupply.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112095959id_/http%3A//www.pexsupply.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pexsupply.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209215219id_/http%3A//www.pexsupply.com/privacy) for the most accurate reproduction.*
 
 # At PexSupply.com, we are strongly committed to protecting privacy of our customers and our customer's businesses. We know that you may have concerns about privacy while shopping on the Internet and like to ensure you understand the security, protection, and privacy of information we guarantee. - PexSupply.com
 
