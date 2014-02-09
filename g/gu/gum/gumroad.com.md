@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gumroad.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030011502id_/https%3A//gumroad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gumroad.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209084428id_/https%3A//gumroad.com/privacy) for the most accurate reproduction.*
 
 # Gumroad - Privacy Policy
 
