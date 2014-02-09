@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openbadges.org privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206102501id_/http%3A//beta.openbadges.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openbadges.org privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209031223id_/http%3A//beta.openbadges.org/privacy.html) for the most accurate reproduction.*
 
 # None
 
