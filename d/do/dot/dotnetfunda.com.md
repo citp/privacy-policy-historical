@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the dotnetfunda.com privacy policy that was archived on 2012-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120115191229id_/http%3A//www.dotnetfunda.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotnetfunda.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209155623id_/http%3A//www.dotnetfunda.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# DotNetFunda.Com Privacy Policy
-
-DotNetFunda.Com Privacy Policy
-
-| 
-
-| 
+# DotNetFunda.Com Privacy Policy - DotNetFunda.com
 
 This page contains Privacy Policy. Click  [here](https://web.archive.org/termsconditions.aspx "Terms of Use/Terms and Conditions")  to read Terms of Use/Terms and Conditions.
 
