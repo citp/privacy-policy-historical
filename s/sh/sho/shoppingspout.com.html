@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shoppingspout.com privacy policy that was archived on 2013-10-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131028204408id_/http%3A//www.shoppingspout.com/privacy-policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shoppingspout.com privacy policy that was archived on 2014-02-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209162324id_/http%3A//www.shoppingspout.com/privacy-policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -11,12 +11,20 @@
 <link href="http://www.shoppingspout.com/views/theme/default/css/shoppingspout_db.css" rel="stylesheet" type="text/css">
 <link href="http://www.shoppingspout.com/views/theme/default/css/shoppingspout.css" rel="stylesheet" type="text/css">
 
+<link rel="stylesheet" href="http://www.shoppingspout.com/views/theme/default/css/reset.css" type="text/css" media="screen">
+<link rel="stylesheet" href="http://www.shoppingspout.com/views/theme/default/css/style.css" type="text/css" media="screen">
+<link rel="stylesheet" href="http://www.shoppingspout.com/views/theme/default/css/navigation.css" type="text/css" media="screen">
+
+<link rel="stylesheet" type="text/css" media="all" href="http://www.shoppingspout.com/views/theme/default/css/jsDatePick_ltr.min.css">
 <link href="http://www.shoppingspout.com/views/theme/default/css/styleNew.css" rel="stylesheet" type="text/css">
 <!-- Style Sheets -->
-<link rel="stylesheet" type="text/css" href="http://www.shoppingspout.com/views/theme/default/css/style.css">
 <link rel="stylesheet" type="text/css" href="http://www.shoppingspout.com/views/theme/default/css/inav.css" media="screen">
 <link rel="stylesheet" type="text/css" href="http://www.shoppingspout.com/views/theme/default/css/bootstripe.css">
-<link rel="stylesheet" type="text/css" href="http://www.shoppingspout.com/views/theme/default/css/responsive.css">
+<link rel="stylesheet" type="text/css" href="http://www.shoppingspout.com/views/theme/default/css/responsives.css">
+
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://www.shoppingspout.com/views/theme/default/js/jquery.equalheights.js"></script>
+<script type="text/javascript" src="http://www.shoppingspout.com/views/theme/default/js/jquery.mobile.customized.min.js"></script>
+<script src="http://www.shoppingspout.com/views/theme/default/js/scripts.js"></script>
 
 <!--[if IE 8]><link href="http://www.shoppingspout.com/views/theme/default/css/inav-ie-8.css" rel="stylesheet" media="screen"><![endif]-->
 <!--[if IE 7]><link href=""http://www.shoppingspout.com/views/theme/default/css/inav-ie-7.css" rel="stylesheet" media="screen"><![endif]-->
@@ -29,7 +37,7 @@
   </style>
  
 <![endif]-->
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.shoppingspout.com/views/theme/default/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.shoppingspout.com/views/theme/default/js/jquery.min.js"></script>
 <script type="text/javascript" src="http://www.shoppingspout.com/views/theme/default/js/jquerydrp.js"></script>
 
 <script type="text/javascript" src="http://www.shoppingspout.com/views/theme/default/js/jquery-product-slider_files/jquery_002.js"></script>
@@ -46,19 +54,17 @@
 <script type="text/javascript" src="http://www.shoppingspout.com/views/theme/default/js/home.js"></script>
 
 <!-- Google Analytics Code -->
-	<script type="text/javascript">
-
-							  var _gaq = _gaq || [];
-							  _gaq.push(['_setAccount', 'UA-27735693-1']);
-							  _gaq.push(['_trackPageview']);
-							
-							  (function() {
-								var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-								ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-								var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-							  })();
+	<script>
+								(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+								(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+								m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+								})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+								
+								ga('create', 'UA-46595675-1', 'shoppingspout.com');
+								ga('send', 'pageview');
 							
 							</script>
+
 							
 							<script type="text/javascript"> 
 								if (!window.mstag) mstag = {loadTag : function(){},time : (new Date()).getTime()};
@@ -141,59 +147,121 @@
 			document.searchForm.action = appUrl + '/usa/search-result-coupon.html';
 		}		
 		
+		
+		//auto suggest
+		function suggest(inputString){
+			if(inputString.length == 0) {
+				$('#suggestions').fadeOut();
+			} 
+			else 
+			{
+				var appUrl = document.getElementById('app_url').value;
+
+				$.post(appUrl+"/usa/user/autosuggest.html", { act: 'autoSuggestUser', queryString : inputString },
+				   function(data){
+						$('#suggestions').fadeIn();
+						$('#suggestionsList').html(data);
+						$('#searchText').removeClass('load');			
+				 });
+			}
+		}
+		
+		function fill(thisValue, id, opt) {
+			$('#searchText').val(thisValue);
+			setTimeout("$('#suggestions').fadeOut();", 5);
+			document.getElementById(opt+'_'+id).style.display = 'none';
+			
+			var appUrl = document.getElementById('app_url').value;
+			
+			$.post(appUrl+"/usa/user/addUserStore.html", { storeID : id },
+			   function(data){
+					document.getElementById('userStores').innerHTML = data;			
+			});			
+		}
+		
+		
+		function removeUserStore(id, opt) {
+			
+			var appUrl = document.getElementById('app_url').value;
+			
+			$.post(appUrl+"/usa/user/removeUserStore.html", { storeID : id },
+			   function(data){
+					//alert(data);
+					//document.getElementById('userStores').innerHTML = data;			
+			});	
+			
+			document.getElementById(opt+'_'+id).style.display = 'none';		
+		}		
+		
+		function fillId(thisValue) {
+			$('#country_id2').val(thisValue);
+			setTimeout("$('#suggestions').fadeOut();", 5);
+		}				
 
 	</script>
 
 
 <!-- START HEADER -->
-    <header> 
-      <!-- Start Top Section -->
-      <div id="top_section">
-        <div class="top_wrap box_24">
-          <div class="welcome">Welcome visitor you can <a href="https://www.shoppingspout.com/usa/login-register/1/" title="Login" rel="nofollow">Login</a> or <span><a href="https://www.shoppingspout.com/usa/login-register/1/" title="Create an account" rel="nofollow">Create an account</a></span></div>
+<div id="resp01">
+<div id="main_container2">
+<!--Page Wraper Start -->
+<div id="page_wraper">
+
+        <div id="top_section">
+        <!-- top area start -->
+        <div class="top_area">
+        
+        <div class="top_wrap">
+        <div class="welcome">Welcome visitor you can <a href="https://www.shoppingspout.com/usa/login-register/1/" title="Login" rel="nofollow">Login</a> or <span><a href="https://www.shoppingspout.com/usa/login-register/1/" title="Create an account" rel="nofollow">Create an account</a></span></div>
           <button onclick="javascript: window.location='https://www.shoppingspout.com/usa/login-register/1/';">My Account</button>
-          <!--<div class="call">(845) 521-7198</div>-->
-          <!--<p class="worldwideship">World Wide Shipping For Selected Products</p>-->
-        </div>
+        <!--<div class="call">(845) 521-7198</div>--> 
+        <!--<p class="worldwideship">World Wide Shipping For Selected Products</p>--> 
       </div>
-      <!-- End Top Section --> 
-      <!-- Logo / Search -->
-      <div id="headgray">
-        <div class="headgray_wrap box_24">
-          <h1 class="logo"><a href="http://www.shoppingspout.com"><img src="http://www.shoppingspout.com/views/theme/default/images/logo.png" alt="ShoppingSpout Coupons,Deals &amp; Discount Like No Other!" title="ShoppingSpout Coupons,Deals &amp; Discount Like No Other!"></a><span>ShoppingSpout</span></h1>
-          
-		  
-		  <div class="search">
-		  
-		  <form action="http://www.shoppingspout.com/usa/search-result.html" method="post" name="searchForm" id="searchForm" onsubmit="submitSForm();">
+    </div>       </div>
+       </div>
+       </div>
+       
+       <div id="main_container3">
+       <div id="page_wraper">
+        <div class="logo">
+        <a href="http://www.shoppingspout.com"><img src="http://www.shoppingspout.com/views/theme/default/images/logo-christmas.png" alt="ShoppingSpout Coupons,Deals &amp; Discount Like No Other!" title="ShoppingSpout Coupons,Deals &amp; Discount Like No Other!"></a><span>ShoppingSpout</span>
+        </div>
+        <!-- toplinks start -->
+        <div class="search_area">
+        <div class="search">
+    		<form action="http://www.shoppingspout.com/usa/search-result-coupon.html" method="post" name="searchForm" id="searchForm" onsubmit="submitSForm();">
 			  <input type="hidden" name="app_url" id="app_url" value="http://www.shoppingspout.com">
 
 			  <div class="search_tabs">
-				<div class="search_coupons" onclick="setSearchOptionCoupon('coupons');" id="couponDIV"></div>
-				<div class="search_deals_active" onclick="setSearchOptionDeals('products');" id="dealsDIV"></div>
+				<div class="search_coupons_active" onclick="setSearchOptionCoupon('coupons');" id="couponDIV"></div>
+				<div class="search_deals" onclick="setSearchOptionDeals('products');" id="dealsDIV"></div>
 				
 			  </div>
  		
 			  <div>
-				  <input type="hidden" name="searchOpt" id="searchOpt" value="products">
-				  <input name="searchText" id="searchText" type="text" value="">
+				  <input type="hidden" name="searchOpt" id="searchOpt" value="coupons">
+				  <input name="searchText" id="searchText" type="text" value="" onkeyup="suggest(this.value);" onblur="fill();fillId();" autocomplete="off">
 				  <input type="submit" value="." class="search_btn">
+				  <input type="hidden" name="country_id2" id="country_id2" value="">
+				   <div id="suggestions" style="display: none; z-index: 10000; position:relative;"> 
+					<div id="suggestionsList"> &nbsp; </div>
+				   </div>
 			  </div>
 			  
 		  </form>
-          </div>
-		  
-		  
-    <div class="popular_search"><strong>Popular Searches:</strong><a href="http://www.shoppingspout.com/usa/american-bridal-coupons.html">American bridal</a> | <a href="http://www.shoppingspout.com/usa/search-result/fall%20savings/products">fall savings</a> | <a href="http://www.shoppingspout.com/usa/halloween-deals.html">Halloween</a> | <a href="http://www.shoppingspout.com/usa/best-buy-coupons.html">best buy</a> | <a href="http://www.shoppingspout.com/usa/buy-costumes-coupons.html">BuyCostumes</a> | <a href="http://www.shoppingspout.com/usa/search-result/black%20friday/products">Black Friday</a> | <a href="http://www.shoppingspout.com/usa/aeropostale-coupons.html">Aeropostale</a> | <a href="http://www.shoppingspout.com/usa/6pm-coupons.html">6PM</a></div>
+    </div>
+     <div class="popular_search"><strong>Popular Searches:</strong><a href="http://www.shoppingspout.com/usa/american-bridal-coupons.html">American bridal</a> | <a href="http://www.shoppingspout.com/usa/search-result/fall%20savings/products">fall savings</a> | <a href="http://www.shoppingspout.com/usa/halloween-deals.html">Halloween</a> | <a href="http://www.shoppingspout.com/usa/best-buy-coupons.html">best buy</a> | <a href="http://www.shoppingspout.com/usa/buy-costumes-coupons.html">BuyCostumes</a> | <a href="http://www.shoppingspout.com/usa/search-result/black%20friday/products">Black Friday</a> | <a href="http://www.shoppingspout.com/usa/aeropostale-coupons.html">Aeropostale</a> | <a href="http://www.shoppingspout.com/usa/6pm-coupons.html">6PM</a></div>
         </div>
-      </div>
-      <!-- End Logo / Search --> 
-      
-	  <!-- Menu -->
-      <div id="menu">
-        <div class="menu_wrap box_24">
-          <nav>
-            <ul class="nav">
+        </div>
+        </div>
+        
+        
+        
+        <div id="main_container4">
+        <div id="page_wraper">
+        <div class="navigation_area">
+        
+       <ul class="nav">
               
               <!-- Home Item | Start -->
               
@@ -234,13 +302,12 @@
 			  <li class="full-col"><a class="nav-item drop" href="http://www.shoppingspout.com/blog" rel="nofollow">Blog</a></li>
              
             </ul>
-          </nav>
+        
+        <!-- navigation end -->
         </div>
-      </div>
-      <!-- End Menu --> 
-      
-    </header>
-    <!-- END HEADER -->
+       </div>
+</div>
+</div>
 	  <!-- Header End -->
  
 	<div class="middlescmandb">
@@ -250,58 +317,70 @@
 
     <div class="middlepnlnd-cms">
 	
-    	<h2>ShoppingSpout Privacy Policy</h2>
+    	<!-- <h2>ShoppingSpout Privacy Policy</h2> -->
 
         <div class="contentdeals" style="font-size:12px; font-family:Arial, Helvetica, sans-serif; clear:both; width: 100%;  padding: 0px;">
-        	<p></p><p style="text-align: justify;">
-	<strong>Information and collection of use</strong></p>
-<p>
-	Shoppingspout.com is responsible for the information collected on this website. The information collected on this website is highly regarded as confidential. We do not sell, share or rent our customer’s information to any third parties. The information that is collected from our royal customers is to process their orders and with this information we try and improve our services and to better serve you, the information is also used to update our customers with new updated deals and help track their order status. The information that is collected includes your name, shipping address, billing address, contact numbers, e-mail address and payment information.</p>
-<p>
-	We also allow you to create a username and password of your choice for your future business. To keep your username and password remain confidential at all times, we DO NOT share this information with any third party. If you subscribe to receive any future promotions or newsletter, your information would be used for the delivery of these items. We would like you to know if you wish to purchase goods from a brand that would direct you to their respective web store we would not be responsible for any kind of theft or misuse of your information.</p>
-<p>
-	<strong>Registration process</strong></p>
-<p>
-	To process your orders on our website, you must follow the rules and regulations, at first you would have to fill with your complete information on the registration form. While you are in the process of filling out the registration form you would be required to provide accurate contact information. The information includes your name, email address, telephone number and mailing address. This information is collected to keep you updated with the most recent deals and offers from Shoppingspout.com. The information that you would receive is via email.</p>
-<p>
-	<strong>Children</strong></p>
-<p>
-	Shoppingspout.com sells goods to only adults, under the age of 18, sales is prohibited. If still you wish to make a purchase on Shoppingspout.com, it should be in the presence of a parent or guardian. We do not collect any information intentionally from minors under the age of 18. Shoppingspout.com is committed to protect the welfare and privacy of children.</p>
-<p>
-	<strong>Links</strong></p>
-<p>
-	The website contains many links to other partner websites. Please be informed that Shoppingspout.com would not be held responsible for any private practices of such other sites. We encourage our users to stay alert while visiting other websites and reading their privacy policy. This website is only responsible for the information they collect from users.</p>
-<p>
-	<strong>Security</strong></p>
-<p>
-	Shoppingspout.com takes every measure of precaution to protect its customer’s information. Whenever you submit information to our website, we protect your information at all times both online and offline.</p>
-<p>
-	The process of registration asks you to enter your sensitive information (such as your payment information) that information is encrypted and it is protected from the securest software possible at this current time. The software that is used to protect your information is SSL. Shoppingspout.com uses advanced technology with 128-bit encryption by VeriSign. To learn about the software visit the website <a href="http://www.verisign.com/">www.verisign.com</a>.</p>
-<p>
-	Access to your confidential information is allowed to authorize personal only because we restrict your information from our staff. The information is stored on super technology computers and to double check only official. We take every secure measure to protect your information; we have different security software’s and maintain a strict working environment, where we have placed high security cameras and have used personal ID’s for identification of employees. If you wish to remove your financial information removed at the time of your order placement, you can opt to have our financial team to have your records deleted instantly after your order is placed. If incase of any help needed contact us on <a href="mailto:support@shoppingspout.com">support@shoppingspout.com</a>. For future transactions you will be required to re-enter your information.</p>
-<p>
-	Our database and web servers are house maintained in secure locations. Access to the database is strictly monitored and protected from outside access. There are certain security features that are installed to restrict internet access, several measures are taken to protect multiple checkpoints and Cisco firewalls and password protection.</p>
-<p>
-	All employees are updated with security and privacy practices. There are several trainings provided to employees to keep them updated with any change is policies. Shoppingspout.com ensures that our customer’s information should be secured by every means possible<strong>.</strong></p>
-<p>
-	If you still have any further questions and concerns about Shoppingspout.com security practices, send us an email at <a href="mailto:support@shoppingspout.com">support@shoppingspout.com</a>.</p>
-<p>
-	<strong>Special Offers</strong></p>
-<p>
-	Our special offer emails are only sent to customers who have granted us access to have the new updates sent to them.</p>
-<p>
-	To honor the privacy and confidentiality of our users, we offer the option to un-subscribe to any kind of information. At the time of your purchase, the option of receiving further updates from our website is prompted on your screen and we leave the decision up to you. The information is sent to you only via email, if you wish to remove yourself of the new update email list you could easily do that, by simply pressing the un-subscribe option available in that email. There is a possibility you might receive emails about recent news about the company.</p>
-<p>
-	<strong>Correcting / Updating / Reviewing personal information.</strong></p>
-<p>
-	Customers can update their records at anytime by simply logging into our database, this option is kept for users in case of any change in their information such as email address, postal address or contact information. If you have difficulties updating any records, simply send us an email to our <a href="mailto:support@shoppingspout.com">support@shoppingspout.com</a> and we would be delighted to help you out.</p>
-<p>
-	<strong>Last Update</strong></p>
-<p>
-	The Privacy Policy contained herein became officially effective March 27<sup>th</sup>, 2013.</p>
-<p></p>
+        	<p></p><div id="middle">
+      <div class="middle_wrap box_24"> 
+        <!-- Column left -->
+        <div class="column_right fleft first">
+          <div id="cms-right-panel">
+            <ul class="cms-left-nav">
+              <li><a href="http://www.shoppingspout.com/contact-us.htm">Contact us</a></li>
+              <li class="active"><a href="http://www.shoppingspout.com/privacy-policy.htm">Privacy Policy</a></li>
+              <li><a href="http://www.shoppingspout.com/terms-of-use-sales.htm">Terms &amp; Conditions</a></li>
+              <li><a href="http://www.shoppingspout.com/return-policy.htm">Return Policy</a></li>
+              <li><a href="http://www.shoppingspout.com/about-us.htm">About us</a></li>
+            </ul>
+            <div class="lftbnradandb"> 
+              <script type="text/javascript"><!--
+google_ad_client = "ca-pub-2611758145828429";
+/* Homepage Lp */
+google_ad_slot = "7138922734";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script> 
+              <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> 
+            </div>
+          </div>
+        </div>
+        <!--End Column left --> 
+        <!-- Column Right -->
+        <div class="cms-content box_20">
+          <h2>ShoppingSpout Privacy Policy </h2>
+          <h3> <span> Information and collection of use </span> </h3>
+          <p> Shoppingspout.com is responsible for the information collected on this website. The information collected on this website is highly regarded as confidential. We do not sell, share or rent our customer’s information to any third parties. The information that is collected from our royal customers is to process their orders and with this information we try and improve our services and to better serve you, the information is also used to update our customers with new updated deals and help track their order status. The information that is collected includes your name, shipping address, billing address, contact numbers, e-mail address and payment information. </p>
+          <p> We also allow you to create a username and password of your choice for your future business. To keep your username and password remain confidential at all times, we DO NOT share this information with any third party. If you subscribe to receive any future promotions or newsletter, your information would be used for the delivery of these items. We would like you to know if you wish to purchase goods from a brand that would direct you to their respective web store we would not be responsible for any kind of theft or misuse of your information. </p>
+          <h3> <span> Registration process </span> </h3>
+          <p> To process your orders on our website, you must follow the rules and regulations, at first you would have to fill with your complete information on the registration form. While you are in the process of filling out the registration form you would be required to provide accurate contact information. The information includes your name, email address, telephone number and mailing address. This information is collected to keep you updated with the most recent deals and offers from Shoppingspout.com. The information that you would receive is via email. </p>
+          <h3> <span> Children </span> </h3>
+          <p> Shoppingspout.com sells goods to only adults, under the age of 18, sales is prohibited. If still you wish to make a purchase on Shoppingspout.com, it should be in the presence of a parent or guardian. We do not collect any information intentionally from minors under the age of 18. Shoppingspout.com is committed to protect the welfare and privacy of children. </p>
+          <h3> <span> Links </span> </h3>
+          <p> The website contains many links to other partner websites. Please be informed that Shoppingspout.com would not be held responsible for any private practices of such other sites. We encourage our users to stay alert while visiting other websites and reading their privacy policy. This website is only responsible for the information they collect from users. </p>
+          <h3> <span> Security </span> </h3>
+          <p> Shoppingspout.com takes every measure of precaution to protect its customer’s information. Whenever you submit information to our website, we protect your information at all times both online and offline. </p>
+          <p> The process of registration asks you to enter your sensitive information (such as your payment information) that information is encrypted and it is protected from the securest software possible at this current time. The software that is used to protect your information is SSL. Shoppingspout.com uses advanced technology with 128-bit encryption by VeriSign. To learn about the software visit the website www.verisign.com. </p>
+          <p> Access to your confidential information is allowed to authorize personal only because we restrict your information from our staff. The information is stored on super technology computers and to double check only official. We take every secure measure to protect your information; we have different security software’s and maintain a strict working environment, where we have placed high security cameras and have used personal ID’s for identification of employees. If you wish to remove your financial information removed at the time of your order placement, you can opt to have our financial team to have your records deleted instantly after your order is placed. If incase of any help needed contact us on <a href="mailto:support@shoppingspout.com?Subject=Attention!%20ShoppingSpout%20Support">support@shoppingspout.com</a>. For future transactions you will be required to re-enter your information. </p>
+          <p> Our database and web servers are house maintained in secure locations. Access to the database is strictly monitored and protected from outside access. There are certain security features that are installed to restrict internet access, several measures are taken to protect multiple checkpoints and Cisco firewalls and password protection. </p>
+          <p> All employees are updated with security and privacy practices. There are several trainings provided to employees to keep them updated with any change is policies. Shoppingspout.com ensures that our customer’s information should be secured by every means possible. </p>
+          <p> If you still have any further questions and concerns about Shoppingspout.com security practices, send us an email at <a href="mailto:support@shoppingspout.com?Subject=Attention!%20ShoppingSpout%20Support">support@shoppingspout.com</a>.</p>
+          <h3> <span> Special Offers </span> </h3>
+          <p> Our special offer emails are only sent to customers who have granted us access to have the new updates sent to them. </p>
+          <p> To honor the privacy and confidentiality of our users, we offer the option to un-subscribe to any kind of information. At the time of your purchase, the option of receiving further updates from our website is prompted on your screen and we leave the decision up to you. The information is sent to you only via email, if you wish to remove yourself of the new update email list you could easily do that, by simply pressing the un-subscribe option available in that email. There is a possibility you might receive emails about recent news about the company. </p>
+          <h3> <span> Correcting / Updating / Reviewing personal information. </span> </h3>
+          <p> Customers can update their records at anytime by simply logging into our database, this option is kept for users in case of any change in their information such as email address, postal address or contact information. If you have difficulties updating any records, simply send us an email to our <a href="mailto:support@shoppingspout.com?Subject=Attention!%20ShoppingSpout%20Support">support@shoppingspout.com</a> and we would be delighted to help you out. </p>
+          <p> End-users who repeatedly violate third-party copyrights may have their membership terminated by Shopping Spout after notification and evidence of the violation from the copyright owner. </p>
+          <h3> <span> Last Update </span> </h3>
+          <p> The Privacy Policy contained herein became officially effective March 27<sup>th</sup> 2013. </p>
+        </div>
+        
+        <!-- End Column Right --> 
+      </div>
+    </div><p></p>
 			
-					        </div>		
+		        </div>		
 		
 		</div>
 		</div>
@@ -309,112 +388,99 @@
   
 	<!--Footer starts here-->
 		
-	<style>
-		.span4 {
-		width: 264px;
-		}
-	</style>
- 
-    </div>
-	</div>
-	
-	<div class="clr"></div>
-	
-    <!-- Footer -->
-    <footer>
-      <div class="footer">
-        <div class="footersocial">
-          <div class="container">
-            <div class="row">
-              <div class="span4 aboutus">
-                <blockquote>About Us</blockquote>
-                <p>Shoppingspout.com is the shopping portal that carries a wide vision to entertain its customers with fascinating coupon codes, daily deals and as well as discount offers from extravagant sources and brought to you in one place. <br>
-                  <br>
-                  We are blooming to success with a very fast pace , it collectively has thousands of bargains that are irresistible for shoppers all over USA and Canada. </p>
-                <!-- Begin Official PayPal Seal --> 
-                <!--<div class="paypal_varified"><a href="https://www.paypal.com/us/verified/pal=dawoodimrankhan%40gmail%2ecom" target="_blank"><img src="https://www.paypal.com/en_US/i/icon/verification_seal.gif" border="0" alt="Official PayPal Seal"></a></div>--> 
-                <!-- End Official PayPal Seal --> 
-              </div>
-              <div class="span4 contact">
-                <blockquote>Get in Touch</blockquote>
-                <ul>
-                  <li class="phone"><br>
-                    +1 302-319-2169<br>+1 845 521-7198</li>
-                  <li class="mobile"><br>
-                    ShoppingSpout</li>
-                  <li class="email"><br>
-                    <a href="mailto:support@shoppingspout.com?Subject=Attention!%20ShoppingSpout%20Support"><img alt="E-mail" src="http://www.shoppingspout.com/controllers/images/email-img.png"></a></li>
-                </ul>
-              </div>
-              <div class="span4 twitter">
-                <blockquote>Follow Us on Twitter</blockquote>
-              	<div id=""><a class="twitter-timeline" href="https://twitter.com/ShoppingSpouts" data-widget-id="313913798677368834">
-							Tweets by @ShoppingSpout</a> 
-				
-					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> 
-				
-				</div>
-			  </div>
-              <div class="span4 facebook">
-                <blockquote class="facebook_column_width"> Follow Us on Facebook </blockquote>
-              	<div id="fb-root"></div>
-				  
-					  <script>(function(d, s, id) {
-						var js, fjs = d.getElementsByTagName(s)[0];
-						if (d.getElementById(id)) return;
-						js = d.createElement(s); js.id = id;
-						js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-						fjs.parentNode.insertBefore(js, fjs);
-						}(document, 'script', 'facebook-jssdk'));
-					  </script>
-				    
-				  <div class="fb-like-box" data-href="http://www.facebook.com/shoppingspout" data-width="292" data-height="247" data-show-faces="true" data-stream="false" data-header="true"></div>
-			  </div>
+<footer>
+  <div class="footer">
+    <div class="footersocial">
+      <div class="container">
+        <div class="row">
+          <div class="span4 aboutus">
+            <blockquote>About Us</blockquote>
+            <p>Shoppingspout.com is the shopping portal that carries a wide vision to entertain its customers with fascinating coupon codes, daily deals and as well as discount offers from extravagant sources and brought to you in one place. <br>
+              <br>
+              We are blooming to success with a very fast pace , it collectively has thousands of bargains that are irresistible for shoppers all over USA and Canada. </p>
+            <!-- Begin Official PayPal Seal --> 
+            <!--<div class="paypal_varified"><a href="https://www.paypal.com/us/verified/pal=dawoodimrankhan%40gmail%2ecom" target="_blank"><img src="https://www.paypal.com/en_US/i/icon/verification_seal.gif" border="0" alt="Official PayPal Seal"></a></div>--> 
+            <!-- End Official PayPal Seal --> 
+          </div>
+          <div class="span4 contact">
+            <blockquote>Get in Touch</blockquote>
+            <ul>
+              <li class="phone"><br>
+                +1 302-319-2169<br>
+                +1 845 521-7198</li>
+              <li class="mobile"><br>
+                ShoppingSpout</li>
+              <li class="email"><br>
+                <a rel="nofollow" href="mailto:support@shoppingspout.com?Subject=Attention!%20ShoppingSpout%20Support"><img alt="E-mail" src="http://www.shoppingspout.com/controllers/images/email-img.png"></a></li>
+            </ul>
+          </div>
+          <div class="span4 twitter">
+            <blockquote>Follow Us on Twitter</blockquote>
+            <div id=""><a class="twitter-timeline" href="https://twitter.com/ShoppingSpouts" data-widget-id="313913798677368834"> Tweets by @ShoppingSpout</a> 
+			  
+              <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> 
+			  
             </div>
+          </div>
+          <div class="span4 facebook">
+            <blockquote class="facebook_column_width"> Follow Us on Facebook </blockquote>
+            <div id="fb-root"></div>
+           		
+				<script>(function(d, s, id) {
+					var js, fjs = d.getElementsByTagName(s)[0];
+					if (d.getElementById(id)) return;
+					js = d.createElement(s); js.id = id;
+					js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+					fjs.parentNode.insertBefore(js, fjs);
+					}(document, 'script', 'facebook-jssdk'));
+				  </script>
+			  	
+            <div class="fb-like-box" data-href="http://www.facebook.com/shoppingspout" data-width="292" data-height="247" data-show-faces="true" data-stream="false" data-header="true"></div>
           </div>
         </div>
       </div>
-	  <div class="footerlinks">     
-	  
-	    <div class="container">
-          <div class="fl">
-            <div class="control-group">
-              <form class="form-horizontal" method="post">
-                <div class="">
-                  <div class="input-prepend"> <span class="add-on"><i class="icon-envelope icon-w"></i></span>
-                    <input type="text" placeholder="Subscribe to Newsletter" id="subscribe" name="subscribe">
-                    <button value="Subscribe" class="btn btn-success" type="submit">Subscribe</button>
-                  </div>
-                </div>
-              </form>
-            </div>
-          </div>
-          <div class="info">
-            <ul>
+    </div>
+  </div>
+  <div class="footerlinks">
+        <div class="container">
+      <div class="fl">
+        <div class="control-group">
+		  <form class="form-horizontal" method="post">
+			<div class="">
+			  <div class="input-prepend"> <span class="add-on"><i class="icon-envelope icon-w"></i></span>
+				<input type="text" placeholder="Subscribe to Newsletter" id="subscribe" name="subscribe">
+				<button value="Subscribe" class="btn btn-success" type="submit">Subscribe</button>
+			  </div>
+			</div>
+		  </form>
+        </div>
+      </div>
+      <div class="info">
+        <ul>
               <li><a rel="nofollow" href="http://www.shoppingspout.com/contact-us.htm">Contact us</a></li>
               <li><a rel="nofollow" href="http://www.shoppingspout.com/privacy-policy.htm">Privacy Policy</a> </li>
               <li><a rel="nofollow" href="http://www.shoppingspout.com/terms-of-use-sales.htm">Terms &amp; Conditions</a> </li>
               <li><a rel="nofollow" href="http://www.shoppingspout.com/return-policy.htm">Return Policy</a></li>
               <li><a rel="nofollow" href="http://www.shoppingspout.com/about-us.htm">About us</a></li>
-            </ul>
-          </div>
-          <div id="footersocial"><a rel="nofollow" class="facebook" title="Facebook" href="http://www.facebook.com/shoppingspout">Facebook</a> <a rel="nofollow" class="twitter" title="Twitter" href="https://twitter.com/ShoppingSpout">Twitter</a><a rel="nofollow" href="http://pinterest.com/shoppingspout/" title="Pinterest" class="blooger">Pinterest</a><a rel="nofollow" class="linkedin" title="Linkedin" href="http://www.linkedin.com/company/shoppingspout">Linkedin</a> <a rel="nofollow" class="googleplus" title="Googleplus" href="https://plus.google.com/u/0/b/102012569088782709799/102012569088782709799/posts">Googleplus</a> <!--<a href="#" title="Skype" class="skype">Skype</a> --><a rel="nofollow" class="flickr" title="Flickr" href="http://www.flickr.com/photos/shoppingspout">Flickr</a></div>
-        </div>
+        </ul>
       </div>
-      <div class="copyrightbottom">
-        <div class="container">
-          <div class="row">
-            <div class="span6"><br>
-              © 2013 ShoppingSpout.com, All Rights Reserved.</div>
-              <div style="float:left">&nbsp;</div>
-            <div class="textright"><img src="http://www.shoppingspout.com/views/theme/default/images/payment-method.png" alt="Payment" title="Payment" style="margin-top:5px;"></div>
-          </div>
-        </div>
+      <div id="footersocial"><a rel="nofollow" class="facebook" title="Facebook" href="http://www.facebook.com/shoppingspout">Facebook</a> <a rel="nofollow" class="twitter" title="Twitter" href="https://twitter.com/ShoppingSpout">Twitter</a><a rel="nofollow" href="https://www.pinterest.com/shopingspout/" title="Pinterest" class="blooger">Pinterest</a><a rel="nofollow" class="linkedin" title="Linkedin" href="http://www.linkedin.com/company/shoppingspout">Linkedin</a> <a rel="nofollow" class="googleplus" title="Googleplus" href="https://plus.google.com/u/0/b/102012569088782709799/102012569088782709799/posts">Googleplus</a> <!--<a href="#" title="Skype" class="skype">Skype</a> --><a rel="nofollow" class="flickr" title="Flickr" href="http://www.flickr.com/photos/shoppingspout">Flickr</a></div>
+    </div>
+  </div>
+  <div class="copyrightbottom">
+    <div class="container">
+      <div class="row">
+        <div class="span6"><br>
+          © 2014 ShoppingSpout.com, All Rights Reserved.</div>
+        <div class="var">
+&nbsp;
+		</div>
+        <div class="textright"><img src="http://www.shoppingspout.com/views/theme/default/images/payment-method.png" alt="Payment" title="Payment" style="margin-top:5px;"></div>
       </div>
-    </footer>
-
-    <!-- End Footer --> 	
+    </div>
+  </div>
+</footer>
 	<!--Footer ends here-->
   
 
-</body></html>
+</div></div></body></html>
