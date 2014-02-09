@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livesexcams.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223050627id_/http%3A//www.livesexcams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livesexcams.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209050124id_/http%3A//www.livesexcams.com/privacy.html%3F) for the most accurate reproduction.*
 
 # Live Sex Cams - Privacy Policy
 
