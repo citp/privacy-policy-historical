@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the molo.me privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025012413id_/http%3A//molo.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the molo.me privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209075156id_/http%3A//molo.me/privacy) for the most accurate reproduction.*
 
 # MOLOME™
 
@@ -6,7 +6,7 @@
 
 **Privacy Policy (April 2011)**
 
-Our privacy policy explains how personal information is collected, used and disclosed by HLP with respect to your access and use of our website located at MOLO.ME and HLP's social networking services (available via website and applications).
+Our privacy policy explains how personal information is collected, used and disclosed by MOLOME with respect to your access and use of our website located at MOLO.ME and MOLOME's social networking services (available via website and applications).
 
 Our privacy policy may be modified from time-to-time. We will alert you that changes have been made by indicating on our privacy policy the date it was last updated.
 
