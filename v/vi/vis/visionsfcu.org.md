@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visionsfcu.org privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806205428id_/https%3A//www.visionsfcu.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visionsfcu.org privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209183411id_/https%3A//www.visionsfcu.org/Privacy) for the most accurate reproduction.*
 
 # Visions Federal Credit Union
 
