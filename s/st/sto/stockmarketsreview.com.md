@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockmarketsreview.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208042059id_/http%3A//www.stockmarketsreview.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockmarketsreview.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209152048id_/http%3A//www.stockmarketsreview.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | StockMarketsReview.com
 
