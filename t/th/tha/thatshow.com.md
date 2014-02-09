@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatshow.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210054321id_/http%3A//www.thatshow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatshow.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209033839id_/http%3A//www.thatshow.com/privacy) for the most accurate reproduction.*
 
 # ThatsHow.com How To Videos DIY Tutorials, home improvement, gardening, arts and crafts, automotive, electronics Video Tips Solutions Education Thats How!
 
