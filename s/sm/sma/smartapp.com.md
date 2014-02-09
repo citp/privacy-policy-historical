@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartapp.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001005523id_/https%3A//www.smartapp.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartapp.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209140433id_/https%3A//smartapp.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,6 +33,6 @@ Our Service offers publicly accessible community services such as forums. You sh
 The security of your information is important to us.  
 We follow generally accepted standards to protect the information submitted to us, both during transmission and once we receive it. No method of electronic transmission or storage is 100% secure, however. Therefore, we cannot guarantee its absolute security.   
 PayPal handles our payment transactions. When you choose to purchase something on smartapp.com, you are directed to PayPal’s payment processing interface. From this point forward, PayPal’s privacy and security policies are in effect. For more information, please read PayPal’s Security Statement.  
-If you have any questions about this Privacy Policy, please contact us at contactus@smartapp.com or 800.254.4050, or send us mail at 300 West Exchange Street, Providence, RI 02903.  
+If you have any questions about this Privacy Policy, please contact us at contactus@smartapp.com or 800.254.4050, or send us mail at 1350 Division Rd., Suite 301, West Warwick RI 02893.  
 This Privacy Policy may change from time to time. By continuing to use the Service after those changes become effective, you agree to be bound by the revised Privacy Policy.  
 
