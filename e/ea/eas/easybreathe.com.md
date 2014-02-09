@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easybreathe.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213073239id_/http%3A//www.easybreathe.com/Privacy-Policy-2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easybreathe.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209051954id_/http%3A//www.easybreathe.com/Privacy-Policy-2.html) for the most accurate reproduction.*
 
 # Privacy Policy - CPAP Supplies, CPAP Machines, CPAP Masks, Sleep Apnea – easybreathe.com
 
