@@ -1,213 +1,38 @@
-> *The following text is extracted and transformed from the lawyers.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014032454id_/http%3A//www.lawyers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawyers.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209195903id_/http%3A//www.internetbrands.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Lawyers.com
+# Privacy Policy
 
-Please review the policy below as it has changed recently. 
+## Privacy Policy Highlights
 
-(Last updated April 03, 2013)  
+Internet Brands, Inc. and its subsidiaries operate websites, provide services through mobile and other applications, and develop software. We govern these with a single privacy policy. This notice provides highlights of our full [Privacy Policy](https://web.archive.org/web/20140209195903id_/http://www.internetbrands.com/privacy/privacy-main.html). It briefly describes the collection and use of information when you use or interact with our branded websites, services, and software, operating under different branded names. Also visit our [FAQ page](https://web.archive.org/web/20140209195903id_/http://www.internetbrands.com/privacy/privacy-faq.html) for answers to common questions.
 
-To underscore our commitment to privacy and our vision that good privacy is good business, we have adopted this online privacy policy for _martindale.com_ ®, Lawyers.com SM , Attorneys.com SM , LawyerLocator SM , and Martindale-Hubbell® Client Service Center (collectively, “our website”) and their mobile equivalents including mobile applications (collectively, “mobile application”), which are commonly owned or operated by  LexisNexis, a division of Reed Elsevier Inc. and its affiliated companies ("LexisNexis"). You may also have been directed to this Online Privacy Policy from other websites owned or operated by LexisNexis that have adopted this Online Privacy Policy.
+  * ### Personal Information
 
-This Online Privacy Policy only applies to information collected through our website and the mobile application. You may have also been directed to this Online Privacy Policy from other websites owned or operated by LexisNexis and/or its affiliates that have adopted this policy. Our website and mobile application are not directed at children under the age of 13.    
+We collect personal information for various business purposes when you interact with us, such as providing you with a subscription, processing your order, responding to requests for service or assistance, creating and improving our products and services, suggesting additional or different products or services, and protecting our rights and property. We collect information about you in two basic ways. First, we receive information directly from you. Second, through use of cookies and other technologies, we keep track of your interactions.
 
+  * ### Your Choices
 
-**1\. Scope of this Privacy Policy**
+    * You can stop receiving promotional emails from us by following the instructions in the email you receive.
+    * You may cancel your registration or deactivate your account, or update your preferences at any time.
+    * You can manage cookies using your browser controls.
+    * You can [opt out](https://web.archive.org/web/20140209195903id_/http://www.internetbrands.com/privacy/privacy-main.html#section4) of the use of certain cookies.
+    * Individual products or services may offer additional controls or preferences.
+  * ### Uses of Information
 
-This privacy policy describes how we and our related website properties (collectively, “M-H”) will use the personal information collected when you visit the M-H websites, application websites and mobile platforms that contain a link to this privacy policy (each, a “Service”).  A Service may supplement this privacy policy with additional privacy terms or with additional privacy notices in connection with certain features of that Service. 
+Your information is used to fulfill your requests and communicate with you, operate, support and improve our sites, products and services, conduct internal research, and personalize the content, products, services and advertisements offered to you.
 
-    
-This privacy policy does not apply to websites, applications or mobile platforms that are not linked to this privacy policy or to those operated by third parties.  We encourage you to review the privacy policies posted on those websites, applications and mobile platforms.
+  * ### How to Contact Us
 
+    * Use our Privacy [Contact form](https://web.archive.org/web/20140209195903id_/http://www.internetbrands.com/privacy/privacy-contact-form.php), or write to us at the address below.
   
-**2\. Collection of Information**
 
-**  
-**The Service collects information from you in two ways:  directly from your input and automatically through the Service’s technologies.
+    * Privacy Office
+    * Internet Brands, Inc.
+    * 909 N. Sepulveda Blvd., 11th Floor
+    * El Segundo, CA 90245 U.S.A.
+  * ### Information Sharing
 
-  
-**a. Information provided by you  
-**
+We do not sell, rent or provide your personal information to third parties that are unaffiliated with Internet Brands. Your personal information is shared with third parties with your consent, except in circumstances where the law requires it to be shared.
 
-The types of information the Service collects directly from you may include the following as well as any other information type that we expressly ask you to enter and submit to the Service:  
- **     •** Contact information, such as your name, email address, and telephone number;   
-    • Usernames and passwords;  
-    • Payment information, such as a credit or debit card number;  
-    • Educational and employment background;  
-    • Comments and feedback;  
-    • Interests and communication preferences.  
- **    ** This site may also collect information about your business.  If you register as an attorney or law firm, any information you provide to us regarding your business (including, but not limited to the name of the practice/firm, address, telephone number, business email address, job title, bar association details, your professional experience and credentials, your education) is not considered to be personal information.
 
-****
 
-**b. Information Collected Automatically**
-
-The Service automatically collects certain information regarding your use of the Service. Examples of information collected automatically include:  
-    • Internet Protocol ("IP") address used to connect your computer to the Internet;   
-    • Computer, device and connection information, such as browser type and version, operating system, mobile
-
-       platform and unique device identifier (“UDID”) and other technical identifiers;   
-    • Uniform Resource Locator ("URL") click stream data, including date and time, and content you viewed or searched for
-
-       on a Service;  
-    • Location information for location-aware Services to provide you with more relevant content for where you are in the 
-
-      world.   
-We may use and disclose automatically collected information for any purpose, except where we are restricted by applicable law.  If we combine any automatically collected information with personal information, the combined information will be treated by us as personal information.    
-
-
-We may also use aggregated information for any purpose, however, this information does not identify specific individuals and so is not personal information.
-
-   
- **c. Cookies and Web Beacons**
-
-The Service may also automatically collect information through the use of cookies or similar technologies, such as web beacons.  Cookies are small text files that a website sends to the browser on your computer or mobile device when you first visit a web page so that the website can recognize your device the next time you visit.  Most websites typically use the following:    
-    • “Session” cookies, which are temporary and deleted when you close your browser;  
-    • “Persistent” cookies, which remain until you delete them or they expire;    
-    • Web beacons, which are electronic images also known as single-pixel gifs.    
-In general, cookies, web beacons and similar technologies do not contain personally identifiable information, but when you furnish your personal information through the Service, this information may be linked to the non-personally identifiable data stored in cookies sent to your browser from the Service.
-
-M-H and its service providers use these technologies for various purposes, including: facilitating the login process, administering, customizing and improving the Service, personalizing the browsing experience; advertising, promotions and surveys. (reporting and paying royalties and license fees to third-party providers, such as authors, societies and other copyright holders and content distributors as well as tracking and analyzing user preferences and trends).
-
-There are a number of ways to manage cookies.  The “help” portion of the toolbar on most browsers will tell you how to stop accepting cookies, how to be notified when you receive a new browser cookie, and how to disable existing browser cookies.  However, if you block cookies, you may not be able to register, login or make full use of the Service.  You can also use your mobile device’s settings to manage the available privacy options.
-
-Our HTML-formatted emails may contain a web beacon to tell us whether our emails are opened and verify any clicks through to links or advertisements within the email.  We may use this information for purposes including determining which of our emails are more interesting to users, to query whether users who do not open our emails wish to continue receiving them and to inform our advertisers in aggregate how many users have clicked on their advertisements.  The web beacon will be deleted when you delete the email.  Emails in plain text rather than HTML will not include the web beacon.
-
-****
-
-**3.   Use of Your Personal Information**
-
-We use the personal information collected through the Service to complete various actions:   
-    • to assist you in completing a transaction or order;   
-    • to provide and improve the Service and support;   
-    • to update you on relevant new services and benefits;   
-    • to personalize the Service and to select content to be communicated to you or to use features on the Service such as
-
-      sharing content with a friend or colleague;  
-    • to contact you regarding our products or services or other products and services from third parties;  
-    • to invite you to participate in surveys, sweepstakes, competitions and similar promotions;  
-    • for data analysis, audits, developing new products, enhancing the Service, identifying usage trends and determining the
-
-      effectiveness of our promotional campaigns, or in other ways to which you have expressly agreed in a customer agreement
-
-      with us;    
-    • to prevent and detect security threats, fraud or other malicious activity; and   
-    • to comply with our legal obligations, resolve disputes, and enforce our agreements.  
-
-
-We may on occasion also match or combine the personal information that you provide with information about your business and/or other information that we obtain from other sources or that is already in our records, whether collected online or offline or by predecessor or affiliated group companies, for the purposes described above.
-
-****
-
-**4.   Sharing or Disclosing Your Personal Information**
-
-We share your personal information and information about your business with third parties for the following purposes:  
-    • Our Affiliates. the purposes described in this policy.    
-    • Agents, Representatives, Sponsors, Societies and Business Partners.  Your personal information may be accessible for
-
-      our agents, representatives, sponsors and entities for which we are acting as an agent, licensee, joint venturer or
-
-      publisher.    
-    • Service Providers,  to assist us with producing and delivering our products and services, operating our business, and
-
-       marketing, promotion and communications.  These providers and suppliers include, for example, editors, reviewers, credit
-
-       card processors, customer support, email service providers, IT service providers and shipping agents.   
-    • Institutional Subscribers.  If the Service offers a content database or learning service ("Subscription Service") and you
-
-       access the Subscription Service through an institution-sponsored subscription, your personal information and certain
-
-       usage data gathered through the Subscription Service, such as the number of items you downloaded, any non-subscribed 
-
-       items you accessed, and test scores, may be shared with your institution for the purposes of usage analysis, subscription
-
-       management, course management, and testing and remediation.  If your institution is a corporation or other
-
-       business entity, additional usage data, such as the types of records you viewed and the number of searches you ran, also
-
-       may be shared for the purposes of cost attribution and departmental budgeting.  
-    • Recruiters.  Some of our websites may offer you the ability to create a profile and upload a CV to our database.  Your 
-
-       profile and CV may be then made available for searching, viewing over the Internet and downloading by our 
-
-       customers. These may be direct recruiters, employment consultants or other organizations.  Your CV can only be viewed
-
-       by a customer if you have consented to this within the profile section. You can choose to prevent our customers from
-
-       accessing your personal details, CV or profile.  You can also choose to make your personal details and your CV 
-
-       anonymous, while having your profile available to be searched by recruiters.  
-    • Other Third Parties.  We may share your Personal Information with third parties if we  expressly told you about such
-
-       potential disclosure at the point at which you submitted the Information to us.  We may also use information about your
-
-       business to contact you, or may engage third parties to contact you, to inform you of other products or services we think
-
-       may be of interest to you.  We will offer you an opportunity to opt out and not receive such communications in the future.   
-    • Compliance with Law and Similar Obligations.  We may share personal information in order to: (i) respond to or comply
-
-       with any law, regulation, subpoena or court order; (ii) investigate and help prevent security threats, fraud or other
-
-       malicious activity; (iii) enforce and protect the rights and properties of M-H or its affiliates; or (iv) protect the rights or
-
-       personal safety of our employees and third parties on or using our property.   
-    • Change in Corporate Circumstances.  If M-H, the Service or a related asset or line of business is acquired by, transferred
-
-       to or merged with another company, your personal information may be disclosed to the prospective or actual purchasers. 
-
-       The Service also may provide access to social media features, message boards, chat, forums, blogs, profile pages and
-
-       other services to which you are able to post personal information and materials.  Any information you post or disclose
-
-       through these services is public.  Please be careful when disclosing personal information in these public areas.   
-****
-
-**5.   Children’s Privacy  
-**
-
-We do not knowingly collect information from children under the age of 13 and M-H does not target its websites to children under 13. 
-
-****
-
-**6.   Your Choices and Selecting Your Privacy Preferences**
-
-You can manage available  communications preferences when you register with the relevant Service, by updating your account preferences, or, where applicable, by using the “opt-out” or unsubscribe mechanism or other means provided within the communications that you receive.  We reserve the right to notify you of changes or updates to the Service whenever necessary.
-
-****
-
-**7.   Access to and Accuracy of Your Personal Information**
-
-You may request access to personal information about you that you have provided to us through the websites or mobile platforms governed by this policy.  You may also request to review and correct any of that personal information.  Additional rights may also apply under applicable laws. 
-
-   
-The Service may allow registered users to access their registration information and make corrections or updates.  The accuracy of such information is solely the responsibility of the user.  No access is given to other data that may have been collected about users. 
-
-To protect your privacy and security, we will also take reasonable steps to verify your identity.  To view and change the personal information that you directly provided to us, you can return to the Web page where you originally submitted your data and follow the instructions on that Web page, or contact us at the address listed below.
-
-****
-
-**8.   Data Security**
-
-We use a variety of data security measures intended to ensure the confidentiality and integrity of your personal information.
-
-****
-
-**9.   Changes to Privacy Policy**
-
-If we modify this privacy policy, we will post the revised version here, with an updated revision date. 
-
-**10\. Cross-Border Transfer of Personal Information**
-
-Your personal information may be transferred to other countries for processing, and by using the Service you consent to the transfer of information to countries outside of your country of residence, which may have different personal data protection rules than in your country.
-
-**11\. Contacting Us**
-
-If you have comments or questions about this privacy policy or our processing of your information, please contact:
-
-** LexisNexis Martindale-Hubbell  
-ATTN:  Customer Support  
-New Providence, NJ 07974  
-Telephone: 1-800-526-4902, option 2  
-Email: [Privacy.MartindaleHubbell@lexisnexis.com](mailto:Privacy.MartindaleHubbell@lexisnexis.com)   
-**
-
- 
