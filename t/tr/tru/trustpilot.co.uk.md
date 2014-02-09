@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustpilot.co.uk privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022144353id_/http%3A//legal.trustpilot.co.uk/end-user-privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustpilot.co.uk privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209102138id_/http%3A//legal.trustpilot.co.uk/end-user-privacy-terms) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,7 @@
 
 ## PRIVACY POLICY
 
-By creating a profile on or using any of the Trustpilot websites including, but not limited to www.trustpilot.com, www.trustpilot.co.uk, www.trustpilot.nl, (the "Website") you **accept** these guidelines for processing personal data on the Website.
+By creating a profile on or using any of the Trustpilot websites including, but not limited to www.trustpilot.com, www.trustpilot.co.uk, www.trustpilot.nl, (the "Website") you **accept** this policy for the processing of your personal data on the Website.
 
 We, Trustpilot A/S, Trommesalen 5, 3rd floor, 1614 Copenhagen, Denmark ("Trustpilot") recommend that you **print** and **keep** these guidelines.
 
@@ -27,11 +27,13 @@ When you make a review of a company, we collect the information you state in the
 
 1.3 Cookies
 
-The Website uses cookies. Cookies are digital information which is stored on your computer. The cookie does not identify the individual user but the user's computer, and it is used for measuring Website traffic i.e. number of visits on the Website, which domains the visitors comes from, which pages the visitors visit on the Website and in which overall geographical area the visitors are located. The purpose of using cookies is thus to produce anonymous statistics in order to improve the functionality of the Website. You can read more about what cookies the Website uses and for what purposes below.
+The Website uses cookies. Cookies are digital information which is stored on your computer. The cookie does not identify the individual user but the user's computer, and it is used for different purposes.
 
-1.4 IP adresses
+You can read more about what cookies the Website uses and for what purposes below.
 
-When visiting the Website, the IP address of the user's computer is registered. The IP address is the numerical address of the computer used when visiting the Website. The IP address is registered to enable Trustpilot to trace the used computer in case of misuse or unlawful actions in connection with the visit on or use of the Website. Further, the IP address is used to derive your approximate location (city level).
+1.4 IP adresses and browser settings
+
+When visiting the Website, the IP address and the browser settings of your computer are registered. The IP address is the numerical address of the computer used when visiting the Website. Browser settings are e.g. the type of browser you use, browser language, timezone etc. The IP address and browser settings are registered to enable Trustpilot to trace the used computer in case of misuse or unlawful actions in connection with the visit on or use of the Website. Further, the IP address is used to derive your approximate location (city level).
 
 1.5 Newsletter
 
@@ -143,17 +145,19 @@ Trustpilot will see to that the recorded data, including the personal informatio
 
 ### 6 Cookies
 
-This website uses cookies and in the following we describe what cookies we use and for what purposes.
+This website uses cookies and similar technologies. In the following we describe what cookies we use and for what purposes.
 
 By using our website you accept that we use cookies as described in the following.
 
-6.1 What is a cookie?
+6.1 What is a cookie and similar technologies?
 
 Cookies are small information units which the Website places on your computer's hard disk, on your tablet or on your smartphone. Cookies contain information that the Website uses to make the communication between you and your web browser more efficient. The cookie does not identify you as an individual user but identifies your computer.
 
 There are two types of cookies - session cookies and persistent cookies. Session cookies are temporary bits of information which are deleted when you exit your web browser. Persistent cookies are more permanent bits of information that are stored and remain on your computer until they are deleted. Persistent cookies delete themselves after a certain period of time but are renewed each time you visit the website.
 
 The Website uses session cookies and persistent cookies.
+
+We use similar technologies for storing and accessing information in the browser or device which utilizes local units and local storage, such as HTML 5 cookies, Flash and other methods. These technologies can operate across all your browsers. In some cases, the use of these technologies cannot be controlled by the browser, but requires special tools. We use these technologies to store information to ensure the quality of reviews and to spot irregularities in the use of the Website.
 
 6.2 What type of cookies do we use and for what purposes?
 
@@ -170,6 +174,10 @@ Optimizing your experience with the Website, which includes remembering your use
 \- Connect with Social Media:
 
 We give you the possibility of connecting with Social Media, such as Facebook.
+
+\- Quality assurance
+
+Ensuring the quality of reviews and to prevent misuse or irregularities in con-nection with writing reviews and using the Website.
 
 \- Targeted advertisement:
 
@@ -225,6 +233,6 @@ In case of inquiries regarding Trustpilot's privacy policy, our processing of pe
 
 Trustpilot A/S, Trommesalen 5, 3rd floor, 1614 Copenhagen, Denmark, CVR-no: 30276582, telephone: +45 69 91 12 82, Email: support@trustpilot.com.
 
-August 2013
+November 2013
 
 Close and return
