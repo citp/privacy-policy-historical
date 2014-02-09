@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashdrive-repair.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611085544id_/http%3A//www.flashdrive-repair.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashdrive-repair.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209074017id_/http%3A//www.flashdrive-repair.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Flash Drive Repair
 
@@ -9,7 +9,7 @@ We may collect non-personal identification information about Users whenever they
 **Web browser cookies**  
 Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.  
 **How we use collected information**  
-[flashdrive-repair.blogspot.com](http://flashdrive-repair.blogspot.com/) collects and uses Users personal information for the following purposes:  
+[www.flashdrive-repair.com](http://flashdrive-repair.blogspot.com/) collects and uses Users personal information for the following purposes:  
 \- To personalize user experience  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
 \- To improve our Site  
@@ -29,6 +29,6 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 **Compliance with children’s online privacy protection act**  
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.  
 Changes to this privacy policy  
-[flashdrive-repair.blogspot.com](http://flashdrive-repair.blogspot.com/) has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.  
+[www.flashdrive-repair.com](http://flashdrive-repair.blogspot.com/) has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.  
 Your acceptance of these terms  
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
