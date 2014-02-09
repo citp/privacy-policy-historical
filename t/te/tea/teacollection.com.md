@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the teacollection.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907231316id_/http%3A//www.teacollection.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teacollection.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209201814id_/http%3A//www.teacollection.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tea Collection
-
-## privacy policy
 
 Tea Collection respects your right to privacy. We may change or add to this privacy policy at any time without notice, so we encourage you to review it periodically. Tea Collection reserves the right to vary this policy from state to state as required by law. By purchasing our products or using our website, you consent to the collection, use and disclosure of your personal information in accordance with the following privacy policy.
 
