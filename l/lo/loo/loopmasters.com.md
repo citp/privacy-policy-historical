@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loopmasters.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216061744id_/http%3A//www.loopmasters.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopmasters.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209062439id_/http%3A//www.loopmasters.com/privacy_policy) for the most accurate reproduction.*
 
 # Loopmasters Pro Sample Cds, Sound Libraries, Rex Files, Reason Samples
 
