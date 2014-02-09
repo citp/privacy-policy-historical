@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vuupc.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207170457id_/http%3A//vuupc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vuupc.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209045104id_/http%3A//vuupc.com/privacy.html) for the most accurate reproduction.*
 
 # Remote Desktop & Remote Access to your PC from Anywhere | ClickMeIn - Privacy Policy
 
