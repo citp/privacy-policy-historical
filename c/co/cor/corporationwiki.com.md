@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corporationwiki.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104152245id_/http%3A//www.corporationwiki.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corporationwiki.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209213318id_/http%3A//www.corporationwiki.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,6 +31,6 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 * * *
 
-###### COPYRIGHT © 2013 CORPORATION WIKI BY SAGEWIRE RESEARCH LLC ALL RIGHTS RESERVED.
+###### COPYRIGHT © 2014 CORPORATION WIKI BY SAGEWIRE RESEARCH LLC ALL RIGHTS RESERVED.
 
 All Trademarks and Copyrights are owned by their respective companies and/or entities. The companies and people profiled on Corporation Wiki are displayed for research purposes only and do not imply an endorsement from or for the profiled companies and people. Data inaccuracies may exist. No warranties, expressed or implied, are provided for the business data on this site, its use, or its interpretation.
