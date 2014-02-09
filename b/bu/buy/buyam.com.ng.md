@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyam.com.ng privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027102714id_/http%3A//www.buyam.com.ng/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyam.com.ng privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209082116id_/http%3A//www.buyam.com.ng/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice | Buyam
 
