@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doyouspain.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007234534id_/http%3A//doyouspain.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyouspain.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209111823id_/http%3A//www.doyouspain.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Spain car hire with All Inclusive Prices, Spain car hire with 100% Peace of Mind, Car hire in Spain with No Hidden Costs!
 
