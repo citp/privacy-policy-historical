@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gooutdoors.co.uk privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430170959id_/http%3A//www.gooutdoors.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gooutdoors.co.uk privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209065930id_/http%3A//www.gooutdoors.co.uk/privacy) for the most accurate reproduction.*
 
 # GO Outdoors | Tents & Camping Equipment | Outdoor Clothing & Waterproof Clothing
 
-### We are committed to protecting your **privacy**. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible service. 
+### We are committed to protecting your **privacy**. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). 
 
-We may e-mail you regarding the specifics of your order BUT we will not e-mail you any marketing material in the future unless you have given us your explicit consent. We **will not** pass on your information to any third party.
+We collect information about you to process your order, provide you with the best possible service and to keep you updated with relevant information and offers. We will not pass on your information to any third party. 
 
 ## The type of information we will collect about you includes:
 
