@@ -1,14 +1,23 @@
-<!--The following is the downloaded HTML source of the northerntool.com privacy policy that was archived on 2013-10-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131021075743id_/http%3A//www.northerntool.com/shop/tools/help_privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the northerntool.com privacy policy that was archived on 2014-02-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209133100id_/http%3A//www.northerntool.com/shop/tools/help_privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" xml:lang="en"><head>
+<!DOCTYPE html><html lang="en" xml:lang="en" class="dj_webkit dj_chrome dj_contentbox"><head>
 	<meta http-equiv="X-UA-Compatible" content="IE=8,chrome=1">
 
     <title>Privacy Policy | Customer Help | Northern Tool + Equipment</title>
   
 
-<link rel="stylesheet" href="/css/global.css?v=20189" type="text/css" media="all">
+<link rel="stylesheet" href="/wcsstore/dojo15/dijit/themes/claro/claro.css" type="text/css" media="all"> 
+<link rel="stylesheet" href="/css/global.css?v=21365" type="text/css" media="all">
 
+<!-- Tablet Icons -->
+<link href="apple-touch-icon-precomposed.png" rel="apple-touch-icon">
+<link href="/images/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon" sizes="72x72">
+<link href="/images/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon" sizes="114x114">
+<link href="/images/apple-touch-icon-144x144-precomposed.png" rel="apple-touch-icon" sizes="144x144">
+		
+<meta name="viewport" content="width=996">
+		
 
 
 <script src="//tags.tiqcdn.com/utag/northerntool/main/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript">
@@ -58,10 +67,9 @@ function getStyleDirectoryPath(){
 
 
 
-<script type="text/javascript" src="//libs.coremetrics.com/eluminate.js?v=18099"></script>
-<script type="text/javascript" src="/javascript/mbox/mbox.js?v=20189"></script><style>.mboxDefault { visibility:hidden; }</style>
-<script type="text/javascript" src="/javascript/global.js?v=20189"></script><script type="text/javascript" src="https://web.archive.org/javascript/coreMetrics.js"></script>
-<script type="text/javascript" src="/javascript/productMedia/BrightcoveExperiences_all.js?v=20189"></script>
+<script type="text/javascript" src="/javascript/mbox/mbox.js?v=21365"></script>
+<script type="text/javascript" src="/javascript/global.js?v=21365"></script>
+<script type="text/javascript" src="/javascript/productMedia/BrightcoveExperiences_all.js?v=21365"></script>
 
 </head>
 <!--[if lt IE 7]> <body class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
@@ -69,34 +77,8 @@ function getStyleDirectoryPath(){
 <!--[if IE 8]> <body class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <body class="no-js"> <!--<![endif]-->
 <!-- BEGIN /Tealium/Header.jsp x.x.x -->
-<script type="text/javascript">
-$(document).ready( function($) {
-	var SesCookies = getSesCookies();
-	if (typeof (SesCookies) == 'undefined' || SesCookies == '') {
-		$.ajax({
-			type : 'POST',
-			url : '/shop/tools/GetSesCookies?noCacheDateMS=' + (new Date()).getTime() + '&noCacheRand=' + Math.floor((Math.random()*100)+1),
-			data : { 
-				'storeId'       : '6970',
-				'langId'        : '-1',
-				'catalogId'     : '11652'
-			},
-			dataType : 'json',
-			cache    : false,
-			success  : function(result) {
-				SesCookies = result.SesCookies;
-				setSesCookies(SesCookies);
-				$(document).trigger('SesCookiesChanged', ['SesCookiesCreated', SesCookies]);
-			},
-			error : function (xhr, ajaxOptions, thrownError) {
-				if(window.console && console.error){
-					console.error('GetSesCookies error status: "' + xhr.status + '" message: "' + thrownError + '"');
-				}
-			}
-		});
-	}
-});
 
+<script type="text/javascript">
 
 var utag_data = {
     page_action : "view",
@@ -121,6 +103,36 @@ var utag_data = {
 })();
 </script>
 <!-- END /Tealium/Header.jsp x.x.x -->
+
+<script type="text/javascript">
+$(document).ready( function($) {
+	var SesCookies = getSesCookies();
+	if (typeof (SesCookies) == 'undefined' || SesCookies == '') {
+		$.ajax({
+			type : 'GET',
+			url : '/shop/tools/GetSesCookies'
+				+ '?storeId=' + '6970'
+				+ '&catalogId=' + '11652'
+				+ '&langId=' + '-1'
+				+ '&noCacheDateMS=' + (new Date()).getTime()
+				+ '&noCacheRand=' + Math.floor((Math.random()*100)+1),
+			dataType : 'json',
+			cache    : false,
+			success  : function(result) {
+				SesCookies = result.SesCookies;
+				setSesCookies(SesCookies);
+				$(document).trigger('SesCookiesChanged', ['SesCookiesCreated', SesCookies]);
+			},
+			error : function (xhr, ajaxOptions, thrownError) {
+				if(window.console && console.error){
+					console.error('GetSesCookies error status: "' + xhr.status + '" message: "' + thrownError + '"');
+				}
+			}
+		});
+	}
+});
+</script>
+
 <div id="page">
 <div id="header-wrapper">
 	  
@@ -129,7 +141,7 @@ var utag_data = {
 
 		
 				<div id="logo">
-					<a id="forFocus" href="/">Northern Tool + Equipment, Generators, pressure washers, air compressors, power tools, trailers, heaters, stoves, food processing, go karts, and more!</a>
+					<a id="forFocus" href="http://www.northerntool.com">Northern Tool + Equipment, Generators, pressure washers, air compressors, power tools, trailers, heaters, stoves, food processing, go karts, and more!</a>
 				</div>
 			
 		 <ul id="customer-nav">
@@ -160,7 +172,7 @@ var utag_data = {
 		
 				document.location = locationUrl; 
 			}
-		</script><li><a href="https://www.northerntool.com/shop/tools/LogonForm?catalogId=11652&amp;myAcctMain=1&amp;langId=-1&amp;storeId=6970" rel="nofollow">Sign In</a></li>
+		</script>
 
 			<li><a href="https://www.northerntool.com/shop/tools/AjaxLogonForm?catalogId=11652&amp;myAcctMain=1&amp;langId=-1&amp;storeId=6970" rel="nofollow">My Account</a></li>
 			<li><a href="https://www.northerntool.com/shop/tools/AjaxLogonForm?catalogId=11652&amp;langId=-1&amp;storeId=6970&amp;page=orderstatus" rel="nofollow">Order Status</a></li>
@@ -172,14 +184,16 @@ var utag_data = {
 	<div class="float-right">
 	<div id="lpButtonContainer"><div id="lpbutton-northerntool-sales-DIV">&nbsp;</div></div>
 	
-	<span id="phone-line"><p>Product Experts Available</p>1-800-221-0516</span>
+	<span id="phone-line"><p>Product Experts Available</p><span class="sales_phn_nbr">1-800-221-0516</span></span>
 		
 		     
 					<div id="cart">
 				<!-- BEGIN AkamaiMiniShopCartDisplay.jsp -->
 
 <a href="http://www.northerntool.com/shop/tools/OrderCalculate?calculationUsageId=-1&amp;updatePrices=1&amp;catalogId=11652&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=-1&amp;storeId=6970&amp;URL=AjaxOrderItemDisplayView" tabindex="0" id="shoppingCartBar" waistate:controls="ShopCartDisplay">
-	<div id="minicartcontent"><span id="miniShopCartBody">0</span>
+	<div id="minicartcontent"><span id="miniShopCartBody">
+		
+	</span>
 	</div>
 </a>
 
@@ -213,65 +227,115 @@ var utag_data = {
 	<div class="clear"></div>
 	
 
+<script type="text/javascript" src="/wcsstore/dojo15/dojo/dojo.js" djconfig="parseOnLoad: false, isDebug: false, useCommentedJson: true,locale: 'en-us' "></script>
+<script>dojoConfig = {parseOnLoad: true}</script>
 
 <div id="navigation-bar">
-		<div id="search">
- 
-	    	<div id="catalog-search-header">
-		    	
-		    	<input type="text" size="18" class="text-input" name="Ntt" maxlength="100" id="Ntt" value="">
-				<a href="javascript:catalogSearch();"><img alt="Search" title="" src="/images/buttons/search-btn-big.gif" width="40" height="32"></a>
-	    	</div>
+	
 
-			<script type="text/javascript">
-	      		function catalogSearch(){
-	      			var searchTermValue = document.getElementById("Ntt").value;
-	      			var updatedSearchTermValue=searchTermValue.replace(/ /gi,"+")
-	      			if (searchTermValue == ""){
-		                // Trigger Tealium Tags
-		                utag.link( {
-		                    event_flag : 'event3'
-		                });
-		                
-						alert("Please enter a search term or item # in the search box.");
-	      			}else{
-                        var ipp = 24;
-                        if(getCookie("ipp")!=null)
-                          ipp=getCookie("ipp");
-	      				document.location.href = 'http://www.northerntool.com/shop/tools/NTESearch?storeId=6970' + '&ipp='+ipp+'&Ntt=' + encodeURIComponent(updatedSearchTermValue);
-	      			}
-	      		}
-	      		
-	      		$(function() {
-		      		$('#catalog-search-header').keydown(function(evt) {
-					      key = evt.keyCode;
-					      if(key == '13') {
-					      	catalogSearch();
-					      }
-					});
-				});
-        
-                        function getCookie(c_name)
-                {
-                var i,x,y,ARRcookies=document.cookie.split(";");
-                for (i=0;i<ARRcookies.length;i++)
-                {
-                  x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
-                  y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
-                  x=x.replace(/^\s+|\s+$/g,"");
-                  if (x==c_name)
-                    {
-                    return unescape(y);
-                    }
+<div id="search">
+<div id="catalog-search-header">
+<div class="claro"><div class="dijit dijitReset dijitInlineTable dijitLeft dijitTextBox dijitComboBox" id="widget_Ntt" dojoattachpoint="comboNode" wairole="combobox" role="combobox" widgetid="Ntt"><div class="dijitReset dijitRight dijitButtonNode dijitArrowButton dijitDownArrowButton dijitArrowButtonContainer" dojoattachpoint="downArrowNode" wairole="presentation" dojoattachevent="onmousedown:_onArrowMouseDown" role="presentation" style="display: none;"><input class="dijitReset dijitInputField dijitArrowButtonInner" value="▼ " type="text" tabindex="-1" readonly="" wairole="presentation" role="presentation"></div><div class="dijitReset dijitValidationContainer"><input class="dijitReset dijitInputField dijitValidationIcon dijitValidationInner" value="Χ " type="text" tabindex="-1" readonly="" wairole="presentation" role="presentation"></div><div class="dijitReset dijitInputField dijitInputContainer"><input class="dijitReset dijitInputInner" name="Ntt" type="text" autocomplete="off" dojoattachevent="onkeypress:_onKeyPress,compositionend" dojoattachpoint="textbox,focusNode" wairole="textbox" waistate="haspopup-true,autocomplete-list" role="textbox" aria-haspopup="true" aria-autocomplete="list" id="Ntt" tabindex="0" value=""><span class="dijitPlaceHolder dijitInputField" style="display: none;"></span></div></div><a href="javascript:catalogSearch();"><img alt="Search" title="" src="/images/buttons/search-btn-big.gif" width="40" height="32" style="vertical-align: bottom"></a></div>
+</div>
+
+
+
+<script type="text/javascript">
+dojo.require("dijit.form.ComboBox");
+dojo.require("dojox.data.QueryReadStore");
+
+dojo.ready( function() {
+   var queryReadStore = new dojox.data.QueryReadStore( {
+      url : 'http://www.northerntool.com/shop/tools/GetTypeView?storeId=6970'
+   });
+   
+   // create ComboBox widget, populating its options from the store
+   var searchBox = new dijit.form.ComboBox( {
+            id : "Ntt",
+            name : "Ntt",
+            placeHolder : "",
+            store : queryReadStore,
+            autoComplete : false,
+            hasDownArrow : false,
+            searchAttr : "name",
+            minKeyCount : 2,
+            highlightMatch : "all",
+            // override search method, count the input length
+            _startSearch : function(/* String */key) {
+               var length = 0;
+               for ( var i = 0; i < key.length; i++) {
+                  if (key[i].match(/^[0-9a-zA-Z]+$/)) {
+                     length++;
                   }
-                }
-	      	</script>    
-	    	
-      	
-		 
-		</div>
-	
-	
+                  
+               }
+               if (!key || length < this.minKeyCount) {
+                  this._hideResultList();
+                  return;
+               }
+               
+               this.inherited('_startSearch', arguments)
+            },
+            _selectOption : function(/* Event */evt) {
+               this.inherited('_selectOption', arguments)
+               catalogSearch();
+            },
+            doHighlight : function(label, find) {
+            // Add greedy when this.highlightMatch == "all"
+            var modifiers = "i" + (this.highlightMatch == "all" ? "g" : "");
+            
+            var ret = label.replace(new RegExp("(" + find + ")", modifiers), '<span style="font-weight: bold">$1</span>');
+            return ret;
+         }
+   }, "Ntt");
+   searchBox.startup();
+})
+
+function catalogSearch() {
+   var searchTermValue = document.getElementById("Ntt").value;
+   var updatedSearchTermValue = searchTermValue.replace(/ /gi, "+")
+   if (searchTermValue == "") {
+      // Trigger Tealium Tags
+      utag.link( {
+         event_flag : 'event3'
+      });
+      
+      alert("Please enter a search term or item # in the search box.");
+   } else {
+      var ipp = 24;
+      if (getCookie("ipp") != null)
+         ipp = getCookie("ipp");
+      //document.location.href = '' + '&ipp='+ipp+'&Ntt=' + encodeURIComponent(updatedSearchTermValue);
+      document.location.href = 'http://www.northerntool.com/shop/tools/CatalogSearchRedirectView?storeId=6970' + '&ipp=' + ipp + '&Ntt=' + encodeURIComponent(updatedSearchTermValue);
+   }
+}
+
+$( function() {
+   $('#catalog-search-header').keydown( function(evt) {
+      key = evt.keyCode;
+      if (key == '13') {
+         catalogSearch();
+      }
+   });
+});
+
+function getCookie(c_name) {
+   var i, x, y, ARRcookies = document.cookie.split(";");
+   for (i = 0; i < ARRcookies.length; i++) {
+      x = ARRcookies[i].substr(0, ARRcookies[i].indexOf("="));
+      y = ARRcookies[i].substr(ARRcookies[i].indexOf("=") + 1);
+      x = x.replace(/^\s+|\s+$/g, "");
+      if (x == c_name) {
+         return unescape(y);
+      }
+   }
+}
+</script>
+
+
+</div>
+
+
 	<ul id="main-nav">
 	
 						<li id="categories"><a href="http://www.northerntool.com/catalog/" alt="Shop by Category">Most Popular Categories</a>
@@ -299,7 +363,7 @@ var utag_data = {
 										<li><a href="http://www.northerntool.com/shop/tools/category_auto-suv-truck-accessories">Auto, SUV + Truck Accessories</a></li>
 										
 									
-										<li><a href="http://www.northerntool.com/shop/tools/category_logging+chain-saws">Chain Saws</a></li>
+										<li><a href="http://www.northerntool.com/shop/tools/category_batteries-chargers-jump-starters">Batteries, Chargers + Jump Starters</a></li>
 										
 									
 										<li><a href="http://www.northerntool.com/shop/tools/category_clothing-work-wear">Clothing + Work Wear</a></li>
@@ -317,14 +381,11 @@ var utag_data = {
 										<li><a href="http://www.northerntool.com/shop/tools/category_farm-acreage">Farm + Acreage</a></li>
 										
 									
-										<li><a href="http://www.northerntool.com/shop/tools/category_food-processing">Food Processing</a></li>
+										<li><a href="http://www.northerntool.com/shop/tools/category_fuel-transfer-lubrication">Fuel Transfer + Lubrication</a></li>
 										<!-- new list -->
 												</ul>
 												<ul>
 											
-									
-										<li><a href="http://www.northerntool.com/shop/tools/category_fuel-transfer-lubrication">Fuel Transfer + Lubrication</a></li>
-										
 									
 										<li><a href="http://www.northerntool.com/shop/tools/category_garage-workshop-supplies">Garage + Workshop Supplies</a></li>
 										
@@ -357,15 +418,21 @@ var utag_data = {
 										
 									
 										<li><a href="http://www.northerntool.com/shop/tools/category_pressure-washers">Pressure Washers</a></li>
+										
+									
+										<li><a href="http://www.northerntool.com/shop/tools/category_seats">Seats</a></li>
 										<!-- new list -->
 												</ul>
 												<ul>
 											
 									
-										<li><a href="http://www.northerntool.com/shop/tools/category_ramps">Ramps</a></li>
+										<li><a href="http://www.northerntool.com/shop/tools/category_snow-ice-removal">Snow + Ice Removal</a></li>
 										
 									
-										<li><a href="http://www.northerntool.com/shop/tools/category_seats">Seats</a></li>
+										<li><a href="http://www.northerntool.com/shop/tools/category_snow-ice-removal+snow-blowers">Snow Blowers</a></li>
+										
+									
+										<li><a href="http://www.northerntool.com/shop/tools/category_grounds-maintenance+sprayers">Sprayers</a></li>
 										
 									
 										<li><a href="http://www.northerntool.com/shop/tools/category_storage-organizers">Storage + Organizers</a></li>
@@ -381,9 +448,6 @@ var utag_data = {
 										
 									
 										<li><a href="http://www.northerntool.com/shop/tools/category_trailers-trailer-parts">Trailers + Trailer Parts</a></li>
-										
-									
-										<li><a href="http://www.northerntool.com/shop/tools/category_grounds-maintenance+wagons-yard-carts">Wagons + Yard Carts</a></li>
 										
 									
 										<li><a href="http://www.northerntool.com/shop/tools/category_water-pumps">Water Pumps</a></li>
@@ -522,10 +586,7 @@ var utag_data = {
 										<li><a href="http://www.northerntool.com/shop/tools/category_on-sale">Sale</a></li>
 										
 									
-										<li><a href="http://www.northerntool.com/shop/tools/category_clearance">Clearance</a></li>
-										
-									
-										<li><a href="http://www.northerntool.com/shop/tools/category_heaters-stoves-fireplaces+on-sale">Preseason Heater Sale</a></li>
+										<li><a href="http://www.northerntool.com/shop/tools/category_clearance">Clearance - Save 20% or More!</a></li>
 										
 									
 										<li><a href="http://www.northerntool.com/shop/tools/email-deals_sign-up">Email Deals</a></li>
@@ -671,7 +732,7 @@ var utag_data = {
 		<li><b>Updates on Internet Specials</b>- You will receive updates on Internet specials you have requested, and invitations to join our Sweepstakes and giveaways.</li>
 		<li><b>Personalized, Knowledgeable Customer Care</b>- Our customer care team will be able to assist you promptly and accurately by identifying you and your preferences.</li>
         </ol>
-        <p>NorthernTool.com uses a third-party service provider (Coremetrics) to collect and analyze information about our customers to better meet their needs. Coremetrics may store data or use cookies on our part; however, we do not share information that would enable them to identify you individually. Their purpose is to provide NorthernTool.com with information that may better help us tailor the products and services we offer on our site. We do provide you with the opportunity to choose not to participate in the analysis of your browsing and purchasing behavior through the third-party service. For more information about our third-party service provider and how to opt out of this service, refer to the section below.</p>
+        <p>NorthernTool.com uses a third-party service provider (Adobe Site Catalyst) to collect and analyze information about our customers to better meet their needs. Adobe Site Catalyst may store data or use cookies on our part; however, we do not share information that would enable them to identify you individually. Their purpose is to provide NorthernTool.com with information that may better help us tailor the products and services we offer on our site. We do provide you with the opportunity to choose not to participate in the analysis of your browsing and purchasing behavior through the third-party service. For more information about our third-party service provider and how to opt out of this service, refer to the section below.</p>
         <h2>Opting Out</h2>
         <p>You may withdraw your personal information from Northern at any time. To withdraw your information,
 		<a href="/shop/tools/contact_contact-index">email</a> or write us at:</p>
@@ -681,8 +742,8 @@ var utag_data = {
 		<br>PO Box 1219
 		<br>Burnsville, MN 55337-0219</p>
         <h2 id="optout">Opting Out of Third-party Services</h2>
-        <p>To learn more about Coremetrics, their privacy policies or how to opt-out of their services please go to: 
-		<a href="http://www.coremetrics.com/company/privacy.php" target="_blank">www.coremetrics.com/privacy.html</a>
+        <p>To learn more about Adobe Site Catalyst, their privacy policies or how to opt-out of their services please go to: 
+		<a href="http://www.adobe.com/privacy/opt-out.html#4" target="_blank">http://www.adobe.com/privacy.html</a>
         </p>
         <h2>Will Northern Tool + Equipment sell my email address?</h2>
         <p><span style="font: bold 16px">NO!</span> Northern will not sell, trade, share or rent your email address to anyone. We believe that your email address is personal and should be kept that way. We use your email address to provide you with better customer care support, and to update you on Northern Internet specials that you have requested.</p>
@@ -740,18 +801,7 @@ var utag_data = {
     </div>
     <div class="clear"></div>
 </div>
-<div class="clear"></div>
-<script type="text/javascript">
-    cmSetClientID("30000109", false, "www35.northerntool.com", "northerntool.com");
-    cmCreatePageviewTag("Help: Privacy Policy", "C1400");
-</script>
-<script type="text/javascript">
-    lpAddVars('page', 'PageName', 'Help: Privacy Policy');
-</script>
-<noscript>
-    <p>Script section containing code for Liveperson Chat Solution</p>
-</noscript>
-<!-- main section ends --><!-- Footer Start --><!-- BEGIN /include/styles/style1/CachedFooterDisplay.jsp x.x.x -->
+<div class="clear"></div><!-- main section ends --><!-- Footer Start --><!-- BEGIN /include/styles/style1/CachedFooterDisplay.jsp x.x.x -->
 
 	</div>
 </div>
@@ -770,6 +820,8 @@ var utag_data = {
 					<input value="2092616279" name="fsub" type="hidden">
 					<input value="217800" name="eid" type="hidden">
 					<input value="http://www.northerntool.com/shop/tools/email-deals_subscription-confirmation" name="re" type="hidden">
+           			<input value="NH" name="BUSINESSCONSUMER" type="hidden">
+					<input value="C" name="CUST_BUS_TYPE" type="hidden"> 
 					<label for="email">Email Address</label>
 					<input name="email" type="text" maxlength="60" class="text-input" value=""><br>
 					<label for="firstname">First Name</label>
@@ -838,10 +890,9 @@ var utag_data = {
 		<p>Copyright ©  Northern Tool + Equipment.  All Rights Reserved.</p>
 		<p><a href="http://www.northerntool.com/shop/tools/sitemap">Sitemap</a> | <a href="http://www.northerntool.com/shop/tools/help_privacy-policy" rel="nofollow">Privacy Policy</a></p>
 	</div>
-	
 		<div class="col col6 col-right" id="badges">
 			<a href="http://www.northerntool.com/shop/tools/company-info_company-info-index"><img src="/images/footer/over-30-years.png" width="99" height="61" alt="Over 30 Years in Business!" title=""></a>
-			<a class="pop-up" href="https://www.mcafeesecure.com/RatingVerify?ref=63.225.137.160" target="_blank" id="mcafee"><img id="mcafee-icon" width="65" height="37" src="//images.scanalert.com/meter/63.225.137.160/63.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;" title=""></a>
+            <div class="mboxDefault"></div><script type="text/javascript" language="javascript1.2">mboxCreate('FooterSecurityIcon');</script>
 			<a class="pop-up last" href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.NORTHERNTOOL.COM&amp;lang=en" target="_blank"><img src="/images/footer/norton.png" width="99" height="80" alt="Click to Verify" title=""></a>
 		</div>
 	   
@@ -860,26 +911,29 @@ if($.returnCookie("rvi")) {
 	} else {
 		document.write('<div id="footer-rvi" style="display:none;">');
 	}
-			document.write('<div id="footer-rvi-bug"><img src="/images/icons/footer-rvi-bug.gif" width="50" height="44" alt="Northern Tool + Equipment"></div>');
-			document.write('<div id="footer-rvi-header"><img src="/images/icons/footer-rvi-header.gif" width="115" height="22" alt="Your Recently Viewed Items"></div>');
+			document.write('<div id="inner">')
+			document.write('<div id="footer-rvi-bug"><img src="/images/icons/footer-rvi-bug.png" width="50" height="44" alt="Northern Tool + Equipment"></div>');
+			document.write('<div id="footer-rvi-header"><img src="/images/icons/footer-rvi-header.png" width="63" height="27" alt="Your Recently Viewed Items"></div>');
 
 		$.returnCookie("rvi").slice(0,10).each(function(i){
 			var thisCookie = this;
          if(thisCookie[1]!=null && thisCookie[1].toLowerCase().indexOf("noimage")<0){
 			document.write('<div class="footer-rvi-image"><a class="small" href="http://www.northerntool.com/shop/tools/product_' + thisCookie[0].toLowerCase() + '_' + thisCookie[0] + '">');
-				document.write('<img src="/images/product/images/' + thisCookie[1].toLowerCase() + '_med.jpg" width="34" height="34" alt="' + thisCookie[1] + '" title="View Product Details"><img class="large" src="/images/product/images/' + thisCookie[1].toLowerCase() + '_med.gif" width="114" height="114" alt="' + thisCookie[1] + '" title="View Product Details"></a></div>');
-		 }		
+			document.write('<img src="' + imageFromPartNumber(thisCookie[1],  65, 65) + '" width="34" height="34" alt="' + thisCookie[1] + '" title="View Product Details"><img class="large" src="' + imageFromPartNumber(thisCookie[1],  114, 114) + '" width="114" height="114" alt="' + thisCookie[1] + '" title="View Product Details"></a></div>');
+     }		
 		});
 		
-		document.write('<div id="footer-rvi-hide"><a href="#" onclick="$(\'#footer-rvi-show\').show(); $(\'#footer-rvi-hide, #footer-rvi\').hide(); SetSessionCookie(\'rviState\', \'hide\', \'/\'); return false;"><img src="/images/buttons/btn3-hide.gif" width="48" height="16" alt="Hide" title="Hide My Recently Viewed Items"></a></div>');
+		document.write('<div id="footer-rvi-hide"><a href="#" onclick="$(\'#footer-rvi-show\').show(); $(\'#footer-rvi-inner\').show(); $(\'#footer-rvi-hide, #footer-rvi\').hide(); SetSessionCookie(\'rviState\', \'hide\', \'/\'); return false;"><img src="/images/icons/footer-rvi-hide.gif" width="48" height="16" alt="Hide" title="Hide My Recently Viewed Items"></a></div>');
 
+	document.write('</div>');
 	document.write('</div>');
 
 	if(cookieValue == "show") {
-		document.write('<div id="footer-rvi-show" style="display:none;"><a href="#" onclick="$(\'#footer-rvi-show\').hide(); $(\'#footer-rvi-hide, #footer-rvi\').show(); SetSessionCookie(\'rviState\', \'show\', \'/\'); return false;"><img src="/images/buttons/btn3-show.gif" width="48" height="16" alt="Show" title="Show My Recently Viewed Items"></a></div>');
+		document.write('<div id="footer-rvi-show" style="display:none;"><a href="#" onclick="$(\'#footer-rvi-show\').hide(); $(\'#footer-rvi-hide, #footer-rvi\').show(); SetSessionCookie(\'rviState\', \'show\', \'/\'); return false;"><img src="/images/icons/footer-rvi-show.gif" width="76" height="39" alt="Show" title="Show My Recently Viewed Items"></a></div>');
 	} else {
-		document.write('<div id="footer-rvi-show"><a href="#" onclick="$(\'#footer-rvi-show\').hide(); $(\'#footer-rvi-hide, #footer-rvi\').show(); SetSessionCookie(\'rviState\', \'show\', \'/\'); return false;"><img src="/images/buttons/btn3-show.gif" width="48" height="16" alt="Show" title="Show My Recently Viewed Items"></a></div>');
+		document.write('<div id="footer-rvi-show"><a href="#" onclick="$(\'#footer-rvi-show\').hide(); $(\'#footer-rvi-hide, #footer-rvi\').show(); SetSessionCookie(\'rviState\', \'show\', \'/\'); return false;"><img src="/images/icons/footer-rvi-show.gif" width="76" height="39" alt="Show" title="Show My Recently Viewed Items"></a></div>');
 	}
+
 }
 </script>
 
@@ -896,30 +950,35 @@ if($.returnCookie("rvi")) {
 
 <!-- END /include/styles/style1/CachedFooterDisplay.jsp --><!-- Footer End --><!-- BEGIN /Tealium/Footer.jsp x.x.x -->
 <script type="text/javascript">
-	if(typeof (utag_data) != 'undefined' && typeof (utag_data.product_skuz) == 'undefined'){
-		var itemInCartCookieVal = getCookie("WC_XITEMINCART");
-		if(null != itemInCartCookieVal && 'null' != itemInCartCookieVal && itemInCartCookieVal != ""){
-			utag_data.product_skuz=itemInCartCookieVal.split("|");
-		}
+
+
+	var allQueryParms = $.getUrlVars();
+	var search_keywordz = new Array();
+	
+	var Ntt = getCookie("searchTermValue");
+	if (typeof (Ntt) != 'undefined' && 0 < Ntt.length) {
+		deleteCookie("searchTermValue");
 		
-		var itemInCartCookieQtyVal = getCookie("WC_XITEMQTYINCART");
-		if(null != itemInCartCookieQtyVal && 'null' != itemInCartCookieQtyVal && itemInCartCookieQtyVal != ""){
-			utag_data.product_quantityz=itemInCartCookieQtyVal.split("|");
-		}
+		utag_data['site_search_type'] = 'Nav Search';
+		search_keywordz = unescape(Ntt).toLowerCase().split("|"); 
+		utag_data['site_search_keywordz'] = search_keywordz;
+	}
+	
+	var Ntt = allQueryParms['Ntt'];
+	if (typeof (Ntt) != 'undefined' && 0 < Ntt.length) {
+		utag_data['site_search_type'] = 'Nav Search';
+		search_keywordz = unescape(Ntt).toLowerCase().split("|"); 
+		utag_data['site_search_keywordz'] = search_keywordz;
 	}
 
+	var newSWTerm = allQueryParms['newSWTerm'];
+	if (typeof (newSWTerm) != 'undefined' && 0 < newSWTerm.length) {
+		utag_data['site_search_type'] = 'Narrowing Refinements Search';
+		search_keywordz[search_keywordz.length] = unescape(newSWTerm).toLowerCase(); 
+		utag_data['site_search_keywordz'] = search_keywordz;
+	}
 
 	var saved_data = $.extend(true, {}, utag_data);
-
-	var DMTMMapCookie = getCookie("DMTMMapCookieValue");
-	if (typeof (DMTMMapCookie) != 'undefined' && DMTMMapCookie != '') {
-		deleteCookie("DMTMMapCookieData");
-		deleteCookie("DMTMMapCookieValue");
-		DMTMMapCookie = $.parseJSON(DMTMMapCookie);
-		for (var value in DMTMMapCookie) {
-			utag_data[value] = DMTMMapCookie[value];
-		}
-	}
 </script>
 <!-- END /Tealium/Footer.jsp x.x.x -->
 
