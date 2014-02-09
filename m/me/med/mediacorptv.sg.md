@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediacorptv.sg privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017213328id_/http%3A//entertainment.xin.msn.com/en/celebrity/features/article.aspx%3Fcp-documentid%3D252387354) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediacorptv.sg privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210003653id_/http%3A//entertainment.xin.msn.com/en/celebrity/features/article.aspx%3Fcp-documentid%3D252387354) for the most accurate reproduction.*
 
 # Privacy Policy - 1 - Celebrity Gossip on xinmsn Entertainment
 
