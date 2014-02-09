@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the movietalkies.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510081259id_/http%3A//www.movietalkies.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movietalkies.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209033706id_/http%3A//www.movietalkies.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Movie Talkies
+
+## Privacy Policy
 
 MovieTalkies.com is an online portal which provides movie related information, database, news, reviews, trailers, pictures, interviews, etc. This Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using MovieTalkies.com
 
@@ -8,7 +10,8 @@ MovieTalkies.com ("MT", "us" or "we") respects the privacy of the visitors to it
 
 By using or accessing the Website, you are accepting the practices described in this Privacy Policy.
 
-**WHAT INFORMATION DO WE GATHER**  
+**WHAT INFORMATION DO WE GATHER**
+
 We collect Personal Information that you submit to us voluntarily through our Website.
 
 When you register with MovieTalkies.com, we will collect your Name, E-mail Address, Phone Number, Gender, Address and Date of Birth. When you save other Personal Information in your account we will collect any such information you enter. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future browsing for you, improving our site, and communicating with you.
@@ -21,7 +24,7 @@ When you contact us by sending us an e-mail, we will collect your e-mail address
 
 Any of the information we collect from you may be used in one of the following ways:
 
-**To personalize your experience:** your information helps us to better respond to your individual needs. ****
+**To personalize your experience:** your information helps us to better respond to your individual needs.
 
 **To improve our Website:** we continually strive to improve our Website offerings based on the information and feedback we receive from you.
 
@@ -31,7 +34,7 @@ Any of the information we collect from you may be used in one of the following w
 
 **To administer a contest, promotion, survey or other site feature**
 
-**To send periodic emails:** (The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc., which you may opt to unsubscribe by visiting [www.MovieTalkies.com/unsubscribe](https://web.archive.org/web/20120510081259id_/http%3A//www.movietalkies.com/unsubscribe_news.aspx) and entering your email address. MovieTalkies.com will send you a confirmation email on the email address entered which you may confirm by clicking on the link.
+**To send periodic emails:** (The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc., which you may opt to unsubscribe by visiting [www.MovieTalkies.com/unsubscribe](unsubscribe-news.html) and entering your email address. MovieTalkies.com will send you a confirmation email on the email address entered which you may confirm by clicking on the link.
 
 **INFORMATION SHARING & DISCLOSURE**
 
@@ -59,7 +62,7 @@ Cookies" are small pieces of information that a web site sends to your computers
 
 Other third parties may place advertisements and cookies on webpages within the MovieTalkies.com network. Other companies' use of their cookies is subject to their own privacy policies, not this one.
 
-We reserve the right to send you certain communications relating to the MovieTalkies.com service, such as service announcements, administrative messages and the MovieTalkies.com Newsletter, that are considered part of your MovieTalkies.com account. If you would like to opt out of certain messages, log into MovieTalkies.com and go to your account settings by clicking the account link in the top right hand corner. On that page you can edit your preferences.
+We reserve the right to send you certain communications relating to the MovieTalkies.com service, such as service announcements, administrative messages and the MovieTalkies.com Newsletter, that are considered part of your MovieTalkies.com account. If you would like to opt out of certain messages, log into MovieTalkies.com and go to your account settings by clicking the account link in the top right hand corner. On that page you can edit your preferences. 
 
 **CONFIDENTIALITY & SECURITY**
 
@@ -73,10 +76,11 @@ Our provision of a link to any other website or location is for your convenience
 
 **REGARDING MINORS**
 
-We do not intentionally gather Personal Information about visitors who are under the age of 18. By accepting the practices in the Privacy Policy and the Terms of Use _(_[www.MovieTalkies.com/terms](https://web.archive.org/web/20120510081259id_/http%3A//www.movietalkies.com/terms-conditions.aspx)), you warrant that you are an individual (i.e. not a corporation) and are at least 18 years of age and you have the legal authority to enter into other binding agreements for the purchase and/or use goods and/or Services. You agree to be responsible for use of the Services and access of the Website (as well as for use of our account by others, including without limitation minors living with you). 
+We do not intentionally gather Personal Information about visitors who are under the age of 18. By accepting the practices in the Privacy Policy and the Terms of Use _(_[www.MovieTalkies.com/terms](terms-conditions.html)), you warrant that you are an individual (i.e. not a corporation) and are at least 18 years of age and you have the legal authority to enter into other binding agreements for the purchase and/or use goods and/or Services. You agree to be responsible for use of the Services and access of the Website (as well as for use of our account by others, including without limitation minors living with you). 
 
-**TERMS AND CONDITIONS**  
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.MovieTalkies.com/terms](https://web.archive.org/web/20120510081259id_/http%3A//www.movietalkies.com/terms-conditions.aspx)
+**TERMS AND CONDITIONS**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.MovieTalkies.com/terms](terms-conditions.html)
 
 **CHANGES TO THIS PRIVACY POLICY**
 
