@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findmyhosting.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103061541id_/http%3A//www.findmyhosting.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmyhosting.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209193302id_/http%3A//www.findmyhosting.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -85,3 +85,16 @@ Miami FL 33131
 [privacy@FindMyHosting.com](mailto:privacy@findmyhosting.com)
 
 This document was last updated on March 09, 2013 
+
+**Warning** : mysql_real_escape_string() [[function.mysql-real-escape-string](https://web.archive.org/web/20140209193302id_/http://www.findmyhosting.com/privacypolicy/function.mysql-real-escape-string)]: Access denied for user 'nobody'@'localhost' (using password: NO) in **/home/findmyho/public_html/flite/core.lib/database.sqlbuilder.php** on line **126**
+
+**Warning** : mysql_real_escape_string() [[function.mysql-real-escape-string](https://web.archive.org/web/20140209193302id_/http://www.findmyhosting.com/privacypolicy/function.mysql-real-escape-string)]: A link to the server could not be established in **/home/findmyho/public_html/flite/core.lib/database.sqlbuilder.php** on line **126**
+
+**Warning** : mysql_real_escape_string() [[function.mysql-real-escape-string](https://web.archive.org/web/20140209193302id_/http://www.findmyhosting.com/privacypolicy/function.mysql-real-escape-string)]: Access denied for user 'nobody'@'localhost' (using password: NO) in **/home/findmyho/public_html/flite/core.lib/database.sqlbuilder.php** on line **126**
+
+**Warning** : mysql_real_escape_string() [[function.mysql-real-escape-string](https://web.archive.org/web/20140209193302id_/http://www.findmyhosting.com/privacypolicy/function.mysql-real-escape-string)]: A link to the server could not be established in **/home/findmyho/public_html/flite/core.lib/database.sqlbuilder.php** on line **126**
+
+**Warning** : mysql_real_escape_string() [[function.mysql-real-escape-string](https://web.archive.org/web/20140209193302id_/http://www.findmyhosting.com/privacypolicy/function.mysql-real-escape-string)]: Access denied for user 'nobody'@'localhost' (using password: NO) in **/home/findmyho/public_html/flite/core.lib/database.sqlbuilder.php** on line **126**
+
+**Warning** : mysql_real_escape_string() [[function.mysql-real-escape-string](https://web.archive.org/web/20140209193302id_/http://www.findmyhosting.com/privacypolicy/function.mysql-real-escape-string)]: A link to the server could not be established in **/home/findmyho/public_html/flite/core.lib/database.sqlbuilder.php** on line **126**  
+﻿
