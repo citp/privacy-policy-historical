@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tapmad.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601232138id_/http%3A//www.daily.co.uk/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapmad.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209115422id_/http%3A//www.daily.co.uk/terms/privacy.html) for the most accurate reproduction.*
 
 # Daily.co.uk: Privacy Policy
 
