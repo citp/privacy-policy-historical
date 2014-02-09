@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the hereisthecity.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021070124id_/http%3A//hereisthecity.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hereisthecity.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209101149id_/http%3A//hereisthecity.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Information About All Here Is The City Visitors  
+Here Is The City is commited to protecting the privacy of our users. We want to provide a safe, secure user experience. We will use our best efforts to ensure that the information you submit to us remains private and is used only for the purposes as set forth herein. The following reflects our commitment to you.
+
+ **Information About All Here Is The City Visitors  
 ** In general we collect data about the areas of the sites and pages which are visited. We only aggregate this data and do not specifically target the trends of an individual. This information helps us to better serve you by determining which services and features are most useful to you. We may share this information with partners, but again this is only in aggregate form and individuals will not be able to be identified from the data.
 
 **Cookies  
