@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the angelseo.co.uk privacy policy that was archived on 2013-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130724190751id_/http%3A//www.angelseo.co.uk/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angelseo.co.uk privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209120331id_/http%3A//www.angelseo.co.uk/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Angel SEO
+# Privacy Policy - Angel | SEO, Website Design & Copywriting
+
+  * [Home](https://web.archive.org/web/20140209120331id_/http%3A//www.angelseo.co.uk/index.php) >
+  * Privacy policy
+
+
 
 **Our privacy policy below explains how we will collect and use the information you give us. We may vary this policy from time to time and the current version will be that published on this site. The word 'we' refers to Angel, unless otherwise indicated.**
 
@@ -88,7 +93,7 @@ __utma
 
 | 
 
-Google Analytics: We use Google Analytics to monitor traffic levels, search queries and visits to this website. Google Analytics stores IP address anonymously on its servers in the US, and neither Angel SEO nor Google will associate your IP address with any personally identifiable information. These cookies enable Google to determine whether you are a return visitor to the site, and to track the pages that you visit during your session.  
+Google Analytics: We use Google Analytics to monitor traffic levels, search queries and visits to this website. Google Analytics stores IP address anonymously on its servers in the US, and neither Angel nor Google will associate your IP address with any personally identifiable information. These cookies enable Google to determine whether you are a return visitor to the site, and to track the pages that you visit during your session.  
   
 __utmb  
   
