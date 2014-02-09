@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mebeam.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509091450id_/http%3A//cuseeme.tv/page_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mebeam.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209091116id_/http%3A//globalipvideo.com/page_privacy_policy.php) for the most accurate reproduction.*
 
 # CuSeeMe.tv | Privacy Policy
 
