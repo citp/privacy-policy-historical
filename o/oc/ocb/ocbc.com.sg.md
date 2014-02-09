@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocbc.com.sg privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922222802id_/http%3A//www.ocbc.com.sg/personal-banking/security-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocbc.com.sg privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209232453id_/http%3A//www.ocbc.com.sg/personal-banking/security-privacy.html) for the most accurate reproduction.*
 
 # security-privacy
 
@@ -20,7 +20,7 @@ As an Internet Banking customer, you play an important role in safeguarding your
 
 ## Customer Service
 
-If you have any queries, problems, grievances, disputes or claims relating to or arising out of the use of OCBC Internet Banking service, you may call any of our Customer Service Officers on 1800 363 3333. They are available to attend to you daily from 8a.m to 10p.m and will advise on the immediate steps to be taken by you and/or actions that we will take. Alternatively, you may send us an email by completing the feedback form at www.ocbc.com and we will try to respond to you within 24 hours provided we receive your notification during business hours and the following day is not Sunday or a public holiday, in which case we will reply on the next business day.
+If you have any queries, problems, grievances, disputes or claims relating to or arising out of the use of OCBC Internet Banking service, you may call any of our Customer Service Officers on 1800 363 3333. They are available to attend to you 24/7 daily and will advise on the immediate steps to be taken by you and/or actions that we will take. Alternatively, you may send us an email by completing the feedback form at www.ocbc.com and we will try to respond to you within 24 hours provided we receive your notification during business hours and the following day is not Sunday or a public holiday, in which case we will reply on the next business day.
 
 ### DISPUTE RESOLUTION
 
