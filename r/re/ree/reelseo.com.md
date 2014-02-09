@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reelseo.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204054844id_/http%3A//www.reelseo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reelseo.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209134953id_/http%3A//www.reelseo.com/privacy) for the most accurate reproduction.*
 
 # ReelSEO.com Privacy Policy
 
