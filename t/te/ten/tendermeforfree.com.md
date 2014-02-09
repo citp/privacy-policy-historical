@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tendermeforfree.com privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826154830id_/http%3A//www.tendermeforfree.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tendermeforfree.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209072447id_/http%3A//www.tendermeforfree.com/privacy.php) for the most accurate reproduction.*
 
 # Qtellwholesale Limited Private Policy and Cookie Policy Ireland for all webdesign, eCommerce plus all classifieds web sites
 
