@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reversephonelookup.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112133453id_/http%3A//www.reversephonelookup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reversephonelookup.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209141413id_/http%3A//www.reversephonelookup.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -17,7 +17,7 @@ We will use your information to respond to you, regarding the reason you contact
 Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
 **Your Access to and Control Over Information**  
-You may opt out of having your information included in this directory. You can do this at any time by visiting our [removal form](https://web.archive.org/web/20131112133453id_/http%3A//www.reversephonelookup.com/remove.php) and requested your information be removed.
+You may opt out of having your information included in this directory. You can do this at any time by visiting our [removal form](https://web.archive.org/web/20140209141413id_/http%3A//www.reversephonelookup.com/remove.php) and requested your information be removed.
 
 **Security**  
 We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. 
