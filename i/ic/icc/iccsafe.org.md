@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iccsafe.org privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818210530id_/http%3A//www.iccsafe.org/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iccsafe.org privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209214209id_/http%3A//www.iccsafe.org/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # ICC Online Privacy Policy
 
@@ -130,6 +130,8 @@ If you have any questions about this Policy, please [email us](mailto:webmaster@
 This Policy took effect on October 13, 2011.
 
 © 2003-2011 International Code Council, Inc. All rights reserved.
+
+[](https://web.archive.org/Pages/AdRedirect.aspx?AdPlace=Advertisement+Banner&AdID=4&AdTitle=ICC-ES+Webinar)
 
 |   
   
