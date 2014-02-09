@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameanalytics.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806194253id_/http%3A//www.gameanalytics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameanalytics.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209150703id_/http%3A//www.gameanalytics.com/privacy.html) for the most accurate reproduction.*
 
 # GameAnalytics Privacy - Data belongs to you We keep it secure
 
