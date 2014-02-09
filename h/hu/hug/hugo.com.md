@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hugo.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816053859id_/http%3A//www.pg.com/privacy/english/privacy_statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hugo.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209163214id_/http%3A//www.pg.com/privacy/english/privacy_statement.shtml) for the most accurate reproduction.*
 
 # P&G Privacy Statement
 
@@ -22,7 +22,7 @@ Back to top
   * The Asia Pacific Economic Cooperation forum (APEC) Privacy Framework.
   * Applicable country, national, state and local data protection laws.
   * Some country laws require country specific information in a privacy statement. Please click to read that information for those countries.  
-**Belgium** **Canada** **France** **Greece** **Korea** **Italy** **Mexico** **The Netherlands** **Portugal** **Spain**  
+**Argentina** **Belgium** **Canada** **France** **Greece** **Korea** **Italy** **Mexico** **The Netherlands** **Portugal** **Spain**  
 
 
 
@@ -170,7 +170,26 @@ You can disable the ability of Web beacons to store cookie information by declin
 
  _“How We Use This Information.”_
 
-Back to top
+**Interest Based Advertising**
+
+Where legally permitted, you may receive P&G interest-based ads as you interact with websites on the internet. P&G Interest-based ads are advertisements for P&G [_brands_](http://www.pg.com/en_US/brands/index.shtml) or our carefully selected business partners that we hope you find more relevant to your interests. We serve interest based ads according to certain general interest categories that we have inferred based on information such as: 
+
+  * The web pages you view and links you click on P&G websites and other websites you visit.
+  * The P&G brand emails you view and links you click in the email.
+  * Demographic data.
+  * Offline purchase data, which may be combined with your online website activity to create a better profile of your interests. For example, if you purchase diapers at the grocery store, you may receive an ad with a coupon for Pampers.
+
+
+
+We have designed our interest based advertising systems to deliver ads to you based only on data that does not personally and directly identify you.
+
+**We respect your privacy.**  
+If you don’t want to receive interest-based ads visit the[ _About Ads_](http://www.pg.com/en_US/privacy/en_na/oba_notice.shtml) link on our websites in the United States and Canada, where you can choose to opt out. P&G will honor that choice.
+
+You can also opt out of receiving interest-based ads by visiting the Network Advertising Initiative’s website at:  
+[_http://www.networkadvertising.org/optout_nonppii.asp._](http://www.networkadvertising.org/optout_nonppii.asp)
+
+[](http://www.networkadvertising.org/optout_nonppii.asp)Back to top
 
   
 
@@ -290,7 +309,10 @@ Back to top
 
 We will post changes to this Privacy Statement and update the effective date when this Privacy Statement is updated. If we make any material changes to this Privacy Statement, we will notify you by sending an e-mail to the e-mail address you most recently provided us or by posting notice of the changes on this site. 
 
-**Last updated: July, 2013**
+Last updated: **December 2013**
+
+**December 2013 Update**  
+Included a hyperlink in the Privacy Statement to an online program that provides individuals the ability to exercise choice regarding the collection of information about their online activities over time and across websites. This hyperlink is also available on webpages in the United States and Canada. 
 
 **2013 update**  
 No substantive changes were made to the Privacy Statement. Outdated hyperlinks to third party websites were removed. The “Cookie, Web Beacons, and Other Technologies” section was updated to better reflect consumer control options and remove inaccurate links to web browsers.  
@@ -311,6 +333,23 @@ No substantive changes were made to the Privacy Statement. This update was to: c
 Back to top
 
 Country Specific Information
+
+  
+
+
+La información y datos que Ud. nos proporcione voluntariamente a través del Sitio Web se incluirán en una base de datos que quedará bajo la responsabilidad de P&G, con el objetivo de proporcionarle un servicio personalizado y a la altura de sus necesidades, mejorando el canal de comunicación con el usuario. Sus datos también podrán utilizarse para elaborar estadísticas y estudios de mercado. Si no desea recibir mensajes, podrá solicitar la cancelación del envío de mensajes de acuerdo con el procedimiento que más adelante se indica.
+
+Se le informa que su registración en el Sitio Web implica que Ud. presta su consentimiento expreso, libre e informado para la inclusión, uso y tratamiento de sus datos personales por P&G. 
+
+P&G realizará el tratamiento de sus datos personales en un todo de acuerdo con su política de privacidad y las disposiciones de la Ley 25.326, sobre Protección de los Datos Personales, adoptando los recaudos técnicos y organizativos necesarios en lo que respecta a la custodia, almacenamiento, conservación y confidencialidad de la información con el fin de evitar su alteración, pérdida, tratamiento o acceso no autorizado. Debido a que ninguna transmisión vía Internet puede garantizar su íntegra seguridad, Jumbo no puede garantizar que la información transmitida a través del Sitio Web se encuentre completamente segura, con lo cual Ud. asume este riesgo, que declara conocer y aceptar. 
+
+Sus datos personales podrán ser compartidos con empresas contratadas por P&G a fin de poder ofrecerle nuestros servicios y cumplir con las presentes Condiciones de Uso, para lo cual Ud. presta su expreso consentimiento y autorización. 
+
+Ud. tiene la facultad de ejercer el derecho de acceso a sus datos personales en forma gratuita a intervalos no inferiores a seis (6) meses, salvo que se acredite un interés legítimo al efecto, conforme lo establecido en el artículo 14, inciso 3 de la Ley 25.326 (Disposición 10/2008, artículo 1°, B.O. 18/09/2008) y a solicitar su actualización, rectificación o supresión de sus datos personales. A tal fin, deberá completar su información en este link [http://pgconsumercare.force.com/PGContactUs?Country=Argentina&lang=es&website=LAsocialmed](http://pgconsumercare.force.com/PGContactUs?Country=Argentina&lang=es&website=LAsocialmed) o comunicarse telefónicamente 0800-999-7625.
+
+Se le hace saber que la Dirección Nacional de Protección de Datos Personales, órgano de control de la ley 25.326, tiene la atribución de atender las denuncias y reclamos que se interpongan con relación al incumplimiento de las normas sobre protección de datos personales. 
+
+Back to top
 
   
 
