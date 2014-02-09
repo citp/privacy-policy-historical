@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auditmypc.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921105259id_/http%3A//www.auditmypc.com/auditmypc/audit-my-pc-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auditmypc.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209174134id_/http%3A//www.auditmypc.com/auditmypc/audit-my-pc-privacy-statement) for the most accurate reproduction.*
 
 # Audit My PC Privacy Statement
 
