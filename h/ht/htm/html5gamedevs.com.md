@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the html5gamedevs.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510072913id_/http%3A//www.html5gamedevs.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the html5gamedevs.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209100556id_/http%3A//www.html5gamedevs.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - HTML5 Game Devs Forum
 
