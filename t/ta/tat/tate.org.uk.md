@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tate.org.uk privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014154335id_/http%3A//www.tate.org.uk/about/who-we-are/policies-and-procedures/website-terms-use/privacy-and-use-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tate.org.uk privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209221335id_/http%3A//www.tate.org.uk/about/who-we-are/policies-and-procedures/website-terms-use/privacy-and-use-cookies) for the most accurate reproduction.*
 
 # Tate website privacy notice and use of cookies | Tate
 
@@ -9,6 +9,7 @@ When you use the Tate website, we may collect personal information about you whe
   * contact you to respond to your queries (if you email us with a question, for example)
   * provide you with services (send you an email bulletin or enable your progress through an online course, for example)
   * personalise your experience of Tate content (remembering your most recent search in [Art & artists](https://web.archive.org/art/), for example)
+  * contact you to ask you to respond to surveys 
   * optimise your experience of Tate content (remembering your connection speed to serve you streamed video, for example)
 
 
@@ -21,6 +22,7 @@ We collect information about you when you create user accounts and log in to the
   * [Working at Tate](http://workingat.tate.org.uk/Default.aspx)
   * [Tate Kids](http://kids.tate.org.uk/)
   * [Tate Collectives](http://collectives.tate.org.uk/)
+  * [BP Art Exchange](https://web.archive.org/node/278743)
   * Email bulletin subscriptions
 
 
@@ -51,7 +53,7 @@ Cookies are pieces of data that a website can transfer to an individual’s comp
 
 If you prefer not to receive cookies, you can adjust your internet browser to refuse cookies or to warn you when cookies are being used. This site will work more efficiently if receipt of cookies is enabled but it will still operate correctly if you disable cookies.
 
-For more information on cookies and their uses, visit  [All About Cookies](http://www.allaboutcookies.org/).
+For more information on cookies and their uses, visit [All About Cookies](http://www.allaboutcookies.org/).
 
 ### 2.1 Google Analytics
 
@@ -73,6 +75,46 @@ You may also opt out of receiving further personalised advertisements in the fut
 
 During your visits to the Tate website you may be delivered cookies by third-party websites. When you visit a page with content embedded from, for example, Facebook, Twitter, YouTube or Flickr, you may be presented with cookies from these websites. Tate does not control the dissemination of these cookies. You should check the third-party websites for more information about these.
 
+### 2.4 Surveys
+
+We run regular surveys to improve our website. Cookies are used to allow the form or pop-up survey to be hidden on your return visits. This is to prevent you from being shown the survey again unnecessarily. Cookies are also used to record the overall number of answers to the survey questions and to link these to web statistics. They do not store your personal data.
+
+### 2.5 Tate Members
+
+#### Data use
+
+When you join as a Tate Member we collect information about you in order to:
+
+  * send your membership benefits by post i.e. your membership welcome pack and cards, magazine and Guide etc
+  * provide you with services (i.e. send you an email bulletin or SMS)
+  * talk to you about Tate Enterprises and Tate Foundation (i.e. notification of Tate shop discounts and fundraising communication about our charitable work)
+  * personalise your experience of Tate (i.e. to build a picture of your interests which means we can tell you about programme and product offerings that are most relevant to your interests)
+
+
+
+#### Data collection
+
+We collect this information in the following ways:
+
+  * when you join as a Member
+  * when you use your membership card(s) to visit exhibitions and Members Rooms
+  * when you make purchases in the Tate shop in one of our galleries or online
+  * when you create online user accounts and online checkouts
+  * when you respond to Tate emails
+  * any preferences you have told us about
+
+
+
+We do not collect or process sensitive personal data such as race, ethnic origin, physical or mental health, political or philosophical views or sexual orientation. We will never sell, rent or exchange your details with any other organisation.
+
+#### Working with suppliers
+
+In some cases we work with external suppliers to provide certain services. For example, an external fulfilment house is used to send large volumes of mail such as [Tate Etc. magazine](https://web.archive.org/node/154226). In this instance, we send your name and address to the fulfilment house to enable them to deliver your magazine. Other services provided by external suppliers might include agencies or consultants who provide marketing assistance. All data is transferred securely and all external suppliers have signed data processing and confidentiality agreements with Tate.
+
+#### Privacy and data protection
+
+Tate complies with all applicable UK and EU data protection legislation in force in respect of any personal information you submit to us. The personal details you submit to us will only be used for the specified purposes indicated to you and will not be passed onto unauthorised third parties without your explicit consent. You can contact us to amend or remove any information you submit to us – please call 020 7887 8888 or email [members@tate.org.uk](mailto:members@tate.org.uk). You can unsubscribe from emails by clicking on the relevant ‘unsubscribe’ link in Members’ emails.
+
 ## 3\. Other websites
 
 Our website may contain links to other websites which are outside our control and are not covered by this privacy notice. If you access other sites using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
@@ -83,4 +125,4 @@ From time to time Tate may change this privacy notice. You may therefore wish to
 
 ## 5\. Contacting Tate about this privacy notice
 
-If you have any questions or comments about this privacy notice, please contact us at  [webmaster@tate.org.uk](mailto:webmaster@tate.org.uk).
+If you have any questions or comments about this privacy notice, please contact us at [webmaster@tate.org.uk](mailto:webmaster@tate.org.uk).
