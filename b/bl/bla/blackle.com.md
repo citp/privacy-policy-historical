@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blackle.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124233152id_/http%3A//www.blackle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackle.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209065057id_/http%3A//www.blackle.com/privacy) for the most accurate reproduction.*
 
 # Blackle - Privacy Policy
 
-[](https://web.archive.org/web/20131124233152id_/http://www.blackle.com/)
+[](https://web.archive.org/web/20140209065057id_/http://blackle.com/)
 
 ## Blackle Privacy Policy
 
@@ -68,7 +68,7 @@ If you have additional questions regarding your privacy and Blackle, please cont
 
 [About Blackle](http://www.blackle.com/about/) \- [Contact Blackle](http://www.heapmedia.com/contact/blackle/team) \- [Privacy Policy](http://www.blackle.com/privacy/) \- [Blackle FAQ](http://www.blackle.com/faq/)
 
-[© 2013 Heap Media](http://www.heapmedia.com/)
+[© 2014 Heap Media](http://www.heapmedia.com/)
 
   
 
