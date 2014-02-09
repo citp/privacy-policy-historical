@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weddingchicks.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005180742id_/http%3A//www.weddingchicks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingchicks.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209184448id_/http%3A//www.weddingchicks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Wedding Chicks
+# Privacy Policy
 
 **Content**  
 Content on Wedding Chicks cannot be shared or re-posted without permission. Any and all imagery and/or layouts in any post labeled ‘Sponsored Post’ are exclusive to the Wedding Chicks and under no circumstance may be reposted elsewhere.
