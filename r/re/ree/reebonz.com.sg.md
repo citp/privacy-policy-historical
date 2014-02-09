@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reebonz.com.sg privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014072332id_/http%3A//www.reebonz.com.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reebonz.com.sg privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209142117id_/http%3A//www.reebonz.com.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reebonz - Unveil The Surprise
 
@@ -64,6 +64,6 @@ If we decide to change our Privacy Policy for the Site, we will post the revised
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-**Reebonz  **24 Raffles Place #07-07 Clifford Centre, Singapore 048621. Tel: 65-6517-4920 [ concierge@reebonz.com](mailto:concierge@reebonz.com)
+ **Reebonz  **24 Raffles Place #07-07 Clifford Centre, Singapore 048621. Tel: 65-6517-4920 [ concierge@reebonz.com](mailto:concierge@reebonz.com)
 
 Last Updated: February 1, 2009
