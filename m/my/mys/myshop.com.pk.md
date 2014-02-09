@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myshop.com.pk privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116155546id_/http%3A//www.myshop.com.pk/laptop-pakistan/security-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myshop.com.pk privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209183605id_/http%3A//www.myshop.com.pk/laptop-pakistan/security-privacy-policy) for the most accurate reproduction.*
 
-# Security Policy • Pakistan
+# Security Policy | Myshop Online
 
 ### Privacy Policy
 
