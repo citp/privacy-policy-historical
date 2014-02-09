@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desktopwallpapers4.me privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930100753id_/http%3A//www.desktopwallpapers4.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desktopwallpapers4.me privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209131719id_/http%3A//www.desktopwallpapers4.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
