@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strategy-business.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019103351id_/http%3A//www.strategy-business.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strategy-business.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209060749id_/http%3A//www.strategy-business.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
