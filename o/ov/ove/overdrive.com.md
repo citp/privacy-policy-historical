@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overdrive.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214031449id_/http%3A//www.overdrive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overdrive.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209054858id_/http%3A//www.overdrive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OverDrive - Global distributor of digital eBooks, audiobooks, music & video for library, school & retail
 
@@ -48,7 +48,7 @@ Some examples of how we use cookies include:
 
 
 
-OverDrive may also use cookies on our websites that are supplied by third parties providing services for OverDrive. For more information on third party cookies, please [click here](https://web.archive.org/web/20131214031449id_/http://www.overdrive.com/privacy-policy/third-party-cookies). If you do not wish to receive cookies, please configure your Internet browser to erase all cookies from your computer’s hard drive, block all cookies or to receive a warning before a cookie is stored. If you choose to remove cookies or reject cookies, this could affect your ability to use or access some of our Services.
+OverDrive may also use cookies on our websites that are supplied by third parties providing services for OverDrive. For more information on third party cookies, please [click here](https://web.archive.org/web/20140209054858id_/http://www.overdrive.com/privacy-policy/third-party-cookies). If you do not wish to receive cookies, please configure your Internet browser to erase all cookies from your computer’s hard drive, block all cookies or to receive a warning before a cookie is stored. If you choose to remove cookies or reject cookies, this could affect your ability to use or access some of our Services.
 
 ### Does OverDrive use tracking technology?
 
