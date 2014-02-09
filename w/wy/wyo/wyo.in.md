@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyo.in privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812073255id_/http%3A//wyo.in/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyo.in privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210003837id_/http%3A//wyo.in/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wear Your Opinion | Social smart tees
 
