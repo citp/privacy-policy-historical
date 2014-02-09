@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressreleasemonkey.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227040330id_/http%3A//www.pressreleasemonkey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressreleasemonkey.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210002950id_/http%3A//www.pressreleasemonkey.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Press Release Monkey
 
