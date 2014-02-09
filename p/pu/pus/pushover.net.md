@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pushover.net privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807024302id_/https%3A//pushover.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pushover.net privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209143231id_/https%3A//pushover.net/privacy) for the most accurate reproduction.*
 
 # Pushover: Privacy Policy
 
@@ -9,6 +9,8 @@ This Privacy Policy ("Policy") explains how we protect personal information we c
 ### What Personal Information We Collect
 
 Your Pushover service works in conjunction with a user account on Pushover.net (a "User Account"). When you sign up for a Pushover User Account from our mobile applications or our Site, you are required to provide an e-mail address (which will be used as your login ID) and to create an account password (collectively the "Registration Information"). 
+
+During the course of using your Pushover Service, the Pushover device client applications will routinely synchronize your notification data with Pushover servers. These requests sent from your Pushover device client application include information that identifies your current Pushover application version, your device operating system version, your device hardware manufacturer and model number, and your Pushover device client license status. No personally-identifiable information (such as a device-specific "UUID") is sent with these requests. 
 
 ### How We Use Your Personal Information
 
@@ -54,7 +56,9 @@ Credit Card and related transaction information, if any, is stored and processed
 
 ### Your Right to Delete Your Data
 
-If you would like to cancel your Pushover account, you may do so by emailing _support at pushover.net_. When you request cancellation of your account, your personally identifiable information will be deleted, including but not limited your e-mail address, name, user token, device identifiers, and any messages delivered to your devices that have not been deleted from our servers. Archival copies of your account information that exist within our back-up system will be deleted in accordance with our normal back-up expiration schedule. 
+If you would like to cancel your Pushover account, you may do so by logging into your Pushover account, visiting the Settings header, then clicking on "Delete Account" in the upper right corner. 
+
+When you request cancellation of your account, your personally identifiable information will be marked for deletion including but not limited your e-mail address, name, user token, device identifiers, and any messages delivered to your devices that have not been deleted from our servers. This data will be permanently deleted from our database after 30 days. Archival copies of your account information that exist within our back-up system will be deleted in accordance with our normal back-up expiration schedule. 
 
 ### Disclosure
 
@@ -66,6 +70,8 @@ Superblock may update this policy. We will notify you about significant changes 
 
 ### Questions
 
-Any questions about this Privacy Policy should be addressed to _support at pushover.net_
+Any questions about this Privacy Policy should be addressed by e-mail to _support at pushover.net_. 
 
-This policy was last updated on August 8, 2012. 
+This policy was last updated on January 27, 2014 to reflect the application and device version information that is collected. 
+
+This policy was previously updated on August 8, 2012. 
