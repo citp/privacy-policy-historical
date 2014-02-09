@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birejji.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126093852id_/http%3A//birejji.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birejji.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209051618id_/https%3A//birejji.com/privacy_policy) for the most accurate reproduction.*
 
 # Birejji
 
@@ -10,15 +10,15 @@ Information Collection and Usage
 
 Registration
 
-When you create an account on Birejji, some personal information is collected. The information collected is as follows: Your Birejji account username, e-mail address, IP address, and the password associated with your account. The only information that will be publicly visible is your account username.
+When you create an account on Birejji, some personal information is collected. The information collected is as follows: Your Birejji account username, email address, IP address, and the password associated with your account. The only information that will be publicly visible is your account username.
 
 Usage
 
-The information collected from you is solely used for identification purposes. Personal information is not shared with any third party entities. Your e-mail address is serves as your payment processor's payment address as well as the only means Birejji has of contacting you outside of Birejji.
+The information collected from you is solely used for identification purposes. Personal information is not shared with any third party entities.
 
 Contact
 
-Birejji may contact you to inform you of changes to our policies or to inform you of any changes regarding your account with Birejji. Birejji may also send you an e-mail requesting that you verify any changes made to your account (Example: Requesting a new password). However, at no time will Birejji contact you prompting you for any personal information or passwords.
+Birejji may contact you to inform you of changes to our policies or to inform you of any changes regarding your account with Birejji. Birejji may also send you an e-mail requesting that you verify any changes made to your account (e.g. Requesting a new password). However, at no time will Birejji contact you prompting you for any personal information or passwords.
 
 Updating Information
 
