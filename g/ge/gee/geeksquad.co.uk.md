@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geeksquad.co.uk privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812004437id_/http%3A//www.geeksquad.co.uk/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeksquad.co.uk privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209092902id_/http%3A//www.geeksquad.co.uk/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Geek Squad
 
@@ -92,7 +92,7 @@ You will also have the opportunity to consent to us contacting you by post, e-ma
 
 If you are an existing customer, we may also contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
 
-If you no longer wish to receive marketing communications from Geek Squad, please email [contact@geeksquad.co.uk](mailto:contact@geeksquad.co.uk) and confirm your full name, email address and mobile phone number or you can phone Geek Squad on 0800 049 6190. Alternatively, you can write to us at us c/o The Data Protection Office, The Carphone Warehouse Limited at PO Box 375, Southampton, SO30 2PU. Please note that it may take up to 28 days for such changes to take effect.
+If you no longer wish to receive marketing communications from Geek Squad, please phone Geek Squad on 0800 049 6190. Alternatively, you can write to us at us c/o The Data Protection Office, The Carphone Warehouse Limited at PO Box 375, Southampton, SO30 2PU. Please note that it may take up to 28 days for such changes to take effect.
 
 ## Disclosure of your information
 
