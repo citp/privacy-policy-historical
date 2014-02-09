@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unexplainablestore.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808224208id_/http%3A//www.unexplainablestore.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unexplainablestore.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209143849id_/http%3A//www.unexplainablestore.com/privacy.php) for the most accurate reproduction.*
 
 # Unexplainable Store- Privacy Policy
 
