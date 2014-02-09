@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the recentnigerianjobs.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106124900id_/http%3A//www.recentnigerianjobs.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recentnigerianjobs.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209185149id_/http%3A//www.recentnigerianjobs.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# None
-
-###  [Privacy Policy](http://www.recentnigerianjobs.com/p/privacy-policy.html)
+# Privacy Policy
 
 **Privacy Policy for recentnigerianjobs.com**
 
@@ -27,3 +25,6 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
+  
+
