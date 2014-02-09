@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centriohost.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822070653id_/http%3A//www.centriohost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centriohost.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209102322id_/http%3A//www.centriohost.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CentrioHost™ - Secure and DDoS Protected Web Hosting Solution
 
