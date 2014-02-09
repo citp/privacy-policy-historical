@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resource.org privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508174840id_/https%3A//public.resource.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resource.org privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209030003id_/https%3A//public.resource.org/privacy_policy.html) for the most accurate reproduction.*
 
 # The Public.Resource.Org Privacy Policy
 
@@ -23,7 +23,7 @@ We use the personal information you provide voluntarily to send information you'
 
   * When you send us email, we retain that email. We never sell or rent your email address or other personally identifiable information you provide us under these circumstances.
   * When you donate to Public.Resource.Org we retain your personal information for purposes of our accounting records and, if required, reporting to the I.R.S. 
-updates about Public.Resource.Org conferences. We send conference brochures to past conference attendees. 
+
 
 
 We share your information only as described below: 
