@@ -1,34 +1,26 @@
-> *The following text is extracted and transformed from the etech.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101091346id_/http%3A//www.etech.com/help/Privacy-Policy--5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etech.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209203344id_/http%3A//www.etech.com/privacy-policy-ezp-43.html) for the most accurate reproduction.*
 
-# Privacy Policy : eTech.com
+# Privacy Policy :
 
-The information we learn from customers helps us personalize and continually improve your shopping experience at eTech.com. Here are the types of information we gather. 
+Protecting your privacy is our important principle. Please read our privacy policy carefully before you start to use our service.
 
-**Information Collection**  
-We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you.   
+**Privacy Safety**
 
+We will protect your privacy and keep your personal information confidential. Your personal information we collect is only for processing your order requests. Additionally, we will not use your personal information without your consent. Apart from your order requirement, we shall not sell or share your information with third parties. Please fill out the order form with your personal information, including your name, email address, shipping and billing address, credit card number and deadline, so that we can deal with your order and inform you the processing status of your order ASAP.
 
-We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses eTech.com or advertisements and other content served by or on behalf of eTech.com on other Web sites. We might receive information about you from other sources and add it to our account information. 
+**Privacy Terms**
 
-**Information Use**  
-eTech.com does not sell or rent your personal information to third parties. We use the information we collect to:  
-provide you with information and services you request   
-customize your experience on the eTech.com  
-communicate with you about your orders, service updates and other administrative issues   
-measure and improve our sites and services   
-resolve disputes, address complaints and troubleshoot technical problems   
-analyze site and user behavior and prepare aggregated reports 
+Our website makes a solemn promise that you will not be disturbed by third parties. We will not disclose your email information to third parties without your permission. We will verify your identification according to your contact information and contact you when emergencies occur or we modify the terms. If there are any substantive changes in terms, please refer to the revised privacy terms in the prominent position of our website.
 
-**About Cookies**  
-Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features, personalized advertisements on other Web sites, and storage of items in your Shopping Cart between visits.   
-The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. However, because cookies allow you to take advantage of some of eTech.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any eTech.com products and services that require you to Sign in. 
+**Confidential Regulation**
 
-**Security**  
-We will not share your information with any third party outside of our organization. We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
+We keep your information confidential wherever it is online or offline. We adopt 128-bit SSL (Secure Sockets Layer) encryption technique which meets industrial standards to protect the spread of credit card information and other personal information on the internet. Owing to SSL technique, nobody can obtain your information on the way when you are in the process of checkout. We will well protect your personal information, including your name, address, password and credit card information. For an extra safe layer, we have encrypted each credit card number in our data base.
 
-**Links**  
-eTech.com contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information. 
+**Purpose of Cookies**
 
-**General**  
-we will change and update the Privacy Policy from time to time without any prior notice. Please be aware of what information we collect, use, and disclose in Privacy Policy. If you have any questions about the Privacy Notice, please contact us at: service@etech.com.  
+Cookies are a kind of technology. They are sent from a web server to your browser and saved in the hard disk of your computer. They can record your visit to our website, personal information, as well as browsing and consuming habits in our website, even the credit card record in our website. Cookies will record your visiting record in the future, so as to better our website and service. Please rest assured that cookies will not track your personal information.
+
+Choice and Opt-Out
+
+If you no longer wish to receive the promotional communications from www.etech.com, you may "opt-out" of receiving them by following the instructions included in each communication or contact us.  
 
