@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the virbots.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623004534id_/http%3A//www.verbots.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virbots.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209180638id_/http%3A//www.verbots.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Verbots® - Open Source Natural Language Chatterbots
 
-[Home](https://web.archive.org/web/20130623004534id_/http%3A//www.verbots.com/index.php)   
-[About Us](https://web.archive.org/web/20130623004534id_/http%3A//www.verbots.com/aboutus.php)   
-[Products Overview](https://web.archive.org/web/20130623004534id_/http%3A//www.verbots.com/products.php)   
-[Verbot Standard Edition](https://web.archive.org/web/20130623004534id_/http%3A//www.verbots.com/verbotse.php)   
-[Characters](https://web.archive.org/web/20130623004534id_/http%3A//www.verbots.com/characters.php)   
-[Downloads](https://web.archive.org/web/20130623004534id_/http%3A//www.verbots.com/downloads.php)   
-[Community](https://web.archive.org/web/20130623004534id_/http%3A//www.verbots.com/forums/index.php)   
+[Home](https://web.archive.org/web/20140209180638id_/http%3A//www.verbots.com/index.php)   
+[About Us](https://web.archive.org/web/20140209180638id_/http%3A//www.verbots.com/aboutus.php)   
+[Products Overview](https://web.archive.org/web/20140209180638id_/http%3A//www.verbots.com/products.php)   
+[Verbot Standard Edition](https://web.archive.org/web/20140209180638id_/http%3A//www.verbots.com/verbotse.php)   
+[Characters](https://web.archive.org/web/20140209180638id_/http%3A//www.verbots.com/characters.php)   
+[Downloads](https://web.archive.org/web/20140209180638id_/http%3A//www.verbots.com/downloads.php)   
+[Community](https://web.archive.org/web/20140209180638id_/http%3A//www.verbots.com/forums/index.php)   
 [SDK](http://verbots.sourceforge.net/)
 
 **Extras**   
-[Link to us](https://web.archive.org/web/20130623004534id_/http%3A//www.verbots.com/link_to_us.php)
+[Link to us](https://web.archive.org/web/20140209180638id_/http%3A//www.verbots.com/link_to_us.php)
 
 |  Conversive, Inc. Privacy Policy
 
@@ -61,7 +61,7 @@ We have your consent to share the information
 
   * We have engaged companies to work with us or on our behalf to provide a product or service that you have requested, such as opt-in e-mail announcements 
   * You use co-branded services. When you use a co-branded service within our network of sites you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies. 
-  * We respond to subpoenas, court orders, or legal process; or we believe that your actions violate applicable laws, Conversive' [Terms of Use](https://web.archive.org/web/20130623004534id_/http%3A//www.verbots.com/terms_of_use.php) or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others 
+  * We respond to subpoenas, court orders, or legal process; or we believe that your actions violate applicable laws, Conversive' [Terms of Use](https://web.archive.org/web/20140209180638id_/http%3A//www.verbots.com/terms_of_use.php) or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others 
 
 
 
