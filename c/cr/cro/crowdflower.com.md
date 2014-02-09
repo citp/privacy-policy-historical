@@ -1,40 +1,27 @@
-> *The following text is extracted and transformed from the crowdflower.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813181220id_/http%3A//crowdflower.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdflower.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209025928id_/http%3A//www.crowdflower.com/legal-privacy) for the most accurate reproduction.*
 
-# CrowdFlower |
+# CrowdFlower | Legal Documents
 
-Last Revised: January 2012
+  * [Master Terms of Service](https://web.archive.org/web/20140209025928id_/http%3A//www.crowdflower.com/legal)
+  * [Customer Terms and Conditions](https://web.archive.org/web/20140209025928id_/http%3A//www.crowdflower.com/legal-customer-terms)
+  * [Code of Conduct](https://web.archive.org/web/20140209025928id_/http%3A//www.crowdflower.com/legal-conduct)
+  * [Privacy Policy](https://web.archive.org/web/20140209025928id_/http%3A//www.crowdflower.com/legal-privacy)
 
-1\. Introduction
 
-2\. What Is Personal Information?
 
-3\. What Information Do We Collect?
+Last modified: October 15, 2013 | [](https://crowdflower.com/legal-privacy?print)
 
-4\. How Do We Use the Personal Information We Collect?
-
-5\. What Personal Information Do We Share With Third Parties?
-
-6\. Links to Other Websites
-
-7\. What Steps Do We Take To Protect Your Information Online?
-
-8\. What Choices Do You Have Regarding the Use of Your Information?
-
-9\. Contact Us
-
-* * *
-
-## 1\. Introduction
+### 1\. Introduction
 
 CrowdFlower takes large, data-heavy projects and breaks them into small tasks that are distributed to more than a million on-demand contributors globally. This privacy policy (“Policy”) explains how personal information is collected, used, and disclosed by CrowdFlower, Inc.(“CrowdFlower”, “we” or “us”) with respect to your use of any CrowdFlower website, mobile site or application which links to this Policy (each a “Site”) and any use of the CrowdFlower service (the “Service”) so you can make an informed decision about using the Site.
 
 **We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the Policy the date it was last updated. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used.**
 
-## 2\. What Is Personal Information?
+### 2\. What Is Personal Information?
 
 The term “personal information” means information that specifically identifies an individual or enables others to contact an individual (such as a name, address, telephone number, mobile number, e-mail address, or credit card number). It also includes other information about an individual when it is directly linked to personally identifiable information. Personal information does not include “aggregate” information, which is data we collect about the use of the Site or Service or about a group or category of services or users, from which personal information has been removed. This Policy in no way restricts or limits our collection and use of aggregate information.
 
-## 3\. What Information Do We Collect?
+### 3\. What Information Do We Collect?
 
 **Active Collection:** We collect information you voluntarily provide when you use the Site or the Service, such as when you:
 
@@ -78,7 +65,7 @@ Connecting through Third-Party Sites: If you create, log into your account, or o
 
 We may store and process your personal information in the United States or in any other location around the world.
 
-## 4\. How Do We Use the Personal Information We Collect?
+### 4\. How Do We Use the Personal Information We Collect?
 
 We collect and use personal information for the following purposes:
 
@@ -100,7 +87,7 @@ We collect and use personal information for the following purposes:
 
 **Other** — for any other purpose for which the information was collected or which was identified at the time the information was collected.
 
-## 
+### 
 
 We will not share the personal information we collect from you through this Site with third parties, except as described in this Policy, on the Site or in connection with the Service. For example, we may share personal information as follows:
 
@@ -124,18 +111,20 @@ We will not share the personal information we collect from you through this Site
 
 We are not responsible for the actions of Service Providers, social networks or other third parties, nor are we responsible for any additional information you provide directly to any third parties. We encourage you to become familiar with their privacy practices before disclosing information directly to any such parties. Nothing herein restricts the sharing of aggregated or anonymized information, which may be shared with third parties without your consent.
 
-## 6\. Links to Other Websites
+### 6\. Links to Other Websites
 
 Our Site and Service may contain links to other websites. This Policy does not apply to such linked sites. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party’s privacy policy. We are not responsible for the privacy and security practices and policies of any sites that are linked to from this Site or the Service. We encourage you to learn about the privacy and security practices and policies of third-party sites before providing them with personal information.
 
-## 7\. What Steps Do We Take To Protect Your Information Online?
+### 7\. What Steps Do We Take To Protect Your Information Online?
 
 We take reasonable measures to protect your personal information in an effort to prevent loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable and no method of data transmission can be guaranteed against any interception or other type of misuse. You are responsible for all uses of our web site by any person using your password. Please advise us immediately if you believe your password has been misused.
 
-## 8\. What Choices Do You Have Regarding the Use of Your Information?
+### 8\. What Choices Do You Have Regarding the Use of Your Information?
 
 You may “opt out” of receiving marketing or promotional emails from us by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as emails about your accounts or profiles or about our ongoing business relations.
 
-## 9\. Contact Us
+### 9\. Contact Us
 
 If you have any questions about this Policy, please contact us at privacy@crowdflower.com or 2111 Mission Street, Suite 302 San Francisco, CA 94110.
+
+Copyright ©2013 CrowdFlower, Inc. 
