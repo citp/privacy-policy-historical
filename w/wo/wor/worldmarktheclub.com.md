@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldmarktheclub.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816173711id_/https%3A//www.worldmarktheclub.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldmarktheclub.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209082947id_/https%3A//www.worldmarktheclub.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
 
 # WorldMark, The Club | Privacy Policy
 
@@ -20,11 +20,7 @@ Owner to Owner Communication
 Become an Owner  
 Contact Us  
   
-## Flash version 3,0 or greater is required
-
-### You have no flash plugin installed
-
-Download latest version from [here](https://web.archive.org/web/20110429004847/http://www.adobe.com/go/getflashplayer)
+[](/mondaymadness/index.shtml)
 
 [ ](https://www.worldmarktravelsecure.com/)
 
@@ -96,10 +92,10 @@ As a general rule, WVO will not share with or disclose to any third parties any 
 WVO may share any or all of your Personal Information with and among its affiliated or related entities or family of companies. This is typically done so as to allow such entities and companies to offer to you information about their respective businesses, products and services that they believe may be of interest to you.
 
 **Business Partners & Sponsors:**  
-WVO may disclose some or all of your Personal Information to third party business partners or sponsors, as described elsewhere in this Privacy Policy. In the event and to the extent that there are additional uses of your Personal Information by WVO’s business partners or sponsors (which additional uses are not otherwise described in or contemplated by this Policy), any such additional uses will be specifically described to you prior to or at the time such Personal Information is collected or prior to any transfer of such Personal Information to the business partners or sponsors. Many promotions offer opportunities for you to request additional information from such business partners and sponsors. By requesting additional information, you signify your consent to WVO’s transfer of your Personal Information to the applicable business partners or sponsors so that they can respond to or fulfill your request. Although, in many instances, only your e-mail address will be shared with these business sponsors and partners, WVO is not limited to the type of Personal Information that it may disclose, provided that you requested the additional information and that WVO has otherwise complied with this Privacy Policy.
+WVO may disclose some or all of your Personal Information to third party business partners or sponsors, as described elsewhere in this Privacy Policy. In the event and to the extent that there are additional uses of your Personal Information by WVO’s business partners or sponsors (which additional uses are not otherwise described in or contemplated by this Policy), any such additional uses will be specifically described to you prior to or at the time such Personal Information is collected or prior to any transfer of such Personal Information to the business partners or sponsors. Many promotions offer opportunities for you to request additional information from such business partners and sponsors. By requesting additional information, you signify your consent to WVO’s transfer of your Personal Information to the applicable business partners or sponsors so that they can respond to or fulfill your request. Although, in many instances, only your email address will be shared with these business sponsors and partners, WVO is not limited to the type of Personal Information that it may disclose, provided that you requested the additional information and that WVO has otherwise complied with this Privacy Policy.
 
 **Third Party & Aggregate Data: **  
-From time to time, you may be offered the opportunity to receive materials or special offers from third parties. If you opt to receive from these third parties information related to such materials or offers, WVO will (with your permission) share your name and e-mail address with such third parties. Under confidentiality agreements, WVO may match Personal Information with data provided by these third parties. Also, from time to time, WVO may share your Personal Information with third parties that WVO feels offer products or services that may be of interest to you. This sharing of Personal Information is subject to confidentiality agreements as well.
+From time to time, you may be offered the opportunity to receive materials or special offers from third parties. If you opt to receive from these third parties information related to such materials or offers, WVO will (with your permission) share your name and email address with such third parties. Under confidentiality agreements, WVO may match Personal Information with data provided by these third parties. Also, from time to time, WVO may share your Personal Information with third parties that WVO feels offer products or services that may be of interest to you. This sharing of Personal Information is subject to confidentiality agreements as well.
 
 Also, as described above in this Privacy Policy, WVO may keep track of which portions of the Web Site users are visiting and other user statistics, and aggregate this information to help WVO create a better experience for users of this Web Site. This is all done without knowing your name or other Personal Information, and allows WVO (in addition to other lawful purposes) to describe its users’ preferences, and the types of services in which the users may be interested, to its business partners, advertisers, sponsors and other third parties.
 
@@ -110,22 +106,22 @@ WVO may also disclose account information in special cases when it has reason to
 This Web Site may provide you the ability to search for job postings and/or submit applications for potential employment opportunities. WVO may use third parties to collect and/or host these types of services or related information. If a third party service provider is used for these purposes, the third party provider is prohibited under agreement from using any Personal Information that you may submit in conjunction with these services for any purpose other than to collect and store such Personal Information on WVO’s behalf. The Personal Information that you submit for these purposes will not be used for any purpose other than to allow you to search for job postings, submit applications, or determine your qualifications for employment with WVO or its affiliated or related entities.
 
 **Investor Center:**  
-This Web Site may allow you to subscribe to investor newsletters, press releases, e-mail alerts, and other related communications. The Personal Information that you may provide in conjunction with these subscription services or offerings will be used only for the purpose of providing you with such services or for responding to your subscription requests.
+This Web Site may allow you to subscribe to investor newsletters, press releases, email alerts, and other related communications. The Personal Information that you may provide in conjunction with these subscription services or offerings will be used only for the purpose of providing you with such services or for responding to your subscription requests.
 
 **Children:**  
 **This Web Site is not intended for use by children. WVO does not knowingly solicit or collect Personal Information from children under the age of 13. If you are under the age of 18, you must obtain the consent of your parent or guardian to use this Web Site.**
 
 Opting Out; How Can You Control the Use of Information?
 
-In the event that you decide that you want to opt out from WVO’s use of any Personal Information that you previously provided to (and/or authorized for use by) WVO, or if any of your Personal Information (such as your zip code or e-mail address) changes, WVO will use reasonable efforts to provide you with a way to correct, update or remove such Personal Information. WVO makes repeated efforts to verify the accuracy of your Personal Information and to correct and update its databases based on the information available to WVO. In the event that you believe that any Personal Information held by WVO is inaccurate or outdated, WVO, upon notification and sufficient time for verification, will take all reasonable steps to correct any inaccuracy or update outdated Personal Information of which it is made aware. WVO also gives you the opportunity to control or opt out from the communications that WVO directs to you. If you wish to update or change your Personal Information or opt out from any use or communication described in this Privacy Policy for any reason, you may notify WVO of such update, change or opt out as follows: 
+In the event that you decide that you want to opt out from WVO’s use of any Personal Information that you previously provided to (and/or authorized for use by) WVO, or if any of your Personal Information (such as your zip code or email address) changes, WVO will use reasonable efforts to provide you with a way to correct, update or remove such Personal Information. WVO makes repeated efforts to verify the accuracy of your Personal Information and to correct and update its databases based on the information available to WVO. In the event that you believe that any Personal Information held by WVO is inaccurate or outdated, WVO, upon notification and sufficient time for verification, will take all reasonable steps to correct any inaccuracy or update outdated Personal Information of which it is made aware. WVO also gives you the opportunity to control or opt out from the communications that WVO directs to you. If you wish to update or change your Personal Information or opt out from any use or communication described in this Privacy Policy for any reason, you may notify WVO of such update, change or opt out as follows: 
 
-Change or opt out by completing this online form, [click here](https://media.trendwest.com/wbw_optout/).
+Change or opt out by completing this online form, [click here](http://media.trendwest.com/wbw_optout/).
 
 By mail, write to:   
-E-Commerce Department — Privacy  
+E-Commerce Department – Privacy  
 Wyndham Vacation Ownership, Inc.  
-8427 SouthPark Circle    
-Orlando, Florida 32819 
+6277 Sea Harbor Drive  
+Orlando, FL 32821 
 
 What Happens When You Link to a Third Party Site?
 
@@ -149,12 +145,12 @@ Effective date: This policy was last updated on September 30, 2008 to add a noti
 
 Your California Privacy Rights
 
-Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship (1) a list of the categories of personal information, such as name, address, e-mail address, and the type of services provided to that customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information, please write to us at: 
+Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship (1) a list of the categories of personal information, such as name, address, email address, and the type of services provided to that customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information, please write to us at: 
 
 Wyndham Vacation Ownership, Inc.   
-Attn: California Disclosure Information   
-8427 South Park Circle   
-Orlando, Florida 32819 
+Attn: California Disclosure Information  
+6277 Sea Harbor Drive  
+Orlando, FL 32821 
 
 We will respond to such written requests within 30 days following receipt at the mailing address above. We reserve the right not to respond to requests submitted other than to the address specified above or otherwise exempted by law. **Please note that we are required only to respond to each customer once per calendar year.**
 
