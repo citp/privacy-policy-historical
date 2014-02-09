@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acttv.in privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226003151id_/http%3A//acttv.in/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acttv.in privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209052454id_/http%3A//www.acttv.in/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
