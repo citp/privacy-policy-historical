@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezrecharge.in privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829212611id_/http%3A//www.ezrecharge.in/ezrecharge/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezrecharge.in privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209030914id_/http%3A//www.ezrecharge.in/ezrecharge/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy for online prepaid mobile recharge services-ezRecharge.in
 
