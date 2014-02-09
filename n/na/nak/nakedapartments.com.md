@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nakedapartments.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424021744id_/http%3A//www.nakedapartments.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nakedapartments.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209223022id_/http%3A//www.nakedapartments.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Naked Apartments
 
