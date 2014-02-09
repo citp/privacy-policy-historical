@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobappnetwork.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206132953id_/http%3A//www.jobappplus.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobappnetwork.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209142416id_/http%3A//www.jobappplus.com/privacypolicy) for the most accurate reproduction.*
 
 # Job App Plus
 
