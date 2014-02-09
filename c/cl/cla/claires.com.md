@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the claires.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207190851id_/http%3A//www.claires.com/store/us/company/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the claires.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209201453id_/http%3A//www.claires.com/store/us/company/privacy.jsp) for the most accurate reproduction.*
 
 # Fashion trends, accessories and jewelry for young women | Claire's
 
