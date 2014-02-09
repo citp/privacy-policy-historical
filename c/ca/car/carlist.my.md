@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carlist.my privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206044919id_/http%3A//www.carlist.my/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carlist.my privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209192151id_/http%3A//www.carlist.my/privacy.php) for the most accurate reproduction.*
 
 # Cars for Sale · Used Cars · Car Price › Malaysia's No.1 Car Site » Carlist.my
 
