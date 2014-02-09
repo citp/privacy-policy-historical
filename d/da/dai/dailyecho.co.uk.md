@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyecho.co.uk privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207071501id_/http%3A//www.dailyecho.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyecho.co.uk privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209205154id_/http%3A//www.dailyecho.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
