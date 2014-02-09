@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pods.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508152109id_/http%3A//www.pods.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pods.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209224954id_/http%3A//www.pods.com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Online Privacy Policy for Self Storage and Portable Moving | PODS
 
@@ -8,9 +8,9 @@ Please read our privacy policy terms carefully before using this Website to unde
 
 **Personal Information.** We collect several types of personal information from and about users of our Website, including information you provide to us either through our Website or call center. Your use of this Website constitutes your consent to collect and use your personal information obtained from you. For purposes of this policy only, "personal information" refers to any information by which you can be personally identified that includes name, e-mail address, mailing address, telephone number, credit card information, your responses to our survey questions, and information relating to any orders you place.
 
-**Non-Personally Identifiable Information.** Our Website also collects technical and navigational information that is not personally identifiable to any particular user. This type of information may include computer browser type, internet protocol (IP) address, pages visited and time spent on our Website, and other communication data. This information may be used or analyzed by us to improve our web design and functionality, enhance our ability to service you, and estimate our audience size and usage patterns. For the same reasons, we may also obtain other non-personally identifiable information about your general internet usage by using cookies. You may refuse to accept cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. We may share non-personally identifiable information with third parties in connection with referral relationships and for reasons stated above.
+**Non-Personally Identifiable Information.** Our Website also collects technical and navigational information that is not personally identifiable to any particular user. This type of information may include computer browser type, internet protocol (IP) address, pages visited and time spent on our Website, and other communication data. This information may be used or analyzed by us to improve our web design and functionality, show our ads on sites across the internet, enhance our ability to service you, and estimate our audience size and usage patterns. For the same reasons, we may also obtain other non-personally identifiable information about your general internet usage by using cookies. We may share non-personally identifiable information with third parties in connection with referral relationships and for reasons stated above. We use Google’s Remarketing with Google Analytics to advertise online.  Third party vendors, including Google, shows our ads on sites across the internet.  We and third party vendors, including Google, use first party cookies and third party cookies together to inform, optimize and serve ads based on visits to our website.  You may refuse to accept cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. In addition, you can opt out of Google's use of cookies by visiting Google's [Ads Settings](http://www.google.com/settings/ads).
 
-**Providing Online Support.** We may provide online customer service chat sessions to assist you while you are navigating through our Website. We will use and maintain any personal information you provide via these sessions in accordance with this privacy policy. We and our 3rd party service provider of the online customer chat feature may maintain dialogue transcripts of the online chats with us for staff training, for quality assurance purposes or for other purposes as described herein. 
+ **Providing Online Support.** We may provide online customer service chat sessions to assist you while you are navigating through our Website. We will use and maintain any personal information you provide via these sessions in accordance with this privacy policy. We and our 3rd party service provider of the online customer chat feature may maintain dialogue transcripts of the online chats with us for staff training, for quality assurance purposes or for other purposes as described herein. 
 
 **Minors.** We do not knowingly collect personal information from minors and ask that children under 18 years of age not submit personal information on our Website without parental consent. Although we cannot prevent children under 18 from submitting personal information, we will destroy such information if we are made aware that proper consent was not given.
 
@@ -28,7 +28,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 **Access.** You may obtain a summary of the personal information on record with PODS at any time which has been collected about you. We permit and encourage you to request that any inaccuracies in your personal information be corrected or that such personal information be removed from our marketing databases.
 
-To make any request described above, send an e-mail to [accountmanager@pods.com](mailto:accountmanager@pods.com)
+To make any request described above, send an e-mail to [optout@pods.com](mailto:optout@pods.com)
 
 or write to:
 
@@ -53,6 +53,9 @@ PODS Enterprises, Inc.
 5585 Rio Vista Drive  
 Clearwater, Florida 33760  
 1-888-776-7637  
-[accountmanager@pods.com](http://accountmanager@pods.com/)
+[marketing-inquiries@pods.com](mailto:marketing-inquiries@pods.com)
 
-**Updated:** January 25, 2012
+**Updated:** October 30, 2013
+
+  
+
