@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the yammer.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909041928id_/https%3A//about.yammer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yammer.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209232212id_/https%3A//about.yammer.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Yammer
 
 ## Privacy
-
-[English](https://web.archive.org/privacy) | [Español](https://web.archive.org/privacy/es-es) | [Русский](https://web.archive.org/privacy/ru-ru) | [Indonesia](https://web.archive.org/privacy/id-id) | [Français](https://web.archive.org/privacy/fr-fr) | [Deutsch](https://web.archive.org/privacy/de-de) | [Português](https://web.archive.org/privacy/pt-br) | [中文(简体)](https://web.archive.org/privacy/zh-ch) | [日本語](https://web.archive.org/privacy/ja-jp) | [Nederlands](https://web.archive.org/privacy/nl-nl) | [Türkçe](https://web.archive.org/privacy/tr-tr) | [Українська](https://web.archive.org/privacy/uk-ua)
 
 _Last Updated: February 28, 2013_
 
