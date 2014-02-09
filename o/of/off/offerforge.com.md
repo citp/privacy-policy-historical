@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the offerforge.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901224816id_/https%3A//www.offerforge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerforge.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210004043id_/https%3A//www.offerforge.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | OfferForge
+# Privacy Policy | OfferForge.com Performance Marketing
 
 Welcome to **OfferForge.com** (“the Website”).  All references to “OfferForge”, “we”, “us” shall refer exclusively to OfferForge.com as defined in section 4 hereafter.
 
