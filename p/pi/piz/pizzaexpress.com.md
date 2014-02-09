@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pizzaexpress.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819012424id_/http%3A//www.pizzaexpress.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pizzaexpress.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209070700id_/http%3A//www.pizzaexpress.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PizzaExpress Restaurants
 
@@ -26,7 +26,7 @@ Middlesex,
 
 UB8 1LX
 
-1.4 PizzaExpress Limited is the data controller of your Information for the purposes of the Act and is a company registered under number 01404552 and whose VAT number is 627 0767 30.
+1.4 PizzaExpress Limited is the data controller of your Information for the purposes of the Act and is a company registered under number 02805490 and whose VAT number is 627 0767 30.
 
   
 
