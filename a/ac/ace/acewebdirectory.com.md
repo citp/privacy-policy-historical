@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acewebdirectory.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819003433id_/http%3A//www.acewebdirectory.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acewebdirectory.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209085859id_/http%3A//www.acewebdirectory.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Ace Web Directory
 
@@ -63,4 +63,4 @@ Additional Information
 
 Ace Web Directory reserves the right to make changes to the privacy policy at any point of time. It is thus, it is requested that you do make frequent checks to be ensure that you are up to date with the changes executed. 
 
-Any questions or clarifications whatsoever related to the privacy policy may please be forwarded through our [contact page](https://web.archive.org/web/20130819003433id_/http%3A//www.acewebdirectory.com/contact-us.html).
+Any questions or clarifications whatsoever related to the privacy policy may please be forwarded through our [contact page](https://web.archive.org/web/20140209085859id_/http%3A//www.acewebdirectory.com/contact-us.html).
