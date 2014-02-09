@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the patentbuddy.com privacy policy that was archived on 2013-11-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131117222125id_/http%3A//www.patentbuddy.com/privacypolicy.jsf) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the patentbuddy.com privacy policy that was archived on 2014-02-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140210005626id_/http%3A//www.patentbuddy.com/privacypolicy.jsf) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 			<title>
@@ -17,6 +17,134 @@
 </head>
 <body>
 
+<link rel="stylesheet" media="screen, projection" href="style/pbnewstyles/css/pbmains.css">
+<link type="text/css" href="style/pbstyle/modal/basic.css" rel="stylesheet" media="screen">
+<script src="scripts/newjs/planDetails.js"></script>
+
+<script type="text/javascript">
+	var contextPath =  'http://www.patentbuddy.com/';
+	function upgradeMember(){
+		$.modal.close();
+		window.setTimeout(function() {$('#upgrade-membership-modal').modal({onShow: function (dialog) {
+			 dialog.container.css("width","900px");
+			 dialog.container.css("height","600px");
+		}})}, 250);
+		 return false;
+	}
+
+	var getPlanCostByPlanId = function(planArray, plan) {
+	    var returnKey = -1;
+	    $.each(planArray, function(key, info) {
+	        if (info.plan == plan) {
+	           returnKey = info.cost;
+	            return false; 
+	        };   
+	    });
+	    return returnKey;       
+	           
+	}
+
+	$(document)
+	.ready(
+			function() {
+				disableOrEnablePlanFrequency();
+				disableOrEnablePlanFrequencyForFreemium();
+				var profileInTrialMode = 'false';
+				if(profileInTrialMode == "true"){
+					trialModePopUp();
+				}
+				
+			});
+
+	function disableOrEnablePlanFrequency() {
+		var subscriptionCycle = '';
+		var val = document.getElementsByName('type_radio');
+		for (ii = 0; ii < val.length; ii++) {
+			if(subscriptionCycle != "annually"){
+				if (val[ii].value == "monthly") {
+					val[ii].checked = true;
+					confirmSubscriptionValue('monthly');
+				}
+			}else if(subscriptionCycle != '' && subscriptionCycle == "annually"){
+				if (val[ii].value == "annually") {
+					val[ii].checked = true;
+					confirmSubscriptionValue('annually');
+				}
+			}
+		}
+	}
+
+	function disableOrEnablePlanFrequencyForFreemium() {
+		var subscriptionCycle = '';
+		var val = document.getElementsByName('type_radio_for_freemium');
+		for (ii = 0; ii < val.length; ii++) {
+			if(subscriptionCycle != "annually"){
+				if (val[ii].value == "monthly") {
+					val[ii].checked = true;
+					confirmSubscriptionValueForFreemium('monthly');
+				}
+			}else if(subscriptionCycle != '' && subscriptionCycle == "annually"){
+				if (val[ii].value == "annually") {
+					val[ii].checked = true;
+					confirmSubscriptionValueForFreemium('annually');
+				}
+			}
+		}
+	}
+
+	var currentUserPlan = '';
+	var profileInTrialMode = 'false';
+
+	function confirmSubscriptionCycleForFreemium(planValue){
+		if(currentUserPlan != '' && getPlanCostByPlanId(planArray,planValue) < getPlanCostByPlanId(planArray,currentUserPlan)){
+			return false;
+		}else if(currentUserPlan != '' && (getPlanCostByPlanId(planArray,planValue) == getPlanCostByPlanId(planArray,currentUserPlan)) && profileInTrialMode != '' && profileInTrialMode == 'false'){
+			return false;
+		}
+		document.getElementById("freemiumSelectedPlan").value = planValue;
+		var paymentProfile = '';
+		if(paymentProfile != '' && paymentProfile != 'null' && paymentProfile != undefined){
+			$.modal.close();
+			$('#subscription-confirmation-modal-for-freemium').modal({onShow: function (dialog) { }});
+			 return false;
+		}
+		$("#freemiumHiddenUpgradeMembership").click();
+	}
+
+	function confirmSubscriptionValue(subscriptionValue){
+		document.getElementById("hiddenSubscriptionValue").value = subscriptionValue;
+	}
+
+	function confirmSubscriptionValueForFreemium(subscriptionValue){
+		document.getElementById("hiddenSubscriptionValueForFreemium").value = subscriptionValue;
+	}
+
+	function confirmSubscriptionCycle(planValue){
+		if(currentUserPlan != '' && getPlanCostByPlanId(planArray,planValue) < getPlanCostByPlanId(planArray,currentUserPlan)){
+			return false;
+		}else if(currentUserPlan != '' && (getPlanCostByPlanId(planArray,planValue) == getPlanCostByPlanId(planArray,currentUserPlan)) && profileInTrialMode != '' && profileInTrialMode == 'false'){
+			return false;
+		}
+		document.getElementById("selectedplan").value = planValue;
+		var paymentProfile = '';
+		if(paymentProfile != '' && paymentProfile != 'null' && paymentProfile != undefined){
+			$.modal.close();
+			$('#subscription-confirmation-modal').modal({onShow: function (dialog) { }});
+			 return false;
+		}
+		$("#hiddenUpgradeMembership").click();
+	}
+	
+	function trialModePopUp(){
+		$.modal.close();
+		 window.setTimeout(function() {$('#trial-membership-modal').modal({onShow: function (dialog) {
+			 dialog.container.css("width","900px");
+			 dialog.container.css("height","620px");
+		}})}, 250);
+	}
+</script>
+
+
 <!--[if lt IE 9]>
 	<script src="scripts/newjs/html5.js"></script>
 	<link rel="stylesheet" href="style/pbnewstyles/css/ie8.css" type="text/css"/>
@@ -31,20 +159,874 @@
 
 		<div id="logo">
 			<a href="#">Patent Buddy</a>
-		</div><div class="quickSignUpLinks non-mobile"><div id="dad" style="width:600px;margin-top:-12px;"><a id="idOt2" name="idOt2" href="login.jsf" style="color:#fff;text-align:right;float:right;">Sign In</a><span id="idOt1" style="color:#fff;text-align:right;float:right;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a id="idOt" name="idOt" href="registration" style="color:#fff;text-align:right;float:right;">Join Today</a></div></div>	
+		</div><div class="quickSignUpLinks non-mobile"><div id="dad" style="width:600px;margin-top:-12px;"><a id="idOt2" name="idOt2" href="login.jsf;jsessionid=09831309326261DCE192828AFE56D995" style="color:#fff;text-align:right;float:right;">Sign In</a><span id="idOt1" style="color:#fff;text-align:right;float:right;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a id="idOt" name="idOt" href="registration;jsessionid=09831309326261DCE192828AFE56D995" style="color:#fff;text-align:right;float:right;">Join Today</a></div></div>	
 		<nav id="nav-primary" role="navigation">
 			<ul id="mailUlId">
-				<li id="nav-dashboard" style="padding: 17px 58px 0 0"><a href="dashboard">Dashboard</a></li>
-				<li id="nav-portfolio" style="padding: 17px 58px 0 0"><a href="myportfolio"><span>My Portfolio</span></a></li>
-				<li id="nav-analytics" style="padding: 17px 58px 0 0"><a href="SearchPatents"><span>Search &amp; Analytics</span></a></li>
-				<li id="nav-comparisons" style="padding: 17px 58px 0 0"><a href="comparisons"><span>Comparisons</span></a></li>
-				<li id="nav-watches" style="padding: 17px 58px 0 0"><a href="watches"><span>Following</span></a></li>
-			    <li id="nav-toprated" style="padding: 17px 58px 0 0"><a href="topprosecutors"><span>Top Rated</span></a></li>
+				<li id="nav-dashboard" style="padding: 17px 25px 0 0"><a href="dashboard" style="width:115px;">UPDATE SUMMARY</a></li>
+				
+				<li id="nav-portfolio" style="padding: 17px 25px 0 0"><a href="pages/portfolio-pages/userPortfolios.jsf"><span>Portfolio(s)</span></a></li>
+				
+				<li id="nav-search" style="padding: 17px 25px 0 0"><a href="SearchPatents"><span>Search</span></a></li>
+				
+				<li id="nav-watches" style="padding: 17px 25px 0 0"><a href="watches"><span>Following</span></a></li>
+			    <li id="nav-toprated" style="padding: 17px 10px 0 0"><a href="topprosecutors"><span>Top Rated</span></a></li>
 			</ul>
 		</nav>
 
+					<div id="basic-feature-not-support-modal" style="display:none;">
+
+					<div style="padding: 10px;">
+						<div style="float: left; line-height: 20px;width:500px;">
+						<p>
+						<span>
+			
+				</span>
+                </p>	
+                </div>
+                <div style="margin-top: 20px;"></div>
+					</div>
+
+					</div>
+				<form id="membershipUpgradeForm" name="membershipUpgradeForm" method="post" action="/privacypolicy.jsf;jsessionid=09831309326261DCE192828AFE56D995" enctype="application/x-www-form-urlencoded" target="">
+				<div id="upgrade-membership-modal" style="display:none;">
+					<div class="popup-window" style="padding:14px;">
+        <div style="width: 867px; margin-top: 20px;">
+            <table class="table-grid" style="width:867px;">
+                <thead class="fd-header">
+                    <tr style="background: #3e3e3e;">
+                        <td style="background: #FFFFFF; width: 236px;"></td>
+                        <td align="center" style="width: 145px;" class="corner_left-top">
+                            <h2>Free</h2>
+                        </td>
+                        <td style="width: 5px;"></td>
+                        <td align="center" style="width: 135px;">
+                            <h2>Standard</h2>
+                        </td>
+                        <td style="width: 5px;"></td>
+                        <td align="center" style="width: 135px;">
+                            <h2>Professional</h2>
+                        </td>
+                        <td style="width: 5px;"></td>
+                        <td align="center" style="width: 158px;" class="corner_right-top">
+                            <h2>Enterprise</h2>
+                        </td>
+                    </tr>
+                </thead>
+            </table>
+            <div style="width:867px; overflow:auto; height:315px;">
+            <table class="table-grid" style="width:850px;">
+                <tbody>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4; width: 286px;">Patent Searching</td>
+                        <td align="center" style="width: 130px;"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td rowspan="10" style="background: #f4f4f4; width: 5px;">&nbsp;</td>
+                        <td align="center" style="width: 135px;"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td rowspan="10" style="background: #f4f4f4; width: 5px;">&nbsp;</td>
+                        <td align="center" style="width: 135px;"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td rowspan="10" style="background: #f4f4f4; width: 5px;">&nbsp;</td>
+                        <td align="center" style="width: 135px;"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Technology Searching</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Owner and Inventor Searching</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Patent Analytics</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Owner Analytics</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Attorney Analytics</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Inventor Analytics</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Technology Analytics</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Mobile Searching</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Tagging</td>
+                        <td></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+					<tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Advanced Patent Analytics</td>
+                        <td></td>
+						<td rowspan="10" style="background: #f4f4f4; width: 5px;">&nbsp;</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+						<td rowspan="10" style="background: #f4f4f4; width: 5px;">&nbsp;</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+						<td rowspan="10" style="background: #f4f4f4; width: 5px;">&nbsp;</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+					<tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Advanced Owner Analytics</td>
+                        <td></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+					<tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Mobile Portfolio/Analytics</td>
+                        <td></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+					<tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Detailed Attorney Information</td>
+                        <td></td>
+                        <td></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+					<tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Prosecution analytics</td>
+                        <td></td>
+                        <td></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+					<tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Pre-publication Data</td>
+                        <td></td>
+                        <td></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+					<tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Monthly PAIR Information and Watches</td>
+                        <td></td>
+                        <td></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+					<tr class="cellpadding">
+						<td align="left" valign="top" style="background: #f4f4f4;">
+						Number of patents in all portfolios
+						</td>
+						
+						<td align="center" valign="top">100 (maximum)</td>
+						<td align="center" valign="top">1000 (maximum)</td>
+						<td align="center" valign="top">2000 (maximum)</td>
+						<td align="center" valign="top">Unlimited</td>
+					</tr>
+							
+					<tr class="cellpadding">
+						<td align="left" valign="top" style="background: #f4f4f4;">Follows
+							in all categories (Watch)</td>
+						<td align="center" valign="top">
+						10 (maximum)
+						</td>
+						<td align="center" valign="top">50 (maximum)</td>
+						<td align="center" valign="top">500 (maximum)</td>
+						<td align="center" valign="top">Unlimited</td>
+					</tr>
+					
+					<tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Maximum number of portfolios</td>
+                        <td align="center">5 (maximum)</td>
+                        <td align="center">10 (maximum)</td>
+                        <td align="center">100 (maximum)</td>
+                        <td align="center">Unlimited</td>
+                    </tr>
+					<tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Maximum number of comparisons</td>
+                        <td align="center">1 (maximum)</td>
+						<td rowspan="10" style="background: #f4f4f4; width: 5px;">&nbsp;</td>
+                        <td align="center">5 (maximum)</td>
+						<td rowspan="10" style="background: #f4f4f4; width: 5px;">&nbsp;</td>
+                        <td align="center">20 (maximum)</td>
+						<td rowspan="10" style="background: #f4f4f4; width: 5px;">&nbsp;</td>
+                        <td align="center">Unlimited</td>
+                    </tr>
+                </tbody>
+            </table>
+                </div>
+            <table class="table-grid" style="width:867px;">
+                <tfoot class="t-footer">
+                    <tr style="background: #3e3e3e;">
+                        <td rowspan="6" style="background: #FFFFFF; width: 232px;">
+                        </td>
+                        <td align="center" style="width: 133px;">
+                            <h2>FREE</h2>
+                        </td>
+                        <td style="width: 5px;">&nbsp;</td>
+                        <td align="center" style="width: 135px;">
+                            <h2>$9.95/mo</h2>
+                        </td>
+                        <td style="width: 5px;">&nbsp;</td>
+                        <td align="center" style="width: 135px;">
+                            <h2>$39.95/mo</h2>
+                        </td>
+                        <td style="width: 5px;">&nbsp;</td>
+                        <td align="center" style="padding-bottom: 1px; width: 158px;">
+                            <h2>$99.95/mo</h2>
+                        </td>
+                    </tr>
+                    <tr style="background: #3e3e3e;">
+                        <td>&nbsp;</td>
+                        <td>&nbsp;</td>
+                        <td align="center" valign="middle">&nbsp;</td>
+                        <td>&nbsp;</td>
+                        <td align="center" valign="middle">&nbsp;</td>
+                        <td>&nbsp;</td>
+                        <td align="center" style="color: #FFFFFF; padding: 0px; margin: 0px; height: auto;vertical-align: top;">+ $.08/mo per
+                    <br>
+                            patent in a portfolio. </td>
+                    </tr>
+                    
+                    <tr class="cellpadding">
+								<td colspan="3" align="right" valign="middle" height="15" style="background: #FFFFFF;">PAIR
+									Watch Weekly Update</td>
+								<td colspan="3" style="color: #FFFFFF; padding: 0px 10px; margin: 0px; font-size:12px;background: #3e3e3e;" align="center" valign="middle">$2.75/mo/patent</td>
+								<td align="center" valign="middle" style="color: #FFFFFF; padding: 0px 10px; margin: 0px; font-size:12px; background: #3e3e3e;">$2.65/mo/patent</td>
+					</tr>
+					
+					<tr class="cellpadding">
+								<td colspan="3" align="right" valign="middle" height="15" style="background: #FFFFFF;">PAIR
+									Watch Daily Update</td>
+								<td colspan="3" style="color: #FFFFFF; padding: 0px 10px; margin: 0px; font-size:12px;background: #3e3e3e;" align="center" valign="middle">$5.75/mo/patent</td>
+								<td align="center" valign="middle" style="color: #FFFFFF; padding: 0px 10px; margin: 0px; font-size:12px; background: #3e3e3e;">$5.65/mo/patent</td>
+					</tr>
+                    
+					
+					<tr>
+						<td align="left" valign="middle" height="50"><script type="text/javascript"><!--
+function oamSetHiddenInput(formname, name, value){var form = document.forms[formname];if(typeof form.elements[name]=='undefined'){var newInput = document.createElement('input');newInput.setAttribute('type','hidden');newInput.setAttribute('name',name);newInput.setAttribute('value',value);form.appendChild(newInput);}else{form.elements[name].value=value;}}function oamClearHiddenInput(formname, name, value){var form = document.forms[formname];if(typeof form.elements[name]!='undefined'){form.elements[name].value=null;}}function oamSubmitForm(formName, linkId, target, params){var clearFn = 'clearFormHiddenParams_'+formName.replace(/-/g, '\$:').replace(/:/g,'_');if(typeof eval('window.'+clearFn)!='undefined'){eval('window.'+clearFn+'(formName)');}if(typeof window.getScrolling!='undefined'){oamSetHiddenInput(formName,'autoScroll',getScrolling());}var oldTarget = '';if((typeof target!='undefined') && target != null){oldTarget=document.forms[formName].target;document.forms[formName].target=target;}if((typeof params!='undefined') && params != null){for(var i=0; i<params.length; i++){oamSetHiddenInput(formName,params[i][0], params[i][1]);}}oamSetHiddenInput(formName,formName +':'+'_idcl',linkId);if(document.forms[formName].onsubmit){var result=document.forms[formName].onsubmit();if((typeof result=='undefined')||result){document.forms[formName].submit();}}else {document.forms[formName].submit();}if(oldTarget==null) oldTarget='';document.forms[formName].target=oldTarget;if((typeof params!='undefined') && params != null){for(var i=0; i<params.length; i++){oamClearHiddenInput(formName,params[i][0], params[i][1]);}}oamClearHiddenInput(formName,formName +':'+'_idcl',linkId);return false;}
+//--></script><a href="#" onclick="if (!confirmSubscriptionCycle(1)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:upgradeMember_inc:_idJsp100');" id="membershipUpgradeForm:upgradeMember_inc:_idJsp100" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a><input type="hidden" name="autoScroll">
+						</td>
+						<td style="width: 5px;">&nbsp;</td>
+						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(2)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:upgradeMember_inc:_idJsp103');" id="membershipUpgradeForm:upgradeMember_inc:_idJsp103" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						</td>
+						<td style="width: 5px;">&nbsp;</td>
+						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(3)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:upgradeMember_inc:_idJsp106');" id="membershipUpgradeForm:upgradeMember_inc:_idJsp106" style="margin-left:20px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						</td>
+						<td style="width: 5px;">&nbsp;</td>
+						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(4)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:upgradeMember_inc:_idJsp109');" id="membershipUpgradeForm:upgradeMember_inc:_idJsp109" style="margin-left:30px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						</td>
+					</tr>
+                </tfoot>
+            </table>
+        </div>
+    </div>
+				</div>
+			<input type="hidden" id="selectedplan" name="selectedplan" value=""><input id="hiddenUpgradeMembership" name="hiddenUpgradeMembership" type="submit" onclick="if(typeof window.clearFormHiddenParams_membershipUpgradeForm!='undefined'){clearFormHiddenParams_membershipUpgradeForm('membershipUpgradeForm');}if(typeof window.getScrolling!='undefined'){oamSetHiddenInput('membershipUpgradeForm','autoScroll',getScrolling());}" style="display:none;">
+				<div id="trial-membership-modal" style="display:none;">
+					<div class="popup-window" style="padding:14px;">
+					
+					<h2><p style="color:red;font-size:13px;">Welcome to PatentBuddy 2.0!  Please enjoy the 30+ day free trial of our  level membership.  If you wish to continue with a paid membership, please select a membership plan before the year end expiration date.  Otherwise, all portfolios and followings will be reset to our free membership plan after the expiration date.</p></h2>
+					
+        <div style="width: 867px; margin-top: 5px;">
+            <table class="table-grid" style="width:867px;">
+                <thead class="fd-header">
+                    <tr style="background: #3e3e3e;">
+                        <td style="background: #FFFFFF; width: 236px;"></td>
+                        <td align="center" style="width: 145px;" class="corner_left-top">
+                            <h2>Free</h2>
+                        </td>
+                        <td style="width: 5px;"></td>
+                        <td align="center" style="width: 135px;">
+                            <h2>Standard</h2>
+                        </td>
+                        <td style="width: 5px;"></td>
+                        <td align="center" style="width: 135px;">
+                            <h2>Professional</h2>
+                        </td>
+                        <td style="width: 5px;"></td>
+                        <td align="center" style="width: 158px;" class="corner_right-top">
+                            <h2>Enterprise</h2>
+                        </td>
+                    </tr>
+                </thead>
+            </table>
+            <div style="width:867px; overflow:auto; height:315px;">
+            <table class="table-grid" style="width:850px;">
+                <tbody>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4; width: 286px;">Patent Searching</td>
+                        <td align="center" style="width: 130px;"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td rowspan="10" style="background: #f4f4f4; width: 5px;">&nbsp;</td>
+                        <td align="center" style="width: 135px;"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td rowspan="10" style="background: #f4f4f4; width: 5px;">&nbsp;</td>
+                        <td align="center" style="width: 135px;"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td rowspan="10" style="background: #f4f4f4; width: 5px;">&nbsp;</td>
+                        <td align="center" style="width: 135px;"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Technology Searching</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Owner and Inventor Searching</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Patent Analytics</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Owner Analytics</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Attorney Analytics</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Inventor Analytics</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Technology Analytics</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Mobile Searching</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Tagging</td>
+                        <td></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+					<tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Advanced Patent Analytics</td>
+                        <td></td>
+						<td rowspan="10" style="background: #f4f4f4; width: 5px;">&nbsp;</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+						<td rowspan="10" style="background: #f4f4f4; width: 5px;">&nbsp;</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+						<td rowspan="10" style="background: #f4f4f4; width: 5px;">&nbsp;</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+					<tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Advanced Owner Analytics</td>
+                        <td></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+					<tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Mobile Portfolio/Analytics</td>
+                        <td></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+					<tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Detailed Attorney Information</td>
+                        <td></td>
+                        <td></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+					<tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Prosecution analytics</td>
+                        <td></td>
+                        <td></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+					<tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Pre-publication Data</td>
+                        <td></td>
+                        <td></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+					<tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Monthly PAIR Information and Watches</td>
+                        <td></td>
+                        <td></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+					<tr class="cellpadding">
+						<td align="left" valign="top" style="background: #f4f4f4;">
+						Number of patents in all portfolios
+						</td>
+						
+						<td align="center" valign="top">100 (maximum)</td>
+						<td align="center" valign="top">1000 (maximum)</td>
+						<td align="center" valign="top">2000 (maximum)</td>
+						<td align="center" valign="top">Unlimited</td>
+					</tr>
+							
+					<tr class="cellpadding">
+						<td align="left" valign="top" style="background: #f4f4f4;">Follows
+							in all categories (Watch)</td>
+						<td align="center" valign="top">
+						10 (maximum)
+						</td>
+						<td align="center" valign="top">50 (maximum)</td>
+						<td align="center" valign="top">500 (maximum)</td>
+						<td align="center" valign="top">Unlimited</td>
+					</tr>
+					
+					<tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Maximum number of portfolios</td>
+                        <td align="center">5 (maximum)</td>
+                        <td align="center">10 (maximum)</td>
+                        <td align="center">100 (maximum)</td>
+                        <td align="center">Unlimited</td>
+                    </tr>
+					<tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Maximum number of comparisons</td>
+                        <td align="center">1 (maximum)</td>
+						<td rowspan="10" style="background: #f4f4f4; width: 5px;">&nbsp;</td>
+                        <td align="center">5 (maximum)</td>
+						<td rowspan="10" style="background: #f4f4f4; width: 5px;">&nbsp;</td>
+                        <td align="center">20 (maximum)</td>
+						<td rowspan="10" style="background: #f4f4f4; width: 5px;">&nbsp;</td>
+                        <td align="center">Unlimited</td>
+                    </tr>
+                </tbody>
+            </table>
+                </div>
+            <table class="table-grid" style="width:867px;">
+                <tfoot class="t-footer">
+                    <tr style="background: #3e3e3e;">
+                        <td rowspan="6" style="background: #FFFFFF; width: 232px;">
+                        </td>
+                        <td align="center" style="width: 133px;">
+                            <h2>FREE</h2>
+                        </td>
+                        <td style="width: 5px;">&nbsp;</td>
+                        <td align="center" style="width: 135px;">
+                            <h2>$9.95/mo</h2>
+                        </td>
+                        <td style="width: 5px;">&nbsp;</td>
+                        <td align="center" style="width: 135px;">
+                            <h2>$39.95/mo</h2>
+                        </td>
+                        <td style="width: 5px;">&nbsp;</td>
+                        <td align="center" style="padding-bottom: 1px; width: 158px;">
+                            <h2>$99.95/mo</h2>
+                        </td>
+                    </tr>
+                    <tr style="background: #3e3e3e;">
+                        <td>&nbsp;</td>
+                        <td>&nbsp;</td>
+                        <td align="center" valign="middle">&nbsp;</td>
+                        <td>&nbsp;</td>
+                        <td align="center" valign="middle">&nbsp;</td>
+                        <td>&nbsp;</td>
+                        <td align="center" style="color: #FFFFFF;">+ $.08/mo per
+                    <br>
+                            patent in a portfolio. </td>
+                    </tr>
+                    
+                    <tr class="cellpadding">
+								<td colspan="3" align="right" valign="middle" height="15" style="background: #FFFFFF;">PAIR
+									Watch Weekly Update</td>
+								<td colspan="3" style="color: #FFFFFF; padding: 0px 10px; margin: 0px; font-size:12px;background: #3e3e3e;" align="center" valign="middle">$2.75/mo/patent</td>
+								<td align="center" valign="middle" style="color: #FFFFFF; padding: 0px 10px; margin: 0px; font-size:12px; background: #3e3e3e;">$2.65/mo/patent</td>
+					</tr>
+					
+					<tr class="cellpadding">
+								<td colspan="3" align="right" valign="middle" height="15" style="background: #FFFFFF;">PAIR
+									Watch Daily Update</td>
+								<td colspan="3" style="color: #FFFFFF; padding: 0px 10px; margin: 0px; font-size:12px;background: #3e3e3e;" align="center" valign="middle">$5.75/mo/patent</td>
+								<td align="center" valign="middle" style="color: #FFFFFF; padding: 0px 10px; margin: 0px; font-size:12px; background: #3e3e3e;">$5.65/mo/patent</td>
+					</tr>
+                    
+					
+					<tr>
+						<td align="left" valign="middle" height="50"><a href="#" onclick="if (!confirmSubscriptionCycle(1)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:trialMode_inc:_idJsp133');" id="membershipUpgradeForm:trialMode_inc:_idJsp133" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						</td>
+						<td style="width: 5px;">&nbsp;</td>
+						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(2)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:trialMode_inc:_idJsp136');" id="membershipUpgradeForm:trialMode_inc:_idJsp136" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						</td>
+						<td style="width: 5px;">&nbsp;</td>
+						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(3)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:trialMode_inc:_idJsp139');" id="membershipUpgradeForm:trialMode_inc:_idJsp139" style="margin-left:20px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						</td>
+						<td style="width: 5px;">&nbsp;</td>
+						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(4)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:trialMode_inc:_idJsp142');" id="membershipUpgradeForm:trialMode_inc:_idJsp142" style="margin-left:30px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						</td>
+					</tr>
+                </tfoot>
+            </table>
+        </div>
+    </div>
+				</div>
+			
+				<div id="subscription-confirmation-modal" style="display:none;">
+					<div class="popup-window" style="padding: 23px;">
+						<h1 class="port-heading" style="font-size:22px;">Please Confirm Your Upgraded Plan Purchase By Selecting Upgrade Button</h1>
+							<div id="subscriptionCycle" class="input" style="width:auto;float:left;margin: 30px 0 30px 14px;">
+									<table style="border-collapse: separate;border-spacing: 1em;" id="type_radio_for_freemium"><tbody><tr>		<td><label><input type="radio" name="type_radio_for_freemium" value="annually" onclick="confirmSubscriptionValue(this.value);" style="border-collapse: separate;border-spacing: 1em;">&nbsp;Yearly (Get 12 months for the price of 11!)</label></td>		<td><label><input type="radio" name="type_radio_for_freemium" value="monthly" onclick="confirmSubscriptionValue(this.value);" style="border-collapse: separate;border-spacing: 1em;">&nbsp;Monthly</label></td></tr></tbody></table><div><a href="#" onclick="clear_membershipUpgradeForm();if(window.getScrolling!=undefined){document.forms['membershipUpgradeForm'].elements['autoScroll'].value=getScrolling();}document.forms['membershipUpgradeForm'].elements['membershipUpgradeForm:_link_hidden_'].value='membershipUpgradeForm:subscriptionConfirm_inc:upgradePurchase';if(document.forms['membershipUpgradeForm'].onsubmit){var result=document.forms['membershipUpgradeForm'].onsubmit();  if( (typeof result == 'undefined') || result ) {document.forms['membershipUpgradeForm'].submit();}}else{document.forms['membershipUpgradeForm'].submit();}return false;" id="membershipUpgradeForm:subscriptionConfirm_inc:upgradePurchase" style="margin: 10px 10px 10px 140px;" class="button-green abc"><span style="color:white;">UPGRADE</span></a><a id="membershipUpgradeForm:subscriptionConfirm_inc:_idJsp147" name="membershipUpgradeForm:subscriptionConfirm_inc:_idJsp147" href="javascript:void(0)" style="float:right;margin:10px;" class="button-red abc simplemodal-close"><span style="color:white">CANCEL</span></a></div>
+							</div>
+					</div>
+				</div>
+			<input type="hidden" id="hiddenSubscriptionValue" name="hiddenSubscriptionValue" value="">
+				<div id="freemium-upgrade-modal" style="display:none;">
+					<div class="popup-window" style="padding:14px;">
+        <div style="width: 867px; margin-top: 20px;">
+            <table class="table-grid" style="width:867px;">
+                <thead class="fd-header">
+                    <tr style="background: #3e3e3e;">
+                        <td style="background: #FFFFFF; width: 236px;"></td>
+                        <td align="center" style="width: 145px;" class="corner_left-top">
+                            <h2>Free</h2>
+                        </td>
+                        <td style="width: 5px;"></td>
+                        <td align="center" style="width: 135px;">
+                            <h2>Standard</h2>
+                        </td>
+                        <td style="width: 5px;"></td>
+                        <td align="center" style="width: 135px;">
+                            <h2>Professional</h2>
+                        </td>
+                        <td style="width: 5px;"></td>
+                        <td align="center" style="width: 158px;" class="corner_right-top">
+                            <h2>Enterprise</h2>
+                        </td>
+                    </tr>
+                </thead>
+            </table>
+            <div style="width:867px; overflow:auto; height:315px;">
+            <table class="table-grid" style="width:850px;">
+                <tbody>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4; width: 286px;">Patent Searching</td>
+                        <td align="center" style="width: 130px;"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td rowspan="10" style="background: #f4f4f4; width: 5px;">&nbsp;</td>
+                        <td align="center" style="width: 135px;"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td rowspan="10" style="background: #f4f4f4; width: 5px;">&nbsp;</td>
+                        <td align="center" style="width: 135px;"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td rowspan="10" style="background: #f4f4f4; width: 5px;">&nbsp;</td>
+                        <td align="center" style="width: 135px;"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Technology Searching</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Owner and Inventor Searching</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Patent Analytics</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Owner Analytics</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Attorney Analytics</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Inventor Analytics</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Technology Analytics</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Mobile Searching</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+                    <tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Tagging</td>
+                        <td></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+					<tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Advanced Patent Analytics</td>
+                        <td></td>
+						<td rowspan="10" style="background: #f4f4f4; width: 5px;">&nbsp;</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+						<td rowspan="10" style="background: #f4f4f4; width: 5px;">&nbsp;</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+						<td rowspan="10" style="background: #f4f4f4; width: 5px;">&nbsp;</td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+					<tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Advanced Owner Analytics</td>
+                        <td></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+					<tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Mobile Portfolio/Analytics</td>
+                        <td></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+					<tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Detailed Attorney Information</td>
+                        <td></td>
+                        <td></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+					<tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Prosecution analytics</td>
+                        <td></td>
+                        <td></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+					<tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Pre-publication Data</td>
+                        <td></td>
+                        <td></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+					<tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Monthly PAIR Information and Watches</td>
+                        <td></td>
+                        <td></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                        <td align="center"><img alt="" src="images/freemium/bullet-check.png"></td>
+                    </tr>
+					<tr class="cellpadding">
+						<td align="left" valign="top" style="background: #f4f4f4;">
+						Number of patents in all portfolios
+						</td>
+						
+						<td align="center" valign="top">100 (maximum)</td>
+						<td align="center" valign="top">1000 (maximum)</td>
+						<td align="center" valign="top">2000 (maximum)</td>
+						<td align="center" valign="top">Unlimited</td>
+					</tr>
+							
+					<tr class="cellpadding">
+						<td align="left" valign="top" style="background: #f4f4f4;">Follows
+							in all categories (Watch)</td>
+						<td align="center" valign="top">
+						10 (maximum)
+						</td>
+						<td align="center" valign="top">50 (maximum)</td>
+						<td align="center" valign="top">500 (maximum)</td>
+						<td align="center" valign="top">Unlimited</td>
+					</tr>
+					
+					<tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Maximum number of portfolios</td>
+                        <td align="center">5 (maximum)</td>
+                        <td align="center">10 (maximum)</td>
+                        <td align="center">100 (maximum)</td>
+                        <td align="center">Unlimited</td>
+                    </tr>
+					<tr class="cellpadding">
+                        <td style="background: #f4f4f4;">Maximum number of comparisons</td>
+                        <td align="center">1 (maximum)</td>
+						<td rowspan="10" style="background: #f4f4f4; width: 5px;">&nbsp;</td>
+                        <td align="center">5 (maximum)</td>
+						<td rowspan="10" style="background: #f4f4f4; width: 5px;">&nbsp;</td>
+                        <td align="center">20 (maximum)</td>
+						<td rowspan="10" style="background: #f4f4f4; width: 5px;">&nbsp;</td>
+                        <td align="center">Unlimited</td>
+                    </tr>
+                </tbody>
+            </table>
+                </div>
+            <table class="table-grid" style="width:867px;">
+                <tfoot class="t-footer">
+                    <tr style="background: #3e3e3e;">
+                        <td rowspan="6" style="background: #FFFFFF; width: 232px;">
+                        </td>
+                        <td align="center" style="width: 133px;">
+                            <h2>FREE</h2>
+                        </td>
+                        <td style="width: 5px;">&nbsp;</td>
+                        <td align="center" style="width: 135px;">
+                            <h2>$9.95/mo</h2>
+                        </td>
+                        <td style="width: 5px;">&nbsp;</td>
+                        <td align="center" style="width: 135px;">
+                            <h2>$39.95/mo</h2>
+                        </td>
+                        <td style="width: 5px;">&nbsp;</td>
+                        <td align="center" style="padding-bottom: 1px; width: 158px;">
+                            <h2>$99.95/mo</h2>
+                        </td>
+                    </tr>
+                    <tr style="background: #3e3e3e;">
+                        <td>&nbsp;</td>
+                        <td>&nbsp;</td>
+                        <td align="center" valign="middle">&nbsp;</td>
+                        <td>&nbsp;</td>
+                        <td align="center" valign="middle">&nbsp;</td>
+                        <td>&nbsp;</td>
+                        <td align="center" style="color: #FFFFFF;">+ $.08/mo per
+                    <br>
+                            patent in a portfolio. </td>
+                    </tr>
+                    
+                    <tr class="cellpadding">
+								<td colspan="3" align="right" valign="middle" height="15" style="background: #FFFFFF;">PAIR
+									Watch Weekly Update</td>
+								<td colspan="3" style="color: #FFFFFF; padding: 0px 10px; margin: 0px; font-size:12px;background: #3e3e3e;" align="center" valign="middle">$2.75/mo/patent</td>
+								<td align="center" valign="middle" style="color: #FFFFFF; padding: 0px 10px; margin: 0px; font-size:12px; background: #3e3e3e;">$2.65/mo/patent</td>
+					</tr>
+					
+					<tr class="cellpadding">
+								<td colspan="3" align="right" valign="middle" height="15" style="background: #FFFFFF;">PAIR
+									Watch Daily Update</td>
+								<td colspan="3" style="color: #FFFFFF; padding: 0px 10px; margin: 0px; font-size:12px;background: #3e3e3e;" align="center" valign="middle">$5.75/mo/patent</td>
+								<td align="center" valign="middle" style="color: #FFFFFF; padding: 0px 10px; margin: 0px; font-size:12px; background: #3e3e3e;">$5.65/mo/patent</td>
+					</tr>
+                    
+					
+					<tr>
+						<td align="left" valign="middle" height="50"><a href="#" onclick="if (!confirmSubscriptionCycleForFreemium(1)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:freemiumUpgrade:_idJsp165');" id="membershipUpgradeForm:freemiumUpgrade:_idJsp165" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						</td>
+						<td style="width: 5px;">&nbsp;</td>
+						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycleForFreemium(2)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:freemiumUpgrade:_idJsp168');" id="membershipUpgradeForm:freemiumUpgrade:_idJsp168" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						</td>
+						<td style="width: 5px;">&nbsp;</td>
+						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycleForFreemium(3)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:freemiumUpgrade:_idJsp171');" id="membershipUpgradeForm:freemiumUpgrade:_idJsp171" style="margin-left:20px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						</td>
+						<td style="width: 5px;">&nbsp;</td>
+						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycleForFreemium(4)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:freemiumUpgrade:_idJsp174');" id="membershipUpgradeForm:freemiumUpgrade:_idJsp174" style="margin-left:30px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						</td>
+					</tr>
+                </tfoot>
+            </table>
+        </div>
+    </div>
+				</div>
+			<input type="hidden" id="freemiumSelectedPlan" name="freemiumSelectedPlan" value=""><input id="freemiumHiddenUpgradeMembership" name="freemiumHiddenUpgradeMembership" type="submit" onclick="if(typeof window.clearFormHiddenParams_membershipUpgradeForm!='undefined'){clearFormHiddenParams_membershipUpgradeForm('membershipUpgradeForm');}if(typeof window.getScrolling!='undefined'){oamSetHiddenInput('membershipUpgradeForm','autoScroll',getScrolling());}" style="display:none;">
+				<div id="subscription-confirmation-modal-for-freemium" style="display:none;">
+					<div class="popup-window" style="padding: 23px;">
+						<h1 class="port-heading" style="font-size:22px;">Please Confirm Your Upgraded Plan Purchase By Selecting Upgrade Button</h1>
+							<div id="subscriptionCycle" class="input" style="width:auto;float:left;margin: 30px 0 30px 14px;">
+									<table style="border-collapse: separate;border-spacing: 1em;" id="type_radio"><tbody><tr>		<td><label><input type="radio" name="type_radio" value="annually" onclick="confirmSubscriptionValueForFreemium(this.value);" style="border-collapse: separate;border-spacing: 1em;">&nbsp;Yearly (Get 12 months for the price of 11!)</label></td>		<td><label><input type="radio" name="type_radio" value="monthly" onclick="confirmSubscriptionValueForFreemium(this.value);" style="border-collapse: separate;border-spacing: 1em;">&nbsp;Monthly</label></td></tr></tbody></table><div><a href="#" onclick="clear_membershipUpgradeForm();if(window.getScrolling!=undefined){document.forms['membershipUpgradeForm'].elements['autoScroll'].value=getScrolling();}document.forms['membershipUpgradeForm'].elements['membershipUpgradeForm:_link_hidden_'].value='membershipUpgradeForm:subscriptionConfirmForFreemium_inc:upgradePurchase';if(document.forms['membershipUpgradeForm'].onsubmit){var result=document.forms['membershipUpgradeForm'].onsubmit();  if( (typeof result == 'undefined') || result ) {document.forms['membershipUpgradeForm'].submit();}}else{document.forms['membershipUpgradeForm'].submit();}return false;" id="membershipUpgradeForm:subscriptionConfirmForFreemium_inc:upgradePurchase" style="margin: 10px 10px 10px 140px;" class="button-green abc"><span style="color:white;">UPGRADE</span></a><a id="membershipUpgradeForm:subscriptionConfirmForFreemium_inc:_idJsp179" name="membershipUpgradeForm:subscriptionConfirmForFreemium_inc:_idJsp179" href="javascript:void(0)" style="float:right;margin:10px;" class="button-red abc simplemodal-close"><span style="color:white">CANCEL</span></a></div>
+							</div>
+					</div>
+				</div>
+			<input type="hidden" id="hiddenSubscriptionValueForFreemium" name="hiddenSubscriptionValueForFreemium" value=""><input type="hidden" name="membershipUpgradeForm_SUBMIT" value="1"><input type="hidden" name="autoScroll"><input type="hidden" name="membershipUpgradeForm:_link_hidden_" value=""><script type="text/javascript"><!--
+function clear_membershipUpgradeForm() {
+  var f = document.forms['membershipUpgradeForm'];
+  f.elements['membershipUpgradeForm:_link_hidden_'].value='';
+  f.target='';
+}
+clear_membershipUpgradeForm();
+//--></script><input type="hidden" name="jsf_tree_64" id="jsf_tree_64" value="H4sIAAAAAAAAAK1YzW/cRBQf8lEaaIgKVD2AVFEqFSKxWY+9/lDFoQS1SZSQKGmLUA6r6Xo263T9gT1Okws37hw5cEeq8hfwF3DjigSCI1y4cmbs2LObN37ZTcTFst+8eW/ee7/34Tn9h8xnKXkcpwctlrDegLfCkz7r8Ux+JsOgx0QQR60nKed7Is17Ik/5FovYAU/vjYircZjEEY/Eo69u//rDxr+/zJC5fbLQ7Q2CoZ9KOtnY35QqVs5UrFQqVsZUrEyr4sEmWer26q/VIcsyQd7ePGRHbGXIooMVyR9EB5Ltxoht3f+afENm9snr3UKzkFve2R/bs/38kPfEg+MkT6uj/h/eePDT6f2fb3773asZQo4TQsitrDgGSQSxGlSo07YGIhy2+LForcmX7VwkuXgiP4U8fuBvZImRVIKK53VFNpvJnWay00z2APl6pRLqrOlQaU2HWmt6rTYvnvPSKeRS3thhER8+TuM8USJpWxNZvLw/YqCQ4ZoKxMcFCI5bjTqh92txNhT32pip9xSf2ZbyP2gyLc9EHLb84Kj1eXA0kusmzXJMhN5B6A5C90rC8kihhRiivmenMtSiUztyM4heCDIf+NuCglOWRGM611pmSfhUkLliV23XrM98YKOlSYQ2AbBYWHQnHKlj1EeqCe0ESHYn4LRjwR1agGabdXuQb+5iTbZ5NSNtFxhpO+DIdmeCkY4WEMhgQpHNO5ZLyMgkAuwdBP6O5v6ZqWx2VWDfy5ODlPl8J097A5bxR3G683B990smeoPpcOuawH8uBXh1tWI2D74XmyXbzVa7mtXNEPJgOtZ0C6HbwO1eG2FUDUWQzvR1XjbRkEX+Wb1YqHpHG+pQC+dO//3YAqydaqGD7YCOVAsutuNqFq5Hsh6uSQQX89GNjA/lBML9RM4jI3HOpR32WS5ELAXeHpSSn54hdouHz3maDYJECr3fXKmfrn/BQjk5rcrtLIh4KsjNfHx7N4h6EEyLF8O+dpGhKpuiaD2ZQA4sEIaHLFCs1muMsHOqBVg71IIHDaAYskwMi1ofVwsYFk3MBSaGRRPzjWUgO6yzCnQqyKIcnNlwK/Z5U6Rh25xRIL2L4WmvxPS64KEgb4qThHdPOEuHJ+Mn+U1iv1wKJewGck0Qd3rQn2nYjvgu84NYor4UlRYf3X6cdvtyKA+DPLxk5Ve+seVxlicMNucq1RJoERPaglKk+qqiOHVjUJRzKPlRpfhe/jzrpUFS/Jo8Y8Oc1/G8nY2tyKzuB2l4QQ7DM3UMBEodbXhA0kzrxGoBQ6ltwDTrYKlqWwigbXSHg+2Ag3e94LSRHQ7mG8fEdlggeu/W2NyrKv/OWOUvnq8EuVPzrCHFvIr0Us1XcUybu2UCFo/fE0j5o3z9U5A3Ril1xSxyzsD9V/H4e8qEcNswIRwPJoTjAJfeRRJCzmmP6kJQeexuQ26MsZVpIsiHE1Jf7pCl7VaoAlL5v6BPGrDvIIZj6HWxZHKxZPIwkHpYI/K04R0Jj+fA8HhYq/KQ5KLYMEfbcBRVC3AWVQuIctrGlBuYcgNTbmDKjUnXAYoRFnlqIDGl2IhDKRJTio00FBtpKMV0mJgObICh2k2EWsCUW5goCxNloaJG1xqhnFs/qf8IxyqFq/1Hk/McVO9pMF9hsSOTrzzG76qUIg0t8FcdQY9NgVXU1n4VJ/zEq40dTZSlUTSHLEwpXEO5jUXO1q4tEJmOAWU6WP462n8FJtPSZGKYdKYsi9SBZZE6WGXSbyMQmVonpFonpPZl76yUcBMKdzWYVfcf48ni1W30LT/IekMWhNXfYcV4rR/HgqcS9h+Vs/whO7YOs36rn7KQv4zTFyWp9VA+ngX85a7kLqQfVe/Jf43QbnyWGAAA"><input type="hidden" name="jsf_state_64" id="jsf_state_64" value="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"><input type="hidden" name="jsf_viewid" id="jsf_viewid" value="/privacypolicy.jsp"></form>
 
 
+
+
+
+
+
+
+<style type="text/css">
+
+#simplemodal-container {
+	background: none repeat scroll 0 0 #FFFFFF;
+	border-radius: 6px 6px 6px 6px;
+	background-color: #FFFFFF;
+	padding-top: 20px;
+	position: fixed;
+	z-index: 1002;
+	border: 1px solid #333333;
+	height:auto;
+	width:auto;
+}
+			
+</style>
 
 
 	
@@ -52,7 +1034,10 @@
 	
 		 
 	
-	
+					
+					
+					
+					
 	
 	
 		
@@ -70,6 +1055,150 @@
 	
 
 
+
+
+
+<!-- Confirm Follow Overlay -->
+				
+			
+					
+				 
+					
+						
+					
+					
+						
+					
+				
+				
+				<!-- Confirm Follow Overlay Ends -->	
+
+
+	
+
+
+
+
+<!-- Upgrade Membership Overlay -->
+			
+						
+						
+						
+						
+					
+					 
+							
+							  
+							
+							  
+							
+							 
+							
+							
+							 
+						
+			
+			<!-- Upgrade Membership Overlay Ends -->
+			
+
+	
+
+
+
+
+<!-- Upgrade Membership Overlay -->
+			
+					
+					
+					
+						
+						
+						
+						
+					
+					 
+							
+							  
+							
+							  
+							
+							 
+							
+							
+							 
+			<!-- Upgrade Membership Overlay Ends -->
+
+	
+
+
+
+
+<!-- Subscription Confirm Overlay -->
+			
+									
+										
+										
+									
+									
+										
+											
+										
+										
+											
+										
+									
+									
+			
+			<!-- Subscription Confirm Overlay Ends -->
+
+	
+
+
+
+
+<!-- Upgrade Membership Overlay -->
+			
+						
+						
+						
+						
+					
+					 
+							
+							  
+							
+							  
+							
+							 
+							
+							
+							 
+			<!-- Upgrade Membership Overlay Ends -->
+						
+			
+
+	
+
+
+
+
+<!-- Subscription Confirm Overlay -->
+			
+									
+										
+										
+									
+									
+										
+											
+										
+										
+											
+										
+									
+									
+			
+			<!-- Subscription Confirm Overlay Ends -->
 
 
 
@@ -161,7 +1290,7 @@ Personal information you provide will be secured with industry standard protocol
 <br>
 If you have any questions or comments please email us at 
 					
-				<a id="_idJsp38" name="_idJsp38" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a> 
+				<a id="_idJsp196" name="_idJsp196" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a> 
 
 </p><br>
 
@@ -277,7 +1406,7 @@ You have a right to access, modify, correct and eliminate the data about you whi
 <br>
 We take your rights seriously and encourage you to use them if you deem this to be appropriate. You may exercise these rights by emailing us at 
 					
-				<a id="_idJsp59" name="_idJsp59" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a> 
+				<a id="_idJsp217" name="_idJsp217" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a> 
 </p><br>
 	
 <p style="line-height: 2;"><span style="text-decoration: underline;" class="font-bold">Uses of personal information.</span>					
@@ -291,7 +1420,7 @@ Patent Buddy is an online service dedicated to helping all types of professional
 <br>
 Patent Buddy will communicate with you through email and notices posted on the Patent Buddy website or through other means available through the service, including text and other forms of messaging. If we send any communications to you via the carrier service with which you have a mobile communications subscription or otherwise have access, you understand you will pay any service fees associated with any such access. These include welcome email which help inform new Users about various features of the service. Please be aware that you will always receive certain emails from Patent Buddy related to the proper functioning of your account, such as email notices when another User in your network sends you an opportunity. Patent Buddy may send you promotional information. You can change your e-mail and contact preferences at any time by logging into your 'Preferences Page' and amending your email notification choices. If you wish, you can also opt-out of receiving promotional emails, by sending a request to 
 					
-				<a id="_idJsp65" name="_idJsp65" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a>.
+				<a id="_idJsp223" name="_idJsp223" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a>.
 <br>
 
 </p><br>
@@ -349,9 +1478,9 @@ You can review the personal information you provided us and make any desired cha
 <b>Closing Your Account</b><br>
 You can also close your account on Patent Buddy website. If you close your Patent Buddy account, your name will still show up from our publicly viewable database. We may retain certain data contributed by you if we believe it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally identifiable data, account recovery, or if required by law. To request that we close your account  from the Patent Buddy website, please send your request to 
 					
-				<a id="_idJsp81" name="_idJsp81" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a>. Please send your request using an email account that you have registered with Patent Buddy under your name. You will receive a response to requests sent to 
+				<a id="_idJsp239" name="_idJsp239" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a>. Please send your request using an email account that you have registered with Patent Buddy under your name. You will receive a response to requests sent to 
 					
-				<a id="_idJsp83" name="_idJsp83" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a> within few business days of its receipt. For more details please visit Patent Buddy's Policy and Procedure For Error Correction and Name Removal Requests 
+				<a id="_idJsp241" name="_idJsp241" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a> within few business days of its receipt. For more details please visit Patent Buddy's Policy and Procedure For Error Correction and Name Removal Requests 
 <br>
 
 </p><br>
@@ -397,7 +1526,7 @@ In order to secure your personal information, access to your data on Patent Budd
 <br>
 You can also contact us at 
 					
-				<a id="_idJsp93" name="_idJsp93" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a> 
+				<a id="_idJsp251" name="_idJsp251" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a> 
 <br>
 
 </p><br>
@@ -430,7 +1559,7 @@ You can also contact us at
   })();
 
 </script>
-<div style="clear:both;padding-top: 90px;margin-bottom: 35px;" id="footerLink"><div style="margin-top:10px;border-top:1px solid #E6E6E6;color: #9B9B9B;"><div>
+<div style="clear:both;padding-top: 90px;margin-bottom: 35px;" id="footerLink"><div style="margin-top:10px;border-top:1px solid #E6E6E6;color: #9B9B9B;"><div style="display:inline;">
 		<a href="#" id="fullSiteLink">View Full Site</a>
                 <script type="text/javascript">
                     $("#fullSiteLink").click(function(e) {
@@ -438,7 +1567,7 @@ You can also contact us at
                         $("#responsiveCSS")[0].disabled = true;
                     });
                 </script>
-	Copyright 2013 PatentBuddy.</div><div style="float:right;padding-top:5px;"><a id="disclaimer_inc:_idJsp111" name="disclaimer_inc:_idJsp111" href="pages/aboutUs.jsf">About</a> | <a id="disclaimer_inc:_idJsp114" name="disclaimer_inc:_idJsp114" href="pages/advertiseinfo-pages/advertiseInfo.jsf">Advertise</a> | <a id="disclaimer_inc:_idJsp117" name="disclaimer_inc:_idJsp117" href="mailto:support@patentbuddy.com">Contact</a> | <a id="disclaimer_inc:_idJsp120" name="disclaimer_inc:_idJsp120" href="javascript:openTAndCPopup();">Terms</a> | <a id="disclaimer_inc:_idJsp123" name="disclaimer_inc:_idJsp123" href="privacypolicy.jsf">Privacy</a></div></div></div>
+	Copyright 2014 PatentBuddy.</div><div style="float:right;padding-top:5px;"><a id="disclaimer_inc:_idJsp267" name="disclaimer_inc:_idJsp267" href="pages/advertiseinfo-pages/advertiseInfo.jsf;jsessionid=09831309326261DCE192828AFE56D995">Advertise</a> | <a id="disclaimer_inc:_idJsp270" name="disclaimer_inc:_idJsp270" href="mailto:support@patentbuddy.com">Contact</a> | <a id="disclaimer_inc:_idJsp273" name="disclaimer_inc:_idJsp273" href="javascript:openTAndCPopup();">Terms</a> | <a id="disclaimer_inc:_idJsp276" name="disclaimer_inc:_idJsp276" href="privacypolicy.jsf;jsessionid=09831309326261DCE192828AFE56D995">Privacy</a> | <a id="disclaimer_inc:_idJsp279" name="disclaimer_inc:_idJsp279" href="pages/aboutUs.jsf;jsessionid=09831309326261DCE192828AFE56D995">About Us</a></div></div></div>
 
 
 
@@ -457,7 +1586,11 @@ div#footerLink a:hover{
 <script type="text/javascript">
 var contextPath = ""; 
 function openTAndCPopup(){
-	var tAndCWindow = window.open(contextPath+'/termsandcondition.jsf',"tAndC","width=550,height=280,toolbar=no,menubar=no,resizable=yes,scrollbars=yes");
+	var tAndCWindow = window.open(contextPath+'/custom/dashboard/terms/pb.html',"tAndC","width=550,height=280,toolbar=no,menubar=no,resizable=yes,scrollbars=yes");
+	tAndCWindow.focus();
+}
+function openTAndCPopupOfDashboard(){
+	var tAndCWindow = window.open( contextPath + '/custom/dashboard/terms/terms.jsf',"tAndC","width=550,height=280,toolbar=no,menubar=no,resizable=yes,scrollbars=yes");
 	tAndCWindow.focus();
 }
 </script>
@@ -475,19 +1608,21 @@ function openTAndCPopup(){
 			  
 		
 		
-			 
-		
 	
 	
 	
-		
-		
 		
 		
 		
 		   
 		
 		  
+		
+		
+		
+	
+	
+	
 		
 	
 
