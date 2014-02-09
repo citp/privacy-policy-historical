@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the australianopen.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101025441id_/http%3A//www.australianopen.com/en_AU/info/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australianopen.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209030913id_/http%3A//www.ausopen.com/en_AU/info/privacy/index.html) for the most accurate reproduction.*
 
-# Privacy - Australian Open Tennis Championships 2013 - Official Site by IBM
+# Privacy - Australian Open Tennis Championships 2014 - Official Site by IBM
 
-[Home](https://web.archive.org/index.html?promo=breadcrumb) > Privacy Statements
-
- **Tennis Australia and Your Personal Information**
+**Tennis Australia and Your Personal Information**
 
 Tennis Australia is committed to the protection of your personal information. In general you can view this site without revealing any information about yourself. A copy of the Privacy Policy is available on request. 
 
