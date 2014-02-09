@@ -1,82 +1,95 @@
-<!--The following is the downloaded HTML source of the invesp.com privacy policy that was archived on 2013-09-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130921041135id_/http%3A//invesp.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the invesp.com privacy policy that was archived on 2014-02-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209045734id_/http%3A//www.invesp.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
 <link href="/privacy-policy.html" rel="canonical">
 
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <base href="http://invesp.com/privacy-policy.html">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+
+
+
+
+  <base href="http://www.invesp.com/privacy-policy.html">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="author" content="Khalid Saleh">
   <meta name="description" content="List of frequently asked questions about blog Rank">
   
   <title>Privacy Policy</title>
-  <link href="http://invesp.com/kx" rel="shortlink">
-  <link href="/templates/invesp/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-  <link rel="stylesheet" href="/templates/invesp/css/template.css" type="text/css">
+  
+  <link href="http://www.invesp.com/kx" rel="shortlink">
+  <link href="/templates/invesp-sky/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
   <link rel="stylesheet" href="/media/jui/css/bootstrap.min.css" type="text/css">
-  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
-  <script src="/media/system/js/core.js" type="text/javascript"></script>
-  <script src="/media/system/js/caption.js" type="text/javascript"></script>
-  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <link rel="stylesheet" href="/templates/invesp-sky/css/template.css" type="text/css">
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
   <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/media/system/js/tabs-state.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
   <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
-  <script src="/templates/invesp/js/jquery.tabify.js" type="text/javascript"></script>
-  <script src="/templates/invesp/js/bootbox.min.js" type="text/javascript"></script>
+  <script src="/templates/invesp-sky/js/bootbox.min.js" type="text/javascript"></script>
   <script type="text/javascript">
-window.addEvent('load', function() {
+jQuery(window).on('load',  function() {
 				new JCaption('img.caption');
 			});
   </script>
 
-<style type="text/css">
-body.site{
-    /*border-top: 3px solid #08C;
-    background-color: #F4F6F7*/
-}
-a{
-    color: #08C;
-}
-.navbar-inner, .nav-list > .active > a, .nav-list > .active > a:hover, .dropdown-menu li > a:hover, .dropdown-menu .active > a, .dropdown-menu .active > a:hover, .nav-pills > .active > a, .nav-pills > .active > a:hover,
-.btn-primary{
-    background: #08C;
-}
-.navbar-inner{
-    -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
-    -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
-    box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
-}
+
+
+
+<!--[if lt IE 7]>
+
+<style type="text/css" media="screen">
+
+.moduletable_topmenu{float:none;}
+
+body{behavior:url(csshover.htc); font-size:100%;}
+
+.moduletable_topmenu ul li{float:left; width: 100%;}
+
+.moduletable_topmenu a{height:1%;font:bold 0.7em/1.4em arial, sans-serif;}
 
 </style>
-<!--[if lt IE 9]>
-        <script src="/media/jui/js/html5.js"></script>
+
 <![endif]-->
+
+
+
+
 <script type="text/javascript">
+
 jQuery(document).ready(function ($) {
-    $('#TECROTabs').tabify();
+	jQuery(".leading-0").removeClass('clearfix');
+	jQuery(".leading-1").removeClass('clearfix');
 
     jQuery(".testURL").attr('placeholder', 'Type in a URL to try it out');
+
 
     jQuery(".tryITFREE").die('click').live('click', function(e){
         jQuery('#test_create').trigger('submit');
         return false;
     });
-    
+   
+
     jQuery('#test_create').die('submit').live('submit', function(e){
          if(!checkWebsiteUrl(jQuery(".testURL").val())){
              bootbox.alert('<div class="alert alert-error"><h4>Error!</h4>Please enter a valid website url. e.g: http://www.google.com</div>', function() {
-              jQuery(".tryITFREE").focus();
+             	jQuery(".tryITFREE").focus();
              });
             return false;
-         }
-         
+         }         
+
          return true;
     });
 
     jQuery('.carousel').carousel({
       interval: 2000
     });
+
 
     jQuery("#CRO a").die('click').live('click', function(e){
         window.location.href = "http://www.invesp.com/ppc_lp/request.php";
@@ -94,6 +107,7 @@ jQuery(document).ready(function ($) {
     });
 });
 
+
 function checkWebsiteUrl(){
     var RegExp1 = /^(ht|f)tps?:\/\/[a-z0-9-\.]+\.[a-z]{2,4}\/?([^\s<>\#%"\,\{\}\\|\\\^\[\]`]+)?$/;
     var RegExp2 = /^[a-z0-9-\.]+\.[a-z]{2,4}\/?([^\s<>\#%"\,\{\}\\|\\\^\[\]`]+)?$/;
@@ -101,6 +115,7 @@ function checkWebsiteUrl(){
 
     var url = checkWebsiteUrl.arguments[0];
     var isMatched = false;
+
 
     if(!RegExp1.test(url)){
         if(!RegExp2.test(url)){
@@ -116,66 +131,87 @@ function checkWebsiteUrl(){
 
     return isMatched;
 }
+
 </script>
 
+
+
+
+
+
+
+
+
 <style type="text/css">
-#mainCont{margin-top: 115px !important;}
+
+body{background:none !important;}
+
+#contentCont {margin: 20px auto !important;}
+
 </style>
 
 
-<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_GB/all.js"></script></head>
-
-<body class="site com_content view-article no-layout no-task itemid-130">
-      <div id="fb-root"></div><script type="text/javascript">
-
-      // Load the SDK Asynchronously
-      (function(d){
-      var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
-      js = d.createElement('script'); js.id = id; js.async = true;
-      js.src = '//connect.facebook.net/en_GB/all.js';
-      d.getElementsByTagName('head')[0].appendChild(js);
-    }(document));
-
-    </script>
-<div id="header" class="navbar-fixed-top">
- <div id="topBar">
-
-                            
-
-<div class="custom_topbar">
-	<a class="homepageSprite facebook" href="http://www.facebook.com/invesp">Facebook</a><a class="homepageSprite twitter" href="http://twitter.com/Invesp">Twitter</a></div>
-<ul class="nav menu_topbarlink" id="topbarlink">
-<li class="item-115"><a class="contact_top" href="http://www.invesp.com/ppc_lp/request.php">Contact</a></li></ul>
 
 
-<div class="custom_topbar">
-	<div class="homepageSprite contactNumber">+1 800 421 7393</div></div>
 
-                       
+
+
+</head>
+
+
+
+<body>
+
+
+<div id="headerCont">
+
+ <div id="topNavLogo">
+
+   <div id="topNavLogoCont">
+
+     <a href="http://www.invesp.com/" id="invespLogo">Invesp - more conversions</a>
+
      
- </div>
 
- <div id="logoMenuCont">
-  <h1><a href="http://invesp.com/">invesp - more conversions</a></h1>
+     <div id="menuh-container">
 
-
-        <div id="topNavigation">
-            		<div class="moduletable_topmenu">
-					<ul class="nav menu_toplink" id="mainMenu">
-<li class="item-103 deeper parent"><a href="/about-us.html">About</a><ul class="nav-child unstyled small"><li class="item-104"><a href="http://www.invesp.com/our-clients.html">Our Clients</a></li><li class="item-105"><a href="http://www.invesp.com/privacy-policy.html">Privacy Policy</a></li><li class="item-106"><a href="http://www.invesp.com/refund-policy.html">Refund Policy</a></li></ul></li><li class="item-107"><a href="http://pii.invesp.com/">Software</a></li><li class="item-217 divider deeper parent"><span class="separator">Pricing</span>
-<ul class="nav-child unstyled small"><li class="item-218"><a href="http://www.invesp.com/pricing.html">Pii Testing Engine Pricing</a></li><li class="item-219"><a href="http://www.invesp.com/ppc_lp/request.php">Pii Conversion Optimization Pricing</a></li></ul></li><li class="item-108"><a href="/services.html">Services</a></li><li class="item-109"><a href="http://www.invesp.com/blog">Blog</a></li><li class="item-110"><a href="/research.html">Research</a></li><li class="item-111 deeper parent"><a href="http://newsroom.invesp.com/">Newsroom</a><ul class="nav-child unstyled small"><li class="item-112"><a href="http://newsroom.invesp.com/">Press</a></li><li class="item-113"><a href="http://newsroom.invesp.com/speaking.html">Speaking</a></li></ul></li><li class="item-114 deeper parent"><a href="/tools/landing-page-relavancy">Tools</a><ul class="nav-child unstyled small"><li class="item-194"><a href="/tools/landing-page-relavancy">Landing Page Relavancy</a></li><li class="item-222"><a href="http://www.invesp.com/blog-rank">Blog Rank</a></li></ul></li></ul>
-		</div>
+     	
+	          		<div class="moduletable_topmenu">
+					<ul><li class="item-103 deeper parent"><a class="top_parent" href="/about-us.html">About</a><ul class="nav-child unstyled small"><li class="item-104"><a href="http://www.invesp.com/our-clients.html">Our Clients</a></li><li class="item-105"><a href="http://www.invesp.com/privacy-policy.html">Privacy Policy</a></li><li class="item-106"><a href="http://www.invesp.com/refund-policy.html">Refund Policy</a></li></ul></li></ul><ul><li class="item-107"><a href="http://pii.invesp.com/">Software</a></li></ul><ul><li class="item-217 divider deeper parent"><a href="#" class="top_parent">Pricing</a>
+<ul class="nav-child unstyled small"><li class="item-218"><a href="http://www.invesp.com/pricing.html">Pii Testing Engine Pricing</a></li><li class="item-219"><a href="http://www.invesp.com/ppc_lp/request.php">Pii Conversion Optimization Pricing</a></li></ul></li></ul><ul><li class="item-108"><a href="/services.html">Services</a></li></ul><ul><li class="item-109"><a href="http://www.invesp.com/blog">Blog</a></li></ul><ul><li class="item-110"><a href="/research.html">Research</a></li></ul><ul><li class="item-114 deeper parent"><a class="top_parent" href="/tools/landing-page-relavancy">Tools</a><ul class="nav-child unstyled small"><li class="item-194"><a href="/tools/landing-page-relavancy">Landing Page Relavancy</a></li><li class="item-222"><a href="http://www.blogmetrics.org/">Blog Rank</a></li></ul></li></ul>		</div>
 	
-    </div>
-    
+
+	    
+    </div>	<!-- end the menuh div -->
+
+     
+
+   </div>
+
+
+
  </div>
+
+ 	
+	
+	
+
+
 </div>
 
 
-<div id="twoColCont">
-    <div id="mainCont" class="container one_cols_full">
-        <div class="row"><div class="item-page">
-								
+
+<div id="contentCont">
+
+  <div class="one_cols_full">
+
+	   <div class="colLeft">
+
+	   		<div class="leftColPadding"><div class="item-page">
+							
+	
+			
+			
 		
 								<h1>Invesp Privacy Policy</h1>
 <p>This privacy policy sets out how Invesp uses and protects any information that you give Invesp when you use this website or register to use any of the websites or services operated by Invesp.</p>
@@ -204,13 +240,23 @@ function checkWebsiteUrl(){
 <p>If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.</p> 
 	
 						 </div>
+</div>    
+
+	   </div>
+
+	   
+
+	   
+   </div>
+
+
+
+  
+
+  
+
+
 </div>
-
-        
-        <p class="clearfix"></p>
-    </div>
-
-    </div>
 
 
 <div class="fotoer">
@@ -222,12 +268,12 @@ function checkWebsiteUrl(){
 			
 
 <div class="custom_contact">
-	<div class="callEmailCont"><img src="/templates/invesp/images/call.png" alt="call" width="53" height="53">
+	<div class="callEmailCont"><img src="/images/call.png" alt="call" width="53" height="53">
 <h2>+1 800 421 7393</h2>
 <p>Schedule a Demo Today</p>
 </div>
 <!-- <div class="callEmailCont"></div> --></div>
-		
+
 		</div>
 
 	
@@ -237,43 +283,39 @@ function checkWebsiteUrl(){
      <div id="footerLinksCont">
      		<div class="moduletable_bottombar footerLinks">
 
-					<h2 class="">Our Products</h2>
+					<h2>Our Products</h2>
 		
 			<ul class="nav menu">
 <li class="item-118"><a href="/pricing.html">Pricing</a></li><li class="item-119"><a href="http://pii.invesp.com/index.php/testengine/ve/register">Free Trial Signup</a></li></ul>
-		
 		</div>
 
 			<div class="moduletable_bottombar footerLinks">
 
-					<h2 class="">Useful Links</h2>
+					<h2>Useful Links</h2>
 		
 			<ul class="nav menu">
 <li class="item-121"><a href="/our-clients.html">Customers List</a></li><li class="item-123"><a href="http://www.invesp.com/blog">Blog</a></li></ul>
-		
 		</div>
 
 			<div class="moduletable_bottombar footerLinks footerLinksOptimization">
 
-					<h2 class="">Optimization</h2>
+					<h2>Optimization</h2>
 		
 			<ul class="nav menu">
 <li class="item-124"><a href="/marketing-services/conversion-services.html">Conversion Optimization</a></li><li class="item-125"><a href="/marketing-services/conversion-rate-optimization.html">Conversion Rate Optimization</a></li><li class="item-126"><a href="/marketing-services/landing-page-creation-optimization.html">Landing Page Optimization</a></li></ul>
-		
 		</div>
 
 			<div class="moduletable_bottombar footerLinks">
 
-					<h2 class="">Help / Support</h2>
+					<h2>Help / Support</h2>
 		
 			<ul class="nav menu">
 <li class="item-127"><a href="http://pii.invesp.com/knowledgebase/">Knowledgebase</a></li><li class="item-128"><a href="http://www.invesp.com/ppc_lp/request.php">Contact Us</a></li></ul>
-		
 		</div>
 
 			<div class="moduletable_bottombar footerLinks footerLinksLast">
 
-					<h2 class="">Find Us</h2>
+					<h2>Find Us</h2>
 		
 			
 
@@ -281,7 +323,7 @@ function checkWebsiteUrl(){
 	<ul>
 <li><a class="homepageSprite twitterBottom" href="http://twitter.com/Invesp">Twitter</a> <a class="homepageSprite facebookBottom" href="http://www.facebook.com/invesp">facebook</a></li>
 </ul></div>
-		
+
 		</div>
 
 	
@@ -289,17 +331,33 @@ function checkWebsiteUrl(){
  
 
  <div id="footerCopyright">
-  © 2006-2013 All rights reserved. Invesp
+  © 2006-2014 All rights reserved. Invesp
   <div id="PrivacyCopyCont">
         		<div class="moduletable_footerMenu">
 
 		
 			<ul class="nav menu_footerMenu" id="footerMenu">
 <li class="item-131"><a href="/refund-policy.html">Refund Policy</a></li><li class="item-130 current active"><a href="/privacy-policy.html">Privacy Policy</a></li></ul>
-		
 		</div>
 
 	
+
+<div class="custom">
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1248912-1']);
+  _gaq.push(['_setDomainName', 'invesp.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></div>
+
      </div>
  </div>
 
@@ -328,6 +386,7 @@ jQuery(function($) {
     });
 });
 </script>
+
 
 
 </body></html>
