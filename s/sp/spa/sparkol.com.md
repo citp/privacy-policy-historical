@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparkol.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012123735id_/http%3A//www.sparkol.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkol.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209070300id_/http%3A//www.sparkol.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sparkol VideoScribe
 
