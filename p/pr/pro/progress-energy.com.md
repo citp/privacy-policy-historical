@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the progress-energy.com privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914161026id_/https%3A//www.progress-energy.com/shared/privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the progress-energy.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209042244id_/https%3A//www.progress-energy.com/shared/privacy.page) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -114,7 +114,7 @@ Some state statutes, and certain state utility commissions with regulatory overs
 
 The statutes or applicable codes of conduct may be found here:
 
-  * [North Carolina and South Carolina](http://www.duke-energy.com/pdfs/NC_Code_of_Conduct_09-27-07.pdf)
+  * [North Carolina and South Carolina](http://www.duke-energy.com/pdfs/NC_Code_of_Conduct_07-02-2012.pdf)
   * [Ohio](http://codes.ohio.gov/orc/4928.17)
   * [Kentucky](http://www.lrc.ky.gov/KRS/278-00/2213.PDF) 
   * [Indiana](http://www.duke-energy.com/pdfs/DE-IN-Affiliate-Standards.pdf)
