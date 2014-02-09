@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tatacard.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818022509id_/https%3A//www.tatacard.com/header_footer_pages/privacy_policy_0_121412.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatacard.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209085910id_/https%3A//www.tatacard.com/header_footer_pages/privacy_policy_0_121412.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
