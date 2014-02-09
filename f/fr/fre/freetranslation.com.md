@@ -1,58 +1,59 @@
-> *The following text is extracted and transformed from the freetranslation.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531155114id_/http%3A//freetranslation.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetranslation.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209031830id_/http%3A//www.freetranslation.com/en/privacy) for the most accurate reproduction.*
 
-# FreeTranslation.com - Privacy Policy
+# Free Translation and Professional Translation Services from SDL
 
-**Our Commitments to You**
+Click to Print This Page
 
-SDL plc respects and protects the privacy of the individuals that use our websites. Individually identifiable information about you is not willfully disclosed to any third party without first receiving your permission, as explained in this privacy policy ("Privacy Policy").
+The following privacy policy provides you with clear information about what data SDL Freetranslation.com gathers and how it will be used. We believe that SDL currently has policies in place which conform to privacy regulations in various regions outside the U.S. This policy is intended to supplement, not replace, those policies.
 
-You are in control of the personal information you provide online to SDL plc. You can:
+Further investigation for specific regions outside the U.S. may be required. If you have entered into an agreement to use our services, the terms of that agreement govern the use and disclosure of the information and materials you submit to us through those services. The agreement prevails in the event of any inconsistencies between the agreement and the following policy.
 
-  1. Ask for a copy of your personal information.
+The SDL plc privacy policy, located [here](http://www.sdl.com/aboutus/privacypolicy.html), describes how SDL uses your information when you use SDL’s websites, products, and services. This SDL Freetranslation.com privacy policy describes practices specific to the SDL Freetranslation.com website and service.
 
-  2. Ask for your personal information to be corrected or updated.
+Information SDL collects when you use Freetranslation.com.
 
-  3. Ask us to remove your personal information from our records.
+  * Personal information you provide:
+    * SDL plc will collect information required for creating an account to use the Freetranslation.com service and payment information, such as your name, email address, mailing address, telephone number, credit card number etc.
+
+
+  * PersonalAnonymous Information:
+    * Anonymous information does not personally identify you. It may be voluntarily provided or automatically collected, including log information, browser and device information, information gathered by cookies, general statistical information, etc.
+
+
+  * PersonalOrder content:
+    * SDL plc may also collect information submitted or generated as part of an order, such as source material, corresponding translations, or other similar information.
 
 
 
+How SDL plc may use the information.
 
-To do this, please contact us at the email address listed at the bottom of this statement. SDL plc will use reasonable efforts to provide that information to you.
+  * To personalize your experience.
+    * The personalization may include delivering content targeted to your interests, such as targeted banners, new services, and promotions.
 
-This Website contains links to other sites that are outside of SDL plc's control. These sites may have their own policy regarding privacy and you are encouraged to read their Privacy Policy.
 
-**Information Sharing and Disclosure**
+  * To process your transactions and orders.
 
-SDL plc will not sell or rent your personal information to anyone.
 
-We may share personal information collected on the Website with our partners and third parties but only with your consent, which can be granted in the form of an opt-out at the points where personal information is collected.
+  * For contact and notification.
+    * This may include sending newsletters, marketing or other promotional materials.
 
-We may disclose personal information when required by law or if in good faith we believe that such action is necessary in order to conform to the requirements of law or comply with legal process served on the Website.
 
-**Personal Information**
+  * Auditing and conflict resolution.
+    * This may include contacting users in connection with inappropriate use of SDL products and services, non-compliance with any Terms and Conditions of use, or in connection with a complaint filed by another user.
 
-Personal information is information such as your name, birth date, email or mailing address that can be used to uniquely identify you.
 
-You can access any SDL Website and browse it without providing your personal information. However in order to participate in some of the activities available, or to benefit from services offered on the Website, a user must provide personal information (including, but not limited to, your name, address, telephone number, email address, and credit card number if you place an order with us).
+  * For developing, operating and improving SDL’s products and services.
 
-When you purchase a product or service, SDL plc will collect credit card information for invoicing purposes. This information is processed for SDL plc by a third party partner. That third party and SDL plc use security techniques, including encryption and secure servers, to protect against any unauthorized access to transmitted information used for invoicing purposes. Neither SDL plc nor our third party partner stores, uses, or shares, credit card information for any other purpose.
 
-Personal information collected on this Website is used primarily for the purpose it is requested. In particular, contact information such as name and email addresses is used to provide users with the services they have chosen on this Website, such as, for example, the provision of newsletters.
+  * If you wish to opt out of providing SDL with information, please send your opt out request to freetranslation_support@sdl.com. However, please remember that some information is required to participate in the available activities or benefit from the offered services.
 
-We may use personal information collected to contact users in connection with their inappropriate use of this Website, non-compliance with any Terms and Conditions of Use, or in connection with a complaint filed by another user.
 
-**Anonymous Information**
 
-SDL plc may collect certain aggregate data called web log information (such as your web browser, operating system, pages visited, etc.) and use cookies (see below) when you visit any of our web pages. For instance, when you visit one of our websites, our web server will automatically recognize some non-personal information, including but not limited to the date and time you visited our site, the pages you visited, the referrer (the website you came from), the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using (e.g., Windows '95 or Mac OS), and the domain name and address of your Internet service provider (e.g., America Online, Earthlink).
+Security
 
-A "cookie" is a small text file, stored by your browser on your computer's hard drive, which can be read by our system when you return to our site. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that if you wish. Whilst SDL plc uses cookies to track your visit to our site, this information does not identify you personally and you remain anonymous unless you provide SDL plc with personal information.
+  * SDL will take reasonable efforts to safeguard your information from unauthorized access.
+  * SDL may provide access to your information if SDL plc has a good faith belief that disclosure is reasonably necessary to (1) comply with any applicable law, regulation, or legal process, (2) detect or prevent fraud, and (3) to address security or technical issues.
 
-In some cases we may also collect information about you that you voluntarily submit and which is not personal, such as general statistical information like age, gender, household size, zip/postal code, preferences and interests.
 
-**Use of the Personal Information**
 
-We may use your personal information to contact you. For example, we may send you marketing or promotional materials including emails or other information; we may respond to your comments or requests for information; or we may contact you, if needed, in the course of processing or shipping your order for products or services offered through our websites. We may also enhance or merge personal information with data obtained from third parties for the same purposes.
-
-We also use personal information about you to improve our marketing and promotional efforts; to statistically analyze site usage; to improve our content and product offerings; and to customize our sites' content, layout and services. We may also use your information to deliver information to you that, in some cases, is targeted to your interests, such as targeted banners, new services and promotions. We believe these uses allow us to improve our site and better tailor it to meet our visitors' needs. SDL plc does not collect personal information automatically, but we may combine non-personal information collected automatically (e.g., through cookies) with your previously submitted personal information.
-
-SDL plc occasionally sends visitors emails describing new products, promotions or events. These services are optional and you may request to opt-out of these services completely, at any time. We will only store your personal information for a reasonable period of time.
+Our privacy policy may change over time. We will post any privacy policy changes on this page. Our privacy practices are described in the full privacy policy located [here](http://www.sdl.com/aboutus/privacypolicy.html).
