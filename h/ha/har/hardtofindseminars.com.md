@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardtofindseminars.com privacy policy that was archived on 2013-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130728005641id_/http%3A//www.hardtofindseminars.com/PrivacyPolicyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardtofindseminars.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209044230id_/http%3A//www.hardtofindseminars.com/PrivacyPolicyStatement.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement LAST UPDATED July 23rd, 2005
 
@@ -63,19 +63,19 @@
 > You may also mail your concerns to us at the following address:
 > 
 > JS&M Sales & Marketing Inc.  
->  3675 South Rainbow Blvd. #107-534  
->  Las Vegas, NV 89103-1059  
->  USA
+>  4978 Gaylord Drive  
+>  San Diego, CA 92117  
+>  USA 
 > 
 > **CALIFORNIA PRIVACY RIGHTS**
 > 
 > If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to michael[at]michaelsenoff.com or write us at the following address:
 > 
 > JS&M Sales & Marketing Inc.  
->  3675 South Rainbow Blvd. #107-534  
->  Las Vegas, NV 89103-1059  
+>  4978 Gaylord Drive  
+>  San Diego, CA 92117  
 >  USA
 > 
-> **This privacy policy was last updated on 04-19-2011.**
+> **This privacy policy was last updated on 01-01-2014.**
 > 
 > Copyright © 2008-2009  Michael Young PLLC, and licensed for use by the owner of this website at www.hardtofindseminars.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
