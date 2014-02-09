@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the pcpowerspeed.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028203630id_/http%3A//www.pcpowerspeed.com/Legal/Privacy.aspx%3Flng%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcpowerspeed.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209185738id_/http%3A//www.pcpowerspeed.com/Legal/Privacy.aspx) for the most accurate reproduction.*
 
 # PCPowerSpeed.com
 
-PCRx Privacy Policy  
-24x7Help Privacy Policy  
+PC Power Speed Privacy Policy  
+PC Tech Hotline Privacy Policy  
 
 
-## PCRx - Privacy Policy
+## PC Power Speed - Privacy Policy
 
 We take your privacy seriously. Please read our privacy policy carefully to learn more.
 
@@ -42,7 +42,7 @@ If you specifically allow us to access your social network user data such as you
 
 **_Server Logs._** Our servers automatically record information that your browser sends and the Uniform Resource Locator ("URL") of the web page from which you came to us whenever you visit our websites. These server logs may include information such as your Internet Protocol ("IP") address, browser type, browser language, date and time of your request, search terms and may include a domain name and the date and time for each page you view. We also collect the name of and information about any advertisement or other link that brought you to us. This information does not personally identify you. We use IP addresses to diagnose problems with our servers and to administer our website. Your IP address also is used by us to gather broad demographic information, such as your general geographic location and internet service provider. IP addresses are further used to help determine the number of our users to maintain efficient administration of our Services. This demographic information may also be used by us to analyze aggregate usage behavior.
 
-**_Cookies._** “Cookies” are small files that collect information that we use to track trends and patterns of how people search. We may send one or more cookies to your computer that uniquely identifies your user account or computer. We use cookies for such functions as verifying that you are one of our users, maintaining a history of services provided and enabling the fulfillment of our Services. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, many of our Services or features may not function properly if your receipt of cookies is disabled.
+**_Cookies._** "Cookies" are small files that collect information that we use to track trends and patterns of how people search. We may send one or more cookies to your computer that uniquely identifies your user account or computer. We use cookies for such functions as verifying that you are one of our users, maintaining a history of services provided and enabling the fulfillment of our Services. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, many of our Services or features may not function properly if your receipt of cookies is disabled.
 
 **Use of Remarketing with Google Analytics™.** We collect and use cookies to enable basic web traffic analysis using Google Analytics™ to capture information about page visits (showing us which areas of the website are popular and those that are not often visited, this allows us to prioritize our enhancements to our website). This information is anonymous and we use this information only internally - to deliver the most effective content to our visitors. We use analytics data to serve ads based on a user's prior visits to our websites. Website visitors may opt out of the Google Analytics™ cookie by visiting the [Google® advertising opt-out page](http://www.google.com/privacy_ads.html) or they may opt out of Google Analytics™ by visiting the [Google Analytics™ opt-out page](http://tools.google.com/dlpage/gaoptout). Google® has additional information available about their [Remarketing Privacy Guidelines](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=100746), [Policies](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=143465), and [Restrictions](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=178363).
 
@@ -65,7 +65,7 @@ If you specifically allow us to access your social network user data such as you
   * Advertising Research - non-personally identifiable data, which includes web use and demographic information, may be shared anonymously with third parties so they can understand if and how their advertising spending impacts the consumer journey and consumer decisions.
   * Media Use Analysis - non-personally identifiable data may be shared anonymously with clients so they can understand where consumers go online and how consumers interact with digital media which includes website content and advertising that is seen through web and mobile browsers.
   * Profile Building - third parties may use the data we have collected, either explicitly provided or collected from online behaviors, to obtain additional information from other public and private data sources. These third party data sources may provide information on the types of purchases relative to household and lifestyle information, and broader demographic details. We or third parties may then use the combined data to create non-personally identifiable profiles that are shared as consumer segments.
-  * Addressable Marketing Segments - we may use non-personally identifiable data to identify certain consumer segments reachable with advertising. 
+  * Addressable Marketing Segments - we may use non-personally identifiable data to identify certain consumer segments reachable with advertising.
 
 
 
@@ -88,7 +88,7 @@ We understand and respect that people have different privacy concerns. Our goal 
   * Cancel your account at any time;
   * You can decline to submit requested information, however, it's important to understand that the Services may not function properly or we may not be able to provide the requested service to you;
   * You can uninstall the software at any time and discontinue use of our Services;
-  * Control what information you post in public profiles and who you share information with; 
+  * Control what information you post in public profiles and who you share information with;
   * Set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it's important to remember that many of our services may not function properly if your cookies are disabled. For example, we may not remember your language preferences.
 
 
@@ -102,7 +102,7 @@ This Privacy Policy may change from time to time. You are responsible for period
   
 
 
-## 24x7Help - Privacy Policy
+## PC Tech Hotline - Privacy Policy
 
 We take your privacy seriously. Please read our privacy policy carefully to learn more.
 
@@ -122,7 +122,7 @@ We collect information in different ways:
 
 **Information You Voluntarily Provide.** Personally identifiable information you voluntarily provide is collected if it is necessary to administer the Services.
 
-For example, when you sign up for an account or other Services that require registration or payment, we ask you for personal information such as your name, address, billing information, account name or password. We DO NOT use your personally identifiable information other than to administer the Services. We may combine the information you submit under your account with information from other services or third parties in order to provide you with a better experience and to improve the quality of our Services. If payment is required for the Services you have selected, we request credit card or other payment or billing information, which we maintain in encrypted form on secure servers.
+For example, when you sign up for an account or other Services that require registration or payment, we ask you for personal information such as your name, address, billing information, account name or password. We DO NOT use your personally identifiable information other than for the primary purpose of to administer the Services you have selected. We may combine the information you submit under your account with information from other services or third parties in order to provide you with a better experience and to improve the quality of our Services. If payment is required for the Services you have selected, we request credit card or other payment or billing information, which we maintain in encrypted form on secure servers.
 
 The information voluntarily provided by you during the registration process may also include or naturally entail other demographic information, such as gender, preferred language, age, occupation, household income, ZIP code or country. This information does not personally identify you.
 
@@ -183,7 +183,7 @@ We understand and respect that people have different privacy concerns. Our goal 
 
   * Cancel your account at any time;
   * You can decline to submit requested information, however, it's important to understand that the Services may not function properly or we may not be able to provide the requested service to you;
-  * You can uninstall our software at any time and discontinue use of our Services;
+  * You can uninstall the software at any time and discontinue use of our Services;
   * Control what information you post in public profiles and who you share information with;
   * Set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it's important to remember that many of our services may not function properly if your cookies are disabled. For example, we may not remember your language preferences.
 
@@ -193,6 +193,6 @@ If we propose to use personal information for any purposes other than those desc
 
 ### 6\. Changes to this Privacy Policy
 
-This Privacy Policy may change from time to time. You are responsible for periodically reviewing this Privacy Policy for any applicable changes.
+This Privacy Policy may change from time to time and an updated Privacy Policy will be available and accessible on our website. You are responsible for periodically reviewing this Privacy Policy for any applicable changes.
 
-**Last Updated:** August 20, 2013
+**Last Updated:** January 29, 2014
