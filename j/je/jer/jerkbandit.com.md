@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jerkbandit.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819174834id_/http%3A//www.jerkbandit.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jerkbandit.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209113654id_/http%3A//www.jerkbandit.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Jerkbandit.com
 
