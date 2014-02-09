@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soccer-picks.org privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613030439id_/http%3A//soccer-picks.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccer-picks.org privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209093222id_/http%3A//soccer-picks.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy of Soccer-Picks paid soccer tips services Football picks
 
@@ -24,13 +24,18 @@ If you have any questions about this Policy or our web site, please feel free to
 
 By using our web site, you consent to our collection and use of your personal data for the purposes set out above. In the event that we decide to change our privacy policy we will post such changes on this page in order that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. 
 
+[](http://imstore.365sbaffiliates.com/Tracker.aspx?AffiliateId=31937&AffiliateCode=GM_00007271&CID=165&DID=27&TID=1&PID=148&LNG=1)
+
+  
+
+
 ### Useful information
 
 [How to buy](http://soccer-picks.org/how-to-buy.php)
 
  soccer pick - 25 $   
  monthly subscription - 190 $   
- fixed tip - 170 $   
+ SUPER tip - 170 $   
  tipster's tip - 99 $   
  7 tipster's tips - 399 $   
  20 tipster's tips - 899 $ 
@@ -47,7 +52,7 @@ By using our web site, you consent to our collection and use of your personal da
 
 [What is Soccer Pick](http://soccer-picks.org/what-is-soccer-pick.php) \- definitions and strategy 
 
-[What is Fixed Tip](http://soccer-picks.org/what-is-fixed-tip.php) \- guarantees and some useful info 
+[What is SUPER Tip](http://soccer-picks.org/what-is-fixed-tip.php) \- guarantees and some useful info 
 
 [What is Soccer Tip](http://soccer-picks.org/what-is-soccer-tip.php) \- prediction of tipsters 
 
@@ -61,4 +66,4 @@ By using our web site, you consent to our collection and use of your personal da
 
 Soccer live score  
 Enjoy our livescore service comprise all world leagues EPL,Seria A,Primera division, Bundesliga, Scotland, France, World Cup, Champions League.   
-[Reviews](http://soccer-picks.org/statii.php), [Analysis](http://soccer-picks.org/statii.php?art=833), [Bookmakers](http://soccer-picks.org/statii.php?id=165), [Interviews](http://soccer-picks.org/statii.php?id=81), [Statistics](http://soccer-picks.org/statii.php?id=78), [Information](http://soccer-picks.org/next-matches.php?id=66&sort=0) etc. 
+[Reviews](http://soccer-picks.org/statii.php), [Analysis](http://soccer-picks.org/statii.php?art=833), [Bookmakers](http://soccer-picks.org/statii.php?id=165), [Interviews](http://soccer-picks.org/statii.php?id=81), [Statistics](http://soccer-picks.org/statii.php?id=78), [Information](http://soccer-picks.org/next-matches.php?id=66&sort=0), [Free predictions](http://free.soccer-picks.org/), [Free soccer tips](http://free2.soccer-picks.org/) [sport picks](http://www.sporttips.org/) etc. 
