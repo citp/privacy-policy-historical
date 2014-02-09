@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opinionworld.co.uk privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112081938id_/http%3A//www.opinionworld.co.uk/en-GB/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opinionworld.co.uk privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209193218id_/https%3A//www.opinionworld.co.uk/en-gb/policies/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -44,7 +44,7 @@ In connection with SSI's online ad effectiveness programme, you can participate 
 
 **If you live outside of the EU and you have not previously agreed to participate in the Online Ad Effectiveness Programme, as of the Effective Date of this Privacy Policy, you hereby consent to participate. If you wish to opt-out, please follow the opt-out process and procedures here.**
 
-_Cookies_ : SSI values your privacy. Below please find a list of the cookies set or deployed by SSI and/or its partners, clients and/or subcontractors in connection with the Services. For certain cookies no opt-out mechanism is provided. For the cookies with an opt-out mechanism, you can opt-out by clicking on the link provided below or by going to the appropriate website and following the opt-out instructions. 
+Cookies: SSI values your privacy. Below please find a list of the cookies set or deployed by SSI and/or its partners, clients and/or subcontractors in connection with the Services. For certain cookies no opt-out mechanism is provided. For the cookies with an opt-out mechanism, you can opt-out by clicking on the link provided below or by going to the appropriate website and following the opt-out instructions. 
 
 **A. Essential Cookies:**
 
@@ -191,7 +191,7 @@ Pursuant to the Safe Harbour Principles, SSI has further committed to refer unre
 
 Council of Better Business Bureaus, Inc.   
 BBB EU Safe Harbor   
-[www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20131112081938id_/http%3A//www.opinionworld.co.uk/en-GB/policies/www.bbb.org/us/safe-harbor-complaints)
+[www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/european-dispute-resolution/consumer/)
 
 **Are there any companies within the SSI Group located in the EU that may collect, store and process PII?**
 
