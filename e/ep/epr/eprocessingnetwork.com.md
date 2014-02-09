@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eprocessingnetwork.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005014705id_/http%3A//www.eprocessingnetwork.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eprocessingnetwork.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209151104id_/http%3A//www.eprocessingnetwork.com/privacy_policy.html) for the most accurate reproduction.*
 
 # eProcessing Network | The Everywhere Processing Network™
 
@@ -11,7 +11,7 @@ Personal information is data that can be used to uniquely identify or contact a 
 **What personal information we collect:**  
 
 
-  * When you create an eProcessing Network (ePN) ID, you are registering your merchant account on the ePN secure payment processing network and the ePNSecure Mobile app. The information we collect includes your name, mailing address, phone number, email address, contact preferences, merchant processing ID and banking information for billing purposes.
+  * When you create an eProcessing Network (ePN) ID, you are securely registering your merchant account on the ePN secure payment processing network or with the ePNMobile app. The information we collect includes your name, mailing address, phone number, email address, contact preferences, merchant processing ID and banking information for billing purposes.
 
 
 
@@ -19,7 +19,7 @@ Personal information is data that can be used to uniquely identify or contact a 
 
   * The personal information we collect allows us to keep you posted on eProcessing Network’s latest product announcements and software updates.
   * From time to time, we may use your personal information to send important notices, such as communications about our network security, software enhancements and updates, and changes to our terms, conditions, and policies. Because this information is important to your interaction with eProcessing Network, you may not opt out of receiving these communications.
-  * We may also use personal information for internal purposes such as auditing, data analysis, and research to improve Apple’s products, services, and customer communications.
+  * We may also use personal information for internal purposes such as auditing, data analysis, and research to improve products, services, and customer communications.
 
 
 
@@ -27,7 +27,7 @@ Personal information is data that can be used to uniquely identify or contact a 
 
 We also collect non-personal information − data in a form that does not permit direct association with any specific individual. We may collect and use non-personal information for any purpose. The following are some examples of non-personal information that we collect and how we may use it:
 
-  * We may collect information such as transaction types and volume, SIC or MCC codes, zip code, or unique device identifiers, location, and the time zone where transactions are sent from when payment transactions are sent to eProcessing Network’s secure payment network 
+  * We may collect information such as transaction types and volume, SIC or MCC codes, zip code, or unique device identifiers, location, and the time zone where transactions are sent from when payment transactions are sent to eProcessing Network’s secure payment network. 
 
 
 
@@ -88,4 +88,4 @@ eProcessing Network
 Suite 1185  
 Houston, TX 77008
 
-Last updated: January 11, 2013
+Last updated: January 14, 2014
