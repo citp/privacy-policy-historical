@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memory-improvement-tips.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230030756id_/http%3A//www.memory-improvement-tips.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memory-improvement-tips.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210001927id_/http%3A//www.memory-improvement-tips.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Memory-Improvement-Tips.com's Privacy Policy
 
