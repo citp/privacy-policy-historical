@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vacationoutlet.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815144509id_/http%3A//www.vacationoutlet.com/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationoutlet.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209044032id_/http%3A//www.vacationoutlet.com/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,4 +20,4 @@ If you have any questions or concerns, please feel free to email [our customer s
   
 Vacation Outlet is your premier online destination for dream vacations and cruise getaways.  
 Choose your trip from thousands of discount travel packages and last-minute deals from the world's best resorts, hotels, and cruise lines.  
-© 2013 Vacation Outlet is a registered trademark of WTH/NLG. All rights reserved. [Seller of Travel Info](http://www.vacationoutlet.com/selleroftravel.do)
+© 2014 Vacation Outlet is a registered trademark of WTH/NLG. All rights reserved. [Seller of Travel Info](http://www.vacationoutlet.com/selleroftravel.do)
