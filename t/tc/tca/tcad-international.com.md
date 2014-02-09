@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcad-international.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507095609id_/http%3A//tcad-international.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcad-international.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209040845id_/http%3A//www.tcad-international.com/privacy_policy.html) for the most accurate reproduction.*
 
 # TCAD International Web Directory - Privacy Policy
 
