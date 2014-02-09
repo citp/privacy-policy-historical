@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the celebtv.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226092818id_/http%3A//www.celebtv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebtv.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209142436id_/http%3A//www.celebtv.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Celebrity News | Style | Red Carpets | Movies | Couples | CelebTV Celebrity News | Style | Red Carpets | Movies | Couples | CelebTV
+# Privacy Policy - Celebrity | Style | Family | Music | Home | Fit | Studio | Sports | Gadgets | Teen | Latino
 
 ## Privacy Policy
 
@@ -18,7 +18,7 @@ If we collect your name or other Personal Information from you (whether online o
 
 **Information We May Collect**
 
-Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address, a phone number, and/or an email address . In general, you can visit the Site without telling us who you are or revealing any Personal Information about yourself. However, in order to access certain information, services or features that may be contained on the Site, we may require you to provide Personal Information as described above. For example, we will collect certain Personal Information if you choose to subscribe to a mailing list, register for an account, participate in special offers, sweepstakes or other promotions, sign up for our chat rooms, message boards or blogs, or send questions or comments to us via e-mail.
+Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a [home](http://www.celebtv.com/c/topics/home "home") or other physical address, a phone number, and/or an email address . In general, you can visit the Site without telling us who you are or revealing any Personal Information about yourself. However, in order to access certain information, services or features that may be contained on the Site, we may require you to provide Personal Information as described above. For example, we will collect certain Personal Information if you choose to subscribe to a mailing list, register for an account, participate in special offers, sweepstakes or other promotions, sign up for our chat rooms, message boards or blogs, or send questions or comments to us via e-mail.
 
 We may also collect certain demographic information (such as gender, age income, education, profession) and information about your interests and preferences (“preferences information”). In many cases, such demographic and preferences information is optional. In other cases, such as online surveys, we collect this information on an anonymous basis. However, if we link any demographic or preferences information to any Personal Information, then such demographic and preferences information will be treated as Personal Information under this Privacy Policy.
 
@@ -34,7 +34,7 @@ We may sometimes use other businesses to perform certain services for us and fun
 
 In addition, if you have given us permission to share your Personal Information by clicking on the appropriate box or button on the Site, we may make your Personal Information available to our parent or other affiliated companies, or to other third parties who have products or services that we believe will be of interest to you, for their direct marketing purposes. If you later decide that you do not want us to share your Personal Information with these companies for their direct marketing purposes, please e-mail [privacy@celebtv.com](mailto:privacy@celebtv.com). As Intersport develops, we may buy other businesses or their assets or sell our business assets. Customer information is generally one of the business assets involved in such transactions. Thus, in the event that Intersport or all of its assets are acquired, customer information would be one of the transferred assets.
 
-We reserve the right to disclose visitor information in special cases when we have reason to believe that disclosing this information is necessary to identify, [contact](https://www.celebtv.com/contact "contact"), or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other visitors, or anyone else that could be harmed by such activities. We also reserve the right to disclose visitor information when we believe in good faith that the law requires it.
+We reserve the right to disclose visitor information in special cases when we have reason to believe that disclosing this information is necessary to identify, [contact](http://www.celebtv.com/contact "contact"), or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other visitors, or anyone else that could be harmed by such activities. We also reserve the right to disclose visitor information when we believe in good faith that the law requires it.
 
 **Aggregate Information**
 
@@ -66,7 +66,7 @@ The security of your personal information is important to us. We maintain physic
 
 **Updating Your Information**
 
-Any requests that we correct, update, or remove your information in our databases, should be directed via email to [privacy@celebtv.com](mailto:privacy@celebtv.com), or via regular mail to:
+Any requests that we correct, [update](http://www.celebtv.com/c/update "update"), or remove your information in our databases, should be directed via email to [privacy@celebtv.com](mailto:privacy@celebtv.com), or via regular mail to:
 
 CelebTV  
 20 W. Kinzie, Suite 1600  
