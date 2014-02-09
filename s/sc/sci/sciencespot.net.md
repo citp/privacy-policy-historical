@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencespot.net privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227183259id_/http%3A//sciencespot.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencespot.net privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209013915id_/http%3A//sciencespot.net/privacy.html) for the most accurate reproduction.*
 
 # The Science Spot: Google Search Results
 
