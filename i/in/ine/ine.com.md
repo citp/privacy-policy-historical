@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ine.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909072443id_/http%3A//www.ine.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ine.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209041923id_/http%3A//www.ine.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | INE
 
