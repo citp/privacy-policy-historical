@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theparisreview.org privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014163330id_/http%3A//www.theparisreview.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theparisreview.org privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209224604id_/http%3A//www.theparisreview.org/privacy-policy) for the most accurate reproduction.*
 
-# Paris Review – Writers, Quotes, Biography, Interviews, Artists
+# The Paris Review Privacy Policy
 
 ### 1\. Overview
 
@@ -18,7 +18,7 @@ You do not have to provide us with any Personally Identifiable Information to vi
 
 **WHERE AND WHEN INFORMATION IS COLLECTED ON OUR WEBSITE**
 
-We may collect Personally Identifiable Information from you in different manners and at different places on our Website, such as when you subscribe to the Paris Review Newsletter or post a comment to a blog entry on the Website.  In addition, when you purchase a subscription to _The Paris Review_ , purchase any product from our Store, or make a donation on the Website, Personally Identifiable Information is collected by us and by our third party e-commerce partners Shopify.com and Paypal.com. We will collect Personally Identifiable Information from you only if you voluntarily submit such information to us. ** **
+We may collect Personally Identifiable Information from you in different manners and at different places on our Website, such as when you subscribe to the _Paris Review_ Newsletter or post a comment to a blog entry on the Website.  In addition, when you purchase a subscription to _The Paris Review_ , purchase any product from our Store, or make a donation on the Website, Personally Identifiable Information is collected by us and by our third party e-commerce partners Shopify.com and Stripe.com. We will collect Personally Identifiable Information from you only if you voluntarily submit such information to us. ** **
 
 **USE OF INFORMATION THAT WE COLLECT**
 
@@ -44,7 +44,7 @@ Our Website contains links to other websites not owned or operated by the Founda
 
 **IS THE INFORMATION WE COLLECT SECURE?**
 
-We strive to secure transmission of your Personally Identifiable Information from your computer to our servers through industry-standard techniques. To help ensure the integrity and privacy of the Personally Identifiable Information you provide via the Internet at the time you purchase any product or donate online, the above mentioned third party e-commerce partners Shopify.com and Paypal.com provide Secure Socket Layer (“SSL”) digital security. Only employees who need access to your Personally Identifiable Information to perform a specific task or function are granted access to such Personally Identifiable Information. Notwithstanding the foregoing, no employee of the Foundation will have access to your credit card information provided through this Website.  
+We strive to secure transmission of your Personally Identifiable Information from your computer to our servers through industry-standard techniques. To help ensure the integrity and privacy of the Personally Identifiable Information you provide via the Internet at the time you purchase any product or donate online, the above mentioned third party e-commerce partners Shopify.com and Stripe.com provide Secure Socket Layer (“SSL”) digital security. Only employees who need access to your Personally Identifiable Information to perform a specific task or function are granted access to such Personally Identifiable Information. Notwithstanding the foregoing, no employee of the Foundation will have access to your credit card information provided through this Website.  
 
 Notwithstanding the foregoing, you should be aware that there is always some risk involved in transmitting information over the Internet. There is also some risk that others could find a way to thwart our security systems. As a result, while we strive to protect your information, we cannot ensure or warrant the security and privacy of any information you transmit to us, and you do so at your own risk.
 
