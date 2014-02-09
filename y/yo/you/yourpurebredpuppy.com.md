@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourpurebredpuppy.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820130111id_/http%3A//www.yourpurebredpuppy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourpurebredpuppy.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209071529id_/http%3A//www.yourpurebredpuppy.com/privacy.html) for the most accurate reproduction.*
 
 # Your Purebred Puppy - Privacy Policy
 
