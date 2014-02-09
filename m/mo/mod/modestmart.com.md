@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the modestmart.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816012056id_/http%3A//www.modestmart.com/content/6-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modestmart.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209103836id_/http%3A//www.modestmart.com/content/6-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ModestMart
 
 This Privacy Policy governs the manner in which ModestMart Pvt. Ltd. collects, uses, maintains and discloses information collected from users (each, a "User") of the www.ModestMart.com website ("Site"). This privacy policy applies to the Site and all products and services offered by ModestMart Pvt. Ltd..
 
-###   **Personal identification information**
+###  **Personal identification information**
 
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site place an order fill out a form subscribe to the newsletter and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number etc. Users may, however, visit our Site anonymously. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
