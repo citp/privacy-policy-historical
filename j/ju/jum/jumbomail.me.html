@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jumbomail.me privacy policy that was archived on 2013-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131123145833id_/http%3A//www.jumbomail.me/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jumbomail.me privacy policy that was archived on 2014-02-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209115707id_/http%3A//www.jumbomail.me/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html itemscope="" itemtype="https://schema.org/LocalBusiness" xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#"><head><title>
 	JumboMail Privacy policy
@@ -17,23 +17,34 @@
 <meta itemprop="description" content="JumboMail Privacy policy - JumboMail takes every possible reasonable measure to prevent illegal entry into the site and unauthorised information/files from being stored.">
 <meta itemprop="image" content="http://www.jumbomail.me/App_Themes/Default/Facebook/fb-share-jumbomail-logo.jpg">
 
- <link href="jQueryPlugins/confirm/jquery.confirm/jquery.confirm.css" rel="stylesheet"><link href="App_Themes/Default/main.css?v=&lt;%=JumboVersion%&gt;" rel="stylesheet" type="text/css"><link href="App_Themes/Default/prettyPhoto.css?v=&lt;%=JumboVersion%&gt;" rel="stylesheet" type="text/css">
-    <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
-    <script src="Scripts/custom-form-elements.js" type="text/javascript"></script><style type="text/css">input.styled { display: none; } select.styled { position: relative; width: 190px; opacity: 0; filter: alpha(opacity=0); z-index: 5; } .disabled { opacity: 0.5; filter: alpha(opacity=50); }</style>
-    <script src="Scripts/jquery.watermark.min.js" type="text/javascript"></script>
-    <script src="Scripts/JScript.js?v=121" type="text/javascript"></script>
+ <link href="jQueryPlugins/confirm/jquery.confirm/jquery.confirm.css" rel="stylesheet">
+    <link href="App_Themes/Default/main.css?v=777" rel="stylesheet" type="text/css">
+    <link href="App_Themes/Default/prettyPhoto.css?v=777" rel="stylesheet" type="text/css">
+    <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+    <script src="Scripts/custom-form-elements.js?v=777" type="text/javascript"></script><style type="text/css">input.styled { display: none; } select.styled { position: relative; width: 190px; opacity: 0; filter: alpha(opacity=0); z-index: 5; } .disabled { opacity: 0.5; filter: alpha(opacity=50); }</style>
+    <script src="Scripts/jquery.watermark.min.js?v=777" type="text/javascript"></script>
+    <script src="Scripts/JScript.js?v=777" type="text/javascript"></script>
     
 <script type="text/javascript" language="javascript">
     var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-1355243-74']);
-    _gaq.push(['_setDomainName', 'jumbomail.me']); 
+    _gaq.push(['_setAccount', 'UA-1355243-13']);
+	_gaq.push(['_setDomainName', window.location.host]);
     _gaq.push(['_trackPageview']);
 
     (function () {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
+	
+	(function ($) {
+		$(function () {
+			// Log all jQuery AJAX requests to Google Analytics
+			$(document).ajaxSend(function (event, xhr, settings) {
+				_gaq.push(['_trackPageview', settings.url]);
+			});
+		});
+	})(jQuery);
 </script>
 </head>
 <body>
@@ -49,15 +60,17 @@
         var IsAuthenticated = 'False';
         var Username = 'email';
         var Password = 'password';
+        var clientId = '554294221655-hlh1quiaaqhiq0185ssqc89p7lm3g5j1.apps.googleusercontent.com';
+        var apiKey = 'AIzaSyB5gFoXuAp_KXDdHlryyI3TN2DQUJv3854';
         var IsSubscriberS = 'False';
         function GAnal(category, action) {
-            var _gaq = _gaq || [];
+            _gaq = _gaq || [];
             _gaq.push(['_trackEvent', 'privacy.aspx', category, action]);
         }
     </script>
-    <script src="Scripts/LoginPopup.js?v=121" type="text/javascript"></script>
-    <script src="Scripts/JmGoEventsTrack.js?v=121" type="text/javascript"></script>
-    <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm">
+    <script src="https://apis.google.com/js/client.js" type="text/javascript" language="javascript"></script>
+    <script src="Scripts/LoginPopup.js?v=777" type="text/javascript"></script>
+    <form name="aspnetForm" method="post" action="/Privacy.aspx" id="aspnetForm">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODkyMjM0OTQ0D2QWAmYPZBYCZg9kFgQCAg8WAh4HY29udGVudAUYSnVtYm9NYWlsIFByaXZhY3kgcG9saWN5ZAIDDxYCHwAFqQFKdW1ib01haWwgUHJpdmFjeSBwb2xpY3kgLSBKdW1ib01haWwgdGFrZXMgZXZlcnkgcG9zc2libGUgcmVhc29uYWJsZSBtZWFzdXJlIHRvIHByZXZlbnQgaWxsZWdhbCBlbnRyeSBpbnRvIHRoZSBzaXRlIGFuZCB1bmF1dGhvcmlzZWQgaW5mb3JtYXRpb24vZmlsZXMgZnJvbSBiZWluZyBzdG9yZWQuZGR6k24UXKn8EHLOWpB+9DidyqeFqYNETTGrun/80nj8lQ==">
 
         
@@ -69,14 +82,14 @@
             <col>
         </colgroup>
         <tbody><tr>
-            <td class="InnerSide_ltr">&nbsp;
+            <td class="InnerSide_Orange_ltr">&nbsp;
             </td>
-            <td class="InnerMiddle_ltr">
+            <td class="InnerMiddle_Orange_ltr">
                 <table border="0" cellpadding="0" cellspacing="0" class="TopHeaderTbl">
                     <tbody><tr>
-                        <td class="topLogo">
-                            <a id="h_lo" href="http://www.jumbomail.me/Default.aspx" title="Send BIG files instantly, for free!">
-                                <img src="http://www.jumbomail.me/App_Themes/Default/css_and_scripts_home/jumbomail-logo.png" alt="Send BIG files instantly, for free!" title="Send BIG files instantly, for free!" style="border: 0px;" width="200px" height="55px">
+                        <td class="topLogo" valign="middle">
+                            <a id="h_lo" href="http://www.jumbomail.me/" title="Send BIG files instantly, for free!">
+                                <img src="http://www.jumbomail.me/App_Themes/Default/css_and_scripts_home/jumbomail-logo-coil.png" alt="Send BIG files instantly, for free!" title="Send BIG files instantly, for free!" style="border: 0px;" width="200px" height="61px">
                             </a> 
                         </td>
                         <td class="peud_top" valign="top">
@@ -86,14 +99,20 @@
                                         <div class="topMenu"> 
                                             
 
-<script src="Scripts/jquery.hoverIntent.minified.js" type="text/javascript"></script>
-<script src="jQueryPlugins/basic/js/jquery.simplemodal.js" type="text/javascript"></script>
-
+<script src="http://www.jumbomail.me/Scripts/jquery.hoverIntent.minified.js?v=777" type="text/javascript" language="javascript"></script>
+<script src="http://www.jumbomail.me/jQueryPlugins/basic/js/jquery.simplemodal.js?v=777" type="text/javascript" language="javascript"></script>
+<script type="text/javascript" language="javascript">
+    var C_Username = 'email';
+    var C_Password = 'password';
+    var LogoutButton = 'ctl00_Header_LogInMenuStatus_LogoutButton';
+</script>
+<script src="http://www.jumbomail.me/Scripts/UserLoggedIn.js?v=777" type="text/javascript" language="javascript"></script>
 <table border="0" cellpadding="0" cellspacing="0">
     <tbody><tr>
         <td valign="top">
             <div class="cr_m5">
                 
+<script src="http://www.jumbomail.me/Scripts/LanguagesMenu.js?=777" type="text/javascript" language="javascript"></script>
 <div id="lm_selh" class="CurrentLanActive">
     <img class="ImgC" src="http://www.jumbomail.me/App_Themes/Default/Shared/language-selector-globe.png" alt="Language" title="Language" style="border: 0px;" height="16px" width="16px">&nbsp;Language
 </div>
@@ -129,7 +148,7 @@
                                     <tbody><tr>
                                         <td>
                                             <div class="cr_m5">
-                                                <a href="http://www.jumbomail.me/Registration.aspx" onclick="GAnal('Link', 'LoggedIn Menu Register Click');">
+                                                <a id="cr_mn" href="http://www.jumbomail.me/Registration.aspx">
                                                     SIGN UP</a>
                                             </div>
                                         </td>
@@ -138,15 +157,29 @@
                                         </td>
                                         <td class="loginPop">
                                             <div class="loginPop" style="margin-top: 5px;">
-                                                <a class="loginPop" href="javascript:void(0);" onclick="GAnal('Buttons', 'LoggedIn Menu Login Click');" id="LogInButton">
+                                                <a id="LogInButton" class="loginPop" href="javascript:void(0);">
                                                     LOG IN</a>
                                             </div>
                                         </td>
                                         <td>
                                             <img src="http://www.jumbomail.me/App_Themes/Default/css_and_scripts_home/line-seperator.png" alt="" title="" class="LineLoginSp">
                                         </td>
-                                        <td style="width: 95px;">
-                                            <img src="http://www.jumbomail.me/App_Themes/Default/en-us/f-connect.png" alt="Facebook Login" title="Facebook Login" onclick="login(); GAnal('Buttons', 'LoggedIn Menu Login Facebook Click');" height="22px" width="79px" style="border: 0px solid; margin: 3px 0px 0px 0px; text-align: left; cursor: pointer;">
+                                        <td id="mainLoginTd">
+                                            <div id="mainLoginCon_ltr">
+                                                <div id="ConnectWith_ltr">
+                                                    Login with
+                                                </div>
+                                                <div class="ConnectIcon_ltr">
+                                                    <div id="login_google" title="Login with Google">
+                                                        &nbsp;
+                                                    </div>
+                                                </div>
+                                                <div class="ConnectIcon_ltr">
+                                                    <div id="login_facebook" title="Login with Facebook">
+                                                        &nbsp;
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </td>
                                     </tr>
                                 </tbody></table>
@@ -181,7 +214,7 @@
                             </td>
                             <td class="loginPop">
                                 <div class="loginPop" style="float: right;">
-                                    <div id="LoginValidate" class="LoginPopUpContainer_ltr" title="" onclick="javascript:validateLoginForm('email','password');">
+                                    <div id="LoginValidate" class="LoginPopUpContainer_ltr" title="">
                                         <div class="LoginPopUpBox_ltr">
                                             Login
                                         </div>
@@ -202,7 +235,7 @@
                                     remember me&nbsp;|&nbsp;</label>
                             </td>
                             <td align="left" class="loginPop" style="vertical-align: middle; width: 100px;">
-                                <a href="http://www.jumbomail.me/PasswordRecover.aspx" class="loginPop" onclick="GAnal('Link', 'LoggedIn Menu Password Recover Click');">
+                                <a id="forGot" href="http://www.jumbomail.me/PasswordRecover.aspx" class="loginPop">
                                     forgot password?</a>
                             </td>
                         </tr>
@@ -211,14 +244,14 @@
             </div>
             
             
-            <div style="display: none;" id="nav-login-logged-user">
-                <table border="0" cellpadding="0" cellspacing="0" dir="ltr" style="float: right;" id="nav-login-logged-user-table">
+            <div id="nav-login-logged-user" style="display: none;">
+                <table id="nav-login-logged-user-table" border="0" cellpadding="0" cellspacing="0" dir="ltr" style="float: right;">
                     <tbody><tr>
                         <td>
                             <img src="http://www.jumbomail.me/App_Themes/Default/css_and_scripts_home/login-loggedon_01.png" alt="" title="" style="border: 0px;" width="15px" height="36px">
                         </td>
                         <td id="nav-login-logged" style="padding-top: 3px;">
-                            <a href="http://www.jumbomail.me/Profile_UserDetails.aspx" onclick="GAnal('Link', 'LoggedIn Menu User Details Click');" title="Profile">
+                            <a id="navLog" href="http://www.jumbomail.me/Profile_UserDetails.aspx" title="Profile">
                                 <span id="loginUserName" title="Profile">
                                     </span> </a>&nbsp; &nbsp;<img width="2px" height="21px" src="http://www.jumbomail.me/App_Themes/Default/css_and_scripts_home/login-loggedon_seperator.png" alt="" title="">&nbsp; <a href="javascript:void(0);" id="accountMenuButton">
                                             <img src="http://www.jumbomail.me/App_Themes/Default/css_and_scripts_home/login-loggedon_open_arrow.png" id="accountMenuButtonImg" width="22px" height="21px" alt="Account" title="More options" style="border: 0px solid; vertical-align: middle;">
@@ -233,25 +266,25 @@
             
             <div id="account-popup" style="display: none;">
                 <div class="topLogin">
-                    <ul style="padding: 0px; direction: ltr;">
-                        <li><a onclick="GAnal('Link', 'LoggedIn Menu User Data Click');" href="http://www.jumbomail.me/Profile_UserData.aspx">
+                    <ul class="cr_pd0_ltr">
+                        <li><a id="u_data" href="http://www.jumbomail.me/Profile_UserData.aspx">
                             My Profile</a></li>
-                        <li><a onclick="GAnal('Link', 'LoggedIn Menu Uploads Click');" href="http://www.jumbomail.me/Profile_Uploads.aspx">
+                        <li><a id="u_uploads" href="http://www.jumbomail.me/Profile_Uploads.aspx">
                             Sent mails</a></li>
                         
-                        <li><a onclick="GAnal('Link', 'LoggedIn Menu Embed Click');" href="http://www.jumbomail.me/Profile_Embed.aspx">
+                        <li><a id="u_embed" href="http://www.jumbomail.me/Profile_Embed.aspx">
                             JumboEmbed mails</a></li>
                         
-                        <li><a href="http://www.jumbomail.me/Profile_Codes.aspx" onclick="GAnal('Link', 'LoggedIn Menu Codes Click');">
+                        <li><a id="u_codes" href="http://www.jumbomail.me/Profile_Codes.aspx">
                             Purchased codes</a></li>
                         
-                        <li><a href="http://www.jumbomail.me/Profile_EmbedSettings.aspx" onclick="GAnal('Link', 'LoggedIn Menu Embed Settings Click');">
+                        <li><a id="u_embedse" href="http://www.jumbomail.me/Profile_EmbedSettings.aspx">
                             Jumbo Embed settings</a></li>
                         
                         <li><a href="http://www.jumbomail.me/Profile_UserContacts.aspx">
                             Contact list</a></li>
                         <li style="text-align: right; margin-top: 30px;">
-                            <a onclick="GAnal('Buttons', 'LoggedIn Menu Logout Click');" id="ctl00_Header_LogInMenuStatus_LogoutButton" href="javascript:__doPostBack('ctl00$Header$LogInMenuStatus$LogoutButton','')">Logout</a>
+                            <a id="ctl00_Header_LogInMenuStatus_LogoutButton" href="javascript:__doPostBack('ctl00$Header$LogInMenuStatus$LogoutButton','')">Logout</a>
                         </li>
                     </ul>
                 </div>
@@ -270,7 +303,6 @@
                         <div class="gs_des">
                             <div class="ExternalText_ltr">
                                 The email address you tried to login using your Facebook account already been listed on JumboMail
-In order to login, please use your current account email address and password at JumboMail.
                             </div>
                         </div>
                     </div>
@@ -290,16 +322,15 @@ In order to login, please use your current account email address and password at
                                     <td>
                                         <div class="mainNavigation">
                                             
+<script src="http://www.jumbomail.me/Scripts/NavigationMenuEnglish.js?v=777" type="text/javascript" language="javascript"></script>
 <ul id="menu_ltr">
-    <li class="menu_right " style="-moz-border-radius: 7px 7px 7px 7px !important; width: 170px; -webkit-border-radius: 7px 7px 7px 7px !important;
-        border-radius: 7px 7px 7px 7px !important;"><a id="nme_h" href="http://www.jumbomail.me/" class="" style="">
+    <li class="menu_right " style="-moz-border-radius: 7px 7px 7px 7px !important; width: 170px; -webkit-border-radius: 7px 7px 7px 7px !important; border-radius: 7px 7px 7px 7px !important;"><a id="nme_h" href="http://www.jumbomail.me/" class="" style="">
             SEND JUMBOMAIL</a> </li>
     <li style="width: 110px;" class="" onmouseover="ToogleImgArrow('hide','services');this.className='activeitemhover';" onmouseout="ToogleImgArrow('show','services');this.className='';">
         <a id="nme_s" href="http://www.jumbomail.me/Services.aspx" class="drop" style="">
             FEATURES</a>
         
         <div class="dropdown_5columns" style="width: 310px;">
-            <!-- Begin 5 columns container -->
             <div class="col_1" style="width: 140px;">
                 <ul>
                     <li class="nme_140"><a id="nme_s1" href="http://www.jumbomail.me/Services.aspx?service=SendBigFiles">
@@ -328,27 +359,41 @@ In order to login, please use your current account email address and password at
             </div>
         </div>
     </li>
-    <li class="" style="width: 130px; -moz-border-radius: 7px 7px 7px 7px !important; -webkit-border-radius: 7px 7px 7px 7px !important;
-        border-radius: 7px 7px 7px 7px !important;"><a id="nme_sub" href="http://www.jumbomail.me/Subscribers.aspx" class="" style="">
+    <li class="" style="width: 130px; -moz-border-radius: 7px 7px 7px 7px !important; -webkit-border-radius: 7px 7px 7px 7px !important; border-radius: 7px 7px 7px 7px !important;"><a id="nme_sub" href="http://www.jumbomail.me/Subscribers.aspx" class="" style="">
             SUBSCRIBERS</a>
         
     </li>
-    <li class="" style="width: 120px;
-        -moz-border-radius: 7px 7px 7px 7px !important; -webkit-border-radius: 7px 7px 7px 7px !important;
-        border-radius: 7px 7px 7px 7px !important;"><a id="nme_pc" href="http://www.jumbomail.me/PurchaseCodes.aspx" class="" style="">
-            BUY CODES</a>
+    <li class="" style="width: 120px; -moz-border-radius: 7px 7px 7px 7px !important; -webkit-border-radius: 7px 7px 7px 7px !important; border-radius: 7px 7px 7px 7px !important;"><a id="nme_pc" href="http://www.jumbomail.me/PurchaseCodes.aspx" class="" style="">
+        BUY CODES</a>
         
     </li>
     
     <li class="menu_right " onmouseover="ToogleImgArrow('hide','services');this.className='activeitemhover';" onmouseout="ToogleImgArrow('show','services');this.className='';">
-        <a id="nme_em1" href="http://www.jumbomail.me/Jumbomail-Embed.aspx" class="drop" style="">
+        <a id="nme_em1" href="http://www.jumbomail.me/JumboPicker.aspx?p=JumboPicker" class="drop" style="">
             PRODUCTS</a>
         
         <!-- Begin 4 columns Item -->
-        <div class="dropdown_4columns align_right" style="width: 420px; height: 180px;">
-            <div class="col_1" style="width: 200px; padding: 10px; padding-top: 5px;">
+        <div class="dropdown_4columns align_right" style="width: 550px; height: 200px;">
+            <div class="col_5" style="width: 160px; padding: 10px; padding-top: 0px; direction: ltr;">
                 <ul>
-                    <li style="width: 100%;"><a id="nme_em2" class="nme_embed" href="http://www.jumbomail.me/Jumbomail-Embed.aspx?p=JumbomailEmbed">JumboEmbed</a></li>
+                    <li id="title1" class="nmh_100"><a id="nmh_jp1" href="http://www.jumbomail.me/JumboPicker.aspx?p=JumboPicker">JumboPicker</a></li>
+                    <li class="nmh_100"><a id="nmh_jp2" href="http://www.jumbomail.me/JumboPicker.aspx?p=About">What is JumboPicker?</a></li>
+                    <li class="nmh_100"><a id="nmh_jp3" href="http://www.jumbomail.me/JumboPicker.aspx?p=Start">How to get started?</a></li>
+                    <li class="nmh_100"><a id="nmh_jp4" href="http://www.jumbomail.me/JumboPicker.aspx?p=Recommendations">Recommendations</a></li>
+                    <li class="nmh_100"><a id="nmh_jp5" href="http://www.jumbomail.me/JumboPicker.aspx?p=Faq">Faq</a></li>
+                    <li class="nmh_100"><a id="nmh_jp6" href="http://www.jumbomail.me/JumboPicker.aspx?p=PriceList">Price List</a></li>
+                </ul>
+                <div id="hover3">
+                    <a id="nmh_jp7" href="http://www.jumbomail.me/JumboPicker.aspx?p=JumboPicker">
+                        <img id="hover3_img" onmouseover="Hover('3')" onmouseout="Out('3')" alt="" title="" style="border: 0px;" src="http://www.jumbomail.me/App_Themes/Default/en-us/btn-more-details-menu.png" width="131px" height="32px"></a>
+                </div>
+            </div>
+            <div class="col_separator_rtl" style="height: 200px; font-size: 1px;">
+                &nbsp;
+            </div>
+            <div class="col_1" style="width: 160px; padding: 10px; padding-top: 0px;">
+                <ul>
+                    <li id="title2" class="nmh_100"><a id="nme_em2" href="http://www.jumbomail.me/Jumbomail-Embed.aspx?p=JumbomailEmbed">JumboEmbed</a></li>
                     <li><a id="nme_em3" class="nme_90" href="http://www.jumbomail.me/Jumbomail-Embed.aspx?p=About-Jumbomail-Embed">
                         About JumboEmbed</a></li>
                     <li><a id="nme_em4" class="nme_90" href="http://www.jumbomail.me/Jumbomail-Embed.aspx?p=Demo">
@@ -358,17 +403,20 @@ In order to login, please use your current account email address and password at
                     <li><a id="nme_em6" class="nme_90" href="http://www.jumbomail.me/Jumbomail-Embed.aspx?p=PriceList">
                         Service price plans</a></li>
                 </ul>
+                <div style="height: 24px; font-size: 1px;">
+                    &nbsp;
+                </div>
                 <div id="hover1" style="margin-top: 0px;">
                     <a id="nme_em7" href="http://www.jumbomail.me/Jumbomail-Embed.aspx?p=JumbomailEmbed">
                         <img id="hover1_img" onmouseover="Hover('1')" onmouseout="Out('1')" alt="" title="" style="border: 0px; position: relative; left: 4px;" src="http://www.jumbomail.me/App_Themes/Default/en-us/btn-more-details-menu.png"></a>
                 </div>
             </div>
-            <div class="col_separator_ltr" style="height: 180px; font-size: 1px;">
+            <div class="col_separator_ltr" style="height: 200px; font-size: 1px;">
                 &nbsp;
             </div>
-            <div class="col_1" style="width: 170px; padding: 10px; padding-top: 5px;">
+            <div class="col_1" style="width: 160px; padding: 10px; padding-top: 0px;">
                 <ul>
-                    <li style="width: 100%;"><a id="nme_jn1" class="nme_ser" href="http://www.jumbomail.me/JumboNewsLetter.aspx?service=jumbonewsletter">
+                    <li id="title3" class="nmh_100"><a id="nme_jn1" href="http://www.jumbomail.me/JumboNewsLetter.aspx?service=jumbonewsletter">
                         JumboNewsLetter</a></li>
                     <li class="nme_90"><a id="nme_jn2" href="http://www.jumbomail.me/JumboNewsLetter.aspx?service=ListManagment">
                         List Managment</a></li>
@@ -379,6 +427,9 @@ In order to login, please use your current account email address and password at
                     <li class="nme_90"><a id="nme_jn5" href="http://www.jumbomail.me/JumboNewsLetter.aspx?service=NewsLetterSubscription">
                         Registration Service</a></li>
                 </ul>
+                <div style="height: 24px; font-size: 1px;">
+                    &nbsp;
+                </div>
                 <div id="hover2">
                     <a id="nme_jn6" href="http://www.jumbomail.me/JumboNewsLetter.aspx?service=jumbonewsletter">
                         <img id="hover2_img" onmouseover="Hover('2')" onmouseout="Out('2')" alt="" title="" style="border: 0px; position: relative; left: 4px;" src="http://www.jumbomail.me/App_Themes/Default/en-us/btn-more-details-menu.png"></a>
@@ -398,7 +449,7 @@ In order to login, please use your current account email address and password at
                     </tr>
                 </tbody></table>
             </td>
-            <td class="InnerSide_ltr">&nbsp;
+            <td class="InnerSide_Orange_ltr">&nbsp;
             </td>
         </tr>
     </tbody></table>
@@ -416,21 +467,19 @@ In order to login, please use your current account email address and password at
             <td>
                 <div class="pri_128">
                     
-<div id="BannerContainer_11" class="TopBannerUC">
-    <div onclick="bannerClick('')" id="swfObj_11" style="width: 120px; margin: auto; padding: 0px;">
+<div id="BannerContainer_17" class="TopBannerUC">
+    <div id="swfObj_17" style="width: 120px; margin: auto; padding: 0px;">
         
-        <a target="_blank" style="text-decoration: none;" href="http://www.jumbomail.me/GeneralHandlers/UpdateBannerStats.ashx?bid=11&amp;url=">
+        <a target="_blank" style="text-decoration: none;" href="">
             <span class="gtext">
-                <script type="text/javascript"><!--
+                <script type="text/javascript">
 google_ad_client = "ca-pub-6726288251360970";
 /* Jumomail - 12X600 */
 google_ad_slot = "9654436503";
 google_ad_width = 120;
 google_ad_height = 600;
-//-->
 </script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></span> </a>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></span> </a>
         
     </div>
 </div>
@@ -652,7 +701,7 @@ google_ad_height = 600;
     var NewsLetterEmailExists = 'Email already exsits!';
     var NewsLetterValidation = 'enter your email here';
 </script>
-<script src="http://www.jumbomail.me/Scripts/Footer.js?v=121" type="text/javascript" language="javascript"></script>
+<script src="http://www.jumbomail.me/Scripts/Footer.js?v=777" type="text/javascript" language="javascript"></script>
 
         </div>
     </form>
