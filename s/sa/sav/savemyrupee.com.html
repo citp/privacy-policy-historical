@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the savemyrupee.com privacy policy that was archived on 2013-11-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131115140413id_/http%3A//savemyrupee.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the savemyrupee.com privacy policy that was archived on 2014-02-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209173903id_/http%3A//www.savemyrupee.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="X-UA-Compatible" content="IE=8"><!--IE8 mode-->
@@ -46,7 +46,65 @@ background-color:#ffffff;border:0px #000000 solid;" align="center" cellpadding="
 <tbody><tr>
 <td>
 
-<style type="text/css">
+<script type="text/javascript">
+//script to show popup and hide popup
+function showpopup(){
+var $k = jQuery.noConflict();
+$k("#deal_popup").show();
+$k("#popup_fade_cat").show();
+}
+function hide_popup(){
+var $m = jQuery.noConflict();
+$m("#deal_popup").hide();
+$m("#popup_fade_cat").hide();
+}
+
+//search deals when button is clicked
+function searchdeals(){
+var txtsrh=document.getElementById('txtsearch').value;
+if(txtsrh!="Search for a product or brand.(Eg:Samsung galaxy,Flipkart,Jabong)"){
+var name="";
+//alert(name);
+//alert(txtsrh);
+//alert(document.getElementById('txtsearch').value);
+location.href="http://www.savemyrupee.com/searchdeals.php?keyword="+txtsrh;
+}
+else{
+document.getElementById('txtsearch').focus(); 
+}
+}
+//search deals when enter key is pressed
+function runScript(e) {
+var txtsrh=document.getElementById('txtsearch').value;
+if((txtsrh!="Search for a product or brand.(Eg:Samsung galaxy,Flipkart,Jabong)")&&(txtsrh!="")){
+    if (e.keyCode == 13) {
+        var tb = document.getElementById("txtsearch");
+        var keywrd=tb.value;
+        location.href="http://www.savemyrupee.com/searchdeals.php?keyword="+keywrd;
+        return false;
+   
+}
+}
+}
+</script>
+
+
+<script type="text/javascript">var _kmq = _kmq || [];
+var _kmk = _kmk || 'ee66aaaa29161b353979f4c4a1ad57385bc40319';
+function _kms(u){
+  setTimeout(function(){
+    var d = document, f = d.getElementsByTagName('script')[0],
+    s = d.createElement('script');
+    s.type = 'text/javascript'; s.async = true; s.src = u;
+    f.parentNode.insertBefore(s, f);
+  }, 1);
+}
+_kms('//i.kissmetrics.com/i.js');
+_kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
+</script>
+
+
+<style>
 #positionfxd{
 position: fixed;
 top: 0;
@@ -55,50 +113,31 @@ z-index:1000;
 width:1080px;
 
 }
-#cssmenu ul,
-#cssmenu li,
-#cssmenu span,
-#cssmenu a {
+#main-menu ul,
+#main-menu li,
+#main-menu span,
+#main-menu a {
   margin: 0;
   padding: 0;
   position: relative;
 }
-#cssmenu {
+#main-menu {
   height: 40px;
   border-radius: 5px 5px 0 0;
   -moz-border-radius: 5px 5px 0 0;
   -webkit-border-radius: 5px 5px 0 0;
-  background: #141414;
-  background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAxCAIAAACUDVRzAAAAA3NCSVQICAjb4U/gAAAALElEQVQImWMwMrJi+v//PxMDw3+m//8ZoPR/qBgDEhuXGLoeYswhXg8R5gAAdVpfoJ3dB5oAAAAASUVORK5CYII=) 100% 100%; 
-  background: -moz-linear-gradient(top, #32323a 0%, #141414 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #32323a), color-stop(100%, #141414));
-  background: -webkit-linear-gradient(top, #32323a 0%, #141414 100%);
-  background: -o-linear-gradient(top, #32323a 0%, #141414 100%);
-  background: -ms-linear-gradient(top, #32323a 0%, #141414 100%);
-  background: linear-gradient(to bottom, #32323a 0%, #141414 100%);
- -pie-background: linear-gradient(top, #32323a 0%, #141414 100%);
-   behavior: url(PIE.htc); 
-  -ms-behavior:url(PIE.htc);
+  
 position:relative;
-border-bottom: 3px solid #0fa1e0;
+border-bottom: 3px solid #38B1E5;
 }
-#cssmenu:after,
-#cssmenu ul:after {
+#main-menu:after,
+#main-menu ul:after {
   content: '';
   display: block;
   clear: both;
 }
-#cssmenu a {
-  background: #141414;
-  background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAxCAIAAACUDVRzAAAAA3NCSVQICAjb4U/gAAAALElEQVQImWMwMrJi+v//PxMDw3+m//8ZoPR/qBgDEhuXGLoeYswhXg8R5gAAdVpfoJ3dB5oAAAAASUVORK5CYII=) 100% 100%; 
-  background: -moz-linear-gradient(top, #32323a 0%, #141414 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #32323a), color-stop(100%, #141414));
-  background: -webkit-linear-gradient(top, #32323a 0%, #141414 100%);
-  background: -o-linear-gradient(top, #32323a 0%, #141414 100%);
-  background: -ms-linear-gradient(top, #32323a 0%, #141414 100%);
-  background: linear-gradient(to bottom, #32323a 0%, #141414 100%);
-   -pie-background: linear-gradient(top, #32323a 0%, #141414 100%);
-   behavior: url(PIE.htc); 
+#main-menu a {
+  
   color: #ffffff;
   display: inline-block;
   font-family: Helvetica, Arial, Verdana, sans-serif;
@@ -108,16 +147,19 @@ border-bottom: 3px solid #0fa1e0;
   text-decoration: none;
   border-right:1px solid #383838;
 }
-#cssmenu ul {
+#main-menu ul {
   list-style: none;
 }
-#cssmenu > ul {
+#main-menu > ul {
   float: left;
 }
-#cssmenu > ul > li {
+#main-menu > ul > li {
   float: left;
 }
-#cssmenu > ul > li:hover:after {
+#main-menu > ul > li #ValentinesDay-Deals{
+background-color:#ff8000;
+}
+#main-menu > ul > li:hover:after {
   content: '';
   display: block;
   width: 0;
@@ -127,93 +169,34 @@ border-bottom: 3px solid #0fa1e0;
   bottom: 0;
   border-left: 10px solid transparent;
   border-right: 10px solid transparent;
-  border-bottom: 10px solid #0fa1e0;
+  border-bottom: 10px solid #38B1E5;
   margin-left: -10px;
 }
-#cssmenu > ul > li:first-child > a {
+#main-menu > ul > li:first-child > a {
   border-radius: 5px 0 0 0;
   -moz-border-radius: 5px 0 0 0;
   -webkit-border-radius: 5px 0 0 0;
 }
-#cssmenu > ul > li:last-child > a {
+#main-menu > ul > li:last-child > a {
   border-radius: 0 5px 0 0;
   -moz-border-radius: 0 5px 0 0;
   -webkit-border-radius: 0 5px 0 0;
 }
-#cssmenu > ul > li.active > a {
+#main-menu > ul > li.active > a {
   box-shadow: inset 0 0 3px #000000;
   -moz-box-shadow: inset 0 0 3px #000000;
   -webkit-box-shadow: inset 0 0 3px #000000;
-  background: #070707;
-  background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAxCAIAAACUDVRzAAAAA3NCSVQICAjb4U/gAAAALklEQVQImWNQU9Nh+v//PxMDw3+m//8ZkNj/mRgYIHxy5f//Z0BSi18e2TwS5QG4MGB54HL+mAAAAABJRU5ErkJggg==) 100% 100%; 
-  background: -moz-linear-gradient(top, #26262c 0%, #070707 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #26262c), color-stop(100%, #070707));
-  background: -webkit-linear-gradient(top, #26262c 0%, #070707 100%);
-  background: -o-linear-gradient(top, #26262c 0%, #070707 100%);
-  background: -ms-linear-gradient(top, #26262c 0%, #070707 100%);
-  background: linear-gradient(to bottom, #26262c 0%, #070707 100%);
-   -pie-background: linear-gradient(top, #32323a 0%, #141414 100%);
-   behavior: url(PIE.htc); 
+
+  
 }
-#cssmenu > ul > li:hover > a {
-  background: #070707;
-  background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAxCAIAAACUDVRzAAAAA3NCSVQICAjb4U/gAAAALklEQVQImWNQU9Nh+v//PxMDw3+m//8ZkNj/mRgYIHxy5f//Z0BSi18e2TwS5QG4MGB54HL+mAAAAABJRU5ErkJggg==) 100% 100%; 
-  background: -moz-linear-gradient(top, #26262c 0%, #070707 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #26262c), color-stop(100%, #070707));
-  background: -webkit-linear-gradient(top, #26262c 0%, #070707 100%);
-  background: -o-linear-gradient(top, #26262c 0%, #070707 100%);
-  background: -ms-linear-gradient(top, #26262c 0%, #070707 100%);
-  background: linear-gradient(to bottom, #26262c 0%, #070707 100%);
-   -pie-background: linear-gradient(top, #32323a 0%, #141414 100%);
-   behavior: url(PIE.htc); 
+#main-menu > ul > li:hover > a {
+ 
+  
   box-shadow: inset 0 0 3px #000000;
   -moz-box-shadow: inset 0 0 3px #000000;
   -webkit-box-shadow: inset 0 0 3px #000000;
 }
-#cssmenu .has-sub {
-  z-index: 1001;
-}
-#cssmenu .has-sub:hover > ul {
-  display: block;
-}
-#cssmenu .has-sub ul {
-  display: none;
-  position: absolute;
-  width: 200px;
-  top: 100%;
-  left: 0;
-}
-#cssmenu .has-sub ul li {
-  *margin-bottom: -1px;
-}
-#cssmenu .has-sub ul li a {
-  background: #0fa1e0;
-  border-bottom: 1px dotted #6fc7ec;
-  filter: none;
-  font-size: 12px;
-  display: block;
-  line-height: 120%;
-  padding: 10px;
-}
-#cssmenu .has-sub ul li:hover a {
-  background: #0c7fb0;
-}
-#cssmenu .has-sub .has-sub:hover > ul {
-  display: block;
-}
-#cssmenu .has-sub .has-sub ul {
-  display: none;
-  position: absolute;
-  left: 100%;
-  top: 0;
-}
-#cssmenu .has-sub .has-sub ul li a {
-  background: #0c7fb0;
-  border-bottom: 1px dotted #6db2d0;
-}
-#cssmenu .has-sub .has-sub ul li a:hover {
-  background: #095c80;
-}
+
 
 
 a{
@@ -224,33 +207,6 @@ a img
 {
 border:none;
 }
-
-.signup{
-FONT-FAMILY: tahoma, verdana, arial, sans-serif;
-FONT-COLOR: #383838;
-FONT-SIZE: 13px;
-FONT-WEIGHT: bold;
-FLOAT: right;
-LIST-STYLE-TYPE: none;
-LIST-STYLE-IMAGE: none;
-BORDER-RIGHT: #383838 2px solid; padding-right:14px;
- padding-left:4px;
-color:#383838;
-}
-
-.signin{
-FONT-FAMILY: tahoma, verdana, arial, sans-serif;
-FONT-COLOR: #383838;
-FONT-SIZE: 13px;
-FONT-WEIGHT: bold;
-FLOAT: right;
-LIST-STYLE-TYPE: none;
-LIST-STYLE-IMAGE: none;
-BORDER-RIGHT: #383838 2px solid; padding-right:14px;
- padding-left:4px;
-color:#383838;
-}
-
 div#homenav1 a{
 FONT-FAMILY: tahoma, verdana, arial, sans-serif;
 COLOR: #686868;
@@ -258,6 +214,100 @@ FONT-SIZE: 14px;
 FONT-WEIGHT: bold;
 padding-right:22px;
 padding-left:6px;
+}
+ul#css3menu_top,ul#css3menu_top ul{
+	margin:0;list-style:none;padding:0;}
+ul#css3menu_top,ul#css3menu_top .submenu{
+	background-color:#FFFFFF;border-width:0px;border-style:solid;border-color:#383838;-moz-border-radius:5px 5px 0 0;-webkit-border-radius:5px 5px 0 0;border-radius:5px 5px 0 0; font-family: Helvetica, Arial, Verdana, sans-serif;}
+
+ul#css3menu_top li:hover>*{
+	display:block;}
+ul#css3menu_top li{
+	position:relative;display:block;white-space:nowrap;font-size:0;float:left;}
+ul#css3menu_top li:hover{
+	z-index:1;}
+
+ul#css3menu_top .column{
+	float:left;}
+* html ul#css3menu_top li a{
+	display:inline-block;}
+ul#css3menu_top>li{
+	margin:0;width:0%;}
+ul#css3menu_top li.toplast{
+	width:0%;}
+body:first-of-type ul#css3menu_top{
+	display:inline-table;border-spacing:0px 0;}
+body:first-of-type ul#css3menu_top>li{
+	display:table-cell;float:none;}
+ul#css3menu_top a:focus{
+	outline-style:none;}
+
+ul#css3menu_top ul li{
+	float:none;margin:0;}
+ul#css3menu_top ul a{
+	text-align:left;padding:5px;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;background-color:none;background-image:none;border-width:0;border-style:none;border-radius:6px;-moz-border-radius:6px;-webkit-border-radius:6px;color:#FFFFFF;text-decoration:none;border-bottom: 1px dotted #6db2d0; font-family: Helvetica, Arial, Verdana, sans-serif;}
+
+ul#css3menu_top img{
+	border:none;vertical-align:middle;margin-right:13px;}
+
+
+
+ul#css3menu_top>li:nth-child(2){width:0%}ul#css3menu_top>li:nth-child(3){width:0%}ul#css3menu_top>li:nth-child(4){width:0%}ul#css3menu_top>li:nth-child(5){width:0%}ul#css3menu_top>li:nth-child(6){width:0%}
+
+
+
+ul#css3menu_top ul li:hover>a{
+background-color:#0c7fb0;
+border-style:none;position:relative;text-decoration:none;filter:progid:DXImageTransform.Microsoft.gradient(gradientType=0,startColorstr=#00FFFFFF,endColorstr=#21555555)}
+
+@-moz-document url-prefix(){body:first-of-type ul#css3menu_top{display:inline-block} body:first-of-type ul#css3menu_top>li{display:block;float:left !important;}}
+@media only screen and (max-width:656px),only screen and (max-device-width:656px){
+ul#css3menu_top>li:nth-child(1){width:31%}ul#css3menu_top>li:nth-child(2){width:35%}ul#css3menu_top>li:nth-child(3){width:34%}ul#css3menu_top>li:nth-child(4){width:30%}ul#css3menu_top>li:nth-child(5){width:37%}ul#css3menu_top>li:nth-child(6){width:33%}body:first-of-type ul#css3menu_top{display:inline-block} body:first-of-type ul#css3menu_top>li{display:block;float:left !important;}}
+@media only screen and (max-width:354px),only screen and (max-device-width:354px){
+ul#css3menu_top>li:nth-child(1){width:47%}ul#css3menu_top>li:nth-child(2){width:53%}ul#css3menu_top>li:nth-child(3){width:37%}ul#css3menu_top>li:nth-child(4){width:28%}ul#css3menu_top>li:nth-child(5){width:35%}ul#css3menu_top>li:nth-child(6){width:100%}}
+@media only screen and (max-width:327px),only screen and (max-device-width:327px){
+ul#css3menu_top>li:nth-child(1){width:47%}ul#css3menu_top>li:nth-child(2){width:53%}ul#css3menu_top>li:nth-child(3){width:57%}ul#css3menu_top>li:nth-child(4){width:43%}ul#css3menu_top>li:nth-child(5){width:54%}ul#css3menu_top>li:nth-child(6){width:46%}}
+@media only screen and (max-width:232px),only screen and (max-device-width:232px){
+ul#css3menu_top>li:nth-child(1){width:47%}ul#css3menu_top>li:nth-child(2){width:53%}ul#css3menu_top>li:nth-child(3){width:100%}ul#css3menu_top>li:nth-child(4){width:45%}ul#css3menu_top>li:nth-child(5){width:55%}ul#css3menu_top>li:nth-child(6){width:100%}}
+
+
+ul#css3menu_top .submenu{
+display:none;position:absolute;left:-1px;top:100%;float:left;z-index:2;background-color:#38B1E5;zoom: 1;
+background: #38B1E5;
+border-width:1px;
+border-radius:0px 0px 4px 4px;
+-moz-border-radius:0px 0px 4px 4px;
+-webkit-border-radius:0px;
+-webkit-border-bottom-right-radius:4px;
+-webkit-border-bottom-left-radius:4px;
+border-style:solid;
+border-color:#38B1E5 #38B1E5 #38B1E5 #38B1E5;
+-moz-box-shadow:0 5px 5px rgba(20, 20, 25, 0.2), 0 0 0 1px #38B1E5 inset;
+-webkit-box-shadow:0 5px 5px rgba(20, 20, 25, 0.2), 0 0 0 1px #38B1E5 inset;
+box-shadow:0 5px 5px rgba(20, 20, 25, 0.2), 0 0 0 1px #38B1E5 inset;
+padding:5px;font-family: Helvetica, Arial, Verdana, sans-serif;
+}
+
+ul#css3menu_top a{
+	display:block;vertical-align:middle;text-align:left;text-decoration:none;font:14px Helvetica, Arial, Verdana, sans-serif;color:#FFFFFF;cursor:pointer;padding:13px 15px;
+ 
+ 
+  
+position:relative;
+border-bottom: 3px solid #38B1E5;}
+
+
+
+#srchimg{
+    align:left;
+    border-radius:1px
+    border: solid 1px red;  
+    outline: 0;  
+    width: 533px;  
+    height: 40px;  
+    background: #FFFFFF url('bg_form.png') left top repeat-x;  
+    
+    
 }
 .TheTextOn{
 FONT-FAMILY: tahoma, verdana, arial, sans-serif;
@@ -272,20 +322,45 @@ BORDER-RIGHT: #383838 2px solid; padding-right:14px;
 color:#383838;
 text-decoration:underline;
 }
-
-</style>
-<style type="text/css">
-#srchimg{
-    align:left;
-    border-radius:1px
-    border: solid 1px red;  
-    outline: 0;  
-    width: 533px;  
-    height: 40px;  
-    background: #FFFFFF url('bg_form.png') left top repeat-x;  
+#txtsearch{
+border:none;
+width:502px;
+height:35px;
+color:#787878;
+font: normal 13px/100% Verdana, Tahoma, sans-serif; 
+background: #FFFFFF url('bg_form.png') left top repeat-x;  
+    background: -webkit-gradient(linear, left top, 25, from(#FFFFFF), color-stop(4%, #EEEEEE), to(#FFFFFF));  
+    background: -moz-linear-gradient(top, #FFFFFF, #EEEEEE 1px, #FFFFFF 25px);    
     
     
+} 
+#txtsearch:focus{
+outline-width: 0;
 }
+.signup,.signin{
+FONT-FAMILY: tahoma, verdana, arial, sans-serif;
+FONT-COLOR: #383838;
+FONT-SIZE: 13px;
+FONT-WEIGHT: bold;
+FLOAT: right;
+LIST-STYLE-TYPE: none;
+LIST-STYLE-IMAGE: none;
+BORDER-RIGHT: #383838 2px solid; padding-right:14px;
+ padding-left:4px;
+color:#383838;
+}
+
+.valentine{
+FONT-FAMILY: tahoma, verdana, arial, sans-serif;
+FONT-COLOR: #383838;
+FONT-SIZE: 14px;
+FONT-WEIGHT: bold;
+FLOAT: right;
+LIST-STYLE-TYPE: none;
+LIST-STYLE-IMAGE: none;
+color:#383838;
+}
+.valentine:hover{text-decoration:underline;}
 .cf:before, .cf:after{
     content:"";
     display:table;
@@ -295,7 +370,7 @@ text-decoration:underline;
 }
 .cf{
     zoom:1;
-}  
+} 
 /* Form wrapper styling */
 .form-wrapper {
 padding-left:0px;
@@ -357,80 +432,11 @@ padding-right:50px;
 .form-wrapper button::-moz-focus-inner { /* remove extra button spacing for Mozilla Firefox */
     border: 0;
     padding: 0;
-}   
-#txtsearch{
-border:none;
-width:502px;
-height:35px;
-color:#787878;
-font: normal 13px/100% Verdana, Tahoma, sans-serif; 
-background: #FFFFFF url('bg_form.png') left top repeat-x;  
-    background: -webkit-gradient(linear, left top, 25, from(#FFFFFF), color-stop(4%, #EEEEEE), to(#FFFFFF));  
-    background: -moz-linear-gradient(top, #FFFFFF, #EEEEEE 1px, #FFFFFF 25px);    
-    
-    
 } 
-#txtsearch:focus{
-outline-width: 0;
-}
+
+
+
 </style>
-<script type="text/javascript">
-//script to show popup and hide popup
-function showpopup(){
-var $k = jQuery.noConflict();
-$k("#deal_popup").show();
-$k("#popup_fade_cat").show();
-}
-function hide_popup(){
-var $m = jQuery.noConflict();
-$m("#deal_popup").hide();
-$m("#popup_fade_cat").hide();
-}
-
-//search deals when button is clicked
-function searchdeals(){
-var txtsrh=document.getElementById('txtsearch').value;
-if(txtsrh!="Search for a product or brand.(Eg:Samsung galaxy,Flipkart,Jabong)"){
-var name="";
-//alert(name);
-//alert(txtsrh);
-//alert(document.getElementById('txtsearch').value);
-location.href="http://www.savemyrupee.com/searchdeals.php?keyword="+txtsrh;
-}
-else{
-document.getElementById('txtsearch').focus(); 
-}
-}
-//search deals when enter key is pressed
-function runScript(e) {
-var txtsrh=document.getElementById('txtsearch').value;
-if((txtsrh!="Search for a product or brand.(Eg:Samsung galaxy,Flipkart,Jabong)")&&(txtsrh!="")){
-    if (e.keyCode == 13) {
-        var tb = document.getElementById("txtsearch");
-        var keywrd=tb.value;
-        location.href="http://www.savemyrupee.com/searchdeals.php?keyword="+keywrd;
-        return false;
-   
-}
-}
-}
-</script>
-
-
-<script type="text/javascript">var _kmq = _kmq || [];
-var _kmk = _kmk || 'ee66aaaa29161b353979f4c4a1ad57385bc40319';
-function _kms(u){
-  setTimeout(function(){
-    var d = document, f = d.getElementsByTagName('script')[0],
-    s = d.createElement('script');
-    s.type = 'text/javascript'; s.async = true; s.src = u;
-    f.parentNode.insertBefore(s, f);
-  }, 1);
-}
-_kms('//i.kissmetrics.com/i.js');
-_kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
-</script>
-
 
 
 <div id="positionfxd">
@@ -442,8 +448,11 @@ _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
 </td></tr></tbody></table>
 </td><td>
 <table width="100%" border="0" style="background-color:#FFFFFF;border:0px #787878 dashed;padding-bottom:5px;" align="right" cellpadding="0" cellspacing="0"><tbody><tr><td>
-<table width="80%" border="0" style="background-color:#FFFFFF;" valign="top" align="right" cellpadding="0" cellspacing="0">
-<tbody><tr><td align="right">
+<table width="93%" border="0" style="background-color:#FFFFFF;" valign="top" align="right" cellpadding="0" cellspacing="0">
+<tbody><tr><td>
+<a href="http://www.savemyrupee.com/category/ValentinesDay-Deals"><font class="valentine"><img src="http://www.savemyrupee.com/images/vday-icon-redHeart.gif" alt="" align="TEXTTOP">VALENTINES DAY SPECIAL OFFERS<img src="http://www.savemyrupee.com/images/vday-icon-redHeart.gif" alt="" align="TEXTTOP"></font></a>
+</td>
+<td align="right">
 <font color="#04A5FC" size="2">	     <font class="signup" onclick="showpopup()" onmouseover="this.className='TheTextOn'" onmouseout="this.className='signup'">SIGN UP</font>
              <font class="signin" onclick="showpopup()" onmouseover="this.className='TheTextOn'" onmouseout="this.className='signin'">SIGN IN</font>
 </font>
@@ -454,7 +463,7 @@ _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
 <tbody><tr><td align="right">
 <div class="form-wrapper cf" style="width:626px;">
 <table><tbody><tr><td style="border:0px #000000 solid;">
-<div id="srchimg"><img src="http://www.savemyrupee.com/images/search blue.png" alt="" align="TEXTTOP" style="height:25px;border:0px #000000 solid;">
+<div id="srchimg"><img src="http://www.savemyrupee.com/images/search blue1.png" alt="" align="TEXTTOP" width="25px" height="25px">
 <input type="text" name="txtsearch" id="txtsearch" value="Search for a product or brand.(Eg:Samsung galaxy,Flipkart,Jabong)" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value='Search for a product or brand.(Eg:Samsung galaxy,Flipkart,Jabong)';" onkeypress="return runScript(event)">
 </div></td><td>
 <button type="submit" onclick="searchdeals()" align="right">Search</button>
@@ -464,48 +473,133 @@ _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
 </div></td></tr></tbody></table>
 </td></tr></tbody></table>
 </td></tr></tbody></table>
+
+
+
+
 <table width="100%" border="0" style="background-color:#FFFFFF;border:0px #000000 solid;" align="left" cellpadding="0" cellspacing="0">
 <tbody><tr>
 <td>
-<div id="cssmenu">
-<ul>
-<li class="last"><a href="http://www.savemyrupee.com/stores" id="brandstores">&nbsp;&nbsp;Popular Stores<img src="http://www.savemyrupee.com/images/New_img.gif" alt="" width="30px" height="12px"></a></li>
-<li class="has-sub"><a href="http://www.savemyrupee.com/category/Electronics">Electronics</a>
-<ul>
-<li><a href="http://www.savemyrupee.com/category/Camera">Camera</a></li>
-<li><a href="http://www.savemyrupee.com/category/Mobile-Accessories">Mobile &amp; Accessories</a></li>
-<li class="last"><a href="http://www.savemyrupee.com/category/Laptop-Computer-Accessories">Laptop &amp; Computer accessories</a></li>
-</ul>
+<div id="main-menu">
+<ul id="css3menu_top">
+	
+
+
+
+<li style="width:163px;background-color:#141414;border-radius:5px 0 0 0;"><a href="http://www.savemyrupee.com/stores" id="brandstores" style="border-radius:5px 0 0 0;"><center><font size="2">&nbsp;&nbsp;Coupon Store<img src="http://www.savemyrupee.com/images/New_img.gif" alt="" width="30px" height="12px"></font></center></a>
+
+
+
+<div class="submenu" style="width:760px;">
+	<div class="column" style="width:25%;"><ul>
+                <li><a style="color:#000000;cursor:default;background-color:transparent;"><b>Electronics :</b></a></li>
+		<li style="padding-left:30px;"><a href="http://www.savemyrupee.com/flipkart-coupons/" class="storeTag"><font size="2">Flipkart</font></a></li>
+		<li style="padding-left:30px;"><a href="http://www.savemyrupee.com/amazon-coupons/" class="storeTag"><font size="2">Amazon</font></a></li>
+		<li style="padding-left:30px;"><a href="http://www.savemyrupee.com/snapdeal-coupons/" class="storeTag"><font size="2">Snapdeal</font></a></li>
+		<li style="padding-left:30px;"><a href="http://www.savemyrupee.com/tradus-coupons/" class="storeTag"><font size="2">Tradus</font></a></li>
+		<li style="padding-left:30px;"><a href="http://www.savemyrupee.com/indiatimesshopping-coupons/" class="storeTag"><font size="2">Indiatimes Shopping</font></a></li>
+                <li style="padding-left:30px;"><a href="http://www.savemyrupee.com/rediffshopping-coupons/" class="storeTag"><font size="2">Rediff Shopping</font></a></li>
+		
+		
+	</ul></div>
+	<div class="column" style="width:25%"><ul>
+                <li><a style="color:#000000;cursor:default;background-color:transparent;"><b>Clothing :</b></a></li>
+		<li style="padding-left:30px;"><a href="http://www.savemyrupee.com/jabong-coupons/" class="storeTag"><font size="2">Jabong</font></a></li>
+		<li style="padding-left:30px;"><a href="http://www.savemyrupee.com/myntra-coupons/" class="storeTag"><font size="2">Myntra</font></a></li>
+		<li style="padding-left:30px;"><a href="http://www.savemyrupee.com/fashionara-coupons/" class="storeTag"><font size="2">Fashionara</font></a></li>
+                <li style="padding-left:30px;"><a href="http://www.savemyrupee.com/zovi-coupons/" class="storeTag"><font size="2">Zovi</font></a></li>
+		<li style="padding-left:30px;"><a href="http://www.savemyrupee.com/yepme-coupons/" class="storeTag"><font size="2">Yepme</font></a></li>
+                <li style="padding-left:30px;"><a href="http://www.savemyrupee.com/freecultr-coupons/" class="storeTag"><font size="2">Freecultr</font></a></li>
+
+
+	
+	</ul></div>
+
+          <div class="column" style="width:25%"><ul>
+                
+                <li><a style="color:#000000;cursor:default;background-color:transparent;"><b>Travel Offers :</b></a></li>
+                <li style="padding-left:30px;"><a href="http://www.savemyrupee.com/goibibo-coupons/" class="storeTag"><font size="2">Goibibo</font></a></li>
+                
+		<li style="padding-left:30px;"><a href="http://www.savemyrupee.com/yatra-coupons/" class="storeTag"><font size="2">Yatra</font></a></li>
+
+                <li style="padding-top:40px;"><a style="color:#000000;cursor:default;background-color:transparent;"><b>Kids &amp; Toys :</b></a></li>
+		<li style="padding-left:30px;"><a href="http://www.savemyrupee.com/firstcry-coupons/" class="storeTag"><font size="2">Firstcry</font></a></li>
+		<li style="padding-left:30px;"><a href="http://www.savemyrupee.com/babyoye-coupons/" class="storeTag"><font size="2">Babyoye</font></a></li>
+
+
+	</ul></div>
+<div class="column" style="width:25%"><ul>
+                <li><a style="color:#000000;cursor:default;background-color:transparent;"><b>Food &amp; Drink :</b></a></li>
+                <li style="padding-left:30px;"><a href="http://www.savemyrupee.com/foodpanda-coupons/" class="storeTag"><font size="2">FoodPanda</font></a></li>
+                <li style="padding-left:30px;"><a href="http://www.savemyrupee.com/dominos-coupons/" class="storeTag"><font size="2">Dominos</font></a></li>
+                <li style="padding-left:30px;"><a href="http://www.savemyrupee.com/justeat-coupons/" class="storeTag"><font size="2">JustEat</font></a></li>
+                <li style="padding-left:30px;"><a href="http://www.savemyrupee.com/tastykhana-coupons/" class="storeTag"><font size="2">TastyKhana</font></a></li>
+
+                <li><a style="color:#000000;cursor:default;background-color:transparent;"><b>Home &amp; Kitchen :</b></a></li>
+		<li style="padding-left:30px;"><a href="http://www.savemyrupee.com/homeshop18-coupons/" class="storeTag"><font size="2">HomeShop18</font></a></li>
+		<li style="padding-left:30px;"><a href="http://www.savemyrupee.com/pepperfry-coupons/" class="storeTag"><font size="2">Pepperfry</font></a></li>
+		
+<li><a href="http://www.savemyrupee.com/stores" style="background-color:transparent;padding-top:35px;"><b><u><font size="3" color="#000000"><button style="height:40px;">Check out all popular stores</button></font></u></b></a></li>
+			
+	</ul></div>
+
+
+
+
+</div>
 </li>
 
-<li class="has-sub"><a href="http://www.savemyrupee.com/category/Apparel-Accessories" id="Apparel-Accessories">Apparel &amp; Accessories</a>
+
+<li style="width:175px;background-color:#141414;"><a href="http://www.savemyrupee.com/category/ValentinesDay-Deals" id="ValentinesDay-Deals"><center><font size="2">Valentines day Deals</font></center></a></li> 
+
+<li style="width:163px;background-color:#141414;"><a href="http://www.savemyrupee.com/category/Electronics"><center><font size="2">Electronics</font></center></a>
+<div class="submenu" style="width:220px;">
+<div class="column" style="width:100%">
 <ul>
-<li><a href="http://www.savemyrupee.com/category/For-him">For him</a></li>
-<li><a href="http://www.savemyrupee.com/category/For-her">For her</a></li>
-<li class="last"><a href="http://www.savemyrupee.com/category/Watches-Sunglasses">Watches &amp; Sunglasses</a></li>
+<li><a href="http://www.savemyrupee.com/category/Camera"><font size="2">Camera</font></a></li>
+<li><a href="http://www.savemyrupee.com/category/Mobile-Accessories"><font size="2">Mobile &amp; Accessories</font></a></li>
+<li><a href="http://www.savemyrupee.com/category/Laptop-Computer-Accessories"><font size="2">Laptop &amp; Computer accessories</font></a></li>
 </ul>
+</div>
+</div>
 </li>
 
-<li><a href="http://www.savemyrupee.com/category/Beauty-Personal-care" id="Beauty-Personal-care">Beauty &amp; Personal care</a></li>
 
-<li><a href="http://www.savemyrupee.com/category/Home-Kitchen" id="Home-Kitchen">Home &amp; Kitchen</a></li>
+<li style="width:178px;background-color:#141414;"><a href="http://www.savemyrupee.com/category/Apparel-Accessories" id="Apparel-Accessories"><center><font size="2">Apparel &amp; Accessories</font></center></a>
+<div class="submenu" style="width:180px;">
+<div class="column" style="width:90%">
+<ul>
+<li><a href="http://www.savemyrupee.com/category/For-him"><font size="2">For him</font></a></li>
+<li><a href="http://www.savemyrupee.com/category/For-her"><font size="2">For her</font></a></li>
+<li><a href="http://www.savemyrupee.com/category/Watches-Sunglasses"><font size="2">Watches &amp; Sunglasses</font></a></li>
+</ul>
+</div></div>
+</li>
+	
 
-<li><a href="http://www.savemyrupee.com/category/Food-Drink" id="Food-Drink">Food &amp; Drink</a></li>
-
-<li><a href="http://www.savemyrupee.com/category/Kids-Toys" id="Kids-Toys">Kids &amp; Toys</a></li>
-
-<li><a href="http://www.savemyrupee.com/category/Freebies" id="Freebies">Freebies</a></li>
 
 
+<li style="width:180px;background-color:#141414;"><a href="http://www.savemyrupee.com/category/Beauty-Personal-care" id="Beauty-Personal-care"><center><font size="2">Beauty &amp; Personal care</font></center></a></li>
+
+<li style="width:120px;background-color:#141414;"><a href="http://www.savemyrupee.com/category/Food-Drink" id="Food-Drink"><center><font size="2">Food &amp; Drink</font></center></a></li>
+
+<li style="width:110px;background-color:#141414;border-radius:0 5px 0 0;" class="drop"><a href="http://www.savemyrupee.com/category/Freebies" id="Freebies"><center><font size="2">Freebies</font></center></a>
+
+
+
+</li>
 
 
 </ul>
 </div>
-</td></tr></tbody></table>
 
 
-</td></tr></tbody></table>
-
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
 </div>
 <script src="http://www.savemyrupee.com/deeplinking.js" type="text/javascript"></script>
 <script type="text/javascript">
@@ -616,14 +710,38 @@ filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=
 <a href="http://www.savemyrupee.com/category/Movie-Entertainment" class="copy-link" style="align:right;line-height:1.7;padding-right:10px;"><font color="#E0E0E0" size="3" id="fonthov">Movie &amp; Entertainment</font></a>
 <a href="http://www.savemyrupee.com/category/Sports-Fitness" class="copy-link" style="align:right;line-height:1.7;padding-left:10px;padding-right:10px;"><font color="#E0E0E0" size="3" id="fonthov">Sports &amp; Fitness</font></a>
 <a href="http://www.savemyrupee.com/category/Freebies" class="copy-link" style="align:right;line-height:1.7;"><font color="#E0E0E0" size="3" id="fonthov">Freebies</font></a>
-</td></tr></tbody></table>
+</td></tr>
+
+
+<tr><td><br></td></tr>
+
+<tr><td height="14" align="left"><div style="padding-left:10px;"><b><font size="3" color="#ffffff" style="border-bottom: 1px dashed #ffffff;">Popular Online Stores</font></b></div><br>
+<a href="http://www.savemyrupee.com/flipkart-coupons/" class="copy-link" style="align:left;line-height:1.7;padding-left:10px;padding-right:10px;"><font color="#E0E0E0" size="3" id="fonthov">Flipkart Coupons</font></a>
+<a href="http://www.savemyrupee.com/amazon-coupons/" class="copy-link" style="align:left;line-height:1.7;padding-left:10px;padding-right:10px;"><font color="#E0E0E0" size="3" id="fonthov">Amazon Coupons</font></a>
+<a href="http://www.savemyrupee.com/snapdeal-coupons/" class="copy-link" style="align:left;line-height:1.7;padding-left:10px;padding-right:10px;"><font color="#E0E0E0" size="3" id="fonthov">Snapdeal Coupons</font></a>
+<a href="http://www.savemyrupee.com/tradus-coupons/" class="copy-link" style="align:left; line-height:1.7;padding-left:10px;padding-right:10px;"><font color="#E0E0E0" size="3" id="fonthov">Tradus Coupons</font></a>
+<a href="http://www.savemyrupee.com/jabong-coupons/" class="copy-link" style="align:left;line-height:1.7;padding-left:10px;padding-right:10px;"><font color="#E0E0E0" size="3" id="fonthov">Jabong Coupons</font></a>
+<a href="http://www.savemyrupee.com/myntra-coupons/" class="copy-link" style="align:right; line-height:1.7;padding-left:10px;padding-right:10px;"><font color="#E0E0E0" size="3" id="fonthov">Myntra Coupons</font></a></td></tr>
+
+<tr><td height="14" align="left" style="padding-left:10px;">
+
+<a href="http://www.savemyrupee.com/goibibo-coupons/" class="copy-link" style="align:right;line-height:1.7;padding-right:10px;"><font color="#E0E0E0" size="3" id="fonthov">Goibibo Coupons</font></a>
+<a href="http://www.savemyrupee.com/yatra-coupons/" class="copy-link" style="align:right;line-height:1.7;padding-left:10px;padding-right:10px;"><font color="#E0E0E0" size="3" id="fonthov">Yatra Coupons</font></a>
+<a href="http://www.savemyrupee.com/redbus-coupons/" class="copy-link" style="align:right;line-height:1.7;"><font color="#E0E0E0" size="3" id="fonthov">Redbus Coupons</font></a>
+<a href="http://www.savemyrupee.com/expedia-coupons/" class="copy-link" style="align:right;line-height:1.7;padding-left:10px;padding-right:10px;"><font color="#E0E0E0" size="3" id="fonthov">Expedia Coupons</font></a>
+<a href="http://www.savemyrupee.com/makemytrip-coupons/" class="copy-link" style="align:right;line-height:1.7;"><font color="#E0E0E0" size="3" id="fonthov">Makemytrip Coupons</font></a>
+
+</td></tr>
+
+
+</tbody></table>
 </td></tr></tbody></table>
 <br>
 <table height="10" width="100%" border="0" style="align=&quot;center&quot;" cellpadding="0" cellspacing="0">
 <tbody><tr><td height="14" align="left">
-</td><td align="left"><div style="padding-left:10px;"><b><font size="3" color="#ffffff" style="border-bottom: 1px dashed #ffffff;">Join Us</font></b></div><br><a href="https://www.facebook.com/pages/Savemyrupee/222486647897590?ref=hl" target="_blank"><img src="http://www.savemyrupee.com/images/iconfooterfb.jpg" alt="" align="TEXTTOP" style="padding-left:10px;"><font color="#E0E0E0" size="3" id="fonthov" style="padding-right:30px;"> Find us on Facebook</font></a>
-<a href="https://twitter.com/Savemyrupee" target="_blank"><img src="http://www.savemyrupee.com/images/twitter-icon-small.png" alt="" align="TEXTTOP"><font color="#E0E0E0" size="3" id="fonthov" style="padding-right:30px;">Follw us on Twitter</font></a>
-<a href="https://plus.google.com/113173802746507460886/posts" target="_blank"><img src="http://www.savemyrupee.com/images/gplus-iconfooter.png" alt="" align="TEXTTOP"><font color="#E0E0E0" style="bottom:1px;" size="3" id="fonthov">Find us on Google</font></a>
+</td><td align="left"><div style="padding-left:10px;"><b><font size="3" color="#ffffff" style="border-bottom: 1px dashed #ffffff;">Join Us</font></b></div><br><a href="https://www.facebook.com/pages/Savemyrupee/222486647897590?ref=hl" target="_blank"><img src="http://www.savemyrupee.com/images/iconfooterfb.jpg" alt="" align="TEXTTOP" style="padding-left:10px;" width="20px" height="20px"><font color="#E0E0E0" size="3" id="fonthov" style="padding-right:30px;"> Find us on Facebook</font></a>
+<a href="https://twitter.com/Savemyrupee" target="_blank"><img src="http://www.savemyrupee.com/images/twitter-icon-small.png" alt="" align="TEXTTOP" width="20px" height="20px"><font color="#E0E0E0" size="3" id="fonthov" style="padding-right:30px;">Follw us on Twitter</font></a>
+<a href="https://plus.google.com/113173802746507460886/posts" target="_blank"><img src="http://www.savemyrupee.com/images/gplus-iconfooter.png" alt="" align="TEXTTOP" width="16px" height="16px"><font color="#E0E0E0" style="bottom:1px;" size="3" id="fonthov">Find us on Google</font></a>
 </td></tr></tbody></table>
 <br>
 <table height="10" width="100%" border="0" style="align=&quot;center&quot;" cellpadding="0" cellspacing="0">
