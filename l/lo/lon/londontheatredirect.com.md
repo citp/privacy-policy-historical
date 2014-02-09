@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londontheatredirect.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030020909id_/http%3A//www.londontheatredirect.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londontheatredirect.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209134814id_/http%3A//londontheatredirect.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # London Theatre Direct - PrivacyPolicy
 
