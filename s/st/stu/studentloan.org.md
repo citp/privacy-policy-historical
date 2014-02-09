@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the studentloan.org privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208233236id_/http%3A//www.studentloan.org/Contact-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentloan.org privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209051142id_/http%3A//www.studentloan.org/Contact-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy - Iowa Student Loan - Picture Your Success!
 
-Your privacy and security are very important to us. View our [Customer Privacy Notice](https://web.archive.org/web/20131208233236id_/http%3A//www.studentloan.org/Contact-Us/Privacy-Policy-Customer.aspx) and our [Online Privacy Statement](https://web.archive.org/web/20131208233236id_/http%3A//www.studentloan.org/Contact-Us/Privacy-Policy-Online.aspx) to learn more about how we collect, use, disclose and secure information about you.
+Your privacy and security are very important to us. View our [Customer Privacy Notice](https://web.archive.org/web/20140209051142id_/http%3A//www.studentloan.org/Contact-Us/Privacy-Policy-Customer.aspx) and our [Online Privacy Statement](https://web.archive.org/web/20140209051142id_/http%3A//www.studentloan.org/Contact-Us/Privacy-Policy-Online.aspx) to learn more about how we collect, use, disclose and secure information about you.
 
 ## Customer Awareness Information
 
@@ -14,7 +14,7 @@ If Iowa Student Loan needs to contact you, it will be done in a manner that prot
 
 ## For More Information
 
-Visit Iowa Student Loan's [Identity Theft and Online Fraud page](https://web.archive.org/web/20131208233236id_/http%3A//www.studentloan.org/Contact-Us/Identity-Theft.aspx) to learn more about how to protect yourself from these risks and what to do if you suspect you are a victim.
+Visit Iowa Student Loan's [Identity Theft and Online Fraud page](https://web.archive.org/web/20140209051142id_/http%3A//www.studentloan.org/Contact-Us/Identity-Theft.aspx) to learn more about how to protect yourself from these risks and what to do if you suspect you are a victim.
 
 If you have questions about this privacy and customer awareness information, please contact:
 
