@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animals-zone.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221144816id_/http%3A//www.animals-zone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animals-zone.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210001217id_/http%3A//www.animals-zone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Animals Zone
 
@@ -48,7 +48,7 @@ Dreamattic may launch a mailing list for some or all of its sites. In order to s
 **Business Transitions**  
 In the event Dreamattic goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
 
-**Legal[Disclaimer](http://www.animals-zone.com/disclaimer "Disclaimer")**  
+**Legal Disclaimer**  
 Though we make every effort to preserve user privacy, Dreamattic may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on any of our sites.
 
 **Notification of Changes**  
