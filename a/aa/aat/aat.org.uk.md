@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aat.org.uk privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210063015id_/http%3A//www.aat.org.uk/get-myaat/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aat.org.uk privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209215430id_/http%3A//www.aat.org.uk/get-myaat/privacy-policy) for the most accurate reproduction.*
 
 # AAT privacy policy | AAT
 
