@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the makinggameofthrones.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021205936id_/http%3A//www.hbo.com/html/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makinggameofthrones.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209182008id_/http%3A//www.hbo.com/html/privacy-policy/index.html) for the most accurate reproduction.*
 
 # HBO.com: Corporate Information: Privacy Policy
 
 ## HBO.com Privacy Policy
 
-Effective Date: December 9, 2009
+Effective Date: December 9, 2009.
 
 Thank you for visiting the HBO.com site (the "Site"). Your privacy is important to us. To better protect your privacy, we provide this Privacy Policy explaining our online information practices and the choices you can make about the way your information is collected and used at the Site. This Privacy Policy applies only to the Site, and covers information collected on or through or in connection with your use of the Site.
 
