@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the santanderbillpayment.co.uk privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105150018id_/https%3A//santanderbillpayment.co.uk/scripts/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the santanderbillpayment.co.uk privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209134510id_/https%3A//www.santanderbillpayment.co.uk/scripts/privacy.asp) for the most accurate reproduction.*
 
 # Santander Corporate Banking BillPay
 
