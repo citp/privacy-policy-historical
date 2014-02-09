@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebrities-galore.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906221711id_/http%3A//celebrities-galore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrities-galore.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209042453id_/http%3A//www.celebrities-galore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
