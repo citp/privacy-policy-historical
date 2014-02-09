@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the yourhrworld.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208201530id_/http%3A//www.yourhrworld.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourhrworld.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209032000id_/http%3A//www.yourhrworld.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Human Resource Management Forum - Privacy Policy
+# Human Resource Management Forum | HR India - Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at yourhrworld@gmail.com.  
-At Human Resource Management Forum, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.yourhrworld.com and how it is used.  
+At Human Resource Management Forum | HR India, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.yourhrworld.com and how it is used.  
 Log Files  
 Like many other Web sites, http://www.yourhrworld.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.  
 Cookies and Web Beacons  
@@ -16,5 +16,5 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 Google Adsense
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://www.yourhrworld.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.  
-Human Resource Management Forum has no access to or control over these cookies that are used by third-party advertisers.  
+Human Resource Management Forum | HR India has no access to or control over these cookies that are used by third-party advertisers.  
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.yourhrworld.com privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
