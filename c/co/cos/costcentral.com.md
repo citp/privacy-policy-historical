@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costcentral.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810220924id_/http%3A//www.costcentral.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costcentral.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209053610id_/http%3A//www.costcentral.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
