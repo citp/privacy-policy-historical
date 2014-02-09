@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wlwt.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018083103id_/http%3A//www.wlwt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlwt.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209132207id_/http%3A//www.wlwt.com/connect/privacy) for the most accurate reproduction.*
 
-# WLWT.com - Privacy
+# WLWT News 5s privacy policy
 
-**HEARST TELEVISION PRIVACY POLICY**
+  * **HEARST TELEVISION PRIVACY POLICY**
 
-This Web site (the "Site"), on which this Privacy Policy is posted, is operated by Hearst Television Inc. ("Hearst Television") and its parent, subsidiary and affiliated entities (collectively referred to herein as "we", "us", "our" or "Hearst"). We have created this privacy statement ("Privacy Policy") in order to demonstrate our commitment to the privacy of our Site's users, and to disclose our information gathering, use and dissemination practices with respect to the data collected online via this Site. It does not apply to information obtained by any other means (including on or through another Web site or source, or via any offline methods). By visiting this Site, you consent to these practices. Please take a moment to review the sections below. This Privacy Policy is incorporated into, and part of, the Site [Terms of Use](https://web.archive.org/station/21273835/detail.html), which governs your use of this Site in general.
+This Web site (the "Site"), on which this Privacy Policy is posted, is operated by Hearst Television Inc. ("Hearst Television") and its parent, subsidiary and affiliated entities (collectively referred to herein as "we", "us", "our" or "Hearst"). We have created this privacy statement ("Privacy Policy") in order to demonstrate our commitment to the privacy of our Site's users, and to disclose our information gathering, use and dissemination practices with respect to the data collected online via this Site. It does not apply to information obtained by any other means (including on or through another Web site or source, or via any offline methods). By visiting this Site, you consent to these practices. Please take a moment to review the sections below. This Privacy Policy is incorporated into, and part of, the Site [Terms of Use](https://web.archive.org/connect/terms), which governs your use of this Site in general.
 
 **You may opt in or opt out of our sharing of your personally identifiable information with third parties for their marketing use by following the directions in the "What are my opt-out rights?" section below.**
 
@@ -70,7 +70,7 @@ _Internet Broadcasting Systems Inc.:_ One of our Service Providers, Internet Bro
 
 _Sharing with Third-Party Marketers:_ We may share your personally identifiable information with, and make our customer lists available to, third parties (outside of Hearst), who may choose to contact you to promote their own goods and services, or who may use such information for other purposes, including direct marketing. Additionally, when you enter a contest or sweepstakes that is sponsored by a third party, independently or jointly with us, your personally identifiable information may be shared with that third party for their use, in their discretion and in accordance with their privacy policies, including for their direct marketing purposes. While some of our contests and sweepstakes will ask you at the time of entry whether you would like your personally identifiable information to be shared with the third-party sponsor, other contests will not give you that option. Thus, in that event, if you do not want your information to be shared, you should not enter the contest. We are not responsible for how our co-sponsors or such other third parties may use your information. **If you want us to stop sharing your personally identifiable information with third parties for their direct marketing use, follow the directions in the "What are my opt-out rights?" section below.**
 
-_Legally-Compelled Disclosures:_ To the extent permitted or required by law, any information collected on or through the Site or concerning its use (including personally identifiable and non-personally identifiable information) may be disclosed to government authorities or third parties pursuant to a legal request, subpoena, or other process that requires disclosure of information. We may also use or disclose your information to enforce compliance with our [Terms of Use](https://web.archive.org/station/21273835/detail.html) and as permitted by law to collect debts, fight fraud or protect the rights or property of the Site, our customers, our users, or third parties, or when we otherwise believe in good faith that the law requires it.
+_Legally-Compelled Disclosures:_ To the extent permitted or required by law, any information collected on or through the Site or concerning its use (including personally identifiable and non-personally identifiable information) may be disclosed to government authorities or third parties pursuant to a legal request, subpoena, or other process that requires disclosure of information. We may also use or disclose your information to enforce compliance with our [Terms of Use](https://web.archive.org/connect/terms) and as permitted by law to collect debts, fight fraud or protect the rights or property of the Site, our customers, our users, or third parties, or when we otherwise believe in good faith that the law requires it.
 
 _Information Posted to Public Forums:_ This Site may make chat rooms, forums, message boards, news groups and/or other similar features available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose personally identifiable information about you or anyone else. The Site cannot and does not accept any responsibility for ensuring the privacy of any information that you choose to disclose in these areas. Any content or information you provide to these areas of the Site is done at your own risk.
 
@@ -122,7 +122,7 @@ If we believe that the security of any user's personal information in our posses
 
 **How can you access and edit your personally identifiable information?**
 
-You can access and/or edit any of the personally identifiable information you have provided to us by logging in to your account on the Site (if applicable). You may edit your email notification preferences [here](https://web.archive.org/emailnewsletters/index.html) (if applicable), or if you are a member of the u local community, you may edit your profile preferences [here](https://web.archive.org/ulocal/).
+You can access and/or edit any of the personally identifiable information you have provided to us by logging in to your account on the Site (if applicable). You may edit your email notification preferences [here](https://web.archive.org/connect/emailnewsletters) (if applicable), or if you are a member of the u local community, you may edit your profile preferences [here](http://ulocal.wlwt.com/).
 
 **What Web sites does this Privacy Policy cover?**
 
@@ -142,6 +142,9 @@ We reserve the right, in its sole discretion, to modify, alter or otherwise upda
 
 **How can you ask questions or contact us?**
 
-If you have other questions or concerns about our privacy policies or data use with respect to this Site, please contact us by clicking [here](mailto:hearsttelevisionnotice@hearst.com).
+If you have other questions or concerns about our privacy policies or data use with respect to this Site, please contact us by clicking [here](mailto:hearsttelevisionnotice@hearst.com)
 
 **Effective: October 1, 2009**
+
+
+
