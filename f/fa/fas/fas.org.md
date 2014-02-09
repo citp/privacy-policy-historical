@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fas.org privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013172913id_/http%3A//www.fas.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fas.org privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209153536id_/http%3A//www.fas.org/about/privacy.html) for the most accurate reproduction.*
 
 # Federation of American Scientists :: Privacy Policy
 
-[](https://web.archive.org/web/20131013172913id_/http%3A//www.fas.org/member/donate_today.html "Donate")
+[](https://web.archive.org/web/20140209153536id_/http%3A//www.fas.org/member/donate_today.html "Donate")
 
 The Federation of American Scientists (FAS) respects your right to privacy and is committed to maintaining your confidence and trust. We have created the following privacy policy to inform you about the ways in which we collect and use this information.
 
