@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 599fashion.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516052019id_/http%3A//www.599fashion.com/Privacy-Policy_ep_38-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 599fashion.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209211713id_/http%3A//www.599fashion.com/Privacy-Policy_ep_38-1.html) for the most accurate reproduction.*
 
-# Our Privacy Policy | Clothing Outlet Stores | Discount Clothing Online | 599fashion.com
+# Privacy Policy | 599fashion.com
 
 > **Reduce:**
 > 
