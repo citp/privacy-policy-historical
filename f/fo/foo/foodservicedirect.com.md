@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodservicedirect.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811173421id_/http%3A//www.foodservicedirect.com/index.cfm/inc/1/temp/privacyPolicy/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodservicedirect.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209171449id_/http%3A//www.foodservicedirect.com/index.cfm/inc/1/temp/privacyPolicy/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - FoodServiceDirect
 
