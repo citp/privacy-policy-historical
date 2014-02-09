@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gulahmedshop.com privacy policy that was archived on 2013-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130919062011id_/http%3A//gulahmedshop.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulahmedshop.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209053500id_/http%3A//www.gulahmedshop.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Gul Ahmed Shop, Pakistan
 
