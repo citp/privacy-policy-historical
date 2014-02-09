@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theistudio.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809055933id_/http%3A//www.theistudio.com/muse/project-inquiry/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theistudio.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209125159id_/http%3A//www.theistudio.com/muse/project-inquiry/privacy-security) for the most accurate reproduction.*
 
 # Privacy | WordPress Consultant: Judith Kallos, At Your Service...
 
@@ -61,5 +61,3 @@ I’m here to help those who want to succeed and are looking for an advocate the
 #### [@istudio](http://twitter.com/istudio)
 
 At Your Service... WordPress Consultant and Online Business Coach @ The IStudio® Est. 1995
-
-Life without your Website: Hostgator, BlueHost, DreamHost and several others all down most of today... <http://t.co/W9pZzsFg0Z> \- 7 days ago
