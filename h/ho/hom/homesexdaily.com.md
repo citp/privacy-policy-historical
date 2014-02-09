@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesexdaily.com privacy policy that was archived on 2010-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100310135158id_/http%3A//www.homesexdaily.com/%3Fview%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesexdaily.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209100716id_/http%3A//www.homesexdaily.com/privacy) for the most accurate reproduction.*
 
 # Home Sex Daily - Privacy policy
 
@@ -106,4 +106,4 @@ rn
 
 rnThis privacy notice may be revised periodically and users are encouraged to review it periodically to stay aware of any changes. Your continued use of the Home Sex Daily Video site constitutes your agreement to this privacy notice and any future revisions.rn
 
-rn 
+rn
