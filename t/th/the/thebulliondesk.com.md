@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebulliondesk.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424025937id_/http%3A//www.fastmarkets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebulliondesk.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209184439id_/http%3A//www.fastmarkets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fastmarkets
 
