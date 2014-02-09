@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organicthemes.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813192331id_/https%3A//privacy.truste.com/reseller/privacy-policy/Organic-Themes/certified/35921308-2fc9-4130-966a-a7e7c50d3018) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organicthemes.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209105616id_/https%3A//privacy.truste.com/reseller/privacy-policy/Organic-Themes/certified/35921308-2fc9-4130-966a-a7e7c50d3018) for the most accurate reproduction.*
 
 # Welcome to organicthemes.com
 
@@ -10,9 +10,9 @@ This privacy statement describes how **organicthemes.com** collects and uses you
 
 ## Tracking On This Site »
 
-](https://web.archive.org/web/20130813192331id_/https%3A//privacy.truste.com/reseller/privacy-policy/Organic-Themes/certified/35921308-2fc9-4130-966a-a7e7c50d3018#Tracking)
+](https://web.archive.org/web/20140209105616id_/https%3A//privacy.truste.com/reseller/privacy-policy/Organic-Themes/certified/35921308-2fc9-4130-966a-a7e7c50d3018#Tracking)
 
-This website uses other companies to collect data about how you use this site, such as: what pages you viewed, how long you were on a particular page, or whether you filled out a form to understand how people use the site. **[learn more »](https://web.archive.org/web/20130813192331id_/https%3A//privacy.truste.com/reseller/privacy-policy/Organic-Themes/certified/35921308-2fc9-4130-966a-a7e7c50d3018#Tracking)**
+This website uses other companies to collect data about how you use this site, such as: what pages you viewed, how long you were on a particular page, or whether you filled out a form to understand how people use the site. **[learn more »](https://web.archive.org/web/20140209105616id_/https%3A//privacy.truste.com/reseller/privacy-policy/Organic-Themes/certified/35921308-2fc9-4130-966a-a7e7c50d3018#Tracking)**
 
 * * *
 
