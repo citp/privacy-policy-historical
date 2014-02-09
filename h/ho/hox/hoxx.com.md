@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoxx.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814230119id_/https%3A//www.hoxx.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoxx.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210000614id_/https%3A//www.hoxx.com/policy) for the most accurate reproduction.*
 
 # HOXX.com | 100% Free Blog Hosting| Your Wordpress Blog Host | Start Your Free Blog Now!
 
