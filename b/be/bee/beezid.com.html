@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the beezid.com privacy policy that was archived on 2013-08-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130806212443id_/http%3A//www.beezid.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the beezid.com privacy policy that was archived on 2014-02-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209104758id_/http%3A//www.beezid.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
     <base href="http://www.beezid.com/">
@@ -12,11 +12,11 @@
 	<meta property="fb:admins" content="100001127027079">
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="stylesheet" type="text/css" href="/ccss/us_en_us_beezid_164.css">
-	<link rel="stylesheet" type="text/css" href="/css/external.css">
 
-	<link rel="stylesheet" type="text/css" href="/themed/seven_day_bidstravaganza_2013/css/seven_db.css?v3">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KJ3CRW"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js"></script>
+	<link rel="stylesheet" type="text/css" href="/css/common.css?v250">
+<link rel="stylesheet" type="text/css" href="/ccss/us_en_us_beezid_250.css">
+	<link rel="stylesheet" type="text/css" href="/css/external.css?v4">
+<link rel="stylesheet" type="text/css" href="/themed/strike_leaderboard_2014/css/strike_leaderboard_2014.css"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KJ3CRW"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js"></script>
 <script type="text/javascript">
 			if(!(window.Prototype)) {
 				document.write('<script type="text/javascript" src="/app/webroot/js/ext-cached/ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js"><\/script>');
@@ -35,8 +35,8 @@
 			}
 		</script><script type="text/javascript" src="/app/webroot/js/ext-cached/ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
 
-	<script type="text/javascript" src="/js/prototip/prototip.js"></script>
-<script type="text/javascript" src="/cjs/us_en_us_beezid_230.js"></script>
+	<script type="text/javascript" src="/js/prototip/prototip.js?v1"></script>
+<script type="text/javascript" src="/cjs/us_en_us_beezid_346.js"></script>
 <script type="text/javascript">
 //<![CDATA[
 
@@ -47,8 +47,7 @@
 	var AUTOBID_ALREADY_SET = 12;
 	var SNIPER_ALREADY_SET = 13;
 	var AUTOBID_INACTIVE_AUCTION = 9;
-	var NVIRGIN = 6;
-	var NSTARTER = 26;
+	var AUTOBID_USER_STATUS = 6;
 	var AUTOTHRILL = 7;
 	var BIDLIMIT = 5;
 	var AUTOBID_BADRANGE = 16;
@@ -59,16 +58,26 @@
 	var ABD_BIDS_EXCEEDED = 25;
 	var AUTOBID_ERROR_BIN = 27;
 	var AUTOBID_RESERVED_BIDS = 8;
+	var PRE_BID_WARNING = 29;
 	var buyBidsURL = '/my_account/buy_bids';
 	var buyBidsLink = '<a href="/my_account/buy_bids">here</a>';
-	Beezid.info = new BzdInfo({"beezidVersion":"2.7183","userId":0,"username":null,"firstName":null,"idleTimeout":900,"bidLock":false});
+	Beezid.info = new BzdInfo({"beezidVersion":"3.1416","userId":0,"username":null,"firstName":null,"lastName":null,"idleTimeout":900,"bidLock":false});
+//]]>
+</script><script type="text/javascript">
+//<![CDATA[
+
+	Beezid.storeCache = [];
+	initFuncs.push(function () {
+		Beezid.storeManager = new StoreManager();
+		Beezid.watchlistManager = new WatchlistManager();
+	Beezid.autobidManager = new AutobidManager();});
 //]]>
 </script><script type="text/javascript">
 //<![CDATA[
 
 		refer();
 		var siteTimeDiff = 0;
-		var timeZone = "EDT";
+		var timeZone = "EST";
 		var timeFormat = "m-d-Y H:i:s";
 	
 //]]>
@@ -93,18 +102,32 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-KJ3CRW');</script>
-<!-- End Google Tag Manager --> 	 <div id="master_wrapper">
+<!-- End Google Tag Manager -->
+ 	 <div id="master_wrapper">
 <!--[if IE 6]>
 <script src="js/pngfix.js"></script>
 <![endif]-->
 <!-- Notification Bar -->
-    <!-- Notification Bar -->
+<div id="theBar" class="nbar_normal">
+	<div class="nbar_min_max_holder">
+		<div class="nbar_logo"></div>
+		<div class="clear_float"></div>
+	</div>
+	<div class="nbar_btn_holder">
+		<div class="nbar_btn_normal nbar_clear">
+			<div class="nbar_min_max_btn">
+				<div id="minMaxButt" class="nbar_min_max_icon_min"></div>
+			</div>
+		</div>
+	</div>
+
+</div>    <!-- Notification Bar -->
   <div id="div_cache"></div>	<button class="gotop btn" id="gotop"><i class="icon icon-gotop"></i></button>
 
 	<div class="common_main_header">
 <div class="common_tp_1">
 	<div class="common_logo">
-	<a href="http://www.beezid.com"><img src="/img/pages/common/common_beezid_logo.png?v1" alt="penny auctions" border="0"></a>	</div>
+	<a href="http://www.beezid.com"><img src="/img/pages/common/common_beezid_logo.png?v1" alt="discounted items for sale &amp; auctions" border="0"></a>	</div>
 	<div class="common_lb_holder">
 	<script type="text/javascript">
 //<![CDATA[
@@ -131,38 +154,71 @@ initFuncs.push(function() {
 	
 		<div id="uCheckRegister" class="hdr_log_box" style="display: none">
 		<!-- LOGIN BOX -->
-        <div class="lgn_left"></div>
 		<div class="common_login_box">
             <!-- LOGIN FORM -->
             <form id="login_box_form" method="post" action="https://www.beezid.com/users/login">
-                <input name="data[User][username]" id="UserUsername" type="text" maxlength="45" value="">
-                <label class="ui_holder" for="UserUsername">Username/Email</label>
-                <input type="password" name="data[User][password]" id="UserPassword" value="">
-                <label class="pi_holder" for="UserPassword">Password</label>
-            	<a href="/forgotten-password" class="fgt_pass">Forgot Password?</a>                <input type="submit" value="LOGIN" class="btn btn-primary common_login_btn">
+				<input name="data[User][username]" id="UserUsername" type="text" maxlength="45" value="Username/Email">
+				<input type="text" name="data[User][password]" id="UserPassword" value="Password">
+				<a href="/forgotten-password" class="fgt_pass">Forgot Password?</a>				<input type="submit" value="LOGIN" class="btn btn-primary common_login_btn" id="common_login_btn">
+				<script type="text/javascript">
+					initFuncs.push(function() {
+						$('UserPassword').observe('focus', function() {
+							if (this.value == i18n.beezid.user_password_label) {
+								this.value='';this.type = 'password';
+							}
+							this.removeClassName('login_box_input_focus');
+						});
+
+						$('UserPassword').observe('blur', function() {
+							if(this.value == '') {
+								this.type = 'text';
+								this.value = i18n.beezid.user_password_label;
+								this.addClassName('login_box_input_focus');
+							}
+						});
+
+						$('UserUsername').observe('focus', function() {
+							if (this.value == i18n.beezid.user_name_label) {
+								this.value='';
+							}
+							this.removeClassName('login_box_input_focus');
+						});
+
+						$('UserUsername').observe('blur', function() {
+							if(this.value == '') {
+								this.value = i18n.beezid.user_name_label;
+								this.addClassName('login_box_input_focus');
+							}
+						});
+
+						if($('UserPassword').getValue() != i18n.beezid.user_password_label) {
+							$('UserPassword').setAttribute('type', 'password');
+						} else {
+							$('UserUsername').addClassName('login_box_input_focus');
+							$('UserPassword').addClassName('login_box_input_focus');
+						}
+					});
+				</script>
             </form>
             <!-- LOGIN FORM -->
 		</div>
-        <div class="lgn_right"></div>
 	</div>
     <div class="clear"></div>
 		<div id="uCheckLogged" class="hdr_log_box" style="display:none">
 		<!-- LOGIN BOX -->
-        <div class="lgn_left"></div>
 		<div class="common_login_box">
             <!-- USER INFO -->
             <p class="common_login_box_login_name">Hi <strong id="userFName">&nbsp;</strong> Welcome Back!</p>
 
 			<a href="/my_account/invite_friend" class="btn_login_box_invite_friend_normal">Invite your friends. Get Paid in Bids.</a>
-            <div class="common_login_box_exit"><a href="https://www.beezid.com/logout">LOG OUT</a></div>
+            <div class="common_login_box_exit">
+			<a href="https://www.beezid.com/logout">LOG OUT</a>            </div>
             <div class="clear"></div>
             <!-- /USER INFO -->
 		</div>
-        <div class="lgn_right"></div>
 	</div>
     <div class="clear"></div>
-					<div id="joinUsNow" class="btn btn-cta btn_joinnow go_register">JOIN NOW!</div>
-		      <div class="social_share">
+		<div id="joinUsNow" class="btn btn-cta btn_joinnow go_register">JOIN NOW!</div>      <div class="social_share">
 
 				<div id="fb_like" class="fb_like">&nbsp;</div>
 		
@@ -181,297 +237,780 @@ initFuncs.push(function() {
 				<ul class="menu" id="megadropdown">
 	<li class="mega_filler"></li>
 
-	
-
-<li id="cameras-camcorders" class="hasSub">
+	<li id="cameras-camcorders" class="hasSub">
 	<a href="/cameras-camcorders?sect=auctions" id="cameras-camcorders">  Cameras &amp; Camcorders</a>	<div class="mega_content mc-cameras-camcorders" id="mega_content-cameras-camcorders">
+		<div class="mega_content_switch">
+			<div class="btn-group">
+				<div class="btn active auction_count_btn">
+					<i class="icon icon-gavel"></i>Auction Items					(<b>30</b>)
+				</div>
+				<div class="btn  store_count_btn">
+					<i class="icon icon-shopping-cart"></i>Store Items					(<b>42</b>)
+				</div>
+			</div>
+		</div>
 		<ul>
-		<a href="/cameras-camcorders?sect=auctions" class="btn" id="ma_back-cameras-camcorders"><i class="icon icon-eye-open"></i> SEE ALL AUCTIONS</a>								<li>
+		<a href="/cameras-camcorders?sect=auctions" class="btn btn-see" id="ma_back-cameras-camcorders"><i class="icon icon-eye-open"></i> SEE ALL AUCTIONS</a>			<li>
 				<a href="/cameras-camcorders/cameras-slr-digital?sect=auctions"><img src="/img/pages/common/categories/cameras-slr-digital.jpg" alt="Digital SLR" rel="nofollow"></a>				<p>
-					<a href="/cameras-camcorders/cameras-slr-digital?sect=auctions">Digital SLR <b>(11)</b></a>				</p>
+										<a href="/cameras-camcorders/cameras-slr-digital?sect=auctions">
+						Digital SLR						<b class="_num_auction">
+						(12)
+						</b>
+						<b class="_num_store" style="display:none">
+						(14)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/cameras-camcorders/digital-cameras?sect=auctions"><img src="/img/pages/common/categories/digital-cameras.jpg" alt="Digital Cameras" rel="nofollow"></a>				<p>
-					<a href="/cameras-camcorders/digital-cameras?sect=auctions">Digital Cameras <b>(6)</b></a>				</p>
+										<a href="/cameras-camcorders/digital-cameras?sect=auctions">
+						Digital Cameras						<b class="_num_auction">
+						(7)
+						</b>
+						<b class="_num_store" style="display:none">
+						(5)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/cameras-camcorders/camcorders?sect=auctions"><img src="/img/pages/common/categories/camcorders.jpg" alt="Camcorders" rel="nofollow"></a>				<p>
-					<a href="/cameras-camcorders/camcorders?sect=auctions">Camcorders <b>(14)</b></a>				</p>
+										<a href="/cameras-camcorders/camcorders?sect=auctions">
+						Camcorders						<b class="_num_auction">
+						(11)
+						</b>
+						<b class="_num_store" style="display:none">
+						(23)
+						</b>
+					</a>
+				</p>
 			</li>
 			
 				</ul>
 	</div>
 </li>
-
 
 <li id="cars" class="hasSub">
 	<a href="/cars?sect=auctions" id="cars">  Cars &amp; Car Accessories</a>	<div class="mega_content mc-cars" id="mega_content-cars">
+		<div class="mega_content_switch">
+			<div class="btn-group">
+				<div class="btn active auction_count_btn">
+					<i class="icon icon-gavel"></i>Auction Items					(<b>16</b>)
+				</div>
+				<div class="btn  store_count_btn">
+					<i class="icon icon-shopping-cart"></i>Store Items					(<b>8</b>)
+				</div>
+			</div>
+		</div>
 		<ul>
-		<a href="/cars?sect=auctions" class="btn" id="ma_back-cars"><i class="icon icon-eye-open"></i> SEE ALL AUCTIONS</a>								<li>
+		<a href="/cars?sect=auctions" class="btn btn-see" id="ma_back-cars"><i class="icon icon-eye-open"></i> SEE ALL AUCTIONS</a>			<li>
 				<a href="/cars/gps-systems-accessories?sect=auctions"><img src="/img/pages/common/categories/gps-systems-accessories.jpg" alt="GPS Systems &amp; Accessories" rel="nofollow"></a>				<p>
-					<a href="/cars/gps-systems-accessories?sect=auctions">GPS Systems &amp; Accessories <b>(7)</b></a>				</p>
+										<a href="/cars/gps-systems-accessories?sect=auctions">
+						GPS Systems &amp; Accessories						<b class="_num_auction">
+						(7)
+						</b>
+						<b class="_num_store" style="display:none">
+						(5)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/cars/audio-for-cars?sect=auctions"><img src="/img/pages/common/categories/audio-for-cars.jpg" alt="Audio for Cars" rel="nofollow"></a>				<p>
-					<a href="/cars/audio-for-cars?sect=auctions">Audio for Cars <b>(4)</b></a>				</p>
+										<a href="/cars/audio-for-cars?sect=auctions">
+						Audio for Cars						<b class="_num_auction">
+						(4)
+						</b>
+						<b class="_num_store" style="display:none">
+						(3)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/cars/vehicles?sect=auctions"><img src="/img/pages/common/categories/vehicles.jpg" alt="Cars" rel="nofollow"></a>				<p>
-					<a href="/cars/vehicles?sect=auctions">Cars <b>(5)</b></a>				</p>
+										<a href="/cars/vehicles?sect=auctions">
+						Cars						<b class="_num_auction">
+						(5)
+						</b>
+						<b class="_num_store" style="display:none">
+						(0)
+						</b>
+					</a>
+				</p>
 			</li>
 			
 				</ul>
 	</div>
 </li>
-
 
 <li id="computers" class="hasSub">
 	<a href="/computers?sect=auctions" id="computers">  Computers</a>	<div class="mega_content mc-computers" id="mega_content-computers">
+		<div class="mega_content_switch">
+			<div class="btn-group">
+				<div class="btn active auction_count_btn">
+					<i class="icon icon-gavel"></i>Auction Items					(<b>109</b>)
+				</div>
+				<div class="btn  store_count_btn">
+					<i class="icon icon-shopping-cart"></i>Store Items					(<b>90</b>)
+				</div>
+			</div>
+		</div>
 		<ul>
-		<a href="/computers?sect=auctions" class="btn" id="ma_back-computers"><i class="icon icon-eye-open"></i> SEE ALL AUCTIONS</a>								<li>
+		<a href="/computers?sect=auctions" class="btn btn-see" id="ma_back-computers"><i class="icon icon-eye-open"></i> SEE ALL AUCTIONS</a>			<li>
 				<a href="/computers/laptops?sect=auctions"><img src="/img/pages/common/categories/laptops.jpg" alt="Laptops &amp; Notebooks" rel="nofollow"></a>				<p>
-					<a href="/computers/laptops?sect=auctions">Laptops &amp; Notebooks <b>(14)</b></a>				</p>
+										<a href="/computers/laptops?sect=auctions">
+						Laptops &amp; Notebooks						<b class="_num_auction">
+						(14)
+						</b>
+						<b class="_num_store" style="display:none">
+						(19)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/computers/ipad-tablets?sect=auctions"><img src="/img/pages/common/categories/ipad-tablets.jpg" alt="iPad &amp; Tablets" rel="nofollow"></a>				<p>
-					<a href="/computers/ipad-tablets?sect=auctions">iPad &amp; Tablets <b>(40)</b></a>				</p>
+										<a href="/computers/ipad-tablets?sect=auctions">
+						iPad &amp; Tablets						<b class="_num_auction">
+						(63)
+						</b>
+						<b class="_num_store" style="display:none">
+						(15)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/computers/printers-monitors?sect=auctions"><img src="/img/pages/common/categories/printers-monitors.jpg" alt="Printers &amp; Monitors" rel="nofollow"></a>				<p>
-					<a href="/computers/printers-monitors?sect=auctions">Printers &amp; Monitors <b>(5)</b></a>				</p>
+										<a href="/computers/printers-monitors?sect=auctions">
+						Printers &amp; Monitors						<b class="_num_auction">
+						(6)
+						</b>
+						<b class="_num_store" style="display:none">
+						(0)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/computers/usb-flash-hard-drives?sect=auctions"><img src="/img/pages/common/categories/usb-flash-hard-drives.jpg" alt="USB Flash &amp; Hard Drives" rel="nofollow"></a>				<p>
-					<a href="/computers/usb-flash-hard-drives?sect=auctions">USB Flash &amp; Hard Drives <b>(13)</b></a>				</p>
+										<a href="/computers/usb-flash-hard-drives?sect=auctions">
+						USB Flash &amp; Hard Drives						<b class="_num_auction">
+						(9)
+						</b>
+						<b class="_num_store" style="display:none">
+						(21)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/computers/all-in-one-desktop-pc?sect=auctions"><img src="/img/pages/common/categories/all-in-one-desktop-pc.jpg" alt="All-In-One Desktops &amp; PCs" rel="nofollow"></a>				<p>
-					<a href="/computers/all-in-one-desktop-pc?sect=auctions">All-In-One Desktops &amp; PCs <b>(5)</b></a>				</p>
+										<a href="/computers/all-in-one-desktop-pc?sect=auctions">
+						All-In-One Desktops &amp; PCs						<b class="_num_auction">
+						(4)
+						</b>
+						<b class="_num_store" style="display:none">
+						(6)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/computers/accessories-pc?sect=auctions"><img src="/img/pages/common/categories/accessories-pc.jpg" alt="Accessories" rel="nofollow"></a>				<p>
-					<a href="/computers/accessories-pc?sect=auctions">Accessories <b>(16)</b></a>				</p>
+										<a href="/computers/accessories-pc?sect=auctions">
+						Accessories						<b class="_num_auction">
+						(13)
+						</b>
+						<b class="_num_store" style="display:none">
+						(29)
+						</b>
+					</a>
+				</p>
 			</li>
 			
 				</ul>
 	</div>
 </li>
-
 
 <li id="electronics" class="hasSub">
 	<a href="/electronics?sect=auctions" id="electronics">  Electronics</a>	<div class="mega_content mc-electronics" id="mega_content-electronics">
+		<div class="mega_content_switch">
+			<div class="btn-group">
+				<div class="btn active auction_count_btn">
+					<i class="icon icon-gavel"></i>Auction Items					(<b>68</b>)
+				</div>
+				<div class="btn  store_count_btn">
+					<i class="icon icon-shopping-cart"></i>Store Items					(<b>140</b>)
+				</div>
+			</div>
+		</div>
 		<ul>
-		<a href="/electronics?sect=auctions" class="btn" id="ma_back-electronics"><i class="icon icon-eye-open"></i> SEE ALL AUCTIONS</a>								<li>
+		<a href="/electronics?sect=auctions" class="btn btn-see" id="ma_back-electronics"><i class="icon icon-eye-open"></i> SEE ALL AUCTIONS</a>			<li>
 				<a href="/tv-video/players-bluray?sect=auctions"><img src="/img/pages/common/categories/players-bluray.jpg" alt="BluRay Players" rel="nofollow"></a>				<p>
-					<a href="/tv-video/players-bluray?sect=auctions">BluRay Players <b>(4)</b></a>				</p>
+										<a href="/tv-video/players-bluray?sect=auctions">
+						BluRay Players						<b class="_num_auction">
+						(2)
+						</b>
+						<b class="_num_store" style="display:none">
+						(9)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/movies-music/headphones?sect=auctions"><img src="/img/pages/common/categories/headphones.jpg" alt="Headphones" rel="nofollow"></a>				<p>
-					<a href="/movies-music/headphones?sect=auctions">Headphones <b>(18)</b></a>				</p>
+										<a href="/movies-music/headphones?sect=auctions">
+						Headphones						<b class="_num_auction">
+						(15)
+						</b>
+						<b class="_num_store" style="display:none">
+						(35)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/movies-music/ipod-mp3-players?sect=auctions"><img src="/img/pages/common/categories/ipod-mp3-players.jpg" alt="iPod &amp; MP3 Players" rel="nofollow"></a>				<p>
-					<a href="/movies-music/ipod-mp3-players?sect=auctions">iPod &amp; MP3 Players <b>(21)</b></a>				</p>
+										<a href="/movies-music/ipod-mp3-players?sect=auctions">
+						iPod &amp; MP3 Players						<b class="_num_auction">
+						(23)
+						</b>
+						<b class="_num_store" style="display:none">
+						(63)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/tv-video/system-home-theatre?sect=auctions"><img src="/img/pages/common/categories/system-home-theatre.jpg" alt="Home Theatre" rel="nofollow"></a>				<p>
-					<a href="/tv-video/system-home-theatre?sect=auctions">Home Theatre <b>(5)</b></a>				</p>
+										<a href="/tv-video/system-home-theatre?sect=auctions">
+						Home Theatre						<b class="_num_auction">
+						(10)
+						</b>
+						<b class="_num_store" style="display:none">
+						(19)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/movies-music/instruments?sect=auctions"><img src="/img/pages/common/categories/instruments.jpg" alt="Instruments" rel="nofollow"></a>				<p>
-					<a href="/movies-music/instruments?sect=auctions">Instruments <b>(6)</b></a>				</p>
+										<a href="/movies-music/instruments?sect=auctions">
+						Instruments						<b class="_num_auction">
+						(7)
+						</b>
+						<b class="_num_store" style="display:none">
+						(6)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/cars/gps-systems-accessories?sect=auctions"><img src="/img/pages/common/categories/gps-systems-accessories.jpg" alt="GPS Systems &amp; Accessories" rel="nofollow"></a>				<p>
-					<a href="/cars/gps-systems-accessories?sect=auctions">GPS Systems &amp; Accessories <b>(7)</b></a>				</p>
+										<a href="/cars/gps-systems-accessories?sect=auctions">
+						GPS Systems &amp; Accessories						<b class="_num_auction">
+						(7)
+						</b>
+						<b class="_num_store" style="display:none">
+						(5)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/cars/audio-for-cars?sect=auctions"><img src="/img/pages/common/categories/audio-for-cars.jpg" alt="Audio for Cars" rel="nofollow"></a>				<p>
-					<a href="/cars/audio-for-cars?sect=auctions">Audio for Cars <b>(4)</b></a>				</p>
+										<a href="/cars/audio-for-cars?sect=auctions">
+						Audio for Cars						<b class="_num_auction">
+						(4)
+						</b>
+						<b class="_num_store" style="display:none">
+						(3)
+						</b>
+					</a>
+				</p>
 			</li>
 			
 				</ul>
 	</div>
 </li>
-
 
 <li id="fun-games" class="hasSub">
 	<a href="/fun-games?sect=auctions" id="fun-games">  Fun &amp; Games</a>	<div class="mega_content mc-fun-games" id="mega_content-fun-games">
+		<div class="mega_content_switch">
+			<div class="btn-group">
+				<div class="btn active auction_count_btn">
+					<i class="icon icon-gavel"></i>Auction Items					(<b>53</b>)
+				</div>
+				<div class="btn  store_count_btn">
+					<i class="icon icon-shopping-cart"></i>Store Items					(<b>124</b>)
+				</div>
+			</div>
+		</div>
 		<ul>
-		<a href="/fun-games?sect=auctions" class="btn" id="ma_back-fun-games"><i class="icon icon-eye-open"></i> SEE ALL AUCTIONS</a>								<li>
+		<a href="/fun-games?sect=auctions" class="btn btn-see" id="ma_back-fun-games"><i class="icon icon-eye-open"></i> SEE ALL AUCTIONS</a>			<li>
 				<a href="/fun-games/toys?sect=auctions"><img src="/img/pages/common/categories/toys.jpg" alt="Toys" rel="nofollow"></a>				<p>
-					<a href="/fun-games/toys?sect=auctions">Toys <b>(12)</b></a>				</p>
+										<a href="/fun-games/toys?sect=auctions">
+						Toys						<b class="_num_auction">
+						(16)
+						</b>
+						<b class="_num_store" style="display:none">
+						(20)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/fun-games/sporting-goods?sect=auctions"><img src="/img/pages/common/categories/sporting-goods.jpg" alt="Sporting Goods" rel="nofollow"></a>				<p>
-					<a href="/fun-games/sporting-goods?sect=auctions">Sporting Goods <b>(2)</b></a>				</p>
+										<a href="/fun-games/sporting-goods?sect=auctions">
+						Sporting Goods						<b class="_num_auction">
+						(2)
+						</b>
+						<b class="_num_store" style="display:none">
+						(10)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
-				<a href="/gadgets/cool-stuff?sect=auctions"><img src="/img/pages/common/categories/cool-stuff.jpg" alt="Cool Stuff" rel="nofollow"></a>				<p>
-					<a href="/gadgets/cool-stuff?sect=auctions">Cool Stuff <b>(40)</b></a>				</p>
+				<a href="/fun-games/cool-stuff?sect=auctions"><img src="/img/pages/common/categories/cool-stuff.jpg" alt="Cool Stuff" rel="nofollow"></a>				<p>
+										<a href="/fun-games/cool-stuff?sect=auctions">
+						Cool Stuff						<b class="_num_auction">
+						(35)
+						</b>
+						<b class="_num_store" style="display:none">
+						(94)
+						</b>
+					</a>
+				</p>
 			</li>
 			
 				</ul>
 	</div>
 </li>
-
 
 <li id="home-garden" class="hasSub">
 	<a href="/home-garden?sect=auctions" id="home-garden">  Home &amp; Garden</a>	<div class="mega_content mc-home-garden" id="mega_content-home-garden">
+		<div class="mega_content_switch">
+			<div class="btn-group">
+				<div class="btn active auction_count_btn">
+					<i class="icon icon-gavel"></i>Auction Items					(<b>129</b>)
+				</div>
+				<div class="btn  store_count_btn">
+					<i class="icon icon-shopping-cart"></i>Store Items					(<b>293</b>)
+				</div>
+			</div>
+		</div>
 		<ul>
-		<a href="/home-garden?sect=auctions" class="btn" id="ma_back-home-garden"><i class="icon icon-eye-open"></i> SEE ALL AUCTIONS</a>								<li>
+		<a href="/home-garden?sect=auctions" class="btn btn-see" id="ma_back-home-garden"><i class="icon icon-eye-open"></i> SEE ALL AUCTIONS</a>			<li>
 				<a href="/home-garden/kitchen-appliances?sect=auctions"><img src="/img/pages/common/categories/kitchen-appliances.jpg" alt="Kitchen &amp; Appliances" rel="nofollow"></a>				<p>
-					<a href="/home-garden/kitchen-appliances?sect=auctions">Kitchen &amp; Appliances <b>(28)</b></a>				</p>
+										<a href="/home-garden/kitchen-appliances?sect=auctions">
+						Kitchen &amp; Appliances						<b class="_num_auction">
+						(46)
+						</b>
+						<b class="_num_store" style="display:none">
+						(94)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/home-garden/backyard-stuff?sect=auctions"><img src="/img/pages/common/categories/backyard-stuff.jpg" alt="Outdoor &amp; Backyard Stuff" rel="nofollow"></a>				<p>
-					<a href="/home-garden/backyard-stuff?sect=auctions">Outdoor &amp; Backyard Stuff <b>(45)</b></a>				</p>
+										<a href="/home-garden/backyard-stuff?sect=auctions">
+						Outdoor &amp; Backyard Stuff						<b class="_num_auction">
+						(30)
+						</b>
+						<b class="_num_store" style="display:none">
+						(79)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/home-garden/vacuums-home-care?sect=auctions"><img src="/img/pages/common/categories/vacuums-home-care.jpg" alt="Vacuums &amp; Home Care" rel="nofollow"></a>				<p>
-					<a href="/home-garden/vacuums-home-care?sect=auctions">Vacuums &amp; Home Care <b>(17)</b></a>				</p>
+										<a href="/home-garden/vacuums-home-care?sect=auctions">
+						Vacuums &amp; Home Care						<b class="_num_auction">
+						(24)
+						</b>
+						<b class="_num_store" style="display:none">
+						(40)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/home-garden/tools-hardware?sect=auctions"><img src="/img/pages/common/categories/tools-hardware.jpg" alt="Tools &amp; Hardware" rel="nofollow"></a>				<p>
-					<a href="/home-garden/tools-hardware?sect=auctions">Tools &amp; Hardware <b>(15)</b></a>				</p>
+										<a href="/home-garden/tools-hardware?sect=auctions">
+						Tools &amp; Hardware						<b class="_num_auction">
+						(29)
+						</b>
+						<b class="_num_store" style="display:none">
+						(80)
+						</b>
+					</a>
+				</p>
 			</li>
 			
 				</ul>
 	</div>
 </li>
-
 
 <li id="lifestyle-fashion" class="hasSub">
 	<a href="/lifestyle-fashion?sect=auctions" id="lifestyle-fashion">  Lifestyle &amp; Fashion</a>	<div class="mega_content mc-lifestyle-fashion" id="mega_content-lifestyle-fashion">
+		<div class="mega_content_switch">
+			<div class="btn-group">
+				<div class="btn active auction_count_btn">
+					<i class="icon icon-gavel"></i>Auction Items					(<b>49</b>)
+				</div>
+				<div class="btn  store_count_btn">
+					<i class="icon icon-shopping-cart"></i>Store Items					(<b>194</b>)
+				</div>
+			</div>
+		</div>
 		<ul>
-		<a href="/lifestyle-fashion?sect=auctions" class="btn" id="ma_back-lifestyle-fashion"><i class="icon icon-eye-open"></i> SEE ALL AUCTIONS</a>								<li>
+		<a href="/lifestyle-fashion?sect=auctions" class="btn btn-see" id="ma_back-lifestyle-fashion"><i class="icon icon-eye-open"></i> SEE ALL AUCTIONS</a>			<li>
 				<a href="/lifestyle-fashion/self-grooming?sect=auctions"><img src="/img/pages/common/categories/self-grooming.jpg" alt="Health &amp; Self Grooming" rel="nofollow"></a>				<p>
-					<a href="/lifestyle-fashion/self-grooming?sect=auctions">Health &amp; Self Grooming <b>(21)</b></a>				</p>
+										<a href="/lifestyle-fashion/self-grooming?sect=auctions">
+						Health &amp; Self Grooming						<b class="_num_auction">
+						(19)
+						</b>
+						<b class="_num_store" style="display:none">
+						(85)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/lifestyle-fashion/jewelry?sect=auctions"><img src="/img/pages/common/categories/jewelry.jpg" alt="Jewelry" rel="nofollow"></a>				<p>
-					<a href="/lifestyle-fashion/jewelry?sect=auctions">Jewelry <b>(20)</b></a>				</p>
+										<a href="/lifestyle-fashion/jewelry?sect=auctions">
+						Jewelry						<b class="_num_auction">
+						(26)
+						</b>
+						<b class="_num_store" style="display:none">
+						(90)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/lifestyle-fashion/fashion-accessories?sect=auctions"><img src="/img/pages/common/categories/fashion-accessories.jpg" alt="Fashion Accessories" rel="nofollow"></a>				<p>
-					<a href="/lifestyle-fashion/fashion-accessories?sect=auctions">Fashion Accessories <b>(5)</b></a>				</p>
+										<a href="/lifestyle-fashion/fashion-accessories?sect=auctions">
+						Fashion Accessories						<b class="_num_auction">
+						(4)
+						</b>
+						<b class="_num_store" style="display:none">
+						(19)
+						</b>
+					</a>
+				</p>
 			</li>
 			
 				</ul>
 	</div>
 </li>
-
 
 <li id="mobiles" class="hasSub">
 	<a href="/mobiles?sect=auctions" id="mobiles">  Mobile</a>	<div class="mega_content mc-mobiles" id="mega_content-mobiles">
+		<div class="mega_content_switch">
+			<div class="btn-group">
+				<div class="btn active auction_count_btn">
+					<i class="icon icon-gavel"></i>Auction Items					(<b>70</b>)
+				</div>
+				<div class="btn  store_count_btn">
+					<i class="icon icon-shopping-cart"></i>Store Items					(<b>33</b>)
+				</div>
+			</div>
+		</div>
 		<ul>
-		<a href="/mobiles?sect=auctions" class="btn" id="ma_back-mobiles"><i class="icon icon-eye-open"></i> SEE ALL AUCTIONS</a>								<li>
+		<a href="/mobiles?sect=auctions" class="btn btn-see" id="ma_back-mobiles"><i class="icon icon-eye-open"></i> SEE ALL AUCTIONS</a>			<li>
 				<a href="/mobiles/phones?sect=auctions"><img src="/img/pages/common/categories/phones.jpg" alt="Phones" rel="nofollow"></a>				<p>
-					<a href="/mobiles/phones?sect=auctions">Phones <b>(6)</b></a>				</p>
+										<a href="/mobiles/phones?sect=auctions">
+						Phones						<b class="_num_auction">
+						(6)
+						</b>
+						<b class="_num_store" style="display:none">
+						(0)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/mobiles/accessories-phone?sect=auctions"><img src="/img/pages/common/categories/accessories-phone.jpg" alt="Phone Accessories" rel="nofollow"></a>				<p>
-					<a href="/mobiles/accessories-phone?sect=auctions">Phone Accessories <b>(1)</b></a>				</p>
+										<a href="/mobiles/accessories-phone?sect=auctions">
+						Phone Accessories						<b class="_num_auction">
+						(1)
+						</b>
+						<b class="_num_store" style="display:none">
+						(18)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/computers/ipad-tablets?sect=auctions"><img src="/img/pages/common/categories/ipad-tablets.jpg" alt="iPad &amp; Tablets" rel="nofollow"></a>				<p>
-					<a href="/computers/ipad-tablets?sect=auctions">iPad &amp; Tablets <b>(40)</b></a>				</p>
+										<a href="/computers/ipad-tablets?sect=auctions">
+						iPad &amp; Tablets						<b class="_num_auction">
+						(63)
+						</b>
+						<b class="_num_store" style="display:none">
+						(15)
+						</b>
+					</a>
+				</p>
 			</li>
 			
 				</ul>
 	</div>
 </li>
-
 
 <li id="movies-music" class="hasSub">
 	<a href="/movies-music?sect=auctions" id="movies-music">  Movies &amp; Music</a>	<div class="mega_content mc-movies-music" id="mega_content-movies-music">
+		<div class="mega_content_switch">
+			<div class="btn-group">
+				<div class="btn active auction_count_btn">
+					<i class="icon icon-gavel"></i>Auction Items					(<b>75</b>)
+				</div>
+				<div class="btn  store_count_btn">
+					<i class="icon icon-shopping-cart"></i>Store Items					(<b>133</b>)
+				</div>
+			</div>
+		</div>
 		<ul>
-		<a href="/movies-music?sect=auctions" class="btn" id="ma_back-movies-music"><i class="icon icon-eye-open"></i> SEE ALL AUCTIONS</a>								<li>
+		<a href="/movies-music?sect=auctions" class="btn btn-see" id="ma_back-movies-music"><i class="icon icon-eye-open"></i> SEE ALL AUCTIONS</a>			<li>
 				<a href="/movies-music/headphones?sect=auctions"><img src="/img/pages/common/categories/headphones.jpg" alt="Headphones" rel="nofollow"></a>				<p>
-					<a href="/movies-music/headphones?sect=auctions">Headphones <b>(18)</b></a>				</p>
+										<a href="/movies-music/headphones?sect=auctions">
+						Headphones						<b class="_num_auction">
+						(15)
+						</b>
+						<b class="_num_store" style="display:none">
+						(35)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/movies-music/ipod-mp3-players?sect=auctions"><img src="/img/pages/common/categories/ipod-mp3-players.jpg" alt="iPod &amp; MP3 Players" rel="nofollow"></a>				<p>
-					<a href="/movies-music/ipod-mp3-players?sect=auctions">iPod &amp; MP3 Players <b>(21)</b></a>				</p>
+										<a href="/movies-music/ipod-mp3-players?sect=auctions">
+						iPod &amp; MP3 Players						<b class="_num_auction">
+						(23)
+						</b>
+						<b class="_num_store" style="display:none">
+						(63)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/movies-music/instruments?sect=auctions"><img src="/img/pages/common/categories/instruments.jpg" alt="Instruments" rel="nofollow"></a>				<p>
-					<a href="/movies-music/instruments?sect=auctions">Instruments <b>(6)</b></a>				</p>
+										<a href="/movies-music/instruments?sect=auctions">
+						Instruments						<b class="_num_auction">
+						(7)
+						</b>
+						<b class="_num_store" style="display:none">
+						(6)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/movies-music/movie?sect=auctions"><img src="/img/pages/common/categories/movie.jpg" alt="Movies" rel="nofollow"></a>				<p>
-					<a href="/movies-music/movie?sect=auctions">Movies <b>(22)</b></a>				</p>
+										<a href="/movies-music/movie?sect=auctions">
+						Movies						<b class="_num_auction">
+						(30)
+						</b>
+						<b class="_num_store" style="display:none">
+						(29)
+						</b>
+					</a>
+				</p>
 			</li>
 			
 				</ul>
 	</div>
 </li>
-
 
 <li id="tv-video" class="hasSub">
 	<a href="/tv-video?sect=auctions" id="tv-video">  TV &amp; Video</a>	<div class="mega_content mc-tv-video" id="mega_content-tv-video">
+		<div class="mega_content_switch">
+			<div class="btn-group">
+				<div class="btn active auction_count_btn">
+					<i class="icon icon-gavel"></i>Auction Items					(<b>62</b>)
+				</div>
+				<div class="btn  store_count_btn">
+					<i class="icon icon-shopping-cart"></i>Store Items					(<b>95</b>)
+				</div>
+			</div>
+		</div>
 		<ul>
-		<a href="/tv-video?sect=auctions" class="btn" id="ma_back-tv-video"><i class="icon icon-eye-open"></i> SEE ALL AUCTIONS</a>								<li>
+		<a href="/tv-video?sect=auctions" class="btn btn-see" id="ma_back-tv-video"><i class="icon icon-eye-open"></i> SEE ALL AUCTIONS</a>			<li>
 				<a href="/tv-video/tvs?sect=auctions"><img src="/img/pages/common/categories/tvs.jpg" alt="TVs" rel="nofollow"></a>				<p>
-					<a href="/tv-video/tvs?sect=auctions">TVs <b>(7)</b></a>				</p>
+										<a href="/tv-video/tvs?sect=auctions">
+						TVs						<b class="_num_auction">
+						(12)
+						</b>
+						<b class="_num_store" style="display:none">
+						(23)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/tv-video/players-bluray?sect=auctions"><img src="/img/pages/common/categories/players-bluray.jpg" alt="BluRay Players" rel="nofollow"></a>				<p>
-					<a href="/tv-video/players-bluray?sect=auctions">BluRay Players <b>(4)</b></a>				</p>
+										<a href="/tv-video/players-bluray?sect=auctions">
+						BluRay Players						<b class="_num_auction">
+						(2)
+						</b>
+						<b class="_num_store" style="display:none">
+						(9)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/tv-video/accessories-video?sect=auctions"><img src="/img/pages/common/categories/accessories-video.jpg" alt="TV &amp; Video Accessories" rel="nofollow"></a>				<p>
-					<a href="/tv-video/accessories-video?sect=auctions">TV &amp; Video Accessories <b>(6)</b></a>				</p>
+										<a href="/tv-video/accessories-video?sect=auctions">
+						TV &amp; Video Accessories						<b class="_num_auction">
+						(8)
+						</b>
+						<b class="_num_store" style="display:none">
+						(15)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/tv-video/system-home-theatre?sect=auctions"><img src="/img/pages/common/categories/system-home-theatre.jpg" alt="Home Theatre" rel="nofollow"></a>				<p>
-					<a href="/tv-video/system-home-theatre?sect=auctions">Home Theatre <b>(5)</b></a>				</p>
+										<a href="/tv-video/system-home-theatre?sect=auctions">
+						Home Theatre						<b class="_num_auction">
+						(10)
+						</b>
+						<b class="_num_store" style="display:none">
+						(19)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/movies-music/movie?sect=auctions"><img src="/img/pages/common/categories/movie.jpg" alt="Movies" rel="nofollow"></a>				<p>
-					<a href="/movies-music/movie?sect=auctions">Movies <b>(22)</b></a>				</p>
+										<a href="/movies-music/movie?sect=auctions">
+						Movies						<b class="_num_auction">
+						(30)
+						</b>
+						<b class="_num_store" style="display:none">
+						(29)
+						</b>
+					</a>
+				</p>
 			</li>
 			
 				</ul>
 	</div>
 </li>
-
 
 <li id="video-games" class="hasSub">
 	<a href="/video-games?sect=auctions" id="video-games">  Video Games</a>	<div class="mega_content mc-video-games" id="mega_content-video-games">
+		<div class="mega_content_switch">
+			<div class="btn-group">
+				<div class="btn active auction_count_btn">
+					<i class="icon icon-gavel"></i>Auction Items					(<b>51</b>)
+				</div>
+				<div class="btn  store_count_btn">
+					<i class="icon icon-shopping-cart"></i>Store Items					(<b>56</b>)
+				</div>
+			</div>
+		</div>
 		<ul>
-		<a href="/video-games?sect=auctions" class="btn" id="ma_back-video-games"><i class="icon icon-eye-open"></i> SEE ALL AUCTIONS</a>								<li>
+		<a href="/video-games?sect=auctions" class="btn btn-see" id="ma_back-video-games"><i class="icon icon-eye-open"></i> SEE ALL AUCTIONS</a>			<li>
 				<a href="/video-games/consoles?sect=auctions"><img src="/img/pages/common/categories/consoles.jpg" alt="Consoles" rel="nofollow"></a>				<p>
-					<a href="/video-games/consoles?sect=auctions">Consoles <b>(14)</b></a>				</p>
+										<a href="/video-games/consoles?sect=auctions">
+						Consoles						<b class="_num_auction">
+						(17)
+						</b>
+						<b class="_num_store" style="display:none">
+						(7)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/video-games/games?sect=auctions"><img src="/img/pages/common/categories/games.jpg" alt="Games" rel="nofollow"></a>				<p>
-					<a href="/video-games/games?sect=auctions">Games <b>(15)</b></a>				</p>
+										<a href="/video-games/games?sect=auctions">
+						Games						<b class="_num_auction">
+						(27)
+						</b>
+						<b class="_num_store" style="display:none">
+						(39)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/video-games/accessories?sect=auctions"><img src="/img/pages/common/categories/accessories.jpg" alt="Controllers &amp; Accessories" rel="nofollow"></a>				<p>
-					<a href="/video-games/accessories?sect=auctions">Controllers &amp; Accessories <b>(7)</b></a>				</p>
+										<a href="/video-games/accessories?sect=auctions">
+						Controllers &amp; Accessories						<b class="_num_auction">
+						(7)
+						</b>
+						<b class="_num_store" style="display:none">
+						(10)
+						</b>
+					</a>
+				</p>
 			</li>
 			
 				</ul>
 	</div>
 </li>
 
-
 <li id="vouchers" class="hasSub">
 	<a href="/vouchers?sect=auctions" id="vouchers">  Vouchers &amp; Gift Cards</a>	<div class="mega_content mc-vouchers" id="mega_content-vouchers">
+		<div class="mega_content_switch">
+			<div class="btn-group">
+				<div class="btn active auction_count_btn">
+					<i class="icon icon-gavel"></i>Auction Items					(<b>120</b>)
+				</div>
+				<div class="btn  store_count_btn">
+					<i class="icon icon-shopping-cart"></i>Store Items					(<b>0</b>)
+				</div>
+			</div>
+		</div>
 		<ul>
-		<a href="/vouchers?sect=auctions" class="btn" id="ma_back-vouchers"><i class="icon icon-eye-open"></i> SEE ALL AUCTIONS</a>								<li>
+		<a href="/vouchers?sect=auctions" class="btn btn-see" id="ma_back-vouchers"><i class="icon icon-eye-open"></i> SEE ALL AUCTIONS</a>			<li>
 				<a href="/vouchers/bid-packs?sect=auctions"><img src="/img/pages/common/categories/bid-packs.jpg" alt="Bid Packs" rel="nofollow"></a>				<p>
-					<a href="/vouchers/bid-packs?sect=auctions">Bid Packs <b>(19)</b></a>				</p>
+										<a href="/vouchers/bid-packs?sect=auctions">
+						Bid Packs						<b class="_num_auction">
+						(34)
+						</b>
+						<b class="_num_store" style="display:none">
+						(0)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/vouchers/gift-cards?sect=auctions"><img src="/img/pages/common/categories/gift-cards.jpg" alt="Gift Cards" rel="nofollow"></a>				<p>
-					<a href="/vouchers/gift-cards?sect=auctions">Gift Cards <b>(58)</b></a>				</p>
+										<a href="/vouchers/gift-cards?sect=auctions">
+						Gift Cards						<b class="_num_auction">
+						(80)
+						</b>
+						<b class="_num_store" style="display:none">
+						(0)
+						</b>
+					</a>
+				</p>
 			</li>
 						<li>
 				<a href="/vouchers/shopping-sprees?sect=auctions"><img src="/img/pages/common/categories/shopping-sprees.jpg" alt="Shopping Sprees" rel="nofollow"></a>				<p>
-					<a href="/vouchers/shopping-sprees?sect=auctions">Shopping Sprees <b>(7)</b></a>				</p>
+										<a href="/vouchers/shopping-sprees?sect=auctions">
+						Shopping Sprees						<b class="_num_auction">
+						(6)
+						</b>
+						<b class="_num_store" style="display:none">
+						(0)
+						</b>
+					</a>
+				</p>
 			</li>
 			
 				</ul>
@@ -484,32 +1023,32 @@ initFuncs.push(function() {
 	<div class="mega_content" id="mega_content-auctions-by-type">
 		<ul class="mega_auction">
 						<li>
-				<a href="/auctions/guaranteed-win"><img src="/img/pages/common/header/auctions/icn_gw.jpg" rel="nofollow" alt="Guaranteed Win Auctions"></a>				<a href="/auctions/guaranteed-win">Guaranteed Win Auctions <b>(60)</b></a>				<p>
+				<a href="/auctions/guaranteed-win"><img src="/img/pages/common/header/auctions/icn_gw.jpg" rel="nofollow" alt="Guaranteed Win Auctions"></a>				<a href="/auctions/guaranteed-win">Guaranteed Win Auctions <b>(41)</b></a>				<p>
 					These auctions guarantee you WIN with your 1st Bid Pack purchase!				</p>
 			</li>
 						<li>
-				<a href="/auctions/promo"><img src="/img/pages/common/header/auctions/promo.jpg" rel="nofollow" alt="Promo Auctions"></a>				<a href="/auctions/promo">Promo Auctions <b>(19)</b></a>				<p>
+				<a href="/auctions/promo"><img src="/img/pages/common/header/auctions/promo.jpg" rel="nofollow" alt="Promo Auctions"></a>				<a href="/auctions/promo">Promo Auctions <b>(162)</b></a>				<p>
 					These auctions have special features identified by their unique icons, like Price Freeze, etc.				</p>
 			</li>
 			<li>
-				<a href="/auctions/buy-it-now"><img src="/img/pages/common/header/auctions/icn_bin.jpg" rel="nofollow" alt="Buy It Now (BIN) Auctions"></a>				<a href="/auctions/buy-it-now">Buy It Now Auctions <b>(371)</b></a>				<p>
+				<a href="/auctions/buy-it-now"><img src="/img/pages/common/header/auctions/icn_bin.jpg" rel="nofollow" alt="Buy It Now (BIN) Auctions"></a>				<a href="/auctions/buy-it-now">Buy It Now Auctions <b>(224)</b></a>				<p>
 				Buy the item and get back ALL the bids you placed in that auction.				</p>
 			</li>
 			<li>
-				<a href="/auctions/cherry"><img src="/img/pages/common/header/auctions/icn_cherry.jpg" rel="nofollow" alt="Cherry Auctions"></a>				<a href="/auctions/cherry">Cherry Auctions <b>(21)</b></a>				<p>
+				<a href="/auctions/cherry"><img src="/img/pages/common/header/auctions/icn_cherry.jpg" rel="nofollow" alt="Cherry Auctions"></a>				<a href="/auctions/cherry">Cherry Auctions <b>(44)</b></a>				<p>
 				Easier to win! Bid with other members of the same level in these "Newbee" friendly auctions.				</p>
 			</li>
 			<hr>
 			<li>
-				<a href="/auctions/live"><img src="/img/pages/common/header/icn_myma.png" rel="nofollow" alt="All Live Auctions"></a>				<a href="/auctions/live">All Live Auctions <b>(132)</b></a>				<p>
+				<a href="/auctions/live"><img src="/img/pages/common/header/icn_myma.png" rel="nofollow" alt="All Live Auctions"></a>				<a href="/auctions/live">All Live Auctions <b>(191)</b></a>				<p>
 					Find what you're looking for with this complete list of currently active auctions.				</p>
 			</li>
 			<li>
-				<a href="/auctions/future"><img src="/img/pages/common/header/icn_future.png" rel="nofollow" alt="Future Auctions"></a>				<a href="/auctions/future">Future Auctions <b>(445)</b></a>				<p>
+				<a href="/auctions/future"><img src="/img/pages/common/header/icn_future.png" rel="nofollow" alt="Future Auctions"></a>				<a href="/auctions/future">Future Auctions <b>(486)</b></a>				<p>
 					Take a look at what's coming up for auction and set your Reminders.				</p>
 			</li>
 			<li>
-				<a href="/auctions/closed"><img src="/img/pages/common/header/icn_closed.png" rel="nofollow" alt="Closed Auctions"></a>				<a href="/auctions/closed">Closed Auctions <b>(6911)</b></a>				<p>
+				<a href="/auctions/closed"><img src="/img/pages/common/header/icn_closed.png" rel="nofollow" alt="Closed Auctions"></a>				<a href="/auctions/closed">Closed Auctions <b>(6362)</b></a>				<p>
 					Consult the closed auctions to see the amazing deals recently won by fellow Beezidders.				</p>
 			</li>
 		</ul>
@@ -518,26 +1057,28 @@ initFuncs.push(function() {
 <li id="newbiz" class="hasSub">
 <a href="/auctions/newbeez">Only For Newbeez</a>	<div class="mega_content newbeez" id="mega_content-newbiz">
 		<ul class="mega_auction">
-			<a href="/auctions/newbeez" class="btn" id="ma_back-newbeez"><i class="icon icon-eye-open"></i> SEE ALL AUCTIONS</a>			<li>
-				<a href="/auctions/guaranteed-win"><img src="/img/pages/common/header/auctions/icn_gw.jpg" rel="nofollow" alt="Guaranteed Win Auctions"></a>				<a href="/auctions/guaranteed-win">Guaranteed Win Auctions <b>(60)</b></a>				<p>
+			<a href="/auctions/newbeez" class="btn btn-see" id="ma_back-newbeez"><i class="icon icon-eye-open"></i> SEE ALL AUCTIONS</a>			<li>
+				<a href="/auctions/guaranteed-win"><img src="/img/pages/common/header/auctions/icn_gw.jpg" rel="nofollow" alt="Guaranteed Win Auctions"></a>				<a href="/auctions/guaranteed-win">Guaranteed Win Auctions <b>(41)</b></a>				<p>
 				These auctions guarantee you WIN with your 1st Bid Pack purchase!				</p>
 			</li>
 						<li>
-				<a href="/auctions/cherry"><img src="/img/pages/common/header/auctions/icn_cherry.jpg" rel="nofollow" alt="Cherry Auctions"></a>				<a href="/auctions/cherry">Cherry Auctions <b>(21)</b></a>				<p>
+				<a href="/auctions/cherry"><img src="/img/pages/common/header/auctions/icn_cherry.jpg" rel="nofollow" alt="Cherry Auctions"></a>				<a href="/auctions/cherry">Cherry Auctions <b>(44)</b></a>				<p>
 				Easier to win! Bid with other members of the same level in these "Newbee" friendly auctions.				</p>
 			</li>
 		</ul>
 	</div>
 </li></ul>			</li>
 			<li class="hdr_nav_li">
-				<a class="nav_link" href="/">
+				<a class="nav_link" href="/auctions">
 					AUCTIONS				</a>
 			</li>
+			<li class="hdr_nav_li">
+				<a href="http://www.beezid.com/store" class="nav_link">STORE</a>			</li>
 			<li class="hdr_nav_li"><a href="http://www.beezid.com/blog" class="nav_link">BLOG</a>			</li>
 			<li class="hdr_nav_li">
-				<a href="/my_account" class="nav_link">MY ACCOUNT</a>				<ul class="menu menu_myaccount">
+				<a href="/my_account" class="nav_link">MY ACCOUNT</a>				<ul class="menu menu_myaccount ma_store">
 	<div class="menu_ma_cntn">
-		<a href="/my_account/buy_bids" class="icn_buybids">Buy Bids</a><a href="/my_account/my_bonus_offers" class="icn_bonusoffers">My Bonus Offers</a><a href="/my_account/invite_friend" class="icn_referfriend">Refer a Friend</a><a href="/my_account/my_pinned_auctions" class="icn_pinnedauctions">My Pinned Auctions</a><a href="/my_account/my_wins" class="icn_mywins">My Wins</a><a href="/my_account/my_orders" class="icn_orders">My Orders</a><a href="/my_account/my_bids" class="icn_bidhistory">My Bid History</a><a href="/my_account/my_inbox" class="icn_myinbox">My Inbox</a>	</div>
+		<a href="/my_account/invite_friend" class="icn_referfriend">Refer a Friend</a><a href="/my_account/my_inbox" class="icn_myinbox">My Inbox</a><a href="/my_account/my_orders" class="icn_orders">My Orders</a><a href="/my_account/my_pinned_auctions" class="icn_pinnedauctions">My Pinned Auctions</a><a href="/my_account/my_wins" class="icn_mywins">My Wins</a><a href="/my_account/my_flipped_auctions" class="icn_flipped">My Flipped Auctions</a><a href="https://www.beezid.com/my_account/my_wallet" class="icn_wallet">My Wallet</a><a href="/my_account/buy_bids" class="icn_buybids">Buy Bids</a>	</div>
 	<div class="menu_ma_title">
 		<hr>
 		<p>Keep track of your favorite types of products all in one place.</p>
@@ -545,6 +1086,8 @@ initFuncs.push(function() {
 </ul>			</li>
 			<li class="hdr_nav_li">
 				<a href="/help" class="nav_link">HELP</a>			</li>
+			<li class="hdr_nav_li">
+				<a href="/my_account/buy_bids" class="nav_link">BUY BIDS</a>			</li>
 		</ul>
 		<form method="get" action="search">
 			<div class="input-append">
@@ -560,67 +1103,251 @@ initFuncs.push(function() {
 <div class="clear"></div>
 
 </div>
-<div class="hdr_marquee_cntn">
+<div id="hdr_marquee_cntn" class="hdr_marquee_cntn">
 <div class="hdr_marquee_bg">
-<a href="/"><img src="/img/pages/common/header/logo_bar.png" alt="Beezid.com" class="logo_bar"></a><div class="hrd_allbids hrd_padding_out">
-		<div class="common_login_box" id="header-toolbar-login" style="display: none;">
-            <!-- LOGIN FORM -->
-            <form id="login_box_form" method="post" action="https://www.beezid.com/users/login">
-                <input name="data[User][username]" id="UserUsername" type="text" maxlength="45" value="Username/Email" onfocus="if(this.value == 'Username/Email'){this.value='';}" onblur="if(this.value == ''){this.value='Username/Email';}">
-                <input type="text" name="data[User][password]" id="UserPassword" value="Password" onfocus="if(this.value == 'Password'){this.value='';this.type = 'password';}" onblur="if(this.value == ''){this.type = 'text'; this.value = 'Password';}">
-                <input type="submit" value="login" class="btn btn-primary">
-            </form>
-            <!-- LOGIN FORM -->
+	<div class="ab_dropdown_origin" id="ab_dropdown_origin">
+		<div id="abd_float" class="ab_dropdown_cntn" style="display:none">
+			<div id="abd_title" class="dialog-header" style="display:none">
+				<div id="abd_draghandle" class="react-title react-drag">
+					Manage Your Autobeezids &amp; Snipers				</div>
+			</div>
+			<button id="abd_close" class="btn close-black" style="display:none">
+				<i class="icon icon-close"></i>
+			</button>
+			<div id="abd_ctn" class="ab_dropdown">
+				<div id="abd_empty" class="abd_empty">
+You don't have any Autobeezids booked right now. The Autobeezid is a great tool to help you win auctions.&nbsp;<a href="/help/bidding#autobeezid-and-sniper">Find out how.</a>				</div>
+			</div>
+			<div class="ab_dropdown_footer">
+				<div id="abd_float_btn" class="btn">
+					<i class="icon icon-move"></i>
+				</div>
+			</div>
 		</div>
-	<p class="bar_help_link">New to Beezid? Start Saving In Minutes <a href="/register">join now</a></p>
-</div>
-</div></div>
-<div class="common_main_container">
-
-<div class="sevendb_block_wrapper">
-	<div style="height:0">&nbsp;</div>
-	<div id="sevendb_block" class="sevendb_block_module">
-	<a href="/help/special-events/battle-of-the-bids-2013"><img src="/themed/seven_day_bidstravaganza_2013/img/pages/common/common_global_modules/sevendb_pre12.png?v3" id="sevendb_pic" alt=""></a>	<div id="sevendb_timer" class="sevendb_timer_numbers_12">
-			<div class="ind_days">
-				<div id="idays"></div>
-			</div>
-			<div class="ind_hours">
-				<div id="ihours"></div>
-			</div>
-			<div class="ind_minutes">
-				<div id="imins"></div>
-			</div>
-			<div class="ind_seconds">
-				<div id="isecs"></div>
-			</div>
 	</div>
-		<div class="clear"></div>
-	</div>
-</div>
+<a href="/"><img src="/img/pages/common/header/logo_bar.png" alt="Beezid.com" class="logo_bar"></a><div id="h-info-b-login" style="display: none;"><script type="text/javascript">
+//<![CDATA[
 
+	initFuncs.push(function() {
+		if (Beezid.touchEnabled) {
+			var touchState = false;
+			$(document.body).observe("touchstart", function(){
+				if (!touchState) {
+					$("hdr_locks").hide();
+				}
+				touchState = false;
+			});
+			$("ctn").observe("touchstart", function(touch) {
+				touchState = true;
+				$("hdr_locks").show();
+			});
+		} else {
+			$("ctn").observe("mouseover", function() {
+				$("hdr_locks").toggle();
+			});
+			$("ctn").observe("mouseout", function() {
+				$("hdr_locks").toggle();
+			});
+		}
+		Beezid.autobidManager.initDropdown();
+	});
+//]]>
+</script>	<div id="abd_btn" class="ab_list">
+		<p class="ab_listtitle btn"><i class="icon icon-gear"></i><small id="abd_count" class="badge">0</small></p>
+	</div>
+	<div id="ctn">
+		<div class="hdr_drop_down_lock" id="hdr_drop_down_lock">
+			<p><i class="icon icon-lock"></i></p>
+			<div class="hdr_locks" id="hdr_locks" style="display:none;"><div class="hdr-ie-locks-pointer"></div>
+				<div class="hdr_locks_row">
+					<!--  Red Lock -->
+					<img src="/img/pages/common/header/locks/lock_3.png?v1" alt="">					<div class="hdr_lck_amt" id="user_red_lock"></div>
+					<!--  Blue Lock -->
+					<img src="/img/pages/common/header/locks/lock_2.png?v1" alt="">					<div class="hdr_lck_amt" id="user_blue_lock"></div>
+					<!--  Purple Lock -->
+					<img src="/img/pages/common/header/locks/lock_13.png?v1" alt="">					<div class="hdr_lck_amt" id="user_purple_lock"></div>
+					<!--  Green Lock -->
+					<img src="/img/pages/common/header/locks/lock_1.png?v1" alt="">					<div class="hdr_lck_amt" id="user_green_lock"></div>
+					<!--  Pink Lock -->
+					<img src="/img/pages/common/header/locks/lock_37.png?v1" alt="">					<div class="hdr_lck_amt" id="user_pink_lock"></div>
+					<!--  Orange Lock -->
+					<img src="/img/pages/common/header/locks/lock_41.png?v1" alt="">					<div class="hdr_lck_amt" id="user_orange_lock"></div>
+					<!--  Aqua Lock -->
+					<img src="/img/pages/common/header/locks/lock_45.png?v1" alt="">					<div class="hdr_lck_amt" id="user_aqua_lock"></div>
+				</div>
+				<div class="hdr_locks_row">
+					<!--  Lime Lock -->
+					<img src="/img/pages/common/header/locks/lock_42.png?v1" alt="">					<div class="hdr_lck_amt" id="user_lime_lock"></div>
+					<!--  Olive Lock -->
+					<img src="/img/pages/common/header/locks/lock_43.png?v1" alt="">					<div class="hdr_lck_amt" id="user_olive_lock"></div>
+					<!--  Yellow Lock -->
+					<img src="/img/pages/common/header/locks/lock_44.png?v1" alt="">					<div class="hdr_lck_amt" id="user_yellow_lock"></div>
+					<!--  Forest Lock -->
+					<img src="/img/pages/common/header/locks/lock_46.png?v1" alt="">					<div class="hdr_lck_amt" id="user_navy_lock"></div>
+					<!--  Fuchsia Lock -->
+					<img src="/img/pages/common/header/locks/lock_47.png?v1" alt="">					<div class="hdr_lck_amt" id="user_fuchsia_lock"></div>
+					<!--  Cream Lock -->
+					<img src="/img/pages/common/header/locks/lock_48.png?v1" alt="">					<div class="hdr_lck_amt" id="user_cream_lock"></div>
+					<!--  Black Lock -->
+					<img src="/img/pages/common/header/locks/lock_11.png?v1" alt="">					<div class="hdr_lck_amt" id="user_black_lock">∞</div>
+				</div>
+				<p class="hdr_see_all_locks">
+					These are the locks you have available <a href="/my_account/my_limits">See All Lock Limits</a>				</p>
+			</div>
+		</div>
+	</div>
+	<div class="hrd_allbids hrd_padding hrd_store" id="hrd_bids_details">
+		<div>
+			<p id="total_bids" class="hdr_bids"></p>
+			<span>Regular Bids</span>
+		</div>
+
+		<div>
+			<p id="bonus_bids" class="hdr_bids"></p>
+			<span>Bonus Bids</span>
+		</div>
+
+		<div>
+			<p id="promo_bids" class="hdr_bids"></p>
+			<span>Promo Bids</span>
+		</div>
+
+		<div>
+			<p id="power_bids" class="hdr_bids"></p>
+			<span>Power Bids</span>
+		</div>
+
+		<div id="win_bids_counter" class="hdr_win_bids">
+			<p id="win_bids" class="hdr_bids"></p>
+			<span>Win Bids</span>
+		</div>
+		<div class="hdr_balance">
+			<span>Wallet:</span>
+			<p id="bank_balance" class="hdr_bids badge">$0.00</p>
+		</div>
+	</div>
 <script type="text/javascript">
 //<![CDATA[
 
-		
-		function updatePromo() {
-			$('sevendb_pic').src = '/themed/seven_day_bidstravaganza_2013/img/pages/common/common_global_modules/sevendb_day12.png';
-			$('sevendb_timer').removeClassName('sevendb_timer_numbers_12').addClassName('sevendb_timer_numbers_12');
-			countdown(now + 21599000, 'sevendb_timer', 0, 1, null, obj);
-			new Effect.BlindDown($('sevendb_block'));
-		}
-	
-		var obj = {'days': 'idays', 'hours': 'ihours', 'mins': 'imins', 'secs': 'isecs'};
-		var now = new Date().valueOf();
-		if ($('sevendb_timer') != null) {
-			countdown(now + 92117000, 'sevendb_timer', 0, 1, null, obj, function(time) {
-				new Effect.BlindUp($('sevendb_block'), {
-					afterFinish: updatePromo
-				});
-			});
-		}
-	
+	initFuncs.push(function() {
+		Beezid.wallet.addListener("balanceChanged", function(event) {
+			$("bank_balance").update(formatCurrency(event.balance));
+		});
+	});
+
 //]]>
-</script>
+</script></div><div id="h-info-b-logout" style="display: none;"><div class="hrd_allbids hrd_padding_out">
+		<div class="common_login_box" id="header-toolbar-login" style="display: none;">
+            <!-- LOGIN FORM -->
+            <form id="login_box_form_bar" method="post" action="https://www.beezid.com/users/login">
+                <input name="data[User][username]" id="BarUserUsername" type="text" maxlength="45" value="Username/Email" onfocus="if(this.value == 'Username/Email'){this.value='';}" onblur="if(this.value == ''){this.value='Username/Email';}">
+                <input type="text" name="data[User][password]" id="BarUserPassword" value="Password" onfocus="if(this.value == 'Password'){this.value='';this.type = 'password';}" onblur="if(this.value == ''){this.type = 'text'; this.value = 'Password';}">
+                <input type="submit" value="login" class="btn btn-primary" id="btn-primary">
+            </form>
+            <!-- LOGIN FORM -->
+		</div>
+	<p class="bar_help_link">
+	New to Beezid? Start Saving In Minutes&nbsp;<a href="/register" name="join_now_btn">join now</a>	</p>
+</div>
+</div>	<div id="cart_timer_hdr" class="cart_timer_btn" style="display:none">0:00:00</div>
+	<div id="cart_origin" class="icn_cart cart_button">
+		<span class="cart_item_count" id="cart_button_count" style="display:none"></span>
+	</div>
+<div id="cart_popup_panel" class="cart_popup_panel" style="display:none">
+	<div id="cart_popup_container" class="cart_container">
+	<div id="cart_popup_header" class="cart_header"><i class="icon icon-shopping-cart"></i>Your Shopping Cart <span class="cart_item_count" id="cart_header_count">(0)</span></div>
+		<div class="cart_wrapper" id="cart_popup_wrapper" style="display:none">
+			<div class="cart_list_wrapper">
+				<div id="cart_popup_list_container" class="cart_popup_list_container">
+					<table id="cart_popup_list" class="cart_list">
+						<thead id="cart_popup_list_head">
+							<tr>
+								<th class="cart_popup_header cph_qty">Quantity</th>
+								<th class="cart_popup_header cph_image">Image</th>
+								<th class="cart_popup_header cph_item">Item</th>
+								<th class="cart_popup_header cph_price">Price</th>
+								<th class="cart_popup_header cph_time">Time Left</th>
+								<th class="cart_edit_btn cph_remove"></th>
+								</tr>
+							</thead>
+						<tbody valign="top" id="cart_popup_list_body" class="cart_list_body">
+						</tbody>
+					</table>
+				</div>
+				<div id="cart_popup_footer" class="cart_footer">
+					<div id="cart_popup_checkout" class="btn btn-cta btn_cart_checkout">View Cart/Checkout</div>
+					<div class="cart_total">Cart Subtotal: <span id="cart_popup_total"></span></div>
+				</div>
+			</div>
+		</div>
+		<div class="cart_empty_wrapper" id="cart_popup_empty_wrapper">
+			<p>Your shopping cart is empty.</p>
+		</div>
+		<div class="cart_error" id="cart_error" style="display:none">
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+initFuncs.push(function() {
+	Beezid.shoppingCart = new ShoppingCart();
+	Beezid.popShop = new ShoppingCartPopup(Beezid.shoppingCart);
+	$$('.cart_button').each(function (elem) {
+		elem.observe('click', Beezid.popShop.toggle.bind(Beezid.popShop));
+	});
+	Beezid.shoppingCart.addListener('cartUpdate', function(event) {
+		var count = event.object.cartInfo().count;
+		$('cart_header_count').innerHTML = '(' + count + ')';
+		$('cart_button_count').innerHTML = count;
+		if (count > 0) {
+			$('cart_button_count').show();
+		} else {
+			$('cart_button_count').hide();
+		}
+	});
+	new Button({
+		elem: $('cart_popup_checkout'),
+		action: function() {
+			document.location = '/checkout';
+		},
+		content: i18n.cart.checkout_show
+	});
+});
+
+function storeDisplayTip(id, message, type) {
+	switch(type) {
+		case 'info':
+			title = 'Info';
+			break;
+		case 'warning':
+			title = 'Warning';
+			break;
+		default:
+			title = 'Error';
+			break;
+	}
+	var element = $('store_ab_info_' + id);
+	new Tip(element, message, {
+		closeButton: true,
+		hideOn: false,
+		hook: {
+			target: 'topleft',
+			tip: 'topLeft',
+			mouse: false
+		},
+		offset: {
+			x: 0,
+			y: 40
+		} ,
+		showOn: '',
+		style: 'protobzd',
+		title: title + '<input id=\"protobzd_' + id + '\" type=\"hidden\" value=\"' + id + '\">',
+		width: 182
+	});
+	element.prototip.show();
+}
+</script></div></div>
+<div class="common_main_container">
+
 <div style="display:none;" id="flash_msg">
 	<div class="error_message_container">
 		<img src="/img/pages/common/error_message_top.png" alt="">		<div class="error_message_slice">
@@ -629,7 +1356,10 @@ initFuncs.push(function() {
 	</div>
 		<img src="/img/pages/common/error_message_bottom.png" alt="">	</div>
 	<div class="clear"></div>
-</div><br>
+</div>
+	<link rel="stylesheet" type="text/css" href="/css/terms.css?v1">
+
+<br>
    <!-- Main Block HEADER -->
    <div class="clear_float"></div>
            <div class="block_module_top_title_big">
@@ -648,16 +1378,6 @@ initFuncs.push(function() {
   <!-- Main Block HEADER -->
 
 <div class="privacy_holder">
-
-	<div class="truste_pr">
-		<a href="//privacy-policy.truste.com/click-with-confidence/ctv/en/www.beezid.com/seal_m" title="Validate TRUSTe privacy certification" target="_blank">
-			<img style="border: none" src="//privacy-policy.truste.com/certified-seal/ctv/en/www.beezid.com/seal_m.png" alt="Validate TRUSTe privacy certification">
-		</a>
-		<a class="trust_link" href="//privacy-policy.truste.com/click-with-confidence/ctv/en/www.beezid.com/seal_m" title="Validate TRUSTe privacy certification" target="_blank">TRUSTe Validation</a>
-		<p>The TRUSTe seal indicates that Beezid.com complies with the world's largest privacy seal program, certifying more than 3,500 websites.</p>
-	</div>
-
-	<p class="padding_top_10">Beezid Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy-program-requirements/" target="_blank">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at Beezid Customer Support <a href="mailto:support@beezid.com" target="_blank">support@beezid.com</a>. If you are not satisfied with our response you can contact <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">TRUSTe here</a>. The TRUSTe program covers only information that is collected through this Web site.</p>
 
 	<h3><span>»</span> Scope</h3>
 
@@ -823,31 +1543,17 @@ coreInit()
 	<div class="ftr_bar">
 
         <div class="ftr_payment">
-            <img src="/img/pages/common/bottom_icons/visa.jpg" alt="">            <img src="/img/pages/common/bottom_icons/mastercard.jpg" alt="">            <img src="/img/pages/common/bottom_icons/discover.jpg" alt="">            <img src="/img/pages/common/bottom_icons/amex.jpg" alt="">			<div id="paypal_footer_icon"><img src="/img/pages/common/bottom_icons/paypal.jpg" alt=""></div>
+            <img src="/img/pages/common/bottom_icons/visa.jpg" alt="">            <img src="/img/pages/common/bottom_icons/mastercard.jpg" alt="">            <img src="/img/pages/common/bottom_icons/discover.jpg" alt="">            <img src="/img/pages/common/bottom_icons/amex.jpg" alt="">			<div id="paypal_footer_icon" class="paypal_footer_icon">
+			<img src="/img/pages/common/bottom_icons/paypal.jpg" alt=""><img src="/img/pages/common/bottom_icons/bill_me_later.jpg" class="bill_later" alt="Bill Me Later">			</div>
         </div>
         <div class="verisign">
-            <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
+            <table width="125" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
                 <tbody><tr>
                     <td width="135" align="center" valign="top">
                         <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.beezid.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
                     </td>
                 </tr>
             </tbody></table>
-        </div>
-
-        <div class="mcafee">
-            <!-- START SCANALERT CODE -->
-            <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.beezid.com">
-                <img border="0" src="https://images.scanalert.com/meter/www.beezid.com/13.gif" alt="McAfee SECURE sites
-                help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams">
-            </a>
-            <!-- END SCANALERT CODE -->
-        </div>
-
-        <div class="trust_beezid">
-          <a href="//privacy-policy.truste.com/click-with-confidence/wps/en/www.beezid.com/seal_m" title="TRUSTe online privacy certification" target="_blank">
-            <img style="border: none" src="//privacy-policy.truste.com/certified-seal/wps/en/www.beezid.com/seal_m.png" alt="TRUSTe online privacy certification">
-          </a>
         </div>
 	  </div>
 
@@ -863,11 +1569,15 @@ coreInit()
 
             <div class="footer_links_holder">
               <h3>Help</h3>
-              <a href="http://www.beezid.com/help_files/view">How Does Beezid™ Work?</a>              <a href="http://www.beezid.com/terms" rel="nofollow">Terms &amp; Conditions</a>              <a href="http://www.beezid.com/privacy" rel="nofollow">Privacy</a>              <a href="http://www.beezid.com/sitemap">Site Map</a>              <a href="http://www.beezid.com/affiliates">Affiliates</a>              <a href="http://www.beezid.com/suppliers">Suppliers</a>            </div>
+              <a href="http://www.beezid.com/help/welcome-to-beezid#how-it-works">How Does Beezid™ Work?</a>              <a href="http://www.beezid.com/terms" rel="nofollow">Terms &amp; Conditions</a>              <a href="http://www.beezid.com/privacy" rel="nofollow">Privacy</a>              <a href="http://www.beezid.com/sitemap">Site Map</a>              <a href="https://www.beezid.com/affiliates">Affiliates</a>              <a href="http://www.beezid.com/suppliers">Suppliers</a>            </div>
 
             <div class="footer_links_holder">
               <h3>Auctions</h3>
               <a href="http://www.beezid.com/auctions/live">Live Auctions</a>              <a href="http://www.beezid.com/auctions/future">Future Auctions</a>              <a href="http://www.beezid.com/auctions/closed">Closed Auctions</a>              <a href="http://www.beezid.com/auction-winners">Winners Circle</a>            </div>
+
+             <div class="footer_links_holder">
+              <h3>Store</h3>
+              <a href="http://www.beezid.com/store" class="nav_link">Discounted Items</a>              <a href="/help/store#buyers-faq">Buying</a>               <a href="/help/store#sell-your-items">Selling</a>            </div>
 
             <div class="footer_links_holder">
               <h3>Find Us</h3>
@@ -915,7 +1625,7 @@ coreInit()
    </div>
 
    <div class="copyright">
-	   <p>© Copyright 2013 Beezid Inc.<br>
+	   <p>© Copyright 2014 Beezid Inc.<br>
 	   Beezid®, Beezid.com, the Beezid® Bumblebee and all other Beezid® related marks, images and symbols are the exclusive properties, trademarks and tradenames
        owned by Beezid Inc. Designated trademarks, logos and brands are the property of their respective owners.</p>
     </div>
@@ -928,7 +1638,7 @@ DD_belatedPNG.fix('img, a');
 <![endif]-->
     </div>
         <div id="ajaxy" style="float: left"></div>
-<!-- node3 -->
+<!-- node9 -->
 <script type="text/javascript">
 	var _gaq = _gaq || [];
 
@@ -969,10 +1679,10 @@ var google_conversion_value = 0;
 //]]>
 </script><script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js"></script><noscript>
 <div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1027379541/?label=YqkyCKPhxwIQ1aLy6QM&amp;guid=ON&amp;script=0"/>
+<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1027379541/?label=YqkyCKPhxwIQ1aLy6QM&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
-<script type="text/javascript" src="https://px.steelhousemedia.com/st?aid=9721&amp;cb=93311300024895060&amp;shcv=&amp;shcq=1&amp;shcp=&amp;shpn=&amp;shpc=&amp;shpp=&amp;shpb=&amp;shpi=&amp;shps=&amp;tdr=&amp;plh=https%3A%2F%2Fweb.archive.org%2Fweb%2F20130806212443id_%2Fhttp%253A%2F%2Fwww.beezid.com%2Fprivacy&amp;loggedIn=0&amp;uid=0&amp;extra=0"></script><script type="text/javascript">
+<script type="text/javascript" src="https://px.steelhousemedia.com/st?aid=9721&amp;cb=82418159378814030&amp;shcv=&amp;shcq=1&amp;shcp=&amp;shpn=&amp;shpc=&amp;shpp=&amp;shpb=&amp;shpi=&amp;shps=&amp;tdr=&amp;plh=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140209104758id_%2Fhttp%253A%2F%2Fwww.beezid.com%2Fprivacy&amp;loggedIn=0&amp;uid=0&amp;extra=0"></script><script type="text/javascript">
 //<![CDATA[
 
 	var shver = '2.8.6';
