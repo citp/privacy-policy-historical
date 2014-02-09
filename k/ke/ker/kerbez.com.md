@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the kerbez.com privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915083632id_/http%3A//kerbez.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kerbez.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209110859id_/http%3A//kerbez.com/company/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Company
+# Privacy Policy
 
 ### **  PRIVACY POLICY**
 
- **Safeguarding your privacy is very important to us.** We take seriously the collection of any personally identifiable information and personal contact information ("personal information") from our visitors and are committed to protecting each visitor's privacy in accordance with these policies. We use the term "visitors" to include registered members of Kerbez.com communities and any other person that accesses our websites at any point for any amount of time, unless designated otherwise. Please carefully review our information collection practices and privacy protections below.
+**Safeguarding your privacy is very important to us.** We take seriously the collection of any personally identifiable information and personal contact information ("personal information") from our visitors and are committed to protecting each visitor's privacy in accordance with these policies. We use the term "visitors" to include registered members of Kerbez.com communities and any other person that accesses our websites at any point for any amount of time, unless designated otherwise. Please carefully review our information collection practices and privacy protections below.
 
- **Who We Are And How To Reach Us**
+**Who We Are And How To Reach Us**
 
 InterPrime Investment Group owns and operates the Kerbez.com website, and all websites under the root domain of Kerbez.com (collectively referred to in this statement as the 'Website'). You may contact us directly if you have any questions regarding the content and material on the Website or if you have any questions about our privacy policies. Please contact us at info[at]kerbez.com or Privacy Officer, InterPrime Investment Group, 1 May, Pavlodar, KZ 140000.
 
- **Collection of Personal Information**
+**Collection of Personal Information**
 
 We provide various informative, educational, and entertaining features as part of the Website. To operate these features, we collect certain non-personal and personal information from our visitors for specific purposes. For Website activities that request personal information, you agree to provide accurate and current information about yourself. We may conduct contests, sweepstakes and/or special events through the Website. To participate in these events, you must meet the designated criteria for participation, and minimum age requirements (for example, twenty-one (21) years of age or older) for the specific event.
 
 We may retain personal information for an indefinite amount of time to preserve our database and to comply with various federal and state laws.
 
- **Use and Collection of Information by the Website**
+**Use and Collection of Information by the Website**
 
 To participate on the Website, or in online activities, special events, contests, sweepstakes or other features available on the Website, you may be required to provide personally identifiable information such as your name, street and e-mail addresses, telephone number, birth date and gender ("personal information"). We may also survey visitors about various topics, including how we can improve our website and services. Response to our surveys is entirely voluntary.
 
@@ -28,11 +28,11 @@ We may produce certain contests, sweepstakes and special events with the support
 
 For each contest, sweepstakes, and/or special event, we will post on the Website applicable rules for the event, and if necessary, post any supplemental terms and conditions or privacy provisions. To the extent there is a conflict between those privacy provisions and this policy, the privacy provisions for the specific event will govern.
 
- **Use and Collection of Information by Operational Providers**
+**Use and Collection of Information by Operational Providers**
 
 For the convenience of our visitors, we may provide the opportunity to purchase certain goods, merchandise and services through this website. Companies other than InterPrime Investment Group, its parents, partners, affiliates or subsidiaries may handle some of these transactions. We call these companies that conduct our e-commerce operations, order fulfillment and/or contract services "operational providers." If you choose to use these optional services, our operational providers will request your personal information to fulfill your order or request. The voluntary submission of your personal information to these operational providers, including your order or request, will be governed by the specific provider's terms of usage and privacy policies. To facilitate an order or request, we may share your personal information with the provider. The operational provider may also share your personal information with us. We will store this information in our membership database. In most instances, we request that our operational providers adhere to the provisions in our privacy policy and that such providers only share visitors' personal information with InterPrime Investment Group, unless necessary to complete a visitor's request or order. We also request that these providers only use the personal information for the purpose of conducting the sale or fulfilling the requested service or order. However, you must read an operational providers privacy policy to determine the extent of use and disclosure of your personal information collected online. InterPrime Investment Group, its parents, affiliates and subsidiaries are not responsible for the collection, use and disclosure practices of operational providers, nor is InterPrime Investment Group responsible or liable for the products or services provided by operational providers.
 
- **Our Policy on Disclosing Your Information to Parties Other than InterPrime Investment Group**
+**Our Policy on Disclosing Your Information to Parties Other than InterPrime Investment Group**
 
 We only share or disclose your personal information with companies other than InterPrime Investment Group when it is required by law, disclosure is necessary to operate the website or certain website services, to protect the safety of our visitors, employees or property and/or when disclosure is consistent with InterPrime Investment Group's  practices for services that are similarly provided offline.
 
@@ -40,13 +40,13 @@ We may in the future share personal information with our parents, partners, affi
 
 We may collect and provide aggregate information about our visitors to our advertisers, sponsors, promotional partners, and affiliates, such as how many persons visited a particular page or activity or the likes and dislikes of our visitors, but this information does not include personal information about any individual visitor. We may obtain geographic information such as zip code clustering from other sources, but this aggregate information will not reveal any personal information about a specific visitor.
 
- **Our Use of Cookies and Tracking Devices**
+**Our Use of Cookies and Tracking Devices**
 
 This site uses cookies or other tracking devices. A cookie is a small data file that contains a unique identification number that a website places on your hard drive when you visit a site. The "cookie" is able to store information such as data about your computer, the type of browser you use, and how many times your computer visits a certain site. Cookies do not allow the Website to access personal information that you haven't already provided. Cookies enable us to track how often visitors are visiting our website and specific pages, the number of entries in specific events, the estimated audience size for sponsors and advertisers, and user preferences. You can refuse to use cookies by turning them off in your browser. Please contact your browser's software manufacturer for questions on how to disable your cookies. You do not need to have cookies turned on to use most of this site. However, you may find that some areas on the website will be slower, or may not function at all, and you may not be able to participate in certain activities such as contests or sweepstakes if the cookies are disabled.
 
 This site may use clear GIFs [Graphics Interchange Formats] (also known as pixel tags, web beacons or web bugs). A clear GIF is a tiny line of code that is programmed to collect certain information about a visit to a particular website. We use GIFs to gather non-personal, aggregate information on visits to our website, track usage of website links and assist with registration and other features. We do not disclose personal information that may be linked to our GIF collection practices to third parties. Other websites that you may link to through the Website may also use clear GIFs. InterPrime Investment Group, its parents and subsidiaries are not responsible for the use of clear GIFs by other website operators. Visitor's must review other website operators' privacy policies to determine the type and extent of tracking devices used.
 
- **Use and Collection of Information by Advertisers and Sponsors; Third Party Cookies and Tracking Devices**
+**Use and Collection of Information by Advertisers and Sponsors; Third Party Cookies and Tracking Devices**
 
 We use a third-party advertising company to serve ads on the Website. This advertising company may collect and use information (not including your name, address, e-mail address or telephone number) about your visits to our site and other websites not owned and operated by InterPrime Investment Group, and may also combine this information with other data about your purchases and interests from other online and offline sources, in order to provide advertisements about goods and services of interest to you. In addition, we may share non-personal website usage information about visitors to the Website with this company for the purpose of managing and targeting advertisements and for market research analysis on the Website and other websites. For these purposes, InterPrime Investment Group and our third party advertising company may note some of the pages you visit on the Website through the use of pixel tags (also called clear GIFs). In the course of serving advertisements to the Website, our third party advertisers may place or recognize a unique "cookie" on your computer.
 
@@ -62,17 +62,17 @@ Please be advised that when you link to or visit an advertiser's or sponsor's we
 
 We may also provide co-branded services or promotions with certain sponsors or other entities. As a part of these services or promotions, we may request the submission of your personal information through the Website for participation and/or registration. We may also share your information with the sponsor or entity assisting with the service or promotion to fulfill your request. If the co-sponsor or other entity collects your personal information, they may also share your information with us.
 
- **Our Security Procedures**
+**Our Security Procedures**
 
 We require our employees to protect the privacy of all information collected over the Website. Only employees and supervisors with specific authorization have access to databases containing visitors' personal information. The databases are protected in a secure facility. Credit card information is transmitted via encrypted technology. If we decide to share visitor information with other members of the InterPrime Investment Group family, the receiving entity will also maintain the security and integrity of personal information collected over the Website. That said, it is not possible to guarantee the security or integrity of information you disclose online since a sufficiently powerful attack from an unauthorized third party, however unlikely, could compromise your data.
 
 For the convenience of our visitors, we may offer a list of helpful website links provided by other entities and/or persons. InterPrime Investment Group does not endorse or recommend, nor is it liable for, the products or services of any websites not owned or operated by InterPrime Investment Group. When you visit other websites you will also be subject to the privacy policies and terms of usage agreements, if any, of that website operator.
 
- **Notification of Changes in the Privacy Policy**
+**Notification of Changes in the Privacy Policy**
 
 We will review our security measures and Privacy Policy on a periodic basis, and we may modify our policies as InterPrime Investment Group deems appropriate. We may also change or update our Privacy Policy if we add new services or features and will post these changes in this policy. We encourage you to review our Privacy Policy on a regular basis.
 
- **CHILDREN'S PRIVACY POLICY**
+**CHILDREN'S PRIVACY POLICY**
 
 InterPrime Investment Group respects the privacy of your child and we want to share with you our policies regarding children under the age of thirteen (13). We have developed this site to appeal to visitors over the age of thirteen (13). Although visitors of all ages may navigate through our website, we do not knowingly collect personal information from persons under the age of thirteen (13). If upon notification by a parent or guardian, or discovery by other means, that a child under thirteen (13) has improperly registered on this site by using false information, we will immediately cancel the child's membership and/or participation and delete the child's personally identifiable information from our records.
 
