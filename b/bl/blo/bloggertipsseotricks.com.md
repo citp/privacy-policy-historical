@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggertipsseotricks.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819235428id_/http%3A//www.bloggertipsseotricks.com/p/blogger-tips-tricks-seo-privacy-policy_23.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggertipsseotricks.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209135237id_/http%3A//www.bloggertipsseotricks.com/p/blogger-tips-tricks-seo-privacy-policy_23.html) for the most accurate reproduction.*
 
 # Blogger & SEO Tips and Tricks - Privacy Policy | Blogger Tips and Tricks
 
