@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalbankruptcy.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014175947id_/http%3A//www.totalbankruptcy.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalbankruptcy.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209082531id_/http%3A//www.totalbankruptcy.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Total Bankruptcy Website's Privacy Policy
 
