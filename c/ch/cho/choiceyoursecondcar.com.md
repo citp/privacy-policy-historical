@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the choiceyoursecondcar.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521043412id_/http%3A//www.choiceyoursecondcar.com/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choiceyoursecondcar.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209095945id_/http%3A//www.choiceyoursecondcar.com/%3Fpage_id%3D2) for the most accurate reproduction.*
 
 # choiceyoursecondcar » Privacy Policy
 
