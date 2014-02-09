@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the freehdsportz-app.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905011852id_/http%3A//www.freehdsportz-app.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehdsportz-app.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209021625id_/http%3A//freehdsportz-app.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Privacy Policy
 
 We respect your right to privacy. Any details that you give to us via this website or in any other way may be added to our database. You do not have to give us any personal information in order to use most of this website or our software, however, if you wish to take advantage of some of the personalized services that we may from time to time offer, you will need to provide this information.
 
