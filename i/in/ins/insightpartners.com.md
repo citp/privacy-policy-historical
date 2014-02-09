@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insightpartners.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006021111id_/http%3A//insightpartners.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insightpartners.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209052913id_/http%3A//www.insightpartners.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Insight Venture Partners
 
