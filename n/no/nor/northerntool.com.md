@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northerntool.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021075743id_/http%3A//www.northerntool.com/shop/tools/help_privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northerntool.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209133100id_/http%3A//www.northerntool.com/shop/tools/help_privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Customer Help | Northern Tool + Equipment
 
@@ -14,7 +14,7 @@ Northern Tool + Equipment uses personal information to enhance the overall shopp
 
 
 
-NorthernTool.com uses a third-party service provider (Coremetrics) to collect and analyze information about our customers to better meet their needs. Coremetrics may store data or use cookies on our part; however, we do not share information that would enable them to identify you individually. Their purpose is to provide NorthernTool.com with information that may better help us tailor the products and services we offer on our site. We do provide you with the opportunity to choose not to participate in the analysis of your browsing and purchasing behavior through the third-party service. For more information about our third-party service provider and how to opt out of this service, refer to the section below.
+NorthernTool.com uses a third-party service provider (Adobe Site Catalyst) to collect and analyze information about our customers to better meet their needs. Adobe Site Catalyst may store data or use cookies on our part; however, we do not share information that would enable them to identify you individually. Their purpose is to provide NorthernTool.com with information that may better help us tailor the products and services we offer on our site. We do provide you with the opportunity to choose not to participate in the analysis of your browsing and purchasing behavior through the third-party service. For more information about our third-party service provider and how to opt out of this service, refer to the section below.
 
 ## Opting Out
 
@@ -28,7 +28,7 @@ Burnsville, MN 55337-0219
 
 ## Opting Out of Third-party Services
 
-To learn more about Coremetrics, their privacy policies or how to opt-out of their services please go to: [www.coremetrics.com/privacy.html](http://www.coremetrics.com/company/privacy.php)
+To learn more about Adobe Site Catalyst, their privacy policies or how to opt-out of their services please go to: [http://www.adobe.com/privacy.html](http://www.adobe.com/privacy/opt-out.html#4)
 
 ## Will Northern Tool + Equipment sell my email address?
 
