@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cottonelle.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822224315id_/https%3A//www.cottonelle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cottonelle.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209234716id_/https%3A//www.cottonelle.com/privacy-policy) for the most accurate reproduction.*
 
 # Cottonelle® Privacy Policy:
 
