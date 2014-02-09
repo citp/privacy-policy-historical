@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vebnest.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207000725id_/http%3A//vebnest.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vebnest.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209040837id_/http%3A//vebnest.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Master Reseller Hosting | Alpha Reseller Host | Unlimited Reseller Hosting | Cheap | VPS | Dedicated Servers
 
