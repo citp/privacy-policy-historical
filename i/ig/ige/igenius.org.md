@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igenius.org privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914071205id_/http%3A//www.igenius.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igenius.org privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209070410id_/http%3A//www.igenius.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # igenius Discovering Child's Talent | Online Contests for Kids | Parenting Advice | Scholarship Program, igenius by Max Life Insurance, igenius for allrounder children
 
