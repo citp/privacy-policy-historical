@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the mindshift.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923130845id_/http%3A//www.mindshift.com/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindshift.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209154056id_/http%3A//www.mindshift.com/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We take your privacy seriously, and we want you to know how we collect, use, share and protect your information. 
+We take your privacy seriously, and we want you to know how we collect, use, share and protect your information.   
+****
 
 **This Privacy Policy tells you:**
 
@@ -40,7 +41,8 @@ We may also receive information about you from other sources, including third pa
 **Automatic Information**   
 Like many other websites, we also collect information through cookies and other automated means. Cookies are commonly used by websites to save data on your computer. The information we collect from cookies may include your IP address, browser and device characteristics, referring URLs, and a record of your interactions with our websites. We use cookies to create a more personalized shopping experience on our websites.   
 One type of cookie may allow us to identify you as a particular customer when you visit our websites and to link your activities on our websites to your other interactions with us. In combination with other information we collect, this cookie may facilitate the tailoring of advertisements and offers to you, sometimes in connection with interest-based advertising.  
-To help us understand and enhance our interactions with visitors to our websites, we may permit web analytics providers to collect information on our websites using automated tools like cookies or web beacons. We also may share personal information with those providers. We may have similar arrangements with interest-based advertisers. Interest-based advertising is covered in more detail below.
+To help us understand and enhance our interactions with visitors to our websites, we may permit web analytics providers to collect information on our websites using automated tools like cookies or web beacons. We also may share personal information with those providers. We may have similar arrangements with interest-based advertisers. Interest-based advertising is covered in more detail below.   
+This website does not respond to Do Not Track instructions from browsers.
 
 **Public Forums**   
 Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. 
@@ -69,9 +71,8 @@ We will retain your information for as long as your account is active or as need
 
 ## How We Share the Information We Collect
 
-mindSHIFT Technologies does not sell, rent or trade your personal information to third parties.
-
-Best Buy Co., Inc. is the parent company of the mindSHIFT Technologies, Inc., and as such, if you provide information to any of the businesses, divisions or websites owned or operated by mindSHIFT Technologies, this information may be combined or shared among current or future Best Buy Co., Inc. entities, including affiliates and subsidiaries, and will be governed by each of their privacy policies, as applicable.   
+mindSHIFT Technologies does not sell, rent or trade your personal information to third parties.  
+Ricoh Americas Holdings, Inc. (“RAH”) is the parent company of the mindSHIFT Technologies, Inc., and as such, if you provide information to any of the businesses, divisions or websites owned or operated by mindSHIFT Technologies, this information may be combined or shared among current or future Ricoh Americas Holdings, Inc. (“RAH”) entities, including affiliates and subsidiaries, and will be governed by each of their privacy policies, as applicable.   
 We may share your information with third parties to perform services on our behalf such as:
 
   * Fulfilling orders 
@@ -87,21 +88,17 @@ We may share your information with third parties to perform services on our beha
 
 
 
-Sometimes we may be required to share personal information in response to a regulation, court order or subpoena. We may also share information when we believe it's necessary to comply with the law. We also may share information to respond to a government request or when we believe disclosure is necessary or appropriate to protect the rights, property or safety of mindSHIFT Technologies, our customers, or others; to prevent harm or loss; or in connection with an investigation of suspected or actual unlawful activity. 
-
-We may also share personal information in the event of a corporate sale, merger, acquisition, dissolution or similar event.
-
+Sometimes we may be required to share personal information in response to a regulation, court order or subpoena. We may also share information when we believe it's necessary to comply with the law. We also may share information to respond to a government request or when we believe disclosure is necessary or appropriate to protect the rights, property or safety of mindSHIFT Technologies, our customers, or others; to prevent harm or loss; or in connection with an investigation of suspected or actual unlawful activity.   
+We may also share personal information in the event of a corporate sale, merger, acquisition, dissolution or similar event.  
 We may share personal information in connection with financial products or services related to our business such as private label credit cards. We also may share personal information in connection with co-branded product or service offerings. For example, when you apply for our credit card, we may share your personal information with our banking partners that issue the card.
 
 ## How We Protect the Information We Collect
 
-We use reasonable security measures to protect the confidentiality of personal information under our control and appropriately limit access to it. We cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.
-
+We use reasonable security measures to protect the confidentiality of personal information under our control and appropriately limit access to it. We cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.  
 We use a variety of information security measures to protect your online transactions with us. The mindSHIFT Technologies’ website uses encryption technology, such as Secure Sockets Layer (SSL), to protect your personal information during data transport. SSL protects information you submit via our website such as ordering information including your name, address and credit card number. 
 
 ## Transfer of Personal Information To Other Countries
 
-  
 The server(s) hosting this website and our databases may be outside the country from which you access this Site and may be outside your country of residence. Therefore, when you submit personal information or Data to us (whether directly or through this Site), your information and Data may be transferred to various countries around the world that may not guarantee the same level of privacy protection as your country and may be accessible to law enforcement and regulatory authorities according to the laws of foreign jurisdictions. By submitting your personal information or Data to us (whether directly or through this Site), you consent and agree that we may collect, store, use, process, transfer, and share your personal information as described in this Policy (including store, use and transfer your personal information outside Australia, Canada, Mexico and the European Economic Area). 
 
 ## Your Choices Regarding the Information We Collect
@@ -132,7 +129,7 @@ Waltham, MA 02452
 
 ##  **Interest-Based Advertising**
 
-We use third-party advertising companies to display ads when you visit our websites or other sites on the Internet. These companies may collect information about your visits to this and other websites. We may also share personal information with these companies. **** In either case, the purpose is to provide ads about products and services that may be of interest to you.
+We use third-party advertising companies to display ads when you visit our websites or other sites on the Internet. These companies may collect information about your visits to this and other websites. We may also share personal information with these companies.In either case, the purpose is to provide ads about products and services that may be of interest to you.
 
 ## Protecting Children's Privacy
 
@@ -148,9 +145,8 @@ We may need to update our Privacy Policy as mindSHIFT Technologies and our custo
 
 ## Have Questions? 
 
-If you have any questions about our Privacy Policy, we'll do our best to answer them. Here's how to contact us:
-
-**Phone:**   
+If you have any questions about our Privacy Policy, we'll do our best to answer them. Here's how to contact us:  
+ **Phone:**   
 617-243-2700   
 **E-mail:**  
 info@mindSHIFT.com   
@@ -158,8 +154,8 @@ info@mindSHIFT.com
 mindSHIFT Technologies  
 309 Waverley Oaks Road  
 Suite 309   
-Waltham, MA 02452
+Waltham, MA 02452  
+ ** _Notice:_** **This policy has been updated to better enable customers to understand how their information is collected, used and shared.**
 
-**_Notice:_ ** **This policy has been updated to better enable customers to understand how their information is collected, used and shared.** ****
-
-Last Updated: 5-2-2012
+  
+Last Updated: 1-31-14 
