@@ -1,10 +1,12 @@
-<!--The following is the downloaded HTML source of the codyapp.com privacy policy that was archived on 2013-09-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130929001745id_/https%3A//www.codyapp.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the codyapp.com privacy policy that was archived on 2014-02-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209153234id_/https%3A//www.codyapp.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" webkit chrome linux js"><head><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
 
 	
     <title>Cody | Privacy</title>
+	<link href="https://d28gwrkukqy4h7.cloudfront.net/homepage/avatar.png" rel="shortcut icon" type="image/vnd.microsoft.icon">
+
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 	<meta name="apple-mobile-web-app-capable" content="yes">
 	<meta name="apple-mobile-web-app-status-bar-style" content="black">
@@ -28,42 +30,43 @@ var Analytical = {
   
 
 
-    <link href="/assets/application-064f91ca74c37e2c7d335f52672212a9.css" media="all" rel="stylesheet" type="text/css">
-    <script src="/assets/application-eebdd468d5214790a5f43aea3758e5ec.js" type="text/javascript"></script>
+    <link href="/assets/application-6fd1b87ed161aa26a7895470e2d89efb.css" media="all" rel="stylesheet" type="text/css">
+    <script src="https://js.stripe.com/v2/" type="text/javascript"></script>
+<script src="/assets/application-d48cb226d0c3cce5e1cbd0e999fa0937.js" type="text/javascript"></script>
     <meta content="authenticity_token" name="csrf-param">
-<meta content="rKTUbONt5KZX235BLQ9ahxmXZMDhRvluUmvn473sTTQ=" name="csrf-token">
+<meta content="0elOcwdNatmBjsw7sq8Zur1MYY1h2h8gIac6riEySj8=" name="csrf-token">
+	<script src="https://d28gwrkukqy4h7.cloudfront.net/training/jquery.payment.js"></script>
+	<script type="text/javascript">
+	  // This identifies your website in the createToken call below
+	   Stripe.setPublishableKey('pk_live_9iAGaCjTvbRymC7U0jftaUkx');
+	  // ...
+	</script>
 
+	<style>
+	.video-js {padding-top: 56.25%}
+	.vjs-fullscreen {padding-top: 0px}
+	</style>
+	
 
+ </head>
 
-</head>
+			
+			<body class="other ">
+					
 
-
-
-
-
-			<body class="welcome ">
-				
-
+			<div class="total_container">
 
 			
 	
-	
-	    		<!-- =========  MOBILE: SIGNUP ========== -->
-
-
-
-
+	    	
 
 
 
 	
-
-					<!-- Remove the container for the mobile chat/stats/member pages or the homepage -->
-					
-							<div class="container content page_width">
-								<div class="right_pane">
-								
-								
+				
+			
+			<div class="container content training">	
+															
 					
 					<!-- Remove the alert if on the homepage or invitations page -->
 								
@@ -189,16 +192,45 @@ Last Updated: February 5, 2013<br>
 
 
 					<!-- Remove the container for the mobile chat page, stats page, members page -->
-							</div>
+							<!-- </div> -->
 							</div>
 							
 							
 					<!-- LOGIC FOR MOBILE SCROLLING -->
 	
+				</div> <!-- END TOTAL CONTAINER -->
+		
+		
+	<!-- SITE FOOTER -->
+			<!-- END SITE FOOTER -->
+	
 	
 				
 			
 			
+
+
+			<script type="text/javascript">
+			  // Once the video is ready
+			  _V_("videoPlayer").ready(function(){
+
+			    var myPlayer = this;    // Store the video object
+			    var aspectRatio = 9/16; // Make up an aspect ratio
+
+			    function resizeVideoJS(){
+			      // Get the parent element's actual width
+			      var width = document.getElementById(myPlayer.id).parentElement.offsetWidth;
+			
+			      // Set width to fill parent element, Set height
+			      myPlayer.width(width).height( width * aspectRatio );
+			    }
+
+			    resizeVideoJS(); // Initialize the function
+			    window.onresize = resizeVideoJS; // Call the function on resize
+			  });
+			</script>
+			
+
 
 	  		<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
 NREUMQ.push(["load",new Date().getTime()]);
@@ -211,10 +243,31 @@ if(NREUMQ.a)NREUMQ.a();
 };
 NREUMQ.a=window.onload;window.onload=NREUMQ.f;
 };
-NREUMQ.push(["nrfj","beacon-1.newrelic.com","d6649b6ac2","56841","d1daTUJdCl4GRhtDElVMXVpvQgdVBkcbQBRdTlVaSQ==",20,36,new Date().getTime(),"","","","",""]);</script>
+NREUMQ.push(["nrfj","beacon-3.newrelic.com","d6649b6ac2","56841","d1daTUJdCl4GRhtDElVMXVpvQgdVBkcbQBRdTlVaSQ==",8,29,new Date().getTime(),"","","","",""]);</script>
 
 
 
-<!-- SCRIPT FOR LEFT MOBILE NAVIGATION -->
+<script>
+$(function () {
+    setTimeout( 
+        function () {
+            $('.alert').animate({ 
+				opacity: 1,
+				marginTop: 0,
+				marginBottom:-20
+			}, 200);    
+        }, 200
+    );
 
+	setTimeout( 
+        function () {
+            $('.alert').animate({ 
+				opacity: 0,
+				marginTop: -60,
+				marginBottom:0
+			}, 200);    
+        }, 2500
+    );
+});
+</script>
 <div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div><script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
