@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resales-online.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118101914id_/http%3A//www.resales-online.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resales-online.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209054451id_/http%3A//www.resales-online.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Real Estate Software, CRM software, Rental Software, Costa del Sol Spain, ReSales-Online
 
