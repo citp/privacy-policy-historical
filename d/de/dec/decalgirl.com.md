@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the decalgirl.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505211615id_/http%3A//www.decalgirl.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decalgirl.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209051734id_/http%3A//www.decalgirl.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | DecalGirl
 
 ###  Protecting your privacy is important to DecalGirl. We strive to keep your personal information confidential. By ensuring that you are aware of and understand the DecalGirl Customer Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information. 
 
-DecalGirl has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. 
-
-The TRUSTe program covers the website www.decalgirl.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
-
-If you have questions or concerns regarding this policy, you should first contact Keith Hazzard at [privacy@decalgirl.com](mailto:privacy@decalgirl.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns. 
-
-### Why we collect personal information
+### Why We Collect Personal Information
 
 DecalGirl collects and uses your personal information to give you superior customer service, to provide you with convenient access to our products and services, and to make a wider range available to you. In addition, we use your personal information to keep you up to date on the latest service, special offers, and other information we think you'd like to hear about. 
 
@@ -40,7 +34,7 @@ DecalGirl does not share, sell, rent, or trade PII with third parties other than
 
 We provide you the opportunity to "opt-out" of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form. 
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [privacy@decalgirl](mailto:privacy@decalgirl.com).com. We offer an opportunity to opt-out of certain communications on our Email Updates page as well as our "My Account" section, or you may contact us at [support@decalgirl.com](mailto:support@decalgirl.com) or by mail to DecalGirl, Attn: Privacy, 17517 Nassau Commons Blvd, Lewes, DE 19958, USA to opt-out. 
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [privacy@decalgirl](mailto:privacy@decalgirl.com).com. We offer an opportunity to opt-out of certain communications on our Email Updates page as well as our "My Account" section, or you may contact us at [support@decalgirl.com](mailto:support@decalgirl.com) or by mail to DecalGirl, Attn: Privacy, 25448 Prime Hook Rd, Suite 400, Milton, DE 19968, USA to opt-out. 
 
 ### We protect your personal information
 
@@ -92,4 +86,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
 
-This policy is effective February 24, 2013.
+This policy is effective February 5, 2014.
