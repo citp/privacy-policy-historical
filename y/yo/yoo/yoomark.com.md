@@ -1,59 +1,46 @@
-> *The following text is extracted and transformed from the yoomark.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530073431id_/http%3A//yoomark.com/page.php%3Fpage%3Dabout) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoomark.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209141528id_/http%3A//yoomark.com/page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
-# | Privacy policy/ Disclaimer
+# | Privacy policy
 
-## Privacy Policy
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:yoomarkers@gmail.com).
 
-### What information do we collect?  
+At www.yoomark.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.yoomark.com and how we use it.
 
+**Log Files**  
+Like many other Web sites, www.yoomark.com makes use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-We collect information from you when you register on our site.
+**Cookies and Web Beacons**  
+www.yoomark.com uses cookies to store information about visitors' preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors' browser type or other information that the visitor sends via their browser.
 
-When registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.
+**DoubleClick DART Cookie**  
+→ Google, as a third party vendor, uses cookies to serve ads on www.yoomark.com.  
+→ Google's use of the DART cookie enables it to serve ads to our site's visitors based upon their visit to www.yoomark.com and other sites on the Internet.   
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
 
-Google, as a third party vendor, uses cookies to serve ads on your site.   
-Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.   
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+**Our Advertising Partners**  
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......
 
-### What do we use your information for?
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
+You may consult this listing to find the privacy policy for each of the advertising partners of www.yoomark.com._
 
-Any of the information we collect from you may be used in one of the following ways:
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on www.yoomark.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site's third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-To process transactions  
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+www.yoomark.com has no access to or control over these cookies that are used by third-party advertisers.
 
-### Do we use cookies?
+**Third Party Privacy Policies**  
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.yoomark.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
 
-### Do we disclose any information to outside parties?
+**Children's Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. www.yoomark.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that www.yoomark.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+**Online Privacy Policy Only**  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
 
-### California Online Privacy Protection Act Compliance
+**Consent**  
+By using our website, you hereby consent to our privacy policy and agree to its terms.
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-### Childrens Online Privacy Protection Act Compliance
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-### Online Privacy Policy Only
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-### Your Consent
-
-By using our site, you consent to our privacy policy.
-
-### Changes to our Privacy Policy
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
-
-This policy was last modified on 16.02.2013
-
-### Contacting Us
-
-If there are any questions regarding this privacy policy you may contact us at yoomarkers@gmail.com
-
-Privacy Policy Created by [Free Privacy Policy](http://www.freeprivacypolicy.com/)
+**Update**  
+This Privacy Policy was last updated on: Sunday, September 8th, 2013. [](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
+_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
