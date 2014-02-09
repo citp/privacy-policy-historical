@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepostclassifiedads.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818020643id_/http%3A//www.freepostclassifiedads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepostclassifiedads.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209134049id_/http%3A//www.freepostclassifiedads.com/privacy.php) for the most accurate reproduction.*
 
 # Qtellwholesale Limited Private Policy and Cookie Policy Ireland for all webdesign, eCommerce plus all classifieds web sites
 
