@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masterpass.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017091006id_/http%3A//www.mastercard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterpass.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209095454id_/http%3A//www.mastercard.com/privacy) for the most accurate reproduction.*
 
 # MasterCard Web Analytics Privacy Settings
 
