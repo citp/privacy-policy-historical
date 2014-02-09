@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cavirtex.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104185209id_/https%3A//cavirtex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cavirtex.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209232919id_/https%3A//www.cavirtex.com/privacy) for the most accurate reproduction.*
 
 # Canadian Virtual Exchange
 
@@ -32,7 +32,7 @@ We ask for consent to collect, use or disclose client personal information, exce
 
 We ask for your express consent for some purposes and may not be able to provide certain services if you are unwilling to provide consent to the collection, use or disclosure of certain personal information. Where express consent is needed, we will normally ask clients to provide their consent via the website or email.
 
-In cases that do not involve sensitive personal information, we may rely on "opt-out" consent. For example, we may disclose your contact information to other organizations that we believe may be of interest to you, unless you request that we do not disclose your information. You can do this by contacting us via any other methods [here](https://web.archive.org/web/20131104185209id_/https%3A//cavirtex.com/contact).
+In cases that do not involve sensitive personal information, we may rely on "opt-out" consent. For example, we may disclose your contact information to other organizations that we believe may be of interest to you, unless you request that we do not disclose your information. You can do this by contacting us via any other methods [here](https://web.archive.org/web/20140209232919id_/https%3A//www.cavirtex.com/contact).
 
 A client may withdraw consent to the use and disclosure of personal information at any time, unless the personal information is necessary for us to fulfil our legal obligations. We will respect your decision, but we may not be able to provide you with certain products and services if we do not have the necessary personal information.
 
@@ -76,4 +76,4 @@ We will respond to your request within 45 calendar days, unless an extension is 
 
 #### Questions and complaints
 
-If you have a question or concern about any collection, use or disclosure of personal information by VirtEx, or about a request for access to your own personal information, please contact our Compliance Officer. Contact details can be found [here](https://web.archive.org/web/20131104185209id_/https%3A//cavirtex.com/contact).
+If you have a question or concern about any collection, use or disclosure of personal information by VirtEx, or about a request for access to your own personal information, please contact our Compliance Officer. Contact details can be found [here](https://web.archive.org/web/20140209232919id_/https%3A//www.cavirtex.com/contact).
