@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebodyshop.co.uk privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109004429id_/http%3A//www.thebodyshop.com/content/services/aboutus_privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebodyshop.co.uk privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209115156id_/http%3A//www.thebodyshop.com/content/services/aboutus_privacypolicy.aspx) for the most accurate reproduction.*
 
 # The Body Shop | About us | privacy policy
 
@@ -195,7 +195,7 @@ Our web sites make use of cookies as well as beacons to help us provide a better
 
     
 
-11.2.2. Cookies are small text files generated when you visit our web sites or use our online services that reside on your computer and can uniquely identify your browser. We use two types of Cookies: (a) a Session Cookie is used whilst you are viewing the web site and expire after you leave the web site. (b) a Registration Cookie is a small file that is generated when you register (log on) onto the web site and remains on the computer you registered from and is used to recognise you when you register (log on) again to the web site using the same computer. We use cookies on our web site to allow you to set your individual preferences and to help us provide a better user experience.
+11.2.2. Cookies are small text files generated when you visit our web sites or use our online services that reside on your computer and can uniquely identify your browser. We use three types of Cookies: (a) a Session Cookie is used whilst you are viewing the web site and expire after you leave the web site. (b) a Registration Cookie is a small file that is generated when you register (log on) onto the web site and remains on the computer you registered from and is used to recognise you when you register (log on) again to the web site using the same computer. We use cookies on our web site to allow you to set your individual preferences and to help us provide a better user experience. (c) Third-party cookies of suppliers who set their own cookies on our website with our permission to enhance customer experience and functionality and to deliver the services that they are providing. For more information about this type of cookie and the possibilities to opt-out, refer to their individual privacy policies[ here ](https://web.archive.org/content/services/cookies.aspx). 
 
     
 
