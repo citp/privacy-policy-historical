@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myinfoline.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627161539id_/https%3A//www.myinfoline.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myinfoline.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209223834id_/https%3A//www.myinfoline.com/pages/privacypolicy) for the most accurate reproduction.*
 
 # Privacy | My Infoline - whole world at your fingertips. | Online Business Directory of USA | My Infoline USA
 
