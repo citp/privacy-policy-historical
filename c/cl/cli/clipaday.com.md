@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipaday.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013160621id_/http%3A//clipaday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipaday.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209140037id_/http%3A//clipaday.com/privacy) for the most accurate reproduction.*
 
 # clipaday.com Privacy Policy
 
