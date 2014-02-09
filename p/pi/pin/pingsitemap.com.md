@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pingsitemap.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117071126id_/http%3A//www.pingsitemap.com/ps-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingsitemap.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209030204id_/http%3A//pingsitemap.com/ps-privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Ping Sitemap
 
