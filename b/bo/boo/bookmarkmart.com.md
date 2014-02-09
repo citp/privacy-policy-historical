@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bookmarkmart.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827233949id_/http%3A//gulfadvert.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkmart.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209125128id_/http%3A//gulfadvert.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy of Gulfadvert.Com
 
-You Are Here: [Home](https://web.archive.org/web/20130827233949id_/http%3A//gulfadvert.com/index.php) » Privacy Policy
+You Are Here: [Home](https://web.archive.org/web/20140209125128id_/http%3A//gulfadvert.com/index.php) » Privacy Policy
 
 Gulfadvert.com is committed to safeguarding your privacy online. The following policy acts as a guide enabling you to understand how your personal information will be treated when you make use of the site. This policy may change from time to time.
 
