@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rockthevote.com privacy policy that was archived on 2013-10-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131027153810id_/http%3A//www.rockthevote.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rockthevote.com privacy policy that was archived on 2014-02-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209062535id_/http%3A//www.rockthevote.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -18,11 +18,11 @@
 <script type="text/javascript">
 if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 CONVIO.pageUserName = '3014:0';
-CONVIO.pageSessionID = '5DFDCFB86BB2F10D4A72B6A92E44761B.app337b';
+CONVIO.pageSessionID = '7BEB940BE6A654DFAA0658C62B39E197.app304b';
 CONVIO.pageSessionName = 'JSESSIONID';
 </script>
 
-<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1382888291890"></script>
+<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1391927135342"></script>
 <script type="text/javascript">
 
 // The original referrer may have been lost from the session-status.jsp javascript redirect.
@@ -65,193 +65,7 @@ CONVIO.gigya.conf = {
 <link href="http://www.rockthevote.com/assets/css/rtv_ie6_styles.css" rel="stylesheet" type="text/css" />
 <![endif]-->
 
-  <script type="text/javascript">
-<!-- hide this script from old browsers
 
-function URLEncode(str)
-{
-var ms = "%25#23 20?3F<3C>3E{7B}7D[5B]5D|7C^5E~7E`60+2B"
-var msi = 0
-var i,c,rs,ts
-while (msi < ms.length)
-{
-c = ms.charAt(msi)
-rs = ms.substring(++msi, msi +2)
-msi += 2
-i = 0
-while (true)
-{
-i = str.indexOf(c, i)
-if (i == -1)
-break
-ts = str.substring(0, i)
-str = ts + "%" + rs + str.substring(++i, str.length)
-}
-}
-return str
-}
-// This function provides the same conversion as that obtained from
-// java.net.URLEncoder.encode(). The function converts a string into
-// the x-www-form-urlencoded MIME format.
-//
-// To convert the string, each character is examined in turn:
-//
-// o The ASCII characters 'a' through 'z', 'A' through 'Z',
-// '0' through '9', and '.', '-', '*', '_' remain the same.
-// o The space character (' ') is converted into a plus sign ('+').
-// o All other characters are converted into the 3-character string
-// %XY, where XY is the two-digit hexadecimal representation of the
-// lower 8-bits of the character.
-//
-// NB: The list of characters that are not encoded have been determined by
-// referencing O'Reilly's "HTML: The Definitive Guide" (page 164).
-//
-// The implementation is derived from that found at
-// <http://summerholiday.org/freecode/JavaScript_URL_Encode.html>
-// (which appears to share significant DNA with the code at
-// <http://www.blooberry.com/indexdot/html/topics/urlencoding.htm>).
-//
-function URLEncodeParamValue (paramValue)
-{
-var len = paramValue.length;
-var i = 0;
-var newStr = "";
-var paramChar = "";
-for (i=0;i<len;i++)
-{
-paramChar = paramValue.substring (i, i + 1)
-if (isUrlOK (paramChar))
-{
-newStr = newStr + paramChar;
-}
-else if (paramChar.charCodeAt(0) == 32)
-{
-newStr = newStr + "+";
-}
-else
-{
-tval1 = paramChar;
-newStr = newStr + "%" + decToHex (tval1.charCodeAt(0), 16);
-}
-}
-return newStr;
-}
-// part of URLEncodeParamValue()
-var hexVals = new Array("0","1","2","3","4","5","6","7","8","9","A","B","C","D","E","F");
-function decToHex(num, radix)
-{
-var hexString = "";
-while (num >= radix)
-{
-temp = num % radix;
-num = Math.floor(num / radix);
-hexString += hexVals[temp];
-}
-hexString += hexVals[num];
-return reversal(hexString);
-}
-// part of URLEncodeParamValue()
-function reversal (s)
-{
-var len = s.length;
-var trans = "";
-for (i=0; i<len; i++)
-{
-trans = trans + s.substring(len-i-1, len-i);
-}
-s = trans;
-return s;
-}
-// part of URLEncodeParamValue()
-function isUrlOK(compareChar)
-{
-var charCode = compareChar.charCodeAt(0);
-if ((charCode >= 97 && charCode <= 122)		// 'a'-'z'
-|| (charCode >= 65 && charCode <= 90)	// 'A'-'Z'
-|| (charCode >= 48 && charCode <= 57)	// '0'-'9'
-|| charCode == 46				// '.'
-|| charCode == 45				// '-'
-|| charCode == 95				// '_'
-|| charCode == 42)				// '*'
-{
-return true;
-}
-else
-{
-return false;
-}
-}
-
-function submitenter(myfield,e)
-{
-var keycode;
-if (window.event) keycode = window.event.keyCode;
-else if (e) keycode = e.which;
-else return true;
-if (keycode == 13)
-{
-submitForm();
-return false;
-}
-else
-return true;
-}
-function submitForm() {
-if (submitOnce("Your request is being processed.  Please wait.")) {
-return sendForm();
-}
-else {
-return false;
-}
-}
-function sendForm()
-{
-var first_name = URLEncode(document.QuickRegistration.QREG_FIRST_NAME.value);
-var last_name = URLEncode(document.QuickRegistration.QREG_LAST_NAME.value);
-var email = URLEncode(document.QuickRegistration.QREG_EMAIL.value);
-
-var zip = URLEncode(document.QuickRegistration.QREG_ZIP.value);
-
-var style = URLEncode(document.QuickRegistration.QREG_STYLE.value);
-var includeInterests = URLEncode(document.QuickRegistration.QREG_INCLUDE_INTERESTS.value);
-var externalContent = URLEncode(document.QuickRegistration.QREG_EXTERNAL_CONTENT.value);
-var buttonText = URLEncode(document.QuickRegistration.QREG_BUTTON_TEXT.value);
-var nexturl = document.QuickRegistration.NEXTURL_FOR_JS.value;
-var complete = URLEncode(document.QuickRegistration.QREG_COMPLETE.value);
-var theTime = new Date().getTime();	// used to make URL unique
-var denySubmit = URLEncode(document.QuickRegistration.denySubmit.value);
-var url = "http://action.rockthevote.com/site/QuickReg?QREG_SUBMIT=TRUE&QREG_FIRST_NAME=" + first_name + "&QREG_LAST_NAME=" + last_name + "&QREG_EMAIL=" + email + "&QREG_ZIP=" + zip + "&QREG_STYLE=" + style + "&QREG_INCLUDE_INTERESTS=" + includeInterests + "&QREG_EXTERNAL_CONTENT=" + externalContent + "&QREG_BUTTON_TEXT=" + buttonText + "&QREG_COMPLETE=" + complete + "&TS=" + theTime + "&NEXTURL=" + nexturl + "&denySubmit=" + denySubmit;
-
-document.QuickRegistration.QREG_EMAIL.value = "";
-
-document.QuickRegistration.QREG_ZIP.value = "";
-
-
-
- var width = 425; var height = 400; 
-cv_new_win (url, 'Register', width, height, true);
-return false;
-}
-function popupForm()
-{
-var style = URLEncode(document.QuickRegistration.QREG_STYLE.value);
-var includeInterests = URLEncode(document.QuickRegistration.QREG_INCLUDE_INTERESTS.value);
-var externalContent = URLEncode(document.QuickRegistration.QREG_EXTERNAL_CONTENT.value);
-var buttonText = URLEncode(document.QuickRegistration.QREG_BUTTON_TEXT.value);
-var nexturl = document.QuickRegistration.NEXTURL_FOR_JS.value;
-var complete = URLEncode(document.QuickRegistration.QREG_COMPLETE.value);
-var theTime = new Date().getTime();	// used to make URL unique
-var url = "http://action.rockthevote.com/site/QuickReg?QREG_STYLE=" + style + "&QREG_INCLUDE_INTERESTS=" + includeInterests + "&QREG_EXTERNAL_CONTENT=" + externalContent + "&QREG_BUTTON_TEXT=" + buttonText + "&QREG_COMPLETE=" + complete + "&TS=" + theTime + "&NEXTURL=" + nexturl;
-
-
-
-
-
-
-cv_new_win (url, 'Register', width, height, true);
-}
-// done hiding from old browsers -->
-</script>
 
 
 <!--modalbox start-->
@@ -268,40 +82,22 @@ cv_new_win (url, 'Register', width, height, true);
   <a href="http://www.rockthevote.com/home.html"><img src="http://www.rockthevote.com/assets/images/structure/spacer.gif" alt="Rock the Vote Home" width="1" height="1" class="rtvlogo"></a>
  <!-- CRM Component:  Quick Sign up -->
 
-<div id="convio-content-7692912" style="DISPLAY: inline">
+<div id="item-483041943" style="display: inline;">
 
 
 
 
 
-
-
-
-
-
-
-<!-- Standard dependencies for embedded COM content -->
-<link rel="stylesheet" type="text/css" href="http://action.rockthevote.com/css/FunctionalStyles.css">
-<script type="text/javascript" src="http://action.rockthevote.com/yui3/yui/yui-min.js"></script>
-<script type="text/javascript" src="http://action.rockthevote.com/js/utils.js"></script>
-<script type="text/javascript" src="http://action.rockthevote.com/js/convio/modules.js"></script>
-<script type="text/javascript">
-var Y;
-if (!Y) {
-  Y = YUI({
-    base: 'http://action.rockthevote.com/yui3/',
-    debug: false,
-    modules: getModules('http://action.rockthevote.com/','convio',false)
-  });
-}
-</script>
+  
 
 <div style="HEIGHT: 65px">
-<form style="PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px" id="QuickRegistration" name="QuickRegistration" action="http://action.rockthevote.com/site/QuickReg">
-<div id="profilelinks"><input id="QREG_EMAIL_ID" class="profileemailfield" onfocus="this.value=''" onkeypress="return submitenter(this,event)" value="Email:" maxlength="250" name="QREG_EMAIL"> <input id="QREG_ZIP_ID" class="profilezipfield" onfocus="this.value=''" onkeypress="return submitenter(this,event)" value="Zip:" maxlength="10" name="QREG_ZIP"> <input class="profilesearchbutton" src="https://secure3.convio.net/rtv/images/content/pagebuilder/10466.gif" type="image" name="QREG_SUBMIT"> <input value="Constituent" type="hidden" name="QREG_FIRST_NAME"> <input type="hidden" name="QREG_LAST_NAME"> <input value="TRUE" type="hidden" name="QREG_SAME_WINDOW"> <input value="3" type="hidden" name="QREG_STYLE"> <input value="FALSE" type="hidden" name="QREG_INCLUDE_INTERESTS"> <input value="1001" type="hidden" name="AddInterest"> <input value="TRUE" type="hidden" name="QREG_EXTERNAL_CONTENT"> <input value="INTERESTS" type="hidden" name="QREG_COMPLETE"> <input value="http://action.rockthevote.com/site/PageServer?pagename=Register" type="hidden" name="NEXTURL_FOR_JS"> <input value="http://action.rockthevote.com/site/PageServer?pagename=Register" type="hidden" name="NEXTURL"> <input value="null" type="hidden" name="BUTTON_IMAGE"> <span style="DISPLAY: none"><label for="denySubmit">Spam Control Text:</label> &nbsp; <input id="denySubmit" alt="This field is used to prevent form submission by scripts." name="denySubmit"> &nbsp;Please leave this field empty </span></div></form></div>
-
+<div id="profilelinksnoform">
+<a href="http://www.rockthevote.com/join/?s_src=WEBSITE&amp;s_subsrc=TOP-HEADER-JOIN-BOX"><img src="https://secure3.convio.net/rtv/images/content/pagebuilder/join-submit.gif" style="margin: 0; padding: 0;" border="0" alt="Join Us"></a>
+</div>
+</div>
 
 </div>
+
 
 <!--// End Quick Sign up -->
 <!-- end #profile box -->
@@ -327,7 +123,7 @@ if (!Y) {
 <a href="http://www.rockthevote.com/about/press-room/">PRESS</a> &nbsp;&nbsp;
 <a href="http://www.rockthevote.com/about/partners/">PARTNERS</a> &nbsp;&nbsp;
 <a href="http://www.rockthevote.com/donate">DONATE</a></span> &nbsp;&nbsp;
-<span class="registernav"><a href="https://register2.rockthevote.com/?partner=1&amp;source=rtv.com-topnavigation" class="floatbox" data-fb-options="width:618 height:max scrolling:yes">REGISTER TO VOTE</a></span><script type="text/javascript" src="https://register2.rockthevote.com/widget_loader.js"></script>
+<span class="registernav"><a href="http://www.rockthevote.com/register/go.html?source=rtv.com-topnavigation">REGISTER TO VOTE</a></span>
 </div></div>
 <div id="navigationbottom"></div>
 </div>
@@ -393,7 +189,7 @@ if (!Y) {
 
   
 
-<!--<a href="/preview!www.rockthevote.com/includes/www.rockthevote.com/2012-ambassadors/"><img src="/preview!www.rockthevote.com/assets/images/promos/2012-ambassadors.jpg" alt="Rock the Votes 2012 Ambassadors" title="Rock the Votes 2012 Ambassadors" border="0" style="margin: 20px 0 0 0;" /></a>-->
+<!--<a href="/preview!www.rockthevote.com/includes/www.rockthevote.com/ambassadors/"><img src="/preview!www.rockthevote.com/assets/images/promos/2012-ambassadors.jpg" alt="Rock the Votes 2012 Ambassadors" title="Rock the Votes Ambassadors" border="0" style="margin: 20px 0 0 0;" /></a>-->
 </div><br>
 
 <div id="item-3432069" style="DISPLAY: inline">
@@ -414,7 +210,7 @@ if (!Y) {
 
   
 
-<a href="http://www.rockthevote.com/music/featured-artist/kenna.html"><img src="http://www.rockthevote.com/assets/images/promos/kenna-zemedkun.jpg"></a>
+<a href="http://www.rockthevote.com/music/featured-artist/after-romeo.html"><img src="http://www.rockthevote.com/assets/images/promos/after-romeo.jpg"></a>
 </div>
 </div>
 
@@ -564,7 +360,7 @@ CONVIO.user.isAnonymous = true;
   <!-- This clearing element should immediately follow the #mainContent div in order to force the #container div to contain all child floats --><br class="clearfloat">
 <div id="footer">
 <span class="footerlogos">
-<a href="http://www.youtube.com/rockthevote" target="_blank"><img src="http://www.rockthevote.com/assets/images/footer-logos/footer-logos_youtube.gif" alt="YouTube"></a><a href="http://www.facebook.com/rockthevote/" target="_blank"><img src="http://www.rockthevote.com/assets/images/footer-logos/footer-logos_facebook.gif" alt="facebook"></a><a href="http://www.flickr.com/photos/rockthevote/" target="_blank"><img src="http://www.rockthevote.com/assets/images/footer-logos/footer-logos_flickr.gif" alt="flickr"></a><a href="http://www.myspace.com/rockthevote" target="_blank"><img src="http://www.rockthevote.com/assets/images/footer-logos/footer-logos_myspace.gif" alt="Rock the Vote on MySpace"></a><a href="http://twitter.com/RockTheVote" target="_blank"><img src="http://www.rockthevote.com/assets/images/footer-logos/footer-logos_twitter.gif" alt="Follow Us On Twitter" width="71" height="26"></a></span><span class="footercopy"><a href="http://www.rockthevote.com/privacy-policy.html">PRIVACY POLICY</a> &nbsp;&nbsp; <a href="http://www.rockthevote.com/contact-us.html">CONTACT US</a> &nbsp;&nbsp; <a href="http://www.rockthevote.com/jobs/">JOBS</a> &nbsp;&nbsp;|&nbsp;&nbsp;<span class="footercopyright">© Copyright 2013 Rock the Vote</span> &nbsp;&nbsp; <a href="http://www.convio.com" target="_blank"><img src="http://www.rockthevote.com/assets/images/footer-logos/footer-logos_pwdbyconvio.gif" alt="Powered by Convio" border="0" align="absmiddle"></a></span></div>
+<a href="http://www.youtube.com/rockthevote" target="_blank"><img src="http://www.rockthevote.com/assets/images/footer-logos/footer-logos_youtube.gif" alt="YouTube"></a><a href="http://rtvote.com/1eIo7cF" target="_blank"><img src="http://www.rockthevote.com/assets/images/footer-logos/footer-logos_facebook.gif" alt="facebook"></a><a href="http://www.flickr.com/photos/rockthevote/" target="_blank"><img src="http://www.rockthevote.com/assets/images/footer-logos/footer-logos_flickr.gif" alt="flickr"></a><a href="http://www.myspace.com/rockthevote" target="_blank"><img src="http://www.rockthevote.com/assets/images/footer-logos/footer-logos_myspace.gif" alt="Rock the Vote on MySpace"></a><a href="http://rtvote.com/IBtvU4" target="_blank"><img src="http://www.rockthevote.com/assets/images/footer-logos/footer-logos_twitter.gif" alt="Follow Us On Twitter" width="71" height="26"></a></span><span class="footercopy"><a href="http://www.rockthevote.com/privacy-policy.html">PRIVACY POLICY</a> &nbsp;&nbsp; <a href="http://www.rockthevote.com/contact-us.html">CONTACT US</a> &nbsp;&nbsp; <a href="http://www.rockthevote.com/jobs/">JOBS</a> &nbsp;&nbsp;|&nbsp;&nbsp;<span class="footercopyright">© Copyright 2014 Rock the Vote</span> &nbsp;&nbsp; <a href="http://www.convio.com" target="_blank"><img src="http://www.rockthevote.com/assets/images/footer-logos/footer-logos_pwdbyconvio.gif" alt="Powered by Convio" border="0" align="absmiddle"></a></span></div>
 <!-- end #footer -->
 </div>
 <!-- end #container -->
@@ -586,6 +382,6 @@ pageTracker._trackPageview();
 
 
 <!-- Powered by Convio -->
-<!-- 10.12.0.43:8901 -->
+<!-- 10.12.0.40:8901 -->
 
 </body></html>
