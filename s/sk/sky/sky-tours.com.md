@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sky-tours.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231183940id_/http%3A//www.sky-tours.com/info.php%3Fwhat%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sky-tours.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209162336id_/http%3A//www.sky-tours.com/info.php%3Fwhat%3Dprivacy) for the most accurate reproduction.*
 
 # Cheap Airline Tickets | Cheap Flights | Cheapest Airline Tickets
 
