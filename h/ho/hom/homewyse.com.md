@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the homewyse.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019120521id_/http%3A//www.homewyse.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homewyse.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209030714id_/http%3A//www.homewyse.com/privacy.html) for the most accurate reproduction.*
 
-# homewyse Privacy Statement
+# Homewyse Privacy Statement
 
 Your privacy and personal information are very important to us. If you don't trust us, we don't have a business. Details of our official privacy policy follow:
 
 ### Information We Collect and How We Use That Information:
 
-We offer basic contact access services that do not require you to register for an account or provide any personal information to us. In order to provide our full range of services, we may collect the following types of information:
+We offer content access services that do not require you to register for an account or provide any personal information to us. In order to provide our full range of services, we may collect the following types of information:
 
-  * Registration - When you register with homewyse, we ask you for personal information (such as your name, email address and an account password).
+  * Registration - If and when you register with homewyse, we ask you for personal information (such as your name, email address and an account password).
   * Cookies - A cookie is a small data file sent to your browser from a web server to be stored on your hard drive that allows easier access the next time the same page is visited. We may use cookies to store and sometimes track information about you. For example, a cookie is sent when you register or sign in to this site. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent.
   * Log information - When you use homewyse, our servers automatically record information that your browser sends whenever you visit a website. These server logs include information such as your request, IP address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
   * Affiliated sites - We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to homewyse in order to deliver the service. We process such information in accordance with this Privacy Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies.
