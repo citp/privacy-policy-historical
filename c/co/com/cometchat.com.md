@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cometchat.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820080031id_/http%3A//www.cometchat.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cometchat.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209234202id_/http%3A//www.cometchat.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CometChat
 
