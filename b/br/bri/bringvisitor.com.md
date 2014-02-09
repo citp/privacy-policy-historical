@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bringvisitor.com privacy policy that was archived on 2013-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130731181022id_/http%3A//bringvisitor.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bringvisitor.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209042745id_/http%3A//bringvisitor.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy - www.bringvisitor.com
+# Privacy Policy
 
 **How BV(Bringvisitor.com) Uses Your Personal Information**  
 ---  
