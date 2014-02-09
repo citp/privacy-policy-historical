@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trident.edu privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112195100id_/http%3A//www.trident.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trident.edu privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209224531id_/http%3A//www.trident.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Trident University
 
