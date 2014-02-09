@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localmedia.org privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224165906id_/http%3A//localmedia.org/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localmedia.org privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209173436id_/http%3A//localmedia.org/Privacy.aspx) for the most accurate reproduction.*
 
 # Local Media Association
 
