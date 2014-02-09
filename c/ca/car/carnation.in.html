@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the carnation.in privacy policy that was archived on 2013-11-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131106173826id_/http%3A//www.carnation.in/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carnation.in privacy policy that was archived on 2014-02-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209131057id_/http%3A//www.carnation.in/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><meta name="robots" content="INDEX, FOLLOW"><meta name="Author" content="carnation.in"><meta name="msvalidate.01" content="7AE91DBCC57DDE5001394E5A14A1434D"><meta name="google-site-verification" content="vhBoOJlvcvdTc7XW8ck3LyBdhuD9dq80H9hrvamNkq0"><link rel="shortcut icon" href="http://www.carnation.in:8080/carnationtheme/images/ofbiz.ico"><script type="text/javascript" src="http://www.carnation.in:8080/carnationtheme/js/jquery3.js"></script><link rel="stylesheet" href="http://www.carnation.in:8080/carnationtheme/css/login_panel.css" type="text/css"><link rel="stylesheet" href="http://www.carnation.in:8080/carnationtheme/css/global_v1.css" type="text/css"><link rel="stylesheet" type="text/css" href="http://www.carnation.in:8080/carnationtheme/css/jquery.fancybox-1.3.4.css" media="screen"><link rel="stylesheet" type="text/css" href="http://www.carnation.in:8080/carnationtheme/css/carousel.css"><link href="http://www.carnation.in:8080/carnationtheme/css/imagePreview.css" rel="stylesheet" type="text/css"><link href="http://www.carnation.in:8080/carnationtheme/css/global_new_v1.css" rel="stylesheet" type="text/css"><script type="text/javascript" src="http://www.carnation.in:8080/carnationtheme/js/jquery.tools.min.js"></script></head><body onload="quickAdd()">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta http-equiv="x-ua-compatible" content="IE=8"><meta name="robots" content="INDEX, FOLLOW"><meta name="Author" content="carnation.in"><meta name="msvalidate.01" content="7AE91DBCC57DDE5001394E5A14A1434D"><meta name="google-site-verification" content="vhBoOJlvcvdTc7XW8ck3LyBdhuD9dq80H9hrvamNkq0"><link rel="shortcut icon" href="http://www.carnation.in:8080/carnationtheme/images/ofbiz.ico"><script type="text/javascript" src="http://www.carnation.in:8080/carnationtheme/js/jquery-1.4.2.min.js"></script><link rel="stylesheet" href="http://www.carnation.in:8080/carnationtheme/css/login_panel.css" type="text/css"><link rel="stylesheet" href="http://www.carnation.in:8080/carnationtheme/css/global_v1.css" type="text/css"><link rel="stylesheet" type="text/css" href="http://www.carnation.in:8080/carnationtheme/css/jquery.fancybox-1.3.4.css" media="screen"><link rel="stylesheet" type="text/css" href="http://www.carnation.in:8080/carnationtheme/css/carousel.css"><link href="http://www.carnation.in:8080/carnationtheme/css/imagePreview.css" rel="stylesheet" type="text/css"><link href="http://www.carnation.in:8080/carnationtheme/css/global_new_v1.css" rel="stylesheet" type="text/css"></head><body onload="quickAdd()">
 
 
   
@@ -30,11 +30,11 @@ if (document.carSearchForm.searchTxt.value == null || document.carSearchForm.sea
  
   if(searchparam == "N")
   {
-   document.carSearchForm.action = "/new-cars/"+defaultCityName+"/"+searchstring+".html";
+   document.carSearchForm.action = "/control/keywordsearch?filterQueryCity="+defaultCityName+"&minprice=0&maxprice=50000000&SEARCH_STRING=N&valueSearchNewCars=SearchNewCars&sortDefault=yes&txtsearch="+searchstring+".html";
   }
   else
   {
-  document.carSearchForm.action = "/used-cars/"+defaultCityName+"/"+searchstring+".html";
+  document.carSearchForm.action = "/control/keywordsearchUsedCar?filterQueryCity="+defaultCityName+"&minprice=0&maxprice=50000000&SEARCH_STRING=U&valueSearchUsedCars=SearchUsedCars&sortDefault=yes&txtsearch="+searchstring+".html";
   }
   document.carSearchForm.submit();
  }
@@ -62,8 +62,10 @@ if (document.carSearchForm.searchTxt.value == null || document.carSearchForm.sea
 }
 $(document).ready(function() {
 document.getElementById('loginErr').innerHTML="";
-
-    
+if($.browser.msie == true) {
+     			$("#contactEmail").fancybox({'modal' : 'true','scrolling':'no','onComplete': function(){$("#fancybox-wrap").css({'position':'absolute', 'margin-left':'-150px', 'top':'150px', 'bottom':'auto'});}});
+   		}else{ $("#contactEmail").fancybox({'modal' : 'true', 'scrolling':'no' });}
+      
       $("#aqbc").fancybox({'modal' : 'true',scrolling:'no'});
       $("#registrationlogin").fancybox({'modal' : 'true'}); 
       $("#registrationloginSecond").fancybox({'modal' : 'true'});  
@@ -178,6 +180,7 @@ $(document).ready(function() {
 
                function login(){
                  FB.api('/me', function(response) {
+
                      //alert('You have successfully logged in, '+response.name+"!");
                      console.log(response); 
                      var firstName = response.first_name;
@@ -260,7 +263,7 @@ $(document).ready(function() {
     <div id="top-header_new">
       <div><a id="contactEmail" href="/used-cars/contactEmail.html">Email
     us</a><span>|</span><span style="padding: 0px;"><img src="http://www.carnation.in:8080/carnationtheme/images/call-toll-free-icon.gif" alt=""><strong>Call</strong> Toll Free: <strong class="fnt14_new
-    txt-pink-num_new">1800 102 4400</strong></span><span>|</span><a href="http://www.carnation.in/auto-hubs">Carnation
+    txt-pink-num_new">1800 102 4400</strong></span><span>|</span><a href="/auto-hubs">Carnation
     Auto Hubs</a></div>
 
     </div>
@@ -271,16 +274,16 @@ $(document).ready(function() {
   
   
   <div id="header_new"> 
-  	<a href="/"> <img src="http://www.carnation.in:8080/carnationtheme/images/logo.png" alt="Carnation.in" class="logo_new"></a>
-  	<div align="right" style="padding-top:20px;">
-<a href="http://www.carnation.in/control/viewcontent?contentId=MSP_Offer&amp;nodeTrailCsv=MSP_Offer" target="_new"><object type="application/x-shockwave-flash" data="http://www.carnation.in:8080/carnationtheme/images/poc banner -franchisee 2.swf" width="728" height="90"></object></a>	</div> 
+    <a href="/"> <img src="http://www.carnation.in:8080/carnationtheme/images/logo.png" alt="Carnation.in" class="logo_new"></a>
+    <div align="right" style="padding-top:20px;">
+<a href="http://www.carnation.in/carnation-car-service-offer" target="_new"><img src="http://www.carnation.in:8080/carnationtheme/images/service-banner-landscape.gif" width="728" height="90"></a>    </div> 
   </div>
   
   
   
   
   <div id="navbarDiv_new" class="navbar_new">
-  <ul id="mid-nav" class="topnav_new">
+  <ul id="mid-nav" class="topnav_new" style="width:740px;">
        <li class="nav-1_new"><a href="/">Home</a></li>
              <li class="nav-2_new"><a href="/new-cars" id="NEW_CARS">New Cars</a>
        <input type="hidden" name="onroadHeader" id="onroadHeader" value="">
@@ -290,13 +293,13 @@ $(document).ready(function() {
             <li><a href="/new-cars">Search New Cars</a></li>
             <input type="hidden" name="compareHeader" id="compareHeader" value="">
                   <li> <a href="/carTips-Guides/buyingTips.html">New Car Buying Tips</a></li>         
-	    <li><a href="/new-cars/upcoming-cars.html">Upcoming Cars</a></li>
+           <li><a href="/new-cars/upcoming-cars.html">Upcoming Cars</a></li>
            <li><a href="http://latestnewcars.carnation.in" target="_blank">Latest New Cars</a></li>
-	    <li><a href="http://latestnewcars.carnation.in/car-comparisons" target="_blank">Car Comparisons</a></li>
-               <li><a href=" /new-cars/book-a-test-drive.html">Book a Test Drive</a></li>
-              <li><a href="/new-cars/on-road-price-calculator.html">On-road car price</a></li>
-              <li><a href="/new-cars/EMI-calculator.html">EMI Calculator</a></li>
-	      <li><a href="/affordability-calculator.html">Find Car You Can Buy</a></li>
+           <li><a href="http://latestnewcars.carnation.in/car-comparisons" target="_blank">Car Comparisons</a></li>
+           <li><a href=" /new-cars/book-a-test-drive.html">Book a Test Drive</a></li>
+           <li><a href="/new-cars/on-road-price-calculator.html">On-road car price</a></li>
+           <li><a href="/new-cars/EMI-calculator.html">EMI Calculator</a></li>
+           <li><a href="/affordability-calculator.html">Find Car You Can Buy</a></li>
    </ul>
    <ul id="CHILD_" class="child" style="margin-left: 170px;margin-top: 38px;width: 170px; height: 275px;overflow: visible; background: #f6f6f6;;">
    <li><a class="first-nav" style="background: #f6f6f6;">Popular New Cars</a></li>
@@ -309,12 +312,12 @@ $(document).ready(function() {
                  <div class="Mid">
                    <div class="ContenT">
                      <h3 class="sub-ddH3">Ford Fiesta Classic CLXi 1.6</h3>
-                     <img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/ford_fiesta.jpg" width="170" height="128" alt="Ford Fiesta Classic CLXi 1.6" title="Ford Fiesta Classic CLXi 1.6" class="car">
+                     <img src="http://www.carnation.in/car-images/iCarnationImage/NewCarImages/images/categories/linkOne/ford_fiesta.jpg" width="170" height="128" alt="" class="car">
                      <span class="price">
                        ex-showroom price<br>
                        <span>
-                         <img src="http://www.carnation.in:8080/carnationtheme/images/orange-rupee-symbol.png" alt="Ford Fiesta Classic CLXi 1.6" title="Ford Fiesta Classic CLXi 1.6">
-                           6,19,400
+                         
+                           ₹619,400
                        </span>
                      </span>
                      <span class="rating">
@@ -333,6 +336,7 @@ $(document).ready(function() {
            </div>
          </div>
        </li>
+       
        <li style="height: auto;border: none;background: #f6f6f6;">
          <a class="second" id="content1" href="/new-cars/Delhi-814-Mahindra/Mahindra-XUV500-W6.html?path=ProductNew">Mahindra XUV500 W6</a>
          <div class="sub-dd" style="margin-left: -198px;margin-top: 10px;display: block;border: none">
@@ -342,12 +346,12 @@ $(document).ready(function() {
                  <div class="Mid">
                    <div class="ContenT">
                      <h3 class="sub-ddH3">Mahindra XUV500 W6</h3>
-                     <img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/mahindra_xuv500.jpg" width="170" height="128" alt="Mahindra XUV500 W6" title="Mahindra XUV500 W6" class="car">
+                     <img src="http://www.carnation.in/car-images/iCarnationImage/NewCarImages/images/categories/linkOne/mahindra_xuv500.jpg" width="170" height="128" alt="" class="car">
                      <span class="price">
                        ex-showroom price<br>
                        <span>
-                         <img src="http://www.carnation.in:8080/carnationtheme/images/orange-rupee-symbol.png" alt="Mahindra XUV500 W6" title="Mahindra XUV500 W6">
-                           11,11,000
+                         
+                           ₹1,111,000
                        </span>
                      </span>
                      <span class="rating">
@@ -366,6 +370,7 @@ $(document).ready(function() {
            </div>
          </div>
        </li>
+       
        <li style="height: auto;border: none;background: #f6f6f6;">
          <a class="second" id="content2" href="/new-cars/Delhi-56-Chevrolet/Chevrolet-Beat-12-LS.html?path=ProductNew">Chevrolet Beat 1.2 LS</a>
          <div class="sub-dd" style="margin-left: -198px;margin-top: 10px;display: block;border: none">
@@ -375,12 +380,12 @@ $(document).ready(function() {
                  <div class="Mid">
                    <div class="ContenT">
                      <h3 class="sub-ddH3">Chevrolet Beat 1.2 LS</h3>
-                     <img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/chevrolet_beat.jpg" width="170" height="128" alt="Chevrolet Beat 1.2 LS" title="Chevrolet Beat 1.2 LS" class="car">
+                     <img src="http://www.carnation.in/car-images/iCarnationImage/NewCarImages/images/categories/linkOne/chevrolet_beat.jpg" width="170" height="128" alt="" class="car">
                      <span class="price">
                        ex-showroom price<br>
                        <span>
-                         <img src="http://www.carnation.in:8080/carnationtheme/images/orange-rupee-symbol.png" alt="Chevrolet Beat 1.2 LS" title="Chevrolet Beat 1.2 LS">
-                           4,19,321
+                         
+                           ₹419,321
                        </span>
                      </span>
                      <span class="rating">
@@ -399,54 +404,22 @@ $(document).ready(function() {
            </div>
          </div>
        </li>
+       
        <li style="height: auto;border: none;background: #f6f6f6;">
-         <a class="second" id="content3" href="/new-cars/Delhi-115-Ford/Ford-Figo-12-LXI-Duratec.html?path=ProductNew">Ford Figo 1.2 LXI Duratec</a>
+         <a class="second" id="content3" href="/new-cars/Delhi-644-Tata/Tata-Indigo-eCS-LX-TDI.html?path=ProductNew">Tata Indigo eCS LX TDI</a>
          <div class="sub-dd" style="margin-left: -198px;margin-top: 10px;display: block;border: none">
            <div class="sub-dd" id="THIRD3" style="overflow: visible;display: none;">
              <div class="Top">
                <div class="Bottom">
                  <div class="Mid">
                    <div class="ContenT">
-                     <h3 class="sub-ddH3">Ford Figo 1.2 LXI Duratec</h3>
-                     <img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/ford_figo.jpg" width="170" height="128" alt="Ford Figo 1.2 LXI Duratec" title="Ford Figo 1.2 LXI Duratec" class="car">
-                     <span class="price">
-                       ex-showroom price<br>
-                       <span>
-                         <img src="http://www.carnation.in:8080/carnationtheme/images/orange-rupee-symbol.png" alt="Ford Figo 1.2 LXI Duratec" title="Ford Figo 1.2 LXI Duratec">
-                           3,81,300
-                       </span>
-                     </span>
-                     <span class="rating">
-                       rating
-                       <span>
-                             <img src="http://www.carnation.in:8080/carnationtheme/images/rating_0.gif" alt="">
-                       </span>
-                     </span>
-                     <div class="clear"></div>
-                     <a onmouseover="javascript: this.style.color = '#fff';" href="/new-cars/Delhi-115-Ford/Ford-Figo-12-LXI-Duratec.html?path=ProductNew" class="more">more</a>
-                     <div class="clear"></div>
-                   </div>
-                 </div>
-               </div>
-             </div>
-           </div>
-         </div>
-       </li>
-       <li style="height: auto;border: none;background: #f6f6f6;">
-         <a class="second" id="content4" href="/new-cars/Delhi-644-Tata/Tata-Indigo-eCS-LX-TDI.html?path=ProductNew">Tata Indigo eCS LX TDI</a>
-         <div class="sub-dd" style="margin-left: -198px;margin-top: 10px;display: block;border: none">
-           <div class="sub-dd" id="THIRD4" style="overflow: visible;display: none;">
-             <div class="Top">
-               <div class="Bottom">
-                 <div class="Mid">
-                   <div class="ContenT">
                      <h3 class="sub-ddH3">Tata Indigo eCS LX TDI</h3>
-                     <img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/tata_indigo_ecs.jpg" width="170" height="128" alt="Tata Indigo eCS LX TDI" title="Tata Indigo eCS LX TDI" class="car">
+                     <img src="http://www.carnation.in/car-images/iCarnationImage/NewCarImages/images/categories/linkOne/tata_indigo_ecs.jpg" width="170" height="128" alt="" class="car">
                      <span class="price">
                        ex-showroom price<br>
                        <span>
-                         <img src="http://www.carnation.in:8080/carnationtheme/images/orange-rupee-symbol.png" alt="Tata Indigo eCS LX TDI" title="Tata Indigo eCS LX TDI">
-                           5,84,899
+                         
+                           ₹584,899
                        </span>
                      </span>
                      <span class="rating">
@@ -465,6 +438,41 @@ $(document).ready(function() {
            </div>
          </div>
        </li>
+       
+       <li style="height: auto;border: none;background: #f6f6f6;">
+         <a class="second" id="content4" href="/new-cars/Delhi-115-Ford/Ford-Figo-12-LXI-Duratec.html?path=ProductNew">Ford Figo 1.2 LXI Duratec</a>
+         <div class="sub-dd" style="margin-left: -198px;margin-top: 10px;display: block;border: none">
+           <div class="sub-dd" id="THIRD4" style="overflow: visible;display: none;">
+             <div class="Top">
+               <div class="Bottom">
+                 <div class="Mid">
+                   <div class="ContenT">
+                     <h3 class="sub-ddH3">Ford Figo 1.2 LXI Duratec</h3>
+                     <img src="http://www.carnation.in/car-images/iCarnationImage/NewCarImages/images/categories/linkOne/ford_figo.jpg" width="170" height="128" alt="" class="car">
+                     <span class="price">
+                       ex-showroom price<br>
+                       <span>
+                         
+                           ₹381,300
+                       </span>
+                     </span>
+                     <span class="rating">
+                       rating
+                       <span>
+                             <img src="http://www.carnation.in:8080/carnationtheme/images/rating_0.gif" alt="">
+                       </span>
+                     </span>
+                     <div class="clear"></div>
+                     <a onmouseover="javascript: this.style.color = '#fff';" href="/new-cars/Delhi-115-Ford/Ford-Figo-12-LXI-Duratec.html?path=ProductNew" class="more">more</a>
+                     <div class="clear"></div>
+                   </div>
+                 </div>
+               </div>
+             </div>
+           </div>
+         </div>
+       </li>
+       
        <li style="height: auto;border: none;background: #f6f6f6;">
          <a class="second" id="content5" href="/new-cars/Delhi-261-Maruti/Maruti-Swift-VXi.html?path=ProductNew">Maruti Swift VXi</a>
          <div class="sub-dd" style="margin-left: -198px;margin-top: 10px;display: block;border: none">
@@ -474,12 +482,12 @@ $(document).ready(function() {
                  <div class="Mid">
                    <div class="ContenT">
                      <h3 class="sub-ddH3">Maruti Swift VXi</h3>
-                     <img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/maruti_swift.jpg" width="170" height="128" alt="Maruti Swift VXi" title="Maruti Swift VXi" class="car">
+                     <img src="http://www.carnation.in/car-images/iCarnationImage/NewCarImages/images/categories/linkOne/maruti_swift.jpg" width="170" height="128" alt="" class="car">
                      <span class="price">
                        ex-showroom price<br>
                        <span>
-                         <img src="http://www.carnation.in:8080/carnationtheme/images/orange-rupee-symbol.png" alt="Maruti Swift VXi" title="Maruti Swift VXi">
-                           4,98,988
+                         
+                           ₹498,988
                        </span>
                      </span>
                      <span class="rating">
@@ -498,54 +506,22 @@ $(document).ready(function() {
            </div>
          </div>
        </li>
+       
        <li style="height: auto;border: none;background: #f6f6f6;">
-         <a class="second" id="content6" href="/new-cars/Delhi-493-Volkswagen/Volkswagen-Polo-16-Highline-Petrol.html?path=ProductNew">Volkswagen Polo 1.6 Highline (Petrol)</a>
+         <a class="second" id="content6" href="/new-cars/Delhi-581-Mahindra/Mahindra-Bolero-Plus-AC.html?path=ProductNew">Mahindra Bolero Plus AC</a>
          <div class="sub-dd" style="margin-left: -198px;margin-top: 10px;display: block;border: none">
            <div class="sub-dd" id="THIRD6" style="overflow: visible;display: none;">
              <div class="Top">
                <div class="Bottom">
                  <div class="Mid">
                    <div class="ContenT">
-                     <h3 class="sub-ddH3">Volkswagen Polo 1.6 Highline (Petrol)</h3>
-                     <img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/volkswagen_polo.jpg" width="170" height="128" alt="Volkswagen Polo 1.6 Highline (Petrol)" title="Volkswagen Polo 1.6 Highline (Petrol)" class="car">
-                     <span class="price">
-                       ex-showroom price<br>
-                       <span>
-                         <img src="http://www.carnation.in:8080/carnationtheme/images/orange-rupee-symbol.png" alt="Volkswagen Polo 1.6 Highline (Petrol)" title="Volkswagen Polo 1.6 Highline (Petrol)">
-                           6,44,079
-                       </span>
-                     </span>
-                     <span class="rating">
-                       rating
-                       <span>
-                             <img src="http://www.carnation.in:8080/carnationtheme/images/rating_0.gif" alt="">
-                       </span>
-                     </span>
-                     <div class="clear"></div>
-                     <a onmouseover="javascript: this.style.color = '#fff';" href="/new-cars/Delhi-493-Volkswagen/Volkswagen-Polo-16-Highline-Petrol.html?path=ProductNew" class="more">more</a>
-                     <div class="clear"></div>
-                   </div>
-                 </div>
-               </div>
-             </div>
-           </div>
-         </div>
-       </li>
-       <li style="height: auto;border: none;background: #f6f6f6;">
-         <a class="second" id="content7" href="/new-cars/Delhi-581-Mahindra/Mahindra-Bolero-Plus-AC.html?path=ProductNew">Mahindra Bolero Plus AC</a>
-         <div class="sub-dd" style="margin-left: -198px;margin-top: 10px;display: block;border: none">
-           <div class="sub-dd" id="THIRD7" style="overflow: visible;display: none;">
-             <div class="Top">
-               <div class="Bottom">
-                 <div class="Mid">
-                   <div class="ContenT">
                      <h3 class="sub-ddH3">Mahindra Bolero Plus AC</h3>
-                     <img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/mahindra_bolero.jpg" width="170" height="128" alt="Mahindra Bolero Plus AC" title="Mahindra Bolero Plus AC" class="car">
+                     <img src="http://www.carnation.in/car-images/iCarnationImage/NewCarImages/images/categories/linkOne/mahindra_bolero.jpg" width="170" height="128" alt="" class="car">
                      <span class="price">
                        ex-showroom price<br>
                        <span>
-                         <img src="http://www.carnation.in:8080/carnationtheme/images/orange-rupee-symbol.png" alt="Mahindra Bolero Plus AC" title="Mahindra Bolero Plus AC">
-                           6,08,585
+                         
+                           ₹608,585
                        </span>
                      </span>
                      <span class="rating">
@@ -564,21 +540,22 @@ $(document).ready(function() {
            </div>
          </div>
        </li>
+       
        <li style="height: auto;border: none;background: #f6f6f6;">
-         <a class="second" id="content8" href="/new-cars/Delhi-122-Ford/Ford-Figo-14-Titanium-Durator.html?path=ProductNew">Ford Figo 1.4 Titanium Durator</a>
+         <a class="second" id="content7" href="/new-cars/Delhi-493-Volkswagen/Volkswagen-Polo-16-Highline-Petrol.html?path=ProductNew">Volkswagen Polo 1.6 Highline (Petrol)</a>
          <div class="sub-dd" style="margin-left: -198px;margin-top: 10px;display: block;border: none">
-           <div class="sub-dd" id="THIRD8" style="overflow: visible;display: none;">
+           <div class="sub-dd" id="THIRD7" style="overflow: visible;display: none;">
              <div class="Top">
                <div class="Bottom">
                  <div class="Mid">
                    <div class="ContenT">
-                     <h3 class="sub-ddH3">Ford Figo 1.4 Titanium Durator</h3>
-                     <img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/ford_figo.jpg" width="170" height="128" alt="Ford Figo 1.4 Titanium Durator" title="Ford Figo 1.4 Titanium Durator" class="car">
+                     <h3 class="sub-ddH3">Volkswagen Polo 1.6 Highline (Petrol)</h3>
+                     <img src="http://www.carnation.in/car-images/iCarnationImage/NewCarImages/images/categories/linkOne/volkswagen_polo.jpg" width="170" height="128" alt="" class="car">
                      <span class="price">
                        ex-showroom price<br>
                        <span>
-                         <img src="http://www.carnation.in:8080/carnationtheme/images/orange-rupee-symbol.png" alt="Ford Figo 1.4 Titanium Durator" title="Ford Figo 1.4 Titanium Durator">
-                           5,94,200
+                         
+                           ₹644,079
                        </span>
                      </span>
                      <span class="rating">
@@ -588,7 +565,7 @@ $(document).ready(function() {
                        </span>
                      </span>
                      <div class="clear"></div>
-                     <a onmouseover="javascript: this.style.color = '#fff';" href="/new-cars/Delhi-122-Ford/Ford-Figo-14-Titanium-Durator.html?path=ProductNew" class="more">more</a>
+                     <a onmouseover="javascript: this.style.color = '#fff';" href="/new-cars/Delhi-493-Volkswagen/Volkswagen-Polo-16-Highline-Petrol.html?path=ProductNew" class="more">more</a>
                      <div class="clear"></div>
                    </div>
                  </div>
@@ -597,21 +574,22 @@ $(document).ready(function() {
            </div>
          </div>
        </li>
+       
        <li style="height: auto;border: none;background: #f6f6f6;">
-         <a class="second" id="content9" href="/new-cars/Delhi-711-Mahindra/Mahindra-Thar-CRDe-4x4-BS-IV.html?path=ProductNew">Mahindra Thar CRDe 4x4 BS-IV</a>
+         <a class="second" id="content8" href="/new-cars/Delhi-711-Mahindra/Mahindra-Thar-CRDe-4x4-BS-IV.html?path=ProductNew">Mahindra Thar CRDe 4x4 BS-IV</a>
          <div class="sub-dd" style="margin-left: -198px;margin-top: 10px;display: block;border: none">
-           <div class="sub-dd" id="THIRD9" style="overflow: visible;display: none;">
+           <div class="sub-dd" id="THIRD8" style="overflow: visible;display: none;">
              <div class="Top">
                <div class="Bottom">
                  <div class="Mid">
                    <div class="ContenT">
                      <h3 class="sub-ddH3">Mahindra Thar CRDe 4x4 BS-IV</h3>
-                     <img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/mahindra_thar.jpg" width="170" height="128" alt="Mahindra Thar CRDe 4x4 BS-IV" title="Mahindra Thar CRDe 4x4 BS-IV" class="car">
+                     <img src="http://www.carnation.in/car-images/iCarnationImage/NewCarImages/images/categories/linkOne/mahindra_thar.jpg" width="170" height="128" alt="" class="car">
                      <span class="price">
                        ex-showroom price<br>
                        <span>
-                         <img src="http://www.carnation.in:8080/carnationtheme/images/orange-rupee-symbol.png" alt="Mahindra Thar CRDe 4x4 BS-IV" title="Mahindra Thar CRDe 4x4 BS-IV">
-                           6,36,058
+                         
+                           ₹636,058
                        </span>
                      </span>
                      <span class="rating">
@@ -630,6 +608,41 @@ $(document).ready(function() {
            </div>
          </div>
        </li>
+       
+       <li style="height: auto;border: none;background: #f6f6f6;">
+         <a class="second" id="content9" href="/new-cars/Delhi-122-Ford/Ford-Figo-14-Titanium-Durator.html?path=ProductNew">Ford Figo 1.4 Titanium Durator</a>
+         <div class="sub-dd" style="margin-left: -198px;margin-top: 10px;display: block;border: none">
+           <div class="sub-dd" id="THIRD9" style="overflow: visible;display: none;">
+             <div class="Top">
+               <div class="Bottom">
+                 <div class="Mid">
+                   <div class="ContenT">
+                     <h3 class="sub-ddH3">Ford Figo 1.4 Titanium Durator</h3>
+                     <img src="http://www.carnation.in/car-images/iCarnationImage/NewCarImages/images/categories/linkOne/ford_figo.jpg" width="170" height="128" alt="" class="car">
+                     <span class="price">
+                       ex-showroom price<br>
+                       <span>
+                         
+                           ₹594,200
+                       </span>
+                     </span>
+                     <span class="rating">
+                       rating
+                       <span>
+                             <img src="http://www.carnation.in:8080/carnationtheme/images/rating_0.gif" alt="">
+                       </span>
+                     </span>
+                     <div class="clear"></div>
+                     <a onmouseover="javascript: this.style.color = '#fff';" href="/new-cars/Delhi-122-Ford/Ford-Figo-14-Titanium-Durator.html?path=ProductNew" class="more">more</a>
+                     <div class="clear"></div>
+                   </div>
+                 </div>
+               </div>
+             </div>
+           </div>
+         </div>
+       </li>
+       
  </ul>
   </li>
    
@@ -640,39 +653,41 @@ $(document).ready(function() {
           <li><a href="/used-cars">Search Used Cars</a></li>
           <li><a id="certifiedcarsfancyHeader" href="/used-cars/search-certified-cars.html">Search Certified Cars</a></li>
           <li><a id="sellcarsfancyHeader" href="/used-cars/sell-list-your-car.html">Sell Your Car</a></li>
-	   <li><a href="/online-car-showroom/showroom-locations-in-india.html">Used Car Showrooms</a></li>
-	   <input type="hidden" name="CompareUsedCarHeader" id="CompareUsedCarHeader" value="">
+       <li><a href="/online-car-showroom/showroom-locations-in-india.html">Used Car Showrooms</a></li>
+       <input type="hidden" name="CompareUsedCarHeader" id="CompareUsedCarHeader" value="">
           <li><a href="/used-cars/exchange-your-car.html">Exchange Your Car</a></li>
          <li><a href="/used-cars/assure-zone.html">Assure Zone</a></li>
-	   <li><a href="http://usedcardeals.carnation.in" target="_blank">Used Car Deals</a></li>
-	      <li><a href="/used-cars/used-car-price-calculator.html">Seller Car Valuation</a></li>
+       <li><a href="http://usedcardeals.carnation.in" target="_blank">Used Car Deals</a></li>
+          <li><a href="/used-cars/used-car-price-calculator.html">Seller Car Valuation</a></li>
           <li><a href="/used-cars/buy-used-car-pricing-tool.html">Buyer Car Valuation</a></li>
                 
           
     </ul>  
+		 	  
     
     <ul class="child" style="margin-left: 167px;margin-top:38px;width:165px;background: #f6f6f6;" id="CHILD2">
-          
-                              <li style="background: #f6f6f6;"> <a class="second" href="/used-cars/price-0-50000000/Delhi.html">Used cars in Delhi</a></li>
-                              <li style="background: #f6f6f6;"> <a class="second" href="/used-cars/price-0-50000000/Gurgaon.html">Used cars in Gurgaon</a></li>
-                              <li style="background: #f6f6f6;"> <a class="second" href="/used-cars/price-0-50000000/Sahibabad.html">Used cars in Sahibabad</a></li>
-                              <li style="background: #f6f6f6;"> <a class="second" href="/used-cars/price-0-50000000/Mumbai.html">Used cars in Mumbai</a></li>
-                              <li style="background: #f6f6f6;"> <a class="second" href="/used-cars/price-0-50000000/Pune.html">Used cars in Pune</a></li>
-                              <li style="background: #f6f6f6;"> <a class="second" href="/used-cars/price-0-50000000/Thane.html">Used cars in Thane</a></li>
-                              <li style="background: #f6f6f6;"> <a class="second" href="/used-cars/price-0-50000000/Bangalore.html">Used cars in Bangalore</a></li>
-                              <li style="background: #f6f6f6;"> <a class="second" href="/used-cars/price-0-50000000/Hyderabad.html">Used cars in Hyderabad</a></li>
-                              <li style="background: #f6f6f6;"> <a class="second" href="/used-cars/price-0-50000000/Chennai.html">Used cars in Chennai</a></li>
-                              <li style="background: #f6f6f6;"> <a class="second" href="/used-cars/price-0-50000000/Cochin.html">Used cars in Cochin</a></li>                              
-    </ul>
-</li>
+                              
+    <li style="background: #f6f6f6;"> <a class="second" href="/used-cars/price-0-50000000/Delhi.html">Used cars in New Delhi</a></li>
+    <li style="background: #f6f6f6;"> <a class="second" href="/used-cars/price-0-50000000/Gurgaon.html">Used cars in Gurgaon</a></li>
+    <li style="background: #f6f6f6;"> <a class="second" href="/used-cars/price-0-50000000/Sahibabad.html">Used cars in Sahibabad</a></li>
+    <li style="background: #f6f6f6;"> <a class="second" href="/used-cars/price-0-50000000/Noida.html">Used cars in Noida</a></li>
+    <li style="background: #f6f6f6;"> <a class="second" href="/used-cars/price-0-50000000/Pune.html">Used cars in Pune</a></li>
+    <li style="background: #f6f6f6;"> <a class="second" href="/used-cars/price-0-50000000/Thane.html">Used cars in Thane</a></li>
+    <li style="background: #f6f6f6;"> <a class="second" href="/used-cars/price-0-50000000/Bangalore.html">Used cars in Bangalore</a></li>
+    <li style="background: #f6f6f6;"> <a class="second" href="/used-cars/price-0-50000000/Hyderabad.html">Used cars in Hyderabad</a></li>
+    <li style="background: #f6f6f6;"> <a class="second" href="/used-cars/price-0-50000000/Chennai.html">Used cars in Chennai</a></li>
+    <li style="background: #f6f6f6;"> <a class="second" href="/used-cars/price-0-50000000/Cochin.html">Used cars in Cochin</a></li>
+  </ul>
+  	  
+<!--TCS Commented end <Divya><Aug 13, 2013> Modifed for Fast Search for Used Cars for 10 cities   --></li>
+
 
       <li class="nav-4_new">
       <a id="sellcarsfancyHeaderMenu" href="/used-cars/sell-list-your-car.html">Sell Car</a>
-      
       </li>
+     
       <li class="nav-5_new">
-          <a id="SERVICE" onmouseout="out();" onmouseover="out();" href="/car-service/book-a-service" class="nav-2_new">Car Service</a>
-       
+  	<a id="sellcarsfancyHeaderMenu" href="/car-service/book-a-service">Car Service</a>
  <ul class="child" id="CHILD3" style="margin-top:38px;width:165px;">
               <li><a href="/car-service/book-a-service">Book Service Appointment</a></li>
               <li><a href="http://www.carnation.in/offers">Exciting Service Offers</a></li>
@@ -681,11 +696,22 @@ $(document).ready(function() {
           </ul>   
      </li>
      <li class="nav-7_new"> 
-     <a href="http://care.carnation.in">24x7 Care</a>
+     <a href="http://care.carnation.in">24x7 Care
+     </a>
      </li>
-     <li class="nav-7_new"> 
-     <a href="http://www.carnation.in/offers">Offers</a>
+     
+     <li class="nav-7_new">
+     <a href="/offers" style="background:#d3d3d3;color:#545454">Offers</a>
      </li>
+     <li class="nav-7_new">    
+     <a href="/be_our_partner">Partner With Us</a>
+        <ul class="child" id="CHILD3" style="margin-top:38px;width:165px;">
+              <li><a href="/franchisee-registration">Register Online</a></li>
+              <li><a href="/testimonials">Partner Testimonials</a></li>
+              <li> <a href="/partner_benefits">Partner Benefits</a></li>        
+        
+          </ul>
+       </li>
      
    
      
@@ -695,19 +721,20 @@ $(document).ready(function() {
     <!--
       <li class="nav-2_new"> <a id="USED" href="/control/viewcontent?contentId=insurance_landing&amp;nodeTrailCsv=insurance_landing"  class="nav-2_new">Insurance</a>
        --></ul>
-     
-    <input type="hidden" id="LoginYes" value="<div class=&quot;guestLogin_new guestBg_new&quot;>
-        <p>Welcome, <a href=&quot;#&quot; style=&quot;align:center;&quot; onclick=&quot;logoutOption();&quot;>">
+    
+    <input type="hidden" id="LoginYes" value="<div class=&quot;guestLogin_new guestBg_new&quot; style=&quot;width:320px;&quot;>
+        <p>Welcome, <a href=&quot;#&quot; style=&quot;align:center width:220px;&quot; onclick=&quot;logoutOption();&quot;>">
          
         <input type="hidden" id="LoginYes2" value="</a></p>
 
-            <div class=&quot;dd_new&quot; id=&quot;logout&quot; style=&quot;display:none&quot;>
-                <ul>
+            <div class=&quot;dd_new&quot; id=&quot;logout&quot; style=&quot;display:none;right:-15px;&quot;>
+                <ul style=&quot;width:220px;&quot;>
                     <li><a id=&quot;user&quot; style=&quot;color:#666666;&quot; href=&quot;#&quot; onclick=&quot;logoutOptionClose();&quot;>">
-                    <input type="hidden" id="LoginYes3" value="</a><img style=&quot;float:right;margin-top:-20px;margin-right:10px;&quot; src=&quot;/carnationtheme/images/guest-down-dd-arrow.gif&quot; alt=&quot;&quot; ></li>
+                    <input type="hidden" id="LoginYes3" value="</a><img style=&quot;float:right;margin-top:-20px;margin-right:10px;&quot; onclick=&quot;logoutOptionClose();&quot; src=&quot;/carnationtheme/images/guest-down-dd-arrow.gif&quot; alt=&quot;&quot; ></li>
                     <li ><a   href=&quot;javaScript:logoutAjax();&quot; >Sign Out</a></li>
                     <!--<li class=&quot;bdrNoneB_new&quot;><a href=&quot;#&quot;>Tell a Friend</a></li>-->                    
-    	            <li class=&quot;bdrNoneB_new&quot;><a href=&quot;/control/my-profile?module=MyAccount&quot;>My Account</a></li>
+                    
+                    <li class=&quot;bdrNoneB_new&quot;><a href=&quot;/control/my-profile?module=MyAccount&quot;>My Account</a></li>
                 </ul>
 
             </div>
@@ -731,17 +758,32 @@ $(document).ready(function() {
       </div>
              
   
+
+
+
 <div id="breadcrumb_new">
 <input type="hidden" id="cityIdBreadCrumb" name="cityIdBreadCrumb" value="">
-        <h3><a href="/"> Home </a></h3><h3>&gt;</h3> 
+        	<h3><a href="/"> Home </a></h3><h3>&gt;</h3>
 
 
-       
+		
+        
+        
+        
+                       
+        
         
   
 
 
+<h3>Privacy Policy</h3>
 
+
+
+
+
+
+        
         
     </div>
 <br>
@@ -756,13 +798,15 @@ document.getElementById('MakeModelName').innerHTML=document.getElementById('brea
 function getMakeModel(){
 var city=document.getElementById('cityIdBreadCrumb').value;
 var SEARCH_STRING=city+"AND N AND  AND ";
-window.location.href="/control/variantPage/~SEARCH_STRING="+SEARCH_STRING+"/~model=/~make=/~valueSearchNewCars=MakeModel/~filterQuery="+SEARCH_STRING+"/~priceRangeListing=price:[0 TO 50000000]/~filterQueryCity="+city+"/~sort=price/~sortOrder=asc/~minPrice=0/~maxPrice=50000000";
+window.location.href="/control/modelPage/~SEARCH_STRING="+SEARCH_STRING+"/~model=/~make=/~valueSearchNewCars=MakeModel/~filterQuery="+SEARCH_STRING+"/~priceRangeListing=price:[0 TO 50000000]/~filterQueryCity="+city+"/~sort=price/~sortOrder=asc/~minPrice=0/~maxPrice=50000000";
 }
 function setSearchUrl()
 {
 document.getElementById("searchurl").href=Get_Cookie_search("searchUrl");
 }
 </script>
+
+
 
 
               
@@ -1078,48 +1122,48 @@ function makeUrl(city,make,model,minprice,maxprice,SEARCH_STRING)
 var searchtxt=document.getElementById("searchTxt1").value;
 if(model !="" && model != " ")
 {
-formedUrl="/new-cars/price-"+minprice+"-"+maxprice+"/"+city+"/"+make+"-"+model+".html";
+formedUrl="/control/keywordsearch?filterQueryCity="+city+"&urlMake="+make+"&urlModel="+model+"&minprice="+minprice+"&maxprice="+maxprice+"&SEARCH_STRING="+SEARCH_STRING+"&.html";
 }
 else if(make !="" && make != " ")
 {
 if(searchtxt == "")
 {
-formedUrl="/new-cars/price-"+minprice+"-"+maxprice+"/"+city+"/"+make+".html";
+formedUrl="/control/keywordsearch?filterQueryCity="+city+"&urlMake="+make+"&minprice="+minprice+"&maxprice="+maxprice+"&SEARCH_STRING="+SEARCH_STRING+"&valueSearchNewCars=SearchNewCars&.html";
 }
 else
 {
-formedUrl="/new-cars/price-"+minprice+"-"+maxprice+"/"+city+"/"+make+".html";
+formedUrl="/control/keywordsearch?filterQueryCity="+city+"&urlMake="+make+"&minprice="+minprice+"&maxprice="+maxprice+"&SEARCH_STRING="+SEARCH_STRING+"&valueSearchNewCars=SearchNewCars&txtsearch="+searchtxt+".html";
 }
 }
 else
 {
 if(searchtxt == "")
 {
-formedUrl="/new-cars/price-"+minprice+"-"+maxprice+"/"+city+".html";
+formedUrl="/control/keywordsearch?filterQueryCity="+city+"&minprice="+minprice+"&maxprice="+maxprice+"&SEARCH_STRING="+SEARCH_STRING+"&valueSearchNewCars=SearchNewCars&.html";
 }
 else
 {
-formedUrl="/new-cars/"+city+"/"+searchtxt+".html";
+formedUrl="/control/keywordsearch?filterQueryCity="+city+"&minprice="+minprice+"&maxprice="+maxprice+"&SEARCH_STRING="+SEARCH_STRING+"&valueSearchNewCars=SearchNewCars&txtsearch="+searchtxt+".html";
 }
 }
-return decodeURIComponent(formedUrl.replace("%2528","\(").replace("%2529","\)"));
+return formedUrl;
 }
-function makeUrlUsed(city,make,model,minprice,maxprice,SEARCH_STRING)
+function makeUrlUsed(city,make,model,minprice,maxprice,SEARCH_STRING,makeName,modelName,carStatus)
 {
-	var carStatus="";
-	if(SEARCH_STRING.indexOf("CERTIFIED")!=-1 && SEARCH_STRING.indexOf("VERIFIED")!=-1)
-	{
-		carStatus="(certified or verified)";
-	}
-	else if(SEARCH_STRING.indexOf("VERIFIED")!=-1)
-	{
-		
-			carStatus="verified";
-	}
-	else if(SEARCH_STRING.indexOf("CERTIFIED")!=-1)
-	{
-			carStatus="certified";
-	}
+    var carStatus="";
+    if(SEARCH_STRING.indexOf("CERTIFIED")!=-1 && SEARCH_STRING.indexOf("VERIFIED")!=-1)
+    {
+        carStatus="(certified or verified)";
+    }
+    else if(SEARCH_STRING.indexOf("VERIFIED")!=-1)
+    {
+        
+            carStatus="verified";
+    }
+    else if(SEARCH_STRING.indexOf("CERTIFIED")!=-1)
+    {
+            carStatus="certified";
+    }
 var searchtxt=document.getElementById("searchTxt1").value;
 if(carStatus =="")
 {
@@ -1127,22 +1171,22 @@ if(model !="" && model != " ")
 {
 if(searchtxt == "")
 {
-formedUrl="/used-cars/price-"+minprice+"-"+maxprice+"/"+city+"/"+make+"-"+model+".html";
+formedUrl="/used-cars/price-"+minprice+"-"+maxprice+"/"+city+"/"+makeName.replace(/_/g,"-").replace(".","").replace(/ /g,"_").replace("/","").replace("\(","").replace("\)","")+"-"+modelName.replace(/_/g,"-").replace(".","").replace(/ /g,"_").replace("/","").replace("\(","").replace("\)","")+"-"+make+"-"+model+".html";
 }
 else
 {
-formedUrl="/used-cars/price-"+minprice+"-"+maxprice+"/"+city+"/"+make+"-"+model+".html";
+formedUrl="/control/keywordsearchUsedCar?filterQueryCity="+city+"&urlMake="+make+"&urlModel="+model+"&minprice="+minprice+"&maxprice="+maxprice+"&SEARCH_STRING="+SEARCH_STRING+"&makeName="+makeName.replace(/_/g,"-").replace(".","").replace(/ /g,"_").replace("/","").replace("\(","").replace("\)","")+"&modelName="+modelName.replace(/_/g,"-").replace(".","").replace(/ /g,"_").replace("/","").replace("\(","").replace("\)","")+"&flag=Used&txtsearch="+searchtxt+".html";
 }
 }
 else if(make !="" && make != " ")
 {
 if(searchtxt == "")
 {
-formedUrl="/used-cars/price-"+minprice+"-"+maxprice+"/"+city+"/"+make+".html";
+formedUrl="/used-cars/price-"+minprice+"-"+maxprice+"/"+city+"/"+makeName.replace(/_/g,"-").replace(".","").replace(/ /g,"_").replace("/","").replace("\(","").replace("\)","")+"-"+make+".html";
 }
 else
 {
-formedUrl="/used-cars/price-"+minprice+"-"+maxprice+"/"+city+"/"+make+".html";
+formedUrl="/control/keywordsearchUsedCar?filterQueryCity="+city+"&urlMake="+make+"&minprice="+minprice+"&maxprice="+maxprice+"&SEARCH_STRING="+SEARCH_STRING+"&makeName="+makeName.replace(/_/g,"-").replace(".","").replace(/ /g,"_").replace("/","").replace("\(","").replace("\)","")+"&flag=Used&txtsearch="+searchtxt+".html";
 }
 }
 else
@@ -1153,7 +1197,7 @@ formedUrl="/used-cars/price-"+minprice+"-"+maxprice+"/"+city+".html";
 }
 else
 {
-formedUrl="/used-cars/"+city+"/"+searchtxt+".html";
+formedUrl="/control/keywordsearchUsedCar?filterQueryCity="+city+"&minprice="+minprice+"&maxprice="+maxprice+"&SEARCH_STRING="+SEARCH_STRING+"&flag=Used&txtsearch="+searchtxt+".html";
 }
 }
 }
@@ -1163,22 +1207,22 @@ if(model !="" && model != " ")
 {
 if(searchtxt == "")
 {
-formedUrl="/used-cars/"+carStatus+"/price-"+minprice+"-"+maxprice+"/"+city+"/"+make+"-"+model+".html";
+formedUrl="/used-cars/"+carStatus+"/price-"+minprice+"-50000000/"+city+"/"+makeName.replace(/_/g,"-").replace(".","").replace(/ /g,"_").replace("/","").replace("\(","").replace("\)","")+"-"+modelName.replace(/_/g,"-").replace(".","").replace(/ /g,"_").replace("/","").replace("\(","").replace("\)","")+"-"+make+"-"+model+".html";
 }
 else
 {
-formedUrl="/used-cars/"+carStatus+"/price-"+minprice+"-"+maxprice+"/"+city+"/"+make+"-"+model+".html";
+formedUrl="/control/keywordsearchUsedCar?filterQueryCity="+city+"&certified="+carStatus+"&urlMake="+make+"&urlModel="+model+"&minprice="+minprice+"&maxprice="+maxprice+"&SEARCH_STRING="+SEARCH_STRING+"&makeName="+makeName.replace(/_/g,"-").replace(".","").replace(/ /g,"_").replace("/","").replace("\(","").replace("\)","")+"&modelName="+modelName.replace(/_/g,"-").replace(".","").replace(/ /g,"_").replace("/","").replace("\(","").replace("\)","")+"&flag=Used&txtsearch="+searchtxt+".html";
 }
 }
 else if(make !="" && make != " ")
 {
 if(searchtxt == "")
 {
-formedUrl="/used-cars/"+carStatus+"/price-"+minprice+"-"+maxprice+"/"+city+"/"+make+".html";
+formedUrl="/used-cars/"+carStatus+"/price-"+minprice+"-"+maxprice+"/"+city+"/"+makeName.replace(/_/g,"-").replace(".","").replace(/ /g,"_").replace("/","").replace("\(","").replace("\)","")+"-"+make+".html";
 }
 else
 {
-formedUrl="/used-cars/"+carStatus+"/price-"+minprice+"-"+maxprice+"/"+city+"/"+make+".html";
+formedUrl="/control/keywordsearchUsedCar?filterQueryCity="+city+"&certified="+carStatus+"&urlMake="+make+"&minprice="+minprice+"&maxprice="+maxprice+"&SEARCH_STRING="+SEARCH_STRING+"&makeName="+makeName.replace(/_/g,"-").replace(".","").replace(/ /g,"_").replace("/","").replace("\(","").replace("\)","")+"&flag=Used&txtsearch="+searchtxt+".html";
 }
 }
 else
@@ -1189,7 +1233,7 @@ formedUrl="/used-cars/"+carStatus+"/price-"+minprice+"-"+maxprice+"/"+city+".htm
 }
 else
 {
-formedUrl="/used-cars/"+carStatus+"/price-"+minprice+"-"+maxprice+"/"+city+".html";
+formedUrl="/control/keywordsearchUsedCar?filterQueryCity="+city+"&certified="+carStatus+"&minprice="+minprice+"&maxprice="+maxprice+"&SEARCH_STRING="+SEARCH_STRING+"&flag=Used&txtsearch="+searchtxt+".html";
 }
 }
 }
@@ -1234,43 +1278,88 @@ document.cookie = name + "=" +escape(z) +
 }
 $(document).ready(function() {
 
-	new Ajax.Request("/control/setNewSession", {
-	        method: "post",
-	        parameters: {
-	              
-	        },
-	        onSuccess: function (transport) {
-	         var data = transport.responseText.evalJSON(true);             
-	              var res = transport.responseText;              
-	               var funame=data.nameUser; 
-	               var uLoginId=data.loginIdUser;
-	               var uPartyId=data.partyIdUser; 
-	               if(funame)
-	               {
-	               document.getElementById('UserDiv').innerHTML = document.getElementById('LoginYes').value+ funame +document.getElementById('LoginYes2').value+ funame +document.getElementById('LoginYes3').value;
-	               document.getElementById('UserDivFooter').innerHTML = document.getElementById('LoginYes').value+ funame +document.getElementById('LoginYes2').value+ funame +document.getElementById('LoginYes3').value;
-	               document.getElementById(textfield2) = uLoginId;
-	               document.getElementById(partyProfile) = uPartyId;
-	               }    
-	               else
-	               {
-	               //document.getElementById('UserDiv').innerHTML = document.getElementById('LoginNo').value;
-	               checkCookie();
-	               document.getElementById('UserDiv').innerHTML = "";
-	               document.getElementById('UserDiv').style.display = "none";
-	               document.getElementById('UserDivFooter').innerHTML = "";
-	               document.getElementById('UserDivFooter').style.display = "none";
-	               document.getElementById('UserDivDefault').style.display = "block";
-	               document.getElementById('UserDivDefaultFooter').style.display = "block";
-	               document.getElementById('textfield2').value = "Username";
-	               document.getElementById(partyProfile) = "";
-	               }   
-	               
-	        }
-	    });   
-	});
+    new Ajax.Request("/control/setNewSession", {
+            method: "post",
+            parameters: {
+                  
+            },
+            onSuccess: function (transport) {
+             var data = transport.responseText.evalJSON(true);             
+                  var res = transport.responseText;              
+                   var funame=data.nameUser; 
+                   var uLoginId=data.loginIdUser;
+                   var uPartyId=data.partyIdUser; 
+                   if(funame)
+                   {
+                   document.getElementById('UserDiv').innerHTML = document.getElementById('LoginYes').value+ funame +document.getElementById('LoginYes2').value+ funame +document.getElementById('LoginYes3').value;
+                   document.getElementById('UserDivFooter').innerHTML = document.getElementById('LoginYes').value+ funame +document.getElementById('LoginYes2').value+ funame +document.getElementById('LoginYes3').value;
+                   document.getElementById(textfield2) = uLoginId;
+                   document.getElementById(partyProfile) = uPartyId;
+                   }    
+                   else
+                   {
+                   //document.getElementById('UserDiv').innerHTML = document.getElementById('LoginNo').value;
+                   checkCookie();
+                   document.getElementById('UserDiv').innerHTML = "";
+                   document.getElementById('UserDiv').style.display = "none";
+                   document.getElementById('UserDivFooter').innerHTML = "";
+                   document.getElementById('UserDivFooter').style.display = "none";
+                   document.getElementById('UserDivDefault').style.display = "block";
+                   document.getElementById('UserDivDefaultFooter').style.display = "block";
+                   document.getElementById('textfield2').value = "Username";
+                   document.getElementById(partyProfile) = "";
+                   }   
+                   
+            }
+        });   
+    });
 
 </script>   
+
+
+
+
+<script>
+$(document).ready(function() {
+
+	
+		var contentId = GetURLParameter('contentId');
+		if(contentId == "10373")
+		{
+			
+				$("p").css("font-size","13px");
+				$("font").css("size","13px");
+				$("strong").addClass("western");
+				$("strong").css("size","13px");
+				$("strong").css("align","JUSTIFY");
+				
+				
+				
+		}
+
+
+	if( $("#adSlot1").children().length == 0){
+	 if(($("#adSlot1").text().match(/^\s*$/)) || ($.trim( $('#adSlot1').text() ) == "null") )
+	    {
+	    $("#adSlot1").hide();
+	}
+	}
+	}); 
+	function GetURLParameter(sParam)
+		{
+		    var sPageURL = window.location.search.substring(1);
+		    var sURLVariables = sPageURL.split('&');
+		    for (var i = 0; i < sURLVariables.length; i++)
+		    {
+		        var sParameterName = sURLVariables[i].split('=');
+		        if (sParameterName[0] == sParam)
+		        {
+		            return sParameterName[1];
+		        }
+		    }
+		}
+</script>
+
 <div id="leftCntr">                
  <div class="contentBox">
     
@@ -1293,17 +1382,23 @@ PRIVACY POLICY- CARNATION</span></font></strong><br style="font-family: Arial,He
 			</div>
 			<div id="rightCntr">
                 
-				<div class="carnation-videoBox">
-<a href="http://www.carnation.in/control/viewcontent?contentId=MSP_Offer&amp;nodeTrailCsv=MSP_Offer" target="_new"><object type="application/x-shockwave-flash" data="http://www.carnation.in:8080/carnationtheme/images/SMC Banner Option 1.swf" width="350" height="250"></object></a>					<span id="bannertag"> </span>
+				<div class="carnation-videoBox" id="adSlot1">
+<a href="http://www.carnation.in/franchisee-registration" target="_new"><img src="http://www.carnation.in:8080/carnationtheme/images/poc-banners-franchisee-sqaure.gif" width="350" height="250"></a>					<span id="bannertag"> </span>
 				</div>
 				
                   
 				<div class="quizBox" style="z-index: 859;">
-					<a id="sellcarsfancy" href="/used-cars/sell-list-your-car.html">
-					<img alt="" src="http://www.carnation.in:8080/carnationtheme/images/saleyourcar.jpg"></a>
-					</div>
+				<a id="sellcarsfancy" href="/used-cars/sell-list-your-car.html">
+				<img alt="" src="http://www.carnation.in:8080/carnationtheme/images/saleyourcar.jpg"></a>
+				</div>
+				<div class="clear"></div>
+				<br>
 				
-				 
+				
+
+
+
+
  <script type="text/javascript">
  function showTool(ff,ii)
  {
@@ -1321,247 +1416,82 @@ tooltip.hide();
  }
  </script>  
   
-				<div class="just-launched">
+
+  <div class="common_new ad-banner-2_new">
+  <div class="grey-bdr_new txt-666_new">
+    <div class="side-padding_new fnt11_new">
 						    
-					<h2>Just Launched <span>Cars</span></h2>
-					<input type="hidden" id="jlsize" value="144">
-					<div class="stepcarousel" id="galleryd" style="WIDTH: auto; margin-top: -12px; margin-left: 55px;">
-		             <div class="belt">
+					<h2 class="new">Just Launched <span>Cars</span></h2>
+					<input type="hidden" id="jlsize" value="4">
+					          
+					             
 					<ul>
-					<li class="panel" style="margin-top: 13px;padding-bottom:10px;list-style: none;">  
-					<div class="pre-owned" id="jl_0" style="margin-left: -65px;margin-top: 0px;">	
-									
-                    		<a href="/new-cars/Delhi/Bentley_Motors-Flying_Spur.html">
-                    		<img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/bentley-flying-spur_profile.jpg" class="featured-poc" alt="Bentley_Motors Flying_Spur" title="Bentley_Motors Flying_Spur"></a>
-                    		<br>                    		
-                    		<div class="clear"></div>
-                    			
-                            <div class="details-1">						
-							<ul>
-								<li class="first">
-								<h3 style="width: 500px;text-align: left;padding-left: 4px;padding-right: 5px;overflow: hidden;"><a href="/new-cars/Delhi/Bentley_Motors-Flying_Spur.html" style="text-decoration:none; color: #8071b4;"><span onmouseover="showTool(this,0);" style="z-index: 1000;width: 400px;" onmouseout="hideTool(0);">Bentley_Motors Flying_Spur</span></a></h3>
-								</li>
-								
-								
-								
-														
-								<li class="last"><span class="orange"><img src="http://www.carnation.in:8080/carnationtheme/images/rupee-grey-symbol.gif" alt=""> Rs.31,000,000</span></li>
-								
-															</ul>						
-						</div>					
-					</div>					
-					</li>
-					<li class="panel" style="margin-top: 13px;padding-bottom:10px;list-style: none;">  
-					<div class="pre-owned" id="jl_1" style="margin-left: -65px;margin-top: 0px;">	
-									
-                    		<a href="/new-cars/Delhi/Land_Rover-Range_Rover_Sport.html">
-                    		<img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/Range Rover Sport_2014_profile.jpg" class="featured-poc" alt="Land_Rover Range_Rover_Sport" title="Land_Rover Range_Rover_Sport"></a>
-                    		<br>                    		
-                    		<div class="clear"></div>
-                    			
-                            <div class="details-1">						
-							<ul>
-								<li class="first">
-								<h3 style="width: 500px;text-align: left;padding-left: 4px;padding-right: 5px;overflow: hidden;"><a href="/new-cars/Delhi/Land_Rover-Range_Rover_Sport.html" style="text-decoration:none; color: #8071b4;"><span onmouseover="showTool(this,1);" style="z-index: 1000;width: 400px;" onmouseout="hideTool(1);">Land_Rover Range_Rover_Sport</span></a></h3>
-								</li>
-								
-								
-								
-														
-								<li class="last"><span class="orange"><img src="http://www.carnation.in:8080/carnationtheme/images/rupee-grey-symbol.gif" alt=""> Rs.10,991,000</span></li>
-								
-															</ul>						
-						</div>					
-					</div>					
-					</li>
-					<li class="panel" style="margin-top: 13px;padding-bottom:10px;list-style: none;">  
-					<div class="pre-owned" id="jl_2" style="margin-left: -65px;margin-top: 0px;">	
-									
-                    		<a href="/new-cars/Delhi/Skoda-Octavia.html">
-                    		<img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/new_octavia_profile.jpg" class="featured-poc" alt="Skoda Octavia" title="Skoda Octavia"></a>
-                    		<br>                    		
-                    		<div class="clear"></div>
-                    			
-                            <div class="details-1">						
-							<ul>
-								<li class="first">
-								<h3 style="width: 500px;text-align: left;padding-left: 4px;padding-right: 5px;overflow: hidden;"><a href="/new-cars/Delhi/Skoda-Octavia.html" style="text-decoration:none; color: #8071b4;"><span onmouseover="showTool(this,2);" style="z-index: 1000;width: 400px;" onmouseout="hideTool(2);">Skoda Octavia</span></a></h3>
-								</li>
-								
-								
-								
-														
-								<li class="last"><span class="orange"><img src="http://www.carnation.in:8080/carnationtheme/images/rupee-grey-symbol.gif" alt=""> Rs.1,395,000</span></li>
-								
-															</ul>						
-						</div>					
-					</div>					
-					</li>
-					<li class="panel" style="margin-top: 13px;padding-bottom:10px;list-style: none;">  
-					<div class="pre-owned" id="jl_3" style="margin-left: -65px;margin-top: 0px;">	
-									
-                    		<a href="/new-cars/Delhi/Nissan-Terrano.html">
-                    		<img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/nissan_terrano_profile.jpg" class="featured-poc" alt="Nissan Terrano" title="Nissan Terrano"></a>
-                    		<br>                    		
-                    		<div class="clear"></div>
-                    			
-                            <div class="details-1">						
-							<ul>
-								<li class="first">
-								<h3 style="width: 500px;text-align: left;padding-left: 4px;padding-right: 5px;overflow: hidden;"><a href="/new-cars/Delhi/Nissan-Terrano.html" style="text-decoration:none; color: #8071b4;"><span onmouseover="showTool(this,3);" style="z-index: 1000;width: 400px;" onmouseout="hideTool(3);">Nissan Terrano</span></a></h3>
-								</li>
-								
-								
-								
-														
-								<li class="last"><span class="orange"><img src="http://www.carnation.in:8080/carnationtheme/images/rupee-grey-symbol.gif" alt=""> Rs.1,066,300</span></li>
-								
-															</ul>						
-						</div>					
-					</div>					
-					</li>
-					<li class="panel" style="margin-top: 13px;padding-bottom:10px;list-style: none;">  
-					<div class="pre-owned" id="jl_4" style="margin-left: -65px;margin-top: 0px;">	
-									
-                    		<a href="/new-cars/Delhi/Volkswagen-Vento.html">
-                    		<img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/volkswagen_vento.jpg" class="featured-poc" alt="Volkswagen Vento" title="Volkswagen Vento"></a>
-                    		<br>                    		
-                    		<div class="clear"></div>
-                    			
-                            <div class="details-1">						
-							<ul>
-								<li class="first">
-								<h3 style="width: 500px;text-align: left;padding-left: 4px;padding-right: 5px;overflow: hidden;"><a href="/new-cars/Delhi/Volkswagen-Vento.html" style="text-decoration:none; color: #8071b4;"><span onmouseover="showTool(this,4);" style="z-index: 1000;width: 400px;" onmouseout="hideTool(4);">Volkswagen Vento</span></a></h3>
-								</li>
-								
-								
-								
-														
-								<li class="last"><span class="orange"><img src="http://www.carnation.in:8080/carnationtheme/images/rupee-grey-symbol.gif" alt=""> Rs.999,000</span></li>
-								
-															</ul>						
-						</div>					
-					</div>					
-					</li>
-					<li class="panel" style="margin-top: 13px;padding-bottom:10px;list-style: none;">  
-					<div class="pre-owned" id="jl_5" style="margin-left: -65px;margin-top: 0px;">	
-									
-                    		<a href="/new-cars/Delhi/Nissan-Terrano.html">
-                    		<img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/nissan_terrano_profile.jpg" class="featured-poc" alt="Nissan Terrano" title="Nissan Terrano"></a>
-                    		<br>                    		
-                    		<div class="clear"></div>
-                    			
-                            <div class="details-1">						
-							<ul>
-								<li class="first">
-								<h3 style="width: 500px;text-align: left;padding-left: 4px;padding-right: 5px;overflow: hidden;"><a href="/new-cars/Delhi/Nissan-Terrano.html" style="text-decoration:none; color: #8071b4;"><span onmouseover="showTool(this,5);" style="z-index: 1000;width: 400px;" onmouseout="hideTool(5);">Nissan Terrano</span></a></h3>
-								</li>
-								
-								
-								
-														
-								<li class="last"><span class="orange"><img src="http://www.carnation.in:8080/carnationtheme/images/rupee-grey-symbol.gif" alt=""> Rs.958,000</span></li>
-								
-															</ul>						
-						</div>					
-					</div>					
-					</li>
-					<li class="panel" style="margin-top: 13px;padding-bottom:10px;list-style: none;">  
-					<div class="pre-owned" id="jl_6" style="margin-left: -65px;margin-top: 0px;">	
-									
-                    		<a href="/new-cars/Delhi/Ashok_Leyland-Stile.html">
-                    		<img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/ashokleyland-stile_profile.jpg" class="featured-poc" alt="Ashok_Leyland Stile" title="Ashok_Leyland Stile"></a>
-                    		<br>                    		
-                    		<div class="clear"></div>
-                    			
-                            <div class="details-1">						
-							<ul>
-								<li class="first">
-								<h3 style="width: 500px;text-align: left;padding-left: 4px;padding-right: 5px;overflow: hidden;"><a href="/new-cars/Delhi/Ashok_Leyland-Stile.html" style="text-decoration:none; color: #8071b4;"><span onmouseover="showTool(this,6);" style="z-index: 1000;width: 400px;" onmouseout="hideTool(6);">Ashok_Leyland Stile</span></a></h3>
-								</li>
-								
-								
-								
-														
-								<li class="last"><span class="orange"><img src="http://www.carnation.in:8080/carnationtheme/images/rupee-grey-symbol.gif" alt=""> Rs.749,000</span></li>
-								
-															</ul>						
-						</div>					
-					</div>					
-					</li>
-					<li class="panel" style="margin-top: 13px;padding-bottom:10px;list-style: none;">  
-					<div class="pre-owned" id="jl_7" style="margin-left: -65px;margin-top: 0px;">	
-									
-                    		<a href="/new-cars/Delhi/Mahindra-Xylo.html">
-                    		<img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/mahindra_xylo.jpg" class="featured-poc" alt="Mahindra Xylo" title="Mahindra Xylo"></a>
-                    		<br>                    		
-                    		<div class="clear"></div>
-                    			
-                            <div class="details-1">						
-							<ul>
-								<li class="first">
-								<h3 style="width: 500px;text-align: left;padding-left: 4px;padding-right: 5px;overflow: hidden;"><a href="/new-cars/Delhi/Mahindra-Xylo.html" style="text-decoration:none; color: #8071b4;"><span onmouseover="showTool(this,7);" style="z-index: 1000;width: 400px;" onmouseout="hideTool(7);">Mahindra Xylo</span></a></h3>
-								</li>
-								
-								
-								
-														
-								<li class="last"><span class="orange"><img src="http://www.carnation.in:8080/carnationtheme/images/rupee-grey-symbol.gif" alt=""> Rs.712,000</span></li>
-								
-															</ul>						
-						</div>					
-					</div>					
-					</li>
-					<li class="panel" style="margin-top: 13px;padding-bottom:10px;list-style: none;">  
-					<div class="pre-owned" id="jl_8" style="margin-left: -65px;margin-top: 0px;">	
-									
-                    		<a href="/new-cars/Delhi/BMW-1_Series.html">
-                    		<img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/bmw_1_series_profile.jpg" class="featured-poc" alt="BMW 1_Series" title="BMW 1_Series"></a>
-                    		<br>                    		
-                    		<div class="clear"></div>
-                    			
-                            <div class="details-1">						
-							<ul>
-								<li class="first">
-								<h3 style="width: 500px;text-align: left;padding-left: 4px;padding-right: 5px;overflow: hidden;"><a href="/new-cars/Delhi/BMW-1_Series.html" style="text-decoration:none; color: #8071b4;"><span onmouseover="showTool(this,8);" style="z-index: 1000;width: 400px;" onmouseout="hideTool(8);">BMW 1_Series</span></a></h3>
-								</li>
-								
-								
-								
-														
-								<li class="last"><span class="orange"><img src="http://www.carnation.in:8080/carnationtheme/images/rupee-grey-symbol.gif" alt=""> Rs.2,090,000</span></li>
-								
-															</ul>						
-						</div>					
-					</div>					
-					</li>
-					<li class="panel" style="margin-top: 13px;padding-bottom:10px;list-style: none;">  
-					<div class="pre-owned" id="jl_9" style="margin-left: -65px;margin-top: 0px;">	
-									
-                    		<a href="/new-cars/Delhi/Volkswagen-Polo.html">
-                    		<img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/volkswagen_polo.jpg" class="featured-poc" alt="Volkswagen Polo" title="Volkswagen Polo"></a>
-                    		<br>                    		
-                    		<div class="clear"></div>
-                    			
-                            <div class="details-1">						
-							<ul>
-								<li class="first">
-								<h3 style="width: 500px;text-align: left;padding-left: 4px;padding-right: 5px;overflow: hidden;"><a href="/new-cars/Delhi/Volkswagen-Polo.html" style="text-decoration:none; color: #8071b4;"><span onmouseover="showTool(this,9);" style="z-index: 1000;width: 400px;" onmouseout="hideTool(9);">Volkswagen Polo</span></a></h3>
-								</li>
-								
-								
-								
-														
-								<li class="last"><span class="orange"><img src="http://www.carnation.in:8080/carnationtheme/images/rupee-grey-symbol.gif" alt=""> Rs.808,000</span></li>
-								
-															</ul>						
-						</div>					
-					</div>					
-					</li>
-					 </ul>
-					 </div>                  
+					<li class="panel" style="margin-top: 13px;padding-bottom:10px;list-style: none;"> 
+					<div class="pre-owned" id="jl_0" style="margin-left: 10px;margin-top: 0px;">	
+					<div class="desc_new">
+					
+					
+					<a href="/new-cars/Delhi/Tata-Vista-10028-10136.html">
+					<img src="http://www.carnation.in/car-images/iCarnationImage/NewCarImages/images/categories/linkOne/tata_indica_vista.jpg" alt="Tata Vista" title="Tata Vista">
+					</a>
+					<br>
+					<h3 class="h3-lineH14_new fnt12_new" style="width:150px;float:left;margin-left:10px;">
+ 					<a href="/new-cars/Delhi/Tata-Vista-10028-10136.html" style="text-decoration:none; color: #8071b4;"><span onmouseover="showTool(this,0);" style="z-index: 1000;width: 400px;" onmouseout="hideTool(0);"><strong>Tata Vista</strong></span></a>
+ 					</h3>
+ 				    <p style="width:150px;float:left;margin-left:10px;">
+ 				    <span class="fnt12_new"><b>Starting From: ₹410,569</b></span> 
+ 					</p>
+                          	</div>
+                          	</div>
+                       	</li>
+                     </ul>
+                             									
+								  
+					<li class="panel" style="margin-top: 13px;padding-bottom:10px;list-style: none;"> 
+					<div class="pre-owned" id="jl_1" style="margin-left: 10px;margin-top: 0px;">	
+					<div class="desc_new">
+					
+					
+					<a href="/new-cars/Delhi/Mercedes-Benz-S-class-10019-10104.html">
+					<img src="http://www.carnation.in/car-images/iCarnationImage/NewCarImages/images/categories/linkOne/mercedes_benz_s-class.jpg" alt="Mercedes-Benz S-class" title="Mercedes-Benz S-class">
+					</a>
+					<br>
+					<h3 class="h3-lineH14_new fnt12_new" style="width:150px;float:left;margin-left:10px;">
+ 					<a href="/new-cars/Delhi/Mercedes-Benz-S-class-10019-10104.html" style="text-decoration:none; color: #8071b4;"><span onmouseover="showTool(this,1);" style="z-index: 1000;width: 400px;" onmouseout="hideTool(1);"><strong>Mercedes-Benz S-class</strong></span></a>
+ 					</h3>
+ 				    <p style="width:150px;float:left;margin-left:10px;">
+ 				    <span class="fnt12_new"><b>Starting From: ₹15,700,000</b></span> 
+ 					</p>
+                          	</div>
+                          	</div>
+                       	</li>
+                     
+                             									
+								  
+					<li class="panel" style="margin-top: 13px;padding-bottom:10px;list-style: none;"> 
+					<div class="pre-owned" id="jl_2" style="margin-left: 10px;margin-top: 0px;">	
+					<div class="desc_new">
+					
+					
+					<a href="/new-cars/Delhi/Audi-RS7-10003-10980.html">
+					<img src="http://www.carnation.in/car-images/iCarnationImage/NewCarImages/images/categories/linkOne/audi-rs7_profile.jpg" alt="Audi RS7" title="Audi RS7">
+					</a>
+					<br>
+					<h3 class="h3-lineH14_new fnt12_new" style="width:150px;float:left;margin-left:10px;">
+ 					<a href="/new-cars/Delhi/Audi-RS7-10003-10980.html" style="text-decoration:none; color: #8071b4;"><span onmouseover="showTool(this,2);" style="z-index: 1000;width: 400px;" onmouseout="hideTool(2);"><strong>Audi RS7</strong></span></a>
+ 					</h3>
+ 				    <p style="width:150px;float:left;margin-left:10px;">
+ 				    <span class="fnt12_new"><b>Starting From: ₹12,773,120</b></span> 
+ 					</p>
+                          	</div>
+                          	</div>
+                       	</li>
+                     
+                             									
+								  
+															              
                     </div>       
-						
+                </div>
 				</div>
 				
                 
@@ -1574,7 +1504,27 @@ stringMakeModelFormat();
 //]]>
 </script>
 
-				    <input type="hidden" name="expertReview" id="expertReview" value="1">
+
+
+				    
+
+
+<script src="http://www.carnation.in:8080/carnationtheme/js/jquery.min.js" type="text/javascript"></script>
+<script src="http://www.carnation.in:8080/carnationtheme/js/stepcarousel.js" type="text/javascript"></script>
+<script type="text/javascript">
+stepcarousel.setup({
+	galleryid: 'galleryExpert', //id of carousel DIV
+	beltclass: 'belt', //class of inner "belt" DIV containing all the panel DIVs
+	panelclass: 'panel', //class of panel DIVs each holding content
+	autostep: {enable:false, moveby:1, pause:3000},
+	panelbehavior: {speed:300, wraparound:false, persist:false},
+	defaultbuttons: {enable: true, moveby: 1, leftnav: ['http://www.carnation.in:8080/carnationtheme/images/prev_purple_active.gif', 10, 143], rightnav: ['/carnationtheme/images/next-purple-arrow.gif', -279, 143]},
+	contenttype: ['inline'] //content setting ['inline'] or ['external', 'path_to_external_file']
+});
+</script>
+	
+ 
+<input type="hidden" name="expertReview" id="expertReview" value="1">
  
 				<div class="new-reviewBox" style="padding-bottom:15px;">
 						    
@@ -1586,7 +1536,10 @@ stringMakeModelFormat();
                         <li class="panel" style="width: auto;list-style: none;">       
 					                    	<div id="expert_0" style="width: auto;">  
 					                    	
-					                    	<img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/audi_q5.jpg" alt="Audi Q5" title="Audi Q5" class="car">
+					                    	  	
+					                    	<img src="http://www.carnation.in/car-images/iCarnationImage/NewCarImages/images/categories/linkOne/audi_q5.jpg" alt=" Audi Q5" title=" Audi Q5 " class="car">
+					                   
+					                   
 					                    	<h3 style="height: auto; border:0px solid #000; padding-bottom:0px;">Audi Q5</h3>
 					                            <span class="ratings">
            
@@ -1594,13 +1547,16 @@ stringMakeModelFormat();
  </span>               
 					                    	 <p class="content2_description" style="width: 300px;">
 										                            The Q5 comes with V6 engines, the most refined ones we know so far, and gives a good performace...
-											 <a href="/control/viewcontent?contentId=10000&amp;nodeTrailCsv=10000&amp;valueexpertreview=expertreview&amp;urlMakeModel=Expert-reviews"><span style="color: #994d9d;">[more]</span></a>
+											 <a href="/control/viewcontent?contentId=10000&amp;nodeTrailCsv=10000&amp;valueexpertreview=expertreview&amp;urlMakeModel=Audi-Q5"><span style="color: #994d9d;">[more]</span></a>
 					                    	 </p>
 					                         </div>
 					                         </li>                        <li class="panel" style="width: auto;list-style: none;">       
 					                    	<div id="expert_1" style="width: auto;">  
 					                    	
-					                    	<img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/audi_q7.jpg" alt="Audi Q7" title="Audi Q7" class="car">
+					                    	  	
+					                    	<img src="http://www.carnation.in/car-images/iCarnationImage/NewCarImages/images/categories/linkOne/audi_q7.jpg" alt=" Audi Q7" title=" Audi Q7 " class="car">
+					                   
+					                   
 					                    	<h3 style="height: auto; border:0px solid #000; padding-bottom:0px;">Audi Q7</h3>
 					                            <span class="ratings">
            
@@ -1608,13 +1564,16 @@ stringMakeModelFormat();
  </span>               
 					                    	 <p class="content2_description" style="width: 300px;">
 										                            0-100kph in 6.5 seconds, 150kph in 13.9 seconds and 200kph in less than half a minute. It's...
-											 <a href="/control/viewcontent?contentId=10001&amp;nodeTrailCsv=10001&amp;valueexpertreview=expertreview&amp;urlMakeModel=Expert-reviews"><span style="color: #994d9d;">[more]</span></a>
+											 <a href="/control/viewcontent?contentId=10001&amp;nodeTrailCsv=10001&amp;valueexpertreview=expertreview&amp;urlMakeModel=Audi-Q7"><span style="color: #994d9d;">[more]</span></a>
 					                    	 </p>
 					                         </div>
 					                         </li>                        <li class="panel" style="width: auto;list-style: none;">       
 					                    	<div id="expert_2" style="width: auto;">  
 					                    	
-					                    	<img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/audi_r8.jpg" alt="Audi R8" title="Audi R8" class="car">
+					                    	  	
+					                    	<img src="http://www.carnation.in/car-images/iCarnationImage/NewCarImages/images/categories/linkOne/audi_r8.jpg" alt=" Audi R8" title=" Audi R8 " class="car">
+					                   
+					                   
 					                    	<h3 style="height: auto; border:0px solid #000; padding-bottom:0px;">Audi R8</h3>
 					                            <span class="ratings">
            
@@ -1624,13 +1583,16 @@ stringMakeModelFormat();
 										                            The R8 comes as a direct competetion for the legendary
 Porsche 911. Powered by a 4.2-litre V8
 ...
-											 <a href="/control/viewcontent?contentId=10002&amp;nodeTrailCsv=10002&amp;valueexpertreview=expertreview&amp;urlMakeModel=Expert-reviews"><span style="color: #994d9d;">[more]</span></a>
+											 <a href="/control/viewcontent?contentId=10002&amp;nodeTrailCsv=10002&amp;valueexpertreview=expertreview&amp;urlMakeModel=Audi-R8"><span style="color: #994d9d;">[more]</span></a>
 					                    	 </p>
 					                         </div>
 					                         </li>                        <li class="panel" style="width: auto;list-style: none;">       
 					                    	<div id="expert_3" style="width: auto;">  
 					                    	
-					                    	<img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/audi_tt.jpg" alt="Audi TT" title="Audi TT" class="car">
+					                    	  	
+					                    	<img src="http://www.carnation.in/car-images/iCarnationImage/NewCarImages/images/categories/linkOne/audi_tt.jpg" alt=" Audi TT" title=" Audi TT " class="car">
+					                   
+					                   
 					                    	<h3 style="height: auto; border:0px solid #000; padding-bottom:0px;">Audi TT</h3>
 					                            <span class="ratings">
            
@@ -1638,13 +1600,16 @@ Porsche 911. Powered by a 4.2-litre V8
  </span>               
 					                    	 <p class="content2_description" style="width: 300px;">
 										                            As in all Audis, everything in the TT is very well put together and the build quality and finis...
-											 <a href="/control/viewcontent?contentId=10003&amp;nodeTrailCsv=10003&amp;valueexpertreview=expertreview&amp;urlMakeModel=Expert-reviews"><span style="color: #994d9d;">[more]</span></a>
+											 <a href="/control/viewcontent?contentId=10003&amp;nodeTrailCsv=10003&amp;valueexpertreview=expertreview&amp;urlMakeModel=Audi-TT"><span style="color: #994d9d;">[more]</span></a>
 					                    	 </p>
 					                         </div>
 					                         </li>                        <li class="panel" style="width: auto;list-style: none;">       
 					                    	<div id="expert_4" style="width: auto;">  
 					                    	
-					                    	<img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/bentley_motors_brooklands.jpg" alt="Bentley Brooklands" title="Bentley Brooklands" class="car">
+					                    	  	
+					                    	<img src="http://www.carnation.in/car-images/iCarnationImage/NewCarImages/images/categories/linkOne/bentley_motors_brooklands.jpg" alt=" Bentley Brooklands" title=" Bentley Brooklands " class="car">
+					                   
+					                   
 					                    	<h3 style="height: auto; border:0px solid #000; padding-bottom:0px;">Bentley Brooklands</h3>
 					                            <span class="ratings">
            
@@ -1652,13 +1617,16 @@ Porsche 911. Powered by a 4.2-litre V8
  </span>               
 					                    	 <p class="content2_description" style="width: 300px;">
 										                            The ultimate old-world, rear-wheel drive, massive turbocharged V8-powered rocket barge. Tonnes ...
-											 <a href="/control/viewcontent?contentId=10004&amp;nodeTrailCsv=10004&amp;valueexpertreview=expertreview&amp;urlMakeModel=Expert-reviews"><span style="color: #994d9d;">[more]</span></a>
+											 <a href="/control/viewcontent?contentId=10004&amp;nodeTrailCsv=10004&amp;valueexpertreview=expertreview&amp;urlMakeModel=Bentley-Brooklands"><span style="color: #994d9d;">[more]</span></a>
 					                    	 </p>
 					                         </div>
 					                         </li>                        <li class="panel" style="width: auto;list-style: none;">       
 					                    	<div id="expert_5" style="width: auto;">  
 					                    	
-					                    	<img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/bentley_motors_contentinental.jpg" alt="Bentley Continental" title="Bentley Continental" class="car">
+					                    	  	
+					                    	<img src="http://www.carnation.in/car-images/iCarnationImage/NewCarImages/images/categories/linkOne/bentley_motors_contentinental.jpg" alt=" Bentley Continental" title=" Bentley Continental " class="car">
+					                   
+					                   
 					                    	<h3 style="height: auto; border:0px solid #000; padding-bottom:0px;">Bentley Continental</h3>
 					                            <span class="ratings">
            
@@ -1666,13 +1634,16 @@ Porsche 911. Powered by a 4.2-litre V8
  </span>               
 					                    	 <p class="content2_description" style="width: 300px;">
 										                            The Continental is the real Big B for people who dream big. Big top speed, big power output, bi...
-											 <a href="/control/viewcontent?contentId=10005&amp;nodeTrailCsv=10005&amp;valueexpertreview=expertreview&amp;urlMakeModel=Expert-reviews"><span style="color: #994d9d;">[more]</span></a>
+											 <a href="/control/viewcontent?contentId=10005&amp;nodeTrailCsv=10005&amp;valueexpertreview=expertreview&amp;urlMakeModel=Bentley-Continental"><span style="color: #994d9d;">[more]</span></a>
 					                    	 </p>
 					                         </div>
 					                         </li>                        <li class="panel" style="width: auto;list-style: none;">       
 					                    	<div id="expert_6" style="width: auto;">  
 					                    	
-					                    	<img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/bentley_motors_mulsanne.jpg" alt="Bentley Mulsanne" title="Bentley Mulsanne" class="car">
+					                    	  	
+					                    	<img src="http://www.carnation.in/car-images/iCarnationImage/NewCarImages/images/categories/linkOne/bentley_motors_mulsanne.jpg" alt=" Bentley Mulsanne" title=" Bentley Mulsanne " class="car">
+					                   
+					                   
 					                    	<h3 style="height: auto; border:0px solid #000; padding-bottom:0px;">Bentley Mulsanne</h3>
 					                            <span class="ratings">
            
@@ -1680,13 +1651,16 @@ Porsche 911. Powered by a 4.2-litre V8
  </span>               
 					                    	 <p class="content2_description" style="width: 300px;">
 										                            Touted as the best car Bentley has ever built, the new Mulsanne is the company's latest fla...
-											 <a href="/control/viewcontent?contentId=10006&amp;nodeTrailCsv=10006&amp;valueexpertreview=expertreview&amp;urlMakeModel=Expert-reviews"><span style="color: #994d9d;">[more]</span></a>
+											 <a href="/control/viewcontent?contentId=10006&amp;nodeTrailCsv=10006&amp;valueexpertreview=expertreview&amp;urlMakeModel=Bentley-Mulsanne"><span style="color: #994d9d;">[more]</span></a>
 					                    	 </p>
 					                         </div>
 					                         </li>                        <li class="panel" style="width: auto;list-style: none;">       
 					                    	<div id="expert_7" style="width: auto;">  
 					                    	
-					                    	<img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/bmw_3_series.jpg" alt="BMW  3 Series" title="BMW  3 Series" class="car">
+					                    	  	
+					                    	<img src="http://www.carnation.in/car-images/iCarnationImage/NewCarImages/images/categories/linkOne/bmw_3_series.jpg" alt=" BMW  3 Series" title=" BMW  3 Series " class="car">
+					                   
+					                   
 					                    	<h3 style="height: auto; border:0px solid #000; padding-bottom:0px;">BMW  3 Series</h3>
 					                            <span class="ratings">
            
@@ -1694,13 +1668,16 @@ Porsche 911. Powered by a 4.2-litre V8
  </span>               
 					                    	 <p class="content2_description" style="width: 300px;">
 										                            The 3 Series is an driver focused car and will give A4 and the C-class a run for its money. The...
-											 <a href="/control/viewcontent?contentId=10007&amp;nodeTrailCsv=10007&amp;valueexpertreview=expertreview&amp;urlMakeModel=Expert-reviews"><span style="color: #994d9d;">[more]</span></a>
+											 <a href="/control/viewcontent?contentId=10007&amp;nodeTrailCsv=10007&amp;valueexpertreview=expertreview&amp;urlMakeModel=BMW--3-Series"><span style="color: #994d9d;">[more]</span></a>
 					                    	 </p>
 					                         </div>
 					                         </li>                        <li class="panel" style="width: auto;list-style: none;">       
 					                    	<div id="expert_8" style="width: auto;">  
 					                    	
-					                    	<img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/bmw_5_series.jpg" alt="BMW 5Series" title="BMW 5Series" class="car">
+					                    	  	
+					                    	<img src="http://www.carnation.in/car-images/iCarnationImage/NewCarImages/images/categories/linkOne/bmw_5_series.jpg" alt=" BMW 5Series" title=" BMW 5Series " class="car">
+					                   
+					                   
 					                    	<h3 style="height: auto; border:0px solid #000; padding-bottom:0px;">BMW 5Series</h3>
 					                            <span class="ratings">
            
@@ -1708,13 +1685,16 @@ Porsche 911. Powered by a 4.2-litre V8
  </span>               
 					                    	 <p class="content2_description" style="width: 300px;">
 										                            The BMW 5 Series is definitely an all rounder with its spacious and refined design and interior...
-											 <a href="/control/viewcontent?contentId=10008&amp;nodeTrailCsv=10008&amp;valueexpertreview=expertreview&amp;urlMakeModel=Expert-reviews"><span style="color: #994d9d;">[more]</span></a>
+											 <a href="/control/viewcontent?contentId=10008&amp;nodeTrailCsv=10008&amp;valueexpertreview=expertreview&amp;urlMakeModel=BMW-5Series"><span style="color: #994d9d;">[more]</span></a>
 					                    	 </p>
 					                         </div>
 					                         </li>                        <li class="panel" style="width: auto;list-style: none;">       
 					                    	<div id="expert_9" style="width: auto;">  
 					                    	
-					                    	<img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/bmw_6_series.jpg" alt="BMW 6Series" title="BMW 6Series" class="car">
+					                    	  	
+					                    	<img src="http://www.carnation.in/car-images/iCarnationImage/NewCarImages/images/categories/linkOne/bmw_6_series.jpg" alt=" BMW 6Series" title=" BMW 6Series " class="car">
+					                   
+					                   
 					                    	<h3 style="height: auto; border:0px solid #000; padding-bottom:0px;">BMW 6Series</h3>
 					                            <span class="ratings">
            
@@ -1722,13 +1702,16 @@ Porsche 911. Powered by a 4.2-litre V8
  </span>               
 					                    	 <p class="content2_description" style="width: 300px;">
 										                            It's sheer desirability that the BMW 650i convertible is all about. It looks stunning, espe...
-											 <a href="/control/viewcontent?contentId=10009&amp;nodeTrailCsv=10009&amp;valueexpertreview=expertreview&amp;urlMakeModel=Expert-reviews"><span style="color: #994d9d;">[more]</span></a>
+											 <a href="/control/viewcontent?contentId=10009&amp;nodeTrailCsv=10009&amp;valueexpertreview=expertreview&amp;urlMakeModel=BMW-6Series"><span style="color: #994d9d;">[more]</span></a>
 					                    	 </p>
 					                         </div>
 					                         </li>                        <li class="panel" style="width: auto;list-style: none;">       
 					                    	<div id="expert_10" style="width: auto;">  
 					                    	
-					                    	<img src="http://www.carnation.in/car-images/iCarnationImage/CarImage/WhiteBackground/Small/bmw_7_series.jpg" alt="BMW 7Series" title="BMW 7Series" class="car">
+					                    	  	
+					                    	<img src="http://www.carnation.in/car-images/iCarnationImage/NewCarImages/images/categories/linkOne/bmw_7_series.jpg" alt=" BMW 7Series" title=" BMW 7Series " class="car">
+					                   
+					                   
 					                    	<h3 style="height: auto; border:0px solid #000; padding-bottom:0px;">BMW 7Series</h3>
 					                            <span class="ratings">
            
@@ -1736,7 +1719,7 @@ Porsche 911. Powered by a 4.2-litre V8
  </span>               
 					                    	 <p class="content2_description" style="width: 300px;">
 										                            The 7 Series is a very handsome, well proportioned car with superb detailing that just reeks of...
-											 <a href="/control/viewcontent?contentId=10010&amp;nodeTrailCsv=10010&amp;valueexpertreview=expertreview&amp;urlMakeModel=Expert-reviews"><span style="color: #994d9d;">[more]</span></a>
+											 <a href="/control/viewcontent?contentId=10010&amp;nodeTrailCsv=10010&amp;valueexpertreview=expertreview&amp;urlMakeModel=BMW-7Series"><span style="color: #994d9d;">[more]</span></a>
 					                    	 </p>
 					                         </div>
 					                         </li></ul>
@@ -1746,7 +1729,7 @@ Porsche 911. Powered by a 4.2-litre V8
 </div>
 
 
-			</div>
+			<!-- End Template component://tcsautoapps/webapp/tcsauto/expertreview.ftl --><!-- End Screen component://tcsautoapps/widget/CommonScreens.xml#expertReviews --></div>
             <div class="clear"></div>
 
 	<script type="text/javascript">
@@ -1781,9 +1764,9 @@ else if (Type == 'C') { document.getElementById('AdFloater').style.top = window.
 	<script>
 $(document).ready(function() {
 imgPath=document.getElementById('banner').value;
-webUrl=document.getElementById('webrl').value;
-imgPath=imgPath.substring(0,imgPath.indexOf('/iCarnationImage'))+webUrl+imgPath.substring(imgPath.indexOf('/iCarnationImage'),imgPath.length);
-document.getElementById('bannertag').innerHTML=imgPath;
+//webUrl=document.getElementById('webrl').value;
+//imgPath=imgPath.substring(0,imgPath.indexOf('/iCarnationImage'))+webUrl+imgPath.substring(imgPath.indexOf('/iCarnationImage'),imgPath.length);
+//document.getElementById('bannertag').innerHTML=imgPath;
   });
 </script>	
 <script src="http://www.carnation.in:8080/carnationtheme/js/jquery.min.js" type="text/javascript"></script>
@@ -1811,26 +1794,40 @@ stepcarousel.setup({
 $("#sellcarsfancy").fancybox({'modal' : 'true'});
 </script>
 
+
+
+<br>
 <div id="wrapper_new">
   <div class="navbar_new">
-    <ul class="topnav_new">
+    <ul class="topnav_new" style="width:740px;">
       <li class="nav-1_new"><a href="/">Home</a></li>
 	   	  <li class="nav-2_new"><a href="/new-cars" id="NEW_CARS">New Cars</a>
 	    </li>
 	     <li class="nav-2_new"><a id="USED" href="/used-cars" class="nav-2_new">Used Cars</a>
 	  </li>
+     
+      
       <li class="nav-4_new">
-      <a id="sellcarsfancyMenu" href="/used-cars/sell-list-your-car.html">Sell Car</a></li>
+      <a id="sellcarsfancyMenu" href="/used-cars/sell-list-your-car.html">Sell Car</a>
+      </li>
+      
+      
        <li class="nav-5_new">
           <a id="SERVICE" onmouseout="out();" onmouseover="out();" href="/car-service/book-a-service" class="nav-2_new">Car Service</a>
        
      </li>
 
      <li class="nav-7_new"> 
-     <a href="http://care.carnation.in">Car Breakdown Assistance</a>
+     <a href="http://care.carnation.in">24x7 Care</a>
      </li>
      
-    </ul>
+     <li class="nav-7_new">
+     <a href="/offers">Offers</a>
+     </li>
+<li class="nav-7_new">    
+     <a href="/be_our_partner">Partner With Us</a>
+     </li><li>
+    </li></ul>
   <div id="UserDivFooter">
   
   </div>
@@ -1897,64 +1894,53 @@ $("#sellcarsfancy").fancybox({'modal' : 'true'});
       --></div>
     
     <div>
-			<h4>New Cars </h4>
-	      	<h5><a href="/new-cars/price-0-12500000/Delhi/Maruti.html">Maruti Cars</a></h5>
-	      	<h5><a href="/new-cars/price-0-15000000/Delhi/Hyundai.html">Hyundai Cars</a></h5>
-	      	<h5><a href="/new-cars/price-0-30000000/Delhi/Tata.html">Tata Cars</a></h5>
-	      	<h5><a href="/new-cars/price-0-25000000/Delhi/Mahindra.html">Mahindra Cars</a></h5>
-	      	<h5><a href="/new-cars/price-0-25000000/Delhi/Ford.html">Ford Cars</a></h5>
-	      	<h5><a href="/new-cars/price-0-50000000/Delhi/Honda.html">Honda Cars</a></h5>
-	      	<h5><a href="/new-cars/price-0-50000000/Delhi/Chevrolet.html">Chevrolet Cars</a></h5>
-	      	<h5><a href="/new-cars/price-0-45000000/Delhi/Audi.html">Audi Cars</a></h5>
-	      	<h5><a href="/new-cars/price-0-45000000/Delhi/BMW.html">BMW cars</a></h5>
-	      	<h5><a href="/new-cars/price-0-40000000/Delhi/Mercedes-Benz.html">Mercedes-Benz Cars</a></h5>     
-		    
+      <h4>New Cars </h4>
+      
+			<h5><a href="/new-cars/Maruti-10018.html">Maruti Cars</a></h5>
+			<h5><a href="/new-cars/Hyundai-10011.html">Hyundai Cars</a></h5>
+			<h5><a href="/new-cars/Tata-10028.html">Tata Cars</a></h5>
+			<h5><a href="/new-cars/Mahindra-10017.html">Mahindra Cars</a></h5>
+			<h5><a href="/new-cars/Ford-10008.html">Ford Cars</a></h5>
+			<h5><a href="/new-cars/Honda-10010.html">Honda Cars</a></h5>
+			<h5><a href="/new-cars/Chevrolet-10006.html">Chevrolet Cars</a></h5>
+			<h5><a href="/new-cars/Audi-10003.html">Audi Cars</a></h5>
+			<h5><a href="/new-cars/BMW-10005.html">BMW Cars</a></h5>
+			<h5><a href="/new-cars/Mercedes-Benz-10019.html">Mercedes-Benz Cars</a></h5>
     </div>
 	    
 	<div>		
-	      <h4>Popular  Cars </h4>
-	                 		<li> 
-	                     <h5> <a href="/new-cars/Delhi-518-Ford/Ford-Fiesta-Classic-CLXi-16.html?path=ProductNew" alt="Ford Fiesta Classic CLXi 1.6">Ford Fiesta Classic CLXi 1.6</a></h5>
-	                       </li>
-	                    
-	                 		<li> 
-	                     <h5> <a href="/new-cars/Delhi-814-Mahindra/Mahindra-XUV500-W6.html?path=ProductNew" alt="Mahindra XUV500 W6">Mahindra XUV500 W6</a></h5>
-	                       </li>
-	                    
-	                 		<li> 
-	                     <h5> <a href="/new-cars/Delhi-56-Chevrolet/Chevrolet-Beat-12-LS.html?path=ProductNew" alt="Chevrolet Beat 1.2 LS">Chevrolet Beat 1.2 LS</a></h5>
-	                       </li>
-	                    
-	                 		<li> 
-	                     <h5> <a href="/new-cars/Delhi-115-Ford/Ford-Figo-12-LXI-Duratec.html?path=ProductNew" alt="Ford Figo 1.2 LXI Duratec">Ford Figo 1.2 LXI Duratec</a></h5>
-	                       </li>
-	                    
-	                 		<li> 
-	                     <h5> <a href="/new-cars/Delhi-644-Tata/Tata-Indigo-eCS-LX-TDI.html?path=ProductNew" alt="Tata Indigo eCS LX TDI">Tata Indigo eCS LX TDI</a></h5>
-	                       </li>
-	                    
-	                 		<li> 
-	                     <h5> <a href="/new-cars/Delhi-261-Maruti/Maruti-Swift-VXi.html?path=ProductNew" alt="Maruti Swift VXi">Maruti Swift VXi</a></h5>
-	                       </li>
-	                    
-	                 		<li> 
-	                     <h5> <a href="/new-cars/Delhi-493-Volkswagen/Volkswagen-Polo-16-Highline-Petrol.html?path=ProductNew" alt="Volkswagen Polo 1.6 Highline (Petrol)">Volkswagen Polo 1.6 Highline (Petrol)</a></h5>
-	                       </li>
-	                    
-	                 		<li> 
-	                     <h5> <a href="/new-cars/Delhi-581-Mahindra/Mahindra-Bolero-Plus-AC.html?path=ProductNew" alt="Mahindra Bolero Plus AC">Mahindra Bolero Plus AC</a></h5>
-	                       </li>
-	                    
-	                 		<li> 
-	                     <h5> <a href="/new-cars/Delhi-122-Ford/Ford-Figo-14-Titanium-Durator.html?path=ProductNew" alt="Ford Figo 1.4 Titanium Durator">Ford Figo 1.4 Titanium Durator</a></h5>
-	                       </li>
-	                    
-	                 		<li> 
-	                     <h5> <a href="/new-cars/Delhi-711-Mahindra/Mahindra-Thar-CRDe-4x4-BS-IV.html?path=ProductNew" alt="Mahindra Thar CRDe 4x4 BS-IV">Mahindra Thar CRDe 4x4 BS-IV</a></h5>
-	                       </li>
-	                    
-	       
-	             
+	      <h4>Popular  Cars</h4>
+                         <li> 
+                      <h5><a href="/new-cars/Delhi-518-Ford/Ford-Fiesta-Classic-CLXi-16.html?path=ProductNew" alt="Ford Fiesta Classic CLXi 1.6">Ford Fiesta Classic CLXi 1.6</a></h5>
+                        </li>
+                         <li> 
+                      <h5><a href="/new-cars/Delhi-814-Mahindra/Mahindra-XUV500-W6.html?path=ProductNew" alt="Mahindra XUV500 W6">Mahindra XUV500 W6</a></h5>
+                        </li>
+                         <li> 
+                      <h5><a href="/new-cars/Delhi-56-Chevrolet/Chevrolet-Beat-12-LS.html?path=ProductNew" alt="Chevrolet Beat 1.2 LS">Chevrolet Beat 1.2 LS</a></h5>
+                        </li>
+                         <li> 
+                      <h5><a href="/new-cars/Delhi-644-Tata/Tata-Indigo-eCS-LX-TDI.html?path=ProductNew" alt="Tata Indigo eCS LX TDI">Tata Indigo eCS LX TDI</a></h5>
+                        </li>
+                         <li> 
+                      <h5><a href="/new-cars/Delhi-115-Ford/Ford-Figo-12-LXI-Duratec.html?path=ProductNew" alt="Ford Figo 1.2 LXI Duratec">Ford Figo 1.2 LXI Duratec</a></h5>
+                        </li>
+                         <li> 
+                      <h5><a href="/new-cars/Delhi-261-Maruti/Maruti-Swift-VXi.html?path=ProductNew" alt="Maruti Swift VXi">Maruti Swift VXi</a></h5>
+                        </li>
+                         <li> 
+                      <h5><a href="/new-cars/Delhi-581-Mahindra/Mahindra-Bolero-Plus-AC.html?path=ProductNew" alt="Mahindra Bolero Plus AC">Mahindra Bolero Plus AC</a></h5>
+                        </li>
+                         <li> 
+                      <h5><a href="/new-cars/Delhi-493-Volkswagen/Volkswagen-Polo-16-Highline-Petrol.html?path=ProductNew" alt="Volkswagen Polo 1.6 Highline (Petrol)">Volkswagen Polo 1.6 Highline Petrol</a></h5>
+                        </li>
+                         <li> 
+                      <h5><a href="/new-cars/Delhi-711-Mahindra/Mahindra-Thar-CRDe-4x4-BS-IV.html?path=ProductNew" alt="Mahindra Thar CRDe 4x4 BS-IV">Mahindra Thar CRDe 4x4 BS-IV</a></h5>
+                        </li>
+                         <li> 
+                      <h5><a href="/new-cars/Delhi-122-Ford/Ford-Figo-14-Titanium-Durator.html?path=ProductNew" alt="Ford Figo 1.4 Titanium Durator">Ford Figo 1.4 Titanium Durator</a></h5>
+                        </li>
+	           
            <br>
 	      <br>
 	      <br>	 	     
@@ -1997,12 +1983,12 @@ $("#sellcarsfancy").fancybox({'modal' : 'true'});
 	  comment by 499159 ends here--></div>
     
     <div>
- <h4>Carnation</h4>
+<h4>Carnation</h4>
 	      <h5><a href="http://www.carnationcorp.com" target="_blank">Corporate Site</a></h5>
 	     
 	          <h5><a href="/about-us.html">About Us</a></h5>	
 	      <h5><a href="/cars-insurance/testimonials.html">Testimonial</a></h5>
-	      <h5><a href="/control/BookAService" target="_blank">Book a Service</a></h5>
+	      <h5><a href="/car-service/book-a-service" target="_blank">Book a Service</a></h5>
 	      <h5>
 	
 	          <a id="SERVICE" onmouseout="out();" onmouseover="out();" href="/service" class="nav-2_new">Home Car Service<br>Workshop</a>
@@ -2010,7 +1996,6 @@ $("#sellcarsfancy").fancybox({'modal' : 'true'});
 	      </h5>
 	      <h5><a href="http://www.carnationcorp.com/partners/franchise/" target="_blank">Franchisee</a></h5>
 	      <h5><a href="/online-car-showroom/car-dealers-in-india.html">Dealer Login</a></h5>
-
     </div>
     
     <div>
@@ -2103,4 +2088,5 @@ function logoutOptionClose() {
 	document.getElementById("logout").style.display="none";	
 }
 </script>
+
 </div></body></html>
