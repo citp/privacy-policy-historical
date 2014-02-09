@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the motherearthliving.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022103218id_/http%3A//www.motherearthliving.com/help/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherearthliving.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209064115id_/http%3A//www.motherearthliving.com/help/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Ogden Publications, Inc. Privacy Policy
+**Ogden Publications, Inc. Privacy Policy**
 
-Ogden Publications, Inc. (collectively referred to in this Privacy Statement as "we," "us," or "Ogden Publications, Inc.") recognize the importance of protecting the privacy of all information provided by users of our websites, subscribers to our magazines, registrants for our events, recipients of our e-mail newsletters and all of our customers. We created this policy with a fundamental respect for our users’ right to privacy and to guide our relationships with our users. This privacy statement discloses the privacy practices for all products and services owned by Ogden Publications, Inc. A current list of our publications, websites, and products can be found at <http://www.ogdenpubs.com/>.
+Ogden Publications, Inc. (collectively referred to in this Privacy Statement as "we," "us," or "Ogden Publications, Inc.") recognize the importance of protecting the privacy of all information provided by users of our websites, subscribers to our magazines, registrants for our events, recipients of our e-mail newsletters and all of our customers. We created this policy with a fundamental respect for our users’ right to privacy and to guide our relationships with our users. This privacy statement discloses the privacy practices for all products and services owned by Ogden Publications, Inc. A current list of our publications, websites, and products can be found at <http://www.ogdenpubs.com/>.
 
 **INFORMATION COLLECTION AND USE**  
 
@@ -18,13 +18,15 @@ Many of our products and services are free to subscribers who meet certain demog
 
 For our services that require payment (such as certain events, products and subscriptions), we also collect credit card information (such as account name, number, expiration date, and verification code), which is used for billing purposes only, and is not otherwise shared.
 
+If you choose to Login using your existing social media account, your social media provider may provide us with access to any Personally Identifiable Information on file with that social media provider and associated with your account in accordance with the provider’s terms and conditions. We may use any Personally Identifiable Information collected through these social media accounts in the same manner we use any Personally Identifiable Information that you provide directly to us. Upon registering with your existing social media account, if you elect to share information you provide to us with the social media provider, we will share information with it in accordance with your election. The terms and conditions of the social media provider will apply to the information we disclose to it.
+
 **E-mail Newsletters**  
 
-If users wish to subscribe to our e-mail newsletters, we ask for contact information (such as name, e-mail address and, occasionally, demographic information). We use this information in the same manner as we use contact information in the registration and ordering process described above. Recipients of our newsletters can unsubscribe using the instructions listed at the end of the e-mail newsletter.
+If users wish to subscribe to our e-mail newsletters, we ask for contact information (such as name, e-mail address and demographic information). We use this information in the same manner as we use contact information in the registration and ordering process described above. Recipients of our newsletters can unsubscribe using the instructions listed at the end of the e-mail newsletter.
 
-**Surveys and Contests**  
+**Sweepstakes, Surveys, and Other Promotions**
 
-From time to time we invite users to provide information via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether to disclose requested contact information (such as name and mailing address) and demographic information (such as Zip code or hobby). In addition to other uses set forth in this policy, contact information collected in connection with surveys and contests is used to notify the winners and award prizes, and to monitor or improve the use and satisfaction of the site.
+From time to time we invite users to provide information in connection with sweepstakes, surveys, and similar promotions. Participation in these sweepstakes, surveys, and similar promotions is completely voluntary and the user therefore has a choice whether to disclose requested contact information (such as name and mailing address) and demographic information (such as Zip code or hobby). In addition to other uses set forth in this policy, contact information collected in connection with sweepstakes, surveys, and other promotions are used to notify the winners and award prizes, and to monitor or improve the use and satisfaction of the site.
 
 **Interactive Features**  
 
@@ -60,11 +62,11 @@ We use third-party advertising companies to serve ads when you visit our website
 
 If you prefer not to receive traditional mail or other off-line promotions from this or any other Ogden Publications property or any companies not owned by Ogden Publications please call 800-678-5779.
 
-If you prefer not to receive e-mail marketing from this or any other Ogden Publications property or any companies not owned by Ogden Publications, please email use at [cs@ogdenpubs.com](mailto:cs@ogdenpubs.com).
+If you prefer not to receive e-mail marketing from this or any other Ogden Publications property or any companies not owned by Ogden Publications, please email us at [cs@ogdenpubs.com](mailto:cs@ogdenpubs.com).
 
 Ogden Publications' sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
-#### **WITH WHOM YOUR INFORMATION IS SHARED**
+**WITH WHOM YOUR INFORMATION IS SHARED**
 
 When we have co-branded, customized, private label, powered by or sponsored products and services, or when we join with other parties to provide specific services, we may share (provide and receive) personal information with them. We do not share credit card information with such third parties.
 
@@ -76,11 +78,27 @@ We may share aggregate information, which is not personally identifiable, with o
 
 **CORRECTING/UPDATING PERSONAL INFORMATION**  
 
-If a user's personally identifiable information changes (such as Zip code), or if a user no longer desires our product(s)/service(s), we provide a way to correct or update that user's personal data. The user should contact Ogden’s [Customer Care Department](https://web.archive.org/help/contact-by-email.aspx "Customer Care Department") for the applicable product or service.
+If a user's personally identifiable information changes (such as Zip code), or if a user no longer desires our product(s)/service(s), we provide a way to correct or update that user's personal data. The user should contact Ogden’s [Customer Care Department](http://www.motherearthliving.com/help/contact-by-email.aspx "Customer Care Department") for the applicable product or service.
 
 **PERMISSION**  
 
-Our users are given the opportunity to choose whether to receive information not directly related to the registered services from our affiliates and us. Users also have the opportunity to choose whether to have personal information shared with third parties for marketing purposes. Instructions for how to exercise this choice are contained in e-mails sent by us, on our websites and in each of our publications. Please note that we will endeavor to implement requests within a reasonable time, although for a time users may continue to receive mailings, etc., transmitted based on information released prior to the implementation of the request. Users will continue to receive information directly related to their registered services, so they always are kept informed.
+Our users are given the opportunity to choose whether to receive information not directly related to the registered services from our affiliates and us. Users also have the opportunity to choose whether to have personal information shared with third parties for marketing purposes. Instructions for how to exercise this choice are listed below under “What are my “opt-out” choices?”. Please note that we will endeavor to implement requests within a reasonable time, although for a time users may continue to receive mailings, etc., transmitted based on information released prior to the implementation of the request. Users will continue to receive information directly related to their registered services, so they always are kept informed.
+
+**What are my "opt-out" choices?**
+
+You may choose not to receive promotional emails or electronic newsletters from us by: (A) following the "unsubscribe" instructions in the specific email from which you wish to opt-out; or (B) [contacting us](http://www.motherearthliving.com/help/contact-by-email.aspx), specifying the particular email list(s) from which you wish to be removed.
+
+In addition, under “California’s Shine the Light” law, California residents may opt out of allowing us to: (A) share Personally Identifiable Information with Ogden Publications affiliates for their direct marketing purposes; and (B) share Personally Identifiable Information with third party companies for their marketing purposes. You may indicate your preferences to opt out of any combination of the choices above by [contacting us](http://www.motherearthliving.com/help/contact-by-email.aspx). Please specify in your email from which choice you are opting out:
+
+  1. Receiving promotional emails and electronic newsletters from Ogden Publications;
+  2. Allowing Ogden Publications to share Personally Identifiable Information about you with Ogden Publications affiliates for their marketing purposes; and/or
+  3. Allowing Ogden Publications to share Personally Identifiable Information about you with third-party companies for their marketing purposes.
+
+
+
+We will respond to a request made pursuant to these methods as promptly as practicable. Even if you elect to stop receiving promotional emails from us, we may still contact you to tell you important information about our Online Services or us.
+
+Please note, however, that even if you "opt out" as described above, we will not be able to remove Personally Identifiable Information about you from the databases of affiliates or third parties with which we have already shared your Personally Identifiable Information. If you wish to stop receiving marketing messages from such affiliates or third parties, please contact them directly or utilize the opt-out mechanisms set forth in their respective privacy policies or marketing messages.
 
 **SECURITY**  
 
@@ -94,7 +112,7 @@ Ogden Publications, Inc. does not sell products for purchase by children. If you
 
 Under the Fair Credit Billing Act, a credit card issuer cannot make you liable for charges in excess of $50.00 that result from the unauthorized use of your credit card. There are similar federal laws that relate to debit cards. Exceptions do apply, and you will have to comply with rules of your credit card or debit card issuer, so please contact your card issuer for further details.
 
-If through no fault of your own, a credit card or debit card issuer assesses you a fee because of the unauthorized use of your credit card or debit card on our site, Ogden Publications, Inc. will reimburse you for such amount up to $50.00. Please contact our [Customer Care Department](https://web.archive.org/help/contact-by-email.aspx "Customer Care Department") for details.
+If through no fault of your own, a credit card or debit card issuer assesses you a fee because of the unauthorized use of your credit card or debit card on our site, Ogden Publications, Inc. will reimburse you for such amount up to $50.00. Please contact our [Customer Care Department](http://www.motherearthliving.com/help/contact-by-email.aspx "Customer Care Department") for details.
 
 **LINKS**  
 
