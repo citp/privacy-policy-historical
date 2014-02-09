@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freescale.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226035305id_/http%3A//www.freescale.com/files/abstract/help_page/PRIVACYPRACTICES.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freescale.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209064601id_/http%3A//www.freescale.com/files/abstract/help_page/PRIVACYPRACTICES.html) for the most accurate reproduction.*
 
 # Privacy Practices - Freescale Semiconductor
 
@@ -8,9 +8,9 @@ Freescale recognizes privacy and security as being a concern for most individual
 
 By using our Web site, you consent to the collection and use of your information by Freescale as set forth in the policy currently in effect. If we decide to change our policy, such changes will be posted here on the Web site, so please check back periodically to ensure you have the most current policy.
 
-**The Freescale Semiconductor Web Site Terms of Use are available at the footer and[here](https://web.archive.org/files/abstract/help_page/TERMSOFUSE.html).**
+**The Freescale Semiconductor Web Site Terms of Use are available at the footer and[here](https://web.archive.org/web/20140209064601id_/http%3A//www.freescale.com/files/abstract/help_page/AUTOLINK%7BTERMSOFUSE:C%7D).**
 
-You may find additional information about your personalized Freescale Web experience at [My Personalized Freescale.com](https://web.archive.org/files/abstract/help_page/PRIVACYPRACTICES.html)
+You may find additional information about your personalized Freescale Web experience at [My Personalized Freescale.com](https://web.archive.org/web/20140209064601id_/http%3A//www.freescale.com/files/abstract/help_page/AUTOLINK%7BPRIVACYPRACTICES:C%7D)
 
 ## What personally identifiable information does Freescale collect?
 
@@ -26,20 +26,7 @@ Return to Top
 
 ## Freescale's use of cookies
 
-When you visit our site, our server attaches a small text file to your hard drive - a cookie. Your unique cookie tells us that it's you whenever you re-enter our site, so we can recall where you've previously been on our site, and what, if anything, you have in your shopping cart. Cookies help us deliver a better Web site experience to our users.
-
-Generally, we use cookies to:
-
-  1. Remind us of who you are and to access your account information (stored on our computers) in order to deliver to you a better and more personalized experience.
-  2. Determine the effectiveness of our e-commerce relationships. Freescale's e-commerce partners and affiliate programs use cookies to identify the sites from which a user enters our site. Users linking to the site from one of our e-commerce partner or affiliate sites are given a unique cookie. This cookie identifies from which site the user linked to Freescale. This information is used to determine the effectiveness of our relationships and to administrate our affiliate programs. This information may also be used to help target advertisements based on users' interests and behavior.
-  3. Assist Freescale in tracking what items are in your shopping cart.
-  4. Track your progress and number of entries in some of our promotions, sweepstakes and contests.
-  5. Measure traffic patterns, and which areas of the Freescale site you have visited as well as your visiting patterns. This information collected via cookie is sometimes called "clickstream." We use this information to understand how our users navigate our site and to determine common traffic patterns, including where our users originate. We also use this information to make site navigation and product recommendations, and to help redesign our site in order to make your experience on our site more efficient and enjoyable. We may use this information to better personalize the content, banner ads and promotions that you and other users will see. This helps Freescale deliver the content you want in order for you to make better purchasing decisions.   
-For some activities, Freescale and/or our third party affiliates track user clickstreams. For more information about these third parties or to opt out of the clickstream program, please see http://www.coremetrics.com/company/privacy.html#optout or http://www.google.com/privacy_ads.html.
-
-
-
-To improve the Web site usability, Freescale also tracks user behavior. To opt out of Freescale tracking program, please use the "Change My History" settings (you will need to first login to access your account settings).
+[View Freescale's cookie policy here.](https://web.archive.org/files/abstract/help_page/COOKIE_POLICY.html)
 
 Return to Top
 
