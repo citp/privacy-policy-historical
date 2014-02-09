@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wallpaper-s.org privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207072307id_/http%3A//wallpaper-s.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaper-s.org privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209012630id_/http%3A//wallpaper-s.org/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy for WALLPAPER-S.ORG
+# Privacy Policy for WALLPAPER.DIQ.RU
 
 Your privacy on the Internet is of the utmost importance to us. This document outlines the types of information we receive and collect when you use our services and what we do with them.
 
@@ -8,7 +8,7 @@ Your privacy on the Internet is of the utmost importance to us. This document ou
 
 * * *
 
-During your visit, we does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, [WALLPAPER-S.ORG](http://wallpaper-s.org/) obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your IP address and browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information is used for the purpose of generating reports for our own personal use to enhance future visits to our website.
+During your visit, we does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, [WALLPAPER.DIQ.RU](http://wallpaper.diq.ru/) obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your IP address and browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information is used for the purpose of generating reports for our own personal use to enhance future visits to our website.
 
 **Wallpaper Images / Copyright**
 
@@ -20,7 +20,7 @@ Please do not ask for permissions to use these images in your projects, as we do
 
 * * *
 
-The site contains links to other websites. Please be aware that [WALLPAPER-S.ORG](http://wallpaper-s.org/) is not responsible for the privacy practices or the content of such other sites. We encourage you to be aware when you leave the site or otherwise link to other sites, to read the privacy policies of each and every website that collects personally identifiable information. Present Privacy Policy applies solely to information collected by the site.
+The site contains links to other websites. Please be aware that [WALLPAPER.DIQ.RU](http://wallpaper.diq.ru/) is not responsible for the privacy practices or the content of such other sites. We encourage you to be aware when you leave the site or otherwise link to other sites, to read the privacy policies of each and every website that collects personally identifiable information. Present Privacy Policy applies solely to information collected by the site.
 
 **Third Party Cookies**
 
@@ -44,14 +44,14 @@ We use outside ad companies to display ads on our site. These ads may contain co
 
 * * *
 
-[WALLPAPER-S.ORG](http://wallpaper-s.org/) is an online service provider as defined in the Digital Millennium Copyright Act. We provide legal copyright owners with the ability to self-publish on the internet by uploading, storing and displaying various media utilizing our services. We do not monitor, screen or otherwise review the media which is uploaded to our servers by users of the service. We take copyright violation very seriously and will vigorously protect the rights of legal copyright owners. If you are the copyright owner of content which appears on the [WALLPAPER-S.ORG](http://wallpaper-s.org/) website and you did not authorize the use of the content you must notify [WALLPAPER-S.ORG](http://wallpaper-s.org/) in writing in order for us to identify the allegedly infringing content and take action.
+[WALLPAPER.DIQ.RU](http://wallpaper.diq.ru/) is an online service provider as defined in the Digital Millennium Copyright Act. We provide legal copyright owners with the ability to self-publish on the internet by uploading, storing and displaying various media utilizing our services. We do not monitor, screen or otherwise review the media which is uploaded to our servers by users of the service. We take copyright violation very seriously and will vigorously protect the rights of legal copyright owners. If you are the copyright owner of content which appears on the [WALLPAPER.DIQ.RU](http://wallpaper.diq.ru/) website and you did not authorize the use of the content you must notify [WALLPAPER.DIQ.RU](http://wallpaper.diq.ru/) in writing in order for us to identify the allegedly infringing content and take action.
 
 Your written notice must include the following:
 
   * A physical or electronic signature of the copyright owner or person authorized to act on behalf of the owner which expressly claims an exclusive right that is allegedly being infringed.
   * Specific identification of the copyrighted work which you are alleging to have been infringed. If you are alleging infringement of multiple copyrighted works with a single notification you must submit a representative list which specifically identifies each of the works that you allege are being infringed.
-  * Specific identification of the location and description of the material that is claimed to be infringing or to be the subject of infringing activity with enough detailed information to permit [WALLPAPER-S.ORG](http://wallpaper-s.org/) to locate the material. You should include the specific URL or URLs of the webpages where the allegedly infringing material is located.
-  * Information reasonably sufficient to allow [WALLPAPER-S.ORG](http://wallpaper-s.org/) to contact the complaining party which may include a name, address, telephone number and electronic mail address at which the complaining party may be contacted.
+  * Specific identification of the location and description of the material that is claimed to be infringing or to be the subject of infringing activity with enough detailed information to permit [WALLPAPER.DIQ.RU](http://wallpaper.diq.ru/) to locate the material. You should include the specific URL or URLs of the webpages where the allegedly infringing material is located.
+  * Information reasonably sufficient to allow [WALLPAPER.DIQ.RU](http://wallpaper.diq.ru/) to contact the complaining party which may include a name, address, telephone number and electronic mail address at which the complaining party may be contacted.
   * A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent or the law.
   * A statement that the information in the notification is accurate, and under penalty of perjury that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
@@ -64,7 +64,7 @@ Email: diq@list.ru
 
 Please also note that under applicable law, 17 U.S.C. 512(f), any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability.
 
-Under appropriate circumstances, [WALLPAPER-S.ORG](http://wallpaper-s.org/) may, in its discretion, terminate authorization of users of its system or network who are repeat infringers.
+Under appropriate circumstances, [WALLPAPER.DIQ.RU](http://wallpaper.diq.ru/) may, in its discretion, terminate authorization of users of its system or network who are repeat infringers.
 
 **Changes in this Privacy Policy**
 
