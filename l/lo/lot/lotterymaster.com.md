@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lotterymaster.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522150555id_/https%3A//www.lotterymaster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotterymaster.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209035726id_/https%3A//www.lotterymaster.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lottery Master
 
@@ -25,7 +25,7 @@ You may update your Personal Information by logging into your account and update
 
 **Use of Information**
 
-We use the Personal Information and other information we (or others on our behalf) collect from or about you to deliver the Services, to provide customer support, to undertake necessary security and identify verification checks, to process any of your online transactions, meet certain business requirements and for any other purpose related, directly or indirectly, to the operation of the Services. We may disclose your Personal Information (and any other information) to any third parties that provide services to us in order to allow, enable or improve the provision of the Services to you.
+We use the Personal Information and other information we (or others on our behalf) collect from or about you to deliver the Services, to provide customer support, to undertake necessary security and identity verification checks, to process any of your online transactions, meet certain business requirements and for any other purpose related, directly or indirectly, to the operation of the Services. We may disclose your Personal Information (and any other information) to any third parties that provide services to us in order to allow, enable or improve the provision of the Services to you.
 
 Your Personal Information may also be used by us to provide you with promotional offers and information regarding our the Services as well as products and services from third parties carefully selected by us, and in order for us to improve our offering of a range of products and services and improved customer service.
 
