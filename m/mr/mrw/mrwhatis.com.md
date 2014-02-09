@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrwhatis.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807170326id_/http%3A//mrwhatis.net/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrwhatis.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209035339id_/http%3A//mrwhatis.net/privacy.shtml) for the most accurate reproduction.*
 
 # Mr What - Privacy Policy
 
