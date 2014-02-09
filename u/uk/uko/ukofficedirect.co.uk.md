@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukofficedirect.co.uk privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817003809id_/http%3A//www.ukofficedirect.co.uk/helpsection.aspx%3Fsection%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukofficedirect.co.uk privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209142521id_/http%3A//www.ukofficedirect.co.uk/helpsection.aspx%3Fsection%3D6) for the most accurate reproduction.*
 
 # Privacy and Cookies
 
