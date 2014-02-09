@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chasing-fireflies.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006121808id_/http%3A//www.chasing-fireflies.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chasing-fireflies.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209160220id_/http%3A//www.chasing-fireflies.com/privacy.asp) for the most accurate reproduction.*
 
 # Chasing Fireflies Privacy Policy
 
@@ -7,7 +7,7 @@
 Chasing Fireflies® respects your privacy. As a member of the Direct Marketing Association (DMA), Chasing Fireflies® follows the DMA privacy guidelines. The DMA's Mail Preference Service reduces the availability of your name and address to many other direct marketing companies. To learn more, click on [www.dmachoice.org](http://www.dmachoice.org/).
 
 **consumer privacy at** **Chasing Fireflies®, an HSNi company**  
-Chasing Fireflies® is part of the HSN, Inc. ("HSNi") family of businesses. HSNi is a retailing powerhouse that spans the full retail spectrum including television (HSN), ecommerce (hsn.com and catalogue websites), catalogues (Cornerstone Brands), and brick & mortar retail (Frontgate, Ballard Designs, The Territory Ahead). For a complete list of all of HSNi's businesses, please visit [www.hsni.com](https://web.archive.org/web/20131006121808id_/http%3A//www.chasing-fireflies.com/www.hnsi.com).
+Chasing Fireflies® is part of the HSN, Inc. ("HSNi") family of businesses. HSNi is a retailing powerhouse that spans the full retail spectrum including television (HSN), ecommerce (hsn.com and catalogue websites), catalogues (Cornerstone Brands), and brick & mortar retail (Frontgate, Ballard Designs, The Territory Ahead). For a complete list of all of HSNi's businesses, please visit [www.hsni.com](https://web.archive.org/web/20140209160220id_/http%3A//www.chasing-fireflies.com/www.hnsi.com).
 
 At HSNi, we respect the privacy of our customers and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all HSNi websites. To read the entire Privacy Policy of Chasing Fireflies®, please click [here](http://www.chasing-fireflies.com/text/privacypolicyfull.asp).
 
