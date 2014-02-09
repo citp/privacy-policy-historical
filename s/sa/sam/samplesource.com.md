@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the samplesource.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807084212id_/https%3A//www.samplesource.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samplesource.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209211249id_/https%3A//www.samplesource.com/privacy.php) for the most accurate reproduction.*
 
 # SampleSource.com - Free Samples - home, health, beauty, makeup, food, and more!
 
-Effective date: January 1, 2013
+Effective date: January 1, 2014
 
 This Privacy Notice has been prepared by SampleSource Incorporated for Canadian visitors and SampleSource USA Incorporated for US visitors (collectively, "SampleSource", "we", "us" or "our"), and it sets out the manner in which SampleSource collects, uses, discloses and otherwise manages personal information.  This Privacy Notice applies to the privacy practices on our websites located at [www.samplesource.com](http://www.samplesource.com/?site=us) and [www.samplesource.ca](http://www.samplesource.ca/) (the "Website").
 
@@ -111,5 +111,5 @@ Please contact us if:
 By email to [privacy.info@samplesource.com](mailto:privacy.info@samplesource.com) or
 
   
-By mail to SampleSource, 1920 Clements Road, Pickering, Ontario, Canada, L1W 3V6.  
+By mail to SampleSource, 34 Eglinton Avenue West, Unit 170, Toronto, Ontario, Canada, M4R2H6.  
 
