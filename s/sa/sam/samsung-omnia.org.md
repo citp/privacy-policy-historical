@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samsung-omnia.org privacy policy that was archived on 2013-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130318010837id_/http%3A//www.verticalscope.com/aboutus/privacypolicy.php%3Fsite%3Dsamsung-omnia.org) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsung-omnia.org privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209122315id_/http%3A//www.verticalscope.com/aboutus/privacypolicy.php%3Fsite%3Dsamsung-omnia.org) for the most accurate reproduction.*
 
 # VerticalScope - Driven by Enthusiasts
 
