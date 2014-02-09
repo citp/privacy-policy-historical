@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the t-shirts.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806192656id_/http%3A//www.t-shirts.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t-shirts.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209174754id_/http%3A//www.t-shirts.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](http://www.t-shirts.com/blog/ "Read the Blog")
-
-Shop with ConfidenceWe are McAfee Secure  
-and certified by the BBB.[](https://www.mcafeesecure.com/RatingVerify?ref=www.t-shirts.com)
 
 [](http://privacy.truste.com/privacy-seal/HalloweenCostumes-com/validation?rid=405fc52f-0986-42cd-88c6-ac0fe2f9cdcf "TRUSTe online privacy certification")
 
@@ -94,6 +89,14 @@ Our Web pages contain electronic images known as Web beacons (sometimes called s
  _Links to Other Web Sites_
 
 Our Site includes links to other Web sites whose privacy practices may differ from those of T-Shirts.com. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+
+ _Analytics_
+
+Protecting Your Online PrivacyOur priority is to keep your online data safe. As part of our promise to you, we wanted to let you know that this website uses Google Analytics, Google Display Advertising, and Google Analytics Demographics and Interest Reporting to help us understand how visitors use our site. The tools mentioned above use "cookies," which are essentially text files placed on your computer to gather standard Internet log information and user behavior information in an anonymous form. The information created by the cookie about your use of the website (including IP address) is transmitted to Google and is then used to evaluate visitors' use of the website and to compile statistical reports on website activity for our site specifically. 
+
+We will never (nor will we allow any third party to) use the statistical analytics tool to track or to collect any Personally Identifiable Information (PII) of visitors to our website. Google will not associate your IP address with any other data held by Google, nor will Google link, or seek to link, an IP address with the identity of a computer user. We will not associate any data gathered from this site with any Personally Identifiable Information from any source, unless you explicitly submit that information via a fill-in form on our website.
+
+If you would like to opt out of being tracked using Google Analytics on any website, then simply head over to [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) and install the add-on in your browsers. 
 
  **Data Retention**
 
