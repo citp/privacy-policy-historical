@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todaysdietitian.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022002052id_/http%3A//www.gvpub.com/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todaysdietitian.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209134730id_/http%3A//www.gvpub.com/privacystatement.html) for the most accurate reproduction.*
 
 # Great Valley Publishing Company, Inc.
 
