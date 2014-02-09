@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the joomla-monster.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823104520id_/http%3A//www.joomla-monster.com/uncategorised/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomla-monster.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209071030id_/http%3A//www.joomla-monster.com/uncategorised/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ● Joomla-Monster ● Joomla Templates Shop
 
 ##  [ Privacy Policy](http://www.joomla-monster.com/uncategorised/privacy-policy)
-
-Details
 
 **What information do we collect?**
 
