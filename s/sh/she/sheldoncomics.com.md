@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheldoncomics.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208112640id_/http%3A//www.sheldoncomics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheldoncomics.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209045447id_/http%3A//www.sheldoncomics.com/privacy.html) for the most accurate reproduction.*
 
 # Sheldon® Comic Strip: Daily webcomic by Dave Kellett
 
