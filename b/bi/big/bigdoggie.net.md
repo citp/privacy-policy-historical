@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bigdoggie.net privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617183358id_/http%3A//www.bigdoggie.net/support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigdoggie.net privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209184453id_/http%3A//www.bigdoggie.net/support/privacy.html) for the most accurate reproduction.*
 
-# None
+# BigDoggie.net - Escort Reviews and Listings
 
-[%- SET TITLEBAR = 'support/titlebar.html' -%] [%- INCLUDE 'shell/top.html' -%] 
+|  | 
 
 ## I. General.
 
@@ -24,7 +24,7 @@
 
 ## III. Personal Information That We Collect.
 
-> A. **Personal information:** When you sign up on our site you provide us with your user name, email, zip code, and location. Once you register you can visit your [profile](https://web.archive.org/scgi-perl/escort-useredit.cgi) at any time to change personal information about yourself. 
+> A. **Personal information:** When you sign up on our site you provide us with your user name, email, zip code, and location. Once you register you can visit your [profile](https://web.archive.org/escorts/edit) at any time to change personal information about yourself. 
 > 
 > B. **Content:** One of the primary reasons people use our site is to share content with others. Examples include when you leave a review, comment someone else's review, upload a picture, talk on the forums, or post classifieds ads. 
 > 
@@ -92,6 +92,6 @@
 
 ## X. Where to Direct Questions About Our Privacy Policy
 
-> If you have any questions about this Privacy Policy or the practices described hereunder, you may contact us from our [Support Page](https://web.archive.org/support/). You may also contact us by mail at EMP Media, Inc 6130 Flamingo Rd, 732 Las Vegas, NV 89103. 
-
-[%- INCLUDE 'shell/bottom.html' NO_NEWS=1, NO_ADS=1 -%] 
+> If you have any questions about this Privacy Policy or the practices described hereunder, you may contact us from our [Support Page](https://web.archive.org/support/). You may also contact us by mail at EMP Media, Inc. P.O. Box 1901, Harrisonburg, VA 22801   
+  
+---|---
