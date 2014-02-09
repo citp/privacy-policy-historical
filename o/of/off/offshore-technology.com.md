@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offshore-technology.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014013512id_/http%3A//www.offshore-technology.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offshore-technology.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209131652id_/http%3A//www.offshore-technology.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Offshore Technology
 
@@ -7,9 +7,9 @@ At offshore-technology.com we are dedicated to safeguarding and preserving your 
 This Privacy Policy, together with our terms of use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you. 
 
 This Policy is updated from time to time so please review this Policy regularly.  
-For the purpose of the Data Protection Act 1998, the data controller is Progressive Media Group Ltd. 
+For the purpose of the Data Protection Act 1998, the data controller is Kable Group Limited 
 
-Progressive Media Group Ltd is subject to the UK Data Protection Act 1998 and is registered in the UK with the Information Commissioner to process your personal information. 
+Kable Intelligence Limited is subject to the UK Data Protection Act 1998 and is registered in the UK with the Information Commissioner to process your personal information. 
 
 ## Information We Collect 
 
@@ -44,8 +44,8 @@ Link: <http://www.google.com/policies/privacy/ads/>
 
 These cookies include:
 
-  * **ASP.NET_SessionId** and **__RequestVerificationToken_Lw__** cookies. These cookies are used to remember things during your session, so we can do things within the session like logins and personalisation of settings. When you close your browser, these cookies are deleted.
-  * **WT_FPC** This is a WebTrends tracking cookie. We use this to track users anonymously through the site.
+  * **ASP.NET_SessionId** and **__RequestVerificationToken_Lw__** cookies. These cookies are used to remember things during your session, so we can do things within the session like logins and personalisation of settings. When you close your browser, these cookies are deleted. 
+  * **WT_FPC** This is a WebTrends tracking cookie. We use this to track users anonymously through the site. 
 
 
 
@@ -55,19 +55,19 @@ We use a range of third party services on our sites, from statistics packages to
 
 ## Statistics
 
-**Google Analytics** provide anonymised statistical information for us. They process IP addresses and information from other cookies used on our sites so we know how many page views we have, how many users we have, what browsers they are using (so we can target our resources in the right way to maximise compatibility for the majority of our users) and, in some cases, in which country, city or region they are located. These cookies include: __gads, __utma, __utmb, __utmc and __utmz
+**Google Analytics** provide anonymised statistical information for us. They process IP addresses and information from other cookies used on our sites so we know how many page views we have, how many users we have, what browsers they are using (so we can target our resources in the right way to maximise compatibility for the majority of our users) and, in some cases, in which country, city or region they are located. These cookies include: __gads, __utma, __utmb, __utmc and __utmz 
 
 [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html)
 
 ## Social Media Tracking
 
-**__utmx, __utmxx, di, dt, loc, psc, uid, uit** and **uvc** are cookies that are used to collect certain non-personally identifiable information automatically for use on the "AddThis Platform". This enables us to better understand how people are consuming and sharing our content socially and which content is more popular.
+**__utmx, __utmxx, di, dt, loc, psc, uid, uit** and **uvc** are cookies that are used to collect certain non-personally identifiable information automatically for use on the "AddThis Platform". This enables us to better understand how people are consuming and sharing our content socially and which content is more popular. 
 
 [AddThis.com Privacy Policy](http://www.addthis.com/privacy/privacy-policy)
 
 ## Third Party Links
 
-The advertisements on our sites are served by a number of third party ad serving providers, including **DoubleClick, Advertising.com, Adviva.net (Specific Media), AdRevolver (BlueLithium-Yahoo!), 247realmedia.com and Eyeblaster** , amongst others. The cookies accompanying the ads allow them and their advertisers to monitor the effectiveness of the ads (e.g. by using statistical analysis cookies) and make the ads more relevant to you (e.g. if you use our sites from outside of the UK, you may get ads from your local country). If you would like more information about the cookies used by the providers listed above, please see their privacy policies at:
+The advertisements on our sites are served by a number of third party ad serving providers, including **DoubleClick, Advertising.com, Adviva.net (Specific Media), AdRevolver (BlueLithium-Yahoo!), 247realmedia.com and Eyeblaster** , amongst others. The cookies accompanying the ads allow them and their advertisers to monitor the effectiveness of the ads (e.g. by using statistical analysis cookies) and make the ads more relevant to you (e.g. if you use our sites from outside of the UK, you may get ads from your local country). If you would like more information about the cookies used by the providers listed above, please see their privacy policies at: 
 
   * <http://www.doubleclick.com/privacy/index.aspx>
   * <http://www.advertising.com/privacy_policy.php>
@@ -81,7 +81,7 @@ The advertisements on our sites are served by a number of third party ad serving
 
 ## General third party opt-outs
 
-You can learn about and opt out of a number of commercial third party cookies at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) Some of the opt-outs used by our commercial service providers require a cookie to be placed on your PC which is only used to tell the relevant cookie servers not to send you any further cookies.
+You can learn about and opt out of a number of commercial third party cookies at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) Some of the opt-outs used by our commercial service providers require a cookie to be placed on your PC which is only used to tell the relevant cookie servers not to send you any further cookies. 
 
 ## SETTING UP YOUR BROWSER TO CONTROL OR DELETE COOKIES
 
@@ -91,7 +91,7 @@ To control or delete cookies on your mobile phone, please refer to your handset 
 
 We use Macromedia Flash Player to deliver certain services on our sites. To improve user experience, Local Shared Objects - or Flash Cookies as they are commonly known - are employed to provide features such as auto-resume or saving preferences. Flash Cookies are stored on a user's terminal much the same as cookies are, however it is not possible to manage them at browser level in the same way.
 
-The Adobe website provides comprehensive information on how to delete or disable Flash cookies either for a specific domain or for all websites - see <http://kb2.adobe.com/cps/526/52697ee8.html> for details. Please be aware that restricting the use of Flash Cookies may affect the features available to you for Flash-based applications on our sites.
+The Adobe website provides comprehensive information on how to delete or disable Flash cookies either for a specific domain or for all websites - see <http://kb2.adobe.com/cps/526/52697ee8.html> for details. Please be aware that restricting the use of Flash Cookies may affect the features available to you for Flash-based applications on our sites. 
 
 ## Further information
 
@@ -112,13 +112,13 @@ If you are a previous or existing customer, we may contact you with information 
 
 Furthermore, we may use your data, or permit selected third parties to use your data, so that you can be provided with information about unrelated products and services which we consider may be of interest to you. We or they may contact you about these products and services by any methods that you consented at the time your information was collected.
 
-You may stop these messages at any time by emailing [PrivacyPolicy@progressivedigitalmedia.com](mailto:PrivacyPolicy@progressivedigitalmedia.com) or opting-out using the opt-out tool at the bottom of the email communication. 
+You may stop these messages at any time by emailing [privacypolicy@kable.co.uk](mailto:privacypolicy@kable.co.uk) or opting-out using the opt-out tool at the bottom of the email communication. 
 
 ## Information About Other People
 
 On certain parts of the website, you can submit information about other people. For example, you may be able to provide an email address of colleagues who may be interested in registering to attend an event. We will use this information to contact these people for the purposes of increasing event attendance.
 
-These messages can be stopped at any time by emailing [PrivacyPolicy@progressivedigitalmedia.com](mailto:PrivacyPolicy@progressivedigitalmedia.com) or opting-out using the opt-out tool at the bottom of the email communication. 
+These messages can be stopped at any time by emailing [privacypolicy@kable.co.uk](mailto:privacypolicy@kable.co.uk) or opting-out using the opt-out tool at the bottom of the email communication. 
 
 ## Chat and Message Boards
 
@@ -154,7 +154,7 @@ The Data Protection Act 1998 gives you the right to access the information that 
 ## Contacting Us
 
 We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us at:  
-[PrivacyPolicy@progressivedigitalmedia.com](mailto:PrivacyPolicy@progressivedigitalmedia.com)
+[privacypolicy@kable.co.uk](mailto:privacypolicy@kable.co.uk)
 
 John Carpenter House, John Carpenter Street, London EC4Y 0AN, UK.
 
