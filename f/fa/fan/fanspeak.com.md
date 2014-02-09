@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanspeak.com privacy policy that was archived on 2013-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130904225231id_/http%3A//fanspeak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanspeak.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209100322id_/http%3A//fanspeak.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fanspeak - Voice Your Passion!
 
@@ -21,5 +21,7 @@ From time to time, Fanspeak content, services or activities may involve the use 
 We will disclose information, including Personally Identifiable Information, if required to do so by law.  We will also disclose such information when we have the good faith belief that disclosure is reasonably necessary to: 1.) respond to a legal order or requirement (court order, for example); 2.) enforce our Terms of Use; 3.) respond to a claim that our site or its content violates third party rights, or 4.) protect the safety, rights or property of the public.
 
 Links to third party web sites may be provided on the Fanspeak site.  Those third party web sites may have different privacy practices than the Fanspeak site.  Fanspeak makes no representations regarding the privacy policies of third party sites.  Users should review the privacy policies of all web sites before accessing those sites.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
 If you have any questions regarding this Privacy Policy, please contact us at: [info@fanspeak.com](mailto:info@fanspeak.com).
