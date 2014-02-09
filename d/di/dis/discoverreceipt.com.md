@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoverreceipt.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214101330id_/http%3A//discoverreceipt.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverreceipt.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209095242id_/http%3A//discoverreceipt.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Discoverreceipt.com | Privacy Policy
 
