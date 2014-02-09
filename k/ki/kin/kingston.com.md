@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingston.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205125902id_/http%3A//www.kingston.com/us/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingston.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209122608id_/http%3A//www.kingston.com/us/company/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Kingston
 
