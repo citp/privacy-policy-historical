@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamany.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920151031id_/http%3A//www.gamany.com/index.php%3Fpageid%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamany.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209052317id_/http%3A//www.gamany.com/index.php%3Fpageid%3D8) for the most accurate reproduction.*
 
 # GamAny - Privacy Policy
 
