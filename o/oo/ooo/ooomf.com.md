@@ -1,49 +1,68 @@
-> *The following text is extracted and transformed from the ooomf.com privacy policy that was archived on 2012-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120712222620id_/http%3A//ooomf.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ooomf.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209141241id_/https%3A//ooomf.com/privacy) for the most accurate reproduction.*
 
-# ooomf.com
+# Privacy Policy | ooomf
 
-This Privacy Policy describes ooomf's policies and procedures on the collection, use and disclosure of your information. ooomf receives your information through our various web sites, SMS, APIs, applications, services and third-parties ("Services"). For example, you send us information when you use ooomf from our web site, post or receive Tweets via SMS, create an ooomf landing page, or access ooomf. When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country that you reside in or create information from, your information may be used by ooomf in Canada or any other country where ooomf operates. If you have any questions or comments about this Privacy Policy, please contact us at [hi@ooomf.com](mailto:hi@ooomf.com)
+###### Published 10 months, 3 weeks, 1 day ago; updated 2 months, 1 week, 1 day ago
 
-#### Information Collection and Use
+At 7943067 Canada Inc. (dba ooomf) ( **“ooomf”** or **“we”** ), we recognize the need to protect the privacy of the personal information we collect or you provide to us when you access and use our website ([www.ooomf.com](https://ooomf.com/)) (the **“Website”** ).
 
-We collect and use your information to provide and measure use of our Services and improve them over time.
+Therefore, we have adopted this privacy policy (the “Privacy Policy”), which sets forth, among other things, the type of information that will be collected, the purpose and use of the collected information, and your rights with regard to the collected information. By accessing the Website, you are consenting to the collection and the use of your information by ooomf, but only to the extent described herein. Should you wish to revoke your consent, you may do so in accordance with the provisions of Section 4 below.
 
-**Information Collected Upon Registration:** When you create or reconfigure a ooomf account, you provide some personal information, such as your name, username, password, and email address. Some of this information is listed publicly on our Services, including on your profile page and in search results. 
+We reserve the right at any time, at our sole discretion, to change or otherwise modify this Privacy Policy, and your continued access or use of the Website signifies your acceptance of such updated or modified Privacy Policy. Please periodically revisit the Website to review such updates. Please note that the last update was performed on December 1st, 2013. If the modified terms are not acceptable, please do not access or use the Website.
 
-**Additional Information:** You may provide us with additional information to make public, such as a short biography, your location, or a picture. You may customize your account with information such as your address book so that we can help you find ooomf users you know. We may use your contact information to send you information about our Services or to market to you. You may unsubscribe from these messages by following the instructions contained within the messages or the instructions on our web site. If you email us, we may keep your message, email address and contact information to respond to your request. Providing the additional information described in this section is entirely optional.
+**1\. Protection of Your Information.** We are accountable for the information in our custody. Therefore, when we collect or use your information, we will utilize commercially reasonable safeguards to ensure its protection. It should be noted that no security procedure is currently 100% effective. Should any breach of your Personal Information occur, we will inform you as soon as reasonably possible, as required by applicable law.
 
-**Public Information:** Our Services are primarily designed to help you share information with the world. Most of the information you provide to us is information you are asking us to make public. This includes not only the messages you post and the metadata provided with your App, but also many other bits of information. Your public information is broadly and instantly disseminated. For example, your public App is searchable by many search engines and is immediately reachable via SMS or email addresses to a wide range of users and services. You should be careful about all information that will be made public by ooomf. What you say on ooomf may be viewed all around the world instantly.
+**2\. Type and Purpose of Collection.** We collect information at various points in the Website to facilitate its use by our customers. Specifically, two types of information are collected:
 
-**Location Information:** You may choose to note your location in your ooomf profile. We may save exact coordinates to help improve our service. 
+  * Non-Personal Information: Upon accessing the Website, certain non-personal information will be automatically collected without your knowledge or consent, such as your IP address and the referring website ( **“Non-Personal Information”** ). We use Non-Personal Information to examine our traffic and to view how our customers use the Website. This type of information will not allow you to be personally identified. For example, we use “cookies”, which contains only certain statistical information. You can instruct your computer to inform you whenever a cookie is being sent, or you can disallow cookies through your web browser. If you do choose to disallow cookies, your experience on the Website may be diminished, or your ability to choose some of the options on the Website may be limited.
 
-**Log Data:** Our servers automatically record information (“Logging”) created by your use of the Services. Logging may include information such as your IP address, browser type, the referring domain, pages visited, your mobile carrier, device and application IDs, and search terms. Other actions, such as interactions with our website, applications and advertisements, may also be included in Logging. 
 
-**Links:** ooomf may keep track of how you interact with links across our Services including third party services and clients by redirecting clicks or through other means. We do this to help improve our Services, including advertising, and to be able to share aggregate click statistics such as how many times a particular link was clicked on.
+  * Identifying Personal Information: To utilize some portions of the Website or some of the services provided therein, you must first provide personal information that will allow you to be identified ( **“Personal Information”** ). This type of informationwill not be collected without your consent. The purposes of the collection of Personal Information are the following:
 
-**Cookies:** Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Services. A cookie is a small data file that is transferred to your computer's hard disk. ooomf may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to improve our Services. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.
+    * To establish a relationship with you;
 
-**Third Party Services:** ooomf uses a variety of services hosted by third parties to help provide our Services, and to help us understand the use of our Services. These services may collect information sent by your browser as part of a web page request, such as cookies or your IP request.
+    * To facilitate your service through our Website;
 
-#### Information Sharing and Disclosure
+    * To facilitate your service with our affiliated service providers;
 
-We do not disclose your private information except in the limited circumstances described here.
+    * For job postings and applications;
 
-**Your Consent:** We may share or disclose your information with your consent, such as when you use a third party web client or application to access your ooomf account.
+    * To anticipate and resolve problems with your service;
 
-**Service Providers:** We engage certain trusted third parties to perform functions and provide services to us. We may share your personal information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to obligations mirroring the protections of this privacy policy.
+    * To understand your needs and desires vis-à-vis the Website;
 
-**Law and Harm:** We may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect ooomf's rights or property.
+    * To update you on changes to our services or products, including new promotions.
 
-**Business Transfers:** In the event that ooomf is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The promises in this privacy policy will apply to your information as transferred to the new entity.
+  * We expressly acknowledge that we will not use your Personal Information for any other purposes without your consent. Further, we will only collect Personal Information to the extent necessary for the abovementioned purposes. The Personal Information we collect will vary depending on how you are using the Website, but may include, without limitation, your address, phone number, email address, and credit card information, resume, portfolio link and bank account information for wiring purposes.
 
-**Non-Private or Non-Personal Information:** We may share or disclose your non-private, aggregated or otherwise non-personal information, such as the number of users who clicked on a particular link..
 
-#### Modifying Your Personal Information
 
-If you are a registered user of our Services, we provide you with tools to access or modify the personal information you provided to us and associated with your account.
 
-#### Changes to this Policy
+**3\. Right to Examine Information.** You have the right to examine any of your Personal Information that we collect. Should you wish to examine such information, please send us a written request to [support@ooomf.us](mailto:support@ooomf.us). We reserve the right to charge you a reasonable administrative fee to access your information, as permitted by applicable law. In certain cases we may not be able to provide you with access to all of your Personal Information (ex: if the information also pertains to the Personal Information of another user)
 
-We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be available. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
+**4\. Withdrawal of Consent.** You may withdraw your consent to the collection of Personal Information at any time by sending a written request to [support@ooomf.us](mailto:support@ooomf.us). Upon receiving notice that you have revoked your consent, we will stop using your Personal Information within a reasonable time, which will vary depending on what information we have collected and for what purpose. Please note that we will send you an email confirmation upon receipt of your request. Therefore, if you do not receive a confirmation email, please contact us again with your request. If you do choose to withdraw such consent, your experience on the Website may be diminished, or your ability to choose some of the options on the Website or the services provided therein may be limited.
 
-Effective: May 2, 2012.
+**5\. Sharing Information.** We will not sell, rent or disclose to outside parties the information we collect, save and except that we may share the collected information with other parties as follows:
+
+  * **Affiliated Service Providers:** We have agreements with various affiliated service providers to facilitate the functioning of the Website, with whom we may share the information we have collected. For example, we may share your credit card information with the credit card service provider to process your purchase. Alladministrative service providers that we use are required to have the same level of privacy protection as we have, and therefore we expect that your information will be handled with the same level of care that we employ.
+
+  * **Job Postings and Applications:** We may share the collected information to post a job posting and application, the whole as set out in the Terms of Use (ex: applications will be shared with the relevant group of users).
+
+  * **Where required by law:** We may share the collected information where required by law, specifically in response to a demand from government authorities where such demand meets the legal requirements.
+
+  * **Statistical Analysis:** We may share Non-Personal Information and aggregated information with third parties for advertising or marketing purposes. No Personal Information will be shared in this manner.
+
+  * **Transactions:** In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where collected information may be disclosed or transferred as one of our business assets.
+
+
+
+
+**6\. External Links.** The Website contains links and references to other websites. We are not responsible for the collection, use and disclosure of information, or the privacy practices of such websites, and we expressly disclaim any liability relating thereto.
+
+**7\. International Transfer.** Your information may be transferred to and maintained on computers located outside of your jurisdiction, where privacy laws may not be as protective as your jurisdiction. Your consent to this Privacy Policy represents your consent to any such transfer.
+
+**8\. Terms of Use.** This Privacy Policy is incorporated into and forms part of the Terms of Use, which outlines the terms and conditions you agree to when accessing and using the Website, and which can be found here: (<https://ooomf.com/terms)[ooomf.com/terms>].
+
+**9\. Persons Under 18.** The Website is not marketed toward persons under the age of 18. If ooomf discovers that it has inadvertently collected Personal Information about individuals under the age 18, it will promptly delete such information.
+
+_Should you have any questions or comments concerning this Privacy Policy, please do not hesitate to contact us at[support@ooomf.us](mailto:support@ooomf.us)._
