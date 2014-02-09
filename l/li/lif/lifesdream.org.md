@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifesdream.org privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930111913id_/http%3A//www.lifesdream.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifesdream.org privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209094213id_/http%3A//lifesdream.org/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
