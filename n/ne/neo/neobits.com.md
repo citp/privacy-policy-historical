@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the neobits.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822115220id_/http%3A//www.neobits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neobits.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209164506id_/http%3A//www.neobits.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Neobits Inc.
-
-## Privacy Policy
 
 Our Internet store allows you to buy products and services, receive special discounts, apply for credit, fill out surveys, and receive newsletters, e-mails or other promotional information from us. We use the information that we collect about you to fulfill your product and service purchases and to create a more personalized online experience.
 
