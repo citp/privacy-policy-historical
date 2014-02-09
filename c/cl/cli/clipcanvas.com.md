@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the clipcanvas.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115111851id_/http%3A//privacy-policy.truste.com/verified-policy/www.clipcanvas.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipcanvas.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209161403id_/http%3A//privacy-policy.truste.com/verified-policy/www.clipcanvas.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.clipcanvas.com
 
 Effective on March 21, 2011 
 
-This privacy statement describes how Clipcanvas collects and uses the personal information you provide on our Web site: [www.clipcanvas.com ](http://www.clipcanvas.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how Clipcanvas collects and uses the personal information you provide on our Web site: [www.clipcanvas.com ](https://www.clipcanvas.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
