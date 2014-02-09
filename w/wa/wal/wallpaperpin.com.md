@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpaperpin.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820004020id_/http%3A//www.wallpaperpin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaperpin.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210001404id_/http%3A//www.wallpaperpin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Policy ~ Wallpaperpin.com
 
