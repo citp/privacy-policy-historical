@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lisaangelettieblog.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602050534id_/http%3A//wp.me/PfZux-5g) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lisaangelettieblog.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209070630id_/http%3A//wp.me/PfZux-5g) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,3 +73,12 @@ We use third-party advertising companies to serve ads when you visit our website
 \- Google, as a third party vendor, uses cookies to serve ads on our site.  
 \- Google’s use of the DART cookie enables it to serve ads to users based on visits to our sites and other sites on the Internet.  
 \- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+The following two tabs change content below.
+
+  * Bio
+  * Latest Posts
+
+
+
+I make a living writing, ePublishing, and marketing books and teaching others how to do the same. I have one mission: To turn you into the best writer that you can be while enjoying every minute of it!
