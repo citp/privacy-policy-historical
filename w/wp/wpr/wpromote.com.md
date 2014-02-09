@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wpromote.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810233614id_/http%3A//www.wpromote.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpromote.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209112559id_/http%3A//www.wpromote.com/privacy) for the most accurate reproduction.*
 
 # Wpromote's Privacy Policy | Wpromote
 
 ## WPROMOTE, INC. Privacy Policy for www.wpromote.com
 
-_Updated Date: January 1, 2013_
+_Updated Date: January 1, 2014_
 
 WPROMOTE, Inc. ("WPROMOTE" or "www.wpromote.com" or "we" or "us") has created this privacy policy (this "Privacy Policy") in order to demonstrate its commitment to user, visitor and customer privacy with regard to the WPROMOTE web site at www.wpromote.com (the "Website"). Privacy on the Website is of great importance to us. Because we gather important information from our users, visitors and customers (collectively "Customers" or "you" or "your"), we have established this Privacy Policy as a means to communicate our information gathering and dissemination practices. By accessing this Website, you acknowledge and agree to this Privacy Policy and also agree to the Terms of Use of the Website. 
 
@@ -75,7 +75,7 @@ If you have any questions regarding the Wpromote privacy policy or information t
 
 
 
-Six-time honoree on the Inc 500|5000 list of the fastest growing  
+7-time honoree on the Inc 500|5000 list of the fastest growing  
 private firms in the country. We think that’s pretty cool!
 
 Ranked the 4th Best Place To Work in Los Angeles by the LABJ.  
