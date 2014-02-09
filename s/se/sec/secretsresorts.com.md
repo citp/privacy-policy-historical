@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secretsresorts.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022003019id_/http%3A//secretsresorts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secretsresorts.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209224559id_/http%3A//www.secretsresorts.com/privacy) for the most accurate reproduction.*
 
 # Secrets Resorts & Spas - Privacy
 
@@ -17,7 +17,7 @@ Personal information that we may request from you in order to provide you with o
 **Account Information & Travel Preferences**  
 You may choose to register with us and create a personal account. If you create an account, you will allow us to tailor your search results to your own personal interests and preferences. The personal information we collect from you, if you choose to register includes: name, address, Email address, preferred travel agent, password and password reminder. The travel preference information we collect from you includes: departure state, preferred airport, destination/hobby interests, duration of stay preference, price range and seasonal preference. You must create a password to create an account, so your account is password-protected. This is unique and regarded as confidential; consequently, it should be carefully guarded. Ultimately, you are solely responsible for maintaining the secrecy of your passwords, User IDs, and/or any account information. Our secure server encrypts all personal information so that it cannot be read as it is transmitted over the Internet. You may modify your travel profile and account information at any time by going to My Vacation and updating your travel preferences and or account information.
 
-[back to top](http://secretsresorts.com/privacy#top)
+[back to top](http://www.secretsresorts.com/privacy#top)
 
 **Email Communications**  
 AMResorts may, from time to time, send you Email messages regarding our product specials and services, only if you have opted-in to receive such messages. Once you have opted-in to receive Email from us, you may choose to opt-out of Email communications at any time by updating your account. Regardless of your communication preferences, even if you have opted-out of Email marketing messages, AMResorts.com retains the right to send you a transaction-specific Email confirmation when you have booked a vacation on our website.
@@ -33,7 +33,7 @@ AMResorts' primary goal in collecting personal information is to provide you, th
 
 AMResorts does research on our user's demographics, interests, and behaviors based upon the information provided to us through our web site. We do this to better understand and serve our users. This research is compiled and analyzed on an aggregated basis. AMResorts may share this aggregated data with advertisers or business partners. 
 
-[back to top ](http://secretsresorts.com/privacy#top)
+[back to top ](http://www.secretsresorts.com/privacy#top)
 
 **Who is collecting information?**  
 When you are using AMResorts site and are asked for personal information, you are sharing that information with AMResorts alone, unless it is specifically stated otherwise. If data is being collected and/or maintained by any company other than AMResorts you will be notified prior to the time of the data collection or transfer. If you do not want your data to be shared, you may choose not to allow the transfer by not using that particular service. Promotions that run on AMResorts' web site may be co-sponsored by AMResorts and another company. Some or all data collected during a promotion may be shared with the sponsor or co-sponsor. If data will be shared, you will be notified prior to the time of data collection or transfer. You can decide not to participate in the promotion if you don't want your data to be shared. Please be aware that AMResorts advertisers or web sites that have links on our site may collect personally identifiable information about you. This privacy statement does not cover the information collections practices of those websites. 
@@ -54,7 +54,7 @@ No one may copy any content appearing in any AMResorts website, brochure, or adv
 
 AMResorts marks should be used with the ® symbol, and the use should be accompanied by a legend appearing at the bottom of the page where used that the mark is registered; for example, AMResorts is a registered trademark. 
 
-[back to top ](http://secretsresorts.com/privacy#top)
+[back to top ](http://www.secretsresorts.com/privacy#top)
 
 **Internet Web Sites**  
 No one may use the name AMResorts or any AMResorts mark (or anything confusingly similar) as part of an Internet domain name.  
@@ -71,4 +71,4 @@ Marks must not be used as an agency identifier; i.e., an AMResorts mark may not 
 **Our Contact Information**  
 Questions regarding this statement should be directed to [webmaster@AMResorts.com](mailto:webmaster@amresorts.com). If you do not receive acknowledgment or if your inquiry has not been satisfactorily addressed, please write to AMResorts, 7 Campus Blvd, Newtown Square, PA 19073, Attn: Web Department.
 
-[back to top](http://secretsresorts.com/privacy#top)
+[back to top](http://www.secretsresorts.com/privacy#top)
