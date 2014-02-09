@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usaofficesupplies.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827051435id_/http%3A//www.usaofficesupplies.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaofficesupplies.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209215238id_/http%3A//www.usaofficesupplies.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice : USA Office Supplies Super Store
 
@@ -57,4 +57,6 @@ If we change or modify our privacy policy we’ll inform you by posting the chan
 Contact Info
 
   
-In case you have any questions or queries related to our privacy policies disturbing you, you can always feel free to post your queries, doubts or comments on the “Contact Us” link provided at the bottom of the web page or simply give us a ring at [888-858-5041](about:blank).
+In case you have any questions or queries related to our privacy policies disturbing you, you can always feel free to post your queries, doubts or comments on the “Contact Us” link provided at the bottom of the web page or simply give us a ring at [1-888-858-5041](about:blank).
+
+1-888-858-5041
