@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustwave.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809144021id_/https%3A//www.trustwave.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustwave.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209130239id_/https%3A//www.trustwave.com/privacy-policy) for the most accurate reproduction.*
 
 # PCI Compliance | Network Security | Trustwave
 
