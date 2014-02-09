@@ -1,213 +1,118 @@
-> *The following text is extracted and transformed from the houseofblues.com privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829102451id_/http%3A//www.houseofblues.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseofblues.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209173250id_/http%3A//www.houseofblues.com/support/privacy) for the most accurate reproduction.*
 
-# House of Blues | Privacy Policy
+# Live Nation Concerts | Privacy Policy
 
-|  | 
+Effective July 20, 2012 (last updated October 08, 2013)
 
-Last Updated: December 15, 2008
+## This Privacy Policy applies to the sites and apps where it appears.
 
-| 
+This Policy describes how we treat personal information we collect both online and offline. This includes on our websites or in our apps. It also includes at our box offices or in phone or email interactions you have with us. If you live in Canada, please read our [Canadian Privacy Policy](http://www.ticketmaster.ca/h/privacy.html).
 
-This website, located at www.HouseOfBlues.com (the "Site"), is owned and operated by HOB Entertainment, LLC, a Live Nation Worldwide, Inc. company ("HOB," "we," "us"). Your privacy is important to HOB. This Privacy Policy (the "Privacy Policy") outlines the types of Personally Identifiable Information (as defined below) that we gather while you are visiting the Site, as well as ways in which we process and disseminate such Personally Identifiable Information. This Privacy Policy does not pertain to information collected on any other site owned by HOB, its parents, subsidiaries or other businesses, nor does it extend to the privacy practices (or lack thereof) of third parties. HOB cannot and does not assume responsibility for the policies, practices and actions of such third parties. You are, of course, free to use much of the Site without providing any Personally Identifiable Information to us.
+## We collect information from and about you.
 
-HOB complies with the privacy laws and regulations of the United States of America. HOB makes no representation that this Site is governed by or operated in accordance with the laws of other nations, or that the Site or any part thereof is appropriate or available for use in any particular jurisdiction. Those who choose to access the Site do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations. By using this Site, visitors from outside of the United States of America acknowledge this Site is subject to the laws and regulations of the United States of America, and waive any claims that may arise under their own national laws. 
+**Contact information.** For example, we might collect your name and street address. We might also collect your phone number or email.
 
-HOB reserves the right to change, modify, add, or remove provisions of this Privacy Policy. Any changes to this Privacy Policy will be posted here, and we encourage you to check back from time to time to ensure continuing familiarity with the most current version of our Privacy Policy. You can determine whether the Privacy Policy has been revised since your previous visit to the Site by referring to the "Last Updated" legend at the top of this page. Please read this Privacy Policy carefully. Your use of this Site constitutes your acceptance to be bound by this Privacy Policy without limitation, qualification or change. If at any time you do not accept all the terms and conditions contained herein, you must immediately discontinue use of this Site.   
-  
----  
-1\. What Information We Collect  
-  
-HOB gathers two basic types of information through the Site: "Personally Identifiable Information” (or "PII") and "Non-Personally Identifiable Information" (or "Non-PII"). PII is information that identifies or can identify you as an individual (such as residential address, telephone number, or billing information) and Non-PII is aggregated information, demographic information, IP addresses and any other information that does not reveal your specific identity.  
-  
-|  a.  |  Non-Personally Identifiable Information \- When you visit and interact with the Site, HOB and third parties with whom HOB has contracted to provide services to HOB may collect Non-PII (for example, a catalog of the Site pages you visit). Non-PII is anonymous and does not identify you personally. Non-PII is generally collected through the Site from four different sources: Internet protocol addresses and web logs; cookies; pixel tags and other similar technologies; and other Non-PII that you voluntarily provide (as explained below).   
----|---  
-  
-|  i.  |  IP Protocol Addresses and Web Logs \- This Site's web servers automatically collect the Internet Protocol (IP) addresses and log files of visitors. Your IP address is an identifying number that is automatically assigned to your computer by your Internet Service Provider (ISP). This number is identified and logged automatically in our server log files whenever you visit the Site, along with the time(s) of your visit(s) and the page(s) that you visited. This information is collected in an aggregate form only and does not contain any PII. We use your IP address, and the IP addresses of all users, for purposes such as calculating Site usage levels, helping diagnose problems with the Site's servers, and administering the Site. Collecting IP addresses is standard practice on the Internet and is done automatically by many websites.   
----|---  
-ii.  |  Cookies \- We and our service providers may use a standard technology called a "cookie" to collect information about how you use the Site. Cookies reside on your computer and help the Site recognize your computer's browser as a previous visitor. In addition, on occasion our Site may also set a "session cookie" which helps us administer the Site. The session cookie expires when you close your browser and does not retain any information about you after it expires. If you do not want information collected through the use of cookies, you should be able to modify your browser preference to provide you with choices relating to cookies. For example, if you use a standard browser, you should have the choice to accept all cookies, to be notified when a cookie is set or to reject all cookies. If you choose to reject cookies, you may be unable to use certain Site services (e.g., those services that require you to log on to the Site in order to participate). For more information on modifying your browser preference, please refer to the documentation accompanying your browser.   
-iii.  |  Pixel Tags \- We and our service providers may also use so-called "pixel tags," "web beacons," "clear GIFs" or similar means (collectively, "Pixel Tags") in connection with some Site pages and HTML-formatted email messages to, among other things, compile aggregate statistics about Site usage and response rates. A Pixel Tag is an electronic image, often a single pixel (1x1), that is ordinarily not visible to Site visitors and may be associated with cookies on the visitors’ hard drives. Pixel Tags do not contain any PII and allow us to count users who have visited certain pages of the Site, to deliver branded services, and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted email messages, Pixel Tags can tell the sender whether and when an email has been opened.   
-iv.  |  Information You Voluntarily Provide \- We may also collect certain information (e.g., your geographic location, your genre preferences etc.) when you voluntarily provide such information to us. When such information is not combined with any PII, such information is considered to be Non-PII, as it does not personally identify you or any other user. Additionally, we may aggregate PII in a manner such that the end-product does not personally identify you or any other user of the Site, for example, by using PII to calculate the percentage of our users who have a particular telephone area code. Such aggregate information is considered Non-PII for purposes of this Policy.   
-  
-|  b.  |  Personally Identifiable Information \- You may use many features of this Site without providing any PII. However, in order to take advantage of particular opportunities made available through the Site (for example, to access additional services provided by this Site such as concert updates, chat room forums and/or personalized content) we may require that you furnish PII to us such as: your name, postal address, telephone number, fax number email address, age, gender, credit card number or other payment account number and health-related information (for example, physically disabled seating requests). Please keep in mind that you may also be providing PII when you submit comments through chat rooms, forums, message boards or news groups, although we do not collect or use PII from these sources. We collect PII from you through the Site only when you voluntarily provide it.   
----|---  
-  
-2\. How Information We Collect Is Used  
-  
-|  a.  | 
+**Payment and billing information.** For example, we collect your credit card number and zip code when you buy a ticket.
 
-\- Because Non-PII does not personally identify you, we may use such information for any purpose. For example, we may use Non-PII to measure the number of visits, average time spent on the Site and pages viewed as well as to diagnose problems with our servers and to administer the Site. We may then use this information to analyze and improve the features and functionality of this Site. We may use non-PII information about you and other Site visitors on an aggregate basis to sell and deliver advertising, promotions and content that we believe will be of interest to you. 
+**Information you post.** For example, we collect information you post in a public space on our website or on a third-party social media site.
 
-In addition, we reserve the right to share such Non-PII, which does not personally identify you, with third parties, for any purpose. For example, we may share information with advertisers or other third parties that are not part of the Live Nation family on an aggregate or other basis that does not disclose any of your PII. 
+**Demographic information.** We may collect information about events you like or products you buy. We might collect this as part of a survey, for example.
 
-In some instances, we may combine Non-PII with PII (such as embedding email addresses in cookies). If we do combine any Non-PII with PII, the combined information will be treated as PII as long as it is so combined. This “combined” PII is not shared with third parties, except as described in this Policy.   
-  
----|---  
-  
-|  b. Personally Identifiable Information  
----  
-  
-|  i.  |  Site: We may use PII you give us to better tailor your website experience to your interests, and to show you content in which you may be interested and to display the content according to your preferences. We may also share your PII within the Live Nation business family in order to enhance your experience on other Live Nation websites. To the extent we do so, we make sure that your PII receives the same level of protection throughout the Live Nation business family. Please note that such sharing may involve the collection use, storage, or disclosure of PII outside the United States of America.   
----|---  
-ii.  |  Communications: If you choose to opt-in, we may use your PII to send you information about HOB and its services as well as promotional material on behalf of some of our partners. If at any time you change your mind and prefer to no longer receive such marketing communications from us, please see the "Opt-In Policy" section below.   
-iii.  |  Administrative Matters: HOB reserves the right to contact you in the event of a change in the Site's Terms of Use and/or this Privacy Policy, or to notify you of other administrative matters in connection with the Site (e.g., contacting you to facilitate, complete or confirm a transaction). Because this information may be important to your use of the Site, you may not opt-out of receiving such communications.   
-iv.  |  Fulfillment of Requests: HOB may use your PII to fulfill the purpose for which such PII was provided (e.g., to confirm your registration or fulfill your purchase).   
-v.  |  Facilitation of Transactions: Please note that, at times, forms on the Site may be pre-populated with your PII in order to facilitate a transaction between you and HOB.   
-vi.  |  Internal Business Purposes: We may also use your PII for our internal business purposes, such as to target advertising, for data analysis, for audits and for other internal purposes.   
-vii.  |  Shopping/Commercial Services: This Site may offer merchandise and/or ticket purchase services, which may be offered by us or by one of our e-commerce partners. To the extent the merchandise and/or ticket purchase services are offered by one of our e-commerce partners, such e-commerce partner will be collecting and using the PII you provide. For more information regarding your transactions with our e-commerce partners, please refer to Section 4(b) below.   
-viii.  |  Email This to a Friend: The Site may allow you to forward certain items posted on Site or links to Site features by email or Instant Messenger to other parties who you believe may be interested. If you wish to use this feature, you may provide us with such other party’s email address or Instant Messenger screen name so that we can facilitate your sending of such message to such other party. To do so, any PII you provide in connection with sending such other party the message, such as your name and your email address or Instant Messenger screen name, will, of course, be disclosed to such other party. While, due to technical restrictions, the recipient's email address or Instant Messenger screen names may be retained in our log files, we do not knowingly share it with third parties and we do not use this PII for any purpose except to send this message (unless the recipient has already consented to such use of his/her PII).   
-ix.  |  Online Surveys/Sweepstakes and Contests: From time to time, we conduct online surveys and offer online sweepstakes or contests on the Site (each, a "Promotion"), and we may collect PII in connection with the same. We may use your PII to contact you regarding your Promotion entry, or to contact you if you win a Promotion (if applicable). You should carefully review the rules, if any, of each Promotion in which you participate through the Site, as they may contain additional important information about HOB's use of your PII. To the extent such rules conflict with this Privacy Policy, such rules will govern that particular Promotion.   
-  
-3\. How Personally Identifiable Information We Collect Is Disclosed  
-  
-|  a.  | 
+**Other information.** If you use our website, we may collect information about the browser you're using. We might look at what site you came from, or what site you visit when you leave us. If you use our mobile app, we may collect your GPS location or your device's unique identifier. We might also collect the type of mobile device you are using, or the version of the operating system your computer or device is running. We might look at how often you use the app and where you downloaded it.
 
-If you choose to opt-in, we may share your PII with our affiliates, including Live Nation owned, operated or managed venues where Live Nation produced events occur and promoters or sponsors of Live Nation events, so that our affiliates may send you announcements and notifications of events, products or services that might be of interest to you. For further information, please see the "Opt-In Policy" section below.  
-  
----|---  
-  
-|  b.  | 
+## We collect information in different ways.
 
-If you choose to opt-in, we may also share your PII with third parties to allow such third parties to send promotional communications to you. For further information, please see the "Opt-In Policy" section below.   
-  
----|---  
-  
-|  c.  | 
+**We collect information directly from you.** For example, if you register for a promotion or buy tickets. We also collect information if you post a comment on our websites or ask us a question.
 
-We work with third parties who provide services including but not limited to data analysis, order fulfillment, credit card processing and other services of an administrative nature. If you use our services, we reserve the right to share your PII with such third parties for the purpose of enabling these third parties to provide such services. We take reasonable steps to ensure these third parties treat PII in a manner comparable to how we do so.   
-  
----|---  
-  
-|  d.  | 
+**We collect information from you passively.** We use tracking tools like browser cookies and web beacons. To learn more about these tools and to control them, please click [here](http://concerts.livenation.com/h/ad-choices.html).
 
-Please be aware that when you disclose PII in a chat room, forum, message board or news groups on the Site, the information may become public and accessible to all or a part of the Site community, so it is important for you to exercise discretion and appropriate caution when deciding to reveal PII in these areas. In addition, when you choose to make a posting on such services, certain PII may be available for other users to view. We urge you to exercise discretion and caution when deciding to disclose your PII, or any other information, on the Site. WE ARE NOT RESPONSIBLE FOR THE USE OF ANY PII YOU VOLUNTARILY DISCLOSE THROUGH THE SITE VIA THESE FORUMS AND OTHER INTERACTIVE FEATURES. Please note that we reserve the right, but have no obligation, to republish content posted in a chat room, forum, message board or news group (including any PII contained therein) as further set forth in our [Terms of Use](https://web.archive.org/support/termsofuse/) Agreement. 
+**We get information about you from third parties.** For example, if you use an integrated social media feature on our websites or mobile applications. The third-party social media site will give us certain information about you. This could include your name and email address. Your activities on our sites and apps may be posted to the social media platforms.
 
-In the event that you encounter any Site user who you believe is improperly collecting or using information about you or other users, please visit our Help Page to send us an email about such collection or use.   
-  
----|---  
-  
-|  e.  | 
+## We use information as disclosed and described here.
 
-We reserve the right to share PII collected in connection with Promotions with the third-party sponsors of any such Promotions (irrespective of whether such Promotions are hosted by us), or otherwise in accordance with the rules applicable to such Promotion. You should carefully review the rules, if any, of each Promotion in which you participate through the Site, as they may contain additional important information about a sponsor's or other third parties’ use of your PII. To the extent such rules conflict with this Privacy Policy, such rules will govern that particular Promotion.   
-  
----|---  
-  
-|  f.  | 
+**We use information to respond to your requests or questions.** For example, we might use your information to confirm your registration for an event or contest. If you give us your friend's information, we will only use it to provide services you requested.
 
-HOB may also access and disclose PII as needed to: (1) comply with applicable laws; (2) respond to governmental inquiries or requests; (3) comply with valid legal process; (4) protect the rights, privacy, safety or property of HOB, Site visitors or the public; (5) permit us to pursue available remedies or limit the damages that we may sustain; and (6) enforce our Terms of Use or other published guidelines.   
-  
----|---  
-  
-|  g.  | 
+**We use information to improve our products and services.** We might use your information to customize your experience with us. This could include displaying content based upon your preferences.
 
-We reserve the right to transfer any and all information that we collect from users of the Site to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of HOB's business, assets or stock (including without limitation in connection with any bankruptcy or similar proceedings).   
-  
----|---  
-  
-4\. Collection of Information By Third Parties  
-  
-|  a.  | 
+**We use information to look at site trends and customer interests.** We may use your information to make our website and products better. We may combine information we get from you with information about you we get from third parties.
 
-\- We may enter into relationships with "powered by" partners, business partners, sponsors, and co-branded sites (referred to here as "co-branded pages"). These might include, for example, pages that share our name and that of another entity. You should look for a specific privacy policy on any such co-branded page. Any PII that you provide when signing up at any co-branded page may be collected by, or shared with, our third-party partner. We have no control over, and are not responsible for, our partners’ use of your PII. You should check our posted partners’ websites for information regarding their privacy policies.   
-  
----|---  
-  
-|  b.  | 
+**We use information for security purposes.** We may use information to protect our company, our customers, or our websites.
 
-\- When you provide PII to one of our Site’s e-commerce partners, vendors or advertisers, this transaction will occur in connection with the site of the e-commerce partner, vendor or advertiser, not on the Site, and, as such, the PII you provide is collected pursuant to and controlled by the privacy policy of such e-commerce partner, vendor or advertiser. HOB is not responsible for such parties' privacy policies and we encourage you to familiarize yourself with the applicable privacy policy of the e-commerce site with which you transact business or to contact the operator of such site for more information. 
+**We use information for marketing purposes.** For example, we might send you information about special promotions or offers. We might also tell you about new features or products. These might be our own offers or products, or third-party offers or products we think you might find interesting. Or, for example, if you buy tickets from us we'll enroll you in our newsletter. We may use push notifications and your location information on our mobile apps to send you alerts regarding local events. To learn about your choices for these communications, read the choices section below.
 
-Please be aware that at times, at the request of or on behalf of our e-commerce partners, vendors or advertisers, HOB may "pre-populate" forms with your PII for your review, and, if you so choose, for submission to such e-commerce partners, vendors or advertisers. Accordingly, we encourage you to review each pre-populated form carefully before agreeing to submit your PII to determine who is seeking to collect your information, and to familiarize yourself with the applicable privacy policy governing use of any PII collected about you.   
-  
----|---  
-  
-|  c.  | 
+**We use information to send you transactional communications.** For example, we might send you emails about your account or a ticket purchase. We might also contact you about this policy or our website terms.
 
-\- If you choose to respond to a job posting on the Site, you may be directed to a third-party site (for example, a third-party site specializing in job postings, such as Monster.com). Any PII you provide will be collected by such third party. We have no control over, and are not responsible or liable for, such third party’s use of your PII. Please consult such third party’s privacy policy for information regarding their privacy practices. 
+**We use information as otherwise permitted by law.**
 
-The third party collecting your PII will share such PII with HOB so that HOB can review your information and, if applicable, respond to your query or job application. Please note that HOB has no obligation to respond to all queries or job applications submitted. Any PII that HOB receives from such third party will be treated in accordance with this Privacy Policy.   
-  
----|---  
-  
-|  d.  | 
+## We may share information with third parties.
 
-\- The ads appearing on this Site are delivered to you by our Web advertising partner. Non-PII about your visits to this Site, such as number of times you have viewed an ad, is used to serve ads to you. In the course of serving advertisements to this Site, our third-party advertiser may place or recognize a unique cookie on your browser.   
-  
----|---  
-  
-|  e.  | 
+**We will share information within the Live Nation family of companies.** This may include Ticketmaster and Live Nation-owned or operated venues, for example.
 
-\- The Site may contain links to third-party Internet websites, which are not owned or operated by HOB. We provide such links only as a convenience, and the inclusion of a link on the Site does not imply endorsement of the linked site by HOB. If you provide any PII through any such third-party website, your transaction will occur on such third party's website (not the Site) and the PII you provide will be collected by, and controlled by the privacy policy of, that third party. We are not responsible for the privacy practices or the content of such third-party websites, including such websites' use of any PII that you provide to them. We strongly encourage you to become familiar with the privacy practices of those sites. 
+**We will share information with third parties who perform services on our behalf.** For example, we share information with vendors who help us manage our online registration process or who fulfill your purchases. Some vendors may be located outside of the United States.
 
-PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES.   
-  
----|---  
-  
-5\. Opt-In Policy  
-  
-|  a.  | 
+**We will share information with our business partners.** This includes a third party who provides or sponsors an event, or who operates a venue where we hold events. Our partners use the information we give them as described in their privacy policies. You should read those polices to learn how they treat your information.
 
-\- When you supply HOB with PII, from time-to-time, in HOB's discretion, you may be asked to indicate whether you are interested in receiving information from us about special offers in connection with the Site, HOB and/or our advertisers and partners. If you do choose to opt-in to receive such communications, we may, from time to time, send you marketing communications. If at any time you change your mind and no longer wish to receive marketing communications from us, you may opt-out of such marketing communications by either:  
+**We may share information if we think we have to in order to comply with the law or to protect ourselves.** For example, we will share information to respond to a court order or subpoena. We may also share it if a government agency or investigatory body requests. Or, we might also share information when we are investigating potential fraud. This might include fraud we think has happened during a sweepstakes or promotion.
 
+**We may share information with any successor to all or part of our business.** For example, if part of our business is sold we may give our customer list as part of that transaction.
 
-  * Using the link provided in our newsletters or commercial email messages to opt-out of receiving further marketing communications from us; or 
-  * Changing your contact preference to "Do Not Contact Me" at any time by using the "Ask a Question" tab on our Help Page. 
+**We may share your information for reasons not described in this policy.** We will tell you before we do this.
 
-  
-If you decide to contact us to change your contact preference to "Do Not Contact Me", HOB will implement this change in a reasonable time frame. Please be aware that your requested change will not be effective until HOB implements such change and such requests will be implemented only in connection with your Site profile, and will not impact any preferences you may have made to any other site controlled, owned or operated by HOB or its affiliates.   
----|---  
-  
-|  b.  | 
+## You have certain choices about how we use your information.
 
-\- From time-to-time in HOB's discretion, you may be provided with the opportunity to opt-in to receive offers directly from HOB, our affiliates and/or from third parties. If you do choose to accept any such offer(s), any PII provided to HOB for such purposes may be shared with our affiliates and such third-party partner(s), to allow our affiliates and/or such third parties to provide you with such offers. If you change your mind and would prefer that we no longer share your PII with our affiliates and/or with third parties for their marketing purposes, you may opt-out of such future sharing at any time by using the "Ask a Question" tab on our Help Page, and specifying which choice you are opting out from, provided however, you may not be able to opt out of certain third party offers that are displayed on our Site.   
-  
----|---  
-  
-|  c.  | 
+**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, click [here](http://promo.livenation.com/wemissyoualready/) or follow the instructions in any promotional message you get from us. Your device settings should provide you with instructions on how to turn off push notifications. It may take about ten days to process your request. Don't worry! Even if you opt out of getting marketing messages, we will still be sure to send you transactional messages. For example, we may still contact you about your orders.
 
-\- Please note that if you opt-out as described above, (i) we will not be able to remove your PII from the databases of affiliates or third parties with which we have already shared your PII (i.e., to which we have already provided your PII as of the date that we implement your opt-out request), therefore you must contact such affiliates or third parties directly in order to opt-out of further marketing communications made directly from them or utilize the opt-out mechanisms set forth in their respective privacy policies or marketing messages; and (ii) you may still be presented new offers from HOB and/or its affiliates or third parties while you are within the Site, including offers from those third parties which you have opted-out of receiving direct offers; but in connection with each new offer within the Site you will have the right not to accept such offers. In the event you receive an offer from a third party through our Site, but choose not to accept it, your PII will not be shared.   
-  
----|---  
-  
-|  6\.  | 
+**You can modify information you have given us.** To correct or delete information or update account settings, log into your account and follow the instructions. We make changes as soon as we can. This information may stay in our backup files. If we cannot make the changes you want, we will let you know and explain why. If you contact us requesting access to your information, we will respond within 30 days.
 
-\- The Site is not directed to individuals under the age of thirteen (13), and we request that such individuals do not provide PII through the Site. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without the parent or guardian's consent by, for example, misrepresenting his or her age, that parent or guardian should contact us at [privacy@livenation.com](mailto:privacy@livenation.com). If HOB determines that it has collected personal information of children under the age of 13, HOB will immediately delete such information and any accounts believed to be held by children under 13. Please see our [Terms of Use](https://web.archive.org/support/termsofuse/) for additional information regarding the use of this Site by minors.   
-  
----|---  
-  
-|  7\.  | 
+**You can control cookies and tracking tools.** To learn how to manage how we - and our vendors - use cookies and other tracking tools, please click [here](http://concerts.livenation.com/h/ad-choices.html).
 
-\- This Site also gives you the opportunity to modify or remove PII that you have provided to us by way of this Site. You may do so by modifying your password-protected registered user information on the Site. To the extent that such information is stored in our databases, we will respond to your changes as soon as reasonably possible, although please understand that although this information, once deleted, is not available on the Site, that information may remain stored indefinitely in our backup and archival records. To the extent that such information is not stored in our databases, we cannot always ensure that these corrections or deletions will reach such other databases in a timely manner.   
-  
----|---  
-  
-|  8\.  | 
+**You can control tools on your mobile devices.** For example, you can turn off the GPS locator or push notifications on your phone. Each push notification has an "unsubscribe" link.
 
-\- HOB employs reasonable security measures consistent with standard industry practice, for PII collected through this Site, including physical, electronic and operational measures to maintain security and prevent unauthorized access. While HOB takes all appropriate steps to safeguard PII under our control, unfortunately, no data transmission over the Internet or method of storing data can be guaranteed to be 100% secure. As such, we cannot guarantee that PII supplied by users will not be accessed on our servers, or intercepted while being transmitted to us over the Internet. We assume no liability for any damages you may suffer as a result of interception, alteration or misuse of information during such transfers. If you have reason to believe that there has been any breach of the security of the Site, please contact us at [privacy@livenation.com](mailto:privacy@livenation.com). 
+## Your California Privacy Rights.
 
-Please remember that security of the username and password you create when you register with the Site is your responsibility; we recommend that you do not share them with anyone. If you share your username and password, you are providing access to your PII. You will be responsible for all uses of your registration, whether or not authorized by you. You agree to immediately notify HOB of any unauthorized use of your username or password.   
-  
----|---  
-  
-|  9\.  | 
+If you live in California and have an established business relationship with us, you can request a list of the personal information we have shared with third parties for their marketing purposes. We will also give you a list of the third parties that have received your information. You can make a request one time each year.
 
-\- Please note that this Privacy Policy applies solely to our online information gathering and dissemination practices in connection with the Site, and does not apply to any of our practices conducted offline.   
-  
----|---  
-  
-|  10\.  | 
+To exercise your rights, you can [email us](mailto:privacy@livenation.com) or write to us at the address below. Mention in your letter that you are making a "California Shine the Light" inquiry. We will respond within 30 days.
 
-\- If you have any questions concerning this Policy, you may send them by email to our Privacy Officer at [privacy@livenation.com](mailto:privacy@livenation.com). Please note that email communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your email correspondence with us. You must send any official correspondence via postal mail to:
+## These sites and apps are not intended for children.
 
-Live Nation Worldwide, Inc.  
+Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us [here](mailto:privacy@livenation.com). You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request."
+
+Parents, you can also learn more about how to protect children's privacy online [here](http://business.ftc.gov/privacy-and-security/children%E2%80%99s-privacy).
+
+## We use standard security measures.
+
+We have security measures in place to protect your information. The standard security measures we use will depend on the type of information collected. However, the Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords. If you think that an unauthorized account has been created using your name, contact us at the address below.
+
+## We are TRUSTe certified.
+
+TRUSTe has awarded Live Nation the TRUSTe's Privacy Seal. This means TRUSTe independently reviewed this Policy and the practices on Live Nation and Ticketmaster sites and apps to make sure they meet [TRUSTE's requirements](http://www.truste.com/privacy-program-requirements). The seal applies to our practices for information collected on U.S., UK, Ireland sites and apps.
+
+We keep personal information as long as it is necessary or relevant for our business. We also keep information to resolve disputes, enforce our agreements and as otherwise required by law.
+
+## We store information both in and outside of the United States.
+
+If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection of those in your country.
+
+Live Nation complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries. Live Nation has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Live Nation's certification, please visit <http://www.export.gov/safeharbor>.
+
+## We may link to third party sites or services we don't control.
+
+If you click on one of those links, you will be taken to websites we do not control. This policy does not apply to the privacy practices of those websites. Read the privacy policy of other websites carefully. We are not responsible for these third party sites.
+
+## Feel free to contact us if you have more questions.
+
+If you have any questions about this Policy or other privacy concerns, you can email us at [privacy@livenation.com](mailto:privacy@livenation.com). Please do not include your credit card number or other sensitive information in your email. You can also write us at:
+
+Live Nation Entertainment, Inc.  
 9348 Civic Center Drive  
 Beverly Hills, CA 90210  
-Attention: General Counsel   
-  
----|---  
-  
-|  11\.  | 
+Attention: Privacy Officer, Legal
 
-\- We appreciate your assistance in keeping your PII up to date and accurate. You are entitled to access, verify, amend and/or correct your PII collected by HOB. You are encouraged to contact our Privacy Officer at [privacy@livenation.com](mailto:privacy@livenation.com), or the above postal address to verify, correct or update your PII. 
+If you are not satisfied with our response, you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
-If you have a concern regarding the collection, use or disclosure of your PII by HOB, please contact our Privacy Officer. Your concern will be investigated and you will be notified as soon as possible of the outcome of the investigation and any action required as a result.   
-  
----|---
+## What we will do if there is an update to this policy.
+
+From time to time we may change our privacy practices. We will notify you of any material changes to this policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
+
+© 2013 Live Nation Entertainment, Inc. All rights reserved.
