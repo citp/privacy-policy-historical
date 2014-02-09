@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarsummit.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101083058id_/http%3A//www.scholarsummit.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarsummit.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209052736id_/http%3A//www.scholarsummit.com/privacy.asp) for the most accurate reproduction.*
 
 # ScholarSummit.com
 
