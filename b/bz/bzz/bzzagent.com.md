@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the bzzagent.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520193351id_/https%3A//www.bzzagent.com/pg/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bzzagent.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209215135id_/https%3A//www.bzzagent.com/pg/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - BzzAgent
 
 Effective: December 16th, 2011
 
 ### BzzAgent Privacy Policy
-
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.bzzagent.com/seal_m "Validate TRUSTe privacy certification")
 
 BzzAgent takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
@@ -122,10 +120,6 @@ If your service as a BzzAgent terminates with or without cause , you may contact
 ### Reporting
 
 Any improper collection or misuse of information in violation of this privacy policy or BzzAgent Terms of Use and should be reported by e-mail to [abuse@bzzagent.com](mailto:abuse@bzzagent.com) .
-
-### TRUSTe
-
-BzzAgent Inc has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements (<http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html>) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@bzzagent.com](mailto:privacy@bzzagent.com) . If you are not satisfied with our response you can contact TRUSTe here (<http://watchdog.truste.com/pvr.php?page=complaint>).
 
 ### Contact Us
 
