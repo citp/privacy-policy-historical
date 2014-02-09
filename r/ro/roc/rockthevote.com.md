@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockthevote.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027153810id_/http%3A//www.rockthevote.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockthevote.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209062535id_/http%3A//www.rockthevote.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Rock the Vote: Privacy Policy
 
