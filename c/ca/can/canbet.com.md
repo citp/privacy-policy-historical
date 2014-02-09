@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canbet.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628110912id_/http%3A//canbet.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canbet.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209050701id_/http%3A//canbet.com/help/privacy.aspx) for the most accurate reproduction.*
 
 # Online Sports Betting | Canbet.com | Privacy Policy
 
@@ -63,8 +63,8 @@ In order to communicate important account and promotional information, you will 
 ---  
 For further information, please contact our Privacy Officer through [mail@canbet.com](mailto:mail@canbet.com) if you have any questions and/or comments in relation to your rights under Privacy with Canbet.  
 ---  
-We are entitled to share the information we hold on you which includes personal data and betting history with the regulators, sporting bodies and other bodies, including the police, in order to investigate fraud, money laundering or sports integrity issues and to comply with our regulatory duties under the [UK Gambling Commission](http://www.gamblingcommission.gov.uk/) and the [Kahnawake Gaming Commission](https://certificates.gamingcommission.ca/KGCCertificates.aspx?id=0c9561ee-14e3-4a8d-b183-324f45b5cccc).
+We are entitled to share the information we hold on you which includes personal data and betting history with the regulators, sporting bodies and other bodies, including the police, in order to investigate fraud, money laundering or sports integrity issues and to comply with our regulatory duties under the [UK Gambling Commission](http://www.gamblingcommission.gov.uk/).
 
-_**Last updated, 22 March 2011**_  
+_**Last updated, 28th Novemeber 2013**_  
   
 ---
