@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the codementor.io privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911072052id_/http%3A//www.codementor.io/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codementor.io privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209202349id_/https%3A//www.codementor.io/privacy) for the most accurate reproduction.*
 
-# Codementor - Instant 1-on-1 Mentor for Programming & Design
+# Codementor | Instant 1:1 Help from Expert Mentors
 
 ### Codementor Privacy Policy
 
