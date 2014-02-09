@@ -1,28 +1,30 @@
-<!--The following is the downloaded HTML source of the centralnic.com privacy policy that was archived on 2013-04-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130424161228id_/https%3A//www.centralnic.com/support/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the centralnic.com privacy policy that was archived on 2014-02-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209084605id_/https%3A//www.centralnic.com/support/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
-    <title>Privacy Policy  | Support | CentralNic</title>
-    <meta name="description" content="CentralNic - The Global Domain Name Registry for eu.com, us.com, uk.com, ru.com, cn.com and more. Private, independent, customer focused company expanding the Internet domain name space.">
-    <meta name="keywords" content="centralnic, domain, registration, web, eu.com, us.com, cn.com, ru.com, new gtlds, new gtld program, apply for gtld, brand gtlds">
-    <meta name="robots" content="NOODP">
+	<title>Privacy Policy  | Support | CentralNic</title>
+	<meta name="description" content="CentralNic - The Global Domain Name Registry for eu.com, us.com, uk.com, ru.com, cn.com and more. Private, independent, customer focused company expanding the Internet domain name space.">
+	<meta name="keywords" content="centralnic, domain, registration, web, eu.com, us.com, cn.com, ru.com, new gtlds, new gtld program, apply for gtld, brand gtlds">
+	<meta name="robots" content="NOODP">
 
-    <link rel="stylesheet" href="/css/style.css?version=201303262" type="text/css" media="screen,projection">
-	<!--[if IE]><link rel="stylesheet" href="/css/style.ie.css?version=201303262" type="text/css" /><![endif]-->
-	<!--[if IE 8]><link rel="stylesheet" href="/css/style.ie8.css?version=201303262" type="text/css" /><![endif]-->
-	<!--[if IE 7]><link rel="stylesheet" href="/css/style.ie7.css?version=201303262" type="text/css" /><![endif]-->
-    <!--[if lte IE 6]><link rel="stylesheet" href="/css/style.ie6.css?version=201303262" type="text/css" /><![endif]-->
+	<link rel="stylesheet" href="/css/bootstrap.css" type="text/css" media="screen,projection">
+	<link rel="stylesheet" href="/css/style.css?version=20130902" type="text/css" media="screen,projection">
+	<!--[if IE]><link rel="stylesheet" href="/css/style.ie.css?version=20130902" type="text/css" /><![endif]-->
+	<!--[if IE 8]><link rel="stylesheet" href="/css/style.ie8.css?version=20130902" type="text/css" /><![endif]-->
+	<!--[if IE 7]><link rel="stylesheet" href="/css/style.ie7.css?version=20130902" type="text/css" /><![endif]-->
+	<!--[if lte IE 6]><link rel="stylesheet" href="/css/style.ie6.css?version=20130902" type="text/css" /><![endif]-->
 	<link rel="stylesheet" href="/css/easybox.min.css" type="text/css" media="screen">
 
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <link rel="shortcut icon" type="image/png" href="/img/favicon.png">
-    <link rel="home" title="Home" href="http://www.centralnic.com">
-    <link rel="search" title="Site Search" href="/support/search">
-    <link rel="sitemap" title="Site Map" href="/sitemap">
-    <link rel="alternate" type="application/rss+xml" title="Company News RSS" href="http://feeds.feedburner.com/CentralNic">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<link rel="shortcut icon" type="image/png" href="/img/favicon.png">
+	<link rel="home" title="Home" href="http://www.centralnic.com">
+	<link rel="search" title="Site Search" href="/support/search">
+	<link rel="sitemap" title="Site Map" href="/sitemap">
+	<link rel="alternate" type="application/rss+xml" title="Company News RSS" href="http://feeds.feedburner.com/CentralNic">
 
-    <script src="/js/jquery-1.7.1.min.js" type="text/javascript"></script>
-    <script src="/js/jquery.hoverIntent.js" type="text/javascript"></script>
+	<script src="/js/jquery-1.7.1.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.hoverIntent.js" type="text/javascript"></script>
+	<script src="/js/bootstrap.min.js" type="text/javascript"></script>
 
 	<!-- 	easy box lightbox plugin -->
 	<script type="text/javascript" src="/js/jquery.mousewheel.min.js"></script>
@@ -34,16 +36,16 @@
 		$(document).ready( function() {
 
 			function mainmenu() {
-				$(" #nav ul ").css({display: "none"}); // Opera Fix
+				//$(" #nav ul ").css({display: "none"}); // Opera Fix
 
 				var nav_hover = {
 					over: function () {
-						$(this).find('ul:first').show(0);
+						$(this).find('ul:first').addClass('active');
 						$(this).addClass("hoveractive");
 					},
-					timeout: 250,
+					timeout: 150,
 					out: function () {
-						$(this).find('ul:first').hide(0);
+						$(this).find('ul:first').removeClass('active');
 						$(this).removeClass("hoveractive");
 					}
 				};
@@ -51,226 +53,326 @@
 				$("#nav li").hoverIntent( nav_hover );
 			}
 			mainmenu();
-        });
+		});
 	</script>
 	<script type="text/javascript" src="https://use.typekit.com/ebb8pqp.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 	
   </head>
   <body id="www.centralnic.com">
-    <div id="container">
+	<div id="container">
 		<div id="header">
 			<h1><a href="/" accesskey="1">CentralNic: Privacy Policy</a></h1>
 			<div id="login-link"><a href="https://manage.centralnic.com" class="signin">Account Login</a></div>
 
-			<ul id="nav">
+			<ul id="nav" class="unstyled">
 															<li>
-					<a>TLD Services</a>
-						<ul style="display: none;">
-						<!-- 						<li><a href="/services">TLD Services</a></li> -->
-																			<li>
-																	<a href="/services/newtlds">New TLDs</a>
-															</li>
-																									<li>
-																	<a href="/services/dotbrandsolutions">DotBrand Solutions</a>
-															</li>
-																																																	<li>
-																	<a href="/services/cctlds">ccTLDs</a>
-															</li>
-																	</ul>
-					</li>
-																			<li>
 					<a>Domain Portfolio</a>
-						<ul style="display: none;">
-						<!-- 						<li><a href="/portfolio">Domain Portfolio</a></li> -->
+					<ul class="unstyled">
+																																		<li>
+																			<a href="/portfolio/newtld">New TLDs</a>
+																	</li>
+																												<li>
+																			<a href="/portfolio/cctlds">ccTLDs</a>
+																	</li>
+																												<li>
+																			<a href="/portfolio/slds">SLDs</a>
+																	</li>
+																												<li>
+																			<a class="nav_arrow">Sell our Domains</a>
+										<ul class="unstyled">
+																																				<li><a href="/portfolio/registrars/overview">Registrars</a>
+																											</li>
+						  																																										<li><a href="/portfolio/registrars/apply">How to Apply</a>
+																											</li>
+						  																																										<li><a href="/portfolio/registrars/list">Accredited Registrars</a>
+																											</li>
+						  																											</ul>
+																	</li>
+																																									<li>
+																			<a href="/portfolio/registration">Buy a Domain</a>
+																	</li>
+																		</ul>
+				</li>
 																			<li>
-																	<a href="/portfolio/overview">Overview</a>
-															</li>
-																									<li>
-																										<a class="nav_arrow">Registrars</a>
-									<ul style="display: none;">
-<!-- 										<li><a href="/portfolio/registrars">Registrars</a></li> -->
-																																	<li><a href="/portfolio/registrars/overview">Registrars</a></li>
-																																												<li><a href="/portfolio/registrars/apply">How to Apply</a></li>
-																																												<li><a href="/portfolio/registrars/list">Accredited Registrars</a></li>
-																														</ul>
-															</li>
-																									<li>
-																										<a class="nav_arrow">Domains</a>
-									<ul style="display: none;">
-<!-- 										<li><a href="/portfolio/domains">Domains</a></li> -->
-																																	<li><a href="/portfolio/domains/dotpw">New! .PW</a></li>
-																																												<li><a href="/portfolio/domains/registration">Registration</a></li>
-																																																																	<li><a href="/portfolio/domains/whois">Whois Service</a></li>
-																																												<li><a href="/portfolio/domains/authcode">Domain Transfer Codes</a></li>
-																																												<li><a href="/portfolio/domains/idn">Internationalised Domain Names (IDNs)</a></li>
-																														</ul>
-															</li>
-																	</ul>
-					</li>
+					<a>TLD Services</a>
+					<ul class="unstyled">
+																					<li>
+																			<a href="/services/newtlds">New TLDs</a>
+																	</li>
+																												<li>
+																			<a href="/services/dotbrandsolutions">DotBrand Solutions</a>
+																	</li>
+																																																						<li>
+																			<a href="/services/cctlds">ccTLDs</a>
+																	</li>
+																												<li>
+																			<a href="/services/newgtldfinancing">New gTLD Financing</a>
+																	</li>
+																		</ul>
+				</li>
 																			<li>
-					<a>Registry Technology</a>
-						<ul style="display: none;">
-						<!-- 						<li><a href="/registry">Registry Technology</a></li> -->
-																			<li>
-																	<a href="/registry/overview">Overview</a>
-															</li>
-																									<li>
-																	<a href="/registry/infrastructure">DNS Infrastructure</a>
-															</li>
-																									<li>
-																										<a class="nav_arrow">Benefits</a>
-									<ul style="display: none;">
-<!-- 										<li><a href="/registry/benefits">Benefits</a></li> -->
-																																	<li><a href="/registry/benefits/overview">Benefits</a></li>
-																																												<li><a href="/registry/benefits/models">Registry Models</a></li>
-																																												<li><a href="/registry/benefits/migration">Migration Process</a></li>
-																														</ul>
-															</li>
-																									<li>
-																										<a class="nav_arrow">DNSSEC Services</a>
-									<ul style="display: none;">
-<!-- 										<li><a href="/registry/dnssec">DNSSEC Services</a></li> -->
-																																	<li><a href="/registry/dnssec/consulting">DNSSEC Consulting Services</a></li>
-																																												<li><a href="/registry/dnssec/info">DNSSEC Deployment at CentralNic</a></li>
-																														</ul>
-															</li>
-																									<li>
-																										<a class="nav_arrow">Technical Solutions</a>
-									<ul style="display: none;">
-<!-- 										<li><a href="/registry/technical">Technical Solutions</a></li> -->
-																																	<li><a href="/registry/technical/overview">Overview</a></li>
-																																												<li><a href="/registry/technical/epp">EPP Service</a></li>
-																																												<li><a href="/registry/technical/toolkit">Toolkit API</a></li>
-																																												<li><a href="/registry/technical/thirdparty">Third Party Solutions</a></li>
-																														</ul>
-															</li>
-																									<li>
-																										<a class="nav_arrow">CentralNic Labs</a>
-									<ul style="display: none;">
-<!-- 										<li><a href="/registry/labs">CentralNic Labs</a></li> -->
-																																	<li><a href="/registry/labs/overview">Labs Overview</a></li>
-																																												<li><a href="/registry/labs/mod-whois">Apache WHOIS Server (mod_whoisng)</a></li>
-																																												<li><a href="/registry/labs/mod-epp">Apache EPP Server (mod_epp)</a></li>
-																																												<li><a href="/registry/labs/php">PHP EPP Library</a></li>
-																																												<li><a href="/registry/labs/preppi">Preppi</a></li>
-																																												<li><a href="/registry/labs/perl">Perl EPP Library</a></li>
-																																												<li><a href="/registry/labs/epp">Extensible Provisioning Protocol</a></li>
-																																																																																						<li><a href="/registry/labs/rdap">Registration Data Access Protocol (RDAP)</a></li>
-																														</ul>
-															</li>
-																	</ul>
-					</li>
+					<a>Our Technology</a>
+					<ul class="unstyled">
+																					<li>
+																			<a href="/registry/overview">Overview</a>
+																	</li>
+																												<li>
+																			<a href="/registry/infrastructure">DNS Infrastructure</a>
+																	</li>
+																												<li>
+																			<a class="nav_arrow">Benefits</a>
+										<ul class="unstyled">
+																																				<li><a href="/registry/benefits/overview">Benefits</a>
+																											</li>
+						  																																										<li><a href="/registry/benefits/models">Registry Models</a>
+																											</li>
+						  																																										<li><a href="/registry/benefits/migration">Migration Process</a>
+																											</li>
+						  																											</ul>
+																	</li>
+																												<li>
+																			<a class="nav_arrow">DNSSEC</a>
+										<ul class="unstyled">
+																																				<li><a href="/registry/dnssec/overview">Overview</a>
+																											</li>
+						  																																										<li><a href="/registry/dnssec/consulting">DNSSEC Consulting Services</a>
+																											</li>
+						  																																										<li><a href="/registry/dnssec/info">DNSSEC Deployment at CentralNic</a>
+																											</li>
+						  																																										<li><a href="/registry/dnssec/dps">DNSSEC Practice Statement</a>
+																											</li>
+						  																											</ul>
+																	</li>
+																												<li>
+																			<a class="nav_arrow">Technical Solutions</a>
+										<ul class="unstyled">
+																																				<li><a href="/registry/technical/overview">Overview</a>
+																											</li>
+						  																																										<li><a href="/registry/technical/epp">EPP Service</a>
+																											</li>
+						  																																																																	<li><a href="/registry/technical/thirdparty">Third Party Solutions</a>
+																											</li>
+						  																											</ul>
+																	</li>
+																												<li>
+																			<a class="nav_arrow">CentralNic Labs</a>
+										<ul class="unstyled">
+																																				<li><a href="/registry/labs/overview">Labs Overview</a>
+																											</li>
+						  																																										<li><a href="/registry/labs/mod-whois">Apache WHOIS Server (mod_whoisng)</a>
+																											</li>
+						  																																										<li><a href="/registry/labs/mod-epp">Apache EPP Server (mod_epp)</a>
+																											</li>
+						  																																										<li><a href="/registry/labs/php">PHP EPP Library</a>
+																											</li>
+						  																																										<li><a href="/registry/labs/preppi">Preppi</a>
+																											</li>
+						  																																										<li><a href="/registry/labs/perl">Perl EPP Library</a>
+																											</li>
+						  																																										<li><a href="/registry/labs/epp">Extensible Provisioning Protocol</a>
+																											</li>
+						  																																																																																								<li><a href="/registry/labs/rdap">Registration Data Access Protocol (RDAP)</a>
+																											</li>
+						  																											</ul>
+																	</li>
+																		</ul>
+				</li>
 																			<li>
 					<a>About</a>
-						<ul style="display: none;">
-						<!-- 						<li><a href="/company">About</a></li> -->
-																															<li>
-																	<a href="/company/profile">Profile</a>
-															</li>
-																																																																																																																																					<li>
-																										<a class="nav_arrow">Press</a>
-									<ul style="display: none;">
-<!-- 										<li><a href="/company/news">Press</a></li> -->
-																																																						<li><a href="/company/news/2013">Latest Press</a></li>
-																																												<li><a href="/company/news/2012">Press from 2012</a></li>
-																																												<li><a href="/company/news/2011">Press from 2011</a></li>
-																																												<li><a href="/company/news/2010">Press from 2010</a></li>
-																																												<li><a href="/company/news/2009">Press from 2009</a></li>
-																																												<li><a href="/company/news/2008">Press from 2008</a></li>
-																																												<li><a href="/company/news/2007">Press from 2007</a></li>
-																																												<li><a href="/company/news/2006">Press from 2006</a></li>
-																																												<li><a href="/company/news/2005">Press from 2005</a></li>
-																																												<li><a href="/company/news/2004">Press from 2004</a></li>
-																																												<li><a href="/company/news/2003">Press from 2003</a></li>
-																																												<li><a href="/company/news/2002">Press from 2002</a></li>
-																																												<li><a href="/company/news/2001">Press from 2001</a></li>
-																																												<li><a href="/company/news/2000">Press from 2000</a></li>
-																																												<li><a href="/company/news/feeds">News Feeds</a></li>
-																														</ul>
-															</li>
-																	</ul>
-					</li>
+					<ul class="unstyled">
+																																															<li>
+																			<a href="/company/profile">Profile</a>
+																	</li>
+																																																																			<li>
+																			<a href="/company/strategy">Strategy</a>
+																	</li>
+																																									<li>
+																			<a href="/company/market">The Market</a>
+																	</li>
+																																																																																													<li>
+																			<a class="nav_arrow">Press</a>
+										<ul class="unstyled">
+																																																											<li><a href="/company/news/2014">Latest Press</a>
+																											</li>
+						  																																										<li><a href="/company/news/2013">Press from 2013</a>
+																											</li>
+						  																																										<li><a href="/company/news/2012">Press from 2012</a>
+																											</li>
+						  																																										<li><a href="/company/news/2011">Press from 2011</a>
+																											</li>
+						  																																										<li><a href="/company/news/2010">Press from 2010</a>
+																											</li>
+						  																																										<li><a href="/company/news/2009">Press from 2009</a>
+																											</li>
+						  																																										<li><a href="/company/news/2008">Press from 2008</a>
+																											</li>
+						  																																										<li><a href="/company/news/2007">Press from 2007</a>
+																											</li>
+						  																																										<li><a href="/company/news/2006">Press from 2006</a>
+																											</li>
+						  																																										<li><a href="/company/news/2005">Press from 2005</a>
+																											</li>
+						  																																										<li><a href="/company/news/2004">Press from 2004</a>
+																											</li>
+						  																																										<li><a href="/company/news/2003">Press from 2003</a>
+																											</li>
+						  																																										<li><a href="/company/news/2002">Press from 2002</a>
+																											</li>
+						  																																										<li><a href="/company/news/2001">Press from 2001</a>
+																											</li>
+						  																																										<li><a href="/company/news/2000">Press from 2000</a>
+																											</li>
+						  																																										<li><a href="/company/news/feeds">News Feeds</a>
+																											</li>
+						  																											</ul>
+																	</li>
+																		</ul>
+				</li>
 																			<li class="active">
 					<a>Support</a>
-						<ul style="display: none;">
-						<!-- 						<li><a href="/support">Support</a></li> -->
-																																																																															<li>
-																	<a href="/support/faqs">FAQs</a>
-															</li>
-																																																																									<li>
-																	<a href="/support/manage">Account Manager</a>
-															</li>
-																																					<li>
-																	<a href="/support/doctor">Domain Doctor</a>
-															</li>
-																									<li>
-																										<a class="nav_arrow">Terms &amp; Conditions</a>
-									<ul style="display: none;">
-<!-- 										<li><a href="/support/terms">Terms &amp; Conditions</a></li> -->
-																																	<li><a href="/support/terms/domains">Terms and Conditions - Domain Names</a></li>
-																																																																	<li><a href="/support/terms/managed-dns">Terms and Conditions - Managed DNS</a></li>
-																														</ul>
-															</li>
-																																					<li>
-																										<a class="nav_arrow">Disputes</a>
-									<ul style="display: none;">
-<!-- 										<li><a href="/support/dispute">Disputes</a></li> -->
-																																	<li><a href="/support/dispute/overview">Overview</a></li>
-																																												<li><a href="/support/dispute/policy">Policy</a></li>
-																																												<li><a href="/support/dispute/supplemental-rules">WIPO Supplemental Rules for CentralNic Dispute Resolution Policy</a></li>
-																																												<li><a href="/support/dispute/rules">Rules</a></li>
-																																												<li><a href="/support/dispute/mediation-rules">Mediation Rules</a></li>
-																																												<li><a href="/support/dispute/procedure">Mediation Procedure</a></li>
-																																												<li><a href="/support/dispute/wipo-prices">Wipo Prices</a></li>
-																														</ul>
-															</li>
-																									<li>
-																	<a href="/support/privacy">Privacy Policy</a>
-															</li>
-																																																													<li>
-																	<a href="/support/registry-privacy">Registry Privacy Policy</a>
-															</li>
-																									<li>
-																	<a href="/support/abuse">Phishing &amp; Abuse</a>
-															</li>
-																																																	<li>
-																	<a href="/support/dnssec">DNSSEC Status Report</a>
-															</li>
-																									<li>
-																	<a href="/support/ssl">SSL Certificates</a>
-															</li>
-																	</ul>
-					</li>
+					<ul class="unstyled">
+																																																																																						<li>
+																			<a href="/support/faqs">FAQs</a>
+																	</li>
+																																																																																<li>
+																			<a href="/support/manage">Account Manager</a>
+																	</li>
+																																									<li>
+																			<a href="/support/doctor">Domain Doctor</a>
+																	</li>
+																												<li>
+																			<a class="nav_arrow">Terms &amp; Conditions</a>
+										<ul class="unstyled">
+																																				<li><a href="/support/terms/domains">Terms and Conditions - Domain Names</a>
+																											</li>
+						  																																																																	<li><a href="/support/terms/managed-dns">Terms and Conditions - Managed DNS</a>
+																											</li>
+						  																											</ul>
+																	</li>
+																												<li>
+																			<a class="nav_arrow">Disputes</a>
+										<ul class="unstyled">
+																																				<li><a href="/support/dispute/overview">Overview</a>
+																											</li>
+						  																																										<li><a href="/support/dispute/policy">Policy</a>
+																											</li>
+						  																																										<li><a href="/support/dispute/supplemental-rules">WIPO Supplemental Rules for CentralNic Dispute Resolution Policy</a>
+																											</li>
+						  																																										<li><a href="/support/dispute/rules">Rules</a>
+																											</li>
+						  																																										<li><a href="/support/dispute/mediation-rules">Mediation Rules</a>
+																											</li>
+						  																																										<li><a href="/support/dispute/procedure">Mediation Procedure</a>
+																											</li>
+						  																																										<li><a href="/support/dispute/wipo-prices">Wipo Prices</a>
+																											</li>
+						  																											</ul>
+																	</li>
+																																									<li>
+																			<a href="/support/privacy">Privacy Policy</a>
+																	</li>
+																																									<li>
+																			<a href="/support/registry-privacy">Registry Privacy Policy</a>
+																	</li>
+																																																						<li>
+																			<a href="/support/abuse">Phishing &amp; Abuse</a>
+																	</li>
+																																									<li>
+																			<a href="/support/dnssec">DNSSEC Status Report</a>
+																	</li>
+																												<li>
+																			<a href="/support/ssl">SSL Certificates</a>
+																	</li>
+																																									<li>
+																			<a href="/support/whois">Whois Service</a>
+																	</li>
+																												<li>
+																			<a href="/support/authcode">Domain Transfer Codes</a>
+																	</li>
+																												<li>
+																			<a class="nav_arrow">Internationalised Domain Names (IDNs)</a>
+										<ul class="unstyled">
+																																				<li><a href="/support/idn/overview">Overview</a>
+																											</li>
+						  																																										<li><a href="/support/idn/converter">IDN Converter</a>
+																											</li>
+						  																																										<li><a href="/support/idn/tables">IDN Tables</a>
+																											</li>
+						  																											</ul>
+																	</li>
+																		</ul>
+				</li>
+																			<li>
+					<a>Investors</a>
+					<ul class="unstyled">
+																					<li>
+																			<a href="/investors/investment">Investment Case</a>
+																	</li>
+																												<li>
+																			<a href="/investors/regulatory">Regulatory News</a>
+																	</li>
+																																									<li>
+																			<a href="/investors/reports">Reports, Presentation and Publications</a>
+																	</li>
+																																									<li>
+																			<a class="nav_arrow">Shareholder Tools</a>
+										<ul class="unstyled">
+																																				<li><a href="/investors/tools/major-shareholders">Major Shareholders</a>
+																											</li>
+						  																											</ul>
+																	</li>
+																												<li>
+																			<a class="nav_arrow">Corporate Governance</a>
+										<ul class="unstyled">
+																																				<li><a href="/investors/governance/overview">Board of Directors</a>
+																											</li>
+						  																																										<li><a href="/investors/governance/governance-policy">Governance Policy</a>
+																											</li>
+						  																											</ul>
+																	</li>
+																												<li>
+																			<a href="/investors/risks">Risks</a>
+																	</li>
+																																									<li>
+																			<a href="/investors/aim">AIM Rule 26</a>
+																	</li>
+																												<li>
+																			<a href="/investors/advisers">Advisers and Registrars</a>
+																	</li>
+																												<li>
+																			<a href="/investors/alerts">Register for investor alerts</a>
+																	</li>
+																		</ul>
+				</li>
 																			<li>
 					<a>Contact</a>
-						<ul style="display: none;">
-						<!-- 						<li><a href="/contact">Contact</a></li> -->
-																																											<li>
-																	<a href="/contact/getintouch">Get in touch</a>
-															</li>
-																									<li>
-																	<a href="/contact/careers">Careers</a>
-															</li>
-																	</ul>
-					</li>
+					<ul class="unstyled">
+																																															<li>
+																			<a href="/contact/getintouch">Get in touch</a>
+																	</li>
+																												<li>
+																			<a href="/contact/careers">Careers</a>
+																	</li>
+																		</ul>
+				</li>
 																					</ul>
 
-      </div><!-- header -->
+	  </div><!-- header -->
 
-      <div id="content">
-                  <div id="crumbs">
-            <div id="path">
-              <strong>Path:</strong>
-              <ul>
-                <li><a href="/">Home</a></li>
-                                  <li>&nbsp;/&nbsp;<a href="/support">Support</a></li>
-                                <li>&nbsp;/&nbsp;<a href="/support/privacy">Privacy Policy</a></li>
-              </ul>
-            </div><!-- path -->
-          </div><!-- crumbs -->
-        
-        
+	  <div id="content">
+				  <div id="crumbs">
+			<div id="path">
+			  <strong>Path:</strong>
+			  <ul>
+				<li><a href="/">Home</a></li>
+								  <li>&nbsp;/&nbsp;<a href="/support">Support</a></li>
+								<li>&nbsp;/&nbsp;<a href="/support/privacy">Privacy Policy</a></li>
+			  </ul>
+			</div><!-- path -->
+		  </div><!-- crumbs -->
+		
+		
 <h1 id="t-support">CentralNic Privacy Policy</h1>
 
 <p>CentralNic.com is committed to protecting the privacy of its users. The following outlines our privacy and data protection policy for this website.</p>
@@ -343,27 +445,28 @@
 <p>Due to changes in legislation and best practice or enhancements to functionality and content on CentralNic.com we may make changes to our privacy policy and will reflect those changes in this statement, so please check here from time to time.</p>
 
 
-        
-      </div><!-- content -->
+		
+	  </div><!-- content -->
 
-    </div><!-- container -->
+	</div><!-- container -->
 
-    <div id="footer">
-      <p>
-        <a href="http://www.domain.gr.com/">GR</a> <span class="pipe">|</span>
-                <a href="/sitemap">Site Map</a> <span class="pipe">|</span>
-        <a href="/support/privacy">Privacy Policy</a> <span class="pipe">|</span>
-        <span id="copyright"><a href="/support/intellectual-property">© 2013</a> <a href="/company/profile">CentralNic Ltd</a>. All Rights Reserved</span> <span class="pipe">|</span> Wednesday, April 24th, 2013.
-      </p>
-    </div><!-- footer -->
+	<div id="footer">
+	  <p>
+		<a href="http://www.domain.gr.com/">GR</a> <span class="pipe">|</span>
+				  <a rel="nofollow" href="/support/privacy?_PRINTABLE=1" id="printable">Printable Version</a> <span class="pipe">|</span>
+				<a href="/sitemap">Site Map</a> <span class="pipe">|</span>
+		<a href="/support/privacy">Privacy Policy</a> <span class="pipe">|</span>
+		<span id="copyright"><a href="/support/intellectual-property">© 2014</a> <a href="/company/profile">CentralNic Ltd</a>. All Rights Reserved</span> <span class="pipe">|</span> Sunday, February  9th, 2014.
+	  </p>
+	</div><!-- footer -->
 
-    <script type="text/javascript">
-      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-    <script type="text/javascript">
-      var pageTracker = _gat._getTracker("UA-3398405-8");
-      pageTracker._trackPageview();
-    </script>
+	<script type="text/javascript">
+	  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	  var pageTracker = _gat._getTracker("UA-3398405-8");
+	  pageTracker._trackPageview();
+	</script>
   
 <div id="easyOverlay" style="display: none;"></div><div id="easyCenter" style="display: none;"><div id="easyContainer"></div></div><div id="easyBottomContainer" style="display: none;"><div id="easyBottom"><div id="easyNavigation"><a id="easyPrevLink" href="#"></a><a id="easyNextLink" href="#"></a></div><a id="easyCloseLink" href="#"></a><a id="easySlideLink" href="#"></a><div id="easyCaption"></div><div id="easyNumber"></div><div style="clear: both;"></div></div></div></body></html>
