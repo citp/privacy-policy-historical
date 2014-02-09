@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mgmmirage.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023130345id_/http%3A//www.mgmmirage.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mgmmirage.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209050831id_/http%3A//www.mgmmirage.com/privacy.htm) for the most accurate reproduction.*
 
 # MGM Resorts International Privacy Statement
 
-MGM Resorts International values your patronage and respects your privacy. This Privacy Policy ("Policy") describes the information collection, use, protection, and sharing practices of MGM Resorts International and the MGM Resorts International web sites and properties described below (collectively, "us" "we" or “our”). You may click [here](https://web.archive.org/web/20131023130345id_/http%3A//www.mgmmirage.com/privacy_faq.htm) to view Frequently Asked Questions about our Policy. If you have any questions or concerns about this Policy, please contact us at [privacy@mgmresorts.com](mailto:privacy@mgmresorts.com).  
+MGM Resorts International values your patronage and respects your privacy. This Privacy Policy ("Policy") describes the information collection, use, protection, and sharing practices of MGM Resorts International and the MGM Resorts International web sites and properties described below (collectively, "us" "we" or “our”). You may click [here](https://web.archive.org/web/20140209050831id_/http%3A//www.mgmmirage.com/privacy_faq.htm) to view Frequently Asked Questions about our Policy. If you have any questions or concerns about this Policy, please contact us at [privacy@mgmresorts.com](mailto:privacy@mgmresorts.com).  
 
 This Policy applies only to MGM Resorts International, the MGM Resorts International web sites that post this Policy (collectively, "MGM Web Sites"), and the following resorts, casinos and properties (collectively, "MGM Resorts"): 
 
@@ -12,6 +12,7 @@ Bellagio in Las Vegas, Nevada
 Circus Circus in Las Vegas, Nevada   
 Circus Circus in Reno, Nevada  
 CityCenter Residential Division in Las Vegas, Nevada  
+Delano Las Vegas  
 Excalibur in Las Vegas, Nevada   
 Gold Strike in Jean, Nevada  
 Gold Strike Resort in Tunica, Mississippi  
@@ -44,7 +45,7 @@ We collect information from a variety of sources and in a variety of ways, inclu
 
 **Wi-Fi and Location Information.** When you use Wi-Fi services we make available at MGM Resorts, we might collect information (directly or through third parties) about the web sites you visit, the type of device and browser you are using, your device identification number, bandwidth used, session time, etc. With your consent, we might also collect information about your precise physical location within and around MGM Resorts for marketing purposes.         
 
-**Device and Browser Information.** When you visit MGM Web Sites, we might collect information about the type of device and browser you are using, the unique number assigned to your server or Internet connection, your geographic location, and your interactions with the MGM Web Sites. We may also use “cookies” and similar technologies to help us recognize and serve you better. For information on cookies, click [here](https://web.archive.org/web/20131023130345id_/http%3A//www.mgmmirage.com/privacy_cookies.htm). Third-party advertising companies that work with us may also use cookies and similar technologies to collect information at MGM Web Sites and other web sites for a variety of purposes including providing you with advertisements that are likely to be of interest to you. This type of ad customization is sometimes referred to as online behavioral advertising. For more details about cookies, web beacons, and similar technologies that may be used by third-party advertising companies, click [here](http://www.networkadvertising.org/). If you would like more information about your choices concerning behavioral advertising, including how you may opt-out of some uses of information collected by members of the Network Advertising Initiative that may collect information at the MGM Web Sites, click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
+**Device and Browser Information.** When you visit MGM Web Sites, we might collect information about the type of device and browser you are using, the unique number assigned to your server or Internet connection, your geographic location, and your interactions with the MGM Web Sites. We may also use “cookies” and similar technologies to help us recognize and serve you better. For information on cookies, click [here](https://web.archive.org/web/20140209050831id_/http%3A//www.mgmmirage.com/privacy_cookies.htm). Third-party advertising companies that work with us may also use cookies and similar technologies to collect information at MGM Web Sites and other web sites for a variety of purposes including providing you with advertisements that are likely to be of interest to you. This type of ad customization is sometimes referred to as online behavioral advertising. For more details about cookies, web beacons, and similar technologies that may be used by third-party advertising companies, click [here](http://www.networkadvertising.org/). If you would like more information about your choices concerning behavioral advertising, including how you may opt-out of some uses of information collected by members of the Network Advertising Initiative that may collect information at the MGM Web Sites, click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 **Social Media Information.** When you use integrated social media features on MGM Web Sites, mobile applications, or other social media websites, we may obtain information such as your name and e-mail address.  
 
@@ -117,10 +118,10 @@ We are not responsible for the information collection or privacy practices of ot
 
 ## VII. PERSONS UNDER AGES 18 AND 21 
 
-Certain of our areas and activities are intended for persons 21 or older. If you are under 21, you may not access or attempt to access any areas or participate in any activities that are restricted to persons 21 or older. We do not knowingly collect or allow the collection of personal information from persons under 18. If you are the parent or guardian of a person under 18 and believe that the person has provided us with personal information, you may contact us at [privacy@mgmresorts.com](https://web.archive.org/web/20131023130345id_/http%3A//www.mgmmirage.com/privacy@mgmresorts.com) and request that it be deleted from our marketing database. 
+Certain of our areas and activities are intended for persons 21 or older. If you are under 21, you may not access or attempt to access any areas or participate in any activities that are restricted to persons 21 or older. We do not knowingly collect or allow the collection of personal information from persons under 18. If you are the parent or guardian of a person under 18 and believe that the person has provided us with personal information, you may contact us at [privacy@mgmresorts.com](https://web.archive.org/web/20140209050831id_/http%3A//www.mgmmirage.com/privacy@mgmresorts.com) and request that it be deleted from our marketing database. 
 
 ## VIII. CHANGES TO THIS POLICY 
 
 We reserve the right to revise this Policy at any time without notice. When this Policy is revised in a material way, notice will be posted on the MGM Web Sites along with the revised Policy.
 
-EFFECTIVE: July 24, 2013 
+EFFECTIVE: November 1, 2013 
