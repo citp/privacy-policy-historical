@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the prnewsonline.com privacy policy that was archived on 2013-10-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131028042722id_/http%3A//www.prnewsonline.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prnewsonline.com privacy policy that was archived on 2014-02-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209185259id_/http%3A//www.prnewsonline.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:addthis="http://www.addthis.com/help/api-spec" prefix="og: http://ogp.me/ns#"><head>
 <meta name="google-site-verification" content="VDe3ULvxv40m7E46uVDdJIzYkFUMO431T-inWiY77kM">
 <meta charset="UTF-8">
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0017/1502.js?438995" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/23dd7bc0fd699dbe40b6134ff074a900caafdceb.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>Privacy Policy | PR NewsPR News</title>
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0017/1502.js?438995" async="" type="text/javascript"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/23dd7bc0fd699dbe40b6134ff074a900caafdceb.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>Privacy Policy | PR NewsPR News</title>
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="http://www.prnewsonline.com/xmlrpc.php">
 <link rel="SHORTCUT ICON" href="/wp-content/themes/prnewsonline/images/favicon.ico">
@@ -196,9 +196,20 @@ jQuery(document).ready(function() {
 });
 
 </script>
-<script async="" type="text/javascript" src="http://disqus.com/forums/prnewsonline/count.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1090752-15']);
+  _gaq.push(['_setDomainName', 'prnewsonline.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script async="" type="text/javascript" src="http://disqus.com/forums/prnewsonline/count.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
-<body class="page page-id-92163 page-template-default custom-background">
+<body class="page page-id-92163 page-template page-template-awards-page-php custom-background">
 <div id="wrapper" class="hfeed">
 	<div id="header">
 
@@ -267,10 +278,43 @@ jQuery(document).ready(function() {
 
 		<a href="http://www.prnewsonline.com" title="For Smart Communicators" class="local-link"><div id="logo"></div></a>
 
+		<script type="text/javascript">
+			jQuery(document).ready(function(){
+				console.log('ready');
+				//jQuery("#redirection").val("http://www.prnewsonline.com/mailinglist.htm");
+				jQuery("#esignup").click(function(){
+					jQuery("#redirection").val("http://www.prnewsonline.com/mailinglist/?email=" + jQuery("#email").val());
+					if(!is_valid_email(jQuery("#email").val())) {
+						alert("Invalid email...");
+						return false;
+					}
+				});
+			});
+
+			function is_valid_email(email){
+				filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+				var atpos=email.indexOf("@");
+				var dotpos=email.lastIndexOf(".");
+				if (atpos<1 || dotpos<atpos+2 || dotpos+2>=x.length) {
+				  return false;
+				}
+				return true;
+			}
+		</script>
+ 
 		<div id="get-alerts">Get PR Industry Alerts
-			<form method="get" name="subscribe" action="/mailinglist/">
-				<input type="text" name="email" size="24" value="Email Address ..." onfocus="if(this.value == 'Email Address ...') { this.value = ''; }">
-				<input type="submit" alt="submit" value="sign me up">
+			<form action="http://www.elabs3.com/functions/mailing_list.html" method="post" name="UPTml225602" onsubmit="return (!(UPTvalidateform(document.UPTml225602)));">
+				<input type="hidden" name="submitaction" value="3">
+				<input type="hidden" name="mlid" value="225602">
+				<input type="hidden" name="siteid" value="669271">
+				<input type="hidden" name="tagtype" value="q2">
+				<input type="hidden" name="demographics" value="-1">
+				<input type="hidden" name="redirection" value="http://www.prnewsonline.com/mailinglist" id="redirection">
+				<input type="hidden" name="append" value="on">
+				<input type="hidden" name="update" value="on">
+				<input type="hidden" name="activity" value="submit">
+				<input type="text" id="email" name="email" size="24" value="Email Address ..." onfocus="if(this.value == 'Email Address ...') { this.value = ''; }">
+				<input type="submit" alt="submit" value="sign me up" id="esignup">
 			</form>
 		</div>
 
@@ -279,7 +323,7 @@ jQuery(document).ready(function() {
 			<div class="content">
 				<h3>Latest Issue</h3>
 							
-										<p class="latest"><a href="http://www.prnewsonline.com/topics/measurement/2013/10/21/how-to-demystify-the-power-of-big-data/" class="local-link">How To Demystify The Power of Big Data</a></p>
+										<p class="latest"><a href="http://www.prnewsonline.com/topics/measurement/2014/02/03/big-data-the-most-powerful-pr-tool-that-communicators-are-not-using/" class="local-link">Big Data: The Most Powerful PR Tool That Communicators Are Not Using</a></p>
 													<p class="more"><a href="http://www.prnewsonline.com/subscriber-resource-center/" class="local-link">More »</a></p>
 				<p><a href="http://www.prnewsonline.com/about/info" class="local-link">Subscribe Now »</a></p>
 			</div>
@@ -323,7 +367,7 @@ jQuery(document).ready(function() {
 	<li id="menu-item-11573" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11573"><a href="http://www.prnewsonline.com/awards/winnerscircle" class="local-link">Winners Circle</a></li>
 	<li id="menu-item-14158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14158"><a href="http://www.prnewsonline.com/whitepapers/" class="local-link">Whitepapers</a></li>
 	<li id="menu-item-11664" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11664"><a href="http://www.prnewsonline.com/resource-center/prnews-in-the-classroom/" class="local-link">PR News in the Classroom</a></li>
-	<li id="menu-item-74677" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74677"><a href="http://www.prnewsonline.com/editorial_calendar" class="local-link">Editorial Calendar 2013</a></li>
+	<li id="menu-item-74677" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74677"><a href="http://www.prnewsonline.com/editorial_calendar" class="local-link">Editorial Calendar 2014</a></li>
 	<li id="menu-item-11665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11665"><a href="http://www.prnewsonline.com/resource-center/links/" class="local-link">PR Industry Links</a></li>
 	<li id="menu-item-11661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11661"><a href="http://www.prnewsonline.com/about/advertise" class="local-link">Advertise with PR News</a></li>
 	<li id="menu-item-11662" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11662"><a href="http://www.prnewsonline.com/help/" class="local-link">Contact Us</a></li>
@@ -335,18 +379,18 @@ jQuery(document).ready(function() {
 </ul>
 </li>
 </ul></div>		<div id="search-bar"><form role="search" method="get" id="searchform" action="http://www.prnewsonline.com/">
-    <div><label class="screen-reader-text" for="s">Search for:</label>
-    <input type="text" class="clearbox" value="Enter your search keywords..." name="s" id="s" onfocus="if(this.value == 'Enter your search keywords...') { this.value = ''; }">
-	<input type="submit" id="searchsubmit" value="search">
-    </div>
-    </form></div>
+		<div><label class="screen-reader-text" for="s">Search for:</label>
+		<input type="text" class="clearbox" value="Enter your search keywords..." name="s" id="s" onfocus="if(this.value == 'Enter your search keywords...') { this.value = ''; }">
+			<input type="submit" id="searchsubmit" value="search">
+		</div>
+		</form></div>
 	</div><!-- #access -->
 
 </div><!-- #masthead -->
 
 		<div id="message">
 			
-<p style="font-weight: bold;">»&nbsp;<a href="http://www.prnewsonline.com/media-relations2013" class="local-link">Register Today</a> for PR News'&nbsp;Media Relations Conference on December 12 in D.C. «<strong>&nbsp;</strong></p>
+<p style="font-weight: bold;">»&nbsp;<a href="http://www.prnewsonline.com/webinars/02-13-2014" class="local-link">Register Today</a> for PR News' Facebook Webinar for Communicators on Feb. 13 «<strong>&nbsp;</strong></p>
 		</div>
 
 </div><!-- #header -->
@@ -355,12 +399,12 @@ jQuery(document).ready(function() {
 
 		<div id="container">
 			<div id="content" role="main">
-			
+            
 
 				<div id="post-92163" class="post-92163 page type-page status-publish hentry">
-											<h1 class="entry-title">Privacy Policy</h1>
-					
-					<div class="entry-content">
+                
+					<div class="entry-content" style=" ">
+                    <div id="awards-page">
 						<div addthis:url="http://www.prnewsonline.com/privacy-policy" addthis:title="Privacy Policy " style="margin-bottom: 20px" class="addthis_toolbox addthis_default_style addthis_32x32_style">
 <a class="addthis_button_twitter"></a>
 <a class="addthis_button_facebook"></a>
@@ -370,7 +414,14 @@ jQuery(document).ready(function() {
 <a class="addthis_button_email"></a>
 <a class="addthis_button_more"></a>
 <a class="addthis_counter addthis_bubble_style"></a>
-</div><h3 style="color: rgb(51, 51, 51); font-family: Arial; font-size: 14px;"><strong>PRIVACY POLICY</strong></h3><p style="color: rgb(51, 51, 51); font-family: Arial; line-height: 15px;">At prnewsonline.com, we are dedicated to protecting your privacy. The information collected about you is used to process orders and to create a more personalized shopping experience. What information is collected? How do we use the information we collect? When you order, we need to know your name, e-mail address, mailing address, phone number, credit card number, and expiration date. This allows us to process and fulfill your order and to contact you of your order status—for example through a confirmation notice. We also collect e-mail addresses at various locations within the site, including when you order from the site so that we can send you any necessary e-mail messages related to your order. We monitor customer traffic patterns and site usage to hep us develop the design and layout of our online store and the products and services we offer. We do not share credit card information with third parties except for the purpose of processing payments for products you've ordered and as required by law.</p><p style="color: rgb(51, 51, 51); font-family: Arial; line-height: 15px;">How do we keep your customer information safe? When you place orders or access your account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. If at any time you would like us to delete any of your personal information on file, just e-mail&nbsp;<a href="mailto:clientservices@accessintel.com" rel="noreferrer" style="color: rgb(0, 166, 66); text-decoration: none;" title="[GMCP] Compose a new mail to clientservices@accessintel.com">clientservices@accessintel.com</a>, our customer service.</p><p style="color: rgb(51, 51, 51); font-family: Arial; line-height: 15px;">As you browse prnewsonline.com, advertising cookies will be placed on your computer so that we can understand what you are interested in.&nbsp;<a href="http://www.adroll.com/" style="color: rgb(0, 166, 66); text-decoration: none;" target="_blank" class="ext-link" onclick="this.target='_blank';">Our display advertising partner</a>, AdRoll, then enables us to present you with&nbsp;<a href="http://www.adroll.com/retargeting" style="color: rgb(0, 166, 66); text-decoration: none;" target="_blank" class="ext-link" onclick="this.target='_blank';">retargeting</a>&nbsp;advertising on other sites based on your previous interaction with prnewsonline.com. This technology allows them to develop our advertising so that it directly relates to offers that may be of interest to you. We do no allow AdRoll to collect personal information such as your name, email address, postal address or telephone number, nor are they allowed to use data that they collect for us for any other purpose. If however, you'd prefer not to receive relevant banner advertisements, you can visit this page to opt at any time, out of AdRoll and their partners' targeted advertising.</p><p style="color: rgb(51, 51, 51); font-family: Arial; line-height: 15px;">We are devoted to protecting your privacy. We do not sell, trade, or rent your personal information to others. By using this website you consent to the collection and use of the information you provide to PRNews and its affiliates.</p>																	</div><!-- .entry-content -->
+</div>
+<h3 style="color: #333333; font-family: Arial; font-size: 14px;"><strong>PRIVACY POLICY</strong></h3>
+<p style="color: #333333; font-family: Arial; line-height: 15px;">At prnewsonline.com, we are dedicated to protecting your privacy. The information collected about you is used to process orders and to create a more personalized shopping experience. What information is collected? How do we use the information we collect? When you order, we need to know your name, e-mail address, mailing address, phone number, credit card number, and expiration date. This allows us to process and fulfill your order and to contact you of your order status—for example through a confirmation notice. We also collect e-mail addresses at various locations within the site, including when you order from the site so that we can send you any necessary e-mail messages related to your order. We monitor customer traffic patterns and site usage to hep us develop the design and layout of our online store and the products and services we offer. We do not share credit card information with third parties except for the purpose of processing payments for products you've ordered and as required by law.</p>
+<p style="color: #333333; font-family: Arial; line-height: 15px;">How do we keep your customer information safe? When you place orders or access your account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. If at any time you would like us to delete any of your personal information on file, just e-mail&nbsp;<a style="color: #00a642; text-decoration: none;" title="[GMCP] Compose a new mail to clientservices@accessintel.com" href="mailto:clientservices@accessintel.com" rel="noreferrer">clientservices@accessintel.com</a>, our customer service.</p>
+<p style="color: #333333; font-family: Arial; line-height: 15px;">As you browse prnewsonline.com, advertising cookies will be placed on your computer so that we can understand what you are interested in.&nbsp;<a style="color: #00a642; text-decoration: none;" href="http://www.adroll.com/" target="_blank" class="ext-link" onclick="this.target='_blank';">Our display advertising partner</a>, AdRoll, then enables us to present you with&nbsp;<a style="color: #00a642; text-decoration: none;" href="http://www.adroll.com/retargeting" target="_blank" class="ext-link" onclick="this.target='_blank';">retargeting</a>&nbsp;advertising on other sites based on your previous interaction with prnewsonline.com. This technology allows them to develop our advertising so that it directly relates to offers that may be of interest to you. We do no allow AdRoll to collect personal information such as your name, email address, postal address or telephone number, nor are they allowed to use data that they collect for us for any other purpose. If however, you'd prefer not to receive relevant banner advertisements, you can visit this page to opt at any time, out of AdRoll and their partners' targeted advertising.</p>
+<p style="color: #333333; font-family: Arial; line-height: 15px;">We are devoted to protecting your privacy. We do not sell, trade, or rent your personal information to others. By using this website you consent to the collection and use of the information you provide to PRNews and its affiliates.</p>
+												                        </div>
+					</div><!-- .entry-content -->
 				</div><!-- #post-## -->
 
 
@@ -391,24 +442,33 @@ jQuery(document).ready(function() {
 
         
         <div style="border-bottom: 5px solid #8bc90d !important; background: white;">
-        <p style="padding: 5px 5px 0px 5px; color: black;"><i>"What lies behind us and what lies before us are tiny matters compared to what lies within us. "</i><br><span style="float: right; color: #666;"><strong>-Henry Haskins</strong></span><br></p>
+        <p style="padding: 5px 5px 0px 5px; color: black;"><i>"Having imagination, it takes you an hour to write a paragraph that, if you were unimaginative, would take you only a minute. "</i><br><span style="float: right; color: #666;"><strong>-Franklin Adams</strong></span><br></p>
         <div style="padding-left:5px !important; clear: both;"><a href="http://www.prnewsonline.com/quotes/" class="local-link">View All Quotes</a></div>
         </div>
-        <div class="widget-container widget-news" style="margin-top:10px;"><div id="widget-news">
+        <div class="widget-container widget-news" style="margin-top: 10px;">
+<div id="widget-news">
 <div class="more"><a href="http://www.prnewsonline.com/pr-press" class="local-link">All PR Press »</a></div>
 <div class="content clearfix">
-<div><a class="left local-link" href="http://www.prnewsonline.com/pr-measurement-guidebook-vol7"><img alt="PR Measurement Guidebook, Vol. 7" src="http://www.prnewsonline.com/wp-content/uploads/2012/12/PRNews_PRMeasurement_vol7_Digital_thumbnail.png" width="120"></a></div>
-<ul class="right"><li>The freshest and smartest ideas for measuring the impact of public relations</li><li>Tie your efforts to key business objectives and performance indicators</li><li>Bringing together the craft of communication with the discipline of measurement</li></ul><p align="center" style="margin: 0;"><a class="button-primary local-link" href="http://www.prnewsonline.com/pr-measurement-guidebook-vol7">Buy Now</a></p></div></div>
-<div id="widget-news-footer">&nbsp;</div></div>
+<div><a class="left local-link" href="http://www.prnewsonline.com/crisis-management-guidebook-vol7"><img class=" wp-image-110363 alignleft" alt="PRNews_CrisisManagement_Digital_vol7_thumbnail" src="http://www.prnewsonline.com/wp-content/uploads/2012/12/PRNews_CrisisManagement_Digital_vol7_thumbnail.png" width="120"></a></div>
+<ul class="right">
+	<li>The latest research, case studies and expertise from the field of crisis management.</li>
+	<li>Chapters include: The Crisis Plan, Social Media and Case Studies.</li>
+	<li>Covers issues ranging from internal communications to social media tactics to handling the press.</li>
+</ul>
+<p style="margin: 0;" align="center"><a class="button-primary local-link" href="http://www.prnewsonline.com/crisis-management-guidebook-vol7">Buy Now</a></p>
+</div>
+</div>
+<div id="widget-news-footer"></div>
+</div>
 <div class="widget-container widget-jobs">
 <div id="widget-jobs">
 <div class="more"><a class="local-link" href="http://jobs.prnewsonline.com/c/agents/index.cfm?site_id=1691">Free PR Job Alert »</a></div>
 <div class="more"><a class="local-link" href="http://jobs.prnewsonline.com/c/search_results.cfm?site_id=1691">View All Jobs »</a></div>
 <div class="content">
 <ul>
-	<li><a href="http://jobs.prnewsonline.com/jobseeker/job/15231685/" class="local-link">Media Manager - WorldatWork - Washington, D.C.</a></li>
-	<li><a href="http://jobs.prnewsonline.com/jobseeker/job/15232061/Communications%20Intern/MorganMyers/?vnet=0" class="local-link">Communications Intern - MorganMyers - Waukesha, WI</a></li>
-	<li><a href="http://jobs.prnewsonline.com/jobseeker/job/15231789/Global%20PR%20Director/SAGE%20Publication/?vnet=0&amp;str=26" class="local-link">Global PR Director - SAGE Publication - Thousand Oaks, CA</a></li>
+	<li><a href="http://www.jobtarget.com/c/job.cfm?job=16387804&amp;vnet=0&amp;submit=Search&amp;site_id=1691" class="ext-link" onclick="this.target='_blank';">Corporate Media Relations Specialist - Wiley - NJ</a></li>
+	<li><a href="http://www.jobtarget.com/c/job.cfm?job=16379486&amp;vnet=0&amp;submit=Search&amp;site_id=1691" class="ext-link" onclick="this.target='_blank';">Graphic Designer &amp; Marketing Coordinator - ManagementPlus - UT</a></li>
+	<li><a href="http://www.jobtarget.com/c/job.cfm?job=16291050&amp;vnet=0&amp;submit=Search&amp;site_id=1691" class="ext-link" onclick="this.target='_blank';">Marketing &amp; Social Media Manager - HMEA - MA</a></li>
 </ul>
 </div>
 <hr>
@@ -419,16 +479,13 @@ jQuery(document).ready(function() {
 <div class="widget-container widget-learn-network-connect" id="widget-learn-network-connect">
 <div class="content">
 <ul>
-	<li><span style="font-size: 12px;"><a href="http://www.prnewsonline.com/contest/10-2013" class="local-link">Enter PR News' Celebrity Makeover Poll Today!</a></span></li>
-	<li><span style="font-size: 12px;"><a href="http://www.prnewsonline.com/contest/10-2013b" class="local-link">PR News' Social Media Poll - Win a $50 Gift Card!</a></span></li>
-	<li><span style="font-size: 12px;"><a href="http://www.prnewsonline.com/digital-pr-awards-luncheon2013" class="local-link">Digital PR Awards Luncheon</a><br> November 5 | NYC</span></li>
-	<li><span style="font-size: 12px;"><a href="http://www.prnewsonline.com/conferences/visual-workshop-NY2013" class="local-link">Visual Storytelling Workshop</a><br> November 5 | NYC</span></li>
-	<li><span style="font-size: 12px;"><a href="http://www.prnewsonline.com/awards/csr2013" class="local-link">CSR Awards</a><br> Entry Deadline: November 8</span></li>
-	<li><span style="font-size: 12px;"><a href="http://www.prnewsonline.com/webinars/11-14-2013" class="local-link">Facebook Webinar</a><br>November 14</span></li>
-	<li><span style="font-size: 12px;"><a href="http://www.prnewsonline.com/writing-boot-camp-Chicago2013" class="local-link">Writing Boot Camp</a><br> November 21 | Chicago</span></li>
-	<li><span style="font-size: 12px;"><a href="http://www.prnewsonline.com/pr-people-awards-luncheon2013" class="local-link">PR People Awards Luncheon </a><br>December 10 | D.C. </span></li>
-	<li><span style="font-size: 12px;"><a href="http://www.prnewsonline.com/boot-camp-December2013" class="local-link">One-Day Boot Camp for Emerging PR Stars</a><br> December 11 | DC</span></li>
-	<li><span style="font-size: 12px;"><a href="http://www.prnewsonline.com/media-relations2013" class="local-link">Media Relations Conference</a><br> December 12 | DC</span></li>
+	<li><span style="font-size: 12px;"><a href="http://www.prnewsonline.com/open-house0214" class="local-link">Access PR News' Digital Open House!</a></span></li>
+	<li><span style="font-size: 12px;"><a href="http://www.prnewsonline.com/contests/2-2014b" class="local-link">Why I Love My Job Poll - Chance to Win $50 Gift Card</a></span></li>
+	<li><span style="font-size: 12px;"><a href="http://www.prnewsonline.com/webinars/02-13-2014" class="local-link">Facebook for Communicators Webinar</a><br>February 13</span></li>
+	<li><span style="font-size: 12px;"><a href="http://www.prnewsonline.com/nonprofit-workshop2014" class="local-link">Social Media for Associations and Nonprofits Workshop</a><br>February 26 | D.C.</span></li>
+	<li><span style="font-size: 12px;"><a href="http://www.prnewsonline.com/awards/nonprofit-luncheon2014" class="local-link">Nonprofit PR Awards Luncheon</a><br>February 26 | D.C.</span></li>
+	<li><span style="font-size: 12px;"><a href="http://www.prnewsonline.com/awards/agency-elite2014" class="local-link">PR Agency Elite Awards</a><br>Entry Deadline: March 14</span></li>
+	<li><span style="font-size: 12px;"><a href="http://www.prnewsonline.com/awards/platinum-pr-awards2014" class="local-link">Platinum PR Awards</a><br>Entry Deadline: May 9</span></li>
 </ul>
 </div>
 </div>
@@ -462,25 +519,51 @@ jQuery(document).ready(function() {
             
 <p>&nbsp;</p>
 <div style="margin-left: 40px;">
-<p><strong><em><span style="font-size: 20px;"><span style="font-family: georgia, serif;">Platinum PR Awards Luncheon </span></span></em></strong><br> <span style="font-family: Georgia; font-size: medium;">October 15 in NYC</span><br> <a href="http://www.prnewsonline.com/platinum-luncheon-2013/" class="local-link"><strong>Register</strong></a> »<br></p>
-<p><strong><em><span style="font-size: 20px;"><span style="font-family: georgia, serif;">PR News' Digital PR Summit</span></span></em></strong><br> <span style="font-size: 16px;"><span style="font-family: georgia, serif;"><span style="font-family: Georgia; font-size: medium;">October 16&nbsp;in NYC</span></span></span><br> <a href="http://www.prnewsonline.com/digital-pr-summit-Oct-16" class="local-link"><strong>Register</strong></a>&nbsp;»</p>
+<p><strong><em><span style="font-size: 20px;"><span style="font-family: georgia, serif;">Social Media Workshop for Associations &amp; Nonprofits</span></span></em></strong><br> <span style="font-family: Georgia; font-size: medium;">February 26 in Washington, D.C.</span><br> <a href="http://www.prnewsonline.com/nonprofit-workshop2014" class="local-link"><strong>Register</strong></a> »</p>
+<p><strong><em><span style="font-size: 20px;"><span><strong><em><span style="font-family: georgia, serif;">Nonprofit PR Awards Luncheon</span></em></strong></span></span></em></strong><br> <span style="font-size: 16px;"><span style="font-family: georgia, serif;"><span style="font-family: Georgia; font-size: medium;">February 26 in Washington, D.C.</span></span></span><br> <strong><a href="http://www.prnewsonline.com/awards/nonprofit-luncheon2014" class="local-link">Re</a><a href="http://www.prnewsonline.com/awards/nonprofit-luncheon2014" class="local-link">gister</a></strong><a href="http://www.prnewsonline.com/awards/nonprofit-luncheon2014" class="local-link">&nbsp;</a>»</p>
 </div>
 <p>&nbsp;</p>
           </div>
         </li>
 
         <!-- bottom sidebar widgets -->
-        <div id="the-list"><p class="more"><a href="/awards/winnerscircle" class="local-link">More Lists »</a></p><hr>
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody>
-
-<tr><td style="vertical-align: top; padding-bottom: 0px;" valign="top"><a class="thickbox local-link" href="http://www.prnewsonline.com/wp-content/uploads/2012/03/537833_10150828380591972_328178635_n.jpg"><img alt="" class="alignleft size-thumbnail wp-image-13434" height="106" src="http://www.prnewsonline.com/wp-content/uploads/2012/12/Screen-Shot-2012-12-20-at-4.37.53-PM.jpg" title="537833_10150828380591972_328178635_n" width="106"></a></td><td style="vertical-align: top;" td="" valign="top"><strong><a href="/CSRawards2012/" class="local-link">CSR Awards Winners</a></strong><ul style="list-style: disc outside url(http://www.prnewsonline.com/wp-content/uploads/2012/12/arrow1.png); padding-left: 0px"><li>CSR A List</li><li>CSR Professionals of the Year</li></ul><p class="all"><span style="font-size:14px;"><a href="/CSRawards2012/" class="local-link">See all &nbsp;»</a></span></p></td></tr>
-
-<tr><td style="vertical-align: top;" valign="top"><a class="thickbox local-link" href="http://www.prnewsonline.com/wp-content/uploads/2012/03/422488_10150743330911972_1972910055_n.jpg"><img alt="" class="alignleft size-thumbnail wp-image-13433" height="106" src="http://www.prnewsonline.com/wp-content/uploads/2012/12/Screen-Shot-2012-12-20-at-4.37.44-PM.png" title="422488_10150743330911972_1972910055_n" width="106"></a></td><td style="vertical-align: top;" valign="top"><strong><a href="/nonprofitPRawards2012/" class="local-link">Nonprofit PR Awards</a></strong><ul style="list-style: disc outside url(http://www.prnewsonline.com/wp-content/uploads/2012/12/arrow1.png); padding-left: 0px"><li>Advocacy Campaign and Lobbying Efforts</li><li>Association/Nonprofit Team of the Year</li></ul><p class="all"><span style="font-size:14px;"><a href="/nonprofitPRawards2012" class="local-link">See all &nbsp;»</a></span></p></td></tr>
-
-<tr><td style="vertical-align: top;" valign="top"><a class="thickbox local-link" href="http://www.prnewsonline.com/wp-content/uploads/2012/03/424901_10151347671471972_432138616_n.jpg"><img alt="" class="alignleft size-thumbnail wp-image-13432" height="106" src="http://www.prnewsonline.com/wp-content/uploads/2012/12/Screen-Shot-2012-12-20-at-4.37.37-PM.png" title="424901_10151347671471972_432138616_n" width="106"></a></td><td><strong><a href="/awards/social-media-awards2013/" class="local-link">Social Media Icon Award Winners</a></strong><ul style="list-style: disc outside url(http://www.prnewsonline.com/wp-content/uploads/2012/12/arrow1.png); padding-left: 0px"><li>Best Social Media Team</li><li>Facebook Marketing Campaign</li></ul><p class="all"><span style="font-size:14px;"><a href="/awards/social-media-awards2013/" class="local-link">See all &nbsp;»</a></span></p></td></tr>
-
-</tbody></table></div><p class="more"><a href="/awards/winnerscircle" class="local-link">More Lists »</a></p>            
+        
+<div id="the-list">
+<p class="more"><a href="/awards/winnerscircle" class="local-link">More Lists »</a></p>
+<hr>
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="vertical-align: top;" valign="top"><img alt="IMG_1972" src="http://www.prnewsonline.com/wp-content/uploads/2012/03/PR-People.jpg" width="129" height="129"></td>
+<td><a href="http://www.prnewsonline.com/featured/2013/12/10/pr-news-announces-winners-of-2013-pr-people-awards-2/" class="local-link"><strong>PR People Award Winners</strong></a>
+<ul style="list-style: disc outside url('http://www.prnewsonline.com/wp-content/uploads/2012/12/arrow1.png'); padding-left: 0px;">
+	<li><a href="http://www.prnewsonline.com/water-cooler/2013/12/10/pr-news-honors-2013-pr-people-hall-of-fame-inductees/" class="local-link">PR People Hall of Fame</a></li>
+	<li>Digital Communicator of the Year</li>
+</ul>
+<p class="all"><a href="http://www.prnewsonline.com/winners-for-pr-people-awards-2/" class="local-link"><span style="font-size: 14px;">See all &nbsp;»</span></a></p></td>
+</tr>
+<tr>
+<td style="vertical-align: top;" valign="top"><img alt="IMG_1972" src="http://www.prnewsonline.com/wp-content/uploads/2012/03/PTW.jpg" width="129" height="129"></td>
+<td><a href="http://www.prnewsonline.com/winners-of-people-to-watch-awards/" class="local-link"><strong>People-to-Watch in PR Honorees</strong></a>
+<ul style="list-style: disc outside url('http://www.prnewsonline.com/wp-content/uploads/2012/12/arrow1.png'); padding-left: 0px;">
+	<li>Rising PR Stars 30 &amp; Under</li>
+	<li>Agencies &amp; Corporations</li>
+</ul>
+<p class="all"><a href="http://www.prnewsonline.com/winners-of-people-to-watch-awards/" class="local-link"><span style="font-size: 14px;">See all &nbsp;»</span></a></p></td>
+</tr>
+<tr>
+<td style="vertical-align: top;" valign="top"><img alt="IMG_1972" src="http://www.prnewsonline.com/wp-content/uploads/2012/03/IMG_1972-150x150.jpg" width="129" height="129"></td>
+<td><a href="http://www.prnewsonline.com/digitalpr-2013" class="local-link"><strong>Digital PR Award Winners</strong></a>
+<ul style="list-style: disc outside url('http://www.prnewsonline.com/wp-content/uploads/2012/12/arrow1.png'); padding-left: 0px;">
+	<li>Digital PR Campaign</li>
+	<li>Digital Communicator of the Year</li>
+</ul>
+<p class="all"><a href="http://www.prnewsonline.com/digitalpr-2013" class="local-link"><span style="font-size: 14px;">See all &nbsp;»</span></a></p></td>
+</tr>
+</tbody></table>
+</div>
+<p class="more"><a href="/awards/winnerscircle" class="local-link">More Lists »</a></p>
+            
       </ul>
 
     </div><style type="text/css" media="all">#avatar_footer { display: none; } /* Change this in Users > Avatars. */ </style><div id="avatar_footer">Avatars by <a href="http://www.sterling-adventures.co.uk/blog/" class="ext-link" onclick="this.target='_blank';">Sterling Adventures</a></div>	</div><!-- #primary -->
@@ -595,7 +678,7 @@ jQuery(document).ready(function() {
 	<div id="site-info">
 		<div class="wrap">
 	    	<div id="footer-logo"></div>
-	 		<p class="fl">© 2013, Access Intelligence, LLC. All rights reserved.</p>
+	 		<p class="fl">© 2014, Access Intelligence, LLC. All rights reserved.</p>
 	 	</div>
 	</div><!-- #site-info -->
 
@@ -625,17 +708,7 @@ jQuery(document).ready(function() {
 	</script>
 
 </div><!-- end #footer -->
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-1090752-15']);
-  _gaq.push(['_setDomainName', 'prnewsonline.com']);
-  _gaq.push(['_trackPageview']);
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>    <script type="text/javascript">
+    <script type="text/javascript">
     // <![CDATA[
         var disqus_shortname = 'prnewsonline';
         (function () {
@@ -687,14 +760,13 @@ var pollsL10n = {"ajax_url":"http:\/\/www.prnewsonline.com\/wp-admin\/admin-ajax
 	</div>
 </div>
 
-
 <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","7b3e015db0","2256343","Y1xQYEQEDBBYBhVaDVoWZ0ZfSgsNXQAZHRJcSQ==",0,7,new Date().getTime(),"","","","",""]);</script>
 
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using memcached
-Database Caching 34/52 queries in 0.078 seconds using memcached
-Object Caching 4412/4431 objects using memcached
+Database Caching 218/237 queries in 0.385 seconds using memcached
+Object Caching 4330/4847 objects using memcached
 
- Served from: www.prnewsonline.com @ 2013-10-28 00:16:39 by W3 Total Cache --><script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+ Served from: www.prnewsonline.com @ 2014-02-09 13:37:58 by W3 Total Cache --><script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
