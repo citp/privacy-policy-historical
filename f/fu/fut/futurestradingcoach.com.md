@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futurestradingcoach.com privacy policy that was archived on 2010-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100309165617id_/http%3A//www.futurestradingcoach.com/futures-trading-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurestradingcoach.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209161251id_/http%3A//www.futurestradingcoach.com/futures-trading-privacy.html) for the most accurate reproduction.*
 
 # The Futures Trading Coach Privacy Policy
 
@@ -52,6 +52,8 @@ Look for Web site privacy policies. Know how your child's information is treated
 
 [Check out the FTC's site here](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html) for more tips on protecting children's privacy online. 
 
+**Cookie Opt-Out**
+
 **Disclaimer**
 
 This policy may be changed at any time at Futures Trading Coach.com's discretion. If we should update this policy, we will post the updates to this page on our Website. This policy was revised November 7, 2006. 
@@ -69,6 +71,3 @@ PA 19406**
 **U.S. Government Required Disclaimer -** Commodity Futures Trading Commission Futures and Options trading has large potential rewards, but also large potential risk. You must be aware of the risks and be willing to accept them in order to invest in the futures and options markets. Don't trade with money you can't afford to lose. This is neither a solicitation nor an offer to Buy/Sell futures or options. No representation is being made that any account will or is likely to achieve profits or losses similar to those discussed on this web site. The past performance of any trading system or methodology is not necessarily indicative of future results. 
 
 **CFTC RULE 4.41 -** HYPOTHETICAL OR SIMULATED PERFORMANCE RESULTS HAVE CERTAIN LIMITATIONS. UNLIKE AN ACTUAL PERFORMANCE RECORD, SIMULATED RESULTS DO NOT REPRESENT ACTUAL TRADING. ALSO, SINCE THE TRADES HAVE NOT BEEN EXECUTED, THE RESULTS MAY HAVE UNDER-OR-OVER COMPENSATED FOR THE IMPACT, IF ANY, OF CERTAIN MARKET FACTORS, SUCH AS LACK OF LIQUIDITY. SIMULATED TRADING PROGRAMS IN GENERAL ARE ALSO SUBJECT TO THE FACT THAT THEY ARE DESIGNED WITH THE BENEFIT OF HINDSIGHT. NO REPRESENTATION IS BEING MADE THAT ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PROFIT OR LOSSES SIMILAR TO THOSE SHOWN.
-
-  
-
