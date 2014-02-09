@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadereign.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214003743id_/http%3A//www.arcadereign.com/index.php%3Fpageid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadereign.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209054810id_/http%3A//www.arcadereign.com/index.php%3Fpageid%3D3) for the most accurate reproduction.*
 
 # Free Arcade Games - Arcade Reign - Arcade Reign - Privacy Policy
 
