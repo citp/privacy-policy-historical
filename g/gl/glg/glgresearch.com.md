@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the glgresearch.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807102705id_/http%3A//www.glgresearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glgresearch.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210011109id_/http%3A//www.glgresearch.com/privacy.html) for the most accurate reproduction.*
 
 # Gerson Lehrman Group
 
 This privacy policy explains how GLG Research® ("GLG Research," "we" and "us") collects, uses, shares and protects information obtained from Council MembersSM and from visitors to its websites (each, a "Site" and collectively, the "Sites").
 
-If you are a Council Member, you have agreed and are additionally subject to the [Terms and Conditions of Council Membership](https://web.archive.org/web/20130807102705id_/http%3A//www.glgresearch.com/tandc.aspx) in the Gerson Lehrman Group Councils ("Terms and Conditions"), which expressly incorporates this Privacy Policy. If you are not a Council Member, by visiting the Sites you consent to the collection and use of your information under the terms of this Privacy Policy.
+If you are a Council Member, you have agreed and are additionally subject to the [Terms and Conditions of Council Membership](https://web.archive.org/web/20140210011109id_/http%3A//www.glgresearch.com/tandc.aspx) in the Gerson Lehrman Group Councils ("Terms and Conditions"), which expressly incorporates this Privacy Policy. If you are not a Council Member, by visiting the Sites you consent to the collection and use of your information under the terms of this Privacy Policy.
 
 ##### Personal Information and Other Data We Collect
 
