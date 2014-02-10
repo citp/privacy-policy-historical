@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getitfree.us privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110050133id_/http%3A//www.getitfree.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getitfree.us privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210065157id_/http%3A//www.getitfree.us/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | Get It Free - Freebies, Deals, Coupons
 
@@ -93,4 +93,4 @@ San Diego, CA, 92101, USA
 
 We may make modifications to this Privacy Policy from time to time. If we make any material changes, we will notify you of such changes by posting the new policy on this website or by sending you an e-mail. If you continue to use the Site after modifications, your continued use will constitute as acceptance of the changes and you agree to be bound by the revised Privacy Policy. Review our Privacy Policy regularly so that you can stay informed of our practices, as they may change in the future.
 
-_Copyright © 2010-2013 getitfree.us. All rights reserved._
+_Copyright © 2010-2014 getitfree.us. All rights reserved._
