@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the errorfix.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828195551id_/http%3A//www.errorfix.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the errorfix.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210034809id_/http%3A//errorfix.com/privacy.php) for the most accurate reproduction.*
 
 # Welcome to ErrorFix - Scan, Repair & Speed Your PC
 
