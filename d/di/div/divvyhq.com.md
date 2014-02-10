@@ -1,57 +1,53 @@
-> *The following text is extracted and transformed from the divvyhq.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808094551id_/http%3A//www.divvyhq.com/index.php/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divvyhq.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210230353id_/http%3A//divvyhq.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policies - DivvyHQ - The Spreadsheet-Free Editorial Calendar Application
+# DivvyHQ Privacy Policy
 
 Effective: August 31, 2011
 
 This Privacy Policy governs the manner in which Alluresoft, LLC, a Missouri limited liability company (“Company”) collects, uses, maintains and discloses information collected from users (each, a “User”) of its www.divvyhq.com website and any derivative or affiliated websites on which this Privacy Policy is posted (collectively, the “Website”). Company reserves the right, at its discretion, to change, modify, add or remove portions of this Privacy Policy at any time by posting such changes to this page. You understand that you have the affirmative obligation to check this Privacy Policy periodically for changes, and you hereby agree to periodically review this Privacy Policy for such changes. The continued use of the Website following the posting of changes to this Privacy Policy constitutes an acceptance of those changes.
 
-## Privacy
+#### Privacy
 
 Company believes that every User should know how it utilizes the information collected from Users. The Website is not directed at children under 13 years of age, and Company does not knowingly collect personally identifiable information from children under 13 years of age online. Please note that the Website may contain links to other websites. These linked sites may not be operated or controlled by Company. Company is not responsible for the privacy practices of these or any other websites, and you access these websites entirely at your own risk. Company recommends that you review the privacy practices of any other websites that you choose to visit.
 
 Company is based, and the Website is hosted, in the United States of America. If User is from the European Union or other regions of the world with laws governing data collection and use that may differ from U.S. law and User is registering an account on the Website, visiting the Website, purchasing products or services from Company or the Website, or otherwise using the Website, please note that any personally identifiable information that User provides to Company will be transferred to the United States. Any such personally identifiable information provided will be processed and stored in the United States by Company or a service provider acting on its behalf. By providing your personally identifiable information, User hereby specifically and expressly consents to such transfer and processing and the uses and disclosures set forth herein.
 
-## The Information Company Collects
+#### The Information Company Collects
 
 Users browsing the Website without registering an account or affirmatively providing personally identifiable information to Company do so anonymously. Otherwise, Company may collect personally identifiable information from Users in a variety of ways. Personally identifiable information may include, without limitation, (i) contact data (such as a User’s name, mailing and e-mail addresses); (ii) demographic data (such as a User’s zip code, age and income); (iii) financial information collected to process purchases made from Company via the Website or otherwise (such as credit card, debit card or other payment information); and (iv) other information requested during the account registration process. If a User communicates with Company by e-mail or otherwise, posts User Content (as defined in the Website Terms of Use) to the Website, posts messages to any forums, completes online forms, surveys or entries or otherwise interacts with or uses the features on the Website, any information provided in such communications may be collected by Company. Company may also collect information about how Users use the Website, for example, by tracking the number of unique views received by the pages of the Website, or the domains and IP addresses from which Users originate. While not all of the information that Company collects from Users is personally identifiable, it may be associated with personally identifiable information that Users provide Company through the Website or otherwise.
 
 Company may use “cookies” or “web beacons” to track how Users use the Website. A cookie is a piece of software that a web server can store on Users’ computers and use to identify Users should they visit the Website again. Users may adjust their web browser software if they do not wish to accept cookies. Company may use third party advertising networks to serve advertisements on the Website. The cookies received with banner advertisements served by these networks are used to collect and build anonymous behavioral profiles by these companies to deliver targeted advertisements and tracking referrals, and Company generally does not have access to this information.
 
-## How Company Uses Information
+#### How Company Uses Information
 
 Company may use personally identifiable information collected through the Website for the specific purposes for which the information was collected, to process purchases and sales of products or services offered via the Website, to contact Users regarding products and services offered by Company, its parent, subsidiary and other related companies and its trusted affiliates, independent contractors and business partners, and otherwise to enhance Users’ experience with the Website, Company and such affiliates, independent contractors and business partners. Company may also use information collected through the Website for research regarding the effectiveness of the Website and the business planning, marketing, advertising and sales efforts of Company, its trusted affiliates, independent contractors and business partners.
 
-## Disclosure of Information
+#### Disclosure of Information
 
 Company may disclose personally identifiable information collected from Users to its parent, subsidiary and other related companies, trusted affiliates, independent contractors and business partners who will use the information for the purposes outlined above, as necessary to provide the services offered by Company and to provide the Website itself, and for the specific purposes for which the information was collected. Company may disclose personally identifiable information at the request of law enforcement or governmental agencies or in response to subpoenas, court orders or other legal process, to establish, protect or exercise Company’s legal or other rights or to defend against a legal claim or as otherwise required or allowed by law. Company may disclose personally identifiable information in order to protect the rights, property or safety of a User or any other person. Company may disclose personally identifiable information to investigate or prevent a violation by User of any contractual or other relationship with Company or the perpetration of any illegal or harmful activity. Company may also disclose aggregate, anonymous data based on information collected from Users to investors and potential partners. Finally, Company may disclose or transfer personally identifiable information collected from Users in connection with or in contemplation of a sale of its assets or business or a merger, consolidation or other reorganization of its business.
 
-## Personal Information Provided as Part of User Content
+#### Personal Information Provided as Part of User Content
 
 If a User includes such User’s personally identifiable information as part of the User Content that such User posts to the Website, such information may be made available to any parties using the Website and/or such User Content. Company does not edit or otherwise remove such information from User Content before it is posted on the Website. If a User does not wish to have such User’s personally identifiable information made available in this manner, such User must remove any such information from the User Content before posting. User contact information (which may include, without limitation, a User’s username and email address) may be included with any User Content that a User posts via the Website. Company is not liable for any damages caused or incurred due to personally identifiable information made available in the foregoing manners.
 
-## Security of Information
+#### Security of Information
 
 Information about Users that is maintained on Company’s systems is protected using industry standard security measures. However, no security measures are perfect or impenetrable, and Company cannot guarantee that the information submitted to, maintained on or transmitted from its systems will be completely secure. Company is not responsible for the circumvention of any privacy settings or security measures relating to the Website by any Users or third parties.
 
-## Correcting, Updating, Accessing or Removing Personal Information
+#### Correcting, Updating, Accessing or Removing Personal Information
 
 If a User’s personally identifiable information changes (such as a User’s zip code), or if a User no longer desires to receive non-account specific information from Company, Company will endeavor to provide a way to correct, update and/or remove that User’s previously-provided personal data. This can be done by emailing a request to Company at support@divvyhq.com. Additionally, you may request access to the personally identifiable information as collected by Company by sending a request to Company as set forth above. Please note that in certain circumstances, Company may not be able to completely remove a User’s information from its systems. For example, Company may retain a User’s personal information for legitimate business purposes, if it may be necessary to prevent fraud or future abuse, for account recovery purposes, if required by law or as retained in Company’s data backup systems or cached or archived pages. All retained personally identifiable information will continue to be subject to the terms of the Privacy Policy to which the User has previously agreed. Please note that you may access and manage your account via the “My Account” link available within the DivvyHQ application.
 
-## Contacting Company
+#### Contacting Company
 
 If you have any questions or comments about this Privacy Policy, you may contact Company via any of the following methods:
 
-Alluresoft, LLC
-
-PO Box 414897
-
-Kansas City, MO 64141
-
-877-573-4889
-
+Alluresoft, LLC  
+PO Box 414897  
+Kansas City, MO 64141  
+877-573-4889  
 contact@divvyhq.com
 
-## Your California Privacy Rights
+#### Your California Privacy Rights
 
 California Civil Code Section 1798.83 permits Users that are residents of California to request certain information regarding Company’s disclosures of personally identifiable information to third parties for such third parties’ direct marketing purposes. If User is a California resident and would like to make such a request, please email Company at contact@divvyhq.com or write Company at PO Box 414897, Mo 64141.
