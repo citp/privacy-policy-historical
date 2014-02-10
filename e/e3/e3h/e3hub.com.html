@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the e3hub.com privacy policy that was archived on 2013-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130516005350id_/http%3A//e3hub.com/cgi-bin/Help%3Fcmd%3Dview%26pages%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the e3hub.com privacy policy that was archived on 2014-02-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140210151652id_/http%3A//e3hub.com/cgi-bin/Help%3Fcmd%3Dview%26pages%3Dprivacy) for the most accurate reproduction.-->
 
 <html><!--
 ################################################################################
@@ -98,7 +98,7 @@ dcountup.prototype.start=function(){
 </script>
 <script language="JavaScript" src="http://e3hub.com/auction/javascript/js_functions.js"></script>
 <script language="JavaScript" src="http://e3hub.com/auction/javascript/jquery-menu.js"></script>
-<script language="JavaScript" src="http://e3hub.com/auction/javascript/ddsmoothmenu.js"></script>
+<!--<script LANGUAGE="JavaScript" src="http://e3hub.com/auction/javascript/ddsmoothmenu.js"></script>-->
 <script language="JavaScript" src="http://e3hub.com/auction/javascript/e3hubcontentslider.js"></script>
 <script language="JavaScript" src="http://e3hub.com/auction/javascript/ajaxroutine.js"></script>
 <script language="JavaScript" src="http://e3hub.com/auction/javascript/bookmark.js"></script>
@@ -127,33 +127,30 @@ function make_campaignpayment(campaignId)
 }
 function do_search(){
 	
-	var e3searchcategory = document.paymentformh.e3hub_category.value;
+	var e3searchcategory = document.headerform.e3hub_category.value;
 
-	if(trimAll(document.paymentformh.searchstring.value) == ""){
+	if(document.headerform.searchstring.value == "" || document.headerform.searchstring.value == "I'm Searching for..."){
 		alert("Please enter a keyword.");
-		document.paymentformh.searchstring.focus();
+		document.headerform.searchstring.focus();
 	}else{
 		if(e3searchcategory == "Connections"){
-			document.paymentformh.action = "http://e3hub.com/cgi-bin/Connections/services";
+			var searchstring	= document.headerform.searchstring.value;
+			document.headerform.action = "http://e3hub.com/cgi-bin/Connections/services?e3searchstring="+searchstring;
 		}else if(e3searchcategory == "HubPages"){
-			var searchstring	= document.paymentformh.searchstring.value;
-			document.paymentformh.action = "http://e3hub.com/cgi-bin/HubPages?e3searchstring="+searchstring;
-		}else if(e3searchcategory == "Projects"){
-			document.paymentformh.action = "http://e3hub.com/cgi-bin/Trade-Search/projects";
-		}else if(e3searchcategory == "Services"){
-			document.paymentformh.action = "http://e3hub.com/cgi-bin/Trade-Search/services";
-		}else if(e3searchcategory == "Products"){
-			document.paymentformh.action = "http://e3hub.com/cgi-bin/Trade-Search/products";
-		}else if(e3searchcategory == "Buy Requests"){
-			document.paymentformh.action = "http://e3hub.com/cgi-bin/Trade-Search/request";
+			var searchstring	= document.headerform.searchstring.value;
+			document.headerform.action = "http://e3hub.com/cgi-bin/HubPages?e3searchstring="+searchstring;
+		}else{
+			var searchstring	= document.headerform.searchstring.value;
+			document.headerform.action = "http://e3hub.com/cgi-bin/Blogs?search_string="+searchstring;
 		}
 
 		if(e3searchcategory != ""){
-		document.paymentformh.submit();
+		document.headerform.submit();
 		}
 	}
 }
 </script>
+<link rel="StyleSheet" href="http://e3hub.com/auction/css/header.css" type="text/css">
 <link rel="StyleSheet" href="http://e3hub.com/auction/css/trade-network.css" type="text/css">
 <link rel="StyleSheet" href="http://e3hub.com/auction/css/e3hubsmoothmenu.css" type="text/css">
 <link rel="StyleSheet" href="http://e3hub.com/auction/css/e3hubsmoothmenu-v.css" type="text/css">
@@ -170,6 +167,7 @@ function do_search(){
 <script language="javascript" type="text/javascript" src="http://e3hub.com/auction/dhtml/popup.js"></script>
 <script language="javascript" type="text/javascript" src="http://e3hub.com/auction/javascript/animatedcollapse.js"></script>
 <script language="javascript" type="text/javascript" src="http://e3hub.com/auction/javascript/jquery.mint.js"></script>
+<script language="javascript" type="text/javascript" src="http://e3hub.com/auction/header.js"></script>
 <link rel="StyleSheet" href="http://e3hub.com/auction/dhtml/modal.css" type="text/css">
 
 <link rel="stylesheet" type="text/css" href="http://e3hub.com/auction/css/selectbox.css">
@@ -192,20 +190,7 @@ animatedcollapse.init()
 </script>
 
 <script type="text/javascript">
-ddsmoothmenu.init({
-	mainmenuid: "smoothmenu3", //menu DIV id
-	orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
-	classname: 'ddsmoothmenu', //class added to menu's outer DIV
-	//customtheme: ["#1c5a80", "#18374a"],
-	contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
-})
-ddsmoothmenu.init({
-	mainmenuid: "smoothmenu4", //menu DIV id
-	orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
-	classname: 'ddsmoothmenu', //class added to menu's outer DIV
-	//customtheme: ["#1c5a80", "#18374a"],
-	contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
-})
+
 </script>
  
 	<style type="text/css">
@@ -387,6 +372,7 @@ function req_paymentpopuph (title,width,height) {
 	document.getElementById('reqpaymentFrameh').src = "http://e3hub.com/cgi-bin/Members?cmd=request_money";
 }
 </script>
+<script language="javascript" type="text/javascript" src="http://e3hub.com/auction/javascript/header.js"></script>
 <script language="javascript" type="text/javascript" src="http://e3hub.com/auction/dhtml/dhtmlwindow.js"></script>
 <link rel="StyleSheet" href="http://e3hub.com/auction/dhtml/dhtmlwindow.css" type="text/css">
 <script language="javascript" type="text/javascript" src="http://e3hub.com/auction/dhtml/modal.js"></script>
@@ -394,7 +380,12 @@ function req_paymentpopuph (title,width,height) {
 <script language="javascript" type="text/javascript" src="http://e3hub.com/auction/dhtml/popup.js"></script>
 <link rel="StyleSheet" href="http://e3hub.com/auction/dhtml/modal.css" type="text/css">
 <script language="JavaScript" src="http://e3hub.com/auction/javascript/jquery.bxslider2.0.1.min.js"></script>
-
+<style>
+.customStyleSelectBoxInner {
+background:url('http://e3hub.com/auction/images/header/arrow.png') no-repeat right;
+background-position:110px 17px;
+}
+</style>
 <!--For connection popup-->
 <link rel="StyleSheet" href="http://e3hub.com/auction/dhtml/social_dhtmlwindow.css" type="text/css">
 <link rel="StyleSheet" href="http://e3hub.com/auction/dhtml/social_modal.css" type="text/css">
@@ -422,458 +413,189 @@ function req_paymentpopuph (title,width,height) {
 	
 </td>
 <td valign="top">
-<table border="0" bordercolor="#111111" width="965px" cellpadding="0" cellspacing="0" align="center">
-
-<tbody><tr><td><img src="http://e3hub.com/auction/images/spacer.gif" width="1px" height="15px"></td></tr>
+<table border="0" bordercolor="#111111" width="100%" cellpadding="0" cellspacing="0" align="center">
+<tbody><tr>
+    <td align="center" class="topheader">
+		<table cellpadding="0" cellspacing="0" border="0" align="center" width="100%">
+		<tbody><tr>
+			<td align="center">
+			<div id="welcomediv" style="margin-left: auto; margin-right: auto;width:auto;">
+			<table cellpadding="1" cellspacing="1" border="0" align="center">
+			<tbody><tr>
+			
+				<td valign="bottom" align="center" class="header_text" onclick="window.location='http://e3hub.com/cgi-bin/Login';" style="cursor:pointer;">Welcome <span class="hubor_text" nowrap="">Guest</span></td>
+				<td valign="bottom" class="header_text" align="center">|</td>
+				<td valign="bottom" class="header_text" align="center" onclick="window.location='http://e3hub.com/cgi-bin/Login';" style="cursor:pointer;" nowrap="">Login</td>
+				<td valign="bottom" class="header_text" align="center">|</td>
+				<td valign="bottom" class="header_text" align="center" onclick="window.location='http://e3hub.com/cgi-bin/Register';" style="cursor:pointer;" nowrap="">Register</td>
+			
+			</tr>
+			</tbody></table>
+			</div>
+			
+			</td>
+		</tr>
+		</tbody></table>
+     </td>
+</tr>
+<tr><td><img src="http://e3hub.com/auction/images/spacer.gif" width="1px" height="15px"></td></tr>
  <tr>
   <td align="center">
-   <table cellpadding="0" cellspacing="0" border="0" width="965px">
-   <form method="post" action="http://e3hub.com/cgi-bin/TradeSaveLocation/products" name="locationform"></form>
-   <input class="buttons" type="hidden" name="cmd" value="save_location">
-   <input type="hidden" name="state" value="">
-   <input type="hidden" name="city" value="">
-   <input type="hidden" name="searchstring" value="">
-   <input type="hidden" name="changecountry" value="">
-   <input type="hidden" name="paymentcampaign" value="">
-   <input type="hidden" name="tag_usercount" id="tag_usercount" value="">
-	   <tbody><tr>
-		<!-- <td valign="middle">
-			 
-			 
-		<a href="http://hubolu.com/cgi-bin/marketplace"><img src="http://e3hub.com/auction/images/marketplace_logo.jpg" border="0"></a></td> -->
-		<td valign="bottom" style="width:160px;padding-bottom:6px;"><a href="http://hubolu.com/cgi-bin/marketplace"><img src="http://e3hub.com/auction/images/logo_e3.jpg" border="0"></a></td>
-		<td align="right" valign="bottom">
-		   <table cellpadding="0" cellspacing="0" border="0" align="right">
-		   <tbody><tr height="30px">
-				
-					
-					<td height="30px" width="112px" style="background-image:url('http://e3hub.com/auction/images/e3hub/grey_tab.jpg');background-repeat:no-repeat;cursor:pointer;background-position:center;" align="center" class="header_graytext" onclick="window.location='http://e3hub.com/cgi-bin/Trade-network/services';" onmouseover="this.style.backgroundImage='url(http://e3hub.com/auction/images/e3hub/black_tab.jpg)';this.style.color='#FFFFFF';" onmouseout="this.style.backgroundImage='url(http://e3hub.com/auction/images/e3hub/grey_tab.jpg)';this.style.color='#66574B';">Professional</td>
-					<td align="center" width="5px" class="header_text"><img src="http://e3hub.com/auction/images/spacer.gif" border="0" width="5px"></td>
-					
-					<td width="112px" style="background-image:url('http://e3hub.com/auction/images/e3hub/grey_tab.jpg');background-repeat:no-repeat;cursor:pointer;background-position:center;" align="center" class="header_graytext" onclick="window.location='http://e3hub.com/cgi-bin/Social';">Social</td>
-					<td align="center" width="5px" class="header_text"><img src="http://e3hub.com/auction/images/spacer.gif" border="0" width="5px"></td>
-					
-					<td width="112px" style="background-image:url('http://e3hub.com/auction/images/e3hub/black_tab.jpg');background-repeat:no-repeat;cursor:pointer;background-position:center;" align="center" class="headwhite_text" onclick="window.location='http://hubolu.com/cgi-bin/marketplace';">MarketPlace</td>
-					<td align="center" width="2px" class="header_text"><img src="http://e3hub.com/auction/images/spacer.gif" border="0" width="5px"></td>
-					
-					
-					<td width="77px" style="background-image:url('http://e3hub.com/auction/images/e3hub/grey_tab_small.jpg');background-repeat:no-repeat;cursor:pointer;background-position:center;" align="center" class="header_graytext" onclick="window.location='http://e3hub.com/cgi-bin/MyHub';" onmouseover="this.style.backgroundImage='url(http://e3hub.com/auction/images/e3hub/black_tab_small.jpg)';this.style.color='#FFFFFF';" onmouseout="this.style.backgroundImage='url(http://e3hub.com/auction/images/e3hub/grey_tab_small.jpg)';this.style.color='#66574B';">My Hub</td>
-					
-				
-		   </tr>
-		   </tbody></table>
-		 </td>
-		<td align="right" valign="top" style="padding-bottom:15px;">
-		<table cellpadding="0" cellspacing="0" border="0" width="300px">
-			  <tbody><tr>
-				<td align="right" colspan="6" style="position:relative;">
-				<table cellpadding="0" cellspacing="0" border="0" width="100%">
-				<tbody><tr>
-					
-					<td valign="bottom" align="center" class="header_text" onclick="window.location='http://e3hub.com/cgi-bin/Login';" style="cursor:pointer;" width="130px">Welcome <span class="hubor_text" nowrap="">Guest</span></td>
-					<td valign="bottom" class="header_text" align="center" width="15px">|</td>
-					<td valign="bottom" class="header_text" align="center" onclick="window.location='http://e3hub.com/cgi-bin/Login';" style="cursor:pointer;" width="50px" nowrap="">Login</td>
-					<td valign="bottom" class="header_text" align="center" width="15px">|</td>
-					<td valign="bottom" class="header_text" align="center" onclick="window.location='http://e3hub.com/cgi-bin/Register';" style="cursor:pointer;" width="50px" nowrap="">Register</td>
-					<td valign="bottom" width="100px">&nbsp;</td>
-					
-				</tr>
-				</tbody></table>
-				</td>
-			 </tr>
-			 <tr>
-				<td align="center" width="5px" class="header_text" colspan="7"><img src="http://e3hub.com/auction/images/spacer.gif" border="0" width="5px"></td>
-			</tr>
-			
-			<tr>
-				<td colspan="7">
-				<table border="0" cellpadding="0" cellspacing="0" width="100%">
-					<tbody><tr>
-						<td width="1%" height="47px" valign="middle"><img src="http://e3hub.com/auction/images/trade-network/whitesearch_box_left.jpg" border="0"></td>
-						<td style="background-image:url('http://e3hub.com/auction/images/trade-network/whitesearch_box_center.jpg');background-repeat:repeat-x;background-position:middle;" align="center" valign="middle" class="page_btext" width="30px">Location:</td>
-						<td style="background-image:url('http://e3hub.com/auction/images/trade-network/whitesearch_box_center.jpg');background-repeat:repeat-x;background-position:middle;cursor:pointer;" align="center" valign="middle" class="page_btext" width="20px" onclick="showContextMenu(event);"><img src="http://e3hub.com/auction/images/spacer.gif" width="5px" height="1px"></td>
-						<td style="background-image:url('http://e3hub.com/auction/images/trade-network/whitesearch_box_center.jpg');background-repeat:repeat-x;background-position:middle;cursor:pointer;" align="center" valign="middle" width="98%" class="page_btext"><select name="country_Code" style="width:175Px;" onchange="location_submit('locationform')" class="search_selectbox" id="country_Code">
-<option value="">-- All Locations--</option>
-<option value="US">United States</option>
-<option value="GB">United Kingdom</option>
-<option value="CA">Canada</option>
-<option value="AU">Australia</option>
-<option value="">------------------</option>
-<option value="AF">Afghanistan</option>
-<option value="AL">Albania</option>
-<option value="DZ">Algeria</option>
-<option value="AS">American Samoa</option>
-<option value="AD">Andorra</option>
-<option value="AO">Angola</option>
-<option value="AI">Anguilla</option>
-<option value="AG">Antigua and Barbuda</option>
-<option value="AR">Argentina</option>
-<option value="AM">Armenia</option>
-<option value="AW">Aruba</option>
-<option value="AT">Austria</option>
-<option value="AZ">Azerbaijan</option>
-<option value="BS">Bahamas</option>
-<option value="BH">Bahrain</option>
-<option value="BD">Bangladesh</option>
-<option value="BB">Barbados</option>
-<option value="BY">Belarus</option>
-<option value="BE">Belgium</option>
-<option value="BZ">Belize</option>
-<option value="BJ">Benin</option>
-<option value="BM">Bermuda</option>
-<option value="BT">Bhutan</option>
-<option value="BO">Bolivia</option>
-<option value="BA">Bosnia and Herzegowina</option>
-<option value="BW">Botswana</option>
-<option value="BV">Bouvet Island</option>
-<option value="BR">Brazil</option>
-<option value="IO">British Indian Ocean Territory</option>
-<option value="BN">Brunei Darussalam</option>
-<option value="BG">Bulgaria</option>
-<option value="BF">Burkina Baso</option>
-<option value="BI">Burundi</option>
-<option value="KH">Cambodia</option>
-<option value="CM">Cameroon</option>
-<option value="CV">Cape Verde</option>
-<option value="KY">Cayman Islands</option>
-<option value="CF">Central African Republic</option>
-<option value="TD">Chad</option>
-<option value="CL">Chile</option>
-<option value="CN">China</option>
-<option value="CX">Christmas Island</option>
-<option value="CC">Cocos (Keeling) Islands</option>
-<option value="CO">Colombia</option>
-<option value="KM">Comoros</option>
-<option value="CG">Congo</option>
-<option value="CD">Congo, The Democratic Republic of the</option>
-<option value="CK">Cook Islands</option>
-<option value="CR">Costa Rica</option>
-<option value="CI">Cote D'ivoire</option>
-<option value="HR">Croatia</option>
-<option value="CU">Cuba</option>
-<option value="CY">Cyprus</option>
-<option value="CZ">Czech Republic</option>
-<option value="DK">Denmark</option>
-<option value="DJ">Djibouti</option>
-<option value="DM">Dominica</option>
-<option value="DO">Dominican Republic</option>
-<option value="TP">East Timor</option>
-<option value="EC">Ecuador</option>
-<option value="EG">Egypt</option>
-<option value="SV">El Salvador</option>
-<option value="GQ">Equatorial Guinea</option>
-<option value="ER">Eritrea</option>
-<option value="EE">Estonia</option>
-<option value="ET">Ethiopia</option>
-<option value="FK">Falkland Islands (Malvinas)</option>
-<option value="FO">Faroe Islands</option>
-<option value="FJ">Fiji</option>
-<option value="FI">Finland</option>
-<option value="FR">France</option>
-<option value="FX">France Metropolitan</option>
-<option value="GF">French Guiana</option>
-<option value="PF">French Polynesia</option>
-<option value="TF">French Southern Territories</option>
-<option value="GA">Gabon</option>
-<option value="GM">Gambia</option>
-<option value="GE">Georgia</option>
-<option value="DE">Germany</option>
-<option value="GH">Ghana</option>
-<option value="GI">Gibraltar</option>
-<option value="GR">Greece</option>
-<option value="GL">Greenland</option>
-<option value="GD">Grenada</option>
-<option value="GP">Guadeloupe</option>
-<option value="GU">Guam</option>
-<option value="GT">Guatemala</option>
-<option value="GN">Guinea</option>
-<option value="GW">Guinea-Bissau</option>
-<option value="GY">Guyana</option>
-<option value="HT">Haiti</option>
-<option value="HM">Heard and Mc Donald Islands</option>
-<option value="HN">Honduras</option>
-<option value="HK">Hong Kong</option>
-<option value="HU">Hungary</option>
-<option value="IS">Iceland</option>
-<option value="IN">India</option>
-<option value="ID">Indonesia</option>
-<option value="IE">Ireland</option>
-<option value="IL">Israel</option>
-<option value="IT">Italy</option>
-<option value="JM">Jamaica</option>
-<option value="JP">Japan</option>
-<option value="JO">Jordan</option>
-<option value="KZ">Kazakan</option>
-<option value="KE">Kenya</option>
-<option value="KI">Kiribati</option>
-<option value="KR">Korea, Republic of</option>
-<option value="KW">Kuwait</option>
-<option value="KG">Kyrgyzstan</option>
-<option value="LA">Lao People's Democratic Republic</option>
-<option value="LV">Latvia</option>
-<option value="LB">Lebanon</option>
-<option value="LS">Lesotho</option>
-<option value="LR">Liberia</option>
-<option value="LI">Liechtenstein</option>
-<option value="LT">Lithuania</option>
-<option value="LU">Luxembourg</option>
-<option value="MO">Macau</option>
-<option value="MK">Macedonia, The former Yugoslav Republic of</option>
-<option value="MG">Madagascar</option>
-<option value="MW">Malawi</option>
-<option value="MY">Malaysia</option>
-<option value="MV">Maldives</option>
-<option value="ML">Mali</option>
-<option value="MT">Malta</option>
-<option value="MH">Marshall Islands</option>
-<option value="MQ">Martinique</option>
-<option value="MR">Mauritania</option>
-<option value="MU">Mauritius</option>
-<option value="YT">Mayotte</option>
-<option value="MX">Mexico</option>
-<option value="FM">Micronesia, Federated States of</option>
-<option value="MD">Moldova, Republic of</option>
-<option value="MC">Monaco</option>
-<option value="MN">Mongolia</option>
-<option value="MS">Montserrat</option>
-<option value="MA">Morocco</option>
-<option value="MZ">Mozambique</option>
-<option value="MM">Myanmar</option>
-<option value="NA">Namibia</option>
-<option value="NR">Nauru</option>
-<option value="NP">Nepal</option>
-<option value="NL">Netherlands</option>
-<option value="AN">Netherlands Antilles</option>
-<option value="NC">New Caledonia</option>
-<option value="NZ">New zealand</option>
-<option value="NI">Nicaragua</option>
-<option value="NE">Niger</option>
-<option value="NG">Nigeria</option>
-<option value="NU">Niue</option>
-<option value="NF">Norfolk Island</option>
-<option value="MP">Northern Mariana Islands</option>
-<option value="NO">Norway</option>
-<option value="OM">Oman</option>
-<option value="PK">Pakistan</option>
-<option value="PW">Palau</option>
-<option value="PA">Panama</option>
-<option value="PG">Papua New Guinea</option>
-<option value="PY">Paraguay</option>
-<option value="PE">Peru</option>
-<option value="PH">Philippines</option>
-<option value="PN">Pitcairn</option>
-<option value="PL">Poland</option>
-<option value="PT">Portugal</option>
-<option value="PR">Puerto Rico</option>
-<option value="QA">Qatar</option>
-<option value="RE">Reunion</option>
-<option value="RO">Romania</option>
-<option value="RU">Russian Federation</option>
-<option value="RW">Rwanda</option>
-<option value="KN">Saint Kitts and Nevis</option>
-<option value="LC">Saint Lucia</option>
-<option value="VC">Saint Vincent and the Grenadines</option>
-<option value="WS">Samoa</option>
-<option value="SM">San Marino</option>
-<option value="ST">Sao Tome and Principe</option>
-<option value="SA">Saudi Arabia</option>
-<option value="SN">Senegal</option>
-<option value="SC">Seychelles</option>
-<option value="SL">Sierra Leone</option>
-<option value="SG">Singapore</option>
-<option value="SK">Slovakia (Slovak Republic)</option>
-<option value="SI">Slovenia</option>
-<option value="SB">Solomon Islands</option>
-<option value="SO">Somalia</option>
-<option value="ZA">South Africa</option>
-<option value="GS">South Georgia and the South Sandwich Islands</option>
-<option value="ES">Spain</option>
-<option value="LK">Sri Lanka</option>
-<option value="SH">St. Helena</option>
-<option value="PM">St. Pierre and Miquelon</option>
-<option value="SR">Suriname</option>
-<option value="SJ">Svalbard and Jan Mayen Islands</option>
-<option value="SZ">Swaziland</option>
-<option value="SE">Sweden</option>
-<option value="CH">Switzerland</option>
-<option value="SY">Syrian Arab Republic</option>
-<option value="TW">Taiwan</option>
-<option value="TJ">Tajikistan</option>
-<option value="TZ">Tanzania, United Republic of</option>
-<option value="TH">Thailand</option>
-<option value="TG">Togo</option>
-<option value="TK">Tokelau</option>
-<option value="TO">Tonga</option>
-<option value="TT">Trinidad and Tobago</option>
-<option value="TN">Tunisia</option>
-<option value="TR">Turkey</option>
-<option value="TM">Turkmenistan</option>
-<option value="TC">Turks and Caicos Islands</option>
-<option value="TV">Tuvalu</option>
-<option value="UG">Uganda</option>
-<option value="UA">Ukraine</option>
-<option value="AE">United Arab Emirates</option>
-<option value="UY">Uruguay</option>
-<option value="UZ">Uzbekistan</option>
-<option value="VU">Vanuatu</option>
-<option value="VE">Venezuela</option>
-<option value="VN">Vietnam</option>
-<option value="VG">Virgin Islands (British)</option>
-<option value="VI">Virgin Islands (US)</option>
-<option value="WF">Wallis and Futuna Islands</option>
-<option value="EH">Western Sahara</option>
-<option value="YE">Yemen</option>
-<option value="YU">Yugoslavia</option>
-<option value="ZM">Zambia</option>
-<option value="ZW">Zimbabwe</option>
-</select>
-</td>
-						<td width="1%" height="47px" style="cursor:pointer;"><img src="http://e3hub.com/auction/images/trade-network/whitesearch_box_right.jpg" border="0" style="cursor:pointer;"></td>
-					</tr>
-				</tbody></table>
-				</td>
-			</tr>
-			
-		</tbody></table>
-		</td>
-	</tr>
    
-  </tbody></table>
+	<table border="0" cellpadding="0" cellspacing="0" align="center" width="90%">
+			<tbody><tr>
+						<td width="158px" onclick="document.location.href='http://e3hub.com/cgi-bin/Social'" align="center"><img src="http://e3hub.com/auction/images/logo_e3.jpg" border="0" class="imagefile"></td>
+						<td colspan="2" align="center">
+						<table cellpadding="0" cellspacing="0" border="0" align="center" width="100%">
+						<tbody><tr>
+							<td width="15px"><img src="http://e3hub.com/auction/images/header/search1.png" border="0"></td>
+							<td background="http://e3hub.com/auction/images/header/search2.png">
+							<table cellpadding="0" cellspacing="0" border="0" align="center" width="97%">
+							 <form method="post" action="" name="headerform" target=""></form>
+							<input type="hidden" name="cmd" value="simple_search">
+							<input type="hidden" name="type" value="keyword">
+							<input type="hidden" name="querytype" value="1">
+							 <input type="hidden" name="tag_usercount" id="tag_usercount" value="">
+							<tbody><tr>
+								<td class="headerborder" style="width:400px;">
+								<input type="text" name="searchstring" id="searchstring" class="headertextbox" value="I'm Searching for..." size="60" onfocus="focus_area(this.id)" onblur="blur_area(this.id)">
+								</td>
+								<td class="headerborder headerslepadd" align="center" width="5%">
+									
+								       <select id="e3hub_category" class="site_text mySelectBoxClass" style="width:150px;height:40px;-webkit-appearance: none;" name="e3hub_category">
+										<option value="Connections">People</option>
+										<option value="HubPages">HubSites</option>
+										<option value="Blogs">Blogs</option>
+										</select>
+
+								</td>
+								<td class="headerborder" align="center" width="16%">
+								<input type="button" style="background: url('http://e3hub.com/auction/images/header/search.png') no-repeat;cursor:pointer;border: none;width:78px;height:41px;" alt="Search" title="Search" value="" onclick="do_search()">
+								
+								</td>
+								<td class="headerborder" id="menuheader" align="center" width="11%">
+								<div class="menudiv">Menu<img src="http://e3hub.com/auction/images/header/arrow.png" border="0"></div>
+								
+								</td>
+							</tr>
+							
+							</tbody></table>
+							</td>
+							<td width="15px"><img src="http://e3hub.com/auction/images/header/search3.png" border="0"></td>
+						</tr>
+						</tbody></table>
+						</td>
+			</tr>
+			
+			</tbody></table>
   </td>
 </tr>
 <tr>
  <td align="center">
-   <table cellpadding="0" cellspacing="0" border="0" width="965px" align="center">
-   <form method="post" action="" name="paymentformh" target=""></form>
-    <input type="hidden" name="cmd" value="">
-	<input type="hidden" name="type" value="keyword">
-    <input type="hidden" name="querytype" value="1">
-  
-   
-   <tbody><tr>
-
-	   <td style="background-image:url('http://e3hub.com/auction/images/e3hub/menu_center.jpg');background-repeat:repeat-x;cursor:pointer;" align="center" class="headwhite_ntext" onclick="window.location='http://hubolu.com/cgi-bin/marketplace';" width="100px" id="headerhome" onmouseover="this.style.background='#C0BFBD';this.style.color='#524D47';" onmouseout="this.style.backgroundImage='url(http://e3hub.com/auction/images/e3hub/menu_center.jpg)';this.style.color='#FFFFFF';">Home</td>
-	   <td width="2px" height="34px"><img src="http://e3hub.com/auction/images/e3hub/menu_sep.jpg" border="0"></td> 
-	   
-	   <td style="background-image:url('http://e3hub.com/auction/images/e3hub/menu_center.jpg');background-repeat:repeat-x;cursor:pointer;border:0px solid #000000;" align="center" class="headwhite_ntext" onclick="window.location='http://hubolu.com/cgi-bin/Marketplace/browse';" height="34px" width="90px" id="headerbrowse" onmouseover="this.style.background='#C0BFBD';this.style.color='#524D47';" onmouseout="this.style.backgroundImage='url(http://e3hub.com/auction/images/e3hub/menu_center.jpg)';this.style.color='#FFFFFF';">Browse  </td>
-	   <td width="2px" height="34px"><img src="http://e3hub.com/auction/images/e3hub/menu_sep.jpg" border="0"></td>
-	   <td style="background-image:url('http://e3hub.com/auction/images/e3hub/menu_center.jpg');background-repeat:repeat-x;cursor:pointer;" align="center" class="headwhite_ntext" onclick="window.location='http://hubolu.com/cgi-bin/Post';" width="70px" id="headerpost" onmouseover="this.style.background='#C0BFBD';this.style.color='#524D47';" onmouseout="this.style.backgroundImage='url(http://e3hub.com/auction/images/e3hub/menu_center.jpg)';this.style.color='#FFFFFF';">Post
-	    </td>
-	   <td width="2px" height="34px"><img src="http://e3hub.com/auction/images/e3hub/menu_sep.jpg" border="0"></td> 
-	   <td style="background-image:url('http://e3hub.com/auction/images/e3hub/menu_center.jpg');background-repeat:repeat-x;cursor:pointer;" align="center" class="headwhite_ntext" onclick="window.location='http://e3hub.com/cgi-bin/Members';" width="95px">
-	   <div id="smoothmenu3" class="ddsmoothmenu">
-	   <ul>
-		
-		<li><a href="http://e3hub.com/cgi-bin/Members" class="ddsmoothmenu_white">Manage</a>
-		
-		  <ul>
-		  <li><a href="http://e3hub.com/cgi-bin/Members">My Account</a></li>
-		   <li><a href="http://e3hub.com/cgi-bin/Members/services?cmd=my_profile">My Profile</a></li>
-		   <li><a href="http://e3hub.com/cgi-bin/UserMembership/UserMembership?cmd=membership_upgrade">Upgrade</a></li>
-		  </ul>
-		</li>
-	    </ul>
-	    </div>
-	   </td>
-	   <td width="2px" height="34px"><img src="http://e3hub.com/auction/images/e3hub/menu_sep.jpg" border="0"></td> 
-	   <td style="background-image:url('http://e3hub.com/auction/images/e3hub/menu_center.jpg');background-repeat:repeat-x;cursor:pointer;" align="center" class="headwhite_ntext" width="105px">
-	   
-	    <div id="smoothmenu4" class="ddsmoothmenu">
-	   <ul>
-		
-		<li><a href="http://e3hub.com/cgi-bin/UserMembership?cmd=payment_history" class="ddsmoothmenu_white">Payments</a>
-		
-		   <ul>
-			  <li><a href="http://e3hub.com/cgi-bin/UserMembership?cmd=transactions">Transactions</a></li>
-			  
-			  <li><a href="javascript:req_paymentpopuph('RequestMoney','550','400');">Request Money</a></li>
-			   
-			  <li><a href="http://e3hub.com/cgi-bin/UserMembership?cmd=withdraw_requests">Withdraw</a></li>
-		  </ul>
-	    </li></ul>
-	    </div>
-	   </td>
-	   <td width="2px" height="34px"><img src="http://e3hub.com/auction/images/e3hub/menu_sep.jpg" border="0"></td> 
-	   <td style="background-image:url('http://e3hub.com/auction/images/e3hub/menu_center.jpg');background-repeat:repeat-x;cursor:pointer;" align="center" class="headwhite_ntext" onclick="window.location='http://e3hub.com/cgi-bin/Help';" width="130px" id="headerhowitworks" onmouseover="this.style.background='#C0BFBD';this.style.color='#524D47';" onmouseout="this.style.backgroundImage='url(http://e3hub.com/auction/images/e3hub/menu_center.jpg)';this.style.color='#FFFFFF';">
-	   How it works
-	
-	   </td>
-	    <td width="2px" height="34px"><img src="http://e3hub.com/auction/images/e3hub/menu_sep.jpg" border="0"></td> 
-	   <td align="center" width="350px" style="background-image:url('http://e3hub.com/auction/images/e3hub/menu_center.jpg');background-repeat:repeat-x;" class="header_text">
-	   <table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
-		<tbody><tr>
-			 <td valign="middle" width="75px"><img src="http://e3hub.com/auction/images/spacer.gif" border="0"></td>
-		  <td valign="middle" width="50px"><input type="text" name="searchstring" id="searchstring" class="tradetextbox" value="" size="20"></td>
-		  <td valign="middle" width="137px">
-			  <select name="e3hub_category" id="e3hub_category" class="site_text" onchange="do_search();">
-				  <option value="">Search</option>
-				  <option value="Connections">People</option>
-				  <option value="HubPages">HubSites</option>
-				  <option value="Projects">Projects</option>
-				  <option value="Services">Services</option>
-				  <option value="Products">Products</option>
-				  <option value="Buy Requests">Buy Requests</option>
-			  </select>
-			  <script>
-			  var e3searchcategory = "";
-		
-				if(e3searchcategory == "Connections"){
-					document.paymentformh.e3hub_category[1].selected = true;
-				}else if(e3searchcategory == "HubPages"){
-					document.paymentformh.e3hub_category[2].selected = true;
-				}else if(e3searchcategory == "Projects"){
-					document.paymentformh.e3hub_category[3].selected = true;
-				}else if(e3searchcategory == "Services"){
-					document.paymentformh.e3hub_category[4].selected = true;				
-				}else if(e3searchcategory == "Products"){
-					document.paymentformh.e3hub_category[5].selected = true;
-				}else if(e3searchcategory == "Buy Requests"){
-					document.paymentformh.e3hub_category[6].selected = true;
-				}
-			  </script>
-			 
-		  </td>
-		 
-	<!-- 	  <td valign="middle" width="50px"><img src="http://e3hub.com/auction/images/trade-network/search_bar.png" border="0" style="cursor:pointer;" OnClick="do_search();"></td> -->
-		</tr>
-	   </tbody></table>
-	   </td>
-	   <td width="2px" height="34px"><img src="http://e3hub.com/auction/images/e3hub/menu_right.jpg" border="0"></td> 
-	   
-    </tr>
-    
-     
-   </tbody></table>
- </td>
-</tr>
-<tr>
- <td align="center">
-   <table cellpadding="0" cellspacing="0" border="0" width="965px" align="center">
-	     <tbody><tr>
-		      <td width="1%" height="34px"><img src="http://e3hub.com/auction/images/trade-network/post_box_04.gif" border="0"></td>
-			   
-		       <td onclick="window.location='http://hubolu.com/cgi-bin/groupbuy';" style="background-image:url('http://e3hub.com/auction/images/e3hub/post_box_05.gif');background-repeat:repeat-x;cursor:pointer;" class="new_page_btext" onmouseover="this.style.background='url(http://e3hub.com/auction/images/e3hub/menu_over_hub.gif) repeat-x';" onmouseout="this.style.background='url(http://e3hub.com/auction/images/e3hub/post_box_05.gif) repeat-x';" align="center" width="110px">Group Deals</td>
-			    <td style="background-image:url('http://e3hub.com/auction/images/e3hub/post_box_05.gif');background-repeat:repeat-x;" class="new_page_btext_sep" align="center" width="2px"><img src="http://e3hub.com/auction/images/trade-network/header_sep.gif" border="0"></td>
-			   
-			   
-			   <td onclick="window.location='http://hubolu.com/cgi-bin/extreme';" style="background-image:url('http://e3hub.com/auction/images/e3hub/post_box_05.gif');background-repeat:repeat-x;cursor:pointer;" class="new_page_btext" onmouseover="this.style.background='url(http://e3hub.com/auction/images/e3hub/menu_over_hub.gif) repeat-x';" onmouseout="this.style.background='url(http://e3hub.com/auction/images/e3hub/post_box_05.gif) repeat-x';" align="center" width="116px">extreme Auctions</td>
-			   <td style="background-image:url('http://e3hub.com/auction/images/e3hub/post_box_05.gif');background-repeat:repeat-x;" class="new_page_btext_sep" align="center" width="2px"><img src="http://e3hub.com/auction/images/trade-network/header_sep.gif" border="0"></td>
-			   
-			   <td onclick="window.location='http://e3hub.com/cgi-bin/music';" style="background-image:url('http://e3hub.com/auction/images/e3hub/post_box_05.gif');background-repeat:repeat-x;cursor:pointer;" class="new_page_btext" onmouseover="this.style.background='url(http://e3hub.com/auction/images/e3hub/menu_over_hub.gif) repeat-x';" onmouseout="this.style.background='url(http://e3hub.com/auction/images/e3hub/post_box_05.gif) repeat-x';" align="center" width="80px">Tunes</td>
-			   <td style="background-image:url('http://e3hub.com/auction/images/e3hub/post_box_05.gif');background-repeat:repeat-x;" class="new_page_btext_sep" align="center" width="2px"><img src="http://e3hub.com/auction/images/trade-network/header_sep.gif" border="0"></td>
-			     
-			    <td onclick="window.location='http://hubolu.com/cgi-bin/eStores';" style="background-image:url('http://e3hub.com/auction/images/e3hub/post_box_05.gif');background-repeat:repeat-x;cursor:pointer;" class="new_page_btext" onmouseover="this.style.background='url(http://e3hub.com/auction/images/e3hub/menu_over_hub.gif) repeat-x';" onmouseout="this.style.background='url(http://e3hub.com/auction/images/e3hub/post_box_05.gif) repeat-x';" align="center" width="80px">eStores</td>
+		<table cellpadding="3" cellspacing="3" border="0" align="center" id="menudetails" class="menudisp menuborder" width="310px">
+	 	  <tbody><tr>
+				<td colspan="4" align="center" class="menubtitle" nowrap=""><a href="HubPages" class="orange_link">Hubsites</a> | 
 				
-				 <td style="background-image:url('http://e3hub.com/auction/images/e3hub/post_box_05.gif');background-repeat:repeat-x;" class="new_page_btext_sep" align="center" width="2px"><img src="http://e3hub.com/auction/images/trade-network/header_sep.gif" border="0"></td>
-		       <td align="center" width="340px" style="background-image:url('http://e3hub.com/auction/images/trade-network/post_box_05.gif');background-repeat:repeat-x;" class="header_text">&nbsp;</td>
-		      <td width="1%" height="34px"><img src="http://e3hub.com/auction/images/trade-network/post_box_06.gif" border="0"></td>
-	     </tr>
-     </tbody></table>
+			  
+			 <a href="Community" class="orange_link">My Community</a> 
+			  
+			  
+			  | <a href="Blogs" class="orange_link">Blogs</a>
+				</td>
+			
+		  </tr>
+		  <tr>
+				<td class="menutitle" colspan="4">
+				<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td colspan="3" style="background-image:url('http://e3hub.com/auction/images/seperator.png');background-repeat:repeat-x;width:100%;height:7px;float:left;*display: inline;">&nbsp;</td>
+					
+				</tr>
+				</tbody></table>
+				</td>
+				
+		  </tr>
+		  <tr>		<td>&nbsp;</td>
+				<td class="menutext"><a href="http://e3hub.com/cgi-bin/MyHub" class="header_link">Network Activity</a></td>
+				<td>&nbsp;</td>
+				<td class="menutext"><a href="http://e3hub.com/cgi-bin/MyHub?cmd=mycalendar" class="header_link">My Calendar</a></td>
+		  </tr>
+		  <tr>
+				<td>&nbsp;</td>
+				<td class="menutext"><a href="http://e3hub.com/cgi-bin/Members?cmd=my_profile" class="header_link">My Profile</a></td>
+				<td>&nbsp;</td>
+				<td class="menutext"><a href="http://e3hub.com/cgi-bin/HubMarketplace" class="header_link">My Marketplace</a></td>
+				
+		  </tr>
+		  <tr>
+				<td>&nbsp;</td>
+				<td class="menutext"><a href="http://e3hub.com/cgi-bin/Connections?cmd=my_connections" class="header_link">My Contacts</a></td>
+				<td>&nbsp;</td>
+				<td class="menutext"><a href="http://e3hub.com/cgi-bin/Polls" class="header_link">Polls</a></td>
+				
+		  </tr>
+		  <tr>
+				<td>&nbsp;</td>
+				<td class="menutext"><a href="http://e3hub.com/cgi-bin/Connections?cmd=add_connections" class="header_link">Add a Connection</a></td>
+				<td>&nbsp;</td>
+				<td class="menutext"><a href="http://e3hub.com/cgi-bin/Members" class="header_link">My Account </a></td>
+				
+				
+				
+		  </tr>
+		  <tr>
+				<td>&nbsp;</td>
+				<td class="menutext"><a href="http://e3hub.com/cgi-bin/MyHub?cmd=userpages" class="header_link">My Groups/Hubsites </a></td>
+				<td>&nbsp;</td>
+				<td class="menutext"><a href="http://e3hub.com/cgi-bin/SocialSubscriptions" class="header_link">Upgrade</a></td>
+		  </tr>
+		   <tr>
+				<td class="menutitle" colspan="4">
+				<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td style="background-image:url('http://e3hub.com/auction/images/dot.png');background-repeat:repeat-x;width:28%;float:left;*display: inline;">&nbsp;</td>
+					<td class="menutitle" style="display:inline-block;*display: inline;" align="center">&nbsp;&nbsp;E3hub Network&nbsp;&nbsp;</td>
+					<td style="background-image:url('http://e3hub.com/auction/images/dot.png');background-repeat:repeat-x;width:28%;float:right;*display: inline;">&nbsp;</td>
+				</tr>
+				</tbody></table>
+				</td>
+		  
+		  </tr>
+		   <tr>
+				<td>&nbsp;</td>
+				<td class="menutext"><a href="http://hubolu.com" class="header_link" target="_blank">Hubolu Marketplace</a></td>
+				<td>&nbsp;</td>
+				<td class="menutext"><a href="http://hubspin.com" class="header_link" target="_blank">Hubspin Music</a></td>
+		  </tr>
+		    <tr>
+				<td>&nbsp;</td>
+				<!--<td class="menutext"><a href="http://hiretree.com" class="header_link" target="_blank">Professional services</a></td>-->
+				<td class="menutext"><a href="http://hiretree.com" class="header_link" target="_blank">Hietree</a></td>
+				<td>&nbsp;</td>
+				<td class="menutext"><a href="http://hubswirl.com" class="header_link" target="_blank">Hubswirl</a></td>
+		  </tr>
+		  <tr>
+				<td>&nbsp;</td>
+				<td class="menutext"><a href="http://oemnetwork.com" class="header_link" target="_blank">OEM Network</a></td>
+				<td>&nbsp;</td>
+				<td class="menutext"><a href="http://e3hub.com/cgi-bin/adworks" class="header_link" target="_blank">ClickAds</a></td>
+		  </tr>
+		   <tr>
+				<td class="menutitle" colspan="4" height="15px">
+					<!--<table cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td style="background-image:url('http://e3hub.com/auction/images/dot.png');background-repeat:repeat-x;width:40%;float:left;*display: inline;" >&nbsp;</td>
+						<td class="menutitle" style="display:inline-block;*display: inline;" align="center">&nbsp;Browse</td>
+						<td style="background-image:url('http://e3hub.com/auction/images/dot.png');background-repeat:repeat-x;width:36%;float:right;*display: inline;" >&nbsp;</td>
+					</tr>
+					</table>-->
+				</td>
+		  </tr>
+		 
+		 
+		</tbody></table>
  </td>
-</tr><tr>
-	<td>&nbsp;</td>
 </tr>
-
 <tr>
  <td>
    <table cellpadding="0" cellspacing="0" border="0" width="965px" align="center">
@@ -1338,19 +1060,39 @@ reasonable efforts to notify you of any material changes to this privacy policy.
 	</script><table cellpadding="0" cellspacing="0" border="0" width="780" align="center" style="background-image:url('http://e3hub.com/auction/images/trade-network/footer_bg.jpg');background-repeat:repeat-x;" height="85px">
 		<tbody><tr><td><img src="http://e3hub.com/auction/images/spacer.gif" width="1px" height="5px"></td></tr>
 		<tr>
+		    <td align="center">
+		<table border="0" cellpadding="2" cellspacing="3" align="center">
+			<tbody><tr>
+			<td align="center" nowrap=""><a href="" class="new_links" target="_blank" style="font-size:14px;">E3hub- Social Network</a></td>
+			<td width="2px" class="footer_bar" align="center">|</td>
+			<td align="center" nowrap=""><a href="http://hubolu.com/cgi-bin//marketplace" class="new_links" target="_blank" style="font-size:14px;">Hubolu- Social Marketplace</a></td>
+			<td width="2px" class="footer_bar" align="center">|</td>
+			<td align="center" nowrap=""><a href="" class="new_links" target="_blank" style="font-size:14px;">Hiretree- Professional Services Network</a></td>
+			<td width="2px" class="footer_bar" align="center">|</td>
+			<td align="center" nowrap=""><a href="http://hubswirl.com" class="new_links" target="_blank" style="font-size:14px;">Hubswirl- Location Microblog</a></td>
+			<td width="2px" class="footer_bar" align="center">|</td>
+			<td align="center" nowrap=""><a href="" class="new_links" target="_blank" style="font-size:14px;">OEM Network- OEM Manufacturers</a></td>
+			<td width="2px" class="footer_bar" align="center">|</td>
+			<td align="center" nowrap=""><a href="http://hubspin.com" class="new_links" target="_blank" style="font-size:14px;">Hubspin- Indie Music</a></td>
+			
+			
+			</tr>
+		</tbody></table>
+		</td></tr>
+		<tr>
 		    <td valign="top">
 			 <table cellpadding="0" cellspacing="0" border="0" width="965px" align="center">
 			   <tbody><tr>
 			    <td valign="top">
 			     <table cellpadding="0" cellspacing="0" border="0" width="70%" align="center">
 				<tbody><tr>
-				  <td valign="top" width="100px" align="center"><a href="http://hiretree.com/cgi-bin/Trade-network/products" class="tradefootlink">Home</a></td>
+				  <td valign="top" width="100px" align="center"><a href="http://e3hub.com/cgi-bin/Social" class="tradefootlink">Home</a></td>
 				  <td valign="top" width="5px" align="center">|</td>
-				  <td valign="top" width="100px" align="center"><a href="http://hiretree.com/cgi-bin/Browse/products" class="tradefootlink">Browse</a></td>
+				  <td valign="top" width="100px" align="center"><a href="http://hubolu.com/cgi-bin/Marketplace/browse" class="tradefootlink" target="_blank">Browse</a></td>
 				  <td valign="top" width="5px" align="center">|</td>
 				  <td valign="top" width="100px" align="center"> <a href="http://e3hub.com/cgi-bin/Register" class="tradefootlink">Register</a></td>
 				  <td valign="top" width="5px" align="center">|</td>
-				  <td valign="top" width="100px" align="center"><a href="http://hiretree.com/cgi-bin/Trade-Post/products" class="tradefootlink">Post</a></td>
+				  <td valign="top" width="100px" align="center"><a href="http://hubolu.com/cgi-bin/Post" class="tradefootlink" target="_blank">Post</a></td>
 				  <td valign="top" width="5px" align="center">|</td>
 				  <td valign="top" width="100px" align="center">&nbsp;&nbsp;<a href="http://e3hub.com/cgi-bin/Trade/announcements/products?cmd=announce" class="tradefootlink">Announcements</a>&nbsp;&nbsp;</td>
 				  <td valign="top" width="5px" align="center">|</td>
@@ -1382,6 +1124,7 @@ reasonable efforts to notify you of any material changes to this privacy policy.
 
 
 
+
 <script type="text/javascript">
 animatedcollapse.addDiv('messagebox', 'fade=0,speed=400,group=pets,hide=0');
 
@@ -1402,4 +1145,73 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
 // End -->
 
 </script>
+<script type="text/javascript">
+
+(function($){
+ $.fn.extend({
+ 
+  customStyle : function(options) {
+   if(!$.browser.msie || ($.browser.msie&&$.browser.version>6)){
+   return this.each(function() {
+   var currentSelected = $(this).find(':selected');
+   $(this).after('<span class="customStyleSelectBox" style="width:135px;height:40px;-webkit-appearance: none;"><span class="customStyleSelectBoxInner" style="padding-top:10px;-webkit-appearance: none;">'+currentSelected.text()+'</span></span>').css({position:'absolute', opacity:0,fontSize:$(this).next().css('font-size')});
+   var selectBoxSpan = $(this).next();
+   
+   var ua = $.browser;
+	if(ua.safari){
+	   var selectBoxWidth = parseInt($(this).width()+23) - parseInt(selectBoxSpan.css('padding-left')) -parseInt(selectBoxSpan.css('padding-right'));   
+	}else{
+	  var selectBoxWidth = parseInt($(this).width()) - parseInt(selectBoxSpan.css('padding-left')) -parseInt(selectBoxSpan.css('padding-right'));   
+	}
+	
+    if(options){
+    selectBoxWidth = options;
+    }
+   var selectBoxSpanInner = selectBoxSpan.find(':first-child');
+   selectBoxSpan.css({display:'inline-block'});
+   selectBoxSpanInner.css({width:135, display:'inline-block'});
+   var selectBoxHeight = parseInt(selectBoxSpan.height()) + parseInt(selectBoxSpan.css('padding-top')) + parseInt(selectBoxSpan.css('padding-bottom'));
+   $(this).height(selectBoxHeight).change(function(){
+ 
+    // selectBoxSpanInner.text($(this).val()).parent().addClass('changed');   This was not ideal
+   selectBoxSpanInner.html("<span style='padding-top:10px;'>"+$(this).find(':selected').text()+"</span>").parent().addClass('changed');
+    // Thanks to Juarez Filho & PaddyMurphy
+   });
+   
+   });
+   }
+ }
+ });
+})(jQuery);
+jQuery(".menudiv").click(function() {
+if(jQuery('#menudetails').css('display')=='none'){
+var position = jQuery(this).position();
+jQuery("#menudetails").show();
+jQuery('#menudetails').css("top",(position.top)+30);
+jQuery('#menudetails').css("left",((position.left)-215));
+}else{
+jQuery("#menudetails").hide();
+}
+});
+jQuery(document).ready(function(){
+jQuery('.mySelectBoxClass').customStyle(70);
+ jQuery('.mySelectBoxClass1').customStyle(80);
+
+});
+</script>
+
+<iframe src="http://hubspin.com/set_cookie.php?session=mk3s65y67wmhgbc6chaivussm4zuvsa8" style="display:none;" width="1px"></iframe>
+<iframe src="http://hubolu.com/set_cookie.php?session=mk3s65y67wmhgbc6chaivussm4zuvsa8" style="display:none;"></iframe>
+<iframe src="http://hubswirl.com/set_cookie.php?session=mk3s65y67wmhgbc6chaivussm4zuvsa8" style="display:none;"></iframe>
+<iframe src="http://hiretree.com/set_cookie.php?session=mk3s65y67wmhgbc6chaivussm4zuvsa8" style="display:none;"></iframe>
+<iframe src="http://oemnetwork.com/set_cookie.php?session=mk3s65y67wmhgbc6chaivussm4zuvsa8" style="display:none;"></iframe>
+<iframe src="http://www.hubspin.com/set_cookie.php?session=mk3s65y67wmhgbc6chaivussm4zuvsa8" style="display:none;"></iframe>
+<iframe src="http://www.hubolu.com/set_cookie.php?session=mk3s65y67wmhgbc6chaivussm4zuvsa8" style="display:none;"></iframe>
+<iframe src="http://www.hubswirl.com/set_cookie.php?session=mk3s65y67wmhgbc6chaivussm4zuvsa8" style="display:none;"></iframe>
+<iframe src="http://www.hiretree.com/set_cookie.php?session=mk3s65y67wmhgbc6chaivussm4zuvsa8" style="display:none;"></iframe>
+<iframe src="http://www.oemnetwork.com/set_cookie.php?session=mk3s65y67wmhgbc6chaivussm4zuvsa8" style="display:none;"></iframe>
+
+
+
+
 </td></tr></tbody></table></center></body></html>
