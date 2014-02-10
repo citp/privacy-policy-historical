@@ -1,116 +1,128 @@
-> *The following text is extracted and transformed from the rocketon.com privacy policy that was archived on 2013-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130315114127id_/http%3A//rocketon.com/a/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketon.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210133414id_/http%3A//www.rocketsoftware.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
-# RocketOn - parallel virtual world - with online game avatars chat play interact games massively multiplayer gaming MMOG
+# Privacy Policy | Rocket Software
 
-Beta Version 
+### Overview
 
-Privacy Policy
+Rocket Software, Inc. (“Rocket”) is committed to protecting your personal information and respecting your privacy.
 
-  
-RocketOn, Inc. ("RocketOn") recognizes that its customers, visitors, users, and others (collectively or individually "Users") who use RocketOn.com or other web sites owned or operated by RocketOn (the "RocketOn Sites") value their privacy. The RocketOn Sites include, but are not limited to, the domain names RocketOn.com, RocketOn.org, RockitOn.com, RocketOn.cn, RocketOn.biz, RocketOn.mobi and RocketOn.tv. This Privacy Policy details important information regarding the use and disclosure of User information collected on the RocketOn Sites. RocketOn provides this Privacy Policy to help you make an informed decision about whether to use or continue using the RocketOn Sites.
+In general, you can visit Rocket on the Web without telling us who you are or revealing any information about yourself.
 
-This Privacy Policy is incorporated in and is subject to the RocketOn's [Terms of Use](https://web.archive.org/web/20130315114127id_/http%3A//rocketon.com/a/terms.php). Your use of the RocketOn Sites and any personal information you provide on the RocketOn Sites remains subject to the terms of this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20130315114127id_/http%3A//rocketon.com/a/terms.php).
+Rocket will never sell, rent or disclose your personally identifiable information to outside parties without your consent unless compelled by law or court order to do so. With your permission, Rocket may send you e-mail regarding our new products, upgrades, or select third party products. In any case, we do not disclose your personally identifiable information to such third parties. Please see below regarding how our privacy policy applies when you purchase third party products on our Web Site.
 
-Please note that any images, photos, videos, messages, text, or any other content posted at the discretion of Users onto the RocketOn Sites becomes published content and is not considered personally identifiable information subject to this Privacy Policy.
+### Information That We Gather and Track
 
-**The Information RocketOn Collects:**
+There are times when we may need to collect information from you through our Web Site. This generally involves filling out forms so you can download or order a Rocket or third party product from our Web Site. When you download the products we require you to fill out a form with your name and email address.
 
-  * User Provided Information:
+Rocket uses various methods to collect certain other kinds of information, including:
 
-You provide certain personally identifiable information (such as your name and email address) to RocketOn when choosing to participate in various activities on the RocketOn Sites. Examples of such activities include, but are not limited to: posting or uploading images, photos, videos, ideas and messages, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.
-
-  * Cookies Information:
-
-When you visit the RocketOn Sites, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. RocketOn uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the RocketOn Sites may not function properly if the ability to accept cookies is disabled.
-
-  * Browser Plug-In:
-
-When you use the RocketOn Browser Plug-In, we may employ web tracking and data gathering techniques which are used to track the online usage patterns of our Users anonymously (i.e. in a non-personally-identifiable manner). This information may be available to our web and advertising partners. You can turn off the web tracking and data gathering features by simply turning off the browser plug-in.
-
-  * Log File Information:
-
-When you use the RocketOn Sites, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
-
-  * Clear GIFs Information:
-
-When you use the RocketOn Sites, we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users anonymously (i.e. in a non-personally-identifiable manner). In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients.
+  * Cookies
+  * Referers
+  * IP addresses
+  * System information
 
 
-**The Way RocketOn Uses Information:**
 
-Submitting your personally identifiable information to us through the RocketOn Sites enable us to operate, maintain, and provide to you the features and functionality of the RocketOn Sites.
+None of these methods can be personally identified with you with the exception of cookies, which can optionally store information that you may enter in forms on our Web Site, as described below.
 
-Any personal information, images, photos, videos, text or other content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Users when you upload, post or contribute images, photos, videos, messages, text, or send messages through the RocketOn Sites, and other Users can contact you through messages and comments. Additionally, any images, photos, videos, messages, text, or other content that you submit to the RocketOn Sites may be redistributed through the internet and other media channels, and may be viewed by the general public.
+Rocket may use Globally Unique Identifiers (GUIDs) to notify us of the installation of one of Rocket’s products.
 
-We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent, except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without consent for non-marketing or administrative purposes (such as notification of major RocketOn Site changes or for customer service purposes).
+A "cookie" is an element of data that a Web Site can send to your browser, which may then store it on your system. It can be used to provide you with a tailored user experience. Some Rocket pages use cookies. Cookies are used to better personalize the content, banners and promotions that you and other users will see. We may use the information to research and understand how our users’ habits in the aggregate are similar or different so that we can enhance your experience on Rocket sites and with our products. With your consent, cookies can optionally store information from forms that you fill out on our site so that next time you visit, you do not have to re-enter this information. For example, this would allow you to enter your zip code so that next time you visit, you can automatically see local content from your area. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. Rocket does not require that you accept cookies.
 
-We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the RocketOn Sites and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.
+A "referer" is the information passed along by a web browser that references the Web URL you linked from, and is automatically collected by our Web server. This information is collected and used by Rocket to understand the web sites referring traffic to our download pages and to present appropriate content to our potential customers. Referer information is tabulated by Rocket on an aggregated basis to identify general trends and traffic patterns.
 
-We use cookies, clear gifs, and log file information to (a) remember information so that you will not have to re-enter it during your subsequent visits; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
+From time to time, Rocket may enter into agreements with content partners that require Rocket to count the number of product downloads and/or product sales stemming from a referral from a content partner site. This information is collected, used and aggregated by Rocket to fulfill the reporting requirements of those agreements. This information may also be combined with the referer information described above and tabulated on an aggregated basis to identify general trends and traffic patterns. At the time of product download and/or purchase, information you provide to Rocket, including personal information and referring URL’s, is collected in our web server logs and customer database and is kept strictly confidential and not shared with third parties.
 
-**When RocketOn Discloses Information:**
+IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer so that data (such as the Web pages you request) can be sent to you. They are automatically gathered by our Web server. Rocket will not use your IP address to attempt to identify your personal information.
 
-We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy. We also use reasonable efforts to (a) limit their use of such information, and (b) use other appropriate confidentiality and security measures.
+System information we gather includes time, type of Web browser being used, the operating system/platform, and CPU speed. This information is sent automatically by your Web browser when you are connected to a Web Site and is used by Rocket only for broad demographic statistics. This information is used by Rocket in identifying broad demographic trends and may be used to provide information appropriate for your computer system. You will not be personally identified from this information.
 
-We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent, except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+### What We Do With the Information We Gather and Track
 
-We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the RocketOn Sites.
+The personally identifiable information gathered from the forms you fill out on our Web site is used in one of four ways:
 
-We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law), or respond to a court order, subpoena, or search warrant.
+  * to provide you with information or to ask you to participate in surveys about products, services, news and events,
+  * to allow you to purchase and download products;
+  * to aggregate broad demographic information in order to understand general user trends;and
+  * to ensure our compliance with export control and other applicable laws and regulations.
 
-RocketOn also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that RocketOn believes, in good faith, is appropriate or necessary to enforce our [Terms of Use](https://web.archive.org/web/20130315114127id_/http%3A//rocketon.com/a/terms.php), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our website, and to protect the rights, property, or personal safety of RocketOn, our Users or others.
 
-**Your Choices About Privacy:**
 
-You may decline to submit personally identifiable information through the RocketOn Sites, in which case RocketOn may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your account profile, if you have one.�Please note that any images, photos, videos, text or other content uploaded by Users to the RocketOn Sites cannot be removed by Users and remain subject to our [Terms of Use](https://web.archive.org/web/20130315114127id_/http%3A//rocketon.com/a/terms.php).
+Rocket retains the services of certain outside contractors to perform services on our behalf. At times, we must disclose relevant information about our customers to our contractors so they may provide specific services for Rocket.  Rocket requires such contractors to keep your information strictly confidential and to use the information solely on behalf of Rocket. For purposes of this Privacy Statement, such contractors are not considered "third parties" and Rocket may disclose personally identifiable information to such contractors without additional notice.
 
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
+In addition, the Rocket Web Sites contain links to other web sites. However, Rocket is not responsible for the privacy practices or the content of such web sites.
 
-Please contact RocketOn with any questions or comments about this Privacy Policy, your personal information, your consent, or your opt-in or opt-out choices using our [Contact Page](https://web.archive.org/web/20130315114127id_/http%3A//rocketon.com/a/contact.php).
+### What We Do with Information Gathered When You Acquire Third Party Products
 
-**Third-party Services:**
+Rocket will never sell, rent or disclose to third parties our users’ personally identifiable information collected from the distribution of Rocket products or gathered on a Rocket Web Site. If you purchase a product or service developed or owned by a third party, Rocket may provide to the product owner or licensor the same information you provide to us.
 
-RocketOn may allow other companies, called third-party services, to fulfill certain functions within the RocketOn Sites. These functions include without limitation: processing orders, processing credit card transactions, fulfilling orders, delivering content. These third-party services may ask for your private information.
+### Special Third Party Relationships
 
-You should consult the respective privacy policies of these third-party services for more information on their practices and for instructions on how to opt-out of certain practices. RocketOn's privacy policy does not apply to, and we cannot control the activities of, such third parties or web sites.
+On occasion, Rocket will offer our product users and web site visitors the opportunity to participate in third party or co-branded promotions, sweepstakes or special programs.
 
-Currently, RocketOn relationships include, but are not limited to, the following third-party services:
+The use of any information provided by a user in entering such a third party promotion will be specified prior to the user providing such information. We will also specify the manner in which such information is to be used. If your personal information is to be shared with a third party, it will only be done so with your advance informed consent.
 
-PayPal: [www.paypal.com](http://www.paypal.com/)  
-PayByCash: [www.paybycash.com](http://www.paybycash.com/)  
-Zong: [www.zong.com](http://www.zong.com/)  
-Super Rewards: [www.srpoints.com](http://www.srpoints.com/)  
-Peanut Labs: [www.peanutlabs.com](http://www.peanutlabs.com/)  
-Quantcast: [www.quantcast.com](http://www.quantcast.com/)
+These relationships will be clearly identified by Rocket
 
-**Our Commitment To Data Security:**
+The privacy policy or policies governing such third party promotions and/or co-branded programs will be specified.
 
-RocketOn uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to RocketOn, and you do so at your own risk. Once we receive your transmission of information, RocketOn makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+### Communications to our Consumers
 
-If RocketOn learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. RocketOn may post a notice on the RocketOn Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using our [Contact Page](https://web.archive.org/web/20130315114127id_/http%3A//rocketon.com/a/contact.php).
+In addition to product update, promotional and informational e-mails that Rocket sends to its users from time to time, we may, on occasion, invite you to participate in a focus group, phone survey or send you postal mail.
 
-**Our Commitment To Childrens' Privacy:**
+You may always opt-out of receiving such mail by clicking on the link provided at the bottom of our e-mail to you.
 
-Protecting the privacy of young children is especially important. For this reason, RocketOn does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the RocketOn Sites from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the RocketOn Sites at any time or in any manner. If RocketOn learns that personally identifiable information of persons under 13 years of age has been collected on the RocketOn Sites without verified parental consent, then RocketOn will take the appropriate steps to delete this information.
+Once you supply us with personal information, such as an e-mail address, Rocket does not change the manner of usage of such information from its original purpose, unless we first obtain your informed consent.
 
-**Special Note to International Users:**
+### Security of Personal and Payment Information
 
-The RocketOn Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the RocketOn Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the RocketOn Sites, which are governed by U.S. law, this Privacy Policy, and our [Terms of Use](https://web.archive.org/web/20130315114127id_/http%3A//rocketon.com/a/terms.php), you are transferring your personal information to the United States and you consent to that transfer.
+Rocket maintains controls to provide security over certain financial information you provide us, including credit card details, during the purchase process. This is evidenced through:
 
-**In the Event of Merger, Sale, or Bankruptcy:**
+  * The use of secure connections using SSL to safeguard information when transmitted from the customer’s web browser to Rocket.
+  * The logical authentication security within the databases that store customer’s credit card numbers.
+  * Use of encryption of credit card numbers
 
-In the event that RocketOn is acquired by or merged with a third party entity, we reserve the right to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
 
-**Changes & Updates to this Privacy Policy:**
 
-This Privacy Policy may be revised periodically which will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Policy in effect when we received the personal information you provided. Your continued use of the RocketOn Sites constitutes your agreement to this Privacy Policy and any future revisions.
+Rocket employees are required to acknowledge that they understand and will strictly abide by our corporate policies with respect to the confidentiality of user personal information.
 
-For revisions to this Privacy Policy that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
+Rocket only gives access to databases containing personal information to employees on a need to know basis. Passwords are regularly changed pursuant to security protocols.
 
-**Date Last Modified:**
+### Google Analytics and Advertising
 
-This Privacy Policy was last modified July 22, 2009.
+Rocket uses all features of Google Analytics for Display Advertisers. This includes obtaining specific visitor cookie data, such as the source, medium and keyword used to visit our Web Sites. Google Analytics does not store any visitor-specific data and we will not use visitor-specific data in any way related to Google Analytics, Google AdWords, and Remarketing.
 
-**Contact Information:**
+Rocket uses remarketing with Google AdWords and analytics to display content-specific advertisements to visitors that have previously visited our site when those visitors go to other websites that have the Google Display Network implemented.
 
-Please contact RocketOn with any questions or comments about this Privacy Policy using our [Contact Page](https://web.archive.org/web/20130315114127id_/http%3A//rocketon.com/a/contact.php).
+Rocket and other third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on visitors’ past visits to our Web Sites.
+
+When creating remarketing lists, we cannot and do not use any sensitive information about users, including but not limited to health or medical history or information, financial status or other detailed information pertaining to a person’s finances, racial or ethnic origins, religious beliefs or other beliefs of a similar nature, the commission or alleged commission of any crime, political opinions or beliefs, trade union membership, or sexual behavior or orientation.
+
+As Google AdWords advertisers, we are restricted from and will not perform the following actions:
+
+(a) Running ads that collect Personally Identifiable Information (PII) including, but not limited to, email addresses, telephone numbers, and credit card numbers.  
+(b) Creating a remarketing list or creating ad text that specifically targets users in ways that are outlined as prohibited.
+
+You can opt out of Google Analytics for Display Advertisers and opt out of customized Google Display Network ads by visiting the Ads Preferences Manager.
+
+### Changes to our Privacy Policies
+
+We revise our Web Site Privacy policy to keep it up to date with Rocket products, services and web pages. We also post FAQ’s from time to time on specific products.
+
+### What Sites This Covers
+
+Rocket owns and maintains a variety of Web Sites. Each of these sites may have their own mailing lists or other methods of contacting customers. All of the sites follow this privacy statement for gathering information or sharing personally identifiable information with third parties.
+
+Rocket will use reasonable efforts to comply with this privacy statement and will take prompt corrective action when it learns of any failure to comply with its privacy statement. Because of the complex and constantly changing nature of our technology and business, Rocket does not guarantee error-free performance under this privacy statement. Rocket shall not be liable for any incidental, consequential or punitive damages relating to this privacy statement.
+
+### Contacting Us about Privacy
+
+If you have any questions about this privacy statement, the practices of our software or Web Sites, you may contact:
+
+Legal Department – Privacy  
+Rocket Software, Inc.  
+77 Fourth Avenue  
+Waltham, MA 02451-1468  
+[privacypolicy@rocketsoftware.com](mailto:privacypolicy@rocketsoftware.com)
+
+_Updated 7  October 2013_
