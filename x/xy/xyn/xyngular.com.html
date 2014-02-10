@@ -1,27 +1,28 @@
-<!--The following is the downloaded HTML source of the xyngular.com privacy policy that was archived on 2013-04-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130425202210id_/https%3A//www.xyngular.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the xyngular.com privacy policy that was archived on 2014-02-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140210233640id_/https%3A//www.xyngular.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US"><!--<![endif]--><head>
 <meta charset="UTF-8">
 <!-- <meta name="viewport" content="width=device-width" /> -->
-<title>Privacy | Xyngular Corporation</title>
+<title>
+	Privacy | Xyngular Corporation</title>
 
 <link rel="stylesheet" href="https://www.xyngular.com/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.6.0" type="text/css" media="all">
 
-<!-- Test -->
-<link rel="stylesheet" href="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/style.css?1359056360" type="text/css" media="screen, projection">
-
-<!--<link rel="stylesheet" type="text/css" media="all" href="" />-->
+<link rel="shortcut icon" href="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/favicon.ico">
+<link rel="stylesheet" href="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/style.css?1390514198" type="text/css" media="screen, projection">
 <link rel="stylesheet" type="text/css" media="all" href="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/theme_assets/css/shadowbox.css">
-<style type="text/css">
-#corp_sub_nav li a.active-left,#corp_sub_nav li.active ul li a.active-left, #corp_sub_nav li ul li a.active-left{ font-weight:bold; color: #000; font-size:11px;}
-#cmm-menu-horizontal-dark li a.active-top{color:#C4D600;}
 
-
-</style>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script> 
 <script type="text/javascript" src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/theme_assets/js/jquery.cycle.all.min.js"></script>
-
+<style type="text/css">
+	#corp_sub_nav li a.active-left,#corp_sub_nav li.active ul li a.active-left, #corp_sub_nav li ul li a.active-left {
+		font-weight:bold; color: #000; font-size:11px;
+	}
+	#cmm-menu-horizontal-dark li a.active-top {
+		color:#C4D600;
+	}
+</style>
 
 <script type="text/javascript">
 $(function() {
@@ -44,33 +45,34 @@ $(function() {
 	});
 	
 	function pagerFactory(idx, slide) {
-        var s = idx > 10 ? ' style="display:none"' : '';
-        return '<li'+s+'><a href="#/' + idx + '"></a></li>';
-    };
+      var s = idx > 10 ? ' style="display:none"' : '';
+      return '<li'+s+'><a href="#/' + idx + '"></a></li>';
+  };
 		
-		$('img[data-hover]').hover(function() {
-			$(this).attr('tmp', $(this).attr('src')).attr('src', $(this).attr('data-hover')).attr('data-hover', $(this).attr('tmp')).removeAttr('tmp');
-		}).each(function() {
-			$('<img />').attr('src', $(this).attr('data-hover'));
-		});
-		$('#corp_sub_nav').hoverAccordion({
+	$('img[data-hover]').hover(function() {
+		$(this).attr('tmp', $(this).attr('src')).attr('src', $(this).attr('data-hover')).attr('data-hover', $(this).attr('tmp')).removeAttr('tmp');
+	}).each(function() {
+		$('<img />').attr('src', $(this).attr('data-hover'));
+	});
+		
+		/*$('#corp_sub_nav').hoverAccordion({
 			onClickOnly:true,
 						keepHeight:true,
 			speed: 400
-		});
+		});*/
  
-        $('#corp_sub_nav').children('li:first').addClass('firstitem');
-        $('#corp_sub_nav').children('li:last').addClass('lastitem');
+    //$('#corp_sub_nav').children('li:first').addClass('firstitem');
+    //$('#corp_sub_nav').children('li:last').addClass('lastitem');
 		
 		
-		$("#nav_left ul li a").each(function(){
+		/*$("#nav_left ul li a").each(function(){
 			//alert(window.location.href +"+"+ $(this).attr("href"));
 			if(window.location.href == $(this).attr("href") || window.location.href == $(this).attr("href") + "/"){
 				$(this).addClass("active-left");
 			}
-		});
+		});*/
 		
-		$("#nav_left > ul > li.active > ul > li > a").each(function(){
+		/*$("#nav_left > ul > li.active > ul > li > a").each(function(){
 			//$("body").append(window.location.href+"="+$(this).attr("href")+"\n");
 			if(window.location.href == $(this).attr("href") || window.location.href == $(this).attr("href") + "/"){
 				$(this).addClass("active-left");
@@ -83,39 +85,36 @@ $(function() {
 			if(topmenu == $(this).html()){
 				$(this).addClass("active-top");
 			}
-		});
+		});*/
 		
-		if($.browser.msie){
+	if($.browser.msie){
 
-			//alert($.browser.version);
-			if($.browser.version == "8.0"){
-				$("div.logintab a.open").click(function(){
-					$("div#toppanel div").animate({height:"+=245px"},1000);
-				});
-				
-				$("div.logintab a.close").click(function(){
-					$("div#toppanel div").animate({height:"1px"},1000);
-				});
-			}
-			$("#lang_sel").mouseover(function(){
-				var lang_sel_listheight = $("#lang_sel ul ul").css("visibility","visible").height();
-				lang_sel_listheight = lang_sel_listheight + 30;
-				//alert(lang_sel_listheight);
-				$(this).css("height", lang_sel_listheight+"px");
-				$("div.logintab").css("height",lang_sel_listheight+"px");
+		//alert($.browser.version);
+		if($.browser.version == "8.0"){
+			$("div.logintab a.open").click(function(){
+				$("div#toppanel div").animate({height:"+=245px"},1000);
 			});
 			
-			$("#lang_sel ul").mouseout(function(){
-				$("#lang_sel ul ul").css("visibility","hidden");
-				$("#lang_sel").css("height","32px");
-				$("div.logintab").css("height","36px");
+			$("div.logintab a.close").click(function(){
+				$("div#toppanel div").animate({height:"1px"},1000);
 			});
 		}
+		$("#lang_sel").mouseover(function(){
+			var lang_sel_listheight = $("#lang_sel ul ul").css("visibility","visible").height();
+			lang_sel_listheight = lang_sel_listheight + 30;
+			//console.log(lang_sel_listheight);
+			$(this).css("height", lang_sel_listheight+"px");
+			$("div.logintab").css("height",lang_sel_listheight+"px");
+		});
+		
+		$("#lang_sel ul").mouseout(function(){
+			$("#lang_sel ul ul").css("visibility","hidden");
+			$("#lang_sel").css("height","32px");
+			$("div.logintab").css("height","36px");
+		});
+	}
 		
 });
-
-
-
 </script>
 <script type="text/javascript">
 function createCookie(name,value,days) {
@@ -140,17 +139,21 @@ function readCookie(name) {
 }
 	
 	var wpurl = "https://www.xyngular.com";
+	//console.log('wpurl: '+wpurl);
 	var redirect_to = "";
 		redirect_to += wpurl;
 		
 		
 	if(readCookie('HPAGEDIR') != null){
+		// Don't auto load distributor pages from cookie
 		//redirect_to += "/"+readCookie('HPAGEDIR');
 	}
 	
 		
-	/*var ICL_LANGUAGE_CODE = "en";
-	if(ICL_LANGUAGE_CODE != null && ICL_LANGUAGE_CODE != "en")
+	var ICL_LANGUAGE_CODE = "en";
+	//console.log('Language Code: '+ICL_LANGUAGE_CODE);
+	
+	/*if(ICL_LANGUAGE_CODE != null && ICL_LANGUAGE_CODE != "en")
 	{
 		createCookie('ICL_LANGUAGE_CODE',ICL_LANGUAGE_CODE,7);
 	}
@@ -160,20 +163,20 @@ function readCookie(name) {
 	}*/
 	
 	if(readCookie('COUNTRY') != null){
-		/*var country_lang =  "";
+		var country_lang =  "";
 		if(country_lang!=""){
 			country_lang = "/"+country_lang;
-		}*/
+		}
 		redirect_to += "?cc=" + readCookie('COUNTRY');
 	}
 	
 	if(readCookie('COUNTRY') != null && window.location.href == wpurl+"/")
 	{
-		//alert("redireting to="+redirect_to);
+		//console.log('redirecting to: '+redirect_to);
 		window.location.href = redirect_to;
 	}
 	
-	//alert(readCookie('HPAGEDIR') +"+"+ window.location.href);
+	//console.log('HPAGEDIR: '+readCookie('HPAGEDIR') +"+"+ window.location.href);
 </script>
 
 <!--[if lt IE 9]>
@@ -216,8 +219,7 @@ var initOpts = {"wpUrl":"https:\/\/www.xyngular.com","pluginUrl":"https:\/\/www.
 <link rel="alternate" hreflang="" href="https://www.xyngular.com/cn/privacy-policy-cn/">
 <link rel="alternate" hreflang="" href="https://www.xyngular.com/ep/privacy-policy-ep/">
 <link rel="alternate" hreflang="" href="https://www.xyngular.com/ir/privacy-policy-ir/">
-<style type="text/css">
-</style>
+
 <!-- prevent iframe busting -->
 <script type="text/javascript">if(top !== self) top.location.href = self.location.href</script>
 <script type="text/javascript" src="/wp-content/plugins/wp-ui/js/jquery.easing.1.3.js?ver=3.2.1"></script>
@@ -225,28 +227,6 @@ var initOpts = {"wpUrl":"https:\/\/www.xyngular.com","pluginUrl":"https:\/\/www.
 <script type="text/javascript" src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/theme_assets/js/jquery.hoveraccordion.min.js"></script>
 <script type="text/javascript" src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/theme_assets/js/shadowbox.js"></script>	
 <script type="text/javascript">Shadowbox.init();</script>
-
-
-<!--<SCRIPT LANGUAGE="JavaScript">
-function AlertMessage(){
-    Shadowbox.open({
-        player:     'iframe',
-        content:    '/uc.html',
-        height:     300,
-        width:      800,
-        modal: 		true
-    });
-}
-
-
-
-Shadowbox.init({
-    language:   "en",
-    players:    ["flv", "html", "iframe", "img", "qt", "swf", "wmp"],
-    modal:		true, 
-    skipSetup:	true
-});
-</script>-->
 
 <!-- Google Analytics Code -->
 <script type="text/javascript">
@@ -309,31 +289,31 @@ Shadowbox.init({
 <body class="page page-id-58 page-template page-template-footer_nav_pages_template-php en singular two-column right-sidebar">
 
 <div class="container"><!-- wrapping container -->
-	<div id="main" class="group"><!-- sticky fotter div -->
-		<div id="header" class="group"> 
-			<div class="wrap"> 
-	
-		    	<div id="logo">
-		    		<img src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/theme_assets/images/xyngular_green.png" alt="Xyngular Corporation" width="265">
-		    	</div><!-- end logo -->
-		        
-				<div id="head_menu">
-					<div id="wrapper-cmm-menu-horizontal-dark"><ul id="cmm-menu-horizontal-dark" class="menu_black"><li class="nodrop"><a href="https://www.xyngular.com/">HOME</a></li><li><a href="https://www.xyngular.com/products" class="drop">PRODUCTS</a><div class="dropdown_3columns"><div class="col_4">
-<a href="https://www.xyngular.com/products"><img src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/theme_assets/images/products_all_up.png" class="img_left imgshadow_light" title="Xyngular" alt=""></a>
+	<div id="header" class="group"> 
+		<div class="wrap"> 
+
+		<div id="logo">
+			<a href="/"><img src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/theme_assets/images/xyngular_green.png" alt="Xyngular Corporation" width="265"></a>
+		</div><!-- end logo -->
+
+		<div id="head_menu">
+			<div id="wrapper-cmm-menu-horizontal-dark"><ul id="cmm-menu-horizontal-dark" class="menu_black"><li class="nodrop"><a href="https://www.xyngular.com/">HOME</a></li><li><a href="https://www.xyngular.com/products" class="drop">PRODUCTS</a><div class="dropdown_3columns"><div class="col_4">
+<a href="https://www.xyngular.com/products"><img src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/theme_assets/images/products&#10;.png" class="img_left imgshadow_light" title="" alt=""></a>
+
 <a href="https://www.xyngular.com/super-fruit">
-<img src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/theme_assets/images/superfruit_up.png" class="img_left imgshadow_light" title="" alt=""></a>
+<img src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/uploads/products_sfg.png" class="img_left imgshadow_light" title="" alt=""></a>
 <a href="https://www.xyngular.com/xypstix">
-<img src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/theme_assets/images/xypstix_up.png" class="img_left imgshadow_light" title="" alt=""></a>
+<img src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/uploads/products_xypstix.png" class="img_left imgshadow_light" title="" alt=""></a>
 <a href="https://www.xyngular.com/axion">
-<img src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/theme_assets/images/axion_up.png" class="img_left imgshadow_light" title="" alt=""></a>
+<img src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/theme_assets/images/products_axion.png" class="img_left imgshadow_light" title="" alt=""></a>
 <a href="https://www.xyngular.com/xyng">
-<img src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/theme_assets/images/xyng_up.png" class="img_left imgshadow_light" title="" alt=""></a>
+<img src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/uploads/products_xyng.png" class="img_left imgshadow_light" title="" alt=""></a>
 <a href="https://www.xyngular.com/core4">
-<img src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/theme_assets/images/core4_up.png" class="img_left imgshadow_light" title="" alt=""></a>
+<img src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/theme_assets/images/products_core4.png" class="img_left imgshadow_light" title="" alt=""></a>
 <a href="https://www.xyngular.com/ignite">
-<img src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/theme_assets/images/ignite_up.png" class="img_left imgshadow_light" title="" alt=""></a>
-<a href="https://www.xyngular.com/order-now-en">
-<img src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/theme_assets/images/ordernow_up.png" class="img_left imgshadow_light" title="" alt=""></a>
+<img src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/theme_assets/images/products_ignite.png" class="img_left imgshadow_light" title="" alt=""></a>
+<a href="https://www.xyngular.com/spryng-product">
+<img src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/theme_assets/images/products_spryng.png" class="img_left imgshadow_light" title="" alt=""></a>
 
 </div></div></li><li><a href="https://www.xyngular.com/opportunity" class="drop">OPPORTUNITY</a><div class="dropdown_2columns"><div class="col_3">
 <a href="https://www.xyngular.com/opportunity"><img src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/theme_assets/images/opportunity_all_up.png" class="img_left imgshadow_light" title="" alt=""></a>
@@ -352,10 +332,7 @@ Shadowbox.init({
 </div></li><li><a href="https://www.xyngular.com/team" class="drop">TEAM</a><div class="dropdown_4columns"><div class="col_3">
 <a href="https://www.xyngular.com/team"><img src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/theme_assets/images/team_all_up.png" class="img_left imgshadow_light" title="An image title" alt="Some alternative text"></a>
 <a href="https://www.xyngular.com/marc-walker">
-<img src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/theme_assets/images/team_team_up.png" class="img_left imgshadow_light" title="An image title" alt="Some alternative text"></a>
-
-
-
+<img src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/uploads/team_team_up1.png" class="img_left imgshadow_light" title="An image title" alt="Some alternative text"></a>
 </div>
 </div></li><li><a href="https://www.xyngular.com/wellness" class="drop">WELLNESS</a><div class="dropdown_2columns"><div class="col_3">
 <a href="https://www.xyngular.com/wellness"><img src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/theme_assets/images/wellness_all_up.png" class="img_left imgshadow_light" title="An image title" alt="Some alternative text"></a>
@@ -378,12 +355,13 @@ Shadowbox.init({
 
 
 </div>
-</div></li><li class="nodrop"><a href="https://www.xyngular.com/resources">RESOURCES</a></li></ul></div>				</div> <!-- end head_menu -->
-		        
-				<!--<ul id="nav"></ul>-->
+</div></li><li class="nodrop"><a href="https://www.xyngular.com/resources">RESOURCES</a></li></ul></div>		</div> <!-- end head_menu -->
 
-			</div><!-- end wrap -->
-		</div><!-- end header -->			  
+		<!--<ul id="nav"></ul>-->
+
+		</div><!-- end wrap -->
+	</div><!-- end header -->	
+	<div id="main" class="group">  
 				
 		<div id="page" class="hfeed">
 			<div id="main">
@@ -587,67 +565,42 @@ window.attachEvent("onload", initsidebarmenu)
 
 
 
-<div id="footer" class="footer_inside"> 
+<div id="footer" class="footer_inside">
+	<div class="footer_left">
+		<a href="https://www.xyngular.com/get-started-en" class="btn_footer">get started now <i class="icon">»</i></a>
+		<a href="https://www.xyngular.com/contact-us" title="Contact Us'" class="btn_footer">contact me <i class="icon">»</i></a>	
+	</div>
 	
-    <div id="footer_nav" class="access_inside">
-    	<div id="access" role="navigation" class="access_inside">			  				
-			<div class="menu andarwala">
+	<div class="footer_right">
+		<ul>
+			<li><div style="width: 160px; height: 10px;"></div></li>
+			<li class="">
+				<a href="https://www.xyngular.com/legal-notice" title="Legal Notice">Legal Notice</a>
+			</li>
 				
-				<ul> 
-				<li class="no_dash">
-					<a href="https://www.xyngular.com/get-started-en">
-						<button onclick="location.href='https://www.xyngular.com/get-started-en'" class="getstarted"></button>
-					</a>
-				</li>
-				<li class="no_dash">
-					<a href="https://www.xyngular.com/contact-us" title="Contact Us">											 
-						<button onclick="location.href='https://www.xyngular.com/contact-us" title="Contact Us'" class="contactme"></button>
-
-					</a>
-				</li>
+			<li class="">
+				<a href="https://www.xyngular.com/terms-conditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a>
+			</li>
 				
-				<li class="no_dash">
-					<a href="http://www.facebook.com/xyngularcorp">
-						<img src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/theme_assets/images/facebook_icon_small.png" alt="Xyngular Facebook" width="20" height="20">
-					</a></li>					
-				<li class="no_dash">
-					<a href="http://twitter.com/#!/xyngularcorp">
-						<img src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/theme_assets/images/twitter_icon_small.png" alt="Xyngular Twitter" width="20" height="20">
-					</a></li>
-				<li class="no_dash">				
-					<a href="http://www.youtube.com/user/xyngularcorp">
-						<img src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/theme_assets/images/youtube_icon_small.png" alt="Xyngular You Tube" width="20" height="20">
-					</a></li>
-				<li class="no_dash">				
-					<a href="http://pinterest.com/xyngularcorp/">
-						<img src="https://c15001434.ssl.cf2.rackcdn.com/wp-content/themes/xyngular_corp/theme_assets/images/pinterest_icon_small.png" alt="Xyngular You Tube" width="20" height="20">
-					</a></li>
-				<li class="">
-					<a href="https://www.xyngular.com/legal-notice" title="Legal Notice">Legal Notice</a>
-					</li>
-					
-					<li class="">
-					<a href="https://www.xyngular.com/terms-conditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a>
-					</li>
-					
-					<li class="">
-					<a href="https://www.xyngular.com/return-policy" title="Return Policy">Return Policy</a>
-					</li>
-					
-					<li class="">
-					<a href="https://www.xyngular.com/privacy-policy" title="Privacy">Privacy</a></li>
-					
-					<li class="">
-					<a href="https://www.xyngular.com/security-policy" title="Security">Security</a></li>
+			<li class="">
+				<a href="https://www.xyngular.com/return-policy" title="Return Policy">Return Policy</a>
+			</li>
+				
+			<li class="">
+				<a href="https://www.xyngular.com/privacy-policy" title="Privacy">Privacy</a>
+			</li>
+				
+			<li class="">
+				<a href="https://www.xyngular.com/security-policy" title="Security">Security</a>
+			</li>
 
-					<li class="no_dash">
-					<a href="https://www.xyngular.com/career-opp-en" title="Careers">Careers</a></li>
-					
-					
-				</ul>
-			</div>
-		</div><!-- #access -->
-    </div>
+			<li>
+				<a href="https://www.xyngular.com/career-opp-en" title="Careers">Careers</a>
+			</li>
+				
+				
+			</ul>
+	</div>  				
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -670,4 +623,4 @@ window.attachEvent("onload", initsidebarmenu)
 
 Content Delivery Network via Rackspace Cloud Files: c15001434.ssl.cf2.rackcdn.com
 
-Served from: www.xyngular.com @ 2013-04-25 14:22:11 --></body></html>
+Served from: www.xyngular.com @ 2014-02-10 16:36:40 --></body></html>
