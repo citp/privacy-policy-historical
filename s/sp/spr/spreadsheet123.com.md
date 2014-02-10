@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreadsheet123.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118210813id_/http%3A//www.spreadsheet123.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadsheet123.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210084052id_/http%3A//www.spreadsheet123.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Spreadsheet123 - Privacy Policy.
 
