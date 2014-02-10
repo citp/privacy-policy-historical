@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inmod.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424110440id_/http%3A//www.inmod.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmod.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210183858id_/http%3A//www.inmod.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering sys
 
 Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
 
-[](https://web.archive.org/web/20130424110440id_/http%3A//www.inmod.com/index.html)
+[](https://web.archive.org/web/20140210183858id_/http%3A//www.inmod.com/index.html)
 
 1-877-224-6663 or 973-276-0444
 
