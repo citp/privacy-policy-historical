@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stealthattraction.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812184753id_/http%3A//www.puatraining.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stealthattraction.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210230811id_/http%3A//www.puatraining.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -112,8 +112,8 @@ Please let us know if the personal information which we hold about you needs to 
 
 ### (12) Contact
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to info@puatraining.com or by post to Flat C, Coventry House, 5-6 Coventry St, London W16 6BW
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to info@puatraining.com or by post to RLR Media Ltd. (MU), Suite 501, St James Court, St Denis Street, Port-Louis, Mauritius
 
 ### (13) Data controller
 
-The data controller responsible for our website is PUA Training Ltd.
+The data controller responsible for our website is RLR Training Ltd.
