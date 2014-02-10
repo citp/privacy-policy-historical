@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manchestereveningnews.co.uk privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208132641id_/http%3A//www.manchestereveningnews.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manchestereveningnews.co.uk privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210215740id_/http%3A//www.manchestereveningnews.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Manchester Evening News: Number one for news, opinion, sport & celebrity gossip
 
