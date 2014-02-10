@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blugaa.com privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830160356id_/http%3A//www.blugaa.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blugaa.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210082524id_/http%3A//www.blugaa.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Blugaa.com
 
