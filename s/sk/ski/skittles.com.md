@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skittles.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208072334id_/http%3A//www.wrigley.com/global/policies/privacy/pp-us-english.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skittles.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210184653id_/http%3A//www.wrigley.com/global/policies/privacy/pp-us-english.aspx) for the most accurate reproduction.*
 
 # Wrigley.com :: Wrigley Privacy Policy
 
