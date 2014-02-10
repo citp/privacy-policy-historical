@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liketocash.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920002428id_/http%3A//liketocash.com/privacy%3Flightbox%5Bwidth%5D%3D800%26lightbox%5Bheight%5D%3D500) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liketocash.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210071408id_/http%3A//liketocash.com/privacy%3Flightbox%5Bwidth%5D%3D800%26lightbox%5Bheight%5D%3D500) for the most accurate reproduction.*
 
 # None
 
