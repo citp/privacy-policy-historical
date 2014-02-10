@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corndogs.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218080836id_/http%3A//www.hillshirebrands.com/en/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corndogs.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210070832id_/http%3A//www.hillshirebrands.com/en/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Hillshire Brands - Privacy Policy
 
@@ -90,7 +90,7 @@ This policy describes Hillshire Brands’ privacy practices for the websites whe
 
 **You can control if we share information with third parties for their marketing purposes**. To opt out of having us share your information with third parties for their promotional purposes, please email us at [thirdpartyoptout@hillshirebrands.com](mailto:thirdpartyoptout@hillshirebrands.com). If you accept an offer from one of them after you opt out, we will share your information with that specific party. 
 
-**You can control cookies and tracking tools**. To learn how to manage how we – and our vendors – use cookies and other tracking tools, please [click here](https://web.archive.org/OurTrackingTools.aspx). 
+**You can control cookies and tracking tools**. To learn how to manage how we – and our vendors – use cookies and other tracking tools, please [click here](https://web.archive.org/en/OurTrackingTools.aspx). 
 
 **You have other controls you can exercise**. You can choose whether or not to share personal information. If you choose not to share, some parts of our sites and some services may be more difficult or impossible to use. If you turn off cookies or tracking tools, parts of our site and services may also not work properly. 
 
