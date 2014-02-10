@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tinypulse.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813055548id_/https%3A//www.tinypulse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinypulse.com privacy policy that was archived on 2014-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140211002838id_/https%3A//www.tinypulse.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TINYpulse lightweight employee survey solution to improve retention
+# Privacy Policy - TINYpulse: Engaging Employees for Happier Companies
 
 **Last updated: September 10, 2012**
 
