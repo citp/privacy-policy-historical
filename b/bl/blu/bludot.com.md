@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bludot.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821091304id_/http%3A//www.bludot.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bludot.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210012741id_/http%3A//www.bludot.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
