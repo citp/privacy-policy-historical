@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the owntruth.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020062338id_/http%3A//owntruth.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owntruth.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210030415id_/http%3A//owntruth.com/privacy.php) for the most accurate reproduction.*
 
 # Owntruth Exchange System - Get Facebook Fans, Twitter Followers, Youtube Views, Google +1's, Stumbleupon Followers, Digg Followers, Website Hits, Twitter ReTweets, and MORE!
 
@@ -63,7 +63,7 @@ Free YouTube Subscribers, Free Facebook Likes, Free Twitter Followers has the di
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20131020062338id_/http%3A//owntruth.com/tos.php). If you do not agree to this policy or terms, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20140210030415id_/http%3A//owntruth.com/tos.php). If you do not agree to this policy or terms, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
