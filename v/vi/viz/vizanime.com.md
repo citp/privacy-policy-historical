@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vizanime.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516033935id_/http%3A//www.vizanime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vizanime.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210195935id_/http%3A//www.vizanime.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - VIZ ANIME: Free Anime Online. All the Time.
 
@@ -126,8 +126,8 @@ You can choose whether or not to share personal information. If you choose not t
 You can [email us](mailto:privacypolicy@viz.com) or write to us at:
 
 Online Manager (Privacy Issue) VIZ Media  
-295 Bay Street  
-San Francisco, CA 94133  
+1355 Market Street, Suite #200  
+San Francisco, CA 94103  
 (415) 546-7073  
   
 **Our Sites and Children**
