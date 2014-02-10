@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesteps.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831020514id_/http%3A//www.homesteps.com/homesteps/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesteps.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210222750id_/http%3A//www.homesteps.com/homesteps/terms/privacy.html) for the most accurate reproduction.*
 
 # HomeSteps Terms and Conditions: Privacy Policy
 
