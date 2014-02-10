@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatehandyman.co.uk privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809182531id_/http%3A//www.ultimatehandyman.co.uk/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatehandyman.co.uk privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210050303id_/http%3A//www.ultimatehandyman.co.uk/privacy_policy.htm) for the most accurate reproduction.*
 
 # Ultimate Handyman:privacy policy
 
