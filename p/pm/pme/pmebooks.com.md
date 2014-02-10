@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pmebooks.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227010346id_/http%3A//pmebooks.com/legal.cfm%3Fref%3D%26doc%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmebooks.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210083304id_/http%3A//pmebooks.com/legal.cfm%3Fref%3D%26doc%3Dpp) for the most accurate reproduction.*
 
 # PennyMatrix.com
 
