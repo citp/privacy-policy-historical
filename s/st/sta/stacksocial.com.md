@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stacksocial.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815210452id_/https%3A//stacksocial.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stacksocial.com privacy policy that was archived on 2014-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140211003441id_/https%3A//stacksocial.com/privacy) for the most accurate reproduction.*
 
-# StackSocial
+# Privacy | StackSocial
 
 Your ("You" or "Your") privacy concerns are important to StackSocial ("Us", "We" or "Our"), as well as the third party vendors ("Participants") participating in our Sale promotion ("Sale"). Protecting Your privacy and safeguarding Your information is one of Our highest goals.
 
