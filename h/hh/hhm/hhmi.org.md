@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hhmi.org privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031080938id_/http%3A//www.hhmi.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hhmi.org privacy policy that was archived on 2014-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140211000135id_/http%3A//www.hhmi.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Howard Hughes Medical Institute (HHMI)
 
