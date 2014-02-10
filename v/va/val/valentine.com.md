@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valentine.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807054435id_/http%3A//www.valentine.com/support/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valentine.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210021242id_/http%3A//www.valentine.com/support/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
