@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fnbbotswana.co.bw privacy policy that was archived on 2013-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130613100428id_/https%3A//www.fnbbotswana.co.bw/legal-matters/terms-and-conditions/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fnbbotswana.co.bw privacy policy that was archived on 2014-02-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140210030200id_/https%3A//www.fnbbotswana.co.bw/legal-matters/terms-and-conditions/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:java="http://xml.apache.org/xslt/java"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -87,7 +87,7 @@
 	            }
 
 			
-			function submitFormFromLink(action, form, division){
+			function submitFormFromLink(action, nav, form, division){
 				document.forms['LOGIN_FORM'].action = "https://www.online.fnbbotswana.co.bw/banking/main.jsp";
 				document.forms['LOGIN_FORM'].target="_top";
 				  if (action == 'verifyRemAdv') {
@@ -104,6 +104,8 @@
 				document.getElementById('formname').value=form;
 				document.getElementById('form').value=form;
 				document.getElementById('division').value=division;
+				
+				document.getElementById('nav').value=nav;
 				document.forms['LOGIN_FORM'].submit();
 			}
 		
@@ -392,6 +394,7 @@
 <input type="hidden" name="LoginButton" id="LoginButton" value="Login">
 <input type="hidden" name="homePageLogin" id="homePageLogin" value="true">
 <input type="hidden" name="division" id="division" value="">
+<input type="hidden" id="nav" name="nav" value="navigator.UserLogon">
 
 
 <div id="allLoginFeilds">
@@ -407,7 +410,7 @@
 		
 <h3>Bank Online</h3>
 	
-</div>	
+</div>	  
 	
 			
 			
@@ -470,15 +473,15 @@
 </li>
 		
 <li>
-<a href="#" onclick="submitFormFromLink('verifyRemAdv','LOGIN_FORM','');return false;">Verify payments</a>
+<a href="#" onclick="submitFormFromLink('verifyRemAdv','verifyremittance.VerifyRemittanceAdvise','LOGIN_FORM','');return false;">Verify payments</a>
 </li>
 		
 <li>
-<a href="#" onclick="submitFormFromLink('problems','LOGIN_FORM','');return false;">Reset access details</a>
+<a href="#" onclick="submitFormFromLink('problems','loginproblems.FnbLoginProblems','LOGIN_FORM','');return false;">Reset access details</a>
 </li>
 		
 <li>
-<a href="#" onclick="submitFormFromLink('register','LOGIN_FORM','');return false;">Register</a>
+<a href="#" onclick="submitFormFromLink('register','enrollment.navigator.RegistrationSummary','LOGIN_FORM','');return false;">Register</a>
 </li>
 		
 		
@@ -621,7 +624,7 @@ top:10px;
 					<img src="/07images/pageLayout/triangle.png"/>
 				</div>-->
 						
-<p>Please note: Your <strong>Internet Explorer 7 browser</strong> is not supported.<br>Select 'Upgrade Now' or call <strong>00267 364 2600</strong> for assistance.</p>
+<p>Please note: Your <strong>Internet Explorer 7 browser</strong> is not supported.<br>Select 'Upgrade Now' or call <strong>00267 364 2670</strong> for assistance.</p>
 						
 <a href="http://www.microsoft.com/en-us/download/internet-explorer-8-details.aspx" target="_blank"></a>	
 			
@@ -930,7 +933,7 @@ top:10px;
 <h3>Correction of Personal Information</h3>
 <span class="accordsuffix"></span></div>
 <div class="acccontcontent" contentindex="5c" style="display: none;">
-<p>If you ever want to update or correct any of your personal information held by us, kindly contact us at <strong>+267 364 2600</strong>.</p>
+<p>If you ever want to update or correct any of your personal information held by us, kindly contact us at <strong>+267 364 2670</strong>.</p>
 </div>
 <div class="acccontheading closedlanguage" headerindex="6h"><span class="accordprefix"><img src="/07images/pageLayout/iconArrowDownSmall.gif" class="plus"> </span>
 <h3>Personal Information held by or disclosed by you to 3rd parties</h3>
@@ -1057,7 +1060,7 @@ top:10px;
 
 		//alert('writing: '+sharefulldiv);
 		document.write(showFriendinks);
-	</script><div class="friendless"><a href="/leadforms/sendToFriend.html?url=https://web.archive.org/web/20130613100428id_/https%3A//www.fnbbotswana.co.bw/legal-matters/terms-and-conditions/privacy-policy.html&amp;title=Privacy Policy - Legal Terms and Conditions - FNB"><img src="/07images/pageLayout/sendToFriend.gif" title="Send to a Friend" alt="Send to a Friend"></a></div>
+	</script><div class="friendless"><a href="/leadforms/sendToFriend.html?url=https://web.archive.org/web/20140210030200id_/https%3A//www.fnbbotswana.co.bw/legal-matters/terms-and-conditions/privacy-policy.html&amp;title=Privacy Policy - Legal Terms and Conditions - FNB"><img src="/07images/pageLayout/sendToFriend.gif" title="Send to a Friend" alt="Send to a Friend"></a></div>
 </div>
 <div id="addToFav">
 <a onclick="addPageItem();" href="#all1"><img src="/07images/contentImages/sharePanel/add_it.gif"></a>
