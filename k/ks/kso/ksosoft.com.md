@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ksosoft.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805214843id_/http%3A//www.ksosoft.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksosoft.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210015607id_/http%3A//www.ksosoft.com/company/privacy.html) for the most accurate reproduction.*
 
-# privacy - Kingsoft Office
+# Privacy - Kingsoft Office
 
 At Kingsoft Office, we take our customers' privacy very seriously, and go to great lengths to protect any details you provide to us.
 
