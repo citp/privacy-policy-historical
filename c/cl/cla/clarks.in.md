@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarks.in privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517165910id_/http%3A//www.clarks.in/pages/Privacy-Policy/pgid-176573.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarks.in privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210100903id_/http%3A//www.clarks.in/pages/Privacy-Policy/pgid-176573.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,4 +11,5 @@ If clarks.in is prevented, restricted, delayed, in the performance of their obli
 ###  Contact Details:
 
 Customer Service : [customer.care@clarks.in](mailto:customer.care@clarks.in)  
-Toll Free Number : - 1800 102 4504
+Toll Free Number : 1800 102 4504  
+Timings: Monday to Friday 9:30am to 5:30pm 
