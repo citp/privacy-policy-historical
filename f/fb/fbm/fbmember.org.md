@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbmember.org privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019110523id_/http%3A//fbmember.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbmember.org privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210184542id_/http%3A//fbmember.org/privacy-policy) for the most accurate reproduction.*
 
 # 
 
