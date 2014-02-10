@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swimming.org privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209001811id_/http%3A//www.swimming.org/asa/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swimming.org privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210030812id_/http%3A//www.swimming.org/asa/about-us/privacy-policy) for the most accurate reproduction.*
 
 # The Amateur Swimming Association (“ASA”) / British Swimming (“BS”) Privacy Policy | The ASA
 
