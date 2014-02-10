@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totobay.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807085048id_/http%3A//www.totobay.com/index.php%3Fmain_page%3Dhelp_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totobay.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210090816id_/http%3A//www.totobay.com/index.php%3Fmain_page%3Dhelp_privacy) for the most accurate reproduction.*
 
 # Help : totobay.com, Buy Wholesale Phone Accessories From Totobay Wholesaler
 
