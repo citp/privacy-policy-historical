@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cutezee.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117085927id_/http%3A//www.cutezee.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutezee.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210012710id_/http%3A//www.cutezee.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy | www.cutezee.com
 
