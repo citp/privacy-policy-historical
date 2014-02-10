@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hybridcars.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930104701id_/http%3A//www.hybridcars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hybridcars.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210203958id_/http%3A//www.hybridcars.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HybridCars.com
 
