@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aiseesoft.com privacy policy that was archived on 2013-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131002112325id_/http%3A//aiseesoft.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiseesoft.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210082152id_/http%3A//www.aiseesoft.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Aiseesoft Customer Privacy Policy
 
