@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attractionmarketingonline.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625150027id_/http%3A//www.attractionmarketingonline.com/www.attractionmarketingonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attractionmarketingonline.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210050222id_/http%3A//www.attractionmarketingonline.com/www.attractionmarketingonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Attraction Marketing Online
 
