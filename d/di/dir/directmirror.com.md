@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directmirror.com privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829025543id_/http%3A//www.directmirror.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directmirror.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210131342id_/http%3A//www.directmirror.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Directmirror.com - Upload & Mirror your files!
 
