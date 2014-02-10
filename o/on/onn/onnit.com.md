@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onnit.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909071956id_/https%3A//www.onnit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onnit.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210032901id_/https%3A//www.onnit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Onnit
+# Privacy Policy | Onnit
 
 **What information do we collect?**
 
