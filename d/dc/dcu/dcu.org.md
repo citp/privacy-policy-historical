@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcu.org privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022095156id_/https%3A//www.dcu.org/infodesk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcu.org privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210034823id_/https%3A//www.dcu.org/infodesk/privacy.html) for the most accurate reproduction.*
 
 # DCU's Privacy Policy | Massachusetts | New Hampshire
 
@@ -112,7 +112,7 @@ We strive to make sure our records contain accurate information. Inaccurate info
 
 ### We Care About Your Privacy and You
 
-Again, we take our member's privacy very seriously. We do not however, have control of the privacy practices of other institutions or web sites. We strongly advise you to review the privacy policies of any other institution or web site you visit including those you've heard about through us. Learn about ways to protect yourself by visiting our [_StreetWise_ Privacy Protection and Fraud Prevention](https://web.archive.org/web/20131022095156id_/https%3A//www.dcu.org/streetwise/privacy/privacy.html) site. 
+Again, we take our member's privacy very seriously. We do not however, have control of the privacy practices of other institutions or web sites. We strongly advise you to review the privacy policies of any other institution or web site you visit including those you've heard about through us. Learn about ways to protect yourself by visiting our [_StreetWise_ Privacy Protection and Fraud Prevention](https://web.archive.org/web/20140210034823id_/https%3A//www.dcu.org/streetwise/privacy/privacy.html) site. 
 
 Our privacy policy and practices apply whether you are an active DCU member, an inactive member, or a former DCU member.
 
