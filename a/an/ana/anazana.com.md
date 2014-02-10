@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anazana.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805160715id_/https%3A//www.anazana.com/en/anazana/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anazana.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210061624id_/https%3A//www.anazana.com/en/anazana/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy / anazana / anaZana - create your online store or website today
+# Privacy Policy / anazana / Create online store, Create website, E-commerce and E-marketing platform by anaZana
 
 This Privacy Policy applies to all of the services and websites offered by anaZana, Inc. (anaZana).
 
