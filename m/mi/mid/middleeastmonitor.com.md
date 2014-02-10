@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the middleeastmonitor.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213222345id_/http%3A//www.middleeastmonitor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the middleeastmonitor.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210092816id_/https%3A//www.middleeastmonitor.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -77,6 +77,5 @@ As part of our commitment to compliance with data privacy requirements, and to r
   
 This is revision 1.02, published 04/05/2013.
 
-  
   
 
