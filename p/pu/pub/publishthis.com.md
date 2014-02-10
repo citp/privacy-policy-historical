@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the publishthis.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812014146id_/http%3A//www.publishthis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publishthis.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210041504id_/http%3A//www.publishthis.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | PublishThis | Content Curation Platform
+# Privacy Policy | PublishThis | Real-Time Content Platform
 
 This Web Site is published and maintained by Ultra Unlimited, d/b/a PublishThis, located at:  
-14431 Ventura Boulevard  
-#302 Sherman Oaks, CA 91423
+15303 Ventura Boulevard – #1060  
+Sherman Oaks, CA 91403
 
 (“PublishThis”). PublishThis is referred to in this Privacy Policy as “we,” “us,” “our,” or other similar pronouns.
 
-This Privacy Policy governs the information collection, use and disclosure practices of the **www.publishthis.com** web site (the “Web Site”). By visiting this Web Site, and/or using the services offered on or through this Web Site, you agree to the terms of this Privacy Policy as they may be amended from time to time. As we update and expand our services, this Privacy Policy may change, so check back to this page from time to time. This Privacy Policy is incorporated into, and part of, the [Web Site Terms of Use](http://www.publishthis.com/terms-of-use/ "Terms of Use"), which governs your use of this Web Site in general.
+This Privacy Policy governs the information collection, use and disclosure practices of the **www.publishthis.com**  web site (the “Web Site”). By visiting this Web Site, and/or using the services offered on or through this Web Site, you agree to the terms of this Privacy Policy as they may be amended from time to time. As we update and expand our services, this Privacy Policy may change, so check back to this page from time to time. This Privacy Policy is incorporated into, and part of, the [Web Site Terms of Use](http://www.publishthis.com/terms-of-use/ "Terms of Use"), which governs your use of this Web Site in general.
 
 This Privacy Policy does not apply to information that you may provide to us, or that we may obtain, other than through our Web Site, such as by phone, through postal mail and through other live and print media.
 
@@ -24,7 +24,7 @@ You may have the right to “opt in” and “opt out” of certain of our uses 
 
 Please understand that if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us.
 
-**What Information is Collected on this Web Site?**
+### **What Information is Collected on this Web Site?**
 
 **User-Provided Information**
 
@@ -40,7 +40,7 @@ We may use “cookies” to keep, and sometimes track, information about you. Co
 
 Most Web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. Additionally, if you have a Flash player installed on your computer, your Flash player can be set to reject or delete Flash cookies. However, refusing a cookie may, in some cases, preclude you from using, or negatively impact the display or function of, the Web Site or certain areas or features of the Web Site.
 
-**By using our Web Site, you consent to our use of cookies as described above.**
+By using our Web Site, you consent to our use of cookies as described above.
 
 **Clear GIFs**
 
@@ -60,7 +60,7 @@ In addition, we may send you notices (for example, in the form of e-mails, maili
 
 We may analyze user behavior as a measure of interest in, and use of, our Web Site and e-mails, both on an individual basis and in the aggregate.
 
-**Do we share Personal Information and Web Site Usage information with others?**
+### **Do we share Personal Information and Web Site Usage information with others?**
 
 **Service Providers**
 
@@ -107,6 +107,6 @@ We reserve the right to change this Privacy Policy from time to time, and such c
 
 **Contact Us**
 
-If you have any questions or comments regarding our privacy practices, you may [contact us](https://web.archive.org/web/20130812014146id_/http://www.publishthis.com/about/contact-us/ "Contact Us").
+If you have any questions or comments regarding our privacy practices, you may [contact us](https://web.archive.org/web/20140210041504id_/http://www.publishthis.com/about/contact-us/ "Contact Us").
 
-**Effective Date: April 14th, 2012**
+**Effective Date: January 15th, 2014**
