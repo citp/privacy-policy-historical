@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xyngular.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425202210id_/https%3A//www.xyngular.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xyngular.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210233640id_/https%3A//www.xyngular.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Xyngular Corporation
 
