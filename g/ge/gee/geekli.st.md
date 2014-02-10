@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekli.st privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807013610id_/https%3A//geekli.st/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekli.st privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210015231id_/https%3A//geekli.st/privacy) for the most accurate reproduction.*
 
 # Privacy - Geeklist
 
