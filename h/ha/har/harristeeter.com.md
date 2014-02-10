@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harristeeter.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810092719id_/http%3A//www.harristeeter.com/other/privacy_policy/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harristeeter.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210024213id_/http%3A//www.harristeeter.com/other/privacy_policy/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Harris Teeter - Privacy Policy
 
