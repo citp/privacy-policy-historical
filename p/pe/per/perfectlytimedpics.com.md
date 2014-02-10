@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectlytimedpics.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909032805id_/http%3A//perfectlytimedpics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectlytimedpics.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210125806id_/http%3A//perfectlytimedpics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Perfectly Timed Pics
 
