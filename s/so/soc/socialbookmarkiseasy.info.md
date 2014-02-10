@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialbookmarkiseasy.info privacy policy that was archived on 2012-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120815160402id_/http%3A//www.socialbookmarkiseasy.info/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialbookmarkiseasy.info privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210235441id_/http%3A//www.socialbookmarkiseasy.info/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies › SocialbookmarkIsEasy.info : Powerful social bookmarking service to link forums, blogs and social networking websites | Advertise website using manual social bookmarking service
 
