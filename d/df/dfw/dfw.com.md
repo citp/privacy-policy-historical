@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dfw.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024183540id_/http%3A//star-telegram.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfw.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210164309id_/http%3A//star-telegram.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Star-Telegram.com
 
