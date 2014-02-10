@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esources.co.uk privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819114645id_/http%3A//www.esources.co.uk/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esources.co.uk privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210153717id_/http%3A//www.esources.co.uk/about/privacy.php) for the most accurate reproduction.*
 
 # eSources UK - Privacy Policy
 
@@ -20,7 +20,7 @@ Information about our users is an important part of our business, we are not in 
 we employ companies to perform some functions on our behalf. Examples include processing credit card payments (banks) and verifying your registered details (registrars). They have access to personal information needed to perform their functions, but may not use it for other purposes. Further, they must process personal information in accordance with the UK's Data Protection Act.
   *   
 **Protection of eSources.co.uk and others:**  
-we release account and other personal information when we believe release is appropriate to comply with the law, to enforce or apply our [Terms of Use](https://web.archive.org/web/20130819114645id_/http%3A//www.esources.co.uk/about/termsandconditions.php) and other agreements, or to protect the rights, property or safety of eSources.co.uk, our users or others. This includes exchanging information with other companies and organisations for fraud protection. This does not include by any means selling, renting, sharing or otherwise disclosing personally identifiable information from customers for commercial purposes in a way that is contrary to the commitments made in this Privacy Policy.
+we release account and other personal information when we believe release is appropriate to comply with the law, to enforce or apply our [Terms of Use](https://web.archive.org/web/20140210153717id_/http%3A//www.esources.co.uk/about/termsandconditions.php) and other agreements, or to protect the rights, property or safety of eSources.co.uk, our users or others. This includes exchanging information with other companies and organisations for fraud protection. This does not include by any means selling, renting, sharing or otherwise disclosing personally identifiable information from customers for commercial purposes in a way that is contrary to the commitments made in this Privacy Policy.
 
 
 
@@ -34,8 +34,8 @@ Information Security
 
 Conditions of Use and Revisions
 
-If you choose to visit eSources.co.uk, your visit and any dispute over privacy is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20130819114645id_/http%3A//www.esources.co.uk/about/termsandconditions.php), including limitations on damages and application of the laws of England. If you have any concern about privacy at eSources.co.uk, please [send a thorough description](https://www.esources.co.uk/contactus.php) and we will try to resolve it.
+If you choose to visit eSources.co.uk, your visit and any dispute over privacy is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20140210153717id_/http%3A//www.esources.co.uk/about/termsandconditions.php), including limitations on damages and application of the laws of England. If you have any concern about privacy at eSources.co.uk, please [send a thorough description](https://www.esources.co.uk/contactus.php) and we will try to resolve it.
 
-Our business changes constantly and our Privacy Policy and the [Terms of Use](https://web.archive.org/web/20130819114645id_/http%3A//www.esources.co.uk/about/termsandconditions.php) may also change. You should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We stand behind the promises we make, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+Our business changes constantly and our Privacy Policy and the [Terms of Use](https://web.archive.org/web/20140210153717id_/http%3A//www.esources.co.uk/about/termsandconditions.php) may also change. You should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We stand behind the promises we make, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
 [Products Directory](http://www.esources.co.uk/products.php) | [Suppliers Directory](http://www.esources.co.uk/suppliers.php) | [Help Centre](http://www.esources.co.uk/help/index.php) | [Contact Us](https://www.esources.co.uk/contactus.php)
