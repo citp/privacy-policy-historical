@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadconduit.com privacy policy that was archived on 2013-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130414204852id_/http%3A//www.activeprospect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadconduit.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210103229id_/http%3A//www.activeprospect.com/privacy) for the most accurate reproduction.*
 
 # Privacy | ActiveProspect
 
