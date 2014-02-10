@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e3hub.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516005350id_/http%3A//e3hub.com/cgi-bin/Help%3Fcmd%3Dview%26pages%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e3hub.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210151652id_/http%3A//e3hub.com/cgi-bin/Help%3Fcmd%3Dview%26pages%3Dprivacy) for the most accurate reproduction.*
 
 # E3Hub - Help is here
 
