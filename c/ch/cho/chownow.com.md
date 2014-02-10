@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chownow.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821095408id_/http%3A//www.chownow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chownow.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210055645id_/http%3A//www.chownow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ChowNow
 
@@ -83,9 +83,10 @@ If you have questions about this Privacy Policy, please e-mail us at [info@chown
 
 Work with US to create A SERVICE YOUR CUSTOMERS ARE HUNGRY FOR!
 
-###### GET ChowNow
-
-Please fill out this form and we'll be in contact shortly
+Please fill out this form and we will contact you.  
+Or give us a call at -  
+Sales: (888)-646-3587  
+Customer Service: (888)-707-CHOW
 
 ###### RESELLERS & AFFILIATES
 
