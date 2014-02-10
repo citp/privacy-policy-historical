@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youjoomla.com privacy policy that was archived on 2013-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130716221114id_/http%3A//www.youjoomla.com/policy/yjpolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youjoomla.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210064402id_/http%3A//www.youjoomla.com/policy/yjpolicy.html) for the most accurate reproduction.*
 
 # Youjoomla Privacy Policy
 
