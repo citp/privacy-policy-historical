@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blockbuzz.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806150248id_/http%3A//blockbuzz.com/members/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blockbuzz.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210081728id_/http%3A//blockbuzz.com/members/privacypolicy.php) for the most accurate reproduction.*
 
 # BlockBuzz.com - Company Directory
 
