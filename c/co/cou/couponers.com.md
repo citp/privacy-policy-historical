@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponers.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821172329id_/http%3A//www.couponers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponers.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210015449id_/http%3A//www.couponers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Couponers
 
