@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-amateur-videos.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024013025id_/http%3A//www.ccbill.com/cs/policies/PP-consumer-english.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-amateur-videos.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210055643id_/http%3A//www.ccbill.com/cs/policies/PP-consumer-english.html) for the most accurate reproduction.*
 
 # CCBill Consumer Privacy Policy
 
@@ -64,8 +64,9 @@ Telephone: 1.480.449.7751
 Fax: 1.480.449.8801
 
 | **CCBill EU, LTD.**  
-Valletta Building  
-South Street  
-Valletta, Malta  
+First Floor,  
+CC Buildings  
+Palm Street,  
+Paola PLA 1411, Malta  
 Telephone: 1.888.596.9279  
 ---|---
