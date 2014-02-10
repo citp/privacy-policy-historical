@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the tads.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909165449id_/http%3A//www.tads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tads.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210024021id_/http%3A//www.tads.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TADS
+
+The TADS Privacy Policy describes how we use and protect your customer information. We believe that protecting your privacy is an integral part of the customer service we provide to you. In addition to our policy, we have multiple certifications and audits completed each year, including SSAE-16 Audit, PCI Certification, extensive server testing and strict internal rules for our employees including Red Flags readiness.
 
 TADS uses your information to provide the service with your school. School information is used only to provide the service. We never sell your information.
 
 **Keeping Your Information Safe and Secure**  
-The TADS name is a trusted symbol of service and reliability. We are red flag certified to protect against identity theft. [Learn more about Red Flags Compliance here](http://www.ftc.gov/redflagsrule).
+The TADS name is a trusted symbol of service and reliability. We are red flag certified to protect against identity theft.
 
 Our physical hosting location is a secure facility with key and pin code access, full-coverage 28-camera monitoring inside and out, redundant power, fire suppression, redundant network connectivity and 24x7x365 alarm, network and environmental monitoring.
 
@@ -15,13 +17,10 @@ Our network and hosting environment are protected by redundant stateful packet i
 
   * We do not sell, give away or in any way disclose customer information to third parties.
   * We do not share customer information with outside parties who may wish to market their products to you.
-  * Within the TADS, we safeguard your customer information carefully.
   * We are committed to protecting your customer information in every transaction, at every level of our organization.
   * We are committed to helping you protect your privacy every day.
 
 
-
-_The TADS Privacy Policy describes how we use and protect your customer information. We believe that protecting your privacy is an integral part of the customer service we provide to you._
 
 HOW WE PROTECT AND USE CUSTOMER INFORMATION
 
@@ -41,4 +40,7 @@ We may disclose the information we collect, as described above, with third parti
 
 
 
-Updated 12/18/2012
+Click here for our PCI Certification information:  
+
+
+Updated 12/05/2013
