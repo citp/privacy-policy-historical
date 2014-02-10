@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the somegossip.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211020026id_/http%3A//somegossip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somegossip.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210064445id_/http%3A//somegossip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Some Gossip
 
