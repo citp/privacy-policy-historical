@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiancolleges.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114035013id_/http%3A//www.indiancolleges.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiancolleges.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210013934id_/http%3A//www.indiancolleges.com/privacy_policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
