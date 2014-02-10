@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsmnation.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520133604id_/http%3A//www.gsmnation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsmnation.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210031527id_/http%3A//www.gsmnation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,8 +18,8 @@ To request a correction or deletion of your private information, or if you have 
 
 **Address**   
 GSM Nation LLC  
-205 Whitney Ave STE 205  
-New Haven, CT 06510  
+1625 Eye ST NW, Suite 600  
+Washington DC 20005  
 USA. 
 
   
