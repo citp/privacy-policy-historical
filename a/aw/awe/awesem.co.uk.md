@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the awesem.co.uk privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105025238id_/http%3A//www.awesem.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesem.co.uk privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210014942id_/http%3A//www.awesem.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy
 
-AWESEM Limited, registered in England and Wales. Company No. 0559177, (“We”) commit ourselves to protecting and respecting your privacy when visiting our website. This privacy policy sets out how we will process and use any personal data that you provide to us, or that we may collect as a result of visiting awesemuk.staging.wpengine.com. Please read the following information to understand our practices with regards to your personal data and how we will treat it. For the purposes of the Data Protection Act 1998, the identity of our data controller shall be available upon enquiry by email.
+AWESEM Limited, registered in England and Wales. Company No. 0559177, (“We”) commit ourselves to protecting and respecting your privacy when visiting our website. This privacy policy sets out how we will process and use any personal data that you provide to us, or that we may collect as a result of visiting www.awesem.co.uk. Please read the following information to understand our practices with regards to your personal data and how we will treat it. For the purposes of the Data Protection Act 1998, the identity of our data controller shall be available upon enquiry by email.
 
 ## INFORMATION WE MAY COLLECT FROM YOU
 
@@ -85,7 +85,7 @@ We reserve the right to make changes to the privacy policy without prior notice.
 
 ## CONTACT
 
-We welcome any questions, comments and requests regarding this privacy policy and should be emailed to marketing [at] awesem.co.uk
+We welcome any questions, comments and requests regarding this privacy policy and should be emailed to hello [at] awesem.co.uk
 
 ## Trademarks
 
