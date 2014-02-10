@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fido.ca privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101235426id_/http%3A//www.fido.ca/web/content/terms/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fido.ca privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210154445id_/http%3A//www.fido.ca/web/content/terms/privacy_policy) for the most accurate reproduction.*
 
-# Fido | Privacy Policy - Terms & Conditions
+# Privacy Policy | Fido.ca
 
 |   
 ---  
@@ -11,6 +11,9 @@
 
   * [Use of Web Site Policy](https://web.archive.org/web/content/terms/website_policy "Use of Web Site Policy")
   * [YouTube Comment Policy](https://web.archive.org/web/content/terms/youtube_comment_policy "YouTube Comment Policy")
+  * [Fido Facebook Comment Policy](https://web.archive.org/web/content/terms/facebook_comment_policy "Fido Facebook Comment Policy")
+  * [Fido Google+ Page Comment Policy](https://web.archive.org/web/content/terms/google_plus_comment_policy "Fido Google+ Page Comment Policy")
+  * [Pinterest Engagement Guidelines](https://web.archive.org/web/content/terms/pinterest_engagement_guidelines "Pinterest Engagement Guidelines")
 
 
 
@@ -20,9 +23,10 @@
   * [Acceptable Use Policy](https://web.archive.org/web/content/terms/acceptable_use_policy "Acceptable Use Policy")
   * [Arbitration Protocol](https://web.archive.org/web/content/terms/arbitration_protocol "Arbitration Protocol")
   * [Privacy Policy](https://web.archive.org/web/content/terms/privacy_policy "Privacy Policy")
-  * [_Fido Rewards_ Program Terms and Conditions](https://web.archive.org/web/content/terms/fido_rewards_program "Fido Rewards Program Terms and Conditions")
-  * [Additional Terms and Conditions for iPhone plans](https://web.archive.org/web/content/terms/iphone_plan_terms "Additional Terms and Conditions for iPhone plans")
-  * [FidoTRADE™ Program Terms and Conditions](https://web.archive.org/web/content/terms/fido_trade "FidoTRADE Program Terms and Conditions")
+  * [FidoREWARDS Program Terms and Conditions](https://web.archive.org/web/content/terms/fido_rewards_program "FidoREWARDS Program Terms and Conditions")
+  * [FidoTRADE™ Terms and Conditions](https://web.archive.org/web/content/terms/fido_trade "FidoTRADE Terms and Conditions")
+  * [Fido Device Protection Plan Terms and Conditions](https://web.archive.org/web/content/terms/device_protection "Fido Device Protection Plan Terms and Conditions")
+  * [_Fido TechXpert™_ Terms and Conditions](https://web.archive.org/web/content/terms/techxpert "Fido TechXpert Terms and Conditions")
   * [Get to know Fido Guide](https://web.archive.org/cms/pdf/GET_TO_KNOW_FIDO_GUIDE_EN.pdf "Get to know Fido")
 
 
