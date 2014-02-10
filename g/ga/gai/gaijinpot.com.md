@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the gaijinpot.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507033651id_/https%3A//jobs.gaijinpot.com/privacy/index/lang/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaijinpot.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210050546id_/https%3A//jobs.gaijinpot.com/privacy/index/lang/en%3Futm_source%3Dgaijinpot_homepage%26utm_medium%3Dfooter%26utm_campaign%3Dgp_section_nav) for the most accurate reproduction.*
 
 # Privacy Policy ‹ GaijinPot Jobs
 
 ### 1\. Definitions and Parties
 
-The treatment of the information collected through the use of [www.gaijinpot.com](http://www.gaijinpot.com/) and through GaijinPot Partner Sites, herein collectively referred to as the ‘site’, is governed by the present privacy policy.  
-This is a legal document between the administrator of GaijinPot, GPlus Media Co., Ltd. herein referred to as ‘GPlus’, and the users of the site herein referred as to ‘users’.
+The treatment of the information collected through the use of [jobs.gaijinpot.com](https://jobs.gaijinpot.com/) and through GaijinPot Jobs Partner Sites, herein collectively referred to as the ‘site’, is governed by the present privacy policy.  
+This is a legal document between the administrator of GaijinPot Jobs, GPlus Media Co., Ltd. herein referred to as ‘GPlus’, and the users of the site herein referred as to ‘users’.
 
 GPlus is committed to protecting the privacy of the site’s users. This commitment is demonstrated in the structure of the database, programming, and the use of encrypted pages for the transfer of sensitive data.
 
