@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixate.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111014210id_/http%3A//www.pixate.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixate.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210010901id_/http%3A//www.pixate.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Pixate
 
@@ -6,7 +6,7 @@ _Version 1.0.0, published March 12, 2013._
 
 ## 1\. Introduction
 
-Pixate, Inc. (“Pixate”, “our”, “us” or “we”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of [](http://pixate.com/)[http://pixate.com](http://pixate.com/) (this “Site”). This Privacy Policy applies only to information that you provide to us through this Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Pixate [Terms of Use](https://web.archive.org/web/20131111014210id_/http%3A//www.pixate.com/legal/terms.html).
+Pixate, Inc. (“Pixate”, “our”, “us” or “we”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of [](http://pixate.com/)[http://pixate.com](http://pixate.com/) (this “Site”). This Privacy Policy applies only to information that you provide to us through this Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Pixate [Terms of Use](https://web.archive.org/web/20140210010901id_/http%3A//www.pixate.com/legal/terms.html).
 
 As used in this policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
 
@@ -81,8 +81,6 @@ Our Site contains links to other websites, online services or applications (each
 ## 10\. Our Policy Toward Children
 
 This Site is not directed to individuals under 18. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [privacy@pixate.com](mailto:privacy@pixate.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
-
-## 11\. Contacting Us
 
 If you have any questions about this Privacy Policy, please contact us at [privacy@pixate.com](mailto:privacy@pixate.com).
 
