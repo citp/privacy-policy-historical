@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wsistudents.com privacy policy that was archived on 2012-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120419194800id_/https%3A//www.wsistudents.com/legal/%3Bjsessionid%3DMT5UENP00LK3QAAAAAAAAAA%3Fdocument%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsistudents.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210014947id_/https%3A//www.wsistudents.com/legal/%3Fdocument%3Dprivacy) for the most accurate reproduction.*
 
 # Welcome to eWSI
 
-[Printable version](https://web.archive.org/web/20120419194800id_/https%3A//www.wsistudents.com/legal/.;jsessionid=OQ23510EH1LVUAAAAAAAAAA?document=privacy&printable=yes) | Back
+[Printable version](https://web.archive.org/web/20140210014947id_/https%3A//www.wsistudents.com/legal/?document=privacy&printable=yes) | Back
 
 PRIVACY POLICY
 
@@ -18,11 +18,11 @@ By using this website, or providing information to us in other formats, you cons
 
 In order to use our services, users may be asked to fill in a form, which requires providing certain personal information to FSS. Unless otherwise provided in those fields expressly marked with an asterisk (*), answers to our questions on personal data are not mandatory. Not supplying the information required in such optional fields shall not represent any decrease of the services and information that we may provide you. However, failure to complete those compulsory fields or providing incorrect personal data shall prevent us from providing the requested information or services.
 
-FSS informs you about the possibility of exercising your rights to access, amend, cancel and object to the processing of your personal data simply by making a written request to FRANCHISE SUPPORT & SERVICES, SLU, C/Balmes 4, 5th Floor, 08007 Barcelona, Spain, Attention Privacy Controller or to our electronic mail address [privacy@wallstreetinstitute.com](mailto:privacy@wallstreetinstitute.com). Your requests will be dealt with in a prompt and proper manner.
+FSS informs you about the possibility of exercising your rights to access, amend, cancel and object to the processing of your personal data simply by making a written request to FRANCHISE SUPPORT & SERVICES, Tuset, 20-24, 5th Floor - 08006 Barcelona - Spain, Attention Privacy Controller or to our electronic mail address [privacy@wallstreetinstitute.com](mailto:privacy@wallstreetinstitute.com). Your requests will be dealt with in a prompt and proper manner.
 
 FSS guarantees, in accordance with the terms set out in the Spanish Personal Data Protection Act (“Ley Orgánica de Protección de Datos Personales”), that your personal data will be treated in the strictest confidentiality, and that the server in which these data will be stored and dealt with has implemented the necessary industry-standard security measures to prevent accidental or unlawful destruction, loss, alteration, unauthorized disclosure or access to the above-mentioned data.
 
-We inform you that the sending of commercial communications containing information on services or products which may be of your interest will only be allowed in respect of users who have given their prior consent. Such consent may be revoked at any time, by making a written request to FRANCHISE SUPPORT & SERVICES, SLU, C/Balmes 4, 5th Floor, 08007 Barcelona, Spain, Attention Privacy Controller or to our electronic mail address [privacy@wallstreetinstitute.com](mailto:privacy@wallstreetinstitute.com).
+We inform you that the sending of commercial communications containing information on services or products which may be of your interest will only be allowed in respect of users who have given their prior consent. Such consent may be revoked at any time, by making a written request to FRANCHISE SUPPORT & SERVICES, Tuset, 20-24, 5th Floor - 08006 Barcelona - Spain, Attention Privacy Controller or to our electronic mail address [privacy@wallstreetinstitute.com](mailto:privacy@wallstreetinstitute.com).
 
 This website may use session cookies to track your progress while on the site. This website does not use “cookies” to collect information about you. A "cookie" is a small text file placed on your computer's hard drive or browser by a webpage server.
 
@@ -36,4 +36,4 @@ If we amend our Privacy Policy in order to adapt it to new legal requirements, w
 
 If you have any queries or comments on this Privacy Policy, please contact us at the following e-mail address:[privacy@wallstreetinstitute.com](mailto:privacy@wallstreetinstitute.com).
 
-[Printable version](https://web.archive.org/web/20120419194800id_/https%3A//www.wsistudents.com/legal/.;jsessionid=OQ23510EH1LVUAAAAAAAAAA?document=privacy&printable=yes) | Back
+[Printable version](https://web.archive.org/web/20140210014947id_/https%3A//www.wsistudents.com/legal/?document=privacy&printable=yes) | Back
