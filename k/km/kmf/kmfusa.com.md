@@ -1,39 +1,205 @@
-> *The following text is extracted and transformed from the kmfusa.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808192431id_/https%3A//www.kmfusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmfusa.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210025122id_/https%3A//www.kmfusa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This U.S. Website Privacy Policy (“Policy”) explains the steps that Kia Motors Finance (the trade name of Hyundai Capital America, a California corporation) (or "we" or "us" or "our") takes to protect the privacy of users of our websites (including our mobile websites/properties) (collectively, the "Websites"), and any information such users may provide to us or that we collect from or about our website users. We strive to protect the online privacy of our users, while also providing an enjoyable website experience, and if you choose to utilize our Websites, we will endeavor to provide you with information, products, and services that are relevant and useful to you.
+## Kia Motor Finance (KMF) Privacy Notice Highlights
 
-This Policy describes the kinds of information we may gather when you visit our Websites, how we may use that information, and the circumstances under which we may disclose such information to third parties. This Policy will also provide important information about the security of information collected on our site, and provide other disclosures pertaining to the content of the Websites, changes in this Policy, and copyright/trademark information. This Policy does not apply to the online practices of any third party websites to which you may link. Those third-party sites are covered by their own privacy policies. If you follow links to those third party websites you should examine their privacy policies as they may be different.
+Privacy and consumer trust is very important to us at Kia Motors Finance. This Privacy Statement ("Statement") applies to the Kia Motors Finance website (the "Site"), which is owned or controlled by Kia Motors Finance (the trade name of Hyundai Capital America, a California corporation), although software, hosting and other functions and content may be provided by third parties. Throughout the Site, the terms "we," "us" and "our" refer to Kia Motors Finance. This Statement describes the types of information that Kia Motors Finance collects from visitors to the Site, what we do with this information, with whom we share this information, and how visitors can update the information they provide on the Site. This Statement also applies to any other web sites or information provided to the Kia Motor Finance by any other means (such as email or offline activities). 
 
-**Collection of Personally Identifiable Information** You may visit our Websites to read financial product information or utilize certain online tools without telling us who you are, and without revealing any personal information. Personal information means personally identifiable information that can be used to identify you as an individual, including for example, your name, address, phone number, email address or account number, among others. We may gather and store certain anonymous information about your visit, such as the name and address of your Internet Service Provider (ISP), the type of browser and operating systems used to access our site, the date and time of your access of our site, the website that referred you to our site, and the pages at our site that you visited.
+While information is critical to providing quality service, we recognize that one of our most important assets is our customers' trust. Our goal is to protect your information. 
 
-While using our Websites, you may choose to request information or brochures from us about our products and services, in which case, we will collect some personal information from you to provide the requested information to you. If you are a Kia Motors Finance customer with a vehicle retail loan or lease account with us, you may elect to utilize our online customer tools to check your account balance, communicate requests concerning your account, request our brochure or handle other online transactions regarding your account. You may also use Kia Motors Finance’s mobile web properties to access your account via your mobile device to make payments, and any personal information you provide via the mobile website is subject to this Privacy Policy, as well.
+**Collection of Personal Information** **:** __
 
-To the extent that you utilize these online customer tools, you will be providing us your personal information so that we may identify you and provide the requested services. The personal information collected and stored by Kia Motors Finance via your online transactions may include your name and mailing address, telephone number, Kia Motors Finance account number, and email address, as appropriate. We may also use the personal information we collect from you to improve the services that we provide to in the future.
+  1. • The personal information that we collect depends on the products and services you have with us.
+  2. • The information we collect may be combined with information obtained from affiliates and non-affiliates.
+  3. • We use cookies and other technologies to keep track of your interactions with our Site and services to offer a personalized experience.
 
-**Information Dissemination to Third Parties** Kia Motors Finance does not sell or rent website user personal information to any third parties. Kia Motors Finance will share personal information about you with third parties (including with our affiliates, dealers, and our third party service providers) only as permitted by law, and as provided in the [Kia Motors Finance Customer Privacy Notice](https://www.kmfusa.com/Data/Teamsite/HCA/KMF/img/content-block/Privacy_Notice_KMF.pdf), which Kia Motors Finance provides to its account customers from time to time as required by law ("Privacy Notice"). Kia Motors Finance may disclose any personal or other website user information you may submit via the website for any purpose to any person performing audit, legal, operational or other similar services for Kia Motors Finance. Whenever possible and as required by law, we will require any recipient of personal information for these purposes to agree in writing to hold the information in confidence, to use the information only for the limited permitted purpose, and to return or destroy the information when the services are completed.
 
-Kia Motors Finance may also disclose any personal or other user data as required by law in order to comply with a subpoena, court order, warrant, or other legal process. Kia Motors Finance will also disclose any personal or other user data deemed necessary to protect the safety of an individual, the public, or the security of Kia Motors Finance and this website. Information concerning Kia Motors Finance’s policies and practices with respect to the privacy of information Kia Motors Finance collects concerning its customers is detailed in the Privacy Notice.
 
-**Changes and Corrections to Personally Identifiable Information** You may submit corrections or changes to your personally identifiable information on this site on the screen captioned Name Change/Correction or you may contact Kia Motors Finance by phone at 1-866-331-5632. You may also submit changes or corrections as follows:
+**Your Choices:**
 
-**Mail information to:** Kia Motors Finance P.O. Box 20825 Fountain Valley, CA 92728-0825 **(OR)** Fax information to: (714) 965-0520
+  1. • To make proactive choices about how we communicate with you by e-mail, telephone and postal mail, follow the instructions listed in the Marketing Choices section of the full privacy policy.
+  2. • To update your personal information, go to the Accuracy of Your Information section of the full privacy policy.
 
-**Cookies/Tracking Technologies** Kia Motors Finance may also collect certain information through the use of “cookies”. A cookie is a small text file or text identifier placed on the device (computer, mobile device, etc.) you are using to access our website to assist us in providing customized services to you. Cookies are common on websites and do not harm your device. Cookies enable us to track and aggregate user behavior data so that we may better target the interests of our users and enhance their experience on the Kia Motors Finance website. Kia Motors Finance may also use this information for internal research on our user’s interests to better understand the preferences of our users and trends at our site or to authenticate you and the device you are using to access the site.
 
-The cookie does not contain personal details or sensitive information. Usage of a cookie is in no way linked to personal information, until a user provides that information (see above). You have the ability to accept or decline cookies. If a user rejects or deletes the cookie, he/she may still use the Kia Motors Finance website, but the functionality of some areas of our site may then be limited. For example, we may not be able to recognize your device and you will need to answer a challenge question each time you log on. Refusing to accept cookies may also prevent you from receiving offers that are relevant to your interests and needs.
 
-Other tracking technologies such as web beacons, clear GIFs, and pixel tags may also be used by Kia Motors Finance and its third party advertising partners in connection with some website pages, downloadable mobile applications and HTML-formatted email messages to help us measure the effectiveness of our communications and marketing campaigns, and determine usage and response rates. In addition, your Internet Protocol (IP) address is received and stored when you access this website. The IP address is a number that is automatically assigned to the device that you are using by your Internet Service Provider (ISP). Collecting IP addresses is common practice and is done automatically by many web sites. IP Addresses are used to help administer the website, determine usage levels, and help diagnose server problems.
+To limit our ability to share your personal information with affiliates regarding your credit worthiness or marketing or with non-affiliates follow the instructions listed in the Privacy Choices section of the full privacy policy. 
 
-**Security** To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.
+**Use of Personal Information** **:** __
 
-**Information from Children Online This website is not directed to individuals under the age of thirteen (13), nor does Kia Motors Finance market products or services to such individuals. We request that these individuals do not provide personal information through this Site. We do not knowingly collect information from children under 13 without parental consent. For more information about the Children’s Online Privacy Protection Act (COPPA), visit the Federal Trade Commission (FTC) website.**
+We use the information we collect to provide the products and services you request. 
 
-**Acceptance of Privacy Policy and Notification of Future Changes** By using this site, you are agreeing to all of the terms in this Policy. We reserve the right to change this Policy at any time. You should refer back to this page periodically. We will post any changes to this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Kia Motors Finance will use, share, and disclose all personal and other user information in accordance with the Policy in effect at the time the information is collected. Your continued use of this website following changes to these terms will mean that you accept these changes.
+We use your information to inform you of other products or services offered by us and our affiliates. 
 
-This effective date of this Policy reflects Kia Motors Finance’s most current website privacy practices. Kia Motors Finance suggests that you periodically visit this page to review our most current policies and procedures.
+We do not sell, rent, or lease our customer lists to third parties. In order to help provide our services to you, we occasionally provide information to other companies that work on our behalf. 
 
-**Property Rights** All information, text, images, graphics and other materials (“content”) on this website are subject to the copyrights and other intellectual property rights of Kia Motors Finance, its agents, affiliates and/or licensors. All rights are reserved. Content on or accessed through this website may be printed for your personal use. None of the content of this website may be used, copied, modified or transmitted for commercial or public use or distribution, nor modified or reposted to other websites, without Kia Motors Finance’s express prior written consent. You agree to obtain Kia Motors Finance’s prior written consent before linking this website to any other website. You agree that you will not use any robot, spider, other automatic device or manual process to monitor or copy our web pages, data or the content contained herein or for any other unauthorized purpose without our prior express written consent.
+Kia Motor Finance Full Privacy Policy  ****
 
-**Effective Date:** This Policy is effective September 2012. 
+[ Kia Motors Finance Customer Privacy Notice](https://www.kmfusa.com/Data/Teamsite/HCA/KMF/img/content-block/Privacy_Notice_KMF.pdf)
+
+How to Contact Us
+
+Call toll-free (866) 331-5632 
+
+[Privacy@hcamerica.com](mailto:Privacy@hcamerica.com)
+
+**Full Privacy Policy**
+
+  1. 1.General Privacy Statement 
+  2. 2.Collection and Use of Personally Identifiable Information
+  3. 3.Use and Disclosure of Personally Identifiable Information
+  4. 4.Normal Website Usage and Cookies
+  5. 5.Clear Gifs (Web Beacons/Web Bugs)
+  6. 6.Log Files
+  7. 7.Do Not Track Signals
+  8. 8.Your Privacy Choices
+  9. 9.Your Marketing Choices
+  10. 10.Accuracy of Your Information
+  11. 11.Confidentiality, Security, and Data Retention
+  12. 12.Children's Privacy
+  13. 13.Your California Privacy Rights
+  14. 14.Your Vermont Privacy Rights
+  15. 15.Changes to Our Privacy Policy
+  16. 16.How to Contact Us
+
+
+
+**1\. General Privacy Statement**
+
+Privacy and consumer trust is very important to us at Kia Motors Finance. This Privacy Statement ("Statement") applies to Kia Motors Finance (the "Site"), which is owned or controlled by Kia Motors Finance (the trade name of Hyundai Capital America, a California corporation), although software, hosting and other functions and content may be provided by third parties. Throughout the Site, the terms "we," "us" and "our" refer to Kia Motors Finance. This Statement describes the types of information that Kia Motors Finance collects from visitors to the Site, what we do with this information, with whom we share this information, and how visitors can update the information they provide on the Site. This Statement also applies to any other web sites or information provided to the Kia Motors Finance by any other means (such as email or offline activities). 
+
+While information is critical to providing quality service, we recognize that one of our most important assets is our customers' trust. Our goal is to protect your information. 
+
+**2\. Collection of Personally Identifiable Information**
+
+We may collect the following types of personally identifiable information about you: 
+
+  1. a. Information we receive from you on applications for credit or other forms, such as your contact information, assets and income; and
+  2. b. Information that is required for you to register and log in for your Online Account, such as your account number, e-mail address, vehicle identification number, Social Security Number, and zip code; and
+  3. c. Information we receive from you about your transactions with us, or from affiliates (as permitted by law), or others such as account balances, payment history or account activity.
+  4. d. Information to provide correspondence (e.g., promotions and mailed brochures) such as your name and address.
+  5. e. Information from non-affiliates (as authorized by you) to enable us to complete your transactions.
+
+
+
+**3\. Use and Disclosure of Personally Identifiable Information**
+
+If you are our customer, we may use and/or disclose all of the information that we collect from you and former customers, as described below. 
+
+  1. a. _Customer Data_
+
+  
+To the extent permitted by law and in accordance the [ Kia Motors Finance Customer Privacy Notice](https://www.kmfusa.com/Data/Teamsite/HCA/KMF/img/content-block/Privacy_Notice_KMF.pdf), the personally identifiable information we collect about you may be shared with our affiliates and non-affiliates as follows: 
+
+    1. I. Affiliates - Our affiliates include companies with a Kia name (except dealers); and nonfinancial companies such as Kia Motors America.
+  
+
+    2. II. Non-affiliates - We share with can include dealers, insurance companies, banks and other lenders, and direct marketers, including retailers.
+  
+
+    3. III. Joint Marketing - Companies that perform marketing services on our behalf or for other financial institutions with which we have joint marketing agreements, such as insurance companies, credit card companies, and other financial service companies.
+
+This information is collected and stored in a manner appropriate to the nature of the data and used to fulfill your request. 
+
+We do not disclose personally identifiable information about you from your credit application or any credit reporting agencies, except as permitted by law. 
+
+  2. b. _No Sale of Data_
+
+  
+We do not sell the data we collect from you, regardless of whether or not you are our customer. 
+
+  3. c. _Disclosure Required by Law_
+
+  
+We will share data we collect from or about you as required by law, such as to comply with a subpoena or similar legal process. 
+
+
+
+
+**4\. Normal Website Usage and Cookies**
+
+You can visit our Site to read about product, investment, and company information, or use some of our online tools (e.g., Which Vehicles Can I Afford? and Payment Estimator) without telling us who you are and without revealing any personal information. During these types of visits, we collect and store statistical information on an anonymous basis, such as the information about the time and length of your visit, the website you last visited, the pages you request, and the date and time of those requests. We may also collect and store the name of your Internet Service Provider. 
+
+We use cookies when you enter our Site to help us gather this type of statistical information that does not include personally identifiable information. Cookies are pieces of information that a website transfers to an individual's hard drive or device for record keeping purposes so that we can track Site, and user activity. The use of cookies is an industry standard and you will find them at most websites. Most browsers are initially set up to accept cookies. If you'd prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent. However, if you do so, some parts of the Site may not work properly for you. 
+
+**5\. Clear Gifs (Web Beacons/Web Bugs)**
+
+Clear gifs (a.k.a. Web Beacons/Web Bugs) help us better manage content on the Site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. 
+
+We may also use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. 
+
+**6\. Log Files**
+
+As is true of most websites, we gather certain information automatically and store it in log files. This information includes internet protocol(IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
+
+We use this information, which does not identify individual users, to analyze trends, to administer the Site, to track usersâ€™ movements around the Site and to improve our Site usability. 
+
+We do not link this automatically-collected data to personally identifiable information. 
+
+**7\. Do Not Track Signals**
+
+Our Site does not currently actively respond to "Do Not Track" browser signals or mechanisms. 
+
+**8\. Your Privacy Choices**
+
+If you are our customer, you may have certain privacy choices under applicable federal and state privacy laws. To update your sharing preferences please call, toll-free, 1-877-827-4884. Our menu will prompt you through your choices. 
+
+**9\. Your Marketing Choices**
+
+You may tell us about your preferences for receiving marketing materials from us as follows: 
+
+  1. a. _Email/Text_ : To unsubscribe from any promotional email or text that we may send to you, please follow the unsubscribe instructions included in each such communication.
+  2. b. _Internet_ : You can provide us with your marketing preferences when you log into your account by visiting the “My Profile” tab and clicking on “Email Alerts” and “Preferences.”
+
+
+
+  
+You will be able to update or change your preferences about receiving our marketing materials at any time. 
+
+Please be aware that, even if you have opted out of receiving marketing communications from us, we may still contact you for transactional purposes. Some examples are contacts for customer service, product information, service or reminder notices, or recalls. 
+
+**10\. Accuracy of Your Information**
+
+You may submit corrections or changes to your personally identifiable information by contacting us by: 
+
+  1. a. _Phone_ : Toll-free 1-866-331-5632
+  2. b. _Postal Mail_ : Kia Motors Finance, P.O. Box 20825, Fountain Valley, CA 92728-0825
+  3. c. _Fax_ : (714) 965-0520
+
+
+
+**11\. Confidentiality, Security, and Data Retention**
+
+We restrict access to nonpublic personal information about you, including your social security number, to those employees and other persons hired by us who need to know the information to provide products and services to you and to otherwise service your account(s) with us. We maintain physical, electronic and procedural safeguards that comply with applicable federal standards to guard your nonpublic personal information. 
+
+If you choose to complete and submit our Online Credit Application, or to access your Online Account Services through our Site, your personal information will be protected during transmission by an encryption process. 
+
+We will retain your information in accordance with our data retention policy and schedule. 
+
+**12\. Children's Privacy**
+
+Our Site is not directed to children under the age of thirteen (13), nor do we market products or services to such children. We request that children do not provide personal information through our Site. We do not knowingly collect information from children under 13 without parental consent. For more information about the Children's Online Privacy Protection Act (COPPA), visit the Federal Trade Commission (FTC) website. 
+
+**13\. Your California Privacy Rights **
+
+We will not disclose any of your nonpublic personal information to our affiliates or to nonaffiliated financial companies who market or offer financial products or services under a joint marketing agreement with us, without first giving you notice and the opportunity to opt out. We also do not disclose nonpublic personal information about you to non-affiliates without first obtaining your express written consent, unless permitted by law. 
+
+**14\. Your Vermont Privacy Rights**
+
+We automatically limit the sharing of your information as if you elected to limit the sharing as described on page 1 of the [ Kia Motors Finance Customer Privacy Notice.](https://www.kmfusa.com/Data/Teamsite/HCA/KMF/img/content-block/Privacy_Notice_KMF.pdf) With respect to sharing with nonaffiliated financial companies with whom we have joint marketing agreements, we limit the information to your name, contact information and information about your transactions and experiences with us. We also do not disclose nonpublic personal information about you to non-affiliates without first obtaining your express written consent, unless permitted by law. 
+
+**15\. Changes to Our Privacy Policy**
+
+As permitted by law, we may change this Privacy Policy. If there are material changes to this Privacy Policy in the future, we will notify you through this Site. 
+
+**16\. How to Contact Us**
+
+We continuously strive to comply with all applicable federal and state privacy laws. You can contact our privacy office with any privacy related questions through the following: 
+
+  1. a. _Phone_ : Toll-free 1-866-331-5632 
+  2. b. _Email_ : [Privacy@hcamerica.com](mailto:Privacy@hcamerica.com)
+  3. c. _Postal Mail_ : Privacy Department, 3161 Michelson Drive, Ste 1900, Irvine, CA 92612
+
+
+
+**Effective Date of this Policy 1/1/14**
