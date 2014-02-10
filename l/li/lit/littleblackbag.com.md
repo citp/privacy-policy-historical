@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the littleblackbag.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113080526id_/https%3A//www.littleblackbag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littleblackbag.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210084740id_/https%3A//www.littleblackbag.com/privacy) for the most accurate reproduction.*
 
 # Little Black Bag | Privacy | Social Shopping - Social Commerce - Beauty Box - Glam Bag: Shop.Play.LOVE.
 
 Effective Date: January 17, 2012
 
-Little Black Bag, Inc. ("LBB," "we" or "us") has implemented this Privacy Policy ("Privacy Policy") for its website located at www.littleblackbag.com (the "Website") to provide our members (collectively "Members" or "you") and other users and visitors of the Website (collectively "Users" or "you") information regarding the collection and use of your information on the Website, so that you can make an informed decision about your use of the Website.
+Little Black Bag, Inc. ("LBB," "we" or "us") has implemented this Privacy Policy ("Privacy Policy") for its website located at http://www.littleblackbag.com (the "Website") to provide our members (collectively "Members" or "you") and other users and visitors of the Website (collectively "Users" or "you") information regarding the collection and use of your information on the Website, so that you can make an informed decision about your use of the Website.
 
 **The Information We Collect**
 
