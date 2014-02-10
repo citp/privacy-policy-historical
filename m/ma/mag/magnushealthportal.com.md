@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the magnushealthportal.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225070513id_/http%3A//magnushealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magnushealthportal.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210063240id_/http%3A//magnushealth.com/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Magnus Health | Privacy Policy
 
 ### Information Collection and Use
 
@@ -50,7 +50,7 @@ Magnus Health does not rent, sell, or share personal information about you with 
   * We transfer information about you if Magnus Health is acquired by or merged with another company. In this event, Magnus Health will notify you before information about you is transferred and becomes subject to a different privacy policy.
   * We may provide your personal information to companies that provide services to help us with our business activities such as hosting provider or customer service provider. These companies are authorized to use your personal information only as necessary to provide these services.
 
- 
+
 
 Magnus Health works with partners and other service providers in the healthcare and education industries. For more information regarding providers of services that you’ve requested please read our detailed reference links below.
 
