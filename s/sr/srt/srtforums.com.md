@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the srtforums.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807174039id_/http%3A//www.srtforums.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srtforums.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210035005id_/http%3A//www.srtforums.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # SRTforums.com - Dodge SRT Forums - SRT4, SRT6, SRT8, SRT10 and Dodge Forum - Privacy Policy
 
@@ -38,11 +38,11 @@ This site contains links to other sites. SRTforums.com is not responsible for th
 
 **» Stats**  
 ---  
-Members: 93,029  
-Threads: 562,416  
-Posts: 8,844,103  
-Top Poster: [castrol](http://www.srtforums.com/forums/members/1102.html) (75,870)  
+Members: 94,490  
+Threads: 565,876  
+Posts: 8,905,984  
+Top Poster: [castrol](http://www.srtforums.com/forums/members/1102.html) (75,890)  
   
-Welcome to our newest member, [killerconn 20g](http://www.srtforums.com/forums/members/94006.html)  
+Welcome to our newest member, [srt4richard](http://www.srtforums.com/forums/members/104321.html)  
   
-All times are GMT -6. The time now is 11:40 AM.
+All times are GMT -6. The time now is 09:50 PM.
