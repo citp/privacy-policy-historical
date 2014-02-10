@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the darrelconceptsghana.com privacy policy that was archived on 2013-03-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130321172715id_/http%3A//dtechghana.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the darrelconceptsghana.com privacy policy that was archived on 2014-02-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140210105706id_/http%3A//dtechghana.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -76,22 +76,26 @@ $(document).ready(function(){
 
 </script>
 
- <script type="text/javascript">
- <!--
+<script type="text/javascript">
+<!--
     var LiveHelpSettings = {};
     LiveHelpSettings.server = 'dtechghana.com/clients/modules';
-    LiveHelpSettings.embedded = true;
-    (function(d, $, undefined) {
-        $(window).ready(function() {
-            // JavaScript
-            var LiveHelp = d.createElement('script'); LiveHelp.type = 'text/javascript'; LiveHelp.async = true;
-            LiveHelp.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + LiveHelpSettings.server + '/livehelp/scripts/jquery.livehelp.js';
-            var s = d.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(LiveHelp, s);
+    LiveHelpSettings.embedded = false;
+ 
+    (function($) { 
+        $(function() {
+            $(window).ready(function() {
+                // JavaScript
+                LiveHelpSettings.server = LiveHelpSettings.server.replace(/[a-z][a-z0-9+\-.]*:\/\/|\/livehelp\/*(\/|[a-z0-9\-._~%!$&'()*+,;=:@\/]*(?![a-z0-9\-._~%!$&'()*+,;=:@]))|\/*$/g, '');
+                var LiveHelp = document.createElement('script'); LiveHelp.type = 'text/javascript'; LiveHelp.async = true;
+                LiveHelp.src = /*('https:' == document.location.protocol ? 'https://' : 'http://')*/'https://' + LiveHelpSettings.server + '/livehelp/scripts/jquery.livehelp.min.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(LiveHelp, s);
+            });
         });
-    })(document, jQuery);
- -->
- </script>
+    })(jQuery);
+-->
+</script>
  
 <script type="text/javascript">
 	<!--
@@ -109,22 +113,25 @@ $(document).ready(function(){
 	//-->
 		
 </script>
-
+<!--
+<script type="text/javascript">
+var fb_param = {};
+fb_param.pixel_id = '6006249296112';
+fb_param.value = '0.00';
+(function(){
+  var fpw = document.createElement('script');
+  fpw.async = true;
+  fpw.src = '//connect.facebook.net/en_US/fp.js';
+  var ref = document.getElementsByTagName('script')[0];
+  ref.parentNode.insertBefore(fpw, ref);
+})();
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/offsite_event.php?id=6006249296112&amp;value=0" /></noscript>
+-->
 
 </head>
 
 <body>
-<!--<script>
-
-$(document).ready(function(){
-
-	var webserviceRedirectURL = "";
-	$(location).attr('href',webserviceRedirectURL);
-
-});
-
-</script>-->
-
 
 
 
@@ -454,7 +461,7 @@ $(document).ready(function(){
                                             <ul>
                                                 <li><span class="cathead">Domain Names</span></li>
                                                         <li>
-                                                        <a href="http://dtechghana.com/domain-names/domain-registration/">Domain Registration</a>
+                                                        <a href="http://dtechghana.com/domain-names/domain-registration/?locale=US">Domain Registration</a>
                                                       <div class="tooltip">Register a .COM, .ORG, .NET, or one of 70+ domain extensions</div>
                                                             <ol class="list">
                                                                 <li>
@@ -469,7 +476,7 @@ $(document).ready(function(){
                                                         </li>
                 
                                                         <li>
-                                                        <a href="http://dtechghana.com/domain-names/domain-transfer/">Domain Transfer</a>
+                                                        <a href="http://dtechghana.com/domain-names/domain-transfer/?locale=US">Domain Transfer</a>
                                                       <div class="tooltip">Transfer your domain to us and get 1 year FREE</div>
         
                                                             <ol class="list">
@@ -489,7 +496,7 @@ $(document).ready(function(){
                                                         <div class="tooltip">Check the status and registration details for a domain</div>
                                                         </li>
                                                         <li>
-                                                        <a href="http://dtechghana.com/domain-names/free-domain-services/">FREE Domain services</a>
+                                                        <a href="http://dtechghana.com/domain-names/free-domain-services/?locale=US">FREE Domain services</a>
                                                         <div class="tooltip">Extra value for money with each domain registration</div>
                                                         </li>
                                                 	<!-- 
@@ -513,29 +520,29 @@ $(document).ready(function(){
                                                     <li><span class="cathead">Hosting Solutions</span></li>
                                                     
                                                         <li>
-                                                        <a href="http://dtechghana.com/web-hosting/">Shared Web Hosting</a>
+                                                        <a href="http://dtechghana.com/web-hosting/?locale=US">Shared Web Hosting</a>
                                                   <div class="tooltip">The best web hosting products &amp; services, period. Reliable Linux &amp; Windows hosting to power your websites and applications</div>
                                                                 <ol class="list">
                                                                         <li>
-                                                                        <a href="http://dtechghana.com/web-hosting/linux-hosting/">Linux/cPanel Web hosting</a>
+                                                                        <a href="http://dtechghana.com/web-hosting/linux-hosting/?locale=US">Linux/cPanel Web hosting</a>
                                                                         <div class="tooltip">Host UNLIMITED web sites with our cPanel based multi-domain shared web hosting plans</div>
                                                                         </li>
-                                                                        <li><a href="http://dtechghana.com/web-hosting/windows-hosting/">Windows/ASP.NET hosting</a>
+                                                                        <li><a href="http://dtechghana.com/web-hosting/windows-hosting/?locale=US">Windows/ASP.NET hosting</a>
                                                                           <div class="tooltip">Powerful Plesk based shared web hosting plans for your ASP and .NET websites &amp; applications.</div>
                                                            		  </li>
-                                                                        <li><a href="http://dtechghana.com/web-hosting/budget-hosting-plans/">Budget Web Hosting</a>
+                                                                        <li><a href="http://dtechghana.com/web-hosting/budget-hosting-plans/?locale=US">Budget Web Hosting</a>
                                                                           <div class="tooltip">Don't need all of that extra storage and bandwidth? Take advantage of our "Pocket-fitted" web hosting plans that get you up and running in no time.</div>
-                                                                          <img src="https://dtechghana.com/wp-content/themes/dtech/img/new-small.png" name="newf" width="34" height="34" id="newf">
+                                                                          <!--<img src="/img/new-small.png" name="newf" width="34" height="34" id="newf"  />-->
                                                                         </li>
                                                                 </ol>
                                                         </li>
         
                                                                         <li>
-                                                                        <a href="http://dtechghana.com/reseller-hosting/">Reseller Hosting</a>
+                                                                        <a href="http://dtechghana.com/reseller-hosting/?locale=US">Reseller Hosting</a>
                                                                         <div class="tooltip">Looking to get into the hosting business? Get started with WHM-powered Reseller hosting</div>
                                                                         </li>
                                                                         <li>
-                                                                        <a href="http://dtechghana.com/vps-hosting/">VPS Hosting</a>
+                                                                        <a href="http://dtechghana.com/vps-hosting/?locale=US">VPS Hosting</a>
                                                                         <div class="tooltip">Step your hosting up a notch with increased capacity and performance. Our Virtual Private Servers offer you that extra flexibility</div>
                                                                         </li>
                                                                         <li>
@@ -543,10 +550,10 @@ $(document).ready(function(){
                                                                         <div class="tooltip">Fully managed dedicated servers that give you unrestricted hardware access, guaranteeing the "ultimate" hosting experience.</div>
                                                                 <ol class="list">
                                                                         <li>
-                                                                        <a href="http://dtechghana.com/dedicated-hosting/linux-servers/">Linux Dedicated Servers</a>
+                                                                        <a href="http://dtechghana.com/dedicated-hosting/linux-servers/?locale=US">Linux Dedicated Servers</a>
                                                                         <div class="tooltip">Affordable Managed Linux dedicated solutions to take your business to the next level</div>
                                                                         </li>
-                                                                        <li><a href="http://dtechghana.com/dedicated-hosting/windows-servers/">Windows Dedicated Servers</a>
+                                                                        <li><a href="http://dtechghana.com/dedicated-hosting/windows-servers/?locale=US">Windows Dedicated Servers</a>
                                                                           <div class="tooltip">The next generation of D-Tech servers under the Windows Operating System</div>
                                                                   </li>
                                                                 </ol>
@@ -574,19 +581,19 @@ $(document).ready(function(){
                                 <div class="submenu">
                                                 <ul>
                                                     <li><span class="cathead">Web &amp; Online Security</span></li>
-                                                    <li><a href="http://dtechghana.com/security/ssl-certificates/">SSL Certificates</a>
+                                                    <li><a href="http://dtechghana.com/security/ssl-certificates/?locale=US">SSL Certificates</a>
                                                     <div class="tooltip">Encrypt information and inspire trust and help customers gain the confidence to conduct transactions on your web site...</div>
                                                                 <ol class="list">
-                                                              <li><a href="http://dtechghana.com/security/ssl-certificates/ssl-123/">SSL123 Cert</a>
+                                                              <li><a href="http://dtechghana.com/security/ssl-certificates/ssl-123/?locale=US">SSL123 Cert</a>
                                                               <div class="tooltip">Entry level SSL certificate that provides basic validation and authentication for your Customers...</div>
                                                               </li>
-                                                                    <li><a href="http://dtechghana.com/security/ssl-certificates/web-server-cert/">Web Server Cert</a>
+                                                                    <li><a href="http://dtechghana.com/security/ssl-certificates/web-server-cert/?locale=US">Web Server Cert</a>
                                                                     <div class="tooltip">Domain &amp; identity authentication and business verification -- provides higher assurance and greater comfort to your Customers</div>
                                                                     </li>
-                                                                    <li><a href="http://dtechghana.com/security/ssl-certificates/sgc-supercert/">SGC SuperCert</a>
+                                                                    <li><a href="http://dtechghana.com/security/ssl-certificates/sgc-supercert/?locale=US">SGC SuperCert</a>
                                                                     <div class="tooltip">All the features of the Web Server SSL Certificates plus SGC and step-up Technology to enable 128-bit encryption on older browsers and operating systems.</div>
                                                                     </li>
-                                                                    <li><a href="http://dtechghana.com/security/ssl-certificates/wildcard-ssl/">Wildcard Server Cert</a>
+                                                                    <li><a href="http://dtechghana.com/security/ssl-certificates/wildcard-ssl/?locale=US">Wildcard Server Cert</a>
                                                                     <div class="tooltip">Secure UNLIMITED subdomains on the same server with a single SSL certificate.</div></li>
                                                                 </ol>                                
                                                     </li>
@@ -631,7 +638,47 @@ $(document).ready(function(){
                         </form>
                   </div>
 
-						
+						                        <!--<div id="loc_options_holder">
+        
+                                <div id="loc_options">
+                                
+                                        <script type="text/javascript">
+                                        
+                                        $(document).ready(function(){
+                                                                   
+                                            $("#loc_selector").change(function(){
+                                                    var loc_indicator = $(this).val();
+                                                    var loc_redirectURL = "";
+													if( loc_indicator !== "GH"){
+														$(location).attr('href',loc_redirectURL + loc_indicator);
+													}
+                                            });
+                                                                   
+                                        });
+                                        
+                                        
+                                        </script>
+                                    	<img src="/img/locale-gh.png" width="28" height="28"  />
+                                        <select id="loc_selector" name="loc_selector">
+                                              <option value="US">International (Outside Africa)</option>
+                                              <option value="ET">Ethiopia</option>
+                                              <option value="GM">Gambia</option>
+                                              <option value="GH" selected="selected">Ghana</option>
+                                              <option value="KE">Kenya</option>
+                                              <option value="LR">Liberia</option>
+                                              <option value="NG">Nigeria</option>
+                                              <option value="RW">Rwanda</option>
+                                              <option value="SL">Sierra Leone</option>
+                                              <option value="TZ">Tanzania</option>
+                                              <option value="UG">Uganda</option>
+                                              <option value="ZM">Zambia</option>
+                                        </select>
+                                    
+                                  </div>
+                          
+                          </div>-->
+                          
+                          
 
                 </div>
         
@@ -710,20 +757,21 @@ Mobile:&nbsp;+233 236 517 727</p>
                     </div>
                     
                     </div>
-                    
+
+
                     <div id="blog-content-holder">
                     <h2><a href="http://dtechghana.com/excel/"><img src="https://dtechghana.com/wp-content/themes/dtech/img/blogs-excel.png" width="77" height="32" alt="From our News &amp; Culture Blog"></a></h2>
                     </div>
 
                 <ul class="side-entry">
-										                                                        	<li><a href="https://dtechghana.com/excel/hope-for-africa/" title="H.O.P.E for Africa">H.O.P.E for Africa</a></li>
+										                                                        	<li><a href="https://dtechghana.com/excel/new-recruit-orientation-and-security-awareness-training-week/" title="New recruit orientation and security awareness training week July, 2013">New recruit orientation and security awareness training week July, 2013</a></li>
+                                                        	<li><a href="https://dtechghana.com/excel/hope-for-africa/" title="H.O.P.E for Africa">H.O.P.E for Africa</a></li>
                                                         	<li><a href="https://dtechghana.com/excel/how-to-pay-with-mobile-money/" title="How to pay with Mobile Money">How to pay with Mobile Money</a></li>
                                                         	<li><a href="https://dtechghana.com/excel/now-accepting-mobile-powered-payments/" title="Now accepting Mobile-Powered payments">Now accepting Mobile-Powered payments</a></li>
-                                                        	<li><a href="https://dtechghana.com/excel/gbc-2012-a-recap-of-events/" title="GBC 2012: A recap of events">GBC 2012: A recap of events</a></li>
                                         
                 </ul>
 
-                    
+<p>&nbsp;</p>
             
             </div>
 
@@ -761,6 +809,74 @@ var google_conversion_value = 10;
 </noscript>
 -->
 <div id="gobal-footer">
+
+<script type="text/javascript">
+<!--
+
+$(document).ready(function(){
+
+	$(".ch-phone").click(function(){
+			$("#ch-phone-pop").animate({"bottom": "40px"}, "slow");
+			//$(this).removeClass("ch-phone");
+			//$(this).addClass("ch-popup-close");
+	});
+	
+	$(".ch-popup-close").click(function(){
+		//$(this).hide("normal");
+			$("#ch-phone-pop").animate({"bottom": "-200px"}, "slow");
+	});
+
+});
+
+
+//-->
+</script>
+
+<!-- Chat Area -->
+    <div id="chat-bar">
+    
+        <div class="ch-btn ch-chat">
+            <a class="ch-btn-text LiveHelpButton default" name="LiveHelpStatus">Live Chat</a>
+            <span class="ch-status"><img src="https://dtechghana.com/clients/modules/livehelp/include/status.php" id="LiveHelpStatus" name="LiveHelpStatus" class="LiveHelpStatus"></span>
+        </div>
+    
+        <div class="ch-btn ch-phone">
+            <span class="ch-btn-text">Call Us</span>
+            <span class="ch-status ch-online"></span>
+        </div>
+    
+        <div class="ch-btn ch-kb">
+            <a href="http://dtechghana.com/clients/knowledgebase.php" target="_self"><span>Knowledgebase</span></a>
+        </div>
+    
+        <div class="ch-btn ch-facebook">
+            <a href="http://facebook.com/dtechghana/" target="_blank"><span>Facebook</span></a>
+        </div>
+        
+        <div class="ch-btn ch-twitter">
+            <a href="http://twitter.com/dtechghana/" target="_blank"><span>Twitter</span></a>
+        </div>
+    
+    </div><!-- Chat Bar -->
+    
+    <div id="ch-phone-pop" class="ch-popup">
+    
+        <div class="ch-popup-toolbar">
+            <span class="ch-popup-close">×</span>
+        </div>
+        
+        <div class="ch-popup-inner">
+            <div class="contact-info">
+                <div class="ch-loc">
+                    <img src="https://dtechghana.com/wp-content/themes/dtech/img/ch-loc-flag.jpg" width="46" height="48" alt="Ghana Flag">
+                </div>
+                <div class="contact-phone">0322-390-858</div>
+                <p>(Sales Contact)</p>
+            </div>
+        </div>
+    
+    </div><!-- Chat Area -->
+
 
 	<div class="container">
         <nav class="footer-primary-nav">
@@ -894,7 +1010,7 @@ var google_conversion_value = 10;
         </div>
 
 <p role="credits">
-© 2006 - 2013 Darrel Technologies, Ltd.
+© 2006 - 2014 Darrel Technologies, Ltd.
  <a href="http://dtechghana.com/terms/">Terms &amp; Conditions</a>. <a href="http://dtechghana.com/privacy/">Privacy Policy</a></p>
     
 
