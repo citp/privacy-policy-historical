@@ -1,143 +1,144 @@
-> *The following text is extracted and transformed from the speeddate.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806211917id_/http%3A//www.speeddate.com/apps/site/views/mp/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speeddate.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210032303id_/http%3A//www.speeddate.com/apps/site/views/mp/privacypolicy.php) for the most accurate reproduction.*
 
 # SpeedDate | Real Dates in Real-Time
 
-  
+Speeddate.com, LLC ("Speeddate") respects the privacy of its users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy describes the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy.
 
+If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
 
-Effective Date: July 19th, 2011
+## Information we collect about you
 
-This privacy policy (the "Privacy Policy") describes the personal information ("Information") collected about users of the online dating service accessible via the Website located at www.speeddate.com and related URLs (the "Service") and how such information may be used or disclosed SpeedDate.com, Inc. ™ ("SpeedDate").
+In General. We may collect information that can identify you such as your name and email address ("personal information") and other information that does not identify you. We may collect this information through a website or a mobile application. When you provide personal information through our website, the information may be sent to servers located in the United States and other countries around the world.
 
-The term "You" (and its variants) refers to You as a user of the Service and the term "Us" (and its variants) refers to SpeedDate™. 
-
-Overview
-
-As part of the operation of the Service We collect and may disclose information about You. By accepting the SpeedDate.com™ Terms of Use and this Privacy Policy, You consent to Our use and disclosure of Your personal information as described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the SpeedDate.com™ Terms of Use.
-
-A Special Note About Children
-
-The Service is not intended for users under the age of 18, nor do We knowingly collect or retain Information in connection with the Service from children under the age of 13.
-
-Information We Collect
-
-**In connection with the Service, We may collect Information in the following ways:**
-
-  * Through registration forms filled out by a user through the Service
-  * Through Information provided by a user in connection with the purchase of products or services via the Service
-  * Through the maintenance and analysis of Web server logs
-  * Via communications between a user and Us
-  * Through Our use of third-party databases from which user Information is extracted and combined with Information obtained by Us through other means.
+  * Information you provide.We may collect and store any personal information you enter on our website or on a mobile application, or provide to us in some other manner. This includes identifying information, such as your name, address, email address and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). You may also provide us information about your interests and activities, your gender and age, and other demographic information such as your hometown or your username.
+  * Information from other sources. Speeddate is a part of the IAC family of businesses (please see [www.iac.com](http://www.iac.com/)), which as of the date of this policy includes Ask.com, About.com, Match.com, websites owned by People Media, Meetic, Okcupid.com, College Humor, and many other companies and websites. We may obtain both personal and non-personal information about you from other IAC businesses, business partners, contractors and other third parties. We may also receive information about our users from third party social platforms, such as Facebook. When you access or use our website or mobile application through such a site, you allow us to access or collect information made available by the third party site in accordance with its privacy policy. This information may be available from your profile or account with such site or from cookies placed on your device by the third party platform.
+  * Information about others. We may collect and store personal information about other people that you provide to us, such as their name, address and email address. If you use our website to send others (friends, relatives, colleagues, etc.) a product as a gift, we may store your personal information, and the personal information of each such recipient in order to process those requests or facilitate future activities.
 
 
 
-**The following types of Information about a user are among those that may be collected by Us in connection with the Service:**
+Use of cookies and other technologies to collect information. We use various technologies to collect information from your device and about your activities on our site or application.
 
-  * Name 
-  * Postal address 
-  * E-mail address 
-  * Telephone number 
-  * Cell phone number 
-  * Facsimile number 
-  * Payment information (e.g. credit card numbers and billing addresses), if purchases or payments are made 
-  * Date of birth 
-  * Age 
-  * Gender 
-  * Physical appearance information 
-  * Background information (e.g. education, religion, ethnicity) 
-  * Lifestyle information (e.g. occupation, income, relationship status, habits) 
-  * Preferences for dates (e.g. gender, ethnicity, religion, body type) 
-  * IP Address 
-  * Referring site 
-  * Other technical information collected by the Service's servers. 
+  * Information collected automatically. We automatically collect information from your browser or device when you visit our website or application. This information could include your IP address, device ID, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address.
+  * Cookies and Use of Cookie Data. When you visit our website or application, we may assign your device one or more cookies, to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the pages you visit, the time and date of your visits, the links you click, and the searches you conduct on our site. During your visits to other websites or applications where we advertise, we (or third parties) may use certain data collected on our site to show you Speeddate advertisements. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our site used for targeted Speeddate advertising during your visits to other websites. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our site.
+  * Other Technologies. We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our site. We also may include web beacons in advertisements or email messages to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website or application visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities.
+  * Information collected by third-parties. We may allow service providers, IAC companies, advertising companies and ad networks, and other third parties to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. We do not provide any non-anonymized personal information to these third parties. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)).
 
 
 
-SpeedDate offers location-enabled services and may receive information about your actual location (such as GPS signals sent by a mobile device) or information that can be used to approximate a location (such as a cell ID). Your location may also be transmitted off of your mobile device even when an application is closed. You agree to share your location with SpeedDate on a continuous and periodic basis. While, we never share your exact location with another member, the location may be used to measure your proximity to other users and cause notifications to be sent to other users notifying them that you are nearby. The messaging to other users with whom you are matched may include your approximate distance from them as well as your profile and photograph. Other SpeedDate members may use or disclose your information to others without our control and without your knowledge. We therefore urge you to think carefully about members with whom you choose to interact.
+## How we use the information we collect
 
-We use data collection devices such as "cookies" on certain pages of the Service. "Cookies" are small files placed on Your hard drive that assist Us in providing customized services. Certain features of the Service are only available with the use of a "cookie." We use this information to determine Our members' demographics, interests, and behavior to better understand and serve You and other members. This information may include the URL of the website that You visited prior to the Service (whether this URL is on the Service or not), the URL of the website You next go to (whether this URL is on the Service or not), what browser You are using and Your Internet Protocol address. Most cookies are "session cookies" meaning that they are automatically deleted from Your hard drive at the end of a session. You are always free not to accept cookies if Your browser permits. We may also collect Information such as your name, contact information, date of birth, and credit card information at places within the Service where we request such information (e.g., during registration, when you pay for premium features, when you populate your profile).
+In General. We may use information that we collect about you to:
 
-We may use a third party advertising company to serve ads on Our behalf across the Internet. That advertising company may also collect anonymous information about Your visits to the Service. This is primarily accomplished through the use of a technology device, commonly referred to as a Web beacon, cookie or an action tag, which is placed on various Web pages within the Service or in an HTML email that allows the third party advertising company to collect anonymous information. There may also be a number of services offered by external service providers that help You use the Service. If You choose to use these optional services and in doing so disclose information to the external service providers or grant them permission to collect information about You, then their use of Your information will be governed by their privacy policies, if any.
-
-Our Use and Sharing of Information
-
-**We may use Information collected in connection with the Service in the following ways:**
-
-  * To provide requested information, products and services to users via the Service or through other online or offline channels
-  * To enable users to enter prize promotions and receive prizes from Us and/or third parties
-  * To improve the user experience with the Service
-  * In connection with the operation of the Service and Our internal business
-  * For users to obtain information and offers for products and services offered by Us as well as selected third parties.
-
-
-
-In order to do the foregoing, We may provide the Information to trusted third parties, including but not limited to selected marketers and social networks as well as third party contractors providing services to Us such as the operation of the Service, financial verification and payment services, communication services and fulfillment of orders, and information verification. We will use commercially reasonable efforts to limit use of the Information by such third parties to the specific uses set forth above. We may also provide Information to other Web sites We operate, and/or other business units within or to Our affiliated entities.
-
-Although we use industry-standard efforts to protect the Information We collect via the Service, we cannot guarantee that this information will not be accessed by the government or third parties in certain circumstances. We may be required by law to disclose information to the government, law enforcement agencies or third parties. You authorize us to report consumer transaction data to third parties for fraud prevention services. In addition, third parties may unlawfully intercept or access transmissions or private communications and members may abuse or misuse Your information that they collect from the Service. Accordingly, You should not expect that Your Information or private communications will remain private in all circumstances.
-
-We use information in the data files We maintain about You, and the other information We obtain from Your current and past activities on the Service to resolve disputes, troubleshoot problems and enforce Our Terms of Use. We may review the data of multiple members to identify problems or resolve disputes.
-
-We may use Information, data files and other information about You including but not limited to images, video recordings, and audio recordings to improve Our marketing and promotional efforts, to analyze usage of the Service, improve Our content and product offerings, and customize the Service content, layout, and features.
-
-We aggregate Information of Our members and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing and promotional purposes. We do not disclose to these entities any information that could be used to identify You personally. We do not disclose certain Information, such as Your name, email address, password, credit card number and bank account number, to marketing advertisers. We may use third-party advertising companies to serve ads on Our behalf. These companies may employ cookies and action tags to measure advertising effectiveness.
-
-We may require that you submit certain financial information, including Your credit card billing information. We will use this information to bill You for use of Our Services and products. By making a purchase, or engaging in any other kind of activity or transaction that uses financial information on the Service, You consent to Our providing Your financial information to Our service providers and to such third parties as We determine necessary to support and process Your transactions. These third parties may include the credit card companies and banking institutions used to process and support Your transactions. By purchasing, or registering for, or making reservations for products or services of third parties offered on the Service, or by participating in programs offered on the Service that are administered by third parties and that require You to submit financial information in order to use them, You consent to Our providing Your financial information to those third parties. These third parties will be authorized to use Your financial information in accordance with Our contractual arrangements with such third parties and in accordance with their own privacy policies, over which We have no control, and You agree that We are not responsible or liable for any of their actions or omissions.
-
-We may share data collected via the Service, including Information about You, with Our parent, affiliates, or subsidiaries. Our parent, affiliates and subsidiaries will follow privacy practices no less protective of such Information than Our practices described in this Privacy Policy. It is possible that We could merge with or be acquired by another business entity. Should such merger or acquisition occur, We would share some or all of Your Information with the merger partner or acquiring party. The acquiring entity or newly combined entity will follow the practices disclosed in this Privacy Policy with respect to such information.
-
-Notwithstanding anything to the contrary in this Privacy Policy, if you post information, including Information, on portions of the Service that are made available to other users or to the public (including to your public profile), the restrictions on the use and disclosure of such information contained in this privacy policy will not apply to that information and We may use and disclose such information as permitted in the section of the Terms of Use titled "Member-Submitted Content."
-
-We cooperate with law enforcement inquiries and with third parties to enforce laws. You authorize Us to disclose any information about You to law enforcement and other government officials as We in Our sole discretion believe necessary or appropriate in connection with any investigation of fraud or other activity that is illegal or may expose Us or You to liability.
-
-Email Policies
-
-By default, we will send you periodic updates of various site information, a variety of transactional emails such as when users send you a message and the occasional site announcement.
-
-You have full control regarding which of these emails you want to receive. To change your options, simply click "Email Alerts" in the Profile tab from any page.
-
-Inviting Friends
-
-Inviting friends to SpeedDate.com™ is always completely optional. When you choose to invite friends, we will send an email to the addresses you enter indicating that it is a message from you. We will share your name and email address with anyone you invite so that they know who the invitation is coming from. If a friend does not respond to the initial invitation after a little while, we will send up to one reminder messages on your behalf. Your friends may contact us to request that we remove their information from our database.
-
-For your convenience, SpeedDate.com™ offers the ability to import email addresses from common address books such as Hotmail/Yahoo/Gmail/AOL. If you choose to use this feature, we will access your address book using the login details that you provide. We access your address book only once to retrieve your friends' information so that you may select whom to invite. We do not store your login details nor do we use them for any other purpose than to retrieve your contacts. We never send invitations to contacts you do not leave preselected or explicitly select, and your invitations are the only email we will ever send to your friends unless they register to join the site.
-
-If you have accidentally sent invitations you did not intend - please contact us and we can cancel the reminder message.
-
-Wireless Policy
-
-Pursuant to the above, We may use Information to provide the services requested by You, including utilizing a provided cell phone number for voice communication with You and services that display customized content and advertising via SMS messages sent to such provided cell phone number. In addition to any fee of which You are notified, Your provider's standard messaging rates apply to Our confirmation and all subsequent SMS correspondence. You may opt-out and remove Your SMS information by sending "LEAVE SPEEDDATE" to the SMS text message You have received. 
-
-All standard messaging charges are billed by and payable to Your mobile service provider. We will not be liable for any delays in the receipt of any SMS messages, as delivery is subject to effective transmission from Your network operator. SMS message services are provided on an AS IS basis.
-
-Your Use of Other Members' Information
-
-Our services may include access to instant messaging and chat rooms. As a member You have access to members' identification numbers or user names and You might gain access to other contact information of other members through the use of the Service. You may not use such information in any manner that is not authorized by Us and the applicable member. In all cases, You must give members an opportunity to remove their information from Your information databases, including email lists. Under no circumstances may You disclose Information about another member to any third party without Our consent and the consent of such other member. You may not add a member to an mail list (email or physical mail) without that member's express consent.
-
-Accessing, Reviewing, and Changing Your Profile
-
-After registration You can review and change the information You submitted during registration. For instructions on how to do so visit the "Help" section of the Service.
-
-You may also reach our customer loyalty team in any of the following ways:
-
-  * Sending an email to support@speeddate.com
-  * Sending written correspondence to SpeedDate.com, P.O. Box 77552 San Francisco, CA 94107
+  * deliver our products and services, and manage our business;
+  * manage your account and provide you with customer support;
+  * perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others;
+  * communicate with you by email, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, other IAC companies or other third parties;
+  * develop and display content and advertising tailored to your interests on our site and other sites, including providing our advertisements to you when you visit other sites;
+  * perform ad tracking and website or mobile application analytics;
+  * verify your eligibility and deliver prizes in connection with contests and sweepstakes;
+  * enforce or exercise any rights in our terms and conditions;
+  * perform functions as otherwise described to you at the time of collection; and
+  * register you with and display your profile on other online dating and other social websites owned by IAC, such as websites operated by People Media, Match.com, chemistry.com and okcupid.com.
 
 
 
-Upon Your request We will remove Your membership data from Our active databases as soon as reasonably possible in accordance with Our policy and applicable law. To learn how to hide or remove Your profile so that others cannot view it visit the "Help" section of the Service. We may retain in Our files information You have requested be removed from Our active databases for certain purposes, such as to resolve disputes, troubleshoot problems and enforce the Terms of Use. Moreover, such prior information may never be completely removed from Our databases due to technical and legal constraints, including stored 'back up' systems. You should not expect that all of Your Information will be completely removed from Our databases in response to Your request.
+Financial information. We may use financial information or payment method to (i) process payment for any purchases made on our website or application, (ii) enroll you in the discount, rebate, and other programs in which you elect to participate, (iii) to protect against or identify possible fraudulent transactions, and (iv) otherwise as needed to manage our business.
 
-Control of Your Password
+Job applicants. If your personal information is submitted through our website when applying for a position with our company, the information will be used solely in connection with considering and acting upon your application. We may retain your personal information, but only for the purpose of considering your application for current or future available positions. This information, which may include your name and contact information, prior education and experience, and other information you provided to us, may be shared with other IAC companies for the purpose of evaluating your qualifications for the particular position or other available positions, as well as with third-party service providers retained by us to collect, maintain and analyze candidate submissions for job postings.
 
-You are responsible for all actions taken with Your login information and password, including any fees or charges incurred based on such use. If You choose to share this information with a third party, You are responsible for all actions taken with Your login information and password by such third party. If You believe your password has been disclosed to third parties or otherwise compromised in any way You should immediately change Your password.
+Please review "Your choices about collection and use of your information" below.
 
-Third Party Use of Information
+In all circumstances, we may perform these functions directly or use a third party vendor to perform these functions on our behalf who will be obligated to use your personal information only to perform services for us. Also, if you access our website or mobile applications from a third party social platform, such as Facebook, we may share non-personal information with that platform to the extent permitted by your agreement with it and its privacy settings.
 
-This Privacy Policy only addresses the use and disclosure of information We collect from You. If You disclose Your Information to other parties, whether via the Service or on other sites throughout the Internet, different rules may apply to their use or disclosure of the information You disclose to them. We do not control the privacy policies of any third parties so You should investigate their policies before You disclose Your Information to them. 
+## With whom we share your information
 
-Your California Privacy Rights
+Personal information. We do not share your personal information with others except as indicated in this Privacy Policy or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:
 
-California Civil Code Section 1798.83 permits users of the Sites who are California residents to request certain information regarding SpeedDate's disclosure of personal information to third parties for such third parties' direct marketing purposes. You may make such a request by emailing support@speeddate.com or by sending your request to PO Box 547 Millbrae, CA 94030.
+  * Service providers: We may share information, including personal information, with third parties that perform certain services on our behalf. These services may include fulfilling orders, providing customer service and marketing assistance, performing business and sales analysis, ad tracking and analytics, member screenings, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our site. We may also share your name, contact information and credit card information with our service providers who process credit card payments. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
+  * Business partners: When you register or make purchases on our website or click-through our advertisements offered on third party websites or applications, we may share personal information with the businesses with which we partner to offer you the applicable products, services or any advertisements. When you elect to engage in a particular merchant's offer or program, you authorize us to provide your email address and other information to that merchant. To opt-out of cookies that may be set by third party data or advertising partners, please go to <http://www.aboutads.info/choices/>.
+  * Other IAC businesses. IAC's businesses include the online dating websites Match.com, chemistry.com, okcupid.com, kiss.com, datehookup.com and the websites operated by People Media (ourtime.com, senior peoplemeet.com, blackpeoplemeet.com and other sites listed on www.peoplemedia.com). We may share information we collect, including your profile and personal information such as your name and contact information, photos, interests, activities and transactions on our website, with IAC companies. As part of our online service, your profile may be registered on and/or appear in search results or other areas of other online dating websites owned by IAC. All IAC companies comply with the [IAC Privacy Policy](http://iac.com/privacy-policy/).
+  * Other Situations. We also may disclose your information, including personal information:
+    * In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.
+    * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms and conditions or other agreements or policies.
+    * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
 
-Changes in Our Privacy Policy
 
-We reserve the right to revise and update this Privacy Policy at any time. Any such revisions will be effective on the date of posting to the Service, and will apply to all information collected by Us both prior to and following the effective date. Your use of the Service following any such revisions will be deemed your acceptance of such revisions. You should periodically visit this page to review the current policies with regard to Information. 
+
+Aggregated and/or non-personal information. We may share non-personal information we collect under any of the above circumstances. We may also share it with IAC companies and third parties to develop and deliver targeted advertising on our site and on websites or applications of third parties, and to analyze and report on advertising you see. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated, non-personal information, or personal information in hashed, non-human readable form, with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis or other business purposes. For example, we may engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us (such as your email address), that we may share with a data provider solely in hashed, non-human readable form. To opt-out of cookies that may be set by third party data or advertising partners, please go to <http://www.aboutads.info/choices/>.
+
+If you would like to opt-out of third-party mobile application ad tracking and analytics, please visit [here](https://www.optoutmobile.com/optOut/).
+
+## Do Not Track Disclosure
+
+Do Not Track ("DNT") is a privacy preference that users can set in their web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services. We are committed to providing you with meaningful choices about the information we collect and that is why we provide the opt-out links in the Privacy Policy. However, we do not recognize or respond to any DNT signals as the Internet industry works toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT.
+
+## Third-party websites
+
+There are a number of places on our website where you may click on a link to access other websites that do not operate under this Privacy Policy. For example, if you click on an advertisement on our website, you may be taken to a website that we do not control. These third-party websites may independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those websites. We recommend that you consult the privacy statements of all third-party websites you visit by clicking on the "privacy" link typically located at the bottom of the webpage you are visiting.
+
+## How you can access your information
+
+If you have an online account with us, you have the ability to review and update your personal information online or to deactivate your account by logging into your account and clicking on your account settings under "My Profile". More information about how to contact us is provided below. If you close your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, collect any fees owed, enforce our terms and conditions, take actions we deem necessary to protect the integrity of our website or our users, or take other actions otherwise permitted by law. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties' policies.
+
+## Your choices about collection and use of your information
+
+  * You can choose not to provide us with certain information, but that may result in you being unable to use certain features of our site because such information may be required in order for you to register as a member; purchase products or services; participate in a contest, promotion, survey, or sweepstakes; ask a question; or initiate other transactions.
+  * When you register on our site, you consent to receive email messages from us. To change your options, simply click "Email Alerts" in the Profile tab from any page. At any time you can choose to no longer receive commercial or promotional emails from us by visiting the "Email Alerts" page associated with your account. You also will be given the opportunity, in any commercial email that we send to you, to opt out of receiving such messages in the future. It may take up to 10 days for us to process an opt-out request. We may send you transactional and relationship emails, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that changing information in your account, or otherwise opting out of receipt of promotional email communications, will only affect future activities or communications from us. If we have already provided your information to a third party (such as a service provider) before you have changed your preferences or updated your information, you may have to change you preferences directly with that third party.
+  * Our applications may also deliver notifications to your phone or mobile device. You can disable these notifications in your device's settings in your account or by deleting the relevant application.
+  * You can also control information collected by cookies. See "Cookies" below for information about declining or deleting cookies.
+
+
+
+## How we protect your personal information
+
+We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to the Federal Trade Commission's website at <http://www.ftc.gov/bcp/menus/consumer/data.shtm> for information about how to protect yourself against identity theft.
+
+## Information you provide about yourself while using our service
+
+We provide areas on our site where you can post information about yourself and others and communicate with others or upload content such as photographs. Such postings are governed by our Terms of Use. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information.
+
+## Children's privacy
+
+Although our website is a general audience site, we restrict the use of our service to individuals age 18 and above. We do not knowingly collect personal information from children under the age of 13.
+
+## Visiting our websites from outside the United States
+
+If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy.
+
+## No Rights of Third Parties
+
+This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the website.
+
+## Changes to this Privacy Policy
+
+We will occasionally update this Privacy Policy. When we post changes to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. We recommend that you check our site from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.
+
+## How to contact us
+
+If you have any questions about this Privacy Policy, please contact us by email or postal mail as follows:
+
+Privacy Officer  
+Speeddate.com, LLC  
+8300 Douglas Avenue  
+Dallas, Texas 75225  
+support@speeddate.com 
+
+© IAC/InterActiveCorp. All rights reserved.
+
+## Linked information:
+
+Cookies:
+
+A cookie is a small text file that is stored on a user's device for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our site. A persistent cookie remains on your device for an extended period of time. Cookies on our site do not link to or store your personal information.
+
+For example, when you sign in to our website, we will record your user or member ID and the name associated with your user or member ID in the cookie file on your computer. We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in. For security purposes, we encrypt account-related data that we store in such cookies. In the case of sites and services that do not use a user or member ID, the cookie will contain a unique identifier. We may allow our service providers to serve cookies from our website or application to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising.
+
+You may delete or decline cookies by changing your browser settings. (Click "Help" in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly.
+
+We may allow third-parties, including advertising companies, analytics companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements or our website or mobile applications. We do not provide any personal information to these third parties, but they may collect information about where you, or others who are using your device, saw and/or clicked on the advertisements they deliver (such as click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, etc.), and possibly associate this information with your subsequent visits to the advertised websites or other data they have collected. They also may combine this information with personal information they collect from you to provide advertisements about goods and services likely to be of greater interest to you. The collection and use of that information is subject to the third-party's privacy policy. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies and provides information about this behavioral advertising practice ([www.networkadvertising.org](http://www.networkadvertising.org/)). This policy covers the use of cookies by Speeddate only and does not cover the use of cookies by any advertisers.
+
+Web Beacons:
+
+Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user's device, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence.
+
+Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website. Third parties may use anonymous information about your visits to our site and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you.
