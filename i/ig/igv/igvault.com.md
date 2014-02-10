@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igvault.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907092729id_/http%3A//www.igvault.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igvault.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210072149id_/http%3A//www.igvault.com/policy.html) for the most accurate reproduction.*
 
 # WOW Gold, Diablo 3 Gold, Aion Kinah, GW2 Gold, RS Gold, Silkroad Gold, Metin2 yang,SWTOR Credits, EVE isk - IGVault
 
@@ -18,7 +18,7 @@ On all Company web sites that collect Personal Information, we specifically desc
 We collect Personal Information when you contact us, when you register with us, when you use our products and services, when you submit an order with us, when you visit our web sites or the web sites of certain of the Company's partners, and when you enter promotions and sweepstakes. 
 
 **Registration**   
-When you register with us on this site, you first complete the on-line registration form, which requires you to create a username and password. During registration, you are also required to provide Personal Information, which may include name, billing address, shipping address, telephone number, e-mail address, credit card number, and credit card expiration date. We use this information so that we may contact you about the services and products on the site(s) in which you have expressed interest or requested and to facilitate the completion of an order. 
+When you register with us on this site, you first complete the on-line registration form, which requires you to create a username and password. During registration, you are also required to provide Personal Information, which may include name, billing address, shipping address, telephone number, e-mail address, Token or Last 4 digits of the credit card number, and credit card expiration date. We use this information so that we may contact you about the services and products on the site(s) in which you have expressed interest or requested and to facilitate the completion of an order. 
 
 **Promotions, Contests and Sweepstakes**   
 From time-to-time, the Company may provide you the opportunity to participate in promotions, contests or sweepstakes on its web site(s). Such promotions, contests and sweepstakes will also be governed by the rules and regulations posted with such promotions, contests and sweepstakes. If you participate, you will be required to register with the Company, which will require you to provide certain Personal Information. Participation in these promotions, contests and sweepstakes is completely voluntary and you therefore have a choice whether or not to register and provide your Personal Information. The requested information typically includes contact information, such as name, shipping address, e-mail address, and telephone number. We will use this information to notify winners and award prizes. Additionally, during your registration process you may opt-in to receiving additional related communications from us. If you decide to opt-in, we will use the information provided to send you communications described throughout this Privacy Policy. 
@@ -54,7 +54,7 @@ The ads that appear from time to time on the Company's web sites are delivered t
 
 **Use of Information**   
 Verification, Billing, and Order Status   
-The Company collects Personal Information to verify the accuracy of your name, billing address, shipping address, credit card number, and credit card expiration date provided, to screen for fraud, to bill you for products and services purchased and to pay you for products and services sold. The Company uses your e-mail address(es) to contact you regarding the status of your order when necessary and to send you a Receipt Purchase/Sale Confirmation and Order Shipping Notification. 
+The Company collects Personal Information to verify the accuracy of your name, billing address, shipping address, Token or Last 4 digits of the credit card number, and credit card expiration date. provided, to screen for fraud, to bill you for products and services purchased and to pay you for products and services sold. The Company uses your e-mail address(es) to contact you regarding the status of your order when necessary and to send you a Receipt Purchase/Sale Confirmation and Order Shipping Notification. 
 
 **Special Offers and Updates**   
 The Company collects information about which sections of its web site you visit most often, so that it can send you our newsletter and information about relevant offers, promotions, contests, and sweepstakes which may interest you. 
@@ -88,7 +88,7 @@ The Company shares information, including Personal Information, with trusted thi
 As required by law, and to enforce customers?or the Company's legal rights, and to comply with local, state, federal and international law, the Company may disclose information to law enforcement agencies. 
 
 **Choice and Opt-Out**   
-If you no longer wish to receive the Company's promotional communications, you may 'opt-out' of receiving them by following the instructions included in each communication or by e-mailing the Company at customerservice@igvault.com. 
+If you no longer wish to receive the Company's promotional communications, you may 'opt-out' of receiving them by following the instructions included in each communication or by e-mailing the Company at support@igvault.com. 
 
 **Links to Other Web Sites**   
 There are several places throughout the Company's web sites that may link you to other web sites that do not operate under this Privacy Policy. When you click through to these web sites, this Privacy Policy no longer applies. The Company recommends that you examine the privacy statements for all third party web sites to understand their procedures for collecting, using, and disclosing your Personal Information. 
@@ -101,7 +101,7 @@ The Company protects the privacy and integrity of the information it collects by
 
 Although the Company follows the procedures set forth above to protect the Personal Information submitted to the Company, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Thus, while the Company strives to use commercially acceptable means to protect your Personal Information, the Company cannot guarantee its absolute security. 
 
-If you have any questions about the Company's security on the its web sites, please feel free to send us an e-mail at customerservice@igvault.com. 
+If you have any questions about the Company's security on the its web sites, please feel free to send us an e-mail at support@igvault.com. 
 
 **Internet Fraud**   
 The Company has a ZERO TOLERANCE policy for Internet fraud or any attempt to access or acquire customer or other information on its web sites via illegal or surreptitious means. The Company works with local, national, and international fraud investigation agencies and employs a variety of electronic and other means to discourage, detect, and intercept fraudulent activities. The Company aggressively prosecutes, to the fullest extent of the law, those perpetrators apprehended conducting fraudulent activities on its web site. 
@@ -118,4 +118,4 @@ The Company's sites are not intended for or directed to persons under the age of
 The Company will from time-to-time update this Privacy Policy, each time revising the last updated date at the top of the Privacy Policy and indicate the nature of the revisions within the statement. The Company will notify customers of material changes to this statement by e-mail or by placing prominent notice on the its web site. 
 
 **Contact Information**   
-You may contact the Company by e-mail at customerservice@igvault.com. 
+You may contact the Company by e-mail at support@igvault.com. 
