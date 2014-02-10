@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loogames.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918080941id_/http%3A//www.loogames.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loogames.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210011759id_/http%3A//www.loogames.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
