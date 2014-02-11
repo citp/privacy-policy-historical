@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the putlocker.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118162047id_/http%3A//www.putlocker.com/page.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the putlocker.com privacy policy that was archived on 2014-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140211065008id_/http%3A//www.putlocker.com/page.php%3Fprivacy) for the most accurate reproduction.*
 
 # PutLocker - Privacy Policy
 
@@ -82,8 +82,6 @@ By using this Site and/or Services, you agree to the terms of our Privacy Policy
 Any disclosure of personal information will be strictly controlled in accordance with current UK legislation, in particular the UK Data Protection Act 1998 (the Act). 
 
 Our business changes constantly and our UK Privacy Policy may also change from time to time. You should check our website frequently to see recent changes, however, we will never materially change our policies and practices to make them less protective of personal information collected in the past without your prior consent. Unless stated otherwise, our current UK Privacy Policy applies to all information that we have about you.
-
-For any inquiries you may contact us at +44 0121 288 3422 
 
 #### Contacting Us about Privacy Questions or Concerns
 
