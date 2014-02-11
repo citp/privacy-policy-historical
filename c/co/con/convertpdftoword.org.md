@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the convertpdftoword.org privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117151300id_/http%3A//www.convertpdftoword.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convertpdftoword.org privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212004432id_/http%3A//www.convertpdftoword.org/privacy-policy) for the most accurate reproduction.*
 
-# Convert PDF to Word Free Online – Privacy Policy
+# Convert PDF to Word Free Online - Privacy Policy
 
 Convertpdftoword.org is committed to ensuring that your privacy as a visitor of our website and as a user of our services is protected.
 
 ## Use of Personal Information
 
-We will not share, sell, lease, disclose, transfer, transmit or rent any personal information you submit through the Convertpdftoword.org website without your consent. 
+We will not share, sell, lease, disclose, transfer, transmit or rent any personal information you submit through the Convertpdftoword.org website without your consent.
 
 ## Handling uploaded and converted files
 
@@ -16,7 +16,7 @@ There is no back-up of stored files. Contents of the files are not being monitor
 
 ## Emails addresses
 
-We will email you only for conversion purposes: 1. to send you a converted file and 2. inform you about the status of a conversion process. Your email is never going to be rented, shared or sold to a third party. 
+We will email you only for conversion purposes: 1. to send you a converted file and 2\. inform you about the status of a conversion process. Your email is never going to be rented, shared or sold to a third party.
 
 We will send you email updates only if you subscribe to them and double opt-in. Each message will include instructions on how to "unsubscribe" from future mailings if you wish to cancel your subscription at any time.
 
@@ -26,7 +26,7 @@ Convertpdftoword.org might put a cookie on your website. A website cookie is a s
 
 ## Security
 
-We apply security practices in order to prevent unauthorised access or disclosure. While being fully committed to maintaining a high level of security here at Convertpdftoword.org , please be aware of the fact that there is a level of risk involved in any transmissions of data via the Internet. No transmission of data over the Internet can ever be guaranteed to be completely secure.
+We apply security practices in order to prevent unauthorised access or disclosure. While being fully committed to maintaining a high level of security here at Convertpdftoword.org, please be aware of the fact that there is a level of risk involved in any transmissions of data via the Internet. No transmission of data over the Internet can ever be guaranteed to be completely secure.
 
 ## Third parties
 
@@ -34,7 +34,7 @@ We will not share, rent, lease or sell any of your data to third parties. We mig
 
 ## Transfer and sharing of data
 
-In the course of providing the Services data is transferred to and from servers located in the United States. By agreeing to Convertpdftoword.org 's Terms of Service you accept the transfer of such data as is necessary to provide the Services.
+In the course of providing the Services data is transferred to and from servers located in the United States. By agreeing to Convertpdftoword.org's Terms of Service you accept the transfer of such data as is necessary to provide the Services.
 
 ## Exceptional Disclosures
 
@@ -46,6 +46,6 @@ If we decide to change our privacy policy, we will post changes to this page. Th
 
 ## Terms and conditions
 
-Please visit our Terms and Conditions section related to the use of this website. [convertpdftoword.org/legal/](http://convertpdftoword.org/legal/)
+Please visit our Terms and Conditions section related to the use of this website. [convertpdftoword.org/legal/](https://web.archive.org/legal/)
 
 If you have questions about our privacy policy, please send an email to [online.conversion.service@gmail.com](mailto:online.conversion.service@gmail.com)
