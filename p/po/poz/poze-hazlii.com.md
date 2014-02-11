@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poze-hazlii.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211211251id_/http%3A//poze-hazlii.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poze-hazlii.com privacy policy that was archived on 2014-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140211173019id_/http%3A//poze-hazlii.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Poze Hazlii - Cele mai tari poze hazlii de pe net
 
