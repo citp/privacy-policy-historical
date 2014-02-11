@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the triangle.com privacy policy that was archived on 2013-07-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130722192219id_/http%3A//www.triangle.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the triangle.com privacy policy that was archived on 2014-02-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140211191232id_/http%3A//www.triangle.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -184,6 +184,24 @@ function getVarFromUrl(str) {
 	 2 = enable paywall for preview only
 	*/
 	miAppControler.prototype.paywall = 1;
+
+        /* Yahoo CTXT ads
+         0 = disable
+         1 = enable for preview & live
+         2 = enable for preview only
+        */
+
+        miAppControler.prototype.yahooctxt = 0;
+
+        /* Google AdSense ads
+         0 = disable
+         1 = enable for preview and live
+         2 = enable for preview only
+         3 = present on preview and live with display hidden
+        */
+
+        miAppControler.prototype.googleadsense = 1;
+
 
 var pageInfo = {'version':1.0};
 pageInfo.section = {};
@@ -524,7 +542,7 @@ if (mi__dart_demo_birth_year) {
  
 <div class="advertisement ts_shared_generic dart3" id="dart_960x30_ats_1"><!-- support/ads/dart_call.ett :start v.15694 --><!-- in gpt_generic --><script type="text/javascript">
 document.write("<div id='div-gpt-ad-"+mi__gpt_ord+"-1'><scr"+"ipt type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-"+mi__gpt_ord+"-1'); });</scr"+"ipt></div>");
-</script><div id="div-gpt-ad-385793711744062-1"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-385793711744062-1'); });</script></div>
+</script><div id="div-gpt-ad-561741636514770-1"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-561741636514770-1'); });</script></div>
 <!-- support/ads/dart_call.ett :end -->
 
 </div><!-- /.advertisement ts_shared_generic -->
@@ -542,7 +560,7 @@ document.write("<div id='div-gpt-ad-"+mi__gpt_ord+"-1'><scr"+"ipt type='text/jav
  
 <div class="advertisement ts_shared_ads_leaderboard dart3" id="dart_728x90_ats_1"><!-- support/ads/dart_call.ett :start v.15694 --><!-- in gpt_generic --><script type="text/javascript">
 document.write("<div id='div-gpt-ad-"+mi__gpt_ord+"-2'><scr"+"ipt type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-"+mi__gpt_ord+"-2'); });</scr"+"ipt></div>");
-</script><div id="div-gpt-ad-385793711744062-2"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-385793711744062-2'); });</script></div>
+</script><div id="div-gpt-ad-561741636514770-2"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-561741636514770-2'); });</script></div>
 <!-- support/ads/dart_call.ett :end -->
 
 </div><!-- /.advertisement ts_shared_ads_leaderboard -->
@@ -571,7 +589,7 @@ document.write("<div id='div-gpt-ad-"+mi__gpt_ord+"-2'><scr"+"ipt type='text/jav
 
 
 <div id="weather_widget">
-	<a href="http://www.newsobserver.com/weather" class="icon"><img src="http://media2.newsobserver.com/static/images/weather/smallicons/04.gif"></a><a href="http://www.newsobserver.com/weather">88°F</a>
+	<a href="http://www.newsobserver.com/weather" class="icon"><img src="http://media2.newsobserver.com/static/images/weather/smallicons/06.gif"></a><a href="http://www.newsobserver.com/weather">58°F</a>
 </div>
 
 
@@ -668,35 +686,99 @@ document.write("<div id='div-gpt-ad-"+mi__gpt_ord+"-2'><scr"+"ipt type='text/jav
 
        	
 
+
  
 
-<div id="navigation">
-    	<div class="grid_12_none">
-            <ul>
-		
-		<li class="home"><a href="/home"> </a></li>
-		
-		
-		<li class="news"><a href="/news"> </a></li>
-		
-                <li class="events"><a href="http://events.triangle.com/"> </a></li>
-                <li class="movies"><a href="http://events.triangle.com/raleigh-nc/movies"> </a></li>
-                <li class="restaurants"><a href="http://events.triangle.com/raleigh-nc/restaurants"> </a></li>
-                
-                <li class="photos"><a href="http://www.triangle.com/galleries/"></a></li>
-                
-		
-		<li class="originals"><a href="/originals"> </a></li>
-		
-		
-                <li class="contests"><a href="/contests"> </a></li>
-		
-		
-                <li class="your_voice"><a href="/yourvoice"> </a></li>
-		
-            </ul>
-        </div>
+<style>
+    #menu {
+        border: 0 solid #FFFFFF;
+        font-family: "century gothic";
+        font-size: 15px;
+        height: 30px;
+        margin: 0;
+        width: 100%;
+    }
+    #menu a {
+        color: #FFFFFF;
+        line-height: 38px;
+        padding-left: 0;
+        text-align: center;
+        text-decoration: none;
+        text-transform: uppercase;
+        vertical-align: middle;
+    }
+     #menu a:hover {
+          background-image: url( '/static/images/navigation/orange-bg-pipe.png' );
+          background-repeat: no-repeat;
+          background-color:#D06419;
+     }
+     #menu a:hover.first {
+          background-image: url( '/static/images/navigation/orange-bg-left.png' );
+          background-repeat: no-repeat;
+          background-color:#D06419;
+     }
+     #menu a:hover.last {
+          background-image: url( '/static/images/navigation/orange-bg-right.png' ), url( '/static/images/navigation/orange-bg-pipe.png' );
+          background-position: right top, left top !important;
+          background-repeat: no-repeat;
+          background-color:#D06419;
+     }
+     #menu a.selected {
+          background-image: url('/static/images/navigation/orange-bg-pipe.png');
+          background-repeat: no-repeat;
+          background-color:#D06419;
+     }
+     #menu a.selected_last {
+          background-image: url( '/static/images/navigation/orange-bg-right.png' ), url( '/static/images/navigation/orange-bg-pipe.png' );
+          background-position: right top, left top !important;
+          background-repeat: no-repeat;
+          background-color:#D06419;
+     } 
+     #menu a.first {
+          background-image: url('/static/images/navigation/green-bg-left.png');
+          background-repeat: no-repeat;
+     }
+     #menu a.selected_first {
+          background-image: url( '/static/images/navigation/orange-bg-left.png' );
+          background-repeat: no-repeat;
+          background-color:#D06419;
+     }
+     #menu a.last {
+         background-image: url("/static/images/navigation/green-bg-right.png"), url("/static/images/navigation/green-bg.png");
+         background-position: right top, left top;
+         background-repeat: no-repeat;
+     }
+    div.menu-item {
+        background-image: url("/static/images/navigation/green-bg-pipe.png");
+        background-repeat: no-repeat;
+        float: left;
+        margin: 0;
+        padding: 0;
+        width: 12%;
+    }
+    div.menu-item-wide {
+        background-image: url("/static/images/navigation/green-bg-pipe.png");
+        background-repeat: no-repeat;
+        float: left;
+        margin: 0;
+        padding: 0;
+        width: 15.25%;
+    }
+</style>
 
+<div id="navigation">
+<div style="display:none;">URL: /133/index.html section id 133 </div>
+     <div id="menu">
+          <div class="menu-item"><a class="first" href="/home">Home</a></div>
+          <div class="menu-item"><a href="/news">News</a></div>
+          <div class="menu-item"><a href="http://events.triangle.com/">Events</a></div>
+          <div class="menu-item"><a href="http://events.triangle.com/raleigh-nc/movies">Movies</a></div>
+          <div class="menu-item-wide"><a href="http://events.triangle.com/raleigh-nc/restaurants">Restaurants</a></div>
+          <div class="menu-item"><a href="/galleries">Photos</a></div>
+          <div class="menu-item"><a href="/originals">Originals</a></div>
+          <div class="menu-item"><a class="last" href="/contests">Contests</a></div>
+          
+     </div>
 </div>
 
  
@@ -874,7 +956,7 @@ document.write("<div id='div-gpt-ad-"+mi__gpt_ord+"-2'><scr"+"ipt type='text/jav
   
    
 
-<div id="commentingStage"></div><script>mi.commenting.display();</script>
+<div id="commentingStage"></div><!--script>mi.commenting.display();</script-->
 
  
   
@@ -921,7 +1003,7 @@ document.write("<div id='div-gpt-ad-"+mi__gpt_ord+"-2'><scr"+"ipt type='text/jav
  
 <div class="advertisement ts_pubsys_section_section_content dart3" id="dart_300x250_ats_1"><!-- support/ads/dart_call.ett :start v.15694 --><!-- in gpt_generic --><script type="text/javascript">
 document.write("<div id='div-gpt-ad-"+mi__gpt_ord+"-3'><scr"+"ipt type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-"+mi__gpt_ord+"-3'); });</scr"+"ipt></div>");
-</script><div id="div-gpt-ad-385793711744062-3"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-385793711744062-3'); });</script></div>
+</script><div id="div-gpt-ad-561741636514770-3"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-561741636514770-3'); });</script></div>
 <!-- support/ads/dart_call.ett :end -->
 
 </div><!-- /.advertisement ts_pubsys_section_section_content -->
@@ -974,7 +1056,7 @@ document.write("<div id='div-gpt-ad-"+mi__gpt_ord+"-3'><scr"+"ipt type='text/jav
  
 <div class="advertisement ts_pubsys_section_section_content dart3" id="dart_300x250_bts_2"><!-- support/ads/dart_call.ett :start v.15694 --><!-- in gpt_generic --><script type="text/javascript">
 document.write("<div id='div-gpt-ad-"+mi__gpt_ord+"-4'><scr"+"ipt type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-"+mi__gpt_ord+"-4'); });</scr"+"ipt></div>");
-</script><div id="div-gpt-ad-385793711744062-4"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-385793711744062-4'); });</script></div>
+</script><div id="div-gpt-ad-561741636514770-4"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-561741636514770-4'); });</script></div>
 <!-- support/ads/dart_call.ett :end -->
 
 </div><!-- /.advertisement ts_pubsys_section_section_content -->
@@ -1148,9 +1230,9 @@ document.write("<div id='div-gpt-ad-"+mi__gpt_ord+"-4'><scr"+"ipt type='text/jav
  
 <div class="advertisement floorboard shared-footer_test dart3" id="dart_285x70_ats_1"><!-- support/ads/dart_call.ett :start v.15694 --><!-- in gpt_generic --><script type="text/javascript">
 document.write("<div id='div-gpt-ad-"+mi__gpt_ord+"-oop'><scr"+"ipt type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-"+mi__gpt_ord+"-oop'); });</scr"+"ipt></div>");
-</script><div id="div-gpt-ad-385793711744062-oop"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-385793711744062-oop'); });</script></div><script type="text/javascript">
+</script><div id="div-gpt-ad-561741636514770-oop"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-561741636514770-oop'); });</script></div><script type="text/javascript">
 document.write("<div id='div-gpt-ad-"+mi__gpt_ord+"-5'><scr"+"ipt type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-"+mi__gpt_ord+"-5'); });</scr"+"ipt></div>");
-</script><div id="div-gpt-ad-385793711744062-5"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-385793711744062-5'); });</script></div>
+</script><div id="div-gpt-ad-561741636514770-5"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-561741636514770-5'); });</script></div>
 <!-- support/ads/dart_call.ett :end -->
 
 </div><!-- /.advertisement floorboard shared-footer_test -->
