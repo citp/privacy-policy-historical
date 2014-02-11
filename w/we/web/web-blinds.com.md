@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web-blinds.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816220711id_/http%3A//www.web-blinds.com/about-web-blinds/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-blinds.com privacy policy that was archived on 2014-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140211033932id_/http%3A//www.web-blinds.com/about-web-blinds/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,8 +42,12 @@ If you don’t want to accept Cookies you can set up your browser to notify you 
 
 ### Where to contact us
 
-Any questions or comments about our privacy policy? Just email us at [enquiries@web-blinds.com](mailto:enquiries@web-blinds.com) or call us on **0845 604 9611** if you live in the UK or **1890 995009** if you live in Ireland.
+Any questions or comments about our privacy policy? Just email us at [enquiries@web-blinds.com](mailto:enquiries@web-blinds.com) or call us on **0845 604 9611** if you live in the UK,  **1890 995009** if you live in Ireland or   **44   **115 852 0957** if you live in Europe**
 
-You can also write to us at:
+****You can also write to us at:****
 
-web-blinds.com, Unit 2 Churchill Park, Private Road No. 2, Colwick Business Park, Nottingham, NG4 2JR
+ **
+
+**web-blinds.com, Unit 2 Churchill Park, Private Road No. 2, Colwick Business Park, Nottingham, NG4 2JR**
+
+**** **
