@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penaltyrecoverymethod.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201083712id_/http%3A//www.penaltyrecoverymethod.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penaltyrecoverymethod.com privacy policy that was archived on 2014-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140211013542id_/http%3A//www.penaltyrecoverymethod.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Google Penalty Recovery Method
 
