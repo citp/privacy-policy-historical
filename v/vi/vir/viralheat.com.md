@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralheat.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618121330id_/https%3A//www.viralheat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralheat.com privacy policy that was archived on 2014-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140211063950id_/https%3A//www.viralheat.com/privacy-policy) for the most accurate reproduction.*
 
 # Viralheat - Privacy Policy | Viralheat
 
@@ -95,4 +95,4 @@ For revisions to this Policy that may be materially less restrictive on our use 
 
 **Contacting Us.**
 
-If you have questions regarding this Policy, its implementation, failure to adhere to this Policy, and/or our general practices, please [contact us](https://www.viralheat.com/contact-us "Contact Us").
+If you have questions regarding this Policy, its implementation, failure to adhere to this Policy, and/or our general practices, please [contact us](https://web.archive.org/web/20140211063950id_/https://www.viralheat.com/privacy-policy/\[url_for%20path= "Contact Us").
