@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safelister.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007113132id_/http%3A//www.safelister.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safelister.com privacy policy that was archived on 2014-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140211090323id_/http%3A//www.safelister.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Safelister
 
