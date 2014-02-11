@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the akonter.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820065724id_/http%3A//www.akonter.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akonter.com privacy policy that was archived on 2014-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140211090658id_/http%3A//www.akonter.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Akonter
 
 Privacy Policy for <http://www.akonter.com/>
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [support@akonter.com](mailto:support@akonter.com).
+If you require any more information or have any questions about our privacy policy, please feel free to [Contact Us](http://www.akonter.com/static/contact-us/).
 
 At <http://www.akonter.com/>, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by <http://www.akonter.com/> and how it is used.
 
@@ -22,3 +22,10 @@ These third-party ad servers or ad networks use technology to the advertisements
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.akonter.com/'s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+
+Akonter bookmarks is a social bookmarking service which lets you save favorites and share bookmarks by Tags, particularly shopping, business, services and marketing websites. 
+
+[ ](https://www.facebook.com/akonter "Follow us on Facebook") [ ](https://twitter.com/akonterr "Follow us on twitter") [ ](https://plus.google.com/103263747725718063263 "Follow us on Google")
+
+  
+
