@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arab-eye.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212001254id_/http%3A//info.yahoo.com/privacy/xe/yahoo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arab-eye.com privacy policy that was archived on 2014-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140211125016id_/http%3A//info.yahoo.com/privacy/xe/yahoo) for the most accurate reproduction.*
 
 # Yahoo! Privacy Center
 
@@ -18,13 +18,13 @@ Return to top
 
 ##  INFORMATION COLLECTION AND USE
 
-Yahoo! collects personal information when you register for a Yahoo! account, when you use certain Yahoo! [products or services](http://info.yahoo.com/privacy/us/yahoo/products.html), when you enter [promotions or sweepstakes](http://info.yahoo.com/privacy/us/yahoo/promotions/) and when you visit Yahoo! pages or the pages of certain Yahoo! partners outside the branded Yahoo! network of websites. Yahoo! may combine information about you that we have with information we obtain from business partners or other companies. 
+Yahoo! collects personal information when you register for a Yahoo! account, when you use certain Yahoo! [products or services](https://info.yahoo.com/privacy/us/yahoo/products.html), when you enter [promotions or sweepstakes](https://info.yahoo.com/privacy/us/yahoo/promotions/) and when you visit Yahoo! pages or the pages of certain Yahoo! partners outside the branded Yahoo! network of websites. Yahoo! may combine information about you that we have with information we obtain from business partners or other companies. 
 
 When you register with Yahoo!, we ask for your name, email address, birth date, gender, post code, occupation, industry, and personal interests. Once you register with Yahoo! and sign in to our services, you are not anonymous to us. 
 
 Yahoo! collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.
 
-Yahoo! also automatically receives and records information on our server logs from your browser including your [IP address](http://info.yahoo.com/privacy/xe/yahoo/ip), Yahoo! [cookie](http://info.yahoo.com/privacy/xe/yahoo/cookies) information, software and hardware attributes, and the page you requested. 
+Yahoo! also automatically receives and records information on our server logs from your browser including your [IP address](https://info.yahoo.com/privacy/xe/yahoo/ip), Yahoo! [cookie](https://info.yahoo.com/privacy/xe/yahoo/cookies) information, software and hardware attributes, and the page you requested. 
 
 Yahoo! uses information for the following general purposes: to personalize the advertising and content you see, based on the details given by you at registration and your activity at Yahoo!, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. You agree that Yahoo! may transfer your personal information for the general purposes set out above to any Yahoo! group company worldwide.
 
@@ -49,7 +49,7 @@ Yahoo! displays targeted advertisements based on personal information. Advertise
 
 
 
-Yahoo! works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed [ reference links](http://info.yahoo.com/privacy/us/all). 
+Yahoo! works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed [ reference links](https://info.yahoo.com/privacy/us/all). 
 
 Return to top
 
