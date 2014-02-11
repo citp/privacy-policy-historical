@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britainbusinessdirectory.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807150943id_/http%3A//www.britainbusinessdirectory.com/privacypolicybritainbusinessdirectory.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britainbusinessdirectory.com privacy policy that was archived on 2014-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140211034218id_/http%3A//www.britainbusinessdirectory.com/privacypolicybritainbusinessdirectory.html) for the most accurate reproduction.*
 
 # UK Britain United Kingdom Business Directory - Privacypolicybritainbusinessdirectory
 
