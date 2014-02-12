@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agentsbids.com privacy policy that was archived on 2013-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130713050206id_/http%3A//www.agentsbids.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agentsbids.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212202051id_/http%3A//www.agentsbids.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - AgentsBids
 
 AgentsBids.com created this privacy policy to provide you information about how we collect and use information, including personally identifiable information. As a part of the normal operation of our services we collect and, in some cases, may disclose information about you. By accepting this Privacy Policy and our Terms of Use, you expressly consent to our use and disclosure of your personal information in the manner described in this Privacy Policy. 
 
