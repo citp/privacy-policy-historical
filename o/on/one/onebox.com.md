@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onebox.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828063250id_/http%3A//www.onebox.com/signup/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onebox.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212170723id_/http%3A//www.onebox.com/signup/privacy) for the most accurate reproduction.*
 
 # Onebox® respects your privacy and delivers a virtual phone system.
 
