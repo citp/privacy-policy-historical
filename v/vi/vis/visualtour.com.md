@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualtour.com privacy policy that was archived on 2013-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130802030734id_/http%3A//www.visualtour.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualtour.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212162615id_/http%3A//www.visualtour.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # VisualTour Privacy Statement
 
@@ -115,6 +115,14 @@ A list of affiliated portal websites can be found by logging into your account o
 ### Protecting our Children
 
 VisualTour does not sell products for purchase by children. We do not knowingly solicit data from children, and we do not knowingly market to children. We recognize that protecting children's identities and privacy online is important and that the responsibility to do so rests with both the online industry and with parents. The only situation in which VisualTour might collect personal information from a child would be if a child includes the information in a question he or she submits to us-which we ask children not to do. If VisualTour receives such information, we delete the information as soon as we discover it and do not use it for any purpose. We also do not disclose it to third parties.
+
+### Unsubscribe Policy
+
+VisualTour emails are sent in compliance with the CAN-SPAM Act of 2003. We take this law seriously and make every effort to comply with all requests.
+
+We strive to only send e-mail to those who want to receive it. If you would not like to receive future e-mails from us, please use the 'unsubscribe' link located at the bottom of our email communications. You will only be unsubscribed from the specific type of email you are unsubscribing from (new feature announcement, general announcement, third party offer, etc) – you will not be removed from other types of VisualTour emails.
+
+If you are a VisualTour customer, please be aware that we may continue to contact you via email for administrative or informational purposes, including follow-up messages regarding business transactions between VisualTour and yourself. By law, such messages are not considered to be commercial e-mail.
 
 ### Count on our Commitment to your Privacy
 
