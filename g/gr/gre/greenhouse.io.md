@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenhouse.io privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104051057id_/http%3A//www.greenhouse.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenhouse.io privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212203959id_/http%3A//www.greenhouse.io/privacy-policy) for the most accurate reproduction.*
 
 # Greenhouse | Privacy Policy
 
@@ -110,7 +110,7 @@ We do not knowingly collect, maintain, or use Personal Information from children
 
 > By using the Service, you will transfer data to the United States.
 
-By choosing to visit the Service or otherwise provide information to us, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the law of the state of New York and the adjudication of any disputes arising in connection with Greenhouse or the Service will be in accordance with the [End User License Agreement](https://web.archive.org/web/20131104051057id_/http%3A//www.greenhouse.io/eula.html).
+By choosing to visit the Service or otherwise provide information to us, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the law of the state of New York and the adjudication of any disputes arising in connection with Greenhouse or the Service will be in accordance with the [End User License Agreement](https://web.archive.org/web/20140212203959id_/http%3A//www.greenhouse.io/eula.html).
 
 **Safe Harbor.** Greenhouse complies with the U.S.-EU and U.S.-Swiss Safe Harbor Frameworks and adheres to the Safe Harbor privacy principles. Information on both Safe Harbors may be found at <http://www.export.gov/safeharbor/>.
 
