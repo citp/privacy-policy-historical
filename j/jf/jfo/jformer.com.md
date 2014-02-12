@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jformer.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823145944id_/http%3A//www.jformer.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jformer.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212161235id_/http%3A//www.jformer.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - jFormer
 
