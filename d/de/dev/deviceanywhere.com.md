@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deviceanywhere.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213185334id_/http%3A//deviceanywhere.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deviceanywhere.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212205037id_/http%3A//www.deviceanywhere.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Keynote DeviceAnywhere - Mobile Application Testing Platform - Privacy Policy
 
