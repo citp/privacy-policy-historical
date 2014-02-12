@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the techfreeks.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819195025id_/http%3A//www.techfreeks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techfreeks.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212125850id_/http%3A//www.techfreeks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Techfreeks
+# Privacy Policy
 
-This Privacy Policy governs the manner in which Techfreeks collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.techfreeks.com](http://www.techfreeks.com/) [website](http://www.techfreeks.com/how-to-verify-your-website-on-pinterest.html) (“Site”). This privacy policy applies to the Site and all products and services offered by Techfreeks.
+This Privacy Policy governs the manner in which Techfreeks collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.techfreeks.com](http://www.techfreeks.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Techfreeks.
 
 ## Personal identification information
 
@@ -10,7 +10,7 @@ We may collect personal identification information from Users in a variety of wa
 
 ## Non-personal identification information
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the [Internet](http://www.techfreeks.com/how-to-increase-speed-of-your-modem.html) service providers utilized and other similar information.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
 ## Web browser cookies
 
@@ -20,18 +20,18 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Techfreeks may collect and use Users personal information for the following purposes:
 
-  *  _To personalize user experience_  
+  * _To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  *  _To improve our Site_  
+  * _To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  *  _To send periodic emails_  
+  * _To send periodic emails_  
 We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
 
 ## How we protect your information
 
-We adopt appropriate data collection, storage and processing practices and [security](http://www.techfreeks.com/security-beyond-just-the-password.html) measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
 ## Sharing your personal information
 
