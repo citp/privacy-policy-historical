@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eyeglasses.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816004145id_/http%3A//www.eyeglasses.com/security_and_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeglasses.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212154757id_/http%3A//www.eyeglasses.com/security_and_privacy.html) for the most accurate reproduction.*
 
-# Eyeglasses, Glasses, Eyewear, Prescription Sunglasses -- Eyeglasses.com
+# Security and Privacy -- Eyeglasses.com
 
   * [Home](https://web.archive.org/index.html)
   * Security and Privacy
@@ -71,4 +71,4 @@ If we change or update this Privacy Policy, we will post changes and updates on 
 Effective May 30, 2008.  
 Privacy Policy copyright © 2008 Tryiton Eyewear, LLC.
 
-Copyright © 2013 eyeglasses.com. All rights reserved.
+Copyright © 2014 eyeglasses.com. All rights reserved.
