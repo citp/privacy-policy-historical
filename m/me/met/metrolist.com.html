@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the metrolist.com privacy policy that was archived on 2013-08-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130825110215id_/http%3A//www1.metrolist.com/default.asp%3Fpage%3Dprivacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the metrolist.com privacy policy that was archived on 2014-02-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140212171026id_/http%3A//www1.metrolist.com/default.asp%3Fpage%3Dprivacy_policy) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Metrolist, Inc.</title>
@@ -34,6 +34,96 @@ if (browser == 'Microsoft Internet Explorer') {
 
 <div id="container">
 
+<!-- recolorado.asp -->
+<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">  
+<style>
+.ui-widget-overlay{
+	opacity: .75;
+	filter: alpha(Opacity=75);
+}
+.forceOpen .ui-dialog-titlebar-close, .forceOpen .ui-dialog-titlebar { display: none; }
+#recolorado div { margin:20px; padding: 20px 20px 60px 20px; border:3px solid #EEE; }
+#recolorado img { width:100% }
+#recolorado h1 { text-align: center; }
+#recolorado a.takeme { 
+	position: relative;
+	float: right;
+	display: block;
+	text-decoration: none;
+	background: #176239;
+	color: #FFF;
+	padding: .8em;
+	text-shadow: none;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	border-radius: 0;
+	-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+	-moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+	box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+}
+</style>
+<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>  
+<script>
+$(function() {
+    $('#recolorado').dialog({
+		dialogClass: "forceOpen",
+		autoOpen: true,
+		closeOnEscape: false,
+		draggable: false,
+      modal: true,
+		minWidth:480,
+		minHeight:320
+    });
+	 
+	 if (navigator
+			&& (navigator.userAgent.indexOf('MSIE 9.0') > 0
+				|| navigator.userAgent.indexOf('MSIE 8.0') > 0
+				|| navigator.userAgent.indexOf('MSIE 7.0') > 0))
+	 {
+			$('#recolorado img').css({ width: '300px' });
+			$('.ui-dialog').css({ left: '30%', top: '10%' });
+			
+			$iefix = $('<div id=\"iefix\"></div>');
+			$iefix.css({ width:'100%', height:'2048px', 'background-color':'#EEE', position:'absolute', left:0, top:0, filter: 'alpha(opacity=75)' });
+			$('body').append($iefix);
+	 }
+	 else
+	 {
+		$('.ui-dialog').css({ top: '100px' });
+	 } 
+	 
+	 //$('.matrixLogin').remove();
+	 window.scrollTo(0, 0);
+	 $('a.takeme').focus();	 
+  });
+</script>
+<div id="recolorado">
+	<div>
+		<img src="http://metrolistmlsimages.fnistools.com/Uploads/RECos/1216/ContentFiles/logo-retina1.png" alt="REcolorado.com">
+		<p>
+			</p><hr>
+		<p></p>
+		<h1>We're Moving!</h1>
+		<p>
+			As part of the Matrix launch, <a href="http://www.recolorado.com?bl=auto">REcolorado.com</a> is now your new homepage.
+		</p>
+		<p>
+			You'll use the new REcolorado.com to:
+			</p><ul>
+				<li>Login to Matrix using the <b>Broker Login</b></li>
+				<li>Find news, available training classes, statistics, and other information in the Broker Resources section</li>
+			</ul>			
+			All the relevant tools you found on Metrolist.com have moved to REcolorado.com; please update your bookmarks accordingly.
+		<p></p>
+		<p>			
+		</p>
+		<p>
+			<a class="takeme" href="http://www.recolorado.com?bl=auto">Go to REcolorado.com now</a>
+		</p>
+	</div>
+</div>
+<!-- end recolorado.asp -->
 <a name="top"></a>
 
 <script language="javascript">
@@ -221,7 +311,7 @@ logo[39] = 'W_and_R_Studios_Shop_by_Vendor_logo_150x150.png';
 
 						var index = Math.floor(Math.random() * partner.length);
 						document.write('<a name="partnerLink" href="' + partner[index] + '" target="_blank"><img name="partnerImg" src="http://Marketing.metrolist.com/images/metrolistVendorSlider/' + logo[index] + '" width="119" height="119" border="0"></a>');
-						</script><a name="partnerLink" href="http://marketplace.metrolist.com/" target="_blank"><img name="partnerImg" src="http://Marketing.metrolist.com/images/metrolistVendorSlider/grape imaging 150x150 logo.jpg" width="119" height="119" border="0"></a>
+						</script><a name="partnerLink" href="http://marketplace.metrolist.com/" target="_blank"><img name="partnerImg" src="http://Marketing.metrolist.com/images/metrolistVendorSlider/Bisart_VirtuallyShow_ShopByVendor_150x150.JPG" width="119" height="119" border="0"></a>
 					</div>
 
 				</td>
@@ -356,7 +446,7 @@ REALM_height=90;
 			<table cellpadding="0" cellspacing="0" style="width: 750px;">
 			<tbody><tr>
 				<td class="small gray_dk" style="height: 25px; background-color: #EAEAEA; padding: 5px 15px 5px 15px;">
-					© 1998-2013 Metrolist, Inc. All rights reserved.<br>Metrolist® and PrimeAccess® are registered trademarks of Metrolist, Inc.
+					© 1998-2014 Metrolist, Inc. All rights reserved.<br>Metrolist® and PrimeAccess® are registered trademarks of Metrolist, Inc.
 				</td>
 				<td class="small gray_dk" align="right" style="height: 25px; background-color: #EAEAEA; padding: 5px 15px 5px 15px;">
 					<a class="footer" href="/default.asp?page=terms_of_use">Terms of Use</a> | <a class="footer" href="/default.asp?page=privacy_policy">Privacy Policy</a> | <a class="footer" href="/default.asp?page=fair_housing">Fair Housing</a>
