@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamesfindr.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119095544id_/http%3A//www.gamesfindr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesfindr.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212083535id_/http%3A//www.gamesfindr.com/privacy-policy) for the most accurate reproduction.*
 
-# Your #1 Source for Video Games, Consoles & Accessories! » Privacy Policy
+# Your #1 Source for Video Games, Consoles & Accessories!Privacy Policy » Your #1 Source for Video Games, Consoles & Accessories!
 
 **Game Clone - Your #1 Source for Video Games, Consoles & Accessories!** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
