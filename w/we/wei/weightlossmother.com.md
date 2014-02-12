@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightlossmother.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208191056id_/http%3A//weightlossmother.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightlossmother.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212082545id_/http%3A//weightlossmother.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Natural Weight Loss | Easy Weight Loss Tips | Positive Thoughts | Emotional Eating | Healthy Food Recipes | Simple Weight Loss | Healthy Lifestyle | Self Esteem Confidence | Spiritual Weight Loss | Law of Attraction Weight Loss | Weight Loss Mother | Annette Jones |
 
