@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malibog.co privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425212144id_/http%3A//www.malibog.co/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malibog.co privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212224358id_/http%3A//www.malibog.co/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
