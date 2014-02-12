@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlecache.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212214321id_/http%3A//www.articlecache.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecache.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212142040id_/http%3A//www.articlecache.com/privacy.php) for the most accurate reproduction.*
 
 # Article Cache | Privacy Statement
 
