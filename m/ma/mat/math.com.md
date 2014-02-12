@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the math.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104183818id_/http%3A//www.math.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the math.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212133617id_/http%3A//math.com/privacy.html) for the most accurate reproduction.*
 
 # Math.com Privacy Policy
 
