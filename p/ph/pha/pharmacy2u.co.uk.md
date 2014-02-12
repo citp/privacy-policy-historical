@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmacy2u.co.uk privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210205455id_/http%3A//www.pharmacy2u.co.uk/static/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmacy2u.co.uk privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212131125id_/http%3A//www.pharmacy2u.co.uk/static/privacy.aspx) for the most accurate reproduction.*
 
 # Pharmacy2U - Online Pharmacy, Pharmacy Online UK, Internet Pharmacy, Online Chemist
 
@@ -58,7 +58,7 @@ Pharmacy2U is registered under the Data Protection Act, Registration No. Z714211
   * If you think any information we hold on you is inaccurate or incorrect, please let us know.
 
   
-If you have any questions please feel free to contact **0845 803 9033** or email [enquiries@pharmacy2u.co.uk](mailto:enquiries@pharmacy2u.co.uk)  
+If you have any questions please feel free to contact **0113 265 0222** or email [enquiries@pharmacy2u.co.uk](mailto:enquiries@pharmacy2u.co.uk)  
 ---  
   
-Pharmacy2U Ltd founded internet pharmacy in the UK in 1999 and is now the country's largest dedicated online pharmacy. We also provide a private online doctor service. All content of this online chemist website is for information purposes only and is not a substitute for professional medical advice; rather it is designed to support, not replace, the relationship between you and your healthcare providers. You should make sure that you carefully read all product packaging and labels prior to use. If you have, or suspect you may have, a health problem you should consult your doctor. Please consult your doctor before taking any new product, particularly if you are already under medical care. For more information view our [Terms & Conditions](https://web.archive.org/Static/Terms.aspx) © Pharmacy2U Ltd 2013
+Pharmacy2U Ltd founded internet pharmacy in the UK in 1999 and is now the country's largest dedicated online pharmacy. We also provide a private online doctor service. All content of this online chemist website is for information purposes only and is not a substitute for professional medical advice; rather it is designed to support, not replace, the relationship between you and your healthcare providers. You should make sure that you carefully read all product packaging and labels prior to use. If you have, or suspect you may have, a health problem you should consult your doctor. Please consult your doctor before taking any new product, particularly if you are already under medical care. For more information view our [Terms & Conditions](https://web.archive.org/Static/Terms.aspx) © Pharmacy2U Ltd 2014
