@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wdxcyber.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807091805id_/http%3A//www.wdxcyber.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdxcyber.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212173203id_/http%3A//www.wdxcyber.com/privacy.htm) for the most accurate reproduction.*
 
 # Woman's Diagnostic Cyber Privacy Statement
 
@@ -13,7 +13,7 @@ Here is how we use your data at the Woman's Diagnostic Cyber:
   * On the message board you do not have to leave your real name. Initials, firstname, screen name or "Call sign" will do. If you leave your email address when leaving a message, we only use it to send an email when our response is entered to let you know it is there. If you want to protect your email address from being "harvested" by automatic address grabbers (we haven't had a problem we know of), just put a hyphen in front of your email address. That way we and other message board users can contact you. 
   * Our email newsletter subscriber mailing list is **only** used for us to send you mail. This list is not released to anyone. 
 
-If you have specific questions about how Woman's Diagnostic Cyber is using any of your information, please [contact us.](https://web.archive.org/web/20130807091805id_/http%3A//www.wdxcyber.com/feedback.htm)
+If you have specific questions about how Woman's Diagnostic Cyber is using any of your information, please [contact us.](https://web.archive.org/web/20140212173203id_/http%3A//www.wdxcyber.com/feedback.htm)
 
 
 
