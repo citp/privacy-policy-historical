@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitesview.us privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109095442id_/http%3A//www.sitesview.us/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitesview.us privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212233916id_/http%3A//www.sitesview.us/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy for sitesview - as7
 
