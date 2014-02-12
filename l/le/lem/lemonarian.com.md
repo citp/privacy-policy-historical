@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lemonarian.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227095919id_/http%3A//lemonarian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lemonarian.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212055204id_/http%3A//lemonarian.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
