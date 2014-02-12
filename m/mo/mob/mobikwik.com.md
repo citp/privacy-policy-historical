@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobikwik.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909103407id_/http%3A//www.mobikwik.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobikwik.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212223127id_/https%3A//www.mobikwik.com/privacypolicy) for the most accurate reproduction.*
 
 # Mobikwik.com Privacy policy describes handling of private information.
 
