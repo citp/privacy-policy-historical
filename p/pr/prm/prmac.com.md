@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prmac.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210205445id_/http%3A//services.prmac.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prmac.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212084133id_/http%3A//services.prmac.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
