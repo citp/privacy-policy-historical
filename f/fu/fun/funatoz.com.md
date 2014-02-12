@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funatoz.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211171637id_/http%3A//funatoz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funatoz.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212113443id_/http%3A//funatoz.com/privacy.php) for the most accurate reproduction.*
 
 # FunAtoZ.com : Privacy
 
@@ -66,6 +66,6 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](https://web.archive.org/web/20131211171637id_/http%3A//funatoz.com/privacy.php).
+By using our site, you consent to our [websites privacy policy](https://web.archive.org/web/20140212113443id_/http%3A//funatoz.com/privacy.php).
 
 | 
