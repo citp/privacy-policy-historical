@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usainsurancetips.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220085118id_/http%3A//www.usainsurancetips.com/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usainsurancetips.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212163110id_/http%3A//www.usainsurancetips.com/%3Fpage_id%3D2) for the most accurate reproduction.*
 
 # usainsurancetips.com » Privacy Policy
 
