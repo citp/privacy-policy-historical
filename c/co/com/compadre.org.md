@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compadre.org privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213034010id_/http%3A//www.compadre.org/portal/webdocs/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compadre.org privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212083004id_/http%3A//www.compadre.org/portal/webdocs/Privacy.cfm) for the most accurate reproduction.*
 
 # ComPADRE Privacy Policy
 
