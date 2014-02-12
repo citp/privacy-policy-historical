@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endocrineweb.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203193021id_/http%3A//www.verticalhealth.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endocrineweb.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213005527id_/http%3A//www.verticalhealth.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Vertical Health Privacy Policy | Vertical Health
 
@@ -11,13 +11,11 @@
 
 [www.PracticalPainManagement.com](http://www.practicalpainmanagement.com/ "www.PracticalPainManagement.com")
 
-[www.Diabetic-Lifestyle.com](http://www.diabetic-lifestyle.com/ "www.Diabetic-Lifestyle.com")
-
-[www.Diabetic-Recipes.com](http://www.diabetic-recipes.com/ "www.Diabetic-Recipes.com")
+[www.DiabeticLifestyle.com](http://www.diabeticlifestyle.com/ "www.DiabeticLifestyle.com")
 
 All Vertical Health websites were founded by doctors and are now operated by Vertical Health, LLC. Patient privacy has a longstanding tradition in medicine. In fact, the Hippocratic Oath (which is sworn to by physicians around the world), is over 2000 years old, and contains very specific requirements about patient privacy.
 
-Vertical Health LLC ("VH," "we" or "us") provides a variety of online services and products, including without limitation, subscription, newsletter, and update services ("Services"), to users and subscribers via e-mail and on numerous Web sites throughout the World Wide Web, including the site you are currently on (the "Sites"). The VH network of Sites includes [www.spineuniverse.com](http://www.spineuniverse.com/ "www.spineuniverse.com"), [www.endocrineweb.com](http://www.endocrineweb.com/ "www.endocrineweb.com"), [www.practicalpainmanagement.com](http://www.practicalpainmanagement.com/ "www.practicalpainmanagement.com"), [www.ppmjournal.com](http://www.ppmjournal.com/ "www.ppmjournal.com"), [www.diabetic-lifestyle.com](http://www.diabetic-lifestyle.com/ "www.diabetic-lifestyle.com"), [www.diabetic-recipes.com](http://www.diabetic-recipes.com/ "www.diabetic-recipes.com"), and [www.verticalhealth.com](http://www.verticalhealth.com/ "www.verticalhealth.com"). VH is strongly committed to protecting the privacy of your personal information, and providing a safe and secure environment for its users and subscribers.
+Vertical Health LLC ("VH," "we" or "us") provides a variety of online services and products, including without limitation, subscription, newsletter, and update services ("Services"), to users and subscribers via e-mail and on numerous Web sites throughout the World Wide Web, including the site you are currently on (the "Sites"). The VH network of Sites includes [www.spineuniverse.com](http://www.spineuniverse.com/ "www.spineuniverse.com"), [www.endocrineweb.com](http://www.endocrineweb.com/ "www.endocrineweb.com"), [www.practicalpainmanagement.com](http://www.practicalpainmanagement.com/ "www.practicalpainmanagement.com"), [www.ppmjournal.com](http://www.ppmjournal.com/ "www.ppmjournal.com"), [www.diabeticlifestyle.com](http://www.diabeticlifestyle.com/ "www.diabeticlifestyle.com"), and [www.verticalhealth.com](http://www.verticalhealth.com/ "www.verticalhealth.com"). VH is strongly committed to protecting the privacy of your personal information, and providing a safe and secure environment for its users and subscribers.
 
 THE PURPOSE OF THIS VH PRIVACY POLICY (THE "POLICY") IS TO HELP YOU UNDERSTAND THE KINDS OF INFORMATION WE MAY GATHER ABOUT YOU WHEN YOU VISIT THE SITES OR USE ANY OF OUR SERVICES, HOW WE MAY USE THAT INFORMATION, IN WHICH MANNER WE WILL DISCLOSE IT, AND HOW YOU CAN CORRECT AND/OR UPDATE THE INFORMATION. PLEASE NOTE THAT BY USING THE SERVICES OR VISITING THE SITES, YOU SIGNIFY YOUR AGREEMENT WITH THIS POLICY. IF YOU DO NOT AGREE TO THE TERMS OF THIS POLICY, PLEASE DO NOT USE THE SERVICES OR REFRAIN FROM VISITING THE SITES.
 
