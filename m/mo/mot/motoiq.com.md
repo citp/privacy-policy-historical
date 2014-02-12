@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motoiq.com privacy policy that was archived on 2013-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130705033313id_/http%3A//www.motoiq.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motoiq.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213005533id_/http%3A//www.motoiq.com/privacy.aspx) for the most accurate reproduction.*
 
 # MotoIQ - Automotive Tech, Project Cars, Performance & Motorsports > Home
 
