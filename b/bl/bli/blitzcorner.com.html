@@ -1,15 +1,38 @@
-<!--The following is the downloaded HTML source of the blitzcorner.com privacy policy that was archived on 2013-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130603034424id_/http%3A//www.blitzcorner.com/data/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blitzcorner.com privacy policy that was archived on 2014-02-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140212052025id_/http%3A//www.blitzcorner.com/data/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <meta name="description" content="Privacy Policy">
         <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-        <link rel="shortcut icon" href="http://www.blitzcorner.com/images/favicon.ico">
+        <link rel="shortcut icon" href="/images/favicon.ico">
         <title>BlitzCorner Sports Network - Privacy Policy</title>
-        <link type="text/css" href="/css/corp.css?29" rel="stylesheet">
+        <link type="text/css" href="/css/corp.css?30" rel="stylesheet">
         <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-        <script type="text/javascript" src="http://www.blitzcorner.com/js/jquery-features.js?29"></script>
-        <script type="text/javascript">
+        <script type="text/javascript" src="/js/jquery.cookie.js" <script=""></script>
+        <script type="text/javascript">  
+			function showHideUsermenu(menuID){
+			    if ($('#'+menuID).is(":visible")){
+			        $('#'+menuID).hide();
+			        $('.userDropdownDiv').removeClass('intouchiDropDownShadow');
+			    }
+			    else{
+			        $('#'+menuID).show();
+			        $('.userDropdownDiv').addClass('intouchiDropDownShadow');
+			    }
+			}
+			
+			function showHideUsermenu(menuID){
+			    if ($('#'+menuID).is(":visible")){
+			        $('#'+menuID).hide();
+			        $('.usermenuDownArrow').removeClass('usermenuDownArrowWhite');
+			        $('.websitesLogin').removeClass('removeBottomLeftRadius');
+			    }
+			    else{
+			        $('#'+menuID).show();
+			        $('.usermenuDownArrow').addClass('usermenuDownArrowWhite');
+			        $('.websitesLogin').addClass('removeBottomLeftRadius');
+			    }
+			}
             function contactLoaderOn(){
                 $('.corpContactOverlay').show();
                 $('.corpContactLoader').show();
@@ -41,10 +64,23 @@
 	             	<a href="http://www.blitzcorner.com" class="corpLogo corpSprite"></a>
 	                <a href="http://www.usatoday.com/sports/" target="_blank" class="corpUSAToday corpSprite"></a>
 	                <div class="corpMainMenu">
-    <a href="http://www.blitzcorner.com/publishers" class="">Publishers</a>
-    <a href="http://www.blitzcorner.com/social_widgets" class="">Social Widgets</a>
-    <a href="http://www.blitzcorner.com/contact" class="">Contact Us</a>
-</div>	            </div>
+	<a href="/advertisers" class="">Advertisers</a>
+    <a href="/publishers" class="">Publishers</a>
+    <a href="/social_widgets" class="">Social Widgets</a>
+    <a href="/contact" class="">Contact Us</a>
+        <span id="userHeadData"></span>
+    <script type="text/javascript">
+	if ($.cookie("isLogged")==1){
+        $.ajax('/getUsermenuData/' + $.cookie("PHPSESSID") + "/true?ncb=1", {
+            success: function(html) {
+                if (html.trim()!=''){
+                    document.getElementById("userHeadData").innerHTML = html;
+                }
+            }
+        });
+    }
+    </script>
+    </div>	            </div>
 	        </div>
 	        <div class="corpContentWrapper">
             <div class="corpContent"><span class="corpPageTitle corpWidgetsTitle"><span>Blitzcorner Privacy Policy</span></span>
@@ -97,28 +133,46 @@
 </div>
 	        	</div>
 	    	</div>
-		    <div class="corpFooterWrapper">
+	    			    <div class="corpFooterWrapper">
 		        <div class="corpFooter">            
 		            <div class="corpHeader corpFooterWidth">
 		             	<a href="http://www.blitzcorner.com" class="corpLogo corpSprite"></a>
 		                <a href="http://www.usatoday.com/sports/" target="_blank" class="corpUSAToday corpSprite"></a>
 		                <div class="corpMainMenu">
-    <a href="http://www.blitzcorner.com/publishers" class="">Publishers</a>
-    <a href="http://www.blitzcorner.com/social_widgets" class="">Social Widgets</a>
-    <a href="http://www.blitzcorner.com/contact" class="">Contact Us</a>
-</div>		            </div>
+	<a href="/advertisers" class="">Advertisers</a>
+    <a href="/publishers" class="">Publishers</a>
+    <a href="/social_widgets" class="">Social Widgets</a>
+    <a href="/contact" class="">Contact Us</a>
+    </div>		            </div>
 		        </div>
 		           	<div style="float:left;width:100%;background-color: black; height: 80px;">
-		                <div class="corpFooterLinks">
+		                <div id="corpFooterLinks" class="corpFooterLinks">
+		                    <span>|</span>
 		                    <a href="/company">About</a>
 		                    <span>|</span>
 		                    <a href="/data/privacy-policy">Privacy Policy</a>
 		                    <span>|</span>
 		                    <a href="/data/terms-of-use">Terms of Use</a>
 		                    <span>|</span>
-		                    <a href="http://www.blitzcorner.com/contact">Contact Us</a>
+		                    <a href="/contact">Contact Us</a>
 		                    <span>|</span>
-		                    <a href="http://www.blitzcorner.com/apply">Publisher Application</a>
+		                    <a href="/apply">Publisher Application</a>
+		                    <span id="userDataFooter"></span>
+		                    <script type="text/javascript">				                    
+			                    var loginData = "<a href='/users/login'>Login</a>";                    	
+							    if ($.cookie("isLogged")==1){
+							        $.ajax('/getUsermenuData/' + $.cookie("PHPSESSID") + "/true?ncb=1", {
+							            success: function(html) {
+							                if (html.trim()!=''){
+							                    loginData = "<a href='/users/logout'>Logout</a>";
+							                }
+						                    document.getElementById("corpFooterLinks").innerHTML = loginData + document.getElementById("corpFooterLinks").innerHTML;
+							            }
+							        });
+							    } else {
+							        document.getElementById("corpFooterLinks").innerHTML = loginData + document.getElementById("corpFooterLinks").innerHTML;
+							    }
+		                    </script>
 		                	<span class="corpFooterRights">All Rights Reserved © 2013</span>
 		                </div>
 		            </div>
