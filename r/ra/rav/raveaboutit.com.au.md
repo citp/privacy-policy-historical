@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raveaboutit.com.au privacy policy that was archived on 2013-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130910160934id_/http%3A//www.raveaboutit.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raveaboutit.com.au privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212170817id_/http%3A//www.raveaboutit.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
