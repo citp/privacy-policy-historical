@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backdoors.to privacy policy that was archived on 2013-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130722004950id_/http%3A//www.backdoors.to/backdoors/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backdoors.to privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212183601id_/http%3A//www.backdoors.to/backdoors/privacy.asp) for the most accurate reproduction.*
 
 # Backdoors.To Privacy Policy
 
@@ -8,7 +8,7 @@
 
 At Backdoors.To we recognize that privacy is important. This Policy applies to all the products and services offered by Backdoors.To.
 
-If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20130722004950id_/http%3A//www.backdoors.to/backdoors/contact.asp).
+If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20140212183601id_/http%3A//www.backdoors.to/backdoors/contact.asp).
 
 **Information we collect and how we use it:**
 
@@ -23,7 +23,8 @@ We offer several services that do not require you to register for an account or 
   * **User communications:** When you send email or other communication to Backdoors.To, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
 
   * **Affiliated web sites:** We offer some of our services in connection with other web sites. Personal information that you provide to those web sites may be sent to Backdoors.To in order to deliver the service. We process such information in accordance with this Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. 
-  * **Web links:** Backdoors.To may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search services and web site content. For information about links and redirected URLs, please see our Privacy FAQs. 
+
+  * **Web links:** Backdoors.To may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search services and web site content. 
 
   * **Other web sites:** This Privacy Policy applies to all services that operated by Backdoors.To. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
 
@@ -31,9 +32,9 @@ We offer several services that do not require you to register for an account or 
 
 Backdoors.To only processes personal information for the purposes described in the applicable Privacy Policy and/or privacy notice for specific services. In addition to the above, such purposes include:
 
-  * Providing our products and services to users, including the display of customized content and advertising;
-  * Auditing, research and analysis in order to maintain, protect and improve our services;
-  * Ensuring the technical functioning of our web site and the services it provides; and
+  * Providing our products and services to users, including the display of customized content and advertising.
+  * Auditing, research and analysis in order to maintain, protect and improve our services.
+  * Ensuring the technical functioning of our web site and the services it provides.
   * Developing new services.
 
 
@@ -63,8 +64,8 @@ We use third-party advertising companies to serve ads when you visit Backdoors.T
 
 Google, as a third party advertising vendor, uses cookies to serve ads on our website. In this respect, please note the following:
 
-  * Google's use of the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to our website users based on their visit to our website and other websites on the Internet. 
-  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+  * Google's use of the [DoubleClick DART cookie](https://support.google.com/adsense/answer/2839090?hl=en) enables it to serve ads to our website users based on their visit to our website and other websites on the Internet. 
+  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/technologies/ads/). 
 
 
 
