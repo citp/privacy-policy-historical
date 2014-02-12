@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joesnewbalanceoutlet.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818032424id_/http%3A//www.joesnewbalanceoutlet.com/customer_serv/privacy_security_base.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joesnewbalanceoutlet.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212175039id_/http%3A//www.joesnewbalanceoutlet.com/customer_serv/privacy_security_base.htm%23privacy) for the most accurate reproduction.*
 
 # Joe's New Balance Outlet - Privacy and Security
 
