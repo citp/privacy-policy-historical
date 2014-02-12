@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackberryos.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807001817id_/http%3A//www.blackberryos.com/files/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackberryos.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212200245id_/http%3A//www.blackberryos.com/files/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -54,7 +54,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.blackberryos.com](https://web.archive.org/web/20130807001817id_/http%3A//www.blackberryos.com/files/www.blackberryos.com)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.blackberryos.com](https://web.archive.org/web/20140212200245id_/http%3A//www.blackberryos.com/files/www.blackberryos.com)
 
  **Your Consent**
 
