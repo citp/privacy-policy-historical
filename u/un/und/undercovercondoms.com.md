@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the undercovercondoms.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106041903id_/http%3A//www.undercovercondoms.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undercovercondoms.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212175108id_/http%3A//www.undercovercondoms.com/privacy.asp) for the most accurate reproduction.*
 
 # Undercover Condoms - Privacy Policy
 
@@ -15,8 +15,8 @@ From the moment you place your order, you can rely on the following:
   * We will never sell your email, phone number, or any other of your personal information to any individual or entity outside of our company.
 
 For a full disclosure of how our site uses cookies and other privacy-related information,   
-see our [P3P Privacy Information.](http://www.undercovercondoms.com/p3p/undercoverprivacy.html) |   
----|---  
+see our [P3P Privacy Information.](http://www.undercovercondoms.com/p3p/undercoverprivacy.html) |    |  * **INTERNATIONAL CUSTOMERS:** We are required by Customs to label International orders as "Personal Contraceptives," and assign an accurate value to the package. This is required by law, and we are sorry for any inconvenience that this may cause.  
+---|---|---  
 Privacy Statement
 
 Undercover Condoms collects information about its customers both during the order process and as customers navigate the http://www.undercovercondoms.com/ web site. The information provided by customers during the ordering process such as their name, physical address, email address, and payment information is considered private, and Undercover Condoms will not sell this personal information to third parties. This information will be used to process your order and deliver it to you in a timely fashion. In addition, Undercover Condoms reserves the right to contact existing customers regarding store specials and other significant events.
@@ -50,11 +50,6 @@ Mailing Address:
 PCPD, LLC  
 2177 Westbelt Dr.  
 Columbus, OH 43228  
-  
-Undercover Condoms is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site http://www.undercovercondoms.com/. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact the Customer Service Manager at 1-800-893-9105. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
-
   
 Last Updated on: 6/23/05
 
