@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremefreecoupons.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205055807id_/http%3A//www.extremefreecoupons.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremefreecoupons.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212165636id_/http%3A//www.extremefreecoupons.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Extreme Free Coupons - www.extremefreecoupons.com - Save up to 90% Today!
 
@@ -22,4 +22,4 @@ The Website may contain links to other third-party owned and/or operated website
 We reserve the right, in our sole discretion, to change, modify, add and/or remove portions of this Privacy Policy at any time and without prior notice to you. All Privacy Policy changes will take effect immediately upon their posting on the Site. Please check the Site periodically for any changes. Your continued use of the Site and/or acceptance of our e-mail communications following the posting of changes to this Privacy Policy will constitute your acceptance of any and all changes.
 
 **Contact Us**  
-If you have any questions regarding this statement, or would like more information on our privacy practices, please [CONTACT US](https://web.archive.org/web/20131205055807id_/http://www.extremefreecoupons.com/contact.php)
+If you have any questions regarding this statement, or would like more information on our privacy practices, please [CONTACT US](https://web.archive.org/web/20140214020218id_/http://www.extremefreecoupons.com/contact.php)
