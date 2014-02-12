@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palaapparel.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815085724id_/http%3A//www.palaapparel.com/faq_info.html%3Ffaqs_id%3D113) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palaapparel.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213000941id_/http%3A//www.palaapparel.com/faq_info.html%3Ffaqs_id%3D113) for the most accurate reproduction.*
 
 # Privacy Policy Pala Apparel
 
