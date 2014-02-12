@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the experience-essential-oils.com privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825024624id_/http%3A//www.experience-essential-oils.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experience-essential-oils.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212192204id_/http%3A//www.experience-essential-oils.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Experience-Essential-Oils.com
-
-## Privacy Policy
 
 This Privacy Policy was developed because **we recognize that your privacy is important.** This document outlines the types of personal information we receive and collect when you use Experience-Essential-Oils.com, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
 Experience-Essential-Oils strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.
 
-###  Personal Information
+### Personal Information
 
 Experience-Essential-Oils collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, postal address, email address, company name and telephone number.
 
@@ -50,7 +48,7 @@ We provide this privacy policy as a statement to you of our commitment to protec
 
 Experience-Essential-Oils reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
 
-###  Agreeing to Terms
+### Agreeing to Terms
 
 If you do not agree to Experience-Essential-Oils Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.
 
@@ -67,4 +65,60 @@ What's This?
 ---|---|---|---|---  
 | | |   
   
-Enjoy this page? Please pay it forward. Here's how...
+Enjoy this page? Please pay it forward. Here's how...  
+  
+### **_Sign up for the Free E-zine and Receive  
+_**
+
+_a copy of_   
+**_"How Therapeutic Essential Oils Help Us Recover our Emotional Wellbeing One Oil at a Time!"_**
+
+* * *
+
+_**Ready to Change Your Life?**_
+
+[ **Find Your True Inner Self with Intuitive Life Coaching with Nan**](http://www.experience-essential-oils.com/nan-martin-client-testimonials.html)  
+
+
+ _ **  "Nan's intuitive coaching has helped me make the necessary changes in my life so I could follow my dream career.  I have attracted so many more rewarding experiences into my life since meeting Nan, I am so blessed!"-Deb C.**_
+
+  
+ _ **  "Nan nails it and gets right to the core root issues every time I work with her.  What a fantastic investment for yourself!"-Diane G.**_
+
+* * *
+
+**Learn how Essential Oils and Coaching can help you _Break Through Emotional Barriers Now_! **
+
+[**Listen to the Free Teleseminar Here!**](http://www.experience-essential-oils.com/breaking-through-emotional-barriers-with-essential-oils.html)  
+
+
+* * *
+
+**_It's Here  
+Using Essential Oils for People and their Animals Online Training Course!_**
+
+[**Video Course that you can Watch from Home!**](http://www.experience-essential-oils.com/using-essential-oils-for-people-and-animals-online-aromatherapy-course.html)
+
+* * *
+
+* * *
+
+[Experience Essential Oils  
+on Facebook](http://www.facebook.com/ExperienceEssentialOils "Experience Essential Oils")
+
+[](http://www.facebook.com/ExperienceEssentialOils "Experience Essential Oils ")  
+[](http://www.facebook.com/business/dashboard/ "Make your own badge!")
+
+* * *
+
+###   
+The Oil Shop is Open!
+
+**Searching for**  
+ **Therapeutic Grade Essential Oils**  
+ **Online?**
+
+Look no further! Place your order at our online essential oil store, The [Oil Shop](http://shop.experience-essential-oils.com/)!
+
+For Canadian and international orders please contact me with a product request and shipping address for a quote today!  
+
