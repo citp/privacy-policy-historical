@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seo-shop.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204035234id_/http%3A//www.seo-shop.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo-shop.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212075926id_/http%3A//seo-shop.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
