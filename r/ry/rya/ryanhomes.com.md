@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryanhomes.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606022938id_/http%3A//www.ryanhomes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryanhomes.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212161114id_/http%3A//www.ryanhomes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ryan Homes
 
@@ -14,13 +14,13 @@ When Ryan Homes collects any personal information on our websites, we will expre
 
 Personal information is any information that can be used to identify you as an individual such as your name, email address, mailing address, buying needs, or other information required to provide a service you have requested.
 
-Ryan Homes does not collect any information stored on your computer except for the information related to the browsing of Ryan Homes’ websites.
+Ryan Homes does not collect any information stored on your computer except for the information related to the browsing of Ryan Homes' websites. However, Ryan Homes does store information received from the Google Display Ad Network, which estimates a visitor's general age group, gender, and interests. This information remains strictly anonymous, and is stored solely for NVR's internal statistical purposes.
 
 ##### Uses of Your Personal Information
 
 Some of the ways we may use personal information collected fromyou on our websites include:
 
-Understanding more about you so we can personalize newsletters and websites to your preferences.For example, allowing you the opportunity to request specific information on products and services that may be of interest to you.
+Understanding more about you so we can personalize newsletters and websites to your preferences. For example, allowing you the opportunity to request specific information on products and services that may be of interest to you.
 
   * Providing you personalized views of website content areas.
   * Enabling you to forward information to another individual such as a friend or co-worker (Ryan Homes does not store the personal information of the third party).
@@ -39,4 +39,4 @@ We may share your personal information with our affiliated companies (NVR Mortga
 
 #####  Social Media Policies
 
-Less Energy, More Fun Contest: [Click here to view official rules](https://web.archive.org/Content/pdf/Official_Rules_Less_Energy_More_Fun.pdf).
+Big Game Sweepstakes II: [Click here to view official rules](https://web.archive.org/Content/pdf/Official%20Rules_Big%20Game%20Sweepstakes%20II_FINAL.pdf).
