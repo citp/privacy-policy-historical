@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the velocityreviews.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515202425id_/http%3A//www.velocityreviews.com/forums/faq.php%3Ffaq%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velocityreviews.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212212305id_/http%3A//www.velocityreviews.com/forums/faq.php%3Ffaq%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Velocity Reviews - FAQ: Privacy Policy
 
