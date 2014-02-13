@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genius.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127155313id_/http%3A//www.genius.com/about/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genius.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213040055id_/http%3A//www.genius.com/about/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # PrivacyPolicy : About Genius.com
 
@@ -6,15 +6,13 @@
 
 Genius.com® Incorporated ("Genius") respects your privacy and has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. This policy governs web sites owned and operated by Genius, including [www.genius.com](http://www.genius.com/), www.salesgenius.com, www.myleadrocket.com, and app.myleadrocket.com (collectively, the "Sites"). We have established this Statement as a means to communicate our information gathering and dissemination practices to our customers and visitors. This online privacy policy describes how we use, disclose and protect personal information that you share with us. "Personal information" is information that enables us to identify you, such as your name and e-mail address. By using this Site, you agree to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the Site. 
 
-Genius is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the sites [www.genius.com](http://www.genius.com/), www.salesgenius.com, www.myleadrocket.com, and app.myleadrocket.com. Because Genius wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this statement, you should first contact Genius Support at . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
+Genius has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through the Web sites, http://www.salesgenius.com and http://www.genius.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/>. watchdog/request.
 
 ### Information Collection and Use
 
 We require customers who register to use the services offered on our Sites (collectively, the "Service") to give us contact information, such as their name, company name, address, phone number, and e-mail address, and financial qualification and billing information, such as billing name and address, and credit card number. When you register for the Service, or when you ask for additional information from Genius about the Service, we may also ask you for additional personal information, such as title, department name, fax number, or additional company information, such as annual revenues, number of employees, or industry. Customers can opt out of providing this additional information by not providing it when asked to do so. 
 
-Genius uses the information that we collect to set up the Service for customers and their organizations. We may also use the information to contact customers to discuss customer interest in our company, the Service that we provide, and to send information regarding our company or partners, such as promotions and events. Customers can opt out of being contacted by us, or receiving such information from us, at any time by [clicking here](https://web.archive.org/web/20130127155313id_/http%3A//www.genius.com/forms/email-opt-out.php) and submitting their email. 
+Genius uses the information that we collect to set up the Service for customers and their organizations. We may also use the information to contact customers to discuss customer interest in our company, the Service that we provide, and to send information regarding our company or partners, such as promotions and events. Customers can opt out of being contacted by us, or receiving such information from us, at any time by [clicking here](https://web.archive.org/web/20140213040055id_/http%3A//www.genius.com/forms/email-opt-out.php) and submitting their email. 
 
 All financial and billing information that we collect through the Site is used solely to check the qualifications of prospective customers and to bill for the Service. This billing information is not used by Genius for marketing or promotional purposes. Genius uses a third-party intermediary to manage the credit card processing. This intermediary is solely a link in the distribution chain, and is not permitted to store, retain, or use the information provided, except for the sole purpose of credit card processing. 
 
@@ -49,6 +47,8 @@ Genius reserves the right to send customers certain communications from relating
 
 If customers need to update or change registration information they may do so by editing the user record. To update User Preferences, log on to salesgenius.com and select Preferences to add or update information. To update billing information please e-mail or call 650-212-2050, x116. To discontinue the Service, please call 650-212-2050, x116. Genius will respond to your correction or update request within at most 30 days from the date of your request. 
 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at . We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
 ### Cookies
 
 When you interact with the Site, we try to make that experience simple and meaningful. When you visit our Site, our Web server sends a cookie to your computer. Cookies are files that Web browsers place on a computer's hard drive and are used to indicate whether you have visited the Site previously. 
@@ -59,7 +59,9 @@ If you reject all cookies, you will not be able to use Genius Incorporated produ
 
 Our Practices Regarding Cookies: Genius uses cookies for a number of purposes, including to: access your account information when you "sign in," so that we can provide you with customized content; keep track of preferences you specify while you are using Genius Incorporated services; estimate and report our total audience size and traffic; and conduct research to improve Genius Incorporated content and services. 
 
-Third Party Cookies: We may from time to time engage third parties to track and analyze non-personally identifiable usage and volume statistical information from visitors to our Site to help us administer our Site and improve its quality. Such third parties may use cookies to help track visitor behavior. Such cookies will not be used to associate individual website visitors to any personally identifiable information. All data collected by such third parties on behalf of Genius is used only to provide us with information on Site usage and is not shared with any other third parties. 
+We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user�s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear gifs to our customers� personally identifiable information. We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see �Choice and Opt-out.� 
+
+Third Party Cookies: We may from time to time engage third parties to track and analyze non-personally identifiable usage and volume statistical information from visitors to our Site to help us administer our Site and improve its quality. Such third parties may use cookies to help track visitor behavior. Such cookies will not be used to associate individual website visitors to any personally identifiable information. All data collected by such third parties on behalf of Genius is used only to provide us with information on Site usage and is not shared with any other third parties. Our third party partners may employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers� or Users� personally identifiable information. 
 
 ### Third-Party Sites
 
@@ -75,6 +77,10 @@ Genius keeps your account information active in our user registration databases 
 
 If you use a bulletin board, blog, or chat room on this website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information that you choose to submit in these forums. 
 
+### Social Media Widgets
+
+Our Web site includes Social Media Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+
 ### Changes to this Statement
 
 Genius may update this Statement at any time, so please review it frequently. If we make material changes to this Statement, we will notify you in this Statement, by email or by a notice posted on the home page of the Site. 
@@ -83,6 +89,4 @@ Genius may update this Statement at any time, so please review it frequently. If
 
 If you have any questions about this Statement or the practices of this Site, please contact us at . You may also write to us at Genius.com Incorporated, 2400 Broadway St #130, Redwood City, CA 94063. 
 
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site. 
-
-Privacy Policy effective July 1st 2008 
+Privacy Policy effective Feb 1st 2014 
