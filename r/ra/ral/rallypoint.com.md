@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rallypoint.com privacy policy that was archived on 2013-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130904015635id_/https%3A//www.rallypoint.com/static_pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rallypoint.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213132452id_/https%3A//www.rallypoint.com/static_pages/privacy_policy) for the most accurate reproduction.*
 
 # RallyPoint
 
