@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obd-codes.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623081607id_/http%3A//www.obd-codes.com/misc/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obd-codes.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213062734id_/http%3A//www.obd-codes.com/misc/privacy-policy.php) for the most accurate reproduction.*
 
 # OBD-Codes.com Privacy Policy
 
@@ -15,9 +15,9 @@ NOTE: By using this site, you agree to the terms of the OBD-Codes.com privacy po
 
 
 Here is the information we have right now regarding your visit:  
-**IP Address:** 174.129.228.67  
+**IP Address:** 207.241.237.224  
 **Remote Hostname:**   
-**Referring Page:**
+**Referring Page:** http://www.obd-codes.com/
 
 ## Information Sharing And Disclosure
 
@@ -62,6 +62,4 @@ Canada
 
 Privacy Policy last updated March 25,2009.
 
-**The information contained on this site is presented for informational purposes only. We are not responsible for any actions you take on your vehicle. If you have any doubt as to repairs on your vehicle, please contact a qualified technician.**  
-[About Us](https://web.archive.org/about.php) \- [Contact Us](https://web.archive.org/contactus.php) \- [Links](https://web.archive.org/links.php)   
-All information on this site is copyright © 2004-2013 OBD-Codes.com. We are not affiliated with any auto manufacturers or repair companies
+NOTE: This information is presented for information purposes only. It is not intended as repair advice and we are not responsible for any actions you take on any vehicle. All information on this site is copyright protected. If you want to share this article or information with others, please link to this page, don't copy and paste it elsewhere.
