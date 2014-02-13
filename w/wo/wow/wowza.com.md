@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wowza.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204001917id_/http%3A//www.wowza.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowza.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213040752id_/http%3A//www.wowza.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | Wowza Media Systems
 
 **What information does Wowza gather/track about you?**  
 Wowza requires that you supply personal information, including name, company, telephone number and email address, prior to receiving license keys and other specific corporate and informational materials. Wowza also logs IP addresses, Web browser information, referral information, and pages visited for the purposes of improving both the navigation and marketing of the website.
@@ -18,6 +18,3 @@ Wowza does not release personal information about any individual subscriber to o
 Wowza takes precautions to protect your information.  When you submit sensitive information on the Wowza website your information is protected both online and offline.  Whenever we collect sensitive information, such as credit card data, that information is encrypted and transmitted to us in a secure way.  You can verify this by looking for a closed lock icon at the bottom of your webbrowser, or looking for “https” at the beginning of the address of the web page.  While we use encryption to protect sensitive information transmitted online, we also protect your information offline.  Only employees or other authorized third party representatives who need the information to perform a specific job, such as billing or customer service, are granted access to personally identifiable information.  The computers and servers in which we store personally identifiable information are kept in a secure environment.  
 
 Please contact us at [sales@wowza.com](mailto:sales@wowza.com) if you have any questions about this privacy statement.
-
-  
-
