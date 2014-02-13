@@ -1,27 +1,13 @@
-> *The following text is extracted and transformed from the ygirlgames.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809163235id_/http%3A//www.ygirlgames.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ygirlgames.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213041721id_/http%3A//www.ygirlgames.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy yGirlGames
-
-[](http://www.ygirlgames.com/ "Dressup Games for Girls")
-
-8500 Games for Girls Played Today
-
-215 Players Online
-
-Categories
-
-Latest Searches
-
-Our Partners
-
-Privacy Policy for www.yGirlGames.com
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us. 
 
 At www.yGirlGames.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.yGirlGames.com and how it is used. 
 
 **Log Files**  
-Like many other Web sites, www.yGirlGames.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track userâ€™s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Like many other Web sites, www.yGirlGames.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
 **Cookies and Web Beacons**   
 www.yGirlGames.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
