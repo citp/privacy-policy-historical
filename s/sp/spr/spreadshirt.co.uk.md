@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreadshirt.co.uk privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509041339id_/http%3A//www.spreadshirt.co.uk/privacy-policy-C3928) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadshirt.co.uk privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213115613id_/http%3A//www.spreadshirt.co.uk/privacy-policy-C3928) for the most accurate reproduction.*
 
 # Privacy Policy | Spreadshirt
 
