@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playfg.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123124454id_/http%3A//www.playfg.com/page.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playfg.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213180956id_/http%3A//www.playfg.com/page.php%3Fprivacy) for the most accurate reproduction.*
 
 # PlayFG.com - Privacy Policies
 
