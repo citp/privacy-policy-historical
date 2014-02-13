@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikiworldbook.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817150211id_/http%3A//wikiworldbook.com/content/view/63/139) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikiworldbook.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213140043id_/http%3A//wikiworldbook.com/content/view/63/139) for the most accurate reproduction.*
 
 # Privacy Policy - WikiWorldBook
 
