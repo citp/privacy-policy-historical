@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wordfly.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906152750id_/http%3A//www.wordfly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordfly.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213225904id_/http%3A//www.wordfly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Effective: November 6, 2012
+### Effective: October 25, 2013
 
 * * *
 
@@ -31,7 +31,7 @@ By visiting our Website, you are accepting the practices described in this priva
 
 
 
-Pop, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's Program Requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@wordfly.com. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+Pop, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's Program Requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@wordfly.com. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 The TRUSTe program covers the collection, use and disclosure of information we collect through our service, WordFly, www.wordfly.com. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Pop, Inc.
 
@@ -43,6 +43,8 @@ Pop, Inc. complies with the U.S. – E.U. Safe Harbor framework and the U.S. - S
 
 **Personal Identifiable Information you provide to us**  
 When you register as a new user with WordFly or email customer support, you provide us with personal identifiable information that we collect, such as email address, first and last name, job title, and phone number. By providing us with this information, you consent to your information being collected, used, disclosed, and stored by us in accordance with this Privacy Policy.
+
+WordFly collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. WordFly works with its Clients to help them provide notice to their customers concerning the purpose for which personal information is collected.
 
 We may also collect personal information from you under the following circumstances:
 
@@ -85,11 +87,13 @@ If your organization chooses to opt in to the Benchmark Reporting datashare prog
 
 **Information Sharing**
 
-We will share your personal information with third parties only in the ways that are described in this privacy statement.
+We will share your personal information with third parties only in the ways that are described in this privacy policy.
 
 **To service providers**
 
 We may provide your personal information to companies that provide services to help us with our business activities such as customer support. These companies are authorized to use your personal information only as necessary to provide these services to us.
+
+WordFly may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients.
 
 **To meet legal requirements**
 
@@ -120,7 +124,7 @@ We may provide your personal information to companies that provide services to h
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We use session cookies for authentication and state management. These cookies keep track of your authentication status, what data you are working on, and which server you should be sent to. We use both session and persistent cookies for Google Analytics.
 
 **Third Party Cookies**  
-The use of cookies by our partners is not covered by our privacy statement. We do not have access or control over these cookies. Our partners use session ID cookies [to allow you to post our content to your account on their sites.
+The use of cookies by our partners is not covered by our privacy policy. We do not have access or control over these cookies. Our partners use session ID cookies [to allow you to post our content to your account on their sites.
 
 **Clear GIFs (Web Beacons/Web Bugs)**  
 We use clear GIFs in our HTML-based emails to collect data about how you interact with the email campaigns we send you. We regularly review the open, click, bounce, and share rates for emails we send to you in order to measure their performance and improve our content. 
@@ -207,11 +211,17 @@ We store your Personal Information exactly as it was entered by you or a colleag
 
 We will respond to your request to access within 30 days.
 
+WordFly has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, who seeks to correct, amend, delete inaccurate data or withdraw consent to further contact should direct his/her query to WordFly’s Client (the data controller). If the Client requests WordFly to remove the data, we will respond to their request within 30 days.
+
 If you would like to stop receiving our newsletter or marketing emails, please follow the unsubscribe instructions included in these emails or you can contact us at the contact information listed below.
+
+We collect information for our clients, if you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the client that you interact with directly.
 
 You are the owner and are responsible for all data (including graphics, content, email addresses, and other personal information of your customers) you add or upload to the Website. Except as described above, POP will never use, sell or distribute the data that you own.
 
 We agree to temporarily store your data on the Website during the term of the WordFly User and Software License Agreement. In the event the Agreement is terminated, we will permanently delete all of your personal information, email templates, assets, content, campaign results, and all related data and files from our Website.
+
+WordFly will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. WordFly will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 * * *
 
