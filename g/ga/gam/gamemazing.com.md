@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamemazing.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818161122id_/http%3A//www.gamemazing.com/%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamemazing.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213073936id_/http%3A//www.gamemazing.com/%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - free online games, free games, casual games - GameMazing.com
 
