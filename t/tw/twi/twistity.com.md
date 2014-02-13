@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twistity.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821100513id_/http%3A//twistity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistity.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213215932id_/http%3A//twistity.com/privacy) for the most accurate reproduction.*
 
 # TWISTITY PRIVACY POLICY | A Positive Spin on Your Daily News
 
@@ -56,6 +56,3 @@ _We aggregate this anonymous data as part of managing, maintaining and reporting
 
 
 _In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 1625 North Market Blvd., Suite N 112, Sacramento, CA 95834; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov. For more information about protecting your privacy, you may wish to visit: FTC.gov. If you have any questions about this Privacy Policy, please contact us at admin [at] Twistity.com._
-
- [Feedbox](http://feedbox.com/)  
-
