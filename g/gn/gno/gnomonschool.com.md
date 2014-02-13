@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnomonschool.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817134038id_/http%3A//www.gnomonschool.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnomonschool.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213095141id_/http%3A//www.gnomonschool.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Gnomon School of Visual Effects | Accredidation
 
@@ -40,6 +40,10 @@ Yes (Cookies are small files that a site or its service provider transfers to yo
 
 We use cookies to help us remember and process the items in your shopping cart and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
+**Remarketing**
+
+We use Google AdWords Remarketing to advertise Gnomon across the internet. AdWords remarketing will display relevant ads tailored to you based on what parts of the Gnomon website you have viewed by placing a cookie on your machine. This cookie does not identify you or give Google or us access to your computer. The cookie essentially states, "This person visited this webpage, so show this person ads related to that webpage." Google AdWords Remarketing allows us to tailor our marketing to better suit your needs and to only display ads that are relevant to you. Learn more about Google’s use of cookies by visiting <http://www.google.com/policies/technologies/ads/>.
+
 **Do we disclose any information to outside parties?**
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
@@ -68,6 +72,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the [contact page](https://web.archive.org/web/20130817134038id_/http%3A//www.gnomonschool.com/contact.php).
+If there are any questions regarding this privacy policy you may contact us using the [contact page](https://web.archive.org/web/20140213095141id_/http%3A//www.gnomonschool.com/contact.php).
 
 This policy is powered by Trust Guard.
