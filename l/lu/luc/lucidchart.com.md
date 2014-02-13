@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lucidchart.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219082939id_/https%3A//www.lucidchart.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucidchart.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213175421id_/https%3A//www.lucidchart.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Lucidchart
 
@@ -12,7 +12,7 @@ _
 
 ## Personal Information
 
-  * Account activity. You need a Lucid Account to create diagrams in Lucidchart. Lucid asks for some personal information when you create a Lucid Account, including your email address and a password, which is used to protect your account from unauthorized access. Lucid's servers automatically record certain information about your use of Lucidchart. Similar to other web services, Lucid records information such as account activity (e.g., storage usage, number of log-ins, actions taken), data displayed or clicked on (e.g., UI elements, links), and other log information (e.g. browser type, IP address, date and time of access, cookie ID, referrer URL, etc.). Lucidchart may collect automated error reports in the case of software malfunction; such error reports may contain some or all of the information in your documents and may be reviewed to help resolve problems with the Lucidchart software or service.
+  * Account activity. You need a Lucid Account to create diagrams in Lucidchart. Lucid asks for some personal information when you create a Lucid Account, including your email address and a password, which is used to protect your account from unauthorized access. Lucid's servers automatically record certain information about your use of Lucidchart. Similar to other web services, Lucid records information such as account activity (e.g., storage usage, number of log-ins, actions taken), data displayed or clicked on (e.g., UI elements, links), and other log information (e.g., browser type, IP address, date and time of access, cookie ID, referrer URL, etc.). Lucidchart may collect automated error reports in the case of software malfunction; such error reports may contain some or all of the information in your documents and may be reviewed to help resolve problems with the Lucidchart software or service.
   * Content. Lucidchart stores, processes and maintains your files (as well as previous versions of your files), sharing lists, and other data related to your account in order to provide the service to you.
 
 
