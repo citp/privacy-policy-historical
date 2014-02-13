@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rocketmill.co.uk privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806061552id_/http%3A//www.rocketmill.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketmill.co.uk privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213214213id_/http%3A//www.rocketmill.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RocketMill
 
-## How Elevate Handles Private/Personal Information
+## How RocketMill Handles Private/Personal Information
 
 Our **privacy policy** defines how RocketMill uses and protects all information that you give RocketMill when you use our website.
 
