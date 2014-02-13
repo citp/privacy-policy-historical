@@ -1,247 +1,140 @@
-<!--The following is the downloaded HTML source of the videojug.com privacy policy that was archived on 2012-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629040200id_/http%3A//www.videojug.com/terms/PrivacyStatement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the videojug.com privacy policy that was archived on 2014-02-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140213115246id_/http%3A//www.videojug.com/terms/PrivacyStatement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:og="http://ogp.me/ns#"><head>
-        <title>Privacy Statement - Videojug</title>
-        <meta charset="utf-8">
-        <meta name="description" content="">
-       	<!--[if lt IE 7 ]> 
-            <link type="text/css" rel="stylesheet" href="/Content/IE6.css">
-        <![endif]-->
-<link href="http://www.videojug.com/terms/PrivacyStatement" rel="canonical">        
-        
-        
+    <title>Privacy Statement - Videojug</title>
+    <link href="https://plus.google.com/+videojug" rel="publisher">
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta property="fb:app_id" content="7259814370">
 
-        <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic" rel="stylesheet" type="text/css"> 
-
-        
-        
-
-
-        <link rel="Stylesheet" type="text/css" href="/Content/Consolidated/Global.css?v=1206210735">       
-        
-        <script type="text/javascript" src="/Scripts/Consolidated/JQueryUtils.js?v=1206210735"></script> 
-        
-
-        
-
-
-
-<script type="text/javascript">
-//<![CDATA[
-    if (typeof window.vjtimer == 'undefined') {
-
-        window.vjtimer = {
-            _start: 0,
-
-            start: function () {
-                this._start = (new Date()).getTime();
-            },
-
-            deltaSeconds: function () {
-                return ((new Date()).getTime() - this._start) / 1000.00;
-            },
-
-            deltaMicroSeconds: function () {
-                return ((new Date()).getTime() - this._start);
-            },
-            deltaTimeForAnalytics: function () {
-                return Math.round(this.deltaSeconds());
-            }
-        };
-    }
-
-    function getUqry() {
-        var uqry = {};
-
-        $.extend(uqry, { 'vjchannel': vjChannel }); //ucmp
-        if (vjProducer)
-            $.extend(uqry, { 'vjproducer': vjProducer }); //upcmp
-
-        var querystring = window.location.search;
-
-        return ((null == querystring || 0 == querystring.length) ? "?" : querystring + "&") + $.param(uqry);
-    }
-
-    var vjChannel = 'none';
-    var vjProducer = '';
-    var vjStatusCode = '';
-    var customVarArray = []; //push max 5 per page see docs
-
-    function buildGaUrchinName() {
-        return vjStatusCode + window.location.pathname + getUqry();
-    }
-
-    customVarArray.push(getCustomVarDef(1, 'channel', vjChannel));
-
-    if (vjProducer) {
-        var customVarNameSlot = [[2, 'producer'], [3, 'source'], [4, 'sub-source']];
-        var custVarValues = vjProducer.split(':');
-        for (var i = 0; i < custVarValues.length; i++) {
-            var customVarDef = getCustomVarDef(customVarNameSlot[i][0], customVarNameSlot[i][1], $.trim(custVarValues[i]));
-            customVarArray.push(customVarDef);
-        }
-    }
-
-    function getCustomVarDef(slot, name, value) {
-        var obj = ['_setCustomVar',
-            slot, //1-5
-            name,
-            value,
-            3];  //level 1-3 Visitor|Session|Page
-        return obj;
-    }
-
-        // start timer
-    window.vjtimer.start();
-
-    function gatrk_event(category, action, label, value) {
-        if (_gaq) {
-            _gaq.push(['_trackEvent', category, action, label, value, true]);
-        }
-    }
-
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-695359-1']);
-    $.each(customVarArray, function (i, l) { _gaq.push(l); });
-    _gaq.push(['_trackPageview', buildGaUrchinName()]);
-        
-    (function () {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-
-    (function (tos) {
-        var bounceInterval = "";
-        bounceInterval = window.setInterval(function () {
-            tos = (function (t) {
-                if(t[0] == 50 ) {
-                    window.clearInterval(bounceInterval);
-                }
-                return t[0] == 50 ? (parseInt(t[1]) + 1) + ':00' : (t[1] || '0') + ':' + (parseInt(t[0]) + 10);
-            })(tos.split(':').reverse());
-            gatrk_event('Bounce', 'Time', tos, undefined, true);
-        }, 10000);
-    })('00');
-
-//]]>
-</script>
-    </head>
-    <body class="grey" itemscope="" itemtype="http://schema.org/WebPage">
-        
-        
-        
-
-<header role="banner" itemscope="" itemtype="http://schema.org/WPHeader">
-    <div class="header-wrapper">
-        <h6>
-            <a href="/" id="logo" class="m">Videojug</a>
-        </h6>
-
-
-
-
-<nav id="channel_links">
-
-         <a href="/tag/food-and-drink">Food &amp; Drink</a>
-         <a href="/tag/diy-and-home">DIY &amp; Home</a>
-         <a href="/tag/beauty-and-style">Beauty &amp; Style</a>
+<link href="http://www.videojug.com/terms/PrivacyStatement" rel="canonical">
     
 
-    <a href="javascript:void(0);" class="dropdown-link" data-target="all_channels_popup"><span class="down-arrow"></span>More</a>
-    <div id="all_channels_popup">
-        <span class="m arrow"></span>
-        <ul class="all-channels" role="navigation">
-                <li>
-                    <a class="botNoFollow" data-dest="/tag/technology-and-cars">
-                        <span class="channel-colour black"></span>
-                        <span class="text">Technology &amp; Cars</span>
-                    </a>
-                </li>
-                <li>
-                    <a class="botNoFollow" data-dest="/tag/money-and-careers">
-                        <span class="channel-colour darkblue"></span>
-                        <span class="text">Money &amp; Careers</span>
-                    </a>
-                </li>
-                <li>
-                    <a class="botNoFollow" data-dest="/tag/love-and-dating">
-                        <span class="channel-colour red"></span>
-                        <span class="text">Love &amp; Dating</span>
-                    </a>
-                </li>
-                <li>
-                    <a class="botNoFollow" data-dest="/tag/sports-and-outdoors">
-                        <span class="channel-colour turquoise"></span>
-                        <span class="text">Sports &amp; Outdoors</span>
-                    </a>
-                </li>
-                <li>
-                    <a class="botNoFollow" data-dest="/tag/health-and-wellbeing">
-                        <span class="channel-colour lightblue"></span>
-                        <span class="text">Health &amp; Wellbeing</span>
-                    </a>
-                </li>
-                <li>
-                    <a class="botNoFollow" data-dest="/tag/creative-and-culture">
-                        <span class="channel-colour pink"></span>
-                        <span class="text">Creative &amp; Culture</span>
-                    </a>
-                </li>
-                <li>
-                    <a class="botNoFollow" data-dest="/tag/family-and-education">
-                        <span class="channel-colour yellow"></span>
-                        <span class="text">Family &amp; Education</span>
-                    </a>
-                </li>
-            <li>
-                <a class="botNoFollow" data-dest="/help">
-                    <span class="channel-colour white"></span>
-                    <span class="text black">Help &amp; Support</span>
-                </a>
-            </li>
-        </ul>
-    </div>
+    
+    
+    
+       
 
-</nav>
+    <link rel="Stylesheet" type="text/css" href="/Content/Consolidated/Global.css?v=1402111559">
+    
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MVHXDZ"></script><script type="text/javascript" src="/Scripts/Consolidated/JQueryUtils.js?v=1402111559"></script> 
+    
+    <!--[if lt IE 8]>
+         <link type="text/css" rel="stylesheet" href="/Content/IE6.css">
+        <script type="text/javascript">
+        try{
+	var s=document.createElement('script');
+	s.type='text/javascript';
+	s.src='http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js';
+	document.body.appendChild(s);
+        } catch(e) {}
+        </script>
+<![endif]-->
 
 
-<form action="/search?page=1" class="m" method="get">            <input type="submit" value="s" id="search" class="m" title="search">           
-            <input type="text" value="Search Videojug" name="keywords" id="keywords_top" role="search" speech="speech" x-webkit-speech="x-webkit-speech">
-</form>        
+    
+    
+
+<script type="text/javascript">
+    function getUqry() { var e = {}; $.extend(e, { vjchannel: vjChannel }); var t = window.location.search; return (null == t || 0 == t.length ? "?" : t + "&") + $.param(e) } function buildGaUrchinName() { return vjStatusCode + window.location.pathname + getUqry() } function getSlotAndLevel(e) { var t; var n; if (/^channel/.test(e)) { t = 1; n = 3 } else if (/^AB_TEST_/.test(e)) { t = 2; n = 1 } else if (/^Subscriber/.test(e)) { t = 3; n = 1 } else if (/^Logged-In/.test(e)) { t = 4; n = 2 } else if (/^Initial Referrer/.test(e)) { t = 5; n = 1 } return { Slot: t, Level: n} } function gatrk_event(e, t, n, r, i) { if (_gaq) { i = typeof i == "function" ? i : function () { }; _gaq.push(["_trackEvent", e, t, n, r, true]); _gaq.push(function () { i() }) } } window.vjChannel = "none"; var vjChannel = window.vjChannel; var vjStatusCode = ""; window.gatrk_customVar = function (e, t) { if (_gaq) _gaq.push(["_setCustomVar", getSlotAndLevel(e).Slot, e, t, getSlotAndLevel(e).Level]) }; window.gatrk_deleteCustomVar = function (e) { if (_gaq) _gaq.push(["_deleteCustomVar", e]) }; var _gaq = _gaq || []; _gaq.push(["_setAccount", "UA-695359-1"]); _gaq.push(["_trackPageview", buildGaUrchinName()]); (function () { var e = document.createElement("script"); e.type = "text/javascript"; e.async = true; e.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js"; var t = document.getElementsByTagName("script")[0]; t.parentNode.insertBefore(e, t); window.gatrk_customVar("channel", vjChannel) })(); _gaq.push(function () { try { var e = decodeURIComponent($.cookie("__utmv")); var t = decodeURIComponent($.cookie("__utmz")); if (t != null) { var n = false; if (e != null) n = (new RegExp("Initial(%20|\\s+?)Referrer2")).test(e); if (!n) { var r = (new RegExp("utmcsr=[(]{0,1}(.+?)[)]{0,1}(?:[|]|$)", "g")).exec(t)[1]; var i = (new RegExp("utmcmd=[(]{0,1}(.+?)[)]{0,1}(?:[|]|$)", "g")).exec(t)[1]; window.gatrk_customVar("Initial Referrer2", i + "|" + r) } } } catch (s) { } }); (function (e) { var t = ""; t = window.setInterval(function () { e = function (e) { if (e[0] == 50) { window.clearInterval(t) } return e[0] == 50 ? parseInt(e[1]) + 1 + ":00" : (e[1] || "0") + ":" + (parseInt(e[0]) + 10) } (e.split(":").reverse()); gatrk_event("Bounce", "Time", e, undefined, true) }, 1e4) })("00")
+</script>
+
+</head>
+<body data-themedsubchannelurlname="" class="grey" itemscope="" itemtype="http://schema.org/WebPage">
+
+
+    
+    
+    
+<header>
+    <div class="header-bar">
+        <div class="header-container">
+            <div class="icon-logo"></div>
+            <a href="/">
+                <div class="logo"></div>
+            </a>
+            <div class="vj-networks">Original content from <a href="http://videojugnetworks.com" target="_blank"><i class="icon-corporate"></i></a> | Learn more about our <a href="http://videojugnetworks.com" target="blank_">Corporate Services</a></div>
 
 
 <script type="text/javascript">
-//<![CDATA[
+    //<![CDATA[
     $.template(
     "logonTabsTemplate",
         '<li><a href="/account/MyProfile">My Account</a></li>\
             <li><a href="/account/LogOff">[Log Off]</a></li>');
-//]]>
+    //]]>
 </script>
 
-<ul id="login_links">
+<ul id="login_links" class="login">
+    <li class="replace-login facebook"><a class="require-facebook m" href="http://www.facebook.com/dialog/oauth/?display=popup&amp;state=facebook_link!%2faccount%2fMyProfile&amp;scope=email%2cpublish_stream%2cuser_birthday&amp;client_id=7259814370&amp;redirect_uri=http%3a%2f%2fwww.videojug.com%2fAccount%2fOAuth" data-source="facebook_link" id="facebook_login_link"><i class="icon-login"></i></a></li>
     <li class="replace-login"><a href="javascript:void(0);" class="require-logon" data-returnurl="/account/MyProfile" data-source="register_link">Register</a></li>
-    <li class="replace-login"><a href="javascript:void(0);" class="require-logon" data-returnurl="/account/MyProfile" data-source="signin_link">Sign in</a></li>
-    <li class="replace-login"><a class="require-facebook m" href="http://www.facebook.com/dialog/oauth/?display=popup&amp;state=%2faccount%2fMyProfile&amp;scope=email%2cpublish_stream%2cuser_birthday&amp;client_id=7259814370&amp;redirect_uri=http%3a%2f%2fwww.videojug.com%2fAccount%2fOAuth" id="facebook_login_link">Log On with Facebook</a></li>
+    <li class="replace-login"><a href="javascript:void(0);" class="require-logon" data-returnurl="/account/MyProfile" data-source="signin_link">Login</a></li>
 </ul>
-
+        </div>
     </div>
+    <nav>
+
+<ul>
+    <li class="darkblue"><a href="#">More</a> 
+        <ul>
+                <li class="turquoise"><a href="/tag/sports-and-outdoors">Sports &amp; Outdoors</a></li>
+                <li class="lightblue"><a href="/tag/health-and-wellbeing">Health &amp; Wellbeing</a></li>
+                <li class="pink"><a href="/tag/creative-and-culture">Creative &amp; Culture</a></li>
+                <li class="yellow"><a href="/tag/family-and-education">Family &amp; Education</a></li>
+        </ul>
+    </li>
+    
+    <li class="red"><a href="/tag/love-and-dating">Love &amp; Dating</a></li>
+    <li class="darkblue"><a href="/tag/money-and-careers">Money &amp; Careers</a></li>
+    <li class="black"><a href="/tag/technology-and-cars">Technology &amp; Cars</a></li>
+    <li class="orange"><a href="/tag/diy-and-home">DIY &amp; Home</a></li>
+    <li class="purple"><a href="/tag/beauty-and-style">Beauty &amp; Style</a></li>
+    <li class="green"><a href="/tag/food-and-drink">Food &amp; Drink</a></li>
+
+</ul>
+        <div class="clear"></div>
+        <div class="search-bar">
+<form action="/search?page=1" class="m" method="get">                <input type="text" name="keywords" placeholder="Search Videojug" role="search" speech="speech" x-webkit-speech="x-webkit-speech">
+                <input type="submit" value=" ">
+</form>            <!-- AddThis Button BEGIN -->
+<div id="socialMedia" class="addthis_toolbox addthis_default_style addthis_32x32_style">
+    <a class="addthis_button_compact"></a>
+    <a class="addthis_button_pinterest_share" title="Send to Pinterest"></a>
+    <a class="addthis_button_twitter"></a>
+    <a href="https://plus.google.com/101322102288562395308/?prsrc=3" rel="publisher" class="google-plus-badge" target="_blank" title="Google +">
+        <i class="icon-google-plus"></i></a>
+    <a class="addthis_button_facebook"></a>
+</div>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-52962c744adda448"></script>
+<!-- AddThis Button END -->
+
+            </div>
+        <div class="clear"></div>
+    </nav>
 </header>
-        <div id="body_background">
-            <div id="main" role="main">
-                
-<div id="static_page">
+    <div style="min-height: 30px; display: block;">
+
+        <aside id="billboard_atf">
+        </aside>
+    </div>
+    <section id="content">
+        <div>
+
+            
+            <div>
+<div class="content-container">
+    <div id="static_page">
 
 <nav id="staticpage_menu">
-<h5 class="rtr">Help Sections</h5>
+<h4 class="rtr  hot-blue-invert">Help Sections</h4>
 <ul>
     <li><a href="/contactus">Contact us</a></li>
     <li><a href="/help">Help</a></li>
 
     <li><a href="/terms">Terms &amp; Conditions</a></li>
     <li class="sub"><ul>
+    <li><a href="/terms/cookies">Videojug Cookie Policy</a></li>
     <li><a href="/terms/postingrules">Community and posting rules</a></li>
     <li><a href="/terms/safety">Safety guidelines</a></li>
     <li><a href="/terms/thelaw">What the Law says</a></li>
@@ -259,239 +152,328 @@
 
 </nav>
 
-    <article>
+        <article>
 
-        <h1>Privacy Statement</h1>
+            <h1>Privacy Statement</h1>
 
-        <p>This Privacy Policy is applicable to any personal information, which is given by
-        You to Us ("User Information") via the web site located at www.videojug.com ("Site").
-        This Policy is devised to help you feel more confident about the privacy and security
-        of your personal details.</p>
+            <p>This Privacy Policy is applicable to any personal information, which is given by
+                You to Us ("User Information") via the web site located at www.videojug.com ("Site").
+                This Policy is devised to help you feel more confident about the privacy and security
+                of your personal details.</p>
 
-        <p>"You" shall mean you, the user of the Site. "We/Us" means Videojug Corporation Limited.
-        "Users" means the users of the Site collectively and/or individually as the context allows.</p>
+            <p>"You" shall mean you, the user of the Site. "We/Us" means Videojug Corporation Limited.
+                "Users" means the users of the Site collectively and/or individually as the context allows.</p>
 
-        <p>We process personal data only in strict compliance with the Data Protection Act
-        1998 and associated legislation.</p>
+            <p>We process personal data only in strict compliance with the Data Protection Act
+                1998 and associated legislation.</p>
 
-        <p>Any 3rd Party website that you may connect to from this Site is not covered by this Privacy Policy.</p>
+            <p>Any 3rd Party website that you may connect to from this Site is not covered by this Privacy Policy.</p>
 
-        <section>
+            <section>
 
-            <h4>Data Collection</h4>
+                <h4>Data Collection</h4>
 
-            <p>When using the Site You may encounter areas such as registration for chat forums,
-            shopping or video services where You may be asked to enter User Information. Such
-            User Information will only be used for the purposes for which it was collected,
-            for any other purposes specified at the collection point and in accordance with
-            this Privacy Policy.
-            </p>
+                <p>When using the Site You may encounter areas such as registration for chat forums,
+                    shopping or video services where You may be asked to enter User Information. Such
+                    User Information will only be used for the purposes for which it was collected,
+                    for any other purposes specified at the collection point and in accordance with
+                    this Privacy Policy.
+                </p>
 
-        </section>
+            </section>
 
-        <section>
+            <section>
 
-            <h4>How we may use your data</h4>
+                <h4>How we may use your data</h4>
 
-            <p>By entering Your User Information, You accept that we may retain Your User Information
-             and that it may be held by Us or any third party company which processes it on Our
-             behalf.</p>
+                <p>By entering Your User Information, You accept that we may retain Your User Information
+                    and that it may be held by Us or any third party company which processes it on Our
+                    behalf.</p>
 
-            <p>We shall be entitled to use Your User Information for the following purposes:</p>
+                <p>We shall be entitled to use Your User Information for the following purposes:</p>
 
-            <ul>
-                <li>market research, including statistical analysis of user behaviour which we may disclose to third parties in depersonalised, aggregated form. </li>
-                <li>in order to enable Us to comply with any requirements imposed on us by law.</li>
-                <li>in order to send You periodic communications (this may include email), about features, products and services, events and special offers. 
-                Such communications from Us may include advertising for third party companies or organisations.</li>
-            </ul>
+                <ul>
+                    <li>market research, including statistical analysis of user behaviour which we may disclose to third parties in depersonalised, aggregated form. </li>
+                    <li>in order to enable Us to comply with any requirements imposed on us by law.</li>
+                    <li>in order to send You periodic communications (this may include email), about features, products and services, events and special offers. 
+                        Such communications from Us may include advertising for third party companies or organisations.</li>
+                </ul>
 
-            <p><b>For your convenience you can withdraw consent by replying to the "unsubscribe" link in emails from us.</b></p>
+                <p><b>For your convenience you can withdraw consent by replying to the "unsubscribe" link in emails from us.</b></p>
 
-            <p>Please also note that we do not disclose your personal information to third parties to enable them to send you direct marketing without your 
-            permission to do so.</p>
+                <p>Please also note that we do not disclose your personal information to third parties to enable them to send you direct marketing without your 
+                    permission to do so.</p>
 
-        </section>
+            </section>
 
-        <section>
+            <section>
     
-            <h4>Cookies</h4>
+                <h4>Cookies</h4>
 
-            <p>You should be aware that information and data may be automatically collected through the use of Cookies. 
-                "Cookies" are small text files that store basic information that a web site can use to recognise repeat site 
-                visits and as an example, recall your name if this has been previously supplied. Videojug and selected business 
-                partners may use this to observe behaviour and compile aggregate data in order to provide advertisements about 
-                goods and services of interest to you on Videojug and other sites. If you would like more information about 
-                this practice and to know your choices about not having this information used by these companies, 
-                please visit <a href="http://networkadvertising.org/managing/opt_out.asp">http://networkadvertising.org/managing/opt_out.asp</a>.</p>
+                <p>You should be aware that information and data may be automatically collected through the use of Cookies. 
+                    "Cookies" are small text files that store basic information that a web site can use to recognise repeat site 
+                    visits and as an example, recall your name if this has been previously supplied. Videojug and selected business 
+                    partners may use this to observe behaviour and compile aggregate data in order to provide advertisements about 
+                    goods and services of interest to you on Videojug and other sites. If you would like more information about 
+                    this practice and to know your choices about not having this information used by these companies, 
+                    please visit <a href="http://networkadvertising.org/managing/opt_out.asp">http://networkadvertising.org/managing/opt_out.asp</a>.</p>
                 
-            <p>You can also visit the trade body representing these advertising companies for more information on how to opt out of these cookies: <a href="http://youronlinechoices.com">http://youronlinechoices.com</a> </p>
+                <p>You can also visit the trade body representing these advertising companies for more information on how to opt out of these cookies: <a href="http://youronlinechoices.com">http://youronlinechoices.com</a> </p>
 
-        </section>
+            </section>
 
-        <section>
+            <section>
 
-            <h4>Advertising</h4>
+                <h4>Advertising</h4>
 
-            <p>We use third-party advertising companies to serve ads when you visit our website. 
-            These companies may use information (not including your name, address, email address or telephone number) 
-            about your visits to this and other websites in order to provide advertisements about goods and services 
-            of interest to you. If you would like more information about this practice and would like to know your options 
-            in relation to not having this information used by these companies, <a href="http://www.google.co.uk/privacy_ads.html">click here</a>.</p>
+                <p>We use third-party advertising companies to serve ads when you visit our website. 
+                    These companies may use information (not including your name, address, email address or telephone number) 
+                    about your visits to this and other websites in order to provide advertisements about goods and services 
+                    of interest to you. If you would like more information about this practice and would like to know your options 
+                    in relation to not having this information used by these companies, <a href="http://www.google.co.uk/privacy_ads.html">click here</a>.</p>
 
-        </section>
+            </section>
 
-        <section>
+            <section>
 
-            <h4>Security and Data Retention</h4>
+                <h4>Security and Data Retention</h4>
 
-            <p>Security is very important to Us. Secure Socket Layer ("SSL") encryption technology
-            is used for protection of information in transit for any sensitive transactions
-            such as payments. Additional security procedures are in place to protect the confidentiality,
-            integrity and availability of Your User information.</p>
+                <p>Security is very important to Us. Secure Socket Layer ("SSL") encryption technology
+                    is used for protection of information in transit for any sensitive transactions
+                    such as payments. Additional security procedures are in place to protect the confidentiality,
+                    integrity and availability of Your User information.</p>
 
-            <p>We will comply with all relevant Data Protection legislation in relation to the period for which We retain any information You disclose to us.</p>
+                <p>We will comply with all relevant Data Protection legislation in relation to the period for which We retain any information You disclose to us.</p>
    
-        </section>
+            </section>
 
-        <section>
+            <section>
 
-            <h4>Updates</h4>
+                <h4>Updates</h4>
 
-            <p>You may notify Us of any updates, amendments and corrections to previously collected
-            User Information by using the Feedback Form link in the Contact Us section of the
-            site.</p>
+                <p>You may notify Us of any updates, amendments and corrections to previously collected
+                    User Information by using the Feedback Form link in the Contact Us section of the
+                    site.</p>
 
-            <p>We may change this privacy policy from time to time and you should check these regularly.
-            Your use of the Videojug Site will be deemed an acceptance of the privacy policy
-            existing at that time.</p>
+                <p>We may change this privacy policy from time to time and you should check these regularly.
+                    Your use of the Videojug Site will be deemed an acceptance of the privacy policy
+                    existing at that time.</p>
 
-        </section>
+            </section>
 
-        <section>
+            <section>
 
-            <h4>Contact</h4>
+                <h4>Contact</h4>
     
-            <p>Any queries or comments about this policy should be forwarded to <a href="mailto:info@videojug.com">
-            info@videojug.com</a>. If you have any complaints email <a href="mailto:abuse@videojug.com">abuse@videojug.com</a>.</p>
+                <p>Any queries or comments about this policy should be forwarded to <a href="mailto:info@videojug.com">
+                                                                                        info@videojug.com</a>. If you have any complaints email <a href="mailto:abuse@videojug.com">abuse@videojug.com</a>.</p>
    
-            <p>Videojug Corporation Limited (Videojug) is a registered company in England whose
-            registered office is 1 Park Place, Canary Wharf, London E14 4HJ, and whose registered
-            company number is 05655696.</p>
+                <p>Videojug Corporation Limited (Videojug) is a registered company in England whose
+                    registered office is 1 Park Place, Canary Wharf, London E14 4HJ, and whose registered
+                    company number is 05655696.</p>
     
-        </section>
+            </section>
 
     
-    </article>
+        </article>
 
+    </div>
+
+    <div class="clear"></div>
 </div>
+    </div>
 
+        <aside id="billboard_btf">
+        </aside>
 <div class="clear"></div>
-<aside id="fat_footer">
-
-
-    <div>
-        <h5>More</h5>
+<footer>
+    <div class="nointellitxt">
+        <div class="horz-sep"></div>
         <ul>
-            <li><a class="botNoFollow" data-dest="/tag/food-and-drink">Food &amp; Drink</a></li>
-            <li><a class="botNoFollow" data-dest="/tag/diy-and-home">DIY &amp; Home</a></li>
-            <li><a class="botNoFollow" data-dest="/tag/beauty-and-style">Beauty &amp; Style</a></li>
-            <li><a class="botNoFollow" data-dest="/tag/creative-and-culture">Creative &amp; Culture</a></li>
-            <li><a class="botNoFollow" data-dest="/tag/family-and-education">Family &amp; Education</a></li>
-            <li><a class="botNoFollow" data-dest="/tag/health-and-wellbeing">Health &amp; Wellbeing</a></li>
-            <li><a class="botNoFollow" data-dest="/tag/love-and-dating">Love &amp; Dating</a></li>
-            <li><a class="botNoFollow" data-dest="/tag/money-and-careers">Money &amp; Careers</a></li>
-            <li><a class="botNoFollow" data-dest="/tag/sports-and-outdoors">Sports &amp; Outdoors</a></li>
-            <li><a class="botNoFollow" data-dest="/tag/technology-and-cars">Technology &amp; Cars</a></li>
+            <li>MORE
+            </li>
+            <li><a class="botNoFollow" href="/tag/food-and-drink">Food &amp; Drink</a></li>
+            <li><a class="botNoFollow" href="/tag/diy-and-home">DIY &amp; Home</a></li>
+            <li><a class="botNoFollow" href="/tag/beauty-and-style">Beauty &amp; Style</a></li>
+            <li><a class="botNoFollow" href="/tag/creative-and-culture">Creative &amp; Culture</a></li>
+            <li><a class="botNoFollow" href="/tag/family-and-education">Family &amp; Education</a></li>
+            <li><a class="botNoFollow" href="/tag/health-and-wellbeing">Health &amp; Wellbeing</a></li>
+            <li><a class="botNoFollow" href="/tag/love-and-dating">Love &amp; Dating</a></li>
+            <li><a class="botNoFollow" href="/tag/money-and-careers">Money &amp; Careers</a></li>
+            <li><a class="botNoFollow" href="/tag/sports-and-outdoors">Sports &amp; Outdoors</a></li>
+            <li><a class="botNoFollow" href="/tag/technology-and-cars">Technology &amp; Cars</a></li>
         </ul>
-    </div>
-    <div>
-
-        <h5>Site</h5>
         <ul>
-            <li><a class="botNoFollow" data-dest="/categories">All Categories</a></li>
-            <li><a class="botNoFollow" data-dest="http://blog.videojug.com" target="_blank">Blog</a></li>
+            <li>SITE
+            </li>
+            <li><a class="botNoFollow" href="/categories">All Categories</a></li>
+            <li><a href="http://blog.videojug.com" target="_blank">Blog</a></li>
             <li><a href="/sitemap">Sitemap</a></li>
-            <li><a class="botNoFollow" data-dest="/cookiepreference/desktoptomobile">Mobile Site</a> | Desktop Site</li>
-
+            <li><a class="botNoFollow" href="/cookiepreference/desktoptomobile">Mobile Site</a> | Desktop Site</li>
+        </ul>
+        <ul>
+            <li>HELP &amp; SUPPORT
+            </li>
+            <li><a class="botNoFollow" href="/help">Help</a></li>
+            <li><a class="botNoFollow" href="/contactus">Contact Us</a></li>
+        </ul>
+        <ul>
+            <li>STAY IN TOUCH
+            </li>
+            <li><a class="botNoFollow" href="/info/Mobile">Mobile Apps</a></li>
+        </ul>
+        <ul class="hot-blue">
+            <li>COMMERCIAL OPPORTUNITIES
+            </li>
+            <li><a href="http://videojugnetworks.com/services/strategy.aspx" target="_blank">Content Strategy</a></li>
+            <li><a href="http://videojugnetworks.com/services/production.aspx" target="_blank">Video Production</a></li>
+            <li><a href="http://videojugnetworks.com/services/distribution.aspx" target="_blank">Social &amp; Distribution</a></li>
+            <li><a href="http://videojugnetworks.com/services/videojug-originals.aspx" target="_blank">Licensing &amp; Syndication</a></li>
+            <li><a href="http://videojugnetworks.com/contact-us.aspx" target="_blank">Contact Us</a></li>
         </ul>
 
+        <div class="clear"></div>
         
-        <h5>Help and Support</h5>
-        <ul>
-            <li><a class="botNoFollow" data-dest="/help">Help</a></li>
-            <li><a class="botNoFollow" data-dest="/contactus">Contact Us</a></li>
-        </ul>
-        
-    </div>
-    <div>
-        <h5>Stay in Touch</h5>
-        <ul>
-            <li><a class="botNoFollow" data-dest="http://www.facebook.com/videojug" target="_blank">Join us on Facebook</a></li>
-            <li><a class="botNoFollow" data-dest="http://www.twitter.com/videojug" target="_blank">Follow us on Twitter</a></li>
-            <li><a class="botNoFollow" data-dest="http://www.youtube.com/videojug" target="_blank">Videojug on YouTube</a></li>
-            <li><a class="botNoFollow" data-dest="/info/Mobile">Mobile Apps</a></li>
-        </ul>
-
-
-    </div>
-    <div>
-        <h5>More Info</h5>
-        <ul>
-            <li><a class="botNoFollow" data-dest="http://corporate.videojug.com/about" target="_blank">About Us</a></li>
-            <li><a class="botNoFollow" data-dest="http://corporate.videojug.com/advertise" target="_blank">Advertise</a></li>
-            <li><a class="botNoFollow" data-dest="http://corporate.videojug.com/video-production" target="_blank">Corporate Video Production</a></li>
-            <li><a class="botNoFollow" data-dest="http://corporate.videojug.com/media-centre" target="_blank">Media Centre / Press Info</a></li>
-            <li><a class="botNoFollow" data-dest="http://corporate.videojug.com" target="_blank">Videojug Corporate Site</a></li>
-        </ul>
- 
-    </div>
-    <br class="clear">
-
-<div id="editions_picker">
-    <ul id="editions_list">
-            <li><a class="m edition-flag big uk botNoFollow" data-dest="/account/SetEdition/UK/terms/PrivacyStatement" title="UK"></a></li>
-            <li><a class="m edition-flag big us botNoFollow" data-dest="/account/SetEdition/US/terms/PrivacyStatement" title="US"></a></li>
-            <li><a class="m edition-flag big global botNoFollow" data-dest="/account/SetEdition/Global/terms/PrivacyStatement" title="Global"></a></li>
-    </ul>
-    <span class="countrychoice">Choose your country</span><span data-target="editions_list" class="dropdown-link m edition-flag us"></span>
-</div>
-    <br class="clear">
-
-</aside>
-<footer itemscope="" itemtype="http://schema.org/WPFooter" id="sub_footer">
-    <a class="botNoFollow" data-dest="/terms">Terms &amp; Disclaimer</a>
-    <a class="botNoFollow" data-dest="/terms/PrivacyStatement">Privacy Policy</a>
-    <small>Copyright © <span itemprop="copyrightYear">2006</span>-2012  <span itemprop="copyrightHolder">Videojug Corporation Limited</span></small>
-</footer>
-
-            </div>
+        <div class="horz-sep"></div>
+        <div class="footer-bar">
+            <span>Copyright © 2006-2014 Videojug Corporation Limited</span>
+            <span><a href="/terms">Terms &amp; Disclaimer</a> | <a href="/terms/PrivacyStatement">Privacy Policy</a> | <a href="/terms/Cookies">Cookie Policy</a></span>
+            <div class="clear"></div>
         </div>
-        <script type="text/javascript" src="/Scripts/Consolidated/Global.js?v=1206210735"></script>
-
-        
-        <script type="text/javascript">
-            importNS('com.videojug');
-            com.videojug.WindowLoadEvents.add(30,function () {
-                var fileref = document.createElement("link");
-                fileref.setAttribute("rel", "stylesheet");
-                fileref.setAttribute("type", "text/css");
-                fileref.setAttribute("href", "http://asset0.zendesk.com/external/zenbox/v2.4/zenbox.css");
-                $("head").append(fileref);
-                loadScript("http://asset0.zendesk.com/external/zenbox/v2.4/zenbox.js", function () {
-                    if (typeof (Zenbox) !== "undefined") {
-                        Zenbox.init({
-                            dropboxID: "20065656",
-                            url: "https://videojug.zendesk.com",
-                            tabID: "feedback",
-                            tabColor: "#1892C1",
-                            tabPosition: "Right"
-                        });
-                    }
-                });
-            });
-        </script>
-    <div id="fb-root"></div>
+    </div>
+</footer>        </div>
+        <div class="clear"></div>
+    </section>
     
+
+
+    <script type="text/javascript" src="/Scripts/Consolidated/Global.js?v=1402111559"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery.caroufredsel/6.2.1/jquery.carouFredSel.packed.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+
+            // Using custom configuration
+            $(".thumb-155x84 >  .scroller").carouFredSel({
+                items: 4,
+                scroll: {
+                    items: 1,
+                    easing: "linear",
+                    duration: 500,
+                    pauseOnHover: true
+                },
+                next: { button: '#next' },
+                prev: { button: '#prev' },
+                width: 640,
+                align: "center"
+            });
+            $(".thumb-200x120 .scroller").carouFredSel({
+                items: 4,
+                direction: "left",
+                scroll: {
+                    items: 1,
+                    easing: "linear",
+                    duration: 500,
+                    pauseOnHover: true
+                },
+                next: { button: '#next' },
+                prev: { button: '#prev' },
+                width: 818
+
+            });
+
+            $(".dotdotdot").dotdotdot();
+
+
+            $("#categories").find("#video_wall_items li").each(function () {
+                var description = $("<p></p>");
+                var anchor = $(this).find('a:first');
+
+                description.addClass("summary");
+                description.html(anchor.attr("title"));
+
+                $(this).find(anchor).after(description);
+            });
+
+
+            $('#video_wall .video-wall-menu.sort-type span.grey-state-button').addClass('channel-colour');
+            $('#video_wall .video-wall-menu.sort-type a.grey-state-button').addClass('channel-text');
+            $('#video_wall #video_wall_items strong').addClass('channel-text');
+            
+            $('#video_wall .grey-state-button.tile-detail').removeClass('channel-colour');
+            $('#video_wall .grey-state-button.tile-detail.selected').addClass('channel-colour');
+
+            $('.choices.no-border.profile-aside h4 a').addClass('channel-text');
+
+            $('.big-header.title-bar:has(#food_search)').addClass('header-food-recipe');
+
+
+        });
+
+
+    </script>
+    <div id="fb-root"></div>
+
+        <div id="rome">
+        </div>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            $(window).scroll(function () {
+                positionBodySkin();
+                var innerHeight = $(window).height();
+                var top = innerHeight > 1200 ? 46 : (1200 - innerHeight);
+                var scrollTop = $(document).scrollTop();
+                if (scrollTop > top) {
+                    $('body').addClass('content-section');
+                    $('aside#bodySkin').css('top', -top + 'px');
+                } else {
+                    $('body').removeClass('content-section');
+                    $('aside#bodySkin').css('top', (46 - $(document).scrollTop()) + 'px');
+
+                }
+
+            });
+            $(window).unbind('resize').resize(function () {
+                positionBodySkin();
+
+            });
+            function positionBodySkin() {
+                var leftPos = $('div.content-container').position().left - ((1600 - 980) / 2);
+
+
+
+                $('aside#bodySkin').offset({ left: leftPos });
+
+            }
+
+            positionBodySkin();
+
+        });
+</script>
+
+
+        <aside id="bodySkin">
+        </aside>
+
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-MVHXDZ"
+            height="0" width="0" style="display: none; visibility: hidden"></iframe>
+    </noscript>
+    <script>(function (w, d, s, l, i) {
+    w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+        new Date().getTime(), event: 'gtm.js'
+    }); var f = d.getElementsByTagName(s)[0],
+    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+    '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-MVHXDZ');</script>
+    <!-- End Google Tag Manager -->
+
+
 
 </body></html>
