@@ -1,197 +1,141 @@
-> *The following text is extracted and transformed from the nmfn.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807085925id_/http%3A//www.northwesternmutual.com/legal-information/online-privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmfn.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213204648id_/http%3A//www.northwesternmutual.com/security-privacy/default.aspx) for the most accurate reproduction.*
 
-# Northwestern Mutual Online Privacy Statement
+# Security and Privacy | Northwestern Mutual
 
-[Northwestern Mutual Website](https://web.archive.org/legal-information/online-privacy-statement.aspx#nm)  
-[NMIS Online Website](https://web.archive.org/legal-information/online-privacy-statement.aspx#nmis)  
-[Northwestern Mutual Wealth Management Company Private Client Services Online Website](https://web.archive.org/legal-information/online-privacy-statement.aspx#nmwmc)
+Security and privacy of your confidential information is important to you and to us at Northwestern Mutual. Know that we will never ask for your password, Social Security number, product or account numbers, or other personal information through email or text message. This information may be requested during a phone call with a Northwestern Mutual customer service representative or upon registering for online account access.
 
-## Northwestern Mutual Website
+Northwestern Mutual is committed to safeguarding your personal and confidential information. We have provided some best practices that will help to enhance your security. Together we can work to protect what is most valuable to you.
 
-Last revised: June 14, 2012
+## Protect Your Account
 
-This statement discloses the privacy practices for the Northwestern Mutual website, and includes:
+  * When you register for Northwestern Mutual online account access, we request personal information, including your product number and Social Security number, to verify your identity. This helps ensure that only you may register to access your own accounts.
+  * When you set up your password reminder questions for online accounts, select questions and answers that only you know. Avoid questions and answers that others may be able to discover about you, including information you share on social media sites.
+  * To protect your online accounts, use secure passwords.
+  * Avoid accessing your online accounts through publicly shared computers if possible.
 
-  * What information is gathered/tracked;
-  * How the information is used; and
-  * Who information is shared with.
 
 
+A strong password is important to protect your online accounts. When you are selecting a password, keep the following tips in mind:
 
-Questions regarding this statement should be directed to the site coordinator.
+Do | Do Not  
+---|---  
+  
+  * Choose a long password of at least 8 characters. Longer passwords are more secure.
+  * Include upper- and lowercase letters, numbers, and symbols – this makes it more difficult for someone to guess it.
+  * Change passwords frequently – consider quarterly updates.
+  * Consider using a password manager.
+  * Keep your password private.
 
-The Northwestern Mutual website collects no personally identifying information about individuals except when specifically and knowingly provided by such individuals or, in the case of corporate owned policies insuring individuals, by the corporate owner of the policies. Except as described in this Statement, Northwestern Mutual will not release any of said information about you without your permission, unless permitted or required by law.
+| 
 
-The Northwestern Mutual website gathers two types of information about people who visit our site: (1) information and data you provide voluntarily, including information and data you provide voluntarily in connection with visiting "Access Your Account" sections of this site and/or through optional, voluntary contact request forms; and (2) aggregated tracking information such as IP address and home server information.
+  * Do not use real names.
+  * Do not use Social Security numbers, words or numbers associated with personal information, like birthdays, anniversaries, license plates, telephone numbers, or addresses.
+  * Do not use your login name or any variation of it.
+  * Do not use words from the dictionary.
+  * Do not use the same pattern for your passwords, such as smart1, smart2, etc.
+  * Do not write down your password or share your password with anyone else.
 
-Through the "Access Your Account" section of this site, certain policy and account information can be accessed, limited service requests can be made, and limited transactions can be conducted. If you visit one of these "Access Your Account" sections, you may be asked to provide information about yourself and/or your policy or account. In the case of corporate owned policies, you may be asked to provide information about the corporate owner of the policy or those individuals who are insured under the corporate owned policy. Portions of these "Access Your Account" sections are hosted by third parties and third parties assist in providing some of the services and transactions requested through these sections. Each of these third parties are contractually bound to maintain the confidentiality of any information submitted by visitors to these sections of this site and to use such information solely for the purpose of providing the requested services to or on behalf of Northwestern Mutual and/or its subsidiaries and affiliates.
+  
+  
+Password management software can help simplify choosing and maintaining passwords for your online accounts. Several password management applications are available for a variety of devices and operating systems. Check with a trusted technology expert to help you choose the appropriate password manager tool for your needs.
 
-When you would like to have a Northwestern Mutual Financial Representative contact you, we will ask you for:
+## Stay Safe Online
 
-  * your name
-  * your street address
-  * your phone number
-  * your email address
+Email hacking occurs when a fraudster illegally gains access into an individual’s email account. This allows the fraudster to read email messages and view the address book on the email account. Using this information, the fraudster (appearing to be the individual), contacts the individual’s financial institutions via an email message and tries to obtain funds. Learn about how to protect yourself at [Email Hacking Fraud](https://web.archive.org/legal-information/anti-fraud-efforts.aspx#q2).
 
+Identity theft occurs when someone wrongfully obtains another person’s confidential information, often to benefit the identity thief financially.
 
+Victims of identity theft can spend months or years correcting the situation. Victims may also lose job opportunities or be refused loans for education, housing, or cars.
 
-Since life and disability insurance is primarily state-regulated, and our Financial Representatives are licensed by state, we need your street address so that we may forward your information to the Network Office nearest you. Your name, phone number and/or email address enable you to be contacted, per your request.
+The Federal Trade Commission (FTC) provides advice to minimize your risk of identity theft and offers assistance for victims of identity theft at [FTC.gov/idtheft](http://www.ftc.gov/idtheft).
 
-If you are interested in obtaining more information regarding becoming a Northwestern Mutual Financial Representative and indicate you would like to have a Northwestern Mutual network office recruiter contact you, we will ask you for:
+Fight identity theft by monitoring and reviewing your credit report regularly. You can view your credit reports from [Equifax](http://www.equifax.com/), [Experian](http://www.experian.com/), and [TransUnion](http://www.transunion.com/) annually for free through [AnnualCreditReport.com](http://www.annualcreditreport.com/).
 
-  * your name
-  * your street address
-  * your phone number
-  * your resume
+One of the most common ways identity thieves trick their victims is through phishing. This occurs when a cybercriminal tries to trick people into revealing confidential information or by installing malicious software (malware) on their computers. A phishing attack can take many forms, although the most common is an email message.
 
+> **Identifying Phishing Messages**  
+>  Phishing messages often contain common “red flags,” including:
+> 
+>   * Generic greetings – Phishing messages often contain generic, non-personalized greetings.
+>   * Urgent or threatening language – Many phishing messages contain urgent or threatening language. Criminals often try to manipulate people’s emotions. Do not fall for that trick. Take the time to examine unsolicited messages carefully.
+>   * Awkward grammar or spelling errors – These may be signs of phishing messages.
+>   * Tricky links and unsolicited attachments – Always be suspicious of links and attachments in unsolicited messages. These may point to malicious sites or contain malicious software.
+> 
 
+> 
+> **Phishing Resources**  
+>  To learn more about phishing and handling phishing messages, see [OnGuardOnline.gov/phishing](http://www.onguardonline.gov/phishing).
 
-When you finish answering the questions requesting this information, the information will be routed in an unencrypted format to Northwestern Mutual and will then be shared with the local Northwestern Mutual office that you select during the application process. This information will not be shared with any other party.
+Social media includes websites and smartphone applications that allow you to stay connected with friends and family – but be careful what you share. Criminals could use the confidential details that you share publicly to conduct identity theft. A few tips will help you stay secure on these sites.
 
-We want to provide our customers with a means to communicate with us 24 hours a day, seven days a week. We do this through our Customer Service email forms.
+  * Most social media sites offer settings and tools to help you restrict who sees your content. Learn how these settings and tools work for each site, and be aware of any updates to how they work.
+  * Realize that criminals can use social media to trick their victims. If a contest seems too good to be true, it most likely is. Links to the latest celebrity gossip or “shocking” pictures can lead to malicious software (malware) or sites designed to steal confidential information.
+  * Children may become victims of cyber-bullying. Depending on the severity of the issue, contact the social media site, school officials, or law enforcement to report the incident. You may want to monitor your child’s social media activity and review their friends list to ensure they are communicating responsibly.
+  * Remember that any information you post online could be saved and accessed forever. Make sure you log out of each application after you are done using it.
 
-In order to provide you with the service you need the most efficient way possible, we will ask you for some or all of the following information:
 
-  * your name
-  * your social security number
-  * your street address
-  * your policy/annuity/IRA number
-  * your Insurance Service Account number (if applicable)
-  * your phone number
-  * your email address
 
+More information about social media safety is available at [StaySafeOnline.org](http://www.staysafeonline.org/).
 
+## Secure Your Devices
 
-This information is for our internal use to service your request, so that we or our administrators may access your customer information. It is not shared with any other third party, unless permitted or required by law.
+Protect your computer from malicious software (malware) by installing and running up-to-date malware protection. A variety of options are available online or at local retail stores.
 
-When you apply for a position at Northwestern Mutual's corporate office in Milwaukee, Wisconsin, you will be asked to register and complete a personal profile. The profile includes career preferences, years of related experience, license/certifications, job type, desired compensation and location. Your profile will help match your career preferences to available positions. You can provide contact information or you may remain anonymous. You can opt-in to receive email notification of available positions matching your profile. You may view and search for available positions without creating a profile.
+To remain secure online, update your operating system (the system that managers your computer’s hardware and software) frequently. Consider activating automated updates if available. Microsoft, Apple, Google, and other operating system vendors frequently update their operating systems. These updates may add functionality, increase security, and fix problems in existing software.
 
-Our corporate opportunities website is hosted by Peopleclick Authoria and, as a result, the information collected through the completion of a personal profile is shared with Peopleclick Authoria. For more information, please view [Peopleclick Authoria's privacy policy](http://www.peopleclickauthoria.com/privacy.aspx).
+Other applications such as iTunes, Adobe Reader, and security software products also typically offer automatic update options.
 
-Any other interactive forms or calculators on this website, including the Longevity Game, are there for your information only. Northwestern Mutual does not track, retain or use any of the data input into these forms, nor is the data in any way linked to you as an individual.
+Mobile devices include smartphones, tablets, laptops, cell phones, and other portable devices. They offer added convenience and flexibility. However, they do require additional protection. Treat your mobile devices as you would your wallet.
 
-This website may contain hyperlinks or "links," to and from other Internet sites. These sites may have different privacy practices from our website. Our Online Privacy Statement applies solely to our site. Please review the online privacy statements of any other Internet sites you may visit. These links also do not imply an affiliation between Northwestern Mutual and the site owner, or any endorsement, approval or verification of any content contained on other websites.
+Consider the following best practices to keep your mobile devices secure:
 
-A cookie is a small piece of information a website can store on your computer. This small text file contains a unique identification number that is transferred from a website to the hard drive of your computer so that the site administrator may identify your computer and passively track its activities on the website. This unique number identifies your Web browser to our computer system whenever you visit our site. A cookie will not allow a website to learn any personally identifiable information (such as your real name and address) that you have not otherwise disclosed.
+  * Use a PIN or password on your mobile device to lock your screen when not in use.
+  * Never leave your mobile device unattended in the open.
+  * Lock your mobile device in a drawer, closet, or hotel safe while you are traveling.
+  * Lock your laptop in the trunk of a car when transporting it in a vehicle.  
+Consider purchasing and using a cable lock to securely lock your laptop to immobile objects.
 
-Cookies are currently used on most major websites and have become an industry standard. Most Web browser preferences can be adjusted to alert you that a cookie will be sent to your hard drive, or you can refuse to receive a cookie. While this website does not require you to use cookies, it is possible that certain services may not function properly if you choose to refuse to receive a cookie.
 
-Clear GIFs or single-pixel GIFs, known as Web beacons, are small files that are placed on Web pages. Web beacons work with cookies and assist in gathering website statistics such as unique visitors and the number of times individual pages are displayed.
 
-This site uses two types of cookies. We use session cookies to ensure better performance and a more enjoyable and consistent user experience from your entry point into our site. Session cookies are also used on the password-protected area of www.northwesternmutual.com, an area that can be accessed through this site. A session cookie is a small text file that is sent to your browser when you access the site and is then stored temporarily in memory. The session cookie is available only during the course of the browser session; the information is not sent to or stored on your computer's hard drive. Closing your browser or logging off will invalidate the session cookie.
+It is important to keep your web browsers up to date to correct any bugs or vulnerabilities that older versions may have.
 
-In addition, this site uses machine cookies, also known as persistent cookies. This site uses persistent cookies in connection with our voluntary "Tell Us What You Think" survey. When you take this voluntary survey, a cookie is sent to and saved on your computer. This cookie will prevent you from again being asked to complete this survey when you revisit this site anytime during the subsequent six month period. This site also uses persistent cookies in connection with gathering website statistics through the SiteCatalyst® services discussed below. This information is only collected in aggregate form. No personal information is collected.
+Download the latest version of your web browser. The following links point to English versions of the web browsers:
 
-This site also uses Web beacons and persistent cookies in connection with online marketing. In connection with this program, this site collects the IP address of the visitor to the site and the IP address information is shared with a third party vendor who assists us with this program. Other than the IP address of the site visitor, no personal information is collected in connection with this program.
+  * [Chrome](http://google.com/chrome)
+  * [Firefox](http://mozilla.org/en-US/firefox)
+  * [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
+  * [Safari](http://apple.com/safari)
 
-This site also contains links to the Northwestern Mutual pages of several third party social media websites and additional links to third party websites that may appear as a “like” button or as a “share” button inside of a “Share” control box contained on several pages on this website. When you click on any such links, the third party website may send a session cookie or a persistent cookie to your computer. Please review the online privacy statements of such third party website for information regarding the online privacy practices of such websites.
 
-Also, when you visit one of the pages on this Northwestern Mutual website that contains a “Share” control box, a third party known as AddThis sends a persistent cookie to your computer. For more information on the online privacy practices of AddThis, please review the AddThis privacy policy located in the bottom right corner of the “Share” control box.
 
-In addition, if you electronically copy content from this website and electronically paste this content into a document, Tynt, a third party service, inserts a hyperlink to originating Northwestern Mutual website page into the copied and pasted content and sends a persistent cookie to your computer. For more information on the online privacy practices of Tynt, please review the Tynt privacy policy located on the [Tynt website](http://www.tynt.com/).
+If your web browser supports automatic updating, consider turning on that feature to ensure you always have the latest version.
 
-To enable us to continually improve on the content we offer our users, as well as for systems administration purposes, we collect aggregate information site-wide. This gives us an idea of which parts of our site users are visiting. We do not link IP addresses to anything personally identifiable, which means a user's session will be tracked, but the user will be anonymous. To assist us in this process, this site uses the SiteCatalyst® services provided by Adobe Systems Incorporated. In connection with the SiteCatalyst® services used by this site, Omniture uses cookies and Web beacons to collect various non-personal information regarding visitors' use of this site, including daily unique visitors, page views, length of time of page views, page navigation paths, time of day of visits, browser type used by visitors, the Internet Service Provider used to connect to the Internet and this site, and the type of operating system used by visitors. Again, this information is only collected in aggregate form. No personal information is collected. For more information, please view [Adobe's privacy policy](http://www.omniture.com/en/privacy/product).
+Wi-Fi allows you to wirelessly connect your mobile devices to the Internet. The following tips can help you remain safe when you use public Wi-Fi networks:
 
-Confidentiality is a top priority at Northwestern Mutual. We are committed to maintaining the highest level of confidentiality with all of the information we receive from our customers, including the information received from this website.
+  * Realize that public Wi-Fi networks are not secure. Other people on the network can view the information you send and receive unless that information is encrypted.
+  * You can tell if your information is encrypted by looking at the web address of the site you are visiting. If the site begins with https://, your information is encrypted and is not visible to others on the network.
+  * If a site begins with anything other than https:// (such as http://), your information is visible to other people on the Wi-Fi network. Do not send or receive confidential information on those sites.
+  * Always log out of your accounts when you are finished.
+  * Beware of "shoulder surfers," thieves who physically watch your activities to steal your confidential information or passwords. Pay attention to your surroundings – leave if you are uncomfortable.  
 
-The Northwestern Mutual website does not contain or have access to information provided to us as part of insurance underwriting, policy service or claims.
 
-We reserve the right to amend this Statement from time to time. Any material change to our online privacy practices will be reflected in this Online Privacy Statement. We will indicate the date this Statement was last updated.
 
-The Northwestern Mutual website is maintained by The Northwestern Mutual Life Insurance Company, 720 E. Wisconsin Avenue, Milwaukee, WI, 53202. Visit the [Contact Us](https://web.archive.org/contact-us/default.aspx) section for additional information.
 
-## NMIS Online Website
+## Manage Records
 
-Last revised: October, 21 2009
+Managing your household records appropriately will help keep your financial affairs in order. Properly disposing of your records when you no longer need them will help protect your confidential information from falling into the wrong hands.
 
-This statement discloses the privacy practices for the NMIS Online website, and includes:
+The U.S. government offers guidance on [managing household records](http://www.usa.gov/Topics/Money/Personal-Finance/Managing-Household-Records.shtml). Review this information to determine how long you should keep important documents.
 
-  * What information is gathered/tracked;
-  * How the information is used; and
-  * Who information is shared with.
+Properly disposing of your records will help prevent dumpster diving. Dumpster diving occurs when criminals sort through trash to find other people’s confidential information.
 
+Work with a trusted technology expert if you have questions about the following recommendations.
 
+  * Always shred your confidential information. Use a crosscut shredder that cuts the documents into small pieces.
+  * Shredders that cut documents into long spaghetti-like strands are not as secure. Properly motivated criminals can reconstruct those strands with enough effort.
+  * Shred DVDs, CDs, diskettes, tapes, and credit cards if possible. High-end shredders often have the capability to shred these items. Always confirm that a shredder can accommodate the items you want to shred.
+  * Before you sell a smartphone, perform a factory reset to remove confidential information from the device.
+  * Consider using secure erase software to wipe, or electronically “shred,” information on a personal computer’s hard drive. At a minimum, take the hard drive out of a laptop or desktop computer before disposing of the old computer.  
 
-Questions regarding this statement should be directed to the site coordinator.
 
-The NMIS Online website collects no personally identifying information about individuals except when specifically and knowingly provided by such. Except as described in this Statement, the Northwestern Mutual Investment Services, LLC ("NMIS") will not release any of said information about you without your permission, unless permitted or required by law.
 
-The NMIS Online website gathers two types of information about people who visit our site: (1) information and data that you provide voluntarily, including user responses to form entry fields; and (2) aggregated tracking information such as IP addresses and home server information.
-
-The NMIS Online website is hosted by a third party, which assists in administering some of the services and transactions. The third party is contractually bound to maintain the confidentiality of any information submitted by visitors to the site and to use such information solely for the purpose of providing the requested services to or on behalf of NMIS and/or its subsidiaries and affiliates.
-
-We want to provide our customers with a means to communicate with us 24 hours a day, seven days a week. We do this through the following Customer Service email forms:
-
-  * A "Contact Us" form that enables users to submit questions/comments about the NMIS Online website;
-  * A "Technical Support" form, which is accessible from the "Contact Us" form, which allows users to report sign-on questions and technical issues; and
-  * A Northwestern Mutual Financial Representative email form, which is accessible from the "Contact Us" form, which allows users to request information about planning and investing from a Northwestern Mutual Financial Representative.
-
-
-
-In order to provide you with the service, we may ask you for identifying information. This information is for our internal use only in order to service your request, and required so that we or our administrators may access your customer information. It is not shared with any other third party, unless permitted or required by law.
-
-While customers can communicate to us 24 hours a day, seven days a week using these vehicles, normal support hours are 7:30 - 5:00 CST.
-
-Any interactive forms or calculators on this website are there for your information only. NMIS does not track, retain or use any of the data input into these forms, nor is the data in any way linked to you as an individual.
-
-This website may contain hyperlinks or "links," to and from other Internet sites. These sites may have different privacy practices from our website. Our Online Privacy Statement applies solely to our site. Please review the online privacy statements of any other Internet sites you may visit. These links also do not imply an affiliation between NMIS and the site owner, or any endorsement, approval or verification of any content contained on other websites.
-
-A cookie is a small piece of information that a website can store on your computer. This small text file contains a unique identification number that is transferred from a website to the hard drive of your computer so that the site administrator may identify your computer and passively track its activities on the website. This unique number identifies your Web browser to our computer system whenever you visit our site. A cookie will not allow a website to learn any personally identifiable information (such as your real name and address) that you have not otherwise disclosed.
-
-Cookies are currently used on most major websites and have become an industry standard. Most Web browser preferences can be adjusted to alert you that a cookie will be sent to your hard drive, or you can refuse to receive a cookie. While this website does not require you to use cookies, it is possible that certain services may not function properly if you choose to refuse to receive a cookie.
-
-This site uses session cookies to ensure better performance and a more enjoyable and consistent user experience from your entry point into our site. A session cookie is a small text file that is sent to your browser when you access the site and is then stored temporarily in memory. The session cookie is available only during the course of the browser session; the information is not sent to or stored on your computer's hard drive. Closing your browser or logging off will invalidate the session cookie.
-
-Additionally, if the user selects the "Yes" radio button when asked "Remember this computer for future logins?", the site places a persistent cookie, or small text file, on your computer's hard drive for up to two years. The persistent cookies allow the site to bypass the security question by "remembering" the user's computer.
-
-To enable us to continually improve on the content we offer our users, as well as for systems administration purposes, we collect aggregate information site-wide. This gives us an idea of which parts of our site users are visiting. We do not link IP addresses to anything personally identifiable, which means a user's session will be tracked, but the user will be anonymous.
-
-Again, this information is only collected in aggregate form. No personal information is collected.
-
-Confidentiality is a top priority at NMIS. We are committed to maintaining the highest level of confidentiality with all of the information we receive from our customers, including the information received from this website.
-
-We reserve the right to amend this Statement from time to time. Any material change to our online privacy practices will be reflected in this Online Privacy Statement. We will indicate the date this Statement was last updated.
-
-The NMIS Online website is maintained by Northwestern Mutual Investment Services, LLC, Suite 600, 611 East Wisconsin Avenue, Milwaukee, WI 53202. To contact us, please email [Technical Support](https://service.nmfn.com/webforms/pershing/techSupportForm.html).
-
-## Northwestern Mutual Wealth Management Company Private Client Services Online Website
-
-Last revised: June 1, 2012
-
-This statement discloses the privacy practices for the Northwestern Mutual Wealth Management Company Private Client Services Online website, and includes:
-
-  * What information is gathered/tracked;
-  * How the information is used; and
-  * Who information is shared with.
-
-
-
-Questions regarding this statement should be directed to the site coordinator.
-
-The Northwestern Mutual Wealth Management Company Private Client Services Online website collects no personally identifying information about individuals except when specifically and knowingly provided by such. Except as described in this Statement, Northwestern Mutual Wealth Management Company will not release any of said information about you without your permission, unless permitted or required by law.
-
-The Northwestern Mutual Wealth Management Company Private Client Services Online website gathers two types of information about people who visit our site: (1) information and data that you provide voluntarily, including user responses to form entry fields; and (2) aggregated tracking information such as IP addresses and home server information.
-
-The Northwestern Mutual Wealth Management Company Private Client Services Online website is hosted by a third party, which assists in administering some of the services and transactions. The third party is contractually bound to maintain the confidentiality of any information submitted by visitors to the site and to use such information solely for the purpose of providing the requested services to or on behalf of Northwestern Mutual Wealth Management Company and/or its parent or affiliates.
-
-Any interactive forms or calculators on this website are there for your information only. Northwestern Mutual Wealth Management Company does not track, retain or use any of the data input into these forms, nor is the data in any way linked to you as an individual.
-
-This website may contain hyperlinks or "links," to and from other Internet sites. These sites may have different privacy practices from our website. Our Online Privacy Statement applies solely to our site. Please review the online privacy statements of any other Internet sites you may visit. These links also do not imply an affiliation between Northwestern Mutual Wealth Management Company and the site owner, or any endorsement, approval or verification of any content contained on other websites.
-
-A cookie is a small piece of information that a website can store on your computer. This small text file contains a unique identification number that is transferred from a website to the hard drive of your computer so that the site administrator may identify your computer and passively track its activities on the website. This unique number identifies your Web browser to our computer system whenever you visit our site. A cookie will not allow a website to learn any personally identifiable information (such as your real name and address) that you have not otherwise disclosed.
-
-Cookies are currently used on most major websites and have become an industry standard. Most Web browser preferences can be adjusted to alert you that a cookie will be sent to your hard drive, or you can refuse to receive a cookie. While this website does not require you to use cookies, it is possible that certain services may not function properly if you choose to refuse to receive a cookie.
-
-This site uses session cookies to ensure better performance and a more enjoyable and consistent user experience from your entry point into our site. A session cookie is a small text file that is sent to your browser when you access the site and is then stored temporarily in memory. The session cookie is available only during the course of the browser session; the information is not sent to or stored on your computer's hard drive. Closing your browser or logging off will invalidate the session cookie.
-
-Additionally, if the user checks the box next to "Please check here if you plan to use this computer for on-going access," the site places a persistent cookie, or small text file, on your computer's hard drive for up to two years. The persistent cookies allow the site to bypass the security questions by "remembering" the user's computer.
-
-To enable us to continually improve on the content we offer our users, as well as for systems administration purposes, we, through the third party host of the site, collect aggregate information site-wide. This gives us an idea of which parts of our site users are visiting. We do not link IP addresses to anything personally identifiable, which means a user's session will be tracked, but the user will be anonymous.
-
-Again, this information is only collected in aggregate form. No personal information is collected.
-
-Confidentiality is a top priority at Northwestern Mutual Wealth Management Company. We are committed to maintaining the highest level of confidentiality with all of the information we receive from our customers, including the information received from this website.
-
-We reserve the right to amend this Statement from time to time. Any material change to our online privacy practices will be reflected in this Online Privacy Statement. We will indicate the date this Statement was last updated.
-
-The Northwestern Mutual Wealth Management Company Private Client Services Online website is maintained by Northwestern Mutual Wealth Management Company, Suite 600, 611 East Wisconsin Avenue, Milwaukee, WI 53202. For more information, please call 1-800-215-4774; options 1, 1.
