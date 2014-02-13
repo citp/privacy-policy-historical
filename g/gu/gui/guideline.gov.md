@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guideline.gov privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229084426id_/http%3A//www.guideline.gov/PrivacyPolicy_NGC.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guideline.gov privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213105355id_/http%3A//www.guideline.gov/PrivacyPolicy_NGC.aspx) for the most accurate reproduction.*
 
 # National Guideline Clearinghouse
 
