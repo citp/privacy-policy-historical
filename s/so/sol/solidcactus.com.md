@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solidcactus.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026230740id_/http%3A//www.solidcactus.com/privacy-policy-v032813) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solidcactus.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213124819id_/http%3A//www.solidcactus.com/privacy-policy-v032813) for the most accurate reproduction.*
 
 # Privacy Policy v032813 - SolidCactus.com
 
