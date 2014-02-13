@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sophia.org privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809115438id_/http%3A//www.sophia.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sophia.org privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213181742id_/http%3A//www.sophia.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Thank you for visiting our Site. This Privacy Policy describes how SOPHIA protects your privacy when you use this Site.
 
 ## Effective Date
 
