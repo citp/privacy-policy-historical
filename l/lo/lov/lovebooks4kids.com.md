@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovebooks4kids.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105183543id_/http%3A//lovebooks4kids.com/index.php%3Fukey%3Dauxpage_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovebooks4kids.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213084000id_/https%3A//lovebooks4kids.com/index.php%3Fukey%3Dauxpage_privacy) for the most accurate reproduction.*
 
 # Privacy Policy ― lovebooks4kids
 
