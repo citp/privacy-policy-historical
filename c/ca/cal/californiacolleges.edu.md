@@ -1,102 +1,118 @@
-> *The following text is extracted and transformed from the californiacolleges.edu privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618075408id_/http%3A//www.californiacolleges.edu/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the californiacolleges.edu privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213232600id_/https%3A//secure.californiacolleges.edu/Home/Privacy.aspx) for the most accurate reproduction.*
 
-# CaliforniaColleges.edu - privacy statement
+# California Colleges - Privacy Policy
 
-Effective as of February 15, 2005
+[CaliforniaColleges.edu](https://web.archive.org/) gives students guidance and support to plan and prepare for college and careers. XAP Corporation (XAP) is the website manager of CaliforniaColleges.edu. Using this website, you can create a student profile with your academic and school transcript information to help you with your educational goals.
 
-Xap Corporation ("Xap"), the company that operates CaliforniaColleges.edu, has adopted the following privacy policy for the information collected at this website. 
+This Privacy Policy explains how the CaliforniaColleges.edu website works and how XAP will work to keep your information safe and secure. As a student user, you have control over your data. Your personal information will not be shared outside of the CaliforniaColleges.edu website without your permission.
 
-As CaliforniaColleges.edu evolves, we may update this privacy policy to reflect changes in the manner in which we deal with personal information, whether to comply with then-applicable regulations and self-regulatory standards or otherwise. The privacy policy posted here will always be current. We encourage you to review this statement regularly. 
+In addition to personal information that you provide to the website, your account may include information provided by your school district derived from your student records. That will be the case for districts or schools that automatically generate user accounts on your behalf, or that enter agreements with the CCGI to obtain services from CCGI to the district. For such districts, agreements between CCGI and the district limit the purposes for which and recipients to which personally identifiable information relating to you may be disclosed, whether the information is provided directly by you or by the school district. The information may be provided only to officials or employees of the district who have a legitimate interest in the information to help you prepare for college; to contractors of the district and their employees who have a parallel interest in the information; to colleges to which you have applied for admission; and to appropriate financial aid organizations in connection with certain determinations concerning your eligibility and conditions for an award of financial aid. If there is no agreement with the district that you attend for the district to provide information from your student records, the only information included in your account will be information that you provide, and you may designate the organizations or categories of officials who may receive that information.
 
-**WHAT THIS PRIVACY POLICY STATEMENT COVERS:**
+You should review this Policy with your parent, a family member, or your school guidance counselor and talk with them about setting up a CaliforniaColleges.edu student account.
 
-  * CaliforniaColleges.edu privacy policy and its exceptions 
-  * The personal identifying information we collect 
-  * Reasons we collect personal identifying information 
-  * Minimum age of 13 required to establish an account 
-  * Ways in which personal identifying information may be used 
-  * With whom personal identifying information may be shared 
-  * Security measures to protect information entrusted to Xap and CaliforniaColleges.edu 
-  * Cookies 
-  * Links 
-  * Modifying and deleting your information 
-  * Amending this Privacy Policy 
-  * Questions 
+### Creating a Student Account
 
+When you create a student account on CaliforniaColleges.edu, you are asked to “Find” the middle school, high school, postsecondary institution, or workforce center that you attend. At any time you can remove the connection between your portfolio and the school you attend, thereby disabling counselors at that school from accessing data in your account. You can do this by going to www.CaliforniaColleges.edu / Your Portfolio / Your Profile / The Basics / My Account is Connected to, and click on “Change.” Then find and click on “None Selected;” click “Continue.”
 
+By selecting a school during this step, you are granting permission for authorized professionals at that school to view information that you enter into your CaliforniaColleges.edu portfolio, some of which may be personal information. If you do not wish to grant this permission, you may specify “None Selected” when asked to “Find” your school during account creation. Before allowing a school employee to view your information, we will work with your school district to confirm that the individual works at the school you attend and that the person has a legitimate interest in your data before that person will be able to view your information.
 
-**CALIFORNIACOLLEGES.EDU PRIVACY POLICY AND ITS EXCEPTIONS**  
-Except as set forth below, personally identifiable data you enter on CaliforniaColleges.edu is not made available or distributed to third parties, except with your express consent or at your express direction. In particular, CaliforniaColleges.edu and Xap will not give, sell or provide access to your personal information to any company, individual or organization for its use in marketing or commercial solicitation or for any other purpose, except with your express consent, at your direction, as is necessary for the operation of this site, or pursuant to one of the exceptions listed below. 
+In the event that CaliforniaColleges.edu wishes to inform you about educational or financial aid and scholarship opportunities, it will only do so if, during your use of the Website, you checked "yes" to the opt-in question to receive such information.
 
-**EXCEPTIONS TO THE PRIVACY POLICY**  
-There are limited exceptions to the CaliforniaColleges.edu privacy policy. When required by law to comply with any valid legal process such as a search warrant, subpoena, statute, regulation or court order, Xap will supply such information contained in your CaliforniaColleges.edu account as Xap reasonably determines, based on the advice of counsel, it is legally required to supply. In addition, Xap may release specific information relevant to special cases, such as a physical threat to you or others or an attempted breach of security on the CaliforniaColleges.edu site. 
+### Reasons We Collect Your Personally Identifiable Information
 
-**THE PERSONAL IDENTIFYING INFORMATION WE COLLECT**  
-CaliforniaColleges.edu collects personal identifying information from you including, but not limited to, your name, date of birth, address, e-mail address, telephone number, grade level, parent's e-mail address, such additional information as you choose to include in your user profile or are required to provide by the college and financial aid applications that you choose to complete, and information associated with activities you have undertaken on CaliforniaColleges.edu. 
+When you are signed on to CaliforniaColleges.edu, your personally identifiable information is collected and stored for three primary reasons:
 
-**REASONS WE COLLECT YOUR PERSONAL IDENTIFYING INFORMATION**  
-CaliforniaColleges.edu collects personal information from you primarily for three reasons. The first reason is to perform a task on CaliforniaColleges.edu, such as filling out a specific college admission application, requested by you. The second reason is to enable you to submit in a convenient and efficient manner information that is likely to be needed when you complete college admission, financial aid and other applications and forms made available through CaliforniaColleges.edu or undertake a scholarship search on CaliforniaColleges.edu, and the third reason is to enable Xap to respond to your questions or contact you when necessary in connection with the functioning of CaliforniaColleges.edu. When the effective functioning of a CaliforniaColleges.edu module does not require personal information, none is collected, and any such module can be accessed without opening an account or providing any personal data. 
-
-When you log on to CaliforniaColleges.edu, your browser will automatically transmit to CaliforniaColleges.edu's server the IP address of your computer and type of browser you are using. Although your browser transmits the IP address of your computer, CaliforniaColleges.edu does not associate this IP address with any personally identifiable information regarding you. CaliforniaColleges.edu does not collect any personally identifiable information other than what users submit and their browsers transmit. 
-
-**MINIMUM AGE OF 13 REQUIRED TO ESTABLISH AN ACCOUNT**  
-CaliforniaColleges.edu will not collect any information from persons who are not yet 13 years old. If you are under 13 years of age, you are not authorized to create an account on CaliforniaColleges.edu, but you can utilize those portions of CaliforniaColleges.edu that do not involve the collection of personal information from users. 
-
-If you are 13 years of age or older, you are encouraged to create an account on CaliforniaColleges.edu and to utilize all of CaliforniaColleges.edu, which will help you plan, prepare and pay for your future education. 
-
-**WAYS IN WHICH PERSONAL IDENTIFYING INFORMATION MAY BE USED**  
-CaliforniaColleges.edu will use your personal identifying information to complete the following forms and surveys, to obtain information for you and to effect transactions on your behalf, in each case only upon your instructions to do so: 
-
-  * Complete applications for admission 
-  * Complete financial aid applications 
-  * Complete financial aid calculators 
-  * Complete a scholarship search 
-  * Complete freshman planners, which can assist you in selecting courses and otherwise planning to meet admission requirements 
-  * Communicate your requests for information or material to colleges or other institutions you have specified 
+  1. We collect your information to help you perform specific tasks on CaliforniaColleges.edu such as completing a college admission application for the colleges that you specify. This includes our collection of information so that you can complete applications and other functions, such as scholarship searches and the Financial Aid Award Estimator, without having to re-type the same information repeatedly. (See the next section of this Policy for other tasks.)
+  2. We collect your information to allow the employees at your school or a community-based organization whom you specifically approve (like your school counselor or teacher, or after-school mentor), to view information you store in your career and college planning portfolio. This allows these individuals to work with you on activities you accomplish on the CaliforniaColleges.edu website.
+  3. We collect your information so that we can respond to your questions or contact you when necessary in connection with the functioning of the CaliforniaColleges.edu website.
 
 
 
-Your personal identifying information may also be used for the following purposes: 
+When a CaliforniaColleges.edu module does not require personal information to function effectively, no personal information is collected. Many parts of our website are available and can be accessed without creating or logging on to an account or providing any personal data.
 
-  * We may use your identifying information to help diagnose problems with CaliforniaColleges.edu's server and to administer the CaliforniaColleges.edu website. 
-  * Summary data representing a compilation of aggregate data representing CaliforniaColleges.edu users may be collected by Xap and provided to various entities including colleges and other educational institutions represented on CaliforniaColleges.edu. NO PERSONAL IDENTIFYING INFORMATION IS MADE AVAILABLE AS PART OF THESE SUMMARY REPORTS. Some examples of summary data are the number of monthly visitors to the site, the number of admission applications submitted over CaliforniaColleges.edu, and the CaliforniaColleges.edu functions utilized by students in specified age or grade ranges. 
+### Ways In Which Personally Identifiable Information May Be Used
+
+CaliforniaColleges.edu can help you in your college and career planning. When you direct us to, we will use your personal information to help you complete certain forms and surveys and effect transactions on your behalf.
+
+If you instruct us to, we will use your personal information stored in your student account to help you with the following:
+
+  * Filling out college and university applications for admission and financial aid and scholarship applications
+  * Using financial aid calculators to help you determine what certain opportunities may cost
+  * Searching for scholarship opportunities
+  * Creating and maintaining your Plan of Study, including using coursework planners that assist you in selecting courses and meeting admission requirements
+  * Career planning, including assistance with building a resume, cover letters and thank you letters
+  * Contacting colleges, universities, and organizations to request information or materials
+  * Allowing a school counselor, or other authorized individual, at the school, institution, college or organization which you have designated to view information that you have saved in your CaliforniaColleges.edu portfolio so that they may assist you with your college and career planning efforts.
+  * Allowing us to diagnose problems with CaliforniaColleges.edu servers or to adequately administer the CaliforniaColleges.edu website
 
 
 
-**WITH WHOM PERSONAL IDENTIFYING INFORMATION MAY BE SHARED**  
-Any time you request that we perform a task that involves a transfer of data, the data related to the performance of that task will be made available to a recipient you designate or to a service provider assisting us in completing that task. For example: 
+### With Whom Personal Identifying Information May Be Shared
 
-  * If you submit an application for admission to a college or other educational institution, the personal data required to complete that application will be provided on your behalf to the admissions office of the institution to which you are applying. 
-  * If you start an application for admission to a college or other educational institution, your name and other data entered on that application may be provided to the admissions office of that institution, even though you have not yet submitted that application to that institution. 
-  * If you request that your data be transferred to FAFSA on the Web to help you fill out your federal financial aid application, data relevant to that application will be provided to a processor specified and authorized to process your financial aid applications (FAFSA) by the U.S. Department of Education. 
-  * If you request that a college or other educational institution send you material, your contact information will be provided to that institution. 
-  * If you request that information saved in your myInfo Portfolio be made available to your high school counselor, high school counseling office or someone else you designate to perform in a comparable role, Xap will permit those whom you have authorized to view personally identifying information about you. 
+Any time you request that we perform a task that involves a transfer of data, the data necessary to perform that task will be made available to the person or organization (like a college) that you designate or to a service provider that assists us to complete that task. For example:
+
+  * When you submit an application for admission to a college, the personal data required to complete that application will be provided on your behalf to the admissions office of the institution you specify.
+  * When you request that your data be transferred to the Free Application for Federal Student Aid (FAFSA), data relevant to that application will be provided to the processor specified and authorized by the U.S. Department of Education to process your FAFSA application.
+  * When you want a college or other educational institution to send you information about the institution, your contact information will be provided to that institution.
+  * When you select your school, college or organization to have access to your student portfolio, or connect your portfolio to counselors at a community based organization of your choosing, authorized individuals at such entities will be able to view information in it.
 
 
 
-In addition, if you start an application for admission to a college or other educational institution, your name and other data entered on that application may be provided to the admissions office of that institution, even though you have not yet submitted that application to that institution. 
+### Non-Personally Identifiable Data Shared with Others
 
-**SECURITY MEASURES TO PREVENT MISUSE OF INFORMATION ENTRUSTED TO CaliforniaColleges.edu**  
-CaliforniaColleges.edu causes the data you input to be encrypted when in route between your browser and the CaliforniaColleges.edu server and when in route between the CaliforniaColleges.edu server and some other browser or server. This practice helps prevent unauthorized third parties from intercepting and gaining access to your private data during transmission over the Internet. CaliforniaColleges.edu uses 56-bit, Secure Socket Layer encryption supported by both Netscape's and Microsoft's browsers. 
+At times, we may produce reports or combine student user data and provide these reports or combined data sets to various entities including colleges and other educational institutions and agencies. Some examples of summary data that we might share are the number of monthly visitors to the site, the number of admission applications submitted over CaliforniaColleges.edu website, and the CaliforniaColleges.edu functions used by students in specified age or grade ranges.
 
-Data residing on the CaliforniaColleges.edu server is password protected, and access is provided only to the account holder who created the password, anyone to whom that account holder entrusted the password, and those employees of Xap who require such access to administer and maintain the CaliforniaColleges.edu system or to provide requested customer support to users of CaliforniaColleges.edu. Each Xap employee who has access to the data residing on the CaliforniaColleges.edu server has agreed in writing to respect the privacy of all such personal data. 
+Whenever we share information for these purposes, we will not reveal any personally identifiable information.
 
-**COOKIES**  
-A cookie is a small file that a website transfers to a user's computer, which may then be stored on its hard drive. CaliforniaColleges.edu uses cookies to remember you and personalize your web-viewing experience by keeping track of your session when logged on to CaliforniaColleges.edu. Cookies enable you to maintain continuity as you move from page to page on CaliforniaColleges.edu and to avoid the nuisance of being asked to provide the same information repeatedly. Cookies also allow us to make sure that only your browser can exchange information regarding your account with our servers. Cookies cannot be used to steal personal information or to gain access to information that you did not directly provide. The cookies we use are set when you log on to CaliforniaColleges.edu and are erased when you log off CaliforniaColleges.edu or completely close your browser. 
+### Security Measures To Prevent Misuse Of Information Entrusted To CaliforniaColleges.edu?
 
-**Don't want cookies?**  
-Most browsers are initially set to accept cookies. If you don't want cookies, you can set your browser to disable or refuse cookies or to alert you when cookies are being used. You should note, however, that various CaliforniaColleges.edu services might not function properly when cookies are not utilized. 
+CaliforniaColleges.edu causes the data you input to be encrypted (coded) when en route between your browser and the CaliforniaColleges.edu server and when en route between the CaliforniaColleges.edu server and some other browser or server. This practice helps prevent unauthorized third parties from intercepting and gaining access to your private data during transmission over the Internet. CaliforniaColleges.edu uses 128-bit, Secure Socket Layer encryption supported by current browsers.
 
-**LINKS**  
-CaliforniaColleges.edu hosts links to other sites or resources, and you may link to one of those sites or resources for a variety of purposes, such as visiting an official college website. These sites and resources have privacy policies that may differ from that of CaliforniaColleges.edu, and for your protection, we recommend that you read and understand the privacy policy at any website prior to providing personal information on that website. Xap is not responsible for the privacy practices or the content of any websites to which CaliforniaColleges.edu links or for the conduct of persons operating those websites. Xap, the colleges, the associations of colleges and the agencies represented on CaliforniaColleges.edu do not have control over, and do not endorse such external sites and resources. Xap, the colleges, the associations of colleges and the agencies represented on CaliforniaColleges.edu shall not be liable for any content, advertising, products or other materials on or available from such sites or resources. In addition, Xap, the colleges, the associations of colleges and the agencies represented on CaliforniaColleges.edu shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, advertising, products or materials on or available through any such site or resource. 
+Data residing on the CaliforniaColleges.edu server is password-protected. Access to your student account and portfolio is provided only to:
 
-**MODIFYING AND DELETING YOUR INFORMATION**  
-You may update, otherwise modify or delete from the data stored on CaliforniaColleges.edu any personal information you previously provided. To modify personal information, (i) log on to CaliforniaColleges.edu, (ii) access either your user profile or an application containing the information you want to change, and (iii) modify that information using standard word-processing techniques. To delete personal information, (i) log on to CaliforniaColleges.edu, (ii) access your user profile, and (iii) delete the information you want to remove from CaliforniaColleges.edu using standard word-processing techniques. Please recognize that if you delete information, it will no longer be available on CaliforniaColleges.edu so that, for example, if a college to which you previously submitted an application were to attempt to retrieve that application from CaliforniaColleges.edu after you made the deletion the deleted information would no longer be accessible. Similarly, when accessed over CaliforniaColleges.edu, information that has been updated or otherwise modified will appear in its then-most current form, rather than in the form in which it may have been submitted at some earlier time. 
+  1. you as the account holder who created the password; and
+  2. employees of XAP who need access to administer and maintain the CaliforniaColleges.edu system or to provide requested customer support to users of CaliforniaColleges.edu. Each employee who has access to the data residing on the CaliforniaColleges.edu server has agreed in writing to respect the privacy of all personal data.
 
-**AMENDING THIS PRIVACY POLICY**  
-Xap may amend this Privacy Policy from time to time. Unless legal obligations require faster implementation, if Xap makes any substantial changes to this Privacy Policy concerning use of your personal information Xap will notify you by posting a message on the CaliforniaColleges.edu homepage for at least thirty days. Thereafter, the new privacy policy will apply to all data previously submitted or subsequently submitted to CaliforniaColleges.edu, unless such use if prohibited by law. If you do not wish to have your information used in accordance with a newly posted privacy policy, you should modify or delete the relevant information in the manner described in the preceding section, "Modifying and Deleting Your Information." 
 
-**QUESTIONS**  
-If you have any questions about this Privacy Policy and the privacy practices on this site, you may contact us at [privacy@californiacolleges.edu](mailto:privacy@californiacolleges.edu). 
 
-|  | 
+### Cookies
+
+A cookie is a small file that a website transfers to a user's computer, which may then be stored on its hard drive. CaliforniaColleges.edu uses cookies to remember you and personalize your web-viewing experience by keeping track of your session when logged on to CaliforniaColleges.edu. Cookies enable you to maintain continuity as you move from page to page on CaliforniaColleges.edu and to avoid the nuisance of being asked to provide the same information repeatedly. Cookies also allow us to make sure that only your browser can exchange information regarding your account with our servers. Cookies cannot be used to steal personal information or to gain access to information that you did not directly provide. The cookies we use are set when you log on to CaliforniaColleges.edu and are erased when you log off CaliforniaColleges.edu or completely close your browser.
+
+Don't want cookies? Most browsers are initially set to accept cookies. If you don't want cookies, you can set your browser to disable or refuse cookies or to alert you when cookies are being used. You should note, however, that various CaliforniaColleges.edu services might not function properly when cookies are not utilized.
+
+### Links
+
+CaliforniaColleges.edu hosts links to other sites or resources, and you may link to one of those sites or resources for a variety of purposes, such as visiting an official college website. These sites and resources have privacy policies that may differ from that of CaliforniaColleges.edu, and for your protection, we recommend that you read and understand the privacy policy at any website prior to providing personal information on that website.
+
+Neither CCGI nor XAP is responsible for the privacy practices or the content of any websites to which CaliforniaColleges.edu links or for the conduct of persons operating those websites. CCGI, XAP, and the colleges, the associations of colleges and the agencies represented on CaliforniaColleges.edu do not have control over, and do not endorse such external sites and resources. CCGI, XAP and the colleges, the associations of colleges, and the agencies represented on CaliforniaColleges.edu shall not be liable for any content, advertising, products, or other materials on or available from such sites or resources. In addition, CCGI, XAP and the colleges, the associations of colleges, and the agencies represented on CaliforniaColleges.edu shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, advertising, products, or materials on or available through any such site or resource.
+
+### Modifying and Deleting Your Information
+
+You may update, otherwise modify, or delete any of the personal information you provide to the CaliforniaColleges.edu website. In cases where data was provided by your school or school district, you may not be able to update, delete or otherwise modify the data, except through procedures of the school or school district.
+
+To **modify** your personal information,
+
+> (i) sign in to CaliforniaColleges.edu,   
+>  (ii) access either your portfolio or an application containing the information you want to change, and   
+>  (iii) modify that information using standard word-processing techniques.
+
+To **delete** personal information that is not a required field to be completed in your portfolio,
+
+> (i) sign in to CaliforniaColleges.edu,   
+>  (ii) access your portfolio, and   
+>  (iii) delete the information you want to remove from CaliforniaColleges.edu using standard word-processing techniques, and (iv) save the change.
+
+To delete personal information that is a required field for your portfolio, you will need to contact XAP at 1-800-GOTO-XAP and request that your profile be deleted.
+
+If you delete information, it will no longer be available on CaliforniaColleges.edu so that, for example, if a college to which you previously submitted an application tried to retrieve your application from CaliforniaColleges.edu after you made the deletion, the deleted information would no longer be accessible. Similarly, when accessed over CaliforniaColleges.edu information that has been updated or otherwise modified will appear in its then-most current form, rather than in the form in which it may have been submitted at some earlier time.
+
+### Compliance with Privacy Laws
+
+The CaliforniaColleges.edu Website complies fully with the requirements of the federal Family Educational Rights and Privacy Act of 1974, as amended, 20 U.S.C. Sec. 1232g (FERPA), and all federal and state guidelines applicable and adopted in accordance therewith.
+
+Further, in compliance with the Children’s Online Privacy Protection Act of 1998, 15 U.S.C. Sec. 6501-6506 (“COPPA”) and consistent with the Privacy Policy of the Website, no personal information is collected from persons under the age of thirteen. If you are under the age of 13 and you create an account on CaliforniaColleges.edu, you will be prevented from entering personal information related to you or your family on the website.
+
+### Contact
+
+If you have any questions about this Policy or if you believe your personal data may have been shared improperly, please contact us at: [support@californiacolleges.edu](mailto:support@californiacolleges.edu).
