@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megainformationtech.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016163100id_/http%3A//www.megainformationtech.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megainformationtech.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213073343id_/http%3A//www.megainformationtech.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
