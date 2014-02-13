@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roundpulse.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807190856id_/http%3A//www.roundpulse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roundpulse.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213082324id_/http%3A//www.roundpulse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer
 
@@ -6,7 +6,7 @@ At Round Pulse, we appreciate your privacy and make sure that your personal info
 
 ## Do We Collect Your Personal Information?
 
-As per our privacy policy, we don’t collect any kind of personal information of our readers without their intention. The only way will collect and store your personal information is through [contact form](http://www.roundpulse.com/tag/contact-form "contact form") or the subscription option at our website, other than that, there is no way through which we ever collect your personal information.
+As per our privacy policy, we don’t collect any kind of personal information of our readers without their intention. The only way will collect and store your personal information is through contact form or the subscription option at our website, other than that, there is no way through which we ever collect your personal information.
 
 ## How Do We Use Your Personal Information?
 
