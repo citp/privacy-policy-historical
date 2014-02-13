@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the naturalwellbeing.com privacy policy that was archived on 2013-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131222044731id_/http%3A//www.naturalwellbeing.com/nwb/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the naturalwellbeing.com privacy policy that was archived on 2014-02-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140213040134id_/http%3A//www.naturalwellbeing.com/nwb/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://developers.facebook.com/schema/" xmlns:og="http://opengraphprotocol.org/schema/"><head>
 <title>NaturalWellbeing.com Privacy Policy</title>
@@ -27,20 +27,20 @@
 <link rel="shortcut icon" href="/nwb/images/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/nwb/images/favicon.ico" type="image/x-icon">
 
-<link href="/stylesheets/nwb.css?1387485151" media="screen" rel="stylesheet" type="text/css">
+<link href="/stylesheets/nwb.css?1392244739" media="screen" rel="stylesheet" type="text/css">
 
 <link href="http://d2g2rxm5xqijox.cloudfront.net/stylesheets/nwb_print.css" media="print" rel="stylesheet" type="text/css">
 
 
-<link href="/pwr/engine/pr_styles_review.css?1387443668" media="screen" rel="stylesheet" type="text/css">
+<link href="/pwr/engine/pr_styles_review.css?1392195698" media="screen" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="http://assets.resultspage.com/autosuggest/autosuggest.css" media="screen" type="text/css">
 
-<link href="/stylesheets/flexslider.css?1387485151" media="screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/nwb_responsive.css?1387485151" media="screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/responsive_style.css?1387485151" media="screen" rel="stylesheet" type="text/css">
+<link disabled="true" href="/stylesheets/flexslider.css?1392244739" media="screen" rel="stylesheet" title="mobilecss" type="text/css">
+<link disabled="true" href="/stylesheets/nwb_responsive.css?1392244739" media="screen" rel="stylesheet" title="mobilecss" type="text/css">
+<link disabled="true" href="/stylesheets/responsive_style.css?1392244739" media="screen" rel="stylesheet" title="mobilecss" type="text/css">
 
 
-<script src="/javascripts/jquery-core.js?1387485152" type="text/javascript"></script>
+<script src="/javascripts/jquery-core.js?1392244739" type="text/javascript"></script>
 
 
 
@@ -77,7 +77,7 @@
 
 
 <!-- end of 4Q code -->
-  <script src="/javascripts/jquery-site.js?1387485152" type="text/javascript"></script>
+  <script src="/javascripts/jquery-site.js?1392244739" type="text/javascript"></script>
 
   <script language="javascript" type="text/javascript">
     var sliJsHost = (("https:" == document.location.protocol) ? "https://"  : "http://" );
@@ -178,6 +178,8 @@ show
             <li><a href="/" title="Home">Home</a></li>
 			<li><a href="/meetexperts" title="Expert Advice">Expert Advice</a></li>
 			<li><a href="/orders/new" title="Cart">My Cart</a></li>
+          <li><a title="switch to mobile version" class="mobileview_switch" onclick="javascript:switch_to_mobile_view();$(this).parent().parent().removeClass('show');">Mobile Version</a>
+            <a title="switch to desktop version" class="desktopview_switch" onclick="javascript:switch_to_desktop_view();$(this).parent().parent().removeClass('show');">Full Website Version</a></li>
 		</ul>
 	  </li>
       <li id="nav2"><a href="/c/condition" id="conditions" title="Products">Health Condition</a></li><li>
@@ -189,6 +191,8 @@ show
 			<li><a href="/c/condition/womens-health" title="Women">Women</a></li>
 			<li><a href="/pets" title="pets">Pets</a></li>
 			<li><a href="/c/condition/childrens-health" title="kids">Kids</a></li>
+          <li><a title="switch to mobile version" class="mobileview_switch" onclick="javascript:switch_to_mobile_view();$(this).parent().parent().removeClass('show');">Mobile Version</a>
+            <a title="switch to desktop version" class="desktopview_switch" onclick="javascript:switch_to_desktop_view();$(this).parent().parent().removeClass('show');">Full Website Version</a></li>
 		</ul>
 	  </li>
       <li id="nav3"><a href="/meetexperts" id="navexperts" title="Meet Experts">Meet Our Experts<i></i></a></li>
@@ -287,13 +291,13 @@ $(document).ready(function(){
       $(document).ready(function(){
           /*floating js*/
           function isMobile(){
-              if( navigator.userAgent.match(/Android/i) ||
+              if(( navigator.userAgent.match(/Android/i) ||
                       navigator.userAgent.match(/webOS/i) ||
                       navigator.userAgent.match(/iPhone/i) ||
                       navigator.userAgent.match(/iPod/i) ||
                       navigator.userAgent.match(/iPad/i) ||
                       navigator.userAgent.match(/BlackBerry/)
-                      ){
+                      ) && $.cookie('DisableMobileStyle')!='yes'){
                   return true
               }
               return false
@@ -525,12 +529,62 @@ $(document).ready(function(){
 
 
  
+    <div class="title"><a href="http://www.naturalwellbeing.com/orders/R112552430/edit">Shipping Calculator</a></div>
+    <div id="shipping_calculator" class="shipping_calculator">
+      <p>
+        </p><div class="usaoption"><input id="calculator_zone_usa" name="calculator_zone" type="radio" value="usa"> USA</div>
+        <div class="internationaloption"><input id="calculator_zone_international" name="calculator_zone" type="radio" value="international"> International</div>
+        <div class="clear"></div>
+      <p></p>
+      <div id="usa_options">
+        <input id="calculator_zipcode" name="calculator_zipcode" type="text" value="enter zip">
+        <button class="enter_button"></button><br>
+      </div>
+      <div id="international_options">
+        <select id="calculator_country" name="calculator_country"><option value="1">Afghanistan</option>
+<option value="12">Australia</option>
+<option value="13">Austria</option>
+<option value="15">Bahamas</option>
+<option value="18">Barbados</option>
+<option value="20">Belgium</option>
+<option value="21">Belize</option>
+<option value="23">Bermuda</option>
+<option value="28">Brazil</option>
+<option value="35">Canada</option>
+<option value="37">Cayman Islands</option>
+<option value="53">Denmark</option>
+<option value="68">France</option>
+<option value="74">Germany</option>
+<option value="89">Hong Kong</option>
+<option value="91">Iceland</option>
+<option value="96">Ireland</option>
+<option value="98">Italy</option>
+<option value="99">Jamaica</option>
+<option value="100">Japan</option>
+<option value="117">Luxembourg</option>
+<option value="130">Mexico</option>
+<option value="133">Monaco</option>
+<option value="142">Netherlands</option>
+<option value="145">New Zealand</option>
+<option value="163">Portugal</option>
+<option value="188">Spain</option>
+<option value="194">Sweden</option>
+<option value="195">Switzerland</option>
+<option value="213">United Kingdom</option></select>
+        <button class="enter_button"></button><br>
+      </div>
+      <p id="calculator_methods" style="display:none;">
+        <select id="calculator_available_methods" name="calculator_available_methods"></select>
+      </p>
+      <img alt="Verifying" id="calculator_progress" src="/nwb/images/verifying.gif?1392244739">
+    </div>
+  
 
 </div>
 
 <script type="text/javascript">
   jQuery(document).ready(function(){
-    var order_total = 0;
+    var order_total = 458.85;
     
       var shipping_methods = [];
     
@@ -551,7 +605,7 @@ $(document).ready(function(){
         opts = {country_id: $("select#calculator_country").val()}
       }
 
-      jQuery.getJSON("http://www.naturalwellbeing.com/orders/R122106481/calculate_shipping", opts,
+      jQuery.getJSON("http://www.naturalwellbeing.com/orders/R112552430/calculate_shipping", opts,
         function(data){
           shipping_methods = data;
 
@@ -632,7 +686,7 @@ $(document).ready(function(){
       var value = $(this).val();
       var opts = {"shipping_method": value}
 
-      jQuery.post("http://www.naturalwellbeing.com/orders/R677330453/checkout/set_shipping_method", opts,
+      jQuery.post("http://www.naturalwellbeing.com/orders/R112552430/checkout/set_shipping_method", opts,
         function(data){
            $.each(shipping_methods, function(i,rate){
               if(rate.id+"" == value){
@@ -745,6 +799,7 @@ height: 65px" src="/nwb/images/accredited.jpg" alt="Click to verify BBB accredit
                   <a href="/nwb/terms"> Terms and Conditions</a>
                   <a href="/nwb/privacy_policy">  Privacy Policy</a>
                    <a href="/nwb/refund_policy">Refund Policy</a>
+              <a href="/nwb/wholesale">Wholesale &amp; Partnership Opportunities</a>
                 </p>
 
 
@@ -760,6 +815,7 @@ height: 65px" src="/nwb/images/accredited.jpg" alt="Click to verify BBB accredit
 
 <div class="clear"></div>
 
+<div id="footer_helper"><label>View:</label><a title="switch to mobile version" class="mobileview_switch" onclick="javascript:switch_to_mobile_view()">mobile</a>|<a title="switch to desktop version" class="desktopview_switch" onclick="javascript:switch_to_desktop_view()">desktop</a></div>
 
             <!-- END: FOOTER -->
 
@@ -776,13 +832,13 @@ height: 65px" src="/nwb/images/accredited.jpg" alt="Click to verify BBB accredit
                 <div class="us_product country_specific_214">All Products Shipped From McDonough, Georgia USA</div>
               </div>
               <div class="pdf_product fltleft"><a href="/nwb/MailFaxOrder.pdf">Fax/Mail Order Form<br><em>(Requires Adobe Acrobat)</em></a></div>
-              <div class="customer_call fltleft">Copyright © 2001-2013</div>
+              <div class="customer_call fltleft">Copyright © 2001-2014</div>
               <div class="clrflt"></div>
         </div>
     </div>
   </div>
 
-<script src="/javascripts/responsive_scripts.js?1387485152" type="text/javascript"></script>
+<script src="/javascripts/responsive_scripts.js?1392244739" type="text/javascript"></script>
 <script src="http://www.naturalwellbeing.com/customize.js" type="text/javascript"></script>
 
   
