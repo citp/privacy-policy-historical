@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartlandamerica.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816114853id_/http%3A//www.heartlandamerica.com/service/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartlandamerica.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213070750id_/http%3A//www.heartlandamerica.com/service/privacy.asp) for the most accurate reproduction.*
 
 # Heartland America: Privacy Policy
 
@@ -25,7 +25,7 @@ Security
 This web site takes significant precautions to protect confidential information. When you submit sensitive information via the website, your information is sent using the latest in encryption technology (provide by Verisign Inc.).
 
 Email Promotion Subscriptions   
-Upon placing an order through the Site, you will begin receiving the Heartlandamerica.com email newsletter, based on the Personal Information you have provided, unless you opt-out of receiving such communications. Our subscribers receive special deals, closeouts, and product liquidations. Every communication we send allows you to unsubscribe if you change your mind and decide not to receive email from us. To stop receiving promotional emails or newsletters from us by sending an email to the contact address below or by [clicking here to unsubscribe](https://web.archive.org/web/20130816114853id_/http%3A//www.heartlandamerica.com/service/email_preferences.asp?GUID=DA05877D-0DB2-4EA2-8B58-51DF4215B5D4).
+Upon placing an order through the Site, you will begin receiving the Heartlandamerica.com email newsletter, based on the Personal Information you have provided, unless you opt-out of receiving such communications. Our subscribers receive special deals, closeouts, and product liquidations. Every communication we send allows you to unsubscribe if you change your mind and decide not to receive email from us. To stop receiving promotional emails or newsletters from us by sending an email to the contact address below or by [clicking here to unsubscribe](https://web.archive.org/web/20140213070750id_/http%3A//www.heartlandamerica.com/service/email_preferences.asp?GUID=20097DBF-7079-4A6D-9EBC-4658418612B3).
 
 Email: [info@heartlandamerica.com](mailto:info@heartlandamerica.com)  
 Phone: 1-800-229-2901 
