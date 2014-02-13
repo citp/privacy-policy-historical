@@ -1,63 +1,56 @@
-> *The following text is extracted and transformed from the rsbuddy.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203222143id_/http%3A//rsbuddy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsbuddy.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213042257id_/https%3A//rsbuddy.com/orion/docs/privacy.php) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy - Orion - RSBuddy
 
-4 June 2011 
+## Introduction
 
-**Introduction**
+This privacy statement sets out our policy with respect to the privacy of visitors to our website and the manner in which we collect, store and use personal information derived from our visitors. We have adopted this policy voluntarily and may update the policy from time to time.
 
-This privacy statement sets out our policy with respect to the privacy of visitors to our website and the manner in which we collect, store and use personal information derived from our visitors. 
+## Which Websites does this Policy apply to?
 
-We have adopted this policy voluntarily and may update the policy from time to time. 
+This policy applies to the following websites ("the Site"): 
 
-**Which Websites does this Policy apply to?**
+www.automatonsoftware.com   
+www.rsbuddy.com 
 
-This policy applies to the following websites (“ **the Site** ”): 
+This policy does not apply to information obtained other than through the Site.
 
-[www.rsbuddy.com](http://rsbuddy.com/)
+## What Personal Information is collected by us?
 
-This policy does not apply to information obtained other than through the Site. 
+We collect information which is volunteered by you. Sometimes this information is necessary to operate certain aspects of our website (e.g. where you have subscribed to be a registered user, we would require your email address). Other information may be requested to improve the Site and/or the services we offer from the Site. The information may be requested at various stages of your visiting the Site, for example, use of forums and message boards or registration as a member. In all cases, the type of information requested will be clear to you. 
 
-**What Personal Information is collected by us?**
+## How we will use Personal Information collected at the Site?
 
-We collect information which is volunteered by you. Sometimes this information is necessary to operate certain aspects of our website (e.g. where you have subscribed to be a registered user, we would require your email address). Other information may be requested to improve the Site and/or the services we offer from the Site. 
+Demographic information (i.e. information relating to age, gender, location etc. but not specifically identifying you) may be aggregated and disclosed to third parties. This information will never identify you or your computer personally.
 
-The information may be requested at various stages of your visiting the Site, for example, use of forums and message boards or registration as a member. In all cases, the type of information requested will be clear to you. 
+We do not store credit card information entered for payments made at the Site. This information is stored by the payment partner you select when making a purchase.
 
-**How we will use Personal Information collected at the Site**
+We may use your personal information (e.g. your name and contact details) to update you on the services and features that we provide from the Site, unless you have specifically opted out of this feature through the opt out procedures.
 
-Demographic information (i.e. information relating to age, gender, location etc. but not specifically identifying you) may be aggregated and disclosed to third parties. This information will never identify you or your computer personally. 
+We will not sell or disclose your personal information to third parties without your prior consent.
 
-We may use your personal information (e.g. your name and contact details) to update you on the services and features that we provide from the Site, unless you have specifically opted out of this feature through the opt out procedures. 
+We may make available services such as message boards, chat functionality and blogs, among other services to which you are able to post information and materials. Please note that any information you disclose through such services or otherwise on the Site becomes public information, and may be available to registered users of the Site and to the general public. In addition, when you choose to make a posting on such services, certain personal data, will be available for other users to view. We urge you to exercise discretion and caution when deciding to disclose personal data about yourself, or any other information, on the Site.
 
-We will not sell or disclose your personal information to third parties without your prior consent. 
+## Cookies
 
-We may make available services such as message boards, chat functionality and blogs, among other services to which you are able to post information and materials. Please note that any information you disclose through such services or otherwise on the Site becomes public information, and may be available to registered users of the Site and to the general public. In addition, when you choose to make a posting on such services, certain personal data, will be available for other users to view. We urge you to exercise discretion and caution when deciding to disclose personal data about yourself, or any other information, on the Site. 
+A cookie is a small information file that is saved to your computer's hard disk to store information about yourself so that when you visit the website subsequently you do not have to enter that information again. The Site makes use of cookies for this purpose unless you have selected to disable cookies. In addition, we may store on our servers your IP address so that we can identify returning visitors to our site. We do not link your IP address to any personal information. 
 
-**Cookies**
+## Management of your Personal Information
 
-A cookie is a small information file that is saved to your computer’s hard disk to store information about yourself so that when you visit the website subsequently you do not have to enter that information again. The Site makes use of cookies for this purpose unless you have selected to disable cookies. 
+If you are registered user, you will be entitled to update and/or remove your personal information from our Site by following the procedure laid out at the Site and/or contacting us at support@automatonsoftware.com.
 
-In addition, we may store on our servers your IP address so that we can identify returning visitors to our site. We do not link your IP address to any personal information. 
+## Security
 
-**Management of your Personal Information**
+We will use all reasonable measures to ensure the security of your personal information held by us.
 
-If you are registered user, you will be entitled to update and/or remove your personal information from our Site by following the procedure laid out at the Site and/or contacting us at [admin@rsbuddy.com](mailto:admin@rsbuddy.com). 
+## Changes to this Privacy Policy
 
-**Security**
+We may from time to time update this privacy policy. You may determine the latest update by reference to the date at the top of this statement. Any significant departures from this privacy policy will be notified to you via the email address you have provided to us when registering to use the Site and/or via updates on the Site.
 
-We will use all reasonable measures to ensure the security of your personal information held by us. 
+## Children under 13
 
-**Changes to this Privacy Policy**
+We will not hold personal information where the subject has disclosed that it is under the age of 13 unless we have also received permission of a parent or guardian.
 
-We may from time to time update this privacy policy. You may determine the latest update by reference to the date at the top of this statement. Any significant departures from this privacy policy will be notified to you via the email address you have provided to us when registering to use the Site and/or via updates on the Site. 
+## Comments and Suggestions
 
-**Children under 13**
-
-We will not hold personal information where the subject has disclosed that it is under the age of 13 unless we have also received permission of a parent or guardian. 
-
-**Comments and Suggestions**
-
-We are committed to developing a practical and user-friendly privacy policy. If you have any comments or suggestions regarding this, please send them to: 
-
-[admin@rsbuddy.com](mailto:admin@rsbuddy.com)
+We are committed to developing a practical and user-friendly privacy policy. If you have any comments or suggestions regarding this, please send them to: [support@automatonsoftware.com](mailto:support@automatonsoftware.com). 
