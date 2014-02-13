@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the rescuetime.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020143728id_/https%3A//www.rescuetime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rescuetime.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214002933id_/https%3A//www.rescuetime.com/privacy) for the most accurate reproduction.*
 
 # RescueTime - Privacy Policy
 
 ## Privacy Policy
 
-**Last updated on October 1, 2013.** You might also be interested in our specific [RescueTime privacy features](https://web.archive.org/privacy_checklist).
+**Last updated on February 1, 2014.** You might also be interested in our specific [RescueTime privacy features](https://web.archive.org/privacy_checklist).
 
 By using RescueTime, you are agreeing to the collection and use of your personal information as described below. We will notify all active accounts of any significant changes to this policy.
 
 ## Summary (or "The Gist")
 
-Your privacy is really important to us, and we recognize that it's a major concern that some people have with RescueTime. If you have any concerns that aren't covered here, please [contact us](https://web.archive.org/contact/). Below are the highlights of this policy:
+Your privacy is really important to us. If you have any concerns that aren't covered here, please [contact us](https://web.archive.org/contact/). Below are the highlights of this policy:
 
   1. We will never sell, rent, or share your personal information without your explicit consent, with or without personally identifying information.
   2. We may share information about user behavior in the aggregate only. For example, we could share information like, "which day of the week do people spend the most time in front of their computer?"
