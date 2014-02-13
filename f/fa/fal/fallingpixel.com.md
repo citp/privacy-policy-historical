@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fallingpixel.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106011648id_/http%3A//www.fallingpixel.com/support.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fallingpixel.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213060815id_/http%3A//www.fallingpixel.com/support.php/privacy) for the most accurate reproduction.*
 
 # Support :: Falling Pixel
 
@@ -20,7 +20,7 @@ Your information is collected and stored on secure servers. We may keep your inf
 **Our e-mail newsletters**  
 Upon registration you will be included to receive newsletters and promotional material from our service. We will provide those newsletter(s) to you free of charge, unless otherwise stated. 
 
-Our newsletters may contain promotions or advertisements relating to goods or services provided by us and associated third parties from time to time. If at any time you wish to unsubscribe from an email newsletter you may do so by following the unsubscribe instructions on the newsletter, on the Website through the my details page in the Falling Pixel member area, or by visiting [http://support.turbosquid.com](http://support.turbosquid.com/home) and create and account for assistance.
+Our newsletters may contain promotions or advertisements relating to goods or services provided by us and associated third parties from time to time. If at any time you wish to unsubscribe from an email newsletter you may do so by following the unsubscribe instructions on the newsletter, on the Website through the my details page in the Falling Pixel member area, or by visiting [http://support.turbosquid.com](http://support.turbosquid.com/home) and create an account for assistance.
 
 **Artist product uploads**  
 When creating a product listing on the site the information will remain inactive until you choose to active it. Upon activation information submitted on the product listing will become visible to the public. Uploaded files will remain secure on our servers and associated product files will become available for download by a purchasing customer. Active uploaded product information may be used to market your products and the Falling Pixel service. 
