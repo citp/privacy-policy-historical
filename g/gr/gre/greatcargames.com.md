@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatcargames.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806085356id_/http%3A//www.greatcargames.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatcargames.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213204415id_/http%3A//www.greatcargames.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | GreatCarGames.com
 
@@ -9,6 +9,10 @@
 Websites visited through links from this website may or may not have their own privacy statements and **www.GreatCarGames.com** is not responsible for the privacy practices or contents of those sites.
 
 **What Information Is Collected?**
+
+**www.GreatCarGames.com** implemented the following Google Analytics features based on Display Advertising: Google Analytics Demographics and Interest Reporting.
+
+You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads "Ads Settings").
 
 We only collect personal information from registered members. Visitors are required to be 13 years or older to register. If not they must be accompanied by a parent or guardian who is directly supervising them. If you are not 13 years of age, have your parents review these Terms of Use and help you register. During the registration we collect a full name, valid e-mail address, birth date, gender and country. Additionally, when visitors come to our site, we automatically collect some non-personally identifiable "computer" information, such :
 
