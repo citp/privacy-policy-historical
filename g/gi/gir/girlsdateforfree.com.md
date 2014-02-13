@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsdateforfree.com privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916012542id_/http%3A//www.girlsdateforfree.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsdateforfree.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213190413id_/http%3A//www.girlsdateforfree.com/privacy.cfm) for the most accurate reproduction.*
 
 # Your privacy and safety at GirlsDateForFree
 
@@ -90,7 +90,7 @@ We may share your information with our Partner Sites and Group Companies to deve
 **(b) When third parties market to you (Our “third party Partner Services”)**  
 If you have consented to receive marketing communications from third parties during our sign up process, referred to as Partner Services, your data may be passed on to such third parties as we enter into data sharing agreements with, from time to time, for marketing and analytical reporting purposes. We cannot be held liable for the content of the third party’s communications or products/services they are promoting. If you have provided this consent, but change your mind, you can opt-out at any time (see below). Please be advised that you will also require to contact the individual third parties who have been marketing to you if you wish to stop receiving their communications directly.  
 **(c) Opting Out of Marketing**  
-If you change your mind about the marketing consent you have granted to us, you can amend your preferences under the “My Account” section of your chosen Site or emailing us at [unsubscribe-br@girlsdateforfree.com](mailto:unsubscribe-br@girlsdateforfree.com)  
+If you change your mind about the marketing consent you have granted to us, you can amend your preferences under the “My Account” section of your chosen Site or emailing us at [unsubscribe@girlsdateforfree.com](mailto:unsubscribe@girlsdateforfree.com)  
 **6\. WHERE WE STORE YOUR DATA**  
 The personal data that we collect from you may be transferred to, and stored at, a location outside the European Economic Area ( **'EEA'** ) including but not limited to Canada where we host our servers. It may also be processed by law enforcement agencies, employees and independent contractors of our Group Companies located outside the EEA who work for us or for one of our suppliers (for example, staff who are involved in providing services that you order from us, processing your payment details or providing support services to us). By submitting your personal data to us, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.  
 **7\. HOW LONG WE KEEP YOUR DATA FOR**  
