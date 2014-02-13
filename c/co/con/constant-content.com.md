@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the constant-content.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817023422id_/https%3A//www.constant-content.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constant-content.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213123816id_/https%3A//www.constant-content.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Constant-Content.com
 
@@ -61,7 +61,7 @@ Only authorized employees have access to the information you provide us. For exa
 
 ### 6\. Contacting Us
 
-If you have questions about this privacy policy or the practices of this site, [please contact us.](https://web.archive.org/web/20130817023422id_/https%3A//www.constant-content.com/area/contact.htm)
+If you have questions about this privacy policy or the practices of this site, [please contact us.](https://web.archive.org/web/20140213123816id_/https%3A//www.constant-content.com/area/contact.htm)
 
 ***Constant-Content reserves the right to change this Privacy Policy at any time. All changes will be posted to this page. we will use commercially reasonable efforts to notify you of any material changes to this privacy policy.   **
 
