@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dragdis.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812184901id_/https%3A//www.dragdis.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragdis.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213093627id_/https%3A//dragdis.com/privacy_policy) for the most accurate reproduction.*
 
-# About | dragdis
+# Dragdis
 
 Dragdis's products and services are provided by UAB Dragdis and Dragdis, LLC (hereinafter, “we,” “us,” and “our”). This Privacy Policy governs your use of Dragdis's website and products. By accessing or using our products, you agree to be bound by this Privacy Policy and by our Terms of Service. 
 
