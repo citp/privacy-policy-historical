@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsoxy.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102190532id_/http%3A//www.newsoxy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsoxy.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213130922id_/http%3A//www.newsoxy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - NewsOXY
+# Privacy Policy - Articles News | NewsOXY
 
 The following discloses our information gathering and dissemination practices for this Web site: NewsOXY.com and network sites. The NewsOXY.com and network Web sites (“sites”) are operated by NewsOXY, LLC. (“NewsOXY.com”). You can reach us with questions regarding this statement via the contact page.
 
