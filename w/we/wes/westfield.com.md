@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the westfield.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502040904id_/http%3A//www.westfield.com/us/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westfield.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213172834id_/http%3A//www.westfield.com/us/help/privacy-policy) for the most accurate reproduction.*
 
 # Westfield - United States Privacy Policy Statement
 
-**This is the privacy policy** for Westfield United States' http://westfield.com web site (the " _Westfield Website_ ").
+This is the privacy policy for Westfield United States' http://westfield.com web site and any other web site owned, operated, licensed or controlled by Westfield United States  or any of its related, affiliated, or subsidiary companies (the " _Westfield Website_ ").
 
-Material in the Westfield Website and any other Internet web site owned, operated, licensed, or controlled by the Westfield Group or any of its related, affiliated, or subsidiary companies (together, " _Westfield_ "). This Privacy Policy governs only the Westfield Website in the United States and does not cover websites for any other Westfield website or any subsidiaries and affiliates of Westfield (collectively, "Affiliates").
+This Privacy Policy governs only the Westfield Website in the United States and does not cover any other Westfield website.  As used herein, "Westfield" means the Westfield Group or any of its related, affiliated, or subsidiary companies, and “Affiliates” means any subsidiaries and affiliates of Westfield.
 
 This Westfield Website is made available by Westfield (" _we_ ", " _us_ " or " _our_ "). This Privacy Policy sets forth our policies regarding the collection, use and disclosure of certain information relating to your use of this Westfield Website. This Privacy Policy is incorporated into, and made a part of the Terms of Use Agreement which governs your use of this Westfield Website in general, and your use of this Westfield Website signifies your understanding and acceptance of the terms of this Privacy Policy and the Terms of Use  Agreement. If you do not agree to this Privacy Policy and/or the Terms of Use Agreement, you are not authorized to use, and please do not use, this Westfield Website. We reserve the right to modify this Privacy Policy at any time, so you are encouraged to review this Privacy Policy from time to time or we may notify you of the existence of a revised privacy policy. Changes and additions to this Privacy Policy are effective when they are posted on this Westfield Website. Your continued use of this Westfield Website following the posting of changes to this Privacy Policy will mean you accept those changes.
 
@@ -27,54 +27,3 @@ Third-Party Advertisers and Network Advertisers**  \- To help increase privacy 
 Purchase or Sale of Businesses**  \- Online business is still in a very early stage and is changing and evolving rapidly. As Westfield continually looks for ways to improve its business, we may buy or sell a company. If we buy or sell a business, the names collected will likely be transferred as a part of the sale. Information about registrants will be used in the aggregate. However, if we buy a business, we will honor the requests that customers made of that business regarding e-mail communications. In the event that we sell a business, we will do everything in our power to ensure that the e-mail communications requests you made of us are honored.
 
 To further assist you with reading through our Privacy Policy, we have provided answers to questions that you may find most important:
-
-## What Information is Collected by the Westfield Website?
-
-We collect two types of information from users: personal data (consisting of your name, address, phone number and your e-mail address) and aggregated data (consisting of browser type, operating system, IP address, the number of visitors to the Westfield Website and information about traffic patterns on the Westfield Website, such as the pages of the Westfield Website accessed by users and the time spent by users on the Westfield Website).
-
-## How and When is Personal Data Collected?
-
-Personal data is collected if and when you provide personal data to the Westfield Website during registration for access to the transactional and/or marketing transactional areas of the Westfield Website.
-
-## How and When is Aggregated Information Collected?
-
-Aggregated information, or non-Personal Information (such as browser type, operating system, IP address and pages accessed) is collected through various methods. For example, the Westfield Website may use cookies or collect IP addresses. An IP address is a number that is automatically assigned to your computer by your Internet provider whenever you're surfing the Web. When you request a page from the Westfield Website, our servers log your IP address. We collect IP addresses for the purposes of system administration, to provide aggregate data about the volume of use on and number of visitors to the Westfield Website and to audit the use of our Westfield Website. We do not link IP addresses to anything personally identifiable, so although your session will be logged, you will remain anonymous to us.
-
-Cookies are pieces of information that a Web site transfers to an individual's computer hard drive for record keeping purposes. Cookies make using the Westfield Website easier by, among other things, saving your passwords and preferences for you. As an example, we may use cookies to enhance the functionality of the site, to make your transactions and other activities more convenient and efficient, to remember user preferences or minimize the need for you to re-enter information, to keep track of your visits to the site, or help identify you when you return to the site. These cookies are restricted for use only on our Westfield Website, and do not transfer any Personal Information to any third party. Most browsers are initially set up to accept cookies; however, you can reset your browser to refuse all cookies or indicate when a cookie is being sent. (Note: you will need to consult the help area of your browser application for instructions.) If you choose to disable your cookies setting or refuse to accept a cookie, some parts of the Westfield Website may not function properly or may be considerably slower, there may be some features of this Westfield Website that will not be available to you and some Web pages may not display properly.
-
-## What Use Do or Can We Make of Information Collected by the Westfield Website?
-
-We use both the personal and aggregated information we collect for multiple purposes. The aggregated information may be used as described above, and to improve the content and features of the Westfield Website, enhance your online experience and keep track of the number of visitors to the Westfield Website. We may use your IP addresses in cooperation with your Internet provider to identify you if we feel it is necessary to enforce compliance with our Terms of Use or to protect our service, sites, customers, or others.
-
-We may access and use your Personal Information to contact you if necessary, and we may access, use and/or disclose your Personal Information in response to a valid court order, subpoena, government investigation, or if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the requirements of the law or comply with legal process served on us; (b) protect and defend our rights or property, including our Affiliates; or (c) act under exigent circumstances to protect the personal safety of users of the Westfield Website or the public. In addition, we shall have the right to provide your Personal Information to an entity that acquires all or substantially all of our assets.
-
-## What About Links to Other Web Sites?
-
-It is important to note that the Westfield Website contains links to other Web sites on the Internet, and that those Web sites may not follow the same privacy policies as this one. For instance, if you click on a link to a publication site, you will be taken away from the Westfield Website and to an entirely different Web site. These other Web sites may include links from advertisers, content providers and partners who may use our logo and/or style as a result of a co-branding agreement. These other Web sites may send their own cookies to you, and may collect data and make uses of it that we would not. We have no control over what information third parties track or collect, and we have no responsibility or liability for any tracking, data collection or other activities of third parties.
-
-## How Does This Site Secure Your Personal Information?
-
-Security for all personally identifiable information is extremely important to us. Our electronic environments are real-time monitored by Westfield and a third-party specialist security monitoring company. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your Personal Information, we cannot ensure or warrant the security of any information you transmit to us or that you find on our Westfield Website. You use such information at your own risk. Once we receive your transmission, we make efforts consistent with reasonable commercial practices to ensure its security on our systems. Notwithstanding the above, due to the open nature of the Internet, we cannot guarantee that any information stored on our servers, or transmitted to or from you, will be free from unauthorized access. By using this Westfield Website, you acknowledge that you understand and agree to assume these risks.
-
-## Who Can You Contact If You Have Questions or Concerns?
-
-Please contact us to report any known or suspected privacy or security breaches or to submit privacy-related questions or complaints.
-
-Westfield, LLC  
-11601 Wilshire Boulevard  
-11th Floor  
-Los Angeles, CA  90025  
-United States of America  
-Attention: Director of Digital Marketing
-
-An email can also be sent to [usprivacy@westfield.com](mailto:usprivacy@westfield.com "mailto:usprivacy@westfield.com").
-
-## Consent To Processing
-
-By providing any Personal Information to this Westfield Website, you fully understand and unambiguously consent to the transfer of such Personal Information to, and the collection and processing of such Personal Information in, the United States and other countries or territories.
-
-## Singular Privacy Statement
-
-This document is the solitary statement of a Privacy Policy with respect to this Westfield Website, and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid.
-
-This Privacy Policy was last modified on May 1, 2008 and is effective immediately.
