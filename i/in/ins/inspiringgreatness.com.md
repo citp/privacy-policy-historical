@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspiringgreatness.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924023530id_/http%3A//www.inspiringgreatness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiringgreatness.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213104605id_/http%3A//www.inspiringgreatness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Inspiring Greatness
 
