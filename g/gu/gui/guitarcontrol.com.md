@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitarcontrol.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105124615id_/http%3A//www.guitarcontrol.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarcontrol.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213104710id_/http%3A//www.guitarcontrol.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -54,4 +54,4 @@ If it proves impossible to arrive at a mutually satisfactory solution through me
 
 guitarcontrol.com is controlled, operated and administered entirely within Pennsylvania. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-[Home](https://web.archive.org/) | [About Us](http://www.guitarcontrol.com/aboutus.php) | [Terms of Use](http://www.guitarcontrol.com/terms-of-use.html) | [FAQ](http://www.guitarcontrol.com/guitarcontrol-faq.php) | [Privacy Policy](http://www.guitarcontrol.com/privacy.html) | [Copyright Info](http://www.guitarcontrol.com/copyright.php) | [Return Policy](https://web.archive.org/web/20131105124615id_/http%3A//www.guitarcontrol.com/return.php) | [Customer Service](http://www.guitarcontrolhelp.com/) | [Contact Us](http://www.guitarcontrol.com/contact.php)
+[Home](https://web.archive.org/) | [About Us](http://www.guitarcontrol.com/aboutus.php) | [Terms of Use](http://www.guitarcontrol.com/terms-of-use.html) | [FAQ](http://www.guitarcontrol.com/guitarcontrol-faq.php) | [Privacy Policy](http://www.guitarcontrol.com/privacy.html) | [Copyright Info](http://www.guitarcontrol.com/copyright.php) | [Return Policy](https://web.archive.org/web/20140213104710id_/http%3A//www.guitarcontrol.com/return.php) | [Customer Service](http://www.guitarcontrolhelp.com/) | [Contact Us](http://www.guitarcontrol.com/contact.php)
