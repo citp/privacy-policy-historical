@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheki.co.ke privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206131443id_/http%3A//www.cheki.co.ke/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheki.co.ke privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213063438id_/http%3A//www.cheki.co.ke/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
