@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tribe.net privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209122021id_/http%3A//www.tribe.net/template/pub%252CPrivacy.vm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tribe.net privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213111628id_/http%3A//www.tribe.net/template/pub%252CPrivacy.vm) for the most accurate reproduction.*
 
 # Tribe.net Privacy Policy - tribe.net
 
