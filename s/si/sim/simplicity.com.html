@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the simplicity.com privacy policy that was archived on 2013-10-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131003140135id_/http%3A//www.simplicity.com/t-privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the simplicity.com privacy policy that was archived on 2014-02-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140213111553id_/http%3A//www.simplicity.com/t-privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><!--<html xmlns="http://www.w3.org/1999/xhtml"> --><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -83,9 +83,6 @@
                 async: false,
                 url: "overlayhandler.ashx",
                 success: function(result) {
-                    // if the ajax successfully returns a value and does not time out
-                    // it updates the item count of the cart in the top and in the current page
-                    // it also shows the total of the cart
                     var icount = result.substring(result.lastIndexOf(";") + 1);
                     var finalResult = result.substring(0, result.lastIndexOf(";"));
                     $("a[name='item-count-element']").html(icount + ' ITEMS');
@@ -94,8 +91,8 @@
                     api.load();
 
                 },
-                error: function() {
-                    alert('Add to Cart Failed. Please try again.');
+                error: function(rqObj, errorText, errorThrown) {
+                    alert('Add to Cart Failed.');
                 }
             });
         }
@@ -118,7 +115,13 @@
     <!-- Google Analytics Social Button Tracking -->
     <script type="text/javascript" src="../../ga_social_tracking.js"></script>
     
+ <script type="text/javascript">
 
+     var irProto = (("https:" == document.location.protocol) ? "https://" : "http://");
+
+     document.write(unescape("%3Cscript src='" + irProto + "ga.simplicity.com/irtracker.php?dc=ga.simplicity.com' type='text/javascript'%3E%3C/script%3E"));
+
+ </script><script src="https://ga.simplicity.com/irtracker.php?dc=ga.simplicity.com" type="text/javascript"></script>
      <script type="text/javascript">
 
          var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -130,14 +133,14 @@
 <body class="patterns">
      <!--
 PAGE INVOCATION: /t-privacy.aspx
-PAGE REFERRER: 
+PAGE REFERRER: http://www.simplicity.com/
 STORE LOCALE: en-US
 STORE CURRENCY: USD
-CUSTOMER ID: 44300739
+CUSTOMER ID: 0
 AFFILIATE ID: 0
 CUSTOMER LOCALE: en-US
 CURRENCY SETTING: USD
-CACHE MENUS: False
+CACHE MENUS: True
 -->
 
     <div id="container">
@@ -177,13 +180,13 @@ CACHE MENUS: False
     <div id="top-nav">
         <div id="cart-button">
             <img src="skins/skin_1/images/btn-red-lt-end.gif" alt="">
-            <a name="item-count-element" class="red-button" href="shoppingcart.aspx">0 ITEMS</a>
+            <a name="item-count-element" id="item-count-element" class="red-button" href="http://shop.simplicity.com/Basket.aspx?cookieId=55d1035cad0f426eb4d6eb2644d68376&amp;ReturnUrl=http%3a%2f%2fwww.simplicity.com%2fdriver.aspx">0 ITEMS</a>
             <img src="skins/skin_1/images/btn-red-rt-end.gif" alt="">
         </div>
         <div id="inner-top-nav">
-            <a href="t-Help.aspx">help</a> | <a href="account.aspx">my account</a> | <a href="wishlist.aspx">
-                my list</a> | <a href="signin.aspx">Login</a> | <a href="t-contact.aspx">
-                    contact</a><a href="shoppingcart.aspx"><img id="cart" src="skins/skin_1/images/cart.gif" alt="my cart"></a>
+            <a href="t-Help.aspx">help</a> | <a href="http://shop.simplicity.com/MyAccount.aspx?cookieId=55d1035cad0f426eb4d6eb2644d68376">my account</a> | <a href="http://shop.simplicity.com/MyWishList.aspx?cookieId=55d1035cad0f426eb4d6eb2644d68376">
+                my list</a> | <a href="http://shop.simplicity.com/Login.aspx?cookieId=55d1035cad0f426eb4d6eb2644d68376&amp;ReturnUrl=http%3a%2f%2fwww.simplicity.com%2fdriver.aspx">Login</a> | <a href="t-contact.aspx">
+                    contact</a><a href="http://shop.simplicity.com/Basket.aspx?cookieId=55d1035cad0f426eb4d6eb2644d68376&amp;ReturnUrl=http%3a%2f%2fwww.simplicity.com%2fdriver.aspx"><img id="cart" src="skins/skin_1/images/cart.gif" alt="my cart"></a>
         </div>
     </div>
     <div class="clear">
@@ -220,11 +223,12 @@ CACHE MENUS: False
       <div class="mid-box-630">
         <div class="subspace">
           <p>Simplicity</p>
-                      <ul>
+                  <ul>
   <li><a href="c-1201-new-patterns.aspx"><span>New Patterns</span></a></li>
   <li><a href="c-144-patterns.aspx"><span>Featured Products</span></a></li>
   <li><a href="c-146-special-occasion.aspx"><span>Special Occasion</span></a></li>
   <li><a href="c-147-dresses.aspx"><span>Dresses</span></a></li>
+  <li><a href="c-1430-maternity.aspx"><span>Maternity</span></a></li>
   <li><a href="c-148-tops-vests-jackets-coats.aspx"><span>Tops, Vests, Jackets, Coats</span></a></li>
   <li><a href="c-149-skirts-pants.aspx"><span>Skirts &amp; Pants</span></a></li>
   <li><a href="c-150-sportswear.aspx"><span>Sportswear</span></a></li>
@@ -244,10 +248,10 @@ CACHE MENUS: False
   <li><a href="c-165-out-of-print.aspx"><span>Out of Print</span></a></li>
   <li><a href="c-166-books-calendar-catalogs-posters.aspx"><span>Books, Calendar, Catalogs &amp; Posters</span></a></li>
 </ul>
-                    </div>
+                </div>
         <div class="subspace">
           <p>New Look</p>
-                      <ul>
+                  <ul>
   <li><a href="c-1251-new-patterns.aspx"><span>New Patterns</span></a></li>
   <li><a href="c-144-patterns.aspx"><span>Featured Products</span></a></li>
   <li><a href="c-168-dresses.aspx"><span>Dresses</span></a></li>
@@ -261,10 +265,10 @@ CACHE MENUS: False
   <li><a href="c-176-out-of-print.aspx"><span>Out of Print</span></a></li>
   <li><a href="c-177-books-catalogs.aspx"><span>Books &amp; Catalogs</span></a></li>
 </ul>
-                    </div>
+                </div>
         <div class="subspace">
           <p>Burda Style</p>
-                      <ul>
+                  <ul>
   <li><a href="c-1292-new-patterns.aspx"><span>New Patterns</span></a></li>
   <li><a href="c-860-dresses.aspx"><span>Dresses</span></a></li>
   <li><a href="c-861-skirts.aspx"><span>Skirts</span></a></li>
@@ -282,10 +286,10 @@ CACHE MENUS: False
   <li><a href="c-873-burda-creative.aspx"><span>Burda Creative</span></a></li>
   <li><a href="c-874-burda-kids.aspx"><span>Burda Kids</span></a></li>
 </ul>
-                    </div>
+                </div>
         <div class="subspace2">
           <p>Special Collections</p>
-                      <ul>
+                  <ul>
   <li><a href="c-144-patterns.aspx"><span>Featured Products</span></a></li>
   <li><a href="c-377-a-b-c-d-cup-sizes.aspx"><span>A, B, C &amp; D Cup Sizes</span></a></li>
   <li><a href="c-378-amazing-fit.aspx"><span>Amazing Fit</span></a></li>
@@ -294,7 +298,6 @@ CACHE MENUS: False
   <li><a href="c-382-daisy-kingdom.aspx"><span>Daisy Kingdom</span></a></li>
   <li><a href="c-816-designed-with-love-by-sara.aspx"><span>Designed with Love By Sara</span></a></li>
   <li><a href="c-1064-designs-by-karen-z.aspx"><span>Designs by Karen Z.</span></a></li>
-  <li><a href="c-383-disney.aspx"><span>Disney</span></a></li>
   <li><a href="c-1069-fit-for-petite.aspx"><span>Fit for Petite</span></a></li>
   <li><a href="c-384-go-green.aspx"><span>Go Green</span></a></li>
   <li><a href="c-691-jessica-mcclintock.aspx"><span>Jessica McClintock</span></a></li>
@@ -310,7 +313,7 @@ CACHE MENUS: False
   <li><a href="c-649-new-look-vintage-looks.aspx"><span>New Look Vintage Looks</span></a></li>
   <li><a href="c-743-workroom-from-project-runway.aspx"><span>Workroom From Project Runway</span></a></li>
 </ul>
-                    </div>
+                </div>
       </div>
       <div class="btm-box-630">
         <div class="btm-lt-corner"></div>
@@ -328,13 +331,11 @@ CACHE MENUS: False
         </div>
         <div id="small-sub">
           <div class="subspace-small"><br>
-                        <ul>
+                    <ul>
   <li><a href="c-178-apparel-craft-trims.aspx"><span>Featured Products</span></a></li>
-  <li><a href="c-615-christmas.aspx"><span>Christmas</span></a></li>
   <li><a href="c-529-halloween.aspx"><span>Halloween</span></a></li>
   <li><a href="c-492-cynthia-rowley.aspx"><span>Cynthia Rowley</span></a></li>
   <li><a href="c-441-project-runway.aspx"><span>Project Runway</span></a></li>
-  <li><a href="c-502-disney.aspx"><span>Disney</span></a></li>
   <li><a href="c-503-nickelodeon.aspx"><span>Nickelodeon</span></a></li>
   <li><a href="c-179-bands.aspx"><span>Bands</span></a></li>
   <li><a href="c-180-beaded.aspx"><span>Beaded</span></a></li>
@@ -352,7 +353,7 @@ CACHE MENUS: False
   <li><a href="c-190-venice.aspx"><span>Venice</span></a></li>
   <li><a href="c-191-webbing-belting.aspx"><span>Webbing &amp; Belting</span></a></li>
 </ul>
-                      </div>
+                  </div>
         </div>
         <div class="btm-main-feature">
           <div class="btm-lt-corner"></div>
@@ -371,7 +372,7 @@ CACHE MENUS: False
         </div>
         <div id="small-sub">
           <div class="subspace-small"><br>
-                        <ul>
+                    <ul>
   <li><a href="c-192-ribbon.aspx"><span>Featured Products</span></a></li>
   <li><a href="c-193-licensed.aspx"><span>Licensed</span></a></li>
   <li><a href="c-194-fancy-printed.aspx"><span>Fancy &amp; Printed</span></a></li>
@@ -379,7 +380,7 @@ CACHE MENUS: False
   <li><a href="c-196-satin.aspx"><span>Satin</span></a></li>
   <li><a href="c-197-wired-edge.aspx"><span>Wired Edge</span></a></li>
 </ul>
-                      </div>
+                  </div>
         </div>
         <div class="btm-main-feature">
           <div class="btm-lt-corner"></div>
@@ -398,14 +399,14 @@ CACHE MENUS: False
         </div>
         <div id="small-sub">
           <div class="subspace-small"><br>
-                        <ul>
+                    <ul>
   <li><a href="c-198-tapes.aspx"><span>Featured Products</span></a></li>
   <li><a href="c-199-bias.aspx"><span>Bias</span></a></li>
   <li><a href="c-200-binding.aspx"><span>Binding</span></a></li>
   <li><a href="c-201-hem.aspx"><span>Hem</span></a></li>
   <li><a href="c-202-twill.aspx"><span>Twill</span></a></li>
 </ul>
-                      </div>
+                  </div>
         </div>
         <div class="btm-main-feature">
           <div class="btm-lt-corner"></div>
@@ -424,7 +425,7 @@ CACHE MENUS: False
         </div>
         <div id="small-sub">
           <div class="subspace-small"><br>
-                        <ul>
+                    <ul>
   <li><a href="c-203-appliques.aspx"><span>Featured Products</span></a></li>
   <li><a href="c-974-iron-on-transfers.aspx"><span>Iron On Transfers</span></a></li>
   <li><a href="c-773-9-11-tribute-collection.aspx"><span>9-11 Tribute Collection</span></a></li>
@@ -432,7 +433,6 @@ CACHE MENUS: False
   <li><a href="c-204-animal-insects.aspx"><span>Animal &amp; Insects</span></a></li>
   <li><a href="c-205-baby-kids.aspx"><span>Baby &amp; Kids</span></a></li>
   <li><a href="c-206-butterflies.aspx"><span>Butterflies</span></a></li>
-  <li><a href="c-207-disney.aspx"><span>Disney</span></a></li>
   <li><a href="c-208-flowers.aspx"><span>Flowers</span></a></li>
   <li><a href="c-209-food.aspx"><span>Food</span></a></li>
   <li><a href="c-526-halloween.aspx"><span>Halloween</span></a></li>
@@ -445,7 +445,7 @@ CACHE MENUS: False
   <li><a href="c-216-trendy.aspx"><span>Trendy</span></a></li>
   <li><a href="c-217-value-packs.aspx"><span>Value Packs</span></a></li>
 </ul>
-                      </div>
+                  </div>
         </div>
         <div class="btm-main-feature">
           <div class="btm-lt-corner"></div>
@@ -465,7 +465,7 @@ CACHE MENUS: False
         <div id="small-sub">
           <div class="subspace-small">
             <p>Wrights</p>
-                        <ul>
+                    <ul>
   <li><a href="c-226-home-decor.aspx"><span>Featured Products</span></a></li>
   <li><a href="c-228-bands-braid.aspx"><span>Bands &amp; Braid</span></a></li>
   <li><a href="c-229-beaded.aspx"><span>Beaded</span></a></li>
@@ -474,19 +474,19 @@ CACHE MENUS: False
   <li><a href="c-232-tassels-tiebacks.aspx"><span>Tassels &amp; Tiebacks</span></a></li>
   <li><a href="c-233-workroom-supplies.aspx"><span>Workroom Supplies</span></a></li>
 </ul>
-                      </div>
+                  </div>
           <div class="subspace-small">
             <p>Conso</p>
-						<ul>
+                    <ul>
   <li><a href="c-587-diy-home.aspx"><span>DIY Home</span></a></li>
   <li><a href="c-1221-roman-shades.aspx"><span>Roman Shades</span></a></li>
 </ul>
-						</div>
+                  </div>
         </div>
-        <div class="btm-main-feature">
+        <div class="btm-main-feature" style="clear:both !important;">
           <div class="btm-lt-corner"></div>
           <div class="btm-mid-border box-170"></div>
-          <div class="btm-rt-corner"></div>
+          <div class="btm-rt-corner" style="float:left !important;"></div>
         </div>
       </div>
     </div>
@@ -500,11 +500,10 @@ CACHE MENUS: False
         </div>
         <div id="small-sub">
           <div class="subspace-small"><br>
-                        <ul>
+                    <ul>
   <li><a href="c-241-sewing-quilting.aspx"><span>Featured Products</span></a></li>
   <li><a href="c-1224-bondex.aspx"><span>Bondex</span></a></li>
   <li><a href="c-334-closures.aspx"><span>Closures</span></a></li>
-  <li><a href="c-333-dress-forms.aspx"><span>Dress Forms</span></a></li>
   <li><a href="c-442-embroidery.aspx"><span>Embroidery</span></a></li>
   <li><a href="c-243-small-machines-tools.aspx"><span>Small Machines &amp; Tools</span></a></li>
   <li><a href="c-335-mend-repair.aspx"><span>Mend &amp; Repair</span></a></li>
@@ -513,7 +512,7 @@ CACHE MENUS: False
   <li><a href="c-938-quilting-tools.aspx"><span>Quilting Tools</span></a></li>
   <li><a href="c-1163-threads.aspx"><span>Threads</span></a></li>
 </ul>
-                      </div>
+                  </div>
         </div>
         <div class="btm-main-feature">
           <div class="btm-lt-corner"></div>
@@ -532,14 +531,14 @@ CACHE MENUS: False
         </div>
         <div id="small-sub">
           <div class="subspace-small"><br>
-                        <ul>
+                    <ul>
   <li><a href="c-247-knitting-crochet.aspx"><span>Featured Products</span></a></li>
   <li><a href="c-248-accessories.aspx"><span>Accessories</span></a></li>
   <li><a href="c-250-crochet.aspx"><span>Crochet</span></a></li>
   <li><a href="c-251-knitting.aspx"><span>Knitting</span></a></li>
   <li><a href="c-978-loom-knitting.aspx"><span>Loom Knitting</span></a></li>
 </ul>
-                      </div>
+                  </div>
         </div>
         <div class="btm-main-feature">
           <div class="btm-lt-corner"></div>
@@ -558,15 +557,14 @@ CACHE MENUS: False
         </div>
         <div id="small-sub">
           <div class="subspace-small"><br>
-                        <ul>
+                    <ul>
   <li><a href="c-252-crafts.aspx"><span>Featured Products</span></a></li>
   <li><a href="c-602-diy-accessories.aspx"><span>DIY / Accessories</span></a></li>
   <li><a href="c-836-diy-home.aspx"><span>DIY Home</span></a></li>
   <li><a href="c-253-diy-kids-crafts.aspx"><span>DIY / Kids Crafts</span></a></li>
-  <li><a href="c-411-furniture.aspx"><span>Furniture</span></a></li>
   <li><a href="c-336-tools.aspx"><span>Tools</span></a></li>
 </ul>
-                      </div>
+                  </div>
         </div>
         <div class="btm-main-feature">
           <div class="btm-lt-corner"></div>
@@ -585,13 +583,12 @@ CACHE MENUS: False
         </div>
         <div id="small-sub">
           <div class="subspace-small"><br>
-                        <ul>
+                    <ul>
   <li><a href="c-332-appliances.aspx"><span>Featured Products</span></a></li>
   <li><a href="c-338-irons-steamers.aspx"><span>Irons &amp; Steamers</span></a></li>
-  <li><a href="c-337-lighting.aspx"><span>Lighting</span></a></li>
   <li><a href="c-393-sewing-machines.aspx"><span>Sewing Machines</span></a></li>
 </ul>
-                      </div>
+                  </div>
         </div>
         <div class="btm-main-feature">
           <div class="btm-lt-corner"></div>
@@ -610,17 +607,16 @@ CACHE MENUS: False
         </div>
         <div id="small-sub">
           <div class="subspace-small"><br>
-                        <ul>
+                    <ul>
   <li><a href="c-254-new-products.aspx"><span>Featured Products</span></a></li>
-  <li><a href="c-1225-simplicity-autumn-2013-pattern-collection.aspx"><span>Simplicity Autumn 2013 Pattern Collection</span></a></li>
-  <li><a href="c-1176-simplicity-early-autumn-2013-pattern-collection.aspx"><span>Simplicity Early Autumn 2013 Pattern Collection</span></a></li>
+  <li><a href="c-1434-simplicity-early-spring-2014-pattern-collection.aspx"><span>Simplicity Early Spring 2014 Pattern Collection</span></a></li>
+  <li><a href="c-1351-simplicity-winterholiday-2013-pattern-collection.aspx"><span>Simplicity Winter/Holiday 2013 Pattern Collection</span></a></li>
+  <li><a href="c-1367-new-look-winterholiday-2013-pattern-collection.aspx"><span>New Look Winter/Holiday 2013 Pattern Collection</span></a></li>
   <li><a href="c-1261-new-look-autumn-2013-pattern-collection.aspx"><span>New Look Autumn 2013 Pattern Collection</span></a></li>
-  <li><a href="c-1145-new-look-summer-2013.aspx"><span>New Look Summer 2013</span></a></li>
+  <li><a href="c-1411-burda-style-2014-spring-summer.aspx"><span>Burda Style 2014 Spring Summer</span></a></li>
   <li><a href="c-1276-burda-style-2013-autumn-winter.aspx"><span>Burda Style 2013 Autumn Winter</span></a></li>
-  <li><a href="c-1083-burda-style-2013-spring-summer.aspx"><span>Burda Style 2013 Spring Summer</span></a></li>
   <li><a href="c-1223-bondex.aspx"><span>Bondex</span></a></li>
   <li><a href="c-779-cherish-by-simplicity.aspx"><span>Cherish by Simplicity</span></a></li>
-  <li><a href="c-1016-disney.aspx"><span>Disney</span></a></li>
   <li><a href="c-1015-diy-tutu-kits.aspx"><span>DIY Tutu Kits</span></a></li>
   <li><a href="c-353-dress-forms.aspx"><span>Dress Forms</span></a></li>
   <li><a href="c-1029-elegant-expressions-flower-appliques.aspx"><span>Elegant Expressions Flower Appliques</span></a></li>
@@ -630,7 +626,7 @@ CACHE MENUS: False
   <li><a href="c-260-small-machines-accessories.aspx"><span>Small Machines &amp; Accessories</span></a></li>
   <li><a href="c-1152-vintage.aspx"><span>Vintage</span></a></li>
 </ul>
-                      </div>
+                  </div>
         </div>
         <div class="btm-main-feature">
           <div class="btm-lt-corner"></div>
@@ -678,7 +674,7 @@ CACHE MENUS: False
 <div id="fb-root" style="float:left; margin-right: 6px;">
 <script src="https://connect.facebook.net/en_US/all.js#xfbml=1"></script>
 <script type="text/javascript">_ga.trackFacebook();</script>
-<fb:like id="fb" href="https://web.archive.org/web/20131003140135id_/http%3A//www.simplicity.com/t-privacy.aspx" layout="button_count"></fb:like>
+<fb:like id="fb" href="https://web.archive.org/web/20140213111553id_/http%3A//www.simplicity.com/t-privacy.aspx" layout="button_count"></fb:like>
 </div>
 
 <script type="text/javascript">
