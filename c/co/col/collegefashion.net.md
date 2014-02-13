@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the collegefashion.net privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030170744id_/http%3A//www.collegefashion.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegefashion.net privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213085033id_/http%3A//www.collegefashion.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – College Fashion
+
+## [Privacy Policy](http://www.collegefashion.net/uncategorized/privacy-policy/)
 
 Your online privacy is very important to us, and therefore the uses of your personal information on College Fashion are disclosed here. Your use of this website is based on the assumption of your acceptance of how College Fashion operates, as indicated in this Privacy Policy. Here is a list of what information is collected about you when you visit this site.
 
@@ -10,7 +12,7 @@ College Fashion uses log files to track statistics on visitors to this website. 
 
 ### E-mail Subscriptions
 
-When you sign up to receive College Fashion by email through [Feedburner](http://feeds.feedburner.com/collegefashion), I collect your name and email address for the purpose of sending out the newsletter. You can opt out of email communications at any time.
+When you sign up to receive College Fashion by email through [Feedburner](http://feeds.feedburner.com/collegefashion), we collect your name and email address for the purpose of sending out the newsletter. You can opt out of email communications at any time.
 
 ### Cookies
 
