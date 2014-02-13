@@ -1,144 +1,18 @@
-> *The following text is extracted and transformed from the thailandfriends.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102044752id_/http%3A//www.thailandfriends.com/tf_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thailandfriends.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213063242id_/http%3A//www.thailandfriends.com/privacypolicy) for the most accurate reproduction.*
 
-# Thailand Friends Privacy Policy
+# Privacy Policy - Thailand Friends
 
-Because Thailand Friends gathers certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
 
-**COMMITMENT TO YOUR PRIVACY**
+Log files are maintained and analysed of all requests for files on this website's web servers. Log files do not capture personal information but do capture the user's IP address, which is automatically recognised by our web servers.
 
-Your privacy on the Internet is of the utmost importance to us. We want to make your online experience satisfying and safe.
+**Our Commitment to Children's Privacy**  
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. 
+**Cookies**  
+This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties. 
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address:
+  1.  
+  2. [Privacy Policy](http://www.thailandfriends.com/privacypolicy/)
 
-BOX 103306553  
-Sioux Falls, SD 57186
 
-Or, you may contact us by [email](http://sendmessage.php/) or via Private Message.
-
-Additional Information: Terms of Service
-
-**INFORMATION THIS SITE GATHERS AND TRACKS**
-
-Thailand Friends gathers two types of information about users:
-
-Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys:
-
-Information Thailand Friends gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Under no circumstances does Thailand Friends divulge any information about an individual user to a third party.
-
-Thailand Friends Gathers User Information In The Following Processes:
-
-Optional Voluntary Information
-
-We offer the following free services, which require some type of voluntary submission of personal information by users:
-
-1\. Electronic newsletters (Dispatches)
-
-We will offer a free electronic newsletter to users. Thailand Friends gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration.
-
-2\. Message boards/forums
-
-Users of the site's Message Boards and Forums must register separately for these services (both are free of charge) in order to post messages, although they needn't register to visit the site. During registration the user is required to supply a username, password, and email address.
-
-3\. "E-mail this to a friend" Service
-
-Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.
-
-4\. Polling
-
-We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. Thailand Friends may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.
-
-5\. Surveys
-
-Thailand Friends may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party.
-
-Children
-
-The minimum age to use Thailand Friends is 18 years of age. We do not collect information on any persons under the age of 18.
-
-Usage tracking
-
-Thailand Friends tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. Thailand Friends does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser).
-
-Thailand Friends sometimes tracks and catalogs the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you.
-
-Cookies
-
-We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Thailand Friends uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.
-
-You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys.
-
-**USE OF INFORMATION**
-
-Thailand Friends uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.
-
-As stated above, we use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, message boards, and forums. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. Thailand Friends never shares newsletter mailing lists with any third parties, including advertisers, sponsors or partners.
-
-When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our users. But we don't track which terms a particular user enters.
-
-Thailand Friends creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
-
-**SHARING OF THE INFORMATION**
-
-Thailand Friends uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
-
-**SECURITY**
-
-Thailand Friends operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers.
-
-**OPT-OUT POLICY**
-
-We give users options wherever necessary and practical. Such choices include:
-
-Opting not to register to receive our electronic newsletters.
-
-Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users
-
-**YOUR CONSENT**
-
-By using this site, you consent to the collection and use of this information by Thailand Friends. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-We collect the following information:
-
-Click-stream data  
-HTTP protocol elements  
-Search terms  
-User's Name  
-Computer information  
-At the user's option, we may also collect the following data:
-
-Birth Date  
-Email Address  
-Telephone  
-Business Address  
-This data will be used for the following purposes:
-
-Completion and support of the current activity.  
-Web site and system administration.  
-Research and development.  
-This data will be used by ourselves and our agents.
-
-The following explanation is provided for why this data is collected:
-
-Data collected from all Web users: access logs, and search strings (if entered).  
-At the user's option, we will collect the following data:
-
-HTTP cookies  
-This data will be used for the following purposes:
-
-Research and development.  
-One-time tailoring.  
-This data will be used by ourselves and our agents.
-
-The following explanation is provided for why this data is collected:
-
-COOKIES  
-Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you.
-
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
-
-Our site makes use of cookies. Cookies are used for the following purposes:
-
-User targeting  
-Research and development
