@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the turtlebeach.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014110421id_/http%3A//www.turtlebeach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turtlebeach.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213203652id_/http%3A//www.turtlebeach.com/privacy) for the most accurate reproduction.*
 
-# Turtle Beach, Inc. - privacy
+# privacy - Turtle Beach, Inc.
 
 Voyetra Turtle Beach, Inc. ("Turtle Beach") is the owner of this website (the "Turtle Beach Web Site") and is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Turtle Beach Web Site and governs data collection and usage. By using the Turtle Beach Web Site, you consent to the data practices described in this statement.
 
