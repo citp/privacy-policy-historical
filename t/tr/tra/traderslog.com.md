@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traderslog.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812074514id_/http%3A//www.traderslog.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traderslog.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213080448id_/http%3A//www.traderslog.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Traders Log
 
