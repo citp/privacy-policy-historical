@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the softwaretrainingtutorials.com privacy policy that was archived on 2013-08-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130818100634id_/http%3A//www.softwaretrainingtutorials.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the softwaretrainingtutorials.com privacy policy that was archived on 2014-02-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140213073949id_/http%3A//www.softwaretrainingtutorials.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy for Marrutt Software Training</title>
@@ -16,7 +16,35 @@
 	<link rel="stylesheet" type="text/css" href="engine1/style.css">
 	<script type="text/javascript" src="engine1/jquery.js"></script>
 	<!-- End slider.com HEAD section -->
-</head>
+	<script type="text/javascript" src="form/js/jquery.js"></script> 
+        <script type="text/javascript" src="form/js/jquery.validate.js"></script> 
+		 <script type="text/javascript" src="form/js/jquery.form.js"></script> 
+        <script type="text/javascript">
+            $('document').ready(function(){
+			$('#form').validate({
+                    rules:{
+                        "first":{
+                            required:true,
+                            maxlength:40 },
+                        "email":{
+                            required:true,
+                            email:true,
+                            maxlength:100  }},
+                    messages:{
+                        "first":{
+                            required:"<br>This field is required" },
+                        "email":{
+                            required:"<br>This field is required",
+                            email:"<br>Please enter a valid email address" }},
+                    submitHandler: function(form){
+                      $(form).ajaxSubmit({
+        target: '#preview', 
+        success: function() { 
+        $('#formbox').slideUp('fast');  } 
+    }); }
+	})
+        });</script>  
+			</head>
 <body>
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
@@ -34,7 +62,7 @@
 <div class="slogan"><img src="images/slogan.png" width="279" height="18" border="0"></div>
 <div class="viewcart"> <a href="http://softwaretraining.mercurycart.com/training/files/index.html"><span class="displace">View Cart</span></a></div>
 <div class="contactus"> <a href="contact-us.php"><span class="displace">Contact Us</span></a></div>
-<div style=" width:325px; clear:right; margin:25px 6px 0px 0px; float:right;">
+<div style=" width:325px; clear:right; margin:26px 6px 0px 0px; float:right;">
 <form name="form" action="search.php" method="get" style="margin:0px 0px 0px 0px; padding:0px; display:inline;">
 <div align="right"><input name="q" type="text" class="search-box" onfocus="if(this.value==this.defaultValue) this.value='';" onblur="if(this.value=='') this.value='';" value=" Find a Tutorial..." size="34">
 <input type="image" src="/images/search-logo.png" class="search-logo">
@@ -42,20 +70,16 @@
 <div style="float:left; clear:left; width:580px;">
 <ul id="css3menu1" class="topmenu">
 	<li class="topfirst"><a href="http://www.softwaretrainingtutorials.com/index.php" style="height:16px;line-height:14px;"><span>Home<img src="/images/bullet_arrow_down2.png" border="0"></span></a>
-	<ul>
-		<li><a href="http://www.softwaretrainingtutorials.com/about-us.php">About Us</a></li>
+	<ul><li><a href="http://www.softwaretrainingtutorials.com/about-us.php">About Us</a></li>
 		<li><a href="http://www.softwaretrainingtutorials.com/contact-us.php">Contact Us</a></li>
 		<li><a href="http://www.softwaretrainingtutorials.com/site-map.php">Site Map</a></li>
 		<li><a href="http://www.softwaretrainingtutorials.com/sign.php">Newsletter</a></li>
 		<li><a href="http://www.softwaretrainingtutorials.com/shipping.php">Shipping</a></li>
-		<li><a href="http://www.softwaretrainingtutorials.com/guarantee.php">Product Guarantee</a></li>
-	</ul></li>
+		<li><a href="http://www.softwaretrainingtutorials.com/guarantee.php">Product Guarantee</a></li></ul></li>
 	<li class="topmenu"><a href="http://www.softwaretrainingtutorials.com/software-training.php" style="height:16px;line-height:14px;"><span>Training Courses<img src="/images/bullet_arrow_down2.png" border="0"></span></a>
-	<ul>
-		<li><a href="http://www.softwaretrainingtutorials.com/software-training.php">Find a Course</a></li>
+	<ul><li><a href="http://www.softwaretrainingtutorials.com/software-training.php">Find a Course</a></li>
 		<li><a href="http://www.softwaretrainingtutorials.com/software-training.php"><span>Training Categories</span></a>
-		<ul>
-			<li><a href="http://www.softwaretrainingtutorials.com/graphics.php">Graphics &amp; Page Layout</a></li>
+		<ul><li><a href="http://www.softwaretrainingtutorials.com/graphics.php">Graphics &amp; Page Layout</a></li>
 			<li><a href="http://www.softwaretrainingtutorials.com/internet.php">Internet &amp; Web Design</a></li>
 			<li><a href="http://www.softwaretrainingtutorials.com/anim.php">Animation &amp; 3D</a></li>
 			<li><a href="http://www.softwaretrainingtutorials.com/video.php">Multimedia &amp; Video</a></li>
@@ -65,13 +89,14 @@
 			<li><a href="http://www.softwaretrainingtutorials.com/certification.php">Certification</a></li>
 			<li><a href="http://www.softwaretrainingtutorials.com/prog.php">Programming</a></li>
 			<li><a href="http://www.softwaretrainingtutorials.com/music.php">Music</a></li>
-		</ul></li>
+			<li><a href="http://www.softwaretrainingtutorials.com/overview-choice.php">Specialist Categories 1</a></li>
+			<li><a href="http://www.softwaretrainingtutorials.com/overview-choice-2.php">Specialist Categories 2</a></li>
+			<li><a href="http://www.softwaretrainingtutorials.com/overview-choice-3.php">Specialist Categories 3</a></li></ul></li>
 		<li><a href="http://www.softwaretrainingtutorials.com/dev.php">In Development</a></li>
 		<li><a href="http://www.softwaretrainingtutorials.com/new-titles.php">New Titles</a></li>
 		<li><a href="http://www.softwaretrainingtutorials.com/multi-user.php">Multi User Courses</a></li>
 		<li><a href="http://www.softwaretrainingtutorials.com/all-tutorials.php">All Courses</a></li>
-		<li><a href="http://www.softwaretrainingtutorials.com/support.php">Support</a></li>
-	</ul></li>
+		<li><a href="http://www.softwaretrainingtutorials.com/support.php">Support</a></li></ul></li>
 	<li class="topmenu"><a href="http://www.softwaretrainingtutorials.com/training-for-education.php" style="height:16px;line-height:14px;padding-right:15px;">Training for Education</a></li>
 	<li class="toplast"><a href="http://www.softwaretrainingtutorials.com/corporate-training.php" style="height:16px;line-height:14px;">Corporate Training</a></li>
 </ul></div></div><div id="wrapperheadermain"><div id="wrappermiddle">
@@ -105,27 +130,40 @@
 			 <div class="clear"><!----></div>
         </div>
         <br><br>
-		<form name="form" action="search.php" method="get"><div class="subnav-ac-notes">
+		<div id="preview"></div>
+        <div id="formbox">
+		<div class="subnav-ac-notesdev"><form name="form" id="form" action="get12-sign-side.php" method="post">
 			<div class="notes-heading">
-				<h2>What Would you Like to Learn Today?</h2>	
+				<h2>Sign Up To Our Email Newsletter and Get 10% Off Today!</h2>	
+				<div class="clear"><!----></div>
+			</div><div align="center">
+			<ul class="devstyles">
+      <li style="padding:10px 0px 2px 0px;"><input type="text" name="first" class="devformtextformit" value="your name" onblur="if(this.value=='') this.value='';" onfocus="if(this.value==this.defaultValue) this.value='';" size="20" maxlength="40"></li>
+					<li style="padding:10px 0px 10px 0px;"><input type="text" name="email" class="devformtextformit" value="your email address" onblur="if(this.value=='') this.value='';" onfocus="if(this.value==this.defaultValue) this.value='';" size="20" maxlength="100"></li>
+                    <li style="padding-bottom:12px;"><input type="submit" value="Submit"></li></ul>
+					</div>
+			 <div class="clear"><!----></div></form>
+</div></div>
+	<div class="subnav-ac-notes"><form name="form" action="search.php" method="get">
+			<div class="notes-heading">
+				<h2>What Would You Like to Learn Today?</h2>	
 				<div class="clear"><!----></div>
 			</div>
 			<ul>
               <div align="center"><input type="text" name="q" size="17" class="search-boxside" value="Find your Software..." onblur="if(this.value=='') this.value='';" onfocus="if(this.value==this.defaultValue) this.value='';"><input type="submit" name="Submit" value="Go" class="search-textside"></div>
 		  </ul>
-			 <div class="clear"><!----></div>
-</div></form>
+			 <div class="clear"><!----></div></form>
+</div>
 <div class="subnav-ac-notes">
 			<div class="notes-heading">
 				<h2>Attention! This Week's Special Offer</h2>	
 				<div class="clear"><!----></div>
 			</div>
 			<ul>
-		<div align="center"><span class="titletextbelowtwocol">New Disounted Courses!</span><br>
-		  <br>
-<a href="poser-2014.php"><img src="images/ch/ss-po-2014-play-offer.png" width="150" height="88" border="0"></a><br><br>
-        <a href="poser-2014.php" id="menulink">Poser 2014 Tutorial</a><br>
-        and<br><a href="poser-10.php" id="menulink">Poser 10 Tutorial</a><br><br></div>
+		<div align="center"><span class="titletextbelowtwocol">New Disounted Course!</span><br><br>
+<a href="photoshop-elements-12.php"><img src="images/ch/ss-pse-12-play-sp.jpg" title="Click for Sample Videos From This Course" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1;" width="150" height="88" border="0" class="darkableimages"></a><br><br>
+        <a href="photoshop-elements-12.php" id="menulink">Adobe Photoshop Elements 12 Tutorial</a><br><br>
+		</div>
 		  </ul>
 </div></div>
 <img src="/images/spacer.gif" width="30" height="2">
@@ -139,20 +177,19 @@
 				<div class="clear"><!----></div>
 			</div>
 			<ul>
-<li><a href="revit-2014-mep.php" id="menulink">Autodesk Revit MEP 2014</a></li>
-<li><a href="poser-10.php" id="menulink">Poser 10</a></li>
-<li><a href="photoshop-cc-adobe.php" id="menulink">Adobe Photoshop CC</a></li>
+<li><a href="ms-sharepoint-2013-mcse-exams.php" id="menulink">MCSE: SharePoint Solutions Expert</a></li>
+<li><a href="mac-os-x-mavericks.php" id="menulink">Mac OS X Mevericks</a></li>
+<li><a href="ms-exchange-server-2013.php" id="menulink">Microsoft Exchange Server 2013</a></li>
 <li><a href="revit-2014.php" id="menulink">Revit Architecture 2014</a></li>
 <li><a href="access-2013-ms.php" id="menulink">Microsoft Access 2013</a></li>
-<li><a href="revit-structure-2014.php" id="menulink">Revit Structure 2014</a></li>
-<li><a href="autocad-2014-electrical.php" id="menulink">AutoCAD Electrical 2014</a></li>
-<li><a href="revit-structure-2014-advanced.php" id="menulink">Advanced Revit Structure 2014</a></li>
-<li><a href="ms-project-2013.php" id="menulink">Microsoft Project 2013</a></li>
-<li><a href="3ds-max-2014.php" id="menulink">Autodesk 3ds Max 2014</a></li>
+<li><a href="solidworks-2014.php" id="menulink">SolidWorks 2014</a></li>
+<li><a href="autocad-architecture-2014.php" id="menulink">AutoCAD Architecture 2014</a></li>
+<li><a href="inventor-2014.php" id="menulink">Autodesk Inventor 2014</a></li>
+<li><a href="logic-pro-x.php" id="menulink">Apple Logic Pro X</a></li>
+<li><a href="photoshop-elements-12.php" id="menulink">Adobe Photoshop Elements 12</a></li>
 <li><a href="poser-2014.php" id="menulink">Poser Pro 2014</a></li>
-<li><a href="indesign-cc-adobe.php" id="menulink">Adobe InDesign CC</a></li>
-</ul>
-</div></div><br>
+<li><a href="cisco-routing-switching-exam.php" id="menulink">Cisco CCNA Routing &amp; Switching</a></li>
+</ul></div></div><br>
   <span class="iptextheader1">Privacy Statement:</span> <br><br>
   Marrutt Software Training has created this privacy statement in order to demonstrate its commitment to privacy. <br>
   The following discloses our information gathering and dissemination practices for this site; <br><br><br>
@@ -232,9 +269,6 @@
 					<li><a href="overview-choice-2.php">Specialist Categories 2 &gt;</a></li>
                     <li><a href="overview-choice-3.php">Specialist Categories 3 &gt;</a></li>
 					<li><a href="free-demos.php">Free Online Demos &gt;</a></li>
-					<li>&nbsp;</li>
-					<li>&nbsp;</li>
-					<li><a href="http://www.facebook.com/marruttsoftwaretraining" target="_blank" rel="nofollow"><img src="images/facebook-icon.png" alt="like us on facebook" width="22" height="22" border="0"></a> &nbsp; <a href="#"><img src="images/googleplus-icon.png" alt="find us on google+" width="22" height="22" border="0"></a> &nbsp; <a href="#"><img src="images/youtube-icon.png" alt="subscribe to us on youtube" width="22" height="22" border="0"></a></li>
 				</ul>
 			</div>
 			<div class="footercolumn2">
