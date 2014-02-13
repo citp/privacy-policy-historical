@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minyanville.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113221937id_/http%3A//www.minyanville.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minyanville.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213225055id_/http%3A//www.minyanville.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Minyanville Privacy Statement
 
@@ -46,7 +46,7 @@ Please be aware that advertisers or websites that have links on our site may col
 
 This statement may change from time to time, so please check back periodically. 
 
-_© 2013 Minyanville Media, Inc._
+_© 2014 Minyanville Media, Inc._
 
  **DEFINITIONS:**
 
