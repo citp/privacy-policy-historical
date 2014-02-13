@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cpooutlets.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817161439id_/http%3A//www.cpooutlets.com/on/demandware.store/Sites-cpooutlets-Site/default/PrivacyPolicy-Show) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpooutlets.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213154314id_/http%3A//www.cpooutlets.com/on/demandware.store/Sites-cpooutlets-Site/default/PrivacyPolicy-Show) for the most accurate reproduction.*
 
 # CPO Outlets Privacy Policy
 
-CPO Commerce, Inc. ("CPO") operates the websites located at www.cpooutlets.com, www.cpooutlets.com and other websites on which a copy of this privacy policy appears (cumulatively the "CPO Sites") as a service to its customers residing in the United States of America, its territories and possessions. CPO is the owner or authorized user of the content displayed on the CPO Sites.
+CPO Commerce, Inc. ("CPO") operates the websites located at www.cpooutlets.com and other websites on which a copy of this privacy policy appears (cumulatively the "CPO Sites") as a service to its customers residing in the United States of America, its territories and possessions. CPO is the owner or authorized user of the content displayed on the CPO Sites.
 
 CPO has adopted this privacy policy to inform you of the following: 
 
