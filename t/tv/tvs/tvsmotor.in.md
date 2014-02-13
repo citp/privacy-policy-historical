@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvsmotor.in privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106093711id_/http%3A//www.tvsmotor.in/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvsmotor.in privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213015122id_/http%3A//www.tvsmotor.in/privacy-policy.asp) for the most accurate reproduction.*
 
 # TVS group, TVS and Sons, TVS Sundaram Iyengar and Sons Limited
 
