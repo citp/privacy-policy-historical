@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scalahosting.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010170442id_/https%3A//www.scalahosting.com/aup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scalahosting.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213072752id_/https%3A//www.scalahosting.com/aup) for the most accurate reproduction.*
 
 # ScalaHosting Privacy Policy
 
