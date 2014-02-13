@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybinding.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102032434id_/http%3A//www.mybinding.com/.sc/ms/sp/ee) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybinding.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213175221id_/http%3A//www.mybinding.com/.sc/ms/sp/ee) for the most accurate reproduction.*
 
 # Privacy Policy - MyBinding.com
 
