@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the redballoondays.com.au privacy policy that was archived on 2013-08-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130806180621id_/http%3A//www.redballoon.com.au/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the redballoondays.com.au privacy policy that was archived on 2014-02-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140213232858id_/http%3A//www.redballoon.com.au/help/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html class=" ABTestNav"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html class=" ABTestNav"><head><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/df1ef75eb0abd65b463d87d93104ea36340ffdba.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="async" src="https://www.adobetag.com/d2/redballoon/live/RedBalloon.js"></script>
 				
 					<title>RedBalloon | Privacy and Copyright</title>
 					
@@ -23,16 +23,24 @@
 				
 				
 
-				<link rel="stylesheet" type="text/css" href="/assets/css/default_201007.css?v=20130513">
-		
+				<link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+				<link rel="stylesheet" type="text/css" href="/assets/css/default_201007.css?v=20140116">
+                <link href="/assets/css/jquery.confirm.css" media="all" type="text/css" rel="stylesheet">
 				
 				
-				<script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/df1ef75eb0abd65b463d87d93104ea36340ffdba.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript">
+				
+				<script type="text/javascript">
 					serverName = 'www.redballoon.com.au';
 				</script>
 				<script src="/assets/js/jquery-1.7.1.min.js" type="text/javascript"></script>
 				<script src="/assets/js/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script>
-				<script src="/assets/js/jquery.thirdpary.0.3.js?v=20130513" type="text/javascript"></script>
+				<script src="/assets/js/jquery.blockUI.js" type="text/javascript"></script>
+				<script src="/assets/js/jquery.easing.1.3.js" type="text/javascript"></script>
+				<script src="/assets/js/jquery.scrolling.js" type="text/javascript"></script>
+				<script src="/assets/js/jquery.thirdpary.0.3.js?v=20140116" type="text/javascript"></script><style>.mboxDefault { visibility:hidden; }</style>
+                
+                <script src="/assets/js/jquery.confirm.js" type="text/javascript"></script>
+
 
 				
 				
@@ -103,10 +111,19 @@
 
 
 		
-	</head>
+	<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 	
 	<body onload="" class="">
+		
+		
+		
+		
+		
+
+		
+			<script src="/assets/js/sitecatalyst.js" type="text/javascript"></script>
+		
 		
 			<script type="text/javascript">var _kiq = _kiq || [];</script>
 			<script type="text/javascript" src="//s3.amazonaws.com/ki.js/20696/43y.js" async=""></script>
@@ -189,7 +206,7 @@
 						</a>
 					</li>
 				</ul>
-				<div id="tabToggleForm" class="hide">
+				<div id="tabToggleForm" class="hide" style="display: none;">
 					<form id="voucherForm" name="voucherForm" method="post" action="/book/">
 						<input type="hidden" value="1" name="bookFromHeader" id="bookFromHeader">
 						<ul>
@@ -215,6 +232,7 @@
 	
 	
 	
+	
 		<label class="btn    submitbtn" id="bookBtn">
 			<input class="submitbtn   " value="Book" name="bookBtn" type="submit">
 		</label>
@@ -231,7 +249,7 @@
 									Exchange
 								</a>
 							</li>
-							<li class="second hide" id="invalidVoucherCodeErrMsg">
+							<li class="second hide" id="invalidVoucherCodeErrMsg" style="display: none;">
 								<strong>
 									Please enter a valid voucher code to proceed.
 								</strong>
@@ -273,8 +291,13 @@
 		
 		
 			
-			<div id="mastHead"><div id="mastHeadPad">
 			
+			
+				
+				
+			
+			
+			<div id="mastHead"><div id="mastHeadPad">
 				<div id="mainLogo"><div id="mainLogoPad">
 					
 						<a class="home" href="/" title="RedBalloon">
@@ -295,9 +318,9 @@
 							
 							<input type="hidden" value="1" name="p">
 							<input type="hidden" value="true" name="keywordSearch">
-							<input type="text" onclick="if(this.value == 'Search by location or experience'){this.value='';}" value="Search by location or experience" name="keywords" id="keywords">
+							<input type="text" onclick="if(this.value == 'Search by location or experience'){this.value='';}" value="Search by location or experience" name="keywords" id="keywords" class="ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
 							<label class="btn blueSearchBtn" id="searchBtn">
-								<input name="keywordSearch" type="submit" value="Search" id="keywordSearch">
+								<input name="keywordSearch" type="submit" value="Search" id="keywordSearch" style="border: 0px solid red;">
 							</label>
 						</form>
 					</div>
@@ -356,13 +379,9 @@
 			<div id="primaryMenuContainer">
 				<div id="primaryMenu">
 					<ul class="dropNav"> 
-						<li class="header png">
-							<span>Choose:</span>
-						</li>
-						
 						
 						<li class="nav first" id="categoryNav">
-							<a href="/experience-gifts"><span>Experience</span></a>
+							<a href="/experience-gifts" class="experienceMenuLink"><span>Experience</span></a>
 							<ul id="menu_Category" class="dropUL">
 								
 								
@@ -458,14 +477,14 @@
 		<img class="png" width="160" height="105" src="/assets/images/shell/menu_giftCertificate.png">
 	</a>
 </li>
-<li class="menuAll"><a href="/search/">Shop All Experience-Gifts</a></li><a href="/search/">
+<li class="menuAll"><a href="/search/">Shop All Experience-Gifts</a></li>
 								
-							</a></ul><a href="/search/">
-						</a></li><a href="/search/">
+							</ul>
+						</li>
 						
 						
-						</a><li class="nav" id="locationNav"><a href="/search/">
-							</a><a href="/locations"><span>Location</span></a>
+						<li class="nav" id="locationNav">
+							<a href="/locations" class="locationMenuLink"><span>Location</span></a>
 							<ul id="menu_Location" class="dropUL">
 								
 									<li id="nsw"><a href="/nsw">New South Wales</a>
@@ -515,7 +534,7 @@
 						
 						
 						<li class="nav" id="recipientNav">
-							<a href="/gifts-for"><span>Recipient</span></a>
+							<a href="/gifts-for" class="recipientMenuLink"><span>Recipient</span></a>
 							<ul id="menu_Recipient" class="dropUL">
 								
 									<li class="gifts-for-her"><a href="/gifts-for-her">Gifts for Her</a>
@@ -552,18 +571,38 @@
 		<li><a href="/gifts-for-them/" class="moreLink">More »</a></li>
 	</ul>
 </li>
-<li class="menuAll"><a href="/gifts-for">Shop All Gifts-For</a></li><a href="/gifts-for">
+<li class="menuAll"><a href="/gifts-for">Shop All Gifts-For</a></li>
 
 								
-							</a></ul><a href="/gifts-for">
-						</a></li><a href="/gifts-for">
+							</ul>
+						</li>
 						
 						
-						</a><li class="nav" id="occasionNav"><a href="/gifts-for">
-							</a><a href="/occasion"><span>Occasion</span></a>
+						<li class="nav" id="occasionNav">
+							<a href="/occasion" class="occasionMenuLink"><span>Occasion</span></a>
 							<ul id="menu_Occasion" class="dropUL">
 								
-									<li class="birthday-gifts"><a href="/birthday-gifts">Birthday Gifts</a>
+									<li class="christmas-gifts"><a href="/christmas-gifts">Christmas Gifts</a>
+	<ul>
+		<li><a href="/christmas-gifts/christmas-deals" class="menuClass">Deals</a></li>
+		<li><a href="/christmas-gifts/christmas-gifts-under-$100" class="menuClass">Under $100</a></li>
+		<li><a href="/christmas-gifts/christmas-gifts-under-$200" class="menuClass">Under $200</a></li>
+		<li><a href="/christmas-gifts/christmas-gifts-under-$500" class="menuClass">Under $500</a></li>
+		<li><a href="/christmas-gifts/unique-christmas-gifts" class="menuClass">Unique</a></li>
+		<li><a href="/christmas-gifts/" class="moreLink">More »</a></li>
+	</ul>
+</li> 
+<li class="fathers-day-gifts"><a href="/fathers-day-gifts">Father's Day Gifts</a>
+	<ul>
+		<li><a href="/fathers-day-gifts/fathers-day-deals" class="menuClass">Deals</a></li>
+		<li><a href="/fathers-day-gifts/fathers-day-gifts-under-$100" class="menuClass">Under $100</a></li>
+		<li><a href="/fathers-day-gifts/fathers-day-gifts-under-$200" class="menuClass">Under $200</a></li>
+		<li><a href="/fathers-day-gifts/fathers-day-gifts-under-$500" class="menuClass">Under $500</a></li>
+		<li><a href="/fathers-day-gifts/unique-fathers-day-gifts" class="menuClass">Unique</a></li>
+		<li><a href="/fathers-day-gifts/" class="moreLink">More »</a></li>
+	</ul>
+</li> 
+<li class="birthday-gifts"><a href="/birthday-gifts">Birthday Gifts</a>
 	<ul>
 		<li><a href="/birthday-gifts/18th-birthday" class="menuClass">18th Birthday</a></li>
 		<li><a href="/birthday-gifts/21st-birthday" class="menuClass">21st Birthday</a></li>
@@ -584,26 +623,9 @@
 		<li><a href="/gift-occasions/" class="moreLink">More »</a></li>
 	</ul>
 </li>
-<li class="fathers-day-gifts"><a href="/fathers-day-gifts">Father's Day Gifts</a>
-	<ul>
-		<li><a href="/fathers-day-gifts/fathers-day-deals" class="menuClass">Deals</a></li>
-		<li><a href="/fathers-day-gifts/fathers-day-gifts-under-$100" class="menuClass">Under $100</a></li>
-		<li><a href="/fathers-day-gifts/fathers-day-gifts-under-$200" class="menuClass">Under $200</a></li>
-		<li><a href="/fathers-day-gifts/fathers-day-gifts-under-$500" class="menuClass">Under $500</a></li>
-		<li><a href="/fathers-day-gifts/unique-fathers-day-gifts" class="menuClass">Unique</a></li>
-		<li><a href="/fathers-day-gifts/" class="moreLink">More »</a></li>
-	</ul>
-</li> 
-<li class="holidays"><a href="/holidays">Holidays</a>
-	<ul>
-		<li><a href="/holidays/new-years" class="menuClass">New Year's</a></li>
-		<li><a href="/holidays/easter" class="menuClass">Easter</a></li>
-		<li><a href="/holidays/halloween" class="menuClass">Halloween</a></li>
-		<li><a href="/holidays/" class="moreLink">More »</a></li>
-	</ul>
-</li>
+
 <li class="giftOccasions">
-	<a href="/christmas-gifts">Christmas Gifts</a>		
+	<a href="/holidays">Holidays</a>		
 	<a href="/valentines-day-gifts">Valentine's Day Gifts</a>
 	<a href="/mothers-day-gifts">Mother's Day Gifts</a>
 	<a href="/team-building">Team Building</a>
@@ -620,18 +642,29 @@
 						
 						
 						
-							<li id="giftboxNav">
-								<a href="/gift-boxes"><span>Gift Boxes</span></a>
-							</li>
-						
-						
-						
-						
 							<li id="giftCertNav">
 								<a href="/gift-vouchers"><span>Gift Certificates</span>
 								</a>
 							</li>
-							<li id="corporateNav">
+						
+						
+						
+						
+						
+						
+						
+						
+							
+							
+								<li id="subscriptionNav">
+									<a href="/subscriptions"><span>Subscriptions</span></a>
+								</li> 
+								<li id="subscriptionNav">
+									<a href="/flowers"><span>Roses</span></a>
+								</li> 
+							
+							
+							<li id="corporateNav" class="extraMenuItem">
 								<a href="/corporate"><span>Corporate Sales</span></a>
 							</li>
 						
@@ -643,7 +676,8 @@
 			
 			
 				<div id="mboxNavigation">
-					<div class="mboxDefault"></div>
+					
+					<div class="mboxDefault" style="visibility: visible; display: block;"><span>version=1</span></div>
 
 					<script type="text/javascript">
 					   var gaJsHost = (("https:" == document.location.protocol) ? " https://ssl." : "http://www.");
@@ -715,7 +749,7 @@
 								}
 							}
 						}, 100);
-					</script>
+					</script><div id="mboxMarker-default-Navigation3Versions-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://mboxedge19.tt.omtrdc.net/m2/redballoon/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580368740351-831529&amp;mboxPage=1580368743217-474936&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxCount=1&amp;mbox=Navigation3Versions&amp;mboxId=0&amp;mboxTime=1580368743255&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140213232858id_%2Fhttp%253A%2F%2Fwww.redballoon.com.au%2Fhelp%2Fprivacy&amp;mboxReferrer=&amp;mboxVersion=40" language="JavaScript"></script>
 				</div>
 			
 						
@@ -922,7 +956,7 @@
 			</div>
 			</div>
 			<!-- Footer Starts -->
-			<div id="footerStatic">
+			<div id="footerStatic" style="position: fixed; bottom: 0px;">
 				
 					
 					
@@ -973,11 +1007,11 @@
 		<ul>
 			<li class="first"><a href="/help/privacy" title="Privacy">Privacy</a></li>
 			<li><a href="/help/terms-conditions" title="Terms and Conditions">Terms</a></li>
-			<li class="footerCopy">© RedBalloon 2013</li>
+			<li class="footerCopy">© RedBalloon 2014</li>
 		</ul>
 	</div>
 	<div class="clearer"></div>
-	<div id="footerHiddenMenu">
+	<div id="footerHiddenMenu" style="display: none;">
 		<ul id="footerHiddenColumns">
 						
 				<li id="experience-categories" class="footerColumn">
@@ -1046,10 +1080,10 @@
 					
 				
 				<!-- Instance: rb-consumer -->
-				<!-- Session ID: B0775AF6BE0764EA2438D5C866F27DB1.au-conappprod04 -->
-				<!-- Client IP Address: 10.0.11.69 -->
+				<!-- Session ID: D137E97141B29C01A13CDC09E0E1D005.au-conappprod02 -->
+				<!-- Client IP Address: 10.0.11.76 -->
 				<!-- Secure Port: 0 -->
-				<!-- Mode & IP: false 207.241.237.209 -->	
+				<!-- Mode & IP: false 207.241.237.224 -->	
 				<!-- Region: AU -->	
 			</div>
 			<!-- Footer Ends -->
@@ -1164,35 +1198,49 @@
 			
 		
 		
+		
 			
+			<script type="text/javascript">
+			/* <![CDATA[ */
+				var google_conversion_id = 1069938657;
+				var google_custom_params = window.google_tag_params;
+				var google_remarketing_only = true;
+			/* ]]> */
+			</script>
+			<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+			<noscript>
+				<div style="display:inline;">
+					<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1069938657/?value=0&guid=ON&script=0"/>
+				</div>
+			</noscript>			
+
+			<script type="text/javascript">
+				adroll_adv_id = "EQB3JZNXXZGMFBESQFNTFP";
+				adroll_pix_id = "IRMX22FSJNHQ7BKCZYMQP7";
+				(function () {
+				var oldonload = window.onload;
+				window.onload = function(){
+					__adroll_loaded=true;
+					var scr = document.createElement("script");
+					var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+					scr.setAttribute('async', 'true');
+					scr.type = "text/javascript";
+					scr.src = host + "/j/roundtrip.js";
+					((document.getElementsByTagName('head') || [null])[0] ||
+					document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+					if(oldonload){oldonload()}};
+				}());
+			</script>
+		
 				
-				<script type="text/javascript">
-					/* <![CDATA[ */
-					var google_conversion_id = 1069938657;
-					var google_conversion_language = "en";
-					var google_conversion_format = "3";
-					var google_conversion_color = "666666";
-					var google_conversion_label = "rR5kCOW0zAEQ4e-X_gM";
-					var google_conversion_value = 0;
-					/* ]]> */
-				</script>
-				<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"></script>
-				<noscript>
-					<div style="display:inline;">
-						<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1069938657/?label=rR5kCOW0zAEQ4e-X_gM&amp;guid=ON&amp;script=0"/>
-					</div>
-				</noscript>
-			
-		
-				
 		
 		
 		
 		
 		
 			
-				<div class="mboxDefault"></div>
-				<script language="JavaScript1.2">mboxCreate('spTestGroup');</script> 
+				<div class="mboxDefault" style="visibility: visible; display: block;"></div>
+				<script language="JavaScript1.2">mboxCreate('spTestGroup');</script><div id="mboxMarker-default-spTestGroup-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://mboxedge19.tt.omtrdc.net/m2/redballoon/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580368740351-831529&amp;mboxPage=1580368743217-474936&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxCount=2&amp;mbox=spTestGroup&amp;mboxId=0&amp;mboxTime=1580368743294&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140213232858id_%2Fhttp%253A%2F%2Fwww.redballoon.com.au%2Fhelp%2Fprivacy&amp;mboxReferrer=&amp;mboxVersion=40" language="JavaScript"></script> 
 			
 			
 		
@@ -1205,9 +1253,24 @@
 		
 		
 		
+		
+			<script type="text/javascript">//<![CDATA[
+				if(s){
+					
+					
+					
+
+					s.t();
+				}
+
+				enableSiteCatalyst = true;
+			//]]></script>
+		
+		
+		
 	
 
 		
 	
 
-</body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1010; top: 0px; left: 0px; display: none;"></ul></body></html>
