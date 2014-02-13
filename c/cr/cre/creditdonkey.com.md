@@ -1,6 +1,64 @@
-> *The following text is extracted and transformed from the creditdonkey.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822215832id_/http%3A//www.creditdonkey.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditdonkey.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213233553id_/http%3A//www.creditdonkey.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CreditDonkey
+
+| | |   
+---|---|---  
+| Top Rankings |   
+| 
+
+  * [Best Credit Cards](http://www.creditdonkey.com/best-credit-cards.html)
+  * [Student Credit Cards](http://www.creditdonkey.com/student/)
+  * [Business Credit Cards](http://www.creditdonkey.com/business/)
+  * [Low Interest Credit Cards](http://www.creditdonkey.com/low-interest.html)
+  * [Balance Transfer](http://www.creditdonkey.com/balance-transfers.html)
+
+|   
+| |   
+  
+  
+| |   
+| Rewards |   
+| 
+
+  * [Cash Back Credit Cards](http://www.creditdonkey.com/cash-back/)
+  * [Gas Credit Cards](http://www.creditdonkey.com/gas/)
+  * [Airline Credit Cards](http://www.creditdonkey.com/airline-miles/)
+  * [Travel Credit Cards](http://www.creditdonkey.com/best-travel.html)
+
+|   
+| |   
+  
+  
+| |   
+| Introductory Offers |   
+| 
+
+  * [Credit Card Deals](http://www.creditdonkey.com/credit-card-deals.html)
+  * [Credit Card Rewards](http://www.creditdonkey.com/credit-card-rewards.html)
+  * [0% Balance Transfer](http://www.creditdonkey.com/0-balance-transfers.html)
+
+|   
+| |   
+  
+  
+| |   
+| Resources |   
+| 
+
+  * [Money Tips](http://www.creditdonkey.com/tip.html)
+  * [News and Trends](http://www.creditdonkey.com/news.html)
+  * [Reviews and Ratings](http://www.creditdonkey.com/review.html)
+  * [Like us on Facebook](https://www.facebook.com/CreditDonkey)
+  * [Follow us on Twitter](https://twitter.com/CreditDonkey)
+  * [Subscribe via RSS](http://feeds.creditdonkey.com/CreditDonkey)
+
+|   
+| |   
+  
+
+
+* * *
 
 This is the web site of CreditDonkey.
 
@@ -37,3 +95,6 @@ From time to time, we may use customer information for new, unanticipated uses n
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses.
 
 If you do not agree to our Privacy Policy, DO NOT use this Site.
+
+  
+
