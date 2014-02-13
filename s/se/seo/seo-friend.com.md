@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seo-friend.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020060458id_/http%3A//www.seo-friend.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo-friend.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213115052id_/http%3A//www.seo-friend.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SEO Friendly Web Directory
 
