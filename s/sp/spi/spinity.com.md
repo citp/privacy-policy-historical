@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spinity.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816225311id_/https%3A//www.spinity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spinity.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213235727id_/https%3A//www.spinity.com/privacy) for the most accurate reproduction.*
 
 # Spinity - Privacy policy
 
