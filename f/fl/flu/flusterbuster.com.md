@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flusterbuster.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808071919id_/http%3A//www.flusterbuster.com/2012/08/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flusterbuster.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213202825id_/http%3A//www.flusterbuster.com/2012/08/privacy-policy.html) for the most accurate reproduction.*
 
 # Fluster Buster: Privacy Policy
 
