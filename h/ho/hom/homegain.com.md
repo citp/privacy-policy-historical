@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the homegain.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827231141id_/http%3A//www.homegain.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homegain.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213021826id_/http%3A//www.homegain.com/privacy) for the most accurate reproduction.*
 
 # HomeGain -- Find a real estate agent - Realtor - Real Estate - Homes for sale - Home Buying - Home Selling - Home - HomeGain
 
-**Effective December 16, 2008**
+|  [](https://privacy.truste.com/privacy-seal/HomeGain/validation?rid=3c28f47f-8424-4d08-a8fa-91e827ba4c3e "TRUSTe online privacy certification")  
+---|---  
+  
+**Effective July 17, 2013**
 
 HomeGain is committed to protecting the privacy of its users. When you register for HomeGain's online services, the information you provide to us is used to provide the services you have registered for, to deliver email notifications to you, and from time to time, to validate your identity. Our data collection policies with regard to current and future services allow you to choose how much information you provide to us, and to control how we use that information. Read below to find out more. 
 
@@ -21,6 +24,10 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 **Third Party Cookies**
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by HomeGain only and does not cover the use of cookies by any advertisers.
+
+**Web Beacons**
+
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
 
 **Links to Third Party Web Sites**
 
@@ -62,6 +69,9 @@ Agents click [www.homegain.com/agent/agentProfile1](https://web.archive.org/agen
 
 Consumers click [www.homegain.com/client/user_info](https://web.archive.org/client/user_info)
 
+**Data Retention**  
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
 **Standard corporate transfers of information**
 
 Information about the users of our web site, including personally identifiable information, may also be disclosed in connection with certain standard business transaction such as any debt financing, acquisition or merger, sale of assets as well as in the event of a bankruptcy, assignment for benefit of creditors or receivership in which personally identifiable information could be sold or transferred to third parties as an asset. Please see our “Changes in this Privacy Statement” section below for how we will notify users of such an occurrence. 
@@ -84,9 +94,9 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 **TRUSTe Program**
 
-HomeGain.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy policy covers the Web site [www.homegain.com](https://web.archive.org/index_html). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+HomeGain has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site www.homegain.com.
 
-If you have any questions or concerns regarding this statement, you should first contact HomeGain's corporate counsel at [privacy@homegain.com](mailto:privacy@homegain.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSte will then serve as a liaison with us to resolve your concerns. 
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@homegain.com If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 **Privacy questions**
 
