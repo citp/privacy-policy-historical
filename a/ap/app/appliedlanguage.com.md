@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appliedlanguage.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514080341id_/http%3A//www.capitatranslationinterpreting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliedlanguage.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213010754id_/http%3A//www.capitatranslationinterpreting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « « Capita Translation and InterpretingCapita Translation and Interpreting
 
@@ -44,14 +44,6 @@ Riverside Court,
 Huddersfield Road,  
 Delph Oldham,  
 OL3 5FZ
-
-## Bulgaria
-
-8 Tru Ushi Str.,  
-Fl. 1,  
-Offices 1 and 2,  
-Triaditsa 1301,  
-Sofia
 
 You may continue to receive communications to you for a short period of time while your suppression is being processed. You have the right to see personal information which is held about you or your company upon written request.
 
