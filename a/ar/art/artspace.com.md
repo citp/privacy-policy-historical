@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artspace.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016053840id_/http%3A//www.artspace.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artspace.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213091824id_/http%3A//www.artspace.com/privacy_policy) for the most accurate reproduction.*
 
 # Artspace - Privacy Policy
 
@@ -43,6 +43,10 @@ A cookie is a text file that is assigned by a web server and stored on a user's 
 Artspace uses "session" or temporary cookies to ensure that you are recognized when you move from page to page on the site and that any information you enter on the Site (for example, items in your shopping cart) are not lost as you navigate the site. We also use persistent cookies so we can remember you on subsequent visits to our Site, which enables us to provide a more enhanced, efficient and personal experience when you return to our Site. We do not link the information we store in cookies to any personally identifiable information you submit while on our Site.
 
 If you do not want to have cookies placed on your computer, you can set your browser to refuse or remove cookies by following the instructions in your browser's "help" file. However, doing so will limit system performance, may not allow you to take advantage of certain features on our Site and even cause certain features of the Site to malfunction.
+
+We may permit limited third parties to place cookies through the Site to provide us with better insights into the use of the Site, user demographics, or to provide relevant advertising to you. These third parties may collect information about a consumer's online activities over time and across different websites when he or she uses our Site.
+
+We do not use technology that recognizes do-not-track signals from your web browser.
 
 ### HOW WE USE YOUR INFORMATION
 
