@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copub.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014210703id_/http%3A//about.copub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copub.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213102027id_/http%3A//about.copub.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -21,6 +21,8 @@ Activity. We record information relating to your use of the Copub Site, such as 
 Cookies. We might send cookies to your computer in order to uniquely identify your browser and improve the quality of our service. The term "cookies" refers to small pieces of information that a website sends to your computer's hard drive while you are viewing the site. We may use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them). Persistent cookies can be removed by following your browser help file directions.
 
 Enforcement. We may use the information we collect in connection with your use of the Copub Site (including your personal information) in order to investigate, enforce, and apply our Terms of Service and Privacy Policy. 
+
+Payment Informations: Please note that we do NOT store credit/debit card numbers, nor do we share customer details with any 3rd parties. If you choose to pay using a Credit Card, your credit card details are not stored by us and cannot be used by our staff.
 
 II. Transfer of Information
 
