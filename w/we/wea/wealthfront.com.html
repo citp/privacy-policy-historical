@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the wealthfront.com privacy policy that was archived on 2013-08-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130809140943id_/https%3A//www.wealthfront.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wealthfront.com privacy policy that was archived on 2014-02-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140213021329id_/https%3A//www.wealthfront.com/legal/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head data-r="955c7de6dc3282508d1e67f5a6e4aeb07fddf358 5">
+<!DOCTYPE html><html lang="en"><head data-r="e39d6f85c6b8e7498e85bacec5a8bcbcfb525007 5">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Wealthfront Privacy Policy</title>
 <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,200italic,300italic,400italic,600italic,700italic" rel="stylesheet" type="text/css">
@@ -13,14 +13,16 @@ function onReady(fn){onReady.fns.push(fn)}
 onReady.fns=[]
 </script>
 
-<link href="https://d1rthi4uscpmfy.cloudfront.net/assets/ofa/common2-af393d185f98ec2d9c3fe711abf6dedb.css" rel="stylesheet" type="text/css">
+<link href="https://d1rthi4uscpmfy.cloudfront.net/assets/ofa/common2-cb1bd0240edb8ce1ca7472c018689469.css" rel="stylesheet" type="text/css">
 <link href="https://d1rthi4uscpmfy.cloudfront.net/assets/classy-7a431ff68514f5e93a85fdc09d48c407.css" rel="stylesheet" type="text/css">
 
 </head>
 <body class="">
   
   <div id="page-wrapper">
-	<header class="classy">
+	
+
+<header class="classy">
 	<nav>
 		<a href="https://www.wealthfront.com/" id="header-logo">
 			<img src="https://d1rthi4uscpmfy.cloudfront.net/assets/ofa/header-logo-2x-2d7efba4e0f273fc1cf1264ac5630df4.png">
@@ -36,7 +38,6 @@ onReady.fns=[]
 			<button class="header-button grey log-in" tabindex="3">Log In</button>
 			<button class="header-button green open-account">Open An Account</button>
 		</div>
-
 		<div id="header-credentials-wrap">
 			<form method="post" action="/login" target="_top" id="header-credentials">
 				<input id="header-email" name="email" type="email" placeholder="email" tabindex="1">
@@ -154,7 +155,7 @@ onReady.fns=[]
 		</div>
 
 		<ul class="footer-links">
-			<li><a href="https://www.wealthfront.com/static/documents/wealthfront_client_agrmt_121108.pdf">Client Agreement</a>
+			<li><a href="https://www.wealthfront.com/static/documents/personal_account_agreements.pdf">Client Agreement</a>
 			</li><li><a href="https://www.wealthfront.com/legal/terms">Terms of Use</a>
 			</li><li><a href="https://www.wealthfront.com/legal/privacy">Privacy Policy</a>
 			</li><li><a href="https://www.wealthfront.com/legal/copyright">Copyright Policy</a>
@@ -175,7 +176,7 @@ onReady.fns=[]
 				<a href="http://www.linkedin.com/company/wealthfront-inc." id="li">LinkedIn</a>
 				<a href="http://feeds.feedburner.com/TheUpfrontBlog?format=xml" id="rss">RSS</a>
 			</div>
-			<div class="footer-copyright">© 2013 Wealthfront Inc.</div>
+			<div class="footer-copyright">© 2014 Wealthfront Inc.</div>
 		</div>
 	</div>
 </footer>
@@ -235,39 +236,61 @@ onReady.fns=[]
     <div class="margin-gutter"></div>
   </div>
 
-  
-  <script src="https://d1rthi4uscpmfy.cloudfront.net/assets/base-d127b2e09c83a65d874c59eb7552dae8.js" type="text/javascript"></script>
+  <script src="https://d1rthi4uscpmfy.cloudfront.net/assets/base-abb2fd39808684845b6431dab0011dd1.js" type="text/javascript"></script>
+
+  <script>
+    $(function() {
+      window._error_count = 0;
+      window.onerror = function(error, url, lineNumber) {
+        window._error_count++;
+        var payload = {"rev": "e39d6f85c6b8e7498e85bacec5a8bcbcfb525007", "error": error, "agent": navigator.userAgent, "stack": []};
+
+        // begin ie9 only stack trace grabbing
+        var value = arguments.callee;
+        for (var i=0; i!==10; ++i) {
+          if (value.caller) {
+            payload.stack.push(value.caller.toString());
+            value = value.caller;
+          }
+        }
+
+        if (!w.jsErrors[payload]) {
+          w.jsErrors[payload] = true;
+          w.trackESP("ClientSideError", location.href, JSON.stringify(payload));
+        }
+
+        return false;
+      }
+    });
+  </script>
+
 
 <script>
-_gaq = [["_setAccount","UA-1329988-4"],["_trackPageview", "/legal/privacy"]];
-w.requestId = "1117145805";
-w.eventUri = "/event";
-
-$(function(){
-  window._error_count = 0;
-  window.onerror = function(error, url, lineNumber) {
-    window._error_count++;
-    var payload = {"rev": "955c7de6dc3282508d1e67f5a6e4aeb07fddf358", "error": error, "agent": navigator.userAgent, "stack": []};
-
-    // begin ie9 only stack trace grabbing
-    var value = arguments.callee;
-    for(i=0; i!=10; ++i) {
-      if(value.caller) {
-        payload.stack.push(value.caller.toString());
-        value = value.caller;
-      }
-    }
-
-    if (!w.jsErrors[payload]) {
-      w.jsErrors[payload] = true;
-      w.trackESP("ClientSideError", location.href, JSON.stringify(payload));
-    }
-
-    return false;
-  }
-  $.each(onReady.fns, function(i,f) {f()});
-});
+  var _gaq = _gaq || [];
+  var w = w || {};
+  w.requestId = "2140598614";
+  w.eventUri = "/event";
 </script>
+
+  <script>
+    var _gaq = _gaq || [];
+    _gaq.push(["_setAccount","UA-1329988-4"]);
+    _gaq.push(["_trackPageview", "/legal/privacy"]);
+    _gaq.push(['_setDomainName', 'wealthfront.com']);
+
+      adroll_adv_id = "GEZL2AEZZ5B2DAJH6YZW3F";
+      adroll_pix_id = "BGYQPXUDYJENPNFAKEX5JS";
+      $(function(){
+        setTimeout(function(){
+          __adroll_loaded = true;
+          $("<script>", {src: "https://s.adroll.com/j/roundtrip.js", async: true}).appendTo("head");
+        }, 2000);
+      });
+
+    $.each(onReady.fns, function(i,f) {f()});
+  </script>
+
+  <script src="https://stats.g.doubleclick.net/dc.js" defer="" async=""></script>
 
 <script>
 var $loginButton = $(".log-in.header-button"),
@@ -332,7 +355,7 @@ if (c) {
 	w.removeCookie("idle");
 	if (c == "1") {
 		$sessionTimedOut.show();
-		showLogin();
+		showCredentials(false);
 	}
 }
 
@@ -352,19 +375,10 @@ $("#why-wealthfront").click(function() {
     </script>
 
 
-<script src="https://stats.g.doubleclick.net/dc.js" defer="" async=""></script>
-
-<script>
-adroll_adv_id = "GEZL2AEZZ5B2DAJH6YZW3F";
-adroll_pix_id = "BGYQPXUDYJENPNFAKEX5JS";
-$(function(){
-  setTimeout(function(){
-    __adroll_loaded = true;
-    $("<script>", {src: "https://s.adroll.com/j/roundtrip.js", async: true}).appendTo("head");
-  }, 2000);
-});
-</script>
-
+  <script>
+      _gaq.push(['_setCustomVar', 2, 'ready_to_start_modal', 'ctl', 3]);
+    w.trackAbTest('ready_to_start_modal', 'ctl');
+  </script>
 
 
 
