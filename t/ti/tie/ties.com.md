@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ties.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204114343id_/http%3A//www.ties.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ties.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213065646id_/http%3A//www.ties.com/privacy-policy) for the most accurate reproduction.*
 
 # Ties.com - Privacy Policy
 
@@ -33,6 +33,10 @@ The online shopping process at Ties.com is safe and secure. Whenever you are in 
 The so-called cookie is a small piece of information that is stored on your computer's hard drive by your web browser and which may be accessed by our server. The cookies we provide to your browser do not contain any personal information, but they do allow us to provide special services to you while you visit our website. Cookies simplify the ordering process by remembering information about you, allow the use of the shopping cart function, and enable online ordering. 
 
 If you do not wish to accept cookies, most browsers allow you to prevent them from being accepted and saved to your hard drive. If you choose not to use cookies, you will be unable to place online orders at our website. 
+
+### Do Not Track Headers
+
+Ties.com itself does not respond to the "Do Not Track" HTTP Header. 
 
 ### Disclosure of Information to Third Parties
 
