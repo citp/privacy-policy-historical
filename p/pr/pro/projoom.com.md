@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the projoom.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508122204id_/http%3A//www.projoom.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projoom.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213120545id_/http%3A//www.projoom.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy Thank you for visiting our web site. | ProJoom - Professional Extensions
+# Privacy Policy Thank you for visiting our web site. | ProJoom - Joomla! Professional Extensions
 
 * * *
 
