@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the airportrentals.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906064956id_/https%3A//www.airportrentals.com/aboutus.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airportrentals.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213080001id_/https%3A//www.airportrentals.com/aboutus.html%23privacy) for the most accurate reproduction.*
 
-# About Airportrentals.com - Airport Rentals Worldwide
+# About AirportRentals.com - airport rentals worldwide
 
 When you want to pick up from the airport and want fuss-free car rental at a great price, you can trust us to deliver. This dedicated airport car rental website is operated by Car Rental Republic, an experienced specialist car rental broker who has arranged car rentals for over 500,000 leisure and business renters. Our advanced distribution and booking technology delivers the best car rental deals on the web, and is backed by a dedicated customer service team who are available 24 hours a day, 7 days a week. For our contact details, click [here](https://www.airportrentals.com/contact.html).
 
