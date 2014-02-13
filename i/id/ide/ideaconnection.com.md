@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ideaconnection.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512171504id_/http%3A//www.ideaconnection.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideaconnection.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213150154id_/http%3A//www.ideaconnection.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,15 +11,14 @@
   * [News Releases](https://web.archive.org/press-releases/)
   * [Link to Us](https://web.archive.org/link-to-us.html)
   * [Advertising](https://web.archive.org/advertise/)
+  * [Employment](https://web.archive.org/employment/)
   * [IdeaConnection Blog](http://www.ideaconnection.com/blog/)
-  
-
   * [IdeaConnection Newsletter](http://www.ideaconnection.com/newsletters/signup.html)
 
 |    
 We do not sell or rent any user information.
 
-This Privacy Policy explains what IdeaConnection Ltd. ("ICL") does with the personal information that is collected from users of the _IdeaConnection.com_ website. ICL may change its policy from time to time, so it is suggested that you check this web site from time to time to ensure that you know about current policy. If you have any questions or concerns regarding this policy, you should contact _IdeaConnection.com_ via our [Contact Page](https://web.archive.org/web/20130512171504id_/http%3A//www.ideaconnection.com/contact.html).
+This Privacy Policy explains what IdeaConnection Ltd. ("ICL") does with the personal information that is collected from users of the _IdeaConnection.com_ website. ICL may change its policy from time to time, so it is suggested that you check this web site from time to time to ensure that you know about current policy. If you have any questions or concerns regarding this policy, you should contact _IdeaConnection.com_ via our [Contact Page](https://web.archive.org/web/20140213150154id_/http%3A//www.ideaconnection.com/contact.html).
 
 ICL may collect IP addresses to help understand how our audience uses our site and to gather broader demographic information, so that ICL can make its site better and improve users' overall experience when they visit _IdeaConnection.com_. For these same reasons, if your browser is set up to accept them, ICL uses a feature known as a "cookie." Cookies contain bits of information that websites transfer to your computer's hard drive for record keeping purposes. Cookies can make the Web more useful by storing information about your preferences on a particular site such as _IdeaConnection.com_. 
 
@@ -47,7 +46,7 @@ When you submit a project for crowdfunding, all the contact information you have
 When a crowdfunding project has met it funding goal, the funders' contact information is made available to the project owner so that the project owner may deliver the awards promised to the funders.
 
 **Our other Services**  
-ICL may send you occasional notices or newsletters about ICL services, unless you tell us not to. If you do not want to receive such offers and mailings, you can click the unsubscribe link, which you will find on our email messages or send an email at any time via our [Contact](https://web.archive.org/web/20130512171504id_/http%3A//www.ideaconnection.com/contact.html) page.
+ICL may send you occasional notices or newsletters about ICL services, unless you tell us not to. If you do not want to receive such offers and mailings, you can click the unsubscribe link, which you will find on our email messages or send an email at any time via our [Contact](https://web.archive.org/web/20140213150154id_/http%3A//www.ideaconnection.com/contact.html) page.
 
 **How to Edit the Information ICL Has About You**  
 If you want to correct or change the information in your profile, or any other information we have about you, please login to your account and make the changes you wish.
@@ -56,16 +55,21 @@ We do our best to protect your personal information, ICL cannot ensure or warran
 
 ICL may provide links from our website to others. If you follow these links from our site to theirs, you should be aware that these other sites have their privacy and data collection practices. ICL has no responsibility or liability for these independent policies. For more information regarding a site and its privacy policies, check that site.
 
+**This website uses Google AdWords**  
+This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven't completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google and DoubleClick AdExchange, use cookies to serve ads based on someone's past visits to the www.ideaconnection.com website. Of course, any data collected will be used in accordance with our own privacy policy and Google's privacy policy.
+
+You can set preferences for how Google advertises to you using the [Google Ad Preferences](http://www.google.com/settings/ads/onweb/) page.
+
 **Security**  
 This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.
 
-If you have any questions about the security at our website, you can [Contact Us](https://web.archive.org/web/20130512171504id_/http%3A//www.ideaconnection.com/contact.html).
+If you have any questions about the security at our website, you can [Contact Us](https://web.archive.org/web/20140213150154id_/http%3A//www.ideaconnection.com/contact.html).
 
 **Conditions of Use**  
-Any dispute over privacy is subject to our [Terms of Service](https://web.archive.org/web/20130512171504id_/http%3A//www.ideaconnection.com/terms.html), including limitations on damages, arbitration of disputes, and the application of the law of British Columbia, Canada. While ICL will endeavour to email you with changes to either this Privacy Statement or the [Terms of Service](https://web.archive.org/web/20130512171504id_/http%3A//www.ideaconnection.com/terms.html), you should check our web site frequently for any recent changes.
+Any dispute over privacy is subject to our [Terms of Service](https://web.archive.org/web/20140213150154id_/http%3A//www.ideaconnection.com/terms.html), including limitations on damages, arbitration of disputes, and the application of the law of British Columbia, Canada. While ICL will endeavour to email you with changes to either this Privacy Statement or the [Terms of Service](https://web.archive.org/web/20140213150154id_/http%3A//www.ideaconnection.com/terms.html), you should check our web site frequently for any recent changes.
 
 **Contacting Us**  
-If you have any questions or comments about the practices of this site, or your dealings with us, you may [Contact Us](https://web.archive.org/web/20130512171504id_/http%3A//www.ideaconnection.com/contact.html).
+If you have any questions or comments about the practices of this site, or your dealings with us, you may [Contact Us](https://web.archive.org/web/20140213150154id_/http%3A//www.ideaconnection.com/contact.html).
 
-|  [Contact Us Today](https://web.archive.org/contact-rep.html)  
+|  [Contact Us Today](https://www.ideaconnection.com/contact-rep.html)  
 
