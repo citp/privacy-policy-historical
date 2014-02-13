@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dinartrade.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814025605id_/https%3A//www.dinartrade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinartrade.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213205717id_/https%3A//www.dinartrade.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DinarTrade.com
+
+### Note: Updated privacy notice as of February, 2014
 
 This privacy notice discloses the privacy practices for www.dinartrade.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
@@ -12,6 +14,7 @@ This privacy notice discloses the privacy practices for www.dinartrade.com. This
 **Information Collection, Use, and Sharing**   
 * We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.   
 * We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.   
+* Unless you ask us not to, we may occasionally provide your name, telephone, and or email contact to companies offering products or services likely to be of interest to our customers.   
 * Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy. 
 
 **Your Access to and Control Over Information**
