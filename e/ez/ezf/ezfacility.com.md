@@ -1,16 +1,22 @@
-> *The following text is extracted and transformed from the ezfacility.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216053400id_/http%3A//www.ezfacility.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezfacility.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214005513id_/http%3A//www.ezfacility.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 EZFacility, Inc. ("EZFacility" or the "Company") is committed to protecting the privacy of your information. This Privacy Statement describes EZFacility’s information practices.
 
-The company has certified its participation, and compliance with the Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the transfer of personal information from European Union member countries to the United States. The principles of Safe Harbor compliance are notice, choice, onward transfer, security, data integrity, access, and enforcement. Additional information about the Safe Harbor principles and certification process can be found at <http://www.export.gov/safeharbor/>.
+EZFacility complies with the U.S. – E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union member countries. EZFacility has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view EZFacility’s certification, please visit http://www.export.gov/safeharbor/.
 
-If you have any questions about this Privacy Statement, please contact EZFacility.com by emailing [info@ezfacility.com](mailto:info@ezfacility.com). 
+EZFacility has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
+
+The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.ezfacility.com and does not cover information that may be collected through our [mobile applications] [social networking applications] [behind the log in on our website].
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request.
+
+If you have any questions about this Privacy Statement, please contact EZFacility.com by emailing info@ezfacility.com.
 
 ## 1\. Web Sites Covered
 
-This Privacy Statement covers the information practices of Web sites that link to this Privacy Statement: [http://www.ezacility.com](http://www.ezacility.com/); [http://www.ezfacility.co.uk](http://www.ezfacility.co.uk/); and [http://www.ezfacility.nl](http://www.ezfacility.nl/) (collectively referred to as "EZFacility’s Web sites" or "the Company’s Web sites").
+This Privacy Statement covers the information practices of Web sites that link to this Privacy Statement: [http://www.ezacility.com](http://www.ezacility.com/).
 
 EZFacility.com’s Web sites may contain links to other Web sites. EZFacility.com is not responsible for the information practices or the content of such other Web sites. The Company encourages you to review the privacy statements of other Web sites to understand their information practices.
 
@@ -62,13 +68,17 @@ EZFacility also collects IP addresses from Customers whey they log into the Serv
 
 From time-to-time, EZFacility engages third parties to track and analyze non-personally identifiable usage and volume statistical information from individuals who visit the Company’s Web sites. EZFacility may also use other third-party cookies to track the performance of Company advertisements. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after the Company receives it. This Privacy Statement does not cover the use of third party cookies.
 
+#### Social Media Widgets
+
+Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
 ## 5\. Public Forums, Refer a Friend, and Customer Testimonials
 
-EZFacility may provide bulletin boards, blogs, or chat rooms on the Company’s Web sites. Any personally identifiable information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. EZFacility is not responsible for the personally identifiable information you choose to submit in these forums.
+EZFacility may provide bulletin boards, blogs, or chat rooms on the Company’s Web sites. Any personally identifiable information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. EZFacility is not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at support@ezfacility.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 Customers and Visitors may elect to use the Company’s referral service to inform friends about the Company’s Web sites. When using the referral service, the Company requests the friend’s name and email address. EZFacility will automatically send the friend a one-time email inviting him or her to visit the Company’s Web sites. EZFacility does not store this information.
 
-EZFacility posts a list of Customers and testimonials on the Company’s Web sites that contain information such as Customer names and titles. EZFacility obtains the consent of each Customer prior to posting any information on such a list or posting testimonials.
+EZFacility posts a list of Customers and testimonials on the Company’s Web sites that contain information such as Customer names and titles. EZFacility obtains the consent of each Customer prior to posting any information on such a list or posting testimonials. If you wish to update or delete your testimonial, you can contact us at support@ezfacility.com.
 
 ## 6\. Sharing of Information Collected
 
@@ -76,7 +86,7 @@ EZFacility may share Data about EZFacility Customers with the Company’s agents
 
 EZFacility uses a third-party intermediary to manage credit card processing. This intermediary is not permitted to store, retain, or use Billing Information except for the sole purpose of credit card processing on the Company’s behalf.
 
-EZFacility reserves the right to disclose personally identifiable information of the Company’s Customers or Visitors if required by law or if the Company reasonably believes that disclosure is necessary to protect the Company’s rights and/or to comply with a judicial proceeding, court order, or legal process.
+EZFacility reserves the right to disclose personally identifiable information of the Company’s Customers or Visitors if required by law or if the Company reasonably believes that disclosure is necessary to protect the Company’s rights and/or to comply with a judicial proceeding, court order, or legal process. If EZFacility is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 ## 7\. Communications Preferences
 
@@ -85,6 +95,8 @@ EZFacility offers Customers and Visitors who provide contact information a means
 ## 8\. Correcting and Updating Your Information
 
 Customers may update or change their registration information by editing their user or organization record. To update a user profile, please login to [https://secure.ezfacility.com](https://secure.ezfacility.com/) with your EZFacility username and password and click "Administration / User Administration." To update your organization’s information, please login [https://secure.ezfacility.com](https://secure.ezfacility.com/) with your EZFacility username and password and select "Administration / Location/Facility Setup." To update Billing Information or have your registration information deleted, please email [support@ezfacility.com](mailto:support@ezfacility.com) or call (516)349-1999. To discontinue your account and to have information you maintained in the Service returned to you, please email support@EZFacility or call (516) 349-1999. Requests to access, change, or delete your information will be handled within 30 days.
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## 9\. Customer Data
 
