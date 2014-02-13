@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the richersounds.com privacy policy that was archived on 2013-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131014041425id_/http%3A//www.richersounds.com/information/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the richersounds.com privacy policy that was archived on 2014-02-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140213221304id_/http%3A//www.richersounds.com/information/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="Http://www.facebook.com/2008/fbml" slick-uniqueid="3"><head>
 			<meta name="Content-Type" content="text/html; charset=iso-8859-1">
@@ -7,7 +7,7 @@
 	<meta name="charset" content="ISO-8859-1">
 	<meta name="distribution" content="Global">
 	<meta name="author" content="Richer Sounds">
-	<meta name="copyright" content="Copyright (c) 2013 by Richer Sounds">
+	<meta name="copyright" content="Copyright (c) 2014 by Richer Sounds">
 	<meta name="revisit-after" content="3">
 	<meta name="index,follow" content="robots">
 	<meta name="title" content="Richer Sounds - The UK's Hi-Fi, Home Cinema &amp; Flat Panel TV Specialists!">
@@ -21,6 +21,12 @@
 
 <title>Richer Sounds - The UK's Hi-Fi, Home Cinema &amp; Flat Panel TV Specialists!</title>
 <link href="http://www.richersounds.com/js/min/?f=/css/typography.css,/css/s.css,/css/menu.css,/css/storepages.css,/css/static.css,/css/jquery.autocompletenew.css,/js/jquery.fancyapps.fancybox/source/jquery.fancybox.css,/js/jquery.fancyapps.fancybox/source/helpers/jquery.fancybox-buttons.css,/js/jquery.fancyapps.fancybox/source/helpers/jquery.fancybox-thumbs.css,/js/highslide/highslide.css,/css/corporate.css,/css/installations.css,/css/milkbox/milkbox.css,/css/manufacturerpages.css,/css/jquery-ui-1.10.2.custom.css&amp;1" rel="stylesheet" type="text/css">
+
+<style type="text/css">
+	body.custombgcolour {
+		background-color:#eaeaea;
+	}
+</style>
 
 
 
@@ -45,7 +51,9 @@
 		s);
 	})();
 </script>	</head>
-	<body class="normbg">
+
+	<body class="custombg custombgcolour ">
+
 					<div class="container">
 				<a name="top"></a>
 
@@ -88,19 +96,23 @@
 <li class="topStorefinderLink spacer">
 		<a class="ihover" href="/storefinder">Store Finder</a>
 	<div id="headerStoreFinderPopupContainer">
-		<div id="headerStoreFinderPopup">
-			<div class="popupArrow homepageSprite"></div>
+		<div class="storefinder_popup_inner">
+		<div class="popupArrow homepageSprite"></div>
+
+		
 			<p>Find your local store by entering your town or postcode.</p>
-			<form method="post" action="/storefinder" id="storefinder_form">
-				<input type="hidden" name="storelocator_lat" id="storelocator_lat">
-				<input type="hidden" name="storelocator_lng" id="storelocator_lng">
+	
+		<form method="post" action="/storefinder" class="storelocator_form">
+		<input type="hidden" name="storelocator_lat" class="storelocator_lat">
+		<input type="hidden" name="storelocator_lng" class="storelocator_lng">
 
 				<input id="storelocator_postcode" class="postcode homepageSprite" type="text" name="storelocator_postcode" value="Town / Postcode" key="Town / Postcode">
-				<input type="submit" value="Search" class="search homepageSprite" onclick="javascript:rs.usePointFromPostcode(jQuery('#storelocator_postcode').val());return false;">
+
+				<input type="submit" value="Search" class="search homepageSprite">
+
 				<span class="storefinder homepageSprite"></span>
-			</form>
-		</div>
-	</div>
+	</form>
+</div>	</div>
 </li>
 <li class="richerRedText">&nbsp;|&nbsp;</li>
 <li class="spacer"><a href="/information/privacy">Privacy &amp; Cookies</a></li>
@@ -109,7 +121,7 @@
 <li class="richerRedText">&nbsp;|&nbsp;</li>
 <li class="spacer"><a href="http://www.m.richersounds.com">Mobile Site</a></li>
 <li class="richerRedText">&nbsp;|&nbsp;</li>
-<li class="firstTopMenuLink spacer"><a href="/">Home Page</a></li></ul><div class="logo"><a href="http://www.richersounds.com/" name="top" title="Return to Richer Sounds homepage"><img src="http://www.richersounds.com/images/hp/richer-logo6.jpg" alt="Return to Richer Sounds homepage" class="HPLogo" height="80"></a><div class="searchBar">
+<li class="firstTopMenuLink spacer"><a href="/">Home Page</a></li></ul><div class="logo"><a href="http://www.richersounds.com/" name="top" title="Return to Richer Sounds homepage"><img src="http://www.richersounds.com/images/hp/richer-logo6.png" alt="Return to Richer Sounds homepage" class="HPLogo" height="80"></a><div class="searchBar">
 	<form class="newSearch" onsubmit="javascript: rs.submitFormSearchValidate(this.search, 'frmsearch', true); return false;" action="http://www.richersounds.com/search/" method="POST" id="frmsearch">
 		<input type="hidden" value="productlist" name="cda">
 		<input type="text" value="Search by keyword" key="Search by keyword" name="search" class="text homepageSprite" id="search">
@@ -150,7 +162,7 @@
 								<option value="PORTABLEDAB">Internet/DAB radio</option>
 								<option value="IPADTABLETS">iPads/Tablets PCs</option>
 								<option value="INTERCONNECTS">iPod Leads</option>
-								<option value="LCD2">LCD/LED TVs</option>
+								<option value="LCD2">LCD/LED/OLED TVs</option>
 								<option value="MAINSPOWER">Mains Power Accessories</option>
 								<option value="MICROWAVES">Microwaves</option>
 								<option value="MINISYSTEMS">Mini Hi-Fi</option>
@@ -158,7 +170,6 @@
 											<option value="MULTI-ROOM">Multi-room Components</option>
 								<option value="PLASMALCDSTANDSBRACKETS1">Other TV Accessories</option>
 								<option value="DIGITALRECORDERS">Personal Digital Recorders</option>
-								<option value="PHONOPREAMPS">Phono Pre-amps</option>
 								<option value="PLASMA">Plasma TV</option>
 								<option value="PORTABLEDVD">Portable DVD</option>
 								<option value="PROJECTORMOUNTS">Projector Mounts</option>
@@ -176,6 +187,7 @@
 								<option value="STREAMINGHOMECINEMA">Streaming Home Cinema</option>
 								<option value="SUBWOOFERS">Subwoofers</option>
 								<option value="TUNERS-PORTABLEDAB">Tuners</option>
+								<option value="PHONOPREAMPS">Turntable Accessories</option>
 								<option value="TURNTABLES">Turntables</option>
 								<option value="TVALL">TV - All</option>
 								<option value="TVBRACKETS">TV BRACKETS</option>
@@ -193,25 +205,25 @@
 							<option value="ALTEC">ALTEC LANSING</option>
 							<option value="APPLE">APPLE</option>
 							<option value="ARCA">ARCAM</option>
-							<option value="ASUS">ASUS</option>
 							<option value="ATAC">ATACAMA</option>
 							<option value="ATLA">ATLAS</option>
 							<option value="ATLO">ATLONA</option>
 							<option value="AUDPRO">AUDIO PRO</option>
 							<option value="AUDITE">AUDIO TECHNICA</option>
 							<option value="AUDI">AUDIOQUEST</option>
+							<option value="BDI">BDI</option>
 							<option value="BEATS">BEATS BY DR DRE</option>
 							<option value="BENQ">BENQ</option>
 							<option value="BEYE">BEYERDYNAMIC</option>
-							<option value="BLAC">BLACKBOX</option>
 							<option value="THE">BOOK</option>
-							<option value="BOSE">BOSE®</option>
 							<option value="BOST">BOSTON ACOUSTICS</option>
 							<option value="BREN">BRENNAN</option>
+							<option value="BT">BT</option>
 							<option value="BTECH">BTECH</option>
 							<option value="CAMB">CAMBRIDGE AUDIO</option>
 							<option value="CHOR">CHORD</option>
 							<option value="COCK">COCKTAIL AUDIO</option>
+							<option value="COMPLY">COMPLY</option>
 							<option value="CUST">CUSTOM DESIGN</option>
 							<option value="CYP">CYP</option>
 							<option value="CYRUS">CYRUS</option>
@@ -219,6 +231,7 @@
 							<option value="DENO">DENON</option>
 							<option value="DOCK">DOCK</option>
 							<option value="DYNA">DYNAUDIO</option>
+							<option value="EDIF">EDIFIER</option>
 							<option value="EPSON">EPSON</option>
 							<option value="FATMAN">FATMAN</option>
 							<option value="FISC">FISCHER</option>
@@ -251,12 +264,12 @@
 							<option value="MUSI">MUSICAL FIDELITY</option>
 							<option value="NORS">NORSTONE</option>
 							<option value="OTW">OFF THE WALL</option>
-							<option value="OLIV">OLIVE</option>
 							<option value="OMMT">OMNIMOUNT</option>
 							<option value="ONE">ONE FOR ALL</option>
 							<option value="ONKY">ONKYO</option>
 							<option value="OPTIMU">OPTIMUM</option>
 							<option value="OPTOMA">OPTOMA</option>
+							<option value="ORBIT">ORBITSOUND</option>
 							<option value="ORTO">ORTOFON</option>
 							<option value="PANA">PANASONIC</option>
 							<option value="PLS">PEERLESS</option>
@@ -265,14 +278,12 @@
 							<option value="PIXE">PIXEL</option>
 							<option value="PREM">PREMIER MOUNTS</option>
 							<option value="PROJ">PROJECT</option>
+							<option value="PSB">PSB</option>
 							<option value="PURE">PURE</option>
 							<option value="PURP">PURPLE SOUND</option>
 							<option value="QACOU">Q ACOUSTICS</option>
-							<option value="Q2">Q2</option>
 							<option value="QED">QED</option>
-							<option value="QUAD">QUADRASPIRE</option>
 							<option value="ROKS">ROKSAN</option>
-							<option value="ROLA">ROLAND</option>
 							<option value="ROTH">ROTH</option>
 							<option value="SAMS">SAMSUNG</option>
 							<option value="SANUS">SANUS</option>
@@ -281,6 +292,7 @@
 							<option value="SENN">SENNHEISER  </option>
 							<option value="SHAR">SHARP</option>
 							<option value="SHUR">SHURE</option>
+							<option value="SONOR">SONOROUS</option>
 							<option value="SONOS">SONOS</option>
 							<option value="SONY">SONY</option>
 							<option value="SOUNDF">SOUNDFREAQ</option>
@@ -290,10 +302,9 @@
 							<option value="FUSION">SYNERGY</option>
 							<option value="TACIMA">TACIMA</option>
 							<option value="TANN">TANNOY</option>
+							<option value="TANNOY">TANNOY</option>
 							<option value="TASC">TASCAM</option>
 							<option value="TEAC">TEAC</option>
-							<option value="TECH">TECH21</option>
-							<option value="THIN">THINKSOUND</option>
 							<option value="TIBO">TIBO</option>
 							<option value="TOSH">TOSHIBA</option>
 							<option value="TPLI">TP LINK</option>
@@ -301,7 +312,6 @@
 							<option value="TVON">TVONICS</option>
 							<option value="TVS">TVS</option>
 							<option value="URBA">URBAN FACTORY</option>
-							<option value="VIEW">VIEW 21</option>
 							<option value="VISU">VISUAL INNOVATIONS</option>
 							<option value="VIVA">VIVANCO</option>
 							<option value="VOGE">VOGELS</option>
@@ -316,9 +326,9 @@
 </div></div><div class="headerRight"><div class="loingMiniBasketWrapper"><div id="newminibasket" class="Newmini">
 					<a class="NewMiniBasket" href="http://www.richersounds.com/showcheckout">
 					<span class="MiniBasketBag">View Bag</span>
-					<span class="MiniBasketItems">7&nbsp;items&nbsp;£1320.94</span>
+					<span class="MiniBasketItems">0&nbsp;items&nbsp;£0</span>
 				</a>
-</div></div><a href="http://www.which.co.uk/home-and-garden/laundry-and-cleaning/reviews-ns/best-places-for-buying-electrical-appliances-/best-shops-for-buying-electrical-appliances/" title="Which" class="which"><img src="http://www.richersounds.com/images/hptop_which.png" alt="Which" height="80"></a></div></div>
+</div></div><a href="http://www.which.co.uk/home-and-garden/laundry-and-cleaning/reviews-ns/best-places-for-buying-electrical-appliances-/best-shops-for-buying-electrical-appliances/?utm_campaign=bestbuyicon&amp;utm_medium=endorsement&amp;utm_source=Richer_Sounds" title="Which" class="which"><img src="http://www.richersounds.com/images/hptop_which.png" alt="Which" height="80"></a></div></div>
 
 <div id="navbar">
 <ul class="topMenu">
@@ -355,7 +365,7 @@
 																																																														<ul class="menuH odd">
 																											<h2>LCD &amp; Plasma</h2>
 																																																							<li><a href="http://www.richersounds.com/products/home-cinema/lcd-and-plasma/all-tvs">All TVs</a></li>
-																																																								<li><a href="http://www.richersounds.com/products/home-cinema/lcd-and-plasma/lcd-led-tvs">LCD/LED TVs</a></li>
+																																																								<li><a href="http://www.richersounds.com/products/home-cinema/lcd-and-plasma/lcd-led-oled-tvs">LCD/LED/OLED TVs</a></li>
 																																																								<li><a href="http://www.richersounds.com/products/home-cinema/lcd-and-plasma/plasma-tv">Plasma TVs</a></li>
 																																																								<li><a href="http://www.richersounds.com/products/home-cinema/lcd-and-plasma/3d-tv">3D TV</a></li>
 																																																								<li><a href="http://www.richersounds.com/products/home-cinema/lcd-and-plasma/smart-tvs">SMART TVs</a></li>
@@ -409,7 +419,7 @@
 																											</a>
 																									</li>
 																							<li class="homepageSprite">
-																											<a href="information/home-tv#tv3">
+																											<a href="/information/home-tv#tv3">
 																										Ultra HD - the latest picture quality innovation
 																											</a>
 																									</li>
@@ -746,7 +756,7 @@
 																																																								<li><a href="http://www.richersounds.com/products/hi-fi-separates/accessories/speaker-cables">Speaker Cables</a></li>
 																																																								<li><a href="http://www.richersounds.com/products/hi-fi-separates/accessories/speaker-stands">Speaker Stands</a></li>
 																																																								<li><a href="http://www.richersounds.com/products/hi-fi-separates/accessories/speaker-brackets">Speaker Wall Brackets</a></li>
-																																																								<li><a href="http://www.richersounds.com/products/hi-fi-separates/furniture/phono-pre-amps">Phono Pre-Amps</a></li>
+																																																								<li><a href="http://www.richersounds.com/products/hi-fi-separates/accessories/turntable-accessories">Turntable Accessories</a></li>
 																																							</ul>
 																																																																		<ul class="menuACCESSORIES-MEDIA odd">
 																											<h2>Miscellaneous</h2>
@@ -1058,69 +1068,65 @@ These cookies collect several pieces of information about your browsing habits. 
 	<ul class="bottomBanners"></ul>
 
 <div class="footerLinks">			
+		<ul>
+														<h2>BROWSE</h2>
+																																		<li><a href="http://www.richersounds.com/information/gifts" title="Gift Ideas">Gift Ideas</a></li>
+																																													<li><a href="http://www.richersounds.com/information/podcasts" title="Podcasts">Podcasts</a></li>
+																																													<li><a href="http://www.richersounds.com/vacancies" rel="nofollow" title="Richer Recruits">Richer Recruits</a></li>
+																																													<li><a href="http://www.richersounds.com/information/aboutus_culture" rel="nofollow" title="Richer Culture">Richer Culture</a></li>
+																																													<li><a href="http://www.richersounds.com/information/friends" title="Richer Friends">Richer Friends</a></li>
+																					</ul>
 	<ul>
-						<h2>BROWSE</h2>
-														<li><a href="http://www.richersounds.com/information/autumn_promo" title="Gift Ideas">Gift Ideas</a></li>
-																			<li><a href="http://www.richersounds.com/information/podcasts" title="Podcasts">Podcasts</a></li>
-																			<li><a href="http://www.richersounds.com/vacancies" rel="nofollow" title="Richer Recruits">Richer Recruits</a></li>
-																			<li><a href="http://www.richersounds.com/information/aboutus_culture" rel="nofollow" title="Richer Culture">Richer Culture</a></li>
-																			<li><a href="http://www.richersounds.com/information/friends" title="Richer Friends">Richer Friends</a></li>
-							</ul>
-
-<ul>
-						<h2>SUPPORT</h2>
-														<li><a href="http://www.richersounds.com/information/contact" rel="nofollow" title="Contact Us">Contact Us</a></li>
-																			<li><a href="http://www.richersounds.com/stores/customer-service" title="Customer Service">Customer Service</a></li>
-																			<li><a href="http://www.richersounds.com/stores/telesales" title="Telesales">Telesales</a></li>
-																			<li><a href="http://www.richersounds.com/stores/web-sales" title="Web After Sales">Web After Sales</a></li>
-																			<li><a href="http://www.richersounds.com/storefinder" title="Storefinder">Storefinder</a></li>
-																			<li><a href="http://www.richersounds.com/information/deliveryinfo" rel="nofollow" title="Delivery Info">Delivery Info</a></li>
-																			<li><a href="http://www.richersounds.com/information/privacy" rel="nofollow" title="Privacy Policy">Privacy Policy</a></li>
-																			<li><a href="http://www.richersounds.com/information/returns" rel="nofollow" title="Returns">Returns</a></li>
-							</ul>
-
-<ul>
-						<h2>EXTRAS</h2>
-														<li><a href="http://www.richersounds.com/information/catdownloads" title="Catalogue Download">Catalogue Download</a></li>
-																			<li><a href="http://www.richersounds.com/information/warranties" title="5 Year Guarantees">5 Year Guarantees</a></li>
-																			<li><a href="http://www.richersounds.com/information/pricebeat" title="Price Beat">Price Beat</a></li>
-																			<li><a href="http://www.richersounds.com/information/installations" title="Installations">Installations</a></li>
-																			<li><a href="http://www.richersounds.com/information/headphones" title="Free Headphones">Free Headphones</a></li>
-																			<li><a href="http://www.richersounds.com/vip" title="VIP Club">VIP Club</a></li>
-																			<li><a href="http://www.richersounds.com/information/service" title="Repairs Service">Repairs Service</a></li>
-							</ul>
-
-<ul>
-						<h2>B2B</h2>
-														<li><a href="http://www.richersounds.com/stores/business-to-business" title="Business To Business Home">Business To Business Home</a></li>
-																			<li><a href="http://www.richersounds.com/stores/business-to-business" title="Richer Education">Richer Education</a></li>
-																			<li><a href="http://www.richersounds.com/stores/business-to-business" title="Armed Forces/BFPO">Armed Forces/BFPO</a></li>
-																			<li><a href="http://www.richersounds.com/stores/business-to-business" title="Public Services">Public Services</a></li>
-																			<li><a href="http://www.richersounds.com/stores/business-to-business" title="Benefits">Benefits</a></li>
-																			<li><a href="http://www.richersounds.com/information/corporaterentals" title="TV &amp; AV Hire">TV &amp; AV Hire</a></li>
-							</ul>
-
-<ul>
-						<h2>HELPFUL INFO</h2>
-														<li><a href="http://www.richersounds.com/information/aboutus_faqs" title="FAQs">FAQs</a></li>
-																			<li><a href="http://www.richersounds.com/information/buying" rel="nofollow" title="Buying Process">Buying Process</a></li>
-																			<li><a href="http://www.richersounds.com/information/richer_tips" title="Tips">Tips</a></li>
-																			<li><a href="http://www.richersounds.com/information/help_jargonbuster" title="Jargon Buster">Jargon Buster</a></li>
-																			<li><a href="http://www.richersounds.com/information/interconnects" title="Interconnects">Interconnects</a></li>
-																			<li><a href="http://www.richersounds.com/information/terms" rel="nofollow" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
-																			<li><a href="http://www.richersounds.com/sitemap" rel="nofollow" title="Site Map">Site Map</a></li>
-							</ul>
-
-<ul class="nopad">
-						<h2>ADDITIONAL INFO</h2>
-														<li><a href="http://www.richersounds.com/information/tv" title="LCD TV and Plasma">LCD TV and Plasma</a></li>
-																			<li><a href="http://www.richersounds.com/information/systems" title="Systems">Systems</a></li>
-																			<li><a href="http://www.richersounds.com/information/speakers" title="Speakers">Speakers</a></li>
-																			<li><a href="http://www.richersounds.com/information/hifi" title="HiFi">HiFi</a></li>
-																			<li><a href="http://www.richersounds.com/information/home-cinema" title="Home Cinema">Home Cinema</a></li>
-																			<li><a href="http://www.richersounds.com/information/accessories" title="Accessories">Accessories</a></li>
-																			<li><a href="http://www.richersounds.com/information/sonospage" title="Sonos">Sonos</a></li>
-							</ul></div>
+														<h2>SUPPORT</h2>
+																																		<li><a href="http://www.richersounds.com/information/contact" rel="nofollow" title="Contact Us">Contact Us</a></li>
+																																													<li><a href="http://www.richersounds.com/stores/customer-service" title="Customer Service">Customer Service</a></li>
+																																													<li><a href="http://www.richersounds.com/stores/telesales" title="Telesales">Telesales</a></li>
+																																													<li><a href="http://www.richersounds.com/stores/web-sales" title="Web After Sales">Web After Sales</a></li>
+																																													<li><a href="http://www.richersounds.com/storefinder" title="Storefinder">Storefinder</a></li>
+																																													<li><a href="http://www.richersounds.com/information/deliveryinfo" rel="nofollow" title="Delivery Info">Delivery Info</a></li>
+																																													<li><a href="http://www.richersounds.com/information/privacy" rel="nofollow" title="Privacy Policy">Privacy Policy</a></li>
+																																													<li><a href="http://www.richersounds.com/information/returns" rel="nofollow" title="Returns">Returns</a></li>
+																					</ul>
+	<ul>
+														<h2>EXTRAS</h2>
+																																		<li><a href="http://www.richersounds.com/information/catdownloads" title="Catalogue Download">Catalogue Download</a></li>
+																																													<li><a href="http://www.richersounds.com/information/warranties" title="5 Year Guarantees">5 Year Guarantees</a></li>
+																																													<li><a href="http://www.richersounds.com/information/pricebeat" title="Price Beat">Price Beat</a></li>
+																																													<li><a href="http://www.richersounds.com/information/installations" title="Installations">Installations</a></li>
+																																													<li><a href="http://www.richersounds.com/information/headphones" title="Free Headphones">Free Headphones</a></li>
+																																													<li><a href="http://www.richersounds.com/vip" title="VIP Club">VIP Club</a></li>
+																																													<li><a href="http://www.richersounds.com/information/service" title="Repairs Service">Repairs Service</a></li>
+																					</ul>
+	<ul>
+														<h2>B2B</h2>
+																																		<li><a href="http://www.richersounds.com/stores/business-to-business" title="Business To Business Home">Business To Business Home</a></li>
+																																													<li><a href="http://www.richersounds.com/stores/business-to-business" title="Richer Education">Richer Education</a></li>
+																																													<li><a href="http://www.richersounds.com/stores/business-to-business" title="Armed Forces/BFPO">Armed Forces/BFPO</a></li>
+																																													<li><a href="http://www.richersounds.com/stores/business-to-business" title="Public Services">Public Services</a></li>
+																																													<li><a href="http://www.richersounds.com/stores/business-to-business" title="Benefits">Benefits</a></li>
+																																													<li><a href="http://www.richersounds.com/information/corporaterentals" title="TV &amp; AV Hire">TV &amp; AV Hire</a></li>
+																					</ul>
+	<ul>
+														<h2>HELPFUL INFO</h2>
+																																		<li><a href="http://www.richersounds.com/information/aboutus_faqs" title="FAQs">FAQs</a></li>
+																																													<li><a href="http://www.richersounds.com/information/buying" rel="nofollow" title="Buying Process">Buying Process</a></li>
+																																													<li><a href="http://www.richersounds.com/information/richer_tips" title="Tips">Tips</a></li>
+																																													<li><a href="http://www.richersounds.com/information/help_jargonbuster" title="Jargon Buster">Jargon Buster</a></li>
+																																													<li><a href="http://www.richersounds.com/information/interconnects" title="Interconnects">Interconnects</a></li>
+																																													<li><a href="http://www.richersounds.com/information/terms" rel="nofollow" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+																																													<li><a href="http://www.richersounds.com/sitemap" rel="nofollow" title="Site Map">Site Map</a></li>
+																					</ul>
+	<ul class="nopad">
+														<h2>ADDITIONAL INFO</h2>
+																																		<li><a href="http://www.richersounds.com/information/tv" title="LCD TV and Plasma">LCD TV and Plasma</a></li>
+																																													<li><a href="http://www.richersounds.com/information/systems" title="Systems">Systems</a></li>
+																																													<li><a href="http://www.richersounds.com/information/speakers" title="Speakers">Speakers</a></li>
+																																													<li><a href="http://www.richersounds.com/information/hifi" title="HiFi">HiFi</a></li>
+																																													<li><a href="http://www.richersounds.com/information/home-cinema" title="Home Cinema">Home Cinema</a></li>
+																																													<li><a href="http://www.richersounds.com/information/accessories" title="Accessories">Accessories</a></li>
+																																													<li><a href="http://www.richersounds.com/information/sonospage" title="Sonos">Sonos</a></li>
+																					</ul>
+</div>
 		
 <div class="footerWrapper">
 	<div class="footer">
@@ -1128,6 +1134,7 @@ These cookies collect several pieces of information about your browsing habits. 
 	<div class="leftcol">
 				<p>We Accept</p>
 		<span class="homepageSprite weaccept"></span>
+		<a href="https://www.trustedshops.de/shop/certificate.php?shop_id=X5344A7E28DBF373046BFFE06C0FFFC46" target="_blank" class="trustedshops homepageSprite">Trusted Shops</a>
 	</div>
 	<div class="rightcol">
 				<a href="http://tinyurl.com/3qmphe3" class="app">
@@ -1152,7 +1159,7 @@ These cookies collect several pieces of information about your browsing habits. 
 	</div>
 </div>
 <p class="desc">Prices valid in store (all including VAT) until close of business on the date below. <br>(some of these web prices are cheaper than in-store, so please mention that you've seen these offers online)</p>
-<p class="date">Monday 14-10-2013</p>
+<p class="date">Thursday 13-02-2014</p>
 <p class="premiumNumbers">
 	<span>03 NUMBERS ARE NOT PREMIUM RATE NUMBERS!</span>
 	<a id="frontpagePremiumNumbers" target="_blank" href="http://www.richersounds.com/action.php?cdx=loadstatic&amp;page=not_premium">Click here</a> for more info.
@@ -1160,10 +1167,11 @@ These cookies collect several pieces of information about your browsing habits. 
 <p class="copyright">
 			Copyright © Richer Sounds PLC.
 	
-	2013
-</p>	</div>	 
+	2014
+</p>
+	</div>	 
 </div>			</div>
-			<script type="text/javascript" src="http://www.richersounds.com/js/min/?f=/js/jquery-23-live.js,/js/template_jquery-23-live.js,/js/jquery-autocompletenew/jquery.autocompletenew-23-live.js,/js/lazyloader-23-live.js,/js/colorbox/colorbox/colorbox/jquery.colorbox.js,/js/frontscroller.js,/js/jquery.validate.js,/js/blockui-23-live.js,/js/jquery.fancyapps.fancybox/source/jquery.fancybox.js,/js/jquery.fancyapps.fancybox/source/helpers/jquery.fancybox-buttons.js,/js/jquery.fancyapps.fancybox/source/helpers/jquery.fancybox-thumbs.js,/js/jquery.carouFredSel-6.2.1.js,/js/richer-java.js,/js/highslide/highslide-full.packed.rs.js,/js/matchcode_address_jquery.js,/js/cluetip-23-live.js,/js/jquery.simplemodal/jquery.simplemodal-1.4.1.js,/js/jquery.easing.1.3.js,/js/jquery-ui-1.10.2.custom.js"></script>
+			<script type="text/javascript" src="http://www.richersounds.com/js/min/?f=/js/jquery-23-live.js,/js/template_jquery-23-live.js,/js/jquery-autocompletenew/jquery.autocompletenew-23-live.js,/js/lazyloader-23-live.js,/js/colorbox/colorbox/colorbox/jquery.colorbox.js,/js/frontscroller.js,/js/jquery.validate.js,/js/blockui-23-live.js,/js/jquery.fancyapps.fancybox/source/jquery.fancybox.js,/js/jquery.fancyapps.fancybox/source/helpers/jquery.fancybox-buttons.js,/js/jquery.fancyapps.fancybox/source/helpers/jquery.fancybox-thumbs.js,/js/jquery.carouFredSel-6.2.1.js,/js/richer-java.js,/js/highslide/highslide-full.packed.rs.js,/js/matchcode_address_jquery.js,/js/cluetip-23-live.js,/js/jquery.simplemodal/jquery.simplemodal-1.4.1.js,/js/jquery.easing.1.3.js,/js/jquery-ui-1.10.2.custom.js&amp;1"></script>
 
 	<script type="text/javascript">
 		jQuery.noConflict();
@@ -1208,7 +1216,7 @@ These cookies collect several pieces of information about your browsing habits. 
 </script>
 
 			<!-- CHQ-UP -->
-			<script type="text/javascript">var st="<script src='" + unescape("http%3A%2F%2Fwww.richersounds.com%2Fstats.php%3Fsa%3DIN%26sv%3Dprivacy%26et%3D0.062572002410889%26cp%3Dstatic%26ss%3DN%26er%3DN&ref=") + "http%3A%2F%2Fwww.richersounds.com%2Finformation%2Fstreaming" + "' type='text\/javascript'><\/script>"; document.write(st);</script><script src="http://www.richersounds.com/stats.php?sa=IN&amp;sv=privacy&amp;et=0.062572002410889&amp;cp=static&amp;ss=N&amp;er=N&amp;ref=http%3A%2F%2Fwww.richersounds.com%2Finformation%2Fstreaming" type="text/javascript"></script>
+			<script type="text/javascript">var st="<script src='" + unescape("http%3A%2F%2Fwww.richersounds.com%2Fstats.php%3Fsa%3DIN%26sv%3Dprivacy%26et%3D0.11957812309265%26cp%3Dstatic%26ss%3DN%26er%3DN&ref=") + "http%3A%2F%2Fwww.richersounds.com%2F" + "' type='text\/javascript'><\/script>"; document.write(st);</script><script src="http://www.richersounds.com/stats.php?sa=IN&amp;sv=privacy&amp;et=0.11957812309265&amp;cp=static&amp;ss=N&amp;er=N&amp;ref=http%3A%2F%2Fwww.richersounds.com%2F" type="text/javascript"></script>
 
 			<div id="peeriusContainer">
 				<script type="text/javascript">
@@ -1220,4 +1228,5 @@ var PeeriusCallbacks = {track: {type:"other",lang:"en-gb",channel:"web"}};
 	
 			</div>
 			
+
 </body></html>
