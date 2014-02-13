@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hcgultradiet.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818100601id_/http%3A//www.hcgultradiet.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hcgultradiet.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213090424id_/http%3A//www.hcgultradiet.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
