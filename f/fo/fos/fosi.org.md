@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fosi.org privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811070715id_/http%3A//www.fosi.org/component/content/article/53/253-terms-of-use-and-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fosi.org privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213144646id_/http%3A//www.fosi.org/component/content/article/53/253-terms-of-use-and-privacy-policy.html) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy
 
