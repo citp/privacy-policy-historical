@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the impactbnd.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208234953id_/http%3A//www.impactbnd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impactbnd.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213172801id_/http%3A//www.impactbnd.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - IMPACT Branding & Design
+# IMPACT Privacy Policy Statement
 
-## IMPACT Branding & Design Privacy Statement
+## IMPACT Privacy Statement
 
-_Current version published: June 19, 2013      Print this page_
+Current version published: June 19, 2013 Print this page
 
 IMPACT strives to be completely transparent with how we collect and use information we gather about you on this site. Your privacy is important to us and we respect your preferences.
 
-This Privacy Statement (“Privacy Statement”) explains how Impact Branding & Design, LLC, (“IMPACT”) uses personal information (“Personal Information”) and applies to all users (“users”) who access, view, visit, download, or otherwise interact with <http://www.impactbnd.com/> (the “Site”). By visiting the Site, you are accepting the practices described in this Privacy Statement. If you do not agree to the IMPACT practices, do not access, view, visit, download, or otherwise interact with the Site. If you have any questions or comments concerning IMPACT’s Privacy Statement, please [contact us](http://www.impactbnd.com/inbound-marketing-agency/contact-us/). You can also contact IMPACT via postal mail at: 98 South Turnpike Road, Wallingford, Connecticut 06492.
+This Privacy Statement (“Privacy Statement”) explains how Impact Branding & Design, LLC, (“IMPACT”) uses personal information (“Personal Information”) and applies to all users (“users”) who access, view, visit, download, or otherwise interact with <http://www.impactbnd.com/> (the “Site”). By visiting the Site, you are accepting the practices described in this Privacy Statement. If you do not agree to the IMPACT practices, do not access, view, visit, download, or otherwise interact with the Site. If you have any questions or comments concerning IMPACT’s Privacy Statement, please contact us by sending an email to contact (at) impactbnd.com. You can also contact IMPACT via postal mail at: 98 South Turnpike Road, Wallingford, Connecticut 06492.
 
-#### Our Privacy Statement is organized as follows:
+### Our Privacy Statement is organized as follows:
 
   1. Personal Information IMPACT gathers
   2. How IMPACT Collects Personal Information
@@ -26,7 +26,7 @@ This Privacy Statement (“Privacy Statement”) explains how Impact Branding & 
 
 
 
-#### 1) Personal Information IMPACT gathers
+### 1) Personal Information IMPACT gathers
 
 “Personal Information” is information that can be used to identify, locate, or contact an individual. IMPACT collects the following types of Personal Information:
 
@@ -34,10 +34,11 @@ This Privacy Statement (“Privacy Statement”) explains how Impact Branding & 
 
 **Transaction Information.** IMPACT automatically receives and records some information from your browser when you visit the site, such as your IP address, cookies and data about which pages you visit on the site through the use of log files provided by our third-party tracking-utility partners. This information helps us analyze and understand how the site works for users. Information that is gathered includes, but is not limited to, information about how you interact with IMPACT, information about how you use IMPACT’s Sites, email, other communications, and applications, and how you interact with other users and IMPACT business partners.
 
-**Mobile Location Information.** If you have permitted your mobile or other location-aware device to transmit location data, IMPACT collects Mobile Location.  
+**Mobile Location Information.** If you have permitted your mobile or other location-aware device to transmit location data, IMPACT collects Mobile Location.
+
 Posted Information. If you chose to post a comment on our blog, we may collect information regarding your name and the content of your post. It is important to note that any content you post on the blog is publicly displayed and will be seen by other users of the Site.
 
-#### 2) How IMPACT Collects Personal Information
+### 2) How IMPACT Collects Personal Information
 
 IMPACT prompts you to provide Personal Information (including Contact Information) when you use IMPACT or otherwise interact with the Site or contact IMPACT.
 
@@ -45,7 +46,7 @@ IMPACT collects Transaction Information when you use the Site. For example, IMPA
 
 IMPACT also collects Transaction Information if and when you contact IMPACT via telephone, email, or other methods of communication.
 
-#### 3) How IMPACT Uses Personal Information
+### 3) How IMPACT Uses Personal Information
 
 We may use Personal Information to enhance to enhance your user experience, to help us better understand you, to help us customize offers, blog topics, or posts that may be of interest to you, and to help us otherwise enhance the Site.
 
@@ -66,7 +67,7 @@ We may use Personal Information to enhance to enhance your user experience, to h
 
 
 
-#### 4) When and Why IMPACT Discloses Personal Information
+### 4) When and Why IMPACT Discloses Personal Information
 
 **IMPACT will not disclose your Personal Information to third parties without your explicit consent, except as specified in this Privacy statement. IMPACT will disclose your Personal Information when:**
 
@@ -90,11 +91,11 @@ Please note, if you subscribe to IMPACT’s blog, your information will be share
 
 IMPACT may disclose information about you that is not personally identifiable. For example, IMPACT may provide our partners, (such as Hubspot or SalesForce.com), or other third parties with reports that contain aggregated and statistical data about IMPACT users.
 
-#### 5) Tracking Technologies
+### 5) Tracking Technologies
 
 IMPACT implements cookies to store user information and track user activities. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information. Cookies enable IMPACT to monitor your activity across sessions of interaction between your device and the Site. Please see #6, Choice and Control, for information on how to refuse cookies.
 
-#### 6) Choice and Control
+### 6) Choice and Control
 
 While IMPACT does need to collect certain information to make your IMPACT experience personalized and to conduct transactions for you, IMPACT wants to give you the ability to control how your information is provided and shared.
 
@@ -103,22 +104,22 @@ While IMPACT does need to collect certain information to make your IMPACT experi
 
 
 
-#### 7) Security of Personal Information
+### 7) Security of Personal Information
 
 IMPACT strives to use commercially acceptable means to protect your personal information, however, no method of transmission over the Internet, or method of electronic storage, is 100% secure and therefore IMPACT cannot guarantee absolute security of your personal information. IMPACT strives to maintain a system that reasonably safeguards Personal Information.
 
-#### 8) Privacy Practices of Third Parties.
+### 8) Privacy Practices of Third Parties.
 
 This Privacy Statement describes the collection, use, and disclosure of information by IMPACT through the Site. IMPACT utilizes third parties to provide services to users and also provides links from the Site to other websites. These third parties may have their own privacy policies and may collect, use, and distribute information differently than IMPACT. IMPACT encourages all users to read the privacy policies of all third parties.
 
-#### 9) IMPACT Blog
+### 9) IMPACT Blog
 
 IMPACT contains a blog and other areas where users may publicly post information, communicate with other users, and submit content they deem relevant for discussion. IMPACT strongly encourages you to read the IMPACT Terms of Use carefully prior to posting or engaging in the blog. All the information you post will be accessible to anyone, at any time, with Internet access. Furthermore, IMPACT strongly advises you to NOT post any personal or identifiable information about yourself or contact information, including address, email, phone numbers, or other means of communicating outside of the blog. Any information you post may be read, collected, and used by others.
 
-#### 10) Changes to this Privacy Statement
+### 10) Changes to this Privacy Statement
 
 IMPACT may, from time to time, in IMPACT’s sole, absolute, and unfettered discretion, update this Privacy Statement to clarify our practices or to reflect new or different privacy practices. We encourage all users to periodically review the Privacy Statement.
 
-#### 11) Contact IMPACT
+### 11) Contact IMPACT
 
-If you have questions or suggestions you may contact IMPACT [contact IMPACT](http://www.impactbnd.com/inbound-marketing-agency/contact-us/), or by sending an email to contact (at) impactbnd.com.
+If you have questions or suggestions, you may contact IMPACT by sending an email to contact (at) impactbnd.com.
