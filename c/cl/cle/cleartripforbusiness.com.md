@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleartripforbusiness.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212003152id_/http%3A//www.cleartrip.com/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleartripforbusiness.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213133809id_/http%3A//www.cleartrip.com/privacy/index.shtml) for the most accurate reproduction.*
 
 # Cleartrip Privacy Policy
 
