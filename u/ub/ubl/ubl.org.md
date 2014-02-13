@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the ubl.org privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822071327id_/https%3A//www.ubl.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubl.org privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213223900id_/https%3A//www.ubl.org/privacy.aspx) for the most accurate reproduction.*
 
 # Universal Business Listing | List, Manage, Grow
 
   * [Check Your Visibility!](http://search.ubl.org/)
-  * [Choose a Package](https://web.archive.org/web/20130822071327id_/https%3A//www.ubl.org/compare.aspx?newlisting=true)
+  * [Choose a Package](https://web.archive.org/web/20140213223900id_/https%3A//www.ubl.org/compare.aspx?newlisting=true)
   * Services
   * Resellers
   * Help
