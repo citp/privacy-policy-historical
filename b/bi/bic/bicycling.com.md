@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bicycling.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031095847id_/http%3A//www.rodale.com/corp/sub/0%2C%2C1-28%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bicycling.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214002553id_/http%3A//www.rodale.com/corp/sub/0%2C%2C1-28%2C00.html) for the most accurate reproduction.*
 
 # Your Privacy Policy | Rodale Inc
 
