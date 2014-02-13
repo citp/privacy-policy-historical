@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmbank.com.au privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202175759id_/http%3A//www.tmbank.com.au/LandingPages/privacy-information-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmbank.com.au privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213022139id_/http%3A//www.tmbank.com.au/LandingPages/privacy-information-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Information Statement
 
@@ -14,7 +14,7 @@ Teachers Mutual Bank has always respected members' rights to Privacy. It is fu
 
 #### Our commitment
 
-In handling your personal information, Teachers Mutual Bank is committed to complying with the Privacy Act 1988, the National Privacy Principles and the Mutual Banking Code of Practice.  
+In handling your personal information, Teachers Mutual Bank is committed to complying with the Privacy Act 1988, the National Privacy Principles and the Customer Owned Banking Code of Practice.  
  
 
 #### Why do we require your personal information?
@@ -84,15 +84,21 @@ Should you require further information about our Privacy Information Statement�
 
 ## Non-Member Privacy Statement
 
-Teachers Mutual Bank has always respected customers’ rights to Privacy. It is fundamental to the way we do business and reflects the trust customers have placed in us in providing them with financial services. 
+Teachers Mutual Bank has always respected customers’ rights to Privacy. It is fundamental to the way we do business and reflects the trust customers have placed in us in providing them with financial services.   
+
 
 #### Our commitment
 
 In handling your personal information, Teachers Mutual Bank is committed to complying with the Privacy Act 1988, the National   
-Privacy Principles and the Mutual Banking Code of Practice. 
+Privacy Principles and the Customer Owned Banking Code of Practice. 
 
-Why do we require your personal information?   
-We collect personal information from you when you apply to use our product or when you otherwise provide us with information. If it is necessary for us to collect information about you from a third party, we will inform you wherever possible. This information enables us to provide: 
+  
+
+
+#### Why do we require your personal information?
+
+We collect personal information from you when you apply to use our product or when you otherwise provide us with information. If it is necessary for us to collect information about you from a third party, we will inform you wherever possible. This information enables us to provide:   
+
 
   * the product you require, and 
   * information about the product available to you from Teachers Mutual Bank and associated businesses including information about special offers, discounts and competitions. 
@@ -144,4 +150,4 @@ Under the Privacy Act you have the right to access personal information we hold 
 
 If you require further information about our Privacy Policy or access to your personal information, please contact **13 12 21** 8am to 7pm, weekdays or 9am to 3pm, Saturday. 
 
-[ ](https://web.archive.org/GI_About%20us/Our%20Values/Mutual%20Banking%20Code%20of%20Practice.aspx)
+[ ](https://web.archive.org/GI_About%20us/Our%20Values/Customer%20Owned%20Banking%20Code%20of%20Practice.aspx) [ ](https://web.archive.org/GI_About%20us/Our%20Values/Customer%20Owned%20Banking%20Code%20of%20Practice.aspx)
