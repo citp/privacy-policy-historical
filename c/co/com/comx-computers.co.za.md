@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comx-computers.co.za privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423173732id_/http%3A//www.comx-computers.co.za/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comx-computers.co.za privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213223010id_/http%3A//www.comx-computers.co.za/privacy-statement.php) for the most accurate reproduction.*
 
 # Computers South Africa - Computers, laptops and software sales to the Public
 
