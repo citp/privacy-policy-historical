@@ -1,350 +1,196 @@
-<!--The following is the downloaded HTML source of the mojostreet.com privacy policy that was archived on 2013-11-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131107055718id_/http%3A//www.mojostreet.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mojostreet.com privacy policy that was archived on 2014-02-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140213211136id_/http%3A//www.mojostreet.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><!--<head prefix="og: http://ogp.me/ns# mymojostreet:http://ogp.me/ns/apps/mymojostreet#">--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# mymojostreet: http://ogp.me/ns/fb/mymojostreet#">
-
-
-
-
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-
 <title>Privacy Policy | Mojostreet.com</title>
-
-
-
-
-	<meta property="og:url" content="http://www.mojostreet.com/">
-
-
-
 <meta property="fb:app_id" content="181247205243797">
-
 <meta name="generator" content="mojostreet">
-
 <meta property="og:image" content="http://www.mojostreet.com/images/mojo_map_pin_new.png">
-
 <meta property="og:title" content="Mojostreet - Discover amazing places with friends">
-
 <meta property="og:description" content="This Privacy Policy explains what information of yours will be collected by Mojostreet when you use the Mojostreet.com and how Mojostreet.com will use the information.">
-
 <meta name="description" content="This Privacy Policy explains what information of yours will be collected by Mojostreet when you use the Mojostreet.com and how Mojostreet.com will use the information.">
-
-
 <meta name="keywords" content="Mojostreet, Privacy Policy">
-
-
-
-
-
-
-<link href="http://www.mojostreet.com/css/mojo_v2.css" rel="stylesheet" type="text/css">
-
-
-
-<!--<link href="http://www.mojostreet.com/css/slideshow.css?1383803838" rel="stylesheet" type="text/css" />-->
-
-
-
-
-
-
-
+<link href="http://www.mojostreet.com/css/mojo_v2.css" rel="stylesheet" type="text/css"><!--<link href="http://www.mojostreet.com/css/slideshow.css?1392325896" rel="stylesheet" type="text/css" />-->
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
-
 var sitePageType = 'privacy';
-
 var signupPagetype = '';
-
 </script>
-
-
 <script type="text/javascript" src="http://www.mojostreet.com/js/iframe/jquery.js"></script>
-
 <script type="text/javascript" src="http://www.mojostreet.com/js/common.js"></script>
-
-
-
-
-
 <link rel="icon" type="image/png" href="http://www.mojostreet.com/images/favicon.png">
-
 <link rel="shortcut icon" href="http://www.mojostreet.com/images/favicon.png">
-
 <script>
-
 var glat;
-
 var glon;
-
 var distance = '';
-
-
-
-
 function getLocation()
-
 {
-
-	
-	
-
+		
 	console.log('==>');	
-
 	
-
 	
-
 	if (navigator.geolocation)
-
 	{
-
 		navigator.geolocation.getCurrentPosition(showPosition,geoError);
-
 		console.log("Supported.");
-
 	}
-
 	else
-
 	{
-
-		
-		console.log("Geolocation is not supported by this browser.");
-
+				console.log("Geolocation is not supported by this browser.");
 	}
-
 }
-
 function geoError(error)
-
 {
-
 	console.log(error);
-
 	
-
-	
-}
-
+	}
 function showPosition(position)
-
 {
-
 	glat = position.coords.latitude;
-
 	glon = position.coords.longitude;
-
 	
-
 	console.log(glat+'==>'+glon+',==>');	
-
 	if(glat != '' && glon != '')
-
 	{
-
 		$.post(BASEURL+'ajax/places/latlongs/',{lat:position.coords.latitude,lon:position.coords.longitude}, function(data)
-
 		{		
-
 			console.log('updated location');
-
-			
-			
-
+						
 		})
-
 	}
-
 	else
-
 	{
-
-		
+			}
+	
+	
+	
 	}
-
-	
-
-	
-
-	
-
-	
-}
-
 getLocation();
-
 </script>
-
-
-
-
-
-
-
 </head>
-
-
 <body class="bgInnerBodyScape">
-
-
-
 <div> 
-
- 
-<div class="POPspread" id="greyBG" style="left:0px; display:none">
-
+ <div class="POPspread" id="greyBG" style="left:0px; display:none">
 <!--End POPspread-->
-
 </div>
-
 <div id="ajax_loading_notifier" class="round_box" style="display:none;" align="center">
-
   <div><br><br><img src="http://www.mojostreet.com/images/loading_notifier.gif"></div>
-
 </div>
-
 <div class="container">
-
-
-
-    
-    <div class="innerHeadHold">
-
+        <div class="innerHeadHold">
  	 <div class="logoInner"><a href="http://www.mojostreet.com/"><img src="http://www.mojostreet.com/images/logo_mojo_main_header.png" width="195" height="60" alt="Mojostreet" title="Mojostreet"></a></div>
-
-     
+             
         
-
-        <div class="ExplSearchBxHold">
-
-        <form id="search_frm" name="search_frm" method="post" onsubmit="return false;">
-
-      <div class="ExpSBTxtareaHold">
-
-        <input name="keyword" id="keyword" onfocus="onFocusBlur('focused','keyword','Search by Name, Dish, Cuisine, Locality'); " onblur="onFocusBlur('blurred','keyword','Search by Name, Dish, Cuisine, Locality');" style="width:300px; border:0px; border-radius:0; background-color:#d3d3d3; border: 1px solid #323232" value="Search by Name, Dish, Cuisine, Locality">
-
-        <!--HomeSBTxtareaHold--> 
-
-      </div>
-
-      <div class="ExplSBButHold">
-
-        <button type="submit" style="margin-top:2px\9">Search</button>
-
-        <!--HomeSBButHold--> 
-
-      </div>
-
-      </form>
-
-      <!--HomeSearchBxHold--> 
-
-    </div>
-
+        	<div class="HeaderNavMenuHold">
+			    <div class="Navmenu">
+			    <ul>
+			    	<li id="searchMenuItem">
+			    		<a href="#">
+			    		<span class="SearchIcon">
+			    		<img src="http://www.mojostreet.com/images/search_icon.png">
+			    		</span>
+			    		Search Places</a>
+			    	</li>
+			    	<li><a href="http://www.booking.com/index.html?aid=359653" rel="nofollow" target="_blank">Hotel Booking</a></li>
+			    </ul>
+			    </div>    
+			</div>
+			
+			<div class="ExplSearchBxHold" id="searchBox" style="display:none;">
+		        <form id="search_frm" name="search_frm" method="post" onsubmit="return false;">
+		        	
+			      <div class="ExpSBTxtareaHold">
+			        <input name="keyword" id="keyword" onfocus="onFocusBlur('focused','keyword','Search by Name, Dish, Cuisine, Locality'); " onblur="onFocusBlur('blurred','keyword','Search by Name, Dish, Cuisine, Locality');" style="width:300px; border:0px; border-radius:0; background-color:#d3d3d3; border: 1px solid #323232" value="Search by Name, Dish, Cuisine, Locality">
+			        <!--HomeSBTxtareaHold--> 
+			      </div>
+			      <div class="ExplSBButHold">
+			        <button type="submit" style="margin-top:2px\9">Search</button>
+			        <!--HomeSBButHold--> 
+			      </div>
+			      
+		      	</form>
+	    	</div><!--HomeSearchBxHold--> 
+        
+    	
       <script>
-
 		$(document).ready(function() 
-
 		{
-
-			$('#search_frm').submit(function(){
-
-				
-
-				var word = jQuery.trim($('#keyword').val());
-
-	
-
-				if( (word != 'Search by Name, Dish, Cuisine, Locality' && word.length < 3) || (word == 'Search by Name, Dish, Cuisine, Locality'))
-
-				{
-
-					alert('Please enter atleast 3 characters');
-
-					$('#keyword').val('');
-
-					return false;
-
-				}
-
-				$.post(BASEURL+'ajax/places/search_new/',$('#search_frm').serialize(), function(data)
-
-				{		
-
-					window.location = BASEURL+'explore/Ashburn/Virginia/'+data;
-
-					//window.location = BASEURL+'explore/search/'+data;
-
-				})
-
-				
-
-				/*$.post(BASEURL+'ajax/places/search/',$('#search_frm').serialize(), function(data)
-
-				{		
-
-					window.location = BASEURL+'explore/'/;
-
-				})*/
-
+			$("#searchMenuItem").click(function(e) {
+				e.preventDefault();
+				e.stopPropagation();
+				$("#searchBox").show();
+				$(".HeaderNavMenuHold").hide();
 			});
 
-		});
-
-		</script>
-
-  
-
+			$('#keyword').click(function(e) { //button click class name is myDiv
+				  e.stopPropagation();
+			})
+			
+			$('.ExplSBButHold').click(function(e) { //button click class name is myDiv
+				  e.stopPropagation();
+			})
+			
+			$(document).keyup(function(e){
+			    if(e.keyCode === 27){ // ESC
+			    	$("#searchBox").hide();
+					$(".HeaderNavMenuHold").show();
+			    }
+			});
+						
+			$(document).click(function() {
+				$("#searchBox").hide();
+				$(".HeaderNavMenuHold").show();
+			}) 
+				
+			$('#search_frm').submit(function(){
+				
+				var word = jQuery.trim($('#keyword').val());
 	
-    
-
-    
-     			<div class="PDpageFBsigninimgTXTHold" id="loader_img">       
-
-       			<div class="PDpageFBsigninimg"><img src="http://www.mojostreet.com/images/but_pop_facebook_signin.png" width="150" height="23" border="0" id="fbAutoSignupHeader" style="cursor:pointer">
-
-                </div>
-
-                <div class="PDpageFBsigninimgTXT">see friend recommendations</div>
-
-                </div>
-
-       		 
-    <!--End innerHeadHold--> 
-
-  </div>  
-
+				if( (word != 'Search by Name, Dish, Cuisine, Locality' && word.length < 3) || (word == 'Search by Name, Dish, Cuisine, Locality'))
+				{
+					alert('Please enter atleast 3 characters');
+					$('#keyword').val('');
+					return false;
+				}
+				$.post(BASEURL+'ajax/places/search_new/',$('#search_frm').serialize(), function(data)
+				{		
+					window.location = BASEURL+'explore/San-Francisco/California/'+data;
+					//window.location = BASEURL+'explore/search/'+data;
+				})
+				
+				/*$.post(BASEURL+'ajax/places/search/',$('#search_frm').serialize(), function(data)
+				{		
+					window.location = BASEURL+'explore/'/;
+				})*/
+			});
+		});
+		</script>
   
-
- 
-
+	    
+         			<div class="PDpageFBsigninimgTXTHold" id="loader_img">       
+       			<div class="PDpageFBsigninimg"><img src="http://www.mojostreet.com/images/but_pop_facebook_signin.png" width="150" height="23" border="0" id="fbAutoSignupHeader" style="cursor:pointer">
+                </div>
+                <div class="PDpageFBsigninimgTXT">see friend recommendations</div>
+                </div>
+       		     <!--End innerHeadHold--> 
+  </div>  
+   
     
-
 <div class="POP" id="confirm_pop_div" style="display:none;">
-
 <div class="POPtitle">Confirm</div>
-
 <div class="POPcontent"><table width="200" cellpadding="5" cellspacing="0" border="0">
-
 <form onsubmit="do_action();" id="confirm_frm" name="confirm_frm"></form>
-
 <tbody><tr><td align="left" colspan="2"><div id="confirm_message"></div></td></tr>
-
 <tr><td width="45">Yes</td><td width="135">No</td></tr>
-
 <input type="hidden" name="action" id="action">
-
 <input type="hidden" name="id" id="id">
 
-
-
 </tbody></table></div>
-
 <div class="POPclose">X</div>
-
 <!--End POP-->
-
-</div><div class="privacyHold">
+</div>
+<div class="privacyHold">
 
 <h1>Privacy Policy</h1>
 
@@ -497,8 +343,6 @@ function show_contact_us_pop()
  
    <!--End container--> 
 </div>
-
-
 <script>
 function changeDownloadPic(imgId,type,device)
 {
@@ -560,9 +404,6 @@ function changeDownloadPic(imgId,type,device)
              
         </div>
         
-
-
-
     
     
     <div class="Footer clearB">
@@ -573,19 +414,18 @@ function changeDownloadPic(imgId,type,device)
      </div>
     
       <div><a href="http://www.mojostreet.com/links/city_wise_home">City wise Home page</a>
+      
+
       <span id="siteseal"><script type="text/javascript" src="https://seal.starfieldtech.com/getSeal?sealID=YLujHm3jxXazCE97wA0AQWwN9LwSnd0a2ggXmrhYryBYd5iaks"></script></span>
         </div>
     
     </div>
-
-
 <!--Google Analytics-->
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-26381765-1']);
   _gaq.push(['_setDomainName', 'mojostreet.com']);
   _gaq.push(['_trackPageview']);
-
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -593,24 +433,18 @@ function changeDownloadPic(imgId,type,device)
   })();
 </script>
 <!--Google Analytics-->
-
 <div id="fb-root"></div>
 <script>
 var pageModule = 'privacy';
 var fbScope = 'publish_stream,email,user_birthday,friends_status,friends_checkins,publish_actions,read_stream'; //publish_actions
-
 var fbScope1 = fbScope+',manage_pages,create_event';
-
 $(document).ready(function() {
-
 	$(".PopUpCloseFbSes").click(function(){
 		$('#fb_user_reload').hide();
 	});
-
 	window.fbAsyncInit = function() 
 	{
 		FB.init({ appId: '181247205243797',frictionlessRequests : true,status: true,cookie: true,xfbml: true,oauth: true});
-
 		var clicked = 0;
 		var clicked1 = 0;
 		var linkupPage = 0;
@@ -638,7 +472,6 @@ $(document).ready(function() {
 		var exploreResultsPage = 0;
 		var askPermissions = 0; //for fb autosignup
 		var checkFbLoginStatus = 0;
-
 				//for merchant
 		$('#fb_merchant_auth').click(function(){			
 			merchant_fb_connect();
@@ -703,7 +536,6 @@ $(document).ready(function() {
 		});
 		
 		//for link up page
-
 		$('#fb_auth_linkup').click(function(){	
 			showDomain(0);
 			clicked = 1;
@@ -771,21 +603,17 @@ $(document).ready(function() {
 		{
 			clicked = 1;
 			profilePage = 1;	
-
 			$('#noFacebookId').hide();
 			$('#fbfriends_list').hide();
 			$('#fbTitleId').hide();
-
 			FB.getLoginStatus(updateButton);
 		}
 		function getFbInvites()
 		{
 			clicked = 1;
 			invitesPage = 1;
-
 			$('#domainDiv').html('');	
 			$('#domainDiv').hide();	
-
 			FB.getLoginStatus(updateButton);
 		}
 		
@@ -795,7 +623,6 @@ $(document).ready(function() {
 			defaultFacebookInvitesBusiness = 1;
 			
 			fbScope = fbScope1;
-
 			$('#domainDiv').html('');	
 			$('#domainDiv').hide();	
 			
@@ -865,7 +692,6 @@ $(document).ready(function() {
 				}
 			});	
 		}
-
 		function showFbBusinessInvites()
 		{		
 			$('#facebook_friends').show();
@@ -899,7 +725,6 @@ $(document).ready(function() {
 				display: 'dialog',                   
 				fbml: '<fb:request-form  action="http://www.mojostreet.com/invites" target="_top" method="POST" invite="true" type="Mojostreet"  content="I\'m using mojostreet to discover new places, share my location and earn rewards. <a href=\'http://www.mojostreet.com/users/\'> Click here</a> to find where I am!"><fb:multi-friend-selector showborder="false" actiontext="Invite your friends to join Mojostreet"> </fb:request-form>'
 			},
-
 				function( response ){
 					FB.UIServer.Methods["fbml.dialog"].size = uiSize;				
 				}
@@ -940,7 +765,6 @@ $(document).ready(function() {
 					FB.api('/me', function(response1) 
 					{
 						asyncFbId1 = response1.id;
-
 						$.post( BASEURL + "registration/facebook/", {name: response1.name,fname: response1.first_name,lname:response1.last_name, email: response1.email,  fbId: asyncFbId1, access_token: aResoponseObj1.accessToken, dob:response1.birthday, gender:response1.gender}, function(data) 
 						{					
 							if( data == 1)							
@@ -978,9 +802,8 @@ $(document).ready(function() {
 					{
 						//show signup popup
 						//askPermissions = 1;
-						showPopBx('autosignup_pop_div', 1);	
-						
-						$('#facebookFriendsSignupPop').show();
+												showPopBx('autosignup_pop_div', 1);	
+												$('#facebookFriendsSignupPop').show();
 					}
 					else
 					{
@@ -1107,7 +930,6 @@ $(document).ready(function() {
 						}
 						else if(invitesPage == 1 || defaultFacebookInvites == 1 || defaultFacebookInvitesBusiness == 1)
 						{
-
 							if(askForLogin == 1)
 							{
 								if(defaultFacebookInvitesBusiness == 1)
@@ -1229,7 +1051,6 @@ $(document).ready(function() {
 					FB.api('/me', function(response1) 
 					{
 						asyncFbId1 = response1.id;
-
 						$.post( BASEURL + "registration/facebook/", {name: response1.name,fname: response1.first_name,lname: response1.last_name, email: response1.email,  fbId: asyncFbId1, access_token: aResoponseObj1.accessToken, dob:response1.birthday, gender:response1.gender}, function(data) 
 						{					
 							if( data == 1)							
@@ -1291,19 +1112,16 @@ $(document).ready(function() {
 								$('#other_emails').hide();
 								$('#facebookErrorDiv').html('');  
 								$('#facebookErrorDiv').hide();		
-
 								$.post( BASEURL+ 'ajax/invites/checkFacebook/'+response.id,  {}, function(data) 
 								{ 
 									var error = data;									
 									$('#facebookErrorDiv').hide();
-
 									if(error == 0)
 									{
 										showFbInvites();
 									}
 									else if(error == 1)
 									{
-
 										if(confirm('The Facebook account connected with mojostreet is different from Facebook account you are tying to invite friends. Do you want to continue?'))
 										{
 											showFbInvites();
@@ -1383,7 +1201,6 @@ $(document).ready(function() {
 					FB.api('/me', function(response1) 
 					{
 						asyncFbId1 = response1.id;
-
 						$.post( BASEURL + "registration/facebook/", {name: response1.name, email: response1.email,  fbId: asyncFbId1, access_token: aResoponseObj1.accessToken, dob:response1.birthday, gender:response1.gender}, function(data) 
 						{					
 							if( data == 1)							
@@ -1431,21 +1248,19 @@ $(document).ready(function() {
     }(document));
 	
 	
-
 });
 function fbAutosignupPopUp()
 {
-	showPopBx('autosignup_pop_div', 1);
-}
+		showPopBx('autosignup_pop_div', 1);
+	}
 function reload_cpage()
 {
 	location.reload();
 }
 </script>
-
 </div>
-
 <div id="fb_user_reload" style="width:180px; padding:10px; position:fixed; left:0px; bottom:0px; background-color:#ffffff; border:solid 2px #ccc; display:none;">
 <div onclick="reload_cpage();" align="center" style="cursor: pointer;"><span style="color:#0088cc">Reload page</span> <br>see friend recommandations</div><div class="PopUpCloseFbSes" style="right:5px; top:5px; position:absolute; color:#000000; font-size:12px;cursor: pointer;">X</div> </div>
+
 
 </div></body></html>
