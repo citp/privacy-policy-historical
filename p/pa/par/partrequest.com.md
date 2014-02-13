@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partrequest.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808141217id_/http%3A//www.partrequest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partrequest.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213205839id_/http%3A//www.partrequest.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Used Auto Parts Online
 
@@ -51,7 +51,7 @@ Happy motoring!
  **Find Used Auto Parts Online!**  
 Locate quality _used_ auto parts from salvage yards in the United States and Canada. Select a year and make and then click Go!
 
-## Parts, Accessories & Services
+## Advertisements
 
 ### Find Salvage Yards
 
