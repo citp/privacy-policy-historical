@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoplematter.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817175024id_/http%3A//www.peoplematter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplematter.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213113526id_/http%3A//www.peoplematter.com/privacy) for the most accurate reproduction.*
 
 # PeopleMatter Privacy and Security Policies | PeopleMatter
 
@@ -108,7 +108,7 @@ We use the information that we collect about you for several general purposes: t
 
 ### Opting Out of Marketing Communications
 
-We may send you promotional email messages if you request to receive information from us via email. You may stop receiving promotional email messages by following the information contained in the email message or by completing the opt-out [form](http://success.peoplematter.com/UnsubscribePage.html).
+We may send you promotional email messages if you request to receive information from us via email. You may stop receiving promotional email messages by following the information contained in the email message or by completing the opt-out [form](http://success.peoplematter.com/l/20162/2013-10-01/6nnty).
 
 ### Job Applications for Positions with PeopleMatter
 
@@ -116,7 +116,7 @@ In addition to our online product, PeopleMatter also will collect personal infor
 
 ### Updating Your Personal Information
 
-You may modify information that you provided to us when you created your account (name, email address, user ID and password) by logging into your [account](http://peoplematter.at/).
+You may modify information that you provided to us when you created your account (name, email address, user ID and password) by logging into your [account](https://peoplematter.at/).
 
 ### Sharing Your Information
 
