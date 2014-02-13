@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theappcode.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820111119id_/http%3A//www.theappcode.com/joinregister/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theappcode.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213065315id_/http%3A//www.theappcode.com/joinregister/privacy.html) for the most accurate reproduction.*
 
 # The App Code
 
