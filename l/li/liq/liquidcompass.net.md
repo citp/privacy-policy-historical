@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liquidcompass.net privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430212943id_/http%3A//www.liquidcompass.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquidcompass.net privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213041143id_/https%3A//www.liquidcompass.net/etc/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,7 +11,9 @@ We will continue to evaluate this Privacy Policy against new technologies, busin
 There are several areas where you can submit information to us, and some features that automatically collect information from the listeners of our Service and visitors to our website.
 
 **Information you give us  
-**To enable you to enjoy certain features of our Service, we collect certain types of information, including personally identifiable information, during your interactions with our Service. For example, we collect information when you:
+**
+
+To enable you to enjoy certain features of our Service, we collect certain types of information, including personally identifiable information, during your interactions with our Service. For example, we collect information when you:
 
   * Register to use our Service;
   * Enter information in your Profile, including the people you are following and the people whom you allow to follow you;
