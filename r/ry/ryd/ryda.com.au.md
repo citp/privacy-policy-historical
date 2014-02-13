@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryda.com.au privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113135925id_/http%3A//www.ryda.com.au/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryda.com.au privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213134628id_/http%3A//www.ryda.com.au/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20131113135925id_/http%3A//www.ryda.com.au/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20140213134628id_/http%3A//www.ryda.com.au/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
