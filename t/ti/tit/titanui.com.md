@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titanui.com privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914143829id_/http%3A//www.titanui.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titanui.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213150122id_/http%3A//www.titanui.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TitanUI
 
