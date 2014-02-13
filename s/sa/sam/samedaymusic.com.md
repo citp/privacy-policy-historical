@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samedaymusic.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828101449id_/http%3A//www.samedaymusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samedaymusic.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213042004id_/http%3A//www.samedaymusic.com/privacy) for the most accurate reproduction.*
 
 # Privacy - SameDayMusic.com
 
@@ -20,7 +20,7 @@ In order to personalize and improve your shopping experience, we receive and sto
 
 **Automatic Information**
 
-Whenever you interact with us, we receive and store certain types of information. For instance, like many Websites, we use "cookies" (see explanation below) and we obtain certain types of information when your Web browser accesses Same Day Music. We also use “action tags” (see explanation below) and other data-collection methods. Data collected and stored includes your IP address, the last page you visited, and a session ID we store on your computer so we can preserve information about you as you travel from page to page. For example, we preserve your shopping cart contents while you browse various pages at our Website. Other examples of automatic information we collect and analyze may include login; e-mail address; password; computer and connection information such as browser type and version, operating system, and platform; purchase history; the full Uniform Resource Locators (URL) clickstream to, through, and from our Website, including date and time; cookie number; products you viewed or searched for; category pages you visited; and phone number used to call our 800 number. 
+Whenever you interact with us, we receive and store certain types of information. For instance, like many Websites, we use "cookies" (see explanation below) and we obtain certain types of information when your Web browser accesses Same Day Music. We also use �œaction tags” (see explanation below) and other data-collection methods. Data collected and stored includes your IP address, the last page you visited, and a session ID we store on your computer so we can preserve information about you as you travel from page to page. For example, we preserve your shopping cart contents while you browse various pages at our Website. Other examples of automatic information we collect and analyze may include login; e-mail address; password; computer and connection information such as browser type and version, operating system, and platform; purchase history; the full Uniform Resource Locators (URL) clickstream to, through, and from our Website, including date and time; cookie number; products you viewed or searched for; category pages you visited; and phone number used to call our 800 number. 
 
 In order to personalize and make more enjoyable your experience at Same Day Music, we may tie data that is collected automatically to information with which you provide us. 
 
@@ -43,7 +43,7 @@ We do attempt to retain most substantive data indefinitely. We do not, however, 
 Cookies are very small alphanumeric identifiers that we transfer to a file on your computer through your Web browser. They enable our systems to recognize your browser so that we may personalize your experience on our Website. For instance, cookies allow us to store items in your shopping cart between visits and record recent items you have browsed. 
 
   * We cannot use cookies to access any personal information on your computer, or to do anything harmful to your computer. 
-  * Cookies are not required for the most basic use of the site, and under the “Help” option on most browser toolbars, you can learn how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. 
+  * Cookies are not required for the most basic use of the site, and under the �œHelp” option on most browser toolbars, you can learn how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. 
   * We recommend, however, that you leave cookies enabled, because they allow you to take full advantage of some of Same Day Music's best features. 
   * Users without cookies enabled will have limited functionality, and will be unable to place orders via the Web. If you have chosen to disable cookies in your browser, please call us toll free at 866.744.7736 and place your order with a sales representative. 
 
