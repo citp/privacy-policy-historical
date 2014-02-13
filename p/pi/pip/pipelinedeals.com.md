@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pipelinedeals.com privacy policy that was archived on 2013-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131003154916id_/https%3A//www.pipelinedeals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pipelinedeals.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214003948id_/https%3A//www.pipelinedeals.com/privacy) for the most accurate reproduction.*
 
 # Sales Tracking and Online CRM Privacy & Security Policy for PipelineDeals
 
