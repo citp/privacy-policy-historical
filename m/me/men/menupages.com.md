@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menupages.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013125716id_/http%3A//www.menupages.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menupages.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213220351id_/http%3A//www.menupages.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - MenuPages Restaurant Search
 
@@ -42,7 +42,7 @@ _Contact us at:_
 
 Attn: Privacy Department  
 1065 Avenue of the Americas, 15th Floor, New York, New York 10018  
-[feedback@menupages.com](mailto:feedback@menupages.com)
+[feedback.mp@menupages.com](mailto:feedback.mp@menupages.com)
 
 * * *
 
@@ -151,6 +151,6 @@ Please do not hesitate to contact us if you have any questions about this Privac
 _Contact us at:_  
 Attn: Privacy Department  
 1065 Avenue of the Americas, 15th Floor, New York, New York 10018  
-E-mail: [feedback@menupages.com](mail:feedback@menupages.com)
+E-mail: [feedback.mp@menupages.com](mail:feedback.mp@menupages.com)
 
 Thank you for visiting!
