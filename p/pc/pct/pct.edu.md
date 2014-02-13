@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pct.edu privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126154050id_/http%3A//www.pct.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pct.edu privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213163920id_/http%3A//www.pct.edu/privacy) for the most accurate reproduction.*
 
 # Privacy - Pennsylvania College of Technology
 
@@ -33,6 +33,12 @@ We request information from the user on our Scholarship Application form. Our sc
 ##### Institutional Advancement
 
 We request information from the user on our Online Giving form. The data requested by this form allows the user a more convenient; yet secure method of giving to Penn College. We accept online payment via credit card; this transaction is secured by Comodo. For those who wish to give to Penn College without submitting sensitive information, we also provide a printable form that can be mailed to the Institutional Advancement Office.
+
+##### Planned Giving
+
+The College contracts with Crescendo Interactive, Inc., of Camarillo, CA, USA, to provide its GiftLegacy planned giving marketing and communications solutions to donors and prospective donors to Penn College. Neither the College nor Crescendo will disclose or share financial information without your consent, except for general statistical purposes and certain explicit circumstances in which disclosure may be required by law. Your financial information will not be distributed or sold to third-party organizations.
+
+Read [Crescendo's privacy statement](http://www.pctgift.org/?pageID=98) for more information.
 
 ##### Alumni Information Update
 
@@ -98,4 +104,4 @@ The College will occasionally update this Statement. Those changes will be poste
 
 ## How to Report Privacy Violations
 
-You may report violations of this statement to [Privacy](https://web.archive.org/web/20131126154050id_/http://www.pct.edu/privacy/contact.asp).
+You may report violations of this statement to [Privacy](https://web.archive.org/web/20140213163920id_/http://www.pct.edu/privacy/contact.asp).
