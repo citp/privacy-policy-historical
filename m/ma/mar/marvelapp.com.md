@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the marvelapp.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216213859id_/https%3A//marvelapp.com/signin/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marvelapp.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213155746id_/https%3A//marvelapp.com/privacy) for the most accurate reproduction.*
 
-# Marvel - free mobile and web prototyping for designers
+# Privacy | Marvel
 
-## Marvel was built for designers, by designers. Quite simply, we know how critical it is to ensure the privacy, rights and security of your work and we do everything we can to make sure that you are protected.
+### Marvel was built for designers, by designers. Quite simply, we know how critical it is to ensure the privacy, rights and security of your work and we do everything we can to make sure that you are protected.
 
 At Marvel we have a few fundamental principles: 
 
