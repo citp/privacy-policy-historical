@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the affairalert.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823094435id_/http%3A//www.affairalert.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affairalert.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213083401id_/http%3A//www.affairalert.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds4) for the most accurate reproduction.*
 
-# Privacy Policy
-
-Enjoy attached, single or adventurous people in San Francisco, CA
-
-Over 1 Million Members  
-863 Members Today
+# Affair Alert - Married Dating and Secret Affairs
 
 **OUR WEB SITE PRIVACY POLICY**
 
@@ -15,7 +10,7 @@ We have created this Privacy Policy in order to demonstrate our firm commitment 
 
 **WHAT TYPE INFORMATION IS COLLECTED?**   
 **Personal Information**   
-We only collect personal information from visitors to our Web site when they voluntarily provide it to us by completing our registration form or electing to use one of our services. We may require visitors to provide us with information including, but not limited to, their name, physical address, email address, birth date, credit card number, credit card expiration date, username, password, and on occasion a unique identifier (such as their mother's maiden name). Credit Card information is not stored or collected by us; rather by the payment processing company identified on the join page and transmitted via Secure Socket Layer technology. Your credit card information is NEVER shared. 
+We only collect personal information from visitors to our Web site when they voluntarily provide it to us by completing our registration form or electing to use one of our services. We may require visitors to provide us with additional information to verify their identity to assist in the event of a lost user name or password (such as mother's maiden name). Credit Card information is not stored or collected by us; rather this information is collected by the payment processing company identified on the join page and transmitted via Secure Socket Layer technology. Your credit card information is NEVER known to us and cannot be shared by us. 
 
 **Non-Personal Information**   
 When visitors access our Web site, certain non-personal information may be collected from them including, but not limited to, their browser type (e.g., Chrome or Internet Explorer), operating system (e.g., Windows or Macintosh), IP address, and the domain name from which they accessed the site (e.g., google). In addition, we may collect information about visitors' browsing behavior, such as the date and time they visit the Web site, the areas or pages of our Web site that they visit, the amount of time spent viewing the site, the number of times the visitor returns to the site, and click-stream data. We use transparent tracking pixels to determine the number of Web site visitors that have been sent to us through our affiliate network. We do not track any information about visitors once they leave our site. We may use cookies (small text files that are stored on visitors computers when they access our Web site) to collect this information. Information collected through cookies may be combined with visitors' personal information. We may also allow unaffiliated third parties, such as advertisers, to serve cookies to visitors of our Web site. Visitors are always free to decline cookies, but in doing so they may not be able to use certain features on our Web site. The "help" segment of the toolbar on most browsers explains how to configure a browser to not accept new cookies, how to have the browser inform a user when they receive a new cookie, and how to erase cookies from their hard drives. 
@@ -51,11 +46,10 @@ Visitors who wish to access or change the information they provided to our Web s
 **HOW CAN YOU CONTACT THE WEB SITE OPERATOR?**   
 Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this Web site, should visit the Customer Service section of this site and contact us via Email.
 
-  * © 2013  AffairAlert | 
-  * [**Member Login**](https://web.archive.org/web/20130823094435id_/http%3A//www.affairalert.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3D?wm_login=admin&ps=s&page=login&from=s1) | 
+  * [**Member Login**](https://web.archive.org/web/20140213083401id_/http%3A//www.affairalert.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds4?wm_login=admin&ps=s&page=login&from=s4) | 
   * [Customer Service](http://www.datingsitesupport.com/) | 
-  * [Terms of Service](https://web.archive.org/web/20130823094435id_/http%3A//www.affairalert.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3D?wm_login=admin&ps=s&page=terms&from=s1) | 
-  * [Privacy Policy](https://web.archive.org/web/20130823094435id_/http%3A//www.affairalert.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3D?wm_login=admin&ps=s&page=pp&from=s1)
+  * [Terms of Service](https://web.archive.org/web/20140213083401id_/http%3A//www.affairalert.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds4?wm_login=admin&ps=s&page=terms&from=s4) | 
+  * [Privacy Policy](https://web.archive.org/web/20140213083401id_/http%3A//www.affairalert.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds4?wm_login=admin&ps=s&page=pp&from=s4)
 
 
 
