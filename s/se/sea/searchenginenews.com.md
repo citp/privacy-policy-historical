@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the searchenginenews.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014120509id_/http%3A//www.searchenginenews.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchenginenews.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213215341id_/https%3A//www.searchenginenews.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy · SearchEngineNews.com
 
-We know you care how information about you is used and shared, and we appreciate your trust that we will handle everything carefully and responsibly. This notice describes our privacy policy. **By visiting SearchEngineBook.com, seoINsites.com, SearchEngineNews.com and the rest of Planet Ocean Communications Inc's websites, you are accepting the practices described in this Privacy Notice.**
+We know you care how information about you is used and shared, and we appreciate your trust that we will handle everything carefully and responsibly. This notice describes our privacy policy. **By visiting SearchEngineNews.com and the rest of Planet Ocean Communications Inc's websites, you are accepting the practices described in this Privacy Notice.**
 
 **Topics Covered in this Notice**
 
@@ -17,7 +17,7 @@ The information we gather helps us personalize and continually improve your expe
 
 **What About Cookies?**
 
-  * Cookies are identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide personalized features.
+  * Cookies are identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide personalized features. 
   * The _Help_ portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of Planet Ocean membership sites' coolest features, and we recommend that you leave them turned on. 
 
 
@@ -27,15 +27,15 @@ The information we gather helps us personalize and continually improve your expe
 Information about our customers is an important part of our business, and we are not in the business of selling it to others. However there may be instances where we are required by law or other mandate to share information in such cases as: 
 
   * **Protection of Planet Ocean and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of Planet Ocean, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice. 
-  * **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
+  * **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
 
 
 
 **What About Information Security?**
 
-  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
-  * We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
-  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
+  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
+  * We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
+  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
 
 
 
@@ -52,7 +52,7 @@ If you choose to enroll as a member to any of our sites, you will be provided th
 **What Choices Do I Have?**
 
   * As discussed above, you can always choose not to provide information although doing so might prevent you from becoming a member, completing a transaction, or utilizing a feature or function of Planet Ocean's membership sites. 
-  * If you become a member of _SearchEngineNews.com_ or _seoINsites.com_ , you can add or update certain information on your personalized page within our Membership Center. When you update information, we usually keep a copy of the prior version for our records. 
+  * If you become a member of _SearchEngineNews.com_ , you can add or update certain information on your personalized page within our Membership Center. When you update information, we usually keep a copy of the prior version for our records. 
   * The _Help_ portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. 
 
 
@@ -61,7 +61,7 @@ If you choose to enroll as a member to any of our sites, you will be provided th
 
 **Information You Give Us**
 
-You provide us with your information mostly when you make a purchase or communicate with customer service. For example, you provide information when you place an order through SearchEngineBook.com. You provide information in _Your Customer Profile_ \- and you might have more than one if you have used more than one e-mail address when shopping with us - whenever you communicate with us by phone, e-mail, or otherwise, and whenever you login using your e-mail address and password. 
+You provide us with your information mostly when you make a purchase or communicate with customer service. For example, you provide information when you place an order through SearchEngineNews.com. You provide information in _Your Customer Profile_ \- and you might have more than one if you have used more than one e-mail address when shopping with us - whenever you communicate with us by phone, e-mail, or otherwise, and whenever you login using your e-mail address and password. 
 
 **Automatic Information**
 
@@ -69,6 +69,6 @@ Examples of the information we collect and analyze include the Internet protocol
 
 **Information You Can Access**
 
-All enrolled members of _SearchEngineNews.com_ or _seoINsites.com_ , you can easily access up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, phone number) and payment settings on their own personal accounts. 
+All enrolled members of _SearchEngineNews.com_ , you can easily access up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, phone number) and payment settings on their own personal accounts. 
 
 **Any Further Questions on Privacy Issues can be directed to:[Customer Service](https://web.archive.org/contact/customerservice/)**
