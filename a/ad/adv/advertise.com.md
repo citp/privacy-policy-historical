@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advertise.com privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018233524id_/http%3A//www.advertise.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advertise.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213053417id_/http%3A//www.advertise.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Advertise.com
 
