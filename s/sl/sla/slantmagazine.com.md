@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slantmagazine.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111214353id_/http%3A//www.slantmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slantmagazine.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214001922id_/http%3A//www.slantmagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Slant Magazine
 
