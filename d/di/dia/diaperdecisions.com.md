@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diaperdecisions.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021141955id_/http%3A//www.diaperdecisions.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diaperdecisions.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213042118id_/http%3A//www.diaperdecisions.com/pages/privacy.php) for the most accurate reproduction.*
 
 # Diaper Decisions
 
@@ -39,6 +39,6 @@ We are committed to protecting the privacy of children and comply with the Child
 
 **Your Consent**
 
-By using our website, you consent to our use of the information that is collected or submitted as described in this policy. We may make changes or additions to this privacy policy and will include a history of significant changes as well as the last update date below. If you have any questions regarding this privacy policy you may contact us [via email](https://web.archive.org/web/20131021141955id_/http%3A//www.diaperdecisions.com/pages/mailto=info@diaperdecisions.com).
+By using our website, you consent to our use of the information that is collected or submitted as described in this policy. We may make changes or additions to this privacy policy and will include a history of significant changes as well as the last update date below. If you have any questions regarding this privacy policy you may contact us [via email](https://web.archive.org/web/20140213042118id_/http%3A//www.diaperdecisions.com/pages/mailto=info@diaperdecisions.com).
 
 **This policy was last modified on 5/19/2012**
