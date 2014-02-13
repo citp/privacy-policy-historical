@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myway.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122160541id_/http%3A//info.myway.com/index/id/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myway.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213221729id_/http%3A//info.myway.com/index/id/privacy.html) for the most accurate reproduction.*
 
 # My Way - Privacy Policy
 
@@ -81,7 +81,7 @@ White Plains, NY, 10601
 ATTN: Privacy Officer/Legal Dept.   
 [privacy@Mindspark.com](mailto:privacy@Mindspark.com).
 
-© 2009 Mindspark Interactive Network, Inc. All rights reserved.
+© 2014 Mindspark Interactive Network, Inc. All rights reserved.
 
 Cookies
 
