@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the votediet.com privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011154451id_/http%3A//www.wholesaleforum.com/discuss/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the votediet.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213193508id_/http%3A//www.wholesaleforum.com/discuss/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Wholesale Forum
 
@@ -44,4 +44,4 @@ If you choose to visit WholesaleForum.com, your visit and any dispute over priva
 
 Our business changes constantly and our Privacy Policy and the [Terms of Use](http://www.wholesaleforum.com/discuss/terms.php) may also change. You should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We stand behind the promises we make, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
-All times are GMT -4. The time now is 11:44 AM. \- [Fixed Width](http://www.wholesaleforum.com/discuss/privacy.php?styleid=2)
+All times are GMT -4. The time now is 03:35 PM. \- [Fixed Width](http://www.wholesaleforum.com/discuss/privacy.php?styleid=2)
