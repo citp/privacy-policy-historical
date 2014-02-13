@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videezy.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424111005id_/http%3A//www.videezy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videezy.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213055332id_/http%3A//www.videezy.com/privacy) for the most accurate reproduction.*
 
 # Free HD Video Clips & HD Stock Video Footage at Videezy!
 
