@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youbeauty.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205183441id_/http%3A//www.youbeauty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youbeauty.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213054024id_/http%3A//www.youbeauty.com/privacy) for the most accurate reproduction.*
 
 # YouBeauty.com - Privacy
 
