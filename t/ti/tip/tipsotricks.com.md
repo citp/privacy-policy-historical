@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tipsotricks.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508054259id_/http%3A//www.tipsotricks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipsotricks.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213034252id_/http%3A//www.tipsotricks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - tipsOtricks
-
-Addicted To Facebook? Check Out 4 Simple Tips How to Hamper Facebook Addiction. [ Click here to read → ](http://www.tipsotricks.com/2013/04/tips-how-to-hamper-facebook-addiction.html)
+# Privacy Policy | tipsOtricks
 
   * **tipsOtricks** collects visitors’ information through third party website statistics service (statscounter.com). As with most other websites, visitors’ data collected are contained in (online) log files. The information in these log files include your IP address, your ISP, the browser you used to visit the blog, the time you spent on the blog and which pages you viewed throughout the blog.
 
