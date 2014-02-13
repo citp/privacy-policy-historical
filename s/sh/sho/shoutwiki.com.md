@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the shoutwiki.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102194146id_/http%3A//www.shoutwiki.com/wiki/Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoutwiki.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213190916id_/http%3A//www.shoutwiki.com/wiki/Privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - ShoutWiki Hub
 
-##  Summary
+## Summary
 
 If you only read ShoutWiki, no more information is collected than is typically collected in server logs by web sites in general.
 
 If you contribute to ShoutWiki, you are publishing every word you post publicly. If you write something, assume that it will be retained forever. This includes content pages, user pages and talk pages.
 
-##  Cookies
+## Cookies
 
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We do use cookies on our site. ShoutWiki may use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's help file.
 
 When you login you may select the "Remember me" check box to set a persistent cookie to store your user name and password, so you don't have to enter it more than once. You can remove the session ID cookie by clicking the "log out" link.
 
-##  Collection of personal information
+## Collection of personal information
 
 User information is stored on servers in the state of Chicago, USA. The only information that you need give is a username and password. The username does not need to be your real name. Therefore, any personal information you choose to give is not compulsory. No personal information should be given on the wiki by persons aged less than 13 years.
 
@@ -26,15 +26,15 @@ Your browser must permit cookies to be set (by *.shoutwiki.com) in order for you
 
 Edits by users who are not logged in will show the user's IP address in the page history of the article they edited, and also in other places on the site, including watchlists and recent changes, and in any external feeds made of such pages.
 
-##  Links to other sites
+## Links to other sites
 
 ShoutWiki may contain links to other sites that are not owned or controlled by ShoutWiki. Please be aware that ShoutWiki is not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every web site that collects personally identifiable information.
 
-##  Information sharing
+## Information sharing
 
 ShoutWiki will not sell or share private information, such as email addresses, with third parties, unless you agree to release this information, or it is required by law to release the information.
 
-##  ShoutWiki content
+## ShoutWiki content
 
 ShoutWiki takes no responsibility for the content uploaded by third parties. ShoutWiki's staff will act to remove copyright violations in a timely manner following the receipt of a DMCA takedown request.
 
@@ -48,11 +48,11 @@ No content shall be added to any wiki hosted by ShoutWiki that is tortious, thre
 
 All content on any wiki is the responsibility of the person who uploaded it or added it to a wiki page. ShoutWiki does not control the content, and does not approve the content before it is published. Although they are not obliged to do so, ShoutWiki, or its designees, have the right to remove any content for any reason, including violation of these terms of use.
 
-##  Security of information
+## Security of information
 
 ShoutWiki makes **no guarantee** against unauthorized access to any information you provide. This information may be available to anyone with access to the servers.
 
-##  Private logging
+## Private logging
 
 Every time you visit a web page, you send a lot of information to the web server. Most web servers routinely maintain access logs with a portion of this information, which can be used to get an overall picture of what pages are popular, what other sites link to this one, and what web browsers people are using. It is not the intention of ShoutWiki to use this information to keep track of legitimate users.
 
@@ -70,7 +70,7 @@ Here's a sample of what's logged for one page view:
 
 Log data may be examined by server administrators in the course of solving technical problems and in tracking down badly-behaved web spiders that overwhelm the site. IP addresses of users, derived either from those logs or from records in the database, or through records in the database via the CheckUser feature are frequently used to correlate usernames and network addresses of edits in investigating abuse of the wiki, including the suspected use of malicious "sockpuppets" (duplicate accounts), vandalism, harassment of other users, or disruption of the wiki.
 
-##  E-mail and IRC
+## E-mail and IRC
 
 E-mail: You may provide your e-mail address in your Preferences and enable other logged-in users to send email to you through the wiki. Your address will not be revealed to them unless you respond, or possibly if the email bounces.
 
@@ -82,7 +82,7 @@ IRC channels are not officially part of ShoutWiki proper. By participating in an
 
 Data on users, such as the times at which they edited and the number of edits they have made are publicly available via "user contributions" lists, and in aggregated forms published by other users.
 
-##  Use of the ShoutWiki sites
+## Use of the ShoutWiki sites
 
 Use of websites hosted by ShoutWiki is at your own risk.
 
@@ -94,14 +94,14 @@ ShoutWiki may terminate your use of the site, and administrators within each wik
 
 Commercial activities which have not been authorized by ShoutWiki are not permitted on the site. You may not sell or otherwise commercially exploit the use of this service, or access to the service without approval.
 
-##  Disclaimer of warranties
+## Disclaimer of warranties
 
 Except in those jurisdictions which do not allow the exclusion of certain warranties, ShoutWiki expressly disclaims all warranties of any kind and shall not be liable for any damages or losses whether directly or indirectly related to your use of this site or its content.
 
-##  Legal action
+## Legal action
 
 You agree to indemnify ShoutWiki, its staff and users from any liability relating to your use of this site, or its content.
 
-##  Severability
+## Severability
 
 If any term, condition or clause of these terms of use is found to be invalid then the remaining terms, conditions and clauses, shall remain valid.
