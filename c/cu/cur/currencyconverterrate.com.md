@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currencyconverterrate.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819022054id_/http%3A//www.currencyconverterrate.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currencyconverterrate.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213201206id_/http%3A//www.currencyconverterrate.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Currency Converter and Currency Exchange Rate Calculator
 
