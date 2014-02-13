@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverskit.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509053323id_/http%3A//www.driverskit.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverskit.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213010557id_/http%3A//www.driverskit.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
