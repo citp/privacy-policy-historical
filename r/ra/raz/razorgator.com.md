@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the razorgator.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819171647id_/http%3A//www.razorgator.com/tickets/about-us/privacysecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the razorgator.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213155117id_/http%3A//www.razorgator.com/tickets/about-us/privacysecurity) for the most accurate reproduction.*
 
 # Razorgator Tickets Privacy Policy & Security | Live Event Tickets
 
