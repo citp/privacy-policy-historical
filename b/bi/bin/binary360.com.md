@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binary360.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423231508id_/http%3A//www.binary360.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binary360.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213060356id_/http%3A//www.binary360.com/Privacy) for the most accurate reproduction.*
 
 # binary360 - Privacy
 
