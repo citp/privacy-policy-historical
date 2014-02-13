@@ -1,20 +1,6 @@
-> *The following text is extracted and transformed from the promodirect.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810140537id_/http%3A//www.promodirect.com/info/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promodirect.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214004633id_/http%3A//www.promodirect.com/info/privacy.jsp) for the most accurate reproduction.*
 
 # Promo Direct Privacy Statement
-
-Blog & Connect
-
-Connect with us and get marketing tips to enhance and build your brand.
-
-Customer Testimonials
-
-"Thank you for assisting me with our promotional product needs at our latest event for Nickelodeon and Nick at Night. The products we ordered with your company were exceptional in quality." -Candace Bell, MTV
-
-"Everyone was really friendly and seemed to have the same sense of urgency in getting my items to me in the time frame I required." -Lisa Huff, Select Media Services
-
-"With the help of your best sellers, we have been able to market to our customers better. Sincere thanks to Promo Direct." -Thomas Wright, Wright Financial
-
-[](https://web.archive.org/ccc3419-promotional-promo-direct-deal-of-the-week.htm)
 
 Home » Promo Direct Privacy Statement
 
