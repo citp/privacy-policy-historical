@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the indiareviewchannel.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007200750id_/http%3A//www.indiareviewchannel.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiareviewchannel.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213014633id_/http%3A//www.indiareviewchannel.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # IndiaReviewChannel.com privacy policy
-
-  
-
 
 At IndiaReviewChannel.com, we know that you care how information about you is stored, used and shared. We do our best to keep your trust by using the information about you carefully and sensibly. This privacy notice explains our privacy policy. By visiting IndiaReviewChannel.com, you are accepting this privacy policy and our terms & conditions.
 
@@ -36,19 +33,6 @@ As we continue to develop and grow our web site, we may sell IndiaReviewChannel.
   
 | 
 
-**Awards & Gifts**
-
- **Active Members**  
- _ **Today**_
-
-
-
-
- _ **Last 7 Days**_
-
-
-
-
-[ more...](https://web.archive.org/members/TopPerformers.aspx)  
+**Awards & Gifts**  
   
 ---|---
