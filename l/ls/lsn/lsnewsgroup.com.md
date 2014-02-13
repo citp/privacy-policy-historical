@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lsnewsgroup.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817223514id_/https%3A//www.lsnewsgroup.com/ls-org-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsnewsgroup.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213010255id_/https%3A//www.lsnewsgroup.com/ls-org-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sinclair News.Net
 
