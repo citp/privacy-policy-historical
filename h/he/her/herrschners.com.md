@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the herrschners.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811235607id_/http%3A//www.herrschners.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herrschners.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213213509id_/http%3A//herrschners.com/privacy.aspx) for the most accurate reproduction.*
 
-# Herrschners - Quality Crafts Since 1899
+# Herrschners Privacy and Security
 
 Hello avid crafter! As a customer of Herrschners, we want to ensure you understand the degree to which we take the protection and proper use of your personal information seriously, and our commitment to protecting your personal information in our possession.
 
@@ -44,6 +44,10 @@ To learn more about cookies, including how to configure their use on your device
 Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the web site of its manufacturer.  Flash cookies are different from browser cookies and the cookie management tools provided by your browser will not remove Flash cookies. [Learn how](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html) to manage privacy and storage settings for Flash cookies.
 
 We may also use web beacons. Beacons allow us to know if a certain page was visited, an email was opened, or if various banners or advertisements were effective.
+
+## Browser “Do Not Track” Signals
+
+While this website does not currently have a mechanism to recognize the various web browser Do Not Track signals, we do offer you the ability to manage your preferences per the instructions provided in the previous sections above. To learn more about browser tracking signals and Do Not Track please visit <http://www.allaboutdnt.org/>.
 
 ## Product Reviews and Testimonials
 
@@ -104,4 +108,4 @@ Stevens Point, WI 54481
 
 We reserve the right to change this privacy policy at any time and will post any material changes made on this page, along with the date on which it was updated.
 
-This Privacy Policy was last updated July 13, 2012
+This Privacy Policy was last updated January 17, 2014.
