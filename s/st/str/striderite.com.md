@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the striderite.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215165240id_/http%3A//www.striderite.com/store/SiteController/striderite/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the striderite.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213130431id_/http%3A//www.striderite.com/store/SiteController/striderite/privacypolicy) for the most accurate reproduction.*
 
 # Stride Rite Children's Shoes -
 
