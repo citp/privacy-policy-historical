@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitusccu.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821000817id_/https%3A//www.unitusccu.com/assets/uploads/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitusccu.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213060403id_/https%3A//www.unitusccu.com/assets/uploads/privacy-policy.pdf) for the most accurate reproduction.*
 
 # 
 
