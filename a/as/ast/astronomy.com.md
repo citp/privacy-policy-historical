@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astronomy.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030001341id_/http%3A//www.kalmbach.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astronomy.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213151424id_/http%3A//www.kalmbach.com/privacy.aspx) for the most accurate reproduction.*
 
 # Kalmbach Publishing Co. - Privacy Policy
 
@@ -100,8 +100,8 @@ Waukesha, WI 53187-1612
 
 [](http://www.kalmbachstore.com/)
 
-[](https://web.archive.org/en/Press%20Room.aspx)
+[](https://web.archive.org/Press%20Room.aspx)
 
-[](https://web.archive.org/en/About%20Kalmbach.aspx)  
+[](https://web.archive.org/About%20Kalmbach.aspx)  
   
 ---|---
