@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safestchina.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819194454id_/http%3A//www.safestchina.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safestchina.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213204726id_/http%3A//www.safestchina.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # 
 
