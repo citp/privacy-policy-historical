@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bargainmatch.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424192259id_/http%3A//cb.bargainmatch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargainmatch.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213070148id_/http%3A//cb.bargainmatch.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -97,9 +97,9 @@ If you'd like us to update, correct or delete your PII that you have provided to
 
 Inuvo, Inc.   
 Attn: Marketing and Communications   
-15550 Lightwave Drive   
-Suite 300   
-Clearwater, FL 33670 
+1111 Main Street   
+Suite 201   
+Conway, AR 72032 
 
 **The Right to Change This Policy**
 
@@ -111,6 +111,6 @@ If you have questions about our privacy policy, please contact us at [privacy@in
 
 Inuvo, Inc.   
 Attn: Marketing and Communications   
-15550 Lightwave Drive   
-Suite 300   
-Clearwater, FL 33670 
+1111 Main Street   
+Suite 201   
+Conway, AR 72032 
