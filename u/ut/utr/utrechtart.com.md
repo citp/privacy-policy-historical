@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utrechtart.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204175743id_/http%3A//www.utrechtart.com/Your-Privacy-g13t0.utrecht) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utrechtart.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213184954id_/http%3A//www.utrechtart.com/Your-Privacy-g13t0.utrecht) for the most accurate reproduction.*
 
 # Privacy Policy - Art Supplies from Utrecht featuring fine art supplies, school art supplies, discount art supplies, artist paints brushes, acrylics, watercolor supplies, artist oil paints, artist canvas and more
 
@@ -39,7 +39,7 @@ We do not share the phone numbers of our customers with other organizations.
 
 Information that you give us and information about your order may be combined with other personally identifiable information (such as demographic information and past purchase history) from our records and other sources. This information will be used to make our future marketing efforts more efficient. This information may also be shared with other marketers to bring you offers of interest. 
 
-If you do not wish to have your information shared, please let us know by emailing us at [info@utrecht.com](https://web.archive.org/web/20131204175743id_/http%3A//www.utrechtart.com/info@utrecht.com) or calling us at 1-800-223-9132. 
+If you do not wish to have your information shared, please let us know by emailing us at [info@utrecht.com](https://web.archive.org/web/20140213184954id_/http%3A//www.utrechtart.com/info@utrecht.com) or calling us at 1-800-223-9132. 
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some future time, we will post the policy changes on our website and provide you with the opportunity to opt out of these uses. If you are concerned about how your information is used, please visit our website for periodic updates. 
 
@@ -75,6 +75,6 @@ Utrecht Art Supplies
 PO Box 1769    
 Galesburg, IL 61402-1769   
 1-800-223-9132   
-[ ](https://web.archive.org/web/20131204175743id_/http%3A/customer_service/)[Customer Service ](https://web.archive.org/Customer-Service---Home-g9t0.utrecht)  
-[ www.utrechtart.com ](https://web.archive.org/web/20131204175743id_/http%3A/)   
+[ ](https://web.archive.org/web/20140213184954id_/http%3A/customer_service/)[Customer Service ](https://web.archive.org/Customer-Service---Home-g9t0.utrecht)  
+[ www.utrechtart.com ](https://web.archive.org/web/20140213184954id_/http%3A/)   
 |  |  
