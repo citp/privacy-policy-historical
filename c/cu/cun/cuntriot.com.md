@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuntriot.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822133842id_/http%3A//www.cuntriot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuntriot.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213161905id_/http%3A//www.cuntriot.com/privacy.html) for the most accurate reproduction.*
 
 # Free Porno Tube, Free Pussy Hardcore Sex, Online XXX Vids, Streaming Porn Clips and Free XXX Videos
 
