@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solium.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209031605id_/https%3A//solium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solium.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213052056id_/https%3A//solium.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Solium United StatesSolium United States
 
@@ -84,7 +84,7 @@ You can contact us by writing or email us at the addresses below:
 1500, 800 – 6th Ave SW  
 Calgary, Alberta, Canada  
 T2P 3G3  
-[compliance@solium.com](https://web.archive.org/web/20131209031605id_/http://solium.com/privacy/compliance@solium.com)
+[compliance@solium.com](https://web.archive.org/web/20140213052056id_/https://solium.com/privacy/compliance@solium.com)
 
 ## Privacy for Shareworks Platform Users
 
