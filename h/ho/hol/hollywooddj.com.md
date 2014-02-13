@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywooddj.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508163706id_/http%3A//www.hollywooddj.com/cucapr.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywooddj.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213193221id_/http%3A//www.hollywooddj.com/cucapr.html) for the most accurate reproduction.*
 
 # HOLLYWOOD DJ PRIVACY POLICY
 
