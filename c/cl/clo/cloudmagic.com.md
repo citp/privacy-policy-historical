@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the cloudmagic.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528013526id_/https%3A//cloudmagic.com/k/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudmagic.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213070151id_/https%3A//cloudmagic.com/k/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | CloudMagic
-
-Effective Date: January 1, 2012  
-Last updated: April 24, 2013 
-
-[](http://www.etrust.org/cert/687679.html)
 
 ##### Introduction
 
@@ -13,7 +8,7 @@ This Policy describes what information we collect when you use our service and h
 
 ##### Your privacy is important to us
 
-Webyog, Inc. is committed to protect your privacy. Through the CloudMagic website and mobile applications, we collect two types of user information: General Statistical Information and Personal Identifying Information. 
+CloudMagic, Inc. is committed to protect your privacy. Through the CloudMagic website and mobile applications, we collect two types of user information: General Statistical Information and Personal Identifying Information. 
 
 ##### Collection, use and disclosure of General Statistical Information
 
@@ -25,7 +20,7 @@ In addition to collecting General Statistical Information, we may ask you to pro
 
   1. Account info
 
-We ask for your email address when you sign up. This email address is used as your username for your CloudMagic account as well as to reach out to you periodically. 
+The first email address you add to CloudMagic app becomes the username for your CloudMagic account. If you were to use CloudMagic app in a different mobile device, you can log in using CloudMagic account and all your email accounts will be available instantly. We might also use that email address to reach out to you periodically. 
   
 
   2. Account authentication/passwords and data
@@ -36,13 +31,13 @@ Where OAuth is not supported, we keep your account username and password in an e
 
 We then use the authorization provided by you to build an index of your data, as well as to continuously keep your index updated. This index is stored securely in our servers. We use AWS servers to store your data. [Here is an overview of AWS’ security policies](http://aws.amazon.com/security/). Apart from that we take a number of security measures to ensure that your data is never read by anyone else.
 
-The only manner in which your data is used is when you carry out a search - in which case CloudMagic searches through your index and shows you search results. Even when you search within your data, we ensure that all transmission is secure using HTTPS so that no one else can access your data. 
+Your data is used only to deliver emails to your CloudMagic app on your device. We also ensure that all transmission is secure using HTTPS so that no one else can access your data. 
 
   
 
   3. Our policy towards children
 
-CloudMagic does not knowingly collect information from children under the age of 13. If we learn that we have inadvertently collected personally identifiable information such as email address or name from children under the age of 13, we will promptly delete it. Parents and guardians can contact us on [feedback@cloudmagic.com](mailto:feedback@cloudmagic.com) if they are aware that their child has provided us with personal information without their consent. 
+CloudMagic does not knowingly collect information from children under the age of 13. If we learn that we have inadvertently collected personally identifiable information such as email address or name from children under the age of 13, we will promptly delete it. Parents and guardians can contact us on [hello@cloudmagic.com](mailto:hello@cloudmagic.com) if they are aware that their child has provided us with personal information without their consent. 
   
 
   4. Support queries
@@ -75,11 +70,13 @@ The CloudMagic website may contain links to third-party websites over which we h
 
 We use Stripe, a secure third party payment processor to process all the credit card transactions. This means that your credit card information never reaches CloudMagic servers/employees, and is sent directly from your web browser to Stripe over a secure SSL connection. Stripe has the most stringent level of PCI compliance in the industry. [Here's more on how Stripe handles security](https://stripe.com/help/security). We also use Apple iTunes and Google Play Store to collect payments directly within apps. Their respective security policies can be found [here](http://www.apple.com/legal/itunes/us/terms.html) and [here](http://support.google.com/googleplay/bin/topic.py?hl=en&topic=2450225&parent=1100168&ctx=topic). 
 
-##### Changes to the Webyog Privacy Policy
+##### Changes to the CloudMagic Privacy Policy
 
-Webyog may amend this Policy at any time by posting the amended terms on our website. All amended terms will be automatically effective without further notice, 30 days after they are first posted. If you have any comments on this Privacy Policy please email us at [feedback@cloudmagic.com](mailto:feedback@cloudmagic.com) or write to us at: 
+CloudMagic may amend this Policy at any time by posting the amended terms on our website. All amended terms will be automatically effective without further notice, 30 days after they are first posted. If you have any comments on this Privacy Policy please email us at [hello@cloudmagic.com](mailto:hello@cloudmagic.com) or write to us at: 
 
-Webyog, Inc.  
-2900 Gordon Avenue, Suite 100-7P  
-Santa Clara, CA 95051  
-USA
+CloudMagic, Inc.  
+501 Forest Avenue, Suite 209  
+Palo Alto, CA 94301
+
+Effective Date: January 1, 2012  
+Last updated: October 25, 2013 
