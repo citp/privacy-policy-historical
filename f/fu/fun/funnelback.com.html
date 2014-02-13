@@ -1,25 +1,52 @@
-<!--The following is the downloaded HTML source of the funnelback.com privacy policy that was archived on 2013-08-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130806201528id_/http%3A//www.funnelback.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the funnelback.com privacy policy that was archived on 2014-02-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140213224946id_/http%3A//www.funnelback.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head> 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>Funnelback Website and Enterprise Search - Privacy Policy</title>
+    <title>Funnelback Website and Enterprise Search - Privacy Policy</title>
 <!-- noindex-->
     <link rel="shortcut icon" href="/__data/assets/file/0013/52501/favicon.ico">
    <link rel="alternate" type="application/rss+xml" title="Funnelback News Feed" href="/rss/feeds/latest-news.rss">
 
 <meta name="google-site-verification" content="dHVX9jOyFraBQiUkK4WQwtElJjotcRq7hn5VfTxd9lY">
 
-<!-- ADDED BY BEN POTTIER -->
-  <!-- jQuery -->
-<script type="text/javascript" src="http://www.funnelback.com/__data/assets/js_file/0009/46908/jquery.js"></script>
+    <!-- SEARCH SUGGESTIONS -->
+<!-- jQuery -->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.funnelback.com/__data/assets/js_file/0009/46908/jquery.js"></script>
+<script type="text/javascript" src="http://search-au.funnelback.com/search/js/jquery/jquery-ui-1.8.18.custom.min.js"></script>
+<script type="text/javascript" src="http://search-au.funnelback.com/search/js/jquery/jquery.tmpl.min.js"></script>
 <!-- search suggestions script -->
-<script type="text/javascript">var fbcollection = "funnelback-matrix";</script>
-<script type="text/javascript" src="http://www.funnelback.com/__data/assets/js_file/0008/54764/fb-suggest.js"></script>
-<!-- END BEN POTTIER -->
+<script type="text/javascript" src="http://search-au.funnelback.com/search/js/jquery.funnelback-completion.js"></script>
 
-    			<link rel="stylesheet" type="text/css" href="http://www.funnelback.com/_designs/funnelback-site-design/css/styles.css" media="all">
+  <script type="text/javascript">
+    jQuery(document).ready( function() {
+        // Query completion setup.
+        jQuery(function() {
+            jQuery("#query").fbcompletion({
+                'enabled'    : 'enabled',
+                'collection' : 'funnelback-matrix',
+                'program'    : 'http://search-au.funnelback.com/s/suggest.json',
+                'format'     : 'simple',
+                'alpha'      : '.5',
+                'show'       : '10',
+                'sort'       : '0',
+                'length'     : '3',
+                'delay'      : '0',
+                'profile'    : ''
+            });
+        });
+    });
+
+    function validate() {
+        if (document.getElementById("query").value == "" && document.getElementById("query").value == "") {
+             return false;
+        } else {
+            return true;
+        }
+    }
+
+  </script>
+<!-- END SEARCH SUGGESTIONS -->			<link rel="stylesheet" type="text/css" href="http://www.funnelback.com/_designs/funnelback-site-design/css/styles.css" media="all">
 								<link rel="stylesheet" type="text/css" href="http://www.funnelback.com/_designs/funnelback-site-design/css/cookies_info.css" media="all">
 								<link rel="stylesheet" type="text/css" href="http://www.funnelback.com/_designs/funnelback-site-design/css/colorbox.css" media="all">
 								<link rel="stylesheet" type="text/css" href="http://www.funnelback.com/__data/assets/file/0018/54711/fb-suggest-v2.css" media="all">
@@ -73,7 +100,7 @@
   Running MySource Matrix
   Developed by Squiz - http://www.squiz.net
   MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
-  Page generated: 06 August 2013 21:15:06
+  Page generated: 13 February 2014 22:49:04
 -->
 
 
@@ -86,33 +113,14 @@
 
 
 <div class="panel-search">
-            <form id="fb" name="fb" action="http://www.funnelback.com/search" method="get">
+            <form id="fb" name="fb" action="http://search-au.funnelback.com/s/search.html" method="get" onsubmit="return validate()">
                 <input type="hidden" value="funnelback-matrix" name="collection"> 
                 <p class="field-search">
                    <label for="query">Search for</label>
-                   <input type="text" id="query" class="sq-form-field" name="query">
+                   <input type="text" required="" id="query" class="sq-form-field" name="query" accesskey="q" placeholder="Search Funnelback website...">
                    <span id="suggestions"></span>
                 </p>
 			<input type="submit" value="Search" class="submit-button">
-                <!-- fieldset class="set_radio">
-                    <legend>Search type</legend>
-                    <input type="radio" name="type" value="all"/>
-                    <label for="all_results">All Results</label>
-                    <input type="radio" name="type" value="product"/>
-                    <label for="products">Products</label>
-                    <input type="radio" name="type" value="service"/>
-                    <label for="keyword">Services</label>
-                </fieldset -->
-                <!-- div class="suggest">
-                    <ul>
-	                <li><a href="#">Funnelback lorem ipsum dolor...</a></li>
-			<li><a href="#">Funnelback lorem ipsum dolor...</a></li>
-			<li><a href="#">Funnelback lorem ipsum dolor...</a></li>
-			<li><a href="#">Funnelback lorem ipsum dolor...</a></li>
-			<li><a href="#">Funnelback lorem ipsum dolor...</a></li>
-			<li><a href="#">Funnelback lorem ipsum dolor...</a></li>
-	            </ul>
-		</div -->
             </form>
 </div> <!-- end panel-search -->
 			
@@ -223,15 +231,15 @@
                                        </li>
                                     
                                        <li>
-                                          <a href="http://www.funnelback.com/news-and-events/events" class=""> Events</a>
-                                       </li>
-                                    
-                                       <li>
-                                          <a href="http://www.funnelback.com/news-and-events/user-conference-2012" class=""> User Conference 2012</a>
+                                          <a href="http://www.funnelback.com/news-and-events/user-conference-2013" class=""> User Conference 2013</a>
                                        </li>
                                     
                                        <li>
                                           <a href="http://www.funnelback.com/news-and-events/european-user-summit-2013" class=""> European User Summit 2013</a>
+                                       </li>
+                                    
+                                       <li>
+                                          <a href="http://www.funnelback.com/news-and-events/events" class=""> Events</a>
                                        </li>
                                                                    </ul>
                                 <div class="last"></div>
@@ -268,7 +276,8 @@
  <div id="wrap">
     <div id="container">
         
-			<div id="right-sidebar">			 <!-- Right Column-->
+			<!-- noindex-->
+<div id="right-sidebar">			 <!-- Right Column-->
 
            <a href="http://www.funnelback.com/our-products/demo" class="demo-request">
    <span>See Funnelback in action</span>
@@ -290,7 +299,8 @@ $(document).ready(function() {
 	pageTracker._trackPageview('/casestudy-goal.html');
     });
 });
-</script></div>			 <!-- End Right Column -->
+</script></div>
+<!-- endnoindex-->			 <!-- End Right Column -->
         
         <div class="content">
             <div class="banner">
@@ -367,6 +377,8 @@ $(document).ready(function() {
     </div> <!-- end #container-->    
  </div> <!-- end #wrap-->
 
+<!--  noindex-->
+
 
 			<div id="footer">
 	<div id="footer-wrap">
@@ -398,7 +410,7 @@ $(document).ready(function() {
                     <li><a href="http://www.funnelback.com/about-us/contact/canberra">Canberra</a><br>+61 (0) 261 763 160</li>
                     <li><a href="http://www.funnelback.com/about-us/contact/sydney">Sydney</a><br>+61 (0) 410 696 722</li>
                     <li><a href="http://www.funnelback.com/about-us/contact/melbourne,-australia">Melbourne</a><br>+61 (0) 392 355 400</li>
-                    <li><a href="http://www.funnelback.com/about-us/contact/sydney">Brisbane</a><br>+61 (0) 403 155 116</li>
+                    <li><a href="http://www.funnelback.com/about-us/contact/brisbane">Brisbane</a><br>+61 (0) 403 155 116</li>
                 </ul>
 				<ul>
 					<li class="title">UK</li>
@@ -458,7 +470,6 @@ $(document).ready(function() {
 <!-- endnoindex-->
 
 
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","6bed9c41d2",24443,"MVMBZkdUXRUEWhEPWQgZNkBcGloIAVwdSEYORg==",0,345,new Date().getTime()]);</script>
 
 
-<script type="text/javascript" async="" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+</body></html>
