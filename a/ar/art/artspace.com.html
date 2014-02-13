@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the artspace.com privacy policy that was archived on 2013-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131016053840id_/http%3A//www.artspace.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the artspace.com privacy policy that was archived on 2014-02-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140213091824id_/http%3A//www.artspace.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" wf-loading"><head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
         <meta charset="utf-8">
         <title>Artspace - Privacy Policy</title>
 
@@ -13,6 +15,16 @@
           }());
         </script>
         <!--  End Typekit -->
+
+        
+        <!-- Muscula: -->
+        <!-- Actual script is prepended to the head in artspace.third_party_async.js -->
+        <script>
+        window.Muscula={settings:{logId:"uVUfVhD-xEiLd",suppressErrors:!1,branding:"none"},errors:[]};
+        window.Muscula.run=function(a){eval(a);window.Muscula.run=function(){}};
+        window.onerror=function(){window.Muscula.errors.push(arguments);return void 0===window.Muscula.settings.suppressErrors};
+        </script>
+        <!-- End Muscula -->
 
         <!-- Pingdom -->
         <script>
@@ -27,20 +39,16 @@
         })();
         </script>
         <!-- End Pingdom -->
+        
 
         <!-- FAVICON -->
         <link rel="icon" type="image/vnd.microsoft.icon" href="/favicon.ico">
         <!-- /FAVICON -->
 
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        
+        <link href="//static.artspace.com/static/css/compressed/artspace.common.min.c2c62701.css" type="text/css" rel="stylesheet" charset="utf-8">
+        
 
-        <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-        <!--[if lte IE 8]><script src="//static.artspace.com/api2/static/js/artspace/artspace.iefixes.js"></script><![endif]-->
-
-        
-        <link href="//static.artspace.com/api2/static/css/compressed/artspace.common.min.d639b3bb.css" type="text/css" rel="stylesheet" charset="utf-8">
-        
-        
         
 
         <link rel="canonical" href="">
@@ -65,7 +73,10 @@ Artspace is the premier marketplace for contemporary art, and offers works from 
         <meta name="keywords" content="
 contemporary art, modern art, original art, contemporary art gallery, modern art gallery, online art gallery, contemporary artists, modern artists, art for sale, art sales
 ">
+        
         <!-- /SEO -->
+
+        <meta name="sailthru.tags" content=" ">
 
         
 <!-- Set viewport width for responsive layout -->
@@ -73,12 +84,14 @@ contemporary art, modern art, original art, contemporary art gallery, modern art
 
 
 
+        
         <!-- Optimizely -->
         <script async="" type="text/javascript" src="//cdn.optimizely.com/js/42334583.js"></script>
         <!-- End Optimizely -->
+        
 
     </head>
-    <body id="static">
+    <body id="static" class="">
 
         <!-- HEADER -->
         <!-- ClickTale Top part -->
@@ -86,13 +99,22 @@ contemporary art, modern art, original art, contemporary art gallery, modern art
         <!-- ClickTale end of Top part -->
 
         
+        
         <div id="header" style="background-color:white;">
             <div class="container">
-                <div class="row header-top">
+                <div class="header-top clearfix">
                     
 
+<!-- Class "top-nav' AND its CHILDREN are bound to the event:
+    "Header - Contact Link" in Google Tag Manager
+    If you change or remove this id or alter the structure of the child elements,
+    you must also update the event. -->
 <ul class="top-nav">
   <li id="geo-toggle">
+    <!-- ID "geo-toggle" AND its CHILDREN are bound to the event:
+    "Currency, Unit Switch - Final MIG" & "Currency, Unit Switch - Initial MIG" in Google Tag Manager
+    If you change or remove this id or alter the structure of the child elements,
+    you must also update the event. -->
     <div class="dropdown">
       <a class="dropdown-toggle dropdown-select" title="Select Currency" data-toggle="dropdown" data-selected="curr:USD" href="#">
         <div class="dropdown-content"><span class="icon-geo icon-us"></span> $USD</div>
@@ -107,7 +129,10 @@ contemporary art, modern art, original art, contemporary art gallery, modern art
   </li>
   <li class="pipe">|</li>
   <li class="dropdown">
-    <a id="cart-link" href="https://store.artspace.com/store/checkout/cart/">Your Cart </a>
+    <!-- ID "cart-link" is bound to the event:
+    "Header - Cart Link" in Google Tag Manager
+    If you change or remove this id you must also update the event. -->
+    <a id="cart-link" href="/checkout/cart">Your Cart </a>
     <div class="dropdown-container" id="dropdown-cart">
     </div>
   </li>
@@ -123,27 +148,38 @@ contemporary art, modern art, original art, contemporary art gallery, modern art
   <li class="pipe hidden-phone">|</li>
   <li class="login"><a href="#signin" class="show-modal">Sign In</a></li>
   <li class="pipe">|</li>
-  <li class="contact"><span class="not-capitalized">Contact us at 212-675-5804 or </span><a class="fancy-modal not-capitalized underline" href="#ask-an-advisor" onclick="_gaq.push(['_trackEvent', 'Inquiry', 'Click', 'Header - Ask An Expert', undefined, true]);">email</a></li>
+  <li class="contact hidden-phone"><span class="not-capitalized">Contact Us: </span><a class="show-inquire not-capitalized underline" data-modal-type="expert" data-source="header" href="#inquire_modal">email</a></li>
+  <li class="contact visible-phone"><span class="not-capitalized"><a href="tel:2126755804" class="underline">Call Us</a> or </span><a class="show-inquire not-capitalized underline" data-source="header" href="#inquire_modal" data-modal-type="expert">Email Us</a></li>
   
 </ul>
 
 
 
                 </div>
-                <div class="row header-mid">
+                <div class="header-mid clearfix">
                     <div class="logo pull-left">
-                        <a href="/"><img alt="Artspace Logo" src="//static.artspace.com/api2/static/images/header/logo.png"></a>
+                        <a href="/">
+                            <img class="hidden-phone" alt="Artspace Logo" src="//static.artspace.com/static/images/header/logo.png">
+                            <img class="visible-phone" alt="Artspace Logo" src="//static.artspace.com/static/images/logo_welcome.png">
+                        </a>
                     </div>
 
                     
+                    <!-- Class "header_promo" AND its CHILDREN are bound to the event:
+                    "Header - 10p Off Promo" in Google Tag Manager
+                    If you change or remove this id or alter the structure of the child elements,
+                    you must also update the event. -->
                     <div class="header_promo" id="show">
-                        <a href="/account_creation" onclick="_gaq.push(['_trackEvent', 'Signup', 'Click', 'Header - 10% Off', undefined, true]);"><span class="icon-mail"></span>SIGN UP FOR OUR EMAIL &amp;<br><span class="pink">GET 10% OFF YOUR FIRST ORDER </span></a>
+                        <a href="/account_creation"><span class="icon-mail"></span>SIGN UP FOR OUR EMAIL &amp;<br><span class="pink">GET 10% OFF YOUR FIRST ORDER </span></a>
                     </div>
                     
-                    
+
                     <div class="search pull-right">
                         <form action="/search/">
                             <span class="icon-search"></span>
+                            <!-- ID "search-textbox" is bound to the event:
+                            "Search - Autocomplete" in Google Tag Manager
+                            If you change or remove this id you must also update the event. -->
                             <input id="search-textbox" class="search-textbox" type="text" value="" name="q" placeholder="Search" autocomplete="off">
                         </form>
                     </div>
@@ -180,15 +216,7 @@ contemporary art, modern art, original art, contemporary art gallery, modern art
 	<ul class="subnav partners">
 	  
 	  <li>
-	    <a href="/partners/filters/museum">Museums</a>
-	  </li>
-	  
-	  <li>
 	    <a href="/partners/filters/gallery">Galleries</a>
-	  </li>
-	  
-	  <li>
-	    <a href="/partners/filters/non-profit">Non-Profits</a>
 	  </li>
 	  
 	  <li>
@@ -196,7 +224,11 @@ contemporary art, modern art, original art, contemporary art gallery, modern art
 	  </li>
 	  
 	  <li>
-	    <a href="/partners/filters/culturalinstitution">Cultural Institutions</a>
+	    <a href="/partners/filters/museum">Museums and Cultural Institutions</a>
+	  </li>
+	  
+	  <li>
+	    <a href="/partners/filters/non-profit">Non-Profits</a>
 	  </li>
 	  
 	</ul>
@@ -220,6 +252,10 @@ contemporary art, modern art, original art, contemporary art gallery, modern art
 	  </li>
 	  
 	  <li>
+	    <a href="/collecting/artspace_editions">Artspace Editions</a>
+	  </li>
+	  
+	  <li>
 	    <a href="/collecting/art_advisors">Art Advisors</a>
 	  </li>
 	  
@@ -232,11 +268,11 @@ contemporary art, modern art, original art, contemporary art gallery, modern art
 	  </li>
 	  
 	  <li>
-	    <a href="/collecting/events_art_fairs">Events &amp; Art Fairs</a>
+	    <a href="/collecting/decor">Decor</a>
 	  </li>
 	  
 	  <li>
-	    <a href="/collecting/decor">Decor</a>
+	    <a href="/collecting/events_art_fairs">Events &amp; Art Fairs</a>
 	  </li>
 	  
 	</ul>
@@ -276,30 +312,32 @@ contemporary art, modern art, original art, contemporary art gallery, modern art
                                         Auctions
                                     </a>
                                     
-  <div class="subnav-container">
-	<ul class="subnav auctions">
-	  
-	  <li>
-	    <a href="/auctions/aperture">Aperture Foundation 1/1 Benefit &amp; Auction</a>
-	  </li>
-	  
-	</ul>
-  </div>
-
                                 </li>
+                                
                                 <li id="about-us-toggle" class="pull-right hidden-phone">
                                     <a>
                                         ABOUT US
                                         <div class="caret-open"><div></div></div>
                                     </a>
                                 </li>
-                                
+
                             </ul>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+
+        
+
+<!-- ID "header-promo" is bound to the event:
+"Header - Promo Listener" in Google Tag Manager
+If you change or remove this id you must also update the event. -->
+<div id="header-promo" class="promo-tainer hide">
+  <div class="container"></div>
+</div>
+
+        
         <!-- /HEADER -->
 
         <!-- CONTENT -->
@@ -326,6 +364,8 @@ contemporary art, modern art, original art, contemporary art gallery, modern art
     <p class="small-pad">A cookie is a text file that is assigned by a web server and stored on a user's computer to uniquely identify the browser on a particular computer for record-keeping purposes. Artspace uses cookies to collect aggregate information about site usage, help identify users when they return to our site, track navigational patterns of usage and access user preferences. We do so to enhance the quality of your visit to our Site, access your preferences and personalize the Site for you.<br>
     Artspace uses "session" or temporary cookies to ensure that you are recognized when you move from page to page on the site and that any information you enter on the Site (for example, items in your shopping cart) are not lost as you navigate the site. We also use persistent cookies so we can remember you on subsequent visits to our Site, which enables us to provide a more enhanced, efficient and personal experience when you return to our Site. We do not link the information we store in cookies to any personally identifiable information you submit while on our Site.</p>
     <p class="small-pad">If you do not want to have cookies placed on your computer, you can set your browser to refuse or remove cookies by following the instructions in your browser's "help" file. However, doing so will limit system performance, may not allow you to take advantage of certain features on our Site and even cause certain features of the Site to malfunction.</p>
+    <p class="small-pad">We may permit limited third parties to place cookies through the Site to provide us with better insights into the use of the Site, user demographics, or to provide relevant advertising to you.  These third parties may collect information about a consumer's online activities over time and across different websites when he or she uses our Site.</p>
+    <p class="small-pad">We do not use technology that recognizes do-not-track signals from your web browser.</p>
   <h3>HOW WE USE YOUR INFORMATION</h3>
     <p class="small-pad">As noted above, we use the data we collect in order to provide you with the best web experience possible. We only use the information we collect in the manner described above this Privacy Policy and as follows.</p>
     <p class="small-pad">i) We may share your information with selected vendors and business partners with whom we work ("Service Providers"). These Service Providers provide functions on our behalf such as fulfillment, shipping, credit card processing, data and tracking analysis, customer service, market services etc in order to complete the transactions and offer you the best service our Site.<br>
@@ -377,14 +417,17 @@ contemporary art, modern art, original art, contemporary art gallery, modern art
       <h3 class="footer-content-h3-bottom">My Account</h3>
       <ul>
         
-        <li><a href="#signin" data-target-value="https://store.artspace.com/store/customer/account/" class="show-modal modal-target">Account Summary</a></li>
-        <li><a href="#signin" data-target-value="https://store.artspace.com/store/sales/order/history/" class="show-modal modal-target">Order History</a></li>
+        <li><a href="#signin" data-target-value="/profiles/account_summary" class="show-modal modal-target">Account Summary</a></li>
+        <li><a href="#signin" data-target-value="/profiles/my_orders" class="show-modal modal-target">Order History</a></li>
         <li><a href="https://store.artspace.com/store/referafriend/index/invite/">Send Invites</a></li>
         
       </ul>
       <h3 class="footer-content-h3-bottom">Suggestions &amp; FeedBack</h3>
       <ul>
-        <li><a class="fancy-modal" href="#suggestions_modal" onclick="_gaq.push(['_trackEvent', 'Suggestions', 'Click', 'Footer - Suggestions Modal', undefined, true]);">What cool new stuff would you love?</a>
+        <!-- Class "mod-suggest" is bound to the event:
+        "Suggestions Modal - Footer" in Google Tag Manager
+        If you change or remove this class you must also update the event. -->
+        <li><a class="show-inquire mod-suggest" href="#inquire_modal" data-modal-type="suggestions" data-source="footer">What cool new stuff would you love?</a>
         </li>
       </ul>
     </div>
@@ -422,7 +465,6 @@ contemporary art, modern art, original art, contemporary art gallery, modern art
         <li><a href="/partners/filters/gallery">Galleries</a></li>
         <li><a href="/partners/filters/non-profit">Non-Profits</a></li>
         <li><a href="/collecting/gift_guides">Gift Guides</a></li>
-        <li><a href="/collecting/thematic/under_100">Works under $100</a></li>
         <li><a href="/search/?q=print">Limited edition prints</a></li>
         <li><a href="/glossary">Terms Glossary</a></li>
         <li><a href="/site_map">Site Map</a></li>
@@ -444,9 +486,9 @@ contemporary art, modern art, original art, contemporary art gallery, modern art
 <div id="as-share-icons-container">
     <div id="as-share-icons">
 
-        <div class="fb-like fb-like-share-button" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-font="lucida grande"></div>
+      
 
-        <a class="shareLink as-tip custom-facebook-button" href="javascript:void(0)" data-href="http://www.facebook.com/sharer.php?u=&amp;t=" target="_blank" title="Share on Facebook">
+        <a class="shareLink as-tip custom-facebook-button" href="#" data-href="http://www.facebook.com/sharer.php?u=&amp;t=" target="_blank" title="Share on Facebook">
             <span class="icon-facebook"></span>
             <span class="hide">Share on Facebook</span>
         </a>
@@ -456,12 +498,12 @@ contemporary art, modern art, original art, contemporary art gallery, modern art
             <span class="hide">Share on Twitter</span>
         </a>
 
-        <a class="shareLink as-tip custom-pinterest-button" href="#" data-href="http://pinterest.com/pin/create/button/?url=&amp;media=http://media1.artspace.com?d=fd34632e61bcb898b66a5c7fd5287d77&amp;description=.%20" target="_blank" title="Share on Pinterest">
+        <a class="shareLink as-tip custom-pinterest-button" href="#" data-href="http://pinterest.com/pin/create/button/?url=&amp;media=//media1.artspace.com?d=4ddab0687f49ae07109571a3dc77ef48&amp;description=.%20" target="_blank" title="Share on Pinterest">
             <span class="icon-pinterest"></span>
             <span class="hide">Share on Pinterest</span>
         </a>
 
-        <a class="shareLink as-tip custom-tumblr-button" href="#" target="_blank" data-href="http://www.tumblr.com/share/photo?source=http%3A//media1.artspace.com%3Fd%3Dfd34632e61bcb898b66a5c7fd5287d77&amp;caption=.%20" title="Share on Tumblr">
+        <a class="shareLink as-tip custom-tumblr-button" href="#" target="_blank" data-href="http://www.tumblr.com/share/photo?source=//media1.artspace.com%3Fd%3D4ddab0687f49ae07109571a3dc77ef48&amp;caption=.%20" title="Share on Tumblr">
             <span class="icon-tumblr"></span>
             <span class="hide">Share on Tumblr</span>
         </a>
@@ -478,12 +520,6 @@ contemporary art, modern art, original art, contemporary art gallery, modern art
     </div>
 </div>
 
-
-
-
-
-
-
     </div>
   </div>
   <!--/ #footer-column-container -->
@@ -497,7 +533,7 @@ contemporary art, modern art, original art, contemporary art gallery, modern art
               <input type="email" class="email-input form-input" name="email" id="inputEmail" placeholder="Enter your email address">
               <input type="hidden" name="utm_campaign" value="">
               <input type="hidden" name="subscriber_only" value="1">
-              <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="K0nnCZnSMW4dqrrYxmZa7G5rdbuxh8T7"></div>
+              <input type="hidden" name="csrfmiddlewaretoken" value="cfMlDjd0WUvEFwFiDshsJ16SxL7IcVTa">
               <label class="checkbox">
                 <input type="checkbox" name="terms" checked="checked" class="notm">
                 <span class="terms">I accept the <a href="/legal">terms and conditions</a></span>
@@ -533,14 +569,13 @@ contemporary art, modern art, original art, contemporary art gallery, modern art
   <ul class="footer-items">
     <li><a href="/about">Our Mission</a></li>
     
-    <li><a href="#signin" data-target-value="https://store.artspace.com/store/customer/account/" class="show-modal modal-target">Account Summary</a></li>
+    <li><a href="#signin" data-target-value="/profiles/account_summary" class="show-modal modal-target">Account Summary</a></li>
     
     <li><a href="/legal">Terms of Use</a></li>
   </ul>
 
   <div class="copyright-tiny">Copyright © 2013 Artspace Marketplace, Inc.<br>All rights reserved.</div>
 </footer>
-
 
         
 
@@ -552,24 +587,33 @@ contemporary art, modern art, original art, contemporary art gallery, modern art
         <div class="visible-phone"></div>
 
         <script type="text/javascript">
-            // Set Global Namespace, User & Cart Data
-            var artspace = (function (artspace) {
-                var customer = {"hash": "d41d8cd98f00b204e9800998ecf8427e", "firstname": null, "cid": null, "lastname": null, "displayname": "", "email": null, "is_subscribed": 0};
+            var artspace = artspace || {};
+            (function () {
+                var customer = {"displayname": "", "firstname": "", "cid": "", "lastname": "", "is_subscribed": false, "hash": "", "email": ""};
                 customer.currency = 'USD';
                 customer.units = 'inch';
+                customer.country = 'US';
                 artspace.user = {
                     logged_in: !!customer.email,
+                    csrf_token: 'cfMlDjd0WUvEFwFiDshsJ16SxL7IcVTa',
                     get: function (prop) {
                         return void 0 !== customer[prop] ? customer[prop] : null
                     }
                 }
-                artspace.cartData = {"items": [], "grand_total": null, "items_count": null, "quote_id": null};
-                return artspace;
-            }(artspace || {}));
+                artspace.cartData = {"items": [], "grand_total": 0, "items_count": 0};
+            }());
+
+            artspace.headerPromo = {"promos": [], "rotation_interval": 5000};
+            artspace.include_third_party = true;
+            
+            
+            artspace.include_facebook_like = false;
+            
         </script>
 
         <!-- Third Party Inits / Variables -->
         
+
 
 <!-- Facebook -->
 <div id="fb-root"></div>
@@ -586,44 +630,33 @@ window.fbAsyncInit = function(){
 </script>
 <!-- Facebook -->
 
-<!-- GOOGLE ANALYTICS -->
-<script type="text/javascript">
-    var _gaq = _gaq || [];
-    var pluginUrl = 
-        '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-    _gaq.push(
-        ['_require', 'inpage_linkid', pluginUrl],
-        ["_setAccount", "UA-21683353-1"],
-        ['_setDomainName', 'artspace.com'],
-        ['_setCampaignCookieTimeout', 7776000000],
-        ['_setSiteSpeedSampleRate', 100],
-    
-    
-        ['_setCustomVar',2,'Currency/Metric','USD/inch',3],
-    
-    
-        ["_trackPageview"]
-    );
-</script>
-<!-- /GOOGLE ANALYTICS -->
 
 <!-- Google Tag Manager -->
 <!-- Data Layer -->
 <script>
 var google_tag_params = google_tag_params || {};
-  dataLayer = [{
+var dataLayer = dataLayer || [];
+  dataLayer.push({
+    'analyticsAccount': 'UA-21683353-1',
+    'universalAnalytics': 'UA-21683353-2',
     'pageCategory':'static',
+    
+    'userCurrency':'USD',
+    'userMeasurementUnits':'inch',
+    'userCountryCode':'US',
+    
     
     
     
     
     
     'googleTagParams':'window.google_tag_params'
-  }];
+  });
 </script>
 <!-- /Data Layer -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NKDL29" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- /Google Tag Manager -->
+
 
 <!-- CLICKTALE -->
 <div id="ClickTaleDiv" class="hide"></div>
@@ -632,13 +665,14 @@ var google_tag_params = google_tag_params || {};
 
 
         <!-- Third Party / CDN / Offsite Hosted Libraries -->
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-        <script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.9/jquery.validate.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 
-
-        <script src="//static.artspace.com/api2/static/js/compressed/artspace.common.min.ae272806.js"></script>
+        <script src="//static.artspace.com/static/js/compressed/artspace.common.min.240004fa.js"></script>
 
         
+
+        <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+        <!--[if lt IE 10]><script src="//static.artspace.com/static/js/artspace/artspace.iefixes.js"></script><![endif]-->
 
         
         
@@ -650,13 +684,14 @@ var google_tag_params = google_tag_params || {};
   <div id="wd-close">
     <div class="caret-close"><div></div></div>
   </div>
+  <div id="wd-phone-close"></div>
   <div id="wd-signup" class="row">
     <div class="wd-inner-wrap">
       <div class="wd-signup-pad">
         <div class="wd-webby webby-left"></div>
         <div class="wd-webby webby-right"></div>
         <form id="wd-signup-form" method="post" action="/api/subscribe">
-          <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="K0nnCZnSMW4dqrrYxmZa7G5rdbuxh8T7"></div>
+          <input type="hidden" name="csrfmiddlewaretoken" value="cfMlDjd0WUvEFwFiDshsJ16SxL7IcVTa">
           <h2>RECEIVE OUR AWARD WINNING EMAILS &amp; ENJOY 10% OFF YOUR FIRST PURCHASE</h2>
           <div class="control-group">
             <div class="controls">
@@ -715,8 +750,7 @@ var google_tag_params = google_tag_params || {};
       </div>
       <div class="wd-info-module phone">
         <div class="wd-info-pad">
-          <div id="wd-phone-close"></div>
-          <img id="wd-phone-logo" src="//static.artspace.com/api2/static/images/logo_welcome.png">
+          <img id="wd-phone-logo" src="//static.artspace.com/static/images/logo_welcome.png">
           <h2>INSIDER ACCESS TO THE WORLD'S BEST ART</h2>
           <p>Artspace offers you authentic, exclusive works from world-renowned artists, galleries, museums and cultural institutions. Collecting with us helps support creative culture while bringing you art news, interviews and access to global art resources. </p>
         </div>
@@ -743,625 +777,1003 @@ var google_tag_params = google_tag_params || {};
 
         
 
+
+
 <!-- signin modal -->
-<div class="modal fade bg bg0" id="signin_modal">
-    <a href="#" class="close" data-dismiss="modal" aria-hidden="true"></a>
-    <div class="modal-body">
+<div class="modal fade bg bg2" id="signin_modal">
+  <button class="close" data-dismiss="modal" aria-hidden="true"></button>
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      <div class="modal-body">
         <form action="https://www.artspace.com/api/login" class="signin">
-            <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="K0nnCZnSMW4dqrrYxmZa7G5rdbuxh8T7"></div>
-            <input type="hidden" class="utm_campaign" name="utm_campaign" value="">
-            <input type="hidden" id="signin_target_value" name="target_value" value="">
-            <div class="row-fluid">
-                <div class="span12">
-                    <h1>Welcome Back</h1>
-                    <p>
-                        Sign in for personalized experiences, exclusive access to new works, special offers, invitations and features.
-                    </p>
-                </div>
+          <input type="hidden" name="csrfmiddlewaretoken" value="cfMlDjd0WUvEFwFiDshsJ16SxL7IcVTa">
+          <input type="hidden" class="utm_campaign" name="utm_campaign" value="">
+          <input type="hidden" id="signin_target_value" name="target_value" value="">
+          <div class="row">
+            <div class="col-sm-12">
+              <h1>Welcome Back</h1>
+              <p>
+                Sign in for personalized experiences, exclusive access to new works, special offers, invitations and features.
+              </p>
             </div>
-            <div class="row-fluid">
-                <div class="span12 error-holder"></div>
+          </div>
+          <div class="row">
+            <div class="col-sm-12 error-holder"></div>
+          </div>
+          <div class="row form-holder">
+            <div class="col-sm-6 input-holder">
+              <input type="text" name="email" placeholder="Enter your email address" required="">
             </div>
-            <div class="row-fluid form-holder">
-                <div class="span6 input-holder">
-                    <input type="text" name="email" placeholder="Enter your email address" required="">
-                </div>
-                <div class="span6 input-holder">
-                    <input type="password" name="password" placeholder="Enter your password" required="">
-                </div>
+            <div class="col-sm-6 input-holder">
+              <input type="password" name="password" placeholder="Enter your password" required="">
             </div>
-            <div class="row-fluid">
-                <div class="span6 offset3 submit-holder">
-                    <button type="submit" class="btn btn-pink">Sign in now</button>
-                    <img src="//static.artspace.com/api2/static/images/image-loading-med.gif" alt="" class="loader">
-                </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-6 col-sm-offset-3 submit-holder">
+              <button type="submit" class="btn btn-pink">Sign in now</button>
+              <img src="//static.artspace.com/static/images/image-loading-med.gif" alt="" class="loader">
             </div>
+          </div>
         </form>
         <div class="forgot-pass">
-            <a href="#join" class="show-modal join-link">Join Artspace</a>
-            <span class="sep">|</span>
-            <a href="https://store.artspace.com/store/customer/account/forgotpassword">Forgot your password?</a>
+          <a href="#join" class="show-modal join-link">Join Artspace</a>
+          <span class="sep">|</span>
+          <a href="#forgot_password" class="show-modal">Forgot your password?</a>
         </div>
-    </div>
-    <div class="credits">
-        <div class="bg0"><span class="artist">Damien Hirst,</span><span class="title">Pardon,</span><span class="year">2012</span></div>
-        <div class="bg1"><span class="artist">James Welling,</span><span class="title">H1,</span><span class="year">2006</span></div>
-        <div class="bg2"><span class="artist">Josh Smith,</span><span class="title">LARGE IMAGE J.S. (Untitled, 2006),</span><span class="year">2012</span></div>
-        <div class="bg3"><span class="artist">Sol LeWitt,</span><span class="title">Two Centimeter Wavy Bands In Colors,</span><span class="year">1996</span></div>
-        <div class="bg4"><span class="artist">Coke Wisdom O'Neal,</span><span class="title">The Gospel of Wealth,</span><span class="year">2013</span></div>
-        <div class="bg5"><span class="artist">Alex Katz,</span><span class="title">Coleman Pond II,</span><span class="year">2007</span></div>
-    </div>
+      </div><!-- /.modal-content -->
+      <div class="credits">
+    <div class="bg0"><span class="artist">Damien Hirst,</span><span class="title">Pardon,</span><span class="year">2012</span></div>
+    <div class="bg1"><span class="artist">James Welling,</span><span class="title">H1,</span><span class="year">2006</span></div>
+    <div class="bg2"><span class="artist">Josh Smith,</span><span class="title">LARGE IMAGE J.S. (Untitled, 2006),</span><span class="year">2012</span></div>
+    <div class="bg3"><span class="artist">Sol LeWitt,</span><span class="title">Two Centimeter Wavy Bands In Colors,</span><span class="year">1996</span></div>
+    <div class="bg4"><span class="artist">Coke Wisdom O'Neal,</span><span class="title">The Gospel of Wealth,</span><span class="year">2013</span></div>
+    <div class="bg5"><span class="artist">Alex Katz,</span><span class="title">Coleman Pond II,</span><span class="year">2007</span></div>
 </div>
+
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
 
 <!-- join modal -->
-<div class="modal fade bg bg5" id="join_modal">
-    <a href="#" class="close" data-dismiss="modal" aria-hidden="true"></a>
-    <div class="modal-body">
-        <form action="https://www.artspace.com/api/register" class="join">
-            <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="K0nnCZnSMW4dqrrYxmZa7G5rdbuxh8T7"></div>
-            <input type="hidden" class="utm_campaign" name="utm_campaign" value="">
-            <input type="hidden" class="join_target_value" name="target_value" value="?ty=thankyou">
-            <input type="hidden" name="login" value="1">
-            <div class="row-fluid">
-                <div class="span12">
-                    <span class="love-art">Love art?</span>
-                    <h1>Collect the world's best</h1>
-                    <p>
-                        Sign up for personalized experiences, exclusive access to new works, special offers, invitations and features.
-                    </p>
-                </div>
-            </div>
-            <div class="row-fluid">
-                <div class="span12 error-holder"></div>
-            </div>
-            <div class="row-fluid form-holder">
-                <div class="span6">
-                    <div class="input-holder">
-                        <input type="text" name="email" placeholder="Enter your email address" tabindex="1" required="">
-                    </div>
-                    <div class="input-holder">
-                        <input type="checkbox" id="join_terms" name="terms" tabindex="3" checked="" required="">
-                        <label for="join_terms">I accept the terms and conditions</label>
-                    </div>
-                </div>
-                <div class="span6 input-holder">
-                    <input type="password" name="password" placeholder="Enter a password" tabindex="2" required="">
-                </div>
-            </div>
-            <div class="row-fluid">
-                <div class="span6 offset3 submit-holder">
-                    <button type="submit" class="btn btn-pink">Sign up now</button>
-                    <img src="//static.artspace.com/api2/static/images/image-loading-med.gif" alt="" class="loader">
-                </div>
-            </div>
-            <div class="forgot-pass">
-                Already a member? <a href="#signin" class="show-modal">Sign in here</a>
-            </div>
-        </form>
-    </div>
-    <div class="credits">
-        <div class="bg0"><span class="artist">Damien Hirst,</span><span class="title">Pardon,</span><span class="year">2012</span></div>
-        <div class="bg1"><span class="artist">James Welling,</span><span class="title">H1,</span><span class="year">2006</span></div>
-        <div class="bg2"><span class="artist">Josh Smith,</span><span class="title">LARGE IMAGE J.S. (Untitled, 2006),</span><span class="year">2012</span></div>
-        <div class="bg3"><span class="artist">Sol LeWitt,</span><span class="title">Two Centimeter Wavy Bands In Colors,</span><span class="year">1996</span></div>
-        <div class="bg4"><span class="artist">Coke Wisdom O'Neal,</span><span class="title">The Gospel of Wealth,</span><span class="year">2013</span></div>
-        <div class="bg5"><span class="artist">Alex Katz,</span><span class="title">Coleman Pond II,</span><span class="year">2007</span></div>
-    </div>
+<div class="modal fade bg bg3" id="join_modal">
+  <a href="#" class="close" data-dismiss="modal" aria-hidden="true"></a>
+  <div class="modal-body">
+    <form action="https://www.artspace.com/api/register" class="join">
+      <input type="hidden" name="csrfmiddlewaretoken" value="cfMlDjd0WUvEFwFiDshsJ16SxL7IcVTa">
+      <input type="hidden" class="utm_campaign" name="utm_campaign" value="">
+      <input type="hidden" class="join_target_value" name="target_value" value="?ty=thankyou">
+      <input type="hidden" name="login" value="1">
+      <div class="row">
+        <div class="col-sm-12">
+          <span class="love-art">Love art?</span>
+          <h1>Collect the world's best</h1>
+          <p>
+            Sign up for personalized experiences, exclusive access to new works, special offers, invitations and features.
+          </p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12 error-holder"></div>
+      </div>
+      <div class="row form-holder">
+        <div class="col-sm-6">
+          <div class="input-holder">
+            <input type="text" name="email" placeholder="Enter your email address" tabindex="1" required="">
+          </div>
+          <div class="input-holder">
+            <label for="join_terms" class="checkbox-label"><input type="checkbox" id="join_terms" name="terms" tabindex="3" checked="" required=""> I accept the terms and conditions</label>
+          </div>
+        </div>
+        <div class="col-sm-6 input-holder">
+          <input type="password" name="password" placeholder="Enter a password" tabindex="2" required="">
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-6 col-sm-offset-3 submit-holder">
+          <button type="submit" class="btn btn-pink">Sign up now</button>
+          <img src="//static.artspace.com/static/images/image-loading-med.gif" alt="" class="loader">
+        </div>
+      </div>
+      <div class="forgot-pass">
+        Already a member? <a href="#signin" class="show-modal">Sign in here</a>
+      </div>
+    </form>
+  </div>
+  <div class="credits">
+    <div class="bg0"><span class="artist">Damien Hirst,</span><span class="title">Pardon,</span><span class="year">2012</span></div>
+    <div class="bg1"><span class="artist">James Welling,</span><span class="title">H1,</span><span class="year">2006</span></div>
+    <div class="bg2"><span class="artist">Josh Smith,</span><span class="title">LARGE IMAGE J.S. (Untitled, 2006),</span><span class="year">2012</span></div>
+    <div class="bg3"><span class="artist">Sol LeWitt,</span><span class="title">Two Centimeter Wavy Bands In Colors,</span><span class="year">1996</span></div>
+    <div class="bg4"><span class="artist">Coke Wisdom O'Neal,</span><span class="title">The Gospel of Wealth,</span><span class="year">2013</span></div>
+    <div class="bg5"><span class="artist">Alex Katz,</span><span class="title">Coleman Pond II,</span><span class="year">2007</span></div>
+</div>
 </div>
 
+
 <!-- confirm modal -->
-<div class="modal fade bg bg0" id="thankyou_modal">
-    <a href="#" class="close" data-dismiss="modal" aria-hidden="true"></a>
-    <div class="modal-body">
-        <div class="row-fluid">
-            <div class="span12">
-                <h1>Thank you for signing up</h1>
-                <p>
-                    Tailor your art, news &amp; information to your preferences.
-                </p>
-                <a href="/profiles/preferences" class="btn btn-pink">View Preference Center</a>
-            </div>
+<div class="modal fade bg bg1" id="thankyou_modal">
+  <a href="#" class="close" data-dismiss="modal" aria-hidden="true"></a>
+  <div class="modal-body">
+    <div class="row">
+      <div class="col-sm-12">
+        <h1>Thank you for signing up</h1>
+        <p>
+          Tailor your art, news &amp; information to your preferences.
+        </p>
+        <a href="/profiles/preferences" class="btn btn-pink">View Preference Center</a>
+      </div>
+    </div>
+  </div>
+  <div class="credits">
+    <div class="bg0"><span class="artist">Damien Hirst,</span><span class="title">Pardon,</span><span class="year">2012</span></div>
+    <div class="bg1"><span class="artist">James Welling,</span><span class="title">H1,</span><span class="year">2006</span></div>
+    <div class="bg2"><span class="artist">Josh Smith,</span><span class="title">LARGE IMAGE J.S. (Untitled, 2006),</span><span class="year">2012</span></div>
+    <div class="bg3"><span class="artist">Sol LeWitt,</span><span class="title">Two Centimeter Wavy Bands In Colors,</span><span class="year">1996</span></div>
+    <div class="bg4"><span class="artist">Coke Wisdom O'Neal,</span><span class="title">The Gospel of Wealth,</span><span class="year">2013</span></div>
+    <div class="bg5"><span class="artist">Alex Katz,</span><span class="title">Coleman Pond II,</span><span class="year">2007</span></div>
+</div>
+</div>
+
+
+<div class="modal fade bg bg1" id="forgot_password_modal">
+  <a href="#" class="close" data-dismiss="modal" aria-hidden="true"></a>
+  <div class="modal-body">
+    <form action="https://www.artspace.com/api/forgot_password" class="forgot_pass">
+      <input type="hidden" name="csrfmiddlewaretoken" value="cfMlDjd0WUvEFwFiDshsJ16SxL7IcVTa">
+      <div class="row">
+        <div class="col-sm-12">
+          <h1>Forgot your password?</h1>
+          <p>
+            Please enter your email below and we will send you a new password.
+          </p>
         </div>
-    </div>
-    <div class="credits">
-        <div class="bg0"><span class="artist">Damien Hirst,</span><span class="title">Pardon,</span><span class="year">2012</span></div>
-        <div class="bg1"><span class="artist">James Welling,</span><span class="title">H1,</span><span class="year">2006</span></div>
-        <div class="bg2"><span class="artist">Josh Smith,</span><span class="title">LARGE IMAGE J.S. (Untitled, 2006),</span><span class="year">2012</span></div>
-        <div class="bg3"><span class="artist">Sol LeWitt,</span><span class="title">Two Centimeter Wavy Bands In Colors,</span><span class="year">1996</span></div>
-        <div class="bg4"><span class="artist">Coke Wisdom O'Neal,</span><span class="title">The Gospel of Wealth,</span><span class="year">2013</span></div>
-        <div class="bg5"><span class="artist">Alex Katz,</span><span class="title">Coleman Pond II,</span><span class="year">2007</span></div>
-    </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12 error-holder"></div>
+      </div>
+      <div class="row form-holder">
+        <div class="col-sm-6 col-sm-offset-3">
+          <div class="input-holder">
+            <input type="text" name="email" placeholder="Enter your email address" class="required">
+          </div>
+        </div>
+      </div>
+      <div class="success row">
+        <div class="col-sm-12">
+          <p>
+            We've emailed you a new password. <a href="#signin" class="show-modal pink">Click here</a> to sign in.
+          </p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-6 col-sm-offset-3 submit-holder">
+          <button type="submit" class="btn btn-pink">Submit</button>
+          <img src="//static.artspace.com/static/images/image-loading-med.gif" alt="" class="loader">
+        </div>
+      </div>
+    </form>
+  </div>
+  <div class="credits">
+    <div class="bg0"><span class="artist">Damien Hirst,</span><span class="title">Pardon,</span><span class="year">2012</span></div>
+    <div class="bg1"><span class="artist">James Welling,</span><span class="title">H1,</span><span class="year">2006</span></div>
+    <div class="bg2"><span class="artist">Josh Smith,</span><span class="title">LARGE IMAGE J.S. (Untitled, 2006),</span><span class="year">2012</span></div>
+    <div class="bg3"><span class="artist">Sol LeWitt,</span><span class="title">Two Centimeter Wavy Bands In Colors,</span><span class="year">1996</span></div>
+    <div class="bg4"><span class="artist">Coke Wisdom O'Neal,</span><span class="title">The Gospel of Wealth,</span><span class="year">2013</span></div>
+    <div class="bg5"><span class="artist">Alex Katz,</span><span class="title">Coleman Pond II,</span><span class="year">2007</span></div>
+</div>
 </div>
 
 <!-- follow signin modal -->
 <div class="modal fade" id="follow_signin_modal">
-    <a href="#" class="close" data-dismiss="modal" aria-hidden="true"></a>
-    <div class="modal-body">
-        <form action="https://www.artspace.com/profiles/login_save" class="signin">
-            <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="K0nnCZnSMW4dqrrYxmZa7G5rdbuxh8T7"></div>
-            <input type="hidden" class="utm_campaign" name="utm_campaign" value="">
-            <input type="hidden" id="signin_target_value" name="target_value" value="">
-            <input type="hidden" class="follow_modal_follows" name="follows" value="">
-            <div>
-                <h1>Interested in Firstname Lastname?</h1>
-                <p>
-                    To follow this artist and get updates on new work &amp; exclusives, you must be signed into your Artspace account.
-                </p>
-            </div>
-            <div class="error-holder"></div>
-            <div class="input-holder">
-                <input type="text" name="email" placeholder="Enter your email address" required="">
-            </div>
-            <div class="input-holder">
-                <input type="password" name="password" placeholder="Enter your password" required="">
-            </div>
-            <div class="submit-holder">
-                <button type="submit" class="btn btn-pink">Sign in now</button>
-                <img src="//static.artspace.com/api2/static/images/image-loading-med.gif" alt="" class="loader">
-            </div>
-        </form>
-        <div class="forgot-pass">
-            <a href="#follow_join" class="show-modal join-link">Join Artspace</a>
-            <span class="sep">|</span>
-            <a href="https://store.artspace.com/store/customer/account/forgotpassword">Forgot your password?</a>
-        </div>
+  <a href="#" class="close" data-dismiss="modal" aria-hidden="true"></a>
+  <div class="modal-body">
+    <form action="https://www.artspace.com/profiles/login_save" class="signin">
+      <input type="hidden" name="csrfmiddlewaretoken" value="cfMlDjd0WUvEFwFiDshsJ16SxL7IcVTa">
+      <input type="hidden" class="utm_campaign" name="utm_campaign" value="">
+      <input type="hidden" id="signin_target_value" name="target_value" value="">
+      <input type="hidden" class="follow_modal_follows" name="follows" value="">
+      <div>
+        <h1>Interested in Firstname Lastname?</h1>
+        <p>
+          To follow this artist and get updates on new work &amp; exclusives, you must be signed into your Artspace account.
+        </p>
+      </div>
+      <div class="error-holder"></div>
+      <div class="input-holder">
+        <input type="text" name="email" placeholder="Enter your email address" required="">
+      </div>
+      <div class="input-holder">
+        <input type="password" name="password" placeholder="Enter your password" required="">
+      </div>
+      <div class="submit-holder">
+        <button type="submit" class="btn btn-pink">Sign in now</button>
+        <img src="//static.artspace.com/static/images/image-loading-med.gif" alt="" class="loader">
+      </div>
+    </form>
+    <div class="forgot-pass">
+      <a href="#follow_join" class="show-modal join-link">Join Artspace</a>
+      <span class="sep">|</span>
+      <a href="#forgot_password" class="show-modal">Forgot your password?</a>
     </div>
+  </div>
 </div>
 
 <!-- follow register modal -->
 <div class="modal fade" id="follow_join_modal">
-    <a href="#" class="close" data-dismiss="modal" aria-hidden="true"></a>
-    <div class="modal-body">
-        <form action="https://www.artspace.com/profiles/register_save" class="join">
-            <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="K0nnCZnSMW4dqrrYxmZa7G5rdbuxh8T7"></div>
-            <input type="hidden" class="utm_campaign" name="utm_campaign" value="">
-            <input type="hidden" class="join_target_value" name="target_value" value="">
-            <input type="hidden" class="follow_modal_follows" name="follows" value="">
-            <input type="hidden" name="login" value="1">
-            <div>
-                <h1>Interested in Firstname Lastname?</h1>
-                <p>
-                    To follow this artist and get updates on new work &amp; exclusives, you must be signed into your Artspace account. Don't have one? Create one now.
-                </p>
-            </div>
-            <div class="error-holder"></div>
-            <div class="input-holder">
-                <input type="text" name="email" placeholder="Enter your email address" required="">
-            </div>
-            <div class="input-holder pass-holder">
-                <input type="password" name="password" placeholder="Enter your password" required="">
-            </div>
-            <div class="input-holder">
-                <input type="checkbox" id="join_terms" name="terms" tabindex="3" checked="" required="">
-                <label for="join_terms">I accept the terms and conditions</label>
-            </div>
-            <div class="submit-holder">
-                <button type="submit" class="btn btn-pink">Sign up now</button>
-                <img src="//static.artspace.com/api2/static/images/image-loading-med.gif" alt="" class="loader">
-            </div>
-        </form>
-        <div class="forgot-pass">
-            Already a member? <a href="#follow_signin" class="show-modal">Sign in here</a>
-        </div>
+  <a href="#" class="close" data-dismiss="modal" aria-hidden="true"></a>
+  <div class="modal-body">
+    <form action="https://www.artspace.com/profiles/register_save" class="join">
+      <input type="hidden" name="csrfmiddlewaretoken" value="cfMlDjd0WUvEFwFiDshsJ16SxL7IcVTa">
+      <input type="hidden" class="utm_campaign" name="utm_campaign" value="">
+      <input type="hidden" class="join_target_value" name="target_value" value="">
+      <input type="hidden" class="follow_modal_follows" name="follows" value="">
+      <input type="hidden" name="login" value="1">
+      <div>
+        <h1>Interested in Firstname Lastname?</h1>
+        <p>
+          To follow this artist and get updates on new work &amp; exclusives, you must be signed into your Artspace account. Don't have one? Create one now.
+        </p>
+      </div>
+      <div class="error-holder"></div>
+      <div class="input-holder">
+        <input type="text" name="email" placeholder="Enter your email address" required="">
+      </div>
+      <div class="input-holder pass-holder">
+        <input type="password" name="password" placeholder="Enter your password" required="">
+      </div>
+      <div class="input-holder">
+        <label for="join_terms" class="checkbox-label"><input type="checkbox" id="join_terms" name="terms" tabindex="3" checked="" required=""> I accept the terms and conditions</label>
+      </div>
+      <div class="submit-holder">
+        <button type="submit" class="btn btn-pink">Sign up now</button>
+        <img src="//static.artspace.com/static/images/image-loading-med.gif" alt="" class="loader">
+      </div>
+    </form>
+    <div class="forgot-pass">
+      Already a member? <a href="#follow_signin" class="show-modal">Sign in here</a>
     </div>
+  </div>
 </div>
+
 
 <!-- follow thankyou modal -->
 <div class="modal fade" id="follow_thankyou_modal">
-    <a href="#" class="close" data-dismiss="modal" aria-hidden="true"></a>
-    <div class="modal-body">
-        <div>
-            <h1>You are now following firstname lastname</h1>
-            <p>
-                Tailor your art, news &amp; information to your preferences.
-            </p>
-            <div class="error-holder"></div>
-        </div>
-        <div class="submit-holder">
-            <a href="/profiles/preferences" class="btn btn-pink">View Preference Center</a>
-        </div>
+  <a href="#" class="close" data-dismiss="modal" aria-hidden="true"></a>
+  <div class="modal-body">
+    <div>
+      <h1>You are now following firstname lastname</h1>
+      <p>
+        Tailor your art, news &amp; information to your preferences.
+      </p>
+      <div class="error-holder"></div>
     </div>
+    <div class="submit-holder">
+      <a href="/profiles/preferences" class="btn btn-pink">View Preference Center</a>
+    </div>
+  </div>
 </div>
+
 
 <!-- mygallery signin modal -->
 <div class="modal fade" id="mygallery_signin_modal">
-    <a href="#" class="close" data-dismiss="modal" aria-hidden="true"></a>
-    <div class="modal-body">
-        <div class="row-fluid">
-            <div class="span4 img-holder">
-                <img src="" alt="" class="work-image">
-                <p class="artist-name"></p>
-                <p class="work-title"></p>
-            </div>
-            <div class="span8">
-                <form action="https://www.artspace.com/api/login" class="signin">
-                    <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="K0nnCZnSMW4dqrrYxmZa7G5rdbuxh8T7"></div>
-                    <input type="hidden" class="utm_campaign" name="utm_campaign" value="">
-                    <input type="hidden" id="signin_target_value" name="target_value" value="">
-                    <div>
-                        <h1>Interested in saving this work?</h1>
-                        <p>
-                            To save this work to your personal gallery and to access other features like this, you must be signed into your Artspace account.
-                        </p>
-                    </div>
-                    <div class="error-holder"></div>
-                    <div class="input-holder">
-                        <input type="text" name="email" placeholder="Enter your email address" required="">
-                    </div>
-                    <div class="input-holder">
-                        <input type="password" name="password" placeholder="Enter your password" required="">
-                    </div>
-                    <div class="submit-holder">
-                        <button type="submit" class="btn btn-pink">Sign in now</button>
-                        <img src="//static.artspace.com/api2/static/images/image-loading-med.gif" alt="" class="loader">
-                    </div>
-                </form>  
-            </div>
-        </div>
-        <div class="forgot-pass">
-            <a href="#mygallery_join" class="show-modal join-link">Join Artspace</a>
-            <span class="sep">|</span>
-            <a href="https://store.artspace.com/store/customer/account/forgotpassword">Forgot your password?</a>
-        </div>
+  <a href="#" class="close" data-dismiss="modal" aria-hidden="true"></a>
+  <div class="modal-body">
+    <div class="row">
+      <div class="col-sm-4 img-holder">
+        <img src="" alt="" class="work-image">
+        <p class="artist-name"></p>
+        <p class="work-title"></p>
+      </div>
+      <div class="col-sm-8">
+        <form action="https://www.artspace.com/api/login" class="signin">
+          <input type="hidden" name="csrfmiddlewaretoken" value="cfMlDjd0WUvEFwFiDshsJ16SxL7IcVTa">
+          <input type="hidden" class="utm_campaign" name="utm_campaign" value="">
+          <input type="hidden" id="signin_target_value" name="target_value" value="">
+          <div>
+            <h1>Interested in saving this work?</h1>
+            <p>
+              To save this work to your personal gallery and to access other features like this, you must be signed into your Artspace account.
+            </p>
+          </div>
+          <div class="error-holder"></div>
+          <div class="input-holder">
+            <input type="text" name="email" placeholder="Enter your email address" required="">
+          </div>
+          <div class="input-holder">
+            <input type="password" name="password" placeholder="Enter your password" required="">
+          </div>
+          <div class="submit-holder">
+            <button type="submit" class="btn btn-pink">Sign in now</button>
+            <img src="//static.artspace.com/static/images/image-loading-med.gif" alt="" class="loader">
+          </div>
+        </form>  
+      </div>
     </div>
+    <div class="forgot-pass">
+      <a href="#mygallery_join" class="show-modal join-link">Join Artspace</a>
+      <span class="sep">|</span>
+      <a href="#forgot_password" class="show-modal">Forgot your password?</a>
+    </div>
+  </div>
 </div>
 
+<!-- mygallery join modal -->
 <div class="modal fade" id="mygallery_join_modal">
-    <a href="#" class="close" data-dismiss="modal" aria-hidden="true"></a>
-    <div class="modal-body">
-        <div class="row-fluid">
-            <div class="span4 img-holder">
-                <img src="" alt="" class="work-image">
-                <p class="artist-name"></p>
-                <p class="work-title"></p>
-            </div>
-            <div class="span8">
-                <form action="https://www.artspace.com/api/register" class="join">
-                    <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="K0nnCZnSMW4dqrrYxmZa7G5rdbuxh8T7"></div>
-                    <input type="hidden" class="utm_campaign" name="utm_campaign" value="">
-                    <input type="hidden" class="join_target_value" name="target_value" value="">
-                    <input type="hidden" name="login" value="1">
-                    <div>
-                        <h1>Interested in saving this work?</h1>
-                        <p>
-                            To follow this artist and get updates on new work &amp; exclusives, you must be signed into your Artspace account. Don't have one? Create one now.
-                        </p>
-                    </div>
-                    <div class="error-holder"></div>
-                    <div class="input-holder">
-                        <input type="text" name="email" placeholder="Enter your email address" required="">
-                    </div>
-                    <div class="input-holder pass-holder">
-                        <input type="password" name="password" placeholder="Enter your password" required="">
-                    </div>
-                    <div class="input-holder">
-                        <input type="checkbox" id="join_terms" name="terms" tabindex="3" checked="" required="">
-                        <label for="join_terms">I accept the terms and conditions</label>
-                    </div>
-                    <div class="submit-holder">
-                        <button type="submit" class="btn btn-pink">Sign up now</button>
-                        <img src="//static.artspace.com/api2/static/images/image-loading-med.gif" alt="" class="loader">
-                    </div>
-                </form>
-            </div>
-        </div>
-        <div class="forgot-pass">
-            Already a member? <a href="#mygallery_signin" class="show-modal">Sign in here</a>
-        </div>
+  <a href="#" class="close" data-dismiss="modal" aria-hidden="true"></a>
+  <div class="modal-body">
+    <div class="row">
+      <div class="col-sm-4 img-holder">
+        <img src="" alt="" class="work-image">
+        <p class="artist-name"></p>
+        <p class="work-title"></p>
+      </div>
+      <div class="col-sm-8">
+        <form action="https://www.artspace.com/api/register" class="join">
+          <input type="hidden" name="csrfmiddlewaretoken" value="cfMlDjd0WUvEFwFiDshsJ16SxL7IcVTa">
+          <input type="hidden" class="utm_campaign" name="utm_campaign" value="">
+          <input type="hidden" class="join_target_value" name="target_value" value="">
+          <input type="hidden" name="login" value="1">
+          <div>
+            <h1>Interested in saving this work?</h1>
+            <p>
+              To follow this artist and get updates on new work &amp; exclusives, you must be signed into your Artspace account. Don't have one? Create one now.
+            </p>
+          </div>
+          <div class="error-holder"></div>
+          <div class="input-holder">
+            <input type="text" name="email" placeholder="Enter your email address" required="">
+          </div>
+          <div class="input-holder pass-holder">
+            <input type="password" name="password" placeholder="Enter your password" required="">
+          </div>
+          <div class="input-holder">
+            <label for="join_terms" class="checkbox-label"><input type="checkbox" id="join_terms" name="terms" tabindex="3" checked="" required=""> I accept the terms and conditions</label>
+          </div>
+          <div class="submit-holder">
+            <button type="submit" class="btn btn-pink">Sign up now</button>
+            <img src="//static.artspace.com/static/images/image-loading-med.gif" alt="" class="loader">
+          </div>
+        </form>
+      </div>
     </div>
+    <div class="forgot-pass">
+      Already a member? <a href="#mygallery_signin" class="show-modal">Sign in here</a>
+    </div>
+  </div>
 </div>
 
-<div class="modal fade" id="mygallery_save_modal" data-user-hash="d41d8cd98f00b204e9800998ecf8427e">
-    <a href="#" class="close" data-dismiss="modal" aria-hidden="true"></a>
-    <div class="modal-body loading">
-        <div class="row-fluid">
-            <div class="span4 img-holder">
-                <img src="" alt="" class="work-image">
-                <p class="artist-name"></p>
-                <p class="work-title"></p>
+
+<div class="modal fade" id="mygallery_save_modal" data-user-hash="">
+  <a href="#" class="close" data-dismiss="modal" aria-hidden="true"></a>
+  <div class="modal-body loading">
+    <div class="row">
+      <div class="col-sm-4 img-holder">
+        <img src="" alt="" class="work-image">
+        <p class="artist-name"></p>
+        <p class="work-title"></p>
+      </div>
+      <div class="col-sm-8">
+        <form action="/galleries/add_work//">
+          <input type="hidden" name="csrfmiddlewaretoken" value="cfMlDjd0WUvEFwFiDshsJ16SxL7IcVTa">
+          <input type="hidden" class="work-id" name="work" value="">
+          <h1>
+            Add this work to a gallery
+          </h1>
+          <h4>
+            What do you like about this work?
+          </h4>
+          <textarea id="gallery-work-description" name="description"></textarea>
+          <h4>
+            Choose Gallery
+          </h4>
+          <div class="gallery-list">
+            <ul></ul>
+          </div>
+          <h4>Create new gallery</h4>
+          <input type="text" name="new-gallery" placeholder="Enter a new gallery name">
+          <div class="error"></div>
+          <div class="submit-holder">
+            <button type="submit" class="btn btn-pink">Add</button>
+            <img src="//static.artspace.com/static/images/image-loading-med.gif" alt="" class="loader">
+          </div>
+        </form>
+        <div class="confirmation">
+          <h1>This artwork has been added to your gallery</h1>
+          <div class="submit-holder">
+            <a href="/mygalleries/" class="btn btn-pink">View Your Gallery</a>
+            <div>
+              <a class="addconf-share" id="addconf-share-facebook" href="#" target="_blank" data-href="http://www.facebook.com/sharer.php?u=http://artspace.com/mygallery//&amp;t=Description">
+                <img src="//static.artspace.com/static/images/mygallery/facebook_share.png" width="143" height="32" alt="Share on Facebook">
+              </a>
+              <a class="addconf-share" id="addconf-share-pinterest" href="#" target="_blank" data-href="http://pinterest.com/pin/create/button/?url=http://artspace.com/mygallery//&amp;media=http://media.artspace.com&amp;description=Description">
+                <img src="//static.artspace.com/static/images/mygallery/pinterest_share.png" width="143" height="32" alt="Pin on Pinterest">
+              </a>
             </div>
-            <div class="span8">
-                <form action="/api2/galleries/add_work/d41d8cd98f00b204e9800998ecf8427e/">
-                    <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="K0nnCZnSMW4dqrrYxmZa7G5rdbuxh8T7"></div>
-                    <input type="hidden" class="work-id" name="work" value="">
-                    <h1>
-                        Add this work to a gallery
-                    </h1>
-                    <h4>
-                        What do you like about this work?
-                    </h4>
-                    <textarea id="gallery-work-description" name="description"></textarea>
-                    <h4>
-                        Choose Gallery
-                    </h4>
-                    <div class="gallery-list">
-                        <ul></ul>
-                    </div>
-                    <h4>Create new gallery</h4>
-                    <input type="text" name="new-gallery" placeholder="Enter a new gallery name">
-                    <div class="error"></div>
-                    <div class="submit-holder">
-                        <button type="submit" class="btn btn-pink">Add</button>
-                        <img src="//static.artspace.com/api2/static/images/image-loading-med.gif" alt="" class="loader">
-                    </div>
-                </form>
-                <div class="confirmation">
-                    <h1>This artwork has been added to your gallery</h1>
-                    <div class="submit-holder">
-                        <a href="/mygalleries/d41d8cd98f00b204e9800998ecf8427e" class="btn btn-pink">View Your Gallery</a>
-                        <div>
-                            <a class="addconf-share" id="addconf-share-facebook" href="#" target="_blank" data-href="http://www.facebook.com/sharer.php?u=http://artspace.com/mygallery//&amp;t=Description">
-                              <img src="//static.artspace.com/api2/static/images/mygallery/facebook_share.png" width="143" height="32" alt="Share on Facebook">
-                            </a>
-                            <a class="addconf-share" id="addconf-share-pinterest" href="#" target="_blank" data-href="http://pinterest.com/pin/create/button/?url=http://artspace.com/mygallery//&amp;media=http://media.artspace.com&amp;description=Description">
-                              <img src="//static.artspace.com/api2/static/images/mygallery/pinterest_share.png" width="143" height="32" alt="Pin on Pinterest">
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+          </div>
         </div>
-        <div class="overlay"></div>
+      </div>
     </div>
+    <div class="overlay"></div>
+  </div>
 </div>
+
+<div class="modal fade" id="confirm_modal">
+  <a href="#" class="close" data-dismiss="modal" aria-hidden="true"></a>
+  <div class="modal-body">
+    <h1 class="prompt"></h1>
+    <div class="confirm-buttons">
+      <button class="btn btn-pink confirm-button">Yes</button>
+      <button class="btn btn-pink" data-dismiss="modal" aria-hidden="true">No</button>
+    </div>
+    <div class="alert-buttons">
+      <button class="btn btn-pink" data-dismiss="modal" aria-hidden="true">Ok</button>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+<!-- START Preference Modals -->
+<!-- Preference Join -->
+<!-- artspace.modal.show() takes below id (minus modal) as argument -->
+<div class="modal fade bg bg0" id="preference_join_modal">
+  <a href="#" class="close" data-dismiss="modal" aria-hidden="true"></a>
+  <div class="modal-body">
+    <form action="https://www.artspace.com/api/subscribe/" class="join preference_modal">
+      <input type="hidden" name="csrfmiddlewaretoken" value="cfMlDjd0WUvEFwFiDshsJ16SxL7IcVTa">
+      <input type="hidden" class="utm_campaign" name="utm_campaign" value="">
+      <input type="hidden" class="join_target_value" name="target_value" value="?ty=thankyou">
+      <input type="hidden" name="login" value="1">
+      <div class="row">
+        <div class="col-sm-12">
+          <span class="love-art">Sign up now to</span>
+          <h1>Get 10% Off Your First Purchase</h1>
+          <p>
+            Plus, get first access to new works, special offers, and invitations to private events.
+          </p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12 error-holder"></div>
+      </div>
+      <div class="row form-holder">
+        <div class="col-sm-8 col-sm-offset-2">
+          <div class="input-holder">
+            <input type="text" name="email" placeholder="Enter your email address" tabindex="1" required="">
+          </div>
+          <div class="input-holder">
+            <label for="join_terms" class="checkbox-label"><input type="checkbox" id="join_terms" name="terms" tabindex="3" checked="" required=""> I accept the terms and conditions</label>
+          </div>
+        </div>
         
-
-<!-- Ask An Expert / Advisor / Sold Out / Request To Buy / Next Feature... auth flow / 3rd visit questionaire, etc etc... -->
-<div style="display:none">
-    <div id="ask-an-advisor">
-        <div class="ask-an-advisor-container">
-            <div class="left-panel span3">
-                <img class="modal-thumb" src="//static.artspace.com/assets/images/ask-an-expert-no-image.png" alt="">
-                <div class="title-artist"></div>
-                <div class="title-artwork"> <em></em>
-                </div>
-            </div>
-            <div class="right-panel span4">
-                <div class="title-bar">
-                    <h2>Have a question? Ask an Advisor</h2>
-                </div>
-                <p>
-                    For first-time buyers and avid collectors alike, a personal Artspace Art Advisor can assist you in learning about, discovering and falling in love with an artwork.
-                </p>
-                <form action="" method="POST" class="ask-an-advisor-form" id="ask-an-advisor-form">
-                    <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="K0nnCZnSMW4dqrrYxmZa7G5rdbuxh8T7"></div>
-                    <input type="hidden" id="add-work-id" name="work" value="">
-                    <input type="hidden" id="inquiry_type" name="inquiry_type" value="expert">
-                    <input type="text" class="span4" name="name" value="" placeholder="Your Name" title="Your Name">
-                    <input type="text" class="span4" name="email" value="" placeholder="Email Address">
-                    <input type="text" class="span4" name="phone" value="" placeholder="Phone Number">
-                    <textarea name="body" class="span4" placeholder="How can we assist you?"></textarea>
-                    <button type="submit" class="btn btn-pink btn-primary">Send Now</button>
-                </form>
-            </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-6 col-sm-offset-3 submit-holder">
+          <button type="submit" class="btn btn-pink">Sign up now</button>
+          <img src="//static.artspace.com/static/images/image-loading-med.gif" alt="" class="loader">
         </div>
-    </div>
+      </div>
+      <div class="forgot-pass">
+        Already a member? <a href="#signin" class="show-modal">Sign in here</a>
+      </div>
+    </form>
+  </div>
+  <div class="credits">
+    <div class="bg0"><span class="artist">Damien Hirst,</span><span class="title">Pardon,</span><span class="year">2012</span></div>
+    <div class="bg1"><span class="artist">James Welling,</span><span class="title">H1,</span><span class="year">2006</span></div>
+    <div class="bg2"><span class="artist">Josh Smith,</span><span class="title">LARGE IMAGE J.S. (Untitled, 2006),</span><span class="year">2012</span></div>
+    <div class="bg3"><span class="artist">Sol LeWitt,</span><span class="title">Two Centimeter Wavy Bands In Colors,</span><span class="year">1996</span></div>
+    <div class="bg4"><span class="artist">Coke Wisdom O'Neal,</span><span class="title">The Gospel of Wealth,</span><span class="year">2013</span></div>
+    <div class="bg5"><span class="artist">Alex Katz,</span><span class="title">Coleman Pond II,</span><span class="year">2007</span></div>
+</div>
 </div>
 
-<div style="display:none">
-    <div id="ask-an-advisor-buy">
-        <div class="ask-an-advisor-container">
-            <div class="left-panel span3"> 
-                <img class="modal-thumb" src="//static.artspace.com/assets/images/ask-an-expert-no-image.png" alt="">
-                <div class="title-artist"></div>
-                <div class="title-artwork"> <em></em>
-                </div>
-            </div>
-            <div class="right-panel span4">
-                <div class="title-bar">
-                    <h2>Have a question? Ask an Advisor</h2>
-                </div>
-                <p>
-                    For first-time buyers and avid collectors alike, a personal Artspace Art Advisor can assist you in learning about, discovering and falling in love with an artwork.
-                </p>
-                <form action="" method="POST" class="ask-an-advisor-form" id="ask-an-advisor-form">
-                    <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="K0nnCZnSMW4dqrrYxmZa7G5rdbuxh8T7"></div>
-                    <input type="hidden" id="add-work-id" name="work" value="">
-                    <input type="hidden" id="inquiry_type" name="inquiry_type" value="expert">
-                    <input type="text" class="span4" name="name" value="" placeholder="Your Name" title="Your Name">
-                    <input type="text" class="span4" name="email" value="" placeholder="Email Address">
-                    <input type="text" class="span4" name="phone" value="" placeholder="Phone Number">
-                    <textarea name="body" class="span4" placeholder="How can we assist you?"></textarea>
-                    <button type="submit" class="btn btn-pink btn-primary">Send Now</button>
-                </form>
-            </div>
+<!-- Net-a-porter Join -->
+<div class="modal fade bg bg5" id="net_join_modal">
+  <a href="#" class="close" data-dismiss="modal" aria-hidden="true"></a>
+  <div class="modal-body">
+    <form action="https://www.artspace.com/api/subscribe" class="join preference_modal">
+      <input type="hidden" name="csrfmiddlewaretoken" value="cfMlDjd0WUvEFwFiDshsJ16SxL7IcVTa">
+      <input type="hidden" class="utm_campaign" name="utm_campaign" value="">
+      <input type="hidden" class="join_target_value" name="target_value" value="?ty=thankyou">
+      <input type="hidden" name="login" value="1">
+      <div class="row">
+        <div class="col-sm-12">
+          <span class="love-art">Sign up now to</span>
+          <h1>Get 10% off your first purchase</h1>
+          <p>
+            <span>Artspace is pleased to have partnered with <a href="http://www.net-a-porter.com/" class="pink" target="_blank">Net-a-Porter</a> to give you access to the world's best art online.</span> By signing up you will also receive first access to new works, special offers, and invitations to private events.
+          </p>
         </div>
-    </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12 error-holder"></div>
+      </div>
+      <div class="row form-holder">
+        <div class="col-sm-8 col-sm-offset-2">
+          <div class="input-holder">
+            <input type="text" name="email" placeholder="Enter your email address" tabindex="1" required="">
+          </div>
+          <div class="input-holder">
+            <label for="join_terms" class="checkbox-label"><input type="checkbox" id="join_terms" name="terms" tabindex="3" checked="" required=""> I accept the terms and conditions</label>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-6 col-sm-offset-3 submit-holder">
+          <button type="submit" class="btn btn-pink">Sign up now</button>
+          <img src="//static.artspace.com/static/images/image-loading-med.gif" alt="" class="loader">
+        </div>
+      </div>
+      <div class="forgot-pass">
+        Already a member? <a href="#signin" class="show-modal">Sign in here</a>
+      </div>
+    </form>
+  </div>
+  <div class="credits">
+    <div class="bg0"><span class="artist">Damien Hirst,</span><span class="title">Pardon,</span><span class="year">2012</span></div>
+    <div class="bg1"><span class="artist">James Welling,</span><span class="title">H1,</span><span class="year">2006</span></div>
+    <div class="bg2"><span class="artist">Josh Smith,</span><span class="title">LARGE IMAGE J.S. (Untitled, 2006),</span><span class="year">2012</span></div>
+    <div class="bg3"><span class="artist">Sol LeWitt,</span><span class="title">Two Centimeter Wavy Bands In Colors,</span><span class="year">1996</span></div>
+    <div class="bg4"><span class="artist">Coke Wisdom O'Neal,</span><span class="title">The Gospel of Wealth,</span><span class="year">2013</span></div>
+    <div class="bg5"><span class="artist">Alex Katz,</span><span class="title">Coleman Pond II,</span><span class="year">2007</span></div>
+</div>
 </div>
 
-<div style="display:none">
-    <div id="ask-an-advisor-restock">
-        <div class="ask-an-advisor-container">
-            <div class="left-panel span3">
-                <img class="modal-thumb" src="//static.artspace.com/assets/images/ask-an-expert-no-image.png" alt="">
-                <div class="title-artist"></div>
-                <div class="title-artwork">
-                    <em></em>
-                </div>
-            </div>
-            <div class="right-panel span4">
-                <div class="title-bar">
-                    <h2>Have a question? Ask an Advisor</h2>
-                </div>
-                <p>
-                    We are sorry this work is currently unavailable online, but Artspace Art Advisors are available to assist you.
-                </p>
-                <form action="" method="POST" class="ask-an-advisor-form" id="ask-an-advisor-form">
-                    <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="K0nnCZnSMW4dqrrYxmZa7G5rdbuxh8T7"></div>
-                    <input type="hidden" id="add-work-id" name="work" value="">
-                    <input type="hidden" id="inquiry_type" name="inquiry_type" value="restock">
-                    <input type="text" class="span4" name="name" value="" placeholder="Your Name" title="Your Name">
-                    <input type="text" class="span4" name="email" value="" placeholder="Email Address">
-                    <input type="text" class="span4" name="phone" value="" placeholder="Phone Number">
-                    <textarea name="body" class="span4" placeholder="How can we assist you?"></textarea>
-                    <button type="submit" class="btn btn-pink btn-primary">Send Now</button>
-                </form>
-            </div>
+<!-- Collector Category -->
+<!-- ID "collector_category_modal" is bound to the event:
+"Preference Modal - Follow Data - Radio" in Google Tag Manager
+If you change or remove this id you must also update the event. -->
+<div class="modal fade bg bg4" id="collector_category_modal">
+  <a href="#" class="close" data-dismiss="modal" aria-hidden="true"></a>
+  <div class="modal-body">
+    <!-- Class "collector-type" is bound to the event:
+    "Preference Modal - Follow Count - Collector" in Google Tag Manager
+    If you change or remove this class you must also update the event. -->
+    <form class="collector-type join" action="https://www.artspace.com/profiles/register_save" id="signup_preferences">
+      <input type="hidden" name="csrfmiddlewaretoken" value="cfMlDjd0WUvEFwFiDshsJ16SxL7IcVTa">
+      <input type="hidden" name="login" value="1">
+      <div class="row">
+        <div class="col-sm-12">
+          <h1>Success!</h1>
+          <p>
+            Your email has been submitted and a 10% off discount code sent to you.<br>
+            Next, personalize your Artspace experience by creating an account.</p>
         </div>
-    </div>
+        <div class="col-sm-6 col-sm-offset-3 input-holder">
+          <input type="password" name="password" placeholder="Enter a password" tabindex="2" required="">
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12 error-holder"></div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12">
+          <h2>Please select the statement that best describes you:</h2>
+        </div>
+      </div>
+      <ul class="unstyled clearfix">
+        <li>
+          <div>
+            <input style="display:none;" type="radio" id="collector_avid" name="collector_type" value="avid">
+            <label for="collector_avid">Discovering and acquiring artworks is an integral part of my life. </label>
+          </div>
+        </li>
+        <li>
+          <div>
+            <input style="display:none;" type="radio" id="collector_new" name="collector_type" value="new">
+            <label for="collector_new">I love art and aspire to buy artworks. </label>
+          </div>
+        </li>
+      </ul>
+      <div class="row">
+        <div class="col-sm-6 col-sm-offset-3 submit-holder">
+          <button type="submit" class="btn btn-pink">Save and Continue</button>
+          <img src="//static.artspace.com/static/images/image-loading-med.gif" alt="" class="loader">
+        </div>
+      </div>
+      <div class="follow-stage"><span>1</span> of 4</div>
+    </form>
+  </div>
+  <div class="credits">
+    <div class="bg0"><span class="artist">Damien Hirst,</span><span class="title">Pardon,</span><span class="year">2012</span></div>
+    <div class="bg1"><span class="artist">James Welling,</span><span class="title">H1,</span><span class="year">2006</span></div>
+    <div class="bg2"><span class="artist">Josh Smith,</span><span class="title">LARGE IMAGE J.S. (Untitled, 2006),</span><span class="year">2012</span></div>
+    <div class="bg3"><span class="artist">Sol LeWitt,</span><span class="title">Two Centimeter Wavy Bands In Colors,</span><span class="year">1996</span></div>
+    <div class="bg4"><span class="artist">Coke Wisdom O'Neal,</span><span class="title">The Gospel of Wealth,</span><span class="year">2013</span></div>
+    <div class="bg5"><span class="artist">Alex Katz,</span><span class="title">Coleman Pond II,</span><span class="year">2007</span></div>
+</div>
+</div>
+<!-- Art Follow -->
+<!-- ID "art_follow_modal" is bound to the event:
+"Preference Modal - Follow Data - Checkbox" in Google Tag Manager
+If you change or remove this id you must also update the event. -->
+<div class="modal fade bg bg5" id="art_follow_modal">
+  <a href="#" class="close" data-dismiss="modal" aria-hidden="true"></a>
+  <div class="modal-body">
+    <!-- Class "art-follow" is bound to the event:
+    "Preference Modal - Art" & "Preference Modal - Follow Count" in Google Tag Manager
+    If you change or remove this class you must also update the event. -->
+    <form class="art-follow">
+      <input type="hidden" name="csrfmiddlewaretoken" value="cfMlDjd0WUvEFwFiDshsJ16SxL7IcVTa">
+      <div class="row">
+        <div class="col-sm-12">
+          <h1>Types of art that interest you</h1>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12 error-holder"></div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12">
+          <h2>Select all that you would like to follow:</h2>
+        </div>
+      </div>
+      <div class="row">
+        
+          <div class="col-sm-4 medium clearfix art-follow-span">
+            <div>
+              <input type="checkbox" style="display:none;" data-obj-id="1" data-obj-type="medium" data-source="pref_modal">
+              <label>Print</label>
+            </div>
+          </div>
+        
+          <div class="col-sm-4 medium clearfix art-follow-span">
+            <div>
+              <input type="checkbox" style="display:none;" data-obj-id="2" data-obj-type="medium" data-source="pref_modal">
+              <label>Photograph</label>
+            </div>
+          </div>
+        
+          <div class="col-sm-4 medium clearfix art-follow-span">
+            <div>
+              <input type="checkbox" style="display:none;" data-obj-id="3" data-obj-type="medium" data-source="pref_modal">
+              <label>Painting</label>
+            </div>
+          </div>
+        
+          <div class="col-sm-4 medium clearfix art-follow-span">
+            <div>
+              <input type="checkbox" style="display:none;" data-obj-id="4" data-obj-type="medium" data-source="pref_modal">
+              <label>Sculpture</label>
+            </div>
+          </div>
+        
+          <div class="col-sm-4 medium clearfix art-follow-span">
+            <div>
+              <input type="checkbox" style="display:none;" data-obj-id="5" data-obj-type="medium" data-source="pref_modal">
+              <label>Mixed Media</label>
+            </div>
+          </div>
+        
+          <div class="col-sm-4 medium clearfix art-follow-span">
+            <div>
+              <input type="checkbox" style="display:none;" data-obj-id="6" data-obj-type="medium" data-source="pref_modal">
+              <label>Works on Paper</label>
+            </div>
+          </div>
+        
+          <div class="col-sm-4 medium clearfix art-follow-span">
+            <div>
+              <input type="checkbox" style="display:none;" data-obj-id="10" data-obj-type="medium" data-source="pref_modal">
+              <label>Book</label>
+            </div>
+          </div>
+        
+          <div class="col-sm-4 medium clearfix art-follow-span">
+            <div>
+              <input type="checkbox" style="display:none;" data-obj-id="16" data-obj-type="medium" data-source="pref_modal">
+              <label>New Media</label>
+            </div>
+          </div>
+        
+          <div class="col-sm-4 medium clearfix art-follow-span">
+            <div>
+              <input type="checkbox" style="display:none;" data-obj-id="17" data-obj-type="medium" data-source="pref_modal">
+              <label>Design and Decorative Arts</label>
+            </div>
+          </div>
+        
+      </div>
+      <div class="row">
+        <div class="col-sm-6 col-sm-offset-3 submit-holder">
+          <button type="submit" class="btn btn-pink">Save and Continue</button>
+          <img src="//static.artspace.com/static/images/image-loading-med.gif" alt="" class="loader">
+        </div>
+      </div>
+      <div class="follow-stage"><span>2</span> of 4</div>
+    </form>
+  </div>
+  <div class="credits">
+    <div class="bg0"><span class="artist">Damien Hirst,</span><span class="title">Pardon,</span><span class="year">2012</span></div>
+    <div class="bg1"><span class="artist">James Welling,</span><span class="title">H1,</span><span class="year">2006</span></div>
+    <div class="bg2"><span class="artist">Josh Smith,</span><span class="title">LARGE IMAGE J.S. (Untitled, 2006),</span><span class="year">2012</span></div>
+    <div class="bg3"><span class="artist">Sol LeWitt,</span><span class="title">Two Centimeter Wavy Bands In Colors,</span><span class="year">1996</span></div>
+    <div class="bg4"><span class="artist">Coke Wisdom O'Neal,</span><span class="title">The Gospel of Wealth,</span><span class="year">2013</span></div>
+    <div class="bg5"><span class="artist">Alex Katz,</span><span class="title">Coleman Pond II,</span><span class="year">2007</span></div>
+</div>
+</div>
+<!-- Artists Follow-->
+<!-- ID "artist_follow_modal" is bound to the event:
+"Preference Modal - Follow Data - Checkbox" in Google Tag Manager
+If you change or remove this id you must also update the event. -->
+<div class="modal fade bg bg3" id="artist_follow_modal">
+  <a href="#" class="close" data-dismiss="modal" aria-hidden="true"></a>
+  <div class="modal-body">
+    <!-- Class "artist-follow" is bound to the event:
+    "Preference Modal - Artist" & "Preference Modal - Follow Count - Artist" in Google Tag Manager
+    If you change or remove this class you must also update the event. -->
+    <form class="artist-follow">
+      <input type="hidden" name="csrfmiddlewaretoken" value="cfMlDjd0WUvEFwFiDshsJ16SxL7IcVTa">
+      <div class="row">
+        <div class="col-sm-12">
+          <h1>Artists you'd like to follow</h1>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12 error-holder"></div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12">
+          <h2>Enter or select all artists that interest you:</h2>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12">
+          <!-- ID "artist_input" is bound to the event:
+          "Preference Modal - Follow Data - Search - Artist" in Google Tag Manager
+          If you change or remove this id you must also update the event. -->
+          <input type="text" name="artist_input" id="artist_input" class="typeahead_input follow-input-text" placeholder="Type artist name" spellcheck="off" autocomplete="off" dir="auto">
+        </div>
+      </div>
+      <div class="artist-follow-rows">
+        <div class="row">
+        
+            <div class="col-sm-4 artist-follow-span">
+              <div>
+              <input data-obj-id="1902" data-obj-type="artist" data-source="pref_modal" type="checkbox" style="display:none;">
+              <label>Andy Warhol</label>
+              </div>
+            </div>
+        
+            <div class="col-sm-4 artist-follow-span">
+              <div>
+              <input data-obj-id="297" data-obj-type="artist" data-source="pref_modal" type="checkbox" style="display:none;">
+              <label>Takashi Murakami</label>
+              </div>
+            </div>
+        
+            <div class="col-sm-4 artist-follow-span">
+              <div>
+              <input data-obj-id="533" data-obj-type="artist" data-source="pref_modal" type="checkbox" style="display:none;">
+              <label>Robert Rauschenberg</label>
+              </div>
+            </div>
+        
+            <div class="col-sm-4 artist-follow-span">
+              <div>
+              <input data-obj-id="483" data-obj-type="artist" data-source="pref_modal" type="checkbox" style="display:none;">
+              <label>Damien Hirst</label>
+              </div>
+            </div>
+        
+            <div class="col-sm-4 artist-follow-span">
+              <div>
+              <input data-obj-id="81" data-obj-type="artist" data-source="pref_modal" type="checkbox" style="display:none;">
+              <label>Gerhard Richter</label>
+              </div>
+            </div>
+        
+            <div class="col-sm-4 artist-follow-span">
+              <div>
+              <input data-obj-id="270" data-obj-type="artist" data-source="pref_modal" type="checkbox" style="display:none;">
+              <label>Ed Ruscha</label>
+              </div>
+            </div>
+        
+        </div>
+        <div class="row">
+          <div class="col-sm-6 col-sm-offset-3 submit-holder">
+            <button type="submit" class="btn btn-pink">Save and Continue</button>
+            <img src="//static.artspace.com/static/images/image-loading-med.gif" alt="" class="loader">
+          </div>
+        </div>
+      </div>
+      <div class="follow-stage"><span>3</span> of 4</div>
+    </form>
+  </div>
+  <div class="credits">
+    <div class="bg0"><span class="artist">Damien Hirst,</span><span class="title">Pardon,</span><span class="year">2012</span></div>
+    <div class="bg1"><span class="artist">James Welling,</span><span class="title">H1,</span><span class="year">2006</span></div>
+    <div class="bg2"><span class="artist">Josh Smith,</span><span class="title">LARGE IMAGE J.S. (Untitled, 2006),</span><span class="year">2012</span></div>
+    <div class="bg3"><span class="artist">Sol LeWitt,</span><span class="title">Two Centimeter Wavy Bands In Colors,</span><span class="year">1996</span></div>
+    <div class="bg4"><span class="artist">Coke Wisdom O'Neal,</span><span class="title">The Gospel of Wealth,</span><span class="year">2013</span></div>
+    <div class="bg5"><span class="artist">Alex Katz,</span><span class="title">Coleman Pond II,</span><span class="year">2007</span></div>
+</div>
+</div>
+<!-- Partners Follow -->
+<!-- ID "partner_follow_modal" is bound to the event:
+"Preference Modal - Follow Data - Checkbox" in Google Tag Manager
+If you change or remove this id you must also update the event. -->
+<div class="modal fade bg bg4" id="partner_follow_modal">
+  <a href="#" class="close" data-dismiss="modal" aria-hidden="true"></a>
+  <div class="modal-body">
+    <!-- Class "partner-follow" is bound to the event:
+    "Preference Modal - Partner" & "Preference Modal - Follow Count - Partner" in Google Tag Manager
+    If you change or remove this class you must also update the event. -->
+    <form class="partner-follow">
+      <input type="hidden" name="csrfmiddlewaretoken" value="cfMlDjd0WUvEFwFiDshsJ16SxL7IcVTa">
+      <div class="row">
+        <div class="col-sm-12">
+          <h1>Partners You'd Like to Follow</h1>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12 error-holder"></div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12">
+          <h2>Enter or select all partners that interest you:</h2>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12 autocomplete">
+          <!-- ID "partner_input" is bound to the event:
+          "Preference Modal - Follow Data - Search - Partner" in Google Tag Manager
+          If you change or remove this id you must also update the event. -->
+          <input type="text" name="partner_input" id="partner_input" placeholder="Type Gallery / Cultural Institution / Museum Name Here" data-obj-type="partner" class="typeahead_input follow-input-text" spellcheck="off" autocomplete="off">
+        </div>
+      </div>
+      <div class="partner-follow-rows">
+        <div class="row">
+        
+            <div class="col-sm-4 partner-follow-span">
+              <div>
+              <input type="checkbox" style="display:none;" data-obj-id="36" data-obj-type="partner" data-source="pref_modal">
+              <label>Solomon R. Guggenheim Museum</label>
+              </div>
+            </div>
+        
+            <div class="col-sm-4 partner-follow-span">
+              <div>
+              <input type="checkbox" style="display:none;" data-obj-id="429" data-obj-type="partner" data-source="pref_modal">
+              <label>New York Foundation for the Arts</label>
+              </div>
+            </div>
+        
+            <div class="col-sm-4 partner-follow-span">
+              <div>
+              <input type="checkbox" style="display:none;" data-obj-id="621" data-obj-type="partner" data-source="pref_modal">
+              <label>Foundation for Contemporary Arts</label>
+              </div>
+            </div>
+        
+            <div class="col-sm-4 partner-follow-span">
+              <div>
+              <input type="checkbox" style="display:none;" data-obj-id="508" data-obj-type="partner" data-source="pref_modal">
+              <label>ICA London</label>
+              </div>
+            </div>
+        
+            <div class="col-sm-4 partner-follow-span">
+              <div>
+              <input type="checkbox" style="display:none;" data-obj-id="41" data-obj-type="partner" data-source="pref_modal">
+              <label>White Cube</label>
+              </div>
+            </div>
+        
+            <div class="col-sm-4 partner-follow-span">
+              <div>
+              <input type="checkbox" style="display:none;" data-obj-id="16" data-obj-type="partner" data-source="pref_modal">
+              <label>David Zwirner</label>
+              </div>
+            </div>
+        
+        </div>
+        <div class="row">
+          <div class="col-sm-6 col-sm-offset-3 submit-holder">
+            <button type="submit" class="btn btn-pink">Save and Continue</button>
+            <img src="//static.artspace.com/static/images/image-loading-med.gif" alt="" class="loader">
+          </div>
+        </div>
+      </div>
+      <div class="follow-stage"><span>4</span> of 4</div>
+    </form>
+  </div>
+  <div class="credits">
+    <div class="bg0"><span class="artist">Damien Hirst,</span><span class="title">Pardon,</span><span class="year">2012</span></div>
+    <div class="bg1"><span class="artist">James Welling,</span><span class="title">H1,</span><span class="year">2006</span></div>
+    <div class="bg2"><span class="artist">Josh Smith,</span><span class="title">LARGE IMAGE J.S. (Untitled, 2006),</span><span class="year">2012</span></div>
+    <div class="bg3"><span class="artist">Sol LeWitt,</span><span class="title">Two Centimeter Wavy Bands In Colors,</span><span class="year">1996</span></div>
+    <div class="bg4"><span class="artist">Coke Wisdom O'Neal,</span><span class="title">The Gospel of Wealth,</span><span class="year">2013</span></div>
+    <div class="bg5"><span class="artist">Alex Katz,</span><span class="title">Coleman Pond II,</span><span class="year">2007</span></div>
+</div>
 </div>
 
-<div style="display:none">
-    <div id="ask-an-advisor-inquire">
-        <div class="ask-an-advisor-container">
-            <div class="left-panel span3">
-                <img class="modal-thumb" src="//static.artspace.com/assets/images/ask-an-expert-no-image.png" alt="">
-                <div class="title-artist"></div>
-                <div class="title-artwork">
-                    <em></em>
-                </div>
-            </div>
-            <div class="right-panel span4">
-                <div class="title-bar">
-                    <h2>We are pleased to assist you in purchasing this work and to answer any inquiries.</h2>
-                </div>
-                
-                <form action="" method="POST" class="ask-an-advisor-form" id="ask-an-advisor-form">
-                    <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="K0nnCZnSMW4dqrrYxmZa7G5rdbuxh8T7"></div>
-                    <input type="hidden" id="add-work-id" name="work" value="">
-                    <input type="hidden" id="inquiry_type" name="inquiry_type" value="buy">
-                    <input type="text" class="span4" name="name" value="" placeholder="Your Name" title="Your Name">
-                    <input type="text" class="span4" name="email" value="" placeholder="Email Address">
-                    <input type="text" class="span4" name="phone" value="" placeholder="Phone Number">
-                    <textarea name="body" class="span4" placeholder="How can we assist you?"></textarea>
-                    <button type="submit" class="btn btn-pink btn-primary">Send Now</button>
-                </form>
-            </div>
+<!-- Preference Success -->
+<div class="modal fade bg bg1" id="preference_confirm_modal">
+  <a href="#" class="close" data-dismiss="modal" aria-hidden="true"></a>
+  <div class="modal-body">
+    <div class="row">
+      <div class="col-sm-12">
+        <h1>Thank you</h1>
+        <p>
+          <span class="pref-line1">Your preferences have been saved</span><br> 
+          <span class="pref-line2">to your account. Update them at any time</span><br>
+          <span class="pref-line3">in your <a href="/profiles/preferences" class="pink">Preference Center</a></span>
+        </p>
+      </div>
+      <div class="row">
+        <div class="col-sm-6 col-sm-offset-3 submit-holder">
+          <a class="btn btn-pink preference_hide">Continue Browsing Art</a>
+          <img src="//static.artspace.com/static/images/image-loading-med.gif" alt="" class="loader">
         </div>
+      </div>
     </div>
+  </div>
+  <div class="credits">
+    <div class="bg0"><span class="artist">Damien Hirst,</span><span class="title">Pardon,</span><span class="year">2012</span></div>
+    <div class="bg1"><span class="artist">James Welling,</span><span class="title">H1,</span><span class="year">2006</span></div>
+    <div class="bg2"><span class="artist">Josh Smith,</span><span class="title">LARGE IMAGE J.S. (Untitled, 2006),</span><span class="year">2012</span></div>
+    <div class="bg3"><span class="artist">Sol LeWitt,</span><span class="title">Two Centimeter Wavy Bands In Colors,</span><span class="year">1996</span></div>
+    <div class="bg4"><span class="artist">Coke Wisdom O'Neal,</span><span class="title">The Gospel of Wealth,</span><span class="year">2013</span></div>
+    <div class="bg5"><span class="artist">Alex Katz,</span><span class="title">Coleman Pond II,</span><span class="year">2007</span></div>
+</div>
+</div>
+<!-- END Preference Modals -->
+
+<!-- Ask an expert modal -->
+<div class="modal fade" id="inquire_modal">
+  <a href="#" class="close" data-dismiss="modal" aria-hidden="true"></a>
+  <div class="modal-body">
+    <div class="row">
+      <div class="col-sm-3 img-holder">
+        <img class="work-img" src="//static.artspace.com/static/images/ask-an-expert-no-image.png" alt="">
+        <div class="work-artist"></div>
+        <div class="work-title"></div>
+      </div>
+      <div class="col-sm-9">
+        <div class="form-holder">
+          <h2 class="modal-heading">Have a question? Ask an Advisor</h2>
+          <p class="modal-copy">
+            For first-time buyers and avid collectors alike, a personal Artspace Art Advisor can assist you in learning about, discovering and falling in love with an artwork.
+          </p>
+          <form action="#" method="POST">
+            <input type="hidden" name="csrfmiddlewaretoken" value="cfMlDjd0WUvEFwFiDshsJ16SxL7IcVTa">
+            <input type="hidden" class="gather" id="add-work-id" name="work" value="">
+            <input type="hidden" class="gather" id="inquiry_type" name="inquiry_type" value="expert">
+            <div class="contact-options">
+                <label for="email_me"><input type="radio" class="gather require-one" name="contact_me" value="email"> Email me</label>
+                <label for="call_me"><input type="radio" class="gather require-one" name="contact_me" value="call"> Call me</label>
+                <div class="radio error-holder hidden"></div>
+            </div>
+            <input type="text" name="sb-filter">
+            <input type="text" class="required gather" name="name" value="" placeholder="Your Name" title="Your Name">
+            <input type="text" class="required gather" name="email" value="" placeholder="Email Address">
+            <input type="text" class="required gather" name="phone" value="" placeholder="Phone Number">
+            <textarea name="body" class="required gather" placeholder="How can we assist you?"></textarea>
+            <a href="#" class="btn btn-pink btn-primary inquire-sub">Send Now</a>
+          </form>
+        </div>
+        <div class="confirm-message">
+          <h2 class="confirm-heading">
+            Your message has been sent
+          </h2>
+          <p class="confirm-copy">
+            Collector Services will contact you within two business days.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
-
-<!-- MAILTO: Email Replacement Modals #service_modal -->
-<div style="display:none">
-    <div id="service_modal">
-        <div class="ask-an-advisor-container">
-            <div class="left-panel span3">
-                <img class="modal-thumb" src="//static.artspace.com/assets/images/ask-an-expert-no-image.png" alt="">
-                <div class="title-artist"></div>
-                <div class="title-artwork">
-                    <em></em>
-                </div>
-            </div>
-            <div class="right-panel span4">
-                <div class="title-bar">
-                    <h2>How can we assist you?</h2>
-                </div>
-                <p>
-                    We are here to make sure you have a great experience browsing and buying artwork. Please send us your questions or feedback, and our Customer Service team will contact you shortly.
-                </p>
-                <form action="" method="POST" class="service-form" id="service-form">
-                    <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="K0nnCZnSMW4dqrrYxmZa7G5rdbuxh8T7"></div>
-                    <input type="hidden" id="add-work-id" name="work" value="">
-                    <input type="hidden" id="inquiry_type" name="inquiry_type" value="service">
-                    <input type="text" class="span4" name="name" value="" placeholder="Your Name" title="Your Name">
-                    <input type="text" class="span4" name="email" value="" placeholder="Email Address">
-                    <input type="text" class="span4" name="phone" value="" placeholder="Phone Number">
-                    <textarea name="body" class="span4" placeholder="How can we assist you?"></textarea>
-                    <button type="submit" class="btn btn-pink btn-primary">Send Now</button>
-                </form>
-            </div>
-        </div>
-    </div>
-</div> 
-
-
-<!-- MAILTO: Email Replacement Modals #suggestions_modal -->
-<div style="display:none">
-    <div id="suggestions_modal">
-        <div class="ask-an-advisor-container">
-            <div class="left-panel span3">
-                <img class="modal-thumb" src="//static.artspace.com/assets/images/ask-an-expert-no-image.png" alt="">
-                <div class="title-artist"></div>
-                <div class="title-artwork">
-                    <em></em>
-                </div>
-            </div>
-            <div class="right-panel span4">
-                <div class="title-bar">
-                    <h2>Suggestions &amp; Feedback</h2>
-                </div>
-                <p>
-                    Tell us about artworks, artists, or site features that you would love to see on Artspace. We appreciate your feedback!
-                </p>
-                <form action="" method="POST" class="suggestions-form" id="suggestions-form">
-                    <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="K0nnCZnSMW4dqrrYxmZa7G5rdbuxh8T7"></div>
-                    <input type="hidden" id="add-work-id" name="work" value="">
-                    <input type="hidden" id="inquiry_type" name="inquiry_type" value="suggestions">
-                    <input type="text" class="span4" name="name" value="" placeholder="Your Name" title="Your Name">
-                    <input type="text" class="span4" name="email" value="" placeholder="Email Address">
-                    <input type="text" class="span4" name="phone" value="" placeholder="Phone Number">
-                    <textarea name="body" class="span4" placeholder="Enter your suggestions here"></textarea>
-                    <button type="submit" class="btn btn-pink btn-primary">Send Now</button>
-                </form>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-<!-- ask an expert / advisor success message -->
-<div style="display:none">
-    <div id="ask-an-advisor-success">
-        <div class="ask-an-advisor-container">
-            <div class="left-panel span3">
-                <img src="//static.artspace.com/assets/images/ask-an-expert-no-image.png" alt="">
-                <div class="title-artist"></div>
-                <div class="title-artwork">
-                    <em></em>
-                </div>
-            </div>
-            <div class="right-panel span4">
-                <div class="title-bar-success">
-                    <h2>Your message has been sent</h2>
-                </div>
-                <p>An advisor will contact you shortly.</p>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!-- suggestions success message -->
-<div style="display:none">
-    <div id="ask-an-advisor-success-2">
-        <div class="ask-an-advisor-container">
-            <div class="left-panel span3">
-                <img src="//static.artspace.com/assets/images/ask-an-expert-no-image.png" alt="">
-                <div class="title-artist"></div>
-                <div class="title-artwork">
-                    <em></em>
-                </div>
-            </div>
-            <div class="right-panel span4">
-                <div class="title-bar-success">
-                    <h2>Your message has been sent</h2>
-                </div>
-                <p>Thank you for your feedback!</p>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!-- service success message -->
-<div style="display:none">
-    <div id="ask-an-advisor-success-3">
-        <div class="ask-an-advisor-container">
-            <div class="left-panel span3">
-                <img src="//static.artspace.com/assets/images/ask-an-expert-no-image.png" alt="">
-                <div class="title-artist"></div>
-                <div class="title-artwork">
-                    <em></em>
-                </div>
-            </div>
-            <div class="right-panel span4">
-                <div class="title-bar-success">
-                    <h2>Your message has been sent</h2>
-                </div>
-                <p>A Customer Service representative will contact you shortly.</p>
-            </div>
-        </div>
-    </div>
-</div>
     
 
 </body></html>
