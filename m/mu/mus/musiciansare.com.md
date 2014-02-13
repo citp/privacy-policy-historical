@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the musiciansare.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814201320id_/http%3A//www.musiciansare.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musiciansare.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213220216id_/http%3A//www.musiciansare.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - musiciansare.com
 
-##  [ musiciansare.com: Privacy Policy ](https://web.archive.org/web/20130814201320id_/http%3A//www.musiciansare.com/zanas.php)
+##  [ musiciansare.com: Privacy Policy ](https://web.archive.org/web/20140213220216id_/http%3A//www.musiciansare.com/zanas.php)
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at angeldimit@gmail.com. 
 
