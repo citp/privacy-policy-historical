@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the thesportshq.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808040923id_/http%3A//www.thesportshq.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesportshq.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214001416id_/http%3A//www.thesportshq.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # The Sports HQ - PrivacyPolicy
 
 ##### Privacy Policy 
 
-Sports PLC is committed to respecting your privacy. The following sets forth our information gathering and usage practices for this Web site. 
+S247 PLC is committed to respecting your privacy. The following sets forth our information gathering and usage practices for this Web site. 
 
 ##### Information Gathered At This Web Site 
 
-Sports PLC automatically collects anonymous information about usage of this Web site. When you visit this Web site, we identify the browser you are using, the internet service provider you are using, the pages you visit at our site, and other information of this kind. None of this information identifies you personally. 
+S247 PLC automatically collects anonymous information about usage of this Web site. When you visit this Web site, we identify the browser you are using, the internet service provider you are using, the pages you visit at our site, and other information of this kind. None of this information identifies you personally. 
 
 To facilitate shopping on our site and to speed up browsing we may collect certain anonymous information from users of this Web site by using "cookies." A cookie is a small file that your browser stores on your hard drive or temporarily in your computer's memory. Cookies help you move more quickly through our Web site. If you do not want to accept cookies, you can set your browser to refuse all cookies or to alert you when a cookie is being sent. If you choose to disable your cookies setting or refuse to accept a cookie from this Web site, some parts of this Web site may perform less efficiently and some parts may not perform at all. For instance, it is not possible to purchase products from our web site without using cookies. 
 
-On certain pages of this web site you may voluntarily provide us with names, addresses, phone numbers, fax numbers, e-mail addresses, credit card numbers and similar information. Sports PLC respects your privacy and the importance you place on your personal information. We have taken every precaution with the security of your credit card numbers, address, and other information as it is sent across the Internet. Sports PLC takes precautions to protect your personal information, including allowing access only to those Sports PLC employees with a need to know and using available technology and encryption to provide a secure environment and to prevent unauthorized access.. 
+On certain pages of this web site you may voluntarily provide us with names, addresses, phone numbers, fax numbers, e-mail addresses, credit card numbers and similar information. S247 PLC respects your privacy and the importance you place on your personal information. We have taken every precaution with the security of your credit card numbers, address, and other information as it is sent across the Internet. S247 PLC takes precautions to protect your personal information, including allowing access only to those S247 PLC employees with a need to know and using available technology and encryption to provide a secure environment and to prevent unauthorized access.. 
 
 ##### Internal Use of Information 
 
@@ -22,7 +22,7 @@ We may use personal information that you have voluntarily provided to provide th
 
 ##### Sharing of Information with Third Parties 
 
-Sports PLC will not share your information with any third parties. Your security is as important to us as it is to you.. 
+S247 PLC will not share your information with any third parties. Your security is as important to us as it is to you.. 
 
 ##### Opting Out 
 
