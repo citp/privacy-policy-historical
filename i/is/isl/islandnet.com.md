@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the islandnet.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523012610id_/https%3A//hd.islandnet.com/view-article/6-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandnet.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213041806id_/https%3A//hd.islandnet.com/view-article/6-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 The policies outlined below deal only with the use of customer and related information. You might also want to view our [**Terms of Service**](https://web.archive.org/view-article/5-terms-of-service).
 
-In compliance with the Canadian government's _[Privacy Act](http://laws-lois.justice.gc.ca/eng/acts/P-8.6/), [Personal Information Protection and Electronic Documents Act](http://laws-lois.justice.gc.ca/eng/acts/P-8.6/)_, and British Columbia's _[Personal Information Privacy Act](http://www.oipcbc.org/legislation.htm)_ , this policy sets out the information required from customers by [Islandnet.com](http://www.islandnet.com/), why it is required, and how such information is dealt with while the customer continues to do business with Islandnet and afterward.
-
-## Index
+Index
 
 No Third Parties | How customer information is dealt with when Islandnet deals with third parties.  
 ---|---  
@@ -39,7 +37,7 @@ The following information is required from customers. The corresponding use of e
 1.| Name | Used to address and identify the customer or the customer contact in internal correspondence and correspondence with the customer.  
 ---|---|---  
 2.| Address | Used to address customer correspondence. This information may also be used to identify geographic areas where groups of customers live for the purpose of providing better service and in analysing the delivery of services.  
-3.| Telephone Number | Used to contact the customer in the event e-mail correspondence is unsuccessful. Contact with the customer normally involves issues relating to invoices and other payment matters but Islandnet may make contact via telephone for other matters it deems appropriate. Such matters **do not** include telephone solicitation and / or asking for financial information. If you or someone you know recieves a telephone call from someone purporting to be from Islandnet asking for financial information such as bank account numbers or credit card numbers, please call 383-0096 immediately and inform us.  
+3.| Telephone Number | Used to contact the customer in the event e-mail correspondence is unsuccessful. Contact with the customer normally involves issues relating to invoices and other payment matters but Islandnet may make contact via telephone for other matters it deems appropriate. Such matters **do not** include telephone solicitation and / or asking for financial information. If you or someone you know recieves a telephone call from someone purporting to be from Islandnet asking for financial information such as bank account numbers or credit card numbers, please call 778-410-2454 (Victoria) 855-813-6057 (Toll free Can/USA) immediately and inform us.  
 4.| Fax Number| This optional information may be used to contact the customer for invoice, payment issues, and other matters Islandnet deems appropriate.  
 5.| E-mail Address | This information is used by Islandnet as the primary means of correspondence. Correspondence may include monthly newsletters, service bulletins, invoices, statements, and other e-mail correspondence Islandnet deems appropriate and necessary.  
 6.| Company Name| This optional information is used for internal correspondence and correspondence with the customer. It also allows Islandnet to invoice customers using their business name, thereby ensuring customers can claim the service fee as a deduction for their income taxes.  
@@ -48,7 +46,7 @@ The following information is required from customers. The corresponding use of e
 
 Except where the customer has engaged Islandnet to perform web development, programming, or other Internet-related work, this information is not used by Islandnet. Islandnet does not keep record of customer passwords. Passwords can only be made known to Islandnet or its employees if the customer relays the information to them.
 
-If you or someone you know recieves a telephone call from someone purporting to be from Islandnet asking for password information, please call 383-0096 immediately and inform us. Passwords may be changed online using an Islandnet website.  
+If you or someone you know recieves a telephone call from someone purporting to be from Islandnet asking for password information, please call 778-410-2454 (Victoria) or 855-813-6057 (Toll free Can/USA) immediately and inform us. Passwords may be changed online using an Islandnet website.  
   
 9.| Credit Card Information | Credit card information is used only for billing purposes and is used only in accordance with the terms and conditions outlined in writing on the form filled out and signed by the customer.  
 10.| Bank Account Information | Bank account information is used only for billing purposes and is used only in accordance with the terms and conditions outlined in writing on the form filled out and signed by the customer.  
@@ -88,14 +86,14 @@ Islandnet.com
 #101-777 Goldstream Avenue  
 Victoria, BC  
 V9B 2X4
-  * Local telephone/fax: 250-383-0096
-  * Toll-free: 800-331-3055
+  * Local telephone/fax: 778-410-2454 (Victoria)
+  * Toll-free: 855-813-6057 (Toll free Can/USA)
 
 
 
 ## Updating Customer Information:
 
-Customers may update their personal information, such as telephone number, street address, e-mail address, et cetera at any time by using the online facilities provided on Islandnet's websites. For information on how to access online facilities to change your personal information, please call 250-383-0096 or 800-331-3055 or e-mail [support@islandnet.com](mailto:support@islandnet.com?subject=Updating%20My%20Personal%20Information).
+Customers may update their personal information, such as telephone number, street address, e-mail address, et cetera at any time by using the online facilities provided on Islandnet's websites. For information on how to access online facilities to change your personal information, please call 250.410.2454 or +1.855.813.6057 or e-mail [support@islandnet.com](mailto:support@islandnet.com?subject=Updating%20My%20Personal%20Information).
 
 To change other information, customers may contact the Privacy Officer and make a request.
 
