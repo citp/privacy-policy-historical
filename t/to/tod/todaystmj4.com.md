@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todaystmj4.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017170654id_/http%3A//www.todaystmj4.com/161198165.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todaystmj4.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213170152id_/http%3A//www.todaystmj4.com/161198165.html) for the most accurate reproduction.*
 
 # JBG Privacy Policy 2012 - TODAY'S TMJ4
 
@@ -28,7 +28,7 @@ Please read this Privacy Policy carefully before you submit any Personal Informa
 
 ### General
 
-This is the official Privacy Policy for Journal Broadcast Group, Inc. ("JBG", "us", "our", or "we"), the owner and licensee of radio and television stations ("Stations") across the country, and the owner, operator, or provider of the various Services that have an authorized link to this Privacy Policy. (Complete listing of Stations here.) JBG is a subsidiary of Journal Communications, Inc. ("JCI"). This Privacy Policy governs our collection of personally identifiable information ("Personal Information") both online and offline. 
+This is the official Privacy Policy for Journal Broadcast Group, Inc. ("JBG", "us", "our", or "we"), the owner and licensee of radio and television stations ("Services") across the country, and the owner, operator, or provider of the various Services that have an authorized link to this Privacy Policy. (Complete listing of Services [here](https://web.archive.org/includes/JBGServicesList.html).) JBG is a subsidiary of Journal Communications, Inc. ("JCI"). This Privacy Policy governs our collection of personally identifiable information ("Personal Information") both online and offline. 
 
 We respect your privacy and this Privacy Policy is designed to answer your questions regarding our online and offline information practices and the choices you can make about the way your Personal Information is collected, used and disclosed. This Privacy Policy is incorporated in our Sites' TOU by reference. 
 
@@ -159,7 +159,7 @@ We are committed to protecting children's privacy on the Internet and we comply 
 
 ### More information about our children's privacy policies:
 
-On occasion, our Sites may enable parents to submit information about their child to participate in programs or features, such as a weather kids program and contests. In such instances, we only request the types of Personal Information necessary to participate in the program, which may include, but are not limited to, the parent's name and email address, child's name, age/date of birth, city, and a photograph or video of the child. This information would be used only for the specific program or feature. A parent may request access to this information and request that we delete such information. For details, please see Section 8, ["How can you access, update or delete your Personal Information."](https://web.archive.org/web/20121017170654id_/http%3A//www.todaystmj4.com/section_8)
+On occasion, our Sites may enable parents to submit information about their child to participate in programs or features, such as a weather kids program and contests. In such instances, we only request the types of Personal Information necessary to participate in the program, which may include, but are not limited to, the parent's name and email address, child's name, age/date of birth, city, and a photograph or video of the child. This information would be used only for the specific program or feature. A parent may request access to this information and request that we delete such information. For details, please see Section 8, ["How can you access, update or delete your Personal Information."](https://web.archive.org/web/20140213170152id_/http%3A//www.todaystmj4.com/section_8)
 
 Close
 
