@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wholesaleitonline.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808021717id_/http%3A//www.wholesaleitonline.com/privacy-policy-a91.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesaleitonline.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213030851id_/http%3A//www.wholesaleitonline.com/privacy-policy-a91.html) for the most accurate reproduction.*
 
-# Privacy Policy | wholesaleitonline.com
+# Privacy Policy | wholesaleitonline.com-Page Cached
 
 **Wholesaleitonline.com** respect the privacy of our visitors/customers, which is extremely important to us. We take your online safety seriously. 
 
