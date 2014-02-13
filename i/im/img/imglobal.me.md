@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imglobal.me privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627181035id_/https%3A//imglobal.me/static.php%3Fid%3D56) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imglobal.me privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213053131id_/https%3A//imglobal.me/static.php%3Fid%3D56) for the most accurate reproduction.*
 
 # Imglobal Online Marketing System
 
