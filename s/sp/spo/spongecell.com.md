@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spongecell.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819031911id_/http%3A//www.spongecell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spongecell.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213200407id_/http%3A//www.spongecell.com/privacy) for the most accurate reproduction.*
 
 # Spongecell
 
@@ -58,11 +58,11 @@ We take commercially reasonable steps to protect the Personal Information and Us
 
 ####  ACCESSING AND MODIFYING ACCOUNT INFORMATION 
 
-If you are a client and using our services, you may update the information that is stored in your user account in by visiting spongecell.com or by e-mailing us at [privacy@spongecell.com.](https://web.archive.org/web/20130819031911id_/http%3A//www.spongecell.com/privacy@spongecell.com)
+If you are a client and using our services, you may update the information that is stored in your user account in by visiting spongecell.com or by e-mailing us at [privacy@spongecell.com.](mailto:privacy@spongecell.com)
 
 ####  YOUR CHOICES 
 
-If you wish to stop receiving Spongecell e-mails or newsletters, you may do so by visiting by e-mailing [privacy@spongecell.com.](https://web.archive.org/web/20130819031911id_/http%3A//www.spongecell.com/privacy@spongecell.com) You may also choose to unsubscribe from our emails by following the instructions in the bottom of the email. 
+If you wish to stop receiving Spongecell e-mails or newsletters, you may do so by visiting by e-mailing [privacy@spongecell.com.](mailto:privacy@spongecell.com) You may also choose to unsubscribe from our emails by following the instructions in the bottom of the email. 
 
 ####  LINKS 
 
@@ -82,4 +82,4 @@ This Privacy Policy is effective as of the date stated at the top of this Privac
 
 ####  HOW TO CONTACT US 
 
-If you have questions about this Privacy Policy, please e-mail us at [privacy@spongecell.com.](https://web.archive.org/web/20130819031911id_/http%3A//www.spongecell.com/privacy@spongecell.com) “PRIVACY POLICY”, in the subject line, or mail us at the following address: 261 Madison Avenue, 14th Floor New York, NY 10016. 
+If you have questions about this Privacy Policy, please e-mail us at [privacy@spongecell.com.](mailto:privacy@spongecell.com) “PRIVACY POLICY”, in the subject line, or mail us at the following address: 261 Madison Avenue, 14th Floor New York, NY 10016. 
