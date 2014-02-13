@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecellphonetracer.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807002614id_/http%3A//www.freephonetracer.com/%3F_act%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecellphonetracer.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213194403id_/http%3A//www.freephonetracer.com/%3F_act%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Phone Tracer
 
@@ -45,7 +45,7 @@ We do not rent, sell, or share personal information about you with other people 
   * You can edit your Account Information within our members’ area by clicking "My Account" and then "Make Changes".
   * To exclude yourself from commercial emails and alerts sent by us, simply click the "Unsubscribe" link provided in any commercial email message.
   * We reserve the right to send you certain communications relating to our service, such as service announcements, administrative messages and customer receipts without offering you the opportunity to opt-out of receiving them.
-  * • We make opting-out of our database fast, easy, and free. We believe that consumers should have the right to opt-out of any database that stores their personal information. While other companies might make the opt-out process unnecessarily difficult, we keep it simple. Just visit the [Opt-Out Request](https://web.archive.org/web/20130807002614id_/http%3A//www.freephonetracer.com/FCPT.aspx?_act=Optout) page and submit the requested information. Please allow 1 to 7 business days for processing your request.
+  * • We make opting-out of our database fast, easy, and free. We believe that consumers should have the right to opt-out of any database that stores their personal information. While other companies might make the opt-out process unnecessarily difficult, we keep it simple. Just visit the [Opt-Out Request](https://web.archive.org/web/20140213194403id_/http%3A//www.freephonetracer.com/FCPT.aspx?_act=Optout) page and submit the requested information. Please allow 1 to 7 business days for processing your request.
 
 
 
