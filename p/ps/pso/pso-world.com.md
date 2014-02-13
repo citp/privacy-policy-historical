@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pso-world.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023062647id_/http%3A//www.pso-world.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pso-world.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213220824id_/http%3A//www.pso-world.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PSO-World.com
 
