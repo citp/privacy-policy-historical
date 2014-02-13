@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htcdev.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109090015id_/http%3A//www.htcdev.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htcdev.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213191117id_/http%3A//www.htcdev.com/privacy_policy) for the most accurate reproduction.*
 
 # HTCdev - Privacy Policy
 
