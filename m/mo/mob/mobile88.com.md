@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobile88.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227205540id_/http%3A//www.mobile88.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobile88.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213230149id_/http%3A//www.mobile88.com/privacy.asp) for the most accurate reproduction.*
 
 # Mobile88: Privacy Policy
 
@@ -47,7 +47,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
   
-You can send an email to [](mailto:webmaster@mobile88.com)
+You can send an email to [g.nexlab@mobile88.com.my](mailto:g.nexlab@mobile88.com.my)
 
   
 Changes to this Privacy Policy  
