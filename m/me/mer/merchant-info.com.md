@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merchant-info.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815053326id_/https%3A//www.merchant-info.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merchant-info.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213235018id_/https%3A//www.merchant-info.com/Privacy.aspx) for the most accurate reproduction.*
 
 # iAccess
 
