@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insiderinternetdating.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816085026id_/http%3A//www.insiderinternetdating.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insiderinternetdating.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213151212id_/http%3A//www.insiderinternetdating.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Insider Internet Dating Privacy Policy
 
