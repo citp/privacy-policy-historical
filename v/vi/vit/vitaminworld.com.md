@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitaminworld.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213020252id_/http%3A//www.vitaminworld.com/house/privacypolicy.asp%3Fcm_re%3DFooter-_-Link-_-PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitaminworld.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213140224id_/http%3A//www.vitaminworld.com/house/privacypolicy.asp%3Fcm_re%3DFooter-_-Link-_-PrivacyPolicy) for the most accurate reproduction.*
 
 # Vitamin World Privacy Policy
 
