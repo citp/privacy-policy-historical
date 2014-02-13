@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flitto.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129050008id_/https%3A//www.flitto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flitto.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213132726id_/https%3A//www.flitto.com/privacy) for the most accurate reproduction.*
 
 # flitto - Translated Deals, Twitter, Instagram, Comics, KPOP
 
