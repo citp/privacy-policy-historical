@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the managementstudyhq.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817122530id_/http%3A//www.managementstudyhq.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managementstudyhq.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213113603id_/http%3A//www.managementstudyhq.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Management Study HQ
 
