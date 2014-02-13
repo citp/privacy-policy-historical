@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juztoday.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809144716id_/http%3A//www.juztoday.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juztoday.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213031406id_/http%3A//www.juztoday.com/privacy-policy.php) for the most accurate reproduction.*
 
 # JuzToday - Privacy Policy
 
