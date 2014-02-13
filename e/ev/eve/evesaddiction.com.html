@@ -1,211 +1,115 @@
-<!--The following is the downloaded HTML source of the evesaddiction.com privacy policy that was archived on 2013-07-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130706010048id_/http%3A//www.evesaddiction.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the evesaddiction.com privacy policy that was archived on 2014-02-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140213173116id_/http%3A//www.evesaddiction.com/privacypolicy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta scheme="a1afcc517bec909bf5c3fddea7c83c3d" name="TScf5496" content="e404f9f9783378e4"><!--9cc5da25f89a21d1fbb5ffa18da0bb73--><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/339185952333247990/bc.vms4/vms.js"></script><script type="text/javascript">if(window.addEventListener){window.addEventListener("load",fetchcsloader,false);}else{if(window.attachEvent){window.attachEvent("onload",fetchcsloader);}else{onload=fetchcsloader;}}
-var jsepee={};jsepee['ILLEGAL_VALUE']=0xffff;jsepee['DEFAULT_PORT']="80";var e=document.getElementsByTagName('meta');jsepee['CSHUI_RANDOM_DATA_NODE']=null;for(var i=0;i<e.length;i++){if(e[i].getAttribute('scheme')&&e[i].getAttribute('scheme')==='a1afcc517bec909bf5c3fddea7c83c3d'){jsepee['CSHUI_RANDOM_DATA_NODE']=e[i];}}
-if(jsepee['CSHUI_RANDOM_DATA_NODE']!==undefined&&jsepee['CSHUI_RANDOM_DATA_NODE']!==null){jsepee['CSHUI_COOKIE_NAME']=jsepee['CSHUI_RANDOM_DATA_NODE'].getAttribute('name')+'_77';jsepee['CSHUI_COOKIE_VALUE_TRUE']='true'+'_'+jsepee['CSHUI_RANDOM_DATA_NODE'].getAttribute('content');jsepee['CSHUI_MONITOR_KEYBOARD']=true;jsepee['CSHUI_MONITOR_MOUSE']=true;}
-jsepee['CSHUI_MOUSEMOVE_EVENTS_TARGET']=3;jsepee['CSHUI_MOUSEMOVE_MAX_EVENTS']=1024;jsepee['CSHUI_MOUSEMOVE_EVENTS_COUNTER']=0;jsepee['CSHUI_MOUSEMOVE_LAST_X_LOCATION']=0;jsepee['CSHUI_MOUSEMOVE_LAST_Y_LOCATION']=0;jsepee['CSHUI_MOUSEMOVE_IS_CONTINUOUS']=0;jsepee['CSHUI_KEYBOARD_EVENTS_TARGET']=1;jsepee['CSHUI_KEYBOARD_EVENTS_COUNTER']=0;jsepee.new_url=function(){return{'literal':"",'methodId':this.method2id("GET"),'host':"",'port':"",'protocolId':"",'path':"",'fileExtension':"",'parameters':[]};};jsepee.new_das_item=function(){return{'page':{'URL':this.new_url(),'referrer':this.new_url(),'characterEncoding':"UTF-8",'cookie':[]},'links':{},'forms':{},'cshui':'false'+'_'+jsepee['CSHUI_RANDOM_DATA_NODE'].getAttribute('content')};};jsepee.new_das=function(){return{};};jsepee['das']=jsepee.new_das();jsepee.protocol2id=function(protocol){if(protocol=="http:"){return 0;}else if(protocol=="https:"){return 1;}
-return this.ILLEGAL_VALUE;};jsepee.get_file_extension=function(path){var lastIndexOfSlash=path.lastIndexOf("/");var file="";if(lastIndexOfSlash<0){file=path;}else{file=path.substring(lastIndexOfSlash+1);}
-var lastIndexOfDot=file.lastIndexOf(".");var ext="";if(lastIndexOfDot>=0){ext=file.substring(lastIndexOfDot+1);}
-return ext;};jsepee.extract_parameters_from_query_string=function(search){if(!search){return[];}
-var item=search.substring(1).split("&");var params=[];for(var i=0;i<item.length;++i){var pair=item[i].split("=");params.push({name:pair[0],value:decodeURIComponent(pair[1])});}
-return params;};jsepee.get_parsed_url=function(a){return{'literal':a.href,'host':a.host,'port':a.port||this['DEFAULT_PORT'],'protocolId':this.protocol2id(a.protocol),'path':a.pathname,'fileExtension':this.get_file_extension(a.pathname),'parameters':this.extract_parameters_from_query_string(a.search)};};jsepee.is_relative_url=function(u){return/^\w+:/.test(u)===false;
-};
-
-jsepee.parse_url = function(w,nu){
- var a = w.document.createElement("a");
- a.href = nu;
- var parsed_url = this.get_parsed_url(a);
- if (this.is_relative_url(parsed_url.literal)){
-  a.href = this.url2abs(w,nu);
- }
- parsed_url = this.get_parsed_url(a);
- return parsed_url;
-};
-
-jsepee.update_page_URL = function(w) {
- var this_page = this['das'][w.location.href];
- var this_URL = this_page['page']['URL'];
- this_URL['literal']= w.location.href;
- this_URL['host']= w.location.host;
- this_URL['port']= w.location.port || this['DEFAULT_PORT'];
- this_URL['protocolId']= this.protocol2id(w.location.protocol);
- this_URL['path']= w.location.pathname;
- this_URL['fileExtension']= this.get_file_extension(this_URL['path']);
- this_URL['_parameters']= this.extract_parameters_from_query_string(w.location.search);
- return this;
-};
-
-jsepee.update_page_referrer = function(w) {
- var r = this.parse_url(w,w.document.referrer);
- var this_page = this['das'][w.location.href];
- var this_referrer = this_page['page']['referrer'];
- this_referrer['literal'] = r['literal'];
- this_referrer['host'] = r['host'];
- this_referrer['port'] = r['port'] || this['DEFAULT_PORT'];
- this_referrer['protocolId'] = r['protocolId'];
- this_referrer['path'] = r['path'];
- this_referrer['fileExtension'] = r['fileExtension']; 
- this_referrer['parameters'] = r['parameters']; 
-
- return this;
-};
-
-jsepee.update_page_characterEncoding = function(w) {
- var ce = w.document.characterSet;
- if (!w.document.characterSet) {
-  ce=w.document.charset;
-  if (!w.document.charset) {
-   ce = w.document.defaultCharset;
-  }
- }
- if (!ce) {
-  ce = "JSEPEE could not identify character encoding";
- }
- var this_page = this['das'][w.location.href];
- this_page.page.characterEncoding = ce;
- return this;
-};
-
-jsepee.is_cookie_enabled = function(w) {
- if (typeof w.document.cookie == "string"){
-  if (w.document.cookie.length != 0){
-   return true;
-  }
-  w.document.cookie = 'test';
-  var is_cookie_enabled = w.document.cookie == 'test';
-  w.document.cookie = "";
-  return is_cookie_enabled;
- }
- return false;
-};
-
-jsepee.extract_cookies = function(w) {
- var my_cookies = w.document.cookie || window.document.cookie || document.cookie;
- var cookies = [];
- var chunk = my_cookies.split(/\s*;\s*/);for(var i=0;i<chunk.length;++i){var pair=chunk[i].split(/\s*=\s*/);var cookie_name=pair[0];var cookie_value=pair.slice(1,pair.length).join('');cookies.push({name:cookie_name,value:cookie_value});}
-return cookies;};jsepee.update_page_cookies=function(w){if(this.is_cookie_enabled(w)===false){return this;}
-var this_page=this['das'][w.location.href];this_page.page.cookie=this.extract_cookies(w);return this;};jsepee.update_page=function(w){this.update_page_URL(w).update_page_referrer(w).update_page_characterEncoding(w).update_page_cookies(w);return this;};jsepee.update_parsed_url=function(w,pu){if(!this['das'][w.location.href]['links'].hasOwnProperty(pu['literal'])){this['das'][w.location.href]['links'][pu['literal']]={'literal':pu['literal'],'methodId':this.method2id("GET"),'host':pu['host'],'port':pu['port']||this[DEFAULT_PORT],'protocolId':pu['protocolId'],'path':pu['path'],'fileExtension':pu['fileExtension'],'parameters':pu['parameters']};}
-return this;};jsepee.get_html_url_sources=function(){return{"a":["href"],"applet":["code","codebase"],"area":["href"],"bgsound":["src"],"body":["background"],"embed":["src"],"frame":["longdesc","src"],"head":["profile"],"iframe":["longdesc","src"],"img":["longdesc","src","usemap"],"input":["action","src","usemap"],"link":["href"],"object":["codebase","data","usemap"],"script":["src"],"td":["background"]};};jsepee.update_links=function(w){var link=this.get_html_url_sources();for(var t in link){if(link.hasOwnProperty(t)===false){continue;}
-var node=w.document.getElementsByTagName(t);for(var i=0;i<node.length;++i){for(var j=0;j<link[t].length;++j){var n=node[i];var url=n.getAttribute(link[t][j]);if(url){this.update_parsed_url(w,this.parse_url(w,url));}}}}
-return this;};jsepee.make_form_key=function(index,action,method){return index+"|"+action+"|"+method;};jsepee.resolve_form_action_url=function(w,indx){if(w.document.forms[indx].getAttribute('action')===undefined){return w.location.href;}
-var u=w.document.forms[indx].getAttribute('action');var parsed_url=this.parse_url(w,u);return parsed_url.literal;};jsepee.resolve_form_method=function(w,indx){return w.document.forms[indx].getAttribute('method')?w.document.forms[indx].getAttribute("method").toUpperCase():"GET";};jsepee.parameter_type_enumeration={"time":0,"button":1,"checkbox":2,"file":3,"hidden":4,"image":5,"password":6,"radio":7,"submit":8,"text":9,"textarea":10,"option":11,"select":11,"select-multiple":11,"select-one":11,"range":12,"color":13,"search":14,"month":15,"url":16,"week":17,"datetime":18,"reset":19,"email":20,"number":21,"datetime-local":22,"date":23};jsepee.parameter_type2id=function(pt){if(this.parameter_type_enumeration.hasOwnProperty(pt)){return this.parameter_type_enumeration[pt];}
-return this.ILLEGAL_VALUE;};jsepee.make_parameter_key=function(parameter_name,parameter_type_id){return parameter_name+"|"+parameter_type_id;};jsepee.update_form_parameters=function(page_form,das_form){for(var i=0;i<page_form.elements.length;++i){var e=page_form.elements[i];var pname=e.name;if(pname===undefined){pname='';}
-var p={'name':pname,'type':e.type,'typeId':this.parameter_type2id(e.type.toLowerCase()),'value':{}};var pvalue='IF YOU SEE THIS VALUE THEN YOU HAVE A JSEPEE BUG';if(e.tagName=="INPUT"||e.tagName=="TEXTAREA"){pvalue=e.value;if(pvalue===undefined){pvalue='';}
-p.value[pvalue]=pvalue;}else{for(var j=0;j<e.options.length;++j){pvalue=e.options[j].value;if(pvalue===undefined){pvalue="";}
-p.value[pvalue]={pvalue:pvalue};}}
-var parameter_key=this.make_parameter_key(p['name'],p['typeId']);p.parameter_key=parameter_key;if(!das_form['parameters'].hasOwnProperty(parameter_key)){das_form['parameters'][parameter_key]=p;}else{for(var v in p['value']){if(!p['value'].hasOwnProperty(v)){continue;}
-das_form['parameters'][parameter_key]['value'][v]={v:v};}}}};jsepee.method_enumeration={"GET":1,"POST":2,"OPTIONS":3,"HEAD":4,"PUT":5,"DELETE":6,"TRACE":7,"CONNECT":8,"PROPPATCH":9,"ACL":10,"PROPFIND":11,"COPY":12,"MOVE":13,"LOCK":14,"MKCOL":15,"UNLOCK":16,"CHECKOUT":17,"CHECKIN":18,"REPORT":19,"VERSION_CONTROL":20,"MERGE":21};jsepee.method2id=function(http_method){if(this.method_enumeration.hasOwnProperty(http_method)){return this.method_enumeration[http_method];}
-return ILLEGAL_VALUE;};jsepee.update_forms=function(w){var f=this['das'][w.location.href]['forms'];for(var i=0;i<w.document.forms.length;++i){var action=this.parse_url(w,this.resolve_form_action_url(w,i));var method=this.resolve_form_method(w,i);var methodId=this.method2id(method);action['methodId']=methodId;var form_key=this.make_form_key(i,action['literal'],method);if(!f.hasOwnProperty(form_key)){f[form_key]={'methodId':methodId,'action':action,'parameters':{},'form_key':form_key};}
-this.update_form_parameters(w.document.forms[i],f[form_key]);}
-return this;};jsepee.traverse=function(w){this.update_links(w).update_forms(w);return this;};jsepee.implant_human_user_activity_indicator_event_listeners=function(w){var that=this;this.log_mousemove_event=function(e){that.das[w.location.href].cshui=jsepee['CSHUI_COOKIE_VALUE_TRUE'];that.update_cshui_cookie(w);if(that['CSHUI_MONITOR_MOUSE']){if(w.document.removeEventListener){w.document.removeEventListener('mousemove',that.log_mousemove_event,false);}else if(w.document.detachEvent){w.document.detachEvent("on"+'mousemove',that.log_mousemove_event);}else{w['on'+'mousemove']=null;}}
-if(that['CSHUI_MONITOR_KEYBOARD']){if(w.document.removeEventListener){w.document.removeEventListener('keypress',that.log_keyboard_event,false);}else if(w.document.detachEvent){w.document.detachEvent("on"+'keypress',that.log_keyboard_event);}else{w['on'+'keypress']=null;}}
-return;};this.log_keyboard_event=function(e){if(that.das[w.location.href].cshui==that['CSHUI_COOKIE_VALUE_TRUE']){return;}
-that['CSHUI_KEYBOARD_EVENTS_COUNTER']++;if(that['CSHUI_KEYBOARD_EVENTS_TARGET']<=that['CSHUI_KEYBOARD_EVENTS_COUNTER']){that.das[w.location.href].cshui=jsepee['CSHUI_COOKIE_VALUE_TRUE'];that.update_cshui_cookie(w);if(that['CSHUI_MONITOR_MOUSE']){if(w.document.removeEventListener){w.document.removeEventListener('mousemove',that.log_mousemove_event,false);}else if(w.document.detachEvent){w.document.detachEvent("on"+'mousemove',that.log_mousemove_event);}else{w['on'+'mousemove']=null;}}
-if(that['CSHUI_MONITOR_KEYBOARD']){if(w.document.removeEventListener){w.document.removeEventListener('keypress',that.log_keyboard_event,false);}else if(w.document.detachEvent){w.document.detachEvent("on"+'keypress',that.log_keyboard_event);}else{w['on'+'keypress']=null;}}}};if(this['CSHUI_MONITOR_MOUSE']){if(w.document.addEventListener){w.document.addEventListener('mousemove',this.log_mousemove_event,false);}else if(w.document.attachEvent){w.document.attachEvent("on"+'mousemove',this.log_mousemove_event);}else{w['on'+'mousemove']=this.log_mousemove_event;}}
-if(this['CSHUI_MONITOR_KEYBOARD']){if(w.document.addEventListener){w.document.addEventListener('keypress',this.log_keyboard_event,false);}else if(w.document.attachEvent){w.document.attachEvent("on"+'keypress',this.log_keyboard_event);}else{w['on'+'keypress']=this.log_keyboard_event;}}
-return this;};jsepee.load_factory=function(w){var that=this;this.do_on_load=function(){if(that['CSHUI_RANDOM_DATA_NODE']!==undefined&&that['CSHUI_RANDOM_DATA_NODE']!==null){that.implant_human_user_activity_indicator_event_listeners(w);}
-that.update_page(w).traverse(w);return that;};return this.do_on_load();};jsepee.getHTTPObject=function(w){var xhr=false;if(window.XMLHttpRequest){xhr=new XMLHttpRequest();}else if(window.ActiveXObject){try{xhr=new ActiveXObject("Msxml2.XMLHTTP");}catch(e){try{xhr=new ActiveXObject("Microsoft.XMLHTTP");}catch(e){xhr=false;}}}
-return xhr;};jsepee.parseResponse=function(request){if(request.readyState==4){if(request.status==200||request.status==304){}else{}}
-return this;};jsepee.get_base_url=function(w){var baseurl='';if(w.document.getElementsByTagName){var e=w.document.getElementsByTagName('base');if(e.length){baseurl=e[0].href;if(/^\w+:/.test(baseurl)===false){baseurl='';}}}else{baseurl=w.location.protocol+':'+w.location.host;if(w.location.port){baseurl+=':'+w.location.port;}else{baseurl+=':80';}
-baseurl+='/';}
-return baseurl;};jsepee.url2abs=function(w,rel){if(this.is_relative_url(rel)){return this.get_base_url(w)+rel;}
-return rel;};jsepee.is_jsepee_code_reference_url=function(u){return u.parameters.length==1&&u.parameters[0].name.length==32&&u.parameters[0].value.length==0;};jsepee.set_cookie=function(w,cookie_name,cookie_value){var new_cookie=cookie_name+'='+encodeURIComponent(cookie_value)+";path=/";if(w.document.cookie!==undefined){w.document.cookie=new_cookie;}else if(window.document.cookie!==undefined){window.document.cookie=new_cookie;}else{document.cookie=new_cookie;}
-return this;};jsepee.update_cshui_cookie=function(w){this.set_cookie(w,this['CSHUI_COOKIE_NAME'],this.das[w.location.href].cshui);return this;};jsepee.unload_factory=function(w){var that=this;this.do_on_unload=function(){that.update_cshui_cookie(w);return that;};return this.do_on_unload;};jsepee.attach_page_load_and_unload_handler=function(w){if(w.addEventListener){w.addEventListener("load",this.load_factory(w),false);w.addEventListener("unload",this.unload_factory(w),false);}else if(w.attachEvent){w.attachEvent("onload",this.load_factory(w));w.attachEvent("onunload",this.unload_factory(w));}else{w.onload=this.load_factory(w);w.onunload=this.unload_factory(w);}
-return this;};jsepee.frame_recurse=function(w){if(this['das'].hasOwnProperty(w.location.href)){return this;}else{this['das'][w.location.href]=this.new_das_item();}
-this.attach_page_load_and_unload_handler(w);for(var i=0;i<w.frames.length;++i){try{var u=w.frames[i].location.href;}catch(e){continue;}
-if(u.indexOf("http")!=0){continue;}
-this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.frame_recurse(window);}</script>
+<!DOCTYPE html><html><head>
 <title>privacypolicy.html</title>
+
+
+
+
+
+
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE">
 <meta http-equiv="Content-Style-Type" content="text/css">
 <meta name="description" content="Our huge selection of sterling silver jewelry includes sterling silver necklaces, rings, bracelets &amp; pendants. Most of our sterling silver jewelry is designer and celebrity inspired. We also offer cubic zirconia cz jewelry at affordable rates.">
 <meta name="keywords" content="sterling silver jewelry, silver jewelry, sterling silver rings, sterling silver earrings, sterling silver necklaces, sterling silver pendants, sterling silver bracelets, cubic zirconia jewelry, cz jewelry, cubic zirconia rings, cz rings, cubic zirconia earrings, cz earrings, cubic zirconia necklaces, cz necklaces, cubic zirconia pendants, cz pendants, cubic zirconia bracelets, cz bracelets, engraved jewelry, engravable jewelry, oriana beads, inspired rings, inspired earrings, inspired necklaces, inspired bracelets, designer inspired jewelry, designer style jewelry, designer knock off jewelry, designer rings, designer earrings, designer necklaces, celebrity jewelry, celebrity style jewelry, celebrity inspired jewelry, celebrity inspired rings, celebrity rings.">
 <meta name="verify-v1" content="UdDgy7Abe1XRZ7ci7Dfzufnhuo/8cK3wcJqFApvqEdA=">
-<link rel="Shortcut Icon" href="/favicon.ico">
-<link href="/css/bbstyle.css" type="text/css" rel="stylesheet">
+
+	
+
+<link rel="Shortcut Icon" href="favicon.ico"> <link href="/css/bbstyle.css" type="text/css" rel="stylesheet">
 
 <style type="text/css">form{display:inline;}</style>
+<meta scheme="a1afcc517bec909bf5c3fddea7c83c3d" name="TSd5a2de" content="663407ff41871d4d"> <meta scheme="eb1e31097f37b3d64bef23cbd5cab231" name="1000" content="5"><!-- 9cc5da25f89a21d1fbb5ffa18da0bb73 --><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" async="" src="http://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/339185952333247990/bc.vms4/vms.js"></script><script type="text/javascript">//<![CDATA[
+(function(){if(window.addEventListener){window.addEventListener("load",a,false)}else{if(window.attachEvent){window.attachEvent("onload",a)}else{onload=a}}var c={};c.get_cshui_value=function(j){var k=4;var l;var h=0;var e="";var g=3;e="";for(var f=0;f<k-1;++f){l=Math.round(Math.random()*9);e+=l;h+=l}if(e=="000"){e="123"}while(true){l=Math.round(Math.random()*9);if((h+l)%g==j){return e+l}}};c.ILLEGAL_VALUE=65535;c.CSHUI_RAPIDSURF_MAX_TIME_DURATION=1000;c.CSHUI_RAPIDSURF_MAX_STEPS=5;var d=document.getElementsByTagName("meta");c.CSHUI_RANDOM_DATA_NODE=null;for(var b=0;b<d.length;b++){if(d[b].getAttribute("scheme")&&d[b].getAttribute("scheme")==="a1afcc517bec909bf5c3fddea7c83c3d"){c.CSHUI_RANDOM_DATA_NODE=d[b];c.CSHUI_COOKIE_NAME=d[b].getAttribute("name")+"_77";c.BD_TOKEN=d[b].getAttribute("content")}else{if(d[b].getAttribute("scheme")&&d[b].getAttribute("scheme")==="eb1e31097f37b3d64bef23cbd5cab231"){c.CSHUI_RAPIDSURF_MAX_TIME_DURATION=d[b].getAttribute("name");c.CSHUI_RAPIDSURF_MAX_STEPS=d[b].getAttribute("content")}}}c.CSHUI_MOUSEMOVE_EVENTS_TARGET=3;c.CSHUI_MOUSEMOVE_MAX_EVENTS=1024;c.CSHUI_MOUSEMOVE_EVENTS_COUNTER=0;c.CSHUI_MOUSEMOVE_LAST_X_LOCATION=0;c.CSHUI_MOUSEMOVE_LAST_Y_LOCATION=0;c.CSHUI_MOUSEMOVE_IS_CONTINUOUS=0;c.CSHUI_KEYBOARD_EVENTS_TARGET=1;c.CSHUI_KEYBOARD_EVENTS_COUNTER=0;c.CSHUI_TOUCHSTART_EVENTS_TARGET=1;c.CSHUI_TOUCHSTART_EVENTS_COUNTER=0;c.CSHUI_TOUCHMOVE_EVENTS_TARGET=1;c.CSHUI_TOUCHMOVE_EVENTS_COUNTER=0;c.CSHUI_RAPIDSURF_BEGIN_DELIM="_rsb_";c.CSHUI_RAPIDSURF_DELIM="_rs_";c.CSHUI_COOKIE_VALUE_TRUE=c.get_cshui_value("1")+"_"+c.BD_TOKEN;c.CSHUI_COOKIE_VALUE_UNKNOWN=c.get_cshui_value("0")+"_"+c.BD_TOKEN;c.CSHUI_COOKIE_VALUE_FALSE=c.get_cshui_value("2")+"_"+c.BD_TOKEN;c.CSHUI_MONITOR_KEYBOARD=true;c.CSHUI_MONITOR_TOUCHSTART=true;c.CSHUI_MONITOR_MOUSE=true;c.CSHUI_MONITOR_TOUCHMOVE=true;c.new_das_item=function(){return{page:{cookie:[]},cshui:c.CSHUI_COOKIE_VALUE_UNKNOWN}};c.new_das=function(){return{}};c.das=c.new_das();c.extract_cookies=function(){var l=document.cookie||window.document.cookie;var g=[];var e=l.split(/\s*;\s*/);for(var f=0;f<e.length;++f){var k=e[f].split(/\s*=\s*/);var h=k[0];var j=k.slice(1,k.length).join("");g.push({name:h,value:j})}return g};c.is_cshui_indication_true=function(f){var e=f.split("_");return(e[0]%3)==1};c.implant_human_user_activity_indicator_event_listeners=function(e){var h=new Date();var g=parseInt(h.getTime());if(!this.rapidsurf){this.rapidsurf={}}this.rapidsurf.start_time=g;var f=this;this.monitor_event=function(j,i){if(this.is_cshui_indication_true(this.das[e.location.href].cshui)){return}if(this[j]<=this[i]){this.das[e.location.href].cshui=c.CSHUI_COOKIE_VALUE_TRUE;this.update_cshui_cookie(e);this.remove_all_cshui_events(e)}this[i]++};this.log_keyboard_event=function(i){f.monitor_event("CSHUI_KEYBOARD_EVENTS_TARGET","CSHUI_KEYBOARD_EVENTS_COUNTER")};this.log_touchstart_event=function(i){f.monitor_event("CSHUI_TOUCHSTART_EVENTS_TARGET","CSHUI_TOUCHSTART_EVENTS_COUNTER")};this.log_touchmove_event=function(i){f.monitor_event("CSHUI_TOUCHMOVE_EVENTS_TARGET","CSHUI_TOUCHMOVE_EVENTS_COUNTER")};this.log_mousemove_event=function(j){if(f.is_cshui_indication_true(f.das[e.location.href].cshui)||f.CSHUI_MOUSEMOVE_MAX_EVENTS<f.CSHUI_MOUSEMOVE_EVENTS_COUNTER){f.remove_all_cshui_events(e)}var i=0;var k=0;j=j||j.event||window.event||event;i=j.screenX;k=j.screenY;if(f.CSHUI_MOUSEMOVE_EVENTS_COUNTER==0){f.CSHUI_MOUSEMOVE_EVENTS_COUNTER=1;f.CSHUI_MOUSEMOVE_LAST_X_LOCATION=i;f.CSHUI_MOUSEMOVE_LAST_Y_LOCATION=k}else{f.CSHUI_MOUSEMOVE_EVENTS_COUNTER++;if((Math.abs(f.CSHUI_MOUSEMOVE_LAST_X_LOCATION-i)<=1)&&(Math.abs(f.CSHUI_MOUSEMOVE_LAST_Y_LOCATION-k)<=1)){f.CSHUI_MOUSEMOVE_IS_CONTINUOUS++}f.CSHUI_MOUSEMOVE_LAST_X_LOCATION=i;f.CSHUI_MOUSEMOVE_LAST_Y_LOCATION=k}if(f.CSHUI_MOUSEMOVE_IS_CONTINUOUS>=f.CSHUI_MOUSEMOVE_EVENTS_TARGET){f.das[e.location.href].cshui=c.CSHUI_COOKIE_VALUE_TRUE;f.update_cshui_cookie(e)}};this.remove_cshui_event=function(i,j,k,l){if(this[k]){if(i.document.removeEventListener){i.document.removeEventListener(j,l,false)}else{if(i.document.detachEvent){i.document.detachEvent("on"+j,l)}else{i["on"+j]=null}}}};this.remove_all_cshui_events=function(i){this.remove_cshui_event(i,"keypress","CSHUI_MONITOR_KEYBOARD",this.log_keyboard_event);this.remove_cshui_event(i,"mousemove","CSHUI_MONITOR_MOUSE",this.log_mousemove_event);this.remove_cshui_event(i,"touchstart","CSHUI_MONITOR_TOUCHSTART",this.log_touchstart_event);this.remove_cshui_event(i,"touchmove","CSHUI_MONITOR_TOUCHMOVE",this.log_touchmove_event)};this.add_cshui_event=function(i,j,k,l){if(this[k]){if(i.document.addEventListener){i.document.addEventListener(j,l,false)}else{if(i.document.attachEvent){i.document.attachEvent("on"+j,l)}else{i["on"+j]=l}}}};this.add_all_cshui_events=function(i){this.add_cshui_event(i,"keypress","CSHUI_MONITOR_KEYBOARD",this.log_keyboard_event);this.add_cshui_event(i,"mousemove","CSHUI_MONITOR_MOUSE",this.log_mousemove_event);this.add_cshui_event(i,"touchstart","CSHUI_MONITOR_TOUCHSTART",this.log_touchstart_event);this.add_cshui_event(i,"touchmove","CSHUI_MONITOR_TOUCHMOVE",this.log_touchmove_event)};this.add_all_cshui_events(e);return this};c.load_factory=function(e){var f=this;this.do_on_load=function(){if(f.CSHUI_RANDOM_DATA_NODE!==undefined&&f.CSHUI_RANDOM_DATA_NODE!==null){f.implant_human_user_activity_indicator_event_listeners(e)}return f};this.do_on_load();return(function(){})};c.set_cookie=function(e,g,h){var f=g+"="+h+";path=/";if(e.document.cookie!==undefined){e.document.cookie=f}else{if(window.document.cookie!==undefined){window.document.cookie=f}else{document.cookie=f}}return this};c.get_cshui_cookie=function(e){var l=this.extract_cookies();var f=this.ILLEGAL_VALUE;var k="";var j=[c.das[e.location.href].cshui];for(var h=0;h<l.length;++h){if(l[h].name===this.CSHUI_COOKIE_NAME){var g=l[h].value;j=g.split(c.CSHUI_RAPIDSURF_BEGIN_DELIM);if(j.length==2){k=j[0];f=j[1]}}}return j};c.rapidsurf_on_unload=function(n){var i=new Date();var e=parseInt(i.getTime());var k=e-parseInt(this.rapidsurf.start_time);var f=this.ILLEGAL_VALUE;var j=this.ILLEGAL_VALUE;var m="\t---\t---\t---\t";var o=this.ILLEGAL_VALUE;var h=c.get_cshui_cookie(n);var g=c.das[n.location.href].cshui;if(h.length==2){var l=h[1].split(c.CSHUI_RAPIDSURF_DELIM);f=parseInt(l[0]);j=l[1];m=parseInt(l[2])}else{f=0;j=encodeURIComponent(n.location.href);m=0}if(j===encodeURIComponent(n.location.href)){m++}else{if(k<this.CSHUI_RAPIDSURF_MAX_TIME_DURATION){f++}}j=encodeURIComponent(n.location.href);this.set_cookie(n,this.CSHUI_COOKIE_NAME,g+c.CSHUI_RAPIDSURF_BEGIN_DELIM+f.toString()+c.CSHUI_RAPIDSURF_DELIM+j+c.CSHUI_RAPIDSURF_DELIM+m.toString());if(f>this.CSHUI_RAPIDSURF_MAX_STEPS){this.das[n.location.href].cshui=this.CSHUI_COOKIE_VALUE_FALSE;c.update_cshui_cookie(n)}return this};c.new_rapid_surf_data=function(e){return c.CSHUI_RAPIDSURF_BEGIN_DELIM+"0"+c.CSHUI_RAPIDSURF_DELIM+encodeURIComponent(e.location.href)+c.CSHUI_RAPIDSURF_DELIM+"0"};c.update_cshui_cookie=function(e){var f=c.get_cshui_cookie(e);if(f.length==2){this.set_cookie(e,this["CSHUI_COOKIE_NAME"],this.das[e.location.href].cshui+c.CSHUI_RAPIDSURF_BEGIN_DELIM+f[1])}else{this.set_cookie(e,this.CSHUI_COOKIE_NAME,this.das[e.location.href].cshui+c.new_rapid_surf_data(e))}return this};c.unload_factory=function(e){var f=this;this.do_on_unload=function(){f.rapidsurf_on_unload(e);return f};return this.do_on_unload};c.attach_page_load_and_unload_handler=function(e){if(e.addEventListener){e.addEventListener("load",this.load_factory(e),false);e.addEventListener("unload",this.unload_factory(e),false)}else{if(e.attachEvent){e.attachEvent("onload",this.load_factory(e));e.attachEvent("onunload",this.unload_factory(e))}else{e.onload=this.load_factory(e);e.onunload=this.unload_factory(e)}}return this};c.frame_recurse=function(g){if(this["das"].hasOwnProperty(g.location.href)){return this}else{this["das"][g.location.href]=this.new_das_item()}this.attach_page_load_and_unload_handler(g);var f="";for(var h=0;h<g.frames.length;++h){try{f=g.frames[h].location.href}catch(j){continue}if(f.indexOf("http")!=0){continue}this.frame_recurse(g.frames[h])}return this};c.init_rapid_surf_data=function(){var f=c.get_cshui_cookie(window)[0];var e=f.split("_")[1];if(!!e&&e.length>0&&c.BD_TOKEN!=e){c.set_cookie(window,c.CSHUI_COOKIE_NAME,c.das[location.href].cshui+c.new_rapid_surf_data(window))}};function a(){c.frame_recurse(window);c.init_rapid_surf_data()}})();
+//]]>
+</script>
 <script type="text/javascript" src="/scripts/show_hide.js"></script>
 <script language="JavaScript" src="/scripts/flashclick.js" type="text/javascript"></script>
 
 
-<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="./jquery.js"></script><script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=79984862"></script></head>
-
-
+<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="./jquery.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="topbanner" src="./topbanner.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="refcode" src="./refcode.js"></script><script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=79984862"></script></head>
 
 <body>
 
 
 
 
-<map name="topbanner">
-  <area shape="rect" coords="5,5,954,61" href="http://www.evesmobile.com">
-  <area shape="rect" coords="553,109,619,125" href="/order-status.html" alt="Order Status">
-  <area shape="rect" coords="628,111,661,126" href="/login.jsp" alt="Login">
-  <area shape="rect" coords="671,110,764,125" href="/customer-service.html" alt="Customer Service">
-  <area shape="rect" coords="774,111,798,125" href="/help.html" alt="Help">
-  <area shape="rect" coords="639,62,796,109" href="/basket.jsp" alt="Shopping Cart">
-  <area shape="rect" coords="295,67,649,100" href="/browser-test.html">
-  <area shape="rect" coords="5,63,287,125" href="/" alt="home">
-  <area shape="rect" coords="290,110,549,125" href="/customer-service.html" alt="Customer Service">
-</map>
-<map name="undernav">
-  <area shape="rect" coords="11,2,405,38" href="/freeshipping.html">
-  <area shape="rect" coords="407,2,607,14" href="freegift.html">
-  <area shape="rect" coords="407,15,607,27" href="/items_396__Gift_Packaging_Options.html">
-  <area shape="rect" coords="407,28,606,41" href="/returnpolicy.html">
-</map>
 
 
 
 
-
-
-
-
+<script type="text/javascript">
+	flashFileData = new Object();
+	flashFileData.fileName = "header48.swf";
+	flashFileData.custName = "null";
+	flashFileData.orderTotal = 0.0;
+	flashFileData.login = "/login.jsp";
+	flashFileData.logout = "/servlet/com.beantree.catalog.AccountLogoutServlet?path=http://www.evesaddiction.com";
+	flashFileData.gpm = "";
+	flashFileData.pb = "null";
+	flashFileData.numberOfItems = 0;
+	flashFileData.st = "1392312677074";
+	flashFileData.dw = "Thu";
+</script>
 <table class="mainTable" align="center" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
     <td>
-      <table border="0" align="center" cellpadding="1" cellspacing="0" bgcolor="#ffffff">
-      <tbody><tr>
-          <td bgcolor="#ffffff">
-            <script type="text/javascript" src="/scripts/flashclick.js"></script>
-
-
-            
-            <div id="flashcontent">
-              <a href="/browser-test.html"><img src="/images/header3.jpg" border="0" alt="Sterling Sivler Jewelry" usemap="#Map">
-								<map name="Map"> 
-								  <area shape="rect" coords="863,50,905,66" href="/custsrv.html" alt="Customer Service"> 
-								  <area shape="rect" coords="791,51,862,66" href="/account.jsp" alt="View Your Account or Login"> 
-								  <area shape="rect" coords="716,51,787,66" href="/track-your-order.html" alt="Check Your Order Status"> 
-								  <area shape="rect" coords="813,2,907,37" href="/basket.jsp" alt="View Your Shopping Bag"> 
-								  <area shape="rect" coords="906,2,954,66" href="/basket.jsp" alt="View Your Shopping Bag"> 
-								  <area shape="rect" coords="624,3,719,49" href="/google_checkout.html" alt="EvesAddiction.com accepts Google Checkout"> 
-								  <area shape="rect" coords="515,3,610,49" href="/testimonials2.html" alt="EvesAddiction.com has been awarded the Top Service Rating"> 
-								  <area shape="rect" coords="350,2,496,50" href="/today.html" alt="Eve's Jewelry Featured on NBC's Today Show"> 
-								  <area shape="rect" coords="0,2,351,103" href="/" alt="Sterling Silver Jewelry"> 
-								</map>						
-							</a>
-						</div>
-              
-              
-            <script type="text/javascript">
-              var fo = new FlashObject("/resources/flash/header48.swf?custname=&ordertotal=$0.00&login=/login.jsp&logout=/servlet/com.beantree.catalog.AccountLogoutServlet?path=http://www.evesaddiction.com&gpm=&pb=&numberofitems=0&st=2000&dw=Fri","topbanner", "960", "82", "7", "#FFFFFF");
-              fo.addParam('wmode', 'opaque');
-              fo.write("flashcontent");
-            </script>
-			
-			
-			
-          </td>
-        </tr>
-      </tbody></table>
+      <map name="UnderAltMap" id="UnderNavDefaultMap"><area shape="rect" coords="515,41,764,60" href="/freegiftboxing.html" alt="Free Gift Boxing and Pouch" title="Free Gift Boxing and Pouch"><area shape="rect" coords="515,69,764,88" href="/category_212.html" alt="Free Chain with Every Pendant" title="Free Chain with Every Pendant"><area shape="rect" coords="516,96,766,120" href="/freegift.html" alt="Free Gift on Orders over $125" title="Free Gift on Orders over $125"><area shape="rect" coords="3,2,500,119" href="/items_427.html" alt="Storewide Sale!" title="Storewide Sale!"><area shape="rect" coords="516,9,766,33" href="/freeshipping.html" alt="Free Shipping" title="Free Shipping"></map><map name="UnderNavDefaultMap" id="UnderNavAltMap"><area shape="rect" coords="488,41,766,59" href="/freegiftboxing.html" alt="Free Gift Boxing and Pouch" title="Free Gift Boxing and Pouch"><area shape="rect" coords="489,68,766,87" href="/category_212.html" alt="Free Chain with Every Pendant" title="Free Chain with Every Pendant"><area shape="rect" coords="488,94,765,118" href="/freegift.html" alt="Free Gift on Orders over $125" title="Free Gift on Orders over $125"><area shape="rect" coords="3,2,481,121" href="/items_427.html" alt="Storewide Sale!" title="Storewide Sale!"><area shape="rect" coords="488,10,765,34" href="/freeshipping.html" alt="Free Shipping" title="Free Shipping"></map><map name="SpecialMap" id="SpecialMap"><area shape="rect" coords="0,0,769,125" href="/category_430.html" alt="Best Selling Jewelry"></map><!--[if lt IE 7]><p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p><![endif]-->
+<!--[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/2.1.0/es5-shim.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/json3/3.2.4/json3.min.js"></script>
+<![endif]-->
+<script src="/resources/shoppingbag/b57f5b70.plugins.js"></script>
+<script src="/resources/azura/src/require.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script data-require="angular.js@1.0.x" src="//ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js" data-semver="1.0.7"></script>
+<script type="text/javascript">
+window.evesScriptsUrl = "//www.evesaddiction.com/resources/picviewer-uploader";
+window.evesUploaderUrl = "//pliny.centerbrooksales.com/uploader";
+</script>
+<script src="//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+<script src="/resources/shoppingbag/8e4d07c7.scripts.js"></script>
+<script src="/resources/shoppingbag/98d9f5f7.modules.js"></script>
+<div style="width: 966px;">
+<img src="/images/header-holiday20131120.png" border="0" alt="Sterling Silver Jewelry" usemap="#HeaderMap">
+<map name="HeaderMap">
+<area shape="rect" coords="602,35,685,116" href="/paypal.html" alt="EvesAddiction.com accepts PayPal with BillMeLater" title="EvesAddiction.com accepts PayPal with BillMeLater"> 
+<area shape="rect" coords="395,63,490,109" href="/testimonials2.html" alt="EvesAddiction.com has been awarded the Top Service Rating" title="EvesAddiction.com has been awarded the Top Service Rating"> 
+<area shape="rect" coords="498,54,581,122" href="/today.html" alt="Eve's Jewelry Featured on NBC's Today Show" title="Eve's Jewelry Featured on NBC's Today Show"> 
+<area shape="rect" coords="0,1,382,122" href="/" alt="EvesAddiction.com - Sterling Silver Jewelry" title="EvesAddiction.com - Sterling Silver Jewelry"> 
+</map>
+<script>
+    var closeTimes = {
+      phones: {
+        open: {
+          hour: 9,
+          minute: 00
+        },
+        close: {
+//          until: "2014-02-02",
+          hour: 21,
+          minute: 00
+        },
+        closeDays: [6]
+      },
+      shipping: {
+        open: {
+          hour: 9,
+          minute: 0
+        },
+        close: {
+          hour: 13,
+          minute: 0
+        }
+      }
+    };
+</script>
+<div id="shoppingbag" style="display: inline-block;"><div shoppingbag=""></div></div>
+<script>angular.bootstrap(angular.element('#shoppingbag'), ['shoppingbagApp']);</script>
+</div>
     </td>
   </tr>
-
-
 </tbody></table>
 <table class="mainTable" align="center" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
@@ -213,7 +117,6 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
       <br style="line-height:2px;">
     </td>
   </tr>
-
   <tr>
     <td colspan="2">
       <table border="0" cellpadding="0" cellspacing="0">
@@ -222,8 +125,6 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
             <table class="topNav" border="0" cellpadding="0" cellspacing="0" width="100%">
               <tbody><tr>
                 <td width="4%"><a class="farLeft" href="/" title="Silver Jewelry">Home</a></td>
-
-
 
 
 
@@ -265,9 +166,7 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
 
 
 
-
     <td width="12%"><a class="farRight" href="/category_543__Engravable_Jewelry.html" title="Engraved Jewelry">Engraved&nbsp;Jewelry</a></td>
-
 
 
 
@@ -284,16 +183,20 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
             <img width="1" height="1" src="/images/spacer.gif">
           </td>
           <td colspan="3" align="left">
-
-            <div id="flashundernav">
-	    <img src="/images/undernav217.jpg" width="960" height="75" usemap="#undernav" border="0" alt="Sterling Sivler Jewelry">
-            </div>
-            
+          	
             <script type="text/javascript">
-              var fo = new FlashObject("/resources/flash/undernav-banner202.swf?pb=&st=2000&dw=Fri&shortURL=null&countryTwoDigitCode=US", "topbanner", "960", "125", "7", "#FFFFFF");
-              fo.addParam('wmode', 'opaque');
-              fo.write("flashundernav");
+            	flashNav = new Object();
+            	flashNav.fileName = "undernav-banner209.swf";
+            	flashNav.pb = "null";
+            	flashNav.st = "1392312677074";
+            	flashNav.dw = "Thu";
+            	flashNav.shortURL = "null";
+            	flashNav.countryTwoDigitCode = "US";
+            	flashNav.flashNumbers = ["960", "125", "7"];
             </script>
+            <div id="flashundernav">
+	    				<div id="undernavApp" class="tableRow"><a href="/freeshipping.html" title="All Orders Ship In 24 Hours"><img src="images/vp-24HourShipping.jpg" alt="All Orders Ship In 24 Hours"></a><a href="/freeshipping.html" title="Guaranteed Valentines Delivery"><img src="images/vp-GuaranteedDelivery.jpg" alt="Guaranteed Valentines Delivery"></a><a href="/returnpolicy.html" title="60 Day Returns &amp; Exchanges"><img src="images/vp-60DayReturns.jpg" alt="60 Day Returns &amp; Exchanges"></a><div class="left"><div phones=""></div><a href="/catalogRequest.jsp" title="Sign Up For Exclusive Offers"><img src="images/signup-20131108.jpg" alt="Sign Up For Exclusive Offers" class="left"></a></div><div class="topbanner"><img src="images/undernav-default.jpg" class="right"></div></div><script>angular.bootstrap(angular.element('#undernavApp'), ['undernavApp']);</script>
+            </div>
           </td>
           <td width="1" bgcolor="#a2a8c2">
             <img width="1" height="1" src="/images/spacer.gif">
@@ -308,8 +211,8 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
             <img width="1" height="1" src="/images/spacer.gif">
           </td>
           <td width="195" valign="top">
-
-            <!--NEXTOPIA SEARCH-->  
+            
+<!--NEXTOPIA SEARCH-->  
 <link rel="stylesheet" type="text/css" href="/css/yui-autocomplete.css">
 
 <form action="/search.jsp" id="nxt-search-form" method="get">
@@ -328,49 +231,58 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
 <table border="0" cellpadding="2" cellspacing="0" width="100%">  
   <tbody><tr>
     <td>
-      <!-- BoldChat Live Chat Button HTML v4.00 (Type=Web,ChatButton=Eves Chat Button,Website=- None -) -->
+      <script src="//cdn.optimizely.com/js/286767810.js"></script>
+<!-- BoldChat Live Chat Button HTML v4.00 (Type=Web,ChatButton=Eves Chat Button,Website=- None -) -->
 <div style="text-align: left; white-space: nowrap; margin-left: 10px;">
- <a href="https://livechat.boldchat.com/aid/339185952333247990/bc.chat?resize=true&amp;cbdid=4015476686014161023" target="_blank" onclick="window.open((window.pageViewer &amp;&amp; pageViewer.link || function(link){return link;})(this.href + (this.href.indexOf('?')>=0 ? '&amp;' : '?') + 'url=' + escape(document.location.href)), 'Chat339185952333247990', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');return false;">
-  <div><script language="JavaScript" type="text/javascript"> var bccbId = Math.random(); document.write(unescape('%3Cimg alt="Live chat by BoldChat" src="' + (('https:' == document.location.protocol) ? 'https:' : 'http:') + '//cbi.boldchat.com/aid/339185952333247990/bc.cbi?cbdid=4015476686014161023" border="0" id=' + bccbId + ' /%3E')); var bccb = {id: bccbId, bdid: '4015476686014161023', rdid: null, type: 'chat'}; var _bcvma = _bcvma || []; if(window.pageViewer && pageViewer.addButton) pageViewer.addButton(button); else _bcvma.push(['addButton', bccb]);</script><img alt="Live chat by BoldChat" src="https://cbi.boldchat.com/aid/339185952333247990/bc.cbi?cbdid=4015476686014161023" border="0" id="0.5592227608609113"></div>
- </a>
+<a href="https://livechat.boldchat.com/aid/339185952333247990/bc.chat?resize=true&amp;cbdid=4015476686014161023" target="_blank" onclick="window.open((window.pageViewer &amp;&amp; pageViewer.link || function(link){return link;})(this.href + (this.href.indexOf('?')>=0 ? '&amp;' : '?') + 'url=' + escape(document.location.href)), 'Chat339185952333247990', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');return false;">
+<div><script language="JavaScript" type="text/javascript"> var bccbId = Math.random(); document.write(unescape('%3Cimg alt="Live chat by BoldChat" src="' + (('https:' == document.location.protocol) ? 'https:' : 'http:') + '//cbi.boldchat.com/aid/339185952333247990/bc.cbi?cbdid=4015476686014161023" border="0" id=' + bccbId + ' /%3E')); var bccb = {id: bccbId, bdid: '4015476686014161023', rdid: null, type: 'chat'}; var _bcvma = _bcvma || []; if(window.pageViewer && pageViewer.addButton) pageViewer.addButton(button); else _bcvma.push(['addButton', bccb]);</script><img alt="Live chat by BoldChat" src="https://cbi.boldchat.com/aid/339185952333247990/bc.cbi?cbdid=4015476686014161023" border="0" id="0.7001670545702565">
+</div>
+</a>
 </div>
 <!-- /BoldChat Live Chat Button HTML v4.00 -->
 <!-- BoldChat Visitor Monitor HTML v4.00 (Website=- None -,ChatButton=- None -,ChatInvitation=My Invite Ruleset) -->
 <script type="text/javascript">
-  var _bcvma = _bcvma || [];
-  _bcvma.push(["setAccountID", "339185952333247990"]);
-  _bcvma.push(["setParameter", "InvitationDefID", "335970899854312376"]);
-  _bcvma.push(["pageViewed"]);
-  (function(){
-    var vms = document.createElement("script"); vms.type = "text/javascript"; vms.async = true;
-    vms.src = ('https:'==document.location.protocol?'https://':'http://') + "vmss.boldchat.com/aid/339185952333247990/bc.vms4/vms.js";
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vms, s);
-  })();
+  var _bcvma = _bcvma || [];
+  _bcvma.push(["setAccountID", "339185952333247990"]);
+  _bcvma.push(["setParameter", "InvitationDefID", "335970899854312376"]);
+  _bcvma.push(["pageViewed"]);
+  (function(){
+    var vms = document.createElement("script"); vms.type = "text/javascript"; vms.async = true;
+    vms.src = ('https:'==document.location.protocol?'https://':'http://') + "vmss.boldchat.com/aid/339185952333247990/bc.vms4/vms.js";
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vms, s);
+  })();
 </script>
 <noscript>
 <a href="http://www.boldchat.com" title="Live Chat" target="_blank"><img alt="Live Chat" src="https://vms.boldchat.com/aid/339185952333247990/bc.vmi" border="0" width="1" height="1" /></a>
 </noscript>
 <!-- /BoldChat Visitor Monitor HTML v4.00 -->
-<br>
+<!--<br />
 <table class="automatedCategoryTable" border="0" cellpadding="2" cellspacing="0" width="100%" style="
-    margin-bottom: -17px;
-    margin-left: -2px;
-"><tbody><tr>
-      <td class="leftCategoriesTD categoryLevel_1">
-        <a href="/items_402__Graduation_Jewelry_Gifts.html" class="leftNavigationHighLightText categoryCode_967" title="Graduation Jewelry Gifts">Graduation Jewelry Gifts</a>
-      </td>
-    </tr></tbody></table>
-<script src="/resources/azura/src/require.js" type="text/javascript"></script>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+    margin-bottom: -17px;
+    margin-left: -2px;
+"><tr>
+<td class="leftCategoriesTD categoryLevel_1">
+<a href="/items_402.html" class="leftNavigationHighLightText categoryCode_967" title="Graduation Jewelry Gifts">Graduation Jewelry Gifts</a>
+</td>
+</tr>
+</table> -->
 <script type="text/javascript">
-    window.evesScriptsUrl = '//www.evesaddiction.com/resources/picviewer-uploader';
-    window.evesUploaderUrl = '//pliny.centerbrooksales.com/uploader';
-</script>
+    $(document).ready(function() {
+      $('.salePrice').each(function (idx, el) { var $el = $(el); if($el.html()=='$.00') {$el.siblings('strike').css('text-decoration', 'none'); $el.hide();} });
+    });
+</script>&nbsp;
 <script type="text/javascript" src="/resources/picviewer-uploader/basket.js?v=1.3"></script>
-
 <script type="text/javascript" src="/scripts/jquery.cookie.js"></script>
-<script type="text/javascript" src="/scripts/topbanner.js?v=1"></script>
+<script type="text/javascript" src="/scripts/topbanner-1.0.0.min.js"></script>
+<script type="text/javascript">
+require(['topbanner', 'refcode'], function (Topbanner, RefCode) {
+    var topbanner = new Topbanner(),
+        refcode = new RefCode();
+});
+</script>
+<script type="text/javascript">
+$(function() {if ( document.location.href.indexOf('utm_source=newsletter1635') > -1 ) {$(".itemListProduct:contains('Tiffany Inspired Strand of Diamonds Sterling Silver CZ Necklace')").attr( "id", "neckid");$("#neckid").html("<a href='/detail_NLZ10384__670__Sterling_Silver_CZ_Heart_Journey_Pendant.html' title='Sterling Silver CZ Heart Journey Pendant'><img src='/catImages/nlz10384.jpg' border='0' alt='Sterling Silver CZ Heart Journey Pendant'><br>Sterling Silver CZ Heart Journey Pendant<br><br>DETAILS</a><br><br><span class='itemListPriceLabel'></span><span class='itemListRegPrice'>$36</span><br><span class='itemListSalePrice'></span><a>");}});
+</script>
     </td>
   </tr>
   <tr>
@@ -380,16 +292,16 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
 
 <tr>
 <td class="leftCategoriesTD categoryLevel_1">
-        <a href="/items_678__Shop_By_Collection.html" class="leftNavigationHighLightText categoryCode_999" title="More Collections">More Collections</a></tr>
+        <a href="/items_678.html" class="leftNavigationHighLightText categoryCode_999" title="More Collections">More Collections</a></tr>
 
 <td class="leftCategoriesTD categoryLevel_1">
-        <a href="/category_646__Shop_By_Color.html" class="leftNavigationHighLightText categoryCode_999" title="Shop By Color">Shop By Color</a></tr><tr>
+        <a href="/category_646.html" class="leftNavigationHighLightText categoryCode_999" title="Shop By Color">Shop By Color</a></tr><tr>
 <td class="leftCategoriesTD categoryLevel_1">
-        <a href="/category_390__Gift_Center.html" class="leftNavigationHighLightText categoryCode_999" title="Gift Giving Guide">Gift Ideas</a></td>
+        <a href="/category_390.html" class="leftNavigationHighLightText categoryCode_999" title="Gift Giving Guide">Gift Ideas</a></td>
 		<tr>
 		  <td class="leftCategoriesTD categoryLevel_1"> </td>
 	    <tr>
-		  <td class="leftCategoriesTD categoryLevel_1"><div align="center"><a href="http://www.evesaddiction.com/category_692.html"></a></div></td>
+		  <td class="leftCategoriesTD categoryLevel_1"><div align="center"><a href="/category_692.html"></a></div></td>
 	    </noscript><table class="automatedCategoryTable" border="0" cellpadding="2" cellspacing="0" width="100%">
         
 <!--
@@ -411,7 +323,7 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
 
     <tbody><tr>
       <td class="leftCategoriesTD categoryLevel_1">
-        <a href="items_724__Latest_Silver_Jewelry_Trends.html" class="leftNavigationHighLightText categoryCode_724" title="Latest Silver Jewelry Trends">Latest Trends</a>
+        <a href="items_724__Latest_Silver_Jewelry_Trends.html" class="leftNavigationHighLightText categoryCode_724" title="Latest Jewelry Trends">Latest Trends</a>
       </td>
     </tr>
 
@@ -423,7 +335,7 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
 
     <tr>
       <td class="leftCategoriesTD categoryLevel_1">
-        <a href="category_737__Birthstone_Jewelry.html" class="leftNavigationHighLightText categoryCode_737" title="Birthstone Jewelry">Birthstone Jewelry</a>
+        <a href="category_737__Birthstone_Jewelry.html" class="leftNavigationHighLightText categoryCode_737" title="Custom Birthstone Jewelry">Birthstone Jewelry</a>
       </td>
     </tr>
 
@@ -465,7 +377,7 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
 
     <tr>
       <td class="leftCategoriesTD categoryLevel_1">
-        <a href="items_428__Sale_Jewelry.html" class="leftNavigationHighLightText categoryCode_428" title="Summer Jewelry Sale">Summer Sale</a>
+        <a href="items_428__Sale_Jewelry.html" class="leftNavigationHighLightText categoryCode_428" title="Sterling Silver Jewelry Sale">Winter Sale</a>
       </td>
     </tr>
 
@@ -483,7 +395,7 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
 
     <tr>
       <td class="leftCategoriesTD categoryLevel_1">
-        <a href="category_165__Rings.html" class="leftNavigationHighLightText categoryCode_165" title="Sterling Silver Rings">Rings</a>
+        <a href="category_165__Rings.html" class="leftNavigationHighLightText categoryCode_165" title="Rings">Rings</a>
       </td>
     </tr>
 
@@ -495,13 +407,13 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
 
     <tr>
       <td class="leftCategoriesTD categoryLevel_1">
-        <a href="category_212__Necklaces_Pendants.html" class="leftNavigationHighLightText categoryCode_212" title="Sterling Silver Necklaces">Necklaces &amp; Pendants</a>
+        <a href="category_212__Necklaces_Pendants.html" class="leftNavigationHighLightText categoryCode_212" title="Necklaces &amp; Pendants">Necklaces &amp; Pendants</a>
       </td>
     </tr>
 
     <tr>
       <td class="leftCategoriesTD categoryLevel_1">
-        <a href="category_140__Bracelets.html" class="leftNavigationHighLightText categoryCode_140" title="Sterling Silver Bracelets">Bracelets</a>
+        <a href="category_140__Bracelets.html" class="leftNavigationHighLightText categoryCode_140" title="Eve's Addiction Bracelet">Bracelets</a>
       </td>
     </tr>
 
@@ -549,7 +461,7 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
 
     <tr>
       <td class="leftCategoriesTD categoryLevel_1">
-        <a href="category_437__Tiffany_Style_Jewelry.html" class="leftNavigationHighLightText categoryCode_437" title="Tiffany Style Jewelry">Tiffany Style Jewelry</a>
+        <a href="category_437__Tiffany_Style_Jewelry.html" class="leftNavigationHighLightText categoryCode_437" title="Tiffany Inspired Jewelry">Tiffany Style Jewelry</a>
       </td>
     </tr>
 
@@ -621,12 +533,6 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
 
     <tr>
       <td class="leftCategoriesTD categoryLevel_1">
-        <a href="items_426__Brooches_Pins.html" class="leftNavigationHighLightText categoryCode_426" title="Brooches &amp; Pins">Brooches &amp; Pins</a>
-      </td>
-    </tr>
-
-    <tr>
-      <td class="leftCategoriesTD categoryLevel_1">
         <a href="items_424__Toe_Rings.html" class="leftNavigationHighLightText categoryCode_424" title="Toe Rings">Toe Rings</a>
       </td>
     </tr>
@@ -636,23 +542,19 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
 
 	<tr>
       <td class="leftCategoriesTD categoryLevel_1">
-        <a href="/category_730__Personalized_Jewelry.html" class="leftNavigationHighLightText categoryCode_430" title="Personalized Jewelry">Personalized Jewelry</a></td>
-    </tr>   
-    <tr>
-      <td class="leftCategoriesTD categoryLevel_1">
-        <a href="/category_635__Pearl_Jewelry.html" class="leftNavigationHighLightText categoryCode_430" title="Pearl Jewelry">Pearl Jewelry</a></td>
+        <a href="/category_635.html" class="leftNavigationHighLightText categoryCode_430" title="Pearl Jewelry">Pearl Jewelry</a></td>
     </tr>
     	<tr>
       <td class="leftCategoriesTD categoryLevel_1">
-        <a href="/category_778__Movie_Jewelry.html" class="leftNavigationHighLightText categoryCode_430" title="Movie Jewelry">Movie Jewelry</a></td>
+        <a href="/category_778.html" class="leftNavigationHighLightText categoryCode_430" title="Movie Jewelry">Movie Jewelry</a></td>
     </tr>
     <tr>
       <td class="leftCategoriesTD categoryLevel_1">
-        <a href="/category_818__Disney_Jewelry.html" class="leftNavigationHighLightText categoryCode_430" title="Disney Jewelry">Disney Jewelry</a></td>
+        <a href="/items_818.html" class="leftNavigationHighLightText categoryCode_430" title="Disney Jewelry">Disney Jewelry</a></td>
     </tr>   
 	<tr>
       <td class="leftCategoriesTD categoryLevel_1">
-        <a href="/items_429__Clearance_Sale.html" class="leftNavigationHighLightText categoryCode_429_2" title="Clearance Sale">Clearance Sale</a></td>
+        <a href="/items_429.html" class="leftNavigationHighLightText categoryCode_429_2" title="Clearance Sale">Clearance Sale</a></td>
     </tr>
 	
 	
@@ -683,70 +585,69 @@ display:none;
 <!-- <img src="/images/spacer.gif" width="1" height="10" /><br> -->
 <form method="post"><select name="" class="navselect" onchange="jumpPage(this)">
 <option value="" selected="selected">More Collections</option>
-<option value="/category_920__Amber_Jewelry.html">Amber Jewelry</option>
-<option value="/category_610__Bali_Jewelry.html">Bali Jewelry</option>
-<option value="/items_858__Black_Hills_Gold_Jewelry.html">Black Hills Gold Jewelry</option>
-<option value="/category_426__Brooches_and_Pins.html">Brooches &amp; Pins</option>
-<option value="/category_836__Couples_Jewelry.html">Couples Jewelry</option>
-<option value="/category_669__Cubic_zirconia_Jewelry.html">CZ Cubic Zirconia Jewelry</option>
-<option value="/category_573__Celebrity_Jewelry.html">Celebrity Jewelry</option>
-<option value="/items_563__Dog_Tag_Necklaces.html">Dog Tag Jewelry</option>
-<option value="/category_919__Drusy_Jewelry.html">Drusy Jewelry</option>
-<option value="/items_691__Equestrian_Jewelry.html">Equestrian Jewelry</option>
-<option value="/items_901__Fashion_Jewelry.html">Fashion Jewelry</option>
-<option value="/items_522__Fleur_De_Lis_Jewelry.html">Fleur De Lis Jewelry</option>
-<option value="/category_685__Gold_Jewelry.html">Gold Jewelry</option>
-<option value="/items_523__Heart_Jewelry.html">Heart Jewelry</option>
-<option value="/category_918__Infinity_Jewelry.html">Infinity Jewelry</option>
-<option value="/items_306__Initials_Numbers.html">Initials &amp; Numbers</option>
-<option value="/items_581__Irish_Celtic_Jewelry.html">Irish Celtic Jewelry</option>
-<option value="/items_524__Journey_Jewelry.html">Journey Jewelry</option>
-<option value="/category_911__Medical_ID_Jewelry.html">Medical ID Jewelry</option>
-<option value="/items_584__Murano_Venetian_Glass_Jewelry.html">Murano Glass Jewelry</option>
-<option value="/category_622__Nature_jewelry.html">Nature Jewelry</option>
-<option value="/items_580__Nautical_Jewelry.html">Nautical Jewelry</option>
-<option value="/items_526__Peace_Jewelry.html">Peace Jewelry</option>
-<option value="/category_635__Pearl_Jewelry.html">Pearl Jewelry</option>
-<option value="/category_641__Religious_Jewelry.html">Religious Jewelry</option>
-<option value="/category_934__All_Rose_Gold_Jewelry.html">Rose Gold Jewelry</option>
-<option value="/items_854__Serenity_Prayer_Jewelry.html">Serenity Prayer Jewelry</option>
-<option value="/items_525__Skull_Jewelry.html">Skull Jewelry</option>
-<option value="/items_727__Sorority_Jewelry.html">Sorority Jewelry</option>
-<option value="/items_512__Toe_Rings.html">Toe Rings</option>
-<option value="/items_807__Turquoise_Jewelry.html">Turquoise Jewelry</option>
-<option value="/items_511__Vintage_Jewelry.html">Vintage Jewelry</option>
-<option value="/category_660__Shop_By_Material.html">Shop By Material</option>
-<option value="/category_320__Shop_By_Department.html">Shop By Department</option>
+<option value="/items_920.html">Amber Jewelry</option>
+<option value="/category_610.html">Bali Jewelry</option>
+<option value="/items_858.html">Black Hills Gold Jewelry</option>
+<option value="/items_836.html">Couples Jewelry</option>
+<option value="/category_669.html">CZ Cubic Zirconia Jewelry</option>
+<option value="/category_573.html">Celebrity Jewelry</option>
+<option value="/items_563.html">Dog Tag Jewelry</option>
+<option value="/items_919.html">Drusy Jewelry</option>
+<option value="/items_691.html">Equestrian Jewelry</option>
+<option value="/items_901.html">Fashion Jewelry</option>
+<option value="/items_522.html">Fleur De Lis Jewelry</option>
+<option value="/category_685.html">Gold Jewelry</option>
+<option value="/items_523.html">Heart Jewelry</option>
+<option value="/items_918.html">Infinity Jewelry</option>
+<option value="/items_306.html">Initials &amp; Numbers</option>
+<option value="/items_581.html">Irish Celtic Jewelry</option>
+<option value="/items_524.html">Journey Jewelry</option>
+<option value="/items_911.html">Medical ID Jewelry</option>
+<option value="/items_584.html">Murano Glass Jewelry</option>
+<option value="/category_622.html">Nature Jewelry</option>
+<option value="/items_580.html">Nautical Jewelry</option>
+<option value="/items_526.html">Peace Jewelry</option>
+<option value="/category_635.html">Pearl Jewelry</option>
+<option value="/category_641.html">Religious Jewelry</option>
+<option value="/items_934.html">Rose Gold Jewelry</option>
+<option value="/items_854.html">Serenity Prayer Jewelry</option>
+<option value="/items_525.html">Skull Jewelry</option>
+<option value="/category_727.html">Sorority Jewelry</option>
+<option value="/items_512.html">Toe Rings</option>
+<option value="/items_807.html">Turquoise Jewelry</option>
+<option value="/items_511.html">Vintage Jewelry</option>
+<option value="/category_660.html">Shop By Material</option>
+<option value="/category_320.html">Shop By Department</option>
 </select></form>
 <br><br>
 
 <form method="post"><select name="" class="navselect" onchange="jumpPage(this)">
 <option value="" selected="selected">Shop By Color</option>
-<option value="/items_652__Purple_Jewelry.html">Purple Jewelry</option>
-<option value="/items_647__Black_and_Onyx_Jewelry.html">Black and Onyx Jewelry</option>
-<option value="/items_648__Blue_Jewelry.html">Blue Jewelry</option>
-<option value="/items_654__Yellow_Jewelry.html">Yellow Jewelry</option>
-<option value="/items_649__Champagne_Jewelry.html">Champagne Jewelry</option>
-<option value="/items_653__Red_Jewelry.html">Red Jewelry</option>
-<option value="/items_650__Green_Jewelry.html">Green Jewelry</option>
-<option value="/items_651__Pink_Jewelry.html">Pink Jewelry</option>
+<option value="/items_652.html">Purple Jewelry</option>
+<option value="/items_647.html">Black and Onyx Jewelry</option>
+<option value="/items_648.html">Blue Jewelry</option>
+<option value="/items_654.html">Yellow Jewelry</option>
+<option value="/items_649.html">Champagne Jewelry</option>
+<option value="/items_653.html">Red Jewelry</option>
+<option value="/items_650.html">Green Jewelry</option>
+<option value="/items_651.html">Pink Jewelry</option>
 </select></form>
 <br><br>
 
 <form method="post"><select name="" class="navselect" onchange="jumpPage(this)">
 <option value="" selected="selected">Gift Ideas</option>
-<option value="/category_390__Gift_Center.html">Shopping Guide</option>
-<option value="/items_396__Gift_Packaging_Options.html">Gift Packaging Options</option>
-<option value="/items_394__Gifts_Under_30.html">Gifts Under $30</option>
-<option value="/items_517__Gifts_30_50.html">Gifts $30 - $50</option>
-<option value="/items_518__Gifts_50_75.html">Gifts $50 - $75</option>
-<option value="/items_519__Gifts_75_100.html">Gifts $75 - $100</option>
-<option value="/items_547__Gifts_over_100.html">Gifts over $100</option>
-<option value="/category_397__Shop_By_Occasion.html">Shop By Occasion</option>
-<option value="/items_589__Gift_Certificates.html">Gift Certificates</option>
-<option value="/items_590__Gift_Sets.html">Gift Sets</option>
-<option value="/items_548__Top_20_Gifts.html">Top 20 Gifts</option>
-<option value="/items_391__Gift_Giving_Guide.html">Gift Giving Guide</option>
+<option value="/category_390.html">Shopping Guide</option>
+<option value="/items_396.html">Gift Packaging Options</option>
+<option value="/items_394.html">Gifts Under $30</option>
+<option value="/items_517.html">Gifts $30 - $50</option>
+<option value="/items_518.html">Gifts $50 - $75</option>
+<option value="/items_519.html">Gifts $75 - $100</option>
+<option value="/items_547.html">Gifts over $100</option>
+<option value="/category_397.html">Shop By Occasion</option>
+<option value="/items_589.html">Gift Certificates</option>
+<option value="/items_590.html">Gift Sets</option>
+<option value="/items_548.html">Top 20 Gifts</option>
+<option value="/items_391.html">Gift Giving Guide</option>
 </select></form><br> <br>
 </div></td></tr>
 
@@ -762,22 +663,20 @@ display:none;
     </tr>
 	</tbody></table>
 
-			
-
             <div class="leftnavbig5"><span style="font-size: 8pt; color: #40446f;">
 <p align="center"><a href="/catalogRequest.jsp"><img title="Sign Up For Our Free Catalog" src="/images/catalog_signup_2011_12_02.jpg" border="0" alt="Sign Up For Our Free Catalog" width="123" height="87"></a></p>
-<p align="center"><a href="/freegift.html"><img title="Free Gift on Orders Over $125" src="/images/freegift_erz10750_small.jpg" border="0" alt="Free Gift on Orders Over $125" width="150" height="60"></a><br> <a href="/category_692__Oriana_Bead_Bracelet_Compatible_Pandora_Chamilia.html"><img title="Pandora Charms Compatible" src="/images/oriana-bead-pandora-compatible.jpg" border="0" alt="Pandora Charms Compatible" width="150" height="100"></a></p>
+<p align="center"><a href="/freegift.html"><img title="Free Gift on Orders Over $125" src="/images/freegift_erz10750_small.jpg" border="0" alt="Free Gift on Orders Over $125" width="150" height="60"></a><br> <a href="/category_692.html"><img title="Pandora Charms Compatible" src="/images/oriana-bead-pandora-compatible.jpg" border="0" alt="Pandora Charms Compatible" width="150" height="100"></a></p>
 </span></div>
 <div class="leftnavbig5"><span style="font-size: 8pt; color: #40446f;">Silver Jewelry</span></div>
-<div><a class="leftnav2" title="Sterling Silver Brooches And Pins" href="/category_426__Brooches_and_Pins.html">• Silver Brooches &amp; Pins</a></div>
+
 <div><a class="leftnav2" title="Silver Jewelry" href="/sterling-silver-jewelry.html">• Silver Jewelry</a></div>
 <div class="leftnavbig5"><span style="font-size: 8pt; color: #40446f;">Special Day Jewelry</span></div>
-<div><a class="leftnav2" title="Mothers Day Jewelry" href="/items_400__Mothers_Day_Gifts.html">• Mothers Day Jewelry</a></div>
-<div><a class="leftnav2" title="Christmas Jewelry" href="/items_398__Christmas_Jewelry.html">• Christmas Jewelry</a></div>
-<div><a class="leftnav2" title="Graduation Gifts" href="/items_402__Graduation_Gifts.html">• Graduation Gifts</a></div>
-<div><a class="leftnav2" title="Valentines Day Jewelry" href="/items_401__Valentines_Day_Gifts.html">• Valentines Day Jewelry</a></div>
-<div><a class="leftnav2" title="Prom Jewelry" href="/items_403__Prom_Jewelry.html">• Prom Jewelry</a></div>
-<div><a class="leftnav2" title="Anniversary Jewelry" href="/items_406__Anniversary_Gifts.html">• Anniversary Jewelry</a></div>
+<div><a class="leftnav2" title="Mothers Day Jewelry" href="/items_400.html">• Mothers Day Jewelry</a></div>
+<div><a class="leftnav2" title="Christmas Jewelry" href="/items_398.html">• Christmas Jewelry</a></div>
+<div><a class="leftnav2" title="Graduation Gifts" href="/items_402.html">• Graduation Gifts</a></div>
+<div><a class="leftnav2" title="Valentines Day Jewelry" href="/items_401.html">• Valentines Day Jewelry</a></div>
+<div><a class="leftnav2" title="Prom Jewelry" href="/items_403.html">• Prom Jewelry</a></div>
+<div><a class="leftnav2" title="Anniversary Jewelry" href="/items_406.html">• Anniversary Jewelry</a></div>
 <div class="leftnavbig5"><span style="font-size: 8pt; color: #40446f;">Why buy from Eve?</span></div>
 <div><a class="leftnav2" title="Free Shipping" href="/freeshipping.html">• FREE USA Shipping!</a></div>
 <div><a class="leftnav2" title="30 Day Money Back Guarantee" href="/returnpolicy.html">• Money Back Guarantee </a></div>
@@ -794,12 +693,12 @@ display:none;
 
   <div class="leftnav2">
     <center>
-      <a title="Click for the Business Review of EvesAddiction.com, a Jewelers - Retail in Deep River CT" href="http://www.bbb.org/connecticut/business-reviews/jewelers-retail/evesaddictioncom-in-deep-river-ct-84001742#sealclick"><img style="border: 0;" src="images/blue-seal-63-134-evesaddictioncom-84001742.png" alt="EvesAddiction.com is a BBB Accredited Business. Click for the BBB Business Review of this Jewelers - Retail in Deep River CT" width="63" height="134"></a>
+      <a target="_blank" title="Click for the Business Review of EvesAddiction.com, a Jewelers - Retail in Deep River CT" href="http://www.bbb.org/connecticut/business-reviews/jewelers-retail/evesaddictioncom-in-deep-river-ct-84001742#sealclick"><img style="border: 0;" src="images/blue-seal-63-134-evesaddictioncom-84001742.png" alt="EvesAddiction.com is a BBB Accredited Business. Click for the BBB Business Review of this Jewelers - Retail in Deep River CT" width="63" height="134"></a>
       <table title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications." border="0" cellspacing="0" cellpadding="2" width="135">
         <tbody>
         <tr>
           <td width="135" align="center" valign="top">
-            <script src="https://seal.verisign.com/getseal?host_name=www.evesaddiction.com&amp;size=L&amp;use_flash=NO&amp;use_transparent=NO〈=en" type="text/javascript"></script>
+            <script src="https://seal.verisign.com/getseal?host_name=www.evesaddiction.com&amp;size=L&amp;use_flash=NO&amp;use_transparent=NO=en" type="text/javascript"></script>
             <br> <a style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;" href="http://www.verisign.com/ssl-certificate/" target="_blank">ABOUT SSL CERTIFICATES</a></td>
         </tr>
         </tbody>
@@ -807,18 +706,17 @@ display:none;
     </center>
   </div>
 </div>
-
             </td>
             <td bgcolor="#a2a8c2" width="1">
               <img width="1" height="1" src="/images/spacer.gif">
             </td>
             <td valign="top" width="615" class="mainContentTD page_content page_contentdefault">
-                  
+              
+    
 		
 		
 
         
-
 
 
 
@@ -855,6 +753,9 @@ display:none;
 </tr>
 </tbody>
 </table>
+
+
+
 
 
 
@@ -931,7 +832,7 @@ End Promotion Disclaimer-->
                   <td>EvesAddiction.com - Exquisite Sterling Silver Jewelry Orders: 800-679-3837 or 860-526-3335</td>
                 </tr>
                 <tr>
-                  <td><span style="font-size: small;">©2013 Eve's Addiction</span></td>
+                  <td><span style="font-size: small;">©2014 Eve's Addiction</span></td>
                 </tr>
               </tbody></table>
             </td>
@@ -941,6 +842,7 @@ End Promotion Disclaimer-->
     </td>
   </tr>
 </tbody></table>
+
 
 
 <!-- BEGIN Invitation Positioning  -->
@@ -958,20 +860,22 @@ var lpPosY = 100;
 
 
 
-<script type="text/javascript">
+
+	<script type="text/javascript">
 var _gaq = _gaq || []; 
+_gaq.push(['_require', 'inpage_linkid', '//www.google-analytics.com/plugins/ga/inpage_linkid.js']);
 _gaq.push(['_setAccount', 'UA-216431-1']);
 _gaq.push(['_trackPageview']);
 (function() {
 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
-ga.src = 'http://www.google-analytics.com/ga.js'
+ga.src = 'http://stats.g.doubleclick.net/dc.js'
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
 </script>
 
 
+		
 
-  
   
   
 
@@ -1022,10 +926,50 @@ var google_conversion_value = 0;
   // -->
   </script><script language="JavaScript" type="text/javascript" src="//srv2.wa.marketingsolutions.yahoo.com/script/ScriptServlet?aid=1DFQFHVJKHD06EIEVDC888U90C4"></script>
   <!--Yahoo Tracking-->
-      
 
 
 
+	<!-- Get store attributes from admin -->
+	
+		<!-- Get store attributes from admin -->
+		
+				
+		
+		
+				
+		
+		
+		
+		
+		
+		
+		<!-- Get product id -->
+		
+		
+		<!--Begin: Google Trusted Store -->
+<script type="text/javascript">
+var gts = gts || [];
+gts.push(["id", "26909"]);
+gts.push(["google_base_subaccount_id", "78501"]);
+gts.push(["google_base_country", "US"]);
+gts.push(["google_base_language", "en"]);
+(function() {
+var scheme = (("https:" == document.location.protocol) ? "https://" : "http://");
+var gts = document.createElement("script");
+gts.type = "text/javascript";
+gts.async = true;
+gts.src = scheme + "www.googlecommerce.com/trustedstores/gtmp_compiled.js";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(gts, s);
+})();
+</script>
+<!-- End Google Trusted Store -->
+
+		
+		
+							
+		
+	
 
 
 
