@@ -1,59 +1,65 @@
-> *The following text is extracted and transformed from the contractiq.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023124029id_/http%3A//contractiq.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contractiq.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213154248id_/https%3A//contractiq.com/privacy-policy) for the most accurate reproduction.*
 
-# ContractIQ
+# Privacy Policy
 
-Your privacy, and the privacy of all registered users of web sites that are part of the ContractIQ service, is important to us. Accordingly, we have adopted the following privacy policy. Our policy is based on the principles of notice, choice, access and security in the collection and use of all information regarding our users and their activities at our site. 
+This Privacy Policy is effective immediately for current users and users registering after September 23, 2013.
 
-#### 1\. Notice
+This Privacy Policy describes our policies on the collection, use, and disclosure of your information in connection with your use of our websites, emails, and mobile applications ("Site"). The terms "we", "us", and "ContractIQ" refer to ContractIQ Inc., a Delaware corporation. When you use the Site, you consent to our collection, use, and disclosure of your information as described in this Privacy Policy.
 
-This policy tells you, among other things, what information we gather from you, how we may use or disclose that information and our efforts to protect it. Please read this policy carefully, and feel free to contact us at [info@ContractIQ.com](mailto:info@ContractIQ.com) if you have any questions regarding its contents. 
+**1\. INFORMATION YOU SUBMIT**  
+We may store the information you submit to or through the Site. We use the information to fulfill your requests, provide Site functionality, improve Site quality, personalize the user experience, display relevant advertising, provide customer support, message you, back up our systems, allow for disaster recovery, and comply with legal obligations. Among the information you submit to or through the Site, please note:
 
-#### Types of Information Collected
-
-In connection with your use of our site, we ask for and may collect a variety of information from and about you in different ways. For example, when you register to use our site, we ask for and store your and/or your business' name, address, email address and other identifying contact data. In addition, our web servers automatically collect the IP addresses from which you accessed the site. We may also collect the information you disclose in any of our scorecards, IQ Profile, CustomerIQ, chat rooms, discussion groups, and bulletin boards. 
-
-#### Use of Cookies
-
-Use of our site requires that you accept the use of cookies, which are small data files that our Web site sends to your browser for storage on your computer's hard drive. We use cookies to protect confidential data, track activity at our site and better serve your needs and interests. 
-
-#### Use of Information
-
-We use your personally identifying information to identify you as a user of the site, to improve your service and to improve your experience with the site. We may use your email address to contact you directly regarding services or products that we believe may be of interest to you. We may also associate your personally identifying information with information we collect about your preferences and activities at the site, such as the particular pages you request at the site and purchases or other transactions you effect through the site. We may vary the content you receive in future visits to the site based on your preferences and activities. 
-
-We may combine your personally identifying information, and information about your preferences and activities, with those of all or a particular group of our users to prepare collective profiles of our users and their activities. For example, we may track the number of our users who view certain pages or use certain features or compile the total dollar amount of sales conducted through our site in a particular geographic region. Such information, and other information we derive from individual users' information, allows us to continue to grow and provide you with quality fellow users through more accurate marketing and advertising of our Web site. 
-
-For the avoidance of doubt, nothing in this Privacy Policy shall limit the right in Submissions that you provide to ContractIQ, as "Submissions" and rights therein are defined in the [Web Site Terms and Conditions of Use](https://web.archive.org/web/20121023124029id_/http%3A//contractiq.com/TOS). 
-
-#### Disclosure of Information
-
-We may provide your personally identifying information, and information about your activities and preferences, to other companies wishing to contact you about products or services, but only to those that we believe impose reasonable safeguards on the privacy of your information. We may also provide these companies with collective profiles of our user groups and their activities and preferences. Such collective profiles may also be disclosed in describing our site and services to prospective partners, advertisers and other third parties, and for other lawful purposes. 
-
-Finally, we may disclose information to fulfill certain legal and regulatory requirements or if we believe, in good faith, that such disclosure is legally required or necessary to protect others' rights or to prevent harm. 
-
-  
+  1. Account Registration: You must provide a valid email address in order to sign up for an Account on the Site. In addition, you may provide us with your full name, mobile number, company name and location. When you sign up for a ContractIQ account, we opt you in to receive emails from other ContractIQ users, business owners and ContractIQ by default. Note that you cannot opt out of receiving required administrative or legal notices. ContractIQ is a site where the work of interesting third parties, sourced through publicly available information sources and users are displayed. Where the work (content) is originally created by you, you could claim the work by registering for a ContractIQ Account, as a user. If you feel that an unauthorized account has been created depicting you or your likeness, you can request its removal by sending an email to info@contractiq.com.
+  2. Public Content: Your reviews, tips, image uploads, videos, feedback, status messages, conversations, comments, likes, message board posts, bookmarks, friends, lists, account profile (excluding passwords), and other content you post to the Site are meant for public consumption. We may display this content on the Site, and further distribute it to a wider audience through third party sites and services.
+  3. Contacts: You can invite your friends, colleagues and peers (collectively “friends”) to join the Site by providing their contact information, or by allowing us to use your address book from your computer, mobile device, or other sites. If you invite a friend to join and connect with you on the Site, we may use and store your friends' contact information long enough to process your requests.
+  4. Messaging: If you exchange messages with others through the Site, we may store these messages in order to deliver them and allow you to manage them.
+  5. Credit Card Purchases: If you purchase ContractIQ products or services, we may collect and store billing and credit card information. This information will only be shared with third parties who perform tasks required to complete the purchase transaction (such as fulfilling orders and processing credit card payments). When you submit credit card numbers, we encrypt that information using industry standard technology.
 
 
-#### 2\. Choice  
+
+For more information on controlling your personal data, please see Sections 4 and 5, below.
+
+**2\. COOKIES AND OTHER INFORMATION WE COLLECT**  
+In addition to the information you submit to or through the Site, we also collect and store information from and about you in the course of your use of the Site. We use this information to analyze and track user behavior, personalize your experience, associate it with other information about you, provide the functionality and improve the quality of the Site, help comply with legal obligations, and may use it to display relevant advertising. We collect this information in a couple of different ways:
+
+  1. Cookies: We may use cookies, web beacons, local shared objects (sometimes called "flash cookies"), and similar technology in connection with your use of the Site ("Cookies"). Cookies are small data files that may have unique identifiers, and reside, among other places, on your computer or mobile device, in emails we send to you, and on our web pages. Cookies may transmit information about you and your use of the Site, such as your browser type, search preferences, data relating to advertisements that have been displayed to you or that you have clicked on, and the date and time of your use. You can disable some (but not all) Cookies in your device or browser settings, but doing so may affect your ability to use the Site. 
+  2. Server Logs: Our servers log information about your use of the Site, such as your search activity, the pages you view, the date and time of your visit, and the businesses you call using our mobile applications. Our servers also log information that your computer or mobile device provides to us in connection with your use of the Site, such as your browser type, browser language, IP address, mobile carrier, unique device identifier, location, and requested and referring URLs.
 
 
-You may choose to restrict our use of your information to maintaining your account on the site, or prohibit our disclosure of your information to others, by contacting us and directing us to impose such limits. If you do not wish us to provide your information to third parties, or otherwise wish us to restrict the use or disclosure of your information, please send us an e-mail at [info@ContractIQ.com](mailto:info@ContractIQ.com). 
 
-In addition, we will not send unsolicited messages to users of our site who indicate that they do not wish to receive such messages. If you do not wish to receive unsolicited email messages from us, please contact us at [info@ContractIQ.com](mailto:info@ContractIQ.com). 
+**3\. THIRD PARTIES**  
+We do not rent, share, sell or trade personally identifiable information with third parties for their direct marketing purposes. That said, please note the following:
 
-#### 3\. Access  
+  1. Advertising and Third Party Cookies: We allow third parties who provide services relating to advertising to use Cookies, as defined above, in connection with your use of the Site. As a result, they may collect and store the same type of information and use it for the same type of purposes as described for ContractIQ above, and they may be able to associate the information they collect with other information they have about you from other sources. We do not necessarily have access to or control over the Cookies they use. Nevertheless, you may be able to opt-out of some of their practices by visiting the following links: Network Advertising Initiative, Omniture, Aperture, and PrivacyChoice. Please note that opting out does not prevent you from receiving advertisements.
+  2. Service Providers: Some of the services that are offered through the Site are provided by third party providers, like application development, consulting and the like. We also outsource some of our own functions to third party providers, such as technical and customer support, tracking and reporting functions, quality assurance testing, payment processing functions, and other services. We may share information from or about you with these third party providers so that they can perform their services or complete your requests.
+  3. Aggregate Information: We may share user information in the aggregate with third parties, such as advertisers and content distributors. For example, we may disclose the number of users that have been exposed to, or clicked on, advertisements.
+  4. Business Transfers: We may share information from or about you with subsidiaries, joint ventures, or other companies under common control, in which case we will require them to honor this Privacy Policy. If another company acquires ContractIQ or all or substantially all of our assets, that company will possess the same information, and will assume the rights and obligations with respect to that information as described in this Privacy Policy.
+  5. Investigations: We may investigate and disclose information from or about you if we have a good faith belief that such investigation or disclosure is (a) reasonably necessary to comply with legal process and law enforcement instructions and orders, such as a search warrant, subpoena, statute, judicial proceeding, or other legal process served on us; (b) helpful to prevent, investigate, or identify possible wrongdoing in connection with the Site; or (c) protect our rights, reputation, property, or that of our users affiliates, or the public.
+  6. Links: The Site may contain links to unaffiliated third party websites. Except as set forth herein, we do not share your personal information with them, and are not responsible for their privacy practices. We suggest you read the privacy policies on all such third party websites.
 
 
-At any time after you have logged on to our site, you may contact us at [info@ContractIQ.com](mailto:info@ContractIQ.com) to request access to information we have collected regarding you or your business or to notify us of changes to such information. If you request any such changes, we will contact you by email or fax to confirm those changes. Once confirmed, any new item of information will replace the corresponding information previously provided. 
 
-#### 4\. Security  
+**4\. CONTROLLING YOUR PERSONAL DATA**  
+Other users may be able to identify you, or associate you with your user account if you include personal information in your Public Content. You can reduce the risk of being personally identified by using the Site pseudonymously, though doing so could detract from the credibility of your contributions to the Site. Users can also use the Member Search feature to find one another based on their names or email addresses. You can opt-out of this feature by sending an email to info@contractiq.com
 
+Please also note that the messages you send or receive using the Site are only private to the extent that you and the sender/recipient keep them private. For example, we do not have any control over whether a recipient of one of your personal messages publicly posts it or its contents.
 
-We use industry-standard encryption methods to transmit your personal registration information from your computer to ours across the Internet, and we restrict access to any transactional portions of our site to computers running web browsers that support Secure Socket Layer ("SSL") protocol. To use this protection technology, you need to have an SSL-capable browser, such as Netscape Navigator 4.5 or higher, Microsoft Internet Explorer 4.5 or higher. These browsers will automatically activate the technology when you log on to our site. 
+**5\. DATA RETENTION AND ACCOUNT TERMINATION**  
+When logged into your account, you can remove or edit a review that you have posted to the Site by clicking on the respective links below the review. You can also terminate your personal account by sending an email to info@contractiq.com. If you terminate your account, we may continue to show some of your content in anonymized form. We may also keep personal information in our active systems for a period of 5 years (or longer if required by law) in order to ensure our ability to satisfy the authorized uses under this Privacy Policy. For example, we may use retained data to prevent, investigate, or identify possible wrongdoing in connection with the Site or to comply with legal obligations. Please also note that information may exist in backup storage even after it has been removed from our active databases. If you are terminating a business account, the personal information associated with your account will be removed according to the terms of this Policy. However your business listing will remain visible, including consumer reviews about your business.
 
-Please remember that you play a valuable part in security as well. Your password to access our site, which you select at registration, should never be shared with anyone and should be changed frequently. And, after you have finished using our site, you should log off and exit your browser so no unauthorized persons can use our site with your name and account information. Remember that any information you voluntarily disclose on-line in any news or message postings, scorecards, discussion groups or chat rooms may be collected and used by others without your permission. Furthermore, if you provide any information to parties who operate Web sites that are linked to or from our site, different rules may apply to their collection, use or disclosure of your personal information. We encourage you to review these sites' policies before revealing any sensitive or personal information. 
+We will respond to requests relating to personal data sent from within the European Union according to the procedures mandated by the member state from where the request is sent. You will receive a response to your request within 30 days.
 
-Regardless of the precautions taken by you or by us, "perfect security" does not exist on the Internet. We cannot ensure or warrant the security of any information you transmit to us, and you transmit such information at your own risk. 
+**6\. SECURITY**  
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet or via mobile device, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-#### Changes to Privacy Policy.
+**7\. DISPUTE RESOLUTION**  
+If you believe that ContractIQ has not adhered to this Privacy Policy you may write to the ContractIQ Privacy Officer at the following address:
 
-It may be necessary from time to time for us to modify this policy to reflect changes in the way we collect and use information or changes in privacy-related laws, regulations, and industry standards. Accordingly, we reserve the right to change this policy at any time by posting the revised policy on this web site. This policy was posted on December 29, 2011. Data will be handled in accordance with the policy in effect at the time the data is used, subject to the user's right to opt out of revisions to this policy implemented since the data was first collected. 
+ContractIQ Inc.  
+Attn: Privacy Officer  
+340 S LEMON AVE #5969  
+WALNUT, CA 91789  
+UNITED STATES
+
+**8\. MODIFICATIONS TO THIS PRIVACY POLICY**  
+We may revise this Privacy Policy from time to time. The most current version of the Privacy Policy will govern our use of your information and will be located here. If we make material changes to this Privacy Policy, we will notify you by email or by posting a notice on the Site prior to the effective date of the changes. By continuing to access or use the Site after those changes become effective, you agree to be bound by the revised Privacy Policy
