@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avanset.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817150337id_/http%3A//www.avanset.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avanset.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213221454id_/http%3A//www.avanset.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Company - Avanset
 
