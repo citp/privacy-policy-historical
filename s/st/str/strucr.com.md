@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the strucr.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509024640id_/https%3A//strucr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strucr.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213115410id_/https%3A//strucr.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Strucr.com
 
 ## 1\. General Information 
 
@@ -63,6 +63,8 @@
     Google will use this information on behalf of the operator of this website for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing them other services relating to website activity and internet usage.
 6.4.
     The IP-address, that your Browser conveys within the scope of Google Analytics, will not be associated with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. You can also opt-out from being tracked by Google Analytics with effect for the future by downloading and installing Google Analytics Opt-out Browser Add-on for your current web browser: <http://tools.google.com/dlpage/gaoptout?hl=en>.
+6.5.
+    As an alternative to the browser add-on or within browsers on mobile devices, you can click this link in order to opt-out from being tracked by Google Analytics within this website in the future. An opt-out cookie will be stored on your device, which means that you'll have to click this link again, if you delete your cookies.
 
 ## 7\. Google Double Click
 
@@ -105,16 +107,38 @@
 11.1.
     We are using the Visual Website Optimizer (a service of Wingify Software Private Limited, 404, Gopal Heights, Netaji Subhash Place, Pitam Pura, Delhi 110034, India), in order to improve the usability of our website. Visual Website Optimizer allows us to test how changes of our website (i.e. size of input forms, graphics, font sizes) are perceived by our users (so called "A/B-Testing").
 11.2.
-    Only for these testing purposes Visual Website Optimizer sets cookies on user's Devices. Visual Website Optimizer does not store IP address or any other personally identifable information. By the nature of its Service, Visual Website Optimizer will gather non-personally identifiable statistics about the usage of our website and store that information. Visual Website Optimizer will not share this website statistics without your consent.
+    Only for these testing purposes Visual Website Optimizer sets cookies on user's Devices. Visual Website Optimizer does not store IP address or any other personally identifiable information. By the nature of its Service, Visual Website Optimizer will gather non-personally identifiable statistics about the usage of our website and store that information. Visual Website Optimizer will not share this website statistics without your consent.
 11.3.
     For further information on the purpose and scope of data collection and procession by Visual Website Optimizer, as well as user's rights in this respect and settings options for protecting user's privacy please visit Visual Website Optimizer 's privacy policy: <http://visualwebsiteoptimizer.com/privacy-policy.php>.
 11.4.
     In case you (or your website visitors or users) want to opt out of tracking by Visual Website Optimizer anyway, please follow this link, clicking on which will exclude you from any kind of tracking by Visual Website Optimizer: <http://strucr.com/?vwo_opt_out=1>
 
-## 12\. Contact and Notices
+## 12\. Mouseflow
+
+12.1.
+    We are using "Mouseflow" an analysing tool by Mouseflow ApS, Skindergade 15, 1159 Copenhagen K, Denmark, [http://mouseflow.com](http://mouseflow.com/). Mouseflow provides us with reports regarding visitor interactions on our website, that may include for example: aggregate reports of clicking or mouse movement activity, aggregate reports of scrolling activity and recreation of visitor browsing sessions with heatmaps or videos. Additionally Mouseflow collects technical data, like language, operating system, screen resolution or browser client.
+12.2.
+    Mouseflow stores session information in cookies that are used to ensure accurate data is extracted from our systems. These cookies are temporary 1st party cookies (cookie will be deleted after users leave the website and cannot be shared across websites) and do not include any personal data.
+12.3.
+    Mouseflow does not collect personally identifiable data or creates user profiles. IP-addresses will be anonymized and the collected information will not be transferred to third parties. All the information we collect via Mouseflow has the solely purpose of improving the usability of our services. Please refer to Mouseflow's privacy policy for further information: <http://mouseflow.com/privacy>.
+12.4.
+    In case you want to opt out of tracking by Mouseflow anyway, please follow this link and click on „Disable Mouseflow“ which will exclude you from any kind of tracking by Mouseflow: <http://mouseflow.com/opt-out>.
+
+## 13\. Optimizely
+
+13.1.
+    We are using Optimizely ([https://www.optimizely.com](https://www.optimizely.com/), 631 Howard Street, Suite 100 San Francisco, CA 94105, USA), in order to improve the usability of our website. Optimizely allows us to test how changes of our website (i.e. size of input forms, graphics, font sizes) are perceived by our users (so called "A/B-Testing").
+13.2.
+    Only for these testing purposes Optimizely sets cookies on user's devices. Optimizely does not store IP address or any other personally identifiable information. By the nature of its Service, Optimizely will gather non-personally identifiable statistics about the usage of our website and store that information. Optimizely will not share this website statistics without your consent.
+13.3.
+    For further information on the purpose and scope of data collection and procession by Optimizely, as well as user's rights in this respect and settings options for protecting user's privacy please visit Optimizely's privacy policy: <http://www.optimizely.com/privacy>.
+13.4.
+    In case you want to opt out of tracking by Optimizely anyway, please follow this link, clicking on which will exclude you from any kind of tracking by Optimizely: <https://strucr.com/?optimizely_opt_out=true> (more information on the opt-out: <https://www.optimizely.com/opt_out>).
+
+## 14\. Contact and Notices
 
     In compliance with legal requirements we will at any time provide you with information on your personally identifiable data stored by us, free of charge and without undue delay. Furthermore, you are free to revoke the approvals granted by confirming this Privacy Policy, at any time and with future effect. If you wish to do so, please feel free to contact us.
 
-## 13\. Necessary Amendments
+## 15\. Necessary Amendments
 
     We reserve the right to modify or amend this Privacy Policy with view to the provision of new services, if and to the extent necessary. The same applies if the current Privacy Policy is found to contain any gaps. Upon such amendment, we will contact our Users by email sent to the email address provided to us.
