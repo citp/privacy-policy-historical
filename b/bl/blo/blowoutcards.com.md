@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blowoutcards.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807060946id_/http%3A//www.blowoutcards.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blowoutcards.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213123328id_/http%3A//www.blowoutcards.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy : Blowout Cards - Sports Cards and Trading Cards Wholesale Online Store
 
