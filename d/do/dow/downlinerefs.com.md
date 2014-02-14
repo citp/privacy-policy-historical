@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downlinerefs.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816053705id_/http%3A//www.downlinerefs.com/referrals/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downlinerefs.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214032127id_/http%3A//www.downlinerefs.com/referrals/privacy) for the most accurate reproduction.*
 
 # DownlineRefs.com
 
@@ -12,7 +12,7 @@ Most effort has been done to secure our database from unauthorized users. We wil
 |  |  • [**Log in**](http://www.downlinerefs.com/referrals/login)  
 • [Register](http://www.downlinerefs.com/referrals/register)[](http://www.buxhost.com/)  
   
-[](http://www.refundprotect.com/ "Refund protection")   
+  
 
 
 **Need help?**  
