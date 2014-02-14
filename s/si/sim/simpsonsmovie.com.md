@@ -1,151 +1,101 @@
-> *The following text is extracted and transformed from the simpsonsmovie.com privacy policy that was archived on 2000-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000603135904id_/http%3A//www.foxhome.com/foxhome.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpsonsmovie.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214092049id_/http%3A//www.foxconnect.com/privacy_policy) for the most accurate reproduction.*
 
-# FOX MOVIES PRIVACY POLICY
+# Privacy Policy
 
-**
+FoxPrivacy.com
 
-   
-WELCOME TO FOXHOME.COM
+Table of Contents:
 
-**
+  1. INTRODUCTION
+  2. COLLECTION OF INFORMATION 
+  3. USE AND DISCLOSURE
+  4. SECURITY
+  5. USER ACCESS AND CONTROL 
+  6. OTHER IMPORTANT INFORMATION 
+  7. CONTACT US 
 
-Foxhome.com, the Internet site located at [http://www.foxhome.com](http://www.foxhome.com/) (the "Site"), is operated and maintained by Twentieth Century Fox ("Fox"). This Privacy Policy describes Fox’s policies and procedures for the collection of personal information by this Site, and our use and dissemination such information. If you do not feel comfortable with Fox’s Privacy Policy, please do not use this Site or allow your children to use it. 
 
-This Privacy Policy consists of two sections. Section I describes Fox policies that apply to the collection, use and disclosure of personal information furnished to us by visitors to our Site who are age 13 and over. Section II describes the special additional policies Fox applies to the collection, use and disclosure of personal information about visitors to our Site who are under age 13. Parents should read both Sections to obtain a full understanding of Fox’s privacy policies and practices. 
 
-From time to time Fox may revise this Privacy Policy. Therefore you should review it periodically so that you are up to date on our policies and practices. If there is a material change in those policies or practices that relate to the collection, use or disclosure of children’s personal information, parents whose children have provided us with such information in the past will be notified. If you want to communicate with us about our Privacy Policy, please contact us at:
+## 1\. INTRODUCTION
 
-Fox Home Entertainment  
-Online Member Services  
-P.O. Box 900  
-2121-25  
-Beverly Hills, CA 90213-0900    
-Toll Free in US and Canada Phone: (877) 656-5849  
-International Callers: (310) 649-6546  
-Fax: (877) 312-5185  
-Email: [webmaster@registration.foxhome.com](mailto:webmaster@registration.foxhome.com)
+Twentieth Century Fox Home Entertainment LLC (“Fox” or “we”), wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications (“apps”), and widgets (collectively, the “Fox Services”). By using Fox Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies (“Company Affiliates”) is available at www.21cf.com.
 
-**_I. POLICIES THAT APPLY TO INDIVIDUALS AGE 13 AND OVER_**
+This Privacy Policy applies to all users, including both those who use the Fox Services without being registered with or subscribing to a Fox Service and those who have registered with or subscribed to a Fox Service. This Privacy Policy applies to Fox’s collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address). It also describes generally Fox’s practices for handling non-personal information (for example, interests, demographics and services usage).
 
- ******
+## 2\. COLLECTION OF INFORMATION
 
-COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION BY FOX
+Fox and our service providers may collect the following information from and about you:
 
-**
+Registration Information is the information you submit to register for a Fox Service, for example, to create an account, post comments, receive a newsletter, or enter a contest or sweepstakes. Registration Information may include, for example, name, email address, gender, zip code and birthday.
 
-**General.** Personally identifiable information about visitors to this Site (that is, information such as a visitor’s name, email address, mailing address, or telephone number) is collected only when knowingly and voluntarily submitted. Such information may be requested in connection with our sweepstakes, contests, games, surveys, forums, subscription registrations, content submissions, chats, bulletin boards, requests for suggestions, visitors’ requests for products or services, and visitors’ requests for additional information.
+Public Information and Posts consist of comments or content that you post to the Fox Services and the information about you that accompanies those posts or content, which may include a name, user name, comments, likes, status, profile information and picture. Public Information and Posts are always public, which means they are available to everyone and may be displayed in search results on external search engines.
 
-**Joint Collection of Personal Information.** Sometimes Fox collects personal information jointly with business partners or sponsors. The identity of the entities collecting personal information will be clear at the time your personal information is collected. A detailed description of shared use can also be found in the specific Terms of Use for this Site, and in the rules for sweepstakes and promotions. 
+Information from Social Media. If you access or log-in to a Fox Service through a social media service or connect a Fox Service to a social media service, the information we collect may also include your user ID and/or user name associated with that social media service, any information or content you have permitted the social media service to share with us, such as your profile picture, email address or friends lists, and any information you have made public in connection with that social media service. When you access the Fox Services through social media services or when you connect a Fox Service to social media services, you are authorizing Fox to collect, store, and use such information and content in accordance with this Privacy Policy.
 
-**
+Activity Information. When you access and interact with the Fox Services, we may collect certain information about those visits. For example, in order to permit your connection to the Fox Services, our servers receive and record information about your computer, device, and browser, including potentially your IP address, browser type, and other software or hardware information. If you access the Fox Services from a mobile or other device, we may collect a unique device identifier assigned to that device, geolocation data, or other transactional information for that device. At this time we do not respond to browser ‘Do Not Track’ signals, as we await the work of interested stakeholders and others to develop standards for how such signals should be interpreted.
 
-WHAT FOX DOES (AND DOESN’T DO) WITH THE PERSONAL INFORMATION WE COLLECT
+Cookies and other tracking technologies (such as browser cookies, pixels, beacons, and Adobe Flash technology including cookies) are comprised of small bits of data that often include a de-identified or anonymous unique identifier. Websites, apps and other services send this data to your browser when you first request a web page and then store the data on your device so the website can access information when you make subsequent requests for pages from that service. These technologies may also be used to collect and store information about your usage of the Fox Services, such as pages you have visited, content you have viewed, search queries you have run and advertisements you have seen.
 
-**
+Third parties that support the Fox Services by serving advertisements or providing services, such as allowing you to share content or tracking aggregate Fox Services usage statistics, may also use these technologies to collect similar information. Fox does not control these third-party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third-party advertising networks and similar entities that use these technologies, see www.aboutads.info/consumers, and to opt-out of such ad networks’ and services’ advertising practices, go to www.aboutads.info/choices.
 
-**General.** Fox uses personally identifiable information only for the purpose for which it is submitted unless we disclose other uses at the time of collection, in which case you will have the opportunity to instruct us not to use your data in other ways.
+Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information. Users can manage the use of Flash technologies, with the Flash management tools available at Adobe’s website, see http://www.adobe.com/products/flashplayer/security/privacy_policy/ faq.html. Please note that by blocking any or all cookies you may not have access to certain features, content or personalization available through the Fox Services.
 
- **Sharing Personal Information.** Fox may share personally identifiable information with other Fox companies or with some of our business partners who would like to send you information about their products or services. However, when we collect your information you will have the opportunity to instruct us not to share your information in these ways. 
+Information from Other Sources. We may supplement the information we collect with information from other sources, such as publicly available information from social media services, commercially available sources and information from our Company Affiliates or business partners.
 
-**LINKS/CO-BRANDED SITES**
+## 3\. USE AND DISCLOSURE
 
-Fox has established relationships with advertisers and reputable business partners that allow visitors to our Site to link directly to sites operated by these partners. Some of these sites may be "co-branded" with a Fox logo; however, they are not operated or maintained by Fox. These sites may collect personal information from you. This Privacy Policy will apply to any personal information we obtain in this manner from our partners. 
+We use the information we collect from and about you to provide the Fox Services and features to you, including: to measure and improve those Fox Services and features; to improve your experience with both online and off-line Fox Services by delivering content you will find relevant and interesting, including advertising and marketing messages; to allow you to comment on content, and participate in online games, contests, or rewards programs; to provide you with customer support and to respond to inquiries. When the information collected from or about you does not identify you as a specific person, we may use that information for any purpose or share it with third parties.
 
-Fox chooses its advertisers and business partners carefully. However, Fox is not responsible for the content or practices of Web sites operated by third parties that are linked to our Site. These links are meant for the user's convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by Fox of the content, policies or practices of such third party sites. We are not responsible for any information these sites may obtain and do not oversee their policies or practices in collecting personal information. Therefore, once you have left this Site via such a link, you should check the applicable privacy policy of the third party site. 
+We may use the information we collect from and about you for these additional purposes:
 
-This Site may also be linked to Web sites operated by companies affiliated with Fox. 
+To allow service providers to assist us in providing and managing the Fox Services. Fox may make your information available to certain third party service providers, such as contractors, agents or sponsors, who help us manage or provide the Fox Services.  
 
-Fox may share information collected by our affiliated companies; however this Privacy Policy will apply to any personal information we receive in this manner. Visitors to our affiliated sites should still refer to their separate privacy policies and practices when providing any personally identifiable information.
+To allow social sharing functionality. If you log in with or connect a social media service account with Fox Services, we may share your user name, picture, and likes, as well as your activities and comments with other users of that Fox Service and with your friends associated with your social media service. We may also share the same information with the social media service provider. By logging in with or connecting a Fox Service account with a social media service, you are authorizing us to share information we collect from and about you with the social media service provider, other users and your friends and you understand that the social media service’s use of the shared information will be governed by the social media service’s privacy policy. If you do not want your personal information shared in this way, please do not connect your social media service account with a Fox Service account and do not participate in social sharing on Fox Services.
 
- **
+To provide co-branded services and features. We may offer co-branded services or features, such as contests, sweepstakes or other promotions together with a third party (“Co-Branded Services”). These Co-Branded Services may be hosted on Fox Services or on the third party’s service. By virtue of these relationships, we may share the information you submit in connection with the Co-Branded Service with the third party. The third party’s use of your information will be governed by the third party’s privacy policy.
 
-NON-PERSONALLY IDENTIFIABLE INFORMATION
+To deliver relevant advertisements. Fox and our service providers may use the information we collect from and about you to deliver relevant ads to you when you use the Fox Services or another service. As noted above, third-party advertising networks and advertisers may use cookies and similar technologies to collect and track information such as demographic information, inferred interests, aggregated information, and activity to assist them in delivering advertising that is more relevant to your interests. To find out more about third-party advertising networks and similar entities that use these technologies, see www.aboutads.info, and to opt-out of such advertising networks’ and services’ advertising practices, go to www.aboutads.info/choices.
 
-**
+To contact you. Fox may periodically send promotional materials or notifications related to the Fox Services. If you want to stop receiving promotional materials, follow the unsubscribe instructions at the bottom of each email.  There are certain service notification emails that you may not opt-out of, such as notifications of changes to the Fox Services or policies. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.
 
-When visitors come to our Site, we collect and aggregate information indicating, among other things, which web pages were visited, the order in which they were visited, and which hyperlinks, if any, were "clicked" by the visitor. Collecting such information involves the logging of IP addresses, operating system (e.g., Windows or Macintosh), type of browser software (e.g., Netscape Navigator or Internet Explorer), and Internet service providers (e.g., AOL or Earthlink.net) used by each visitor to the Site. Although such information is not personally identifiable, it can be used to determine the IP address of the visitor’s Internet Service Provider and the geographic location of his or her point of connectivity to the Internet. 
+To share with our Company Affiliates. Fox may share your information with Company Affiliates for the purposes described in this Privacy Policy. A link to a website that lists Company Affiliates can be found at the beginning of this policy. Users who visit Company Affiliates’ services should still refer to their separate privacy policies, which may differ in some respects from this Privacy Policy.
 
-Cookies are small bits of information that our site places on the hard drive of your computer to enable us to do a number of things to make your visit and future visits to the site more enjoyable. For example, cookies allow a visitor to quickly log on to a site he/she has used before by storing a password. Cookies are not used to obtain information about a user that was not previously provided in a cookie. The cookie itself does not contain any personally identifiable information about a visitor, and Fox does not use cookies in order to obtain such information. Fox will never save credit card information in cookies. Cookies are used by most major sites of the Internet. Visitors may receive cookies from third parties, but Fox cannot control the content of these cookies. You should consult your browser owner’s manual for instructions on how to refuse cookies.
+To share with business partners. Fox may share your information with business partners to permit them to send you marketing communications consistent with your choices.
 
-Fox uses non-personally identifiable information and information obtained through the use of cookies in order to improve the Site. By tracking how many people visit our Site and where visitors go on our Site, we are able to determine which part of the Site users like the best, which part needs some improvement and what changes should be made. By obtaining this information, we are able to continually improve our Site and bring you the best online experience possible. Fox may also disclose some of non-personal information we obtain to advertisers to inform them of how many people have seen or linked to their advertisements on our Site. However, we will never disclose personally identifiable information to these advertisers.
+To protect the rights of Fox and others. There may be instances when Fox may disclose your information, including situations where Fox has a good faith belief that such disclosure is necessary in order to: (i) protect, enforce, or defend the legal rights, privacy, safety, or property of Fox, our Company Affiliates or their employees, agents and contractors (including enforcement of our agreements and our terms of use); (ii) protect the safety, privacy, and security of users of the Fox Services or members of the public; (iii) protect against fraud or for risk management purposes; (iv) comply with the law or legal process; or (v) respond to requests from public and government authorities. 
 
- **
+To complete a merger or sale of assets. If Fox sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, Fox may transfer your information to the party or parties involved in the transaction as part of that transaction.
 
-REVIEWING AND MAKING CHANGES TO PERSONALLY IDENTIFIABLE INFORMATION 
+## 4\. SECURITY
 
-**
+Fox uses commercially reasonable administrative, technical, personnel and physical measures to safeguard information in its possession against loss, theft and unauthorized use, disclosure or modification. However, no one can guarantee the complete safety of your information.  
 
-Visitors may review or delete personal information from our records at any time. 
+## 5\. USER ACCESS AND CONTROL
 
-If you would like your personal information deleted, please contact us at [remove@registration.foxhome.com](mailto:remove@registration.foxhome.com). We will immediately delete your information from our database and refrain from collecting any other personally identifiable information from you child, if you so request. However, there may be residual information that will remain within our databases that may or may not contain personally identifiable information. This residual information will not be given to any other third party or used for any commercial purpose.
+If you would like to access, review, correct, update, suppress, or otherwise limit our use of your personal information you have previously provided directly to us, you may contact us as outlined in Section 7. In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access, change, update, or suppress. We will try to comply with your request as soon as reasonably practicable.
 
-If you would like to review your personal information in our records, or change any personally identifiable information previously submitted, please contact us at [webmaster@registration.foxhome.com](mailto:webmaster@registration.foxhome.com).
+You may request that we not share your personal information on a going-forward basis with Company Affiliates or unaffiliated third parties for their direct marketing purposes by sending an email to californiaprivacy@foxcustomercare.com, with “Fox: Disclosure Opt-out” in the subject line. Please include your full name, email address, postal address and the relevant Fox Service in the body of the email. We will try to comply with your request(s) as soon as reasonably practicable.
 
-**
+## 6\. OTHER IMPORTANT INFORMATION
 
-SECURITY AND INTEGRITY OF PERSONAL INFORMATION
+Updates to Privacy Policy. Fox may modify this Privacy Policy. Please look at the Effective Date at the top of this Privacy Policy to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Fox Services.
 
-**
+Location of Data. The Fox Services are hosted in the United States. Your personal information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Fox Services you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than those of your country. This includes the use of cookies and other tracking technologies as described above. As a result, please read this Privacy Policy with care.
 
-Fox has established and maintains reasonable procedures to protect the confidentiality, security and integrity of personal information collected by this Site.
+Linked Services. The Fox Services may also be linked to sites operated by unaffiliated companies, and may carry advertisements or offer content, functionality, games, newsletters, contests or sweepstakes, or applications developed and maintained by unaffiliated companies. Fox is not responsible for the privacy practices of unaffiliated companies, and once you leave the Fox Services or click an advertisement you should check the applicable privacy policy of the other service.
 
-**_II. ADDITIONAL POLICIES THAT APPLY TO CHILDREN UNDER 13_**
+Collection of Personal Financial Information by a Payment Service. In some cases, we may use an unaffiliated payment service to allow you to purchase a product or make payments (“Payment Service”). If you wish to purchase a product or make a payment using a Payment Service, you will be directed to a Payment Service webpage. Any information that you provide to a Payment Service will be subject to the applicable Payment Service's privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, any Payment Service's use of information collected through any Payment Service.
 
- ** __****
+Data Retention. We will retain your information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
 
-KIDS AND INTERNET SAFETY
+Remember that even after you cancel your account, copies of some information from your account may remain viewable in some circumstances where, for example, you have shared information with social media or other services. Because of the nature of caching technology, your account may not be instantly inaccessible to others. We may also retain backup information related to your account on our servers for some time after cancelation for fraud detection or to comply with applicable law or our internal security policies. It is not always possible to completely remove or delete all of your information due to technical constraints, contractual, financial or legal requirements.
 
-**
+Sensitive Information. We ask that you not send us, and you not disclose, any sensitive personal information (such as social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Fox Services or otherwise.
 
-We at Fox understand that the Internet presents an opportunity for us to reach the public in new and exciting ways with information about our programming, fun games, exciting sweepstakes and contests, email, chat rooms, bulletin boards, and other forms of interactivity. Fox also recognizes the privacy concerns of parents, and the importance of protecting the privacy of the information this Site collects from children. Parents of children who visit this Site can be confident that any personal information that may be provided to this Site will be collected and maintained in accordance with the Children’s Online Privacy Protection Act ("COPPA"). Fox encourages parents to supervise their children’s activities online and to participate with their children’s online activities whenever possible. However, we understand that parents may not always be able to supervise their children’s activities on the Internet. That’s why Fox has developed a Site that parents can feel is safe for their children and kids will find cool, informative, educational, and fun! Because there’s always room for improvement, Fox welcomes any suggestions on how to make the Site a better, _safer_ place to hang out.
+## 7\. CONTACT US
 
-Section I of this Privacy Policy applies to the collection of personal information from all visitors to this site, regardless of age. Section II describes the special, _additional_ policies Fox applies to the collection, use and disclosure of personal information submitted to this Site by children under 13.
+If you have questions about this Privacy Policy, please contact us at:
 
- **
+Email: [privacypolicy@foxhome.com](mailto:privacypolicy@foxhome.com)
 
-COLLECTION AND USE OF PERSONALLY IDENTIFIABLE INFORMATION FROM CHILDREN UNDER 13
-
-**
-
-When a visitor to our Site is under the age of 13, Fox does not require the disclosure of more personally identifiable information than is reasonably necessary for him or her to participate in an activity as a condition of such participation. 
-
-Fox may use different types of personally identifiable information submitted to this Site by children under 13 in a variety of ways, which are described below. In each instance, we comply with the parental consent requirements of COPPA.
-
-> **A. Use of a Child’s Information by Fox**
-> 
->   * We may collect a child’s email address in connection with a contest, sweepstakes or game for the sole purpose of communicating with the child on a one-time-only basis (i.e., to contact a contest winner). This information will not be used to re-contact the child, and will be deleted from our records when the contest or game is over. Parental consent is obtained before we send the winner a prize.
-> 
-
->   * We may collect a child’s email address in order to respond more than once to a child’s specific request. For example, the child may want to subscribe to an online newsletter or receive other online communications from Fox. In these instances Fox will also obtain a parent’s email address along with the child’s. Before any further contact with the child, Fox will send an email to the parent (a) notifying him or her we have collected the child’s email address in order to respond more than once to the child’s request for a subscription, information, etc; (b) informing the parent that he or she can refuse us permission to contact the child, and how to do so; and (c) informing the parent that if he or she does not respond to the email within one (1) week, Fox may use the child’s information for the purpose for which it was submitted.
-> 
-
->   * We may collect a child’s personally identifiable information (including name, email address, mailing address and phone number) for such activities as chats, forums, surveys, games, bulletin boards, requests for suggestions, subscription registrations, content submissions, requests for products or services, or requests for additional information. In these instances we will initially collect only the child’s name and online contact information and the email address of the child’s parent. Before using this information for any purpose, we will send the parent an email that (a) informs the parent that we wish to collect and use the child’s personal information and need the parent’s consent to do so, and (b) provides the parent with a link to access to this Privacy Policy, which describes our information collection and use policies as required by COPPA. If the proposed use of the child’s personal information does not involve disclosure to a third party, then Fox will ask the parent to provide consent by return email. Upon receipt of the email consent, we will send the parent a confirming email. If the proposed use of the child’s personal information involves disclosure to third parties, the email we send to the parent will ask the parent either to (i) return by postal mail or fax a consent form that will be attached to the email, or (ii) call a toll free number where consent can be given over the phone. If parental consent is not obtained by one of these methods within two (2) weeks, Fox will delete all of the child’s and parent’s personally identifiable information from its records. In addition, parents can revoke a prior consent at any time.
-> 
-
->   * We may collect a child’s name and email address to the extent reasonably necessary to protect the security of this Site, to protect against liability or as required or permitted by law. Information collected for these reasons will not be used for any other purpose.
-> 
-
-> 
-> **B. Sharing Children’s Personal Information With Third Parties.** Fox may share a child’s personal information with affiliated Fox companies for **** research and marketing purposes. These third parties have agreed to maintain the confidentiality, security and integrity of the personal information they obtain from Fox. As noted above, parents may exercise their option not to consent to the disclosure of their child’s personal information to third parties. Parents may consent to Fox’s collection and use of a child’s personal information without consenting to the disclosure of the information to third parties. 
-
-**
-
-LINKS/CO-BRANDED SITES
-
-**
-
-As noted in Section I of this Privacy Policy, this Site may link directly to sites operated by Fox’s advertisers, business partners and affiliated companies. Those sites, which are not controlled by Fox, may collect personal information from your child. Parents should therefore check the relevant site’s privacy policy to understand how it collects and uses children’s personal information. Fox will not share in any personal information obtained by a site from a child under the age of 13 unless that site follows the requirements of COPPA.
-
- **
-
-REVIEWING AND MAKING CHANGES TO PERSONALLY IDENTIFIABLE INFORMATION COLLECTED FROM CHILDREN UNDER 13
-
-**
-
-Parents of children under age 13 may review or delete personal information about their children from our records at any time. If you would like your child’s personal information deleted, please contact us at [remove@registration.foxhome.com](mailto:remove@registration.foxhome.com). We will immediately delete your child’s information from our database and refrain from collecting any other personally identifiable information from your child, if you so request. However, there may be residual information that will remain within our databases that may or may not contain personally identifiable information. This residual information will not be given to any other third party or used for any commercial purpose.
-
-If you would like to review the personal information in our records submitted by your child, or change any personally identifiable information previously submitted by your child, please contact us at [webmaster@registration.foxhome.com](mailto:webmaster@registration.foxhome.com).
-
-RETURN
-
-© 2000 Twentieth Century Fox. All Rights Reserved.
+Mail: C/O Twentieth Century Fox Home Entertainment Online 2816 Columbia Street Torrance, CA 90503 
