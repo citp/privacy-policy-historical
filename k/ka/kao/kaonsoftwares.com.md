@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaonsoftwares.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122150356id_/http%3A//www.kaonsoftwares.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaonsoftwares.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214081524id_/http%3A//www.kaonsoftwares.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Kaon Softwares' Privacy Policy
 
@@ -43,7 +43,7 @@ We are committed to ensuring that your information is secure. In order to preven
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please [contact us](https://web.archive.org/web/20131122150356id_/http%3A//www.kaonsoftwares.com/contact-us.html) as soon as possible at the above address. We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please [contact us](https://web.archive.org/web/20140214081524id_/http%3A//www.kaonsoftwares.com/contact-us.html) as soon as possible at the above address. We will promptly correct any information found to be incorrect.
 
 We do not condone spam. If you receive unsolicited email purporting to be from Kaon Softwares, please [contact us](http://www.kaonsoftwares.com/contact-us.html).
 
