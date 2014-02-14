@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usenext.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811143806id_/http%3A//www.usenext.com/conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usenext.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214213036id_/http%3A//www.usenext.com/conditions) for the most accurate reproduction.*
 
 # UseNeXT - Privacy policy
 
@@ -47,3 +47,13 @@ This Privacy Policy applies to only to the website of UseNeXT. We do not have an
 **4\. Correction**
 
 You can access and change your personally identifiable information after login on UseNeXT. To better safeguard your information, if you want to change your provided payment data, please inform our support via support form or telephone.
+
+**5\. Google Analytics use**
+
+Our website uses Google Analytics, a Google Inc. web analysis service (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA). Google Analytics uses so-called “cookies”, text files that are saved on your computer that allow us to analyse your use of our website. The information obtained on your use of our website using cookies is generally transmitted to and saved on a Google server in the USA. Thanks to the IP anonymisation on this website, your IP address is abbreviated by Google within EU member states or in other countries that signed the agreement on European Economic space. Only in exceptional cases is the full IP address transmitted to a Google server in the USA and abbreviated there. Google will use this information to evaluate your use of the website, to create reports on website activities for site administrators and to provide other services associated with website and internet use. This information is also transmitted by Google to third parties to the extent in which foreseen by law, or in the event the data is processed by third parties hired by Google. Google shall not connect your IP address with other Google data in any case. 
+
+You can avoid saving cookies using your browser settings; in any case, we would like to inform you that, in this case, you will not be able to fully exploit all the functions on this website. You may also prevent Google from reading the data produced via cookies regarding your website use (including your IP address) as well as their data processing by downloading and installing the specific browser plug-in at (<https://tools.google.com/dlpage/gaoptout?hl=en>).
+
+By using this website, you consent to the processing of your data read by Google as per the above methods and for the abovementioned purposes. 
+
+For further information on Google Analytics, please visit: <http://www.google.com/intl/en_uk/analytics/>
