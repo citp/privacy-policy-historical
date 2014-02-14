@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hoopsrumors.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005082113id_/http%3A//www.hoopsrumors.com/2012/01/hoopsrumorscom-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoopsrumors.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214235020id_/http%3A//www.hoopsrumors.com/2012/01/hoopsrumorscom-privacy-policy.html) for the most accurate reproduction.*
 
-# HoopsRumors.com Privacy Policy: Hoops Rumors
+# HoopsRumors.com Privacy Policy | Hoops Rumors
 
 This is a **Dierkes Information Services, Inc.**  website.
 
@@ -8,7 +8,7 @@ Our postal address is
 **P.O. Box 72523  
 Roselle, IL 60172**
 
-We can be reached via e-mail [via the site's contact form](http://www.hoopsrumors.com/contact.html).
+We can be reached via e-mail [via the site's contact form](https://web.archive.org/contact.html).
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
