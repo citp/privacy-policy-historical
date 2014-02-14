@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vacationhomerentals.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808033125id_/http%3A//www.vacationhomerentals.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationhomerentals.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214184020id_/http%3A//www.vacationhomerentals.com/privacy.html) for the most accurate reproduction.*
 
 # Vacation Home Rentals - vacation rental homes, villas, condos and more!
 
@@ -39,5 +39,5 @@ With respect to security: When we transfer and receive certain types of sensitiv
 **Our postal address is:**
 
 Vacation Home Rentals  
-1 Merrimac Street, Suite 14  
+38 Merrimac Street, Suite 201  
 Newburyport, MA 01950
