@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hastingsdirect.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806182945id_/http%3A//www.hastingsdirect.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hastingsdirect.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214011909id_/http%3A//www.hastingsdirect.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Hastings Direct
 
@@ -40,9 +40,9 @@ Monitoring or recording of your calls, e-mails, text messages and other communic
 
 You have the right to receive a copy of the personal information we hold about you at any time, on written request and payment of a £10 administration fee.
 
-Should you wish to receive a copy of the personal information we hold about you, please write to the Company Secretary at our registered office address (shown above) enclosing the £10 administration fee made payable to Hastings Insurance Services Limited, and we will deal with your request within the regulatory 40 day period.
+Should you wish to receive a copy of the personal information we hold about you, please write to the Data Protection Officer at our registered office address (shown above) enclosing the £10 administration fee made payable to Hastings Insurance Services Limited, and we will deal with your request within the regulatory 40 day period.
 
-If you would like us to remove any personal information from our records, then please write to our Company Secretary at our registered office. Please be ready to quote your full name, address and if applicable your policy number when contacting us. We will make all reasonable efforts to delete your information from our files if it is deemed appropriate.
+If you would like us to remove any personal information from our records, then please write to our Data Protection Officer at our registered office. Please be ready to quote your full name, address and if applicable your policy number when contacting us. We will make all reasonable efforts to delete your information from our files if it is deemed appropriate.
 
 ### How do we use your personal information?
 
@@ -71,7 +71,7 @@ Cookies can help a website to arrange content to match users' preferred interest
 
 Ref: [www.allaboutcookies.org](http://www.allaboutcookies.org/cookies/)
 
-### How do we use cookies on the Website?
+### How do we use cookies on the website?
 
 We use cookies on the Website for our own internal purposes to track how users navigate through the Website in order to enable us to evaluate and improve the Website and our online services. We use cookie-derived information to:
 
@@ -88,19 +88,18 @@ In addition, to evaluate the effectiveness of our advertisements and promotions 
 
 We do not use cookies to track your use of the Internet after leaving the Website, nor will we pass on any cookie-derived information to third parties other than as set out in this Cookies Statement. We may collate the statistical data compiled in respect of use of the Website with statistical data similarly compiled in respect of other websites operated by Hastings in order to facilitate company-wide evaluation and improvements.
 
-### What kind of cookies do we use on the Website?
+### What kind of cookies do we use on the website?
 
-We use two types of cookies on the Website:
+We use two types of cookies on the website:
 
   * **Session cookies** — temporary cookies which remain in the cookie file of your browser until you leave the Website, for further information please visit: [www.allaboutcookies.org](http://www.allaboutcookies.org/cookies/session-cookies-used-for.html)
   * **Persistent cookies** — which remain in the cookie file of your browser for a longer period of time (the duration of this period will depend on the 'lifetime' of the specific cookie). For further information on persistent cookies visit: [www.allaboutcookies.org](http://www.allaboutcookies.org/cookies/persistent-cookies-used-for.html)
   * **Google Analytics** — is used to provide us with an understanding of how our site is performing. It enables us to ensure your receive a level high standard of customer experience which we would expect when visiting any website. You can find more information on Google's position on privacy by visiting: [www.google.co.uk](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)
   * **Redeye** — is used to provide us with an understanding of how our site is performing. It enables us to ensure your receive a level high standard of customer experience which we would expect when visiting any website. We also use Redeye to provide e-mail tracking to ensure you receive the same standard of experience as our site. You can find more information on Redeyes position on privacy by visiting: [www.redeye.com](http://www.redeye.com/about-us/privacy-policy/)
-  * **Google site search** — allows customers to search for pages within the site providing them with a better overall experience.: [www.google.com](http://www.google.com/intl/en/policies/privacy/)
-  * **sifrFetch** — Provides uses with non-standard web fonts. The cookie is set to indicate if your browser supports flash.
+  * **Google site search** — allows customers to search for pages within the site providing them with a better overall experience: [www.google.com](http://www.google.com/intl/en/policies/privacy/)
+  * **Webtrends Optimize** — is used to provide us with an understanding of how our site is performing. It enables us to test different customer experiences, to ensure you receive a high level of service. You can read more on Webtrends position on privacy by 7visiting: [www.webtrends.com](http://www.webtrends.com/)
   * **JSESSIONID** — The purpose of JSESSIONID is to match up the session ID stored in the web application with that of the client so we can maintain a user's state throughout their journey. This cookie is imperative when using our site. [en.wikipedia.org](http://en.wikipedia.org/wiki/Session_%28computer_science%29)
-  * **OMG** — set cookies to identify which affiliate has delivered a customer to Hastings. If your browser is set to ignore all cookies this will effect the way in which you could claim your cashback.
-  * **Addthis** — allows users to personalize and share their experience of the website. Also allows Hastings with in-depth analytics. [www.addthis.com](http://www.addthis.com/privacy)
+  * **OMG** — set cookies to identify which affiliate has delivered a customer to Hastings. If your browser is set to ignore all cookies this will effect the way in which you could claim your cashback. [www.omgpm.com](http://www.omgpm.com/)
   * **VeriSign** — provides our customers with a safe way to protect their details whilst enabling secure purchases. [www.verisign.co.uk](http://www.verisign.co.uk/privacy/index.html?tid=footer)
   * **Survey monkey** — allows us to provide a platform for customers to express their opinions about Hastings. [www.surveymonkey.com](http://www.surveymonkey.com/mp/policy/privacy-policy/)
 
@@ -152,6 +151,12 @@ Credit checks
 
   * we and/or your insurer may pass information about you to credit reference agencies, where it is necessary to carry out a credit check search on you before we and/or your insurer provide you with any services (including quotations and prior to offering a renewal). You should be aware that the results of those searches will be recorded by the credit reference agencies and that we and/or your insurer and other organisations may use those records in order to help make credit decisions about you, people financially linked to you and others in your household. Often insurance and other financial services providers will only request a credit check once you have decided on a particular supplier.
   * every application you submit for a loan or credit card, however, may affect your credit score so you may wish to keep applications to a minimum to protect your credit rating.
+
+
+
+Vehicle checks
+
+  * we/and or your insurer may run checks against the vehicle you wish to insure with us, via our chosen third party HPI. These checks may include searches for outstanding finance, write off information and whether a vehicle has been registered as stolen.
 
 
 
