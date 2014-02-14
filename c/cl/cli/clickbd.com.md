@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickbd.com privacy policy that was archived on 2013-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130730211213id_/http%3A//www.clickbd.com/global/static/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickbd.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214081304id_/http%3A//www.clickbd.com/global/static/privacy-policy.html) for the most accurate reproduction.*
 
 # ClickBD.com | Privacy-Policy
 
