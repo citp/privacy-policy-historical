@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webcargo.net privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817141031id_/https%3A//www.webcargo.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcargo.net privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214132657id_/https%3A//www.webcargo.net/privacy) for the most accurate reproduction.*
 
-# WEBCARGO :: Charte sur la vie privée
+# WEBCARGO :: Privacy Policy
 
 **Last modified: May 25, 2003**
 
