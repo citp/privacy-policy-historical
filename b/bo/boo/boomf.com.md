@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boomf.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129083943id_/http%3A//www.boomf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomf.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214192438id_/https%3A//www.boomf.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Boomf
 
@@ -67,7 +67,7 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Boomf HQ, Mallow Towers, 100 Exmouth House, 3/11 Pine Street, London EC1R 0JH.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Boomf HQ, 100 Exmouth House, 3/11 Pine Street, London EC1R 0JH.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
 
