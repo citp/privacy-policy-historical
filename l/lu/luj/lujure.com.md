@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lujure.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420071531id_/https%3A//heyo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lujure.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214084900id_/https%3A//heyo.com/privacy) for the most accurate reproduction.*
 
 # Heyo.com :: Privacy Policy
 
