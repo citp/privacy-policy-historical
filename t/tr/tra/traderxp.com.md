@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traderxp.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822101504id_/http%3A//www.traderxp.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traderxp.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214192700id_/http%3A//www.traderxp.com/Privacy) for the most accurate reproduction.*
 
 # TraderXp - Privacy Policy - TraderXP
 
