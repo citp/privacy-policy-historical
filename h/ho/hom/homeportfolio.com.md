@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeportfolio.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821094152id_/http%3A//www.homeportfolio.com/AboutHomePortfolio/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeportfolio.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214150725id_/http%3A//www.homeportfolio.com/abouthomeportfolio/privacy) for the most accurate reproduction.*
 
 # About HomePortfolio: Privacy
 
@@ -60,8 +60,7 @@ Sometimes we contract with an outside agency to serve banner ads for HomePortfol
 
   **Do you follow me as I navigate your Web site?** Yes, HomePortfolio uses a number called a "session ID" to follow you as you navigate from page to page in our web site. This is the long number you sometimes see at the end of a URL in your browser. The session ID is randomly generated each time you visit us, and contains no personal information about you at all. It also lets us know that the same person who looked at mirrors also wants to see lighting fixtures. 
 
-**How can I review and correct my personal data?** Currently, you can review and correct the information you entered when you originally created your Portfolio, including name, email address, and zip code. Simply enter your Portfolio, and click on the link titled Edit My Account Information.   
-
+  **How can I review and correct my personal data?** Currently, you can review and correct the information you entered when you originally created your Portfolio, including name, email address, and zip code. Simply enter your Portfolio, and click on the link titled Edit My Account Information. 
 
   **How do you keep my personal information secure?** HomePortfolio takes many steps to make sure your information is safe on our site. Our mission is to make your 
 
