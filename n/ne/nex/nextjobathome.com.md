@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextjobathome.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126055315id_/http%3A//nextjobathome.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextjobathome.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214114933id_/http%3A//nextjobathome.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Next Job At Home Privacy Policy
 
@@ -20,15 +20,13 @@ The Terms will continue to apply until terminated by either you or NGM by either
 
 NGM may at any time, terminate its legal agreement with you for any reason not limited to but including if you have breached any provision of the Terms, you act in a manner that indicates that you do not intend to, or are unable to comply with the provisions of the Terms, is required to do so by law, a subsidiary, affiliate, or partner with whom NGM offered the Services to you has terminated its relationship with NGM or you, NGM is no longer providing the Services to users in the country in which you are resident or from which you use the service or in NGM's opinion service is no longer commercially viable. Nothing in this Section shall affect NGM's rights regarding provisions of Services in the Terms above. When these Terms come to an end, all of the legal rights, obligations and liabilities that you and NGM have benefited from, been subject to which are expressed to continue indefinitely, shall be unaffected by this cessation, and the provisions herein and shall continue to apply to such rights, obligations and liabilities indefinitely.
 
-To be removed from our list, simply [click here now](https://web.archive.org/web/20131126055315id_/http%3A//nextjobathome.com/opt-out/opt-out_form.php) or on the unsubscribe links located on any of our emails. You can also reply to an email and request to be removed manually.
+To be removed from our list, simply [click here now](https://web.archive.org/web/20140214114933id_/http%3A//nextjobathome.com/opt-out/opt-out_form.php) or on the unsubscribe links located on any of our emails. You can also reply to an email and request to be removed manually.
 
 **Security**
 
 This website takes every precaution to protect users' information. We cannot guarantee the security of your information against those who use advanced illegal means to breach and or hack our security defenses.
 
-**Notification of Changes to Privacy Policy**
-
-We may update this Privacy Policy at any time by posting a new privacy policy on the Site. Please see our terms of service, use and conditions. We offer a number of services that do not require you to register for an account or provide any personal information to us. In order to provide our full range of services, we may collect the following types of information:
+Please see our terms of service, use and conditions. We offer a number of services that do not require you to register for an account or provide any personal information to us. In order to provide our full range of services, we may collect the following types of information:
 
 Information you provide - When you sign up for a NGM Account or other NGM service, or offer that requires registration, we ask you for personal information (such as your name, email address and an account password).
 
@@ -48,7 +46,5 @@ Links - NGM may present links in a format that enables us to keep track of wheth
 
 Other sites - This Privacy Policy applies to NGM services only. We do not exercise control over other site's or their respective links not owned by NGM from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you, which you accept full responsibility for using.
 
-NGM only processes personal information for the purposes described in this Privacy Policy and not limited to but including for the following purposes: Providing our services, including the display of customized content and advertising; Auditing, research and analysis in order to maintain, protect and improve our services; Ensuring the technical functioning of our network; Protecting the rights or property of NGM or our users; and Developing new services.
-
-Our privacy policy may be changed at anytime with no notice to you please check it daily for any changes.  
+NGM only processes personal information for the purposes described in this Privacy Policy and not limited to but including for the following purposes: Providing our services, including the display of customized content and advertising; Auditing, research and analysis in order to maintain, protect and improve our services; Ensuring the technical functioning of our network; Protecting the rights or property of NGM or our users; and Developing new services.  
 
