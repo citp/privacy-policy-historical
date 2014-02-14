@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetkiss.me privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810045822id_/http%3A//www.sweetkiss.me/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetkiss.me privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214063115id_/http%3A//www.sweetkiss.me/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - sweetkiss.me
 
