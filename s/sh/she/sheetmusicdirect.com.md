@@ -1,33 +1,31 @@
-> *The following text is extracted and transformed from the sheetmusicdirect.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103024518id_/http%3A//www.sheetmusicdirect.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheetmusicdirect.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214070208id_/http%3A//www.sheetmusicdirect.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy at Sheetmusicdirect.com
 
-### Cookies
+### Cookies [HTTP]
 
-We use cookies to ensure that we give you the best experience on our website. At sheetmusicdirect.com we use cookies to keep track of what you have in your basket, and to remember you when you return to our site.
-
-To order products on sheetmusicdirect.com, you need to have cookies enabled. If you don't wish to enable cookies, you'll still be able to browse the site and use it for research purposes. Most web browsers have cookies enabled, however, if you'd prefer to restrict, block or delete cookies from sheetmusicdirect.com, or any other website, you can use your browser to do this. For more information, please visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). If you continue using our website we'll assume that you are happy to receive all cookies on sheetmusicdirect.com website. 
-
-Here's a list of the main cookies we use, and what we use them for.
+We use cookies to ensure that we give you the best experience on our website. At sheetmusicdirect.com we use cookies to keep track of what you have in your basket, and to remember you when you return to our site. To order products on sheetmusicdirect.com, you need to have cookies enabled. If you don't wish to enable cookies, you'll still be able to browse the site and use it for research purposes. Most web browsers have cookies enabled, however, if you'd prefer to restrict, block or delete cookies from sheetmusicdirect.com, or any other website, you can use your browser to do this. For more information, please visit [http://www.allaboutcookies.org]. If you continue using our website we'll assume that you are happy to receive all cookies on [sheetmusicdirect.com] website. Here's a list of the main cookies we use, and what we use them for.
 
 Cookie Type | Cookie Name | Description | Opt-out link  
 ---|---|---|---  
-Strictly necessary |  | 'Strictly Necessary' cookies let you move around the website and use essential features like secure areas, shopping baskets and online billing.  |   
+Strictly necessary |  | Strictly Necessary cookies let you move around the website and use essential features like secure areas, shopping baskets and online billing. |   
 | cuser | Remembers user country, user currency, user type, and user ID |   
 | ASP.NET_SessionId | Provides session information such as shopping basket |   
 | cloggedin | Determines if the user logged into the site |   
-Functionality |  | 'Functionality' cookies are used to provide services or to remember settings to improve your visit. |   
+Functionality |  | Functionality cookies are used to provide services or to remember settings to improve your visit. |   
 | ipad_popup | Informs the users about our Sheet Music Direct for iPad app |   
-Performance |  | 'Performance' cookies collect information about how customers use our website e.g. which pages they visit, and if they experience any errors. These cookies don't collect any information that could identify them - all the information collected is anonymous and is only used to help us improve how our website works and understand what interests our users. |   
+Performance |  | Performance cookies collect information about how customers use our website e.g. which pages they visit, and if they experience any errors. These cookies don't collect any information that could identify them - all the information collected is anonymous and is only used to help us improve how our website works and understand what interests our users. |   
 | __utma | Provides site analytics | <http://tools.google.com/dlpage/gaoptout?hl=en>  
 | __utmb | Provides site analytics | <http://tools.google.com/dlpage/gaoptout?hl=en>  
 | __utmc | Provides site analytics | <http://tools.google.com/dlpage/gaoptout?hl=en>  
 | __utmz | Provides site analytics | <http://tools.google.com/dlpage/gaoptout?hl=en>  
-Behavioral |  | 'Targeting' cookies are linked to services provided by third parties, such as 'Like' buttons and 'Share' buttons. The third party provides these services in return for recognising that you have visited our website. |   
+Behavioral |  | Behavioral cookies are linked to services provided by third parties, such as 'Like' buttons and 'Share' buttons. The third party provides these services in return for recognising that you have visited our website. |   
 | BaynoteUserId | Provides similar product recommendations |   
 | BaynoteUserCode | Provides similar product recommendations |   
 | bn_u | Provides similar product recommendations |   
-| user_cookie_agreement | Allows site to determine if user has seen cookies information popup. |   
+| user_cookie_agreement | Allows site to determine if user has seen cookies  |   
+| sc.UserId | Provides website usage patterns, heatmaps and on-page user interaction data. |   
+| sc.ASP_NET_SESSIONID | Provides website usage patterns, heatmaps and on-page user interaction data. |   
   
 Sheetmusicdirect.com is committed to keeping the personal details of its visitors and customers private and secure. Information is kept in accordance with the Data Protection Act 1998 and our communications comply with the Privacy And Electronic Communications (EC Directive) Regulations 2003. 
 
