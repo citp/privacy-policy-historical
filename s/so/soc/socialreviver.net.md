@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialreviver.net privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820224205id_/http%3A//www.socialreviver.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialreviver.net privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214054253id_/http%3A//www.socialreviver.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for socialreviver.net ~ SocialReviver: The way YOU want Facebook to be!
 
@@ -8,7 +8,7 @@ At socialreviver.net, the privacy of our visitors is of extreme importance to us
 
 Please note that the domains socialreviver.net, socialreviver.com, socialreviver.org and socialreviver.info point to the same website and are controlled by us, so this privacy policy applies to all of the domains cited above.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us at <https://support.vittgam.net/open.php?type=6>.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us at [this page](http://www.socialreviver.net/contact).
 
 An Italian version of the privacy policy for Italian users is available [here](http://www.socialreviver.net/it/privacy).
 
