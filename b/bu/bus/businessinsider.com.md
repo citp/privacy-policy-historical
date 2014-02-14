@@ -1,49 +1,67 @@
-> *The following text is extracted and transformed from the businessinsider.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604051726id_/http%3A//www.businessinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessinsider.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214130144id_/http%3A//www.businessinsider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Business Insider
 
-Effective Date: This policy was last updated on 6/4/2012.
+Effective Date: December 26, 2013.
 
-****Overview****
+**1\. Overview**
 
-This privacy policy applies to Business Insider ([www.businessinsider.com](http://www.businessinsider.com/)) on all platforms (web, mobile web, apps, emails).
+Business Insider (www.businessinsider.com) is a website owned by Business Insider, Inc., a Delaware corporation. This Privacy Policy, together with any documents it expressly incorporates by reference, governs your access to and use of Business Insider on all platforms, whether accessed via web browser, mobile device, non-browser application, or e-mail, and to our paid subscription service BI Intelligence (collectively, the “Site”). It does not apply to information collected by any third party, including through any application or content (including advertising) that may link to or be accessible from or on the Site. In this Privacy Policy, “you” and “your” refer to you as the user of the Site. “Business Insider,” “we,” “us” and “our” refer to Business Insider, Inc. and our successors, partners, affiliates, subsidiaries and assigns.
 
-Business Insider contains links to other sites and we are not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects Personally Identifiable Information (PII).
+Business Insider takes privacy concerns seriously. This Privacy Policy outlines what information is collected when you visit the Site. Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it.
 
-Business Insider takes privacy concerns seriously. This privacy policy outlines what information is collected when you visit our site. 
+The Site contains links to websites hosted by third parties. We are not responsible for the privacy practices or content of such third-party websites. We encourage you to be aware when you leave the Site and to read the privacy statements of each and every website that collects Personally Identifiable Information (“PII”) about you.
 
-Business Insider gathers information about its users mainly to enhance their experience on the site and on email newsletters. This information is used to bring you content that is relevant to your interests. Additionally, Business Insider, along with our advertising partners, gather information about you anonymously to provide you with more targeted advertising messages that are catered to your location and interests. You can opt out of information gathering for advertising purposes below.
+By using the Site, you expressly accept and agree to be bound and abide by this Privacy Policy and our [Terms of Use](http://www.businessinsider.com/terms), incorporated herein by reference. If you do not agree to be bound by this Privacy Policy, you may not access or use the Site.
 
-**Information Collected**
+**2\. Changes to This Policy**
 
-_**Personal Information/ Information You Directly Provide To Business Insider (BI):**_
+Business Insider may at any time change this Privacy Policy to reflect any changes in our practices, service offerings, or market regulations. If the policy is updated, we will update the Effective Date at the top of the policy. Your continued use of Business Insider after we make changes is deemed to be acceptance of those changes, so please check this Privacy Policy periodically for updates.
 
-When registering, commenting, or signing up for newsletters, you may provide Business Insider with personal information, including but not limited to:
+**3\. Information We Collect About You**
 
-  * Personal contact information (name, zip code, e-mail address, phone numbers)
-  * Comments
+Business Insider gathers information about its users mainly to enhance their experience on the Site. This information is used to bring you content that is relevant to your interests. Additionally, Business Insider, along with our advertising partners, collects information about you anonymously to provide you with targeted advertising messages that are catered to your location and interests. You can opt out of information gathering for advertising purposes with certain of our third-party partners below. This collected information includes 1) personal information you provide to us and 2) non-personal information we automatically collect through technology.
+
+     a. Personal Information You Provide To Business Insider
+
+When using the Site, you may provide Business Insider with PII, including but not limited to:
+
+  * Personal contact information (name, zip code, e-mail address, and phone numbers)
   * User names (including social media user names)
-  * Correspondence with Business Insider staff
-  * Billing Information (for paid Business Insider products)
+  * Correspondence with Business Insider staff
+  * Billing Information (for paid Business Insider products)
+  * Contact information for Business Insider event tickets
 
 
 
-You are not required to provide Business Insider with any personal information in order to use the site. All information that is collected is the sole property of the site, and that information is not distributed outside of the site unless required by law.
+You may also provide information to be published or displayed on public areas of the Site (“User Contributions”). Your User Contributions are posted on the Site at your own risk. We cannot control the actions of other users of the Site who view your User Contributions or with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons. 
 
-**_Non-Personal Information Automatically Collected_ **
+If you are a Registered User and under the age of 18 years old, Business Insider allows you to request removal of your User Contributions. For more information on the removal of User Contributions, see our [Terms of Use](http://www.businessinsider.com/terms).
 
-This type of information is collected anonymously through the use of tracking technology using third-party cookies, web beacons, and other similar methods. No Personally Identifiable Information (PII) is collected through this methodology.  This information may include, but is not limited to:
+You are not required to provide Business Insider with any PII in order to use the Site. Certain PII you provide to us can be updated through the account settings of registered users. PII that is collected is the sole property of Business Insider, and that information is not distributed to third parties unless required by law. 
+
+     b. Non-Personal Information We Automatically Collect About You 
+
+This type of information is collected anonymously through the use of technology, such as third-party cookies, web beacons, and other similar methods. No PII is collected through these methods. Non-personal information we automatically collect may include, but is not limited to: 
 
   * Hardware/software information (geographic location, IP address, browser type, device type, operating system, bandwidth, etc.)
   * Analytics information (time spent on site, number of pages viewed, referring web page, browsing information, etc.)
-  * Advertising information (type of ads seen, number of times ads were served, pages where the ads were served)
-  * Information collected through HTML cookies, web beacons, and similar technologies.
+  * Advertising information (type of ads seen, number of times ads were served, pages where the ads were served) 
+  * Information collected through cookies, web beacons, and similar technologies.
 
 
 
-_**Information Collected Through Third-Party Sources**_
+Some of the technology used includes but is not limited to: 
 
-This type of information is collected anonymously by approved third-party partners (such as online marketing firms, research companies, social media companies, ad targeting firms, and other partners). None of the information collected by these sources contains any PII. This type of information includes but is not limited to:
+Cookies: A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting, you may be unable to access certain parts of the Site. Unless you have adjusted your browser setting so that it will refuse cookies, the Site will issue cookies when you direct your browser to the Site. 
+
+Web beacons: The Site content may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) that permit Business Insider, for example, to count users who have accessed the Site and for other related statistics, for example, recording the popularity of certain Site content and verifying system and server integrity. 
+
+For more information on cookies, web beacons, and other similar technologies, please visit the [Internet Advertising Bureau’s Interactive Glossary](http://www.iab.net/research/1494). 
+
+     c. Information Third-Parties Collect About You 
+
+This type of information is collected anonymously by approved third-party partners (such as online marketing firms, research companies, social media companies, ad targeting firms, and other partners). None of the information collected by these sources contains any PII. Information third parties collect about you includes but is not limited to: 
 
   * Demographic information (gender, age, HHI, job title, interests, etc.)
   * Advertising information (clicks, interactions, post-impression performance data)
@@ -52,59 +70,51 @@ This type of information is collected anonymously by approved third-party partne
 
 
 
-**What Is Done With The Collected Information?**
+**4\. What Is Done With The Collected Information?**
 
-_Site Content_ : Business Insider partners with Sailthru to provide you with content that is relevant and personalized to your reading interests. You can read [Sailthru's privacy policy here](https://www.sailthru.com/legal#privacy).
+Site Content: Business Insider partners with Sailthru to provide you with content that is relevant and personalized to your reading interests. You can read [Sailthru's privacy policy here](http://www.sailthru.com/legal/#privacy). 
 
-_Email Communications_ : Business Insider may use the information that you submit to send you email communications, such as newsletters, breaking news, information about the site, alerts, and promotional messages from advertising partners.
+Email Communications: Business Insider may use the information that you submit to send you email communications, such as newsletters, breaking news, information about the Site, alerts, and promotional messages from advertising partners. 
 
-_Site Analysis_ : Business Insider uses the information collected through third-party sources to learn and analyze how the site is used. We use this information to enhance the site by making improvements based on the data collected.
+Site Analysis: Business Insider uses the information collected through third-party sources to learn and analyze how the Site is used. We use this information to enhance the Site by making improvements based on the data collected. 
 
-_Advertising_ : Display Ads are delivered from our adserver, Open AdSream, powered by WPP’s Real Media Group.  At times third-party information is used to deliver targeted ads to you, your location, and your interests. We also use Third-Party Ad Platforms (such as Google AdSense and Pubmatic) to deliver ads on our site. No PII is exchanged with any type of advertising message on Business Insider.
+Advertising: Display Ads are delivered from our adservers, Open AdSream and Google's DoubleClick. We may use third-party advertising companies to collect data and/or serve ads when you visit our Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to deliver targeted ads to you, your location, and your interests. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit [http://networkadvertising.org](http://networkadvertising.org/). We also use Third-Party Ad Platforms (such as Google AdSense, Google AdX, Rubicon, and Pubmatic) to deliver ads on our Site and in our mobile apps. No PII is exchanged with any type of advertising message on Business Insider. 
 
-**How We Share Information Collected**
+**5\. How We Share Information Collected**
 
-There are very few specific circumstances when your information is shared outside of the company, these circumstances include but are not limited to:
+There are very few specific circumstances when your information is shared outside of the company. These circumstances include but are not limited to: 
 
-  * If you comment or use the Facebook app on Business Insider, the information you submit (including your social media user name, etc) is viewable to the public. 
-  * Business Insider may need to disclose personal information to comply with a judicial proceeding, a court order, or any other legal process.
-
-  * We employ third-party services to distribute email newsletters and these third-parties have access to specific information only for the purposes of fulfilling contracts on our behalf.  
- 
-  * In the event Business Insider goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.
+  * If you post User Contributions or use social media applications in conjunction with the Site, the information you submit (including your social media user name) is viewable to the public.
+  * Business Insider may need to disclose PII to comply with a judicial proceeding, a court order, or any other legal process.
+  * We employ third-party services to distribute email newsletters, and these third-parties have access to specific information only for the purposes of fulfilling contracts on our behalf.
+  * In the event Business Insider goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users’ PII will, in most instances, be part of the assets transferred. 
 
 
 
-**Email Policy**
+**6\. Email Policy**
 
-Business Insider does not allow any third-party company to use your email address for commercial purposes without your expressed permission. We will send you newsletter communications, partner sponsorship messages, account alerts, and any other emails you have requested to receive. If you would like to opt-out of any specific newsletters or mailings, please [login](https://www.businessinsider.com/login) to your profile to change your newsletter settings.
+With the exceptions noted above, Business Insider does not allow any third-party company to use your email address for commercial purposes without your expressed permission. We will send you newsletter communications, partner sponsorship messages, account alerts, and any other emails you have requested to receive. If you would like to opt-out of any specific newsletters or mailings, please login to your profile to change your newsletter settings.
 
-**Notices**
+**7\. Children Under 13**
 
-_Children Under 13_ : Business Insider does not knowingly target adverting to, or collect information from children under the age of 13.
+Business Insider is not intended for children under 13 years of age. No one under age 13 may provide any information to or on Business Insider. Business Insider does not knowingly target advertising to, or collect information from, children under the age of 13. If you are under 13, do not use or provide any information on the Site or on or through any of its features, register on the Site, use any of the interactive or public comment features on the Site, or provide any information about yourself to us, including your name, telephone number, email address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at feedback@businessinsider.com.
 
-_Data Retention_ : Your personal information is retained for as long as necessary to fulfill the purposes outlined in this privacy policy. 
+**8\. Data Retention**
 
-_Security_ : Business Insider uses all reasonable means to safeguard data against unauthorized use and theft.
+Your personal information is retained for as long as necessary to fulfill the purposes outlined in this Privacy Policy.
 
-_Changes To This Policy_ : Business Insider may at any time change this Privacy Policy to reflect any changes in our practices, service offerings, or market regulations. If the policy is updated, we will update the Effective Date at the top of the policy.
+**9\. Security**
 
-_Questions/Suggestions_ : If you have any questions or suggestions for this Privacy Policy, please contact the editor of Business Insider or email questions to [feedback@businessinsider.com](mailto:feedback@businessinsider.com). You can also reach us by mail at 257 Park Avenue South, 13th Floor, New York, NY, 10010
+Business Insider uses commercially reasonable controls to safeguard data against unauthorized use and theft.
 
-**Cookies**
+**10\. Third-Party Privacy and Opt-Out Information**
 
-A cookie (otherwise known as an HTTP cookie) is a small piece of code which can be sent from a web site or banner ad and stored on a user’s web browser. The cookie stores data such as preferences, previous activity, and other information. For more information on HTTP cookies and other online advertising definitions please visit the [IAB’s web site](http://www.iab.net/insights_research/1494).
+Business Insider supports Do Not Track (“DNT”). If you enable DNT in your web browser, we stop collecting information about you consistent with the DNT setting. Below are links to the privacy policies of some of our partners and links to advertising opt outs to help you to further manage your online privacy. Real Media’s Open AdStream and Google's Doubleclick technologies power the adserving on Business Insider. For more information about Real Media’s privacy policy, go to <http://www.realmedia.com/en-us/pages/privacy_policy.html.> For more information about DoubleClick’s privacy policy, go to [http://www.google.com/policies/technologies/ads](http://www.google.com/policies/technologies/ads/).
 
-**For More Information**
+Pubmatic and Rubicon help deliver ads on Business Insider and its mobile apps. If you want to opt-out of receiving targeted ads from Pubmatic, [visit this link](http://www.pubmatic.com/opt-out.php). Opting out does not mean you will not get ads from Pubmatic or Rubicon; it means they will not collect non-personal information about you, nor will they serve ads targeted to your interests. For more information about Pubmatic’s privacy policy, go to <http://www.pubmatic.com/privacy-policy.php>. For more information about Rubicon's privacy policy, go to [http://www.rubiconproject.com/privacy](http://www.rubiconproject.com/privacy/).
 
-Below are links to the privacy policies of some of our partners and links to advertising opt outs.
+Network Advertising Initiative (NAI) is part of the industry’s self-regulatory initiative. If you would like to opt out of third-party partners' non-personal information tracking, visit the NAI opt-out section. Opting out does not mean you will not receive advertising on Business Insider. It ensures that your non-personal information will not be automatically tracked by the sites you have opted out of.
 
-[Real Media](http://www.realmedia.com/en-us/pages/privacy_policy.html)’s Open AdStream technology powers the adserving on Business Insider.
+**11\. Contact Us**
 
-[Pubmatic](http://www.pubmatic.com/privacy-policy) helps deliver ads on Business Insider. If you want to opt-out of receiving targeted ads from Pubmatic, [visit this link](http://www.pubmatic.com/opt-out). Opting out does not mean you will not get ads from Pubmatic; it means Pubmatic will not collected non-personal information about you, nor will it serve ads targeted to your interests.
-
-[Network Advertising Initiative (NAI)](http://www.networkadvertising.org/managing/learn_more.asp) is part of the industry’s self-regulatory initiative. If you would like to opt out of third-party partners' non-personal information tracking, visit the [NAI opt-out](http://www.networkadvertising.org/managing/opt_out.asp) section. Opting out does not mean you will not receive advertising on Business Insider. It ensure that your non-personal information will not be automatically tracked by the sites you have opted out of.
-
-**Contact Us**
-
-If you have questions about privacy please contact us at [feedback@businessinsider.com](mailto:feedback@businessinsider.com).
+If you have any questions or suggestions for this Privacy Policy, please contact the editor of Business Insider or email questions to feedback@businessinsider.com. You can also reach us by mail at 257 Park Avenue South, 13th Floor, New York, NY, 10010.
