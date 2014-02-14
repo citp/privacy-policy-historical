@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the imagebrief.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005232743id_/http%3A//www.imagebrief.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagebrief.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214231206id_/http%3A//www.imagebrief.com/privacy) for the most accurate reproduction.*
 
 # ImageBrief
 
 ##### General
-
-ImageBrief Pty Limited A.C.N. 149 982 703 (referred to as "ImageBrief", "we", "us", "our") . respects your privacy and is committed to handling your personal information in accordance with the National Privacy Principles ("NPP") and the Privacy Act 1988 (Cth) (the "Act").
 
 This privacy policy explains how we manage your personal information we collect about you. Please read this privacy policy before using the site or submitting any personal information. By using the site www.imagebrief.com (the "Site"), you are accepting the practices described in this privacy policy.
 
@@ -179,6 +177,4 @@ ImageBrief reserves the right to modify this privacy policy at any time without 
 
 ##### Contacting our Privacy Officer
 
-If you have any questions, complaints or comments about our handling of your personal information under this privacy policy or otherwise, please contact our Privacy Officer at:
-
-Email: [privacy@imagebrief.com](mailto:privacy@imagebrief.com)
+If you have any questions or comments regarding our handling of your personal information under this privacy policy or otherwise, please contact [privacy@imagebrief.com](mailto:privacy@imagebrief.com).
