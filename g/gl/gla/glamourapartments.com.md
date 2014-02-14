@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glamourapartments.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816202509id_/https%3A//www.glamourapartments.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glamourapartments.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214231618id_/https%3A//www.glamourapartments.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Glamour Apartments
 
