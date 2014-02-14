@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fakeagent.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813190352id_/http%3A//www.fakeagent.com/tour/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fakeagent.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214084840id_/http%3A//www.fakeagent.com/tour/privacy.html) for the most accurate reproduction.*
 
 # FakeAgent.com
 
@@ -26,7 +26,7 @@ IP Address. An IP address is a number that is assigned to your computer automati
 
 **Types of Information**
 
-Personally Identifiable Information (PII). PII is information that identifies you as an individual, such as your name, mailing address, phone number, email address, credit card information, video materials that you submit, comments you make including such information, or other information that you submit voluntarily,   including, but not limited to, when you contact us by email. FakeAgent.com does not collect PII from users except for email addresses. In limited cases there are the following exceptions:
+Personally Identifiable Information (PII). PII is information that identifies you as an individual, such as your name, mailing address, phone number, email address, video materials that you submit, comments you make including such information, or other information that you submit voluntarily,   including, but not limited to, when you contact us by email. FakeAgent.com does not collect PII from users except for email addresses. In limited cases there are the following exceptions:
 
 User submits feedback to the Sites
 
