@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the gamesonly.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106181509id_/http%3A//www.gamesonly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesonly.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214010829id_/http%3A//www.gamesonly.com/privacy-policy) for the most accurate reproduction.*
 
-# Games Only - Play Free Games Online at GamesOnly.com!
+# Privacy Policy - GamesOnly, Free Online Games!
 
-### Privacy Policy
+  * [Home](http://www.gamesonly.com/)
+  * [Privacy policy](http://www.gamesonly.com/privacy-policy/)
+
+
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info [AT] gamesonly [DOT] .com
 
