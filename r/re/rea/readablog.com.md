@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readablog.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511165723id_/http%3A//www.readablog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readablog.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214150107id_/http%3A//www.readablog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ReadABlog.com
 
