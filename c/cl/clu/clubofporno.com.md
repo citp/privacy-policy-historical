@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubofporno.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818185621id_/http%3A//www.clubofporno.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubofporno.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214120536id_/http%3A//www.clubofporno.com/privacy.html) for the most accurate reproduction.*
 
 # Free Porno Pics, HD Sex Tube, Online XXX Images, Streaming Porn and Free XXX Pictures
 
