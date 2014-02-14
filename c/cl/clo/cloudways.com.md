@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudways.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901202320id_/http%3A//www.cloudways.com/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudways.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214143114id_/http%3A//www.cloudways.com/en/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Cloudways
 
@@ -18,13 +18,11 @@ This Privacy Policy relates to your use of the Services provided by Cloudways Lt
 
 We have the right to revise and amend this Privacy Policy and/or the Services from time to time to reflect changes in market conditions affecting our business, changes in technology, changes in payment methods, changes in relevant laws and regulatory requirements and changes in our system’s capabilities or for any other reason in our sole discretion which we may decide. Your continued access to or use of the Website and/or the Services constitutes your acceptance of any such change and/or amendment.
 
- _In using the Website and/or the Services, you agree with our **[Terms of Service](https://www.cloudways.com/en/terms.php)** and as follows_:
+###  **In using the Website and/or the Services, you agree as follows,**
 
-Your continued access to or use of the Website and/or the Services constitutes your acceptance of this Privacy Policy and of our 
+1) Acceptance of the Terms. Your continued access to or use of the Website and/or the Services constitutes your acceptance of our _[_Terms of Service_](https://www.cloudways.com/en/terms.php)_ , of our _[_Acceptable Use Policy_](https://www.cloudways.com/en/acceptable-use-policy.php)_ , of our _[_Refund Policy_](https://www.cloudways.com/en/refund.php)_ , of our _[_SLA_](https://www.cloudways.com/en/sla.php)_ and these Terms. Certain Services may require additional terms and conditions in which case your clicking of “I ACCEPT” buttons and/or other prompts and/or any other similar methods of acquiring your consent will constitute your acceptance of the said terms and conditions. Your consent to the processing of your Personal Data (as defined hereunder) by us in the manner specified below.
 
-**_[Terms of Service](https://www.cloudways.com/en/terms.php)_** and your consent to the processing of your Personal Data (as defined hereunder) by us in the manner specified below.
-
-Cloudways Ltd. and the subsidiaries we own or control worldwide (collectively¸ "Cloudways") respect your privacy. Any information you provide on the Website will be held with the utmost care and will not be used in ways that you have not consented to (unless we may do so under any applicable law, including but not limited to the Maltese Data Protection.
+2) Cloudways Ltd. and the subsidiaries we own or control worldwide (collectively¸ "Cloudways") respect your privacy. Any information you provide on the Website will be held with the utmost care and will not be used in ways that you have not consented to (unless we may do so under any applicable law, including but not limited to the Maltese Data Protection.
 
 **Act [Chapter 440 of the Laws of Malta].**
 
@@ -121,3 +119,23 @@ All Personal Data¸ cloud and application credentials¸ public and private keys 
 We reserve the right, at our complete discretion, to change, modify, add and/or remove portions of this Privacy Policy at any time. Your continued access to or use of the Website will mean that you agree to any and all such changes.
 
 We will notify you about significant changes in the way we treat Personal Data by sending a notice to the primary email address specified in your ‘Cloudways account’ or by placing a notice on our Website
+
+**Other Policies**
+
+**Terms of Service** ** _
+
+[**_Click here_**
+
+](https://www.cloudways.com/en/terms.php)_** to view Cloudways Terms of Service.
+
+**Acceptable Use Policy**
+
+ ** _[ _Click here_](https://www.cloudways.com/en/acceptable-use-policy.php)_** to view Cloudways Acceptable Use Policy.
+
+**Refund Policy**
+
+**_[_Click here_](https://www.cloudways.com/en/refund.php)_** to view Cloudways Refund Policy.
+
+**Service Level Agreement**
+
+**__[Click here](http://www.cloudways.com/en/sla.php)__** to view Cloudways SLA.
