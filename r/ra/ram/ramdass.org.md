@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ramdass.org privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527105649id_/https%3A//ramdass.org/RD/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ramdass.org privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214180726id_/https%3A//ramdass.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ram Dass
 
@@ -45,5 +45,3 @@ Ram Dass – Official Site will occasionally update this Statement of Privacy to
 **Contact Information  
 **  
 Ram Dass – Official Site welcomes your comments regarding this Statement of Privacy. If you believe that Ram Dass – Official Site has not adhered to this Statement, please contact Ram Dass – Official Site at [ritaryan@ramdass.org](mailto:ritaryan@ramdass.org). We will use commercially reasonable efforts to promptly determine and remedy the problem.
-
-[](https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.ramdass.org%2FRD%2Fprivacy-policy%2F&media=&description=Privacy+Policy)[](https://www.tumblr.com/share/link?url=http%3A%2F%2Fwww.ramdass.org%2FRD%2Fprivacy-policy%2F&name=Privacy+Policy)
