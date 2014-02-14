@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presidentscup.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127113341id_/http%3A//www.pgatour.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presidentscup.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214083133id_/http%3A//www.pgatour.com/company/privacy.html) for the most accurate reproduction.*
 
 # PGATOUR.com - PGATOUR.COM Privacy Policy
 
