@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punchstock.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616004715id_/http%3A//www.punchstock.com/com/usa/en/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punchstock.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214234144id_/http%3A//www.punchstock.com/com/usa/en/about/privacy_policy) for the most accurate reproduction.*
 
 # PunchStock | Privacy Policy
 
