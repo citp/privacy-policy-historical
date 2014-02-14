@@ -1,7 +1,14 @@
-> *The following text is extracted and transformed from the puff.com privacy policy that was archived on 2013-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130428035715id_/http%3A//www.puff.com/Content/Info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puff.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214073903id_/http%3A//www.puff.com/Content/Info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Info
 
+|  Written by [Jamz](http://www.puff.com/index.php?option=com_comprofiler&task=userProfile&user=62)
+
+Tuesday, 11 August 2009 
+
+|   
+---|---  
+  
 PRIVACY POLICY 
 
 Puff Enterprises, hereafter the Company, agrees not to disclose to anyone the terms, conditions, subject matter, or identity of the parties involved in any paid transaction or membership/forum activity to any other party unless required to do so by law. The Company collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. The Company also collects anonymous demographic information that is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites. 
@@ -19,7 +26,7 @@ The Company keeps track of the websites and pages our client's visit, in order t
 The Company's websites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on the Company or the website; (b) protect and defend the rights or property of Puff Enterprises, but not limited to this Company's websites; and, (c) act under exigent circumstances to protect the personal safety of users of the Company, its websites, or the public. 
 
   
-|   |  |   | 
+  |  |   | 
 
   
 | 
