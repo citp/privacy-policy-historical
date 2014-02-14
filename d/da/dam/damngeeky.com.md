@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the damngeeky.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818004527id_/http%3A//www.damngeeky.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the damngeeky.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214031142id_/http%3A//www.damngeeky.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | DamnGeeky
+# Privacy Policy - DamnGeeky | DamnGeeky
 
 Your privacy is one of our foremost concerns and this privacy policy covers all the different ways in which DamnGeeky collects and makes use of your personal information. We make it a point to protect your personal information and make sure that our services offer safe and risk-free environment for you as a user of the website. This privacy policy can be updated any time without prior notice as we reserve the rights to do so, so make it a point to read it carefully before proceeding ahead with using our services. If you don’t accept these privacy policies, please don’t use our website or services. Your use of our DamnGeeky website indicates you have read and understood this privacy policy and indicates your agreement to abide by the Terms of Use in effect. 
 
