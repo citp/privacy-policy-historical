@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roguefcu.org privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810054251id_/https%3A//roguefcu.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roguefcu.org privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214103333id_/https%3A//www.roguefcu.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rogue Federal Credit Union
 
@@ -6,7 +6,7 @@
 
 | 
 
-**WHAT DOES ROGUE FEDERAL** **CREDIT UNION** **DO  
+**WHAT DOES ROGUE** **CREDIT UNION** **DO  
 WITH YOUR PERSONAL INFORMATION?**  
   
 ---|---  
@@ -35,15 +35,14 @@ How?
 
 | 
 
-All financial companies need to share members' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their members' personal information; the reasons Rogue Federal Credit Union chooses to share; and whether you can limit this sharing.  
+All financial companies need to share members' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their members' personal information; the reasons Rogue Credit Union chooses to share; and whether you can limit this sharing.  
   
 **Reasons we can share your personal information**
 
 | 
 
-**Does** **Rogue Federal**
-
-**Share this?**
+**Does** **Rogue**  
+ **share this?**
 
 | 
 
@@ -103,7 +102,7 @@ No
 
 We don't share  
   
-**For nonaffiliates to market to you**
+**For non-affiliates to market to you**
 
 | 
 
@@ -119,7 +118,8 @@ We don't share
 
 Call 541.858.7328 or toll free at 800.856.7328,
 
-or write to us at Rogue Federal Credit Union, 1370 Center Dr., Medford, OR 97501  
+or write to us at Rogue Credit Union,  
+1370 Center Dr., Medford, OR 97501  
   
 ---|---  
   
@@ -127,13 +127,13 @@ or write to us at Rogue Federal Credit Union, 1370 Center Dr., Medford, OR 97501
   
 ---  
   
-**How does** **Rogue Federal Credit Union** **protect my personal information?**
+**How does** **Rogue Credit Union** **protect my personal information?**
 
 | 
 
 To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. We also restrict access to nonpublic personal information about you to those employees and volunteers who need to know the information to provide products or services to you.  
   
-**How does** **Rogue Federal Credit Union** **collect my personal information?**
+**How does** **Rogue Credit Union** **collect my personal information?**
 
 | 
 
@@ -157,7 +157,7 @@ Federal law only gives you the right to limit information sharing as follows:
 
   * sharing for affiliates' everyday business purposes-information about your creditworthiness
   * affiliates from using your information to market to you
-  * sharing for nonaffiliates to market to you
+  * sharing for non-affiliates to market to you
 
 
 
@@ -169,17 +169,17 @@ State laws and individual companies may give you additional rights to limit shar
 
 | 
 
-Companies related by common ownership or control. They can be financial and nonfinancial companies.
+Companies related by common ownership or control. They can be financial and non-financial companies.
 
-  * _Rogue Federal Member Financial Services, LLC and CUSO Financial Services, LP, providers of financial services, including insurance products._
+  * _Rogue Credit Union Member Financial Services, LLC and CUSO Financial Services, LP, providers of financial services, including insurance products._
 
   
   
-**Nonaffiliates**
+**Non-affiliates**
 
 | 
 
-Companies not related by common ownership or control. They can be financial and nonfinancial companies.
+Companies not related by common ownership or control. They can be financial and non-financial companies.
 
   * _Rogue Federal Credit Union does not share with non-affiliates so they can market to you._
 
@@ -189,7 +189,7 @@ Companies not related by common ownership or control. They can be financial and 
 
 | 
 
-A formal agreement between _Rogue Federal Credit Union and a_ nonaffiliated financial company where we jointly market financial products or services to you.
+A formal agreement between _Rogue Credit Union_ and a __ non-affiliated financial company where we jointly market financial products or services to you.
 
   * _Our joint marketing partners include financial services and insurance companies._
 
