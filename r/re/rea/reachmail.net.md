@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reachmail.net privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811211524id_/http%3A//www.reachmail.net/pages/privacy_policy/13.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachmail.net privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214014142id_/http%3A//www.reachmail.net/pages/privacy_policy/13.php) for the most accurate reproduction.*
 
 # ReachMail - Privacy Policy
 
