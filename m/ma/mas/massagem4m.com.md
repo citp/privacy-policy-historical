@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massagem4m.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807023028id_/http%3A//www.massagem4m.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massagem4m.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214080748id_/http%3A//www.massagem4m.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy | MassageM4M.com
 
@@ -19,13 +19,6 @@ Share:
 
 
 ### Most Popular Private Photos
-
-**Ricardo**  
-Orlando
-
-[](http://www.massagem4m.com/privatephotos/?display=random&ppselect=14973)
-
-[](http://www.massagem4m.com/masseur_viewlockphotos.cfm?id=14973 "Private Photos")
 
 [](http://www.massagem4m.com/male-massage-maps/all.cfm)
 
@@ -130,32 +123,16 @@ Beverly Hills, CA 90212
 
 ### You recently viewed these masseurs
 
-Nikko
+Scott
 
-[](http://www.massagem4m.com/ny/new-york-city/13796/)
+[](http://www.massagem4m.com/ca/los-angeles/15094/)
 
-Carlo
+River
 
-[](http://www.massagem4m.com/ga/atlanta/16731/)
-
-Eric
-
-[](http://www.massagem4m.com/ny/new-york-city/13823/)
-
-Jacob
-
-[](http://www.massagem4m.com/tx/houston/15751/)
-
-Valentim
-
-[](http://www.massagem4m.com/ny/new-york-city/16776/)
-
-Edin Sol
-
-[](http://www.massagem4m.com/ny/new-york-city/13674/)
+[](http://www.massagem4m.com/ca/west-hollywood/16423/)
 
 ### Important Notice: You must be 18 years or older to use this website. If you are under 18 years old, please close this window.
 
 Legal Notice: [18 U.S.C. § 2257](http://www.massagem4m.com/legalNotice.cfm) • [Privacy Policy](http://www.massagem4m.com/privacypolicy.cfm)
 
-By using this site, you Accept & Agree to the [Terms & Conditions of Use](http://www.massagem4m.com/terms.cfm) as applied to your use of this website.
+By using this site, you Accept & Agree to the [Terms & Conditions of Use](http://www.massagem4m.com/terms.cfm) as applied to your use of this website. 
