@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ispyconnect.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819073241id_/http%3A//www.ispyconnect.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ispyconnect.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214075334id_/http%3A//www.ispyconnect.com/privacy.aspx) for the most accurate reproduction.*
 
 # iSpy Privacy Policy
 
@@ -14,20 +14,20 @@ Google, as a third party vendor, uses cookies to serve ads on our site. Google's
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-; To personalize your experience  
+To personalize your experience  
 (your information helps us to better respond to your individual needs)
 
-; To improve our website  
+To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-; To improve customer service  
+To improve customer service  
 (your information helps us to more effectively respond to our customer service requests and support needs)
 
-; To process transactions
+To process transactions
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-; To send periodic emails
+To send periodic emails
 
 The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
