@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oldhousedreams.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013143136id_/http%3A//www.oldhousedreams.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldhousedreams.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214100542id_/http%3A//www.oldhousedreams.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Old House Dreams
+# Privacy Policy - Old House Dreams
 
 Privacy Policy for OldHouseDreams.com
 
