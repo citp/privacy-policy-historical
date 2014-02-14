@@ -1,6 +1,22 @@
-> *The following text is extracted and transformed from the guarantybanking.com privacy policy that was archived on 2013-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130910231610id_/http%3A//www.guarantybanking.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guarantybanking.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214150420id_/https%3A//www.guarantybank.com/PrivacyNotice.aspx) for the most accurate reproduction.*
 
-# Privacy Notice | Guaranty Bank
+# Privacy Notice
+
+[](https://guarantybank.com/Home.aspx "Guaranty Bank")
+
+### Have any questions?
+
+  * Call Us  
+1-800-235-INFO (4636)
+  * [Find Us](https://web.archive.org/ATMLocator.aspx)
+  * [Email Us](https://web.archive.org/email.aspx)
+  * Lost or Stolen   
+ATM/Debit Card Notification  
+1-800-554-8969
+
+
+
+For information on FDIC insurance coverage, [click here](https://www.fdic.gov/edie/index.html).
 
 **FACTS**
 
@@ -240,6 +256,18 @@ A formal agreement between nonaffiliated financial companies that together marke
   
 Guaranty Bank does business as BestBank in Georgia and Michigan.  
   
-Lost or Stolen  
-ATM/Debit Card Notification  
-1-800-554-8969
+### You are leaving GuarantyBank
+
+By clicking **Continue** , you will be taken to a website that is not affiliated with Guaranty Bank. Please be advised that you will no longer be subject to, or under the protection of, the privacy and security policies of Guaranty Bank's website. We encourage you to read and evaluate the privacy and security policies of the site you are entering, which may be different than those of Guaranty Bank.
+
+[Continue]()
+
+×
+
+### Unsecure Email Disclosure
+
+Your privacy is very important to us. We would like to advise you that Internet email is not secure. Please do not submit any information that you consider confidential. We recommend you do not include your social security or account number or other specific identifying information.
+
+[Continue]()
+
+×
