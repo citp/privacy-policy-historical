@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antiessays.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216015242id_/http%3A//www.antiessays.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antiessays.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214074415id_/http%3A//www.antiessays.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - AntiEssays.com
 
