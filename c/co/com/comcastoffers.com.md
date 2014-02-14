@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comcastoffers.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113185546id_/https%3A//www.comcastoffers.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comcastoffers.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214065526id_/https%3A//www.comcastoffers.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,4 +74,4 @@ We may update this Privacy Policy from time to time. When we do so, you will see
 
 If you have any questions regarding our privacy practices, please contact us at [comcastprivacy@customerservicesite.com.](mailto:comcastprivacy@customerservicesite.com)
 
-©2013 ComcastOffers.com. All rights reserved.
+©2014 ComcastOffers.com. All rights reserved.
