@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookchums.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204003759id_/http%3A//www.bookchums.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookchums.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214082723id_/http%3A//www.bookchums.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy and Policy of BookChums
 
