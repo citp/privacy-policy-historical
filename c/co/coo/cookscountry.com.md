@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookscountry.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102060433id_/http%3A//www.cookscountry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookscountry.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214021706id_/http%3A//www.cookscountry.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cook's Country
 
@@ -10,11 +10,15 @@ To protect your privacy, we have adopted the following principles, and assure yo
 
 There are times when we may collect personal information from you. For example, when you register with America’s Test Kitchen for one of our websites, cooking courses, electronic newsletters, product giveaways, surveys, or other services, personal information is requested. Furthermore, you may be asked, when entering personal information into one of our third party hosted applications (our iPad App as an example), whether you agree to have information shared with America’s Test Kitchen. If you choose not to provide the information we request, you can still visit parts of our websites, but you may be unable to access certain content, offers, and services. 
 
+We (or third party service providers on our behalf) may set and access cookies and similar technologies on your computer. The information collected may include, without limitation, information regarding your computer or device, browser, connection speed, geographic location of your computer, or other device, as well as date/time stamp, IP address, pages visited, time of visits, content viewed, ads viewed, the site(s), application(s), destination(s), and/or service(s) you arrived from, and other clickstream data. If you don’t want cookies, most Web browsers include an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of our sites may not function as intended. In addition we may receive information from third parties, including demographic information on site visitors (age, gender, and interests). 
+
 ##  Use of Information About You 
+
+America’s Test Kitchen uses the information we collect from site visitors in part to understand site usage and control the content and offerings on our sites. For example, a cookie is used to identify a registrant or member who has logged in, allowing their computer or device to remain logged in for an extended period of time. Demographic information is used for analyzing and understanding site usage and is not used for presentation of ads or offers. 
 
 From time to time, we are approached by companies or organizations that have a product or service that we believe might be of interest to you. We may share some your information with these companies so that they can communicate their products or services to you (we never share telephone or credit card numbers with any third party). You may receive a telemarketing sales call although your number is listed on the state or national ‘Do Not Call’ list. Please note the law allows contact if the two parties already do business or have done business in the recent past. 
 
-Your email address is added to our electronic mailing list so that, from time to time, we can send you our newsletter or information about additions and special promotions from America’s Test Kitchen. 
+Your email address is added to our electronic mailing list so that, from time to time, we can send you our newsletters or information about special promotions from America’s Test Kitchen. 
 
 Email addresses registered to our TV show websites are sometimes shared with third party underwriters of our television shows. Registrants have the opportunity to opt-out of these third party communications at the time that they register. Email addresses registered to CooksIllustrated.com are not shared with third parties. 
 
