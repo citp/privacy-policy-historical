@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisconsinrapidstribune.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219120324id_/http%3A//www.wisconsinrapidstribune.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisconsinrapidstribune.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214105852id_/http%3A//www.wisconsinrapidstribune.com/section/privacy) for the most accurate reproduction.*
 
 # privacy | Daily Tribune Media | wisconsinrapidstribune.com
 
