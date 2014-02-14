@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rcmart.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107045650id_/http%3A//www.rcmart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcmart.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214050223id_/http%3A//www.rcmart.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Notice | rcMart.com
-
-**Phone Order Support:** US +1(626)404-7382 | UK +44(020)8133-9382 | HK +(852)2858-6382
 
 Our Pledge to You, Our Customers
 
@@ -18,7 +16,4 @@ Thank you, and we hope you enjoy our store.
 
 \- rcMart.com
 
-_The above terms subject to our final decison._
-
-  
-
+rcMart never initiate contact with customers by email or any other type of electronic communication, such as text messages and social media channels to request financial information including PIN numbers, passwords, SSN or similar access information for credit cards, banks or other financial accounts.
