@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the getmytrip.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012105441id_/http%3A//www.getmytrip.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmytrip.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214163714id_/http%3A//www.getmytrip.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – All privacy policies are updated here frequently @ getmytrip.com
+# GetMyTrip Privacy and Policy – Travels websites, India Travel Portals
 
 |   
 ---  
   
-|  PRIVACY POLICY OF GETMYTRIP  
+
+
+|  PRIVACY POLICY OF GetMyTrip   
 ---  
 |   
 ---  
@@ -60,7 +62,7 @@ By using our site, you consent to our websites privacy policy.
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-www.getmytrip.com  
+GetMyTrip.com  
 **EDU POINT SOLUTION**  
 No. S-2, Venkateshwara Castle,  
 No. 30, Palat Sankaran Road,  
@@ -81,5 +83,4 @@ Thanking you for using GetMyTrip!!!
 |   
 ---  
   
-|  Copyright © 2013 - www.getmytrip.com All Rights Reserved.  |   
----|---
+Copyright © 2014 - www.GetMyTrip.com All Rights Reserved. 
