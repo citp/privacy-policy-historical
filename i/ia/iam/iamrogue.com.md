@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iamrogue.com privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018152831id_/http%3A//www.iamrogue.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamrogue.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214014235id_/http%3A//www.iamrogue.com/privacy.html) for the most accurate reproduction.*
 
 # IAMROGUE.COM PRIVACY POLICY - iamROGUE.com
 
@@ -13,17 +13,17 @@ Additionally, you will have an opportunity to unsubscribe from receiving promoti
 
 #### Personal Information
 
-We may collect information that personally identifies you, such as your name, zip code, e-mail, address, age, credit card and billing information, information about your interest in and use of various content, products, programs and services, and other personally identifiable information (“Personal Information”) when you request information from us, enter in or participate in our Promotions (as defined below), vote in polls, complete surveys or otherwise express an opinion, subscribe to one of our services such as our online newsletters, participate in one of our online forums or communities, make purchases, register on a Property, and at other times when we give you the opportunity to provide us Personal Information. The decision to provide this information to us is optional. However, if you choose not to provide the requested information, you may not be able to use some of the features of our Properties.
+We may collect information that personally identifies you, such as your name, zip code, e-mail, address, age, credit card and billing information, information about your interest in and use of various content, products, programs and services, and other personally identifiable information (“Personal Information”) when you request information from us, enter in or participate in our Promotions (as defined below), vote in polls, complete surveys or otherwise express an opinion, subscribe to one of our services such as our online newsletters, participate in one of our online forums or communities, make purchases, register on a Property, and at other times when we give you the opportunity to provide us Personal Information. The decision to provide this information to us is optional. However, if you choose not to provide the requested information, you may not be able to use some of the features of our Properties. Our Properties do not respond to web browser “do not track” signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of Personal Information about an individual consumer’s online activities over time.
 
 #### Information About Others
 
 The Properties may allow you to (i) submit information about other people, such as their name, e-mail, zip code, address, information about their interest in and use of various content, products, programs and services, and other information, and/or (ii) invite friends to join the Properties and to connect with you through our social media pages associated with Social Networking Sites (as defined below). We may collect any such information submitted or shared by you. The decision to provide such information is optional.
 
-#### Usage Data and Site Activity
+#### Usage Data and Site Activity 
 
 When your computer, tablet, mobile device or any other device contacts our web servers (for example, when you visit the Site or any other Property, scan a QR code, or view an HTML e-mail), we may collect information in connection with the actions you take on the Properties (“Usage Data”). For example, each time you use a Property we may collect the type of Web browser you use, your operating system, your Internet Service Provider, your IP address, the pages you view, your media access control (MAC) address, your mobile carrier, your mobile Internet browsers, your location information, and the time and duration of your visits to the Property. This anonymous usage information may be associated with your user name and profile, but we will not disclose the associated information to third parties, except as explained in this Privacy Policy. We may use this information to help us understand how people use the Properties, and to enhance the Properties and our services.
 
-#### Cookies and Web Beacons
+#### Cookies and Web Beacons 
 
 We may use cookies (a small text file placed on your computer to identify your computer and browser). We may also use Web beacons (an electronic file placed on a Web site that monitors usage). We use cookies and Web beacons primarily to improve the experience of the Properties, such as pre-populating your user name for easier login. Most Web browsers are initially set up to accept cookies. You can reset your Web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Properties may not work if you delete or disable cookies. Some of our Third-Party Providers (as defined below), may use their own cookies and Web beacons in connection with the services they perform on our behalf, as further explained below.
 
@@ -39,7 +39,7 @@ Although the Adobe Flash Player is used by the vast majority of websites that of
 We use Personal Information for internal purposes, such as to improve the Properties, to fulfill requests for products and services, to notify you of new products or services, and to otherwise communicate with you about Relativity and our affiliated companies.   
 We may use Usage Data for a number of purposes, such as system administration, to report aggregate information to our business partners or to audit the use of the Properties. We may associate your Usage Data with the Personal Information you provide. We may disclose to third parties certain Usage Data regarding the Properties. However, in such cases, your Usage Data will be aggregated with the Usage Data of others and will not identify you individually or include your Personal Information.
 
-#### Disclosure of Information
+#### Disclosure of Information 
 
 **Third-Party Providers.** From time to time, we may establish a business relationship with other businesses whom we believe trustworthy and who have confirmed that their privacy practices are consistent with ours (“Third-Party Providers”). For example, we may contract with Third-Party Providers to provide certain services, such as hosting and maintenance, data storage and management, credit-card processing and marketing and promotions. We only provide our Third-Party Providers with the information necessary for them to perform these services on our behalf. Each Third-Party Provider must agree to use commercially reasonable security procedures and practices appropriate to the nature of the information involved in order to protect your Personal Information from unauthorized access, use or disclosure. Third-Party Providers are prohibited from using Personal Information other than as specified by Relativity.   
 **Joint Offerings**. We may provide services jointly with other companies. In some cases, in order to facilitate such services, it may be necessary to share your Personal Information with such other companies. Before we do so, we will identify the partner, present the joint service provider’s privacy policy to you before you use that service, and obtain your permission to share your Personal Information.  
@@ -72,7 +72,7 @@ Relativity recognizes the importance of safeguarding the confidentiality of your
 
 The Properties are not intended for children under the age of 13, and we do not knowingly collect Personal Information from children under the age of 13. If we become aware that we have inadvertently received Personal Information from a child under the age of 13, we will delete such information from our records. In addition, we recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet. You hereby agree that all information you provide, including but not limited to age, will be truthful and correct. 
 
-### Processing in the United States
+### Processing in the United States 
 
 Please be aware that the Properties are operated solely in the United States and that your Personal Information and communications may be transferred to and maintained on servers or databases located outside your state, province, or country. By providing any information to Relativity, all users, including, without limitation, users in the member states of the European Union, Canada or elsewhere outside of the United States, fully understand and unambiguously consent to this Privacy Policy. If you are located outside of the United States, please be advised that the laws of the United States may not be as protective of your privacy as those in your location. By using our Properties, you agree that the collection, use, transfer, and disclosure of your Personal Information and communications will be governed by the applicable laws in the United States.
 
@@ -84,4 +84,4 @@ This Privacy Policy, including all revisions and amendments thereto, is governed
 
 From time to time, we may change this Privacy Policy. If we decide to change this Privacy Policy, we will inform you by posting the revised Privacy Policy on the Site. Those changes will go into effect on the Revision Date shown in the revised Privacy Policy. Your continued use of our Properties constitutes your consent to the revised Privacy Policy.
 
-Revised April 2, 2013
+Revised Dec 3, 2013 
