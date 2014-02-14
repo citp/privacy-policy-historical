@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psaworldtour.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019214421id_/http%3A//www.psaworldtour.com/page/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psaworldtour.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214204814id_/http%3A//www.psaworldtour.com/page/Privacy) for the most accurate reproduction.*
 
 # PSA World Tour | Privacy Policy | Privacy Policy
 
