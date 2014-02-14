@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the sportsshoes.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130005822id_/http%3A//www.sportsshoes.com/support/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsshoes.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214140059id_/http%3A//www.sportsshoes.com/support/Privacy) for the most accurate reproduction.*
 
 # Support, Help & Advice | SportsShoes.com
 
 Welcome to **SportsShoes.com** Currency  Language 
 
 [](http://www.sportsshoes.com/ "SportsShoes.com")
-
-[ ](https://web.archive.org/support/last-christmas-posting-dates)
 
 ## Privacy Policy
 
