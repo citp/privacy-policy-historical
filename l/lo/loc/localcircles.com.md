@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localcircles.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816034038id_/https%3A//www.localcircles.com/a/index/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localcircles.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214082102id_/https%3A//www.localcircles.com/a/index/privacypolicy) for the most accurate reproduction.*
 
 # LocalCircles - When trusted locals come together, Daily life becomes easy
 
