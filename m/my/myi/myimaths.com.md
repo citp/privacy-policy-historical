@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myimaths.com privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830071149id_/http%3A//www.myimaths.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myimaths.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214095219id_/http%3A//www.myimaths.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -56,7 +56,7 @@ Owing to the global nature of the Internet infrastructure, the information you p
 
 #### Updating Your Details
 
-If any of the information that you have provided to OUP changes e.g. if you change your e-mail address, please let us know the correct details by sending an e-mail to [mail@myimaths.com](https://web.archive.org/web/20130830071149id_/http%3A//www.myimaths.com/mail@myimaths.com)
+If any of the information that you have provided to OUP changes e.g. if you change your e-mail address, please let us know the correct details by sending an e-mail to [mail@myimaths.com](https://web.archive.org/web/20140214095219id_/http%3A//www.myimaths.com/mail@myimaths.com)
 
 #### Governing Law
 
