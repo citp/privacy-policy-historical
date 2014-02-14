@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the paydaybank.co.uk privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020114946id_/http%3A//www.paydaybank.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydaybank.co.uk privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214112541id_/http%3A//www.paydaybank.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Payday Bank is a trading name of PDB UK Limited. Any use of "we", "our" etc refers to this party. We are committed to preserving and respecting your privacy.
+Payday Bank is a trading name of Money Gap Group Limited. Any use of "we", "our" etc refers to this party. We are committed to preserving and respecting your privacy.
 
 The following information covers: 
 
@@ -48,7 +48,7 @@ Almost all websites gather information about you when you go to them to some deg
 
 
 
-Your details may be passed on to third parties involved in the lending process, including debt management companies and credit rating agencies. Some third parties may contact you for marketing purposes. They will have their own privacy policy and you will need to contact them separately if you want to be removed from their marketing information. If you are an existing customer, we will only contact you via email or SMS for re-marketing purposes.
+Your details may be passed on to third parties involved in the lending process, including debt management companies and credit rating agencies. Some third parties may contact you for marketing purposes. They will have their own privacy policy and you will need to contact them separately if you want to be removed from their marketing information. If you are an existing customer, we will only contact you via email, telephone or SMS for re-marketing purposes. Unless you opt out of future marketing campaigns when you apply with us, we may follow up your application with a courtesy call from one of our Customer Services team to see how you found the process and to offer any further assistance if required.
 
 ##  How we protect that information
 
@@ -91,7 +91,7 @@ There are limited scenarios where we would ever pass on your data to a third par
   * To prospective lenders to consider whether to make a loan to you. This may, as described earlier, involve credit and identity checking, and may involve third parties as appropriate to that end.
   * To law enforcement agencies. This is if there is ever any reason to suspect fraudulent information has been used, or identity theft. This is primarily to protect your privacy and data, in case anyone ever tries to apply with your information.
   * If we sell or buy any business or assets, or if we are acquired by a third party, in which case we may disclose data to prospective sellers or buyers of such business or assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use, and other agreements; or to protect the rights, property or safety of PDB UK Limited, our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use, and other agreements; or to protect the rights, property or safety of Money Gap Group Limited, our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
@@ -111,6 +111,6 @@ You have the right to access information we hold about you. If you would like to
 
 Any changes we make to our privacy policy will be posted on this page. Where appropriate, we will contact you by email. 
 
-You can contact us either by email or post.[customer.support@paydaybank.co.uk.](mailto:customer.support@paydaybank.co.uk) Data Protection Compliance Officer PDB UK Limited  
+You can contact us either by email or post.[customer.support@paydaybank.co.uk.](mailto:customer.support@paydaybank.co.uk) Data Protection Compliance Officer Money Gap Group Limited  
 28-32 Wellington Road  
 NW8 9SP
