@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the world-of-lucid-dreaming.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220234117id_/http%3A//www.world-of-lucid-dreaming.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the world-of-lucid-dreaming.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214234842id_/http%3A//www.world-of-lucid-dreaming.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for World of Lucid Dreaming
 
