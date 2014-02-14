@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the weargustin.com privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406022454id_/http%3A//www.weargustin.com/information%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weargustin.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214161038id_/https%3A//www.weargustin.com/information%23privacy) for the most accurate reproduction.*
 
-# Redefining premium menswear, starting with denim | GUSTIN
+# Redefining premium menswear | Gustin
 
   * Contact
   * Press
-  * Privacy policy
+  * Privacy Policy
+  * Referral Program Terms and Conditions
 
 
 
@@ -30,7 +31,7 @@ Gustin has been covered by [Esquire](http://www.esquire.com/blogs/mens-fashion/g
 
 * * *
 
-#### Privacy policy
+#### Privacy Policy
 
 This Privacy Policy governs the manner in which Gustin collects, uses, maintains and discloses information collected from users (each, a "User") of the www.weargustin.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Gustin.
 
@@ -69,6 +70,10 @@ Sharing your personal information
 
 We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
+Marketing Opt-In and Opt-Out Provision
+
+When you register, you will be given the option to opt-out of subscribing to our regular update service which will send you: Email alerts for new products, features, enhancements, special offers, upgrade opportunities, contests, events of interest, and one-off marketing promotions. Such alerts may include marketing information about Gustin. We do not sell or otherwise pass your details to third parties for marketing purposes. Marketing communications you subscribe to will only be sent by Gustin. At all times, we will offer you the opportunity to unsubscribe out of any service or update to which you have subscribed, if you change your mind. Any e-mail we send you will contain an easy automated unsubscribe link so that you can opt-out of that particular mailshot. Simply follow the instructions in the e-mail.
+
 Third party websites
 
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
@@ -83,6 +88,20 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: Gustin www.weargustin.com 1158 Glen Ave Berkeley, CA 94708 [team@weargustin.com](mailto:team@weargustin.com)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: Gustin www.weargustin.com 6 Mint Plaza, Unit 402, San Francisco, CA 94103 [team@weargustin.com](mailto:team@weargustin.com)
 
-This document was last updated on March 23, 2013
+* * *
+
+#### Referral Program Terms and Conditions
+
+LIMITED TIME ONLY. 
+
+To participate, refer friends who have not previously made a purchase from Gustin and are not current Gustin customers (each a “referred new customer”) by sending them the personal referral link provided to you as the recipient of this invite-only special offer. Each new customer you refer who clicks on your personal referral link will receive a store credit when they sign up for an account via your referral link and make a purchase of $80 or more prior to the referral offer's expiration or modification (a “qualifying purchase”).
+
+During this limited time offer, each referring customer will receive store credit for each qualifying purchase made by a referred new customer. There is no limit to the number of new customers you may refer, except that you may only refer up to one (1) member of your household to receive a promo code and a referral credit.
+
+In the event a referred new customer returns a purchased item and their lifetime order value decreases below $80, the referral credit awarded to the referring customer may be rescinded. Referring customers may not refer anyone who is an existing Gustin customer, including an existing customer with an account under an alternate email address. Referring customers may not use spam or send unsolicited emails to persons they don't personally know to collect referrals and may not collect referrals by posting on message boards or other online venues in violation of such venues’ terms of use. Gustin reserves the right to cancel a referring customer’s referral credit if it determines in its sole discretion that a referring customer has violated these terms, including through any fraudulent or misleading referral activity (for example, by referring fake people to Gustin, using false names, using multiple identities, email accounts or email addresses, impersonating another person, or otherwise providing false or misleading information) or if Gustin terminates the referring customer’s account for any reason. Referring customers may also be liable for civil and/or criminal penalties under applicable law. Any other abuse of this offer (including but not limited to hijinks and tomfoolery), as determined by Gustin in its sole discretion, may result in the rescission of the referring customer’s referral credit and cancellation of the referred customer’s discounted order, as well as a determination that one or both parties are ineligible to participate in this or future offers. Determination of referral eligibility and qualifying purchases, as well as any exceptions, are at the sole discretion of Gustin. Gustin reserves the right to verify and adjust credits at any time prior to or following posting and redemption.
+
+Referral credit cannot be applied to previous purchases, and is not redeemable for cash. Offer not transferable. This referral program is subject to modification, suspension or termination at any time without notice in Gustin's sole discretion.
+
+This document was last updated on October 28, 2013
