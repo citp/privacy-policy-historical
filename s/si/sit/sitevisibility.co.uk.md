@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitevisibility.co.uk privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808060138id_/http%3A//www.sitevisibility.co.uk/cookie-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitevisibility.co.uk privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214050128id_/http%3A//www.sitevisibility.co.uk/cookie-and-privacy-policy) for the most accurate reproduction.*
 
 # Cookie and Privacy Policy - SiteVisibility | SiteVisibility
 
