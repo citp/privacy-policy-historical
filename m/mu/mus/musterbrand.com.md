@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musterbrand.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814050710id_/https%3A//www.musterbrand.com/custom/index/sCustom/45) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musterbrand.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214015319id_/https%3A//www.musterbrand.com/custom/index/sCustom/45) for the most accurate reproduction.*
 
 # Privacy policy | Musterbrand Store
 
@@ -52,6 +52,18 @@ Specifically, we use the following plug-ins:
 Our Web site uses Google Analytics, a Web analytics service of Google, Inc. The "cookies" set by Google Analytics transmit information about the usage of our Web site to a Google server in the United States, where it is stored. Google uses this information to evaluate your use of our Web site, to prepare reports about Web site activity for the operators of the Web site, and to provide additional services associated with Web site usage and Internet usage. Insofar as legally required or insofar as third parties process this data at Google's request, Google will also provide this information to those third parties. Data is used in anonymised or pseudonymised form. You can prevent data collection by Google Analytics by installing this browser plug-in: [https://tools.google.com/dlpage/gaoptout?hl=de](https://tools.google.com/dlpage/gaoptout?hl=de)
 
 More information: [http://www.google.de/intl/de/analytics/privacyoverview.html](http://www.google.de/intl/de/analytics/privacyoverview.html)
+
+**xplusone [x+1]**
+
+Our Web site uses [x+1], a Web analytics service of [x+1], Inc. The "cookies" set by [x+1] transmit information about the usage of our Web site to a [x+1] server in the United States, where it is stored. [x+1] uses this information to evaluate your use of our Web site, to prepare reports about Web site activity for the operators of the Web site, and to provide additional services associated with Web site usage and Internet usage. Insofar as legally required or insofar as third parties process this data at [x+1]'s request, [x+1] will also provide this information to those third parties. Data is used in anonymised or pseudonymised form. You can prevent data collection by [x+1] by opting out through the following website: [http://www.xplusone.net/privacy-2/](http://www.xplusone.net/privacy-2/)
+
+More information: [http://www.xplusone.net/privacy/](http://www.xplusone.net/privacy/)
+
+**Criteo**
+
+Our Web site uses Criteo, a Web analytics service of Criteo GmbH. The "cookies" set by Criteo transmit information about the usage of our Web site to a Criteo server, where it is stored. Criteo uses this information to evaluate your use of our Web site, to prepare reports about Web site activity for the operators of the Web site, and to provide additional services associated with Web site usage and Internet usage. Insofar as legally required or insofar as third parties process this data at Criteo's request, Criteo will also provide this information to those third parties. Data is used in anonymised or pseudonymised form. You can prevent data collection by Criteo by opting out through the following website: [](http://www.xplusone.net/privacy-2/)<http://www.criteo.com/en/privacy-policy>
+
+More information: [](http://www.xplusone.net/privacy/)<http://www.criteo.com/en/privacy-policy>
 
 **Facebook**
 
