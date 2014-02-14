@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hondafinancialservices.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809095615id_/http%3A//www.hondafinancialservices.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hondafinancialservices.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214113820id_/http%3A//www.hondafinancialservices.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Honda Auto Leasing and Financing - Privacy Policy
 
@@ -14,6 +14,8 @@ We may request personally identifiable information in order to enhance your expe
 
 To use American Honda's Internet services, such as the Dealer Locator and brochure requests, we require a certain amount of personally identifying information such as name and address to meet your request.  We may use this information to identify and access data in the existing relationship we have with you to provide you with the requested services.  We may request email addresses as an alternate means of contacting you.
 
+Our websites may not recognize browser based do not track signals.
+
 We collect and use anonymous information
 
 We may gather and store certain anonymous information about your visit, including the name of your Internet Service Provider (ISP), the type of browser and operating systems used to access our site, the date and time you access our site, the website that referred you to us, and the pages you visit (click-through).  This information does not identify you personally.  This information is collected and used to generate statistics, measure site activity, and improve the usefulness of our sites.
@@ -28,7 +30,7 @@ Some of our sites, such as automobiles.honda.com and owners.honda.com/owners.acu
 
 Information use
 
-The information you share with American Honda is used to improve the services we provide you and to provide services to you that you request.  For example, if you enroll in EasyPay or Pay Online, our account payment services, we will be required to validate your bank account information with your bank.  If you request brochures, we may hire a third party fulfillment company to meet your request.  We may share information about you with third party service providers (such as companies who assist us in conducting surveys and research to help us provide better products and services).  However, your information is not shared with or sold to any other third party entity or individual for that entity or individual's independent use with the exception of when you request to be added to the fan mailing list of one of the participating Civic Tour bands and/or Civic Tour promotional partners or in situations where required by law, we may need share this information with law enforcement officials such as in response to a court order or subpoena.  American Honda Finance Corporation ("AHFC") customers are also encouraged to see the AHFC Financial Privacy Policy below to learn more about our protections and use of your nonpublic personal information (such as personally identifiable financial information).  
+The information you share with American Honda is used to improve the services we provide you and to provide services to you that you request.  For example, if you enroll in EasyPay or Pay Online, our account payment services, we will be required to validate your bank account information with your bank.  If you request brochures, we may hire a third party fulfillment company to meet your request.  We may share information about you with third party service providers (such as companies who assist us in conducting surveys and research to help us provide better products and services).  However, your information is not shared with or sold to any other third party entity or individual for that entity or individual's independent use with the exception of when you request to be added to the fan mailing list of one of the participating Civic Tour bands and/or Civic Tour promotional partners or in situations where required by law, we may need to share this information with law enforcement officials such as in response to a court order or subpoena.  American Honda Finance Corporation ("AHFC") customers are also encouraged to see the AHFC Financial Privacy Policy below to learn more about our protections and use of your nonpublic personal information (such as personally identifiable financial information).  
 
 Security
 
@@ -197,8 +199,9 @@ Honda Titling A-D LPs
 **Privacy Policy Overview**   
 American Honda Finance Corporation ("AHFC") respects and protects customer privacy.  We know privacy is important to you and is vital to our business.  As required by law, this document explains our Privacy Policy.  We want you to know how we keep our customer information private and secure and how we use the information to provide you a broad range of financial services and products to serve you better.
 
-**How do we protect information?**   
-We maintain physical and electronic safeguards as well as policies and procedures that comply with federal regulations and prevent unauthorized access to customer information.  In addition, we only permit access to information about you to our employees who need to know that information to provide products or services to you and to service your account.
+**How do we protect information?**
+
+We maintain physical and electronic safeguards and have policies and procedures that are intended to prevent unauthorized access to consumer information.
 
 **AHFC collects information from**
 
@@ -228,6 +231,6 @@ We may also disclose:
 
 * information about you to nonaffiliated third parties as permitted or required by law (for example, information provided to credit reporting agencies or in response to a subpoena).
 
-If we change our policy on how we handle your information, we will notify you in advance.
+If we modify our privacy policy on how we handle your personal information, we will post the revised information here, with a revised "effective date" at the top of this privacy policy. If there are material changes to this privacy policy or in how we will use your personal information, we may notify you by other means, such as sending an email to you or by posting a notice of such changes on our website. We encourage you to periodically review this statement to be informed of how we are protecting your information.
 
 BACK TO TOP
