@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flirtcatalog.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005155941id_/http%3A//www.flirtcatalog.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flirtcatalog.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214033812id_/http%3A//www.flirtcatalog.com/privacy_policy.html) for the most accurate reproduction.*
 
 # FlirtCatalog.com - Women's Apparel, Sexy Dresses, Sexy Swimwear, Shoes, Accessories & Sexy Costumes.
 
