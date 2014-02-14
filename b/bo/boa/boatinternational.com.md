@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boatinternational.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104063727id_/http%3A//www.boatinternational.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boatinternational.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214074322id_/http%3A//www.boatinternational.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,7 +62,13 @@ Third parties that support our Site by serving advertisements or providing servi
 **Use of Your Information**  
 By using this Site, you agree that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and developing our business which shall include (without limitation):
 
-• Personalising your visits to the Site and developing the design and style of the Site to improve the services provided to you • Informing you about the latest changes to the Site, or products, services or promotional offers that you might find interesting. We may contact you by post, telephone, SMS, text/picture/video message or fax, as well as by email • Communicating (and personalising such communication) with you • Informing you if you have been successful in any Site competitions or promotions • Compiling customer reviews • Conducting market research • Carrying out statistical, technical and logistical analysis.
+• Personalising your visits to the Site and developing the design and style of the Site to improve the services provided to you  
+• Informing you about the latest changes to the Site, or products, services or promotional offers that you might find interesting. We may contact you by post, telephone, SMS, text/picture/video message or fax, as well as by email  
+• Communicating (and personalising such communication) with you  
+• Informing you if you have been successful in any Site competitions or promotions  
+• Compiling customer reviews  
+• Conducting market research  
+• Carrying out statistical, technical and logistical analysis.
 
 We may use information we collect from you and about you to improve our Site and features, to improve your experience online and off line by delivering content you may find interesting and relevant including advertising and marketing messages; to allow you to comment on our Site and its features and to provide you with customer support or respond to your enquiries. If we provide your information to third parties for the provision of services or in order to respond to an enquiry your personal information will only be provided to that third party for that sole purpose.
 
@@ -94,9 +100,16 @@ This Site contains links to other websites. Please note that we are not responsi
 You can access and make edits to the personal data we hold about you by logging into the Site and accessing your account. However, if you would like to inquire about additional data we may hold about you, you can also contact us as described below.  
 You have the right, subject to the payment of a small fee (currently £10), to request access to personal data which we may process about you. If you wish to exercise this right you should:
 
-• Put your request in writing to Data Manager, Boat International Media Limited, 41-47 Hartfield Road, LONDON, SW19 3RQ, United Kingdom • include proof of your identity and address (e.g. a copy of your driving licence or passport, and a recent utility or credit card bill) • attach a cheque in the amount of £10 made payable to Boat International Media Limited • Specify the personal data you want access to.
+• Put your request in writing to Data Manager, Boat International Media Limited, 41-47 Hartfield Road, LONDON, SW19 3RQ, United Kingdom  
+• Include proof of your identity and address (e.g. a copy of your driving licence or passport, and a recent utility or credit card bill)  
+• Attach a cheque in the amount of £10 made payable to Boat International Media Limited  
+• Specify the personal data you want access to.
 
-Once you have received your details you also can request that we correct, or delete any inaccuracies in this information free of charge. If you wish to exercise this right you should: • put your request in writing to privacy@boatinternationalmedia.com • provide us with enough information to identify you (e.g. username, registration details) • specify the information that is incorrect and what it should be replaced with.
+Once you have received your details you also can request that we correct, or delete any inaccuracies in this information free of charge. If you wish to exercise this right you should:
+
+• Put your request in writing to privacy@boatinternationalmedia.com  
+• Provide us with enough information to identify you (e.g. username, registration details)  
+• Specify the information that is incorrect and what it should be replaced with.
 
 **Other Important Information**  
 Updates to our Privacy Policy: we may modify this Privacy Policy. Please look at the Effective Date at the top of the Privacy Policy to see when this Privacy Policy was last revised. Any changes to the Privacy Policy will become effective when we post the revised Privacy Policy on this Site.
