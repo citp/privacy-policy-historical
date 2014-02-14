@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iliketoquote.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810104808id_/http%3A//www.iliketoquote.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iliketoquote.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214201715id_/http%3A//www.iliketoquote.com/privacy.php) for the most accurate reproduction.*
 
-# iLiketoquote - Facebook Quotes, Love Quotes, Status Quotes, Funny Quotes, Life Quotes
+# Quotes, Sayings and Quote Images for you to share from iLikeToQuote
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at support@iliketoquote.com. 
 
