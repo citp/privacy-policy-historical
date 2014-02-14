@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purevpn.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209141910id_/http%3A//www.purevpn.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purevpn.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214145544id_/http%3A//www.purevpn.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - PureVPN.com
 
@@ -71,6 +71,10 @@ All PII, public and private keys, passwords are stored in encrypted format, usin
 **File Sharing Activities and DMCA Notices**
 
 You agree that you will not perform any kind of illegal file sharing activities including copyrighted material in jurisdictions where it's illegal by law namely United Kingdom (UK) , United States (US), Canada, Australia and others. We actively block sharing of copyrighted materials/torrents on our servers as per changing global web policies to keep our service in compliance. As of now, we allow file sharing on Turkey, Sweden, Romania, Luxembourg, Netherlands, Germany (de1 only) and Russian servers. PureVPN complies with all DMCA notices and in this regard forbids its clients to refrain from such activities.
+
+**VPN Service Data Routing**
+
+PureVPN certainly makes it the best of its capability, business and commercial logic to direct the interchange from the country of your liking (whereby, country means the location as stated in 3rd party independent IP to location information databases). However, precedence of our system is to set free high momentum and latency to end user to ensure virtually 100% consistency. Keeping the probability alive, at times desired datacenter or country may be pre-occupied or not the best option to bring out the combination of low latency and high speed. In order to offer 100% for its users, the traffic will be routed to another interchange within the same desired country or if not possible, to the nearest best available country. 
 
 **Important Note**
 
