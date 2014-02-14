@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futuretrk.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606001914id_/https%3A//www.futureads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futuretrk.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214083438id_/https%3A//www.futureads.com/privacy-policy) for the most accurate reproduction.*
 
 # Future Ads' Privacy Policy
 
@@ -34,7 +34,7 @@ If you do not want us to collect your PII as described above or to use and share
 
 Updating Your Personally Identifiable Information
 
-We will retain your information for as long as needed to provide you services, or as necessary to comply with our legal obligations, resolution of disputes, and enforcement of our agreements. You may update, correct, amend or request to remove your PII from our systems by emailing us at   or by calling us at (866) 394-1786.
+We will retain your information for as long as needed to provide you services, or as necessary to comply with our legal obligations, resolution of disputes, and enforcement of our agreements. You may update, correct, amend or request to remove your PII from our systems by emailing us at [info@FutureAds.com](mailto:info@FutureAds.com) or by calling us at (866) 394-1786.
 
 Children’s Privacy
 
@@ -88,10 +88,10 @@ The Site may provide links to the websites of our business partners. If you link
 
 Your California Privacy Rights
 
-Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates’ direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request by email to  . Please allow 30 days for a response.
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates’ direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request by email to [legal@FutureAds.com](mailto:legal@FutureAds.com). Please allow 30 days for a response.
 
 QUESTIONS AND CONCERNS
 
-If you have any questions or concerns about the Privacy Policy or its implementation, please email us at  . For general questions about the Site, please email us at  . Alternatively, you may call us at (866) 394-1786 or write to us at Future Ads LLC, 2010 Main Street, Suite 900, Irvine, CA 92614, Attn: Legal Department.
+If you have any questions or concerns about the Privacy Policy or its implementation, please email us at [legal@FutureAds.com](mailto:legal@FutureAds.com). For general questions about the Site, please email us at [info@FutureAds.com](mailto:info@FutureAds.com). Alternatively, you may call us at (866) 394-1786 or write to us at Future Ads LLC, 2010 Main Street, Suite 900, Irvine, CA 92614, Attn: Legal Department.
 
 Effective: August 1, 2012
