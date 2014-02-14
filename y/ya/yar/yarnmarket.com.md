@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yarnmarket.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821115720id_/http%3A//www.yarnmarket.com/generate/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yarnmarket.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214185118id_/http%3A//www.yarnmarket.com/generate/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,7 +13,7 @@
 Call us toll free:  
   
 **Outside of the USA:**   
-(9AM-5PM ET  
+(10AM-5PM ET  
 Monday - Friday)
 
 |  |    
@@ -26,7 +26,7 @@ Yarn Market Knitting Store and Yarnmarket, LLC collect information in several wa
 
 **We do not sell or otherwise share your confidential information with any outside marketing, research or other company or companies.**
 
-Customer information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without the consent of the customer, other than for the express purpose of delivering the purchased product or service requested by the customer.
+Customer information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without the consent of the customer, other than for the express purpose of delivering the purchased product or service requested by the customer with the exception of a change in ownership of the company.
 
 Your credit card information is safely and securely stored on our servers which are not accessible by any unauthorized users. When your credit card is charged, our payment gateway provider, [Authorize.net](http://www.authorize.net/), keeps your credit information encrypted and secure on your behalf.
 
