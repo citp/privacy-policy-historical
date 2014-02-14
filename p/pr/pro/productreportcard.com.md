@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the productreportcard.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908145408id_/http%3A//www.productreportcard.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productreportcard.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214111309id_/http%3A//www.productreportcard.com/privacy.cgi) for the most accurate reproduction.*
 
 # Product Report Card Privacy Policy
 
@@ -7,10 +7,6 @@
 ProductReportCard.com Privacy Policy
 
 ProductReportCard.com takes your privacy seriously, and has created this Privacy Policy in order to demonstrate our firm commitment to online privacy. Keep reading to learn more about our information gathering and dissemination practices, and our use of personally identifiable information while on our Web site [www.productreportcard.com](http://www.productreportcard.com/) ("The site" "ProductReportCard.com", "we", "us").
-
-ProductReportCard.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@productreportcard.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
-
-ProductReportCard.com complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. ProductReportCard.com has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view ProductReportCard.com's certification, please visit <http://www.export.gov/safeharbor/>
 
 **What information does ProductReportCard.com collect from visitors?**
 
