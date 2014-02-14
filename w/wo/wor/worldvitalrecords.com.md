@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldvitalrecords.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425082501id_/http%3A//www.worldvitalrecords.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldvitalrecords.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214040333id_/http%3A//www.worldvitalrecords.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # World Vital Records - Genealogy Privacy Policy
 
@@ -20,4 +20,4 @@ We use third-party advertising companies to serve ads when you visit some pages 
 
 **Changes to This Privacy Policy**
 
-We may occasionally update this Privacy Policy to reflect changes in our services. When we make changes to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. Please review this Privacy Policy from time to time. If you are concerned about how we are protecting your information, please contact us at World Vital Records, Inc., 4778 N 300 W #230, Provo, Utah, 84604, 888-377-0588. 
+We may occasionally update this Privacy Policy to reflect changes in our services. When we make changes to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. Please review this Privacy Policy from time to time. If you are concerned about how we are protecting your information, please contact us at World Vital Records, Inc., 2975 Executive Parkway Ste 310, Lehi, Utah 84034, 84604, 888-377-0588. 
