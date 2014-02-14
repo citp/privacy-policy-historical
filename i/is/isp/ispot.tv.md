@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ispot.tv privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207193132id_/http%3A//www.ispot.tv/agreements/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ispot.tv privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214024355id_/http%3A//www.ispot.tv/agreements/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - iSpot.tv
 
