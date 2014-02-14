@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the billguard.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112110434id_/https%3A//www.billguard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billguard.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214095051id_/https%3A//www.billguard.com/privacy) for the most accurate reproduction.*
 
-# BillGuard® | The Smart Inbox For Your Money | Privacy & Security Policy
+# BillGuard® | The Smart Money App | Privacy & Security Policy
 
 ##  Privacy & Security Policy 
 
-Hi there. We realize legal documents like these are mostly never read but since you cared enough to click over, we want to take the opportunity to thank you and to tell you that your privacy and security are our top priorities at BillGuard. No, really. We're in the business of protecting you and that all starts with ensuring that your [financial data is safe.](https://web.archive.org/web/20131112110434id_/https%3A//www.billguard.com/secure) We do not sell your personal information to any third party, for any reason. 
+Hi there. We realize legal documents like these are mostly never read but since you cared enough to click over, we want to take the opportunity to thank you and to tell you that your privacy and security are our top priorities at BillGuard. No, really. We're in the business of protecting you and that all starts with ensuring that your [financial data is safe.](https://web.archive.org/web/20140214095051id_/https%3A//www.billguard.com/secure) We do not sell your personal information to any third party, for any reason. 
 
 We also go out of our way to request only the minimal information needed in order to notify you when BillGuard finds Grey Charges on your accounts. The text below explains how we use the information you provide us in as clear terms as possible but if anything is confusing or you'd just like to chat about it, please feel free to email me personally at yaron@billguard.com. I look forward to your email and thank you for the opportunity to earn your trust. We truly are safer together.
 
