@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the emitations.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129140754id_/http%3A//www.emitations.com/privacypolicy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emitations.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214070739id_/http%3A//www.emitations.com/privacypolicy1.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [](http://www.emitations.com/emitations-coupon-code.html)
-
-[](https://web.archive.org/web/20131129140754id_/http%3A//www.emitations.com/holiday-gifts.html)
 
   
 [](http://www.stellaservice.com/profile/2245/)
@@ -37,7 +35,11 @@ These parties are not allowed to use personally identifiable information excepti
   
 ---  
   
-  
+JOIN THE LIST
+
+Subscribe to stay in the know!
+
+FOLLOW US  
   
 **Celebrity Disclaimer**  
 The celebrities pictured on Emitations.com do not sponsor or endorse the products sold on Emitations.com and are not associated or affiliated with Emitations.com. Emitations.com's use of the celebrities pictured are for informational purposes only, in order to demonstrate the similarity of Emitations.com's products with those worn by celebrities. 
