@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the favouritehobbies.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907080213id_/http%3A//www.favouritehobbies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favouritehobbies.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214100115id_/http%3A//www.favouritehobbies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Favourite Hobbies
 
