@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexar.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207223259id_/http%3A//www.lexar.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexar.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214091127id_/http%3A//www.lexar.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Lexar
 
@@ -32,7 +32,7 @@
 
 **IP addresses** We may use your IP address to help diagnose problems with our servers, administer our sites, and gather broad demographic information to measure general interest in our products and to share with our advertisers on a summary, not individual, basis.
 
-**Cookies**  For information about how this website uses cookies, [visit our cookie page](https://web.archive.org/web/20131207223259id_/http%3A//www.lexar.com/about/cookies-and-how-we-use-them).
+**Cookies**  For information about how this website uses cookies, [visit our cookie page](https://web.archive.org/web/20140214091127id_/http%3A//www.lexar.com/about/cookies-and-how-we-use-them).
 
 **Supplemental information** We may supplement the information that you provide with information that is received from third parties. For example, Micron CPG may use information that we purchase from a database marketing information firm to enhance our understanding of the information that you provide.
 
