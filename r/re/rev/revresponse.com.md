@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revresponse.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022003249id_/http%3A//www.revresponse.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revresponse.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214133330id_/http%3A//www.revresponse.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | B2B Affiliate Program - RevResponse
 
