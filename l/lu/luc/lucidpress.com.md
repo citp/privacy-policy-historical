@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the lucidpress.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031052515id_/https%3A//www.lucidpress.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucidpress.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214123150id_/https%3A//www.lucidpress.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Lucidpress
 
 This Lucidpress Privacy Policy describes how we treat personal information when you use Lucidpress' services, including information provided to Lucidpress.
 
-July 30, 2010 
+_
+
+Updated December 13, 2013
+
+_
 
 ## Personal Information
 
-  * Account activity. You need a Lucid Account to create layout and design documents in Lucidpress. Lucid asks for some personal information when you create a Lucid Account, including your email address and a password, which is used to protect your account from unauthorized access. Lucid's servers automatically record certain information about your use of Lucidpress. Similar to other web services, Lucid records information such as account activity (e.g., storage usage, number of log-ins, actions taken), data displayed or clicked on (e.g., UI elements, links), and other log information (e.g. browser type, IP address, date and time of access, cookie ID, referrer URL, etc.). Lucidpress may collect automated error reports in the case of software malfunction; such error reports may contain some or all of the information in your documents and may be reviewed to help resolve problems with the Lucidpress software or service.
+  * Account activity. You need a Lucid Account to create layout and design documents in Lucidpress. Lucid asks for some personal information when you create a Lucid Account, including your email address and a password, which is used to protect your account from unauthorized access. Lucid's servers automatically record certain information about your use of Lucidpress. Similar to other web services, Lucid records information such as account activity (e.g., storage usage, number of log-ins, actions taken), data displayed or clicked on (e.g., UI elements, links), and other log information (e.g., browser type, IP address, date and time of access, cookie ID, referrer URL, etc.). Lucidpress may collect automated error reports in the case of software malfunction; such error reports may contain some or all of the information in your documents and may be reviewed to help resolve problems with the Lucidpress software or service.
   * Content. Lucidpress stores, processes and maintains your files (as well as previous versions of your files), sharing lists, and other data related to your account in order to provide the service to you.
 
 
