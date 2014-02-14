@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citytowninfo.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015043343id_/http%3A//www.citytowninfo.com/cti/cti-privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citytowninfo.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214203853id_/http%3A//www.citytowninfo.com/cti/cti-privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
