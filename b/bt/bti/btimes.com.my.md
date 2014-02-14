@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btimes.com.my privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216054954id_/http%3A//www.btimes.com.my/Current_News/BTIMES/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btimes.com.my privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214172854id_/http%3A//www.btimes.com.my/Current_News/BTIMES/privacy) for the most accurate reproduction.*
 
 # Business Times
 
