@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindmyhouse.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811231450id_/http%3A//www.mindmyhouse.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindmyhouse.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214124744id_/http%3A//www.mindmyhouse.com/about/privacy_policy) for the most accurate reproduction.*
 
 # MindMyHouse - Privacy policy
 
