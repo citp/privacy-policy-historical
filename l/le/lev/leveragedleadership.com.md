@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leveragedleadership.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127094420id_/http%3A//leveragedleadership.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leveragedleadership.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214041318id_/http%3A//leveragedleadership.com/privacy-policy) for the most accurate reproduction.*
 
 # Empower Network: Privacy Policy
 
