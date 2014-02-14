@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sportlobster.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109113506id_/https%3A//sportlobster.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportlobster.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214232256id_/https%3A//sportlobster.com/page/privacy) for the most accurate reproduction.*
 
 # Sportlobster
 
 PRIVACY AND COOKIES POLICY 
 
-(Last updated: April 2013) 
+(Last updated: January 2014) 
 
 1.INFORMATION ABOUT US
 
@@ -12,11 +12,11 @@ Welcome to Sportlobster www.sportlobster.com (our site), the sport social networ
 
 Whether it’s a status update, a comment, a prediction or an article that you use to express your opinion, the world will have access to it just as you’ll have access to those of other users.
 
-Our site is operated and owned by Lobster Media Ltd whose registered address is 4th  floor, 36 Spital Square, London E1 6DY with registration number 08100720 (“we, us or our”). We take your privacy very seriously and are committed to protecting and respecting it.
+Our site is operated and owned by Sportlobster Ltd whose registered address is 4th  floor, 36 Spital Square, London E1 6DY with registration number 8675336 (“we, us or our”). We take your privacy very seriously and are committed to protecting and respecting it.
 
 This Privacy and Cookies Policy (together with the documents referred to on it and the terms and conditions) sets out the basis on which any personal data we collect from you, or that you provide to us, either though our site or email notifications, applications, buttons and widgets (the services), will be processed by us . Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purposes of the Data Protection Act 1998 (the “Act”), the data controller is Lobster Media Ltd of 4th floor, 36 Spital Square, London, E1 6DY.
+For the purposes of the Data Protection Act 1998 (the “Act”), the data controller is Sportlobster Ltd of 4th floor, 36 Spital Square, London, E1 6DY.
 
 We will only collect and process information about you in accordance with this Privacy and Cookies Policy. By using our site and other services, you consent to such processing. 
 
