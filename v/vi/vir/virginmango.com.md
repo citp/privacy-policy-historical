@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginmango.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210093151id_/http%3A//www.virginmango.com/insidepage.aspx%3FId%3D29) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmango.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214212640id_/http%3A//www.virginmango.com/insidepage.aspx%3FId%3D29) for the most accurate reproduction.*
 
 # Privacy Policy | VirginMango.com
 
