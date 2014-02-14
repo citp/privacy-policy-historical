@@ -1,32 +1,32 @@
-> *The following text is extracted and transformed from the creditinfocenter.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030095531id_/http%3A//www.creditinfocenter.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditinfocenter.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214191052id_/http%3A//www.creditinfocenter.com/privacy.shtml) for the most accurate reproduction.*
 
-# Privacy/Acceptable Use Policy - creditinfocenter.com
+# Privacy and Acceptable Use Policy For Credit Info Center
 
   
 
 
-## Web Nation, Inc. Takes Your Privacy Seriously
+## Credit Info, LLC Takes Your Privacy Seriously
 
 ### What This Policy Covers
 
-The Creditinfocenter website is owned by Web Nation, Inc. This privacy policy covers Web Nation, Inc.'s treatment of personally identifiable information that Creditinfocenter collects when you are on our site and when you use Credinfocenter's services. This policy does not apply to the practices of companies and websites that Web Nation, Inc. does not own or control, or to people that Web Nation, Inc. does not employ or manage.
+The Creditinfocenter website is owned by Credit Info, LLC. This privacy policy covers Credit Info, LLC's treatment of personally identifiable information that Creditinfocenter collects when you are on our site and when you use Credinfocenter's services. This policy does not apply to the practices of companies that Credit Info, LLC does not own or control, or to people that Credit Info, LLC does not employ or manage.
 
 ### Information Collection and Use
 
 Creditinfocenter collects personally identifiable information when you use our discussion boards, purchase products or send us email. Information collected will include, but not be limited to: your name, e-mail address, the website which referred you to us, and the internet service provider you use, IP address, mailing address and phone numbers.
 
-### Web Nation, Inc. Uses Information for Two Purposes
+### Credit Info, LLC Uses Information for Two Purposes
 
 To fulfill your requests for certain products and services; and to contact you about specials and new products that we sell.
 
 ### Information Sharing and Disclosure
 
-Web Nation, Inc. will not sell or rent your personally identifiable information to anyone unless: 
+Credit Info, LLC will not sell or rent your personally identifiable information to anyone unless: 
 
   * We have your consent to share the information. 
   * We need to share your information to provide the product or service you have requested. 
   * We respond to subpoenas, court orders or legal process. 
-  * We find that your actions on our websites violate the Web Nation, Inc. terms of service, or any of our usage guidelines for specific products or services. 
+  * We find that your actions on our websites violate the Credit Info, LLC terms of service, or any of our usage guidelines for specific products or services. 
 
 
 
@@ -36,4 +36,7 @@ We use third-party advertising companies to serve ads when you visit our website
 
 ### Changes to This Privacy Policy
 
-Web Nation, Inc. may edit this policy from time to time. If we make any substantial changes we will notify you by posting a prominent announcement on our pages.
+Credit Info, LLC may edit this policy from time to time. If we make any substantial changes we will notify you by posting a prominent announcement on our pages.
+
+**Do you have a credit repair or debt question?**  
+Get a FREE [initial credit or debt consultation](http://www.creditinfocenter.com/misc/ConsultWithTheExpert.php) or buy our book "[Good Credit is Sexy](http://www.credit-book-store.com/pd-good-credit-is-sexy-paperback.cfm)".
