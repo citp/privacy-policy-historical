@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instamojo.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823061011id_/https%3A//www.instamojo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instamojo.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214170518id_/https%3A//www.instamojo.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -68,4 +68,4 @@ We may amend this Privacy Policy from time to time. If we make changes in the wa
 
 If you have any questions or concerns regarding our privacy policies, please send us a detailed message to [privacy@instamojo.com](mailto:privacy@instamojo.com), and we will try to resolve your concerns.
 
-Effective Date: Jan 13, 2013
+Last Updated: Jan 13, 2013
