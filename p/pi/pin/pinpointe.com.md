@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pinpointe.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811234602id_/http%3A//www.pinpointe.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinpointe.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214205633id_/http%3A//www.pinpointe.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Pinpointe's Email Marketing Privacy Policy. We Respect Your Privacy
+# Pinpointe's Email Marketing Privacy Policy. We Respect Your Privacy Pinpointe – Business Class Email Marketing
 
 We respect and are committed to protecting your privacy. This privacy policy lets you know how your personal information is collected and used, both by Pinpointe and our clients who use our hosted application. We have created this privacy policy so that you can understand the care with which we intend to treat your personal information. If you have any questions about our privacy policy, please contact us.
 
