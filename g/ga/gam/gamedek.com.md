@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamedek.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820064935id_/http%3A//www.greatdaygames.com/helppages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamedek.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214175012id_/http%3A//www.greatdaygames.com/helppages/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Help - Play Free Online Games on Great Day Games
 
@@ -13,6 +13,17 @@ Arkadium, Inc. Privacy Policy
 Scope – this privacy policy covers only the Company’s websites and applications maintained by the Company. If you access the Company’s games or applications through a third party website, you may be required to also read and accept the third party website’s Terms of Service and Privacy Policy. 
 
 The Company respects the privacy of visitors to its websites, as a result, we have developed this privacy policy. This privacy policy applies only to the operation of websites that directly link to this policy when you click on “privacy statement” in the website footer or within one of the Company’s applications. Through this website or platform the Company will collect information that can identify you, including, but not limited to your name, address, telephone number, e-mail address, and other similar information that you provide the Company or is displayed on any social networking web (“Your Information”) when it is voluntarily submitted to us (however, see discussion below about “IP Addresses” if you have a broadband connection). We will use Your Information to respond to requests you may make of us, and from time to time, we may refer to Your Information to better understand your needs and how we can improve our websites, products and services. We may also use Your Information to contact you and/or provide you with general information as well as information about our products and services. We may also enhance or merge Your Information with data obtained from third parties for the same purposes.
+
+**How we use cookies**  
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
+
+For more information, go to <http://www.networkadvertising.org/choices/>
 
 **Information about You Received from a social network**  
 When you use any Company game at a social network such as Facebook®, where our games are also referred to as “applications”, you allow the Company to access certain information from your profile for that site. The information you allow the Company to access varies by game and social network platform, and it is affected by the privacy settings you establish at the social network. You can control and find out more about these settings at the social network where you play our games. For example, the Company may access and store some or all of the following information, as allowed by you, the social network and your preferences: 
@@ -74,7 +85,7 @@ To be removed from our contact lists, please write to the Company at the followi
 Arkadium, Inc.   
 920 Broadway, 2nd Floor  
 New York, NY 10010  
-Attn: Marten Engblom  
+Attn: Kenny Rosenblatt  
 
 
 Please note that you may continue to receive materials while we are updating our lists.
