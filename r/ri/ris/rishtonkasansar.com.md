@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rishtonkasansar.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816222945id_/http%3A//www.rishtonkasansar.com/terms.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rishtonkasansar.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214182631id_/http%3A//www.rishtonkasansar.com/terms.aspx) for the most accurate reproduction.*
 
 # Rishtonkasansar.com Matrimonial India, Matrimony Website, Indian Matrimonial Websites, Marriage, Shadi
 
@@ -38,6 +38,10 @@ Rishtonkasansar.com Collects all the information like Email - ID , Full name ( F
 In this website Users should not copy our material and distribute to others and should not make a same link as we have already on our website . No One should use  our information for the commercial purpose otherwise he / she will be punishable.
 
  Rishtonkasansar.com Provide  online and face to face service to our customer where they can sought out their problem as soon as possible . As our employs are expert in that and satisfy them very easliy. we don't have any other branches . we have only sole business so we aware from other those who use our name .
+
+Rishtonkasansar.com reserves the right to advertise/publish your personal Details,photos,contact details etc. of member till member not inform about his/her profile maturity. 
+
+Rishtonkasansar.com is not responsible regarding any online changes made by member in his/her profile. 
 
 Rishtonkasansar.com take advance money then we provide service . Rishton ka sansar has a right to change any information available on the website . The minimum  age for the male (groom) is 21 and for the female (bride) is 18 and they should not be under any criminal offence by any law.
 
