@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometrainingtools.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814130547id_/https%3A//www.hometrainingtools.com/privacy-policy/a/7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometrainingtools.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214115520id_/https%3A//www.hometrainingtools.com/privacy-policy/a/7) for the most accurate reproduction.*
 
 # Privacy Policy - Home Science Tools
 
@@ -56,6 +56,6 @@ If you have any questions or concerns about this privacy policy or any business 
 
 | 
 
-[](http://www.hometrainingtools.com/catalog-request-form/a/8459/)  
+[](https://www.hometrainingtools.com/catalog-request-form/a/8459/)  
   
 ---|---|---
