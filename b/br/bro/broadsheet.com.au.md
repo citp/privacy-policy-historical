@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadsheet.com.au privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030160235id_/http%3A//www.broadsheet.com.au/melbourne/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadsheet.com.au privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214054212id_/http%3A//broadsheet.com.au/melbourne/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement - Broadsheet Melbourne
 
@@ -60,6 +60,9 @@ ACN 131 593 201
 **Use of Cookies**
 
   1. Broadsheet Media may store some information on your computer such as cookies when you visit the Website. Cookies are pieces of information that a website transfers to the hard drive of a visitor's computer for record-keeping purposes. This information facilitates your use of the Website. You can erase or choose to block this information from your computer if you want to. Erasing or blocking such information may limit the range of features available to you on the Website.
+
+  2. From time to time we use Google advertising programs that use cookies to improve your online experience, including the display of more relevant ads on external websites. Anyone may opt out of these programs at any time by clicking [here](http://www.google.com/policies/technologies/ads/). 
+
 
 
 
