@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hertzcarsales.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425103329id_/http%3A//www.hertzcarsales.com/Data/privacy_policy_r2b.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hertzcarsales.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214114833id_/http%3A//www.hertzcarsales.com/Data/privacy_policy_r2b.pdf) for the most accurate reproduction.*
 
 # Car Sales Privacy Policy
 
