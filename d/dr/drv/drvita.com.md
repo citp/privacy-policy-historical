@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drvita.com privacy policy that was archived on 2013-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130919005218id_/http%3A//www.drvita.com/footer/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drvita.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214120701id_/http%3A//www.drvita.com/footer/privacyPolicy) for the most accurate reproduction.*
 
 # DrVita Store | Footer Links
 
