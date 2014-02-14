@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bps.org.uk privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015115658id_/http%3A//www.bps.org.uk/privacy-policy/privacy-policy-ml-dev-do-not-publish) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bps.org.uk privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214023636id_/http%3A//www.bps.org.uk/privacy-policy/privacy-policy-ml-dev-do-not-publish) for the most accurate reproduction.*
 
 # Privacy policy | BPS
 
