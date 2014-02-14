@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditplus.co.uk privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831232920id_/http%3A//www.creditplus.co.uk/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditplus.co.uk privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214074407id_/http%3A//www.creditplus.co.uk/terms.html) for the most accurate reproduction.*
 
 # Car Loan Terms and Conditions - Creditplus trading as Whichdeal Ltd
 
@@ -29,6 +29,10 @@ Cars supplied by Creditplus will be covered by a [car warranty](http://www.credi
 If a car is returned the customer bears the cost of return and a cancellation fee of 5% of the car value or a minimum of £500, whichever is the greater.
 
 The Creditplus Vehicle Standards Guideline can be [viewed here](https://web.archive.org/vehicle-standards.pdf).
+
+On delivery of a vehicle supplied by Creditplus you must inspect it and sign for its acceptance. If you allow another individual to do this, it will be taken that they are acting fully on your behalf and that you personally have accepted the vehicle. If you require a test drive of the vehicle, you need to notify the driver who will allow you to do so.
+
+Creditplus will allow a 7 day notice period from delivery, for notification of any mechanical or body defects providing they are not commensurate with the vehicle age and mileage or notified to you before delivery. Cancellation after accepting the vehicle will only be allowed provided the goods are deemed faulty and that Creditplus cannot repair such items within 30 days. The cancellation fee does not apply if the vehicle order is cancelled under these terms. No other rights of cancellation apply or will be accepted. Order pricing is valid for 14 days. If you are purchasing the vehicle using finance you need to refer to the lenders terms and conditions.
 
 All New & Pre-registered cars supplied by Creditplus will be covered by the relevant Manufacturers warranty. Where a vehicle is Pre-registered the balance of manufacturer’s warranty shall apply with no additional warranties being supplied by Creditplus. It is the customer’s responsibility to be fully aware of the parts not covered by the manufacturer’s car warranty (if any). All New & Pre-registered cars are supplied on the basis that the client understands Creditplus will not rectify or compensate for any car repairs outside of the car warranty.
 
