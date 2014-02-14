@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the smfnew.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823064517id_/http%3A//www.smfnew.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smfnew.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214065601id_/http%3A//www.smfnew.com/privacy.php) for the most accurate reproduction.*
 
 # Free SMF Hosting - Free SMF Forum hosting - Our Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at webmaster(at)smfnew.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by our [contact form](http://www.smfnew.com/contact.php).
 
 At www.smfnew.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.smfnew.com and how it is used. 
 
