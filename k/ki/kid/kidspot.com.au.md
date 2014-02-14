@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kidspot.com.au privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201003252id_/http%3A//www.kidspot.com.au/privacy-kidspot.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidspot.com.au privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214075131id_/http%3A//www.kidspot.com.au/privacy-kidspot.asp) for the most accurate reproduction.*
 
 # Kidspot Australia - Privacy Policy
 
 Kidspot.com.au Privacy Policy statement was last updated: February 15, 2013 
 
-This statement has been produced with reference to the guidelines set out by the Office of the Federal Privacy Commissioner, Australia. For more information visit: [www.privacy.gov.au](https://web.archive.org/web/20131201003252id_/http%3A//www.kidspot.com.au/www.privacy.gov.au)
+This statement has been produced with reference to the guidelines set out by the Office of the Federal Privacy Commissioner, Australia. For more information visit: [www.privacy.gov.au](https://web.archive.org/web/20140214075131id_/http%3A//www.kidspot.com.au/www.privacy.gov.au)
 
 News Life Media is committed to providing its customers and clients with the highest possible standards of product and service. As part of that commitment we have produced the following Privacy Policy statement to help you better understand the privacy issues that arise as a result of the use of our website products and services.
 
