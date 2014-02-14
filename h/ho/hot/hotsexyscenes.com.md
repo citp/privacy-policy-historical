@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotsexyscenes.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214233238id_/http%3A//www.hotsexyscenes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotsexyscenes.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214210144id_/http%3A//www.hotsexyscenes.com/privacy) for the most accurate reproduction.*
 
 # Hot Sexy Scenes - Privacy
 
