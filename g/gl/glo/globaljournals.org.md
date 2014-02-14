@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the globaljournals.org privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425203620id_/https%3A//globaljournals.org/privacy-policy/menu-id-1263) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globaljournals.org privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214022557id_/https%3A//globaljournals.org/privacy-policy/menu-id-1263) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Principles Governing This Site
 
-globaljournals.org, GJ, Global Journals and Global Academy of Research and Development is owned and published by the us,(“globaljournals.org, GJ, Global Journals and Global Academy of Research and Development”). Our publishing offices are located at Indore, India.
+globaljournals.org, GJ, Global Journals and Global Academy of Research and Development is owned and published by us,(“globaljournals.org, GJ, Global Journals and Global Academy of Research and Development”). Our publishing offices are located at Indore, India.
 
-We take privacy issues seriously and are committed to protecting your personal information. Please take a moment to review our privacy policy, which explains how we collect, use, and safeguard information you enter at globaljournals.org, GJ, Global Journals and Global Academy of Research and Development. This privacy policy applies only to information collected by globaljournals.org, GJ, Global Journals and Global Academy of Research and Development through the globaljournals.org, GJ, Global Journals and Global Academy of Research and Development website. This privacy policy does not govern personal information furnished to globaljournals.org, GJ, Global Journals and Global Academy of Research and Development through any means other than the globaljournals.org, GJ, Global Journals and Global Academy of Research and Development website.
+We take privacy issues seriously and are committed to protecting your personal information. Please take a moment to review our privacy policy, which explains how we collect, use, and safeguard information that you enter at globaljournals.org, GJ, Global Journals and Global Academy of Research and Development. This privacy policy applies only to information collected by globaljournals.org, GJ, Global Journals and Global Academy of Research and Development through the globaljournals.org, GJ, Global Journals and Global Academy of Research and Development website. This privacy policy does not govern personal information furnished to globaljournals.org, GJ, Global Journals and Global Academy of Research and Development through any means other than the globaljournals.org, GJ, Global Journals and Global Academy of Research and Development website.
 
   * What Information Do We Collect?
   * How Is This Information Used?
