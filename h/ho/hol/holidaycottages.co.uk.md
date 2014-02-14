@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidaycottages.co.uk privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124023550id_/http%3A//www.holidaycottages.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaycottages.co.uk privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214060416id_/http%3A//www.holidaycottages.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - holidaycottages.co.uk
 
