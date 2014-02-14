@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplyink.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817174930id_/http%3A//www.simplyink.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyink.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214215159id_/http%3A//www.simplyink.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy - Simplyink
 
@@ -32,7 +32,7 @@ We use return email addresses to answer the email we receive. Such addresses are
 
 **__Newsletters__**
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the "Choice and Opt-out" section. 
+You can subscribe to receive newsletter(s) and promotional offers from us, which may include promotional offers from our parent brand, LD Products. We will use your name and email address to send you the newsletter and promotional offers. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the "Choice and Opt-out" section. 
 
 __**Agents/Service Provider** s__
 
@@ -68,7 +68,7 @@ We follow generally accepted industry standards to protect the personally identi
 
 ### Choice / Opt-Out
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication o by emailing us at [ info@simplyink.com](mailto:info@simplyink.com).
+If you no longer wish to receive our newsletter and promotional offers, you may opt-out of receiving them by following the instructions included in each newsletter, promotional offer or by emailing us at [ info@simplyink.com](mailto:info@simplyink.com).
 
 ### Our Commitment To Children’s Privacy
 
