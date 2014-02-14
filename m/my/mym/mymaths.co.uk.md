@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymaths.co.uk privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815040226id_/http%3A//www.mymaths.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymaths.co.uk privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214103804id_/http%3A//www.mymaths.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # 
 
