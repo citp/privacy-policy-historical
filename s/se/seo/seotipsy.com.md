@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seotipsy.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118165201id_/http%3A//www.seotipsy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seotipsy.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214094150id_/http%3A//www.seotipsy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SEO Tips
 
