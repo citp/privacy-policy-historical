@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheki.com.ng privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815154730id_/http%3A//www.cheki.com.ng/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheki.com.ng privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214040630id_/http%3A//www.cheki.com.ng/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Cheki.com.ng Buy and sell cars for sale, motorbikes, 4WDs, danfos and trucks for sale in Nigeria
 
