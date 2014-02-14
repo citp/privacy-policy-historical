@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livebinders.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807061533id_/http%3A//www.livebinders.com/welcome/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livebinders.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214164700id_/http%3A//www.livebinders.com/welcome/privacy) for the most accurate reproduction.*
 
 # LiveBinders Privacy Policy
 
@@ -62,7 +62,7 @@ We may update this privacy policy from time to time. If under any such update we
 
 ## Uploaded Content
 
-To learn more about Document Security for your uploaded content click [here](https://web.archive.org/web/20130807061533id_/http%3A//www.livebinders.com/welcome/document_security).
+To learn more about Document Security for your uploaded content click [here](https://web.archive.org/web/20140214164700id_/http%3A//www.livebinders.com/welcome/document_security).
 
 ## More information
 
