@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govtregistry.com privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916113241id_/http%3A//www.govtregistry.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govtregistry.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214075831id_/http%3A//www.govtregistry.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,10 +34,8 @@ third parties reserves the right to change or update this Privacy Policy at any 
 
 **Are you having trouble finding the records you are looking for?:**
 
-It may be that you are not looking in the right place. The first thing you should do is contact recordsarea.com:  [ www.recordsarea.com/support/?site=gov-records.com](http://www.recordsarea.com/support/?site=gov-records.com)
-
-If you are still unable to resolve your issue with the service then you can request a refund through Clickbank. Clickbank is the payment processor used to handle transactions involving recordsarea.com and 1000's of other vendors.
+If you are unable to resolve your issue with the service then you can request a refund through Clickbank. Clickbank is the payment processor used to handle transactions involving recordsarea.com and 1000's of other vendors.
 
 The simplest way to get a refund from Clickbank is to simply take the electronic receipt that ClickBank mailed you after the purchase and forward it to **refunds@clickbank.com** along with a brief message asking for a refund and why you want the refund.
 
-[Go Back to the Home Page](https://web.archive.org/web/20130916113241id_/http%3A//www.govtregistry.com/index.php)
+[Go Back to the Home Page](https://web.archive.org/web/20140214075831id_/http%3A//www.govtregistry.com/index.php)
