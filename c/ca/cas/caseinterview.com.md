@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the caseinterview.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103143342id_/http%3A//www.caseinterview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caseinterview.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214155426id_/http%3A//www.caseinterview.com/privacy) for the most accurate reproduction.*
 
 # Privacy/Terms of Use
 
 The content on this blog is owned and copyrighted by Fast Forward Media, Inc.. Any content sent to CaseInterview.com, including all comments, messages, and contest entries become the property of Fast Forward Media, Inc. and can be used as needed.
 
-The information on this website is provided for informational purposes and is provided on an "as is" basis with no guarantees or warrantee of any kind. By using this website and the email newsletters associated with this website, you agree to hold Fast Forward Media, Inc. harmless for any actions you take based on the information presented and the results of those actions.
+The information on this website is provided for informational purposes and is provided on an "as is" basis with no guarantees or warrantee of any kind. The information is believed to be accurate, but is not guaranteed to be so. By using this website and the email newsletters associated with this website, you agree to hold the author and the company Fast Forward Media, Inc. harmless for any actions you take based on the information presented and the results of those actions.
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey, fill out a form or click on links in email newsletters.
 
@@ -53,7 +53,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 **Third party links**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Occasionally, at our discretion, we may include or offer third party products or services or links to third parties on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. These links may involve us receiving financial compensation if you buy something after clicking the link.  We only reference third party resources we strongly recommend. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 **Childrens Online Privacy Protection Act Compliance**
 
@@ -67,11 +67,11 @@ By using our site, you consent to our online privacy policy and the terms and co
 
 If we decide to change our terms of use or privacy policy, we will post those changes on this page.
 
-This policy was last modified on October 3, 2012
+This policy was last modified on January 10, 2014
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+If there are any questions regarding this privacy policy, you may contact us using the information below.
 
 Fast Forward Media, Inc.  
 93 S. Jackson St, #75551  
