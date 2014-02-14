@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seeques.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203073248id_/http%3A//www.seeques.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seeques.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214054104id_/http%3A//www.seeques.com/privacy) for the most accurate reproduction.*
 
 # SeeQues - Privacy Policy
 
