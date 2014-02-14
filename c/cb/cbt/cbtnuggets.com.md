@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbtnuggets.com privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922024221id_/http%3A//www.cbtnuggets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbtnuggets.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214111346id_/http%3A//www.cbtnuggets.com/privacy) for the most accurate reproduction.*
 
 # CBT Nuggets Privacy
 
@@ -138,8 +138,6 @@ In some cases we may collect cookies from 3rd parties, such as Google or DoubleC
 You can opt out of DoubleClick's use of cookies by visiting: [DoubleClick opt-out page](http://www.doubleclick.com/privacy/dart_adserving.aspx)
 
 You can opt out of Google's use of cookies by visiting: [Google advertising opt-out page](http://www.google.com/privacy_ads.html)
-
-This site uses ClickTale web analytics service, which may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. ClickTale does not collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). The information collected by ClickTale, is used for research and optimization of our website. You can choose to disable the service at <http://www.clicktale.net/disable.html>. 
 
 Our site makes use of cookies. Cookies are used for the following purposes:
 
