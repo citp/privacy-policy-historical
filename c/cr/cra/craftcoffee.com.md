@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the craftcoffee.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022023112id_/https%3A//www.craftcoffee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftcoffee.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214074222id_/https%3A//www.craftcoffee.com/privacy) for the most accurate reproduction.*
 
-# Privacy: Coffee Subscription, Delivered Monthly | Craft Coffee
+# Privacy | Craft Coffee
 
 We take your privacy seriously at Craft Coffee. We will never send you spam, or sell your information to marketers. For the full legalese, see below.
 
@@ -77,4 +77,4 @@ If this privacy policy is changed, Craft Coffee will post changes so that you ar
 
 ## Questions
 
-If you have questions or suggestions you can contact Craft Coffee [via our contact form](https://web.archive.org/contact) or by postal mail to Caffeinated Labs, LLC, Attn: Customer Support; 57 S 4th St, New York, New York 11249. You can also reach us at 877-497-2278. 
+If you have questions or suggestions you can contact Craft Coffee [via our contact form](https://web.archive.org/contact) or by postal mail to Caffeinated Labs, LLC, Attn: Customer Support; 140 Metropolitan Ave, FL 3, Brooklyn, NY 11249. You can also reach us at 877-497-2278. 
