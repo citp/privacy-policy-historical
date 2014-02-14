@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsguide.com.au privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103202553id_/http%3A//www.carsguide.com.au/static/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsguide.com.au privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214033317id_/http%3A//www.carsguide.com.au/static/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy | carsguide.com.au
 
@@ -29,6 +29,8 @@ OWT may disclose your information to its service providers and contractors from 
 We may collect and use certain non-personal information (e.g., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider) to optimise our goods and services (which may include the display of personalised content and advertising) including our Web pages for your computer. We may use such non-personal information for internal purposes, including but not limited to improving the content of our sites.
 
 OWT may use personally identifiable information in aggregate form to improve our goods and services including our websites and make them more responsive to the needs of our customers. This statistical compilation and analysis of information may also be used by OWT or provided to others as a summary report for marketing, advertising or research purposes.
+
+OWT uses Google technology to deliver advertising that may be targeted to your preferences. You can [view and edit](https://www.google.com/ads/preferences/?hl=en) your ads preferences as well as opt out of certain advertising services [here](http://www.google.com/ads/preferences/?hl=en).
 
 ##  Security
 
