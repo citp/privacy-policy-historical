@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remitly.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508073729id_/https%3A//www.remitly.com/home/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remitly.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214072200id_/https%3A//www.remitly.com/home/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Remitly's Privacy Policy
 
 Remilty, Inc., a Delaware corporation, is serious about protecting your privacy. This Privacy Promise (“Policy”) covers how Remitly collects and uses the personal information you provide on our website and in conjunction with any of the services hosted at www.remitly.com (“Service” and “Website”), including money transfer services accessed by any internet enabled device. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-The Policy was last updated on May 7, 2013.
+The Policy was last updated on October 15, 2013.
 
 [ ](https://privacy.truste.com/privacy-seal/Beamit,-Inc-/validation?rid=93189ffd-1091-42b1-a26a-47d10fde3701 "TRUSTe online privacy certification")[ ](https://privacy.truste.com/privacy-seal/Beamit,-Inc-/validation?rid=93189ffd-1091-42b1-a26a-47d10fde3701 "TRUSTe online privacy certification") Remitly has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Website, www.remitly.com and does not cover information that may be collected through our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [contact us](https://www.remitly.com/home/contact). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
