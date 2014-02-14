@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstcitizensonline.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510132424id_/https%3A//www.firstcitizensonline.com/privacy/FirstCitizensPrivacyNotice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstcitizensonline.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214043631id_/https%3A//www.firstcitizensonline.com/privacy/FirstCitizensPrivacyNotice.pdf) for the most accurate reproduction.*
 
 # FACTS
 
