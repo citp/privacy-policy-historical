@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the nopaperforms.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127071736id_/https%3A//www.nopaperforms.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nopaperforms.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214031155id_/https%3A//www.nopaperforms.com/privacy.php) for the most accurate reproduction.*
 
-# NoPaperForms - Online Student Admission System, Free School, College & University Admission Management Software System, Solutions For Education India
+# NoPaperForms | Online Admissions | Enrollment Management
 
 NoPaperForms.com Privacy Policy
 
 Effective Date: December 01, 2009
 
-[www.nopaperforms.com](http://www.nopaperforms.com/) ("website") is an Internet property of THOTMATRIX ONLINE SOLUTIONS PVT. LTD. and its affiliates ("THOTMATRIX," "we," "our," or "us"). This Privacy Policy is given on behalf of THOTMATRIX. We are providing this Privacy Policy to you so that you can learn about our information collection and sharing practices. Data privacy and security is important to us and to our Internet users, so we want to make sure that users of our Website understand our privacy and security practices and policies. You agree to this Privacy Policy, in its entirety, when you: 
+[www.nopaperforms.com](http://www.nopaperforms.com/) ("website") is an Internet property of TRAFFIO SOFTWARE PRIVATE LIMITED and its affiliates ("TRAFFIO," "we," "our," or "us"). This Privacy Policy is given on behalf of TRAFFIO. We are providing this Privacy Policy to you so that you can learn about our information collection and sharing practices. Data privacy and security is important to us and to our Internet users, so we want to make sure that users of our Website understand our privacy and security practices and policies. You agree to this Privacy Policy, in its entirety, when you: 
 
   * Access or use our Website or any of the web pages of our Website
   * Agree to receive e-mail from us and/or
-  * Use any of THOTMATRIX's hosted online solutions
+  * Use any of TRAFFIO's hosted online solutions
 
 
 
@@ -27,11 +27,11 @@ This Privacy Policy will tell you the following:
 
 
 
-This Privacy Policy applies to any information you provide to us via our website, email, telephone or in any other communication or exchange you have with THOTMATRIX.
+This Privacy Policy applies to any information you provide to us via our website, email, telephone or in any other communication or exchange you have with TRAFFIO.
 
 Information Collection Practices and Policies
 
-We collect information about you when you provide us your information through forms, requests for information, applications for a school (i.e., Apply Online Program), use of our service to store your data on the THOTMATRIX.com profile, or through other communications and interactions you have with us via our website, email or telephone. When you submit information to us, you are doing so on a completely voluntary basis, at your sole discretion and will. Many times the information you submit is required to obtain the benefit, assistance or service you are requesting or would like to obtain from us-for instance, to use our form completion services on THOTMATRIX.com, or to obtain information about a school. The information you may be requested to submit may include (but is not limited to): (1) Name, (2) Address, (3) Email Address, (4) Telephone Number, and (5) Date of Birth.
+We collect information about you when you provide us your information through forms, requests for information, applications for a school (i.e., Apply Online Program), use of our service to store your data on the TRAFFIO.com profile, or through other communications and interactions you have with us via our website, email or telephone. When you submit information to us, you are doing so on a completely voluntary basis, at your sole discretion and will. Many times the information you submit is required to obtain the benefit, assistance or service you are requesting or would like to obtain from us-for instance, to use our form completion services on TRAFFIO.com, or to obtain information about a school. The information you may be requested to submit may include (but is not limited to): (1) Name, (2) Address, (3) Email Address, (4) Telephone Number, and (5) Date of Birth.
 
 We also may collect information about you from companies that may provide us with information about consumers-for instance, from a marketing list provider. We use the following services to monitor any data you input to our site: Web analytics and Web hosting. We also may use a third party address verification service.
 
@@ -67,7 +67,7 @@ The types of disclosures you can opt out of are:
 
   * Companies with whom we conduct joint marketing campaigns; and
   * Companies that provide products and/or services, such as companies engaged in banking, credit cards, consumer finance, consumer computer products, travel, insurance, as well as other direct marketers and retailers. 
-  * To tell us not to share information you have provided to us with these third parties, write to us at the following address: THOTMATRIX ONLINE SOLUTIONS PVT. LTD., 405 Krushal Commercial Complex, G.M. Road, Chembur (W), Mumbai - 400 077. India.
+  * To tell us not to share information you have provided to us with these third parties, write to us at the following address: TRAFFIO SOFTWARE PRIVATE LIMITED, Dev Corpora, Suite 1545, 1 Pokharan Road, Thane, Maharashtra - 400601, India.
 
 
 
@@ -92,10 +92,10 @@ To stop receiving future communications from us, please send us an email at [sup
 Changes in Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.   
-The notice will tell you that we've changed our Privacy Policy and it will make available the prior Privacy Policy that applied (including, the dates that it applied). In addition, the updated Privacy Policy will list a new "Effective Date." If you continue to use our website (as described above, i.e., when you: (1) access or use our Website or any of the web pages of our website, (2) agree to receive e-mail from us and/or (3) use any of THOTMATRIX's hosted online solutions, you are agreeing to be covered by the updated Privacy Policy.
+The notice will tell you that we've changed our Privacy Policy and it will make available the prior Privacy Policy that applied (including, the dates that it applied). In addition, the updated Privacy Policy will list a new "Effective Date." If you continue to use our website (as described above, i.e., when you: (1) access or use our Website or any of the web pages of our website, (2) agree to receive e-mail from us and/or (3) use any of TRAFFIO's hosted online solutions, you are agreeing to be covered by the updated Privacy Policy.
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
 Contacting the Website
 
-If you have any questions or comments, please don't hesitate to contact us directly. We listen to and read every message sent to us, and we will endeavor to reply promptly to each one. Please email us with your questions or comments about this Privacy Policy at [support@nopaperforms.com](mailto:support@nopaperforms.com), or you may call us at 1800-22-8011. Our mailing address is THOTMATRIX ONLINE SOLUTIONS PVT. LTD. Attn: Privacy Policy 903, Krushal Commercial Complex, G.M Road, Chembur (West), Mumbai 400 089, India.
+If you have any questions or comments, please don't hesitate to contact us directly. We listen to and read every message sent to us, and we will endeavor to reply promptly to each one. Please email us with your questions or comments about this Privacy Policy at [support@nopaperforms.com](mailto:support@nopaperforms.com), or you may call us at +91-98671 84011. Our mailing address is TRAFFIO SOFTWARE PRIVATE LIMITED Attn: Privacy Policy Dev Corpora, Suite 1545, 1 Pokharan Road, Thane, Maharashtra - 400601, India.
