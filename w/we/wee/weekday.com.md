@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weekday.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806095144id_/http%3A//shop.weekday.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weekday.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214021818id_/http%3A//shop.weekday.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Weekday | Privacy Policy
 
