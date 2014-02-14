@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the backupify.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015143912id_/https%3A//www.backupify.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backupify.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214044252id_/https%3A//www.backupify.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Backupify Privacy Policy
 
+### Effective Date: 1/24/2014
+
 Backupify, Inc. (“ **Backupify** ,” “ **we** ,” “ **us,** ” or “ **our** ”) has created this privacy statement (“ **Privacy Statement** ”) in order to demonstrate our commitment to you, our user, (“ **you** ” or “ **your** ”) regarding your privacy with respect to information that you submit to Backupify by or through the Site (www.backupify.com) or Services (defined below), whether you are a “ **Visitor** ” (which means that you simply browse a Site), a “ **Subscriber** ” of Backupify (which means you have either registered with Backupify and established an Account or otherwise entered into a separate agreement with Backupify, with respect to the Sites and/or Services), or you are an employee, contractor or agent of a Subscriber that uses the Services for commercial purposes (a “ **Business Subscriber User** ”), using the Sites or Services in your capacity as an employee, contractor or agent of that Backupify Subscriber. Visitors, Subscribers and Business Subscriber Users are individually referred to as a “ **User** ,” and collectively, as “ **Users** ”.
 
-A Subscriber that is a business, organization or an individual that is using the Services for commercial purposes (entities referred to as Business Subscribers in our Terms of Service) may control certain or all aspects of its Business Subscriber User’s Accounts. In order to make this Privacy Policy more readable, we refer to a Business Subscriber as an “ **Employer** ” with the understanding that the defined term may not be technically accurate in all cases.
+A Subscriber that is a business, organization or an individual that is using the Services for commercial purposes (entities referred to as Business Subscribers in our Terms of Service) may control certain or all aspects of its Business Subscriber User’s Accounts. In order to make this Privacy Statement more readable, we refer to a Business Subscriber as an “ **Employer** ” with the understanding that the defined term may not be technically accurate in all cases.
 
 Privacy on backupify.com and other sites we operate (each, a “ **Site** ”) is of great importance to us. Because we gather important information from our Users of the Sites and related services provided by Backupify (the “ **Services** ”), we have established this Privacy Statement as a means to communicate our information collection, use and dissemination practices. In order to access and use the Sites and/or Services, you must agree to our Terms of Service. Capitalized terms not defined in this Privacy Statement will have the meaning ascribed to them in the Terms of Service.
 
@@ -15,7 +17,7 @@ This Privacy Statement describes Backupify’s use of Personal Information and A
 
 [](https://privacy.truste.com/privacy-seal/Backupify/validation?rid=ff5dcb1a-ebd2-4f29-8e75-0dbc2387ccde "TRUSTe European Safe Harbor certification")
 
-Backupify has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program only covers information collected on [www.backupify.com](http://www.backupify.com/) and does not cover information that may be collected through any other site owned by us. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@backupify.com](mailto:privacy@backupify.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+Backupify has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program only covers information collected on [www.backupify.com](http://www.backupify.com/) and does not cover information that may be collected through any other site owned by us. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy statement or practices, please contact us at [privacy@backupify.com](mailto:privacy@backupify.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 Backupify complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Backupify has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Backupify certification, please visit <http://www.export.gov/safeharbor/>.
 
@@ -33,6 +35,8 @@ As you use the Sites or Services, certain Anonymous Information may be passively
 
 “ **Cookies** ” are small pieces of information that a website sends to your browser while you are viewing a website. Standing alone, Cookies do not personally identify you but merely recognize your web browser. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your browser until you delete them) to improve your experience on the Sites (e.g., by keeping you logged in). Persistent Cookies can be removed by following your Internet browser help file directions. If you choose to disable Cookies, you may experience session errors and may need to log-in again for each page you visit on the Sites.
 
+The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy statement. We do not have access or control over these cookies.
+
 **USE OF INFORMATION**  
 _Personal Information_  
 We will use your Personal Information to:
@@ -49,6 +53,8 @@ We will use your Personal Information to:
 We may also use your Personal Information to create Anonymous Information records by excluding information that makes the information personally identifiable to you. Notwithstanding the foregoing, we will only use your Billing Information to process and collect fees. For the avoidance of doubt we say that the term “you” and “your” in this section includes Business Subscriber Users.
 
 Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [privacy@backupify.com](mailto:privacy@backupify.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. Withyour consent we may post your testimonial along with your name.
 
 We send administrative emails which pertain to the Sites and Services on a regular basis, and you may not opt-out of these emails. If you wish to not receive these emails, you must terminate your Subscription and cease use of the Services.
 
@@ -87,6 +93,16 @@ If you provide feedback to us, we may use and disclose such feedback in accordan
 **THIRD PARTY SITES**  
 The Sites may contain links to other websites. Backupify is not responsible for the privacy practices or the content of these other websites. This Privacy Statement applies solely to information collected by us through the Sites or Services and does not apply to these third party websites. We encourage our Users to read the privacy statements of each and every website they visit. Users should always use caution and common sense when choosing to provide Personal Information on the Internet, particularly when it comes to information such as credit cards and other payment information. The ability to access information of third parties from the Sites or Services is for your convenience and does not signify our endorsement of such third parties, their services, other websites, locations or their contents.
 
+**SINGLE SIGN-ON**  
+You can log in to our site using an Open ID provider such as Login with Google Apps. These services will  
+authenticate your identity and provide you the option to share certain personal information with us such  
+as your name and email address to pre-populate our sign up form. Services like Facebook Connect give  
+you the option to post information about your activities on this Web site to your profile page to share with  
+others within your network.
+
+**SOCIAL MEDIA FEATURES AND WIDGETS**  
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy statement of the company providing it.
+
 **REGARDING CHILDREN**  
 The Sites are not directed to children and children are not eligible to use our Services. Protecting the privacy of children is very important to us. We do not collect or maintain Personal Information from people we actually know are under 13 years old, and no part of the Sites or Services is designed to attract people under 13 years old. If we later obtain actual knowledge that a User is under 13 years old, we will take steps to remove that User's Personal Information from our databases immediately.
 
@@ -124,4 +140,4 @@ If Users have any questions or suggestions regarding our Privacy Statement, plea
 
 **Contact** : Backupify, Inc.
 
-**Address** : 486 Green Street, Cambridge, MA 02139
+**Address** : 17 Sellers St, Cambridge, MA 02139
