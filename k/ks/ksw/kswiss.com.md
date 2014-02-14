@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kswiss.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509174601id_/http%3A//www.kswiss.com/customer/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kswiss.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214041251id_/http%3A//www.kswiss.com/customer/page/privacy-policy) for the most accurate reproduction.*
 
 # K•Swiss » Privacy-policy
 
 ## **Privacy Policy**
 
-**What Personal Information We Collect**  
+ **What Personal Information We Collect**  
 K-Swiss, Inc. and its affiliates (collectively, "K-Swiss" or "We") may collect your personal information for various purposes when you visit the K-Swiss.com website (the "Site").   
 For example:
 
@@ -22,7 +22,9 @@ If you are under 13 years old, please get the consent of your parent or legal gu
 
 IF YOU ARE UNDER 13 YEARS OLD, DO NOT CONTACT US UNTIL AFTER YOUR PARENT OR GUARDIAN HAS SENT US AN E-MAIL CONSENTING TO YOUR CONTACT. 
 
-**K-Swiss Policy on Customer Information**  
+**Google**
+
+ **K-Swiss Policy on Customer Information**  
 We do not sell personal information to any third party, nor do we have any plans to do so. However, we may share your personal information with our agents, representatives, service providers and contractors for limited purposes, including but not limited to, fulfilling customer orders; offering certain products and services in connection with this Site; communicating to customers; providing customer service; enhancing and improving customers' shopping experience; administering or facilitating surveys, contests or sweepstakes; offering targeted marketing communications to users; providing a personalized shopping experience; preventing fraud; and completing payment processing. 
 
 Our database of personal information is a valuable asset. Therefore, if we sell or transfer an affiliate, business or line of business, we may transfer personal information used or held by that affiliate or business or used in connection with that line of business to the buyer, so long as the buyer agrees that the personal information we transfer will remain subject to this privacy policy. 
