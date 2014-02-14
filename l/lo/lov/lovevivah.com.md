@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovevivah.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209012800id_/http%3A//www.lovevivah.com/index.php/registration_controller/privacy_policy/%3Fajax%3Dtrue%26width%3D950%26height%3D610) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovevivah.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214032235id_/http%3A//www.lovevivah.com/index.php/registration_controller/privacy_policy/%3Fajax%3Dtrue%26width%3D950%26height%3D610) for the most accurate reproduction.*
 
 # Lovevivah.com Privacy Policy Indian Matrimonial Website
 
