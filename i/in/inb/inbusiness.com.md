@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inbusiness.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917190127id_/http%3A//www.inbusiness.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inbusiness.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215004905id_/http%3A//www.inbusiness.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | InBusiness.com
 
@@ -28,7 +28,7 @@ The contents of your online communications, as well as other information about y
 
 In the event that our ownership may change as a result of a merger or acquisition by another company, your InBusiness information may be transferred in connection with such merger or acquisition. 
 
-You may request that we modify or delete information in your business profile by contacting [customerservice@inbusiness.com](mailto:customerservice@inbusiness.com). We do not guarantee that such changes will be made or when such changes will be made. 
+You may request that we modify or delete information in your business profile by contacting [support@inbusiness.com](mailto:support@inbusiness.com). We do not guarantee that such changes will be made or when such changes will be made. 
 
 ## Cookies, Advertising Networks
 
@@ -54,6 +54,6 @@ Use of this site is subject to our Terms of Use Agreement.
 
 ## Questions
 
-If you have further questions or concerns that have not been addressed in this statement, please send your inquiries to: [customerservice@inbusiness.com](mailto:customerservice@inbusiness.com). Please be sure to include your name, email address, and daytime phone number in case we wish to contact you. 
+If you have further questions or concerns that have not been addressed in this statement, please send your inquiries to: [support@inbusiness.com](mailto:support@inbusiness.com). Please be sure to include your name, email address, and daytime phone number in case we wish to contact you. 
 
 ***********
