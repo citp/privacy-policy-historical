@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultfindout.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201154658id_/http%3A//www.adultfindout.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultfindout.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214141642id_/http%3A//www.adultfindout.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Adult Findout.com - Privacy Policy
 
@@ -8,7 +8,7 @@ The privacy policies form the basis regarding the data that we collect from you 
 
 Here is the information that we collect from you as a data controller for the purposes of the Data Protection Act 1998 (the ‘Act’). 
 
-  * All the information that you are filling on the forms of our site Adultfindout.com.au (including personal details, contact numbers and other details that you fill up for completing the profile information of yours). Also the information collected through customer surveys, feedbacks and any competitions if any.
+  * All the information that you are filling on the forms of our site Adultfindout.com (including personal details, contact numbers and other details that you fill up for completing the profile information of yours). Also the information collected through customer surveys, feedbacks and any competitions if any.
   * If you have contacted us for any reason, then that data is also kept.
   * All the transaction details which are carried out through the site by you like request of any services or products.
   * The website usage information from cookies is also collected.
@@ -47,7 +47,7 @@ We may also provide information about you to other users of the Site as reasonab
 
 ## Marketing
 
-Information regarding the goods and services offered by us and selected third parties would be sent by us which may be of interest to you. If you do not wish that your information is used in this manner or not share it with the third parties, then you can tick the appropriate boxes in the 'My Account' area of the Site. You can also ask us not to use your personal information, or to pass your details on to third parties for marketing purposes, by contact us at: [http://www.adultfindout.com.au/contact-us.html.](http://www.adultfindout.com.au/contact-us.html)
+Information regarding the goods and services offered by us and selected third parties would be sent by us which may be of interest to you. If you do not wish that your information is used in this manner or not share it with the third parties, then you can tick the appropriate boxes in the 'My Account' area of the Site. You can also ask us not to use your personal information, or to pass your details on to third parties for marketing purposes, by contact us at: [http://www.adultfindout.com/contact-us.html.](http://www.adultfindout.com/contact-us.html)
 
 ## Cookies
 
@@ -78,9 +78,9 @@ As there are many transfers of links to and from the website to other partner ne
 
 ## Access to information and correction
 
-If you want a copy of the information that we hold about you then we are compelled to give it to you because it is your right. If you would like a copy of some or all of your personal information, please contact us at http://www.adultfindout.com.au/contact-us.html. Please note that we may make a small charge for this service.
+If you want a copy of the information that we hold about you then we are compelled to give it to you because it is your right. If you would like a copy of some or all of your personal information, please contact us at http://www.adultfindout.com/contact-us.html. Please note that we may make a small charge for this service.
 
-Your information with us should be accurate and up to date. And if you want you can ask us to correct the information which you feel is inaccurate at any time by emailing us at [http://www.adultfindout.com.au/contact-us.html.](http://www.adultfindout.com.au/contact-us.html)
+Your information with us should be accurate and up to date. And if you want you can ask us to correct the information which you feel is inaccurate at any time by emailing us at [http://www.adultfindout.com/contact-us.html.](http://www.adultfindout.com/contact-us.html)
 
 ## Changes to our privacy policy
 
@@ -88,4 +88,4 @@ Our privacy policy is under regular review and if any changes made will always b
 
 ## Queries
 
-If you have any questions about this privacy policies then please contact us at [http://www.adultfindout.com.au/contact-us.html.](http://www.adultfindout.com.au/contact-us.html)
+If you have any questions about this privacy policies then please contact us at [http://www.adultfindout.com/contact-us.html.](http://www.adultfindout.com/contact-us.html)
