@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fxservice.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230150810id_/http%3A//www.fxservice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxservice.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214015631id_/http%3A//www.fxservice.com/privacy-policy) for the most accurate reproduction.*
 
 # Admiral Markets Privacy Policy | Admiral Markets
 
-This privacy policy sets out how Admiral Markets Ltd (“AM”) uses and protects any information that you give to AM when you use this website.
+This privacy policy sets out how Admiral Markets (ProServiceCom Ltd, next “AM”) uses and protects any information that you give to AM when you use this website.
 
 AM is committed to ensuring that your privacy is protected. Should AM ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -51,8 +51,8 @@ AM’s website may contain links to other websites of interest. However, once yo
 
 ## Controlling your personal information
 
-If you have previously agreed to AM using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing at [support@admiralmarkets.com](https://web.archive.org/web/20131230150810id_/http%3A//www.fxservice.com/support@admiralmarkets.com)
+If you have previously agreed to AM using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing at [support@admiralmarkets.com](https://web.archive.org/web/20140214015631id_/http%3A//www.fxservice.com/support@admiralmarkets.com)
 
 AM will not sell, distribute or lease your personal information to third parties unless AM has your permission or are required by law to do so. AM may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell that you wish this to happen.
 
-If you believe that any information AM is holding on you is incorrect or incomplete, please write or email to AM as soon as possible, at [support@admiralmarkets.com](https://web.archive.org/web/20131230150810id_/http%3A//www.fxservice.com/support@admiralmarkets.com). AM will promptly correct any information found to be incorrect. Requests by postal mail may be sent to:
+If you believe that any information AM is holding on you is incorrect or incomplete, please write or email to AM as soon as possible, at [support@admiralmarkets.com](https://web.archive.org/web/20140214015631id_/http%3A//www.fxservice.com/support@admiralmarkets.com). AM will promptly correct any information found to be incorrect. Requests by postal mail may be sent to:
