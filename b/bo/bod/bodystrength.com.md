@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodystrength.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201143207id_/http%3A//www.bodystrength.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodystrength.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214131545id_/http%3A//www.bodystrength.com/privacy.html) for the most accurate reproduction.*
 
 # Body Strength | Privacy Policy
 
