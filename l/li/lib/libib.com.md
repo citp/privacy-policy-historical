@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libib.com privacy policy that was archived on 2013-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130716153145id_/http%3A//www.libib.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libib.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214054211id_/http%3A//www.libib.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Libib.com
 
@@ -36,6 +36,12 @@ Any of the information we collect from you may be used in one of the following w
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
+**What analytics are used?**
+
+The Google Analytics features you've implemented based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting).
+
+Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads).
+
 **Do we use cookies?**
 
 Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
@@ -72,6 +78,6 @@ By using our site, you consent to our [privacy policy](https://web.archive.org/p
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on 12-25-2012
+This policy was last modified on 11-03-2013
 
 http://www.libib.com/contact
