@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dresslink.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905212605id_/http%3A//www.dresslink.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dresslink.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214030114id_/http%3A//www.dresslink.com/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Global Online Shopping from Dresslink
 
@@ -112,3 +112,5 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 * To administer a contest, promotion, survey or other site feature  
 Choice and Opt-Out   
 If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at [service@dresslink.com](mailto:service@dresslink.com)
+
+If you wish to talk to a Dresslink.com customer representative please call +86-755-89619517 or +86-755-89619973 or write to: Customer Service Department, Dresslink.com, Yaoan industry Zone, XianTian Road, Xinsheng, Longgang District, Shenzhen, 518116, China. You can also email us at service@dresslink.com
