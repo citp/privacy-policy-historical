@@ -1,16 +1,13 @@
-> *The following text is extracted and transformed from the bplans.co.uk privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016050031id_/http%3A//www.paloalto.com/uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bplans.co.uk privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215001721id_/http%3A//www.paloalto.com/uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Legal Information - Palo Alto Software UK
 
-Palo Alto Software is a licencee of the TRUSTe Privacy programme. This privacy statement discloses the privacy practises for paloalto.com, which is owned and operated by Palo Alto Software, Ltd.
-
-[ ](http://www.truste.org/ivalidate.php?url=www.paloalto.com&sealid=101)
+This privacy statement discloses the privacy practises for paloalto.com, which is owned and operated by Palo Alto Software, Ltd.
 
 [ ](http://www.bbbonline.org/cks.asp?id=1296000303)
 
-TRUSTe is an independent, nonprofit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+_**Personal Information**_
 
-_**Personal Information**_  
 At Palo Alto Software Limited, we are committed to protecting your privacy. Palo Alto Software, Ltd. collects personal information about our users only during the secure order process and the registration for our business planning newsletter, or if you request other information sent to you. We collect name, email address, shipping address, credit card company, credit card number, expiration date, and credit card billing address. This is all kept confidential.
 
 _**Data Protection Act**_  
@@ -104,9 +101,9 @@ You may provide us with your feedback, ask us questions about this policy, view 
 
 Data Protection Administration  
 Palo Alto Software Ltd  
-Second Floor  
-15 Greycoat Place  
-London SW1P 1SB  
+Dalton House  
+60 Windsor Avenue  
+London SW19 2RR  
 United Kingdom
 
 Please be sure to include your mailing address if you would like us to send you any written materials.
@@ -114,7 +111,5 @@ Please be sure to include your mailing address if you would like us to send you 
 If at any time you wish your personal data to be deleted from our files, please contact us in writing and we will respond promptly.
 
 If you have questions, we can be reached by [email](http://www.paloalto.com/uk/contact_us/general_inquiries/).
-
-If you have any questions or complaints about our Truste Cerficiation please visit [www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php).
 
 * * *
