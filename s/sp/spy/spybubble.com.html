@@ -1,62 +1,151 @@
-<!--The following is the downloaded HTML source of the spybubble.com privacy policy that was archived on 2013-09-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130914031454id_/http%3A//www.spybubble.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spybubble.com privacy policy that was archived on 2014-02-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140214161704id_/http%3A//www.spybubble.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-width= 1">
 <title>Privacy Policy | SpyBubble</title>
 <meta name="robots" content="noindex, nofollow">
-<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="css/style_v1.css" rel="stylesheet" type="text/css">
+<link href="css/tablet.css" rel="stylesheet" type="text/css">
+<link href="css/iphone.css" rel="stylesheet" type="text/css">
+<link href="css/s_phone.css" rel="stylesheet" type="text/css">
 <!--[if IE]>
-	<style>
-		.nav ul{
-    		padding:0px 1px 0 8px;
-	    }
-		.nav ul li a{
-			padding:4px 16px 5px;
-		}
-	</style>
-	<![endif]-->
+<style>
+	.nav ul{
+    	padding:0px 1px 0 8px;
+    }
+	.nav ul li a{
+	padding:4px 16px 5px;
+	}
+</style>
+<![endif]-->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script>
+function sticky_relocate() {
+    var window_top = $(window).scrollTop();
+    var div_top = $('#sticky-anchor').offset().top;
+    if (window_top > div_top) {
+        $('#sticky').addClass('stick');
+    } else {
+        $('#sticky').removeClass('stick');
+    }
+}
+$(function () {
+    $(window).scroll(sticky_relocate);
+    sticky_relocate();
+});
+</script>
+<style>
+#middle {
+	overflow: hidden;
+}
+
+#sticky {
+	border-radius: 0.5ex;
+	background: none !important;
+}
+
+#sticky.stick {
+	position: fixed;
+	transition: all 1s linear 0.2s;
+	width: 100%;
+	z-index: 10000;
+	border-radius: 0 0 10px 10px !important;
+}
+</style>
 </head>
 <body>
 	<div id="main">
-		
-<div id="header">
-	<span class="logo"> <a href="http://www.spybubble.com/"><img src="images/logo.png" alt="SpyBubble Logo"> </a> <a class="home fleft" href="http://www.spybubble.com/">Home</a>
+		<div id="header">
+	<div id="sticky-anchor"></div>
+	<div id="sticky">
+		<!------------------------------for Mobiles-------------------------->
+		<div class="sml_menu">
+			<ul class="clear_fix">
+				<li class="a"><a href="http://www.spybubble.com/"><img src="images/home.png" alt=""><span>Home</span> </a>
+				</li>
+				<li class="menu b"><a href="#"><img src="images/menu.png" alt=""><span>Menu</span>
+				</a>
+					<ul class="clear_fix">
+						<li><a href="http://www.spybubble.com/features.php">Features</a>
+						</li>
+						<li><a href="http://www.spybubble.com/supportedphones.php">Supported
+								Phones</a>
+						</li>
+						<li><a href="http://www.spybubble.com/register.php">Buy Now</a>
+						</li>
+						<li><a href="http://www.spybubble.com/gotodemo.php" target="_blank">Demo</a>
+						</li>
+						<li><a href="http://www.spybubble.com/faq.php">FAQ</a>
+						</li>
+						<li><a href="https://spybubble.zendesk.com/anonymous_requests/new" target="_blank">Support</a>
+						</li>
+						<li><a href="http://www.spybubble.com/aboutus.php">About Us</a>
+						</li>
+						<li><a href="http://www.spybubble.com/userlogin.php" target="_blank">LOGIN</a>
+						</li>
+					</ul></li>
+				<li class="c"><a href="register.php"><img src="images/key.png" alt=""><span>Registration</span> </a>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<span class="logo"> <img id="a" src="images/logo.png" alt="SpyBubble Logo"> <img id="b" src="images/logo-320.png" alt="SpyBubble"> <a href="http://www.spybubble.com/"><img id="c" src="images/logo-480.png" alt="SpyBubble"> </a> <a class="home fleft" href="http://www.spybubble.com/">Home</a>
 	</span>
-		<ul class="select_lang">
-		<li><a class="eng" href="javascript:void(0)">English</a>
+		<ul class="select_lang clear_fix">
+		<li><a class="eng" href="#">English</a>
 			<ul>
 				<li class="visited"><a class="eng" href="javascript:void()">English</a>
 				</li>
-				<li><a class="fran" href="fr/politiques-de-confidentialite.php">Français (French)</a></li>
-				<li><a class="espa" href="es/politicas-de-privacidad.php">Español (Spanish)</a></li>
-				<li><a class="ital" href="it/politica-sulla-privacy.php">Italiano (Italian)</a></li>
-				<li><a class="germ" href="de/datenschutzerklarung.php">Deutsch (German)</a></li>
-				<li><a class="portu" href="pt/politica-de-privacidade.php">Português (Portuguese)</a></li>
-								<li><a class="pycc" href="ru/privacy-policy.php">Русский (Russian)</a></li>
-							</ul>
-		</li>
+				<li><a class="fran" href="http://www.spybubble.com/fr/politiques-de-confidentialite.php">Français
+						(French)</a>
+				</li>
+				<li><a class="espa" href="http://www.spybubble.com/es/politicas-de-privacidad.php">Español
+						(Spanish)</a>
+				</li>
+				<li><a class="ital" href="http://www.spybubble.com/it/politica-sulla-privacy.php">Italiano
+						(Italian)</a>
+				</li>
+				<li><a class="germ" href="http://www.spybubble.com/de/datenschutzerklarung.php">Deutsch
+						(German)</a>
+				</li>
+				<li><a class="portu" href="http://www.spybubble.com/pt/politica-de-privacidade.php">Português
+						(Portuguese)</a>
+				</li>
+								<li><a class="pycc" href="http://www.spybubble.com/ru/privacy-policy.php">Русский
+						(Russian)</a>
+				</li>
+							</ul></li>
 	</ul>
-		<span class="fright"> <a href="register.php"><img src="images/reg_now.png" alt="Register Now"> </a>
+			<span id="reg" class="fright"> <a href="register.php"><img src="images/reg_now.png" alt="Register Now"> </a>
 	</span>
-	<div class="clr"></div>
+		<div class="clr"></div>
 	<div class="nav">
-				<img src="images/menu_bg.png" alt="" class="fleft">
+				<img class="fleft" src="images/menu_bg.png" alt="">
 		<ul class="fright">
-			<li><a href="features.php">Features</a></li>
-			<li><a href="supportedphones.php">Supported Phones</a></li>
-			<li><a href="register.php">Register</a></li>
-			<li><a href="http://cp.spybubble.com/gotodemo.php" target="_blank">Demo</a>
+			<li><a href="http://www.spybubble.com/features.php">Features</a>
 			</li>
-			<li><a href="faq.php">FAQ</a></li>
-			<li><a href="https://spybubble.zendesk.com/anonymous_requests/new" target="_blank">Support</a></li>
-			<li><a href="aboutus.php">About Us</a></li>
-			<li><a href="userlogin.php" target="_blank">LOGIN</a></li>
+			<li><a href="http://www.spybubble.com/supportedphones.php">Supported
+					Phones</a>
+			</li>
+			<li><a href="register.php">Buy Now</a>
+			</li>
+			<li><a href="http://www.spybubble.com/gotodemo.php" target="_blank">Demo</a>
+			</li>
+			<li><a href="http://www.spybubble.com/faq.php">FAQ</a>
+			</li>
+			<li><a href="https://spybubble.zendesk.com/anonymous_requests/new" target="_blank">Support</a>
+			</li>
+			<li><a href="http://www.spybubble.com/aboutus.php">About Us</a>
+			</li>
+			<li><a href="http://www.spybubble.com/userlogin.php" target="_blank">LOGIN</a>
+			</li>
 		</ul>
 			</div>
-</div>
-		<div id="middle">
-			<h1 class="main_headline">Privacy Policy</h1>
+</div>		<div id="middle">
+			<div class="faq">
+				<h1 class="main_headline">Privacy Policy</h1>
 			<p>
 				<b>Last modified: May 2013</b>
 			</p>
@@ -77,7 +166,7 @@
 							this Site.</li>
 						<li>When you contact our customer service department for any
 							reason.</li>
-					</ol> <br>It does not apply to information collected by:<br>
+					</ol><div class="clr"></div> <br>It does not apply to information collected by:<br>
 					<ol class="privacy">
 						<li>Us through any other means, including on any other affiliated
 							website; or</li>
@@ -86,7 +175,7 @@
 							the Site. Third parties, such as payment processing companies and
 							background screening companies, may have their own privacy
 							policies different from ours, please check with such third party.</li>
-					</ol> <br>
+					</ol><div class="clr"></div> <br>
 				</li>
 				<li>2. If you do not agree with this Privacy Policy or the Terms of
 					Use located at <a href="http://www.spybubble.com/terms-and-conditions.html" style="display: inline;">http://www.spybubble.com/terms-and-conditions.html</a>,
@@ -98,6 +187,7 @@
 					documents periodically for updates.
 				</li>
 			</ol>
+			<div class="clr"></div>
 			<p>
 				<b>2. Disclaimer</b>
 			</p>
@@ -126,7 +216,7 @@
 							e-mail address or telephone number;</li>
 						<li>Regarding user preferences, internet connection, operating
 							system, browser, equipment you use to access the Site, etc.</li>
-					</ol> <br>We collect this information:<br>
+					</ol><div class="clr"></div> <br>We collect this information:<br>
 					<ol class="privacy">
 						<li>Directly from you when you provide it to us.</li>
 						<li>Automatically as you navigate through the site. Information
@@ -135,8 +225,10 @@
 							technologies.</li>
 						<li>From third parties, for example, our business partners.</li>
 					</ol>
+					<div class="clr"></div>
 				</li>
 			</ol>
+			<div class="clr"></div>
 			<p>
 				<b>4. Log Files and Cookies</b>
 			</p>
@@ -181,6 +273,7 @@
 				<li>Details of transactions you carry out through our Site.</li>
 				<li>Your search queries on the Site.</li>
 			</ol>
+			<div class="clr"></div>
 			<p>
 				<b>6. How We Use Your Information</b>
 			</p>
@@ -202,6 +295,7 @@
 					information.</li>
 				<li>For any other purpose with your consent.</li>
 			</ol>
+			<div class="clr"></div>
 			<p>
 				<b>7. Disclosure of Your Information</b>
 			</p>
@@ -213,8 +307,10 @@
 						<li>b. To enforce or apply our Terms of Use available at <a href="http://www.spybubble.com/terms-and-conditions.html" style="display: inline;">http://www.spybubble.com/terms-and-conditions.html</a>.
 						</li>
 					</ol>
+					<div class="clr"></div>
 				</li>
 			</ol>
+			<div class="clr"></div>
 			<p>
 				<b>8. Data Security</b>
 			</p>
@@ -231,6 +327,7 @@
 					for circumvention of any privacy settings or security measures
 					contained on the Site.</li>
 			</ol>
+			<div class="clr"></div>
 			<p>
 				<b>9. Changes to Our Privacy Policy</b>
 			</p>
@@ -246,63 +343,74 @@
 				To ask questions or comment about this privacy policy and our
 				privacy practices, contact us at <a href="mailto:admin@spybubble.com" style="display:inline;">admin@spybubble.com</a>.
 			</p>
+			</div>
 		</div>
 	</div>
 	<div id="footer">
 		<div class="subfooter">
-		<div>
+		<div></div>
+		<div class="column">
 			<h2>Company</h2>
-			<h2>About SpyBubble</h2>
-			<h2>Monitoring Links</h2>
+			<ul>
+				<li><a href="http://www.spybubble.com">Home</a></li>
+				<li><a href="userlogin.php">Login</a></li>
+				<li><a href="features.php">Features</a></li>
+				<li><a href="aboutus.php">About Us</a></li>
+				<li><a href="blog/">Blog</a></li>
+				<li><a href="affiliates.php">Affiliate Program</a></li>
+				<li><a href="resources/">Resources</a></li>
+				<li><a href="howto/">How To Articles</a></li>
+				<li><a href="refund-policy.php" target="_blank">Refund Policy</a></li>
+			</ul>
 		</div>
-		<ul>
-			<li class="column">
-				<ul>
-					<li><a href="http://www.spybubble.com">Home</a></li>
-					<li><a href="userlogin.php">Login</a></li>
-					<li><a href="features.php">Features</a></li>
-					<li><a href="aboutus.php">About Us</a></li>
-					<li><a href="blog/">Blog</a></li>
-					<li><a href="affiliates.php">Affiliate Program</a></li>
-					<!--<li><a href="privacy-policy.html">Privacy Policy</a></li>
-          <li><a href="contact.html">Contact Us</a></li>-->
-				</ul>
-			</li>
-			<li class="column">
-				<ul>
-					<li>SpyBubble is an advanced Cell Phone Monitoring software
-						compatible with most smart phones, iPad and Android tablets. <a href="aboutus.php" target="_blank"><u>Read More</u> </a>
-					</li>
-				</ul> <b class="s_icons-headline">SOCIAL PORTFOLIO</b>
-				<ul class="s_icons">
-					<li><a href="https://www.facebook.com/spybubblecom" target="_blank"><img class="desaturate" src="images/facebook.png" alt="SpyBubble on Facebook"> </a></li>
-					<li><a href="https://plus.google.com/u/0/b/112874398929087458882/112874398929087458882/posts" target="_blank"><img class="desaturate" src="images/google.png" alt="SpyBubble on Google+"> </a></li>
-					<li><a href="http://www.spybubble.com/blog/" target="_blank"><img class="desaturate" src="images/blogger.png" alt="SpyBubble Official Blog"> </a></li>
-					<li><a href="https://twitter.com/spybubblecom" target="_blank"><img class="desaturate" src="images/twitter.png" alt="Follow SpyBubble on Twitter"> </a></li>
-				</ul>
-			</li>
-			<li class="m_links fleft">
-				<ul>
-					<li><a href="cell-phone-spy.php">Cell Phone Spy</a></li>
-					<li><a href="sms-spy.php">SMS Spy Software</a></li>
-					<li><a href="androidspy.php">Android Spy</a></li>
-					<li><a href="ipad-spy.php">iPad Spy Software</a></li>
-					<li><a href="blackberryspy.php">Blackberry Spy</a></li>
-					<li><a href="cell-phone-monitoring-software.php">Cell Phone
-							Monitoring</a></li>
-					<li><a href="symbianspy.php">Symbian Spy</a></li>
-					<li><a href="employee-monitoring.php">Employee Monitoring</a></li>
-					<li><a href="iphonespy.php">iPhone Spy</a></li>
-					<li><a href="child-monitoring.php">Child Cell Phone Monitoring</a>
-					</li>
-				</ul>
-			</li>
-		</ul>
+		<div class="column">
+			<h2>About SpyBubble</h2>
+			<ul>
+				<li>SpyBubble is an advanced Cell Phone Monitoring software
+					compatible with most smart phones, iPad and Android tablets. <a href="aboutus.php" target="_blank" class="txt_link">Read More</a>
+				</li>
+			</ul>
+			<b class="s_icons-headline">SOCIAL PORTFOLIO</b>
+			<ul class="s_icons">
+				<li><a href="https://www.facebook.com/spybubblecom" target="_blank"><img class="desaturate" src="images/facebook.png" alt="SpyBubble on Facebook"> </a></li>
+				<li><a href="https://plus.google.com/u/0/b/112874398929087458882/112874398929087458882/posts" target="_blank"><img class="desaturate" src="images/google.png" alt="SpyBubble on Google+"> </a></li>
+				<li><a href="blog/" target="_blank"><img class="desaturate" src="images/blogger.png" alt="SpyBubble Official Blog"> </a></li>
+				<li><a href="https://twitter.com/spybubblecom" target="_blank"><img class="desaturate" src="images/twitter.png" alt="Follow SpyBubble on Twitter"> </a></li>
+			</ul>
+		</div>
+		<div class="m_links fleft">
+			<h2>Monitoring Links</h2>
+			<ul>
+				<li><a href="cell-phone-spy.php">Cell Phone Spy</a></li>
+				<li><a href="androidspy.php">Android Spy</a>
+				</li>
+				<li><a href="blackberryspy.php">Blackberry Spy</a></li>
+				<li><a href="symbianspy.php">Symbian Spy</a>
+				</li>
+				<li><a href="iphonespy.php">iPhone Spy</a>
+				</li>
+				<li><a href="ipad-spy.php">iPad Spy Software</a></li>
+				<li><a href="tablet-spy.php">Tablet Spy Software</a></li>
+				<li><a href="sms-spy.php">SMS Spy Software</a>
+				</li>
+				<li><a href="cell-phone-monitoring-software.php">Cell Phone
+						Monitoring</a></li>
+
+				<li><a href="employee-monitoring.php">Employee Monitoring</a></li>
+
+				<li><a href="child-monitoring.php">Child Cell Phone Monitoring</a></li>
+				<li><a href="cell-phone-tracking-software.php">Cell Phone Tracking
+						Software</a></li>
+				<li><a href="mobile-phone-spy-software.php">Mobile Phone Spy
+						Software</a>
+				</li>
+			</ul>
+		</div>
 		<div class="clr"></div>
 	</div>
 		<div class="f_bottom">
 		<div class="c_right">
-			<p class="align_center">© 2009-2013 Spy Bubble, All Rights
+			<p class="align_center">© 2009-2014 SpyBubble, All Rights
 				Reserved</p>
 			<p class="align_center">
 				<b>Disclaimer:</b> SpyBubble is designed for monitoring your
@@ -316,6 +424,7 @@
 			</p>
 			<div class="clr"></div>
 		</div>
+		<div class="clr"></div>
 	</div>
 </div>
 <script type="text/javascript">
