@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradeo.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810113700id_/https%3A//tradeo.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeo.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214195220id_/https%3A//tradeo.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tradeo
 
@@ -84,7 +84,7 @@ If someone has your Username or User ID, they can use it to access information a
 
 ## Do we use cookies?
 
-Yes. We may use temporary “cookies” that remain in the cookies file of your browser. A cookie is a small piece of information which is sent to your browser and stored on your computer’s hard drive. 
+Yes. We may use temporary “cookies” that remain in the cookies file of your browser. A cookie is a small piece of information which is sent to your browser and stored on your computer’s hard drive.
 
 ## Deactivating your account
 
