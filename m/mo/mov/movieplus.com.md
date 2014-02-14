@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movieplus.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908224909id_/http%3A//www.movieplus.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieplus.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214231650id_/http%3A//www.movieplus.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | MoviePlus.com
 
