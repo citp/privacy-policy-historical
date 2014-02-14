@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123chase.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203031933id_/http%3A//www.123chase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123chase.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214112629id_/http%3A//www.123chase.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy 123chase.com
 
