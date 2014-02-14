@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the downloadplex.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807084339id_/http%3A//www.downloadplex.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadplex.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214214143id_/http%3A//www.downloadplex.com/Privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy Downloadplex.com
+# Privacy Policy
 
 When a visitor requests pages from downloadplex site, our Web servers automatically recognize the browser's domain name, and IP address. Our server do not record e-mail addresses. We collect the domain names and IP addresses in order to aggregate information on the pages users access or visit. This information is collected solely for statistical purposes and is not used to identify individuals. From time to time, we may ask users to provide an e-mail address or mailing address for the purpose of conducting a survey or to provide additional services (for example, subscriptions to e-mail newsletters). Whenever the identity of a visitor is recorded, we will clearly indicate the purpose of the request before the information is requested. 
 
@@ -26,7 +26,7 @@ This website takes every precaution to protect our users' information. When user
 
 This web site contains links to other sites. Please be aware that we Downloadplex, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
-## Downloadplex.com Submission Policy
+##  Submission Policy
 
 #### Important Notice
 
