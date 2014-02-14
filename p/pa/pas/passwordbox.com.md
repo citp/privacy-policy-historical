@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the passwordbox.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817115354id_/https%3A//www.passwordbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passwordbox.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214101210id_/https%3A//www.passwordbox.com/privacy) for the most accurate reproduction.*
 
 # Privacy | PasswordBox
 
@@ -72,7 +72,7 @@ We may also share with third parties certain aggregated non-personal information
 
 ## 7\. COOKIES
 
-A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a website's computers and stored on your computer's hard drive. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. PasswordBox may set and access certain cookies on your computer for the following reasons:
+A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a website's computers and stored on your computer's hard drive. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. PasswordBox may set, access or delete certain cookies on your computer for the following reasons:
 
   * (i) to facilitate your "signing in" on the Website or the PasswordBox Application;
   * (ii) to provide you with customized content;
@@ -80,6 +80,7 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
   * (iv) to provide general internal and user analytics;
   * (v) to conduct research to improve the content of the Website, the PasswordBox Application and the Services; and
   * (vi) to assist in identifying possible fraudulent activities.
+  * (vii) to log out users from different websites.
 
 
 
