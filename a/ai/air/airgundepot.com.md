@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the airgundepot.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818060908id_/http%3A//www.airgundepot.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airgundepot.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215015346id_/http%3A//www.airgundepot.com/privacypolicy.html) for the most accurate reproduction.*
 
-# View Privacy Policy
+# Privacy Policy
 
 This privacy statement discloses the privacy practices for http://www.airgundepot.com
 
@@ -20,7 +20,11 @@ We request information from the user on our order form. Here a user must provide
 
 #### Cookies
 
-A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site.
+A cookie is a piece of data stored on the user’s computer containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. One way we use cookies is to store your user name, but not billing information, thereby saving time while on our site.
+
+Cookies are also used by analytic tools, such as Google Analytics Demographics and Interest Reporting, and shopping cart tools, such as the Yahoo! Shopping Cart. Third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads on sites across the Internet based on someone's past visits to our website. If you wish to not participate in Google's analytics and advertising features, you can [opt-out](https://tools.google.com/dlpage/gaoptout/) at any time.
+
+Remember, cookies do not store any personally identifiable information. It is information that is used to make your browsing and shopping experience more enjoyable.
 
 #### Log Files
 
