@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homefacts.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202230727id_/http%3A//www.homefacts.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homefacts.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215021652id_/http%3A//www.homefacts.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Local Health Safety and Environmental Information - What you need to know
 
