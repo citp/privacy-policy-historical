@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudability.com privacy policy that was archived on 2013-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130126045258id_/https%3A//cloudability.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudability.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215034513id_/https%3A//cloudability.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cloudability
 
@@ -6,7 +6,7 @@ This Privacy Policy describes how we collect, use, and protect the personal info
 
 ## INFORMATION COLLECTION AND USE
 
-In order to access and use the Service, you will need to register and provide us your Registration Information which will contain personal information about you. “Personal Information” means information or data that can be used to contact or identify you, such as your name, address, phone number, fax number or email address. We use and disclose your Personal Information only as follows:
+In order to access and use the Service, you will need to register and provide us with your Registration Information which will contain personal information about you. “Personal Information” means information or data that can be used to contact or identify you, such as your name, address, phone number, fax number or email address. We use and disclose your Personal Information only as follows:
 
   * To analyze usage and improve the Service;
   * To deliver to you any administrative notices, alerts and communications regarding the Service;
@@ -42,11 +42,11 @@ We reserve the right to share or disclose your Personal Information when we reas
 
   * To enforce our rights against you or in connection with a breach by you of this Privacy Policy or the Terms of Service;
   * To prevent any activity we consider to be prohibited or illegal or damaging to our Service or other users; or
-  * When required by any applicable law, rule regulation, subpoena or other legal process.
+  * When required by any applicable law, rule, regulation, subpoena or other legal process.
 
 
 
-In addition, your Personal Information may be transferred to a third party as a result of an asset sale, acquisition, merger, reorganization or other change of control or if we sell, merge or transfer any part of our business, part of the sale may include your Personal Information. 
+In addition, your Personal Information may be transferred to a third party as a result of an asset sale, acquisition, merger, reorganization or other change of control or if we sell, merge or transfer any part of our business. Part of the sale may include your Personal Information. 
 
 ## ACCESSING AND CHANGING YOUR INFORMATION
 
