@@ -1,0 +1,568 @@
+<!--The following is the downloaded HTML source of the merabollywood.com privacy policy that was archived on 2014-02-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140215042410id_/http%3A//www.tamiliptv.tv/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+
+<title>Privacy Policy</title>
+
+
+<meta name="KEYWORDS" content="Privacy Policy">
+
+
+<meta name="DESCRIPTION" content="Privacy Policy">
+
+
+<base href="http://www.tamiliptv.tv/">
+
+
+<link href="http://www.tamiliptv.tv/css/tamiliptv_style.css" rel="stylesheet" type="text/css">
+
+
+
+
+
+
+
+
+<!--FOR BANNER SLIDER START-->
+
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.tamiliptv.tv/js/jquery.js"></script>
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
+
+
+<script type="text/javascript">
+
+
+
+
+
+$(document).ready(function() {
+
+
+
+
+
+	//Set Default State of each portfolio piece
+
+
+	$(".paging").show();
+
+
+	$(".paging a:first").addClass("active");
+
+
+		
+
+
+	//Get size of images, how many there are, then determin the size of the image reel.
+
+
+	var imageWidth = $(".window").width();
+
+
+	var imageSum = $(".image_reel img").size();
+
+
+	var imageReelWidth = imageWidth * imageSum;
+
+
+	
+
+
+	//Adjust the image reel to its new size
+
+
+	$(".image_reel").css({'width' : imageReelWidth});
+
+
+	
+
+
+	//Paging + Slider Function
+
+
+	rotate = function(){	
+
+
+		var triggerID = $active.attr("rel") - 1; //Get number of times to slide
+
+
+		var image_reelPosition = triggerID * imageWidth; //Determines the distance the image reel needs to slide
+
+
+
+
+
+		$(".paging a").removeClass('active'); //Remove all active class
+
+
+		$active.addClass('active'); //Add active class (the $active is declared in the rotateSwitch function)
+
+
+		
+
+
+		//Slider Animation
+
+
+		$(".image_reel").animate({ 
+
+
+			left: -image_reelPosition
+
+
+		}, 500 );
+
+
+		
+
+
+	}; 
+
+
+	
+
+
+	//Rotation + Timing Event
+
+
+	rotateSwitch = function(){		
+
+
+		play = setInterval(function(){ //Set timer - this will repeat itself every 3 seconds
+
+
+			$active = $('.paging a.active').next();
+
+
+			if ( $active.length === 0) { //If paging reaches the end...
+
+
+				$active = $('.paging a:first'); //go back to first
+
+
+			}
+
+
+			rotate(); //Trigger the paging and slider function
+
+
+		}, 5000); //Timer speed in milliseconds (3 seconds)
+
+
+	};
+
+
+	
+
+
+	rotateSwitch(); //Run function on launch
+
+
+	
+
+
+	//On Hover
+
+
+	$(".image_reel a").hover(function() {
+
+
+		clearInterval(play); //Stop the rotation
+
+
+	}, function() {
+
+
+		rotateSwitch(); //Resume rotation
+
+
+	});	
+
+
+	
+
+
+	//On Click
+
+
+	$(".paging a").click(function() {	
+
+
+		$active = $(this); //Activate the clicked paging
+
+
+		//Reset Timer
+
+
+		clearInterval(play); //Stop the rotation
+
+
+		rotate(); //Trigger rotation immediately
+
+
+		rotateSwitch(); // Resume rotation
+
+
+		return false; //Prevent browser jump to link anchor
+
+
+	});	
+
+
+	
+
+
+});
+
+
+</script>
+
+
+<!--FOR BANNER SLIDER END-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://www.tamiliptv.tv/js/crawler.js">
+
+
+
+
+
+
+
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+</head>
+
+
+
+
+
+<body>
+
+
+
+
+
+<div id="main">
+
+
+	<div id="header">
+		<div class="tollfree">It's much more than entertainment!</div>
+	  	
+		<a href="http://www.tamiliptv.tv/" id="logo">Tamil Iptv</a>		
+		
+	</div>
+	
+	
+	<div id="nav">
+			<ul>
+				<li><a href="http://www.tamiliptv.tv/">Home</a></li> 
+				<li><a href="http://www.tamiliptv.tv/about/">About Us</a></li> 
+				<li><a href="http://www.tamiliptv.tv/crm/signup.php">Sign Up</a></li> 
+				<li><a href="http://www.tamiliptv.tv/packages/">Packages</a></li> 
+				<li><a href="http://tamiliptv.tv/helpdesk/">Support</a></li> 
+				<li><a href="http://tamiliptv.tv/helpdesk/index.php?/Knowledgebase/List">FAQs</a></li> 
+				<li><a href="http://www.tamiliptv.tv/contact/">Contact Us</a></li> 
+				<li><a href="http://www.tamiliptv.tv/crm/member.php">My Account</a></li>				
+			</ul>
+			
+			<a href="http://www.tamiliptv.tv/activate/" class="activate_roku">Activate ROKU</a>
+		</div>
+
+
+		
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+<div id="wrapper" style="padding: 10px; color: #FFF; min-height: 400px; width: 960px; -moz-border-radius:10px; -webkit-border-radius:10px; background-color: #171717;"><h2 style="color: #FFF;">Privacy Policy</h2><div style="list-style:none; padding-left:38px;">
+
+          <h4><u>PRIVACY POLICY</u></h4>
+
+        </div>
+
+        <ol type="1">
+
+          <li value="1">
+
+
+
+            <div name="Heading 1" align="left"> Tamil IPTV respects our subscribers' rights to privacy online and 
+
+              will not share, sell or otherwise distribute your information to any 
+
+              third party without your prior consent. In order to process client 
+
+              requests with minimum delay, Tamil IPTV may request information 
+
+              about you. Any information you provide to Tamil IPTV, including your 
+
+              name, address, telephone number and e-mail address will only be used 
+
+              internally by Tamil IPTV to process your membership, support 
+
+              requests and provide you with the best customer support </div>
+
+          </li>
+
+          <li value="2">
+
+            <div name="Heading 1" align="left"> We do not sell, trade, or rent your information, both personally 
+
+              identifiable and aggregate data, to any parties outside of Tamil 
+
+              IPTV. Your name and other personal information are only used to 
+
+              correspond with you. </div>
+
+          </li>
+
+          <li value="3">
+
+            <div name="Heading 1" align="left"> Tamil IPTV collects user's email addresses and reserves the right to 
+
+              send commercial email to all registered users. Users may opt-out of 
+
+              receiving future mailings by adjusting his/her profile settings on 
+
+              the Site. </div>
+
+
+
+          </li>
+
+          <li value="4">
+
+            <div name="Heading 1" align="left"> Financial information that is collected is used only to check the 
+
+              users' qualifications for registration and to bill the user for 
+
+              products and services. </div>
+
+          </li>
+
+          <li value="5">
+
+            <div name="Heading 1" align="left"> We use the IP address of Consumers to help diagnose problems with 
+
+              our server and to administer our Site. We use the IP address of 
+
+              Consumers to help identify their shopping cart. </div>
+
+          </li>
+
+
+
+          <li value="6">
+
+            <div name="Heading 1" align="left"> We use cookies to keep track of shopping cart contents and/or 
+
+              referral information. "<strong>Cookies</strong>" are small pieces of 
+
+              information that are stored by your browser on your computer's hard 
+
+              drive. We use cookies to let you use our site easily and to let us 
+
+              keep track of certain statistical information that helps us improve 
+
+              the services available. You may set most browsers to notify you if 
+
+              you receive a cookie or you may choose to block cookies with your 
+
+              browser, but please note that if you choose to erase or block your 
+
+              cookies, you will need to re-enter your original user ID and 
+
+              password to gain access to certain parts of the Site. </div>
+
+          </li>
+
+          <li value="7">
+
+            <div name="Heading 1" align="left"> You may choose whether or not to provide personal information to 
+
+              Tamil IPTV. The notice we intend to provide on the Site where Tamil 
+
+              IPTV collects personal information should help you to make this 
+
+              choice. If you choose not to provide the personal information we 
+
+              request, you can still visit some of Tamil IPTV's Site, but you may 
+
+              be unable to access certain options, offers and services that 
+
+              involve our interaction with you. </div>
+
+          </li>
+
+
+
+        </ol></div>
+
+	
+
+
+	
+
+
+	<div id="footerlinks">
+
+
+		<div class="footerlinks_in" style="text-align:center;">
+
+
+			<a href="http://www.tamiliptv.tv/what-is-iptv/">What is IPTV?</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;        
+
+
+			<a href="http://www.tamiliptv.tv/how-does-it-work/">How does it work?</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         
+
+
+			<a href="http://www.tamiliptv.tv/available-channels/">Available Channels</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;        
+
+
+			<a href="http://www.tamiliptv.tv/special-promotions/">Special Promotions</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         
+
+
+			<a href="http://www.tamiliptv.tv/terms-conditions/">Terms and Conditions</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         
+
+
+			<a href="http://www.tamiliptv.tv/privacy-policy/">Privacy Policy</a>
+
+
+		</div>
+
+
+	</div>
+
+
+	
+
+
+	
+
+
+	<div id="footer">
+		<div class="footer_in" style="text-align:center;">
+			<a href="http://www.tamiliptv.tv/">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;      
+			<a href="http://www.tamiliptv.tv/about/">About Us</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;      
+			<a href="http://www.tamiliptv.tv/products/">Products</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;      
+			<a href="http://www.tamiliptv.tv/packages/">Packages</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;      
+			<a href="http://www.tamiliptv.tv/support/">Support</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;      
+			<a href="http://www.tamiliptv.tv/faqs/">FAQs</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;      
+			<a href="http://www.tamiliptv.tv/contact/">Contact Us</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;      
+			<a href="#">My Account</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;      
+			<a href="http://www.tamiliptv.tv/activate-roku/">Activate ROKU</a>
+			
+			<br><br>
+			
+			Copyright 2012 Tamil IPTV INC. All rights reserved <br><br>
+			<span class="designed_by">
+				
+			</span>
+		</div>
+	</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-30588647-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script src="http://cdn.wibiya.com/Toolbars/dir_1174/Toolbar_1174961/Loader_1174961.js" type="text/javascript"></script><noscript><a 
+href="http://www.wibiya.com/">Web Toolbar by Wibiya</a></noscript> 
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+
+
+
+
+
+
+</div></body></html>
