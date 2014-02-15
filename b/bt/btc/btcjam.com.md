@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the btcjam.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425193400id_/https%3A//btcjam.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btcjam.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215112123id_/https%3A//btcjam.com/legal/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - BTCJAM
+# Privacy Policy - BTCJam
 
 ##  Privacy Policy 
 
