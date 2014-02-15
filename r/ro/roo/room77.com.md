@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the room77.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424192810id_/https%3A//www.room77.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the room77.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215030902id_/https%3A//www.room77.com/privacy.html) for the most accurate reproduction.*
 
 # Room 77 Privacy Policy
 
@@ -12,7 +12,7 @@ Room 77 collects personal information when you use our travel services. For exam
 
 #### Information Use
 
-Room 77 uses your personal information for the following purposes: To verify your authorization to access certain features of the site, to fulfill your requests for products or services, to personalize and customize the content and relevant trip services that you are offered to contact you, to improve our services, and to provide reporting.
+Room 77 may use your personal information for the following purposes: To verify your authorization to access certain features of the site, to fulfill your requests for products or services, to personalize and customize the content and relevant trip services that you are offered to contact you; to contact you about new products, services, special events and promotions, unless you have opted out; to conduct contests, sweepstakes and promotions, if you signed up to participate; to help us learn about your travel preferences and to enhance your booking experience; to help us improve our products and services; and to provide reporting.
 
 #### Information Sharing and Disclosure
 
