@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buylandingpagedesign.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521044547id_/http%3A//www.semanticlp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buylandingpagedesign.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215035418id_/https%3A//www.buylandingpagedesign.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy of semanticlp landing page design services
+# Buy landing page design privacy policy of user information.
 
 ### Our Commitment To Privacy
 
@@ -8,8 +8,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 ### The Information We Collect
 
-This notice applies to all information collected or submitted on our website.   
-
+This notice applies to all information collected or submitted on our website. 
 
 ### The Way We Use Information
 
@@ -24,5 +23,3 @@ This notice applies to all information collected or submitted on our website.
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
-
-## Landing page design tag cloud
