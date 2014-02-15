@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waveaccounting.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109171633id_/https%3A//my.waveapps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waveaccounting.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215163654id_/https%3A//my.waveapps.com/privacy) for the most accurate reproduction.*
 
 # Wave • Privacy Policy
 
