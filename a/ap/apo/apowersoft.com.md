@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the apowersoft.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819170317id_/http%3A//www.apowersoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apowersoft.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215114712id_/http%3A//www.apowersoft.com/privacy.html) for the most accurate reproduction.*
 
 # Apowersoft Privacy
 
 Last Updated: July 9, 2012
 
 Apowersoft is committed to protecting your privacy. Please read the Apowersoft Online Privacy Statement below and also any supplemental information listed to the right for additional details about particular Apowersoft sites and services that you may use.  
-It does not apply to those Apowersoft sites, services and products that do not display or link to this statement or that have their own privacy statements. If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20130819170317id_/http%3A//www.apowersoft.com/company/contact.html).
+It does not apply to those Apowersoft sites, services and products that do not display or link to this statement or that have their own privacy statements. If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20140215114712id_/http%3A//www.apowersoft.com/company/contact.html).
 
 ## Software
 
