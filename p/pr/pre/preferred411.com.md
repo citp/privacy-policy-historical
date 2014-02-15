@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preferred411.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903042104id_/https%3A//www.preferred411.com/index.cfm%3Ffx%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preferred411.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215165938id_/https%3A//www.preferred411.com/index.cfm%3Ffx%3DPrivacy) for the most accurate reproduction.*
 
 # Preferred411
 
