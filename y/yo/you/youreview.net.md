@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youreview.net privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809161956id_/http%3A//www.youreview.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youreview.net privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215081035id_/http%3A//www.youreview.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - YouReview
 
