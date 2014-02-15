@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appointment-plus.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814211605id_/http%3A//www.appointment-plus.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appointment-plus.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215190146id_/http%3A//www.appointment-plus.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Appointment-Plus Privacy Policy | Online Scheduling Software Privacy
 
@@ -76,4 +76,4 @@ StormSource reserves the right to change this Privacy Statement. StormSource wil
 
 **9\. Contacting Us**
 
-Questions regarding this Privacy Statement should be directed to StormSource Privacy by mailing to: StormSource, LLC, Attn: Legal Department, 13951 N. Scottsdale Rd., Suite 110, Scottsdale, AZ 85254.
+Questions regarding this Privacy Statement should be directed to StormSource Privacy by mailing to: StormSource, LLC, Attn: Legal Department, 15300 N. 90th Street, Suite 100, Scottsdale, AZ 85260.
