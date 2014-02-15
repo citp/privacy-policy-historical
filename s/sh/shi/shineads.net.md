@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shineads.net privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106105715id_/http%3A//shineads.net/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shineads.net privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215195746id_/http%3A//shineads.net/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Shineads.net-Privacy Policy
 
