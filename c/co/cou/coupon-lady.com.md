@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coupon-lady.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426112240id_/http%3A//www.coupon-lady.com/coupons/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupon-lady.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215042347id_/http%3A//www.coupon-lady.com/coupons/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Printable Grocery Coupons
 
