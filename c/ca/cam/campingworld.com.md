@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campingworld.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127065614id_/http%3A//www.campingworld.com/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campingworld.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215135530id_/http%3A//www.campingworld.com/help/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Camping World
 
