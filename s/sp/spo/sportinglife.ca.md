@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportinglife.ca privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903081050id_/http%3A//www.sportinglife.ca/policies/100003/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportinglife.ca privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215020038id_/http%3A//www.sportinglife.ca/policies/100003/PrivacyPolicy) for the most accurate reproduction.*
 
 # Sporting Life Online Store - Canada Goose, The North Face, Arcteryx, Nike, Lacoste
 
