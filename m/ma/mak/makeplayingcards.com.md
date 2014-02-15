@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makeplayingcards.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808071410id_/http%3A//www.makeplayingcards.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeplayingcards.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215045147id_/http%3A//www.makeplayingcards.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # MakePlayingCards.com Privacy Policy
 
@@ -23,6 +23,10 @@ When you submit questions, e-mails, survey, comments, suggestions, reviews or ot
 
 If you have any questions about this privacy policy please contact us here: [enquiry@makeplayingcards.com](mailto:enquiry@makeplayingcards.com)
 
+### MPC® Playing Cards 
+
+_Gold foil stamped box - Limited Ed._
+
 ### Payment methods
 
 Secure, safe and convenient!
@@ -36,7 +40,7 @@ T/T Payments available (ask for details)
 If you have an enquiry on making your cards, we're here to help. [Contact us here»](http://www.makeplayingcards.com/support/os.aspx)
 
 **Other needs?**  
-We also do [board game development & packaging](http://www.makeplayingcards.com/custom-board-games.aspx). Speak to our team today! 
+Are you developing a game? We also do complete custom decks (e.g. card sizes, hot & foil stamping, embossing, spot UV, etc) and [board game development & packaging](http://www.makeplayingcards.com/custom-board-games.aspx). _Chances are, if you need it, we can do it! Speak to our team today!_
 
 * * *
 
