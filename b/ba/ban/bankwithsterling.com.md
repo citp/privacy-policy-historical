@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bankwithsterling.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818005034id_/https%3A//www.bankwithsterling.com/PrivacyandSecurity/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankwithsterling.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215020930id_/https%3A//www.bankwithsterling.com/PrivacyandSecurity/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Sterling Bank | Privacy and Security | Privacy Policy
+
+Sign On to Online Banking
 
 ## Privacy Policy
 
@@ -126,4 +128,15 @@ Definitions
   
 ### Joint marketing
 
-| A formal agreement between non-affiliated financial companies that together market financial products or services to you.  _Our joint marketing partners include issuer of Sterling's credit card and credit life insurance provider._
+| A formal agreement between non-affiliated financial companies that together market financial products or services to you.  _Our joint marketing partners include issuer of Sterling's credit card and credit life insurance provider._  
+  
+### Other important information
+
+For California residents only: California law places additional limits on sharing information about California residents. In accordance with California law, we will not share information we collect about California residents with outside companies, except as permitted by law, such as with the consent of the customer or to service the customer's accounts.
+
+For Sterling Savings Bank insurance product customers: Pursuant to certain state privacy laws, you may have the right to learn the substance of customer information collected about you and to learn whether the customer information has been disclosed to our affiliates and nonaffiliated third parties within the last two years. If you would like this information, please send your request in writing to: Sterling Savings Bank , 111 N. Wall St., Spokane, WA 99201. Sterling Savings Bank will provide such information if required by applicable law.
+
+Sterling Savings Bank and Its Affiliates  
+Affiliates of Sterling Savings Bank include Intervest-Mortgage Investment Company and Mason-McDuffie Financial Corporation.
+
+Sterling Savings Bank is a Washington state-chartered bank that operates under the following trade names: Sterling and Argent Bank. Sterling Savings Bank does not operate under the STERLING brand in the State of California, but instead operates as "ARGENT BANK."
