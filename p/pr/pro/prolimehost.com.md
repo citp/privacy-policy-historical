@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prolimehost.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113201126id_/http%3A//www.prolimehost.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prolimehost.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215025401id_/http%3A//www.prolimehost.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Cheap Dedicated Servers, Cpanel Dedicated Servers, Dedicated Servers
 
