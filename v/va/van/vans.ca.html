@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vans.ca privacy policy that was archived on 2013-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131215194003id_/http%3A//www.vans.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vans.ca privacy policy that was archived on 2014-02-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140215051048id_/http%3A//www.vans.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><head>
 
@@ -97,7 +97,7 @@
                         <li id="nav-news"><a href="/news/">News</a></li>
                         <li id="nav-events"><a href="/events/">Events</a></li>
                         <li id="nav-videos"><a href="http://www.offthewall.tv" onclick="_gaq.push(['_link', 'http://www.offthewall.tv']);return false;">Videos</a></li>
-                        <li id="nav-music"><a href="/music/">Music</a></li>
+                        <li id="nav-music"><a href="http://vansmusic.tumblr.com" target="_blank">Music</a></li>
                         <li id="nav-art"><a href="/art/">Art</a></li>
                         <li id="nav-skatepark"><a href="/skateparks/">Skatepark</a></li>
                         <li id="nav-contests"><a href="/contests/">Contests</a></li>
@@ -124,21 +124,7 @@
 
         
 
-        <div class="videoCookie" align="center">
-            <a href="#" class="videoCookieShow"><img src="/media/img/common/watch-commercial.png"></a>
-        </div>
-
         
-        <div class="brandContainer">
-            <div class="video">
-<script type="text/javascript" src="http://cdnapi.kaltura.com/p/815152/sp/81515200/embedIframeJs/uiconf_id/11200641/partner_id/815152"></script>
-<object id="kaltura_player_1360275407" name="kaltura_player_1360275407" type="application/x-shockwave-flash" allowfullscreen="true" allownetworking="all" allowscriptaccess="always" height="360" width="640" bgcolor="#000000" xmlns:dc="http://purl.org/dc/terms/" xmlns:media="http://search.yahoo.com/searchmonkey/media/" rel="media:video" resource="http://cdnapi.kaltura.com/index.php/kwidget/cache_st/1360275407/wid/_815152/uiconf_id/11200641/entry_id/1_sryq9odb" data="http://cdnapi.kaltura.com/index.php/kwidget/cache_st/1360275407/wid/_815152/uiconf_id/11200641/entry_id/1_sryq9odb"><param name="wmode" value="transparent"><param name="allowFullScreen" value="true"><param name="allowNetworking" value="all"><param name="allowScriptAccess" value="always"><param name="bgcolor" value="#000000"><param name="flashVars" value="&amp;streamerType=hdnetworkmanifest&amp;akamaiHD.loadingPolicy=preInitialize&amp;akamaiHD.asyncInit=true&amp;twoPhaseManifest=true&amp;"><param name="movie" value="http://cdnapi.kaltura.com/index.php/kwidget/cache_st/1360275407/wid/_815152/uiconf_id/11200641/entry_id/1_sryq9odb"><span property="dc:description" content=""></span><span property="media:title" content="Vans 2013 Brand Anthem Parade - Full Length"></span> <span property="media:width" content="640"></span><span property="media:height" content="360"></span> <span property="media:type" content="application/x-shockwave-flash"></span> </object>
-                <div class="seeMore" align="center"><a href="http://www.vans.com/microsites/offthewall/?ref=homepage"><img src="/media/img/common/see-more.png"></a></div>
-            </div>
-            <div class="closeIt"><a href="#" class="closeVideo"><img src="/media/img/common/close-button.png"></a></div>
-        </div>
-        
-
         <div class="container">
 
 
@@ -284,74 +270,10 @@ By using this web site you consent to the collection and use of the information 
 
 
 
-    
-        <script type="text/javascript">
-            $(document).ready(function() {
-                if ($.cookie('brand-2013')) {
-                    // it hasn't been 730 days yet
-                    setTimeout(function() {
-                        $('.videoCookie').slideDown(1000);
-                    }, 3000);
 
-                    $('.videoCookieShow').click(function(){
-                        if (jQuery.browser.mozilla) {
-                            addVideoToDom();
-                        }
-                        $('.videoCookie').slideUp(1000);
-                        $('.brandContainer').slideDown(1000);
-                    });
-
-                    $('.closeVideo').click(function(){
-                        $('.brandContainer').slideUp(1000);
-                        $('.videoCookie').slideDown(1000);
-                        if (jQuery.browser.mozilla) {
-                            removeVideoFromDom();
-                        }
-                    });
-                } else {
-                    $.cookie('brand-2013', 'true', { expires: 365, path: '/', domain: 'vans.com'});
-                    setTimeout(function() {
-                        $('.brandContainer').slideDown(1000);
-                    }, 3000);
-
-                    $('.closeVideo').click(function(){
-                        $('.brandContainer').slideUp(1000);
-                        $('.videoCookie').slideDown(1000);
-                        if (jQuery.browser.mozilla) {
-                            removeVideoFromDom();
-                        }
-                    });
-
-                    $('.videoCookieShow').click(function(){
-                        if (jQuery.browser.mozilla) {
-                            addVideoToDom();
-                        }
-                        $('.videoCookie').slideUp(1000);
-                        $('.brandContainer').slideDown(1000);
-
-                    });
-                }
-
-            });
-        </script>
-
-        <script type="text/javascript">
-
-            function removeVideoFromDom()
-            {
-                $('.video').html('');
-                //alert('remove');
-            }
-
-            function addVideoToDom()
-            {
-
-                $(".video").html('<script type="text/javascript" src="http://cdnapi.kaltura.com/p/815152/sp/81515200/embedIframeJs/uiconf_id/11200641/partner_id/815152"><\/script><object id="kaltura_player_1360275407" name="kaltura_player_1360275407" type="application/x-shockwave-flash" allowFullScreen="true" allowNetworking="all" allowScriptAccess="always" height="360" width="640" bgcolor="#000000" xmlns:dc="http://purl.org/dc/terms/" xmlns:media="http://search.yahoo.com/searchmonkey/media/" rel="media:video" resource="http://cdnapi.kaltura.com/index.php/kwidget/cache_st/1360275407/wid/_815152/uiconf_id/11200641/entry_id/1_sryq9odb" data="http://cdnapi.kaltura.com/index.php/kwidget/cache_st/1360275407/wid/_815152/uiconf_id/11200641/entry_id/1_sryq9odb"><param name="wmode" value="transparent" /><param name="allowFullScreen" value="true" /><param name="allowNetworking" value="all" /><param name="allowScriptAccess" value="always" /><param name="bgcolor" value="#000000" /><param name="flashVars" value="&streamerType=hdnetworkmanifest&akamaiHD.loadingPolicy=preInitialize&akamaiHD.asyncInit=true&twoPhaseManifest=true&" /><param name="movie" value="http://cdnapi.kaltura.com/index.php/kwidget/cache_st/1360275407/wid/_815152/uiconf_id/11200641/entry_id/1_sryq9odb" /><span property="dc:description" content=""></span><span property="media:title" content="Vans 2013 Brand Anthem Parade - Full Length"></span> <span property="media:width" content="640"></span><span property="media:height" content="360"></span> <span property="media:type" content="application/x-shockwave-flash"></span> </object>');
-                //alert("add");
-            }
-        </script>
     
 <iframe id="esmpxl" src="http://pix.esm1.net/iframe.php?gn1=1&amp;c1=Vans-FBX&amp;t1=Vans-FBX" width="1" height="1" border="0" style="display: none;" frameborder="0" scrolling="no"></iframe>
 
 
+<!-- cache 02/14/2014 9:10 p.m. -->
 </body></html>
