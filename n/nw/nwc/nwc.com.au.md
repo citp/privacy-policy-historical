@@ -1,26 +1,24 @@
-> *The following text is extracted and transformed from the nwc.com.au privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820094009id_/http%3A//www.nwc.com.au/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwc.com.au privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215011530id_/http%3A//nwc.com.au/privacypolicy.html) for the most accurate reproduction.*
 
 # NWC Privacy Policy
-
-NWC Privacy Policy
 
 The objective of this policy is to assist us to comply with the Privacy Act 1988 (Cth) in our dealings with insureds and other people. The Act is designed to protect individuals’ personal information. It does this by restricting the ways in which personal information may be used. 
 
 COMPLYING WITH THE PRIVACY ACT HELPS US TO ENHANCE OUR CLIENT SERVICE.
 
-What is Personal Information?
+## What is Personal Information?
 
   
 
 
-Sensitive Personal Information 
+## Sensitive Personal Information 
 
   
 
 
 Our Privacy Officer, is responsible for all matters to do with privacy.
 
-What information do we collect? 
+## What information do we collect? 
 
   
 
@@ -35,7 +33,7 @@ What information do we collect?
 | Dealing with Representatives and Authorised Representatives;  
 | Operating our business.  
   
-How do we use Personal Information?
+## How do we use Personal Information?
 
   
   
@@ -56,9 +54,9 @@ We do not collect or disclose sensitive information without consent unless:
   
 
 
-In most cases we obtain consent in the usual course of dealing, e.g. in our Warranty Contract application form.
+In most cases we obtain consent in the usual course of dealing, e.g. in our Warranty Contract application form. In providing products and services to you, we may also share your personal information with other members of our group or any other associated entities or related bodies corporate. Please contact us if you do not wish this to happen.
 
-What can we disclose? 
+## What can we disclose? 
 
   
 
