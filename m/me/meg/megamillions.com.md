@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the megamillions.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820113440id_/http%3A//www.megamillions.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megamillions.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215031847id_/http%3A//www.megamillions.com/privacy-policy) for the most accurate reproduction.*
 
-# Mega Millions Official Home
+# Mega Millions
 
 Mega Millions respects absolutely the privacy of every person visiting our website.
 
@@ -9,7 +9,7 @@ Mega Millions will not collect any personal information about you (i.e., your na
 
 The only ways we can obtain your personal information are if you submit it to us through one of our interactive forms or send us a general inquiry or feedback.
 
-If you do not want your personal information collected, please do not submit it to us! If you have already sent this information to us and would like for us to delete it, please email us at [webmaster@megamillions.com](mailto:webmaster@megamillions.com)
+If you do not want your personal information collected, please do not submit it to us! If you have already sent this information to us and would like for us to delete it, please email us at [webmaster@megamillions.com](mailto:webmaster@megamillions.com "MegaMillions Inquiry")
 
 **Communicating With Us**  
 While visiting our website, you may want to send Mega Millions an email or request that we call you. If so, we may ask you to provide your name, the subject of your question or comment, and your email address or telephone number. This information is used solely to fulfill your online request. Mega Millions does not seek to share this information with any other entity.
