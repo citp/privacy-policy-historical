@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teensafe.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818151738id_/https%3A//cp.teensafe.com/helps/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teensafe.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215014621id_/https%3A//cp.teensafe.com/helps/privacy) for the most accurate reproduction.*
 
 # TeenSafe - Protecting Your Most Valuable Treasure
 
@@ -77,7 +77,7 @@ We may use your personal information to provide analyses of our users in the agg
 
 In addition, we will share the personal information we collect from you under the following circumstances: 
 
-  * **Protection of rights.** We will share your personal information if we have a good faith belief that (i) access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, such as a court order or subpoena, or a request by law enforcement or governmental authorities, (ii) such action is appropriate to enforce the [Terms of Use](https://web.archive.org/web/20130818151738id_/https%3A//cp.teensafe.com/helps/terms) for the Teensafe Features, including any investigation of potential violations thereof, (iii) such action is necessary to detect, prevent, or otherwise address fraud, security or technical issues associated with the Teensafe Features, or (iv) such action is appropriate to protect the rights, property or safety of Teensafe, its employees, users of the Teensafe Features or others.
+  * **Protection of rights.** We will share your personal information if we have a good faith belief that (i) access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, such as a court order or subpoena, or a request by law enforcement or governmental authorities, (ii) such action is appropriate to enforce the [Terms of Use](https://web.archive.org/web/20140215014621id_/https%3A//cp.teensafe.com/helps/terms) for the Teensafe Features, including any investigation of potential violations thereof, (iii) such action is necessary to detect, prevent, or otherwise address fraud, security or technical issues associated with the Teensafe Features, or (iv) such action is appropriate to protect the rights, property or safety of Teensafe, its employees, users of the Teensafe Features or others.
   * **Asset transfers.** If we become involved in a merger, acquisition or other transaction involving the sale of some or all of Teensafe's assets, user information, including personal information collected from you through your use of the Teensafe Features, could be included in the transferred assets. Should such an event occur, we will use reasonable means to notify you, either through email and/or a prominent notice on the Site.
   * **Service Providers.** We may share your personal information with service providers that we engage for the purpose of processing information on our and your behalf. For example, we may partner with other companies to process, analyze, and/or store data, including, but not limited to, Analytical Data. While providing services for us, these companies may access your personal information. To the extent applicable, we require these entities to comply with this Privacy Policy and appropriate confidentiality and security measures. 
 
@@ -126,4 +126,4 @@ If you have any questions about our privacy practices or this Privacy Policy, pl
 
 **_Terms of Use_**
 
-Please read the [Terms of Use](https://web.archive.org/web/20130818151738id_/https%3A//cp.teensafe.com/helps/terms) governing the use of the Site and the Teensafe Features. 
+Please read the [Terms of Use](https://web.archive.org/web/20140215014621id_/https%3A//cp.teensafe.com/helps/terms) governing the use of the Site and the Teensafe Features. 
