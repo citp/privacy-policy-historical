@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixton.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818022350id_/http%3A//www.pixton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixton.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215030014id_/http%3A//www.pixton.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Pixton for Fun
 
@@ -49,10 +49,10 @@ We collect information from you in a variety of ways, including the following:
 
   * sign-up forms;
   * profile fields (freestyle text fields);
-  * the Google Interactive map (if you indicate your approximate location on it); and
+  * the Google Interactive map (if you indicate your approximate location on it);
   * send-to-a-friend and invite-your-friends forms you fill out;
   * third-party services such as Google API (which includes Google Translate and Google Maps);
-  * our "contact us" form;
+  * our "contact us" form; and
   * email messages which may contain code that allows us to track whether the message was opened and/or links clicked.
 
 
