@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ibsgroup.org privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807081827id_/http%3A//www.ibsgroup.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibsgroup.org privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215050047id_/http%3A//www.ibsgroup.org/privacy) for the most accurate reproduction.*
 
 # The Irritable Bowel Syndrome Self Help and Support Group Respects Your Privacy | IBSgroup.org
 
-**Publication Date (revised): June 26, 2013**
+**Publication Date (revised): October 1, 2013**
 
 IBS Self Help and Support Group ("IBS Group") respects your privacy. That's why we have created this Privacy Statement to explain how and why we collect certain information online, and how we use that information. This statement also explains how you can prevent collection of certain information about yourself, if you choose. Please take a few moments to read our Privacy Statement. This statement applies to both information we collect from visitors to the IBSGroup.org Web site, as well as information we collect or have access to when on our message boards.
 
@@ -16,15 +16,18 @@ If you have any questions about this Privacy Statement or other questions about 
 
 **Via Postal Mail:**  
 IBS Self Help and Support Group  
-P.O. Box 94074  
-Toronto, Ontario M4N 3R1  
-CANADA
+24 Dixwell Avenue #118
+
+New Haven, CT 06511 
 
 **Or Via E-mail:**  [ibs@ibsgroup.org](mailto:ibs@ibsgroup.org "E-mail Link")
 
 **Types of Information We Collect**  
 Generally, you are free to browse the IBSGroup.org site without submitting any personal information. We do not collect any of your personal information (such as a name, address or e-mail address) when you visit the IBS Group site, unless you register or have registered to use one of our services, complete one of our evaluations, or otherwise agree to submit to us such information. As part of such processes, you have the opportunity to decline further promotional materials or other notifications from us regarding special offers and information from IBS Group. Types of information collected on specific services on the IBSGroup.org site are described in more detail below.
 
+We use a third-party advertising company, eHealthcare Solutions, to serve ads when you visit our website. They may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by eHealthcare Solutions, [click here](http://preferences.truste.com/2.0/?type=ehs&affiliateId=151)
+
+  
 **Registration on Our Site**  
 IBS Group requires users who want to participate in the IBS Group support message boards to register. In order to register, you must provide us with a username (which does not have to be your real name), password, country and a valid e-mail address. This allows us to protect our community from abusive postings and provides a verifiable point of contact should legal questions arise. At any time, you have the ability to keep your e-mail address hidden from other users by selecting that option within your user profile.
 
@@ -39,6 +42,8 @@ IBS Group offers an option to subscribe to a periodic newsletter regarding our o
 IBS Group uses browser cookies to facilitate your experience with our forums, services and sponsors. These cookies are small sections of code that our server sends to your browser which it can then store on your hard drive. If you choose to accept these cookies, they enable us, or our sponsors, to recognize that your browser has previously visited and used our site, bulletin board or services and, based on your browser's previous visits, assist us with tailoring the information and content, banners and promotions you view. These cookies also enable us to recognize when you access and use IBS Group's forums. An example of the customization allowed by the use of such cookies is to retain your username and password as part of the forums on our site so you don't have to re-enter them each time you visit. These cookies do not collect, store or maintain your private, personally identifiable information. You do not have to accept these cookies to visit or use the IBS Group site or our forums and services, and you can choose to refuse our cookie, delete our cookie from your hard drive or turn off the IBS Group cookie at any time by updating your user profile preferences.
 
 The IBS Group uses, in part, Google Adsense to deliver relevant advertising. Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+eHealthcare Solutions, as a third-party vendor, uses cookies to serve ads on our site. Their use of cookies enables them to serve more relevant ads to our users based on their visit to our sites and other sites on the Internet. Users learn more about or may opt out of the use of cookies by visiting their [Privacy Policy](http://ehealthcaresolutions.com/Privacy) or the [eHealthcare Solutions TRUSTe page](http://preferences.truste.com/2.0/?type=ehs&affiliateId=151).
 
   
 Currently we are using Google Analytics to analyze the audience of the website and improve our content. No personal information is collected from Google Analytics. For further information on the privacy policy concerning Google Analytics, please go here: [http://www.google.co...cyoverview.html](http://www.google.com/intl/en/analytics/privacyoverview.html)
