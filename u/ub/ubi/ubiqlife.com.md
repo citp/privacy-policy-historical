@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubiqlife.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024084727id_/http%3A//www.ubiqlife.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubiqlife.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215110328id_/http%3A//www.ubiqlife.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ This [Privacy Policy](http://www.ubiqlife.com/privacy-policy-cookie-restriction-
 
 **Personal identification information (AKA How we get your info)**
 
-We may collect personal identification information from you in a variety of ways, including, but not limited to, when you visit our site, register on the site, place an order, subscribe to the newsletter, fill out a form, and in connection with other activities, services, [features](http://www.ubiqlife.com/features.html?___SID=U) or resources we make available on our Site. You may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. But you can visit our Site anonymously. We will collect personal identification information from you only if you voluntarily submit such information to us. You can always refuse to supply personally identification information, but not signing up may prevent you from entering certain parts of the site.
+We may collect personal identification information from you in a variety of ways, including, but not limited to, when you visit our site, register on the site, place an order, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. You may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. But you can visit our Site anonymously. We will collect personal identification information from you only if you voluntarily submit such information to us. You can always refuse to supply personally identification information, but not signing up may prevent you from entering certain parts of the site.
 
 **Non-personal identification information (AKA what we collect your info)**
 
@@ -41,7 +41,7 @@ We do not sell, trade, or rent your personal identification information to anybo
 
 You may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. Also, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
-**Changes to this privacy policy**
+**Changes to this[privacy policy](http://www.ubiqlife.com/privacy-policy)**
 
 UBIQlife has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We advice that you check this page frequently for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
