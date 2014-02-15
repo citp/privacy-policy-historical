@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the yottaa.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113154309id_/http%3A//www.yottaa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yottaa.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215231302id_/http%3A//info.yottaa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_Last Updated 4/18/2011_
+**_Last Updated 4/18/2011  
+_**
 
 At Yottaa, Inc., we protect your privacy as if it were our own. We use the information you provide to us for several reasons including: to process your order(s), to reply to your questions, provide our newsletter via email, to provide our services, to facilitate a transaction you chose to enter into with our third party partner(s) and to incorporate your feedback into improvements to our Web site. We will not give, sell, or rent your personal information, including email address, or specific account activity to anyone for any reason without your prior consent except as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website.
 
@@ -53,8 +54,6 @@ If you provide Yottaa with user information, you have the following rights with 
 
 If you request that your user information be deleted from our records, there may be a brief delay in our processing that request, while verify that the request is valid and originates from you as opposed to an unauthorized third party. If you request that your information be deleted, we reserve the right to terminate and/or limit your access to the Yottaa website.
 
-To exercise any of these rights, please contact us at info@Yottaa.com.
-
   * ### Security of your Personal Information
 
 No method of safeguarding information is 100% secure. Yottaa uses a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. Yottaa secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
@@ -65,7 +64,7 @@ Yottaa will occasionally update this Statement of Privacy to reflect company and
 
   * ### Enforcement of this Privacy Statement
 
-If you have questions regarding this statement, you should first contact us at info@Yottaa.com. If you do not receive acknowledgement of your inquiry or we have not addressed your inquiry to your satisfaction, you should then contact us at abuse@Yottaa.com.
+If you have questions regarding this statement, you should first contact us at info@Yottaa.com. If you do not receive acknowledgement of your inquiry or we have not addressed your inquiry to your satisfaction, you should then contact us at [abuse@Yottaa.com](mailto:abuse@Yottaa.com).
 
   * ### To Unsubscribe From Yottaa
 
@@ -76,7 +75,7 @@ You may unsubscribe from Yottaa marketing communications by clicking on the “u
 Yottaa welcomes your comments regarding this Statement of Privacy. If you believe that Yottaa has not adhered to this Statement, please contact Yottaa at info@Yottaa.com. We will use commercially reasonable efforts to promptly determine and remedy the problem. Yottaa is located at:
 
 Yottaa, Inc.   
-101 Summer St, Boston   
+160 Federal St, Boston   
 MA 02110
 
 
