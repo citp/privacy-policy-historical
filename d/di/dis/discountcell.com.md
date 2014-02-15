@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountcell.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817102848id_/http%3A//www.discountcell.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountcell.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215150839id_/http%3A//www.discountcell.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Discountcell.com
 
@@ -144,8 +144,8 @@ The compact policy is sent by the Web server along with the cookies it describes
 
 * * *
 
-| [Discount Cell](http://pinterest.com/source/discountcell.com/) |  |  |   |  | [Follow @discountcell](https://twitter.com/discountcell) |   
----|---|---|---|---|---|---|---  
+[Discount Cell](http://pinterest.com/source/discountcell.com/) |  |  |   | [Follow @discountcell](https://twitter.com/discountcell) |   
+---|---|---|---|---|---  
   
 We keep your device running with only authentic, top quality **[cell phone accessories](http://www.discountcell.com/ "cell phone accessories")**.  Buy with confidence knowing every item we offer is covered by our satisfaction guarantee and the manufacturers warranty.
 
@@ -165,4 +165,4 @@ Copyright 1997-2013 Discountcell all Rights Reserved.   Discountcell is a trad
 350 West 500 South, Provo UT 84601  
  
 
-[ ](https://www.bbb.org/online/consumer/cks.aspx?id=1061117125131937)      [ ](https://secure.trust-guard.com/certificates/www.discountcell.com)  [ ](https://secure.trust-guard.com/certificates/www.discountcell.com)  [ ](https://secure.trust-guard.com/certificates/www.discountcell.com) 
+   [ ](https://secure.trust-guard.com/certificates/www.discountcell.com)  [ ](https://secure.trust-guard.com/certificates/www.discountcell.com)  [ ](https://secure.trust-guard.com/certificates/www.discountcell.com) 
