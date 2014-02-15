@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5games.com privacy policy that was archived on 2013-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130719135907id_/http%3A//www.5games.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5games.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215113832id_/http%3A//www.5games.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 5games.com
 
