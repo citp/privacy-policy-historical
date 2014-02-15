@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coderwall.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819134412id_/https%3A//coderwall.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coderwall.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215023751id_/https%3A//coderwall.com/privacy_policy) for the most accurate reproduction.*
 
 # coderwall.com : establishing geek cred since 1305712800
 
