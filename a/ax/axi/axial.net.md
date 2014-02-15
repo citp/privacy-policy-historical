@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the axial.net privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620041241id_/http%3A//www.axial.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axial.net privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215223942id_/https%3A//www.axial.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Axial
 
-**Updated April 2013**
+**Updated July 3, 2013**
 
-This Privacy Policy explains how Axial Market, Inc. and its subsidiaries and affiliates (collectively, “Axial”, “we” and “us”) collects, uses, shares and protects information obtained from members and from visitors to its website. In certain places in this Privacy Policy we pose questions and answer them, while in other instances we simply state terms of our Privacy Policy. If you are a member with access to Axial’s platform, tools and services (the “services”), you have agreed and are additionally subject to the Terms of Service, which incorporates this Privacy Policy by reference. If you are not a member, by visiting the website, you consent to the collection and use of your information under the terms of this Privacy Policy.
+This Privacy Policy explains how Axial Networks, Inc. and its subsidiaries and affiliates (collectively, “Axial”, “we” and “us”) collects, uses, shares and protects information obtained from members and from visitors to its website. In certain places in this Privacy Policy we pose questions and answer them, while in other instances we simply state terms of our Privacy Policy. If you are a member with access to Axial’s platform, tools and services (the “services”), you have agreed and are additionally subject to the Terms of Service, which incorporates this Privacy Policy by reference. If you are not a member, by visiting the website, you consent to the collection and use of your information under the terms of this Privacy Policy.
 
 **What is the purpose of this Privacy Policy?**
 
