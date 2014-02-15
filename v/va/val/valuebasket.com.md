@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuebasket.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026003145id_/http%3A//www.valuebasket.com/display/view/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuebasket.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215200107id_/http%3A//www.valuebasket.com/display/view/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy and how we use your data for ValueBasket | ValueBasket
 
