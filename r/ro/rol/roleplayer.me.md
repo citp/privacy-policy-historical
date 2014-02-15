@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roleplayer.me privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815182648id_/http%3A//www.roleplayer.me/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roleplayer.me privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215052637id_/http%3A//www.roleplayer.me/privacy_policy.php) for the most accurate reproduction.*
 
 # RolePlayer.me | Online Roleplaying Social Network
 
