@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the review-australia.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030190647id_/http%3A//www.review-australia.com/customer-service%23terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the review-australia.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215023656id_/http%3A//www.review-australia.com/customer-service%23terms) for the most accurate reproduction.*
 
-# Customer Service | Review Australia | Dresses, Tops, Skirts, Knitwear, Pants, Jackets, Coats, Accessories, Daywear, Party, Wedding, Career
+# Customer Service
 
 ## Delivery
 
-**FOR A LIMITED TIME ONLY WE HAVE  FREE SHIPPING ON ALL ORDERS WITHIN AUSTRALIA! ** 
-
-**Due to delays with postage during the Holiday season our delivery promise of 3-5 days may be slightly more, and we expect Express Post may also encounter delays.**
+**  WE HAVE FREE SHIPPING ON ALL ORDERS WITHIN AUSTRALIA! ** 
 
 Within Australia, Review sends parcels via the Australia Post E-Parcel service so please allow 3-5 business days for delivery.
 
@@ -100,7 +98,7 @@ Protecting your personal information is a top priority at Review online. You can
   * [Terms of Use and Sale](https://web.archive.org/terms-of-use-and-sale)
   * [Intellectual Property](https://web.archive.org/intellectual-property/)
   * [Accessibility   
-](https://web.archive.org/web/20131030190647id_/http%3A//www.review-australia.com/accessibility-policy)
+](https://web.archive.org/web/20140215023656id_/http%3A//www.review-australia.com/accessibility-policy)
 
 
 
