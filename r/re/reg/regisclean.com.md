@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regisclean.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203031926id_/http%3A//www.freeridegames.com/do/general%3Fpartner%3DDefault%26jspName%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regisclean.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215111014id_/http%3A//www.freeridegames.com/do/general%3Fpartner%3DDefault%26jspName%3Dprivacy) for the most accurate reproduction.*
 
 # Download free games
 
