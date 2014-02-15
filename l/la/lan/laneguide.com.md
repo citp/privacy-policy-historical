@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laneguide.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510041104id_/http%3A//www.laneguide.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laneguide.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215142557id_/http%3A//www.laneguide.com/privacy.aspx) for the most accurate reproduction.*
 
 # Lane Guide | Privacy Policy
 
