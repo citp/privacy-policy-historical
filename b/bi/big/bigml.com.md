@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigml.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818172915id_/https%3A//bigml.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigml.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215054144id_/https%3A//bigml.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BigML
 
@@ -14,7 +14,7 @@ This Privacy Policy (the “BigML Privacy Policy”) governs the BigML web site 
 
 This Privacy Policy describes our policies and procedures regarding the collection, use and disclosure of personally identifiable information made available by users of the BigML Services. 
 
-The use of the BigML Services is governed by the Terms of Service ("Terms of Services") available at <http://bigml.com/tos>. 
+The use of the BigML Services is governed by the Terms of Service ("Terms of Services") available at <https://bigml.com/tos>. 
 
 ## A. The Information BigML Collects and Stores
 
