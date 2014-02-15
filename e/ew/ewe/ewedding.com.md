@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewedding.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811061633id_/http%3A//www.ewedding.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewedding.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215110442id_/http%3A//www.ewedding.com/privacy.php) for the most accurate reproduction.*
 
 # eWedding.com | Privacy Policy
 
@@ -57,10 +57,12 @@ You may opt out of any eWedding.com e-mails containing newly added features, new
 
 If you have any questions, comments or concerns with the privacy of your information collected by Swing Industries, Inc., please contact us with the info at the top of this page.
 
-> As someone who does web design for a living this is by far the perfect solution to not only organizing your wedding for your guest but also sharing your story. 
+> My fiance & I along with our guest totally love our website. We started to create our website to share the news of our engagement to our family and friends and to add on more information as we furthered our planning for our wedding especially since we work in Alaska but are orginally from California. 
 > 
-> Julie & Christopher  
-> Atlanta, Georgia
+> Just months into our engagement, our website was a big hit and recieved many positive compliments from family and friends. Plus having our own domain name and being able to put it on all our wedding related supplies such as invitation was something that showed we were up to date with technology.
+> 
+> Kathleen and Adrian  
+> AK, USA
 
   
 [Start your free wedding website](https://web.archive.org/setup/signup.php)
