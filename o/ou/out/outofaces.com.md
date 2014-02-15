@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outofaces.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909012956id_/http%3A//www.outofaces.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outofaces.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216002743id_/http%3A//www.outofaces.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Out of Aces
 
