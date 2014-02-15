@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mommypage.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807035525id_/http%3A//www.mommypage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommypage.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215022201id_/http%3A//www.mommypage.com/privacy) for the most accurate reproduction.*
 
-# Mommypage Privacy :
+# Privacy : Mommypage
 
 ## Effective Date January 15, 2007
 
