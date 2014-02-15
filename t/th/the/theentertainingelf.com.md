@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theentertainingelf.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827220930id_/http%3A//www.funelf.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theentertainingelf.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215105653id_/http%3A//www.funelf.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fun Elf
 
