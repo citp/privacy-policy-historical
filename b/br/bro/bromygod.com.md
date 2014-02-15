@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bromygod.com privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914203515id_/http%3A//www.bromygod.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bromygod.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215134420id_/http%3A//www.bromygod.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Bro My God | Probably the most Bro site out there. Hot Chicks, Booze, Cars, and Anything Funny - Bro My God | Probably the most Bro site out there. Hot Chicks, Booze, Cars, and Anything Funny
+# Privacy Policy - Bro My God | The Funniest Online Man Cave that brings you Cars, Hot Women and internet trends - Bro My God | The Funniest Online Man Cave that brings you Cars, Hot Women and internet trends
 
 BroMyGod.com (hereafter, “us,” “we”, “our” or the “Website”), is committed to protecting your privacy. This Website Privacy Policy (“Privacy Policy”) is provided in order to ensure the confidence of users and of visitors to (hereafter, “you” or “your”) this Website (defined below).
 
