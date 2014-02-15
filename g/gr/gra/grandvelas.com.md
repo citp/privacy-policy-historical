@@ -1,94 +1,106 @@
-> *The following text is extracted and transformed from the grandvelas.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806004451id_/http%3A//www.grandvelas.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandvelas.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215025150id_/http%3A//www.grandvelas.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Velas Resorts- Mexico Luxury Resorts & Hotels
 
-## 1\. Policies and Privacy Notice for PromotoraTurística Punta BETE
+##  1\. IDENTITY AND CONTACT ADDRESS OF THE DATA CONTROLLER.
 
-Promotora Turística Punta BETE S.A. de C.V. (Velas Resorts), located at Av. Costera SN, LH2 Marina Vallarta, Puerto Vallarta, Jalisco, C.P. 48335, is an organization that protects your privacy. The department responsible is the Contact Center, located at Av. Cocoteros#98 Sur, Nuevo Vallarta, Riviera Nayarit, México C.P. 63735. If you require further information you may request it at the following email addresses: [reservas@velasresorts.com](mailto:reservas@velasresorts.com) (español) or [reservations@velasresorts.com](mailto:reservations@velasresorts.com) (English). 
+Punta BETE S.A. de C.V. (Velas Resorts) Tourism Promotion, whose address is Avenue. Costera NAN, LH2 Marina Vallarta, Puerto Vallarta, Jalisco, CP 48335, is a company that protects your privacy and trust, through the department responsible for Contact Center, whose address is Avenue Cocoteros# 98 South, Nuevo Vallarta, Riviera Nayarit, Mexico CP 63735.
 
-## 2\. Management of Personal Information
+It tells you this privacy notice in strict compliance with Articles third transient, 16 and 17 of the Federal Law on the Protection of Personal Data Held by Private Parties, published in the Official Journal of the Federation on July 5 2010, legal system aimed at the protection of personal data in the possession of individuals, in order to regulate their treatment legitimate, controlled and reported, in order to ensure privacy and the right to informational self-determination of people .
 
-  * Velas Resorts will use personal data provided to offer you the best service with regard to reservations, vacation packages, weddings, memberships, events, contests or agreements related to tourism and commercial services. 
-  * Velas Resorts will use your personal information to optimize your service according to critiques, suggestions, complaints or requests you may have before, during and after your stay. 
-  * Your information will help us in the future to offer you promotions, products, special services, informative newsletters, surveys and other matters of disclosure and collective interest. 
-  * Such information will be managed in accordance with the parameters dictated by Article 10 of the Federal Law of Protection of Personal Data Held by Private Parties.
+Derived from the above, you will have full control and choice over their personal data. Therefore, we recommend that you read the following information.
 
+##  2\. PURPOSE
 
-
-## 3\. Personal Data
-
-The information you provide Velas Resorts may be collected during the following situations: 
-
-  * When the information is provided directly by you. 
-  * When you visit the corporation's websites. 
-  * When you use the services offered online. 
-  * When information is obtained by means other than those mentioned above and which are permitted by law.
+  * a) Velas Resorts will use the personal data provided information to provide the best service you request regarding reservations, vacation packages, weddings, memberships, events, contests or agreements relating to the provision of tourist and commercial services.
+  * b) Velas Resorts will use your personal information to optimize their service in terms of reviews, suggestions, complaints or inquiries you may have before, during and after your stay.
 
 
 
-## 4\. What is this personal data? 
+  * c) Your information will help us offer our future promotions, products, special services, newsletters, surveys, and other issues of disclosure and collective interest.
+
+
+
+  * d) You may handle such information in accordance with the parameters dictated by the art. 10 of the Federal Law on Protection of Personal Data Held by Private Parties.
+
+
+
+
+The information given to Velas Resorts may be collected in the following situations and means
+
+  * a) When information is provided directly by you.
+  * b) When you visit the corporate Web sites.
+  * c) When using the online services.
+  * d) When information is obtained by means other than those listed above and permitted by law.
+
+
+
+Punta BETE S.A. de C.V. (Velas Resorts) Tourism Promotion, you get the following personal data:
 
   * Name
-  * Address
-  * Email address
-  * Telephone number
-  * Credit card data (online transactions)
-  * Any other data required by the company to provide service
+  * Home
+  * Email
+  * Phone  number.
+  * Credit card information (online transactions)
+  * Any other required for the purposes of service of the company
 
 
 
-## 5\. Sensitive Personal Data 
+Please note that Punta BETE S.A. de C.V. (Velas Resorts) Tourism Promotion, does not obtain personal data that are considered by the LFPDPPP as sensitive personal data.
 
-Sensitive personal data is information that affects privacy, or whose misuse poses a risk to the security and integrity of the person. Some data that is considered sensitive: 
+##  3\. LIMITATION OF USE AND DISCLOSURE OF PERSONAL INFORMATION.
 
-  * Racial or ethnic origin
-  * Health status
-  * Genetic information
-  * Religious, philosophical and moral beliefs
-  * Union membership
-  * Political beliefs
-  * Sexual preference
+To limit the use of your personal data, please send an email to: reservas@velasresorts.com, or at the following address: Av. Costera SN, LH2 Marina Vallarta, Puerto Vallarta, Jalisco, C.P. 48335 (from Monday to Friday from 9:00 to 19:00 hrs), in which the limitation point you want to use your data.
 
-This information may only be used or requested to improve or meet the needs of clients for the services offered. 
+##  4\. EXERCISE THE RIGHT OF RECTIFICATION, CANCELLATION AND OPPOSITION.
 
-## 6\. Limitation of Use of Personal Information / Rights of Access, Rectification, Cancellation and Opposition
+To access personal information that I provide to Velas Resorts, in order to correct them if they are inaccurate or incomplete, or to cancel or oppose their treatment for certain purposes, please submit a written request to our Contact Center Department, the document must contain at least the following information:
 
-The limitations regarding information provided to Velas Resorts may be requested in writing from the Contact Center at the following addresses: 
+  * Name of the owner
+  * Address of holder or email to communicate response to request.
+  * Documents proving identity or authorization to represent the application.
+  * Description of personal data on which it intends to exercise any "ARCO" right (access, rectification, cancellation and opposition)
+  * Any other element allowing the location of personal data to the request.
 
-  * _Mailing address:_ Av. Costera SN, LH2 Marina Vallarta, Puerto Vallarta, Jalisco, C.P. 48335 (Monday-Friday 9:00am – 7:00pm).
-  * _Email address:_[reservas@velasresorts.com](mailto:reservas@velasresorts.com)
 
-The request must contain, at minimum, the following information: 
-  * Name of the owner of the personal data
-  * Email address for the reception of notifications
-  * Documents proving identity or a document to facilitate the location of your personal data
 
-Velas Resorts will send the response to your request to the email address you provide and will retain the email address for any clarification or explanation. The access, rectification, cancellation or opposition of the information you provide Velas Resorts can be processed through the submission of the request. 
+Velas Resorts will have a maximum period of 20 working days from the date we receive the request to tell if it is coming, and send the response to your request to the email address you provided. If so, Velas Resorts will have 15 days to comply with your request, which shall maintain for any clarification or explanation.
 
-##  7\. Personal Data of Minors of Age and Persons who are disabled as Established by Law
+##  5\. TO REVOKE YOUR CONSENT.
 
-Among the personal data we use at Velas Resorts is data related to minors of age and persons declared lawfully disabled. For the management of this data, authorization of parents or guardians is necessary. In addition, the rights of access, rectification, cancellation and opposition are carried out through the representative person responsible for the minor or disabled person. 
+At anytime you can request revocation of the consent given to Velas Resorts to treat your personal data by sending a written request to our Customer Contact Center to reservas@velasresorts.com in which clearly detail the data for which revokes consent.
 
-##  8\. Control and Security
 
-Velas Resorts protect the information collected using security technology such as specialized computer programs and control of access, use and disclosure of information; this is achieved by storing the information on servers (Data Centers) which have limited access controls. For online transactions, security technology is also used, which protects all information transmitted through various electronic means such as the use of a secure server on the Secure Socket Layer (SSL). We also have fully trained staff and internal policies for protection of personal data. Note: No security or data transmission system for which the company does not have absolute control and/or dependence on internet, can guarantee complete security. 
 
-##  9\. Transfer of Personal Data
 
-Velas Resorts may transfer personal data to companies belonging to the same corporation. This data transferred to third parties shall be solely for marketing purposes. 
+##  6\. PERSONAL INFORMATION OF MINORS AND IN STATE STATUTORY DISABILITY.
 
-## 10\. Electronic Media and Cookies
+Within the personal data we use in Velas Resorts, you will find some related minors and interdicted persons or inability been established by law. For the treatment of these data requires the consent of parents or guardians. Also, the rights of access, rectification, cancellation and opposition are carried through the representative person or custody of the minor or incompetent.
 
-"Cookies" are small pieces of information sent by the website to your browser. They are stored on the hard drive of your computer and used to determine your preferences when connecting to certain sites and track certain actions by you on those sites. In some sections of our websites clients are required to enable cookies, as this allows us to: 
+##  7\. CONTROL AND SAFETY.
 
-  * Recognize you the moment you enter one of our sites. 
-  * Offer you personalized service.
-  * Know your personal configuration of the sitein order to understand the type of information you are able to download. 
-  * Calculate the size of the audience, measure traffic parameters and frequency of use of sections of the websites. This reflects your preferences, allowing us to improve the content, banners, and promotions for all users and visitors.
-  * Track certain activities that allow us to detect file downloads and other actions of interest for the user. 
+Velas Resorts protects information collected through technology security and control access, use or disclosure of information as specialized computer programs, this is achieved by storing the information in servers (Data Centers) that have limited access controls. For online transactions, is also used security technology that protects all information transmitted through various electronic means, such as the use of a secure server on the Secure Socket Layer (SSL). We also have fully trained staff and internal policies of protection of personal data.
 
-The "Help" button located in the toolbar of browsers tells you how to avoid accepting new cookies and how to enable/disable them. We recommend that you leave them turned on so that you may enjoy all the benefits our sites offer. 
+Note: no security system or data transmission which the company does not have absolute control and / or internet dependency can guarantee complete security.
 
-## 11\. Changes to the Privacy Notice
+##  8\. TRANSFER OF PERSONAL DATA.
 
-Velas Resorts may update this privacy statement at any time. Changes will be communicated on the website: [http://www.velasresorts.com](http://www.velasresorts.com/) in the Policies and Privacy Notice section. 
+Velas Resorts may transfer personal data to companies belonging to the same corporate. These data transferred to third parties shall be solely for marketing purposes.
+
+##  9\. ELECTRONIC MEDIA AND COOKIES.
+
+"Cookies" are small pieces of information sent by the website to your browser. They are stored on the hard drive of your computer and used to determine their preferences when connecting to certain sites and track certain behaviors conducted by you in them. In some sections of our websites, is necessary that the enable customers, this allows us to:
+
+  * a) Recognize when you enter our sites.
+  * b) Provide personalized service.
+  * c) Know the personal settings you specified site so that we know what kind of information can be downloaded.
+  * d) Calculate the audience size, measure traffic parameters and frequencies of use of sections of the websites. This will reflect your preferences, allowing us to improve the content, banners, and promotions for all users and visitors.
+  * e) Track some activities that allow us to detect file download or other actions of interest to the user.
+
+
+
+The button "Help" located in the toolbar of the browsers will tell you how to avoid accepting new cookies or how to enable / disable them. We recommend that you leave them turned on, so you can enjoy all the benefits that our sites offer.
+
+##  10\. CHANGES TO THE PRIVACY NOTICE.
+
+Velas Resorts may update this Privacy Statement at any time. These changes will be communicated through the page: http://www.velasresorts.com en Privacy Policy and Notice.
