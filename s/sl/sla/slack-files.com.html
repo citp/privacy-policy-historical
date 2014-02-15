@@ -1,0 +1,322 @@
+<!--The following is the downloaded HTML source of the slack-files.com privacy policy that was archived on 2014-02-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140215041338id_/https%3A//slack.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+<script async="" src="https://slack.global.ssl.fastly.net/15444/js/libs_beacon_1391797118.https.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">
+var TSSSB = {
+	callCEF3: function(method, obj_args, handler) {
+		var url = 'https://slackcef3.com/'+method;
+		
+		handler = handler || function(ob) {}
+		
+		var req = new XMLHttpRequest();
+		req.onreadystatechange = function() {
+			if (req.readyState == 4) {
+				if (req.status == 200) {
+	
+					req.onreadystatechange = null;
+					var obj;
+					
+					if (req.responseText.indexOf('{') == 0) {
+						try {
+							eval('obj = '+req.responseText);
+						} catch (err) {
+							console.warn('unable to do anything with simple_ajax_call rsp');
+							console.error(err);
+						}
+					} else {
+						obj = {
+							ok: 1,
+							rsp: req.responseText
+						}
+					}
+					if (handler) handler(obj);
+				} else {
+					handler({
+						'ok'	: 0,
+						'error'	: "Non-200 HTTP status: "+req.status,
+						'debug'	: req.responseText
+					});
+				}
+			}
+		}
+	
+		req.open('POST', url, 1);
+		req.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+	
+		var obj_args2 = [];
+		for (i in obj_args) {
+			obj_args2[obj_args2.length] = encodeURIComponent(i)+'='+encodeURIComponent(obj_args[i]);
+		}
+	
+		req.send(obj_args2.join('&'));
+	},
+	
+	callMacGap: function(method, args) {
+		
+		if (method == 'reload' && macgap.app && macgap.app.reload) {
+			macgap.app.reload();
+			return true;
+		}
+		
+		if (method == 'didStartLoading' && macgap.app && macgap.app.didStartLoading) {
+			macgap.app.didStartLoading(args);
+			return true;
+		}
+		
+		if (method == 'didFinishLoading' && macgap.app && macgap.app.didFinishLoading) {
+			macgap.app.didFinishLoading();
+			return true;
+		}
+		
+		if (method == 'setCurrentTeam' && macgap.state && macgap.state.setCurrentTeam) {
+			macgap.state.setCurrentTeam(args);
+			return true;
+		}
+		
+		return false;
+	},
+	
+	call: function(method, obj_args, args, handler) {
+		if (window.macgap) {
+			return TSSSB.callMacGap(method, args);
+		}
+		
+		if (window.is_winssb) {
+			TSSSB.callCEF3(method, obj_args, handler);
+			return true;
+		}
+		
+		return false;
+	}
+}
+
+</script><script type="text/javascript">
+	TSSSB.call('didFinishLoading');
+</script>
+    <meta charset="utf-8">
+    <title>Privacy Policy | Slack</title>
+    <meta name="author" content="Tiny Speck">
+
+<!-- output_css "core" -->
+    <link href="https://slack.global.ssl.fastly.net/8816/style/libs_jquery.monkeyScroll_1376358523.https.css" rel="stylesheet" type="text/css">
+    <link href="https://slack.global.ssl.fastly.net/15093/style/libs_bootstrap_1391044735.https.css" rel="stylesheet" type="text/css">
+    <link href="https://slack.global.ssl.fastly.net/6689/style/libs_font-awesome_1387399352.https.css" rel="stylesheet" type="text/css">
+    <link href="https://slack.global.ssl.fastly.net/15807/style/web_layout_1392330896.https.css" rel="stylesheet" type="text/css">
+    <link href="https://slack.global.ssl.fastly.net/15351/style/forms_1391717344.https.css" rel="stylesheet" type="text/css">
+    <link href="https://slack.global.ssl.fastly.net/15430/style/buttons_1391737076.https.css" rel="stylesheet" type="text/css">
+    <link href="https://slack.global.ssl.fastly.net/15864/style/tips_1392415286.https.css" rel="stylesheet" type="text/css">
+    <link href="https://slack.global.ssl.fastly.net/15393/style/typography_1391717388.https.css" rel="stylesheet" type="text/css">
+    <link href="https://slack.global.ssl.fastly.net/15889/style/utilities_1392426573.https.css" rel="stylesheet" type="text/css">
+    <link href="https://slack.global.ssl.fastly.net/14210/style/menu_1391717328.https.css" rel="stylesheet" type="text/css">
+    <link href="https://slack.global.ssl.fastly.net/14152/style/activity_1391717378.https.css" rel="stylesheet" type="text/css">
+    <link href="https://slack.global.ssl.fastly.net/14304/style/channels_1391717392.https.css" rel="stylesheet" type="text/css">
+    <link href="https://slack.global.ssl.fastly.net/15719/style/messages_1392227216.https.css" rel="stylesheet" type="text/css">
+    <link href="https://slack.global.ssl.fastly.net/14191/style/messages_dense_1391717424.https.css" rel="stylesheet" type="text/css">
+    <link href="https://slack.global.ssl.fastly.net/14191/style/messages_light_1391717459.https.css" rel="stylesheet" type="text/css">
+    <link href="https://slack.global.ssl.fastly.net/15458/style/files_1391805797.https.css" rel="stylesheet" type="text/css">
+    <link href="https://slack.global.ssl.fastly.net/15213/style/members_1391717338.https.css" rel="stylesheet" type="text/css">
+    <link href="https://slack.global.ssl.fastly.net/15869/style/search_1392415280.https.css" rel="stylesheet" type="text/css">
+    <link href="https://slack.global.ssl.fastly.net/13898/style/stars_1391717406.https.css" rel="stylesheet" type="text/css">
+
+<!-- output_css "regular" -->
+    <link href="https://slack.global.ssl.fastly.net/12390/style/legal_1391717437.https.css" rel="stylesheet" type="text/css">
+
+
+
+
+
+    <!--[if lt IE 9]>
+    <script src="https://slack.global.ssl.fastly.net/1261/js/libs_html5shiv_1361923886.https.js"></script>
+    <![endif]-->
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,900,400italic,700italic,900italic" rel="stylesheet" type="text/css">
+
+
+<link id="favicon" rel="shortcut icon" href="https://slack.global.ssl.fastly.net/9412/img/icons/favicon-32.png" sizes="16x16 32x32 48x48" type="image/png">
+
+<link rel="icon" href="https://slack.global.ssl.fastly.net/9427/img/icons/app-256.png" sizes="256x256" type="image/png">
+
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://slack.global.ssl.fastly.net/9712/img/icons/ios-152.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://slack.global.ssl.fastly.net/9426/img/icons/ios-144.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://slack.global.ssl.fastly.net/9426/img/icons/ios-120.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://slack.global.ssl.fastly.net/9426/img/icons/ios-114.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://slack.global.ssl.fastly.net/9426/img/icons/ios-72.png">
+<link rel="apple-touch-icon-precomposed" href="https://slack.global.ssl.fastly.net/9426/img/icons/ios-57.png">
+
+<meta name="msapplication-TileColor" content="#FFFFFF">
+<meta name="msapplication-TileImage" content="https://slack.global.ssl.fastly.net/9427/img/icons/app-144.png"><script type="text/javascript">
+
+	(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
+	typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);
+	b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
+	mixpanel.init("3307f436963e02d4f9eb85ce5159744c");
+	mixpanel.track('pageview');
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-106458-17', 'slack.com');
+	ga('send', 'pageview');
+
+
+	(function(e,c,b,f,d,g,a){e.SlackBeaconObject=d;
+	e[d]=e[d]||function(){(e[d].q=e[d].q||[]).push([1*new Date(),arguments])};
+	e[d].l=1*new Date();g=c.createElement(b);a=c.getElementsByTagName(b)[0];
+	g.async=1;g.src=f;a.parentNode.insertBefore(g,a)
+	})(window,document,"script","https://slack.global.ssl.fastly.net/15444/js/libs_beacon_1391797118.https.js","sb");
+	sb('init', '3307f436963e02d4f9eb85ce5159744c');
+	sb('track', 'pageview');
+
+	function track(a){ga('send','event','web',a);mixpanel.track(a);sb('track',a);}
+
+</script>
+  </head>
+
+  <body ondragover="return false" class="padded">
+
+			
+	
+	<div id="slack_header">
+		<div class="container">
+
+			<div style="float: right; margin-top: -32px">
+						<a href="https://slack.com/signin" class="btn btn-outline">Sign in</a>
+				</div>
+
+			<a href="/"><img src="https://slack.global.ssl.fastly.net/8911/img/slack_logo.png" style="width: 180px; height: 69px; margin-left: -3rem"></a>
+			<hr>
+		</div>
+	</div>
+			
+		
+	
+<div class="container">
+
+	<div class="col_left">
+
+	<h1>Policy</h1>
+	
+	<ul id="policy_nav" class="sidebar_nav large_bottom_margin">
+		<li>
+						<a href="/terms-of-service" class="bold">Terms of Service</a><br>
+			<span class="caption">The legal agreement which governs use of the Slack service</span>		</li>
+		<li>
+			<span class="nav_bullet">•</span>			Privacy Policy<br>
+					</li>
+		<li>
+						<a href="/security" class="bold">Security &amp; Confidentiality</a><br>
+			<span class="caption">An overview of our policies and practices for keeping your data safe</span>		</li>
+	</ul>
+	
+		
+</div>	
+
+	<div class="col_right">
+
+		<h1>Privacy Policy</h1>
+	
+		<p><strong>Last updated:  November 8, 2013</strong></p>
+
+		<h2>Our Policy:</h2>
+		<p>Welcome to the web site (the “<strong>Site</strong>”) of Tiny Speck, Inc. (“<strong>Tiny Speck</strong>”, “we”, “us” and/or “our”). This Site is operated by Tiny Speck and has been created to provide information about our company and our service, Slack, which includes real-time communication, messaging, archiving and search services and related systems, technologies, and mobile applications (together with the Site, the “<strong>Service(s)</strong>”) to our Service users and visitors (“you”, “your”). This Privacy Policy sets forth Tiny Speck’s policy with respect to information including personally identifiable data (“<strong>Personal Data</strong>”) and other information that is collected from visitors to the Site and users of the Services.</p>
+
+		<p>At the outset, we want to be clear that Tiny Speck is not in the business of selling your information.  We consider our custodianship of your information to be a vital part of our relationship with you. There are, however, certain ways in which we will use your Personal Data, as set forth in more detail in this policy.</p>
+
+		<h2>Information We Collect:</h2>
+		<p>When you interact with us through the Services, we may collect Personal Data and other information from you, as further described below:</p>
+	
+		<h4>Personal Data That You Provide:</h4>
+		<p>We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, register for access to our Service, or use certain Services. By providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data, you acknowledge and agree that such Personal Data may be stored on the servers of Tiny Speck and other authorized parties located in the United States and other countries. </p>
+
+		<h4>Other Information:</h4>
+		<ul>
+			<li><strong>Non-Identifiable Data:</strong> When you interact with Tiny Speck through the Services, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, will not be used to specifically identify you. Tiny Speck may store such information itself or such information may be included in databases owned and maintained by Tiny Speck affiliates, agents or service providers. The Services may use such information and pool it with other information to track, for example, the total number of users of our Services, the aspects of the Services being used, the domain names of our visitors' Internet service providers and the like.<br>
+			In operating the Services, we or our vendors may also use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Services gives to your browser when you access the Services. Our cookies help provide additional functionality to the Services, help us analyze Services usage more accurately and may be used in marketing the Service. For instance, we may set a cookie on your browser that allows you to access the Services without needing to remember and then enter a password more than once during a visit. We will not collect Personal Data through such cookies except with your permission. On most web browsers, you will find a “help” section that provides information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because you may not be able to use the Service without them.</li>
+			<li><strong>Aggregated Personal Data:</strong> In an ongoing effort to better understand and serve the users of the Services, Tiny Speck often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and Tiny Speck may share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally. Tiny Speck may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, customers and to other third parties for other lawful purposes.</li>
+		</ul>
+
+		<h2>Use of Personal Data and Other Information:</h2>
+		<p>Tiny Speck uses the Personal Data and other information you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. Tiny Speck and its subsidiaries and affiliates (the “Related Companies”) may also use your Personal Data and other personally non-identifiable information collected through the Services to help us improve the content and functionality of the Services, to better understand our users and to improve the Services, and to send you tips about using Slack or inform you of new features and other news about Slack. Any email we send to you, other than those necessary to operate the service, will include the means for you to "opt-out" of receiving similar email in the future. In addition, you can adjust your preferences for email communication by visiting this page: <a href="https://my.slack.com/account/settings">https://my.slack.com/account/settings</a>.</p>
+	
+		<h2>Disclosure of Personal Data and Other Information:</h2>
+		<p>In certain circumstances we may share your Personal Data with certain third parties without further notice to you, as set forth below:</p>
+	
+		<ul>
+			<li><strong>Your Use:</strong> We will display your Personal Data on the Service (e.g., profile page) according to the preferences you set in your account. Please consider carefully what information you disclose in connection with the Services, how you select you preferences, and your desired level of privacy. For example, if you provide your phone number or Skype handle for use in the Service, then users of the Service within your business will be able to contact you in those ways.  Through certain features of the Service, you may also have the ability to make some of your files or information available to third parties or the public. Always remember that when you share any type of information with others, such information may be broadly and quickly disseminated.</li>
+			<li><strong>Business Transfers:</strong> As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.</li>
+			<li><strong>Related Companies:</strong> We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy.</li>
+			<li><strong>Consultants and Similar Third Parties:</strong> Tiny Speck, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, hosting servers, providing data center services, maintaining databases and processing payments. When we use another entity to perform a function of this nature, we only provide them with the information that they need to perform their specific function.</li>
+			<li><strong>Legal Requirements:</strong> Tiny Speck may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Tiny Speck or third parties, (iii) act in urgent circumstances to protect the personal safety of users of the Services or the public, or (iv) protect against legal liability.</li>
+		</ul>
+
+		<h2>Business Users:</h2>
+		<p>If you are a user whose company has a business account for the Services, our agreement with your company may contain additional terms and conditions relating to our use and disclosure of data (including Personal Data).  In addition, your company’s administrator may have certain rights to access your information and Personal Data in connection with the Services and to set your company’s policies regarding your use of various aspects of the Services.  Please refer to your company administrator if you have questions regarding any of the foregoing.</p>
+
+		<h2>Your Choices:</h2>
+		<ul>
+			<li>You can choose not to provide any Personal Data. If you choose not to provide any Personal Data, you may not be able to use the Services.</li>
+			<li>To keep your Personal Data accurate and current, please use the account control and preferences page <a href="https://my.slack.com/account">https://my.slack.com/account</a> to update or correct Personal Data in our possession.</li>
+			<li>You may turn off cookies as described above, but if you do so you may not be able to use the Services.</li>
+		</ul>
+
+		<h2>Exclusions:</h2>
+		<p>This Privacy Policy does not apply to any Personal Data collected by Tiny Speck other than Personal Data collected through the Services. This Privacy Policy shall also not apply to any unsolicited information you provide to Tiny Speck through the Services or through any other means. This includes, but is not limited to any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and Tiny Speck shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.</p>
+
+		<h2>Children:</h2>
+		<p>As a Service directed to adult business users, Tiny Speck does not knowingly collect Personal Data from children under the age of 13.  Children should not use the Service or submit any Personal Data through the Services. If you have reason to believe that a child under the age of 13 has provided Personal Data to Tiny Speck through the Services, please contact us, and we will endeavor to delete that information from our databases.</p>
+
+		<h2>Other Services:</h2>
+		<p>This Privacy Policy applies only to the Services. The Services may contain links to or integrations with other websites and services not operated or controlled by Tiny Speck (the “Third Parties”). The policies and procedures we described here do not apply to the Third Parties and we do not endorse those parties or their products or services. Please contact those parties directly for information on their privacy policies.</p>
+
+		<h2>Security:</h2>
+		<p>Tiny Speck takes reasonable steps to protect the Personal Data provided via the Services from loss, misuse, and unauthorized access or disclosure (for more information on our current practices and policies regarding data privacy, security and confidentiality, please see <a href="https://slack.com/security">https://slack.com/security</a>; we keep that document updated as these practices and policies evolve over time). However, no electronic or email transmission or digital storage mechanism is ever fully secure or error free. Therefore, you should take special care in deciding what information you share electronically in connection with the Service.</p>
+
+		<h2>Other Terms and Conditions:</h2>
+		<p>Your access to and use of the Services is subject to our Terms of Service at <a href="https://slack.com/terms-of-service">https://slack.com/terms-of-service</a>.</p>  
+
+		<h2>Changes to Tiny Speck’s Privacy Policy:</h2>
+		<p>The Services and our business may change from time to time. As a result, at times it may be necessary for Tiny Speck to make changes to this Privacy Policy. Tiny Speck reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. However, if we make a change to this Privacy Policy that has a material impact on your rights, we will endeavor to provide you notice (e.g., by email or by posting a notice on the Site or Services). Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.</p>
+
+		<h2>Contacting Tiny Speck:</h2>
+		<p>Please also feel free to contact us if you have any questions about Tiny Speck’s Privacy Policy or the information practices of the Services.  You may contact us at <a href="mailto:feedback@slack.com">feedback@slack.com</a>.</p>
+	
+	</div>
+	
+</div>
+
+	<div class="clear-both"></div>
+
+<div id="footer">		
+	<span class="float-right">
+				<a href="https://api.slack.com/">API</a>
+		<a href="/pricing">Pricing</a>
+				
+		<a href="/terms-of-service">Terms of Service</a>
+		<a href="/privacy-policy">Privacy Policy</a>
+		<a href="/help/contact">Contact</a>
+		<a href="http://www.tinyspeck.com">Tiny Speck, Inc</a>
+	</span>
+</div>
+
+
+
+
+
+<!-- output_js "core" -->
+<script type="text/javascript" src="https://slack.global.ssl.fastly.net/9949/js/libs_jquery-1.8.2_1379011587.https.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://slack.global.ssl.fastly.net/10860/js/libs_flash_detect_1381167216.https.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://slack.global.ssl.fastly.net/15841/js/libs_bootstrap_1392403624.https.js" crossorigin="anonymous"></script>
+
+<!-- output_js "secondary" -->
+
+<!-- output_js "regular" -->
+
+
+
+
+<!-- slack-www203 / 2014-02-14 20:13:40 / v15893 -->
+
+
+</body></html>
