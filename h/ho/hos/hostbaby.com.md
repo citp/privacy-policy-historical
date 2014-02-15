@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostbaby.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125031721id_/http%3A//www.hostbaby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostbaby.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215131425id_/http%3A//hostbaby.com/privacy) for the most accurate reproduction.*
 
 # HostBaby Privacy Policy
 
@@ -8,13 +8,10 @@ Call us: 1-888-448-6369
 
   * [ Features ](https://web.archive.org/features/)
   * [ Pricing ](https://web.archive.org/pricing/)
-  * [ ](https://web.archive.org/pricing/)[ Gallery ](https://web.archive.org/gallery/)
+  * [ Gallery ](https://web.archive.org/gallery/)
   * [ About Us ](https://web.archive.org/about/)
-  * [ Sign Up ](https://web.archive.org/signup/)
 
 
-
-##  Privacy Policy for HostBaby Web Hosting 
 
 Last Updated September 20, 2010.
 
@@ -114,42 +111,5 @@ By providing your personal data to HostBaby through the Website, you consent to:
 
   * the use of your personal data for the uses identified above in accordance with the Privacy Policy; and
   * the transfer of your personal data to the United States as indicated above.
-
-
-
-####  HostBaby 
-
-  * [ Features ](https://web.archive.org/features/)
-  * [ Gallery ](https://web.archive.org/gallery/)
-  * [ Pricing ](https://web.archive.org/pricing/)
-  * [ HostBaby For Authors ](https://web.archive.org/authors/)
-  * [ HostBaby For Bands ](https://web.archive.org/build-band-website/)
-
-
-
-####  Need Help? 
-
-  * [ HostBaby Manual ](http://hostbaby.org/wiki/Main_Page)
-  * [ Forgot Password? ](https://web.archive.org/members/)
-  * [ Contact Us ](https://web.archive.org/contact/)
-  * [ Tech Support ](https://web.archive.org/support/)
-
-
-
-####  Resources 
-
-  * [ Facebook ](http://www.facebook.com/hostbaby)
-  * [ Twitter ](http://twitter.com/#!/hostbaby/)
-  * [ HostBaby Blog ](http://blog.hostbaby.com/)
-  * [ DIY Musician Blog ](http://diymusician.cdbaby.com/)
-
-
-
-####  More 
-
-  * [ CD Baby Music Distribution ](http://members.cdbaby.com/ "Sell on iTunes and More!")
-  * [ BookBaby Self Publishing ](http://www.bookbaby.com/ "Publish Your eBook")
-  * [ FilmBaby Movie Distribution ](http://www.filmbaby.com/ "Sell Your Movie Online")
-  * [ Disc Makers CD Manufacturing ](http://www.discmakers.com/ "Get Pro Qualitytitle=")
 
 
