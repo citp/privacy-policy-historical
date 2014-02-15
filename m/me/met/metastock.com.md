@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metastock.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213054119id_/http%3A//www.metastock.com/company/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metastock.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215013407id_/http%3A//www.metastock.com/company/legal/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Statement - MetaStock.com
+# Privacy Statement
 
 This Privacy Statement relates solely to the online information collection and use practices of our Web Sites located at [www.metastock.com](http://www.metastock.com/), [www.qchartsmetastockpro.com](http://www.qchartsmetastockpro.com/), [http://forum.equis.com](http://forum.equis.com/), [ www.echarts.com](http://www.echarts.com/), [www.equis.com ](http://www.echarts.com/) and [www.reutersdatalink.com](http://www.echarts.com/) (these “Web Sites”), and not to any subdomains of these Web Sites. We recognize that many visitors and users of these Web Sites are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns.
 
@@ -102,4 +102,4 @@ MetaStock
 Suite 200  
 Salt Lake City, UT 84123
 
-© MetaStock 2013 
+© MetaStock 2014 
