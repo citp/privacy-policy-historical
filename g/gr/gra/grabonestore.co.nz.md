@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grabonestore.co.nz privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121075804id_/http%3A//www.grabonestore.co.nz/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabonestore.co.nz privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215050158id_/http%3A//www.grabonestore.co.nz/legal) for the most accurate reproduction.*
 
 # Legal – GrabOne Store
 
