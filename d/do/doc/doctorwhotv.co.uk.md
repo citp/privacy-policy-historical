@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doctorwhotv.co.uk privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014034832id_/http%3A//www.doctorwhotv.co.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctorwhotv.co.uk privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215030319id_/http%3A//www.doctorwhotv.co.uk/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Doctor Who TV
 
