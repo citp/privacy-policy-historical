@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examresults.net privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616065037id_/http%3A//www.indiaeducation.net/common/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examresults.net privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215080341id_/http%3A//www.indiaeducation.net/common/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
