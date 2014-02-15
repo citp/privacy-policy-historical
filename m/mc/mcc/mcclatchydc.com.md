@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcclatchydc.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225003020id_/http%3A//www.mcclatchydc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcclatchydc.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215190918id_/http%3A//www.mcclatchydc.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # McClatchy DC Washington, DC
 
