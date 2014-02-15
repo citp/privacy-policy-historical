@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kalixa.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425061258id_/https%3A//www.kalixa.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kalixa.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215221733id_/https%3A//www.kalixa.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
-# Kalixa - Privacy Policy
+# Kalixa Privacy Policy
 
 ### Introduction
 
@@ -38,12 +38,12 @@ As with any other business, it is possible that Kalixa Pay in the future could a
 
 In order to put our policy into practice, we use our best endeavours to follow these guidelines:
 
-  * We will ensure our systems are secure to protect your personal information from misuse
-  * We will not hold your personal information for longer than is necessary
-  * We will not sell, trade, or rent your personal information to other people or businesses unless we have your consent; with your consent, we will only share your information with carefully chosen, reputable and trustworthy third parties
-  * We will comply promptly with any instructions from you to update your information or requests from you to see the information that we hold on you
-  * We will comply with lawful requests to disclose personal information to certain authorities (e.g. the police)
-  * We may monitor and record any telephone calls to ensure we follow your instructions correctly and to improve our service
+  * We will ensure our systems are secure to protect your personal information from misuse 
+  * We will not hold your personal information for longer than is necessary 
+  * We will not sell, trade, or rent your personal information to other people or businesses unless we have your consent; with your consent, we will only share your information with carefully chosen, reputable and trustworthy third parties 
+  * We will comply promptly with any instructions from you to update your information or requests from you to see the information that we hold on you 
+  * We will comply with lawful requests to disclose personal information to certain authorities (e.g. the police) 
+  * We may monitor and record any telephone calls to ensure we follow your instructions correctly and to improve our service 
 
 
 
@@ -179,9 +179,9 @@ Further information about data protection is available online at the website of 
 
 ### Contacting us
 
-If you have any questions about this Privacy Policy, Kalixa Pay’s information practices or your dealings with Kalixa Pay, you can contact us at via the [contact us](https://secure.kalixa.com/Default.aspx?view=contactUs&lang=en&region=gb "Contact us") page on our Website, or write to us at:
+If you have any questions about this Privacy Policy, Kalixa Pay’s information practices or your dealings with Kalixa Pay, you can contact us at via the [contact us](https://web.archive.org/Home/ContactUs "Contact us") page on our Website, or write to us at:
 
-**Kalixa Pay Ltd.**  
-PO Box 6272  
-London W1A 4TP  
+**Kalixa**  
+PO Box 72074  
+London EC4P 4GB  
 United Kingdom
