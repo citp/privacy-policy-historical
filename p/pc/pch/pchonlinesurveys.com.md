@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pchonlinesurveys.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805190151id_/http%3A//www.pchonlinesurveys.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pchonlinesurveys.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215075736id_/https%3A//www.pchonlinesurveys.com/en/policies/privacy) for the most accurate reproduction.*
 
 # 
 
