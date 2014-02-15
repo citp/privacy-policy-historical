@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howitshouldhaveended.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226192723id_/http%3A//www.starzmediadigital.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howitshouldhaveended.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215154008id_/http%3A//www.starzmediadigital.com/privacy) for the most accurate reproduction.*
 
 # Starz Media, LLC. - Privacy Policy
 
