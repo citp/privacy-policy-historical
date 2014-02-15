@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegreenhead.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009215054id_/http%3A//www.thegreenhead.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegreenhead.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215044019id_/http%3A//www.thegreenhead.com/privacy) for the most accurate reproduction.*
 
 # The Green Head - Privacy Policy
 
@@ -18,6 +18,10 @@ No information should be submitted to The Green Head by children under 18 years 
 #### AFFILIATE MARKETING
 
 The Green Head is affiliated with several brand name online retailers, this is done either directly with the retailer or via a third-party provider of affiliate marketing programs. Neither the third-party providers, nor the retailers, share personally identifiable information with The Green Head. The information provided is generic in nature; type of product sold and date of sale for example. The information provided is not sold, shared, nor rented to any third party, and is used internally only. 
+
+The Green Head is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. 
+
+[ ](http://www.viglink.com/legal/disclosures/users?vgtag=badge)
 
 #### INFORMATION & COOKIES
 
