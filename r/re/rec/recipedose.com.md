@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipedose.com privacy policy that was archived on 2013-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130131134219id_/http%3A//www.recipedose.com/2008/04/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipedose.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215035252id_/http%3A//www.recipedose.com/2008/04/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Recipedose.com
 
@@ -27,6 +27,12 @@ Advertisers: We use outside ad companies to display ads on our site. These ads m
 
 
 Contact Information: If users have any questions or suggestions regarding our privacy policy, please contact us at: support[at]recipedose[dot]com or use our [Contact Page](http://www.recipedose.com/2008/04/contact.html) to get in touch with us.
+
+  
+  
+
+
+## Related to _'Privacy Policy'_
 
   
 
