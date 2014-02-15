@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the besthoteloffers.net privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528110643id_/http%3A//www.besthoteloffers.net/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the besthoteloffers.net privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215060235id_/http%3A//www.besthoteloffers.net/Privacy) for the most accurate reproduction.*
 
-# Privacy - Best Hotel Offers - Compare Hotel Prices and Save up to 80%!
+# Privacy
 
 **January 5th 2013**
 
