@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealite.in privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831054757id_/http%3A//www.dealite.in/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealite.in privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215202716id_/http%3A//www.dealite.in/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Dealite Privacy-Policy
+# Online Auction Policy, Terms And Condition | Dealite.in Online Auction Site
 
 We value the trust you place in Dealite.in. That's why we work hard to earn your trust & confidence so that you can enthusiastically use our services and recommend us to friends and family. Please read the following statement to learn about our information gathering and dissemination practices.  
 
