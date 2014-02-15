@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trumaker.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806233623id_/https%3A//www.trumaker.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trumaker.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215203344id_/https%3A//www.trumaker.com/privacy_policy) for the most accurate reproduction.*
 
-# Trumaker
+# Trumaker Privacy Policy - Buy built-to-fit clothing for men.
 
 ## Privacy Disclaimer
 
