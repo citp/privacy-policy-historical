@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfdownload.org privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207205658id_/http%3A//www.pdfdownload.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfdownload.org privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215042551id_/http%3A//www.pdfdownload.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy PDF Download and Nitro PDF Software
 
@@ -10,7 +10,7 @@ At Nitro PDF Software we are committed to ensuring the privacy of your personal 
 
 Nitro PDF Pty. Ltd. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [contact us](mailto:privacy@nitropdf.com). If you are not satisfied with our response you can contact[ TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). This Privacy Policy governs all sites that link to this policy. 
 
-Nitro PDF Pty. Ltd. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. NitroPDF has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view NitroPDF’s certification, please visit [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/)
+Nitro PDF Pty. Ltd. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. NitroPDF has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view NitroPDF's certification, please visit [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/)
 
 ##  Information we collect 
 
@@ -49,11 +49,11 @@ We post customer testimonials/comments/reviews on our web site which may contain
 
 ###  Special offers and updates 
 
-We will occasionally send you information on products, services, special offers, and promotions. You can sign up for these emails from various pages on our sites. Out of respect for your privacy, we present the option not to receive these types of communications. Please see the “Choice and Opt-out.” 
+We will occasionally send you information on products, services, special offers, and promotions. You can sign up for these emails from various pages on our sites. Out of respect for your privacy, we present the option not to receive these types of communications. Please see the "Choice and Opt-out." 
 
 ###  Newsletters 
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “Choice and Opt-out” section.
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the "Choice and Opt-out" section.
 
 ###  Product/service-related announcements 
 
@@ -67,7 +67,7 @@ Based upon the personally identifiable information you provide us, we will send 
 
 ###  Choice/Opt-out 
 
-We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form. 
+We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form. 
 
 If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [ unsubscribe@nitropdf.com](mailto:unsubscribe@nitropdf.com). 
 
@@ -117,11 +117,11 @@ We only collect personal information from our website if you submit details to u
 
 
 
-As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information
 
 ###  Clear Gifs (Web Beacons/Web Bugs) 
 
-We and our third party advertising partner employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
+We and our third party advertising partner employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
 
 We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here: [ http://preferences.truste.com/](http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
 
