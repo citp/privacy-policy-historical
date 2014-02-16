@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the postupstand.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609015337id_/http%3A//www.postupstand.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postupstand.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216134732id_/http%3A//www.postupstand.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Learn About Our Privacy Policies | Post-Up Stand Inc.
 
 Post-Up Stand respects your privacy and the information that you share with us through our site. To better protect your privacy, we provide the following notice to illustrate our online information practices and the choices you have in the way your information is collected and utilized.
 
