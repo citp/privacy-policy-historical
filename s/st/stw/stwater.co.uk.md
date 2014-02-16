@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stwater.co.uk privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218043001id_/http%3A//www.stwater.co.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stwater.co.uk privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216161124id_/http%3A//www.stwater.co.uk/legal/privacy) for the most accurate reproduction.*
 
 # Privacy : Legal : Severn Trent Water
 
@@ -22,7 +22,7 @@ We may transfer your personal data to other organisations in any country only fo
 
 ## What are your rights?
 
-By providing us with personal data, you have consented to us handling it for the purposes mentioned. If you would like to change the way we are able to contact you, you can simply email us with your account details and your request at [customercare@severntrent.co.uk.](mailto:customercare@severntrent.co.uk)
+By providing us with personal data, you have consented to us handling it for the purposes mentioned. If you would like to change the way we are able to contact you, you can simply [email us](http://severntrentwater.custhelp.com/app/ask "Email us") with your account details and your request.
 
 Under the Data Protection Act 1998 you have the right to make a subject access request.
 
