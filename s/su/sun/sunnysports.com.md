@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunnysports.com privacy policy that was archived on 2013-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130913221019id_/http%3A//www.sunnysports.com/i/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnysports.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216143539id_/http%3A//www.sunnysports.com/i/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy Details | SunnySports.com
 
@@ -9,7 +9,7 @@ If you shop at SunnySports.com and place your orders exclusively through SunnySp
 
 ### What Information do we collect? 
 
-We collect two types of information about its visitors: Personally Identifiable Information and Non-Personally Identifiable Information. Our primary goal in collecting information from you is to provide you with a smooth, efficient, and customized experience while using our site. To learn how we keep your personal information safe and secure, please see our [Security Statement](http://www.sunnysports.com/Content/Privacy.html#security).  
+We collect two types of information about its visitors: Personally Identifiable Information and Non-Personally Identifiable Information. Our primary goal in collecting information from you is to provide you with a smooth, efficient, and customized experience while using our site. To learn how we keep your personal information safe and secure, please see our [Security Statement](https://web.archive.org/Content/Privacy.html#security).  
 
 
 **Personally Identifiable Information:** This refers to information that lets us know the specifics of who you are. Personal information is requested when you order a product or service, request a Catalog or email newsletter, and send us feedback. For example, this information might include your name, billing address, shipping address, telephone number, e-mail address, credit card or other payment information, and product details. With this information, SunnySports.com can fill your orders and better provide you with personalized services.
@@ -20,7 +20,7 @@ We collect two types of information about its visitors: Personally Identifiable 
 
 Our primary goal in collecting personal information is to provide SunnySports.com's visitors with a superior customized online experience. We use the customer contact information to fill orders, contact purchasers to inform them of their order status, to send promotional information, to enhance the operation of our site and administer our systems. 
 
-We use cookies in the operation of our site; to find out what cookies are and how they are used, [click here](http://www.sunnysports.com/Content/Privacy.html#Cookies)
+We use cookies in the operation of our site; to find out what cookies are and how they are used, [click here](https://web.archive.org/Content/Privacy.html#Cookies)
 
 ### How to update or correct your Information?
 
