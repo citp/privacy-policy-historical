@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gowheels.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807003537id_/http%3A//www.gowheels.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowheels.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216044536id_/http%3A//www.gowheels.com/policy) for the most accurate reproduction.*
 
 # Gowheels.com (Deals in Wheel) Privacy Policy - Gowheels (Deals in Wheels) Privacy, Gowheels Policy
 
