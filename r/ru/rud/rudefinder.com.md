@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rudefinder.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819100312id_/http%3A//rudefinder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rudefinder.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216053503id_/http%3A//rudefinder.com/privacy) for the most accurate reproduction.*
 
 # RudeFinder.com | Privacy Policy
 
