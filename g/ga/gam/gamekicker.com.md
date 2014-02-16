@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamekicker.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206055443id_/http%3A//www.gamekicker.com/gamekicker-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamekicker.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216151827id_/http%3A//www.gamekicker.com/gamekicker-privacy-statement) for the most accurate reproduction.*
 
 # gamekicker privacy statement - Gamekicker.com
 
