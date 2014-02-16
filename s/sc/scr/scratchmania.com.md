@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the scratchmania.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816071509id_/http%3A//www.scratchmania.com/privacy-policy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scratchmania.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216114956id_/http%3A//www.scratchmania.com/privacy-policy/privacypolicy.html) for the most accurate reproduction.*
 
-# ScratchMania - Privacy and Security policy
+# ScratchMania - Privacy and Security Policy
 
- We at ScratchMania.com hold your privacy and security in the highest regard.  
+We at ScratchMania.com hold your privacy and security in the highest regard.  
 ScratchMania.com is committed to respect and protect your privacy.
 
 **Account Information:**  
@@ -30,4 +30,17 @@ Our winnings information is stored in a secure operating environment.
 **Payment Processing:**  
 Our payment process is focused on user friendly procedure and comfortable use through a variety of payment methods. ScratchMania.com offers a wide host of deposit options and fast cash outs. All the options are user friendly and highly secure.  
 All credit and debit card transactions are processed by Donateu Limited which is a corporation incorporated under the laws of Cyprus.  
-Naturally you may have additional questions. That’s great. please do not hesitate to contact our Customer Support center at any time, our Customer Service representatives will be more than happy to assist you.
+Naturally you may have additional questions. That’s great. please do not hesitate to contact our Customer Support center at any time, our Customer Service representatives will be more than happy to assist you.
+
+**Advertisements:**
+
+The Company may, from time to time, offer you special promotions. These promotions may be notified to you by various means, including but not limited to (i) email, (ii) telephone, (iii) SMS (iv) additional windows opening from within the game platform. Promotions begin at 00:00 and end at 23:59 UTC on specified dates, unless stated otherwise in the promotion's Terms & Conditions.
+
+As part of the account registration process, We also offer our customers registering with us the opportunity to "opt out" from keeping them informed of future events, offers and promotions from Scratchmania. Visitors interested in opting out can simple click on the unsubscribe button in our marketing mailers or should 'uncheck' the relevant box in the registration process. You may update Your marketing preferences at any time through by contacting our friendly Customer agents.
+
+If you have chosen to receive information on future events, offers and promotions by SMS message to your cellular telephone you may "opt out" from receiving such information at any time by sending an email to [support@scratchmania.com](mailto:support@scratchmania.com) or contacting our customer service agents replying  with the word "STOP". To opt out of third party analytics please email us at [support@scratchmania.com](mailto:support@scratchmania.com) and include your device identifier, and once processed, our third party analytics provider will discontinue any analytics on that particular device.  
+
+
+About us  
+Donatue Ltd  
+24 Zenonos Pierides,  Larco Center,  Larnaka,6023,  CY Tel. [+44.2035192320](tel:%2B44.2035192320)
