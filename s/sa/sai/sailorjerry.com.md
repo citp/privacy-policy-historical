@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the sailorjerry.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206124550id_/http%3A//sailorjerry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sailorjerry.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216163558id_/http%3A//sailorjerry.com/uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sailor Jerry
+# Sailor Jerry Privacy Policy
 
 **INTRODUCTION**  
 
 1\. All references to “our”, ”us”, ”we” or ”Company” within this policy are deemed to refer to William Grant & Sons Limited, its subsidiaries, affiliates and associates. 
 
-This Privacy & Cookies notice (together with our Website(s) Terms & Conditions [and](https://web.archive.org/terms-and-conditions/) associates any other documents referred to on them) set out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following information carefully to understand our practices regarding your personal data and how we will treat it. 
+This Privacy & Cookies notice (together with our Website(s) Terms & Conditions [and](https://web.archive.org/uk/terms-and-conditions/) associates any other documents referred to on them) set out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following information carefully to understand our practices regarding your personal data and how we will treat it. 
 
 For the purpose of the Data Protection Act 1998 ( **Act** ), the data controller is William Grant & Sons Limited, registered in Scotland with company number SC131772 and registered address at The Glenfiddich Distillery, Dufftown, Banffshire, AB55 4DH. 
 
@@ -22,7 +22,7 @@ It is your choice to provide us with personal information. We will only collect 
 
 
 
-By doing so, you are agreeing to our use of that information as set out in this Privacy & Cookie notice and Website(s) [Terms & Conditions](http://sailorjerry.com/uk/terms-and-conditions/ "Terms &amp; Conditions"). 
+By doing so, you are agreeing to our use of that information as set out in this Privacy & Cookie notice and Website(s) [Terms & Conditions](http://sailorjerry.com/uk/terms-and-conditions//uk "Terms &amp; Conditions"). 
 
 3\. Sometimes, we will give you the option to choose whether you would like to receive information from us or not (e.g. by choosing to opt in or opt out of receiving emails from us with news about our brands or promotional offers). However, you will sometimes not have the option to opt out, such as when we are satisfying the obligations of a contract with you, or administering a transaction requested by you.
 
