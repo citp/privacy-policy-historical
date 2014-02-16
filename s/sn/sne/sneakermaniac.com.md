@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sneakermaniac.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818131144id_/http%3A//www.equniu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sneakermaniac.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216233113id_/http%3A//www.equniu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,3 +35,5 @@ If you wish to disable cookies you may do so through your web browser options. I
 **Links**
 
 This site may contain links to other sites on the Internet that are owned and operated by third parties. You acknowledge that we are not responsible for the operation of or content located on or through any such site. By reading this you comply and will not hold EQUNIU.com liable for any actions made through those such sites.
+
+**Category:**
