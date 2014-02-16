@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ost.im privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015211241id_/http%3A//p.ost.im/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ost.im privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216100925id_/http%3A//p.ost.im/about/privacy%3Futm_campaign%3Dhome_2013%26utm_medium%3Dwebsite%26utm_source%3Dhome%26utm_content%3DHome) for the most accurate reproduction.*
 
-# LinksAlpha - Privacy Policy
-
-Privacy Policy
+# Privacy Policy - LinksAlpha
 
 For users on LinksAlpha.com domain, we recognize that your privacy is very important and take it seriously. This Privacy Policy describes LinksAlpha's policies and procedures on the collection, use and disclosure of your information when you use the LinksAlpha Service. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](https://web.archive.org/about/tos). 
 
@@ -61,6 +59,6 @@ LinksAlpha.com
 
 Attn: Privacy 
 
-260 Chapman Road Suite 201-B 
+43300-116 Southern Walk Plaza, #807 
 
-Newark, DE 19702 
+Broadlands, VA 20148 
