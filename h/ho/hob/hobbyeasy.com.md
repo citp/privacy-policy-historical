@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobbyeasy.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501095751id_/http%3A//www.hobbyeasy.com/en/page/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbyeasy.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216193339id_/http%3A//www.hobbyeasy.com/en/page/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
