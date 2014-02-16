@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the plymouth.edu privacy policy that was archived on 2013-08-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130814112151id_/https%3A//plymouth.edu/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the plymouth.edu privacy policy that was archived on 2014-02-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140216205144id_/https%3A//plymouth.edu/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<!-- Total Time: 0.241 | init: 0.241 -->
+<!-- Total Time: 0.247 | init: 0.247 -->
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <title>policy  - Plymouth State University</title>
 <meta name="generator" content="WordPress 3.2.1"> <!-- leave this for stats -->
@@ -17,7 +17,7 @@
 <link rel="alternate" type="text/xml" title="RSS .92" href="https://www.plymouth.edu/policy/feed/rss/">
 <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="https://www.plymouth.edu/policy/feed/atom/">
 <link rel="pingback" href="https://www.plymouth.edu/policy/xmlrpc.php">
-	<script id="hs-analytics" src="//js.hubspot.com/analytics/1580459700000/238114.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 	var ajaxUrl = 'https://www.plymouth.edu/policy/wp-admin/admin-ajax.php';
 	</script>
 	<link rel="stylesheet" id="bsuite-mycss-css" href="https://www.plymouth.edu/policy/index.php?bsuite_mycss=print&amp;ver=3.2.1" type="text/css" media="all">
@@ -26,13 +26,28 @@
 <link rel="stylesheet" id="nines-megamenu-css" href="https://s0.plymouth.edu/wp-content/themes/9spot-clone/includes/dcmegamenu.css?ver=1" type="text/css" media="all">
 <link rel="stylesheet" id="nines-green-css" href="https://s0.plymouth.edu/wp-content/themes/9spot-clone/includes/skins/green.css?ver=1" type="text/css" media="all">
 <link rel="stylesheet" id="nines-stylesheet-css" href="https://s0.plymouth.edu/wp-content/themes/9spot-psu/style.css?ver=1" type="text/css" media="all">
-<link rel="stylesheet" id="thickbox-css" href="https://s0.plymouth.edu/wp-content/plugins/auto-thickbox-plus/thickbox.min.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="thickbox-css" href="https://s0.plymouth.edu/wp-content/plugins/auto-thickbox-plus/thickbox.min.css?ver=1.9" type="text/css" media="all">
 <script type="text/javascript" src="https://www.plymouth.edu/policy/wp-includes/js/l10n.js?ver=20101110"></script>
 <script type="text/javascript" src="https://s0.plymouth.edu/wp-content/themes/9spot-clone/js/jquery-1.7.2.min.js?ver=1.7.2"></script>
 <script type="text/javascript" src="https://s0.plymouth.edu/wp-content/themes/9spot-psu/carousel/jquery.jcarousel.js?ver=1"></script>
 <script type="text/javascript" src="https://s0.plymouth.edu/wp-content/themes/9spot-clone/js/jquery.hoverIntent.minified.js?ver=1.6.3"></script>
 <script type="text/javascript" src="https://s0.plymouth.edu/wp-content/themes/9spot-clone/js/jquery.dcmegamenu.1.3.3.min.js?ver=1.6.3"></script>
 <script type="text/javascript" src="https://s0.plymouth.edu/wp-content/themes/9spot-clone/js/behavior.js?ver=1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var thickboxL10n = {
+	next: "Next &gt;",
+	prev: "&lt; Prev",
+	image: "Image",
+	of: "of",
+	close: "Close",
+	noiframes: "This feature requires inline frames. You have iframes disabled or your browser does not support them.",
+	loadingAnimation: "/wp-content/plugins/auto-thickbox-plus/images/loadingAnimation.gif",
+	closeImage: "/wp-content/plugins/auto-thickbox-plus/images/tb-close.png"
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://s0.plymouth.edu/wp-content/plugins/auto-thickbox-plus/thickbox.min.js?ver=1.9"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.plymouth.edu/policy/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.plymouth.edu/policy/wp-includes/wlwmanifest.xml"> 
 <link rel="index" title="policy" href="https://www.plymouth.edu/policy/">
@@ -48,6 +63,57 @@
 	var vvqattributes = {};
 	var vvqexpressinstall = "/wp-content/plugins/vipers-video-quicktags/resources/expressinstall.swf";
 // ]]>
+</script>
+<!-- Auto ThickBox Plus by attosoft (http://attosoft.info/en/) -->
+<script type="text/javascript">
+/* <![CDATA[ */
+jQuery(function($) {
+	var links = $('a[href][href!=""]').filter(function() {
+		// No ThickBox
+		var nothickbox = ['nothickbox', 'no_thickbox'];
+		for (var i = 0; i < nothickbox.length; i++)
+			if ($(this).hasClass(nothickbox[i])) return false;
+		// Links with target attribute
+		if ($(this).is('[target][target!=""]')) return false;
+
+		return true;
+	});
+
+	// Images
+	var imageRegex = /\.(jpe?g|gif|png|bmp|webp)($|[?&#])/i;
+	var images = links.filter(function() {
+		return imageRegex.test($(this).attr('href'));
+	});
+	images.addClass('thickbox');
+
+	// Others
+	var others = links.filter(function() {
+		return !imageRegex.test($(this).attr('href'));
+	});
+	others.filter('.thickbox').not('[href*="TB_iframe"]').not('[href*="#TB_inline"]').each(function() {
+		var href = $(this).attr('href');
+		if (href.indexOf('://') != -1 && href.indexOf(location.host) == -1) {
+			// Add 'TB_iframe' to external URL
+			var hashIndex = href.indexOf('#');
+			var before = hashIndex == -1 ? href : href.substring(0, hashIndex);
+			var after = hashIndex == -1 ? '' : href.substring(hashIndex);
+			$(this).attr('href', before + (before.indexOf('?') == -1 ? '?' : '&') + 'TB_iframe' + after);
+		}
+	});
+	others.filter('[href*="TB_iframe"]').add('[href*="#TB_inline"]').addClass('thickbox');
+
+	// for WordPress 2.7.x (jQuery 1.2.6)
+	if (!$.isFunction($().live))
+		tb_init('a.thickbox');
+
+	// Set a different gallery-id for each WordPress Gallery
+	$('div.gallery').each(function() {
+		if (this.id)
+			$(this).find('a.thickbox').attr('rel', this.id);
+	});
+});
+
+/* ]]> */
 </script>
 	<style type="text/css" media="screen">
 	#head-wrapper { background-image: url(https://www.plymouth.edu/webapp/images/rotation/index.php?dir=/images/blogs/2011/); }
@@ -79,12 +145,12 @@ jQuery(document).ready(function($){
 });
 </script>
 
-<!-- Total Time: 0.246 | html head: 0.246 --><!-- Total Time: 0.246 | html head: 0.246 -->
+<!-- Total Time: 0.253 | html head: 0.253 --><!-- Total Time: 0.253 | html head: 0.253 -->
 <!--
-	generated in 0.278 seconds
-	46568 bytes batcached for 300 seconds
+	generated in 0.286 seconds
+	47676 bytes batcached for 300 seconds
 -->
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+</head>
 <body class="home blog nines-layout-front nines-layout-front-a4b12c0d0 nines-layout-a4b12c0d0">
 <div id="head-wrapper">
 <div id="head" class="container_16 nines-head nines-head-a8b8c0d0">
@@ -93,7 +159,7 @@ jQuery(document).ready(function($){
 <a href="/" id="logo">Plymouth State University</a>
 		</div></div>
 
-<!-- Total Time: 0.247 | head widget 0: 0.001 -->
+<!-- Total Time: 0.254 | head widget 0: 0.001 -->
 <div id="widget-psu_search-3" class="widget grid_8 psu_widget_search nines-head_2 omega"><div class="widget-inner">
 		<ul id="tool-nav">
 			<li><a href="http://library.plymouth.edu/">Library</a> |</li>
@@ -120,8 +186,8 @@ jQuery(document).ready(function($){
 		</ul><!-- /tool-nav -->
 		</div></div>
 
-<!-- Total Time: 0.247 | head widget 1: 0 -->
-<!-- Total Time: 0.247 | head: 0.001 -->
+<!-- Total Time: 0.254 | head widget 1: 0 -->
+<!-- Total Time: 0.254 | head: 0.001 -->
 		<div class="clear">&nbsp;</div>
 	</div>
 </div>
@@ -217,7 +283,6 @@ jQuery(document).ready(function($){
       <li><p class="sports-header">Spring Sports</p>
         <ul>
           <li><a href="http://athletics.plymouth.edu/sports/bsb/index" data-category="Athletics mega menu plymouth.edu" data-action="Outbound Link" title="Baseball">Baseball</a></li>
-          <li><a href="http://athletics.plymouth.edu/sports/cheer/index" data-category="Athletics mega menu plymouth.edu" data-action="Outbound Link" title="Competitive Cheer">Competitive Cheer</a></li>
           <li><a href="http://athletics.plymouth.edu/sports/mlax/index" data-category="Athletics mega menu plymouth.edu" data-action="Outbound Link" title="Mens Lacrosse">Men’s Lacrosse</a></li>
           <li><a href="http://athletics.plymouth.edu/sports/wlax/index" data-category="Athletics mega menu plymouth.edu" data-action="Outbound Link" title="Womens Lacrosse">Women’s Lacrosse</a></li>
           <li><a href="http://athletics.plymouth.edu/sports/sball/index" data-category="Athletics mega menu plymouth.edu" data-action="Outbound Link" title="Softball">Softball</a></li>
@@ -227,7 +292,8 @@ jQuery(document).ready(function($){
           <li>&nbsp;</li>
           <li>&nbsp;</li>
           <li>&nbsp;</li>
-        <li>&nbsp;</li>
+          <li>&nbsp;</li>
+          <li>&nbsp;</li>
         </ul>
       </li>
     </ul>
@@ -259,6 +325,7 @@ jQuery(document).ready(function($){
       <li>
         <ul>
           <li><a href="/alumni/" data-category="Give mega menu plymouth.edu" data-action="Click" title="Alumni Relations">Alumni Relations</a></li>
+          <li><a href="/advancement/development/areas-to-support/annual-fund" data-category="Give mega menu plymouth.edu" data-action="Click" title="Annual Fund">Annual Fund</a></li>
           <li><a href="/advancement/development/" data-category="Give mega menu plymouth.edu" data-action="Click" title="Areas to Support">Areas to Support</a></li>
           <li><a href="/advancement/give-online/" data-category="Give mega menu plymouth.edu" data-action="Click" title="Give Online">Give Online</a></li>
           <li><a href="/advancement/giving/types-of-gifts/" data-category="Give mega menu plymouth.edu" data-action="Click" title="Types of Gifts">Types of Gifts</a></li>
@@ -275,8 +342,8 @@ jQuery(document).ready(function($){
 		<div class="clear"></div>
 		</div></div>
 
-<!-- Total Time: 0.247 | nav widget 0: 0 -->
-<!-- Total Time: 0.247 | nav: 0 -->
+<!-- Total Time: 0.254 | nav widget 0: 0 -->
+<!-- Total Time: 0.254 | nav: 0 -->
 		<div class="clear">&nbsp;</div>
 	</div>
 </div>
@@ -289,41 +356,43 @@ jQuery(document).ready(function($){
 <div class="grid_4 nines-body-1 alpha">
 <div id="widget-pages-4" class="widget widget_pages"><div class="widget-inner">
 		<ul>
-						<li class="page_item page-item-5"><a href="https://www.plymouth.edu/policy/plymouth-state-university-website-privacy-policy/" title="Plymouth State University Website Privacy Policy">Plymouth State University Website Privacy Policy</a></li>
+						<li class="page_item page-item-5"><a href="https://www.plymouth.edu/policy/plymouth-state-university-website-privacy-policy/" title="Website Privacy Policy">Website Privacy Policy</a></li>
 		</ul>
 		</div></div>
 
-<!-- Total Time: 0.252 | body-0 widget 0: 0.005 -->
+<!-- Total Time: 0.257 | body-0 widget 0: 0.003 -->
 </div>
-<!-- Total Time: 0.252 | body-0: 0.005 -->
+<!-- Total Time: 0.257 | body-0: 0.003 -->
 <div class="grid_12 nines-body-2 omega">
 <div id="widget-postloop-6" class="nines-full widget-post_loop- widget widget_postloop"><div class="nines-full widget-post_loop- widget-inner">
 
 <div class="post-5 page type-page status-publish hentry" id="post-5">
-	<h2><a href="https://www.plymouth.edu/policy/plymouth-state-university-website-privacy-policy/" rel="bookmark" title="Permanent Link to Plymouth State University Website Privacy Policy">Plymouth State University Website Privacy Policy</a></h2>
+	<h2><a href="https://www.plymouth.edu/policy/plymouth-state-university-website-privacy-policy/" rel="bookmark" title="Permanent Link to Website Privacy Policy">Website Privacy Policy</a></h2>
 	
 	<div class="entry">
-		<p><strong>Privacy Policy:</strong></p>
-<p>Plymouth State University (“PSU”) is respectful towards the preservation and protection of the privacy of those individuals who visit its websites.&nbsp; It is possible to visit Plymouth State University’s websites without self-revealing any personal information.&nbsp; There are, however, certain features and advanced functions on PSU’s websites, for which it is necessary that PSU requests and receives personal information from the visitor, in order for the features and functions to be properly utilized.&nbsp; Should you decide to provide PSU with personal information through one of our websites, the University will limit the use of your personal information to University business and will not disclose it to persons or entities unaffiliated with the University unless (1) you have expressly or impliedly granted your permission to do so, or (2) disclosure is necessary to enforce university policy, or (3) the university is required to disclose in order to comply with State law, Federal law or other legal process.</p>
-<p><strong>Information Gathering:</strong></p>
-<p>Plymouth State University may use or disclose your IP address, and data connection-specific information, to help us diagnose problems with our servers and network, and to administer our websites by identifying (1) which parts of our site are most heavily used, and (2) where our audience comes from, both internal and external to the PSU data network.</p>
-<p><strong>Use of Cookies:</strong></p>
-<p>Cookies are text files stored on computers to enhance the usability and regular operation of a website.&nbsp;&nbsp; Plymouth State University may use cookies to store information during and after an individual accesses PSU websites. The use of cookies enables PSU to tailor the use of our websites to individual visitors, and to tell if individuals have visited us before, so we can be aware of an individual’s choices and interests the next time they visit. Any information, including personal information, which you expressly choose to provide, may be stored in a cookie. Your web browser can be configured to refuse cookies or to notify you when a PSU website attempts to send you a cookie, however making this choice could detract from the usability of certain PSU websites.</p>
-<p><strong>Individual Accounts:</strong></p>
-<p>Certain Plymouth State University websites allow individuals to create and maintain individualized accounts.&nbsp; Where these sites are concerned, individuals have the responsibility of maintaining the confidentiality of their accounts and passwords, and for restricting access to their computers.&nbsp; Individuals agree to accept responsibility and repercussions for all activities that originate from their accounts.</p>
-<p><strong>Security Measures:</strong></p>
+		<h3 id="privacy-policy">Privacy Policy</h3>
+<p>Plymouth State University (“PSU”) respects the preservation and protection of the privacy of visitors to its websites. It is possible to visit Plymouth State University’s websites without self-revealing any personal information. There are, however, certain features and advanced functions on PSU’s websites which require visitors to provide personal information. Should you decide to provide PSU with personal information through one of our websites, the university will limit the use of your personal information to university business and will not disclose it to persons or entities unaffiliated with the university unless (1) you have expressly or impliedly granted your permission to do so, or (2) disclosure is necessary to enforce university policy, or (3) the university is required to disclose in order to comply with State law, Federal law or other legal process.</p>
+<h3 id="information-gathering">Information Gathering</h3>
+<p>Plymouth State University may use or disclose your IP address, and data connection-specific information, to help us diagnose problems with our servers and network, and to administer our websites by identifying (1) which parts of our site are most heavily used, and (2) where our audience comes from, from both within and outside the PSU data network.</p>
+<h3 id="use-of-cookies">Use of Cookies</h3>
+<p>Cookies are text files stored on computers to enhance the usability and regular operation of a website. Plymouth State University may use cookies to store information during and after an individual accesses PSU websites. The use of cookies enables PSU to tailor the use of our websites to individual visitors, and to tell if individuals have visited us before, so we can be aware of an individual’s choices and interests the next time they visit. Any information, including personal information, which you expressly choose to provide, may be stored in a cookie. Your web browser can be configured to refuse cookies or to notify you when a PSU website attempts to send you a cookie, however making this choice could detract from the usability of certain PSU websites.</p>
+<h3 id="this-website-uses-google-adwor">This website uses Google AdWords</h3>
+<p> This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an inquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the Plymouth State University website. Any data collected will be used in accordance with this privacy policy and Google’s privacy policy.</p>
+<h3 id="individual-accounts">Individual Accounts</h3>
+<p>Certain Plymouth State University websites allow individuals to create and maintain individualized accounts. Where these sites are concerned, individuals have the responsibility of maintaining the confidentiality of their accounts and passwords, and for restricting access to their computers.&nbsp; Individuals agree to accept responsibility and repercussions for all activities that originate from their accounts.</p>
+<h3 id="security-measures">Security Measures</h3>
 <p>Plymouth State University follows industry-standard security measures, to protect the loss, misuse and alteration of the information under our control.</p>
-<p><strong>Third-Party Linked Sites:</strong></p>
-<p>As a courtesy, Plymouth State University websites may include links to third-party websites.&nbsp; If you use these links, be aware that Plymouth State University’s Privacy Policy does not apply to such third party websites.&nbsp; You use these third-party websites at your own risk and you should review the applicable terms and policies, including privacy and data gathering practices, of any site to which you navigate from a third-party link on a Plymouth State University website.</p>
+<h3 id="third-party-linked-sites">Third-Party Linked Sites</h3>
+<p>As a courtesy, Plymouth State University websites may include links to third-party websites. If you use these links, be aware that Plymouth State University’s Privacy Policy does not apply to such third party websites. You use these third-party websites at your own risk and you should review the applicable terms and policies, including privacy and data gathering practices, of any site to which you navigate from a third-party link on a Plymouth State University website.</p>
 		
 			</div>
 
 	<p class="postmetadata">  <a href="https://www.plymouth.edu/policy/plymouth-state-university-website-privacy-policy/#comments">Leave a Comment</a></p>
 </div><!-- ERROR: the required template wrapper file is missing or unreadable. --></div></div>
 
-<!-- Total Time: 0.276 | body-1 widget 0: 0.024 -->
+<!-- Total Time: 0.284 | body-1 widget 0: 0.027 -->
 </div>
-<!-- Total Time: 0.276 | body-1: 0.024 -->
+<!-- Total Time: 0.284 | body-1: 0.027 -->
 		<div class="clear">&nbsp;</div>
 	</div>
 </div>
@@ -541,15 +610,15 @@ jQuery(document).ready(function($){
           </div>
             
           <h2 class="widgettitle">Current Weather in Plymouth</h2>
-          <div class="textwidget-weather"><p class="weather"> <img src="https://s0.plymouth.edu/graphics/icons/img_holder.png" style="vertical-align: middle;">  &nbsp;&nbsp;&nbsp;<strong>Temperature:</strong>  ; <strong>Wind:</strong>  Calm;    Conditions as of Wed Aug 14 at 07:00 AM EDT <span><em>courtesy of <a class="copy" href="http://vortex.plymouth.edu">The PSU Weather Center</a></em></span></p></div>
+          <div class="textwidget-weather"><p class="weather"> <img src="https://s0.plymouth.edu/graphics/icons/img_holder.png" style="vertical-align: middle;">  &nbsp;&nbsp;&nbsp;<strong>Temperature:</strong>  23; <strong>Wind:</strong>  NW at 9;    Conditions as of Sun Feb 16 at 03:00 PM EST <span><em>courtesy of <a class="copy" href="http://vortex.plymouth.edu">The PSU Weather Center</a></em></span></p></div>
             
         </div>
       </div>
       <!-- /footer -->	
 		</div></div>
 
-<!-- Total Time: 0.277 | foot widget 0: 0.001 -->
-<!-- Total Time: 0.277 | foot: 0.001 -->
+<!-- Total Time: 0.285 | foot widget 0: 0.001 -->
+<!-- Total Time: 0.285 | foot: 0.001 -->
 		<div class="clear">&nbsp;</div>
 	</div>
 </div>
@@ -570,13 +639,13 @@ jQuery(document).ready(function($){
 	</span>
 	Main Switchboard: <span class="tel">(603) 535-5000</span>.
 </p>
-<p>A member of the <a href="http://www.usnh.edu/" rel="nofollow">University System of New Hampshire</a>. <span class="copyright">© 2006-2013. All 
+<p>A member of the <a href="http://www.usnh.edu/" rel="nofollow">University System of New Hampshire</a>. <span class="copyright">© 2006-2014. All 
 rights Reserved.</span></p>
 </div>
 </div></div>
 
-<!-- Total Time: 0.277 | apres-foot widget 0: 0 -->
-<!-- Total Time: 0.277 | apres-foot: 0 -->
+<!-- Total Time: 0.285 | apres-foot widget 0: 0 -->
+<!-- Total Time: 0.285 | apres-foot: 0 -->
 		<div class="clear">&nbsp;</div>
 	</div>
 </div>
@@ -587,23 +656,6 @@ rights Reserved.</span></p>
 <script type="text/javascript" src="https://s0.plymouth.edu/wp-content/plugins/bsuite/js/bsuite.js?ver=20080503"></script>
 <script type="text/javascript" src="https://s0.plymouth.edu/wp-content/plugins/bsuite/js/jquery.highlight-1.js?ver=1"></script>
 <script type="text/javascript" src="https://s0.plymouth.edu/js/dd_belatedpng.min.js?ver=3.2.1"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var thickboxL10n = {
-	next: "Next &gt;",
-	prev: "&lt; Prev",
-	first: "&laquo; First",
-	last: "Last &raquo;",
-	image: "Image",
-	of: "of",
-	close: "Close",
-	noiframes: "This feature requires inline frames. You have iframes disabled or your browser does not support them.",
-	loadingAnimation: "/wp-content/plugins/auto-thickbox-plus/images/loadingAnimation.gif",
-	closeImage: "/wp-content/plugins/auto-thickbox-plus/images/tb-close.png"
-};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://s0.plymouth.edu/wp-content/plugins/auto-thickbox-plus/thickbox.min.js?ver=1.0"></script>
 	<script type="text/javascript">	
 	;(function($){
 		$(window).load(function(){
@@ -659,13 +711,12 @@ var thickboxL10n = {
 	})(jQuery);
 </script>
 		<div id="ninescredit" role="contentinfo">
-			Erected with <a href="http://code.google.com/p/9spot/">9spot</a>, a <a href="http://maisonbisson.com/">Casey Bisson</a> and <a href="http://borkweb.com/">Matthew Batchelder</a> production.		</div>
-<!-- Total Time: 0.278 | page rendering: 0.037 -->
-<!-- google remarketing -->
+			Sweetened  with <a href="http://code.google.com/p/9spot/">9spot</a>, a <a href="http://maisonbisson.com/">Casey Bisson</a> and <a href="http://borkweb.com/">Matthew Batchelder</a> production.		</div>
+<!-- Total Time: 0.286 | page rendering: 0.039 -->
+<!-- google remarketing, Oct 2013 campaign -->
 <script>
 /* <![CDATA[ */
-  var google_conversion_id = 992142150;
-  var google_conversion_label = "b82bCNKBiAQQxsaL2QM";
+  var google_conversion_id = 990768322;
   var google_custom_params = window.google_tag_params;
   var google_remarketing_only = true;
 /* ]]> */
@@ -673,38 +724,9 @@ var thickboxL10n = {
 <script src="//www.googleadservices.com/pagead/conversion.js"></script>
 <noscript>
   <div style="display:inline;">
-    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/992142150/?value=0&amp;label=b82bCNKBiAQQxsaL2QM&amp;guid=ON&amp;script=0"/>
+    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/990768322/?value=0&amp;guid=ON&amp;script=0"/>
   </div>
 </noscript>
-<!-- /google remarketing -->
-<!-- adroll -->
-<script>
-	adroll_adv_id = "GHXWOLBUONAZRH2WVKMAFC";
-	adroll_pix_id = "XTKJDMOHGZCBBGOEGVHNSK";
-	(function () {
-	var oldonload = window.onload;
-	window.onload = function(){
-	__adroll_loaded=true;
-	var scr = document.createElement("script");
-	var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-	scr.setAttribute('async', 'true');
-	scr.type = "text/javascript";
-	scr.src = host + "/j/roundtrip.js";
-	((document.getElementsByTagName('head') || [null])[0] ||
-	document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-	if(oldonload){oldonload()}};
-	}());
-</script>
-<!-- /adroll -->
-<!-- hubspot analytics -->
-<script>
-  (function(d,s,i,r) {
-    if (d.getElementById(i)){return;}
-    var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
-    n.id=i;n.src='//js.hubspot.com/analytics/'+(Math.ceil(new Date()/r)*r)+'/238114.js';
-    e.parentNode.insertBefore(n, e);
-  })(document,"script","hs-analytics",300000);
-</script>
-<!-- /hubspot analytics -->
+<!-- /google remarketing, Oct 2013 campaign -->
 
 </body></html>
