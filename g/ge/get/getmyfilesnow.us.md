@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getmyfilesnow.us privacy policy that was archived on 2013-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130721220057id_/http%3A//www.getmyfilesnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmyfilesnow.us privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216045340id_/http%3A//www.getmyfilesnow.com/privacy) for the most accurate reproduction.*
 
 # GetMyFilesNow - Download the files you want now
 
