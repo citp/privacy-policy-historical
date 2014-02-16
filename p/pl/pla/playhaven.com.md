@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playhaven.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114142712id_/http%3A//www.playhaven.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playhaven.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216162347id_/http%3A//www.playhaven.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PlayHaven
 
