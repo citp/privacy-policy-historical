@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intervalsonline.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205022220id_/http%3A//www.myintervals.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intervalsonline.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216093940id_/http%3A//www.myintervals.com/privacy.php) for the most accurate reproduction.*
 
 # Intervals Privacy Policy
 
