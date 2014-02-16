@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madefreshly.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121123302id_/http%3A//madefreshly.assistly.com/customer/portal/articles/179488-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madefreshly.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216124308id_/http%3A//madefreshly.assistly.com/customer/portal/articles/179488-privacy) for the most accurate reproduction.*
 
 # MADEFRESHLY | Privacy
 
