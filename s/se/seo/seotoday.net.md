@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seotoday.net privacy policy that was archived on 2012-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120914004303id_/http%3A//www.seotoday.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seotoday.net privacy policy that was archived on 2014-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140217004720id_/http%3A//www.seotoday.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SEO Today
 
