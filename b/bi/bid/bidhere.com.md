@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidhere.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424162330id_/http%3A//www.bidhere.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidhere.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216092339id_/http%3A//www.bidhere.com/privacy) for the most accurate reproduction.*
 
 # Privacy – BidHere
 
@@ -97,17 +97,13 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 BidHere.com 
 
-1120 Ave of the Americas
+100 Jervois Street
 
-New York
+Sheung Wan
 
-NY 10034
+Central
 
-USA
-
-+1.917.267.7472
-
-EIN: 27-3530607
+HONG KONG
 
 info@bidhere.com 
 
