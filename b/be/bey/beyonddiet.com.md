@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyonddiet.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807094546id_/http%3A//www.beyonddiet.com/Members/Pages/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyonddiet.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216025418id_/http%3A//www.beyonddiet.com/Members/Pages/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Beyond Diet
 
@@ -62,12 +62,12 @@ Some of our operations, such as our electronic commerce, may be managed by servi
 
 **Our Privacy Statement and Outside Links** : This Privacy Policy only applies to this Web Site. Our Web Site may include links to the web sites of our business partners, vendors and advertisers. These other sites are outside of our control. Please be aware that these websites may collect information about you, and operate according to their own privacy practices which may differ from those contained in our Privacy Statement. Please read carefully that web site's own privacy policy, as once you leave our Web Site, any information you submit is no longer in our control.
 
-**Contacting Us** : If you have any questions concerning our Privacy Policy, a member (or any other user of this Web Site) you may contact us at: LIVE SMART SOLUTIONS, Inc. with its principal address located at 2345 7th Street, Denver, CO 80211, or via email at info [at] beyonddiet.com.
+**Contacting Us** : If you have any questions concerning our Privacy Policy, a member (or any other user of this Web Site) you may contact us at: LIVE SMART SOLUTIONS, Inc. with its principal address located at 3452 Richville RD #1447, Manchester Center, VT 05255, or via email at info [at] beyonddiet.com.
 
 LIVE SMART SOLUTIONS LLC  
-2345 7th Street  
-Devner, CO 80211 
+3452 Richville RD #1447  
+Manchester Center, VT 05255 
 
 Last Updated: December 6, 2012
 
-Copyright © 2013 All rights reserved.
+Copyright © 2014 All rights reserved.
