@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savaari.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819022228id_/http%3A//www.savaari.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savaari.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216112751id_/http%3A//www.savaari.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Savaari Car Rentals Pvt Ltd
 
