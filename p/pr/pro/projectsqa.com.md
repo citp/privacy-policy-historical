@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectsqa.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202055755id_/http%3A//projectsqa.com/privacy_policy/projectsqa.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectsqa.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216125332id_/http%3A//projectsqa.com/privacy_policy/projectsqa.html) for the most accurate reproduction.*
 
 # ProjectsQA.com Privacy Policy
 
