@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the arlingtonmazda.com privacy policy that was archived on 2013-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131217040322id_/http%3A//www.arlingtonmazda.com/privacy_policy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the arlingtonmazda.com privacy policy that was archived on 2014-02-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140216044230id_/http%3A//www.arlingtonmazda.com/privacy_policy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<meta name="description" content="Mazda of Arlington; Mazda Sales Washington DC; Mazda Service Washington DC; Mazda Parts Washington DC; Mazda sales Virginia; Mazda Parts Virginia; Mazda service Virginia; Mazda 3 Virginia; Mazda Cars DC; Mazda Trucks DC; Mazda 6 Virginia; Mazda Washington DC Mazda3 DC; Mazda6 DC; Mazda Miata DC; Mazda RX-8 DC; Mazda MPV DC; Mazda B3000 Virginia; Mazda Tribute DC; Mazda CX-7 DC; Mazdaspeed6 Virginia; Save thousands on Mazda; Mazda factory incentives; Mazda price reductions; Save hundreds on Mazda; super low Mazda financing rates; New and Pre-Owned Mazda Web Specials; Mazda expert mechanics; Mazda parts inventory;  Mazda repaired right the first time; Mazda online service appointment; Mazda parts order form">
@@ -8,6 +8,7 @@
 	<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, maximum-scale=1">
 <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<!--- This must be set after other javascript files are set first to prevent calendar to display behind the modal window. --->
 <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/jquery-ui.min.js"></script>
 <script src="/js/modules/jquery.ui.touch-punch.js"></script>
 
@@ -59,13 +60,13 @@ $(function(){
 	if (!supportsTouch) {
 		$('head').append('<link rel="stylesheet" href="/css/modules/tooltip.css" />');
 	}
-	if (supportsTouch) {
+	if (supportsTouch  && $('#main').width() <= 482) {
 		$('head').append('<link rel="stylesheet" href="/css/legacy/mobile.css" />');
 	}
 	
 	
     var supportsTouch = !!(navigator.msMaxTouchPoints);
-	if (supportsTouch) {
+	if (supportsTouch && $('#main').width() <= 482) {
 		$('head').append('<link rel="stylesheet" href="/css/legacy/touch-fallback.css" />');
 	}
 	if ($('#main').width() < 768) {
@@ -329,7 +330,7 @@ $(function() {
 			<li><a href="/privacy_policy.cfm" title="Privacy Policy">Privacy Policy</a></li>
 			<li><a href="sitemap.cfm" title="Sitemap">Sitemap</a></li>
 		</ul>
-		<p>© 2013 Rosenthal Arlington Mazda. All rights reserved. </p>
+		<p>© 2014 Rosenthal Arlington Mazda. All rights reserved. </p>
 	</footer>
 </section>
 
