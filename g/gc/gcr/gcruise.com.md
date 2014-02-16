@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gcruise.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025193818id_/http%3A//www.gcruise.com/main/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcruise.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216113058id_/http%3A//www.gcruise.com/main/privacy_policy%3Flink_id%3D30) for the most accurate reproduction.*
 
 # Gay Hookups | Hot Gays | Meet Local Gay Men | Sex GCruise
 
@@ -142,7 +142,7 @@ To stop or resume receiving email notifications regarding various site activity 
 
 If you have any further questions or concerns about GCruise.com's privacy policies and use of personal information, please contact us using our online [contact form](https://web.archive.org/contact) or by email to [the webmaster.](mailto:abuse@GCruise.com)
 
-#### 18). Dispute Resolution 
+#### 18) Dispute Resolution
 
 Any claim or cause of action you may have arising from, connected with, or relating to this privacy policy or GCruise.com's handling of your personal information, or any related matters must be commenced within six (6) months after the claim or cause of action arises, after which time the claim or cause of action is forever barred, regardless of any statute or law to the contrary. 
 
