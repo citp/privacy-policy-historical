@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahmsta.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005233558id_/http%3A//www.ahmsta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahmsta.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216120714id_/http%3A//www.ahmsta.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ahmsta’s Blog – Technology, Blogging, Gadgets, Money Making, Adsense Tips
 
