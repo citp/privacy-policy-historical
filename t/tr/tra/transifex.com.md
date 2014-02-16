@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transifex.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222195802id_/http%3A//www.transifex.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transifex.com privacy policy that was archived on 2014-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140217003412id_/http%3A//www.transifex.com/about/privacy) for the most accurate reproduction.*
 
 # Transifex | Privacy Policy
 
