@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the indiancinemagallery.com privacy policy that was archived on 2012-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120421031619id_/http%3A//www.indiancinemagallery.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiancinemagallery.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216092009id_/http%3A//www.indiancinemagallery.com/privacy.html) for the most accurate reproduction.*
 
-# Indiancinemagallery.com privacy policy page
+# Indian Cinema Gallery :: Privacy
 
-  
 Indiancinemagallery.com Privacy Policy
 
 **What information do we collect?**
@@ -11,12 +10,12 @@ We collect information from you when you subscribe to our newsletter or making a
 
 When you making a comment on our site, as appropriate, you may be asked to enter your: name, e-mail address , we will collect your IP address during that process. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on this site. Google\'s use of the DART cookie enables it to serve ads to the users based on their visit to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.[visit advertising opt-out page here](http://www.google.com/privacy_ads.html)
+Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to the users based on their visit to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.[visit advertising opt-out page here](http://www.indiancinemagallery.com/%22///%22)
 
 **Do we use cookies?**
 
 No, we do not use cookies, .  
-Google, as a third party vendor, uses cookies to serve ads on this site. Google\'s use of the DART cookie enables it to serve ads to the users based on their visit to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.[visit advertising opt-out page here](http://www.google.com/privacy_ads.html)
+Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to the users based on their visit to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.[visit advertising opt-out page here](http://www.indiancinemagallery.com/%22///%22)
 
 **Do we disclose any information to outside parties?**
 
