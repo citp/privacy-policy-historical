@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dmegs.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901010628id_/http%3A//www.dmegs.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmegs.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216084639id_/http%3A//dmegs.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dmegs.com
 
