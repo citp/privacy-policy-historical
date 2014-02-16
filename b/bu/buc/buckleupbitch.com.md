@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buckleupbitch.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217065408id_/http%3A//buckleupbitch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buckleupbitch.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216050715id_/http%3A//buckleupbitch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Buckle up, Bitch
 
