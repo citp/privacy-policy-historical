@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the internetbusinesstrainings.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515091920id_/http%3A//www.internetbusinesstrainings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetbusinesstrainings.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216233828id_/http%3A//www.internetbusinesstrainings.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Internet Business Trainings
+# Privacy « Internet Business Trainings
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -22,5 +22,3 @@ We have included links on this site for your use and reference. We are not respo
 The contents of this statement may be altered at any time, at our discretion. 
 
 If you have any questions regarding our privacy policy then you may contact us at info@internetbusinesstrainings.com
-
-## Facebook Comments
