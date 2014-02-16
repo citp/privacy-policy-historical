@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epyk.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820051502id_/http%3A//www.epyk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epyk.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216033758id_/http%3A//www.epyk.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Epyk - Health and Fitness, from Exercise to Food
+# Privacy Policy
 
 [](http://www.hupso.com/share/)
 
