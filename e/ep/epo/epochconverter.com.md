@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the epochconverter.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624234301id_/http%3A//www.epochconverter.com/epoch/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epochconverter.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216083232id_/http%3A//www.epochconverter.com/site/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/epoch/contact.php).
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/site/contact.php).
 
 At www.epochconverter.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.epochconverter.com and how it is used.
 
