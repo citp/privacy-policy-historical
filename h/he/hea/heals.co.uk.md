@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heals.co.uk privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424142551id_/http%3A//www.heals.co.uk/ordering-online-at-heals/privacy-policy/pcat/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heals.co.uk privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216170759id_/http%3A//www.heals.co.uk/ordering-online-at-heals/privacy-policy/pcat/privacy) for the most accurate reproduction.*
 
-# Heal's | Privacy Policy
+# Privacy Policy | Heal's
 
 What are cookies?
 
@@ -114,6 +114,8 @@ The purpose of this statement is to set out how we use personal information we m
 
 \- For assessment and analysis (e.g. market, customer and product analysis) to enable us to review, develop and improve the services we offer and to enable us to provide you and other customers with relevant information through our marketing programme. We may use your information to make decisions about you using computerised technology, for example, automatically selecting products or services, that we think will interest you from the information we have. We may inform you (by email, mail or otherwise) about products and services that we consider may be of interest to you. If you do not wish Heal's to use your information for marketing purposes, please tick the opt-out box provided when registering. 
 
+\- We do occasionally make names and addresses (but never email addresses) available to companies whose products we think may interest you, unless you have told us not to. If you do not wish to receive such offers please email [privacy@heals.co.uk](mailto:privacy@heals.co.uk) with 'unsubscribe to 3rd party' in the subject field. 
+
 \- For the prevention and detection of fraud. 
 
 \- To administer any prize draws or competitions you may enter. 
@@ -140,6 +142,6 @@ We may also disclose your information:
 
 8\. We endeavour to take all reasonable steps to protect your personal details. However, we cannot guarantee the security of any data you disclose online. You accept the inherent security risks of providing information and dealing online over the Internet and will not hold us responsible for any breach of security unless this is due to our negligence or willful default.
 
-9\. You have the right to see personal data (as defined in the Data Protection Act) we keep about you - upon receipt of a written request and payment of a fee. If you are concerned that any of the information we hold on you is incorrect please contact us.
+9\. You have the right to see personal data (as defined in the Data Protection Act) we keep about you - upon receipt of a written request and payment of a fee of £10. If you are concerned that any of the information we hold on you is incorrect please contact us.
 
 10\. Please note that any products and services are supplied subject to our standard terms and conditions. If you have any comments or queries in connection with our privacy policy, please email us at [enquiries@heals.co.uk](mailto:enquiries@heals.co.uk)
