@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splashpost.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823211524id_/http%3A//www.splashpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splashpost.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216154134id_/http%3A//www.splashpost.com/privacy) for the most accurate reproduction.*
 
 # SplashPost - Sell and Promote Products in Facebook's News Feed with Mutimedia Wall Post
 
