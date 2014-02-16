@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koyalwholesale.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820152059id_/http%3A//www.koyalwholesale.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koyalwholesale.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216183619id_/http%3A//www.koyalwholesale.com/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy : Wholesale Wedding Supplies, Discount Wedding Favors, Party Favors, and Bulk Event Supplies
 
