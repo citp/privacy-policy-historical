@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hatchbuck.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120081346id_/http%3A//www.hatchbuck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hatchbuck.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216012717id_/http%3A//www.hatchbuck.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Hatchbuck
+# Read and Understand the Hatchbuck Privacy Policy
 
 This Privacy Policy governs the manner in which hatchbuck collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://hatchbuck.com](http://hatchbuck.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by hatchbuck.
 
