@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the land-fx.com privacy policy that was archived on 2013-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131003134548id_/http%3A//www.land-fx.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the land-fx.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216041908id_/http%3A//www.land-fx.com/policy/privacy) for the most accurate reproduction.*
 
 # LAND FX - Forex Trading / Currency Trading and Brokers by LAND FX
 
 Our goal is to maintain your trust and confidence when handling personal information about you.   
-YOU HAVE CHOICES As a LandFX customer, you have the opportunity to make choices about how personal information   
+YOU HAVE CHOICES As a Land-FX customer, you have the opportunity to make choices about how personal information   
 about you may be shared. As you consider this, we encourage you to make choices that enable us to provide you with   
 quality products and services that help you meet your financial needs and objectives.
 
@@ -12,7 +12,7 @@ The security of personal information about you is our priority. We protect this 
 electronic, and procedural safeguards that meet applicable law. We train our employees in the proper handling of   
 personal information. When we use other companies to provide services for us, we require them to protect the   
 confidentiality of personal information they receive.   
-LandFX Privacy Statement  
+Land-FX Privacy Statement  
 Our Online Privacy Statement describes how we may collect, use and share information you provide when you visit this   
 website, receive our emails or interact with advertisements we have on third-party websites.
 
@@ -32,7 +32,7 @@ When you visit our site, we collect the IP address of the device you use to conn
 gather information such as what browser and which version of it you're using, the type of operating system you have,  
 and which site you came from. This information helps us provide an online experience that matches your device.
 
-When you browse our site or receive one of our emails, LandFX and companies we work with, use cookies and/or pixel   
+When you browse our site or receive one of our emails, Land-FX and companies we work with, use cookies and/or pixel   
 tags to collect information and store your online preferences. Cookies are widely used and most browsers are set up to   
 accept them automatically. If you would prefer, you can choose to not accept cookies.
 
@@ -44,7 +44,7 @@ Time and duration of your visit to our site
 Pages you viewed while on our site   
 We may also supplement the information we collect with information we receive from other companies. For example,   
 we may use marketing segments developed by us or other companies to customize certain services to your local area   
-and provide relevant LandFX offers tailored to you.
+and provide relevant Land-FX offers tailored to you.
 
 Personal Information
 
@@ -54,22 +54,22 @@ offer you online experiences that help you with your financial needs. For exampl
 when you are:   
 Banking online   
 Applying for a new program or account   
-If you've enrolled in LandFX services, such as online bill payment, we collect personal information about your transactions,   
+If you've enrolled in Land-FX services, such as online bill payment, we collect personal information about your transactions,   
 and how you interact with third parties such as those you pay like a utility company or phone company.   
 Collecting this information enables us to provide you these services. You can refer to the terms and conditions for your   
 account or service to learn how your information is collected and used.
 
 If we have personal information from you, or information that's publicly available from other sources, we may use it in   
-combination with the information that LandFX has collected online. We can use this information to better tailor and   
+combination with the information that Land-FX has collected online. We can use this information to better tailor and   
 personalize our service and marketing communications with you, both online and offline.
 
-The personal information you provide online is held by the LandFX business that maintains your account or is processing   
+The personal information you provide online is held by the Land-FX business that maintains your account or is processing   
 your application for a new product or service. You can access and/or change information in connection with your account   
 or application by logging on to your account online or telephoning customer service.
 
 2\. How Do We Use the Information We Collect?
 
-LandFX uses the information we collect about and from you to manage our business and to offer an enhanced,   
+Land-FX uses the information we collect about and from you to manage our business and to offer an enhanced,   
 personalized online experience on our site and third-party websites.
 
 The information we collect allows us to:   
@@ -99,7 +99,7 @@ online.
 Cookies
 
 You can control whether to accept cookies or not. If you decide to not accept cookies, some features and services on   
-our site may not work properly because we may not be able to recognize and associate you with your LandFX account(s).  
+our site may not work properly because we may not be able to recognize and associate you with your Land-FX account(s).  
 In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests.
 
 If you would prefer not to accept cookies, you can: Change your browser settings to notify you when you receive a cookie,   
