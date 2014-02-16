@@ -1,26 +1,25 @@
-> *The following text is extracted and transformed from the teach12.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115151106id_/http%3A//www.thegreatcourses.com/tgc/About%2520Us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teach12.com privacy policy that was archived on 2014-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140217003100id_/http%3A//www.thegreatcourses.com/tgc/About%2520Us/privacy.aspx) for the most accurate reproduction.*
 
 # Personal Information and Privacy Policy
 
   
 
 
-## How we protect your name, address, and e-mail address
+## How we use or disclose your name, address, and e-mail address
 
-We will not sell or rent your name, address, e-mail address, or purchase history to any other person or company. Period. That has been our policy since we opened in 1990.
+We use your name and address to send you course materials you order, our catalogs, and newsletters. 
 
-We use your name and address to send you course materials you order, our catalogs, and newsletters.
+Here's what we do with your e-mail address: 
 
-Here's what we do with your e-mail address:
-
-  * **Send you order confirmations.** You should receive via e-mail an order confirmation within moments of placing your order.
+  * **Send you order confirmations.** You should receive via e-mail an order confirmation within moments of placing your order. 
   * **Send you course starter materials.** Designed to supplement your learning experience, you'll receive course starter materials for every course you purchase. These materials include the professor's summary of the course, links to recommended websites, and recommended readings. 
   * **Send you free articles.** Occasionally, you'll receive interesting and compelling articles of interest on the subjects covered by our courses. 
-  * **Collect your feedback on courses and professors.** You'll receive e-mail surveys to vote for the Great Courses you want us to make, to rate the quality of Great Courses you've purchased, to tell us what improvements to make to The Great Courses and our services, and to tell us which professors we should choose to make the next Great Course.
-  * **Notify you of special sale offers.** You'll receive e-mails notifying you when courses featured in our print catalogs and newsletters go on sale. These e-mails also make ordering extremely simple—if you see courses that interest you, simply click on the links in the e-mail to find out more.
+  * **Collect your feedback on courses and professors.** You'll receive e-mail surveys to vote for the Great Courses you want us to make, to rate the quality of Great Courses you've purchased, to tell us what improvements to make to The Great Courses and our services, and to tell us which professors we should choose to make the next Great Course. 
+  * **Notify you of special sale offers.** You'll receive e-mails notifying you when courses featured in our print catalogs and newsletters go on sale. These e-mails also make ordering extremely simple—if you see courses that interest you, simply click on the links in the e-mail to find out more. 
 
-  
 
+
+With regard to name and postal address only, from time to time, we may make our mailing list available to carefully screened companies. If you prefer we don’t share your name and postal address, please call our Customer Care team at 1-800-832-2412 or write to us at The Great Courses, 4840 Westfields Blvd., Suite 500, Chantilly, VA, 20151-2299. (However, because this reflects a change in practice, the new policy applies only to the names and postal addresses of new customers added to our mailing list after October 1, 2013.) 
 
 ## How we protect your billing information
 
@@ -62,4 +61,4 @@ No personal information is stored in long-term cookies. And we do not sell or re
 
 If you are a registered user of our website, you can correct or update your personal information on the [My Account](https://web.archive.org/tgc/accounts/home.aspx) page of our website.
 
-If you are not a registered user of our website, [Contact Us](https://web.archive.org/tgc/about%20us/contactus.aspx), and we can correct or update your personal information. If you have multiple addresses, we ask that you please send us the multiple address references.
+If you are not a registered user of our website, [Contact Us](https://web.archive.org/tgc/About-Us/contactus.aspx), and we can correct or update your personal information. If you have multiple addresses, we ask that you please send us the multiple address references.
