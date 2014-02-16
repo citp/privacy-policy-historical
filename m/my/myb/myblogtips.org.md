@@ -1,7 +1,15 @@
-> *The following text is extracted and transformed from the myblogtips.org privacy policy that was archived on 2013-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130802092538id_/http%3A//www.myblogtips.org/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myblogtips.org privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216060712id_/http%3A//www.myblogtips.org/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Blogger Tips and Tricks: Privacy Policy
+# Privacy Policy - Blogger Tips and Tricks- Myblogtips.org
 
+Myblogtips is a blogging community where all bloggers submit their latest blog articles, video tutorials  for increasing backlinks and traffic.
+
+Your access to and use of this website is subject to these Terms and Conditions. You will not use the Website for any purpose that is unlawful or prohibited by these Terms and Conditions. By using the Website you are fully accepting this websites the terms, conditions and disclaimers contained in this notice. If you do not accept these Terms and Conditions you must immediately stop using the Website.  
+We Will send you mass e-mail announcements from our community regarding upgrades and updates, sales and special offers. We will not sell your e-mail or private information. When adding content to your PUBLIC profile users within the PUBLIC may have access to it by visiting your PUBLIC profile.  
+Myblogtips has all the right to delete, remove, cancel your account at anytime without sending any notice if you are violate the sites rules. We do not allow porno of abusive content to be submitted to our community.  
+This Website may include links to third party websites that are controlled and maintained by others. Any link to other websites is not an endorsement of such websites and you acknowledge and agree that we are not responsible for the content or availability of any such sites. 
+
+**  **  
 **Privacy Policy for www.myblogtips.org**  
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at kbloggertemplates@gmail.com. 
