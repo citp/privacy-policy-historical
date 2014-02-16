@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the rba.gov.au privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014194020id_/http%3A//www.rba.gov.au/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rba.gov.au privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216163619id_/http%3A//www.rba.gov.au/privacy/index.html) for the most accurate reproduction.*
 
-# RBA: Privacy Statement
+# RBA: Privacy Policy
 
-The Reserve Bank of Australia is committed to respecting the privacy of visitors to its website. This statement sets out the Reserve Bank's current practices concerning information collection and dissemination through this website. 
+The Reserve Bank of Australia respects the privacy of visitors to its website. This page sets out the Reserve Bank's current practices concerning information collection and dissemination through this website. It also tells you about access to and updating of personal information, and enquiries and complaints about the Bank's use of personal information. These sections cover all personal information the Bank holds. 
 
 ##### Go To
 
   * Collection of Information 
   * Security of Information 
-  * Access to Information 
-  * Amendment of Personal Information 
+  * Identification 
   * Use and Disclosure of Information 
-  * Complaints and Enquiries 
+  * Access to or amendment of Personal Information 
+  * Enquiries and Complaints 
 
 
 
@@ -58,7 +58,7 @@ Personal details provided for the purpose of our e-mail service are stored on a 
 
 #### Job Applications
 
-Please do not submit your personal information if you do not want your information to be dealt with in the ways described in this statement. 
+Please do not submit your personal information if you do not want your information to be dealt with in the ways described in this policy. 
 
 By submitting an application or registering interest in employment with the Reserve Bank of Australia, you will supply us with personal information, including application data and contact details (‘your information’). 
 
@@ -98,17 +98,28 @@ If you provide the Reserve Bank with personal information via e-mail or any othe
 
 Information from our ISP logs will only be disclosed if the Reserve Bank is required by law to do so. 
 
-### Access to Information
+When required by law, e.g. search warrant or subpoena, information requested (including an inspection of our ISP logs) will be provided to law enforcement agencies, courts or regulatory bodies. 
+
+### Identification
 
 No attempt will be made by the Reserve Bank to identify visitors or their browsing activities except where required by law or when authorised by Reserve Bank management in connection with investigations into possible breaches of the law. 
 
-When required by law, e.g. search warrant or subpoena, information requested (including an inspection of our ISP logs) will be provided to law enforcement agencies, courts or regulatory bodies. 
+### Use and Disclosure of Information
 
-### Amendment of Personal Information
+Your personal information submitted via the website will only be used for the purpose for which you provide it, and will not be added to a mailing list or provided to a third party unless you request that this be done. We will not disclose your personal information submitted via the website without your consent except where required or authorised by law or when authorised by Reserve Bank management in connection with investigations into possible breaches of the law. 
 
-If you wish to amend or correct personal information that you have submitted via the Reserve Bank website you can forward your request to: 
+As part of the Reserve Bank's commitment to meeting the needs of the public for information about its policies and operations, the Reserve Bank may occasionally conduct non-compulsory surveys of users of Reserve Bank information. Prior to collecting survey results, the Reserve Bank will: 
 
-For amendments to job applications: **E-mail** |  [careers@rba.gov.au](mailto:careers@rba.gov.au)  
+  * advise survey recipients of the purpose of the survey; and 
+  * offer recipients a facility to exit the survey at any time. 
+
+
+
+### Access to or amendment of Personal Information
+
+If you wish to access any personal information the Reserve Bank holds about you, or amend or correct personal information that you have submitted via the Reserve Bank website or which the Reserve Bank has collected from any other source, you can forward your request to: 
+
+For access to or amendments to job applications: **E-mail** |  [careers@rba.gov.au](mailto:careers@rba.gov.au)  
 ---|---  
 **Phone** | +61 2 9551 9649  
 **Fax** | +61 2 9551 8060  
@@ -119,7 +130,7 @@ Reserve Bank of Australia
 GPO Box 3947  
 SYDNEY NSW 2001  
 AUSTRALIA   
-For amendments to all other information: **E-mail** |  [rbainfo@rba.gov.au](mailto:rbainfo@rba.gov.au)  
+For access to or amendment of any other information:  **E-mail** |  [rbainfo@rba.gov.au](mailto:rbainfo@rba.gov.au)  
 ---|---  
 **Feedback form** |  [ www.rba.gov.au/forms/feedback-form/ ](https://web.archive.org/forms/feedback-form/)  
 **Phone** | +61 2 9551 9720  
@@ -130,20 +141,11 @@ GPO Box 3947
 SYDNEY NSW 2001  
 AUSTRALIA   
   
-### Use and Disclosure of Information
+In some situations permitted by law the Reserve Bank may deny your request for access or correction. If we do this we will tell you why. 
 
-Your personal information will only be used for the purpose for which you provide it, and will not be added to a mailing list or provided to a third party unless you request that this be done. We will not disclose your personal information without your consent except where required or authorised by law or when authorised by Reserve Bank management in connection with investigations into possible breaches of the law. 
+### Enquiries and Complaints
 
-As part of the Reserve Bank's commitment to meeting the needs of the public for information about its policies and operations, the Reserve Bank may occasionally conduct non-compulsory surveys of users of Reserve Bank information. Prior to collecting survey results, the Reserve Bank will: 
-
-  * advise survey recipients of the purpose of the survey; and 
-  * offer recipients a facility to exit the survey at any time. 
-
-
-
-### Complaints and Enquiries
-
-If you wish to make a complaint or enquire about the Reserve Bank's privacy policy and practices you can contact our Privacy Officer by: 
+If you would like more information about the Reserve Bank's approach to privacy, or you have any concern about the way the Reserve Bank has handled your personal information, please contact our Privacy Officer by: 
 
 **E-mail** |  [privacy@rba.gov.au](mailto:privacy@rba.gov.au)  
 ---|---  
@@ -153,4 +155,6 @@ If you wish to make a complaint or enquire about the Reserve Bank's privacy poli
 Reserve Bank of Australia  
 GPO Box 3947  
 SYDNEY NSW 2001  
-AUSTRALIA 
+AUSTRALIA   
+  
+If you have concerns about the Reserve Bank's handling of any personal information we may ask you to put them in writing so that we can fully understand and investigate the issues you have raised. 
