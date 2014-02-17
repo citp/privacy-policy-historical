@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportstherapylore.com privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911024319id_/http%3A//www.sportstherapylore.com/%3Fpage_id%3D1088) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportstherapylore.com privacy policy that was archived on 2014-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140218004435id_/http%3A//www.sportstherapylore.com/%3Fpage_id%3D1088) for the most accurate reproduction.*
 
 # Privacy Policy | welcome to sportstherapylore.com
 
