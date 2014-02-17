@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the portea.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226013455id_/http%3A//www.portea.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portea.com privacy policy that was archived on 2014-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140218005216id_/http%3A//www.portea.com/privacy.php) for the most accurate reproduction.*
 
 # Portea Medical
 
 Privacy Policy 
 
-[Home](https://web.archive.org/web/20131226013455id_/http%3A//www.portea.com/index.php) Privacy Policy
+[Home](https://web.archive.org/web/20140218005216id_/http%3A//www.portea.com/index.php) Privacy Policy
 
 We value the trust you place in portea.com. That's why we insist upon the highest standards for customer information privacy and transactions. Note: Our privacy policy is subject to change at any time without notice.
 
