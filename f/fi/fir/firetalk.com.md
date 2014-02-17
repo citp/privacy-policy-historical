@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firetalk.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013072540id_/http%3A//www.firetalk.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firetalk.com privacy policy that was archived on 2014-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140217175026id_/http%3A//www.firetalk.com/Home/Privacy) for the most accurate reproduction.*
 
 # Firetalk Home
 
