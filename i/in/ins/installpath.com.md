@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the installpath.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810205129id_/http%3A//www.installpath.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the installpath.com privacy policy that was archived on 2014-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140217080815id_/http%3A//www.installpath.com/privacy.html) for the most accurate reproduction.*
 
 # InstallPath Install Manager - Privacy Policy
 
 ** InstallPath Install Manager Privacy Policy **
 
-Last modified on April 8, 2013.
+Last modified on January1, 2014.
 
 This Privacy Policy is designed to help You decide whether to use InstallPath install manager and in what manner. This Policy is incorporated into, subject to and a part of InstallPath’s Install Manager Terms of Service.
 
-During your use of the InstallPath Install Manager delivery and installation platform ("InstallPath") for the purpose of installing the Software or digital content, InstallPath Install Manager gathers information from your computer. Amonetize understands that You wish to keep your information private, and that You value our emphasis on keeping your information safe and discrete. As a result we have posted the following privacy policy (the "Privacy Policy") to inform You of the ways in which we gather and use information relating to You and your use of InstallPath install manager.
+During your use of the InstallPath Install Manager delivery and installation platform ("InstallPath") for the purpose of installing the Software, Updates, or digital content, InstallPath Install Manager gathers information from your computer. Amonetize understands that You wish to keep your information private, and that You value our emphasis on keeping your information safe and discrete. As a result we have posted the following privacy policy (the "Privacy Policy") to inform You of the ways in which we gather and use information relating to You and your use of InstallPath install manager.
 
 IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU MAY NOT AND SHOULD NOT USE InstallPath install manager. The definitions in the Terms of Service apply to this Policy unless stated otherwise.
 
@@ -24,7 +24,7 @@ Technical Information
 
 Upon authorizing the installation process, InstallPath Install Manager retrieves technical information from your computer such as (without limitation) registry keys, file existence, the type and version of your computer's operating system, IE browser version and installed hardware, Java resource availability, .NET resources availability and your C-Class IP address (the "Technical Information").
 
-This Technical Information is used by our servers to provide, maintain and improve the InstallPath Install Manager operation and services, such as (without limitation) by verifying that the Software and Additional Software are compatible with your computer ; by determining which Additional Software and of what version should be offered to You and installed on your computer; by correlating errors with certain Technical Information for debugging purposes; and by creating and managing statistics to guide future improvements and developments.
+This Technical Information is used by our servers to provide, maintain and improve the InstallPath Install Manager operation and services, such as (without limitation) by verifying that the Software and Additional Software are compatible with your computer ; by determining which Additional Software and of what version should be offered to You and installed on your computer; by correlating errors with certain Technical Information for debugging purposes; by installing Updates and Modules on your computer; and by creating and managing statistics to guide future improvements and developments.
 
 In addition, the Technical Information is used for Fraud Detection.
 
@@ -34,13 +34,13 @@ Personal Information
 
 We may collect personal information, such as country/region (the "Personal Information").
 
-This Personal Information is used by our servers in order to improve InstallPath Install Manager operation and services and to present You with Offers which are better suited for You.
+This Personal Information is used by our servers in order to improve InstallPath Install Manager operation and services,to install Updates and Modules on your computer and to present You with Offers which are better suited for You.
 
 The Personal Information is stored on our servers.
 
 Installation Information
 
-In addition we may gather information regarding the installation process, including with regard to the Offers presented to You via InstallPath Install Manager, The Approved Offers installed on your computer and Technical Information regarding the installation process, such as, without limitation, success/failure, duration, malfunctions, errors, etc. (the "Installation Information").
+In addition we may gather information regarding the installation process, including with regard to the Offers presented to You via InstallPath Install Manager, The Approved Offers installed on your computer Updates and Technical Information regarding the installation process, such as, without limitation, success/failure, duration, malfunctions, errors, etc. (the "Installation Information").
 
 The Installation Information is used to provide, maintain and improve InstallPath’s install manager operation and services.
 
@@ -76,11 +76,7 @@ Nothing in this Policy is interpreted as an obligation to store information, and
 
 Children Protection
 
-Regardless of the aforementioned, we do not knowingly collect or store information regarding children under the age of 13. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under age 13, please contact us through our support page currently available at contact@InstallPath.com.
-
-Information Warranty Disclaimer
-
-Notwithstanding anything else in this Policy, we are not responsible for the accuracy, correctness and security of any of the information we gather, store and disclose to You or to anyone else.
+Regardless of the aforementioned, we do not knowingly collect or store information regarding children under the age of 18. If we learn that we have collected personal information from a child under age 18, we will delete that information as quickly as possible. If you believe that we might have any information from a child under age 18, please contact us through our support page currently available at contact@InstallPath.com.
 
 Review and Deletion
 
@@ -119,6 +115,14 @@ You acknowledge that in the event of bankruptcy, insolvency or receivership, we 
 Changes to this Privacy Policy
 
 This Policy may be modified from time to time at our sole discretion and each such modification will be effective upon notice to you, including posting on our web site. Your continued use of the InstallPath Install Manager following any such modification constitutes your acceptance of the Privacy Policy as so modified. It is therefore important that you review this Privacy Policy regularly. The last revision will be reflected in the "Last modified by" heading above.
+
+All questions and issues regarding this privacy policy or the data that is being collected and stored should be delivered to InstallPath's designated privacy agent at the following address:  
+InstallPath  
+Amonetize Ltd.  
+6 Ha’masger Street  
+Raanana, 43662, Israel  
+Phone: +972-9-7733001  
+Email: contact @ InstallPath.com
 
 Enforcement, Choice of Law, Choice of Forum
 
