@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022234810id_/http%3A//www.offerstation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2014-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140217113420id_/http%3A//www.offerstation.com/privacy.php) for the most accurate reproduction.*
 
 # Contact Us | OfferStation.com
 
@@ -52,51 +52,51 @@ OfferStation reserves the right to modify, update, and change this policy at our
 
 [
 
-## Kopiko Coffee Bags Giveaway 
+## Pizza Hut Wow Savers Monday Promotion
 
-](http://www.offerstation.com/dining-food-offers/117306/kopiko-coffee-bags-giveaway.htm)
-
-[
-
-## MILO Fuel For Champions Contest
-
-](http://www.offerstation.com/contest-prizes/118714/milo-fuel-for-champions-contest.htm)
+](http://www.offerstation.com/dining-food-offers/127182/pizza-hut-wow-savers-monday-promotion.htm)
 
 [
 
-## Tesco Deepavali Hamper Promotion
+## AmBank A New Me Contest
 
-](http://www.offerstation.com/offers-promotions/119777/tesco-deepavali-hamper-promotion.htm)
-
-[
-
-## New McCafe at McDonald's Taiping Lake Garden
-
-](http://www.offerstation.com/dining-food-offers/118269/new-mccafe-at-mcdonalds-taiping-lake-garden.htm)
+](http://www.offerstation.com/contest-prizes/124424/ambank-a-new-me-contest.htm)
 
 [
 
-## New Caring Pharmacy at Pearl Point Shopping mall
+## Sushi King Card RM3 Bonanza Promotion
 
-](http://www.offerstation.com/whats-new/118629/new-caring-pharmacy-at-pearl-point-shopping-mall.htm)
-
-[
-
-## Perodua Myvi Promotion
-
-](http://www.offerstation.com/offers-promotions/118872/perodua-myvi-promotion.htm)
+](http://www.offerstation.com/dining-food-offers/127187/sushi-king-card-rm3-bonanza-promotion.htm)
 
 [
 
-## Buy 1 FREE 1 at Juice Works
+## Kolej Yayasan UEM Open Day
 
-](http://www.offerstation.com/dining-food-offers/118631/buy-1-free-1-at-juice-works.htm)
+](http://www.offerstation.com/happenings-events/126118/kolej-yayasan-uem-open-day.htm)
 
 [
 
-## New Hong Leong Transformers Debit Card
+## Magic Monday at New Zealand Natural
 
-](http://www.offerstation.com/whats-new/118983/new-hong-leong-transformers-debit-card.htm)
+](http://www.offerstation.com/dining-food-offers/127163/magic-monday-at-new-zealand-natural.htm)
+
+[
+
+## World Of Outdoors Buy More Save More Promotion
+
+](http://www.offerstation.com/offers-promotions/127240/world-of-outdoors-buy-more-save-more-promotion.htm)
+
+[
+
+## Blood Donation Campaign (Kempen Menderma Darah)
+
+](http://www.offerstation.com/happenings-events/127259/blood-donation-campaign-\(kempen-menderma-darah\).htm)
+
+[
+
+## Tony Roma's New Beginnings 2nd Edition Promotion
+
+](http://www.offerstation.com/dining-food-offers/127252/tony-romas-new-beginnings-2nd-edition-promotion.htm)
 
   
 
