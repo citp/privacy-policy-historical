@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zingfit.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102000746id_/http%3A//www.zingfit.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zingfit.com privacy policy that was archived on 2014-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140217213500id_/http%3A//www.zingfit.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement | Fitness Studio Software | zingFit
 
