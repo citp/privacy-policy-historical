@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebodyshop.com privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310045116id_/http%3A//www.thebodyshop-usa.com/about-us/privacy.aspx%3Fcm_re%3DTyra_HolidayPh12012-_-Navigation-_-Privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebodyshop.com privacy policy that was archived on 2014-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140217062615id_/http%3A//www.thebodyshop-usa.com/about-us/privacy.aspx%3Fcm_re%3DHandcare2014-_-Navigation-_-Privacy%2520policy) for the most accurate reproduction.*
 
 # The Body Shop - Privacy Policy
 
