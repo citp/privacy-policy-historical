@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hackershubh.in privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031071608id_/http%3A//hackershubh.in/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackershubh.in privacy policy that was archived on 2014-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140217181411id_/http%3A//hackershubh.in/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which HackerShubh collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.hackershubh.in](https://web.archive.org/web/20131031071608id_/http%3A//hackershubh.in/www.hackershubh.in) website ("Site"). This privacy policy applies to the Site and all products and services offered by HackerShubh.
+This Privacy Policy governs the manner in which HackerShubh collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.hackershubh.in](https://web.archive.org/web/20140217181411id_/http%3A//hackershubh.in/www.hackershubh.in) website ("Site"). This privacy policy applies to the Site and all products and services offered by HackerShubh.
 
 **Personal identification information**
 
@@ -56,8 +56,8 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[HackerShubh](https://web.archive.org/web/20131031071608id_/http%3A//hackershubh.in/www.hackershubh.in)  
-[www.hackershubh.in](https://web.archive.org/web/20131031071608id_/http%3A//hackershubh.in/www.hackershubh.in)  
+[HackerShubh](https://web.archive.org/web/20140217181411id_/http%3A//hackershubh.in/www.hackershubh.in)  
+[www.hackershubh.in](https://web.archive.org/web/20140217181411id_/http%3A//hackershubh.in/www.hackershubh.in)  
 Kanpur, UPE, IN  
 +91 8756149523  
 info@hackershubh.in
