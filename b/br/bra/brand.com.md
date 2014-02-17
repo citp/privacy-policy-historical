@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brand.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817071147id_/http%3A//www.brand.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brand.com privacy policy that was archived on 2014-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140218002648id_/http%3A//www.brand.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Brand.com™
 
@@ -22,4 +22,4 @@ Here are the types of information we gather.
 
 Information about our customers is an important part of our business, and we are not in the business of selling it to others. We will release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Terms and Conditions and other agreements; or protect the rights, property, or safety of Brand.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
 
-If you choose to visit Brand.com, your visit and any dispute over privacy is subject to this Notice and our [User Agreement](https://web.archive.org/web/20130817071147id_/http%3A//www.brand.com/useragreement.html), including limitations on damages, arbitration of disputes, and application of the law of the state Brand.com operates in. This Notice and the Terms and Conditions will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. It is your responsibility to check our Web site frequently to see recent changes.
+If you choose to visit Brand.com, your visit and any dispute over privacy is subject to this Notice and our [User Agreement](https://web.archive.org/web/20140218002648id_/http%3A//www.brand.com/useragreement.html), including limitations on damages, arbitration of disputes, and application of the law of the state Brand.com operates in. This Notice and the Terms and Conditions will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. It is your responsibility to check our Web site frequently to see recent changes.
