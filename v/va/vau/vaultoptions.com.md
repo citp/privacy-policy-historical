@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vaultoptions.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816125013id_/http%3A//www.vaultoptions.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaultoptions.com privacy policy that was archived on 2014-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140217011320id_/http%3A//www.vaultoptions.com/Privacy) for the most accurate reproduction.*
 
 # VaultOptions - Privacy Policy - VaultOptions
 
