@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emedco.com privacy policy that was archived on 2013-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130919191132id_/http%3A//www.emedco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emedco.com privacy policy that was archived on 2014-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140218003550id_/http%3A//www.emedco.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
