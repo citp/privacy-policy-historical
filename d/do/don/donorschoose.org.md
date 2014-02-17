@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donorschoose.org privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423044428id_/http%3A//www.donorschoose.org/help/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donorschoose.org privacy policy that was archived on 2014-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140217145750id_/http%3A//www.donorschoose.org/help/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,7 @@ This document contains the privacy practices for the DonorsChoose.org web site a
 
 1\. _How Does DC Collect Information?_
 
-Our web server automatically recognizes and collects the domain name and IP address of visitors to our Sites. In addition, we collect information volunteered by the visitor to participate in activities on the Sites, such as making a donation, purchasing or redeeming a gift card, funding a project in someone's honor, opening a gift registry of favorite projects, creating or participating in a giving page, responding to surveys, registering to create an account, requesting email newsletters and/or contacting us through one or more of our contact email addresses. DC also collects personal information when you create an account. When you create an account we ask for information such as your name, email address, postal address, and phone number. If a visitor has enabled cookies in their browser, we also will send a cookie file that will only store a unique, random session ID that is maintained throughout the session to track the pages visited, allowing us to provide visitors to our Sites with certain conveniences, such as delivering unique content. We also use cookies to track the path of users through our Sites, and to keep track of where they came from (for example, if they arrive via a search engine). We also collect aggregate tracking information derived mainly from tallying page views throughout our Sites. 
+Our web server automatically recognizes and collects the domain name and IP address of visitors to our Sites. In addition, we collect information volunteered by the visitor to participate in activities on the Sites, such as making a donation, purchasing or redeeming a gift card, funding a project in someone's honor, opening a gift registry of favorite projects, creating or participating in a giving page, responding to surveys, registering to create an account, requesting email newsletters and/or contacting us through one or more of our contact email addresses. DC also collects personal information when you create an account. When you create an account we ask for information such as your name, email address, postal address, and phone number. If a visitor has enabled cookies in their browser, we also will send a cookie file that will only store a unique, random session ID that is maintained throughout the session to track the pages visited, allowing us to provide visitors to our Sites with certain conveniences, such as delivering unique content. We also use cookies to track the path of users through our Sites, and to keep track of where they came from (for example, if they arrive via a search engine). We also collect aggregate tracking information derived mainly from tallying page views throughout our Sites. We also collect aggregate tracking information derived mainly from tallying page views throughout our Sites, and we use Google Analytics Demographics and Interest Reporting to access 3rd-party audience data (such as age, gender and interests) on an aggregate basis. 
 
 2\. _How Does DC Protect Information?_
 
@@ -77,9 +77,9 @@ Submit a request in writing to:
 
 DonorsChoose.org   
 Attn: Financial Operations   
-213 West 35th Street  
-2nd Floor East  
-New York, NY 10001 
+134 West 37th Street  
+11th Floor  
+New York, NY 10018 
 
 The request should include your name, address, social security number, telephone number, and the recorded information to which you would like access or the specific information in dispute and the identity of the document or record that contains the disputed information. The request should state whether you would like access in person or a copy of the information sent to you by mail. Upon receipt of your request, we will contact you within thirty (30) business days to arrange providing you access in person or the copies that you have requested or to notify you either that we have made the correction, amendment or deletion or that we refuse to do so and the reasons for the refusal, which you will have an opportunity to challenge. 
 
@@ -89,9 +89,9 @@ If you have any questions about our Privacy Policy or practices, you may contact
 
 DonorsChoose.org   
 Attn: Financial Operations   
-213 West 35th Street  
-2nd Floor East  
-New York, NY 10001 
+134 West 37th Street  
+11th Floor  
+New York, NY 10018 
 
 We are always glad to hear your questions or comments. 
 
