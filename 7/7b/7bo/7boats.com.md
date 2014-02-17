@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the 7boats.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222072325id_/http%3A//www.7boats.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7boats.com privacy policy that was archived on 2014-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140217043855id_/http%3A//www.7boats.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 7Boats | Online Advertising & Website Promotion India
 
-Don't be shellfish...000000
-
- **7boats.com**  is firmly committed to maintaining and protecting the privacy of your personal and company information. The terms of this policy apply to  **www.7boats.com**  and all other  **7boats.com**  websites. The following privacy policy tells you how information that identifies you personally is used, so that you can make an informed choice about using this website and its services.  
+**7boats.com**  is firmly committed to maintaining and protecting the privacy of your personal and company information. The terms of this policy apply to  **www.7boats.com**  and all other  **7boats.com**  websites. The following privacy policy tells you how information that identifies you personally is used, so that you can make an informed choice about using this website and its services.  
 **7boats.com**  does not sell, rent, lease or disclose customer information to third parties unless required by law or unless you provide consent to such a disclosure.
 
  **What information do we collect?**  
@@ -55,9 +53,3 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
  **Contacting Us  
 **Feel free to contact us regarding our privacy policy using our [Contact Us](http://www.7boats.com/contact-us/ "Contact us") information
-
-Don't be shellfish...000000
-
-### Comments
-
-comments
