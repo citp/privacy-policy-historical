@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneymakergroup.com privacy policy that was archived on 2008-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080803162949id_/http%3A//moneymakergroup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymakergroup.com privacy policy that was archived on 2014-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140217091734id_/http%3A//www.moneymakergroup.com/privacy.html) for the most accurate reproduction.*
 
 # MMG Privacy Policy Statement
 
