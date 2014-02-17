@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badlion.net privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216213830id_/http%3A//www.badlion.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badlion.net privacy policy that was archived on 2014-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140217220715id_/http%3A//www.badlion.net/privacy) for the most accurate reproduction.*
 
 # Badlion Network
 
