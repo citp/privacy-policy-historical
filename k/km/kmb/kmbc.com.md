@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kmbc.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206122442id_/http%3A//www.kmbc.com/connect/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmbc.com privacy policy that was archived on 2014-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140217084723id_/http%3A//www.kmbc.com/connect/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - KMBC.com
 
