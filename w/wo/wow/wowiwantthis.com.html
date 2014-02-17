@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wowiwantthis.com privacy policy that was archived on 2013-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131217072344id_/http%3A//wowiwantthis.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wowiwantthis.com privacy policy that was archived on 2014-02-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140217062247id_/http%3A//www.wowiwantthis.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -23,11 +23,11 @@
 	<script src="/js/html5shim.js"></script>
 <![endif]-->
 
-<link href="http://wowiwantthis.com/css/bootstrap.css+responsive.css+flexslider.css+theme-style.css+colour-blue.css.pagespeed.cc.6ixdomvos2.css" rel="stylesheet">
-
-
-
-
+<link href="/css/bootstrap.css" rel="stylesheet">
+<link href="/css/responsive.css" rel="stylesheet">
+<link href="/css/flexslider.css" rel="stylesheet">
+<link href="/css/theme-style.css" rel="stylesheet">
+<link href="/css/colour-blue.css" rel="stylesheet">
 
 <!-- Le fav and touch icons -->
 <link rel="shortcut icon" href="http://www.wowiwantthis.com/assets/wowiwantthislogo.png">
@@ -38,7 +38,7 @@
     
 <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700,300|Rambla|Calligraffitti" rel="stylesheet" type="text/css">
 
-<script src="http://wowiwantthis.com/js/jquery.js.pagespeed.jm.F1sj5uxJzN.js"></script> 
+<script src="/js/jquery.js"></script> 
 
 </head>
 
@@ -51,7 +51,7 @@
         <div class="row-fluid">
           <div class="span8"> 
             <a class="brand" href="/" title="Home">
-            <h1><img src="http://wowiwantthis.com/img/xmurder-it-santa.png.pagespeed.ic.Og4BpSU6jS.png" style="margin-right: 10px;"><span>Wow </span>I want this<span>!</span></h1>
+            <h1><img src="/img/murder-it-santa.png" style="margin-right: 10px;"><span>Wow </span>I want this<span>!</span></h1>
             </a>
             <div class="slogan">The Internet's Geekiest Mall</div>
           </div>
@@ -279,7 +279,7 @@ Our philosophy is simple, We want to display only the coolest stuff you can find
       <!--@todo: replace with company copyright details-->
       <div class="subfooter">
         <div class="span6">
-          <p>Copyright 2013 © WowIWantThis.com </p>
+          <p>Copyright 2014 © WowIWantThis.com </p>
         </div>
         <div class="span6">
           <ul class="inline pull-right">
@@ -294,67 +294,19 @@ Our philosophy is simple, We want to display only the coolest stuff you can find
 </footer>
 
 <!--Scripts --> 
-<script src="http://wowiwantthis.com/js/bootstrap-dropdown.js.pagespeed.jm.qe3WlXcx-m.js"></script> 
-<script src="http://wowiwantthis.com/js/bootstrap-tooltip.js.pagespeed.jm.QSkCkWbkvw.js"></script> 
-<script>//<![CDATA[
-!function($){"use strict";var Popover=function(element,options){this.init('popover',element,options)}
-Popover.prototype=$.extend({},$.fn.tooltip.Constructor.prototype,{constructor:Popover,setContent:function(){var $tip=this.tip(),title=this.getTitle(),content=this.getContent()
-$tip.find('.popover-title')[this.options.html?'html':'text'](title)
-$tip.find('.popover-content')[this.options.html?'html':'text'](content)
-$tip.removeClass('fade top bottom left right in')},hasContent:function(){return this.getTitle()||this.getContent()},getContent:function(){var content,$e=this.$element,o=this.options
-content=$e.attr('data-content')||(typeof o.content=='function'?o.content.call($e[0]):o.content)
-return content},tip:function(){if(!this.$tip){this.$tip=$(this.options.template)}
-return this.$tip},destroy:function(){this.hide().$element.off('.'+this.type).removeData(this.type)}})
-var old=$.fn.popover
-$.fn.popover=function(option){return this.each(function(){var $this=$(this),data=$this.data('popover'),options=typeof option=='object'&&option
-if(!data)$this.data('popover',(data=new Popover(this,options)))
-if(typeof option=='string')data[option]()})}
-$.fn.popover.Constructor=Popover
-$.fn.popover.defaults=$.extend({},$.fn.tooltip.defaults,{placement:'right',trigger:'click',content:'',template:'<div class="popover"><div class="arrow"></div><div class="popover-inner"><h3 class="popover-title"></h3><div class="popover-content"></div></div></div>'})
-$.fn.popover.noConflict=function(){$.fn.popover=old
-return this}}(window.jQuery);
-//]]></script> 
-<script>//<![CDATA[
-!function($){"use strict";var Button=function(element,options){this.$element=$(element)
-this.options=$.extend({},$.fn.button.defaults,options)}
-Button.prototype.setState=function(state){var d='disabled',$el=this.$element,data=$el.data(),val=$el.is('input')?'val':'html'
-state=state+'Text'
-data.resetText||$el.data('resetText',$el[val]())
-$el[val](data[state]||this.options[state])
-setTimeout(function(){state=='loadingText'?$el.addClass(d).attr(d,d):$el.removeClass(d).removeAttr(d)},0)}
-Button.prototype.toggle=function(){var $parent=this.$element.closest('[data-toggle="buttons-radio"]')
-$parent&&$parent.find('.active').removeClass('active')
-this.$element.toggleClass('active')}
-var old=$.fn.button
-$.fn.button=function(option){return this.each(function(){var $this=$(this),data=$this.data('button'),options=typeof option=='object'&&option
-if(!data)$this.data('button',(data=new Button(this,options)))
-if(option=='toggle')data.toggle()
-else if(option)data.setState(option)})}
-$.fn.button.defaults={loadingText:'loading...'}
-$.fn.button.Constructor=Button
-$.fn.button.noConflict=function(){$.fn.button=old
-return this}
-$(document).on('click.button.data-api','[data-toggle^=button]',function(e){var $btn=$(e.target)
-if(!$btn.hasClass('btn'))$btn=$btn.closest('.btn')
-$btn.button('toggle')})}(window.jQuery);
-//]]></script> 
-<script src="http://wowiwantthis.com/js/bootstrap-collapse.js.pagespeed.jm.983kUr7lAa.js"></script> 
-<script src="http://wowiwantthis.com/js/bootstrap-carousel.js.pagespeed.jm.-J1QioWGu9.js"></script> 
+<script src="/js/bootstrap-dropdown.js"></script> 
+<script src="/js/bootstrap-tooltip.js"></script> 
+<script src="/js/bootstrap-popover.js"></script> 
+<script src="/js/bootstrap-button.js"></script> 
+<script src="/js/bootstrap-collapse.js"></script> 
+<script src="/js/bootstrap-carousel.js"></script> 
 
 <!--Non-Bootstrap JS--> 
-<script src="http://wowiwantthis.com/js/jquery.quicksand.js.pagespeed.jm.PhzSLY7Sl9.js"></script> 
-<script src="http://wowiwantthis.com/js/jquery.flexslider-min.js.pagespeed.jm.noGKd8vLzs.js"></script> 
+<script src="/js/jquery.quicksand.js"></script> 
+<script src="/js/jquery.flexslider-min.js"></script> 
 
 <!--Custom scripts mainly used to trigger libraries --> 
-<script>//<![CDATA[
-$(document).ready(function(){var defaultColour='green';$('body').tooltip({selector:"a[class*=_tooltip]"});$('body').popover({selector:"a[class*=_popover]",trigger:"hover"});$('.show-hide').each(function(){$(this).click(function(){var state='open';var target=$(this).attr('data-target');var targetState=$(this).attr('data-target-state');if(typeof targetState!=='undefined'&&targetState!==false){state=targetState;}
-if(state=='undefined'){state='open';}
-$(target).toggleClass('show-hide-'+state);$(this).toggleClass(state);});});$('.colour-switcher a').click(function(){var c=$(this).attr('href').replace('#','');$('.colour-switcher a').removeClass('active');$('.colour-switcher a.'+c).addClass('active');if(c!=defaultColour){$('#colour-scheme').attr('href','css/colour-'+c+'.css');}
-else{$('#colour-scheme').attr('href','#');}});$('.flexslider').each(function(){var sliderSettings={animation:$(this).attr('data-transition'),selector:".slides > .slide",controlNav:true,smoothHeight:true};var sliderNav=$(this).attr('data-slidernav');if(sliderNav!='auto'){sliderSettings=$.extend({},sliderSettings,{manualControls:sliderNav+' li a',controlsContainer:'.flexslider-wrapper'});}
-$(this).flexslider(sliderSettings);});var $filters=$('#quicksand-categories');var $filterType=$filters.find('li.active a').attr('class');var $holder=$('ul#quicksand');var $data=$holder.clone();$filters.find('li a').click(function(e){$filters.find('li').removeClass('active');var $filterType=$(this).attr('class');$(this).parent().addClass('active');if($filterType=='all'){var $filteredData=$data.find('li');}
-else{var $filteredData=$data.find('li[data-type='+$filterType+']');}
-$holder.quicksand($filteredData,{duration:800,});e.preventDefault();});});
-//]]></script>
+<script src="/js/script.js"></script>
    
 <script type="text/javascript">
 /* <![CDATA[ */
