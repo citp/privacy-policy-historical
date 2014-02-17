@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowiwantthis.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217072344id_/http%3A//wowiwantthis.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowiwantthis.com privacy policy that was archived on 2014-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140217062247id_/http%3A//www.wowiwantthis.com/privacy-policy.php) for the most accurate reproduction.*
 
 # WOW, I want this!
 
