@@ -1,24 +1,22 @@
-> *The following text is extracted and transformed from the 247broadstreet.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813133745id_/http%3A//247broadstreet.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247broadstreet.com privacy policy that was archived on 2014-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140218022100id_/http%3A//247broadstreet.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Nigerian stock market
 
-**  Acknowledgement and acceptance of terms**
+**Website Privacy Statement**
 
-247Broadstreet.com  is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the 
+**  ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS**
 
-information
+247Broadstreet.com  is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the informationwe collect when you or your computer interact with our website.   By accessing 247 Broadstreet, you acknowledge and fully understand 247Broadstreet.com Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
-we collect when you or your computer interact with our website.   By accessing 247 Broadstreet, you acknowledge and fully understand 247Broadstreet.com Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
-
-**Participating Merchant Policies**
+**PARTICIPATING MERCHANT POLICIES**
 
 Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in 247broadstreet services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy.  However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites.  We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
 
-**  Information We Collect and How We Use It**
+**  INFORMATION WE COLLECT AND HOW WE USE IT**
 
 247 BroadStreet.com collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
 
-a.       **Web Server Logs**.
+a.        **Web Server Logs**.
 
 When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
 
@@ -43,9 +41,9 @@ When you visit our Website, we may track information to administer the site and 
 
 **b. Use of Cookies**
 
-247 Broadstreet.com. may use cookies to personalize or enhance your user experience.  A cookie is a small text file that is placed on your hard disk by a Web page server.  Cookies cannot be used to run programs or deliver viruses to your computer.  Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. 
+247 Broadstreet.com. may use cookies to personalize or enhance your user experience.  A cookie is a small text file that is placed on your hard disk by a Web page server.  Cookies cannot be used to run programs or deliver viruses to your computer.  Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time.  For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits.  Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.. 
+One of the primary purposes of cookies is to provide a convenience feature to save you time.  For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits.  Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality..
 
 247 Broadstreet.com reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary.
 
@@ -56,32 +54,24 @@ You have the ability to accept or decline cookies.  Most Web browsers automatic
 
 
 
-Visitors to our website can register to purchase services.  When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information.  If you are purchasing a service, we will request financial information.  Any financial information we collect is used only to bill you for the services you purchased.  If you purchase by 
-
-credit
-
-card, this information may be forwarded to your 
-
-credit card
-
-provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
+Visitors to our website can register to purchase services.  When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information.  If you are purchasing a service, we will request financial information.  Any financial information we collect is used only to bill you for the services you purchased.  If you purchase by credit card, this information may be forwarded to yourcredit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
 
 We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
 
-§         To fulfill your service requests for services.
+§         To fulfill your service requests for services.
 
-§         To protect ourselves from liability,
+§         To protect ourselves from liability,
 
-§         To respond to legal process or comply with law, or
+§         To respond to legal process or comply with law, or
 
-§         In connection with a merger, acquisition, or liquidation of the company.
+§         In connection with a merger, acquisition, or liquidation of the company.
 
-**Use of Web Beacons or GIF files**
+**USE OF WEB BEACONS OR GIF FILES**
 
 247 Broadstreet.com Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow 247broadstreet.com  to count users who have visited those pages and to deliver co-branded services. 247 Broadstreet.com. may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
 
 Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications.  These Web beacons may be used by these service providers to place a cookie on your computer.  This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. 247 Broadstreet.com  prohibits web beacons from being used to collect or access your personal information.
 
-**Changes to this Statement**
+**CHANGES TO THIS STATEMENT**
 
 247 Broadstreet has the discretion to occasionally update this privacy statement. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect.  Your continued use of the service constitutes your agreement to this privacy statement and any updates.
