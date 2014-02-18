@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the siberianhealth.com privacy policy that was archived on 2013-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131207211621id_/http%3A//siberianhealth.com/index.php%3Froute%3Dinformation/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the siberianhealth.com privacy policy that was archived on 2014-02-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140218063231id_/http%3A//siberianhealth.com/index.php%3Froute%3Dinformation/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en"><head>
 <title>Privacy Policy</title>
@@ -82,6 +82,7 @@
 		$(".autoshipping_date").datepicker({
 			showAnim: 'slideDown',
 			dateFormat: 'yy-mm-dd',
+			minDate: 1,
 			changeMonth: true,
 			changeYear: true,
 			beforeShow: function(input, inst){
@@ -172,7 +173,7 @@
 			dataType: 'json',
 			data: {password: $('#password').val(), email: $('#email').val()},
 			type: 'POST',
-			success: function(data){console.log(data);
+			success: function(data){
 				if (data.error == "true")
 				{
 					if(data.exist == "true" ){
@@ -192,7 +193,7 @@
 	}
 	
 	$(document).ready(function(){
-		
+			
 				
 				
 		$("#popup-oldie-close").click(function (){
@@ -210,6 +211,11 @@
 		
 		$("#popup-success-close").click(function (){
 		   $('.popup-success').css("display","none");
+		   return false;
+		});
+		
+		$("#popup-autoshipping-cancel-close").click(function (){
+		   $('.popup-autoshipping-cancel').css("display","none");
 		   return false;
 		});
 		
@@ -530,18 +536,18 @@
 				<nav id="menu">
 	<ul class="dropdown dropdown-horizontal">
 					<li>
-			<a class="no-dir" href="http://siberianhealth.com/Skincare">Skincare</a>
+			<a class="no-dir" href="http://siberianhealth.com/skincare">Skincare</a>
 									<div class="sub" style="height:100px">
 						<ul>
-															<li><a href="http://siberianhealth.com/Skincare/Anti-Aging">Anti-Aging</a></li>
-																								<li><a href="http://siberianhealth.com/Skincare/Beauty">Beauty</a></li>
-																								<li><a href="http://siberianhealth.com/Skincare/Cleanser">Cleanser</a></li>
-																								<li><a href="http://siberianhealth.com/Skincare/Masks">Masks</a></li>
+															<li><a href="http://siberianhealth.com/skincare/anti-aging">Anti-Aging</a></li>
+																								<li><a href="http://siberianhealth.com/skincare/beauty">Beauty</a></li>
+																								<li><a href="http://siberianhealth.com/skincare/cleanser">Cleanser</a></li>
+																								<li><a href="http://siberianhealth.com/skincare/hair-masks">Masks</a></li>
 															</ul>
                     	<ul>
-																								<li><a href="http://siberianhealth.com/Skincare/Moisturizing">Moisturizing</a></li>
-																								<li><a href="http://siberianhealth.com/Skincare/Serum">Serum</a></li>
-																								<li><a href="http://siberianhealth.com/Skincare/Tonic">Tonic</a></li>
+																								<li><a href="http://siberianhealth.com/skincare/moisturizing">Moisturizing</a></li>
+																								<li><a href="http://siberianhealth.com/skincare/Serum">Serum</a></li>
+																								<li><a href="http://siberianhealth.com/skincare/Tonic">Tonic</a></li>
 																						</ul>
 					</div>
 							</li>
@@ -570,7 +576,7 @@
 						<ul>
 															<li><a href="http://siberianhealth.com/hair_care/Anti-Dandruff">Anti-Dandruff</a></li>
 																								<li><a href="http://siberianhealth.com/hair_care/Conditioner">Conditioner</a></li>
-																								<li><a href="http://siberianhealth.com/hair_care/Masks">Masks</a></li>
+																								<li><a href="http://siberianhealth.com/hair_care/masks">Masks</a></li>
 															</ul>
                     	<ul>
 																								<li><a href="http://siberianhealth.com/hair_care/Scalp">Scalp</a></li>
@@ -822,20 +828,6 @@
 			</div>
 </div>
 
-<div class="popup-cart_is_empty">
-	<div class="forgot-close">
-		<a id="popup-cart_is_empty-close" href="#"></a>
-	</div>
-	<div class="forgot-caption-block">
-		<div class="forgot-caption"><span>Oops!!!</span></div>
-		<!--<div class="clr"></div>-->
-	</div>
-	<div class="forgot-txt">
-		<span>Your Shopping cart is currently empty.</span><br>
-		<span>If you are trying to retrieve a basket created in the past,<br>Please login.</span>
-	</div>
-</div>
-
 <div class="popup-login">
 	<form id="login" enctype="multipart/form-data" method="post" onsubmit="loginSubmit(); return false;">
 	<div class="forgot" style="background:#fff; display:block; position:relative; z-index:900 !important;">
@@ -922,14 +914,14 @@ please try again </span>
 					<div class="top_part">
 						<div class="left_part">
 							<div class="pay">
-								<span id="mas" href="#">&nbsp;</span>
+								<!--<span id="mas" href="#">&nbsp;</span>-->
 								<span id="x3" href="#">&nbsp;</span>
 								<span id="ups" href="#">&nbsp;</span>
 								<span id="sl" href="#">&nbsp;</span>
 								<span id="mc" href="#">&nbsp;</span>
 								<span id="visa" href="#">&nbsp;</span>
-								<span id="pp" href="#">&nbsp;</span>
-								<span id="uk" href="#">&nbsp;</span>
+								<!--<span id="pp" href="#">&nbsp;</span>-->
+								<!--<span id="uk" href="#">&nbsp;</span>-->
 							</div>
 							
 							<div class="signUp">
@@ -961,7 +953,7 @@ please try again </span>
 									<li><a href="/index.php?route=information/information&amp;information_id=10">Shop by Ingredients</a></li>
                                     <li><a href="/index.php?route=information/onlinecatalog">Online Catalogs</a></li>
 									<li><a href="/index.php?route=information/help">Help</a></li>
-                                    <li><a href="/blog">Blog</a></li>
+                                    <li><a href="/index.php?route=information/returnpolicy">Return Policy</a></li>
 								</ul>
 							</div>
 							
@@ -989,7 +981,7 @@ please try again </span>
 					<div class="bottom_part">
 						<p>The information provided on this site is intended for your general knowledge only and is not a substitute for professional medical advice or treatment for specific medical conditions. Always seek the advice of your physician or other qualified health care provider with any questions you may have regarding a medical condition. The information on this website is not intended to diagnose, treat, cure or prevent any disease. Never disregard medical advice or delay in seeking it because of something you have read on the Siberian Health International site.</p>
 						
-						<p style="text-transform: uppercase; font-size: 12px; padding: 10px 0px 0px 0px;">© 2013 Siberian Health International, LLC | All rights reserved</p>
+						<p style="text-transform: uppercase; font-size: 12px; padding: 10px 0px 0px 0px;">© 2014 Siberian Health International, LLC | All rights reserved</p>
 					</div>
 					
 					<div id="id">
