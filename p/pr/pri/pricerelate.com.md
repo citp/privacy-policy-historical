@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricerelate.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217102412id_/http%3A//www.pricerelate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricerelate.com privacy policy that was archived on 2014-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140218071941id_/http%3A//www.pricerelate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Price Relate | Find Deals, Compare Prices, Read Reviews; Save Money
 
