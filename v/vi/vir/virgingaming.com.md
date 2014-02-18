@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virgingaming.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203014501id_/http%3A//virgingaming.com/web/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virgingaming.com privacy policy that was archived on 2014-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140218220309id_/http%3A//www.virgingaming.com/web/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Virgin Gaming
 
