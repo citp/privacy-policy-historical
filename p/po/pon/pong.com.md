@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pong.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124180952id_/http%3A//www.pong.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pong.com privacy policy that was archived on 2014-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140218033431id_/http%3A//www.pong.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Pong | Play Online Network Games
 
