@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the utubevideotube.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127043102id_/http%3A//tubecashcow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utubevideotube.com privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219001629id_/http%3A//tubecashcow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - How To Make Money From Youtube And Other Tube Sites
+# Privacy Policy - My CMS
 
 [](http://tubecashcow.com/wp-content/uploads/2013/05/logo.jpg)
 
