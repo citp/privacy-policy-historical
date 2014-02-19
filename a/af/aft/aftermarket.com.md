@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aftermarket.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818163809id_/http%3A//www.aftermarket.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aftermarket.com privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219083915id_/http%3A//www.aftermarket.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | We Respect Your Privacy | Aftermarket.com
 
-Effective Date: 05/10/2012
+Effective Date: 12/20/2013
 
 Aftermarket, Inc. ("us," "we," or "Aftermarket") is committed to respecting the privacy rights of its users of or visitors to the domain, sub-domains, and affiliated domains of www. Aftermarket.com (collectively, the "Site") and/or utilizing Aftermarket's domain marketplace services (the "Services"). We created this Aftermarket Privacy Policy ("Privacy Policy") to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. 
 
@@ -10,7 +10,7 @@ Aftermarket, Inc. has been awarded TRUSTe's Privacy Seal signifying that this pr
 
 TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@aftermarket.com](mailto:support@aftermarket.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
-Aftermarket complies with the U.S. - E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the from European Union member countries. Aftermarket has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Aftermarket's certification, please visit <http://www.export.gov/safeharbor/>
+Aftermarket complies with the U.S. - E.U. Safe Harbor and the U.S. - Swiss Safe Harbor Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the from European Union member countries and Switzerland respectively. Aftermarket has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Aftermarket's certification, please visit <http://www.export.gov/safeharbor/>
 
 **Section 1. Information Collection Practices.**
 
