@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the irely.in privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214120815id_/http%3A//www.irely.in/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irely.in privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219013401id_/http%3A//www.irely.in/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Policy iRely.in
+# Privacy Policy - Buy Now at Best Price
 
 Privacy Policy  
 This document is an electronic record in terms of Information Technology Act, 2000 and rules there under as applicable and the amended provisions pertaining to electronic records in various statutes as amended by the Information Technology Act, 2000. This electronic record is generated by a computer system and does not require any physical or digital signatures.  
