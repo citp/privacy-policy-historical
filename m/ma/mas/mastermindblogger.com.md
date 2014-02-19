@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mastermindblogger.com privacy policy that was archived on 2013-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130904233448id_/http%3A//www.mastermindblogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastermindblogger.com privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219075746id_/http%3A//www.mastermindblogger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
