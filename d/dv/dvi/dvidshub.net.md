@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvidshub.net privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014065018id_/http%3A//dvidshub.net/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvidshub.net privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219220930id_/http%3A//www.dvidshub.net/about/privacy) for the most accurate reproduction.*
 
 # DVIDS - Privacy Policy
 
