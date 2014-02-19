@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickvideomarketing.com privacy policy that was archived on 2012-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120123104732id_/http%3A//www.quickvideomarketing.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickvideomarketing.com privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219043540id_/http%3A//www.quickvideomarketing.com/privacy.html) for the most accurate reproduction.*
 
 # Quick Video Marketing
 
