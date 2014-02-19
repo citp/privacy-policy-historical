@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footsmart.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217210919id_/http%3A//www.footsmart.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footsmart.com privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219172638id_/http%3A//www.footsmart.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,9 +32,9 @@ We may also use cookies to track and maintain the identity of the website you vi
 
 Most browsers automatically accept cookies, but you may refuse cookies by turning them off in your browser. **If you turn off cookies, some parts of the website may not work properly. We will not be able to track your order or enable you to make a purchase from our website.** We will also not be able to recognize you as a registered user and allow you to access your account information.
 
-We periodically send email to our customers to help keep you informed of new products, features and/or special promotions. In every email that we distribute, we include instructions on how to remove [unsubscribe] your email address from the distribution list or you may simply email us with our [Customer Service Contact Form](https://web.archive.org/web/20131217210919id_/http%3A//www.footsmart.com/ContactUs.aspx) and request to be removed from the mailing list.
+We periodically send email to our customers to help keep you informed of new products, features and/or special promotions. In every email that we distribute, we include instructions on how to remove [unsubscribe] your email address from the distribution list or you may simply email us with our [Customer Service Contact Form](https://web.archive.org/web/20140219172638id_/http%3A//www.footsmart.com/ContactUs.aspx) and request to be removed from the mailing list.
 
-In addition to shopping on our website, we distribute a full-product catalog. We send these catalogs throughout the year to our registered users and customers. If you would like to receive the most current catalog, go to: [Catalog Request](https://web.archive.org/web/20131217210919id_/http%3A//www.footsmart.com/CatalogRequest.aspx). If you no longer wish to receive our catalog, please email us with our [Customer Service Contact Form](https://web.archive.org/web/20131217210919id_/http%3A//www.footsmart.com/ContactUs.aspx).
+In addition to shopping on our website, we distribute a full-product catalog. We send these catalogs throughout the year to our registered users and customers. If you would like to receive the most current catalog, go to: [Catalog Request](https://web.archive.org/web/20140219172638id_/http%3A//www.footsmart.com/CatalogRequest.aspx). If you no longer wish to receive our catalog, please email us with our [Customer Service Contact Form](https://web.archive.org/web/20140219172638id_/http%3A//www.footsmart.com/ContactUs.aspx).
 
 If you need to make any changes to your personally stored information, it is possible to update your name, billing address, shipping address, phone number, email address and stored credit card number by clicking on "Access Your Account" or during checkout, when you modify your account information.
 
