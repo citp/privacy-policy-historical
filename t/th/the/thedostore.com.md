@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedostore.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121061428id_/http%3A//www.thedostore.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedostore.com privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219014033id_/http%3A//www.thedostore.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Lenovo : Privacy policy | Lenovo India | The DO Store
 
