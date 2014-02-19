@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yalwa.in privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817063508id_/http%3A//www.yalwa.in/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yalwa.in privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219120000id_/http%3A//www.yalwa.in/info/privacy) for the most accurate reproduction.*
 
 # Yalwa Info pages
 
