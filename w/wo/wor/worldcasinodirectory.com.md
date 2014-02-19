@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldcasinodirectory.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205083755id_/http%3A//www.worldcasinodirectory.com/wcdprivpol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcasinodirectory.com privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219013938id_/http%3A//www.worldcasinodirectory.com/wcdprivpol.htm) for the most accurate reproduction.*
 
 # Privacy Policy : World Casino Directory
 
