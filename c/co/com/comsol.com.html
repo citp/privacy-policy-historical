@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the comsol.com privacy policy that was archived on 2013-08-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130811043710id_/http%3A//comsol.com/company/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the comsol.com privacy policy that was archived on 2014-02-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140219030856id_/http%3A//www.comsol.com/company/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" slick-uniqueid="3"><head>
 	<title>Online Privacy Policy</title>
@@ -14,15 +14,13 @@
 
 									
 									
-	<link href="/shared/css/design/text-1375458453.css,layout-1375458453.css,element-1375479280.css,form-1325689563.css" media="screen" rel="stylesheet" type="text/css">
-<link href="/shared/css/productsuite-1357199309.css,modal-1363251430.css" media="screen" rel="stylesheet" type="text/css">
-<link href="/shared/css/design/redesign-1375458453.css" media="screen" rel="stylesheet" type="text/css">	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/shared/js/mootools/mootools-core-1.4.5-1375466468.js,mootools-more-1.4.0.1-1375466468.js"></script>
-<script type="text/javascript" src="/shared/js/flashobject-1375466468.js,general-1375466468.js,h5f.min-1375466468.js"></script>		
+	<link href="/shared/css/design/text-1381823996.css,layout-1381823996.css,element-1386775096.css,form-1381823996.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/shared/css/productsuite-1381823996.css,modal-1381823996.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/shared/css/design/redesign-1389884656.css" media="screen" rel="stylesheet" type="text/css">	<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/shared/js/mootools/mootools-core-1.4.5-1390934715.js,mootools-more-1.4.0.1-1390934715.js"></script>
+<script type="text/javascript" src="/shared/js/flashobject-1390934715.js,general-1390934715.js,h5f.min-1390934715.js"></script>		
 	<script type="text/javascript" src="//use.typekit.net/fis6bii.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
-	<script type="text/javascript" src="//use.typekit.net/seb5nap.js"></script>
-	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
 		<link rel="alternate" type="application/rss+xml" href="/rss/feeds/general.rss" title="COMSOL Blog">
 	<link rel="alternate" type="application/rss+xml" href="/rss/feeds/exchange.rss" title="COMSOL Exchange">
@@ -33,25 +31,33 @@
 	<link rel="shortcut icon" href="/shared/images/icons/favicon.ico">
 
 <script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-828192-1']);
-_gaq.push(['_setDomainName', 'www.comsol.com']);
-_gaq.push(['_trackPageLoadTime']);
-if (user = Cookie.read('access_email')) {
-	_gaq.push(['_setCustomVar', 1, 'Member', user, 3]);
+
+var isComsolVisitor = document.cookie.match('isComsolVisitor=true');
+if (isComsolVisitor) {
+	var _gaq = {push: function (p) { try {console.log('faux gaq: ', p);} catch (e) {} }}
+} else {
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-828192-1']);
+	_gaq.push(['_setDomainName', 'www.comsol.com']);
+	_gaq.push(['_trackPageLoadTime']);
+	if (user = Cookie.read('access_email')) {
+		_gaq.push(['_setCustomVar', 1, 'Member', user, 3]);
+	}
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
 }
-_gaq.push(['_trackPageview']);
-
-(function() {
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-
 </script>
 <style type="text/css">
 @media print {
-	.noPrint {display: none;}
+    .hidden-print, .hidden-print * {
+            display: none !important;
+        }
+    .noPrint {display: none;}
 }
 </style>
 
@@ -62,11 +68,11 @@ _gaq.push(['_trackPageview']);
 
 
 	<!--googleoff: index-->	<div id="pageHeaderContainer" class="noPrint">
-								
+					
 								</div>
-	
+
 	<div class="container">
-		<div id="pageHeader">
+		<div id="pageHeader" class="hidden-print">
 			<!-- NAVBAR
 ================================================== -->
 <nav class="navbar-wrapper">
@@ -76,44 +82,68 @@ _gaq.push(['_trackPageview']);
 
 
 				<div class="navbar brand" style="padding-top: 6px;">
-				    <a href="/"><img src="/images/logo-color-150x13.png" alt="COMSOL"></a>
+				    <a href="/"><img src="http://static.comsol.com/ui/logo-color-150x13.png" alt="COMSOL"></a>
 				</div>
-				
+
 
 				<div>
-					<ul class="nav" style="font-weight: 600;">
-						<li class="newSiteNav"><a href="/products" class=" nav-link ">Products</a></li>
-						<li class="newSiteNav"><a href="/events/?type[]=event" class=" nav-link ">Workshops</a></li>
-						<li class="newSiteNav"><a href="/support" class=" nav-link ">Support</a></li>
-						<li class="newSiteNav"><a href="/contact" class=" nav-link ">Contact</a></li>	
-					</ul>
-				</div>
-				
+											<ul class="nav" style="font-weight: 600;">
+							<li class="newSiteNav"><a href="/products" class=" nav-link ">Products</a></li>
+							<li class="newSiteNav"><a href="/events/?type[]=event" class=" nav-link ">Workshops</a></li>
+							<li class="newSiteNav"><a href="/events/webinars" class=" nav-link ">Webinars</a></li>
+							<li class="newSiteNav"><a href="/support" class=" nav-link ">Support</a></li>
+							<li class="newSiteNav"><a href="/contact" class=" nav-link ">Contact</a></li>
+						</ul>
+									</div>
+
                 <form class="form-search navbar-search pull-right" action="/search/">
                     <div class="input-append">
-                        <input type="text" class="span2 search-query" value="" name="s">
+                        <input type="text" class="span2 search-query gaqSearch" gaq-name="topNavDesktop" placeholder="Search all of comsol.com" value="" name="s">
                         <input type="submit" value="Search" class="btn">
                     </div>
                 </form>
-				
+
 
 		</div><!-- /.navbar -->
 	</div><!-- /.container -->
-</nav><!-- /.navbar-wrapper -->		</div>
+</nav><!-- /.navbar-wrapper -->
+
+<style>
+.fixNewNav {
+	margin-bottom: 0;
+	padding: 0px 14px;
+	height: 20px;
+	font-family: "myriad-pro", Arial, sans-serif;
+	font-size: 13px;
+	font-weight: normal;
+	line-height: 1;
+	}
+</style>		</div>
+	</div>
+
+	<div class="container">
+		<div class="row" style="margin-left: 0px;">
+		<div class="doublespacer"></div>
+							<div id="pageheading">
+					<div class="breadcrumbMenu">
+<a href="#">Company</a> <a href="/contact/">&gt; Contact Us</a> </div>					<!--googleon: index-->					<h1>Online Privacy Policy</h1>
+					<!--googleoff: index-->				</div>
+					</div>
 	</div>
 
 
 
+<div class="container">
+	<div class="spacer"></div>
+
+	<div id="pageContainer">
 
 
-<div id="pageContainer">
-	
+		
+			<div class="sidebar">
 
-	
-		<div class="sidebar">
-
-			
-					<div class="colorbox">
+				
+						<div class="colorbox">
 		<h2 class="turquoise">Company</h2>
 		<div class="content">
 											<ul class="links">
@@ -133,354 +163,377 @@ _gaq.push(['_trackPageview']);
 					</div>
 	</div>
 
-			
-											
-		</div>
+				
+				
+			</div>
 
-	
-<div class="container">
-	<div class="spacer visible-desktop"></div>
-	
-			<div id="pageheading">
-			<div class="breadcrumbMenu">
-<a href="#">Company</a> <a href="/contact/">&gt; Contact Us</a> </div>			<!--googleon: index-->			<h1>Online Privacy Policy</h1>
-			<!--googleoff: index-->		</div>
 		
-	<div id="mainContent" class="">
-		<!--/noindex-->		<!--googleon: index-->		<!-- searchable -->		
-		
-		
-<p>By accessing or using the www.comsol.com Web site, 
-you agree to the terms of the COMSOL AB Online Privacy Policy, as outlined below. 
-If you do not agree to these terms, please do not access or use this site.</p>
+
+
+			<div id="mainContent" class="">
+				<!--/noindex-->				<!--googleon: index-->				<!-- searchable -->
+
+				
+<p>By accessing or using the www.comsol.com Web site, you agree to the terms of the COMSOL AB Online Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this site.</p>
 
 <h2>Collection of Personal Information</h2>
-<p>When you engage in certain activities on this site, such as ordering information, 
-or signing up for courses and seminars, COMSOL AB may ask you to provide certain 
-information about yourself by filling out and submitting an online form. 
-It is completely optional for you to engage in these activities. If you 
-choose to engage in these activities, however, COMSOL AB may require that 
-you provide us personal information, such as your name, mailing address, 
-e-mail address, and other personal identifying information.</p>
-	    
-<p>When you submit personal information to COMSOL AB, you understand and 
-agree that COMSOL AB and its subsidiaries, affiliates and trusted vendors 
-may transfer, store, and process your customer profile in any of the countries 
-in which COMSOL AB and its affiliates maintain offices, including without 
-limitation, the United States.</p>
-	    
-<p>COMSOL AB collects this information in order to record and support your 
-participation in the activities you select. COMSOL AB also uses information 
-that you provide as part of our effort to keep you informed about product 
-upgrades, special offers, and other COMSOL AB products and services.</p>
+<p>When you engage in certain activities on this site, such as ordering information, or signing up for courses and seminars, COMSOL AB may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. If you choose to engage in these activities, however, COMSOL AB may require that you provide us personal information, such as your name, mailing address, e-mail address, and other personal identifying information.</p>
+<p>When you submit personal information to COMSOL AB, you understand and agree that COMSOL AB and its subsidiaries, affiliates and trusted vendors may transfer, store, and process your customer profile in any of the countries in which COMSOL AB and its affiliates maintain offices, including without limitation, the United States.</p>
+<p>COMSOL AB collects this information in order to record and support your participation in the activities you select. COMSOL AB also uses information that you provide as part of our effort to keep you informed about product upgrades, special offers, and other COMSOL AB products and services.</p>
+<p>COMSOL AB recognizes and appreciates the importance of responsible use of this information. If you do not want the information you provide to COMSOL AB to be used to inform you of other products and special offers from COMSOL AB, and you indicate this preference when you provide the information to COMSOL AB, COMSOL AB will honor your preference.</p>
+<p>This site uses tools, including Google Analytics Demographics and Interest Reports and MouseStats, to collect information about use of this site.  These tools do not reveal to us your name or other identifying information.  We do not combine the information collected through the use of these tools with personally identifiable information.  These tools may plant a cookie on your web browser.  A cookie is a small text file placed on your computer to collect standard Internet log information and web browsing activities.  The cookie will identify you as a unique user the next time you visit this site.  The cookie cannot be used by anyone else.  These tools collect information such as the IP address assigned to you when you visit this site; your web browser type; how often you visit this site; the amount of time you spend at this site on a visit; what sites you visited prior to visiting this site; your screen resolution; the pages of this site that you viewed; your activities on pages of the site, including clicking, scrolling, and mouse movement; demographic information, such as your age and gender, that are associated with your web browser based on sites you have previously visited; and information about your interests based on past web page visits associated with your web browser and third party company information associated with your cookie identifier.</p>
 
-<p>COMSOL AB recognizes and appreciates the importance of responsible use 
-of this information. If you do not want the information you provide to 
-COMSOL AB to be used to inform you of other products and special offers 
-from COMSOL AB, and you indicate this preference when you provide the 
-information to COMSOL AB, COMSOL AB will honor your preference.</p>
+<p>
+The providers of these tools are limited in their ability to use and share information they
+collect by their terms and privacy policies.  See http://www.google.com/analytics/learn/privacy.html;
+http://www.mousestats.com/sales/privacy.  You can prevent these tools from recognizing you on return
+visits to this site by disabling cookies on your browser.  For example, see Google Analytics’ Opt-out Browser
+Add-on, https://tools.google.com/dlpage/gaoptout/.  COMSOL AB and its subsidiaries and affiliates use the information
+they receive from these tools only to improve this site. We may share this information with third party contractors
+who help us analyze the information and improve the site.
+</p>
 
 <h2>Updating Your Personal Information</h2>
-<p>You have the right to access and correct your personal information and 
-privacy preferences. This may be accomplished by writing to COMSOL AB at:</p>
-	
-<p>
-COMSOL AB<br>
-Tegnérgatan 23<br>
-SE-111 40 Stockholm<br>
-SWEDEN</p>
 
-<p>Please include your e-mail address when you contact us.</p> 
-	
-<p>Please note that COMSOL AB is not responsible for the content or privacy 
-practices of non-COMSOL AB Web sites to which www.comsol.com or 
-any other COMSOL AB Web site may link.</p>		
-		
-		<!-- end searchable -->		<!--noindex-->		<!--googleoff: index-->	</div>
+<p>You have the right to access and correct your personal information and privacy preferences. This may be accomplished by writing to COMSOL AB at:</p>
+<br>
+COMSOL AB <br>
+Tegnérgatan 23 <br>
+SE-111 40 Stockholm <br>
+SWEDEN <br>
+<br>
+
+<p>Please include your e-mail address when you contact us.</p>
+<p>Please note that COMSOL AB is not responsible for the content or privacy practices of non-COMSOL AB Web
+sites to which www.comsol.com or any other COMSOL AB Web site may link.</p>
+
+
+				<!-- end searchable -->				<!--noindex-->				<!--googleoff: index-->			</div>
+	</div>
 </div>
 
 <div class="clearforaction"></div>
-
+<div class="hidden-print">
 
 <div class="darkBand"> <!-- Action Bar for Desktop -->
     <div class="container">
         <div class="row">
             <div class="span5">
-                <div class="actionButton actionPadding"><img src="/images/contact-sales19x18.png" alt="Contact Sales"><a href="/contact" class=" nav-link ">Contact Sales</a></div>
+                <a href="/contact" class=" nav-link "></a><div class="actionButton actionPadding"><a href="/contact" class=" nav-link "><img src="http://static.comsol.com/ui/contact-sales19x18.png" alt="Contact Sales">Contact Sales</a></div>
 
-                <div class="actionButton actionPadding"><img src="/images/try-hands-on26x18.png" alt="Try COMSOL Hands-on"><a href="/events/?type[]=event" class=" nav-link ">Try Hands-On</a></div>
+                <a href="/events/?type[]=event" class=" nav-link "></a><div class="actionButton actionPadding"><a href="/events/?type[]=event" class=" nav-link "><img src="http://static.comsol.com/ui/try-hands-on26x18.png" alt="Try COMSOL Hands-on">Try Hands-On</a></div>
             </div>
         </div>
     </div>
 </div><!-- /dark band -->
 
 <div class="doublespacer"></div>
-
-<div class="container visible-desktop"> <!-- Desktop Sitemap-->
+</div>
+<div class="hidden-print">
+    <div class="container visible-desktop hidden-print"> <!-- Desktop Sitemap-->
     <div class="navbar">
         <div class="row-fluid">
             <div class="smOne">
                 <ul class="nav nav-list siteMap">
-                    <li class="nav-header">Products</li>
+                    <li class="nav-header">Product Information</li>
                     <li><a href="/products" class=" nav-link ">Product Suite / Buying Guide</a></li>
-                    <li><a href="/shared/downloads/IntroductionToCOMSOLMultiphysics.pdf" class=" nav-link " target="_blank"> Introduction to COMSOL Multiphysics (PDF)</a></li>
 
                     <li class="spacerhalf"><a href="/products/specifications/" class=" nav-link ">Specification Chart</a></li>
                     <li><a href="/products/specifications/cad/" class=" nav-link ">CAD Specification Chart</a></li>
 
                     <li class="spacerhalf"><a href="/products/licensing/" class=" nav-link ">License Options</a></li>
-                    <li><a href="/products/requirements/" class=" nav-link ">System Requirements</a></li>
+                    <li><a href="/system-requirements/" class=" nav-link ">System Requirements</a></li>
                     <li><a href="/shared/downloads/sla.pdf" class=" nav-link " target="_blank">COMSOL Software License Agreement (PDF)</a></li>
 
+                    <li class="spacerhalf"><a href="/products/4.4/" class=" nav-link ">4.4 Release Highlights</a></li>
                 </ul>
             </div>
             <div class="smTwo">
                 <ul class="nav nav-list siteMap">
-                    <li class="nav-header">Models</li>
+                    <li class="nav-header">Examples and Galleries</li>
+                    <li><a href="/videos" class=" nav-link ">Video Gallery</a></li>
+                    <li><a href="/stories" class=" nav-link ">User Story Gallery</a></li>
                     <li><a href="/models" class=" nav-link ">Model Gallery</a></li>
-                    <li><a href="/community/exchange/" class=" nav-link ">Model Exchange</a></li>
+                    <li><a href="/papers-presentations" class=" nav-link ">Technical Papers and Presentations</a></li>
 
-                    <li class="spacerhalf nav-header">Company</li>
-                    <li><a href="/company/" class=" nav-link ">About COMSOL</a></li>
-                    <li><a href="/press/news/" class=" nav-link ">Press</a></li>
-                    <li><a href="/partners/" class=" nav-link ">Partners</a></li>
-                    <li><a href="/careers/" class=" nav-link ">Careers</a></li>
+                    <li class="spacerhalf nav-header">Resources</li>
+
+                    <li><a href="/zmags/comsol-news-2013" class=" nav-link ">COMSOL News Magazine</a></li>
+                    <li><a href="/zmags/multiphysics-simulation-2013" class=" nav-link ">Multiphysics Simulation Magazine</a></li>
+                    <li><a href="/shared/downloads/IntroductionToCOMSOLMultiphysics.pdf" class=" nav-link ">Introduction to COMSOL Multiphysics (PDF)</a></li>
+
+                    <li class="spacerhalf"><a href="/resources/" class=" nav-link ">View all Resources</a></li>
                 </ul>
             </div>
+
+
             <div class="smThree">
                 <ul class="nav nav-list siteMap">
-                    <li class="nav-header">Demonstrations and Events</li>
-                    <li><a href="/videos" class=" nav-link ">Video Center</a></li>
+                    <li class="nav-header">Events</li>
+
                     <li><a href="/events/?type[]=event" class=" nav-link ">Hands-On Workshops</a></li>
                     <li><a href="/events/webinars" class=" nav-link ">Webinars</a></li>
                     <li><a href="/events/?type[]=course" class=" nav-link ">Training Courses</a></li>
-
-                    <li class="spacerhalf"><a href="/conference/" class=" nav-link ">COMSOL Conference 2013</a></li>
-                    <li><a href="/events/" class=" nav-link ">Events Calendar</a></li>
+                    <li class="spacerhalf"><a href="/conference/" class=" nav-link ">COMSOL Conference 2014</a></li>
+                    <li class="spacerhalf"><a href="/events/" class=" nav-link ">Events Calendar</a></li>
                 </ul>
             </div>
             <div class="smFour">
                 <ul class="nav nav-list siteMap">
-                    <li class="nav-header">User Stories</li>
-                    <li><a href="/stories" class=" nav-link ">User Story Gallery</a></li>
-                    <li><a href="/offers/comsolnews13/" class=" nav-link ">COMSOL News</a></li>
-                    <li><a href="/offers/mphsim13/" class=" nav-link ">Multiphysics Simulation 2013</a></li>
-                </ul>
+                    <li class="nav-header">Company</li>
+                    <li><a href="/contact" class=" nav-link ">Contact</a></li>
+                    <li><a href="/company/" class=" nav-link ">About COMSOL</a></li>
+                    <li><a href="/press/news/" class=" nav-link ">Press</a></li>
+                    <li><a href="/company/careers/" class=" nav-link ">Careers</a></li>
 
-                <ul class="nav nav-list siteMap">
-                    <li class="spacerhalf nav-header">Resources</li>
+                    <li class="spacerhalf"><a href="/partners/" class=" nav-link ">Partners</a></li>
                     <li><a href="/company/consultants/" class=" nav-link ">Certified Consultants</a></li>
-                    <li><a href="/papers-presentations" class=" nav-link ">Technical Papers and Presentations</a></li>
-                    <li><a href="/offers/" class=" nav-link ">Additional Resources</a></li>
                 </ul>
             </div>
+
             <div class="smFive">
                 <ul class="nav nav-list siteMap">
                     <li class="nav-header">Support</li>
-                    <li><a href="/support/download/" class=" nav-link ">Product Download</a></li>
-                    <li><a href="/support" class=" nav-link ">Contact Support</a></li>
+
+                    <li><a href="/support" class=" nav-link ">Support Center</a></li>
+                    <li><a href="/support/cases/" class=" nav-link ">Your Open Support Cases</a></li>
                     <li><a href="/support/knowledgebase/browse/900/" class=" nav-link ">Knowledge Base</a></li>
 
-                    <li class="spacerhalf"><a href="/products/4.3b/" class=" nav-link ">4.3b Release Highlights</a></li>
+                    <li class="spacerhalf"><a href="/support/download/" class=" nav-link ">Product Download</a></li>
                     <li><a href="/support/updates/" class=" nav-link ">Product Updates</a></li>
-                    <li><a href="/support/releasenotes/" class=" nav-link ">Release Notes</a></li>
+                </ul>
 
-                    <li class="nav-header">Community</li>
-                    <li>
-                        <a href="/access/" class=" nav-link ">Log into COMSOL Access</a>                    </li>
+                <ul class="nav nav-list siteMap">
+                    <li class="spacerhalf nav-header">Community</li>
+                    <li><a href="/blogs" class=" nav-link ">COMSOL Blog</a></li>
                     <li><a href="/community/forums/" class=" nav-link ">Discussion Forum</a></li>
-                    <li><a href="/blog" class=" nav-link ">COMSOL Blog</a></li>
+                    <li><a href="/community/exchange/" class=" nav-link ">Model Exchange</a></li>
+
+                    <li class="spacerhalf">
+                        <a href="/access/" class=" nav-link ">COMSOL Access</a>                    </li>
                 </ul>
             </div>
+
         </div><!--/.row-fluid -->
     </div><!-- /.navbar -->
 </div><!-- /.container -->
 
-<div class="container visible-tablet"> <!-- Tablet Sitemap-->
+
+<div class="container visible-tablet hidden-print"> <!-- Tablet Sitemap-->
         <div class="navbar">
                     <div class="smCol">
                         <ul class="nav nav-list siteMap">
-                            <li class="nav-header">Products</li>
+                            <li class="nav-header">Product Information</li>
                             <li><a href="/products" class=" nav-link ">Product Suite / Buying Guide</a></li>
-                            <li><a href="/shared/downloads/IntroductionToCOMSOLMultiphysics.pdf" class=" nav-link " target="_blank"> Introduction to COMSOL Multiphysics (PDF)</a></li>
 
                             <li class="spacerhalf"><a href="/products/specifications/" class=" nav-link ">Specification Chart</a></li>
                             <li><a href="/products/specifications/cad/" class=" nav-link ">CAD Specification Chart</a></li>
 
                             <li class="spacerhalf"><a href="/products/licensing/" class=" nav-link ">License Options</a></li>
-                            <li><a href="/products/requirements/" class=" nav-link ">System Requirements</a></li>
+                            <li><a href="/system-requirements/" class=" nav-link ">System Requirements</a></li>
                             <li><a href="/shared/downloads/sla.pdf" class=" nav-link " target="_blank">COMSOL Software License Agreement (PDF)</a></li>
 
+                            <li class="spacerhalf"><a href="/products/4.3b/" class=" nav-link ">4.3b Release Highlights</a></li>
                         </ul>
-                        <ul class="nav nav-list siteMap">
-                            <li class="nav-header">Models</li>
-                            <li><a href="/models" class=" nav-link ">Model Gallery</a></li>
-                            <li><a href="/community/exchange/" class=" nav-link ">Model Exchange</a></li>
 
-                            <li class="spacerhalf nav-header">Company</li>
-                            <li><a href="/company/" class=" nav-link ">About COMSOL</a></li>
-                            <li><a href="/press/news/" class=" nav-link ">Press</a></li>
-                            <li><a href="/partners/" class=" nav-link ">Partners</a></li>
-                            <li><a href="/careers/" class=" nav-link ">Careers</a></li>
-                        </ul>
-                    </div>
-
-                    <div class="smCol">
                         <ul class="nav nav-list siteMap">
-                            <li class="nav-header">Demonstrations and Events</li>
-                            <li><a href="/videos" class=" nav-link ">Video Center</a></li>
+                            <li class="spacerhalf nav-header">Events</li>
+
                             <li><a href="/events/?type[]=event" class=" nav-link ">Hands-On Workshops</a></li>
                             <li><a href="/events/webinars" class=" nav-link ">Webinars</a></li>
                             <li><a href="/events/?type[]=course" class=" nav-link ">Training Courses</a></li>
-
-                            <li class="spacerhalf"><a href="/conference/" class=" nav-link ">COMSOL Conference 2013</a></li>
-                            <li><a href="/events/" class=" nav-link ">Events Calendar</a></li>
+                    		<li class="spacerhalf"><a href="/conference/" class=" nav-link ">COMSOL Conference 2014</a></li>
+                            <li class="spacerhalf"><a href="/events/" class=" nav-link ">Events Calendar</a></li>
                         </ul>
+                    </div>
+
+		            <div class="smTwo">
+		                <ul class="nav nav-list siteMap">
+		                    <li class="nav-header">Examples and Galleries</li>
+		                    <li><a href="/videos" class=" nav-link ">Video Gallery</a></li>
+		                    <li><a href="/stories" class=" nav-link ">User Story Gallery</a></li>
+		                    <li><a href="/models" class=" nav-link ">Model Gallery</a></li>
+		                    <li><a href="/papers-presentations" class=" nav-link ">Technical Papers and Presentations</a></li>
+
+		                    <li class="spacerhalf nav-header">Resources</li>
+
+		                    <li><a href="/zmags/comsol-news-2013" class=" nav-link ">COMSOL News Magazine</a></li>
+		                    <li><a href="/zmags/multiphysics-simulation-2013" class=" nav-link ">Multiphysics Simulation Magazine</a></li>
+		                    <li><a href="/shared/downloads/IntroductionToCOMSOLMultiphysics.pdf" class=" nav-link ">Introduction to COMSOL Multiphysics (PDF)</a></li>
+
+		                    <li class="spacerhalf"><a href="/resources/" class=" nav-link ">View all Resources</a></li>
+		                </ul>
 
                         <ul class="nav nav-list siteMap">
-                            <li class="nav-header spacerhalf">User Stories</li>
-                            <li><a href="/stories" class=" nav-link ">User Story Gallery</a></li>
-                            <li><a href="/offers/comsolnews13/" class=" nav-link ">COMSOL News</a></li>
-                            <li><a href="/offers/mphsim13/" class=" nav-link ">Multiphysics Simulation 2013</a></li>
-                        </ul>
+                            <li class="spacerhalf nav-header">Company</li>
+                            <li><a href="/contact" class=" nav-link ">Contact</a></li>
+                            <li><a href="/company/" class=" nav-link ">About COMSOL</a></li>
+                            <li><a href="/press/news/" class=" nav-link ">Press</a></li>
+                            <li><a href="/company/careers/" class=" nav-link ">Careers</a></li>
 
-                        <ul class="nav nav-list siteMap">
-                            <li class="spacerhalf nav-header">Resources</li>
+                            <li class="spacerhalf"><a href="/partners/" class=" nav-link ">Partners</a></li>
                             <li><a href="/company/consultants/" class=" nav-link ">Certified Consultants</a></li>
-                            <li><a href="/papers-presentations" class=" nav-link ">Technical Papers and Presentations</a></li>
-                            <li><a href="/offers/" class=" nav-link ">Additional Resources</a></li>
                         </ul>
                     </div>
 
                     <div class="smCol smlast">
                         <ul class="nav nav-list siteMap">
                             <li class="nav-header">Support</li>
-                            <li><a href="/support/download/" class=" nav-link ">Product Download</a></li>
-                            <li><a href="/support" class=" nav-link ">Contact Support</a></li>
+
+                            <li><a href="/support" class=" nav-link ">Support Center</a></li>
+                            <li><a href="/support/cases/" class=" nav-link ">Your Open Support Cases</a></li>
                             <li><a href="/support/knowledgebase/browse/900/" class=" nav-link ">Knowledge Base</a></li>
 
-                            <li class="spacerhalf"><a href="/products/4.3b/" class=" nav-link ">4.3b Release Highlights</a></li>
+                            <li class="spacerhalf"><a href="/support/download/" class=" nav-link ">Product Download</a></li>
                             <li><a href="/support/updates/" class=" nav-link ">Product Updates</a></li>
-                            <li><a href="/support/releasenotes/" class=" nav-link ">Release Notes</a></li>
+                        </ul>
 
-                            <li class="nav-header">Community</li>
-                            <li>
-                                <a href="/access/" class=" nav-link ">Log into COMSOL Access</a>                            </li>
+                        <ul class="nav nav-list siteMap">
+                            <li class="spacerhalf nav-header">Community</li>
+                            <li><a href="/blogs" class=" nav-link ">COMSOL Blog</a></li>
                             <li><a href="/community/forums/" class=" nav-link ">Discussion Forum</a></li>
-                            <li><a href="/blog" class=" nav-link ">COMSOL Blog</a></li>
+                            <li><a href="/community/exchange/" class=" nav-link ">Model Exchange</a></li>
+
+                            <li class="spacerhalf">
+                                <a href="/access/" class=" nav-link ">COMSOL Access</a>                            </li>
                         </ul>
                    </div>
         </div><!-- /.navbar -->
 </div><!-- /.container -->
 
 
-<div class="container visible-phone"> <!-- Phone Sitemap - see less for display under 460 -->
+<div class="container visible-phone hidden-print"> <!-- Phone Sitemap - see less for display under 460 -->
         <div class="navbar">
 
-                    <div class="smCol">
+                    <div class="span6">
                         <ul class="nav nav-list siteMap">
-                            <li class="nav-header">COMSOL Multiphysics</li>
-                            <li><a href="/products" class=" nav-link ">Product Suite / Buying Guide</a></li>
-                            <li><a href="/shared/downloads/IntroductionToCOMSOLMultiphysics.pdf" class=" nav-link " target="_blank"> Introduction to COMSOL Multiphysics (PDF)</a></li>
+                        	<li class="nav-header">Product Information</li>
+                        	<li><a href="/products" class=" nav-link ">Product Suite / Buying Guide</a></li>
 
-                            <li class="spacerhalf"><a href="/products/specifications/" class=" nav-link ">Specification Chart</a></li>
-                            <li><a href="/products/specifications/cad/" class=" nav-link ">CAD Specification Chart</a></li>
+                        	<li class="spacerhalf"><a href="/products/specifications/" class=" nav-link ">Specification Chart</a></li>
+                        	<li><a href="/products/specifications/cad/" class=" nav-link ">CAD Specification Chart</a></li>
 
-                            <li class="spacerhalf"><a href="/products/licensing/" class=" nav-link ">License Options</a></li>
-                            <li><a href="/products/requirements/" class=" nav-link ">System Requirements</a></li>
-                            <li><a href="/shared/downloads/sla.pdf" class=" nav-link " target="_blank">COMSOL Software License Agreement (PDF)</a></li>
+                        	<li class="spacerhalf"><a href="/products/licensing/" class=" nav-link ">License Options</a></li>
+                        	<li><a href="/system-requirements/" class=" nav-link ">System Requirements</a></li>
+                        	<li><a href="/shared/downloads/sla.pdf" class=" nav-link " target="_blank">COMSOL Software License Agreement (PDF)</a></li>
+
+                        	<li class="spacerhalf"><a href="/products/4.3b/" class=" nav-link ">4.3b Release Highlights</a></li>
+                        </ul>
+
+                        <div class="clear"></div>
 
 
-                            <li class="nav-header">Models</li>
-                            <li><a href="/models" class=" nav-link ">Model Gallery</a></li>
-                            <li><a href="/company/consultants/" class=" nav-link ">Certified Consultants</a></li>
-                            <li><a href="/community/exchange/" class=" nav-link ">Model Exchange</a></li>
+		                <ul class="nav nav-list siteMap">
+		                    <li class="spacerhalf nav-header">Examples and Galleries</li>
+		                    <li><a href="/videos" class=" nav-link ">Video Gallery</a></li>
+		                    <li><a href="/stories" class=" nav-link ">User Story Gallery</a></li>
+		                    <li><a href="/models" class=" nav-link ">Model Gallery</a></li>
+		                    <li><a href="/papers-presentations" class=" nav-link ">Technical Papers and Presentations</a></li>
 
-                            <li class="spacerhalf nav-header">Company</li>
-                            <li><a href="/company/" class=" nav-link ">About COMSOL</a></li>
-                            <li><a href="/press/news/" class=" nav-link ">Press</a></li>
-                            <li><a href="/partners/" class=" nav-link ">Partners</a></li>
-                            <li><a href="/careers/" class=" nav-link ">Careers</a></li>
+		                    <li class="spacerhalf nav-header">Resources</li>
 
-                            <li class="nav-header">Demonstrations and Events</li>
-                            <li><a href="/videos" class=" nav-link ">Video Center</a></li>
-                            <li><a href="/events/?type[]=event" class=" nav-link ">Hands-On Workshops</a></li>
-                            <li><a href="/events/webinars" class=" nav-link ">Webinars</a></li>
-                            <li><a href="/events/?type[]=course" class=" nav-link ">Training Courses</a></li>
+		                    <li><a href="/zmags/comsol-news-2013" class=" nav-link ">COMSOL News Magazine</a></li>
+		                    <li><a href="/zmags/multiphysics-simulation-2013" class=" nav-link ">Multiphysics Simulation Magazine</a></li>
+		                    <li><a href="/shared/downloads/IntroductionToCOMSOLMultiphysics.pdf" class=" nav-link ">Introduction to COMSOL Multiphysics (PDF)</a></li>
 
-                            <li class="spacerhalf"><a href="/conference/" class=" nav-link ">COMSOL Conference 2013</a></li>
-                            <li><a href="/events/" class=" nav-link ">Events Calendar</a></li>
+		                    <li class="spacerhalf"><a href="/resources/" class=" nav-link ">View all Resources</a></li>
+		                </ul>
+
+
+                        <div class="clear"></div>
+
+                        <ul class="nav nav-list siteMap">
+                        	<li class="spacerhalf nav-header">Events</li>
+
+                        	<li><a href="/events/?type[]=event" class=" nav-link ">Hands-On Workshops</a></li>
+                        	<li><a href="/events/webinars" class=" nav-link ">Webinars</a></li>
+                        	<li><a href="/events/?type[]=course" class=" nav-link ">Training Courses</a></li>
+                    		<li class="spacerhalf"><a href="/conference/" class=" nav-link ">COMSOL Conference 2014</a></li>
+                        	<li class="spacerhalf"><a href="/events/" class=" nav-link ">Events Calendar</a></li>
                         </ul>
                     </div>
 
-                    <div class="smCol smlast">
+                    <div class="clear"></div>
+
+                    <div class="span6">
                         <ul class="nav nav-list siteMap">
-                            <li class="nav-header spacerhalf">User Stories</li>
-                            <li><a href="/stories" class=" nav-link ">User Story Gallery</a></li>
-                            <li><a href="/offers/comsolnews13/" class=" nav-link ">COMSOL News</a></li>
-                            <li><a href="/offers/mphsim13/" class=" nav-link ">Multiphysics Simulation 2013</a></li>
+                        	<li class="spacerhalf nav-header">Company</li>
+                        	<li><a href="/contact" class=" nav-link ">Contact</a></li>
+                        	<li><a href="/company/" class=" nav-link ">About COMSOL</a></li>
+                        	<li><a href="/press/news/" class=" nav-link ">Press</a></li>
+                        	<li><a href="/company/careers/" class=" nav-link ">Careers</a></li>
 
-                            <li class="spacerhalf nav-header">Resources</li>
-                            <li><a href="/papers-presentations" class=" nav-link ">Technical Papers and Presentations</a></li>
-                            <li><a href="/offers/" class=" nav-link ">Additional Resources</a></li>
+                        	<li class="spacerhalf"><a href="/partners/" class=" nav-link ">Partners</a></li>
+                        	<li><a href="/company/consultants/" class=" nav-link ">Certified Consultants</a></li>
+                        </ul>
 
-                            <li class="nav-header">Support</li>
-                            <li><a href="/support/download/" class=" nav-link ">Product Download</a></li>
-                            <li><a href="/support" class=" nav-link ">Contact Support</a></li>
-                            <li><a href="/support/knowledgebase/browse/900/" class=" nav-link ">Knowledge Base</a></li>
+                        <div class="clear"></div>
 
-                            <li class="spacerhalf"><a href="/products/4.3b/" class=" nav-link ">4.3b Release Highlights</a></li>
-                            <li><a href="/support/updates/" class=" nav-link ">Product Updates</a></li>
-                            <li><a href="/support/releasenotes/" class=" nav-link ">Release Notes</a></li>
+                        <ul class="nav nav-list siteMap">
+                        	<li class="spacerhalf nav-header">Support</li>
 
-                            <li class="nav-header">Community</li>
-                            <li>
-                                <a href="/access/" class=" nav-link ">Log into COMSOL Access</a>                            </li>
-                            <li><a href="/community/forums/" class=" nav-link ">Discussion Forum</a></li>
-                            <li><a href="/blog" class=" nav-link ">COMSOL Blog</a></li>
+                        	<li><a href="/support" class=" nav-link ">Support Center</a></li>
+                        	<li><a href="/support/cases/" class=" nav-link ">Your Open Support Cases</a></li>
+                        	<li><a href="/support/knowledgebase/browse/900/" class=" nav-link ">Knowledge Base</a></li>
+
+                        	<li class="spacerhalf"><a href="/support/download/" class=" nav-link ">Product Download</a></li>
+                        	<li><a href="/support/updates/" class=" nav-link ">Product Updates</a></li>
+                        </ul>
+
+                        <div class="clear"></div>
+
+                        <ul class="nav nav-list siteMap">
+                        	<li class="spacerhalf nav-header">Community</li>
+                        	<li><a href="/blogs" class=" nav-link ">COMSOL Blog</a></li>
+                        	<li><a href="/community/forums/" class=" nav-link ">Discussion Forum</a></li>
+                        	<li><a href="/community/exchange/" class=" nav-link ">Model Exchange</a></li>
+
+                        	<li class="spacerhalf">
+                        		<a href="/access/" class=" nav-link ">COMSOL Access</a>                        	</li>
                         </ul>
                    </div>
-        </div><!-- /.navbar  -->
+        </div><!-- /.navbar -->
 </div><!-- /.container -->
 
-<div class="doublespacer"></div>
-<div class="container">
+<div class="doublespacer"></div></div>
+
+<div class="container hidden-print">
 	<div class="footer navbar hidden-phone">
         <div class="lineone">
-            <ul class="nav pull-left">
-                <li>
-                    <div class="dropup">
-                        <a class="dropdown-toggle" data-toggle="dropdown" href="#"><span class="lang-button"><i class="icon-map-marker icon-blue"></i></span> <span class="nav-link-color">North America</span></a>
-                        <ul class="dropdown-menu">
-                            <li><a href="http://www.comsol.asia/">Asia/Pacific</a></li>
-                            <li><a href="http://www.comsol.eu/">Europe</a></li>
-                            <li><a href="http://www.comsol.com/">North America</a></li>
-                            <li class="divider"></li>
-                            <li><a href="http://www.br.comsol.com/">Brazil</a></li>
-                            <li><a href="http://www.cn.comsol.com/">China</a></li>
-                            <li><a href="http://www.comsol.dk/">Denmark</a></li>
-                            <li><a href="http://www.comsol.fi/">Finland</a></li>
-                            <li><a href="http://www.comsol.fr/">France</a></li>
-                            <li><a href="http://www.comsol.de/">Germany</a></li>
-                            <li><a href="http://www.comsol.co.in/">India</a></li>
-                            <li><a href="http://www.comsol.it/">Italy</a></li>
-                            <li><a href="http://www.comsol.nl/">Netherlands</a></li>
-                            <li><a href="http://www.comsol.no/">Norway</a></li>
-                            <li><a href="http://www.comsol.pt/">Portugal</a></li>
-                            <li><a href="http://www.comsol.es/">Spain</a></li>
-                            <li><a href="http://www.comsol.se/">Sweden</a></li>
-                            <li><a href="http://www.ch.comsol.com/">Switzerland</a></li>
-                            <li><a href="http://www.uk.comsol.com/">United Kingdom</a></li>
-                        </ul>
-                    </div>
-                </li>
+            <ul class="nav nopinksquares pull-left">
+            	<li>
+	<div class="dropup">
+		<a class="dropdown-toggle" data-toggle="dropdown" href="#" id="oldsiteLocationLink"><span class="lang-button"><i class="icon-map-marker icon-blue"></i></span> <span class="nav-link-color">North America</span></a>
+		<ul class="dropdown-menu" id="oldsiteLocation">
+					<li><a href="http://www.comsol.asia/company/privacy/" rel="nofollow">Asia/Pacific</a></li>
+					<li><a href="http://www.comsol.eu/company/privacy/" rel="nofollow">Europe</a></li>
+					<li><a href="http://www.comsol.com/company/privacy/" rel="nofollow">North America</a></li>
+					<li class="divider"></li>
+					<li><a href="http://www.br.comsol.com/company/privacy/" rel="nofollow">Brazil</a></li>
+					<li><a href="http://www.cn.comsol.com/company/privacy/" rel="nofollow">China</a></li>
+					<li><a href="http://www.comsol.dk/company/privacy/" rel="nofollow">Denmark</a></li>
+					<li><a href="http://www.comsol.fi/company/privacy/" rel="nofollow">Finland</a></li>
+					<li><a href="http://www.comsol.fr/company/privacy/" rel="nofollow">France</a></li>
+					<li><a href="http://www.comsol.de/company/privacy/" rel="nofollow">Germany</a></li>
+					<li><a href="http://www.comsol.co.in/company/privacy/" rel="nofollow">India</a></li>
+					<li><a href="http://www.comsol.it/company/privacy/" rel="nofollow">Italy</a></li>
+					<li><a href="http://www.comsol.nl/company/privacy/" rel="nofollow">Netherlands</a></li>
+					<li><a href="http://www.comsol.no/company/privacy/" rel="nofollow">Norway</a></li>
+					<li><a href="http://www.comsol.pt/company/privacy/" rel="nofollow">Portugal</a></li>
+					<li><a href="http://www.comsol.es/company/privacy/" rel="nofollow">Spain</a></li>
+					<li><a href="http://www.comsol.se/company/privacy/" rel="nofollow">Sweden</a></li>
+					<li><a href="http://www.ch.comsol.com/company/privacy/" rel="nofollow">Switzerland</a></li>
+					<li><a href="http://www.uk.comsol.com/company/privacy/" rel="nofollow">United Kingdom</a></li>
+				</ul>
+</div></li>
             </ul>
+            <script>
+            </script>
             <div class="smallSocial pull-right">
-                <a href="http://www.comsol.com/blogs/" target="_blank"><img id="" src="http://cdn.jessicar.sndbx2.comsol.com/social/blog16x16.png" alt="Visit the Blog" class=""></a>
-                <a href="https://twitter.com/COMSOL_Inc" target="_blank"><img id="" src="http://cdn.jessicar.sndbx2.comsol.com/social/twitter16x16.png" alt="Folow us on Twitter" class=""></a>
-                                <a href="https://www.facebook.com/multiphysics" target="_blank"><img id="" src="http://cdn.jessicar.sndbx2.comsol.com/social/facebook16x16.png" alt="List us on Facebook" class=""></a>
-                <a href="https://plus.google.com/u/0/+comsol/posts" target="_blank"><img id="" src="http://cdn.jessicar.sndbx2.comsol.com/social/googleplus16x16.png" alt="Join us on Google+" class=""></a>
-                <a href="https://plus.google.com/u/0/+comsol/posts" target="_blank"><img id="" src="http://cdn.jessicar.sndbx2.comsol.com/social/rss16x16.png" alt="Subscribe to our RSS" class=""></a>
+                <a href="http://www.comsol.com/blogs/" target="_blank"><img id="" src="http://static.comsol.com/social/blog16x16.png" alt="Visit the Blog" class=""></a>
+                <a href="https://twitter.com/COMSOL_Inc" target="_blank"><img id="" src="http://static.comsol.com/social/twitter16x16.png" alt="Folow us on Twitter" class=""></a>
+                <a href="https://www.facebook.com/multiphysics" target="_blank"><img id="" src="http://static.comsol.com/social/facebook16x16.png" alt="List us on Facebook" class=""></a>
+                <a href="https://plus.google.com/u/0/+comsol/posts" target="_blank"><img id="" src="http://static.comsol.com/social/googleplus16x16.png" alt="Join us on Google+" class=""></a>
             </div>
 
             <div class="clear"></div>
@@ -488,16 +541,16 @@ any other COMSOL AB Web site may link.</p>
         <div class="clear"></div>
 
         <div class="linetwo">
-            <ul class="nav pull-right">
-                    <li>© 2013 by COMSOL Inc. All rights reserved</li>
+            <ul class="nav nopinksquares pull-right">
+                    <li>© 2014 by COMSOL Inc. All rights reserved</li>
                     <li>&nbsp;|&nbsp;</li>
                     <li><a href="/company/privacy/" class=" nav-link ">Privacy Policy</a></li>
                     <li><a href="/company/trademarks/" class=" nav-link ">Trademarks</a></li>
             </ul>
         </div>
         <div class="clear"></div>
-        
-            <div id="accessDetails" class="pull-right">
+
+            <div id="accessDetails">
 			<div id="accessLoggedIn" style="display: none;">
 			<ul>
 								<li><a href="/access/" class="accessName"></a> <a href="/access/" style="display: none;">My Account</a></li>
@@ -510,49 +563,48 @@ any other COMSOL AB Web site may link.</p>
 			</ul>
 		</div>
 			</div>
-        
+
     </div>
 
     <div class="footer navbar visible-phone">
-        <ul class="nav pull-left">
+        <ul class="nav nopinksquares pull-left">
             <li>
-                <div class="dropup">
-                    <a class="dropdown-toggle" data-toggle="dropdown" href="#"><span class="lang-button"><i class="icon-map-marker icon-blue"></i></span> <span class="nav-link-color">North America</span></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="http://www.comsol.asia/">Asia/Pacific</a></li>
-                        <li><a href="http://www.comsol.eu/">Europe</a></li>
-                        <li><a href="http://www.comsol.com/">North America</a></li>
-                        <li class="divider"></li>
-                        <li><a href="http://www.br.comsol.com/">Brazil</a></li>
-                        <li><a href="http://www.cn.comsol.com/">China</a></li>
-                        <li><a href="http://www.comsol.dk/">Denmark</a></li>
-                        <li><a href="http://www.comsol.fi/">Finland</a></li>
-                        <li><a href="http://www.comsol.fr/">France</a></li>
-                        <li><a href="http://www.comsol.de/">Germany</a></li>
-                        <li><a href="http://www.comsol.co.in/">India</a></li>
-                        <li><a href="http://www.comsol.it/">Italy</a></li>
-                        <li><a href="http://www.comsol.nl/">Netherlands</a></li>
-                        <li><a href="http://www.comsol.no/">Norway</a></li>
-                        <li><a href="http://www.comsol.pt/">Portugal</a></li>
-                        <li><a href="http://www.comsol.es/">Spain</a></li>
-                        <li><a href="http://www.comsol.se/">Sweden</a></li>
-                        <li><a href="http://www.ch.comsol.com/">Switzerland</a></li>
-                        <li><a href="http://www.uk.comsol.com/">United Kingdom</a></li>
-                    </ul>
-                </div>
-            </li>
+	<div class="dropup">
+		<a class="dropdown-toggle" data-toggle="dropdown" href="#" id="oldsiteLocationLink"><span class="lang-button"><i class="icon-map-marker icon-blue"></i></span> <span class="nav-link-color">North America</span></a>
+		<ul class="dropdown-menu" id="oldsiteLocation">
+					<li><a href="http://www.comsol.asia/company/privacy/" rel="nofollow">Asia/Pacific</a></li>
+					<li><a href="http://www.comsol.eu/company/privacy/" rel="nofollow">Europe</a></li>
+					<li><a href="http://www.comsol.com/company/privacy/" rel="nofollow">North America</a></li>
+					<li class="divider"></li>
+					<li><a href="http://www.br.comsol.com/company/privacy/" rel="nofollow">Brazil</a></li>
+					<li><a href="http://www.cn.comsol.com/company/privacy/" rel="nofollow">China</a></li>
+					<li><a href="http://www.comsol.dk/company/privacy/" rel="nofollow">Denmark</a></li>
+					<li><a href="http://www.comsol.fi/company/privacy/" rel="nofollow">Finland</a></li>
+					<li><a href="http://www.comsol.fr/company/privacy/" rel="nofollow">France</a></li>
+					<li><a href="http://www.comsol.de/company/privacy/" rel="nofollow">Germany</a></li>
+					<li><a href="http://www.comsol.co.in/company/privacy/" rel="nofollow">India</a></li>
+					<li><a href="http://www.comsol.it/company/privacy/" rel="nofollow">Italy</a></li>
+					<li><a href="http://www.comsol.nl/company/privacy/" rel="nofollow">Netherlands</a></li>
+					<li><a href="http://www.comsol.no/company/privacy/" rel="nofollow">Norway</a></li>
+					<li><a href="http://www.comsol.pt/company/privacy/" rel="nofollow">Portugal</a></li>
+					<li><a href="http://www.comsol.es/company/privacy/" rel="nofollow">Spain</a></li>
+					<li><a href="http://www.comsol.se/company/privacy/" rel="nofollow">Sweden</a></li>
+					<li><a href="http://www.ch.comsol.com/company/privacy/" rel="nofollow">Switzerland</a></li>
+					<li><a href="http://www.uk.comsol.com/company/privacy/" rel="nofollow">United Kingdom</a></li>
+				</ul>
+</div></li>
         </ul>
 
         <div class="clear spacer"></div>
 
         <div class="legal">
-            <ul class="nav">
-                <li>© 2013 by COMSOL Inc. All rights reserved</li>
+            <ul class="nopinksquares nav">
+                <li>© 2014 by COMSOL Inc. All rights reserved</li>
             </ul>
 
             <div class="clear"></div>
 
-            <ul class="nav">
+            <ul class="nopinksquares nav">
                 <li><a href="/company/privacy/" class=" nav-link ">Privacy Policy</a></li>
                 <li><a href="/company/trademarks/" class=" nav-link ">Trademarks</a></li>
             </ul>
@@ -561,15 +613,14 @@ any other COMSOL AB Web site may link.</p>
         <div class="clear"></div>
 
         <div class="smallSocial">
-            <a href="http://www.comsol.com/blogs/" target="_blank"><img id="" src="http://cdn.jessicar.sndbx2.comsol.com/social/blog16x16.png" alt="Visit the Blog" class=""></a>
-            <a href="https://twitter.com/COMSOL_Inc" target="_blank"><img id="" src="http://cdn.jessicar.sndbx2.comsol.com/social/twitter16x16.png" alt="Folow us on Twitter" class=""></a>
-                        <a href="https://www.facebook.com/multiphysics" target="_blank"><img id="" src="http://cdn.jessicar.sndbx2.comsol.com/social/facebook16x16.png" alt="List us on Facebook" class=""></a>
-            <a href="https://plus.google.com/u/0/+comsol/posts" target="_blank"><img id="" src="http://cdn.jessicar.sndbx2.comsol.com/social/googleplus16x16.png" alt="Join us on Google+" class=""></a>
-            <a href="https://plus.google.com/u/0/+comsol/posts" target="_blank"><img id="" src="http://cdn.jessicar.sndbx2.comsol.com/social/rss16x16.png" alt="Subscribe to our RSS" class=""></a>
+	        <a href="http://www.comsol.com/blogs/" target="_blank"><img id="" src="http://static.comsol.com/social/blog16x16.png" alt="Visit the Blog" class=""></a>
+            <a href="https://twitter.com/COMSOL_Inc" target="_blank"><img id="" src="http://static.comsol.com/social/twitter16x16.png" alt="Folow us on Twitter" class=""></a>
+            <a href="https://www.facebook.com/multiphysics" target="_blank"><img id="" src="http://static.comsol.com/social/facebook16x16.png" alt="List us on Facebook" class=""></a>
+            <a href="https://plus.google.com/u/0/+comsol/posts" target="_blank"><img id="" src="http://static.comsol.com/social/googleplus16x16.png" alt="Join us on Google+" class=""></a>
         </div>
         <div class="clear spacer"></div>
-        
-            <div id="accessDetails" class="pull-right">
+
+            <div id="accessDetails" class="pull-left">
 							<div id="accessLoggedIn">
 					<ul>
 												<li><a href="/access/" class="accessName"></a><a href="/access/" style="display: none;">My Account</a></li>
@@ -584,12 +635,12 @@ any other COMSOL AB Web site may link.</p>
 							</div>
 
     </div>
-    
 
-    
-    
-    
-</div>	
+
+
+
+
+</div>
 
 
 
@@ -613,4 +664,4 @@ any other COMSOL AB Web site may link.</p>
 
 
 
-</div></body></html>
+</body></html>
