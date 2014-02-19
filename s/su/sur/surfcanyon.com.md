@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfcanyon.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206223033id_/http%3A//www.surfcanyon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfcanyon.com privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219075408id_/http%3A//surfcanyon.com/privacy) for the most accurate reproduction.*
 
 # Surf Canyon Privacy Policy
 
@@ -70,7 +70,7 @@ The ads that we deliver to users may be provided by our advertising partners. We
 
 ## 4\. Security
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can send email us at [feedback@surfcanyon.com](mailto:feedback@surfcanyon.com?subject=feedback).
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us using [our contact page](https://web.archive.org/web/20140219075408id_/http%3A//surfcanyon.com/contact.jsp).
 
 ### 4.1 Business Transitions
 
@@ -86,4 +86,4 @@ Users who download a version of our application offered as part of the MyPersona
 
 ## 5\. Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at [feedback@surfcanyon.com](mailto:feedback@surfcanyon.com?subject=feedback).
+If you have any questions or suggestions regarding our privacy policy, please contact us using [our contact page](https://web.archive.org/web/20140219075408id_/http%3A//surfcanyon.com/contact.jsp).
