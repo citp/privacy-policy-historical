@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the halfords.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021160006id_/http%3A//www.halfords.com/webapp/wcs/stores/servlet/product_storeId_10001_catalogId_14552_productId_564653_langId_-1_categoryId_173017) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halfords.com privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219061534id_/http%3A//www.halfords.com/webapp/wcs/stores/servlet/product_storeId_10001_catalogId_14552_productId_564653_langId_-1_categoryId_173017) for the most accurate reproduction.*
 
 # Halfords Advice Centre | Privacy Policy | Customer Services
+
+## Policies & Regulations
+
+### Privacy Policy
+
+Halfords is registered under the Data Protection Act, so we are committed to protecting your privacy and have taken steps to explain this online. We use the information we collect to enhance and improve your experience of using our websites.
 
 ## Privacy Policy 
 
@@ -41,7 +47,7 @@ Halfords websites use cookies for several reasons:
 
 You can accept or decline cookies by modifying the settings in your browser. Please note that if you disable all cookies then you will not be able to access many parts of the Halfords websites or shop in our online stores.
 
-For more information on what cookies are, which cookies are used by Halfords and how to set your preferences, please read our [cookie policy.](http://www.stage.halfords.com/webapp/wcs/stores/servlet/product_storeId_10001_catalogId_14552_productId_890921_langId_-1_categoryId_173017#box-four "Cookie policy")
+For more information on what cookies are, which cookies are used by Halfords and how to set your preferences, please read our [cookie policy.](https://web.archive.org/webapp/wcs/stores/servlet/product_storeId_10001_catalogId_14552_productId_890921_langId_-1_categoryId_173017#box-four "Cookie policy")
 
 We use Coremetrics Web Analytics to anonymously collect data about your visits to our website which we use to improve how our website works. If you do not want this data about your visits to be collected you can Opt Out.
 
