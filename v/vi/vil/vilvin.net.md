@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the vilvin.net privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831231155id_/http%3A//www.vilvin.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vilvin.net privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219234954id_/http%3A//www.vilvin.net/EN/privacy_policy) for the most accurate reproduction.*
 
 # Vilvin.net - Privacy Policy
-
-**This website is owned and operated by Vilvin Software Solutions Private Limited (India) & Vilvin Technologies Inc (USA)**
 
 _Effective Date: May 01, 2013_
 
