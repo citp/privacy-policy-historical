@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the weblinks.org privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221144626id_/http%3A//www.webwhoiz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weblinks.org privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220004324id_/http%3A//www.webwhoiz.com/privacy.php) for the most accurate reproduction.*
 
 # WebWhoiz.com - #1 Domain Name WHOIS tool
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/web/20131221144626id_/http%3A//www.webwhoiz.com/contactus.php)
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/web/20140220004324id_/http%3A//www.webwhoiz.com/contactus.php)
 
 At WebWhoiz we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by WebWhoiz and how we use it. 
 
