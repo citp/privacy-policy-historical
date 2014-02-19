@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rescue.org privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231003524id_/http%3A//www.rescue.org/respecting-your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rescue.org privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219154847id_/http%3A//www.rescue.org/respecting-your-privacy) for the most accurate reproduction.*
 
 # Respecting Your Privacy - International Rescue Committee privacy policy | International Rescue Committee (IRC)
 
