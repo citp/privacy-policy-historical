@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalcamera-hq.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819045037id_/http%3A//www.digitalcamera-hq.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalcamera-hq.com privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219113026id_/http%3A//www.digitalcamera-hq.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Unbiased digital camera reviews, prices, and advice
 
