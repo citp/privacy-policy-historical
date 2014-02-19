@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainbell.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819040947id_/http%3A//www.brainbell.com/pages/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainbell.com privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219055102id_/http%3A//www.brainbell.com/pages/privacy_policy.html) for the most accurate reproduction.*
 
 # Free web development resources, web designing, graphics designing, tutorials, tips & articles
 
