@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmsite.org privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424204656id_/http%3A//www.filmsite.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmsite.org privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219030912id_/http%3A//www.filmsite.org/privacy.html) for the most accurate reproduction.*
 
 # Filmsite - AMC Privacy Policy
 
@@ -30,7 +30,7 @@ Certain third parties may join with us to offer Website activities or Services, 
 
     
 
-Additionally, while visiting the Website or utilizing the Services, you may link to or view, as part of a frame on a page, certain content that is actually created or hosted by a third party, or you may be introduced to, or be able to access, information, websites, advertisements, features, promotions, contests or sweepstakes offered by other parties. Also, the Website or Services may link to certain third parties who offer services on our behalf. Your interaction with these third party sites and/or services is subject to the third parties’ privacy policies. AMC is not responsible for and assumes no liability for the actions and policies of any third party business or entity. As such, you should review the applicable third party privacy policies prior to interacting with or providing your information to these third parties.
+Additionally, while visiting the Website or utilizing the Services, you may link to or view, as part of a frame on a page, certain content that is actually created or hosted by a third party, or you may be introduced to, or be able to access, information, websites, advertisements, features, promotions, contests or sweepstakes offered by other parties. Also, the Website or Services may link to certain third parties who offer services on our behalf. Your interaction with these third party sites and/or services is subject to the third parties� privacy policies. AMC is not responsible for and assumes no liability for the actions and policies of any third party business or entity. As such, you should review the applicable third party privacy policies prior to interacting with or providing your information to these third parties.
 
     
 
@@ -47,7 +47,7 @@ Please be careful and responsible whenever you are online. If you decide to post
 **INFORMATION USE**
     
 
-By providing information on the Website or through the Services, you agree that personal information you provide may be used by AMC, its parents and affiliates for the purposes of that for which you provided it, communicating with you about your relationship or transactions with us, processing and responding to your inquiries, fulfilling your requests, offering discounts, promoting services and products, informing you about new services and products, providing news on upcoming sporting and entertainment events, providing programming schedules, conducting surveys, marketing special gift or discount offerings, offering ticket discounts, conducting contests and sweepstakes, providing information that we believe will be of interest to you, internal research and reporting, improving and developing the content and features of the Website or Services, administering and troubleshooting the Services, enforcing the legal terms that govern your use of the Website and Services, and similar purposes. AMC’s current affiliates include Cablevision Systems Corporation and its subsidiaries and The Madison Square Garden Company and its subsidiaries.
+By providing information on the Website or through the Services, you agree that personal information you provide may be used by AMC, its parents and affiliates for the purposes of that for which you provided it, communicating with you about your relationship or transactions with us, processing and responding to your inquiries, fulfilling your requests, offering discounts, promoting services and products, informing you about new services and products, providing news on upcoming sporting and entertainment events, providing programming schedules, conducting surveys, marketing special gift or discount offerings, offering ticket discounts, conducting contests and sweepstakes, providing information that we believe will be of interest to you, internal research and reporting, improving and developing the content and features of the Website or Services, administering and troubleshooting the Services, enforcing the legal terms that govern your use of the Website and Services, and similar purposes. AMC�s current affiliates include Cablevision Systems Corporation and its subsidiaries and The Madison Square Garden Company and its subsidiaries.
 
 **INFORMATION DISCLOSURE**
     
@@ -124,6 +124,6 @@ We have implemented commercially reasonable security measures to protect the per
 
     
 
-Copyright © 2013 amctv.com 
+Copyright � 2013 amctv.com 
 
 Version: January 2013 
