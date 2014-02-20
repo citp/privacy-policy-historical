@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolsearchhound.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029164536id_/http%3A//www.schoolsearchhound.com/privacy_terms_conditions.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolsearchhound.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220103744id_/http%3A//www.schoolsearchhound.com/privacy_terms_conditions.asp) for the most accurate reproduction.*
 
 # School Search Hound
 
