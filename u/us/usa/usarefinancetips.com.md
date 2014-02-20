@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usarefinancetips.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812214427id_/http%3A//www.usarefinancetips.com/%3Fpage_id%3D2134) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usarefinancetips.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220060717id_/http%3A//www.usarefinancetips.com/%3Fpage_id%3D2134) for the most accurate reproduction.*
 
 # Privacy Policy | UsaRefinanceTips.com
 
