@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialtwist.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103114012id_/http%3A//www.socialtwist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialtwist.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220034602id_/http%3A//www.socialtwist.com/privacy-policy) for the most accurate reproduction.*
 
 # SocialTwist - Customer acquisition and retention platform using social referrals
 
