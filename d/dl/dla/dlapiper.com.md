@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the dlapiper.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220025420id_/http%3A//www.dlapiper.com/global/termsconditions/onlineprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlapiper.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221001333id_/http%3A//www.dlapiper.com/global/termsconditions/onlineprivacypolicy) for the most accurate reproduction.*
 
-# DLA Piper, Global Law Firm | Online Privacy Policy
+# DLA Piper, Global Law Firm | Online privacy policy
 
 Your privacy is important to us. This notice explains our online information practices and the choices you can make about the way your information is used at our Web site ([www.dlapiper.com]()).  
 
 
-**The Information We Collect  
+**The information we collect  
 ** We do not collect personally identifiable information about you - such as your name, address, telephone number, fax number, e-mail address, etc. - unless you choose to fill out a 'Contact Us' form, found on many of the pages of the site or to email us directly.  
 
 
 We do automatically collect certain non-personally identifiable information when you visit our site - such as the type of browser you are using, the type of operating system you are using, and the domain name of your Internet service provider (eg, America Online, Earthlink).  
 
 
-**How We Normally Use Information About You  
+**How we normally use information about you  
 ** We use non-personally identifiable information to analyze site usage (such as aggregated information on the pages visited by our users), which allows us to improve the design and content of our site.  
 
 
@@ -31,7 +31,7 @@ However, it is possible, though unlikely, that we might be forced to disclose pe
 Also, we cannot guarantee the privacy of personal information you transmit over the web or that may be collectable in transit by others, including contractors who provide services to us.  
 
 
-**Collection of Information by Third-Party Sites and Sponsors  
+**Collection of information by third-party sites and sponsors  
 ** Our site contains links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.  
 
 
@@ -61,13 +61,13 @@ For detailed information about cookies and how they are used on our website, see
 _** You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled. For further information about disabling or blocking cookies, please see ['Can I withdraw my consent?' in our Cookie Policy](http://www.dlapiper.com/global/termsandconditions/cookiepolicy/#Can%20I%20withdraw%20my%20consent).   
 
 
-**Our Commitment to Security**  
+**Our commitment to security**  
 We employ security measures to prevent unauthorized access to information that we collect online. However, we cannot guarantee the security of your personal information.  
 
 
-**How to Contact Us**  
+**How to contact us**  
 If you have any questions or concerns about the privacy policy for DLA Piper or its implementation, you may contact us at info@dlapiper.com. If at any time you decide that we should no longer hold any of your personal data, or wish to change the use to which any such data can be put, please let us know by emailing us at [info@dlapiper.com](javascript:SendMail\('info','dlapiper.com?subject=Privacy policy enquiry'\);).  
 
 
-**Revisions to our Privacy Policy  
+**Revisions to our privacy policy  
 ** We reserve the right to revise this policy or any part of it from time to time.  Please review the policy periodically for changes.
