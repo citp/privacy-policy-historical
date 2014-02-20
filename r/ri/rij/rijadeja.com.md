@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rijadeja.com privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911192800id_/http%3A//www.rijadeja.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rijadeja.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220202134id_/http%3A//www.rijadeja.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - www.rijadeja.com - Where Knowledge is NOT Monopoly (Gujarat's first Free educational portal)
+# Privacy Policy - www.rijadeja.com - Where Knowledge is NOT Monopoly - OFFICIAL WEBSITE (Gujarat's first Free educational portal) - Government Jobs / Sarkari Naukri in Gujarat, Study Materials for Competitive Exams, Results, Notifications.
 
 * * *
 
