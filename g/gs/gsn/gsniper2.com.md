@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gsniper2.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222205502id_/http%3A//gsniper2.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsniper2.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220044547id_/http%3A//gsniper.com/privacy.html) for the most accurate reproduction.*
 
 # George Brown's Google Sniper 2.0
 
-[Click Here To Go Back To The Main Presentation](http://gsniper2.com/)
+[Click Here To Go Back To The Main Presentation](http://gsniper.com/)
 
 PRIVACY POLICY  
 
@@ -60,4 +60,4 @@ This site and the products and services offered on this site are not associated,
 
 ClickBank is a registered trademark of Keynetics Inc., a Delaware corporation. Google Sniper 2 is not affiliated with Keynetics Inc. in any way, nor does Keynetics Inc. sponsor or approve any Google Sniper 2 products. Keynetics Inc. expresses no opinion as to the correctness of any of the statements made by Google Sniper 2 in the materials on this Web page.
 
-[Earnings Disclaimer](https://web.archive.org/web/20131222205502id_/http%3A//gsniper2.com/disclaimer.html) | [Terms & Conditions](https://web.archive.org/web/20131222205502id_/http%3A//gsniper2.com/termsofuse.html) | [Privacy Policy](https://web.archive.org/web/20131222205502id_/http%3A//gsniper2.com/privacy.html) | [Affiliates ](https://web.archive.org/affiliates)
+[Earnings Disclaimer](https://web.archive.org/web/20140220044547id_/http%3A//gsniper.com/disclaimer.html) | [Terms & Conditions](https://web.archive.org/web/20140220044547id_/http%3A//gsniper.com/termsofuse.html) | [Privacy Policy](https://web.archive.org/web/20140220044547id_/http%3A//gsniper.com/privacy.html) | [Affiliates ](https://web.archive.org/affiliates)
