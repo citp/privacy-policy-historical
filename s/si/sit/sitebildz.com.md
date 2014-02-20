@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sitebildz.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222045036id_/http%3A//www.sitebildz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitebildz.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220210313id_/http%3A//www.sitebildz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sitebildz
 
-This Privacy Policy governs the manner in which IATC Enterprises DBA SiteBildZ.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.SiteBildZ.com](https://web.archive.org/web/20131222045036id_/http://www.sitebildz.com/privacy-policy/www.SiteBildZ.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by IATC Enterprises DBA SiteBildZ.com.
+This Privacy Policy governs the manner in which IATC Enterprises DBA SiteBildZ.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.SiteBildZ.com](https://web.archive.org/web/20140220210313id_/http://www.sitebildz.com/privacy-policy/www.SiteBildZ.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by IATC Enterprises DBA SiteBildZ.com.
 
 ### Personal identification information
 
@@ -53,15 +53,15 @@ IATC Enterprises DBA SiteBildZ.com has the discretion to update this privacy pol
 
 ### Your acceptance of these terms
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20131222045036id_/http://www.sitebildz.com/privacy-policy/www.SiteBildZ.com/tos). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20140220210313id_/http://www.sitebildz.com/privacy-policy/www.SiteBildZ.com/tos). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 ### Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, **please contact us at:**
 
-[**IATC Enterprises DBA SiteBildZ.com**](https://web.archive.org/web/20131222045036id_/http://www.sitebildz.com/privacy-policy/www.SiteBildZ.com)
+[**IATC Enterprises DBA SiteBildZ.com**](https://web.archive.org/web/20140220210313id_/http://www.sitebildz.com/privacy-policy/www.SiteBildZ.com)
 
-[**www.SiteBildZ.com**](https://web.archive.org/web/20131222045036id_/http://www.sitebildz.com/privacy-policy/www.SiteBildZ.com)
+[**www.SiteBildZ.com**](https://web.archive.org/web/20140220210313id_/http://www.sitebildz.com/privacy-policy/www.SiteBildZ.com)
 
 #### IATC Enterprises DBA SiteBildZ.com
 
