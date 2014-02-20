@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leangreencoffee.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222071246id_/http%3A//leangreencoffee.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leangreencoffee.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221002625id_/http%3A//leangreencoffee.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
