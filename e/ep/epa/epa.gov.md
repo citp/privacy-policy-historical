@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epa.gov privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012233258id_/http%3A//www2.epa.gov/webguide/privacy-and-security-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epa.gov privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220044104id_/http%3A//www2.epa.gov/webguide/privacy-and-security-notice) for the most accurate reproduction.*
 
 # Privacy and Security Notice | Web Guide | US EPA
 
