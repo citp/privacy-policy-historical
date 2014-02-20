@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the moneytohealth.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127074218id_/http%3A//www.moneytohealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneytohealth.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220215256id_/http%3A//www.moneytohealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](http://mavmakers.vegasbiz.hop.clickbank.net/)
 
 ## Privacy Policy
 
@@ -67,3 +69,17 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 **Links:**
 
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
+
+Some of the links in the post above are “affiliate links.” This means if you click on the link and purchase the item, we will receive an affiliate commission. Regardless, we only recommend products or services we believe will add value to our readers.
+
+#### Now You Can Get Information On Anyone… Give It A Try!
+
+**Start Your Preliminary Search Now!**  
+  
+---  
+First name:  
+| Last name:  
+  
+City(Optional)  
+| State  
+
