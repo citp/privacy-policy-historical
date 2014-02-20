@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloggs.co.uk privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122173859id_/http%3A//www.cloggs.co.uk/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloggs.co.uk privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220160248id_/http%3A//www.cloggs.co.uk/page/privacy) for the most accurate reproduction.*
 
 # Privacy at Cloggs
 
