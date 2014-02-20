@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vml.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805104633id_/http%3A//www.vml.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vml.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221001445id_/http%3A//www.vml.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | VML
+# VML - VML Privacy Policy
 
 This website is provided by VML, Inc., ("VML"). We take very seriously the privacy of our website users and the security of their personal information.
 
