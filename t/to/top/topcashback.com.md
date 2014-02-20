@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topcashback.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124053952id_/http%3A//www.topcashback.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topcashback.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220044429id_/http%3A//www.topcashback.com/Privacy) for the most accurate reproduction.*
 
 # Top Cashback - Privacy
 
@@ -8,7 +8,7 @@ To register as a member, we only require an email address and a password. Prior 
 
 We only hold information in order to allow users to log into and run their accounts. We will also keep accounts updated with cashback levels. Registered users may update their account details online by following the relevant links from within their account page. 
 
-Member usernames and basic related statistics may occasionally be exposed. Examples of this include where a person has followed your referral link, they may see your name; and where a member who was referred to TopCashBack has a balance under the referral threshold amount (currently $10.00), that balance may be visible to the referring member. If you were referred to TopCashBack this latter fact will be made clear in your account details page, from which you may opt-out of allowing the referrer from being able to see your account balance.   
+Member usernames and basic related statistics may occasionally be exposed. Examples of this include where a person has followed your referral link, they may see your name; and where a member who was referred to TopCashback has a balance under the referral threshold amount (currently $10.00), that balance may be visible to the referring member. If you were referred to TopCashBack this latter fact will be made clear in your account details page, from which you may opt-out of allowing the referrer from being able to see your account balance.   
 Where selected (the default), account balances are only displayed until you reach the referral threshold (currently $10.00). Once this is reached your account balance will no longer be visible. 
 
   * We may examine traffic patterns in order to improve our services, to help monitor purchases and cashback and keep accounts up to date.
@@ -30,7 +30,7 @@ Cookie Policy
 
 We recommend that all users enable cookies in their browsers to make full use of the site and to ensure that any purchases on third party websites are recorded. Cookies are small pieces of data or information that are stored by a user’s browser on to their hard-drive. The information cannot be seen by any other websites (so the information is secure) and is used by us to provide features to aid the use of our services. 
 
-If users do not have cookies enabled, it is likely that third-party merchants will not record some of their purchases.
+If users do not have cookies enabled, it is likely that third-party merchants will not record some of their purchases. 
 
 If a user can log into our site, then they most likely have cookies enabled. Users may also check if they have cookies enabled using our [tracking test](https://web.archive.org/testtracking) page. 
 
@@ -40,7 +40,7 @@ We do not share or rent email addresses or information, further you are able to 
 
 Contact
 
-If you have any queries or concerns, please first use our [ contact page](https://web.archive.org/contact) to get in touch
+If you have any queries or concerns, please first use our [contact page](https://web.archive.org/contact) to get in touch
 
 Email: 
 
