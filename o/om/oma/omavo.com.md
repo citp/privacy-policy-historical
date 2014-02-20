@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omavo.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103054200id_/http%3A//www.omavo.com/index.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omavo.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220075247id_/http%3A//omavo.com/index.php%3Fprivacy) for the most accurate reproduction.*
 
 # Omavo.com - Privacy Policy (Omavo Web Service OWS Community Pages)
 
