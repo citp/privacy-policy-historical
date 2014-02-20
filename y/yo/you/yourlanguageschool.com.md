@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourlanguageschool.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221003344id_/http%3A//www.yourlanguageschool.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D65%26Itemid%3D87) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourlanguageschool.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220225716id_/http%3A//yourlanguageschool.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D65%26Itemid%3D87) for the most accurate reproduction.*
 
 # Privacy Policy
 
