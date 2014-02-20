@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the complaintboard.in privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231101900id_/http%3A//www.complaintboard.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the complaintboard.in privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220035535id_/http%3A//www.complaintboard.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Indian Complaint Board Forum
 
@@ -64,6 +64,3 @@ If we merge with or are acquired by another company, the resulting combined comp
 | 
 
 ### Recently Updated Complaints
-
-[puppy hq - scammers](http://www.reviewstalk.com/complaints-reviews/puppy-hq-l559.html)  
-Rudy - The Yorkie is the one of the most overbred breed...
