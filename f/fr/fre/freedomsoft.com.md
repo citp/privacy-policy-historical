@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedomsoft.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208084932id_/http%3A//freedomsoft.com/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedomsoft.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220065304id_/http%3A//freedomsoft.com/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
