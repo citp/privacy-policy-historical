@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodpanda.my privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817173228id_/http%3A//www.foodpanda.my/contents/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodpanda.my privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220022140id_/http%3A//www.foodpanda.my/contents/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy | foodpanda
 
