@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourhormones.info privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121030046id_/http%3A//www.endocrinology.org/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourhormones.info privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220201053id_/http%3A//www.endocrinology.org/site/privacy.html) for the most accurate reproduction.*
 
 # Society for Endocrinology | Disclaimer
 
