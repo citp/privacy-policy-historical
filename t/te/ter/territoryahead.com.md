@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the territoryahead.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816170632id_/http%3A//www.territoryahead.com/privacyandsecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the territoryahead.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220104128id_/http%3A//www.territoryahead.com/privacyandsecurity) for the most accurate reproduction.*
 
 # Territory Ahead
 
