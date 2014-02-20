@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the language.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206065707id_/http%3A//www.language.com/reflex_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the language.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220055229id_/http%3A//www.language.com/reflex_privacy_policy.html) for the most accurate reproduction.*
 
 # None
 
