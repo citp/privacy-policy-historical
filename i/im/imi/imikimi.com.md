@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the imikimi.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930182932id_/http%3A//imikimi.com/main/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imikimi.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220054052id_/http%3A//imikimi.com/main/privacy_policy) for the most accurate reproduction.*
 
 # Legal - Privacy Policy - imikimi.com
+
+If you have Kimi-Creator installed, it should start automatically. 
+
+To use this feature, please install Kimi-Creator then click this button: 
+
+Start Kimi-Creator
+
+Kimi Creator is our desktop app for Windows and Macintosh. It provides the full feature set for creating great Kimis and Kimi-Frames. 
+
+Learn more about [Kimi Creator](https://web.archive.org/pages/kimi_creator).
 
 Imikimi LLC. ("Imikimi") recognizes that its customers, visitors, users, and others who use www.Imikimi.com or other web sites owned or operated by Imikimi (the "Imikimi Sites") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Imikimi Sites. Imikimi provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Imikimi Sites. 
 
