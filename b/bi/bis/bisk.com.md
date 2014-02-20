@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bisk.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208081023id_/http%3A//info.bisk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bisk.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220171515id_/http%3A//info.bisk.com/privacy.html) for the most accurate reproduction.*
 
 # Bisk Privacy Statement
 
