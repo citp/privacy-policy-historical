@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joomseller.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923114454id_/http%3A//www.joomseller.com/news/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomseller.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220223613id_/http%3A//www.joomseller.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Premium Joomla Extensions | Joomseller Solutions - Privacy Policy
 
 At Joomseller, we recognize that privacy of customer's information is very important and we commit to protect your privacy. This policy describes the ways we collect, store, use and protect your personal information. We assume that you accepted our policy when you sign up and use our services.
 
@@ -27,3 +27,5 @@ You can always trust our site services when doing business with Joomseller. We a
 Please note that this Privacy Policy may change from time to time. Joomseller reserves the right to modify this Privacy Policy at any time. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice.
 
 If you have any additional questions or concerns about this Privacy Policy, please feel free to contact through the web site.
+
+* * *
