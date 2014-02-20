@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoax-slayer.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012170939id_/http%3A//www.hoax-slayer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoax-slayer.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220121712id_/http%3A//www.hoax-slayer.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,3 +63,7 @@ I also participate in a limited number of affiliate marketing programs. Clicking
 Many pages on the Hoax-Slayer website include an in-page commenting system provided by [Disqus](http://disqus.com/home/ "Disqus"). This system allows readers to offer comments or feedback about information published on the website. In order to use the commenting system, users are required to provide a name or nickname and an email address. Neither Disqus nor I will share this information with third parties or use it for any purpose other than that which it was originally intended. You can read the Disqus privacy policy [here](http://disqus.com/docs/terms/ "Disqus: Terms and Privacy"). Comments that include unsolicited advertising material (spam), foul language, racist, sexist, pornographic, or defamatory remarks, potential copyright or privacy infringements or links to websites that may pose security risks to site visitors or contain pornography or other material that site visitors may find disturbing will be rejected or deleted without notice. In order to stop spam and other unsuitable material from appearing on the website, I reserve the right to moderate, reject or delete any comments posted on the site. All comments published on the site reflect the views and opinions of their authors. I do not necessarily condone or agree with these views or opinions. In order to provide the commenting system, Disqus may send cookies to your computer. Browser privacy settings allow you to block or restrict cookies as desired. Cookies may also be controlled by the use of privacy and security software provided by a number of vendors.
 
 As an Internet user, online privacy is an important issue for me, in respect to both my privacy and yours. If you have any concerns, comments, or questions regarding this Privacy Policy, please [contact me](mailto:catch@hoax-slayer.com) and I'll do my best to help.
+
+  
+  
+
