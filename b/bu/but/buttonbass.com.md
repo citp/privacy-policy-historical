@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buttonbass.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207055229id_/http%3A//www.buttonbass.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buttonbass.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220015816id_/http%3A//www.buttonbass.com/policy.html) for the most accurate reproduction.*
 
 # Button Beats Privacy Policy
 
