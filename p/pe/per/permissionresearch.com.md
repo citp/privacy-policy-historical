@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the permissionresearch.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530151346id_/http%3A//www.permissionresearch.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the permissionresearch.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220022840id_/https%3A//www.permissionresearch.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - PermissionResearch
 
@@ -44,7 +44,7 @@ In order to participate in this program, you must:
   * Be the parent or legal guardian of anyone under 18 having access to such computer;
   * Own or control the computers that you allow to be configured to use this system;
   * If your household subscribes to a TV service, be the TV service subscriber for your household, or be authorized to enter into this agreement on behalf of that TV service subscriber;
-  * Not be employed or related to an individual employed by an unaffiliated market research company; and
+  * Not be employed or related to an individual employed by an unaffiliated market research company or online publisher; and
   * Acknowledge and agree to allow the software to operate as described herein, including allowing the software to automatically upgrade provided that any such upgrades do not change the functionality of the software beyond what is described in this privacy policy and user license agreement.
 
 
@@ -107,7 +107,7 @@ Please refer to our program’s web site, which lays out the privacy commitments
 
 What if I wish to stop participating in this program?
 
-Resignation: You may resign at any time by contacting us at the support address listed below or by selecting the “[Terminate all PermissionResearch Services](https://web.archive.org/web/20130530151346id_/http://www.permissionresearch.com/Remove.aspx?terminate_services=y)” link from the Members section on your panel’s web page (where applicable). 
+Resignation: You may resign at any time by contacting us at the support address listed below or by selecting the “[Terminate all PermissionResearch Services](https://web.archive.org/web/20140220022840id_/http://www.permissionresearch.com/Remove.aspx?terminate_services=y)” link from the Members section on your panel’s web page (where applicable). 
 
 Removing our Application: You may remove our application using the Windows Add/Remove Programs function (known as "Programs and Features" in Vista and Windows 7). Alternatively, you may e-mail our support staff at the e-mail address provided below and request removal instructions. Please be sure to follow this same removal procedure on all of the computers from which you wish to remove this application. Removing the application will stop tracking of your online browsing and purchasing behavior, but unless you resign from all services in accordance with the procedure stated above, you still may be contacted for administrative purposes or for special participant opportunities. After you remove our application from a computer, all settings we have made to your computer will be deactivated.
 
@@ -190,7 +190,9 @@ Third Party Products and Services: We neither endorse nor accept responsibility 
 
 ENTIRE AGREEMENT: This Agreement constitutes the entire agreement between sponsor and you with respect to the subject matter contained in the Agreement.
 
-This Agreement is effective as of October 13, 2011
+PermissionResearch does not react to Do Not Track signals because there is no standard for how those signals are sent. This site may employ the ScorecardResearch service, and you may control your level of participation in ScorecardResearch’s market research programs by visiting here: <http://www.scorecardresearch.com/preferences.aspx>
+
+This Agreement is effective as of December 19, 2013
 
 Whom can I contact if I have additional questions?
 
@@ -204,7 +206,7 @@ Reston, VA 20190
 
 For any support issues, please contact: support@tmrginc.com.
 
-LP 1142
+LP 1350
 
 [](http://secure.trust-guard.com/certificates/4734)
 
