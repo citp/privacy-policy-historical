@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahrq.gov privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104032828id_/http%3A//www.ahrq.gov/policy/electronic/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahrq.gov privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220173902id_/http%3A//www.ahrq.gov/policy/electronic/privacy/index.html) for the most accurate reproduction.*
 
 # AHRQ Privacy Policy Notice | Agency for Healthcare Research & Quality (AHRQ)
 
@@ -51,11 +51,11 @@ All communications to the Web site mailbox and customer feedback form are archiv
 
 ### Third-Party Web Sites
 
-To reach beyond our standard communication channels, AHRQ maintains accounts on third-party Web sites such as [YouTube](http://www.youtube.com/ahrqhealthtv) and Twitter ([AHRQ on Twitter](http://twitter.com/AHRQConf) ). These sites are not owned or operated by the government.
+To reach beyond our standard communication channels, AHRQ maintains accounts on third-party Web sites such as [YouTube](http://www.youtube.com/ahrqhealthtv) and Twitter ( [AHRQ on Twitter](http://twitter.com/AHRQConf) ). These sites are not owned or operated by the government.
 
 The privacy policies of these sites may differ from that of AHRQ. Third-party Web sites may share usage metrics with AHRQ for analysis. We do not collect any Personally Identifiable Information (PII) from those sites. However, if individuals try to use these third-party Web sites are used to communicate with AHRQ, they may be providing nongovernmental third-parties with access to PII.
 
-To contact AHRQ, please use the Ask a Question or Provide Feedback ([FAQ](https://info.ahrq.gov/) ) feature.
+To contact AHRQ, please use the Ask a Question or Provide Feedback ( [FAQ](https://info.ahrq.gov/) ) feature.
 
 ### Disclosure
 
