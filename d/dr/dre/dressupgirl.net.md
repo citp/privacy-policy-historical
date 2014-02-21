@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressupgirl.net privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103233538id_/http%3A//www.dressupgirl.net/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressupgirl.net privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221072350id_/http%3A//www.dressupgirl.net/page/1.html) for the most accurate reproduction.*
 
 # Privacy Policy - Free online games for Girls and Kids
 
