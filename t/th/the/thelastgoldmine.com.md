@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the thelastgoldmine.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816024413id_/http%3A//www.thelastgoldmine.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelastgoldmine.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221060349id_/http%3A//www.thelastgoldmine.com/privacy.php) for the most accurate reproduction.*
 
 # The Last Goldmine
 
 **Logged in as:** Last Goldmine Guest
 
   
-[](http://www.coolhandle.com/lp/the-last-goldmine-hosting/)   
 The Last Goldmine Privacy Policy
 
 The privacy and confidentiality of our members and prospects is upheld with the highest consideration. The Last Goldmine is committed to respecting your privacy. Please read the following policy to understand how your personal information will be treated. This policy may change from time to time so please check back periodically. This policy will let you know the following: 
