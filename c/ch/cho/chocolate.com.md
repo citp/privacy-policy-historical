@@ -1,23 +1,6 @@
-> *The following text is extracted and transformed from the chocolate.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222025343id_/http%3A//www.chocolate.com/articles/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chocolate.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221011534id_/http%3A//www.chocolate.com/articles/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Latest Products
-
-[12 Belgian Chocolate Truffle Roses With Strawberry Center](https://web.archive.org/products/12-belgian-chocolate-truffle-roses-with-strawberry-center/ "12 Belgian Chocolate Truffle Roses With Strawberry Center")  
-Creamy strawberry balsamic ganache tucked into a white chocolate shell -A chocolate experience unlike any other, our flowers are an expert blend of creamy chocolate flavor, ready to place in a vase
-
--Belgian truffles and flowers exude love in every piece. Express yourself best with our Chocolate Flowers- a perfect blend of Authentic Belgian Truffles and your favorite roses. The ideal gift for a birthday, anniversary, ...   
-[6 Belgian Chocolate Truffle Roses With Strawberry Center](https://web.archive.org/products/6-belgian-chocolate-truffle-roses-with-strawberry-center/ "6 Belgian Chocolate Truffle Roses With Strawberry Center")  
-Creamy strawberry balsamic ganache tucked into a white chocolate shell -A chocolate experience unlike any other, our flowers are an expert blend of creamy chocolate flavor, ready to place in a vase
-
--Belgian truffles and flowers exude love in every piece. Express yourself best with our Chocolate Flowers- a perfect blend of Authentic Belgian Truffles and your favorite roses. The ideal gift for a birthday, anniversary, ...   
-[12 Belgian Chocolate Truffle Roses With Raspberry Center](https://web.archive.org/products/12-belgian-chocolate-truffle-roses-with-raspberry-center/ "12 Belgian Chocolate Truffle Roses With Raspberry Center")  
-Smooth Raspberry combined with a blend of milk and dark chocolate ganache in a white chocolate shell -A chocolate experience unlike any other, our flowers are an expert blend of creamy chocolate flavor, ready to place in a vase
-
--Belgian truffles and flowers exude love in every piece. Express yourself best with our Chocolate Flowers- a perfect blend of Authentic Belgian Truffles and your favorite roses. The ideal ... 
-
-Latest Articles
 
 **Chocolate.com Privacy Statement**   
 By visiting Chocolate.com, you are accepting the practices described in this Privacy Statement. 
