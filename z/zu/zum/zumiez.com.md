@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zumiez.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210113518id_/http%3A//www.zumiez.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zumiez.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221225018id_/http%3A//www.zumiez.com/help/privacy) for the most accurate reproduction.*
 
 # Online Privacy & Security Policy at Zumiez
 
@@ -199,10 +199,9 @@ California Civil Code Section 1798.83 permits customers of the Zumiez who are Ca
   * Phone: Toll Free at: (877) 828-6929
   * Email: [help@zumiez.com](mailto:help@zumiez.com)
   * Postal Address:  
-Zumiez Inc.  
-6300 Merrill Creek Pkwy Suite B,  
-Everett, WA. 98203  
-Attn: Customer Service
+Zumiez Customer Care  
+9911 B Woodend Rd  
+Edwardsville, KS 66111
 
 
 
