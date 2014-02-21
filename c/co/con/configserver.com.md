@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the configserver.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901230942id_/http%3A//www.configserver.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the configserver.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221193716id_/http%3A//www.configserver.com/privacy.html) for the most accurate reproduction.*
 
 # Way to the Web Privacy Policy
 
@@ -11,6 +11,6 @@ When you browse our website your IP address, the time and duration of your visit
   * HelpDesk:  
 All information that you provide on the online HelpDesk is performed securely and encrypted via SSL between your browser and the server. No updates to HelpDesk Support Requests are emailed to you, just notification messages. All this information is stored to provide you with the best support, help and advice that we can give you.
   * Purchase:  
-When you purchase a service or product from us, we store information about you that is required to verify, validate, process and maintain your order. This includes your name and contact details together with your payment method details. Data collected at the time of your order within our online store is transferred securely and encrypted via SSL between your browser and our server. Any credit card information is only stored temporarily and is in an encrypted format.
+When you purchase a service or product from us, we store information about you that is required to verify, validate, process and maintain your order. This includes your name and contact details together with your payment method details. Data collected at the time of your order within our online store is transferred securely and encrypted via SSL between your browser and our server. We do not store any credit card information as this is handled by third-party processors.
 
 
