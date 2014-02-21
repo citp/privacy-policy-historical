@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the footyroom.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908011246id_/http%3A//footyroom.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footyroom.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221080424id_/http%3A//footyroom.com/privacy-policy.html) for the most accurate reproduction.*
 
 # FootyRoom Privacy Policy
 
-Updated October 10th, 2010
+Updated February 4th, 2014
 
 This Privacy Policy describes how FootyRoom and its subsidiaries treat personal information when you use our services, including information provided when you use the FootyRoom Website.
 
@@ -35,6 +35,12 @@ This Privacy Policy describes how FootyRoom and its subsidiaries treat personal 
 * Your account name (not your email address) is displayed to other Users when you engage in certain activity on the site, such as you upload videos or send messages through the FootyRoom Site. Other Users can contact you through messages and comments.
 
 * Any videos or photos that you submit to the FootyRoom Site may be redistributed through the internet and other media channels, and may be viewed by the general public. Third-party Advertisers, Links to Other Site FootyRoom allows other companies, called third-party ad servers or ad networks, to serve advertisements within the FootyRoom Site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the FootyRoom Site. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see. FootyRoom does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks FootyRoom to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the FootyRoom Site, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you. You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices.FootyRoom's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. Any data obtained by third-party ad servers subsequently shared withFootyRoom is maintained and dealt with by FootyRoom in accordance with this privacy policy.
+
+### Cookies & 3rd Party Advertisements
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 ### More Information
 
