@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuzemeeting.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101213313id_/https%3A//www.fuzebox.com/extras/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuzemeeting.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221060016id_/https%3A//www.fuzebox.com/extras/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — FuzeBox: Online Meetings, Video Conferencing, Webinar and Telepresence solutions all in High-Def with Fuze Meeting
 
