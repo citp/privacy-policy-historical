@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontporch.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221234351id_/http%3A//www.frontporch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontporch.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221014947id_/http%3A//www.frontporch.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy In-Browser Notifications by Front Porch - Network Based Messaging for Cable, Telco, Mobile, and Wi-Fi Broadband Networks, Hotspot 2.0 Passpoint Branding Monetization
 
@@ -42,7 +42,7 @@ We may provide links or automatically redirect you to third party web sites that
 
 #### Website Publisher’s Choice
 
-As the owner or the webmaster of a domain, you can determine if Internet provider messages to their subscribers can be served alongside your content. To learn more or activate that choice, [click here](https://web.archive.org/web/20131221234351id_/http%3A//publishers-choice "Website Publisher’s Choice").
+As the owner or the webmaster of a domain, you can determine if Internet provider messages to their subscribers can be served alongside your content. To learn more or activate that choice, [click here](https://web.archive.org/web/20140221014947id_/http%3A//publishers-choice "Website Publisher’s Choice").
 
 #### Changes to this Policy
 
