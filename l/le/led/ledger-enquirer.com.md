@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ledger-enquirer.com privacy policy that was archived on 2013-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131004134845id_/http%3A//www.ledger-enquirer.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ledger-enquirer.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221170504id_/http%3A//www.ledger-enquirer.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # Columbus Ledger Enquirer Columbus, GA
 
