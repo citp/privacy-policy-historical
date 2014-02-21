@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keyence.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212232329id_/http%3A//www.keyence.com/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keyence.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221232802id_/http%3A//www.keyence.com/privacy/index.jsp) for the most accurate reproduction.*
 
 # Privacy | KEYENCE America
 
