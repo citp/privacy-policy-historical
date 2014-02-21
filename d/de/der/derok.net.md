@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the derok.net privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211024155id_/http%3A//www.derok.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the derok.net privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221125441id_/http%3A//www.derok.net/privacy-policy) for the most accurate reproduction.*
 
 # DeROK.Net Privacy Policy
 
