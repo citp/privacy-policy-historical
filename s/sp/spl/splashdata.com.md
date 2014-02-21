@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splashdata.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207151621id_/http%3A//privacy-policy.truste.com/verified-policy/www.splashdata.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splashdata.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221174930id_/http%3A//privacy-policy.truste.com/verified-policy/www.splashdata.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.splashdata.com
 
@@ -97,6 +97,8 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [sales@splashdata.com ](mailto:sales@splashdata.com)
 
 We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [sales@splashdata.com](mailto:sales@splashdata.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ## Additional Policy Information
 
