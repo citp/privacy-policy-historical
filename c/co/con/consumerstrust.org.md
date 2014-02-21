@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerstrust.org privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222115516id_/http%3A//consumerstrust.org/privacy-policy-2013-07-13-013603) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerstrust.org privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221143214id_/http%3A//consumerstrust.org/privacy-policy-2013-07-13-013603) for the most accurate reproduction.*
 
 # Privacy Policy | ConsumersTrust
 
