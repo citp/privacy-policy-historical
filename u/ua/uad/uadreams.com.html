@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the uadreams.com privacy policy that was archived on 2013-09-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130914143027id_/http%3A//www.uadreams.com/privacy_policy.rpx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uadreams.com privacy policy that was archived on 2014-02-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140221053756id_/http%3A//www.uadreams.com/privacy_policy.rpx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>Privacy Policy</title>
@@ -28,7 +28,7 @@
  
 
 
-<link rel="stylesheet" type="text/css" href="http://css.uadreams.com/inc/css/uadreams.style.css?v=13">
+<link rel="stylesheet" type="text/css" href="http://css.uadreams.com/inc/css/uadreams.style.css?v=2">
 <link rel="stylesheet" type="text/css" href="http://css.uadreams.com/inc/css/uadreams.links.css">
 
 
@@ -53,12 +53,12 @@
 <script type="text/javascript" src="http://js.uadreams.com/inc/js/jquery.bgiframe.js"></script>
 <script type="text/javascript" src="http://js.uadreams.com/inc/js/jquery.jdMenu.js"></script>
 
-<script type="text/javascript" src="http://js.uadreams.com/inc/js/uadreams.media.common.js?5"></script>
+<script type="text/javascript" src="http://js.uadreams.com/inc/js/uadreams.media.common.js?v=1"></script>
 
 <script type="text/javascript" src="http://js.uadreams.com/inc/js/jquery.url_parser.js"></script>
 
 <script type="text/javascript" src="http://js.uadreams.com/inc/js/jquery.hotkeys-0.7.9.min.js"></script>
-<script type="text/javascript" src="http://js.uadreams.com/inc/js/jquery.errorcatcher.js?2"></script>
+<script type="text/javascript" src="http://js.uadreams.com/inc/js/jquery.errorcatcher.js"></script>
 <script type="text/javascript" src="http://js.uadreams.com/inc/js/jquery.rating.js"></script>
 <script type="text/javascript" src="http://js.uadreams.com/inc/js/mytooltip.js"></script>
 
@@ -67,11 +67,11 @@
 
 
 
-<script type="text/javascript" src="/inc/js/window/jquery-impromptu.3.0.js"></script>
-<link rel="stylesheet" type="text/css" href="/inc/js/window/style.css">
+<script type="text/javascript" src="http://js.uadreams.com/inc/js/window/jquery-impromptu.3.0.js"></script>
+<link rel="stylesheet" type="text/css" href="http://css.uadreams.com/inc/css/window/style.css">
 
 
-<script type="text/javascript" src="/inc/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="http://js.uadreams.com/inc/js/jquery.placeholder.js"></script>
 <script type="text/javascript">
   jQuery(function(){
   jQuery('input[placeholder]').placeholder();
@@ -79,128 +79,113 @@
 </script>
 
 
-<script type="text/javascript" src="/inc/js/jquery.colorbox.js"></script>
-<link rel="stylesheet" type="text/css" href="/inc/css/colorbox.css">
 
-<script type="text/javascript" src="/inc/js/jquery.fancybox.js?v=2.1.3"></script>
-<script type="text/javascript" src="/inc/js/jquery.fancybox-buttons.js"></script>
-<link rel="stylesheet" type="text/css" href="/inc/css/jquery.fancybox.css?v=2.1.2" media="screen">
-<link rel="stylesheet" type="text/css" href="/inc/css/jquery.fancybox-buttons.css" media="screen">
+<script type="text/javascript" src="http://js.uadreams.com/inc/js/jquery.colorbox.js"></script>
+<link rel="stylesheet" type="text/css" href="http://css.uadreams.com/inc/css/colorbox.css">
+
+<script type="text/javascript" src="http://js.uadreams.com/inc/js/jquery.fancybox.js"></script>
+<script type="text/javascript" src="http://js.uadreams.com/inc/js/jquery.fancybox-buttons.js"></script>
+<link rel="stylesheet" type="text/css" href="http://css.uadreams.com/inc/css/jquery.fancybox.css" media="screen">
+<link rel="stylesheet" type="text/css" href="http://css.uadreams.com/inc/css/jquery.fancybox-buttons.css" media="screen">
+
+
 
 
 <script type="text/javascript">
 
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-3492398-1']);
-_gaq.push(['_setDomainName', 'uadreams.com']);
-_gaq.push(['_trackPageview']);
-_gaq.push(['_trackSocial', 'Google+', 'Like']);
+var credits = {     
+    photo: 0,
+    video: 0,
+    email: 0,
+    vchat: 0
+}   
+    $(document).ready(function() {
+        $(".confirmer").confirmer();
+        $('.tooltip').tooltip({ delay: 400, showURL: false,
+            content: function () {
+                  return $(this).prop('title');
+              }
+             });
 
+        $('body').bind('click',function(){
+            if($('.tooltip').tooltip().length)
+                $('.tooltip').tooltip( "close" );
+        });
+        
+        if (navigator.appVersion.indexOf("MSIE 7.") == -1){
+            $.ErrorCatcher();           
+        }
+        $('.page-rate').rating({        
+            callback: function(value, link){                
+            var page=$("input#page_to_rate").val();
+            openColorBoxInAll('/kernel/page_rate.rpx?id=10000&page='+page+'&value='+value,'<h2>Page rating</h2>',370,250,true,false);                           
+            }
+        }); 
+        $("#show_profile").click(function(){            
+            var parent_mess=$(this).parents("div.error-mes");   
+            $("#show_sentence").hide();
+            rnd=Math.random()*1000;
+            $.get('/user_changestatus.rpx?a='+rnd,function(response){
+                parent_mess.hide();
+             })
+            return false;   
+        }); 
+    });
 
-(function() {
-  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-
-
-</script>
-
-<script type="text/javascript">
-
-var credits = {	    
-	photo: 0,
-	video: 0,
-	email: 0,
-	vchat: 0
-}	
-	$(document).ready(function() {
-		$(".confirmer").confirmer();
-		$('.tooltip').tooltip({ delay: 400, showURL: false,
-			content: function () {
-	              return $(this).prop('title');
-	          }
-			 });
-
-		$('body').bind('click',function(){
-			if($('.tooltip').tooltip().length)
-				$('.tooltip').tooltip( "close" );
-		});
-		
-		if (navigator.appVersion.indexOf("MSIE 7.") == -1){
-			$.ErrorCatcher();			
-		}
-		$('.page-rate').rating({		
-			callback: function(value, link){				
-			var page=$("input#page_to_rate").val();
-			openColorBoxInAll('/kernel/page_rate.rpx?id=10000&page='+page+'&value='+value,'<h2>Page rating</h2>',370,250,true,false);							
-			}
-		});	
-		$("#show_profile").click(function(){			
-			var parent_mess=$(this).parents("div.error-mes");	
-			$("#show_sentence").hide();
-			rnd=Math.random()*1000;
-			$.get('/user_changestatus.rpx?a='+rnd,function(response){
-				parent_mess.hide();
-			 })
-			return false;	
-		});	
-	});
-
-	function resizeimg(){
-		$(".to_resize").each(function(data){								 
-			if ($(this).width()>$(this).height()){			
-				var otr='width';
-				 $(this).removeAttr("height");
-			}else{
-				var otr='height';	
-				$(this).removeAttr("width");					
-			}
-			var lenght = $(this).attr("class").substring($(this).attr("class").indexOf("lenght")+6);	
-			$(this).attr(otr,lenght);	
-		});				
-	}
-	
-	function setTranslator(){	
-		$('#Microsoft').show();		
-	
-		if($('#MicrosoftTranslatorWidgetScript').attr('src')==undefined || $('#MicrosoftTranslatorWidgetScript').attr('src')==''){			
-			$('#MicrosoftTranslatorWidgetScript').attr('src','http://api.microsofttranslator.com/V1/Widget.svc/Embed?appId=-N5Lxri4eZCj19RAMbWEpdh03oXuPWpx&amp;from=en&amp;layout=ts'); 
-			document.cookie = 'setTranslator=1; path=/';			
-		}		
-		$('#link_Microsoft_open').hide(); 		
-	}
-	function SignInShow(){
-		if($('#sign_in_box').is(":visible")){
-			
-			$('#sign_in_box').animate({
-				opacity: 'hide'
-			},function(){
-				$("#sign_in").show();
-				$(".body_top, .content_new, .body_bottom").unbind('click');
-			})
-		}else{
-			$("#sign_in").hide();
-			$('#sign_in_box').animate({
-				opacity: 'show'
-			},function(){
-				$(".body_top, .content_new, .body_bottom").click(function(){
-					SignInShow();
-				})
-			})
-		}
-		
-	}
-	
-	function ClearInput(field,text,text2){
-	if ($("#"+field).val()==text || $("#"+field).val()==text2){
-		$("#"+field).val("");
-		$("#"+field).css("color","#000");
-	}
-	return false;
+    function resizeimg(){
+        $(".to_resize").each(function(data){                                 
+            if ($(this).width()>$(this).height()){          
+                var otr='width';
+                 $(this).removeAttr("height");
+            }else{
+                var otr='height';   
+                $(this).removeAttr("width");                    
+            }
+            var lenght = $(this).attr("class").substring($(this).attr("class").indexOf("lenght")+6);    
+            $(this).attr(otr,lenght);   
+        });             
+    }
+    
+    function setTranslator(){   
+        $('#Microsoft').show();     
+    
+        if($('#MicrosoftTranslatorWidgetScript').attr('src')==undefined || $('#MicrosoftTranslatorWidgetScript').attr('src')==''){          
+            $('#MicrosoftTranslatorWidgetScript').attr('src','http://api.microsofttranslator.com/V1/Widget.svc/Embed?appId=-N5Lxri4eZCj19RAMbWEpdh03oXuPWpx&amp;from=en&amp;layout=ts'); 
+            document.cookie = 'setTranslator=1; path=/';            
+        }       
+        $('#link_Microsoft_open').hide();       
+    }
+    function SignInShow(){
+        if($('#sign_in_box').is(":visible")){
+            
+            $('#sign_in_box').animate({
+                opacity: 'hide'
+            },function(){
+                $("#sign_in").show();
+                $(".body_top, .content_new, .body_bottom").unbind('click');
+            })
+        }else{
+            $("#sign_in").hide();
+            $('#sign_in_box').animate({
+                opacity: 'show'
+            },function(){
+                $(".body_top, .content_new, .body_bottom").click(function(){
+                    SignInShow();
+                })
+            })
+        }
+        
+    }
+    
+    function ClearInput(field,text,text2){
+    if ($("#"+field).val()==text || $("#"+field).val()==text2){
+        $("#"+field).val("");
+        $("#"+field).css("color","#000");
+    }
+    return false;
 }
-		
-	
+       
+    
 
 </script>
 <!--[if IE 6]>
@@ -211,21 +196,59 @@ var credits = {
 </script>
 <![endif]-->
 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://js.uadreams.com/inc/js/jquery.timers.js"></script>
+<script type="text/javascript">
+
+  
+
 	
-		<script type="text/javascript" src="http://js.uadreams.com/inc/js/jquery.timers.js"></script>
-		<script type="text/javascript">
+	
+		   
+	    
+</script>
+<script type="text/javascript">
 
-		
-		</script>
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-3492398-1']);
+    _gaq.push(['_setDomainName', 'uadreams.com']);
+    _gaq.push(['_trackPageview']);
+    _gaq.push(['_trackSocial', 'Google+', 'Like']);
+
+    (function() {
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })();
 
 
 
+</script>
 </head>
 
 
 <body>
 
 
+
+<div id="opaco" class="hidden" onclick="closePopup();"></div>
+<div id="popup" class="hidden"></div>
 
 
 
@@ -249,80 +272,75 @@ var credits = {
 
 
 
-		
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-			
-		
-		
+        
+        
+            
+        
+        
+        
+        
+        
+        
+        
+        
+            
+        
+        
 
  
 <div>
 
 <div>
 
-	<div id="sign_in_box">
-			<div class="sign_in_block">
-			    <form method="post" action="/login.rpx" name="loginform">			
-					<table>
-						<tbody><tr>
-						<td style="height:51px; padding-left:4px;padding-top: 1px; ">
-							
-							<a style="font:bold 13px/13px Arial; color:#000; " onclick="SignInShow();return false;">Sign in</a> 		
-							<a href="/login.rpx?forgotpassword=1" id="forgot_pass" style="margin-left:50px;">Forgot password?</a>
-							</td>
-						</tr>
-					<tr>
-						<td style="padding-top: 8px;"><input type="text" class="text" name="login" id="login" placeholder="Username or E-mail"></td>
-					</tr>
-					<tr>
-						<td style="padding-top: 9px;"><input type="password" name="pass" id="pass" class="text" placeholder="Password"></td>
-					</tr>	
-					<tr>
-						<td style="line-height:40px; font-size:13px; padding-top: 15px;">
-							<label><input type="checkbox" value="1" name="cook" checked="checked" id="form_remember" style="margin-bottom:-1px;"></label><label for="form_remember"> Stay signed in</label>
-							<a class="common-link big green" href="#" style="float: right;" onclick="$('form[name=loginform]').submit();return false;">
-								<span style="padding: 0 15px 0 18px;">Login</span>
-							</a>
-						</td>
-					</tr>	
-					<tr>
-						<td style="padding-top: 5px;">
-							<div class="social_btn">
-		<a href="https://www.facebook.com/dialog/oauth?display=popup&amp;client_id=335591273234204&amp;redirect_uri=http://www.uadreams.com/social_login.rpx?type=fb&amp;response_type=code&amp;scope=email,user_birthday" target="_blank" onclick="popupWin = window.open(this.href, 'Login FB', 'location,width=600,height=600,top=0'); popupWin.focus(); return false;" style="margin-right: 10px;"><img src="/img/login/fb_login_btn.png" width="79" height="25"></a>	
-		<a href="https://accounts.google.com/o/oauth2/auth?redirect_uri=http://www.uadreams.com/social_login.rpx?type=gg&amp;response_type=code&amp;client_id=828970980603.apps.googleusercontent.com&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile" target="_blank" onclick="popupWin = window.open(this.href, 'Login Google', 'location,width=600,height=600,top=0'); popupWin.focus(); return false;"><img src="/img/login/gg_login_btn.png" width="78" height="25"></a>
-	</div>
-						</td>
-					</tr>
-					</tbody></table>
-				</form>
-			</div>
-			
-			<a href="/register" id="toregistration">
-			JOIN FREE
-			</a>
-	</div>	
+    <div id="sign_in_box">
+        <div class="sign_in_block">
+			<form method="post" action="/login.rpx" name="loginform"> 
+				
+    			<a style="font:bold 13px/13px Arial; color:#000; margin: 21px 0 0 22px; display: inline-block; " onclick="SignInShow();return false;">Sign in</a>  
+                
+                <div class="sign_in_form">
+             		<div style="float: left; width: 224px; border-right: 1px solid #d4d3cf; padding-right: 28px;">
+						<input type="text" class="text" name="login" id="login" placeholder="Username or E-mail">
+	                  	<input type="password" name="pass" id="pass" class="text" placeholder="Password" style="margin-bottom: 26px;">
+	                  	<label style="margin-bottom:-1px;">
+                        	<input type="checkbox" value="1" name="cook" checked="checked" id="form_remember">
+                        </label>
+                         <label for="form_remember"> Stay signed in</label>
+                        <div style="float: right; line-height: 0px; margin-top: -10px;">
+							<span class="green_button_span"></span>
+							<input class="green_button" type="submit" value="Login">
+						</div>
+						<br class="clearer"><br>
+						<a href="/login.rpx?forgotpassword=1" id="forgot_pass" style="float:right; margin-top: 6px;">Forgot password?</a>
+              		</div>
+              		
+              		<div style="float: left; margin-left:28px; width: 200px;">
+						  <div class="social_btn">
 		
+        <a class="google" href="https://accounts.google.com/o/oauth2/auth?redirect_uri=http://www.uadreams.com/social_login.rpx?type=gg&amp;response_type=code&amp;client_id=828970980603.apps.googleusercontent.com&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile"></a>
+		<a class="facebook" href="https://www.facebook.com/dialog/oauth?display=popup&amp;client_id=335591273234204&amp;redirect_uri=http://www.uadreams.com/social_login.rpx?type=fb&amp;response_type=code&amp;scope=email,user_birthday"></a>	
+	</div>
+              		</div>
+				</div>
+				
+			</form>
+		</div>
+        <a href="/register" id="toregistration">JOIN FREE</a>
+    </div>  
+        
 
 
 <div class="body_top">
-	
-	
-	<div class="header_top_line" style="text-align:left;">
-	<div id="ch_tr_block">
-	
-		
+    
+    
+    <div class="header_top_line" style="text-align:left;">
+    <div id="ch_tr_block">
+    
+        <div style="float: right;">
+            
 <div class="translate_block" id="translate_this_page">
 	<div style="text-align:center;" id="link_Microsoft_open" class="translate_this_page">
-		<a href="#" onclick="setTranslator(); return false;" style="margin-left:3px;" id="translLink">Translate this page</a>
+		
 		<a href="#" onclick="setTranslator(); return false;" style="text-decoration:underline;">
 			<img src="/img/style/flags2.png" alt="flags">
 		</a>
@@ -338,28 +356,31 @@ var credits = {
 	</div>
 </div>
 
-		
+            <a href="http://uadreams.mobi" style="display: block; float:left; margin-left: 3px;"><img src="/img/show/pda.png" alt="pda"></a>
+        </div>
 </div>
-		<div class="pda_version"><img src="/img/style/pda.png" alt="pda"><a href="http://uadreams.mobi">Mobile version</a></div>
+        
+             
+        <div id="sign_in">
+            <img src="/img/style/sign_in.png" alt="Sign In">    <a href="#" style="font-size:16px; font-weight:bold;text-decoration:underline;" onclick="SignInShow();return false;">Sign in!</a><br>
+            
+        </div>
+        
+        
+        
 
+    </div>
+    <div class="menu_line menu">
+        
+
+
+
+
+	
 		
+		<div style="width:96px; height:15px; float:left;"></div>
 				
-		<div id="sign_in">
-			<img src="/img/style/sign_in.png" alt="Sign In"> 	<a href="#" style="font-size:16px; font-weight:bold;text-decoration:underline;" onclick="SignInShow();return false;">Sign in!</a><br>
-			
-		</div>
-		
-		
-		
-
-	</div>
-	<div class="menu_line menu">
-		
-		
-			
-			<div style="width:96px; height:15px; float:left;"></div>
-					
-		
+	
 
 	
 <style type="text/css">
@@ -370,581 +391,631 @@ var credits = {
 		 .current_icon_dollar{ display:block;}
 	
 </style>
-	
-<ul class="jd_menu">
 
+<ul class="jd_menu">
 	
 	
 	
-	
-	
-		<li class="wrap-menu" style="border-left:1px solid #CCCCCC; border-right:none;">
-			<a href="/register" class="main-menu">Join Free</a>
-		</li>
-	
-	
-	
-	<li class="wrap-menu"><a href="/" class="main-menu">Home</a></li>
-	
-	<li class="wrap-menu">
-		<a href="/agency/our_mission.html" class="main-menu">Agency</a>
 		
-		<ul id="menu-agensy" class="first">
-			<li class="menu_body color-yellow">
-				<div class="first-block">
-					<div style="margin-bottom: 13px;">
-						<span class="title-link"><a href="/agency/our_mission.html">Our Mission</a></span>
-					</div>	
-					Why are we a first-rate agency?
-					<div style="margin-bottom: 13px; margin-top: 20px;">
-						<span class="title-link"><a href="/agency/quick_start.html" class="menu_link_h2">Quick start</a></span>
-					</div>	
-					How do you begin?<br>Steps how to find the lady of your dream.
-					<div style="margin-bottom: 13px; margin-top: 20px;">
-						<span class="title-link"><a href="/agency/antiscam.html">Agency against Scams</a></span>
-					</div>	
-					How to avoid being scammed —<br>scam techniques and patterns...
-					<div style="margin-bottom: 13px; margin-top: 20px;">
-						<span class="title-link"><a href="/agency/charity.html">Charity Event</a></span>
-					</div>	
-					We try to make orphan children<br>a bit happier.
-					
-				</div>
-				
-				<div class="second-block">
-					<div style="margin-bottom: 13px;">
-						<span class="title-link"><a href="/branches/branches.html">13 Branches<br>in Ukraine</a></span>
-					</div>	
-					Kharkov, Poltava, Lutsk,<br>Zaporozhye, Sumy, Odessa,<br>Donetsk, Rovno, Kremenchuk,<br>Simferopol, Nikolaev, Cherkasy,<br>Ivano-Frankovsk... 
-					<a href="/branches/branches.html">more</a>
-					<a href="/branches/branches.html"><img src="/img/menu/map.png" width="222" height="150" id="map"></a>
-				</div>
-				
-				<div class="third-block">
-					<div style="margin-bottom: 13px;">
-						<span class="title-link"><a href="/agency/marriages.html">Just married</a></span>
-					</div>	
-					See couples who found their love with<br>UaDreams.com. Will you be the next one? :)	
-					<div style="margin-bottom: 13px; margin-top: 30px;">	
-						<span class="title-link testimon"><a href="/agency/testimonials.html">Testimonials</a></span>
-					</div>	
-					 
-					
-					
-					
-					
-						
-					
-					
-					
-						
-					
-					
-					 	
-					<div>		
-						<img src="http://storage.uadreams.com/content/testimonials/from_DB/primary_500.jpg" width="93" class="block-to-right testimon-img" alt="Walter from Austria">
-						<b>Walter from Austria:</b><br>
-						It was nice to come to Odessa! I have a very nice date with a wonderful girl and a very good support from UaDreams... <a href="/agency/testimonials.html#testimmonial_500">read more</a>
-					</div>	
-					
-					
-							
-				</div>	
-				
-			</li>
-		</ul>
-	</li>
-	
- 	<li class="wrap-menu">
- 		<a href="/show.rpx" class="main-menu">Ladies</a>
- 				
-		<ul id="menu-ladies" class="first">
-			<li class="menu_body color-yellow">
-				<div class="first-block">
-							
-						<div id="video-chat">
-							
-							<div class="girl-img">
-								<a href="javascript:void(0);"><img id="girl-online" src="/img/menu/lady_default.jpg" width="110"><span class="girl-name"></span></a>
-							</div>
-							<div style="margin-bottom: 13px;">
-								<span class="title-link"><a href="/user_video_chat.rpx">Video Chat</a></span>
-							</div>	
-							
-							
-							<div id="video-chat-link">
-								<a href="/user_video_chat.rpx"><img src="/img/menu/chat_lady_button.jpg"></a>
-							</div>
-							
-						</div>	
-							
-						<div id="about-ladies">	
-							<div style="margin-bottom: 13px;">
-								<span class="title-link"><a href="/show.rpx">Gallery of Ladies</a></span>
-							</div>	
-							1000+ single beautiful Ukrainian and Russian women. Perhaps your destiny is among them?
-							
-							<div id="about-ladies-link">
-								<a href="/show.rpx?newladies=1">New Ladies</a>
-								<span><a href="/show.rpx?have_video=1">Video Gallery</a></span>
-							</div>
-							Want to impress your lady? Use sweet words from <a href="/ladies/romance_dictionary.html">Romantic dictionary</a> and address to your beloved.
-						</div>					
-				</div>
-				
-				<div class="second-block">
-					<div style="margin-bottom: 13px;">
-						<span class="title-yellow">Ukrainian Ladies</span>
-					</div>
-					<div class="ladies-right-block">
-						<a href="/ladies/shewant.html">What does she want?</a><br>
-						<div>Why Ukrainian ladies are the best girl-friends and wives? And what do they expect from you in return?</div>
-					</div>
-					
-					<div class="ladies-right-block">
-						<a href="/ladies/ladies_about_love.html">Ladies' dreams about love</a><br>
-						<div>Does «love» mean the same for you<br>and your lady? Check, what our ladies say.</div>
-					</div>
-					
-					<div class="ladies-right-block">
-						<a href="/agency/ladies_photos.html">How we take ladies photos</a><br>
-						<div>Are our ladies so beautiful in the real life as at<br>the photos? Look behind the scenes!</div>
-					</div>
-					
-					<div class="ladies-right-block" style="margin-bottom: 5px;">
-						<a href="/agency/parade_of_brides.html">Parade of brides</a><br>
-						<div>The annual event in Ukraine. Have you ever<br>seen more then 200 charming brides at once?</div>
-					</div>
-					
-				</div>
-			</li>
-		</ul>
-	</li>		
-	
-	<li class="wrap-menu">
-		<a href="/services/" class="main-menu">Services</a>
 		
-		<ul id="menu-service" class="first">
-			<li class="menu_body">
+		
+		
+			<li class="wrap-menu" style="border-left:1px solid #CCCCCC; border-right:none;">
+				<a href="/register" class="main-menu">Join Free</a>
+			</li>
+		
+		
+		
+		<li class="wrap-menu"><a href="/" class="main-menu">Home</a></li>
+		
+		<li class="wrap-menu">
+			<a href="/agency/our_mission.html" class="main-menu">Agency</a>
 			
-				<div class="first-block">
-					<div style="margin-bottom: 13px;">
-						<span class="title-yellow">For me</span>
-					</div>	
-					<a href="/shop/services">Communication services</a>
-					<div id="for-me-img-link">
-						<a href="/shop/services#96_service" id="chat_img"></a>
-						<a href="/shop/services#29_service" id="mail_img"></a>	
-						<a href="/shop/services#30_service" id="photo_img"></a>
-					</div>								
-					
-					<a href="/shop/services#55_service">Video Сonference</a><br>
-					<a href="/shop/services#54_service">Telephone Сontact</a><br>
-					<a href="/shop/services#113_service">Decorate your letter</a><br>
-					<a href="/services/special_invoice.html">Special invoice</a><br>
-					<a href="/trips/trip_packages_prices.rpx">Trip prices</a><br>
-					
-					<a href="/shop/">Weekly special</a> (0 days left)
-					
-					<div id="guide">
+			<ul id="menu-agensy" class="first">
+				<li class="menu_body color-yellow">
+					<div class="first-block">
+						<div style="margin-bottom: 13px;">
+							<span class="title-link"><a href="/agency/our_mission.html">Our Mission</a></span>
+						</div>	
+						Why are we a first-rate agency?
+						<div style="margin-bottom: 13px; margin-top: 20px;">
+							<span class="title-link"><a href="/agency/quick_start.html" class="menu_link_h2">Quick start</a></span>
+						</div>	
+						How do you begin?<br>Steps how to find the lady of your dream.
+						<div style="margin-bottom: 13px; margin-top: 20px;">
+							<span class="title-link"><a href="/agency/antiscam.html">Agency against Scams</a></span>
+						</div>	
+						How to avoid being scammed —<br>scam techniques and patterns...
 						
-						<a href="/services/">Our services in brief</a>
 					</div>
 					
-				</div>	
+					<div class="second-block">
+						<div style="margin-bottom: 13px;">
+							<span class="title-link"><a href="/branches/branches.html"><span style="font-size: 32px;">13</span> Branches in Ukraine</a></span>
+						</div>	
+						We are a big company indeed. Have<br> a look to the cities where  our beautiful<br> Ladies come from.
+						<a href="/branches/branches.html"><img src="/img/menu/map_new.png" width="270" height="204" id="map" style="position: relative;"></a>
+					</div>
+					
+					<div class="third-block">
+						<div style="margin-bottom: 13px;">	
+							<span class="title-link testimon"><a href="/agency/testimonials.html">Testimonials</a></span>
+						</div>	
+						 
+						
+						
+						
+						
+							
+						
+						
+						
+							
+						
+						 	
+							<div>		
+								<img src="http://storage.uadreams.com/content/testimonials/from_DB/primary_563.jpg" width="93" class="block-to-right testimon-img" alt="Dik from Netherlands">
+								The services from the Kremenchuk office was just perfect, all my questions were handled in a very professional and pleasant way. Although the lady I have met does speak English very well, the assistance of the interpreter, Natalya, was very helpful <a href="/agency/testimonials.html#testimmonial_563">read more...</a>
+								<br><br><b>Dik from Netherlands</b>
+							</div>	
+						
+						
+							
+							
+						
+							
+						
+						
+						
+					</div>
+						
+					<div class="clearer"></div>
+					<div class="forth-block">
+						
+						<div class="agensy_bottom_first">
+							<div style="margin-bottom: 13px;">
+								<span class="title-link"><a href="/agency/charity.html">Charity Event</a></span>
+							</div>	
+							We try to make orphan children<br>a bit happier.	
+						</div>
+						<div class="agensy_bottom_second">
+							<div style="margin-bottom: 13px;">
+								<span class="title-link"><a href="/agency/uadreams_inside.html">Inside of UaDreams</a></span>
+								<div style="margin: -18px 0 0 230px;" class="menu_icon_new"><span>New!</span></div>
+							</div>	
+							Discover our staff: we are true and cool :)<br> Funny New Year's &amp; St.Valentines video greetings
+						</div>
+						<div class="agensy_bottom_third">
+							<div style="margin-bottom: 13px;">
+								<span class="title-link"><a href="/agency/marriages.html">Just married</a></span>
+							</div>	
+							See couples who found their love with<br>UaDreams.com. Will you be the next one? :)	
+						</div>
+						<img src="/img/menu/agency_ring.png" class="ring_img">
+					</div>
+					
+				</li>
+			</ul>
+		</li>
+		
+	 	<li class="wrap-menu">
+	 		<a href="/show.rpx" class="main-menu">Ladies</a>	 				
+			<ul id="menu-ladies" class="first">
+				<li class="menu_body color-yellow">
+					<div class="first-block">
+							<div>
+								<span class="title-link"><a href="/show.rpx">Gallery of Ladies</a></span>
+							</div>
+								
+							<div id="about-ladies">	
+								1000+ single beautiful Ukrainian and Russian women. Perhaps your destiny is among them?
+								
+								<div id="about-ladies-link">
+									<a href="/show.rpx?newladies=1">New Ladies</a>
+									<span><a href="/show.rpx?have_video=1">Video Gallery</a></span>
+								</div>
+								Want to impress your lady? Use sweet words from <a href="/ladies/romance_dictionary.html">Romantic dictionary</a> and address to your beloved.
+							</div>
+							
+							<div id="video-chat">
+								<div class="girl-img">
+									<a href="javascript:void(0);"><img id="girl-online" src="/img/menu/lady_default.jpg" width="110"><span class="girl-name"></span></a>
+								</div>
+								<div style="margin-bottom: 13px;">
+									<span class="title-link"><a href="/user_video_chat.rpx">Video Chat</a></span>
+								</div>	
+								
+								
+								<div id="video-chat-link">
+									<a href="/user_video_chat.rpx"><img src="/img/menu/chat_lady_button.jpg"></a>
+								</div>
+							</div>						
+					</div>
+					
+					<div class="second-block">
+						<div style="margin-bottom: 13px;">
+							<span class="title-yellow">Ukrainian Ladies</span>
+						</div>
+						<div class="ladies-right-block">
+							<a href="/ladies/shewant.html">What does she want?</a><br>
+							<div>Why Ukrainian ladies are the best girl-friends and wives? And what do they expect from you in return?</div>
+						</div>
+						
+						<div class="ladies-right-block">
+							<a href="/ladies/ladies_about_love.html">Ladies' dreams about love</a><br>
+							<div>Does «love» mean the same for you<br>and your lady? Check, what our ladies say.</div>
+						</div>
+						
+						<div class="ladies-right-block">
+							<a href="/agency/ladies_photos.html">How we take ladies photos</a><br>
+							<div>Are our ladies so beautiful in the real life as at<br>the photos? Look behind the scenes!</div>
+						</div>
+						
+						<div class="ladies-right-block">
+							<a href="/agency/parade_of_brides.html">Parade of brides</a><br>
+							<div>The annual event in Ukraine. Have you ever<br>seen more then 200 charming brides at once?</div>
+						</div>
+						<div class="ladies-right-block" style="margin-bottom: 5px;">
+							<a href="/ladies/age_difference.rpx">Age Gap: should it matter?</a> <div class="menu_icon_new" style="margin: -18px 0 0 165px;"><span>New!</span></div><br>
+							<div>What do you need to know dating very young ladies? Weigh all pros &amp; cons</div>
+							
+						</div>
+						
+					</div>
+				</li>
+			</ul>
+		</li>		
+		
+		<li class="wrap-menu">
+			<a href="/services/" class="main-menu">Services</a>
+			
+			<ul id="menu-service" class="first">
+				<li class="menu_body">
 				
-				<div style="float: left; width: 535px;">	
+					<div class="first-block">
+						<div style="margin-bottom: 13px;">
+							<span class="title-yellow">For me</span>
+						</div>	
+						<a href="/shop/services">Communication services</a>
+						<div id="for-me-img-link">
+							<a href="/shop/services#96_service" id="chat_img"></a>
+							<a href="/shop/services#29_service" id="mail_img"></a>	
+							<a href="/shop/services#30_service" id="photo_img"></a>
+						</div>								
+						
+						<a href="/shop/services#55_service">Video conference</a><br>
+						<a href="/services/slideshow.html">Video slide show</a><div class="menu_icon_new" style="margin: -21px 0 0 107px;"><span>New!</span></div><br>
+						<a href="/shop/services#54_service">Telephone contact</a><br>
+						<a href="/shop/services#113_service">Decorate your letter</a><br>
+						<a href="/services/special_invoice.html">Special invoice</a><br>
+						<a href="/trips/trip_packages_prices.rpx">Trip prices</a><br>
+						
+						<a href="/shop/">Weekly special</a> (1 day left)
+						
+						<div id="guide">
+							
+							<a href="/services/">Our services in brief</a>
+						</div>
+						
+					</div>	
+					
+					<div style="float: left; width: 535px;">	
+						
+						<div class="second-block color-yellow">
+							<div style="margin-bottom: 13px;">
+								<span class="title-yellow">For her</span>
+							</div>	
+							<a href="/shop/services#164_service" style="float: left;">Language courses</a> <br>
+							Custom <a href="/shop/services#33_service">video</a> or <a href="/shop/services#56_service">photo</a> shooting<br>
+							<a href="/shop/services#120_service">Professional make-up</a><br><a href="/shop/gifts/Gift-Certificates?items=pop">Gift certificates</a>
+						</div>
+						
+						<script type="text/javascript">
+							$(document).ready(function() {
+								$("#list-gifts li a").hover(function(){
+									var elem = $(this);
+									var rel = elem.attr("rel");
+									if(rel!=undefined && rel!=""){	
+										$(".gift-image").hide();
+										$("#item-"+rel).show();
+									}
+								});
+							});
+						</script>
+											
+						<div class="third-block">
+							
+							
+													
+							<div class="gift-image" id="item-flowers">
+								<a href="/shop/gifts/Flowers?items=pop">
+									<div class="gift-price">from <b>$45.00</b></div>
+									<img src="/img/menu/gifts/flowers.jpg" class="block-to-left">
+								</a>
+							</div>
+							
+							<div class="gift-image" id="item-adornments">
+								<a href="/shop/gifts/Perfume?items=pop">
+									<div class="gift-price">from <b>$85.95</b></div>
+									<img src="/img/menu/gifts/adornments.jpg" class="block-to-left">
+								</a>
+							</div>
+							
+							
+							<div class="gift-image" id="item-sweets">
+								<a href="/shop/gifts/Sweets-Beverages?items=pop">
+									<div class="gift-price">from <b>$34.95</b></div>
+									<img src="/img/menu/gifts/sweets.jpg" class="block-to-left">
+								</a>
+							</div>
+							
+							<div class="gift-image show" id="item-for_kids">
+								<a href="/shop/gifts/Gifts-for-Kids?items=pop">
+									<div class="gift-price">from <b>$59.77</b></div>
+									<img src="/img/menu/gifts/for_kids.jpg" class="block-to-left">
+								</a>
+							</div>
+							
+							<div class="gift-image" id="item-fruit">
+								<a href="/shop/gifts/Fruit?items=pop">
+									<div class="gift-price">from <b>$49.95</b></div>
+									<img src="/img/menu/gifts/fruit.jpg" class="block-to-left">
+								</a>
+							</div>
+							
+	
+							<div class="gift-image" id="item-all">
+								<a href="/shop/gifts">
+									<img src="/img/menu/gifts/all.jpg" class="block-to-left">
+								</a>
+							</div>
+							
+							<div class="gift-image" id="item-pack">
+								<a href="/shop/gifts/Gift-Packs-for-Beloved?items=pop">
+									<img src="/img/menu/gifts/pack.jpg" class="block-to-left">
+								</a>
+							</div>
+							
+							<div id="ladies-gifts">
+								<div style="margin-bottom: 13px;">
+									<span class="title-yellow">Gifts for Ladies</span>
+								</div>
+								<ul id="list-gifts">	
+									
+									<li style="width: 174px;"><a href="/shop/gifts/Gift-Packs-for-Beloved?items=pop" rel="pack">Gift Packs for Beloved</a></li>
+									
+									<li><a href="/shop/gifts/Flowers?items=pop" rel="flowers">Flowers</a></li>
+									
+									<li><a href="/shop/gifts/Adornments?items=pop" rel="adornments">Adornments</a></li>
+									<br clear="all">
+									<li><a href="/shop/gifts/Sweets-Beverages?items=pop" rel="sweets">Sweets</a></li>
+									<li><a href="/shop/gifts/Gifts-for-Kids?items=pop" rel="for_kids">For kids</a></li>
+									<br clear="all">
+									<li><a href="/shop/gifts/Fruit?items=pop" rel="fruit">Fruit</a></li>
+									<li>... <a href="/shop/gifts" rel="all">all</a></li>
+								</ul>
+							</div>
+							
+						</div>
+						
+						<br clear="all">
+						
+						<div class="fourth-block">
+							
+									
+						
+							
+								
+							
+								
+									
+									
+									
+									
+							
+	
+								
+		
+							
+								
+								
+		
+					
+									  
+										   	
+									
+									
+									
+										<div id="girl-birthday" class="color-yellow">
+											<div class="girl-img">
+												<a href="/women/Natalia-Zaporozhye-3020">
+													<img alt="Natalia from Zaporozhye 37 years - a little sexy. My small primary photo." src="http://storage.uadreams.com/photo/ua/storage/0/3020/Natalia-Zaporozhye-girls-primary_gallery.jpg" width="120" title="Natalia Zaporozhye 37 y.o. - a little sexy - small primary photo.">
+													
+													<span class="girl-name">View Profile</span>
+															
+													
+																									
+												</a>									
+											</div>
+															
+											<div style="margin-bottom: 13px;">
+												<span class="title-yellow">Natalia<sup style="font-family: Arial; color:#cc856f; font-size: 11px;">#3020</sup><br>has birthday today!</span>
+											</div>	
+											<div id="ladies-title">
+													
+												<span id="girl_info">I am fond of graphical design lately. I enjoy working in the executive power bodies because it is prestigious. But it lacks creativity of course which is quite enjoyable for me. I actually have four specialties and ready to move to another country. 
+	       
+	         ...
+	       
+	       </span><br>
+												
+												<a href="/shop/gifts/Gift-Packs-for-Beloved?id=3020&amp;items=all" style="line-height: 25px;">Send a gift</a><br><a href="/mailbox_readwrite.rpx?id=3020">Send a decorated letter with greetings</a>
+											</div>
+										</div>
+									
+								
+							
+						
+						</div>
+					</div>
+						
+				</li>
+				
+			</ul>
+		</li>
+		
+		<style type="text/css">
+			ul#menu-trip .list-trip { margin-bottom: 14px; }
+		</style>
+		
+		<li class="wrap-menu">
+			<a href="/trips/trip_packages_prices.rpx" class="main-menu">Trips</a>
+			
+			<ul id="menu-trip" class="first">
+				<li class="menu_body">
+					<div class="first-block">
+						
+						<div class="list-trip color-yellow">
+							<div style="margin-bottom: 13px;">
+								<span class="title-link"><a href="/trips/trip_with_us.rpx">Trip to Ukraine with Us</a></span>
+							</div>	
+							Find out why we are the best agency<br>for travelling.
+						</div>
+						
+						<div class="list-trip color-yellow">
+							<div style="margin-bottom: 13px; margin-top: 25px;">
+								<span class="title-link"><a href="/trips/trip_packages_prices.rpx">Trip Packages and Prices</a></span>
+							</div>	
+							General information about how to meet<br>a lady, what services are included in each<br>trip package and how much they cost.
+						</div>
+						
+						<div class="list-trip color-yellow">
+							<div style="margin-bottom: 13px; margin-top: 25px;">					
+								<span class="title-link"><a href="/trips/departure_arrival.rpx">Your Departure and Arrival</a></span>
+							</div>	
+							Air tickets, meeitng at airport, Ukrainian<br>map and distances between our branches.
+						</div>
+						
+						
+						<div style="margin-bottom: 13px; margin-top: 25px;">
+							<span class="title-link"><a href="/trips/trip_reservation.html">Trip Reservation</a></span>
+						</div>	
+					</div>
 					
 					<div class="second-block color-yellow">
-						<div style="margin-bottom: 13px;">
-							<span class="title-yellow">For her</span>
-						</div>	
-						<a href="/shop/services#164_service" style="float: left;">Language courses</a> <div class="menu_icon_new" style="margin: 1px 0 0 116px;"><span>New!</span></div><br>
-						Custom <a href="/shop/services#33_service">video</a> or <a href="/shop/services#56_service">photo</a> shooting<br>
-						<a href="/shop/services#120_service">Professional make-up</a><br><a href="/shop/gifts/Gift-Certificates?items=pop">Gift certificates</a>
+						<img src="/img/menu/trip/13.jpg" width="196" height="291">
+						<div>It's time to start your journey!<br>Your Dream is waiting for you.</div>
 					</div>
 					
-					<script type="text/javascript">
-						$(document).ready(function() {
-							$("#list-gifts li a").hover(function(){
-								var elem = $(this);
-								var rel = elem.attr("rel");
-								if(rel!=undefined && rel!=""){	
-									$(".gift-image").hide();
-									$("#item-"+rel).show();
-								}
-							});
-						});
-					</script>
-										
 					<div class="third-block">
 						
-						
-												
-						<div class="gift-image" id="item-flowers">
-							<a href="/shop/gifts/Flowers?items=pop">
-								<div class="gift-price">from <b>$45.00</b></div>
-								<img src="/img/menu/gifts/flowers.jpg" class="block-to-left">
-							</a>
+						<div class="list-trip color-yellow">
+							<a href="/trips/ukraine_general_information.rpx">General information about Ukraine</a><br>
+							Some facts and short videos about<br>the country, foreigners' impressions<br>of Ukraine after EURO-2012. 
 						</div>
 						
-						<div class="gift-image show" id="item-adornments">
-							<a href="/shop/gifts/Perfume?items=pop">
-								<div class="gift-price">from <b>$85.95</b></div>
-								<img src="/img/menu/gifts/adornments.jpg" class="block-to-left">
-							</a>
+						<div class="list-trip color-yellow">
+							<a href="/trips/euromaidan.rpx">Euromaidan - what is going on?</a>
+						</div>
+						
+						<div class="list-trip color-yellow">
+							<a href="/trips/travel_information_tips.rpx">Travel Information and Tips</a><br>
+							Currency, food, weather, etc...
 						</div>
 						
 						
-						<div class="gift-image" id="item-sweets">
-							<a href="/shop/gifts/Sweets-Beverages?items=pop">
-								<div class="gift-price">from <b>$34.95</b></div>
-								<img src="/img/menu/gifts/sweets.jpg" class="block-to-left">
-							</a>
+						<div class="list-trip color-yellow">
+							<a href="/trips/new_trips.rpx">Guys' stuff to do</a> <div class="menu_icon_new" style="margin: -17px 0 0 104px;"><span>New!</span></div> <!--<img src="/img/menu/new.png" style="margin-left: 10px;margin-bottom: -4px;" /> --><br>
+							The best ways to spend your free time in Ukraine to benefit yourself
 						</div>
 						
-						<div class="gift-image" id="item-for_kids">
-							<a href="/shop/gifts/Gifts-for-Kids?items=pop">
-								<div class="gift-price">from <b>$59.77</b></div>
-								<img src="/img/menu/gifts/for_kids.jpg" class="block-to-left">
-							</a>
+						
+						<div class="list-trip">
+							<a href="/trips/ukrainian_visas_embassies.html">Visas and Ukrainian Embassies</a><br><br>
+							<a href="/trips/dental_tour.rpx">Dental tourism</a>
 						</div>
 						
-						<div class="gift-image" id="item-fruit">
-							<a href="/shop/gifts/Fruit?items=pop">
-								<div class="gift-price">from <b>$49.95</b></div>
-								<img src="/img/menu/gifts/fruit.jpg" class="block-to-left">
-							</a>
+						<div class="list-trip color-yellow" style="margin-bottom: 5px;">
+							<a href="/agency/testimonials.html">Latest Testimonials</a><br>
+							98% of our customers are happy
 						</div>
-						
-
-						<div class="gift-image" id="item-all">
-							<a href="/shop/gifts">
-								<img src="/img/menu/gifts/all.jpg" class="block-to-left">
-							</a>
-						</div>
-						
-						<div class="gift-image" id="item-pack">
-							<a href="/shop/gifts/Gift-Packs-for-Beloved?items=pop">
-								<img src="/img/menu/gifts/pack.jpg" class="block-to-left">
-							</a>
-						</div>
-						
-						<div id="ladies-gifts">
-							<div style="margin-bottom: 13px;">
-								<span class="title-yellow">Gifts for Ladies</span>
+					</div>		
+				</li>
+			</ul>	
+		</li>
+		
+		
+	 	
+		<li class="wrap-menu">
+			<a href="/support.rpx" class="main-menu">Support</a>    	
+			
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("body").append("<img src='/img/menu/img_support.png' style='position: absolute; left: -10000px; display: none;' />");
+				});
+			</script>
+				
+			<ul id="menu-support" class="first" style="padding: 20px 0 0 20px;">
+				<li class="menu_body">
+					
+					<div class="second-block color-yellow">
+						<div class="list-map">
+							<div class="block-to-left" id="support_img_cam"></div>
+							<div>
+								<div style="margin-bottom: 13px; ">
+									<span class="title-link support"><a href="/support/webcams.html">Office Webcams</a></span>
+								</div>
+								Web cams in each our branch will show you our staff at work and ladies answering mails. We are open to the whole world!
 							</div>
-							<ul id="list-gifts">	
-								
-								<li style="width: 174px;"><a href="/shop/gifts/Gift-Packs-for-Beloved?items=pop" rel="pack">Gift Packs for Beloved</a></li>
-								
-								<li><a href="/shop/gifts/Flowers?items=pop" rel="flowers">Flowers</a></li>
-								
-								<li><a href="/shop/gifts/Adornments?items=pop" rel="adornments">Adornments</a></li>
-								<br clear="all">
-								<li><a href="/shop/gifts/Sweets-Beverages?items=pop" rel="sweets">Sweets</a></li>
-								<li><a href="/shop/gifts/Gifts-for-Kids?items=pop" rel="for_kids">For kids</a></li>
-								<br clear="all">
-								<li><a href="/shop/gifts/Fruit?items=pop" rel="fruit">Fruit</a></li>
-								<li>... <a href="/shop/gifts" rel="all">all</a></li>
-							</ul>
+						</div>
+						<div class="list-map">
+							<div class="block-to-left" id="support_img_idea"></div>
+							<div class="block-to-left">
+								<div style="margin-bottom: 13px;">
+									<span class="title-link support"><a href="/site_idea.rpx">Site Ideas</a></span>
+								</div>	
+								Help us to make our services better and more convenient for you - add your own idea!
+							</div>
+						</div>
+						<div class="list-map none">
+							<div class="block-to-left" id="support_img_sitemap"></div>
+							<div>
+								<div style="margin-bottom: 13px;">
+									<span class="title-link support"><a href="/support/sitemap.html">Site Map</a></span>
+								</div>	
+								You can find any page easily with our Site Map.
+							</div>
+						</div>			
+					</div>
+					
+					<div class="first-block color-yellow">
+						
+						<div id="support-help">
+							<div style="margin-bottom: 13px;">
+								<span class="title-link"><a href="/support.rpx">How can we help you?</a></span>
+							</div>	
+							Our friendly managers will help you with all your<br>questions, comments and suggestions. You may<br>also report any technical difficulty 
+							navigating the<br>site or any malfunction you have encountered.
+							
+							
+								<div id="bold-text"><a href="/support.rpx"><img src="/img/menu/submit_your_question_now.png" alt="Submit your question now!"></a></div>
+							
 						</div>
 						
-					</div>
-					
-					<br clear="all">
-					
-					<div class="fourth-block">
-						
-								
-					
-						
-							
-						
-							
-								
-								
-								
-
-							
-	
-						
-							
-							
-	
-				
-								  
-									   	
-								
-								
-								
-									<div id="girl-birthday" class="color-yellow">
-										<div class="girl-img">
-											<a href="/women/Lyolya-Nikolaev-2549">
-												<img alt="Lyolya from Nikolaev 23 years - girl for dating. My small primary photo." src="http://storage.uadreams.com/photo/ua/storage/0/2549/Lyolya-Nikolaev-girls-primary_gallery.jpg" width="120" title="Lyolya Nikolaev 23 y.o. - girl for dating - small primary photo.">
-												
-												<span class="girl-name">See profile</span>
-														
-												
-																								
-											</a>									
-										</div>
-														
-										<div style="margin-bottom: 13px;">
-											<span class="title-yellow">Lyolya<sup style="font-family: Arial; color:#cc856f; font-size: 11px;">#2549</sup><br>has birthday today!</span>
-										</div>	
-										<div id="ladies-title">
-												
-											<span id="girl_info">My days are different and full of joy and happiness! I love my friends and love to smile very much :)When we meet, we share news from our lives, tell interesting and funny stories, discuss our interests and future goals.  From time to time we attend 
-       
-         ...
-       
-       </span><br>
-											
-											<a href="/shop/gifts/Gift-Packs-for-Beloved?id=2549&amp;items=all" style="line-height: 25px;">Send a gift</a><br><a href="/mailbox_readwrite.rpx?id=2549">Send a decorated letter with greetings</a>
-										</div>
-									</div>
-								
-								
-							
-					
-					</div>
-				</div>
-					
-			</li>
-			
-		</ul>
-	</li>
-	
-	<li class="wrap-menu">
-		<a href="/trips/trip_packages_prices.rpx" class="main-menu">Trips</a>
-		
-		<ul id="menu-trip" class="first">
-			<li class="menu_body">
-				<div class="first-block">
-					
-					<div class="list-trip color-yellow">
-						<div style="margin-bottom: 13px;">
-							<span class="title-link"><a href="/trips/trip_with_us.rpx">Trip to Ukraine with Us</a></span>
-						</div>	
-						Find out why we are the best agency<br>for travelling.
-					</div>
-					
-					<div class="list-trip color-yellow">
-						<div style="margin-bottom: 13px; margin-top: 25px;">
-							<span class="title-link"><a href="/trips/trip_packages_prices.rpx">Trip Packages and Prices</a></span>
-						</div>	
-						General information about how to meet<br>a lady, what services are included in each<br>trip package and how much they cost.
-					</div>
-					
-					<div class="list-trip color-yellow">
-						<div style="margin-bottom: 13px; margin-top: 25px;">					
-							<span class="title-link"><a href="/trips/departure_arrival.rpx">Your Departure and Arrival</a></span>
-						</div>	
-						Air tickets, meeitng at airport, Ukrainian<br>map and distances between our branches.
-					</div>
-					
-					
-					<div style="margin-bottom: 13px; margin-top: 25px;">
-						<span class="title-link"><a href="/trips/trip_reservation.html">Trip Reservation</a></span>
-					</div>	
-				</div>
-				
-				<div class="second-block color-yellow">
-					<img src="/img/menu/trip/8.jpg" width="196" height="291">
-					<div>It's time to start your journey!<br>Your Dream is waiting for you.</div>
-				</div>
-				
-				<div class="third-block">
-					
-					<div class="list-trip color-yellow">
-						<a href="/trips/ukraine_general_information.rpx">General information about Ukraine</a><br>
-						Some facts and short videos about<br>the country, foreigners' impressions<br>of Ukraine after EURO-2012. 
-					</div>
-					
-					<div class="list-trip color-yellow">
-						<a href="/trips/travel_information_tips.rpx">Travel Information and Tips</a><br>
-						Currency, food, weather, etc...
-					</div>
-					
-					
-					<div class="list-trip color-yellow">
-						<a href="/trips/new_trips.rpx">Guys' stuff to do</a> <div class="menu_icon_new" style="margin: -17px 0 0 104px;"><span>New!</span></div> <!--<img src="/img/menu/new.png" style="margin-left: 10px;margin-bottom: -4px;" /> --><br>
-						The best ways to spend your free time in Ukraine to benefit yourself
-					</div>
-					
-					
-					<div class="list-trip">
-						<a href="/trips/ukrainian_visas_embassies.html">Visas and Ukrainian Embassies</a><br><br>
-						<a href="/trips/dental_tour.rpx">Dental tourism</a>
-					</div>
-					
-					<div class="list-trip color-yellow" style="margin-bottom: 5px;">
-						<a href="/agency/testimonials.html">Latest Testimonials</a><br>
-						98% of our customers are happy
-					</div>
-				</div>		
-			</li>
-		</ul>	
-	</li>
-	
-	
- 	
-	<li class="wrap-menu">
-		<a href="/support.rpx" class="main-menu">Support</a>	
-		
-		<script type="text/javascript">
-			$(document).ready(function() {
-				$("body").append("<img src='/img/menu/img_support.png' style='position: absolute; left: -10000px; display: none;' />");
-			});
-		</script>
-			
-		<ul id="menu-support" class="first" style="padding: 20px 0 0 20px;">
-			<li class="menu_body">
-				
-				<div class="second-block color-yellow">
-					<div class="list-map">
-						<div class="block-to-left" id="support_img_cam"></div>
-						<div>
+						<div id="support-block-questions">
 							<div style="margin-bottom: 13px; ">
-								<span class="title-link support"><a href="/support/webcams.html">Office Webcams</a></span>
-							</div>
-							Web cams in each our branch will show you our staff at work and ladies answering mails. We are open to the whole world!
-						</div>
-					</div>
-					<div class="list-map">
-						<div class="block-to-left" id="support_img_idea"></div>
-						<div class="block-to-left">
-							<div style="margin-bottom: 13px;">
-								<span class="title-link support"><a href="/site_idea.rpx">Site Ideas</a></span>
+								<span class="title-link"><a href="/support/faq.html">Frequently Asked<br>Questions</a></span>
 							</div>	
-							Help us to make our services better and more convenient for you - add your own idea!
-						</div>
-					</div>
-					<div class="list-map none">
-						<div class="block-to-left" id="support_img_sitemap"></div>
-						<div>
-							<div style="margin-bottom: 13px;">
-								<span class="title-link support"><a href="/support/sitemap.html">Site Map</a></span>
-							</div>	
-							You can find any page easily with our Site Map.
-						</div>
-					</div>			
-				</div>
-				
-				<div class="first-block color-yellow">
-					
-					<div id="support-help">
-						<div style="margin-bottom: 13px;">
-							<span class="title-link"><a href="/support.rpx">How can we help you?</a></span>
-						</div>	
-						Our friendly managers will help you with all your<br>questions, comments and suggestions. You may<br>also report any technical difficulty 
-						navigating the<br>site or any malfunction you have encountered.
-						
-						
-							<div id="bold-text"><a href="/support.rpx"><img src="/img/menu/submit_your_question_now.png" alt="Submit your question now!"></a></div>
+							<div style="margin-bottom: 15px;"><b>— The description of Chat Service.</b></div>
+							— Video chat is an instant messaging<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;service. You watch the lady via web<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cam and type your messages to the lady.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It doesn't support voice exchange...</div>	
 						
 					</div>
-					
-					<div id="support-block-questions">
-						<div style="margin-bottom: 13px; ">
-							<span class="title-link"><a href="/support/faq.html">Frequently Asked<br>Questions</a></span>
-						</div>	
-						<div style="margin-bottom: 15px;"><b>— The description of Chat Service.</b></div>
-						— Video chat is an instant messaging<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;service. You watch the lady via web<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cam and type your messages to the lady.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It doesn't support voice exchange...</div>	
-					
-				</div>
-					
-			</li>		
-		</ul>			
-	</li>	
-	
-	
-	
-	
-	
-	
-	
-	<li style="background:none; padding: 11px 0 0 12px; width: 0px; text-align: left; border: none;" class="wrap-menu lang_flag_ge">
+						
+				</li>		
+			</ul>			
+		</li>	
 		
 		
 		
 		
-	</li>	
+		
+		
+		
+    		<li style="background:none; padding: 11px 0 0 12px; width: 0px; text-align: left; border: none;" class="wrap-menu lang_flag_ge">
+    			
+    			
+    			
+    			
+    		</li>	
+		
 	
-
+		
 	
-
-
-
-
+	
+	
+	
+	
+	
+	
 </ul>
 
 
-	</div>
-	<div class="logo"></div>
-	<div class="header_wide_line">
-		
-		
-		
+    </div>
+    <div class="logo"></div>
+    <div class="header_wide_line">
+        
+        
+        
 
-		
-		
-		
-		
-				
-			
-			
+        
+        
+        
+        
+               
+            
+            
 
-			
-			
-		
-		
-			
-			
-			
-			
-			
+            
+            
+            
+        
+        
+           
+        
+        
+            
+            
+               
+            
+        
+        
+          
+            
+            
+            
+            
 
-			
-			
-			
-			
-			
-				
-		
-		
-		<div class="right_picture" style="background:url(http://storage.uadreams.com/content/events/usual/right_pict_1.jpg)  no-repeat 16px 0;">
-		
-		
-		
-		<a href="/shop.rpx?group=83" class="tooltip" tooltip-track="true" title="UaDreams.com" style="width:260px; height:210px;  text-decoration:none; float:right; display:block;">&nbsp;</a>
-		
-		</div>
-		
-		<div class="left_picture_block">
-			
+            
+            
+            
+            
+            
+             
+        
+        
+        <div class="right_picture" style="background:url(http://storage.uadreams.com/content/events/valentinesday/right_pict_5.jpg)  no-repeat 16px 0;">
+        
+        
+        
+       
+        <a href="/" class="tooltip" title="Move the way your heart leads you..." style="width:260px; height:210px;  text-decoration:none; float:right; display:block;">&nbsp;</a>
+        
+        </div>
+        
+        <div class="left_picture_block">
+            
 
-		
-		
+        
+        
 
 
-			
-		<div class="left_picture" style="background:url(http://storage.uadreams.com/content/events/usual/left_img_9.jpg) right top no-repeat;">
-		</div>	
-		</div>
-		
-		
-		
-	</div>	
-	<div class="clearer"></div>
-	
+            
+        <div class="left_picture" style="background:url(http://storage.uadreams.com/content/events/valentinesday/left_img_59.jpg) right top no-repeat;">
+            <a href="/women/Lena-Odessa-2930" class="girlBlock_onimg" style="color:#FFFFFF; text-decoration:none; font:11px/12px Arial, Helvetica, sans-serif; font-weight:bold;position: absolute; display: block; top:5px; left:0px;padding:6px; z-index: 999;background-color:rgb(25, 114, 176);">Lena #2930</a>
+        </div>  
+        </div>
+        
+        
+        
+    </div>  
+    <div class="clearer"></div>
+    
 </div>
 
 <div class="content_new" style="text-align:left;">
-	
-	
-	
+    
+    
+    
 
 
 
@@ -996,81 +1067,77 @@ var credits = {
 <div class="clearer" style="clear:both;"></div>
 </div>
 <div class="body_bottom">
-	<div class="footer_new">
-	
- 		
-		<div class="footerupborder"></div>
-		
-		
-		
+    <div class="footer_new">
+    
+        
+        <div class="footerupborder"></div>
+        
+        
+        
 
-		<a href="javascript:void(0)" onclick="scroll(0,0)" class="top">
-			<div>				
-					
-			</div>
-		</a>
-			<div class="follow">
-				
-			<div class="row">
-				<div class="circle"> 
-					<a href="https://plus.google.com/117383010698117267573" rel="publisher" target="_blank">
-						<img src="/img/style/gplus_circle.png">
-					</a>
-				</div>
-				<div class="gplus">
-					            
-		            <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-					<!-- Поместите этот тег туда, где должна отображаться кнопка +1. -->
-					<div class="g-plusone" data-width="300" data-href="http://www.uadreams.com/kernel/privacy_policy.rpx" style="float: left;" align="left"></div>	
-					<!-- Поместите этот тег за последним тегом виджета кнопка +1. -->
-		    		<script type="text/javascript">
-		  				(function() {
-		    				var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-		    				po.src = 'https://apis.google.com/js/plusone.js';
-		    				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-						})();
-					</script>
-					
-					
-				</div>
-			</div>
-			
-			<div class="row">
-				<div class="circle"> 
-					<a href="https://www.facebook.com/pages/Uadreamscom/121646464707929" target="_blank">
-						<img src="/img/style/fb_circle.png">
-					</a>
-				</div>
-				<div class="fb">
-					
-					<div id="fb-root"></div>
-					<script>(function(d, s, id) {
-					  var js, fjs = d.getElementsByTagName(s)[0];
-					  if (d.getElementById(id)) return;
-					  js = d.createElement(s); js.id = id;
-					  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-					  fjs.parentNode.insertBefore(js, fjs);
-					}(document, 'script', 'facebook-jssdk'));</script>
-					<div class="fb-like" data-href="http://www.uadreams.com/kernel/privacy_policy.rpx" data-send="false" data-layout="button_count" data-width="450" data-show-faces="true"></div>
-					
-				</div>
-			</div>
-			<div class="row">
-				<div class="circle"> 
-					<a href="http://www.youtube.com/user/uadreams" target="_blank">
-						<img src="/img/style/yt_circle.png">
-					</a>
-				</div>
-				<div class="youtube">UaDreams on YouTube</div>
-			</div>
-              	
-		</div>	
+        <a href="javascript:void(0)" onclick="scroll(0,0)" class="top">
+            <div>              
+                    
+            </div>
+        </a>
+            <div class="follow">
+              
+            <div class="row">
+                <div class="circle"> 
+                    <a href="https://plus.google.com/117383010698117267573" rel="publisher" target="_blank">
+                        <img src="/img/style/gplus_circle.png">
+                    </a>
+                </div>
+                <div class="gplus">
+                                
+                    <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+                    <!-- Поместите этот тег туда, где должна отображаться кнопка +1. -->
+                    <div class="g-plusone" data-width="300" data-href="http://www.uadreams.com" style="float: left;" align="left"></div>  
+                    <!-- Поместите этот тег за последним тегом виджета кнопка +1. -->
+                    <script type="text/javascript">
+                        (function() {
+                            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                            po.src = 'https://apis.google.com/js/plusone.js';
+                            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                        })();
+                    </script>
+                    
+                    
+                </div>
+            </div>
+            
+            <div class="row">
+                <div class="circle"> 
+                    <a href="https://www.facebook.com/pages/Uadreamscom/121646464707929" target="_blank">
+                        <img src="/img/style/fb_circle.png">
+                    </a>
+                </div>
+                <div class="fb">
+                    
+                    <div id="fb-root"></div>
+                    <script>(function(d, s, id) {
+                      var js, fjs = d.getElementsByTagName(s)[0];
+                      if (d.getElementById(id)) return;
+                      js = d.createElement(s); js.id = id;
+                      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+                      fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));</script>
+                    <div class="fb-like" data-href="http://www.uadreams.com" data-send="false" data-layout="button_count" data-width="450" data-show-faces="true"></div>
+                    
+                </div>
+            </div>
+           
+              
+                
+        </div>  
 
-			<div class="footer_info" style="height: 375px;">
-			
-	
-			
-			
+            <div class="footer_info" style="height: 375px;">
+            
+                 
+                    
+                    
+
+
 		
 
 <ul class="footer_menu_new">
@@ -1084,29 +1151,30 @@ var credits = {
 	<li class="footer_super_narrow"><a href="/">Home</a></li>
 	<li class="footer" style="margin-right: 5px;"><a href="/agency/our_mission.html">Agency</a>
 		<ul>
-			 <li><a href="/agency/our_mission.html">Our mission</a></li>
+			<li><a href="/agency/our_mission.html">Our mission</a></li>
        		<li><a href="/agency/quick_start.html">Quick start</a></li>  
        		    
-		  <li><a href="/branches/branches.html">13 branches in Ukraine</a></li>		   
-		  <li><a href="/agency/antiscam.html">Agency against scams</a></li>
-		  <li><a href="/agency/charity.html">Charity event</a></li>
-		   <li><a href="/agency/marriages.html">Just married</a></li>	
-		   <li><a href="/agency/testimonials.html">Testimonials</a></li>  	  
-		   <li><a href="/agency/merry_christmas.html">Having fun on Christmas</a></li>
-		   <li><a href="/agency/articles/index.html">Articles</a></li>
+		    <li><a href="/branches/branches.html">13 branches in Ukraine</a></li>		   
+		    <li><a href="/agency/antiscam.html">UaDreams against scams</a></li>
+			<li><a href="/agency/charity.html">Charity event</a></li>
+		    <li><a href="/agency/marriages.html">Just married</a></li>	
+		    <li><a href="/agency/testimonials.html">Testimonials</a></li>  	  
+		    <li><a href="/agency/merry_christmas.html">Having fun on Christmas</a></li>
+		    <li><a href="/agency/articles/index.html">Articles</a></li>
 		</ul>
 	</li>
  	<li style="margin-right: 10px;"><a href="/show.rpx">Ladies </a>
 		<ul>
-		  <li><a href="/user_video_chat.rpx">Video Chat gallery</a></li>
-          <li><a href="/show.rpx">Gallery of Ladies</a></li>
-          <li><a href="/show.rpx?newladies=1">New Ladies</a></li>
-          <li><a href="/show.rpx?have_video=1">Video Gallery</a></li>
-          <li><a href="/ladies/romance_dictionary.html">Romantic dictionary</a></li>
-          <li><a href="/ladies/shewant.html">What does she want?</a></li>
-          <li><a href="/ladies/ladies_about_love.html">Ladies' dreams about love</a></li>
-           <li><a href="/agency/ladies_photos.html">How we take ladies' photos</a></li>
+		    <li><a href="/user_video_chat.rpx">Video Chat gallery</a></li>
+            <li><a href="/show.rpx">Gallery of Ladies</a></li>
+            <li><a href="/show.rpx?newladies=1">New Ladies</a></li>
+            <li><a href="/show.rpx?have_video=1">Video Gallery</a></li>
+            <li><a href="/ladies/romance_dictionary.html">Romantic dictionary</a></li>
+            <li><a href="/ladies/shewant.html">What does she want?</a></li>
+            <li><a href="/ladies/ladies_about_love.html">Ladies' dreams about love</a></li>
+			<li><a href="/agency/ladies_photos.html">How we take ladies' photos</a></li>
             <li><a href="/agency/parade_of_brides.html">Parade of brides</a></li>
+            <li><a href="/ladies/age_difference.rpx">Age Gap: should it matter?</a></li>
 		</ul>
 	</li>		
 	<li style="margin-right: 0px;"><a href="/services/">Services </a>
@@ -1162,45 +1230,47 @@ var credits = {
 </ul>
 
 
-			
-			
-			
-			<div class="copyright" style="margin: 0px -15px 10px 0px; float: right;">
-				
-			
-			<div style="margin-top: 5px;" class="row">
-				<a href="/rss/" target="_blank" class="rss">RSS</a>
-				<a href="http://uadreams.mobi" class="mobi">Mobile version</a>
-				<a href="/user_terms_and_conditions.rpx">Terms and conditions</a>
-				<a href="/privacy_policy.rpx">Privacy policy</a>
-				<a href="/user_refund_policy.rpx" style="padding-right: 10px;">Refund policy</a>
-			</div>
-			
-			</div>
-			
-			<div style="clear:both; font-size:0px;"></div>
-		
-		</div>
-		
-	</div>
-	<div class="f_shadow"></div>
-	
-	
-	
-	
-	
-	<div class="notice_block">
+                
+            
+            
+            
+            
+            <div class="copyright" style="margin: 0px -15px 10px 0px; float: right;">
+                
+            
+            <div style="margin-top: 5px;" class="row">
+                <a href="/rss/" target="_blank" class="rss">RSS</a>
+                <a href="http://uadreams.mobi" class="mobi">Mobile version</a>
+                <a href="/user_terms_and_conditions.rpx">Terms and conditions</a>
+                <a href="/privacy_policy.rpx">Privacy policy</a>
+                <a href="/user_refund_policy.rpx" style="padding-right: 10px;">Refund policy</a>
+            </div>
+            
+            </div>
+            
+            <div style="clear:both; font-size:0px;"></div>
+            <div id="page_time_load" style="position: absolute; bottom: 0px; left: 0px; color: #FFFFFF;font-size: 10px;">
+            </div>
+        </div>
+        
+    </div>
+    <div class="f_shadow"></div>
+    
+    
+    
+    
+    
+    <div class="notice_block">
 
-		
-		<div class="link"> <a href="https://plus.google.com/117383010698117267573" rel="publisher" target="_blank">UaDreams on Google +</a>	</div>
-		<div class="link"> <a href="https://www.facebook.com/pages/Uadreamscom/121646464707929" target="_blank">UaDreams on Facebook</a>	</div>
-		<div class="link"> <a href="http://www.youtube.com/user/uadreams" target="_blank">UaDreams YouTube Channel</a>	</div>
-		<div class="notice">
-		
-		Did you notice any mistakes in our grammar on this page? <br>To suggest corrections, please select the mistake <br>and highlight it with the mouse then press Ctrl+Enter on the keyboard!
-		</div>
-		
-	</div>
+        
+        <div class="link"> <a href="https://plus.google.com/117383010698117267573" rel="publisher" target="_blank">UaDreams on Google +</a> </div>
+        <div class="link"> <a href="https://www.facebook.com/pages/Uadreamscom/121646464707929" target="_blank">UaDreams on Facebook</a>    </div>
+       
+        <div class="notice">
+        
+        Did you notice any mistakes in our grammar on this page? <br>To suggest corrections, please select the mistake <br>and highlight it with the mouse then press Ctrl+Enter on the keyboard!
+        </div>
+    </div>
 </div>
 
 
@@ -1208,6 +1278,12 @@ var credits = {
 
 
 
+
+<script type="text/javascript">
+    $().ready(function(){
+        $("#page_time_load").text("0.9 // 0.0");
+    });
+</script>
 
 
 
