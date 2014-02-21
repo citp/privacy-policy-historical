@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newspaper.li privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805205701id_/http%3A//newspaper.li/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newspaper.li privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221211004id_/http%3A//newspaper.li/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
