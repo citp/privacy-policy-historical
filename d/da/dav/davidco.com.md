@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidco.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524143520id_/http%3A//www.davidco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidco.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221102430id_/http%3A//www.davidco.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | David Allen, Getting Things Done® and GTD®
 
@@ -35,12 +35,3 @@ WEBSITE PRIVACY POLICY
 Last Revised: April 14, 2009 
 
 David Allen Company Website Privacy Policy
-
-  * [](https://web.archive.org/print/privacy-policy "Display a printer-friendly version of this page.")
-
-
-
-[](http://www.addthis.com/bookmark.php?v=250&pubid=xa-4d9dbc04179df2a8)
-
-  
-
