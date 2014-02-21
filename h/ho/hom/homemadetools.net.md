@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homemadetools.net privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104140347id_/http%3A//www.homemadetools.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemadetools.net privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221093321id_/http%3A//www.homemadetools.net/privacy_policy) for the most accurate reproduction.*
 
 # HomemadeTools.net: Privacy Policy
 
@@ -8,7 +8,7 @@ We take your privacy seriously. We are providing this Policy to inform you of ou
 
 Unless otherwise defined in this Policy, terms used in this Policy have the same meanings as in our Terms of Service, accessible at <http://www.homemadetools.net/terms_of_service>. 
 
-The Site and Service are provided by Homemade Media, Inc. We'll refer to Homemade Media, Inc. as "Homemade Media, Inc.," "us," "we," or similar terms.
+The Site and Service are provided by Buildthreads, Inc. We'll refer to Buildthreads, Inc. as "Buildthreads, Inc.," "us," "we," or similar terms.
 
 As used in this Policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
 
