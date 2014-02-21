@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adrenalin.com.au privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501191245id_/http%3A//www.adrenalin.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adrenalin.com.au privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221042802id_/http%3A//www.adrenalin.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -7,11 +7,14 @@ Copyright in the Material on this Web Site is owned, or licensed by TRACKCORP AD
 Except where necessary for viewing, the Material on this web site on your browser, or as permitted under the Copyright Act of 1968, or other applicable laws, no Material on this web site may be reproduced, adapted, uploaded to a third party, linked to, framed, performed in public, distributed, or transmitted in any form by any process without the specific written consent of TRACKCORP ADRENALIN PTY LTD.
 
 'Adrenalin', 'LIVE Adrenalin', 'A.365', 'Serious Fun', ‘Corporate Adrenalin’ and ‘a.gear’ all associated trademarks, are trademarks of TRACKCORP ADRENALIN PTY LTD.  ACN 117 402 838.  
- **  
-Privacy  
-**[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.adrenalin.com.au&sealid=101)
+ ****
 
-TRACKCORP ADRENALIN PTY LTD takes the issue of safeguarding your privacy online seriously. We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the Adrenalin network of sites (and emails) including [www.adrenalin.com.au](http://www.adrenalin.com.au/) and [www.adrenalin.com.au/corporate/](http://www.adrenalin.com.au/corporate/). 
+  
+**Privacy**
+
+[](https://privacy.truste.com/privacy-seal/Trackcorp-Adrenalin-Pty-Ltd/validation?rid=f25d380c-0ed9-4a5e-aa77-03ce35ada8f5 "TRUSTe online privacy certification")
+
+TRACKCORP ADRENALIN PTY LTD takes the issue of safeguarding your privacy online seriously. We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the Adrenalin network of sites (and emails) including [www.adrenalin.com.au](http://www.adrenalin.com.au/) and [www.adrenalin.com.au/corporate/](http://www.adrenalin.com.au/corporate/).
 
   
 TRACKCORP ADRENALIN PTY LTD has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organisations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, [please contact us](http://www.adrenalin.com.au/contact/). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
@@ -25,13 +28,13 @@ Where we store your personal information depends on what products and services y
 Ways we use data**   
 We collect your personal information so that we can use it for our functions and services. This may include, but is not limited to:
 
-  * processing your orders including bookings, gift vouchers, gear and membership. 
-  * providing confirmation of your adventure booking and advise of any changes or additional information. 
-  * sending out feedback and surveys and addressing any issues or complaints. 
-  * answering any queries about Adrenalin and its products and services. 
-  * sending targeted advertising and promotions that allow us to provide our service; 
-  * sending special deals, promotions and offers based on users interests plus other news on Adrenalin including updates of new, or enhanced services. 
-  * confirming receipt of profile changes. 
+  * processing your orders including bookings, gift vouchers, gear and membership.
+  * providing confirmation of your adventure booking and advise of any changes or additional information.
+  * sending out feedback and surveys and addressing any issues or complaints.
+  * answering any queries about Adrenalin and its products and services.
+  * sending targeted advertising and promotions that allow us to provide our service;
+  * sending special deals, promotions and offers based on users interests plus other news on Adrenalin including updates of new, or enhanced services.
+  * confirming receipt of profile changes.
 
 
 
@@ -44,13 +47,13 @@ Disclosure of data**
 We will not share your information with third parties for their promotional purposes without your permission; however we may obtain personal and other information from you to enable us to provide our services or products to you.   
 Personal information may also be disclosed to our third party service providers as described below:
 
-  * To the adventure provider for the purpose of processing your booking request 
-  * To others in the event of a medical emergency 
-  * To any entity to which we are required, or authorised by or under law to disclose such information such as, in responding to a formal request in a court order, judicial proceeding or subpoena. 
-  * To protect against misuse or unauthorised use of Adrenalin 
-  * To protect the safety, or property of our members, or the public. 
-  * We use a third party payment processor to fulfill payment for services procured on the Site. 
-  * In the event of a sale, merger, or acquisition of some, or all of Adrenalin’s assets, your personal information could likely be a part of the transferred assets. In such an event we shall notify you by a notice on the home page of any information and privacy practices that would change as a result. 
+  * To the adventure provider for the purpose of processing your booking request
+  * To others in the event of a medical emergency
+  * To any entity to which we are required, or authorised by or under law to disclose such information such as, in responding to a formal request in a court order, judicial proceeding or subpoena.
+  * To protect against misuse or unauthorised use of Adrenalin
+  * To protect the safety, or property of our members, or the public.
+  * We use a third party payment processor to fulfill payment for services procured on the Site.
+  * In the event of a sale, merger, or acquisition of some, or all of Adrenalin’s assets, your personal information could likely be a part of the transferred assets. In such an event we shall notify you by a notice on the home page of any information and privacy practices that would change as a result.
 
 
 
@@ -58,9 +61,9 @@ We request demographic information for our own market research and understanding
  **  
 Collection of information other than personal information**
 
-  * IP addresses/operating system/browser type: When you visit our web site or click on one of our links, we may automatically record information such as your I.P. address, operating system, browser version, date and time of your visit, pages you accessed and information you downloaded. We use this information to generate usage statistics, ensure that our site and emails are accessible to the widest possible audience and to assist in improving the quality and usability of our website. We may also use I.P. addresses to track abuse of our system. 
-  * Links: When we provide you with links in our emails, they may include a special tracking code unique to you, which allows us to determine which content and advertisements are most popular. We may share this data in aggregate form, but we will never share it in individual form. 
-  * Cookies: A cookie is a small string of information that a website transfers to your browser for identification purposes. We may use cookies to determine which third party offers our members utilise and to personalise your current visit to our website. The information in cookies is not tied to your personal information. Most internet browsers can be set up to accept, or reject cookies, however rejecting cookies may limit the functionality of our website. 
+  * IP addresses/operating system/browser type: When you visit our web site or click on one of our links, we may automatically record information such as your I.P. address, operating system, browser version, date and time of your visit, pages you accessed and information you downloaded. We use this information to generate usage statistics, ensure that our site and emails are accessible to the widest possible audience and to assist in improving the quality and usability of our website. We may also use I.P. addresses to track abuse of our system.
+  * Links: When we provide you with links in our emails, they may include a special tracking code unique to you, which allows us to determine which content and advertisements are most popular. We may share this data in aggregate form, but we will never share it in individual form.
+  * Cookies: A cookie is a small string of information that a website transfers to your browser for identification purposes. We may use cookies to determine which third party offers our members utilise and to personalise your current visit to our website. The information in cookies is not tied to your personal information. Most internet browsers can be set up to accept, or reject cookies, however rejecting cookies may limit the functionality of our website.
   * Web beacons: Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyse how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
 
 
@@ -78,7 +81,7 @@ Our servers are equipped with 128-bit encryption bit technology (designated secu
 If you no longer wish to receive Adrenalin’s publications, you may remove your details from the subscriptions list by clicking on the ‘unsubscribe’ link at the bottom of the associated email. Alternatively, you can email [seriousfun@adrenalin.com.au](mailto:seriousfun@adrenalin.com.au?subject=Unsubscribe) with the subject heading ‘Unsubscribe’. Please note that by law, Adrenalin has 5 days to action your unsubscribe request.  
  **  
 Reviews  
-** We provider users’ an opportunity to review their adventures; we post their first name and last initial with their review after obtaining their consent. Please be aware that Adrenalin is not responsible for the personal information a user selects to include within their review. 
+** We provider users’ an opportunity to review their adventures; we post their first name and last initial with their review after obtaining their consent. Please be aware that Adrenalin is not responsible for the personal information a user selects to include within their review.
 
 **Notification of Changes**   
 Adrenalin reserves the right to modify this privacy policy. For this reason, you should regularly check our policy to ensure that you are up to date on our policy. Should we make material changes in the manner we handle your personal information, we shall notify you by a prominent notice on the home page.  
