@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gazettextra.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109011645id_/http%3A//gazettextra.com/Services/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gazettextra.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221223932id_/http%3A//www.gazettextra.com/Services/PrivacyPolicy) for the most accurate reproduction.*
 
 # GazetteXtra | Terms of Use and Privacy Policy
 
