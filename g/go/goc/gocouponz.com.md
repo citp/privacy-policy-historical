@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gocouponz.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222182102id_/http%3A//gocouponz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gocouponz.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221151059id_/http%3A//gocouponz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LoGo Logos
 
