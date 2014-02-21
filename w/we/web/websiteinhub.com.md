@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websiteinhub.com privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915015059id_/http%3A//websiteinhub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websiteinhub.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221085159id_/http%3A//websiteinhub.com/privacy-policy) for the most accurate reproduction.*
 
 # WebsiteInHub.com Privacy Policy
 
