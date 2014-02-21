@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiagol.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221103854id_/http%3A//www.indiagol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiagol.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221123806id_/http%3A//www.indiagol.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IndiaGOL.com
 
