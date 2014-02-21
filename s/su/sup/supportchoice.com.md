@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supportchoice.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525055019id_/http%3A//www.supportchoice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supportchoice.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221131537id_/http%3A//www.supportchoice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SupportChoice - Instant Computer Support
 
