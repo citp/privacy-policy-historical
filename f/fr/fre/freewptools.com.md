@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freewptools.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604002549id_/http%3A//www.freewptools.com/p/this-privacy-policy-governs-manner-in.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewptools.com privacy policy that was archived on 2014-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140222193029id_/http%3A//www.freewptools.com/p/this-privacy-policy-governs-manner-in.html) for the most accurate reproduction.*
 
-# Privacy Policy- Free Download Premium Wordpress Themes | FreeWPTools
+# Privacy Policy - Free Download Premium Nulled Wordpress Themes : Plugins | FreeWPTools
 
 This Privacy Policy governs the manner in which Freewptools collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.freewptools.com](http://www.freewptools.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Freewptools.
 
