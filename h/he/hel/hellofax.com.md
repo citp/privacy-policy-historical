@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellofax.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205161300id_/https%3A//www.hellofax.com/info/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellofax.com privacy policy that was archived on 2014-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140222195223id_/https%3A//www.hellofax.com/info/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | HelloFax
 
@@ -31,6 +31,10 @@ This Site is not intended for or directed to persons under the age of 13. Any pe
 ### Cookies.
 
 Cookies are small text files stored by your browser in your computer when you visit our Site. We use cookies to improve our Site and make it easier to use. Cookies permit us to recognize users and avoid repetitive requests for the same information. We mostly use "session cookies" that are automatically deleted after each visit. Cookies from our Site can not be read by other Sites. Most browsers will accept cookies until you change your browser settings to refuse them. 
+
+### Google.
+
+This Site uses certain Google advertising features including Google Analytics Demographics and Interest Reporting and Remarketing. Third-party vendors, including Google, may show this Sites' ads on sites across the Internet. You may opt out at any time [here](https://www.google.com/settings/ads). We and third-party vendors, including Google, use first-party cookies and third-party cookies together to inform, optimize, and serve ads based on someone's past visits to our website. 
 
 ### Your Consent To This Privacy Policy.
 
