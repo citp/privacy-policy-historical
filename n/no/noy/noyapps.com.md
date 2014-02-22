@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noyapps.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813201843id_/http%3A//noyapps.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noyapps.com privacy policy that was archived on 2014-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140222231828id_/http%3A//noyapps.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | noyapps.com
 
@@ -82,4 +82,4 @@ We may update this privacy statement to reflect changes to our information pract
 
 You can contact us about this privacy statement by emailing us at: [support@noyapps.com](mailto:support@noyapps.com)
 
-Copyright © 2010-2012 noyapps.com All rights reserved.
+Copyright © 2010-2013 noyapps.com All rights reserved.
