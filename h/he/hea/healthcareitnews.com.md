@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcareitnews.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001145538id_/http%3A//www.healthcareitnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcareitnews.com privacy policy that was archived on 2014-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140222093533id_/http%3A//www.healthcareitnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Healthcare IT News
 
@@ -52,7 +52,7 @@ We will occasionally send you information on products, services, special deals, 
 
 **Webinars and White Papers**
 
-By accessing a webinar or white paper content asset, you agree to your contact information being supplied to the sponsor of that content asset. Only the information that you have supplied will be sent to the sponsor. Once you provide your contact information through our form, your information will be supplied to that sponsor even if you have previously opted out of receiving information from MedTech sponsors.
+By accessing a webinar or white paper content asset, you agree to your contact information being supplied to the sponsor of that content asset. Only the information that you have supplied will be sent to the sponsor. Once you provide your contact information through our form, your information will be supplied to that sponsor even if you have previously opted out of receiving information from HIMSS Media sponsors.
 
 **Disclaimer**
 
