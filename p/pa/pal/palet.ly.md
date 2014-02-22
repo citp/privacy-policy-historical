@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the palet.ly privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116150853id_/http%3A//palet.ly/privacy%2520policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palet.ly privacy policy that was archived on 2014-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140222233631id_/http%3A//palet.ly/privacy) for the most accurate reproduction.*
 
-# 
+# Palet.ly | Discover Celebrity Looks, Street Style, Fashion Trends
 
 Thank you for using Paletly! This Privacy Policy has been written to help you understand what information we collect, how we use it, and what choices you have regarding your information.
 
