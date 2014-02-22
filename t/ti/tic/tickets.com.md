@@ -1,459 +1,127 @@
-> *The following text is extracted and transformed from the tickets.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810042924id_/http%3A//www.tickets.com/aboutus/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickets.com privacy policy that was archived on 2014-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140222065446id_/http%3A//www.tickets.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - Tickets.com
 
-Privacy Principles for Non USA Based Business:   
-**ticket·privacy** SM
+**Tickets.com, Inc. Privacy Policy**
 
-Tickets.com, Inc., a Delaware corporation with its principal place of business in California (the "Company"), created **ticket·privacy** SM in order to demonstrate the Company's firm commitment to your privacy and privacy-related concerns. The following sets forth the Company's information gathering, use, and dissemination practices.
+Protecting the privacy of your personal information is important to Tickets.com, Inc. (the “Company”). To ensure that your personal information is maintained securely and privately, we have developed the following Privacy Policy. This Privacy Policy describes the type of information that we collect from you and the Company's practices with respect to the gathering and disseminating of information about, and to you. This Privacy Policy was established within the context, and applies to the use, of our Tickets.com Website and the services, features, content or applications offered by the Company. Our Privacy Policy is applicable to not only the use of the Tickets.com website, but also all interactions between you and the Company, as there is the possibility that during such interaction, we may acquire your personal information.
 
-It is the Companies policy to allow our customers to control what personal information you provide to us. As a customer of the Company you:
+* **How And When Does the Company Collect Non-Public Personal Information?**
 
-  1. Control what personally identifiable information is collected
-  2. Control what the Company can do with the information
-  3. Have our commitment to your right of privacy
+In the course of selling tickets or other merchandise, we may collect and maintain certain nonpublic personal information that will help us to more efficiently perform various transactions. In addition, we may be required to share your personal information with certain entertainment organizations and venues (an “Event Host”) as part of our contractual relationship with them. Of course, if you wish to purchase tickets to an event and remain anonymous, you may purchase your tickets in person, directly through the Event Host's box office.
 
+We do not collect personal information (such as names, addresses, phone numbers, email addresses or credit card numbers) about you except when you specifically provide such information on a voluntary basis, or as necessary to perform various transactions. Some examples of personal information collected during your utilization of our services are your username, password, first and last name, address, birth date and email address. The following list is illustrative of some types of personal information collected, however it is not meant to be exhaustive:
 
+Your personal information may be collected as you:
 
-Information Collection - Notice and Disclosure Statement
+  * Become a registered user of the Tickets.com Website
+  * Purchase tickets or admission to an event or venue
+  * Sign-up or subscribe for products or services that we may periodically make available
+  * Participate in special promotions
 
-From time to time, Tickets.com may ask customers to provide personal information that will help the Company efficiently perform various transactions. That information may be sought as you:
+  
 
-  1. Register for general information
-  2. Register for a free trial or demonstration of certain products and services
-  3. Sign up or subscribe to products and services
-  4. Participate in a special offer or contest
+* **How And When Does the Company Use Non-Public Personal Information?**
 
+The Company may utilize your personal information in several discrete ways, including, but not limited to, any of the following:
 
+  * If you are purchasing tickets or admission to an event or venue, the Company utilizes your personal information to complete the purchase transaction and to communicate with you about your ticket order, ticket delivery or other inquiry.
+  
 
-The Company does not collect personal information -- names, addresses, phone numbers, email addresses or credit card numbers -- about you except when you specifically provide such information on a voluntary basis; like, for instance, purchase sports or entertainment tickets, or make inquiries about ticket or reservation availability.
+  * Whenever you purchase tickets or admission to an event or venue, we may be required to share your personal information with a third party credit card processor to facilitate completion of your transaction. The credit card processor may share the same information with your credit card issuer for the issuer's use in connection with gathering data related to use of their cards, rewards programs or other purposes. Tickets.com is not liable nor exercises control over any of the interactions between credit card processors, issuers, or the like. You are urged to read and become familiar with the privacy policies governing the use of your credit cards.
+  
 
-The Company may utilize your personal information in several discrete ways.
+  * When you purchase a ticket or admission to an event or venue, we may be contractually required to pass your personal information to the Event Host so that they may communicate with you about the event you are going to attend. Under those circumstances, we cannot offer you the option to opt-out from having your information passed to the Event Host, and Tickets.com shall not liable for the use of your personal information by the Event Host.
+  
 
-  * If you are purchasing sports or entertainment tickets, the Company utilizes your personal information to communicate with you about your ticket order or ticket inquiry. Also, as is always the case whenever you buy a ticket to a sports or entertainment event, the entertainment organization is entitled to know the name and address of all who purchased a ticket. The Company has no control whatsoever over the entertainment organization's use of that information.
-  * If you come to our web site from one of our strategic partners or register with us, your personal information provided to us may be shared with our strategic partners and used in accordance with their standard policies.
-  * As a valued customer of Tickets.com the Company will occasionally contact you, typically by email (or any other way you prefer) in order to notify you of special ticketing promotions, and up-to-date news, custom-tailored to your personal sports, and entertainment interests. Of course, if you do not wish to receive this personalized information, you can always let us know by e-mailing us at [webfeedback@tickets.com](mailto:webfeedback@tickets.com), and we will happily abide by your wishes.
-  * Notwithstanding the foregoing, the Company reserves the right to contact you, utilizing your personal information, to inform you of information that might affect your sports or entertainment experience.
+  
+**Event Hosts are not subject to the provisions of this Privacy Policy, which means that they may use your personal information for purposes other than contacting you about the event you are going to attend, unless you contact them and request otherwise. When you purchase tickets to an event, you should read and become familiar with the privacy policies of the Event Host. The Company has no control over the use of your personal information by any Event Host and you agree that we are not liable for any use of your personal information by an Event Host. If you have special preferences concerning use of your personal information by an Event Host, you must communicate those preferences directly to them.**
 
+When you visit our Website, we may also gather certain information about the use of your computer that we aggregate with similar information collected from other visitor's computers, which we use for statistical and other purposes (see “Aggregate Information” described in Section 4 below).
 
+Third-party advertising companies utilize our Website to display ads of their choosing. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-The Company uses your Internet Protocol (IP) address to help diagnose problems with our computer server, and to administer our web site. Your IP address is used to help identify you, and to gather broad demographic data. Your IP address contains no personal information about you.
+You should note that when you leave this Site, whether via a link provided by us or otherwise, you may enter a site owned and controlled by a third party (“Third Party Sites”). Accordingly, this policy does not apply to any information that you share on Third Party Sites. Before disclosing information, you should verify that you know the identity of the party to whom you are making a disclosure and the privacy policy that applies to the treatment of your information.
 
-The Company does, however, perform statistical analysis of customer usage in order to measure interest in, and use of, the various parts of the Company's web site, and the Company shares that information with current and prospective advertisers, and other interested third parties. But, this information is aggregated data only (statistics, etc.), and contains no personally identifiable information whatsoever.
+We may occasionally contact you, typically by email, to notify you of information that might affect your event experience, cancellations, or errors in your order. Additionally, we may contact you regarding offerings of future events, products, or services that may be of interest to you. If you are not interested in receiving email notices or advertisement from us, you can unsubscribe at any time.
 
-Tickets.com users should be aware that non-personal information and data may be automatically collected by virtue of the standard operation of the Company computer servers or through the use of "cookies". Cookies are files a web site can use to recognize repeat users, and allow a web site to track web usage behavior. Cookies take up minimal room on your computer and cannot damage your computer's files. Cookies work by assigning a number to the user that has a specific meaning to the assigning web site. Cookies, by themselves, cannot be used to find out the identity of any user. Unless you choose to provide us with information about you, the Company will never know who you are, even though we assign your computer a cookie. Other companies that place advertising on our site also have the ability to assign a different cookie to you in a process that the Company does not control. But since cookies aren't useable for identifying individuals, these advertisers will never know who you are - and the Company will never tell them! If you do not want information to be collected through the use of cookies, your browser allows you to deny or accept the use of cookies. There may, however, be some features on the Company's web site that require the use of cookies in order to customize the delivery of information to you.
+In certain instances, you may consent to share personal information via an “opt-in” or “opt-out” mechanism. Upon receiving your consent via such mechanism, Tickets.com may disclose your personal information to third parties.
 
-Consent/Choice Statement
+Tickets.com may share personal information to trusted third parties or agents who assist us in operating our Site, conducting our business, or the provision of the Services to you. These third parties or agents may use your personal information only to the extent necessary to perform the services they provide to Tickets.com, and are required to provide a comparable level of protection and confidentiality of your personal information.
 
-The Company does not sell or rent personal information about its customers to any third parties at this time. In the event the Company does engage in such commerce in the future, you will have an opportunity to remove yourself from any such lists prior to your inclusion therein by emailing us at [webfeedback@tickets.com](mailto:webfeedback@tickets.com).
+Tickets.com may release your information if, at our sole discretion, we believe the release of your personal information is necessary to (a) comply with a legal obligation such as a court order or subpoena, (b) protect and defend the rights or property of Tickets.com, (c) protect and defend the rights, property or safety of others, or (d) to protect against legal liability. Additionally, your personal information may be shared in the event of a business transfer.
 
-Data Quality and Security Statement
+* **Opting-out, Correcting and Updating Your Information**
 
-The Company maintains strict data security systems that ensure specific individual information will not be made available to any unauthorized person. We use a multi-level security system to control access to information stored for our customers. This is complemented with physical security of our facilities and limited access to certain critical areas.
+Tickets.com utilizes Email as a vital and primary communication channel with registered users of this Site. By providing us with your Email address, you grant to Tickets.com (and its service providers) permission to communicate with you via Email for any purposes Tickets.com determines to be relevant to your use of this Site or your relationship with Tickets.com, including, but not limited to, system messages, product updates, service announcements and other marketing messages. You may opt out of receiving any marketing messages that we may send to you.
 
-The Company is committed to educate our employees about the issues and laws surrounding individual rights to privacy. We provide information to all employees on the importance of consumer privacy. We provide ongoing education to our employees on the laws and accepted practices under which the Company operates. All new employees agree, as a condition of employment with us, to safeguard the personal data that is under our control. We ensure that all employees understand the provisions of our Privacy Policy.
+Users who do not wish to receive marketing Emails are requested to contact Tickets.com Client Services via Email [(Support@Tickets.com)](mailto:Support@Tickets.com). Users are not able to un-subscribe from system messages, product updates and service announcements, which contain important information about service notices and responsibilities. Tickets.com occasionally communicates with its users via Email to provide information about requested services and regarding issues related to their account.
 
-The Company is committed to work with recognized trade associations and organizations that support consumer privacy. 
+* **How Long Is Your Personal Information Retained?**
 
-In each country where we operate, we actively participate in the Direct Marketing Association's efforts to maintain and develop appropriate industry guidelines that safeguard the individual's right to privacy. We recognize and actively support sectoral codes of practice and relevant legislation which covers other industry-specific guidelines on privacy such as the European Union Data Protection Act, the recommendations of the Office of Telecommunications in the UK, and the National Health and Medical Research guidelines in Australia. 
+If you are a registered user of our Website, we may retain your information as long as you maintain your registered status. If you purchase tickets or other merchandise using a credit card, we will retain your credit card information for a length of time reasonably necessary to process any future transactions related to your purchases, including refunds and charge backs. From time to time, and out our discretion, we purge our computer system of information relating to visitors of our Website and their past transactions.
 
-Data Protection and Privacy legislation was originally developed in Europe and now exists in many countries worldwide. Wherever the Company operates, we are committed to adhering to the relevant data protection legislation and/or industry codes of practices. 
+* **What Is “Aggregate Information” And What Does the Company Do With It?**
 
-Privacy Principles for Non USA Based Business
+Typically, as visitors browse our Website, our computers automatically collect information related to how certain features of our Website are used, the geographic region our visitors are contacting us from, and how many people visit our Website at any given time. We only use this information in the aggregate, which means that we only derive meaning from the sum of all such information gathered for a period of time and accordingly, we refer to this information as “Aggregate Information”. Aggregate Information includes, but is not limited to, your computer's (i) Internet browser type (e.g., Microsoft Internet Explorer 5.5), (ii) IP address, (iii) resolution settings, (iv) platform type, and (v) originating URLs of referring web pages. We use Aggregate Information to (a) help diagnose problems with our computers, (b) administer our Website, (c) share certain generalized demographic information with Event Hosts and our advertising partners about visitors of our Website, and (d) provide our advertising partners with information regarding which visitors saw and clicked on certain advertisements on our Website. Aggregate Information does not contain any personal information of any of our Website visitors.
 
-Privacy in the United Kingdom 
+* **What Are “Cookies” And How Does the Company Use Them?**
 
-Back to [United Kingdom's homepage](http://www.tickets.com/gb)
+The term “Cookie” is a nickname for files that a website's computer system can deposit onto a visitor's computer hard drive when the visitor is logged on to the website. Cookies are used to recognize a visitor's repeat visits to the website, what pages are accessed, and what functionalities are used while he or she is there. The use of cookies is commonplace on the Internet and they take up minimal room on your computer hard drive. Cookies work by assigning a number to your computer that has a specific meaning to the assigning website. Cookies, by themselves, cannot be used to determine the identity of any visitor. Unless you choose to provide us with information about you, we will never know who you are, even though our computer has previously deposited a cookie on your computer's hard drive. In addition, you may modify your Internet browser's settings to notify you whenever any website requests to deposit a cookie on your computer's hard drive. This notification option generally gives you the opportunity to decide whether to accept or refuse a cookie before it is deposited. Tickets.com employs the use of cookies to enable our systems to recognize your browser, to identify how and when pages in our site are visited and by how many people. For example, to become a registered user of our Website, you must allow us to deposit a cookie on your computer's hard drive. Depending upon your browsers capabilities, you may choose to alter your browser settings to specify whether new cookies may be accepted.
 
-By submitting your information, you agree to the following: Tickets.com is a US company (Tickets.com) which sells tickets for venues across the world. In the UK our company is Tickets.com Ltd - a Tickets.com company (address: Tickets.com, 405 Midsummer Boulevard, Milton Keynes MK9 3BN). Your data will be kept on our database in the US and we will only supply it to a venue from which you choose to purchase tickets. The venue will only share your details with their promoter or visiting company or artist in order for them to contact with you with further information. From time to time we may contact you with details of special offers or other promotions which we think will be of interest to you. 
+Our advertising partners may also use cookies in order to deliver targeted advertising to you. Other companies that advertise on our Website also have the ability to deposit a different cookie on your computer's hard drive in a process that we do not control. Tickets.com maintains no liability for the depositing of such cookies, and both visitors and users of Tickets.com relieve Tickets.com of all liability with respect to third party cookies. Since cookies aren't useable for identifying individuals (i.e., we will not store non-public personal information in a cookie), these advertisers will never know who you are. Depending upon your browsers capabilities, you may be able to alter your browser settings to opt out of receiving targeted advertisements from our advising partners
 
-For more information on our privacy practices or the privacy regulations in your country, you may contact:
+Tickets.com may utilize The Adobe Flash Player (“Flash”), and Flash “cookies”, during your use of this Website. Flash is an application and web tool that allows for rapid development of dynamic content. Flash uses technology to remember settings, preferences and usages similar to cookies but are managed through an interface different than the one provided by your web browser. To manage your Flash cookies you must access your Flash management tools from Adobe’s website directly.
 
-[webfeedback@tickets.com](mailto:%20webfeedback@tickets.com)
+* **Data Quality and Security Statement**
 
-or the Data Protection Office at:
+Tickets.com takes commercially reasonably security measures to protect your personal information against unauthorized access to, unauthorized alteration, and disclosure of data. We use data security systems to encrypt your personal and financial information to reduce the risk of loss, misuse, and alteration of your information, or that your information will be obtained by unauthorized persons. Our electronic security measures are complemented by the physical security of our facilities and limited access to certain critical areas, such as our computer locations. Access and use of personal information is restricted to employees, third parties or agents with a need to know. These individuals are bound by confidentiality obligations with penalties specified for any breach of such obligations, and our management team and its engineers regularly review and update the integrity of this Site and the security of your Information. However, because of the increasing sophistication of computer hackers and others who would seek to invade our computer systems for the purpose of stealing information, damaging our systems or denying our systems' ability to operate effectively to safeguard personal and financial information as intended, we make no promises as to the security of personal or financial information in our possession or the impenetrability of our computer systems under unusual circumstances or our computer system's resilience to future sophisticated attacks. Tickets.com also, cannot safeguard any data stored on your own personal computer, or any public computer upon which you might elect to access this Site.
 
-Information Line
+* **When Might Information Be Disclosed As A Matter Of Law?**
 
-01625 545 745
+We may disclose non-public personal information to unrelated parties in special cases when we have reason to believe that that disclosure is necessary to identify, contact, or bring legal action against a person or persons who may be causing injury to, or interference with, the rights or property of the Company (including our Website), computer users accessing our Website, or any third party. In addition, we may disclose information about individuals who access our Website to law enforcement agencies, judicial or government authorities, or to other individuals or entities in response to subpoenas, court orders, or other legal processes.
 
-e-mail: [mail@dataprotection.gov.uk](mailto:%20mail@dataprotection.gov.uk)
+* **Links To / From Other Sites**
 
+Our Website contains links to other Internet websites which we do not operate and, conversely, other Internet websites may contain links to our Website. We are not aware of and are not responsible for the privacy policies, practices, or content of such other websites. We encourage visitors to read and become familiar with the privacy policies maintained by such other websites.
 
+* **Information of Minors & Children.**
 
+We do not target our Website or our products or merchandise for sale on our Website to children, and our Website does not seek to collect contact information from children under the age of 13. However, should we become aware that a child under the age of 13 has provided us with personal information; Tickets.com will take the necessary steps to remove such information and terminate the child’s account.
 
-Data Protection in Australia
+**If you are under the age of 13, please do not, submit any personal information to our Website, or ask us to email you. If you are under the age of 18, you should get permission from a parent or guardian before you email our Website, contact our Website, attempt to use our Website, submit information to our Website, or ask us to email you.**
 
-Back to [Australia's home page](http://www.tickets.com/au)
+* **California Privacy Rights.**
 
-The Commonwealth Privacy Act 1998 implements strict privacy protection which Commonwealth and government agencies must observe when collecting, storing, using and disclosing personal information. Other Commonwealth laws contain privacy provisions relating to information about health insurance claims, data matching, information about old criminal convictions and personal information disclosed by telecommunications companies. The Privacy Act applies to the private sector only with respect to tax file numbers and consumer credit information. The Federal Privacy Commissioner has encouraged Australian businesses to develop voluntary industry codes of conduct to meet privacy standards. In February 1998, the Commissioner issued a document entitled "National Principles for the Fair Handling of Personal Information." The National Principles are based on the OECD Guidelines. These Principles address the collection, use, and disclosure of data; data quality and security; openness, access and correction; identifiers, anonymity, trans-border data flows and sensitive information. In December 1998, the Federal Government announced that it intends to enact legislation to strengthen self-regulatory privacy protection in the private sector. They also announced that the legislation that will be introduced would be based on the National Principles. The Company is committed to adherence to industry codes of conduct and/or legislation that will be required to process data in Australia and respects the privacy rights of the citizens of Australia.
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an E-mail to support@tickets.com or write us:
 
-For more information on our privacy practices or the privacy regulations in your country, you may contact:
+Tickets.com, Inc.  
+555 Anton Boulevard, 11th Floor,  
+Costa Mesa, California,  
+92626  
+Attn: Craig Frost
 
-[webfeedback@tickets.com](mailto:%20webfeedback@tickets.com)
+* **Terms of Use.**
 
-or the Privacy Commissioner's Office at:
+Please also refer to our [Terms of Use](https://web.archive.org/tos/) to view the terms and conditions governing the use of the Tickets.com Services.
 
-Privacy Commissioner's Office
+* **Safe Harbor Compliance.**
 
-GPO
+Tickets.com complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Tickets.com has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Tickets.com’s certification, please visit <http://www.export.gov/safeharbor/>
 
-Box 5218
+Under the U.S-EU Safe Harbor Framework any dispute relating to or arising from this Privacy Policy will be resolved by binding arbitration conducted in accordance with the Commercial Rules of the American Arbitration Association. To the extent practicable, hearings will be conducted via telephone or other electronic means intended to facilitate a forum in which a hearing may be had. Any in-person arbitration proceeding will take place in Orange County, California, USA. Upon conclusion of the arbitration, any court having jurisdiction over the matter may enter judgment on any award issued in the arbitration.
 
-Sydney, NSW, Australia 1042 
+* **Changes to Privacy Policy.**
 
-Phone: 1-300 363 992
+Tickets.com reserves the right to change this Privacy Policy from time to time. The most current version of the policy will govern our use of your personal information. In the event that Tickets.com, at its sole discretion, determines that updates to the Privacy Policy constitute a material change, we may inform you of such changes in a notice published via the Services or send an email to the email address associated with your User account. Notwithstanding the foregoing, Tickets.com is under no obligation to notify a User regarding changes to this policy, and thus Users should periodically visit this page to review the then current Policy to which you are bound.
 
-Fax: 02 9284 9666 
+* **Questions.**
 
-E-mail: [privacy@hreoc.gov.au](mailto:privacy@hreoc.gov.au)
+If you have any questions about the information that we collect on this site, your privacy or our security measures, please contact us at:
 
-URL: [www.privacy.gov.au](http://www.privacy.gov.au/)
-
-
-
-
-Privacy in the Netherlands
-
-Back to [Netherlands' homepage](http://www.tickets.com/nl)
-
-The Netherlands enacted the Data Protection Act (DPA or the Act) on July 1, 1989. The DPA promotes self-regulation, and provides consumers with certain rights, including notice, access to information, disclosure and correction of inaccuracies. It requires those in control of personal data files to take measures to assure only authorized disclosures and ensure informational accuracy. Lastly, the DPA allows consumers to seek and obtain compensation for damages. The Act applies to personal data files relating to living individuals. Collection of data for personal or private use is excluded from its provisions. When certain requirements are met, a corporation may bring an action under the Act's provisions, however, the Act itself does not apply to data concerning corporations. 
-
-The Act creates the Chamber of Registration which is responsible for:
-
-  * monitoring privacy development 
-  * advising the cabinet on privacy matters 
-  * enforcing the provisions of the Act 
-
-
-
-Your Rights as the Consumer
-
-A consumer must be informed of the collection of data within one month in writing. Notice must contain the following:
-
-  * purpose of the file 
-  * name and address of file controller 
-
-
-
-A consumer must be informed of their right to question the existence, accuracy, and origin of data. 
-
-Information Bureaus 
-
-Information bureaus may gather information that affects the rights of consumers. For example, a credit bureau may gather information relating to a consumer's's creditworthiness. Consent is required for the issuance and dissemination of such information and such consent must be in writing. Data may be issued to a third party if in conjunction with the purpose of the file, on request for research or statistical purposes, or "on the grounds of urgent and important considerations." The Act applies to all civilian collections of personal data, regardless of residency status in the Netherlands. It also applies to foreign files having a Dutch file controller and containing personal data about Netherlands residents. There are certain limited exemptions that may be granted in trans-border data dissemination, however, exemptions are only granted to those countries with adequate data protection laws. The Act limits access to foreign data files dictated by a foreign controller. A total ban on the transfer of data can be issued if it is established that the privacy of an individual is threatened.
-
-For more information on our privacy practices or the privacy regulations in your country, you may contact:
-
-[webfeedback@tickets.com](mailto:%20webfeedback@tickets.com)
-
-or the Registratiekamer at:
-
-E-mail: [mail@registratiekamer.nl](mailto:mail@registratiekamer.nl)
-
-Registratiekamer 
-
-P.O. Box 93374
-
-PrinsClauslaan 20 
-
-2595 AJ Den Haag 
-
-The Netherlands
-
-Phone: +(31) 70 381 1300 
-
-Fax: +(31) 70 381 1301
-
-
-
-
-Privacy in Canada
-
-Back to [Canada's homepage](http://www.tickets.com/ca)
-
-The Canadian government passed two acts, the Access to Information Act ("AIA") and the Privacy Act on July 1, 1983 to balance the need for data processing with the competing interests of Canadian citizens for protection of their privacy. Although the AIA received more media attention, it is the Privacy Act that guarantees citizens the right to privacy.
-
-The Privacy Act - General Provisions 
-
-The Privacy Act ensures the right of every Canadian citizen and permanent resident: 
-
-  1. to know (with certain exceptions) of the existence of files relating to him or her 
-  2. to be able to examine, challenge and correct any information 
-  3. to know the purposes of the information collected 
-  4. to be consulted as to future use of any information 
-
-
-
-Personal information is deemed to include:
-
-  1. race, ethnic origin, religion, age or marital status; 
-  2. educational, medical, employment, criminal or bank records;
-  3. address, fingerprints, blood type or any identifying number relating to the individual; 
-  4. another individual's opinion about the individual; 
-  5. the individual's opinions on proposals for a grant; 
-  6. correspondence with a government institution; or 
-  7. the individual's name, if attached to any personal information. 
-
-
-
-For more information on our privacy practices or the privacy regulations in your country, you may contact:
-
-[webfeedback@tickets.com](mailto:%20webfeedback@tickets.com)
-
-or the Privacy Commissioner of Canada at:
-
-E-mail: [clavoie@fox.nstn.ca](mailto:clavoie@fox.nstn.ca)
-
-URL: [infoweb.magi.com/~privcan](http://infoweb.magi.com/~privcan)
-
-Privacy Commissioner of Canada
-
-112 Kent Street, 3rd Floor 
-
-Ottawa, Ontario K1A 1H3
-
-Phone: 1 800 267 0441 
-
-Fax: 613 947 6850 
-
-TDD 613 992 9190 
-
-
-
-
-Privacy in Hong Kong
-
-Hong Kong enacted the Personal Data (Privacy) Ordinance (Ordinance) which entered into force December 20, 1996. The Privacy Commission Office is an independent statutory body set up to oversee the enforcement of the Ordinance. The Ordinance has as its core purpose the protection of privacy interests of living, identifiable individuals in relation to personal data. It also contributes to Hong Kong's continued economic well being by safeguarding the free flow of personal data to Hong Kong from restrictions by countries that already have data protection laws. The Ordinance binds the government to ensure the protection of privacy rights of its citizens. Where there is a conflict between the Ordinance and any other legislative action or ordinance, the Privacy Ordinance takes precedence. The Ordinance states its mission as: "A data user shall not do an act, or engage in a practice, that contravenes data protection principle unless the act or practice, as the case may be, is required or permitted under this Ordinance."
-
-The Ordinance provides certain rights to consumers including:
-
-  * access 
-  * correction or erasure 
-  * copies of information held 
-  * complaint procedures for denial of access and 
-  * compensation for damages suffered as a result of unauthorized disclosure or misuse. 
-
-
-
-Consumers must be informed of: the rights and obligations of compliance; penalties or consequences for failure to do so; purpose of the data collection; any anticipated third party disclosure; and rights of access and correction. Personal data should not be kept longer than necessary to the fulfillment of the purpose for which they are collected 
-
-Data transferred to Hong Kong from other jurisdictions will generally become subject to the requirements of the Ordinance. Section 33 of the Ordinance regulates the transfer of data out of Hong Kong. This section provides for an equivalence test of protection, rather than the adequacy test of the EU Directive. It permits transfers to jurisdictions lacking a data privacy regime where the interests of the consumer are otherwise adequately protected. Examples are where consent has been obtained or there are contractual assurances in place that the data protection principles will be respected. 
-
-For more information on our privacy practices or the privacy regulations in your country, you may contact:
-
-[webfeedback@tickets.com](mailto:%20webfeedback@tickets.com)
-
-or the Privacy Commissioner for Personal Data at:
-
-E-mail: [pco@pco.org.hk](mailto:%20pco@pco.org.hk)
-
-URL: [www.pco.org.hk](http://www.pco.org.hk/)
-
-Privacy Commissioner for Personal Data 
-
-Privacy Commission Office 
-
-Unit 2001 
-
-20/F 
-
-Office Tower
-
-Convention Plaza
-
-1 Harbour Road 
-
-Wanchai, Hong Kong
-
-Phone: 852 2827 2827 
-
-Fax: 852 2877 7026 
-
-
-
-
-Privacy in Germany
-
-Back to [Germany's homepage](http://www.tickets.com/de)
-
-Data protection in Germany has come in two phases. The Federal Data Protection Act (BDSG) was adopted January 27, 1977. The major provisions came into force January 1, 1978 and the technical and organizational measures became effective on January 1, 1979. The BDSG was then replaced in 1991 by a new data protection act which took advantage of the experiences and technical improvements of the previous years as well as judicial opinions of the Federal Constitutional court.. Data protection in Germany centers around important concepts of general privacy, human rights and the balance between access to information and privacy concerns. Basically, the German data protection law embodies "informationelles Selbstbestimmungsrecht" -- the basic right of the individual to decide on the use and communication of his or her personal data. This tenet is paramount, with the caveat of overriding social or public concerns. The main purpose of the Act is to "protect the individual against his right to privacy being impaired through the handling of his personal data." The Act states that the "processing and use of personal data shall be admissible only if this Act or any other legal provision permits or prescribes them or the consumer's has consented." But the Act may be superseded by the interests of the state. The Act states that insofar as "other legal provisions of the Federation are applicable to personal data, including their publication, such provisions shall take precedence over the provisions of this Act." 
-
-Personal data is defined as "any information concerning the personal or material circumstances of an identified or identifiable individual." Dissemination of personal data to third persons is limited but permissible, as long as there is no threat of harm to the consumer's or his interests.
-
-A consumer has the right of notification of collection of data, notification of content, purpose and identity of recipients and the rights of correction, erasure or blocking. Blocking is defined as the labeling of stored personal data so as to restrict further processing or use. This information must be transmitted to the consumer in writing and free of charge. If a file controller refuses access, a consumer's has the right to appeal to the Federal Commissioner for Data Protection. In general, communication and storage of data is permissible if the business has identifiable and justifiable interests. There are no restrictions, for instance, on information regarding membership in a group, occupation, birth year, name, title, academic degree or address. These categories are not sensitive by their nature and may be of legitimate interest or use of a file controller. Restrictions do apply to sensitive data relating to health, criminal offenses, administrative offenses, or religious or political convictions.
-
-For more information on our privacy practices or the privacy regulations in your country, you may contact:
-
-[webfeedback@tickets.com](mailto:%20webfeedback@tickets.com)
-
-or the Der Bundesbeauftragte für den Datenschutz at:
-
-E-mail: [de.bund400@bfd.posteingang](mailto:de.bund400@bfd.posteingang)
-
-Der Bundesbeauftragte für den Datenschutz
-
-Postfach 200112
-
-53131 Bonn
-
-Germany
-
-Phone: +(49) 228 819 95 10
-
-Fax: +(49) 228 819 95 50
-
-
-
-
-Privacy in Belgium
-
-Back to [Belgium's homepage](http://www.tickets.com/be)
-
-Belgium enacted the Belgium Data Protection Act (BDPA) on December 8, 1992, to ensure that personal data may only be processed for clearly described and justified purposes and may not be used in a manner incompatible with these purposes. 
-
-With regard to sensitive personal data, there are more specific, more stringent rules that must be observed by the file controller. These rules apply to three categories of personal data: highly sensitive, medical and judicial data. Highly sensitive data refers to information on the subject's race, ethnicity, sexual orientation or behavior, political activity or opinion, religious and philosophical beliefs and membership in labor unions. Appropriate groups may, of course, keep membership lists.
-
-The consumer's has the right to information, access, correction or deletion of inaccurate or illegally stored data, appeal and information about these rights. The BDPA refers to information collected both directly from and indirectly about the consumer's. This applies to all consumers in Belgium, including foreign consumers, even when further processing occurs outside of Belgium.
-
-The consumer's has the right to access information directly or through the Privacy Commission. For direct access, the consumer's must submit a written request to the company and can be charged a fee. The company must respond within 45 days with the information. A consumer has a right to correct any misinformation collected free of charge. They must submit a request to the company who must respond within one month and inform any consumer of the correction or deletion. The company must keep the identity of any third consumer for at least one year. A consumer's has the right to appeal any adverse decision through a complaint to the Privacy Commission or before the Chairman of the Court of First Instance. A consumer has the right to be informed of these rights and their methods of exercise. The BDPA doesn't explicitly prohibit or restrict the merging of personal data from different
-
-For more information on our privacy practices or the privacy regulations in your country, you may contact:
-
-[webfeedback@tickets.com](mailto:%20webfeedback@tickets.com)
-
-or the Commission de la Protection de la Vie Privée at:
-
-E-mail address: [privacy@infoboard.be](mailto:privacy@infoboard.be)
-
-Commission de la Protection de la Vie Privée
-
-Boulevard de Waterloo 115
-
-Rue de la Regence 61
-
-B - 1000 Brussels 
-
-Belgium 
-
-Phone: (32) 2 542 7200
-
-Fax: (32) 2 542 7212 
-
-
-
-
-Privacy in Italy
-
-Italy enacted the Processing of Personal Data Act (the Act) in September, 1993. The Act is designed to "ensure that the processing of personal data is carried out by respecting the rights, fundamental freedoms and dignity of natural persons, especially as related to privacy and personal identity..." Personal data is defined under the Act as "any information relating to natural or legal persons, bodies or associations that are or can be identified, even indirectly, by reference to any other information including by a personal identification number..." The law applies to the processing of personal data carried out by any person on Italian soil. It does not apply to data collected for purely personal use, provided that the data are not intended for systematic communication or dissemination. The Act applies to the processing, "on the State's territory, of personal data kept in a foreign country."
-
-All data collected must be:
-
-  * Processed lawfully and fairly 
-  * Collected and recorded for specific purposes 
-  * Accurate and, when necessary, kept up to date 
-  * Adequate, relevant and not excessive to the stated purpose of collection 
-  * Kept in a form that permits identification of the consumer for no longer than is necessary for the purpose of collection. 
-
-
-
-A consumer has certain rights in regard to the collection of data including: 
-
-  * The purpose of collection 
-  * An opt in for data collection 
-  * The consequences for failure to provide data 
-  * Any third party transmission anticipated 
-  * The name, denomination or trade name, domicile, residence or registered office of the company processing and/or storing the data 
-
-
-
-For more information on our privacy practices or the privacy regulations in your country, you may contact:
-
-[webfeedback@tickets.com](mailto:%20webfeedback@tickets.com)
-
-or the Data Protection Authority at:
-
-E-mail: [mc7796@mclink.it](mailto:)
-
-URL: [www.privacy.it](http://www.privacy.it/)
-
-Data Protection Authority 
-
-Via Della Chiesa Nuova, 8
-
-00186 Rome 
-
-Italy
-
-Telephone: + (39) 6 6889 2135
-
-Fax: + (39) 6 6889 2140
-
-
-
-
-Privacy in Denmark
-
-Unlike the other Scandinavian countries, Denmark has passed two acts relative to the protection of privacy and access to information: the Private Registers Act and the Public Registers Act. These acts were adopted by the Danish Folkerting (Parliament) in 1978 and became law January 1, 1979. Amendments were made in 1987. The acts affect "personal data" defined as "data that are referable to identifiable individuals even if such referral presupposes knowledge of the personal registration number or any particular means of identification of such individual." Personal data is data that permit, in any form, directly or indirectly, the identification of the natural persons to which they relate, irrespective of whether the processing is done by a natural or legal person. 
-
-A consumer now has the right to know what is registered about him and may submit a request of access once every 12 months. Response must be within four weeks and complaints regarding denial or delay are made to the DSA. 
-
-Tickets.com will ensure that: 
-
-  * The purposes of data collection and processing are being clearly specified
-  * Only information that is relevant and necessary for the original purpose is being processed 
-  * Our customers will be able to contact us to obtain what information we are storing to determine that the information is up to date and accurate 
-  * Personal information is not kept any longer than required 
-
-
-
-Personal information will only be processed with the your consent. You are entitled to withdraw consent at any time. 
-
-Personal information may be transferred to other countries. The Company will obtain approval from the DSA prior to any transfer so that the DSA can determine if that country can secure adequate data protection. Adequate protection will be decided based on the type of data to be transferred, the purpose of the transfer, the country of (the data's) origin, the country of (the data's) destination, as well as data protection rules and guidelines in place in the receiving country. Data may be transferred with the your consent if the transfer is considered necessary for the completion of a purchase on our site.
-
-In addition, Danish regulatory authorities may permit the transfer of personal data to countries lacking adequate protection, if the data controller can provide satisfactory guarantees for the protection of the data subject. The regulatory authorities will notify the European Commission and the EU member states about any data transfers under the latter rule. 
-
-Our Obligations to You and Your Rights 
-
-We are committed to protecting your right to privacy. We have demonstrated this commitment by agreeing to the following:
-
-  * We will always inform you is collecting and processing the data you provide
-  * We will always inform you about the purpose for which the data is being processed 
-  * We will try to provide additional information that the Company determines necessary to protect your rights 
-  * Upon request from you we will inform you about what kind of information is being processed, for what purpose, and who has access to the data
-  * You may, for valid reasons, object to the processing of specific data and request the correction or deletion of erroneous information
-  * You may, for any reason, object to the processing of data for marketing purposes
-
-
-
-For more information on our privacy practices or the privacy regulations in your country, you may contact:
-
-[webfeedback@tickets.com](mailto:%20webfeedback@tickets.com)
-
-or the Registertilsynet at: 
-
-E-mail address: [sekretariat@registertilsynet.dk](mailto:sekretariat@registertilsynet.dk)
-
-URL: [www.registertilsynet.dk](http://www.registertilsynet.dk/)
-
-Registertilsynet
-
-Christians Brygge 28 4 sal
-
-1559 Copenhagen V
-
-Denmark
-
-Phone: (45) 33 14 38 44 
-
-Fax: (45) 33 13 38 43 
-
-
-
-
-Privacy in Brazil
-
-There are no existing privacy laws in Brazil. The Senate is considering a bill entitled SENATE BILL No. 61 which would place some limits on the collection and use of personal data.
-
-The Company takes your privacy concerns very seriously. If you still have concerns about privacy issues after reading ticket·privacysm, please contact us at [webfeedback@tickets.com](mailto:%20webfeedback@tickets.com).
-
-**ticket·privacy** SM is effective as of November, 1999, and as amended from time-to-time. **ticket·privacy** SM is a statement of our current policy and is not intended to and does not create any contractual or other legal rights in or on behalf of any party.
+Tickets.com, Inc.  
+555 Anton Boulevard, 11th Floor,  
+Costa Mesa, California,  
+92626  
+Attn: Craig Frost  
+support@tickets.com
