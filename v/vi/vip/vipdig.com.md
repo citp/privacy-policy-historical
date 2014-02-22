@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vipdig.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214053356id_/http%3A//www.vipdig.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vipdig.com privacy policy that was archived on 2014-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140222174502id_/http%3A//www.vipdig.com/privacy_policy.html) for the most accurate reproduction.*
 
 # VipDig Directory - FREE Web Directory - Privacy Policy
 
