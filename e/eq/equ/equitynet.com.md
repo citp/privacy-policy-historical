@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the equitynet.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811184310id_/https%3A//www.equitynet.com/privacy.aspx%3Fmode%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equitynet.com privacy policy that was archived on 2014-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140222022641id_/https%3A//www.equitynet.com/privacy.aspx%3Fmode%3D1) for the most accurate reproduction.*
 
-# 
+# EquityNet Privacy Policy
 
 | 
-
-### EquityNet Privacy Policy
 
 At EquityNet, we recognize that privacy is important. This Policy applies to the online products and services offered by EquityNet, LLC or its subsidiaries or affiliated companies (collectively, EquityNet "services"). 
 
