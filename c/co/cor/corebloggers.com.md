@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corebloggers.com privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008202142id_/http%3A//www.corebloggers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corebloggers.com privacy policy that was archived on 2014-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140222174335id_/http%3A//www.corebloggers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CoreBloggers
 
