@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the startme.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918183517id_/http%3A//www.startme.com/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startme.com privacy policy that was archived on 2014-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140222232502id_/http%3A//www.startme.com/page/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - STARTME.COM
+# Privacy Policy - start.me
 
   
 
@@ -36,4 +36,4 @@ STARTME.com has the discretion to update this privacy policy at any time. When w
 **Your acceptance of these terms**  
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
 
-This document was last updated on August 10, 2013 
+This document was last updated on August 10, 2013. Questions can be send to [info@startme.com](mailto:info@startme.com) or Waalsdorperweg 16, 2597JB, 's-Gravenhage, The Netherlands. 
