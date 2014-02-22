@@ -1,11 +1,15 @@
-> *The following text is extracted and transformed from the ashlynnbrooke.com privacy policy that was archived on 2013-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130725031137id_/http%3A//www.mrbiggz.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashlynnbrooke.com privacy policy that was archived on 2014-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140222115200id_/http%3A//network.newsensations.com/privacy.htm) for the most accurate reproduction.*
 
-# MrBiggz.com - Privacy
+# New Sensations Network - Privacy Policy
 
-** :: Our Privacy Policy and Commitment to You :: **
+**We take your privacy seriously.**
 
-MRBIGGZ.COM is committed to establishing and maintaining a trusting relationship with all our customers and members. MRBIGGZ.COM takes privacy issues very seriously and is committed to complying with all applicable privacy laws. However, in order to conduct business, we must collect some important confidential and personal information from our members.
+Please read the following to learn more about our privacy policy and to learn more about how we treat personally identifiable information collected in connection with the products and services we offer. 
 
-This may raise some concern as to what we do with your personal information. You can be assured that MRBIGGZ.COM will never disclose or sell such information to any third parties, businesses or individuals unless we are compelled to do so by court order, subpoena, or other legal processes. If, as a member OF MRBIGGZ.COM, you feel we are falling short in our commitment to maintain your privacy, please contact us immediately and let us know. 
+Information Collection and Use  
+This site collects personally identifiable information when you register for access to this Web site. Once you become a NewSensations.com member or customer, you are not anonymous to us. 
 
-The personal and confidential information we collected will ONLY be used to advertise and promote our sites as well as special offers. You personal information will NEVER be used to receive goods or services delivered to your home or business address. If you wish to remove yourself from any future electonic mailings, please email us and your email address will be promptly removed from our database.
+This site automatically receives and records information from your browser including cookie information and the page you requested. This site uses this information for the following purposes: to provide heightened security and fulfill your requests for certain products and services. 
+
+Information Sharing and Disclosure  
+This site will not sell, rent, or make available your personally identifiable information to anyone. 
