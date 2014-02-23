@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ajinomoto.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219153752id_/http%3A//www.ajinomoto.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ajinomoto.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223065859id_/http%3A//www.ajinomoto.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ajinomoto Group
 
