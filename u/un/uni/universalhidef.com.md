@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universalhidef.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220031210id_/http%3A//www.universalhidef.com/legal/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universalhidef.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223030725id_/http%3A//www.universalhidef.com/legal/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,7 @@ PRIVACY POLICY
 
 **Introduction:** Universal Studios Home Entertainment LLC (“USHE”), its parent, subsidiary and affiliated companies (collectively, “NBCUniversal” or “we” or “our” or “us”) maintain [www.universalhidef.com](http://www.universalhidef.com/) (the “Site”) ”) for purposes of (i) registering USHE Blu-ray™ disc owners and/or users to provide them with access to BD-Live™ features and offerings via the BD-Live™ Center (“BD-Live™ Center”) and/or pocket BLU™; (ii) registering USHE Blu-ray™ disc and DVD owners and/or users to provide them with access to Digital Copy and UltraViolet™ features and offerings; (iii) allowing such USHE Blu-ray™ disc and DVD owners and/or users to update their preferences; and (iv) additional marketing and customer service purposes. Your privacy is important to us. This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Site. If you have any questions about this Privacy Policy, the Site, the BD-Live™ Center, pocket BLU™, UltraViolet™, or other related concerns, please contact us at [Universal.Support@hidefsupport.com](mailto:Universal.Support@hidefsupport.com) or write us at the mailing address listed at the end of this Privacy Policy. If you wish to unsubscribe from the Site, the BD-Live™ Center, marketing, or the features or offerings for which you have previously registered, please visit the “MY ACCOUNT” section of your Site account (“Account”), contact us at [ Universal.Support@hidefsupport.com](mailto:Universal.Support@hidefsupport.com), or write us at the mailing address listed at the end of this Privacy Policy.
 
-**PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF USE FOR THE SITE CAREFULLY. YOUR USE OF THE SITE SIGNIFIES THAT YOU CONSENT TO THE COLLECTION, USE AND STORAGE OF YOUR PERSONAL DATA, IP ADDRESS, AND AGGREGATE AND ANONYMOUS DATA IN THE UNITED STATES IN ACCORDANCE WITH THIS PRIVACY POLICY, AND THAT YOU AGREE TO THE[ TERMS OF USE](https://web.archive.org/web/20131220031210id_/http%3A//www.universalhidef.com/legal/termsofuse.aspx).**
+**PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF USE FOR THE SITE CAREFULLY. YOUR USE OF THE SITE SIGNIFIES THAT YOU CONSENT TO THE COLLECTION, USE AND STORAGE OF YOUR PERSONAL DATA, IP ADDRESS, AND AGGREGATE AND ANONYMOUS DATA IN THE UNITED STATES IN ACCORDANCE WITH THIS PRIVACY POLICY, AND THAT YOU AGREE TO THE[ TERMS OF USE](https://web.archive.org/web/20140223030725id_/http%3A//www.universalhidef.com/legal/termsofuse.aspx).**
 
 * * *
 
@@ -93,11 +93,11 @@ We take reasonable security precautions to secure the Personal Data that you cho
 
 **10\. Exclusions:**
 
-This Privacy Policy shall not apply to any unsolicited information you provide to us on or through the Site (“Unsolicited Submissions”). Please see our [ Terms of Use](https://web.archive.org/web/20131220031210id_/http%3A//www.universalhidef.com/legal/termsofuse.aspx) for our policies regarding such Unsolicited Submissions. All such Unsolicited Submissions shall be deemed to be non-confidential, and USHE shall be free to reproduce, use, disclose and distribute such Unsolicited Submissions to others without limitation or attribution.
+This Privacy Policy shall not apply to any unsolicited information you provide to us on or through the Site (“Unsolicited Submissions”). Please see our [ Terms of Use](https://web.archive.org/web/20140223030725id_/http%3A//www.universalhidef.com/legal/termsofuse.aspx) for our policies regarding such Unsolicited Submissions. All such Unsolicited Submissions shall be deemed to be non-confidential, and USHE shall be free to reproduce, use, disclose and distribute such Unsolicited Submissions to others without limitation or attribution.
 
 **11\. Other Terms and Conditions:**
 
-Your access to and use of the Site is subject to the [Terms of Use](https://web.archive.org/web/20131220031210id_/http%3A//www.universalhidef.com/legal/termsofuse.aspx) and, as applicable, the Terms of Service and Privacy Policy of the BD-Live™ Center and its features and offerings, which can be viewed by clicking the “Terms of Service” and “Privacy Policy” buttons in the BD-Live™ Center. The terms of this Privacy Policy are incorporated into the Terms of Use.
+Your access to and use of the Site is subject to the [Terms of Use](https://web.archive.org/web/20140223030725id_/http%3A//www.universalhidef.com/legal/termsofuse.aspx) and, as applicable, the Terms of Service and Privacy Policy of the BD-Live™ Center and its features and offerings, which can be viewed by clicking the “Terms of Service” and “Privacy Policy” buttons in the BD-Live™ Center. The terms of this Privacy Policy are incorporated into the Terms of Use.
 
 **12\. Applicable Law:**
 
