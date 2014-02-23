@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadupdates.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907185223id_/http%3A//www.downloadupdates.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadupdates.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223042330id_/http%3A//downloadupdates.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,11 +43,11 @@ DownloadUpdates.com may occasionally update this Privacy Policy. Any changes wil
 
 **6\. CONTACT INFORMATION**
 
-For questions regarding this Privacy Policy please [contact us](https://web.archive.org/web/20130907185223id_/http%3A//www.downloadupdates.com/contact.php).
+For questions regarding this Privacy Policy please [contact us](https://web.archive.org/web/20140223042330id_/http%3A//downloadupdates.com/contact.php).
 
 **7\. OPT OUT INSTRUCTIONS**
 
-To opt out of any communications from this website, please send an email through our [contact form](https://web.archive.org/web/20130907185223id_/http%3A//www.downloadupdates.com/contact.php).
+To opt out of any communications from this website, please send an email through our [contact form](https://web.archive.org/web/20140223042330id_/http%3A//downloadupdates.com/contact.php).
 
 Copyright © DownloadUpdates.com. All Rights Reserved.
 
