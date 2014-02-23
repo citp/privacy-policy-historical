@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the clicktop10.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225001645id_/http%3A//www.clicktop10.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicktop10.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223150013id_/http%3A//www.clicktop10.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Click Top 10
 
 **Website Privacy Policy**
 
-The last update to our Privacy Policy was posted on October 17, 2013. This Privacy governs the privacy policy of our Website, [www.clicktop10.com](http://www.clicktop10.com/)
+The last update to our Privacy Policy was posted on October 17, 2013. This Privacy governs the privacy policy of our Website, [www.Clicktop10.com](http://www.clicktop10.com/)
 
 **Definitions**
 
