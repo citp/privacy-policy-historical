@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the software112.com privacy policy that was archived on 2013-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131114021050id_/http%3A//www.software112.com/policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the software112.com privacy policy that was archived on 2014-02-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140223090541id_/http%3A//www.software112.com/policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" itemscope="" itemtype="http://schema.org/WebPage"><head>
     <meta charset="utf-8">
@@ -16,12 +16,13 @@
         <script src="/js/software112/assets/respond.min.js"></script>
         <link href="/css/software112/assets/font-awesome-ie7.min.css" rel="stylesheet">
     <![endif]-->
+            <link rel="stylesheet" href="/css/software112/../common/jquery.cookiebar.css">
     
         
     
 </head>
 
-            <body style="">
+            <body style=""><div id="cookie-bar"><p>We use cookies to give you the best experience. If you continue, we'll assume you accept to receive all cookies from our website.<a href="http://www.software112.com/policy.php" target="_blank">privacy policy</a> <a href="#" class="cb-enable"><i class="icon-remove-circle fa fa-times-circle-o"></i></a></p></div>
                 <header>
             <div class="fullWidth blackBg">
                 <div class="container ">
@@ -50,7 +51,7 @@
     <div class="container">
         <div class="row">
             <div class="span12">
-                <a href="http://www.software112.com" class="logo software112"><img src="http://www.software112.com/img/software112/layout/logo.png" alt="software112 logo" width="350" height="60"></a>
+                <a href="http://www.software112.com" id="dataLang" data-lang="en" class="logo software112"><img src="http://www.software112.com/img/software112/layout/logo.png" alt="software112 logo" width="350" height="60"></a>
                                         <div class="ads728Header">                                        
                         
 <!-- AD s1.afterclick-1.ga -->
@@ -198,12 +199,12 @@ We welcome questions and comments regarding this policy, so feel free to contact
                     <div class="padding20">
                         <div class="copy">
                             <a href="http://www.software112.com" class="logo"><img src="http://www.software112.com/img/software112/layout/logo.png" alt="software112 logo"></a>
-                            <p>Copyright © 2000-2013 by Software112, Inc. All Rights Reserved.</p>
+                            <p>Copyright © 2000-2014 by Software112, Inc. All Rights Reserved.</p>
                         </div>
                         <ul class="terms">
                             <li><a href="http://www.software112.com/report/contact_us.html">Contact us</a></li>
                             <li><a href="http://www.software112.com/terms.php">Terms of service</a></li>
-                            <li><a href="http://www.software112.com/policy.php">privacy policy</a></li>
+                            <li><a href="http://www.software112.com/policy.php" id="privacyPolicy">privacy policy</a></li>
                             <li><a href="http://www.software112.com/report/comment.html">FAQ</a></li>
                         </ul>
                         <div class="clearfix"></div>
@@ -214,27 +215,36 @@ We welcome questions and comments regarding this policy, so feel free to contact
     </div>
 </footer>
 
+<script src="/js/software112/assets/jquery-1.10.1.min.js"></script>
+<script type="text/javascript">var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-15728026-16']);
+    _gaq.push(['_setDomainName', '.software112.com']);
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['_setAllowHash', false]);
+    
+    var eventopts = $.parseJSON('{"1":{"name":"host","value":"s1"},"2":{"name":"lang","value":"en"}}')
+    for (var pageopt in eventopts) {
+        _gaq.push(['_setCustomVar', pageopt, eventopts[pageopt].name, eventopts[pageopt].value])
+    }
+    _gaq.push(['_trackPageview']);
+    
+    (function() {
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })();
+</script>
 
-    <script type="text/javascript">var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-15728026-16']);
-        _gaq.push(['_setDomainName', '.software112.com']);
-        _gaq.push(['_setAllowLinker', true]);
-        _gaq.push(['_setAllowHash', false]);
-        _gaq.push(['_trackPageview']);
-        (function() {
-            var ga = document.createElement('script');
-            ga.type = 'text/javascript';
-            ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(ga, s);
-        })();
-    </script>
-
-
-    <script src="/js/software112/assets/jquery-1.10.1.min.js"></script>
     <script src="/js/software112/assets/jquery.raty.min.js"></script>
     <script src="/js/software112/assets/bootstrap.min.js"></script>
+
+    <script type="text/javascript" src="/js/software112/../eventPush.js"></script>
+    <script type="text/javascript" src="/js/software112/../common/jquery.cookiebar.js"></script>
+
+
 
 
     
