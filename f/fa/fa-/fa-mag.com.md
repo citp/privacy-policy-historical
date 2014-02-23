@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fa-mag.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031042441id_/http%3A//www.fa-mag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fa-mag.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223165039id_/http%3A//www.fa-mag.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -20,7 +20,9 @@ With your permission (through our "opt-in" messages on registration or special o
 
 CHANGES TO THIS POLICY: If our policy changes, we will post the new policy on the Web site and changes will be made applicable within 24 hours. Please check back often to review the latest changes.
 
-How to contact us about privacy issues: by mail, send correspondence to: Charter Financial Publishing Network, 499 Broad Street, suite 120, Shrewsbury, NJ 07702. By e-mail send inquiries to: info@fa-mag.com.  
+How to contact us about privacy issues: by mail, send correspondence to: Charter Financial Publishing Network, 499 Broad Street, suite 120, Shrewsbury, NJ 07702. By e-mail send inquiries to: info@fa-mag.com.
+
+  
 Last updated: April 22, 2011
 
 * * *
