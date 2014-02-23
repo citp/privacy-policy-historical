@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compiere.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920092924id_/http%3A//www.aptean.com/en/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compiere.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223164757id_/http%3A//www.aptean.com/en/Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Statement : APTEAN
 
