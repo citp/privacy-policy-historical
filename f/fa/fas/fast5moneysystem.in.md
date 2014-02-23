@@ -1,20 +1,53 @@
-> *The following text is extracted and transformed from the fast5moneysystem.in privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503231521id_/http%3A//fast5moneysystem.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fast5moneysystem.in privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223033713id_/http%3A//fast5moneysystem.in/Shopping%26Services/%3Fpage_id%3D94) for the most accurate reproduction.*
 
-# Fast Money System paid over and over!
+# Privacy
 
-## The Sub-Head Goes In This Space Right Here
+This is the Web Site of **Dmitrij Mashoshin**.
 
-  * Fast Money System understands that privacy online is important to users of Fast Money System, especially when conducting business. This statement governs Fast Money System s privacy policies with respect to those users of Fast Money System who visit without transacting business and Visitors who register to transact business on Fast Money System and make use of the various services offered by Fast Money System.
-  * "Personally Identifiable Information" refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
-  * What Personally Identifiable Information is collected? Fast Money System may collect basic user profile information from all Visitors. Fast Money System collects the following additional information from Authorized Customers: the names and email addresses.
-  * How does Fast Money System use Personally Identifiable Information? Fast Money System uses Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on Fast Money System. Fast Money System may email Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of Fast Money System. Fast Money System may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.
-  * With whom may the information may be shared? Unless required by law, Fast Money System does not share any information with anyone.
-  * How is Personally Identifiable Information stored? Personally Identifiable Information collected by Fast Money System is securely stored and is not accessible to third parties or employees of Fast Money System.
-  * What choices are available regarding collection, use and distribution of the information? Authorized Customers may opt out of receiving unsolicited information from or being contacted by Fast Money System by deleting their membership.
-  * Are Cookies Used on Fast Money System? Cookies are used for a variety of reasons. Fast Money System uses Cookies to obtain information about the preferences of Visitors and the services they select. Fast Money System also uses Cookies for security purposes to protect Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, This website will automatically log the Authorized Customer off.
-  * How does Fast Money System use login information? Fast Money System uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the site, track a user's movement and use, and gather broad demographic information.
-  * How does Fast Money System keep Personally Identifiable Information secure? All of Fast Money System's employees are familiar with Fast Money System's security policy and practices. The Personally Identifiable Information of Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. Fast Money System audits its security systems and processes on a regular basis. While Fast Money System takes commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and Fast Money System cannot guarantee or warrant that such events will not take place. Fast Money System will not be liable to Visitors or Authorized Customers for any such occurrences.
-  * What happens if the Privacy Policy Changes? Fast Money System will let Visitors and Authorized Customers know about changes to the privacy policy by posting such changes on the site. However, if Fast Money System is changing the privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, Fast Money System will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
-  * Links: Fast Money System contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. Fast Money System encourages you to read the privacy statements of these linked sites as their privacy policies may differ.
+Postal address:  
+**Ukraina**
+
+We can be reached via e-mail at **nikolaj0511@gmail.com**  
+or you can reach us by telephone at **00380954080109**
+
+This privacy policy sets out how Fast Money System uses and protects any information that you give Fast Money System when you use this website.
+
+Fast Money System is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+
+Fast Money System may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
+
+## What We Collect
+
+For each visitor to our Web page, our Web server automatically recognizes the domain name and e-mail address of the consumer (where possible).
+
+We collect the e-mail addresses of those who communicate with us via e-mail, payment information (e.g., credit card number and billing address).
+
+We may collect the following information:
+
+  * Name and job title
+  * Contact information including email address
+  * Demographic information such as postcode, preferences and interests
+  * Other information relevant to customer surveys and/or offers
 
 
+
+## What We Do With The Information We Gather
+
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+
+
+
+## Security
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+
+## How We Use Cookies
+
+A cookie is a small file which asks permission to be placed on your computer. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+
+We may use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
