@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealsandyou.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923003438id_/http%3A//www.dealsandyou.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsandyou.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223133838id_/http%3A//www.dealsandyou.com/privacy.php) for the most accurate reproduction.*
 
 # DealsAndYou - Privacy Policy
 
@@ -66,7 +66,7 @@ Minors under the age of 18 (eighteen) may not use the Website/Webpage. We do not
 
 **Cookie**
 
-A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. 
+A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. Based on your browsing history, we may send you personalized mailers or SMS. We will not share your browsing history data with any third party until and unless required by an Authorised Authority like your mobile Operator etc. 
 
 **Anonymous identifier**
 
@@ -76,7 +76,7 @@ An anonymous identifier is a random string of characters that is used for the sa
 
 Every computer connected to the Internet is assigned a unique number known as an IP address. Since these numbers are usually assigned in country-based blocks, an IP address can often be used to identify the country from which a computer is connecting to the Internet. Server logs 
 
-Like most websites, our servers automatically record the page requests made when you visit our sites. These "server logs" typically include your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. Pixel tag A pixel tag is a type of technology placed on a website or within the body of an email for the purpose of tracking activity on websites, or when emails are opened or accessed, and is often used in combination with cookies. Non-personally identifiable information 
+Like most websites, our servers automatically record the page requests made when you visit our sites. These "server logs" typically include your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. Pixel tag A pixel tag is a type of technology placed on a website or within the body of an email for the purpose of tracking activity on websites, or when emails are opened or accessed, and is often used in combination with cookies. Non-personally identifiable information. By downloading the coupon, you agree to receive promotional SMS or emails from Dealsandyou.com 
 
 This is information that is recorded about users so that it no longer reflects or references an individually identifiable user. 
 
