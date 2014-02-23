@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefreeiqtest.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929011233id_/http%3A//joetec.net/pri.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefreeiqtest.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223065600id_/http%3A//joetec.net/pri.html) for the most accurate reproduction.*
 
 # 
 
