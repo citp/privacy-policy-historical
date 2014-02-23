@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tienda.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918184301id_/http%3A//www.tienda.com/support/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tienda.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223093903id_/http%3A//www.tienda.com/support/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,6 +6,7 @@
 
 |  [](http://www.tienda.com/) [](http://www.tienda.com/food/) [](http://www.tienda.com/jamon/) [](http://www.tienda.com/paella/) [](http://www.tienda.com/table/) [](http://www.tienda.com/wine/) [](http://www.tienda.com/gifts/) [](http://www.tienda.com/bath/) [](http://www.tienda.com/newworld/) [](http://www.tienda.com/new/) [](http://www.tienda.com/sale/)  
 ---  
+[](http://www.tienda.com/support/current-promotion.html)  
 |  [CUSTOMER SUPPORT](https://web.archive.org/support/help.html)
 
 Order Information  
@@ -189,6 +190,7 @@ LAST UPDATED NOVEMBER 2012
   * [CONTACT US](http://www.tienda.com/support/contactus.html)
 
   
+[](http://www.tienda.com/campaign-for-spain.html)  
 |  **Need Help?**  
 [Contact Us](http://www.tienda.com/support/contactus.html)  
 [Customer Support](http://www.tienda.com/support/help.html)  
@@ -220,8 +222,9 @@ LAST UPDATED NOVEMBER 2012
 | 
 
 [](http://www.facebook.com/latiendadotcom) [](http://www.twitter.com/latiendadotcom)  
-[](http://pinterest.com/latienda/) [](http://www.youtube.com/user/LaTiendacom)  
+[](http://pinterest.com/latienda/) [](http://www.youtube.com/user/LaTiendacom) [](http://www.flickr.com/photos/68877817@N06/)  
   
 ---|---|---|---|---  
+[Mobile Site](http://m.tienda.com/)  
 **Questions and Assistance:** 888 331-4362     **Phone Orders:** 800 710-4304  
-La Tienda, Williamsburg, VA © 2013 All Rights Reserved 
+La Tienda, Williamsburg, VA © 2014 All Rights Reserved 
