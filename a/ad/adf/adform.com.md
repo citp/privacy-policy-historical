@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adform.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230231015id_/http%3A//www.adform.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adform.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223052556id_/http%3A//www.adform.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Adform privacy policy statement : Adform
 
