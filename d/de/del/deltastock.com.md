@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deltastock.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618020846id_/http%3A//www.deltastock.com/english/about-us/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deltastock.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223100848id_/http%3A//www.deltastock.com/english/about-us/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Client Protection
 
