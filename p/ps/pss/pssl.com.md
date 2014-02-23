@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pssl.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222151203id_/http%3A//www.pssl.com/help%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pssl.com privacy policy that was archived on 2014-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140224000515id_/http%3A//www.pssl.com/help%23Privacy) for the most accurate reproduction.*
 
 # PSSL.com - Company Information | ProSound And Stage Lighting
 
