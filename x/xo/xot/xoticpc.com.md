@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xoticpc.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222110647id_/http%3A//www.xoticpc.com/privacy-policy-ip-21.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xoticpc.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223033416id_/http%3A//www.xoticpc.com/privacy-policy-ip-21.html) for the most accurate reproduction.*
 
 # Custom Laptops, Gaming Notebooks, Custom Gaming Laptops | XOTIC PC
 
