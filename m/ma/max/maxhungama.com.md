@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxhungama.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226174239id_/http%3A//maxhungama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxhungama.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223080448id_/http%3A//maxhungama.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | maxhungama.com
 
