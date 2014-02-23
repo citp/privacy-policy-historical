@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecommercepartners.net privacy policy that was archived on 2013-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130416070058id_/http%3A//www.ecommercepartners.net/Company/Privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecommercepartners.net privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223192754id_/http%3A//www.ecommercepartners.net/Company/Privacy.shtml) for the most accurate reproduction.*
 
 # Privacy | ECommerce Partners
 
