@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitejudge.com privacy policy that was archived on 2013-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130325170711id_/http%3A//websitejudge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitejudge.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223104214id_/http%3A//websitejudge.com/privacy) for the most accurate reproduction.*
 
 # WebsiteJudge - Privacy Statement
 
