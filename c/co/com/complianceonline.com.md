@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the complianceonline.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010003557id_/http%3A//www.complianceonline.com/ecommerce/control/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the complianceonline.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223062755id_/https%3A//www.complianceonline.com/ecommerce/control/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - ComplianceOnline Quality & Compliance Portal
 
