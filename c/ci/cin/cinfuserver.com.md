@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinfuserver.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530185557id_/http%3A//www.cinfu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinfuserver.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223183157id_/http%3A//www.cinfu.com/privacy) for the most accurate reproduction.*
 
 # Cinfu Privacy Policy
 
@@ -10,6 +10,6 @@ Also, we may collect URL from which you linked into our site and your IP address
 
 ### Customer Information
 
-We do not, and have never, sold or disseminated (except in cases where required to by law by law enforcement agencies) the personal information of our customers to any parties outside of CINFU HOSTING SOLUTIONS, or its parent company, Closco Ltd.  
+We do not, and have never, sold or disseminated (except in cases of fraud and where required to by law by law enforcement agencies) the personal information of our customers to any parties outside of CINFU HOSTING SOLUTIONS, or its parent company, Closco Ltd.  
 We use customer information for creating and maintaning customers accounts and services. To connect to our customers in case of problems related to their accounts and services. To provide technical support.  
 Please note that all contact information you provide to us for domain name registration may be viewed by third parties and available for public on domain Whois services. 
