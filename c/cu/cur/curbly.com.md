@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curbly.com privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915051314id_/http%3A//www.curbly.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curbly.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223195256id_/http%3A//www.curbly.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
