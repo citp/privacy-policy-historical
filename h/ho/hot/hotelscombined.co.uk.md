@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelscombined.co.uk privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229035949id_/http%3A//www.hotelscombined.co.uk/AboutUs/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelscombined.co.uk privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223113132id_/http%3A//www.hotelscombined.co.uk/AboutUs/Privacy.aspx) for the most accurate reproduction.*
 
 # HotelsCombined.co.uk Privacy Statement
 
