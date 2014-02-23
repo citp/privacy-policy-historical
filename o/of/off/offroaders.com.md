@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offroaders.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022193057id_/http%3A//www.offroaders.com/contact/contact.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offroaders.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223085718id_/http%3A//www.offroaders.com/contact/contact.htm) for the most accurate reproduction.*
 
 # Contact Page - Offroaders.com
 
@@ -29,7 +29,7 @@
 
 > **CLUBS and ORGANIZATIONS ... Get Listed!   We offer FREE listings in our Clubs and Organizations Directory.   **
 > 
-> **Check out** **our new, improved Offroad Directory! Worldwide Offroad Clubs, 4x4 & automotive related links!  We are currently porting over the original pages of links to this new system, but browse what we have online so far and if you have a post you'd like to add, simply create an account and upload!**...  **[ To the Links](https://web.archive.org/web/20131022193057id_/http%3A//www.offroaders.com/directory/index.php)**
+> **Check out** **our new, improved Offroad Directory! Worldwide Offroad Clubs, 4x4 & automotive related links!  We are currently porting over the original pages of links to this new system, but browse what we have online so far and if you have a post you'd like to add, simply create an account and upload!**...  **[ To the Links](https://web.archive.org/web/20140223085718id_/http%3A//www.offroaders.com/directory/index.php)**
 
 **Advertising on Offroaders.com**
 
@@ -58,7 +58,7 @@ web page address:** |    
 **     
 CLUBS and ORGANIZATIONS ... **
 
-> **Get Listed!   We offer FREE listings in our Clubs and Organizations Directory.  There's only one catch and that is that you exchange the favor and list us on your site.  Simple as that.  If you would like to see your club in our listings ([Club Directory](https://web.archive.org/web/20131022193057id_/http%3A//www.offroaders.com/directory/clubs/index.html "Offroad Clubs and Links")), please fill out the following information:**  
+> **Get Listed!   We offer FREE listings in our Clubs and Organizations Directory.  There's only one catch and that is that you exchange the favor and list us on your site.  Simple as that.  If you would like to see your club in our listings ([Club Directory](https://web.archive.org/web/20140223085718id_/http%3A//www.offroaders.com/directory/clubs/index.html "Offroad Clubs and Links")), please fill out the following information:**  
   
 ---  
   | **What Type of Club?** | 
@@ -129,9 +129,9 @@ This information is used to help us better design our site.   We appreciate yo
 
 > * * *
 
-> **Link to Offroaders.com \- If you would like to link to Offroaders.com here are a few Offroaders banners to choose from. [Click Here](https://web.archive.org/web/20131022193057id_/http%3A//www.offroaders.com/contact/banners.htm)**
+> **Link to Offroaders.com \- If you would like to link to Offroaders.com here are a few Offroaders banners to choose from. [Click Here](https://web.archive.org/web/20140223085718id_/http%3A//www.offroaders.com/contact/banners.htm)**
 
-[](https://web.archive.org/web/20131022193057id_/http%3A//www.offroaders.com/contact/banners.htm)
+[](https://web.archive.org/web/20140223085718id_/http%3A//www.offroaders.com/contact/banners.htm)
 
 * * *
 
@@ -140,7 +140,7 @@ This information is used to help us better design our site.   We appreciate yo
   
 ---  
 **Q.** | **Can you tell me the location of the trails you have been to in the trail reports?**  
-**A.** | **All of the locations in the trail reports are privately owned locations that we as a group had permission in some fashion to be on.   Most of the trail runs were organized through an off-road club or other 4x4 organization which was posted, if available, in the report itself.  With the exception of [Paragon Adventure Park](http://www.paragonap.com/), locations can not be disclosed due to the fact that they are private property.  Clubs who have organized events and make scheduled  trail runs are linked within the trail report.  Your best way to find out how you can find trails in your area is to join a local club and go on scheduled, organized events. ** **Check out our[ US Clubs section](https://web.archive.org/web/20131022193057id_/http%3A//www.offroaders.com/directory/clubs/index.html) for a club near you.  If you are aware of trails in your area but need further details on those trails, your best bet is to study topography maps or satellite imagery.  For more info on these type of maps, see this link: [Click Here](https://web.archive.org/web/20131022193057id_/http%3A//www.offroaders.com/directory/clubs/topo.html). **  
+**A.** | **All of the locations in the trail reports are privately owned locations that we as a group had permission in some fashion to be on.   Most of the trail runs were organized through an off-road club or other 4x4 organization which was posted, if available, in the report itself.  With the exception of [Paragon Adventure Park](http://www.paragonap.com/), locations can not be disclosed due to the fact that they are private property.  Clubs who have organized events and make scheduled  trail runs are linked within the trail report.  Your best way to find out how you can find trails in your area is to join a local club and go on scheduled, organized events. ** **Check out our[ US Clubs section](https://web.archive.org/web/20140223085718id_/http%3A//www.offroaders.com/directory/clubs/index.html) for a club near you.  If you are aware of trails in your area but need further details on those trails, your best bet is to study topography maps or satellite imagery.  For more info on these type of maps, see this link: [Click Here](https://web.archive.org/web/20140223085718id_/http%3A//www.offroaders.com/directory/clubs/topo.html). **  
 **Q.** | **I have a site or I have a business that I would like Offroaders to link to.   Can you post my link?**  
 **A.** | **You can send the link. If you are trading links (reciprocating a link) we will return the link to your site.  
     **  
