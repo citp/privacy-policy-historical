@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cathyscraving.net privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513174124id_/http%3A//www.cathyconnection.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cathyscraving.net privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223132728id_/http%3A//www.cathyconnection.com/privacy.html) for the most accurate reproduction.*
 
 # CATHYS CRAVING.COM
 
