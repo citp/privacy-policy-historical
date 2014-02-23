@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seolinkslist.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029165532id_/http%3A//www.seolinkslist.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seolinkslist.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223163119id_/http%3A//www.seolinkslist.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
