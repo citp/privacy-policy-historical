@@ -1,11 +1,22 @@
-<!--The following is the downloaded HTML source of the smergers.com privacy policy that was archived on 2013-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131222092007id_/http%3A//www.smergers.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smergers.com privacy policy that was archived on 2014-02-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140223020531id_/http%3A//www.smergers.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html class=" wf-loading"><head>
+        <!-- <script src="//cdn.optimizely.com/js/542137784.js"></script> -->
         <meta http-equiv="Content-type" content="text/html; charset=utf-8">
         <meta name="loaderio" content="loaderio-fc69433bf8c06e0eb5f3d906c4b967aa">
-        <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.1.min.js"></script><script type="text/javascript" src="//use.typekit.net/lns0onf.js"></script>
-        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>        
+
+        <!-- TYPEKIT -->
+        <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.1.min.js"></script><script src="//use.typekit.net/lns0onf.js" async=""></script><script type="text/javascript">
+          (function(d) {
+            var config = {
+              kitId: 'lns0onf',
+              scriptTimeout: 3000
+            },
+            h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+          })(document);
+        </script>
+        
         
         <meta name="description" content="Enabling Mergers &amp; Acquisitions (M&amp;A) for Small and Medium Enterprises (SME) in India - SMERGERS is a SME focused M&amp;A Firm. We assist buyers and sellers of small to mid-sized companies. We specialize in M&amp;A, Venture Capital (VC) and Private Equity (PE) fund raising services to SMEs, family owned businesses and startups. Our services - Buy a Business, Sell a Business, Business Valuation, Information Memomrandum Preparation.">
         
@@ -15,12 +26,14 @@
         
 
         <title> Privacy Policy - SMERGERS </title>
+        
+            <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.3/themes/ui-lightness/jquery-ui.css">
+        
         <link rel="icon" type="image/ico" href="/static/images/favicon.ico">
         <link rel="stylesheet" href="/static/js/chosen/chosen.css" type="text/css" media="screen" charset="utf-8">
         <link rel="stylesheet" href="/static/css/grid.css" type="text/css" media="screen" charset="utf-8">
         <link rel="stylesheet" href="/static/css/bootstrap.css" type="text/css" media="screen" charset="utf-8">
         <link rel="stylesheet" href="/static/css/main.css" type="text/css" media="screen" charset="utf-8">
-        <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1/themes/ui-lightness/jquery-ui.css">
         <link rel="stylesheet" href="/static/css/font-awesome.min.css">
         <!--[if IE 7]>
           <link rel="stylesheet" href="/static/css/font-awesome-ie7.min.css">
@@ -29,11 +42,11 @@
         <link href="http://fonts.googleapis.com/css?family=Open Sans" rel="stylesheet" type="text/css">
         <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
  -->        
+        
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js"></script>
-
-        <script type="text/javascript" srchttp:="" www.smergers.com="" ="="" static="" js="" jquery.multiselect.min.js"=""></script>
-        <script type="text/javascript" src="/static/js/jquery.multiselect.filter.min.js"></script>
+        
+        <!-- <script type="text/javascript" src="/static/js/sectordata.js"></script> -->
         <script type="text/javascript" src="/static/js/chosen/chosen.jquery.min.js"></script>
         <script type="text/javascript" src="/static/js/jquery.tmpl.min.js"></script>
         <script type="text/javascript" src="/static/js/jquery.typewatch.js"></script>
@@ -41,6 +54,21 @@
         <script type="text/javascript" src="/static/js/bootstrap-confirmation.js"></script>
         
         <script type="text/javascript">
+            function track(event, attr){
+                data = {
+                    'event': event,
+                    'attr': attr,
+                    'tracking_key': 'smetrack'
+                }
+
+                $.ajax( { 
+                    url: "/track", 
+                    type: 'get',
+                    dataType: 'json',
+                    data : data,
+                    traditional:true
+                });
+            }
 
             function getCookie(name) {
                 var cookieValue = null;
@@ -65,6 +93,9 @@
                     banner.show();
                 }*/
 
+                $(".notification-click").click(function(){
+                    window.location = $(this).attr('data-href');
+                });
                 if(jQuery.browser.msie){
                     $('[placeholder]').focus(function() {
                         var input = $(this);
@@ -81,7 +112,7 @@
                     }).blur();
                 }
 
-                $(".signin").click(function(e) {          
+                $(".signin").click(function(e) {
                     e.preventDefault();
                     $("fieldset#signin_menu").toggle();
                     $(".signin").toggleClass("menu-open");
@@ -122,12 +153,19 @@
                 $("#services-list").click(function(e) {
                     $(".services-menu").show();
                 });
+
+                $("#messages-list").click(function(e) {
+                    $(".messages-menu").show();
+                    track('CLICK', 'Unread Messages');
+                });
                 
-                 $(".services-menu > li").click(function(){
+                $(".services-menu > li").click(function(){
                     window.location = $(this).find("a").attr("href");
-                 })
+                });
+
                 $(document).mouseup(function(e) {                    
                     $(".services-menu").hide();
+                    $(".messages-menu").hide();
                 });
 
                 $("#helpSubmit").click(function(){
@@ -156,18 +194,20 @@
                             }
                             else {
                                 $("#question-post-error").show();
+                                $("#helpSubmit").prop('disabled', false);
                             }
                             return false;
                         }
                     });
+                    $("#helpSubmit").prop('disabled', true);
                 });
 
                 $("#help-button").click(function(){
                     $("#question-post-successful").hide();
                     $("#question-post-error").hide();
-                })
-                
+                });
 
+                track('PAGE_VISIT', '/privacy/');
             }); 
         </script>
 
@@ -191,6 +231,16 @@
                         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
                     })();
                 </script>
+
+                <script type="text/javascript">
+                    var _mfq = _mfq || [];
+                    (function () {
+                    var mf = document.createElement("script"); mf.type = "text/javascript"; mf.async = true;
+                    mf.src = "//cdn.mouseflow.com/projects/817027e8-d805-4914-bde1-1dd12b0e0d7a.js";
+                    document.getElementsByTagName("head")[0].appendChild(mf);
+                  })();
+                </script><script type="text/javascript" async="" src="//cdn.mouseflow.com/projects/817027e8-d805-4914-bde1-1dd12b0e0d7a.js"></script>
+
             
         
     </head>
@@ -228,7 +278,7 @@
 
                                 <div id="topnav" class="topnav" style="float:right;"><a href="/accounts/login/" class="signin"><span>Login </span></a> </div>
                                 <fieldset id="signin_menu">
-                                    <form action="/login/" id="top-login-form" method="POST"> <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="r6rsRj2igeEE1qVPrlphH8dtrsV0KZug"></div>
+                                    <form action="/login/" id="top-login-form" method="POST"> <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="6si5QRteKgQwnEYGaFRUj17dVLMlePhn"></div>
                                         <input type="text" name="login-username" placeholder="Email"> 
                                         <input type="password" name="login-password" placeholder="Password">
                                         <input class="button" value="Login" type="submit">
@@ -250,7 +300,7 @@
 
                                 <div id="topnav" class="topnav" style="float:right;"><a href="/accounts/login/" class="signup"><span>Register  </span></a> </div>
                                 <fieldset id="signup_menu">
-                                    <form action="/login/" id="top-login-form" method="POST"> <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="r6rsRj2igeEE1qVPrlphH8dtrsV0KZug"></div>
+                                    <form action="/login/" id="top-login-form" method="POST"> <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="6si5QRteKgQwnEYGaFRUj17dVLMlePhn"></div>
                                         <input type="text" name="reg-email" placeholder="Email"> 
                                         <input type="password" name="reg-password1" placeholder="Enter Password">                                    
                                         <input type="password" name="reg-password2" placeholder="Repeat Password"> 
@@ -276,7 +326,7 @@
                                     <!-- <li><a href="/contact-us">How it Works</a></li> -->
                                     <li id="services-list-wrapper"> 
                                         <a href="#" id="services-list">
-                                            Services &amp; Pricing <span style="font-size:13px;">▼</span>
+                                            Services &amp; Pricing <span style="font-size:13px;"> <i class="icon-caret-down"></i>&nbsp;</span>
                                         </a>
                                         <ul class="services-menu">
                                             <li><a href="/sell-a-business">Sell a Business</a></li>
@@ -302,7 +352,6 @@
             </div>
             
             
-            
 
             <div class="container_14">
                 <div class="grid_14">
@@ -322,6 +371,9 @@
                 <div style="clear:both;"></div>
             </div>
         </div>
+        <div class="clear"></div>
+
+        <div style="border-top:1px solid #ddd;margin-top:30px;"></div>
         <div class="container_14 footer">
             <div class="grid_14">
                 <div>
@@ -377,25 +429,27 @@
                                 <strong>Industry Watch</strong>
                                 <ul class="footer-item-detailed">
                                     
-                                        <li> <a href="/industry-watch/indian-restaurant-industry/">Restaurant Industry</a> </li>
-                                    
-                                        <li> <a href="/industry-watch/indian-electronics-industry/">Electronics Industry</a> </li>
-                                    
-                                        <li> <a href="/industry-watch/indian-pharmaceuticals-industry/">Pharmaceuticals Industry</a> </li>
-                                    
-                                        <li> <a href="/industry-watch/indian-salon-industry/">Salon Industry</a> </li>
-                                    
-                                        <li> <a href="/industry-watch/it-services/">IT Services</a> </li>
-                                    
                                         <li> <a href="/industry-watch/indian-automobile-autocomponent-industry/">Auto Industry</a> </li>
-                                    
-                                        <li> <a href="/industry-watch/indian-manufacturing-industry/">Manufacturing Industry</a> </li>
-                                    
-                                        <li> <a href="/industry-watch/indian-textile-industry/">Textile Industry</a> </li>
                                     
                                         <li> <a href="/industry-watch/indian-cement-industry/">Cement Industry</a> </li>
                                     
+                                        <li> <a href="/industry-watch/indian-electronics-industry/">Electronics Industry</a> </li>
+                                    
+                                        <li> <a href="/industry-watch/indian-ecommerce-industry/">Ecommerce Industry</a> </li>
+                                    
                                         <li> <a href="/industry-watch/indian-food-processing-industry/">Food Processing Industry</a> </li>
+                                    
+                                        <li> <a href="/industry-watch/it-services/">IT Services</a> </li>
+                                    
+                                        <li> <a href="/industry-watch/indian-manufacturing-industry/">Manufacturing Industry</a> </li>
+                                    
+                                        <li> <a href="/industry-watch/indian-pharmaceuticals-industry/">Pharmaceuticals Industry</a> </li>
+                                    
+                                        <li> <a href="/industry-watch/indian-restaurant-industry/">Restaurant Industry</a> </li>
+                                    
+                                        <li> <a href="/industry-watch/indian-salon-industry/">Salon Industry</a> </li>
+                                    
+                                        <li> <a href="/industry-watch/indian-textile-industry/">Textile Industry</a> </li>
                                     
                                 </ul>
                             </div>
