@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviescapital.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222174600id_/http%3A//www.moviescapital.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviescapital.com privacy policy that was archived on 2014-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140224002015id_/http%3A//www.moviescapital.com/Privacy.htm) for the most accurate reproduction.*
 
 # Online Movies - Download Full Movies
 
@@ -25,9 +25,7 @@ MoviesCapitaluses your personally identifiable information to personalize your e
 
 **Who We Disclose Personally Identifiable Information To**
 
-MoviesCapital will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy
-
-. You may opt-out of receiving email updates by sending an email with "remove" in the subject line to [support@moviescapital.com](mailto:support@moviescapital.com). It may take up to 10 days to be removed from the list.MoviesCapital may also disclose your personal information to law enforcement personnel, government officials, or others when we, in our sole discretion, believe that disclosure is necessary to prevent violations of the law, injury to person or property, or any harm to MoviesCapitalor other members of the website.
+MoviesCapital will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. You may opt-out of receiving email updates by sending an email with "remove" in the subject line to [support@moviescapital.com](mailto:support@moviescapital.com). It may take up to 10 days to be removed from the list.MoviesCapital may also disclose your personal information to law enforcement personnel, government officials, or others when we, in our sole discretion, believe that disclosure is necessary to prevent violations of the law, injury to person or property, or any harm to MoviesCapitalor other members of the website.
 
 **Security**
 
