@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the upublish.info privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903150144id_/http%3A//www.upublish.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upublish.info privacy policy that was archived on 2014-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140224092549id_/http%3A//www.upublish.info/privacy.php) for the most accurate reproduction.*
 
 # U Publish Articles
+
+## Privacy Policy
 
 **uPublish.info**  strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. **uPublish.info** will never sell, barter, or rent your email address to any unauthorized third party. Period.
 
