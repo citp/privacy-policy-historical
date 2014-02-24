@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hirutv.lk privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814212342id_/http%3A//www.asiabroadcasting.lk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hirutv.lk privacy policy that was archived on 2014-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140224121328id_/http%3A//www.asiabroadcasting.lk/privacy.html) for the most accurate reproduction.*
 
 # Asia Broadcasting Corporation - Official Site Sri Lanka
 
@@ -62,8 +62,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Asia Broadcasting Corporation Private Limited](https://web.archive.org/web/20130814212342id_/http%3A//www.asiabroadcasting.lk/www.asiabroadcasting.lk)  
-[www.asiabroadcasting.lk](https://web.archive.org/web/20130814212342id_/http%3A//www.asiabroadcasting.lk/www.asiabroadcasting.lk)  
+[Asia Broadcasting Corporation Private Limited](https://web.archive.org/web/20140224121328id_/http%3A//www.asiabroadcasting.lk/www.asiabroadcasting.lk)  
+[www.asiabroadcasting.lk](https://web.archive.org/web/20140224121328id_/http%3A//www.asiabroadcasting.lk/www.asiabroadcasting.lk)  
 Asia Broadcasting Corporation (Pvt) Ltd. 35th Floor, East Tower, World Trade Center, Colombo 01,Sri Lanka.  
 +94 11 2 337 555 (Hunting  
 md@asiabroadcasting.lk
