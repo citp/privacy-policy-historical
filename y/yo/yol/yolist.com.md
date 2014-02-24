@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yolist.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103055500id_/http%3A//tcnext.com/tcnext/WEB/static_pages/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yolist.com privacy policy that was archived on 2014-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140224024634id_/http%3A//tcnext.com/tcnext/WEB/static_pages/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - tcnext.com
 
