@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the sdge.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203075027id_/http%3A//www.sdge.com/our-company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdge.com privacy policy that was archived on 2014-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140224194025id_/https%3A//www.sdge.com/our-company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | San Diego Gas & Electric
+# Website Privacy Policy | San Diego Gas & Electric
 
 [Para la versión en español](https://web.archive.org/pol%C3%ADtica-de-privacidad)
+
+Please also see our [Privacy Notice](http://www.sdge.com/privacy-notices) regarding the privacy of your energy usage information. 
 
 San Diego Gas and Electric Company (“SDG&E”) is committed to keeping our visitors informed about how we use the information we gather on our web site, at our mobile optimized web site, and in our mobile apps (collectively, the “web site”).  By using our web site or obtaining any product or service through our web site, you agree to the collection and use of information as set forth in this policy.  If you do not agree to this policy, please do not use the web site.
 
@@ -12,7 +14,7 @@ Please be aware that other sites accessible through SDG&E’s web site have thei
 
 In order to better provide you with products and services, SDG&E’s web site collects two types of information: Personal Information and Non Personal Information. 
 
- **Personal Information:** “Personal Information” refers to information that lets us know the specifics of who you are and can be used to identify, contact, or locate you.  You may choose not to provide any Personal Information and you will still be able to access most portions of the web site.  However, Personal Information may be collected from visitors seeking to obtain services offered by SDG&E on this web site, such as:
+**Personal Information:** “Personal Information” refers to information that lets us know the specifics of who you are and can be used to identify, contact, or locate you.  You may choose not to provide any Personal Information and you will still be able to access most portions of the web site.  However, Personal Information may be collected from visitors seeking to obtain services offered by SDG&E on this web site, such as:
 
   * Enrollment in and use of My Account;
   * Applications regarding possible employment;
@@ -27,9 +29,11 @@ Examples of Personal Information you may submit include your name, mailing addre
 
 SDG&E uses this Personal Information to provide services, conduct its business, and improve our visitors’ experience on our web site.
 
- **Non Personal Information:** “Non Personal Information” refers to information that does not identify a specific individual by itself or in combination with other Non Personal Information.  SDG&E may collect Non Personal Information by using cookies, agents, or through the collection of traffic data and location information.
+**Non Personal Information:** “Non Personal Information” refers to information that does not identify a specific individual by itself or in combination with other Non Personal Information.  SDG&E may collect Non Personal Information by using cookies, agents, or through the collection of traffic data and location information.
 
- **Cookies:** SDG&E’s web site may store cookies on your computer or other device to allow us to monitor your use of the web site.   No attempts are made to identify individual users unless actions are taken to identify yourself by an “opt in,” for example:
+**Do Not Track** : At this time, our web site does not respond to Do Not Track (DNT) signals sent from your web browser.  Additionally, we use a variety of third-party services to help provide our services and to help us understand the use of our web site.  These third-party service providers may collect information sent by your browser as part of a web page request, even if you have enabled your browser’s DNT functionality.
+
+**Cookies:** SDG&E’s web site may store cookies on your computer or other device to allow us to monitor your use of the web site.   No attempts are made to identify individual users unless actions are taken to identify yourself by an “opt in,” for example:
 
   * Individual services are requested;
   * Application is made regarding possible employment;
@@ -41,9 +45,9 @@ SDG&E uses this Personal Information to provide services, conduct its business, 
 
 Cookies are used to improve the usefulness of our web site for our visitors.
 
- **Agents:** We may also work with 3rd party service providers or solutions which employ “agents” to monitor, track, and analyze user behavior and traffic data on their device and on this web site.  The information collected by the agents may include, without limitation: hardware model, unique device identifiers (UDID), mobile network information including phone number, the agent version, platform, SDK version, timestamp, API key (identifier for application), application version, model, manufacturer and OS version of device or hardware, session start/stop time, locale, time zone, and network status (WiFi, etc.).  Information collected through the agents is used to customize services and improve web site usability.  Information collected through agents may identify individual users in combination with previously provided Personal Information.
+**Agents:** We may also work with 3rd party service providers or solutions which employ “agents” to monitor, track, and analyze user behavior and traffic data on their device and on this web site.  The information collected by the agents may include, without limitation: hardware model, unique device identifiers (UDID), mobile network information including phone number, the agent version, platform, SDK version, timestamp, API key (identifier for application), application version, model, manufacturer and OS version of device or hardware, session start/stop time, locale, time zone, and network status (WiFi, etc.).  Information collected through the agents is used to customize services and improve web site usability.  Information collected through agents may identify individual users in combination with previously provided Personal Information.
 
- **Traffic Data:**  SDG&E automatically collects and maintains statistical information from our web site’s data logs that concern web site activity, navigation, network traffic flow, and volume (“Traffic Data”).  Examples of Traffic Data include the following:
+**Traffic Data:**  SDG&E automatically collects and maintains statistical information from our web site’s data logs that concern web site activity, navigation, network traffic flow, and volume (“Traffic Data”).  Examples of Traffic Data include the following:
 
   * Name of the domain, or URL, from which the visitor accesses the Internet (e.g., "a company.com"; "a school.edu"; or "an agency.gov");
   * Internet Protocol (“IP”) Number;
@@ -55,15 +59,15 @@ Cookies are used to improve the usefulness of our web site for our visitors.
 
 Our primary purpose for collecting Traffic Data is to optimize the usefulness to visitors of our web site.    Traffic Data is also helpful in permitting us to improve the overall user experience on our web site.  Traffic Data may identify individual visitors in combination with previously provided Personal Information.
 
- **Location Information:** Certain location-enabled functionality (e.g., locating the nearest SDG&E payment office or nearest CNG station) made available in SDG&E’s web site is provided by third party providers.  Your use of that functionality is subject to such third party’s terms and conditions and privacy policy (as updated from time to time). When you use such location-enabled services, SDG&E may also receive information about your actual location, like GPS signals sent by a mobile device or via your IP address. Location-enabled services may also use various technologies to determine location, such as sensor data from your device that may, for example, provide information on nearby Wi-Fi access points and cell towers.  Location information helps SDG&E customize and tailor services to you.  Location information may identify individual users in combination with previously provided Personal Information.
+**Location Information:** Certain location-enabled functionality (e.g., locating the nearest SDG&E payment office or nearest CNG station) made available in SDG&E’s web site is provided by third party providers.  Your use of that functionality is subject to such third party’s terms and conditions and privacy policy (as updated from time to time). When you use such location-enabled services, SDG&E may also receive information about your actual location, like GPS signals sent by a mobile device or via your IP address. Location-enabled services may also use various technologies to determine location, such as sensor data from your device that may, for example, provide information on nearby Wi-Fi access points and cell towers.  Location information helps SDG&E customize and tailor services to you.  Location information may identify individual users in combination with previously provided Personal Information.
 
 ### II. Sharing Your Information with Third Parties
 
 SDG&E will not, without your consent, share your Personal Information with third parties for their commercial purposes except that SDG&E may share your Personal Information with third-parties, including certain affiliated companies (consistent with applicable laws and regulations) or other trusted businesses solely in order to enable them to perform services for SDG&E related to SDG&E’s own business purposes (subject to confidentiality and security obligations).
 
- **Law Enforcement and Public Safety:** SDG&E may also disclose Personal Information if we believe in good faith that such disclosure is necessary to comply with relevant laws or to respond to subpoenas or warrants served on us or to protect or defend the rights, property, or safety of our users, others, or ourselves.  SDG&E may be required by law enforcement or judicial authorities to provide Personal Information to the appropriate governmental authorities. We will disclose Personal Information upon receipt of a court order or subpoena or to cooperate with a law enforcement investigation.  SDG&E fully cooperates with law enforcement agencies in identifying those who use our services for illegal activities.  SDG&E reserves the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
+**Law Enforcement and Public Safety:** SDG&E may also disclose Personal Information if we believe in good faith that such disclosure is necessary to comply with relevant laws or to respond to subpoenas or warrants served on us or to protect or defend the rights, property, or safety of our users, others, or ourselves.  SDG&E may be required by law enforcement or judicial authorities to provide Personal Information to the appropriate governmental authorities. We will disclose Personal Information upon receipt of a court order or subpoena or to cooperate with a law enforcement investigation.  SDG&E fully cooperates with law enforcement agencies in identifying those who use our services for illegal activities.  SDG&E reserves the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
 
- **Mergers and Acquisitions:** In the event of a merger, consolidation, reorganization, or sale or transfer of all or substantially all of the assets or business of SDG&E, one of the assets that would generally be transferred is the information we collect from our visitors and customers (including both Personal Information and Non Personal Information). However, the use of this information by any successor entity would still be governed by the terms of this policy, as amended from time to time, including any amendment after such transaction.
+**Mergers and Acquisitions:** In the event of a merger, consolidation, reorganization, or sale or transfer of all or substantially all of the assets or business of SDG&E, one of the assets that would generally be transferred is the information we collect from our visitors and customers (including both Personal Information and Non Personal Information). However, the use of this information by any successor entity would still be governed by the terms of this policy, as amended from time to time, including any amendment after such transaction.
 
 ### III. Information Security Practices
 
@@ -81,13 +85,13 @@ This web site may provide links to various governmental, industry association an
 
 ### VI. Choices Regarding Marketing Correspondence
 
- **Promotional Emails:** You will have the choice to opt out of receiving promotional emails for products and/or services offered by SDG&E. Once we have processed your request, we will stop sending you, within the legally required timeframes, non-transactional promotional emails with respect to products and/or services offered by us unless you opt back in to receiving such communications.  You can opt out of receiving non-transactional promotional emails from us either (a) by following the unsubscribe instructions in the applicable email you receive from us (if applicable), (b) while you are completing our online web form (if applicable), or (c) by calling us at (800) 411-7343.
+**Promotional Emails:** You will have the choice to opt out of receiving promotional emails for products and/or services offered by SDG&E. Once we have processed your request, we will stop sending you, within the legally required timeframes, non-transactional promotional emails with respect to products and/or services offered by us unless you opt back in to receiving such communications.  You can opt out of receiving non-transactional promotional emails from us either (a) by following the unsubscribe instructions in the applicable email you receive from us (if applicable), (b) while you are completing our online web form (if applicable), or (c) by calling us at (800) 411-7343.
 
- **Our Operational Emails:** Despite your choices regarding non-transactional promotional emails, we may continue to send you operational emails for non-promotional or transactional purposes, including, without limitation: billing, conservation, outage management, and safety.
+**Our Operational Emails:** Despite your choices regarding non-transactional promotional emails, we may continue to send you operational emails for non-promotional or transactional purposes, including, without limitation: billing, conservation, outage management, and safety.
 
 ### VII. Changes to This Privacy Policy
 
-(last updated March 22, 2012)
+(last updated December 5, 2013)
 
 SDG&E reserves the right, at any time, and without notice, to add to, change, modify, or update this Privacy Policy by posting a revised policy on this web site.  Any revised Privacy Policy shall be effective immediately on posting.  However, any time this policy is updated, the date of modification will be posted.
 
@@ -101,12 +105,10 @@ If you have any questions or comments regarding (a) our web site Privacy Policy,
 
 Please note, however, that information regarding these contacts or correspondence with SDG&E may be retained in a file that is specific to you.
 
-Effective April 26, 2012
-
 ### Other Languages
 
   * [Arabic](http://www.sdge.com/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%AE%D8%B5%D9%88%D8%B5%D9%8A%D8%A9)
-  * [Armenian](https://web.archive.org/web/20131203075027id_/http%3A//www.sdge.com/our-company/node/2196)
+  * [Armenian](https://web.archive.org/web/20140224194025id_/https%3A//www.sdge.com/our-company/node/2196)
   * [Farsi](http://www.sdge.com/%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D8%AD%D9%81%D8%B8-%D8%AD%D8%B1%DB%8C%D9%85-%D8%AE%D8%B5%D9%88%D8%B5%DB%8C)
   * [Hmong](http://www.sdge.com/txoj-cai-hais-txog-ntiag-tug)
   * [Kmer](http://www.sdge.com/ekalkarn%C3%A9kcnpab)
