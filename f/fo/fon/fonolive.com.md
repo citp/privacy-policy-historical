@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fonolive.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225025918id_/http%3A//www.fonolive.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonolive.com privacy policy that was archived on 2014-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140224051842id_/http%3A//www.fonolive.com/privacy.php) for the most accurate reproduction.*
 
 # Fonolive, Privacy, We are committed to ensuring that your information is secure on Fonolive
 
