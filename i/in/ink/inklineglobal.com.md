@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inklineglobal.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815220711id_/http%3A//www.inklineglobal.com/support/sales_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inklineglobal.com privacy policy that was archived on 2014-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140224103818id_/http%3A//www.inklineglobal.com/support/sales_privacy.html) for the most accurate reproduction.*
 
 # inKline Global, Inc
 
@@ -7,7 +7,9 @@ inKline Global, Inc. is committed to protecting your privacy. To make your shopp
 **What we collect and how we use information  
 **To process your order, we need to know your name, email address, and mailing address. We also need your credit card number and its expiration date. 
 
-In addition to the information we collect directly from you, we also track the use of our website. We monitor viewing and traffic patterns, customer behavior, and other similar information. We compile this information into a statistical aggregate. We use this information as well as your personal information for internal business and administrative purposes. We may occasionally use your personal information to notify you of special offers, new products, services, promotions, and other similar information. 
+In addition to the information that we collected from you, we will also track the use of our website. We monitor viewing and traffic patterns, customer behavior, and other similar information. We compile this information into a statistical aggregate. 
+
+Your personal information such as email & postal address will be used internal business and administrative purposes such as to notify you of special offers, new products, services, promotions, and other similar information. 
 
 **What we disclose to outside parties  
 **We will not sell, rent or lease your personally identifiable information to others. Unless we have your permission or are required by law, we will only share the personal data you provide online with inKline Global and/or business partners who are acting on their behalf.
@@ -35,9 +37,14 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-Subscribe/Unsubscribe  
-[http://www.inklineglobal.com/cgi-bin/mailing/externalus.cgi](http://www.inklineglobal.net/cgi-bin/mailing/igmailsublink.cgi?Your_Name+%21*EMAIL*%21)  
+1) Unsubscribe Link  
+[http://www.inklineglobal.com/cgi-bin/mailing/externalus.cgi](http://www.inklineglobal.net/cgi-bin/mailing/igmailsublink.cgi?Your_Name+%21*EMAIL*%21)
 
+2) Writing To Us  
+Please write your concerns to the following address: 711 S Carson City Suite 4, NV 89701
+
+3) Call Us   
+Please call our technical support at +1 (866) 612-4209 and ask for removal.
 
 **Correct/Update information**  
 This site gives our customers options for changing and modifying information previously provided. Any changes in personal information, please email: [sales@inklineglobal.com](mailto:sales@inklineglobal.com)
