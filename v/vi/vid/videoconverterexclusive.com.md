@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videoconverterexclusive.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226002342id_/http%3A//www.videoconverterexclusive.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoconverterexclusive.com privacy policy that was archived on 2014-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140224060832id_/http%3A//www.videoconverterexclusive.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # 
 
