@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiabet.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424235700id_/http%3A//www.indiabet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiabet.com privacy policy that was archived on 2014-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140224041751id_/http%3A//www.indiabet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - India Bet
 
@@ -29,7 +29,7 @@ Our advertisers and ourselves may have the occasion to collect information in re
 
 Data gathered will not identify you personally under any circumstance. It is strictly aggregate statistical data about our visitors and how they used our resources on the site.  No identifying personal information will be shared at any time via cookies.
 
-Close to the above, data gathering can be about general online use through a cookie file.  When used, cookies are automatically placed in your hard drive where information transferred to your computer can be found.  These cookies are designed to help us correct and improve our site’s services or products for your benefit.
+Close to the above, data gathering can be about general online use through a cookie file.  When used, cookies are automatically placed in your hard drive where information transferred to your computer can be found.  These cookies are designed to help us correct and improve our site's services or products for your benefit.
 
 You may also elect to decline all cookies via your computer.  Every computer has the ability to decline file downloads like cookies.  Your browser has an option to enable the declining of cookies.  If you do decline cookie downloads you may be limited in certain areas of our site, as there are parts of our site that require cookies to be activated.
 
