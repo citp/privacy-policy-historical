@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instavinez.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223135035id_/http%3A//www.instavinez.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instavinez.com privacy policy that was archived on 2014-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140224023602id_/http%3A//www.instavinez.com/privacy) for the most accurate reproduction.*
 
 # InstaVinez Privacy Policy
 
