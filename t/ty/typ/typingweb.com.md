@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the typingweb.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010125713id_/http%3A//www.typingweb.com/support/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typingweb.com privacy policy that was archived on 2014-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140224091557id_/http%3A//www.typingweb.com/support/privacypolicy) for the most accurate reproduction.*
 
-# Learn to Type | Teach Typing | Free Typing Tutor and Typing Lessons
+# Learn to Type | Keyboarding | Free Typing Tutor and Typing Lessons
 
 ## Privacy Policy
 
