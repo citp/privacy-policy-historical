@@ -1,0 +1,634 @@
+<!--The following is the downloaded HTML source of the learnakedacademy.com privacy policy that was archived on 2014-02-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140224051241id_/http%3A//www.criminalhistorybook.com/privacy%2Cpage%2Ccontent_pages) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<title>Criminal History Book Publishers, LLLC - Child Killers</title>
+<link rel="icon" href="http://www.criminalhistorybook.com/favicon.ico" type="image/x-icon">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!--<meta name="description" content="Public Auction. Time Served Here! Audition literary examples of malpractice before you buy!">
+<meta name="keywords" content="Child Killers, Proposition Study Guides, Malpractice, Self Worth Training, Spiritual Healing, Accidental Death Examples, Educational Speakers, Motivational Speakers, Public Auctions, Verbal Abuse, Brainwashing Techniques, Child Molestation Study Guide, Chid Molestation, Malpractice Examples, Malpractice Study Guide">-->
+
+<meta name="description" content="Serve Time Here And Beat Your Fear Of Going To Jail.  Public Auction.">
+<meta name="keywords" content="Child Killers, Killers, History Book, Criminal, Soul, Auction, Criminal History Book, Time Served, Trade, Time, Served">
+<link rel="stylesheet" type="text/css" href="themes/global.css">
+<script type="text/javascript" src="JsHttpRequest/JsHttpRequest.js"></script>
+<script type="text/javascript" src="scripts/jsencode.js"></script>
+
+<script type="text/javascript" src="jquery/js/jquery-1.4.4.min.js"></script>
+<script type="text/javascript" src="jquery/js/jquery.blockUI.js"></script>
+
+<link rel="stylesheet" type="text/css" href="jquery/css/swfupload.css">
+<script type="text/javascript" src="jquery/swfupload/swfupload.js"></script>
+<script type="text/javascript" src="jquery/swfupload/fileprogress.js"></script>
+<script type="text/javascript" src="jquery/swfupload/handlers.js"></script>
+
+<script type="text/javascript" src="jquery/js/jquery.jclock.js"></script>
+<script type="text/javascript" src="jquery/js/jquery.clock.js"></script>
+<script type="text/javascript" src="jquery/js/jquery.countdown.min.js"></script>
+
+<script type="text/javascript" src="jquery/tiny_mce/jquery.tinymce.js"></script>
+
+<script type="text/javascript" src="themes/realit_theme/main.js"></script>
+
+<script type="text/javascript">
+	var relative_path = '';
+	var sc_title = 'Shipping Calculator';
+	var site_theme = 'realit_theme';
+	var upl_progress_msg = 'Uploading, please wait...';
+	var closed_msg = 'Closed';
+	var day_msg = 'Day';
+	var days_msg = 'Days';
+	var h_msg = 'h';
+	var m_msg = 'm';
+	var s_msg = 's';
+	var na_msg = 'N/A';
+	var save_msg = 'Save';	
+	var edit_msg = 'Edit';
+	var processing_bulk_msg = 'The file has been uploaded.<br>Processing your listings. Please wait, this might take a few minutes...';
+	var processing_msg = 'Please wait, processing...';
+	
+		var location_reload = false;
+		
+	var s_usr = '0';
+	
+
+	function confirm_refresh()
+	{
+		var is_confirmed = confirm('Are you sure you want to proceed?');
+	
+		if (is_confirmed) {
+			return true;
+		}
+		else
+		{
+			window.location.reload();
+		}
+	
+		return is_confirmed;
+	}
+	
+	var currenttime = 'February 24, 2014 00:12:41';
+	var serverdate=new Date(currenttime);
+	
+	function padlength(what){
+		var output=(what.toString().length==1)? "0"+what : what;
+		return output;
+	}
+	
+	function displaytime(){
+		serverdate.setSeconds(serverdate.getSeconds()+1)
+		var timestring=padlength(serverdate.getHours())+":"+padlength(serverdate.getMinutes())+":"+padlength(serverdate.getSeconds());
+		document.getElementById("servertime").innerHTML=timestring;
+	}
+	
+	// swf upload code snippet for the bulk upload function
+	var swfu;
+	
+	window.onload = function () {	
+				setInterval("displaytime()", 1000);
+		
+	 	$.unblockUI();
+	 	
+	 	$('#form_bulk_list_all, #form_bulk_delete_all, #form_bulk_list_proceed').bind('click', function() {	
+			$.blockUI({ message: '<p style="padding: 10px; font-size: 16px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold;">' + processing_msg + '</p>' });
+		}); 		
+		
+		// load tinymce for all text areas which need to have wysiwyg enabled - v6.10 upgrade on Innova.
+		$('textarea.tinymce').tinymce({
+			// Location of TinyMCE script
+			script_url : '' + 'jquery/tiny_mce/tiny_mce_src.js',
+
+//         valid_elements : '*[*]',
+//         valid_children : "+body[style]", 
+         
+			// General options
+			theme : "advanced",
+         relative_urls: false,
+         remove_script_host: false,
+         
+			// Theme options
+			theme_advanced_buttons1 : "bold,italic,underline,strikethrough,|,justifyleft,justifycenter,justifyright,justifyfull,formatselect,fontselect,fontsizeselect",
+			theme_advanced_buttons2 : "cut,copy,paste,|,bullist,numlist,|,outdent,indent,blockquote,|,undo,redo,|,link,unlink,anchor,image,cleanup,help,code,|,forecolor,backcolor,|,hr,removeformat,visualaid,|,sub,sup",
+			theme_advanced_buttons3 : "",
+			theme_advanced_toolbar_location : "top",
+			theme_advanced_toolbar_align : "left",
+			theme_advanced_statusbar_location : "bottom",
+			theme_advanced_resizing : false
+
+		});
+
+			
+		var bulk_upload_page = document.getElementById('spanButtonPlaceholder');
+		
+		if (bulk_upload_page != null)
+		{
+			swfu = new SWFUpload({
+				// Backend settings
+				upload_url: "ajax_files/bulk_uploader.php",
+				file_post_name: "bulk_file",
+		
+				// Flash file settings
+				file_size_limit : "50 MB",
+				file_types : "*.csv;*.txt",			// or you could use something like: "*.doc;*.wpd;*.pdf",
+				file_types_description : "CSV Files",
+				file_upload_limit : "1",
+				file_queue_limit : "1",
+		
+				// Event handler settings
+				swfupload_loaded_handler : swfUploadLoaded,
+		
+				file_dialog_start_handler: fileDialogStart,
+				file_queued_handler : fileQueued,
+				file_queue_error_handler : fileQueueError,
+				file_dialog_complete_handler : fileDialogComplete,
+		
+				//upload_start_handler : uploadStart,	// I could do some client/JavaScript validation here, but I don't need to.
+				upload_progress_handler : uploadProgress,
+				upload_error_handler : uploadError,
+				upload_success_handler : uploadSuccess,
+				upload_complete_handler : uploadComplete,
+		
+				// Button Settings
+				button_image_url : "jquery/img/XPButtonUploadText_61x22.png",
+				button_placeholder_id : "spanButtonPlaceholder",
+				button_width: 61,
+				button_height: 22,
+		
+				// Flash Settings
+				flash_url : "jquery/swfupload/swfupload.swf",
+		
+				custom_settings : {
+					progress_target : "fsUploadProgress",
+					upload_successful : false
+				},
+		
+				// Debug settings
+				debug: false
+			});
+		}
+	
+	};	
+</script>
+
+<script type="text/javascript" src="jquery/global.js"></script>
+
+
+<!--[if lt IE 8]><style>
+.wraptocenter span {
+    display: inline-block;
+    height: 100%;
+}
+</style><![endif]-->
+<link href="themes/realit_theme/style.css" rel="stylesheet" type="text/css">
+<script src="http://www.criminalhistorybook.com/themes/realit_theme/hireme.js" type="text/javascript"></script>
+<style type="text/css">
+<!--
+.lb {
+	background-image:  url(themes/realit_theme/img/lb_bg.gif);
+}
+.db {
+	background-image:  url(themes/realit_theme/img/db_bg.gif);
+}
+-->
+</style>
+
+</head>
+<body>
+	
+<table width="1010px" class="container" border="0" align="center" cellpadding="0" cellspacing="0">
+<tbody><tr>
+   <td valign="top">
+   
+   <table width="100%" cellspacing="0" cellpadding="0" border="0" class="main_header">
+            	<tbody><tr>
+                	<td>
+                    	<table width="100%" cellspacing="0" cellpadding="0" border="0" class="header">
+                        	<tbody><tr>
+                            	<td width="358px" class="header_left">
+                                    <a href="http://www.criminalhistorybook.com/"><img src="http://www.criminalhistorybook.com/images/layout/criminal_history_book_logo.png" title="Criminal History Book Publishers, LLC" alt="Criminal History Book Publishers™, LLC"></a>
+                                </td>
+                                <td width="300px">
+                                    <a href="http://learnakedacademy.com" target="_blank"><img border="0" alt="" src="http://www.criminalhistorybook.com/images/layout/logo-Nacked3.png"></a>
+                                </td>
+                                <td valign="top">
+                                  
+								                                <form action="login.php" method="post" name="loginbox">      				
+                                 <table width="295" cellspacing="0" cellpadding="0" border="0">
+									  <tbody>
+									  <tr>
+									    <td width="105"><input type="text" value="Username" name="username" onfocus="if(this.value=='Username'){this.value=''};" onblur="if(this.value==''){this.value='Username'};" class="userst"></td>
+									    <td width="7">&nbsp;</td>
+									    <td width="105"><input type="password" name="password" onfocus="if(this.value=='Password'){this.value=''};" onblur="if(this.value==''){this.value='Password'};" value="Password" class="userst"></td>
+									    <td width="10"> <input type="hidden" value="submit" name="operation">
+									
+									         <input type="hidden" value="" name="redirect"></td>
+									    <td><input type="submit" class="btnlogin" name="btnlogin" value="Login"></td>
+									  </tr>
+									  <tr>
+									    <td colspan="4">&nbsp;</td>
+									  </tr>
+									  <tr> 
+									    <td colspan="4"><a href="https://www.facebook.com/dialog/oauth?client_id=351710611599075&amp;redirect_uri=http%3A%2F%2Fwww.criminalhistorybook.com%2Fprivacy%2Cpage%2Ccontent_pages&amp;state=a2baa7df844da907a5337d4532214d13&amp;scope=email"><img src="biopic/avatars/fblogin.png" height="29px" alt="Facebook Login" border="0"></a></td>
+									  </tr>
+									  </tbody></table>
+									
+								
+  
+                                  
+                                </form></td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>
+     <table width="100%" cellspacing="0" cellpadding="0" border="0" class="main_banner">
+            	<tbody><tr>
+                	<td>
+                    	<img width="980" height="256" alt="" src="http://www.criminalhistorybook.com/images/layout/banner_1.png">
+                    </td>
+                </tr>
+            </tbody></table>  
+      <table width="100%" cellspacing="0" cellpadding="0" border="0" class="main_navigation">
+            	<tbody><tr>
+                	<td valign="top">
+                    	<table width="100%" cellspacing="0" cellpadding="0" border="0" class="navigation">
+                        	<tbody><tr>
+                        	
+                        	<td>
+                        	<div class="nav">
+                                        <ul>
+                                            <li><a href="http://www.criminalhistorybook.com/index.php">H0ME</a></li>
+                                            <li><a href="http://www.criminalhistorybook.com/sell_item,redirect,login">SELL</a></li>
+                                            <li><a href="http://www.criminalhistorybook.com/register.php">REGISTER</a>
+                                                                                        </li>
+                                            <li><a href="http://www.criminalhistorybook.com/login.php">LOGIN</a></li>
+                                            <li><a href="http://www.criminalhistorybook.com/stores.php">MUSIC STORES</a></li>
+                                        </ul>
+                                     </div>
+                        	</td>
+                            </tr>
+                        </tbody></table>
+                        <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                        	<tbody><tr>
+                            	<td width="100%" class="nav_bottom"></td>
+                            </tr>
+                        </tbody></table>
+                        
+                        
+                    </td>
+                </tr>
+            </tbody></table>           
+   
+   <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-bottom: 4px solid #0f3f79;display:none;">
+         <tbody><tr valign="bottom">
+            <td>&nbsp;</td>
+            <td valign="bottom" style="padding-left: 30px;"></td>
+         </tr>
+         <tr valign="bottom">
+            <td><a href="http://www.criminalhistorybook.com/index.php"><img src="images/probidlogo.gif" alt="Professional Auction Script Software by PHP Pro Bid" vspace="4" border="0"></a></td>
+            <td width="100%" valign="bottom" style="padding-left: 30px;">
+            	<div class="toplink" align="right" style="padding: 10px;"> 
+            		
+            		<a href="http://www.criminalhistorybook.com/index.php">HOME</a> | 
+                  &nbsp;<a href="http://www.criminalhistorybook.com/faq,page,content_pages">FAQ</a>
+                                    | <a href="http://www.criminalhistorybook.com/about_us,page,content_pages">ABOUT US</a>
+                                                      | <a href="http://www.criminalhistorybook.com/contact_us,page,content_pages">CONTACT US</a>
+                                 </div>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tbody><tr height="31" align="center">
+                                          <td width="6"><img src="themes/realit_theme/img/lb_s.gif" width="6" height="31"></td>
+                     <td nowrap="" class="lb mainmenu" width="13%">&nbsp;<a href="http://www.criminalhistorybook.com/index.php">HOME</a>&nbsp;</td>
+                     <td width="8"><img src="themes/realit_theme/img/lb_e.gif" width="8" height="31"></td>
+                                          <td width="6"><img src="themes/realit_theme/img/lb_s.gif" width="6" height="31"></td>
+                     <td nowrap="" class="lb mainmenu" width="13%">&nbsp;<a href="http://www.criminalhistorybook.com/sell_item,redirect,login">SELL</a>&nbsp;</td>
+                     <td width="8"><img src="themes/realit_theme/img/lb_e.gif" width="8" height="31"></td>
+                                          <td width="6"><img src="themes/realit_theme/img/lb_s.gif" width="6" height="31"></td>
+                     <td nowrap="" class="lb mainmenu" width="13%">&nbsp;<a href="http://www.criminalhistorybook.com/register.php">REGISTER</a>&nbsp;</td>
+                     <td width="8"><img src="themes/realit_theme/img/lb_e.gif" width="8" height="31"></td>
+                     
+                                          <td width="6"><img src="themes/realit_theme/img/lb_s.gif" width="6" height="31"></td>
+                     <td nowrap="" class="lb mainmenu" width="13%">&nbsp;<a href="http://www.criminalhistorybook.com/login.php">LOGIN</a>&nbsp;</td>
+                     <td width="8"><img src="themes/realit_theme/img/lb_e.gif" width="8" height="31"></td>
+                                          <td width="6"><img src="themes/realit_theme/img/lb_s.gif" width="6" height="31"></td>
+                     <td nowrap="" class="lb mainmenu" width="13%">&nbsp;<a href="http://www.criminalhistorybook.com/stores.php">MUSIC STORES</a>&nbsp;</td>
+                     <td width="8"><img src="themes/realit_theme/img/lb_e.gif" width="8" height="31"></td>
+                                          <td width="6"><img src="themes/realit_theme/img/lb_s.gif" width="6" height="31"></td>
+                     <td nowrap="" class="lb mainmenu" width="13%">&nbsp;<a href="http://www.criminalhistorybook.com/wanted_ads.php">WANTED ADS</a>&nbsp;</td>
+                     <td width="8"><img src="themes/realit_theme/img/lb_e.gif" width="8" height="31"></td>
+                                          <td width="6"><img src="themes/realit_theme/img/lb_s.gif" width="6" height="31"></td>
+                     <td nowrap="" class="lb mainmenu" width="13%">&nbsp;<a href="http://www.criminalhistorybook.com/help,page,content_pages">HELP</a>&nbsp;</td>
+                     <td width="8"><img src="themes/realit_theme/img/lb_e.gif" width="8" height="31"></td>
+                                          <td width="6"><img src="themes/realit_theme/img/lb_s.gif" width="6" height="31"></td>
+                     <td nowrap="" class="lb mainmenu" width="13%">&nbsp;<a href="http://www.criminalhistorybook.com/site_fees.php">SITE FEES</a>&nbsp;</td>
+                     <td width="8"><img src="themes/realit_theme/img/lb_e.gif" width="8" height="31"></td>
+                                       </tr>
+               </tbody></table></td>
+         </tr>
+      </tbody></table>
+      
+      <table width="100%" height="29" border="0" cellpadding="0" cellspacing="0" bgcolor="#efefef" style="border: 1px solid #a6a6a6; border-top: 2px solid #a6a6a6;display:none;">
+         <tbody><tr height="31">
+            <td width="194" nowrap="" align="center" class="search">&nbsp;&nbsp;&nbsp;Feb. 24, 2014 <span id="servertime"></span>&nbsp;&nbsp;&nbsp;</td>
+            
+            <input type="hidden" name="option" value="basic_search">
+               <td class="search" nowrap="" style="border-left: 1px solid #dddddd;">&nbsp;&nbsp;&nbsp;<a href="http://www.criminalhistorybook.com/search.php">SEARCH</a>&nbsp;&nbsp;&nbsp;</td>
+               <td class="search" nowrap=""><input type="text" size="25" name="basic_search">&nbsp;&nbsp;&nbsp;</td>
+               <td class="search" nowrap=""><input name="form_basic_search" type="submit" value="Search">&nbsp;&nbsp;&nbsp;</td>
+            
+            <td class="search" nowrap="" style="border-left: 1px solid #dddddd;">&nbsp;&nbsp;&nbsp;BROWSE&nbsp;&nbsp;</td>
+						<form name="cat_browse_form" method="get" action="categories.php"></form>
+            <td width="100%" class="search"><select name="parent_id" id="parent_id" class="contentfont" onchange="javascript:cat_browse_form.submit()"> <option value="" selected="">Choose a Category</option><option value="1866">Club</option> <option value="1867">Dirty South</option> <option value="1868">East Coast</option> <option value="1869">Gangsta</option> <option value="1870">Pop</option> <option value="1871">R&amp;B</option> <option value="1872">Reggaeton</option> <option value="1873">Underground</option> <option value="1874">Urban</option> <option value="1875">West Coast</option> <option value="">------------------------</option> <option value="0">All Categories</option></select></td>
+            
+                        <td nowrap="" style="border-left: 1px solid #dddddd;" align="center">&nbsp;&nbsp;<!-- AddThis Button BEGIN -->
+		<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4a83d52479e9d5ed"><img src="https://s7.addthis.com/static/btn/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0" align="middle"></a><script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a83d52479e9d5ed"></script>
+		<!-- AddThis Button END -->&nbsp;&nbsp;</td>
+                                    <td nowrap="" style="border-left: 1px solid #dddddd;" align="center">&nbsp;&nbsp;<a href="http://www.criminalhistorybook.com/english,change_language,index"><img src="themes/realit_theme/img/english.gif" border="0" alt="english" align="middle"></a>&nbsp;&nbsp;</td>
+                     </tr>
+      </tbody></table>
+      
+      
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+      	         <td width="280" valign="top" class="Browse_Genre">
+         	<script language="javascript">
+					var ie4 = false;
+					if(document.all) { ie4 = true; }
+
+					function getObject(id) { if (ie4) { return document.all[id]; } else { return document.getElementById(id); } }
+					function toggle(link, divId) {
+						var lText = link.innerHTML;
+						var d = getObject(divId);
+						if (lText == '+') { link.innerHTML = '&#8211;'; d.style.display = 'block'; }
+						else { link.innerHTML = '+'; d.style.display = 'none'; }
+					}
+				</script>
+				            <div><img src="themes/realit_theme/img/pixel.gif" width="1" height="5"></div>
+            <noscript>
+            Javascript not supported            </noscript>
+                        <div id="exp1102170166">
+            
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody><tr>
+                                        	<td class="main_Browse">
+                                            	Browse by Genre
+                                            </td>
+                                    	</tr>
+      <tr>
+      <td class="Dirty_South"><a href="http://www.criminalhistorybook.com/club,category,1866,parent_id,categories">
+         Club         </a></td>
+   </tr>
+      <tr>
+      <td class="Dirty_South"><a href="http://www.criminalhistorybook.com/dirty-south,category,1867,parent_id,categories">
+         Dirty South         </a></td>
+   </tr>
+      <tr>
+      <td class="Dirty_South"><a href="http://www.criminalhistorybook.com/east-coast,category,1868,parent_id,categories">
+         East Coast         </a></td>
+   </tr>
+      <tr>
+      <td class="Dirty_South"><a href="http://www.criminalhistorybook.com/gangsta,category,1869,parent_id,categories">
+         Gangsta         </a></td>
+   </tr>
+      <tr>
+      <td class="Dirty_South"><a href="http://www.criminalhistorybook.com/pop,category,1870,parent_id,categories">
+         Pop         </a></td>
+   </tr>
+      <tr>
+      <td class="Dirty_South"><a href="http://www.criminalhistorybook.com/randb,category,1871,parent_id,categories">
+         R&amp;B         </a></td>
+   </tr>
+      <tr>
+      <td class="Dirty_South"><a href="http://www.criminalhistorybook.com/reggaeton,category,1872,parent_id,categories">
+         Reggaeton         </a></td>
+   </tr>
+      <tr>
+      <td class="Dirty_South"><a href="http://www.criminalhistorybook.com/underground,category,1873,parent_id,categories">
+         Underground         </a></td>
+   </tr>
+      <tr>
+      <td class="Dirty_South"><a href="http://www.criminalhistorybook.com/urban,category,1874,parent_id,categories">
+         Urban         </a></td>
+   </tr>
+      <tr>
+      <td class="Dirty_South"><a href="http://www.criminalhistorybook.com/west-coast,category,1875,parent_id,categories">
+         West Coast         </a></td>
+   </tr>
+   </tbody></table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody><tr>
+                                        	<td class="main_Browse">
+                                            	Browse by Mood
+                                            </td>
+                                    	</tr>
+      <tr>
+      <td class="Dirty_South"><a href="http://www.criminalhistorybook.com/angry,category,1876,parent_id,moods">
+         Angry       </a></td>
+   </tr>
+      <tr>
+      <td class="Dirty_South"><a href="http://www.criminalhistorybook.com/dark,category,1877,parent_id,moods">
+         Dark       </a></td>
+   </tr>
+      <tr>
+      <td class="Dirty_South"><a href="http://www.criminalhistorybook.com/epic,category,1878,parent_id,moods">
+         Epic       </a></td>
+   </tr>
+      <tr>
+      <td class="Dirty_South"><a href="http://www.criminalhistorybook.com/frantic,category,1879,parent_id,moods">
+         Frantic       </a></td>
+   </tr>
+      <tr>
+      <td class="Dirty_South"><a href="http://www.criminalhistorybook.com/happy,category,1880,parent_id,moods">
+         Happy       </a></td>
+   </tr>
+      <tr>
+      <td class="Dirty_South"><a href="http://www.criminalhistorybook.com/inspiring,category,1881,parent_id,moods">
+         Inspiring       </a></td>
+   </tr>
+      <tr>
+      <td class="Dirty_South"><a href="http://www.criminalhistorybook.com/relaxed,category,1882,parent_id,moods">
+         Relaxed       </a></td>
+   </tr>
+      <tr>
+      <td class="Dirty_South"><a href="http://www.criminalhistorybook.com/sad,category,1883,parent_id,moods">
+         Sad       </a></td>
+   </tr>
+      <tr>
+      <td class="Dirty_South"><a href="http://www.criminalhistorybook.com/silly,category,1884,parent_id,moods">
+         Silly       </a></td>
+   </tr>
+      <tr>
+      <td class="Dirty_South"><a href="http://www.criminalhistorybook.com/soulful,category,1885,parent_id,moods">
+         Soulful       </a></td>
+   </tr>
+   </tbody></table>
+
+
+
+
+            </div>
+            <div><img src="themes/realit_theme/img/pixel.gif" width="280" height="1"></div>
+                                    
+				
+
+								
+            </td>
+			
+                  <td class="main_Featured" valign="top">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+        
+        <td class="main_Browse">Privacy Policy</td>
+        
+        </tr>
+        </tbody></table><br><script language="javascript">
+	var ie4 = false;
+	if(document.all) { ie4 = true; }
+
+	function getObject(id) { if (ie4) { return document.all[id]; } else { return document.getElementById(id); } }
+	function toggle(link, divId) {
+		var d = getObject(divId);
+		if (d.style.display == '') { d.style.display = 'none'; }
+		else { d.style.display = ''; }
+	}
+</script><div class="topic_content" id="topic_content_0" style="display: ;"> <p>We believe your business is no one else's. Your privacy is important to you…and to us. So we'll protect the information you share with us. To protect your privacy, The Black House Film Productions, LLC,  follows different principles in accordance with world-wide practices for customer privacy and data protection.</p>
+<ul>
+<li>We won't sell or give away your name, mail address, phone number, email address, credit card number or any other information to anyone.</li>
+<li>We'll use the latest security measures to protect your information from unauthorized users.</li>
+</ul>
+<p><span>NOTICE </span></p>
+<p>We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally this information is requested when you purchase our software packages. We use your Personal Information for four primary purposes:</p>
+<ul>
+<li>To process and activate your order</li>
+<li>To identify you</li>
+<li>To help us support you and/or your Business.</li>
+<li>To alert you to product upgrades, special offers, updated information and other new services from The Black House Film Productions, LLC.</li>
+</ul>
+<p><span>ACCESS</span></p>
+<p> </p>
+<p>We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time at the client area. There, you can view and edit personal information you have already given us.</p></div></td>
+</tr>
+<tr>
+ <td class="main_Featured">&nbsp;	</td>
+</tr>
+</tbody></table>
+<a href="http://www.nationaldebtcollectionagency.com"><img src="http://www.nationaldebtcollectionagency.com/wp-content/uploads/2012/12/TDOE-Banner012.jpg"></a>
+<table width="100%" cellspacing="0" cellpadding="0" border="0" class="footer">
+                <tbody><tr>
+                   <td valign="top">
+                      <table width="675px" cellspacing="0" cellpadding="0" border="0">
+                         <tbody><tr>
+                            <td>
+                               <table width="200px" cellspacing="0" cellpadding="0" border="0" style="margin-left:25px;">
+                                  <tbody><tr>
+                                      <td class="CUSTOMER_SERVICE">
+                                          CUSTOMER SERVICE
+                                       </td>
+                                  </tr>
+                                  <tr>
+                                     <td class="main_About_us">
+                                        <a href="http://www.criminalhistorybook.com/about_us,page,content_pages">About us</a>
+                                     </td>
+                                  </tr>
+                                  <tr>
+                                     <td class="About_us">
+                                        <a href="http://www.criminalhistorybook.com/site_fees.php">Site Fees</a>
+                                     </td>
+                                  </tr>
+                                  <tr>
+                                     <td class="About_us">
+                                        <a href="http://www.criminalhistorybook.com/faq,page,content_pages">FAQ</a> 
+                                  	 </td>
+                                  </tr>
+                               </tbody></table>                         									
+                            </td>
+                            <td>
+                               <table width="200px" cellspacing="0" cellpadding="0" border="0" style="margin-left:25px;">
+                                  <tbody><tr>
+                                     <td class="CUSTOMER_SERVICE">
+                                         CUSTOMER INFO
+                                     </td>
+                                  </tr>
+                                  <tr>
+                                     <td class="main_About_us">
+                                        <a href="http://www.criminalhistorybook.com/terms,page,content_pages">Terms and Conditions</a>
+                                     </td>
+                                 </tr>
+                                 <tr>
+                                     <td class="About_us">
+                                        <a href="http://www.criminalhistorybook.com/privacy,page,content_pages">Privacy Policy</a>
+                                     </td>
+                                 </tr>
+                                 <tr>
+                                     <td class="About_us">
+                                        <a href="http://www.criminalhistorybook.com/contact_us,page,content_pages">Contact Us</a> 
+                                      </td>
+                                  </tr>
+                              </tbody></table>                         									
+                           </td>
+                           <td>
+                              <table width="200px" cellspacing="0" cellpadding="0" border="0" style="margin-left:25px;">
+                                 <tbody><tr>
+                                    <td class="CUSTOMER_SERVICE">
+                                        MY ACCOUNT
+                                    </td>
+                                 </tr>
+                                 <tr>
+                                    <td class="main_About_us">
+                                       <a href="http://www.criminalhistorybook.com/login.php">Login</a>
+                                     </td>
+                                  </tr>
+                                  <tr>
+                                     <td class="About_us">
+                                        <a href="http://www.criminalhistorybook.com/register.php">Register</a>
+                                      </td>
+                                   </tr>
+                                   <tr>
+                                       <td class="About_us">
+                                          <a href="login.php?redirect=wishlist">Wishlist</a> 
+                                        </td>
+                                   </tr>
+                               </tbody></table>                         									
+                            </td>
+                         </tr>
+                     </tbody></table>
+                 </td>
+                 <td valign="top">
+                     <table width="305px" cellspacing="0" cellpadding="0" border="0">
+                         <tbody>
+                       <tr>
+                          <td valign="top">
+                              <table width="240px" cellspacing="0" cellpadding="0" border="0" style="margin-left:25px;" class="follow_images">
+                                 <tbody><tr>
+                                    <td width="110px" valign="top">
+                                       <img border="0" src="http://www.criminalhistorybook.com/images/authorize.gif">
+                                    </td> 
+                                    <td valign="top">
+                                       <img border="0" src="http://www.criminalhistorybook.com/images/paypal_logo.gif" width="125px">
+                                    </td>                                    
+                                 </tr>
+                             </tbody></table>
+                         </td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <table width="250px" cellspacing="0" cellpadding="0" border="0" style="margin-left:25px;" class="rights_reserved">
+                              <tbody><tr>
+                                 <td>
+                                    Copyright © 2013 Criminal History Book Publishers™, LLC
+                                 </td>
+                              </tr>
+                          </tbody></table>
+                      </td>
+                  </tr>                
+              </tbody></table>
+             </td>
+          </tr>
+       </tbody></table>
+
+
+
+</td>
+   </tr>
+</tbody></table>
+</body></html>
