@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wohoo.co.uk privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225095055id_/http%3A//www.wohoo.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wohoo.co.uk privacy policy that was archived on 2014-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140224055443id_/http%3A//www.wohoo.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Celebrity News and Gossip
 
