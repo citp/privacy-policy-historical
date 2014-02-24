@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dataparadigm.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901130806id_/http%3A//www.dataparadigm.com/pdfs/DPI_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dataparadigm.com privacy policy that was archived on 2014-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140224223856id_/http%3A//www.dataparadigm.com/pdfs/DPI_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # Data Paradigm, Inc. Privacy Policy
 
