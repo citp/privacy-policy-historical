@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my-bookmark.net privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225223705id_/http%3A//www.my-bookmark.net/page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-bookmark.net privacy policy that was archived on 2014-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140224133353id_/http%3A//my-bookmark.net/page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Social bookmarking
 
