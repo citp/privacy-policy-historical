@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toonsmag.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226222400id_/http%3A//www.toonsmag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toonsmag.com privacy policy that was archived on 2014-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140225064904id_/http%3A//www.toonsmag.com/privacy) for the most accurate reproduction.*
 
 # tOOns MaG | Privacy Policy
 
@@ -55,4 +55,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 If, however, we are going to use visitors’ personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our web site for 30 days. 
 
-1,422 total views, 36 views today
+1,880 total views, 1 views today
