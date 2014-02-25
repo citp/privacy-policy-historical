@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the aroundyou.com.au privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620193314id_/http%3A//www.aroundyou.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aroundyou.com.au privacy policy that was archived on 2014-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140225051433id_/http%3A//www.aroundyou.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy
-
-* * *
 
 The AroundYou privacy policy governs the use of information that may be collected from you when you visit the AroundYou website. The AroundYou privacy policy forms part of our commitment to the Privacy Act 1988 (Cth).
 
