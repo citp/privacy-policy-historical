@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the squattypotty.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122183559id_/http%3A//www.squattypotty.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squattypotty.com privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226123454id_/http%3A//www.squattypotty.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
 **Privacy Policy**
 
-##  What information do we collect? 
+## What information do we collect? 
 
 We collect information from you when you register on our site or place an order. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the ‘do we use cookies?’ section below for information about cookies and how we use them. 
 
