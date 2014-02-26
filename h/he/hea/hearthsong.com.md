@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the hearthsong.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020161152id_/http%3A//www.hearthsong.com/security/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hearthsong.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227003109id_/http%3A//www.hearthsong.com/security/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last updated: January 12, 2010
+Last updated: February 26, 2014
+
+* * *
 
 HearthSong®, recognizes and respects the importance of maintaining the privacy of our customers, registered members ("Members") and users, and has established this Privacy Policy as a result. The purpose of this Privacy Policy is to inform you of: 
 
 The personal information we may collect from you when you visit our web site, respond to our emails, place orders via mail or fax, or otherwise contact us via telephone, email, fax or mail, why we gather information from you, how we collect it, how we use it, and the choices you have regarding our use of personal information you have provided.
 
-This Privacy Policy is part of the [Terms of Use](https://magiccabin.shopvisible.com/security/termsofuse.htm), which governs your use of our web site located at www.hearthsong.com. 
+This Privacy Policy is part of the [Terms of Use](https://web.archive.org/security/termsofuse.htm), which governs your use of our web site located at www.hearthsong.com. 
 
 **Note:** _You must_ be 18 years or older to use, subscribe or register as a member of HearthSong®. The Web Site is a general audience site and we do not knowingly collect, maintain or disclose personal information from or about children.
 
@@ -34,11 +36,9 @@ Depending on how you interact with us, we collect some or all of the following t
 
 • products purchased and occasion type (for example, Mother's Day),
 
-• any promotion code and related information (for example, if you are claiming frequent flyer miles),
-
 • Message and gift recipients' names, addresses, telephone numbers and email addresses, and
 
-• other information you provide to us, including User Submissions (defined in the [Terms of Use](https://magiccabin.shopvisible.com/backadmin/termsofuse.html)).
+• other information you provide to us, including User Submissions (defined in the [Terms of Use](https://web.archive.org/security/termsofuse.htm)).
 
 Information you provide to us may be collected by us even if an order, registration, or other process is started but not completed or otherwise cancelled. Members may also add to their Address Book the name, address and telephone number of friends or other persons to whom they may wish to send gifts or expressions. Only Members have the right to view and edit their Address Book entries. 
 
@@ -58,9 +58,9 @@ Our Affiliates, subcontractors, and agents, and any successors to our business (
 
 We may combine information we receive from you via our Web Site, emails, mail, fax, and telephone with information from our Affiliates and third parties. We use the combined information to enhance and personalize your shopping experience with us and to communicate with you in accordance with this Privacy Policy.
 
-We reserve the right to disclose information you provide to us as required by law, in response to legal process and law enforcement requests and as necessary or appropriate, in our view, to operate the Web Site, process orders or registrations, to conduct promotions, contests, and sweepstakes you participate in, and to protect the rights or property of the Company, its Affiliates, users, customers, recipients, Members, Sponsors, Providers, Licensors, Merchants and Associates (as these terms are defined in the [Terms of Use](https://magiccabin.shopvisible.com/backadmin/termsofuse.html)). 
+We reserve the right to disclose information you provide to us as required by law, in response to legal process and law enforcement requests and as necessary or appropriate, in our view, to operate the Web Site, process orders or registrations, to conduct promotions, contests, and sweepstakes you participate in, and to protect the rights or property of the Company, its Affiliates, users, customers, recipients, Members, Sponsors, Providers, Licensors, Merchants and Associates (as these terms are defined in the [Terms of Use](https://web.archive.org/security/termsofuse.htm)). 
 
-**_Please note that any personal information you reveal or post on one our public forums (as defined in the[Terms of Use](https://magiccabin.shopvisible.com/backadmin/termsofuse.html)), such as a message board, chat room, discussion group, folder, survey, contest, sweepstakes, user review and rate forum, and all User Submissions, are not protected by this Privacy Policy and may be collected, shared and used by us or with third parties, including to contact you. Information you give out or post on our public forums you disclose at your own risk._**
+**_Please note that any personal information you reveal or post on one our public forums (as defined in the[Terms of Use](https://web.archive.org/security/termsofuse.htm)), such as a message board, chat room, discussion group, folder, survey, contest, sweepstakes, user review and rate forum, and all User Submissions, are not protected by this Privacy Policy and may be collected, shared and used by us or with third parties, including to contact you. Information you give out or post on our public forums you disclose at your own risk._**
 
 **Consent to Transfer and Submission**  
 HearthSong® is operated in the United States. If you are located outside the United States, please be aware that any information you provide to us will be transferred to the United States. By using the Web Site or otherwise providing us with information, you hereby consent to this transfer.
