@@ -1,16 +1,22 @@
-> *The following text is extracted and transformed from the verisigninc.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112122717id_/http%3A//www.verisigninc.com/en_US/privacy/index.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verisigninc.com privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226124024id_/http%3A//www.verisigninc.com/en_US/privacy/index.xhtml) for the most accurate reproduction.*
 
-# Privacy Statement - Verisign Privacy Program - Verisign
+# Privacy - Verisign
+
+### PRIVACY STATEMENT CHANGES – MAY 2012
 
 Verisign made the following changes to its online Privacy Statement: Reorganized discussion of cookies for greater clarity in the reasons that Verisign uses them; modified language regarding collection and use of unidentified user visits to Verisign websites and use of cookies and other tracking technologies, such as in retargeted advertising; added more clarification regarding when and how we use cookies; provided better clarity regarding retention of personal information; indicated Verisign’s EU/Swiss Safe Harbor certification; changed the company’s address in two instances
 
-[](http://privacy.truste.com/privacy-seal/VeriSign,-Inc-/validation?rid=10a1df8e-adcb-4f81-93c9-bd97e5181562 "TRUSTe European Safe Harbor certification") Verisign is committed to providing you with excellent service for all of our products and services. Because we respect your right to privacy, we have developed this Privacy Statement to inform you about our privacy practices for the entire verisigninc.com site and about special privacy practices related to our Safe Harbor Participation. This Privacy Statement is not applicable to any of our other privacy practices, including—without limitation—data collected from other Verisign sites (unless these sites direct the user to this Privacy Statement), verisign.com (a website that is not controlled by VeriSign, Inc.) or offline.
+_Version 2.3 - Effective May 8, 2012_
+
+[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.verisigninc.com/seal_m)
+
+Verisign is committed to providing you with excellent service for all of our products and services. Because we respect your right to privacy, we have developed this Privacy Statement to inform you about our privacy practices for the entire verisigninc.com site and about special privacy practices related to our Safe Harbor Participation. This Privacy Statement is not applicable to any of our other privacy practices, including—without limitation—data collected from other Verisign sites (unless these sites direct the user to this Privacy Statement), verisign.com (a website that is not controlled by VeriSign, Inc.) or offline.
 
 Verisign has been awarded TRUSTe's Privacy Seal, signifying that this Privacy Statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html), including transparency, accountability, and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Statement or practices, please [contact us](mailto:valuesandcompliance@verisign.com). If you are not satisfied with our response you can also [contact TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint). In addition, if you have questions regarding this Privacy Statement, you can [email us](mailto:valuesandcompliance@verisign.com). Please specify "Privacy Statement" in the subject line of your email. You may also call us at 1-703-948-4490.
 
 Verisign adheres to the EU Safe Harbor Privacy Principles with respect to certain personal data that it receives about European Union residents in the course of providing certain services. Information about Verisign's participation in Safe Harbor can be found in the section below entitled "Safe Harbor Participation."
 
-[](http://privacy.truste.com/privacy-seal/VeriSign,-Inc-/validation?rid=10a1df8e-adcb-4f81-93c9-bd97e5181562 "TRUSTe European Safe Harbor certification")
+[](https://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.verisigninc.com/seal_m)
 
 Verisign has agreed to disclose its privacy practices and have them reviewed and audited for compliance by TRUSTe. Members of the TRUSTe Privacy Program agree to adhere to TRUSTe's established privacy principles of disclosure, choice, access, and security. Members of the TRUSTe Privacy Program also agree to comply with ongoing TRUSTe oversight and its alternative dispute resolution process. In keeping with TRUSTe's Privacy Program, this Privacy Statement will inform you of:
 
@@ -108,7 +114,7 @@ From time to time, we may request information from customers via surveys. Partic
 
 From time to time, we notify our subscribers of new products, announcements, upgrades, and updates. If you would like to opt out of being notified, please contact us at the address given at the end of this Privacy Statement.
 
-You can also [change your preferences online](https://web.archive.org/en_US/compref/index.xhtml). If you receive a marketing communication from our subsidiaries, business partners, or independent resellers, you should opt out with that entity directly. Please be aware that you may not opt out of receiving information regarding the security, initial use, expiration, product enhancement, or migration of our products or services.
+You can also [change your preferences online](https://web.archive.org/en_US/privacy/compref/index.xhtml). If you receive a marketing communication from our subsidiaries, business partners, or independent resellers, you should opt out with that entity directly. Please be aware that you may not opt out of receiving information regarding the security, initial use, expiration, product enhancement, or migration of our products or services.
 
 ### VIII. OUR SECURITY PROCEDURES
 
@@ -139,25 +145,25 @@ Reston, VA 20190
 
 This Section of the Privacy Statement describes how VeriSign, Inc., ("Verisign") handles personal data of representatives of certain customers from the European Union. Specifically, Verisign adheres to the US-EU and US-Swiss Safe Harbor Privacy Principles (collectively "EU Safe Harbor") with respect to certain personally identifiable information that it receives from customers in the European Union, , European Economic Area and Switzerland (collectively "EU Personal Data"). Verisign has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Verisign’s certification, please visit the [U.S. Department of Commerce’s Web site](http://www.export.gov/safeharbor).
 
-### A. COLLECTION AND USE OF EU PERSONAL DATA
+#### A. COLLECTION AND USE OF EU PERSONAL DATA
 
 From its customers, Verisign may collect name, title, address, phone, fax, pager number, and other contact information for purposes of contacting customers as necessary or appropriate to provide or support its services. Where permitted by law, Verisign may also use this information to communicate regarding Verisign products or services, and disclose such data to subsidiaries, business partners and independent resellers of Verisign services for the same purposes.
 
-With respect to any sharing of EU Personal Data for purposes of marketing Verisign products and services, Verisign will provide notice of choice where required and obtains promises from its subsidiaries, business partners, and resellers that such entities will use and disclose the EU Personal Data for purposes of marketing Verisign products and services only. Individuals may opt out of further disclosures of their EU Personal Data from Verisign to subsidiaries, business partners, and independent resellers, and further uses of their data by Verisign for marketing, by [contacting Verisign](https://web.archive.org/en_US/compref/index.xhtml). If you receive a marketing communication from one our subsidiaries, business partners, or independent resellers, you should opt out with that entity directly.
+With respect to any sharing of EU Personal Data for purposes of marketing Verisign products and services, Verisign will provide notice of choice where required and obtains promises from its subsidiaries, business partners, and resellers that such entities will use and disclose the EU Personal Data for purposes of marketing Verisign products and services only. Individuals may opt out of further disclosures of their EU Personal Data from Verisign to subsidiaries, business partners, and independent resellers, and further uses of their data by Verisign for marketing, by [contacting Verisign](https://web.archive.org/en_US/privacy/compref/index.xhtml). If you receive a marketing communication from one our subsidiaries, business partners, or independent resellers, you should opt out with that entity directly.
 
 To the extent that in providing its services, Verisign collects passwords, user names, and other data from customer networks (excluding the customer contact data discussed above), it does so for the exclusive purposes of monitoring the customers’ networks and systems, and otherwise performing the services to customers or complying with its legal obligations. At all times with respect to this data, Verisign acts as a mere “data processor” on behalf of its customers.
 
 For information related to use of cookies and tracking technologies, see IV. USE OF COOKIES, OTHER TRACKING TECHNOLOGIES AND GATHERING OF STATISTICAL DATA above. If you access our website from a computer while in the U.S., know that you may receive a cookie that is allowable under U.S. law. You can delete this cookie using your web browser’s privacy controls.
 
-### B. DATA INTEGRITY AND ACCESS
+#### B. DATA INTEGRITY AND ACCESS
 
 Verisign makes reasonable efforts to keep EU Personal Data reliable for its intended use, accurate, current, and complete. Verisign also provides customer contacts with the opportunity to access, review, and correct their own customer contact information, and otherwise provides customers access in accordance with the EU Safe Harbor. Individuals may contact Verisign as indicated below in order to review their EU Personal Data. However, customer contacts may first wish to contact their company’s representative (i.e., Verisign’s customer), as that might be the most efficient means of addressing their issues. Verisign will respond to the request within 30 days.
 
-### C. OTHER DISCLOSURES
+#### C. OTHER DISCLOSURES
 
 Verisign may also disclose EU Personal Data as necessary in connection with the sale or transfer of all or part of its business, provided that it will notify affected customers in accordance with the procedure for changing this Privacy Statement as noted above. In situations where Verisign discloses EU Personal Data to any third parties acting as “agents” on behalf of Verisign, Verisign will require the recipient to protect the data in accordance with the relevant principles in the EU Safe Harbor, or otherwise take steps to ensure that the EU Personal Data is appropriately protected. Verisign may also disclose EU Personal Data where required or permitted by law, where Verisign believes that such disclosures are appropriate in connection with a law enforcement request, as required in connection with its obligation as an operator of a top level domain registry to provide [WHOIS service](https://web.archive.org/en_US/products-and-services/domain-name-services/whois/index.xhtml) or otherwise permitted by the EU Safe Harbor, or in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or enforce or apply Verisign’s agreements.
 
-### D. QUESTIONS
+#### D. QUESTIONS
 
 If you have any questions about this EU Safe Harbor Privacy Statement, or if you would like to request access to EU Personal Data that Verisign may maintain about you, please contact us as follows:
 
