@@ -1,16 +1,17 @@
-> *The following text is extracted and transformed from the smartsparrow.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509211250id_/https%3A//www.smartsparrow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsparrow.com privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226093340id_/https%3A//www.smartsparrow.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Smart Sparrow - Adaptive eLearning Platform
+# Privacy - Smart Sparrow - Adaptive Learning Platform
 
 **Information we collect and how we use it**
 
   * We may ask for your name, email address, and other personal information. We do this so that we can communicate with you about our products and services. If you don’t want to be on our mailing list, you can opt out by clicking the unsubscribe link in one of the emails we send you.
-  * When you use any of the Smart Sparrow applications, we may send one or more browser cookies to your computer, and our servers also collect certain information including:We do this to help us understand how users are using our application and to assist us in making improvements. 
+  * When you use any of the Smart Sparrow applications, we may send one or more browser cookies to your computer, and our servers also collect certain information including: 
     * when you login and logout;
     * when you interact with the applications;
     * when certain errors occur;
     * your Internet Protocol address, browser type, and browser language; and
     * the date and time of your action or request.
+  * We do this to help us understand how users are using our application and to assist us in making improvements.
   * When you use the Smart Sparrow applications without an account, or without having logged in, then the above information is collected on an anonymous basis. However, certain features of the application are not available to anonymous users.
   * When you send email or other communications to us, we may retain those communications. We may use your email address to communicate with you about our products and services.
 
