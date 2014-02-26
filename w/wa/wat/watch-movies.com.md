@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watch-movies.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224063122id_/http%3A//www.watch-movies.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watch-movies.com privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226114441id_/http%3A//watch-movies.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
