@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the climatechangenews.com privacy policy that was archived on 2013-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130129101817id_/http%3A//www.rtcc.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climatechangenews.com privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226171137id_/http%3A//www.rtcc.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | RTCC - Responding to Climate Change
+# Privacy Policy | RTCC
 
 We, **Responding to Climate Change Limited (“RTCC”)** are committed to protecting and respecting your privacy.
 
@@ -10,7 +10,7 @@ For the purpose of the Data Protection Act 1998 (the Act), the data controller i
 
 ### INFORMATION COLLECTED FROM YOU
 
-**RTCC  **may collect and process the following data about you:
+**RTCC** may collect and process the following data about you:
 
   * Information that you provide by filling in forms required to access any part of or sites including but not limited to [www.rtcc.org](http://www.rtcc.org/), or any such other related sites as may from time to time be necessary. This includes information provided at the time of registering to use any of our sites, subscribing to our service, posting material or requesting further services. You may also be asked for information when you report a problem with our site or when you enter competitions or promotions.
   * If you contact **RTCC** , we may keep a record of that correspondence.
