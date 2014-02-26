@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelandescape.ca privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228071756id_/http%3A//www.travelandescape.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelandescape.ca privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226123805id_/http%3A//www.travelandescape.ca/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Travel and Escape
+# Privacy Policy - Travel and Escape
 
 Blue Ant Media Inc. respects the privacy of all of its users and customers and is committed to protecting such privacy in accordance with this Privacy Policy. This policy explains Blue Ant Media Production Inc.’s and its subsidiaries’ (collectively, “Blue Ant Media Inc.”) treatment of your personally identifiable information collected in connection with your activities on or related to all Blue Ant Media Inc. websites referencing this policy (the “Blue Ant Media Inc. Sites”) and any services made available on the Blue Ant Media Inc. Sites (collectively, unless noted otherwise, the “Blue Ant Media Inc. Services”). We urge you to read this policy carefully and to check back periodically as this policy may change from time to time. Please note that this policy does not apply to the practices of companies or websites which are not owned or controlled by Blue Ant Media Inc. Your access or use of any Blue Ant Media Inc. Site indicates your understanding of, and agreement to be bound by, this policy and the Blue Ant Media Inc. website Terms and Conditions.  
  
