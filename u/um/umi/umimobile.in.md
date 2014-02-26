@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umimobile.in privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212101611id_/http%3A//www.umimobile.in/Privacy-Policy-pid-11634.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umimobile.in privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226193655id_/http%3A//www.umimobile.in/Privacy-Policy-pid-11634.html) for the most accurate reproduction.*
 
 # Privacy Policy • Umi Mobiles India
 
