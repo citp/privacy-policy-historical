@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the handletheheat.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222160309id_/http%3A//www.handletheheat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handletheheat.com privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226163041id_/http%3A//www.handletheheat.com/privacy-policy) for the most accurate reproduction.*
 
-# Handle the Heat Privacy Policy »
+# Privacy Policy | Handle the Heat
 
 We respect your privacy here at Handle the Heat. This Privacy Policy tells you what personal information is gathered when you visit this site and how that information is used for your benefit. Use of the Handle the Heat website is authorization of the information gathered to be used as detailed in this policy. 
 
