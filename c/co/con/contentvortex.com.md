@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentvortex.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227205556id_/http%3A//www.contentvortex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentvortex.com privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226132826id_/http%3A//www.contentvortex.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
