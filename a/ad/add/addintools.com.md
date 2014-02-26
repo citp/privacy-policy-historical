@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addintools.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228035856id_/http%3A//www.addintools.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addintools.com privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226132601id_/http%3A//www.addintools.com/privacy.htm) for the most accurate reproduction.*
 
 # Addintools Privacy Policy
 
