@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the le.ac.uk privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118160147id_/http%3A//www.le.ac.uk/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the le.ac.uk privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226060723id_/http%3A//www.le.ac.uk/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy — University of Leicester
 
@@ -30,7 +30,7 @@ Our systems automatically record all requests for accessing web content, includi
 
 ## Cookies
 
-To identify which webpages are accessed, we use traffic log cookies and analytics services provided by Yahoo and Google. From this we can analyse data about web traffic and thereby constantly improve our website for users. This information is only used for statistical analysis. Cookies help the University to provide you the website visitor with a better service by enabling us to identify which pages are most useful to most people.
+To identify which webpages are accessed, we use traffic log cookies and analytics services provided by Crazy Egg and Google. From this we can analyse data about web traffic and thereby constantly improve our website for users. This information is only used for statistical analysis. Cookies help the University to provide you the website visitor with a better service by enabling us to identify which pages are most useful to most people.
 
 Cookies do not give us access to your computer and do not reveal any information other than whatever data you choose to share with us via webforms or other inputs. Web browsers are usually set to accept all cookies automatically, but you can modify your browser to decline or query cookies.
 
@@ -40,7 +40,8 @@ By using the University of Leicester website, you give your consent for us to pr
 
 Third party vendors, including Google, show our ads on sites on the internet.   
 Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website.   
-Users may opt out of Google's use of cookies by visiting the Google [advertising opt-out page](http://www.google.com/privacy/ads/).
+Users may opt out of Google's use of cookies by visiting the Google [advertising opt-out page](http://www.google.com/privacy/ads/).  
+Crazy Egg provides a [page with details for blocking cookies](http://www.crazyegg.com/opt-out)
 
 ## Monitoring and Disclosure
 
