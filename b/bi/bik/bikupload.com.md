@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikupload.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206013547id_/http%3A//www.bikupload.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikupload.com privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226131902id_/http%3A//www.bikupload.com/privacy.php) for the most accurate reproduction.*
 
 # Bikupload - FAQ
 
