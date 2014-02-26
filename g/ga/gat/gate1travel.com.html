@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gate1travel.com privacy policy that was archived on 2013-08-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130807200936id_/http%3A//www.gate1travel.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gate1travel.com privacy policy that was archived on 2014-02-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140226045427id_/http%3A//www.gate1travel.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox history opacity csstransforms video svg no-ipad no-iphone no-ipod no-ios no-ios6 no-ios7 no-ios8 no-ios9 no-windowsphone no-android no-android_4_2 no-macos no-mobile no-ie10 no-ie11 no-firefox safari videoautoplay"><head>
 <meta charset="utf-8">
@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="/style/static.css" type="text/css" media="all">
 <link rel="stylesheet" href="/style/header.css" type="text/css" media="all">
 <script type="text/javascript" src="http://www.gate1travel.com/scripts/gate1.js"></script>
-<script language="JavaScript" src="//www.gate1travel.com/json_new.js" type="text/javascript"></script>
+<script language="JavaScript" src="//www.gate1travel.com/json.js" type="text/javascript"></script>
 <script language="JavaScript" src="//www.gate1travel.com/ajaxscript.js" type="text/javascript"></script>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -31,11 +31,16 @@ pageTracker._addIgnoredOrganic("www.gate1travel.com");
 pageTracker._initData(); 
 pageTracker._trackPageview();
 </script>
+<script language="JavaScript" src="http://www.gate1travel.com/STW/utils.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://www.gate1travel.com/stw/subscription.js" type="text/javascript"></script>
 <script type="text/javascript" src="http://softadvertise.com/softadvertise.js"></script>
 <script type="text/javascript">SoftSet('GATE1');</script>
+<script>(window.jQuery || window.$) || document.write('<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"')</script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" <script=""></script>
+
 </head>
 <body>
 <script language="JavaScript" src="/scripts/modernizr.js" type="text/javascript"></script>
+<script language="JavaScript" src="//www.gate1travel.com/stw/subscription.js" type="text/javascript"></script>
 <header>
   <div class="logo"><a href="http://www.gate1travel.com/"><img src="/images/global/gate1logo.png" alt="Gate 1 Travel - More of the World for Less" width="129" height="45" border="0"></a></div>
   <div class="toolbar">
@@ -58,6 +63,7 @@ pageTracker._trackPageview();
             <a href="http://www.facebook.com/Gate1Travel" target="_blank">Facebook</a><br>
             <a href="http://twitter.com/#!/Gate1Travel" target="_blank">Twitter</a><br>
             <a href="http://www.youtube.com/Gate1Travel/" target="_blank">YouTube</a><br>
+            <a href="http://www.pinterest.com/gate1travel/" target="_blank">Pinterest</a><br>
             <a href="/pr/">Press Room</a><br>
             <a href="/Forums/">Forums</a></div>
         </li>
@@ -75,8 +81,25 @@ pageTracker._trackPageview();
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td><input name="topnavemail" onfocus="this.value=''" type="text" id="topnavemail" value="Enter Email Address"></td>
-        <td><a href="javascript: signUp(1)" class="signup-button">Sign Up!</a></td>
+        <td><input name="TopNavSignup" onfocus="this.value=''" type="text" id="TopNavSignup" value="Enter Email Address"></td>
+        <td><input type="button" name="btnSubList" id="TopNavSignupButton" class="signup-button" value="Sign Up!" onclick=" 
+                        var request = 
+                            {
+                                &quot;subscriptionaction&quot;: &quot;S&quot;,
+                                &quot;type&quot;:               &quot;L&quot;,
+                                &quot;id&quot;:                 &quot;THEDEAL-HTML/THEDEAL-NEWSLETTER&quot;,
+                                &quot;process&quot;:            &quot;Email Signup (Top Nav)&quot;,
+                                &quot;event&quot;:              &quot;Subscription Update&quot;,
+                                &quot;origin&quot;:             &quot;&quot;,
+                                &quot;redirecturl&quot;:        &quot;NONE&quot;,
+                                &quot;requiredfields&quot;:     &quot;TopNavSignup&quot;,
+                                &quot;email&quot;:               document.getElementById(&quot;TopNavSignup&quot;).value
+                            } 
+                            var response = subunsub(request,true); 
+                            if (response.iserror) {
+                                    alert(response.errormessage);                                     
+                                }
+                        "></td>
       </tr>
     </tbody></table>
   </div>
@@ -110,7 +133,7 @@ pageTracker._trackPageview();
             </tbody></table>
           </div>
         </li>
-        <li><a href="/asia.aspx" target="_blank">Asia &amp; Pacific</a>
+        <li><a href="/asia.aspx">Asia &amp; Pacific</a>
           <div class="dropdown">
             <table border="0" cellspacing="0" cellpadding="0">
               <tbody><tr>
@@ -132,7 +155,7 @@ pageTracker._trackPageview();
             <ul class="menulist">
               <li><a href="http://www.gate1travel.com/united-states-west-travel/default.aspx">California &amp; Western States</a></li>
               <li><a href="http://www.gate1travel.com/united-states-east-travel/default.aspx">Eastern &amp; Southern States</a></li>
-              <li><a href="http://www.gate1travel.com/hawaii-alaska-travel/default.aspx">Hawaii &amp; Alaska</a></li>
+              <li><a href="http://www.gate1travel.com/hawaii-alaska-travel/default.aspx">Alaska</a></li>
               <li><a href="http://www.gate1travel.com/canada-travel/default.aspx">Canada</a></li>
             </ul>
           </div>
@@ -194,11 +217,9 @@ pageTracker._trackPageview();
                   <ul class="menulist">
                     <li><a href="/cruises/default.aspx#01-MED-WEST-1">Western Mediterranean</a></li>
                     <li><a href="/cruises/default.aspx#02-MED-EAST-1">Eastern Mediterranean</a></li>
-                    <li><a href="/cruises/default.aspx#03-GRK-1">Greek Isles &amp; Adriatic</a></li>
                     <li><a href="/cruises/default.aspx#04-EUR-1">Northern Europe</a></li>
                     <li><a href="/cruises/default.aspx#06-ATL-CRB-1">Atlantic &amp; Caribbean</a></li>
-                    <li><a href="/cruises/default.aspx#07-PAC-1">Pacific</a></li>
-                    <li><a href="/cruises/default.aspx#08-ASIA-1">South Pacific</a></li>
+                    <li><a href="/cruises/default.aspx#07-PAC-1">Alaska</a></li>
                   </ul></td>
                 <td valign="top"><h3>Cruise Lines</h3>
                   <ul class="menulist">
@@ -218,6 +239,7 @@ pageTracker._trackPageview();
               <li><a href="/european-river-cruise/default.aspx#04-HOLLAND-CRU-1">Holland &amp; Belgium</a></li>
               <li><a href="/european-river-cruise/default.aspx#05-RHONE-CRU-1">Rhone &amp; Saone</a></li>
               <li><a href="/european-river-cruise/default.aspx#06-RUSSIA-CRU-1">Russia</a></li>
+              <li><a href="/china-japan-travel/default.aspx#01-CN-ESC-1">China (Yangtze)</a></li>
               <li><a href="/european-river-cruise/default.aspx#02-TG-CRU-1">Thanksgiving</a></li>
             </ul>
           </div>
@@ -225,9 +247,9 @@ pageTracker._trackPageview();
         <li><a href="/holidays.aspx">Holidays</a>
           <div class="med_dropdown">
             <ul class="menulist">
-              <li><a href="http://www.gate1travel.com/labor-day-travel/default.aspx">Labor Day</a></li>
-              <li><a href="http://www.gate1travel.com/thanksgiving-travel/default.aspx">Thanksgiving</a></li>
-              <li><a href="http://www.gate1travel.com/christmas-travel/default.aspx">Christmas &amp; New Year</a></li>
+              <li><a href="http://www.gate1travel.com/easter-travel/default.aspx">Easter</a></li>
+              <li><a href="http://www.gate1travel.com/memorial-day-travel/default.aspx">Memorial Day</a></li>
+              <li><a href="http://www.gate1travel.com/independence-day-travel/default.aspx">Independence Day</a></li>
             </ul>
           </div>
         </li>
@@ -238,34 +260,40 @@ pageTracker._trackPageview();
               <tbody><tr>
                 <td valign="top"><h3>Americas</h3>
                   <p><b>Peruvian Legends</b><br>
-                    <a href="http://www.discovery-tours.com/small-groups-peru-13dpelgd13.aspx">2013</a> | <a href="http://www.discovery-tours.com/small-groups-peru-14dpelgd14.aspx">2014</a></p>
+                    <a href="http://www.discovery-tours.com/small-groups-peru-14dpelgd14.aspx">2014</a></p>
+                  <p><b>Patagonia</b><br>
+                    <a href="http://www.discovery-tours.com/small-groups-southamerica-14dsam4dc14.aspx">2014</a></p>
                   <p><b>Cuba, Face to Face</b><br>
                     <a href="http://www.discovery-tours.com/small-groups-cuba-9dcuff13.aspx">2013</a></p>
-                  <p><b>Colombian Plantations, Arts &amp; Culture</b><br>
-                    <a href="http://www.discovery-tours.com/small-groups-colombia-7dcopac13.aspx">2013 (6 nights)</a> | <a href="http://www.discovery-tours.com/small-groups-colombia-9dcopac13.aspx">2013 (8 nights)</a></p>
                   <h3><br>Africa</h3>
-                  <p><b>Botswana &amp; Zimbabwe</b><br>
-                    <a href="http://www.discovery-tours.com/small-groups-africa-14dbwzw13.aspx">2013</a></p>
-                  <p><b>Kenya &amp; Tanzania</b><br>
-                    <a href="http://www.discovery-tours.com/small-groups-africa-14dketzsaf13.aspx">2013</a></p></td>
-                <td valign="top"><h3>Asia</h3>
+                  <p><b>Morocco</b><br>
+                    <a href="http://www.discovery-tours.com/small-groups-morocco-15dmaall14.aspx">2014</a></p>
+                  <p><b>Zimbabwe, Botswana &amp; South Africa</b><br>
+                    <a href="http://www.discovery-tours.com/small-groups-africa-13dafrad14.aspx">2014</a></p>
+                  <p><b>Tanzania</b><br>
+                    <a href="http://www.discovery-tours.com/small-groups-africa-11dtzsaf14.aspx">2014</a></p>
+                </td><td valign="top"><h3>Asia</h3>
                   <p><b>Amazing China</b><br>
-                    <a href="http://www.discovery-tours.com/small-groups-china-15damzcn13.aspx">2013</a> | <a href="http://www.discovery-tours.com/small-groups-china-17damzcn14.aspx">2014</a></p>
+                    <a href="http://www.discovery-tours.com/small-groups-china-17damzcn14.aspx">2014</a></p>
                   <p><b>Gems of Southeast Asia</b><br>
-                    <a href="http://www.discovery-tours.com/small-groups-southasia-15dgsas13.aspx">2013</a></p>
+                  <a href="http://www.discovery-tours.com/small-groups-southasia-16dgsas14.aspx">2014</a></p>
                   <p><b>Mythical Nepal</b><br>
-                    <a href="http://www.discovery-tours.com/small-groups-nepal-14dmythnp13.aspx">2013</a></p>
+                    <a href="http://www.discovery-tours.com/small-groups-nepal-14dmyhtnp14.aspx">2014</a></p>
+                  <p><b>Incredible India &amp; Nepal</b><br>
+                    <a href="http://www.discovery-tours.com/small-groups-india-nepal-20dincinnp14.aspx">2014</a></p>
                   <p><b>Mongolia &amp; Beijing</b><br>
-                    <a href="http://www.discovery-tours.com/small-groups-mongolia-14dpsgdb13.aspx">2013</a> | <a href="http://www.discovery-tours.com/small-groups-mongolia-14dpsgdb14.aspx">2014</a></p>
+                    <a href="http://www.discovery-tours.com/small-groups-mongolia-14dpsgdb14.aspx">2014</a></p>
                   <p><b>Indonesia &amp; Singapore</b><br>
-                    <a href="http://www.discovery-tours.com/small-groups-indonesia-16diacs13.aspx">2013</a> | <a href="http://www.discovery-tours.com/small-groups-indonesia-16diacs14.aspx">2014</a></p>
+                    <a href="http://www.discovery-tours.com/small-groups-indonesia-16diacs13.aspx">2013</a> | <a href="http://www.discovery-tours.com/small-groups-indonesia-16didsg14.aspx">2014</a></p>
                   <p><b>Myanmar/Burma</b><br>
-                    <a href="http://www.discovery-tours.com/small-groups-myanmar-14dnsbb13.aspx">2013</a></p></td>
+                    <a href="http://www.discovery-tours.com/small-groups-myanmar-14dnsbb13.aspx">2014</a></p>
+                  <p><b>Thailand &amp; Myanmar</b><br>
+                    <a href="http://www.discovery-tours.com/small-groups-southasia-16dthmmciv14.aspx">2014</a></p></td>
                 <td valign="top"><h3>Europe &amp; Mediterranean</h3>
                   <p><b>Italy La Dolce Vita</b><br>
-                    <a href="http://www.discovery-tours.com/small-groups-italy-14ditsna13.aspx">2013</a> | <a href="http://www.discovery-tours.com/small-groups-italy-11ditldv14.aspx">2014</a></p>
+                    <a href="http://www.discovery-tours.com/small-groups-italy-11ditldv14.aspx">2014</a></p>
                   <p><b>Irish Culture</b><br>
-                    <a href="http://www.discovery-tours.com/small-groups-ireland-11dlgdie13.aspx">2013</a> | <a href="http://www.discovery-tours.com/small-groups-ireland-11dlgdie14.aspx">2014</a></p>
+                    <a href="http://www.discovery-tours.com/small-groups-ireland-11dlgdie14.aspx">2014</a></p>
                   <p><b>France</b><br>
                   <a href="http://www.discovery-tours.com/small-groups-france-12dillfr14.aspx">2014</a></p>
                   <p><b>Spain &amp; Portugal</b><br>
@@ -273,11 +301,11 @@ pageTracker._trackPageview();
                   <p><b>Baltics</b><br>
                   <a href="http://www.discovery-tours.com/small-groups-baltics-14dbaltic14.aspx">2014</a></p>
                   <p><b>Croatia &amp; Slovenia</b><br>
-                    <a href="http://www.discovery-tours.com/small-groups-croatia-14ddalmhrsi13.aspx">2013</a></p>
+                    <a href="http://www.discovery-tours.com/small-groups-croatia-14ddalmhrsi14.aspx">2014</a></p>
                   <p><b>Turkey</b><br>
-                  <a href="http://www.discovery-tours.com/small-groups-turkey-15dtrody13.aspx">2013</a> | <a href="http://www.discovery-tours.com/small-groups-turkey-13dtrody14.aspx">2014</a></p>
-                  <p><b>Moroccan Allure</b><br>
-                    <a href="http://www.discovery-tours.com/small-groups-morocco-14dmaall13.aspx">2013</a> | <a href="http://www.discovery-tours.com/small-groups-morocco-15dmaall14.aspx">2014</a></p></td>
+                  <a href="http://www.discovery-tours.com/small-groups-turkey-13dtrody14.aspx">2014</a></p>
+                  <p><b>Israel</b><br>
+                  <a href="http://www.discovery-tours.com/small-groups-israel-12dilamc14.aspx">2014</a></p></td>
               </tr>
             </tbody></table>
           </div>
@@ -298,7 +326,7 @@ pageTracker._trackPageview();
       <p><b>Non-Personally Identifiable Information</b><br>
       We collect Non-Personally Identifiable Information when you visit our website. This is any information that cannot be used to identify a particular person. Examples of this include IP address, pages viewed, computer operating system, browser type, browsing &amp; usage habits, domain name, date of visit, and referring URL. We use this information for the purpose of diagnosing problems with our server and administering the operation of our website.</p>
       <p><b>Personally Identifiable Information</b><br>
-      You can browse our website without revealing any personal identifiable information about yourself. This is any information that we can use to identify a particular person. It includes, but is not limited to: name, home &amp; billing address, telephone number, email address, credit card information, birth date, gender, passport information, and frequent flyer information. We only collect this information when you make a reservation or choose to provide it to us. When you submit your personal information to us, you are giving us your consent to the collection, use and disclosure as stated in this privacy policy. If you are making a reservation for a travel companion or another person, it is important that you obtain his or her consent before providing us with their personal information.</p>
+      You can browse our website without revealing any personal identifiable information about yourself. This is any information that we can use to identify a particular person. It includes, but is not limited to: name, home &amp; billing address, telephone number, email address, credit card information, birth date, gender, passport information, and frequent flyer information. We only collect this information when you make a reservation or choose to provide it to us. When you submit your personal information to us, you are giving us your consent to the collection, use and disclosure as stated in this privacy policy. If you are making a reservation for a travel companion or another person, it is important that you obtain his or her consent before providing us with their personal information. We do not honor Do Not Track requests.</p>
       <p><b>Information from Other Sources</b><br>
         We may also obtain both non-personal and personal information about you from business partners, entities affiliated to us, travel shows, travel-related agencies, and other independent third-party sources. Examples of information, but not limited to include: updated delivery and address information, purchase history, and demographic information.</p>
       <p><b>Security Code</b><br>
@@ -343,8 +371,17 @@ pageTracker._trackPageview();
   <div class="dot">* Prices include airfare, fuel surcharges, airport taxes and fees. All prices are per person based on twin occupancy. Air &amp; land tour prices apply from the gateway airport or city specified in the Package Highlights. Prices will vary from alternative gateway airports or cities and may be higher. The total price will be clearly displayed prior to any deposit being required. Additional <a href="/baggagefees.aspx">baggage charges</a> may apply.</div>
   <p align="center"><b><a href="http://www.gate1travel.com">Home</a> • <a href="/brochurerequest/">Free Brochure</a> • <a href="/about.aspx">About Us</a> • <a href="/contact.aspx">Contact Us</a> • <a href="/agent/">Travel Agent</a> • <a href="/terms.aspx">Terms &amp; Conditions</a> • <a href="/faq.aspx">Frequently Asked Questions</a> • <a href="/Form/CreditCardForm.pdf" target="_blank">Credit Card Form</a> • <a href="/sitemap.aspx">Site Map</a> • <a href="/privacy.aspx">Privacy Policy</a></b></p>
   <p align="center"><b><img src="/images/env2.gif" width="16" height="11">&nbsp;<a href="javascript:mailpage()">Email this page to a friend</a></b></p>
-  <p align="center"><b>© 2013 Gate 1 Travel - (800) 682-3333</b></p>
-  <p align="center"><a href="http://www.facebook.com/pages/Gate-1-Travel/12449804482" target="_blank"><img src="/images/button-facebook.gif" alt="Be our fan on Facebook!" width="150" height="25" border="0"></a> <a href="http://www.twitter.com/Gate1Travel" target="_blank"><img src="/images/button-twitter.gif" alt="Follow us on Twitter" width="150" height="25" border="0"></a> <a href="http://www.gate1travel.com/thedeal/thedeal.xml" target="_blank"><img src="/images/button-rss.gif" alt="Subscribe to RSS Feeds" width="150" height="25" border="0"></a></p>
+  <p align="center"><b>© 2014 Gate 1 Travel - (800) 682-3333</b></p>
+  <table border="0" align="center" cellpadding="2" cellspacing="0">
+    <tbody><tr>
+      <td><a href="http://www.facebook.com/Gate1Travel" target="_blank"><img src="/images/share/icon-facebook.png" alt="Facebook" width="36" height="36" border="0"></a></td>
+      <td><a href="http://twitter.com/#!/Gate1Travel" target="_blank"><img src="/images/share/icon-twitter.png" alt="Twitter" width="36" height="36" border="0"></a></td>
+      <td><a href="http://www.youtube.com/Gate1Travel/" target="_blank"><img src="/images/share/icon-youtube.png" alt="YouTube" width="36" height="36" border="0"></a></td>
+      <td><a href="http://www.pinterest.com/gate1travel/" target="_blank"><img src="/images/share/icon-pinterest.png" alt="Pin us!" width="36" height="36" border="0"></a></td>
+      <td><a href="http://instagram.com/gate1travel/" target="_blank"><img src="/images/share/icon-instagram.png" alt="Instagram" width="36" height="36" border="0"></a></td>
+      <td><a href="http://www.gate1travel.com/thedeal/thedeal.xml" target="_blank"><img src="/images/share/icon-rss.png" alt="RSS Feed" width="36" height="36" border="0"></a></td>
+    </tr>
+  </tbody></table>
 </div>
 <script type="text/javascript">
 function PropagateSessID(){try{if(QueryString('SessID')!='')
