@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buscaid.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206014707id_/http%3A//www.buscaid.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buscaid.com privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226194545id_/http%3A//www.buscaid.com/pages/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy
 
