@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 365dayclub.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827233951id_/http%3A//www.365dayclub.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 365dayclub.com privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226134323id_/http%3A//www.365dayclub.com/pages/privacy.php) for the most accurate reproduction.*
 
 # 365DayClub.com
 
