@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veggietales.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118193232id_/http%3A//www.veggietales.com/vtmain/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veggietales.com privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226141620id_/http%3A//www.veggietales.com/vtmain/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | VeggieTales.com | Official Home of VeggieTales
 
