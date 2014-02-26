@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the gwcu.org privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806012633id_/https%3A//www.gwcu.org/compliance/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gwcu.org privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226073220id_/https%3A//www.gwcu.org/compliance/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Terms, Conditions, and Disclosures - Goldenwest Credit Union
 
-Rev. 11/2012  
+Rev. 09/2013  
   
 Who We Are |    
-Who is providing this notice? | Goldenwest Credit Union means Goldenwest Federal Credit Union.  
+Who is providing this notice? | Goldenwest Federal Credit Union and USU Credit Union a division of Goldenwest.  
 What We Do |    
-How does Goldenwest Credit Union protect my personal information? | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.
+How does Goldenwest Credit Union and USU Credit Union a division of Goldenwest protect my personal information? | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.
 
 We also maintain other physical, electronic and procedural safeguards to protect this information and we limit access to information to those employees for whom access is appropriate.  
   
-How does Goldenwest Credit Union collect my personal information? | We collect your personal information, for example, when you  | • Open an account | • Make a wire transfer  
+How does Goldenwest Credit Union and USU Credit Union a division of Goldenwest collect my personal information? | We collect your personal information, for example, when you  | • Open an account | • Make a wire transfer  
 ---|---  
 • Use your credit or debit card | • Show your government-issued ID  
 • Give us your contact information |   
@@ -27,11 +27,11 @@ See below for more on your rights under state law.
   
 Definitions |    
 Affiliates | Companies related by common ownership or control. They can be financial and non-financial companies.  
-• Goldenwest Credit Union has no affiliates.  
+• Goldenwest Credit Union and USU Credit Union a division of Goldenwest has no affiliates.  
 Nonaffiliates | Companies not related by common ownership or control. They can be financial and non-financial companies.  
-• Goldenwest Credit Union does not share with nonaffiliates so they can market to you.  
+• Goldenwest Credit Union and USU Credit Union a division of Goldenwest does not share with nonaffiliates so they can market to you.  
 Joint Marketing | A formal agreement between nonaffiliated financial companies that together market financial products or services to you.  
-• Goldenwest Credit Union doesn't jointly market.  
+• Our joint marketing partners include insurance companies.  
 Other Important Information  
 For Alaska, Illinois, Maryland and North Dakota Members. We will not share personal information with nonaffiliates either for them to market to you or for joint marketing - without your authorization.
 
