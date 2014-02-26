@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porndweller.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105083928id_/http%3A//www.porndweller.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porndweller.com privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226124017id_/http%3A//porndweller.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
