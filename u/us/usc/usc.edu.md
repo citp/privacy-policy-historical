@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usc.edu privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126023529id_/http%3A//policies.usc.edu/p2admOpBus/privacy_personal_information.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usc.edu privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226023737id_/http%3A//policies.usc.edu/p2admOpBus/privacy_personal_information.html) for the most accurate reproduction.*
 
 # USC Policy: Privacy of Personal Information
 
@@ -81,14 +81,7 @@ University of Southern California
 
 ### Quick links
 
-  * [Index to university policy](https://web.archive.org/web/20131126023529id_/http%3A//policies.usc.edu/i-alphaindex.html)—an alphabetical list of every policy
-  * [What's new](https://web.archive.org/web/20131126023529id_/http%3A//policies.usc.edu/i-newpoli.html)—the most recent changes to university policy
-  * [Policy procedures](https://web.archive.org/web/20131126023529id_/http%3A//policies.usc.edu/i-policy_procedures.html)—help for those wishing to issue or revise a university policy
-  * [Academic calendar](http://academics.usc.edu/calendar/)
-  * [Holiday schedule](https://web.archive.org/web/20131126023529id_/http%3A//policies.usc.edu/i-holidays_schedule.html)
-
-
-  * [Policy archive](https://web.archive.org/web/20131126023529id_/http%3A//policies.usc.edu/i-archive.html)—historical reference to policy updates
+  * [Policy archive](https://web.archive.org/web/20140226023737id_/http%3A//policies.usc.edu/i-archive.html)—historical reference to policy updates
 
 
 
@@ -100,6 +93,6 @@ University of Southern California
   * [Compliance Help & Hotline](http://ooc.usc.edu/help-hotline)
   * [Human Resources](http://www.usc.edu/dept/hr/)
   * [Jobs](http://usccareers.usc.edu/)
-  * [USCeTV](http://www.usc.edu/dept/hr/uscetv/)—online employee TV network
+  * [USCeTV](http://employees.usc.edu/working-at-usc-on-video/)—online employee TV network
 
 
