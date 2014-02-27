@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kdramaqueen.blogspot.com privacy policy that was archived on 2012-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120306165848id_/http%3A//kdramaqueen.blogspot.com/2007/03/kdrama-queens-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kdramaqueen.blogspot.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227212419id_/http%3A//kdramaqueen.blogspot.com/2007/03/kdrama-queens-privacy-policy.html) for the most accurate reproduction.*
 
 # KDrama Queen: Kdrama Queen's Privacy Policy
 
