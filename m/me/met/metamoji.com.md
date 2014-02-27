@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metamoji.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523042035id_/http%3A//metamoji.com/en/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metamoji.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227113417id_/http%3A//metamoji.com/en/privacy-statement.html) for the most accurate reproduction.*
 
-# MetaMoJi.com – English
+# MetaMoJi.com
 
 ## [Privacy statement](http://metamoji.com/en/privacy-statement.html)
 
