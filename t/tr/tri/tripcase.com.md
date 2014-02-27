@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the tripcase.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207085731id_/http%3A//travel.tripcase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripcase.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227115858id_/http%3A//travel.tripcase.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-[](http://www.tripcase.com/signup?utm_source=mktgHomepage&utm_medium=browser&utm_content=PREVIOUS_PAGE:http://travel.tripcase.com/terms::CURRENT_PAGE:travel.tripcase.com/privacy&utm_campaign=signup) [Sign in](http://www.tripcase.com/login)
+[](http://www.tripcase.com/signup?utm_source=mktgHomepage&utm_medium=browser&utm_content=PREVIOUS_PAGE:::CURRENT_PAGE:travel.tripcase.com/privacy&utm_campaign=signup) [Sign in](http://www.tripcase.com/login)
 
   * [Features](https://web.archive.org/features)
   * [Buzzworthy](https://web.archive.org/buzz)
   * [Download](https://web.archive.org/download)
   * [Blog](https://web.archive.org/blog)
-  * [Ideas](https://tripcase.zendesk.com/forums/21830788-Features)
   * [Support](https://web.archive.org/support)
   * [Contact Us](https://web.archive.org/contact)
 
