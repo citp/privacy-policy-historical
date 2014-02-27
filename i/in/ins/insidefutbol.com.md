@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidefutbol.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019230209id_/http%3A//www.insidefutbol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidefutbol.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227145635id_/http%3A//www.insidefutbol.com/privacy-policy) for the most accurate reproduction.*
 
 # Football - Privacy Policy | Inside Futbol - Online World Football Magazine
 
@@ -45,7 +45,7 @@ Google, as a third party vendor, uses cookies to serve ads on the Website. Googl
 
 We allow third-party companies to serve ads, including ads based on online behavioural advertising (OAB) and behavioural retargeting practices, and/or to collect certain anonymous information when you visit our Website. These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide targeted advertisements about goods and services likely to be of greater interest to you, based on your browsing patterns and Website interactions. These companies typically use a cookie or third party web beacon to collect this information.
 
-To learn more about this online behavioral advertising practice or to opt-out of this type of advertising, you can visit [youronlinechoices.com](http://youronlinechoices.com/), [networkadvertising.org](http://www.networkadvertising.org/) or [http://www.networkadvertising.org/managing/opt_out.asp.](http://www.networkadvertising.org/choices/)
+To learn more about this online behavioral advertising practice or to opt-out of this type of advertising, you can visit [youronlinechoices.com](http://youronlinechoices.com/), [networkadvertising.org](http://www.networkadvertising.org/) or [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/choices/).
 
 When you opt out of receiving online behavioural advertising, it does not mean that you do not receive advertising when visiting the Website; instead, the advertising you see will no longer be customised.
 
