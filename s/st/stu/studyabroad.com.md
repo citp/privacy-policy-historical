@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studyabroad.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010003848id_/http%3A//www.studyabroad.com/pages/sitecontent/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyabroad.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227120011id_/http%3A//www.studyabroad.com/pages/sitecontent/privacy.aspx) for the most accurate reproduction.*
 
 # privacy - SA - Find a Study Abroad Program with StudyAbroad.com
 
@@ -88,6 +88,10 @@ Spam. We do not tolerate spam. You are not licensed to add us or any user to you
 Whenever EducationDynamics handles your personal information, we take steps to ensure that your information is treated securely and in accordance with the relevant User Agreement and this Policy. Your information is stored on our servers located in the United States. We use procedural and mechanical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy, including encryption. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. We cannot, therefore, warrant or ensure the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
 
 If you are a registered user of the Site, your registration/account information may be password protected so that only you have access to this personal information. We recommend that you do not disclose your password to anyone. EducationDynamics will never ask you for your password in an unsolicited phone call or unsolicited email. If you choose to share your user name and password or your personal information with third parties, you are responsible for all actions taken with your account and therefore you should review that third party's privacy policy. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password.
+
+**Google Analytics**
+
+We have implemented Demographics and Interests Reports in Google Analytics that help us understand the age, gender and interests of site visitors to StudyAbroad.com.  This information is used to help us continue to improve the site content and experience.  Visitors can download [Google's Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/) to prevent their data from being collected and used by Google Analytics.
 
 **Additional Information**
 
