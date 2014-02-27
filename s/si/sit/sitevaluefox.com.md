@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitevaluefox.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423070238id_/http%3A//www.sitevaluefox.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitevaluefox.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227091730id_/http%3A//www.sitevaluefox.com/privacy_policy.php) for the most accurate reproduction.*
 
 # SiteValueFox - FREE WebSite Value Link Generator - What is Your Website Worth?
 
@@ -59,12 +59,12 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [SiteValueFox.com](http://www.sitevaluestats.com/)  
+info @ sitevaluefox.com  
 [http://www.sitevaluefox.com](http://www.sitevaluestats.com/)  
-SiteValueFox.com, 79596 Rättvik, Sweden  
-+46-(0)723-080932   
-info @ sitevaluefox.com
+ExciteMediaNetwork, LCC   
+[http://www.excitemedianetwork.com](http://www.excitemedianetwork.com/)
 
-This document was last updated on February 12, 2012
+This document was last updated on January 4, 2014
 
   
 
