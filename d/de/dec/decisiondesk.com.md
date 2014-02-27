@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decisiondesk.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228071534id_/http%3A//www.decisiondesk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decisiondesk.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227022812id_/http%3A//www.decisiondesk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DecisionDesk
 
@@ -87,9 +87,3 @@ If you have any questions about this Privacy Policy, please contact us at [priva
 A business subject to California Civil Code section 1798.83 is required to disclose to its California customers, upon request, the identity of any third parties to whom the business has disclosed personal information within the previous calendar year, along with the type of personal information disclosed, for the third parties’ direct marketing purposes.
 
 If you are a California resident and would like to make such a request, please send an email to [privacy@decisiondesk.com](mailto:privacy@decisiondesk.com).
-
-Applicants 050,000
-
-Files Submitted 350,000
-
-Reviews Performed 150,000
