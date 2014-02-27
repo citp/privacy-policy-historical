@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lush.co.uk privacy policy that was archived on 2013-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130904033011id_/https%3A//www.lush.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lush.co.uk privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227160503id_/https%3A//www.lush.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
