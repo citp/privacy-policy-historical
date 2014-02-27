@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wahadventures.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818034503id_/http%3A//www.wahadventures.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wahadventures.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227094854id_/http%3A//www.wahadventures.com/disclosure) for the most accurate reproduction.*
 
-# Privacy - Work at Home Adventures
+# Privacy - WAHA
 
 **What information do we collect?** We collect information from you when you subscribe to our newsletter, respond to a survey or fill out a form.
 
