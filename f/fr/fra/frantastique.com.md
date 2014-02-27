@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frantastique.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513030330id_/http%3A//www.frantastique.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frantastique.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227094414id_/http%3A//www.frantastique.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Personalized online French lessons
 
