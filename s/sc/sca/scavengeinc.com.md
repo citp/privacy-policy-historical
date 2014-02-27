@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scavengeinc.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229063006id_/http%3A//www.scavengeinc.com/t-security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scavengeinc.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227224747id_/http%3A//www.scavengeinc.com/t-security.aspx) for the most accurate reproduction.*
 
 # Security Policy
 
