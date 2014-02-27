@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywoodtake.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224214146id_/http%3A//www.hollywoodtake.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodtake.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227065427id_/http%3A//www.hollywoodtake.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -118,11 +118,9 @@ This Site is committed to complying with the Self-Regulatory Principles for Onli
 
 Some Device manufacturers may preset their browsers to block Tracking Technologies from websites other than those you visit directly and, if so, certain services or advertisements may not work for such Devices. Further, if you delete, reject, disable or turn off Tracking Technologies, you may not have access to certain features of the Site and some of our other services may not function properly.
 
- **iii. Flash Cookies.** Please note that deleting, rejecting, disabling or turning off Tracking Technologies set by Third Party Advertising Service Providers and Advertisers and set by this Site through the above options will not remove Flash cookies. For more information about Flash cookies and how to remove them from your computer, please visit []()
+ **iii. Flash Cookies.** Please note that deleting, rejecting, disabling or turning off Tracking Technologies set by Third Party Advertising Service Providers and Advertisers and set by this Site through the above options will not remove Flash cookies. For more information about Flash cookies and how to remove them from your computer, please visit [http://kb2.adobe.com/cps/526/52697ee8.html](http://kb2.adobe.com/cps/526/52697ee8.html%3C/p%3E%3Ch2%3E5)
 
-## [5">http://kb2.adobe.com/cps/526/52697ee8.html]()
-
-## [5](). Wireless Marketing Services and Associated Promotional Opportunities. 
+## [5](http://kb2.adobe.com/cps/526/52697ee8.html%3C/p%3E%3Ch2%3E5). Wireless Marketing Services and Associated Promotional Opportunities. 
 
 International Design Times may provide users and viewers with the opportunity to register for special Promotions, services, news, programming and information delivered via text messaging and other wireless devices such as mobile phones and, in the event we do so, users are required to provide their consent to receive such information from International Design Times, either by registering on the Site or via their wireless device. Such services and promotional opportunities are provided by the Parent Companies and/or Affiliates for International Design Times. The Information requested as part of the online registration process may include a user's telephone number or a wireless email address, but only if specifically requested, and the carrier's name. Additional Information may be requested for specific Promotions, such as a user's preferences regarding goods or services, choices of music or artists, or other similar survey information. Depending on the Promotion, we may also collect an Internet email address or other Information and, depending on the Information collected, the user may also be required to confirm his or her agreement to this Privacy Policy and the Terms of Use Agreement.
 
