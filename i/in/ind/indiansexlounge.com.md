@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiansexlounge.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015000423id_/http%3A//www.loungesupport.com/docks/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiansexlounge.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227013451id_/http%3A//www.loungesupport.com/docks/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,8 +26,6 @@ We may transfer or disclose information collected from visitors to our Web site 
 We may also share, rent, sell, or transfer any personal information (including financial information) provided by our visitors to third parties. During the registration process, and at certain times during any member user session, we may present additional offers from third party service providers. Our third party service providers have their own terms and conditions and privacy policies. We suggest that visitors access these third party sites and review their terms and conditions and privacy policies before "subscribing" to any third party offer. If a visitor subscribes to a third party offer during our registration process, we will transfer the financial data they provided to us as part of the registration process to that third party company, which will then process the transaction using that financial data. We may also share non-personal information we collect from visitors to our site, such as their browsing behaviors, with third parties. For example, we may tell a third party advertiser that a certain number of people have visited a certain area on our Web site.
 
 **WHAT SECURITY MEASURES DO WE TAKE TO PROTECT YOUR DATA?**
-
-To help prevent unauthorized access, maintain data integrity, and ensure the appropriate use of information, we have put in place certain physical, electronic, and managerial procedures to safeguard and secure the information we collect from visitors to our Web site. We use SSL (Secure Socket Layer) technology to protect any credit card information you provide us. We allow access to personal information only to persons and entities engaging in activities provided for by this Privacy Policy. Visitors should consider any communication that they transmit to us (such as data, questions or answers, comments, suggestions, or communications submitted to a chat room) to be non-confidential. We will not be liable or responsible if information that belongs to a visitor is intercepted and used by an unintended recipient.
 
 **WE PROTECT CHILDREN'S PRIVACY**
 
