@@ -1,46 +1,41 @@
-> *The following text is extracted and transformed from the thatweb.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604110555id_/http%3A//www.thatweb.com/eng/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatweb.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227105757id_/http%3A//thatweb.com/privacy) for the most accurate reproduction.*
 
-# ThatWeb : FREE Email Retrieval Site
+# Privacy Policy - ThatWeb.com
 
-**ThatWeb.Com's Privacy Policy**  
-At ThatWeb.Com, your privacy is our priority. When you enter ThatWeb.Com, you can be sure your privacy is well protected.
+At ThatWeb, we are keenly aware of the trust you place in us and our responsibility to protect your privacy. As part of this responsibility, we are sharing with you what information we collect when you use our website analysis tool, why we collect it and how we use it to improve your experience. This statement describes the data practices that you consent to by using the ThatWeb web serviceBy using the ThatWeb web service, you consent to the data practices described in this statement.
 
-Any questions regarding ThatWeb.Com's privacy policy should be directed to the webmaster of ThatWeb.Com via email,  [webmaster@thatweb.com](https://web.archive.org/mail/contact.asp?ContactMail=webmaster@thatweb.com) or via snail mail to ThatWeb.Com Private Limited, 31 Ubi Road 1, Aztech Building, Singapore 408694.
+## Information Collection
 
-**ThatWeb.Com’s Privacy Policy**  
-ThatWeb.Com firmly believes in protecting the privacy of our users. 
+All data collected by the ThatWeb tool can be manually accessed by several other means publicly available online (Whois Lookup, Google PageRank, Google Cached Pages, etc.). That is why all reports generated on www.thatweb.com are considered 'public.' As such, they are stored in our database and can alsoevery single report generated on www.thatweb.com is considered 'public' and is thus stored in our database. Furthermore, it can be indexed by search engines.
 
-ThatWeb.Com does not capture or store the email contents or the password of our users. The email addresses logged by the system is for system management and statistical purposes. All access to data collected by ThatWeb.Com is limited. No user or third party will have access to it unless authorised in writing by the particular user. All our employees do not have access rights to the data collected. It is our company policy that employees of ThatWeb.Com do not disclose or share with third parties confidential information. Thatweb does however release restricted information to the relevant bank / credit card companies / clearing houses for transaction carried by the user through the site.
+ThatWeb collects and uses website information to operate its website analysis tool and deliver the services you have requested. This information can include: IP address, domain names, estimated visitors, in-site and off-site SEO analysis, usability, access times and referring website addresses. This information is used by ThatWeb for the operation of its service and to provide general statistics regarding use of the ThatWeb web service.
 
-In general, our service automatically gathers certain usage information like the numbers and frequency of visitors to ThatWeb, very much like television ratings that tell the network how many people tuned in to a program. We only use such data in the aggregate. This collective data helps us determine how often our customers use the site. 
+## Use of Personal Information
 
-To ensure total security, ThatWeb.Com reviews our web security daily.
+If you subscribe to our emails ThatWeb may use your personally identifiable email address to inform you of other products or services available from ThatWeb and its affiliates. ThatWeb may also contact you via surveys to conduct research about your opinion of current services or of potential new services.
 
-**Information ThatWeb.Com Gathers and Tracks**  
-ThatWeb.Com gathers user information from 3 sources - when users login to ThatWeb, when users participate in contests and promotions and user enquiries form like "Affiliate Program", "Feedback", "Support" and other general enquiries.
+ThatWeb does not sell, rent or lease its customer lists or your email address to third parties. ThatWeb may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. ThatWeb may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, ThatWeb may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. Such third parties are prohibited from using your personal information except to provide these services to ThatWeb, and they are required to maintain the confidentiality of your information.
 
-Information collected may include name, postal address, email address, country of residence and telephone number. ThatWeb.Com gathers this information to facilitate the sending of gifts/prizes and as in the case of 'Affiliate Program', to send the user requested information. Information gathered from Feedback and Support form will help us to understand and analyze problems user face and their request more effectively.
+ThatWeb will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on ThatWeb or the site; (b) protect and defend the rights or property of ThatWeb (including enforcing this agreement); and, (c) act under exigent circumstances to protect the personal safety of users of ThatWeb, or the public.
 
-We gather information about our users so as to have a better understanding of them. This will enable us to tailor our services to better serve our users.
+## Security of your Personal Information
 
-**Use of Information Gathered/Tracked**  
-All information submitted to ThatWeb.Com will be kept strictly confidential and will only be used to support our users’ customer relationship with ThatWeb.Com. The email addresses and passwords which users enter when they login to ThatWeb are solely used to locate his/her server.
+No method of safeguarding information is 100% secure. However, ThatWeb makes significant efforts to maximize the security of your information. ThatWeb secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure.
 
-ThatWeb.Com does not track or store the email content or user passwords. The email contents and user passwords are flushed from our system at the end of each session and/or upon each successful or unsuccessful connection.
+## Cookies
 
-ThatWeb.Com only records the email addresses for system management and statistical purposes. Information gathered on our users will not be given or sold to any outside organization for its use in marketing or solicitation. 
+As is the case with almost all advertising-supported websites, ThatWeb uses browser cookie technology. A browser cookie is a small piece of data stored by a web server on your computer, to be read when you reconnect to that web server. ThatWeb includes third-party services which set and read browser cookies. Each third-party company has its own privacy policy.
 
-**Sharing of Information**  
-ThatWeb.Com does not share information about our users with any third party. However, ThatWeb.Com does not control the practices of our advertisers. Should you have questions about how our advertisers use information about you when you click their ads, please contact them directly.
+## Google AdSense
 
-**Use of Cookies**  
-ThatWeb.Com uses cookies. The purpose of the cookies is to keep track of user ID for fast access and personalization.
+ThatWeb uses Google AdSense, a third-party advertising service operated by Google Inc., to serve ads when you visit ThatWeb. Google AdSense may use “[DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx)” technology to track information about your visits to ThatWeb and other websites in order to provide advertisements about goods and services that Google AdSense determines might be of interest to you. Google AdSense does not track your name, address, email address, or telephone number. If you would like more information about this practice, and to know your choices about not having this information used in this way, [click here](http://www.google.com/privacy_ads.html).
 
-**Correct/Update Policy**  
-Currently, ThatWeb.Com does not have a correct/update policy. 
+## Google Analytics
 
-**Delete/Deactivate Policy**  
-Currently, ThatWeb.Com does not offer users a means by which to completely delete personal information submitted.
+ThatWeb uses Google Analytics, a third-party website analysis service operated by Google Inc., to collect and report detailed statistics about visits to ThatWeb. When you visit ThatWeb, Google Analytics servers automatically record and collect Log Data sent by your browser, including your computer’s IP address and the referring HTTP location. Google Analytics’ reporting is private. Google Analytics may place or read cookies. If you would like more information about cookies for Google Analytics, [click here](http://www.google.com/privacy_ads.html) and scroll to “How does Google use cookies for Google Analytics?”
 
-**Privacy Policy Changes**  
-Should there be any change to ThatWeb.Com's privacy policy, we will post the change here so that users will always know what information we gather, how we might use the information and whether we will disclose it to anyone.
+## Changes to this Statement
+
+ThatWeb will occasionally update this Statement of Privacy to reflect company and customer feedback. ThatWeb encourages you to periodically review this Statement to be informed of how ThatWeb is protecting your information. When such a change is made, we will update the "Last Updated" date below. If material changes should ever be made to policies affecting the sharing of your private information, you will be notified if possible by any email address you have provided and given a chance to opt out before such changes take effect.
+
+Last Updated: 21.10.13
