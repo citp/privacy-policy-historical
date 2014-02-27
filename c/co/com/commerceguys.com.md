@@ -1,71 +1,92 @@
-> *The following text is extracted and transformed from the commerceguys.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828131333id_/http%3A//commerceguys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commerceguys.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227134926id_/http%3A//commerceguys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Commerce Guys
 
-**PRIVACY POLICY** for [www.commerceguys.com](https://web.archive.org/web/20130828131333id_/http%3A//commerceguys.com/www.commerceguys.com) and [marketplace.commerceguys.com](http://marketplace.commerceguys.com/)
+Commerce Guys operates various websites and offers many different services and products.  Through these sites, products, services and software, including software available for download from these sites, we obtain certain information from and about you.
 
-At Commerce Guys SaS we are committed to safeguarding and preserving the privacy of our visitors. This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our site.
+We value your privacy and we are committed to safeguarding and preserving the privacy of our visitors. This Privacy Policy explains what information we collect, how we use that information, and other policies regarding your information and privacy. We have tried to make it as simple as possible, but if you do not understand something, please [contact us](http://commerceguys.com/inquiry).
 
-We do update this Policy from time to time so please do review this Policy regularly.
+“Commerce Guys” means Commerce Guys SAS, a French company located at 38, rue du Sentier , Paris, 75002 France, and Commerce Guys, LLC, a Michigan limited liability company located at 950 Victors Way, Suite 10, Ann Arbor, Michigan 48108, and, and may include its affiliates, subsidiaries, directors, officers, employees, agents, partners, contractors, and/or licensors (together, referred to throughout this Privacy Policy as “Commerce Guys” or “us” or “we”).
 
-##  Website Hosting
+Our Privacy Policy applies to all of the services offered by Commerce Guys, including services offered on our other sites, but excludes services that have separate privacy policies that do not incorporate this Privacy Policy.
 
-The [www.commerceguys.com](http://www.commerceguys.com/) and marketplace.commerceguys.com websites are hosted by Acquia, whose primary business address is:
-    
-    
-    Acquia, Inc.
-    25 Corporate Drive, 4th Floor
-    Burlington, MA 01803
-    USA
+We update this Privacy Policy from time to time, so please review it regularly. Your continued use of our sites and services will be subject to the terms of the then-current Privacy Policy.
 
 ##  Information We Collect
 
-In running and maintaining our website we may collect and process the following data about you:
+We collect information that you give us or that we get from your use of our sites and services, including without limitation, the following:
 
-  1. Information about your use of our site including details of your visits such as pages viewed and the resources that you access. Such information includes traffic data, location data and other communication data.
-  2. Information provided voluntarily by you. For example, when you register for information or make a purchase.
-  3. Information that you provide when you communicate with us by any means.
+Information about your use of our sites and services, including details of your visits to our sites, pages viewed and the resources that you accessed. Examples of information include device, location and traffic data.
 
-
+Information specifically provided by you, including your name, telephone number, email address, physical address, login username, password, or other information that you voluntarily share with us.
 
 ##  Use of Cookies
 
-Cookies provide information regarding the computer used by a visitor. We may use cookies where appropriate to gather information about your computer in order to assist us in improving our website.
+We may use cookies to gather information about your general internet use. When used, cookies are downloaded and stored on your device. Such information, on its own, will not identify you personally. It is statistical data. Generally you can turn off the cookie function on your device, but that may prevent you from using our sites and services. Some third party services that we use, such as Google Analytics, may also place cookies on your device. This Privacy Policy does not cover the use of cookies by third parties.
 
-We may gather information about your general internet use by using the cookie. Where used, these cookies are downloaded to your computer and stored on the computer’s hard drive. Such information will not identify you personally. It is statistical data. This statistical data does not identify any personal details whatsoever. You can adjust the settings on your computer to decline any cookies if you wish. This can easily be done by activating the reject cookies setting on your computer. Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.
+##  Using Your Information
 
-##  Use of Your Information
+We use the information we collect from you to provide, maintain, protect and improve our sites and services, and to develop new ones.
 
-We use the information that we collect from you to provide our services to you. In addition to this we may use the information for one or more of the following purposes:
+In addition, we may use the information for one or more of the following purposes:
 
-  1. To provide information to you that you request from us relating to our products or services.
-  2. To provide information to you relating to other products that may be of interest to you. Such additional information will only be provided where you have consented to receive such information.
-  3. To inform you of any changes to our website, services or goods and products.
+  * To provide information to you that you request from us relating to our products or services.
+  * To provide information to you related to products or services provided by us.
+  * To inform you of any changes, offers, updates or other announcements about our sites, services or products.
 
 
 
-If you have previously purchased goods or services from us, we may provide to you details of similar goods or services, or other goods and services, that you may be interested in.
+Finally, if you install and use any of our products or services, such as a module or any other software, these products will report information to us, and we will collect this information.  This information may be linked to you and we may use this information to better provide technical support to you and our other customers, and to improve our sites, services and products.
 
-##  Storing Your Personal Data
+##  Storing and Securing your Personal Data and Information
 
-In operating our website, it may become necessary to transfer data that we collect from you to locations outside of the European Union for processing and storing. By providing your personal data to us, you agree to this transfer, storing or processing. We do our upmost to ensure that all reasonable steps are taken to make sure that your data is treated stored securely.
+Our computer systems are currently based in the United States (“U.S.”), so your personal data will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union (“EU”). If you visit and use our sites from outside the U.S., you agree to this Privacy Policy and you consent to the transfer of all such information to the U.S., which may not offer an equivalent level of protection of that required in the EU or certain other countries, and to the processing of that information as described in this Privacy Policy.
 
-Unfortunately, the sending of information via the internet is not totally secure, and on occasion such information can be intercepted. We cannot guarantee the security of data that you choose to send us electronically. Sending such information is entirely at your own risk.
+We take all reasonable measures to protect your personal data and information, and to protect our sites from unauthorized access to or unauthorized alteration, disclosure or destruction of information we maintain. 
 
 ##  Disclosing Your Information
 
 We will not disclose your personal information to any other party other than in accordance with this Privacy Policy and in the circumstances detailed below:
 
-  1. In the event that we sell any or all of our business to the buyer.
-  2. Where we are legally required by law to disclose your personal information.
-  3. To further fraud protection and reduce the risk of fraud.
+  * Consent: 
+    * We may disclose personal information if we have your specific consent to do so.
+  * Co-sponsored activities: 
+    * When you sign up for a webinar or other activity that is co-sponsored by another company, we may share your registration information with that company.
+  * Third Party Services: 
+    * We use trusted third party service providers, consultants and other agents to help us provide, maintain, protect and improve our sites, services and products.  We provide personal information to these parties to perform certain tasks based on our instructions and in compliance with our Privacy Policy or an equivalent level of privacy protection.
+    * Examples of third party services include data storage, maintenance services, database management, web analytics, payment processing.
+  * Legal: 
+    * We will share personal information if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
+      * meet any applicable law, regulation, legal process or enforceable governmental request;
+      * enforce applicable Terms of Service or any of our other agreements with you, including investigation of potential breaches;
+      * detect, prevent or otherwise address fraud, security or technical issues; or
+      * protect against harm to the rights, property or safety of Commerce Guys, our users and customers, or the general public, as required or permitted by law.
+  * Succession: 
+    * If we are involved in a merger, acquisition or asset sale, you agree that your personal information may be transferred to a third party.
 
 
+
+If you wish to “opt-out” of having your personal information used for certain purposes, please [contact us](http://commerceguys.com/inquiry).
+
+All information you disclose in your public profile, in forum posts, blogs, comments, issue queues, or other public portions of our sites becomes public information.  You should be careful in what you choose to disclose publicly.
+
+##  Accessing and Updating Your Personal Information
+
+You may have access to your personal information that we hold, and correct, amend, or delete that information where it is inaccurate, except where the burden or expense of providing access would be disproportionate to the risks to your privacy, or where the rights of persons other than you would be violated.
 
 ##  Third Party Links
 
-On occasion, we include links to third parties on this website. Where we provide a link, it does not mean that we endorse or approve that site’s policy towards visitor privacy. You should review their privacy policy before sending them any personal data.
+We may include links to other websites which we do not control. We do not endorse these sites, nor are we responsible for the content or accuracy of any information contained on them. By clicking on a link, you are subject to their privacy policies and terms of use, and assume all risks.
 
 ##  Contacting Us
 
-Please do not hesitate to contact us regarding any matter relating to this Privacy Policy by [submitting our contact form](http://commerceguys.com/inquiry).
+If you have any questions or concerns regarding this Privacy Policy, please [contact us](http://commerceguys.com/inquiry).
+
+Visitors have the following options for correcting personal information or removing their information from our database in order to discontinue future communications from Commerce Guys.
+
+  1. Click on the "Unsubscribe" link on any Commerce Guys email
+  2. Send a request to [webmaster@commerceguys.com](mailto:webmaster@commerceguys.com)
+  3. Send a request by mail to the following postal address: 950 Victors Way, Suite 10, Ann Arbor, MI 48108
+  4. Call the following telephone number: 1-888-827-7142 to make such a request
+
+
