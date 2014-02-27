@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rothco.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229023813id_/http%3A//www.rothco.com/cms/rothco-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rothco.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227094858id_/http%3A//www.rothco.com/cms/rothco-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,17 +7,17 @@
 
 [ ](http://www.facebook.com/Rothco1953)
 
-###  December 28, 2013   
-1:30 pm 
+###  February 26, 2014   
+11:10 pm 
 
-Image of the Week! #militarypics [See Post](http://www.facebook.com/photo.php?fbid=10151838096108575&set=a.201789988574.131055.194312043574&type=1)
+Find out more about our latest Spring Supplement. http://bit.ly/1cMLhQp [See Post](http://www.facebook.com/photo.php?fbid=10151967178703575&set=a.201789988574.131055.194312043574&type=1)
 
 [ ](https://twitter.com/Rothco_Gear)
 
-###  December 28, 2013   
-8:05 pm 
+###  February 26, 2014   
+10:30 pm 
 
-I posted a new photo to Facebook [](http://t.co/0ILvRDUFAK)[See Tweet](https://twitter.com/Rothco_Gear)
+What's your favorite #[camouflage](http://search.twitter.com/search?q=%23camouflage) pattern?[See Tweet](https://twitter.com/Rothco_Gear)
 
 PRIVACY POLICY FOR ROTHCO.COM
 
@@ -35,7 +35,7 @@ During your use of Rothco.com, such as registering for a Authorized Dealer Accou
 
 E-MAIL FROM ROTHCO
 
-To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mails from [Rothco.com](http://www.rothco.com/ "Rothco.com") if your computer supports such capabilities. If you do not wish to receive additional e-mail from Rothco, please simply click the Unsubscribe button in your e-mail newsletter.
+To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mails from Rothco.com if your computer supports such capabilities. If you do not wish to receive additional e-mail from Rothco, please simply click the Unsubscribe button in your e-mail newsletter.
 
 HOW WE USE YOUR INFORMATION
 
@@ -94,7 +94,7 @@ We keep our Privacy Policy under regular review and we will place any updates in
 
 YOUR FEEDBACK
 
-If you have any comments or questions about this Policy or your personal information, please send your comments by e-mail to [info@Rothco.com](mailto:kristy.dineen@rothco.com?subject=PrivacyPolicy "Rothco").
+If you have any comments or questions about this Policy or your personal information, please send your comments by e-mail to [info@Rothco.com](mailto:info@rothco.com?subject=PrivacyPolicy "Rothco").
 
 #### Want to become a Rothco Dealer?
 
