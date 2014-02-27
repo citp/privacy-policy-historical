@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cro.ie privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923102221id_/http%3A//www.cro.ie/ena/website-privacy-and-security-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cro.ie privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228004458id_/http%3A//www.cro.ie/ena/website-privacy-and-security-statement.aspx) for the most accurate reproduction.*
 
 # CRO Privacy Security Statement
 
 ## (A) Privacy
 
-Personal data supplied to CRO via this website pursuant to the Companies Acts 1963-2012 (for instance, notification of appointment of a company officer, change of company officer’s particulars) or the Registration of Business Names Act 1963 (for instance, registration of a business name by an individual, firm or body corporate, or change of address of the owner of a registered business name) does not come within the Data Protection Acts 1988-2003, being "personal data consisting of information that the person keeping the data is required by law to make available to the public". Such data therefore falls outside the terms of this Privacy Statement. This means that the conditions and information set out below do not apply to any personal data supplied to CRO on this website by any person pursuant to the Companies Acts 1963-2012 and/or Registration of Business Names Act 1963.
+Personal data supplied to CRO via this website pursuant to the Companies Acts 1963-2013 (for instance, notification of appointment of a company officer, change of company officer’s particulars) or the Registration of Business Names Act 1963 (for instance, registration of a business name by an individual, firm or body corporate, or change of address of the owner of a registered business name) does not come within the Data Protection Acts 1988-2003, being "personal data consisting of information that the person keeping the data is required by law to make available to the public". Such data therefore falls outside the terms of this Privacy Statement. This means that the conditions and information set out below do not apply to any personal data supplied to CRO on this website by any person pursuant to the Companies Acts 1963-2013 and/or Registration of Business Names Act 1963.
 
  **Identity**
 
