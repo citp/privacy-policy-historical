@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activeris.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529221203id_/http%3A//fastagain.activeris.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activeris.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227114704id_/http%3A//fastagain.activeris.com/home/privacy.html) for the most accurate reproduction.*
 
 # FastAgain PC Booster by Activeris | Boost PC Speed & Fix Windows Errors
 
@@ -83,7 +83,7 @@ We are in compliance with the requirements of COPPA (Children's Online Privacy P
 
 #### Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20130529221203id_/http%3A//fastagain.activeris.com/home/terms.html "Terms and Conditions") documentation establishing the use, disclaimers, and limitations of liability governing the use of our website. 
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20140227114704id_/http%3A//fastagain.activeris.com/home/terms.html "Terms and Conditions") documentation establishing the use, disclaimers, and limitations of liability governing the use of our website. 
 
   
 
