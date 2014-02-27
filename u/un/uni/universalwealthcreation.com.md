@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universalwealthcreation.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512141820id_/http%3A//www.universalwealthcreation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universalwealthcreation.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227093626id_/http%3A//universalwealthcreation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
