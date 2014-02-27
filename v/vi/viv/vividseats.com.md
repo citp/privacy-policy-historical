@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the vividseats.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015082600id_/http%3A//www.vividseats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vividseats.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227095614id_/http%3A//www.vividseats.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Vivid Seats
 
 ### Vivid Seats, LTD "Vivid Seats" Privacy Policy
 
-Vivid Seats is committed to protecting your privacy. That is because we base our business on the trust you place in us. This policy describes our practices regarding personal and account information collected through our Web site located at www.vividseats.com. In this policy, "personal and account information" means your name, company name, account number, address, telephone number, and e-mail address plus other information that personally identifies you, including your industry, the number of employees at your company, and purchase history, and "we" and "us" means Vivid Seats.
+Vivid Seats is committed to protecting your privacy. That is because we base our business on the trust you place in us. This policy describes our practices regarding personal and account information collected through our Web site located at [www.vividseats.com](http://www.vividseats.com/ "Vivid Seats"). In this policy, "personal and account information" means your name, company name, account number, address, telephone number, and e-mail address plus other information that personally identifies you, including your industry, the number of employees at your company, and purchase history, and "we" and "us" means Vivid Seats.
 
-[](https://privacy.truste.com/privacy-seal/Vivid-Seats-Ltd-/validation?rid=07537024-afbc-477f-ae47-e0abf685ddaf "TRUSTe online privacy certification")
+[ ](https://privacy.truste.com/privacy-seal/Vivid-Seats-Ltd-/validation?rid=07537024-afbc-477f-ae47-e0abf685ddaf "TRUSTe online privacy certification")
 
 Vivid Seats Ltd. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 866-848-8499, or via email at customersupport@vividseats.com. If you are not satisfied with our response you can contact [TRUSTe here.](http://watchdog.truste.com/pvr.php?page=complaint)
 
@@ -46,8 +46,6 @@ The use of cookies by third parties is not covered by our privacy policy. We do 
 ### Clear Gifs (Web Beacons/Web Bugs)
 
 Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
-
-vigate our site, in order for you to use the shopping cart. 
 
 ### Behavioral Targeting / Re-Targeting
 
@@ -111,6 +109,7 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 We restrict access to your personal and account information to those who need access to use it as set forth in this policy. Your personal and account information will never be sold, shared, rented or traded to third parties except under the following circumstances:
 
   * We may disclose your personal and account information to respond to subpoenas, court orders, or other legal process, as required by law, or to establish or exercise our legal rights or defend against legal claims.
+  * We may disclose your personal and account information when we believe it is necessary to protect the rights, property, or safety of Vivid Seats, our users, or others. This includes exchanging information with other companies, organizations, or agents of the customer for fraud protection. However, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information for commercial purposes in violation of the commitments set forth in this Privacy Policy.
   * Your personal and account information may also be disclosed in connection with a sale of some or all of our business or a merger with another company.
 
 
@@ -135,7 +134,10 @@ If you have any questions about security on our Web site, you can email us at cu
 
 You can reach us by email customerservice@vividseats.com or you can call us toll-free at 866-848-8499. Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes.
 
-Vivid Seats Ltd. 344 N. Ogden Ave. 4th Floor Chicago, IL 60607  
-Email: customersupport@vividseats.com
+**Vivid Seats Ltd.**  
+344 N Ogden Avenue  
+4th Floor  
+Chicago, IL 60607  
+[customersupport@vividseats.com](mailto:customersupport@vividseats.com)
 
-Last updated on April 15, 2013
+Last updated on November 25, 2013
