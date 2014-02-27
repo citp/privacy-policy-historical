@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fieldnation.com privacy policy that was archived on 2013-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130131060526id_/https%3A//www.fieldnation.com/tech_reg/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fieldnation.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228003724id_/https%3A//www.fieldnation.com/tech_reg/PrivacyPolicy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Field Nation
+# Privacy Policy
 
 **Thank you for visiting fieldnation.com, a FieldNation, LLC site (the "Web Site"). Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used on this Web Site.**
 
@@ -16,7 +16,7 @@ We may collect information about your visit, including the pages you view, the l
 
 We may use the information you provide about yourself to fulfill your requests for services and programs offered by us, to respond to your inquiries about our offerings, and to offer you other services, programs and products that we believe may be of interest to you.
 
-If you register as a technician, our third party customers and their representatives do have access to your personal information and you may also receive job emails, sms or phone calls directly from them. We sometimes use this information to communicate with you, such as when we make changes to our database, to fulfill a request by you, or to contact you about your account with us. 
+If you register as a provider, our third party customers and their representatives do have access to your personal information and you may also receive job emails, sms or phone calls directly from them. We sometimes use this information to communicate with you, such as when we make changes to our database, to fulfill a request by you, or to contact you about your account with us. 
 
 We sometimes use the non-Personally Identifiable Information that we collect to improve the design and content of our Web Site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze Web Site usage, as well as to offer you services, programs or products.
 
@@ -24,7 +24,7 @@ We may disclose Personally Identifiable Information in response to legal process
 
 **Confidentiality and Security of Personal Information**
 
-Agents, affiliates and customers of FieldNation, LLC who have access to your Personally Identifiable Information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to recruit technicians and employ their services. 
+Agents, affiliates and customers of FieldNation, LLC who have access to your Personally Identifiable Information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to recruit providers and engage their services. 
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that Personally Identifiable Information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. We may share your Personally Identifiable Information if disclosure is necessary to (i) comply with a court order or other legal process, (ii) protect our rights and property or that of our licensors, or (iii) enforce our other contractual rights.
 
@@ -44,7 +44,7 @@ When visiting our Web Site, we may track the referring URL (the web page you lef
 
 **Terms Specifically Applicable to Service Providers**
 
-As part of registration as a technician, you must set up your Account by describing your experience, rates and qualifications, work profile, and schedule. Some of the information requested in the on-line registration is mandatory. If you decide to offer your services through our Web Site, potential third party customers will look to your Account to help them decide whether to make use of your services. Our customers will not be able to select you as a service provider, however, until you have agreed to our online contractor terms. 
+As part of registration as a provider, you must set up your Account by describing your experience, rates and qualifications, work profile, and schedule. Some of the information requested in the on-line registration is mandatory. If you decide to offer your services through our Web Site, potential third party customers will look to your Account to help them decide whether to make use of your services. Our customers will not be able to select you as a service provider, however, until you have agreed to our online contractor terms. 
 
 **How You can Access or Correct Information**
 
