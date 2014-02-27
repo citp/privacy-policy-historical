@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chrisd.ca privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108010001id_/http%3A//www.chrisd.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrisd.ca privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227033356id_/http%3A//www.chrisd.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ChrisD.ca
 
