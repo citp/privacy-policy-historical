@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the charityjob.co.uk privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114134253id_/http%3A//www.charityjob.co.uk/info/Legal/Privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charityjob.co.uk privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227133234id_/http%3A//www.charityjob.co.uk/info/Legal/Privacy%2520policy) for the most accurate reproduction.*
 
 # 
 
 Jobladder Limited ("We") is committed to protecting your personal information and other data provided to us via this and any other JobLadder web site (" **Web Site** "). 
 
-This Privacy & Cookie Policy (together with our [Terms of Use](https://web.archive.org/web/20131114134253id_/http%3A//www.charityjob.co.uk/info/Legal/terms%20of%20use) and any other documents referred to on it) explains what information We collect about you, and how We collect and use your information, including setting out the circumstances where We could provide it to third parties. 
+This Privacy & Cookie Policy (together with our [Terms of Use](https://web.archive.org/web/20140227133234id_/http%3A//www.charityjob.co.uk/info/Legal/terms%20of%20use) and any other documents referred to on it) explains what information We collect about you, and how We collect and use your information, including setting out the circumstances where We could provide it to third parties. 
 
-You should read this policy and the separate [Terms of Use](https://web.archive.org/web/20131114134253id_/http%3A//www.charityjob.co.uk/info/Legal/terms%20of%20use) carefully to understand our views and practices regarding your personal data and how We will treat it. 
+You should read this policy and the separate [Terms of Use](https://web.archive.org/web/20140227133234id_/http%3A//www.charityjob.co.uk/info/Legal/terms%20of%20use) carefully to understand our views and practices regarding your personal data and how We will treat it. 
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller is JobLadder Limited, Victoria Hall, Victoria Road, Kingston upon Thames KT1 3DW. 
 
@@ -42,7 +42,7 @@ For the purpose of the Data Protection Act 1998 (the Act), the data controller i
 
 2.2.2. If Jobladder Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets; 
 
-2.2.3. If We are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use](https://web.archive.org/web/20131114134253id_/http%3A//www.charityjob.co.uk/info/Legal/terms%20of%20use) and other agreements; or 
+2.2.3. If We are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use](https://web.archive.org/web/20140227133234id_/http%3A//www.charityjob.co.uk/info/Legal/terms%20of%20use) and other agreements; or 
 
 2.2.4. to protect the rights, property, or safety of Jobladder Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
 
