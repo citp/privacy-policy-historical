@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the teambeachbody.com privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018061847id_/http%3A//www.teambeachbody.com/tbb/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teambeachbody.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228001551id_/http%3A//www.teambeachbody.com/tbb/privacy) for the most accurate reproduction.*
 
 # Team Beachbody - Privacy Policy
 
   * Children's Privacy
-  * What information does Beachbody collect?
+  * What information does Team Beachbody collect?
   * How does Team Beachbody use or disclose the information it collects?
   * Opt-Out Policy
   * Security
@@ -11,15 +11,15 @@
 
 
   * Community Center/Community Chatrooms/Message Boards
-  * How can I access, update, or delete my information?
-  * Users Based Outside of the USA; Transfer of Personal Information
+  * How can I correct, update, or delete my information?
+  * Users Based Outside of the USA
   * What happens to my information if Beachbody is sold to or merges with another company?
   * Changes to This Policy
   * Contacting Team Beachbody
 
 
 
-Welcome to Beachbody, LLC, and its affiliates, subsidiaries and wholly owned business units, including, but not limited to, Beachbody®, Team Beachbody®, and Beauty by Beachbody (collectively, "Beachbody" or "us" or "we" or "our"). Beachbody has created this privacy policy to demonstrate our commitment to protecting your privacy, and to disclose our information- gathering and dissemination practices. This privacy policy is here to tell you about, among other things, the information Beachbody collects through any of our Web sites, including, but not limited to, Beachbody.com, Beachbody.co.uk, TeamBeachbody.com, and BeautybyBeachbody.com, and through other means, how we use that information, how you can opt out of certain uses of the information we collect, and how Beachbody can make changes to this privacy policy. Please let us know if you have any questions regarding this privacy policy by contacting us at [privacy@beachbody.com](mailto:privacy@beachbody.com).
+Welcome to Beachbody, LLC, and its affiliates, subsidiaries and wholly owned business units, including, but not limited to, Beachbody®, Team Beachbody®, and Beauty by Beachbody (collectively, "Beachbody" or "us" or "we" or "our"). Beachbody has created this privacy policy to demonstrate our commitment to protecting your privacy, and to disclose our information-gathering and dissemination practices. This privacy policy is here to tell you about, among other things, the information Beachbody collects through any of our Web sites, including, but not limited to, Beachbody.com, Beachbody.co.uk, TeamBeachbody.com, and BeautybyBeachbody.com, and through other means, how we use that information, how you can opt out of certain uses of the information we collect, and how Beachbody can make changes to this privacy policy. Please let us know if you have any questions regarding this privacy policy by contacting us at [privacy@beachbody.com](mailto:privacy@beachbody.com).
 
 Back to top
 
@@ -41,9 +41,9 @@ In collecting your personal information, we aim to provide you with a more custo
 
 Beachbody collects two types of information when you visit our Web site(s) or you do business with us via any medium: information that may be used to identify you individually, such as your name, physical address, phone number, email address or date of birth (or social security number which is required to remit commission payments if you sign up as a Team Beachbody Coach) ("personal information"); and nonpersonal information, such as IP addresses, the type of browser you are using, and aggregated information about user activities on our Web site(s) ("nonpersonal information").
 
-Personal Information: We specifically request personal information from you at certain points on and off our Web site(s). For example, when you call us, sign up for our newsletter, visit or subscribe to our Web site(s), use our mobile or web applications or when you purchase an item or service, we collect personal information to complete the transaction. This information may include, without limitation, your name, shipping and billing addresses, telephone number, email address, credit card information, date of birth and social security number. If you apply to join our Affiliate Program, we may collect information about your business, including, without limitation, your (or your organization's) name, email address, street address, telephone number, tax identification number, and information about your Web site (e.g., the URL, the number of unique users and page views, the demographics of your user base, etc.). From time to time, we may also request or obtain personal information about you and your interests in surveys, contest/sweepstakes entry forms, our social media web sites, or in other ways. You may always choose not to provide us with your personal information; however, this may limit our ability to provide you with a specific product or service or information, or to offer you personalized content.
+Personal Information: We specifically request personal information from you at certain points on and off our Web site(s). For example, when you call us, sign up for our newsletter, visit or subscribe to our Web site(s), use our mobile or web applications or when you purchase an item or service, we collect personal information which may include, without limitation, your name, shipping and billing addresses, telephone number, email address, credit card information, date of birth and social security number. If you apply to join our Affiliate Program, we may collect information about your business, including, without limitation, your (or your organization's) name, email address, street address, telephone number, tax identification number, and information about your Web site (e.g., the URL, the number of unique users and page views, the demographics of your user base, etc.). From time to time, we may also request or obtain personal information about you and your interests through surveys, contest/sweepstakes entry forms, our mobile applications, social media web sites, or from Affiliated Companies or in other ways. You may always choose not to provide us with your personal information; however, this may limit our ability to provide you with a specific product or service or information, or to offer you personalized content.
 
-Nonpersonal Information: When you visit our Web site(s), we also collect nonpersonal information, such as your IP address, which is a number that can be used to identify your location and Internet Service Provider. We may also collect the other information such as the type of browser or device you are using, the URL from which you came to our Web site(s) and the URLs that you visited on our Web site(s). A URL is the full address of a Web site page, which may contain some personal or identifying information about the person who is viewing it.
+Nonpersonal Information: When you visit our Web site(s), we also collect nonpersonal information, such as your IP address, which is a number that can be used to identify your location and Internet Service Provider. We may also collect other information such as the type of browser or device you are using, the URL from which you came to our Web site(s) and the URLs that you visited on our Web site(s). A URL is the full address of a Web site page, which may contain some personal or identifying information about the person who is viewing it.
 
 Information We Obtain from Other Sources: We may collect information about you from other sources, including through interactive applications (such as mobile devices/applications and third-party services) and from commercially available sources (such as data aggregators and public databases). For example, if you access third-party services (such as Facebook Connect) through or in connection with our Web site(s), we collect information available about you through those services, including, but not limited to, personal information as well as publicly observable data, such as activities on blogs, videos, and other online postings.
 
@@ -51,13 +51,15 @@ Use of Cookies: We also use a feature of your browser called a cookie to assign 
 
 Use of Pixel Tags: We also collect information through the use of "pixel tags" on our Web sites and in email messages we may send to you that may be placed by us or a third party with whom we partner. Pixel tags, also known as "Web beacons," are tiny graphic files, not visible to the human eye, that are included in HTML-encoded email messages. When such a message is opened in an HTML-capable email program, the recipient's computer will access our server to retrieve the pixel tag file, allowing us to record and store, along with the recipient's email address, the date and time the recipient viewed the email message, the fact that the recipient's email program is capable of receiving HTML-encoded email, and other standard logging information. The pixel tag may also see or read cookies. Beachbody may use pixel tags in order to measure and understand traffic better, to track visitor behavior to improve user experience, and for tracking promotional and marketing campaign response, among others. You can disable the pixel tag feature by changing your browser settings to omit images and disable Javascript; or there are commercial software packages available that can omit pixel tags and most advertisements.
 
+Do Not Track Signals. Some web browsers offer a “Do Not Track” (“DNT”) signal that is a HTTP header field indicating your preference regarding tracking or cross-site user tracking. Although we’re currently unable to honor DNT signals, we do not collect personal information when you visit our Web site(s) unless you provide such information to us. We also work with third parties that use tracking technologies on our Web sites in order to provide tailored advertisements on our behalf and on behalf of other advertisers across the Internet. These companies may collect information about your activity on our sites and your interaction with our advertising and other communications, and use this information to determine which ads you see on third party websites and applications. For more information about this practice and to understand your options, please visit [http://www.aboutads.info](http://www.aboutads.info/).
+
 Back to top
 
 ### How does Beachbody use or disclose the information it collects?
 
 Beachbody's Use of Personal Information and Nonpersonal Information: We use your personal information to process your requests, fulfill your orders and communicate with you about your orders, send important notices or tell you about new products or services. We may also use your personal information to improve our products, services and advertising, personalize our Web site(s), target advertising or promotions that may be of interest to you, or conduct business that we feel would be of interest to you. On occasion, we may also contact you about Beachbody's or any of its business units' or partners' products or services that we think you will find useful. We might also contact you to see if you are interested in participating in market research regarding Beachbody. For information about opting out of such communications, please see our Opt-Out Policy section below.
 
-Co-Branded Offers: Beachbody occasionally partners with third parties ("Affiliated Company") to offer additional products or services that we feel may be useful to you. In the event you request information or purchase a particular product or service from an Affiliated Company, we may disclose to the Affiliated Companies your personal information such as your name, e-mail address, shipping address, phone number and other contact information, and if you purchased a product, your credit card information. If you do not want us to disclose your personal information to the Affiliated Companies, please refer to the Opt-Out Policy below.
+Third Party or Co-Branded Offers: Beachbody occasionally partners with third parties ("Affiliated Company") to offer additional products or services that we feel may be useful to you. In such case, we may disclose to an Affiliated Company certain limited information, such as your name and shipping address. If you request information or purchase a particular product or service from an Affiliated Company, we may disclose additional information such as your e-mail address, phone number and other contact information, and if you purchased a product, your credit card information. If you do not want us to disclose your personal information to the Affiliated Companies, please refer to the Opt-Out Policy below.
 
 Cookies (again): We may use cookie and IP address information to count and track Web site visits and purchases in the aggregate, to personalize the Web site(s) for each unique user, to control the frequency of individual advertisements to individual computers, and to target advertisements and promotions to broad demographic segments. We may also use IP addresses to help diagnose problems with our server, and to administer our Web site(s).
 
@@ -71,7 +73,7 @@ Business and Accounting Disclosures: We may also disclose non-identifying transa
 
 Third Party Tools/Services: At various points and pages on our Web site(s), you may be able to access or utilize tools and/or services offered by or in conjunction with third parties, including tools and services in connection with third-party "social media" and other sites that would allow personal information to be transferred to such third parties (for example, Facebook Connect). These third parties have separate data collection and privacy practices independent from ours, and thus Beachbody cannot be responsible for their policies or activities. Please contact those third parties directly if you have questions about their privacy policies.
 
-Assignment to a Coach and Information Release: To maximize the benefits of our products and services, we assign a Team Beachbody Coach (a "Coach") to all customers who agree to a Team Beachbody Club membership or who consent to be contacted by a Coach. Your assigned Coach is available to assist you in understanding and using the products you ordered, and give you the motivation you need to achieve your fitness goals. To help you both get in contact, your assigned Coach will receive access to certain information you provided during your purchase process, such as your name, address, phone number, e-mail address and the names of the products you purchased. Please note that Beachbody will never provide your assigned Coach your credit or debit card information or, if you provided it, your social security number.
+Assignment to a Coach and Information Release: To maximize the benefits of our products and services, we assign a Team Beachbody Coach (a “Coach”) to all customers who agree to a Team Beachbody Club membership or who consent to be contacted by a Coach. Your assigned Coach is available to assist you in understanding and using the products you ordered, and give you the motivation you need to achieve your fitness goals. To help you both get in contact, your assigned Coach will receive access to certain information you provided during your purchase process, such as your name, address, phone number, e-mail address and the names of the products you purchased. Please note that Beachbody will never provide your assigned Coach your credit or debit card information or, if you provided it, your social security number.
 
 Other Disclosures: Occasionally, we may disclose personal information in other circumstances, but we will only do this if we have explained at the time we collect the information the purpose for which it will be disclosed.
 
@@ -84,9 +86,9 @@ You may opt out of receiving communication from us, from Affiliated Companies, o
 Beachbody, LLC  
 3301 Exposition Blvd., 3rd Floor   
 Santa Monica, CA 90404  
-Attention: Privacy Policy Department 
+Attention: Legal Department
 
-In addition, we may contact you via email or use targeted online advertising. In the case of email, we may include instructions to enable you to unsubscribe from future emails if you so choose. You agree and understand that while we will do our best to comply with your request, we shall not be liable for any problems or delays associated with the opt-out process. For any targeted online advertising, you can learn more about third parties we contract with or opt-out of targeted advertising by visiting the Network Advertising Initiative at www.networkadvertising.org.[www.networkadvertising.org](http://www.networkadvertising.org/).
+In addition, we may contact you via email or use targeted online advertising. In the case of email, we may include instructions to enable you to unsubscribe from future emails if you so choose. You agree and understand that while we will do our best to comply with your request, we shall not be liable for any problems or delays associated with the opt-out process. For any targeted online advertising, you can learn more about third parties we contract with or opt-out of targeted advertising by visiting the Network Advertising Initiative at [www.networkadvertising.org](http://www.networkadvertising.org/).
 
 Back to top
 
@@ -104,7 +106,9 @@ Back to top
 
 ### Community Center/Community Chatrooms/Message Boards
 
-Our Web site(s) includes online forums, chat rooms, message boards, and other interactive technologies that allow comments, messages, emails, and postings to be associated with a user's name or email address. Any information you post is public information, and Beachbody cannot control what use third parties may make of this personal information. All of these forums are public. Please consider this before you post.
+Our Web site(s) includes online forums, chat rooms, message boards, and other interactive technologies that allow comments, messages, emails, and postings to be associated with a user's name or email address. Any information you post is public information, and Beachbody cannot control what use third parties may make of this personal information.
+
+All of these forums are public. Please consider this before you post.
 
 Back to top
 
@@ -137,13 +141,11 @@ Back to top
 Please feel free to share any comments, concerns, or complaints with us. If you have any questions about this privacy policy or the practices of this Web site, please contact:
 
 Beachbody, LLC  
-3301 Exposition Blvd., 3rd Floor   
-Santa Monica, CA 90404  
-Attention: Privacy Policy Department   
+3301 Exposition Blvd., 3rd Floor  
+Santa Monica, CA 90404   
+Attention: Legal Department  
 or email us: [privacy@beachbody.com](mailto:privacy@beachbody.com)
 
-Experiencing problems or have comments? [Click here](http://beachbody.custhelp.com/). 
-
-Last updated and effective May 7, 2013
+Last updated and effective December 3, 2013.
 
 Back to top
