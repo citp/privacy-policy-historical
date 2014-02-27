@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs8home.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022041707id_/http%3A//www.jobs8home.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs8home.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227163126id_/http%3A//www.jobs8home.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
