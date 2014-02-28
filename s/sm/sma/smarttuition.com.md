@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the smarttuition.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930041335id_/http%3A//www.smarttuition.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarttuition.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228020623id_/http%3A//www.smarttuition.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Smart Tuition - Tuition Management For K-12 Catholic Schools, Private Schools, Christian Schools, Independent Schools, Jewish Schools, Boarding Schools
 
 ##### Privacy & Security
 
-Protecting the privacy of our clients’ personal and financial information is our highest priority. The informatoin listed below explains how Smart Tuition protects your information. If there are any questions that this statement does not address, please [contact us. ](https://web.archive.org/web/20130930041335id_/http%3A//www.smarttuition.com/contactus.html)
+Protecting the privacy of our clients’ personal and financial information is our highest priority. The informatoin listed below explains how Smart Tuition protects your information. If there are any questions that this statement does not address, please [contact us. ](https://web.archive.org/web/20140228020623id_/http%3A//www.smarttuition.com/contactus.html)
 
 ##### Confidentiality
 
