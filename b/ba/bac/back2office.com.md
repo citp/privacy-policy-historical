@@ -1,42 +1,25 @@
-> *The following text is extracted and transformed from the back2office.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630011134id_/http%3A//www.back2office.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the back2office.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228164706id_/http%3A//back2office.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
-Back2Office is firmly committed to protecting the privacy of our users. Our goal is to provide you with a secure online experience and to ensure that any information you submit to us is private and used/disclosed only for the purposes and in the means described below.
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
-As a career site, Back2Office will ask jobseekers and employers to submit any information relevant to the job/candidate search in order to conduct/optimize the search functionality. All information is submitted exclusively on a voluntary basis. Please find below details of our member privacy practices.
-
-## Registration
-
-To fully participate in our job and candidate databases or search activities, we require you to register as a Back2Office member. Non-registered users are granted partial participation access eg. non-registered jobseekers may view positions but not company contact information.
-
-To register, we will ask for contact information (jobseekers and employers) and information on your company (employers). Back2Office is the sole owner of information collected on the registration pages and we will not disclose this information to anyone outside of Back2Office. Your contact information (such as name and email address may however be used to contact you about any features/services on our site which we believe may be of interest. Our goal is to provide our users with a personalized experience every time they log onto Back2Office and to that end we may direct you to jobs/articles/forums etc. that we think may assist you in your career/lifestyle activities.
-
-## Resumes
-
-Members have the option of posting their CVs in the Back2Office database in either of two ways:
-
-  1. CVs can be input into the database and DEACTIVATED. This means that while your CV is 'parked' at Back2Office for your access and reference at any point in time, no employers or other members will have access to view or search it through our search functionality. 
-
-  2. CVs can be input and the ACTIVE mode may be specified. This would enable any employer members who have paid to register with our service to access your CV. We are not responsible for the privacy of any copies of your CV that are subsequently retained by employer members in their own private files and databases. 
+  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
+  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
+  * We will only retain personal information as long as necessary for the fulfillment of those purposes.
+  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
+  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
+  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+  * We will make readily available to customers information about our policies and practices relating to the management of personal information.
 
 
 
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
-As an additional privacy function, jobseekers have the option to block the name of their current employer from any employer searches. This function is easily available on our CV Builder. Your CV will therefore appear in candidate searches with your latest experience record but without details of your current employer. This is a critical feature as the last person you would like viewing your CV is your current employer.
+### Contact Us
 
-You may edit/change information on your CV at any point in time. You may also remove your CVs from our databases at any point in time.
+Need assistance? Have a question that isn't answered in our [help](http://www.back2office.com/index.php?a=28&b=141) sections? You can contact support by visiting our [contact us](http://www.back2office.com/index.php?a=28&b=136) page.
 
-## Job Postings
+#### Copyright © 2014 BACK2OFFICE. All Rights Reserved.
 
-Employers are asked to submit detailed contact information and information about the position requirements as part of their job posting activity. Information is submitted purely voluntarily. Job details may be viewed by any registered jobseeker members. Non-members may view position but do not have access to contact details; they must register first to be able to contact your company. As an additional privacy feature, employers may hide their company name when their jobs are viewed online. Your privacy will thus be assured while jobseekers have the option to reply to the posting.
-
-You may change/modify/delete any information you provide at any point in time.
-
-## Your Workspace
-
-Registered jobseekers and employers have access to a personal workspace from where they can manage/document their job/candidate search history. All information in this space can only be viewed by the registered user(s) and accessed after logging in with your password.
-
-## Privacy Commitment Changed
-
-Back2Office will continue to commit itself to protecting and maximizing our users' privacy. We will update you on an ongoing basis on any changes/enhancements in our privacy practices.
+Use of this Web site constitutes acceptance of the [User Agreement](http://www.back2office.com/index.php?a=28&b=140) and [Privacy Policy](http://www.back2office.com/index.php?a=28&b=145). Designated trademarks and brands are the property of their respective owners.
