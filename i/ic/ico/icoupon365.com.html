@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the icoupon365.com privacy policy that was archived on 2013-09-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130908023714id_/http%3A//www.icoupon365.com/page/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the icoupon365.com privacy policy that was archived on 2014-02-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140228110842id_/http%3A//www.icoupon365.com/page/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html prefix="og: http://ogp.me/ns#" lang="en"><!--<![endif]--><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -13,10 +13,10 @@
     <meta property="og:type" content="website">
     <meta property="og:image" content="http://static.icoupon365.com/theme/top_logo.png">
     <meta property="og:description" content="Get online coupons, free printable coupons, coupon code and  promo code from iCoupon365.com. Find great deals and promotional discounts on your online purchases at hundreds of hot online stores.">
-    <link rel="stylesheet" type="text/css" href="http://static.icoupon365.com/min/g=icoupon365.css&amp;12">
+    <link rel="stylesheet" type="text/css" href="http://static.icoupon365.com/min/g=icoupon365.css&amp;17">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 <!--[if lt IE 8]>
-    <link rel="stylesheet" type="text/css" href="http://static.icoupon365.com/min/f=static/fontawesome/css/font-awesome-ie7.min.css&2" />
+     <script src="http://static.icoupon365.com/static/icomoon/lte-ie7.js"></script>
 <![endif]-->
 <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -43,9 +43,9 @@
             </div>
         </form>
         <ul class="nav nav-user inline">
-            <li class="feedback"><a href="#feedback_modal" data-toggle="modal" data-target="#feedback_modal">Feedback</a></li>
-                        <li><a href="#login_modal" data-toggle="modal" data-target="#login_modal">Login</a></li>
-            <li><button type="button" class="btn btn-primary" data-toggle="modal" data-target="#signup_modal">Join</button></li>
+            <li class="feedback hidden-phone"><a href="#feedback_modal" data-toggle="modal" data-target="#feedback_modal">Feedback</a></li>
+                        <li class="hidden-phone"><a href="#login_modal" data-toggle="modal" data-target="#login_modal">Login</a></li>
+            <li class="hidden-phone"><button type="button" class="btn btn-primary" data-toggle="modal" data-target="#signup_modal">Join</button></li>
                     </ul>
     </div>
 </div>
@@ -95,17 +95,31 @@ Last Updated on June 1st, 2013            </div>
         
         </div><!-- #span9 -->
         
-        <div class="span3">
+        <div class="span3 margin-top10">
     <aside id="sidebar">
     <nav>
 
-    <div class="margin10">
-                <a class="btn" href="http://www.icoupon365.com/coupon/submit_coupon" target="_blank" title="Share Coupon"><i class="icon icon-plus"></i> Share Coupon</a>
-    </div>
-
     <ul class="nav nav-list">
 
+        <div class="margin-top10 margin-bottom10">
+                        <a class="btn btn-warning" href="http://www.icoupon365.com/coupon/submit_coupon" target="_blank" title="Share Coupon"><i class="icon icon-plus"></i> Share Coupon</a>
+        </div>
+
+        
     
+    <li class="nav-header">
+
+        <div class="email_box_title">
+            Never Miss A Deal.<br>
+            Subscribe Our Weekly Newsletter<br>
+        </div>
+
+        <form action="/subscribe/post_email" class="email_form" method="post" accept-charset="utf-8">
+            <input class="margin-top10" name="email" type="text" value="" placeholder="Enter your email address">
+            <button class="btn btn-info" type="submit">Sign Up</button>
+        </form>
+    </li>
+
         
         
     
@@ -272,14 +286,26 @@ Last Updated on June 1st, 2013            </div>
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="http://static.icoupon365.com/static/js/jquery-1.7.2.min.js"><\/script>')</script><script src="http://static.icoupon365.com/static/js/jquery-1.7.2.min.js"></script>
 
+
+
 <script type="text/javascript">
-    var add_comm_lang = "Post Comment";
+    var add_comm_lang = "Add Comment";
     window.CS = window.CS || {};
     $.extend(CS, {
             constants: {}
         });
     CS.constants.user = $.parseJSON('{"is_logged_in":false,"is_admin":false,"is_editor":false,"username":false,"email":false,"user_id":false,"captcha_valid":false}');
     CS.constants.date = new Date();
+
+    $(function(){
+        $('.coupon-list li').mouseover(function(e){
+            $(this).find('.share-box').show();
+        });
+        $('.coupon-list li').mouseout(function(e){
+            $(this).find('.share-box').hide();
+        });
+    });
+
 </script>
 <script type="text/javascript" src="http://static.icoupon365.com/min/g=icoupon365.js&amp;21"></script>
 <script type="text/javascript">
@@ -307,9 +333,13 @@ if (typeof $.flash != 'undefined' && true == $.flash.available) {
             } else {
                 child.blur();
                 window.focus();
-                //event.preventDefault();
+                event.preventDefault();
             }
-            });
+                if (_gaq) {
+            click_item = $('#coupon-' + glue_id + ' .coupon-code .code').attr('data-track-pageview');
+            _gaq.push(['_trackPageview', click_item]);
+        }
+    });
     clip.addEventListener('mouseOver', function(client) {
         $('#coupon-' + glue_id + ' .coupon-code .code').trigger('mouseover');
     });
@@ -352,6 +382,7 @@ if (typeof $.flash != 'undefined' && true == $.flash.available) {
   ga('send', 'pageview');
 
 </script>
+
 
 
 
