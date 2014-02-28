@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianchildrensfund.org privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230032721id_/https%3A//www.childfund.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianchildrensfund.org privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228164210id_/https%3A//www.childfund.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy: ChildFund
 
