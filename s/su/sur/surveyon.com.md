@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the surveyon.com privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911185203id_/http%3A//www.surveyon.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyon.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228165730id_/http%3A//www.surveyon.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | surveyon
 
-The main business of Research Panel Asia, Inc. (hereafter referred to as this firm) is implementing surveys. We recognize the social obligation we bear and as so are giving our maximum priority to the protection of our customer’s privacy. This firm’s way of thinking regarding policy is as follows. This firm will faithfully handle all of our customers information along the following guidelines. 
+##  Privacy Policy Effective January 1, 2014
+
+The main business of Research Panel Asia, Inc. (hereafter referred to as this firm) is implementing surveys. We recognize the social obligation we bear and as so are giving our maximum priority to the protection of our customer's privacy. This firm's way of thinking regarding policy is as follows. This firm will faithfully handle all of our customers information along the following guidelines. 
 
 ### 1\. The definition of personal information
 
@@ -10,16 +12,21 @@ Personal information is all information such as a name, birthday, other identifi
 
 ### 2\. The collection, utilization and distribution of personal information
 
-Personal information is collected only after making clear this firm’s purpose of use for this information and the individual’s consent. This firm will handle this information in its most accurate and newest state and will handle it appropriately within the scope of our purpose of use. When supplying your personal information, please understand this purpose. Additionally, the supply of personal information to this firm is optional. However, in the event that you choose not to disclose your personal information to this firm, you may not be able to use all or parts of our service. This firm will under no circumstances offer your personal information to third parties without your consent. However, there are instances in which we must provide your personal information to third parties in which we are bound by a personal information consignment contract. Additionally, in the case that laws or ordinances leaded to the request for this information and our manager in charge of personal information judges this request as justifiable, we are required to supply the personal information they request. 
+Personal information is collected only after making clear this firm's purpose of use for this information and the individual's consent. This firm will handle this information in its most accurate and newest state and will handle it appropriately within the scope of our purpose of use. When supplying your personal information, please understand this purpose. Additionally, the supply of personal information to this firm is optional. However, in the event that you choose not to disclose your personal information to this firm, you may not be able to use all or parts of our service. This firm will under no circumstances offer your personal information to third parties without your consent. However, there are instances in which we must provide your personal information to third parties in which we are bound by a personal information consignment contract. Additionally, in the case that laws or ordinances leaded to the request for this information and our manager in charge of personal information judges this request as justifiable, we are required to supply the personal information they request. 
 
 ### 3\. The use of cookies
 
-  1. There are instances when this firm will collect information such as a customer’s IP address, cookie information (this refers to information contained within cookies) or information that can identify individual computers. This firm uses this information for privacy protection, improvement of convenience, the distribution of surveys and for statistical data acquisition but cannot use this information for any other reason without the customer’s consent.
-  2. When using the service (this service is called “surveyon” and hereafter will be referred to as “this service”) this firm will send text information called cookies to your web browser (software used to browse websites, all instances of this term will refer to this definition). This cookie is saved on the hard drive or memory of the user’s device.
-  3. Cookies are widely used to provide the best possible service to users by identifying a user’s browser or managing this service’s questions. Cookies contain no personal information or any information that is related to a customer’s privacy. Users can block cookies by changing the settings of their web browser but this will result in the user not being able to use a portion of this service.
-  4. There are instances when a user’s cookies will be provided to a third party company that we use for the data analysis of our site. The use of these cookies by this third party is based on the privacy policy of that company. The privacy polices of the third party companies that are using the cookies from this firm’s site are listed below. 
-    * a. Google, inc. （Google Analytics） Privacy Policy: http://www.google.com/policies/privacy/
-    * b. About Google Analytics: http://www.google.com/intl/ja/analytics/privacyoverview.html
+This firm may collect information such as a customer's IP address, cookie information (this refers to information contained within cookies) or information that can identify individual computers. This firm uses this information for privacy protection, improvement of customer's convenience, distribution of surveys, statistical data acquisition, and sending behaviour targeting ads but does not use this information for any other purpose without the customer's consent. 
+
+When using the service (this service is called "surveyon" and hereafter referred to as "this service") this firm will send one or more cookies to your web browser (software used to browse websites). This cookie is saved on the hard drive or memory of the customer's device. 
+
+Cookies are widely used for identifying customer's web browser so that we can provide the best possible service to customers and managing this service's questions. Cookies contain no personal information or any information that is related to a customer's privacy. Customers can block cookies by changing the settings of their web browser but this will result in the customer not being able to use a portion of this service. 
+
+This firm also provide customers' cookies to third party for the purpose of (i) the data analysis of our site, and (ii) sending behaviour targeting ads. The use of these cookies is subject to the privacy policy of each third party company. The privacy policies of those third party companies are as follows: 
+
+  * a. Google Inc. (Google Analytics) Privacy Policy: http://www.google.com/policies/privacy/
+    * About Google Analytics: http://www.google.com/intl/en_uk/analytics/privacyoverview.html
+  * b. Brandscreen Privacy Policy: http://www.brandscreen.com/en/privacy/
 
 
 
@@ -31,35 +38,37 @@ Additionally, starting with the entrance and exit from our offices, we have seve
 
 ### 5\. Procedures for disclosures, corrections, deletions and suspensions of usage
 
-When disclosures, corrections, deletions and suspensions of usage are requested through the assistance service by the subject of this information, this firm will put into practice this request after checking with legal standards and commonly accepted ideas. Additionally, the subject of this personal information can disclose, correct and delete this personal information from this firm’s web site. Please confirm the following official statements based on the “Laws regarding the protection of personal information.” 
+When disclosures, corrections, deletions and suspensions of usage are requested through the assistance service by the subject of this information, this firm will put into practice this request after checking with legal standards and commonly accepted ideas. Additionally, the subject of this personal information can disclose, correct and delete this personal information from this firm's web site. Please confirm the following official statements based on the "Laws regarding the protection of personal information." 
 
 ### 6\. The official purpose of use for personal information.
 
-  1. This firm’s main business is the implementation of surveys through which we examine and acquire the awareness and state of the products and services offered by our members and then statistically process this information and our purpose of use is to offer this information to companies and organizations. The personal information we collect is, as a general rule, used as statistical information and this firm will not disclose any information that can be used to identify an individual.
-  2. Those who participate as the target groups for our surveys are required to register beforehand. This registration method requires that those who register clearly understand our purpose of use as per our personal information protection policy and that they themselves consent to this policy.
-  3. Those who participate as the target groups for the “surveyon” surveys are awarded points and when these points are exchanged, information related to these points is provided to the companies the participants are exchanging their points with. For more information with regards to the companies that these points can be traded with, please refer to the point exchange page.
+This firm's main business is the implementation of surveys through which we examine and acquire the awareness and state of the products and services offered by our members and then statistically process this information and our purpose of use is to offer this information to companies and organizations. The personal information we collect is, as a general rule, used as statistical information and this firm will not disclose any information that can be used to identify an individual.
 
+Those who participate as the target groups for our surveys are required to register beforehand. This registration method requires that those who register clearly understand our purpose of use as per our personal information protection policy and that they themselves consent to this policy.
 
+Those who participate as the target groups for the "surveyon" surveys are awarded points and when these points are exchanged, information related to these points is provided to the companies the participants are exchanging their points with. For more information with regards to the companies that these points can be traded with, please refer to the point exchange page.
 
 ### 7\. Personal information in our possession
 
-“Personal information in our possession” refers to personal information with which we have the authority to disclose, correct, supplement, delete, suspend the usage of, delete and suspend the supply to third parties of. 
+"Personal information in our possession" refers to personal information with which we have the authority to disclose, correct, supplement, delete, suspend the usage of, delete and suspend the supply to third parties of. 
 
-  1. The user may confirm, correct, supplement and delete the personal information in our possession on this firm’s website.
-  2. Those customers who cannot perform the previous actions on their personal information, please contact our firm’s “Personal Information Inquiry Point of Contact.” However, there are instances that we cannot agree to these requests due to the Personal Information Protection Law.
-  3. In the event that a customer deletes their personal information, they may not be able to use all or part of this service.
-  4. In the event that a customer’s data is deleted due to a computer failure, other unforeseen event or human error, this firm may have this information backed up. No procedures can be done to confirm the nature of this backed up data.
+The user may confirm, correct, supplement and delete the personal information in our possession on this firm's website.
 
+Those customers who cannot perform the previous actions on their personal information, please contact our firm's "Personal Information Inquiry Point of Contact." However, there are instances that we cannot agree to these requests due to the Personal Information Protection Law.
 
+In the event that a customer deletes their personal information, they may not be able to use all or part of this service.
+
+In the event that a customer's data is deleted due to a computer failure, other unforeseen event or human error, this firm may have this information backed up. No procedures can be done to confirm the nature of this backed up data.
 
 ### 8\. Providing Personal Information to Third Party
 
-This firm will not supply personal information to third party without the person’s consent. However, under the following circumstances, this firm must supply this information even without the user’s consent. 
+This firm will not supply personal information to third party without the person's consent. However, under the following circumstances, this firm must supply this information even without the user's consent. 
 
-  1. The law requires this disclosure
-  2. Getting the person’s consent is difficult and this information is required to protect the life, health or property of the user.
-  3. Getting the person’s consent is difficult and this information is required for an improvement to public health or the promotion of a child’s health.
-  4. This firm must disclose this information to aid a government organization, local public body or a person who takes a similar position and decides the laws and gaining the approval of the user would hinder the operation of this organization.
+The law requires this disclosure:
+
+  * Getting the person's consent is difficult and this information is required to protect the life, health or property of the user.
+  * Getting the person's consent is difficult and this information is required for an improvement to public health or the promotion of a child's health.
+  * This firm must disclose this information to aid a government organization, local public body or a person who takes a similar position and decides the laws and gaining the approval of the user would hinder the operation of this organization.
 
 
 
@@ -67,7 +76,7 @@ This firm will not supply personal information to third party without the person
 
 This firm is aware of the importance of safely maintaining personal information and is taking all possible safety measures. Please contact the following contact point for Research Panel Asia, Inc. for any inquires. 
 
-  1. This firm’s point of contact for inquires for personal information 
+  1. This firm's point of contact for inquires for personal information 
     * a. Address: 8F First Place Bldg., Shinsen-cho 8-16, Shibuya, Tokyo, Japan
     * b. Email Address: 
 
