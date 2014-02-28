@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yovia.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208222346id_/http%3A//yovia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yovia.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228090700id_/http%3A//yovia.com/privacy.html) for the most accurate reproduction.*
 
 # Yovia - Privacy Policy
 
@@ -9,7 +9,7 @@ Our postal address is:
 Jacksonville Beach, Fl 32250   
 
 
-We can be reached via e-mail at [ info@yovia.com](https://web.archive.org/web/20131208222346id_/http%3A//yovia.com/%E2%80%9Dmailto:info@yovia.com%E2%80%9D), or you can reach us by telephone at 904-242-2669. 
+We can be reached via e-mail at [ info@yovia.com](https://web.archive.org/web/20140228090700id_/http%3A//yovia.com/%E2%80%9Dmailto:info@yovia.com%E2%80%9D), or you can reach us by telephone at 904-242-2669. 
 
 _How We Collect Information_
 
