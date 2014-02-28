@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the flash-game.net privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013021141id_/http%3A//www.flash-game.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flash-game.net privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301005316id_/http%3A//www.flash-game.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy by Flash Game
 
-[](https://web.archive.org/free-games/shooting-games.php) [](https://web.archive.org/free-games/board-games.php) [](https://web.archive.org/free-games/fighting-games.php) [](https://web.archive.org/free-games/racing-games.php) [](https://web.archive.org/search.php?q=escape) [](https://web.archive.org/search.php?q=mario)
+[](https://web.archive.org/search.php?q=ski)
 
 ##  Privacy Policy 
 
