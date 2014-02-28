@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mel.org privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230175254id_/http%3A//www.michigan.gov/som/0%2C1607%2C7-192-26914-2088--%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mel.org privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228204619id_/http%3A//www.michigan.gov/som/0%2C1607%2C7-192-26914-2088--%2C00.html) for the most accurate reproduction.*
 
-# SOM - Terms of Use, Privacy Policy, and Linking Policy
+# SOM - &nbsp;
 
 ### Terms of Use, Privacy Policy, and Linking Policy
 
