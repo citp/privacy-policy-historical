@@ -1,6 +1,218 @@
-> *The following text is extracted and transformed from the activeyou.co.uk privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818183750id_/http%3A//new.activeyou.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activeyou.co.uk privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228053439id_/http%3A//www.activeyou.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Active You - Play.Win.Save
+
+DATA COLLECTION NOTICE
+
+Here is our list of valued, third party data partners who may send you marketing messages.
+
+**Automotive**
+
+Alfa Romeo
+
+BMW
+
+Chysler
+
+Citroen
+
+Fiat
+
+Jeep
+
+Lexus
+
+Mini
+
+Volvo
+
+**Broadband**
+
+National Broadband Service
+
+**Charity**
+
+Great Ormond Street
+
+Marie Curie
+
+NSPCC
+
+PDSA
+
+**Competition Sites**
+
+Get Me A Ticket
+
+Offerx
+
+UKPrize
+
+**Daily Deals**
+
+Bespoke Offers
+
+Go Groopie
+
+Here For A Day
+
+**Fashion**
+
+Barbour
+
+Next
+
+Shop Direct
+
+**Freebie Sites**
+
+FreebiesWorld.co.uk
+
+Freestuff.eu
+
+**Gambling**
+
+Play2WinCasino
+
+Winner.com
+
+**Gardening**
+
+MBL Group
+
+**General Marketing**
+
+Clickbooth
+
+DMLS
+
+The Trading Floor
+
+XL Marketing
+
+**Health**
+
+Optical Express
+
+Ultralase
+
+**Home & Lifestyle**
+
+Hillarys
+
+Huggies
+
+My Survey
+
+Sky
+
+TARA
+
+The Sun+
+
+Toluna
+
+**Home Improvement**
+
+Thomas Sanderson
+
+**Life Insurance**
+
+BestLifeCover
+
+Media Tactics
+
+Prime Life Cover
+
+Protected
+
+**Lottery**
+
+European Lottery Guild
+
+LottoBytext
+
+**Pension**
+
+Media Bowl
+
+Media Tactics
+
+Pension Right Limited
+
+**Personal Injury**
+
+Accidents Direct
+
+Choose Leads
+
+Media Tactics
+
+**PPI**
+
+Claims Advisory Group
+
+Leadx (Claims Guys)
+
+Lion Claim Line
+
+Media Tactics
+
+**Telecommunications**
+
+Carphone Warehouse
+
+O2
+
+Vodaphone
+
+**Travel**
+
+Bono Tours
+
+CheapFlights
+
+Cruise Club
+
+Deal Checker
+
+Easy Voyage
+
+Lifestyle Media
+
+P&O
+
+Paul Raybould Marketing
+
+Qatar Airlines
+
+SAGA
+
+Skyscanner
+
+Visit Scotland
+
+Visit Wales
+
+Voyage Prive
+
+Warner Leisure
+
+Web-Clubs
+
+**Utilities**
+
+British Gas
+
+Npower
+
+PDV
+
+Purify
+
+Scottish Power
+
+Uswitch
 
 HOW WE USE YOUR INFORMATION
 
