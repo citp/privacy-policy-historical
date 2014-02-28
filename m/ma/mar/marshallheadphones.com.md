@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marshallheadphones.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231025213id_/http%3A//www.marshallheadphones.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marshallheadphones.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228111542id_/http%3A//www.marshallheadphones.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Marshall Headphones
 
@@ -51,4 +51,4 @@ Zound Industries is committed to keeping your personal information secure agains
 
 Privacy Contact Information
 
-If you have any questions, concerns or comments about our privacy policy you may contact us at this address: info@marshallheadphones.com.
+If you have any questions, concerns or comments about our privacy policy you may contact us at this address: [info@marshallheadphones.com](mailto:info@marshallheadphones.com)
