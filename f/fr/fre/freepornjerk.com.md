@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepornjerk.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006015830id_/http%3A//freepornjerk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepornjerk.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228204021id_/http%3A//www.freepornjerk.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
