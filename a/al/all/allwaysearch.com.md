@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allwaysearch.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029231934id_/http%3A//allwaysearch.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allwaysearch.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228051017id_/http%3A//allwaysearch.com/policy.php) for the most accurate reproduction.*
 
 # 
 
@@ -30,7 +30,7 @@ ALLWAYSEARCH.COM may update this Privacy Policy from time to time. We may notify
 
 ### TERMS OF USE:
 
-Use of the Site and our services are governed by the provisions contained in the Terms of Use located [here](https://web.archive.org/web/20131029231934id_/http%3A//allwaysearch.com/tou.php). Your use, or access, of the Site and our Service constitutes your agreement to be bound by these provisions. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE OR THE SERVICE. 
+Use of the Site and our services are governed by the provisions contained in the Terms of Use located [here](https://web.archive.org/web/20140228051017id_/http%3A//allwaysearch.com/tou.php). Your use, or access, of the Site and our Service constitutes your agreement to be bound by these provisions. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE OR THE SERVICE. 
 
 ### CONTACTING US:
 
