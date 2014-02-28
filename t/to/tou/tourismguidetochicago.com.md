@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tourismguidetochicago.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224024343id_/http%3A//www.tourismguidetochicago.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tourismguidetochicago.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228041133id_/http%3A//www.tourismguidetochicago.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tourism Guide to Chicago
 
