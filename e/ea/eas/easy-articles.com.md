@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the easy-articles.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104155103id_/http%3A//www.easy-articles.com/Privacy-Policy-CM11.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easy-articles.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228135557id_/http%3A//www.easy-articles.com/Privacy-Policy-CM11) for the most accurate reproduction.*
 
-# Welcome To Easy Article
-
-|  | 
+# Easy Article - Privacy Policy - Easy Articles
 
 **Easy-Articles.com Privacy Policy**
 
@@ -77,6 +75,4 @@ Easy-articles.com Privacy Matters
 A Divison of Easy Media Network LLC  
 [Contact Easy-articles.com](http://www.easymedianetwork.com/)  
 <!--[if !supportLineBreakNewLine]-->  
-<!--[endif]-->  
-  
----|---
+<!--[endif]-->
