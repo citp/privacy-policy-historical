@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeschoolmath.net privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202011039id_/http%3A//www.homeschoolmath.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeschoolmath.net privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228215531id_/http%3A//www.homeschoolmath.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy of www.homeschoolmath.net
 
@@ -24,12 +24,12 @@ You can choose to disable or selectively turn off the third-party cookies in you
 
 To see Amazon's and Google's privacy policies, click here: [Amazon.com Privacy Notice](http://www.amazon.com/exec/obidos/tg/browse/-/468496/102-6533223-3461729) or [Google Ads Privacy Policy](http://www.google.com/privacy_ads.html). 
 
-The website is owned and maintained by Maria Miller. If you have an enquiry or concern about our privacy policy, please [contact me here](https://web.archive.org/web/20131202011039id_/http%3A//www.homeschoolmath.net/question.php).
+The website is owned and maintained by Maria Miller. If you have an enquiry or concern about our privacy policy, please [contact me here](https://web.archive.org/web/20140228215531id_/http%3A//www.homeschoolmath.net/question.php).
 
 ****** | 
 
-[](http://www.ixl.com/promo?partner=homeschoolmath.net&utm_source=homeschoolmath.net&utm_medium=banner&utm_campaign=partner)
-
-[](http://www.mathnook.com/)
+[](http://www.adaptedmind.com/)
 
 [](http://www.ixl.com/promo?partner=homeschoolmath.net&utm_source=homeschoolmath.net&utm_medium=banner&utm_campaign=partner)
+
+[](http://www.teacher4-u.com/Online-Lessons1.html "Free Algebra and Geometry Lessons  www.teacher4-u.com")
