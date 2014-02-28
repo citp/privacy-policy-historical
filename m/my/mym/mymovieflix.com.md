@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mymovieflix.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523034053id_/http%3A//mymovieflix.com/Private_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymovieflix.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301004032id_/http%3A//www.mymovieflix.com/Private_policy.php) for the most accurate reproduction.*
 
-# Mymovieflix: Breaking News, Latest Andhra News, Telangana News, Politics, Entertainment, Video News,Reviews,Tollywood Reviews,Andhra Pradesh News
+# Political News, Movie News, Reviews, Latest Gallery, Movie and Political Gossips - Mymovieflix
 
 www.mymovieflix.com
 
