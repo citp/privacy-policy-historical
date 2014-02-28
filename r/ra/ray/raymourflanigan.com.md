@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raymourflanigan.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918035915id_/http%3A//www.raymourflanigan.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raymourflanigan.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228121238id_/http%3A//www.raymourflanigan.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Raymour and Flanigan Furniture Customer Care | Privacy Policy
 
@@ -72,7 +72,7 @@ Some browser versions and some firewalls don't permit communication through secu
 
     * ###  Accessing and Updating Your Information 
 
-You always have the opportunity to review and change the information you provide to us by logging into the site and entering in the new information yourself. You can edit your name, contact information and preferences by logging into the [My Account](https://web.archive.org/web/20130918035915id_/http%3A//www.raymourflanigan.com/login.aspx) section of the site and then click on "Update Your Contact Information."
+You always have the opportunity to review and change the information you provide to us by logging into the site and entering in the new information yourself. You can edit your name, contact information and preferences by logging into the [My Account](https://web.archive.org/web/20140228121238id_/http%3A//www.raymourflanigan.com/login.aspx) section of the site and then click on "Update Your Contact Information."
 
 As a customer or subscriber, you will occasionally receive e-mail communications about new Raymour & Flanigan products, special offers we think you'll like and requests for feedback. Raymour & Flanigan is an opt-out organization. You always have the ability to opt in or opt out of receiving future marketing communications from Raymour & Flanigan.
 
