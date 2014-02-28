@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the namerific.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207024131id_/http%3A//www.namerific.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namerific.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228214636id_/http%3A//www.namerific.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Namerific
 
 **Privacy Policy**
 
-_Last Modified: 12/12/2012_
+_Last Modified: _Feb 13th, 2014 at 04:34AM Pacific Standard Time__
 
 Your privacy is important to us. This privacy statement provides information about the personal information that we may collect, and the ways in which we may use that personal information.
 
@@ -19,14 +19,12 @@ collect and use the following kinds of personal information:
 • Your Full Name  
 • Your Billing and/or Home Address  
 • Your Phone Number(s)  
-• Your Personal, Business, or Paypal Email Address(s)  
+• Your Personal, Business, Domain Registrar, or Paypal Email Address(s)  
 • Your Domain Registrar Customer Number(s) or User ID(s)  
 • Your Driver's License, State ID Card, or Passport  
-• Your Bank Account Information (We 
-
-_only_
-
-request this via telephone. This is never stored electronically.)  
+• Your Bank Account Information  
+• Your Domain Registrar Account Number(s)  
+• Your Social Networking Usernames (Skype, Twitter, etc)  
 • Your IP Address
 
 **_Using personal information_**
@@ -43,6 +41,10 @@ We may use your personal information to:
 Where we disclose your personal information to agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement.
 
 In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, we may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings.
+
+**_Transaction Privacy After A Domain Purchase_**
+
+Unless you've notified us after a purchase to request transaction privacy via non-disclosure agreement or other similar agreement, Namerific has the full right to print, distribute, copy, display electronically, share, market, discuss, and/or publicize your purchased 'domain name(s)' including logo(s) on Namerific and any other place Namerific deems necessary, such as for the purpose of marketing. Namerific may also pubicize the 'sale' price of the aforementioned purchased domain(s).
 
 **_Securing your data_**
 
