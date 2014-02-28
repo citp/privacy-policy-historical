@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yumdrop.com privacy policy that was archived on 2013-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131004044138id_/http%3A//www.yumdrop.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yumdrop.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228095804id_/http%3A//www.yumdrop.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Yumdrop Privacy Policy
 
