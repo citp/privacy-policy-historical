@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danceworld.ie privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229194801id_/http%3A//www.danceworld.ie/section/Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danceworld.ie privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228181132id_/http%3A//www.danceworld.ie/section/Policy) for the most accurate reproduction.*
 
 # Dance World - Dancewear and dance shoes in Dublin. Ireland's online dance store for all dance wear. Danceworld
 
