@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamepix.com privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011050235id_/http%3A//www.gamepix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamepix.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228121326id_/http%3A//www.gamepix.com/privacy) for the most accurate reproduction.*
 
-# GamePix - Play free games & conquer the world!
+# Read here our Privacy Policy - GamePix
 
 **GamePix Privacy Policy**
 
@@ -38,7 +38,7 @@ Links and Third Parties
 
 From time to time we may include at the Site links to other websites as a service to you. The third party sites are operated by companies that are outside of our control, and your activities at those sites will be governed by the policies and practices of those third parties. We encourage you to review the privacy practices of these third parties before disclosing any personally identifiable information, as we are not responsible for the privacy practices of those sites.
 
-We sometimes work with third parties to add features or advertisements to our Site. These third parties may place cookies on your browser when you visit certain pages of our Site, or collect cookies that they have previously placed, along with the URL of the page you visited. We do not control those third parties or their use of data. In some cases we may provide tools for you to limit data sent to third parties. This privacy policy does not cover those third partiesâ use of data.
+We sometimes work with third parties to add features or advertisements to our Site. These third parties may place cookies on your browser when you visit certain pages of our Site, or collect cookies that they have previously placed, along with the URL of the page you visited. We do not control those third parties or their use of data. In some cases we may provide tools for you to limit data sent to third parties. This privacy policy does not cover those third partiesÃ¢ÂÂ use of data.
 
 To personalize the Site, and to simplify the registration process, we give you the option to link your account with Facebook. When you link your account, Facebook may share data about you with us, and we may share information about you with Facebook. In addition, GamePix users who are your friends on Facebook will be shown your GamePix username if you have both linked your Facebook accounts. 
 
