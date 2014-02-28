@@ -1,101 +1,66 @@
-> *The following text is extracted and transformed from the casinotropez.com privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924234334id_/http%3A//www.casinotropez.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinotropez.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228100201id_/http%3A//www.casinotropez.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
-# Protecting your privacy
+# Casino Tropez Privacy Policy
 
-##### Casino Tropez and its subsidiaries are committed to respecting and protecting your privacy.
+##  Our ‘Do's and Don’ts’ Regarding Your Personal Information
 
-The following statement discloses the information gathered by Casino Tropez.
+Casino Tropez and its subsidiaries are committed to respecting and protecting your privacy at every stage of interaction with our site and software. Please read our privacy policy section for answers to these common privacy questions and concerns:
 
-As part of the web site's operation and for our own statistical analysis of site traffic, our web site automatically logs Internet IP addresses accessing our site. We do NOT log any e-mail address of web site visitors.
+•    Website and Advertising System: What information is logged when you visit our website  
+•    Email: When and why we’ll send you emails  
+•    Account Information: How we intend to use your personal account information  
+•    Winnings: What information we disclose when you win
 
-* * *
+##  Website Privacy Policy
 
-Mail policy
+For purposes of statistical analysis and displaying localized information, the CasinoTropez.com website automatically logs all Internet IP addresses which access our site. The email addresses of our site visitors, however, are never logged.
 
-We do not tolerate spam.   
-We received your consent for communication via email.   
-We send you promotional emails and updates until such time as you inform us that you do not wish to continue to receive them. 
+##  Email Privacy Policy
 
-You may notify us of your wish to unsubscribe at any time by: 
+When signing up and registering an account with Casino Tropez, you will be requested to provide a valid personal email address.  We use this email address to notify you of important updates to your account, as well as to share our latest bonus offers and exclusive rewards.
 
-• Click on the unsubscribe link shown in all casinotropez.com email offers and follow the instructions.   
-• Call us, Tol Free - Canada: +1-800-947-1351   
-    UK: 0800-047-0695   
-    International phone - +632-756-7946   
-• online chat   
-• email us to [support@casinotropez.com](mailto:support@casinotropez.com)
+**If you prefer not to receive promotional emails, simply notify us of your wish to unsubscribe at any time by:**
 
-On receiving your notice, we will immediately stop sending you such e-mails and updates. 
+• Clicking on the unsubscribe link displayed in all CasinoTropez.com email offers and following the instructions  
+• Calling us at our toll free numbers: Canada: +1-800-947-1351; UK: +44-800-047-0695; International: +632-756-7946  
+• Contacting a support representative in our online chat windows  
+• Sending a blank email to support [at] casinotropez [dot] com and including the word ‘remove’ in the subject line.
 
-If you continue to receive from us promotional e-mails and updates or any other unsolicited communication after you have asked us to unsubscribe, please report to us at [abuse@casinotropez.com](mailto:abuse@casinotropez.com). 
+On receiving your notice, we will immediately cancel this service. If you continue to receive our promotional emails and updates or any other unsolicited promotional communication after asking to be unsubscribed, please report to us at abuse [at] casinotropez [dot] com.
 
-* * *
+##  Account Creation Information
 
-Our advertising system logs IP addresses to supply more accurate advertising features, such as language specific banners. It does NOT log any e-mail addresses.
+###  Use of Personal Information
 
-* * *
+The personal information that we ask you to provide when creating your Casino Tropez account is used for the following purposes:
 
-Account Creation Information
+•    (a) creating and managing player accounts and records  
+•    (b) administering player accounts  
+•    (c) providing and personalizing our services  
+•    (d) dealing with your enquiries and requests  
+•    (e) notifying you of updates to our software and/or services  
+•    (f) ensuring we are able to fulfill our regulatory responsibilities by verifying the accuracy of any information you provide us;  
+•    (g) our general regulatory compliance, crime prevention and prosecution of offenders including, where appropriate, dealing with  requests for information by authorized entities for the sharing of information  
+•    (h) carrying out market research campaigns  
+•    (i) providing you with information about and support for products and services  
+•    (j) marketing our services or products or those of other entities within our group of companies; and  
+•    (k) supporting any of the intended purposes specifically stated at the time at which you provided the personal information  
+These are the “ **Purposes** ” for which we may collect personal data.
 
-**Information collected**  
-We collect personal information from visitors to this web site through the use of online forms and every time you e-mail us your details. We also collect information about the transactions you undertake including details of payment cards used. The personal information that we collect may include your name, email address, home address, telephone number, debit/credit card data and date of birth and other information collected on registration or through surveys which we, or undertakings engaged by us for such purpose, shall undertake.
+###    
+Disclosure of Personal Information
 
-**Use of personal information**
+We may, for the Purposes stated above, disclose your personal information to the following recipients (“Recipients”):
 
-We process your personal information for the purposes of: 
+•    (i) any companies within our group and to their employees who have a need to know such information;  
+•    (ii) any third parties which provide services to us in order to allow or enable us to provide you with gaming services, including by way of example payment processors and data verifiers;  
+•    (iii) any third parties who provide services to us in relation to the operation of Casino Tropez;  
+•    (iv) any auditors, contractors or other advisers auditing any of our business processes or who have the need to access such  information for the purpose of advising us;  
+•    (v) any regulatory body or authorized entity who may have any reasonable requirement to access such personal information; and  
+•    (vi) any potential purchasers of the Casino Tropez business or any investors in it or in any company within our group.
 
-  * (a) creating and managing player accounts and records;
-  * (b) administering player accounts;
-  * (c) providing and personalising our services;
-  * (d) dealing with your enquiries and requests;
-  * (e) notifying you about updates to our software and/or services;
-  * (f) ensuring we are able to fulfil our regulatory responsibilities by verifying the accuracy of any information you give us;
-  * (g) our general regulatory compliance, crime prevention and prosecution of offenders including, where appropriate, dealing with requests for information by authorised entities for the sharing of information;
-  * (h) carrying out market research campaigns;
-  * (i) providing you with information about and support for products and services;
-  * (j) marketing our services or products or those of other entities within our group of companies; and
-  * (k) supporting any of the intended purposes specifically stated at the time at which you provided the personal information.
+##  Winnings
 
+Your winnings and cash-outs are kept strictly confidential, and all winnings information is stored in secure operating environments. Casino Tropez keeps your winnings data private and does not provide information to third parties unless such information is required to be disclosed by law. For promotional purposes, however, we may post your first name, the first initial of your last name, and your country, on the leaderboard of our [Casino Tropez Winners](http://www.casinotropez.com/club-tropez/winners.html) page.
 
-
-These are the **“Purposes”** for which we may collect personal data. 
-
-If you do NOT want to receive any e-mail from us, please send us a blank e-mail with the word "remove" in the subject to [support@casinotropez.com](mailto:support@casinotropez.com)
-
-**Disclosure of personal information**
-
-We may, for the Purposes, disclose your personal information to any of the following recipients (“Recipients”): 
-
-  * (i) any companies within our group and to their employees who have a need to know such information;
-  * (ii) any third parties which provide services to us in order to allow or enable us to provide you with gaming services, including by way of example payment processors and data verifiers;
-  * (iii) any third parties who provide services to us in relation to the operation of Casino Tropez;
-  * (iv) any auditors, contractors or other advisers auditing any of our business processes or who have the need to access such information for the purpose of advising us;
-  * (v) any regulatory body or authorised entity who may have any reasonable requirement to access such personal information; and
-  * (vi) any potential purchasers of the Casino Tropez business or any investors in it or in any company within our group.
-
-
-
-* * *
-
-Your winnings and cash-outs are kept strictly confidential, and winnings information is stored in secure operating environments. Casino Tropez keeps your winnings information private and does not provide this information to any third party unless such information is required to be disclosed by law, regulation or any governmental or competent regulatory authority. 
-
-* * *
-
-We maintain the utmost available means to ensure that your information remains safe with us. All information is transferred using encryption technologies and once stored on our servers, it is maintained safe using the latest firewall technologies available today. Both our web site and software use all available means to maintain data accuracy and privacy and to protect your data from being misused and/or lost.
-
-If you have any other questions or concerns regarding data privacy and security please do not hesitate to contact our Customer Support center at any time, 24 hours a day, 7 days a week. Our representatives will be more than happy to assist you.
-
-* * *
-
-Our Certifications and What They Mean
-
-**Turbo SSL® certificate**  
-Casino Tropez under the name of the casino group uses a GoDaddy.com Turbo SSL® certificate to ensure 100% security and protection. A SSL certificate is a digital certificate that authenticates the identity of a Web site to visiting browsers and encrypts information for the server via Secure Sockets Layer (SSL) technology. GoDaddy.com SSL certificates support both industry-standard 128-bit (used by all banking infrastructures to safeguard sensitive data) and high-grade 256-bit SSL encryption to secure online transactions.
-
-**TST Technical Systems Testing.**  
-TST Technical Systems Testing North America Incorporated is a well-known and respected statistical and technical software testing firm, located in Vancouver, BC Canada. They test all of our poker and casino games to industry-standard levels of fairness and accuracy, and issue letters of compliance for sites that satisfy these stringent standards. Note: all our gaming software is written by PlayTech, the leading software provider in the gaming industry. Therefore, the TST compliance letters feature PlayTech’s name. As a PlayTech client, we use their software without alteration and therefore can display this logo and the compliance letter that it links to. TST compliance letters for our poker and casino games can be accessed from the hyperlinks at the bottom of our webpage. 
-
-  
-
-
-* * *
+If you still have questions or concerns regarding data privacy and at Casino Tropez, please do not hesitate to contact our Customer Support center at any time, 24 hours a day, seven days a week. Our representatives will be happy to assist you.
