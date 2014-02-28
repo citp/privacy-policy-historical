@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siriusxm.ca privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915223011id_/http%3A//www.siriusxm.ca/Legal/Privacy-Policy-Sirius.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siriusxm.ca privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228135747id_/http%3A//www.siriusxm.ca/Legal/Privacy-Policy-Sirius.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Sirius - SiriusXM Canada
 
@@ -50,7 +50,7 @@ When you view our site, we may store some information on your computer in the fo
 
 Children
 
-We do not sell or market, knowingly solicit information from, or sell products or services for purchase for people under 18. We encourage all parents or guardians to instruct their children in the safe and responsible use of their personal information while using the Internet. If you are a parent of a child under the age of 18, and your child has submitted personal information to Sirius either through the website or over the telephone, you may contact us at [ privacy@siriuscanada.ca](https://web.archive.org/web/20130915223011id_/http%3A//www.siriusxm.ca/Legal/privacy@siriuscanada.ca "mailto:privacy@siriuscanada.ca")and we will delete any personally identifiable information about your child as soon as reasonably possible.
+We do not sell or market, knowingly solicit information from, or sell products or services for purchase for people under 18. We encourage all parents or guardians to instruct their children in the safe and responsible use of their personal information while using the Internet. If you are a parent of a child under the age of 18, and your child has submitted personal information to Sirius either through the website or over the telephone, you may contact us at [ privacy@siriuscanada.ca](https://web.archive.org/web/20140228135747id_/http%3A//www.siriusxm.ca/Legal/privacy@siriuscanada.ca "mailto:privacy@siriuscanada.ca")and we will delete any personally identifiable information about your child as soon as reasonably possible.
 
 How do we use your Personal Information?
 
