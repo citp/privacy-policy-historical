@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegefuckfest.com privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825124431id_/http%3A//track.collegefuckfest.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegefuckfest.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228080259id_/http%3A//track.collegefuckfest.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
