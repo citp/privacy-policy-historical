@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fetfan.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027013035id_/http%3A//www.fetfan.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetfan.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228195638id_/http%3A//www.fetfan.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy » FETFAN Magazine
 
