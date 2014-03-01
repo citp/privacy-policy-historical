@@ -1,21 +1,17 @@
-> *The following text is extracted and transformed from the mytyres.co.uk privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816231553id_/http%3A//www.mytyres.co.uk/datenschutz.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytyres.co.uk privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301121605id_/http%3A//www.mytyres.co.uk/datenschutz.html) for the most accurate reproduction.*
 
 # Delticom Privacy Policy - Tyres online @ mytyres.co.uk
 
-[](https://web.archive.org/web/20130816231553id_/http%3A//www.mytyres.co.uk/index.html)
+[](https://web.archive.org/web/20140301121605id_/http%3A//www.mytyres.co.uk/index.html)
 
-ADVICE 
+Contact us
 
 0808 1891233   
 freephone  
   
 ---  
   
-| 
-
-[](https://www.trustedshops.co.uk/shop/certificate.php?shop_id=X00F08393D989000AE4736C0DE7753F66)
-
-|  |   
+|  |  |   
 ---  
   
 Data protection as per: 7th of March 2007 
@@ -41,6 +37,15 @@ We collate the following information:
 In order to be able to make your emails more useful and interesting we often receive a confirmation which of the Delticom emails you open, as far as your computer supports this function. Subsequent to each order you have got the opportunity to take part in a survey. If you participate you can grant us the permission to send you offers or the like. We also offer you the possibility to register for our newsletter e.g. at http://www.mytyres.co.uk. If you would not like to receive any emails from us in principle, please send an email to: mytyres.co.uk@delti.com. In the future you may choose your preferences as appropriate via your user account "[Your orders](http://www.mytyres.co.uk/cgi-bin/yourorder.pl?dsco=110)". 
 
   * **Information from other sources** : Occasionally we also use information about you from other sources and add these to our information about your customer account. We reserve the right to obtain information from third parties (e.g. mail-order companies, commercial credit agencies) in order to offer you certain payment possibilities (e.g. purchase on account) or other financial services. 
+
+For our website we enlist the services of IT security service provider Device Indent GmbH. All communication between us and Device Indent is done exclusively for the prevention of fraud when using our website. 
+
+**Data storage:** Device Indent collects and processes specific data from our users anonymously using cookies and tracking technologies. This includes certain data for the configuration of the device used by the user (data specific to the device), raw data from the TCP/IP connection and data relating to the use of our website. For technical reasons, the IP addresses of our users are also collected and processed by Device Indent, but encrypted within seconds by them. The information is added to Device Indent's database for fraud prevention. 
+
+**Data retrieval:** If the user initiates or concludes a contract on our website, e.g. by opening a user account or beginning the checkout process to purchase a particular item, we will request a risk assessment from Device Indent's database that was added for the device used by the user. This risk assessment is based on the following information among other details, (a) whether the user's device has previously communicated/is currently communicating via a proxy connection, (b) whether the device has recently connected to different internet service providers, (c) whether the device shows/has shown a frequently changing geo-reference, (d) how many internet transactions have been made using the device in a recent time period (however, it is not visible what type of transactions have been made), and (e) how likely it is that the device left in the Device Indent database actually belongs to the user. The result of this risk assessment helps us to prevent fraud attempts on our website. This data is, however, not the sole criterion for the completion or possible termination of a purchase.
+
+**Data transfer:** We also transfer Device Indent data if to the best of our knowledge a user has fraudulently obtained/tried to obtain a contract with us. In doing so, only these facts along with the respective user data specific to the device will be transferred, not including the user's name, address or similar contact details. 
+
   * **If you order complete tyres or rims from us** : In this case we require your registration document and your car licence respectively. What does Delticom need such data for? 
     1. If the complete tyres or rims you ordered are not available for once we require your registration document and your car licence respectively in order to be able to offer you an alternative. 
     2. We use the data in order to carry out an additional authentication of your order details.
@@ -117,7 +122,7 @@ If you have any questions regarding Delticom's data protection, please, write - 
 
 #### Related topics
 
-[General Terms and Conditions](https://web.archive.org/web/20130816231553id_/http%3A//www.mytyres.co.uk/AGBs.html)
+[General Terms and Conditions](https://web.archive.org/web/20140301121605id_/http%3A//www.mytyres.co.uk/AGBs.html)
 
 #### Information you provide us with 
 
