@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screened.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230155050id_/http%3A//auth.screened.com/privacy/%3Ffrom_site%3Dscreened) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screened.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301032236id_/http%3A//auth.screened.com/privacy/%3Ffrom_site%3Dscreened) for the most accurate reproduction.*
 
 # Screened
 
