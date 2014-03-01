@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the girlgames247.com privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914231801id_/http%3A//www.girlgames247.com/page/2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlgames247.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301225832id_/http%3A//www.girlgames247.com/page/2.html) for the most accurate reproduction.*
 
 # Girl Games at Free Online Girl Games and Games for Girls - Privacy Policy
-
-## Privacy Policy
 
 **Privacy Policy for FreeGames.NET**
 
@@ -25,9 +23,3 @@ We also use third party advertisements on FreeGames.NET to support our site. Som
 * Users may opt out of the use of the DART cookie by visiting the[ Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
-
-| 
-
-### Free Online Games
-
-### Members
