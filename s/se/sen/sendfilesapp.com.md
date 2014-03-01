@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendfilesapp.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211212528id_/http%3A//www.sendfilesapp.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendfilesapp.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301170342id_/http%3A//www.sendfilesapp.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # 
 
