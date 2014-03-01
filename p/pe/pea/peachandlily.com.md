@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peachandlily.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129090846id_/http%3A//www.peachandlily.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peachandlily.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301075450id_/http%3A//www.peachandlily.com/pages/privacy) for the most accurate reproduction.*
 
 # PRIVACY | Peach and Lily
 
