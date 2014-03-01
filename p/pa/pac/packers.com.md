@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the packers.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014120755id_/http%3A//www.packers.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packers.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301075415id_/http%3A//www.packers.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Packers.com | Privacy Policy
 
@@ -128,7 +128,7 @@ As explained in this privacy policy, whenever you agree to let us collect person
 
 Because this website has a comprehensive privacy policy and provides you with details on how you may opt-in / opt-out of the use of your personal information by third parties for direct marketing purposes, we are not required to provide you with this information.
 
-If you are a California resident and have questions about our compliance with this law, please send an email to [CAprivacyRights@packers.com](mailto:CAprivacyRights@packers.com) or write to us at CA Privacy Rights, Green Bay Packers, 1265 Lombardi Avenue, Green Bay, WI 54304.
+If you are a California resident and have questions about our compliance with this law, please send an email to [CAprivacy@packers.com](mailto:CAprivacy@packers.com) or write to us at CA Privacy Rights, Green Bay Packers, 1265 Lombardi Avenue, Green Bay, WI 54304.
 
 Questions About This Privacy Policy
 
