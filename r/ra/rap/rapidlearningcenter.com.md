@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidlearningcenter.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231083240id_/http%3A//www.rapidlearningcenter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidlearningcenter.com privacy policy that was archived on 2014-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140302004050id_/https%3A//www.rapidlearningcenter.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Rapid Learning Center
 
@@ -12,10 +12,11 @@ US Direct: (714) 692-2900
 Int'l: 001-714-692-2900 
 
 24/7 Technical Support:  
-[The Rapid Support Center](https://web.archive.org/web/20121231083240id_/http%3A//www.rapidlearningcenter.com/contact.html)
+[The Rapid Support Center](https://web.archive.org/web/20140302004050id_/https%3A//www.rapidlearningcenter.com/contact.html)
 
-Online Order:  
-[](https://zv951.infusionsoft.com/cart/store.jsp?view=5&i=18&navicat=18)  
+Secure Online Order:
+
+[](https://www.rapidlearningcenter.com/members/cart/index/index?c=2)  
   
   **Member Login:**  
 ---  
@@ -28,7 +29,6 @@ Password:  |
 ---  
   
 Have friends taking science and math courses too? Tell them about our rapid learning system.   
-  
   
   
 
@@ -53,6 +53,8 @@ Our web sites routinely collect and store information from online visitors to he
 
 Cookies are pieces of information stored by your web browser on behalf of a web site and returned to the web site on request. This site may use cookies for two purposes: to carry data about your current session at the site from one web page to the next, and to identify you to the site between visits. If you prefer not to receive cookies, you may turn them off in your browser, or may set your browser to ask you before accepting a new cookie. Some pages may not function properly if the cookies are turned off. Unless otherwise notified on this site, we will not store data, other than for these two purposes, in cookies. Cookies remain on your computer, and accordingly we neither store cookies on our computers nor forward them to any external parties. Unless otherwise notified on this site, we do not use cookies to track your movement among different web sites and do not exchange cookies with other entities.
 
+Visitors can opt out of Google's use of cookies by visiting Google's [Ads Settings](http://www.google.com/settings/ads). 
+
 **Information Voluntarily Provided by You** ****
 
 In the course of using this web site, you may choose to provide us with information to help us serve your needs. For example, you may send us electronic mail (through a mailer or a web form) to request information, you may sign up for a mailing list, or you may send us your address so we may send you other material. Any personally identifiable information you send us will be used only for the purpose indicated. Requests for information will be directed to the appropriate staff to respond to the request, and may be recorded to help us update our site to better respond to similar requests. We will not sell, exchange or otherwise distribute your personally identifiable information without your consent, except to the extent required by law. We do not retain the information longer than necessary for normal operations. Each web page requesting information discloses the purpose of that information. If you do not wish to have the information used in that manner, you are not required to provide it. Please contact the person listed on the specific page, with questions or concerns on the use of personally identifiable information. 
@@ -69,4 +71,4 @@ Rapid Learning Center
 Yorba Linda, CA 92887  
 [TheWebmaster@RapidLearningCenter.com](mailto:TheWebmaster@RapidLearningCenter.com)
 
-[](https://web.archive.org/web/20121231083240id_/http%3A//www.rapidlearningcenter.com/smart-learning.html)
+[](https://web.archive.org/web/20140302004050id_/https%3A//www.rapidlearningcenter.com/smart-learning.html)
