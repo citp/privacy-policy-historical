@@ -1,15 +1,11 @@
-> *The following text is extracted and transformed from the macofalltrades.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001045343id_/https%3A//www.macofalltrades.com/Terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macofalltrades.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301034136id_/http%3A//www.macofalltrades.com/Terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
-**
-
-**
-
-All information managed through our website is routed through 100% secure servers and remains confidential. www.macofalltrades.com has been validated to have a secure SSL certificate which provides industry standard data encryption of information transferred from your computer to the website. Serving the Apple community since 1995 with tens of thousands of happy customers, we have an A+ Better Business Bureau rating. We have been Macworld Magazine advertisers since our inception. Our system monitors attempted fraudulent transactions and automatically releases evidence to the proper authorities.
+All information managed through our website is routed through 100% secure servers and remains confidential. www.macofalltrades.com has been validated to have a secure SSL certificate which provides industry standard data encryption of information transferred from your computer to the website. Serving the Apple community since 1995 with tens of thousands of happy customers, we have an A+ Better Business Bureau rating. We have been Macworld Magazine advertisers since our inception. Our system monitors attempted fraudulent transactions and automatically releases evidence to the proper authorities. 
 
   
-**What Information Do We Collect?**
+**What information do we collect?**
 
   
 
@@ -22,7 +18,7 @@ All information managed through our website is routed through 100% secure server
 
 
   
-**How Do We Use Your Information?**
+**How do we use your information?**
 
 We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
 
@@ -35,17 +31,17 @@ We may use the information we collect from you when you register, purchase produ
 
 
   
-**How Do We Protect Visitor Information?**
+**How do we protect visitor information?**
 
 We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
 
   
-**Why Do We Require Passwords?**
+**Why do we require passwords?**
 
 Each registered user chooses a password for his/her use. This password is used by the registered user to sign in to a user account. The password is also used by the user to access his/her orders. This helps us maintain a level of security and privacy for all our customers. Each customer is responsible for his/her own password. Please do not share your password with anyone.
 
   
-**Do We Use 'Cookies'?**
+**Do we use 'cookies'?**
 
 Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
@@ -94,7 +90,7 @@ This online privacy policy applies only to information collected through our web
   
 **Terms & Conditions**
 
-Please also visit our [Terms & Condition](https://web.archive.org/web/20131001045343id_/https%3A//www.macofalltrades.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms & Condition](https://web.archive.org/web/20140301034136id_/http%3A//www.macofalltrades.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
   
 **Your Consent**
