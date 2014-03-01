@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the squarestate.net privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927011334id_/http%3A//www.squarestate.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squarestate.net privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301170249id_/http%3A//www.squarestate.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SQUAR ESTATE
 
 ## Privacy Policy
 
 [Home](http://www.squarestate.net/ "Back to Home") » Privacy Policy
-
-Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at support(at)squarestate.net.
 
