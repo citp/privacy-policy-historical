@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 33across.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821145713id_/http%3A//33across.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 33across.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301125817id_/http%3A//www.33across.com/privacy-policy.php) for the most accurate reproduction.*
 
 # 33Across | Your Brand Graph
 
@@ -7,10 +7,6 @@
 _August 15, 2011_
 
 33Across, Inc. ("33Across") provides marketing technology and services to website owners and online marketers (our "Clients"). Our mission is to improve the online experience by delivering more relevant advertising to consumers. We consider the protection of user privacy and anonymity to be of paramount importance, and provide this privacy policy to inform consumers about how our technology collects and uses consumer data. This policy also outlines our privacy practices on our corporate Website ("Website"), www.33across.com. If you have any questions about this privacy policy, please feel free to contact us at [privacy@33across.com](mailto:privacy@33across.com). By visiting the Website, you are accepting the practices outlined in this privacy policy. This privacy policy does not apply to the practices of third parties that 33Across does not employ or manage.
-
-## USER PREFERENCES MANAGER
-
-[Click here](https://web.archive.org/web/20130821145713id_/http%3A//33across.com/preferences.php) to Explore your preferences as predicted by 33Across.
 
 ## PRIVACY PRACTICES FOR OUR TECHNOLOGY
 
