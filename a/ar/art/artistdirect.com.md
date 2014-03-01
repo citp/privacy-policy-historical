@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artistdirect.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022153524id_/http%3A//www.artistdirect.com/nad/misc/policy/0%2C%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artistdirect.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301015701id_/http%3A//www.artistdirect.com/nad/misc/policy/0%2C%2C%2C00.html) for the most accurate reproduction.*
 
 # Free Music Download, MP3 Music, Music Chat, Music Video, Music CD, ARTISTdirect Network
 
@@ -14,7 +14,7 @@ We will not disclose Personal Information (as defined below) to third parties fo
 
 #### Personal Information
 
-We may collect information that personally identifies you, such as your name, zip code, e-mail, address, age, credit card and billing information, information about your interest in and use of various content, products, programs and services, and other personally identifiable information (" ** _Personal Information_** ") when you request information from us, enter in or participate in our Promotions (as defined below), vote in polls, complete surveys or otherwise express an opinion, subscribe to one of our services such as our online newsletters, participate in one of our online forums or communities, make purchases, register on a Property, and at other times when we give you the opportunity to provide us Personal Information. The decision to provide this information to us is optional. However, if you choose not to provide the requested information, you may not be able to use some of the features of our Properties. 
+We may collect information that personally identifies you, such as your name, zip code, e-mail, address, age, credit card and billing information, information about your interest in and use of various content, products, programs and services, and other personally identifiable information (" ** _Personal Information_** ") when you request information from us, enter in or participate in our Promotions (as defined below), vote in polls, complete surveys or otherwise express an opinion, subscribe to one of our services such as our online newsletters, participate in one of our online forums or communities, make purchases, register on a Property, and at other times when we give you the opportunity to provide us Personal Information. The decision to provide this information to us is optional. However, if you choose not to provide the requested information, you may not be able to use some of the features of our Properties. Our Properties do not respond to web browser "do not track" signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of Personal Information about an individual consumer’s online activities over time. 
 
 #### Information About Others
 
@@ -92,7 +92,7 @@ This Privacy Policy, including all revisions and amendments thereto, is governed
 
 From time to time, we may change this Privacy Policy. If we decide to change this Privacy Policy, we will inform you by posting the revised Privacy Policy on the Site. Those changes will go into effect on the Revision Date shown in the revised Privacy Policy. Your continued use of our Properties constitutes your consent to the revised Privacy Policy. 
 
-Revised April 2, 2013 
+Revised December 6, 2013 
 
   
 
