@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-literature.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016215109id_/http%3A//www.online-literature.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-literature.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301201138id_/http%3A//www.online-literature.com/privacy.php) for the most accurate reproduction.*
 
 # The Literature Network - Privacy Policy
 
