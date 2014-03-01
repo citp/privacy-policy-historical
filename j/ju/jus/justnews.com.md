@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justnews.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609111010id_/http%3A//www.local10.com/-/1717430/3989770/-/9w6eiq/-/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justnews.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301125446id_/http%3A//www.local10.com/3989770) for the most accurate reproduction.*
 
 # Home -
 
@@ -128,13 +128,11 @@ If you have other questions or concerns about our privacy policies or data use w
 
 **Effective: June 15, 2010**
 
-[ ](http://www.local10.com/weather/hurricane-season/-/2755616/-/w6y5h3z/-/index.html)
-
-[ ](http://www.local10.com/news/help-build-gratigny-plateau-park/-/1717324/20100004/-/10v0xm3/-/index.html)
+[ ](http://vote.local10.com/)
 
 Advertisement
 
-[ ](http://www.local10.com/sports/FREE-Local-10-Heat-app-now-available/-/1717082/19865658/-/hrjns4z/-/index.html/)
+[ ](http://thelaw.tv/broward)
 
 [ ](http://www.local10.com/entertainment/livewellnetwork/-/19410550/-/format/rss_2.0/-/nsshml/-/index.html)
 
