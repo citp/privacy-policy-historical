@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piradi.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107214049id_/http%3A//piradi.com/page%3Fslug%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piradi.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301091707id_/http%3A//piradi.com/page%3Fslug%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
