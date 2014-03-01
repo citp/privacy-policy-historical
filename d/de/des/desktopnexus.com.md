@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desktopnexus.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906042851id_/http%3A//www.desktopnexus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desktopnexus.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301201144id_/http%3A//www.desktopnexus.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Desktop Nexus
 
