@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nigeriapropertycentre.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808091838id_/http%3A//www.nigeriapropertycentre.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigeriapropertycentre.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301140654id_/http%3A//www.nigeriapropertycentre.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nigeria Property Centre - Nigeria Property Centre
 
