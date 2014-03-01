@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apthost.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229172952id_/http%3A//www.apthost.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apthost.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301062144id_/http%3A//www.apthost.com/privacy.shtml) for the most accurate reproduction.*
 
 # AptHost - Privacy Policy
 
