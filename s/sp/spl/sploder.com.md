@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sploder.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109023029id_/http%3A//www.sploder.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sploder.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301213743id_/http%3A//www.sploder.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Make your own Games Online - Arcade, Platformer, Space & Retro Games
 
@@ -15,6 +15,8 @@ Registrants under the age of 13 are not permitted to submit any personal informa
 This site does not collect age-related information from users.
 
 Please note that the forums at [forums.sploder.com](http://forums.sploder.com/) are an optional feature of [sploder.com](http://www.sploder.com/). They require a separate registration and are **age-restricted**. The forum software at [forums.sploder.com](http://forums.sploder.com/) will collect e-mail addresses in order for authentication, password resetting, approvals and forum-related system notices. Members who join [sploder.com](http://www.sploder.com/) are **not** automatically registered on [forums.sploder.com](http://forums.sploder.com/), and they must be 13 or older to register there.
+
+Third party ad networks and analytics providers may collect certain types of information about your visit, including whether you interacted with content. No personally identifiable information will be collected.
 
 #### How the Information is Used
 
