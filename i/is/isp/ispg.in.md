@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ispg.in privacy policy that was archived on 2013-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130720125550id_/http%3A//www.ispg.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ispg.in privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301031007id_/http%3A//www.ispg.in/privacy-policy.html) for the most accurate reproduction.*
 
 # ISPG Web Design Web & Mobile App Development Company Privacy Policy
 
@@ -8,17 +8,17 @@ By using the Web Site and/or services offered/advertised through it and/or ISPG,
 
 ISPG respect your privacy and are committed to protecting personal information that you may share with us. This Privacy Policy describes how we may collect and use your personal information.
 
-#### Information We Collect
+####  Information We Collect
 
 Personal information means any information that may be used to identify an individual, including, but not limited to, a first and last name, email address, a home, postal or other physical address, other contact information, title, occupation, industry, personal interests, and other information when needed to provide a service or product or carry out a transaction you have requested. 
 
-#### Notice
+####  Notice
 
 When personal information is collected, ISPG will inform you at the point of collection the purpose for the collection. ISPG will not transfer your personal information to third parties without your consent, except under the limited conditions described under the section entitled "Information Sharing and Disclosure" below. 
 
-#### Information Sharing and Disclosure
+####  Information Sharing and Disclosure
 
-#### ISPG do not transfer or share your information except as provided below:
+####  ISPG do not transfer or share your information except as provided below:
 
 **1\. ISPG may also send your personal information to other companies or people if:**
 
@@ -32,7 +32,7 @@ ISPG may also reveal user's personal information when required to do so by law, 
 
 In the event of a merger, consolidation or reorganization involving ISPG, acquisition of ISPG by another company, or other similar transaction, your personal information will, in most instances, be transferred to the control of the third party that is part of that transaction. 
 
-#### **Data Security**
+####  **Data Security**
 
 ISPG employs reasonable and current security methods to prevent unauthorized access, maintain data accuracy, and ensure correct use of information. No data transmission over the internet or any wireless network can be guaranteed to be secure and therefore ISPG cannot ensure or guarantee the security of any information User transmits to ISPG and User does so at his/her own risk. 
 
