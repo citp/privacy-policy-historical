@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the helperchoice.com privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916001035id_/http%3A//www.helperchoice.com/privacy.php%3FT%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helperchoice.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301224952id_/http%3A//www.helperchoice.com/privacy.php) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Privacy Policy | HelperChoice
 
 This Privacy Policy covers the collection, usage, and disclosure of information that may be collected by helperchoice.com anytime you interact with us, such as when you make inquiries. Our Privacy Policy covers both privacy and confidentiality measures taken with our clients and any direct end-user. Our customer’s privacy is a priority at HelperChoice, and we are committed to protecting all parties who use our services.  Please read further to learn more about our practices, including (a) what type of information is collected, (b) how the information is used and to whom we disclose the information, and (c) how we maintain security with shared information.
 
