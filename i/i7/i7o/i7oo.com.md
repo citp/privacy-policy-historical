@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i7oo.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204231832id_/http%3A//i7oo.com/Privacy%2520Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i7oo.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301020015id_/http%3A//i7oo.com/Privacy%2520Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy For i7oo At www
 
