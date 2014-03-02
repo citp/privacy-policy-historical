@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the never.no privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129010731id_/http%3A//www.never.no/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the never.no privacy policy that was archived on 2014-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140302171818id_/http%3A//www.never.no/privacy) for the most accurate reproduction.*
 
 # never.no - Social TV Advertising
 
