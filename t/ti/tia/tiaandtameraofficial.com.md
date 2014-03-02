@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiaandtameraofficial.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207173115id_/http%3A//tiaandtameraofficial.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiaandtameraofficial.com privacy policy that was archived on 2014-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140302185555id_/http%3A//tiaandtameraofficial.com/privacy) for the most accurate reproduction.*
 
 # privacy | TiaAndTameraOfficial.com
 
