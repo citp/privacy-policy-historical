@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kinesissurvey.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230204455id_/http%3A//www.kinesissurvey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinesissurvey.com privacy policy that was archived on 2014-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140302042729id_/http%3A//www.kinesissurvey.com/privacy-policy) for the most accurate reproduction.*
 
 # Kinesis Survey TechnologiesPrivacy policy
 
