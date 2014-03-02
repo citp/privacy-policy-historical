@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the atkinsglobal.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204165947id_/http%3A//www.atkinsglobal.com/site-services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atkinsglobal.com privacy policy that was archived on 2014-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140302150009id_/http%3A//www.atkinsglobal.com/en-GB/site-services/privacy) for the most accurate reproduction.*
 
 # Privacy – Atkins
 
-## Privacy
+##  Privacy 
 
 Atkins is committed to protecting your privacy. Before providing us with any of your details, please read the following important information which concerns the protection of your personal data.
 
@@ -12,7 +12,7 @@ For the purposes of the Data Protection Act 1998 (the “Act”), the data contr
 
 Our nominated representative for the purposes of the Act is the Company Secretary. 
 
-_INFORMATION WE MAY COLLECT FROM YOU, AND USE WE MAY MAKE OF IT_
+INFORMATION WE MAY COLLECT FROM YOU, AND USE WE MAY MAKE OF IT
 
 We will hold and process any personal information which you provide via the site or by submitting emails and/or online forms, for our own internal business purposes, including lawful purposes relating to recruitment where information is sent by you via the recruitment part of the site.
 
@@ -31,11 +31,8 @@ What function they perform**
 ---|---|---|---|---  
 __utma | tracks each user's amount of visits, and the time of the first, the previous, and the current visit (presumably partly for double checking). | Third Party | permanent | In case Google Analytics is used  
 __utmb | are used to track how long you stay on a site - when a visit starts and approximately ends | Third Party | permanent  
-__utmc | are used to track how long you stay on a site - when a visit starts and approximately ends 
-
-This expires quickly
-
-| Third Party | permanent  
+__utmc | are used to track how long you stay on a site - when a visit starts and approximately ends   
+This expires quickly | Third Party | permanent  
 __utmz | tracks where a visitor came from (search engine, search keyword, link) | Third Party | permanent  
 SERVERID | ID of the Server which served the request | First Party | Session | Managed by Microsoft technology used by IP3  
 ASP.NET_SessionId | ID of the Session which is currently used | First Party | Session | Managed by Microsoft technology used by IP3  
@@ -78,7 +75,7 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 CONTACT
 
-If any information you have provided to us becomes inaccurate or out of date, or if you have any queries about this privacy statement, [please contact us via this website](http://www.atkinsglobal.com/site-services/contact-us).
+If any information you have provided to us becomes inaccurate or out of date, or if you have any queries about this privacy statement, [please contact us via this website](https://web.archive.org/en-GB/site-services/contact-us).
 
 THIRD PARTY WEB SITES
 
