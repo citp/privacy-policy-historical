@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alliedshirts.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624101427id_/http%3A//www.alliedshirts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliedshirts.com privacy policy that was archived on 2014-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140303224816id_/http%3A//www.alliedshirts.com/privacy-policy) for the most accurate reproduction.*
 
 # Allied Shirts
 
