@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thrifty.co.uk privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210061902id_/http%3A//www.thrifty.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrifty.co.uk privacy policy that was archived on 2014-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140303195537id_/http%3A//www.thrifty.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Thrifty Car Rental
 
