@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the futuregenerali.in privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501210351id_/http%3A//www.futuregenerali.in/Corporate/CorporateOther/CorporateOtherPages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futuregenerali.in privacy policy that was archived on 2014-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140303082257id_/http%3A//www.futuregenerali.in/Corporate/CorporateOther/CorporateOtherPages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Future Generali
+# Welcome to Future Generali India | Life Insurance | General Insurance
 
 We are committed to protecting Your privacy and have taken reasonable steps to protect the confidentiality of the Personal Information You have furnished to us and its transmission through the world wide web.
 
