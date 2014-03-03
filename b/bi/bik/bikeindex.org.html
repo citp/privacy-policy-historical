@@ -1,0 +1,322 @@
+<!--The following is the downloaded HTML source of the bikeindex.org privacy policy that was archived on 2014-03-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140303212821id_/https%3A//bikeindex.org/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<title lang="en">Privacy</title>
+<meta name="charset" content="utf-8">
+<meta name="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Privacy with the Bike Index">
+<meta property="og:url" content="https://bikeindex.org/privacy">
+<meta property="og:image" content="https://bikeindex.org/assets/logos/bw_transparent.png">
+<meta property="og:site_name" content="Bike Index">
+<meta property="twitter:card" content="summary">
+<meta property="twitter:site" content="@bikeindex">
+<meta content="authenticity_token" name="csrf-param">
+<meta content="+F9Q8zX5wSBU4oKWeIQi7qF+I2u3yf4TH+fwWW51iFg=" name="csrf-token">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=223376277803071"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok8v=221574e73d/cloudflare.min.js"></script><script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok8v=02fcfa4f56/"},atok:"08a200c88bb24cd3752c60b4e6c75f47",petok:"21ff63d1a8c57437256069867608b07ef39b72cb-1393882101-1800",zone:"bikeindex.org",rocket:"0",apps:{"ga_key":{"ua":"UA-38316708-1","ga_bs":"1"}}}];var a=document.createElement("script"),b=document.getElementsByTagName("script")[0];a.async=!0;a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok8v=221574e73d/cloudflare.min.js";b.parentNode.insertBefore(a,b);}}catch(e){};
+//]]>
+</script>
+<link rel="shortcut icon" href="/fav.ico">
+<link href="/assets/application-a42df1947f0ff89ba581ec08bc7d3146.css" media="all" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Rambla:400" rel="stylesheet" type="text/css">
+<script src="/assets/application-c9be76ed00edf97779ade61d230ff58b.js" type="text/javascript"></script>
+ 
+<!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!--[if lte IE 8]>
+<meta http-equiv="refresh" content="0;url=https://www.bikeindex.org/update_browser" />
+<![endif]-->
+<script type="text/javascript">
+/* <![CDATA[ */
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-38316708-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+/* ]]> */
+</script>
+<script type="text/javascript">$(document).ready(function () {
+
+$('#header-tabs').prepend("<div id='tab-cover'></div>");
+
+$.ajax({
+  type: "GET",
+  url: '/api/v1/users/current',
+  success: function(data, textStatus, jqXHR) {
+    var links, membership, tab, _i, _len, _ref;
+    if (data["user_present"]) {
+      $('#total-top-header .yes_user').removeClass('hidden');
+      if (data["is_superuser"]) {
+        $('#total-top-header .super_user').removeClass('hidden');
+      }
+      if (_.isArray(data["memberships"])) {
+        _ref = data["memberships"];
+        for (_i = 0, _len = _ref.length; _i < _len; _i++) {
+          membership = _ref[_i];
+          tab = "<li class=\"expand_t\">\n  <a href=\"#" + membership["slug"] + "\">" + membership["short_name"] + "</a>\n</li>";
+          links = "<div class=\"tab-pane\" id=\"" + membership["slug"] + "\">\n  <ul>\n    <li>\n      <a href=\"/bikes/new?creation_organization_id=" + membership["organization_id"] + "\">\n        <strong>Add a bike</strong> through " + membership["organization_name"] + "\n      </a>\n    </li>\n    <li>\n      <a href=\"" + membership["base_url"] + "\">\n        " + membership["organization_name"] + " Account\n      </a>\n    </li>";
+          if (membership["is_admin"]) {
+            links = links + ("<li>\n  <a href=\"" + membership["base_url"] + "/edit\">\n    Manage organization\n  </a>\n</li>");
+          }
+          links = links + "</ul></div>";
+          $('#total-top-header .global-tabs').append(tab);
+          $('#total-top-header .tab-content').append(links);
+        }
+      }
+      if (data["email"]) {
+        $('#your_settings_n_stuff').text(data["email"]);
+      }
+      return $('#tab-cover').fadeOut();
+    } else {
+      $('#total-top-header .no_user').removeClass('hidden');
+      return $('#tab-cover').fadeOut();
+    }
+  },
+  error: function(data, textStatus, jqXHR) {
+    $('#total-top-header .no_user').removeClass('hidden');
+    $('#tab-cover').fadeOut();
+  }
+});
+
+});</script></head>
+ 
+
+<body id="body">
+<div id="alert-block">
+</div>
+
+
+<header class="global-header" id="header">
+<div class="top-header" data-domain="production" id="total-top-header">
+ 
+<div class="receptacle">
+<div class="inner-recep">
+<a class="follow-link logo" href="https://bikeindex.org/">
+<img alt="Logo" class="standard-logo" src="/assets/logo.svg">
+<img alt="Logo_cover" class="transparent-logo" src="/assets/logo_cover.svg">
+<span class="transparent-logo-bg"></span>
+<span class="transparent-logo-bg"></span>
+<span class="logo-background"></span>
+<h2>
+Bike Index
+</h2>
+</a>
+<nav class="collapse in" id="header-tabs">
+<ul class="global-tabs">
+<span id="global-tabs-cover"></span>
+<li class="expand_t yes_user hidden">
+<a href="#you" id="your_settings_n_stuff">
+You
+</a>
+</li>
+<li class="super_user hidden">
+<a href="/admin" class="follow-link">Superuser home</a>
+</li>
+<li class="expand_t no_user hidden">
+<a href="#signup">
+Log in
+</a>
+</li>
+<li class="no_user hidden">
+<a href="https://bikeindex.org/users/new" class="follow-link">Sign up</a>
+</li>
+</ul>
+<div class="tab-content">
+<div class="tab-pane yes_user hidden" id="you">
+<ul>
+<li>
+<a href="https://bikeindex.org/user_home" class="follow-link">Your bikes</a>
+</li>
+<li>
+<a href="/my_account" title="Your preferences">
+Preferences
+</a>
+</li>
+<li>
+<a href="/session" data-method="delete" rel="nofollow">Log out</a>
+</li>
+</ul>
+</div>
+<div class="tab-pane login-header no_user hidden" id="signup">
+<form accept-charset="UTF-8" action="https://bikeindex.org/session" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="+F9Q8zX5wSBU4oKWeIQi7qF+I2u3yf4TH+fwWW51iFg="></div><div class="field">
+<input id="session_email" name="session[email]" placeholder="Email address" size="30" type="email">
+</div>
+<div class="field">
+<input id="session_password" name="session[password]" placeholder="Password" size="30" type="password">
+</div>
+<input class="button-blue" name="commit" type="submit" value="Log in">
+</form>
+<p>
+<a href="/users/request_password_reset" class="forgotten-pass form-link">Forgot your password?</a>
+</p>
+<a class="facebook-login" href="/auth/facebook">
+Log in with
+<span>
+<img alt="Facebook" src="/assets/facebook.svg">
+</span>
+</a>
+<p class="switch-login-signup">
+Don't have an account?
+<a href="https://bikeindex.org/users/new">Sign up instead</a>
+</p>
+</div>
+</div>
+</nav>
+<form accept-charset="UTF-8" action="/bikes" id="head-search-bikes" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+<div class="search-fields" id="header-search">
+<span class="search-background"></span>
+<input class="search-text-field" data-url="https://bikeindex.org/api/v1/bikes/search_tags" id="query" name="query" placeholder="Search bike traits" type="text">
+<div class="search-button">
+<input class="button-blue" name="search" type="submit" value="Search">
+</div>
+<div class="optional-fields">
+<div class="additional-fields">
+<input id="serial" name="serial" placeholder="Serial number lookup" type="text">
+<span class="absent-serial-blocker"></span>
+<a href="#" id="serial-absent">
+<span>
+has
+</span>
+no serial
+</a>
+</div>
+<div class="stolenness">
+<label for="stolen">
+<input id="stolen" name="stolen" type="checkbox" value="1">
+Only stolen
+</label>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</header>
+<section class="content">
+<div class="receptacle">
+<div class="inner-recep legal-content" id="legal-terms">
+<header>
+<h1>
+<a name="privacy-policy" class="anchor" href="#privacy-policy"><span class="mini-icon mini-icon-link"></span></a>
+Privacy Policy
+</h1>
+<p>Last updated June 17th, 2013. Previous versions and the change history is <a href="https://github.com/bikeindex/bike_index_terms/">available here</a>.</p>
+<hr>
+</header>
+<h2>
+<a name="privacy-general-information" class="anchor" href="#privacy-general-information"><span class="mini-icon mini-icon-link"></span></a>
+General Information
+</h2>
+<p>We collect the e-mail addresses and other personal information of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, what functions consumers perform on pages, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:</p>
+<p>It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service of the specific application, or as otherwise required by law.</p>
+<p>We transfer information about you if Bike Index is acquired by or merged with another company. In this unlikely event, Bike Index will notify you before information about you is transferred and becomes subject to a different privacy policy.</p>
+<h2>
+<a name="privacy-information-gathering-and-usage" class="anchor" href="#information-gathering-and-usage"><span class="mini-icon mini-icon-link"></span></a>
+Information Gathering and Usage
+</h2>
+<p>When you register for Bike Index we may ask for information such as your name, email address, billing address, or phone number.</p>
+<p>Bike Index uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.</p>
+<h2>
+<a name="cookies" class="anchor" href="#cookies"><span class="mini-icon mini-icon-link"></span></a>
+Cookies
+</h2>
+<p>A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.</p>
+<p>Cookies are required to use the Bike Index service.</p>
+<p>We use cookies to record current session information, but do not use permanent cookies. You are required to re-login to your Bike Index account after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.</p>
+<h2>
+<a name="data-storage" class="anchor" href="#data-storage"><span class="mini-icon mini-icon-link"></span></a>
+Data Storage
+</h2>
+<p>Bike Index uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Bike Index. Although Bike Index owns the code, databases, and all rights to the Bike Index application, you retain all rights to your data.</p>
+<h2>
+<a name="disclosure" class="anchor" href="#disclosure"><span class="mini-icon mini-icon-link"></span></a>
+Disclosure
+</h2>
+<p>
+Bike Index may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the <a href="https://bikeindex.org/terms">Terms of Service</a>.
+</p>
+<h2>
+<a name="changes" class="anchor" href="#changes"><span class="mini-icon mini-icon-link"></span></a>
+Changes
+</h2>
+<p>Bike Index may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Bike Index service account or by placing a prominent notice on our site. Such notices shall be considered to be received by you within 24 hours of the time it is posted to our website or emailed to you unless we receive notice that the email was not delivered.</p>
+<p>You retain the right to access, amend, correct or delete your personal information where it is inaccurate at any time. To do so, please contact <a href="mailto:contact@bikeindex.org">contact@bikeindex.org</a>.</p>
+<h2>
+<a name="questions" class="anchor" href="#questions"><span class="mini-icon mini-icon-link"></span></a>
+Questions
+</h2>
+<p>Any questions about this Privacy Policy should be addressed to <a href="mailto:contact@bikeindex.org">contact@bikeindex.org</a> or by mail at: Bike Index, 2845 W Palmer St, Chicago, IL 60647</p>
+</div>
+</div>
+</section>
+<footer class="global-footer" id="page-foot">
+<div class="receptacle">
+<ul class="footer-links">
+<li>
+<a href="https://bikeindex.org/choose_registration">Register a bike</a>
+<ul>
+<li>
+<a href="https://bikeindex.org/where">Bike Index partner organizations</a>
+</li>
+<li>
+<a href="https://bikeindex.org/resources">Bike Index resources</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://bikeindex.org/about">About the Bike Index</a>
+<ul>
+<li>
+<a href="https://bikeindex.org/blogs">Bike Index blog</a>
+</li>
+<li>
+<a href="https://bikeindex.org/manufacturers">List of manufacturers</a>
+</li>
+</ul>
+</li>
+<li class="contact-nav-btns">
+<a href="https://bikeindex.org/help">Help</a>
+<ul>
+<li>
+<a href="https://bikeindex.org/contact_us">Contact us</a>
+<a href="https://bikeindex.org/vendor_signup">Sign up a shop</a>
+</li>
+</ul>
+</li>
+<li class="social">
+<ul>
+<li>
+<a href="https://facebook.com/bikeindex"><img alt="Bike Index Facebook" src="/assets/facebook.svg"></a>
+</li>
+<li>
+<a href="https://twitter.com/BikeIndex"><img alt="Bike Index Twitter" src="/assets/twitter.svg"></a>
+</li>
+</ul>
+</li>
+</ul>
+<p>
+2014 © Bike Index.
+<a href="https://bikeindex.org/privacy">Privacy policy</a>
+and <a href="https://bikeindex.org/terms">terms and conditions</a>.
+</p>
+</div>
+</footer>
+<div id="fb-root"></div>
+<script async="">(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=223376277803071";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+</body></html>
