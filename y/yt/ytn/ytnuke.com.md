@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ytnuke.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206161941id_/http%3A//ytnuke.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ytnuke.com privacy policy that was archived on 2014-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140303055419id_/http%3A//ytnuke.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Buy Youtube Views | Cheapest Youtube View Supplier on The Net!
 
