@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the anki.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231003807id_/http%3A//anki.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anki.com privacy policy that was archived on 2014-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140303215708id_/http%3A//anki.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Anki
 
-**Effective October 21, 2013**
+**Last Updated: February 11, 2014**
 
 THIS PRIVACY POLICY GOVERNS YOUR USE OF THE WEB SITE AND MOBILE SOFTWARE APPLICATION (COLLECTIVELY, THE “SITE”) OFFERED BY ANKI, INC. AND/OR ITS SUBSIDIARIES AND AFFILIATES (REFERRED TO AS "ANKI", "WE", "OUR", OR "US").
 
@@ -26,7 +26,7 @@ We may also collect your Internet Protocol (‘IP’) address. We use your IP ad
 
 We do not collect more personal information than is reasonably necessary to participate in an activity on the Website or App or enhance your gameplay experience.
 
-**Automatically as you navigate through the site: usage Details Cookies/, Cookies and Other Technologies**
+**Automatically as you navigate through the site: Usage Details, Cookies and Other Technologies**
 
 When you visit our Website, certain information is or can be automatically recorded. Generally, we use this information in an aggregated and anonymized way. If we need to combine this type of information with personal information, we treat it as such. Automatically collected information includes:
 
@@ -42,7 +42,7 @@ When you visit our website, we use third parties to collect anonymized and aggre
 
 **Specific to the Anki DRIVE App**
 
-When you use the Anki DRIVE app, we collect anonymous app and gameplay data to help improve our products and services.  This information may include, but is not limited to, user IDs (such as gamer tags and screen names), game scores, game achievements, game performance, and your usage of various game features. All information collected by Anki without your explicit permission is intended to be anonymous information that does not disclose your identity or constitute personal information, however, if you include personal information (such as your real name) in your user ID, then such personal information will automatically be transmitted to Anki and used as described herein. The information collected by Anki may be posted in an anonymous and aggregated format by Anki on publicly-accessible web sites, shared with hardware manufacturers, shared with platform hosts, shared with Anki’s marketing partners or used by Anki for any other lawful purpose.
+When you use the Anki DRIVE app, we collect anonymous app and gameplay data to help improve our products and services.  This information may include, but is not limited to, user IDs (such as gamer tags and screen names), game scores, game achievements, game performance, location (zip code or city level), and your usage of various game features. All information collected by Anki without your explicit permission is intended to be anonymous information that does not disclose your identity or constitute personal information, however, if you include personal information (such as your real name) in your user ID, then such personal information will automatically be transmitted to Anki and used as described herein. The information collected by Anki may be posted in an anonymous and aggregated format by Anki on publicly-accessible web sites, shared with hardware manufacturers, shared with platform hosts, shared with Anki’s marketing partners or used by Anki for any other lawful purpose.
 
 **Emails and Other Communications and Your Choices**
 
@@ -82,6 +82,7 @@ We may disclose aggregated information about our users, and information that doe
 We may share your personal information:
 
   * With third parties that support our business, such as to process payments, or to store information collected through our site, app, and services, and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.
+  * With your consent, for example, if you elect to share your gameplay data, along with User IDs, with other Anki DRIVE users through the site or services. Data that you elect to share with Anki DRIVE users can be redistributed by such users.
   * With a parent company, subsidiaries, joint ventures, or other companies under common control with us.
   * For the purposes of a business deal (or negotiation of a business deal) involving sale or transfer of all or a part of our business or assets. These deals can include any merger, financing, acquisition, or bankruptcy transaction or proceeding.
   * To fulfill the purpose for which you provide it, for any other purpose disclosed by us when you provide the information, or otherwise with your consent.
