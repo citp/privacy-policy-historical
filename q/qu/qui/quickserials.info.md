@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickserials.info privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231175322id_/http%3A//quickserials.info/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickserials.info privacy policy that was archived on 2014-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140303034608id_/http%3A//quickserials.info/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | Car Insurance Community
 
