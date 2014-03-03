@@ -1,230 +1,546 @@
-<!--The following is the downloaded HTML source of the ymca.net privacy policy that was archived on 2012-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121211115426id_/http%3A//www.ymca.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ymca.net privacy policy that was archived on 2014-03-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140303060131id_/http%3A//www.ymca.net/privacy-policy/index.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+    
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  
 
+    <link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/2600c101-57cb-429b-b4f3-d2c23f00d714.css">
 
-     
+    <meta content="Privacy Policy" about="/privacy-policy/index.html" property="dc:title">
+<meta name="robots" content="NOODP, NOYDIR">
+ 
+    <link type="text/css" rel="stylesheet" href="http://www.ymca.net/sites/default/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.ymca.net/sites/default/files/css/css_ypE1_FRbV0YJqhpNW7kOHcno0oSEJjRNEnNZpk71UAg.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.ymca.net/sites/default/files/css/css_-uVPsX7aZFa7LEYZzG_a27n0Qgped0VKhT27SDitgck.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.ymca.net/sites/default/files/css/css_Mg22LyuO342sC4uX5gSnxC4VD0bHm_uWF5Fu7O_ezdk.css" media="all">
+    
+    <link rel="stylesheet" type="text/css" href="http://www.ymca.net/sites/all/themes/zen/global/print.css" media="print">
+    
+    <script type="text/javascript" async="" src="https://tracker.marinsm.com/tracker/async/1068bqk25413.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js'>\x3C/script>")</script><script src="/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js"></script>
+<script src="http://www.ymca.net/sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js"></script>
+<script src="http://www.ymca.net/sites/default/files/js/js_zKC6wsxqjoRmTKNdDVcmdLOnhkAoI9AtNnnpDlsd9MQ.js"></script>
+<script src="http://www.ymca.net/sites/default/files/js/js_CYX45y0xzmEWiBCC_XY7dE4cqtmScbJMHSq43dzf4BU.js"></script>
+<script>
+    jQuery(document).ready(function($){     
+      $('#om-maximenu-ymca-main-menu li.om-leaf .om-maximenu-content').removeClass('om-maximenu-content-nofade');
+      //$('#om-maximenu-ymca-main-menu li.om-leaf').hover(omFadeIn,omFadeOut); //native jquery
+      $('#om-maximenu-ymca-main-menu li.om-leaf').hoverIntent({
+        over: omFadeIn,
+        timeout: 0,
+        out: omFadeOut
+      }); 
+      function omFadeIn(){ $('.om-maximenu-content.closed', this).fadeIn();}
+      function omFadeOut(){ $('.om-maximenu-content.closed', this).fadeOut();}  
+    });
+    </script>
+<script>
+    jQuery(function($) {
+      $.each($('#om-menu-ymca-main-menu .om-leaf'),function() {
 
-    <link rel="icon" type="image/x-icon" href="/themes/blue/favicon.ico">
-    <link rel="shortcut icon" type="image/x-icon" href="/themes/blue/favicon.ico">
-    <link rel="stylesheet" type="text/css" href="/themes/global/global.css">
+        var active = $('.menu a', this).hasClass('active');
+        var active_trail = $('.menu a', this).hasClass('active-trail');
+        
+        if ((active == true) || (active_trail == true)) {
+          $('#om-menu-ymca-main-menu .om-leaf').removeClass('active-trail');
+          $(this).addClass('active-trail');
+        }
+      });
+    }); </script>
+<script>
+    jQuery(document).ready(function($){
+      if ($('#om-maximenu-ymca-main-menu').hasClass('om-maximenu-row')) {
+        var wrapper = $('#om-maximenu-ymca-main-menu .om-menu-ul-wrapper'), 
+            wrapper_width = wrapper.width(),
+            ul = $('#om-menu-ymca-main-menu'), 
+            ul_width = 0;
+        
+        $('#om-menu-ymca-main-menu .om-leaf').each(function(index) {
+          ul_width += parseInt($(this).width(), 10);
+        });
+        
+        // this will only be triggered when links won't fit inside the wrapper
+        if (ul_width > wrapper_width) {
 
-     <link rel="stylesheet" type="text/css" href="/themes/blue/theme.css?nocache=20120927">
-    <link rel="stylesheet" type="text/css" href="/themes/global/print.css" media="print">
+          var li_first = ul.find('li:first-child').width(),
+              li_last = ul.find('li:last-child').width();
+            
+          // scroll adjustment to end link
+          ul.width(ul_width + 30 + 'px')
+        
+          wrapper.css({overflow: 'hidden'});
+        
+          wrapper.mousemove(function(e){
+            var wrapper_offset = wrapper.offset();
+            var mouse = (e.pageX - wrapper_offset.left) * (ul_width - wrapper_width) / wrapper_width;
+
+            // scroll adjustments for both ends
+            if(mouse < li_first) mouse = (e.pageX - wrapper_offset.left - li_first) * (ul_width - wrapper_width) / wrapper_width;
+            if(mouse > li_first) mouse = (e.pageX - wrapper_offset.left) * (ul_width - wrapper_width + li_last + 15) / wrapper_width;
+
+            wrapper.scrollLeft(mouse);
+          });
+        }
+      }
+      else if ($('#om-maximenu-ymca-main-menu').hasClass('om-maximenu-column')) {
+        var wrapper = $('#om-maximenu-ymca-main-menu .om-menu-ul-wrapper'), 
+            wrapper_height = wrapper.height(),
+            ul = $('#om-menu-ymca-main-menu'), 
+            ul_height = 0;
+
+        $('#om-menu-ymca-main-menu .om-leaf').each(function(index) {
+          ul_height += parseInt($(this).height(), 10);
+        });
+
+        // this will only be triggered when links won't fit inside the wrapper
+        if (ul_height > wrapper_height) {
+        
+          var li_first = ul.find('li:first-child').height(),
+              li_last = ul.find('li:last-child').height();
+
+          // scroll adjustment to end link
+          ul.height(ul_height + 30 + 'px')
+                             
+          wrapper.css({overflow: 'hidden'});
+
+          wrapper.mousemove(function(e){
+            var wrapper_offset = wrapper.offset();
+            var mouse = (e.pageY - wrapper_offset.top) * (ul_height - wrapper_height) / wrapper_height;
+
+            // scroll adjustments for both ends
+            if(mouse < li_first) mouse = (e.pageY - wrapper_offset.top - 5) * (ul_height - wrapper_height) / wrapper_height;
+
+            wrapper.scrollTop(mouse);
+          });
+        }
+      }
+    }); </script>
+<script src="http://www.ymca.net/sites/default/files/js/js_lgAAOlplEun7p_8Pb-8dM079wtvnfwLZ0hAK0mH7Dto.js"></script>
+<script>var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-1645354-1"]);_gaq.push(['_setDomainName', 'ymca.net']);
+_gaq.push(['_setAllowLinker', true]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();</script>
+<script src="http://www.ymca.net/sites/default/files/js/js_9YLWjg3JWS_NBD0_Fth93gFNK9uALPA1uLlzrRDGzF0.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"zen","theme_token":"KDEEyUxKb6YLljlqrMaTVWMeWevs8MZB2qnoOJS2iDQ","js":{"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.7.1\/jquery.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/om_maximenu\/js\/om_maximenu.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/om_maximenu\/contrib\/jquery.hoverIntent.minified.js":1,"1":1,"2":1,"3":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"4":1,"sites\/all\/themes\/zen\/global\/menu.js":1,"sites\/all\/themes\/zen\/global\/jquery.menu.js":1,"sites\/all\/themes\/zen\/global\/hint.js":1,"sites\/all\/themes\/zen\/global\/jquery.hint.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/om_maximenu\/css\/om_maximenu.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/om_maximenu\/skin\/no_style\/no_style.css":1,"sites\/all\/themes\/zen\/global\/global.css":1,"sites\/all\/themes\/zen\/zen-internals\/css\/normalize.css":1,"sites\/all\/themes\/zen\/zen-internals\/css\/wireframes.css":1,"sites\/all\/themes\/zen\/zen-internals\/css\/layouts\/fixed-width.css":1,"sites\/all\/themes\/zen\/zen-internals\/css\/page-backgrounds.css":1,"sites\/all\/themes\/zen\/zen-internals\/css\/tabs.css":1,"sites\/all\/themes\/zen\/zen-internals\/css\/pages.css":1,"sites\/all\/themes\/zen\/zen-internals\/css\/blocks.css":1,"sites\/all\/themes\/zen\/zen-internals\/css\/navigation.css":1,"sites\/all\/themes\/zen\/zen-internals\/css\/views-styles.css":1,"sites\/all\/themes\/zen\/zen-internals\/css\/nodes.css":1,"sites\/all\/themes\/zen\/zen-internals\/css\/comments.css":1,"sites\/all\/themes\/zen\/zen-internals\/css\/forms.css":1,"sites\/all\/themes\/zen\/zen-internals\/css\/fields.css":1}},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});</script>
+
+    <script type="text/javascript" src="http://www.ymca.net/sites/all/themes/zen/js/color_theme_selector.js"></script>
+    <noscript>
+      <link rel="stylesheet" type="text/css" href="/sites/all/themes/zen/red/theme.css" />
+    </noscript>
    
-    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
-    <script type="text/javascript">jQuery.noConflict();</script>
+    <!-- APPS.YMCA.NET TEMPLATE BREAK -- DO NOT MOVE THIS LINE OF CODE -->    
+    <title>the Y: Privacy Policy </title>
+    <!-- APPS.YMCA.NET TEMPLATE BREAK -- DO NOT MOVE THIS LINE OF CODE -->    
+
+    <!-- force IE compatibility mode -->
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+    
+  </head>
+  
+  <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-707 node-type-page section-privacy-policy">
+    
+     <script type="text/javascript">
+         if ((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPad/i)) || (navigator.userAgent.match(/iPod/i)) || (navigator.userAgent.match(/Android/i))) {
+             document.write("<div style='text-align:center;background-color:#cfcfcf;width:100%;padding-top:20px;padding:bottom:20px;font-size:35px;height:70px;'>Go to <a href='http://m.ymca.net'>Mobile Find Your Y</a></div>");
+
+         }
+    </script>    
     
     
-    <script type="text/javascript" src="/themes/global/menu.js"></script>
-    <script type="text/javascript" src="/themes/global/jquery.menu.js"></script>
-    <script type="text/javascript" src="/themes/global/hint.js"></script>
-    <script type="text/javascript" src="/themes/global/jquery.hint.js"></script>
+        
+    
+  <div id="container">
+    
+    <div class="noindex" id="header">
+    
+       
 
+  <div id="om-maximenu-ymca-main-menu" class="om-maximenu om-maximenu-no-style om-maximenu-block om-maximenu-row om-maximenu-block-down code-om-u1-1511835964">     
+            
+
+<div id="om-menu-ymca-main-menu-ul-wrapper" class="om-menu-ul-wrapper">
+  <ul id="om-menu-ymca-main-menu" class="om-menu">
+                  
 
    
+  <li id="om-leaf-om-u1-1511835964-1" class="om-leaf first leaf-about-us">   
+    <a id="menu-aboutus" class="om-link  link-about-us" href="/about-us">About Us</a>      
+  <div class="om-maximenu-content om-maximenu-content-nofade closed">
+    <div class="om-maximenu-top">
+      <div class="om-maximenu-top-left"></div>
+      <div class="om-maximenu-top-right"></div>
+    </div><!-- /.om-maximenu-top --> 
+    <div class="om-maximenu-middle">
+      <div class="om-maximenu-middle-left">
+        <div class="om-maximenu-middle-right">
+           
+
+<div class="block block-menu block-menu-id-menu-about-us first last">           
+      <div class="content"><ul class="menu"><li class="first leaf menu-808"><a href="/history" title="">History</a></li>
+<li class="leaf menu-809"><a href="/find-your-y" title="">Find your Y</a></li>
+<li class="leaf menu-810"><a href="/find-a-y-camp" title="">Find a Camp</a></li>
+<li class="leaf menu-811"><a href="/donors-partners" title="">Donors &amp; Partners</a></li>
+<li class="leaf menu-812"><a href="/organizational-profile" title="">Organizational Profile</a></li>
+<li class="last leaf menu-813"><a href="/diversity-inclusion" title="">Diversity &amp; Inclusion</a></li>
+</ul></div>
+  </div><!-- /.block -->
 
 
-<title>the Y: Privacy Policy</title>
 
 
-<script type="text/javascript">
 
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-1645354-1']);
-    _gaq.push(['_trackPageview']);
-
-    (function () {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-
-</script>
-
-</head>
+          <div class="om-clearfix"></div>
+        </div><!-- /.om-maximenu-middle-right --> 
+      </div><!-- /.om-maximenu-middle-left --> 
+    </div><!-- /.om-maximenu-middle --> 
+    <div class="om-maximenu-bottom">
+      <div class="om-maximenu-bottom-left"></div>
+      <div class="om-maximenu-bottom-right"></div>
+    </div><!-- /.om-maximenu-bottom -->  
+    <div class="om-maximenu-arrow"></div>
+    <div class="om-maximenu-open">
+      <input type="checkbox" value="">
+      Stay    </div><!-- /.om-maximenu-open -->  
+  </div><!-- /.om-maximenu-content -->  
  
-<body>
- 
-<div id="container">
- <script type="text/javascript">
-     if ((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPad/i)) || (navigator.userAgent.match(/iPod/i)) || (navigator.userAgent.match(/Android/i))) {
-         document.write("<div style='text-align:center;background-color:#cfcfcf;width:100%;padding-top:20px;padding:bottom:20px;font-size:35px;height:70px;'>Go to <a href='http://m.ymca.net'>Mobile Find Your Y</a></div>");
 
-     }
-
-    // alert(navigator.userAgent);
-</script>
-<!--HEADER -->
-
-<div class="noindex" id="header">
-    <ul id="menubar">
-    	<li id="menu_aboutus">
-        	<a href="/about-us/" class="about">About Us</a>
-		<div class="menupanel" style="width:195px;">
-            	<ul>
-                    <li><a href="/history/">HISTORY</a></li>
-                    <li><a href="/find-your-y/">FIND YOUR Y</a></li>
-                    <li><a href="/find-a-y-camp/">FIND A Y CAMP</a></li>
-                    <li><a href="/donors-partners/">DONORS &amp; PARTNERS</a></li>
-                    <li><a href="/organizational-profile/">ORGANIZATIONAL PROFILE</a></li>
-                    <li><a href="/diversity-inclusion/">DIVERSITY &amp; INCLUSION</a></li>
-		 
-                   
-                </ul>
-                
-            </div>
-        </li>
+      
+  </li>
   
-  <!--      <li id="menu_ourfocus" >
-        	<a href="/our-focus/" class="focus">Our Focus</a>
-            	<div class="menupanel" style="width:195px;">
-            	<ul>
-                    <li><a href="/youth-development/">YOUTH DEVELOPMENT</a></li>
-                    <li><a href="/healthy-living/">HEALTHY LIVING</a></li>
-                    <li><a href="/social-responsibility/">SOCIAL RESPONSIBILITY</a></li>
-                    </ul>
-                
-            </div>
-        </li>
--->
-        <li id="menu_ourfocus">
-        	<a href="/our-focus/" class="focus">Our Focus</a>
-            	<div class="menupanel" style="width:560px;">
-            	<ul>
-                    <li class="menucategory"><a href="/youth-development/">YOUTH DEVELOPMENT</a></li>
-                    <li><a href="/child-care/">Child Care</a></li>
-                    <li><a href="/education-leadership/">Education &amp; Leadership</a></li>
-                    <li><a href="/swim-sports-play/">Swim, Sports &amp; Play</a></li>
-                    <li><a href="/camp/">Camp</a></li>
-                   
-                </ul>
-                <ul>
-                    <li class="menucategory"><a href="/healthy-living/">HEALTHY LIVING</a></li>
-                    <li><a href="/healthy-kids-day/">Healthy Kids Day®</a></li>
-                    <li><a href="/family-time/">Family Time</a></li>
-                    <li><a href="/health-wb-fitness/">Health, Well-being &amp; Wellness</a></li>
-                    <li><a href="/sports-recreation/">Sports &amp; Recreation</a></li>
-                    <li><a href="/group-interests/">Group Interests</a></li>
-                </ul>
-                <ul>
-                    <li class="menucategory"><a href="/social-responsibility/">SOCIAL RESPONSIBILITY</a></li>
-                    <li><a href="/afterschool-meal-program/">Afterschool Meal Program</a></li>
-                    <li><a href="/social-services/">Social Services</a></li>
-                    <li><a href="/global-services/">Global Services</a></li>
-                    <li><a href="/be-involved/">Volunteerism &amp; Giving</a></li>
-                    <li><a href="/advocacy/">Advocacy</a></li>                       
-                </ul>
-                
-            </div>
-        </li>
-        
+    
+  
 
-        
-        <li id="menu_beinvolved">
-        	<a href="/be-involved/" class="involved">BE INVOLVED</a>
-            <div class="menupanel" style="width:185px;">
-            	<ul>
-                    <li><a href="/join/">JOIN</a></li>
-                    <li><a href="/give/">GIVE</a></li>
-                    <li><a href="/volunteer/">VOLUNTEER</a></li>
-                    <li><a href="/advocate/">ADVOCATE</a></li>
-                    <li><a href="/start-new-y/">START A NEW Y</a></li>
-                   
-               </ul>
-               </div>
-        </li>
-        <li id="menu_newsmedia">
-        	<a href="/news-media/" class="news">NEWS &amp; MEDIA</a>
-            <div class="menupanel" style="width:185px;">
-            	<ul>
-                    <li><a href="/news-releases/">NEWS RELEASES</a></li>
-                    <li><a href="/media-coverage/">MEDIA COVERAGE</a></li>
-                 
-                   
-               </ul>
-               </div>
-        </li>
-        <li id="menu_careeropportunities">
-        	<a href="/career-opportunities/" class="careers">CAREER OPPORTUNITIES</a>
-            <div class="menupanel" style="width:185px;">
-            	<ul>
-                    <li><a href="/career-opportunities/open-positions.html">OPEN POSITIONS</a></li>
-                    <li><a href="/career-opportunities/camp-positions.html">CAMP POSITIONS</a></li>
-               </ul>
-               </div>
-        </li>        
-        <li id="menu_contactus">
-        	<a href="/contact-us/" class="contact">CONTACT US</a>
+  
+          
+                  
+
+   
+  <li id="om-leaf-om-u1-1511835964-2" class="om-leaf leaf-our-focus">   
+    <a id="menu-ourfocus" class="om-link  link-our-focus" href="/our-focus">Our Focus</a>      
+  <div class="om-maximenu-content om-maximenu-content-nofade closed">
+    <div class="om-maximenu-top">
+      <div class="om-maximenu-top-left"></div>
+      <div class="om-maximenu-top-right"></div>
+    </div><!-- /.om-maximenu-top --> 
+    <div class="om-maximenu-middle">
+      <div class="om-maximenu-middle-left">
+        <div class="om-maximenu-middle-right">
+           
+
+<div class="block block-menu block-menu-id-menu-youth-development first">           
+  <h3 class="title"><a href="/youth-development" title="YOUTH DEVELOPMENT">YOUTH DEVELOPMENT</a></h3>    <div class="content"><ul class="menu"><li class="first leaf menu-814"><a href="/child-care" title="">Child Care</a></li>
+<li class="leaf menu-815"><a href="/education-leadership" title="">Education &amp; Leadership</a></li>
+<li class="leaf menu-816"><a href="/swim-sports-play" title="">Swim, Sports &amp; Play</a></li>
+<li class="last leaf menu-817"><a href="/camp" title="">Camp</a></li>
+</ul></div>
+  </div><!-- /.block -->
+
+
+
+
+
  
-        </li> 
-        <li id="menu_search">
-            <form action="/search/" method="get">
-        	<div class="search"><input name="q" type="text" class="search-field" title="Search" size="14">&nbsp;
-       	    <input type="image" src="/themes/global/go.gif" alt="Submit"></div>
- </form>
-        </li> 
-    </ul>
+
+<div class="block block-menu block-menu-id-menu-healthy-living">           
+  <h3 class="title"><a href="/healthy-living" title="HEALTHY LIVING">HEALTHY LIVING</a></h3>    <div class="content"><ul class="menu"><li class="first leaf menu-818"><a href="/healthy-kids-day" title="">Healthy Kids Day®</a></li>
+<li class="leaf menu-819"><a href="/family-time" title="">Family Time</a></li>
+<li class="leaf menu-820"><a href="/health-wb-fitness" title="">Health, Well-being and Fitness</a></li>
+<li class="leaf menu-821"><a href="/sports-recreation" title="">Sports &amp; Recreation</a></li>
+<li class="last leaf menu-822"><a href="/group-interests" title="">Group Interests</a></li>
+</ul></div>
+  </div><!-- /.block -->
+
+
+
+
+
  
+
+<div class="block block-menu block-menu-id-menu-social-responsibility last">           
+  <h3 class="title"><a href="/social-responsibility" title="SOCIAL RESPONSIBILITY">SOCIAL RESPONSIBILITY</a></h3>    <div class="content"><ul class="menu"><li class="first leaf menu-1375"><a href="/afterschool-meal-program" title="">Afterschool Meal Program</a></li>
+<li class="leaf menu-823"><a href="/summer-food-program" title="">Summer Food Program</a></li>
+<li class="leaf menu-824"><a href="/social-services" title="">Social Services</a></li>
+<li class="leaf menu-825"><a href="/global-services" title="">Global Services</a></li>
+<li class="leaf menu-826"><a href="/be-involved" title="">Volunteerism &amp; Giving</a></li>
+<li class="last leaf menu-827"><a href="/advocacy" title="">Advocacy</a></li>
+</ul></div>
+  </div><!-- /.block -->
+
+
+
+
+
+          <div class="om-clearfix"></div>
+        </div><!-- /.om-maximenu-middle-right --> 
+      </div><!-- /.om-maximenu-middle-left --> 
+    </div><!-- /.om-maximenu-middle --> 
+    <div class="om-maximenu-bottom">
+      <div class="om-maximenu-bottom-left"></div>
+      <div class="om-maximenu-bottom-right"></div>
+    </div><!-- /.om-maximenu-bottom -->  
+    <div class="om-maximenu-arrow"></div>
+    <div class="om-maximenu-open">
+      <input type="checkbox" value="">
+      Stay    </div><!-- /.om-maximenu-open -->  
+  </div><!-- /.om-maximenu-content -->  
+ 
+
+      
+  </li>
+  
+    
+  
+
+  
+          
+                  
+
+   
+  <li id="om-leaf-om-u1-1511835964-4" class="om-leaf leaf-be-involved">   
+    <a id="menu-beinvolved" class="om-link  link-be-involved" href="/be-involved">Be Involved</a>      
+  <div class="om-maximenu-content om-maximenu-content-nofade closed">
+    <div class="om-maximenu-top">
+      <div class="om-maximenu-top-left"></div>
+      <div class="om-maximenu-top-right"></div>
+    </div><!-- /.om-maximenu-top --> 
+    <div class="om-maximenu-middle">
+      <div class="om-maximenu-middle-left">
+        <div class="om-maximenu-middle-right">
+           
+
+<div class="block block-menu block-menu-id-menu-be-involved first last">           
+      <div class="content"><ul class="menu"><li class="first leaf menu-828"><a href="/join" title="">Join</a></li>
+<li class="leaf menu-829"><a href="/give" title="">Give</a></li>
+<li class="leaf menu-830"><a href="/volunteer" title="">Volunteer</a></li>
+<li class="leaf menu-831"><a href="/advocate" title="">Advocate</a></li>
+<li class="last leaf menu-832"><a href="/start-new-y" title="">Start a new Y</a></li>
+</ul></div>
+  </div><!-- /.block -->
+
+
+
+
+
+          <div class="om-clearfix"></div>
+        </div><!-- /.om-maximenu-middle-right --> 
+      </div><!-- /.om-maximenu-middle-left --> 
+    </div><!-- /.om-maximenu-middle --> 
+    <div class="om-maximenu-bottom">
+      <div class="om-maximenu-bottom-left"></div>
+      <div class="om-maximenu-bottom-right"></div>
+    </div><!-- /.om-maximenu-bottom -->  
+    <div class="om-maximenu-arrow"></div>
+    <div class="om-maximenu-open">
+      <input type="checkbox" value="">
+      Stay    </div><!-- /.om-maximenu-open -->  
+  </div><!-- /.om-maximenu-content -->  
+ 
+
+      
+  </li>
+  
+    
+  
+
+  
+          
+                  
+
+   
+  <li id="om-leaf-om-u1-1511835964-3" class="om-leaf leaf-news-media">   
+    <a id="menu-newsmedia" class="om-link  link-news-media" href="/news-media">News &amp; Media</a>      
+  <div class="om-maximenu-content om-maximenu-content-nofade closed">
+    <div class="om-maximenu-top">
+      <div class="om-maximenu-top-left"></div>
+      <div class="om-maximenu-top-right"></div>
+    </div><!-- /.om-maximenu-top --> 
+    <div class="om-maximenu-middle">
+      <div class="om-maximenu-middle-left">
+        <div class="om-maximenu-middle-right">
+           
+
+<div class="block block-menu block-menu-id-menu-news-media first last">           
+      <div class="content"><ul class="menu"><li class="first leaf menu-573"><a href="/news-releases" title="">News Releases</a></li>
+<li class="last leaf menu-574"><a href="/media-coverage" title="">Media Coverage</a></li>
+</ul></div>
+  </div><!-- /.block -->
+
+
+
+
+
+          <div class="om-clearfix"></div>
+        </div><!-- /.om-maximenu-middle-right --> 
+      </div><!-- /.om-maximenu-middle-left --> 
+    </div><!-- /.om-maximenu-middle --> 
+    <div class="om-maximenu-bottom">
+      <div class="om-maximenu-bottom-left"></div>
+      <div class="om-maximenu-bottom-right"></div>
+    </div><!-- /.om-maximenu-bottom -->  
+    <div class="om-maximenu-arrow"></div>
+    <div class="om-maximenu-open">
+      <input type="checkbox" value="">
+      Stay    </div><!-- /.om-maximenu-open -->  
+  </div><!-- /.om-maximenu-content -->  
+ 
+
+      
+  </li>
+  
+    
+  
+
+  
+          
+                  
+
+   
+  <li id="om-leaf-om-u1-1511835964-6" class="om-leaf leaf-career-opportunities">   
+    <a id="menu-careeropportunities" class="om-link  link-career-opportunities" href="/career-opportunities">Career Opportunities</a>      
+  <div class="om-maximenu-content om-maximenu-content-nofade closed">
+    <div class="om-maximenu-top">
+      <div class="om-maximenu-top-left"></div>
+      <div class="om-maximenu-top-right"></div>
+    </div><!-- /.om-maximenu-top --> 
+    <div class="om-maximenu-middle">
+      <div class="om-maximenu-middle-left">
+        <div class="om-maximenu-middle-right">
+           
+
+<div class="block block-menu block-menu-id-menu-career-opportunities first last">           
+      <div class="content"><ul class="menu"><li class="first leaf menu-576"><a href="/career-opportunities/open-positions.html" title="">Open Positions</a></li>
+<li class="last leaf menu-577"><a href="/career-opportunities/camp-positions.html" title="">Camp Positions</a></li>
+</ul></div>
+  </div><!-- /.block -->
+
+
+
+
+
+          <div class="om-clearfix"></div>
+        </div><!-- /.om-maximenu-middle-right --> 
+      </div><!-- /.om-maximenu-middle-left --> 
+    </div><!-- /.om-maximenu-middle --> 
+    <div class="om-maximenu-bottom">
+      <div class="om-maximenu-bottom-left"></div>
+      <div class="om-maximenu-bottom-right"></div>
+    </div><!-- /.om-maximenu-bottom -->  
+    <div class="om-maximenu-arrow"></div>
+    <div class="om-maximenu-open">
+      <input type="checkbox" value="">
+      Stay    </div><!-- /.om-maximenu-open -->  
+  </div><!-- /.om-maximenu-content -->  
+ 
+
+      
+  </li>
+  
+    
+  
+
+  
+          
+                  
+
+   
+  <li id="om-leaf-om-u1-1511835964-5" class="om-leaf last leaf-contact-us">   
+    <a id="menu-contactus" class="om-link  link-contact-us" href="/contact-us">Contact Us</a>      
+ 
+
+      
+  </li>
+  
+    
+  
+
+  
+          
+      </ul><!-- /.om-menu -->    
+</div><!-- /.om-menu-ul-wrapper -->   
+
+
+
+      </div><!-- /#om-maximenu-[menu name] -->   
+
+
+
+<div id="menu_search">
+  <form action="http://www.ymca.net/search/node" method="post" id="search-form" accept-charset="UTF-8">
+    <div class="search YMCA_THEME_COLOR">
+      <input id="edit-keys" name="keys" type="text" class="search-field blur" title="Search" size="14">&nbsp;
+      <input type="image" src="http://www.ymca.net/sites/all/themes/zen/global/go.gif" alt="Submit">
+      <input type="hidden" name="form_build_id" value="form-HZGw8xuPJbL58_wSsIpP7ojTZuszQJrzEm95muL9J98">
+      <input type="hidden" name="form_id" value="search_block_form">
+      <input type="hidden" name="form_token" value="wBc1YGP6jPcVUGltt307Ardoruz4vS8-syyv6t89Nb0">
+    </div>
+  </form>
 </div>
- 
-<!--END HEADER -->
 
-<div id="content">
- 
-<!--END INCLUDE HEADEREND -->	
- 
     
-<!--BEGIN INCLUDE SECTIONBEGIN-->
+    </div> <!-- #header -->
 
+    <!-- APPS.YMCA.NET TEMPLATE BREAK -- DO NOT MOVE THIS LINE OF CODE -->    
 
+    <div id="content">
+      
+      
+      
+<div class="printblock">
+  <table>
+    <tbody><tr>
+      <td valign="top" style="padding-bottom:30px;">
+        <img class="ymca-logo" src="http://www.ymca.net/sites/all/themes/zen/red/images/logo.gif" alt="the Y">
+      </td>
+      <td style="vertical-align:top;padding-top:35px;width:600px;">
+        <h1>
+                  </h1>
+        
+                
+        <p class="theme">
+          
+          Welcome to the official website of the YMCA.  We are committed to protecting the privacy and security of the users of our website.             
+        </p>
+      </td>
+    </tr>
+  </tbody></table>
+</div> <!-- .printblock -->
 
-
-<!--END INCLUDE SECTIONBEGIN-->
-<!--BEGIN HTML BODY CONTENT -->
-
-<!--TITLE --> 
-   <div class="printblock"><table><tbody><tr><td valign="top" style="padding-bottom:30px;"><img src="/themes/blue/images/logo.gif" alt="the Y"></td><td style="vertical-align:top;padding-top:35px;width:600px;">
-   
-   <p class="theme">Welcome to the official website of the YMCA. We are committed to protecting the privacy and security of the users of our website</p>
-   
-   </td></tr></tbody></table></div>
 <div id="title">
 
-<div class="privacy">
+  <div class="benefit_statement">
+  
+    <a href="/" id="title-logo" title="YMCA Home"><img class="ymca-logo" src="http://www.ymca.net/sites/all/themes/zen/red/images/logo.gif" alt="the YMCA"></a>
+    <p class="statement">
+    
+          
+    </p>
+  
+    <p class="content_1 theme3 YMCA_THEME_COLOR">
+      Welcome to the official website of the YMCA.  We are committed to protecting the privacy and security of the users of our website.     </p> 
+  
+    
+    <div id="breadcrumb">
+  <div id="bc_left"><a href="/">Home</a></div><div id="bc_spacer"></div><div id="bc_right"><a href="/privacy-policy/index.html" class="active">Privacy Policy</a></div></div> <!-- #breadcrumb -->
+  
 
-<a href="/" id="title-logo">YMCA HOME</a>
+  </div> <!-- .benefit_statement -->
 
-<p class="content_2"><span class="theme">Welcome to the official website of the YMCA.  We are committed to protecting the privacy and security of the users of our website. </span></p>
+</div> <!-- #title -->      
+      <!--COLUMN WRAPPER -->
+      <div id="col_wrapper">
 
-<div id="breadcrumb">
-<div id="bc_left"><a href="/">HOME</a></div>
-<div id="bc_spacer"></div>
-<div id="bc_right"><a href="#">PRIVACY POLICY</a></div>
-</div>
-
-
-</div>        
-        
-</div>
-
-<!--END TITLE -->			
-
-
-<!--COLUMN WRAPPER -->
-
-<div id="col_wrapper">
-
-<!--LEFT-->
+        <!--LEFT-->
+        <div id="left">
+          
+          <a id="main-content"></a>
+          
+          
+          
+          <!-- main content -->
+          
 
 
-<div id="left">
-
-<div id="single_col">
-
+<!-- BEGIN PAGE -->
+<div id="single_col"></div>
 <h1 style="">YMCA of the  USA: Online Privacy Policy</h1>
 
 <h2>Overview</h2>
@@ -233,13 +549,10 @@
 
 <p>We keep your private information private by:</p>
 
-<ul>
-  <li><strong>Not selling your information</strong>—You've entrusted us with your personal information, and we're committed to using it wisely. YMCA of the USA will not sell your personal information to anyone, for any reason, at any time.</li>
+<ul><li><strong>Not selling your information</strong>—You've entrusted us with your personal information, and we're committed to using it wisely. YMCA of the USA will not sell your personal information to anyone, for any reason, at any time.</li>
   <li><strong>Using firewalls and encryption</strong>—We use firewalls and encryption technology to protect personal information on our computer systems.</li>
   <li><strong>Restricting who has access to your information</strong>—We take precautions to ensure that your internet account and personal information are accessible only by employees who are authorized to have access to your personal information.</li>
-</ul>
-
-<p>If you have any questions or concerns about our privacy policy, please contact us at: </p>
+</ul><p>If you have any questions or concerns about our privacy policy, please contact us at: </p>
 <p>Legal Department<br>
   YMCA of the USA<br>
 101 N Wacker Drive<br>
@@ -260,13 +573,10 @@ Chicago, IL 60606</p>
 
 <p>We collect non-personal identification information without limitation, through the use of  the following types of methodology:</p>
 
-<ul>
-<li><strong>"Cookie" technology:</strong> A "cookie" is an element of data that a website can send to your browser, which may then store it on your system.</li> 
+<ul><li><strong>"Cookie" technology:</strong> A "cookie" is an element of data that a website can send to your browser, which may then store it on your system.</li> 
 <li><strong>"IP address tracking":</strong> An IP address is a number that is assigned to your computer when you are on the Internet. When you request pages from our Sites, our servers log your IP address.</li> 
 <li><strong>"Web beacons":</strong> A Web beacon, or "clear gif," is a small graphic image on a webpage or web-based document that a website can use to determine information about a user.</li>
-</ul>
-
-<p>Non-personal identification information might include the browser you use, the type of computer, technical information about your means of connection to our Sites (such as the operating systems and the Internet service providers utilized), and other similar information. Our systems may also automatically gather information about the areas you visit and search terms you utilize on our Sites and about the links you may select from within our Sites to other areas of the World Wide Web or elsewhere online.</p> 
+</ul><p>Non-personal identification information might include the browser you use, the type of computer, technical information about your means of connection to our Sites (such as the operating systems and the Internet service providers utilized), and other similar information. Our systems may also automatically gather information about the areas you visit and search terms you utilize on our Sites and about the links you may select from within our Sites to other areas of the World Wide Web or elsewhere online.</p> 
 
 <p>We use such information for our business purposes, and, in particular, primarily to administer the Sites, and, in the aggregate, to what technologies are being used so that we may continually improve our Sites.</p>
 
@@ -292,173 +602,226 @@ Chicago, IL 60606</p>
 
 <h2>Your Acceptance of These Terms</h2>
 
-<p>By using any of the Sites, you signify your acceptance of our Privacy Policy, your promise to comply with the representations you make and contained in the Privacy Policy and Terms and Conditions, and your understanding of the scope and limitations of the protections provided under the Privacy Policy and Terms and Conditions. If you do not agree to these policies, please do not use our Sites. Your continued use of the Sites following the posting of changes to these terms will mean that you accept those changes.</p></div>
+<p>By using any of the Sites, you signify your acceptance of our Privacy Policy, your promise to comply with the representations you make and contained in the Privacy Policy and Terms and Conditions, and your understanding of the scope and limitations of the protections provided under the Privacy Policy and Terms and Conditions. If you do not agree to these policies, please do not use our Sites. Your continued use of the Sites following the posting of changes to these terms will mean that you accept those changes.</p> 
+
+<!-- END PAGE -->
+<!-- block__no_wrapper -->
+<!-- region__no_wrapper -->
+          
+
+        </div><!-- #left -->
+    
+        <!-- BEGIN RIGHT COL --> 
+        <div id="right">
+        
+            
+          
+          <p><a href="/give/index.html" id="donate" name="donate" title="Give">GIVE</a></p><div id="find_your_y"><form action="/find-your-y/" method="get"><input class="search-field search-field-find-your-y" name="address" size="14" title="City, State, or Zip" type="text"><input alt="Submit" class="go" src="/sites/all/themes/zen/global/go.gif" type="image">&nbsp;</form></div><p><img alt="Share Your Story" src="/sites/all/themes/zen/global/right/share.gif"><a class="readmore_green" href="/share-your-story/">READ MORE</a></p><p><img alt="Healthy Family Home" src="/sites/all/themes/zen/global/right/healthy_family.gif"><a class="readmore_red" href="/healthy-family-home/index.html?utm_source=ymcadotnet&amp;utm_medium=right+rail&amp;utm_campaign=Healthy+Family+Home">READ MORE</a> <img alt="World Service" src="/sites/all/themes/zen/global/right/world-service.gif"><a class="readmore_purple" href="/world-service/?utm_source=ymcadotnet&amp;utm_medium=right+rail&amp;utm_campaign=World+Service">READ MORE</a></p><p>&nbsp;</p>    
+        </div><!-- #right -->
 
 
-</div>
+      </div><!-- #col_wrapper -->
 
-<!--END LEFT-->
-
-
-<!--RIGHT-->
-
-<div id="right">
-<a href="/give/" title="Give" id="donate">GIVE</a>
-<div id="find_your_y"><form action="/find-your-y/" method="get"><input name="address" type="text" class="search-field search-field-find-your-y" title="City, State, or Zip" size="14"><input class="go" type="image" src="/themes/global/go.gif" alt="Submit"></form></div>
-<img src="/themes/global/right/military_support.gif" alt="Military Families Find Support"><a href="/military-outreach/?utm_source=ymcadotnet&amp;utm_medium=right%2Brail&amp;utm_campaign=Military%2BFamilies" class="readmore_red">READ MORE</a>
-<img src="/themes/global/right/healthy_family.gif" alt="Healthy Family Home"><a href="/healthy-family-home/?utm_source=ymcadotnet&amp;utm_medium=right%2Brail&amp;utm_campaign=Healthy%2BFamily%2BHome" class="readmore_red">READ MORE</a>
-<img src="/themes/global/right/world-service.gif" alt="World Service"><a href="/world-service/?utm_source=ymcadotnet&amp;utm_medium=right%2Brail&amp;utm_campaign=World%2BService" class="readmore_purple">READ MORE</a>
-<!--<img src="/themes/global/right/iphone_yfinder.gif" alt="Download iPhone Y Finder"><a href="/yfinder/" class="download_purple">DOWNLOAD</a>-->
-</div>
-<!-- END RIGHT -->
-
-
-</div>
-<!--END COLUMN WRAPPER -->    
-
-<!--END HTML BODY CONTENT -->
-<!--BEGIN INCLUDE SECTIONEND-->
-
-
-
-<!--END INCLUDE SECTIONEND-->
-<!--BEGIN INCLUDE FOOTER -->
- 
-</div><!--content-->
- 
-<div class="clear"></div>
-
-
-
-<table style="margin-top:25px;" cellpadding="10">
-			
-            <tbody><tr>
-              <td colspan="2" valign="bottom"><a href="/yfinder/"><img src="/themes/global/right/yfinder-small.gif" alt="Download iPhone Y Finder"></a></td>
-            </tr>
-            <tr>
-
-  <td valign="bottom">
-  <a href="http://www.facebook.com/YMCA" target="_blank"><img src="http://images.ymca.net/logos/facebook.gif" style="padding-right:5px;padding-left:10px;"></a></td>
-  <td valign="bottom" style="vertical-align:bottom;padding-bottom:4px;" align="left"><a href="http://www.facebook.com/YMCA" style="text-decoration:none;font-weight:bold;color:Black;font-size:10pt;" target="_blank">Become our fan on Facebook</a></td>
+    </div> <!-- #content -->
+    
+    <!-- APPS.YMCA.NET TEMPLATE BREAK -- DO NOT MOVE THIS LINE OF CODE -->    
+    
+    <div class="clear"></div>
+    <table style="margin-top:25px;" cellpadding="10" class="no-print">
+      <tbody><tr>
+        <td valign="bottom">
+          <a href="http://www.facebook.com/YMCA" target="_blank"><img src="http://images.ymca.net/logos/facebook.gif" style="padding-right:5px;padding-left:10px;"></a>
+        </td>
+        <td valign="bottom" style="vertical-align:bottom;padding-bottom:4px;" align="left">
+          <a href="http://www.facebook.com/YMCA" style="text-decoration:none;font-weight:bold;color:Black;font-size:10pt;" target="_blank">Become our fan on Facebook</a>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" style="padding-top:10px;" valign="bottom">
+          
+          <!-- AddThis Button BEGIN -->
+          <script type="text/javascript">
+            var addthis_config = { "data_track_clickback": true };
+            var addthis_pub = "ymcausa";
+            var addthis_brand = "the Y";
+            var addthis_options = 'email, favorites, facebook, twitter, linkedin, digg, delicious, google';
+          </script>
+          <a class="addthis_button" href="http://addthis.com/bookmark.php?v=250&amp;username=ymcausa"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="83" height="16" alt="Bookmark and Share" style="border:0"></a>
+          <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=ymcausa"></script>
+          <!-- AddThis Button END -->
+          
+        </td>
+      </tr>
 
 
-  </tr><tr>
-     <td colspan="2" style="padding-top:10px;" valign="bottom">
-<!-- AddThis Button BEGIN -->
-<script type="text/javascript">
-    var addthis_config = { "data_track_clickback": true };
-    var addthis_pub = "ymcausa";
-    var addthis_brand = "the Y";
-    var addthis_options = 'email, favorites, facebook, twitter, linkedin, digg, delicious, google';
+            
+    </tbody></table>
 
-</script>
-<a class="addthis_button" href="http://addthis.com/bookmark.php?v=250&amp;username=ymcausa"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="83" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=ymcausa"></script>
+    <div class="noindex no-print" id="footer">
 
-<!-- AddThis Button END -->
-</td>
+      <div id="footer_top">
+      	<ul id="submenubar">
+    		  <li><a href="http://www.ymca.net/terms-conditions/index.html">Terms of Use</a></li>
+    	    <li><a href="http://www.ymca.net/privacy-policy/index.html">Privacy Policy</a></li>
+    	    <li><a href="http://www.ymca.net/contact-us/site-feedback.html">Website Feedback</a></li>
+    		</ul>
+      </div> 
 
-  </tr>
-		</tbody></table>
+      <div id="footer_bottom">
+    	  <div id="submenupanel">
 
-<!--FOOTER -->
-<div class="noindex" id="footer">
+            <div id="block-system-main-menu" class="block block-system block-menu first last odd" role="navigation">
 
-<div id="footer_top">
-  	      <ul id="submenubar">
-		<li><a href="/terms-conditions/">Terms of Use</a></li>
-	    	<li><a href="/privacy-policy/">Privacy Policy</a></li>
-	    	<li><a href="/contact-us/site-feedback.html">Website Feedback</a></li>
-		</ul>
- 
-</div> 
- 
-<div id="footer_bottom">
-	<div id="submenupanel">
-		<ul>
-       	            <li class="menucategory"><a href="/about-us/">ABOUT US</a></li>
-		    <li><a href="/history/">History</a></li>
-	            <li><a href="/find-your-y/">Find Your Y</a></li>
-	            <li><a href="/find-a-y-camp/">Find a Y Camp</a></li>
-	            <li><a href="/donors-partners/">Donors &amp; Partners</a></li>
-                <li><a href="/organizational-profile">Organizational Profile</a></li>
-                <li><a href="/diversity-inclusion">Diversity &amp; Inclusion</a></li>
-                    
-		</ul>
-                <ul>
-                    <li class="menucategory"><a href="/our-focus/">OUR FOCUS</a></li>
-                    <li><a href="/youth-development/">Youth Development</a></li>
-                    <li><a href="/healthy-living/">Healthy Living</a></li>
-                    <li><a href="/social-responsibility/">Social Responsibility</a></li>
-                </ul>
-                <ul>
-                    <li class="menucategory"><a href="/be-involved/">BE INVOLVED</a></li>
-                    <li><a href="/join/">Join</a></li>
-                    <li><a href="/give/">Give</a></li>
-                    <li><a href="/volunteer/">Volunteer</a></li>
-                    <li><a href="/advocate/">Advocate</a></li> 
-                    <li><a href="/start-new-y/">Start a New Y</a></li>                    
-                </ul>
-                <ul>
-                    <li class="menucategory"><a href="/news-media/">NEWS &amp; MEDIA</a></li>
-                    <li><a href="/news-releases/">News Releases</a></li>
-                    <li><a href="/media-coverage/">Media Coverage</a></li>
-                  
-                </ul>
-                <ul>
-                    <li class="menucategory"><a href="/career-opportunities/">CAREER OPPORTUNITIES</a></li>
-                    <li><a href="/career-opportunities/open-positions.html">Open Positions</a></li>
-                    <li><a href="/career-opportunities/camp-positions.html">Camp Positions</a></li>
-                </ul>
-                 <ul>
-                    <li class="menucategory"><a href="/contact-us/">CONTACT US</a></li>
-                </ul>
-                <br><br><hr>
-                 <ul>
-                    <li class="menucategory"><a href="/global-services/">GLOBAL SERVICES</a></li>
-                </ul>
- 
-	</div>
- 
-<div class="clear"></div>
+      
+  <ul class="menu"><li class="first expanded menu-797"><a href="/about-us">About Us</a><ul class="menu"><li class="first collapsed menu-835"><a href="/history">History</a></li>
+<li class="leaf menu-801"><a href="/find-your-y" title="">Find Your Y</a></li>
+<li class="leaf menu-802"><a href="/find-a-y-camp" title="">Find A Camp</a></li>
+<li class="leaf menu-799"><a href="/donors-partners">Donors &amp; Partners</a></li>
+<li class="leaf menu-842"><a href="/organizational-profile">Organizational Profile</a></li>
+<li class="last leaf menu-798"><a href="/diversity-inclusion">Diversity &amp; Inclusion</a></li>
+</ul></li>
+<li class="expanded menu-766"><a href="/our-focus" title="">Our Focus</a><ul class="menu"><li class="first collapsed menu-783"><a href="/youth-development">Youth Development</a></li>
+<li class="collapsed menu-767"><a href="/healthy-living">Healthy Living</a></li>
+<li class="collapsed menu-778"><a href="/social-responsibility">Social Responsibility</a></li>
+<li class="last leaf menu-1278"><a href="/afterschool-meal-program">Afterschool Meal Program</a></li>
+</ul></li>
+<li class="expanded menu-780"><a href="/be-involved">Be Involved</a><ul class="menu"><li class="first leaf menu-836"><a href="/join">Join</a></li>
+<li class="leaf menu-804"><a href="/give" title="">Give</a></li>
+<li class="leaf menu-853"><a href="/volunteer">Volunteer</a></li>
+<li class="leaf menu-781"><a href="/advocate">Advocate</a></li>
+<li class="last leaf menu-850"><a href="/start-new-y">Start A New Y</a></li>
+</ul></li>
+<li class="expanded menu-584"><a href="/news-media">News &amp; Media</a><ul class="menu"><li class="first leaf menu-1074"><a href="/news-releases" title="">News Releases</a></li>
+<li class="last leaf menu-1039"><a href="/media-coverage" title="">Media Coverage</a></li>
+</ul></li>
+<li class="expanded menu-587"><a href="/career-opportunities" title="">Career Opportunities</a><ul class="menu"><li class="first leaf menu-588"><a href="/career-opportunities/open-positions.html" title="">Open Positions</a></li>
+<li class="last leaf menu-589"><a href="/career-opportunities/camp-positions.html" title="">Camp Positions</a></li>
+</ul></li>
+<li class="collapsed menu-794"><a href="/contact-us">Contact Us</a></li>
+<li class="last leaf menu-1473"><a href="/togetherhood" title="">Togetherhood</a></li>
+</ul>
+</div><!-- /.block -->
+      	    
+          
+        </div><!-- #submenupanel -->
+
+        <div class="clear"></div>
+
+      </div><!-- #footer_bottom -->
+
+      <p id="copyright">
+        Copyright © 2014 YMCA of the USA. All rights reserved.<br>
+        The YMCA is a nonprofit organization whose mission is to put Christian principles into practice through programs that build healthy spirit, mind and body for all.<br>
+      </p>
 
 
-</div>
-<p id="copyright">Copyright © 2012 YMCA of the USA. All rights reserved.<br>
-  The YMCA is a nonprofit organization whose mission is to put Christian principles into practice through programs that build healthy spirit, mind and body for all.<br>
-</p>
+    </div><!-- #footer -->
 
-<!--END FOOTER-->
-</div><!--container-->
- <div class="noprint">
- 
- </div>
+  </div> <!-- #container -->
+
+  <p class="printblock">
+    Copyright © 2014 YMCA of the USA. All rights reserved.<br>
+    The YMCA is a nonprofit organization whose mission is to put Christian principles into practice through programs that build healthy spirit, mind and body for all.<br>
+  </p>
+    
+    
+    <div class="noprint"></div>
+
+    <!-- Quantcast Tag -->
+    <script type="text/javascript">
+
+      var _qevents = _qevents || [];
+
+      (function() {
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem, scpt);
+      })();
+
+      _qevents.push({
+        qacct:"p-28G63vdj1zNs6"
+      });
+      
+    </script>
+
+    <noscript>
+      <div style="display:none;">
+        <img src="http://pixel.quantserve.com/pixel/p-28G63vdj1zNs6.gif" border="0" height="1" width="1" alt="Quantcast"/>
+      </div>
+    </noscript>
+
+    <!-- OUTBRAIN -->
+          <input type="hidden" name="OBKey" value="89A/NfUE28aZSr9FJQ+wzA=="> <script language="JavaScript">var OBCTm='1375283635882'; </script><script language="JavaScript" src="http://widgets.outbrain.com/claim.js"></script>
+    
+    <!-- BEGIN KSM SITEWIDE INCLUDE -->
+    <!-- BEGIN: Marin Software Tracking Script (Landing Page) -->
+    <script type="text/javascript">
+    var _mTrack = _mTrack || [];
+    _mTrack.push(['trackPage']);
+
+    (function() {
+    var mClientId = '1068bqk25413';
+    var mProto = (('https:' == document.location.protocol) ? 'https://' : 'http://');
+    var mHost = 'tracker.marinsm.com';
+
+    var mt = document.createElement('script'); mt.type = 'text/javascript'; mt.async = true; mt.src = mProto + mHost + '/tracker/async/' + mClientId + '.js';
+    var fscr = document.getElementsByTagName('script')[0]; fscr.parentNode.insertBefore(mt, fscr);
+    })();
+    </script>
+    <noscript>
+    <img width="1" height="1" src="https://tracker.marinsm.com/tp?act=1&cid=1068bqk25413&script=no" />
+    </noscript>
+    <!-- END: Copyright Marin Software -->
+
+    <script type="text/javascript">
+    // Conversion Name: 14_02_20_Remarketing_MediaMindRemarketing
+    var ebRand = Math.random()+'';
+    ebRand = ebRand * 1000000;
+    //<![CDATA[ 
+    document.write('<scr'+'ipt src="HTTP://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&amp;ActivityID=429385&amp;rnd=' + ebRand + '"></scr' + 'ipt>');
+    //]]>
+    </script><script src="HTTP://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&amp;ActivityID=429385&amp;rnd=552155.1362205166"></script>
+    <noscript>
+    <img width="1" height="1" style="border:0" src="HTTP://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&amp;ActivityID=429385&amp;ns=1"/>
+    </noscript>
+
+    <!-- Google Code for Remarketing tag -->
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 994247966;
+    var google_conversion_label = "w01qCPKguwQQnoqM2gM";
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+    <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/994247966/?value=0&amp;label=w01qCPKguwQQnoqM2gM&amp;guid=ON&amp;script=0"/>
+    </div>
+    </noscript>
+
+    <!-- Google Code for Remarketing Tag -->
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 975088229;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+    <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/975088229/?value=0&amp;guid=ON&amp;script=0"/>
+    </div>
+    </noscript> 
+    <!-- END KSM SITEWIDE INCLUDE -->  
+   
   
- 
- <!-- Quantcast Tag -->
-<script type="text/javascript">
-var _qevents = _qevents || [];
 
-(function() {
-var elem = document.createElement('script');
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-elem.async = true;
-elem.type = "text/javascript";
-var scpt = document.getElementsByTagName('script')[0];
-scpt.parentNode.insertBefore(elem, scpt);
-})();
-
-_qevents.push({
-qacct:"p-28G63vdj1zNs6"
-});
-</script>
-
-<noscript>
-<div style="display:none;">
-<img src="//pixel.quantserve.com/pixel/p-28G63vdj1zNs6.gif" border="0" height="1" width="1" alt="Quantcast"/>
-</div>
-</noscript>
-<!-- End Quantcast tag --> 
- 
-
-
-</div></body></html>
+</body></html>
