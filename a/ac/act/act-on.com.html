@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the act-on.com privacy policy that was archived on 2013-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131101171029id_/http%3A//www.act-on.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the act-on.com privacy policy that was archived on 2014-03-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140304124756id_/http%3A//www.act-on.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
 
-    <title>Act-On Privacy Policy</title>
+      <title>
+        Privacy Policy Generator | Website Privacy Policy | Act-On Privacy Policy      </title>
     
 <link rel="shortcut icon" href="/image/favicon.png">
 
@@ -30,7 +31,8 @@
 <script src="/includes/jquery.colorbox-min.js"></script>
 <script src="/includes/jquery.app-folders.js"></script>
 <script src="/includes/jflickrfeed.js"></script>
-
+<script src="/includes/js/easyXDM.min.js"></script>
+<script src="/includes/stickyMojo.js"></script>
 
 <script type="text/javascript" src="http://colodin.s3.amazonaws.com/js/act-on/tracker_act-on.js"></script>
 
@@ -110,7 +112,55 @@ $(document).ready(function () {
 });
 </script>
 
-<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=12775376"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<script>
+
+function getDocHeight(doc) {
+    doc = doc || document;
+    var body = doc.body, html = doc.documentElement;
+    var height = Math.max( body.scrollHeight, body.offsetHeight, 
+        html.clientHeight, html.scrollHeight, html.offsetHeight );
+    return height;
+}
+
+function setIframeHeight(id) {
+    var ifrm = document.getElementById(id);
+    var doc = ifrm.contentDocument? ifrm.contentDocument: 
+        ifrm.contentWindow.document;
+    ifrm.style.visibility = 'hidden';
+    ifrm.style.height = "10px"; // reset to minimal height ...
+    // IE opt. for bing/msn needs a bit added or scrollbar appears
+    ifrm.style.height = getDocHeight( doc ) + 4 + "px";
+    ifrm.style.visibility = 'visible';
+}
+
+</script>
+
+<!-- Scrolling for Job Page -->
+	<style>
+    #content {
+		float: left; width: 660px; margin-right: 40px;
+	}
+	#sidebar {
+	  width: 212px;
+	  background-color: #efefef;
+	  margin: 45px 0 30px 0;
+	  padding: 15px 15px;
+	  text-align: center;
+	  float: right;
+	  -webkit-transition: opacity 0.15s linear;
+	  -moz-transition: opacity 0.15s linear;
+	  transition: opacity 0.15s linear;
+	}
+	#sidebar:hover {
+	}
+    </style>
+    <script type="text/javascript">
+    $(document).ready(function(){
+	  $('#sidebar').stickyMojo({footerID: '#footer', contentID: '#content'});
+	});
+    </script>    
+
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script><script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=12775376"></script></head>
 <body itemscope="" itemtype="http://schema.org/WebPage">
 
 <div align="center">
@@ -130,7 +180,7 @@ $(document).ready(function () {
 							<li><a href="/contact" class="white">CONTACT</a></li>
 							<li style="margin-right: 8px;"><a href="/contact" class="green"><span style="iPhoneNumber"><strong>+1 877.530.1555</strong></span></a>&nbsp;&nbsp;&nbsp;|</li>
 							<li style="margin-right: 8px;"><a href="http://blog.act-on.com" target="_blank" class="white">BLOG</a></li>
-							<li style="margin-right: 5px;"><form id="demo-b" action="/search.html"><input type="search" placeholder="search" name="q" style="margin: 0;"></form></li>
+							<li style="margin-right: 5px;"><form id="demo-b" method="get" action="/search.html"><input type="search" placeholder="search" name="q" style="margin: 0;" value=""></form></li>
 						</ul>
 						</div>
 
@@ -165,6 +215,7 @@ $(document).ready(function () {
 									<li><a href="/products/webinars/">Webinars &amp; Events</a></li>
 									<li><a href="/products/administration-and-privileges/">Administration &amp; Privileges</a></li>
 								</ul>
+                                <a href="http://www.abtesting.net/" style="margin: 0; padding: 0;"><h2 class="link">ABTESTING.NET</h2></a>
 								</div>
 
 								<div class="col-1">
@@ -196,6 +247,8 @@ $(document).ready(function () {
 									<li><a href="/solutions/travel/">Travel, Hospitality, &amp; Leisure</a></li>
 									<li><a href="/solutions/financial-services/">Financial Services</a></li>
 									<li><a href="/solutions/healthcare/">Healthcare</a></li>
+									<li><a href="/solutions/manufacturing/">Manufacturing</a></li>
+									<li><a href="/solutions/insurance/">Insurance</a></li>
 									<li><a href="/marketing-automation/">Marketing Automation</a></li>
 								</ul>
 							</div>
@@ -273,6 +326,7 @@ $(document).ready(function () {
 										<li><a href="/about-us/board-of-directors">Board of Directors</a></li>
 										<li><a href="/about-us/careers/">Careers</a></li>
 										<li><a href="http://press.act-on.com/">Press &amp; News</a></li>
+										<li><a href="/about-us/analyst-acclaim">Analyst Acclaim</a></li>
 										<li><a href="/about-us/awards">Awards</a></li>
 										<li><a href="/about-us/trust-and-transparency">Trust &amp; Transparency</a></li>
 									</ul>
@@ -641,6 +695,12 @@ $(document).ready(function () {
 		collect any personal information
 		from users under 13 years of age.
 		</p>
+				
+		<h2 class="subhead-legal greywarm">Compliance With California Online Privacy Protection Act </h2>
+		 <p>
+		Act-On complies with the California Online Privacy Protection Act of 2014. 
+		</p>
+		
 		<h2 class="subhead-legal greywarm">Accessing and Updating Personal Information</h2>
 		 <p>
 		When you use the Act-On Site, we make good faith efforts to provide you with
@@ -680,7 +740,7 @@ $(document).ready(function () {
 		Beaverton, OR 97008
 		</p>
 		<p>
-		Updated:  June 18, 2013
+		Updated:  December 30, 2013
 		</p>
 	</div>
 
@@ -721,7 +781,8 @@ $(document).ready(function () {
 			<h2 style="margin: 0 0 15px 0; font-size: 14px;">Explore</h2>
 			
 			<div id="cp-links">
-				<!--
+				<!--c809aaa7e031ee40a1ea678ea6ce3970-->
+<!--
 <ul class="cp_topics">
   <li><a href="http://www.act-on.com/products/webinars/">Webinars and Events</a></li>
   <li><a href="http://www.act-on.com/products/reports-and-analytics/">Reports and Analytics</a></li>
@@ -732,13 +793,13 @@ $(document).ready(function () {
 -->
 
 <ul class="cp_topics">
-     <li><a href="http://www.act-on.com/marketing-topics/marketing-plan-definition">Define Marketing Programs</a></li>
-     <li><a href="http://act-on.com/products">Integrated Marketing</a></li>
-     <li><a href="http://act-on.com/partners/virtual-causeway.html">Inside Sales Virtual</a></li>
-     <li><a href="http://www.act-on.com/platform-nurturing.html">Drip Marketing Level</a></li>
-     <li><a href="http://www.act-on.com/marketing-topics/b2b-social-media-marketing">Social Media B2b</a></li>
-     <li><a href="http://www.act-on.com/marketing-topics/website-lead-generation">Lead Generation Strategy</a></li>
-     <li><a href="http://www.act-on.com/partners/qedbaton.html">Lead Demand Generation</a></li>
+     <li><a href="http://blog.act-on.com/2013/09/sales-ignores-leads-marketing">Leads Sales Lead Generation</a></li>
+     <li><a href="http://act-on.com/solutions/education">Higher Education Marketing</a></li>
+     <li><a href="http://www.act-on.com/partners/virtual-causeway.html">Inside Sales Virtual</a></li>
+     <li><a href="http://www.act-on.com/marketing/how-to-start-a-lead-generation-business">How To Start A Lead Generation Business</a></li>
+     <li><a href="http://www.act-on.com/marketing/free-lead-generation">Free Lead Generation</a></li>
+     <li><a href="http://blog.act-on.com/page/9">Top Content Marketing Blogs</a></li>
+     <li><a href="http://blog.act-on.com/2013/05/email-marketing-101">Email Marketing Tips 2013</a></li>
 </ul>
 			</div>
 			
@@ -764,7 +825,7 @@ $(document).ready(function () {
 				<li><a href="https://www.facebook.com/actonsoftware" target="_blank" rel="nofollow" class="facebook"></a></li>
 				<li><a href="https://twitter.com/actonsoftware" target="_blank" rel="nofollow" class="twitter"></a></li>
 				<li><a href="http://www.linkedin.com/company/375185" target="_blank" rel="nofollow" class="linkedin"></a></li>
-				<li><a href="https://plus.google.com/101235526000683158212/post" target="_blank" rel="nofollow" class="google"></a></li>
+				<li><a href="https://plus.google.com/101235526000683158212" target="_blank" rel="nofollow" class="google"></a></li>
 				<li><a href="http://www.youtube.com/user/ActOnSoftware" target="_blank" rel="nofollow" class="youtube"></a></li>
 				<li><a href="http://pinterest.com/actonsoftware/" target="_blank" rel="nofollow" class="pinterest"></a></li>
 			</ul>
@@ -777,7 +838,7 @@ $(document).ready(function () {
 	
 	<div class="text-left" style="margin-top: 25px; border-top: 1px solid #b7b6b5; padding: 15px 0 0 0; font-size: 11px; color: #4e4b49;">
 		
-		Copyright ©2008-2013 Act-On Software, Inc. | All Rights Reserved.
+		Copyright ©2008-2014 Act-On Software, Inc. | All Rights Reserved.
 		
 		<div class="spacer15"></div>
 		
@@ -841,7 +902,9 @@ $(document).ready(function () {
 	      '&ref='+escape(document.referrer) + '">'
 	      );
 
-	</script><img src="http://mktg.actonsoftware.com/acton/bn/248/visitor.gif?ts=1580375508333&amp;ref="><img src="http://mktg.actonsoftware.com/acton/bn/252/visitor.gif?ts=1580375508334&amp;ref="><img src="http://a4082.pagevisit.net/acton/bn/4082/visitor.gif?ts=1580375508334&amp;ref=">
+	</script><img src="http://mktg.actonsoftware.com/acton/bn/248/visitor.gif?ts=1580375511216&amp;ref="><img src="http://mktg.actonsoftware.com/acton/bn/252/visitor.gif?ts=1580375511217&amp;ref="><img src="http://a4082.pagevisit.net/acton/bn/4082/visitor.gif?ts=1580375511217&amp;ref=">
+	
+	
 <!-- Act-On Beacon for Forrester Demo Account -->
 
 	<script type="text/javascript">
@@ -854,7 +917,7 @@ $(document).ready(function () {
 	     var aoCookieMode = 'STANDARD';
 	     var aoCookieDomain= 'actonsoftware.com';
 	     var aoServerContext = 'http://cidemo.actonsoftware.com/acton';
-	</script><img src="http://cidemo.actonsoftware.com/acton/bn/5626/visitor.gif?ts=1580375508338&amp;ref=">
+	</script><img src="http://cidemo.actonsoftware.com/acton/bn/5626/visitor.gif?ts=1580375511219&amp;ref=">
 
 
 	<script type="text/javascript">
@@ -909,43 +972,19 @@ $(document).ready(function () {
                         }
                 );
                 
- 	</script>   
+ 	</script>  
+
 
 <!-- LivePerson Popup Chat Window -->
 
 	<!-- Formatted version of LivePerson code snippet so we can see what they are doing -->
 
+	<!-- BEGIN LivePerson Monitor. -->
 	<script type="text/javascript">
-	
-		var lpMTagConfig = {
-		    'lpServer': "server.iad.liveperson.net",
-		    'lpNumber': "12775376",
-		    'lpProtocol': (document.location.toString().indexOf('https:') == 0) ? 'https' : 'http'
-		};
-		
-		function lpAddMonitorTag(src) {
-		    if (typeof (src) == 'undefined' || typeof (src) == 'object') {
-		        src = lpMTagConfig.lpMTagSrc ? lpMTagConfig.lpMTagSrc : '/hcp/html/mTag.js';
-		    }
-		    if (src.indexOf('http') != 0) {
-		        src = lpMTagConfig.lpProtocol + "://" + lpMTagConfig.lpServer + src + '?site=' + lpMTagConfig.lpNumber;
-		    } else {
-		        if (src.indexOf('site=') < 0) {
-		            if (src.indexOf('?') < 0) src = src + '?';
-		            else src = src + '&';
-		            src = src + 'site=' + lpMTagConfig.lpNumber;
-		        }
-		    };
-		    var s = document.createElement('script');
-		    s.setAttribute('type', 'text/javascript');
-		    s.setAttribute('charset', 'iso-8859-1');
-		    s.setAttribute('src', src);
-		    document.getElementsByTagName('head').item(0).appendChild(s);
-		}
-		if (window.attachEvent) window.attachEvent('onload', lpAddMonitorTag);
-		else window.addEventListener("load", lpAddMonitorTag, false);	
-		
+	window.lpTag=window.lpTag||{};if(typeof window.lpTag._tagCount==='undefined'){window.lpTag={site:'12775376',section:lpTag.section||'',autoStart:lpTag.autoStart||true,ovr:lpTag.ovr||{},_v:'1.4',_tagCount:1,protocol:location.protocol,events:{bind:function(app,ev,fn){lpTag.defer(function(){lpTag.events.bind(app,ev,fn)},0)},trigger:function(app,ev,json){lpTag.defer(function(){lpTag.events.trigger(app,ev,json)},1)}},defer:function(fn,fnType){if(fnType==0){this._defB=this._defB||[];this._defB.push(fn)}else if(fnType==1){this._defT=this._defT||[];this._defT.push(fn)}else{this._defL=this._defL||[];this._defL.push(fn)}},load:function(src,chr,id){var t=this;setTimeout(function(){t._load(src,chr,id)},0)},_load:function(src,chr,id){var url=src;if(!src){url=this.protocol+'//'+((this.ovr&&this.ovr.domain)?this.ovr.domain:'lptag.liveperson.net')+'/tag/tag.js?site='+this.site}var s=document.createElement('script');s.setAttribute('charset',chr?chr:'UTF-8');if(id){s.setAttribute('id',id)}s.setAttribute('src',url);document.getElementsByTagName('head').item(0).appendChild(s)},init:function(){this._timing=this._timing||{};this._timing.start=(new Date()).getTime();var that=this;if(window.attachEvent){window.attachEvent('onload',function(){that._domReady('domReady')})}else{window.addEventListener('DOMContentLoaded',function(){that._domReady('contReady')},false);window.addEventListener('load',function(){that._domReady('domReady')},false)}if(typeof(window._lptStop)=='undefined'){this.load()}},_domReady:function(n){if(!this.isDom){this.isDom=true;this.events.trigger('LPT','DOM_READY',{t:n})}this._timing[n]=(new Date()).getTime()}};lpTag.init()}else{window.lpTag._tagCount+=1}
 	</script>
+	<!-- END LivePerson Monitor. -->
+	
 	
 	<!-- LivePerson Button Code -->
 
