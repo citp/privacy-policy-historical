@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kayak.co.in privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231083817id_/http%3A//www.kayak.co.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayak.co.in privacy policy that was archived on 2014-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140304021121id_/http%3A//www.kayak.co.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - KAYAK
 
