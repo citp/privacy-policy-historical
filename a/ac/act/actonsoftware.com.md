@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the actonsoftware.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101171029id_/http%3A//www.act-on.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actonsoftware.com privacy policy that was archived on 2014-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140304124756id_/http%3A//www.act-on.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Act-On Privacy Policy
+# Privacy Policy Generator | Website Privacy Policy | Act-On Privacy Policy
 
 This Privacy Policy covers our collection, use and disclosure of information we collect through our website, www.act-on.com and our service Act-On. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Act-On Software, Inc. ("Act-On"). 
 
@@ -119,6 +119,10 @@ We will respond to your request to access within 30 business days.
 
 As a business service, Act-On does not target its offerings toward, and does not knowingly collect any personal information from users under 13 years of age. 
 
+## Compliance With California Online Privacy Protection Act 
+
+Act-On complies with the California Online Privacy Protection Act of 2014. 
+
 ## Accessing and Updating Personal Information
 
 When you use the Act-On Site, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. You may update your Account information by logging into your Account. When requests come to Act-On with regard to personal information, we ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. 
@@ -136,4 +140,4 @@ Act-On Software, Inc.,
 Suite 250  
 Beaverton, OR 97008 
 
-Updated: June 18, 2013 
+Updated: December 30, 2013 
