@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iterable.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211024410id_/http%3A//www.iterable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iterable.com privacy policy that was archived on 2014-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140304073658id_/http%3A//iterable.com/privacy-policy) for the most accurate reproduction.*
 
 # Iterable | Privacy policy
 
