@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leadshot.net privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813072833id_/http%3A//leadshot.net/corporate/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadshot.net privacy policy that was archived on 2014-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140305082204id_/http%3A//www.leadshot.net/home/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Leadshot
+# Leadshot
 
 NOTICE: PRIVACY POLICY EFFECTIVE June 01, 2008. 
 
@@ -60,7 +60,7 @@ Removal of Your Information/Opting Out
 
 At your request, we will remove Personal Information that you have provided to us. However, deleting your Personal Information or otherwise opting-out of receipt of communications from us or third parties will only change or delete the data in our database for purposes of transacting future business on a Site and for managing future communications from us and third parties. These deletions will not change or delete Personal Information already collected as part of a particular transaction in our database, which may have already been shared with third parties, all as provided above in this Privacy Policy. You will need to contact third parties who may contact you directly to change your preferences or your personal information that they may be using to contact you. 
 
-We provide users the option to opt-out from receiving information sent via electronic mailings on behalf of third party advertisers. Users may unsubscribe from receiving e-mails at any time by following the instructions contained at the end of every e-mailing. Unsubscribe requests can only be processed if you have registered with us in the first instance. If you have not registered with us and wish to opt out of receiving e-mails from a particular sender, please consult that sender�s opt out policies or contact that sender. 
+We provide users the option to opt-out from receiving information sent via electronic mailings on behalf of third party advertisers. Users may unsubscribe from receiving e-mails at any time by following the instructions contained at the end of every e-mailing. Unsubscribe requests can only be processed if you have registered with us in the first instance. If you have not registered with us and wish to opt out of receiving e-mails from a particular sender, please consult that senders opt out policies or contact that sender. 
 
 Information sent on behalf of third party advertisers is prepared several days in advance, so users may continue to receive e-mail from us for up to ten (10) days following the unsubscribe procedures detailed above. 
 
@@ -74,4 +74,4 @@ By using this Site including, without limitation, signing up for offers and/or c
 
 Contacting us about privacy questions or concerns 
 
-If you have any questions about this Privacy Policy, the practices of any Site or your dealings with this Site, please contact us.
+If you have any questions about this Privacy Policy, the practices of any Site or your dealings with this Site, please contact us. 
