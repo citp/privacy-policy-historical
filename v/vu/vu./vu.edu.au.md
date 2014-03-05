@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the vu.edu.au privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112171600id_/http%3A//www.vu.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vu.edu.au privacy policy that was archived on 2014-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140305222444id_/http%3A//www.vu.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Victoria University | Melbourne Australia
 
-This page outlines the Victoria University (VU) Website Privacy Statement.
+## University privacy policy
 
-We also have more details about [Freedom of Information (FOI) requests](https://web.archive.org/privacy/freedom-of-information-foi) and how to lodge them.
+Victoria University takes your privacy seriously. Please refer to our [privacy policy](http://wcf.vu.edu.au/GovernancePolicy/PDF/POU090123000.PDF) for specific information. If you're a student completing any forms you should read the [Students Information Privacy Collection Statement](https://web.archive.org/sites/default/files/student-connections/pdfs/students-information-privacy-collection-statement.pdf) beforehand.
+
+If you have any questions or concerns, please check our frequently asked questions at [AskVU](http://askvu.vu.edu.au/) or phone us on 9919 6100 or free-call in Australia 1300 VIC UNI (or 1300 842 864).
 
 ## Website Privacy Statement
 
