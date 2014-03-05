@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boundless.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021211448id_/https%3A//www.boundless.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boundless.com privacy policy that was archived on 2014-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140305124651id_/https%3A//www.boundless.com/privacy) for the most accurate reproduction.*
 
 # Boundless - Privacy
 
