@@ -1,30 +1,46 @@
-> *The following text is extracted and transformed from the 7vachan.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923211630id_/http%3A//7vachan.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7vachan.com privacy policy that was archived on 2014-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140305060315id_/http%3A//7vachan.com/privacyPolicy.php) for the most accurate reproduction.*
 
-# Welcome to 7vachan
+# 7Vachan | Wedding aggregators and consultants
+
+Privacy Policy
 
 Our management has created this Privacy Statement (Policy) in order to demonstrate our firm commitment to help our users better understand what information we collect about them and what may happen to that information.  
 The following discloses our information gathering and dissemination practices for the Websites listed below.
 
+### OVERVIEW
+
 As part of the normal operation of our services we collect and, in some cases, may disclose information about you. This Privacy Policy describes the information we collect about you and what may happen to that information. By accepting this Privacy Policy and our Terms and Conditions, you expressly consent to our use and disclosure of your personal information in the manner prescribed in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Terms and Conditions.  
 This Privacy Statement applies to all related sites. All other worldwide sites operate under similar privacy practices as described in this Privacy Policy, and subject to the requirements of applicable local law, we strive to provide a consistent set of privacy practices throughout the online personals sites.
+
+### INFORMATION WE COLLECT
 
 Our primary goal in collecting personal information is to provide you with a smooth, efficient, and customized experience. This allows us to provide services and features that most likely meet your needs and to customize our service to make your experience easier. You agree that in order to assist our members to meet each other we may feature members' profiles in our editorials and newsletters that we send out from time to time to our members. Your profile is not available for other members to view. Your personal details, address and telephone number are confidential. Members' profiles include a description and photos, likes and dislikes, individual preferences and other information helpful in determining the right options and brands for you.  
 We automatically track certain information based upon your behavior on our Websites using cookies and other devices. We use this information for internal research on our members' demographics, interests, and behavior to better understand and serve you and our community. This information may include the URL that you just came from (whether this URL is on our site or not) which URL you next go to (whether this URL is on our site or not), what browser you are using, and your IP address.
 
+### COOKIES
+
 We use data collection devices such as "cookies" on certain pages of our Websites. "Cookies" are small files placed on your hard drive that assist us in providing customized services. We also offer certain features that are only available through the use of a "cookie". Cookies can also help us provide information which is targeted to your interests. You are always free to decline our cookies if your browser permits.
+
+### NOTE: EXTERNAL LINKS ON WEBSITE
 
 The Offering may include hyperlinks to other web sites or content or resources. 7vachan may have no control over any websites or resources which are provided by companies or persons other than 7vachan.  
 You acknowledge and agree that 7vachan is not responsible for the availability of any such external sites or resources, and does not endorse any advertising, products or other materials on or available from such websites or resources.  
 You acknowledge and agree that 7vachan is not liable for any loss or damage which may be incurred by you as a result of the availability of those external sites or resources, or as a result of any reliance placed by you on the completeness, accuracy or existence of any advertising, products or other materials on, or available from, such websites or resources.
+
+### OUR USE OF YOUR INFORMATION
 
 We use information in the files we maintain about you, and the other information we obtain from your current and past activities on the Websites to resolve disputes, troubleshoot problems and enforce our Terms and Conditions. At times, we may look across multiple members to identify problems or resolve disputes, and in particular we may examine your information to identify members multiple Member ID No. or aliases. You agree that we may use personally identifiable information about you to improve our marketing and promotional efforts, to analyze site usage, improve our content and product offerings, and customize our Site's content, layout, and services. These uses improve our site and better tailor it to meet your needs.  
 You agree that we may use your information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use on the Websites. By accepting this Privacy Policy, you expressly agree to receive this information.
 
 We use a third party advertising company, to serve ads on our behalf across the Internet. The third party may also collect anonymous information about your visits to our Web site. This is primarily accomplished through the use of a technology device, commonly referred to as a Web beacon or an action tag, which we place on various Web pages within our Web site or in an html e-mail to collect anonymous information. We, or these third parties, may use information about your visits to this and other Web sites in order to provide ads about goods and services of interest to you.
 
+### CONFIDENTIALITY
+
 You further acknowledge that the Offering may contain information which is designated confidential by 7vachan and that you shall not disclose such information without 7vachan's prior written consent.  
 Your information is regarded as confidential and therefore will not be divulged to any third party, unless if legally required to do so to the appropriate authorities.   
 We will not sell, share, or rent your personal information to any third party or use your e-mail address for unsolicited mail. Any emails sent by us will only be in connection with the provision of agreed services and products.
+
+### OUR DISCLOSURE OF YOUR INFORMATION
 
 Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting and foregoing), we may be forced to disclose information to the government, law enforcement agencies or third parties. Under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or members may abuse or misuse your information that they collect from our Websites. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or private communications will always remain private.  
 As a matter of policy, we do not sell or rent any personally identifiable information about you to any third party. However, the following describes some of the ways that your personally identifiable information may be disclosed.  
@@ -34,14 +50,24 @@ Other Corporate Entities: We share much of our data, including personally ident
 
 **Law and Order:** We cooperate with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights. We can (and you authorize us to) disclose any information about you to law enforcement and other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us or you to legal liability.
 
+### ACCESSING, REVIEWING AND CHANGING YOUR PROFILE
+
 Following registration, you can review and change the information you submitted during registration through the Member Service Menu. If you change any information we may keep track of your old information. You can also change your registration information such as: name, address, city, state, zip code, country, phone number, profile, likes and dislikes, desired brands saved search criteria.  
 We will retain in our files information you have requested to remove for certain circumstances, such as to resolve disputes, troubleshoot problems and enforce our terms and conditions. Further, such prior information is never completely removed from our databases due to technical and legal constraints, including stored 'back up' systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests.
 
+### CONTROL OF YOUR PASSWORD
+
 You are responsible for all actions taken with your login information and password, including fees. Therefore we do not recommend that you disclose your account password or login information to any third parties. If you choose to share this information with third parties to provide you additional services, you are responsible for all actions taken with your login information and password and therefore should review each third party's privacy policy. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password.
+
+### OTHER INFORMATION COLLECTORS
 
 Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are on our Websites or on other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. To the extent that we use third party advertisers, they adhere to their own privacy policies. Since we do not control the privacy policies of the third parties, you are subject to ask questions before you disclose your personal information to others.
 
+### SECURITY
+
 We treat data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by members inside and outside the company. However, "perfect security" does not exist on the Internet. **You therefore agree that any security breaches beyond the control of our standard security procedures are at your sole risk and discretion.**
+
+### NOTIFICATION OF MODIFICATIONS AND CHANGES TO THE T&C AND PRIVACY POLICY
 
 We reserve the right to change the Terms and Privacy Policy from time to time as it sees fit and your continued use of the site will signify your acceptance of any adjustment to these terms. We will announce that these changes have been made on our home page and on other key pages on the Website.   
 You are therefore advised to re-read the T&C on a regular basis. Should it be that you do not accept any of the modifications or amendments to the Terms, you may terminate your use of this website immediately.
