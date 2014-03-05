@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the independentlivingbullion.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207053720id_/http%3A//www.independentlivingbullion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independentlivingbullion.com privacy policy that was archived on 2014-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140305103407id_/http%3A//www.independentlivingbullion.com/privacy) for the most accurate reproduction.*
 
 # Privacy
+
+Gold: **1,334.30** -0.60    Silver: **21.27** +0.06
 
 ****Independent Living Bullion**** values your privacy, and as a result we do only the minimum collection of information on our visitors in order to provide you with the best possible service we can. The information below describes the limited extent to which we collect and utilize your personal information online.
 
