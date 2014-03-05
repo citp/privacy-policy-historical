@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveduvalstreet.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117164242id_/http%3A//www.liveduvalstreet.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveduvalstreet.com privacy policy that was archived on 2014-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140305012151id_/http%3A//www.liveduvalstreet.com/privacy.htm) for the most accurate reproduction.*
 
 # Live Duval Street Web Cam in Key West, Florida :: Sloppy Joe's Bar ::
 
