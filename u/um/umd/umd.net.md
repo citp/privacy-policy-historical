@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umd.net privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208191535id_/http%3A//umd.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umd.net privacy policy that was archived on 2014-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140306030856id_/http%3A//umd.net/privacy_policy) for the most accurate reproduction.*
 
 # UMD - The Wet and Messy Fetish Community
 
@@ -16,7 +16,7 @@ Please be reminded that content that you post here, including text, photos, and 
   
 
 
-[](http://umd.net/go/site_id/9771/location/site_footer/banner/2_11%2F650x11015_1298851387_uid_14208.jpg)
+[](http://umd.net/go/site_id/1625/new/35941/location/site_footer/banner/2_11%2Fnaomialex134copy_1298279572_uid_1927.jpg)
 
   
 
