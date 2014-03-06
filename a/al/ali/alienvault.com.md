@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the alienvault.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220002119id_/http%3A//www.alienvault.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alienvault.com privacy policy that was archived on 2014-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140306232024id_/http%3A//www.alienvault.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AlienVault
 
 This privacy policy describes AlienVault's practices regarding how information we collect on the AlienVault web sites is used and shared with third parties. By visiting the AlienVault web sites, you accept the practices described in this privacy policy. This privacy policy applies to anonymous data and personal information collected at our web sites, and to personal information collected in connection with the sale, support and use of our products and services. This privacy policy also applies where you are a customer or user of any of our hosted service offerings.
 
-##  Part I. Information Collection
+## Part I. Information Collection
 
 We may collect personal information through our web sites. This information is used in e-commerce transactions and to provide customer service and support.
 
@@ -16,7 +16,7 @@ If you do not wish AlienVault to use your personal information as described in t
 
 In order to protect the privacy interests of younger Internet users, we do not actively market our web sites or products to children under 13. We do not knowingly collect information from children under 13 for marketing purposes. We encourage children of any age to visit our web sites or to use our products and services only with the supervision of their parents.
 
-##  Part II. Information Usage
+## Part II. Information Usage
 
 The information collected by us is used to understand how customers are using our products and services in order to make them better.
 
@@ -34,11 +34,11 @@ We offer links to other web sites. Please note: those other web sites may observ
 
 Our web sites may offer a space for postings and submissions. Please be advised that any information posted in these venues will be publicly available.
 
-##  Part III. Access to Your Information
+## Part III. Access to Your Information
 
 If you wish to correct or delete of any of your personal information held by us or a change in the way we use your information, please contact support at [info@AlienVault.com](http://info@alienvault.com/). We will use commercially reasonable efforts to fulfill your request in a timely manner, but not more than 30 days. However, even if we delete such personal information from our 'live' database, it may still be stored on other databases (including those kept for archival purposes).
 
-##  Part IV. Data Storage and Security
+## Part IV. Data Storage and Security
 
 We use industry-standard methods of securing electronic databases of personal information. Except as provided elsewhere in this privacy policy, we limit access to personal information in electronic databases to those persons in our organization who have a business need for such access. However, you should know that no web site operator, including AlienVault, can fully eliminate security risks associated with personal information.
 
@@ -46,11 +46,11 @@ Your privacy is very important to us. Due to factors beyond our control, however
 
 AlienVault’s hosted service offerings may store electronic data, text, queries and other information provided by its customers, some of which may be personal information. We do not own or control any of the information we process on behalf of our customers. We receive information transferred from our customers merely as a data processor, and typically do not collect, access, transfer or use any of this information ourselves. At the direction of our customers, we may perform query operations or transfer data to third parties for hosting purposes or integration with third party software products or services. Any access to or use of personal information by us is incidental to performing our contractual obligations to our customers as a data processor. We rely on our customers to ensure that personal information is relevant for the purposes for which it is used, reliable for its intended use, accurate, complete and current, and is collected, accessed, transferred and used in a manner that does not infringe the rights or privacy of any individual and does not violate any applicable law, regulation or directive.
 
-##  Part V. Modifications
+## Part V. Modifications
 
 We may amend this privacy policy at any time by posting the amended version on our web sites.
 
-##  Part VI. Contact Information
+## Part VI. Contact Information
 
 If you have any questions regarding this privacy policy, please [contact support](http://www.alienvault.com/contact). We will use commercially reasonable efforts to resolve disputes within 90 days.
 
