@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wric.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231000933id_/http%3A//www.wric.com/story/18990/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wric.com privacy policy that was archived on 2014-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140306191443id_/http%3A//www.wric.com/story/18990/privacy-policy) for the most accurate reproduction.*
 
-# This Web Site’s Privacy Policy - WRIC Richmond News and Weather -
+# This Web Site’s Privacy Policy - ABC 8NEWS - WRIC | Richmond, Virginia News & Weather
 
 We provide a variety of online web services, mobile applications, and services for location-enabled and other types of devices (collectively, the "Services") from news and weather to interactive entertainment to electronic commerce via our relationship with Gannaway Web Holdings, LLC d/b/a WorldNow ("WorldNow"). WorldNow is the host of this Web site.  Because the success of the Services is dependent on building and maintaining goodwill with our customers, this Web site and WorldNow (hereinafter collectively referred to as "we" or "us" or "our") are committed to implementing measures designed to protect the privacy of those using our services.  Moreover, we see it as our responsibility to set examples and help establish the standards for privacy on the Internet.
 
