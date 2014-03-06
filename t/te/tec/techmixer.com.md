@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the techmixer.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805160308id_/http%3A//www.techmixer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techmixer.com privacy policy that was archived on 2014-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140306074532id_/http%3A//www.techmixer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Posted on 24. Jul, 2008 by in [Others](http://www.techmixer.com/category/others/ "View all posts in Others")
+Posted by in [Others](http://www.techmixer.com/category/others/ "View all posts in Others")
 
 ADVERTISEMENTS 
 
