@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liquidgeneration.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117033938id_/http%3A//www.liquidgeneration.com/Blog/Suck-My-Blog/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquidgeneration.com privacy policy that was archived on 2014-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140307215308id_/http%3A//www.liquidgeneration.com/ppol.html) for the most accurate reproduction.*
 
-# Privacy Policy | Liquid Generation
+# Animation, Celebrity News, Cartoons, Games, Personality Quiz | Liquid Generation
 
 This statement describes the privacy policy of LiquidGeneration, Inc. ("LiquidGeneration") for its website, Liquidgeneration.com. It applies only to Liquidgeneration.com, so if you visit other sites linked to Liquidgeneration.com, you should review the privacy policies of those sites. Also, this privacy policy does not apply to Liquidgenerations’s practices for gathering information offline or at other sites that it may own or operate. Also, LiquidGeneration reserves the right to update this policy at any time without notice, so we suggest that you occasionally review it. 
 
