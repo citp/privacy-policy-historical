@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tinder.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121161836id_/http%3A//www.tinder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinder.com privacy policy that was archived on 2014-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140307164213id_/http%3A//www.gotinder.com/privacy) for the most accurate reproduction.*
 
-# Tinder - Privacy Policy
+# Tinder: Privacy Policy
 
 This Privacy Policy explains the information that Tinder, Inc. (“Tinder Co,” “we,” or “us”) collect about users of the Tinder mobile application and related website (“Tinder”), how we use that information, and with whom we share it. If we make any material changes to our privacy practices, we will post a revised Privacy Policy on this page. If you have any questions, please contact us by sending an email to [help@gotinder.com](mailto:help@gotinder.com) or writing to Tinder, Co., 8800 W. Sunset Ave, West Hollywood, CA 90069.
 
@@ -20,11 +20,11 @@ This Privacy Policy explains the information that Tinder, Inc. (“Tinder Co,”
 
 **Information you choose to provide:**
 
-In order to register, you will be asked to sign-in using your Facebook login.  If you do so, you authorize us to access certain Facebook account information, including information about your Facebook friends who might be common Facebook friends with other Tinder users. By allowing us to access your Facebook account, you understand that we will obtain and share your name and a profile picture, as well as the name and profile picture of your Facebook friends who are common Facebook friends with other Tinder users in your network or geolocation. 
+In order to register, you will be asked to sign-in using your Facebook login. If you do so, you authorize us to access certain Facebook account information, including information about your Facebook friends who might be common Facebook friends with other Tinder users. By allowing us to access your Facebook account, you understand that we will obtain and share your name and a profile picture, as well as the name and profile picture of your Facebook friends who are common Facebook friends with other Tinder users in your network or geolocation.
 
 Whenever you voluntarily disclose personal information on publicly-viewable screens or pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information.
 
-You may also (but are not required to) provide information about yourself (such as your gender, location, URL, or a biography).  Any additional image or information you provide may be publicly displayed. If you wish, we will delete your account information; to do so, please close your account by sending an email to [help@gotinder.com](mailto:help@gotinder.com)
+You may also (but are not required to) provide information about yourself (such as your gender, location, URL, or a biography). Any additional image or information you provide may be publicly displayed. If you wish, we will delete your account information; to do so, please close your account by sending an email to [help@gotinder.com](mailto:help@gotinder.com)
 
 **Information about others:**
 
@@ -36,7 +36,7 @@ We use your information to provide and improve our services, award loyalty point
 
 **Geo-location-information:**
 
-While the Tinder application is in use, we keep track of your device’s geographic location so that we can connect you to other Tinder users based on your particular geographic location. 
+While the Tinder application is in use, we keep track of your device’s geographic location so that we can connect you to other Tinder users based on your particular geographic location.
 
 * **Use of your information by others**
 
@@ -54,7 +54,7 @@ We may share user information with other companies for various reasons as descri
 
 **Aggregated Information:** We may publicly disclose aggregated information about our users, such as the total number of our users and their overall demographics.
 
-**Legal matters:** We may disclose any information:  in response to a legal request, such as a subpoena, court order, or government demand; to investigate or report illegal activity; or to enforce our rights or defend claims.  We may also transfer your information to another company in connection with a corporate restructuring, such as a sale or merger.
+**Legal matters:** We may disclose any information: in response to a legal request, such as a subpoena, court order, or government demand; to investigate or report illegal activity; or to enforce our rights or defend claims. We may also transfer your information to another company in connection with a corporate restructuring, such as a sale or merger.
 
 * **Children's privacy**
 
@@ -62,4 +62,4 @@ We do not allow persons under 13 to register for any service, and we do not know
 
 * **Information from users outside the United States**
 
-If you’re outside the United States, your information will be sent to and stored in the United States, where our servers are located.  By using Tinder, you agree to the information collection, use, and sharing practices described in this Privacy Policy.
+If you’re outside the United States, your information will be sent to and stored in the United States, where our servers are located. By using Tinder, you agree to the information collection, use, and sharing practices described in this Privacy Policy.
