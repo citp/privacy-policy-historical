@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefancy.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518070730id_/http%3A//www.thefancy.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefancy.com privacy policy that was archived on 2014-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140307113915id_/http%3A//fancy.com/help/privacy) for the most accurate reproduction.*
 
-# Fancy - Privacy" %}
+# Fancy - Privacy
 
 ### Privacy Policy
 
@@ -8,7 +8,7 @@ Thank you for using Fancy! We wrote this policy to help you understand what info
 
 **Note:** This Privacy Policy is effective as of February 4, 2013.
 
-Thing Daemon, Inc. ("Thing Daemon", "our", "us" or "we") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of [www.thefancy.com](http://www.thefancy.com/) (this "Site") and our corresponding applications for mobile devices (the "Applications"). This Privacy Policy applies only to information that you provide to us through the Site and Applications. This Privacy Policy may be updated from time to time. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service, accessible at [http://thefancy.com/help/terms](https://web.archive.org/help/terms).
+Thing Daemon, Inc. ("Thing Daemon", "our", "us" or "we") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of [www.fancy.com](http://www.fancy.com/) (this "Site") and our corresponding applications for mobile devices (the "Applications"). This Privacy Policy applies only to information that you provide to us through the Site and Applications. This Privacy Policy may be updated from time to time. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service, accessible at [http://fancy.com/help/terms](https://web.archive.org/help/terms).
 
 As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
 
@@ -82,8 +82,8 @@ Our Site and Applications may contain links to other websites. If you choose to 
 
 #### 8) Our Policy Toward Children
 
-This Site and Applications are not directed to children under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [hello@thefancy.com](mailto:hello@thefancy.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+This Site and Applications are not directed to children under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [hello@fancy.com](mailto:hello@fancy.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
 
 #### 9) How to contact us
 
-If you have any questions about this Policy or any of the practices described herein, please contact us at 333 Hudson Street, New York, NY 10013 or send us an email at [hello@thefancy.com](mailto:hello@thefancy.com).
+If you have any questions about this Policy or any of the practices described herein, please contact us at 333 Hudson Street, New York, NY 10013 or send us an email at [hello@fancy.com](mailto:hello@fancy.com).
