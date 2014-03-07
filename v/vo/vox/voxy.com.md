@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the voxy.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206164410id_/http%3A//voxy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voxy.com privacy policy that was archived on 2014-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140307171633id_/https%3A//voxy.com/privacy-policy) for the most accurate reproduction.*
 
-# VOXY :: Learn a language from life
+# Privacy Policy - Voxy
 
 Last Revised:  May, 2013
 
