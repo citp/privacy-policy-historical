@@ -1,74 +1,53 @@
-> *The following text is extracted and transformed from the officesupply.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621035039id_/http%3A//www.officesupply.com/index/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officesupply.com privacy policy that was archived on 2014-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140307173253id_/http%3A//www.officesupply.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy - OfficeSupply.com
+# Privacy Policy
 
-## Privacy Policy
+## We track IP Addresses.
 
-_Revision Date: April 21, 2010_
+Your IP address is used to help diagnose problems with our server, and to administer the Web site, in addition your IP address is used to help identify you and your shopping cart (in conjunction with a cookie.) We also use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site.
 
-Officesupply.com is owned and operated by Internet REIT, Inc. ("iREIT"). This Privacy Policy is intended to inform you of our privacy policy and practices, and of the choices you can make about the way your information is collected and used by us. 
+## This site may contain links to other sites.
 
-#### 1\. Types of information we collect:
+OfficeSupply.com is not responsible for the privacy practices or the content of such Web sites, unless otherwise specified below your information is never shared with other companies.
 
-In order to make our sites (including the site through which you accessed this Privacy Policy ("Sites")) as beneficial to users ("Users") as possible, and to facilitate interaction between Users and iREIT's affiliates, we collect certain personal and non-personal information. 
+## This site requires Unique Identifiers.
 
-**"Personal information"** is information that is associated with your name or personal identity. iREIT uses personal information to better understand your needs and interests and to provide you with better service. Once you choose to provide us with personal information, you can be assured that it will be used only to support your relationship with iREIT and its affiliates. 
+This site uses an order form for customers to request information, products, and services, it also collects visitor's contact information (like their email address), in some circumstances their unique identifiers (like their pets name, or mothers maiden name), and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders and information about our company to customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future informational mailings; see the choice/opt-out section below, users may NOT opt out of receiving order notifications, or other contacts which are deemed essential by OfficeSupply.com.
 
-In order to register for some services, request information, order products, or subscribe to marketing or other support materials on our Sites, a User may be prompted to complete a registration form which will require the User to give certain personal information (such as the User's name, address, telephone number, e-mail address, user IDs and passwords, billing and transaction information, credit card information, and contact preferences). In the event we should arrange an affiliate arrangement with you and you apply for affiliate payments, we may ask you to provide additional information such as your social security number. This information will be used by our financial department for payment and tax reporting purposes. Some or all of this personal information may also be used by iREIT or its affiliates to contact you directly and to determine your suitability for certain services. All such determinations are at our or our affiliates. sole and absolute discretion, and right to exclude or terminate you from any services for any reason is expressly reserved. 
+## This site collects Financial Information.
 
-To personalize our websites, services or communications, and to improve our products and services, we may also ask you to provide us with information regarding your personal or professional interests, demographics, and experiences with the products or services listed on the Sites. Providing this additional information may be optional. We may share aggregated demographic information with our affiliates. 
+Financial information that is collected is used to bill the customer for products and services. Unique identifiers (such as pets name, and mothers maiden name) are collected from Web site visitors to verify the user's identity.
 
-**"Non-personal information"** is data about usage and service operation that is not associated with a specific person's identity. We collect and analyze non-personal information to evaluate how visitors use our Sites. 
+## This site may contain Surveys.
 
-Non-personal data we collect may include the pages visited on a Site, unique URLs visited within a Site, the User's browser type and the User's IP address. Most non-personal data is collected via cookies or other technologies. Our Sites use cookies, Web beacons and other such technologies for data analysis and to better personalize our services. Our Sites may also incorporate ads linking to other websites that may use cookies. 
+Our online surveys ask visitors for contact information (like their email address). We use contact data from our surveys to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. This site may also run contests in which case we may ask visitors for contact information (like their email address). Generally this information is used to verify eligibility, however we may also use contact data from our contests to send users information about OfficeSupply.com. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected from our users is used to check the users' qualifications for registration and bill the user for products and services.
 
-#### 2\. Children's privacy:
+## About our System Security.
 
-iREIT is committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children's online activities and interests. iREIT does not knowingly collect information from children under the age of 13 and iREIT does not knowingly target its Sites to children under the age of 13. 
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Information is stored in a password protected database system. Whenever sensitive information is accessed it is transmitted using strong SSL encryption.
 
-#### 3\. How we use your information:
+## This site provides the choice to Opt In or Out.
 
-iREIT uses personal information to provide you with services and to help us better understand your needs and interests. Specifically, we use your information to communicate with you, to provide service and support, to update you on services and benefits, to personalize promotional offers and to personalize our Sites. Occasionally we may also use your information to contact you for market research regarding products or services, or the products and services of our affiliates. Your participation in these surveys is completely voluntary and you may choose whether or not to participate and therefore disclose this information. 
+Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. Each time an information email is distributed, you have the option to use unique unsubscribe url which is attached to each outgoing email. Customers may unsubscribe at any time by simply logging into their accounts.
 
-Personal data collected online may also be combined with information you provide iREIT through other sources such as subscriptions or public events such as trade shows or seminars. 
+## We provide the ability to Correct/Update YOUR information.
 
-Personal data given to us may be transferred across state and country borders for the purposes of data consolidation, storage and simplified customer information management. 
+This site gives users the following options for changing and modifying information previously provided. Simply visit the customer login area of this website.
 
-Non-personal data is aggregated for reporting about the usability, performance and effectiveness of our Sites. It may also be used to improve the customer experience, usability and Site content. 
+## Contacting the Web Site.
 
-#### 4\. With whom we share your information:
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/contact) via our contact page.
 
-iREIT will not share your personal information with third parties except in responding to your requests for products or services. Your permission will be requested when you submit your information. 
+## Secure Shopping
 
-Suppliers and service providers are required to keep confidential the information received on behalf of iREIT and may not use it for any purpose other than to carry out the services they are performing for us or our Users. Our list of affiliates may change or we may contract with additional service providers to better accommodate our Users. iREIT will not share personal information with any other third parties without your permission, unless required by law enforcement action, subpoena, or local law. 
+We want you to be safe and secure when ordering online. Therefore strong precautions are taken to protect the information of the users of our Site. When users submit sensitive information via the Site, that Information is protected both online and off-line. Our website is also tested daily by a third party security system called Hacker Safe (ScanAlert).
 
-iREIT, or any of its Sites or affiliates could merge with or be acquired by another business entity or some or all of their respective assets could be acquired. If such a combination or acquisition occurs, some or all of your personal information may be shared with the merging or acquiring entity on a confidential basis.
+We take credit card information security seriously and use a variety of technical solutions to make shopping safe at our Site. Furthermore, your information is encrypted and is protected utilizing the industry standard Secure Sockets Layer (SSL) encryption software. SSL encrypts all of your personal information, including your credit card number, your name, and your address, so that the information cannot be read as it travels over the Internet. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'.
 
-#### 5\. Your choices:
+If at any point you do not feel comfortable ordering on the web or simply need more product information please call one of our helpful customer service representatives or simply [send us an email](https://web.archive.org/contact).
 
-iREIT gives you the choice of receiving a variety of information that complements our products and services. You may have opportunities to subscribe to certain product- and service-specific information and other marketing communications such as new product information, special offers, or an invitation to participate in market research. We give you a choice regarding delivery of iREIT communications by postal mail, e-mail and telephone. You can make or change your choices by email at any time. We will make every effort to honor your preferences. This option does not apply to communications for the purpose of administering order completion, contracts, billing, or support. 
+## Email Privacy
 
-#### 6\. Your privacy preferences and opting out:
+We will not sell, trade, or in any way allow any other company to receive your email address. Your email address is simply a way for us to provide a better shopping experience to the customers we do business with. When you provide a valid email address to us at the time of the sale or when signing up for our optional mailing list it allows us to keep you updated on your order status, problems with your order, or contacting you for more information as it relates to your order. When you checkout you may also signup for our optional mailing list. We occasionally will send promotional newsletters to customers that opt in to receive our specials. You may opt out at any time you wish simply by logging into your account and changing your preferences.
 
-To opt-out of communications you have expressly requested (such as e-mail lists, product updates, etc.), use any of the following methods:
-
-  * Contact us by e-mail from the email address on file with iREIT. In the subject line of your email, put "opt-out" or "unsubscribe" and in the body of the email specifically list those services you wish to opt-out of.
-  * Write your specific request to the iREIT Privacy Office. Be sure to provide your name, e-mail and postal address, and relevant information about your iREIT subscriptions and registrations. 
-
-
-
-#### 7\. Access to and accuracy of your information:
-
-iREIT strives to keep your personal information accurate. We have implemented technology, management processes and policies to maintain customer data accuracy. We will provide you with access to your information, including making reasonable efforts to provide you with online access and the opportunity to change your information. To protect your privacy and security, we will also take reasonable steps to verify your identity, such as a password and user ID, before granting access to your data. Certain areas of our Sites may limit access to specific individuals through the use of passwords and other personal identifiers.
-
-#### 8\. Keeping your information secure:
-
-iREIT is committed to protecting the personal information you provide to us which is not being shared with third parties with your permission. To prevent unauthorized access or disclosure, to maintain data accuracy, and to ensure the appropriate use of the information, iREIT has attempted to put in place appropriate physical and managerial procedures to safeguard the information we collect. In the event of any breaches to our security system of which we become aware, we will notify you if it is reasonable to believe that your personal information was acquired by any unauthorized person. 
-
-#### 9\. Changes to this Policy:
-
-If there are updates to the terms of this Privacy Policy, we will post those changes and update the revision date in this document.
-
-#### 10\. Contacting us:
-
-We value your opinions. If you have comments or questions about this Privacy Policy, please send them to the iREIT [Privacy Office](mailto:sales@ireit.com). 
+Please be sure to add sales@officesupply.com to your email address book so you may continue receiving emails from OfficeSupply.com.
