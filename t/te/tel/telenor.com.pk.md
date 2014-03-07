@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telenor.com.pk privacy policy that was archived on 2013-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130802085050id_/http%3A//www.telenor.com.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telenor.com.pk privacy policy that was archived on 2014-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140307132440id_/http%3A//www.telenor.com.pk/privacy-policy) for the most accurate reproduction.*
 
 # Telenor Pakistan - Privacy Policy
 
@@ -52,7 +52,7 @@ We may collect Personal Data about your usage of the services on the **Telenor.c
 |   
 **8.** | 
 
-We may hold Personal Data relating to the transactions you enter into with Us or others through **@telenor.com.pk**. We will disclose Personal Data to a party to the transaction, but only to assist your transaction. We may use Personal Data to let you know about products and services that may be of particular interest to you.  
+We had implemented Google Analytics features based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting). Using the [Ads Settings](https://www.google.com/settings/ads/), you can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.  
   
 |   
 **9.** | 
