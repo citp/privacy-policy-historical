@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the colbertnation.com privacy policy that was archived on 2013-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131102122722id_/http%3A//www.colbertnation.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the colbertnation.com privacy policy that was archived on 2014-03-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140307113639id_/http%3A//www.colbertnation.com/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 		<title>Privacy Policy | Colbert Nation | Comedy Central</title>
@@ -32,6 +32,9 @@
 		
 				
 		
+		<script type="text/javascript">fbAppId = '137674243479';</script>
+		
+		
 		<script type="text/javascript" src="http://www.colbertnation.com/media/top.js"></script>
  		
 		
@@ -60,7 +63,8 @@
 		FB.Event.subscribe('edge.create');
 	</script>
 	
-	<script type="text/javascript" src="http://www.mtv.com/global/scripts/special/projx.jhtml?channelname=Comedy%20Central"></script>
+	<!--script type="text/javascript" src="http://www.mtv.com/global/scripts/special/projx.jhtml?channelname=Comedy%20Central"></script-->
+	<script type="text/javascript" src="http://btg.mtvnservices.com/aria/projectX/projectX.html"></script>
 	
 	<!-- Begin Ad/Reporting Setup -->
 <script src="/sitewide/scripts/gen_ads_reporting.js" type="text/javascript"></script>
@@ -101,17 +105,14 @@
 		
 		
 		
-					suppressThisAd = (typeof(adCall6x6) != 'undefined' && adCall6x6 != true) ? true : false;
+					suppressThisAd = (adCall6x6 != true) ? true : false;
 				if ( !suppressThisAd ) {
-			mtvn.btg.ads.AdManager.placeAd({size:'6x6',keyValues:thisKeyValueString,contentType:"adj",isReloadable:false,reloadInterval:90000000 });
-		}
-		if (typeof onAdNumber != 'undefined') {
-		onAdNumber++; // Increment Ad Number
-	} else {
-		onAdNumber = 1;
-	}
-
+							mtvn.btg.ads.AdManager.placeAd({size:'6x6',keyValues:thisKeyValueString,contentType:"adj",isReloadable:false,reloadInterval:90000000 });
+					}
 	
+	onAdNumber++; // Increment Ad Number
+
+	/* 'hide' transparent ad placeholder */
 	$(function(){
 		$('.ad img').each(function(){
 			if($(this).attr('src').indexOf('transparent.gif') != -1){
@@ -119,7 +120,6 @@
 			}
 		});
 	});
-
 	</script>
 </div>	  
 
@@ -157,15 +157,12 @@
 		
 					suppressThisAd = false;
 				if ( !suppressThisAd ) {
-			mtvn.btg.ads.AdManager.placeAd({size:'3x3',keyValues:thisKeyValueString});
-		}
-		if (typeof onAdNumber != 'undefined') {
-		onAdNumber++; // Increment Ad Number
-	} else {
-		onAdNumber = 1;
-	}
-
+							mtvn.btg.ads.AdManager.placeAd({size:'3x3',keyValues:thisKeyValueString});
+					}
 	
+	onAdNumber++; // Increment Ad Number
+
+	/* 'hide' transparent ad placeholder */
 	$(function(){
 		$('.ad img').each(function(){
 			if($(this).attr('src').indexOf('transparent.gif') != -1){
@@ -173,7 +170,6 @@
 			}
 		});
 	});
-
 	</script>
 </div>	  
 
@@ -197,12 +193,12 @@
 							<li><a href="http://www.southparkstudios.com/">South Park</a></li>
 							<li><a href="http://tosh.comedycentral.com/">Tosh.0</a></li>
 							<li><a href="http://www.comedycentral.com/shows/key-and-peele">Key &amp; Peele</a></li>
-							<li><a href="http://www.comedycentral.com/shows/brickleberry">Brickleberry</a></li>
 							<li><a href="http://www.comedycentral.com/shows/-midnight">@midnight</a></li>
-							<li><a href="http://www.comedycentral.com/shows/adam-devine-s-house-party">Adam Devine's House Party</a></li>
-							<li><a href="http://www.comedycentral.com/shows/community">Community</a></li>
+							<li><a href="http://www.comedycentral.com/shows/broad-city">Broad City</a></li>
+							<li><a href="http://www.comedycentral.com/shows/kroll-show">Kroll Show</a></li>
 							<li><a href="http://www.comedycentral.com/shows/workaholics/index.jhtml">Workaholics</a></li>
 							<li><a href="http://www.comedycentral.com/shows/inside-amy-schumer">Inside Amy Schumer</a></li>
+							<li><a href="http://www.comedycentral.com/shows/triptank">TripTank</a></li>
 							<li><a href="http://www.comedycentral.com/stand-up">CC:Stand-Up</a></li>
 							<li><a href="http://www.atom.com/">CC:Studios</a></li>
 							<li><a href="http://www.comedycentral.com/shows/index.jhtml" class="last">See All Shows</a></li>
@@ -285,15 +281,19 @@
 		
 					suppressThisAd = false;
 				if ( !suppressThisAd ) {
-			mtvn.btg.ads.AdManager.placeAd({size:'728x90',keyValues:thisKeyValueString,contentType:"adj",isReloadable:false,reloadInterval:90000000 });
-		}
-		if (typeof onAdNumber != 'undefined') {
-		onAdNumber++; // Increment Ad Number
-	} else {
-		onAdNumber = 1;
-	}
-
+							var window_origin = window.location.origin;
+				var window_href = window.location.href;
+				var window_diff = window_href.replace(window_origin, '');
+				if (window_diff == '' || window_diff == '/') {
+					mtvn.btg.ads.AdManager.placeAd({size:'728x90',keyValues:thisKeyValueString,contentType:"adj"});
+				} else {
+					mtvn.btg.ads.AdManager.placeAd({size:'728x90',keyValues:thisKeyValueString,contentType:"adj",isReloadable:true,reloadInterval:240000});
+				}
+					}
 	
+	onAdNumber++; // Increment Ad Number
+
+	/* 'hide' transparent ad placeholder */
 	$(function(){
 		$('.ad img').each(function(){
 			if($(this).attr('src').indexOf('transparent.gif') != -1){
@@ -301,7 +301,6 @@
 			}
 		});
 	});
-
 	</script>
 </div>	  
 			</td>
@@ -360,15 +359,12 @@ The following code is Copyright 1998-2013 Opinionlab, Inc.  All rights reserved.
 		
 					suppressThisAd = false;
 				if ( !suppressThisAd ) {
-			mtvn.btg.ads.AdManager.placeAd({size:'300x250',keyValues:thisKeyValueString});
-		}
-		if (typeof onAdNumber != 'undefined') {
-		onAdNumber++; // Increment Ad Number
-	} else {
-		onAdNumber = 1;
-	}
-
+							mtvn.btg.ads.AdManager.placeAd({size:'300x250',keyValues:thisKeyValueString,isReloadable:true,reloadInterval:240000});
+					}
 	
+	onAdNumber++; // Increment Ad Number
+
+	/* 'hide' transparent ad placeholder */
 	$(function(){
 		$('.ad img').each(function(){
 			if($(this).attr('src').indexOf('transparent.gif') != -1){
@@ -376,7 +372,6 @@ The following code is Copyright 1998-2013 Opinionlab, Inc.  All rights reserved.
 			}
 		});
 	});
-
 	</script>
 </div>
 
@@ -540,15 +535,12 @@ The following code is Copyright 1998-2013 Opinionlab, Inc.  All rights reserved.
 		
 					suppressThisAd = false;
 				if ( !suppressThisAd ) {
-			mtvn.btg.ads.AdManager.placeAd({size:'5x5',keyValues:thisKeyValueString+'promobox=globaltxtad;',contentType:"adj",isReloadable:false,reloadInterval:90000000 });
-		}
-		if (typeof onAdNumber != 'undefined') {
-		onAdNumber++; // Increment Ad Number
-	} else {
-		onAdNumber = 1;
-	}
-
+							mtvn.btg.ads.AdManager.placeAd({size:'5x5',keyValues:thisKeyValueString+'promobox=globaltxtad;',contentType:"adj",isReloadable:false,reloadInterval:90000000 });
+					}
 	
+	onAdNumber++; // Increment Ad Number
+
+	/* 'hide' transparent ad placeholder */
 	$(function(){
 		$('.ad img').each(function(){
 			if($(this).attr('src').indexOf('transparent.gif') != -1){
@@ -556,14 +548,13 @@ The following code is Copyright 1998-2013 Opinionlab, Inc.  All rights reserved.
 			}
 		});
 	});
-
 	</script>
 </div>	  
 
 								                            </div>
                             <div class="cn_footer_column">
                                 <h6>&nbsp;</h6>
-                                <div align="right">© 2013 Comedy Partners.</div>
+                                <div align="right">© 2014 Comedy Partners.</div>
 								<div align="right">All Rights Reserved.  Comedy Central and all related titles, logos and characters are trademarks of Comedy Partners.</div>
                             </div>
                             <div class="cn_footer_clear"></div>
@@ -620,15 +611,12 @@ if (typeof(cnDocReady) != 'undefined') {
 		
 					suppressThisAd = (useSurveyString != true) ? true : false;
 				if ( !suppressThisAd ) {
-			mtvn.btg.ads.AdManager.placeAd({size:'1x2',keyValues:thisKeyValueString+'research=survey;',contentType:"adj",isReloadable:false,reloadInterval:90000000 });
-		}
-		if (typeof onAdNumber != 'undefined') {
-		onAdNumber++; // Increment Ad Number
-	} else {
-		onAdNumber = 1;
-	}
-
+							mtvn.btg.ads.AdManager.placeAd({size:'1x2',keyValues:thisKeyValueString+'research=survey;',contentType:"adj",isReloadable:false,reloadInterval:90000000 });
+					}
 	
+	onAdNumber++; // Increment Ad Number
+
+	/* 'hide' transparent ad placeholder */
 	$(function(){
 		$('.ad img').each(function(){
 			if($(this).attr('src').indexOf('transparent.gif') != -1){
@@ -636,7 +624,6 @@ if (typeof(cnDocReady) != 'undefined') {
 			}
 		});
 	});
-
 	</script>
 </div>	  
 
