@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onradpad.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202085349id_/http%3A//www.onradpad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onradpad.com privacy policy that was archived on 2014-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140307220627id_/http%3A//www.onradpad.com/privacy) for the most accurate reproduction.*
 
 # RadPad Privacy Policy
 
@@ -103,5 +103,3 @@ The Site and Application are not directed to individuals under 18. We do not kno
 ## Contacting Us
 
 If you have any questions about this Privacy Policy, please contact us at [feedback@onradpad.com](mailto:feedback@onradpad.com). 
-
-Couldn’t save. 
