@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qu.edu.qa privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219231540id_/http%3A//www.qu.edu.qa/legal_notice.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qu.edu.qa privacy policy that was archived on 2014-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140307015649id_/http%3A//www.qu.edu.qa/legal_notice.php) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Disclaimer
 
