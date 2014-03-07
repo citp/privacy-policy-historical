@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wow.lk privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219113111id_/http%3A//www.wow.lk/pages/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wow.lk privacy policy that was archived on 2014-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140307223916id_/http%3A//www.wow.lk/company/privacyStatement.jsp) for the most accurate reproduction.*
 
-# Privacy Policy - WoW.lk
+# WOW.lk Mall
 
-Digital Commerce Lanka (hereinafter referred to as "DCL" "us" "we" or "our") is committed to respect your privacy and to comply with any applicable data protection and privacy laws. The Privacy Policy applies to all Customers and Users (collectively referred to as “Users”). In addition this Privacy Policy applies to all products and services provided by wow.lk (hereinafter referred to as the “Site”). We at DCL are extremely proud of our commitment to protect your privacy. You can be assured that we will use your personal information only to support your continuing relationship with DCL. We are providing this Privacy Policy to help you understand how we collect, use and protect your information when you visit and/or order products through the Site. Please read the following policy to understand how your personal information will be treated as you make full use of the Site. This Privacy Policy should be read in conjunction with the terms and conditions of use for wow.lk and any separate terms and conditions issued by any other third party selling their products on the website [hereinafter referred to as the “Vendor”] whose products are listed herein.
+Digital Commerce Lanka (hereinafter referred to as "DCL" "us" "we" or "our") is committed to respect your privacy and to comply with any applicable data protection and privacy laws. The Privacy Policy applies to all Customers and Users (collectively referred to as "Users"). In addition this Privacy Policy applies to all products and services provided by wow.lk (hereinafter referred to as the "Site"). We at DCL are extremely proud of our commitment to protect your privacy. You can be assured that we will use your personal information only to support your continuing relationship with DCL. We are providing this Privacy Policy to help you understand how we collect, use and protect your information when you visit and/or order products through the Site. Please read the following policy to understand how your personal information will be treated as you make full use of the Site. This Privacy Policy should be read in conjunction with the terms and conditions of use for wow.lk and any separate terms and conditions issued by any other third party selling their products on the website [hereinafter referred to as the "Vendor"] whose products are listed herein.
 
 * * *
 
@@ -16,7 +16,7 @@ Your information is the information that's required when you sign up for the sit
 
   * **Registration information :** When you sign up for wow.lk, you are required to provide information such as your name, email address, and phone number.
   * **Information you choose to share :** Your information also includes the information you choose to share via social media sites such Facebook and twitter, such as when you post a status update, upload a photo, or comment on a friend's story.
-  * **Information others share about you :** We may receive information about you via social and offline competition’s that we conduct on a regular basis. This information will be used by us to help us profile and target better offers to you.
+  * **Information others share about you :** We may receive information about you via social and offline competition's that we conduct on a regular basis. This information will be used by us to help us profile and target better offers to you.
 
 
 
@@ -54,15 +54,13 @@ Your user ID and password must be kept secure at all times to avoid online imper
 
 ## Deleting and deactivating your account
 
-If you want to stop using your account, you can either  **deactivate**  or  **delete**  it.
-
-<http://www.anything.lk/en/colombo/customer/account/edit/>
+If you want to stop using your account, please send an email to [support@wow.lk](mailto:support@wow.lk) with your request.
 
 * * *
 
 ## About social plugins
 
-Wow lets you login via your facebook and google accounts. You can also share wow content , comment on other users posts on the wow social sites. 
+wow lets you login via your facebook and google accounts. You can also share wow content , comment on other users posts on the wow social sites. 
 
 Please note your posts will be deemed public and wow will not assume responsibility for any repercussions as a result.
 
@@ -123,7 +121,7 @@ User agrees to defend, indemnify and hold harmless DCL, its subsidiaries and Bus
 
 you can correct your personal data by clicking on account settings
 
-<http://www.anything.lk/en/colombo/customer/account/edit/>
+[Click here to edit your account ](https://web.archive.org/myaccount/profile.jsp)
 
 **Change of Control**
 
@@ -131,4 +129,4 @@ If the ownership of our business changes, we may transfer your information to th
 
 **Notice of Changes**
 
-If we make changes to this Data Use Policy we will notify you (for example, by pulication on the wow.lk homepage under “privacy policy. We will also provide you the opportunity to comment on this change within 7 days of the policy being updated.
+If we make changes to this Data Use Policy we will notify you (for example, by pulication on the wow.lk homepage under "privacy policy. We will also provide you the opportunity to comment on this change within 7 days of the policy being updated.
