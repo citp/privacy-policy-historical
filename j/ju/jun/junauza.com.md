@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the junauza.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616173320id_/http%3A//www.junauza.com/2007/07/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junauza.com privacy policy that was archived on 2014-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140307032154id_/http%3A//www.junauza.com/2007/07/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | TechSource
 
