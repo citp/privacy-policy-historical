@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the recipetipster.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523095844id_/http%3A//recipetipster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipetipster.com privacy policy that was archived on 2014-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140307080545id_/http%3A//recipetipster.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy
 
 **What information do we collect?**
 
