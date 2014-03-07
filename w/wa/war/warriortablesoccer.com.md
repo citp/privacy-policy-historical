@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warriortablesoccer.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216065421id_/http%3A//www.warriortablesoccer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warriortablesoccer.com privacy policy that was archived on 2014-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140307053507id_/http%3A//www.warriortablesoccer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy »
 
