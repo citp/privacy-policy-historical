@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotelquickly.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222095353id_/http%3A//www.hotelquickly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelquickly.com privacy policy that was archived on 2014-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140307165436id_/http%3A//www.hotelquickly.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy | HotelQuickly.com
+# Privacy | HotelQuickly | Last-minute hotel booking on mobile
 
 ## General statement of policy
 
