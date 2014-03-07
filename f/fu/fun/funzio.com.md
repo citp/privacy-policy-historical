@@ -1,81 +1,146 @@
-> *The following text is extracted and transformed from the funzio.com privacy policy that was archived on 2013-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130125004557id_/http%3A//www.funzio.com/%3Fpage_id%3D568) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funzio.com privacy policy that was archived on 2014-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140307171300id_/http%3A//www.funzio.com/%3Fpage_id%3D568) for the most accurate reproduction.*
 
 # Privacy
 
-**PRIVACY POLICY**
+**PRIVACY POLICY UPDATE NOTICE**
 
-Effective March 28, 2010
+**We have updated our Privacy Policy regarding what data are collected through the use of our Service.   If you have any questions regarding this update, please contact us by following the process described on our support page located at [http://games.gree-support.net](http://games.gree-support.net/)**.
 
-Funzio, Inc. (“ **Funzio** ,” “ **we** ” or “ **us** ”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of our Site and Services (each as defined in the Terms of Use), including our web site at www.funzio.com. Unless otherwise defined in this Privacy Policy, capitalized terms used in this Privacy Policy have the same meanings as in our [Terms of Use].
+**Privacy Policy**
 
-**1.               ****User Consent.   **By submitting Personal Information (defined in Section 4 below) through our Site or Services, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Information in accordance with this Privacy Policy. 
+**Effective Date:  May 1, 2013**
 
-**2.               ****International Transfer.**  Your information may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Funzio transfers Personal Information to the United States and processes it there and your submission of such information represents your agreement to that transfer and processing.
+**Application of this Privacy Policy**
 
-**3.               ****Our Policy Toward Children.**  The Services are not directed to children under 13. We do not knowingly collect Personal Information from children under 13.
+By agreeing to Funzio’s Terms of Service, into which this Privacy Policy (the “Policy”) is incorporated, you consent to the collection, storage, use, management and disclosure of information collected or received by Funzio through your use of the Service as described in this Policy.
 
-**4.               ****Information Collection and Use.**  We collect information to provide and improve the Site and Services, to administer your membership, complete your transactions, administer your inquiries, send you Site or Service related communications, send you promotional materials (unless you have requested not to receive such materials as described in Section 6(a) below), enable users to enjoy and easily navigate the Site and Services, and in the manners described below.  “ **Personal Information** ” means information that allows someone to identify or contact you, including, for example, your name, phone number, credit card or other billing information, email address and home and business postal addresses, as well as any other non-public information about you that is associated with or linked to any of the foregoing information. “ **Non-Identifying Information** ” means information that does not permit the identification of individual persons.  We may collect and use the following types of information, either directly or through our third party service providers:
+**Purpose and Scope**
 
-**(a)            ****Device-Specific Information.**  Device-specific information includes the following information about your mobile device: platform type and version (iOS v4, Android, etc.), hardware and processor type, screen resolution and human readable hardware name.  We use this information to select appropriate art for the screen resolution, to identify your account to simplify sign-on, and to determine the hardware requirements of the user base for our games.
+This Policy describes how Funzio, Inc. (“Funzio,” “us,” or “we”) collects, uses, stores, manages and discloses information, including personal information, that our users (“you” or “users”) provide or we collect in connection with our websites at [http://gree-support.net](http://gree-support.net/), [http://games.gree-support.net](http://games.gree-support.net/), <http://gree-corp.com/>, <http://product.gree.net/us/en/>, and <http://www.funzio.com/forum> (collectively, the “Site”) or any Funzio game or other application or services available on other websites or other third party sources (collectively, the “Service”). Personal information may include, for example, your name, address, telephone number, email address or credit card number.
 
-**(b)            ****Registration Information.**  When you register with us (“ **Funzio Subscriber** ”), either through the Site or on one of the Services, we may ask you for Personal Information, e.g., your first and last name, e-mail, mobile phone number, Twitter credentials, and Facebook credentials, and ask you to create a user name and password.  When you register with us, you are not anonymous to us.  Users of Funzio games have the capability to search for other users of Funzio games on Twitter or Facebook. We do not store the search information.
+This Policy applies only to information collected or received by Funzio through your use of the Service. Any link to the sites or any third party does not imply that Funzio is affiliate with or sponsors that third party. Funzio is not responsible for the actions, products or services of any third party, the content of any third party site, or the use or disclosure of any information you provide to any third party.
 
-**(c)             ****Location Information.**  In order to use Funzio games, you must consent to the use of your mobile phone’s location, including the display and disclosure of such location information to other users of the Funzio games whom you have indicated as your friends.
+**Information Collected and How It Is Used**
 
-**(d)            ****Your Game Play Record.**   Your game play record includes your user name and user profile, in game actions, connections to other players, last played game and score, and other game achievements (for example, high scores) (collectively, the “ **Game Play Record** ”). This Game Play Record is automatically created for every user of Funzio games. This information along with your user name and user profile are used to identify you as a user of Funzio games and is visible to other users when they access the same Funzio game or the Service.
+The main purposes for which Funzio collects your information are:
 
-**(e)            ****Game-Specific Information.**   Game-specific information includes information about your use of a specific Funzio game, including your Game Play Record, the mobile device used to play the game, game features used, Virtual Currencies or Virtual Goods purchased and used, total online game sessions and duration, country code and IP address, for that game (collectively, “ **Game-Specific Information** ”).  We use Game-Specific Information to understand your use and preferences with respect to the applicable game and to improve the game and our Service.
-
-**(f)             ****Chat and Discussion-Related Information.**   This information includes user name and user profile, text and time stamps of the message, and the content of the message.  We use this information to moderate forums, chat rooms and instant messaging communications.  Information you post in forums, chat rooms and instant messaging communications are publicly available and other people may see it.
-
-**(g)            ****Virtual Currency and Virtual Goods Purchase Information.**   Virtual Currency and Virtual Goods purchase information includes device ID (including UDID if you are using an Apple device with iOS 4.0 or prior), currency type and exchange rate, country location, product identifier, item ID and quantity, and third party transaction id (such as, but not limited to, Google Checkout).  We use this information to store your inventory on our servers so you can later retrieve it on your mobile device; when this inventory changes we record and store the type and quantity of the items that have changed.
-
-**(h)            ****Payment Information.** When you order any Service, including any Virtual Currency or Virtual Good, or other material offered for purchase on our Site, our payment processing service provider will collect your name, phone number, e-mail address, mailing address, billing address, and complete credit card information that enables them to receive your payment.  Our payment processing service provider may also retain this information to enable you to purchase additional items through our Site or Service without having to re-enter it each time.
-
-**(i)             ****Feedback; Communications.**   If you provide us Feedback or contact us via e-mail, we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply.  When you participate in one of our surveys, we may collect additional profile information as requested in the survey. Any Feedback you provide will be governed by the Terms of Use.  We may use Personal Information submitted in your communications and the surveys to contact and respond to you and otherwise in the same manner as described above for registration information.
-
-**(j)             ****Twitter and Facebook Credentials.**   When you connect your Funzio account to Twitter or Facebook, we collect your Twitter user name/ID or Facebook user name/ID, session key, timestamps and your user profile picture URL provided by Twitter/Facebook, and list of friend ids, in accordance with the relevant terms of use and privacy policy for Twitter or Facebook, as applicable. It is your responsibility to read and accept their terms of use, as well as privacy policy prior to using our Service.  By using our Service, you hereby consent to the Facebook and Twitter sharing your information with Funzio.  
-
-**(k)            ****Invite a Friend.**   If you decide to invite a third party to create an account with Funzio, we will collect your and the third party’s names, e-mail addresses and/or phone number, in order to send an e-mail and/or sms text on your behalf to the third party.  We send these invites on your behalf and as your service provider.  You agree that you and/or your friend are responsible for any text messaging rates that apply.  You or the third party may contact us at [support@funzio.com](mailto:supportterms@funzio.com) to request the removal of this information from our database.
-
-**(l)             ****Device-Specific Information.**   Device-specific information includes the following information about your mobile device: platform type and version (iOS v4, Android, etc.), hardware and processor type, screen resolution and human readable hardware name.  We use this information to select appropriate art for the screen resolution, to identify your account to simplify sign-on, and to determine the hardware requirements of the user base for our games.
-
-**(m)          ****Log Data.** When you visit the Site or Services, whether as a Funzio Subscriber or a non-registered user just browsing (any of these, a “ **Funzio User** ”), our servers automatically record information that your browser sends whenever you visit a website (“ **Log Data** ”). This Log Data may include information such as your web request, computer’s Internet Protocol (“ **IP** ”) address, browser type or the webpage you were visiting before or after you came to our Site, [number of clicks, domain names, landing pages, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics. We use this information to monitor and analyze use of the Site or Services, for their technical administration, to increase their functionality and user-friendliness, improve our marketing, and to better tailor them to our visitors’ needs. For example, some of this information is collected so that when you visit the Site or Services again, it will recognize you and serve advertisements and other information appropriate to your interests. We also use this information to verify that visitors to the Site or Services meet the criteria required to process their requests. We do not treat Log Data as Personal Information or use it in association with other Personal Information, though we may aggregate, analyze and evaluate such information for the same purposes as stated above regarding other Non-Identifying Information.
-
-**(n)            ****Cookies.**  Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your registration ID and login password for future logins to the Site or Services. We also store your display resolution and whether JavaScript is enabled in your browser to enhance your user experience. Second, we utilize session ID cookies to enable certain features of the Site or Services, to better understand how you interact with the Site or Services and to monitor aggregate usage by Funzio Users and web traffic routing on the Site or Services. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site or Services and then close your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions or functionalities of the Site or Services.
-
-**(o)            ****Clear Gifs.**   When you register with or view our Site, we may employ clear gifs, also known as web beacons, which are used to track your online usage patterns.  No Personal Information from your Funzio account is collected using clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to you to track which emails are opened by you. This information is used to enable more accurate reporting, improve the effectiveness of our marketing, and improve the Site and Service.
-
-**(p)            ****Third Party Tools.**   The Service may also contain third party tracking tools from our service providers, an example of which includes Google Analytics.  Such third parties may use cookies and application programming interfaces in our Service to enable them to collect and analyze user information on our behalf.  While a third party may have access to your Personal Information in connection with the performance of services for Funzio, it may not use such information for any purpose other than providing services to Funzio.
-
-  1. **5.               ****Information Sharing and Disclosure**
+  * To provide and enhance Funzio’s games and the Service
+  * To enable you to navigate and enjoy the games and the Service
+  * To connect you with other users.
 
 
 
-**(a)            ****Funzio Registration.** When you register through the Site or Services and submit your Personal Information to create a profile webpage, Funzio Users may see your username and the other information about you (as described below) (“ **Required Subscriber Identifiers** ”). We may display your Personal Information in your profile page and elsewhere on the Services according to the preferences you set in your account. Any information you choose to provide should reflect how much you want other Funzio Users to know about you. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your username, since that would allow others to identify you.  We encourage members to think carefully about what information about themselves they disclose in their profile pages. You can review and revise your profile information at any time.
+Some examples of how we may use your information are: to register your account, to collect payments, to inform you of update to games you’re playing or of other games, to notify you of special promotions and to provide customer support.
 
-**(b)            ****Non-Identifying Information.**   We may create Non-Identifying Information records from Personal Information by excluding information (such as your name) that make the data personally identifiable to you.  Funzio reserves the right to use and disclose Non-Identifying Information to third parties in its discretion.  Without limiting the foregoing, we may share Non-Identifying Information with third parties for industry analysis and demographic profiling.
+_iOS or Android Platforms_
 
-**(c)             ****Service Providers.** We may employ third party companies and individuals to facilitate our Site or Services, to provide the Site or Services on our behalf, to perform tasks, (e.g., without limitation, maintenance services, billing services, database management, web analytics and improvement of the Site or Services) or to assist us in analyzing how our Site or Services are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+Funzio automatically collects and records certain information when you access or use a Funzio game. This information includes your unique device ID (“UDID”), your geographic location (based on your Internet Protocol (“IP”) address), the version of your operating system (“OS”), your game platform ID (“GPF ID”), (which is an ID assigned to you that will be used to help associate your identity across multiple platforms) and your in-game activity.
 
-**(d)            ****Compliance with Laws and Law Enforcement.** We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas and warrants), to protect the property and rights of Funzio or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity.
+We use this information to assist with understanding trends in usage and for help with tracking and correcting errors. We also use (and may provide to third party analytics providers as described below) country-level geographic location information to enforce our Terms of Service, customize the user experience and make recommendations to you.
 
-**(e)            ****Affiliates.**   We may share some or all of your Personal Information with our parent company, any subsidiaries, or other companies under common control (“ **Affiliates** ”), in which case we will require our Affiliates to honor this Privacy Policy.
+We may also give you the opportunity to opt-in to location-based services, which utilize a device’s GPS coordinates. You may opt-out of these location services via the settings on your device.
 
-**(f)             ****Business Transfers.** Funzio may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.  The party receiving your Personal Information will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.
+_Third-Party Marketplaces_
 
-  1. **6.               ****Changing or Deleting Your Information.   **
+Funzio provides games and the Service via third party marketplaces, such as Apple’s App Store and Google’s Android Market. These marketplaces may collect information about you or receive information from us in the course of providing or analyzing their services. Funzio is not responsible for these marketplaces, and is not affiliated with or responsible for the actions of these third parties. You should review these third parties’ terms of service and privacy policies, which are separate from Funzio’s.
+
+_In-Game Dialog Boxes_
+
+When you register to play Funzio games through the Service, we may ask whether you’d like to provide us with certain information via in-game dialog boxes. This information may include: your email, user name, phone number, gender, date of birth, home address, photo and address book. You may choose to skip these dialog boxes, however. If you do choose to provide certain information, Funzio may use it as follows:
+
+  * Email address. Funzio may retain and use your email address to contact you about your experience and notify you about Funzio news and promotions.
+  * User name. Funzio may use your user name for social features of the game and the Service, such as to connect you to other users, to invite friends and to post your achievements on other individuals’ walls.
+  * Phone number. Funzio may use your phone number to facilitate connecting you and other users via a social networking system.
+  * Address book. Funzio may use your address book to connect you to other users, to invite friends and to post your achievements on other individuals’ walls.
 
 
 
-**(a)            **We may contact you with Funzio’s newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your “user preferences” information as applicable. Despite your indicated e-mail preferences, we may send you notice of any updates to our Terms of Use or Privacy Policy.
+_Push Notifications & Local Notifications_
 
-**(b)            **All Subscribers may review, update, correct or delete the Personal Information in their registration profile by changing the applicable information in their account settings or, for Services that are hosted on Twitter or Facebook, by changing the applicable information in their profile page on Twitter or Facebook, respectively. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your record in our system, please contact us and we will attempt to accommodate your request if we do not have any legal obligation to retain the record. When we delete any information, it will be deleted from the active database, but may remain in our archives.  See below for privacy contact information.
+Funzio may, with your consent, send push notifications to your mobile device to provide game updates and other relevant messages. You can manage push notifications from the “options” or “settings” page within the relevant game. You may also be able to manage them from your device’s settings page for the relevant game.
 
-**7.               ****Security.   **We employ administrative, physical and electronic measures designed to protect your information from unauthorized access. Despite these measures, you should know that Funzio cannot fully eliminate security risks associated with Personal Information.
+Funzio may also send local notifications to your mobile device to provide game updates and other relevant information. You can manage local notifications from the “options” or “settings” page within the relevant game.
 
-**8.               ****Links to Other Sites.   **Our Services contain links to other websites. If you choose to visit an advertiser by clicking on a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+_Facebook Connect and Twitter_
 
-**9.               ****Contacting Us.   **If you have any questions about this Privacy Policy, please contact us at [support@funzio.com](mailto:supportterms@funzio.com).
+You may be able to use Facebook Connect or Twitter to sign into the Service and authenticate against Facebook or Twitter, allowing you to be recognized “in-app” based on your Facebook or Twitter account. If you do so, Funzio will collect information that is visible via your Facebook or Twitter account. That information may include: your name, your gender, your date of birth, your phone number, your Facebook or Twitter ID, you Profile Picture, your URL, and a list of your Facebook friends. This information will be used mainly for user registration and in social features, which may include friend-to-friend interaction, chat or messaging functionality, public leaderboards, head-to-head competition and other similar features.
 
-**10.            ****Changes To This Privacy Policy.**   This Privacy Policy is subject to occasional revision in accordance with the Terms of Use.  Changes to this Privacy Policy may affect our use of Personal Information that you provided us prior to our notification to you of the changes.  If you do not wish to permit changes in our use of your Personal Information, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us.  Continued use of our Site or Services following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
+_Our Site_
+
+Your OS, IP address, access times, browser type and language and referring Web site addresses may be logged automatically when you visit the Site. We may also collect information about your usage and activity, such as number of clicks, pages viewed and the order of those pages, the amount of time spent on particular pages, and the date and time of this activity. We may use this information to monitor and analyze use of the Service.
+
+_Ad Networks_
+
+Funzio may install certain software development kits (“SDKs”) in the Service. These SDKs may collect your UDID and certain other data, including but not limited to IP address, geo-location and OS information. This information may be used to calculate conversion rates and other elements of advertising performance.
+
+**Other Methods of Collection**
+
+Funzio may also acquire information from you through other activities you may participate in, which may include:
+
+  * Your access and participation in message boards/forums
+  * Your emails to customer support
+  * Your purchase of any virtual goods or virtual currencies
+  * Your participation in surveys
+  * Your participation in contests or sweepstakes.
+
+
+
+**Disclosure of Your Personal Information**
+
+Your personal information will not be disclosed outside of Funzio and its affiliates other than as approved by you or as follows:
+
+_With your consent_. This may occur, for example, when you agree to allow Funzio to share your information with third parties for their marketing purposes and subject to their privacy policies.
+
+_To engage third parties to perform services on Funzio’s behalf_. This may occur, for example, when Funzio uses a third party to send you emails. These third parties are not permitted to use your personal information for any purpose other than providing services to Funzio.
+
+_As permitted by or to comply with law or to protect Funzio’s rights._ Funzio may release your personal information as permitted by law or if Funzio believes that doing so is appropriate to comply with the law, to enforce or exercise Funzio’s rights or to protect Funzio’s, Funzio’s users’ or other third parties’ property, rights or safety.
+
+_In aggregate and anonymous form_. Funzio may share aggregate and anonymous information about you with advertisers, publishers and other third parties.
+
+_In connection with a corporate transaction_. Funzio may share your personal information in connection with any merger, acquisition, sale of assets, or other corporate combination or financing.
+
+**Analytics/Other Tools**
+
+Funzio may include in the Service tools, which may include tools from third party service providers, tools that may enable Funzio and these third parties to analyze your and other users’ information. This information may include your UDID, Media Access Control (“MAC”) address, International Mobile Equipment Identity (“IMEI”) number, version of iOS or Android, specific type of device, mobile carrier, IP address and session start and end times. Funzio and such third parties may use that information to detect the country of the user and to otherwise analyze user engagement. These third parties may also have access to your personal information in connection with the performance of their services, but they will not be permitted to use such information, other than in anonymized, aggregated form, for any purpose other than providing their services.
+
+**Cookies, Web Beacons and Third Party Advertisements**
+
+A “cookie” is a data file that is transferred to a user’s computer and is intended to identify that computer. Cookies also are used to maintain information about a user’s visit to a site or game, such as user names, passwords and individual preferences. The Service sends cookies to your computer when you access a Funzio game or view content of a game. Information contained in a cookie may be linked to your personal information. That information may be used for a variety of purposes including improving the quality and ease of use of the Service and making recommendations more specific to you.
+
+Funzio may also collect information using “Web beacons” or “gifs.” These are electronic images that may be used on the Site or in email to deliver cookies, count visits and to determine if an email has been opened and actioned.
+
+The Service may include third party advertisements. These ads may be served by third party advertising companies that deliver cookies to your computer, allowing these companies to track the ads. As a result, these companies will be able to recognize your computer when they send you an advertisement. These advertisers may use information about your visits to our Service in order to provide advertisements about goods and services that may be of interest to you.
+
+**Information for Opting-Out of Cookies and Web Beacons**
+
+You may click on the following link: http://www.networkadvertising.org (or such other URL as may be specified from time to time) to learn more about behavioral advertising and for information on how to opt-out of the use of cookies or Web beacons. Please note that opting out of cookies or Web beacons may prevent you from being able to access or use certain features of the Service.
+
+**Advertisements**
+
+Funzio games may be advertised in other applications. After clicking on one of these advertisements and installing our game, you will become a user of the Service. In order to prevent fraud and verify the installs, a UDID may be shared with the advertiser.
+
+**Changing or Deleting Your Information**
+
+You may change or delete information by sending a request to [http://.games.gree-support.net](http://.games.gree-support.net/).  If you delete all of your information, your account may become deactivated. You may opt-out of receiving promotional emails from us by following the instructions included in those emails. If you opt-out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.
+
+Under California law, California Residents who have an established business relationship with us may choose to opt out of the disclosure of personal information about them to third parties for such third parties’ direct marketing purposes. As described above, our policy is not to disclose your personal information to a third party for direct marketing purposes without your approval. You may also choose to opt-out after granting approval. If you choose to opt-out at any time after granting approval, please inform us by following the opt-out instructions described in the email.  If you opt-out, we may still send you non-promotional emails, such as emails related to your account(s) or our ongoing business relations.
+
+**International Transfer of Information**
+
+Funzio may transfer information (including personal information) that we collect about you to our affiliates or to other third parties that may be outside of your country. If you are located in the European Union or in another country or jurisdiction, such locations may have laws governing data collection and use that differ from U.S. law. Please note that you are transferring information and allowing Funzio or others to transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. and Japan and the use and disclosure of information about you, including personal information, as described in this Policy.
+
+**Security**
+
+Funzio implements reasonable security measures to protect the security of your information and is committed to protect customer information.
+
+It is important that you protect and maintain the security of your account and that you immediately notify us of any unauthorized use of your account. If you forget the password to your account, the Site allows you to ask for instructions on how to reset your password. When you sign into your account or enter payment information (such as a credit card number when purchasing virtual currency), the transmission of that information is encrypted using secure socket layer technology (“SSL”).
+
+Although Funzio takes reasonable precautions against possible security breaches of our websites and records, no Internet transmission is completely secure. Accordingly, Funzio cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. We strongly recommend that you take steps to keep your personal information secure (including your account password), and to log out of your account after use. If you have questions about security, please visit our support page located at http://games.gree-support.net.
+
+**Modifications to this Policy**
+
+Funzio may modify this Policy from time to time. We will post all changes to this Policy on this page or another location on the Site and the modified policy will specify its effective date. You are obligated to check the Site to confirm whether the Policy has been modified.
+
+**Contacting Us**
+
+If you have any questions about this Policy, please contact us by following the process described on our support page located at http://games.gree-support.net.
