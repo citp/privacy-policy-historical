@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the elliotsblog.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814110419id_/http%3A//www.elliotsblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elliotsblog.com privacy policy that was archived on 2014-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140308165546id_/http%3A//www.domaininvesting.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Elliot's Blog
+# Privacy | DomainInvesting.com
 
 **Privacy Policy Statement:**  
 Top Notch Domains, LLC, a Nashua, NH based company operating in New York NY is the owner of ElliotsBlog.com and has developed this Privacy Policy Statement to inform you about how it deals with privacy issues in relation to this website.
