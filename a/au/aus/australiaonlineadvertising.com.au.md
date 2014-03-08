@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australiaonlineadvertising.com.au privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816091759id_/http%3A//australiaonlineadvertising.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australiaonlineadvertising.com.au privacy policy that was archived on 2014-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140308111510id_/http%3A//australiaonlineadvertising.com.au/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Online Advertising
 
