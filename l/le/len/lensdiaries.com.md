@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lensdiaries.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529052957id_/http%3A//www.lensdiaries.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lensdiaries.com privacy policy that was archived on 2014-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140308182945id_/http%3A//www.lensdiaries.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Lens Diaries™
 
@@ -13,7 +13,7 @@ LensDiaries.com Website Privacy Statement
 
 **
 
-**This document was last updated on July 23, 2010.**
+**This document was last updated on June 23, 2013.**
 
 **ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS** LensDiaries.com and it’s owners is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing LensDiaries.com and it’s owners, you acknowledge and fully understand LensDiaries.com and it’s owners’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
