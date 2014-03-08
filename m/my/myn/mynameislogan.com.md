@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynameislogan.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231200844id_/http%3A//mynameislogan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynameislogan.com privacy policy that was archived on 2014-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140308081232id_/http%3A//mynameislogan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bookmarking
 
