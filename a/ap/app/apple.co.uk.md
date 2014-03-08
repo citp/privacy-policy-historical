@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apple.co.uk privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228083645id_/http%3A//www.apple.com/uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apple.co.uk privacy policy that was archived on 2014-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140308174334id_/http%3A//www.apple.com/uk/privacy) for the most accurate reproduction.*
 
 # Apple (United Kingdom) - Apple Customer Privacy Policy
 
