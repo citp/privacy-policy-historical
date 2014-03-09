@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudimperiumgames.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125020832id_/http%3A//www.cloudimperiumgames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudimperiumgames.com privacy policy that was archived on 2014-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140309044857id_/http%3A//www.cloudimperiumgames.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cloud Imperium Games
 
