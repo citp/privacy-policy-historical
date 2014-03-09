@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clevergizmos.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224110110id_/http%3A//clevergizmos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevergizmos.com privacy policy that was archived on 2014-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140309055724id_/https%3A//clevergizmos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and EULA
 
