@@ -1,71 +1,69 @@
-> *The following text is extracted and transformed from the eurosport.co.uk privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221205844id_/http%3A//info.yahoo.com/privacy/uk/yahoo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurosport.co.uk privacy policy that was archived on 2014-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140309060508id_/https%3A//info.yahoo.com/privacy/uk/yahoo) for the most accurate reproduction.*
 
 # Yahoo! Privacy Centre
 
 ## WHAT THIS PRIVACY POLICY COVERS
 
-This Privacy Policy covers Yahoo!'s treatment of personally identifiable and other information that Yahoo! collects and receives, including information related to your past use of Yahoo! products and services. “Data” and “information” includes information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. Where applicable we explicitly point out the use of personally identifiable data within our privacy policies. All other data is anonymous to us or is used pseudonymously.
+This Privacy Policy covers Yahoo's treatment of personally identifiable and other information that Yahoo collects and receives, including information related to your past use of Yahoo products and services. “Data” and “information” includes information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. Where applicable we explicitly point out the use of personally identifiable data within our privacy policies. All other data is anonymous to us or is used pseudonymously. 
 
-The Privacy Policy also gives information about cookies; Yahoo!'s and third parties' use of cookies; and how you may disable such cookies.
+The Privacy Policy also gives information about cookies; Yahoo's and third parties' use of cookies; and how you may disable such cookies. 
 
-This Privacy Policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. In addition, some companies that Yahoo! has acquired have their own, preexisting privacy policies. You can find more information on the [acquired companies page](http://info.yahoo.com/privacy/us/yahoo/acquiredcompanies/).
+This Privacy Policy does not apply to the practices of companies that Yahoo does not own or control, or to people that Yahoo does not employ or manage. In addition, some companies that Yahoo has acquired have their own, preexisting privacy policies. You can find more information on the [acquired companies](https://info.yahoo.com/privacy/us/yahoo/acquiredcompanies/) page. 
 
-Within the section “Topics” you can find detailed information on special topics like cookies and IP addresses. In the section “Products”, you can find additional guidance about our privacy practices relating to particular products or services. Yahoo!” means Yahoo! UK Limited (based in the United Kingdom), except where the relevant service is provided by another Yahoo! group company, in which case references to Yahoo! shall, in respect of those services, be references to that Yahoo! Group company. Find out more information about Yahoo! [data storage](http://info.yahoo.com/privacy/uk/yahoo/datastorage/) and [data transfer](http://info.yahoo.com/privacy/uk/yahoo/datatransfer/).
+Within the section “Topics” you can find detailed information on special topics like cookies and IP addresses. In the section “Products”, you can find additional guidance about our privacy practices relating to particular products or services. Yahoo” means Yahoo! UK Limited (based in the United Kingdom), except where the relevant service is provided by another Yahoo group company, in which case references to Yahoo shall, in respect of those services, be references to that Yahoo Group company. Find out more information about Yahoo [data storage](https://info.yahoo.com/privacy/uk/yahoo/datastorage/) and [data transfer](https://info.yahoo.com/privacy/uk/yahoo/datatransfer/). 
 
 Return to top
 
 ## INFORMATION COLLECTION AND USE
 
-Yahoo! collects personally identifiable information when you register for a Yahoo! account, when you use certain Yahoo! [products or services](http://info.yahoo.com/privacy/uk/all/), when you enter [promotions or sweepstakes](http://info.yahoo.com/privacy/uk/yahoo/promotions/) and when you visit Yahoo! pages or the pages of certain Yahoo! partners outside the branded Yahoo! network of websites. Yahoo! may combine information (including personally identifiable information) about you that we have with information we obtain from business partners or other companies. 
+Yahoo collects personally identifiable information when you register for a Yahoo account, when you use certain Yahoo [products or services](https://info.yahoo.com/privacy/uk/yahoo/products.html), when you enter [promotions or sweepstakes](https://info.yahoo.com/privacy/uk/yahoo/promotions/) and when you visit Yahoo pages or the pages of certain Yahoo partners outside the branded Yahoo network of websites. Yahoo may combine information (including personally identifiable information) about you that we have with information we obtain from business partners or other companies. 
 
-When you register with Yahoo!, we ask for personally identifiable information such as your name, email address, birth date, gender, post code, occupation, industry, and personal interests. 
+When you register with Yahoo, we ask for personally identifiable information such as your name, email address, birth date, gender, post code, occupation, industry, and personal interests. 
 
-Yahoo! collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.
+Yahoo collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer. 
 
-Yahoo! also automatically receives and records information on our server logs from your browser including your [IP address](http://info.yahoo.com/privacy/uk/yahoo/ip/), Yahoo! [cookie](http://info.yahoo.com/privacy/uk/yahoo/cookies/) information, software and hardware attributes, and the page you requested. Once you register with Yahoo! and sign in to our services you are no longer anonymous to us and your usage data will be connected to your account.
+Yahoo also automatically receives and records information on our server logs from your browser including your I[IP address](https://info.yahoo.com/privacy/uk/yahoo/ip/), Yahoo [cookie](https://info.yahoo.com/privacy/uk/yahoo/cookies/) information, software and hardware attributes, and the page you requested. Once you register with Yahoo and sign in to our services you are no longer anonymous to us and your usage data will be connected to your account. 
 
-Yahoo! uses information (including anonymous and pseudonymous information, as well as personally identifiable information) for the following general purposes: to personalise the advertising and content you see, fulfil your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. Yahoo! may transfer your personal information for the general purposes set out above to any Yahoo! group company worldwide, and they may use your personal information as set forth below. You can find more information within the topic [Data Transfer](http://info.yahoo.com/privacy/uk/yahoo/datatransfer/)
-
-. 
+Yahoo uses information (including anonymous and pseudonymous information, as well as personally identifiable information) for the following general purposes: to personalise the advertising and content you see, fulfil your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. Yahoo may transfer your personal information for the general purposes set out above to any Yahoo group company worldwide, and they may use your personal information as set forth below. You can find more information within the topic [Data Transfer](https://info.yahoo.com/privacy/uk/yahoo/datatransfer/). 
 
 Return to top
 
 ## INFORMATION SHARING AND DISCLOSURE
 
-Yahoo! does not rent, sell, or share information about you (including personally identifiable information) with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or for the following purposes:
+Yahoo does not rent, sell, or share information about you (including personally identifiable information) with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or for the following purposes: 
 
-  * to provide the information to trusted partners who work on behalf of or with Yahoo! under confidentiality agreements. These companies may use such information to help Yahoo! communicate with you (to the extent consented by you) about offers from Yahoo! and our marketing partners. However, these companies do not have any independent right to share this information. 
+  * to provide the information to trusted partners who work on behalf of or with Yahoo under confidentiality agreements. These companies may use such information to help Yahoo communicate with you (to the extent consented by you) about offers from Yahoo and our marketing partners. However, these companies do not have any independent right to share this information. 
   * to respond to subpoenas, court orders, legal process, or to any legitimate request by authorities with which compliance is required, or to establish or exercise legal rights or defend against legal claims. 
-  * to share, when we believe it is necessary, such information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!'s terms of use, or as otherwise required by law. 
-  * to transfer such information about you if Yahoo! acquires, or is acquired by or merged with, another company. In this event, Yahoo! will notify you before information about you is transferred and becomes subject to a different privacy policy. 
+  * to share, when we believe it is necessary, such information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo's terms of use, or as otherwise required by law. 
+  * to transfer such information about you if Yahoo acquires, or is acquired by or merged with, another company. In this event, Yahoo will notify you before information about you is transferred and becomes subject to a different privacy policy. 
 
 
 
-Yahoo! displays targeted advertisements based on anonymised or pseudonymised data and information, and Yahoo! may also display targeted advertisements based on personally identifiable information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria —for example, women ages 18-24 from a particular geographic area. Yahoo! does not provide any personally identifiable information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
+Yahoo displays targeted advertisements based on anonymised or pseudonymised data and information, and Yahoo may also display targeted advertisements based on personally identifiable information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria —for example, women ages 18-24 from a particular geographic area. Yahoo does not provide any personally identifiable information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
 
 Return to top
 
 ## COOKIES
 
-Yahoo! may set and access Yahoo! [cookies](http://info.yahoo.com/privacy/uk/yahoo/cookies/) on your computer.
+Yahoo may set and access Yahoo [cookies](https://info.yahoo.com/privacy/uk/yahoo/cookies/) on your computer. 
 
-Yahoo! allows [selected companies](http://info.yahoo.com/privacy/uk/yahoo/thirdparties/) that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo!'s cookies. You can find more information within the topic “third-party cookies”.
+Yahoo allows [selected companies](https://info.yahoo.com/privacy/uk/yahoo/thirdparties/) that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo's cookies. You can find more information within the topic “third-party cookies”. 
 
-Yahoo! uses [web beacons](http://info.yahoo.com/privacy/uk/yahoo/webbeacons/) to access our cookies inside and outside our network of web sites and in connection with Yahoo! products and services.
+Yahoo uses [web beacons](https://info.yahoo.com/privacy/uk/yahoo/webbeacons/) to access our cookies inside and outside our network of web sites and in connection with Yahoo products and services. 
 
-To find out more about how we use cookies and how to disable cookies, [click here](http://info.yahoo.com/privacy/uk/yahoo/cookies/#t1).
+To find out more about how we use cookies and how to disable cookies, [click here](https://info.yahoo.com/privacy/uk/yahoo/cookies/#t1). 
 
 Return to top
 
 ## YOUR ABILITY TO EDIT AND DELETE YOUR ACCOUNT INFORMATION AND PREFERENCES
 
-You can edit your [Yahoo! Account Information](http://edit.yahoo.com/config/eval_profile), including your [marketing preferences](http://subscribe.yahoo.com/showaccount), at any time. 
+You can edit your [Yahoo Account Information](http://edit.yahoo.com/config/eval_profile), including your [marketing preferences](http://subscribe.yahoo.com/showaccount), at any time. 
 
 New categories of marketing communications might be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
 
-We reserve the right to send you certain communications, such as service announcements and administrative messages and other communications relating to the Yahoo! service, without offering you the opportunity to opt out of receiving them. 
+We reserve the right to send you certain communications, such as service announcements and administrative messages and other communications relating to the Yahoo service, without offering you the opportunity to opt out of receiving them. 
 
-You may delete your Yahoo! account by visiting our [Account Deletion](https://edit.yahoo.com/config/delete_user) page, verifying your password once more and confirming your choice to terminate the account. Please [click here](http://info.yahoo.com/privacy/uk/yahoo/datastorage/) to read about what information may possibly temporarily remain in our archived records after your account has been deleted. 
+You may delete your Yahoo account by visiting our [Account Deletion](https://edit.yahoo.com/config/delete_user) page, verifying your password once more and confirming your choice to terminate the account. Please [click here](https://info.yahoo.com/privacy/uk/yahoo/datastorage/) to read about what information may possibly temporarily remain in our archived records after your account has been deleted. 
 
 Return to top
 
@@ -75,15 +73,15 @@ We limit access to information about you to employees who we believe reasonably 
 
 We have physical, electronic, and procedural safeguards that comply with our legal obligations to protect information about you. 
 
-To learn more about security, including the security steps we have taken and security steps you can take, please read [Security at Yahoo!](http://info.yahoo.com/privacy/uk/yahoo/security/).
+To learn more about security, including the security steps we have taken and security steps you can take, please read [Security at Yahoo](https://info.yahoo.com/privacy/uk/yahoo/security/). 
 
 Return to top
 
 ## POSTING ON PUBLICLY ACCESSIBLE AREAS
 
-A publicly accessible area is any area of Yahoo! that is accessible by the general public and may be indexed by search engines.
+A publicly accessible area is any area of Yahoo that is accessible by the general public and may be indexed by search engines. 
 
-Yahoo! offers you the opportunity to post, submit and exchange content and information on publicly accessible areas, such as Yahoo! Groups, Yahoo! Message Boards and Yahoo! Answers.
+Yahoo offers you the opportunity to post, submit and exchange content and information on publicly accessible areas, such as Yahoo Groups, Yahoo Message Boards and Yahoo Answers. 
 
 You should exercise caution if you choose to disclose personally identifiable information in a publicly accessible area. Remember that this information may remain indefinitely in the publicly accessible area of the Service. Also, depending on the particular Service, other users may also be able to view two or more of your individual postings collectively. 
 
@@ -95,7 +93,7 @@ Return to top
 
 ## CHANGES TO THIS PRIVACY POLICY
 
-Yahoo! may amend this policy from time to time. If we make any substantial changes in the way we use your information we will notify you by sending a notice to the primary email address specified in your Yahoo! account or by posting a prominent notice on our pages. 
+Yahoo may amend this policy from time to time. If we make any substantial changes in the way we use your information we will notify you by sending a notice to the primary email address specified in your Yahoo account or by posting a prominent notice on our pages. 
 
 Return to top
 
@@ -103,6 +101,6 @@ Return to top
 
 If you have questions or suggestions complete a [feedback form](http://io.help.yahoo.com/contact/index?locale=en_GB&y=PROD_ACCT&page=contact). 
 
-Last Updated: Oct 14, 2009
+Last Updated: Oct 14, 2009 
 
 Return to top
