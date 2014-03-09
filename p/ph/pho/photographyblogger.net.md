@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photographyblogger.net privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012064210id_/http%3A//www.photographyblogger.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photographyblogger.net privacy policy that was archived on 2014-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140309214455id_/http%3A//www.photographyblogger.net/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -22,3 +22,7 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
 * * *
+
+#### Newsletter
+
+Sign up to receive the latest features and inspirations from Photography Blogger.
