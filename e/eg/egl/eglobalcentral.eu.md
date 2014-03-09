@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eglobalcentral.eu privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118024727id_/http%3A//eglobalcentral.eu/privacy-policy-eu.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eglobalcentral.eu privacy policy that was archived on 2014-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140309063733id_/http%3A//eglobalcentral.eu/privacy-policy-eu.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
