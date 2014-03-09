@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the internationalwomensday.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821212210id_/http%3A//www.internationalwomensday.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalwomensday.com privacy policy that was archived on 2014-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140309060547id_/http%3A//www.internationalwomensday.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# International Women's Day 2013
+# International Women's Day 2014
 
 ## Privacy Policy
 
