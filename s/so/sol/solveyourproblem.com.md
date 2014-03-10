@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solveyourproblem.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209055049id_/http%3A//solveyourproblem.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solveyourproblem.com privacy policy that was archived on 2014-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140310073039id_/http%3A//solveyourproblem.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SolveYourProblem.com
 
@@ -36,7 +36,7 @@ This site is owned by Launch 3, LLC and is copyrighted and protected by various 
 
 For site security purposes and to ensure that this service remains available to all users, we employ software programs to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
-[Launch 3, LLC](http://www.launch3.com/) © 1998 - 2013 All Rights Reserved  
+[Launch 3, LLC](http://www.launch3.com/) © 1998 - 2014 All Rights Reserved  
 **Disclaimer:** SolveYourProblem.com should not replace seeking professional advice for any problem,  but rather as an online resource  
 for gathering information. Launch 3, LLC cannot be held  responsible for any misrepresentation, incorrect information  
 provided or hyperlinks listed herein.  Should anyone have concerns as to specific content and accuracy, please [contact me](http://solveyourproblem.com/contact/) immediately.
