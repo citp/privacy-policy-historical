@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zippcast.com privacy policy that was archived on 2012-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120421175022id_/http%3A//www.zippcast.com/t/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zippcast.com privacy policy that was archived on 2014-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140311001143id_/http%3A//www.zippcast.com/t/policy.php) for the most accurate reproduction.*
 
 # ZippCast | Privacy Policy
 
