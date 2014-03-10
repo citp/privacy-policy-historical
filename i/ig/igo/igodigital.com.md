@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the igodigital.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928144836id_/http%3A//www.igodigital.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igodigital.com privacy policy that was archived on 2014-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140310102817id_/http%3A//www.igodigital.com/privacy) for the most accurate reproduction.*
 
 # None
 
 ## iGoDigital Privacy, Security, and Application Accessibility Policy
 
-Last Revised June 2011
+Last Revised November 2013
 
 ### Information Collection and Use
 
@@ -39,12 +39,6 @@ We take appropriate security measures to protect against unauthorized access to 
 #### Accessing Data
 
 If your tool data, results, or interaction is displayed on another domain, website, or URL outside of iGoDigital’s control, the data provided is under your consent. By using an iGoDigital tool, you authorize iGoDigital’s client to access and display that data back to you. This data, while containing no personal data; is sent over a secured data transfer line. The data is referenced only by the anonymous user _guid_ and would require data from both parties to align a user to the data.
-
-#### Enforcement
-
-iGoDigital complies with the U.S.­‐EU Safe Harbor Framework and the U.S.­‐Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of any data from European Union member countries and Switzerland. For more information visit [U.S. ­‐ EU Safe Harbor Framework Documents](http://export.gov/safeharbor/eu/eg_main_018493.asp "U.S. ­‐ EU Safe Harbor Framework Documents").
-
-iGoDigital regularly reviews its compliance with this Privacy Policy.
 
 #### Changes to this Privacy Policy
 
