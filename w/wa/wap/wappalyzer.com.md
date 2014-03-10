@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wappalyzer.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207124518id_/http%3A//wappalyzer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wappalyzer.com privacy policy that was archived on 2014-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140310075747id_/https%3A//wappalyzer.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Wappalyzer
+# Privacy Policy
 
 The Wappalyzer Privacy Policy describes how we treat personal information when you use Wappalyzer's products and services, including information provided when you use the Wappalyzer browser extension ("extension"). In addition, the following describes our privacy practices that are specific to the extension.
 
