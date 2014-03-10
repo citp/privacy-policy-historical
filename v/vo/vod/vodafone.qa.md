@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.qa privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121032222id_/http%3A//www.vodafone.qa/en/legal-and-regulatory/data-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.qa privacy policy that was archived on 2014-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140310115645id_/http%3A//www.vodafone.qa/en/legal-and-regulatory/data-privacy-policy) for the most accurate reproduction.*
 
 # Vodafone Qatar | Data Privacy Policy | vodafone.qa
 
