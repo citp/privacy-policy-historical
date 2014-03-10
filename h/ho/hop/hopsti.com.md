@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hopsti.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104074015id_/http%3A//hopsti.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hopsti.com privacy policy that was archived on 2014-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140310170443id_/http%3A//hopsti.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# 隐私权政策
 
 Online Dating at Hopsti
 
