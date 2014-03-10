@@ -1,35 +1,98 @@
-> *The following text is extracted and transformed from the mygrafico.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119234349id_/http%3A//www.mygrafico.com/privacy-policy/info_4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygrafico.com privacy policy that was archived on 2014-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140310064132id_/http%3A//www.mygrafico.com/privacy-policy/info_4.html) for the most accurate reproduction.*
 
-# Privacy Policy - MYGRAFICO DIGITALS: Clipart, Digital Paper, Stamp, Party Printables
-
-#### Privacy Policy
+# Mygrafico Privacy Policy - Mygrafico.com
 
   
 
 
-Your privacy at our website and when conducting business with  Mygrafico is respected and protected. Our goal is to make your online experience with us easy, enjoyable and successful. We want you to use the  Mygrafico  website with confidence and our assurance.
+#### What information do we collect? 
 
-PERSONAL INFORMATION
+We collect information from you when you register on our site or subscribe to our newsletter. 
 
-Mygrafico. will hold personal information through this site  
-Personal information on individual users will not be sold or otherwise shared or transferred to third parties.  
-Without your express permission we will never reveal your personal identity, preferences or any other information about you.  
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+
+#### What do we use your information for?
+
   
-NEWSLETTER SUBSCRIBERS
+Any of the information we collect from you may be used in one of the following ways:
 
-If you subscribed to Mygrafico Newsletter or joined Mygrafico community, you will be getting regular emails from us about product news and updates. If you do not want to receive emails from us, you can always unsubscribe.  
+  * To improve customer service
+
+
+
+(your information helps us to more effectively respond to your customer service requests and support needs)
+
+  *   To process transactions 
+
+
+
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.  
+> 
+
+  * To send periodic emails
+
+
+
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+
+#### How do we protect your information?
+
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
+
+We do not collect sensitive/credit card or financial information on our database. All transactions occur on PAYPAL or Moneybooker's 3rd party SSL secure servers and redirected to our site after succesfull payments.
+
+#### Do we use cookies?
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to help us remember and process the items in your shopping cart and understand and save your preferences for future visits.
+
+#### Do we disclose any information to outside parties?
+
   
-COOKIES
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
 
-How we use cookies  
-Cookies allow web applications to respond to you as an individual. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+#### Third party links
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.  
   
-LINKS TO OTHER WEBSITES
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-Our website may contain links to enable you to visit other websites of interest. However, once you have used these links to leave our site, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites. You should exercise caution and look at the privacy statement applicable to the website in question.
+#### Childrens Online Privacy Protection Act Compliance
 
-Thank you for being part of **MyGrafico.**
+  
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+#### Online Privacy Policy Only
+
+  
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+#### Terms and Conditions
+
+  
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.mygrafico.com/terms-conditions/info_3.html>
+
+#### Your Consent
+
+By using our site, you consent to our
+
+[web site privacy policy](http://www.mygrafico.com/privacy-policy/info_4.html)
+
+.
+
+#### Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page.
+
+#### Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+www.mygrafico.com  
+customerservice@mygrafico.com
+
+Thank you for being part of **MYGRAFICO.**
 
 .
