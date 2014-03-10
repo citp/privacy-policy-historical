@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the vtac.edu.au privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813124147id_/http%3A//www.vtac.edu.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vtac.edu.au privacy policy that was archived on 2014-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140310141923id_/http%3A//vtac.edu.au/privacy) for the most accurate reproduction.*
 
-# VTAC Website Privacy Statement
+# delta.vtac.edu.au - VTAC Website Privacy Statement
+
+  * [](http://www.vtac.edu.au/privacy.html?tmpl=component&print=1&page= "Print")
+
+
 
 Consistent with its obligations under the  _Information Privacy Act 2000 (Vic)_ __ and principles outlined in the  _National Privacy Policy Principles 2001_ , VTAC has a Code of Privacy and Ethics to ensure that any information provided, including identification of individuals, will be used only for the purpose(s) intended. Where the intention includes confidentiality, information will be treated as such unless otherwise required by law.
 
@@ -154,4 +158,4 @@ If you are studying in Victoria and have been allocated an ATAR, VTAC will distr
 
 To access your VTAC data, please write to the Deputy Director, Selection and Application Services, VTAC, 40 Park Street, South Melbourne VIC 3205.
 
-For any other queries relating to the privacy of your data email  [privacy@vtac.edu.au](mailto:privacy@vtac.edu.au) or write to the Privacy Officer, Deputy Director, Information and Publishing Services, VTAC, 40 Park Street, South Melbourne VIC 3205. 
+For any other queries relating to the privacy of your data email [privacy@vtac.edu.au](mailto:privacy@vtac.edu.au) or write to the Privacy Officer, Deputy Director, Information and Publishing Services, VTAC, 40 Park Street, South Melbourne VIC 3205. 
