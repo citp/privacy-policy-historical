@@ -1,120 +1,87 @@
-> *The following text is extracted and transformed from the olxtube.com privacy policy that was archived on 2010-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100803061946id_/http%3A//www.olxtube.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olxtube.com privacy policy that was archived on 2014-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140311001906id_/http%3A//www.olxtube.com/policy) for the most accurate reproduction.*
 
-# .::OLXTUBE::. - Privacy Policy
+# Privacy Policy » Olxtube the way to share your favorite
 
-This is the Privacy Policy governing your use of the olxtube.com site. 
+**DMCA Policy**
 
-If you have questions or concerns regarding this statement, please contact **info@olxtube.com**. 
+olxtube.com respects the others, and in return it also wants the same. olxtube.com doesn’t allow copyright inferinging activities on its website. olxtube.com will remove all the copyright content, and have the rights to terminate the account of the user who will involve in such activities. olxtube.com also have the right to remove/suspend the account of such users who violates our terms and conditions. 
 
-By using this Site, you approve and agree to our Privacy Policy set out below. All terms not defined in this document have the meanings ascribed to them in the Terms of Use Agreement between you and olxtube.com which by use of this Site you agree to accept. 
+**Digital Millennium Copyright Act of 1998**
 
-The fundamental purpose of the services that olxtube.com provides you requires that we gather, process, use and distribute the member's information which also you provide directly by filling out our various forms and formats; for example, your company name, contact information, company profile and homepage and the products you buy and sell, etc. Therefore, olxtube.com does not guarantee that your information will be protected from exposure in any particular party or group. In fact the purpose of this e-marketplace web site is to make you and your company known all over the commercial world. If you wish to remove your company or update your company's information, please Contact Us. 
+In accordance with the Digital Millennium Copyright Act of 1998, olxtube.com will respond expeditiously to claims of copyright infringement that are reported to olxtube.com. If you believe your content has been copied in any way, please provide the olxtube.com the following information: 
 
-**1\. The Information We Collect**
+1\. A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed; 
 
-**1.1 Registration Information.**  
-At the time you register to become a Registered User of the Site, you will be asked to fill out a registration form which requires you provide information such as your name, address, phone/fax number, email address and other personal information as well as information about your business (“Registration Information”). 
+2\. Identification of the copyright work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at the Website; 
 
-**1.2 Publishing Information.**  
-If you submit any information to olxtube.com to be published on the Site through the publishing tools, including but not limited to Company Directory, Product Catalog, Trade Leads, then you are deemed to have given consent to the publication of such information (“Publishing Information”). 
+3\. Information reasonably sufficient to permit olxtube.com to contact the complaining party, including a name, address, telephone number and, if available, an email address at which the complaining party may be contacted. 
 
-**1.3 Statistical Information.**   
-In addition, we gather aggregate statistical information about our Site and Users, such as IP addresses, browser software, operating system, pages viewed, number of sessions and unique visitors, etc. (“Statistical Information”). 
+4\. Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit olxtube.com to locate the material; this must be in the form of a direct URL to the page on which the infringing content is linked. This detail is necessary as each video can have multiple links and to protect relationships with our partners we wish to avoid deleting authorized links in error. 
 
-**2\. How We Use Information**
+5\. A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent or the law; and 
 
-**2.1 General.**  
-We use your Collected Information to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our Site's content, layout and service specifically for you. 
+6\. A statement that the information in the notification is accurate and, under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed. 
 
-We use your Collected Information to service your Account with us, including but not limited to investigating problems, resolving disputes and enforcing agreements with us. We share certain aggregate information based on analysis of Collected Information with our partners, customers, advertisers or potential Users. 
+Send the written infringement notice or contact us 
 
-We use your Collected Information to execute marketing campaigns, promotions or advertising messages on behalf of third parties; however, in these circumstances, your Collected Information will not be disclosed to such third parties unless you respond to the marketing, promotion or advertising message. 
+Please allow 1-2 business days for an email response. Note that emailing your complaint to other parties such as our Internet Service Provider will not expedite your request and may result in a delayed response due the complaint not properly being file 
 
-**2.2 Registration Information.**  
-We use your Registration Information to provide services that you request or to contact you regarding additional services about which olxtube.com determines that you might be interested. 
+**Privacy Statement**
 
-Specifically, we use your email address, mailing address, phone number or fax number to contact you regarding notices, surveys, product alerts, new service or product offerings and communications relevant to your use of our Site, such as newsletters, if you choose to receive these as indicated at the time of registration. 
+This privacy policy sets out how olxtube.com uses and protects any information that you give olxtube.com when you use this website. 
 
-We generate reports and analysis based on the Registration Information for internal analysis, monitoring and marketing decisions. 
+olxtube.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
 
-**2.3 Publishing Information.**  
-All of your Publishing Information will be publicly available on the Site and therefore accessible by any internet user. 
+olxtube.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
-Any Publishing Information that you disclose to olxtube.com becomes public information and you relinquish any proprietary rights (including but not limited to the rights of confidentiality and copyrights) in such information. 
+**What we collect**
 
-You should exercise caution when deciding to include personal or proprietary information in the Publishing Information that you submit to us. 
+We may collect the following information: 
 
-**2.4 Statistical Information.**   
-We use Statistical Information to help diagnose problems with and maintain our computer servers, to manage our Site, and to enhance your Site and services based on the usage pattern data we receive. 
+1\. Name and job title 
 
-We generate reports and analysis based on the Statistical Information for internal analysis, monitoring and marketing decisions. We provide Statistical Information to third parties. 
+2\. contact information including email address 
 
-**3\. Disclosure of Information**
+3\. demographic information such as postcode, preferences and interests 
 
-3.1 We reserve the right to disclose your Collected Information to relevant authorities where we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who be infringing or threatening to infringe, or who otherwise be causing injury to or interference with, the title, rights, interests or property of olxtube.com, our Users, customers, partners, other web site users or anyone else who could be harmed by such activities. 
+4\. other information relevant to customer surveys and/or offers 
 
-3.2 We also reserve the right to disclose Collected Information in response to a subpoena or other judicial order or when we reasonably believe that such disclosure is required by law, regulation or administrative order of any court, governmental or regulatory authority. 
+**What we do with the information we gather**
 
-3.3 If we have reason to believe that a User is in breach of the Terms of User Agreement or any other agreement with us, then we reserve the right to make public or otherwise disclose such User’s Collected Information in order to pursue our claim or prevent further injury to olxtube.com or others. 
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
-**4\. Cookies**
+1\. Internal record keeping. 
 
-We use “cookies” to store specific information about you and track your visits to our Site. It is not uncommon for web sites to use cookies to enhance identification of their users. A “cookie” is a small amount of data that is sent to your browser and stored on your computer's hard drive. 
+2\. We may use the information to improve our products and services. 
 
-A cookie can be sent to your computer’s hard drive only if you access our Site using the computer. 
+3\. We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
 
-If you do not de-activate or erase the cookie, each time you use the same computer to access our Site, our web servers will be notified of your visit to our Site and in turn we have knowledge of your visit and the pattern of your usage. 
+4\. From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests. 
 
-Some of our business partners (e.g., advertisers, tracking utlities) use cookies on our site. We have no access to or control over these cookies. 
+**Security:**
 
-This privacy statement covers the use of cookies by olxtube.com at http://www.olxtube.com only and does not cover the use of cookies by any third parties.
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
-Generally, we use cookies to identify you and enable us to access your Registration Information, Publishing Information or Payment Information so you do not have to re-enter it; gather statistical information about usage by Users; research visiting patters and help target advertisements based on User interests; assist our partners to track User visits to the Site and process orders; and track progress and participation in promotions. 
+**How we use cookies:**
 
-You can determine if and how a cookie will be accepted by configuring your browser’s which is installed in the computer you are using to access the Site.
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
-If you desire, you can change those configurations in your browser.
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
 
-By setting your preferences in the browser, you can accept all cookies, you can be notified when a cookie is sent, or you can reject all cookies. 
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
 
-If you reject all cookies by choosing the cookie-disabling function in your browser, you be required to re-enter your information on our Site more often and certain features of our Site be unavailable.
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
 
-**5\. Minors**
+**Links to other websites:**
 
-The Site and its contents are not intended to be targeted to minors under applicable law and we do not intend to sell any of our products or services to minors. 
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.   
+**  
+Controlling your personal information:**
 
-However, we have no way of distinguishing the age of individuals who access our Site and so we carry out the same Privacy Policy for individuals of all ages. 
+You may choose to restrict the collection or use of your personal information in the following ways: 
 
-If a minor has provided us with personal information without parental or guardian consent, the parent or guardian should contact us to remove the information. 
+1\. whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes. 
 
-**6\. Security Measures**
+2\. if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at admin@olxtube.com 
 
-6.1 We employ commercially reasonable security methods to prevent unauthorized access, maintain data accuracy and ensure correct use of information. 
-
-6.2 As a Registered User, your Registration Information, Publishing Information and Payment Information (if any) can be viewed and edited through your Account which is protected by Password. 
-
-We recommend that you do not divulge your Password to anyone. 
-
-Our personnel will never ask you for your Password in an unsolicited phone call or in an unsolicited e-mail. If you share a computer with others, you should not choose to save your log-in information (e.g., User ID and Password) on the computer. 
-
-Remember to sign out of your Account and close your browser window when you have finished your session. 
-
-6.3 No data transmission over the Internet or any wireless network can be guaranteed to be perfectly secured. 
-
-As a result, while we try to protect your information, no web site or company, including ourselves, can absolutely ensure or guarantee the security of any information you transmit to us and you do so at your own risk. 
-
-**7\. Changes to Privacy Policy**
-
-Any changes to this Privacy Policy will be communicated through our posting an amended and restated Privacy Policy on our Site. Our posting the amended and restated Privacy Policy will make such new Privacy Policy immediately effective. 
-
-You agree that all Collected Information (whether or not collected prior to or after the new policy became effective) will be governed by the newest Privacy Policy then in effect. 
-
-If you do not agree to the new changes in our Privacy Policy, you should contact olxtube.com in writing (at the address set out in the Notice provision of the Terms of Use Agreement) and specifically request that olxtube.com return and/or destroy all copies of all or part of your Collected Information in olxtube.com possession. 
-
-This Privacy Policy was last amended on October 25 , 2007. 
-
-**8\. Correcting Your Information**
-
-You can access, view and edit your Registration Information, Publishing Information and Payment Information (if any) through your Account with olxtube.com. 
-
-If you wish to unsubscribe to our email communications and/or de-list your company profile please send an email to info@olxtube.com. 
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
