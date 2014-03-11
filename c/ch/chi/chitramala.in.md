@@ -1,25 +1,58 @@
-> *The following text is extracted and transformed from the chitramala.in privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007025840id_/http%3A//www.chitramala.in/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chitramala.in privacy policy that was archived on 2014-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140311071155id_/http%3A//www.chitramala.in/privacy-policy) for the most accurate reproduction.*
 
-# Chitramala.com Privacy Policy
+# Privacy Policy
 
-### Chitramala.com Privacy Policy
+Chitramala recognizes the importance of protecting the privacy of information and will keep the information you entrust to us safely and securely.
 
-At [Chitramala.com](http://www.chitramala.com/), we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit chitramala.com, and how we safeguard your information. We never sell your personal information to third parties.
+**What this Privacy Policy Covers**  
+This policy tells you how Chitramala collects information from you, how we protect it and how we use it.
 
-### Log Files
+**Information Collection and Use**  
+We respect each visitor’s right to personal privacy. To that end, we collect and use information throughout our web site only as disclosed in this Privacy Policy. This statement applies solely to the information collected on [chitramala.in](http://chitramala.in/)We will collect personally identifiable information from you in a variety of ways including directly from you when you register on the Sites, use other Chitramala services, enter competitions or prize draws, navigate around our Sites or respond to communications from us. Chitramala may also receive personally identifiable information from, third parties including our related companies, our business partners and publicly available sources of information.The following is what we normally collect about you to help us provide you with our services, where we can:  
+• Personal attributes, name, address, gender, date of birth, email, telephone number, and service details;  
+• Information on how you use our website, including details of your domain name and Internet Protocol address, operating system, browser, cookies, time spent on a page or content, and the route you took to navigate through the pages;  
+• Other data, from time to time, to help us provide you with improved products and services.
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+If you choose not to provide us with certain information we may not be able to provide you with a particular service.  
+Chitramala also automatically receives and records information on our server logs from your browser including your IP address, Chitramala cookie information and the page you requested.
 
-### Cookies and Web Beacons
+In addition, when you use Chitramala, you may make some of your personal information public. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return and Chitramala will not be responsible for the use or misuse of such information. The main uses of your personal information are to verify your identity; to help provide our services; to administer those services; to enable us to review and improve our service to provide access to certain areas of the website; to personalise your visit to our site; to run competitions and games and to assist with advertising and other revenue generation functions.  
+The information we collect is also used to notify visitors about events, changes and other information about this web site. The information we collect is never shared with other organizations for commercial or other purposes.  
+This information may be used for marketing (where you have agreed to this) and for market research purposes, including internal demographic studies, to provide, optimise and personalise our services and to send you newsletters and information (where you have agreed to this) about our products and services.
 
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+**Information Sharing and Disclosure**  
+Chitramala will  **NOT  **disclose personally identifiable information about you to third parties except in the following situations:  
+• We have your consent to share the information;  
+• We need to share your information to provide the product or service you have requested;  
+• We need to share the information with certain service partners in order to respond to your comments or to resolve service issues. (Unless we tell you differently, these partners have no independent right to use this information except to respond to your comments or to resolve the service issues.);  
+• We respond to requests from any Indian or foreign government, security, defence, revenue, regulatory or other authority, agency or officer;  
+• We respond to subpoenas, court orders or legal proceedings;  
+• When required by law that such action is necessary to protect and defend the rights of property Chitramala.in  
+• When applicable law or regulation requires disclosure of information to protect the safety or security of users of our Sites;  
+• We find that your actions on our web sites violate the Chitramala Terms of Service or any of our usage guidelines for specific products or services;  
+• If we sell the business of some of the Chitramala group of companies to another organisation or merge with other businesses. In this case, the buyer will only be able to use your information as set out in this Privacy Policy;  
+• If we use third party processors to administer and process your personal information for the purposes notified in the Privacy Policy, e.g. for hosting activities related to the use of our Sites or services; or  
+• We may need to share details with third parties (such as auditors or legal advisors) to obtain advice. Any such processing will be governed by an agreement in the form required by law, preserving any statutory data protection rights.
 
-We also use third party advertisements on chitramala.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+**Use of information for marketing  **  
+In line with any permission you give us, we may send you direct marketing about our own, or carefully selected third parties’ goods and services and disclose your information to other organisations that may send direct marketing to you. You can change your marketing preferences if you are registered with us. In addition, you can unsubscribe from email communications via unsubscribe links provided in communications sent to you.
 
-### DoubleClick DART cookies
+**Link from or to Other Sites**  
+As a means of providing useful resources to our users, Chitramala provides links to other web sites. We try to carefully choose web sites that we believe are useful and meet our high standards. However, because web sites can change so quickly, we do not guarantee the standards of any website links we provide nor do we imply endorsement. Chitramala.in is not responsible for the data and privacy policies, content or security of other websites that are linked to our site. . You should be aware that when you are on our Sites you could be directed to other sites where the personal information collected is outside of our control. The privacy policy of the new site will govern the information obtained from you on that site.
 
-We also may use DART cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting"). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.doubleclick.com/privacy/dart_adserving.aspx>
+**Cookies**  
+We collect information through technology to make our Sites and other content or services which we make available to you more interesting and useful to you. For instance, when you come to one of our Sites via your computer or other media device, we may combine your visitor session information or other information collected through cookies, web beacons and other technical methods with personally identifiable information in order to understand and improve your online experiences and to determine what products, promotions and services you prefer or are likely to be of interest to you.
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+Cookies are pieces of information that a Site sends to your computer or other media device while you are viewing or interacting with the Site. We use cookies for a variety of purposes including tracking usage on our Sites in order to- enhance our guests’ experience on our Sites and to learn more about your preferences and interests  
+Web beacons are small pieces of data that are embedded in images on the pages of Sites. We also use these technical methods to analyse the traffic patterns on our Sites, such as the frequency with which our users visit various parts of our Sites.
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+Chitramala ensures that all information collected and accessed by Chitramala through the access of these cookies will be maintained in accordance with this Privacy Policy. Chitramala allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies’ use of their cookies is subject to their own privacy policies. Advertisers or other companies do not have access to Chitramala cookies.
+
+**Security**  
+We take various precautions to keep your personal information secure from unauthorized access and will store your personal information for so long as it is necessary to provide you our services or for archive purposes.
+
+**Notification of Changes**  
+Chitramala may amend this Privacy Policy from time to time and we will post the latest version on this and all our other Sites. If we ever wish to use your personal information in a way which is incompatible with the information in this Privacy Policy, we will only do so with your consent.
+
+**Acceptance of Privacy Policy  **  
+Your right to access this website is conditional upon your full acceptance of this Privacy Policy and by accessing the Sites you you signify your consent that we store and process your personal data in accordance with this Privacy Policy.
