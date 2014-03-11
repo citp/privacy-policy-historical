@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the renlearn.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122201146id_/http%3A//www.renlearn.com/aboutus/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renlearn.com privacy policy that was archived on 2014-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140311010141id_/http%3A//www.renlearn.com/aboutus/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Renaissance Learning - Privacy Policy
 
-[Safe Harbor](https://web.archive.org/web/20131122201146id_/http%3A//www.renlearn.com/aboutus/safeharbor.aspx)
+[Safe Harbor](https://web.archive.org/web/20140311010141id_/http%3A//www.renlearn.com/aboutus/safeharbor.aspx)
 
 Renaissance Learning, Inc., and its subsidiaries ("RLI") considers the privacy and security of visitors to our website to be of paramount importance. We have developed this privacy policy to communicate our commitment to protect information. We will not sell, share, or rent this information to others in any manner other than that which is disclosed in this policy. Please note that RLI does collect certain information from our users at several different points on our website. If you have any questions about this privacy policy, or other parts to our website, we can be reached via email at [answers@renlearn.com](mailto:answers@renlearn.com), or you can call us toll-free at **(800) 338-4204**. RLI reserves the right to revise this privacy policy at any time. Changes to this privacy policy will be posted at this location.
 
