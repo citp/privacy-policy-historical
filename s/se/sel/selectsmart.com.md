@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selectsmart.com privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830134029id_/http%3A//selectsmart.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selectsmart.com privacy policy that was archived on 2014-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140311222537id_/http%3A//selectsmart.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
