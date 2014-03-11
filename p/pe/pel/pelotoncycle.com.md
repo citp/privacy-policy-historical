@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pelotoncycle.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114155609id_/http%3A//pelotoncycle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pelotoncycle.com privacy policy that was archived on 2014-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140311151246id_/http%3A//www.pelotoncycle.com/privacy-policy) for the most accurate reproduction.*
 
-# Peloton ® | Only Indoor Exercise Bike with Live Streaming Classes
-
-#### PELOTON PRIVACY POLICY
+# Peloton Cycle ® | Privacy Policy
 
 Last Updated: August 06 2013
 
@@ -55,8 +53,6 @@ We may use information that we collect about you to:
 
 
 
-#### With whom we share your information.
-
 _Personal information._ We do not share your personal information with any third parties, except as may be necessary to deliver email messages to you, process your payment information and/or provide other products and services that you have requested from us. 
 
 _Financial Information._ As described above, we do not store, process or maintain any of your Financial Information. When you provide your Financial Information on the payment page of our web service, we pass that information directly to our third party payment processor who confirms your payment information, which then allows us to complete the transaction. 
@@ -101,4 +97,4 @@ New York NY 10001
 [support@pelotoncycle.com](mailto:support@pelotoncycle.com?subject=Attn:Privacy%20Officer)  
 Attn: Privacy Officer
 
-© Peloton 2012 - 2013,  Peloton Interactive LLC. All rights reserved 
+© Peloton 2012 - 2014,  Peloton Interactive LLC. All rights reserved 
