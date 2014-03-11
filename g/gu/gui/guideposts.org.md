@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guideposts.org privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621181509id_/http%3A//www.guideposts.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guideposts.org privacy policy that was archived on 2014-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140311223239id_/http%3A//www.guideposts.org/privacy-policy%3Fint_source%3Dfront_page%26int_medium%3DFooter%26int_campaign%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Guideposts
 
