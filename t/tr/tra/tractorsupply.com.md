@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tractorsupply.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013035320id_/http%3A//www.tractorsupply.com/content_customer-solutions_tsc-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tractorsupply.com privacy policy that was archived on 2014-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140311031834id_/http%3A//www.tractorsupply.com/content_customer-solutions_tsc-privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Tractor Supply Co.
 
   1. Our Customer Pledge
   2. Collection and Use of Personal Information
