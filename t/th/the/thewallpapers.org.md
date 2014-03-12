@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thewallpapers.org privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816151217id_/http%3A//www.thewallpapers.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewallpapers.org privacy policy that was archived on 2014-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140312075516id_/http%3A//www.thewallpapers.org/privacy) for the most accurate reproduction.*
 
 # Wallpapers | Desktop Wallpapers
-
-## TheWallpapers User Policy
 
 As TheWallpapers is a general-age website, we ask that all users behave in an appropriate manner at all times. As stated in the above Submissions Policy, we do not allow the use of offensive material. Do not post material that is pornographic, racial or hate-based. TheWallpapers reserves the right to cancel a member's access along with all files submitted by that member at any given time without warning. TheWallpapers also allows its users to remove their submissions at any given time.
 
