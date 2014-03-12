@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the therandomforest.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209141819id_/http%3A//therandomforest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therandomforest.com privacy policy that was archived on 2014-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140312225942id_/http%3A//therandomforest.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | The Random Forest
 
 As a fellow Internet user myself, I totally respect your online privacy. So it goes without saying that I’m fully committed to safeguarding your online privacy while you’re here at www.therandomforest.com website.
 
