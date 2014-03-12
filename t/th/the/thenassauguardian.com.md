@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenassauguardian.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103003614id_/http%3A//www.thenassauguardian.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D118%26Itemid%3D67) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenassauguardian.com privacy policy that was archived on 2014-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140312013317id_/http%3A//www.thenassauguardian.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D118%26Itemid%3D67) for the most accurate reproduction.*
 
 # The Nassau Guardian
 
