@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the acuitylaser.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021082218id_/http%3A//www.acuitylaser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acuitylaser.com privacy policy that was archived on 2014-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140312064725id_/http%3A//www.acuitylaser.com/privacy-policy) for the most accurate reproduction.*
 
 # Acuity Laser's Privacy Policy | Learn About Laser Measuring Devices
-
-[](https://web.archive.org/literature-and-downloads) [](https://web.archive.org/request-trial-unit)
-
-Product  
-Announcements
-
-NEW DEVICE:  
-AR500 Laser Position Sensor
-
-The AccuRange 500 Laser Position Sensors are fast and accurate measurement devices for integrated industrial measurement systems.
-
-[](https://web.archive.org/products/item/ar500-laser-position-sensor)
 
 [Home](https://web.archive.org/) > Privacy Policy
 
@@ -77,3 +65,13 @@ To protect your privacy and security, we will also take reasonable steps to veri
 ### How To Contact Us
 
 Should you have other questions or concerns about these privacy policies, please call us at 503-227-5178 or [send us an email](https://web.archive.org/contact-us).
+
+[DOWNLOADSLiterature & Software](https://web.archive.org/literature-and-downloads)
+
+NEW PRODUCT
+
+NEW DEVICE:AR500 Laser Position Sensor
+
+The AccuRange 500 Laser Position Sensors are fast and accurate measurement devices for integrated industrial measurement systems.
+
+[Learn More](https://web.archive.org/products/item/ar500-laser-position-sensor)
