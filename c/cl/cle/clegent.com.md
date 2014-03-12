@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clegent.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110170719id_/http%3A//www.clegent.com/web/jsp/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clegent.com privacy policy that was archived on 2014-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140312235420id_/http%3A//clegent.com/web/jsp/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy: SEO Services & PPC Campaign Management Company | Clegent™ Online Marketing Company
 
