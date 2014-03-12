@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sesameworkshop.org privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120031141id_/http%3A//www.sesameworkshop.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sesameworkshop.org privacy policy that was archived on 2014-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140313005429id_/http%3A//www.sesameworkshop.org/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | Sesame Workshop
 
