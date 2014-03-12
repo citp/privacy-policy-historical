@@ -1,71 +1,243 @@
-> *The following text is extracted and transformed from the deals.com.au privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905135735id_/http%3A//deals.com.au/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deals.com.au privacy policy that was archived on 2014-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140312143724id_/http%3A//deals.com.au/info/privacy-policy) for the most accurate reproduction.*
 
 # Deals - Privacy Policy
 
-Privacy
+DEALS.COM.AU Privacy Policy
 
   
 
 
 ### Introduction
 
-DEALS.COM.AU Pty Ltd and its related entities (collectively, "DEALS.COM.AU" or "we") are committed to complying with its obligations under the Privacy Act 1988 Cth ("Privacy Act") and the Spam Act 2003 Cth ("Spam Act"). Capitalised terms in this Policy have the meaning given to them in the Privacy Act or the Spam Act (as the case may be). 
+DEALS.COM.AU and each of its Related Bodies Corporate (also referred to as “We” in this Privacy Policy) respect your privacy. We have developed this Privacy Policy to inform you of how we protect the Personal Information that we Collect, Use, Disclose and keep secure. It also covers how DEALS.COM.AU makes the Personal Information it holds available for access to and correction by you. 
 
-### Collection of Personal Information
+This Privacy Policy has been drafted having regard to our obligations under the Privacy Act 1988 (Cth), the Privacy Amendment (Enhancing Privacy Protection) Act 2012 which includes the Australian Privacy Principles (collectively, the Privacy Act) and the Spam Act 2003 Cth (Spam Act). This Privacy Policy is a public document and has been prepared in light of Australian Privacy Principle 1 - Open and Transparent Management of Personal Information. 
 
-DEALS.COM.AU only collects your Personal Information with the consent of the member (referred to in this Policy as "you"). Collection is done through the registration process when you are requested to provide information that identifies you. This information includes (but is not necessarily limited to): your first name, your last name and your email address. DEALS.COM.AU will only collect your Personal Information from you (i.e. not from any other person or source), by lawful and fair means and not in an unreasonably intrusive way. 
+Please take a few minutes to review this Privacy Policy. By using the DEALS.COM.AU Website, you are consenting to the Collection, Use and Disclosure of your Personal Information as set forth in this Privacy Policy. 
 
-### Use of Personal Information
+### 1\. Collection of Personal Information
 
-Your Personal Information is used by DEALS.COM.AU for the purpose of promoting daily DEALS.COM.AU to you ("the Primary Purpose"). DEALS.COM.AU may use your Personal Information for a purpose related to the Primary Purpose ("the Secondary Purpose") provided that we (acting reasonably) believe:
+1.1 DEALS.COM.AU Collects Personal Information about customers, prospective customers and Website users which is reasonably necessary for, or directly related to, one or more its functions or activities. We Collect your Personal Information in several ways, including but not limited to: 
 
-      • that the purpose is directly related to the Primary Purpose of collection; AND
+      (a) the registration process on our Website; 
 
-      • that you would reasonably expect us to use or disclose the information for the Secondary Purpose.
+      (b) other instances in which you provide Personal Information via our Website; 
 
-### Disclosure of Information
+      (c) over the phone. 
 
-DEALS.COM.AU will only disclose your Personal Information to a third party:
+1.2 The Personal Information that we Collect includes (but is not necessarily limited to): your first name, your last name and your email address. 
 
-      • if you have consented
+1.3 If you wish to 'refer a friend' to DEALS.COM.AU that friend must register themselves - we will not enter Personal Information on their behalf. You can refer a friend to DEALS.COM.AU by clicking on the following link, [http://deals.com.au/referral](https://web.archive.org/referral).
 
-      • if we are required, by law, to make the disclosure; or
+1.4 At or before the time, or, if that is not practicable, as soon as practicable after, we Collect your Personal Information, we will notify you of the matters required pursuant to Australian Privacy Principal 5 – Notification of the Collection of Personal Information, by providing you with this Privacy Policy, or by notifying you of how you may access this Privacy Policy. 
 
-      • if we believe, acting reasonably, that we are entitled to disclose the Personal Information under any disclosure exemption outlined in National Privacy Principle 2 of the Privacy Act
+1.5 DEALS.COM.AU will not Collect Personal Information secretly or in an underhanded way and will not sell your Personal Information to any third party.
 
-If you purchase a daily deal, you are issued with a unique voucher number which is also supplied to the merchant on whose behalf the deal is advertised ("the merchant"). We do not disclose your Personal Information to the merchant (although you may be requested to do so when you redeem the relevant voucher). 
+### 2\. HOW WE USE YOUR INFORMATION AND WHEN WE MAY DISCLOSE IT
 
-DEALS.COM.AU DOES NOT disclose your Personal Information to any unrelated party for the purposes of direct marketing 
+2.1 DEALS.COM.AU holds Personal Information which it has Collected to Use and/or Disclose for its Primary Purposes, including but not limited to: 
 
-### Data Quality
+      (a) promoting daily deals to you; 
 
-Given that you provide us with your Personal Information, you must advise us if the Personal Information supplied by you is or becomes inaccurate, incomplete or out-of-date. 
+      (b) answering your inquiry; 
 
-### Data Security
+      (c) sending you additional materials relating to DEALS.COM.AU and products and services that may be of interest to you; and 
 
-Your Personal Information is stored securely, and DEALS.COM.AU takes reasonable precautions to protect your Personal Information from misuse, loss or unauthorised access. 
+      (d) providing you with effective customer service. 
 
-### Access
+2.2 DEALS.COM.AU also holds Personal Information which it Uses and/or Discloses for purposes other than its Primary Purposes (Secondary Purposes). You provide your consent to us Using and/or Disclosing your Personal Information for the following Secondary Purposes:
 
-You have a right to request access to your Personal Information that is stored by us. You also have a right to request that we permanently delete Personal Information of yours that we store. You may do this by sending us an email to the following address: [support@deals.com.au](mailto:support@deals.com.au)
+      (a) billing and account management; 
 
-### Express Consent
+      (b) business planning and product development; 
 
-DEALS.COM.AU only collect Personal Information of individuals who have expressly consented to receive our emails by subscribing to DEALS.COM.AU. DEALS.COM.AU' policy is not to add individuals to our database when their express consent has not been obtained. If you wish to 'refer a friend' to DEALS.COM.AU that friend must register themselves - we will not enter Personal Information on their behalf. You can refer a friend to DEALS.COM.AU by clicking on the following link, http://deals.com.au/info/refer-friends 
+      (c) enabling us to better understand your needs and interests; 
 
-### Unsubscribe Facility
+      (d) improving the content, functionality and usability of our Website; 
 
-Every email that DEALS.COM.AU sends contains an Unsubscribe Facility on the bottom of the page. If you wish to unsubscribe from our daily emails, you can do so immediately by clicking on the 'Unsubscribe' button and following the relevant prompts. You may also email an 'unsubscribe request' to: [support@deals.com.au](mailto:support@deals.com.au) We endeavour to process all 'unsubscribe emails' as soon as practicable. In any event, all such requests will be actioned within five (5) business days. The quickest and simplest way to unsubscribe is by clicking the 'Unsubscribe' button. 
+      (e) improving our marketing and promotional efforts; 
 
-### Changes to Policy
+      (f) displaying personalised advertising when you visit our Website; 
 
-DEALS.COM.AU may change this Policy at any time at our absolute discretion by posting the revised policy on this Website. It is your responsibility to review the terms of this Policy regularly. Your continued receipt of our daily emails will constitute acceptance and acknowledgment of the terms of this Policy.
+      (g) for any other purpose identified in any other agreement between DEALS.COM.AU and you; 
 
-### Contact information
+      (h) issues, news or other information relevant to your dealings with DEALS.COM.AU, or about DEALS.COM.AU generally, or the industries in which you or DEALS.COM.AU operates; and 
 
-Any feedback or questions regarding this Policy should be emailed to [support@deals.com.au](mailto:support@deals.com.au) and addressed to the Chief Operating Officer.
+      (i) as otherwise described in this Privacy Policy. 
 
+2.3 DEALS.COM.AU may Use and/or Disclose your Personal Information for any Secondary Purposes not included in this Privacy Policy if:
+
+      (a) the Secondary Purpose is related to a Primary Purpose; and 
+
+      (b) you would have a Reasonable Expectation that we would Use the information for that Secondary Purpose. 
+
+2.4 From time to time we may Disclose your Personal Information to organisations outside of DEALS.COM.AU in order to deliver the services you require. Your Personal Information is Disclosed to these organisations only in relation to us providing our services to you. These organisations carry out, amongst other services, our:
+
+      (a) billing and debt- recovery functions; 
+
+      (b) customer inquiries; 
+
+      (c) information technology services; 
+
+      (d) marketing services (including market research); 
+
+      (e) website usage analysis; and 
+
+      (f) to support or facilitate any of those activities described in Points 2.1 and 2.2 of this Privacy Policy 
+
+We will take reasonable practicable steps to ensure that these organisations are bound by confidentiality and privacy obligations in relation to the protection of your Personal Information.
+
+If you purchase a daily deal, you are issued with a unique voucher number which is also supplied to the merchant on whose behalf the deal is advertised ("the merchant"). We do not disclose your Personal Information to the merchant (although you may be requested to do so when you redeem the relevant voucher).
+
+If you purchase a product, we will disclose your name, address and other information necessary to complete the order to the merchant on whose behalf the deal is advertised (the Merchant). We will use reasonable endeavours to make sure that the Personal Information that we disclose to the Merchant on your behalf is the minimum necessary to complete the order. 
+
+2.5 The Website uses social plugins (hereinafter "Plugins") of the social network Facebook, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (hereinafter "Facebook"). The plugins are marked by a Facebook logo or the words "Social Plug-in by Facebook" or "Facebook Social Plugin". Find an overview of the Facebook plugins and their appearance on http://developers.facebook.com/plugins. If you request a page of our website which contains a plugin, your browser will build up a direct connection to the servers of Facebook. Facebook directly transmits the content of the plugin to your browser and from there it is incorporated in the website. By integrating the plugin, Facebook receives the information that your browser has accessed the page of our website, even if you do not have a Facebook account or if you are not logged into Facebook at the time. This information (including your IP address) will be sent directly from your browser to a Facebook server in the U.S. and stored there. If you are logged into Facebook, Facebook can assign your visit to our website directly to your Facebook account. If you interact with the plugins, for example, by pressing the "Like" button or by leaving a comment, the corresponding information is also transmitted directly to a Facebook server and is stored there. The information is also posted on Facebook and can be seen by your Facebook friends. Facebook may use this information for purposes of advertising, market research and personalised design of Facebook pages. For this purpose, Facebook creates profiles regarding usage, interests and relationships, e.g. to evaluate your use of our website with regard to the advertisements displayed to you on Facebook, to inform other Facebook users about your activities on our website and to provide further related services with the use of Facebook. If you do not want Facebook to allocate the collected data via our website to your Facebook account, you must log out of Facebook before you visit our website. To find out more about the purpose and extent to which Facebook collects, processes and uses these data, your rights and the settings available to protect your privacy, please read the Facebook privacy policy. 
+
+### 3\. Direct Marketing
+
+3.1 You consent to DEALS.COM.AU Using and/or Disclosing any Personal Information Collected from you for Direct Marketing purposes, whether Collected via telephone, the Website, or otherwise, but subject to the terms of this Privacy Policy.
+
+3.2 Unless otherwise provided in this Privacy Policy and in accordance with the Privacy Act and the Spam Act, DEALS.COM.AU retains the right to Use and Disclose your Personal Information for Direct Marketing purposes:
+
+      (a) that has been Collected from you in circumstances where:
+
+      (i) you have provided consent to do so; or 
+
+      (ii) it is within your Reasonable Expectations; or 
+
+      (iii) where it is impracticable to obtain your consent; 
+
+      (b) that has been Collected from any third party in circumstances where:
+
+      (i) you have provided consent to do so; or 
+
+      (ii) it is impracticable to obtain your consent. 
+
+3.3 In each Direct Marketing communication, we will include a: 
+
+      (a) prominent statement appearing on the relevant piece of marketing material notifying you of your right to Opt Out from further Direct Marketing; and 
+
+      (b) simple means for you to Opt Out of receiving further Direct Marketing communications of that kind. 
+
+3.4 Should you Opt Out, we will stop Using and/or Disclosing your Personal Information for Direct Marketing purposes.
+
+3.5DEALS.COM.AU will not Use your Sensitive Information for Direct Marketing purposes. 
+
+### 4\. ENSURING INFORMATION IS ACCURATE AND UP-TO-DATE
+
+      (a) let us know if there are any errors in your Personal Information; and 
+
+      (b) keep us up-to-date with changes to your Personal Information such as your name or address. You may change your personal details by using the relevant facility on our Website or by contacting DEALS.COM.AU care of the contact details described in Point 12. 
+
+### 5\. HOW WE PROTECT YOUR INFORMATION
+
+5.1 DEALS.COM.AU will take reasonable steps to protect the Personal Information from misuse, interference, loss and unauthorised access or disclosure. This may include taking reasonable steps to destroy or permanently de-identify Personal Information once it is no longer needed for any purpose for which it may be Used or Disclosed in accordance with Australian Privacy Principal 11.2, subject to the exceptions contained therein. 
+
+5.2 DEALS.COM.AU will not attempt to match de-identified or anonymous data Collected through surveys or such online devices as "cookies", with information identifying an individual, without the consent of the relevant individual.
+
+5.3 DEALS.COM.AU requires employees and contractors to perform their duties in a manner that is consistent with DEALS.COM.AU’s legal responsibilities in relation to privacy, including those in this Privacy Policy.
+
+5.4 DEALS.COM.AU will take reasonable steps to ensure that Personal Information is only accessible by people who have a genuine "need to know" as well as "right to know." 
+
+### 6\. HOW YOU CAN ACCESS OR CORRECT YOUR INFORMATION
+
+6.1 DEALS.COM.AU will permit its records containing your Personal Information to be accessed by you when required by the Privacy Act. We may, however, refuse to provide you with access to your Personal Information if one or more of those matters contained in Australian Privacy Principle 12.3 - Access to Personal Information – applies, including but not limited to instances in which:
+
+      (a) we reasonably believe that giving you access to your Personal Information would pose a serious threat to the life or to the health and safety of any individual (including you);
+
+      (b) giving access to the information would have an unreasonable impact on the privacy of any other individual; 
+
+      (c) your request for access is frivolous or vexatious or giving such access will be unlawful 
+
+6.2 If DEALS.COM.AU is satisfied that:
+
+      (a) having regard to the purpose for which the information is held, the information is inaccurate, out of date, incomplete or irrelevant or misleading; or 
+
+      (b) you (as the person to whom the Personal Information relates) request that we correct the information; 
+
+we will take reasonable steps to correct our records containing your Personal Information as soon as practically possible in accordance with the Privacy Act. 
+
+6.3 If we have refused to grant you access to your Personal Information in accordance with Point 6.1 above, we will still take all reasonable steps to provide you with access to your Personal Information in a way that meets both your needs and our needs. 
+
+6.4 If you: 
+
+      (a) wish to lodge a request to access and/or correct your Personal Information; or
+
+      (b) have been refused access to your Personal Information by us for any reason described in this Policy and you wish to challenge that refusal;
+
+you may do so by contacting DEALS.COM.AU’s Chief Operating Officer as per the details in in Point 12.
+
+6.5 DEALS.COM.AU will not normally charge a fee for processing an access request unless the request is complex or is resource intensive. DEALS.COM.AU does, however, reserve the right to charge an administration fee if an individual requests access to their Personal Information more than once in a three month period.
+
+6.6 Where DEALS.COM.AU offers online account management facilities, customers can use this capability to control aspects of their account, including amending or updating certain Personal Information.
+
+### 7\. OPENNESS
+
+7.1 DEALS.COM.AU's Chief Operating Officer will be the first point of contact for inquiries about privacy issues. If you wish to make an inquiry or complaint regarding privacy you should do so by contacting this office as per the details in Point 12. 
+
+7.2 You will find that DEALS.COM.AU Website contains a prominently displayed privacy statement and will include a copy of this Privacy Policy.
+
+### 8\. STAYING ANONYMOUS
+
+8.1 DEALS.COM.AU will not make it mandatory for visitors to its Website to provide Personal Information unless such Personal Information is required to answer an inquiry or provide a service. DEALS.COM.AU may however request visitors to provide Personal Information voluntarily to DEALS.COM.AU (for example, as part of a competition or questionnaire).
+
+8.2 DEALS.COM.AU will allow its customers to transact with it anonymously or by using a pseudonym wherever that is reasonable and practicable.
+
+### 9\. TRANSFERRING INFORMATION OVERSEAS
+
+9.1 If we send Personal Information overseas, DEALS.COM.AU will take steps which are both reasonable and practicable to ensure that the overseas recipient handles such information in accordance with the Privacy Act. 
+
+9.2 DEALS.COM.AU may disclose Personal Information to an overseas recipient without complying with 9.1 if: 
+
+      (a) you are Expressly Informed of the intended disclosure of your Personal Information to the overseas recipient, and you provide consent accordingly; or
+
+      (b) we reasonably believe that the overseas recipient is subject to a law or a binding scheme that has the effect of protecting the information in a way that, overall, is at least substantially similar to the way in which the Privacy Act seeks to protect same and you can access mechanisms to enforce the protection of your Personal Information under that law or that scheme; or 
+
+      (c) the Disclosure is required or authorised by an Australian court or tribunal or under Australian law.
+
+### 10\. CHANGES TO THE PRIVACY POLICY
+
+DEALS.COM.AU may, in its sole discretion, update this Privacy Policy at any time and from time to time. Any changes will be effective when posted on the Website. Your continued use of the Website will indicate your acceptance of any changes to the Privacy Policy. All Personal Information, Collected both before and after any changes take effect, will be subject to the terms of the revised policy (for which you will be taken to have provided consent) unless you indicate otherwise by contacting DEALS.COM.AU’s Chief Operating Officer as per the details in in Point 12. We urge you to refer back to this page regularly and especially prior to providing us with any Personal Information. 
+
+### 11\. GLOSSARY
+
+"Collect" means gather, acquire or obtain by a lawful and fair means, information in circumstances where the individual is identifiable or identified. 
+
+"Direct Marketing" involves the Use and/ or Disclosure of Personal Information to communicate directly with an individual to promote goods or services through written, verbal or electronic means of communication. The goods or services which are marketed may be those of DEALS.COM.AU or a Related Body Corporate or those of an independent third party organisation.
+
+"Disclosure" generally means the release of information outside DEALS.COM.AU, including under a contract to carry out an "outsourced function."
+
+"Express Consent Consequences" includes the fact that that we will not be accountable under the Privacy Act and you will not be able to seek redress under the Privacy Act in the event that you provide consent to the disclosure of your Personal Information by us to an overseas recipient and the overseas recipient handles your Personal information in breach of the Privacy Act. 
+
+"Expressly Informed" means the circumstance where we have provided you with a clear statement (either verbal or in writing) of the Express Consent Consequences. 
+
+"Opt Out" means an individual's expressed request not to receive further Direct Marketing communications.
+
+"Personal Information" means information that is not Sensitive Information, including information or an opinion (whether information or an opinion forming part of a database), whether true or not and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained from the information or opinion. This includes, but is not limited to, an individual’s name, address, telephone number and email address.
+
+"Primary Purpose" is the main reason for the Collection of any Personal Information.
+
+"Reasonable Expectation" means a reasonable individual's expectation that their personal information might be Used or Disclosed for the relevant purpose.
+
+"Related Body Corporate" is given its meaning in the Corporations Act 2001 (Cth).
+
+"Secondary Purpose" means a purpose of Use or Disclosure other than a Primary Purpose.
+
+"Sensitive Information" is given its meaning in section 6(1) of the Privacy Act 1988 (Cth). 
+
+"Use" means the handling of Personal Information within DEALS.COM.AU.
+
+"Website" means the website of DEALS.COM.AU and related webpages.
+
+### 12\. CONTACTING DEALS.COM.AU
+
+If you have any questions about this privacy policy, any privacy related dealings with us or a possible breach of your privacy or would like further information about our information management practices, you can contact the Chief Operating Officer of DEALS.COM.AU, care of the following details:
+
+Chief Operating Officer  
 DEALS.com.au  
 Level 1  
 259 Coventry Street  
-South Melbourne, VIC 3205
+South Melbourne, VIC 3205  
+Email: [support@deals.com.au](mailto:support@deals.com.au)
+
+This policy was last updated on 12 March 2014. 
