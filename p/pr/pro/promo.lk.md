@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promo.lk privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229060714id_/http%3A//promo.lk/index.php/welcome/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promo.lk privacy policy that was archived on 2014-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140312073106id_/http%3A//promo.lk/index.php/welcome/privacy_policy) for the most accurate reproduction.*
 
 # Promo.lk
 
