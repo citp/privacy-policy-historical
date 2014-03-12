@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutsandboltsmedia.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126141724id_/http%3A//www.nutsandboltsmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutsandboltsmedia.com privacy policy that was archived on 2014-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140313001954id_/http%3A//www.nutsandboltsmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Nuts and Bolts Media
 
