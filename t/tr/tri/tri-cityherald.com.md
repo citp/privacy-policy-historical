@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tri-cityherald.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526111701id_/http%3A//www.tri-cityherald.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tri-cityherald.com privacy policy that was archived on 2014-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140312012545id_/http%3A//www.tri-cityherald.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # Tri-CityHerald.com Kennewick, WA
 
