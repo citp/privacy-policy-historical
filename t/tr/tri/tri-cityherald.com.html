@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the tri-cityherald.com privacy policy that was archived on 2013-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130526111701id_/http%3A//www.tri-cityherald.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tri-cityherald.com privacy policy that was archived on 2014-03-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140312012545id_/http%3A//www.tri-cityherald.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><head>
+
+    
 <title>Tri-CityHerald.com Kennewick, WA</title>
 
 
@@ -21,9 +23,24 @@
    
    // ----- end gomez -----
 //--> 
-</script><script async="" src="https://D3FD89.r.axf8.net/mr/e.gif?info=%7Bn%3Ac%7Ca%3AD3FD89%7Ch%3A2%7Cc%3A271030675202598%7Ci%3A%7Cj%3A%7Cd%3A1%7Ce%3ATri-City%7Cb%3Astatic%7Cl%3Ahttps%24*%24%2F%2Fweb.archive.org%2Fweb%2F20130526111701id_%2Fhttp%3A%2F%2Fwww.tri-cityherald.com%2Fprivacy_policy%2F%7Cm%3A800%7Co%3A600%7Cp%3ALinux%20x86_64%7Cg%3AChrome%7Cf%3A69.0.3494.0%7D%7Bn%3Au%7Ce%3A1%7D&amp;a=D3FD89&amp;r=1&amp;s=1" type="text/javascript"></script>
+</script><script async="" src="https://D3FD89.r.axf8.net/mr/e.gif?info=%7Bn%3Ac%7Ca%3AD3FD89%7Ch%3A2%7Cc%3A31463417454109%7Ci%3A%7Cj%3A%7Cd%3A1%7Ce%3ATri-City%7Cb%3Astatic%7Cl%3Ahttps%24*%24%2F%2Fweb.archive.org%2Fweb%2F20140312012545id_%2Fhttp%3A%2F%2Fwww.tri-cityherald.com%2Fprivacy_policy%2F%7Cm%3A800%7Co%3A600%7Cp%3ALinux%20x86_64%7Cg%3AChrome%7Cf%3A69.0.3494.0%7D%7Bn%3Au%7Ce%3A1%7D&amp;a=D3FD89&amp;r=1&amp;s=1" type="text/javascript"></script>
 
-<link href="/mistatic/cache/stylesheets/5d23beb240e904f763bdacc5582f134e-min.css" media="screen" rel="stylesheet" type="text/css">
+
+
+<link rel="apple-touch-icon" href="http://media.tri-cityherald.com/mistatic/images/icons/TriCityHerald.png">
+
+<style type="text/css">
+@font-face {
+    font-family: 'roboto_condensedregular';
+    src: url('/mistatic/fonts/Roboto_Condensed/RobotoCondensed-Regular-webfont.eot');
+    src: url('/mistatic/fonts/Roboto_Condensed/RobotoCondensed-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/mistatic/fonts/Roboto_Condensed/RobotoCondensed-Regular-webfont.woff') format('woff'),
+         url('/mistatic/fonts/Roboto_Condensed/RobotoCondensed-Regular-webfont.ttf') format('truetype'),
+         url('/mistatic/fonts/Roboto_Condensed/RobotoCondensed-Regular-webfont.svg#roboto_condensedregular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+</style><link href="/mistatic/cache/stylesheets/ea1cd6caa62ac5d659a23b2b9e5983c4-min.css" media="screen" rel="stylesheet" type="text/css">
 
 <link href="http://media.tri-cityherald.com/mistatic/stylesheets/print.css" media="print" rel="stylesheet" type="text/css">
 
@@ -74,6 +91,24 @@
 	*/
 	miAppControler.prototype.paywall = 1;
 
+        /* Yahoo CTXT ads
+         0 = disable
+         1 = enable for preview & live
+         2 = enable for preview only
+        */
+
+        miAppControler.prototype.yahooctxt = 0;
+
+        /* Google AdSense ads
+         0 = disable
+         1 = enable for preview and live
+         2 = enable for preview only
+         3 = present on preview and live with display hidden
+        */
+
+        miAppControler.prototype.googleadsense = 1;
+
+
 
 
         var pageInfo = {'version':1.0};
@@ -89,60 +124,88 @@
 
 <script type="text/javascript">
 var auth_cookie_name = "tricityherald_user_auth";
-</script><script type="text/javascript" src="/mistatic/cache/javascripts/ccc1056db32079cd3b64c6700ac11daf-min.js"></script>
+</script><script type="text/javascript" src="/mistatic/cache/javascripts/fd36d86d33be61f33263ef2d32259c71-min.js"></script>
+
 
 
 <script type="text/javascript" src="http://media.tri-cityherald.com/mistats/mianalytics.js"></script>
 
-<script type="text/javascript" src="http://media.tri-cityherald.com/static/scripts/sectionfront.js"></script>
+<script type="text/javascript">
+/**
+ * @fileOverview
+ * This is the configuration file for the affiliate. Making changes to this file could result in
+ * breaking your search. If you have any questions please submit a ticket via the Support Portal.
+ *
+ * When hyphens (-) are used in URL query params, the string "_mihyphen_" is used in place of an
+ * actual hyphen (-) in the object property names below. Hyphens can't be used in object property
+ * names.
+ *
+ *
+ *
+ * @minify true
+ * @author Jamison Kirk (jkirk [at] mcclatchyinteractive.com)
+ */
+
+
+mi.Search.prototype.searchParamConfig = function(search_type, search_text) {
+
+        this.setConf("searchSelectorType","");
+        this.setConf("defaultSearchType","site_search");
+
+        this.setConf("mi_search_dropdown_keys",$("form#search_widget_form div.arrow, form#search_widget_form ul, form#search_widget_form div.icon, form#search_widget_form input#search_keywords"));
+        this.setConf("mi_search_drop_down",$("form#search_widget_form ul"));
+        this.setConf("mi_search_drop_down_link",$("form#search_widget_form ul.search_widget_choice li a"));
+        this.setConf("mi_search_dropdown_input",$("#search_keywords"));
+        this.setConf("mi_search_widget_icon",$("#search_widget_form div.icon img"));
+        this.setConf("mi_search_selected",$("#search_widget_choice li"));
+
+        this.setConf("mi_search_drop_down_web_search_item",$("#search_widget_web_search_choice"));
+        this.setConf("yahoo_credit",$("p.yahoo_credit"));
+        
+
+        if (search_type) {
+                switch (search_type) {
+                        case "site_search":
+                                this.setConf("form_action","http://www.tri-cityherald.com/search_results");
+                        break;
+                        
+                        case "web_search":
+                                this.setConf("form_action","http://www.tri-cityherald.com/web_search");
+                        break;
+                        
+                        case "archives":
+                                this.setConf("form_action","http://www.newslibrary.com/nlsearch.asp?");
+                                this.setConf("query_fields",{search_mode:"all",
+                                                                date_mode:"year",
+                                                                year:"last+180+days",
+                                                                sort:"d%3Ah",
+                                                                nitems:"10",
+                                                                region:"tchb",
+                                                                dbquery:search_text,
+                                                                collection:"ARCHIVES"}
+                                                );
+                        break;
+                        
+                        default:
+                                this.configErrorReporter();
+                }
+        }
+};
+</script>
+
 <script type="text/javascript">
     if (typeof(mi.Search) !== 'undefined') {
         mi.search = new mi.Search();
     }
 </script>
 
-<script type="text/javascript">
-    mi.commenting = new mi.Commenting();
-    
-    mi.commenting.setConf( "accountName", "tricityherald" );
-    
-    
-    var disqus2012cookie = new mi.Cookie(document, 'disqus2012');
-    if(disqus2012cookie.load()){
-            mi.commenting.reset_disqus_config(disqus2012cookie.disqus2012, '1i5FkqMD7y16QPLgKu9m9sfp74FwqrMuUj9ApgoSdMHetzO6vK5CLS4K6EKEON5c');
-    }
-    
-    
-    
-</script>
-
-<!--[if lte IE 7]>
-<script type="text/javascript">
-$(document).ready(function() {
-    // Dynamic padding for navigation
-    var parent_container = $('nav.primary div');
-    var target_elements = $('nav.primary div a');
-    var remainder_element = $('nav.primary div ul#analytics_based li:first-child a');
-    var border_size = (target_elements.length * 2 + 1);
-    padding(parent_container, target_elements, remainder_element, border_size, false);
-
-    // Dynamic padding for sub-navigation
-    var parent_container = $('#sub_nav');
-    var target_elements = $('#sub_nav > ul li a');
-    var remainder_element = $('#sub_nav > ul li:first-child a');
-    var border_size = (target_elements.length * 2 + 1);
-    padding(parent_container, target_elements, remainder_element, border_size, false);
-});
-</script>
-<![endif]-->
-
-
-
-	<script type="text/javascript">
-	$(document).ready(function() {
-		$("#commentCount").hide();
-	});
-	</script>
+        <script type="text/javascript">
+            mi.commenting = new mi.Commenting();
+            mi.commenting.setConf( {
+                accountName: "TriCityHerald",
+                fbapp_id:    "388529801273928"
+            });
+        </script>
 
 
 <script type="text/javascript">
@@ -170,32 +233,32 @@ $(document).ready(function() {
     googletag.pubads().setTargeting("pl", "misc");
     googletag.pubads().setTargeting("sect", "Static");
 
+
     googletag.pubads().setTargeting("ref", gpt_ref);   });
 </script> 
-
 <script>
   googletag.cmd.push(function() {
-      googletag.defineSlot("/7675/TCY.site_tri-cityherald/Online/SiteInformation", [960,30], "div-gpt-ad-560477233980727-1")
+      googletag.defineSlot("/7675/TCY.site_tri-cityherald/Online/SiteInformation", [960,30], "div-gpt-ad-613881061485838-1")
         .setTargeting("pos", "1")
         .setTargeting("atf", "y")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/TCY.site_tri-cityherald/Online/SiteInformation", [150,25], "div-gpt-ad-560477233980727-2")
+      googletag.defineSlot("/7675/TCY.site_tri-cityherald/Online/SiteInformation", [150,25], "div-gpt-ad-613881061485838-2")
         .setTargeting("pos", "1")
         .setTargeting("atf", "y")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/TCY.site_tri-cityherald/Online/SiteInformation", [100,25], "div-gpt-ad-560477233980727-3")
+      googletag.defineSlot("/7675/TCY.site_tri-cityherald/Online/SiteInformation", [100,25], "div-gpt-ad-613881061485838-3")
         .setTargeting("pos", "1")
         .setTargeting("atf", "y")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/TCY.site_tri-cityherald/Online/SiteInformation", [300,250], "div-gpt-ad-560477233980727-4")
+      googletag.defineSlot("/7675/TCY.site_tri-cityherald/Online/SiteInformation", [300,250], "div-gpt-ad-613881061485838-4")
         .setTargeting("pos", "1")
         .setTargeting("atf", "y")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/TCY.site_tri-cityherald/Online/SiteInformation", [300,100], "div-gpt-ad-560477233980727-5")
+      googletag.defineSlot("/7675/TCY.site_tri-cityherald/Online/SiteInformation", [300,100], "div-gpt-ad-613881061485838-5")
         .setTargeting("pos", "1")
         .setTargeting("atf", "n")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/TCY.site_tri-cityherald/Online/SiteInformation", [300,250], "div-gpt-ad-560477233980727-6")
+      googletag.defineSlot("/7675/TCY.site_tri-cityherald/Online/SiteInformation", [300,250], "div-gpt-ad-613881061485838-6")
         .setTargeting("pos", "2")
         .setTargeting("atf", "n")
         .addService(googletag.pubads()); 
@@ -205,7 +268,6 @@ $(document).ready(function() {
     googletag.enableServices();
   });
 </script>
-
 <script language="JavaScript" type="text/javascript" src="http://media.tri-cityherald.com/misites/tch/tri-cityherald.js"></script><!-- site specific file already loaded -->
 <script language="JavaScript" type="text/javascript">
 <!--
@@ -234,18 +296,17 @@ mistats.channel='Privacy Policy';
 </script>
 
 
+
 </head>
 
 
 <body class="section" id="section_"><div class="sbb_wrap">
     <div class="top_ads">   
         <div class="ad">
-        <div class="advertisement dart_960x30" id="dart_960x30_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.tch00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=416170237931606?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.tch00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=416170237931606?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.tch00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=416170237931606?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-560477233980727-1">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-560477233980727-1'); });</script>
+        <div class="advertisement dart_960x30" id="dart_960x30_1"><div id="div-gpt-ad-613881061485838-1">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-613881061485838-1'); });</script>
 </div>        </div>
 </div>
-
     </div>
 </div>
 
@@ -261,7 +322,14 @@ mistats.channel='Privacy Policy';
             <li class="jobs"><a href="/jobs/#navlink=navbar">Jobs</a></li>
             <li class="cars"><a href="/cars/#navlink=navbar">Cars</a></li>
             <li class="homes"><a href="/homes/#navlink=navbar">Homes</a></li>
-            <li class="apartments"><a href="/apartments/#navlink=navbar">Apartments</a></li>            <li class="place_ad last"><a href="http://tricityherald.adperfect.com//#navlink=navbar">Place an ad</a></li>
+            <li class="apartments"><a href="/apartments/#navlink=navbar">Apartments</a></li>            <li class="place_ad last"><a href="http://tricityherald.adperfect.com/#navlink=navbar">Place an Ad</a>                        <ul class="place_ad_links">
+                            <li><a href="http://tricityherald.adperfect.com/#navlink=subnav">Classifieds</a></li>
+                            <li><a href="http://tricityherald.adperfect.com/?catid=3762#navlink=subnav">Jobs</a></li>
+                            <li><a href="http://tricityherald.adperfect.com/?catid=3801#navlink=subnav">Cars</a></li>
+                            <li><a href="http://tricityherald.adperfect.com/?catid=3732#navlink=subnav">Homes</a></li>
+                            <li><a href="http://tricityherald.adperfect.com/?catid=3742#navlink=subnav">Apartments</a></li>
+                            <li><a href="http://tricityherald.adperfect.com/#navlink=subnav">Other</a></li>
+                        </ul>            </li>
         </ul>
         
         <div id="weather">
@@ -269,18 +337,17 @@ mistats.channel='Privacy Policy';
             
 
             <div class="current">
-            <a href="/weather/"><img id="weather_icon" alt="Mostly cloudy" src="http://media.tri-cityherald.com/mistatic/images/weather/icons/38.png"></a>
+            <a href="/weather/"><img id="weather_icon" alt="Mostly sunny" src="http://media.tri-cityherald.com/mistatic/images/weather/icons/02.png"></a>
             </div>
             <div class="temp">
-                <div id="weather_curr_temp" class="current_temp">51°</div>
+                <div id="weather_curr_temp" class="current_temp">60°</div>
                 <div class="weather_alert"><a href="?">Alert!</a></div>
                 <div class="forecast">&nbsp;<a href="/weather/">Forecast</a></div>
             </div>
         </div><!-- #weather -->
             <div class="weather_sponsor" id="dart_150x25_weather_1">
-        <script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.tch00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=416170237931606?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.tch00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=416170237931606?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.tch00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=416170237931606?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-560477233980727-2">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-560477233980727-2'); });</script>
+        <div id="div-gpt-ad-613881061485838-2">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-613881061485838-2'); });</script>
 </div>
             </div>
     </div><!-- end mast_top -->
@@ -297,9 +364,9 @@ mistats.channel='Privacy Policy';
         
         <div id="nonmember" class="signin">
             <ul id="services_nav">
-                <li class="first"><a id="digital_subscriptions" href="/plus">Subscriptions</a></li>
-                <li><a href="/report_news/">Report News</a></li>
-                <li class="last"><a href="/customer-service/">Customer Service</a></li>
+                <li class="first"><a id="digital_subscriptions" href="/plus/#navlink=navbar">Subscriptions</a></li>
+                <li><a href="/report_news/#navlink=navbar">Report News</a></li>
+                <li class="last"><a href="/customer-service/#navlink=navbar">Customer Service</a></li>
             </ul>
         </div>
                 
@@ -317,11 +384,6 @@ mistats.channel='Privacy Policy';
                         </a>
                     </li>
                     
-                    <li id="search_widget_web_search_choice" style="display: none;">
-                        <a id="web_search" href="#">
-                            <img src="http://media.tri-cityherald.com/mistatic/images/search/search_dropdown_yahoo_logo.png">Web Search
-                        </a>
-                    </li>
                     
                     <li>
                         <a id="archives" href="#">
@@ -331,7 +393,9 @@ mistats.channel='Privacy Policy';
                 </ul>
             <div class="clear"></div>
             </form>
-            <p class="yahoo_credit">Web Search powered by <b><span class="yahoo_text">YAHOO!</span> SEARCH</b></p>
+            
+            <p class="yahoo_credit">&nbsp;</p>
+            
             <script type="text/javascript">
                     if (typeof(mi.search) !== "undefined" || typeof(mi.search.setUp) !== "function") {
                         mi.search.setUp();
@@ -351,32 +415,311 @@ mistats.channel='Privacy Policy';
     </div>
     <div id="header_r3">
                 
-<div id="main_nav">
-    <ul>
+<div id="main_nav_container">
+    <ul id="main_nav">
         <li id="nav_ad">
-        <script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.tch00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=416170237931606?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.tch00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=416170237931606?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.tch00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=416170237931606?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-560477233980727-3">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-560477233980727-3'); });</script>
+        <div id="div-gpt-ad-613881061485838-3">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-613881061485838-3'); });</script>
 </div>
         </li>
-        <li><a href="/#navlink=navbar" title="Home Page">Home</a></li>                <li><a href="/news/#navlink=navbar" title="News">News</a>
-                                            <ul class="subnav">
-                                                        <li><a href="/local-news/#navlink=subnav" title="">Local News</a></li>                                <li><a href="/crime-news/#navlink=subnav" title="">Crime</a></li>                                <li><a href="/education-news/#navlink=subnav" title="">Education</a></li>                                <li><a href="/hanford-news/#navlink=subnav" title="">Hanford</a></li>                                <li><a href="/northwest-news/#navlink=subnav" title="">Northwest</a></li>                                <li><a href="/nation-news/#navlink=subnav" title="">Nation</a></li>                                <li><a href="/world-news/#navlink=subnav" title="">World</a></li>                                <li><a href="/nation-politics-news/#navlink=subnav" title="">Politics</a></li>                                <li><a href="/election-news/#navlink=subnav" title="">Elections</a></li>                                <li><a href="/births/#navlink=subnav" title="">Births</a></li>                                <li><a href="/health/#navlink=subnav" title="">Health</a></li>                                <li><a href="/weird-news/#navlink=subnav" title="">Weird</a></li>                                <li><a href="/local-photos/#navlink=subnav" title="">Photos</a></li>                                <li><a href="/weather/#navlink=subnav" title="">Weather</a></li>                                <li><a href="/local-videos/#navlink=subnav" title="">Videos</a></li>                                <li><a href="/food-wine/#navlink=subnav" title="">Food &amp; Wine</a></li>                        </ul>                </li>                <li><a href="/sports/#navlink=navbar" title="Sports">Sports</a>
-                                            <ul class="subnav">
-                                                        <li><a href="/mid-columbia-sports/#navlink=subnav" title="">Local Sports</a></li>                                <li><a href="/high-school-sports/#navlink=subnav" title="">Preps</a></li>                                <li><a href="/tri-city-americans/#navlink=subnav" title="">Tri-City Americans</a></li>                                <li><a href="/tri-city-dust-devils/#navlink=subnav" title="">Tri-City Dust Devils</a></li>                                <li><a href="/tri-cities-fever/#navlink=subnav" title="">Tri-Cities Fever</a></li>                                <li><a href="/hydros-racing/#navlink=subnav" title="">Hydros</a></li>                                <li><a href="/sports-photos/#navlink=subnav" title="">Photos</a></li>                                <li><a href="/outdoors/#navlink=subnav" title="">Outdoors</a></li>                                <li><a href="/blogs/#navlink=subnav" title="">Blogs</a></li>                                <li><a href="/college-sports/#navlink=subnav" title="">College</a></li>                                <li><a href="/nfl-pro-football/#navlink=subnav" title="">NFL</a></li>                                <li><a href="/mlb-pro-baseball/#navlink=subnav" title="">MLB</a></li>                                <li><a href="/nba-pro-basketball/#navlink=subnav" title="">NBA</a></li>                                <li><a href="/nhl-pro-hockey/#navlink=subnav" title="">NHL</a></li>                                <li><a href="/mls-pro-soccer/#navlink=subnav" title="">MLS</a></li>                                <li><a href="/golf/#navlink=subnav" title="">Golf</a></li>                        </ul>                </li>                <li><a href="/business-news/#navlink=navbar" title="Business">Business</a>
-                                            <ul class="subnav">
-                                                        <li><a href="/business-news/#navlink=subnav" title="">Local</a></li>                                <li><a href="/business-beat/#navlink=subnav" title="">Business Beat</a></li>                                <li><a href="/public-records/#navlink=subnav" title="">Public Records</a></li>                                <li><a href="/national-business-news/#navlink=subnav" title="">National Business</a></li>                                <li><a href="/technology-news/#navlink=subnav" title="">Technology</a></li>                        </ul>                </li>                <li><a href="/entertainment/#navlink=navbar" title="Entertainment">Entertainment</a>
-                                            <ul class="subnav">
-                                                        <li><a href="/arts-entertainment/#navlink=subnav" title="">Local Arts</a></li>                                <li><a href="/national-entertainment-news/#navlink=subnav" title="">Celebrity</a></li>                                <li><a href="/weird-news/#navlink=subnav" title="">Weird</a></li>                                <li><a href="/mr-movie/#navlink=subnav" title="">Mr. Movie</a></li>                                <li><a href="/tattoo-photos/#navlink=subnav" title="">Tattoo Photos</a></li>                                <li><a href="http://calendar.tri-cityherald.com/movies/#navlink=subnav" title="">Movie Times</a></li>                                <li><a href="/movie-news/#navlink=subnav" title="">Movie News</a></li>                                <li><a href="/music-news/#navlink=subnav" title="">Music News</a></li>                                <li><a href="http://calendar.tri-cityherald.com/#navlink=subnav" title="">Calendar</a></li>                                <li><a href="http://calendar.tri-cityherald.com/listings/#navlink=subnav" title="">Submit Event</a></li>                                <li><a href="/books/#navlink=subnav" title="">Books</a></li>                        </ul>                </li>                <li><a href="/opinion/#navlink=navbar" title="Opinion">Opinion</a>
-                                            <ul class="subnav">
-                                                        <li><a href="/letters-to-the-editor/#navlink=subnav" title="">Letters</a></li>                                <li><a href="/editorials/#navlink=subnav" title="">Editorials</a></li>                                <li><a href="/nation-opinions/#navlink=subnav" title="">National</a></li>                                <li><a href="/editorial-cartoons/#navlink=subnav" title="">Editorial Cartoons</a></li>                                <li><a href="/submit-a-letter-to-the-editor/#navlink=subnav" title="">Submit Letter</a></li>                                <li><a href="/blogs/#navlink=subnav" title="">Blogs</a></li>                        </ul>                </li>                <li><a href="/obits/#navlink=navbar" title="Obituaries">Obituaries</a>
-                                            <ul class="subnav">
-                                                        <li><a href="/death-notices/#navlink=subnav" title="">Death Notices</a></li>                                <li><a href="http://www.legacy.com/obituaries/tricityherald/#navlink=subnav" title="">Funeral Notices</a></li>                                <li><a href="/news-obituaries/#navlink=subnav" title="">National Deaths</a></li>                        </ul>                </li>                <li><a href="http://findnsave.tricityherald.com/#navlink=navbar" title="Local Deals">Local Deals</a>
-                                            <ul class="subnav">
-                                                        <li><a href="http://tricities.dealsaver.com/#navlink=subnav" title="">Today's Hot Deal</a></li>                                <li><a href="http://findnsave.tricityherald.com/Coupons#navlink=subnav" title="">Local Coupons</a></li>                                <li><a href="http://findnsave.tricityherald.com/PrintCoupons#navlink=subnav" title="">Grocery Coupons</a></li>                                <li><a href="http://findnsave.tricityherald.com/Circulars#navlink=subnav" title="">Store Circulars</a></li>                                <li><a href="http://findnsave.tricityherald.com/Local-Ads#navlink=subnav" title="">Local Ads</a></li>                        </ul>                </li>
+        <li id="home" class="main_nav_item"><a class="main_nav_link" href="/#navlink=navbar" title="Home Page">Home</a></li>                <li id="news" class="main_nav_item"><a class="main_nav_link" href="/news/#navlink=navbar" title="News">News</a>
+                                            <div class="mega_menu_container">
+                            <div class="container_12">
+                                <div class="subnav grid_4">
+                                    <ul class="subnav_row_one">
+                                                                                    <li><a href="/local-news/#navlink=subnav" title="">Local News</a></li>
+                                                                                                <li><a href="/crime-news/#navlink=subnav" title="">Crime</a></li>
+                                                                                                <li><a href="/education-news/#navlink=subnav" title="">Education</a></li>
+                                                                                                <li><a href="/hanford-news/#navlink=subnav" title="">Hanford</a></li>
+                                                                                                <li><a href="/northwest-news/#navlink=subnav" title="">Northwest</a></li>
+                                                                                                <li><a href="/nation-news/#navlink=subnav" title="">Nation</a></li>
+                                                                                                <li><a href="/world-news/#navlink=subnav" title="">World</a></li>
+                                                                                                <li><a href="/nation-politics-news/#navlink=subnav" title="">Politics</a></li>
+                                                                                                <li><a href="/election-news/#navlink=subnav" title="">Elections</a></li>
+                                                                                                <li><a href="/births/#navlink=subnav" title="">Births</a></li>
+                                                </ul><ul class="subnav_row_two">                                                <li><a href="/health/#navlink=subnav" title="">Health</a></li>
+                                                                                                <li><a href="/weird-news/#navlink=subnav" title="">Weird</a></li>
+                                                                                                <li><a href="/local-photos/#navlink=subnav" title="">Photos</a></li>
+                                                                                                <li><a href="/weather/#navlink=subnav" title="">Weather</a></li>
+                                                                                                <li><a href="/local-videos/#navlink=subnav" title="">Videos</a></li>
+                                                                                                <li><a href="/food-wine/#navlink=subnav" title="">Food &amp; Wine</a></li>
+                                                
+                                    </ul>
+                                </div>
+                                <div class="nav_recent_headlines grid_6">
+                                    
+                                    <h3>Recent Headlines</h3>
+                                    <ul>
+                                        
+                                                <li><a href="/2014/03/10/2869362/work-begins-on-new-badger-mountain.html#navlink=subnav">Work begins on new Badger Mountain trail</a></li>
+                                               
+                                                <li><a href="/2014/03/11/2870239/kennewick-man-injured-in-head.html#navlink=subnav">Kennewick man injured in head-on collision with semi</a></li>
+                                               
+                                                <li><a href="/2014/03/11/2869721/avalanche-hits-crystal-mountain.html#navlink=subnav">Avalanche hits Washington state resort chairlift</a></li>
+                                               
+                                                <li><a href="/2014/03/11/2870479/former-pasco-teacher-charged-with.html#navlink=subnav">Former Pasco teacher charged with molestation</a></li>
+                                                
+                    
+                                    </ul>
+                                    <a class="more_link" href="/news/#navlink=subnav">More News</a>
+                                    
+                                </div>
+                                <div class="nav_promo grid_2">
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>                </li>                <li id="sports" class="main_nav_item"><a class="main_nav_link" href="/sports/#navlink=navbar" title="Sports">Sports</a>
+                                            <div class="mega_menu_container">
+                            <div class="container_12">
+                                <div class="subnav grid_4">
+                                    <ul class="subnav_row_one">
+                                                                                    <li><a href="/mid-columbia-sports/#navlink=subnav" title="">Local Sports</a></li>
+                                                                                                <li><a href="/high-school-sports/#navlink=subnav" title="">Preps</a></li>
+                                                                                                <li><a href="/tri-city-americans/#navlink=subnav" title="">Tri-City Americans</a></li>
+                                                                                                <li><a href="/tri-city-dust-devils/#navlink=subnav" title="">Tri-City Dust Devils</a></li>
+                                                                                                <li><a href="/tri-cities-fever/#navlink=subnav" title="">Tri-Cities Fever</a></li>
+                                                                                                <li><a href="/hydros-racing/#navlink=subnav" title="">Hydros</a></li>
+                                                                                                <li><a href="/olympics/#navlink=subnav" title="">Winter Olympics</a></li>
+                                                                                                <li><a href="/sports-photos/#navlink=subnav" title="">Photos</a></li>
+                                                                                                <li><a href="/outdoors/#navlink=subnav" title="">Outdoors</a></li>
+                                                                                                <li><a href="/blogs/#navlink=subnav" title="">Blogs</a></li>
+                                                </ul><ul class="subnav_row_two">                                                <li><a href="/college-sports/#navlink=subnav" title="">College</a></li>
+                                                                                                <li><a href="/nfl-pro-football/#navlink=subnav" title="">NFL</a></li>
+                                                                                                <li><a href="/mlb-pro-baseball/#navlink=subnav" title="">MLB</a></li>
+                                                                                                <li><a href="/nba-pro-basketball/#navlink=subnav" title="">NBA</a></li>
+                                                                                                <li><a href="/nhl-pro-hockey/#navlink=subnav" title="">NHL</a></li>
+                                                                                                <li><a href="/mls-pro-soccer/#navlink=subnav" title="">MLS</a></li>
+                                                                                                <li><a href="/golf/#navlink=subnav" title="">Golf</a></li>
+                                                
+                                    </ul>
+                                </div>
+                                <div class="nav_recent_headlines grid_6">
+                                    
+                                    <h3>Recent Headlines</h3>
+                                    <ul>
+                                        
+                                                <li><a href="/2014/03/11/2870034/seattle-re-signs-te-anthony-mccoy.html#navlink=subnav">Seattle re-signs TE Anthony McCoy to 1-year deal</a></li>
+                                               
+                                                <li><a href="/2014/03/11/2869745/byu-and-gonzaga-meet-for-wcc-tournament.html#navlink=subnav">BYU and Gonzaga meet for WCC Tournament title</a></li>
+                                               
+                                                <li><a href="/2014/03/11/2870068/ducks-ready-to-defend-pac-12-tourney.html#navlink=subnav">Ducks ready to defend Pac-12 tourney title</a></li>
+                                               
+                                                <li><a href="/2014/03/10/2868646/no-18-gonzaga-women-reach-title.html#navlink=subnav">No. 18 Gonzaga women reach title game, 68-60</a></li>
+                                                
+                    
+                                    </ul>
+                                    <a class="more_link" href="/sports/#navlink=subnav">More Sports</a>
+                                    
+                                </div>
+                                <div class="nav_promo grid_2">
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>                </li>                <li id="business" class="main_nav_item"><a class="main_nav_link" href="/business-news/#navlink=navbar" title="Business">Business</a>
+                                            <div class="mega_menu_container">
+                            <div class="container_12">
+                                <div class="subnav grid_4">
+                                    <ul class="subnav_row_one">
+                                                                                    <li><a href="/business-news/#navlink=subnav" title="">Local</a></li>
+                                                                                                <li><a href="/business-beat/#navlink=subnav" title="">Business Beat</a></li>
+                                                                                                <li><a href="/public-records/#navlink=subnav" title="">Public Records</a></li>
+                                                                                                <li><a href="/national-business-news/#navlink=subnav" title="">National Business</a></li>
+                                                                                                <li><a href="/technology-news/#navlink=subnav" title="">Technology</a></li>
+                                                
+                                    </ul>
+                                </div>
+                                <div class="nav_recent_headlines grid_6">
+                                    
+                                    <h3>Recent Headlines</h3>
+                                    <ul>
+                                        
+                                                <li><a href="/2014/03/11/2869744/us-employers-posted-more-open.html#navlink=subnav">US employers posted more open jobs in January</a></li>
+                                               
+                                                <li><a href="/2014/03/11/2869542/more-choices-more-rides-bring.html#navlink=subnav">More choices, more rides bring transit renaissance</a></li>
+                                               
+                                                <li><a href="/2014/03/11/2869529/interpol-shows-image-of-2-iranians.html#navlink=subnav">2 airlines to check passports on Interpol database</a></li>
+                                               
+                                                <li><a href="/2014/03/11/2869538/california-mulls-how-to-regulate.html#navlink=subnav">California mulls how to regulate driverless cars</a></li>
+                                                
+                    
+                                    </ul>
+                                    <a class="more_link" href="/business-news/#navlink=subnav">More Business</a>
+                                    
+                                </div>
+                                <div class="nav_promo grid_2">
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>                </li>                <li id="entertainment" class="main_nav_item"><a class="main_nav_link" href="/entertainment/#navlink=navbar" title="Entertainment">Entertainment</a>
+                                            <div class="mega_menu_container">
+                            <div class="container_12">
+                                <div class="subnav grid_4">
+                                    <ul class="subnav_row_one">
+                                                                                    <li><a href="/arts-entertainment/#navlink=subnav" title="">Local Arts</a></li>
+                                                                                                <li><a href="/national-entertainment-news/#navlink=subnav" title="">Celebrity</a></li>
+                                                                                                <li><a href="/weird-news/#navlink=subnav" title="">Weird</a></li>
+                                                                                                <li><a href="/mr-movie/#navlink=subnav" title="">Mr. Movie</a></li>
+                                                                                                <li><a href="/tattoo-photos/#navlink=subnav" title="">Tattoo Photos</a></li>
+                                                                                                <li><a href="http://calendar.tri-cityherald.com/movies/#navlink=subnav" title="">Movie Times</a></li>
+                                                                                                <li><a href="/movie-news/#navlink=subnav" title="">Movie News</a></li>
+                                                                                                <li><a href="/music-news/#navlink=subnav" title="">Music News</a></li>
+                                                                                                <li><a href="http://calendar.tri-cityherald.com/#navlink=subnav" title="">Calendar</a></li>
+                                                                                                <li><a href="http://calendar.tri-cityherald.com/listings/#navlink=subnav" title="">Submit Event</a></li>
+                                                </ul><ul class="subnav_row_two">                                                <li><a href="/books/#navlink=subnav" title="">Books</a></li>
+                                                                                                <li><a href="/contests/#navlink=subnav" title="">Contests</a></li>
+                                                
+                                    </ul>
+                                </div>
+                                <div class="nav_recent_headlines grid_6">
+                                    
+                                    <h3>Recent Headlines</h3>
+                                    <ul>
+                                        
+                                                <li><a href="/2014/03/11/2869910/mid-columbia-events-for-march.html#navlink=subnav">Mid-Columbia events for March 14-23</a></li>
+                                               
+                                                <li><a href="/2014/03/11/2870486/kennewick-high-grad-will-earl.html#navlink=subnav">Kennewick High grad Will Earl Spanheimer performs March 22 for Camerata Musical series</a></li>
+                                               
+                                                <li><a href="/2014/03/11/2862715/seether-to-perform-at-benton-franklin.html#navlink=subnav">Seether to perform at Benton Franklin fair</a></li>
+                                               
+                                                <li><a href="/2014/03/11/2869969/xbox-one-and-titanfall-a-killer.html#navlink=subnav">Xbox One and 'Titanfall' a killer combo</a></li>
+                                                
+                    
+                                    </ul>
+                                    <a class="more_link" href="/entertainment/#navlink=subnav">More Entertainment</a>
+                                    
+                                </div>
+                                <div class="nav_promo grid_2">
+                                    
+                                    
+                                    <h3><a href="http://www.tri-cityherald.com/mr-movie/#navlink=subnav">Mr. Movie reviews</a></h3>
+                                    <p><a href="http://www.tri-cityherald.com/mr-movie/#navlink=subnav"> Wondering what to go see at the movies? Check Mr. Movie's reviews. </a></p>
+                                        
+                                    <a href="http://www.tri-cityherald.com/mr-movie/#navlink=subnav"><img src="http://media.tri-cityherald.com/smedia/2014/03/09/07/57/r8s4R.AuHi.13.jpg"></a>
+                                    
+                                </div>
+                            </div>
+                        </div>                </li>                <li id="opinion" class="main_nav_item"><a class="main_nav_link" href="/opinion/#navlink=navbar" title="Opinion">Opinion</a>
+                                            <div class="mega_menu_container">
+                            <div class="container_12">
+                                <div class="subnav grid_4">
+                                    <ul class="subnav_row_one">
+                                                                                    <li><a href="/letters-to-the-editor/#navlink=subnav" title="">Letters</a></li>
+                                                                                                <li><a href="/editorials/#navlink=subnav" title="">Editorials</a></li>
+                                                                                                <li><a href="/nation-opinions/#navlink=subnav" title="">National</a></li>
+                                                                                                <li><a href="/editorial-cartoons/#navlink=subnav" title="">Editorial Cartoons</a></li>
+                                                                                                <li><a href="/submit-a-letter-to-the-editor/#navlink=subnav" title="">Submit Letter</a></li>
+                                                                                                <li><a href="/blogs/#navlink=subnav" title="">Blogs</a></li>
+                                                
+                                    </ul>
+                                </div>
+                                <div class="nav_recent_headlines grid_6">
+                                    
+                                    <h3>Recent Headlines</h3>
+                                    <ul>
+                                        
+                                                <li><a href="/2014/03/09/2864290/mcclatchy-cartoons-for-the-week.html#navlink=subnav">McClatchy cartoons for the week of 3/7/14</a></li>
+                                               
+                                                <li><a href="/2014/03/11/2870517/our-voice-homeless-children-reflect.html#navlink=subnav">Our Voice: Homeless children reflect problems we can solve</a></li>
+                                               
+                                                <li><a href="/2014/03/11/2870533/letter-name-game.html#navlink=subnav">Letter: Name game</a></li>
+                                               
+                                                <li><a href="/2014/03/11/2870532/letter-criticism-for-overly-critical.html#navlink=subnav">Letter: Criticism for overly critical letter writer</a></li>
+                                                
+                    
+                                    </ul>
+                                    <a class="more_link" href="/opinion/#navlink=subnav">More Opinion</a>
+                                    
+                                </div>
+                                <div class="nav_promo grid_2">
+                                    
+                                    
+                                    <h3><a href="http://www.tri-cityherald.com/submit-letter/#navlink=subnav">Share your views</a></h3>
+                                    <p><a href="http://www.tri-cityherald.com/submit-letter/#navlink=subnav"> Have your say: Write a letter to the editor. </a></p>
+                                        
+                                    <a href="http://www.tri-cityherald.com/submit-letter/#navlink=subnav"><img src=""></a>
+                                    
+                                </div>
+                            </div>
+                        </div>                </li>                <li id="obituaries" class="main_nav_item"><a class="main_nav_link" href="/obits/#navlink=navbar" title="Obituaries">Obituaries</a>
+                                    </li>        
+            <li id="local_deals" class="main_nav_item"><a class="main_nav_link" href="http://findnsave.tricityherald.com/#navlink=navbar" title="Local Deals">Local Deals</a>
+            
+                <div class="mega_menu_container">
+                    <div class="mega_menu">
+                        <div class="container_12">
+                            <div id="deals_nav_column" class="grid_4">
+                                <img src="/mistatic/images/findnsave-menu-logo.png" alt="FindnSave">
+                                <ul>
+                                
+                                        <li><a href="http://tricities.dealsaver.com/#navlink=subnav">Today's Hot Deal</a></li>
+                                    
+                                        <li><a href="http://findnsave.tricityherald.com/Coupons#navlink=subnav">Local Coupons</a></li>
+                                    
+                                        <li><a href="http://findnsave.tricityherald.com/PrintCoupons#navlink=subnav">Grocery Coupons</a></li>
+                                    
+                                        <li><a href="/circulars#navlink=subnav">Today's Circulars</a></li>
+                                    
+                                        <li><a href="http://findnsave.tricityherald.com/Local-Ads#navlink=subnav">Local Ads</a></li>
+                                    
+                                </ul>
+                            </div>
+                            
+                            <div id="circulars_nav_column" class="grid_4">
+                                     <div id="circularhub_module_1078"></div>
+                                    <script src="http://api.circularhub.com/1078/e1f668f52abe570b/circularhub_module.js"></script>
+                            </div>
+                            
+                            <div id="dealsaver_nav_column" class="grid_4">
+                                <script type="text/javascript">
+                                    if (typeof(mi.DealSaver) !== 'undefined') {
+                                        if ( typeof( mi.dealSaver ) == 'undefined' ) {
+                                            mi.dealSaver = new mi.DealSaver();
+                                            jQuery(document).ready(function(){
+                                                mi.dealSaver.executeDs();
+                                            });
+                                            
+                                            mi.dealSaver.setConf("LID",782);
+                                            
+                                        }
+                                    }
+                                </script>
+                                <div class="dsWidgetDisplay" style="display:none;">
+                                    <div class="revWidgetWrap">
+                                        <h2><a class="ds_dealtitle" href="#">Today's Deal</a></h2>
+                                        <div class="revWidgetContent">
+                                            <div class="dsDetails">
+                                                <h3 class="ds_deal_title">
+                                                    <a class="ds_title_link" href="#"></a>
+                                                </h3>
+                                                <div class="ds_deal_image">
+                                                    <a href=""><img></a>
+                                                </div>
+                                                <div class="ds_clearall"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            </li>
+        
     </ul>
 </div>
+<script type="text/javascript">
 
+$('#main_nav').hoverWithDelay(function() {
+    $(this).addClass('active');
+}, function() {
+    $(this).removeClass('active');
+}, 150);
+
+</script>
 
     </div>
 </header>
@@ -503,36 +846,30 @@ mistats.channel='Privacy Policy';
         <div id="sidebar" class="grid_4">
                 <div id="sidebar_r1">
         <div class="ad">
-        <div class="advertisement dart_300x250" id="dart_300x250_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.tch00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=416170237931606?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.tch00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=416170237931606?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.tch00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=416170237931606?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-560477233980727-4">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-560477233980727-4'); });</script>
+        <div class="advertisement dart_300x250" id="dart_300x250_1"><div id="div-gpt-ad-613881061485838-4">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-613881061485838-4'); });</script>
 </div>        </div>
 </div>
-
 </div>
 <div id="sidebar_r2">
 
 </div>
 <div id="sidebar_r3">
         <div class="ad">
-        <div class="advertisement dart_300x100" id="dart_300x100_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.tch00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=416170237931606?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.tch00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=416170237931606?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.tch00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=416170237931606?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-560477233980727-5">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-560477233980727-5'); });</script>
+        <div class="advertisement dart_300x100" id="dart_300x100_1"><div id="div-gpt-ad-613881061485838-5">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-613881061485838-5'); });</script>
 </div>        </div>
 </div>
-
 </div>
 <div id="sidebar_r4">
 
 </div>
 <div id="sidebar_r5">
         <div class="ad">
-        <div class="advertisement dart_300x250" id="dart_300x250_2"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.tch00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=416170237931606?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.tch00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=416170237931606?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.tch00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=416170237931606?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-560477233980727-6">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-560477233980727-6'); });</script>
+        <div class="advertisement dart_300x250" id="dart_300x250_2"><div id="div-gpt-ad-613881061485838-6">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-613881061485838-6'); });</script>
 </div>        </div>
 </div>
-
 </div>
 
 <div id="sidebar_r6">
@@ -552,6 +889,7 @@ mistats.channel='Privacy Policy';
 </div>
 
 <footer id="footer">
+
 
 <div id="page_footer">
     
@@ -625,6 +963,23 @@ mistats.channel='Privacy Policy';
 </div>
 <div class="clear"></div>
 
+	
+    
+	<div id="footer_shopping_links">	    <a id="shopping_bar_cb" class="footer_shopping_link" href="http://jobs.careerbuilder.com/Default.aspx?lr=cbmc_tch&amp;siteid=mc_tch#navlink=footer">
+		<img class="footer_shopping_img" src="/mistatic/images/footer/careerbuilder-footer-logo.png" alt="Kennewick Jobs">
+	    </a>	    <a id="shopping_bar_cars" class="footer_shopping_link" href="/cars#navlink=footer">
+		<img class="footer_shopping_img" src="/mistatic/images/footer/carscom-footer-logo.png" alt="Kennewick Cars for sale">
+	    </a>		    <a id="shopping_bar_homes" class="footer_shopping_link" href="/homes#navlink=footer">
+		<img class="footer_shopping_img" src="/mistatic/images/footer/homefinder-footer-logo.png" alt="Kennewick Real Estate">
+	    </a>		    <a id="shopping_bar_apts" class="footer_shopping_link" href="/apartments#navlink=footer">
+		<img class="footer_shopping_img" src="/mistatic/images/footer/apartmentscom-footer-logo.png" alt="Kennewick Rentals">
+	    </a>		    <a id="shopping_bar_ds" class="footer_shopping_link" href="http://tricities.dealsaver.com/#navlink=footer" target="_blank">
+		<img class="footer_shopping_img" src="/mistatic/images/footer/dealsaver-footer-logo.png" alt="Kennewick Deals">
+	    </a>		    <a id="shopping_bar_fns" class="footer_shopping_link" href="http://findnsave.tricityherald.com/#navlink=footer" target="_blank">
+		<img class="footer_shopping_img" src="/mistatic/images/footer/findnsave-footer-logo.png" alt="Kennewick Deals and Coupons">
+	    </a>	</div>
+    
+	
 	<div id="footer_text_links">
 		<p class="links">
 			
@@ -650,7 +1005,7 @@ mistats.channel='Privacy Policy';
     
     </div><!-- /#footer_partner_links -->
 
-    <div id="copyright">© 2013 www.tri-cityherald.com and wire service sources. All Rights Reserved.
+    <div id="copyright">© 2014 www.tri-cityherald.com and wire service sources. All Rights Reserved.
         <a href="http://www.tri-cityherald.com">http://www.tri-cityherald.com</a></div>
 
     <a href="/" class="logo" title="Tri-CityHerald.com">
