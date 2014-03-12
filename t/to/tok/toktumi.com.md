@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the toktumi.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624141039id_/http%3A//www.line2.com/home/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toktumi.com privacy policy that was archived on 2014-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140312062306id_/https%3A//www.line2.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Line2
-
-**Line2 Privacy Policy**
 
 This privacy policy explains how toktumi treats personally identifiable information that toktumi collects and receives. Personally identifiable information is information about our customers that can identify them, such as name, address, e-mail address or phone number.
 
@@ -10,24 +8,27 @@ This policy also applies to our use of what our industry calls “Customer Propr
 
 This policy does not apply to the practices of companies that toktumi does not own or control, or to people toktumi does not employ or manage. However, when toktumi uses companies, agents, contractors or other third parties to perform services on its behalf, toktumi requires that they protect CPNI and personally identifiable information consistent with this policy.
 
-**Accessing Private Information**  
+##### Accessing Private Information
+
 A central feature of toktumi’s product is its ability to integrate a user’s telephony and e-mail systems into a unified service. In order to accomplish this, toktumi’s software may access contact lists maintained by third-party products such as Microsoft Outlook. We do not use this information for any purpose other than to enable these features. We will never contact anyone in your address book, nor allow anyone inside or outside of toktumi to have access to this information.
 
 Other information we collect may be used to protect customers, employees and property against fraud, theft or abuse, to conduct surveys and to maintain good customer relations.
 
-**Information We Collect**  
+##### Information We Collect
+
 Toktumi collects personally identifiable information and CPNI when customers register with toktumi, when customers use toktumi products or services, when customers visit toktumi Web pages or the Web pages of certain toktumi partners and when customers choose to enter promotions or sweepstakes or participate in a survey.
 
 When a customer registers for a toktumi account, we require name, gender, address, contact number, e-mail address and a password.
 
 Customers may also provide information in response to surveys conducted by toktumi either online or offline. If this information is connected directly to your personally identifiable information, it is personally identifiable information under this policy. In addition, customers may provide toktumi with personal information when they interact with us. For example, customers may provide such information when requesting or using toktumi customer service.
 
-**Use of Information**
+#### Use of Information
 
-**Administrative Messages**  
+##### Administrative Messages
+
 toktumi uses personally identifiable information to create and maintain accounts, including the delivery of important administrative messages such as service announcements, privacy policy updates, terms of service updates, rate plan changes, balance notifications and account status notifications regarding that particular account (by e-mail, text message, call from customer service or any combination). Please note that when you do not opt in to marketing offers described herein, we will continue to send you this important account-related information.
 
-Information Sharing and Disclosure
+##### Information Sharing and Disclosure
 
   * We may share information with companies that work on behalf of toktumi to provide a product or service that has been requested. We share this information only when it is required to deliver the service in question, and any company working with toktumi to deliver such a service does not have a right to use the information we provide to them beyond what is necessary to assist us in delivering that product or service.
   * You may elect to participate in toktumi-sponsored contests, giveaways, sweepstakes or other promotions and product or service opportunities that toktumi may sponsor. If toktumi should use third parties to deliver these promotions, toktumi will share only the information required to allow them to do their job and will not allow the third party to use information for any other purposes without appropriate permission.
@@ -37,10 +38,12 @@ Information Sharing and Disclosure
 
 
 
-**Ability to Update or Delete Information**  
+##### Ability to Update or Delete Information
+
 Toktumi gives you the ability to update and delete personal information you have provided to us. Please note that any information that we have obtained may remain in backup storage for some period of time after a deletion request. This may be the case even though we will not use such information. Further, we retain call and other records consistent with legal requirements.
 
-**Personalization, Cookies, Web Beacons and Aggregate Data**  
+##### Personalization, Cookies, Web Beacons and Aggregate Data
+
 This section identifies how toktumi and third parties use Web technologies such as cookies and Web beacons, and identifies how your IP address may be seen or used as you use the toktumi service. These technologies are generally used to improve or personalize a service in some way so that it is easier to use.
 
 Cookies are small text files placed on a computer’s hard drive by a Web site when a customer visits that site. Cookies are used within the toktumi service as follows:
@@ -58,27 +61,27 @@ toktumi may also place Web beacons on its site in conjunction with cookies to mo
 
 
 
-IP addresses are used in the toktumi service as follows:
-
-  * An IP address allows information to be sent to and from a computer (or a phone or other device) on the Internet. IP addresses are often temporarily assigned. Temporarily assigned addresses are assigned to a user for a period of time so the user typically does not have the same address each time they use the service. If a user is using a permanent IP address (more common with servers than mobile, dial-up, DSL or cable Internet users), they will have the same address each time they use the service. Toktumi collects IP addresses when people access our Web site.
-
-
+IP addresses are used in the toktumi service as follows:  
+An IP address allows information to be sent to and from a computer (or a phone or other device) on the Internet. IP addresses are often temporarily assigned. Temporarily assigned addresses are assigned to a user for a period of time so the user typically does not have the same address each time they use the service. If a user is using a permanent IP address (more common with servers than mobile, dial-up, DSL or cable Internet users), they will have the same address each time they use the service. Toktumi collects IP addresses when people access our Web site.
 
 toktumi phones receive temporary IP addresses when they use data services. These addresses are reassigned after each data session. IP addresses from toktumi phones are hidden from third parties you visit. These third parties cannot collect toktumi IP addresses.
 
-**Customer Proprietary Network Information.**  
+##### Customer Proprietary Network Information
+
 Customers have a right, and toktumi has a duty, under the law to ensure the confidentiality of CPNI. toktumi may use customer CPNI to market additional communications and data products and services similar to the types currently purchased from us. Again subject to your permission, toktumi may contact you to market additional products and services we and our partners sell.
 
 toktumi also discloses customer CPNI as required by law (see “Information Sharing and Disclosure” above). And, to provide service, we may use and disclose CPNI to our agents and independent contractors, but we restrict their use and limit disclosure of CPNI for purposes of providing service or to market products and services as previously described. We will also prohibit the third party from further disclosing the CPNI except as required by law and will require the third party to implement safeguards to protect the confidentiality of the CPNI.
 
-**Confidentiality and Security**  
+##### Confidentiality and Security
+
 toktumi works to safeguard your personally identifiable information. toktumi limits access to personally identifiable information about our customers to employees who we believe reasonably need to use that information to provide products or services to our customers or in order to do their jobs.
 
-  * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about our customers.
-  * We use technologies to safeguard personal information including: 
-    * Secure Socket Layer (SSL) encryption
-    * Firewalls and intrusion detection systems
-    * Password protection of systems containing personally identifiable information.
+We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about our customers.  
+We use technologies to safeguard personal information including:
+
+  * Secure Socket Layer (SSL) encryption
+  * Firewalls and intrusion detection systems
+  * Password protection of systems containing personally identifiable information
 
 
 
@@ -92,12 +95,15 @@ As with any Web site, the security of information also depends on the safe compu
 
 
 
-**Changes to this Privacy Policy**  
+#### Changes to this Privacy Policy
+
 toktumi may update this policy from time to time if our practices change or if changes in the law require us to do so. We will notify customers about significant changes in the policy by sending a notice to the primary e-mail address specified in the toktumi account or by placing a prominent notice on our site.
 
-**Questions and Suggestions**  
-If you have questions or suggestions about this policy, you can contact us at: Toktumi, Inc., 230 California Street, Suite 500, San Francisco, CA 94111 [privacy@toktumi.com](mailto:privacy@toktumi.com)
+##### Questions and Suggestions
 
-Update/Effective Date:  
-This policy was last updated 02/15/2012  
-Copyright © 2012 toktumi Inc. All rights reserved.
+If you have questions or suggestions about this policy, you can contact us at: Toktumi, Inc., 230 California Street, Suite 500, San Francisco, CA 94111 support@toktumi.com
+
+##### Update/Effective Date:
+
+This policy was last updated 07/09/2013  
+Copyright © 2013 toktumi Inc. All rights reserved.
