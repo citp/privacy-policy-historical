@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bethecook.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815065331id_/http%3A//www.bethecook.com/s/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bethecook.com privacy policy that was archived on 2014-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140312040918id_/http%3A//www.bethecook.com/s/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - BeTheCook
 
