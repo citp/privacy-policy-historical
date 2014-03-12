@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eaglecreek.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107165903id_/http%3A//shop.eaglecreek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eaglecreek.com privacy policy that was archived on 2014-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140312080935id_/http%3A//shop.eaglecreek.com/privacy.html) for the most accurate reproduction.*
 
 # Eagle Creek Official Site
 
