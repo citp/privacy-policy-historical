@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bananahobby.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819193531id_/http%3A//www.bananahobby.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bananahobby.com privacy policy that was archived on 2014-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140312013922id_/http%3A//www.bananahobby.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Banana Hobby
 
@@ -64,7 +64,7 @@ As part of the California Online Privacy Protection Act, all users of our site m
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.bananahobby.com/terms_and_conditions.htm](https://web.archive.org/web/20130819193531id_/http%3A//www.bananahobby.com/terms_and_conditions.htm)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.bananahobby.com/terms_and_conditions.htm](https://web.archive.org/web/20140312013922id_/http%3A//www.bananahobby.com/terms_and_conditions.htm)
 
 **Your Consent**
 
