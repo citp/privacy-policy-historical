@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faceinhole.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106083151id_/http%3A//www.faceinhole.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faceinhole.com privacy policy that was archived on 2014-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140312052635id_/http%3A//www.faceinhole.com/us/privacy) for the most accurate reproduction.*
 
 # FACEinHOLE.com - Who do you want to be today?
 
