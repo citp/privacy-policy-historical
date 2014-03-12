@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crookedbrains.net privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114183854id_/http%3A//sites.google.com/site/crookedbrainsnet/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crookedbrains.net privacy policy that was archived on 2014-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140312063949id_/http%3A//sites.google.com/site/crookedbrainsnet/privacy-policy) for the most accurate reproduction.*
 
 # Privacy-Policy - crookedbrainsnet
 
