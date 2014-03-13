@@ -1,40 +1,43 @@
-> *The following text is extracted and transformed from the ketubanjiwa.com privacy policy that was archived on 2013-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131002055900id_/http%3A//www.ketubanjiwa.com/2013/01/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ketubanjiwa.com privacy policy that was archived on 2014-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140313050543id_/http%3A//www.ketubanjiwa.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Statement
 
-[](https://s3.amazonaws.com/com.alexa.toolbar/atbp/CfFN9O/download/index.htm)
+****PRIVACY STATEMENT** **
 
-**Privacy Policy for www.ketubanjiwa.com**
+By visiting or using any document or resouce contained on this website – hereafter to be read as “ **http://ketubanjiwa.com/** ” – you agree to be bound by the provisions of these Privacy & User Policies. If at any time you have questions or concerns regarding the information provided by this document, please forward all such discourse to **webmaster** **@ketubanjiwa.com** where the appropriate administrator will respond to you as quickly as possible. **ketubanjiwa.com** reserves the right to modify, add, or remove portions of these policies at any time; it is therefore in your best interest to review this document periodically.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@ketubanjiwa.com. 
+*** Information We Collect**
 
-At www.ketubanjiwa.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.ketubanjiwa.com and how it is used. 
+This website is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. This website collects information from our users at several different points on our website.
 
-**Log Files**  
-Like many other Web sites, www.ketubanjiwa.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+*** Cookies**
 
-**Cookies and Web Beacons**   
-www.ketubanjiwa.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+To enhance your online experience we use “cookies.” Cookies are text files we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. We use cookies to understand Internet usage and to improve our content, offerings, and advertisements. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site, allow you to download files, post comments).
 
-**DoubleClick DART Cookie**   
-.:: Google, as a third party vendor, uses cookies to serve ads on www.ketubanjiwa.com.  
-.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.ketubanjiwa.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+*** Collection of Information by Third-Party Sites and Sponsors**
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
-Google Adsense
+Some of our sites contain links to other sites whose information practices may be different than ours. You should consult the other sites’ privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.ketubanjiwa.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information ( **not including** your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-www.ketubanjiwa.com has no access to or control over these cookies that are used by third-party advertisers. 
+*** IP Adresses**
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.ketubanjiwa.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+We use IP addresses to analyze trends, administer the site, track user’s movement. IP addresses are not linked to personally identifiable information.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+*** Registration to our Forums**
 
-  
-[ ](https://www.facebook.com/groups/melonescomputer/ "Maone van Cobain") **Thanks to vist my blog,  ** **For Question or Request Please Joint to Our Group at :  [HERE](https://www.facebook.com/groups/melonescomputer/)** ** PESEdit.com 2014  Patch 0.2 Single Link and More Host Link : [ CLICK HERE ](http://www.ketubanjiwa.com/2013/09/pes-2014-peseditcom-patch-02-single.html) ** [](http://www.ketubanjiwa.com/2013/09/pes-2014-peseditcom-patch-02-single.html)
+In order to use our forums, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). It is optional for the user to provide demographic information (such as gender, location, preferences) so we can provide a more personalized experience on our site.
 
-**PES PATCH UPDATES AVAILABE DOWNLOAD**
+*** Contests and Surveys**
 
-[MORE PES PATCH UPDATES »](http://www.ketubanjiwa.com/search/label/PES%202013%20Patch)
+From time-to-time our site requests information from users via contests or surveys. Participation in these surverys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name), and demographic information (age, location). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+
+*** Newsletter**
+
+If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address.
+
+*** Indemnity**
+
+Although our staff is diligent in providing content that is appropriate to all ages and we screen – to the best of our ability – the content beyond all external links, ketubanjiwa.com cannot be held responsible for the privacy practices and/or age specificity of any other website we link to. By viewing ketubanjiwa.com you agree not to hold us liable for any damages that may occur by any means or for any reason to yourself or your property.
+
+**PES 2014 PESEdit.com Patch 4.0 Single Link+Torrent + More Link**   ** :  [CLICK HERE](http://www.ketubanjiwa.com/2014/03/pes-2014-pesedit-com-patch-4-0-single-link.html)**
