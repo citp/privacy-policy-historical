@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dominos.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016095427id_/http%3A//order.dominos.com/en/pages/content/content.jsp%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominos.com privacy policy that was archived on 2014-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140313072016id_/http%3A//order.dominos.com/en/pages/content/content.jsp%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Legal Privacy Policy - Domino's Pizza, Order Pizza Online for Delivery - Dominos.com
 
