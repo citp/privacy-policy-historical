@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaydar.eu.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917011002id_/http%3A//www.gaydar.net/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaydar.eu.com privacy policy that was archived on 2014-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140313060115id_/http%3A//www.gaydar.net/info/privacy.asp) for the most accurate reproduction.*
 
 # Gaydar - What you want, when you want it
 
@@ -70,4 +70,4 @@ This Privacy Policy is incorporated in and subject to the Site [Terms and Condit
 
 For banner advertising information contact [advertising@gaydar.net](mailto:advertising@gaydar.net)
 
-CPC Connect Limited is registered in England and Wales. Registration Number: 8449494. Registered Office: Fairfax House, 15 Fulwood Place, London, WC1V 6AY, United Kingdom 
+CPC Connect Limited is registered in England and Wales. Registration Number: 8449494. Registered Office: 26 Red Lion Square, London, WC1R 4AG, United Kingdom 
