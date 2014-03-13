@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onthegosports.com.au privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111071334id_/http%3A//www.onthegosports.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthegosports.com.au privacy policy that was archived on 2014-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140313113403id_/http%3A//www.onthegosports.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
 # OnTheGo® - Ideas that move people. Sports Wear | Sports Accessories | Custom Branded Gear
 
@@ -152,4 +152,4 @@ Please read current Terms of Trade - OnTheGo Group Pty Ltd. Available for downlo
 
 **14\. SECURITY POLICY  **
 
-When purchasing from OnTheGo Advertising your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology.128-bit SSL encryption is approximated to take at least one trillion years to break, and is the industry standard. If you have any questions regarding our security policy, please contact our customer support centre [**info@onthegosports.com.au**](https://web.archive.org/web/20131111071334id_/http%3A//www.onthegosports.com.au/info@onthegosports.com.au)
+When purchasing from OnTheGo Advertising your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology.128-bit SSL encryption is approximated to take at least one trillion years to break, and is the industry standard. If you have any questions regarding our security policy, please contact our customer support centre [**info@onthegosports.com.au**](https://web.archive.org/web/20140313113403id_/http%3A//www.onthegosports.com.au/info@onthegosports.com.au)
