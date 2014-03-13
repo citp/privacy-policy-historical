@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the planetside2.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017152330id_/http%3A//www.soe.com/sonyonline/privacy.vm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetside2.com privacy policy that was archived on 2014-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140313031555id_/http%3A//www.soe.com/privacy%3Flocale%3Den_US) for the most accurate reproduction.*
 
-# SOE - Privacy Policy
+# Sony Online Entertainment - Privacy Policy
 
 #### Your Privacy Rights
 
@@ -43,7 +43,7 @@ If you have any questions, complaints, or comments regarding this Privacy Policy
 
 We currently operate the web site located at [www.station.sony.com](http://www.station.com/), including all of its subsites (typically any web pages which end in station.sony.com, including the examples set out below) and all software, products, features, games and services made available, displayed, or offered by or through our web site or subsites (collectively, " **The Station** ").
 
-In addition, we own many other domain names (e.g. [www.soe.com](http://www.soe.com/), www.freerealms.com, and www.everquest.com) that may redirect you to the home page of The Station and/or content-specific "subsites" of The Station, and these subsites are also considered part of The Station for purposes of this Privacy Policy.
+In addition, we own many other domain names (e.g. [www.soe.com](http://www.soe.com/), [www.freerealms.com](http://www.freerealms.com/), and [www.everquest.com](http://www.everquest.com/)) that may redirect you to the home page of The Station and/or content-specific "subsites" of The Station, and these subsites are also considered part of The Station for purposes of this Privacy Policy.
 
 Examples of subsites include:
 
