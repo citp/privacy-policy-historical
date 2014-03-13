@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nexcomp.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229075213id_/http%3A//www.nexcomp.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexcomp.com privacy policy that was archived on 2014-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140313083315id_/http%3A//www.nexcomp.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Apple Macintosh Input Devices
 
