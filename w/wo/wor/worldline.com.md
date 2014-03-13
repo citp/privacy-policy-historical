@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldline.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205004314id_/http%3A//worldline.com/en/129/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldline.com privacy policy that was archived on 2014-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140313035832id_/http%3A//worldline.com/en/129/Privacy) for the most accurate reproduction.*
 
 # Worldline - Privacy
 
@@ -20,9 +20,9 @@ We have a global privacy statement for recruitment purposes. Before submitting y
 
 ## Choice/Opt-Out 
 
-At various times, our site may provide users with the opportunity to opt-out of receiving communications from us at the point where we request information about the user. To remove user information from our database so that you do not receive future communications you should send an e-mail to [info@worldline.com](mailto:info@worldline.com "info@worldline.com"). 
+At various times, our site may provide users with the opportunity to opt-out of receiving communications from us at the point where we request information about the user. To remove user information from our database so that you do not receive future communications you should send an e-mail to [infoWL@worldline.com](mailto:infoWL@worldline.com "infoWL@worldline.com"). 
 
 ## Contacting the website 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can email [info@worldline.com](mailto:info@worldline.com "info@worldline.com").   
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can email [infoWL@worldline.com](mailto:infoWL@worldline.com "infoWL@worldline.com").   
  
