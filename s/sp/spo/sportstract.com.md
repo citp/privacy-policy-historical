@@ -1,100 +1,65 @@
-> *The following text is extracted and transformed from the sportstract.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportstract.com privacy policy that was archived on 2014-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140313022308id_/http%3A//www.sportstract.com/%3Fpage_id%3D1232) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | Travel News, Guides and Tips
 
-**Go Daddy Respects Your Privacy**
+Privacy Policy We request you to review the policy from time to time because it is in our sole discretion that we may amend and/or append our policy at any time.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+WHAT PERSONAL INFORMATION DO WE COLLECT?
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Personal information may be collected in a number of ways when you visit our Site. We may collect certain information you voluntarily provide to us which may contain or may be tied to personal information. For example, we may collect information, such as your name, postal address, e-mail address, phone number, and other contact and demographic information such as age, gender, zipcode, health-related information, interests and preferences. We may collect this and other information when you create a profile, register for our newsletter(s), leave comments or post content, respond to surveys, participate in promotions or contact us by e mail or other means for any reason. We may supplement this information with information collected from other companies.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+We may also collect “aggregate” information, which is data we collect about the use of the Site or about a group or category of products, services or users, from which individual identities or other personal information has been removed. In other words, information about how you use a service may be collected and combined with information about how others use the same service. Aggregate data helps us understand trends and our users’ needs so that we can better consider new features or otherwise tailor our Site. This policy in no way restricts or limits our collection and use of aggregate information.
 
-**Information Collection and Use**
+When you visit the Site, some information is also automatically collected, such as your computer’s Internet Protocol (IP) address, your computer’s operating system, the browser type, the address of a referring website, and your activity on the Site. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Cookies and Clear Gifs (Web Beacons).
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We may also automatically collect certain information through the use of “cookies” or “clear gifs.” Cookies are small data files that are stored on a user’s hard drive at the request of a website to enable the site to recognize users who have previously visited them and retain certain information such as customer preferences and history. Clear gifs (also know as web bugs or web beacons) are small, invisible graphic images that may be used on the Site and in e-mails to collect certain information about your use of and activity with our Site and emails. If we combine cookies or clear gifs with or link them to any of the personally identifying information, we would treat this information as personal information.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Third Party Advertisements.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+We may also use third parties to serve ads on the Site. These third parties may collect information about your visits to this and other Web sites, your IP address, your ISP, the browser you use to visit our Site (but not your name, address, email address or telephone number). They do this using cookies, clear gifs or other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Site and the other sites tracked by these third parties. This policy does not apply to, and we are not responsible for, cookies or clear gifs in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Third Party Comment System. We use a third party online comment system called Disqus. Disqus is not acting as our agent. Disqus is a third party application that allows visitors to post comments on our site and connect those and other comments across multiple sites. When you post a comment on our site, Disqus will collect information about your visit to this and other Web sites, including information you post and your IP address. If you register with and use Disqus, Disqus may collect and use other information from and about you. This policy does not apply to, and we are not responsible for, Disqus’ collection or use of your information. HOW DO WE USE THE PERSONAL INFORMATION WE COLLECT?
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+In general, we use personal information we collect to process your requests or transactions, to provide you with information or services you request, to inform you about other information, events, promotions, products or services we think will be of interest to you, to facilitate your use of, and our administration and operation of, the Site and the choiceyoursecondcar services, and for the purpose for which the information was provided. For example, we may use the information we collect:
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+· to send you a welcoming e-mail and to contact you about your use of the Site and the choiceyoursecondcar services, such as for administrative purposes or to provide you with customer service;
 
-**Security**
+· to provide you with all of the services, features, and functionality included within the choiceyoursecondcarservices, to provide other services or information you request and to complete any transactions in connection therewith;
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+· to respond to your e-mails, submissions, comments, requests or complaints;
 
-**Updating Your Information**
+· to request feedback and to enable us to develop, customize and improve the Site and our publications, products and services;
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+· to personalize and improve Site content and features and your experience on the Site, such as providing ads, content or features to match your profile and interests;
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+· to contact you about our or a third party’s services, products, activities, special events or offers and for other marketing, informational, product development and promotional purposes (including, without limit, to notify promotion winners); and
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+· for the specific purpose for which the information was provided or collected.
 
-      iii.      You may call us at: (480) 505-8800
+Personal information provided online may be linked together or merged with other personal information so that we may better understand your needs and inform you about our products or services and those of our partners. In addition, if we receive information from third parties with whom we have business relationships, we may combine this information with the other personal information we maintain about you. In either case, this Policy governs this information.
 
-       iv.      You may fax us at: (480) 505-8844
+SHARING OF PERSONAL INFORMATION
 
-**Sending Emails**
+Except as described below, we do not share your personally identifying information with third parties for their own use without your consent. If you choose to let us share your personally identifiable information with third parties, we are not responsible for the actions of such third party companies, nor are we responsible for any additional information you provide directly to these or to any other third parties.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+You understand that when you use the choiceyoursecondcar services, certain information you post on publicly available portions of the Site may be shared with other users and posted on other portions of the Site, including without limitation your comments to articles, name, profile details, images, and messages to other users on the Site. Your use of the choiceyoursecondcar services constitutes your consent to share this information in such manner and all such sharing of information is done at your own risk. Please keep in mind that if you directly disclose personal information when posting comments or other information or content to the Site or through the choiceyoursecondcar service, this information may become publicly available and may be collected and used by others. We recommend that you be cautious in giving out personal information to others in public online forums.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+We may also share personal information with third party vendors, consultants and other service providers who are engaged by or working with us in connection with the operation of the Site and the choiceyoursecondcar services and who need access to such information to carry out their work for us.
 
-**Compliance with Laws and Law Enforcement**
+In addition, we may disclose personal information in the good faith belief that we are lawfully authorized or required to do so, or that doing so is reasonably necessary or appropriate to comply with the law or with legal process or authorities, respond to lawful requests, any claims, or to protect the rights, property or safety of womenhealth, our users, our employees or the public, including without limitation to protect womenhealth or our users from fraudulent, abusive, inappropriate or unlawful use of our Site or the choiceyoursecondcar services. Information about our users, including personal information, may also be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets, financing or acquisition, an insolvency, bankruptcy or receivership or in any other situation where personal information may be transferred as one of the business assets of choiceyoursecondcar.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+WHAT STEPS DO WE TAKE TO PROTECT PERSONAL INFORMATION ONLINE?
 
-**Third Party Service Providers**
+We have worked to put into place reasonable security measures in an effort to protect personal information while it is under our control. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable. You should also note that e-mail is not secure, and you should not send any confidential or sensitive information to us via an unsecured e-mail. To protect the confidentiality of personal information, you must keep any password used on the Site confidential and not disclose it to any other person. You are responsible for all uses of our Site by any person using your password. Please advise us immediately if you believe your password has been misused.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+WHAT CHOICES DO YOU HAVE REGARDING THE USE OF YOUR INFORMATION?
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+We will send you news, updates and information via e-mail. You may choose to not receive promotional communications at any time by notifying choiceyoursecondcar either through the opt-out link in the footer of every e-mail or by calling customer service at (800) 637-9382. Please note, however, that you may not “opt-out” of receiving service related communications such as account-related e-mails from choiceyoursecondcar.
 
-**Supplementation of Information**
+LINKS TO OTHER WEBSITES
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+Our Site contains links to other Web sites. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party’s privacy policy. We are not responsible for the content or privacy and security practices and policies of Web sites to which we link. Links from our Site to third parties or to other Web sites are provided for your convenience. We encourage you to learn about their privacy and security practices and policies before providing them with personal information. HOW CAN YOU CORRECT AND UPDATE YOUR PERSONAL INFORMATION OR OBTAIN ADDITIONAL INFORMATION?
 
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If you have any questions or comments about this Policy or the practices relating to this Site or the choiceyoursecondcar services, or you wish to request changes to your preferences relating to any personal information we have collected, please contact us at [admin@Sportstract.com](mailto:admin@Sportstract.com) This e-mail address is being protected from spambots. You need JavaScript enabled to view it This e-mail address is being protected from spambots. You need JavaScript enabled to view it and we will endeavor to respond to your inquiry or to correct, update or remove the personal information you have provided us as you indicate to the extent possible. You may also contact us by mail at the following address:
