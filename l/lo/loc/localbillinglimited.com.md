@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the localbillinglimited.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107214518id_/http%3A//localbillinglimited.com/localbilling_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localbillinglimited.com privacy policy that was archived on 2014-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140313053050id_/http%3A//localbillinglimited.com/localbilling_privacy_policy.php) for the most accurate reproduction.*
 
 # LocalBilling - LocalBilling Privacy Policy
 
-|  | [](https://web.archive.org/web/20131107214518id_/http%3A//localbillinglimited.com/billing_solutions01.php) | [](https://web.archive.org/web/20131107214518id_/http%3A//localbillinglimited.com/start.php) | [](https://web.archive.org/web/20131107214518id_/http%3A//localbillinglimited.com/stats_reporting.php) | [](https://web.archive.org/web/20131107214518id_/http%3A//localbillinglimited.com/payment.php) | [](https://web.archive.org/web/20131107214518id_/http%3A//localbillinglimited.com/affiliate_management.php) |   
+|  | [](https://web.archive.org/web/20140313053050id_/http%3A//localbillinglimited.com/billing_solutions01.php) | [](https://web.archive.org/web/20140313053050id_/http%3A//localbillinglimited.com/start.php) | [](https://web.archive.org/web/20140313053050id_/http%3A//localbillinglimited.com/stats_reporting.php) | [](https://web.archive.org/web/20140313053050id_/http%3A//localbillinglimited.com/payment.php) | [](https://web.archive.org/web/20140313053050id_/http%3A//localbillinglimited.com/affiliate_management.php) |   
 ---|---|---|---|---|---  
   
-| [Home](https://web.archive.org/web/20131107214518id_/http%3A//localbillinglimited.com/index.php) >>> Local Billing Privacy Policy  
+| [Home](https://web.archive.org/web/20140313053050id_/http%3A//localbillinglimited.com/index.php) >>> Local Billing Privacy Policy  
 ---  
   
 Summary
