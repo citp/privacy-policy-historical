@@ -1,81 +1,64 @@
-> *The following text is extracted and transformed from the tubefool.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014014653id_/http%3A//tubefool.com/live/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubefool.com privacy policy that was archived on 2014-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140314214307id_/http%3A//www.tubefoolnow.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy « Tube Fool
+# Tube Fool - Youtube Marketing, Traffic, & Software Tool
 
-**HOW WE PROTECT YOUR PRIVACY**
+This privacy policy sets out how TubeFoolNow.com uses and protects any information that you give when you use this website.
 
-This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
+TubeFoolNow.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-**MINORS**
+TubeFoolNow.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from June 25, 2011.
 
-We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information.
+**What we collect**
 
-**POLICY IS PART OF OUR TERMS AND CONDITIONS OF USE**
+We may collect the following information:
 
-Our privacy policy is part of, and subject to, our website’s terms and conditions of use. You may view these terms and conditions on our website.
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-**THE TYPE OF INFORMATION WE COLLECT FROM YOU**
 
-Like most places on the Internet, simply by visiting our website you automatically tell us certain information. This includes basic information such as your IP address, when you visited, the website from where you came prior to visiting us, the website where you go when you leave our website, your computer’s operating system, and the type of web browser that you are using. Our website automatically records this basic information about you.
 
-And like many other websites, we may use cookies. In plain English, this means information that our website’s server transfers to your computer. This information can be used to track your session on our website. Cookies may also be used to customize our website content for you as an individual. If you are using one of the common Internet web browsers, you can set up your browser to either let you know when you receive a cookie or to deny cookie access to your computer.
+**What we do with the information we gather**
 
-We may also collect any data that you provide us by posting it at our website or by e-mail. You can always choose not to provide us with information. However, if you do withhold information, we may deny you access to some or all of our website’s services and features.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emailsabout new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-**WHAT WE DO WITH YOUR INFORMATION**
 
-We use your information to operate our website’s business activities. For example, we may use this data to contact you about changes to our website, new services, or special offers, resolve disputes, troubleshoot issues, and enforce our website’s terms and conditions.
 
-As a general rule, we will not give your data to third parties without your permission. However, there are some important exceptions to this rule that are described in the following paragraphs.
+**Security**
 
-We may, in our sole discretion, provide information about you to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure,we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-Although we do not disclose individually identifiable information, we may disclose aggregate data about our website’s visitors to advertisers or other third parties for marketing and promotional purposes.
+**How we use cookies**
 
-From time to time, we may use third party suppliers to provide services on our website. If a supplier wants to collect information about you, you will be notified. However, you will never be required to give information to a third party supplier. We restrict the way third party suppliers can use your information. They are not allowed to sell or give your information to others.
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-**USER NAMES AND PASSWORDS**
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-Your access to parts of our website may be protected by a user name and a password. Do not give your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet.
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-**YOUR USE OF INFORMATION AND UNSOLICITED JUNK E-MAIL**
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-If you obtain personally identifiable information about another website user, you are not allowed to disclose this information to anyone else without the consent of the user and our consent too.
+**Links to other websites**
 
-We hate junk e-mail (Spam). Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial e-mail or to send unsolicited commercial communications via our website’s posting or other communication systems.
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-**YOUR VOLUNTARY DISCLOSURE OF INFORMATION TO THIRD PARTIES WHO ARE NOT OUR SUPPLIERS**
+**Controlling your personal information**
 
-You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-**AUTORESPONDERS**
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at mark@markdulisse.com
 
-We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to jad[at]wdtmedia.com, or sending us mail to the address listed below.
 
-**POLICY CHANGES**
 
-The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website’s home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to ross[at]wdtmedia.com and providing us with information relating to your concern.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to mark(at)markdulisse.com
 
-You may also mail your concerns to us at the following address:
-
-WDT Media Corp  
-55 Mont Royal Quest Suite 605  
-Montreal, Quebec H2T2S6  
-Canada
-
-**CALIFORNIA PRIVACY RIGHTS**
-
-If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to jad[at]wdtmedia.com or write us at the following address:
-
-WDT Media Corp  
-55 Mont Royal Quest Suite 605  
-Montreal, Quebec H2T2S6  
-Canada
-
-This privacy policy was last updated on 01-31-2011.
-
-Copyright © 2008-2009 [Law Office of Michael E. Young PLLC](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at [TubeFool.com](http://tubefool.com/). All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
