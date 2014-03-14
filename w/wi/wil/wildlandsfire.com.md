@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildlandsfire.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111082200id_/http%3A//www.lionprotects.com/content/privacy-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildlandsfire.com privacy policy that was archived on 2014-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140314082703id_/http%3A//www.lionprotects.com/content/privacy-1) for the most accurate reproduction.*
 
 # Privacy | LION
 
