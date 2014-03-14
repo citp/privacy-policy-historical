@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 22apple.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201045742id_/http%3A//www.22apple.com/static/22apple/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 22apple.com privacy policy that was archived on 2014-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140314182427id_/http%3A//www.22apple.com/static/22apple/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
