@@ -1,66 +1,65 @@
-> *The following text is extracted and transformed from the cfnews13.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507233409id_/http%3A//www.cfnews13.com/content/news/cfnews13/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfnews13.com privacy policy that was archived on 2014-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140314021907id_/http%3A//brighthouse.com/central-florida/policies/online-privacy-policy) for the most accurate reproduction.*
 
-# News 13 | Privacy Policy
+# Online Services Privacy Policy
 
-In addition to reviewing this privacy policy, please read our [User Agreement.](https://web.archive.org/content/news/cfnews13/news/about/user-agreement.html) Your use of  **CFNews13.com**  constitutes agreement to its terms and conditions.
+Online Services Privacy Policy
 
-**CFNews13.com**  is brought to you by Bright House Networks, LLC. This policy does not cover information collected on sites linked to from  **CFNews13.com**.
+Updated January 2014
 
-This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. 
+Bright House Networks is committed to respecting and protecting your privacy. This Privacy Policy applies to your use of our publicly available websites, mobile sites, applications, and/or other services provided by Bright House Networks that link to this Privacy Policy (“Online Services”).You should also see our [Online Services User Agreement](http://brighthouse.com/corporate/policies/online-user-agreement)  (“User Agreement”) for other information concerning your use of our Online Services. We encourage you to read this Policy and call us with any questions. By using our Online Services, you accept both this Policy and the User Agreement.
 
-Continued access of **CFNews13.com**  by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
+This Privacy Policy does not govern Bright House’s treatment of information it collects, uses or discloses other than through the Online Services.  This Policy does not cover information about you that is collected by Bright House Networks in connection with the provision of our cable television services, high-speed Internet services, and phone services.  If you are a customer of BHN, please refer to the Bright House Customer Privacy Notice at [www.brighthouse.com](http://www.brighthouse.com/).
 
-It is the goal of  **CFNews13.com**  to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. The following is a summary of the various ways we treat the information you provide us while using our site.
+We may modify this Policy at any time.  Such changes, modifications, additions or deletions shall become effective immediately upon posting.  You acknowledge and agree that it is your responsibility to review this site and this Privacy Policy periodically, and to be aware of any modifications.  If you find the changes unacceptable, do not use the Online Services. If you continue to use the Online Services following notice of the changes, we will consider that to be your acceptance of and consent to the changes.
 
-**The type of information CFNews13.com collects:**
+When we use the terms “Bright House,” “BHN”, “we,” “us,” or “our”, we mean Bright House Networks, LLC and the family of companies we own or control.  The term “you” refers to you as a user to one or more of the Online Services.
 
-**CFNews13.com**  generally collects personally identifying information with your specific knowledge and consent. For instance, when you enter a sweepstakes or contest, complete a survey, take part in our Viewer Center, make a purchase, or register for any portion of our services, you are asked to provide information such as your email address, name or phone number. Optional information such as your age or gender may also be requested.
+**Information We Collect**
 
-**How CFNews13.com uses information provided by you:**
+**Policy**  – We collect two types of information through our Online Services: personally identifiable information and non-personally identifiable information.  It is our policy to collect only the personally identifiable information that we need to provide the Online Services with the quality you desire and deserve.
 
-**CFNews13.com**  uses this information to provide you with the service you have requested. For example, if you subscribe to our breaking news alerts, we may use your email address to send you a confirmation notice. Similarly, if you enter an online contest we may require your mailing address; we may use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, or to improve the services that we offer by tailoring them to your needs.
+Personally identifiable information identifies you specifically, such as your name, mailing address, e-mail address, telephone and fax numbers, and other personally identifying information. 
 
-**CFNews13.com**  believes in the privacy rights of our web users.  **CFNews13.com  **does not sell or share our users’ email addresses; however we do retain the right to do so in the future. If you do not wish to have your information shared, please contact us. If you do not wish to receive communication from us, simply follow the unsubscribe instructions contained within the email you received. If you've registered on any part of **CFNews13.com** , you may also change or update your member preferences or information within any section of the site where you have signed up, registered or created any type of account.
+Non-personally identifiable information does not by itself identify a specific individual. This information may include Uniform Resource Locators ("URLs"), demographic information, browser type, and/or your Internet Protocol ("IP") address.
 
-We may also allow access to our database by third parties that provide us with services, such as technical maintenance or forums and job search software, but only for the purpose of and to the extent necessary to provide those services. If you choose to purchase items through features on our site, we may forward your information to third parties for services such as credit card processing and order fulfillment. There are also times when you provide information about yourself to us in areas of the site that are managed or participated in by third parties, such as our breaking news alerts or shopping areas. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies. While  **CFNews13.com**  will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, **CFNews13.com**  does not bear any responsibility for any actions or policies of third parties. There may also be occasion when we are legally required to provide access to our database in order to cooperate with police investigations or other legal proceedings. In those instances, the information is provided only for that purpose.
+**Online Services Visitors**  – When you access our Online Services, we automatically collect access log information about your visit, including information such as the Internet Protocol addresses assigned (numbers assigned to your computer while online), bandwidth used, system and connection performance, browsers used, dates and times of access, and Internet resource requests, including requests to access web pages. 
 
-**Cookies:**
+**Online Services Registrants**  – In visiting our Online Services, if you register with us or participate in a contest, survey or online transaction, we may ask for certain personally identifiable information. When we ask you for such information, we will tell you how it will be used and you may elect not to participate.  When ordering products or services via the Online Services, you may also be asked to provide payment information. Depending upon the activity, some of the information we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity.
 
-You may have read about "cookies," nuggets of information that are placed by a web site in a storage place on your own computer. We use cookies to control the display of ads, to track usage patterns on the site, to deliver editorial content, and to record registration and personalization information. For example, if you register on any part of **CFNews13.com** , you can opt to save your user name and password on your computer. We can provide this convenience by placing a cookie on your computer.
+**Cookies**  – We may use "cookies" to collect information about your visit to our Online Services and to manage information concerning your preferences. A "cookie" is a small computer code added to a file on your computer as a record of its visit. Cookies can be used to note information about your visit, such as your type of web browser, operating system and Internet Protocol address, to better tailor the Online Services for you. They can also be used to recognize you when you log in as a registered user or as a repeat visitor. This allows us to tailor the Online Services by remembering you and any options you select.  We may share non-personal information obtained from various kinds of cookies with vendors, advertisers and others.  You can control what cookies are accepted by your computer through the settings on your web browser or by deleting them from your files.  Doing so, however, may limit the personalization available to you. Because a "Do Not Track" protocol has not yet been finalized, Bright House Networks’ information collection and disclosure practices, and the choices that we provide to consumers, will continue to operate as described in this Privacy Policy, whether or not a Do Not Track signal is received.
 
-Our cookies may contain personally identifiable information and such cookies may be shared with our affiliated companies.
+**Advertisers and Other Websites**  – Third-party ad serving companies and other unaffiliated advertisers may also display advertisements on our websites. As part of their service, they may place a separate cookie on your computer or utilize other means, such as, web beacons, clear GIFs, pixel tags or other similar technologies, to collect non-personally identifiable information, such as your IP address, browser type, the server your computer is logged onto, the area code and zip code associated with your server, and whether you responded to a particular advertisement.  We do not control the privacy policies of advertisers or of websites you may link to from our Online Services or by using our services. You should review their websites for questions about their Internet security and privacy, and we have no responsibility or liability in connection therewith.  To find out more about third party advertising and whether certain opt-outs are available, visit http://www.aboutads.info.
 
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers.
+**Use and Sharing**
 
-If you don't want cookies, your Web browser likely includes an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of **CFNews13.com**  may not function properly.
+**Use Policy**  – We consider any personally identifiable information we receive about you to be confidential, and it is our policy to use it only in providing our Online Services.  We may also use such information in dealing with fraud and unauthorized use of our services. 
 
-While your individual information is protected as outlined above, we reserve the right to use aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners.
+**Aggregate Information**  – We use aggregate information about our Online Service visitors for a variety of purposes.  Such aggregate information does not contain personally identifiable information. We may share such aggregate and related demographic information with third parties.
 
-**IP Address:**
+**Sharing Policy**  – It is our overall policy not to disclose your personally identifiable information to others outside of BHN and our affiliates, vendors and business partners without your prior consent. We do not sell or provide your personal information to parties unconnected with the services we provide without your permission.
 
-Your Internet Protocol ("IP") address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. We may use your IP address to help diagnose problems with our server, gather broad demographic information, and administer our web site.
+**Special Exceptions**  – We reserve the right to disclose personally identifiable information in our possession if we have a good faith belief that it is necessary to: (1) comply with the law or legal process served on us; (2) protect and defend our rights or property or those of others; (3) respond to fraud, abuse or unauthorized use of our services; (4) enforce our User Agreement, or Acceptable Use Policy; or (5) act in an emergency to protect your safety or that of another.
 
-**Kids and Parents:**
+**Third Parties**  – We sometimes use affiliates, vendors or third party partners in association with our Online Services and may provide personally identifiable information about users for such purposes.  In providing such information, we require that the outside party maintain at least the same level of confidentiality that we maintain for such information. In addition, any use by the vendor or third party may not exceed that needed to provide its service.
 
-**CFNews13.com**  is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on this site.
+**Internet Security**
 
-If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
+**Taking Proper Precautions**  – We take such actions as are necessary to prevent unauthorized access to your personally identifiable information by a person other than you or us. We use security and encryption technologies to secure certain sensitive personally identifiable information we collect through the Online Services. We cannot guarantee, however, that these practices will prevent every unauthorized attempt to access, use, or disclose personally identifiable information. Maintaining the security of your own personal computer is an important part of protecting your own privacy and of helping us protect our network and our Online Services. You should use and update regularly your antivirus software, firewall and your operating system to prevent unauthorized access by others and harm from various forms of viruses. Persons with questionable intent may use the Internet or email to pose as someone you trust or do business with. You should always be sure who you are dealing with before responding with personal information.
 
-  
-**Third Party Ad Services and Providers:** ****
+**Access by Others**  – It is possible for use of the Internet to be accessed or intercepted by third parties. Moreover, since we cannot control Web sites or Internet services operated by third parties, we recommend that you review the terms of service and privacy policies of those Web sites and services.
 
-We use third-party advertising services companies to serve ads when you visit **CFNews13.com**. A list of these ad serving companies as of the date of this privacy policy is as follows; we may add to or alter this list, and if we do so we will revise this privacy policy accordingly:
+**Spam**
 
-1\. Valueclick   
-**(**[ **http://www.valueclick.com/privacy.html**](http://www.valueclick.com/privacy.html) **)**
+Bright House Networks works hard to prevent and to block spam and we encourage your help by preventing unauthorized access to your computer. The law permits companies like BHN to use email to send transactional or relationship messages, such as in confirming that a service has been established or providing information regarding changes in service. If you prefer, you may opt-out of marketing messages we may send by notifying us in response to any you may receive.
 
-These companies may use information (generally not including your name, address email address or telephone number) about your visits to this and other sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear gifs to measure advertising effectiveness.
+**Children's Privacy**
 
-Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative's ("NAI") consumer Web site at [www.networkadvertising.org/consumer/](http://www.networkadvertising.org/consumer/), and in particular, NAI's Ad Network "Opt-Out" page at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+Our Online Services are not directed at, or intended for use by, children under the age of 13.  We do not knowingly allow anyone under 13 to provide any personal information on our websites.  Children should always get permission from a parent or guardian before sending personal information over the Internet. If you believe your child may have provided us with personal information, [contact us](http://brighthouse.com/corporate/support/contact) and we will delete the information. You can find more information about protecting children’s privacy by contacting the FTC or viewing its website at [www.ftc.gov](http://www.ftc.gov/). 
 
-If you have other concerns or questions about any aspect of this policy, you may also email our web master. We welcome your [feedback](https://web.archive.org/content/news/cfnews13/news/about/contact.html). You can also send us regular mail at the following address:
+**How to Contact Us**
 
-Webmaster  
-CFNews13.com  
-20 N. Orange Ave. Suite 13  
-Orlando, Florida 32801
+If you have any questions or suggestions regarding this privacy notice, we encourage you to [contact us](http://brighthouse.com/corporate/support/contact)[ ](http://www.brighthouse.com/corporate/support/contact)or please call one of our [Business Offices](http://brighthouse.com/michigan/support/contact).
+
+**California Residents: Your California Privacy Rights**
+
+California law entitles our California customers to request additional information from a business which shares personally identifiable information with third parties for their direct marketing purposes. We do not share personally identifiable information with unaffiliated third parties, for their own direct marketing purposes. We may share personally identifiable information with some same-branded affiliates, however, for those affiliates’ direct marketing purposes. If you contact us, we will provide you with the names and addresses of our same-branded affiliates in California and a list of personally identifiable information that we may have shared with them.
