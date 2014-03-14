@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the headhonchos.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201055027id_/http%3A//www.headhonchos.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headhonchos.com privacy policy that was archived on 2014-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140314044435id_/http%3A//www.headhonchos.com/privacy-policy.html) for the most accurate reproduction.*
 
-# HeadHonchos-Privacy Policy
+# Privacy Policy | HeadHonchos.com
 
 This privacy policy (" **Privacy Policy** ") sets forth our commitment to respecting your online privacy and recognize your need for appropriate protection and management of any Personal Information (as defined below) you share with us. The Privacy Policy applies to our Services available under the domain www.Headhonchos.com (herein after referred to as the " **Website** "). By visiting the Website you agree to be bound by the terms and conditions of this Privacy Policy.
 
