@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sulit.com.ph privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120052327id_/http%3A//www.sulit.com.ph/index.php/faq%2Bview/category/11/Sulit.com.ph%2BRules%2Band%2BPolicies%23f61) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sulit.com.ph privacy policy that was archived on 2014-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140314133005id_/http%3A//www.sulit.com.ph/index.php/faq%2Bview/category/11/Sulit.com.ph%2BRules%2Band%2BPolicies%23f61) for the most accurate reproduction.*
 
 # FAQ - Sulit.com.ph Rules and Policies - Philippines
 
@@ -28,7 +28,7 @@ Registered users will receive additional announcements from us about products, s
 
 The information we collect will not be used to create customer profiles based on browsing or purchasing history.  We will not supplement information collected at our Website with data from other sources.
 
-Subject always to applicable law, Sulit.com.ph may share the data of users and members (particularly, names and contact information such as email addresses and phone numbers) with companies that form part of the same group of companies as Sulit.com.ph (the "Group Companies"). Such sharing of data shall solely be for the purpose of allowing the Group Companies to offer their respective services/products to users and members if, in Sulit.com.ph's opinion, the users and members will be interested in such services/products.
+Subject always to applicable law, Sulit.com.ph may share the data of users and members (particularly, names and contact information such as email addresses and phone numbers) with companies that form part of the same group of companies as Sulit.com.ph (the "Group Companies"). Such sharing of data shall solely be for the purpose of allowing the Group Companies to offer their respective services/products to users and members if, in Sulit.com.ph's opinion, the users and members will be interested in such services/products.  In addition, Sulit.com.ph may advertise the site in different medium, but not limited to - Above-the-line, Below-the-line, SEM, Social Media advertising.  Sulit.com.ph may use images/data uploaded by users for its advertising materials.
 
 Sulit.com.ph may be directed by any competent governmental authority to disclose such data. In those cases, Sulit.com.ph shall not be held liable for the disclosure.
 
