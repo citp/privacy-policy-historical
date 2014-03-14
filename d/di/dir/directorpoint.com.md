@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directorpoint.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627235703id_/http%3A//www.directorpoint.com/landing-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directorpoint.com privacy policy that was archived on 2014-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140314174447id_/http%3A//directorpoint.com/landing-privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Directorpoint
 
