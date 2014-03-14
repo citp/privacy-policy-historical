@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vittana.org privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208010023id_/http%3A//www.vittana.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vittana.org privacy policy that was archived on 2014-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140314184026id_/http%3A//www.vittana.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Vittana
 
