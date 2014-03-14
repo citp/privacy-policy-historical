@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moshimonsters.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116010758id_/http%3A//www.moshimonsters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moshimonsters.com privacy policy that was archived on 2014-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140314195227id_/http%3A//www.moshimonsters.com/privacy) for the most accurate reproduction.*
 
 # Moshi Monsters - Privacy Policy
 
@@ -18,11 +18,13 @@ In this policy we describe what information we collect, how we collect it, and w
 
 When users, including children under 13, register and create a monster on Moshimonsters.com, Big Bad Bill Inc. asks them to select a name for their monster, a screen name (also referred to as a monster owner name), and a password; and to provide his or her parent or guardian's email address for children under 13, the child's birth date, gender, and country of residence. Users 13 or older will provide their own email address. In the interactive community features, no additional personally identifying information is required.
 
-In order to use this Web site, we request certain personally identifiable information from you on the registration form, including a user name and password. During registration you are required to give contact information (your parent email address if you are under 13 years of age). We use this information to contact you about the services on our site in which you have expressed interest. Occasionally, Moshimonsters.com sends out updates regarding new site features, via parent announcements and our newsletter. We also need to contact you regarding any Customer Service queries you submit, such as password retrieval.
+In order to use this Web site, we request certain personally identifiable information from you on the registration form, including a user name and password. During registration you are required to give contact information (your parent email address if you are under 13 years of age).
 
 As part of the registration process, we require demographic information (gender, country of residence and birth date); we encourage you to submit this information so we can provide you a more personalized experience. We limit the information we collect, both actively (i.e., what we ask kids) and passively (what we collect through use of web tracking mechanisms like "cookies") to that which is necessary for kids to take part in a particular Moshi Monsters game activity.
 
 Big Bad Bill Inc. is the sole owner of the information collected on Moshimonsters.com. Big Bad Bill Inc. collects personally identifiable information from our users at several different points on our Web site including registration and Customer Service contact queries.
+
+To see how we use your information, go to “How Mind Candy Uses the Information it Collects.
 
 ### Orders
 
@@ -53,6 +55,19 @@ Mind Candy uses the parent or guardian's email address provided at registration 
 Upon activation of an account, the information submitted will be used by Mind Candy to create a personalized monster and will allow the registered user to participate on the Moshimonsters.com website, which contains a variety of interactive community features. Within those features, users are identified in the community by their screen name, age, gender and country of origin. This limited (and non-personal) identifying information, accompanied by a picture of their pet monster, will be displayed to the user or kid's friends and others who have obtained the user or kid's screen name. Monster Owners can make friends only if they know the other Monster Owner's screen name, which they can find in a variety of ways, some examples include knowing the screen name through personal contact offsite, seeing the screen name if the other Monster Owner is mentioned in the Community section of the site (such as if they are the winner of the "Monstar of the Week" competition, "Room of the Week" competition or they may have achieved something newsworthy in-game), or registered Monster Owners seeing screen names that are included in their friend's "friend tree". It is also possible that the Monster Owner could guess a screen name. The recipient must accept the invitation before the two can communicate.
 
 Once an invitation is accepted, the two become online "friends" and can see each other's friends lists, and can use the site to leave moderated messages (for example by posting a message on the friend's "pinboard"). We only allow free-form text in the pin board feature (a brief public, moderated message).
+
+We also use the information that you give to us (including your contact information such as email address) to make our Services the best possible experience for you. For instance, we may use your information to:
+
+  * customise the Services you choose to receive
+  * manage your account and your queries
+  * improve our Services
+  * meet our legal and regulatory obligations and protect our legitimate interests
+  * carry out research and analysis, training and quality assurance
+  * contact you with important service announcements
+  * if you agree, contact you about other Services and products from Mind Candy that we think may be of interest to you
+  * if you agree, contact you with advertising from other businesses
+
+
 
 If you want to read more about how our site operates, we encourage you to read our [Parent's Page](https://web.archive.org/parents).
 
@@ -106,9 +121,9 @@ If you have any questions about security on our Web site, you can send email us 
 
 ## Privo's Privacy Assurance Program
 
-Mind Candy is a participant in Privo's Privacy Assurance Program. As part of participating in the Privacy Assurance Program, Mind Candy adheres to the strict information collection, use and disclosure requirements. Privo is an independent, third party organization committed to safeguarding children's personal information collected online, and to helping parents and their children exercise control over personal information while exploring the Internet. 
+Mind Candy is a licensee of the PRIVO® Privacy Assurance Program (“the Program”). As a participating member in the Program, Mind Candy adheres to the strict information collection, use and disclosure requirements. PRIVO is an independent, third-party organization committed to safeguarding children's personal information collected online. PRIVO aims to help parents and their children exercise control over personal information while exploring the Internet. 
 
-The seal posted on this page indicates that Mind Candy has established privacy practices and has agreed to submit to Privo's oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at (888) 311-9576 in the U.S., +44 20 7193 5294 outside of the U.S., or [privacy@moshimonsters.com](mailto:privacy@moshimonsters.com). If you have further concerns after you have contacted Mind Candy you can contact Privo directly at [privacy@privo.com](mailto:privacy@privo.com).
+The certification seal posted on this page indicates that Mind Candy has established COPPA compliant privacy practices and has agreed to submit to PRIVO’s oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at (888) 311-9576 in the U.S., +44 20 7193 5294 outside of the U.S., or [privacy@moshimonsters.com](mailto:privacy@moshimonsters.com). If you have further concerns after you have contacted us, you can contact PRIVO directly at [privacy@privo.com](mailto:privacy@privo.com).
 
 Big Bad Bill Inc. complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
