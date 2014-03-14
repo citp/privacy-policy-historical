@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the timeoffun.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210160505id_/http%3A//timeoffun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoffun.com privacy policy that was archived on 2014-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140314201528id_/http%3A//timeoffun.com/privacy-policy) for the most accurate reproduction.*
 
 # Fun | Privacy Policy
 
-[](http://timeoffun.com/privacy-policy?tmpl=component&print=1&page= "Print")[](http://timeoffun.com/component/mailto/?tmpl=component&link=aHR0cDovL3RpbWVvZmZ1bi5jb20vcHJpdmFjeS1wb2xpY3k%3D "E-mail")
+[](http://www.timeoffun.com/privacy-policy?tmpl=component&print=1&page= "Print")[](http://www.timeoffun.com/component/mailto/?tmpl=component&link=aHR0cDovL3d3dy50aW1lb2ZmdW4uY29tL3ByaXZhY3ktcG9saWN5 "E-mail")
 
 TimeOfFun.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -21,5 +21,5 @@ This site contains links to other sites. TimeOfFun.com is not responsible for th
 Contacting the Web Site  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us.
 
-[< Prev](http://timeoffun.com/privacy-policy/257-information-storage-and-management-emc-certification-exams-version-2)  
+[< Prev](http://www.timeoffun.com/privacy-policy/257-information-storage-and-management-emc-certification-exams-version-2)  
 ---
