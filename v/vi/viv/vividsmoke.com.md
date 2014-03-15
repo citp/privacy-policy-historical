@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vividsmoke.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122182017id_/http%3A//www.vividsmoke.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vividsmoke.com privacy policy that was archived on 2014-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140315054945id_/http%3A//www.vividsmoke.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - VividSmoke.com
 
