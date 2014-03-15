@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justtotaltech.co.uk privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930050516id_/http%3A//www.justtotaltech.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justtotaltech.co.uk privacy policy that was archived on 2014-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140315193228id_/http%3A//www.justtotaltech.co.uk//privacy-policy) for the most accurate reproduction.*
 
 # Just Total Tech Privacy Policy
 
