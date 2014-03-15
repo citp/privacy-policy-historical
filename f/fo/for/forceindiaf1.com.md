@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forceindiaf1.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206050031id_/http%3A//www.forceindiaf1.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forceindiaf1.com privacy policy that was archived on 2014-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140315195337id_/http%3A//www.forceindiaf1.com/privacy-policy) for the most accurate reproduction.*
 
 # Sahara Force India - Privacy Policy
 
