@@ -1,22 +1,6 @@
-> *The following text is extracted and transformed from the zalora.sg privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113002904id_/http%3A//www.zalora.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalora.sg privacy policy that was archived on 2014-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140315083106id_/http%3A//www.zalora.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-_**We take our customers privacy seriously and we will only collect and use your personal information as outlined below**.
-
-Data protection is a matter of trust and your privacy is important to us. We shall therefore only use your name and other information, which relates to you in the manner set out in this Privacy Policy. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you.
-
-We will only keep your information for as long as we are either required to by law or as is relevant for the purposes for which it was collected.
-
-You can visit the Site and browse without having to provide personal details. During your visit to the Site you remain anonymous and at no time can we identify you unless you have an account on the Site and log on with your user name and password.
-
-If you have any comments or suggestions, we would be pleased to receive them at our address or by emailing us at service@zalora.sg.
-
-Alternatively you may call us on **+65 3157 5555** – this telephone number will be open to receive calls between 9AM to 7PM. 
-
-_
-
-Our Privacy Statement fully complies with the Privacy Act 1988 and represents the industry’s best practice.
 
 **Collection of Personal Information**  
 ZALORA does not sell, share or trade customers personal information collected online with third parties.
@@ -88,6 +72,10 @@ When you visit ZALORA, our company servers will automatically record information
 
 
 This information is collected for analysis and evaluation in order to help us improve our site and the services and products we provide. This data will not be used in association with any other personal information. 
+
+As part of the above, ZALORA may use Google Analytics features based on Display Advertising, including but not restricted to the following: Remarketing, Google Display Network Impression Reporting, DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting. Using the Google Ads Settings (https://www.google.com/settings/ads), you can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
+
+ZALORA also uses Remarketing with Google Analytics to advertise online; third-party vendors, including Google, may show ZALORA ads on sites across the Internet. ZALORA and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on visitors’ past visits to ZALORA, as well as report how ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to ZALORA.
 
 **Changes to the Privacy Policy**
 
