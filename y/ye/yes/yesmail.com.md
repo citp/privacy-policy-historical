@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesmail.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213044343id_/http%3A//www.yesmail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesmail.com privacy policy that was archived on 2014-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140315201850id_/http%3A//www.yesmail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yesmail
 
@@ -46,6 +46,6 @@ We want our customers and Users to choose how their information may be used. If,
 
 ### SMS TERMS AND CONDITIONS
 
-I confirm that I hold the account corresponding to the mobile phone number I have entered, or that I have the account holder's permission to use this service. By entering your phone number, you acknowledge that you agree to terms of service and are subscribed until you send STOP to Yesmail Marketing Alerts subscription service, provided by Yesmail Interactive. The program works with these carriers: Alltel, AT&T, Boost, Centennial Cellular, Cincinnati Bell, Nextel, Sprint, T-Mobile, Unicel, U.S. Cellular, Virgin Mobile USA, and Verizon Wireless but is not compatible with all handsets. Subscription enables you to receive marketing alerts from Yesmail. You will receive no more than 6 msgs per week, Msg&Data Rates May Apply. **For help, Text "HELP" to 91026**. To cancel, **Text the word “STOP" to 91026** at any time. For customer support, visit [www.yesmail.com](http://www.yesmail.com/) or call 866-275-7678.
+I confirm that I hold the account corresponding to the mobile phone number I have entered, or that I have the account holder's permission to use this service. By entering your phone number, you acknowledge that you agree to terms of service and are subscribed until you send STOP to Yesmail Marketing Alerts subscription service, provided by Yesmail Interactive. The program works with these carriers: Alltel, AT&T, Boost, Centennial Cellular, Cincinnati Bell, Nextel, Sprint, T-Mobile, Unicel, U.S. Cellular, Virgin Mobile USA, and Verizon Wireless but is not compatible with all handsets. Subscription enables you to receive marketing alerts from Yesmail. You will receive no more than 6 msgs per month, Msg&Data Rates May Apply. **For help, Text "HELP" to 91026**. To cancel, **Text the word “STOP" to 91026** at any time. For customer support, visit [www.yesmail.com](http://www.yesmail.com/) or call 866-275-7678.
 
 Last Updated: August 10th, 2012
