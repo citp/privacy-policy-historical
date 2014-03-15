@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techmaza.in privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209085557id_/http%3A//techmaza.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techmaza.in privacy policy that was archived on 2014-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140315132119id_/http%3A//techmaza.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TechMaza
 
