@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfumersapprentice.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814042925id_/http%3A//shop.perfumersapprentice.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfumersapprentice.com privacy policy that was archived on 2014-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140315045623id_/http%3A//shop.perfumersapprentice.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
