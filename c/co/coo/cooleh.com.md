@@ -1,116 +1,85 @@
-> *The following text is extracted and transformed from the cooleh.com privacy policy that was archived on 2001-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010202082200id_/http%3A//www.cooleh.com/security.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooleh.com privacy policy that was archived on 2014-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140315053442id_/http%3A//cooleh.com/privacy.php) for the most accurate reproduction.*
 
-# Cooleh.com
+# Privacy Policy | cooleh.com
 
-100% Secure Shopping Guaranteed
+Effective on January 1st, 2013
 
-Your Security on COOL eh.com   
-When you provide us with any personal information - your name, address, email and credit card number - it's done on a secure server. One of today's most advanced security systems - Secure Socket Layers (SSL) - encrypts all information you provide before sending it to our own server. Only when it reaches the COOL eh.com servers, is your information decrypted.
+This privacy statement describes how cooleh collects and uses the personal information you provide on our Web site: [cooleh.com](http://cooleh.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
-Your Credit Card Guarantee  
+## Collection and Use of Personal Information
 
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the type of browser you used to visit our site (such as Google Chrome, Internet Explorer or Mozilla Firefox), the time at which you visited our site and which pages you visited throughout our site. 
 
-  * Most financial institutions or credit card providers either cover all charges resulting from unauthorized use of your credit card or limit your liability to CDN $50. If your bank or credit card provider does hold you liable for fraudulent use of your credit card, COOL eh.com will cover your liability up to a maximum CDN $50, provided the unauthorized use of your credit card resulted through no fault of your own and was a result of purchases made at COOL eh.com. 
-  * In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures. 
+We may collect personal information at various times when you use our website or plugin. The more information you volunteer (and the more accurate it is), the better we are able to customize your experience. Your participation is voluntary and you have the choice not to disclose any information that we request. 
 
+### The types of information we gather:
 
-
-*Note: This policy only applies to the COOL eh.com web sites and not to the web sites of other companies, individuals or organizations to which we provide links.
-
-Privacy Policy
-
-COOL eh.com treats your privacy seriously. This Privacy Policy will explain how we collect and use your personal data and gives you the opportunity to limit our use of this information. If, after reading our policy, you still have concerns, please email your questions to [Privacy@COOLeh.com.](mailto:Privacy@COOLeh.com)
-
-We use the personal information that we collect to identify personal preferences and match your needs with relevant products and services, and assist in processing any transactions that you make through our web site. You can access or make changes to any of your personal information by clicking the [Order History](https://checkout1.cooleh.com/tms-ts/bin/userinfo.cgi?op=edit) link on the left toolbar.
-
-Consent  
-You signify your consent to us collecting and using this information by your use of this web site. Should we for any reason elect to change our policy, the changes will be posted here, so that you are always kept informed of how we collect and use the information, and when we would disclose it. Regardless of later updates or changes to our privacy notice, we will never use the information you submit under our current privacy notice in a new way without first providing you an opportunity to opt-out or otherwise to prevent that use. 
-
-*Note: The information that you submit may be transferred outside Canada for processing by us and our associated companies and to maintain accounts for you at other COOL eh.com sites. By using our web site, you consent to this transfer.
-
-Your personal information will not be sold or rented to third parties, PERIOD.
-
-Your data may sometimes also be used by us and our associated companies to inform you about changes to our web site, new services and offers that you might find interesting. If you do not wish to receive this information, please send a blank email to [optout@COOLeh.com](mailto:optout@COOLeh.com)
-
-What information does COOL eh.com collect and how is it collected and used?  
-You may send us personal information when communicating with us. You may order a product or a service giving your name, email address, delivery address, credit card number and expiry date, preferred language. We will provide COOLeh.com merchants with access to such Customer Order Information as is reasonably required to permit merchants to fulfill orders. Sometimes we may ask for your telephone number. This number may be given to our couriers or agents. These details allow us to process your orders and to let you know the status of your order. You must be 18 years of age or older to purchase merchandise from COOLeh.com.
-
-If you enter a contest or promotion we will ask for your name, address and email address. This is so we can administer the contest and inform the winners.
-
-We will collect information about your tastes and preferences both when you tell us what these are and by analysis of customer traffic, including the use of Cookies (see below).
-
-We use information collected about you to personalize your visits to our web site. We also use the information to help us develop the design and layout of our web site to ensure that our sites are as useful and enjoyable as possible.
-
-Sometimes we might use the information to let you know about functionality changes to our web site, new goods, services or offers that you might find interesting. If you do not wish to receive this information, please send a blank email to [optout@COOLeh.com](mailto:optout@COOLeh.com)
-
-Will COOL eh.com disclose the information we collect to third parties?  
-We may provide aggregate statistics about our sales, customers, traffic patterns and other site information to third parties, but these statistics will not include any information that could personally identify you.
-
-We reserve the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users. We also reserve the right to disclose individual information to protect the rights and property of COOL eh.com.
-
-How do we protect your information?  
-Security is very important to us! We strive to put the very best technology available to support your business with COOL eh.com. When you provide us with your credit card details or order products from us, we offer the use of a secure server. The secure server software encrypts the information that you input before it is transmitted to us.
-
-We have strict security procedures covering the storage and disclosure of your information in order to prevent unauthorised access. This means that sometimes we may ask for proof of identity before we disclose personal information to you.
-
-Does COOL eh.com use cookies?  
-A Cookie is a piece of information that is stored on your computer's hard drive by your web browser. 'Cookies' do not contain personal information. No one other than COOL eh.com can access them. We use them to track which parts of the site are being visited most frequently in the hopes of constantly improving to serve you better. Most browsers accept Cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive Cookies, you may still use most of the features of our web site.   
-
-  
-100% Secure Shopping Guaranteed
-
-Your privacy is important to us. By participating in the Council of Better Business Bureau's BBBOnLine Privacy Program we have made a commitment to meet the programs' strict requirements regarding how we treat your information and have it verified by BBBOnLine. Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org/). 
-
-Your Security on COOL eh.com   
-When you make a purchase and provide us with your personal information - your name, address, email and credit card number - it's done on a secure server. One of today's most advanced security systems - Secure Socket Layers (SSL) - encrypts all information you provide before sending it to our own server. Only when it reaches the COOL eh.com servers, is your information decrypted.
-
-Your Credit Card Guarantee  
-
-
-  * Most financial institutions or credit card providers either cover all charges resulting from unauthorized use of your credit card or limit your liability to CDN $50. If your bank or credit card provider does hold you liable for fraudulent use of your credit card, COOL eh.com will cover your liability up to a maximum CDN $50, provided the unauthorized use of your credit card resulted through no fault of your own and was a result of purchases made at COOL eh.com. 
-  * In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures. 
+  * **Information you provide:** We receive and store any information you enter on cooleh.com or give us in any other way. You provide most such information when you use the cooleh or bundled plugins. For instance, if you register for an account with us, we may collect your name, email address, country of origin, and, if you choose, your nickname, telephone number, website, company, and title. If you download and install the plugin, we collect any information voluntarily provided by you during the installation and registration process, which can include demographic information such as gender, age, occupation, household income, zip code and country. Demographic information may be correlated to web usage information collected during your use of the service. In addition, you might provide us with personal identifying information, such as mobile telephone number, when you communicate with us by phone, e-mail or otherwise, or complete a questionnaire, subscription form or a contest entry form. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing and improving our services, delivering targeted content and advertisements that may be of interest to you, and communicating with you.
+  * **Automatic information we collect from the plugin:** When you use cooleh plugin, we may collect information about the websites you visit and the advertisements that you see on those websites, the searches you perform using search engines, the ways in which you use various features, and the pages you view (especially social media pages). For example, we may collect information about page views, impressions and clicks, as well as similar web usage information. For every webpage you view while using the plugin, our software transmits and stores information associated with your Internet Protocol (IP) address, which may include a domain name, the full URL of the webpage you are visiting, general information about your browser; general information about your computer's operating system; your Licensor cookie number or other identifying alphanumerical information enabling Licensor to identify your computer; and the date and time the above information is logged. All of this above information may be logged together in a single data string for each webpage you visit. Each string is logged in our database in the chronological order received from our users. In addition, we may collect information about what cookies are stored on your computer, which enables Licensor to determine which websites you have visited in the past. Although this information may contain some personal identifying information, Licensor does not use it to determine the identity of individual users or correlate it to your email address or other personal identifying information that you give us or our affiliates, except as required by subpoenas, court orders, investigations or other legal requirements. When you download the plugin, and at times during your use of the site, we may transmit Licensor cookies to the hard drive of your computer. We may also automatically collects information about the online advertisements that are displayed on the websites you visit - specifically, the text, source, and URL of the online ad - and the terms you choose when you use search engines to search the Web. Licensor also may periodically collect usage statistics from users that describe the frequency of use of each feature.
+  * **Automatic information we collect from the site:** We receive and store certain types of information whenever you interact with our site. For example, like many websites, we use "cookies," and we obtain certain types of information when your Web browser accesses the Site, when you use the plugin, or when you view advertisements and other content served by or on behalf of Licensor on other Web sites. Examples of the information we may collect and analyze when you use our website include the IP address used to connect your computer to the Internet; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; the full Uniform Resource Locator (URL) clickstream to, through, and from the Site, including date and time; cookie; web pages you viewed or searched for. During some visits to the Site we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
 
 
 
-*Note: This policy only applies to the COOL eh.com web sites and not to the web sites of other companies, individuals or organizations to which we provide links.
+We do not only collect any identifiable information in order to optimize and improve our website. 
 
-Privacy Policy
+If you are not yet 18, you are not allowed to use our services. Further, if we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under age 13, please contact us
 
-COOL eh.com treats your privacy seriously. This Privacy Policy will explain how we collect and use your personal data and gives you the opportunity to limit our use of this information. If, after reading our policy, you still have concerns, please email your questions to [privacy@cooleh.com.](mailto:privacy@cooleh.com)
+## Information Sharing
 
-We use the personal information that we collect to identify personal preferences and match your needs with relevant products and services, and assist in processing any transactions that you make through our web site.
+We do not sell your personal information to third parties. However, we may disclose your personal information: 
 
-Correcting and Updating Your Information  
-You can access or make changes to any of your personal information by clicking the [Order History](https://checkout1.cooleh.com/tms-ts/bin/userinfo.cgi?op=edit) link on the left toolbar. If you would like to delete your personal information please contact Customer Service at [privacy@cooleh.com](mailto:privacy@cooleh.com). 
+  * As required by law such as to comply with a subpoena, or similar legal process
+  * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
+  * If cooleh is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information
+  * To any other third party with your prior consent to do so.
 
-Consent and Notification of Changes  
-You signify your consent to us collecting and using this information by your use of this web site. Should we for any reason elect to change our policy, the changes will be posted here, so that you are always kept informed of how we collect and use the information, and when we would disclose it. Regardless of later updates or changes to our privacy notice, we will never use the information you submit under our current privacy notice in a new way without first providing you an opportunity to opt-out or otherwise to prevent that use. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we would notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
 
-Your personal information will not be sold or rented to third parties, PERIOD.
 
-Your data may sometimes also be used by us to inform you about changes to our web site, new services and offers that you might find interesting. If you do not wish to receive this information, please send a blank email to [optout@COOLeh.com](mailto:optout@COOLeh.com)
+### Use of Information
 
-What information does COOL eh.com collect and how is it collected and used?  
-You may send us personal information when communicating with us. You may order a product or a service giving your name, email address, delivery address, credit card number and expiry date, preferred language. We will provide COOLeh.com merchants with access to such Customer Order Information as is reasonably required to permit merchants to fulfill orders. Sometimes we may ask for your telephone number. This number may be given to our couriers or agents. These details allow us to process your orders and to let you know the status of your order. You must be 18 years of age or older to purchase merchandise from COOLeh.com.
+cooleh may use information (whether personal identifying information or not) that we collect about you to: 
 
-If you enter a contest or promotion we will ask for your name, address and email address. This is so we can administer the contest and inform the winners.
+  * Deliver the products and services that you have requested
+  * Send you offers that you have opted in to receive
+  * Manage your relationship with us and provide you with customer support
+  * Perform research and analysis about your use of, or interest in, our products, services or content, or products, services or content offered by others.
+  * communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us or third parties
+  * Develop and display content and advertising (such as targeted ads) tailored to your interests on our websites and other websites
+  * verify your eligibility and deliver prizes in connection with promotions, contests and sweepstakes
+  * Enforce our Agreement
+  * Protect Licensor, our plugin, our websites, our customers and/or our other users from fraud, hacking or other harm
+  * Cooperate with legal, criminal or regulatory investigations or proceedings
+  * Manage our business
+  * Perform functions as otherwise described to you at the time of information collection
 
-We will collect information about your tastes and preferences both when you tell us what these are and by analysis of customer traffic, including the use of Cookies (see below).
 
-We use information collected from cookies on our site to personalize your visits to our web site. We also use the information to help us develop the design and layout of our web site to ensure that our sites are as useful and enjoyable as possible.
 
-Sometimes we might use the information to let you know about functionality changes to our web site, new goods, services or offers that you might find interesting. If you do not wish to receive this information, please send a blank email to [optout@COOLeh.com](mailto:optout@COOLeh.com)
+### Third Party E-Commerce Solutions Provider
 
-Will COOL eh.com disclose the information we collect to third parties?  
-We may provide aggregate statistics about our sales, customers, traffic patterns and other site information to third parties, but these statistics will not include any personally identifiable information.
+Our shopping cart is hosted by our e-commerce solutions provider. They host our ordering system, and collect your billing information directly from you for the purpose of processing your order. This company does not use this information for any other purpose. 
 
-We reserve the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to protect users from fraudulent activity or misrepresentation. We also reserve the right to disclose individual information to protect the rights and property of COOL eh.com.
+## Use of Cookies and Web Beacons
 
-How do we protect your information?  
-Security is very important to us! We strive to put the very best technology available to support your business with COOL eh.com. When you provide us with your credit card details or order products from us, we offer the use of a secure server. The secure server software encrypts the information that you input before it is transmitted to us.
+In computer language, a cookie is used to store data on a computer's hard drive. Almost all websites utilize cookies to one extent or another. 
 
-We have strict security procedures covering the storage and disclosure of your information in order to prevent unauthorised access. This means that sometimes we may ask for proof of identity before we disclose personal information to you.
+We use third-party cookies, known as "web beacons", to advertise our website using a technology known as Retargeting. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/consumer/opt_out.asp). Certain third party advertisers may collect personal information you provide in fields and forms presented in connection with their ads. This policy does not apply to, and we are not responsible for information you choose to provide in connection with these third party ads. We encourage you to check the privacy policies of the advertisers to learn about their use of your information. 
 
-Does COOL eh.com use cookies?  
-A Cookie is a piece of information that is stored on your computer's hard drive by your web browser. 'Cookies' do not contain personal information or are not linked to personally identifiable information. No one other than COOL eh.com can access them. COOLeh.com does not collect personally identifiable information with Cookies. Cookies are used to target internal page view information to a random identifier for the session. We use them to track which parts of the site are being visited most frequently in the hopes of constantly improving to serve you better. Most browsers accept Cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive Cookies, you may still use most of the features of our web site.   
+### Links to Other Web Sites
 
+Our Site includes links to other Web sites whose privacy practices may differ from those of cooleh. Our service may also be linked to sites or services operated by the cooleh affiliates or third parties, and may carry advertisements or offer content, functionality, games, rewards programs, newsletters, contests or sweepstakes, or applications developed and maintained by third parties including, any online store. cooleh is not responsible for the privacy practices of any such third parties, and once you leave the Services via a link, enable a third party service, or click an advertisement, you should check the applicable privacy policy of the third party site. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+
+## Security
+
+When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us. 
+
+In order to make a purchase from us, you must use our shopping cart provider to finalize and pay for your order. Its privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing your information. 
+
+## Notification of Privacy Statement Changes
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+
+## Contact Information
+
+You can contact us about this privacy statement by emailing us at: [support@cooleh.com](mailto:support@cooleh.com)
+
+Copyright © 2010-2013 cooleh.com All rights reserved.
