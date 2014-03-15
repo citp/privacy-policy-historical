@@ -1,30 +1,17 @@
-> *The following text is extracted and transformed from the jrn.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109042623id_/http%3A//www.journalcommunications.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jrn.com privacy policy that was archived on 2014-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140315213433id_/http%3A//www.journalcommunications.com/249317751.html) for the most accurate reproduction.*
 
-# Privacy - Journal Communications, Inc.
+# Journal Communications
 
-[ JOURNAL COMMUNICATIONS](http://www.journalcommunications.com/): 
+[](https://web.archive.org/web/20140315213433id_/http%3A//www.journalcommunications.com/index.html)
 
 **Effective: September 1, 2009**
 
-What are “Your California Privacy Rights”?  
-What types of Personal Information do we collect?  
-How do we actively collect and use Personal Information?  
-Do we collect Personal Information from or about children?   
-How do we passively collect and use Personal Information through tracking technology?  
-Do we share your Personal Information with third parties?  
-What choices do you have about the collection, use and sharing of your Personal Information?  
-What do you need to know about links to other websites operated by third parties?  
-How can you access, update or delete your Personal Information?  
-What security measures do we take to safeguard your Personal Information?  
-How will you know if we make changes to this Privacy Policy?  
-How can you contact us?
-
   
-PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE YOUR SUBMISSION OF ANY PERSONALLY IDENTIFIABLE INFORMATION.  YOUR VISIT TO OUR WEBSITE IS SUBJECT TO THIS PRIVACY POLICY AND OUR WEBSITE’S [TERMS AND CONDITIONS OF USE](http://www.journalcommunications.com/27227149.html).
+PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE YOUR SUBMISSION OF ANY PERSONALLY IDENTIFIABLE INFORMATION.  YOUR VISIT TO OUR WEBSITE IS SUBJECT TO THIS PRIVACY POLICY AND OUR WEBSITE’S [TERMS AND CONDITIONS OF USE](http://www.journalcommunications.com/249316041.html).
 
 This is the official Privacy Policy for Journal Communications, Inc. (“JCI”, “Company,” “us”, “our”, or “we”), the parent company of the Milwaukee Journal Sentinel Newspaper and various other newspapers and publications, as well as commercial printing service and advertising companies.  JCI is the owner and operator (“Owner and Operator”) of this website (“Site”). This Privacy Policy governs our collection of personally identifiable information (“Personal Information”) both online and offline; it does not govern the Personal Information collected or used by JCI divisions or corporate affiliates (“JCI Affiliates”). 
 
-We hope to provide you with news and information tailored to your individual needs but we also recognize the importance of protecting the privacy of your Personal Information. This Privacy Policy is designed to answer your questions regarding our online and offline information practices and the choices you can make about the way your Personal Information is collected, used and disclosed.  This Privacy Policy is also incorporated in the [Site’s Terms andConditions of Use Agreement](http://www.journalcommunications.com/27227149.html) by reference.
+We hope to provide you with news and information tailored to your individual needs but we also recognize the importance of protecting the privacy of your Personal Information. This Privacy Policy is designed to answer your questions regarding our online and offline information practices and the choices you can make about the way your Personal Information is collected, used and disclosed.  This Privacy Policy is also incorporated in the [Site’s Terms andConditions of Use Agreement](http://www.journalcommunications.com/249316041.html) by reference.
 
 Each time you visit our Site, use our online features and services, or participate in an event or activity offline, you consent to the collection, use, disclosure, processing and management of Personal Information in accordance with this Privacy Policy.  You may withdraw your consent at any time, subject to certain legal or contractual restrictions, reasonable notice, and/or technical restrictions.  If you wish to withdraw your consent, please contact us using the information below.
 
@@ -40,7 +27,7 @@ We ask you to provide specific types of Personal Information if you wish to rece
 
 **How do we actively collect and use Personal Information?**
 
-Generally, we actively collect Personal Information from you when you complete online forms or otherwise affirmatively and voluntarily provide such information to us, communicate with us via e-mail; or apply for employment with us.  We may also combine your Personal Information with information obtained from JCI Affiliates, our operational service providers or other companies.  If we share your Personal Information with our advertisers, sponsors and promotional partners (collectively, “Advertisers”), you will be notified in advance and given you prior consent (“opt-in”).   
+Generally, we actively collect Personal Information from you when you complete online forms or otherwise affirmatively and voluntarily provide such information to us, communicate with us via e-mail; or apply for employment with us.  We may also combine your Personal Information with information obtained from JCI Affiliates, our operational service providers or other companies.  If we share your Personal Information with our advertisers, sponsors and promotional partners (collectively, “Advertisers”), you will be notified in advance and given you prior consent (“opt-in”).   
 In addition to corporate transactions and/or matters, your Personal Information will be collected and used for the following features, services and activities: 
 
 **Corporate E-mail Alerts and Updates**
@@ -63,7 +50,7 @@ If you use our Site’s e-mail address hyperlink or telephone number to contact 
 
 We collect Personal Information if you wish to apply offline for a job with JCI.  Such information includes but is not limited to full name, postal address, e-mail address, telephone number, social security number, date of birth, employment history, and personal references. Additional Personal Information may be requested.
 
-_**Do not send any credit card account or other payment information via e-mail, which is not secured.   We are not responsible for any such Personal Information being transmitted via the Internet. **_
+**Do not send any credit card account or other payment information via e-mail, which is not secured.   We are not responsible for any such Personal Information being transmitted via the Internet.**
 
 **Do we collect Personal Information from or about children?**
 
@@ -78,7 +65,7 @@ We do not ordinarily combine passively collected Personal Information (as descri
 
 **Do we share your Personal Information with third parties?**
 
-Except as stated in this Privacy Policy or unless your consent is obtained at the time of collection or prior to transfer, your Personal Information will not be shared with any third party outside of JCI Affiliates and our operational service providers.  We will share your Personal Information with JCI Affiliates primarily for business and operational purposes and occasionally for promotional and marketing purposes.    
+Except as stated in this Privacy Policy or unless your consent is obtained at the time of collection or prior to transfer, your Personal Information will not be shared with any third party outside of JCI Affiliates and our operational service providers.  We will share your Personal Information with JCI Affiliates primarily for business and operational purposes and occasionally for promotional and marketing purposes.    
 We also reserve the right to disclose your Personal Information to protect the security of our Site and databases; to protect JCI Affiliates against liability and harm; to respond to subpoenas, judicial processes, or government requests and investigations; to act in respect of an emergency that threatens life, health or security of an individual; to assist in the investigation of a contravention of a law or our Site’s Terms and Conditions for Use; if we believe in good faith that the law requires it or authorizes it; or in connection with any proposed or actual purchase, sale, lease, merger, assignment, re-organization or financing of all or any portion of JCI or any of the business or assets or shares of JCI Affiliates thereof in order for you to continue to receive the same products and services.
 
 We reserve the right to fully use, share, disclose and process any non-Personal Information collected via our Site or offline.
@@ -111,12 +98,10 @@ We reserve the right to change this Privacy Policy from time to time and in our 
 
 **How can you contact us?**
 
-Please feel free to contact us with any comments, questions, or suggestions you may have regarding the Personal Information practices described in this Privacy Policy at PrivacyAdministrator@journalcommunications.com.  Please also contact our Privacy Administrator to report any known or suspected privacy or security breaches.
+Please feel free to contact us with any comments, questions, or suggestions you may have regarding the Personal Information practices described in this Privacy Policy at PrivacyAdministrator@journalcommunications.com.  Please also contact our Privacy Administrator to report any known or suspected privacy or security breaches.
 
 You may also contact us at:  
 Journal Communications, Inc.  
 333 W. State Street  
 Milwaukee, Wisconsin 53201  
 Attention: Privacy Administrator
-
-BACK TO TOP
