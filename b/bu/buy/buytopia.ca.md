@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buytopia.ca privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005135010id_/http%3A//www.buytopia.ca/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buytopia.ca privacy policy that was archived on 2014-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140315044222id_/http%3A//buytopia.ca/page/privacy-policy) for the most accurate reproduction.*
 
 # Buytopia | Privacy Policy
 
@@ -33,6 +33,6 @@ If you have any questions about this Privacy Policy or the practices described i
 Customer Service
 
 1-855-442-2220 (toll free)  
-5155 Spectrum Way  
-Mississauga, ON  
-L4W 5A1 
+183 Bathurst St. Suite 302  
+Toronto, Ontario  
+M5T 2R7 
