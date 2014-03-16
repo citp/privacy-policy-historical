@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softattop.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208044027id_/http%3A//www.softattop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softattop.com privacy policy that was archived on 2014-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140317005455id_/http%3A//www.softattop.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy of SoftatTop
 
