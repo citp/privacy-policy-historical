@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atithi.org.in privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806230002id_/http%3A//www.atithi.org.in/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atithi.org.in privacy policy that was archived on 2014-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140316230438id_/http%3A//www.atithi.org.in/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # ::Atithidevo Bhava:: - PrivacyPolicy
 
