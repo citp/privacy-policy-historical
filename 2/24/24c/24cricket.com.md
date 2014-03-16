@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 24cricket.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110085508id_/http%3A//www.24cricket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24cricket.com privacy policy that was archived on 2014-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140316165821id_/http%3A//www.24cricket.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
