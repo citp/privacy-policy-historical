@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucu.org privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207022015id_/http%3A//ucu.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucu.org privacy policy that was archived on 2014-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140316232037id_/http%3A//ucu.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - University Credit Union, Los Angeles, CA
 
@@ -14,7 +14,7 @@ University Credit Union (UCU) places a high priority on keeping member informati
 
 **Member Privacy Policy**
 
-Click to open [University Credit Union's Privacy Policy (PDF)](https://web.archive.org/web/20131207022015id_/http%3A//ucu.org/pdf/privacynotice.pdf). 
+Click to open [University Credit Union's Privacy Policy (PDF)](https://web.archive.org/web/20140316232037id_/http%3A//ucu.org/pdf/privacynotice.pdf). 
 
 ****
 
@@ -37,7 +37,7 @@ It is your responsibility for protecting the integrity of your Password and acco
 There is no charge to use Home Branch online, through a mobile application or though wireless services. You, the user, are responsible for any message and data rates that may apply from your wireless service providers and/or wireless carriers. Access to Home Branch, though any device, is limited to the availability of online services, wi-fi access or wireless service and is not the responsibility of University Credit Union. The credit union works to maintain consistent access to account information through all Home Branch applications, but does not guarantee access. There may be times where the service may experience periodic downtime due isolated events such as, but not limited to, power outages, line malfunctions, server interruptions, server maintenance, service updates or any other event in which access would become temporarily unavailable. 
 
 **Use of Cookies on the UCU Web Site**  
-UCU only utilizes the use of [cookies](https://web.archive.org/web/20131207022015id_/http%3A//ucu.org/hb_faq.htm#4) in its Home Branch application. For each logon session, a cookie is maintained only to verify that the user receiving the information is the user that logged on. Once you terminate your session on Home Branch, the cookie is no longer valid. 
+UCU only utilizes the use of [cookies](https://web.archive.org/web/20140316232037id_/http%3A//ucu.org/hb_faq.htm#4) in its Home Branch application. For each logon session, a cookie is maintained only to verify that the user receiving the information is the user that logged on. Once you terminate your session on Home Branch, the cookie is no longer valid. 
 
 UCU contracts with affiliated parties to provide other Web-based applications. These services, usually housed on the affiliate servers, may employ the use of cookies to administer their application. 
 
@@ -56,9 +56,9 @@ To provide you with greater access of information, UCU maintains a list of links
   
 
 
-**[PRIVACY POLICY](https://web.archive.org/web/20131207022015id_/http%3A//ucu.org/privacy.htm) | [TERMS OF SERVICE](https://web.archive.org/web/20131207022015id_/http%3A//ucu.org/privacy.htm#internet) | [SITE MAP](https://web.archive.org/web/20131207022015id_/http%3A//ucu.org/sitemap.htm) | [CONTACT US](https://web.archive.org/web/20131207022015id_/http%3A//ucu.org/contactus.htm)**
+**[PRIVACY POLICY](https://web.archive.org/web/20140316232037id_/http%3A//ucu.org/privacy.htm) | [TERMS OF SERVICE](https://web.archive.org/web/20140316232037id_/http%3A//ucu.org/privacy.htm#internet) | [SITE MAP](https://web.archive.org/web/20140316232037id_/http%3A//ucu.org/sitemap.htm) | [CONTACT US](https://web.archive.org/web/20140316232037id_/http%3A//ucu.org/contactus.htm)**
 
-Copyright © 2013 All rights reserved.
+Copyright © 2014 All rights reserved.
 
 |    
 ---|---|---
