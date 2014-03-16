@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the playpark.net privacy policy that was archived on 2013-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130705005150id_/http%3A//www.playpark.net/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playpark.net privacy policy that was archived on 2014-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140316213758id_/http%3A//www.playpark.com/en/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - PlayPark
 
-Last updated 22nd October 2012
+Last updated 19th November 2013  
+_We have updated our privacy policy to reflect changes in the way we collect user information. More information below._
 
 PlayPark offers many services and allows you to use them when you sign up for a PLAY ID. When doing so, you are sharing information with us so that you may use PlayPark Services – topping up @cash into your account, participate in events, communicate with other users via our forum, access to webgames and client games.
 
@@ -35,7 +36,36 @@ We do not knowingly contact or collect personal information from children under 
 
 #### 3\. How your information is being used
 
-Our systems are not designed to associate personal information with your activities (such as pages you view or things you click on or search for).
+We have implemented Google Inc. (“Google”)’s Display Advertising and enabled Google Analytics to collect data about traffic via the DoubleClick cookie in addition to data collected through the standard Google Analytics implementation.
+
+**You are hereby notified:**
+
+  * We have implemented the Google Analytics features including but not limited to Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting.
+  * You may opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads).
+  * We will not facilitate the merging of personally-identifiable information with non-personally identifiable information previously collected from Display Advertising features that is based on the DoubleClick cookie unless we have robust notice of, and the users’ prior affirmative (i.e., opt-in) consent to, that merger.
+  * The [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/) can be found [here](https://tools.google.com/dlpage/gaoptout).
+
+
+
+In accordance with the [Google AdWords Interest-Based Advertising Policy](https://support.google.com/adwordspolicy/bin/answer.py?answer=143465) and its [sensitive category restrictions](https://support.google.com/adwordspolicy/answer/143465#sensitive), **we further notify you that:**
+
+  * We use Remarketing with Google Analytics to advertise online.
+  * Third-party vendors, including Google, show our ads on sites across the Internet.
+  * We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on users’ past visits to our website.
+
+
+
+In accordance with [Google Display Network Impression Reporting](https://support.google.com/adwordspolicy/answer/143465) and/or the DoubleClick Campaign Manager integration, **we further notify you that:**
+
+  * We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our site.
+
+
+
+In accordance with Google Analytics Demographics and Interest Reporting, **we further notify you that:**
+
+  * We and third-party vendors, including Google, use demographic data collected through Google Analytics to better understand our audience in order to serve the most relevant content to everyone.
+
+
 
 #### 4\. Duration of information kept
 
@@ -75,7 +105,7 @@ We do not use or collect your precise geographic location.
 
 #### 13\. Changes to this policy
 
-This privacy policy was last updated on 22nd October 2012. Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email, push notification or text.
+This privacy policy was last updated on 19th November 2013. Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email, push notification or text.
 
 #### 14\. How you can contact us
 
