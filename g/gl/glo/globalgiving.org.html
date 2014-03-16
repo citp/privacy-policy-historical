@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the globalgiving.org privacy policy that was archived on 2013-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131128080938id_/http%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalgiving.org privacy policy that was archived on 2014-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140316214510id_/https%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	<title>Privacy Policy - GlobalGiving</title>  
@@ -12,14 +12,15 @@
 <meta http-equiv="Content-Style-Type" content="text/css">
 
 
+
     <meta property="og:image" content="http://www.globalgiving.org/img/logos/gg_stacked_color_small.jpg">
 
 
 <link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">  
 
 <!-- ****** STYLESHEETS ***** -->
-<link href="/css/styles.css" rel="stylesheet" type="text/css">   
-
+ <link href="/css/styles.css" rel="stylesheet" type="text/css">   
+ 
 <!-- patches so that they are available if necessary, empty so far --> 
 <!--[if lte IE 8]>
 <link href="/css/patches/ie_patch.css" rel="stylesheet" type="text/css"/>
@@ -32,7 +33,22 @@
 <![endif]--> 
 
 <!-- ****** JAVASCRIPT ***** -->
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/javascript/commonScripts.js?v=0.1"></script>
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/javascript/commonScripts.js"></script>
+
+<!-- ****** OPTIMIZELY EXPERIMENT SCRIPT ***** -->
+<script src="//cdn.optimizely.com/js/555520144.js"></script>
+<script type="text/javascript">
+   window.optimizely = window.optimizely || [];
+   for (experiment_id in window.optimizely.data.experiments){
+      variation  = window.optimizely.data.state.variationNamesMap[experiment_id];
+      if (variation != undefined){
+         experiment = window.optimizely.data.experiments[experiment_id].name.replace(/[\s,;=]/g, '_');
+         variation = variation.replace(/[\s,;=]/g, '_');
+         setCookie('abtest_optimizely_' + experiment,variation,365,'/');
+      }
+   }
+</script>
+
 
 <!-- *** GOOGLE ANALYTICS TRACKING CODE ***-->    
 <!-- Async Tracking Code - http://code.google.com/intl/en-US/apis/analytics/docs/tracking/asyncTracking.html -->
@@ -91,7 +107,7 @@
         
         
 
-<body id="pageId_general">
+<body id="pageId_general" class=" ">
 
 	<noscript>
 		<div id="noscript_spacer">
@@ -99,11 +115,11 @@
 		</div>  
 	</noscript> 
 	
-	<div id="headerWrapper" class="headerFooterWrapper">
+	<div id="headerWrapper" class="headerFooterWrapper fullWidth">
 	<div id="elev_priv" style="display:none;">
 	</div>
 
-	<div id="header" class="siteWrapper">
+	<div id="header" class="siteWrapper fullWidth">
 		<div id="border-top">
 		</div>
 
@@ -112,7 +128,7 @@
 				<a id="logoLink" href="/" onclick="trackHeaderClick(this);">GlobalGiving</a>
 			</div> 
             
-			<div id="topnav">
+			<div id="topnav" class="desktopOnly">
 			    
 					<a class="skip" href="#content">Skip to the content</a><span class="hideme">.</span>
 
@@ -129,10 +145,10 @@
         
             
         
-		<div id="login_name"></div>
-		<ul>
+		<div id="login_name" class="desktopOnly"></div>
+		<ul onclick="if (document.documentElement.clientWidth < 640) {$(this).children().toggle();}">
 			<li>
-			   <div class="cartItems" onclick="window.location.href = '/dy/cart/view/gg.html?cmd=gcart';" style="cursor:pointer;">
+			   <div class="cartItems desktopOnly" onclick="window.location.href = '/dy/cart/view/gg.html?cmd=gcart';" style="cursor:pointer;">
 			      <div class="redCircle" style="display:none;">
 			         <div class="cartItemsCount">&nbsp;</div>
 		         </div>
@@ -149,15 +165,15 @@
 	<div id="nologindiv" style="display: inline;">
 		<ul>
 			<li>
-            <div class="cartItems" onclick="window.location.href = '/dy/cart/view/gg.html?cmd=gcart';" style="cursor:pointer;">
+            <div class="cartItems desktopOnly" onclick="window.location.href = '/dy/cart/view/gg.html?cmd=gcart';" style="cursor:pointer;">
                <div class="redCircle" style="display:none;">
                   <div class="cartItemsCount">&nbsp;</div>
                </div>
             </div>
 			   <a href="/dy/cart/view/gg.html?cmd=gcart" class="givingCartLink" onclick="trackHeaderClick(this);">giving cart</a>
 		   </li>
-			<li><span id="signupRef"><a href="/dy/v2/login/form.html?show=createAccount&amp;andthen=https%3A//web.archive.org/web/20131128080938id_/http%253A//www.globalgiving.org/aboutus/privacypol.html" class="profile">create an account</a></span></li>
-			<li><span id="loginRef"><a href="/dy/v2/login/form.html?andthen=https%3A//web.archive.org/web/20131128080938id_/http%253A//www.globalgiving.org/aboutus/privacypol.html" class="login">login</a></span></li>
+			<li><span id="signupRef"><a href="/dy/v2/login/form.html?show=createAccount" class="profile" onclick="trackHeaderClick(this);">create an account</a></span></li>
+			<li><span id="loginRef"><a href="/dy/v2/login/form.html" class="login" onclick="trackHeaderClick(this);">login</a></span></li>
 		</ul>
 	</div> 
 	<!--end login area-->
@@ -165,15 +181,7 @@
 			    
 			</div>
 
-            <!-- Gift Card Holiday Callout -->
-		    
-				<div id="giftCardPromo">
-				    <a href="/gifts/" onclick="trackGiftClick(this)" ;=""></a>
-				    <!--
-				    <a href="/dy/gifts/personalize/gg.html?selectedDesign=63&media=&isGiftCertificate=true" onclick="trackGiftClick(this)";></a>
-					<a href="/redeem"  onclick="trackHeaderClick(this);"></a>
-				    -->
-				</div>
+            <!-- Gift Card Holiday Callout - Use true=false to turn it off for the rest of the year -->
 		    
 
 			<div id="nav"> 
@@ -223,12 +231,12 @@
 
 
  
-<div id="global_nav" class="about">
-	<div id="birdDiv" class=""> 
+<div id="global_nav" class="desktopOnly about">
+	<div id="birdDiv" class="desktopOnly"> 
 		&nbsp;
 	</div> 
 	<!--************* TABS *************-->
-	<ul id="global_nav_ul">
+	<ul id="global_nav_ul" onclick="if (document.documentElement.clientWidth < 640) {$(this).children().toggle();}">
 		<li id="donors">
 			<a href="/index.html" onclick="trackHeaderClick(this);">Donors</a>
 		</li>
@@ -243,7 +251,7 @@
 		</li>
 	</ul>
 </div>
-<div id="nav_about" class="aboutusHome">		
+<div id="nav_about" class="desktopOnly aboutusHome">		
         <!-- turn the correct subnav on -->
 		
 			
@@ -317,7 +325,7 @@
 		<!-- Search -->
 		<form id="searchbox" onsubmit="return true;" action="/dy/v2/content/search.html" method="get">  
 			<div>
-				<input type="text" name="q" id="search" maxlength="100">
+				<input name="q" id="search" maxlength="100" type="search" autosave="globalgiving">
 				<input type="submit" class="navSearchButton" value="">    
 			</div>
 		</form>
@@ -325,7 +333,7 @@
 </div>
 
 <!--sub nav -->
-<div id="sub_menu_div">
+<div id="sub_menu_div" class="desktopOnly">
 	<!--************* DONOR TAB > SUBNAV *************-->
 	
 
@@ -381,6 +389,7 @@
     
 </div>
    
+
      
 			</div>
 			
@@ -396,15 +405,13 @@
     
 	 
 	<!-- default template -->
-	<div id="siteWrapperDiv" class="siteWrapper">	<!-- START wrapper DIV --> 
-	<div id="whiteMarginBox"> 
-		<div id="mainHeader"><!-- START top  rounded corners-->
-			<div>
-				<div> 
-				</div>
-			</div>
-		</div><!-- END top rounded corners -->
-	<div class="container_12 contentBox"> 
+	<div id="siteWrapperDiv" class="siteWrapper fullWidth">	<!-- START wrapper DIV --> 
+	<div id="whiteMarginBox" class="clear"> 
+      <div id="mainHeader" class="clear"><!-- START top  rounded corners-->
+         <div class="roundedCorner left"></div>
+         <div class="roundedCorner right"></div>
+      </div><!-- END top rounded corners --> 
+	<div class="container_12"> 
     
  		 
 	
@@ -446,7 +453,7 @@
   </p>
  
  <div class="yellowCallout">
-<strong>If you have any questions about our privacy policy, please contact us at <script type="text/javascript">mkaddr("privacy")</script><a href="mailto:privacy@globalgiving.org" class="email">privacy@globalgiving.org</a>.</strong> 
+<strong>If you have any questions about our privacy policy, please contact us at <script type="text/javascript">mkaddr("privacy")</script><a href="mailto:privacy@globalgiving.com">privacy@globalgiving.com</a>.</strong> 
 </div>
  </div>
  
@@ -784,7 +791,7 @@ make changes to your information and update your account at any time.
   GlobalGiving<br> 
   <script type="text/javascript" language="JavaScript">
   mkaddr("privacy","Privacy Policy Inquiry");
-  </script><a href="mailto:privacy@globalgiving.org" class="email">privacy@globalgiving.org</a>
+  </script><a href="mailto:privacy@globalgiving.com">privacy@globalgiving.com</a>
   <br>1023 15th Street, NW
 <br>12th Floor
 <br>Washington, DC 20005
@@ -796,7 +803,7 @@ make changes to your information and update your account at any time.
   </p>
   
   <div class="yellowCallout">
-<strong>If you have any questions about our privacy policy, please contact us at <script type="text/javascript">mkaddr("privacy")</script><a href="mailto:privacy@globalgiving.org" class="email">privacy@globalgiving.org</a>.</strong> 
+<strong>If you have any questions about our privacy policy, please contact us at <script type="text/javascript">mkaddr("privacy")</script><a href="mailto:privacy@globalgiving.com">privacy@globalgiving.com</a>.</strong> 
 </div>
   
   <div class="pushTop10">
@@ -807,25 +814,25 @@ make changes to your information and update your account at any time.
 </div>
 
   
+<div class="clear"></div>
 </div> <!-- END container 12 for content -->
 <div id="mainFooter"><!-- START bottom  rounded corners-->
-	<div>
-		<div>
-		</div>
-	</div>
+   <div class="roundedCorner left"></div>
+   <div class="roundedCorner right"></div>
 </div><!-- END bottom  rounded corners-->
 </div> <!-- end white margin box --> 
+
 </div><!-- END wrapper DIV -->
-  
 
-<div id="footerWrapper" class="headerFooterWrapper">
-	<div id="footer" class="siteWrapper">
-        
-    		<div class="footerLine">
-	&nbsp;
-</div> 
-
-<div id="footerLinks">  
+      
+<div id="footerWrapper" class="headerFooterWrapper fullWidth desktopOnly">
+	<div id="footer" class="siteWrapper fullWidth">
+      <div class="footerLine">
+         &nbsp;
+      </div> 
+      
+     
+ 		<div id="footerLinks">  
 	<div class="container_12"> 
 		<div class="grid_12 alpha omega zeta">
 			<div class="grid_2 alpha">
@@ -905,17 +912,17 @@ make changes to your information and update your account at any time.
 		
 		<div class="grid_12 alpha omega center smallText">
 			<!-- Site Uptime Warning: GG.org looks for the EIN. If you edit the text, change settings in Site Uptime-->
-            <a href="/aboutus/">© 2000-2013 GlobalGiving Foundation, a 501(c)3 organization (EIN: 30-0108263)</a>. &nbsp;&nbsp;&nbsp; <a href="/contactus/">1023 15th Street, NW, 12th Floor, Washington, DC 20005</a><br>
+            <a href="/aboutus/">© 2000-2014 GlobalGiving Foundation, a 501(c)3 organization (EIN: 30-0108263)</a>. &nbsp;&nbsp;&nbsp; <a href="/contactus/">1023 15th Street, NW, 12th Floor, Washington, DC 20005</a><br>
         </div>
         
 	</div>
 	<div class="clear">&nbsp;</div>
 </div>
-   
-		
-		
+
+	  
+	
 		<div id="border-bottom">
-		</div>       
+		</div>
 	</div>
 </div>
 
