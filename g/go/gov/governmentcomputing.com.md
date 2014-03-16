@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the governmentcomputing.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210234855id_/http%3A//www.governmentcomputing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the governmentcomputing.com privacy policy that was archived on 2014-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140316143003id_/http%3A//www.governmentcomputing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Government Computing Network
 
