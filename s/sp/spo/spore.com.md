@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the spore.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016011139id_/http%3A//www.ea.com/global/legal/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spore.com privacy policy that was archived on 2014-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140316011540id_/http%3A//www.ea.com/global/legal/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-ELECTRONIC ARTS PRIVACY POLICY
+ELECTRONIC ARTS PRIVACY AND COOKIE POLICY
 
 Effective Date: June 28, 2013
 
