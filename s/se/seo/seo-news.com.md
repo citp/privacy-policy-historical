@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seo-news.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203093802id_/http%3A//www.seo-news.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo-news.com privacy policy that was archived on 2014-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140316151444id_/http%3A//www.seo-news.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - SEO News
 
