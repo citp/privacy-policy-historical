@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalgiving.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128080938id_/http%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgiving.com privacy policy that was archived on 2014-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140316214510id_/http%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.*
 
 # Privacy Policy - GlobalGiving
 
@@ -11,7 +11,7 @@ GlobalGiving adheres to the US Safe Harbor Privacy Principles of Notice, Choice,
 
 This policy describes what personal information we collect and how we use it. You can always find the most current version of our privacy policy at [www.globalgiving.org/aboutus/privacypol.html](https://web.archive.org/aboutus/privacypol.html). 
 
-**If you have any questions about our privacy policy, please contact us at[privacy@globalgiving.org](mailto:privacy@globalgiving.org).**
+**If you have any questions about our privacy policy, please contact us at[privacy@globalgiving.com](mailto:privacy@globalgiving.com).**
 
 ####  Information Collection 
 
@@ -118,7 +118,7 @@ You may contact us by using the “Contact Us” links on the footer of our site
 If you still have questions or concerns regarding our privacy policy write us at: 
 
 GlobalGiving  
-[privacy@globalgiving.org](mailto:privacy@globalgiving.org)   
+[privacy@globalgiving.com](mailto:privacy@globalgiving.com)   
 1023 15th Street, NW   
 12th Floor   
 Washington, DC 20005   
@@ -128,6 +128,6 @@ Phone: 202-232-5784
 Toll Free: 1-877-605-2314   
 Fax: 202-315-2558 
 
-**If you have any questions about our privacy policy, please contact us at[privacy@globalgiving.org](mailto:privacy@globalgiving.org).**
+**If you have any questions about our privacy policy, please contact us at[privacy@globalgiving.com](mailto:privacy@globalgiving.com).**
 
 Last Modified: November 6, 2013 
