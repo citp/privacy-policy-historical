@@ -1,36 +1,69 @@
-<!--The following is the downloaded HTML source of the golfdiscount.com privacy policy that was archived on 2013-08-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130812192848id_/http%3A//www.golfdiscount.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the golfdiscount.com privacy policy that was archived on 2014-03-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140317045617id_/http%3A//www.golfdiscount.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- Client header starts --><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-  <title>Privacy Pledge</title>
-  <meta name="description" content="GolfDiscount - FREE Shipping on most golf drivers, irons, balls and more!">
+  
+<title>Privacy Pledge</title>
+<meta name="description" content="GolfDiscount - FREE Shipping on most golf drivers, irons, balls and more!">
 
 
-  <link href="/assets/s2013a.css?1313712359" media="screen" rel="stylesheet" type="text/css">
-  <script type="text/javascript" async="" src="https://d3rmnwi2tssrfx.cloudfront.net/a.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script src="/assets/s2013a.js?1313712359" type="text/javascript"></script>
+
+  <link href="/assets/s2014b.css?1313712359" media="screen" rel="stylesheet" type="text/css">
+  <script type="text/javascript" async="" src="https://d3rmnwi2tssrfx.cloudfront.net/a.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script src="/assets/s2014b.js?1313712359" type="text/javascript"></script>
 
   <!-- Place this tag in the <head> of your document-->
-    <link href="https://plus.google.com/116912526060800492531?rel=author" rel="publisher">
+    <link href="https://plus.google.com/116912526060800492531" rel="publisher">
     
   <!--[if IE 7]>
   <link rel="stylesheet" type="text/css" href="/stylesheets/ie.css" media="screen"/><![endif]-->
   <script type="text/javascript">
-      var d = new Date();
-      var t = d.getTime();
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-198320-1']);
-      _gaq.push(['_trackPageview']);
+      $(document).ready(function(){
+          /* Get browser */
+          var ua = navigator.userAgent.toLowerCase();
+          var b = (/webkit/.test(ua) && /mobile/.test(ua)); // || /windows phone/.test(ua);
+          w = screen.availLeft + screen.availWidth;
+          /* Detect webkit or WP small browsers, presume mobile, unless we set mobile cookie */
+          if (b && w < 740 && !$.cookie("mobile")) {
+              $.get('/dynamic/mobile', function(data) {
+                  //alert("data=" + data);
+                  if (data == "true") {
+                      s = window.location.href;
+                      if (s.indexOf("?") >= 0) {
+                          s += "&";
+                      }
+                      else {
+                          s += "?";
+                      }
+                      s += "mobile=1";
+                      //alert('going to ' + s);
+                      window.location = s;
+                  }
+              });
+          }
+          //alert("webkit=" + b + ",w=" + w + ",cookie=" + $.cookie("mobile"));
 
-      (function() {
+      });
+
+    </script>
+  <script type="text/javascript">
+    var d = new Date();
+    var t = d.getTime();
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-198320-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
-      })();
-    </script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script>
-  
-  <!-- BEGIN: Google Trusted Store -->
+    })();
+</script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script>
+
+
+
+<!-- BEGIN: Google Trusted Store -->
 <script type="text/javascript">
     var gts = gts || [];
 
@@ -52,7 +85,8 @@
 </script>
 <!-- END: Google Trusted Store -->
 
-  <script type="text/javascript">
+
+<script type="text/javascript">
     var _springMetq = _springMetq || [];
     _springMetq.push(['id', '637593e4d8']);
     (
@@ -66,6 +100,8 @@
             }
             )();
 </script>
+
+
 </head>
 <body>
 <noscript>
@@ -76,12 +112,123 @@
 <div id="wrapper">
 <a href="#nav" class="hidden">Skip to navigation</a>
 <div class="w1">
+<div id="header">
+  <a class="hidden" href="#nav">Skip to navigation</a>
+  <div class="holder">
+  <ul class="menu">
+    <li>
+      <a href="/about_us">About Us</a>
+    </li>
+    <li>
+    <a href="/customers">My Account</a>
+    </li>
+    <li>
+    <a href="/tracking">Track Order</a>
+    </li>
+    <li>
+    <a href="/customer_service">Customer Service</a>
+    </li>
+  </ul>
+  <p style="float:left;">Serving Golfers Since 1977</p>
+  
+    <p style="float:left;margin-left:10.5em;display:none;" id="upper-navbar-contact">
+      1.800.394.GOLF      
+      <a href="http://myaccount.zendesk.com/account/dropboxes/20125528" onclick="Zenbox.show(); return false;">         
+        or Live Chat
+      </a>
+    </p>
+  
+</div>  
+  <div class="header-container">
+    <strong class="logo">
+      <a href="/">GolfDiscount.com</a>
+    </strong>
+
+    <div class="cart" id="cart">
+		<a href="/web/20130506184648/http://www.golfdiscount.com/store/shopping_cart">MY CART</a>
+      
+
+	</div>
+    <form id="old-search-form" class="search" action="/search" method="get" name="search1" page="1">
+      <input type="hidden" name="user_search" value="1">
+      <fieldset>
+        <legend class="hidden">
+          Search-form
+        </legend>
+        <input accesskey="4" name="search" title="Search..." type="text" class="text" value="Search..." onclick="clickclear(this, 'Search...');">
+        <input type="submit" class="btn" value="search">
+      </fieldset>
+    </form>                
+    <span class="contact" id="site-banner-none-contact" style="">
+  ORDER BY PHONE
+  <strong class="mark">1.800.394.GOLF</strong>
+  <span>(4653)</span>
+</span>
+    <div class="area" id="site-banner-none-livechat" style="">
+  <a class="header-chat" id="_lpChatBtn" href="http://myaccount.zendesk.com/account/dropboxes/20125528" onclick="script: Zenbox.show(); return false;">
+    <img class="right" src="/images/l/staff.gif" alt="Golf Experts" width="75" height="66" border="0/">
+    <span class="contact">
+          NEED HELP?
+          <strong class="mark">LIVE CHAT</strong>
+          <span>GOLF EXPERT </span>
+    </span>
+  </a>
+</div>
+    <style type="text/css">
+  #site-header-red-banner-wrapper {
+    width:345px;
+    height:65px;
+    position:relative;
+    float:left;
+    margin-top:-15px;
+    text-align:center;
+  }
+  #site-header-red-banner-wrapper .links {
+    position:absolute;
+    left:0;
+    bottom:0px;
+    text-align:center;
+    width:345px;
+    margin: auto;
+  }
+</style>
+
+<script type="text/javascript">
+  function GD_popup_open(link) {
+    var w = 350, h = 250;
+    var left = ~~((screen.width - w) / 2);
+    var top = ~~((screen.height - h) / 3);    
+    var options = [
+      'width=' + w, 'height=' + h,
+      'left=' + left, 'top=' + top,
+      'scrollbars=no'
+    ].join(',');
+    window.open(link, 'openWin', options);
+    return false;
+  };
+</script>
+
+<div id="site-header-red-banner-wrapper" style="display:none;">
+  <img src="/images/site_header_banner_red.png" width="345">
+  <div class="links">
+    <a href="/free_shipping.html" onclick="return GD_popup_open(this);">       
+    Free Shipping Over $99</a>
+    |
+    <a href="/shipping">Hassle Free Returns</a>
+    <br>
+    <a href="/no_sales_tax.html" onclick="return GD_popup_open(this);">No Sales Tax</a>
+    |
+    <a href="/return">Low Price Guarantee</a>
+  </div>
+</div>
+  </div>  
+</div>
 <div id="main">  
   <style type="text/css">
 /*
 #floating-social-share { position: absolute; top: 240px; left: -70px; }
 */
-#floating-social-share { position: absolute; top: 210px; right: 0; }
+#floating-social-share { position: absolute; top: 110px; right: 0; }
 </style>
 <div id="floating-social-share">
 <!-- AddThis Button BEGIN -->
@@ -101,7 +248,7 @@
 
                       
                       
-                          <a href="http://www.golfdiscount.com/2013_pga_championship_sale" onclick="_gaq.push(['_trackEvent', 'Banner', 'Top Banner', '/2013_pga_championship_sale']);"><img alt="2013 PGA Championship Sale - Save 15% on already discounted prices!" src="http://assets1.golfdiscount.com/ad_promotion/images/872/original/Home-Page-PGA-Promo.png?1375903264" style="margin-bottom:2px;"></a>
+                          <a href="/free_shipping_99" onclick="_gaq.push(['_trackEvent', 'Banner', 'Top Banner', '/free_shipping_99']);"><img alt="FREE Shipping on orders over $99" src="http://assets1.golfdiscount.com/ad_promotion/images/943/original/Free-Shipping-Top-Banner-99.png?1394478644" style="margin-bottom:2px;"></a>
                           
                       
     <!-- Client header ends -->
@@ -110,13 +257,13 @@
 <div class="content_header">PRIVACY PLEDGE</div>
 </div>
 <div style="border:solid 1px #CCC; padding:20px; font:normal 12px arial;">
-We share your concerns about privacy and how the information you submit to GolfDiscount.com is used. When you supply us with personal information, we make a committment to you that the information will be used for internal use only and no information will be sold, rented or loaned to any third party. This includes contact information like your name and e-mail address, financial information like your credit card number and demographic information such as your address.
+We share your concerns about privacy and how the information you submit to GolfDiscount.com is used. When you supply us with personal information, we make a commitment to you that the information will be used for internal use only and no information will be sold, rented or loaned to any third party. This includes contact information like your name and e-mail address, financial information like your credit card number and demographic information such as your address.
 <br><br>
 The information that we gather from you, our valued customer, is stored in our database on a secure server. When you place repeat orders from GolfDiscount.com, your personal information will be used to save you time by not having to ask for your name, address, phone, etc.
 <br><br>
 GolfDiscount.com may share additional personal and non-personal information with social media vendors, e.g. Facebook.
 <br><br>
-GolfDiscount.com occasionally sends special offers and discounts (weekly during season, bi-weekly other times) to those that request email alerts. There is an option to subscribe at checkout. Or, you can sign up from any page. An email will be sent to the address supplied to verify and confirm your desire to be added to the list. This prevents someone else from signing you up without your knowledge and reduces unwanted email. We do not "spam" anyone, but if your server does have anti-spam software, it may read it as such and block it. If you are on the list but don't seem to be getting our alerts, this may be the reason. Contact your email administrator for solutions. You can get off the list at anytime by simply sending a blank email to remove@golfdiscount.com.
+GolfDiscount.com occasionally sends special offers and discounts to those that request email alerts. There is an option to subscribe at checkout. Or, you can sign up from any page via the webform in the footer.  We do not "spam" anyone, but if your server does have anti-spam software, it may read it as such and block it. If you are on the list but don't seem to be getting our alerts, this may be the reason. Contact your email administrator for solutions. You can get off the list at anytime by simply sending a blank email to <a href="mailto:remove@golfdiscount.com?subject=Unsubscribe">remove@golfdiscount.com</a>.
 
 <br><br>
  
@@ -159,11 +306,11 @@ eval($('#site-l', data).html());
 
           });
       </script>
-                                                        </div></div>
-  <div class="nav-holder" style="z-index:9999;">
-<ul id="nav">
+  </div></div>
+  <div class="nav-holder">
+<ul id="nav" class=" scaling-active scaling-ready scaling-active scaling-ready">
 <li>
-  <a href="/all-brands">Shop By Brand</a>
+  <a href="/all-brands" style="width: 122px;">Shop By Brand</a>
 
   <div class="drop">
     <div class="drop-holder">
@@ -248,7 +395,7 @@ eval($('#site-l', data).html());
   </div>
 </li>
 <li>
-  <a href="/golf-clubs">Golf Clubs</a>
+  <a href="/golf-clubs" style="width: 97px;">Golf Clubs</a>
 
   <div class="drop size2" style="width:216px;">
     <div class="drop-holder">
@@ -297,7 +444,7 @@ eval($('#site-l', data).html());
   </div>
 </li>
 <li>
-  <a href="/golf-bags">Golf Bags</a>
+  <a href="/golf-bags" style="width: 90px;">Golf Bags</a>
 
   <div class="drop size2" style="width:216px;">
     <div class="drop-holder">
@@ -329,7 +476,7 @@ eval($('#site-l', data).html());
     </div> </div>
 </li>
 <li>
-  <a href="/golf-balls">Golf Balls</a>
+  <a href="/golf-balls" style="width: 94px;">Golf Balls</a>
 
   <div class="drop size2" style="width:206px;">
     <div class="drop-holder">
@@ -355,7 +502,7 @@ eval($('#site-l', data).html());
   </div>
 </li>
 <li>
-  <a href="/golf-shoes">Golf Shoes</a>
+  <a href="/golf-shoes" style="width: 100px;">Golf Shoes</a>
 
   <div class="drop size2" style="width:246px;">
 
@@ -385,7 +532,7 @@ eval($('#site-l', data).html());
   </div>
 </li>
 <li>
-  <a href="/accessories">Accessories</a>
+  <a href="/accessories" style="width: 109px;">Accessories</a>
 
   <div class="drop" style="width:400px;">
     <div class="drop-holder">
@@ -510,7 +657,7 @@ eval($('#site-l', data).html());
   </div>
 </li>
 <li>
-  <a href="/apparel">Apparel</a>
+  <a href="/apparel" style="width: 74px;">Apparel</a>
 
   <div class="drop size2">
     <div class="drop-holder">
@@ -541,23 +688,23 @@ eval($('#site-l', data).html());
   </div>
 </li>
 <li>
-  <a id="used-clubs" href="#" onclick="used_click('/search?sale_status=shop+worn');">Shop Worn Clubs</a>
+  <a id="used-clubs" href="/search?sale_status=shop+worn" "="" style="width: 144px;">Shop Worn Clubs</a>
 
   <div class="drop size2">
     <div class="drop-holder">
 
       <ul class="list">
         <li>
-          <a href="#" onclick="used_click('/shop-worn-drivers');">Drivers</a>
+          <a href="/shop-worn-drivers">Drivers</a>
         </li>
         <li>
-          <a href="#" onclick="used_click('/shop-worn-fairway-woods');">Fairway Woods</a>
+          <a href="/shop-worn-fairway-woods">Fairway Woods</a>
         </li>
         <li>
-          <a href="#" onclick="used_click('/shop-worn-hybrids');">Hybrids</a>
+          <a href="/shop-worn-hybrids">Hybrids</a>
         </li>
         <li>
-          <a href="#" onclick="used_click('/shop-worn-irons');">Irons</a>
+          <a href="/shop-worn-irons">Irons</a>
         </li>
       </ul>
 
@@ -565,7 +712,7 @@ eval($('#site-l', data).html());
   </div>
 </li>
 <li class="last">
-  <a href="/closeouts">
+  <a href="/closeouts" style="width: 145px;">
     <span>Closeouts</span>
   </a>
 
@@ -605,92 +752,22 @@ eval($('#site-l', data).html());
 </ul>
 </div>
 
-<script>
-    function used_click(href) {
-        $.get('/dynamic/used_click', function(data) {
-            location.href = href;
-        });
-        return false;
+</div>
+<script type="text/javascript">
+(function() {
+  $.get('/dynamic/site_header', function(result) {  
+    switch (result) {
+      case 'red':
+        $('#site-header-red-banner-wrapper').show();
+        $('#upper-navbar-contact').show();
+        break;
+      default:
+        $('#site-banner-none-contact').show();
+        $('#site-banner-none-livechat').show();
     }
-    $.get('/dynamic/used', function(data) {
-        if (data == "demo") {
-            $('#used-clubs').html("Demo Golf Clubs");
-        }
-    });
+  });
+})();
 </script>
-
-
-</div>
-<div id="header">
-  <a class="hidden" href="#nav">Skip to navigation</a>
-
-  <div class="holder">
-    <ul class="menu">
-      <li>
-      <a href="/customers">My Account</a>
-      </li>
-      <li>
-      <a href="/tracking">Track Order</a>
-      </li>
-      <li>
-      <a href="/customer_service">Customer Service</a>
-      </li>
-    </ul>
-    <p>
-      Serving Golfers Since 1977
-    </p>
-  </div>
-  <div class="header-container">
-    <strong class="logo">
-      <a href="/">GolfDiscount.com</a>
-    </strong>
-
-    <div class="cart" id="cart">
-
-      <a href="/store/shopping_cart">MY CART</a>
-      <span class="text">Loading...</span>
-
-      <div class="drop">
-        <div class="drop-holder">
-          <ul class="items-list">
-            <li></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-    <form id="old-search-form" class="search" action="/search" method="get" name="search1" page="1">
-      <input type="hidden" name="user_search" value="1">
-      <fieldset>
-        <legend class="hidden">
-          Search-form
-        </legend>
-        <input accesskey="4" name="search" title="Search..." type="text" class="text" value="Search..." onclick="clickclear(this, 'Search...');">
-        <input type="submit" class="btn" value="search">
-      </fieldset>
-    </form>
-
-
-						<span class="contact">
-							ORDER BY PHONE
-							<strong class="mark">1.800.394.GOLF</strong>
-							<span>(4653)</span>
-						</span>
-
-    <div class="area">
-      
-
-      	
-      	<a class="header-chat" id="_lpChatBtn" href="http://myaccount.zendesk.com/account/dropboxes/20125528" onclick="script: Zenbox.show(); return false;">
-      	<img class="right" src="/images/l/staff.gif" alt="Golf Experts" width="75" height="66" border="0/">
-							<span class="contact">
-								NEED HELP?
-								<strong class="mark">LIVE CHAT</strong>
-								<span>GOLF EXPERT </span>
-							</span>
-							</a>
-    </div>
-  </div>
-</div>
 <!-- Client navigation ends -->
 <!-- Client footer starts-->
 <div id="footer">
@@ -776,10 +853,7 @@ eval($('#site-l', data).html());
             <div class="contact-block">
               <h3>CONTACT US</h3>
               <strong>1.800.394.4653</strong>
-              <a class="live" href='javascript:var win = window.open("/chat", "openChat", "width=300, height=250, scrollbars=no");'>LIVE CHAT
-              	
-              	
-              	</a>
+              <a class="live" href="http://myaccount.zendesk.com/account/dropboxes/20125528" onclick="script: Zenbox.show(); return false;">LIVE CHAT</a>
             </div>
             <div class="contact-block">
               <h3>HOURS OF OPERATION</h3>
@@ -806,7 +880,6 @@ eval($('#site-l', data).html());
           <div class="span-10 footer-list">
             <h3>WHY GOLF DISCOUNT?</h3>
             <ul>
-              <li><a href="/rewards">Loyalty Rewards Program</a></li>
               <li>
               <a href='javascript:var win = window.open("/free_shipping.html", "openWin", "width=300, height=250, scrollbars=no")'>Free
                 Shipping!</a></li>
@@ -824,6 +897,7 @@ eval($('#site-l', data).html());
               <li><a href="/legal">Legal Policy</a></li>
               <li><a href="/trade_ins">Trade In Program</a></li>
               <li><a href="/golf_news">Newsroom</a></li>
+              <li><a href="/travel/index.html">Golf Travel</a></li>
             </ul>
           </div>
         </div>
@@ -901,22 +975,43 @@ eval($('#site-l', data).html());
 </div>
 </div>
 
+
 <script type="text/javascript" src="//assets.zendesk.com/external/zenbox/v2.5/zenbox.js"></script>
 <style type="text/css" media="screen, projection">
-  @import url(//assets.zendesk.com/external/zenbox/v2.5/zenbox.css);
+    @import url(//assets.zendesk.com/external/zenbox/v2.5/zenbox.css);
 </style>
 <script type="text/javascript">
-  if (typeof(Zenbox) !== "undefined") {
-    Zenbox.init({
-      dropboxID:   "20125528",
-      url:         "https://golfdiscount.zendesk.com",
-      tabID:       "Support",
-      tabColor:    "black",
-      tabPosition: "Left",
-      hide_tab: "true"
-    });
-  }
+    if (typeof(Zenbox) !== "undefined") {
+        Zenbox.init({
+            dropboxID:   "20125528",
+            url:         "//golfdiscount.zendesk.com",
+            tabID:       "Support",
+            tabColor:    "black",
+            tabPosition: "Left",
+            hide_tab: "true"
+        });
+    }
 </script>
+
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1072501748;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+  <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072501748/?value=0&amp;guid=ON&amp;script=0"/>
+  </div>
+</noscript>
 
 
 
@@ -957,8 +1052,8 @@ eval($('#site-l', data).html());
 
 
 <!-- End MyBuys Page Initialization -->
-<div id="tradedesk-pixel">
-</div>
+
+<div id="tradedesk-pixel"></div>
 <img src="//insight.adsrvr.org/track/conv/?ct=0:4iejnggj&amp;adv=fcxgc8by&amp;fmt=3" name="Trade Desk Tracking - Golfdiscount.com Sitewide Conversion" alt="">
 <script>
     $.get('/dynamic/tradedesk', function(data) {
@@ -966,5 +1061,11 @@ eval($('#site-l', data).html());
     });
 </script>
 
+
+<!-- Segment Pixel - GolfDiscount--Visitor  - DO NOT MODIFY -->
+<script src="http://ib.adnxs.com/seg?add=1078280&amp;t=1" type="text/javascript"></script>
+<!-- End of Segment Pixel -->
+
+
 <!-- Client footer ends -->
-</body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
