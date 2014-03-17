@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everythingkitchens.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208065344id_/http%3A//www.everythingkitchens.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everythingkitchens.com privacy policy that was archived on 2014-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140317054201id_/http%3A//www.everythingkitchens.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Everything Kitchens
 
@@ -30,7 +30,7 @@ We may employ third-party companies to perform functions on our behalf. These fu
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
 **Data Security**  
-Everything Kitchens LLC takes precautions to protect its customers' information. When you submit sensitive information via the Web site, your information is protected both online and offline. When you enter sensitive or personal information into our registration/order forms (such as your credit card number), this **information is encrypted and is protected with one of the top encryption softwares currently available  **in the industry: SSL. Everything Kitchens uses one of the most advanced forms of SSL software available: 256-bit encryption provided by GeoTrust.
+Everything Kitchens LLC takes precautions to protect its customers' information. When you submit sensitive information via the Web site, your information is protected both online and offline. When you enter sensitive or personal information into our registration/order forms (such as your credit card number), this **information is encrypted and is protected with one of the top encryption softwares currently available  **in the industry: SSL. Everything Kitchens uses one of the most advanced forms of SSL software available: 256-bit encryption provided by Comodo.
 
 All EverythingKitchens.com Web servers and database servers are housed and maintained in secure locations. Access to these servers are strictly monitored and protected from outside access. Internet access is restricted and protected by firewall's and password protection.
 
