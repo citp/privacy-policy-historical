@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelwithinfants.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207002200id_/http%3A//travelwithinfants.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelwithinfants.com privacy policy that was archived on 2014-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140317184433id_/http%3A//travelwithinfants.com/privacy-policy) for the most accurate reproduction.*
 
 # Travel with Infants | Privacy Policy
 
