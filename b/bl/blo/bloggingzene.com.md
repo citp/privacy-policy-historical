@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggingzene.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024105823id_/http%3A//bloggingzene.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingzene.com privacy policy that was archived on 2014-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140317074349id_/http%3A//bloggingzene.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BloggingZene.Com
 
@@ -57,7 +57,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://bloggingzene.com/contact-us/ "contact us") at:  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 Blogging Zene  
 [http://www.bloggingzene.com](http://www.bloggingzene.com/ "BloggingZene")  
 East Patel Nagar, Ward No. 10  
