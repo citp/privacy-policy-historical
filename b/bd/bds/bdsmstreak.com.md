@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bdsmstreak.com privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902215302id_/http%3A//www.bdsmstreak.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdsmstreak.com privacy policy that was archived on 2014-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140317021448id_/http%3A//www.bdsmstreak.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Tube - Bdsmstreak.com
+# Privacy Policy - Bdsmstreak.com
 
 ## PRIVACY
 
