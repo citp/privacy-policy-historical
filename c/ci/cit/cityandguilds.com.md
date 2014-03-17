@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityandguilds.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813060211id_/http%3A//www.cityandguilds.com/Help-and-Support/Website/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityandguilds.com privacy policy that was archived on 2014-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140317050449id_/http%3A//www.cityandguilds.com/help-and-support/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | City & Guilds
 
