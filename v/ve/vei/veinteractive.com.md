@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veinteractive.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510225044id_/http%3A//www.veinteractive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veinteractive.com privacy policy that was archived on 2014-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140317144343id_/http%3A//www.veinteractive.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ve Interactive
 
