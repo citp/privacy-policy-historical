@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loopup.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218071422id_/http%3A//loopup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopup.com privacy policy that was archived on 2014-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140317010607id_/http%3A//loopup.com/privacy.html) for the most accurate reproduction.*
 
 # LoopUp Privacy Policy | Teleconferencing & Web Conferencing Solutions
 
@@ -114,7 +114,7 @@ Separately, we reserve the right, in accordance with applicable law, to monitor 
 
 ### Cookies, Web Beacons etc
 
-Our site uses ‘cookies’ and web beacons, and when you use our services we use cookies, to deliver and optimize your experience. You can see more in our [Cookie Policy](https://web.archive.org/web/20131218071422id_/http%3A//loopup.com/docs/cookie_policy.html), which is part of (and incorporated into) this Privacy Policy. 
+Our site uses ‘cookies’ and web beacons, and when you use our services we use cookies, to deliver and optimize your experience. You can see more in our [Cookie Policy](https://web.archive.org/web/20140317010607id_/http%3A//loopup.com/docs/cookie_policy.html), which is part of (and incorporated into) this Privacy Policy. 
 
 ### Sensitive Personal Data
 
