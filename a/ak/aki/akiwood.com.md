@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akiwood.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906154556id_/http%3A//akiwood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akiwood.com privacy policy that was archived on 2014-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140317083338id_/http%3A//akiwood.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -75,4 +75,4 @@ This policy was last modified on February 10, 2011
 If there are any questions regarding this privacy policy you may contact us using the information below:
 
 Administrator  
-accounts@akiwood.com 
+accounts@akiwood.com
