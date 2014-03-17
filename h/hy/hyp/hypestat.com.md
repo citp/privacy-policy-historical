@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypestat.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109031702id_/http%3A//www.hypestat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypestat.com privacy policy that was archived on 2014-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140318000946id_/http%3A//www.hypestat.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HypeStat
 
