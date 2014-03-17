@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulbs.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923131343id_/http%3A//www.bulbs.com/yrprivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulbs.com privacy policy that was archived on 2014-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140317015348id_/http%3A//www.bulbs.com/yrprivacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Customer Service | Bulbs.com
 
@@ -95,7 +95,7 @@ Back to top
 
 ## How do I correct or update my account information and order(s)?
 
-If you would like to change, correct, or update your account information or your orders in any way prior to shipment, please contact our Customer Service representatives at 1.888.455.2800. 
+If you would like to change, correct, or update your account information or your orders in any way prior to shipment, please contact our Customer Service representatives at 1 (888) 455-2800. 
 
 If you have subscribed to our e-newsletter and would like to change the e-mail address for your subscription, please follow the instructions in the e-newsletter for unsubscribing with the old address, and then resubscribe with your new e-mail address. 
 
