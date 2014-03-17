@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zeetv.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210025452id_/http%3A//www.zeetv.com/aboutus/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeetv.com privacy policy that was archived on 2014-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140317065045id_/http%3A//www.zeetv.com/aboutus/privacy-policy.html) for the most accurate reproduction.*
 
-# Zee TV Official Website: Zee TV Shows & Serials, Watch Episodes Online at ZEETV.com
+# ZEE TV Official Website: ZEE TV Shows & Serials, Watch Full Episodes and Videos Online at ZEETV.com
 
 About www.zeetv.com  
 [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") is an official site of Zee Entertainment Enterprises Limited owned and managed by Zee Entertainment Enterprises Limited.  
