@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merledress.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817220907id_/http%3A//www.merledress.com/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merledress.com privacy policy that was archived on 2014-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140317080309id_/http%3A//www.merledress.com/privacy-notice.html) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -8,7 +8,7 @@ MerleDress.com respects your privacy and takes your online safety seriously. In 
 
 ### **MerleDress.com’s Privacy Policy**
 
-Thank you for accessing the website ("Site") of MerleDress.com Limited (all references to “us” and “our" refer to MerleDress.com). We respect your privacy and want you to know about the policies we have in place to protect your personal information.
+Thank you for accessing the website ("Site") of Dress Market Limited (all references to “us” and “our" refer to MerleDress.com). We respect your privacy and want you to know about the policies we have in place to protect your personal information.
 
 This Privacy Policy explains:  
 1\. how we collect, use, and (under certain conditions) disclose your personal information;  
