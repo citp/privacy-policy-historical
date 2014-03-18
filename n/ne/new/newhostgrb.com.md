@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newhostgrb.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017081548id_/http%3A//newhostgrb.com/security-and-privacy/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newhostgrb.com privacy policy that was archived on 2014-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140318071326id_/http%3A//newhostgrb.com/security-and-privacy/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - online poker room 888 poker - Play poker | 888poker
 
