@@ -1,24 +1,22 @@
-> *The following text is extracted and transformed from the subhub.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511023258id_/http%3A//www.subhub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subhub.com privacy policy that was archived on 2014-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140318215109id_/http%3A//www.subhub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | subhub.com
+# Privacy Policy - SubHub
 
-Transform your operations with SubHub’s membership management solution. SubHub can apply its membership expertise to help your organization:
+**[](http://www.subhub.com/)**
 
-  * Reduce costs
-  * Gain efficiency
-  * Eliminate confusion
-  * Increase member retention
-  * Generate revenue from members and non-members
+  * [](https://twitter.com/subhub "Twitter")
+  * [](https://www.facebook.com/subhub "Facebook")
+  * [](http://www.linkedin.com/company/subhub "Linkedin")
+  * [](https://plus.google.com/103812419050466071878 "Gplus")
+  * [](http://www.subhub.com/contact-us/ "Mail")
 
 
 
-SubHub understands what your organization needs to make the most of its membership data, while making it simple for staff to manage.
-
-**END USER PRIVACY AND COOKIE POLICY**
+You are here: [Home](http://www.subhub.com/ "SubHub") / Privacy Policy
 
 _**Welcome to our Privacy Policy.**_
 
-This document explains what we do with the personal information that you give us. If you have not already done so, please read our User Agreement before reading this Privacy Policy. In general, we use the personal information that we collect from you to allow you to use the services offered by our website including Paid-For Content (the “Service”). This Privacy Policy applies only to our Service and not to any other company, individual, organisation or website that you may reach via a link from our website, except for those companies we mention below. If at any time you have a question about anything contained in this Privacy Policy or a general query on privacy, please contact us.
+This document explains what we do with the personal information that you give us. If you have not already done so, please read our [User Agreemen](http://www.subhub.com/web-services-agreement/ "Web Services Agreement")t before reading this Privacy Policy. In general, we use the personal information that we collect from you to allow you to use the services offered by our website including Paid-For Content (the “Service”). This Privacy Policy applies only to our Service and not to any other company, individual, organisation or website that you may reach via a link from our website, except for those companies we mention below. If at any time you have a question about anything contained in this Privacy Policy or a general query on privacy, please [contact us](http://subhubcms.live.subhub.com/contactus).
 
 • Consent  
 • Registration  
@@ -43,6 +41,7 @@ Cookies are small files of information which are stored on your computer. Web si
 
 On revisiting our website or in using the files, our computer server will recognise the cookie and give us information about your use of the Site. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive cookies, you may still use the Site but you may find that the Site may not function properly or is slower than when you allow a cookie to be installed on your machine.
 
+Cookies are small text files held on your computer. They allow us to give you the best browsing experience possible and mean we can understand how you use our site. Some cookies have already been set. You can delete and block cookies but parts of our site won’t work without them. By using our website you accept our use of cookies.  
 **How we look after your information**
 
 We make sure that all the information we hold on you is as safe as possible. In addition, we have strict security procedures covering the storage and disclosure of your information in order to prevent unauthorised access and to comply with the UK Data Protection Act 1998. This means that sometimes we may ask you for proof of identity before disclosing any personal information to you.
@@ -51,16 +50,15 @@ SubHub does not store any customer credit card or debit card information on thei
 
 **What do we do with your information?**
 
-We use your information to process orders you make from our Site. We may contact you from time to time to let you know about our services which may include sending you newsletters and news on events that you may be interested in. You can elect not to receive such marketing material at any time by writing to info@subhub.com.
+We use your information to process orders you make from our Site. We may contact you from time to time to let you know about our services which may include sending you newsletters and news on events that you may be interested in. You can elect not to receive such marketing material at any time by writing to info@subhub.com
 
 **When do we give information that you provide us with to other people?**
 
-Apart from entities that are involved in helping us to run our Site, we never give your information to any third parties. The entities that help us run our site are SubHub, which provides hosting and design services to us, and SagePay [or other payment provider], which provides credit card payment processing services to us.  
-In order to buy material from our Site you will have to comply with the terms of our payment partner, SagePay, and will need to review and agree to SagePay’ Privacy Policy when you do so (see the SagePay terms and conditions at sagepay.com for further information). We and SagePay will share information with each other only to the extent necessary for the purposes of processing payments you make for materials from our Site and to enable us to retrieve payments from SagePay.
+Apart from entities that are involved in helping us to run our Site, we never give your information to any third parties. The entities that help us run our site are Internap, which provides hosting and SubHub, which provides design services to us, and Stripe [or other payment provider], which provides credit card payment processing services to us.
 
 SubHub provides the technology on which our Site runs and holds and maintains the databases in which data about our users is contained. SubHub will only use data you provide to the extent necessary to enable us to operate the Site.  
 We reserve the right to access and disclose individually identifiable information (i) to comply with applicable laws and government requests, (ii) to be able to operate our systems properly or (iii) to protect ourselves or our users.
 
 **How to contact us**
 
-If you ever want to change any information you have provided to us please contact us. You can always get in contact with us via email, the addresses below, send a fax or phone us.
+If you ever want to change any information you have provided to us please [contact us](http://subhubcms.live.subhub.com/categories/20060516). You can always get in contact with us via email, the address above, send a fax or phone us.
