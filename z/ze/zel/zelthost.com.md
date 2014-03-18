@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zelthost.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208113143id_/http%3A//www.zelthost.com/privecy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zelthost.com privacy policy that was archived on 2014-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140318193328id_/http%3A//www.zelthost.com/privecy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Information by ZeltHost Network™
 
