@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandrepublic.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203202619id_/http%3A//www.brandrepublic.com/go/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandrepublic.com privacy policy that was archived on 2014-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140318191207id_/http%3A//www.brandrepublic.com/go/privacy) for the most accurate reproduction.*
 
 # Privacy - Brand Republic - Connecting advertising, marketing, media & PR
 
