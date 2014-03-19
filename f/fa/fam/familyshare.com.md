@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the familyshare.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601060014id_/http%3A//familyshare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyshare.com privacy policy that was archived on 2014-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140319073417id_/http%3A//www.familyshare.com/privacy) for the most accurate reproduction.*
 
-# FamilyShare.com | Privacy Statement
+# Privacy Statement
 
 **General**. This website (the “Site”) is operated by Deseret Digital Media, Inc. ("Operator"). The following Privacy Statement (the "Statement") supplements the Terms of Use posted elsewhere at the Site. By using the Site, you agree to be bound by all of the terms, conditions and notices contained or referenced in the Statement or the Terms of Use. You should review the Statement and the Terms of Use from time to time. Operator may change any portion of the Statement or the Terms of Use at any time without notice by posting revisions to the Site. Your continued use of the Site constitutes your acceptance of the revised Statement and the Terms of Use. If you do not accept all of the terms and conditions set forth in the Statement and the Terms of Use, you must exit the Site immediately.
 
