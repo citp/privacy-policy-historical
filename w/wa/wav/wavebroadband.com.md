@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wavebroadband.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210200304id_/http%3A//www.wavebroadband.com/docs/Wave-Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wavebroadband.com privacy policy that was archived on 2014-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140319231157id_/http%3A//www.wavebroadband.com/docs/Wave-Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # 1-866-WAVE-123 • 1-866-928-3123 • WaveBroadband.com
 
