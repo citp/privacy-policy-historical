@@ -1,67 +1,53 @@
-> *The following text is extracted and transformed from the amateurscams.org privacy policy that was archived on 2011-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111028125853id_/http%3A//amateurscams.org/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateurscams.org privacy policy that was archived on 2014-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140319080600id_/http%3A//www.livexxxsexchat.com/privacy.html%3F) for the most accurate reproduction.*
 
-# Amateur Cams
+# Live Sex Chat - Privacy Policy
 
-## Amateur Cams Privacy Policy
+[Home](http://www.livexxxsexchat.com/) / Privacy Policy
 
-We have created this Privacy Policy in order to demonstrate our firm commitment to privacy. This Privacy Policy explains our practices with respect to the collection, use, and disclosure of personal and non-personal information provided by visitors to our web site. By using this site, you signify your assent to these our privacy practices and the terms and conditions of our web site. 
+By using our sites, you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion.
 
-If this policy is not agreeable to you, please do not use this site.
+LiveXXXSexChat respects and safeguards the privacy of every individual who visits our website. This Privacy Statement is a formal document that outlines the information which may be collected about you while you use LiveXXXSexChat, and how that information may be used. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit the LiveXXXSexChat website.
 
-###  WHAT TYPE INFORMATION IS COLLECTED?
+LiveXXXSexChat will not collect any personal identifying information about you (including, but not limited to, your name, address, telephone number, email address, Social Security number, bank account or credit card information, or any combination of data that could be used to identify you, such as birth date, zip code, and gender) unless you provide it to us voluntarily.
 
-####  Personal Information
+If you do not want your personal identifying information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please contact us at the email address listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files.
 
-We only collect personal information from visitors to our web site when they voluntarily provide it to us by completing our registration form or electing to use one of our services. We may require visitors to provide us with information including, but not limited to, their name, physical address, email address, birth date, credit card number, credit card expiration date, username, password, and on occasion a unique identifier (such as their mother’s maiden name). 
+When you do provide us with personal identifying information, such information will be gathered solely by LiveXXXSexChat, and is for use solely by LiveXXXSexChat and trusted partners. At any point where personal identifying information is requested, any information that is optional to provide, rather than mandatory, will be clearly marked as such. We may use personal identifying information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; and we may use that information to contact you. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services.
 
-####  Non-Personal Information
+LiveXXXSexChat may utilize electronic newsletters to reach all or a subset of all registered users, using the email address collected. Users may remove themselves from such mailing lists at any time by following the instructions that shall be sent as part of any of such mailings.
 
-When visitors access our web site, certain non-personal information may be collected from them including, but not limited to, their browser type (e.g., FireFox or Internet Explorer), operating system (e.g., Windows or Macintosh), IP address, and the domain name from which they accessed the site (e.g. google.com). In addition, we may collect information about visitors' browsing behavior, such as the date and time they visit the web site, the areas or pages of our web site that they visit, the amount of time spent viewing the site, the number of times the visitor returns to the site, and click-stream data. We use transparent tracking pixels to determine the number of web site visitors that have been sent to us through our affiliate network. We do not track any information about visitors once they leave our site. We may use cookies (small text files that are stored on visitors computers when they access our web site) to collect this information. Information collected through cookies may be combined with visitors' personal information. We may also allow unaffiliated third parties, such as advertisers, to serve cookies to visitors of our web site. Visitors are always free to decline cookies, but in doing so they may not be able to use certain features on our web site. The "help" segment of the toolbar on most browsers explains how to configure a browser to not accept new cookies, how to have the browser inform a user when they receive a new cookie, and how to erase cookies from their hard drives. 
+LiveXXXSexChat may request personal identifying information on specific pages that allow users to contact LiveXXXSexChat. Such information is being collected to assist us in solving a specific issue addressed by the user and/or to allow us to contact the user with an appropriate response.
 
-###  IN WHAT WAY DO WE USE YOUR PERSONAL AND NON-PERSONAL INFORMATION?
+There are a limited number of situations where we may disclose your personal information to others without first receiving your consent: (1) when legally ordered to do so by a lawful subpoena or court order, (2) if you violate or breach an agreement with us, (3) if we believe conduct by you will harm the property or rights of LiveXXXSexChat or those of LiveXXXSexChat customers or chat hosts, (4) under exigent circumstances to protect the physical safety of LiveXXXSexChat, its employees, users or the general public, (5) in connection with the sale of all or substantially all of our company’s assets or the sale of an entire web site or business division or (6) in order to validate credit card numbers for charging for fee services.
 
-Our goal in collecting personal information is to provide visitors with the most personalized web experience possible and our advertisers with an efficient means to reach the right audience. By knowing a little about our visitors, we are able to deliver more relevant content and advertisements, and provide better services. We may use information collected from visitors to our web site for any of the following purposes: (1) to send visitors information and promotional materials about our company, (2) to send visitors information and promotional materials from our marketing partners and third parties (such as advertisers on our web site), (3) to deliver targeted display advertisements and offers by email (by matching criteria provided by our advertisers with information collected from our visitors), (4) to contact visitors to our web site when necessary, (5) to allow one-click purchases or access to proprietary content by pre-populating fields, within registration or other transaction screens, with a visitor's name, billing address, and credit or charge card information (among other things), as provided by that visitor, (6) to help diagnose problems with our server, (7) to administer our web site, (8) to conduct internal reviews of our site (e.g., to determine the number of visitors to the site), (9) to help us better understand visitors' use of our site, and (10) to protect the security or integrity of our site. Non-personal information will be used for purposes of conducting internal reviews of the site, monitoring the site, and providing a greater online experience for our visitors. 
+Your browser offers so-called "cookies," which – if you allow their use – store small amounts of data on your computer about your visit to our site. Cookies assist us in tracking which of our features you like best. And when you re-visit our sites, cookies can enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally unless you specifically give us additional information.
 
-###  DO WE DISCLOSE YOUR INFORMATION?
+We may use cookies to:
 
-As a rule, we do not share or otherwise distribute our Subscribers' personal information, including email addresses (i.e. we do not share, sell, or distribute our email lists to third parties).  We may transfer or disclose information collected from visitors to our web site to our employees and independent contractors, to our parent company, subsidiaries and affiliates, and to our consultants, other business associates, and suppliers, if the disclosure will enable that party to perform a business, professional, or technical support function for us, or if required to do so by law.
+  * Deliver content specific to your interests.
+  * Save your password so you don’t have to re-enter it each time you visit our sites.
 
-###  WHAT SECURITY MEASURES DO WE TAKE TO PROTECT YOUR DATA?
 
-To help prevent unauthorized access, maintain data integrity, and ensure the appropriate use of information, we have put in place certain physical, electronic, and managerial procedures to safeguard and secure the information we collect from visitors to our web site. We use SSL (Secure Socket Layer) technology to protect any credit card information you provide us. We allow access to personal information only to persons and entities engaging in activities provided for by this Privacy Policy. Visitors should consider any communication that they transmit to us (such as data, questions or answers, comments, suggestions, or communications submitted to a chat room) to be non-confidential. We will not be liable or responsible if information that belongs to a visitor is intercepted and used by an unintended recipient. 
 
-###  WE PROTECT CHILDREN'S PRIVACY
+We do not use cookies to identify, monitor or track any personally identifiable information. Our cookies in and of themselves do not contain any personally identifiable information about you. We do not merge or associate our cookie information with any personally identifiable information obtained by us or from third parties.
 
-Protecting the privacy of children is VERY important to us. For that reason we do not structure any part of our site to attract anyone under the age of 18 (21 in some areas) and we do not allow anyone under the age of 18 (21 in some areas) to register and become a member of our site. 
+You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. However, note that if you reject some or all cookies, your experience at our sites and on other sites throughout the World Wide Web may not be complete. Some sites require cookies to function, such as those with e-commerce features. In addition, if you do not allow cookies, you will not be able to take advantage of personalized content delivery offered by us or other Internet sites.
 
-### CORPORATE CHANGES
+This site makes chat rooms available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. If you disclose your email address in a chat room or forum, you may receive unsolicited email or "spam". We cannot safeguard the privacy of any such information you choose to disclose online in this manner and you must do so carefully and at your own risk.
 
-In the event of a merger, acquisition, asset or stock sale, bankruptcy, or other asset transfer (regardless of legal formality), any of our assets may be transferred to a third party, including personal information collected from visitors to our web site. 
+Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Act of 1998 (COPA). COPA and its accompanying FTC regulation established United States federal law that protects the privacy of children using the Internet. LiveXXXSexChat does not knowingly collect contact or personal information from persons under 18. Our sites are not intended to solicit information of any kind from persons under 18, and we have designed our sites to block our knowing acceptance of information from persons under 18 wherever age related information is requested.
 
-###  ACCEPTANCE OF PRIVACY TERMS & CONDITIONS
+Members areas of LiveXXXSexChat may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@livexxxsexchat.com](https://web.archive.org/contactsupport.php?).
 
-By visiting this web site, you are agreeing to the practices described in this Privacy Policy. By visiting this site, you also accept, without limitation or qualification, all terms and conditions concerning the use of this site. We may at any time revise these terms and conditions. You are bound by any such revisions and should therefore periodically visit this page to review the then-current terms and conditions to which you are bound. To the extent that any of the third-party sites accessible through our web site (such as our advertisers) have different privacy practices from those stated in this Privacy Policy, those third-party privacy practices govern the collection and use of information you provide when visiting those sites. We are not responsible for the policies, content, and practices of other companies. 
+LiveXXXSexChat does not send unsolicited email to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from LiveXXXSexChat, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [Support](https://web.archive.org/contactsupport.php?).
 
-###  CHANGES TO THIS PRIVACY POLICY
+LiveXXXSexChat also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our Acceptable Use Policy. Some trusted partners may email a member to present special offers to our members. Further, according to our published policy, if LiveXXXSexChat becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, LiveXXXSexChat reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the LiveXXXSexChat program, termination of LiveXXXSexChat services, and forfeiture of all commissions.
 
-There may be times when we need to change the terms of this Privacy Policy. To ensure that you are aware of our current privacy practices, please bookmark this page and check back often. 
+If you have any questions about this Privacy Policy, please contact our customer service department at [support@livexxxsexchat.com](https://web.archive.org/contactsupport.php?) and provide us with your name, your LiveXXXSexChat login name, and any information you feel is important.
 
-### HOW TO CANCEL YOUR SUBSCRIPTION
+The address for correspondence by post is
 
-You can cancel your subscription online by visiting the Customer Service section of the site you joined.
-
-###  HOW CAN YOU ACCESS THE INFORMATION WE HAVE COLLECTED FROM YOU?
-
-Visitors who wish to access or change the information they provided to our web site, should visit the Customer Service section of this site and contact us via Email. 
-
-###  HOW CAN YOU CONTACT THE WEB SITE OPERATOR?
-
-Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this web site, should visit the Support section of this site and contact us via Email. 
-
-### HOW CAN YOU OPT OUT OF PROMOTIONAL EMAILS?
-
-At the bottom of every email we provide detailed opt out instructions along with a toll free number if you are having problems removing your name from the mailing list.  Alternatively, you can opt out by visiting the following URL: [ /optout.php](https://web.archive.org/optout.php).  Once you go here, enter the email address that is receiving emails and press the submit button.  This will permanently remove your name from the mailing list.
-
-© Copyright 2005-2011 Amateur Cams, All Rights Reserved.
-
-[Click Here to contact Customer Support](https://web.archive.org/web/20111028125853id_/http%3A//amateurscams.org/index.php?action=MailSupport)
+ICF Technology, Inc.  
+PO Box 21508  
+Seattle, WA 98111  
+USA 
