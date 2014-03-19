@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punchout2go.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016064442id_/http%3A//www.punchout2go.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punchout2go.com privacy policy that was archived on 2014-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140319235607id_/http%3A//www.punchout2go.com/about/privacy-policy) for the most accurate reproduction.*
 
 # PunchOut2Go :: Privacy Policy
 
@@ -8,9 +8,9 @@ Your privacy is very important to PunchOut2Go (www.punchout2go.com). This privac
 
 PunchOut2Go (www.punchout2go.com) may collect and use the following kinds of personal information:
 
-  * information about your use of this website (including form data); 
+  * information about your use of this website (including form data);
   * information that you provide using for the purpose of registering with the website (including purchase credentials);
-  * information about transactions carried out over this website; 
+  * information about transactions carried out over this website;
   * information that you provide for the purpose of subscribing to the website services; and
   * any other information that you send to PunchOut2Go (www.punchout2go.com).
 
@@ -65,6 +65,6 @@ This website contains links to other websites. PunchOut2Go (www.punchout2go.com)
 If you have any questions about this privacy policy or PunchOut2Go's treatment of your personal information, please write:
 
   * by email to info@punchout2go.com; or
-  * by mail to PunchOut2Go LLC, P.O. Box 216, Cape Charles, Virginia 23310.
+  * by mail to PunchOut2Go LLC, 3445 Seminole Trail #218, Charlottesville, Virginia 22911
 
 
