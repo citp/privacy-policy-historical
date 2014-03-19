@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the upnautoresponse.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213210748id_/http%3A//upnautoresponse.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upnautoresponse.com privacy policy that was archived on 2014-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140319233847id_/http%3A//upnautoresponse.com/privacy.php) for the most accurate reproduction.*
 
 # Ultimate Profits Network
 
-**
-
 NOTE: In this entire section UPN refers to Ultimate Profits Network
-
-**
 
 At Ultimate Profits Network we care how information about you is used and shared and we appreciate your trust.
 
@@ -22,23 +18,19 @@ By visiting any of the sites offered by Ultimate Profits Network you are accepti
 
 **Automatic Information:**
 
-> We receive and store certain types of information whenever you interact with us.
-> 
-> For example, like many Web sites, we use "cookies" and we obtain certain types of information when your Web browser accesses our sites. Examples of the information we collect and analyze include the Internet Protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locators (URL) click stream to, through, and from our Web site, including date and time. We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use.  
+> We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies" and we obtain certain types of information when your Web browser accesses our sites. Examples of the information we collect and analyze include the Internet Protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locators (URL) click stream to, through, and from our Web site, including date and time. We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use.  
 > 
 
 **What About Cookies?**
 
 > Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser. Besides using the information as described above, UPN utilizes cookies to control the flow of the ordering processes by maintaining the state of your online transactions.
 > 
-> Some of our business partners may use cookies on our site.
-> 
-> For Example, Payment Processors, Web Host Companies, Domain Registry etc.
+> Some of our business partners may use cookies on our site. For Example, Payment Processors, Web Host Companies, Domain Registry etc.
 > 
 > However, we have no access to or control over these cookies.  
 > 
 > 
-> Does Ultimate Profits Network Share My Information with Others?
+> **Does Ultimate Profits Network Share My Information with Others?**
 > 
 > Partners: We partner with other parties to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services.
 > 
@@ -89,7 +81,7 @@ By visiting any of the sites offered by Ultimate Profits Network you are accepti
 > 
 > Please Read Our FULL Terms and Conditions (Conditions of Use) by visiting the Link Below
 >
->> #### **[Ultimate Profits Network Terms and Conditions](https://web.archive.org/web/20131213210748id_/http%3A//upnautoresponse.com/terms.php)**  
+>> #### **[Ultimate Profits Network Terms and Conditions](https://web.archive.org/web/20140319233847id_/http%3A//upnautoresponse.com/terms.php)**  
 > 
 
 **Disclaimers to Member's Privacy**
@@ -108,9 +100,4 @@ By visiting any of the sites offered by Ultimate Profits Network you are accepti
 > 
 > All members are responsible for the confidentiality of their member log in name and password. Ultimate Profits Network and it's employees cannot be held liable for any breeches in security.
 > 
-> All members agree to receive emails from Ultimate Profits Network from time to time, as well as from their..
-
-[Potential Compensation](https://web.archive.org/web/20131213210748id_/http%3A//upnautoresponse.com/compplan.php) | [Terms & Conditions](https://web.archive.org/web/20131213210748id_/http%3A//upnautoresponse.com/terms.php) | [Privacy Policy](https://web.archive.org/web/20131213210748id_/http%3A//upnautoresponse.com/privacy.php) | [Refund Policy](https://web.archive.org/web/20131213210748id_/http%3A//upnautoresponse.com/refund.php) | [Contact Us](https://web.archive.org/web/20131213210748id_/http%3A//upnautoresponse.com/contactus.php)
-
-Copyright © 2013 Ultimate Profits Network - All rights reserved.  
-Powered by [TEAM IMPACT LLC](http://teamimpactllc.com/)
+> All members agree to receive emails from Ultimate Profits Network from time to time, as well as from their Team Members.
