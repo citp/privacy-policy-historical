@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhf.org.uk privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022102426id_/http%3A//www.bhf.org.uk/privacy-statement.aspx%3Fsc_id%3DFrontNAV-Footer-Privacy%2520Policy%26utm_source%3DFrontNAV-Footer-Privacy%2520Policy%26utm_medium%3DFrontNAV-Footer-Privacy%2520Policy%26utm_campaign%3DFrontNAV-Footer-Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhf.org.uk privacy policy that was archived on 2014-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140319065353id_/http%3A//www.bhf.org.uk/privacy-statement.aspx%3Fsc_id%3DFrontNAV-Footer-Privacy%2520Policy%26utm_source%3DFrontNAV-Footer-Privacy%2520Policy%26utm_medium%3DFrontNAV-Footer-Privacy%2520Policy%26utm_campaign%3DFrontNAV-Footer-Privacy%2520Policy) for the most accurate reproduction.*
 
 # British Heart Foundation - Privacy Statement
 
