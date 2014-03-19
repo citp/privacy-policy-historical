@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todaysoncology.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114073907id_/http%3A//www.todaysoncology.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todaysoncology.com privacy policy that was archived on 2014-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140319115925id_/http%3A//www.todaysoncology.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TodaysOncology.com
 
