@@ -1,8 +1,16 @@
-<!--The following is the downloaded HTML source of the bestday.com privacy policy that was archived on 2013-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131116121507id_/http%3A//www.bestday.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bestday.com privacy policy that was archived on 2014-03-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140319050833id_/http%3A//www.bestday.com/Privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<!DOCTYPE html><html><head><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-SH4C"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-3.newrelic.com","errorBeacon":"jserror.newrelic.com","licenseKey":"a580dcf8f2","applicationID":"3386504","transactionName":"Z1daZUsDXBZSAhUKXl4ddl5LD1MJWhsEBx4a","queueTime":0,"applicationTime":86,"ttGuid":"DE2EE592DF1CEBCD","agent":"js-agent.newrelic.com/nr-356.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vg4EUlRUGwADXFdXBwU="};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&&a("../../wrap-events"),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&&(h+=1)}),e.on("fn-err",function(a,b,d){g&&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&&!this.thrown&&h>0&&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f);for(var g=XMLHttpRequest.prototype;g&&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){var b=this.params,c=this.metrics;if(!this.ended){this.ended=!0;for(var d=0;j>d;d++)a.removeEventListener(i[d],this.listener,!1);if(!b.aborted){if(c.duration=(new Date).getTime()-this.startTime,4===a.readyState){if(b.status=a.status,a.responseText&&a.responseText.length&&(c.rxSize=a.responseText.length),this.sameOrigin){var f=a.getResponseHeader("X-NewRelic-App-Data");f&&(b.cat=f.split(", ").pop())}}else b.status=0;c.cbTime=this.cbTime,e("xhr",[b,c])}}}function c(a,b){var c=f(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function d(a,b){return b}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var e=a("handle"),f=a("./parse-url.js"),g=a("../../../wrap-function"),h=a("../../../contextual-ee"),i=["load","error","abort","timeout"],j=i.length,k=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),h.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=b,this.ended=!1,this.xhrGuids={}}),g.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",d),h.on("open-xhr-start",function(a){this.params={method:a[0]},c(this,a[1]),this.metrics={}}),h.on("open-xhr-end",function(a,b){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),h.on("send-xhr-start",function(a,b){var c=this.metrics,d=a[0],e=this;c&&d&&d.length&&(c.txSize=d.length),this.startTime=(new Date).getTime(),this.listener=function(a){"abort"===a.type&&(e.params.aborted=!0),("load"!==a.type||e.called===e.totalCbs&&(e.onloadCalled||"function"!=typeof b.onload))&&e.end(b)};for(var f=0;j>f;f++)b.addEventListener(i[f],this.listener,!1)}),h.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof c.onload||this.end(c)}),h.on("xhr-load-added",function(a,b){var c=""+k(a)+!!b;this.xhrGuids&&!this.xhrGuids[c]&&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),h.on("xhr-load-removed",function(a,b){var c=""+k(a)+!!b;this.xhrGuids&&this.xhrGuids[c]&&(delete this.xhrGuids[c],this.totalCbs-=1)}),h.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&h.emit("xhr-load-added",[a[1],a[2]],b)}),h.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&h.emit("xhr-load-removed",[a[1],a[2]],b)}),h.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&&("onload"===c&&(this.onload=!0),("load"===(a[0]&&a[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),h.on("fn-end",function(a,b){this.xhrCbStart&&h.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&&e[1]&&(d.port=e[1].split("/")[0].split(":")[1]),d.port&&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&&b.port===c.port&&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&&"function"==typeof a&&a.apply&&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&&"function"==typeof f&&f.apply&&!f._wrapped&&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",2,7]);</script>
+<!-- begin Convert Experiments code--><script type="text/javascript">var _conv_host = (("https:" == document.location.protocol) ? "https://d9jmv9u00p0mv.cloudfront.net" : "http://cdn-1.convertexperiments.com");document.write(unescape("%3Cscript src='" + _conv_host + "/js/10002367-10002499.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://d9jmv9u00p0mv.cloudfront.net/js/10002367-10002499.js" type="text/javascript"></script><!-- end Convert Experiments code -->
     <title>Privacy Policy</title>
+    <link rel="canonical" href="http://www.bestday.com/Privacy/">
+    <link rel="alternate" hreflang="es-ar" href="http://www.bestday.com.ar">
+    <link rel="alternate" hreflang="pt-br" href="http://www.bestday.com.br">
+    <link rel="alternate" hreflang="es-cl" href="http://www.bestday.cl">
+    <link rel="alternate" hreflang="es-co" href="http://www.bestday.com.co">
+    <link rel="alternate" hreflang="es-mx" href="http://www.bestday.com.mx">
+    <link rel="alternate" hreflang="es-uy" href="http://www.bestday.com.uy">
     <meta charset="UTF-8">
     <meta name="keywords" content="privacy policy">
     <meta name="description" content="Travelers Holding, INC. has created this privacy policy in order to demonstrate our firm commitment to privacy.">
@@ -11,16 +19,14 @@
     <meta name="classification" content="Travel">
     <meta name="distribution" content="Global">
     <meta name="copyright" content="Viajes Beda, S.A. de C.V.">
-    <link rel="alternate" hreflang="es-ar" href="http://www.bestday.com.ar">
-    <link rel="alternate" hreflang="pt-br" href="http://www.bestday.com.br">
-    <link rel="alternate" hreflang="es-cl" href="http://www.bestday.cl">
-    <link rel="alternate" hreflang="es-co" href="http://www.bestday.com.co">
-    <link rel="alternate" hreflang="es-mx" href="http://www.bestday.com.mx">
-    <link rel="alternate" hreflang="es-uy" href="http://www.bestday.com.uy">
-    <link rel="stylesheet" type="text/css" href="//cdn.bestday.com/_lib/css/bestday/defaultOld.css?v=20131001.01" media="screen">
+    <link rel="stylesheet" type="text/css" href="//cdn.bestday.com/_lib/css/bestday/defaultBD.css?v=20140305" media="screen">
+    <link rel="stylesheet" type="text/css" href="//cdn.bestday.com/_lib/css/bestday/defaultOld.css?v=20140305" media="screen">
+    <link rel="stylesheet" type="text/css" href="//cdn.bestday.com/_lib/css/bestday/static-content.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="//cdn.bestday.com/_lib/css/bestday/search-forms.css" media="screen">
     <link rel="shortcut icon" href="//images.bestday.com/_lib/images/bestday/favicon.ico" type="image/x-icon">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-SH4C"></script><script> dataLayer = [{  'gtmAsoc': 'bestday'  ,'gtmSID': 'p3165734'  ,'gtmPagType': 'About_Us'  ,'gtmPagSType': 'Privacy_Policy'  ,'gtmLogin': 'Logged-out'  ,'gtmDestination': '0'  ,'gtmCountry': ''  ,'gtmRooms': '1'  ,'gtmAdults': '2'  ,'gtmChildren': '0'  ,'gtmCatSearch': ''  ,'gtmDateIn': '2013-11-23'  ,'gtmDateOut': '2013-11-27'  ,'gtmProductType': ''  ,'gtmProductId': '0'}];</script><!-- Google Tag Manager --><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-SH4C" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-SH4C');</script><!-- End Google Tag Manager -->
-<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
+<script> dataLayer = [{  'gtmAsoc': 'bestday'  ,'gtmSID': 'p3165732'  ,'gtmPagType': 'About_Us'  ,'gtmPagSType': 'Privacy_Policy'  ,'gtmLogin': 'Logged-out'  ,'gtmDestination': '0'  ,'gtmCountry': ''  ,'gtmRooms': '1'  ,'gtmAdults': '2'  ,'gtmChildren': '0'  ,'gtmCatSearch': ''  ,'gtmDateIn': '2014-3-26'  ,'gtmDateOut': '2014-3-30'  ,'gtmProductType': ''  ,'gtmProductId': '0'}];</script><!-- Google Tag Manager --><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-SH4C" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-SH4C');</script><!-- End Google Tag Manager -->
+
+</head>
 <body>
 <div class="overlay_wait" style="display: none;"></div>
 <div id="content-pages" class="WaitPage box-white" style="display: none;">
@@ -75,99 +81,112 @@
 
 <div id="wrapper">
 <div id="header">
-<form id="settings"> 
-    <input type="hidden" id="asoc" value="">    <input type="hidden" id="currentcountry" value="US">    <input type="hidden" id="images" value="//images.bestday.com/_lib/images/bestday">    <input type="hidden" id="vimages" value="//images.bestday.com/_lib/vimages">    <input type="hidden" id="cdn" value="//images.bestday.com">    <input type="hidden" id="api" value="//api.bestday.com/1.5">    <input type="hidden" id="taxes" value="1">    <input type="hidden" id="currency" value="US">    <input type="hidden" id="conversionFactor" value="1">    <input type="hidden" id="currencySite" value="US">    <input type="hidden" id="currencysymbol" value="US$"></form> 
- <div id="top-header">
-     <a href="/" class="logo"><img src="//images.bestday.com/_lib/images/bestday/bestday-travel-USA.png" title="Bestday USA - The Best Travel Experiencie" alt="Bestday USA - The Best Travel Experiencie"></a>
-     <ul class="help-assitance">
-         <li class="btn-dropdown">
- <span class="content-drop">
-     <span class="show-drop">
- 		<img class="headerIcons phone" src="//images.bestday.com/_lib/images/bestday/sprite.gif"><span class="country-number">1.800.593.6259</span>
- 	</span>
-</span>
-     <span id="help-desk" class="dropdown">
- 	    <p>
- 	        <span><img class="sprite main-country" id="us" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="United States">United States - <span>1.800.593.6259</span></span><span class="client-attention">Mon-Fri (7am-2am), Sat (7am-1am), Sun (7am-10pm)</span>
- 	    </p>
-     <ul id="country-assistance">
-         <li>
-             <span class="country-name">Latin America:</span>
-             <ul class="latam">
-                  <li><span><img class="sprite" id="ar" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="Argentina">Argentina: <strong>0810.122.4683</strong></span></li>
-                  <li><span><img class="sprite" id="br" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="Brazil">Brazil: <strong>0800.522.7826</strong></span></li>
-                  <li><span><img class="sprite" id="cl" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="Chile">Chile: <strong>0800.835.256</strong></span></li>
-                  <li><span><img class="sprite" id="co" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="Colombia">Colombia: <strong>01.800.952.0633</strong></span></li>
-                  <li><span><img class="sprite" id="mx" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="Mexico">Mexico: <strong>01.800.237.8329</strong></span></li>
-                  <li><span><img class="sprite" id="uy" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="Uruguay">Uruguay: <strong>000.405.210.133</strong></span></li>
-             </ul>
-         </li>
-         <li>
-             <ul class="only-usa">
-                   <li class="other-countries"><span class="country-name">Rest of the World: <span class="worldFix"><img src="//images.bestday.com/_lib/images/bestday/world-icon.gif" alt="other countries">+52(998)287.3674</span></span></li>
-             </ul>
-         </li>
-     </ul>
- 	</span>
-         </li>
-         <li class="btn-dropdown">
-    <span class="content-drop">
-           <span class="show-drop">
-               <img class="headerIcons currency" src="//images.bestday.com/_lib/images/bestday/sprite.gif">US$
-           </span>
-    </span>
-    <div id="world-coin" class="dropdown"> <span><img src="//images.bestday.com/_lib/images/bestday/arrow-green.png" width="20px" style="padding-right: 5px;margin-bottom: -2px;">American Dollars US$</span>
-        <ul id="countrySelect" class="currency">
-            <li data-value="PE">Mexican Pesos MXN$</li>
-            <li data-value="PA">Argentinian Pesos AR$</li>
-            <li data-value="RE">Reales R$</li>
-            <li data-value="PC">Pesos Chilenos $</li>
-        </ul>
-    <form name="frmCurrency" method="post" action="/Privacy/">
-         <input id="MonedaPresenta" type="hidden" name="MonedaPresenta" value="US">
-       <input type="hidden" name="Navegador_CountryCode" value="US">
-       <input type="hidden" name="Navegador_RegionCode" value="NA">
-       <input type="hidden" name="Navegador_ISP" value="NA">
-       <input type="hidden" name="SesionHorarios_BESTDAY" value="Mon-Fri (7am-2am), Sat (7am-1am), Sun (7am-10pm)">
-       <input type="hidden" name="anio_desde" value="2013">
-       <input type="hidden" name="mes_desde" value="11">
-       <input type="hidden" name="dia_desde" value="23">
-       <input type="hidden" name="anio_hasta" value="2013">
-       <input type="hidden" name="mes_hasta" value="11">
-       <input type="hidden" name="dia_hasta" value="27">
-       <input type="hidden" name="num_adultos" value="2">
-       <input type="hidden" name="num_ninos" value="0">
-       <input type="hidden" name="num_cuartos" value="1">
-       <input type="hidden" name="destino141" value="ya">
+   <form id="settings"> 
+       <input type="hidden" id="asoc" value="">
+       <input type="hidden" id="currentcountry" value="US">
+       <input type="hidden" id="images" value="//images.bestday.com/_lib/images/bestday">
+       <input type="hidden" id="vimages" value="//images.bestday.com/_lib/vimages">
+       <input type="hidden" id="cdn" value="//images.bestday.com">
+       <input type="hidden" id="api" value="//api.bestday.com/1.6.0.1">
+       <input type="hidden" id="taxes" value="1">
+       <input type="hidden" id="currency" value="US">
+       <input type="hidden" id="conversionFactor" value="1">
+       <input type="hidden" id="currencySite" value="US">
+       <input type="hidden" id="currencysymbol" value="US$">
+       <input type="hidden" id="ab" value="1">
+   </form> 
+   <div id="top-header">
+       <a href="/" class="logo"><img src="//images.bestday.com/_lib/images/bestday/bestday-travel-USA.png" title="Bestday USA - The Best Travel Experiencie" alt="Bestday USA - The Best Travel Experiencie"></a>
+       <ul class="help-assitance">
+           <li class="btn-dropdown">
+               <span class="content-drop">
+                   <span class="show-drop">
+ 		                <img class="headerIcons phone" src="//images.bestday.com/_lib/images/bestday/sprite.gif"><span class="country-number">1.800.593.6259</span>
+ 	                </span>
+               </span>
+               <span id="help-desk" class="dropdown">
+                   <p>
+                       <span><img class="sprite main-country" id="us" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="United States">United States - <span>1.800.593.6259</span></span><span class="client-attention">Mon-Fri (7am-2am), Sat (7am-1am), Sun (7am-10pm)</span>
+                   </p>
+                   <ul id="country-assistance">
+                       <li>
+                           <span class="country-name">Latin America:</span>
+                           <ul class="latam">
+                             <li><span><img class="sprite" id="ar" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="Argentina">Argentina: <strong>0810.122.4683</strong></span></li>
+                              <li><span><img class="sprite" id="br" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="Brazil">Brazil: <strong>0800.522.7826</strong></span></li>
+                             <li><span><img class="sprite" id="cl" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="Chile">Chile: <strong>0800.835.256</strong></span></li>
+                             <li><span><img class="sprite" id="co" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="Colombia">Colombia: <strong>01.800.952.0633</strong></span></li>
+                              <li><span><img class="sprite" id="mx" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="Mexico">Mexico: <strong>01.800.237.8329</strong></span></li>
+                             <li><span><img class="sprite" id="uy" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="Uruguay">Uruguay: <strong>000.405.210.133</strong></span></li>
+                           </ul>
+                       </li>
+                       <li>
+                           <ul class="only-usa">
+                               <li class="other-countries"><span class="country-name">Rest of the World: <span class="worldFix"><img src="//images.bestday.com/_lib/images/bestday/world-icon.gif" alt="other countries">+52(998)287.3674</span></span></li>
+                           </ul>
+                       </li>
+                   </ul>
+               </span>
+           </li>
+           <li class="btn-dropdown">
+               <span class="content-drop">
+                   <span class="show-drop">
+                       <img class="headerIcons currency" src="//images.bestday.com/_lib/images/bestday/sprite.gif">US$
+                   </span>
+               </span>
+               <div id="world-coin" class="dropdown"> <span><img src="//images.bestday.com/_lib/images/bestday/arrow-green.png" width="20px" style="padding-right: 5px;margin-bottom: -2px;">American Dollars US$</span>
+                   <ul id="countrySelect" class="currency">
+                      <li data-value="PE">Mexican Pesos MXN$</li>
+                      <li data-value="PA">Argentinian Pesos AR$</li>
+                      <li data-value="RE">Reales R$</li>
+                      <li data-value="PC">Pesos Chilenos $</li>
+                   </ul>
+                   <form name="frmCurrency" method="post" action="/Privacy/">
+                       <input id="MonedaPresenta" type="hidden" name="MonedaPresenta" value="US">
+                       <input type="hidden" name="Navegador_CountryCode" value="US">
+                       <input type="hidden" name="Navegador_RegionCode" value="NA">
+                       <input type="hidden" name="Navegador_ISP" value="NA">
+                       <input type="hidden" name="SesionHorarios_BESTDAY" value="Mon-Fri (7am-2am), Sat (7am-1am), Sun (7am-10pm)">
+                       <input type="hidden" name="MonedaOff" value="US">
+                       <input type="hidden" name="anio_desde" value="2014">
+                       <input type="hidden" name="mes_desde" value="3">
+                       <input type="hidden" name="dia_desde" value="26">
+                       <input type="hidden" name="anio_hasta" value="2014">
+                       <input type="hidden" name="mes_hasta" value="3">
+                       <input type="hidden" name="dia_hasta" value="30">
+                       <input type="hidden" name="num_adultos" value="2">
+                       <input type="hidden" name="num_ninos" value="0">
+                       <input type="hidden" name="num_cuartos" value="1">
+                       <input type="hidden" name="hotel499" value="ya">
 
-    </form>
-    </div>
-         </li>
-         <li class="btn-dropdown">
-     <span class="content-drop">
-         <span class="show-drop">
-             <img class="sprite" id="us" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="United States">US
-         </span>
-     </span>
-     <div id="bestday-zone" class="dropdown">
-         <ul id="country">
-<li><a href="http://www.bestday.com.ar"><span><img class="sprite" id="ar" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="Argentina">Argentina - <span>Bestday.com.ar</span></span></a></li>
-<li><a href="http://www.bestday.com.br"><span><img class="sprite" id="br" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="Brazil">Brazil - <span>Bestday.com.br</span></span></a></li>
-<li><a href="http://www.bestday.cl"><span><img class="sprite" id="cl" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="Chile">Chile - <span>Bestday.cl</span></span></a></li>
-<li><a href="http://www.bestday.com.co"><span><img class="sprite" id="co" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="Colombia">Colombia - <span>Bestday.com.co</span></span></a></li>
-<li><a href="http://www.bestday.com.mx"><span><img class="sprite" id="mx" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="Mexico">Mexico - <span>Bestday.com.mx</span></span></a></li>
-<li><a href="http://www.bestday.com.uy"><span><img class="sprite" id="uy" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="Uruguay">Uruguay - <span>Bestday.com.uy</span></span></a></li>
-         </ul>
-         <div id="language">
-             <img src="//images.bestday.com/_lib/images/bestday/img-world.gif" alt="Bestday.com">
-             <span class="first">Best Day in:</span>
-         <p><a href="http://www.bestday.com"><span>English</span></a>
-            <a href="http://www.bestday.com.mx"><span>Spanish</span></a>
-            <a href="http://www.bestday.com.br"><span>Portuguese</span></a></p>
-         </div>
-     </div>
-         </li>
-         <li id="account-dropdown" class="btn-dropdown last">
+                   </form>
+               </div>
+           </li>
+           <li class="btn-dropdown">
+               <span class="content-drop">
+                   <span class="show-drop">
+                       <img class="sprite" id="us" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="United States">US
+                   </span>
+               </span>
+               <div id="bestday-zone" class="dropdown">
+                   <ul id="country">
+                     <li><a href="http://www.bestday.com.ar"><span><img class="sprite" id="ar" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="Argentina">Argentina - <span>Bestday.com.ar</span></span></a></li>
+                      <li><a href="http://www.bestday.com.br"><span><img class="sprite" id="br" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="Brazil">Brazil - <span>Bestday.com.br</span></span></a></li>
+                     <li><a href="http://www.bestday.cl"><span><img class="sprite" id="cl" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="Chile">Chile - <span>Bestday.cl</span></span></a></li>
+                     <li><a href="http://www.bestday.com.co"><span><img class="sprite" id="co" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="Colombia">Colombia - <span>Bestday.com.co</span></span></a></li>
+                      <li><a href="http://www.bestday.com.mx"><span><img class="sprite" id="mx" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="Mexico">Mexico - <span>Bestday.com.mx</span></span></a></li>
+                     <li><a href="http://www.bestday.com.uy"><span><img class="sprite" id="uy" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="Uruguay">Uruguay - <span>Bestday.com.uy</span></span></a></li>
+                   </ul>
+                   <div id="language">
+                       <img src="//images.bestday.com/_lib/images/bestday/img-world.gif" alt="Bestday.com">
+                       <span class="first">Best Day in:</span>
+                       <p><a href="http://www.bestday.com"><span>English</span></a>
+                       <a href="http://www.bestday.com.mx"><span>Spanish</span></a>
+                       <a href="http://www.bestday.com.br"><span>Portuguese</span></a></p>
+                   </div>
+               </div>
+           </li>
+           <li id="account-dropdown" class="btn-dropdown last">
 				<span id="login-btn" class="content-drop"><span class="show-drop"> <img class="headerIcons user" src="//images.bestday.com/_lib/images/bestday/sprite.gif"> <span id="your-account">Your Account</span><span class="user-logged"> </span>
 				</span> <!--.content-drop  -->
 				</span>
@@ -195,10 +214,9 @@
 										</li>
 									</ul>
 									<div class="user-new">
-									<span>Are you registered?</span>
-                                     <small><a href="https://www.bestday.com/MyAccount/Register/">Create an account here</a></small>
+									    <span>Are you registered?</span>
+                                       <small><a href="https://www.bestday.com/MyAccount/Register/">Create an account here</a></small>
 									</div>
-									
 								</fieldset>
 							</form>
 						</li>
@@ -209,57 +227,55 @@
 							</div>
 						</li>
 						<li id="logged-mode">
-						<img src="//images.bestday.com/_lib/images/bestday/sprite.gif" class="sprite">
-						<div id="user-info">
-							<span>Hello</span>
-							<span class="name-user">
-								
-							</span>
-							<span class="blue-btn">My Profile</span>
-						</div>
-						<span class="close">Log Out</span>
+						    <img src="//images.bestday.com/_lib/images/bestday/sprite.gif" class="sprite">
+						    <div id="user-info">
+						        <span>Hello</span>
+					            <span class="name-user"></span>
+							    <span class="blue-btn">My Profile</span>
+				            </div>
+					        <span class="close">Log Out</span>
 						</li>				
 						<li id="recover-section" class="account-recover-section">
 							<form id="formRecoverPass" method="post">
-							<fieldset>
-								<ul>
-									<li>
-										<span>Enter your registered email.</span>
-									</li>
-									<li>
-										<label for="register-email-field">Email</label>
-										<input type="text" id="register-email-field" name="email-field" class="icon-envelope email required">
-									</li>
-									<li>
-										<button type="submit" id="submit-recover-form">Recover password</button>
-										<a href="#" class="backButton" id="show-login-section">Back</a>
-									</li>
-								</ul>
-							</fieldset>
-						</form>
+						        <fieldset>
+								    <ul>
+									    <li>
+										    <span>Enter your registered email.</span>
+                                       </li>
+	    								<li>
+		    								<label for="register-email-field">Email</label>
+			    							<input type="text" id="register-email-field" name="email-field" class="icon-envelope email required">
+				    					</li>
+					    				<li>
+						    				<button type="submit" id="submit-recover-form">Recover password</button>
+							    			<a href="#" class="backButton" id="show-login-section">Back</a>
+                                       </li>
+	    							</ul>
+		    					</fieldset>
+			    			</form>
 						</li><!-- #recover-section -->
 						<li id="message-log" class="message-recover-pass">
 							<p>Check your email and click the link to reset your password.</p>
 							<button type="button" id="recover-pass-log-form">Login</button>
-						
 						</li>
 					</ul>
-				</div><!-- #login  -->
-         </li>
-     </ul>
- </div>
- <div id="bottom-header">
-     <ul id="menu">
-         <li><a alt="Home" title="Travel USA" href="/" class="active">Home</a></li>
-         <li><a alt="Hotels" title="USA Hotels" href="/Hotels/">Hotels</a></li>
-         <li><a alt="Vacation Packages" title="USA Vacation Packages" href="/Packages/">Hotel + Flight</a></li>
-         <li><a alt="Flights" title="USA Cheap Flights" href="/Flights/">Flights</a></li>
-         <li><a alt="Tours" title="USA Tours and Activities" href="/Tours/">Tours</a></li>
-         <li><a alt="Shuttles" title="USA Shuttles" href="/Transfers/">Shuttles</a></li>
-         <li><a alt="Car Rental" title="USA Car Rental" href="/Cars/">Cars</a></li>
-     </ul>
-      <a alt="Deals" title="USA Hotel Deals" href="/Deals/" class="offer"><span>Deals</span> </a>
- </div>
+               </div><!-- #login  -->
+           </li>
+       </ul>
+   </div>
+   <div id="bottom-header">
+       <ul id="menu">
+           <li><a alt="Home" title="Travel USA" href="/" class="active">Home</a></li>
+           <li><a alt="Hotels" title="USA Hotels" href="/Hotels/">Hotels</a></li>
+           <li><a alt="Vacation Packages" title="USA Vacation Packages" href="/Packages/">Hotel + Flight</a></li>
+           <li><a alt="Flights" title="USA Cheap Flights" href="/Flights/">Flights</a></li>
+           <li><a alt="Tours" title="USA Tours and Activities" href="/Tours/">Tours</a></li>
+           <li><a alt="Shuttles" title="USA Shuttles" href="/Transfers/">Shuttles</a></li>
+           <li><a alt="Car Rental" title="USA Car Rental" href="/Cars/">Cars</a></li>
+       </ul>
+       <a alt="Deals" title="USA Hotel Deals" href="/Deals/" class="offer"><span>Deals</span></a>
+   </div>
+
 </div>
 
 
@@ -275,12 +291,12 @@
 <div id="landing-hotel" class="static-tabs-content" style="display:block;">
      <form id="hotels-form" name="formahotel" method="get" action="">
          <input type="hidden" name="GAcat" value="SearchHotels">
-<input type="hidden" name="dia_desde" id="dayArrival" class="dayArrival" value="23">
-<input type="hidden" name="mes_desde" id="monthArrival" class="monthArrival" value="11">
-<input type="hidden" name="anio_desde" id="yearArrival" class="yearArrival" value="2013">
-<input type="hidden" name="dia_hasta" id="dayDeparture" class="dayDeparture" value="27">
-<input type="hidden" name="mes_hasta" id="monthDeparture" class="monthDeparture" value="11">
-<input type="hidden" name="anio_hasta" id="yearDeparture" class="yearDeparture" value="2013">
+           <input type="hidden" name="dia_desde" id="dayArrival" class="dayArrival" value="26">
+           <input type="hidden" name="mes_desde" id="monthArrival" class="monthArrival" value="3">
+           <input type="hidden" name="anio_desde" id="yearArrival" class="yearArrival" value="2014">
+           <input type="hidden" name="dia_hasta" id="dayDeparture" class="dayDeparture" value="30">
+           <input type="hidden" name="mes_hasta" id="monthDeparture" class="monthDeparture" value="3">
+           <input type="hidden" name="anio_hasta" id="yearDeparture" class="yearDeparture" value="2014">
          <input type="hidden" name="asoc" value="">
          <input type="hidden" name="cadena" id="fCadena" value="">
          <fieldset class="schedule">
@@ -296,8 +312,8 @@
                  </li>
                  <li>
                      <ul>
-                         <li><label for="check-inH">Arrival</label><input type="text" id="check-inH" name="check" class="icon-calendar"></li>
-                         <li class="last"><label for="check-outH">Departure</label><input type="text" id="check-outH" name="check" class="icon-calendar-out"></li>
+                         <li><label for="check-inH">Arrival</label><input type="text" id="check-inH" name="check-inH" class="icon-calendar"></li>
+                         <li class="last"><label for="check-outH">Departure</label><input type="text" id="check-outH" name="check-outH" class="icon-calendar-out"></li>
                      </ul>
                  </li>
              </ul>
@@ -375,7 +391,6 @@
          </fieldset>
      </form>
 </div>
-
 <div id="landing-package" class="static-tabs-content">
      <form id="package-form" name="formapackage" method="get" action="/Packages/Results/">
          <input type="hidden" name="GAcat" value="SearchPackages">
@@ -384,15 +399,13 @@
          <input type="hidden" name="Package" value="YES">
          <input type="hidden" name="asoc" value="">
          <input type="hidden" name="pBAereopuerto_Destino" value="">
-         <input type="hidden" name="PKfechaFrom" id="PKfechaFrom" value="23-11-2013" readonly="readonly" onchange="FechaGet(document.formapackage.PKfechaFrom,document.formapackage.anio_desde, document.formapackage.mes_desde, document.formapackage.dia_desde)">
-         <input type="hidden" name="PKfechaTo" id="PKfechaTo" value="27-11-2013" readonly="readonly" onchange="FechaGet(document.formapackage.PKfechaTo,document.formapackage.anio_hasta, document.formapackage.mes_hasta, document.formapackage.dia_hasta)">
          <input type="hidden" name="TipoVuelo" value="round" id="TipoVuelo">
-<input type="hidden" name="dia_desde" id="dayArrival" class="dayArrival" value="23">
-<input type="hidden" name="mes_desde" id="monthArrival" class="monthArrival" value="11">
-<input type="hidden" name="anio_desde" id="yearArrival" class="yearArrival" value="2013">
-<input type="hidden" name="dia_hasta" id="dayDeparture" class="dayDeparture" value="27">
-<input type="hidden" name="mes_hasta" id="monthDeparture" class="monthDeparture" value="11">
-<input type="hidden" name="anio_hasta" id="yearDeparture" class="yearDeparture" value="2013">
+           <input type="hidden" name="dia_desde" id="dayArrival" class="dayArrival" value="26">
+           <input type="hidden" name="mes_desde" id="monthArrival" class="monthArrival" value="3">
+           <input type="hidden" name="anio_desde" id="yearArrival" class="yearArrival" value="2014">
+           <input type="hidden" name="dia_hasta" id="dayDeparture" class="dayDeparture" value="30">
+           <input type="hidden" name="mes_hasta" id="monthDeparture" class="monthDeparture" value="3">
+           <input type="hidden" name="anio_hasta" id="yearDeparture" class="yearDeparture" value="2014">
          <fieldset>
              <ul>
                  <li class="destiny-search">
@@ -402,10 +415,10 @@
                  </li>
                  <li class="destiny-search">
                      <label for="ciudades">Destination</label>
-                     <input type="text" name="ciudades" id="ciudades" value="" class="icon-origin uneqTo_Leavingfrom ui-autocomplete-input" maxlength="120" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
-                     <input id="CodeAirportArrive" class="required differentOf" data-other-reference="ciudades" type="hidden" value="" name="CodeAirportArrive">
+                     <input type="text" name="ciudades" id="ciudades" value="" class="icon-origin required ui-autocomplete-input" maxlength="120" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+                     <input id="CodeAirportArrive" class="required uneqTo" data-other-reference="ciudades" type="hidden" data-second-input="#bCodeAirport" value="" name="CodeAirportArrive">
+                     <input id="Destino" type="hidden" name="Destino" value="0">
                      <input id="Clav_Ciudad" type="hidden" name="Clav_Ciudad" value="">
-                     <input id="Destino" type="hidden" name="Destino" value="">
                  </li>
                  <li>
                      <ul>
@@ -422,7 +435,7 @@
              </ul>
          </fieldset>
          <fieldset>
-             <span class="switchAcordeon">Advanced Hotel Preferences<img class="arrows" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="Advanced Hotel Preferences"> </span>
+             <span class="switchAcordeon">Advanced Preferences<img class="arrows" src="//images.bestday.com/_lib/images/bestday/sprite.gif" alt="Advanced Preferences"> </span>
              <ul class="containerToSwitch">
                  <li class="check-direct-fly">
                      <label for="direct-flight" class="check-direct"><input type="checkbox" id="direct-flight" name="direct">Nonstops Only</label>
@@ -463,7 +476,7 @@
                      <select id="airline-name-flight" name="aerolinea">
                          <option value="">All Airlines</option>
                          <option value="4O">Interjet</option>
-                         <option value="5Q">Busquebus</option>
+                         <option value="5Q">Buquebus</option>
                          <option value="AA">American Airlines</option>
                          <option value="AC">Air Canada</option>
                          <option value="AD">Azul</option>
@@ -473,6 +486,7 @@
                          <option value="AS">Alaska Airlines</option>
                          <option value="AU">Austral Lineas Aereas</option>
                          <option value="AV">Avianca</option>
+                         <option value="AY">Finn Arlines</option>
                          <option value="AZ">Alitalia</option>
                          <option value="B6">Jet Blue</option>
                          <option value="BA">British Airways</option>
@@ -481,6 +495,7 @@
                          <option value="CO">Continental</option>
                          <option value="DL">Delta Air Lines</option>
                          <option value="EK">Emirates Airlines</option>
+                         <option value="EQ">Transportes Aereos Militates Ecuat</option>
                          <option value="ET">Ethiopian Airlines</option>
                          <option value="EY">Etihad Airways</option>
                          <option value="F9">Frontier Airlines</option>
@@ -488,6 +503,7 @@
                          <option value="G3">Gol</option>
                          <option value="H2">Sky Airlines</option>
                          <option value="HA">Hawaiian Airlines</option>
+                         <option value="I2">MUNICH</option>
                          <option value="IB">Iberia Airlines</option>
                          <option value="JJ">TAM Linhas Aéreas</option>
                          <option value="JL">Japan Airlines</option>
@@ -498,6 +514,7 @@
                          <option value="LH">Lufthansa</option>
                          <option value="LP">LanPeru</option>
                          <option value="LR">LACSA</option>
+                         <option value="LX">Swiss</option>
                          <option value="LY">El Al Israel Airlines Limited</option>
                          <option value="MP">Martinair</option>
                          <option value="NH">All Nippon Airways</option>
@@ -519,11 +536,12 @@
                          <option value="UA">United Airlines</option>
                          <option value="UP">Bahamasair</option>
                          <option value="US">US Airways</option>
+                         <option value="UX">Air Europa</option>
                          <option value="VB">VivaAerobus</option>
                          <option value="VW">Aeromar</option>
+                         <option value="VY">Vueling Airlines</option>
                          <option value="WH">Webjet</option>
                          <option value="WS">Westjet Airlines Ltd</option>
-                         <option value="Y4">Volaris</option>
                      </select>
                  </li>
              </ul>
@@ -607,8 +625,11 @@
 </div>
      </div>
 </div> 
+
+
 </div>
 <div id="Right">
+<input type="hidden" id="pathServerImages" value="/_Lib/Images/Bestday/">
 <h1 class="TituloSub">Privace Notice</h1><table width="100%" cellspacing="0" cellpadding="2" border="0">
 
 
@@ -683,9 +704,12 @@
 <div class="push">
 </div>
 <div id="footer">
-<div id="footer-content">
-<div id="community-elements">
-<form id="form-subscriber">
+   <div id="footer-content">
+       <div id="community-elements">
+           <a class="blue-btn" id="check-reservation" onclick="javascript:window.open('/PrintVoucher/','Print', 'top=25,left=25,width=750,height=500,buttons=no,scrollbars=yes,location=no,menubar=no,resizable=no,status=no,directories=no,toolbar=no');" target="_blank">
+               View&nbsp;your&nbsp;reservation<span>»</span>
+           </a> <!-- #check-reservation -->
+<form id="form-subscriber" method="post" action="http://bestday.emsecure.net/optiext/optiextension.dll?ID=GidGhesCe8H1u8Gcx9yMzHdDWR_PnZGu%2Bk%2B%2BJkEW8Zl_ZZ_qrEDpiCo8C30NNKtAcE9bjteAiL59HyzkA8">
 <fieldset>
 <h5>
 Subscribe to our newsletter
@@ -706,145 +730,133 @@ Subscribe
 <span id="newsletter-thank-msg"></span>
 </fieldset>
 </form>
-<a class="blue-btn" id="check-reservation" onclick="javascript:window.open('/PrintVoucher/','Print', 'top=25,left=25,width=750,height=500,buttons=no,scrollbars=yes,location=no,menubar=no,resizable=no,status=no,directories=no,toolbar=no');" target="_blank">
-View&nbsp;your&nbsp;reservation<span>»</span>
-</a>
-<!-- #check-reservation -->
-<ul class="RedesFooter">
-    <li class="FacebookFooter">
-        <a href="" target="_blank">
-            <img class="SpriteRed AlFacebook" src="/_lib/images/bestday/sprite.gif">
-            <span>Facebook</span>
-        </a>
-    </li>
-    <li class="TwitterFooter">
-        <a href="" target="_blank">
-            <img class="SpriteRed AlTwitter" src="/_lib/images/bestday/sprite.gif">
-            <span>Twitter</span>
-        </a>
-    </li>
-    <li class="YoutubeFooter">
-        <a href="http://www.youtube.com/user/BestDayMexico" target="_blank">
-            <img class="SpriteRed AlYoutube" src="/_lib/images/bestday/sprite.gif">
-            <span>Youtube</span>
-        </a>
-    </li>
-    <li class="GoogleFooter">
-        <a href="http://plus.google.com/114007746679782566519/posts" target="_blank">
-            <img class="SpriteRed AlGoogle" src="/_lib/images/bestday/sprite.gif">
-            <span>Google +</span>
-        </a>
-    </li>
-</ul>
-<!-- #social-network -->
-<ul class="privacy">
-<li>
-<a href="/Terms_Conditions/">Terms and Conditions</a>
-</li>
-<li>
-<a href="/Privacy/">Privacy Notice</a>
-</li>
-<li>
-<a href="/Security/">Security</a>
-</li>
-</ul>
+           <ul class="RedesFooter">
+               <li class="FacebookFooter">
+                   <a href="" rel="nofollow" target="_blank">
+                       <img class="SpriteRed AlFacebook" src="/_lib/images/bestday/sprite.gif">
+                       <span>Facebook</span>
+                   </a>
+               </li>
+               <li class="TwitterFooter">
+                   <a href="" rel="nofollow" target="_blank">
+                       <img class="SpriteRed AlTwitter" src="/_lib/images/bestday/sprite.gif">
+                       <span>Twitter</span>
+                   </a>
+               </li>
+               <li class="YoutubeFooter">
+                   <a href="http://www.youtube.com/user/BestDayMexico" rel="nofollow" target="_blank">
+                       <img class="SpriteRed AlYoutube" src="/_lib/images/bestday/sprite.gif">
+                       <span>Youtube</span>
+                   </a>
+               </li>
+               <li class="GoogleFooter">
+                   <a href="http://plus.google.com/114007746679782566519/posts" rel="nofollow" target="_blank">
+                       <img class="SpriteRed AlGoogle" src="/_lib/images/bestday/sprite.gif">
+                   <span>Google +</span>
+                   </a>
+               </li>
+           </ul> <!-- #social-network -->
+       </div> <!--end #community-elements -->
+       <div id="footer-links">
+           <ul>
+           <li class="loMasBuscado">
+               <h5>Popular Searches</h5>
+               <ul>
+                   <li><a href="/Cancun/HotelBooking/" title="Cancun Hotels" target="">Cancun Hotels</a></li>
+                   <li><a href="/The-Bahamas/HotelBooking/" title="Las Bahamas Hotels" target="">Las Bahamas Hotels</a></li>
+                   <li><a href="/Las-Vegas-area-Nevada/HotelBooking/" title="Las Vegas Hotels" target="">Las Vegas Hotels</a></li>
+                   <li><a href="/New-York-City-area/HotelBooking/" title="New York City Hotels" target="">New York City Hotels</a></li>
+               </ul>
+           </li>
+               <li class="last">
+                   <h5>Best Day</h5>
+                   <ul>
+                       <li>
+                           <a href="http://www.bestday.com.mx">Bestday.com.mx - México</a>
+                       </li>
+                       <li>
+                           <a href="http://www.bestday.com.ar">Bestday.com.ar - Argentina</a>
+                       </li>
+                       <li>
+                           <a href="http://www.bestday.com.br">Bestday.com.br - Brasil</a>
+                       </li>
+                       <li>
+                           <a href="http://www.bestday.cl">Bestday.cl - Chile</a>
+                       </li>
+                       <li>
+                           <a href="http://www.bestday.com.uy">Bestday.com.uy - Uruguay</a>
+                       </li>
+                       <li>
+                           <a href="http://www.bestday.com.co">Bestday.com.co - Colombia</a>
+                       </li>
+                       <li>
+                           <a href="http://www.bestday.com">Bestday.com - USA</a>
+                       </li>
+                   </ul>
+               </li>
+           </ul>
+       </div> <!--end #footer-links -->
+   </div> <!--end #footer-content -->
+   <div class="privacyContainer">
+       <ul class="privacy">
+           <li>
+               <a href="/Destinations_United_States/">Destinations</a>
+           </li>
+           <li>
+               <a href="/Sitemap/">Site Map</a>
+           </li>
+           <li>
+               <a href="/Weather/">Weather</a>
+           </li>
+           <li>
+               <a href="/Editorial/">Editorial</a>
+           </li>
+           <li>
+               <a href="/Privacy/" rel="nofollow">Privacy Notice</a>
+           </li>
+           <li>
+               <a href="/About_Us/" rel="nofollow">About Us</a>
+           </li>
+           <li>
+               <a href="/ContactUs/" rel="nofollow">Contact Us</a>
+           </li>
+           <li>
+               <a class="noBusyBox" href="http://extranetbeta.bestday.com/HOME/REGISTER" rel="nofollow" target="_blank">Add your Property</a>
+           </li>
+           <li>
+               <a href="/Terms_Conditions/" rel="nofollow">Terms and Conditions</a>
+           </li>
+           <li class="last">
+               <a href="/Security/" rel="nofollow">Security</a>
+           </li>
+       </ul>
+       <p class="visit">You can visit us at more than 100 sales stands in shopping malls in Mexico</p>
+   </div>
+   <div id="legal-elements">
+       <p>
+			© Viajes Beda S.A. de C.V. 1984 - 2014. All rights reserved. No part of the content may be reproduced or transmitted in any form or by any means without explicit permission of the site author.<br>It is the responsibility of the hotel chain
+			and/or the individual property to ensure the accuracy of the photos displayed. It is not our responsibility for any inaccuracies in the photos.
+		</p>
+       <div id="partners">
+           <img src="//images.scanalert.com/meter/www.bestday.com.mx/55.gif?lang=ES">
+           <img class="last" src="//images.bestday.com/_lib/images/bestday/logo-trip-advisor.jpg">
+       </div> <!--end #partners -->
+   </div> <!--end #legal-elements -->
+
 </div>
-<!--end #community-elements -->
-<div id="footer-links">
-<ul>
-<li>
-     <h5>Popular Searches</h5>
-         <ul>
-                 <li><a href="/Las-Vegas-area-Nevada/HotelBooking/" title="Las Vegas Hotels" target="">Las Vegas Hotels</a></li>
-                 <li><a href="/New-York-City-area/HotelBooking/" title="New York City Hotels" target="">New York City Hotels</a></li>
-                 <li><a href="/Cancun/HotelBooking/" title="Cancun Hotels" target="">Cancun Hotels</a></li>
-                 <li><a href="/The-Bahamas/HotelBooking/" title="Las Bahamas Hotels" target="">Las Bahamas Hotels</a></li>
-         </ul>
-</li>
-<li>
-    <h5>Our Services</h5>
-    <ul>
-        <li>
-            <a href="/Destinations_United_States/">Destinations</a>
-        </li>
-        <li>
-            <a href="/Sitemap/">Site Map</a>
-        </li>
-        <li>
-            <a href="/Weather/">Weather</a>
-        </li>
-        <li>
-            <a href="/Editorial/">Editorial</a>
-        </li>
-        <li>
-            <a href="/Privacy/">Privacy Notice</a>
-        </li>
-        <li>
-            <a href="/About_Us/">About Us</a>
-        </li>
-        <li>
-            <a href="/ContactUs/">Contact Us</a>
-        </li>
-        <li>
-            <a class="noBusyBox" href="http://extranetbeta.bestday.com/HOME/REGISTER" rel="nofollow" target="_blank">Add your Property</a>
-        </li>
-    </ul>
-</li>
-<li class="last">
-<h5>Best Day</h5>
-<ul>
-<li>
-<a href="http://www.bestday.com.mx">Bestday.com.mx - México</a>
-</li>
-<li>
-<a href="http://www.bestday.com.ar">Bestday.com.ar - Argentina</a>
-</li>
-<li>
-<a href="http://www.bestday.com.br">Bestday.com.br - Brasil</a>
-</li>
-<li>
-<a href="http://www.bestday.cl">Bestday.cl - Chile</a>
- </li>
-<li>
-<a href="http://www.bestday.com.uy">Bestday.com.uy - Uruguay</a>
-</li>
-<li>
-<a href="http://www.bestday.com.co">Bestday.com.co - Colombia</a>
-</li>
-<li>
-<a href="http://www.bestday.com">Bestday.com - USA</a>
-</li>
-</ul>
-</li>
-</ul>
-<p>You can visit us at more than 100 sales stands in shopping malls in Mexico</p>
-</div>
-<!--end #footer-links -->
-</div>
-<!--end #footer-content -->
-<div id="legal-elements">
-<p>© Viajes Beda S.A. de C.V. 1984 - 2013. All rights reserved. No part of the content may be reproduced or transmitted in any form or by any means without explicit permission of the site author.<br>It is the responsibility of the hotel chain
-            and/or the individual property to ensure the accuracy of the photos displayed. It is not our responsibility for any inaccuracies in the photos.</p>
-<div id="partners">
-<img src="//images.scanalert.com/meter/www.bestday.com.mx/55.gif?lang=ES">
-<img class="last" src="//images.bestday.com/_lib/images/bestday/logo-trip-advisor.jpg">
-</div>
-<!--end #partners -->
-</div>
-<!--end #legal-elements -->
-</div>
-<script type="text/javascript" src="//cdn.bestday.com/_lib/js/defaultBDI.js?v=20131001.01"></script>
-<script type="text/javascript" src="//cdn.bestday.com/_lib/js/homeNew.js?v=20131001.01"></script>
-<script type="text/javascript" src="//cdn.bestday.com/_lib/js/accountSessionBD.js?v=20131001.01"></script>
-<script type="text/javascript" src="//cdn.bestday.com/_lib/js/defaultOldBD.js?v=20131001.01"></script>
-<script type="Text/JavaScript" src="//cdn.bestday.com/_lib/js/pageInfoBD.js?v=20131001.01"></script>
  <script type="text/javascript">
-     BD.settings.searchForms.initRoomsValues={"adultosCombo":9,"adultoCombo_selected":2,"ninosCombo":8,"ninoCombo_selected":0,"edadesNinosCombo":17,"cuartos":[{"cuarto": 1,"adultos": 2,"ninos": 0}]};    BD.settings.searchForms.roomsDetails=[{'Adults':2,'Children':0}];
+     var BD=window.BD||{};BD.settings=BD.settings||{};BD.settings.searchForms = BD.settings.searchForms || {};     BD.settings.searchForms.initRoomsValues=     {         hotel:    {adultosCombo:9,adultoCombo_selected:2,ninosCombo:8,ninoCombo_selected:0,edadesNinosCombo:17,cuartos:[{cuarto: 1,adultos: 2,ninos: 0}]},         "package":    {adultosCombo:9,adultoCombo_selected:2,ninosCombo:8,ninoCombo_selected:0,edadesNinosCombo:17,cuartos:[{cuarto: 1,adultos: 2,ninos: 0}]},         flight:     {adultosCombo:9,adultoCombo_selected:2,ninosCombo:8,ninoCombo_selected:0,edadesNinosCombo:12,cuartos:[]}     };    BD.settings.searchForms.roomsDetails=[{'Adults':2,'Children':0}];
 </script>
+<script type="text/javascript" src="//cdn.bestday.com/_lib/js/bestday/defaultBDI.js?v=20140305"></script>
+<script type="text/javascript" src="//cdn.bestday.com/_lib/js/bestday/homeNew.js?v=20140305"></script>
+<script type="text/javascript" src="//cdn.bestday.com/_lib/js/bestday/accountSessionBD.js?v=20140305"></script>
+<script type="text/javascript" src="//cdn.bestday.com/_lib/js/bestday/defaultOldBD.js?v=20140305"></script>
+<script type="Text/JavaScript" src="//cdn.bestday.com/_lib/js/bestday/pageInfoBD.js?v=20140305"></script>
 <div class="scrapperContainer"><div id="banner-Skyscraper"></div><div id="miniScrapper"></div></div>
-<script type="text/javascript"> if (!NREUMQ.f) {NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script"); e.type="text/javascript"; e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js"; document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-3.newrelic.com","a580dcf8f2","2432189","Z1daZUsDXBZSAhUKXl4deWJpTUIXWhcAAEgfVl1XWBdeER0AEhNJ",0,125,new Date().getTime(),"F5491BB6B13AE38D","","","",""]);</script>
 
 
 
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+
+
+<script src="https://js-agent.newrelic.com/nr-356.min.js"></script></body></html>
