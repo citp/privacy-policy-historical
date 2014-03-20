@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cryptothrift.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812130703id_/http%3A//cryptothrift.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cryptothrift.com privacy policy that was archived on 2014-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140320183907id_/https%3A//cryptothrift.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | cryptothrift | Buy and Sell Using Crypto Coins
 
@@ -35,7 +35,7 @@ cryptothrift owns and operates this website. We are committed to the privacy and
 
 ### Links
 
-This website may contain links to other sites. Please be aware that we, cryptothrift, are not responsible for the privacy practices of such other sites. We encourage our visitors to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+This Web site may contain links to other sites. Please be aware that we, cryptothrift, are not responsible for the privacy practices of such other sites. We encourage our visitors to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
 ### Security
 
@@ -43,7 +43,7 @@ This web site takes every precaution to protect our visitor’s information. Whe
 
 We do everything in our power to protect user-information off-line. All of our customers’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Finally, the servers that store personally identifiable information are in a secure environment, in a locked facility.
 
-If visitors have any questions about the security on [cryptothrift.com](http://cryptothrift.com/), feel free to contact [Customer Service](http://cryptothrift.com/contact-cryptothrift/).
+If visitors have any questions about the security on [cryptothrift.com](http://cryptothrift.com/), feel free to contact Customer Service.
 
 ### Correcting, Updating, Deleting & Deactivating Personal Information
 
