@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the travelogyindia.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230102310id_/http%3A//www.travelogyindia.com/about-travel-agent/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelogyindia.com privacy policy that was archived on 2014-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140320060302id_/http%3A//www.travelogyindia.com/about-travel-agent/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Home](https://web.archive.org/web/20131230102310id_/http%3A//www.travelogyindia.com/index.html) About Holidays Agent  Privacy Policy of Travelogy India
+[Home](https://web.archive.org/web/20140320060302id_/http%3A//www.travelogyindia.com/index.html) About Holidays Agent  Privacy Policy of Travelogy India
 
 **Privacy Policy:**  
 This privacy policy sets out how **Travelogy India** uses and protects any information that you give **“Travelogy India”** when you use this website.
 
 **Travelogy India** is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, and then you can be assured that it will only be used in accordance with this privacy policy..
 
-**Travelogy India** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from [011-9-2011].
+**Travelogy India** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from [011-9-2013].
 
 **What we collect–**  
 We may collect the following information:
