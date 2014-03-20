@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalscrapbookplace.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822171655id_/http%3A//store.digitalscrapbookplace.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalscrapbookplace.com privacy policy that was archived on 2014-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140320105250id_/http%3A//store.digitalscrapbookplace.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : Digital Scrapbook Place, Inc. , High Quality Digital Scrapbook Graphics
 
