@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the readyforshop.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921233415id_/http%3A//www.readyforshop.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readyforshop.com privacy policy that was archived on 2014-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140320071522id_/http%3A//www.readyforshop.com/readyforshop-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# ReadyForShop.com Privacy Policy
 
 **Our Commitment to Privacy**
 
-Your privacy is important to us here at **Ready For Shop**. Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers’ needs.
+Your privacy is important to us here at **ReadyForShop.com**. Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers’ needs.
 
 **What Information Do We Collect?**
 
@@ -87,12 +87,6 @@ Please remember that when you use a link to go from our Web site to another Web 
 
 By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
 
-Akhilesh Singh Shrinet
-
-21,1st Floor, Outram Lines
-
-Kinsway Camp, new Delhi-110009
-
-Office Phone: +91-11-47212092
-
-hello@mvisionsolutions.com
+**ReadyForShop.com**  
+**New Delhi, India**  
+ **Support@readyforshop.com**
