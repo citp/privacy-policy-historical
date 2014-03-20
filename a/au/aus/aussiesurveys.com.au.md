@@ -1,45 +1,21 @@
-> *The following text is extracted and transformed from the aussiesurveys.com.au privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224092335id_/http%3A//www.greatsites.com.au/common/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussiesurveys.com.au privacy policy that was archived on 2014-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140320122338id_/http%3A//www.greatsites.com.au/common/privacy) for the most accurate reproduction.*
 
 # Great Sites
 
-­Great Sites­­­ takes your privacy seriously. Please read the following to learn more about our privacy policy.
+Your information will be managed by Beyond D Pty Ltd (ACN 156 307 069) in compliance with the Privacy Amendment (Enhancing Privacy Protection) Act 2012. By registering and responding to questions you agree that Beyond D Pty Ltd may send communications including 3rd party offers to you by email and/or phone. Beyond D Pty Ltd may also supply your contact information and question responses to companies so that they may use them to contact you by mail, phone and email to promote services or products. By completing a survey or offer question you expressly consent for that company to contact you on the details provided for an indefinite period or until you opt out from the named companies marketing database. Beyond D is not affiliated with, sponsored by or endorsed by any of the listed products or retailers. Trademarks, service marks, logos are the property of their respective owners. Beyond D receives fees from companies including financial institutions. Always read their terms and conditions and/or product disclosure statement. 
 
-This Privacy Policy covers Great Sites treatment of personally identifiable information that we collect when you register and complete any surveys with Great Sites. This policy also covers Great Sites treatment of any personally identifiable information that Great Sites business partners share with Great Sites or vice versa.
+Beyond D is committed to ensuring the security of the information we hold about you. We take all reasonable steps including secure server connections, encryption and data handling processes to ensure that the information we hold about you is protected from misuse, interference and loss, and from unauthorised access, modification or disclosure. If Beyond D no longer require the information we will take reasonable steps to destroy any personally identifiable information. 
 
-This policy does not apply to the practices of companies that Great Sites does not own or control, or to people that Great Sites does not employ or manage. Great Sites collects personally identifiable information when you register and/or complete surveys with Great Sites.
+Some of the sites functionality requires the use of cookies stored by your browser. If you do not want us to use cookies then you can easily stop them, or be notified when they are being used, by configuring your browser. If you do not allow cookies to be used some of our website might not work for you. 
 
-When you register with Great Sites, we ask for your name, email address, birth date, gender address, and marital status among other personal details. Once you register with Great Sites and sign in to our services, you are not anonymous to us.
+Some of BeyondD's third party contractor and service providers may perform certain services overseas. For instance, our servers our provided by Amazon Web Services who operates outside of Australia. Where this occurs, BeyondD takes reasonable steps to ensure that all personal information is handled in a manner that is consistent with the Australian Privacy Principles. 
 
-Great Sites uses information for two general purposes: to allow advertisers to market their products and services to you based upon your profile, and to analyse and provide analysis in aggregate form based on member profiles. This includes the use of browser cookies to display relevant ads on other websites. 
+You may request deletion of your account with Great Sites by clicking on the 'unsubscribe' link contained in every email we send you, by emailing us directly with your request, or logging into your account and using the contact form. 
 
-From time to time Great Sites will send personally identifiable information about you to other companies or people for marketing or research purposes.
+You may access your personal information held in our databases by writing to us using the contact information and contact forms found on these pages. 
 
-  * By registering and/or completing surveys with Great Sites you are providing your consent for this to happen.  You may unsubscribe from the service at any time, which will have the effect of withdrawing your consent.
+  \- Contact Great Sites: <http://www.greatsites.com.au/common/contact-us>
 
+We update our policy from time to time, any changes are effective from the date of the website policy page update. 
 
-
-
-In addition we may provide your details to other companies when:
-
-  * We need to share your information in order to provide the product or service you have requested; 
-  * We need to send the information to companies that work on behalf of Great Sites to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.);
-
-  * We respond to subpoenas, court orders or legal process; or
-
-
-
-
-You may request deletion of your account with Great Sites by clicking on the ‘unsubscribe’ link contained in every email we send you, by emailing us directly with your request, or logging into your account and using the feedback form.  If you unsubscribe from Great Sites your account will be deleted after the next prize draw and you will:
-
-  * Not be able to earn any additional entries into the next prize draw (but your existing entries will still be valid for the next prize draw) 
-  * Not be contacted by Great Sites other than for administrative purposes
-
-  * Not have your data provided to any third party companies for marketing or other purposes
-
-
-
-Your Great Sites account information is password-protected for your privacy and security.
-
-In certain areas Great Sites uses industry-standard SSL encryption to protect data transmissions.
-
-Great Sites may edit this policy from time to time. If we make any substantial changes we will notify you by posting a prominent announcement on our pages.
+Great Sites is owned by Beyond D Pty Ltd.
