@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eguide.co.th privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118062322id_/http%3A//www.eguide.co.th/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eguide.co.th privacy policy that was archived on 2014-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140320010108id_/http%3A//www.eguide.co.th/privacy.asp) for the most accurate reproduction.*
 
 # eGuide - (Thailand) eGuide Privacy Policy
 
