@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mamaway.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105071026id_/http%3A//www.mamaway.com%3Faction%3Dmember_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamaway.com privacy policy that was archived on 2014-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140321004945id_/http%3A//mamaway.com%3Faction%3Dmember_privacy) for the most accurate reproduction.*
 
-# Mamaway USA Stylish Maternity clothes | Maternity Jeans | Nursing Tops | Nursing Lingerie | Baby Ring Slings
+# Mamaway USA Stylish Maternity clothes | Maternity Jeans | Nursing Tops | Nursing Lingerie | Baby Ring Slings | Thanks Giving
 
 At Mamaway USA Inc. we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by Mamaway USA Inc.
 
