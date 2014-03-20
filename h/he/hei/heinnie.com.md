@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heinnie.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217143357id_/http%3A//www.heinnie.com/page.asp%3Fid%3DPP) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heinnie.com privacy policy that was archived on 2014-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140320193343id_/http%3A//www.heinnie.com/page.asp%3Fid%3DPP) for the most accurate reproduction.*
 
 # Privacy Policy
 
