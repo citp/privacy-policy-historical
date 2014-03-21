@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ensighten.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106122019id_/http%3A//www.ensighten.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ensighten.com privacy policy that was archived on 2014-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140321204629id_/http%3A//ensighten.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ensighten
 
@@ -24,11 +24,11 @@ We provide all visitors to our websites with the opportunity to review, modify, 
 
 ### Consumer Privacy
 
-When you use websites owned by our customers that are using our services or products, you may also be providing certain additional types of information other than those described above, such as tracking tags and cookies. This information is used only to the extent necessary to provide our services to the website you are visiting for the duration of your visit and we do not access, store, or use this information in any other way. In all cases, whether this information belongs to either you or to the owner of the website you are visiting depends upon the individual privacy practices of that website. You should always check the individual privacy policy of each website you visit before providing any information. Regardless of whether you or the owner of the applicable website own your data, we make no claim to your information and cannot and will not be responsible for it.
+When you use websites owned by our customers that are using our services or products, you may also be providing certain additional types of information other than those described above, such as tracking tags and cookies, or any data that our customers choose to collect, store and use. By default, our services or products do not collect, store or use personally identifiable information (PII). Moreover, we recommend and encourage our customers not to collect, store or use such PII. In all cases, whether this information belongs to either you or to the owner of the website you are visiting, or if PII is collected, stored or used depends upon the individual privacy practices of that website. You should always check the individual privacy policy of each website you visit before providing any information. Regardless of whether you or the owner of the applicable website own your data, we make no claim to your information and cannot and will not be responsible for it.
 
 ### Unsubscribe from Our Mailing List
 
-You may at any time ask us to remove you from any mailing list on which you previously asked us to include you by sending us an email at, or by calling us toll free on 888-553-6744.
+You may at any time ask us to remove you from any mailing list on which you previously asked us to include you by sending us an email at [unsubscribe@ensighten.com](mailto:unsubscribe@ensighten.com), or by calling us toll free on 888-553-6744.
 
 ### Online Privacy Policy Only
 
