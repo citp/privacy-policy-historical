@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchit.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014210140id_/http%3A//ecampus.smartpros.com/modules/MediaLibrary/MediaLibraryLinks.aspx%3FLinkPageID%3D3811) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchit.com privacy policy that was archived on 2014-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140322000126id_/https%3A//ecampus.smartpros.com/modules/MediaLibrary/MediaLibraryLinks.aspx%3FLinkPageID%3D3811) for the most accurate reproduction.*
 
 # Privacy Policy - Smartpros - eCampus
 
