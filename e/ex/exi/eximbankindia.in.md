@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eximbankindia.in privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030105241id_/http%3A//eximbankindia.in%3Fq%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eximbankindia.in privacy policy that was archived on 2014-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140321201931id_/http%3A//www.eximbankindia.in%3Fq%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Eximbank
 
