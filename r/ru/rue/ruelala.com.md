@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruelala.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229033941id_/http%3A//www.ruelala.com/common/privacyModal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruelala.com privacy policy that was archived on 2014-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140321172951id_/http%3A//www.ruelala.com/common/privacyModal) for the most accurate reproduction.*
 
 # 
 
@@ -119,4 +119,4 @@ Boston, MA 02210
 [atyourservice@ruelala.com](mailto:atyourservice@ruelala.com "atyourservice@ruelala.com")
 
 Last Updated: May 3, 2013  
-© 2008 - 2013 Retail Convergence.com, LP. All rights reserved. 
+© 2008 - 2014 Retail Convergence.com, LP. All rights reserved. 
