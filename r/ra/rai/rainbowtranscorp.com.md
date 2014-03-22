@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rainbowtranscorp.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121094853id_/http%3A//rainbowtranscorp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainbowtranscorp.com privacy policy that was archived on 2014-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140322084047id_/http%3A//rainbowtranscorp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rainbow Trans Corp
 
