@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the populararticles.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216235805id_/http%3A//www.populararticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the populararticles.com privacy policy that was archived on 2014-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140322071425id_/http%3A//www.populararticles.com/privacy.php) for the most accurate reproduction.*
 
 # PopularArticles.com Privacy Statement
 
