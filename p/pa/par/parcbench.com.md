@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parcbench.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125013539id_/http%3A//www.parcbench.com%3Fpage_id%3D321) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parcbench.com privacy policy that was archived on 2014-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140322032456id_/http%3A//www.parcbench.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Parcbench
 
@@ -58,7 +58,7 @@ By using this Site, you consent to our collection and use of personal informatio
 
 If you have any questions regarding this Privacy Policy, please send them to us by email at webmaster@parcbench.com. Parcbench.com may also be contacted directly at the following address:
 
-Parcbench Media  
-616 West 137th Street. 3A  
-New York, NY 10031  
+Parcbench Media LLC  
+1065 Route 23A  
+New York, NY 12414  
 contact@parcbench.com
