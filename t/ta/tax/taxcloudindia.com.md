@@ -1,8 +1,22 @@
-> *The following text is extracted and transformed from the taxcloudindia.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209103229id_/http%3A//taxcloudindia.com/Meta/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxcloudindia.com privacy policy that was archived on 2014-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140322013524id_/http%3A//taxcloudindia.com/Meta/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy: ClearTax.in
 
-  For queries - email taxcloud@cleartax.in or call us on 011-25616304 during business hours. 
+  * [Sign up](https://web.archive.org/Account/Register)
+  * [Log In](https://web.archive.org/Account/LogOn)
+
+  
+
+
+  TDS FVU 4.1 w/ 27A barcode has been released | For Other Queries - email at taxcloud@cleartax.in or call on +91 813-0935-803 
+
+  
+
+
+## Your Data is private. Only you have access.
+
+  
+
 
 ###  Privacy of Customer Data
 
