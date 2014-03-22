@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promo-coupons.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229163607id_/http%3A//promo-coupons.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promo-coupons.com privacy policy that was archived on 2014-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140322205615id_/http%3A//promo-coupons.com/privacy) for the most accurate reproduction.*
 
 # Promo Coupons Privacy Policy | Promo Coupons
 
