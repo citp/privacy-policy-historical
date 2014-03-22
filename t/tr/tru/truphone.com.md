@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truphone.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215024645id_/http%3A//www.truphone.com/US/Legal/Privacy/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truphone.com privacy policy that was archived on 2014-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140322022715id_/http%3A//www.truphone.com/US/Legal/Privacy/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
