@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intmath.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205222205id_/http%3A//www.intmath.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intmath.com privacy policy that was archived on 2014-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140322173514id_/http%3A//www.intmath.com/help/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,7 +74,7 @@ IntMath is hosted on WiredTree servers in Chicago, USA. We strictly abide by the
 
 ## Questions or Concerns
 
-Please use the [Comments](http://www.intmath.com/help/comments.php) facility to raise any concerns you may have about your privacy on Interactive Mathematics.
+Please use the [Comments](https://web.archive.org/web/20140322173514id_/http%3A//www.intmath.com/help/comments.php) facility to raise any concerns you may have about your privacy on Interactive Mathematics.
 
 Didn't find what you are looking for on this page? Try **search** :
 
@@ -82,7 +82,7 @@ Didn't find what you are looking for on this page? Try **search** :
 
 This algebra solver can solve a wide range of math problems. (Please be patient while it loads.)
 
-Go to: [Online algebra solver](http://www.intmath.com/help/problem-solver.php)
+Go to: [Online algebra solver](https://web.archive.org/help/problem-solver.php)
 
 ### Ready for a break?
 
