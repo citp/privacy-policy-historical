@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolsinmyarea.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201092650id_/http%3A//schoolsinmyarea.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolsinmyarea.com privacy policy that was archived on 2014-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140322063123id_/http%3A//schoolsinmyarea.com/privacy.asp) for the most accurate reproduction.*
 
 # ::: Welcome to SchoolsinMyArea.com :::
 
