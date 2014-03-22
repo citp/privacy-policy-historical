@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidjvallieres.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928181340id_/http%3A//infoproductlab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidjvallieres.com privacy policy that was archived on 2014-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140322075735id_/http%3A//infoproductlab.com/privacy) for the most accurate reproduction.*
 
 # Privacy | InfoProductLab LLC
 
@@ -7,7 +7,7 @@
 
 
 
-**What information does InfoProductLab LLC’s websites: DavidJVallieres.com, MindMethod.com, MyProductDownload.com and 6-In-6.com collect?**
+**What information does InfoProductLab LLC’s websites collect?**
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
@@ -32,7 +32,7 @@ Any of the information we collect from you may be used in one of the following w
 * To administer a contest, promotion, survey or other site feature
 * To send periodic newsletters, ezines or announcements by email through [aweber](http://think.aweber.com/)
 
-**Note:** If at any time you would like to unsubscribe from receiving future emails that are sent from our domain and [aweber](http://think.aweber.com/), we include detailed unsubscribe instructions within each email.
+**Note:** If at any time you would like to unsubscribe from receiving future emails that are sent from our domain and [aweber](http://think.aweber.com/) or [GetResponse](http://gr8.com/pr/3DZa), we include detailed unsubscribe instructions within each email.
 
 **How do we protect your information?**
 
@@ -80,7 +80,7 @@ By using our site, you consent to our web site privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on June 27, 2012
+This policy was last modified on November 11, 2013
 
 **Contacting Us**
 
