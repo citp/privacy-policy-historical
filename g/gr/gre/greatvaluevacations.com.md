@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greatvaluevacations.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221010735id_/http%3A//www.greatvaluevacations.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatvaluevacations.com privacy policy that was archived on 2014-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140322104059id_/http%3A//www.greatvaluevacations.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Great Value Vacations
+# Privacy Policy I GreatValueVacations.com
 
 As a valued Great Value Vacations customer, your personal privacy is very important to us. We understand that booking online involves significant trust on your part. We value your trust and have made it a high priority to ensure the security and confidentiality of the personal information you provide to us. Please read this policy to learn about our privacy practices. By using this website, you are accepting the practices described in this policy.
 
@@ -21,11 +21,9 @@ Email address
 
 In addition, the Transportation Security Administration (TSA) requires that we collect the following information about passengers associated with every online and phone booking:
 
-Full Name
-
-Gender
-
-Date of Birth
+       Full Name  
+       Gender  
+       Date of Birth
 
 **Is this personal information stored or shared by Great Value Vacations?**  
 Great Value Vacations will use your personal information to process your booking, to verify credit card processing and to help you manage your itinerary prior to departure. Your personal information and any records relating to your air travel will also be retained for audit functions.
@@ -48,4 +46,4 @@ To determine whether you have come to our site from an online advertisement disp
 To help measure and research the effectiveness of website features and offerings, advertisements, and email communications (by determining which emails you open and act upon). ****
 
 **Contact us**  
-If you have any other concerns, suggestions or questions about any issues relating to privacy on the Great Value Vacations website, please [contact us](http://greatvaluevacations.com/contact-us) .
+If you have any other concerns, suggestions or questions about any issues relating to privacy on the Great Value Vacations website, please [contact us](http://greatvaluevacations.com/contact-us).
