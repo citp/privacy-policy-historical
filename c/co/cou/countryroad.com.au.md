@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countryroad.com.au privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218031209id_/http%3A//www.countryroad.com.au/information/115456) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countryroad.com.au privacy policy that was archived on 2014-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140323200730id_/http%3A//www.countryroad.com.au/information/115456) for the most accurate reproduction.*
 
 # Country Road
 
@@ -108,7 +108,7 @@ By using our websites, you are consenting to the collection of information by us
 
 ## 12 Privacy complaints
 
-If you believe that we have breached your privacy rights in any way, or you would like to discuss any issues about our privacy policy please contact our Privacy Manager on admin@countryroad.com.au.
+If you believe that we have breached your privacy rights in any way, or you would like to discuss any issues about our privacy policy please contact our Privacy Manager on customerservice@countryroad.com.au.
 
 All such enquiries or complaints will be taken seriously and handled with impartiality and discretion.
 
