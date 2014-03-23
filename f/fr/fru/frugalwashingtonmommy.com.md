@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the frugalwashingtonmommy.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122032425id_/http%3A//frugalwashingtonmommy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugalwashingtonmommy.com privacy policy that was archived on 2014-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140324002759id_/http%3A//frugalwashingtonmommy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Frugal Washington Mommy
+# Frugal Washington MommyPrivacy Policy - Frugal Washington Mommy
+
+## Privacy Policy
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
