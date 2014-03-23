@@ -1,73 +1,141 @@
-> *The following text is extracted and transformed from the commissionfactory.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307085509id_/http%3A//www.commissionfactory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commissionfactory.com privacy policy that was archived on 2014-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140323030617id_/http%3A//www.commissionfactory.com.au/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy : ASIA’s #1 Leading Affiliate Network | CommissionFactory.com
+# Privacy Policy | Commission Factory - Australia's Newest Affiliate Network
 
-**Privacy Policy**
+The defined terms in this Policy have the same meaning as in our Terms of Use, which You should read together with this Policy. By accessing our Website and using our Service, You consent to the terms of this Policy and agree to be bound by it and our Terms of Use.
 
-WTF Media has created this privacy policy in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering, use and dissemination practices solely for the web site located at www.commissionfactory.com (the “Site”) and its affiliated sites as noted herein. By using or accessing the Site, you signify your assent to our Privacy Policy. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE.
+## Commission Factory collects Your personal information 
 
-**Collection and Use of Personal Information**
+Commission Factory is a provider of performance marketing software that gives online retailers, agencies and affiliates real-time visibility of an affiliate marketing campaign performance.
 
-We do not collect personal information about Site users unless such information is voluntarily provided by the user. Our registration forms require consumers to provide certain contact information such as name and email address. This contact information is used and shared to facilitate the process of the service the consumer requests to send you promotional offers for various products and services via direct mail, telemarketing, SMS text messaging and email from third parties whom we work with that we feel may be of interest to you. Consumers who opt-in to receive offers or voluntarily provide their personal information to WTF Media may receive email, telephone calls or direct mail from WTF Media or our partners with whom we share personal information. If you do not want to receive offers from WTF Media or its partners, you may opt-out of receiving future communications; see the Choice/Opt-Out section below.
+The Service involves the storage of Data about a company or individual. That Data can include personal information. “Personal information” is information about an identifiable individual, and may include information such as the individual’s name, email address, telephone number, bank account details, taxation details, address, and financial information.
 
-We may need to disclose personal information when required by law and when we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on us or to assist in the investigation of any potential fraud. We may also disclose personal information in connection with a sale, merger or reorganization of WTF Media.
+Commission Factory may collect personal information directly from You when You:
 
-**Collection and Use of Non-Personal Information**
+  * register to use the Service,
+  * use the Service,
+  * contact the Commission Factory support team, and
+  * visit our Website.
 
-We may collect non-personal information (or aggregate information) during your use of our Site, including IP address, pages viewed, click-stream data and browsing habits. Non-personal information may be shared with third parties who are not affiliated with WTF Media.
 
-Our Site uses cookies to keep track of your session and to make sure you don’t see the same ad repeatedly. We use (and our third party advertisers may use) cookies to deliver content specific to your interests. We also use cookies once a form is submitted as an indicator that the application was filled and if you try to fill out another one within 60 days it will give you an option to either fill out another application or leave. “Cookies” are pieces of information that may be placed on your computer by a web site for the purpose of facilitating and enhancing your communication and interaction with that web site. Many web sites use cookies for these purposes. You may stop or restrict the placement of cookies on your computer or flush them from your browser by adjusting your web browser preferences, in which case you may still use our Site, but it may interfere with some of its functionality. WTF Media does not use cookies to automatically retrieve personal information from your computer without your knowledge.
 
-In addition to cookies, we may also use (and our third party advertisers may use) clear gifs or web beacons to improve the performance of the Site, provide certain features such as advertising or to anonymously track usage of the Site. Clear gifs / web beacons are tiny graphics with a unique identifier, which operate much like a cookie, and are used to track the online activity of Site users. In addition, we may use such devices in our HTML-based emails to track the usage of such emails in much the same manner as usage of the Site is tracked. These devices are not used by WTF Media to automatically collect person information.
+You can always choose not to provide Your personal information to Commission Factory, but it may mean that we are unable to provide You with the Service.
 
-**Security**
+## Commission Factory may receive personal information from You about others
 
-This Site has reasonable security measures in place to attempt to protect against the loss, misuse or alteration of personal information under our control. We use SSL 128-bit encryption to transfer any personal information that you may submit in our application. However, due to the inherent open nature of the Internet, we cannot guarantee that communications will be free from unauthorized access by third parties such as hackers and your use of the Site demonstrates your assumption of this risk.
+Through Your use of the Service, Commission Factory may also collect information from You about someone else. If You provide Commission Factory with personal information about someone else, You must ensure that You are authorised to disclose that information to Commission Factory and that, without Commission Factory taking any further steps required by applicable data protection or privacy laws, Commission Factory may collect, use and disclose such information for the purposes described in this Policy.
 
-**Choice/Opt-Out**
+This means that You must take reasonable steps to ensure the individual concerned is aware of and/or consents to the various matters detailed in this Policy, including the fact that their personal information is being collected, the purposes for which that information is being collected, the intended recipients of that information, the individual's right to obtain access to that information, Commission Factory’s identity, and how to contact Commission Factory.
 
-To opt-out of any of a mailing from WTF Media, you may follow the opt-out procedures set forth in our emails to you or send an email to us at support@commissionfactory.com. If you do not wish us to share your personal information with third parties who may use such information for direct marketing purposes, you may send an email to us at removeme@commissionfactory.com.
+Where requested to do so by Commission Factory, You must also assist Commission Factory with any requests by the individual to access or update the personal information You have collected from them and entered into the Service.
 
-However, we are not responsible for removing your personal information from the lists of any third party who has previously been provided your information in accordance with this policy.
+## Commission Factory collects, holds, and uses Your personal information for limited purposes
 
-**Correct/Update**
+Commission Factory collects Your personal information so that we can provide You with the Service and any related services You may request. In doing so, Commission Factory may use the personal information we have collected from You for purposes related to the Services including to:
 
-To change and modify information previously provided to WTF Media, you may email us at support@commissionfactory.com
+  * verify Your identity,
+  * administer the Service,
+  * notify You of new or changed services offered in relation to the Service,
+  * carry out marketing or training relating to the Service,
+  * assist with the resolution of technical support issues or other issues relating to the Service,
+  * comply with laws and regulations in applicable jurisdictions, and
+  * communicate with You.
 
-**Links**
 
-This Site contains links to other sites. WTF Media is not responsible for the privacy practices or the content of such sites. Please read the privacy policies of these linked sites, because their privacy practices may differ from ours.
 
-**Protection for Children**
+By using the Service, You consent to Your personal information being collected, held and used in this way and for any other use You authorise. Commission Factory will only use Your personal information for the purposes described in this Policy or with Your express permission.
 
-We have no intention of collecting personal information from children under the age of 13. When we become aware that personal information from a child under 13 has been collected without such child’s parent or guardian’s consent, we will use all reasonable efforts to delete such information from our database.
+It is Your responsibility to keep Your password to the Service safe. You should notify us as soon as possible if You become aware of any misuse of Your password, and immediately change your password within the Service or via the “Forgot Password” process.
 
-**Changes to Privacy Policy**
+## Commission Factory can aggregate Your non-personally identifiable data
 
-We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. However, if at any time in the future we plan to use personal information in a way that differs from this policy, we will post such changes here and provide you the opportunity to opt-out of such differing uses. Your continued use of the Site following the posting of any changes to this policy means you accept such changes.
+By using the Service, You agree that Commission Factory can access, aggregate and use non-personally identifiable data Commission Factory has collected from You. This data will in no way identify You or any other individual.
 
-**Legal Statement**
+Commission Factory may use this aggregated non-personally identifiable data to:
 
-Use of this Site is governed by, and subject to, the legal notices contained in our Legal Statement. Your use, or access, of the Site constitutes your agreement to be bound by these provisions. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE.
+  * assist us to better understand how our customers are using the Service,
+  * provide our customers with further information regarding the uses and benefits of the Service,
+  * enhance business productivity, including by creating useful business insights from that aggregated data and allowing You to benchmark Your campaign performance against that aggregated data, and
+  * otherwise to improve the Service.
 
-**USA**
 
-Our Site is maintained in the United States of America. By using the Site, you authorize the export of personal information to the USA and its storage and use as specified in this policy.
 
-**Effective Date**
+## Commission Factory holds your personal information on servers located in Australia
 
-This privacy policy is effective and was last updated on October 3, 2008.
+All Data, including personal and non-personal information, that is entered into the Service by You, or automatically imported on Your instruction, is transferred to Commission Factory’s servers as a function of transmission across the Internet. By using the Service, You consent to Your personal information being transferred to our servers as set out in this Policy.
 
-**Contacting WTF Media**
+Currently our servers are located in Australia (AU), primarily by Indigo Solutions Pty Ltd (Indigo), and Your personal information will be routed through, and stored on, those servers as part of the Service. If the location of our servers change in the future, we will update this Policy. You should review our Policy regularly to keep informed of any updates.
 
-If you have any questions about this privacy policy, the practices of this Site, or your dealings with this Site, you can contact:
+By providing Your personal information to Commission Factory, You consent to Commission Factory storing Your personal information on servers hosted in Australia. While Your personal information will be stored on servers located in Australia, it will remain within Commission Factory’s effective control at all times. The server host’s role is limited to providing a hosting and storage service to Commission Factory, and we’ve taken steps to ensure that our server hosts do not have access to, and use the necessary level of protection for, Your personal information.
 
-**WTF Media LLC**
+If You do not want Your personal information to be transferred to a server located in Australia, You should not provide Commission Factory with Your personal information or use the Service.
 
-5715 Will Clayton #6177
+## Commission Factory takes steps to protect your personal information
 
-Humble, Texas 77338
+Commission Factory is committed to protecting the security of Your personal information and we take all reasonable precautions to protect it from unauthorised access, modification or disclosure. Your personal information is stored on secure servers that have SSL Certificates issued by leading certificate authority DigiCert Inc, and all Data transferred between You and the Service is encrypted.
 
-USA
+However, the Internet is not in itself a secure environment and we cannot give an absolute assurance that Your information will be secure at all times. Transmission of personal information over the Internet is at Your own risk and You should only enter, or instruct the entering of, personal information to the Service within a secure environment.
 
-Back To Top
+We will advise You at the first reasonable opportunity upon discovering or being advised of a security breach where Your personal information is lost, stolen, accessed, used, disclosed, copied, modified, or disposed of by any unauthorised persons or in any unauthorised manner.
+
+## Commission Factory only discloses Your Personal Information in limited circumstances
+
+Commission Factory will only disclose the personal information You have provided to us to entities outside the Commission Factory group of companies if it is necessary and appropriate to facilitate the purpose for which Your personal information was collected pursuant to this Policy, including the provision of the Service.
+
+Commission Factory will not otherwise disclose Your personal information to a third party unless You have provided Your express consent. However, You should be aware that Commission Factory may be required to disclose Your personal information without Your consent in order to comply with any court orders, subpoenas, or other legal process or investigation including by tax authorities, if such disclosure is required by law. Where possible and appropriate, we will notify You if we are required by law to disclose Your personal information.
+
+The third parties who host our servers do not control, and are not permitted to access or use Your personal information except for the limited purpose of storing the information. This means that, for the purposes of Australian privacy legislation and Australian users of the Service, Commission Factory does not currently “disclose” personal information to third parties located overseas.
+
+Upon receipt of your application to join the Commission Factory service your business details and/or ASIC information may be obtained to do a prior check of the status of your business and verify your operation. Your ABN may also be used with the CreditorWatch service to verify whether you or your company have any outstanding defaults registered.
+
+Read the [CreditorWatch Privacy Policy](https://creditorwatch.com.au/page/privacy)
+
+## Commission Factory does not store Your credit card details
+
+If You choose to pay for the Service by credit card, Your credit card details are not stored by the Service and cannot be accessed by Commission Factory staff. Your credit card details are encrypted and securely stored by Direct Payments Solutions Limited to enable Commission Factory to automatically bill your credit card on a recurring basis. You should review [Direct Payment Solutions Limited’s Privacy Policy](http://www.paymentexpress.com/About/About_DPS/Privacy_Policy) to ensure you are happy with it.
+
+## You may request access to Your personal information
+
+It is Your responsibility to ensure that the personal information You provide to us is accurate, complete and up-to-date. You may request access to the information we hold about You, or request that we update or correct any personal information we hold about You, by setting out Your request in writing and sending it to us at [info@commissionfactory.com.au](mailto:info@commissionfactory.com.au).
+
+Commission Factory will process Your request as soon as reasonably practicable, provided we are not otherwise prevented from doing so on legal grounds. If we are unable to meet Your request, we will let you know why. For example, it may be necessary for us to deny Your request if it would have an unreasonable impact on the privacy or affairs of other individuals, or if it is not reasonable and practicable for us to process Your request in the manner You have requested. In some circumstances, it may be necessary for us to seek to arrange access to Your personal information through a mutually agreed intermediary (for example, the Subscriber).
+
+We’ll only keep Your personal information for as long as we require it for the purposes of providing You with the Service. However, we may also be required to keep some of Your personal information for specified periods of time, for example under certain laws relating to corporations, money laundering, and financial reporting legislation.
+
+## Commission Factory uses cookies
+
+In providing the Service, Commission Factory utilises "cookies". A cookie is a small text file that is stored on Your computer for record-keeping purposes. A cookie does not identify You personally or contain any other information about You but it does identify Your computer.
+
+We, our affiliates and third-party service providers may use a combination of “persistent cookies” (cookies that remain on Your hard drive for an extended period of time) and “session ID cookies” (cookies that expire when You close Your browser) on the Website to, for example, track overall site usage, and track and report on Your use and interaction with ad impressions and ad services.
+
+You can set your browser to notify You when You receive a cookie so that You will have an opportunity to either accept or reject it in each instance. However, You should note that refusing cookies may have a negative impact on the functionality and usability of the Website.
+
+We do not respond to or honour “Do Not Track” requests at this time.
+
+## You can opt-out of any email communications
+
+Commission Factory sends billing information, product information, Service updates and Service notifications to You via email. Our emails will contain clear and obvious instructions describing how You can choose to be removed from any mailing list not essential to the Service. Commission Factory will remove You at Your request.
+
+## You are responsible for transfer of Your data to third-party applications
+
+The Service may allow You, the Subscriber, or another Invited User within the relevant subscription to the Service to transfer Data, including Your personal information, electronically to and from third-party applications. Commission Factory has no control over, and takes no responsibility for, the privacy practices or content of these applications. You are responsible for checking the privacy policy of any such applications so that You can be informed of how they will handle personal information. 
+
+## Commission Factory has a privacy complaints process
+
+If You wish to complain about how we have handled Your personal information, please provide our Privacy Officer with full details of Your complaint and any supporting documentation:
+
+by e-mail at [info@commissionfactory.com.au](mailto:info@commissionfactory.com.au), or  
+by phone on +61 07 53539221 
+
+Our Privacy Officer will endeavour to:
+
+  * provide an initial response to Your query or complaint within 10 business days, and
+  * investigate and attempt to resolve Your query or complaint within 30 business days or such longer period as is necessary and notified to you by our Privacy Officer.
+
+
+
+## This policy may be updated from time to time
+
+Commission Factory reserves the right to change this Policy at any time, and any amended Policy is effective upon posting to this Website. Commission Factory will make every effort to communicate any significant changes to You via email or notification via the Service. Your continued use of the Service will be deemed acceptance of any amended Policy.
+
+## Last updated: March 2014
