@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sabreairlinesolutions.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204052333id_/http%3A//www.sabre.com/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabreairlinesolutions.com privacy policy that was archived on 2014-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140323153716id_/http%3A//www.sabre.com/home/privacy_policy) for the most accurate reproduction.*
 
 # None
 
-Last modified:  August 8, 2013
+Last modified:  March 21, 2014
 
-Sabre Inc. (the “ **Company** ”) operates this website, various other websites, and various services, including the _Sabre®_ global distribution system, the _SynXis_ hotel central reservation system, and the _SabreSonic®_ airline reservations system (collectively, the “ **Sites** ”), each of which offers unique information, products or services.
+Sabre GLBL Inc. (the “ **Company** ”) operates this website, various other websites, and various services, including the _Sabre®_ global distribution system, the _SynXis_ hotel central reservation system, and the _SabreSonic®_ airline reservations system (collectively, the “ **Sites** ”), each of which offers unique information, products or services.
 
 ## Introduction
 
@@ -91,6 +91,10 @@ The safety and security of your information also depends on you. Any content, in
 ## Children Under the Age of 13
 
 We do not knowingly collect personal information from children under age 13. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will take steps to delete that personal information as soon as possible.
+
+## US-EU and US-Swiss Safe Harbor for Travel Network
+
+Please see our [Travel Network Safe Harbor Privacy Statement](http://sabretravelnetwork.com/home/page/travel_network_safe_harbor_privacy_statement) to understand how Sabre Travel Network complies with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Frameworks.
 
 ## Changes to Our Privacy Statement
 
