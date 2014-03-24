@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the talbots.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920071334id_/http%3A//www.talbots.com/online/customerservice/customer_service_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talbots.com privacy policy that was archived on 2014-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140324062603id_/http%3A//www.talbots.com/online/customerservice/customer_service_privacy_policy.jsp) for the most accurate reproduction.*
 
 # Talbots Customer Service- Privacy Policy
 
 ## Talbots Privacy Policy - Your Privacy Rights
 
-If you have applied for a Talbots charge card issued by Talbots Classics National Bank you may access their privacy policy by clicking [_here_](https://web.archive.org/online/customerservice/customer_service_charge_account.jsp)
-
 To view our Terms of Use click [_here_](https://web.archive.org/online/landing/landingPage.jsp?landingPage=terms_of_use)
 
-**Revised: February 27, 2009. This Privacy Policy is effective as of February 27, 2009.**
+**Revised: January 24, 2014. This Privacy Policy is effective as of January 24, 2014.**
 
 This Privacy Policy applies to personal information that may be collected by The Talbots, Inc. ("Talbots", "we", "us"). Talbots values your trust and respects your privacy. We are committed to responsibly protecting your personal information and only using your personal information in a manner consistent with this Privacy Policy.
 
@@ -27,13 +25,13 @@ By doing business with or interacting with Talbots in the manner described in th
   * Does Talbots Share My Personal Information?
   * How Does Talbots Secure My Personal Information?
   * How Can I Review, Update And Correct My Personal Information?
+  * What are My Choices About Behavioral Advertising?
   * How Does Talbots Respect My Choices About My Personal Information?
   * Links to Other, Third Party Web Sites
   * Children's Privacy
   * California Privacy Rights
   * Contact Information
   * Changes To Talbots' Privacy Policy
-  * Talbots Terms and Conditions for Text Messages
 
 
 
@@ -42,7 +40,7 @@ By doing business with or interacting with Talbots in the manner described in th
   
 
 
-If you have any questions about this policy, please contact us. Talbots' postal address is: Talbots, One Talbots Drive, Hingham, MA 02043. You can contact us by telephone at 1-800-TALBOTS (1-800-825-2687), FAX 1-800-438-9443, or by email at [customer.service@talbots.com](mailto:customer.service@talbots.com). Canadian customers should direct their inquiries to the Canadian Privacy Officer, who can be contacted at the address and phone number listed above or by email at [privacy.officer@talbots.com](mailto:privacy.officer@talbots.com).
+If you have any questions about this policy, please contact us. Talbots postal address is: Talbots, One Talbots Drive, Hingham, MA 02043. You can contact us by telephone at 1-800-TALBOTS (1-800-825-2687), FAX 1-800-438-9443, or by email at [customer.service@talbots.com](mailto:privacy.officer@talbots.com). Canadian customers should direct their inquiries to the Canadian Privacy Officer, who can be contacted at the address and phone number listed above or by email at [privacy.officer@talbots.com](mailto:privacy.officer@talbots.com).
 
 ### What Personal Information Does Talbots Collect? 
 
@@ -65,7 +63,7 @@ Personal information is information that can be used to identify, contact or loc
   
 
 
-We collect your personal information in an effort to provide you with an enhanced customer experience and as may be necessary to administer our business. It allows us to provide you with easy access to our products and services, with a focus on the items that may be of particular interest to you. You personal information also allows us to communicate with you about special offers, promotions and other marketing programs that may be of interest to you.  
+We collect your personal information as necessary in order to process and ship any purchase you make, to administer our business, to be able to contact you, if necessary, about the products you have purchased from us, and to provide you with an enhanced customer experience and as may be necessary to administer our business. It allows us to provide you with easy access to our products and services, with a focus on the items that may be of particular interest to you. Your personal information also allows us to communicate with you about special offers, promotions and other marketing programs that may be of interest to you. We also collect personal information for purposes of fraud protection.   
 
 
 ### How Does Talbots Collect Personal Information? 
@@ -92,6 +90,8 @@ There are circumstances in which we automatically receive and collect personal i
 
 
 
+Talbots may combine personal information provided by you with personal information collected from other sources, such as cookies, pixel tags or outside sources, in order to provide you with a superior customer experience.
+
 #### Cookies
 
 Like many online retailers, Talbots uses 'cookies', small data files stored on your computer's web browser, or other passive means of data collection. Cookies are used to personalize your visit, remember your preferences, help place your order or to enhance your shopping experience and online browsing. You can adjust your web browser to accept or reject cookies.   
@@ -104,10 +104,11 @@ We use 'pixel tags' (small graphic images also called web beacons or clear gifs)
 
 #### Outside sources 
 
-We may periodically collect personal information about you from joint marketing partners, unrelated third parties and from our affiliated brands.
+We may periodically collect personal information about you from joint marketing partners, unrelated third parties and from our affiliated brands, which is combined with other personal information we collect from you.
 
-Also, to improve our marketing and the content of our website we collect aggregate, non-personal data like Internet Service Provider's domain name, the referring URL and the web pages and information you access on our site. We use this information to analyze visitors' behavior in the aggregate to improve our web site and your shopping experience. This information does not include personal information.  
+Also, to improve our marketing and the content of our website we collect aggregate, non-personal data like Internet Service Provider's domain name, the referring URL and the web pages and information you access on our site. We use this information to analyze visitors' behavior in the aggregate to improve our web site and your shopping experience. This information does not include personal information.
 
+Anonymous information collected through passive means such as cookies or pixel tags may also be used in connection with targeted advertising campaigns conducted on Talbots behalf by third-party advertising companies. For more information on this practice, and your choices, please see the section entitled "What Are My Choices About Behavioral Advertising?" 
 
 ### How Does Talbots Use The Personal Information That It Collects? 
 
@@ -169,11 +170,7 @@ We could also disclose or transfer your personal information to a successor enti
 
 Talbots takes substantial and appropriate security measures to help to safeguard your personal information and to prevent unauthorized access and disclosure.
 
-Talbots has taken measures to ensure that shopping with us is a safe and enjoyable experience for our valued customers. We have a variety of current technologies, managerial safeguards, protocols and processes in place to protect the security and privacy of your personal information. Talbots.com uses Extended Validation Secure Sockets Layering (EVSSL) to encrypt your personal information including credit card information before it travels over the internet. EVSSL, issued by VeriSign® is the highest degree of authentication available and is only issued to qualified organizations and domains. If you are using a newer web browser (like Internet Explorer 7.0), you will see the browser bar turn green when accessing website pages secured by EVSSL. When you see the VeriSign® logo, click on it and you can validate that the website you are on is a Talbots website and verify our certificate is active.
-
-We further protect your credit card number by only displaying the last 4 digits on the Order Confirmation page. In the unlikely event of credit card fraud at Talbots.com, the first $50.00 of your order will be covered. In most cases, credit card holders are not responsible for any charge beyond that amount, and we will work with your credit card company to resolve this issue.
-
-We want you to feel confident whenever you visit us in our stores, on our website or otherwise. While we are focused on the security of your personal information and follow strict standards designed to protect such information, we cannot promise, and you should not expect, that your personal information will remain secure in all circumstances.
+Talbots has taken measures to ensure that shopping with us is a safe and enjoyable experience for our valued customers. We have a variety of current technologies, managerial safeguards, protocols and processes in place to protect the security and privacy of your personal information. We want you to feel confident whenever you visit us in our stores, on our website or otherwise. We are focused on the security of your personal information and follow strict standards to help us protect such information from inadvertent disclosure and unauthorized use. 
 
 ### How Can I Review, Update And Correct My Personal Information? 
 
@@ -185,6 +182,15 @@ Canadian customers can also request access to their personal information stored 
 
 Canadian customers should direct their inquiries to the Canadian Privacy Officer, who can be contacted at the address and phone number listed above or by email at [privacy.officer@talbots.com](mailto:privacy.officer@talbots.com).   
 
+
+### What are My Choices About Behavioral Advertising? 
+
+  
+
+
+Like many retailers, Talbots contracts with third-party advertising networks to serve advertisements on our behalf across the Internet. Advertising companies will typically collect anonymous information about a user's browsing activity, including the websites visited and the products viewed, and will then use that information to serve targeted advertisements. Although no personally identifiable information is collected in this way, some customers prefer not to receive this type of advertising.
+
+Our website is not configured to respond to a "do not track" setting on your internet browser. However, many of Talbots marketing partners are members of the Network Advertising Initiative, and have agreed to honor consumers' opt-out preferences submitted through the NAI website. To opt-out of this type of behavioral advertising, [click here](http://www.networkadvertising.org/choices/).
 
 ### How Does Talbots Respect My Choices About My Personal Information? 
 
@@ -205,15 +211,15 @@ Please note that even if you opt out of receiving marketing communications, you 
 
 ### Links to Other, Third Party Web Sites 
 
-Occasionally we may provide links on our website to third party sites we think you may be interested in. These sites are independent from Talbots and have their own separate privacy policies. Whenever you click on links on Talbots' website that take you to a third party website, you will be subject to the third party's privacy policies, and not Talbots'. We recommend that you review their privacy polices before you visit these sites. 
+Occasionally we may provide links on our website to third party sites we think you may be interested in. These sites are independent from Talbots and have their own separate privacy policies. Whenever you click on links on Talbots website that take you to a third party website, you will be subject to the third party's privacy policies, and not Talbots. We recommend that you review their privacy polices before you visit these sites. 
 
 ### Children's Privacy 
 
-Talbots' website is not intended for use by children under the age of 13. We do not knowingly collect or solicit any personal information from children under the age of 13 or knowingly allow such persons to register for an online account. Should we learn that someone under the age of 13 has provided any personal information to or on Talbots' website, we will remove that information as soon as possible.
+Talbots website is not intended for use by children under the age of 13. We do not knowingly collect or solicit any personal information from children under the age of 13 or knowingly allow such persons to register for an online account. Should we learn that someone under the age of 13 has provided any personal information to or on Talbots website, we will remove that information as soon as possible.
 
 ### California Privacy Rights 
 
-Under California Civil Code Section 1798.83, Talbots' customers living in the State of California can request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. Please contact us by telephone at 1-800-TALBOTS (1-800-825-2687), FAX 1-800-438-9443, or by email at [customer.service@talbots.com](mailto:customer.service@talbots.com) or you may write to us at Talbots, One Talbots Drive, Hingham, MA 02043.
+Under California Civil Code Section 1798.83, Talbots customers living in the State of California can request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. Please contact us by telephone at 1-800-TALBOTS (1-800-825-2687), FAX 1-800-438-9443, or by email at [customer.service@talbots.com](mailto:customer.service@talbots.com) or you may write to us at Talbots, One Talbots Drive, Hingham, MA 02043.
 
 ### Contact Information
 
@@ -222,12 +228,4 @@ Talbots is a member of the Direct Marketing Association (DMA) and complies with 
 
 ### Changes To Talbots' Privacy Policy
 
-Talbots reserves the right to modify this Privacy Policy at any time. Changes will be posted on our website. We encourage you to check Talbots' Privacy Policy when you visit our website. 
-
-### Talbots Terms and Conditions for Text Messages
-
-The mobile operators participating in this campaign are AT&T, Verizon Wireless, Sprint, T-Mobile, Nextel, Boost, Dobson and Alltel. If your mobile operator is not participating, you will not receive a reply to your messages. Some operators may not support some services at the prices offered. Pre-paid users may not be able to participate - Check with your mobile operator. To opt in for: Talbots text messages, text TALBOTS to 36302. You will receive up to 4 messages per month. 
-
-Message and Data Rates May Apply. To stop a service at any time, reply TALBOTS STOP to 36302. Text TALBOTS HELP to 36302 to receive help information, reply TALBOTS HELP to any message. Any messages you send in text messages become our property. No remuneration is implied or offered. News and data delivered are believed to be accurate at the time of delivery. For Support, email customer.service@talbots.com or call 1-800-992-9010. 
-
-We take great precautions to keep the information you share with us safe and private. We will not sell or give your personal information to other marketers without your express consent. However, from time to time, we would like your permission to send you sneak previews of new products, or personalized offers or tips. You will be receiving these offers or tips only if you choose to opt-in to these services. 
+Talbots reserves the right to modify this Privacy Policy at any time. Changes will be posted on our website. We encourage you to check Talbots Privacy Policy when you visit our website. 
