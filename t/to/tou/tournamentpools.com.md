@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tournamentpools.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213014240id_/http%3A//tournamentpools.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tournamentpools.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325123544id_/http%3A//tournamentpools.com/w3c/policy.html) for the most accurate reproduction.*
 
 # Tournament Pools Privacy Policy
 
@@ -6,10 +6,10 @@ This privacy statement applies to the website of:
 
 TournamentPools.com   
 John Cranston - Website Manager   
-Englewood, CO 80112   
+Castle Rock, CO 80108   
 US   
-1-303-483-7560   
-[privacy@officefootballpool.com](mailto:privacy@officefootballpool.com)
+303-222-0030   
+[privacy@tournamentpools.com](mailto:privacy@tournamentpools.com)
 
 We respect your privacy. This is why we have taken the time to disclose our information collection practices and our privacy policy. Please take the time to review this document. 
 
@@ -23,7 +23,7 @@ We keep track of when you log into the website and when you enter picks and we w
 
 We track the number of visits to every page on our website but we don't track who visited that page. When you are browsing the website, you are anonymous. 
 
-To log into your account on our website, your browser must accept cookies from the website. Cookies are necessary to maintain your session and stay logged in. Generally, we assign 3 cookies to your browser. Two are called CFID and CFTOKEN. The other is named something like this: Coyote-2-a500132. 
+To log into your account on our website, your browser must accept cookies from the website. Cookies are necessary to maintain your session and stay logged in. Generally, we assign 3 cookies to your browser. Two are called CFID and CFTOKEN and the other is called HAPROXY. 
 
 ## Collecting information provides specific benefits to our website visitors:
 
