@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the yummytummyaarthi.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121054410id_/http%3A//www.yummytummyaarthi.com/p/800x600-normal-0-false-false-false-en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yummytummyaarthi.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325041830id_/http%3A//www.yummytummyaarthi.com/p/this-privacy-policy-sets-out-how-yummy.html) for the most accurate reproduction.*
 
 # YUMMY TUMMY: Privacy Policy
-
-  
-
 
 This privacy policy sets out how Yummy Tummy  uses and protects any information that you give while using www.yummytummyaarthi.com  
   
@@ -36,6 +33,7 @@ A cookie is a small file which asks permission to be placed on your computer's h
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.   
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.   
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.  
+** **  
 **Advertising**  
 Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, one of which is [http://www.gourmetads.com](http://www.gourmetads.com/). These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
 
@@ -49,6 +47,5 @@ You may choose to restrict the collection or use of your personal information in
 
 ·         if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us.  
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.  
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us. 
