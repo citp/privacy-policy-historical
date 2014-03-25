@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clixplanet.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117133226id_/http%3A//www.clixplanet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clixplanet.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325192224id_/http%3A//clixplanet.com/privacy-policy) for the most accurate reproduction.*
 
-# ClixPlanet - The next generation PTC
+# ClixPlanet - Make money easy as clix!
 
 ### Privacy Policy
 
