@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lmaobruh.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108154134id_/http%3A//www.lmaobruh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lmaobruh.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325023927id_/http%3A//www.lmaobruh.com/privacy-policy) for the most accurate reproduction.*
 
-# Funny Pictures | Funny Images | Urban | Funny Memes, with Pics and Photos!
+# LMAOBRUH - More Than Just Comedy.
 
 * ### Introduction
 
