@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centraldesktop.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103203028id_/http%3A//www.centraldesktop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centraldesktop.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325034224id_/http%3A//www.centraldesktop.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Central Desktop
 
@@ -36,7 +36,7 @@ We cannot guarantee the security of your data while it is being transmitted over
 
 Safe Harbor  
 [ We self-certify compliance with  
-](http://www.export.gov/safeharbor) Central Desktop complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Central Desktop has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
+](https://safeharbor.export.gov/list.aspx) [ ](http://www.export.gov/safeharbor) Central Desktop complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Central Desktop has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
 
 In compliance with the US-EU and US-Swiss Safe Harbor Principles, Central Desktop commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Central Desktop at: [privacy@centraldesktop.com](mailto:privacy@centraldesktop.com)
 
