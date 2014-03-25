@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terlambat.info privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108040621id_/http%3A//www.terlambat.info/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terlambat.info privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325195918id_/http%3A//www.terlambat.info/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy ~ Terlambat.info
 
