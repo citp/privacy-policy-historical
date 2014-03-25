@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rivs.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429231339id_/https%3A//www.rivs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rivs.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325190338id_/https%3A//www.rivs.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | RIVS | Efficient Hiring
+# Privacy Policy | RIVS Digital Interviews | Video Interviews | Job Applicant Management | Efficient Hiring
 
 This Privacy Policy was last updated on April 17th, 2013
 
-This Privacy Policy (“Privacy Policy”) explains how RIVS, Inc. (“RIVS,” “we” or “us”) collect, use and share personally identifiable information of visitors of our web site [www.rivs.com](https://www.rivs.com/) (the “Site”) and users of our digital interview application (the “Services”). The use of information collected through the Services shall be limited to the purpose of providing those Services to our customers. By using the Site and/or Services, you consent to the collection, use and disclosure of your personally identifiable information in accordance with this Privacy Policy.
+This Privacy Policy (“Privacy Policy”) explains how RIVS, Inc. (“RIVS,” “we” or “us”) collect, use and share personally identifiable information of visitors of our web site <https://www.rivs.com/> (the “Site”) and users of our digital interview application (the “Services”). The use of information collected through the Services shall be limited to the purpose of providing those Services to our customers. By using the Site and/or Services, you consent to the collection, use and disclosure of your personally identifiable information in accordance with this Privacy Policy.
 
 RIVS has committed to work with the European Data Protection Authorities to ensure our practices are compliant with the E.U. Safe Harbor framework. Should you have any questions or complaints in regards to our privacy policy or practices please contact us at [support@rivs.com](mailto:support@rivs.com). If you are not satisfied with our response you may contact the [European Data Protection Authorities here](http://ec.europa.eu/justice/data-protection/bodies/authorities/eu/).
 
