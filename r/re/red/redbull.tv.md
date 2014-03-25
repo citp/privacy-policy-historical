@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbull.tv privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014040018id_/http%3A//www.redbull.tv/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbull.tv privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325030600id_/http%3A//www.redbull.tv/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
