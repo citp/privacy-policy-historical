@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmc-uk.org privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030031056id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmc-uk.org privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325185903id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.*
 
 # GMC | Privacy and Cookies policy
 
@@ -7,14 +7,16 @@ This privacy and cookies policy only applies to this General Medical Council we
 This statement outlines how we will use and protect information that you provide us about yourself.
 
   1. 1\. How we use your personal data
-  2. 2\. Your rights under the Data Protection Act 1998
-  3. 3\. Our use of cookies
-  4. 4\. Social media
-  5. 5\. Website security: how we protect your information
+
+
+  1. 2\. Your rights under the Data Protection Act 1998
+  2. 3\. Social media 
+  3. 4\. Website security: how we protect your information
+  4. 5\. Use of cookies
 
 
 
-## 1\. How we will use your personal data
+## 1\. How we use your personal data
 
 We may collect personal information about you if you take part in a consultation, if you request to join one of our mailing lists or if you register with us as a doctor.
 
@@ -60,9 +62,19 @@ We have contracts with other organisations (or Third Parties) to carry out certa
 
 
 
+### Equality and Diversity Information
+
+The GMC is committed to treating everyone fairly and meeting our legal responsibilities under the Equality Act 2010 and related legislation (such as the Human Rights Act 1998). One of the ways we do this is by asking people to provide information about their ethnicity, disability, gender, sexual orientation, religion and beliefs.
+
+Giving us this information is optional. If you choose to give it to us, we will keep it confidential and hold it securely in line with data protection and other relevant legislation. We will use the information you give us to analyse and report on statistical trends in medical education and practice in the UK. We will anonymise any data we publish so you can’t be identified.
+
+The information may be used by different teams at the GMC. We may also share your personal data with other parties if required by law, where ordered by a court, or where it is otherwise in the public interest (for example for research purposes). Where possible, data will be anonymised or aggregated before we share it with any other party
+
 ### Consultation
 
 We invite feedback from you about the site and, from time to time, we use the site to carry out electronic consultation exercises. If you send comments to us via the site we will collect your comments and your contact details for the purposes of the consultation concerned.
+
+The information you supply will be stored and processed by the GMC in accordance with the Data Protection Act 1998. Any reports published using this information will not contain any personally identifiable information, We may provide anonymised responses to the consultation to third parties for quality assurance, or approved research projects on request.
 
 ## 2\. Your rights under the Data Protection Act 1998
 
@@ -70,7 +82,37 @@ You may obtain confirmation of the basic information that we hold about you at a
 
 You are also able to make a request for all information that we hold about you under section 7 of the Data Protection Act 1998. This request must be made in writing and we make a charge of £10 for each request.
 
-## 3\. Use of Cookies
+## 3\. Social media
+
+We use several social media sites to raise awareness of our work and promote good medical practice. Please note that your use of these sites will be subject to each one’s terms and conditions. Please read their Privacy and Cookie notices carefully and check your personal settings where appropriate to ensure you are happy with how your information will be used by the social media site. We don’t actively collect data you submit to any third party websites, but may collect aggregated information (that doesn’t identify you) in order to help us monitor access to our content. We use the following social media sites:
+
+  * [Twitter](https://www.twitter.com/gmcuk)
+  * [Facebook](https://www.facebook.com/GMCUK)
+  * [Google+](https://plus.google.com/u/0/103853150037270723033)
+  * [LinkedIn](http://www.linkedin.com/company/general-medical-council "Opens in a new window")
+  * [Wordpress](http://gmcuk.wordpress.com/ "Opens in a new window")
+  * [Storify](http://storify.com/GMCUK "Opens in a new window")
+  * [YouTube](http://www.youtube.com/user/GMCUKtv "Opens in a new window")
+  * [Pinterest](http://www.pinterest.com/gmcuk/ "Opens in a new window")
+  * [Flickr](http://www.flickr.com/photos/generalmedicalcouncil "Opens in a new window")
+  * [Audioboo](http://audioboo.fm/GMC-UK "Opens in a new window")
+  * [Slideshare](http://www.slideshare.net/GMCUK/ "Opens in a new window")
+  * [Issuu](http://issuu.com/gmcuk "Opens in a new window")
+  * [Prezi](http://prezi.com/user/GMCUK/ "Opens in a new window")
+
+
+
+Read more about our [social media sites](http://www.gmc-uk.org/about/contactus/14342.asp "Opens in a new window").
+
+## 4\. Website security: how we protect your information
+
+We are committed to keeping your information secure, including any financial transactions you make with us online.
+
+We are accredited to the international information security standard ISO27001 and protect our IT infrastructure in line with industry standards and good practice. We also arrange for our systems and processes to be audited by independent experts.
+
+For further advice on how you can keep your information secure online, you may find it useful to visit [Get Safe Online](http://www.getsafeonline.org/ "Opens in a new window"), which is jointly funded by government and private sector businesses.
+
+## 5\. Use of Cookies
 
 When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally. In some cases we may record your computer’s IP address in a cookie so that we are able to remember your preferences when visiting our website.
 
@@ -105,9 +147,9 @@ The information below details the cookies used on the GMC websites.
 
 The following cookies are set by the GMC.  
 
-##### The GMC website: [http://www.gmc-uk.org]
+#### The GMC website: [http://www.gmc-uk.org]
 
-N.B. Certain pages on the GMC website have ‘Share’ functionality with Facebook and Twitter that result in an advertising cookie ‘AddThis.com’ being added to your device. Personal information is not collected by this cookie, but you can easily stop AddThis from collecting any information about you for online behavioural advertising by [opting out](http://www.addthis.com/privacy/opt-out "Opens in a new window").
+N.B. Certain pages on the GMC website have ‘Share’ functionality with Facebook and Twitter that result in an advertising cookie ‘AddThis.com’ being added to your device. Personal information is not collected by this cookie, but you can easily stop AddThis from collecting any information about you for online behavioural advertising by [opting out](http://www.addthis.com/privacy/opt-out "Opens in a new window"). 
 
  Name    | Purpose  | Cookie type   
 ---|---|---  
@@ -117,13 +159,13 @@ MobileNoDetect | This cookie is set to allow a mobile device to use a link to vi
 _atuvc | This cookie is an Addthis.com cookie set when using the Share functionality for Facebook and Twitter. | Persistent  
 GMCAcceptCookie | This is set when you click on 'Accept cookies'   | Persistent  
   
-#####  The GMC Mobile website: [http://www.gmc-uk.org/mobile]
+####  The GMC Mobile website: [http://www.gmc-uk.org/mobile]
 
  Name | Purpose | Cookie type  
 ---|---|---  
 WT_FPC | This is our analytics provider Webtrends’ cookie used to collect information about which pages are popular and number of visitors to our site. We use the information to compile reports and to help us improve the site. | Persistent  
   
-##### The GMC Learning Disabilities website: [http://www.gmc-uk.org/learningdisabilities]
+#### The GMC Learning Disabilities website: [http://www.gmc-uk.org/learningdisabilities]
 
 N.B. The pages on the GMC Learning Disabilities website have ‘Share’ functionality with Facebook and Twitter that result in an advertising cookie ‘AddThis.com’ being added to your device. Personal information is not collected by this cookie, but you can easily stop AddThis from collecting any information about you for online behavioural advertising by [opting out](http://www.addthis.com/privacy/opt-out "Opens in a new window").
 
@@ -134,7 +176,7 @@ ASP.NET_SessionId | This cookie is necessary for site functionality. | Session
 _atuvc | This cookie is an Addthis.com cookie set when using the Share functionality for Facebook and Twitter. | Persistent  
 GMCAcceptCookie  | This is set when you click on 'Accept cookies'    | Persistent   
   
-##### The GMC Consultation website: [https://gmc.e-consultation.net/econsult/]
+#### The GMC Consultation website: [https://gmc.e-consultation.net/econsult/]
 
 Name | Purpose | Cookie type  
 ---|---|---  
@@ -151,7 +193,7 @@ This is used for the “Remember Me” function upon a successful login.
 
 Persistent  
   
-##### The GMC Recruitment website: [https://jobs.gmc-uk.org]
+#### The GMC Recruitment website: [https://jobs.gmc-uk.org]
 
 Name | Purpose | Cookie type  
 ---|---|---  
@@ -162,7 +204,7 @@ Ccp_name2965   | Captures candidate name - only set if user registers to use t
 Wedeputy_reg_username_3552 | Captures candidate username - only set if user registers to use the site and allows user to apply for jobs. | Session  
 Wedeputy_reg_email_3552 | Captures candidate email address - only set if user registers to use the site and allows user to apply for jobs. | Session  
   
-##### GMC Connect: [https://webcache.gmc-uk.org/filescanner/upload]
+#### GMC Connect: [https://webcache.gmc-uk.org/filescanner/upload]
 
 Name | Purpose | Cookie type  
 ---|---|---  
@@ -172,54 +214,11 @@ jsessionid | This cookie is necessary to upload a file to GMC Connect. | Session
 
 The following cookies are set by third parties who provide a service to the GMC:
 
-##### The GMC website: [http://www.gmc-uk.org]
-
-##### The GMC Mobile website: [http://www.gmc-uk.org/mobile]
-
-##### The GMC Learning Disabilities website: [http://www.gmc-uk.org/learningdisabilities]
+  * The GMC website: [http://www.gmc-uk.org]
+  * The GMC Mobile website: [http://www.gmc-uk.org/mobile]
+  * The GMC Learning Disabilities website: [http://www.gmc-uk.org/learningdisabilities]
 
 Name | Purpose | Cookie type  
 ---|---|---  
 WEBTRENDS_ID | This is our analytics provider Webtrends’ cookie used to collect information about which pages are popular and number of visitors to our site. We use the information to compile reports and to help us improve the site. | Persistent  
-ACOOKIE | This is our analytics provider Webtrends’ cookie used to collect information about which pages are popular and number of visitors to our site. We use the information to compile reports and to help us improve the site. | Persistent  
-  
-## 4\. Social media
-
-We use several social media sites to raise awareness of our work and promote good medical practice. Please note that your use of these sites will be subject to each one’s terms and conditions. Please read their Privacy and Cookie notices carefully and check your personal settings where appropriate to ensure you are happy with how your information will be used by the social media site. We don’t actively collect data you submit to any third party websites, but may collect aggregated information (that doesn’t identify you) in order to help us monitor access to our content. We use the following social media sites:
-
-  * [Twitter](https://www.twitter.com/gmcuk)
-  * [Facebook](https://www.facebook.com/GMCUK)
-  * [Google+](https://plus.google.com/u/0/103853150037270723033)
-  * [LinkedIn](http://www.linkedin.com/company/general-medical-council "Opens in a new window")
-  * [Wordpress](http://gmcuk.wordpress.com/ "Opens in a new window")
-  * [Storify](http://storify.com/GMCUK "Opens in a new window")
-  * [YouTube](http://www.youtube.com/user/GMCUKtv "Opens in a new window")
-  * [Pinterest](http://www.pinterest.com/gmcuk/ "Opens in a new window")
-  * [Flickr](http://www.flickr.com/photos/generalmedicalcouncil "Opens in a new window")
-  * [Audioboo](http://audioboo.fm/GMC-UK "Opens in a new window")
-  * [Slideshare](http://www.slideshare.net/GMCUK/ "Opens in a new window")
-  * [Issuu](http://issuu.com/gmcuk "Opens in a new window")
-  * [Prezi](http://prezi.com/user/GMCUK/ "Opens in a new window")
-
-
-
-Read more about our [social media sites](https://web.archive.org/about/contactus/14342.asp).
-
-## 5\. Website security: how we protect your information
-
-We are careful to guard the security of your personal data and the details of any transactions you make with us over the Internet.
-
-This we do by putting in place and carefully administering a secure IT infrastructure in accordance with industry standards and good practice. We also arrange for audit of our systems by independent experts.
-
-When you use our website to make payments, for example for a PLAB test, we use a secure server. Any data you enter is encrypted using a 'Secure Socket Layer' (SSL) session. SSL is an industry standard security device and a way to ensure Internet messages are not intercepted. However, older browsers cannot use SSL. To be sure, you will need Netscape version 4.05 or Microsoft Internet Explorer browsers, version 4 or above.
-
-There are a number of things you can do to help protect yourself from Internet fraud:
-
-  * When you have finished your session log off the GMC website to prevent your details being seen by anyone else.
-  * Clear any 'cache' so there is no record of any transactions left on screen - both Netscape and Internet Explorer let you do this.
-  * Close your browser so that any history of the session is cleared.
-  * As an extra precaution your session on many areas of our website will terminate if you have not used the site for 15 minutes.
-
-
-
-If you have any comments on how we can improve the website, please let us know.
+ACOOKIE | This is our analytics provider Webtrends’ cookie used to collect information about which pages are popular and number of visitors to our site. We use the information to compile reports and to help us improve the site. | Persistent
