@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dress-for-less.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925013041id_/http%3A//www.dress-for-less.com/tmpl/service.tmpl%3Farea%3Dterms%26nav%3Ddat%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dress-for-less.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325231849id_/http%3A//www.dress-for-less.com/tmpl/service.tmpl%3Farea%3Dterms%26nav%3Ddat%26) for the most accurate reproduction.*
 
 # dress-for-less | Online designer fashion and branded clothing outlet
 
@@ -30,8 +30,8 @@ Mönchhofallee 1
 D-65451 Kelsterbach  
 Germany
 
-Telephone: +49 (0) 1806 for-less / +49 (0) 1806 3675377  
-(0,20 €/min in the German network, max 0,60 €/min in the mobile network)  
+Telephone: +49 (0) 61 42 83 54 401
+
 Monday until friday from 09:00 until 18:00 (CET)
 
 eMail: [Datenschutz@dress-for-less.de](mailto:datenschutz@dress-for-less.de)
@@ -68,13 +68,13 @@ You can prevent cookies from being saved in your browser by clicking the menu ba
 
 ### Re-Targeting 
 
-Information on the website visitor's surfing behaviour is collected on our pages in anonymised form for marketing purposes and is saved in cookies by means of so-called re-targeting technologies. This technique facilitates an analysis of the Internet users' surfing behaviour by means of an algorithm so they can subsequently be notified about selective product recommendations as a suitable advertising banner when other websites are visited. We are convinced that the display of personalised, interest-based advertising is generally more interesting to the Internet user than advertising without such personal reference.
+Information on the website visitor''s surfing behaviour is collected on our pages in anonymised form for marketing purposes and is saved in cookies by means of so-called re-targeting technologies. This technique facilitates an analysis of the Internet users'' surfing behaviour by means of an algorithm so they can subsequently be notified about selective product recommendations as a suitable advertising banner when other websites are visited. We are convinced that the display of personalised, interest-based advertising is generally more interesting to the Internet user than advertising without such personal reference.
 
 This form of advertising is carried out anonymously altogether. The data can by no means be used to personally identify the website visitor. The collected data are merely used to improve the promotional offers. There is no other use or transmission to third parties.
 
 On each displayed banner there is usually an "i" (for information) which opens on mouseover and leads to a page on which the system is explained and an opt-out is offered on click. An opt-out cookie is set if you click on "opt-out" which disables the display of these banners in future.
 
-There is no direct option to opt out on the Google banners. You can object to the completely anonymous analysis of your surfing behaviour through Google by clicking on the two following links for removal: [Google Austragung](http://www.networkadvertising.org/managing/opt_out.asp) and [Teracent Austragung](http://www.teracent.com/about-us/opt-out/). More information on the Google technology can be gathered from the [Google data protection regulations](http://www.google.de/intl/de/privacy/privacy-policy.html).
+There is no direct option to opt out on the Google banners. You can object to the completely anonymous analysis of your surfing behaviour through Google by clicking on the two following links for removal: [Google Austragung](http://www.networkadvertising.org/managing/opt_out.asp). More information on the Google technology can be gathered from the [Google data protection regulations](http://www.google.de/intl/de/privacy/privacy-policy.html).
 
 ### facebook 
 
