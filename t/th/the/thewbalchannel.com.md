@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewbalchannel.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508140651id_/http%3A//www.wbaltv.com/connect/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewbalchannel.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325082151id_/http%3A//www.wbaltv.com/connect/privacy) for the most accurate reproduction.*
 
 # WBALTV.com Privacy Policy
 
