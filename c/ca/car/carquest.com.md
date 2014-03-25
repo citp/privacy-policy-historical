@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carquest.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822142813id_/http%3A//www.carquest.com/webapp/wcs/stores/servlet/StaticView%3FstoreId%3D10151%26catalogId%3D10651%26content%3DPrivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carquest.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325084308id_/http%3A//www.carquest.com/webapp/wcs/stores/servlet/StaticView%3FstoreId%3D10151%26catalogId%3D10651%26content%3DPrivacy.html) for the most accurate reproduction.*
 
 # CARQUEST
 
@@ -34,13 +34,13 @@ Subject to applicable contractual or legal restrictions, we may from time to tim
 ## **Email**  
 
 
-We appreciate your questions and comments about CARQUEST Auto Parts and its products and welcome your email messages to contactus@carquest.com. We will share your messages with those within our organization who are most capable of addressing the issues contained in your message.  We will keep a copy of your message until we have had an opportunity to address your concerns.  We may archive your message for a certain period of time or discard it once it is no longer needed.  
+We appreciate your questions and comments about CARQUEST Auto Parts and its products and welcome your email messages to Customer.Feedback@CARQUEST.com. We will share your messages with those within our organization who are most capable of addressing the issues contained in your message.  We will keep a copy of your message until we have had an opportunity to address your concerns.  We may archive your message for a certain period of time or discard it once it is no longer needed.  
 
 
 ## **Your Rights**  
 
 
-You have the right to ask in writing not to receive direct marketing material from us. If available, you can amend your previous preference by emailing an “unsubscribe email” to contactus@carquest.com or refer to our literature (including the email sent to you by us) containing unsubscribe instructions. Once properly notified by you, we will take steps to stop using your information in this way. Please allow us a reasonable period of time in order to satisfy your request.
+You have the right to ask in writing not to receive direct marketing material from us. If available, you can amend your previous preference by emailing an “unsubscribe email” to Customer.Feedback@CARQUEST.com or refer to our literature (including the email sent to you by us) containing unsubscribe instructions. Once properly notified by you, we will take steps to stop using your information in this way. Please allow us a reasonable period of time in order to satisfy your request.
 
 ## ** ** **Use of Tools, "Cookies" and Links to Other Websites**  
 
@@ -91,7 +91,7 @@ For your convenience, we may provide links to other websites and web pages that 
 
 ## **How To Contact Us**
 
-If you have any questions about this Policy or would like to learn more about how we protect privacy, please contact us by phone at 1-800-854-3999 or by email at contactus@carquest.com.  
+If you have any questions about this Policy or would like to learn more about how we protect privacy, please contact us by phone at 1-800-854-3999 or by email at Customer.Feedback@CARQUEST.com.  
 
 
 Privacy Policy: last updated July 18, 2013.
