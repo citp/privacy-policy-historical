@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the tigerclaw.com privacy policy that was archived on 2013-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130218053521id_/https%3A//www.tigerclaw.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerclaw.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325234835id_/https%3A//www.tigerclaw.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # Martial Arts Supplies, Uniforms, Sparring Gear, and More from Tiger Claw :: Customer Service
-
-  
-
-
-## Privacy Policy
 
 **What information do we collect?  
 **When you establish a wholesale account with Tiger Claw, we will ask you for basic contact information to include; Business name, billing address, shipping address, contact phone numbers, owner name, proof of business, and other related information concerning your business.
