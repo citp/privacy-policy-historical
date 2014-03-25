@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massagetherapy.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619005142id_/http%3A//www.massagetherapy.com/contact/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massagetherapy.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325104104id_/http%3A//www.massagetherapy.com/contact/privacy_policy.php) for the most accurate reproduction.*
 
 # Associated Bodywork & Massage Professionals Privacy Policy
 
@@ -24,5 +24,17 @@ Cookies are small, digital signature files that are stored by your web browser t
 
   
   |  |    
+
+
+## Videos About Massage
+
+  * [I Helped Some _Body_](http://youtu.be/Uw72SWRkXCY)
+  * [What to Expect from a Massage Session](http://youtu.be/zX_MkCbx98w)
+  * [Massage: A Perfect Gift](http://youtu.be/DjbVYlnRA3Y)
+  * [Massage for Specific Conditions](http://youtu.be/_CrS8gsUJnU)
+  * [Find a Therapist](http://youtu.be/IvpO_5j9eVc)
+
+
+
   
 
