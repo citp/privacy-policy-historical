@@ -1,25 +1,88 @@
-> *The following text is extracted and transformed from the offerx.co.uk privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810034552id_/http%3A//www.offerx.co.uk/documents/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerx.co.uk privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325073219id_/http%3A//www.offerx.co.uk/documents/privacy) for the most accurate reproduction.*
 
 # Win free prizes and competitions online | OfferX
 
 ###  Privacy Policy
 
-Last updated: 12 February 2013
+Last updated: 16 October 2013
 
 ##  Introduction
 
 Marketing Punch recognizes that your privacy and the protection of your personal information is important to you. Marketing Punch takes your privacy seriously, taking every reasonable precaution to safeguard the personal information that you provide. Marketing Punch complies fully with the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003. If you wish to find out more please visit [ http://www.ico.gov.uk](http://www.ico.gov.uk/)
 
-This statement discloses how Marketing Punch helps to protect your personal information while using the OfferX website.
+OfferX is owned and operated by Marketing Punch. This statement discloses how Marketing Punch helps to protect your personal information while using the OfferX website.
 
 ##  Collected Data
 
-Marketing Punch collects, store and uses data about you and answers to specific questions asked by sponsors. Marketing Punch and its clients or sponsors may contact you with offers and information which they feel will be of interest to you through mail, telephone or email. We may also use the personal information you provide for the purposes of: identity verification, credit and risk management, revenue collection, database verification and enhancement. If you would prefer your information not to be used in these ways, please [unsubscribe here](https://web.archive.org/web/20130810034552id_/http%3A//www.offerx.co.uk/email-preferences?l=2).
+Marketing Punch collects, store and uses data about you and answers to specific questions asked by sponsors. Marketing Punch and its clients or sponsors may contact you with offers and information which they feel will be of interest to you through mail, telephone or email. We may also use the personal information you provide for the purposes of: identity verification, credit and risk management, revenue collection, database verification and enhancement. If you would prefer your information not to be used in these ways, please [unsubscribe here](https://web.archive.org/web/20140325073219id_/http%3A//www.offerx.co.uk/email-preferences?l=2).
 
 Sponsors of the OfferX website have their own privacy policies and some have their own opt-in statements, it is strongly recommended that you read and understand this information.
 
 Your data together with that of other subscribers may be aggregated at postcode or similar levels for the building of statistical and analytical tables. At no time will your data be individually identifiable in such tables.
 
+## Data Collection Notice
+
+Here is our list of valued, third part data partners, who will send you marketing messages
+
+Astrology| Tara  
+---|---  
+Charity| Age UK  
+Alzheimer's Society  
+Guide Dogs  
+Shelter  
+Comparison| uSwitch  
+Gogroupie  
+Competition Sites| Free Stuff  
+GetMEATicket  
+Simple Prizes  
+Free Stuff World  
+Prize Reactor  
+Daily Deals| Daily Deals  
+CSMA  
+Data Shares| Adsalsa - Bonotour  
+Fashion| Brand Alley  
+Financial| Learn to trade  
+uBinary  
+Gambling| Casino Action  
+Casino Classic  
+Scratch Mania  
+European Lottery Guild  
+Icelotto  
+Karamba  
+Ladbrokes  
+Scratch Cards  
+Iceland Bingo  
+Bingo Café  
+King Jackpot  
+General| Optical Express  
+Sell My Story  
+Love Honey  
+Insurance| Axa Sunlife Insurance  
+Saving On  
+Pink Legal  
+Personal Injury| Accident Advice Helpline  
+Subscription| Prize Pun  
+Juicy Win  
+Prize Fun  
+Prize Hook  
+Survey| Global Test Market  
+Inbox Pounds  
+Toluna  
+MindMover  
+Take Surveys  
+Telecommunication| Vodafone  
+Travel| Deal Checker  
+WeatherWherever  
+Information Link  
+Utilities| npower  
+Scottish Power  
+General Marekting| TTH Ltd  
+The Trading Floor  
+Magnetise Media  
+Acxiom  
+Mail2Media  
+XL Marketing  
+  
 ##  Registration Information
 
 When you are registering with the OfferX website, it is not until you click the submit button that your information is transferred to the website. Once you have completed and submitted all your details you have then "completed" the registration confirming you are a valued member of OfferX.
@@ -84,17 +147,28 @@ A cookie is a small text-only file which is stored on your computer or mobile de
 
 Cookie |  Name |  Purpose  
 ---|---|---  
-Google Analytics |  __utma  
+Google Analytics |  _ga  
+__utma  
 __utmb  
 __utmc  
+__utmv  
 __utmz | 
 
 These cookies allow OfferX to collect information about how visitors use the website. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.[ Click here for an overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)  
   
-Google Adsense |  _drt_  
+Google Adsense |  __gads  
+_drt_  
 id | 
 
-Google uses cookies to serve more relevant ads across the web and limit the number of times a given ad is shown to you. When you visit a website, view an ad, or click an ad supported by Google’s advertising services, Google may set a cookie on your browser. This advertising cookie will appear in your browser as coming from the domain “doubleclick.net.” [ Learn more about Googles Policies](http://www.google.com/policies/privacy/ads/)  
+Google uses cookies to serve more relevant ads across the web and limit the number of times a given ad is shown to you. When you visit a website, view an ad, or click an ad supported by Google’s advertising services, Google may set a cookie on your browser. This advertising cookie will appear in your browser as coming from the domain "doubleclick.net". [ Learn more about Googles Policies](http://www.google.com/policies/privacy/ads/)  
+  
+51 Degrees| 51D| 
+
+Used to help us support mobile devices  
+  
+Pingdom| PRUM_EPISODES| 
+
+Allows us to monitor user experience.  
   
 Visual DNA |  vdnaR  
 vdnaSessionId  
@@ -106,7 +180,13 @@ Network Punch |  Enc_aff_session_nnn |
 
 Network Punch uses cookies to track the source of your visit to the OfferX website.  
   
+ClickTale| WRUID  
+__CT_Data| 
+
+ClickTale is used to record your interaction with the website pages to help us improve the website. See <http://www.clicktale.com/privacy-service> for how your information can be used.  
+  
 Essential site cookies |  cookiesenabled  
+cookietest  
 PrizePunch  
 ASP.NET_SessionId  
 qb:nnnn | 
@@ -135,6 +215,20 @@ Marketing Punch will occasionally update this privacy policy. When we do, we wil
 
 The data controller responsible for the OfferX website is Marketing Punch Ltd ("Marketing Punch"), whose registration number at the UK Information Commissioner's Office (ICO) is Z1503626.
 
+## Useful Information
+
+For useful information about data protection you can visit:
+
+  * The Direct Marketing Association; www.dma.org.uk
+  * The Information Commissioner; www.dataprotection.go.uk
+  * The Citizen Advice Bureau; www.adviceguide.org.uk
+
+
+
+## Access you Information
+
+You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your information please email or write to us at the address below. Also you may ask us to correct information that you think is incorrect. We may make a small charge for these services.
+
 ##  Further Information
 
 If you have questions regarding this privacy policy, please contact Marketing Punch by following this link:
@@ -150,39 +244,25 @@ Gloucester
 GL2 2AT  
 
 
+Tel: 0870 4460031
+
 ###  Today's Daily Prize
 
 The next prize will be won in:
 
-####  Win a multimedia Speaker system!
+####  Win an iPod Nano!
 
-[ Enter Competition](https://web.archive.org/web/20130810034552id_/http%3A//www.offerx.co.uk/documents/daily-prize)
+[ Enter Competition](https://web.archive.org/web/20140325073219id_/http%3A//www.offerx.co.uk/documents/daily-prize)
 
 ###  Free Competitions
 
 #### Money Competitions
 
-##### Win £15,000 cash
+##### Win £3000 cash
 
-Get your hands on £15,000 cash!
+What would you do with £3000? 
 
-[Enter Competition](https://web.archive.org/web/20130810034552id_/http%3A//www.offerx.co.uk/money-competitions/18521-15000-cash)
-
-#### Motor & Travel Competitions
-
-##### Win a Trip to Las Vegas
-
-Win a trip to Las Vegas; the city in the desert that never sleeps!
-
-[Enter Competition](https://web.archive.org/web/20130810034552id_/http%3A//www.offerx.co.uk/travel-competitions/21391-3781-trip-to-las-vegas)
-
-#### Home & Lifestyle Competitions
-
-##### Win a gym membership!
-
-Get fit for free in your local gym!
-
-[Enter Competition](https://web.archive.org/web/20130810034552id_/http%3A//www.offerx.co.uk/lifestyle-competitions/21151-gym_membership2)
+[Enter Competition](https://web.archive.org/web/20140325073219id_/http%3A//www.offerx.co.uk/money-competitions/21391-3000-cash)
 
 #### Electronic & Gadgets Competitions
 
@@ -190,4 +270,20 @@ Get fit for free in your local gym!
 
 Recreate that cinematic magic in your own home with the Bose Lifestyle Home Cinema System.
 
-[Enter Competition](https://web.archive.org/web/20130810034552id_/http%3A//www.offerx.co.uk/electronic-and-gadgets-competitions/21401-3741-bose-home-cinema-system--tv)
+[Enter Competition](https://web.archive.org/web/20140325073219id_/http%3A//www.offerx.co.uk/electronic-and-gadgets-competitions/21401-3741-bose-home-cinema-system--tv)
+
+#### Home & Lifestyle Competitions
+
+##### Win Driving Lessons
+
+If you want to learn to drive, but can’t afford it then we can help!
+
+[Enter Competition](https://web.archive.org/web/20140325073219id_/http%3A//www.offerx.co.uk/lifestyle-competitions/22211-driving-lessons)
+
+#### Home & Lifestyle Competitions
+
+##### Win a pair of Button UGG Boots
+
+Win a pair of UGG Boots that will keep your tootsies warm and snug!
+
+[Enter Competition](https://web.archive.org/web/20140325073219id_/http%3A//www.offerx.co.uk/lifestyle-competitions/22821-ugg-boots)
