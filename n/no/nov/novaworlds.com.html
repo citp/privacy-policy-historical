@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the novaworlds.com privacy policy that was archived on 2013-08-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130805230742id_/http%3A//www.novaworlds.com/en/index.php/static/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the novaworlds.com privacy policy that was archived on 2014-03-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140325145235id_/http%3A//www.novaworlds.com/en/index.php/static/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	<link rel="shortcut icon" href="http://www.novaworlds.com/favicon.ico">
@@ -39,7 +39,7 @@
 	
 
 	<!-- M -->
-	<script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/b45f1717d2e4a080f153fdb0f025ec93861ae0b7.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script async="" src="//connect.facebook.net/en_US/fp.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://assets.novaworlds.com/lib/jquery-1.8.0.min.js"></script>
+	<script async="" src="//connect.facebook.net/en_US/fp.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/b45f1717d2e4a080f153fdb0f025ec93861ae0b7.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://assets.novaworlds.com/lib/jquery-1.8.0.min.js"></script>
         
 	<!-- Add mousewheel plugin (this is optional) -->
 	<!--<script type="text/javascript" src="http://assets.novaworlds.com/lib/jquery.mousewheel-3.0.6.pack.js"></script>-->
@@ -145,7 +145,7 @@ options[document.lang.disp.selectedIndex].value
     function signinerror()
     { 
 		
-        var signuperr = $.trim($('#inline #captcha_error').text());
+        var signuperr = $.trim($('#inline #recatcha_error').text());
 		 var signinerr_user = $.trim($('.user_signerror').text());
 		 var signinerr_pass = $.trim($('.pass_signerror').text());
 		 var forgeterr = $('#inline3 .error').text();
@@ -255,10 +255,10 @@ options[document.lang.disp.selectedIndex].value
 					required: true, 
 					equalTo: ".pass"
 				},
-				 captcha: {
+				 /*captcha: {
 					required: true
 					
-				},
+				},*/
 				accept_terms:{
 					required: {
            			 depends: function(element) 
@@ -274,13 +274,13 @@ options[document.lang.disp.selectedIndex].value
 					 required:"This Field is required!",
                     			 email:"Invalid e-mail.",					
 					// maxlength: "Maximum 100 characters only"
-					 remote: "This e-mail is already registered"
+					 remote: "The e-mail is either registered or incorrect"
 						},
 						
 						confirm_email: { 
 					 required:"This Field is required!",
                     			 email:"Invalid e-mail.",					
-					 //uniqueEmail: "This e-mail is already registered"
+					 //uniqueEmail: "The e-mail is either registered or incorrect"
 					 equalTo: "E-mail doesn't match"
 						},
                 screen_name: {
@@ -299,12 +299,12 @@ options[document.lang.disp.selectedIndex].value
                       },
 				 password_confirm: {
                       required: "This Field is required!",
-                      equalTo: "Passwords are not Matching!"
+                      equalTo: "Passwords do not Match!"
                       },
-					  captcha: {
+					  /*captcha: {
                       required: "This Field is required!"
                       
-                      },
+                      },*/
 				 accept_terms:{
 					 required: "Please accept our terms & conditions."
 					 }	  
@@ -367,10 +367,10 @@ options[document.lang.disp.selectedIndex].value
 					required: true, 
 					equalTo: ".pass_check"
 				},
-				 captcha: {
+				 /*captcha: {
 					required: true
 					
-				},
+				},*/
 				accept_terms:{
 					required: {
            			 depends: function(element) 
@@ -385,7 +385,7 @@ options[document.lang.disp.selectedIndex].value
                 email: { 
 					 required:"This Field is required!",
                      email:"Invalid e-mail.",										
-					 remote: "This e-mail is already registered"
+					 remote: "The e-mail is either registered or incorrect"
 						},
 						
 					confirm_email: { 
@@ -408,12 +408,12 @@ options[document.lang.disp.selectedIndex].value
                       },
 				 password_confirm: {
                       required: "This Field is required!",
-                      equalTo: "Passwords are not Matching!"
+                      equalTo: "Passwords do not Match!"
                       },
-					  captcha: {
+					  /*captcha: {
                       required: "This Field is required!"
                       
-                      },
+                      },*/
 				 accept_terms:{
 					 required: "Please accept our terms & conditions."
 					 }	  
@@ -629,6 +629,8 @@ $(document).ready(function() {
 
 
 
+
+
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -643,6 +645,7 @@ $(document).ready(function() {
   })();
 
 </script>
+
 
 <!--KISSMETRIC-->
 <script type="text/javascript">
@@ -660,9 +663,6 @@ $(document).ready(function() {
   _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
 </script>
 <!--END KISSMETRIC-->
-
-
-
 </head>
 
 
@@ -681,7 +681,54 @@ $(document).ready(function() {
 
 	<body id="sub" onload="signinerror();">
 
+<style>
+/* 
+- Designed by Matt Gentile Creator of Icondeposit.com
+- I sized it specifically for a dribbble shot
+*/
+.notifications {margin-top:-7px;; position: relative; width: auto; height: auto; padding: 0; overflow: visible;}
+.notifications > .new-message a {font-size: 9px !important; font-weight: bold!important; text-decoration: none!important; margin: 0!important; position: absolute!important; padding: 1px 3px!important; height: auto!important; width: auto!important; top: -4px !important; left: 31px !important; color: #f5f5f5 !important; background: #cc0000 !important; background: -moz-linear-gradient(top,#dd0000 0,#cc0000,100%) !important; background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#dd0000),color-stop(100%,#cc0000)) !important; filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#dd0000',endColorstr='#cc0000',GradientType=0) !important; border-radius: 60px !important; -webkit-border-radius: 60px !important; -moz-border-radius: 60px !important; -o-border-radius: 60px !important; border: 1px solid rgba(0,0,0,0.50) !important; box-shadow: 0px 1px 3px rgba(0,0,0,0.35), inset 0px 1px 1px rgba(255,255,255,0.50) !important; -webkit-box-shadow: 0px 1px 3px rgba(0,0,0,0.35), inset 0px 1px 1px rgba(255,255,255,0.50) !important; -moz-box-shadow: 0px 1px 3px rgba(0,0,0,0.35), inset 0px 1px 1px rgba(255,255,255,0.50) !important; -o-box-shadow: 0px 1px 3px rgba(0,0,0,0.35), inset 0px 1px 1px rgba(255,255,255,0.50); z-index: 1; font-family:Arial, Helvetica, sans-serif !important;}
 
+.notifications > .messages a {font-size: 12px !important; font-weight: bold !important; text-decoration: none !important; margin: 0 !important; position: relative!important; padding: 0 16px 34px 35px !important; height: auto !important; width: auto !important; color: #f5f5f5 !important; background:url('http://assets.novaworlds.com/images/message_icon.png') no-repeat !important;}
+
+.notifications > .messages a:hover
+{background:url('http://assets.novaworlds.com/images/message_icon_hover.png') no-repeat !important;	
+}
+.blink_me {
+    -webkit-animation-name: blinker;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: infinite;
+    
+    -moz-animation-name: blinker;
+    -moz-animation-duration: 1s;
+    -moz-animation-timing-function: linear;
+    -moz-animation-iteration-count: infinite;
+    
+    animation-name: blinker;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+@-moz-keyframes blinker {  
+    0% { opacity: 1.0; }
+    50% { opacity: 0.0; }
+    100% { opacity: 1.0; }
+}
+
+@-webkit-keyframes blinker {  
+    0% { opacity: 1.0; }
+    50% { opacity: 0.0; }
+    100% { opacity: 1.0; }
+}
+
+@keyframes blinker {  
+    0% { opacity: 1.0; }
+    50% { opacity: 0.0; }
+    100% { opacity: 1.0; }
+}
+</style>
         
 <!-- START - HEADER -->
 	<header>
@@ -709,7 +756,22 @@ $(document).ready(function() {
 -->
 
 
+				<li class="usrLan">
+				
+               <div style="width: 128px;" class="dd" id="gamedisp_msdd">
+<div class="ddTitle" id="gamedisp_title" style="text-align:center;">
+	<span class="arrow" id="gamedisp_arrow" style="background-position: 0px 0px;"></span>
+    <span id="gamedisp_titletext" class="ddTitleText">
+    	<span class="ddTitleText">Select Game</span>
+   	</span>
+</div>
+<div style="width: 127px; z-index: 9999; top: 22px; display: none;" class="ddChild noBorderTop" id="gamedisp_child">
+<a id="gamedisp_msa_1" class="enabled" href="http://ef.novaworlds.com/en"><img style="" align="absmiddle" src="http://assets.novaworlds.com/images/dlogo_ef.png"> <span class="ddTitleText">Elite Forces</span></a>
+<a id="gamedisp_msa_2" class="enabled" href="http://cos.novaworlds.com/en"><img style="" align="absmiddle" src="http://assets.novaworlds.com/images/dlogo_cos.png"> <span class="ddTitleText">City of Steam </span></a>
+<a id="gamedisp_msa_3" class="enabled" href="http://tlt.novaworlds.com/en"><img style="" align="absmiddle" src="http://assets.novaworlds.com/images/dlogo_tlt.png"> <span class="ddTitleText">The Lost Titans</span></a></div>
+</div>
 
+				</li>
 				<li class="usrLan">
 					<form name="lang">
 						<select name="disp" onchange="go(document.lang.disp)">
@@ -729,7 +791,7 @@ $(document).ready(function() {
 								-->
 								
 								<li class="usrSgnIn"><a class="fancybox" id="signin" href="#inline1" title="Click here to Register or Login"><img src="http://assets.novaworlds.com/images/facebookIcon.png" alt="Facebook" height="12px" width="12px"> Register/Login</a></li>
-							</ul>
+				                 			</ul>
 		</div> <!-- #urLk -->
 		<nav id="manNav" class="dropDownMenu clearFix">
 						<ul>
@@ -766,16 +828,40 @@ $(document).ready(function() {
 
 					</ul>
 				</li>
-												<!--<li><a href="http://www.novaworlds.com/en/index.php/includes/show_message">Charge NOVA</a></li>-->
-				<li class="has-sub"><a href="http://www.novaworlds.com/en/index.php/includes/show_message">Charge NOVA</a>
+								                				<li class="has-sub"><a href="http://www.novaworlds.com/en/index.php/redirect/?encval=af5b24134acb8cadff20a7e347aab6a4&amp;orpnt=http://www.novaworlds.com/en/index.php/myaccount/charge_novas&amp;token=0">Charge NOVA</a>
 					<ul style=" padding-top: 3px;">
-						<li><a href="http://www.novaworlds.com/en/index.php/includes/show_message"><span>Currency Exchange</span></a></li>
-						 <li><a href="http://www.novaworlds.com/en/index.php/includes/show_message"><span>Coupon</span></a></li> 
+                    					<li><a href="http://www.novaworlds.com/en/index.php/redirect/?encval=3aa2f6465fa07482c10e2182044c0f21&amp;orpnt=http://www.novaworlds.com/en/index.php/myaccount/exchange_currency&amp;token=0"><span>Currency Exchange</span></a></li>
+                    					<li><a href="http://www.novaworlds.com/en/index.php/redirect/?encval=1c9d11fb1a965ab8400b829bbcfbe6cb&amp;orpnt=http://www.novaworlds.com/en/index.php/myaccount/coupon&amp;token=0"><span>Coupon</span></a></li>
+                    
+					<li><a href="http://www.novaworlds.com/en/index.php/redirect/?encval=82599878626d065eb7101e32912966e8&amp;orpnt=http://www.novaworlds.com/en/index.php/myaccount/novaforfriend&amp;token=0"><span>Buy NOVA for a Friend</span></a></li>
 					</ul>
 				</li>
 							</ul>
 		</nav> <!-- #mnNv -->
 	</header>
+    
+        
+    
+    
+    
+    <script>
+	$(document).ready(function() {
+				//$('#recaptcha_switch_audio_btn').css('display', 'none');
+				//$('#recaptcha_switch_audio').css('display', 'none');
+				
+			//$('#recaptcha_privacy').css('display', 'none');
+			$('#btn_reg').click(function(){
+				//var captch_val = $('#recaptcha_response_field').val();
+				var captch_val = $('#captcha').val();
+				if(captch_val == '' || captch_val == 'Captcha'){
+					$('#valid_client').css('display', 'block');
+					$('#recatcha_error').css('display', 'none');
+					return false;
+				}
+			});
+			
+		});
+	</script>
 	  <!-----------Popup-window-start {field:email} ---------------->
 	
         <div id="inline1" class="signin-box">
@@ -785,23 +871,23 @@ $(document).ready(function() {
 			<div class="cnt">
 				<div class="cwFb">
                     	<div style="float:left; padding:5px 0 5px 20px;">
-                        	<a href="http://www.novaworlds.com/index.php/includes/register?lang=en&amp;orpnt=http://www.novaworlds.com/en/&amp;referral=&amp;campid=&amp;subid=&amp;pid="><img src="http://assets.novaworlds.com/images/fb_en.png" border="0"></a></div>
+                        	<a href="http://www.novaworlds.com/index.php/includes/register?lang=en&amp;portal=main&amp;orpnt=http://www.novaworlds.com/en/&amp;referral=&amp;campid=&amp;subid=&amp;pid="><img src="http://assets.novaworlds.com/images/fb_en.png" border="0"></a></div>
                        
                         <div style="float:left; padding:5px 0 5px 20px;">
-                        	<a href="http://www.novaworlds.com/index.php/singlesignon/api-google-login/?lang=en&amp;orpnt=http://www.novaworlds.com/en/&amp;referral=&amp;campid=&amp;subid=&amp;pid="><img src="http://assets.novaworlds.com/images/google_en.png" border="0"></a></div>
+                        	<a href="http://www.novaworlds.com/index.php/singlesignon/api-google-login/?lang=en&amp;portal=main&amp;orpnt=http://www.novaworlds.com/en/&amp;referral=&amp;campid=&amp;subid=&amp;pid="><img src="http://assets.novaworlds.com/images/google_en.png" border="0"></a></div>
                         
                         <div style="float:left; padding:5px 0 5px 20px;">
-                        	<a href="http://www.novaworlds.com/index.php/singlesignon/yahoo/?lang=en&amp;orpnt=http://www.novaworlds.com/en/&amp;referral=&amp;campid=&amp;subid=&amp;pid=&amp;login"><img src="http://assets.novaworlds.com/images/yahoo_en.png" border="0"></a>
+                        	<a href="http://www.novaworlds.com/index.php/singlesignon/yahoo/?lang=en&amp;portal=main&amp;orpnt=http://www.novaworlds.com/en/&amp;referral=&amp;campid=&amp;subid=&amp;pid=&amp;login"><img src="http://assets.novaworlds.com/images/yahoo_en.png" border="0"></a>
                         </div>
                         <div style="float:left;padding:5px 0 5px 20px;">
-                        	<a href="http://www.novaworlds.com/index.php/singlesignon/hotmail/?lang=en&amp;orpnt=http://www.novaworlds.com/en/&amp;referral=&amp;campid=&amp;subid=&amp;pid="><img src="http://assets.novaworlds.com/images/live_en.png" border="0"></a>
+                        	<a href="http://www.novaworlds.com/index.php/singlesignon/hotmail/?lang=en&amp;portal=main&amp;orpnt=http://www.novaworlds.com/en/&amp;referral=&amp;campid=&amp;subid=&amp;pid="><img src="http://assets.novaworlds.com/images/live_en.png" border="0"></a>
                         </div>
                     	<div style="clear:both;"></div>
                 </div>
 				<div class="or"><b>Or</b><span class="brdr"></span></div>
 				<form id="sign_in_form" class="formholder" name="login" method="post" action="http://www.novaworlds.com/en/index.php/static/policy">
 <div class="hiddenFields">
-<input type="hidden" name="XID" value="318c9a5d37e97ea47d8ad1d91167dd6e5f255abb">
+<input type="hidden" name="XID" value="651940235c9701df12e502e40a4a4e302a9c92a0">
 <input type="hidden" name="ACT" value="53">
 <input type="hidden" name="_params" value="LUlRsJti6b1wvkHrWf+/M7qPpj3ijKjCZHFB8UVnSCH6UzrTDJFyt3JdwIIvXahnvWJl5CmWENMbR7vJ698KzI/r+Kq2IGTI1nXgeKVi7Tgxv/WOwfp5OGS39C81Mrhz2eqkszlaxCOkkIL7Z5dhBia/eEg9r120FLLaSopY6wPEnSD1YuA+PSMjznhtwLvJgHhlfiQRaa3D+jYSUYDjatvayc0p25rdsCpxbqggkmvUUujaPplkDdMFtxT8kiWo1iUfBUiWfLnulIsaOiDVaTrB/4UQbVQCnkqme5SYof0=">
 <input type="hidden" name="return_url" value="#">
@@ -844,6 +930,7 @@ $(document).ready(function() {
 	</div>
 
 	</div>
+    
          <!------------------------------Sign up- {field:email}---------------------------------------->
 	
 	<div id="inline" class="signout-box">
@@ -852,16 +939,16 @@ $(document).ready(function() {
 			<div class="cnt">
 				<div class="cwFb">
                     	<div style="float:left; padding:5px 0 5px 20px;">
-                        	<a href="http://www.novaworlds.com/index.php/includes/register?lang=en&amp;orpnt=http://www.novaworlds.com/en/&amp;referral=&amp;campid=&amp;subid=&amp;pid="><img src="http://assets.novaworlds.com/images/fb_en.png" border="0"></a></div>
+                        	<a href="http://www.novaworlds.com/index.php/includes/register?lang=en&amp;portal=main&amp;orpnt=http://www.novaworlds.com/en/&amp;referral=&amp;campid=&amp;subid=&amp;pid="><img src="http://assets.novaworlds.com/images/fb_en.png" border="0"></a></div>
                        
                         <div style="float:left; padding:5px 0 5px 20px;">
-                        	<a href="http://www.novaworlds.com/index.php/singlesignon/api-google-login/?lang=en&amp;orpnt=http://www.novaworlds.com/en/&amp;referral=&amp;campid=&amp;subid=&amp;pid="><img src="http://assets.novaworlds.com/images/google_en.png" border="0"></a></div>
+                        	<a href="http://www.novaworlds.com/index.php/singlesignon/api-google-login/?lang=en&amp;portal=main&amp;orpnt=http://www.novaworlds.com/en/&amp;referral=&amp;campid=&amp;subid=&amp;pid="><img src="http://assets.novaworlds.com/images/google_en.png" border="0"></a></div>
                         
                         <div style="float:left; padding:5px 0 5px 20px;">
-                        	<a href="http://www.novaworlds.com/index.php/singlesignon/yahoo/?lang=en&amp;orpnt=http://www.novaworlds.com/en/&amp;referral=&amp;campid=&amp;subid=&amp;pid=&amp;login"><img src="http://assets.novaworlds.com/images/yahoo_en.png" border="0"></a>
+                        	<a href="http://www.novaworlds.com/index.php/singlesignon/yahoo/?lang=en&amp;portal=main&amp;orpnt=http://www.novaworlds.com/en/&amp;referral=&amp;campid=&amp;subid=&amp;pid=&amp;login"><img src="http://assets.novaworlds.com/images/yahoo_en.png" border="0"></a>
                         </div>
                         <div style="float:left;padding:5px 0 5px 20px;">
-                        	<a href="http://www.novaworlds.com/index.php/singlesignon/hotmail/?lang=en&amp;orpnt=http://www.novaworlds.com/en/&amp;referral=&amp;campid=&amp;subid=&amp;pid="><img src="http://assets.novaworlds.com/images/live_en.png" border="0"></a>
+                        	<a href="http://www.novaworlds.com/index.php/singlesignon/hotmail/?lang=en&amp;portal=main&amp;orpnt=http://www.novaworlds.com/en/&amp;referral=&amp;campid=&amp;subid=&amp;pid="><img src="http://assets.novaworlds.com/images/live_en.png" border="0"></a>
                         </div>
                     	<div style="clear:both;"></div>
                 </div>
@@ -869,7 +956,7 @@ $(document).ready(function() {
          
 	   	<form id="register-form" name="register" method="post" action="http://www.novaworlds.com/en/index.php/static/policy">
 <div class="hiddenFields">
-<input type="hidden" name="XID" value="0e6eaf97c1861afe4044197ef13bf6e3953ec4d9">
+<input type="hidden" name="XID" value="86e0d1f953fdf5eea52d50ea7debdaaf63b27c55">
 <input type="hidden" name="ACT" value="55">
 <input type="hidden" name="_params" value="iCr1UGzsqYYkSgyI3cH0GdTJhyotP/6UaCLP1LGm7YoUMAubeUGfcTlbLUONH+9ouC5kx+Y3CrA82qqi3+w6FTiQDjiLh6ryJ7ixMTsHSV6zTSna3j2v53nPAz85l5mor9lY9/0Bf+XRi44AFhG+GcJogxrmo/fgLxKi8Kb0Jj7R5NVuUXJAsOrTEkg1hN+w7ONCTM0FAHfYVHtGV2NgPNKzdyePwtARqiRj3Dn4khsg+R5svrde3WGmDMNtBbo9">
 <input type="hidden" name="return_url" value="#">
@@ -892,20 +979,45 @@ $(document).ready(function() {
     		
         	<input type="password" name="password_confirm" id="password_confirm" value=""><br>
         	<div style="color:#F00;"><span id="msg"></span> </div>
-    		
+    		<!--
+             <div style="">
+                    	<div style="clear:both;"></div>
+        	<div style="height:5px;"></div>
+            <div style="color:#F00;" id="recatcha_error"></div>
+            <div style="color:#F00;display: none;" id="valid_client">This Field is required!</div>
+            <div style="clear:both;"></div>
+    		</div> -->
+            <div style="clear:both;"></div>
+            
 		<input type="hidden" name="lang" value="en">
 		<input type="hidden" name="referral" value="">
 		<input type="hidden" name="campid" value="">
 		
   <input type="hidden" name="subid" value="">
 		<input type="hidden" name="pid" value="">
-	<!--	    		Please enter the following characters into the box below:<br /><img src="http://www.novaworlds.com/images/captchas/1375744062.7596.jpg" width="140" height="30" style="border:0;" alt=" " /> 
+        <input type="hidden" name="portal" value="main">
+	<!--	-->
+		<!--
+             <span></span>
+               		<input type='text' name='captcha' id='captcha' value='' /><br />
+		<div style = "color :#F00;"  id="captcha_error" ></div>-->
+        
+        <div>    		
            
-		-->
-		
-             <span><img src="http://www.novaworlds.com/images/captchas/1375744062.7596.jpg" width="140" height="30" style="border:0;" alt=" "></span>
-               		<input type="text" name="captcha" id="captcha" value=""><br>
-		<div style="color :#F00;" id="captcha_error"></div>
+           <span nowrap="" id="protectwebform_image_block">
+<img id="protectwebform_image" src="http://www.protectwebform.com/image/47123/" style="width:120px;height:40px;"></span>
+<span style="visibility:hidden;" nowrap="" id="protectwebform_reload_block">   <a id="protectwebform_link_reload" href="" title="Click here to reload the image." onclick="return protectwebform_reload_image();"><img src="http://www.protectwebform.com/images/reload.gif" border="0"></a></span>
+<div style="color :#F00;font-size: 10px;" id="captcha_error"></div>
+ <!--<input id="recaptcha_response_field" type="text"  name="protectwebformcode"  value="">-->
+ <input type="text" id="captcha" name="protectwebformcode" placeholder="Captcha" class="hasPlaceholder">
+                                                            <script language="JavaScript" src="http://www.protectwebform.com/javascript/47123/"></script>
+
+                                                                    <div style="clear:both;"></div>
+                                                                     <div style="color:#F00;" id="recatcha_error"></div>
+            <div style="color:#F00;display: none;" id="valid_client">This Field is required!</div>
+        	<div style="height:5px;"></div>
+    
+        </div>
         
                    <span><input type="hidden" name="accept_terms" value=""><input type="checkbox" name="accept_terms" id="accept_terms" value="1"> <label for="accept_terms"><a style="color:#fff;font-weight:bold;text-decoration:underline;" href="http://www.novaworlds.com/index.php/static/terms" target="_blank">Accept Terms</a></label></span>
                           
@@ -918,6 +1030,7 @@ $(document).ready(function() {
             		<div style="height:5px;"></div>    		
 		<!-- mm -->
 
+
 <input type="hidden" name="lang" value="en">
     		<div class="logSec">
 						<div class="stS">
@@ -925,7 +1038,7 @@ $(document).ready(function() {
 							<a class="fancybox" id="signin" href="#inline1" title="" style="display:block">Login here</a>
 						</div>
 						<div>
-							<a href="#"><input type="submit" value="Register" class="btn"></a>
+							<a href="#"><input type="submit" value="Register" id="btn_reg" class="btn"></a>
 						</div>
 					</div>
         	
@@ -944,7 +1057,7 @@ $(document).ready(function() {
 								
 	<form id="sign_forget" name="forget" method="post" action="http://www.novaworlds.com/en/index.php/static/policy">
 <div class="hiddenFields">
-<input type="hidden" name="XID" value="133e362a0bae6291b360114c33cfd6e210e9d0f4">
+<input type="hidden" name="XID" value="638bff576671eaec015f75ba9ce69f38bb287752">
 <input type="hidden" name="ACT" value="57">
 <input type="hidden" name="_params" value="d5V2aMzv5WQja1//EI+RxRzzLG200zGFhZ8XUgB399laYyCwMUO4/CSkcy4s1LxDxOnQGAyfnFvSM3+3qpiyfDY9ha0qKwbNLaEaRjhXdgKAleNKjx4hwC029jM2UoX5DwFa+rbTeFsN7dvMIgTjXHrutmNby8D47D3zvgLE6OokcKbuOHFPRMsiqGDIXa2oJ5YStutMO8Q1shjMKct58dWxUwTOsNKnXqiBxnal8GvXFDyboWYxdRxSYB6y4c0l">
 <input type="hidden" name="return_url" value="#">
@@ -1103,7 +1216,20 @@ fb_param.value = '0.00';
 
 	</div>
     
-	
+		
+    <script>
+	$(document).ready(function(){
+		$('#gamedisp_title').click(function(){
+			var id = $('#gamedisp_child').css("display");
+			if(id == 'none'){$('#gamedisp_child').css("display","block");} else{$('#gamedisp_child').css("display","none");}
+		});
+					
+		$('#gamedisp_msdd').mouseleave(function() {$('#gamedisp_child').css("display","none");});
+
+		
+					
+	});
+	</script>
 
 <div class="container">
 <!--- container-start----------->
@@ -1117,7 +1243,7 @@ fb_param.value = '0.00';
 				<div class="border_new">
 				<div class="whiBlo clearFix">
 					<ul>
-						<li><a href="index.html">Home</a></li>
+						<li><a href="http://www.novaworlds.com/en/">Home</a></li>
 						<li>Privacy Policy</li>
 					</ul>
 				</div>
@@ -1232,6 +1358,7 @@ fb_param.value = '0.00';
 		<img class="fooLog" src="http://assets.novaworlds.com/images/footerLogo.png" alt="DAO" title="DAO Games">
 		<div class="fooRow1"><ul>
 				<li><a href="http://www.novaworlds.com/en/index.php/static/terms">Terms of Service</a></li>
+				<li><a href="http://www.novaworlds.com/en/index.php/static/gamespolicy">Our Games Policy</a></li>
 				<li><a href="http://www.novaworlds.com/en/index.php/static/policy">Privacy Policy</a></li>
 				<!-- <li><a href="http://www.novaworlds.com/en/index.php/static/title">Title</a></li>-->
 				<li><a href="http://www.novaworlds.com/en/index.php/static/faq">FAQ</a></li>
