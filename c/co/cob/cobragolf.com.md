@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cobragolf.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930114907id_/http%3A//www.cobragolf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cobragolf.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325041954id_/http%3A//www.cobragolf.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,11 +35,3 @@ Cobra keeps your personal information for only as long as required to fulfill th
 ### Accuracy And Protection Of Personal Information
 
 Cobra relies on our customers to notify us of any changes in personal information. Should inaccurate information come to our attention, we will investigate and correct the information and, if necessary, advise you of the change. Only those staff members who need your personal information in order to respond to your requests are given access to it. Employees are provided with training and information regarding the proper handling of personal information. All information stored in our computer system is protected from unauthorized access and information that is stored in document form is kept in secure locations to prevent access by unauthorized persons.
-
-### Commitment to Children
-
-Cobra does not collect or maintain information from those people that we know are under 13 years old and we do not specifically target this group in our marketing materials or other advertising.
-
-### Access To Personal Information
-
-Cobra is committed to ensuring that we have no personal information about customers that is not absolutely necessary in order to provide them with excellent service. We are also committed to ensuring that information about our customers is accurate and up-to-date.
