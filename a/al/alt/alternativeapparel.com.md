@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alternativeapparel.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920073524id_/http%3A//www.alternativeapparel.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternativeapparel.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325030845id_/http%3A//www.alternativeapparel.com/info/privacy) for the most accurate reproduction.*
 
-# Alternative Apparel: Help > Privacy, Security & Accessibility
+# Alternative Apparel - | privacy
 
 ## Privacy Statement
 
