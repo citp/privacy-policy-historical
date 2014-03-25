@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrox.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107014541id_/http%3A//www.wrox.com/WileyCDA/Section/Privacy-Policy.id-105117.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrox.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325105218id_/http%3A//www.wrox.com/WileyCDA/Section/Privacy-Policy.id-105117.html) for the most accurate reproduction.*
 
 # Privacy Policy - Wrox
 
