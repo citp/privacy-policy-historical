@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the industrywest.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920212206id_/http%3A//www.industrywest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the industrywest.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325065645id_/http%3A//www.industrywest.com/privacy) for the most accurate reproduction.*
 
 # Privacy / Industry West
 
@@ -74,6 +74,6 @@ For your convenience, we may provide links to other web sites and web pages that
 
 ## HOW TO CONTACT US
 
-If you have any questions about this Policy or would like to learn more about how we protect privacy, please write to us at Industry West, 2853 Dawn Road, Jacksonville, Florida 32207, call us at 800.382.9303, or email us at  info@industry-west.com
+If you have any questions about this Policy or would like to learn more about how we protect privacy, please write to us at Industry West, 4011 Morton Street, Jacksonville, FL, 32217 or call us at 800.382.9303, or email us at  info@industry-west.com
 
 Privacy Policy: last updated June 4, 2012.
