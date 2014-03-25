@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the bridges.hk privacy policy that was archived on 2013-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130605115443id_/http%3A//www.bridges.hk/en/siteterms_privacy_2.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bridges.hk privacy policy that was archived on 2014-03-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140325191240id_/http%3A//www.bridges.hk/en/siteterms_privacy_2.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html class=""><head>
 <title>Bridges Business and Conference Centre &gt; Site Terms and Privacy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="section" content="General">
@@ -63,6 +63,66 @@ function MM_swapImage() { //v3.0
 <script language="javascript" type="text/javascript" src="../js/fancybox/jquery.easing-1.3.pack.js"></script>
 <link rel="stylesheet" type="text/css" href="../js/fancybox/jquery.fancybox-1.3.1.css" media="screen">
 
+<!--Link & Script for Virtual Tour 140122 Start -->
+	<!-- Add jQuery library -->
+	<script type="text/javascript" src="fancybox2/lib/jquery-1.10.1.min.js"></script>
+
+	<!-- Add mousewheel plugin (this is optional) -->
+	<script type="text/javascript" src="fancybox2/lib/jquery.mousewheel-3.0.6.pack.js"></script>
+
+	<!-- Add fancyBox main JS and CSS files -->
+	<script type="text/javascript" src="fancybox2/source/jquery.fancybox.js?v=2.1.5"></script>
+	<link rel="stylesheet" type="text/css" href="fancybox2/source/jquery.fancybox.css?v=2.1.5" media="screen">
+
+	<!-- Add Button helper (this is optional) -->
+	<link rel="stylesheet" type="text/css" href="fancybox2/source/helpers/jquery.fancybox-buttons.css?v=1.0.5">
+	<script type="text/javascript" src="fancybox2/source/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
+
+	<!-- Add Thumbnail helper (this is optional) -->
+	<link rel="stylesheet" type="text/css" href="fancybox2/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7">
+	<script type="text/javascript" src="fancybox2/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
+
+	<!-- Add Media helper (this is optional) -->
+	<script type="text/javascript" src="fancybox2/source/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
+
+	<script type="text/javascript">
+		$(document).ready(function() {
+			/*
+			 *  Simple image gallery. Uses default settings
+			 */
+
+			$('.fancybox').fancybox({
+				autoSize : false,
+				width    : "65%",
+				height   : "95%"
+			});
+			/*
+			 *  Button helper. Disable animations, hide close button, change title type and content
+			 */
+
+			$('.fancybox-buttons').fancybox({
+				openEffect  : 'none',
+				closeEffect : 'none',
+
+				prevEffect : 'none',
+				nextEffect : 'none',
+
+				closeBtn  : false,
+
+				helpers : {
+					title : {
+						type : 'inside'
+					},
+					buttons	: {}
+				},
+
+				afterLoad : function() {
+					this.title = 'Image ' + (this.index + 1) + ' of ' + this.group.length + (this.title ? ' - ' + this.title : '');
+				}
+			});
+		});
+	</script>
+<!--Link & Script for Virtual Tour 140122 End -->
 
 <script language="javascript" type="text/javascript" src="../js/jscal/jscal2.js"></script>
 <script language="javascript" type="text/javascript" src="../js/jscal/en.js"></script>
@@ -77,6 +137,7 @@ var today_mm = today.getMonth()+1;
 var today_dd = today.getDate();
 var today_int = (today_yyyy*10000)+(today_mm*100)+today_dd;
 
+/*
 $(document).ready(function() {
   $(".popup").bind("click", openNewWindow);
   
@@ -94,6 +155,7 @@ $(document).ready(function() {
   });
 }
 );
+*/
 //    "width":470,
 //    "height":515
 function openNewWindowSWF(){
@@ -146,8 +208,8 @@ var popup = window.open('about:blank','bridges_popup','width=100px,height=100px,
 
 
 </script>
-</head>
-<body>
+<style type="text/css">.fancybox-margin{margin-right:0px;}</style></head>
+<body style="">
 <div id="outer">
   <script language="javascript">
 var timer_mainmenu;
@@ -209,112 +271,113 @@ function clearMainMenuTimer() {
     </ul>
     <div id="pullDownSiteMap" style="z-index:20">
       <dl class="section1">
-        <dt><a href="serviced_offices_1.php" target="_self">Serviced Offices</a></dt>
-        <dd><a href="serviced_offices_1.php" target="_self">Introduction</a></dd>
-        <dd><a href="serviced_offices_2.php" target="_self">BRIDGES Package</a></dd>
-        <dd><a href="serviced_offices_3.php" target="_self">Office Configurations</a></dd>
-        <dd><a href="serviced_offices_4.php" target="_self">FAQs</a></dd>
+        <dt><a href="serviced_offices_1.php" target="_self" title="Serviced Offices">Serviced Offices</a></dt>
+        <dd><a href="serviced_offices_1.php" target="_self" title="Introduction">Introduction</a></dd>
+        <dd><a href="serviced_offices_2.php" target="_self" title="BRIDGES Package">BRIDGES Package</a></dd>
+        <dd><a href="serviced_offices_3.php" target="_self" title="Office Configurations">Office Configurations</a></dd>
+        <dd><a href="serviced_offices_4.php" target="_self" title="FAQs">FAQs</a></dd>
+        <dd><a href="serviced_offices_5.php" target="_self" title="Global Office Search">Global Office Search</a></dd>
       </dl>
       <dl class="section2">
-        <dt><a href="virtual_offices_1.php" target="_self">Virtual Offices</a></dt>
-        <dd><a href="virtual_offices_1.php" target="_self">Introduction</a></dd>
-        <dd><a href="virtual_offices_2.php" target="_self">BRIDGES Package</a></dd>
-        <dd><a href="virtual_offices_3.php" target="_self">Value-added Services</a></dd>
-        <dd><a href="virtual_offices_4.php" target="_self">Logistics Diagram</a></dd>
-        <dd><a href="virtual_offices_5.php" target="_self">Hot Desk</a></dd>
-        <dd><a href="virtual_offices_6.php" target="_self">FAQs</a></dd>
+        <dt><a href="virtual_offices_1.php" target="_self" title="Virtual Offices">Virtual Offices</a></dt>
+        <dd><a href="virtual_offices_1.php" target="_self" title="Introduction">Introduction</a></dd>
+        <dd><a href="virtual_offices_2.php" target="_self" title="BRIDGES Package">BRIDGES Package</a></dd>
+        <dd><a href="virtual_offices_3.php" target="_self" title="Value-added Services">Value-added Services</a></dd>
+        <dd><a href="virtual_offices_4.php" target="_self" title="Logistics Diagram">Logistics Diagram</a></dd>
+        <dd><a href="virtual_offices_5.php" target="_self" title="Hot Desk">Hot Desk</a></dd>
+        <dd><a href="virtual_offices_6.php" target="_self" title="FAQs">FAQs</a></dd>
       </dl>
       <dl class="section3">
-        <dt><a href="conference_facilities_1.php" target="_self">Conference Facilities</a></dt>
-        <dd><a href="conference_facilities_1.php" target="_self">Introduction</a></dd>
-        <dd><a href="conference_facilities_2.php" target="_self">Meeting Rooms</a></dd>
-        <dd><a href="conference_facilities_3.php" target="_self">Conference Rooms</a></dd>
-        <dd><a href="conference_facilities_4.php" target="_self">Video Conferencing</a></dd>
-        <dd><a href="conference_facilities_5.php" target="_self">Audio Conferencing</a></dd>
+        <dt><a href="conference_facilities_1.php" target="_self" title="Conference Facilities">Conference Facilities</a></dt>
+        <dd><a href="conference_facilities_1.php" target="_self" title="Introduction">Introduction</a></dd>
+        <dd><a href="conference_facilities_2.php" target="_self" title="Meeting Rooms">Meeting Rooms</a></dd>
+        <dd><a href="conference_facilities_3.php" target="_self" title="Conference Rooms">Conference Rooms</a></dd>
+        <dd><a href="conference_facilities_4.php" target="_self" title="Video Conferencing">Video Conferencing</a></dd>
+        <dd><a href="conference_facilities_5.php" target="_self" title="Audio Conferencing">Audio Conferencing</a></dd>
       </dl>
       <dl class="section4">
-        <dt><a href="professional_services_1.php" target="_self">Professional Services</a></dt>
-        <dd><a href="professional_services_1.php" target="_self">Introduction</a></dd>
-        <dd><a href="professional_services_2.php" target="_self">Company Formation</a></dd>
-        <dd><a href="professional_services_3.php" target="_self">Company Maintenance</a></dd>
-        <dd><a href="professional_services_4.php" target="_self">Accounting &amp; Taxation</a></dd>
-        <dd><a href="professional_services_5.php" target="_self">Working Visa &amp; Immigration Services</a></dd>
-        <dd><a href="professional_services_6.php" target="_self">Travel Visa</a></dd>
-        <dd><a href="professional_services_7.php" target="_self">Payroll &amp; Employee Benefits</a></dd>
+        <dt><a href="professional_services_1.php" target="_self" title="Professional Services">Professional Services</a></dt>
+        <dd><a href="professional_services_1.php" target="_self" title="Introduction">Introduction</a></dd>
+        <dd><a href="professional_services_2.php" target="_self" title="Company Formation">Company Formation</a></dd>
+        <dd><a href="professional_services_3.php" target="_self" title="Company Maintenance">Company Maintenance</a></dd>
+        <dd><a href="professional_services_4.php" target="_self" title="Accounting &amp; Taxation">Accounting &amp; Taxation</a></dd>
+        <dd><a href="professional_services_5.php" target="_self" title="Working Visa &amp; Immigration Services">Working Visa &amp; Immigration Services</a></dd>
+        <dd><a href="professional_services_6.php" target="_self" title="Travel Visa">Travel Visa</a></dd>
+        <dd><a href="professional_services_7.php" target="_self" title="Payroll &amp; Employee Benefits">Payroll &amp; Employee Benefits</a></dd>
       </dl>
       <dl class="section5">
-        <dt><a href="secretarial_services_1.php" target="_self">Secretarial Services</a></dt>
-        <dd><a href="secretarial_services_1.php" target="_self">Introduction</a></dd>
-        <dd><a href="secretarial_services_2.php" target="_self">Translation &amp; Interpretation</a></dd>
-        <dd><a href="secretarial_services_3.php" target="_self">Travel Arrangement</a></dd>
-        <dd><a href="secretarial_services_4.php" target="_self">Administrative Support</a></dd>
+        <dt><a href="secretarial_services_1.php" target="_self" title="Secretarial Services">Secretarial Services</a></dt>
+        <dd><a href="secretarial_services_1.php" target="_self" title="Introduction">Introduction</a></dd>
+        <dd><a href="secretarial_services_2.php" target="_self" title="Translation &amp; Interpretation">Translation &amp; Interpretation</a></dd>
+        <dd><a href="secretarial_services_3.php" target="_self" title="Travel Arragement">Travel Arrangement</a></dd>
+        <dd><a href="secretarial_services_4.php" target="_self" title="Administrative Support">Administrative Support</a></dd>
       </dl>
       <dl>
-        <dt><a href="news_promotions_1.php" target="_self">News &amp; Promotions</a></dt>
-        <dd><a href="news_promotions_1.php" target="_self">Latest News</a></dd>
-        <dd><a href="news_promotions_2.php" target="_self">Visa Commercial Offers</a></dd>
+        <dt><a href="news_promotions_1.php" target="_self" title="News &amp; Promotions">News &amp; Promotions</a></dt>
+        <dd><a href="news_promotions_1.php" target="_self" title="Latest News">Latest News</a></dd>
+        <dd><a href="news_promotions_2.php" target="_self" title="Visa Commercial Offers">Visa Commercial Offers</a></dd>
       </dl>
       <dl>
-        <dt><a href="about_bridges_1.php" target="_self">About BRIDGES</a></dt>
-        <dd><a href="about_bridges_1.php" target="_self">BRIDGES at a Glance</a></dd>
-        <dd><a href="about_bridges_2.php" target="_self">BRIDGES Concept</a></dd>
-        <dd><a href="about_bridges_3.php" target="_self">Press</a></dd>
-        <dd><a href="about_bridges_4.php" target="_self">Corporate Responsibility</a></dd>
+        <dt><a href="about_bridges_1.php" target="_self" title="About BRIDGES">About BRIDGES</a></dt>
+        <dd><a href="about_bridges_1.php" target="_self" title="BRIDGES at a Glance">BRIDGES at a Glance</a></dd>
+        <dd><a href="about_bridges_2.php" target="_self" title="BRIDGES Concept">BRIDGES Concept</a></dd>
+        <dd><a href="about_bridges_3.php" target="_self" title="Press">Press</a></dd>
+        <dd><a href="about_bridges_4.php" target="_self" title="Corporate Responsibility">Corporate Responsibility</a></dd>
       </dl>
       <dl>
-        <dt><a href="partnership_1.php" target="_self">Partnership</a></dt>
-        <dd><a href="partnership_1.php" target="_self">Affiliates</a></dd>
-        <dd><a href="partnership_2.php" target="_self">Brokers &amp; Agents</a></dd>
+        <dt><a href="partnership_1.php" target="_self" title="Partnership">Partnership</a></dt>
+        <dd><a href="partnership_1.php" target="_self" title="Affiliates">Affiliates</a></dd>
+        <dd><a href="partnership_2.php" target="_self" title="Brokers &amp; Agents">Brokers &amp; Agents</a></dd>
       </dl>
       <dl>
-        <dt><a href="location_1.php" target="_self">Location</a></dt>
-        <dd><a href="location_1.php" target="_self">Central</a></dd>
-        <dd><a href="location_2.php" target="_self">Admiralty</a></dd>
-        <dd><a href="location_3.php" target="_self">Global Locations</a></dd>
+        <dt><a href="location_1.php" target="_self" title="Location">Location</a></dt>
+        <dd><a href="location_1.php" target="_self" title="Central">Central</a></dd>
+        <dd><a href="location_2.php" target="_self" title="Admiralty">Admiralty</a></dd>
        
       </dl>
       <dl>
-        <dt><a href="contact_us.php" target="_self">Contact Us</a></dt>
-        <dt><a href="javascript:virtualTour()" target="_self">Virtual Tour</a></dt>
+        <dt><a href="contact_us.php" target="_self" title="Contact Us">Contact Us</a></dt>
+        <dt><a class="fancybox fancybox.iframe" href="bridges_album1.html" target="_self" title="Virtual Tour" oncontextmenu="return false;">Virtual Tour</a></dt>
       </dl>
     </div>
   </div>
 </div>
 <div id="mainmenu_pulldown_0" style="position:absolute;display:none;width:151px;height:100px;top:125px;left:0px;z-index:30" onmouseover="javascript:clearMainMenuTimer()" onmouseout="javascript:setMainMenuTimer()">
-  <a href="serviced_offices_1.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu1_0','','images/btn_sub_menu1_0_over.gif',1)"><img id="submenu1_0" name="submenu1_0" src="images/btn_sub_menu1_0.gif" width="151" height="22" border="0" alt=""></a><br>
-  <a href="serviced_offices_2.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu1_1','','images/btn_sub_menu1_1_over.gif',1)"><img id="submenu1_1" name="submenu1_1" src="images/btn_sub_menu1_1.gif" width="151" height="22" border="0" alt=""></a><br>
-  <a href="serviced_offices_3.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu1_2','','images/btn_sub_menu1_2_over.gif',1)"><img id="submenu1_2" src="images/btn_sub_menu1_2.gif" width="151" height="22" border="0" alt=""></a><br>
-  <a href="serviced_offices_4.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu1_3','','images/btn_sub_menu1_3_over.gif',1)"><img id="submenu1_3" src="images/btn_sub_menu1_3.gif" width="151" height="22" border="0" alt=""></a>
+  <a href="serviced_offices_1.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu1_0','','images/btn_sub_menu1_0_over.gif',1)" title="Introduction"><img id="submenu1_0" name="submenu1_0" src="images/btn_sub_menu1_0.gif" width="154" height="22" border="0" alt=""></a><br>
+  <a href="serviced_offices_2.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu1_1','','images/btn_sub_menu1_1_over.gif',1)" title="BRIDGES Package"><img id="submenu1_1" name="submenu1_1" src="images/btn_sub_menu1_1.gif" width="154" height="22" border="0" alt=""></a><br>
+  <a href="serviced_offices_3.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu1_2','','images/btn_sub_menu1_2_over.gif',1)" title="Office Configuration"><img id="submenu1_2" src="images/btn_sub_menu1_2.gif" width="154" height="22" border="0" alt=""></a><br>
+  <a href="serviced_offices_4.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu1_3','','images/btn_sub_menu1_3_over.gif',1)" title="FAQs"><img id="submenu1_3" src="images/btn_sub_menu1_3.gif" width="154" height="22" border="0" alt=""></a>
+  <a href="serviced_offices_5.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu1_4','','images/btn_sub_menu1_4_over.gif',1)" title="Global Office Search"><img id="submenu1_4" src="images/btn_sub_menu1_4.gif" width="154" height="22" border="0" alt=""></a>
 </div>
 <div id="mainmenu_pulldown_1" style="position:absolute;display:none;width:140px;height:100px;top:125px;left:152px;z-index:30" onmouseover="javascript:clearMainMenuTimer()" onmouseout="javascript:setMainMenuTimer()">
-  <a href="virtual_offices_1.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu2_0','','images/btn_sub_menu2_0_over.gif',1)"><img id="submenu2_0" src="images/btn_sub_menu2_0.gif" width="140" height="22" border="0" alt=""></a><br>
-  <a href="virtual_offices_2.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu2_1','','images/btn_sub_menu2_1_over.gif',1)"><img id="submenu2_1" src="images/btn_sub_menu2_1.gif" width="140" height="22" border="0" alt=""></a><br>
-  <a href="virtual_offices_3.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu2_2','','images/btn_sub_menu2_2_over.gif',1)"><img id="submenu2_2" src="images/btn_sub_menu2_2.gif" width="140" height="22" border="0" alt=""></a><br>
-  <a href="virtual_offices_4.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu2_3','','images/btn_sub_menu2_3_over.gif',1)"><img id="submenu2_3" src="images/btn_sub_menu2_3.gif" width="140" height="22" border="0" alt=""></a><br>
-  <a href="virtual_offices_5.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu2_4','','images/btn_sub_menu2_4_over.gif',1)"><img id="submenu2_4" src="images/btn_sub_menu2_4.gif" width="140" height="22" border="0" alt=""></a><br>
-  <a href="virtual_offices_6.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu2_5','','images/btn_sub_menu2_5_over.gif',1)"><img id="submenu2_5" src="images/btn_sub_menu2_5.gif" width="140" height="22" border="0" alt=""></a>
+  <a href="virtual_offices_1.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu2_0','','images/btn_sub_menu2_0_over.gif',1)" title="Introduction"><img id="submenu2_0" src="images/btn_sub_menu2_0.gif" width="140" height="22" border="0" alt=""></a><br>
+  <a href="virtual_offices_2.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu2_1','','images/btn_sub_menu2_1_over.gif',1)" title="BRIDGES Package"><img id="submenu2_1" src="images/btn_sub_menu2_1.gif" width="140" height="22" border="0" alt=""></a><br>
+  <a href="virtual_offices_3.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu2_2','','images/btn_sub_menu2_2_over.gif',1)" title="Value-added Services"><img id="submenu2_2" src="images/btn_sub_menu2_2.gif" width="140" height="22" border="0" alt=""></a><br>
+  <a href="virtual_offices_4.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu2_3','','images/btn_sub_menu2_3_over.gif',1)" title="Logistics Diagram"><img id="submenu2_3" src="images/btn_sub_menu2_3.gif" width="140" height="22" border="0" alt=""></a><br>
+  <a href="virtual_offices_5.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu2_4','','images/btn_sub_menu2_4_over.gif',1)" title="Hot Desk"><img id="submenu2_4" src="images/btn_sub_menu2_4.gif" width="140" height="22" border="0" alt=""></a><br>
+  <a href="virtual_offices_6.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu2_5','','images/btn_sub_menu2_5_over.gif',1)" title="FAQs"><img id="submenu2_5" src="images/btn_sub_menu2_5.gif" width="140" height="22" border="0" alt=""></a>
 </div>
 <div id="mainmenu_pulldown_2" style="position:absolute;display:none;width:163px;height:100px;top:125px;left:271px;z-index:30" onmouseover="javascript:clearMainMenuTimer()" onmouseout="javascript:setMainMenuTimer()">
-  <a href="conference_facilities_1.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu3_0','','images/btn_sub_menu3_0_over.gif',1)"><img id="submenu3_0" src="images/btn_sub_menu3_0.gif" width="163" height="22" border="0" alt=""></a><br>
-  <a href="conference_facilities_2.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu3_1','','images/btn_sub_menu3_1_over.gif',1)"><img id="submenu3_1" src="images/btn_sub_menu3_1.gif" width="163" height="22" border="0" alt=""></a><br>
-  <a href="conference_facilities_3.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu3_2','','images/btn_sub_menu3_2_over.gif',1)"><img id="submenu3_2" src="images/btn_sub_menu3_2.gif" width="163" height="22" border="0" alt=""></a><br>
-  <a href="conference_facilities_4.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu3_3','','images/btn_sub_menu3_3_over.gif',1)"><img id="submenu3_3" src="images/btn_sub_menu3_3.gif" width="163" height="22" border="0" alt=""></a><br>
-  <a href="conference_facilities_5.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu3_4','','images/btn_sub_menu3_4_over.gif',1)"><img id="submenu3_4" src="images/btn_sub_menu3_4.gif" width="163" height="22" border="0" alt=""></a>
+  <a href="conference_facilities_1.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu3_0','','images/btn_sub_menu3_0_over.gif',1)" title="Introduction"><img id="submenu3_0" src="images/btn_sub_menu3_0.gif" width="163" height="22" border="0" alt=""></a><br>
+  <a href="conference_facilities_2.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu3_1','','images/btn_sub_menu3_1_over.gif',1)" title="Meeting Rooms"><img id="submenu3_1" src="images/btn_sub_menu3_1.gif" width="163" height="22" border="0" alt=""></a><br>
+  <a href="conference_facilities_3.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu3_2','','images/btn_sub_menu3_2_over.gif',1)" title="Conference Rooms"><img id="submenu3_2" src="images/btn_sub_menu3_2.gif" width="163" height="22" border="0" alt=""></a><br>
+  <a href="conference_facilities_4.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu3_3','','images/btn_sub_menu3_3_over.gif',1)" title="Video Conferencing"><img id="submenu3_3" src="images/btn_sub_menu3_3.gif" width="163" height="22" border="0" alt=""></a><br>
+  <a href="conference_facilities_5.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu3_4','','images/btn_sub_menu3_4_over.gif',1)" title="Audio Conferencing"><img id="submenu3_4" src="images/btn_sub_menu3_4.gif" width="163" height="22" border="0" alt=""></a>
 </div>
 <div id="mainmenu_pulldown_3" style="position:absolute;display:none;width:160px;height:100px;top:125px;left:434px;z-index:30" onmouseover="javascript:clearMainMenuTimer()" onmouseout="javascript:setMainMenuTimer()">
-  <a href="professional_services_1.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu4_0','','images/btn_sub_menu4_0_over.gif',1)"><img id="submenu4_0" src="images/btn_sub_menu4_0.gif" width="160" height="22" border="0" alt=""></a><br>
-  <a href="professional_services_2.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu4_1','','images/btn_sub_menu4_1_over.gif',1)"><img id="submenu4_1" src="images/btn_sub_menu4_1.gif" width="160" height="22" border="0" alt=""></a><br>
-  <a href="professional_services_3.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu4_2','','images/btn_sub_menu4_2_over.gif',1)"><img id="submenu4_2" src="images/btn_sub_menu4_2.gif" width="160" height="22" border="0" alt=""></a><br>
-  <a href="professional_services_4.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu4_3','','images/btn_sub_menu4_3_over.gif',1)"><img id="submenu4_3" src="images/btn_sub_menu4_3.gif" width="160" height="22" border="0" alt=""></a><br>
-  <a href="professional_services_5.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu4_4','','images/btn_sub_menu4_4_over.gif',1)"><img id="submenu4_4" src="images/btn_sub_menu4_4.gif" width="160" height="35" border="0" alt=""></a><br>
-  <a href="professional_services_6.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu4_5','','images/btn_sub_menu4_5_over.gif',1)"><img id="submenu4_5" src="images/btn_sub_menu4_5.gif" width="160" height="22" border="0" alt=""></a><br>
-  <a href="professional_services_7.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu4_6','','images/btn_sub_menu4_6_over.gif',1)"><img id="submenu4_6" src="images/btn_sub_menu4_6.gif" width="160" height="22" border="0" alt=""></a>
+  <a href="professional_services_1.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu4_0','','images/btn_sub_menu4_0_over.gif',1)" title="Introduction"><img id="submenu4_0" src="images/btn_sub_menu4_0.gif" width="160" height="22" border="0" alt=""></a><br>
+  <a href="professional_services_2.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu4_1','','images/btn_sub_menu4_1_over.gif',1)" title="Company Formation"><img id="submenu4_1" src="images/btn_sub_menu4_1.gif" width="160" height="22" border="0" alt=""></a><br>
+  <a href="professional_services_3.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu4_2','','images/btn_sub_menu4_2_over.gif',1)" title="Company Maintenance"><img id="submenu4_2" src="images/btn_sub_menu4_2.gif" width="160" height="22" border="0" alt=""></a><br>
+  <a href="professional_services_4.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu4_3','','images/btn_sub_menu4_3_over.gif',1)" title="Accounting &amp; Taxation"><img id="submenu4_3" src="images/btn_sub_menu4_3.gif" width="160" height="22" border="0" alt=""></a><br>
+  <a href="professional_services_5.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu4_4','','images/btn_sub_menu4_4_over.gif',1)" title="Working Visa &amp; Immigration Services"><img id="submenu4_4" src="images/btn_sub_menu4_4.gif" width="160" height="35" border="0" alt=""></a><br>
+  <a href="professional_services_6.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu4_5','','images/btn_sub_menu4_5_over.gif',1)" title="Travel Visa"><img id="submenu4_5" src="images/btn_sub_menu4_5.gif" width="160" height="22" border="0" alt=""></a><br>
+  <a href="professional_services_7.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu4_6','','images/btn_sub_menu4_6_over.gif',1)" title="Payroll &amp; Employee Benefits"><img id="submenu4_6" src="images/btn_sub_menu4_6.gif" width="160" height="22" border="0" alt=""></a>
 </div>
 <div id="mainmenu_pulldown_4" name="mainmenu_pulldown_4" style="position:absolute;display:none;width:156px;height:100px;top:125px;left:593px;z-index:30" onmouseover="javascript:clearMainMenuTimer()" onmouseout="javascript:setMainMenuTimer()">
-  <a href="secretarial_services_1.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu5_0','','images/btn_sub_menu5_0_over.gif',1)"><img id="submenu5_0" src="images/btn_sub_menu5_0.gif" width="156" height="22" border="0" alt=""></a><br>
-  <a href="secretarial_services_2.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu5_1','','images/btn_sub_menu5_1_over.gif',1)"><img id="submenu5_1" src="images/btn_sub_menu5_1.gif" width="156" height="22" border="0" alt=""></a><br>
-  <a href="secretarial_services_3.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu5_2','','images/btn_sub_menu5_2_over.gif',1)"><img id="submenu5_2" src="images/btn_sub_menu5_2.gif" width="156" height="22" border="0" alt=""></a><br>
-  <a href="secretarial_services_4.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu5_3','','images/btn_sub_menu5_3_over.gif',1)"><img id="submenu5_3" src="images/btn_sub_menu5_3.gif" width="156" height="22" border="0" alt=""></a>
+  <a href="secretarial_services_1.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu5_0','','images/btn_sub_menu5_0_over.gif',1)" title="Introduction"><img id="submenu5_0" src="images/btn_sub_menu5_0.gif" width="156" height="22" border="0" alt=""></a><br>
+  <a href="secretarial_services_2.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu5_1','','images/btn_sub_menu5_1_over.gif',1)" title="Translation &amp; Interpretation"><img id="submenu5_1" src="images/btn_sub_menu5_1.gif" width="156" height="22" border="0" alt=""></a><br>
+  <a href="secretarial_services_3.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu5_2','','images/btn_sub_menu5_2_over.gif',1)" title="Travel Arrangement"><img id="submenu5_2" src="images/btn_sub_menu5_2.gif" width="156" height="22" border="0" alt=""></a><br>
+  <a href="secretarial_services_4.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submenu5_3','','images/btn_sub_menu5_3_over.gif',1)" title="Administrative Support"><img id="submenu5_3" src="images/btn_sub_menu5_3.gif" width="156" height="22" border="0" alt=""></a>
 </div>  <div id="visualWrapper">
   <div id="visual" style="z-index:10"><script language="javascript" type="text/javascript">
 <!--
@@ -355,7 +418,7 @@ if(hasRightVersion) {
   	  <embed src="swf/top_banner11_siteterms_privacy.swf" quality="high" scale="noscale" wmode="transparent" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100%" height="100%"></embed>
 	</object>
 </noscript>
-  <a id="fancybox_vt" class="fancybox_vt" href="swf/bridges_album.swf"></a>
+  <a id="fancybox_vt" class="fancybox fancybox.iframe" href="bridges_album1.html" title="Virtual Tour"></a>
   </div>
 </div>  <div id="mainWrapper" class="siteTerms_privacy sp2">
     <div id="guideMenuWrapper">
@@ -589,16 +652,13 @@ var scheduleVisitCal = Calendar.setup({
 <div class="sideBanner">
   <div class="sideBannerHeader"><img src="images/box_hot_offer.jpg" width="205" height="48"></div>
   <ul>
-<li class="photo"><a target="_blank" href="http://www.bridges.hk/edm/1304/web/index.html"><img src="http://www.bridges.hk/files/thumbnail2/hk/hot_offer/08.05.2013.jpg" class="greyBorder" width="183" height="103"></a></li>
-<li class="content">Why Seychelles?<br>
+<li class="photo"><a target="_blank" href="http://www.bridges.hk/edm/1402/web/index.html"><img src="http://www.bridges.hk/files/thumbnail2/hk/hot_offer/20.03.2014.jpg" class="greyBorder" width="183" height="103"></a></li>
+<li class="content">The new Co. Ordinance has become effective from 3/3 already, including restricting corporate directors.<br>
 <br>
-• Favourable to open bank account<br>
-• No max. authorized share capital<br>
-• Probability of tax exemption<br>
-• Popular as an alternative to BVI</li>
+Email to info@bridges.hk to see how we can help to comply with the law.</li>
 
   </ul>
-  <div class="btnMoreTinyGrey btnGroup"><a href="http://www.bridges.hk/edm/1304/web/index.html" target="_blank"></a></div>
+  <div class="btnMoreTinyGrey btnGroup"><a href="http://www.bridges.hk/edm/1402/web/index.html" target="_blank"></a></div>
   <div class="sideBannerFooter"><img src="images/bg_box_bottom.gif" width="215" height="10"></div>
 </div>      </div>
     </div>
@@ -653,7 +713,10 @@ document.form_schedule_visit.subject.value="Request from Schedule a Visit Box";
       </div>
     </dd>
   </dl>
-</div>  ﻿<div id="footerWrapper">
+</div>
+<div class="clear"></div>
+  ﻿
+<div id="footerWrapper">
 	<div id="footermenu">
     	<div id="footer_clmn1">
         	<a href="serviced_offices_1.php" target="_self" title="Serviced Office" class="header"><b>Service Office</b></a><br>
@@ -662,8 +725,9 @@ document.form_schedule_visit.subject.value="Request from Schedule a Visit Box";
 			<a href="serviced_offices_1.php" target="_self" title="Introduction" class="footer">Introduction</a><br>
 			<a href="serviced_offices_2.php" target="_self" title="BRIDGES Package" class="footer">BRIDGES Package</a><br>
 			<a href="serviced_offices_3.php" target="_self" title="Office Configurations" class="footer">Office Configurations</a><br>
-			<a href="bridges_album.html" target="_self" title="Virtual Tour" class="footer">Virtual Tour</a><br>
-			<a href="serviced_offices_4.php" target="_self" title="FAQs" class="footer">FAQs</a>
+			<a href="bridges_album1.html" target="_self" title="Virtual Tour" class="footer fancybox fancybox.iframe" oncontextmenu="return false;">Virtual Tour</a><br>
+			<a href="serviced_offices_4.php" target="_self" title="FAQs" class="footer">FAQs</a><br>
+			<a href="serviced_offices_5.php" target="_self" title="Global Office Search" class="footer">Global Office Search</a>
 
         </div>
 		<div id="footer_clmn2">
@@ -674,7 +738,7 @@ document.form_schedule_visit.subject.value="Request from Schedule a Visit Box";
 			<a href="virtual_offices_3.php" target="_self" title="Value-added Services" class="footer">Value-added Services</a><br>
 			<a href="virtual_offices_4.php" target="_self" title="Logistics Diagram" class="footer">Logistics Diagram</a><br>
 			<a href="virtual_offices_5.php" target="_self" title="Hot Desk" class="footer">Hot Desk</a><br>
-			<a href="bridges_album.html" target="_self" title="Virtual Tour" class="footer">Virtual Tour</a><br>
+			<a href="bridges_album1.html" target="_self" title="Virtual Tour" class="footer fancybox fancybox.iframe" oncontextmenu="return false;">Virtual Tour</a><br>
 			<a href="virtual_offices_6.php" target="_self" title="FAQs" class="footer">FAQs</a>
 		</div>
 
@@ -686,7 +750,7 @@ document.form_schedule_visit.subject.value="Request from Schedule a Visit Box";
 			<a href="conference_facilities_3_1.php" target="_self" title="Conference Room" class="footer">Conference Room</a><br>
 			<a href="conference_facilities_4_1.php" target="_self" title="Video Conferencing" class="footer">Video Conferencing</a><br>
 			<a href="conference_facilities_5_1.php" target="_self" title="Audio Conferencing" class="footer">Audio Conferencing</a><br>
-			<a href="bridges_album.html" target="_self" title="Virtual Tour" class="footer">Virtual Tour</a><br>
+			<a href="bridges_album1.html" target="_self" title="Virtual Tour" class="footer fancybox fancybox.iframe" oncontextmenu="return false;">Virtual Tour</a><br>
 			<a href="conference_facilities_2_4.php" target="_self" title="FAQs" class="footer">FAQs</a>
 		</div>
 
@@ -721,19 +785,19 @@ document.form_schedule_visit.subject.value="Request from Schedule a Visit Box";
 			<img src="images/bttm_menu_lc.jpg" width="15" height="14" align="middle" style="margin-right:5px;"><a href="location_2.php" target="_self" title="Admiralty Location" class="footer">Admiralty Location</a><br>
         </div>
     </div>
-    
+
+
     <div id="footer_blck_logo">
     	<a href="index.php" target="_self" title="home"><img src="images/logo_bridges_black.gif" width="95" height="22" border="0"></a>
     </div>
-    
     <div id="footer_content">
-    	Copyright © 2007-2013 Bridges Executive Centre Limited&nbsp; All Rights Reserved | 
+    	Copyright © 2007-2014 Bridges Executive Centre Limited&nbsp; All Rights Reserved | 
 		<a href="siteterms_privacy_1.php" target="_self" title="Site Terms">Site Terms</a> | 
 		<a href="siteterms_privacy_2.php" target="_self" title="Privacy Policy">Privacy</a> | 
 		<a href="site_map.php" target="_self" title="Site Map">Site Map</a>
     </div>
 
-	    <div id="fllw">
+	    <div id="fllw" style="padding-left:81px;">
     	<a href="http://www.facebook.com/bridgeshk" target="_blank" title="Facebook" class="fllw_follow_us">Follow Us</a>
 		<a href="http://www.facebook.com/bridgeshk" target="_blank" title="Facebook"><img src="images/fllw_facebook.png" border="0"></a>
       	<a href="http://www.linkedin.com/company/bridges-executive-centre" target="_blank" title="Linkedin"><img src="images/fllw_linkedin.png" border="0"></a>
@@ -780,12 +844,12 @@ var addthis_config = {
 }
 
 		</script>
-		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4d79958428f1844e"></script>
+		<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4d79958428f1844e"></script>
     </div>
 </div>    
 <div id="addthis1">
     	<div class="addthis_toolbox addthis_default_style ">
-			<a style="margin: 0 0 0 -4px;" href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=ra-4d79958428f1844e" class="addthis_button addthis_footer">Share</a>
+			<a style="margin: 0 0 0 -4px;" href="http://www.addthis.com/bookmark.php?v=300&amp;pubid=ra-4d79958428f1844e" class="addthis_button addthis_footer">Share</a>
 		</div>
     	<div class="addthis_toolbox addthis_default_style ">
 			<a style="margin: 17px 0 0 5px;" class="addthis_button_facebook"><img src="images/addthis_fb.png" border="0"></a>
