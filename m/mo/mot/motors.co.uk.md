@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motors.co.uk privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023020604id_/http%3A//www.motors.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motors.co.uk privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325151725id_/http%3A//www.motors.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - Motors.co.uk
 
@@ -139,6 +139,10 @@ You can contact us about this privacy & cookies policy at: [privacy@motors.co.uk
 ####  Unsubscribe from email communication
 
 If you would like to unsubscribe from email communications, please click on the link located at the bottom of the email and to follow the instructions
+
+####  FCA 
+
+Motors.co.uk is authorised and regulated by the Financial Conduct Authority. Full details are available on request
 
 ####  Updates
 
