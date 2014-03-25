@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attrakt.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817124740id_/http%3A//www.attrakt.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attrakt.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325033158id_/http%3A//www.attrakt.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy - Attrakt.com
 
