@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the i-to-i.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819091521id_/http%3A//www.i-to-i.com/about-i2i/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-to-i.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325072651id_/http%3A//www.i-to-i.com/about-i2i/policy/privacy.html) for the most accurate reproduction.*
 
-# i-to-i privacy policy
+# Privacy Policy | i to i
 
 Real Travel Limited’s Privacy Policy sets out what information we collect, how we collect it, and what we do with it.
 
   
-**INFORMATION ABOUT YOU  **
+ **INFORMATION ABOUT YOU  **
 
-**Your Information**
+ **Your Information**
 
 This refers to a combination of information such as your name, contact details, travel preferences and special needs/disabilities/dietary requirements that you supply us or is supplied to us, including any information about other persons on your booking (“your information”). Your information is collected when you request information from us, contact us (and vice versa) or make a booking. You are responsible for ensuring that other members of your party are aware of the content of our Privacy Policy and consent to your acting on their behalf in all your dealings with us.
 
 We will update your information whenever we can to keep it current, accurate and complete.
 
-**Our Use of Your Information**
+ **Our Use of Your Information**
 
 (1) For the purpose of providing you with our services, including your flight, holiday or insurance, etc., we may disclose and process your information outside the UK/EEA. In order for you to travel abroad, it may be mandatory (as required by government authorities at the point(s) of departure and/or destination) to disclose and process your information for immigration, border control, security and anti-terrorism purposes, or any other purposes which they determine appropriate. Some countries will only permit travel if you provide your advance passenger data (for example Caricom API and US secure flight data). These requirements may differ depending on your destination and you are advised to check. Even if not mandatory, we may exercise our discretion to assist where appropriate.
 
@@ -21,9 +21,9 @@ We will update your information whenever we can to keep it current, accurate and
 
 (3) Information (such as health or religion) may be considered “sensitive personal data” under the Data Protection Act 1998. We collect it to cater to your needs or act in your interest, and we are only prepared to accept sensitive personal data on the condition that we have your positive consent. By booking with us you also agree for your insurers, their agents and medical staff to exchange relevant information and sensitive personal data with us in circumstances where we/they need to act on your behalf or in the interest of passengers or in an emergency.
 
-**If you do not agree to Our Use of Your Information above, we cannot engage/do business with you or accept your booking.**
+ **If you do not agree to Our Use of Your Information above, we cannot engage/do business with you or accept your booking.**
 
-**Direct Marketing Material**
+ **Direct Marketing Material**
 
 (1) We may from time to time contact you with information on offers of goods and services, brochures, new products, forthcoming events or competitions from our holiday divisions and our group companies. Our websites will assume you to agree to e-communications when you make a booking. We will tailor the information we send you unless you tell us not to. This will enable us to send you more personalised and relevant communications. You will be given the opportunity on every communication to opt-out of this personalisation.
 
@@ -31,7 +31,7 @@ We will update your information whenever we can to keep it current, accurate and
 
 (3) If do not wish to receive such information or would like to change your preference, please refer to point (2) of "Your Rights" below.
 
-**Your Rights**
+ **Your Rights**
 
 (1) On completing our Data Subject Access Request form, you are entitled to a copy of the information we hold about you (for a £10 fee) and to correct any inaccuracies.
 
@@ -41,29 +41,29 @@ We will update your information whenever we can to keep it current, accurate and
 
 Please write to i to i UK Limited, Legal Department, TUI Travel House, Crawley Business Quarter, Fleming Way, Crawley, West Sussex RH10 9QL.
 
-**Foreign Controls**
+ **Foreign Controls**
 
 Outside the European Economic Area (EEA), note that controls on data protection in such countries may not be as strong as the legal requirements in this country.
 
-**USE OF TOOLS/"COOKIES" AND LINKS TO OTHER WEBSITES**
+ **USE OF TOOLS/"COOKIES" AND LINKS TO OTHER WEBSITES**
 
 If our contact and dealing with you is via our website(s), we may use cookies. To find out more about the types of cookies on our website(s), how we use cookies, to disable them or to change your preference and more, please refer to the information provided on our website(s).  
-**By using our website(s), you consent to our use of cookies.**
+ **By using our website(s), you consent to our use of cookies.**
 
 However, if you also receive our email marketing, we will tailor the information we send you unless to tell us not to. This means we may use information we hold and cookies to identify your individual web site search behaviour and preferences. This will enable us to send you more personalised and relevant communications. You will be given the opportunity on every communication to opt-out of this personalisation.
 
 Our website(s) may contain links to third party websites or micro-sites not controlled or owned by us. For example, reference sites or ancillary products and services sites or websites owned by our sister companies. It is your responsibility to check the status of these sites before using them. Please read their applicable terms and conditions, etc. carefully.
 
-**MONITORING**
+ **MONITORING**
 
 To ensure that we carry out your instructions accurately, improve our service and for security and fraud, we may review, monitor and/or record: (1) telephone calls; (2) activities using CCTV in and around our premises; (3) transactions and activities at all points of contact; and (4) web traffic, activities, etc. and social media. All recordings and derivative materials are and shall remain our sole property.
 
-**SECURITY STATEMENT**
+ **SECURITY STATEMENT**
 
 We have taken all reasonable steps and have in place appropriate security measures to protect your information.
 
-**CHANGES TO THIS POLICY**
+ **CHANGES TO THIS POLICY**
 
 Any changes to this Policy will be either posted on our website, brochure and/or made available on request.
 
-_Privacy Policy: v May 2012_
+ _Privacy Policy: v May 2012_
