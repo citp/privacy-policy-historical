@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commissionsoup.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118060257id_/http%3A//www.commissionsoup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commissionsoup.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325065831id_/https%3A//www.commissionsoup.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CommissionSoup.com
 
@@ -23,17 +23,17 @@ We use your personal, demographic and profile data to enhance your experience at
 
 **Section 3.** Disclosure of Data to Third Parties 
 
-We will only disclose to third parties information knowingly and voluntarily disclosed by you, or aggregate demographic and profile data. We reserve the right to share, rent, sell, or otherwise disclose data we collect to third parties. Any third party we share, rent, sell, or otherwise disclose data to will be carefully prescreened by us, determined by us to be reputable, and will use the personal data for marketing products and services which we determine, in our sole judgment, that you might find of interest.
+We will only disclose to third parties information knowingly and voluntarily disclosed by you, or aggregate demographic and profile data. We reserve the right to share, rent, sell, or otherwise disclose data we collect to third parties. Any third party we share, rent, sell, or otherwise disclose data to will be carefully prescreened by us, determined by us to be reputable, and will use the personal data for marketing products and services which we determine, in our sole judgment, that you might find of interest. 
 
 This site contains links to other sites and we are not responsible for the privacy practices or the content of such sites. 
 
 **Section 4.** Your Opt-Out Rights 
 
-You may opt-out of receiving communications from us and or our partners when we acquire your information. We also allow you to unsubscribe from our database. If you unsubscribe from our database, your information will no longer be used by us for secondary purposes, disclosed to third parties, or used by us or third parties to send promotional correspondences to you. You can unsubscribe by writing to us via postal mail at the address below, by sending an email requesting removal through our [contact form](https://web.archive.org/contact/ "Contact Us") or by entering your e-mail address on our [unsubscribe page](https://web.archive.org/Unsub/ "Unsubscribe"). 
+You may opt-out of receiving communications from us and or our partners when we acquire your information. We also allow you to unsubscribe from our database. If you unsubscribe from our database, your information will no longer be used by us for secondary purposes, disclosed to third parties, or used by us or third parties to send promotional correspondences to you. You can unsubscribe by writing to us via postal mail at the address below, by sending an email requesting removal through our [contact form](https://www.commissionsoup.com/contact/ "Contact Us") or by entering your e-mail address on our [unsubscribe page](https://www.commissionsoup.com/unsub/ "Unsubscribe"). 
 
 **Section 5.** Your Rights To Your Personal Data 
 
-Upon request via postal mail or e-mail, we will provide you a summary of personal information retained by us. We will only send your personal records to your e-mail address or postal address we have on file for you. You may modify, correct, change, or update your personal record or remove your personal record from our database by contacting CommissionSoup via postal mail at the address below, via e-mail to csservice@creditsoup.com.
+Upon request via postal mail or e-mail, we will provide you a summary of personal information retained by us. We will only send your personal records to your e-mail address or postal address we have on file for you. You may modify, correct, change, or update your personal record or remove your personal record from our database by contacting CommissionSoup via postal mail at the address below, via e-mail to csservice@creditsoup.com. 
 
 **Section 6.** We Do Not Intend To Collect Data From Children 
 
@@ -53,7 +53,7 @@ CommissionSoup.com
 PO Box 463  
 114 N Egan Avenue  
 Madison, SD 57042  
-or [Contact Us Online](https://web.archive.org/contact/ "Contact CommissionSoup")
+or [Contact Us Online](https://www.commissionsoup.com/contact/ "Contact CommissionSoup")
 
 Effective as of February 6, 2001   
 Updated on April 5, 2011 
