@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pcwb.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822231838id_/http%3A//www.pcworldbusiness.co.uk/legal/privacy.jtp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcwb.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325030430id_/http%3A//www.pcworldbusiness.co.uk/legal/privacy.jtp) for the most accurate reproduction.*
 
-# PC World Business - Best cheap business laptops, desktops, printers, software, Apple Macs and iPads
+# PC World Business
 
 ## Who we are
 
@@ -26,7 +26,7 @@ Any personal information we collect from you will be used in accordance with the
 
 
 
-We are a subsidiary of DSG Retail Plc and we may need to pass the information we collect to other companies within our group for administrative purposes. We may use third parties to carry out certain activities, such as processing and sorting of data, monitoring how customers use our site and issuing our emails for us.
+We are DSG Retail Limited, trading as PC World Business and we may need to pass the information we collect to other companies within our group for administrative purposes. We may use third parties to carry out certain activities, such as processing and sorting of data, monitoring how customers use our site and issuing our emails for us.
 
 We would also like to inform you of various promotions, goods and services that may be of interest to you. You may be contacted by post, email, telephone or such other means as we regard as appropriate.
 
