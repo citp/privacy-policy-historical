@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the briskom.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103004732id_/http%3A//www.briskom.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briskom.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325041545id_/http%3A//www.briskom.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Briskom : Ultimate Database of Classified
-
-### Privacy Policy
 
 Maintaining the absolute privacy pertaining to all our users is the key factor for our concern. From all users of Briskom, it is primarily expected that they are well aware of the fact that using any of our specific online feature for free classified may lead to publication. Moreover, they should well-accept that they are not only responsible themselves for the authenticity of their ad posting but are also the sole bearers for the consequences of sharing their personal information on our streams online. Furthermore, users are entitled to engage with us, provided they accept and agree upon our policy terms applicable on each of our stream, be it available on existing or new.
 
