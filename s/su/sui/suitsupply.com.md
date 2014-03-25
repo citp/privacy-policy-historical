@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suitsupply.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820003040id_/http%3A//us.suitsupply.com/privacy/content-terms-and-conditions-privacy%2Cen_US%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suitsupply.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325231924id_/http%3A//us.suitsupply.com/privacy/content-terms-and-conditions-privacy%2Cen_US%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy | Suitsupply Online Shop
 
