@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the netguru.co privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808172647id_/https%3A//netguru.co/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netguru.co privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325042614id_/https%3A//netguru.co/privacypolicy) for the most accurate reproduction.*
 
 # Netguru - Privacy Policy
 
 ##  The Privacy Policy 
 
-This Privacy Policy governs the manner in which Netguru collects, uses, maintains and discloses information collected from users (each, a "User") of the [career.netguru.co](https://career.netguru.co/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Netguru. 
+This Privacy Policy governs the manner in which Netguru collects, uses, maintains and discloses information collected from users (each, a "User") of the [netguru.co/career](https://netguru.co/career/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Netguru. 
 
 ###  Personal identification information. 
 
@@ -18,7 +18,7 @@ We may collect non-personal identification information about Users whenever they
 
 Netguru may collect and use Users personal information for the following purposes: 
 
-  1. recruiting purposes;
+  1. recruiting purposes
   2. to send Users information they agreed to receive about topics we think will be of interest to them.
 
 
@@ -46,6 +46,6 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
 
 Netguru Sp. z o. o.   
-ul. Św. Marcin 41/8   
-61-806 Poznan, Poland   
-hi@netguru.pl 
+ul. 27 grudnia 3   
+61-737 Poznan, Poland   
+[hi@netguru.co](mailto:hi@netguru.co)
