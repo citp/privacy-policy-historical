@@ -1,92 +1,67 @@
-> *The following text is extracted and transformed from the tbuy.in privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806043006id_/http%3A//www.tbuy.in/index.php/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tbuy.in privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325020906id_/http%3A//www.tbuy.in/index.php/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Policy
+# Telebuy Privacy Policy
 
-This privacy policy sets out how Telebuy uses and protects any information that you give Telebuy when you use this website. Telebuy is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Telebuy may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
+This privacy policy tells you how Telebuy India use personal information submitted or collected at this site with your consent. Please read this privacy policy before using the site or submitting any personal information. By using the site or the various features available and present herein, you are accepting the practices and the standard operating procedure as described in this privacy policy. These practices may be changed time to time as part of continuous change and applicability of new legal and statutory provisions which are binding upon us as a law abiding corporate citizen but any changes which could be undertaken by the Company shall be published and changes will only applicable to activities and information on a prospective basis , not retroactively. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. By using website of Telebuy India, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer.
 
-### What we collect
+**User Information:**
 
-We may collect the following information:
+To avail certain sites / services on our websites, users are required to provide certain information for the registration process namely:- a) your name, b) email address, c) sex, d) age, e) PIN code , f) credit card or debit card details g) password etc., and / or your occupation, interests, and the like.. The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly experience. In some sites we require your contact addresses.
 
-  * name
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+All required information is service dependent and TELEBUY India may use the above said User information to, maintain, protect, and improve its services (including advertising services) and for developing new services
 
+Such information will not be considered as sensitive if it is freely available and accessible in the public domain or is furnished under the Right to Information Act, 2005 or any other law for the time being in force.
 
+**Cookies:**
 
-For the exhaustive list of cookies we collect see the List of cookies we collect section.
+To improve the responsiveness of the sites for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user's individual interests using the Identified Computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply (an example of this is when you ask for our Personalized Horoscope). A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control.
 
-### What we do with the information we gather
+Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our site. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, to measure traffic within our site and let advertisers know the geographic locations from where our visitors come.
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+**Link to Third Party Sites:**
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+TELEBUY India includes links to other websites. Such sites are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information.
 
+When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our website -- it is usually in the form of aggregated statistics on traffic to various pages within our site. When you register with TELEBUY India, we contact you from time to time about updating your content to provide the users such features that we believe may benefit you.
 
+**Information Sharing:**
 
-### Security
+TELEBUY India shares the sensitive personal information to any third party without obtaining the prior consent of the User in the following limited circumstances:
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+a) When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms; for complying with the applicable laws and regulations.
 
-### How we use cookies
+b) Telebuy India proposes to share such information within its group companies and officers and employees of such group companies for the purpose of processing personal information on its behalf. We also ensure that these recipients of such information agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+**Accessing And Updating Personal Information:**
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+When you use TELEBUY India's websites, we make good faith efforts to provide you, as and when requested by you, with access to your personal information and shall further ensure that any personal information or sensitive personal data or information found to be inaccurate or deficient shall be corrected or amended as feasible, subject to any requirement for such personal information or sensitive personal data or information to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+**Information Security:**
 
-### Links to other websites
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data.
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+All information gathered on Tbuy.in is securely stored within the TELEBUY India controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access.
 
-### Controlling your personal information
+However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be.
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+We respect your privacy. We do not share or sell personal information about visitors and subscribers with other companies.
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at sales@telebuyindia.com
+You may choose to share with us personal information, viz., your name, mailing address and e-mail id required to correspond with you and ensure shipment of products. If you do not want us to use this information for further contact, we shall respect your wishes.
 
+**When and what information do we collect?**
 
+We collect basic information required to service your requests, including your name, mailing address, email and phone number. This information is gathered when you purchase products/gift certificates, or sign up for email notifications. Your card information is requested only when you place an order and is submitted via the highest level of encryption to ensure the greatest amount of safety and security.
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+When you browse our website, we also use 'cookies' or bits of tracking data to gather information about your preferences. This includes your internet service provider's address and your clicks and activity on our website. We do not trace this information to individual customers and will never use cookies to save confidential information such as passwords or credit/debit card information.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to .
+**Why do we collect this information?**
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+The primary reason we gather information is for order processing, shipping and customer service. For example, we may contact you to provide an update on your order, information regarding the shipping status or to clarify questions related to your order. We also use this information to improve our products, services, website content and navigation.
 
-### List of cookies we collect
+**What steps do we take to ensure security when shopping online?**
 
-The table below lists the cookies we collect and what information they store.
+When you place orders or access your account information, we offer the use of secure socket layer (SSL) technology. The secure socket layer (SSL) encrypts all information you put in before it is sent to us. Furthermore, all of the customer data we collect is protected against unauthorized access. To prevent unauthorized access, maintain data accuracy, and ensure correct use of information, we have employed reasonable and current Internet security methods and technologies.
 
-COOKIE name| COOKIE Description  
----|---  
-CART | The association with your shopping cart.  
-CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
-COMPARE | The items that you have in the Compare Products list.  
-CURRENCY | Your preferred currency  
-CUSTOMER | An encrypted version of your customer id with the store.  
-CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
-CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
-CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
-EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
-FRONTEND | You sesssion ID on the server.  
-GUEST-VIEW | Allows guests to edit their orders.  
-LAST_CATEGORY | The last category you visited.  
-LAST_PRODUCT | The most recent product you have viewed.  
-NEWMESSAGE | Indicates whether a new message has been received.  
-NO_CACHE | Indicates whether it is allowed to use cache.  
-PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
-POLL | The ID of any polls you have recently voted in.  
-POLLN | Information on what polls you have voted on.  
-RECENTLYCOMPARED | The items that you have recently compared.  
-STF | Information on products you have emailed to friends.  
-STORE | The store view or language you have selected.  
-USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
-VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
-WISHLIST | An encrypted list of products added to your Wishlist.  
-WISHLIST_CNT | The number of items in your Wishlist.
+**Do we share your information with other companies?**
+
+We respect that you do not want your personal information shared with other companies. Therefore, the information which you provide will only be used for your intended purpose and to complete your online purchase. We do not share or sell your information with any other company. On a time to time basis we may share offers that we feel will be beneficial for you.
