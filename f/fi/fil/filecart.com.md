@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the filecart.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807004421id_/http%3A//www.filecart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filecart.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325124629id_/http%3A//www.filecart.com/privacy-policy) for the most accurate reproduction.*
 
-# FileCart Privacy Policy
+# FileCart - Terms of Service
 
-**What information do we collect?**
+## FileCart Privacy Policy
 
-We collect information from you when you register on our site, subscribe to our newsletter or fill out a form. 
+What information do we collect?
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+We collect information from you when you register on our site or fill out a form.
 
- **What do we use your information for?**
+When registering on our site or contact us, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+
+What do we use your information for?
 
 Any of the information we collect from you may be used in one of the following ways: 
 
@@ -50,9 +52,9 @@ As part of the California Online Privacy Protection Act, all users of our site m
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.filecart.com/terms_of_service.php](http://www.filecart.com/terms-of-service)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.filecart.com/terms-of-service>
 
- **Your Consent**
+**Your Consent**
 
 By using our site, you consent to our web site privacy policy.
 
@@ -66,5 +68,3 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 http://www.filecart.com  
 admin@filecart.com
-
-This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) scans.
