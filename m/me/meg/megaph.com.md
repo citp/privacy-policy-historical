@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megaph.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114094227id_/http%3A//megaph.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megaph.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325192525id_/https%3A//www.megaphoneapp.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Megaphone
 
@@ -8,7 +8,7 @@ In addition, customers must provide their name, email address, and credit card n
 
 All online visitor data collected by Megaphone is protected against unauthorized access. We will not sell, trade, or give your personal information to other companies or organizations.
 
-### Children’s Privacy
+### Children's Privacy
 
 We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. Megaphone encourages parents to go online with their kids.
 
@@ -23,4 +23,4 @@ Here are a few tips to help make a child's online experience safer:
 
 ### Contacting Us
 
-To reach us, please email: info@megaphoneapp.com
+To reach us, please email: [info@megaphoneapp.com](mailto:info@megaphoneapp.com)
