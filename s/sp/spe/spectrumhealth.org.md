@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spectrumhealth.org privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224113512id_/http%3A//www.spectrumhealth.org/WebSitePrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectrumhealth.org privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325023124id_/http%3A//www.spectrumhealth.org/WebSitePrivacyPolicy) for the most accurate reproduction.*
 
 # Website Privacy Policy Grand Rapids, Michigan (MI) - Spectrum Health
 
