@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devry.edu privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128145216id_/http%3A//www.devry.edu/devry_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devry.edu privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325064051id_/http%3A//www.devry.edu/devry_privacy_policy.html%3Fintcmp%3DHome_footerlink_privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DeVry University
 
@@ -28,27 +28,35 @@ Generally we do not give or sell your information, including your personally ide
 
 
 
-#### 5) Children (under age 17).
+#### 5) Do Not Track Signals.
+
+Some web browsers and devices permit you to broadcast a preference that you not be "tracked" online. At this time we do not modify your experience based upon whether such a signal is broadcast.
+
+#### 6) Behavioral Advertisers.
+
+We may participate in behavioral-based advertising. This means that a third party may use technology, such as a cookie on your browser or a web beacon, to identify you on our website so that they can provide advertising about products and services tailored to your interest. That advertising may appear either on our website, or on other websites. If you would like to opt-out of third-party behavioral advertising that collects information on your use of this website, you can do so by visiting the _Network Advertising Initiative_ and the _Digital Advertising Alliance_.
+
+#### 7) Children (under age 17).
 
 All persons age 17 or under must ask for and receive their parents' or guardian's permission before sending any information about themselves to us or to anyone online or over the Internet. Parents or guardians of persons under age 17 must send us an email indicating their approval of the child's participation in any of the services/resources that require collection of personal information on our websites.
 
-#### 6) Parents/Guardians.
+#### 8) Parents/Guardians.
 
 Any information collected by DeVry from children is used only for the sole purpose of delivering the requested service/materials. If you have a question, or would like to review or delete your child's personally identifiable information, contact us via one of the methods listed at the bottom of this statement.
 
-#### 7) Third-party websites.
+#### 9) Third-party websites.
 
 Links to third-party websites on DeVry sites are provided solely as a convenience to you. If you use these links, you will leave the DeVry site. DeVry does not review all third-party sites, nor does it control or assume responsibility for the content or privacy policies of any of these sites. Thus, DeVry does not endorse or make any representations about them, or any information, or other products or materials found there, or any results that may be obtained from using them. If you decide to access a third-party site linked to a DeVry website, you do so at your own risk.
 
-#### 8) How can you correct your information?
+#### 10) How can you correct your information?
 
 If you have any questions regarding this privacy policy or would like to have your personally identifiable information modified or deleted from our records, please email us or call our toll-free number.
 
-#### 9) How to contact us, and how we may contact you.
+#### 11) How to contact us, and how we may contact you.
 
 Should you have other questions or concerns about this privacy policy, contact us at:
 
-DeVry Inc.  
+DeVry Education Group  
 3005 Highland Parkway  
 Downers Grove, IL 60515-5683  
 1-866-338-7934
@@ -66,4 +74,4 @@ contact our International office:
 
 If we are required to provide you with notice of a particular event or incident, we will send you that notice by email, telephone, or mail.
 
-Last revised on March 16, 2011.
+Last revised on January 7, 2014.
