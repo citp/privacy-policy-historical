@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dwr.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610181158id_/http%3A//www.dwr.com/category/customer-service/privacy-security.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwr.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325123619id_/http%3A//www.dwr.com/category/customer-service/privacy-security.do) for the most accurate reproduction.*
 
 # Privacy and Security - Customer Service - Design Within Reach
 
