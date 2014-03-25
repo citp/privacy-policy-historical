@@ -1,38 +1,70 @@
-> *The following text is extracted and transformed from the getup.org.au privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915133527id_/https%3A//www.getup.org.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getup.org.au privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325183814id_/https%3A//www.getup.org.au/about/privacy) for the most accurate reproduction.*
 
-# GetUp! - Privacy
+# GetUp! - Privacy policy
 
-Privacy matters, and GetUp is totally committed to ensuring that your participation in our important work protects that privacy. 
+Privacy matters, and we are totally committed to ensuring that your participation in our important work protects your personal information. 
 
-#### What information we collect and why
+**What is personal information?**
 
-GetUp collects personal information to allow us to send you opportunities to get up and participate in campaigns. In order to improve these campaigns and our responsiveness to members, we collect the following information: 
+Personal information is information or an opinion about an identified individual, or an individual who is reasonably identifiable whether the information or opinion is true or not, and whether the information is recorded in a material form or not. 
 
-> \- **Information you provide** : GetUp collects your name and email address for the purpose of sending you opportunities to get up and participate in our campaigns. You can ask to stop receiving these emails or change your details at any time by using the link at the bottom of each email or by sending an email to: [privacy@getup.org.au](mailto:privacy@getup.org.au). Any additional information you choose to provide in the course of GetUp actions and surveys is stored securely.   
-> \- **Communications with us** : When you send an email to GetUp or give us information over the phone, we may retain this in order to respond to your inquiry.   
-> \- **User trends** : We also collect information about how GetUp members respond to our emails and how many take action through our site. We analyse these trends to improve our campaigns and communications.
+**What personal information we collect**
 
-#### Information Security
+The types of information we collect and hold about you include your name, address, email address, telephone number and financial information. 
 
-We take appropriate security measures to protect against unauthorised access to or unauthorised alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorised access to systems where we store personal data. 
+**Why we collect your personal information**
 
-We won't sell, trade or exchange your information without your permission. 
+We collect personal information to allow us to send you opportunities to get up and participate in campaigns and to provide you with information about our organisation, projects and campaigns. 
 
-GetUp will not provide your personal information to any other organisation, with some exceptions:
+We may also use your personal information for the purposes of our internal administrative, research, planning, marketing, campaigns and project development. 
 
-  * Where required for financial transactions (eg. to verify credit cards);
-  * When you petition a decision-maker through our website, your name, town and state will be forwarded to the decision-maker, but not your email or physical address;
-When you send an email through this site, for example to a member of Parliament, that email will come from your address, not GetUp's, and hence will include the details you provide, often including your email address; or,
-  * As required by law, including disclosure to the Australian Electoral Commission.
+We won't use or disclose your personal information for any secondary purpose, unless: 
+
+  1. that secondary purpose is related to the primary purpose for which we collect that information and you would reasonably expect the disclosure in the circumstances; or
+  2. you have given us your consent.
 
 
 
-Access to personal information is restricted to GetUp employees who need to know that information in order to run and improve our campaigns. Volunteers are really important to GetUp, and one of the ways we keep costs down and make your donations go further. In some circumstances trusted volunteers who sign non-disclosure forms are given access to limited information for the purposes of contacting GetUp members or improving our campaigns. All individuals with access to data are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. 
+ **How we collect and hold information**
 
-#### Changes to this policy
+We collect and hold personal information you provide us through our website, over the phone, or by email. 
 
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your consent. Most changes will be minor, but nonetheless we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice. 
+For example, when you send an email to us or give us information over the phone, we may retain this in order to respond to your inquiry. 
 
-#### For more information...
+**How we make sure your personal information is protected**
 
-If you would like more information on privacy at GetUp, [contact us](https://web.archive.org/about/contact-us). 
+We take appropriate security measures to protect against unauthorised access to or unauthorised alteration, disclosure or destruction of your personal information. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorised access to systems where we store personal information. 
+
+Personal information is held only for as long as the personal information remains relevant to the purpose for which it was collected. 
+
+**Unsolicited personal information**
+
+We don't usually collect unsolicited personal information. 
+
+Where we receive unsolicited personal information, we'll determine whether or not it would have been permissible to collect that personal information if it had been solicited. If we determine that collection would not have been permissible, to the extent permitted by law, we'll destroy or de-identify that personal information as soon as practicable. 
+
+**Access and correction**
+
+We'll take all reasonable steps to ensure any personal information we collect, use or disclose is up to date and accurate. 
+
+If you believe personal information we hold about you is not up to date or accurate, you may ask us to correct it. You may ask us to provide you with details of the personal information we hold about you, and copies of that information. We will respond to your request and attempt to provide you with the data within 30 days of receipt of your request. 
+
+If we provide you with copies of the information you have requested, we may charge you a reasonable fee to cover the administrative costs of providing you with that information. Please direct all request for access and correction to: 
+
+Darren Loasby, Lvl 2, 104 Commonwealth St, Sydney NSW 2010, [privacy@getup.org.au](mailto:privacy@getup.org.au)
+
+**Overseas disclosure**
+
+We do not disclose personal information to any overseas entities. 
+
+**Changes to this policy**
+
+Please note that this Privacy Policy may change from time to time. 
+
+**Complaints**
+
+If you consider a breach of the Australian Privacy laws or your rights in relation to privacy has occurred, you may direct your query to our Privacy Officer and we will attempt to resolve your complaint. If you do not consider our response satisfactory, you may contact the Australian Privacy Commissioner at its website <http://www.oaic.gov.au/> or by telephone on 1300 363 992. 
+
+**For more information**
+
+If you would like more information on privacy, [contact us](https://web.archive.org/about/contact-us). 
