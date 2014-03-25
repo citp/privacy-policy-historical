@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the artforkidshub.com privacy policy that was archived on 2013-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130304131838id_/http%3A//artforkidshub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artforkidshub.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325042148id_/http%3A//artforkidshub.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Art for Kids!
+# Art for Kids!Privacy Policy | Art for Kids!
 
 This Privacy Policy governs the manner in which Art for Kids! collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://artforkidshub.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Art for Kids!.
 
