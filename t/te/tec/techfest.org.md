@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the techfest.org privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822130626id_/http%3A//www.techfest.org/home/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techfest.org privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325075358id_/http%3A//www.techfest.org/home/info/privacy) for the most accurate reproduction.*
 
 # Techfest 2013-14 | Asia's Largest Science and Technology Festival
 
-[](http://www.iitb.ac.in/ "IIT Bombay")
-
-presents
-
-[](http://www.techfest.org/ "Techfest 2013-14")
+[](http://www.iitb.ac.in/ "IIT Bombay") & []( "Reliance") present [](http://www.techfest.org/ "Techfest 2013-14")
 
 in association with
 
@@ -15,6 +11,12 @@ in association with
 under the patronage of
 
 [](https://en.unesco.org/ "UNESCO")[](http://www.unicef.org/ "UNICEF")
+
+powered by
+
+[](http://www.hindustantimes.in/ "Hindustan Times")
+
+[](http://www.thinstrokes.com/retail/)
 
 ## Privacy Policy
 
