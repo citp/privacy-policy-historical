@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wagbrag.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207063313id_/http%3A//wagbrag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wagbrag.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325224010id_/http%3A//wagbrag.com/privacy-policy) for the most accurate reproduction.*
 
-# Wagbrag Privacy Policy » Wagbrag
+# Privacy Policy - Wagbrag
 
 **What information do you collect about me?**
 
