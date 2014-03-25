@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the standardchartered.com.sg privacy policy that was archived on 2013-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131002144732id_/http%3A//www.standardchartered.com.sg/website-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardchartered.com.sg privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325231759id_/https%3A//www.sc.com/sg/website-privacy-statement.html) for the most accurate reproduction.*
 
-# Website Privacy Statement - Standard Chartered Bank Singapore
+# Website Privacy Statement - Standard Chartered Bank (Singapore) Limited
 
-Standard Chartered Bank respects your privacy and we are committed to keeping your personal information and other data confidential and secure.
+Standard Chartered Bank (Singapore) Limited respects your privacy and we are committed to keeping your personal information and other data confidential and secure.
 
   1. **When does this Website Privacy Statement apply?**
 
-This Website Privacy Statement explains the approach taken by Standard Chartered Bank, Singapore Branch and the members of the Standard Chartered Group ("SCB", "we" or "us") toward the personal information and data that we collect about you ("Your Information") when you visit this Website, electronically respond to our online advertisements or when you send us communications via any computer, mobile or other similar electronic devices ("Device"). It does not apply to information we collect in other ways e.g. when you are dealing with our staff in a branch or over the telephone. In these cases, there may be other privacy statements and terms and conditions that are applicable.
+This Website Privacy Statement explains the approach taken by Standard Chartered Bank (Singapore) Limited, and the members of the Standard Chartered Group ("SCB Group", "we" or "us") toward the personal information and data that we collect about you ("Your Information") when you visit this Website, electronically respond to our online advertisements or when you send us communications via any computer, mobile or other similar electronic devices ("Device"). It does not apply to information we collect in other ways e.g. when you are dealing with our staff in a branch or over the telephone. In these cases, there may be other privacy statements and terms and conditions that are applicable.
 
 This Website Privacy Statement is limited to information and data collected on this Website, our online advertisements and electronic communications. Our Website Privacy Statement does not apply when you leave our Website, including third-party websites where our online advertisements are displayed or links to third-party websites which we do not operate or control. Please read the privacy statements and terms and conditions of these third-party websites and decide whether they satisfactorily protect your rights.
 
@@ -29,16 +29,18 @@ Cookies are small data files which are placed on your Device when you visit cert
       2. **Analytical/performance cookies.** These are used to help us improve our Website by: 
         * tracking your visits to our Website and recognising your web browser when you are a repeat visitor so that we can gather statistics on new and repeat visitors to evaluate site effectiveness.
       3. **Functionality cookies.** These are used to recognise you when you return to our Website. This enables us to: 
-        * personalise our content for you and remember your preferences (for example, your choice of language and region);
-        * store your login and other preferences so you do not have to re-enter that information when you return to the Website.
+        * to remember the choices you make (such as your user name, language and region) so you do not have to re-enter that information when you return to the Website;
+        * personalise our Website content for you.
       4. **Targeting / advertising cookies.** These cookies record your visit to our Website, your response to our online advertisements, track the pages you have visited and the website links you have followed. We use this information to: 
-        * make our Website more relevant to your interests;
-        * provide online advertisements or offers on our Website or third-party websites which are most likely to interest you;
-        * limit the number of times you see an advertisement and evaluate the effectiveness of our online marketing and advertising programs.
+        * make our Website more relevant to your interests based on your past visits to our Website;
+        * tailor our online advertisements or offers on our Website or third-party websites which are most likely to interest you;
+        * evaluate the effectiveness of our online marketing and advertising campaigns.
 
-The above cookies may be placed on your Device by us or by third parties on our behalf (for example, advertising networks and providers of external services like web traffic analysis services).
+The above cookies may be placed on your Device by us or by third parties on our behalf (for example, advertising service providers like Google and DoubleClick and other service providers for web analytics).
 
 Most web browsers are initially set up to accept cookies. You can choose to ‘not accept' cookies by changing the settings on your web browser but if you block all cookies, including strictly necessary cookies, you may find that certain features on our Website will not work properly.
+
+You can opt out of Google’s use of cookies by visiting Google’s Ad Settings and DoubleClick’s use of cookies by visiting the DoubleClick opt-out page.
 
     2. **Online Forms**
 
@@ -52,17 +54,13 @@ Personal information provided on our Website in connection with an application f
 
 If you contact us via email, we may keep a record of that correspondence.
 
-    5. **How we use Your Information**
-
-We will always treat Your Information as confidential. We will use good practices to keep it secure and will otherwise abide by the relevant data protection and privacy laws.
-
   4. **How we use Your Information**
 
 We will always treat Your Information as confidential. We will use good practices to keep it secure and will otherwise abide by the relevant data protection and privacy laws.
 
     1. **Using Your Information - Purposes**
 
-If you provide Your Information on the Website in relation to any products and services from SCB, or send us an electronic communication, we will use Your Information for the purposes ("Purposes") of providing and operating the product or service you request or responding to your electronic communication and for other related purposes that may include: 
+If you provide Your Information on the Website in relation to any products and services from the Bank, or send us an electronic communication, we will use Your Information for the purposes ("Purposes") of providing and operating the product or service you request or responding to your electronic communication and for other related purposes that may include: 
       * following up on any product or service application which you have shown interest in;
       * updating our records about you;
       * understanding your financial needs;
@@ -96,9 +94,9 @@ We will retain Your Information for as long as the Purpose for which we collecte
 
   5. **Privacy, security and communications using the Internet**
 
-    * The Internet is not a secure form of communication and sending and receiving information over the Internet carries with it risks including the risk of access and interference by unauthorized third parties. It is your responsibility to maintain the secrecy of any user ID and login password you hold.
-    * Information passing over the Internet may be transmitted internationally (even when sender and recipient are located in the same country) via countries with weaker privacy and data protection laws than in your country of residence. As a result, we do not accept responsibility or liability for the confidentiality, security or integrity of Your Information in connection with its transmission over the Internet.
-    * In order to maintain the security of our systems, protect our staff, record transactions, and, in certain circumstances, to prevent and detect crime or unauthorised activities, we reserve the right to monitor all Internet communications including web and email traffic into and out of our domains.
+    1. The Internet is not a secure form of communication and sending and receiving information over the Internet carries with it risks including the risk of access and interference by unauthorized third parties. It is your responsibility to maintain the secrecy of any user ID and login password you hold.
+    2. Information passing over the Internet may be transmitted internationally (even when sender and recipient are located in the same country) via countries with weaker privacy and data protection laws than in your country of residence. As a result, we do not accept responsibility or liability for the confidentiality, security or integrity of Your Information in connection with its transmission over the Internet.
+    3. In order to maintain the security of our systems, protect our staff, record transactions, and, in certain circumstances, to prevent and detect crime or unauthorised activities, we reserve the right to monitor all Internet communications including web and email traffic into and out of our domains.
   6. **Changes to our Website Privacy Statement**
 
 We update our Website Privacy Statement from time to time and ask that you regularly check this Website to make sure you are familiar with the most recent version.
@@ -106,9 +104,14 @@ We update our Website Privacy Statement from time to time and ask that you regul
 
 
 
-This Website Privacy Statement was last updated on 24 August 2012.
+This Website Privacy Statement was last updated on 15 November 2013.
 
-COPYRIGHT©STANDARD CHARTERED PLC 2012. ALL RIGHTS RESERVED. 
+COPYRIGHT©STANDARD CHARTERED BANK 2013. ALL RIGHTS RESERVED. 
+
+March 3rd 2014  
+A material security flaw has been discovered affecting Apple devices. If you are using an Apple product (desktop, laptop, iPhone, iPad), please do not use the Safari browser to perform your online banking or Straight2Bank transactions, especially from public or unsecured Wifi networks (cafes, hotels, public lounges). **Apple has released security patches for iPhones, iPads and Mac computers and you are advised to install them promptly.**
+
+In the meantime, you can use an alternative browser or use the [Breeze App](https://www.sc.com/sg/ways-to-bank/mobile-breeze.html) for your Online Banking transactions.
 
 This is to inform that by clicking on the hyperlink, you will be leaving _standardchartered.com.sg_ and entering a website operated by other parties:
 
