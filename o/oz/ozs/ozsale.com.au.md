@@ -1,10 +1,15 @@
-> *The following text is extracted and transformed from the ozsale.com.au privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106114719id_/http%3A//www.ozsale.com.au/PrivacyPolicy.aspx%3Fcid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozsale.com.au privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325185714id_/http%3A//www.ozsale.com.au/PrivacyPolicy.aspx%3Fcid%3D10) for the most accurate reproduction.*
 
 # Ozsale.com.au - Privacy
 
 OZSALE.COM.AU, referred to below as Ozsale, is an online retailer of consumer goods.
 
-Ozsale values our relationship with you and the other users of this website. We recognize that you may be concerned about our collection, use, and disclosure of your personally identifiable information that we may collect when you use the Web Site. Accordingly, we have implemented this Privacy Policy to inform you of the information that we collect from you, how we collect this information, and what we do with it after we collect it. If you have any questions or comments regarding this Privacy Policy, please contact us via our contact us page.
+Ozsale values our relationship with you and the other users of this website. We recognize that you may be concerned about our collection, use, and disclosure of your personally identifiable information that we may collect when you use the Web Site. Accordingly, we have implemented this Privacy Policy to inform you of the information that we collect from you, how we collect this information, and what we do with it after we collect it. If you have any questions or comments regarding this Privacy Policy, please contact us via our contact us page, email us via contactus@ozsale.com.au or call 02 8999 0407.
+
+If you wish to unsubscribe from our daily notifications you can do so by clicking the unsubscribe link at the bottom of any of our email notifications or by visiting www.ozsale.com.au/unsubscribe.aspx.
+
+Ozsale is located at Unit 5, 111 Old Pittwater Road, Brookvale NSW 2100  
+
 
 ## OZSALE's Commitment to Online Security
 
