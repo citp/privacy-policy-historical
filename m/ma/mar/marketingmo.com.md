@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marketingmo.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230224054id_/http%3A//www.marketingmo.com/privacy-policy-and-security-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingmo.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325232134id_/http%3A//www.marketingmo.com/privacy-policy-and-security-statement) for the most accurate reproduction.*
 
-# Marketing MO Privacy Policy | Marketing MO
+# Privacy Policy | Marketing MO - A Comprehensive Marketing Planning App
 
 We understand that you care how information about you is stored and shared. In order to provide a safe, secure experience, we will make every effort to ensure that the information you give us remains private, and is used for the purposes described below.
 
@@ -37,8 +37,6 @@ Marketing MO provides members with the opportunity to opt-out of receiving commu
 If you have any questions about our services or privacy statement, contact:
 
 **Moderandi Inc.**  
-11260 N 92nd St Ste 1066  
-Scottsdale, Arizona 85260  
+7047 E. Greenway Pkwy., Ste 250  
+Scottsdale, Arizona 85254  
 P (480) 219-9695
-
-[Click here to send an email](mailto:hello@marketingmo.com)
