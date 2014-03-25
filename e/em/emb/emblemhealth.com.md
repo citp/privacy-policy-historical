@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emblemhealth.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208202939id_/http%3A//www.emblemhealth.com/Legal-Information/Privacy-Security-Policies.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emblemhealth.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325063910id_/http%3A//www.emblemhealth.com/en/Legal-Information/Privacy-Security-Policies.aspx) for the most accurate reproduction.*
 
 # Privacy Notice and Security Policies
 
@@ -8,8 +8,8 @@ The protection and security of our subscribers' personal information is one of o
 
 This notice describes how medical information about you may be used and disclosed and how you can get access to this information. 
 
-  * [Click here](https://web.archive.org/~/media/Files/PDF/Privacy_Notice_EH1.pdf) to read our Privacy Notice. 
-  * [Haga clic aquí](https://web.archive.org/~/media/Files/PDF/Privacy_Notice_EH_Sp1.pdf) para leer nuestro Aviso de Prácticas de Privacidad. 
+  * [Click here](https://web.archive.org/~/media/Files/PDF/Privacy_Notices/Privacy_Notice_EH1.pdf) to read our Privacy Notice. 
+  * [Haga clic aquí](https://web.archive.org/~/media/Files/PDF/Privacy_Notices/Privacy_Notice_EH1_SPANISH.pdf) para leer nuestro Aviso de Prácticas de Privacidad. 
 
 
 
@@ -91,6 +91,6 @@ A description of all benefits including benefit maximums, coverage exclusions an
 
 If you have questions about the Managed Care Act Disclosure Provision, would like copies of information about GHI HMO or HIP HMO, or for any other questions: 
 
-For GHI HMO: Call Customer Service toll free at 1-877-2GHIHMO (1-877-244-4466).
+For GHI HMO: Call Customer Service toll free at 1-877-244-4466.
 
-For HIP HMO: Call Customer Service toll free at 1- 800-HIPTALK (1-800-447-8255).
+For HIP HMO: Call Customer Service toll free at 1-800-447-8255.
