@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apnapaisa.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928011555id_/http%3A//www.apnapaisa.com/corporate/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnapaisa.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325124343id_/http%3A//www.apnapaisa.com/corporate/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,6 +73,8 @@ We will send information about you to other companies or people when:
 
 
 We need to share your information with certain service partners in order to respond to your queries / comments or to resolve service issues and to serve you better.
+
+By using the website and/or registering yourself at apnapaisa or its affiliate sites you authorize us, our affiliates & our associate partners to contact you via email or phone call or sms and offer you their services for the product you have opted for, imparting product knowledge, offer promotional offers running on website & offers offered by the associated third parties, for which reasons, as well as web aggregation, personally identifiable information may be collected as detailed below. And Irrespective of the fact if also you have registered yourself under DND or DNC or NCPR service, you still authorize us to give you a call from apnapaisa & its associate partners for the above mentioned purposes.
 
 **Security**
 
