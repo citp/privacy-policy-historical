@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techvalidate.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807051649id_/http%3A//www.techvalidate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techvalidate.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325031220id_/http%3A//www.techvalidate.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TechValidate
 
@@ -104,6 +104,6 @@ The Site and use of the Program and Services are not directed to children under 
 
 **Contacting Us**
 
-If you have any questions about this Privacy Policy, please contact us at privacy@TechValidate.com or write to us at: TechValidate Software, Inc., 2418 5th Street, Berkeley, CA 94710.
+If you have any questions about this Privacy Policy, please contact us at privacy@TechValidate.com or write to us at: TechValidate Software, Inc., 5900 Hollis Street, Suite S, Emeryville, CA 94608.
 
 Effective: July 1, 2012
