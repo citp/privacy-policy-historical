@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regattacentral.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505174007id_/https%3A//www.regattacentral.com/information/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regattacentral.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325081556id_/https%3A//www.regattacentral.com/information/privacy.jsp) for the most accurate reproduction.*
 
 # RegattaCentral - Staff
 
@@ -53,7 +53,7 @@ By e-mail: support@regattacentral.com
 
 
 By Phone: (US & Canada)     (614) 360-2922  
-                (Australia)             +61 2 6100 3601  
+                (Australia)             +61 2 6100 4216  
 
 
 **Governing Law and Venue**
