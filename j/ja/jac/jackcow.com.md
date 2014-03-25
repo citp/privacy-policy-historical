@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackcow.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808003117id_/http%3A//www.jackcow.com/jackcow_2012/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackcow.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325025417id_/http%3A//www.jackcow.com/jackcow_2012/privacy_policy.php) for the most accurate reproduction.*
 
 # Jackcow.com
 
