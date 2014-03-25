@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the lechateau.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209091011id_/http%3A//www.lechateau.com/style/company/links/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lechateau.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325151907id_/http%3A//www.lechateau.com/style/company/links/privacy.jsp) for the most accurate reproduction.*
 
 # Le Château
 
 ## Le Château's Privacy Policy
+
+Updated: February 14, 2014
 
 We at Le Château Inc. respect your privacy. This privacy policy (the "Policy") describes the manner in which we collect your personal information and how we treat it consistent with our commitment to providing you with a satisfying and helpful shopping experience.
 
@@ -26,6 +28,8 @@ You may withdraw your consent at any time, on reasonable notice, subject to lega
 
 3\. LIMITING USE, DISCLOSURE, AND RETENTION  
 Personal information will not be used or disclosed for purposes other than those for which it was collected, except with your consent or as required or permitted by law. It will be retained only as long as necessary for these purposes or as required by law.
+
+We support the Do Not Track browser setting. Do Not Track (or DNT) is a preference you can set in your browser to let the websites you visit know that you do not want them collecting certain information about you.
 
 4\. ACCURACY  
 We will keep your Personal Information as accurate, complete and up-to-date as necessary for the purposes for which it is to be used. You may request access to your Personal Information we have on record in order to review and amend the information, as appropriate. In circumstances where your Personal Information has been provided by a third party, we will refer you to that party (e.g., credit bureaus).
