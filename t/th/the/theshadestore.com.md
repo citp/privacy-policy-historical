@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theshadestore.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117074536id_/http%3A//www.theshadestore.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theshadestore.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325034240id_/https%3A//www.theshadestore.com/corporate-info/privacy-policy) for the most accurate reproduction.*
 
-# Policies | The Shade Store
+# Privacy Policy | The Shade Store
 
 _The Shade Store - Privacy Policy_
 
@@ -36,7 +36,7 @@ The Shade Store also uses this information to enhance and personalize your shopp
 We do not want to receive confidential or proprietary information or trade secrets through this Site. Except as otherwise expressly provided herein or by The Shade Store, any such information, materials, suggestions, ideas or comments sent to us will be deemed non-confidential, and by submitting it, you are granting us an irrevocable and unrestricted license to use, modify, reproduce, transmit, display and distribute it for any purpose whatsoever, with no payment or other compensation to you. 
 
 **How Can You Access Your Information?**  
-You may access and edit the personal information that is stored in your user account on this Site by signing or logging in on the Site. Simply click on the ["My Account"](https://web.archive.org/account) link from the home page and enter your email address and password to access your account. You can request password help at any time by clicking on the ["forgot my password"](https://web.archive.org/account/reset) link at which time we will email your password to the associated email address. You may also request to access, correct or delete personal information that you have provided to us at any time from our customer service representatives or by contacting us using the contact information below.
+You may access and edit the personal information that is stored in your user account on this Site by signing or logging in on the Site. Simply click on the ["My Account"](https://web.archive.org/account) link from the home page and enter your email address and password to access your account. You can request password help at any time by clicking on the ["forgot my password"](https://web.archive.org/account?modal_trigger=forgot-password) link at which time we will email your password to the associated email address. You may also request to access, correct or delete personal information that you have provided to us at any time from our customer service representatives or by contacting us using the contact information below.
 
 **How Does The Shade Store Protect Your Information?**  
 We have implemented appropriate physical, electronic and administrative measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. When you place an order on the Site, Secure Socket Layer Technology ("SSL") encryption technology is utilized to protect your personal information during data transport. We do not store any credit card information. Please note that e-mail is not encrypted and is not considered to be a secure means of transmitting credit card information. The Site also features "Hacker Safe" technology. While we strive to protect your personal information, we cannot guarantee or warrant that such information, during transmission through the Internet or while stored on our system or otherwise in our care, as the case may be, will be completely secure. Therefore, the provision of such information is done at your own risk. We shall have no liability for disclosure of your personal information due to errors, omissions or unauthorized acts of third parties during or after transmission.
@@ -64,11 +64,9 @@ This Site is a general audience site. We do not knowingly or intentionally colle
 Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 21 Abendroth Ave; Port Chester, NY 10573. Please allow 30 days for a response.
 
 **Contact Information**  
-We welcome your comments regarding this privacy policy. Please send any concerns to by email to [help@theshadestore.com](mailto:help@theshadestore.com) or by mail to: 21 Abendroth Ave; Port Chester, NY 10573
+We welcome your comments regarding this privacy policy. Please send any concerns to by email to [design@theshadestore.com](mailto:design@theshadestore.com) or by mail to: 21 Abendroth Ave; Port Chester, NY 10573
 
 \---------  
 THE SHADE STORE Customer Relations Privacy Policy
 
-© 2006-2012 THE SHADE STORE, LLC. ALL RIGHTS RESERVED 
-
-[ ](https://www.scanalert.com/RatingVerify?ref=www.theshadestore.com)
+© 2006-2013 THE SHADE STORE, LLC. ALL RIGHTS RESERVED 
