@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the bestvendor.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906154138id_/https%3A//www.bestvendor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestvendor.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325203124id_/https%3A//www.bestvendor.com/privacy) for the most accurate reproduction.*
 
 # Privacy - BestVendor.com
 
 **General Statement**
 
-BestVendor, Inc., a Delaware corporation (the “Company”), maintains this site (“Site”), among other reasons, to help people at startups and small businesses make faster, smarter purchasing decisions through social recommendations (collectively, the “Services”), subject to the Terms and Conditions of Use [HYPERLINK TO THE TERMS] (the “Terms”) and this privacy policy (the “Privacy Policy”).
+Docstoc®, Inc., a Delaware corporation dba BestVendor® (the “BestVendor,” “Company”), maintains this site (“Site”), among other reasons, to help people at startups and small businesses make faster, smarter purchasing decisions through social recommendations (collectively, the “Services”), subject to the [Terms and Conditions ](https://web.archive.org/terms) of Use (the “Terms”) and this [Privacy Policy](https://web.archive.org/privacy) (the “Privacy Policy”).
 
-This Privacy Policy only applies to this Site and describes the information we collect, how we use it, with whom we share it, and other matters related to such information. **By accessing and using this Site, including by providing information to us, you signify your agreement to the terms of this Privacy Policy. If we make material changes to this Privacy Policy, we will notify you here, by means of a notice on our home page so that you may access and review the changes to this document in advance of your continued use of the Services. If you object to any changes, you may close your account. You will signify your agreement with the new policy by continuing to use this Site after the changes have been posted.**
+This Privacy Policy only applies to this Site and describes the information we collect, how we use it, with whom we share it, and other matters related to such information. By accessing and using this Site, including by providing information to us, you signify your agreement to the terms of this Privacy Policy. If we make material changes to this Privacy Policy, we may notify you here, and we may, but are not required to notify you by means of a notice on our home page. If you object to any changes, you may close your account. You will signify your agreement with the new policy by continuing to use this Site after the changes have been posted.
 
-The Company controls, owns, and manages the information collected on the Site and may use the information solely for its own purposes.
+The Company controls, owns, and manages the information collected on the Site and may use the information solely for its own purposes. Except as stated elsewhere, all amendments to our Privacy Policy shall automatically be effective as soon as they are initially posted, except if we write in any future version of the Privacy Policy that we are giving advance notice of any amended term to be effective on a date in the future. Because we reserve these rights, you agree that you will visit this page periodically to review the Privacy Policy. Except as posted by BestVendor to the Sites this Privacy Policy may not be otherwise amended, and no terms may be waived by BestVendor, except in a writing, hand signed by pen on paper (or as set forth below) by You and an authorized representative of BestVendor. For purposes of this provision, a "writing" does not include an email message, text, chat, or the like, sent from any device existing now or later developed and a signature does not include an electronic signature. 
 
-If you have any questions or concerns about our Privacy Policy, contact our privacy team at: privacy@bestvendor.com.
+When You visit the Site or send Us e-mails, You are communicating with Us electronically. You consent to receive communications from Us electronically. We may communicate with You by e-mail or by posting notices on the Site. You agree that all agreements, notices, disclosures, and other communications that We provide to You electronically satisfy any legal requirement that such communications be in writing. You agree to provide us with, and to maintain in Your account profile, Your current and active email address.
+
+If you have any questions or concerns about our Privacy Policy, contact our privacy team at: [privacy@bestvendor.com.](mailto:privacy@bestvendor.com)
 
 **The Information We Collect**
 
@@ -18,7 +20,7 @@ If you have any questions or concerns about our Privacy Policy, contact our priv
 
 (a) When you sign up at the Site for the Services you provide us with access to your profile information from LinkedIn or other social networking site(s) to which you provide us with access. You may choose to supplement this information with additional profile information and product and service usage information after your initial registration. In some cases we may ask for additional information for security reasons or to provide specific services to you. We may also supplement the information you provide with information we receive from third parties.
 
-(b) When you send email or other communications to us for customer service or other reasons, we may retain those communications in order to process your inquiries, respond to your requests and improve the Services.
+(b) When you send email or other communications to us for customer service or other reasons, we may retain those communications in order to process your inquiries, respond to your requests and improve the Services. 
 
 **2. _Transactional Information_. We may retain the details of transactions or payments you make on the Site. If you do not want us to store your payment source account information, please contact our privacy team to have it removed.**
 
@@ -46,7 +48,7 @@ We use the information we collect to try to provide a safe, efficient, and custo
 
 6\. **_To Offer Joint Services_.** We may provide services jointly with other companies. If you use these services, we may share your information to facilitate that service.
 
-7\. _Association with Personally Identifiable Information_. We may associateyour online navigational information and transactional information gathered by cookies and clear gifs to your personally identifiable information. We associate this information only for our purposes, to deliver services and products to you, to improve our business and to market our products and services through email, mobile advertising, direct mail and other media. The association of navigational information, cookies, clear gifs and personally identifiable information results in a more personalized experience on the Site that is tailored to your interests.
+7\. _Association with Personally Identifiable Information_. We may associate your online navigational information and transactional information gathered by cookies and clear gifs to your personally identifiable information. We associate this information only for our purposes, to deliver services and products to you, to improve our business and to market our products and services through email, mobile advertising, direct mail and other media. The association of navigational information, cookies, clear gifs and personally identifiable information results in a more personalized experience on the Site that is tailored to your interests.
 
 **How the Information We Collect May Be Shared**
 
@@ -64,6 +66,10 @@ We use the information we collect to try to provide a safe, efficient, and custo
 
 7\. _Non-Private or Non-Personal Information_. We may share or disclose your non-private, aggregated or otherwise non-personal information about the usage of the Site or the Services to third parties for purposes that we deem, in our sole discretion, to be appropriate, including to prospective advertisers on the Site.
 
+8\. We may use Your personally identifiable information to register You to use a BESTVENDOR Site or and Services; to deliver certain services; to provide notices regarding services or documents You have purchased or licensed; to verify Your authority to enter or utilize a BESTVENDOR Site or Service; to improve the Content and general administration of a BESTVENDOR Site and our Services and display targeted advertising on or through a BESTVENDOR Site; and to contact You, including by email or telephone. We may use Your email address, physical address, telephone number, and BESTVENDOR messaging system to contact You, without further consent, for administrative communications, to address copyright infringement or defamation or other violations of Terms of Service issues, or to contact You regarding Your membership, subscription, or any Content that You have posted to or downloaded from the Site. Users will receive BESTVENDOR registration emails when they register, Ask or Ask BESTVENDOR personnel will receive communications relating to Your questions or request, Users may receive updates and notices about questions they are asking or answering, other posts, Your accounts, and new features and policies; these communications are considered part and parcel of Your service and You may not be able to opt out of them. BESTVENDOR may contact You about new services, special offers, promotions, and third-party / affiliate offers, and will include in any such emails an opt-out link by which You can opt out of receiving such emails. Our customer care and other departments may contact You and referral participants to attempt to address Your satisfaction with Doctsoc and/or to ask how we can improve. BESTVENDOR or its agents may contact You, including by telephone or email, including after Your BESTVENDOR account has terminated or expired, and Your agreement to the Terms constitutes Your request that BESTVENDOR contact and communicate with You, including by traditional mail, private courier, telephone (land and mobile), email, texts, or through social media such as Facebook, Twitter, Google+, YouTube, Vimeo, and various blogs.
+
+9\. We may use and disclose Your information if we believe, in good faith, that it is appropriate or necessary to take precautions against liability; in response to third party subpoena’s; to protect BESTVENDOR from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against third-party claims or allegations; to assist government law enforcement and regulatory agencies; to protect the security or integrity of a BESTVENDOR Site; or to protect the rights, property, or personal safety of BESTVENDOR, our Users, or others. We may disclose User information to affiliated companies or other businesses or persons to provide web site hosting, maintenance, and security services; fulfill orders; conduct data analysis and create reports; offer certain functionality; and assist us in improving the BESTVENDOR Sites and Services, and in creating new services and features.
+
 **Links and Advertising**
 
 From time to time, the Site may contain hyperlinks (“Links”) to third party websites as well as banner advertising and sponsorships operated by or referring to third parties and their goods and services (“Advertising”). Such Links and Advertising are for your reference only, and we neither control the privacy policies of such linked or advertised websites nor are we liable or responsible in any way for the use of any personally identifiable information that you may provide such sites. We recommend that you remain aware when you leave the Site and review the terms of use and privacy policies of each and every linked website.
@@ -72,7 +78,7 @@ You should also be aware that if you voluntarily disclose personally identifiabl
 
 **Security**
 
-1\. **_Steps we take to keep your information secure_.**The security of your personally identifiable information is important to us. We have put in place commercially reasonable physical, electronic, and managerial procedures to adequately safeguard and secure the information we collect on the Site from unauthorized access.
+1\. **_Steps we take to keep your information secure_.** The security of your personally identifiable information is important to us. We have put in place commercially reasonable physical, electronic, and managerial procedures to adequately safeguard and secure the information we collect on the Site from unauthorized access.
 
 2\. **_Risks inherent in sharing information_.** Notwithstanding our commitment to protect your information, you should be aware that there is always some risk involved in transmitting information over the internet. Additionally, there also is some risk our security systems could be circumvented or breached. As a result, while we strive to use commercially reasonable means to protect your information, we cannot ensure or warrant the security and privacy of any information you transmit to us, and you do so at your own risk. If you have any questions regarding the security on the Site or of the Services you can contact our privacy team at the address and email set forth above.
 
@@ -94,14 +100,30 @@ Even if you choose to opt-out, we reserve the right to contact you as necessary 
 
 **The Site is for general audiences and is not directed toward those under 13 years of age.**
 
+**BESTVENDOR recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities and interests. No BESTVENDOR Site is intended for children under the age of 13. BESTVENDOR does not target its Services or Sites to children under 13. BESTVENDOR does not knowingly collect personally identifiable information from children under the age of 13. IF YOU ARE UNDER 13 YEARS OF AGE, PLEASE DO NOT USE OR ACCESS ANY BESTVENDOR SITE AT ANY TIME OR IN ANY MANNER. IF BESTVENDOR LEARNS THAT PERSONALLY-IDENTIFIABLE INFORMATION OF PERSONS LESS THAN 13 YEARS OF AGE HAS BEEN COLLECTED ON OR THROUGH A BESTVENDOR SITE, BESTVENDOR WILL TAKE THE APPROPRIATE STEPS TO DELETE THIS INFORMATION.**
+
+**IF YOU ARE THE PARENT OR LEGAL GUARDIAN OF A CHILD UNDER 13 WHO HAS BECOME A BESTVENDOR SUBSCRIBER, THEN PLEASE CONTACT BESTVENDOR AT PRIVACY_at_BESTVENDOR_dot_COM TO HAVE THAT CHILD'S ACCOUNT TERMINATED AND INFORMATION DELETED.**
+
+**THE FOLLOWING ARE SOME RESOURCES THAT MAY HELP PARENTS AND LEGAL GUARDIANS IN MONITORING AND LIMITING YOUR CHILDREN’S ACCESS TO CERTAIN TYPES OF MATERIAL ON THE INTERNET. WHILE BESTVENDOR DOES NOT ENDORSE THESE SITES, SERVICES, OR PRODUCTS, AND DISCLAIMS ANY RESPONSIBILITY IN CONNECTION WITH THEM, WE PROVIDE INFORMATION ABOUT THEM AS A PUBLIC SERVICE.
+
+1\. [OnGuard Online](http://www.onguardonline.gov/socialnetworking.html), maintained by the Federal Trade Commission.   
+2\. [WiredSafety](https://www.wiredsafety.org/)   
+3\. [Netsmartz.org](http://www.netsmartz.org/Parents)   
+4\. [The Child Safety Network](http://csn.org/)   
+5\. [Control Kids](http://www.controlkids.com/)   
+6\. [Cyber Sitter](http://www.solidoak.com/)   
+7\. [Net Nanny](http://www.netnanny.com/)
+
+**
+
 **Consent to Collection and Processing in the United States**
 
-**By using the Site, you consent to having your personal data transferred to and processed in the United States.**
+By using the Site, you consent to having your personal data transferred to and processed in the United States. The information You enter on or through a BESTVENDOR Site or otherwise provide to BESTVENDOR may be transferred outside of the European Union to the United States of America, which does not offer an equivalent level of protection to that required in the European Union. In particular, You are advised that the United States of America uses a sectoral model of privacy protection that relies on a mix of legislation, governmental regulation, and self-regulation. Article 26 of the European Union's Data Protection Directive (Directive 95/46/EC, 1995 O.J. (L 281) 31) allows for transfer of personal data from the European Union to a third country if the individual has unambiguously given his consent to the transfer of personal information, regardless of the third country's level of protection. By agreeing to the terms of use and this privacy policy, You consent to the transfer of all such information to the United States of America, which may not offer an equivalent level of protection to that required in the European Union and to the processing of that information by BESTVENDOR on its servers located in the United States of America as described in this Privacy Policy. 
 
 **Enforcement**
 
 We regularly review our compliance with this Privacy Policy. Please let us know of any questions or concerns you have regarding this Privacy Policy by contacting our privacy team at the address and email set forth above. When we receive formal written complaints, it is our policy to contact that complaining user regarding his/her concerns. We will cooperate with the appropriate regulatory authorities to resolve any complaints regarding the transfer of personal data that cannot be resolved between the Company and an individual.
 
-Please also see our [Terms and Conditions](https://web.archive.org/terms).
+Please also see our [Terms & Conditions](https://web.archive.org/terms).
 
-This Privacy Policy was last updated on November 10, 2011.
+This Privacy Policy was last updated on October 1, 2013.
