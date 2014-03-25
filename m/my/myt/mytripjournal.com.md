@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytripjournal.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115230506id_/http%3A//www.mytripjournal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytripjournal.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325154119id_/http%3A//www.mytripjournal.com/privacy) for the most accurate reproduction.*
 
 # MyTripJournal - Privacy Policy
 
@@ -40,13 +40,16 @@
   * MyTripJournal monitors traffic patterns and site usage both to our site and to Personal Travel Websites to help us develop the design and layout of the MyTripJournal System, and to provide our users with information relating to access to their Personal Travel Websites (tm).
   
 
-  * MyTripJournal may share the information which it collects from you with certain of its affiliates, and affiliates related to such affiliates, whose brands are associated from time to time with MyTripJournal products and/or services which we provide to you ("Custom-Branded Affiliates). All Custom-Branded Affiliates with whom we share your information are required to conform with the terms of this Privacy Policy in the same manner as does MyTripJournal. 
+  * MyTripJournal may share the information which it collects from you with certain of its affiliates, and affiliates related to such affiliates, whose brands are associated from time to time with MyTripJournal products and/or services which we provide to you ("White-Label Affiliates). MyTripJournal may also share the information which it collects from you with Subsequent Service Providers as hereinafter defined for purposes relating to the MyTripJournal service or other collection of online features as operated by MyTripJournal or its respective White-Label Affiliates and/or Subsequent Service Providers. 
 
   
 **Use of Information and Your Privacy**  
 
 
   * MyTripJournal uses information for the following general purposes: to fulfill your requests for products and services, improve our services, contact you, conduct research, and provide information on our products and services or promotional activities.
+  
+
+  * MyTripJournal, through the MyTripJournal System, currently provides users with rights ("Rights") to access a collection of on-line features as set out herein (the "Service"). Unless explicitly stated otherwise, any new features that augment or enhance the current Service, including the release of new MyTripJournal resources, shall be subject to these terms of service. The Service shall also consist of and include any other collection of on-line features, whether residing on the MyTripJournal.com domain or otherwise and whether similar to the set of features on the MyTripJournal.com domain or not, onto which the Service may be subsequently transitioned, continued and/or exported by MyTripJournal and whether owned by MyTripJournal or by any other persons, individuals, corporations, partnerships, trusts or other entities (each being a "Subsequent Service Provider").
   
 
   * We limit access to personal information about you to persons within or related to MyTripJournal who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. All such persons are subject to the same requirements of confidentiality and security as is MyTripJournal.
@@ -103,7 +106,7 @@
  **Surveys and Contests**  
 
 
-  * At times MyTripJournal may request information from users through surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), demographic information (such as country of abode, age level), and opinions. Contact information will be used to notify the winners and award prizes. If consent is sought and granted, MyTripJournal may publish names of contest winners and their cities or towns of residence to ensure transparency in the contest process and for promotional purposes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of our products and services.
+  * At times MyTripJournal, its White-Label Affiliates or Subsequent Service Providers, may request information from users through surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), demographic information (such as country of abode, age level), and opinions. Contact information will be used to notify the winners and award prizes. If consent is sought and granted, MyTripJournal may publish names of contest winners and their cities or towns of residence to ensure transparency in the contest process and for promotional purposes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of our products and services.
 
   
  **Changes to this Privacy Policy**  
