@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nerve.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112002802id_/http%3A//www.nerve.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerve.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325185225id_/http%3A//www.nerve.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nerve.com
 
