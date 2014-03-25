@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allpropertymanagement.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817232640id_/http%3A//www.allpropertymanagement.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allpropertymanagement.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325083124id_/http%3A//www.allpropertymanagement.com/terms) for the most accurate reproduction.*
 
 # AllPropertyManagement.com - Rental and Association Management Companies
 
@@ -6,7 +6,7 @@
 
 * * *
 
-Seamus Co., LLC d/b/a All Property Management, Inc. ("All Property Management", "company", "we", "us", "our") is committed to protecting our user's ("visitor", "user", "you", "your") privacy. We want you to know what information is collected when you visit our website, how we use that information, and how you can update it. All Property Management reserves the right to append or otherwise modify this privacy statement at any time in our sole discretion, so please re-visit this page occasionally to check for updates.
+Seamus Co., LLC d/b/a All Property Management ("All Property Management", "company", "we", "us", "our") is committed to protecting our user's ("visitor", "user", "you", "your") privacy. We want you to know what information is collected when you visit our website, how we use that information, and how you can update it. All Property Management reserves the right to append or otherwise modify this privacy statement at any time in our sole discretion, so please re-visit this page occasionally to check for updates.
 
 ### Information We Collect
 
