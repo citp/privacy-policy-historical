@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pasepremium.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024043116id_/http%3A//www.pasepremium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pasepremium.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325111641id_/http%3A//www.pasepremium.com/privacy) for the most accurate reproduction.*
 
 # Pase Premium
 
