@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the countrycallingcodes.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205213326id_/http%3A//www.countrycallingcodes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countrycallingcodes.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325232946id_/http%3A//www.countrycallingcodes.com/privacy.php) for the most accurate reproduction.*
 
-# International Country Calling Codes and World TimeZones
+# Country Calling Codes Privacy Policy
 
 **CountryCallingCodes.com Privacy Policy**
 
