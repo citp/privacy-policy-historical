@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the czaqcs.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220155250id_/http%3A//czaqcs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the czaqcs.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325032932id_/http%3A//czaqcs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bookmark
 
