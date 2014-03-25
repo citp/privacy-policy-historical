@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfreekidscrafts.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101132534id_/http%3A//www.allfreekidscrafts.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreekidscrafts.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325070242id_/http%3A//www.allfreekidscrafts.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllFreeKidsCrafts.com
 
