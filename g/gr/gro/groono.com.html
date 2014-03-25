@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the groono.com privacy policy that was archived on 2013-08-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130807064510id_/http%3A//www.groono.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the groono.com privacy policy that was archived on 2014-03-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140325064333id_/http%3A//www.groono.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <!--<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">--> 
@@ -95,6 +95,7 @@ if(getCookie('homeDone') == ''){
 
 
 </script>
+
 <script type="text/javascript">
 
 jQuery(document).ready(function(){
@@ -366,6 +367,241 @@ if(str != ''){
 
 </head>
 <body id="bodyPhinditt">
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="http://www.groono.com/css/rallyhero_float.css">
+<script type="text/javascript">
+$(function(){
+	
+	OpenPopup(900, 618);
+	$("#pop-up-container").click(function(){
+		//ClosePoup();
+		});
+	
+	$(window).scroll(function(){
+		return false;
+		});
+		
+	$(window).resize(function(){ResizePopUp(900, 618);});
+	
+		
+	$("#js_float_join").click(function(){
+		ClosePoup();
+		
+		$.ajax({
+		type	: "POST",
+		url: "http://www.groono.com/rallyhero_float.php",
+		dataType: 'json',
+		data	: 'act=save_donation&was_yes=YES&website=Groono.com' ,
+		success: function(data){
+			window.location.href="http://groono.com/rallyhero/";
+			},
+		  error: function (xhr, ajaxOptions, thrownError) {
+        	window.location.href="http://groono.com/rallyhero/";
+      	}
+			});
+		});
+		
+		
+		$("#js_float_cancel").click(function(){
+		ClosePoup();
+		
+		$.ajax({
+		type	: "POST",
+		url: "http://www.groono.com/rallyhero_float.php",
+		dataType: 'json',
+		data	: 'act=save_donation&was_yes=NO&website=Groono.com',
+		success: function(data){
+			
+			
+		
+
+		//	var win=window.open('http://groono.com/rallyhero/', '_blank');
+//  win.focus();
+  
+			//window.location.href="http://groono.com/rallyhero/";
+				//window.open("", '_blank');
+			},
+			 error: function (xhr, ajaxOptions, thrownError) {
+        //window.location.href="http://groono.com/rallyhero/";
+      	}
+			});
+		});
+		
+		
+});
+	
+	
+	function ResizePopUp(width, height){
+		
+		$("#pop-up").css("width", width);
+		$("#pop-up").css("height", height);
+		
+		var width2 = window.innerWidth || document.documentElement.clientWidth;
+		var height2 = window.innerHeight || document.documentElement.clientHeight;
+		
+		$("#pop-up-container").width(width2);
+		$("#pop-up-container").height(height2);
+	
+		
+		$("#pop-up").css("top", (height2 - parseFloat(height))/2);
+		$("#pop-up").css("left", (width2 - parseFloat(width))/2);
+		//$("#pop-up").css("top", 20);
+		
+		}
+
+function OpenPopup(width, height)
+{
+	
+	ResizePopUp(width, height);
+	$("#pop-up-container").show();
+	$("#pop-up").show();
+	lockScroll();
+		
+}
+
+
+function ClosePoup(){
+	$("#pop-up-container").hide();
+	$("#pop-up").hide();
+	unlockScroll();
+		
+}
+
+
+
+function lockScroll(){
+    $html = $('html'); 
+    $body = $('body'); 
+    var initWidth = $body.outerWidth();
+    var initHeight = $body.outerHeight();
+
+    var scrollPosition = [
+        self.pageXOffset || document.documentElement.scrollLeft || document.body.scrollLeft,
+        self.pageYOffset || document.documentElement.scrollTop  || document.body.scrollTop
+    ];
+    $html.data('scroll-position', scrollPosition);
+   // $html.data('previous-overflow', $html.css('overflow'));
+    $html.css('overflow', 'hidden');
+    window.scrollTo(scrollPosition[0], scrollPosition[1]);   
+
+    var marginR = $body.outerWidth()-initWidth;
+    var marginB = $body.outerHeight()-initHeight; 
+    $body.css({'margin-right': marginR,'margin-bottom': marginB});
+} 
+
+function unlockScroll(){
+    $html = $('html');
+    $body = $('body');
+    $html.css('overflow', 'auto');
+    var scrollPosition = $html.data('scroll-position');
+    window.scrollTo(scrollPosition[0], scrollPosition[1]);    
+    $body.css({'margin-right': 0, 'margin-bottom': 0});
+}
+
+</script>
+
+<div id="pop-up-container">
+
+</div>
+<div id="pop-up">
+
+<div id="rallyhero_foat_logo"></div>
+<div id="rallyhero_float_head">
+Introducing Rallyhero
+</div>
+
+<div id="rallyhero_float_subhead">
+Create an Online Fundraiser for just about anything!
+</div>
+
+<div id="rallyhero_float_headtext">
+RallyHero is an online fundraising and crowdfunding site where you can create fundraisers for any cause and begin receiving donations instantly. You can raise money for music, business, tragedy, sports, personal needs, vacations, medical bills, tuition, and more. You can also donate to inspiring fundraisers.
+</div>
+
+<div style="height:27px;">
+</div>
+<div class="rallyhero_float_icon" id="rallyhero_float_create" style="">
+</div>
+
+<div class="rallyhero_float_icon_right">
+<div class="rallyhero_float_icon_head">
+Raise Money
+</div>
+
+<div class="rallyhero_float_icon_text">
+Starting a fundraiser only takes about 5 minutes. 
+</div>
+</div>
+
+<div style="height:20px;clear:both">
+</div>
+
+
+<div class="rallyhero_float_icon" id="rallyhero_float_donate" style="">
+</div>
+
+<div class="rallyhero_float_icon_right">
+<div class="rallyhero_float_icon_head">
+Donate
+</div>
+
+<div class="rallyhero_float_icon_text">
+Receive your donations instantly, also make quick and easy donations.
+</div>
+</div>
+
+
+<div style="height:20px;clear:both">
+</div>
+
+
+<div class="rallyhero_float_icon" id="rallyhero_float_share" style="">
+</div>
+
+<div class="rallyhero_float_icon_right">
+<div class="rallyhero_float_icon_head">
+Spread The Word
+</div>
+
+<div class="rallyhero_float_icon_text">
+If your inspired, get out and spread the word.
+</div>
+</div>
+
+<div style="height:33px;clear:both">
+</div>
+
+<div class="rallyhero_float_buttons" id="js_float_join" style="margin-left:73px; ">
+Learn More
+</div>
+
+<div id="rallyhero_float_round_gray">
+or
+</div>
+<a href="http://groono.com/rallyhero/" target="_blank">
+<div id="js_float_cancel" class="rallyhero_float_buttons" style="margin-left:19px; ">
+Not Interested
+</div>
+</a>
+
+
+	
+    
+  </div>
+
+
+
+
+
+
+
 
 
 
@@ -641,7 +877,6 @@ google_ad_height = 100;
 
 
 <div class="header">
-
 <div class="sharTabscls">
 
 <div class="left">
@@ -683,7 +918,6 @@ google_ad_height = 100;
 
 
 
-
 <div class="headerTop">
 
 <div class="logo left"><a href="http://www.groono.com/"><img src="http://www.groono.com/images/logo_btn_dk45.png"></a></div>
@@ -720,7 +954,7 @@ Worldwide
 </ul>
 
  
-<div class="left adTabLink"><a href="http://www.groono.com/skipnote/">Skipnote</a></div>
+<div class="left adTabLink"><a href="http://groono.com/rallyhero">RallyHero</a></div>
  
 
 
@@ -750,7 +984,7 @@ Worldwide
 <form action="http://www.groono.com/sayjoe/sayjoesearchresultsadvertisementsponsored.php" method="get" name="frmTopSearch" id="frmTopSearch" onsubmit="return fnTopSearchform(document.frmTopSearch)">
 <input type="hidden" name="src" value="header">
 <input type="hidden" name="filter" value="all">
-<input type="hidden" name="searNum" value="8">
+<input type="hidden" name="searNum" value="3">
 
 <div class="left inline"><img src="http://www.groono.com/images/bdr_cls_s585_l.png"></div>
 
@@ -775,6 +1009,7 @@ Worldwide
 
 
 <div class="clr"></div></div>
+
 
 
 <div class="mainNav">
@@ -821,7 +1056,7 @@ Worldwide
 
 <li><a href="http://www.groono.com/tell_friend.php">Tell A Friend</a></li>
 
-<li><a href="" "="">Cropapic</a></li>
+<li><a href="http://groono.com/rallyhero">RallyHero</a></li>
 
 <li><a href="http://www.groono.com/clsmyaccount.php">My Account</a></li>
 
@@ -843,9 +1078,7 @@ Worldwide
 
 <div class="content">
 
-<div class="leftFeaBoxHold" id="leftFeaBoxHold">
-<iframe allowtransparency="true" id="leftFramePhinditt" src="http://www.groono.com/leftfeaFrame.php" scrolling="no" width="160" height="568" frameborder="0"></iframe>
-</div>
+
 <div class="hed5r5">Privacy policy</div>
 
 
@@ -1007,7 +1240,7 @@ google_ad_height = 90;
    
 <div class="first_ul">
 <div class="left">
-        <div class="li_foo_link m5r" style="color: #989898;">© 2013 Groono</div>
+        <div class="li_foo_link m5r" style="color: #989898;">© 2014 Groono</div>
         <div class="li_foo_link" style="color: #989898;">•</div>
         <div class="li_foo_link"><a href="http://www.groono.com/">Free Classifieds</a></div>
         <div class="li_foo_link">•</div>
@@ -1072,6 +1305,16 @@ google_ad_height = 90;
         <div class="li_foo_link"><a href="http://www.groono.com/donate.php">Donate</a></div>
          <div class="li_foo_link">•</div>
         <div class="li_foo_link"><a href="http://www.groono.com/cropapic/">Cropapic</a></div>
+        
+        
+          <div class="li_foo_link">•</div>
+        <div class="li_foo_link"><a href="http://groono.com/rallyhero/">RallyHero<span style="color:#FF0000;font-size:10px;">&nbsp;New</span></a></div>
+        
+        <div class="li_foo_link">•</div>
+        <div class="li_foo_link"><a href="http://groono.com/rallyhero/">Online Fundraising</a></div>
+        
+        <div class="li_foo_link">•</div>
+        <div class="li_foo_link"><a href="http://groono.com/rallyhero/">Crowdfunding</a></div>
 
 
         <div class="clr_only"></div>
