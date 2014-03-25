@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fohrcard.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120225213id_/http%3A//www.fohrcard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fohrcard.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325071509id_/http%3A//www.fohrcard.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Fohr Card
+
+This Privacy Policy governs your use of this website, "http://www.fohrcard.com", (the “Site”, “we” or “us”).
 
 ## Disclosures Made as Necessitated by Law or Safety
 
