@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the forex.com privacy policy that was archived on 2013-08-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130809032739id_/http%3A//www.forex.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the forex.com privacy policy that was archived on 2014-03-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140325033825id_/http%3A//www.forex.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="no-js" lang="en"><!--<![endif]--><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -71,7 +71,6 @@
 		window.addEvent('domready', imageZoom.init);
 	</script>
 
-
 	
 	        <script type="text/javascript">
 
@@ -87,7 +86,8 @@
     ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-
+  
+  _gaq.push(['_trackEvent', 'Optimizely_data', 'event', '', undefined, true]);     	
 </script>
 <script type="text/javascript">
 	if (typeof(lpUnit)=='undefined')	var lpUnit='acquire-us';
@@ -127,6 +127,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 <script type="text/javascript">
 function fireTrackingEvent(obj){dataLayer.push(obj);}
+</script>
+<script>
+(function(){
+	function getCookie(e){var t=e+"=";var n=document.cookie.split(";");for(var r=0;r<n.length;r++){var i=n[r].trim();if(i.indexOf(t)==0)return i.substring(t.length,i.length)}return null}
+	function qs(e){e=e.replace(/[\[]/,"\\[").replace(/[\]]/,"\\]");var t=new RegExp("[\\?&]"+e+"=([^&#]*)"),n=t.exec(location.search);return n==null?"":decodeURIComponent(n[1].replace(/\+/g," "))}
+	if(getCookie("GFTWelcome")==null && qs("gft")=="1"){
+		document.writeln('<div id="GFTConfig"><!--usenglish--></div>');
+		document.writeln('<script src="//www.forex.com/GFTWelcome/gftwelcome.js?v=' + Math.random() + '"></' + 'script>');
+	}
+	else if(getCookie("360Welcome")==null && qs("gft")=="2"){
+		document.writeln('<div id="GFTConfig"><!--usenglish--></div>');
+		document.writeln('<script src="//www.forex.com/GFTWelcome/360welcome.js?v=' + Math.random() + '"></' + 'script>');
+	}
+})();
 </script> 	
 	
 	<img src="/resources/images/common/blank.gif" id="ZoomImage">
@@ -175,7 +189,7 @@ function fireTrackingEvent(obj){dataLayer.push(obj);}
 	</div>
 
 	<form name="aspnetForm" method="post" action="/Default.aspx?DN=4241dc0b-4ed8-455c-8f9f-38a8eaf3768b&amp;l=English" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTk5MDUwNjE0OWQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgMFJGN0bDAwJE5ld3NMZXR0ZXJTaWduVXAxJGNoa05ld1VwZGF0ZQU8Y3RsMDAkVXRpbGl0eU5hdkJhc2UkTG9naW5WaWV3MSRTZWFyY2gxJGhlYWRlcl9zZWFyY2hfYnV0dG9uBUFjdGwwMCRDb250ZW50QXJlYVBsYWNlSG9sZGVyJE1ldGFUcmFkZXJSZWdpc3RyYXRpb24kc3VibWl0X2J1dHRvbg==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUINzUwOTQ4MzJkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBSRjdGwwMCROZXdzTGV0dGVyU2lnblVwMSRjaGtOZXdVcGRhdGUFPGN0bDAwJFV0aWxpdHlOYXZCYXNlJExvZ2luVmlldzEkU2VhcmNoMSRoZWFkZXJfc2VhcmNoX2J1dHRvbg==">
 			    
 		
 		
@@ -206,12 +220,12 @@ function fireTrackingEvent(obj){dataLayer.push(obj);}
         <tr>
             <td>
                 <div id="ea_hosting_confirm" style="display: none;">
-                    <h1>Thank you</h1><br>Your request has been successfuly submited.
+                    <span id="eatitle" style="font-size: 22px; font-weight: bold">Thank you</span><br>Your request has been successfuly submited.
                     <br>
                 </div>
                 <div id="divError" style="display: none"></div>
                 <div id="ea_hosting_signup">
-                    <h1>Expert Advisor Hosting Request</h1>
+                    <span id="Span1" style="font-size: 22px; font-weight: bold">Expert Advisor Hosting Request</span>
                     <p>Please provide the following information:<br><em>(All Fields Required)</em></p>
                     <p>
                         <label for="email_id">
@@ -412,7 +426,7 @@ function fireTrackingEvent(obj){dataLayer.push(obj);}
             //setEntityPlatform('META');
             $('inUserIDMaster').value = Ext.get('inUserID').dom.value;
             $('inPasswordMaster').value = Ext.get('inPassword').dom.value;
-            $('txtMetaFormLanguageName').value = 'ENG';
+            $('txtMetaFormLanguageName').value = '';
             $('txtMetaBrandCodeName').value = 'MQUS'
                                     
             $('frmLoginFromMetaSite').submit();
@@ -502,6 +516,888 @@ To provide the fastest access to the trading platforms, we have made signing in 
 </table>
 <div id="ZoomFadeTransaction" class="ZoomFade" style="display: none;"></div><iframe frameborder="0" id="ZoomShimTransaction" class="ZoomShim" style="display: none;"></iframe>
 		
+<script src="/resources/js/bgt-tracking.js" type="text/javascript"></script>
+
+<table cellspacing="0" cellpadding="0" border="0" id="ZoomShadowPartnerDemo">
+    <tbody>
+        <tr>
+            <td class="topLeft">
+            </td>
+            <td class="top">
+            </td>
+            <td class="topRight">
+            </td>
+        </tr>
+        <tr>
+            <td class="left" rowspan="2">
+            </td>
+            <td class="close_row">
+                <a class="close_link" href="javascript: popLayer.hide();">Close
+                    <img alt="x" src="/resources/images/buttons/btn_close_x_zoom_image_off.gif"></a>
+            </td>
+            <td class="right" rowspan="2">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div id="partner_demo_form">
+                <div id="account_form">
+                    <div class="account_form">
+                        <div class="float_wrapper">
+                            <div class="header">
+                                 <h1>Tradable Practice Account Sign Up</h1>
+                                 <h3>Open a risk-free practice account to explore Tradable’s reimagined trading experience. </h3>
+                            </div>
+                            <div id="pnlPartnerProcess" style="display: none">
+                                <img src="/resources/images/icons/icn_loading_spinner.gif" alt="Please Wait ...">
+                                <h3>
+                                    Please wait ...</h3>
+                            </div>
+                            <span id="lblError" style="display: none; color: Red; font-weight: bold;">
+                                There appears to be a problem with the sign-up process. Please try again later or <a id="edit_quick_pairs_link_view_all" class="small view_all" href="support.html">contact us</a>.<br>
+                                <br>
+                            </span>
+                            <div id="partner_account_form_errors" style="display: none">
+                                <p>We could not create your account because there are some errors in the form.</p><p>Please correct these errors to continue.</p>
+                            </div>
+                            <input type="hidden" id="elqcookiewrote">
+                            <input type="hidden" id="elqCustomerGUID" name="elqCustomerGUID">
+                            <input type="hidden" id="hdnPartnerStateName" name="hdnPartnerStateName">
+                            <input type="hidden" id="hdnPrivacyOption" value="True" name="hdnPrivacyOption">
+                            <input type="hidden" id="sfGoogleGUID" name="sfGoogleGUID">
+                            <div id="partner_account_form_fields">
+                                <p>
+                                    <label for="account_register_form_first">
+                                        <font color="red">*</font>First Name:
+                                    </label>
+                                    <input name="ctl00$ParterDemoControl$txtFirstName" type="text" maxlength="50" id="ctl00_ParterDemoControl_txtFirstName" onclick="clickTrack();" style="width:200px;">
+                                    <br>
+                                    
+                                    
+                                    
+                                </p>
+                                <p>
+                                    <label for="account_register_form_last">
+                                        <font color="red">*</font>Last Name:
+                                    </label>
+                                    <input name="ctl00$ParterDemoControl$txtLastName" type="text" maxlength="50" id="ctl00_ParterDemoControl_txtLastName" onclick="clickTrack();" style="width:200px;">
+                                    
+                                    
+                                    
+                                </p>
+                                <p>
+                                    <label for="account_register_form_country">
+                                        <font color="red">*</font>Country:
+                                    </label>
+                                    <select name="ctl00$ParterDemoControl$country_field" id="ctl00_ParterDemoControl_country_field" style="width:200px;" onclick="clickTrack();" onchange="onPartnerChangeCountry(true);">
+	<option value="">Select One</option>
+	<option value="US">United States</option>
+	<option value="AL">Albania</option>
+	<option value="DZ">Algeria</option>
+	<option value="AD">Andorra</option>
+	<option value="AN">Antilles Netherland</option>
+	<option value="AG">Antiqua (WI)</option>
+	<option value="AR">Argentina</option>
+	<option value="AM">Armenia</option>
+	<option value="AW">Aruba</option>
+	<option value="AU">Australia</option>
+	<option value="AT">Austria</option>
+	<option value="AZ">Azerbaijan</option>
+	<option value="BS">Bahamas</option>
+	<option value="BH">Bahrain</option>
+	<option value="BD">Bangladesh</option>
+	<option value="BB">Barbados</option>
+	<option value="BY">Belarus</option>
+	<option value="BE">Belgium</option>
+	<option value="BZ">Belize</option>
+	<option value="BJ">Benin</option>
+	<option value="BM">Bermuda</option>
+	<option value="BT">Bhutan</option>
+	<option value="BO">Bolivia</option>
+	<option value="BA">Bosnia-Herzegovina</option>
+	<option value="BW">Botswana</option>
+	<option value="BR">Brazil</option>
+	<option value="VG">British Virgin</option>
+	<option value="BN">Brunei Darussalam</option>
+	<option value="BG">Bulgaria</option>
+	<option value="BF">Burkina Faso</option>
+	<option value="KH">Cambodia</option>
+	<option value="CM">Cameroon</option>
+	<option value="CA">Canada</option>
+	<option value="IC">Canary Islands</option>
+	<option value="KY">Cayman Islands</option>
+	<option value="CF">Central African</option>
+	<option value="TD">Chad</option>
+	<option value="CL">Chile</option>
+	<option value="CN">China</option>
+	<option value="TW">Chinese Taipei</option>
+	<option value="CO">Colombia</option>
+	<option value="CK">Cook Islands</option>
+	<option value="CR">Costa Rica</option>
+	<option value="HR">Croatia</option>
+	<option value="CY">Cyprus</option>
+	<option value="CZ">Czech Republic</option>
+	<option value="DK">Denmark</option>
+	<option value="DJ">Djibouti</option>
+	<option value="DM">Dominica</option>
+	<option value="DO">Dominican Republic</option>
+	<option value="TP">East Timor</option>
+	<option value="EC">Ecuador</option>
+	<option value="EG">Egypt</option>
+	<option value="SV">El Salvador</option>
+	<option value="GQ">Equatorial Guinea</option>
+	<option value="EE">Estonia</option>
+	<option value="ET">Ethiopia</option>
+	<option value="FO">Faroe Islands</option>
+	<option value="FJ">Fiji Islands</option>
+	<option value="FI">Finland</option>
+	<option value="FR">France</option>
+	<option value="GF">French Guiana</option>
+	<option value="GA">Gabon Republic</option>
+	<option value="GM">Gambia</option>
+	<option value="GE">Georgia</option>
+	<option value="DE">Germany</option>
+	<option value="GH">Ghana</option>
+	<option value="GI">Gibraltar</option>
+	<option value="GR">Greece</option>
+	<option value="GL">Greenland</option>
+	<option value="GD">Grenada</option>
+	<option value="GP">Guadeloupe</option>
+	<option value="GT">Guatemala</option>
+	<option value="GN">Guinea</option>
+	<option value="GY">Guyana</option>
+	<option value="HT">Haiti</option>
+	<option value="HN">Honduras</option>
+	<option value="HK">Hong Kong</option>
+	<option value="HU">Hungary</option>
+	<option value="IS">Iceland</option>
+	<option value="IN">India</option>
+	<option value="ID">Indonesia</option>
+	<option value="IE">Ireland</option>
+	<option value="IL">Israel</option>
+	<option value="IT">Italy</option>
+	<option value="JM">Jamaica</option>
+	<option value="JP">Japan</option>
+	<option value="JO">Jordan</option>
+	<option value="KZ">Kazakhstan</option>
+	<option value="KE">Kenya</option>
+	<option value="KW">Kuwait</option>
+	<option value="KG">Kyrghyzstan</option>
+	<option value="LA">Laos</option>
+	<option value="LV">Latvia</option>
+	<option value="LB">Lebanon</option>
+	<option value="LS">Lesotho</option>
+	<option value="LR">Liberia</option>
+	<option value="LI">Liechtenstein</option>
+	<option value="LT">Lithuania</option>
+	<option value="LU">Luxembourg</option>
+	<option value="MO">Macau</option>
+	<option value="MK">Macedonia</option>
+	<option value="MG">Madagascar</option>
+	<option value="MW">Malawi</option>
+	<option value="MY">Malaysia</option>
+	<option value="MV">Maldives</option>
+	<option value="ML">Mali</option>
+	<option value="MT">Malta</option>
+	<option value="MH">Marshall Islands</option>
+	<option value="MQ">Martinique</option>
+	<option value="MR">Mauritania</option>
+	<option value="MU">Mauritius</option>
+	<option value="MX">Mexico</option>
+	<option value="MD">Moldova</option>
+	<option value="MC">Monaco</option>
+	<option value="MN">Mongolia</option>
+	<option value="ME">Montenegro</option>
+	<option value="MA">Morocco</option>
+	<option value="MZ">Mozambique</option>
+	<option value="NA">Namibia</option>
+	<option value="NR">Nauru</option>
+	<option value="NP">Nepal</option>
+	<option value="NL">Netherlands</option>
+	<option value="NC">New Caledonia</option>
+	<option value="NZ">New Zealand</option>
+	<option value="NI">Nicaragua</option>
+	<option value="NE">Niger</option>
+	<option value="NO">Norway</option>
+	<option value="OM">Oman</option>
+	<option value="PK">Pakistan</option>
+	<option value="PA">Panama</option>
+	<option value="PG">Papua New Guinea</option>
+	<option value="PY">Paraguay</option>
+	<option value="PE">Peru</option>
+	<option value="PH">Philippines</option>
+	<option value="PL">Poland</option>
+	<option value="PT">Portugal</option>
+	<option value="QA">Qatar</option>
+	<option value="RE">Reunion Is.</option>
+	<option value="RO">Romania</option>
+	<option value="RU">Russia</option>
+	<option value="RW">Rwanda</option>
+	<option value="WS">Samoa (Western)</option>
+	<option value="SM">San Marino</option>
+	<option value="SA">Saudi Arabia</option>
+	<option value="SN">Senegal</option>
+	<option value="RS">Serbia</option>
+	<option value="SC">Seychelles Republic</option>
+	<option value="SL">Sierra Leone</option>
+	<option value="SG">Singapore</option>
+	<option value="SK">Slovak Republic</option>
+	<option value="SI">Slovenia</option>
+	<option value="SB">Solomon Islands</option>
+	<option value="ZA">South Africa</option>
+	<option value="KR">South Korea</option>
+	<option value="ES">Spain</option>
+	<option value="LK">Sri Lanka</option>
+	<option value="KN">St. Kitts</option>
+	<option value="LC">St. Lucia</option>
+	<option value="PM">St. Pierre</option>
+	<option value="VC">St. Vincent</option>
+	<option value="SR">Surinam</option>
+	<option value="SZ">Swaziland</option>
+	<option value="SE">Sweden</option>
+	<option value="CH">Switzerland</option>
+	<option value="TJ">Tadjikistan</option>
+	<option value="PF">Tahiti</option>
+	<option value="TZ">Tanzania</option>
+	<option value="TH">Thailand</option>
+	<option value="TG">Togo</option>
+	<option value="TO">Tonga</option>
+	<option value="TT">Trinidad</option>
+	<option value="TN">Tunisia</option>
+	<option value="TR">Turkey</option>
+	<option value="TM">Turkmenistan</option>
+	<option value="UG">Uganda</option>
+	<option value="UA">Ukraine</option>
+	<option value="AE">United Arab Emirates</option>
+	<option value="GB">United Kingdom</option>
+	<option value="US">United States</option>
+	<option value="UY">Uruguay</option>
+	<option value="UZ">Uzbekistan</option>
+	<option value="VU">Vanuatu</option>
+	<option value="VA">Vatican City</option>
+	<option value="VE">Venezuela</option>
+	<option value="VN">Vietnam</option>
+	<option value="YE">Yemen</option>
+	<option value="CD">Zaire</option>
+	<option value="ZM">Zambia</option>
+</select>
+                                    <input type="hidden" id="hdnPartnerCountry_field" name="hdnPartnerCountry_field">
+                                    
+                                </p>
+                                <span id="PartnerStateHolder" style="display: none">
+                                    <label for="account_register_form_city" id="Label1">
+                                        <font color="red">*</font>State:
+                                    </label>
+                                    <input name="ctl00$ParterDemoControl$state" type="text" id="ctl00_ParterDemoControl_state" onclick="clickTrack();" style="width:200px;display: none">
+                                    <input name="ctl00$ParterDemoControl$state_input_field" type="text" id="ctl00_ParterDemoControl_state_input_field" style="width:200px;display: none;" onblur="assignPartnerInputValue()">
+                                    <select name="ctl00$ParterDemoControl$state_select_field" id="ctl00_ParterDemoControl_state_select_field" style="width:200px;" onchange="assignPartnerSelectValue(this.value)">
+</select>
+                                    <input type="hidden" id="hdnPartnerState_field" name="hdnPartnerState_field">
+                                    <br>
+                                    <br>
+                                </span>
+                                <span id="PartnerCityHolder">
+                                    <label for="account_register_form_city">
+                                        <font color="red">*</font>City:
+                                    </label>
+                                    <input name="ctl00$ParterDemoControl$txtCity" type="text" maxlength="50" id="ctl00_ParterDemoControl_txtCity" onclick="clickTrack();" style="width:200px;">
+                                    <br>
+                                    <br>
+                                </span>
+                                <p>
+                                    <label for="account_register_form_phone">
+                                        <font color="red">*</font>Phone:
+                                    </label>
+                                    <span class="demo_phone_dir_parent"><span class="demo_phone_dir">
+                                        <input name="ctl00$ParterDemoControl$txtPhoneNumber" type="text" id="ctl00_ParterDemoControl_txtPhoneNumber" style="display: none">
+                                        <span id="PartnerNAPhone" style="display: none;">(<input type="text" id="PartnerAreaCode" value="" maxlength="3" onblur="fillPartnerNAPhone()" onclick="clickTrack();" onkeypress="return numbersFilter(event)" onkeyup="return numbersFilter(event, Ext.get('PartnerExchange').dom)" style="width: 35px;margin-right: 0px">)
+                                            <input type="text" id="PartnerExchange" value="" maxlength="3" onblur="fillPartnerNAPhone()" onclick="clickTrack();" onkeypress="return numbersFilter(event)" onkeyup="return numbersFilter(event, Ext.get('PartnerSuffix').dom)" style="width: 35px;margin-right: 3px">-
+                                            <input type="text" id="PartnerSuffix" value="" maxlength="4" onblur="fillPartnerNAPhone()" onclick="clickTrack();" onkeypress="return numbersFilter(event)" onkeyup="return numbersFilter(event, Ext.get('ctl00_ParterDemoControl_txtEmail').dom)" style="width: 80px;">
+                                        </span></span></span><span class="demo_phone_dir_parent" id="PartnerOtherPhone" style="display: inline-block;">
+                                            <span class="demo_phone_dir"><span id="country_code_control">
+                                                <span id="ctl00_ParterDemoControl_countrycodelabel" style="display:inline-block;background-color: #ecf0f3;
+                                                    border-color: #cbd3d9; padding: 2px; margin-right: 1px; border-style: solid;
+                                                    border-width: 1px; font-weight: normal; font-size: 12px;">&nbsp;</span>
+                                                <input type="text" id="PartnerCountryCode" value="" disabled="disabled" style="display: none;
+                                                    background-color: #cccccc; color: Black; width: 35px; margin-right: 1px" maxlength="5" onblur="fillPartnerOtherPhone()">
+                                            </span><span id="phone_number_separator">-</span> <span id="phone_number_control">
+                                                <input type="text" id="PartnerPhoneNumber" value="" maxlength="25" onblur="fillPartnerOtherPhone()" onkeypress="return numbersFilter(event)" onclick="clickTrack();" onkeyup="return numbersFilter(event, Ext.get('ctl00_ParterDemoControl_txtEmail').dom)" style="width: 150px;">
+                                            </span></span></span>
+                                    <br>
+                                    
+                                    
+                                </p>
+                                <p>
+                                    <label for="account_register_form_email">
+                                        <font color="red">*</font>Email:
+                                    </label>
+                                    <span id="email_control">
+                                        <input name="ctl00$ParterDemoControl$txtEmail" type="text" maxlength="50" id="ctl00_ParterDemoControl_txtEmail" onclick="clickTrack();" style="width:200px;"></span>
+                                    
+                                    
+                                </p>
+                                
+                                <p id="demo_email_holder">
+                                    <span style="padding-top: -40px; display: block; padding-left: 133px;">
+                                        Your email address will be your User ID.<br>Your password will be emailed to you.
+                                    </span>
+                                </p>
+                                                            
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        
+                            
+                        
+                    </div>
+                    <table align="center" style="border: 0px;">
+                        <tbody>
+                            <tr>
+                                <td align="center"> 
+                                    <a href="javascript:void(0);" class="buttonMT" onclick="validatePartnerDemo()" style="width: 60px;">
+                                        <span>Submit</span>
+                                     </a>
+                                </td>
+                            </tr>
+                            <tr><td colspan="2">&nbsp;</td></tr>
+                            <tr>            
+                                <td align="center">                        
+                                    <img alt="" src="resources/images/common/arrow-mt.png"><a href="/privacy-policy.html" class="textLink FTAcc"><span>Privacy policy</span></a>
+                                </td>            
+                            </tr>
+                        </tbody>
+                    </table>                            
+                    </div>
+                </div>                
+                
+            </td>
+        </tr>        
+        <tr>
+            <td class="bottomLeft">
+            </td>
+            <td class="bottom">
+            </td>
+            <td class="bottomRight">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+    
+<script language="javascript" type="text/javascript">
+
+function validatePartnerDemo(){
+    if (typeof(Page_ClientValidate) == 'function')
+    {
+        var validationResult = Page_ClientValidate("PartnerDemo");
+        if (validationResult == true)
+        {
+            submitTrack();
+            Ext.get('partner_account_form_errors').dom.style.display = 'none';
+            CreatePartnerDemoAccount(true);
+        }
+        else
+        {
+            errorTrack();
+            Ext.get('partner_account_form_errors').dom.style.display = 'block';            
+        }
+    }
+    return false;
+}
+
+function CreatePartnerDemoAccount(request, success, data)
+{
+    var first_name;
+    var phoneAreaCode;
+    var phoneMiddle3;
+    var phoneLast4;
+    
+    if(request)
+    {
+        Ext.get('pnlPartnerProcess').setStyle('display', 'inline');
+        Ext.get('lblError').setStyle('display', 'none');
+        Ext.get('partner_account_form_fields').setStyle('display', 'none');
+        
+        var accBaseCurrency = '';
+        if(Ext.get('ctl00_ParterDemoControl_ddlAccountBaseCurrency'))
+            accBaseCurrency=Ext.get('ctl00_ParterDemoControl_ddlAccountBaseCurrency').dom.value;
+                
+        var company = "N/A";
+        var tradingProfile = Ext.get('ctl00_ParterDemoControl_tradingProfile')?Ext.get('ctl00_ParterDemoControl_tradingProfile').dom.value:'FXT';
+                                    
+                first_name = Ext.get('ctl00_ParterDemoControl_txtFirstName').dom.value;
+                phoneAreaCode = Ext.get('PartnerAreaCode').dom.value;
+                phoneMiddle3 = Ext.get('PartnerExchange').dom.value;
+                phoneLast4 = Ext.get('PartnerSuffix').dom.value;
+
+                var fieldsValues = {
+                    "languageF": "English",
+                    "cityF": trim(Ext.get('ctl00_ParterDemoControl_txtCity').dom.value),
+                    "stateF": Ext.get('hdnPartnerStateName').dom.value,
+                    "emailF": trim(Ext.get('ctl00_ParterDemoControl_txtEmail').dom.value),
+                    "fNameF": trim(first_name),
+                    "lNameF": trim(Ext.get('ctl00_ParterDemoControl_txtLastName').dom.value),
+                    "countryF": Ext.get('ctl00_ParterDemoControl_country_field').dom.options[Ext.get('ctl00_ParterDemoControl_country_field').dom.selectedIndex].text,
+                    "phoneF": trim(Ext.get('ctl00_ParterDemoControl_txtPhoneNumber').dom.value),
+                    "hearF": 'Partner-Tradable',
+                    "hearSubF": 'Partner-Tradable',
+                    "screenF": window.screen.width + 'x' + window.screen.height,
+                    "companyF": company,
+                    "areaCodeF": phoneAreaCode,
+                    "exchangeF": phoneMiddle3,
+                    "suffixF": phoneLast4,
+                    "countryCodeF": Ext.get('PartnerCountryCode').dom.value,
+                    "phoneNumberF": Ext.get('PartnerPhoneNumber').dom.value,
+                    "eloquaIdF": Ext.get('elqCustomerGUID').dom.value,
+                    "eloquaWroteF": (Ext.get('elqCustomerGUID').dom.value.length > 0) ? 1 : 0,
+                    "advIdF": (Cookie.read('adv')) ? Cookie.read('adv') : '',
+                    "qvalcookie": (Cookie.read('qval')) ? Cookie.read('qval') : '-1',
+                    "tradingProfileF": tradingProfile,
+                    "accBaseCurrency": accBaseCurrency,
+                    "bSolicit": Ext.get('hdnPrivacyOption').dom.value,
+                    "sfGoogleId": Ext.get('sfGoogleGUID').dom.value,
+                    "cIDOfferings": '8',
+                    "cIBPartnerCode": 'TRBL',
+                    "cSubIB": 'TRBL',
+                    "cSubBrandCode": 'TRBM',
+                    "cAccountSize": 'Mini',
+                    "deTradeOrderSize": '10000',
+                    "fMarginFactor": '.5',
+                    "fOpeningBalanceUSD": '10000',
+                    "fOpeningBalanceCCY": '10000',
+                    "bIsPartner": '1'
+                };
+        var aConnection = new Ext.data.Connection();
+        aConnection.request(
+        {
+            url: '/UIService.asmx/CreateDemoAccount',
+            method: "POST",
+            headers:{"Content-Type":"application/json"},
+            scope: this,
+            jsonData:{aObj:fieldsValues},
+            callback: function(options, success, response){
+                var temp = null;
+                if (success){
+                    temp = Ext.util.JSON.decode(response.responseText).d;
+                }
+                CreatePartnerDemoAccount(false, success, temp);
+            }
+         })
+    }
+    else
+    {
+        if(data==null || data=='Error' || data=='Duplicate')
+        {
+            errorTrack();
+
+            Ext.get('pnlPartnerProcess').setStyle('display', 'none');
+            Ext.get('partner_account_form_fields').setStyle('display', 'inline');
+            if (data == 'Duplicate') {
+                if ('False' == 'True') {
+                    window.location = '';
+                }
+                else {
+                    window.location = '/forex_demo_account_invalid.html';
+                }
+            }
+            else {
+                Ext.get('lblError').setStyle('display', 'inline');
+            }
+        }
+        else if(data == "Pending")
+        {
+            window.location = '/forex_demo_thanks2.html';
+        }
+        else
+        {
+            writePartnerEntity();	
+			var strDemoID = '-1';
+			var qValCookieFound = true;		
+			var oldQval = (Cookie.read('qval')) ? Cookie.read('qval'): '-1';		
+			var leadId = data.split(',')[0];
+			var xCookieId = data.split(',')[1];
+		    var demo_url = '';
+				 
+			if (oldQval == null || oldQval == 'undefined' || oldQval == '-1'){
+                qValCookieFound = false;
+				strDemoID = leadId;
+            }
+            else{
+				strDemoID = oldQval;
+            }
+                       
+            if (!qValCookieFound && 'false' == 'false'){				
+				writePartnerQval(strDemoID);
+            }
+            
+            if ('False' == 'True') {
+	                window.location = '';
+	        }
+            else if (demo_url.length > 0){
+                   window.location = ''; 
+            }
+            else
+                AutomateDemoSignUp(Ext.get('ctl00_ParterDemoControl_txtEmail').dom.value,Ext.get('ctl00_ParterDemoControl_txtFirstName').dom.value,'Y',1,leadId,'/trade.html',xCookieId);
+        }
+    }
+}
+
+function showTip(inId)
+{
+    tooltip.targetXY = Ext.get(inId).getXY();
+    tooltip.show();
+}
+
+function LoadInitialPartnerDemoDetails() {
+    if ('us' == 'ca') {
+        Ext.get('ctl00_ParterDemoControl_country_field').dom.value = "CA";
+    }
+    onPartnerChangeCountry(true);
+}
+
+function fillPartnerNAPhone() {
+    var phone = Ext.get('ctl00_ParterDemoControl_txtPhoneNumber').dom;
+    var ac = Ext.get('PartnerAreaCode').dom;
+    var m3 = Ext.get('PartnerExchange').dom;
+    var l4 = Ext.get('PartnerSuffix').dom;
+    Ext.get('PartnerCountryCode').dom.value = '1';
+    Ext.get('PartnerPhoneNumber').dom.value = '';
+
+    phone.value = ac.value + m3.value + l4.value;
+}
+
+function fillPartnerOtherPhone() {
+    Ext.get('PartnerAreaCode').dom.value = '';
+    Ext.get('PartnerExchange').dom.value = '';
+    Ext.get('PartnerSuffix').dom.value = '';
+    var phone = Ext.get('ctl00_ParterDemoControl_txtPhoneNumber').dom;
+    var cc = Ext.get('PartnerCountryCode').dom;
+    var ph = Ext.get('PartnerPhoneNumber').dom;
+
+    phone.value = cc.value + ph.value;
+}
+
+function ValidatePartnerLastName(sender, args) {
+    if (args.Value.indexOf(";") > 0 || args.Value.indexOf("'") > 0 || args.Value.indexOf("%") > 0) {
+        args.IsValid = false;
+    }
+    else {
+        args.IsValid = true;
+    }
+}
+
+function ValidatePartnerFirstName(sender, args) {
+    if (args.Value.indexOf(";") > 0 || args.Value.indexOf("'") > 0 || args.Value.indexOf("%") > 0) {
+        args.IsValid = false;
+    }
+    else {
+        args.IsValid = true;
+    }
+}
+
+function ValidatePartnerPhone(sender, args) {
+    var country = Ext.get('ctl00_ParterDemoControl_country_field').dom;
+    var ophone = Ext.get('ctl00_ParterDemoControl_txtPhoneNumber').dom;
+    var othernumber = Ext.get('PartnerPhoneNumber').dom;
+
+    args.IsValid = true;
+
+    if (country.value == 'US' || country.value == 'CA') {
+        if (isNaN(ophone.value)) {
+            args.IsValid = false;
+        }
+
+        if (ophone.value.length < 10) {
+            args.IsValid = false;
+        }
+    }
+    else {
+        if (isNaN(othernumber.value)) {
+            args.IsValid = false;
+        }
+        if (othernumber.value.length < 4) {
+            args.IsValid = false;
+        }
+    }
+}
+
+function assignPartnerInputValue() {
+    var ctlHidden = Ext.get('ctl00_ParterDemoControl_state').dom;
+    var ctlInput = Ext.get('ctl00_ParterDemoControl_state_input_field').dom;
+    if (ctlHidden != null && ctlInput != null) {
+        ctlHidden.value = "";
+        ctlHidden.value = ctlInput.value;
+        Ext.get('hdnPartnerState_field').dom.value = ctlInput.value;
+    }
+}
+
+function assignPartnerSelectValue(val) {
+    var ctlHidden = Ext.get('ctl00_ParterDemoControl_state').dom;
+    var ctlSelect = Ext.get('ctl00_ParterDemoControl_state_select_field').dom;
+
+    if (ctlHidden != null && ctlSelect != null) {
+        ctlHidden.value = "";
+        ctlHidden.value = val;
+        Ext.get('hdnPartnerState_field').dom.value = val;
+    }
+
+    for (var i = 0; i < ctlSelect.options.length; i++) {
+        var opt = ctlSelect.options[i];
+        if (opt.value.toUpperCase() == val.toUpperCase()) {
+            state = opt.innerHTML;
+            break;
+        }
+    }
+    if ('us' == 'us' || 'us' == 'ca') {
+        Ext.get('hdnPartnerStateName').dom.value = state;
+    }
+    else {
+        Ext.get('hdnPartnerStateName').dom.value = val;
+    }
+}
+
+function trim(str) {
+    if (str.length > 0) {
+        str = str.replace(/^\s+/, '');
+        for (var i = str.length - 1; i >= 0; i--) {
+            if (/\S/.test(str.charAt(i))) {
+                str = str.substring(0, i + 1);
+                break;
+            }
+        }
+    }
+    return str;
+}
+
+function PartnerCountryRedirect(val) {
+    if ('us' == 'us') {
+        if (val == 'GB')
+            window.location = '/forexuk';
+        if (val == 'CN')
+            window.location = '/forexcn';
+        //if (val == 'ZA')
+            //window.location = '/forexza';
+        if (val == 'AU')
+            window.location = '/forexau';
+        if (val == 'JP')
+            window.location = '/forexjp';
+        if (val == 'CA')
+            window.location = '/forexbc';
+    }
+    else if ('us' == 'uk'
+                || 'us' == 'de'
+                || 'us' == 'ar'
+                || 'us' == 'cn'
+                || 'us' == 'ru') {
+        if (val == 'US')
+            window.location = '/forexus';
+        //if (val == 'ZA')
+            //window.location = '/forexza';
+        if (val == 'AU')
+            window.location = '/forexau';
+        if (val == 'JP')
+            window.location = '/forexjp';
+        if (val == 'CA')
+            window.location = '/forexbc';
+    }
+    else if ('us' == 'au') {
+        if (val == 'JP')
+            window.location = '/forexjp';
+        if (val == 'US')
+            window.location = '/forexus';
+        if (val == 'GB')
+            window.location = '/forexuk';
+        if (val == 'CA')
+            window.location = '/forexbc';
+    }
+    else if ('us' == 'usmeta') {
+        if (val == 'AU')
+            window.location = '/metaau';
+        if (val == 'JP')
+            window.location = '/metajp';
+        if (val == 'GB')
+            window.location = '/metauk';
+        if (val == 'CA')
+            window.location = '/metabc';
+    }
+    else if ('us' == 'aumeta') {
+        if (val == 'JP')
+            window.location = '/metajp';
+        if (val == 'US')
+            window.location = '/metaus';
+        if (val == 'GB')
+            window.location = '/metauk';
+        if (val == 'CA')
+            window.location = '/metabc';
+    }
+    else if ('us' == 'ca') {
+        if (val == 'US')
+            window.location = '/forexus';
+        //if (val == 'ZA')
+            //window.location = '/forexza';
+        if (val == 'AU')
+            window.location = '/forexau';
+        if (val == 'JP')
+            window.location = '/forexjp';
+        if (val == 'GB')
+            window.location = '/forexuk';
+    }
+    else {
+        if (val == 'US')
+            window.location = '/forexus';
+    }
+}
+function PartnerSouthKoreaRedirect(val) {
+    if (val.toUpperCase() == 'KR')
+        window.location = '/forexsk';
+}
+function onPartnerChangeCountry(request, success, data) {
+    var country_id = Ext.get('ctl00_ParterDemoControl_country_field').dom.value;
+
+    PartnerSouthKoreaRedirect(country_id);
+    PartnerCountryRedirect(country_id);
+
+    Ext.get('hdnPartnerState_field').dom.value = '';
+    Ext.get('ctl00_ParterDemoControl_state').dom.value = '';
+    Ext.get('ctl00_ParterDemoControl_txtCity').dom.value = '';
+    Ext.get('PartnerAreaCode').dom.value = '';
+    Ext.get('PartnerExchange').dom.value = '';
+    Ext.get('PartnerSuffix').dom.value = '';
+    Ext.get('PartnerCountryCode').dom.value = '';
+    Ext.get('PartnerPhoneNumber').dom.value = '';
+    Ext.get('ctl00_ParterDemoControl_txtPhoneNumber').dom.value = '';
+
+    if (request) {
+        Ext.get('hdnPartnerCountry_field').dom.value = country_id;
+        GetPartnerStateByCountryID(country_id, onPartnerChangeCountry);
+    }
+    else {
+        objTarget = Ext.get('ctl00_ParterDemoControl_state_select_field').dom;
+        for (var i = objTarget.options.length - 1; i >= 0; i--) {
+            objTarget.options[i] = null;
+        }
+
+        if (success && data && data.d) {
+            if (data.d.length > 0) {
+                for (var i = 0; i < data.d.length; i++) {
+                    var options = data.d[i].split("~");
+                    objTarget.options[i] = new Option(options[1], options[0]);
+                }
+
+                Ext.get('ctl00_ParterDemoControl_state_input_field').setStyle('display', 'none');
+                Ext.get('ctl00_ParterDemoControl_state_select_field').setStyle('display', 'inline');
+
+                if (Ext.get('ctl00_ParterDemoControl_state').dom.value != '')
+                    Ext.get('ctl00_ParterDemoControl_state_select_field').dom.value = Ext.get('ctl00_ParterDemoControl_state').dom.value;
+
+                if (country_id == "US" || country_id == "CA") {
+                    Ext.get('PartnerCountryCode').dom.value = '1';
+                }
+
+                Ext.get('PartnerNAPhone').dom.style.display = 'inline-block';
+                Ext.get('PartnerOtherPhone').dom.style.display = 'none';
+                Ext.get('PartnerStateHolder').dom.style.display = 'inline';
+            }
+            else {
+                Ext.get('ctl00_ParterDemoControl_state_input_field').dom.value = 'N/A';
+                Ext.get('PartnerNAPhone').dom.style.display = 'none';
+                Ext.get('PartnerOtherPhone').dom.style.display = 'inline-block';
+                Ext.get('PartnerCityHolder').dom.style.display = 'inline';
+                Ext.get('PartnerStateHolder').dom.style.display = 'none';
+                Ext.get('ctl00_ParterDemoControl_txtCity').dom.value = '';
+                Ext.get('ctl00_ParterDemoControl_state').dom.value = 'N/A';
+
+                FillPartnerCountryCode(true);
+            }
+        }
+    }
+}
+
+function GetPartnerStateByCountryID(countryId, aCallback) {
+    var aConnection = new Ext.data.Connection();
+    aConnection.request(
+    {
+        url: '/UIService.asmx/GetStateByCountryID',
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        scope: this,
+        jsonData: { aCountryID: countryId },
+        callback: function(options, success, response) {
+            var temp = null;
+            if (success) {
+                temp = Ext.util.JSON.decode(response.responseText);
+            }
+            aCallback(false, success, temp);
+        }
+    })
+};
+
+function FillPartnerCountryCode(request, success, data) {
+    if (request) {
+        GetPartnerCountryCodeByCountryID(Ext.get('ctl00_ParterDemoControl_country_field').dom.value, FillPartnerCountryCode)
+    }
+    else {
+        if (success && data && data.d) {
+            if (data.d.length > 0) {
+                var ac = Ext.get('PartnerCountryCode').dom;
+                ac.value = data.d;
+                Ext.get('ctl00_ParterDemoControl_countrycodelabel').dom.innerHTML = data.d;
+            }
+        }
+    }
+}
+
+function GetPartnerCountryCodeByCountryID(countryId, aCallback) {
+    var aConnection = new Ext.data.Connection();
+    aConnection.request(
+    {
+        url: '/UIService.asmx/GetCountryCodeByCountryID',
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        scope: this,
+        jsonData: { aCountryID: countryId },
+        callback: function(options, success, response) {
+            var temp = null;
+            if (success) {
+                temp = Ext.util.JSON.decode(response.responseText);
+            }
+            aCallback(false, success, temp);
+        }
+    })
+};
+
+function writePartnerEntity() {
+    setwsEntityHigh('NA');
+}
+
+function writePartnerQval(val) {
+    var tDate = new Date();
+    var _y = tDate.getFullYear() + 1;
+    var _m = tDate.getMonth();
+    var _d = tDate.getDate();
+    var cookie_date = new Date(_y, _m, _d);
+    document.cookie = "qval=" + val + ";expires=" + cookie_date.toUTCString() + ";path=/;domain=" + 'forex.com';
+}
+
+Ext.onReady(function() {
+    LoadInitialPartnerDemoDetails();
+});
+
+var xSiteId = 'us';
+
+if (xSiteId == 'uk' || xSiteId == 'au' || xSiteId == 'de') {
+    Ext.get('PartnerNAPhone').setStyle('display', 'none');
+    Ext.get('PartnerOtherPhone').setStyle('display', '');
+}
+    
+</script>
+
+
+<div id="ZoomFadePartnerDemo"></div>
+<iframe frameborder="0" id="ZoomShimPartnerDemo"></iframe> 
+		
 		<div id="iefix">
 			
 			<div id="master_container" class="False">
@@ -536,7 +1432,7 @@ To provide the fastest access to the trading platforms, we have made signing in 
         </select>
         <style type="text/css">.logonav .span8{ width:66.86% ;margin-left:1.25%;}.logonav .btn.small-btn{font-family:arial,sans-serif;font-size:0.85em;font-weight:bold;}.btn.primary-d, .btn.primary-d:hover{background:background: rgb(109,177,222); background: -moz-linear-gradient(top,  rgba(109,177,222,1) 0%, rgba(40,105,163,1) 100%); background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(109,177,222,1)), color-stop(100%,rgba(40,105,163,1))); background: -webkit-linear-gradient(top,  rgba(109,177,222,1) 0%,rgba(40,105,163,1) 100%); background: -o-linear-gradient(top,  rgba(109,177,222,1) 0%,rgba(40,105,163,1) 100%); background: -ms-linear-gradient(top,  rgba(109,177,222,1) 0%,rgba(40,105,163,1) 100%); background: linear-gradient(top,  rgba(109,177,222,1) 0%,rgba(40,105,163,1) 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6db1de', endColorstr='#2869a3',GradientType=0 );}</style><a class="btn btn-primary open-acc small-btn" href="open-account.html">Open an account</a>
         <div class="loginHolder">
-            <a class="btn btn-primary primary-b open-acc small-btn" href="login.html" onclick="fireTrackingEvent({'action':'Visitor Login','label':'Login Button Header','event':'siteInteraction'});">Login</a>
+            <a class="btn btn-primary primary-b open-acc small-btn" href="login.html?type=proweb" onclick="fireTrackingEvent({'action':'Visitor Login','label':'Login Button Header','event':'siteInteraction'});">Login</a>
             
                     
 
@@ -632,19 +1528,19 @@ To provide the fastest access to the trading platforms, we have made signing in 
                     <li><div class="btn-group lang-drop-holder">
                 
                     
-                    <a class="lang-drop" href="index.html" data-toggle="dropdown">
+                    <a class="lang-drop" href="index.html" onclick="selectLang(this.innerText)" data-toggle="dropdown">
                         ENG
                         <span class="caret"></span></a>
                     <ul class="dropdown-menu">
                         
                     
-                            <li><a href="/chinese/index.html" id="ctl00_UtilityNavBase_LoginView1_documentRepeater_ctl02_ChildDocumentTitle1" class="title">简体</a></li>
+                            <li><a href="/chinese/index.html" id="ctl00_UtilityNavBase_LoginView1_documentRepeater_ctl02_ChildDocumentTitle1" onclick="selectLang(this.innerText)" class="title">简体</a></li>
                         
                     
-                            <li><a href="/ru/index.html" id="ctl00_UtilityNavBase_LoginView1_documentRepeater_ctl03_ChildDocumentTitle1" class="title">Русский</a></li>
+                            <li><a href="/ru/index.html" id="ctl00_UtilityNavBase_LoginView1_documentRepeater_ctl03_ChildDocumentTitle1" onclick="selectLang(this.innerText)" class="title">Русский</a></li>
                         
                     
-                            <li><a href="/ar/index.html" id="ctl00_UtilityNavBase_LoginView1_documentRepeater_ctl04_ChildDocumentTitle1" class="title">عربي</a></li>
+                            <li><a href="/ar/index.html" id="ctl00_UtilityNavBase_LoginView1_documentRepeater_ctl04_ChildDocumentTitle1" onclick="selectLang(this.innerText)" class="title">عربي</a></li>
                         
                     </ul>
                     </div></li>
@@ -697,6 +1593,9 @@ To provide the fastest access to the trading platforms, we have made signing in 
     
 
 <script type="text/javascript">
+    function selectLang(val){
+        languageTrack(val);
+    }
     function reloadAccountsHomeBase(obj) {
         reloadAccountsDD(obj, "ctl00_UtilityNavBase_LoginView1_accountsSection");
     }
@@ -782,7 +1681,7 @@ To provide the fastest access to the trading platforms, we have made signing in 
 						
                         
                                 <li class="dropdown heightSet ">
-                                    <a href="/trading_forex_home.html">Why Us? <b class="caret"></b></a>
+                                    <a href="/global-market-leader.html">Why Us? <b class="caret"></b></a>
                                     <div class="submenu clearfix" style="width:315px;">
                                         <div class="row-fluid">
                                             
@@ -791,7 +1690,7 @@ To provide the fastest access to the trading platforms, we have made signing in 
                                                             <h3>  <span class="label label-warning wrng "> </span></h3>
                                                             <ul>
                                                                         <li>
-												                            <a class="hoverLink" href="/trading_forex_home.html" target="">Global Market Leader</a>
+												                            <a class="hoverLink" href="/global-market-leader.html" target="">Global Market Leader</a>
 												                            <div class="wrng hoverContent">
 												                                
 												                            </div>
@@ -805,7 +1704,7 @@ To provide the fastest access to the trading platforms, we have made signing in 
 												                        </li>
 												                    
                                                                         <li>
-												                            <a class="hoverLink" href="/professional-trading-tools.html" target="">Superior Trading Technology</a>
+												                            <a class="hoverLink" href="/superior-trading-technology.html" target="">Superior Trading Technology</a>
 												                            <div class="wrng hoverContent">
 												                                
 												                            </div>
@@ -886,7 +1785,7 @@ To provide the fastest access to the trading platforms, we have made signing in 
                                 <li class="divider-vertical"></li>
                             
                                 <li class="dropdown heightSet ">
-                                    <a href="/ways-to-trade.html">Trading Platforms<b class="caret"></b></a>
+                                    <a href="/forex-trading-platforms.html">Trading Platforms<b class="caret"></b></a>
                                     <div class="submenu clearfix" style="width:770px;">
                                         <div class="row-fluid">
                                             
@@ -902,21 +1801,21 @@ To provide the fastest access to the trading platforms, we have made signing in 
 												                        </li>
 												                    
                                                                         <li>
-												                            <a class="hoverLink" href="/forextrader-mobile.html" target="">Mobile Solutions </a>
+												                            <a class="hoverLink" href="/forex-mobile.html" target="">Mobile Solutions </a>
 												                            <div class="wrng hoverContent">
 												                                
 												                            </div>
 												                        </li>
 												                    
                                                                         <li>
-												                            <a class="hoverLink" href="/land-windows.html" target="">Download PRO</a>
+												                            <a class="hoverLink" href="/trading-platform-download.html" target="">Download PRO</a>
 												                            <div class="wrng hoverContent">
 												                                
 												                            </div>
 												                        </li>
 												                    
                                                                         <li>
-												                            <a class="hoverLink" href="/trading-handbook-trading.html" target="">Trading Handbook</a>
+												                            <a class="hoverLink" href="/forextrader-trading-handbook.html" target="">Trading Handbook</a>
 												                            <div class="wrng hoverContent">
 												                                
 												                            </div>
@@ -956,7 +1855,7 @@ To provide the fastest access to the trading platforms, we have made signing in 
 												                        </li>
 												                    
                                                                         <li>
-												                            <a class="hoverLink" href="/meta_download.html" target="">Download MT4</a>
+												                            <a class="hoverLink" href="/metatrader_download.html" target="">Download MT4</a>
 												                            <div class="wrng hoverContent">
 												                                
 												                            </div>
@@ -970,7 +1869,7 @@ To provide the fastest access to the trading platforms, we have made signing in 
 												                        </li>
 												                    </ul>
 											                <div class="extraInfo span12">
-                                                                <div style="padding-top:17px; padding-left:23px;"><img alt="" src="resources/images/menu/metatrader_square.png"></div>
+                                                                <div style="padding-top:17px; padding-left:23px;"><img alt="" src="resources/images/menu/metatrader_square_updated.png"></div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -979,26 +1878,34 @@ To provide the fastest access to the trading platforms, we have made signing in 
                                                 
                                                     <div class="submenu-section span4" style="width:239px;">
                                                         <div class="inner-submenu">
-                                                            <h3>GTX - Forex ECN <span class="label label-warning wrng "> </span></h3>
+                                                            <h3>&nbsp; <span class="label label-warning wrng "> </span></h3>
                                                             <ul>
                                                                         <li>
-												                            <a class="hoverLink" href="/GAIN-GTX-Direct.html" target="">Overview</a>
+												                            <a class="hoverLink" href="/tradable.html" target="">Tradable</a>
 												                            <div class="wrng hoverContent">
 												                                
 												                            </div>
 												                        </li>
 												                    
                                                                         <li>
-												                            <a class="hoverLink" href="/GAIN-GTX-Direct-form.html" target="">Request More Info</a>
+												                            <a class="hoverLink" href="/GAIN-GTX-Direct.html" target="">GTX - Forex ECN</a>
 												                            <div class="wrng hoverContent">
 												                                
 												                            </div>
 												                        </li>
 												                    
-                                                                        
+                                                                        <li>
+												                            <a class="hoverLink" href="/forex-api.html" target="">API Trading</a>
+												                            <div class="wrng hoverContent">
+												                                
+												                            </div>
+												                        </li>
 												                    </ul>
 											                <div class="extraInfo span12">
-                                                                <div id="home_fix_GTX" style="padding-top:114px; padding-left: 36px;"><img alt="" src="resources/images/menu/forex_ecn_square.png"></div>
+                                                                <p style="padding-top:15px; padding-left:8px"><a href="trading-platform-comparison.html" style="width: 190px;" class="buttonFT"><span>COMPARE TRADING PLATFORMS</span></a></p>
+<!--
+<div style="padding-top:114px; padding-left: 36px;" mce_style="padding-top:114px; padding-left: 36px;" id="home_fix_GTX"><img alt="" src="resources/images/menu/forex_ecn_square.png" mce_src="resources/images/menu/forex_ecn_square.png" /></div>
+-->
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1022,7 +1929,7 @@ To provide the fastest access to the trading platforms, we have made signing in 
                                                             <h3>Tools &amp; Analysis  <span class="label label-warning wrng "> </span></h3>
                                                             <ul>
                                                                         <li>
-												                            <a class="hoverLink" href="/tools-overview.html" target="">Trader Tools</a>
+												                            <a class="hoverLink" href="/forex-tools.html" target="">Trader Tools</a>
 												                            <div class="wrng hoverContent">
 												                                
 												                            </div>
@@ -1045,7 +1952,7 @@ To provide the fastest access to the trading platforms, we have made signing in 
 												                        </li>
 												                    
                                                                         <li>
-												                            <a class="hoverLink" href="/economic_calendar.html" target="">Economic Calendar</a>
+												                            <a class="hoverLink" href="/forex-economic-calendar.html" target="">Economic Calendar</a>
 												                            <div class="wrng hoverContent">
 												                                
 												                            </div>
@@ -1071,28 +1978,14 @@ To provide the fastest access to the trading platforms, we have made signing in 
 												                        </li>
 												                    
                                                                         <li>
-												                            <a class="hoverLink" href="/trade-research-weekly-live.html" target="">Weekly Insights </a>
+												                            <a class="hoverLink" href="/daily-forex-technical-analysis.html" target="">Technical Outlook</a>
 												                            <div class="wrng hoverContent">
 												                                
 												                            </div>
 												                        </li>
 												                    
                                                                         <li>
-												                            <a class="hoverLink" href="/Default.aspx?DN=fd68d367-5935-4f2b-9fe7-eb69003dc93d" target="">3Q Markets Outlook</a>
-												                            <div class="wrng hoverContent">
-												                                
-												                            </div>
-												                        </li>
-												                    
-                                                                        <li>
-												                            <a class="hoverLink" href="/trade-research-intraday-to.html" target="">Technical Outlook</a>
-												                            <div class="wrng hoverContent">
-												                                
-												                            </div>
-												                        </li>
-												                    
-                                                                        <li>
-												                            <a class="hoverLink" href="/trade-research-intraday-pp.html" target="">Pivot Points</a>
+												                            <a class="hoverLink" href="/daily-forex-research-pivot-points.html" target="">Pivot Points</a>
 												                            <div class="wrng hoverContent">
 												                                
 												                            </div>
@@ -1104,6 +1997,8 @@ To provide the fastest access to the trading platforms, we have made signing in 
 												                                
 												                            </div>
 												                        </li>
+												                    
+                                                                        
 												                    </ul>
 											                <div class="extraInfo span12">
                                                                 
@@ -1217,7 +2112,14 @@ To provide the fastest access to the trading platforms, we have made signing in 
 												                        </li>
 												                    
                                                                         <li>
-												                            <a class="hoverLink" href="/glossary.html" target="">Glossary</a>
+												                            <a class="hoverLink" href="/forex-market-hours.html" target="">Market Hours</a>
+												                            <div class="wrng hoverContent">
+												                                
+												                            </div>
+												                        </li>
+												                    
+                                                                        <li>
+												                            <a class="hoverLink" href="/forex-glossary.html" target="">Glossary</a>
 												                            <div class="wrng hoverContent">
 												                                
 												                            </div>
@@ -1437,13 +2339,13 @@ InitFunctionList.push(initQuickPairs);
                     <ul>
 	                    <li class="title">Why Us?</li>
 	                    
-			                    <li><a href="/trading_forex_home.html" target="">Global Market Leader </a></li>
+			                    <li><a href="/global-market-leader.html" target="">Global Market Leader </a></li>
 		                    
 			                    <li><a href="/pricing-execution-advantage.html" target="">Competitive Pricing </a></li>
 		                    
 			                    <li><a href="/pricing-execution-advantage.html" target="">Trade Execution </a></li>
 		                    
-			                    <li><a href="/professional-trading-tools.html" target="">Trading Tools </a></li>
+			                    <li><a href="/rollovers.html" target="">Institutional Rollovers</a></li>
 		                    
 			                    <li><a href="/financial-strength-and-security.html" target="">Financial Security </a></li>
 		                    
@@ -1469,7 +2371,7 @@ InitFunctionList.push(initQuickPairs);
 	                    
 			                    <li><a href="/latest-forex-research.html" target="">Research Center </a></li>
 		                    
-			                    <li><a href="/tools-overview.html" target="">Trader Tools </a></li>
+			                    <li><a href="/forex-tools.html" target="">Trader Tools </a></li>
 		                    
 			                    <li><a href="/market-strategists.html" target="">Market Strategists </a></li>
 		                    
@@ -1490,7 +2392,7 @@ InitFunctionList.push(initQuickPairs);
 		                    
 			                    <li><a href="/learn-to-trade-forex.html" target="">Online Courses </a></li>
 		                    
-			                    <li><a href="/intro-forex-market.html" target="">Reference Materials</a></li>
+			                    <li><a href="/why-trade-forex.html" target="">Reference Materials</a></li>
 		                    
                     </ul>
                 
@@ -1530,7 +2432,65 @@ InitFunctionList.push(initQuickPairs);
             </div>
 			
 			<div class="tagline">
-				<span style="font-weight: bold; font-size: 14px ;">Follow us on</span> <a href="http://facebook.com/forex.com" target="_blank" onclick="_gaq.push(['_trackPageview', '/outbound/facebook']);"><img src="resources/images/common/btn_social_facebook_off.gif" align="absbottom" class="hover_button" border="0"></a> <a href="http://twitter.com/forexcom" target="_blank" onclick="_gaq.push(['_trackPageview', '/outbound/twitter']);"><img src="resources/images/common/btn_social_twitter_off.gif" align="absbottom" class="hover_button" border="0"></a> <a href="http://www.forex.com/weekly.xml" target="_blank" onclick="_gaq.push(['_trackPageview', '/outbound/rss']);"><img src="resources/images/common/btn_social_rss_off.gif" align="absbottom" class="hover_button" border="0"></a><br><br></div>
+				<style>
+
+img.mcfc
+ {
+ width:68px;
+ height:82px;
+ background:url(/resources/images/home/footer-sprite.png) 0 0;
+ }
+ 
+.mcfclogo {width: 340px;}
+.mcfclogo img {float:left;}
+.mcfclogo p {margin-left: 100px; text-align:left; color: #37597B; font-size: 14px; padding-bottom: 15px}
+
+ 
+#social{position:relative; width: 170px}
+#social li{margin:0;padding:0;list-style:none;position:absolute;}
+#social li, #social a{height:34px;display:block;}
+
+#taglinetext{left: -105px; top: 7px}
+
+#twitter{left:0px; width:35px;}
+#twitter{background:url('/resources/images/home/footer-sprite.png') -88px -5px;}
+#twitter a:hover{background: url('/resources/images/home/footer-sprite.png') -88px -46px;}
+
+#facebook{left:43px; width:35px;}
+#facebook{background:url('/resources/images/home/footer-sprite.png') -132px -5px;}
+#facebook a:hover{background: url('/resources/images/home/footer-sprite.png') -132px -46px;}
+
+#youtube{left:86px;width:35px;}
+#youtube{background:url('/resources/images/home/footer-sprite.png') -176px -5px;}
+#youtube a:hover{background: url('/resources/images/home/footer-sprite.png') -176px -46px;}
+
+#rss{left:129px;width:35px;}
+#rss{background:url('/resources/images/home/footer-sprite.png') -220px -5px;}
+#rss a:hover{background: url('/resources/images/home/footer-sprite.png') -220px -46px;}
+
+.tagline {    
+    width: 985px !important;
+	padding-bottom: 10px;
+}
+</style>
+
+<div class="mcfclogo">
+<img class="mcfc" src="/images/spacer.gif">
+<p>&nbsp;<br>The Official Online Trading Partner of<br>
+<b style="font-weight: bold">Manchester City Football Club</b></p>
+</div>
+
+
+<div style="float:right; position: relative; top: -45px; left: -45px" id="socialtags">
+<ul id="social">
+  <li id="taglinetext"><b style="font-size: 13px; font-weight: bold">Follow us on: </b></li>
+  <li id="twitter"><a href="http://twitter.com/forexcom" target="_blank"></a></li>
+  <li id="facebook"><a href="http://facebook.com/forex.com" target="_blank"></a></li>
+  <li id="youtube"><a href="http://youtube.com/forex" target="_blank"></a></li>
+  <li id="rss"><a href="http://www.forex.com/weekly.xml" target="_blank"></a></li>
+</ul>
+</div>
+</div>
 		</div>
 		
 		<div class="address_container">
@@ -1551,7 +2511,7 @@ InitFunctionList.push(initQuickPairs);
 <div id="lower_footer">
 	<div class="float_wrapper">
 		<div class="legal">
-			FOREX.com is a registered FCM and RFED with the CFTC and member of the National Futures Association (NFA # 0339826). Forex trading involves significant risk of loss and is not suitable for all investors. <a href="risk-warning.html">Full Disclosure</a>. Spot Gold and Silver contracts are not subject to regulation under the U.S. Commodity Exchange Act. *Increasing leverage increases risk.<br>© 2013 FOREX.com<br><br>
+			FOREX.com is a registered FCM and RFED with the CFTC and member of the National Futures Association (NFA # 0339826). Forex trading involves significant risk of loss and is not suitable for all investors. <a href="risk-warning.html">Full Disclosure</a>. Spot Gold and Silver contracts are not subject to regulation under the U.S. Commodity Exchange Act. *Increasing leverage increases risk.<br>© 2014 FOREX.com<br><br>
 			<ul><li><a href="forex-account-forms.html">Forms &amp; Agreements</a></li><li><a href="privacy-policy.html">Privacy Policy</a></li><li><a href="risk-warning.html">Risk Warning</a></li><li><a href="sitemap.html">Site Map</a></li><li class="last"><a href="pages/land-international.html">International</a></li></ul>
 		</div>
 		<div class="disclaimer_container">
@@ -1590,20 +2550,8 @@ InitFunctionList.push(initQuickPairs);
 
 
 
-	    <script type="text/javascript" language="JavaScript" src="elqNow/elqCfg.js"></script>
-<script type="text/javascript" language="JavaScript" src="elqNow/elqImg.js"></script>
-<script type="text/javascript" language="JavaScript">var elqPPS = '70';</script> 
-<script type="text/javascript" language="JavaScript" src="elqNow/elqScr.js"></script> 
-<script type="text/javascript" language="JavaScript"> 
-function initPage2() { 
-                if (this.GetElqCustomerGUID) 
-                { 
-                                if(document.forms["aspnetForm"].elements["elqCustomerGUID"] != null)
-                                { 
-                                                document.forms["aspnetForm"].elements["elqCustomerGUID"].value = GetElqCustomerGUID(); 
-                                }
-									
-                }
+	    <script type="text/javascript" language="JavaScript"> 
+function initPage2() {                 
 				if(document.forms["aspnetForm"].elements["sfGoogleGUID"] != null)
                                 { 
                                  var myVar=setTimeout(function(){setGA()},5000);
