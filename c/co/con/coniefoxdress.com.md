@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coniefoxdress.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816084641id_/http%3A//www.coniefoxdress.com/cms/help/productHelp/policy/clist34.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coniefoxdress.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325063131id_/http%3A//www.coniefoxdress.com/cms/help/productHelp/policy/clist34.html) for the most accurate reproduction.*
 
 # Privacy Policy at coniefoxdress.com
 
