@@ -1,18 +1,23 @@
-> *The following text is extracted and transformed from the cataloguecentral.com.au privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427161430id_/http%3A//www.cataloguecentral.com.au/Pages/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cataloguecentral.com.au privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325023907id_/http%3A//www.cataloguecentral.com.au/Pages/Privacy) for the most accurate reproduction.*
 
 # Catalogue Central's Privacy Policy
 
-[ ](http://inc.catalogues.cataloguecentral.com.au/aff_c?offer_id=3041&aff_id=1000&aff_sub4=wings&source=Home) [ ](http://inc.catalogues.cataloguecentral.com.au/aff_c?offer_id=3041&aff_id=1000&aff_sub4=wings&source=Home) [](https://web.archive.org/)
+  1. [Home](https://web.archive.org/)
+  2. Privacy Statement
 
-## Our Policy
+
+
+## Privacy Statement
+
+### Our Policy
 
 The privacy of your personal information is important to us at Catalogue Central. We use safeguards to protect your privacy and confidentiality. As part of the service to our customers, we adhere to the National Privacy Principles described under the Privacy Act 1988. However, our Privacy Policy does not extend to advertisers and parties that may be linked or associated with Catalogue Central. You may contact the associated parties directly should you wish to view their Privacy Policy. We reserve the right, at any time, to add, change, update or modify our privacy policy simply by posting such change, update or modification on the website. Any such change, update or modification will be effective immediately upon posting on the website.
 
-## Your security
+### Your security
 
 We maintain physical, electronic and procedural safeguards that protect your personal information. Only authorised Catalogue Central staff have access to your personal information. Information is only accessible when required in the normal course of business from Catalogue Central.
 
-## Collection of Member/Visitor Information
+### Collection of Member/Visitor Information
 
 If you do nothing during your visit but browse through the website and read the information contained on the web pages, we may gather certain information about your visit automatically. This information does not identify you personally. We may automatically gather the Internet domain, IP address from which you access Catalogue Central and the date and time you access our website and the pages you visit.
 
