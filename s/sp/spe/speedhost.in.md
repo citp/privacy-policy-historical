@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedhost.in privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222095313id_/http%3A//www.speedhost.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedhost.in privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325041112id_/http%3A//www.speedhost.in/privacy-policy.html) for the most accurate reproduction.*
 
 # SpeedHost™ is a Privacy Policy
 
