@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tuftandneedle.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213165356id_/https%3A//www.tuftandneedle.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuftandneedle.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325225604id_/https%3A//www.tuftandneedle.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tuft & Needle
 
@@ -12,7 +12,7 @@ Throughout this Privacy Policy, we may use certain words or phrases, and it is i
 
 “Agreement” means these Terms of Service;
 
-“Tuft & Needle” refers to the business which owns this website (Obsidian Labs, LLC), our Site, or our Service, depending on the context of the usage;
+“Tuft & Needle” refers to the business which owns this website (Tuft & Needle), our Site, or our Service, depending on the context of the usage;
 
 “Service” refers to the services that we provide through our Site, including but not limited to our online store;
 
