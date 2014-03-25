@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostinger.in privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110004123id_/http%3A//www.hostinger.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostinger.in privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325035420id_/http%3A//www.hostinger.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
