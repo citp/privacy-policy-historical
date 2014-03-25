@@ -1,100 +1,55 @@
-> *The following text is extracted and transformed from the blendspace.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blendspace.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325063448id_/https%3A//www.blendspace.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Blendspace - Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+**Last Updated:** July 20, 2012
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+## PRIVACY POLICY
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**
 
-**Information Collection and Use**
+This Privacy Policy describes our privacy practices for Blendspace, our presentation platform and related services (collectively, the “Service”). Our Service allows users to organize and present knowledge. The Service provides Web-based tools to easily and create lessons which consist of a collection of resources used to present to other users. We provide the Service from our Web site and from mobile applications, mobile sites or other internet points of presence that we may make available from time to time (collectively, our “Site”). By using or accessing our Service and Site, you agree to this Privacy Policy and our [Terms of Use](https://web.archive.org/terms). If you have questions about our privacy practices, please contact us at [admin@blendspace.com](mailto:admin@blendspace.com). 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+**1\. SCOPE OF THIS PRIVACY POLICY.** This Privacy Policy covers our collection and use of information when you use our Service and Site. It does not cover third party Web sites or applications to which we provide links from our Service.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+**2\. INFORMATION WE COLLECT FROM USERS.** In order to use the Service, users must submit their name and email to the Service. This is the only personally identifiable information we collect from users (including students). The Service provides users with one place to organize and present their knowledge and content. Students may sign up either by going to the site or by a teacher adding them to a class. We use the names and email address of students only to provide the Service, and do not disclose them to anyone other than a student’s own teacher except under the circumstances described in Section 5 below. 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**3\. INFORMATION WE COLLECT FROM USERS.**
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+  * Personal Information You Provide at Registration. If you register for an account on our Service, we ask for your name and email address. 
+  * Information We Collect When You Use Our Service. We receive and store certain types of information whenever you interact with our Service. We keep track of your “clicks” and pages you view on our Site. We use “cookies” and obtain certain types of information when your Web browser accesses the Site, such as the Internet Protocol (IP) address of your computer, information about your browser software and operating system, and the date and time you access our site. “Cookies” are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and provide certain features on our Site. The “Help” feature in most Web browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable some cookies altogether. Keep in mind that disabling cookies may result in some features of the Service not working properly. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**4\. HOW WE USE THE INFORMATION WE COLLECT.**
 
-**Security**
+  * To Provide, Manage and Improve the Services. We use the personal information we collect from users to make the Service and its features available, and to improve and add features to the Service. We may also use this information to customize certain Service features for teachers.
+  * To Contact Users and Respond to Emails. We may also use contact information to provide teachers with announcements related to our services. If you email us, we may use your email addresses to respond. 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-**Updating Your Information**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+**5\. HOW WE SHARE PERSONAL INFORMATION.** We do not share any personal information submitted to the Service by users with any third parties, except under the following limited circumstances: 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+  * Third Party Service Providers. We rely on some third party service providers to assist us in operating the Service. For example, we may use third parties to host our Site or send messages. We provide personal information to these third party service providers in order to help us operates the Service, but we put in place contractual and/or technical protections that prohibit them from using that information, or it to any third party, except as necessary in operating the Service. 
+  * Business Transfers. If we (or our assets) are acquired by another company, personal information you submit to the Service would likely be among the assets transferred to the acquirer. In the event of such an acquisition, the Privacy Policy in force at the time would continue to apply your information.
+  * To Protect Us and Others from Liability or Harm. We release message content and personal information if we believe we must do so to comply with the law, to enforce our Terms of Use, or to protect the safety and rights of us or our users. This does not include selling, renting, sharing or disclosing your information or content for commercial purposes.
+  * With Your Consent. We may also share your personal information or content with third parties if you give us your consent to do so. 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-      iii.      You may call us at: (480) 505-8800
 
-       iv.      You may fax us at: (480) 505-8844
+**7\. HOW TO VIEW AND EDIT YOUR INFORMATION; ACCOUNT DELETION**
 
-**Sending Emails**
+  * Profile Information. You can view and modify your account information on the Service at any time.
+  * Account Deletion. If you wish to delete your account or contact information from the Service, please email us at [admin@blendspace.com](mailto:admin@blendspace.com) requesting deletion. 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**Compliance with Laws and Law Enforcement**
+**8\. MESSAGE CONTENT.** We do not monitor, review or exercise any control over the resources used when using the Service (though we reserve the right to block resources that we reasonably believe may subject us or our users to liability). Accordingly, personal information included in the content of resources used on the Service is not governed by this Privacy Policy. We encourage you to avoid including personally identifiable information about yourself or others in resources and lessons that will be shared or made public, and we encourage teachers to talk with their students about not including sensitive personal information in any resource or canvase used on the Service.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+**9\. SECURITY.** We take precautions to maintain the security and integrity of personal information you submit to the Service, including storage of your profile and personal information on a secure server behind a firewall. 
 
-**Third Party Service Providers**
+**10\. MODIFICATIONS TO THIS PRIVACY POLICY.** We may modify this Privacy Policy at any time. If you maintain an account for the Service, we will notify you, at the email address you provide to us when you register for an account, of any material modifications to this Privacy Statement. 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+**11\. HOW TO CONTACT US.** If you have any questions about our privacy practices, please contact us at [admin@blendspace.com](mailto:admin@blendspace.com) or by telephone at .
