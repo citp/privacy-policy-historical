@@ -1,0 +1,159 @@
+<!--The following is the downloaded HTML source of the izeaexchange.com privacy policy that was archived on 2014-03-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140325231406id_/https%3A//izeaexchange.com/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","errorBeacon":"jserror.newrelic.com","licenseKey":"821acb6464","applicationID":"2217397","transactionName":"c15fQRNYClkEFB8VR1FFWFZORxRcFwdTH2xAXl1cAk4=","queueTime":0,"applicationTime":16,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-361.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgIBVlZbGwECVVZRDgY="};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&&a("../../wrap-events"),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&&(h+=1)}),e.on("fn-err",function(a,b,d){g&&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&&!this.thrown&&h>0&&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f);for(var g=XMLHttpRequest.prototype;g&&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){if("string"==typeof a&&a.length)return a.length;if("object"!=typeof a)return void 0;if("undefined"!=typeof ArrayBuffer&&a instanceof ArrayBuffer&&a.byteLength)return a.byteLength;if("undefined"!=typeof Blob&&a instanceof Blob&&a.size)return a.size;if("undefined"!=typeof FormData&&a instanceof FormData)return void 0;try{return JSON.stringify(a).length}catch(b){return void 0}}function c(a){var c=this.params,d=this.metrics;if(!this.ended){this.ended=!0;for(var e=0;k>e;e++)a.removeEventListener(j[e],this.listener,!1);if(!c.aborted){if(d.duration=(new Date).getTime()-this.startTime,4===a.readyState){c.status=a.status;var g=a.responseType,h="arraybuffer"===g||"blob"===g||"json"===g?a.response:a.responseText,i=b(h);if(i&&(d.rxSize=i),this.sameOrigin){var l=a.getResponseHeader("X-NewRelic-App-Data");l&&(c.cat=l.split(", ").pop())}}else c.status=0;d.cbTime=this.cbTime,f("xhr",[c,d])}}}function d(a,b){var c=g(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function e(a,b){return b}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var f=a("handle"),g=a("./parse-url.js"),h=a("../../../wrap-function"),i=a("../../../contextual-ee"),j=["load","error","abort","timeout"],k=j.length,l=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),i.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=c,this.ended=!1,this.xhrGuids={}}),h.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",e),i.on("open-xhr-start",function(a){this.params={method:a[0]},d(this,a[1]),this.metrics={}}),i.on("open-xhr-end",function(a,b){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),i.on("send-xhr-start",function(a,c){var d=this.metrics,e=a[0],f=this;if(d&&e){var g=b(e);g&&(d.txSize=g)}this.startTime=(new Date).getTime(),this.listener=function(a){try{"abort"===a.type&&(f.params.aborted=!0),("load"!==a.type||f.called===f.totalCbs&&(f.onloadCalled||"function"!=typeof c.onload))&&f.end(c)}catch(b){}};for(var h=0;k>h;h++)c.addEventListener(j[h],this.listener,!1)}),i.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof c.onload||this.end(c)}),i.on("xhr-load-added",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&!this.xhrGuids[c]&&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),i.on("xhr-load-removed",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&this.xhrGuids[c]&&(delete this.xhrGuids[c],this.totalCbs-=1)}),i.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-added",[a[1],a[2]],b)}),i.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-removed",[a[1],a[2]],b)}),i.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&&("onload"===c&&(this.onload=!0),("load"===(a[0]&&a[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),i.on("fn-end",function(a,b){this.xhrCbStart&&i.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&&e[1]&&(d.port=e[1].split("/")[0].split(":")[1]),d.port&&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&&b.port===c.port&&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&&"function"==typeof a&&a.apply&&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&&"function"==typeof f&&f.apply&&!f._wrapped&&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",7,2]);</script>
+    <!-- Title -->
+    <title>IZEA : Native Ad Exchange</title>
+    <!-- CSS -->
+    <link href="/assets/application-f2ec64d98a2b5b88df3067ad02c13db3.css" media="all" rel="stylesheet" type="text/css">
+    <link href="/assets/signup-32562e3b694304087fcd32551f10f5d5.css" media="all" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+    <!-- JS -->
+    <script src="/assets/registrations-510605637ce05e93c45e77ace146cf17.js" type="text/javascript"></script>
+    <!-- Meta -->
+    <meta property="twitter:account_id" content="1597932086">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta content="authenticity_token" name="csrf-param">
+<meta content="cna1Pb+GTbH4PpcqDRT944Fckiimd6Ku79rO89fmZ7k=" name="csrf-token">
+    <!--[if IE]>
+       <link href="/assets/ie-2eddea82ed8fdc8f4d47f1e3f4ee33f7.css" media="all" rel="stylesheet" type="text/css" />
+       <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body data-controller="static" data-action="privacy_policy">
+    <header class="navbar navbar-fixed-top main-header">
+  <div class="navbar-inner">
+    <div class="container home-header">
+    </div>
+  </div>
+</header>
+
+    <div class="main-container no-menu">
+      <div class="container-fluid main-content">
+        
+        <div class="legal-pages">
+  <h1>Privacy Policy</h1>
+  <p>Updated <b>February 19, 2014</b></p>
+
+  <p>IZEA is a member of the IZEA Exchange and licenses this platform under IZEA's Terms of Service and Privacy Policy.</p>
+
+  <p>The following details our Privacy Policy (the “Policy") for this site and describes the types of information we gather from those persons visiting the Internet websites http://izea.com, (the “Site(s)”) and how we use such information. We understand the importance of privacy and accordingly, treat all information received in a responsible manner. This Policy applies to all of the services offered by IZEA and IZEA (the “services”) on the Sites. By accessing the Sites, you agree to be bound by the Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Sites. Each time you use the Sites, the current version of the Privacy Policy will apply. Accordingly, when you use the Sites, you should check the date of this Policy (which appears at the top) and review any changes since the last version.</p>
+
+  <h2>Use of Information Collected by Us</h2>
+
+  <p>IZEA may collect two types of information from users of our Sites: “personal information” (such as name, e-mail address, mailing address, phone number, etc.) and “aggregate information” (such as frequency of visits to any of the Sites, search terms entered, Site pages most frequently accessed, browser type, etc.)
+  We use this information in an effort to improve your experience on the Sites and to communicate with you about information that you request. We may also use this information to help us target specific services or offers to you, to help us develop and improve our Sites, and to tailor our Sites to your interests.</p>
+
+  <h2>Collecting and Using Your Personal Information</h2>
+
+  <p>IZEA only collects personal information that is voluntarily provided when users sign up for an IZEA site or service. Specifically, when you sign up for our marketplace - the “Native Ad Exchange” (NAX), we ask you for personal information such as your name, address, social service connectors, email address, and social security number. (Please note that we require social security numbers for income tax reporting purposes.) We may also request PayPal payment account information which we maintain in encrypted form on secure servers.</p>
+
+  <h2>Collecting and Using Your Aggregate Information</h2>
+
+  <p>IZEA also collects aggregate information, which is non-personally identifiable information about you, such as frequency of visits to the Sites, search terms entered, browser type, etc. Aggregate information is used in a collective manner, and no single person can be identified by that compiled information. IZEA uses aggregate information to provide its services and remuneration, as well as to determine the use of our Sites and to monitor, audit and analyze information pertaining to our business metrics.</p>
+
+  <h2>Sharing, Selling and Trading of Your Personal Information Collected Online with Third Parties</h2>
+
+  <p>IZEA does not share, rent, sell or disclose personal information to third parties, except as described in this Privacy Policy. IZEA shares personal information with our parents and subsidiaries, and on occasion, we may share personal information with third party service providers, such as “white label partners” and credit card processing companies. These third party service providers are not authorized to retain, share, store or use your personal information for any purposes other than to provide the services for which they have been hired to provide. In addition, in order to protect against potential fraud, we may verify with third parties the personal information you provide when you sign up for an account. In the course of such verification, we may receive personal information about you.</p>
+
+  <p>We do not sell, trade or otherwise share your personal information with unrelated third parties for their own marketing purposes.
+  In the following circumstances, IZEA may elect to share or transfer your personal information to unrelated third parties: (i) to comply with a legal requirement, judicial proceeding, court order, or legal process served on IZEA, (ii) to investigate a possible crime, such as fraud or identity theft; (iii) in connection with the sale, purchase, merger, reorganization, liquidation or dissolution of IZEA; (iv) when we believe it is necessary to protect the rights, property, or safety of IZEA or other persons, or (v) as otherwise required or permitted by law.</p>
+
+  <p>It should be noted that on some portions of the Sites, users can choose to have their personal information displayed. If users choose to have their personal information displayed on the Site(s), they will be given forewarning that the action they are about to take will make their personal information publicly available on the Site(s).</p>
+
+  <h2>Sharing, Selling and Trading Aggregate Information Collected Online with Third Parties</h2>
+
+  <p>We may share, sell or trade with third parties aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. As stated earlier, such information does not identify you individually.
+  Contests/Sweepstakes</p>
+
+  <p>From time-to-time, we may request information from users of our Sites in connection with a contest or a sweepstakes. Participation in these contests or sweepstakes is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information and supplementary information on your interests, opinions and preferences. We will use the contact information to notify winners. We may publish winners’ first name, last initial and city of residence on the Sites and in order to comply with state law, we may be required to share: (i) winners’ first name, last name and address with state agencies and (ii) winners’ first name and last name with persons requesting such information via the mail.</p>
+
+  <h2>Message Boards</h2>
+
+  <p>On some of the Sites, we provide message boards for visitors to post comments and messages for others to read. We may collect technical information about your post, such as the IP address from which you posted, and associate this information with your messages. Even if messages are deleted, we may retain copies and attendant information indefinitely.</p>
+
+  <p>When you post messages to the message boards, certain information, such as your email address, user name and/or full name, may be available to the public. Also note that any personal information you include in the body of your message will be available to the public so it is important for you to exercise discretion and appropriate caution when deciding to reveal personal information in these areas.</p>
+
+  <h2>Cookies</h2>
+
+  <p>Cookies are pieces of information which websites transfer to your computer’s web browser for storage on your computer’s hard drive. When you visit the Sites, we may place one or more cookies on your computer to uniquely identify your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people blog. We store minimal personal information in cookies and protect this information. We do not store complete records or credit card numbers in cookies. You may chose to set your computer to not accept cookies, but some features and services on the Sites may not function properly if your cookies are disabled.</p>
+
+  <h2>Use of Pixel Tags/Clear GIFs/Web Beacons</h2>
+
+  <p>A pixel tag, also known as a clear GIF or web beacon, is an invisible tag placed on certain pages of our Sites but not on your computer. When you access these pages, pixel tags generate a generic notice of that visit. They usually work in conjunction with cookies, registering when a particular computer visits a particular page. If you turn off cookies the pixel tag will simply detect an anonymous website visit.</p>
+
+  <h2>Security Pertaining to Your Information</h2>
+
+  <p>We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.</p>
+
+  <p>We restrict access to personal information to IZEA employees, service providers and agents who need to know that information in order to operate, develop or
+  improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. We use secure socket layer (“SSL”) technology to encrypt and protect the security of your personal information, including but not limited to your credit card number, when it is sent over the Internet. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to protect your personal information, we cannot guarantee its absolute security. IN NO EVENT WILL IZEA OR ITS SUBSIDIARIES, AFFILIATES OR ANY PARTY INVOLVED IN CREATING, PRODUCING OR DELIVERING THE SITES BE LIABLE IN ANY MANNER WHATSOEVER FOR ANY INCIDENTAL, CONSEQUENTIAL, INDIRECT, SPECIAL OR PUNITIVE DAMAGES ARISING OUT OF YOUR ACCESS, USE OR INABILITY TO USE THE SITES, OR IN CONNECTION WITH ANY FAILURE OR PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUS OR LINE OR SYSTEM FAILURE (INCLUDING LOSS PROFITS, LOSS OF BUSINESS OR DATA, BUSINESS INTERRUPTION, AND DAMAGES THAT RESULT FROM INACCURACY OF THE INFORMATION OR INCONVENIENCE, DELAY, OR LOSS OF THE USE OF THE SITES). THE FOREGOING LIMITATIONS APPLY WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE STRICT LIABILITY OR ANY OTHER BASIS, EVEN IF IZEA OR ITS AFFILIATES OR ANY OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</p>
+
+  <h2>Integrity of Your Data</h2>
+
+  <p>IZEA processes personal information only for the purposes for which it was collected and in accordance with this Policy. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.</p>
+
+  <h2>Copyright Infringement/DMCA Notice</h2>
+
+  <p>If you are a copyright owner or an agent thereof and believe that any submission on the Sites’ message boards or any other content on the Sites infringes upon your copyrights, you may submit a notification pursuant to Title 17, United States Code, Section 512(c)(3), the Digital Millennium Copyright Act (“DMCA”) by providing our designated copyright agent with the following information in writing:</p>
+
+  <p>(i) A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;</p>
+  <p>(ii) Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;</p>
+  <p>(iii) Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled and information reasonably sufficient to permit the service provider to locate the material;</p>
+  <p>(iv) Information reasonably sufficient to permit the service provider to contact you, such as an address, telephone number, and, if available, an electronic mail;</p>
+  <p>(v) A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and</p>
+  <p>(vi) A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.</p>
+
+  <p>IZEA’s designated copyright agent to receive notifications of claimed infringement is: Copyright Agent, 480 N. Orlando Ave., Suite #200, Winter Park, FL 32789 USA or copyrightagent@izea.com. Only DMCA notices should go to the designated copyright agent; any other comments, requests, or other communications should be directed to info@izea.com. You acknowledge that if you fail to comply with all of the requirements of this Section, your DMCA notice may not be valid.</p>
+
+  <h2>Children and Privacy</h2>
+
+  <p>Our Sites are not directed to children and we will not request personally identifiable information from anyone who we know to be under the age of 18, unless we have obtained verifiable parental consent from a parent or legal guardian. If we become aware that a user under the age of 13 has registered with any of our Sites, provided personally identifiable information, and IZEA has not obtained prior verifiable consent from a parent or legal guardian, we will immediately remove the user’s personally identifiable information from our files.</p>
+
+  <h2>Links to Other Websites</h2>
+
+  <p>The Sites may contain links to websites operated by other people or companies. Those websites may have their own privacy policy or no privacy policy at all. IZEA does not have any responsibility for those websites, and we provide the links solely for the convenience of our visitors.</p>
+
+  <h2>Business Transfers</h2>
+
+  <p>In the event that IZEA sells substantially all of its assets, or one of IZEA’s business units are acquired, personally identifiable information of visitors to the Sites and aggregate information will likely be one of the transferred assets.</p>
+
+  <h2>Changes to this Policy</h2>
+
+  <p>Please note that we may change this Privacy Policy at any time and without prior notice, by posting the revised version of this Policy on our Sites.</p>
+
+  <h2>Corrections/Information Removal/Opt-Out</h2>
+
+  <p>If your name, e-mail or postal address, telephone number or other personal information changes, you may update, correct or omit the relevant information by contacting us at IZEA Customer Service, 480 N. Orlando Ave., Suite #200, Winter Park, FL 32789 USA or by visiting our site and clicking Contact Support. If you prefer not to receive newsletters or other marketing e-mails from IZEA, please let us know by clicking on the unsubscribe link within any newsletter or marketing e-mail you receive. If you prefer not to receive marketing mail via the mail carrier, please let us know by sending a request to: IZEA Marketing, 480 N. Orlando Ave., Suite #200, Winter Park, FL 32789 USA. Please be sure to include in any e-mail or postal mail, your full name, e-mail address, postal address, and any message. Please note that such requests may take up to ten (10) days to become effective.</p>
+
+  <h2>Contact Us</h2>
+
+  <p>If you have any questions or concerns about this Policy, please feel free to contact us any time through the Sites or at Privacy Policy Concerns Coordinator, c/o IZEA Inc., 480 N. Orlando Ave., Suite #200, Winter Park, FL 32789 USA.</p>
+</div>
+
+      </div>
+      <footer>
+  <nav>
+    <p>©2014 IZEA, Inc. - U.S. Patent Pending 61/830,391</p>
+    <span class="version-number">beta v0.1.15.7
+</span>
+    <div class="clearfix"></div>
+    <a href="/terms_and_conditions">Terms &amp; Conditions</a> | <a href="/privacy_policy">Privacy Policy</a>
+  </nav>
+</footer>
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-837121-55', 'izeaexchange.com');
+    ga('send', 'pageview');
+  </script>
+
+    </div>
+  
+
+<script src="https://js-agent.newrelic.com/nr-361.min.js"></script></body></html>
