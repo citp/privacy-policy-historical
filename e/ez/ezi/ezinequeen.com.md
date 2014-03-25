@@ -1,76 +1,99 @@
-> *The following text is extracted and transformed from the ezinequeen.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222160335id_/http%3A//www.alibrown.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezinequeen.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325153325id_/http%3A//alibrown.com/pdf/Privacy-Policy.pdf) for the most accurate reproduction.*
 
-# Privacy Policy | Ali Brown
+# 
 
-**Privacy Policy**
+                                              Privacy Policy
+What information do we collect?
+We collect information from you when you register on our site, place an order, subscribe to our
+newsletter, respond to a survey or fill out a form.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name,
+e-mail address, mailing address, phone number or credit card information. You may, however,
+visit our site anonymously.
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART
+cookie enables it to serve ads to our users based on their visit to our sites and other sites on the
+Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content
+network privacy policy.
+What do we use your information for?
+Any of the information we collect from you may be used in one of the following ways:
+; To improve our website
+We continually strive to improve our website offerings based on the information and feedback we
+receive from you.
+; To improve customer service
+Your information helps us to more effectively respond to your customer service requests and
+support needs.
+; To process transactions
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to
+any other company for any reason whatsoever, without your consent, other than for the express
+purpose of delivering the purchased product or service requested.
+; To administer a contest, promotion, survey or other site feature
+; To send periodic emails
+The email address you provide for order processing, may be used to send you information and
+updates pertaining to your order, in addition to receiving occasional company news, updates,
+related product or service information, etc.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include
+detailed unsubscribe instructions at the bottom of each email.
+              Ali International LLC | 20701 N. Scottsdale Rd., Ste 107-412, Scottsdale, AZ 85255
+   Toll-free: 888-484-5559 | Fax: 877-742-8056 | Email: Info@AliBrown.com | © 2014 Ali International LLC
 
-Ali International LLC (“AI”) is committed to providing information and activities relating to Ali Brown on the AliBrown.com and related websites (the “Site”). Our content includes information about Ali Brown and her various endeavors, products, events, photos, video and interactivity with our users and also provides links to other Ali Brown sites. While we encourage the interactive nature of our website, we strive to promote the online safety and privacy of our users. 
 
-We have implemented this Privacy Policy governing the personally identifiable information (“Personal Consumer Information”) collected by this Site. This Privacy Policy does not govern Personal Consumer Information collected from any other source or in any other manner. 
+How do we protect your information?
+We implement a variety of security measures to maintain the safety of your personal information
+when you place an order or enter, submit, or access your personal information.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via
+Secure Socket Layer (SSL) technology and then encrypted into our Database to be only
+accessed by those authorized with special access rights to our systems, and are required to keep
+the information confidential.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.)
+will be kept on file for more than 60 days in order to process recurring transactions.
+Do we use cookies?
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard
+drive through your Web browser (if you allow) that enables the sites or service providers systems
+to recognize your browser and capture and remember certain information.
+We use cookies to help us remember and process the items in your shopping cart, keep track of
+advertisements and compile aggregate data about site traffic and site interaction so that we can
+offer better site experiences and tools in the future.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent,
+or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn
+your cookies off, some of our services may not function properly. However, you can still place
+orders over the telephone or by contacting customer service.
+Do we disclose any information to outside parties?
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable
+information. This does not include trusted third parties who assist us in operating our website,
+conducting our business, or servicing you, so long as those parties agree to keep this information
+confidential. We may also release your information when we believe release is appropriate to
+comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
+However, non-personally identifiable visitor information may be provided to other parties for
+marketing, advertising, or other uses.
+Third party links
+Occasionally, at our discretion, we may include or offer third party products or services on our
+website. These third party sites have separate and independent privacy policies. We therefore
+have no responsibility or liability for the content and activities of these linked sites. Nonetheless,
+we seek to protect the integrity of our site and welcome any feedback about these sites.
+              Ali International LLC | 20701 N. Scottsdale Rd., Ste 107-412, Scottsdale, AZ 85255
+   Toll-free: 888-484-5559 | Fax: 877-742-8056 | Email: Info@AliBrown.com | © 2014 Ali International LLC
 
-Overview
 
-This Privacy Policy is intended to provide you with information as to: (i) the type of information that is collected, (ii) how collected information is used and with whom it is shared; (ii) how we intend to protect the information; and (iii) how you can access, modify and/or delete such information. 
-
-Opt in or Opt out
-
-If you "opt in" to receive information from us or others, you can change your mind later. If, at any time, you would like to stop receiving such information or opt out of a feature, you may notify us here. You should be aware, however, that it is not always possible to completely remove or modify information in our databases and servers, although we will always make reasonable efforts to do so upon your request, and we are unable to have your information removed from the records of any third party who has been provided with your information in accordance with this policy.
-
-Collection of Information
-
-Information You Provide to Us: We may collect information about you when you visit and interact with this Site. Some of this information may be automatically collected, and some is collected when you interact with the Site. The type of information that may be automatically collected may include date and time of access of the Site, the Internet protocol address of the computer that you are using, the domain and host from which you access the Internet, your browser software and operating system, and the specific activities you are engaged in while visiting the Site. 
-
-Information from which you can be personally identified may also be collected by us at the Site, including your name, postal address, email address, telephone number, and credit card number (referred to as “Personal Consumer Information”) and/or any other identifier that permits the physical or online contacting of you in connection with your use of, or participation in any of the following: membership registration at alibrown.com, contests, sweepstakes, promotions, surveys, forums, subscription registrations, content submissions, chats, bulletin boards, discussion groups, requests for suggestions, visitors' requests for free products or services or additional information (including via e-mail to us) and in connection with other activities, services or resources we make available on any of our Sites. In all these cases, we will collect personal consumer information from you only if you voluntarily submit such information to us. Further, “AI” may contact you based on the information you provide online whether in connection with your registration or in such places as the above described forums.
-
-Of course, you may choose not to provide certain information to us, but if so, you may not be able to participate in certain of the activities and transactions available at the Site. 
-
-Use of “Cookies” and Other Technologies: We may use “cookies” and/or other technologies or files (collectively, “cookies”) to identify how visitors make use of this Site. This aggregate tracking information may be used to help us improve and enhance the website experience for all of our visitors. If you would prefer not to have such cookies stored on your computer, you may modify your browser settings to reject most cookies, or manually remove cookies that have been placed on your computer. However, by so rejecting the cookies, you may be unable to fully access the offerings on this Site.
-
-Electronic Communication: When you communicate with us electronically, via e-mail, when opting to receive our ezine or otherwise, you consent to our use of the information you have provided, and you further consent to receive electronic communications from us and our affiliated entities. If you would prefer not to receive such communications, you can opt out of our email lists by either clicking on the “opt out” line at the bottom of the email, or by emailing us directly [here](https://web.archive.org/web/20101222160335id_/http%3A//www.alibrown.com/node/7).
-
-Shopping  
-When you seek to shop for Ali Boutique products on this Site, you will be routed to a separate website, [www.aliboutique.com](http://www.aliboutique.com/ "www.aliboutique.com") (the “Ali Boutique”). The Ali Boutique may collect information about its users to help improve your shopping experience or to make occasional store offers for which you may be interested.
-
-Security of Information  
-We maintain reasonable standards of confidentiality and security for this Site and for the Personal Consumer Information collected from this Site. The Personal Consumer Information you provide is secured using industry standard e-commerce security technology. We also restrict our own employees’ access to Personal Consumer Information. However, it is possible that someone may intercept or access communications, transmissions and/or Personal Consumer Information. You must also seek to protect against unauthorized access to any information that you use in connection with this website, and you should remember to close the browser once you have completed your activities on the Site or if you have decided to step away from your computer. In the event that we determine that there has been a security breach resulting the unauthorized disclosure of Personal Consumer Information to a third party, we will notify consumers whose Personal Consumer Information has been so disclosed by posting such information on the Site and, if email contact is possible, then we would send an email advising of the status. 
-
-Use and Sharing of Information
-
-Sharing of Personal Consumer Information  
-Except as otherwise provided in this policy, we reasonably attempt to ensure that we never intentionally disclose any personal consumer information about you as an individual user to any third party without having received your permission (through opting in or similar procedures) except as provided for herein or otherwise as permitted or required under law.
-
-We have the following exceptions to this policy: We will release specific information about you or your account to comply with any valid legal inquiry or process such as a search warrant, subpoena, statute or court order. We will also release specific information in special cases, such as if there is an attempted breach of the security of the Sites or a physical or property threat to you or others. We may also transfer user information, including personal consumer information, in connection with a corporate merger, consolidation, the sale of related assets or corporate division or other fundamental corporate change. We may provide access to your personal consumer information to our contractors who are performing services for us in connection with our Sites or the services that you have requested.
-
-In addition, on occasion, we may collect personal consumer information from you in connection with optional contests, special offers or promotions. We will share such information with necessary third parties for the purpose of carrying out the contest, special offer or promotion. Your participation in the contest, special offer or promotion constitutes your consent to such disclosure and use of such information.
-
-Further, the information you enter when making a purchase will be shared with payment processors, financial gateways and your credit card company to authorize credit card payments. Such information may also be shared with necessary third parties solely for the purpose of carrying out the transactions.
-
-Also, personal information that you submit in connection with The Ali Magazine may be shared with the company that fulfills the magazine subscriptions.
-
-Please note that if you give out personal information online—for example, on one of our public forums such as a message board — that information can be collected and used by third parties. Although we strive to protect our users' privacy, we cannot guarantee the security of information you post in these forums and have no control over how such third parties may use your information. You disclose such information at your own risk.
-
-You are responsible for maintaining the confidentiality of your information and password. You shall be responsible for all uses of your registration, whether or not authorized by you. You agree to immediately notify us of any unauthorized use of your registration or password.
-
-Sharing of User Content on the Site  
-When users send us stories, photos and/or other User Content, these materials may be posted on our Site. We will not return any materials, such as photographs, once they have been sent to us.
-
-Accessing Your Information  
-You may update and/or correct the Personal Consumer Information collected on the Site, or seek to have such information deleted from our records, by emailing us here.
-
-Linked Sites  
-From time to time, the AliBrown.com website may contain links to other websites that are not controlled and/or maintained by “AI”. Please be aware that these other websites may have different privacy policies which may subject you to different privacy practices. Please review the privacy policies of such other websites for information concerning what information is collected on such sites and how it is used.
-
-Changes in Policy  
-From time to time, this Privacy Policy may change. We will post changes to the Privacy Policy at this Site. Please review this Privacy Policy often so that you will remain abreast of AI’s current policies, including our policies concerning the gathering and use of information that may be collected on our Site.
-
-This Privacy Policy was last updated on 5/21/09 and is effective immediately.
-
-Contact Us
-
-If you have any questions concerning this Privacy Policy, please send us an email here
-
-Governing Law
-
-This Privacy Policy shall be governed by the laws of the State of California, without regard to its conflict of law provisions. Any dispute concerning this Privacy Policy or your use of this Site shall be submitted to binding arbitration in California within one (1) year from the date that the cause of action arose (or, if multiple cause of actions are involved, from the date that the first cause of action arose), with such arbitration conducted pursuant to the then prevailing rules of the American Arbitration Association. To the fullest extent permitted by law, no arbitration brought pursuant hereto shall be joined to any other action or any other arbitration initiated pursuant hereto. If any portion of this Privacy Policy is deemed unenforceable, unlawful or void by a Court of competent jurisdiction, then that portion of the Privacy Policy will be deemed severable and will not affect the enforceability or validity of the remaining portions of this Privacy Policy.
-
-Copyright 2009 Ali International LLC. All rights reserved.
+Childrens Online Privacy Protection Act Compliance
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act),
+we do not collect any information from anyone under 13 years of age. Our website, products and
+services are all directed to people who are at least 13 years old or older.
+Terms of Service
+Please also visit our Terms of Service section establishing the use, disclaimers, and limitations of
+liability governing the use of our website at
+http://AliBrown.com/pdf/Terms-of-Service.pdf.
+Your Consent
+By using our site, you consent to our web site privacy policy.
+Changes to our Privacy Policy
+If we decide to change our privacy policy, we will update the Privacy Policy modification date
+below.
+This policy was last modified on 01/01/2014.
+Contacting Us
+If there are any questions regarding this privacy policy you may contact us using the information
+below.
+http://www.AliBrown.com
+20701 N. Scottsdale Road, Ste. 107-412
+Scottsdale, AZ 85255
+Legal@AliBrown.com
+888-484-5559
+               Ali International LLC | 20701 N. Scottsdale Rd., Ste 107-412, Scottsdale, AZ 85255
+    Toll-free: 888-484-5559 | Fax: 877-742-8056 | Email: Info@AliBrown.com | © 2014 Ali International LLC
