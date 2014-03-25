@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realme.govt.nz privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815173717id_/https%3A//www.realme.govt.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realme.govt.nz privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325025034id_/https%3A//www.realme.govt.nz/privacy) for the most accurate reproduction.*
 
 # Privacy - RealMe
 
@@ -126,17 +126,17 @@ We have procedures in place to prevent loss, unlawful access, use, modification,
 
 Going to the RealMe login service generates session (non-persistent) cookies that you can find on your PC under the following names:
 
-  * JSESSIONID
+  * PRD_JSESSIONID
   * GLS
   * BROWSER_ID
-  * CLIENT_KEY
+  * PRD_CLIENT_KEY
 
 
 
 When you use RealMe to verify your identity (with DIA's igovt identity verification service) or your address (with NZ Post's Address Verification Service), RealMe will also generate session (non-persistent) cookies that you can find on your PC under these names:
 
   * REALME_ACCOUNT
-  * JSESSIONID
+  * PRD_JSESSIONID
 
 
 
