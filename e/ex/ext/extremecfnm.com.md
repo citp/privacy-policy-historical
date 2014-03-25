@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the extremecfnm.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806024750id_/http%3A//www.extremecfnm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremecfnm.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325200743id_/http%3A//www.extremecfnm.com/privacy.html) for the most accurate reproduction.*
 
 # ExtremeCFNM.com - Privacy Policy
 
-## Last updated: 9th June 2008
+## Last updated: 9th June 2013
 
 Privacy policy statement for casual visitors to our website, we do not collect any information regarding domains, email addresses, or any other personal details.
 
@@ -30,7 +30,7 @@ Registered users may opt-out of receiving future mailings; see the choice/opt-ou
 
 ## Security
 
-All Payments from this site are made via either [VXSBill](http://www.vxsbill.com/) or [CCBill](http://www.ccbill.com/). When you make a purchase you will be taken to a secure server. Depending on your web browser you will see a small padlock that informs you that your information is encrypted and you are on a secure server (SSL). Also, in the address bar the URL should start with "https://". VXSBill and CCBill only use the highest level of Internet security. At no time will your information be in any danger of theft.
+All Payments from this site are made via [CCBill](http://www.ccbill.com/). When you make a purchase you will be taken to a secure server. Depending on your web browser you will see a small padlock that informs you that your information is encrypted and you are on a secure server (SSL). Also, in the address bar the URL should start with "https://". VXSBill and CCBill only use the highest level of Internet security. At no time will your information be in any danger of theft.
 
 ## Public forums
 
