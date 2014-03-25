@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the regionup.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423085339id_/https%3A//www.regionup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regionup.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325231620id_/https%3A//www.regionup.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Singapore Jobs-Hong Kong Jobs | Find US100K+ Jobs in Asia. RegionUP
 
-Privacy Policy
+## Privacy Policy
 
 This "Privacy Policy" is part of the Terms of Use for RegionUP and its associated Websites (collectively, the "Website"). This Privacy Policy covers the Website and is designed to assist You in understanding how We will use the information You provide when You use the Website, as well as how We will use other information that We collect based on that use. By using the Website, You consent to the information collection and use practices described in this Privacy Policy. If You do not accept and agree to the terms of this Privacy Policy, You are not authorized to use the Website or the services provided therein.
 
@@ -10,15 +10,26 @@ This "Privacy Policy" is part of the Terms of Use for RegionUP and its associate
 
 Please read this Privacy Policy to learn more about the ways in which we collect, use and protect Your Personal Information. If we make any material changes to this Privacy Policy, we will notify You in accordance with the process described in the Terms of Use. 
 
+Consent
+    By registering on this website, you signify your consent to us collecting and using your personal information for the purposes described here. Should there be a change to our Privacy Policy, we will notify you of those changes both here in our privacy policy, and by email or by notice on our home page if identifiable personal data is involved so that you may make an informed decision and keep your account settings up to date.
+
 Disclosure of Personal Information
     We do not sell or rent Your Personal Information to third parties for the purposes of marketing the products or services provided by those third parties to You. We use other third parties to provide web analytics on our Website. When You sign up for RegionUP, we will share aggregate click data as necessary for the third party to provide that service. Although we may disclose aggregated information about the use of our Website, that information does not contain Personal Information. We may share Personal Information with our contractors and service providers solely for the purpose of maintaining, enhancing, or adding to the functionality of the Website. In the case of criminal investigations, including but not limited to fraud or alleged illegal activity, we may share Your Personal Information with law enforcement, government, and/or credit card issuing banks.
 
 As RegionUP continues to develop its business, RegionUP might sell or buy lines of business or assets. If all or substantially all of RegionUP's business (or a line of business) or assets (or the assets of a line of RegionUP's business) are acquired by a third party, Personal Information of RegionUP users will generally be one of the transferred business assets. We reserve the right to include Your collected Personal Information and other information we collect as described herein as an asset in any such transfer to a third party. 
 
 Information We Collect and How We Use That Information
-    Our basic registration forms require Users to provide contact information, including full name, email address, and career-related information. We use this information to contact You about the services on our Website in which You have expressed interest. Should You choose to purchase services, Your credit card information will be stored. We use Your credit card information for billing purposes only. If we have trouble processing Your order, we will use Your contact information to contact You.
+    Our basic registration forms require Users to provide contact information, including full name, email address, and career-related information. We use this information to contact You about the services on our Website in which You have expressed interest. Should You choose to purchase services, Your credit card information will be stored by our third party payment processor. We use Your credit card information for billing purposes only. If we have trouble processing Your order, we will use Your contact information to contact You.
 
-Sensitive information such as credit card information will be kept completely private.
+Sensitive information such as credit card information will be kept completely private by our third party payment processor.
+
+Resumes: By registering on this website and providing us with your personal contact details and resume, You expressly consent to the collection and use of this personal information in accordance with this policy. 
+
+When your profile is activated for search, your resume is viewable by recruiters. A recruiter, whether a direct hiring company or 3rd party recruiter may obtain your contact details provided during your registration by clicking on your profile and downloading your contact number. By activating your profile and making it searchable, you hereby consent to provide your contact details to recruiters using the Website.
+
+We do our best to ensure that the ability to contact individuals in the resume database is restricted to bona-fide clients such as recruiters, hiring managers, and HR professionals. However, we are not responsible if some other third party posing as a bona-fide recruiter becomes a client, gains access to the resume database and subsequently contacts you. You may remove your resume(s) from our database at any time. However you should note that current or former clients of RegionUP may have retained a copy of your resume in their own files or databases. We are not responsible for the retention, use or privacy of this resume in these circumstances.
+
+Should you not want to be contacted by potential employers or 3rd party recruiters, you may adjust your privacy settings [here](https://web.archive.org/settings/scout/).
 
 Should You post a resume, the amount of information You choose to keep confidential is entirely up to Your discretion. You may enter as much or as little information as You choose. All information posted will only be visible to recruiters and companies seeking employees. All recruiters are believed by RegionUP to be legitimately seeking applicants for available positions.
 
@@ -75,4 +86,4 @@ Contact Information
 
 This Privacy Policy is effective since January 1, 2012.
 
-Last updated: October 17, 2012
+Last updated: November 27, 2013
