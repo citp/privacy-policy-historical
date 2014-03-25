@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techtimes.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128095808id_/http%3A//www.techtimes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techtimes.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325031119id_/http%3A//www.techtimes.com/privacypolicy) for the most accurate reproduction.*
 
-# Techtimes
+# Tech Times
 
 **1\. Purpose of this Privacy Policy:** This privacy policy describes how Tech Times treats the personally identifiable information that is collected about you when you visit the www.techtimes.com Web site. This policy also describes our treatment of personally identifiable information about you that our partners may share with us.
 
