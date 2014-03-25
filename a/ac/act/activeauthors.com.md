@@ -1,112 +1,110 @@
-> *The following text is extracted and transformed from the activeauthors.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629073922id_/http%3A//www.amazon.com/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D468496) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activeauthors.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325032112id_/http%3A//www.activeauthors.com/page/40/privacy-policy) for the most accurate reproduction.*
 
-# Amazon.com Help: Privacy Notice
+# Privacy Policy :: ActiveAuthors.com
 
-|  **Amazon.com Privacy Notice**
-
-**Last updated: April 6, 2012.** To see what has changed, [click here](https://web.archive.org/gp/browse.html/ref=hp_468496_changes?node=16015091).
-
-Amazon.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting Amazon.com, you are accepting the practices described in this Privacy Notice.**
-
-  * What Personal Information About Customers Does Amazon.com Gather?
-  * [What About Cookies?](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_cookies?nodeId=468496&#cookies)
-  * [Does Amazon.com Share the Information It Receives?](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_share?nodeId=468496&#share)
-  * [How Secure Is Information About Me?](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_secure?nodeId=468496&#secure)
-  * [What About Third-Party Advertisers and Links to Other Websites?](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_third_party?nodeId=468496&#third_party)
-  * [Which Information Can I Access?](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_acess?nodeId=468496&#access)
-  * [What Choices Do I Have?](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_choices?nodeId=468496&#choices)
-  * [Are Children Allowed to Use Amazon.com?](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_children?nodeId=468496&#children)
-  * [Does Amazon.com Participate in the Safe Harbor Program?](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_harbor?nodeId=468496&#harbor)
-  * [Conditions of Use, Notices, and Revisions](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_conditions?nodeId=468496&#conditions)
-  * [Examples of Information Collected](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_examples?nodeId=468496&#examples)
-
- **What Personal Information About Customers Does Amazon.com Gather?**
-
-The information we learn from customers helps us personalize and continually improve your Amazon experience. Here are the types of information we gather. 
-
-  * **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. Click here to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you. 
-  * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Amazon.com or advertisements and other content served by or on behalf of Amazon.com on other Web sites. Click here to see examples of the information we receive. 
-  * **Mobile:** When you download or use [apps created by Amazon](http://www.amazon.com/gp/feature.html?&docId=1000511451) or our subsidiaries, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content. Most mobile devices allow you to turn off location services. For more information about how to do this, [click here](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_lbs10?nodeId=468496#lbs).
-  * **E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Amazon.com if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your [Customer Communication Preferences](https://web.archive.org/gp/gss/ccp/ref=hp_468496_ccp). 
-  * **Information from Other Sources:** We might receive information about you from other sources and add it to our account information. Click here to see examples of the information we receive. 
-
-**What About Cookies?**  
+|    
+---  
+  
+  
 
 
-  * Cookies are unique identifiers that we transfer to your device to enable our systems to recognize your device and to provide features such as [1-Click](https://web.archive.org/gp/browse.html/ref=hp_468496_1click?node=468480) purchasing, [Recommended for You](http://www.amazon.com/gp/yourstore/nr/ref=hp_468496_recommended), personalized advertisements on other Web sites (e.g., Amazon Associates with content served by Amazon.com and Web sites using Checkout by Amazon payment service), and storage of items in your Shopping Cart between visits. 
-  * The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of Amazon.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Amazon.com products and services that require you to Sign in. 
+  
+This privacy policy discloses the privacy practices for S3 Stores, Inc. websites. 
 
-**Does Amazon.com Share the Information It Receives?**  
-Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Amazon.com, Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. 
+We take our obligations with regard to your personal information seriously, and have created this privacy policy to inform you of the information gathering and dissemination practices of this website. In wishing to demonstrate our commitment to your privacy, we have agreed to disclose our information-collecting practices and to notify you of: 
 
-  * **Affiliated Businesses We Do Not Control:** We work closely with affiliated businesses. In some cases, such as Marketplace sellers, these businesses operate stores at Amazon.com or sell offerings to you at Amazon.com. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. Click here for some examples of co-branded and joint offerings. You can tell when a third party is involved in your transactions, and we share customer information related to those transactions with that third party. 
-  * **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
-  * **Promotional Offers:** Sometimes we send offers to selected groups of Amazon.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your [Customer Communication Preferences](https://web.archive.org/gp/gss/ccp/ref=hp_468496_ccp2). 
-  * **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Amazon.com, Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
-  * **Protection of Amazon.com and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our [Conditions of Use](https://web.archive.org/gp/browse.html/ref=hp_468496_conditions?node=508088) and other agreements; or protect the rights, property, or safety of Amazon.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice. 
-  * **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
+  1. what personally identifiable information (or third party personally identifiable information) of yours is collected from you through our website
+  2. the organization collecting the information
+  3. how the information is used
+  4. with whom the information may be shared
+  5. what choices are available to you regarding collection, use and distribution of the information
+  6. the kind of security procedures that are in place to prevent the loss, misuse or alteration of information under S3 Stores, Inc. control
+  7. how you can correct any inaccuracies in the information.
 
-**How Secure Is Information About Me?**  
+If you feel that S3 Stores, Inc. is not abiding by its posted privacy policy, please contact us. 
+
+## Information Collection and Use
+
+S3 Stores, Inc. is the sole owner of the information we collect on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this policy statement. S3 Stores, Inc. collects information from our users at several different points on this website. 
+
+## Membership
+
+When you make a purchase on our website, you choose to become a member. You provide the following information to S3 Stores, Inc.: 
+
+  * Your name
+  * Your email address
+  * Your billing and shipping address
+  * Your telephone number
+  * Your form of payment
+  * You choose your own member identification and password to use for all future purchases on the site. 
+  * You choose whether or not you would like to receive electronic mailings from S3 Stores, Inc.
 
 
-  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
-  * We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
-  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. [Click here](https://web.archive.org/gp/browse.html/ref=hp_468496_signoff?node=515722) for more information on how to sign off.
 
-**What About Third-Party Advertisers and Links to Other Websites?**
+## Ordering
 
-Our site includes third-party advertising and links to other Web sites. For more information about third-party advertising at Amazon.com, including personalized or interest-based ads, please read our [Interest-Based Ads](http://www.amazon.com/interestbasedads) policy.
+We request information from the user on our order form when making a purchase. Here, a user must provide his/her contact and other information, (name and shipping address, shipping information, and form of payment). This information is used for billing purposes and to fill the customer's order. If we have difficulty processing an order, this contact information is used to get in touch with the customer. 
 
-**Which Information Can I Access?**  
-Amazon.com gives you access to a broad range of information about your account and your interactions with Amazon.com for the limited purpose of viewing and, in certain cases, updating that information. Click here to see some examples, the list of which will change as our Web site evolves. **What Choices Do I Have?**  
+## Sharing
 
+S3 Stores, Inc. does not share your private information with other companies. However, we may use an outside shipping company to ship orders, and use a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. These companies may collect additional information if needed to provide you with the requested services. 
 
-  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Amazon.com features as [Your Profile](https://web.archive.org/gp/pdp/ref=hp_468496_profile), [Wish Lists](https://web.archive.org/gp/registry/wishlist-homepage.html/ref=hp_468496_wishlist), [Customer Reviews](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_reviews10?nodeId=200791000), and [Amazon Prime](https://web.archive.org/gp/browse.html/ref=hp_468496_prime?node=13819211). 
-  * You can add or update certain information on pages such as those referenced in the "Which Information Can I Access?" section. When you update information, we usually keep a copy of the prior version for our records. 
-  * If you do not want to receive e-mail or other mail from us, please adjust your [Customer Communication Preferences](https://web.archive.org/gp/gss/ccp/ref=hp_468496_ccp3). (If you do not want to receive [Conditions of Use](https://web.archive.org/gp/browse.html/ref=hp_468496_conditions2?node=508088) and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Amazon.com, and it is your responsibility to review them for changes.) 
-  * If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please adjust your [Advertising Preferences](http://www.amazon.com/gp/dra/info/ref=hp_468496_advertisingpref2). 
-  * The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of Amazon.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Amazon.com products and services that require you to Sign in. 
+## Cookies
 
-**Are Children Allowed to Use Amazon.com?**  
-Amazon.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Amazon.com only with the involvement of a parent or guardian. 
+S3 Stores, Inc. sites employ web browser cookies. A cookie is a piece of data stored on the user's hard drive containing information about the user. S3 Stores, Inc. uses cookies to identify your visit session for customizing your user experience, for creating web site analytical data, and for Google Display Advertising and Remarketing with Google AdWords on third party websites. We use both session and persistent cookies. The website visitor may use features of their web browser to block or delete S3 Stores, Inc. cookies, cookies used for Google AdWords, and/or cookies used for Google Display Advertising and Remarketing with Google Adwords from the user's hard drive or memory. However, by disabling cookies, certain site features and functionality may no longer work properly, and the user may not see advertising on third party websites with reminders and special offers. You can opt out of Google Display Advertising and Remarketing with Google Adwords by visiting their [website](https://support.google.com/ads/answer/2662922?hl=en/) and following the instructions presented on the page. 
 
-**Does Amazon.com Participate in the Safe Harbor Program?**  
-Amazon.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and (1) the European Union and (2) Switzerland, respectively. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and (1) the E.U. and (2) Switzerland, respectively. For more information about the Safe Harbor and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor](http://www.export.gov/safeharbor/) Web site. If you would like to contact Amazon.com directly about the Safe Harbor program, please send an e-mail to safeharbor@amazon.com. 
+## Usage Tracking
 
-**Conditions of Use, Notices, and Revisions**  
-If you choose to visit Amazon.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://web.archive.org/gp/browse.html/ref=hp_468496_conditions3?node=508088), including limitations on damages, resolution of disputes, and application of the law of the state of Washington. If you have any concern about privacy at Amazon.com, please [contact us](https://web.archive.org/gp/help/contact-us/features-and-services.html/ref=hp_468496_contactus) with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the [Conditions of Use](https://web.archive.org/gp/browse.html/ref=hp_468496_conditions4?node=508088) will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
+S3 Stores, Inc. database tracks the traffic throughout our site. This information is used to compile overall statistics and is not recorded at an individual level. This includes IP (internet protocol) addresses, browser type, ISP (internet service provider), referring/exit pages, platform type, date/time stamp, and # of clicks to analyze trends, administer the site, and track user movement in the aggregate. The statistics help us decide which products and services best serve our guests. 
 
-Related Practices and Information 
+## Aggregate Information
 
-  * [Conditions of Use](https://web.archive.org/gp/browse.html/ref=hp_468496_conditions5?node=508088)
-  * [Discussion Boards](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_discussion?nodeId=14279661)
-  * [Community Rules](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_crules?nodeId=537776)
-  * [Help department](https://web.archive.org/gp/browse.html/ref=hp_468496_help?node=508510)
-  * [Most Recent Purchases](http://www.amazon.com/your-orders)
-  * [Your Profile and Community Guidelines](https://web.archive.org/gp/browse.html/ref=hp_468496_yourprofile?node=14279631)
+S3 Stores, Inc. uses aggregate information from demographic surveys, traffic patterns and IP addresses to customize our site. Aggregate information is occasionally shared with partners of S3 Stores, Inc. to plan advertising or promotions. We do not share any personally identifiable information. 
 
-**Examples of Information Collected**
+## Surveys
 
-**Information You Give Us**
+S3 Stores, Inc. may conduct surveys and other studies of its user base and make use of the results for marketing and planning purposes. Participation in such surveys is at the user's option. We reserve the right to disclose information provided by any user through a survey, provided that no personal information identifying that user is disclosed. Circumstances under which S3 Stores, Inc. would publicly disclose aggregate information include, but are not limited to, sharing survey results with partners and/or site users, business planning, and publicizing overall usage data in press communications. 
 
-You provide most such information when you search, buy, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; place an order through Amazon.com or one of our third-party sellers; provide information in [Your Account](https://web.archive.org/gp/css/homepage.html/ref=hp_468496_youraccount) (and you might have more than one if you have used more than one e-mail address when shopping with us) or [Your Profile](https://web.archive.org/gp/pdp/profile/); communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; use our services such as [Amazon Instant Video](http://www.amazon.com/Instant-Video/b/?node=2858778011); compile [Wish Lists](https://web.archive.org/gp/registry/wishlist-homepage.html/ref=hp_468496_wishlist2) or other gift registries; participate in [Discussion Boards](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_discussion?nodeId=14279661) or other community features; provide and rate [Reviews](https://web.archive.org/gp/help/customer/display.html/?nodeId=200791000); specify a [Special Occasion Reminder](https://web.archive.org/gp/specialoccasions/alternative/ref=hp_468496_occasion); and employ Product Availability Alerts, such as Available to Order Notifications. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; people (with addresses and phone numbers) listed in [1-Click](https://web.archive.org/gp/browse.html/ref=hp_468496_1click2?node=468482) settings; e-mail addresses of your friends and other people; content of reviews and e-mails to us; personal description and photograph in [Your Profile](http://www.amazon.com/profile); and financial information, including Social Security and driver's license numbers. 
+## Newsletters, Catalogs, Etc.
 
-**Automatic Information**
+From time to time users may be given the opportunity to "opt-in" to receive site notifications, newsletters, or other information via email. Users may remove themselves from such services at their discretion. Any email sent to an "opt-in" list will include directions for how a user may remove himself or herself from the list, or a URL where the user may find such directions. If a user wishes to subscribe to our newsletter, catalog, etc., we ask for contact information such as name, street address and email address to provide these communications. Out of respect for our users' privacy we provide ways to opt-out of these communications. 
 
-Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features like [Top Sellers](http://www.amazon.com/exec/obidos/tg/new-for-you/top-sellers/-/main/ref=hp_468496_topsellers2); the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for; and the phone number you used to call our 800 number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Web site for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. We may also collect technical information to help us identify your device for fraud prevention and diagnostic purposes. 
+On rare occasions it is necessary to send out a strictly service-related announcement. For instance, if our service is temporarily suspended for maintenance we might send you an email. Generally, users may not opt-out of these communications, though you can deactivate your account. However, these communications are not promotional in nature. 
 
-**Mobile**
+## Tell-A-Friend
 
-Most mobile devices provide users with the ability to disable location services. Most likely, these controls are located in the device's settings menu. For information about specific devices, [click here](https://web.archive.org/gp/help/customer/display.html/ref=hp_468496_turnofflbs?nodeId=200903520). If you have questions about how to disable your device's location services, we recommend you contact your mobile service carrier or your device manufacturer. 
+If a user elects to use our referral service for informing a friend about us or an item on our site, we ask them for the friend's name and email address. S3 Stores, Inc. will automatically send the friend a one-time email inviting them to visit the site. We do store the friend's email and they have an option to opt-out in the communication. 
 
-**Information from Other Sources**
+## Special Request Pages
 
-Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; account information, purchase or redemption information, and page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising, or other services; search term and search result information from some searches conducted through the Web search features offered by our subsidiary, Alexa Internet; search results and links, including paid listings (such as Sponsored Links); and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers. 
+Our customers can use our special request pages to inquire about products that they cannot find on the website, for special orders for example. Personal information is gathered during this process, and is used strictly for the purposes of replying to user inquiries, billing purposes and to fill customers' orders. 
 
-**Co-branded and Joint Offerings**
+## Correcting/Updating/Deleting/Deactivating
 
-Examples of businesses with which we offer joint or co-branded products and other offerings include Starbucks, OfficeMax, American Apparel, Verizon Wireless, Sprint, T-Mobile, AT&T, J&R Electronics, PacSun, Eddie Bauer and Northern Tool + Equipment. ****
+If a user's personally identifiable information changes (such as your phone, email or address), or if a user no longer desires our services, we offer ways to correct, update or delete/deactivate that user's personally identifiable information provided to us. 
 
-**Information You Can Access**
+## Links
 
-Examples of information you can access easily at Amazon.com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications and personalized advertising preferences, address book, and 1-Click settings); payment settings (including credit card information and promotional certificate and gift card balances); e-mail notification settings (including Product Availability Alerts, Delivers, Special Occasion Reminders, and newsletters); Recommendations (including Recommended for You and Improve Your Recommendations); shopping lists and gift registries (including Wish Lists and Baby and Wedding Registries); Seller accounts; and Your Profile (including your product Reviews, Recommendations, Listmania lists, Reminders, personal profile, and Wish List).  Read our Privacy Notice here. | 
+This website contains links to other sites, whether owned or controlled by S3 Stores, Inc., or unrelated third parties. Please be aware that the privacy policies of those sites may differ from those of S3 Stores, Inc., and that we are not responsible for the privacy practices of these sites. We encourage our users to be aware when they leave our site and to read the privacy statements of every website that collects personally identifiable information. This privacy policy applies solely to information collected by S3 Stores, Inc. 
+
+## Online Security
+
+S3 Stores, Inc. takes every precaution to protect our users' information. When users submit sensitive information via our website, we take steps to protect your information both online and offline. To secure site integrity, we employ measures, including but not limited to security audits, use of encryption tools and software, and other reasonable security measures and procedures. 
+
+When a PayPal / 2CheckOut order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the standard encryption software in the industry - Secure Socket Layers (SSLs). While on a secure page, such as our order form, a lock icon appears in your Web browser. When you are not on a secure page, no lock icon will appear. 
+
+PayPal / 2CheckOut uses SSL encryption to protect sensitive information (like your credit card information) online. 
+
+## Offline Security and Privacy
+
+We do everything in our power to protect user information offline. All user information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, all employees are fully informed about our security and privacy practices and are dutifully updated as new policies are added or revised. They are regularly notified and/or reminded about the importance we place on privacy, and what they can do to ensure that customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment under restricted access. 
+
+In the event that S3 Stores, Inc. becomes aware that site security is compromised or nonpublic user information has been disclosed to unrelated third parties as a result of external activity, including but not limited to external security attacks, we shall take reasonable measures which we deem appropriate, including but not limited to internal investigation and reporting, and notification to and cooperation with law enforcement authorities, notwithstanding other provisions of this Privacy Policy. If you have any questions about security on our websites, please contact us. 
+
+## Privacy Policy Changes
+
+In the event of any changes to S3 Stores, Inc. Privacy Policy, we will post the changes to this page and other places we deem appropriate, so that our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We use information only in accordance with the privacy policy under which that information was collected. 
+
+If at any time we plan on using your personally identifiable information in a manner different from that stated in this policy at the time of collection, we will notify you via email. You will have a choice to allow or disallow us to use your information in this manner. If you have opted out of all communication with the site, or deleted/deactivated your account, you will not be contacted, nor will your personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our website notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
+
+_Last modified: 8-19-13_
