@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chef2chef.net privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205044021id_/http%3A//www.chef2chef.net/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chef2chef.net privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325185030id_/http%3A//www.chef2chef.net/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Chef 2 Chef | Chef2Chef.net
 
 [ ](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.chef2chef.net/seal_m "Validate TRUSTe privacy certification")
 
-**LAST UPDATED:  **July 31, 2012
+**LAST UPDATED:   Feb 1, 2013**
 
 **www.chef2chef.net** is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information.  This Privacy Policy describes our practices in connection with information that we collect through this website owned and controlled by us which display or link to this Privacy Policy (the “ **Site** ”).  By using our Sites, you agree to the terms and conditions of this Privacy Policy
 
