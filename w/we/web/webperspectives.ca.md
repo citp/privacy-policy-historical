@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webperspectives.ca privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531142117id_/https%3A//www.webperspectives.ca/eng/footer/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webperspectives.ca privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325233434id_/https%3A//www.webperspectives.ca/eng/footer/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy - Online surveys - CA - Web Perspectives
 
@@ -8,7 +8,7 @@ Research Now is a provider of Internet-based market research services to profess
 
 1.    Our Standards
 
-Research Now supports and strictly adheres to the standards and guidelines set out by the Canadian Marketing Research and Intelligence Association of Canada (MRIA) <http://www.mria-arim.ca/ABOUT/default.asp> and the World Association of Research Professionals (ESOMAR) [http://www.esomar.org/ ](http://www.esomar.org/)for Internet and other types of research. They can be reviewed at the websites of these associations. These standards protect the interests and privacy of respondents, and also outline our responsibilities to our clients.
+Research Now supports and strictly adheres to the standards and guidelines set out by the Canadian Marketing Research and Intelligence Association of Canada (MRIA) <http://mria-arim.ca/about-mria/what-is-mria> and the World Association of Research Professionals (ESOMAR) [http://www.esomar.org/ ](http://www.esomar.org/)for Internet and other types of research. They can be reviewed at the websites of these associations. These standards protect the interests and privacy of respondents, and also outline our responsibilities to our clients.
 
 Research Now is a licensee of the BBB Privacy Program. BBB is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.webperspectives.ca. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by BBB.
 
