@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the victorianplumbing.co.uk privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425174752id_/http%3A//www.victorianplumbing.co.uk/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victorianplumbing.co.uk privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325075334id_/http%3A//www.victorianplumbing.co.uk/Privacy.aspx) for the most accurate reproduction.*
 
 # Victorian Plumbing Privacy Policy | Victorian Plumbing UK
-
-  * [ ](http://www.victorianplumbing.co.uk/ "Victorian Plumbing")
-
-  *   *     1. Your Basket is Empty
-    2. 
-
-
-  * [](http://www.victorianplumbing.co.uk/About-Us.aspx#DelInfo)
-  *   * 
-
-
-[ Home ](http://www.victorianplumbing.co.uk/ "Victorian Plumbing Homepage") >> **Victorian Plumbing Privacy Policy**
 
 PRIVACY POLICY
 
@@ -24,7 +12,7 @@ PRIVACY POLICY
   * Buy products or services on the Website 
   * What information we collect
   * Your name and contact information including postal address, e-mail address and telephone number.
-  * Card payment details if making a purchase are collected by the bank on our secure page, this means we do not have access to, or store any card information on our system.
+  * We won't ever share your payment details with third parties. We do not store credit card details nor do we share customer details with any 3rd parties.
   * What we do with the Information
   * When you purchase from us, to process your order, enable you to track you order online, arrange delivery and for other purchase related services (this may include contacting you by telephone, email or SMS to arrange, confirm or upgrade your delivery) and for on-going customer service dealings including any faults, repairs or refunds.
   * For internal accounting and regulatory purposes
@@ -47,12 +35,13 @@ COOKIES
   * These cookies collect information about how visitors use the Website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how the Website works.
   * Functionality cookies
   * These cookies remember choices you make to improve your experience. By using the Website, you agree that we can place these types of cookies on your device.
-  * These cookies allow the Website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be made anonymousand they cannot track your browsing activity on other websites.
+  * These cookies allow the Website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be made anonymous and they cannot track your browsing activity on other websites.
   * Are cookies safe?
   * Yes, cookies are harmless text files. They can't look into your computer or read any personal information or other material on your hard drive. Cookies can't carry viruses or install anything harmful on your computer.
   * Your right to refuse cookies and what happens if you refuse them
   * You can refuse cookies by activating the relevant setting on your browser. However, if you do so you may not be able to access all or parts of our site. If you carry on using our site and do not change your browser settings we will assume you consent to us using cookies as described above.
   * You can find more information about cookies at 
   * [ www.allaboutcookies.org](http://www.allaboutcookies.org/) and [ www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+  * _We understand that customers sometimes have to leave the computer whilst shopping, and sometimes shopping baskets can be lost and your order will have to be started again. Don't worry though, we use 'cookies' to remember what you were going to buy and we'll send an email over reminding you should you wish to resume shopping._
 
 
