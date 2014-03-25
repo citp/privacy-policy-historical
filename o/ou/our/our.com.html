@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the our.com privacy policy that was archived on 2013-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131223063318id_/http%3A//www.our.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the our.com privacy policy that was archived on 2014-03-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140325031519id_/http%3A//www.our.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
         <meta charset="utf-8">
@@ -206,7 +206,7 @@
             }
             
             function _loginFormRememberSended(open, code) {
-                var messages = Array("We just sent you an email with a link so you can change your password.", "Changing of password failed. Please try again.");
+                var messages = Array("We just sent you an email with a link so you can change your password.", "The process of remember your password has failed. Please try again.");
                 if (open) {
                     if (code == 'yes') $('#resultRememberSended').html('<br/>' + messages[0]);
                     else $('#resultRememberSended').html('<br/>' + messages[1]);
@@ -279,7 +279,7 @@
                         emailToSend = emailToSend.toLowerCase();
                         // Send email via ajax
                         var sessionVarName = 'loginFormKey';
-                        $.post('http://www.our.com/usr_remember_pwd.php',{ email:emailToSend, sessionKey:7170, sessionKeyVarName:sessionVarName} ,function(data) {
+                        $.post('http://www.our.com/usr_remember_pwd.php',{ email:emailToSend, sessionKey:9752, sessionKeyVarName:sessionVarName} ,function(data) {
                              _loginFormRememberSended(true, data);
                         });
                     }
@@ -531,7 +531,7 @@
                         var fbId_param = '';
                         var fbImage_param = '';
                         var vinculateIdUser_param = '';
-                        $.post('http://www.our.com/usr_create.php',{ login:$('#registerLogin').val(), password:$('#registerPassword').val(), email:$('#registerEmail').val(), birthDate:birthDate, gender:$('[name="registerSex"]:checked').val(), sessionKey:9746, from:from, fbId:fbId_param, fbImage:fbImage_param, vinculateIdUser:vinculateIdUser_param} ,function(data) {
+                        $.post('http://www.our.com/usr_create.php',{ login:$('#registerLogin').val(), password:$('#registerPassword').val(), email:$('#registerEmail').val(), birthDate:birthDate, gender:$('[name="registerSex"]:checked').val(), sessionKey:917, from:from, fbId:fbId_param, fbImage:fbImage_param, vinculateIdUser:vinculateIdUser_param} ,function(data) {
                             if (data.indexOf('yes') == -1 && isNaN(data)) {
                                 // Registration failed !!!!
                                 messageError("There was an error registering user");
@@ -555,7 +555,7 @@
                 }
                 
                 function _RegisterLoginFormRememberSended(open, code) {
-                    var messages = Array("We just sent you an email with a link so you can change your password.", "Changing of password failed. Please try again.");
+                    var messages = Array("We just sent you an email with a link so you can change your password.", "The process of remember your password has failed. Please try again.");
                     if (open) {
                         if (code == 'yes') $('#formRegisterResultRemember').html(messages[0]);
                         else $('#formRegisterResultRemember').html(messages[1]);
@@ -608,7 +608,7 @@
                         emailToSend = emailToSend.toLowerCase();
                         // Send email via ajax
                         var sessionVarName = 'loginFormKey2';
-                        $.post('http://www.our.com/usr_remember_pwd.php',{ email:emailToSend, sessionKey:3286, sessionKeyVarName:sessionVarName} ,function(data) {
+                        $.post('http://www.our.com/usr_remember_pwd.php',{ email:emailToSend, sessionKey:7984, sessionKeyVarName:sessionVarName} ,function(data) {
                              _RegisterLoginFormRememberSended(true, data);
                         });
                     }
@@ -716,7 +716,7 @@
                 
                 $('#resendEmail').click(function() {
                     if (id_new_user > 0) {
-                        $.post('http://www.our.com/usr_send_validation_email.php',{ userId:id_new_user, sessionKey:451} ,function(data) {
+                        $.post('http://www.our.com/usr_send_validation_email.php',{ userId:id_new_user, sessionKey:2260} ,function(data) {
                             if (data == 'yes') {
                                 // Email sended
                                 $('#responsenolocate2').html(message_email_sended + ' ' + email_new_user);
@@ -853,6 +853,7 @@
                     <a href="http://www.our.com/faq/">Help</a>
                     <a href="http://www.our.com/privacy/">Privacy Policy</a>
                     <a href="http://www.our.com/terms/">Terms of use</a>
+                    <a href="http://aff.our.com/en/" target="_blank">Affiliates</a>
                 </div>
                 <div id="footerFlags">
                     <a href="javascript:changeLang('en');"><img src="http://cdn.our.com/img/web/common/flag_en.png"></a>
@@ -882,7 +883,8 @@
                             <div><label class="labelField" for="registerEmail">email</label><input type="text" name="registerEmail" id="registerEmail" value=""><div id="registerEmailCondition" class="condition"></div></div>
                             <div class="birthdayFields">
                                 <div class="selectYear"><select name="registerBirthYear" id="registerBirthYear">
-                                    <option value="1999">1999</option>
+                                    <option value="2000">2000</option>
+<option value="1999">1999</option>
 <option value="1998">1998</option>
 <option value="1997">1997</option>
 <option value="1996">1996</option>
@@ -948,7 +950,6 @@
 <option value="1936">1936</option>
 <option value="1935">1935</option>
 <option value="1934">1934</option>
-<option value="1933">1933</option>
 
                                 </select></div>
                                 <div class="selectMonth"><select name="registerBirthMonth" id="registerBirthMonth">
