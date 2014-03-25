@@ -1,41 +1,42 @@
-> *The following text is extracted and transformed from the zoofashions.com privacy policy that was archived on 2012-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120811035258id_/http%3A//www.zoofashions.com/page/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoofashions.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325230246id_/http%3A//www.zoofashions.com/page/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # ZOOfashions - Privacy Policy
 
+  
 ZOOFashions.com respects your concerns about privacy and follows strict procedures to protect customer information and ensure that your personal information is handled in a responsible manner. We do not disclose information you provide to third parties.
 
-We collect information from you when you register on our site, place an order or subscribe to our newsletter. 
+We collect information from you when you register on our site, place an order or subscribe to our newsletter.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
-  * To personalize your experience   
+  * To personalize your experience  
 (your information helps us to better respond to your individual needs)
 
 
-  * To improve our website   
+  * To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
 
-  * To improve customer service   
+  * To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
 
-  * To process transactions   
+  * To process transactions  
 Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
 
-  * To administer a contest, promotion, survey or other site feature. 
+  * To administer a contest, promotion, survey or other site feature.
 
 
   * To send periodic emails  
-The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.   
+The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.  
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
   * How do we protect your information?  
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
 We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorised with special access rights to such systems, and are required to keep the information confidential.
 
@@ -48,7 +49,7 @@ Yes (Cookies are small files that a site or its service provider transfers to yo
 
 We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-Do we disclose any information to outside parties? 
+Do we disclose any information to outside parties?
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
@@ -56,15 +57,15 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 By using our site, you consent to our websites privacy policy.
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
 This policy was last modified on 28th March 2011
 
-If you require further information about our Privacy Policy, please go to the Contact Us section of the web site and send an email. If you wish to talk to a ZOOFashions.com customer care representative please call +44 (0)20 8514 1595 or write to: 
+If you require further information about our Privacy Policy, please go to the Contact Us section of the web site and send an email. If you wish to talk to a ZOOFashions.com customer care representative please call +44 (0)20 8514 1595 or write to:
 
 ZOOFashions.com,  
-222-224 High Road,   
-Ilford,   
-Essex,   
-IG1 1QF,   
+222-224 High Road,  
+Ilford,  
+Essex,  
+IG1 1QF,  
 United Kingdom
