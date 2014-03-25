@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the izidresses.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809211224id_/http%3A//www.izidresses.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the izidresses.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325183802id_/http%3A//www.izidresses.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy at IZIDRESSES.com
 
 ### Privacy Policy
 
@@ -31,3 +31,7 @@ Izidresses.com tracks user IP addresses for the purposes of systems administraio
 Policy Changes and Questions
 
 Izidresses.com may update our privacy policy from time to time and use of the information we collect now is subject to the privacy policy in effect at the time of use.Whenever we make a change,we will post the updated policy at this site and we encourage you to check our policy periodically.By using our website following the posting of a change in the privacy policy,you consent to the updated policy. If you have any questions or concerns regarding our privacy policy,please contact us.
+
+Choice and Opt-Out
+
+If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at service@izidresses.com.
