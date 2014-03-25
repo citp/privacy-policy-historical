@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linexdown.net privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403024211id_/http%3A//www.linexdown.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linexdown.net privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325062438id_/http%3A//www.linexdown.net/privacy_policy.html) for the most accurate reproduction.*
 
 # LinexDown.Com Privacy Policy
 
