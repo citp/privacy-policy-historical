@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the singaporewritersfestival.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205183232id_/http%3A//www.singaporewritersfestival.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singaporewritersfestival.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325022711id_/https%3A//www.singaporewritersfestival.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Singapore Writers Festival 2013
+# Privacy Policy | Singapore Writers Festival
 
 ###### GOVERNMENT OF SINGAPORE PRIVACY STATEMENT
 
