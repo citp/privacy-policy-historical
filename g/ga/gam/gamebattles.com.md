@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamebattles.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222071556id_/https%3A//accounts.majorleaguegaming.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamebattles.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325230604id_/https%3A//accounts.majorleaguegaming.com/privacy_policy) for the most accurate reproduction.*
 
 # MLG Account Management - MLG - Major League Gaming
 
@@ -98,11 +98,11 @@ All unsubscribe requests should be sent to us at remove@mlgpro.com and we will p
 
 **Services Terms of Use.**
 
-Use of the Services, including this Website, is governed by and subject to the Major League Gaming [Terms of Use](https://accounts.majorleaguegaming.com/terms_of_services/1).  Your use, or access of the Services, constitutes your agreement to be bound by this privacy policy and the Major League Gaming Terms of Use. 
+Use of the Services, including this Website, is governed by and subject to the Major League Gaming [Terms of Use](https://accounts.majorleaguegaming.com/terms_of_service).  Your use, or access of the Services, constitutes your agreement to be bound by this privacy policy and the Major League Gaming Terms of Use. 
 
   
 **How to Contact Us.**  
-If you have any questions or concerns about this privacy policy you may [contact us](http://www.mlgpro.com/contact) through the Website or write to the following address:  
+If you have any questions or concerns about this privacy policy you may [contact us](https://support.majorleaguegaming.com/) through the Website or write to the following address:  
 Major League Gaming
 
 3 Park Avenue, 32nd Floor  
