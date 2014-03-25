@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itison.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616132759id_/https%3A//www.itison.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itison.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325224959id_/https%3A//www.itison.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy – itison
 
@@ -62,4 +62,4 @@ Glasgow
 G1 3LB  
 United Kingdom
 
-If you have any queries concerning your personal information or any questions on our use of the information, please contact our [support@itison.com](mailto:support@itison.com) or call 0141 222 2266.
+If you have any queries concerning your personal information or any questions on our use of the information, please contact our [support@itison.com](mailto:support@itison.com) or call 0141 223 8843.
