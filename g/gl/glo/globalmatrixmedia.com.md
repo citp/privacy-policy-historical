@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalmatrixmedia.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906013028id_/http%3A//www.globalmatrixmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalmatrixmedia.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325065418id_/http%3A//www.globalmatrixmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Global Matrix Media
 
@@ -76,4 +76,4 @@ Sunrise, FL 33326**
 
 This privacy policy was last updated on 04-15-2010.
 
-Copyright © 2008-2010 Global Matrix Media Inc. 
+Copyright © 2010-2013 Global Matrix Media Inc. 
