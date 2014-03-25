@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westsiderentals.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007055709id_/http%3A//www.westsiderentals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westsiderentals.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325225955id_/http%3A//www.westsiderentals.com/privacy) for the most accurate reproduction.*
 
 # Apartment Rentals in Los Angeles, Orange County and San Diego
 
@@ -62,7 +62,7 @@ Westsiderentals.com may disclose account information in special cases when we ha
 
 If you choose not to register or provide personal information, you can still use most of the services provided by Westsiderentals.com, but you will not be able to access areas or use features that require registration. 
 
-You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those services and features of Westsiderentals.com that require registration in order to participate. These services include the identification of new vacancies that have been posted since your last visit, auto- filling of the logon form, and the clipboard feature. You can still use most of the features of Westsiderentals.com even if you do not accept cookies. 
+You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those services and features of Westsiderentals.com that require registration in order to participate. These services include the identification of new vacancies that have been posted since your last visit, auto- filling of the logon form, and the Favorites feature. You can still use most of the features of Westsiderentals.com even if you do not accept cookies. 
 
 ##  How you can access, update or delete your information 
 
