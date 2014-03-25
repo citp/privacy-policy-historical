@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gowildcasino.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624013714id_/http%3A//www.gowildcasino.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowildcasino.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325194116id_/http%3A//www.gowildcasino.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Secure Casino Games | Top Secure Gambling Websites Online | Go Wild
 
@@ -80,4 +80,4 @@ GoWild reserves the right to charge a reasonable fee for supplying copies of suc
   
 
 
-## Email contacts
+## E-mail Contacts
