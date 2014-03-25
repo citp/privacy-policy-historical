@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bettymills.com privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829033329id_/http%3A//support.bettymills.com/customer/portal/articles/347006-privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettymills.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325230717id_/http%3A//support.bettymills.com/customer/portal/articles/347006-privacy-security) for the most accurate reproduction.*
 
 # The Betty Mills Company | Privacy and Security
 
@@ -30,8 +30,20 @@ You can edit your profile to opt out of email newsletters, catalog mailings and 
 
 * * *
 
+**Additionally:**
+
+  * We use Remarketing with Google Analytics to advertise online.
+  * Third-party vendors, including Google, may show our ads on sites across the Internet.
+  * We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to our website.
+  * We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our site.
+  * We also use data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics in order to better understand visits to our website.
+
+ 
+
+* * *
+
 **Security**  
-Your information is stored on The Betty Mills Company's servers in state of the art data centers located in the United States. We use industry standard safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy. We treat data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. 
+Your information is stored on in state of the art data centers located in the United States. We use industry standard safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy. We treat data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company.
 
 * * *
 
