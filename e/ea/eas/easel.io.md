@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easel.io privacy policy that was archived on 2013-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130204174746id_/https%3A//www.easel.io/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easel.io privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325190542id_/https%3A//www.easel.io/pages/privacy) for the most accurate reproduction.*
 
 # Easel
 
@@ -49,6 +49,10 @@ Easel may disclose personally identifiable information under special circumstanc
 ## Business Transfers
 
 If Easel, or substantially all of its assets were acquired, or in the unlikely event that Easel goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of Easel may continue to use your personal information as set forth in this policy. 
+
+## Payment Information
+
+We do not have access to or store personal credit information ("PCI"). Financial transactions are processed through [Stripe](https://stripe.com/) and are subject to its terms and policies. 
 
 ## Changes to this privacy policy
 
