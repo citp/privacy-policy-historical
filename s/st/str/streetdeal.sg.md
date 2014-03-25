@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the streetdeal.sg privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814201853id_/http%3A//www.streetdeal.sg/home/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetdeal.sg privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325192107id_/http%3A//www.streetdeal.sg/home/info/privacy) for the most accurate reproduction.*
 
 # Deals, Discounts Singapore | StreetDeal.sg
 
-This Privacy Policy discloses the privacy practices for the StreetDeal website (collectively, the "Website" located at www.StreetDeal.sg). StreetDeal Singapore Pte Ltd , a Singaporean Private Limited Company and owned by Asia Deal Group Pte Ltd, the provider of the Website (referred to as "us" or "we"), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the "User" or the "End User") and how we use that information. If you have any questions about our privacy policy, please email us.
+This Privacy Policy discloses the privacy practices for the StreetDeal website (collectively, the "Website" located at www.StreetDeal.sg). Asia Deal Group Pte Ltd. holding company of StreetDeal Singapore Pte Ltd. the provider of the Website (referred to as "us" or "we"), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the "User" or the "End User") and how we use that information. If you have any questions about our privacy policy, please email us.
 
 **Please read this privacy policy carefully. By accessing or using our website, you acknowledge that you have read, understand, and agree to be bound to all the terms of this privacy policy and our website terms of use. If you do not agree to these terms, exit this page and do not access or use the website.**
 
