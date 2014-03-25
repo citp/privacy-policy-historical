@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pomsinoz.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820193540id_/http%3A//www.pomsinoz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pomsinoz.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325065426id_/http%3A//www.pomsinoz.com/privacy.html) for the most accurate reproduction.*
 
 # Pomsinoz Privacy Policy
 
