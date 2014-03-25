@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the abt.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210011654id_/http%3A//www.abt.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abt.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325042901id_/http%3A//www.abt.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Abt Privacy Policy
 
-Abt respects each and every one of our customers' right to privacy. At no time will any personal information given to Abt (i.e. name, address, phone, email, purchase history, etc.) be sold or transferred to any other party. We have built our reputation on service and taking care of our customers beyond their expectations, and we will continue to provide these levels of service for many years to come.
+Abt respects each and every one of our customers' right to privacy. At no time will any personal information given to Abt (i.e. name, address, phone, email, purchase history, etc.) be sold to any other party. We have built our reputation on service and taking care of our customers beyond their expectations, and we will continue to provide these levels of service for many years to come.
 
 Abt.com may contain links to other sites, including content from other sites that is occasionally framed within our site. If you access those links, you will leave Abt.com, and Abt does not control those sites or their privacy practices. You should review the privacy policy of any site linked to or framed within Abt.com prior to providing any information on or to that site. 
 
 ## **Online Orders**
 
-If you place an online order, our secure order form requests contact, billing, and financial information (such as your credit card numbers for purchases). Contact information from the order form is used to send orders and information about our company to you. Your contact information is also used to get in touch with you should we have questions regarding your order or should we need to notify you of the status of your order. The financial information we collect is used ONLY to bill you for products you purchase.
+If you place an online order, our secure order form requests contact, billing, and financial information (such as your credit card numbers for purchases). Contact information from the order form is used to send orders and information about our company to you **,** and to contact you should we have questions regarding your order or should we need to notify you of the status of your order. The financial information we collect is used ONLY to bill you for products you purchase.
 
 ## **Surveys / Mailing List**
 
