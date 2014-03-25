@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the microhosting.in privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210124618id_/http%3A//www.microhosting.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microhosting.in privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325014227id_/http%3A//www.microhosting.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MicroHosting
+# Privacy Policy » MicroHosting
 
 This privacy statement describes how MicroHosting collects and uses the personal information you provide on our Web site: <http://www.microhosting.in/>. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
@@ -24,7 +24,7 @@ We use this information to
 
 
 **Choice/Opt-Out**   
-You may choose to stop receiving our emails by logging into your account and updating your notification selections or you can contact us at [info@microhosting.in](mailto:info@microhosting.in)  
+You may choose to stop receiving our emails by logging into your account and updating your notification selections or you can contact us at info@microhosting.in  
 We enable you to create an account, and share information such as messages, offers, & requests with others.
 
 **Information Obtained from Third Parties**   
