@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arts.ac.uk privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021183415id_/http%3A//www.arts.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arts.ac.uk privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325022427id_/http%3A//www.arts.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
 
-# Privacy and Cookies - University of Arts London
+# University of the Arts London: Privacy and Cookies
 
 This privacy policy sets out how University of the Arts London uses and protects any information that you give University of the Arts London when you use this website.University of the Arts London is committed to ensuring that your privacy is protected
 
@@ -78,7 +78,7 @@ We use our cookies to help us: 
   * Collect any personally identifiable information (without your express permission).
   * Pass data to advertising networks.
   * Pass personally identifiable data to third parties.
-  * YouTube - [Privacy Policy](https://web.archive.org/web/20131021183415id_/http://www.arts.ac.uk/privacy-and-cookies/%20http://www.google.com/intl/en/policies/privacy/)  powers some of the videos on our site.
+  * YouTube - [Privacy Policy](https://web.archive.org/web/20140325022427id_/http://www.arts.ac.uk/privacy-and-cookies/%20http://www.google.com/intl/en/policies/privacy/)  powers some of the videos on our site.
   * Google - [Privacy Policy](http://www.google.com/intl/en/policies/privacy) is used for Google map integration and analytics. To opt out of being tracked by Google Analytics across all websites [visit](http://tools.google.com/dlpage/gaoptout).
   * Vimeo - [Privacy Policy](http://vimeo.com/privacy)
   * Wufoo - [Privacy Policy](http://www.wufoo.com/privacy)
