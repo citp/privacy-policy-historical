@@ -1,30 +1,31 @@
-<!--The following is the downloaded HTML source of the biznessapps.com privacy policy that was archived on 2013-08-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130819140534id_/http%3A//www.biznessapps.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the biznessapps.com privacy policy that was archived on 2014-03-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140325022451id_/http%3A//www.biznessapps.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Bizness Apps - Our Privacy Policy</title>
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0; maximum-scale=1.0;">
 <meta name="description" content="Bizness Apps - Our Privacy Policy. The #1 mobile app platform wordlwide.">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link href="style.css" rel="stylesheet" type="text/css">
-<link href="style.css" rel="stylesheet" type="text/css">
-<link href="css/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="hs-analytics" src="//js.hubspot.com/analytics/1582517100000/295445.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgIHV1JWGwAHVlBSAgk="};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&&a("../../wrap-events"),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&&(h+=1)}),e.on("fn-err",function(a,b,d){g&&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&&!this.thrown&&h>0&&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f);for(var g=XMLHttpRequest.prototype;g&&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){if("string"==typeof a&&a.length)return a.length;if("object"!=typeof a)return void 0;if("undefined"!=typeof ArrayBuffer&&a instanceof ArrayBuffer&&a.byteLength)return a.byteLength;if("undefined"!=typeof Blob&&a instanceof Blob&&a.size)return a.size;if("undefined"!=typeof FormData&&a instanceof FormData)return void 0;try{return JSON.stringify(a).length}catch(b){return void 0}}function c(a){var c=this.params,d=this.metrics;if(!this.ended){this.ended=!0;for(var e=0;k>e;e++)a.removeEventListener(j[e],this.listener,!1);if(!c.aborted){if(d.duration=(new Date).getTime()-this.startTime,4===a.readyState){c.status=a.status;var g=a.responseType,h="arraybuffer"===g||"blob"===g||"json"===g?a.response:a.responseText,i=b(h);if(i&&(d.rxSize=i),this.sameOrigin){var l=a.getResponseHeader("X-NewRelic-App-Data");l&&(c.cat=l.split(", ").pop())}}else c.status=0;d.cbTime=this.cbTime,f("xhr",[c,d])}}}function d(a,b){var c=g(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function e(a,b){return b}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var f=a("handle"),g=a("./parse-url.js"),h=a("../../../wrap-function"),i=a("../../../contextual-ee"),j=["load","error","abort","timeout"],k=j.length,l=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),i.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=c,this.ended=!1,this.xhrGuids={}}),h.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",e),i.on("open-xhr-start",function(a){this.params={method:a[0]},d(this,a[1]),this.metrics={}}),i.on("open-xhr-end",function(a,b){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),i.on("send-xhr-start",function(a,c){var d=this.metrics,e=a[0],f=this;if(d&&e){var g=b(e);g&&(d.txSize=g)}this.startTime=(new Date).getTime(),this.listener=function(a){try{"abort"===a.type&&(f.params.aborted=!0),("load"!==a.type||f.called===f.totalCbs&&(f.onloadCalled||"function"!=typeof c.onload))&&f.end(c)}catch(b){}};for(var h=0;k>h;h++)c.addEventListener(j[h],this.listener,!1)}),i.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof c.onload||this.end(c)}),i.on("xhr-load-added",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&!this.xhrGuids[c]&&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),i.on("xhr-load-removed",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&this.xhrGuids[c]&&(delete this.xhrGuids[c],this.totalCbs-=1)}),i.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-added",[a[1],a[2]],b)}),i.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-removed",[a[1],a[2]],b)}),i.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&&("onload"===c&&(this.onload=!0),("load"===(a[0]&&a[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),i.on("fn-end",function(a,b){this.xhrCbStart&&i.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&&e[1]&&(d.port=e[1].split("/")[0].split(":")[1]),d.port&&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&&b.port===c.port&&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&&"function"==typeof a&&a.apply&&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&&"function"==typeof f&&f.apply&&!f._wrapped&&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",7,2]);</script>
 
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
+<link href="/style.css" rel="stylesheet" type="text/css">
+<link href="/css/style.css" rel="stylesheet" type="text/css">
 <link href="/css/dark-hive/jquery-ui-1.8.7.custom.css" rel="stylesheet" type="text/css">
-<link href="css/buildwiz.css" rel="stylesheet" type="text/css">
+<!--<link href="/css/buildwiz.css" rel="stylesheet" type="text/css" />-->
+<link href="/css/new-dlg.css" rel="stylesheet" type="text/css">
 <link href="/css/skins/tango-s2/skin.css" rel="stylesheet" type="text/css">
-<link type="text/css" href="css/basic.css" rel="stylesheet">
-
+<link type="text/css" href="/css/basic.css" rel="stylesheet">
 <link type="text/css" href="/css/front-end.css" rel="stylesheet">
 
 <!-- IE 6 "fixes" -->
 <!--[if lt IE 7]>
-<link type="text/css" href="css/basic_ie.css" rel="stylesheet" />
+<link type="text/css" href="/css/basic_ie.css" rel="stylesheet" />
 <![endif]-->
 <!--[if lt IE 9]>
 <script type="text/javascript" src="/js/IE9.js"></script>
 <![endif]-->
-<link type="text/css" rel="stylesheet" href="css/orbit.css">
+<link type="text/css" rel="stylesheet" href="/css/orbit.css">
 <!--[if IE]>
      <style type="text/css">
          .timer { display: none !important; }
@@ -32,72 +33,229 @@
     </style>
 <![endif]-->
 
-	<link rel="stylesheet" media="screen,projection" type="text/css" href="js/jquery.fancybox.css">
-	<!--[if IE 6]><script src="js/pngfix.js"></script><script>DD_belatedPNG.fix('li, #header, #iphone, #social img, #pricetag, #columns, #screenshots h2, #screenshots ul li span, #newsletter, #footer');</script><![endif]--> 	
+<link rel="stylesheet" media="screen,projection" type="text/css" href="/js/jquery.fancybox.css">
+<!--[if IE 6]><script src="/js/pngfix.js"></script><script>DD_belatedPNG.fix('li, #header, #iphone, #social img, #pricetag, #columns, #screenshots h2, #screenshots ul li span, #newsletter, #footer');</script><![endif]--> 	
 
-<script id="hs-analytics" src="//js.hubspot.com/analytics/1582517100000/295445.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.4.4.min.js"></script> 
+<script type="text/javascript" src="/js/jquery-1.4.4.min.js"></script> 
 <script type="text/javascript" src="/js/jquery-ui-1.8.9.custom.min.js"></script> 
-<script type="text/javascript" src="js/jquery.simplemodal.js"></script>
-<script type="text/javascript" src="js/jquery.framesetdialog.js"></script>
+<script type="text/javascript" src="/js/jquery.simplemodal.js"></script>
+<script type="text/javascript" src="/js/jquery.framesetdialog.js"></script>
+
+<link type="text/css" href="/css/mobile.css" rel="stylesheet">
 
 <style type="text/css">
 <!--
 .style2 {color: #1c6b87}
 -->
-</style>
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
+</style><script type="text/javascript">
+  // Extracts the Visitor ID from a GA cookie
+  function _goog_id(){
+	var id, a, c = document.cookie.split('; ');
+	for(i in c){a = c[i].split('=');if(a[0]=='__utma'){id = a[1].split('.')[1];}}
+	return id || 'unknown';
+  }
+ var _gaq = _gaq || [];
+  var pluginUrl = 
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
   _gaq.push(['_setAccount', 'UA-18897066-1']);
+  _gaq.push(['_setDomainName', 'biznessapps.com']);
   _gaq.push(['_trackPageview']);
+  _gaq.push(function(){_gaq.push(['_setCustomVar',5,'VisitorID',_goog_id(),1]);});
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+ (function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
 
+ window.onload = function() {
+  if(_gaq.I==undefined){
+   _gaq.push(['_trackEvent', 'tracking_script', 'loaded', 'ga.js', ,true]);
+   ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+   s = document.getElementsByTagName('script')[0];
+   gaScript = s.parentNode.insertBefore(ga, s);
+  } else {
+   _gaq.push(['_trackEvent', 'tracking_script', 'loaded', 'dc.js', ,true]);
+  }
+ };
+</script>
+
+<script type="text/javascript">	
+	jQuery(document).ready(function($){
+		$('.menu-toggle a').click(function(e){
+			e.preventDefault();
+			if ($('.menu').css('display') == 'block'){
+				$('.menu').hide();
+			}else{
+				$('.menu').slideDown();
+			}
+		});
+		
+		var lastScrollTop = 0;
+		
+		$(window).scroll(function(e){
+			var st = $(this).scrollTop();
+			
+			if (st > lastScrollTop){
+				if (st > 114) {
+					$('.top-bar').fadeOut();
+					$('.header').fadeOut();
+					$('.blok_header').fadeOut();
+				}
+			}else{
+				$('.top-bar').show();
+				$('.header').slideDown();
+				$('.blok_header').slideDown();
+			}
+			
+			lastScrollTop = st;
+		});
+		
+		$('.localize_ddl').change(function(){
+			if ($(this).val() != ""){
+				if ($(this).val() == 'en')
+					window.location.href = '/privacypolicy.html';
+				else
+					window.location.href = '/' + $(this).val() + '/privacypolicy.html';
+			}else{
+				window.location.href = '/privacypolicy.html';
+			}
+		});
+		/* var width = $(window).width();
+		var height = $(window).height();
+		
+		if (width > 768){
+			$('#lang-picker').hover(function(){
+				$('ul#lang-picker li').css('display','block');
+			},function(){
+				$('ul#lang-picker li').css('display','none');
+				$('.language').show();
+			});
+		} */
+		
+		$('#lang-picker li').click(function(){
+			if (!$(this).hasClass('language')){
+				if ($(this).attr('title') == 'en'){
+					window.location.href = '/privacypolicy.html';
+				}else{
+					window.location.href = '/' + $(this).attr('title') + '/privacypolicy.html';
+				}
+			}
+		});
+		
+		$('.lang-flags li').click(function(){
+			if (!$(this).hasClass('language')){
+				if ($(this).attr('class') == 'en'){
+					window.location.href = '/privacypolicy.html';
+				}else{
+					window.location.href = '/' + $(this).attr('class') + '/privacypolicy.html';
+				}
+			}
+		});
+		
+		$('.head-lang').click(function(){
+			if ($('.lang-drop').hasClass('active'))
+				$('.lang-drop').removeClass('active');
+			else
+				$('.lang-drop').addClass('active');
+		});
+		
+		$('.lang-drop li').click(function(){
+			if (!$(this).hasClass('language')){
+				if ($(this).attr('title') == 'en'){
+					window.location.href = '/index.html';
+				}else{
+					window.location.href = '/' + $(this).attr('title') + '/privacypolicy.html';
+				}
+			}
+		});
+		
+		$('body').click(function(e){
+			
+			if (!$(e.target).is('.fixed-lang') && !$(e.target).is('.head-lang') && !$(e.target).is('.lang-drop')){
+				$('.lang-drop').removeClass('active');
+			}
+		});
+	});
 </script>
 </head>
-<body>
+<body id="privacypolicy-page">
 <div class="main">
-<div class="blok_header2">
-  <div class="header">
-   
-    <table width="100%" border="0">
-      <tbody><tr>
-        <td width="51%"><div align="left"><div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://www.facebook.com/biznessapps" send="true" width="450" show_faces="false" colorscheme="dark" font=""></fb:like></div></td>
-        <td width="51%" id="lnk_top_menu"><div align="right" class="style62">
-		  <a href="http://www.biznessapps.com/signup.php"><input onclick="window.location = 'http://www.biznessapps.com/signup.php';" type="button" value="Sign Up Free"></a>
-		  <a href="https://biznessapps.wufoo.com/forms/contact-bizness-apps/" class="frame_big_dialog" title="Contact Us"><input type="submit" value="Contact Us"></a>
-		  <a href="http://www.biznessapps.com/client/login.php"><input onclick="window.location = 'http://www.biznessapps.com/client/login.php'; " type="button" value="Log In"></a>
-		  </div></td>
-      </tr>
-    </tbody></table>
-
-  </div>
-  <div class="clr"></div>
-</div>
+	<div class="top-bar fpages">
+	<div class="inner">
+		<div class="facebook">
+			<div id="fb-root"></div>
+			<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+			<fb:like href="http://www.facebook.com/biznessapps" send="true" width="319" show_faces="false" colorscheme="dark" font=""></fb:like>
+		</div>
+		<div class="buttons">
+			<a href="/signup.php" title="Sign Up Free"><input type="button" value="Sign Up Free"></a>
+			<a href="https://biznessapps.wufoo.com/forms/contact-bizness-apps/" title="Contact Us" class="frame_big_dialog"><input type="button" value="Contact Us"></a>
+			<a href="http://www.biznessapps.com/client/login.php"><input type="button" value="Log In" onclick="window.location = 'http://www.biznessapps.com/client/login.php';"></a>
+		</div>
+		<div class="lang-flags">
+			<ul>
+				<li class="en" title="English"></li>
+				<li class="es-sp" title="Español"></li>
+				<li class="de-gr" title="Deutsch"></li>
+				<li class="pt-pt" title="Português"></li>
+				<li class="fr-fr" title="Français"></li>
+				<li class="zh-cn" title="華語 中文"></li>
+				<li class="ja-jp" title="日本語"></li>
+				<li class="ru-ru" title="Pусский"></li>
+				<li class="it-it" title="Italiano"></li>
+				<li class="he-is" title="עברית"></li>
+				<li class="ar-ae" title="العربية"></li>
+			</ul>
+		</div>
+	</div>
+</div><!-- .top-bar -->
 <div class="blok_header">
-  <div class="header">
-    <div class="logo"><a href="/"></a><a href="/"><img src="images/logo.gif" width="333" height="107" border="0" alt="logo"></a></div>
-    <div class="menu">
-      <ul>
-        <li><a href="/" class="active"><span>Home</span></a></li>
-        <li><a href="/how-it-works.html"><span>How It Works</span></a></li>
-        <li><a href="/features.html"><span>Features</span></a></li>
-        <li><a href="/pricing.html"><span>Pricing</span></a></li>
-        <li><a href="/reseller.html"><span>Reseller</span></a></li>
-        <li><a href="/blog"><span>Blog</span></a></li>
-      </ul>
+    <div class="header">
+		<div class="logo">
+			<a href="index.html"><img src="/frontend/images/logo.png" width="299" height="103" border="0" alt="logo"></a>
+		</div>
+		<div class="menu-toggle">
+			<a href="#"><img src="/images/mobile/toggle.png" alt=""></a>
+		</div>
+		<div class="mobile-clear"></div>		
+		<div class="menu">
+	<ul>
+	  <li class="active"><a href="index.html" class="active">Home</a></li>
+	  <li><a href="how-it-works.html">How It Works</a></li>
+	  <li><a href="features.html">Features</a></li>
+	  <li><a href="pricing.html">Pricing</a></li>
+	  <li><a href="reseller.html">Reseller</a></li>
+	  <li><a href="/blog">Blog</a></li>
+	</ul>
+</div>
+      <div class="clr"></div>
     </div>
     <div class="clr"></div>
+	<div class="fixed-lang">
+			<div class="head-lang">Translate</div>
+			<div class="lang-drop">
+				<ul>
+					<li title="en"><span>English</span></li>
+					<li title="es-sp"><span>Español</span></li>
+					<li title="de-gr"><span>Deutsch</span></li>
+					<li title="pt-pt"><span>Português</span></li>
+					<li title="fr-fr"><span>Français</span></li>
+					<li title="zh-cn"><span>華語 中文</span></li>
+					<li title="ja-jp"><span>日本語</span></li>
+					<li title="ru-ru"><span>Pусский</span></li>
+					<li title="it-it"><span>Italiano</span></li>
+					<li title="he-is"><span>עברית</span></li>
+					<li title="ar-ae"><span>العربية</span></li>
+				</ul>
+			</div>
+		</div>
   </div>
-  <div class="clr"></div>
-</div>
 <div class="clr"></div>
   <div class="header_text_bg2">
-    <div class="header_text2"> <a href="/signup.php" target="_self"><img src="http://www.biznessapps.com/images/howitworks11.png" alt="view bizness apps features" width="200" height="52"></a><a href="http://www.biznessapps.com/signup.php"></a>
+    <div class="header_text2"> <a href="/signup.php" target="_self"><img src="/images/howitworks11.png" alt="view bizness apps features" width="200" height="52"></a><a href="/signup.php"></a>
       <h2>Our Privacy Policy</h2>
     </div>
     <div class="clr"></div>
@@ -140,7 +298,7 @@
       </div>
       <div class="body_small">
         <h2>Have some questions? Contact us!</h2>
-        <img src="images/img_3.jpg" alt="picture" width="60" height="50">
+        <img src="/images/img_3.jpg" alt="picture" width="60" height="50">
         <p><span> Feel free to contact Bizness Apps for any reason and we'll get back to you as soon as possible.</span></p>
         <div class="line"></div>
         <p><strong>Location In</strong>: San Francisco, CA<strong><br>
@@ -152,168 +310,181 @@
     <div class="clr"></div>
   </div>
 </div>
-
-<div class="bodypart">
-  <div class="body-bottom" style="background: #28292b;"></div>
-</div>
+<div class="bodypart"><div class="body-bottom" style="background: #28292b;"></div></div>
 	
-<div style="background: #185e7b;">
-  <div class="inner" style="padding-left: 28px; padding-top: 20px;">
+<div id="subscribe-form">
+  <div class="inner">
 	<div class="signup_keeper_bg">
-      	<form action="http://www.biznessapps.com/signup.php" method="post" id="signup" class="signup" style="">
-	    <table><tbody><tr>
-	      <td width="350">
-      		<input name="owner_email" id="owner_email" value="" size="40" class="placeholder" autocomplete="off">
-      	  </td>
-      	  <td width="330">
-      		<input name="password" type="password" id="password" size="20" class="placeholder" autocomplete="off">
-      	  </td>
-      	  <td>
-      		<a href="#" id="lnk_signup_submit">&nbsp;</a>
-      	  </td>
-      	</tr></tbody></table>
+      	<form action="/signup.php" method="post" id="signup" class="signup" style="">
+            <div class="input-wrap email">
+                <input name="owner_email" id="owner_email" value="" size="40" class="placeholder" autocomplete="off">    
+            </div>
+            <div class="input-wrap password">
+                <input name="password" type="password" id="password" size="20" class="placeholder" autocomplete="off">    
+            </div>
+            <div class="input-wrap submit">
+                <a href="#" id="lnk_signup_submit">&nbsp;</a>
+            </div>
+            <div class="clear"></div>
 	    </form>
     </div>
   </div>
-</div>	
+</div>
 <div class="frontend-footer">
-		<div class="inner">
-			<ul class="contact-us">
-				<li class="heading">Contact Us</li>
-				<li><a href="mailto:info@biznessapps.com">info@biznessapps.com</a></li>
-				<li><span>1-800-549-8138</span></li>
-				<li><span>San Francisco, CA</span></li>
-			</ul>
-			<ul class="company-information">
-				<li class="heading">Company Information</li>
-				<li><a href="/">Home Page</a></li>
-			  <li><a href="/privacypolicy.html">Privacy Policy</a></li>
-			  <li><a href="/termsofservice.html">Terms of Service</a></li>
-			  <li><a href="/pressroom.html">Press Room</a></li>
-		      <li><a href="/blog">Our Blog</a></li>
-		      <li><a href="http://www.biznesscrm.com" target="_blank">Bizness CRM</a></li>
-			</ul>
-			<ul class="learn-explore">
-				<li class="heading">Learn &amp; Explore</li>
-				<li><a href="/how-it-works.html">How It Works</a></li>
-			  <li><a href="/features.html">Features</a></li>
-			  <li><a href="/pricing.html">Our Pricing</a></li>
-			  <li><a href="/why-use-bizness-apps.html">Why Use Bizness Apps?</a></li>
-			  <li><a href="/faqs.html">Help/FAQs</a></li>
-			  <li><a href="/reseller.html">White Label Program</a></li>
-	      </ul>
-			<ul class="industry-examples">
-				<li class="heading">Industry Examples</li>
-				<li><a href="/restaurant-iphone-app.html">Restaurant  Apps</a></li>
-			  <li><a href="/bar-iphone-app.html">Bar &amp; Club Apps</a></li>
-			  <li><a href="/realtor-iphone-app.html">Realtor Apps</a></li>
-			  <li><a href="/lawyer-iphone-app.html">Lawyer Apps</a></li>
-			  <li><a href="/gym-iphone-app.html">Gym &amp; Fitness Apps</a></li>
-			  <li><a href="/salon-iphone-app.html">Spa &amp; Salon Apps</a></li>
-		  </ul>
-			<ul class="build-your-app">
-				<li class="heading">Build Your App</li>
-				<li><a href="/signup.php">Sign Up Free</a></li>
-			  <li><a href="/client/login.php">Client Login</a></li>
-		      <li><a href="/reseller/login.php">Reseller Login</a></li>
-		  </ul>
-			<div class="clear"></div>
-		</div>
+	<div class="inner">
+		<ul class="contact-us">
+			<li class="heading">Contact Us</li>
+			<li><a href="mailto:info@biznessapps.com">info@biznessapps.com</a></li>
+			<li><span>1-800-549-8138</span></li>
+			<li><span>San Francisco, CA</span></li>
+		</ul>
+		<ul class="company-information">
+			<li class="heading">Company Information</li>
+			<li><a href="index.html">Home Page</a></li>
+			<li><a href="privacypolicy.html">Privacy Policy</a></li>
+			<li><a href="termsofservice.html">Terms of Service</a></li>
+			<li><a href="pressroom.html">Press Room</a></li>
+			<li><a href="/blog">Our Blog</a></li>
+			<li><a href="http://www.biznesscrm.com" target="_blank">Bizness CRM</a></li>
+		</ul>
+		<ul class="learn-explore">
+			<li class="heading">Learn &amp; Explore</li>
+			<li><a href="how-it-works.html">How It Works</a></li>
+			<li><a href="features.html">Features</a></li>
+			<li><a href="pricing.html">Our Pricing</a></li>
+			<li><a href="why-use-bizness-apps.html">Why Use Bizness Apps?</a></li>
+			<li><a href="faqs.html">Help/FAQs</a></li>
+			<li><a href="reseller.html">White Label Program</a></li>
+		</ul>
+		<ul class="industry-examples">
+			<li class="heading">Industry Examples</li>
+			<li><a href="restaurant-iphone-app.html">Restaurant  Apps</a></li>
+			<li><a href="bar-iphone-app.html">Bar &amp; Club Apps</a></li>
+			<li><a href="realtor-iphone-app.html">Realtor Apps</a></li>
+			<li><a href="lawyer-iphone-app.html">Lawyer Apps</a></li>
+			<li><a href="gym-iphone-app.html">Gym &amp; Fitness Apps</a></li>
+			<li><a href="salon-iphone-app.html">Spa &amp; Salon Apps</a></li>
+		</ul>
+		<ul class="build-your-app">
+			<li class="heading">Build Your App</li>
+			<li><a href="/signup.php">Sign Up Free</a></li>
+			<li><a href="/client/login.php">Client Login</a></li>
+			<li><a href="/reseller/login.php">Reseller Login</a></li>
+			<!--<li><ul id="lang-picker">
+				<li class="language">Language</li>
+				<li title="en">English</li>
+				<li title="es" class="lang-rt">Español</li>
+				<li title="de">Deutsch</li>
+				<li title="pt">Português</li>
+				<li title="fr">Français</li>
+				<li title="zh">華語 中文</li>
+				<li title="jp">日本語</li>
+				<li title="ru">Pусский</li>
+				<li title="it">Italiano</li>
+				<li title="he">עברית</li>
+				<li title="ar" class="lang-lb">العربية</li>
+				<li class="lang-rb">&nbsp;</li>
+				<ul>					
+			</li>-->			
+		</ul>
+		<!--<ul class="translate-site" id="lang-picker">
+			<li class="heading">Translate Site</li>
+			<li title="en"><span>English</span></li>
+			<li title="es-sp"><span>Español</span></li>
+			<li title="de-gr"><span>Deutsch</span></li>
+			<li title="pt-pt"><span>Português</span></li>
+			<li title="fr-fr"><span>Français</span></li>
+			<li title="zh-cn"><span>華語 中文</span></li>
+			<li title="ja-jp"><span>日本語</span></li>
+			<li title="ru-ru"><span>Pусский</span></li>
+			<li title="it-it"><span>Italiano</span></li>
+			<li title="he-is"><span>עברית</span></li>
+			<li title="ar-ae"><span>العربية</span></li>
+		</ul>-->
+		<div class="clear"></div>
 	</div>
-
-	<script type="text/javascript" src="/js/jquery.validate.js"></script>
-	  <script language="javascript">
-
-		$(document).ready(function(){
-
-	   	  $("#lnk_signup_submit").click(function(e){
-			e.preventDefault();
-			$("#signup").submit();
-		  });
-			
-   		  $(".signup .placeholder").focus(function(){
-			$(this).css({"background": "#fff"});
-	   	  });
-	   	  
-	   	  $(".signup .placeholder").blur(function(){
-			if($(this).val() == "") {
-				$(this).css({"background": "none"});
-		   	}
-	   	  });
-		   	
-	   	  jQuery.validator.messages.required = "Required";
-	   	  $("form").validate({
-	   	    rules:  {
-	   	            password: {required: true, minlength: 6},
-	   	            password2: {equalTo: "#password"},
-	   	            owner_email: {required: true, email: true},
-	   	            owner_email2: {equalTo: "#owner_email"},
-	   	            owner_name: {required: true},
-	   	            owner_telephone: {required: true, digits: true},
-	   	            industry_id: {required: true},
-	   	            app_name: {required: true},
-	   	            app_icon: {required: true, maxlength: 12},
-	   	            icon_name: {required: true, maxlength: 12}
-	   	    },
-	   	    invalidHandler: function(e, validator) {
-	   	      var errors = validator.numberOfInvalids();
-	   	      if (errors) {
-	   	        $("div.errorbox span").html("Please fix the errors below before continuing.");
-	   	        $("div.errorbox").show();
-	   	      } else {
-	   	        $("div.errorbox").hide();
-	   	      }
-	   	    },
-	   	    onkeyup: false,
-	   	    messages: {
-	   	      icon_name: {
-	   	        maxlength: "Must be 12 characters or less."
-	   	      },
-	   	      password: {
-	   	        minlength: "Must be 6 or more characters."
-	   	      },
-	   	      password2: {
-	   	        equalTo: "Please enter the same password as above."
-	   	      },
-	   	      owner_email2: {
-	   	        equalTo: "Please enter the same email as above."
-	   	      },
-	   	      owner_email: {
-	   	        email: "Please enter a valid email address, example: you@yourdomain.com"
-	   	      }
-	   	    },
-	   	    debug:false
-	   	  });
-		   	  
-		});
-
-	  </script>
-	  
+</div>	  
 <div class="tail">
   <div class="inner">
-  	<table width="100%" border="0">
-      <tbody><tr>
-        <td width="50%" align="left" style="vertical-align: middle;">
-          <span style="color: #acacac;">
-          © 2013 <a href="/" style="color: #e9e9e9;">Bizness Apps</a> - Mobile Apps For Businesses Made Easy™</span>        </td>
-        <td width="50%" style="text-align: right;">
-          <span style="display: inline-block; padding: 20px 0px;">
-          	<img src="/images/frontend/design/followus.png">
-          </span>
-          <a href="http://www.twitter.com/biznessapps" style="display: inline-block; padding: 20px 0px;">
-	          	<img src="/images/frontend/design/icon-twitter.png">
-	      </a>
-	      <a href="http://www.facebook.com/biznessapps" style="display: inline-block; padding: 20px 0px;">
-	          	<img src="/images/frontend/design/icon-facebook.png">
-	      </a>
-      	</td>
-      </tr>
-    </tbody></table>
+    <div class="copyright">
+        <span style="color: #acacac;">© 2014 <a href="index.html" style="color: #e9e9e9;">Bizness Apps</a> - Mobile Apps For Businesses Made Easy™</span>
+    </div>
+    <div class="socials">
+        <span style="display: inline-block; padding: 20px 0px;"><img src="images/frontend/design/followus.png"></span>
+        <a href="http://www.twitter.com/biznessapps" style="display: inline-block; padding: 20px 0px;"><img src="images/frontend/design/icon-twitter.png"></a><a href="http://www.facebook.com/biznessapps" style="display: inline-block; padding: 20px 0px;"><img src="images/frontend/design/icon-facebook.png"></a>
+    </div>
+	<div class="clear"></div>
   </div>
 </div>
 
 <script type="text/javascript" src="js/layout.js"></script>
+<script type="text/javascript" src="js/jquery.validate.js"></script>
+<script language="javascript">
 
+$(document).ready(function(){
+
+  $("#lnk_signup_submit").click(function(e){
+	e.preventDefault();
+	$("#signup").submit();
+  });
+	
+  $(".signup .placeholder").focus(function(){
+	$(this).css({"background": "#fff"});
+  });
+  
+  $(".signup .placeholder").blur(function(){
+	if($(this).val() == "") {
+		$(this).css({"background": "none"});
+	}
+  });
+	
+  jQuery.validator.messages.required = "Required";
+  $("form").validate({
+	rules:  {
+			password: {required: true, minlength: 6},
+			password2: {equalTo: "#password"},
+			owner_email: {required: true, email: true},
+			owner_email2: {equalTo: "#owner_email"},
+			owner_name: {required: true},
+			owner_telephone: {required: true, digits: true},
+			industry_id: {required: true},
+			app_name: {required: true},
+			app_icon: {required: true, maxlength: 12},
+			icon_name: {required: true, maxlength: 12}
+	},
+	invalidHandler: function(e, validator) {
+	  var errors = validator.numberOfInvalids();
+	  if (errors) {
+		$("div.errorbox span").html("Please fix the errors below before continuing.");
+		$("div.errorbox").show();
+	  } else {
+		$("div.errorbox").hide();
+	  }
+	},
+	onkeyup: false,
+	messages: {
+	  icon_name: {
+		maxlength: "Must be 12 characters or less."
+	  },
+	  password: {
+		minlength: "Must be 6 or more characters."
+	  },
+	  password2: {
+		equalTo: "Please enter the same password as above."
+	  },
+	  owner_email2: {
+		equalTo: "Please enter the same email as above."
+	  },
+	  owner_email: {
+		email: "Please enter a valid email address, example: you@yourdomain.com"
+	  }
+	},
+	debug:false
+  });
+	  
+});
+
+</script>
 <script type="text/javascript">
 document.write(unescape("%3Cscript src='" + ((document.location.protocol=="https:")?"https:":"http:") + "//snapabug.appspot.com/snapabug.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://snapabug.appspot.com/snapabug.js" type="text/javascript"></script><script type="text/javascript">
 SnapABug.addButton('81078f20-dc20-42dd-9be0-aa1806e53b69',"0","55%");
@@ -329,4 +500,48 @@ SnapABug.addButton('81078f20-dc20-42dd-9be0-aa1806e53b69',"0","55%");
     </script>
 <!-- End of Async HubSpot Analytics Code -->
 
-</body></html>
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+	
+	(function() {
+		var elem = document.createElement('script');
+		elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+		elem.async = true;
+		elem.type = "text/javascript";
+		var scpt = document.getElementsByTagName('script')[0];
+		scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	function p2l(pathname,query,hash){
+		pathname = pathname.replace(/\//gi,"-slash-")
+		if(pathname === "-slash-") {
+			pathname = "homepage";
+		}
+		pathname = pathname.replace(/\./gi,"_");
+		query = query.replace(/\?/gi,'-');
+		params = query.split('&');
+		args = []
+		for(arg = 0; arg < params.length; arg++){
+			args.push(params[arg].split('=')[0]);
+		}
+		pathname += args.join('-');
+		pathname += hash.replace(/#/gi,"-");
+		return pathname;
+	};
+
+	_qevents.push({
+		qacct:"p-Qx_KqZFejFKCQ",
+		labels: "_fp.event." + p2l(document.location.pathname,
+		document.location.search, document.location.hash)
+	});
+</script>
+<noscript>
+  <div style="display:none;">
+    <img src="//pixel.quantserve.com/pixel/p-Qx_KqZFejFKCQ.gif" border="0" height="1" width="1" alt="Quantcast" />
+  </div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"ef547ef89c","applicationID":"3721058","transactionName":"NFNaMhcCCkdUVkNbDQ0ZbRQMTBRGXENWURsTWVQPBhpKRF1F","queueTime":0,"applicationTime":2,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-361.min.js"}</script>
+<script src="https://js-agent.newrelic.com/nr-361.min.js"></script></body></html>
