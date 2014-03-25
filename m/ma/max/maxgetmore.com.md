@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxgetmore.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019041525id_/http%3A//www.maxgetmore.com/Content/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxgetmore.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325034802id_/http%3A//www.maxgetmore.com/Content/PrivacyPolicy) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
