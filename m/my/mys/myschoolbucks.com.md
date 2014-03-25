@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myschoolbucks.com privacy policy that was archived on 2012-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120407052727id_/http%3A//www.myschoolbucks.com/layout/getdefinition.do%3Bjsessionid%3DA45110D709571D235563BFB9B8CA4E02.node47%3Fdef%3D/etc/privacy.def) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myschoolbucks.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325114115id_/https%3A//www.myschoolbucks.com/etc/getprivacy.do) for the most accurate reproduction.*
 
 # mySchoolBucks
 
@@ -44,11 +44,11 @@ How to Contact Us
 The Site is operated by Heartland Payment Systems, Inc.
 
 Our postal address is   
-570 Devall St., Suite 304  
+570 Devall St., Suite 202  
 Auburn, Alabama 36830
 
 We can be reached via email at [support@myschoolbucks.com](mailto:support@myschoolbucks.com)  
-or you can reach us by telephone at 1-800-256-8224. 
+or you can reach us by telephone at 1-855-832-5226. 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. 
 
