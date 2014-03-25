@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driversupport.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905142950id_/http%3A//driversupport.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driversupport.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325030913id_/http%3A//www.driversupport.com/home/privacypolicy) for the most accurate reproduction.*
 
 # Driver Support Privacy Policy
 
@@ -39,6 +39,8 @@ Additionally, PC Drivers Headquarters gathers general information about visits t
 On occasion, PC Drivers Headquarters also gathers general information about click-through usage of key features within our software to confirm that software updates are providing the intended user experience.  This information is collected in aggregate from and stored in a manner that cannot be associated with any individual.  The information includes total clicks on select features available in our software and is used to understand how our software is used, enabling us to improve the software, and provide the best possible user experience for our customers.
 
 We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
+
+Visitors can opt out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads).
 
 **Sharing Your Personal Information**
 
