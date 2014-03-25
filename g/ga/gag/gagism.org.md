@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gagism.org privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123061247id_/http%3A//gagism.org/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gagism.org privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325200615id_/http%3A//gagism.org/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gagism
 
