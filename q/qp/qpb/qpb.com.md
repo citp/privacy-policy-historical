@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qpb.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819105354id_/http%3A//www.qpb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qpb.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325034632id_/http%3A//www.qpb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Quality Paperback Book Club
 
