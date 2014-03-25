@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourchords.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510013723id_/http%3A//www.yourchords.com/index.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourchords.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325033911id_/http%3A//www.yourchords.com/index.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Your Chords - Guitar Chords Archive - Chords, tabs, music videos, songbooks, etc.
 
