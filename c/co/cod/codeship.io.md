@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeship.io privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816023143id_/https%3A//www.codeship.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeship.io privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326003644id_/https%3A//codeship.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - codeship.io
 
