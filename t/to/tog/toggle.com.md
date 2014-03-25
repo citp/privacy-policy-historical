@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the toggle.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901081829id_/https%3A//www.toggle.com/lv/privacy_policy/view.htm%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toggle.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325225930id_/https%3A//www.toggle.com/lv/privacy_policy/view.htm%3Flang%3Den) for the most accurate reproduction.*
 
-# Privacy Policy
+# Toggle - privacy policy
+
+We use cookies to give you the best experience. If you continue, we'll assume you accept to receive all cookies from our website.[privacy policy](https://www.toggle.com/lv/privacy_policy/view.htm?lang=en) __
 
 ## PROCESSING OF PERSONAL DATA 
 
-In compliance with Act 15/1999, 13 December, of Protection of Personal Information and development regulation, Bibado Investments S.L (hereinafter, the Company), information society service provider of the web portal TOGGLE.COM, (hereinafter, the portal) informs you that the information obtained through the portal will be handled by the Company, as the party in charge of the File, with the goal of facilitating the requested services, attending to queries, carrying out statistical studies that will allow an improvement in service, carrying out typical administrative tasks, sending information that may result of your interest through bulletins and similar publications, as well as developing sales promotion and publicity activities related to the portal.
+In compliance with Act 15/1999, 13 December, of Protection of Personal Information and development regulation, Bibado Investments S.L (hereinafter, the Company), information society service provider of the web portal TOGGLE, (hereinafter, the portal) informs you that the information obtained through the portal will be handled by the Company, as the party in charge of the File, with the goal of facilitating the requested services, attending to queries, carrying out statistical studies that will allow an improvement in service, carrying out typical administrative tasks, sending information that may result of your interest through bulletins and similar publications, as well as developing sales promotion and publicity activities related to the portal.
 
 The user expressly authorizes the use of their electronic mail address and other means of electronic communication (e.g., mobile telephone) so that the Company may use said means of communication and for the development of informed purposes.
 
