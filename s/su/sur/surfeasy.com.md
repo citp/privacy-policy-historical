@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfeasy.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025180715id_/https%3A//www.surfeasy.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfeasy.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325072515id_/https%3A//www.surfeasy.com/privacy_policy) for the most accurate reproduction.*
 
 # SurfEasy Privacy Policy | Anymous Web Surfing
 
@@ -20,7 +20,7 @@ There are a few exceptions where we may need to collect or monitor traffic throu
 
   * We will record your aggregate bandwidth usage for billing and network operations and support;
   * It may become necessary to temporarily maintain usage data to assist in debugging a problem with the service. This usage data may include such information as the date and time of your login and the IP addresses you visited. This personal information is not retained once the troubleshooting is resolved;
-  * We may collect and disclose personal information, including your usage data, to governmental authorities or agencies, including law enforcement agencies, at their request or pursuant to a court order, subpoena or other legal process, if there is a good faith belief that such collection or disclosure is required by law; and
+  * We may collect and disclose personal information, including your usage data, to governmental authorities or agencies, including law enforcement agencies, at their request or pursuant to a court order, subpoena or other legal process, if there is a good faith belief that such collection or disclosure is required by law;
   * We perform automated rules-based traffic management for the purposes of maintaining and improving our service. Applying these rules may require real-time analysis of Internet and data traffic including destination websites or IP addresses, originating IP addresses. However, no log is maintained regarding this information as it is a real-time process.
 
 
