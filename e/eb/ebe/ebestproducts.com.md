@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebestproducts.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903015000id_/http%3A//www.ebestproducts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebestproducts.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325041217id_/http%3A//www.ebestproducts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Article Directory of Original, Unique and Useful Content
+# Privacy Policy | EbestProducts.com
 
 **Privacy Policy for www.ebestproducts.com**
 
