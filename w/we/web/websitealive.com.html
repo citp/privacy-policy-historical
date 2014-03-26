@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the websitealive.com privacy policy that was archived on 2013-08-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130829203801id_/https%3A//www.websitealive.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the websitealive.com privacy policy that was archived on 2014-03-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140326075137id_/https%3A//www.websitealive.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -17,10 +17,10 @@
 <!--[if IE 8]><link rel="stylesheet" type="text/css" href="css/ie8.css" /><![endif]-->
 
 <!--Login Panel - Alive Panel -->
-<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" src="/js/alivechat.js"></script>
+<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=2"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/be40248f3590f26f55c7f0018b4ae1dcf5601dda.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" src="/js/alivechat.js"></script>
 <!--END Login Panel - Alive Panel -->
 
-<script type="text/javascript" src="/jquery/jquery-1.6.2.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
 <script type="text/javascript">
 	$(document).ready(function() {
 		// Expand Panel
@@ -37,7 +37,21 @@
 		});
 	});
 </script>
-<style type="text/css"></style><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<script type="text/javascript">var _kmq = _kmq || [];
+var _kmk = _kmk || 'be40248f3590f26f55c7f0018b4ae1dcf5601dda';
+function _kms(u){
+  setTimeout(function(){
+    var d = document, f = d.getElementsByTagName('script')[0],
+    s = d.createElement('script');
+    s.type = 'text/javascript'; s.async = true; s.src = u;
+    f.parentNode.insertBefore(s, f);
+  }, 1);
+}
+_kms('//i.kissmetrics.com/i.js');
+_kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
+</script>
+
+<style type="text/css"></style><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body><a name="top"></a>
 <!-- V2 -->
@@ -55,11 +69,19 @@
 <!-- Start Javascript for Registration -->
 <script type="text/javascript">
 
+	var serverIP = '10.0.1.195';
 
 	var reg_password;
 	var reg_server_url;
 	var reg_objectref;
 	var reg_groupid;
+	
+	/*
+	$('#panelLogin').hide();
+	$('#panelRegister').show();
+	
+	setTimeout("$('#div_signup1').hide();$('#div_signup2').hide();$('#div_signup3').show();",2000);
+	*/
 	
 	function checkEnterLogin(e){
 
@@ -89,6 +111,39 @@
 	
 	
 	}
+	
+	function checkEnterRegister(e){
+
+		//e is event object passed from function invocation
+		var characterCode //literal character code will be stored in this variable
+	
+		if(e && e.which){ //if which property of event object is supported (NN4)
+			e = e
+			characterCode = e.which //character code is contained in NN4's which property
+		}
+		else{
+			e = event
+			characterCode = e.keyCode //character code is contained in IE's keyCode property
+		}
+	
+		if((e.shiftKey) && (characterCode == 13)){ //if generated character code is equal to shift + ascii 13 (if enter key)
+			//do nothing, let user type if SHIFT + ENTER
+		}
+	
+		if((!e.shiftKey) && (characterCode == 13)){ //if generated character code is equal to ascii 13 (if enter key)
+	
+			register_validateUser();
+			return false;
+		}else{
+			return true;
+		}
+	
+	
+	}
+	
+	
+	
+	
 	
 
 	function isValidEmailAddress(emailAddress) {
@@ -172,6 +227,11 @@
 	   
 	}
 	
+	
+	
+	
+	
+				
 	function animateLoad(trial_days_remaining, trial_days, console_url_shopping_cart){
 		
 		$('#panelLoginForm').hide()
@@ -180,8 +240,58 @@
 		
 		if (trial_days_remaining != undefined){
 			
-			$('#p_loading_trial').fadeIn('fast');	
-			$('#p_loading_trial').html('You have <b>' + trial_days_remaining + '</b> days remaining in your <b>'+trial_days+'</b> day trial.<br><br><a href="#" class="green-btn" onclick="document.location.href = \'' + console_url_shopping_cart + '\'">Purchase License Now</a><br><br>or just wait until your console loads...');
+			//default
+						
+			if (promocode != undefined && promocode != ''){	//there is a promocode
+				
+				//get promo-specific details.
+				
+				var x_url = 'https://api-v1.websitealive.com/auth/main/?action=getpromodetails&promo_code=' +encodeURIComponent(promocode)  + '&user_name=' + encodeURIComponent($('#login_user_name').val());
+				
+				
+				$.ajax({
+					
+					type: 'GET',
+					url: x_url,
+					contentType: "application/json",
+					dataType: 'jsonp',
+					
+					success:
+					
+						function (data){
+							
+							var button_text					= data.button_text;
+							var console_url_shopping_cart 	= data.console_url_shopping_cart;
+							var end_date					= data.end_date;
+							
+							if (button_text != ''){
+					
+								panel_html = 'You have <b>' + trial_days_remaining + '</b> days remaining in your <b>' + trial_days + '</b> day trial.<br><br><a href="#" class="green-btn" onclick="document.location.href = \'' + console_url_shopping_cart + '\'">' + button_text + '</a><br>(expires ' + end_date + ')';
+								
+							}else{
+								
+								var panel_html = 'You have <b>' + trial_days_remaining + '</b> days remaining in your <b>'+trial_days+'</b> day trial.<br><br><a href="#" class="green-btn" onclick="document.location.href = \'' + console_url_shopping_cart + '\'">Buy License Now</a><br><br>or just wait until your console loads...';	
+							
+							}
+							
+							
+							
+							$('#p_loading_trial').fadeIn('fast');
+							$('#p_loading_trial').html(panel_html);
+				
+						}
+				});
+
+				
+			}else{
+				
+				//IF trial, look for promocode, and then if promocode is valid, show text and link to promo shopping cart
+				var panel_html = 'You have <b>' + trial_days_remaining + '</b> days remaining in your <b>'+trial_days+'</b> day trial.<br><br><a href="#" class="green-btn" onclick="document.location.href = \'' + console_url_shopping_cart + '\'">Buy License Now</a><br><br>or just wait until your console loads...';
+			
+				$('#p_loading_trial').fadeIn('fast');
+				$('#p_loading_trial').html(panel_html);
+				
+			}
 			
 		}
 	}
@@ -284,11 +394,15 @@
 													if (is_trial){
 														
 														$('#button_admin').click(function(){
-															setTimeout("document.location.href='" + console_url_admin + "'",10000); animateLoad(trial_days_remaining, trial_days, console_url_shopping_cart); saveSubmitForm();
+															setTimeout("document.location.href='" + console_url_admin + "'",12000); animateLoad(trial_days_remaining, trial_days, console_url_shopping_cart); saveSubmitForm(); register_kissmetrics('', 'Login Trial');
 															});
 													}else{
 													
-														$('#button_admin').click(function(){document.location.href=console_url_admin; animateLoad(); saveSubmitForm();});
+														//$('#button_admin').click(function(){document.location.href=console_url_admin; animateLoad(); saveSubmitForm();});
+														
+														$('#button_admin').click(function(){setTimeout("document.location.href='" + console_url_admin + "'",1); animateLoad(); saveSubmitForm(); register_kissmetrics('', 'Login Paid'); });
+														
+														
 													}
 												}
 											
@@ -357,11 +471,11 @@
 													if (is_trial){
 														
 														$('#button_operator').click(function(){
-															setTimeout("document.location.href='" + console_url_operator + "'",10000); animateLoad(trial_days_remaining, trial_days, console_url_shopping_cart); saveSubmitForm();
+															setTimeout("document.location.href='" + console_url_operator + "'",12000); animateLoad(trial_days_remaining, trial_days, console_url_shopping_cart); saveSubmitForm(); register_kissmetrics('', 'Login Trial');
 															});
 													}else{
-													
-														$('#button_operator').click(function(){document.location.href=console_url_operator; animateLoad(); saveSubmitForm();});
+														//adding time out here, due to chrome update.
+														$('#button_operator').click(function(){setTimeout("document.location.href='" + console_url_operator + "'",1);animateLoad(); saveSubmitForm(); register_kissmetrics('', 'Login Paid') });
 													}
 													
 													
@@ -430,11 +544,12 @@
 														if (is_trial){
 															
 															$('#button_operatoradmin').click(function(){
-																setTimeout("document.location.href='" + console_url_operator_adminrights + "'",10000); animateLoad(trial_days_remaining, trial_days, console_url_shopping_cart); saveSubmitForm();
+																setTimeout("document.location.href='" + console_url_operator_adminrights + "'",12000); animateLoad(trial_days_remaining, trial_days, console_url_shopping_cart); saveSubmitForm(); register_kissmetrics('', 'Login Trial');
 																});
 														}else{
 														
-															$('#button_operatoradmin').click(function(){document.location.href=console_url_operator_adminrights; animateLoad(); saveSubmitForm();});
+															//$('#button_operatoradmin').click(function(){document.location.href=console_url_operator_adminrights; animateLoad(); saveSubmitForm();});
+															$('#button_operatoradmin').click(function(){setTimeout("document.location.href='" + console_url_operator_adminrights + "'",1); animateLoad(); saveSubmitForm(); register_kissmetrics('', 'Login Trial'); });
 														}
 																									
 													
@@ -455,7 +570,8 @@
 													
 												writeErrorLogin('Thank you for using our 30 day trial! Your trial has expired and we will now redirect you to view license options...',true);
 												animateLoad();
-												setTimeout("document.location.href = '" + console_url_shopping_cart + "'",10000);
+												setTimeout("document.location.href = '" + console_url_shopping_cart + "'",10000); 
+												register_kissmetrics('', 'Trial Ended - View Shopping Cart');
 													
 											}else{
 											
@@ -840,37 +956,49 @@
 							reg_objectref	 = data[0].objectref;
 							reg_groupid		 = data[0].groupid;
 							
-							
+							$('#div_sitelock_reg').hide();
 							
 							$('#p_error').html('').hide();
 							$('#div_signup2').hide();
 							$('#div_signup3').fadeIn();
 							
 							$('#panel_title1').html('Registration Complete!');
-							$('#panel_title2').html('Now, Add This Code to Your Web Page (right before your &lt;/body&gt; tag):');
+							$('#panel_title2').html('Add Code to Your Web Page (before your &lt;/body&gt;):');
 							
 							$('#login_user_name').val($('#reg_username').val());
 							$('#login_password').val(reg_password);
 							
 							
 							
-							$('#textarea_lsm_code').val("<!-- Start AliveChat Tracking Code -->\n" + 
-								"function wsa_include_js(){\n" + 
-								"	var wsa_host = (('https:' == document.location.protocol) ? 'https://' : 'http://');\n" + 
-								"	var js = document.createElement('script');\n" + 
-								"	js.setAttribute('language', 'javascript');\n" +
-								"	js.setAttribute('type', 'text/javascript');\n" +
-								"	js.setAttribute('src',wsa_host + 'tracking.websitealive.com/vTracker_v2.asp?objectref=" + reg_objectref + "&groupid=" + reg_groupid + "&websiteid=0');\n" +
-								"	document.getElementsByTagName('head').item(0).appendChild(js);}\n" + 
-								"if (window.attachEvent) {window.attachEvent('onload', wsa_include_js);}\n" + 
-								"else if (window.addEventListener) {window.addEventListener('load', wsa_include_js, false);}\n" + 
-								"else {document.addEventListener('load', wsa_include_js, false);}');\n" + 
-								"<!-- End AliveChat Tracking Code -->");
+							var code_snippet = 
+			
+								'<!-- Start WebsiteAlive Embedded Icon/AliveTracker Code -->\n'
+								+ '<scr' + 'ipt type="text/javascript">\n'
+								+ 'function wsa_include_js(){\n'
+								+ 'var wsa_host = (("https:" == document.location.protocol) ? "https://" : "http://");\n'
+								+ 'var js = document.createElement("script");\n'
+								+ 'js.setAttribute("language", "javascript");\n'
+								+ 'js.setAttribute("type", "text/javascript");\n'
+								+ 'js.setAttribute("src",wsa_host + "tracking.websitealive.com/vTracker_v2.asp?objectref=' + reg_objectref + '&groupid=' + reg_groupid + '&websiteid=0");\n'
+								+ 'document.getElementsByTagName("head").item(0).appendChild(js);\n'
+								+ '}\n'
+								+ 'if (window.attachEvent) {window.attachEvent("onload", wsa_include_js);}\n'
+								+ 'else if (window.addEventListener) {window.addEventListener("load", wsa_include_js, false);}\n'
+								+ 'else {document.addEventListener("load", wsa_include_js, false);}\n'
+								+ '</scri' + 'pt>\n'
+								+ '<!-- End WebsiteAlive Embedded Icon/AliveTracker Code -->';
+								
+								
+								
+							
+							$('#textarea_lsm_code').val(code_snippet);
 								
 								
 							register_sendEmail();
 							
 							register_adroll();
+							
+							register_kissmetrics($('#reg_username').val(), 'Trial Signup Complete');
 							
 						}
 					});//end ajax
@@ -883,7 +1011,15 @@
 	
 	
 	
-	
+	function register_kissmetrics(reg_username, event_label){
+		
+		if (reg_username != ''){
+			_kmq.push(['identify', reg_username]);
+		}
+		
+		_kmq.push(['record', event_label]);
+		
+	}
 	
 	
 	
@@ -1006,28 +1142,40 @@
 
 
 <div id="alivepanel">
+<!--<div id="sitelock_shield_logo" style="position:absolute; top:25px; right:25px;"><a href="https://www.sitelock.com/verify.php?site=www.websitealive.com" onclick="window.open('https://www.sitelock.com/verify.php?site=www.websitealive.com','SiteLock','width=600,height=600,left=160,top=170');return false;" ><img alt="malware removal and website security" title="SiteLock"  src="//shield.sitelock.com/shield/www.websitealive.com"/></a></div>-->
     <div class="wrapper">
     
     
     	<!-- Start panelRegister -->
         <div id="panelRegister" style="display:none">
         
-            <h2 class="thin white mB10 mT20 align-center" style="margin-bottom:0px;" id="panel_title1">Try It Free For 30 Days, On Us!</h2>
+        	<div style="width:475px; margin:0px auto;">
+                
+                    <h2 class="thin white mB10 mT20 align-center" style="margin-bottom:0px;" id="panel_title1">Try It Free For 30 Days, On Us!</h2>
+                    <h3 class="thin white align-center" id="panel_title2">Fully Functional, No Credit Card Required.</h3>
+                
+                
+                <!--
+                <div id="div_sitelock_reg" class="left" style="margin:30px 0px 0px 25px;">
+                    <a href="https://www.sitelock.com/verify.php?site=www.websitealive.com" onclick="window.open('https://www.sitelock.com/verify.php?site=www.websitealive.com','SiteLock','width=600,height=600,left=160,top=170');return false;" >
+                        <img alt="malware removal and website security" border="0" title="SiteLock"  src="//shield.sitelock.com/shield/www.websitealive.com"/>
+                    </a>
+                </div>
+                -->
+                <div class="clear"></div>
+            </div>
             
-            <h3 class="thin white align-center" id="panel_title2">Fully Functional, No Credit Card Required.</h3>
             
             <p class="align-center mB10 mT10" style="color:#F00; height:15px;" id="p_error"></p>
             
             <!-- div_signup1 -->
             <div id="div_signup1">
                 <div style="width:275px; margin:15px auto;">
-                    <div class="forms">
-                        <input id="reg_emailadmin" name="reg_emailadmin" type="text" value="Your Email" onblur="if(this.value == '') { this.value='Your Email'}" onfocus="if (this.value == 'Your Email') {this.value=''}">
-                    </div>
-                    <div class="forms">
-                        <input id="reg_username" name="reg_username" type="text" value="Choose a Username" data-val="true" data-val-length="Username invalid length. Must be longer than 6 and shorter than 50 characters" data-val-length-max="50" data-val-length-min="6" data-val-regex="Username contains invalid characters. Must be letters and numbers, no spaces" data-val-regex-pattern="^[A-Za-z0-9]*$" data-val-required="Field &amp;#39;Username&amp;#39; is required" class="mT5 align-center" onblur="if(this.value == '') { this.value='Choose a Username'}" onfocus="if (this.value == 'Choose a Username') {this.value=''}">
+                <input id="reg_emailadmin" name="reg_emailadmin" type="text" value="Your Email" onblur="if(this.value == '') { this.value='Your Email'}" onfocus="if (this.value == 'Your Email') {this.value=''}" class="align-center">
+                
+                <input id="reg_username" name="reg_username" type="text" value="Choose a Username" data-val="true" data-val-length="Username invalid length. Must be longer than 6 and shorter than 50 characters" data-val-length-max="50" data-val-length-min="6" data-val-regex="Username contains invalid characters. Must be letters and numbers, no spaces" data-val-regex-pattern="^[A-Za-z0-9]*$" data-val-required="Field &amp;#39;Username&amp;#39; is required" class="mT5 align-center" onblur="if(this.value == '') { this.value='Choose a Username'}" onfocus="if (this.value == 'Choose a Username') {this.value=''}" onkeydown="return checkEnterRegister(event)">
                         <!--<span class="field-validation-valid" data-valmsg-for="Username" data-valmsg-replace="true"></span>-->
-                    </div>
+                    
                 </div>
                 
             	<div class="signup-divider"></div>
@@ -1045,26 +1193,27 @@
                     <div class="forms">
                         <input id="reg_first_name" name="reg_first_name" type="text" value="First Name" data-val="true" data-val-length="First name invalid length. Must be less 
 
-than 255 characters" data-val-length-max="255" data-val-required="Field &amp;#39;First Name&amp;#39; is required" onblur="if(this.value == '') { this.value='First Name'}" onfocus="if (this.value == 'First Name') {this.value=''}">
+than 255 characters" data-val-length-max="255" data-val-required="Field &amp;#39;First Name&amp;#39; is required" onblur="if(this.value == '') { this.value='First Name'}" onfocus="if (this.value == 'First Name') {this.value=''}" class="align-center left"><p class="left white mL10">*</p>
                         <!--<span class="field-validation-valid" data-valmsg-for="FirstName" data-valmsg-replace="true"></span>-->
                     </div>
                     <div class="forms">
                         <input id="reg_last_name" name="reg_last_name" type="text" value="Last Name" data-val="true" data-val-length="Last name invalid length. Must be less than 
 
-255 characters" data-val-length-max="255" data-val-required="Field &amp;#39;Last Name&amp;#39; is required" onblur="if(this.value == '') { this.value='Last Name'}" onfocus="if (this.value == 'Last Name') {this.value=''}">
+255 characters" data-val-length-max="255" data-val-required="Field &amp;#39;Last Name&amp;#39; is required" onblur="if(this.value == '') { this.value='Last Name'}" onfocus="if (this.value == 'Last Name') {this.value=''}" class="align-center left"><p class="left mL10 white">*</p>
                         <!--<span class="field-validation-valid" data-valmsg-for="LastName" data-valmsg-replace="true"></span>-->
                     </div>
                     <div class="forms">
-                        <input id="reg_url" name="reg_url" type="text" value="Website URL" onblur="if(this.value == '') { this.value='Website URL'}" onfocus="if (this.value == 'Website URL') {this.value=''}">
+                        <input id="reg_url" name="reg_url" type="text" value="Website URL" onblur="if(this.value == '') { this.value='Website URL'}" onfocus="if (this.value == 'Website URL') {this.value=''}" class="align-center left"><p class="left white mL10">*</p>
                     </div>
                     <div class="forms">
                         <input id="reg_phone" name="reg_phone" type="text" value="Phone Number" data-val="true" data-val-required="Field &amp;#39;Contact Phone&amp;#39; is 
 
-required" onblur="if(this.value == '') { this.value='Phone Number'}" onfocus="if (this.value == 'Phone Number') {this.value=''}">
+required" onblur="if(this.value == '') { this.value='Phone Number'}" onfocus="if (this.value == 'Phone Number') {this.value=''}" class="align-center left"><p class="left white mL10">*</p>
                     </div>
+                    <p class="white">* denotes requried fields</p>
                 </div>
                 <div class="grid300 left mT15 mL45">
-                    <select id="reg_company_type" name="reg_company_type" data-val="true" data-val-required="Field &amp;#39;Your Industry&amp;#39; is required" class="dropdown"> 
+                    <select id="reg_company_type" name="reg_company_type" data-val="true" data-val-required="Field &amp;#39;Your Industry&amp;#39; is required" class="right" style="margin-right:25px;"> 
                         <option value="" selected="selected">- Your Industry -</option>
                         <option value="e_commerce">E-commerce</option>
                         <option value="education">Education</option>
@@ -1078,7 +1227,7 @@ required" onblur="if(this.value == '') { this.value='Phone Number'}" onfocus="if
                         <option value="other">Other</option>
                     </select>
                     
-                    <select id="reg_found_us" name="reg_found_us" data-val="true" data-val-required="Field &amp;#39;How did you find us&amp;#39; is required" class="dropdown" style="margin-top:-5px;">
+                    <select id="reg_found_us" name="reg_found_us" data-val="true" data-val-required="Field &amp;#39;How did you find us&amp;#39; is required" style="margin-top:10px; margin-right:25px; margin-bottom:10px;" class="right">
                         <option selected="selected" value="">- How Did You Find Us? -</option>
                         <option value="internet_search">Internet Search</option>
                         <option value="word_of_mouth">Word of Mouth</option>
@@ -1094,7 +1243,7 @@ required" onblur="if(this.value == '') { this.value='Phone Number'}" onfocus="if
                     <div class="mT10">
                     
                         <div class="right" style="margin-right:25px;">
-                            <input checked="checked" id="reg_recieve_promotions" name="reg_recieve_promotions" type="checkbox" value="true" class="left" style="width:auto; margin-top:2px;">
+                            <input checked="checked" id="reg_recieve_promotions" name="reg_recieve_promotions" type="checkbox" value="true" class="left" style="width:auto; margin-top:5px;">
                             <p class="white left mL10 mB10">Receive Email Updates?</p>
                         </div>
                         <div style="clear:left;"></div>
@@ -1149,7 +1298,7 @@ Departments, Customization, and run Reports.</li>
                         <li class="white">After you add the Code to your website, you must log in as an Operator. This will then allow an icon to appear.</li>
                     </ul>
                 </div>
-                <a href="#" class="green-btn" style="margin-left:410px; margin-top:25px;" onclick="register_login()">I'm Ready, Log Me In!</a>
+                <a href="#" class="green-btn" style="margin-left:410px; margin-top:20px;" onclick="register_login()">I'm Ready, Log Me In!</a>
             
             </div>
         	<!-- END div_signup4 --> 
@@ -1186,10 +1335,10 @@ Departments, Customization, and run Reports.</li>
                 <div class="app-download-divider"></div>
                 
                 <div class="app-download-entry">
-                	<div class="app-download-icon-windows"><a href="https://go.websitealive.com/downloads/apps/windows/AliveChat_for_Windows.zip"></a></div>
-                    <p class="white fs12 left" style="margin:19px 0px 0px 2px;"><a href="https://go.websitealive.com/downloads/apps/windows/AliveChat_for_Windows.zip">Windows 
-
-Desktop</a></p>
+                	<div class="app-download-icon-windows"><!--<a href="https://go.websitealive.com/downloads/apps/windows/AliveChat_for_Windows.zip"></a>-->
+                    	<a href="http://go.websitealive.com/downloads/apps/windows/wsa_desktop.exe"></a>
+                    </div>
+                    <p class="white fs12 left" style="margin:19px 0px 0px 2px;"><a href="http://go.websitealive.com/downloads/apps/windows/wsa_desktop.exe">Windows Desktop</a></p>
                 </div>
                 <div class="app-download-divider"></div>
                 
@@ -1201,7 +1350,7 @@ Desktop</a></p>
                 </div>
                 
                  <!-- Holiday Message -->
-                <p class="white fs14 left" style="margin:22px 0px 0px 4px;"><a href="http://buzz.websitealive.com/service-status/" target="_blank" class="white" style="text-decoration:underline">Click for Service Status Updates</a></p>
+                <p class="white fs14 left" style="margin:22px 0px 0px 4px;"></p>
                 <!-- END Holiday Message -->
             </div>
             
@@ -1229,7 +1378,7 @@ Desktop</a></p>
                             <div class="forms">
                                 <input id="login_user_name" name="login_user_name" type="text" value="" onkeydown="return checkEnterLogin(event)">
                             </div>
-                            <div class="forms">
+                            <div class="forms" style="margin-top:8px;">
                                 <input id="login_password" name="login_password" type="password" value="" onkeydown="return checkEnterLogin(event)">
                             </div>
                         </div>
@@ -1277,7 +1426,7 @@ Desktop</a></p>
                 <!-- End Login Buttons -->
                 
                 <!-- Login Loading -->
-                <div id="panelLoginLoading" style="display:none; text-align:center">
+                <div id="panelLoginLoading" style="display:none; text-align:center;">
                 	
             
                     
@@ -1289,7 +1438,7 @@ Desktop</a></p>
                 	<!--<img src="/images/loading_login.gif" style="padding-top:20px; padding-bottom:30px;">-->
                     
                     
-<div id="progress-indicator" style="height:130px;"><div class="spinner" style="position: relative; width: 0px; z-index: 2000000000; left: 188px; top: 53px;" aria-role="progressbar"><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-0-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(0deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-1-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(36deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-2-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(72deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-3-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(108deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-4-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(144deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-5-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(180deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-6-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(216deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-7-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(252deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-8-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(288deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-9-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(324deg) translate(25px, 0px); border-radius: 4px;"></div></div></div></div>
+<div id="progress-indicator" style="height:130px;"><div class="spinner" style="position: relative; width: 0px; z-index: 2000000000; left: 198px; top: 53px;" aria-role="progressbar"><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-0-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(0deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-1-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(36deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-2-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(72deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-3-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(108deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-4-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(144deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-5-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(180deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-6-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(216deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-7-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(252deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-8-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(288deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-9-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(324deg) translate(25px, 0px); border-radius: 4px;"></div></div></div></div>
 <script type="text/javascript" src="/js/spin.min.js"></script>
 
 <script type="text/javascript">
@@ -1310,7 +1459,7 @@ Desktop</a></p>
 	  className: 'spinner', // The CSS class to assign to the spinner
 	  zIndex: 2e9, // The z-index (defaults to 2000000000)
 	  top: 10, // Top position relative to parent in px
-	  left: 145 // Left position relative to parent in px
+	  left: 155 // Left position relative to parent in px
 	};
 	
 	var target = document.getElementById('progress-indicator');
@@ -1440,16 +1589,16 @@ document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })(
     	
         <div id="headerMenu">
     		<div id="websiteAliveLogo" class="left"><a href="/"></a></div>
-        	<div id="nav"><a href="/">Home</a> <a href="/web-chat-software/">Tour</a> <a href="http://buzz.websitealive.com">Buzz</a> <a href="/live-chat-pricing/">Pricing &amp; Sign Up</a> <a href="/live-chat-implementation/" style="margin-right:20px;">Support</a><a href="javascript://" class="open" id="open" onclick="opencloseClientLogin('open');" style="margin-left:5px;">Log In<img src="../images/siteLock-secure-custom.png" width="88" height="27" alt="SiteLock Secure" style="float:right; margin-top:0px; margin-right:0px; margin-left:10px;"></a>
-        	</div>
+        	<div id="nav"><a href="/alivechat/">Live Chat</a> <a href="/alivedial/">Click-to-Call</a> <a href="/aliveconcierge/">Concierge</a> <a href="/live-chat-pricing/">Pricing</a> <a href="/howtos/" style="margin-right:20px;">Support</a><a href="javascript://" class="open" id="open" onclick="opencloseClientLogin('open');" style="margin-left:5px;">Log In<img src="../images/siteLock-secure-custom.png" width="88" height="27" alt="SiteLock Secure" style="float:right; margin-top:0px; margin-right:0px; margin-left:10px;"></a></div>
 			<div class="clear"></div>
     	</div>
         
-        <div class="headerTitle">
-      		<h1 style="font-size:35px; color:#ffffff; font-weight:600; letter-spacing:-2px; float:left;">Privacy Policy</h1>
-            <div class="liveChatInt" style="margin-top:10px;"><a onclick="javascript:window.open('https://www.websitealive3.com/9/rRouter.asp?groupid=9&amp;websiteid=10&amp;departmentid=0&amp;dl='+escape(document.location.href),'','width=400,height=400');"></a></div>
-    	</div>
-        <div class="clear"></div>
+        <div class="headerTitle" style="margin-top:30px;"><h1 style="font-size:30px;">Privacy Policy</h1></div>
+        <div class="header-communications-2">
+        <a href="javascript:void(0)" onclick="window.open('https://www.websitealive3.com/9/visitor/window/?code_id=2974&amp;dl='+escape(document.location.href),'wsa_9_740','height=400,width=400')" class="clicktocallInt-home"><div class="icon-clicktocallInt"></div>1-888-696-4513</a>
+        <a onclick="javascript:window.open('https://www.websitealive3.com/9/rRouter.asp?groupid=9&amp;websiteid=10&amp;departmentid=0&amp;dl='+escape(document.location.href),'','width=400,height=400');" class="liveChatInt-home"><div class="icon-liveChatInt"></div>Chat Now</a>
+        </div>
+        <div class="clear">
     </div>
 </div>
 <div id="content">
@@ -1652,11 +1801,11 @@ We use Google Analytics, a third-party tracking service, which uses cookies to t
         	<h6 class="white">Main Menu</h6>
             <ul>
             	<li><a href="/">Home</a></li>
-                <li><a href="/web-chat-software/">Tour</a></li>
-                <li><a href="http://buzz.websitealive.com">Buzz</a></li>
-                <li><a href="/live-chat-pricing/">Pricing &amp; Sign Up</a></li>
-                <!--<li><a href="/add-ons/">Add-Ons</a></li>-->
-                <li><a href="/aboutus/">About Us</a></li>
+                <li><a href="/alivechat/">Live Chat</a></li>
+                <li><a href="/alivedial/">Click-to-Call</a></li>
+                <li><a href="/aliveconcierge/">Concierge</a></li>
+                <li><a href="/live-chat-pricing/">Pricing</a></li>
+                <li><a href="http://buzz.websitealive.com/">Buzz</a></li>
                 <li><a href="http://go.websitealive.com/downloads/pdf/websitealive.pdf">Brochure</a></li>
             </ul>
         </div>
@@ -1668,18 +1817,18 @@ We use Google Analytics, a third-party tracking service, which uses cookies to t
                 <li><a href="/affiliate-chat-program/">Affiliate Program</a></li>
                 <li><a href="/government-certified-live-chat-software-for-website/">Government</a></li>
                 <li><a href="/web-chat-security/">Security Overview</a></li>
-                <li><a href="/legal/">Legal</a></li>
-                <li><a href="/privacy/">Privacy Policy</a></li>
+                <li><a href="/aboutus/">About Us</a></li>
             </ul>
         </div>
         <div class="menuSection">
         	<h6 class="white">Support Links</h6>
             <ul>
-            	<li><a href="/live-chat-implementation/">Support</a></li>
-                <li><a href="/howtovideos/">How To Videos</a></li>
+            	<li><a href="/howtos/">Support</a></li>
                 <li><a href="http://buzz.websitealive.com/service-status/">Service Status</a></li>
                 <li><a href="http://buzz.websitealive.com/category/release/">Release Notes</a></li>
                 <li><a href="/contact/">Contact Us</a></li>
+                <li><a href="/legal/">Legal</a></li>
+                <li><a href="/privacy/">Privacy Policy</a></li>
             </ul>
         </div>
         <div class="menuSection">
@@ -1705,7 +1854,7 @@ We use Google Analytics, a third-party tracking service, which uses cookies to t
 </div>
 <div id="subFooter">
 	<div id="subFooterContent">
-    	<div class="copyright">© 2002 - 2013 AYU Technology Solutions LLC, All Rights Reserved. All trademarks held by their respective owners.</div>
+    	<div class="copyright">© 2014 AYU Technology Solutions LLC, All Rights Reserved. All trademarks held by their respective owners.</div>
     </div>
 </div>
 <script type="text/javascript">
@@ -1719,15 +1868,31 @@ We use Google Analytics, a third-party tracking service, which uses cookies to t
   })();
 </script>
 
-
+<script type="text/javascript">
+adroll_adv_id = "QUSJ4EKDXNG5HPGACSOJFB";
+adroll_pix_id = "6RDGIFAZSNCQ3FHDQYIJHM";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
 <script type="text/javascript">
 //<![CDATA[
 (function() {
 var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=2';
 var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
 })();
 // ]]>
 </script>
 
-</body></html>
+</div></body></html>
