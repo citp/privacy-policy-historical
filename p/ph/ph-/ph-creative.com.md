@@ -1,42 +1,39 @@
-> *The following text is extracted and transformed from the ph-creative.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821111523id_/http%3A//www.ph-creative.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ph-creative.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326134101id_/http%3A//www.ph-creative.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Ph.Creative
 
-#### Privacy Policy
+Ph.Creative Ltd takes your privacy seriously. Your personal information will not be sold or otherwise distributed to third parties without your consent. Ph.Creative Ltd is not a source of unsolicited email.
 
-Ph-Creative Ltd takes your privacy seriously. Your personal information will not be sold or otherwise distributed to third parties without your consent. Ph-Creative Ltd is not a source of unsolicited email.
+## What Our Privacy Policy Covers
 
-### What Our Privacy Policy Covers
+This policy covers what personal information Ph.Creative Ltd collects, how that information is collected and why we need it. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. This policy does not cover the practices of companies other than Ph.Creative Ltd or people who are not employed or managed by Ph.Creative Ltd. Third party sites provide the products and services listed on Ph.Creative Ltd and these sites have their own privacy statements and are not covered by this policy.
 
-This policy covers what personal information Ph-Creative Ltd collects, how that information is collected and why we need it. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. This policy does not cover the practices of companies other than Ph-Creative Ltd or people who are not employed or managed by Ph-Creative Ltd. Third party sites provide the products and services listed on Ph-Creative Ltd and these sites have their own privacy statements and are not covered by this policy.
+## What Information We Collect and How We Use It
 
-### What Information We Collect and How We Use It
+Providing your email address to Ph.Creative Ltd is optional and used solely to update you with new products and services that our site has to offer, or to respond to and queries you have sent Ph.Creative Ltd automatically receives and records information on our server logs from your browser, including your IP address, browser type, and the page(s) you request. This information is collected anonymously and is used to better understand how people use our site and improve its performance.
 
-Providing your email address to Ph-Creative Ltd is optional and used solely to update you with new products and services that our site has to offer, or to respond to and queries you have sent Ph-Creative Ltd automatically receives and records information on our server logs from your browser, including your IP address, browser type, and the page(s) you request. This information is collected anonymously and is used to better understand how people use our site and improve its performance.
+## Who Has Access to Your Information
 
-### Who Has Access to Your Information
+As a matter of policy Ph.Creative Ltd does not sell, rent, share or otherwise distribute any of your personal information to third parties except in certain specific circumstances. Those circumstances are as follows:
 
-As a matter of policy Ph-Creative Ltd does not sell, rent, share or otherwise distribute any of your personal information to third parties except in certain specific circumstances. Those circumstances are as follows:
+We receive a subpoena, court order or other legal demand for your information.  
+We believe it is necessary to share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, or as otherwise required by law.  
+Ph.Creative Ltd is acquired by or merged with another company. In this event Ph.Creative Ltd will notify you before your information is transferred and becomes subject to a different privacy policy.
 
-  * We receive a subpoena, court order or other legal demand for your information.
-  * We believe it is necessary to share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, or as otherwise required by law.
-  * Ph-Creative Ltd is acquired by or merged with another company. In this event Ph-Creative Ltd will notify you before your information is transferred and becomes subject to a different privacy policy.
-  * Some of our services allow you to make certain information public or accessible to certain individuals. If you make use of these services Ph-Creative Ltd will share your information as you request.
+Some of our services allow you to make certain information public or accessible to certain individuals. If you make use of these services Ph.Creative Ltd will share your information as you request.
 
+## What are Cookies and Why do We Use Them
 
+Cookies are a standard Internet technology, and many major web sites use them to provide useful features for their members. Cookies allow us to store and retrieve login and other information on a user's system. They provide us with data that we can use to improve our service to you. Cookies themselves do not personally identify users, although they do identify a user's computer. The default setting for most browsers is to accept cookies; if you prefer you can set yours to refuse them. If you choose not to accept cookies you will not be able to take full advantage of Ph.Creative Ltd.
 
-### What are Cookies and Why do We Use Them
+## What Happens if Ph.Creative Ltd Makes a Change to This Policy?
 
-Cookies are a standard Internet technology, and many major web sites use them to provide useful features for their members. Cookies allow us to store and retrieve login and other information on a user's system. They provide us with data that we can use to improve our service to you. Cookies themselves do not personally identify users, although they do identify a user's computer. The default setting for most browsers is to accept cookies; if you prefer you can set yours to refuse them. If you choose not to accept cookies you will not be able to take full advantage of Ph-Creative Ltd.
+If Ph.Creative Ltd intends to make a change to our privacy policy we will post a notice on this site and we will also notify you by email.
 
-### What Happens if Ph-Creative Ltd Makes a Change to This Policy?
+## How You Can Contact Us
 
-If Ph-Creative Ltd intends to make a change to our privacy policy we will post a notice on this site and we will also notify you by email.
+If you have any questions about this privacy statement, the practices of this website or your dealings with this website you may get in touch with us through the [Contact Us](https://web.archive.org/contact/ "Contact") page.
 
-### How You Can Contact Us
-
-If you have any questions about this privacy statement, the practices of this website or your dealings with this website you may get in touch with us through the Contact Us page.
-
-### How to Unsubscribe
+## How to Unsubscribe
 
 If no longer wish to receive updates on the products and services that we offer then please send an email from that address with the word "unsubscribe" in the subject.
