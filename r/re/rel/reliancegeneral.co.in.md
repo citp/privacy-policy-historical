@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reliancegeneral.co.in privacy policy that was archived on 2013-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130919211651id_/http%3A//www.reliancegeneral.co.in/insurance/terms-and-conditions/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliancegeneral.co.in privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326220726id_/https%3A//www.reliancegeneral.co.in/insurance/terms-and-conditions/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,6 +13,8 @@ Only authorized personnel have access to your information. Our systems and proce
 ## Use of the information collected
 
 The information collected by us includes your contact information such as your name, address, and email address and other details as given in the registration page of our website. If you purchase a policy from us we will collect financial information such as credit card number and expiration date through the payment gateway of the credit card company or the Internet banking service of your bank. We also collect information such as beneficiary name, address and your relationship to the beneficiary when you buy a policy from us. This is required to maintain a record of your beneficiary details for your insurance with us.
+
+By using this website you authorize us to contact you via email or phone on your contact details provided above and offer you information and services for the product you have opted for. You authorize us to call you for the mentioned purpose for a period of upto 30 days irrespective of whether you are registered with the NDNC registry.
 
 We may collect, use and disclose your personal information to:
 
