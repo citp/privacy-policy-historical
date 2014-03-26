@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the georiot.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925014850id_/http%3A//www.georiot.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the georiot.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326154854id_/http%3A//www.georiot.com/about-us/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - GeoRiot
+# Privacy Policy | GeoRiot
 
 This Privacy Policy will govern your use of the GeoRiot website as well as any of its related Services ("GeoRiot", "Glob.ly", "GeoRiot.co", "Site", "Services", "us", "we") which is provided by GeoRiot, LLC. GeoRiot provides online tools and services that implement specialized links into your website or mobile application ("property") that direct users of that link through specialized links connected with advertisers and affiliate networks. 
 
