@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ellie.com privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008202646id_/http%3A//www.ellie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellie.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326120602id_/https%3A//www.ellie.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Luxury Workout and Activewear for Women | Exercise Apparel | Ellie
 
 Ellie Fashion Group, Inc. (“Ellie Fashion Group”, “ELLIE”, “We”, “Us” or “ Our”) values your privacy and is committed to protecting your personal information. Ellie Fashion Group is an online service that delivers high-quality women’s activewear and accessories to its subscription members once a month (“Services”). Ellie Fashion Group is also an ecommerce site located at http://www.ellie.com (the “Site”), with items available for purchase on our storefront at stated retail pricing (also part of the “Services”).
 
