@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salsajeans.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517031216id_/http%3A//www.salsastore.com/index.php%3Fid%3D18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salsajeans.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326120334id_/http%3A//www.salsastore.com/en/index.php%3Fid%3D18) for the most accurate reproduction.*
 
 # Salsa | Fashion Jeans, Clothing and Accessories for Women & Men
 
@@ -153,13 +153,13 @@ The user understands and accepts that Salsa Star may (but is not obligated to) r
 
 Prohibited contents include those which:
 
-(a) are clearly offensive to the online community, such as Content which promotes racism, fanaticism, hate or physical offences of any kind against any group or individual; 
+a) are clearly offensive to the online community, such as Content which promotes racism, fanaticism, hate or physical offences of any kind against any group or individual; 
 
-(b) imply the sending of junk mail, chain letters or unsolicited e-mails or spamming;
+b) imply the sending of junk mail, chain letters or unsolicited e-mails or spamming;
 
-(c) promote false or misleading information or promote illegal activities or abusive, threatening, obscene, defamatory or slanderous conduct;
+c) promote false or misleading information or promote illegal activities or abusive, threatening, obscene, defamatory or slanderous conduct;
 
- (d) Request passwords or personal identification information of any kind for the commercial or illicit finalities of other users and involving commercial and/or sales activities without previous written consent, such as competitions, bets, exchanges, publicity or pyramid schemes. (e) are in any other way abusive to the Salsa Star programme according to the terms defined.
+d) Request passwords or personal identification information of any kind for the commercial or illicit finalities of other users and involving commercial and/or sales activities without previous written consent, such as competitions, bets, exchanges, publicity or pyramid schemes. e) are in any other way abusive to the Salsa Star programme according to the terms defined.
 
 3\. ELECTRONIC COMMUNICATION  
 Communication between the User and Salsa Star is carried out by electronic means or by SMS.
@@ -167,35 +167,35 @@ Communication between the User and Salsa Star is carried out by electronic means
   
 4\. Salsa, Irmãos Vila Nova, S.A. (hereon forward “Salsa”), is the promoter of the Salsa Star programme.
 
- 1\. Objective
+1\. Objective
 
- 1.1) The Salsa Star programme allows clients to be rewarded for the preference they demonstrate in purchasing Salsa products, or any others that may be stipulated, through access to prizes, privileges, benefits and other products or services, at the various Salsa store locations.
+1.1) The Salsa Star programme allows clients to be rewarded for the preference they demonstrate in purchasing Salsa products, or any others that may be stipulated, through access to prizes, privileges, benefits and other products or services, at the various Salsa store locations.
 
- 1.2) Any individual who is a Salsa client, 18 years or older and is not a Salsa employee may participate in the programme.
+1.2) Any individual who is a Salsa client, 18 years or older and is not a Salsa employee may participate in the programme.
 
- 1.3) The prizes, privileges, benefits and other products or services in effect at the time shall be communicated on-line in the Salsa Star Community, at[www.salsastore.com](http://www.salsastore.com/)
+1.3) The prizes, privileges, benefits and other products or services in effect at the time shall be communicated on-line in the Salsa Star Community, at [www.salsastore.com](http://www.salsastore.com/)
 
- 1.4) Salsa may also, at any moment and without previous notice alter the prizes, privileges, benefits and other products or services.
+1.4) Salsa may also, at any moment and without previous notice alter the prizes, privileges, benefits and other products or services.
 
- 1.5) The operating conditions of the programme, foreseen in the present regulations and part of the legal notices published on the site[www.salsastore.com](http://www.salsastore.com/), come into effect on February 1st 2012. This date may however be altered in function of the evolution or development introduced in the operating model of programme, safeguarding the legitimate interests of the members. 
+1.5) The operating conditions of the programme, foreseen in the present regulations and part of the legal notices published on the site [www.salsastore.com](http://www.salsastore.com/), come into effect on February 1st 2012. This date may however be altered in function of the evolution or development introduced in the operating model of programme, safeguarding the legitimate interests of the members. 
 
 2\. Validity / Characteristics
 
- 2.1) The Salsa Star programme is of unlimited duration. However, Salsa reserves the right to cancel, alter or substitute the programme and the respective regulations and legal notices by communicating the situation at least 30 days in advance, by publishing this information in the Salsa Star Community on the site [www.salsastore.com](http://www.salsastore.com/). The obtainment of benefits may only take place 30 days after the date announced to be the end date of the programme.
+2.1) The Salsa Star programme is of unlimited duration. However, Salsa reserves the right to cancel, alter or substitute the programme and the respective regulations and legal notices by communicating the situation at least 30 days in advance, by publishing this information in the Salsa Star Community on the site [www.salsastore.com](http://www.salsastore.com/). The obtainment of benefits may only take place 30 days after the date announced to be the end date of the programme.
 
 3\. Membership
 
- 3.1) Any client, in a personal capacity, may become a member of the Salsa Star programme on the site [www.salsastore.com](http://www.salsastore.com/), in the respective registration area, or in participating Salsa stores.
+3.1) Any client, in a personal capacity, may become a member of the Salsa Star programme on the site [www.salsastore.com](http://www.salsastore.com/), in the respective registration area, or in participating Salsa stores.
 
- 3.2) The use of the internet site [www.salsastore.com](http://www.salsastore.com/) implies the participants having knowledge and expressly accepting the conditions of use (Legal  notices) and of the present regulations.
+3.2) The use of the internet site [www.salsastore.com](http://www.salsastore.com/) implies the participants having knowledge and expressly accepting the conditions of use (Legal  notices) and of the present regulations.
 
 3.3) All individuals who correctly registered in the Salsa Star programme on the site [www.salsastore.com](http://www.salsastore.com/)  and were attributed a user name and password for the registered clients area are members of the Salsa Star programme.
 
- 3.4) According to the terms of the legislation in effect relative to the protection of computerised personal information, the information gathered by Salsa shall be computer processed and stored, so that it may be analysed, decided upon and managed relative to the services to be provided and the addresses used to send commercial information regarding the Salsa Star programme.
+3.4) According to the terms of the legislation in effect relative to the protection of computerised personal information, the information gathered by Salsa shall be computer processed and stored, so that it may be analysed, decided upon and managed relative to the services to be provided and the addresses used to send commercial information regarding the Salsa Star programme.
 
- 3.5) The right to access the information registered about each user is a recognised right of the subscribers, as long as they are duly identified. Furthermore, they may request that their information be corrected and/or eliminated.
+3.5) The right to access the information registered about each user is a recognised right of the subscribers, as long as they are duly identified. Furthermore, they may request that their information be corrected and/or eliminated.
 
- 3.6) Members of the Salsa Star programme may end their participation in the programme by communicating this information through express communication which includes the identification information supplied at the time of registration in the Salsa Star programme and supplied to Salsa. This request can be made by e-mail to the address: [customer.care@salsa.pt](mailto:customer.care@salsa.pt) or mailed directly to Salsa Star at the address: Avenida das Indústrias, nº 511 Apartado 7079 - 4760-725 Ribeirão, V.N.F. Portugal.
+3.6) Members of the Salsa Star programme may end their participation in the programme by communicating this information through express communication which includes the identification information supplied at the time of registration in the Salsa Star programme and supplied to Salsa. This request can be made by e-mail to the address: [customer.care@salsa.pt](mailto:customer.care@salsa.pt) or mailed directly to Salsa Star at the address: Avenida das Indústrias, nº 511 Apartado 7079 - 4760-725 Ribeirão, V.N.F. Portugal.
 
 4\. Salsa Star Programme
 
@@ -239,9 +239,9 @@ a) Purchases carried out in participating Salsa stores – with a correspondence
 
 b) Promotional systems of personalised point attribution (promotional campaigns);
 
-c) On-line interactions – 
+c) On-line interactions
 
-Recruited friends (registered on-line to Salsa Star through the Share&Win client invitation) = 5 points
+d) Recruited friends (registered on-line to Salsa Star through the Share&Win client invitation) = 25 points
 
 6.2) The development of the specified promotional campaigns may allow, during specific periods of time, for the attribution of Salsa Star Points in quantities different from those previously stipulated, the attribution of a bonus according to determined criteria and communicated on a case-by-case basis, or points may not be attributed when there exist benefits of other advantages in obtaining offers in the Salsa Star programme.
 
@@ -273,35 +273,35 @@ e) Level 5 (5 star clients) ≥ 1300 points; 
 
 a) Access to the benefits associated with campaigns, in effect at the time and which may be different for each Salsa Star level. 
 
-c) Access to raffles and promotions, in effect at the time and which may be different for each Salsa Star level.
+b) Access to raffles and promotions, in effect at the time and which may be different for each Salsa Star level.
 
-d) Exclusive access to information regarding the programme;
+c) Exclusive access to information regarding the programme;
 
-e) Birthday Discount (5% for 2 star clients, 10% for 3 star clients, 15% for 4 star clients and 20% for 5 star clients).The discount is valid for one purchase at participating points of sale and not cumulative with other campaigns/promotions. This benefit is only applicable to clients who have a valid email address and mobile number in their client record and who have authorised Salsa to contact them. 
+d) Birthday Discount (5% for 2 star clients, 10% for 3 star clients, 15% for 4 star clients and 20% for 5 star clients).The discount is valid for one purchase at participating points of sale. The discount can't be combined with other campaigns or discounts and it isn't valid for promotions or sales neither in the purchase of gift-voucher/e-gifts. This benefit is only applicable to clients who have a valid email address and mobile number in their client record and who have authorised Salsa to contact them. It is valid from the day before of client birthday untill 15 days after.
 
-f) Happy Day Online (valid for 3, 4 and 5 star clients – 10%, 15% and 20% respectively). The discount is valid for one purchase at participating points of sale and not cumulative with other campaigns/promotions. This benefit is only applicable to clients who have a valid email address and mobile number in their client record and who have authorised Salsa to contact them.
+e) Happy Day Online (valid for 3, 4 and 5 star clients – 10%, 15% and 20% respectively). The discount is valid for one purchase only at [www.salsastore.com](http://www.salsastore.com/). The discount can't be combined with other campaigns or discounts and it isn't valid for promotions or sales neither in the purchase of gift-voucher/e-gifts. This benefit is only applicable to clients who have a valid email address and mobile number in their client record and who have authorised Salsa to contact them.
 
-g) Moving up a level Discount - 10% (valid for all levels). The discount is valid for one purchase at participating points of sale and not cumulative with other campaigns/promotions. For this discount, a change in level is considered to be valid; however recovery of a previous level within a period of less than three months is not valid. This benefit is only applicable to clients who have a valid email address and mobile number in their client record and who have authorised Salsa to contact them.
+f) Level-up Discount - 10% (valid for all levels). The discount is valid for one purchase at participating points of sale and not cumulative with other campaigns/promotions. For this discount, a change in level is considered to be valid; however recovery of a previous level within a period of less than three months is not valid. This benefit is only applicable to clients who have a valid email address and mobile number in their client record and who have authorised Salsa to contact them.
 
-h) Free Shipping and Handling from the On-line Store (for 4 and 5 star clients)
+g) Free Shipping and Handling from the On-line Store (for 4 and 5 star clients) (valid only for European Union)
 
-i) Christmas gift for all 5 star clients (clients which have or acquired 5 stars up to December 24th of the year respective to the campaign).
+h) Christmas gift for all 5 star clients (clients which have or acquired 5 stars up to December 24th of the year respective to the campaign).
 
 7.5) The delivery of prizes which may be attributed is subject to the conditions in effect at the time.
 
-8) By registering in Salsa Star, the Member automatically registers in the Share&Win/Publish&Win service. With this service, when friends are invited, the Member wins 5 points for each friend who registers in the Salsa Star programme. The member also receives a voucher in the amount equivalent to 10% of the amount paid by each friend for their first on-line purchase after registering through Share&Win/Publish&Win. The 10% is calculated using the amount paid by the friend, in other words, net amount after discounts. The 10% is offered as long as the purchase occurs in the month following their registration. 
+8) By registering in Salsa Star, the Member automatically registers in the Share&Win service. With this service, when friends are invited, the Member wins 25 points (invitations before June 10, 2013 earn 5 points) for each friend who registers in the Salsa Star programme. The member also receives a voucher in the amount equivalent to 10% of the amount paid by each friend in their first on-line purchase after registering through Share&Win. The 10% is calculated using the amount paid by the friend, in other words, net amount after discounts. The 10% is offered as long as the purchase occurs in the month following their registration. The discount can't be combined with other campaigns or discounts and it isn't valid for promotions or sales neither in the purchase of gift-voucher/e-gifts. 
 
 If Salsa detects exploitation/fraud, the Member must return the amount unduly received and may be forbidden from taking part in the Salsa Star Community.  
 
-Whenever a Member registers in Salsa Star through Share&Win/Publish&Win, they agree to Salsa sharing with the friend who invited them, the fact that they indeed did register. This permission is necessary so that the friend may win 5 points.
+Whenever a Member registers in Salsa Star through Share&Win, they agree to Salsa sharing with the friend who invited them, the fact that they indeed did register. This permission is necessary so that the friend may win 25 points.
 
-Whenever a Member registers in Salsa Star through Share&Win/Publish&Win, they will receive a 15% discount on their first on-line purchase. This is not valid with other promotions, campaigns or discounts. By registering, the member accepts that Salsa shares with the friend who invited them, the value of their first purchase. This authorisation is necessary so that the friend may win a voucher in the amount of 10% of their first purchase (net value). 
+Whenever a Member registers in Salsa Star through Share&Win, they will receive a 15% discount on their first on-line purchase. The discount can't be combined with other campaigns or discounts and it isn't valid for promotions or sales neither in the purchase of gift-voucher/e-gifts. By registering, the member accepts that Salsa shares with the friend who invited them, the value of their first purchase. This authorisation is necessary so that the friend may win a voucher in the amount of 10% of their first purchase (net value). The discount can't be combined with other campaigns or discounts and it isn't valid for promotions or sales neither in the purchase of gift-voucher/e-gifts. 
 
 9) Participating Salsa stores 
 
-9.1) The accumulation of points is valid at Salsa’s online store and all Salsa stores in Portugal, Spain, French and Luxemburg, including outlets, except ECIs, Lafayette Galleries and other department stores.
+9.1) The accumulation of points is valid at Salsa’s online store and all Salsa stores in Portugal, Spain, France, Germany, Luxemburg and Angola, including outlets, except ECIs, Lafayette Galleries and other department stores.
 
-9.2) The discounts are valid at Salsa’s online store and all Salsa stores in Portugal, Spain, French and Luxemburg, except outlets, ECIs, Lafayette Galleries and other department stores.  
+9.2) The discounts are valid at Salsa’s online store and all Salsa stores in Portugal, Spain, France, Luxemburg, Germany and Angola, expect ECIs and other department stores.  
 
 
 10) Suggestions or complaints
