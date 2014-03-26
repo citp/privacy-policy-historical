@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myrecipemagic.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129103142id_/http%3A//www.myrecipemagic.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrecipemagic.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327001026id_/http%3A//myrecipemagic.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
