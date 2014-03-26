@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the azonautobuilder.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213050424id_/http%3A//azonautobuilder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azonautobuilder.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326032656id_/http%3A//azonautobuilder.com/sales/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Azon Auto Builder
 
 The privacy of our visitors is of extreme importance to us. This privacy policy document is designed to advise you about how we collect, use, and protect the Personally Identifiable Information (hereinafter defined) that you provide to us through our website. By visiting this website, you are accepting the practices described in this Privacy Policy. 
 
@@ -53,4 +53,4 @@ Occasionally, at our discretion, we may include or offer third party products or
 These policies may be amended by us at any time and without notice, but will be posted at this page. You agree that your continued use of our websites, product or service after that date will constitute your consent and acceptance of the amendment.
 
 7.) CONTACT INFORMATION  
-If there are any questions regarding this privacy policy you may contact us at the following e-mail address: support@azonautobuilder.com
+If there are any questions regarding this privacy policy you may contact us at the following e-mail address: admin@azonautobuilder.com
