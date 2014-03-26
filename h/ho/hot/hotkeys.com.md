@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotkeys.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822220128id_/https%3A//www.hotkeys.com/m/legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotkeys.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326040029id_/https%3A//www.hotkeys.com/m/legal/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Hotkeys - Providing Superior Traffic Monetization
 
@@ -143,7 +143,7 @@ Demand Media, Inc. has further committed to refer unresolved privacy complaints 
 
 **Dispute Resolution.**
 
-If you have any questions or concerns about this Policy, first contact us at [privacy@demandmedia.com](https://web.archive.org/web/20130822220128id_/https%3A//www.hotkeys.com/m/legal/privacy@demandmedia.com) and we will do our best to answer your questions and resolve your concerns in a timely and professional manner. But in the unfortunate and unlikely event that we are unable do so, we work with the Council of Better Business Bureaus (BBB) as an independent dispute resolution provider. You can contact BBB and follow their guidelines for initiating dispute resolution procedures here ([www.bbbonline.org/consumer/complaint.asp](http://www.bbbonline.org/consumer/complaint.asp)), by phone at 703-276-0100, or by mail at Council of Better Business Bureaus, Inc., 4200 Wilson Boulevard, Suite 800, Arlington, VA 22203
+If you have any questions or concerns about this Policy, first contact us at [privacy@demandmedia.com](https://web.archive.org/web/20140326040029id_/https%3A//www.hotkeys.com/m/legal/privacy@demandmedia.com) and we will do our best to answer your questions and resolve your concerns in a timely and professional manner. But in the unfortunate and unlikely event that we are unable do so, we work with the Council of Better Business Bureaus (BBB) as an independent dispute resolution provider. You can contact BBB and follow their guidelines for initiating dispute resolution procedures here ([www.bbbonline.org/consumer/complaint.asp](http://www.bbbonline.org/consumer/complaint.asp)), by phone at 703-276-0100, or by mail at Council of Better Business Bureaus, Inc., 4200 Wilson Boulevard, Suite 800, Arlington, VA 22203
 
 European Union citizens with unresolved privacy concerns may also email BBB at [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org) or direct your mail to Council of Better Business Bureaus, Inc., BBB EU Safe Harbor at the address listed above.
 
