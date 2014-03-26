@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bostonproper.com privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018162651id_/http%3A//www.bostonproper.com/store/page.jsp%3Fid%3D81809283) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bostonproper.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326153031id_/http%3A//www.bostonproper.com/store/page.jsp%3Fid%3D81809283) for the most accurate reproduction.*
 
 # Privacy Policy - Boston Proper
 
@@ -38,7 +38,7 @@ We may use the personal information we collect to:
 **HOW WE SHARE THE INFORMATION WE COLLECT**  
 We may share your personal information in the following ways: 
 
-  * With our affiliated brands. Visit [www.chicosfas.com](https://web.archive.org/web/20131018162651id_/http%3A//www.bostonproper.com/store/www.chicosfas.com) for a current list of brands owned by Chico's FAS, Inc. , which includes Chico's, White House | Black Market, Soma, and Boston Proper. In the event of the sale or a merger of Chico's FAS, Inc. or any of its affiliates, information we have collected may be among the assets transferred. 
+  * With our affiliated brands. Visit [www.chicosfas.com](https://web.archive.org/web/20140326153031id_/http%3A//www.bostonproper.com/store/www.chicosfas.com) for a current list of brands owned by Chico's FAS, Inc. , which includes Chico's, White House | Black Market, Soma, and Boston Proper. In the event of the sale or a merger of Chico's FAS, Inc. or any of its affiliates, information we have collected may be among the assets transferred. 
   * With companies who provide certain services for us, such as shipping, name and address verification, email distribution, and promotions management. We only share that information needed in order for these companies to perform the services requested and they are contractually obligated to protect this information and use it for no other purpose. 
   * With co-sponsors of contests, sweepstakes or promotions. 
   * With reputable companies whose products we believe will be of interest to you. We share only names and mailing addresses and do not share email addresses. 
