@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sultansofgame.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810184941id_/http%3A//www.sultansofgame.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sultansofgame.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326214913id_/http%3A//www.sultansofgame.com/privacy) for the most accurate reproduction.*
 
 # Privacy — Sultans of Game
 
