@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the parkatmyhouse.com privacy policy that was archived on 2013-08-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130819031140id_/https%3A//www.parkatmyhouse.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the parkatmyhouse.com privacy policy that was archived on 2014-03-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140326175704id_/http%3A//www.parkatmyhouse.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js geolocation" lang="en"><!--<![endif]--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# parkatmyhouse: http://ogp.me/ns/fb/parkatmyhouse#">
         <meta http-equiv="X-UA-Compatible" content="chrome=1">
@@ -11,7 +11,7 @@
         <meta name="keywords" content="parking spaces for rent, car parking, london parking, rent your driveway, let out your space, garages for rent, stadium parking, airport parking, garage rentals, parking, garages, driveways, rent, let">
 
         <link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet" type="text/css">
-        <link id="style_core" rel="stylesheet" type="text/css" media="all" href="/media/compressed/css/core.min.css?v=1376872246">
+        <link id="style_core" rel="stylesheet" type="text/css" media="all" href="/media/compressed/css/core.min.css?v=1393762067">
         <!--[if lt IE 8 ]>
             <link id="style_ie" rel="stylesheet" type="text/css" media="all" href="/media/compressed/css/ie.min.css?v=1376872255" />        <![endif]-->
 
@@ -21,7 +21,7 @@
         
                             
         <!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements & feature detects -->
-        <script type="text/javascript" async="" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_GB/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/media/compressed/js/modernizr.min.js?v=1376872241"></script>        <!--[if lte IE 8 ]>
+        <script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" async="" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_GB/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/media/compressed/js/modernizr.min.js?v=1376872241"></script>        <!--[if lte IE 8 ]>
             <script type="text/javascript" src="/media/compressed/js/selectivizr.min.js?v=1376872242"></script>        <![endif]-->
         <!-- Google Page -->
         <link href="https://plus.google.com/107589855752054222705" rel="publisher">
@@ -35,7 +35,9 @@
         <meta property="og:type" content="website">
         <meta property="og:url" content="https://www.parkatmyhouse.com/">
         <meta property="og:title" content="ParkatmyHouse">
-        <meta property="og:image" content="https://www.parkatmyhouse.com/media/img/logos/56-colour.png">
+        <meta property="og:image" content="http://www.parkatmyhouse.com/media/img/logos/320-colour.png">
+        <meta property="og:image:secure_url" content="https://www.parkatmyhouse.com/media/img/logos/320-colour.png">
+
         <meta property="og:description" content="Find cheap car parking or rent out your parking space, garage or driveway near a stadium, tube station or airport. Make money by renting out your private parking spot.">
         
                 <meta name="twitter:card" content="summary">
@@ -80,8 +82,8 @@
 	        ['_setAccount', 'UA-11508076-1'],
 	        ['_setDomainName', '.parkatmyhouse.com'],
         ['_setCustomVar', 1, 'member-type', 'Anonymous', 2],
-	    ['_setCustomVar', 4, 'first-click', 'Other', 3],
-        ['_setCustomVar', 5, 'last-click', 'Other', 2]
+	    ['_setCustomVar', 4, 'first-click', 'Direct', 3],
+        ['_setCustomVar', 5, 'last-click', 'Direct', 2]
 	);
 	
 	(function() {
@@ -99,7 +101,9 @@
                         _gaq.push(['_trackPageview']);
             
         </script>
-            </head>
+
+        
+    </head>
     <body lang="en" class="static country-gb">
         <div id="fb-root"></div>
 <script>
@@ -120,9 +124,19 @@ window.fbAsyncInit = function() {
 
 
         FB.getLoginStatus(function(response) {
-            PAMH_FB.status = response.status;
-            //debug.log(PAMH_FB.status);
+              PAMH_FB.status = response.status;
+            
+            if ((response.status === 'connected') || (response.status === 'not_authorized')){
+                if ($.cookie('fb_like') != 'hide'){
+                    $("#fblikeprompt").animate({
+                        height: [ "toggle", "swing" ],
+                        opacity: "toggle"
+                      });
+                }
+            }
+
         });
+
 
         FB.Event.subscribe('auth.authResponseChange', function(response) {
             PAMH_FB.status = response.status;
@@ -135,15 +149,21 @@ window.fbAsyncInit = function() {
                 'like',
                 targetUrl
             ]);
+            $("#fblikeprompt").animate({
+                height: [ "0", "swing" ],
+                opacity: "0"
+              });
+            $.cookie('fb_like', 'hide', { expires: 365, path: '/' });
         });
 
         FB.Event.subscribe('edge.remove', function(targetUrl) {
             _gaq.push([
-                    '_trackSocial',
-                    'Facebook',
-                    'unlike',
-                    targetUrl
-                ]);
+                '_trackSocial',
+                'Facebook',
+                'unlike',
+                targetUrl
+            ]);
+            $.cookie('fb_like', '', { expires: -1, path: '/' });
         });
 
         FB.Event.subscribe('message.send', function(targetUrl) {
@@ -155,6 +175,8 @@ window.fbAsyncInit = function() {
                 ]);
         });
 
+
+        
 
 };
    
@@ -192,45 +214,34 @@ window.fbAsyncInit = function() {
                                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Popular locations <b class="caret"></b></a>
                                             <ul class="dropdown-menu">
 
-
 	<li class="dropdown-submenu">
-		<a tabindex="-1" href="#">City parking</a>
+		<a tabindex="-1" href="#">Downtown parking</a>
 		<ul class="dropdown-menu">
 			<li>
-				<a href="/uk/parking/london/ ">London parking</a>
+				<a href="/us/parking/san-francisco/ ">San Francisco parking</a>
 			</li>
 			<li>
-				<a href="/uk/parking/manchester/ ">Manchester parking</a>
+				<a href="/us/parking/boston/ ">Boston parking</a>
 			</li>
 			<li>
-				<a href="/uk/parking/birmingham/ ">Birmingham parking</a>
+				<a href="/us/parking/new-york-city/ ">New York City parking</a>
 			</li>
 			<li>
-				<a href="/uk/parking/leeds/ ">Leeds parking</a>
+				<a href="/us/parking/austin/ ">Austin parking</a>
 			</li>
-			<li>
-				<a href="/uk/parking/edinburgh/ ">Edinburgh parking</a>
-			</li>
-
 		</ul>
 	</li>
 	<li class="dropdown-submenu">
 		<a tabindex="-1" href="#">Station parking</a>
 		<ul class="dropdown-menu">
 			<li>
-				<a href="/uk/parking/kings-cross/ ">King's Cross parking</a>
+				<a href="/us/parking/atlantic-terminal-station/ ">Atlantic Terminal parking</a>
 			</li>
 			<li>
-				<a href="/uk/parking/paddington/ ">Paddington parking</a>
+				<a href="/us/parking/westchester/ ">Westchester parking</a>
 			</li>
 			<li>
-				<a href="/uk/parking/golders-green/ ">Golders Green parking</a>
-			</li>
-			<li>
-				<a href="/uk/parking/stanmore/ ">Stanmore parking</a>
-			</li>
-			<li>
-				<a href="/uk/station-parking/">more...</a>
+				<a href="/us/station-parking/ ">more...</a>
 			</li>
 		</ul>
 	</li>
@@ -238,19 +249,19 @@ window.fbAsyncInit = function() {
 		<a tabindex="-1" href="#">Airport parking</a>
 		<ul class="dropdown-menu">
 			<li>
-				<a href="/uk/parking/heathrow-airport/ ">Heathrow airport parking</a>
+				<a href="/us/parking/jfk-airport/ ">JFK airport parking</a>
 			</li>
 			<li>
-				<a href="/uk/parking/gatwick-airport/ ">Gatwick airport parking</a>
+				<a href="/us/parking/newark-airport/ ">Newark airport parking</a>
 			</li>
 			<li>
-				<a href="/uk/parking/stansted-airport/ ">Stansted airport parking</a>
+				<a href="/us/parking/sfo-airport/ ">SFO airport parking</a>
 			</li>
 			<li>
-				<a href="/uk/parking/luton-airport/ ">Luton airport parking</a>
+				<a href="/us/parking/laguardia-airport/ ">LaGuardia airport parking</a>
 			</li>
 			<li>
-				<a href="/uk/airport-parking/">more...</a>
+				<a href="/us/airport-parking/ ">more...</a>
 			</li>
 		</ul>
 	</li>
@@ -258,50 +269,23 @@ window.fbAsyncInit = function() {
 		<a tabindex="-1" href="#">Stadium parking</a>
 		<ul class="dropdown-menu">
 			<li>
-				<a href="/uk/parking/wembley-stadium/ ">Wembley Stadium parking</a>
+				<a href="/us/parking/yankee-stadium/ ">Yankee Stadium parking</a>
 			</li>
 			<li>
-				<a href="/uk/parking/twickenham-stadium/ ">Twickenham Stadium parking</a>
+				<a href="/us/parking/grizzly-stadium/ ">Grizzly Stadium parking</a>
 			</li>
 			<li>
-				<a href="/uk/parking/millennium-stadium/ ">Millennium Stadium parking</a>
+				<a href="/us/parking/metlife-stadium/ ">MetLife Stadium parking</a>
 			</li>
 			<li>
-				<a href="/uk/parking/emirates-stadium/ ">Emirates Stadium parking</a>
+				<a href="/us/parking/pittsburgh-pirates/ ">PNC Park parking</a>
 			</li>
 			<li>
-				<a href="/uk/parking/old-trafford/ ">Old Trafford parking</a>
-			</li>
-			<li>
-				<a href="/uk/parking/o2-arena/">O2 Arena parking</a>
-			</li>
-			<li>
-				<a href="/uk/stadium-parking/">more...</a>
+				<a href="/us/stadium-parking/ ">more...</a>
 			</li>
 		</ul>
 	</li>
-	<!--
-	<li class="dropdown-submenu">
-		<a tabindex="-1" href="#">Ferry parking</a>
-		<ul class="dropdown-menu">
-			<li>
-				<a href="/uk/parking/wembley-stadium/ ">Southampton Ferry parking</a>
-			</li>
-			<li>
-				<a href="/uk/parking/twickenham-stadium/ ">Dover ferry parking</a>
-			</li>
-			<li>
-				<a href="/uk/parking/millennium-stadium/ ">Harwich ferry parking</a>
-			</li>
-			<li>
-				<a href="/uk/parking/emirates-stadium/ ">Liverpool ferry parking</a>
-			</li>
-			<li>
-				<a href="/uk/parking/old-trafford/ ">Portsmouth ferry parking</a>
-			</li>
-		</ul>
-	</li>
-	-->
+
 
 </ul>
 
@@ -535,7 +519,7 @@ window.fbAsyncInit = function() {
                                                     <a href="/community/">Community</a>
                                                 </li>
                                                 <li>
-                                                    <a href="/ev-charging/">Electric Vehicle Charging</a>
+                                                    <a href="http://www.chargeatmyhouse.com/" rel="external">Free EV Charging Unit</a>
                                                 </li>
                                                 <li>
                                                     <a href="/about/jobs/" title="We're hiring!">Jobs</a>
@@ -574,34 +558,43 @@ window.fbAsyncInit = function() {
 	<div class="span2">
 		<ul>
 			<li>
-				<a href="/uk/airport-parking/">Airport parking</a>
+				<a href="/us/airport-parking/">Airport parking</a>
 			</li>
-						<li>
-				<a href="/uk/london-underground-parking/ ">London Underground</a>
-			</li>
-			<li>
-				<a href="/uk/national-rail-parking/ ">National Rail</a>
-			</li>
-					</ul>
+											<li>
+					<a href="/us/amtrak-parking/ ">Amtrak parking</a>
+				</li>
+				<li>
+					<a href="/us/bart-parking/ ">BART parking</a>
+				</li>
+				<li>
+					<a href="/us/cta-parking/ ">CTA parking</a>
+				</li>
+				<li>
+					<a href="/us/mta-parking/ ">MTA parking</a>
+				</li>
+									</ul>
 	</div>
 	<div class="span2">
 		<ul>
 			<li>
-				<a href="/uk/concert-parking/">Concert parking</a>
+				<a href="/us/concert-parking/">Concert parking</a>
 			</li>
 						<li>
-				<a href="/uk/football-stadium-parking/">Football stadiums</a>
-			</li>
-			
-						<li>
-				<a href="/uk/rugby-stadium-parking/ ">Rugby stadiums</a>
+				<a href="/us/nfl-college-football-stadium-parking/">Football stadiums</a>
 			</li>
 			<li>
-				<a href="/uk/cricket-stadium-parking/ ">Cricket grounds</a>
+				<a href="/us/hockey-stadium-parking/">Hockey stadiums</a>
+			</li>
+			<li>
+				<a href="/us/basketball-stadium-parking/">Basketball stadiums</a>
+			</li>
+			<li>
+				<a href="/us/baseball-stadium-parking/">Baseball stadiums</a>
 			</li>
 			
+			
 			<li>
-				<a href="/uk/other-stadium-parking/">Other stadiums</a>
+				<a href="/us/other-stadium-parking/">Other stadiums</a>
 			</li>
 		</ul>
 	</div>
@@ -679,18 +672,46 @@ window.fbAsyncInit = function() {
 	c.parentNode.insertBefore(s, c);
 	})();
 </script>
-            <script type="text/javascript" src="/media/compressed/js/core.min.js?v=1376872226"></script>            
+            <script type="text/javascript" src="/media/compressed/js/core.min.js?v=1393858079"></script>            
 
             <script type="text/javascript" src="/media/compressed/js/facebook.min.js?v=1376872232"></script>
 
             <!--[if lte IE 7 ]>
                 <script type="text/javascript" src="/media/compressed/js/ie.min.js?v=1376872235"></script>            <![endif]-->
 
-
-            
-
-            
         
+
+<script type="text/javascript">
+var __lc = {};
+
+__lc.license = 3305322;
+
+
+	__lc.group = 3;
+
+
+
+(function() {
+	var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+	lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+})();
+
+
+var LC_API = LC_API || {};
+LC_API.on_chat_window_opened = function()
+{
+	_gaq.push([
+		'_trackEvent',
+		'Open',
+		'Chat Window',
+		$("title").text()
+	]);
+};
+
+
+
+</script>
         <script type="text/javascript" src="https://asset0.zendesk.com/external/zenbox/v2.5/zenbox.js"></script>
 <link rel="stylesheet" href="https://asset0.zendesk.com/external/zenbox/v2.5/zenbox.css" media="screen, projection">
 <script type="text/javascript">
@@ -706,6 +727,11 @@ if(typeof(Zenbox) !== "undefined") {
 }
 
 </script>
+
+        
+
+
+
         
         <!-- Google Code for Main list -->
 <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
@@ -726,5 +752,14 @@ var google_remarketing_only = true;
 </noscript>
 
 
+        
+                    <div id="fblikeprompt">
+                <a href="#" class="closebutton">×</a>
+                <a href="#" class="dontshow">Don't show again.</a>
+                <div id="fblikepromptnamebox"><div class="fblikehead">Like us on Facebook</div>
+                    <div class="fb-like" data-href="http://www.facebook.com/parkatmyhouse" data-send="false" data-layout="standard" data-width="225" data-show-faces="true" data-ref="FooterPopup"></div> 
+                <br> 
+                </div>
+            </div>
             
 </body></html>
