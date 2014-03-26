@@ -1,101 +1,41 @@
-> *The following text is extracted and transformed from the ivankatrump.com privacy policy that was archived on 2012-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120813071312id_/http%3A//shop.ivankatrump.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivankatrump.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326135917id_/http%3A//www.ivankatrump.com/privacy-policy) for the most accurate reproduction.*
 
-# Customer Service Privacy Policy at Ivanka Trump
+# Ivanka Trump :: Privacy Policy
 
-HMX Group, LLC, HMX DTC Co. and their brands, including but not limited to Ivanka Trump, Hickey Freeman, Hart Schaffner & Marx, Bobby Jones, Exclusively Misook, Christopher Blue, Sansabelt, and Worn (collectively, “HMX,” “we,” “us,” or “our”), recognize that your privacy is important to you. We collect information about you through our websites in order to manage your shopping experience with us and to communicate with you about our products, services, contests and promotions. This policy explains what personal information we collect about you and why; how we will use, share, and protect this information once it is collected; and the choices you can make about our collection and use of your personal information. We encourage you to review this policy to make sure you understand how any personal information you provide to us online will be treated.
+**Introduction:** At IT Collection LLC (IT) we have a strong commitment to providing excellent service to all of our customers, including respecting their concerns about privacy. We understand that visitors to our website ivankatrump.com (IT.com) may have questions about how this website collects and uses information. We have prepared this statement to inform you of the privacy principles that govern IT.com.
 
-We may change this policy from time to time. When we do, we will let you know by posting the changed policy on this page. You can tell if the policy has recently changed by checking the revision date that appears above. In some cases, for example, if we make any significant changes, we may contact you directly about changes to this policy, such as by sending you an e-mail.
+This statement contains numerous general and technical details about the steps we take to respect your privacy concerns. The bottom line is that meeting your needs and expectations form the foundation of everything we do - including protecting your privacy.
 
-Please click on a section title below to skip to that section of this policy.
+**Browsing:** This website does not collect personally identifiable information from your computer when you browse the site. This means that, unless you voluntarily and knowingly provide us with personally identifiable information, we will not know your name, your e-mail address, or any other personally identifiable information.
 
-What information does HMX collect?
+**Internet Protocol (IP) Address:** An IP address is a number that is automatically assigned to your computer when you browse the Internet. When users request a page from our site, our servers log the user's current IP address. We use IP addresses to help diagnose problems. We do not link IP addresses to any personally identifiable information about you.
 
-How does HMX use my information?
+**Cookies:** Our website uses cookie technology. Cookies are strings of text that a website may store on a user's computer. Our website uses cookies but only requires them in the online reservation process. Cookies enable our website to keep track of your preferences and activities relating to the website. Our website creates session cookies for each visit in order to facilitate your visit. The session cookie expires at the end of the session.
 
-Opt Out
+  * Use of Cookies and E-Mails - We use a third party service provider to send marketing e-mails on behalf of IT. There are no cookies in the e-mail. However, when an e-mail recipient clicks on a link to IT.com included in the e-mail, a persistent cookie is placed on the user's computer. This cookie is used to measure the effectiveness of our e-mail marketing efforts and better understand how our users navigate through the site. The cookie set by our service provider will remain on your hard drive 30 days after the last time you clicked on the coded link in the e-mail, or until you delete it.
 
-Sharing with Third Parties
+  * The third party service providers mentioned above are contractually bound not to use any information they gather for any purpose other than providing services to us. Cookies do not corrupt or damage your computer or computer files. In addition, we do not use cookies to gather information concerning your visits to non-IT.com websites. If you do not wish to receive these cookies, you may set your browser to reject the cookies (consult the instructions for your particular browser on how to do this), although doing so may affect your ability to perform certain transactions on our website.
 
-Third-Party Advertisers
 
-Security
 
-Third-Party “Linked-To” Web Sites
 
-Consent to Processing
+**Pixel Tags:** The third party service providers mentioned above serve and host IT advertisements on other sites. To track the effectiveness of IT advertisements on other sites, IT.com uses pixel tags (also known as clear gifs, beacon gifs, 1-by-1 gifs, or web bugs). Pixel tags are not visible to the user of the site and consist of a few lines of computer coding. If you are visiting IT.com from an advertisement on another site, the pixel tag references the cookie you received when you clicked on the advertisement. The pixel tag then registers this activity with the third party advertising company to allow us to count the number of times an advertisement is accessed. In addition, we also measure the reservations generated from a particular ad. At no time is personally identifiable information about you or your reservation collected by the third party advertising company, nor is any tracking information generated from the pixel tag allowed to be used by them for any other purpose other than to report website activity to us or allow us to better target future interactive advertising.
 
-Your Access Rights
+Our third party service providers may use pixel tags in IT marketing e-mails that help us send the e-mail in a format you can read, to allow us to know which e-mails you act upon and to better target the content of future e-mails. In addition, we track the aggregate number of e-mails read and whether any of the links in the e-mail were accessed. No other information is collected or used from pixel tags.
 
-Your California Privacy Rights
+**Information We Collect:** When we need to collect personally identifiable information from you, we will ask you to voluntarily supply us with the information we need. As indicated below (see E-Mail section), we may also use your e-mail address to notify you about special offers and promotions.
 
-Contact Us
+**E-Mail:** It is our intention to only send you e-mail communications that will be useful to you and that you want to receive. When you provide your e-mail address, we will occasionally contact you via e-mail and provide information about special offers and promotions that may be of interest to you. These communications will relate to IT offers and/or the promotions of affiliates or select, reputable third parties with whom IT has a strategic marketing relationship because they offer products or services that we believe would of interest to you. We use a third party e-mail service provider to send e-mails. This service provider is prohibited from using your e-mail address for any purpose other than to send IT related e-mail. Every time you receive e-mail you will be provided the choice to opt-out of future e-mails by following the instructions provided in the e-mail, or you may opt-out by updating your online profile.
 
-We collect two general types of information from Web site users:  (1) non-personal information concerning the use of our Web sites and (2) personal information that identifies or can be used to identify or contact an individual. Sometimes, we may link Non-Personal Information with Personal Information, in which case it becomes Personal Information.
+**IT Use of Information:** We treat the information you provide to us as confidential information; it is, accordingly, subject to our company's security procedures and strict corporate policies regarding protection and use of confidential information. Because laws applicable to personal information vary by country, our retail stores or other business operations may put in place additional measures that vary depending on the applicable legal requirements. Information collected on the sites covered by this privacy statement, which are listed in the first paragraph, is generally processed and stored in the United States.  
+Unless you tell us otherwise, the information you provide may be used by us for direct marketing of other IT products, the products of affiliates or select, reputable third parties with whom IT has a strategic marketing relationship because they offer products or services that we believe would of interest to you. IT may use the services of a third party mail house for the sole purpose of mailing materials.
 
-_Non-Personal Information:_ As is the case with many Web sites, our servers automatically collect your browser type and IP address when you visit one of our Web sites. We may also capture certain clickstream data, which includes, for example, the referring page that linked you to any HMX Web site, the pages you visit on our Web site, the next Web site you visit when you leave our Web site, and any search terms you have entered on our Web site or a referral site. 
+**Disclosure of Information to Third Parties:** IT prohibits the sale or transfer of personal information to unaffiliated third parties outside of IT for their use without your approval.
 
-In addition, we and our third party partners acting on our behalf may use cookies and/or pixel tags to keep track of your visits, preferences and profile information. Cookies are small data files stored on your computer’s hard drive at the request of a Web site, and do not contain personal information about you. Cookies may be used to enhance your experience on our Web sites (including by allowing you to remain logged in); to store some of your preferences; or to collect general usage and aggregated statistical information that does not by itself identify you personally. To learn more about cookies, including how to manage or delete them, **[click here](http://www.networkadvertising.org/managing/learn_more.asp)**. 
+**Links to Other Sites:** If you choose to leave this IT site via links to other non-IT websites, including those of advertisers, IT is not responsible for the privacy policies or content of those sites, nor is IT responsible for the cookies those sites use.
 
-Local shared objects, also known as Flash cookies, may also be stored on your hard drive using a media player installed on your computer or device. Flash cookies operate a lot like other cookies, but cannot be managed in the same way as non-Flash cookies. For more information on Flash cookies, **[click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html)**.
+**Legal Issues:** This is a United States website and is subject to United States law. IT will disclose personally identifiable information without your permission when required by law, or in good faith belief that such action is necessary to investigate or protect against harmful activities to IT guests, visitors, associates, or property (including this site), or to others, when entities performing business activities on IT’s behalf necessitate such information (e.g., credit card processing or customer support services), or in the event that IT is merged, acquired by or acquires another company.  As mentioned above, laws related to personal identifiable information vary by country. For example, personally identifiable information collected in the European Union is subject to the EU Data Protection Directive. 
 
-Any or all of the above-described activities with respect to Non-Personal Information may be performed on our behalf by our service providers.
+**Privacy Policy Effective Date:** The privacy policy is in effect at the time of each visit to our site. Please check our privacy policy each time you visit our website if you are concerned about how your information will be used.
 
-_Personal Information:   _Most of the Personal Information that we collect from you on our Web sites is what you provide to us. For example, we may collect Personal Information from you, such as your name, e-mail address, postal address, phone number, credit card number, gender, birthday, personal interests, etc., when you place an order online, save your information with us online, sign up for our newsletters, contact us with a question or concern, or participate in a contest, promotion, or survey.
-
-_Information Obtained from Third Parties:_ In some instances, we may supplement and combine the information collected from you with information that is received or otherwise obtained from third parties (whether related to HMX or not), such as our joint marketing partners.
-
-We and our trusted partners acting on our behalf may use the information (including Personal and Non-Personal Information) we collect from and about you to:
-
-·         process and fulfill your orders, including to send you confirmation and shipment status e-mails
-
-·         communicate with you and to send you information by e-mail, postal mail, telephone, text message, or other means about our products, services, contests, and promotions, unless you have directed us not to contact you with promotional communications
-
-·         administer and fulfill our contests and other promotions
-
-·         help us learn more about your shopping preferences and how we can improve our marketing efforts or your shopping experience with us
-
-·         help us address problems with and develop our site design, products and services
-
-·         conduct research and analysis
-
-·         protect the security or integrity of our websites and our business
-
-·         respond to customer service inquiries, questions, and concerns
-
-You always have the choice not to receive marketing information or calls. To learn how to opt out, please see the **Opt Out** section below. 
-
-You have the right to tell us not to send certain communications to you. For example, you may tell us not to send you our promotional e-mails by clicking on the appropriate link included with any such e-mail you receive from us or by contacting our customer service representatives using the information provided in the **Contact Us** section, below. Please note, however, that it may take up to 10 days to process your e-mail request and 6-8 weeks to process your postal mail request, during which period you may continue to receive promotional communications from HMX. Moreover, even if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us.
-
-If you change your mind, you can start receiving promotional communications from us again by logging into your online account and changing your preferences, by signing up when you visit our websites or our stores or when you enter a sweepstakes or contest, or by contacting customer service.
-
-HMX may share your information (including Personal Information and Non-Personal Information) with third parties for a variety of reasons. For example, we share your personal information with trusted third parties who manage our customer information and perform services on our behalf, such as fulfilling promotions, sending communications to our customers, processing credit card transactions, and conducting surveys.  These companies are authorized to use your information only as necessary to provide these services.  In addition, we may share your information:
-
-·         with our parent company, our affiliates, and among our brands
-
-·         with third parties in whose products or services we think you may have an interest
-
-·         as required by law and when we believe in good faith that disclosure is necessary to protect our rights or those of third parties, protect your safety or the safety of others, investigate fraud, or comply with a court order or other legal process
-
-·         in connection with a corporate change including a merger, acquisition, or sale of assets
-
-·         in connection with co-branded or co-sponsored products, services, contests, or promotions when we team up with others to offer or provide these things to our customers
-
-In addition, we may share aggregate Web site usage information that does not identify individual users with third parties for any reason, including, for example, marketing or analytical purposes.
-
-We may use third-party advertising companies to serve ads when you visit our Web sites. These companies may use information about your visits to this and other Web sites in order to provide advertisements that are customized to your interests and preferences. These advertisements may appear on this Web site and on other Web sites.
-
-Please note that some of the advertisers on our Web sites and their and our ad service providers (including advertising network providers and third party ad servers) may deploy cookies or related technologies through their advertising banners, links or other ads. While we use cookies and web beacons on parts of our sites (as discussed above), information received from cookies and other technologies deployed through third party ads and links may be collected directly by those advertisers and ad service providers. The advertiser’s privacy policy and/or that of its service provider will govern the use of this information and we are not responsible for the privacy practices of such companies. Additionally, some of these companies (like the ad networks) are members of the industry group, the Network Advertising Initiative, which offers a single location to opt out of their cookies. For more information, we encourage you to visit the Network Advertising Initiative’s consumer Web site by **[clicking here](http://www.networkadvertising.org/managing/)**.
-
-While we strive to protect the security and integrity of the information provided to us, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the Internet or while stored on our system or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers.
-
-In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail. **Unless you provide us with another method to notify you in this situation, you consent to our use of e-mail as a means of such notification.**
-
-Our Web sites may contain links, banners, widgets or advertisements that lead to other Web sites. We are not responsible for these other sites, and so their posted privacy policies will govern the collection and use of your information on them. We encourage you to read the privacy statements of the Web sites you visit after leaving any HMX Web site to learn about how your information is treated.
-
-By registering on one of our Web sites, you consent to the transmission of your information to, and its collection and processing in, the United States, and any other jurisdiction, in accordance with this policy.
-
-You may be able to access, view, delete and change your preferences, profile, and other information by visiting a “my account” area (or similar area, if any) on our Web sites. You may also inform HMX of changes or deletions by sending an e-mail to privacy@hmxgroup.com. We will endeavor to respond to your request to access, update or delete your information as soon as practicable. But before we are able to provide you with information, correct any inaccuracies, or delete any information, we may ask you to verify your identity or provide other details to help us respond to your request.
-
-California law permits our customers who are California residents to request certain information about our disclosure of Personal Information to third parties for these third parties’ direct marketing purposes. To make such a request, please send an e-mail to privacy@hmxgroup.com or write to us at HMX, 125 Park Avenue, 7th Floor, New York, NY 10017 attn: “CA Shine the Light” Request.
-
-HMX welcomes your questions and comments about privacy. Please feel free to contact us by sending an e-mail to [privacy@hmxgroup.com](mailto:privacy@hmxgroup.com).
+**IT.com Privacy Statement Changes:** In the future, we may need to change the privacy statement for IT.com. All changes will be made here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.
