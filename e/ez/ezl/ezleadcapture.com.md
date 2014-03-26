@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezleadcapture.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820232722id_/http%3A//www.ezleadcapture.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezleadcapture.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326224715id_/http%3A//www.ezleadcapture.com/privacy-policy) for the most accurate reproduction.*
 
 # EZLeadCapture.Com Privacy Policy
 
