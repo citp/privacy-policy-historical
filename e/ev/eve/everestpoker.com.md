@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the everestpoker.com privacy policy that was archived on 2013-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130210044643id_/https%3A//en.everestpoker.com/content/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everestpoker.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326032607id_/https%3A//en.everestpoker.com/content/privacypolicy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 Everest Gaming (Gibraltar) Limited (“we”, “us”, “Everest”), the company that operates the website [www.everestpoker.com](http://www.everestpoker.com/) and all variants thereof (the “Site” or “Sites”), has strict security measures designed to protect your personal data. The group of companies of which Everest is a part includes Everest and any holding company or subsidiary of Everest or any subsidiary of any such holding company and any company associated with such holding or subsidiary (“Group”).
 
