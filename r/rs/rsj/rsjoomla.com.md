@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsjoomla.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818100907id_/http%3A//www.rsjoomla.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsjoomla.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327003942id_/http%3A//www.rsjoomla.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,4 +32,4 @@ RSJoomla will occasionally update this Statement of Privacy to reflect company a
 
 ### Contact Information
 
-RSJoomla welcomes your comments regarding this Statement of Privacy. If you believe that RSJoomla has not adhered to this Statement, please contact RSJoomla at [techsupport@rsjoomla.com](mailto:techsupport@rsjoomla.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+RSJoomla welcomes your comments regarding this Statement of Privacy. If you believe that RSJoomla has not adhered to this Statement, please contact RSJoomla at techsupport@rsjoomla.com. We will use commercially reasonable efforts to promptly determine and remedy the problem.
