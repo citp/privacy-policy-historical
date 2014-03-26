@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lotpro.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430022832id_/http%3A//www.lotpro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotpro.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326181321id_/http%3A//www.lotpro.com/privacy) for the most accurate reproduction.*
 
 # LotPro.com Website Privacy Statement.
 
@@ -119,6 +119,7 @@ All financial companies need to share customers’ personal information to run t
   * Call our Customer Service department Toll Free at **(888) 986-1404**
   * Visit us online at [LotPro.com/contact](http://www.lotpro.com/contact/)
   * Email us at [CustomerCare@LotPro.com](mailto:customercare@lotpro.com)
+  * Mail the **form** below thru the US Postal Service
 
 
 
@@ -136,6 +137,47 @@ However, you can contact us at any time to limit our sharing.
 
 Call Toll Free: **(888) 986-1404** or Online at [LotPro.com/contact](http://www.lotpro.com/contact/)  
   
+* * *
+
+**Mail-in Form**  
+  
+---  
+  
+Leave Blank   
+OR  
+If you have a joint account, your choice(s) will apply to everyone on your account unless you mark below.
+
+Apply my choices  
+only to me 
+
+| 
+
+Mark any/all you want to limit:
+
+Do not share information about my creditworthiness with your affiliates for their everyday business purposes.  
+Do not allow your affiliates to use my personal information to market to me.  
+Do not share my personal information with non affiliates to market their products and services to me.   
+  
+**Name**
+
+| 
+
+Mail to:
+
+LotPro.com  
+
+
+2870 Pine Lake Road  
+West Bloomfield Twp, MI 48324  
+  
+**Address**  
+  
+**City, State, Zip**  
+  
+**Account #**  
+  
+* * *
+
 **Who We Are**  
   
 ---  
@@ -190,7 +232,7 @@ Companies related by common ownership or control. They can be financial and nonf
 
 Companies not related by common ownership or control. They can be financial and nonfinancial companies.
 
-_Nonaffiliates we share with can include lending institutions such as GM Financial, Santander, their direct and indirect affiliates, as well as other consumer finance companies; financial service providers including insurance companies and motor vehicle dealers and their lending partners; nonfinancial companies such as retailers, aftermarket product providers, co-branded partners, direct marketers, and advertisers._  
+_Nonaffiliates we share with can include lending institutions such as Santander, their direct and indirect affiliates, as well as other consumer finance companies; financial service providers including insurance companies and motor vehicle dealers and their lending partners; nonfinancial companies such as retailers, aftermarket product providers, co-branded partners, direct marketers, and advertisers._  
   
 **Joint marketing**
 
@@ -202,7 +244,11 @@ _Our joint marketing partners include companies such as lending institutions, fi
   
 #### Your Application Submission
 
-When you complete and submit the application form, you certify that all of the statements in the application are true and complete and are made for the purpose of obtaining credit. You authorize LotPro.com to share your application and related information with its lending partner(s) in order to complete the processing of your application. You authorize LotPro.com and its lending partners to retain and rely on your application and to access your credit report in order to evaluate your credit application. In addition, you acknowledge that you have read the state-specific notices related to your application and agree to receive Electronic Documents. You further authorize LotPro.com’s lending partner(s) to disclose any credit decision and related credit decision details to LotPro.com and other lending partners. By clicking the 'Submit' button at the bottom of the form, you authorize third-party lending institutions to share information in your application, and any other credit information they obtain, with other third parties who may be able to offer or arrange for a direct loan and/or dealer financing.
+When you complete and submit the application form, you certify that all of the statements in the application are true and complete and are made for the purpose of obtaining credit. You authorize LotPro.com to share your application and related information with its lending partner(s) in order to complete the processing of your application. You authorize LotPro.com and its lending partners to retain and rely on your application and to access your credit report in order to evaluate your credit application. In addition, you acknowledge that you have read the state-specific notices related to your application and agree to receive Electronic Documents. You further authorize LotPro.com’s lending partner(s) to disclose any credit decision and related credit decision details to LotPro.com and other lending partners. By clicking the 'Submit' button at the bottom of the form, you authorize third-party lending institutions to share information in your application, and any other credit information they obtain, with other third parties who may be able to offer or arrange for a direct loan and/or dealer financing. LotPro.com, and up to five participating dealers, lenders and other third parties may contact me on any number provided, using automated telephone dialing systems, text and/or pre-recorded messages to expedite my request and present other relevant offers. By clicking the submit button, I am consenting to these methods of contact. Consent is not required as a condition of the services. 
+
+#### Email Opt-Out Information
+
+To unsubscribe from future mailings, please e-mail us at [OptOut@LotPro.com](mailto:optout@lotpro.com) or clicking on the unsubscribe link at the bottom of our e-mails.
 
 #### Online Privacy Policy Notice
 
@@ -264,9 +310,6 @@ We and our third-party service providers may collect and use Other Information i
 
 Your Finance Application may be shared with the following consumer finance lending institutions:
 
-GM Financial  
-4001 Embarcadero Dr.  
-Arlington, TX 76014
 Santander  
 8585 N. Stemmons Freeway  
 Suite 1100 - North  
@@ -314,7 +357,7 @@ We may provide links to third party websites, such as credit bureaus, service pr
 
 **Social media sites**
 
-LotPro.com provides experiences on social media platforms including, but not limited to, Facebook®, Twitter®, YouTube® and LinkedIn® that enable online sharing and collaboration among users who have registered to use them. Any content you post on official LotPro.com managed social media pages, such as pictures, information, opinions, or any Personal Information that you make available to other participants on these social platforms, is subject to the Terms of Use and Privacy Policies of those respective platforms. Please refer to them to better understand your rights and obligations with regard to such content. In addition, please note that when visiting any official LotPro.com social media pages, you are also subject to the Terms and Conditions of LotPro.com's Privacy Notices, Social Media User Terms and Community Guidelines
+LotPro.com provides experiences on social media platforms including, but not limited to, Facebook®, Twitter®, YouTube® and LinkedIn® that enable online sharing and collaboration among users who have registered to use them. Any content you post on official LotPro.com managed social media pages, such as pictures, information, opinions, or any Personal Information that you make available to other participants on these social platforms, is subject to the Terms of Use and Privacy Policies of those respective platforms. We may also utilize Google® Media Services and Google® Maps API(s) and by using such services from within our website you are equally subject and agree to [Google’s Terms of Service](https://www.google.com/intl/en/policies/terms) and [Google’s Privacy Policy](https://www.google.com/policies/privacy). Please refer to them to better understand your rights and obligations with regard to such content. In addition, please note that when visiting any official LotPro.com social media pages, you are also subject to the Terms and Conditions of LotPro.com's Privacy Notices, Social Media User Terms and Community Guidelines
 
 **Security**
 
