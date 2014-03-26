@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2-viruses.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222113418id_/http%3A//www.2-viruses.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2-viruses.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326173638id_/http%3A//www.2-viruses.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 2-viruses.com
 
