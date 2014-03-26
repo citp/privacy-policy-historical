@@ -1,131 +1,157 @@
-> *The following text is extracted and transformed from the mcdonalds.com.au privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814174641id_/https%3A//mcdonalds.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdonalds.com.au privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326051133id_/https%3A//mcdonalds.com.au/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy | McDonald's
+# Privacy Policy | McDonald's Australia
 
-McDonald's Australia Limited ("McDonald's") understands that privacy is important to its customers and is pleased to provide information to all of its customers about its privacy policy. Please be assured that McDonald's uses its best efforts to protect the privacy of visitors to this website and the privacy of its customers who provide personal information by other means to McDonald's.
+McDonald's Australia Limited and its Australian franchisees, subsidiaries and other related bodies corporate (" **McDonald's** ") understands that privacy is important and is pleased to provide information about its privacy policy. Please be assured that McDonald's uses its best efforts to protect the privacy of visitors to [www.mcdonalds.com.au](https://web.archive.org/promo/home), any related McDonald’s website, social media page and any internal McDonald’s website or intranet (each a “ **Website** ”) and any McDonald’s mobile applications (“ **Mobile Applications** ”) and the privacy of individuals who provide personal information by any other means to McDonald's, including either physically or electronically (together, the “ **Collection Channels** ”).
 
-  
+This privacy policy explains our policy for dealing with an individual’s personal information that we collect via our Collection Channels. Unless given consent to do otherwise, McDonald’s will only collect and use personal information as set out below.
 
+In addition to the provisions of this privacy policy, there may also be specific and additional privacy and consent provisions that apply in certain circumstances, as may be stated on a Website or as otherwise advised through a Collection Channel. Because those specific and additional provisions also relate to your privacy protection, we recommend that you review them wherever they appear. In the event of any inconsistency between the provisions of this privacy policy and those other specific and additional provisions, the specific and additional provisions will prevail.
 
-  * **information we collect and how it's used**
-  * **passive information collection**
-  * **sharing of personal information**
-  * **children**
-  * **security of personal information**
-  * **access**
-  * **links to other sites**
-  * **other McDonald's sites**
-  * **franchisee websites**
-  * **changes to our privacy policy**
-  * **contact us**
+Personal information means information which identifies you as an individual or which renders you reasonably identifiable. Your first and last name, date of birth, gender, home address, contact telephone number, mobile telephone number, email address and employment details are examples of information which may constitute personal information. Personal information may also include information we may collect about your individual preferences.
 
+### Kinds of personal information that McDonald’s collects and holds
 
+Personal information that may be requested includes:
 
-**information we collect and how it's used**
+a. contact information such as your first and last name, date of birth, contact telephone number, current and valid email address and home address;
 
-McDonald's only gathers personal information, such as, first and last names, addresses, telephone numbers and email addresses, when voluntarily submitted by you. When a product is purchased through this website or through marketing / promotional activities (e.g.: via this website, in a store, over the telephone etc.), personal information may be requested (such as name, phone, email and address) in order to provide product information, marketing materials, provide newsletters, electronic newsletters (e-newsletters), provide new release / launch information, and advise of other McDonald’s products, competitions or events, which may be of interest. No one is obligated to provide personal information. However, failure to do so may result in McDonald’s being unable to provide you with upcoming promotion, event or product information and/or provide certain services including sales of products and after sales services. 
+b. information concerning your employment with McDonald’s, McDonald’s franchisees, subsidiaries and other related bodies corporate;
 
-In common with many commercial websites we may also collect information which tells us about visitors to our website. For example, we may collect information about the date, time and duration of visits and which pages of the website are most commonly accessed. This information is generally not linked to the identity of visitors, except where the website is accessed via links in an email we have sent.
+c. information regarding your interests, experience with our services and more detailed contact preferences. This information is requested in order to tailor our subsequent communications to you and continuously improve our products and services;
 
-back to top
+d. the contact details of third parties. If you are asked to provide details about other people, please ensure that these individuals are happy for their details to be given to McDonald’s and used for the purposes set out in this privacy policy (which may include using their details for marketing purposes).
 
-**passive information collection**
+**Sensitive information**
 
-As you navigate through this website, certain anonymous information can be passively collected (that is, gathered without your actively providing the information) using various technologies, such as cookies, Internet tags or web beacons, and navigational data collection (log files, server logs, clickstream). Your Internet browser automatically transmits to this website some of this anonymous information, such as the URL of the website you just came from and the Internet Protocol (IP) address and the browser version your computer is currently using. This website may also collect anonymous information from your computer through cookies and Internet tags or web beacons. You may set your browser to notify you when a cookie is sent or to refuse cookies altogether, but certain features of this website might not work without cookies and this may limit the services provided by our website. 
+McDonald’s will only collect sensitive information with your consent. Where you provide us with sensitive information (such as information about your health) via any means, we will only use this information to serve your particular needs.
 
-This website may use and combine such passively collected anonymous information to provide better service to website visitors, customize the website based on your preferences, compile and analyse statistics and trends, and otherwise administer and improve the website for your use. Such information is not combined with personally identifiable information collected elsewhere on the website unless you have consented. 
+### How McDonald’s collects and holds personal information 
 
-"Cookies" are pieces of information that a website transfers to a computer's hard disk for record keeping purposes. Most web browsers are set to accept cookies. McDonald’s may use cookies to make use of the website and services as convenient as possible. Cookies do not themselves personally identify users, although they do identify a user's browser. Cookies allow McDonald’s to monitor the items an individual may want to access as they move through the website, and records how many people are using the different parts of the website. 
+McDonald’s will only collect sensitive information with your consent. Where you provide us with sensitive information (such as information about your health) via any means, we will only use this information to serve your particular needs.
 
-"Session" cookies are temporary bits of information that are used to improve navigation, block visitors from providing information where inappropriate (the website "remembers" previous entries of age or country of origin that were outside the specified parameters and blocks subsequent changes), and collect aggregate statistical information on the website. They are erased once you exit your Web browser or otherwise turn off your computer. 
+**Active information collection**
 
-"Persistent" cookies are more permanent bits of information that are placed on the hard drive of your computer and stay there unless you delete the cookie. Persistent cookies store information on your computer for a number of purposes, such as retrieving certain information you have previously provided (such as passwords), helping to determine what areas of the website visitors find most valuable, and customizing the Web website based on your preferences on an ongoing basis. Persistent cookies placed by this website on your computer may hold personally identifiable information, but only if you have registered or have otherwise consented to the retention of personally identifiable information you have provided at the website. Otherwise, our website's server only knows that an unidentified visitor with your cookie has returned to the website. 
+Personal information may be collected via our Collection Channels when you:
 
-You can set your browser to accept all cookies, to reject all cookies, or to notify you whenever a cookie is offered so that you can decide each time whether to accept it. To learn more about cookies and how to specify your preferences, please search for "cookie" in the "Help" portion of your browser. 
+a. purchase a product or make a booking through a Website or Mobile Application;
 
-A website may use Internet Protocol (IP) addresses. An IP address is a number assigned to your computer by your Internet service provider so you can access the Internet and is generally considered to be non-personally identifiable information, because in most cases an IP address is dynamic (changing each time you connect to the Internet), rather than static (unique to a particular user's computer). The IP address can be used to diagnose problems with a server, report aggregate information, determine the fastest route for your computer to use in connecting to a website, and administer and improve the website. 
+b. participate in any offers, marketing activities and/or promotional activities;
 
-"Internet tags" (also known as single-pixel GIFs, clear GIFs, invisible GIFs, and 1-by-1 GIFs) are smaller than cookies and tell the Web website server information such as the IP address and browser type related to the visitor's computer. Tags may be placed both on online advertisements that bring people to the website and on different pages of the website. Such tags indicate how many times a page is opened and which information is consulted. 
+c. contact us directly via any medium including SMS (Short Message Service), MMS (Multimedia Message Service), IM (Instant Messaging) and email (“Electronic Messages”), social media platforms, mail and telephone;
 
-"Navigational data" (log files, server logs, and clickstream data) are used for system management, to improve the content of the website, market research purposes, and to communicate information to visitors.
+d. interact with a Website or Mobile Application for a specific purpose; e. browse a Website or Mobile Application generally; and f. sign-up to, or register an account via, any Collection Channel.
 
-back to top
+**Passive information collection  **
 
-**sharing of personal information**
+As you navigate through our Websites and access our Mobile Applications, certain information can be passively collected (that is, gathered without your actively providing the information) using various technologies, such as cookies, Internet tags or web beacons, and navigational data collection (log files, server logs, and clickstream data). For example, we may collect information about matters including but not limited to the date, time and duration of visits and which pages of a Website are most commonly accessed. This information is generally not linked to the identity of visitors, except where a Website or Mobile Application is accessed via links in an Electronic Message we have sent or where we are able to uniquely identify the device or user accessing a Website or Mobile Application.
 
-McDonald's may share personal information within the McDonald's Family. The McDonald's Family includes McDonald's Australia Limited, our franchisees, our subsidiaries and our related bodies corporate. Of course, any use of this information by the McDonald's Family will comply with this privacy policy. Occasionally, with your permission, we will send marketing information to you, such as discount coupons, information about new product offerings, etc. If you do not elect to receive such materials, we will not send them to you. 
+We may combine your anonymous or personal visitor session information or other information collected through tracking technologies with other personal information collected from you from time to time via our Collection Channels, in order to understand and measure your online experiences and to determine what products, promotions and services are likely to be of interest to you. By accessing a Website or Mobile Application via links in an email we have sent and/or by accessing a Website or Mobile Application where you have identified yourself, you consent to the collection of such information where it is personal information.
 
-Companies may be engaged by McDonald's to perform a variety of functions, such as, fulfilling orders, assisting with promotions, providing technical services for our web sites, etc. These companies may have access to personal information if needed to perform such functions. However, these companies may only use such personal information for the purpose of performing that function and may not use it for any other purpose.
+### Purposes for which McDonald’s collects, holds, uses and discloses personal information
 
-McDonald's does not sell personal information to third parties. However, with your permission, we will, on occasion send marketing information on behalf of one of our business partners about products or services they provide that may be of interest to you. You may be asked if you wish to receive marketing materials from McDonald's business partners. If you elect to receive such materials, McDonald's will not share your personal information with such partners but rather will send a mailing or e-mail on behalf of the partners. 
+Personal information collected will be used for the following primary purposes:
 
-McDonald's reserves the right to use or disclose any information as needed to satisfy any law, regulation or legal request, to protect the integrity of the website, to fulfil your requests, or to cooperate in any law enforcement investigation or an investigation on a matter of public safety.
+a. For the purposes for which it was collected (as advised in this privacy policy).
 
-back to top
+b. For the purposes stated in a privacy collection statement on a particular Collection Channel.
 
-**children**
+c. To maintain and improve the functionality of a Website or Mobile Application to provide better service to Website or Mobile Application visitors and users, including the compilation and analysis of statistics and trends, the provision of information to you relating to the content available on that Website or Mobile Application and any e-commerce transactions conducted via that Website or Mobile Application.
 
-McDonald's is very sensitive to privacy issues. We are proud of our long-time commitment to our customers. We are especially careful in any communications with one of our most treasured customers - children. 
+d. To fulfil obligations in respect of any sale and purchase contract and/or any other contract between you and McDonald’s.
 
-On our web sites, we offer many features, like games and colouring books, which do not require a child to provide any personal information. We collect only limited personal information from children 12 and under (like their email addresses) to respond to their online requests. For example, we may collect a child's email address in order to send the child a screen saver, but we promptly delete the email address from our system. Or, we may collect a child's email address in order to enter the child in a competition. We may also ask a child to provide an email address of a parent so we can notify the parent or seek consent. We may collect a postal address or a telephone number from a child when they enter a competition at our restaurants or when they join a birthday club. Whenever an in-store competition or a birthday club is aimed at children 12 and under, we will ask the child to seek the consent of a parent or guardian. McDonald's will not condition a child's participation in any online activity on the child's disclosure of more personal information than is reasonably necessary to participate in that activity. 
+e. To send you any technical, administrative or legal notices important to our Websites and Mobile Applications.
 
-Personal information collected from children is used solely by McDonald's or other entities that provide technical, fulfilment or other services to McDonald's. For example, such entities may provide services, such as, improving our web sites, fulfilling requests or administering competitions. This personal information is not sold or transferred to third parties. 
+f. To provide you with information about your transactions (including uploading of, access to, and receipt of, content on a Website or Mobile Application and purchase transactions undertaken on a Website or Mobile Application), content, services and products.
+
+g. To provide marketing materials, events, special offers, competitions and promotions via any medium including mail, telephone and Electronic Messages or any other form of electronic, emerging, digital or conventional communications channel.
+
+h. To maintain our relationship with you.
+
+i. To respond to customer enquiries.
+
+j. To manage your employment with McDonald’s, McDonald’s franchisees, subsidiaries and other related bodies corporate and facilitate effective employment practices.
+
+k. To obtain opinions or comments about products and/or services and to conduct other market research and development (including to record statistical data for marketing analysis).
+
+Failure to provide personal information may result in McDonald’s being unable to provide you with certain content, employment information, upcoming promotion, event or product information and/or accept promotion entries (where applicable).
+
+For the purposes described above, McDonald's may share personal information with our related bodies corporate, our franchisees, our suppliers and our promotional partners (“McDonald’s Family”) and other trusted third parties (and their directors, servants and agents), either in Australia or overseas countries which may include but are not limited to the United States of America, Malaysia and Singapore. Of course, any use of this information by the McDonald's Family will comply with this privacy policy.
+
+Members of the McDonald’s Family and other trusted third parties may be engaged by McDonald's to perform a variety of functions, such as fulfilling orders, conducting market research, processing credit card payments, assisting with promotions and providing technical services for our Websites and Mobile Applications. These companies may have access to personal information if needed to perform such functions. However, these companies may only use such personal information for the purpose of performing that function and may not use it for any other purpose.
+
+McDonald’s recognises the trust with which you provide personal information, and except as stated in this privacy policy, such information will not be used or disclosed for any other purposes without consent. However, McDonald's reserves the right to use or disclose any information, including personal information, as needed to satisfy any law, regulation or legal request, to protect the rights or property of McDonald's, any member of the McDonald's Family, or any member of the public, to protect the integrity of a Website or Mobile Application, to fulfil your requests, or to cooperate in any law enforcement investigation or an investigation on a matter of public safety.
+
+### Contact by McDonald’s and third parties
+
+Members of the McDonald's Family and other trusted third parties (and their directors, servants and agents), either in Australia or overseas, may contact you via Electronic Messages, telephone, post or any other form of electronic, emerging, digital or conventional communications channel using the personal information provided, in respect of the primary purposes for collection of personal information as stated above.
+
+McDonald’s does not send advertising or marketing information without obtaining prior consent, for example the consent contained within this privacy policy. If you receive any form of communication from McDonald’s which you do not wish to receive, you may remove your name from the database by utilising the functional unsubscribe facility.
+
+Despite removing your name from the database from receiving future advertising and marketing information, McDonald’s may send you non-commercial, administrative Electronic Messages which relate to an existing user account. Non-commercial, administrative Electronic Messages may include administrative and transaction confirmations, requests and inquiries or information about a particular McDonald’s user account.
+
+### Ability of others to view information 
+
+McDonald’s may provide areas on a Website or Mobile Application where you can upload user-generated content, post or provide information about yourself, communicate with other users, provide reviews for content, products and/or services or interact with or vote on particular content. This information may be publically posted on a McDonald’s Website or Mobile Application and/or shared with others, including without limitation, on social media platforms and other public forums in which you choose to participate. This information may become publically available and may be read, collected and used by others outside of a McDonald’s Website or Mobile Application. McDonald’s is not responsible for the conduct of others who may read, collect and use this information.
+
+### Children
+
+McDonald's is very sensitive to privacy issues. We are proud of our long-time commitment to our customers. Personal information will not be collected by any person who is known by McDonald's to be under the age of eighteen (18) without the consent of a parent or legal guardian.
 
 We urge parents to regularly monitor and supervise their children's on-line activities.
 
-back to top
+### Security of personal information 
 
-**security of personal information**
+McDonald’s will endeavour to take all reasonable steps to keep secure any personal information recorded, and to keep this information complete, accurate and up to date. The information is stored on secure servers that are protected in controlled facilities.
 
-McDonald’s will endeavour to take all reasonable steps to keep secure any personal information recorded, and to keep this information accurate and up to date. The information is stored on secure servers that are protected in controlled facilities. Access is restricted to those involved in administration or fulfilment of the competition entered or of any request for which you have provided your personal information. 
+### Disclosure of personal information to overseas recipients
 
-In some cases these facilities may be overseas. McDonald’s employees and data processors are obliged to respect the confidentiality of any personal information held by McDonald’s. However, security of communications over the Internet cannot be guaranteed, and therefore absolute assurance that information will be secure at all times cannot be given. McDonald’s will not be held responsible for events arising from unauthorised access to personal information.
+In some cases, McDonald’s may disclose your personal information to overseas recipients, including but not limited to recipients in the United States of America, Malaysia and Singapore. McDonald’s employees and data processors are obliged to respect the confidentiality of any personal information held by McDonald’s. However, security of communications over the Internet cannot be guaranteed, and therefore absolute assurance that information will be secure at all times cannot be given. McDonald’s will not be held responsible for events arising from unauthorised access to personal information.
 
-back to top
+### Access to personal information 
 
-**access**
+You are in control of any personal information you provide to us. If at any time, you would like to access, review, correct and/or delete the personal information we have about you, or if you would like to change your preferences for contacts from us, you can let us know via the contact details listed below. Please allow 30 days for this request to be processed.
 
-You are in control of any personal information you provide to us. If at any time, you would like to correct the personal information we have about you or if you would like to change your preferences for contacts from us or on behalf of our business partners, you can let us know by contacting us at the email or postal address listed below. Your personal information may be stored in different locations depending upon the reason for which you originally submitted the information. The more information you can provide us about when you originally submitted your personal information, the quicker McDonald's will be able to retrieve your personal information. 
+Your personal information may be stored in different locations depending upon the reason for which you originally submitted the information. The more information you can provide us about when you originally submitted your personal information, the quicker McDonald's will be able to retrieve your personal information.
 
-In order to review any personal information we have about you or to ask us to delete that information or to stop further use of the information, please submit this information request form. Please allow 14 days for this request to be processed.
+If requested, all reasonable steps to delete personal information will be made, except where it is required for legal reasons. Deletion of information may result in McDonald's being unable to facilitate or provide you with information about certain transactions (including the uploading of, access to, and receipt of, content on a Website or Mobile Application, and purchase transactions undertaken on a Website or Mobile Application), other content, services or product information, upcoming promotion, competition or event information, and/or provide certain content, products or services.
 
-back to top
+We are not responsible for removing your personal information from the lists of any third party who has previously been provided your information in accordance with this privacy policy.
 
-**links to other sites**
+### Links to other sites 
 
-We may offer links to sites that are not operated by McDonald's. If you visit one of these linked sites, you should review their privacy and other policies. We are not responsible for the policies and practices of other companies.
+Our Websites or Mobile Applications may, from time to time, offer links to sites that are not operated by McDonald's which may be of interest to you. Their inclusion cannot be taken to imply any endorsement or validation by us of the content of the third party website. Linked websites are responsible for their own privacy practices. If you visit one of these linked websites, you should review their privacy and other policies. We are not responsible, nor do we accept any liability, for the policies, practices and conduct of other companies linked to any McDonald’s Website or Mobile Application.
 
-back to top
+We may use third party advertisements on our Websites and Mobile Applications. All third party advertising, if paid for, is paid for by the relevant third party advertisers. Third party advertisements are not recommendations or endorsements by McDonald’s or any of its affiliates. To the extent permitted by law, McDonald’s is not responsible for the content (including representations) of any third party advertisement on a Website or Mobile Application. Cookies may be associated with these advertisements to enable the advertiser to track the number of anonymous users responding to the campaign.
 
-**other McDonald's sites**
+### Related McDonald's Websites or Mobile Applications
 
-All McDonald's web sites operated by McDonald's Australia Limited will adhere to this privacy policy. The policies of some McDonald's sites may vary, however, because of local customs, practices or laws or due to circumstances unique to that website. In all cases, however, sites operated by McDonald's will honour the commitments to our customers set forth in this policy regarding the collection and use of personal information.
+All Websites and Mobile Applications operated by McDonald's will adhere to this privacy policy. The policies on the Websites and Mobile Applications of some other members of the McDonald's Family may vary, however, because of local customs, practices or laws.
 
-back to top
+### Franchisee privacy policies 
 
-**franchisee websites**
+Many McDonald's restaurants are owned and operated by franchisees, who are independent businessmen and businesswomen. Some franchisees also operate websites and are required to follow this privacy policy. If you are concerned that there may have been a breach of this privacy policy by a franchisee, please contact the relevant franchisee entity or McDonald’s restaurant directly.
 
-Many McDonald's restaurants are owned and operated by franchisees, who are independent businessmen and women. Some franchisees also operate web sites. We encourage franchisees follow this privacy policy. However, please review the privacy policy of each web site to determine the privacy policies of that web site.
+### Changes to our privacy policy 
 
-back to top
+From time to time, it may be necessary for McDonald's to change this privacy policy without notice. We will post any changes to this privacy policy on our Websites and Mobile Applications. Rest assured, however, that any changes will not be retroactively applied and will not alter how we handle previously collected personal information.
 
-**changes to our privacy policy**
+### Sale of the Company
 
-From time to time, it may be necessary for McDonald's to change this privacy policy, so we suggest that you check here periodically. Rest assured, however, that any changes will not be retroactively applied and will not alter how we handle previously collected information.
+If McDonald’s merges with, or is acquired by, another company, or sells all or a portion of its assets, your personal information may be disclosed to our advisers and any prospective purchaser’s adviser, and may be among the assets transferred. However, personal information will always remain subject to this privacy policy.
 
-back to top
+### Contact Us
 
-**contact us**
+If you have any questions about our privacy policy, or any problems or complaints about how we have collected, used, stored, handled and/or disclosed your personal information, please contact us at:
 
-If you have any questions about our McDonald's Privacy Policy, or if you wish to make a complaint about how we have handled your personal information, please contact us at: 
-
-McDonald's Australia Limited   
+McDonald's Australia Limited  
 McDonald's Privacy Officer   
 PO Box 392   
 Pennant Hills NSW 2120   
-Australia   
-Fax: (02) 98756568
+Australia
 
-©2009 McDonald's Corporation
+Telephone: (02) 9875 6666   
+Fax: (02) 98756568   
+Email: [privacy@au.mcd.com](mailto:privacy@au.mcd.com)
 
-back to top
+Please allow 14 days for this request to be processed. If you do not receive a satisfactory response from McDonald’s to your query, problem or complaint within fourteen (14) days, you may refer your query, problem or complaint to the Office of the Australian Information Commissioner via the contact details listed at <http://www.oaic.gov.au/about-us/contact-us-page>.
