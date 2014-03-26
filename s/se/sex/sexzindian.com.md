@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexzindian.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222231719id_/http%3A//www.sexzindian.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexzindian.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326075745id_/http%3A//www.sexzindian.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SexZIndian.com
 
