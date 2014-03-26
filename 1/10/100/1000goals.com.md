@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030011126id_/http%3A//www.1000goals.com/privacy-policy%23.UDeK5dYgdRY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326132744id_/http%3A//www.1000goals.com/privacy-policy%23.UDeK5dYgdRY) for the most accurate reproduction.*
 
-# Privacy | Football highlights - 1000Goals
+# Privacy | Football - 1000 Goals
 
 **27 February 2008** at 01:51 GMT
 
@@ -18,22 +18,22 @@ This site contains links to other sites. 1000goals.com is not responsible for th
 
 ### Latest Football News
 
-[ ](http://www.1000goals.com/news/steven-gerrard-100-premier-league-goals)
+[ ](http://www.1000goals.com/news/enjoying-fast-sports-results-with-flashscore-app)
 
-Liverpool might fail to pick up all three points from their latest English Premier League fixture against Newcaslte United last weekend as they were held into a 2-2 draw, but there was still a little bit celebration going on as the Anfield gang's skipper, Steven Gerrard celebrated his 100th league goals for his team on…
+The advancement of technology has brought many positive impact in every areas, including in the sporting field as this days sports fans can acquire many things with all the latest applications or gadgets. One of the most needed information for fans is match results, whether it's in the form of live scoring or final outcome,…
 
-[ ](http://www.1000goals.com/news/former-milan-star-alessandro-nesta-set-to-retire-from-football)
+[ ](http://www.1000goals.com/news/david-moyes-takes-responsibility-over-man-united-decline)
 
-Another Italian legendary defender is setting up to fully retire from football as former AC Milan and Lazio star, Alessandro Nesta, recently confirmed about his plan of becoming a coach right after finishing his current MLS season with Montreal Impact. Nesta stated that after such a long footballing career, he believes that after the season…
+Suffering a disappointing 3-0 defeat over their rival, Manchester City at Old Trafford on Tuesday, really put Manchester United back into reality after their previous two positive results that temporarily lifted their spirit. That defeat makes it harder for them to compete for that fourth place seat chase by the end of season as they're…
 
-[ ](http://www.1000goals.com/news/milan-looking-forward-for-fascinating-barcelona-battle)
+[ ](http://www.1000goals.com/news/swiss-boss-ottmar-hitzfeld-wary-over-france-strength)
 
-AC Milan are gearing up for another 'regular' Champions League battle against Spanish giant, Barcelona on Tuesday and ahead of that clash, Rossoneri head coach, Massimiliano Allegri hails the upcoming encounter, stating it will be a fascinating match. Allegri also urged his players to put on a strong and solid performance if they want to…
+Arriving in the World Cup 2014 finals comfortably didn't make Switzerland national side getting over their head as their head coach, Ottmar Hitzfeld, believes that his team are not the favorites to win their upcoming group. Being placed in group E along with France, Honduras and also Ecuador, the ex-Bayern Munich tactician stated that Les…
 
-[ ](http://www.1000goals.com/news/barcelona-hopeful-that-messi-will-be-fit-for-match-with-ac-milan)
+[ ](http://www.1000goals.com/news/brendan-rodgers-enjoying-liverpools-excellent-form)
 
-Spanish giant, Barcelona will face another familiar and tricky test on their Champions League campaign as the Catalan side set to face AC Milan at San Siro this Tuesday. Speaking ahead of that encounter, Barca's head coach, Gerardo Martino admitted that his side must try to play their normal football and limit Rossoneri's attacking threat.…
+Not being considered as potential English Premier League title challenger earlier in the season, Liverpool showcasing their strength in the later part of current league campaign as they're pushing themselves into the top three seat of current standings. This situation brought nothing but joy for The Reds' manager, Brendan Rodgers, who  revealed that he is…
 
-[ ](http://www.1000goals.com/news/milan-suffered-balotelli-injury-scare)
+[ ](http://www.1000goals.com/news/david-beckham-ready-to-build-a-new-stadium-in-miami)
 
-Just when things seems to be getting better for AC Milan with some of their absentees regaining fitness, another disappointing news arrived after the Italian giant confirmed that their star striker, Mario Balotelli suffered a problem in his thigh during their latest training session. The Italian international will have further examination to determine the length…
+Already retiring from playing football doesn't seem to stop former England national team captain, David Beckham, from making his contribution to the sport that has turned him into such popular figure  as his currently busy preparing to build his football stadium in Miami. Having the option to purchase a MLS football club franchise, Beckham already…
