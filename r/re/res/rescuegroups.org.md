@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rescuegroups.org privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105015020id_/http%3A//www.rescuegroups.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rescuegroups.org privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326030040id_/https%3A//www.rescuegroups.org/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | RescueGroups.org
 
