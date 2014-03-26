@@ -1,25 +1,77 @@
-> *The following text is extracted and transformed from the coveo.com privacy policy that was archived on 2008-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080908034750id_/http%3A//www.coveo.com/en/AboutUs/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coveo.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326033126id_/http%3A//www.coveo.com/en/privacy) for the most accurate reproduction.*
 
-# Coveo - Privacy
+# Privacy - Coveo - Advanced Enterprise Search Solutions
 
-Coveo Solutions, Inc. has created this Privacy Policy in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.coveo.com](http://www.coveo.com/).
+### Collection and Use of Personal Information
 
-Your IP address is used to gather broad demographic information. We use cookies to deliver content specific to your interests.
+Personal information is data that can be used to uniquely identify or contact a specific natural person.
 
-Our site's registration form requires users to give us contact information (like their name and email address) and demographic information (like their zip code or age). We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. We do not sell, rent or disclose this information to other companies.
+While you use the Site, you may be asked to provide personal information. COVEO may share this personal information with its subsidiaries and affiliates and use it in strict accordance with this Privacy Policy. COVEO may also combine it with other information to provide and improve its products, services, content and advertising.
 
-This site contains links to other sites. Coveo Solutions, Inc. is not responsible for the privacy practices or the content of such Web sites.
+Here are some examples of the types of personal information COVEO may collect and how we may use it.
 
-Our online surveys ask visitors for demographic information (like their zip code or age). Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. We do not sell, rent or disclose this information to other companies.
+### What personal information we collect
 
-We run contests on our site in which we ask visitors for contact information (like their email address) and demographic information (like their zip code or age). We use contact data from our contests to send users information about our company. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. We do not sell this information to other companies.
+COVEO may collect a variety of information, including your name, mailing address, phone number, email address and contact preferences.
 
-## Security
+### How we use your personal information
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
+The personal information we collect allows us to keep you posted on Coveo’s latest product announcements, software updates and upcoming events. It also helps us to improve our services, content and advertising. If you don’t want to be on our mailing list, you can opt out anytime by sending your instructions to this e-mail address: [coveoprivacy@coveo.com](mailto:coveoprivacy@coveo.com)
 
-Coveo Solutions, Inc. shall use reasonable efforts to comply with the terms of this Privacy Policy and shall react promptly in order to correct any failure to do so. Notwithstanding the foregoing, Coveo Solutions, Inc. does not warrant that its performance under this Privacy Policy will be error-free. Coveo Solutions, Inc. shall not be liable for any incidental, consequential or punitive damages relating to this Privacy Policy.
+We also use personal information to help us develop, deliver and improve our products, services, content and advertising.
 
-## Additional information about privacy
+We may also use personal information for internal purposes such as auditing, data analysis and research to improve COVEO’s products, services and customer communications.
 
-For further information concerning this Privacy Policy or its application, please write to us in English or French only at [coveoprivacy@coveo.com](mailto:coveoprivacy@coveo.com).
+### Collection and Use of Non-Personal Information
+
+We also collect non-personal information − data in a form that does not permit direct association with any specific individual. We may collect, use, transfer and disclose non-personal information for any purpose. The following are some examples of non-personal information that we may collect and how we may use it:
+
+We may collect information such as occupation, language, zip code, area code, postal code, unique device identifier, location and the time zone where a COVEO product is used so that we can better understand customer behavior and improve our products, services and advertising.
+
+We also may collect information regarding customer activities on our website and from our other products and services. This information is aggregated and used to help us provide more useful information to our customers and to understand which parts of our website, products and services are of most interest. Aggregated data is considered non-personal information for the purposes of this Privacy Policy.
+
+If we do combine non-personal information with personal information the combined information will be treated as personal information for as long as it remains combined.
+
+### Cookies and Other Technologies
+
+The Site may use “cookies”. These technologies help us better understand user behavior, tell us which parts of our website people have visited and facilitate and measure the effectiveness of advertisements and web searches. We treat information collected by cookies as non-personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by law, we also treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
+
+If you want to disable cookies, check with your web browser provider to find out how to do so. Please note that certain features of the Site may not be available once cookies are disabled.
+
+As is true of most websites, we gather some information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type and language, Internet service provider (ISP), referring and exit pages, operating system, date/time stamp and “clickstream” data. We use this information to understand and analyze trends, to administer the site, to learn about user behavior on the site and to gather demographic information about our user base as a whole. COVEO may use this information in our marketing and advertising services.
+
+In some of our email messages, we may use a “click-through URL” linked to content on the Site. When you click one of these URLs, you pass through a separate web server before arriving at the destination page on the Site. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked in this way, you should not click text or graphic links in the email messages.
+
+### Disclosure to Third Parties
+
+We may make certain personal information available to strategic partners. Personal information will only be shared to provide or improve our products, services and advertising; it will not be shared with third parties for their marketing purposes.
+
+### Legally Required Disclosures
+
+It may be necessary − by law, legal process, litigation and/or requests from public and governmental authorities within or outside your country of residence − for COVEO to disclose your personal information.
+
+### Protection of Personal Information
+
+COVEO takes precautions – including administrative, technical and physical measures – to safeguard your personal information against loss, theft and misuse, as well as against unauthorized access, disclosure, alteration and destruction.
+
+Where relevant, the Site uses Secure Sockets Layer (SSL) encryption on all web pages where personal information may be collected from. It is highly recommended to use an SSL-enabled browser. Doing so protects the confidentiality of your personal information while it’s transmitted over the Internet.
+
+### Retention of Personal Information
+
+COVEO will retain your personal information for the period necessary to fulfil the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
+
+### Access to Personal Information
+
+COVEO provides you with [contact information](mailto:coveoprivacy@coveo.com) so you can request that we correct the data if it is inaccurate or delete it (if COVEO is not required to retain it by law). We may decline to process your request if unreasonably repetitive, requires disproportionate technical efforts, jeopardizes the privacy of others, is impractical or for which access is not otherwise required by law.
+
+### Third-Party Sites and Services
+
+The Site may contain links to third-party websites, products and services. Information collected by third parties may include location data or contact details. This collection of data is governed by the privacy practices of those third parties. We encourage you to learn about these practices.
+
+### International Users
+
+Information you provide may be transferred or accessed by entities around the world as described in this Privacy Policy. COVEO abides by the “safe harbor” frameworks set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information collected by organizations in the European Economic Area and Switzerland. Refer to the [U.S. Department of Commerce Safe Harbor Program](http://www.export.gov/safeharbor/index.asp).
+
+COVEO may update this Privacy Policy from time to time, without advanced notice. Please check regularly for updates.
+
+Updated as of: 02 11, 2014.
