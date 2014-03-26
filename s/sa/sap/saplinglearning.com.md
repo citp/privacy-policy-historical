@@ -1,85 +1,104 @@
-> *The following text is extracted and transformed from the saplinglearning.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016054418id_/http%3A//www2.saplinglearning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saplinglearning.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326120912id_/http%3A//www2.saplinglearning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sapling Learning
 
-It is the policy of Sapling Learning, Inc. ("Sapling Learning") to protect the data of all of Sapling Learning's users and to comply with applicable laws and regulations governing user data and privacy including, but not limited to, the Family Educational Rights and Privacy Act of 1974, as amended (FERPA). In order to protect user data, Sapling employs the processes outlined in this Privacy, Security, and FERPA Policy (the "Policy").
+## Sapling Learning Website Privacy Notice
 
-**What information is collected by Sapling Learning, and how is that information used?**
+### Effective Date: January 15, 2014  
+ 
 
-We at Sapling Learning know that safeguarding the privacy of our customers and users is very important. Please take a moment to read this Policy. This Policy describes what information may be collected from you when you subscribe to, and/or use our products and services via this website and how we use that information. By logging on to a Sapling Learning site, you are accepting the practices described in this Policy.
+We at Sapling Learning, Inc. ("we" or "Sapling Learning") respect your concerns about privacy and value the relationship we have with you. This Privacy Notice describes the types of personal information we collect on www.iclicker.com, how we may use that information, and with whom we may share it. Our Privacy Notice also describes the measures we take to protect the security of the information. In addition, we describe the choices you can make about how we use the information you provide to us. We also tell you how you can reach us to update your contact information, contact us with general questions or comments, inquire about our company and its products and services, or answer any questions you may have about our privacy practices or this website. By logging on to a Sapling Learning website, you agree to the terms of this Privacy Notice.
 
-**Information we collect automatically:**
+### Click on one of the links below to jump to the listed section:  
+ 
 
-Whenever you use our websites, we receive and store certain types of information. For example, we use cookies to monitor session information and activity on our sites, and we record the Web browser, computer operating system, and IP address you use to connect to our sites.
+  * **Information We Collect    **  
+          Higher Education Users  
+          High School Users  
+          Both Higher Ed and High School Users  
+          Surveys and Questionnaires    
+          “Contact Us” and Technical Support  
+          Newsletters and Updates  
+          Cookies
+  * How We Use Information We Collect
+  * Information We Share
+  * Links to Other Web sites
+  * Children’s Privacy
+  * Security
+  * Updates to this Privacy Notice
+  * How To Contact Us
 
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Sapling Learning's sites use cookies to keep track of your session. Sapling Learning may also use cookies to deliver content specific to your interests and to save your password.
 
-Sapling Learning may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our sites and software. Sapling Learning also may include web beacons in promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services that are offered to our visitors/customers to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities.
 
-**Information you provide to us:**
+**Higher Education Users**
 
-We receive and store the information you enter on our websites which may include, but is not limited to, name, address, email address, phone number and other personal information. We use that information to process your subscription, respond to your requests, improve and customize our site, and to communicate with you. When you send email inquiries to Sapling Learning, we use the return email address to answer the email inquiry we receive. If you receive any email correspondence from us that you would rather not receive, simply follow the "unsubscribe" instructions included in the email.
+To subscribe to Sapling Learning’s online homework and e-book services, higher ed users will either be required to purchase a subscription through our website, or enter the product code from an access card bundled with a print product purchased from a bookstore.  When a purchase is made directly through our website, the purchaser will need to register with PayPal, a third-party service provider we use to process the purchase.  When you do this, you will be their customer as well as ours, and use of your information by PayPal will be governed by their privacy notice, as well as by ours.   Higher ed users will also be required to create an individual account by entering a user name and password, and providing their first and last name, email address, the name of the educational institution at which they are enrolled, and their time zone.  Sapling Learning will maintain such information (other than credit card payment information, which is held directly by our third-party service provider), and in addition, will maintain the user’s course information and homework responses and scores.   In addition, you may choose to provide optional information (e.g., your areas of interest), which will allow us to serve you better.
 
-To subscribe to Sapling Learning's higher education products online, you will be required to enter a credit card number and billing information. When you enter this information, it will be securely encrypted using the Secure Sockets Layer (SSL) protocol.
+**High School Users**
 
-IF YOU ARE UNDER AGE 13, YOU WILL NEED YOUR PARENT'S OR GUARDIAN'S CONSENT BEFORE YOU CAN SUBSCRIBE TO OUR PRODUCTS VIA THE WEBSITES.
+To utilize Sapling Learning’s online homework and e-book services, secondary school users will be required to use an assigned user name linked to their school.  At the discretion of the school administrator or other personnel responsible for administering use of Sapling Learning’s services (i) separate user names and passwords may be created for subgroups within the school, and/or (ii) students may have the ability to change their user name and password (but not account number), and enter a city and state and an ID number.  Sapling Learning maintains registration data of high school users and users’ course information and scores.
 
-Sapling Learning may use information that we collect about you to: (i) deliver the products and services that you have requested; or (ii) manage your customer relationship and provide you with customer support.
+**Both Higher Ed and High School Users**
 
-**Links**
+Each student generally has access to his or her own work or scores only; instructors can only access work or scores of students in their courses. Protection of information entered by students on the site is controlled by password systems that depend upon both instructors and students keeping their passwords secure. In the event that providing technical or user support requires accessing student work to diagnose or fix the problem, Sapling Learning will request permission from the student and/or instructor involved.
 
-Sapling Learning may create links to other web sites. Sapling Learning will make a reasonable effort to link only to sites that meet similar standards for maintaining each individual's right to privacy. However, many other sites that are not associated or authorized by Sapling Learning may have links leading to Sapling Learning's sites. Sapling Learning cannot control these links and Sapling Learning is not responsible for any content appearing on these sites.
+**Surveys and Questionnaires**
 
-**Does Sapling Learning provide personal information to any third parties?**
+We may ask visitors to our Web site to complete online surveys and opinion polls on a variety of topics, such as their activities, attitudes, and interests, and our products and services. These surveys help us understand the needs of our visitors.
 
-We will not share your email address or any other personal information collected via our website with any third party, except (i) to our contractors, subject to appropriate confidentiality obligations; (ii) as required by law; and (iii) in the event that our business is sold or merged with another company that contractually agrees to honor the terms of this Policy.
+**"Contact Us" and Technical Support**
 
-Sapling Learning uses industry-standard technologies on our site to protect the loss, misuse, and alteration of the information under Sapling Learning's control. Sapling Learning's servers are backed up regularly and protected by security systems.
+You may choose to contact us through our Web site. If you e-mail us comments or questions, we will have your e-mail address, as well as any other information you choose to provide.
 
-**For Higher Education Users**
+**Newsletters and Updates**
 
-To utilize Sapling Learning's online homework and e-books services, higher education users will be required to create a user name and password, provide their first and last name, email address, and the institution they are enrolled in. Sapling Learning may keep certain records including, but not limited to, personal data of each user provided during the Sapling Learning registration process and user's course information and scores (all information referred to as "User Records"). User Records are carefully stored in a manner designed so that only authorized individuals can access the User Records.
+We may use instructor contact information to provide newsletters and updates; users will have the choice of opting out of such communications.  Students will not receive newsletter or updates unless they opt in to such communications.
 
-**For K-12 Users**
+**Cookies**
 
-To utilize Sapling Learning's online homework and e-books services, elementary school, middle school, and secondary school users will be required to use an assigned username linked to their school. At the user's discretion, students can change their password (which is stored encrypted), can replace the placeholder name with another name, can enter a city and state, and can enter an ID number. (Note that only the password is stored encrypted.) Finally, students can log in to Sapling Learning and do their homework. Sapling Learning may keep certain records including, but not limited to, personal data of each user provided during the Sapling Learning registration process and user's course information and scores (all information referred to as "User Records"). User Records are carefully stored in a manner designed so that only authorized individuals can access the User Records.
+Cookies are small text files that Web sites often store on the computer hard drives of visitors to their sites. A cookie contains a unique code, which is used to recognize a computer when a user of that computer returns to a Web site that was visited previously. We use cookies on our Web site, to help us administer certain site features. We may also use cookies to deliver content specific to your interests and to save your password.  The "help" portion of the toolbar on most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. However, in order to use certain features of our Web site, users must have the “cookie” function on their browsers enabled.
 
-**For Both K-12 and Higher Ed Users**
+**Other Passive Collection Information**
 
-Sapling Learning will not disclose any User Records without the express written consent of the user, except to the extent that FERPA authorizes disclosure without consent. Some exceptions which permit disclosure without consent include disclosure to:
+When you visit our Web site, your browser automatically sends us certain Internet-related information, such as the Internet Protocol (IP) address of the computer you’re using, your originating domain, your web browser type, and your computer operating system.
 
-Sapling Learning employees and contractors subject to appropriate confidentiality obligations;
+Sapling Learning may use standard Internet technology, such as log files, web beacons and other similar technologies to track your use of our sites and software.  If you are a registered user of our Web site, this information may be associated with your user name or id.  Sapling Learning also may include web beacons in promotional e-mail messages and newsletters to determine whether messages have been opened and acted upon.  The information we obtain in this manner enables us to customize the services that are offered to our visitors/customers, to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming and other activities.
 
-Employees or officials of educational institutions in which a user is enrolled or wishes to enroll; and
+**How We Use Information We Collect**  
+Information collected through our Web site is used in connection with the purpose for which it was submitted (for example, to process your subscription and respond to your requests).
 
-Federal and state government representatives for audit and evaluation of federal and state supported programs.
+We may also contact you as a user of our products: to ask you to serve as a reviewer; to request an appointment with you at your campus or at a conference to talk about an existing or planned product; and to ask for other similar kinds of feedback and discussion. We may also use the information we collect to send you information or products we think may be of interest to you, and to customize our contacts with you.
 
-Operating under the premise that the educational process is a cooperative venture between users and Sapling Learning, Sapling Learning emphasizes the following rights of users:
+Finally, we may use some of the information we collect to analyze Web site use and to do other internal analyses, such as market research, that will allow us to better meet the needs of our customers.
 
-The right to inspect and review, with certain limited exceptions, their User Records, including the right to receive explanations and interpretations of the records and to obtain copies of the records when such are needed to allow the user to effectively exercise his/her right of inspection and review;
+**Information We Share**
 
-The right to correct User Records when such records are inaccurate or otherwise in violation of FERPA by submitting to Sapling Learning in writing the requested change and the reason for the change;
+We may share the information you provide with companies that are related to Sapling Learning through common ownership. We also share information provided by our Web site visitors with service providers we have retained to perform services on our behalf, such as our payment processor. In addition, we may disclose information about you (i) if we are required to do so by law, (ii) in response to legal process, (iii) to law enforcement authorities or other government officials, or (iv) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity.
 
-The right to withhold any or all student directory information by providing written notice to Sapling as provided below;
+We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to try to ensure that the transferee uses personal information you have provided through this Web site in a manner that is consistent with this Privacy Notice.
 
-The right to report violations of FERPA to the Department of Education; and
+**Links to Other Web sites**
 
-The right to be informed about FERPA rights.
+We provide links to other Web sites for your convenience. Also, on occasion, we may provide to a department, program, class or instructor access to a third-party Web site (which may also include access to third-party software). These sites may operate independently from i>clicker, and may not be under our control. These sites may have their own privacy notices in place, which we strongly suggest you review if you visit any linked Web sites. We may not be responsible for the content of these sites, any products or services that may be offered through these sites, or the privacy practices of these sites.
 
-Any users wishing to correct any User Records may do so by emailing the request to Sapling Learning at support@saplinglearning.com or mailing the request to Sapling Learning, 211 East 7th Street, 4th Floor Austin, TX 78701, U.S.A.
+  
+**Children’s Privacy**
 
-**Successors and Assigns**
+We do not knowingly collect personal information from children under 13, and use technical measures to prevent collection of such information.     If our policy concerning collection of information from children under 13 changes, we will revise this portion of the us.macmillan.com privacy notice and will comply with the requirements of the Children's Online Privacy Protection Act. 
 
-This Policy inures to the benefit of successors and assigns of Sapling Learning.
+**Security**
 
-**Amendments to Policy**
+We use administrative, technical and physical safeguards to protect information in our possession and control against foreseeable hazards. Please note, however, that perfect security does not exist on the Internet.  At Sapling Learning, we use a third party service provider to collect your credit card [or debit card] number (and related information). The third party payment service provider will be solely responsible for the collection, use, and storage of your credit card [or debit card] information.
 
-Sapling Learning may amend this Policy at any time. If Sapling Learning is going to use personally identifiable information collected through a Sapling Learning site in a manner materially different from that stated at the time of collection, Sapling Learning will notify users via email and/or by posting a notice on the appropriate Sapling Learning website(s) for 30 days prior to such use.
+**Updates to this Privacy Notice**
 
-**Contact us:**
+We may change or update portions of this Privacy Notice at any time and without prior notice to you. Please check back from time to time so you are aware of any changes or updates to the Notice. We will indicate above the effective date of the Notice.
 
-We appreciate your trust that we will only use your personal information in a responsible manner. If you have any questions about this Policy or are concerned about how information collected from you is being used, please contact us at the postal or email addresses below.
+**How to Contact Us**
 
-Postal Address: 211 East 7th Street, 4th Floor Austin, TX 78701, U.S.A.
+If you have any questions about our information practices or our products or services, please contact us by [clicking here](mailto:support@saplinglearning.com) or writing us at:      
 
-Email: [support@saplinglearning.com](mailto:support@saplinglearning.com)
+Sapling Learning, Inc.  
+211 E. 7th Street, 4th Floor  
+Austin, Texas 78701  
+          Attention:  Support
