@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swingsurgeon.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805223730id_/http%3A//www.swingsurgeon.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swingsurgeon.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326035621id_/https%3A//swingsurgeon.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Swing Surgeon
 
