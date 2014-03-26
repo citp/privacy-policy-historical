@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the life360.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101164520id_/http%3A//www.life360.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the life360.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326114033id_/https%3A//www.life360.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Life360 - The New Family Circle
 
@@ -102,8 +102,8 @@ Life360 may, in its sole discretion, modify or update this Privacy Policy from t
 Life360 collects various types of personal information about you both online and offline, as described in this privacy policy. Under California law, Life360 customers who are residents of California may request certain information about our disclosure of personal information during the prior calendar year to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:
 
 Life360  
-78 First Street, 6th Floor  
-San Francisco, CA 94105
+539 Bryant St. #402  
+San Francisco, CA 94107
 
 Alternatively, you may send us an email at [support@life360.com](mailto:support@life360.com) with the words “California Privacy Rights” in the subject line.
 
@@ -112,5 +112,5 @@ Alternatively, you may send us an email at [support@life360.com](mailto:support@
 If you have any questions about this Privacy Policy or the Service, please contact us at [support@life360.com](mailto:support@life360.com)
 
 Life360  
-78 First Street, 6th Floor  
-San Francisco, CA 94105
+539 Bryant St. #402  
+San Francisco, CA 94107
