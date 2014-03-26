@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moosejaw.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507134928id_/http%3A//www.moosejaw.com/moosejaw/shop/content_privacy____) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moosejaw.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326121334id_/http%3A//www.moosejaw.com/moosejaw/shop/content_privacy____) for the most accurate reproduction.*
 
 # Moosejaw Privacy Policy at Moosejaw.com
 
