@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeditemplearchives.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810194545id_/http%3A//www.jeditemplearchives.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeditemplearchives.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326051339id_/http%3A//www.jeditemplearchives.com/privacy.shtml) for the most accurate reproduction.*
 
 # Jedi Temple Archives Privacy Policy
 
