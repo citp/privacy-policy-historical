@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradingcentral.com privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008092304id_/https%3A//www.tradingcentral.com/start.asp%3Fp%3Dprivate_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingcentral.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326071334id_/https%3A//tradingcentral.com/start.asp%3Fp%3Dprivate_policy) for the most accurate reproduction.*
 
 # TRADING Central - TECHNICAL ANALYSIS EXPERTS
 
@@ -22,15 +22,13 @@ City, Zip: | PARIS,75009
 Country: | FRANCE  
 Controller: | CNIL  
 Web Sites(s): | www.tradingcentral.com  
-www.charts.fr  
-www.lobsa.com  
   
 Our privacy policy also covers our subsidiaries and their respective Web sites: 
 
 Subsidiary Name: | TRADING CENTRAL AMERICAS, INC  
 ---|---  
-Address: | 60 BROAD STREET  
-City, Zip: | NEW YORK , 10004  
+Address: | 1150 6TH AVE - 6TH FLOOR  
+City, Zip: | NEW YORK, NY 10036  
 State | NY  
 Country: | USA  
 Controller: | TRADING CENTRAL SA  
@@ -39,7 +37,7 @@ Web Sites(s): | www.tradingcentral.com
   
 Subsidiary Name: | TRADING CENTRAL ASIA LIMITED  
 ---|---  
-Address: | 1301 BANK OF AMERICA TOWER 12 HARCOURT ROAD  
+Address: | 60 WYNDHAM STREET, 2003B  
 City, Zip: | HONG KONG , CENTRAL  
 Country: | HONG KONG  
 Controller: | TRADING CENTRAL SA  
