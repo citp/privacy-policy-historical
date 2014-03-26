@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotomeeting.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231022235id_/http%3A//www.citrixonline.com/collaboration/privacy_policy_overview) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotomeeting.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326172833id_/http%3A//www.citrixonline.com/collaboration/privacy_policy_overview) for the most accurate reproduction.*
 
 # Privacy Policy Overview | Citrix Online
 
