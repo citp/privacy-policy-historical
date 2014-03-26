@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkcentre.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205124155id_/http%3A//linkcentre.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkcentre.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326181244id_/http%3A//linkcentre.com/w3c/policy.html) for the most accurate reproduction.*
 
 # LinkCentre.com Privacy Policy
 
@@ -97,7 +97,7 @@ Third Party Advertising
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 Storage of financial information  
-Interlink Advertising do not store credit or debit card financial details. We use WorldPay and PayPal to process payments. 
+Interlink Advertising do not store credit or debit card financial details. We use ChargeBee and PayPal to process payments. 
 
 Contact Information  
 Using the following information, you can contact us if you have questions about our privacy policy.  
@@ -105,8 +105,8 @@ Using the following information, you can contact us if you have questions about 
 
  | Interlink Advertising Limited  
 ---|---  
- | 3 Seafield Road  
- | Blackpool, Lancashire FY1 2LS  
+ | 27 Old Gloucester Street  
+ | London, WC1N 3AX  
  | United Kingdom  
  |   
  | E-mail: [support@linkcentre.com](mailto:support@linkcentre.com)  
