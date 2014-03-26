@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the media-match.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103214214id_/http%3A//www.media-match.com/usa/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the media-match.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326075943id_/http%3A//www.media-match.com/usa/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Media Match
 
