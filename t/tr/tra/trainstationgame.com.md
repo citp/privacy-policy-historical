@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the trainstationgame.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601153702id_/https%3A//portal.pixelfederation.com/privacy-en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainstationgame.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326103516id_/https%3A//portal.pixelfederation.com/privacy-en.html) for the most accurate reproduction.*
 
 # PIXELFEDERATION EULA
 
 ## Privacy policy
 
-**By accessing any of the games created by PIXEL FEDERATION, s.r.o. (“PIXEL”) an End-User agrees to the terms of the most recent version of this Privacy Policy. By agreeing, the End-User authorizes PIXEL to collect and use End-User´s personal information as outlined below. In the event the End-User does not agree with this Privacy Policy, the only recourse of the End-User is to cease use of the PIXEL´s online games - TrainStation, Diggy´s Adventure, Emporea 2 ("GAMES") offered on this PixelPortal Site http://portal.pixelfederation.com ("PORTAL").**
+**By accessing any of the games created by PIXEL FEDERATION, s.r.o. (“PIXEL”) an End-User agrees to the terms of the most recent version of this Privacy Policy. By agreeing, the End-User authorizes PIXEL to collect and use End-User´s personal information as outlined below. In the event the End-User does not agree with this Privacy Policy, the only recourse of the End-User is to cease use of the PIXEL´s online games - TrainStation, Diggy´s Adventure, Emporea: The Realms of War & Magic ("GAMES") offered on this PixelPortal Site http://portal.pixelfederation.com ("PORTAL").**
 
   
 **WHAT IS PERSONAL INFORMATION AND WHEN DOES PIXEL COLLECT IT?**. 
