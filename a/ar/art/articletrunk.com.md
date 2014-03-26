@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articletrunk.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116185207id_/http%3A//www.articletrunk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articletrunk.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326031254id_/http%3A//www.articletrunk.com/privacy.php) for the most accurate reproduction.*
 
 # ArticleTrunk.com - ArticleTrunk Privacy Policy | is an article directory for free online articles
 
