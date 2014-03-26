@@ -1,23 +1,21 @@
-> *The following text is extracted and transformed from the aadvantageeshopping.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929013228id_/http%3A//www.aa.com/i18n/footer/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aadvantageeshopping.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326072859id_/http%3A//www.aa.com/i18n/footer/privacyPolicy.jsp) for the most accurate reproduction.*
 
-# American Airlines Privacy Policy On AA.com
+# American Airlines Privacy Policy On aa.com
 
   
   
 Protecting Your Privacy
 
-This Privacy Policy should answer your questions about the sources and kinds of information we collect, how we use it, when it may be shared with others, and how we reasonably attempt to safeguard its confidentiality and security; however, it is not a contract. American reserves the right to change this Privacy Policy at any time and will notify users of any material changes by updating the policy here and by including a "NEWLY UPDATED" label with the "PRIVACY POLICY" link on the websites governed by this policy for 30 days after any material changes are made.  Under no circumstances, though, does this Privacy Policy create a legal right. 
+This Privacy Policy should answer your questions about the sources and kinds of information we collect, how we use it, when it may be shared with others, and how we reasonably attempt to safeguard its confidentiality and security; however, it is not a contract. American reserves the right to change this Privacy Policy at any time and will notify users of any material changes by updating the policy here and by including a "NEWLY UPDATED" label with the "PRIVACY POLICY" link on the websites governed by this policy for 30 days after any material changes are made. Under no circumstances, though, does this Privacy Policy create a legal right. 
 
 We also provide you with ways to correct the data you provide us and to limit our sharing of this data with third parties. This Privacy Policy is applicable to Travel Reservations, Corporate Sales, Marketing Research, Customer Relations/Service, the AAdvantage® program, our mobile apps, and certain affiliated American websites. 
-
-Return to Top
 
 Information We Collect And How We Collect It
 
 In order to facilitate your travel and manage our business, we collect and maintain personal information about you. American collects customer information from many sources to understand and meet your needs. We collect personal information about you from: 
 
 > \- You, when you voluntarily provide us with information;  
->  \- Your browser and devices, when you visit our websites, including when you input or enter information on our web forms, and your browser and devices interact with us, this may include detailed information about which plug-ins are enabled or installed on your browser, your screen resolution, and other technical details that may distinguish your device from other devices;  
+>  \- Your browser and devices over time and across different websites when you visit our websites, including when you input or enter information on our web forms, and your browser and devices interact with us, this may include detailed information about which plug-ins are enabled or installed on your browser, your screen resolution, and other technical details that may distinguish your device from other devices;  
 >  \- Your transactions with any of the companies in the American family; and   
 >  \- Other sources, in connection with providing your transportation needs and services. 
 
@@ -26,11 +24,11 @@ The personal information we collect about you through these various sources may 
 > \- Name, addresses and telephone numbers  
 >  \- Date of birth and gender  
 >  \- Email addresses, fax numbers and pager numbers  
->  \- AAdvantage® account number and flight information  
+>  \- AAdvantage account number and flight information  
 >  \- Credit/debit card number(s), including associated billing address(es) and expiration date(s)   
->  \- Information necessary to facilitate travel or other services, including travel companion(s) names, emergency contacts, seating preferences and special dietary or medical needs  
+>  \- Information necessary to facilitate travel or other services, including travel companion(s) names, emergency contacts, photographs, seating preferences and special dietary or medical needs  
 >  \- Passport number, nationality and country of residence  
->  \- Transactional and online activity data pertaining to mileage activity with companies participating in the AAdvantage® program   
+>  \- Transactional and online activity data pertaining to mileage activity with companies participating in the AAdvantage program   
 >  \- Use of products and services such as self-service devices, flight status notification and online check-in  
 >  \- Personal information provided via survey, focus group or other marketing research efforts  
 >  \- Personal information provided to customer-service representatives to research and resolve issues or questions  
@@ -38,11 +36,11 @@ The personal information we collect about you through these various sources may 
 
 Return to Top
 
-Passive Collection Of Information, Cookies, Pixel Tags, and Web Beacons
+Passive Collection Of Information, Cookies, Pixel Tags, Web Beacons, and Geo-Location
 
-In addition to obtaining your personal information, when you use our site, we may collect tracking information such as your browser type, the type of operating system you use, your physical location information if you have first provided permission through your device, the name of your Internet service provider, and pages visited on our site. American gets this information by using technologies, including cookies, pixel tags, and web beacons, to increase the functionality and user-friendliness of our site and to better tailor our site, products, and services to our visitors' needs. We also use this information to verify that visitors meet the criteria required to process their requests and for reporting onsite activity in the aggregate. For example, we may want to know how long the average user spends on our site or which pages or features get the most attention. 
+In addition to obtaining your personal information, when you use our site or our mobile app, we may collect tracking information such as your browser type, the type of operating system you use, your physical location, the name of your Internet service provider, and pages visited on our site. American gets this information by using technologies, including cookies, pixel tags, web beacons, and mobile device geo-location to increase the functionality and user-friendliness of our site and to better tailor our site, products, and services to our visitors' needs. We also use this information to verify that visitors meet the criteria required to process their requests and for reporting onsite activity in the aggregate. For example, we may want to know how long the average user spends on our site or which pages or features get the most attention. 
 
-We also use social network or other third-party plug-ins and widgets on our site that may allow the associated social networks or third-parties to passively collect information about the page you visit, even if you do not click on or otherwise interact with the plug-in or widget and regardless of whether you have an account or other relationship with these social networks and third-parties. Information is transmitted from your browser and may include an identifier assigned by the social network or third party, information about your browser type, operating system, device type, IP address and the URL of the web page where the plug-in or widget appears. If you use social network tools or visit social networking sites, you should read their privacy disclosures, to learn what information they collect, use, and share.
+We also use social network or other third-party plug-ins and widgets on our site that may allow the associated social networks or third parties to passively collect information about you over time and across different websites, even if you do not click on or otherwise interact with the plug-in or widget and regardless of whether you have an account or other relationship with these social networks and third parties. Information is transmitted from your browser and may include an identifier assigned by the social network or third party, information about your browser type, operating system, device type, IP address and the URL of the web page where the plug-in or widget appears. If you use social network tools or visit social networking sites, you should read their privacy disclosures, to learn what information they collect, use, and share. American's websites do not honor web browsers' Do-Not-Track signals. You do have choices, however, when it comes to your privacy and Internet browsing. For more information about how to manage your cookie options you can go to [All About Cookies](http://www.allaboutcookies.org/) or consult the online materials from the company that makes your browser software.
 
 Return to Top
 
@@ -66,7 +64,7 @@ These cookies enable you to use the website. They store session data used by the
 
 Preference cookies
 
-These cookies store information such as your preferred country and language selection, AAdvantage® login data and website preferences. Without these cookies, our website cannot remember certain choices you've previously made or personalize your browsing experience by providing you with relevant information. These cookies can also be used to recognize your device so that you do not have to provide the same information more than once.
+These cookies store information such as your preferred country and language selection, AAdvantage login data and website preferences. Without these cookies, our website cannot remember certain choices you've previously made or personalize your browsing experience by providing you with relevant information. These cookies can also be used to recognize your device so that you do not have to provide the same information more than once.
 
 Performance cookies
 
@@ -74,16 +72,16 @@ These cookies collect information about how you use our website such as which pa
 
 Behavioral / Advertising cookies
 
-These cookies gather information about your browsing behavior so we may better improve your site experience and provide you with more relevant content. They remember that you've visited our website and assist in providing information on understanding usage of products and services on the website. We do this in order to provide you with advertisements and messages that are relevant to you and your interests. Many of these cookies are from third-parties that American Airlines uses as part of its advertising or marketing program. Some of these third-parties use only anonymous or technical information while others also use proprietary consumer datasets that may include personal information websites.
+These cookies gather information about your browsing behavior so we may better improve your site experience and provide you with more relevant content. They remember that you've visited our website and assist in providing information on understanding usage of products and services on the website. We do this in order to provide you with advertisements and messages that are relevant to you and your interests. Many of these cookies are from third parties that American Airlines uses as part of its advertising or marketing program. The third-parties involved in interest-based advertising operations collect Internet browsing information (e.g. websites visited, time of visit) across different websites and over time. Some of these third parties use only anonymous or technical information while others also use proprietary consumer datasets that may include personal information. 
 
-I would like to find out more. To find out more about cookies and your privacy on the web, visit the online resource [All About Cookies](http://www.allaboutcookies.org/).
+To learn more about cookies and your privacy on the Web, visit the online resource [All About Cookies](http://www.allaboutcookies.org/).
 
 Return to Top
 
 Minors  
 
 
-Due to the nature of our services, travel purchase information, which may include personally identifiable information, may be collected by American from children under the age of 13 when it is necessary to comply with the law, including federal aviation or security regulations, or as otherwise necessary for American to provide transportation needs and services.  We may retain personally identifiable information when necessary to provide transportation and related services to a child under the age of 13.  American does not knowingly collect personally identifiable information from children under the age of 13 other than when necessary to comply with the law or for safety and security reasons.  
+Due to the nature of our services, travel purchase information, which may include personally identifiable information, may be collected by American from children under the age of 13 when it is necessary to comply with the law, including federal aviation or security regulations, or as otherwise necessary for American to provide transportation needs and services. We may retain personally identifiable information when necessary to provide transportation and related services to a child under the age of 13. American does not knowingly collect personally identifiable information from children under the age of 13 other than when necessary to comply with the law or for safety and security reasons. 
 
 If you are a parent or guardian of someone under the age of 13 who has provided us information without your knowledge and consent, you may request that we remove this information by emailing [Privacy@aa.com](mailto:Privacy@aa.com).
 
@@ -92,7 +90,7 @@ Return to Top
 Security  
 
 
-When you buy an American Airlines ticket or access your AAdvantage® account over the World Wide Web, your web browser connects with the website through SSL ("Secure Sockets Layer"). SSL is an industry-standard way to send personal information over the Internet. SSL ensures you are actually sending data to American Airlines and not someone who claims to be American Airlines. Look for one or more of these indicators on your browser to ensure you have a secure connection:  A security alert window tells you that you are about to use a secure connection. Some browsers let you choose whether to display this window.
+When you buy an American Airlines ticket or access your AAdvantage account over the World Wide Web, your web browser connects with the website through SSL (Secure Sockets Layer). SSL is an industry-standard way to send personal information over the Internet. SSL ensures you are actually sending data to American Airlines and not someone who claims to be American Airlines. Look for one or more of these indicators on your browser to ensure you have a secure connection: A security alert window tells you that you are about to use a secure connection. Some browsers let you choose whether to display this window.
 
 While American Airlines reasonably attempts to safeguard and to prevent unauthorized access to your private information including, without limitation, your personally identifiable information, we cannot be responsible for the acts of those who gain unauthorized access, and we make no warranty, express, implied, or otherwise, that we will prevent unauthorized access to your private information. IN NO EVENT SHALL AMERICAN AIRLINES OR ITS AFFILIATES BE LIABLE FOR ANY DAMAGES (WHETHER CONSEQUENTIAL, DIRECT, INCIDENTAL, INDIRECT, PUNITIVE, SPECIAL OR OTHERWISE) ARISING OUT OF, OR IN ANY WAY CONNECTED WITH, A THIRD PARTY'S UNAUTHORIZED ACCESS TO YOUR INFORMATION, REGARDLESS OF WHETHER SUCH DAMAGES ARE BASED ON CONTRACT, STRICT LIABILITY, TORT OR OTHER THEORIES OF LIABILITY, AND ALSO REGARDLESS OF WHETHER AMERICAN AIRLINES WAS GIVEN ACTUAL OR CONSTRUCTIVE NOTICE THAT DAMAGES WERE POSSIBLE.
 
@@ -102,11 +100,11 @@ How Your Information Will Be Used
 
 American’s Services
 
-American uses personally identifiable information to complete transactions and fulfill requests for our services.  For example, American requires you to provide personal information when making a reservation to purchase airline tickets or related products and services such as renting cars or booking hotel rooms through an American Airlines reservations agent, travel agent, the AA.com® website or other travel-related website, or enrolling in the AAdvantage® program.
+American uses personally identifiable information to complete transactions and fulfill requests for our services. For example, American requires you to provide personal information when making a reservation to purchase airline tickets or related products and services such as renting cars or booking hotel rooms through an American Airlines Reservations Agent, travel agent, the aa.com® website or other travel-related website, or enrolling in the AAdvantage program.
 
 Administrative and Analytical Purposes
 
-In addition to processing, confirming and fulfilling the travel or other services you request, American may use customer information for administrative and analytical purposes such as information systems management, accounting, billing and audits, marketing, credit card processing and verification, customer-relations correspondence, and/or operation of the AAdvantage® program.  American also uses customer information to identify, develop and market products and services that we believe you will value. 
+In addition to processing, confirming and fulfilling the travel or other services you request, American may use customer information for administrative and analytical purposes such as information systems management, accounting, billing and audits, marketing, credit card processing and verification, customer-relations correspondence, and/or operation of the AAdvantage program. American also uses customer information to identify, develop and market products and services that we believe you will value. 
 
 Legal Requirements
 
@@ -116,7 +114,7 @@ With Whom Your Information Will be Shared
 
 American does not sell any customer information or share your personal information with third parties except in compliance with this policy. However, we may disclose customer information to companies affiliated with American and/or unaffiliated third parties to fulfill the products and services you have requested and to process your information for our own administrative and analytical purposes. We may also disclose this information to third parties, such as employers, who have arranged for discounts, purchased travel or other services on your behalf. Additionally, American may combine the information we receive from you with information collected from other sources. This information may be used to provide offers and/or services specifically tailored to your interests. 
 
-From time to time, you may receive offers from affiliated American companies such as AMR Investments, American Eagle, AAdvantage® participants, American Airlines Vacations, and American Connection® or from carefully-selected third party companies with which we have a business relationship. In addition, we may provide information we collect about you to third-parties to distribute promotions, sweepstakes, marketing surveys, focus groups, interviews and other opportunities offered by American. These third-parties are subject to stringent data security and confidentiality requirements and, upon completion of their services, all customer information is returned to American or destroyed.
+From time to time, you may receive offers from affiliated American companies such as AMR Investments, American Eagle, AAdvantage participants, American Airlines Vacations, and American Connection® or from carefully-selected third party companies with which we have a business relationship. In addition, we may provide information we collect about you to third parties to distribute promotions, sweepstakes, marketing surveys, focus groups, interviews and other opportunities offered by American. These third parties are subject to stringent data security and confidentiality requirements and, upon completion of their services, all customer information is returned to American or destroyed.
 
 In the event we undergo a business transition involving another company, such as a merger, corporate reorganization, acquisition, the sale of all or a portion of our assets, or in the event of bankruptcy, information that we have collected from or about you or your devices may be disclosed to such other entity as part of the due diligence or business integration process and will be transferred to such entity as one of the transferred assets.
 
@@ -133,9 +131,9 @@ Return to Top
 
 How You Can Opt Out of Marketing Communications and Sharing of Your Information With Third Parties
 
-If you are an AAdvantage® member and you want to opt out of receiving marketing email, [click here to login to the AAdvantage® website](https://www.aa.com/unsubscribe) and update your preferences. You may also contact [AAdvantage® Customer Service](https://www.aa.com/contactAA/viewContactAAAccess.do?selectedFileName=aadvantageCustomerService.html) to submit your request. Please note that you will continue to receive AAdvantage® program updates and email products for which you have subscribed.
+If you are an AAdvantage member and you want to opt out of receiving marketing email, [click here to log in to the AAdvantage website](https://web.archive.org/unsubscribe) and update your preferences. You may also contact [AAdvantage Customer Service](https://web.archive.org/contactAA/viewContactAAAccess.do?selectedFileName=aadvantageCustomerService.html) to submit your request. Please note that you will continue to receive AAdvantage program updates and email products for which you have subscribed.
 
-If you are not a member of our AAdvantage® program and you want to opt out of receiving marketing email, you may join AAdvantage® and register your preferences, or send an email with the word UNSUBSCRIBE in the subject to [americanairlines@na.email.aa.com](mailto:americanairlines@na.email.aa.com) from the address you wish to unsubscribe. In addition, all marketing email from American will have a valid opt-out link in the body of the message. Please be aware, unsubscribing by email will unsubscribe all users at this address, even if they are registered AAdvantage® members with registered preferences. 
+If you are not a member of our AAdvantage program and you want to opt out of receiving marketing email, you may join AAdvantage and register your preferences, or send an email with the word UNSUBSCRIBE in the subject to [americanairlines@na.email.aa.com](mailto:americanairlines@na.email.aa.com) from the address you wish to unsubscribe. In addition, all marketing email from American will have a valid opt-out link in the body of the message. Please be aware, unsubscribing by email will unsubscribe all users at this address, even if they are registered AAdvantage members with registered preferences. 
 
 If you want to opt out of receiving forms of communication from American other than marketing email, or if you want American to stop sharing your information with third parties, please email [privacy@aa.com](mailto:privacy@aa.com) with your request. Regardless of your opt-out preferences, we reserve the right to send you certain communications and share your information with third parties for administrative and analytical purposes.
 
@@ -151,7 +149,7 @@ Return to Top
 
 The American Family
 
-This Privacy Policy is applicable to American and certain of its affiliates, without limitation American Eagle, Executive Airlines, American Connection®, and American’s departments, including without limitation Travel Reservations, Corporate Sales, Marketing Research, Customer Relations/Service, and the AAdvantage® program, and our mobile apps.  Certain affiliated American websites may also have additional privacy policies and procedures in place, as described on those websites.
+This Privacy Policy is applicable to American and certain of its affiliates, without limitation American Eagle, American Connection and American’s departments, including without limitation Travel Reservations, Corporate Sales, Marketing Research, Customer Relations/Service, and the AAdvantage program, and our mobile apps. Certain affiliated American websites may also have additional privacy policies and procedures in place, as described on those websites.
 
 Return to Top
 
@@ -163,7 +161,7 @@ Return to Top
 
 Privacy Policy Modifications
 
-American reserves the right to change this Privacy Policy at any time. We will post any changes here, so be sure to check back periodically. This policy was last reviewed on July 29, 2013.
+American reserves the right to change this Privacy Policy at any time. We will post any changes here, so be sure to check back periodically. This policy was last reviewed on January 2, 2014.
 
 Return to Top
 
