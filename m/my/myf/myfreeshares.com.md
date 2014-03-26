@@ -1,76 +1,66 @@
-> *The following text is extracted and transformed from the myfreeshares.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126104409id_/http%3A//www.myfreeshares.com/privicy.php%3Fref%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreeshares.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326153801id_/http%3A//www.myfreeshares.com/pages/privacy.php) for the most accurate reproduction.*
 
-# MyFreeShares - get paid just for being our member !
+# MyFreeShares.com
 
-active members :  
-33212  [](http://www.etoro.com/B891_A17661_TClick_Smfsbnr.aspx) |  MyfreeShares Favorites Must join!-> [Smart Media (paid)](http://edelweis.smartmediatechnologies.com/) | [HomePagepays (FREE)](http://edelweis.homepagepays.com/) | [Stiforp NR 1.!](http://edelweis.stiforptour.com/?SOURCE=07mfs) | [Work from home!](http://edelweis.onebigpowerline.com/?SOURCE=07mfs)
-
-**News June 20 2013  
-Today we have a launch of an amazing new program that everyone really had to join. They have the option now to join pre-launch for free, or join direct as paid member to get in this amazing program to start earning big. The more people join the more we can promote the program to build up everyones downline in our team. So don’t wait longer and join our team today. (to get direct in the team you had to join as paid member, the free pre-launch part not place you direct in the program but give you this option later)  
-[Click here to join the pre-Launch part for FREE](http://edelweiss.lifestartsat21.com/?src=mfsnote) | [Click here to join MyFunLive as paid Member Direct](http://edelweiss.myfunlife.com/home.php/?src=mfsnote2) **
-
-**Privacy Policy Statement  
-This is the web site of MyFreeShares.com.**
-
-We can be reached via e-mail at contact@MyFreeShares.com.
-
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
-
-The information we collect is used to customize the content and/or layout of our page for each individual visitor.
-
-If you do not want to receive e-mail from us in the future, you can delete your account by login and then click the cancel button.
-
-We do not share e-mail addresses of those who access our site available to other organizations.
-
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
-
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
-
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
-
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them, financial information (e.g., credit card account information) that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them , a description of information that we maintain about them.  
-Consumers can access this information by e-mail us at the above address. 
-
-With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses.
-
-[ ](http://banner.europacasino.com/cgi-bin/redir.cgi?id=N&member=edelweis&profile=468)
-
-****Copyright (C) 2004. www.myfreeshares.com. All rights reserved****
-
-|  | 
-
-**ADVERTISERS !**  
-Highly effective advertising  
-  
+| **Site Stats**  
 ---  
-**[UNIQUE HITS :](http://www.myfreeshares.com/banner.php?ref=)**  
-**10,000** UNIQUE HITS  
-for only **$15**  
-**20,000** UNIQUE HITS  
-for only **$25**  
-**50,000** UNIQUE HITS  
-for only **$50**  
-**100,000** UNIQUE HITS  
-for only **$80**  
-**[FREE SIGN UPS :](http://www.myfreeshares.com/banner.php?ref=)**  
-**50** FREE SIGN UPS  
-for only **$25**  
-**100** FREE SIGN UPS  
-for only **$45**  
-**150** FREE SIGN UPS  
-for only **$65**  
-**200** FREE SIGN UPS  
-for only **$85**  
-**[BANNER IMPRESSIONS :](http://www.myfreeshares.com/banner.php?ref=)**  
-**100,000** BANNER IMP.  
-for only **$7**  
-**200,000** BANNER IMP.  
-for only **$13**  
-**500,000** BANNER IMP.  
-for only **$30**  
-**1,000,000** BANNER IMP.  
-for only **$50**  
-**> >> [MORE INFO](http://www.myfreeshares.com/banner.php?ref=)  
->>> [ORDER NOW](http://www.myfreeshares.com/banner.php?ref=)**
+**Total Affiliates: 12,651  
+Active Affiliates: 5,396  
+Total Payouts: 17,044.67  
+Mails in queue 0  
+Ads in rotation 67  
+Paid-To-Clicks 157  
+Signups Today: 13  
+Members online: 81  
+Guests online: 105  
+**  
+  
+  
+  
+
+
+******News November 27. 2013  
+Today we have an announchement and an amazing program that brings you Free leads for all programs you wanted for LIFE! This program had as well an amazing pay system that can let you earn really big cash and the best they have a 7 days free Trial!  
+[Click here to join the 7 days free Trial](http://power.freepowerteam.com/) **
+
+## We Respect Your Privacy!
+
+### Information Collected
+
+Myfreeshares.com has created this privacy statement in order to demonstrate our firm commitment to privacy. Myfreeshares.com uses your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. Myfreeshares.com uses cookies to deliver content specific to your interests, to save your password so you don't have to reenter it each time you visit our site, and for other purposes. Myfreeshares.com's registration form requires users to give us contact information (like their name, address, and e-mail address). Myfreeshares.com uses member contact information from the registration form to send the member information about our company and e-mail advertisements.
+
+Affiliates may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. We collect personal off-line information for the sole purpose of paying affiliates for earnings from our program. This site contains links to other sites. Myfreeshares.com is not responsible for the privacy practices or the content of such Web sites. Myfreeshares.com Uses a sign-up form for new affiliates and advertisers. We collect visitor's contact information (like their e-mail address, address, and name). The member's contact information is used to get in touch with the member when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+
+### Public Forums
+
+Myfreeshares.com, in the future, may make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+
+### Security
+
+Myfreeshares.com has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+
+### Children's Guidelines
+
+We do not collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent. We do not collect personally identifiable off-line contact information without prior parental consent. We do not distribute to third parties any personally identifiable information. We do not give the ability to publicly post or otherwise distribute personally identifiable contact information. We do not entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity.
+
+### Choice/Opt-Out
+
+Myfreeshares.com provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. Myfreeshares.com gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. Log in to your account and "Cancel Account". You may also [Contact Us](http://myfreeshares.com/pages/contact.php) and request your affiliateship to be canceled at anytime.
+
+### Correct/Update
+
+Myfreeshares.com gives users the following options for changing and modifying information previously provided. Affiliates Area - log-in and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with Myfreeshares.com, you can [Contact Us](http://myfreeshares.com/pages/contact.php).
+
+|  | **Sponsors**  
+---  
+  
+[](http://myfreeshares.com/scripts/runner.php?BA=211&hash=cbeaffe1de2a5acf98ec6d78e3cf2ea7&url=http%3A%2F%2Fwad.ojooo.com%2Fregister.php%3Fref%3Dedelweis)  
+  
+  
+**Sponsor**  
+---  
+  
+[](http://myfreeshares.com/scripts/runner.php?BA=100&hash=34833b6409b7dc8f97c842b081b8ca11&url=http%3A%2F%2Fwww.apollo-affiliates.com%2Fidevaffiliate.php%3Fid%3D303%26tid1%3Dmfsbnr120)  
+
+
+* * *
