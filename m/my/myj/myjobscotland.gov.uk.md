@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the myjobscotland.gov.uk privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127204215id_/https%3A//www.myjobscotland.gov.uk/termsandconditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjobscotland.gov.uk privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326133010id_/https%3A//www.myjobscotland.gov.uk/termsandconditions) for the most accurate reproduction.*
 
 # myjobscotland.gov.uk
 
 ## Privacy Statement
 
-### Updated 3rd July 2012
+### Updated 11th March 2013
 
-This website is operated and controlled by COSLA on behalf of its member organisations. myjobscotland is the national shared recruitment portal for Scotland's 32 local authorities and Scottish Fire & Rescue Service. It advertises job vacancies online through a single internet portal managed by COSLA. The portal allows candidates in any location to view vacancies and submit applications online to the organisation advertising the vacancy. Applicants can also register to receive job alerts via email. This policy is designed to inform you of COSLA’s commitment to upholding your right to privacy and how COSLA will handle your personal data when you using myjobscotland.gov.uk 
+This website is operated and controlled by COSLA on behalf of its member organisations. myjobscotland is the national shared recruitment portal for Scotland's 32 local authorities and Scottish Fire & Rescue Service. It advertises job vacancies online through a single internet portal managed by COSLA. The portal allows candidates in any location to view vacancies and submit applications online to the organisation advertising the vacancy. Applicants can register to receive job alerts via email. This policy is designed to inform you of COSLA’s commitment to upholding your right to privacy and how COSLA will handle your personal data when you using myjobscotland.gov.uk 
 
-Information you supply will be processed by COSLA in accordance with the requirements and principles of the Data Protection Act 1998. COSLA is registered with the Information Commissioner as a data controller under the following address and registration number: COSLA, Verity House, 19 Haymarket Yards, Edinburgh, EH12 5BH - Registration No: Z6216554
+Information you supply will be processed by COSLA in accordance with the requirements and principles of the Data Protection Act 1998. COSLA is registered with the Information Commissioner as a data controller under the following address and registration number: COSLA, Verity House, 19 Haymarket Yards, Edinburgh EH12 5BH - Registration No: Z6216554
 
 Information entered onto the myjobscotland website is stored in a database managed by Lumesse on COSLA’s behalf. The organisation to which you are applying is given limited access to this database, in order to process your application for a vacancy. 
 
-Once the closing date has been reached your application will be downloaded by the organisation to which you have applied, they are obligated to handle your data in accordance with this policy. 
+Once the closing date has been reached your application will be downloaded by the organisation to which you have applied, they are obligated to handle your data in accordance with this policy.
 
 Links within this website to external websites are not covered by this policy and individuals should check the terms of the privacy policy of those sites for their terms. COSLA is not responsible for the content or policies of external web sites. 
 
@@ -20,8 +20,8 @@ Links within this website to external websites are not covered by this policy an
 
 If you choose to apply for a vacancy with one of the organisations featured on the portal, the following information will be requested from you and centrally stored on behalf of the recruiting organisation: 
 
-  * Contact information e.g. your name, address, email and contact telephone number 
-  * A description of your work experience, skills and education 
+  * Contact information e.g. your name, address, email, contact telephone number
+  * A description of your work experience, skills and education
   * Responses to specific application questions 
   * Details of interview assessments 
   * Equal Opportunity monitoring information 
@@ -31,7 +31,7 @@ If you choose to apply for a vacancy with one of the organisations featured on t
 
 This information will be used solely for the purposes of recruitment by the personnel department of that organisation. It will be made clear to you at the point of submitting your application which organisation will have access to your data and you will have a final opportunity to opt out of the process. 
 
-After you have created an account and / or submitted an application your account will be anonymised, by removing personal details such as your name, address, email and contact telephone number, after 181 days of inactivity in an account. 
+After you have created an account and/or submitted an application your account will be anonymised/archived, by removing personal details such as your name, address, email, contact telephone number, after 181 days of inactivity in an account. 
 
 If you are not offered the job, the organisation to which you have applied will normally destroy all documentation related to your application for employment after a period of six months. 
 
