@@ -1,16 +1,16 @@
-<!--The following is the downloaded HTML source of the xsplit.com privacy policy that was archived on 2013-08-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130827155723id_/http%3A//www.xsplit.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the xsplit.com privacy policy that was archived on 2014-03-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140326031253id_/https%3A//www.xsplit.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-	<link rel="stylesheet" type="text/css" href="/css/global.css?v=2.0.1308.2302">
-<link rel="stylesheet" type="text/css" href="/css/styles.css?v=2.0.1308.2302">
-<script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/33b5cfdb85e826cc3a88135ea5aff6119d22f9dd.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/assets/ae6d7c21/jquery.min.js"></script>
-<script type="text/javascript" src="/js/browser.detect.js?v=2.0.1308.2302"></script>
-<script type="text/javascript" src="/js/jquery.tinyscrollbar.min.js?v=2.0.1308.2302"></script>
-<script type="text/javascript" src="/js/XSplitUI.js?v=2.0.1308.2302"></script>
-<script type="text/javascript" src="/js/jquery.tools.overlay.js?v=2.0.1308.2302"></script>
-<script type="text/javascript" src="/js/jquery.autosize-min.js?v=2.0.1308.2302"></script>
-<script type="text/javascript" src="/js/scripts.js?v=2.0.1308.2302"></script>
+	<link rel="stylesheet" type="text/css" href="/css/global.css?v=2.0.1403.2401">
+<link rel="stylesheet" type="text/css" href="/css/styles.css?v=2.0.1403.2401">
+<link rel="stylesheet" type="text/css" href="/css/popupWindow.css?v=2.0.1403.2401">
+<script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/33b5cfdb85e826cc3a88135ea5aff6119d22f9dd.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/assets/73c084d3/jquery.min.js"></script>
+<script type="text/javascript" src="/js/browser.detect.js?v=2.0.1403.2401"></script>
+<script type="text/javascript" src="/js/jquery.tinyscrollbar.min.js?v=2.0.1403.2401"></script>
+<script type="text/javascript" src="/js/XSplitUI.js?v=2.0.1403.2401"></script>
+<script type="text/javascript" src="/js/jquery.tools.overlay.js?v=2.0.1403.2401"></script>
+<script type="text/javascript" src="/js/scripts.js?v=2.0.1403.2401"></script>
 <script type="text/javascript">
 /*<![CDATA[*/
 		var _kmq = _kmq || [];
@@ -26,24 +26,29 @@
 		_kms('//i.kissmetrics.com/i.js');
 		_kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
 		
-		
+
 		//For partners page, 'Visited Page' event will not be used - JeAl
-		_kmq.push(['record', 'Visited Page', {'Page URL':'http://www.xsplit.com/site/privacy', 'Page Name':'Privacy Page'}]);
-		
-		_kmq.push(['set', {'Screen Resolution' : screen.width + " x " + screen.height, 'Browser Type' : BrowserDetect.browser, 'Browser Version' : BrowserDetect.version, 'OS Type' : BrowserDetect.OS ,'Tracked Year':'2013','Tracked Month':'August','Tracked Day':'27','Country':'United States','Event Name':'Visited Page' }]);
-		
+		_kmq.push(['record', 'Visited Page', {'Page URL':'https://www.xsplit.com/site/privacy', 'Page Name':'Privacy Page'}]);
+
+		_kmq.push(['set', {'Screen Resolution' : screen.width + " x " + screen.height, 'Browser Type' : BrowserDetect.browser, 'Browser Version' : BrowserDetect.version, 'OS Type' : BrowserDetect.OS ,'Tracked Year':'2014','Tracked Month':'March','Tracked Day':'26','Country':'United States','Event Name':'Visited Page' }]);
+
 		window.onload = function() {
-			if (window.jQuery) {  
+			if (window.jQuery) {
 				$(document).ready(function(){
 					$('.dlLink').click(function(e) {
-						_kmq.push(['record', 'Download Button Clicked', { 'version' : $(this).attr('title') }]);
-						
+						var xsplitProduct = 'Broadcaster';
+						var defaultParent = $(this).parent('.imgDL').hasClass('gamecaster');
+						if ( defaultParent === true )
+							xsplitProduct = 'Gamecaster';
+
+						_kmq.push(['record', 'Download Button Clicked', { 'version' : $(this).attr('title'), 'xsplit product' : xsplitProduct }]);
+
 						var timeout = null;
 						var href = $(this).attr( "href" );
-						
+
 						clearTimeout( timeout );
 						timeout = setTimeout( function(){ window.location.href = href; }, 300 );
-						
+
 						return false;
 					});
 				});
@@ -67,7 +72,7 @@
 		_gaq.push(['_setAccount', 'UA-16878000-1']);
 		_gaq.push(['_setDomainName', '.xsplit.com']);
 		_gaq.push(['_trackPageview']);
-	
+
 		(function() {
 			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -88,8 +93,14 @@
 <body>
 <div id="header">
 		<div class="c960 posRel">
-		<a class="" href="/site"><img src="/images/logo.png" id="logo"></a>		<ul id="headerMenu">
-<li><a class="imgX navi" href="/buy">Buy XSplit</a>
+		<a class="" href="/"><img src="/images/logo.png?v=2" id="logo"></a>		<ul id="headerMenu">
+<li><a class="imgX navi" id="menuProducts">Products</a><div class="imgY vDvdr1"></div>
+<ul>
+<li><a href="/products/broadcaster">XSplit Broadcaster</a></li>
+<li><a href="/products/gamecaster">XSplit Gamecaster</a><span class="new imgO "></span></li>
+</ul>
+</li>
+<li><div class="imgH shoppingcart vDvdr2"></div><a class="imgX navi" href="/buy?pp=NAVBAR">Buy XSplit</a>
 <ul>
 <li><span>Buy, upgrade, or redeem your XSplit licenses and gift certificates here!</span></li>
 </ul>
@@ -99,12 +110,12 @@
 <li><span>Can't wait to get started? Click here to get the latest XSplit version and release notes.</span></li>
 </ul>
 </li>
-<li><div class="imgY vDvdr1"></div><a class="imgX navi" href="/support">Support</a>
+<li><div class="imgY vDvdr1"></div><a class="imgX navi" href="https://support.xsplit.com">Support</a>
 <ul>
 <li><span>Need help? Visit the Support &amp; Community Forum and get answers from our staff and other XSplit users!</span></li>
 </ul>
 </li>
-<li><div class="imgY vDvdr1"></div><a class="imgX navi" href="/posts">Blog</a>
+<li><div class="imgY vDvdr1"></div><a class="imgX navi" href="/blog">Blog</a>
 <ul>
 <li><span>Read the latest updates, tutorials, how-to's, and other advanced tips for XSplit Broadcaster.</span></li>
 </ul>
@@ -114,17 +125,12 @@
 <li><span>Check out live content from or view the schedule of our XSplit VIP Streamers!</span></li>
 </ul>
 </li>
-<li><div class="imgY vDvdr1"></div><a class="imgX navi" target="_blank" href="http://www.splitmedialabs.com/careers">Join Us</a>
-<ul>
-<li><span>We're always looking for fresh talent! Click here to know more about how to become part of the XSplit team!</span></li>
-</ul>
-</li>
 </ul>		<div id="headerRight">
 			<div class="portlet" id="yw0">
 <div class="portlet-content">
-	<div class="cLangBox">
-		<div class="siteLoginForm hidden">
-			<div class="portlet" id="yw1">
+<div class="cLangBox">
+  <div class="siteLoginForm hidden">
+	<div class="portlet" id="yw1">
 <div class="portlet-content">
 <div class="floatLeft siteLoginBox posRel">
 	<label for="xsEmail">Email</label>
@@ -135,47 +141,54 @@
 	<div class="hidden xsLogError"></div>
 	<div class="vs10"></div>
 	<div class="floatLeft pt2">
-		<div class="imgO checkbox checkboxOFF floatLeft"></div>
+		<div class="imgH checkbox loginCheckboxOFF floatLeft"></div>
 		<div id="keepLogIn" class="floatLeft fs11 text-B pl5 bold unselectable">Keep me logged in</div>
 	</div>
 	<div class="floatRight">
 		<div class="bW floatRight" id="submitMainLogin">
-			<div class="imgO l"></div>
+			<div class="imgH loginL"></div>
 			<div class="imgX m">Login</div>
-			<div class="imgO r"></div>
+			<div class="imgH loginR"></div>
 		</div>
 	</div>
 	<div class="vs5"></div>
 	<a class="floatLeft fs12" href="/user/forgotpassword">Forgot password?</a>	<span class="floatLeft text-A">&nbsp;|&nbsp;</span>
 	<a class="floatLeft fs12" href="/site#register">Register</a>	<img src="/images/loaderB.gif" class="mainLoginLoader hidden">
 </div></div>
-</div>		</div>
-		<div class="langOpt hidden">
-			<ul class="langSelect">
-								<li class="selected">English</li>
-							</ul>
-		</div>
-		<div class="langBox">
-			<div class="ddBox">
-				<div class="currLang">English</div>
-				<div class="bLangDropdown">
-					<div class="imgO iAccDropdown floatLeft"></div>
-				</div>
-			</div>
-		</div>
+</div>  </div>
+  <div class="langOpt hidden">
+	<ul class="langSelect">
+	  	  			  <li class="selected">English</li>
+	  	  	  	  <li>
+	    <a href="/privacy?lang=ja">日本語</a>	  </li>
+	  	  	  	  <li>
+	    <a href="/privacy?lang=zh_CN">简体中文</a>	  </li>
+	  	  	  	  <li>
+	    <a href="/privacy?lang=zh_TW">繁體中文</a>	  </li>
+	  	  	</ul>
+  </div>
+  <div class="langBox">
+	<div class="ddBox">
+	  <div class="currLang">
+		English	  </div>
+	  <div class="bLangDropdown">
+		<div class="imgH loginIAccDropdown floatLeft"></div>
+	  </div>
+	</div>
+  </div>
 	<ul id="headerRightMenu">
 <li><div class="floatRight liX"><a class="link" href="/site#register">REGISTER</a></div></li>
-<li><div class="floatRight liX liX2 posRel"><a class="link" id="wLogin" href="/user/login">LOGIN</a><div id="lixArrow" class="imgO iAccUpdown hidden floatRight"></div></div><div class="imgY vDvdr1"></div></li>
+<li><div class="floatRight liX liX2 posRel"><a class="link" id="wLogin" href="/user/login">LOGIN</a><div id="lixArrow" class="imgH loginIAccUpdown hidden floatRight"></div></div><div class="imgY vDvdr1"></div></li>
 </ul>	</div>
 	<div class="portlet" id="yw2">
 <div class="portlet-content">
 <form action="/search" method="get"><div class="clear"></div>
-<div class="imgO searchBarLft floatRight"></div>
+<div class="imgH loginSearchBarLft floatRight"></div>
 <div class="imgX searchBarMid floatRight">
-	<input name="q" id="search-input" type="text" value="Search XSplit..." onfocus="if(this.value == 'Search XSplit...') { this.value = ''; }" onblur="if(this.value == '') { this.value = 'Search XSplit...'; }">
-	<div class="imgO iSearch floatRight"><input name="src" class="srcBtn" alt="Search" value="" type="submit"></div>
+  <input name="q" id="search-input" type="text" value="Search XSplit..." onfocus="if(this.value == 'Search XSplit...') { this.value = ''; }" onblur="if(this.value == '') { this.value = 'Search XSplit...'; }">
+	<div class="imgH loginISearch floatRight"><input name="src" class="srcBtn" alt="Search" value="" type="submit" onclick="if(document.getElementById('search-input').value == 'Search XSplit...'){ document.getElementById('search-input').value = ''; }"></div>
 </div>
-<div class="imgO searchBarRyt floatRight"></div>
+<div class="imgH loginSearchBarRyt floatRight"></div>
 </form></div>
 </div></div>
 </div>		</div>
@@ -201,27 +214,29 @@
 			<div class="scrollbar"><div class="track"><div class="thumb"><div class="end"></div></div></div></div>
 		    <div class="viewport">
 		        <div class="overview">
-					<p>This policy describes the ways we collect, store, use and protect your personal information. You accept this Privacy Policy when you sign up for or use our products, services or any other features, technologies or functionalities offered by us on our website, application or through any other means (collectively the "XSplit Services"). We may amend this policy at any time by posting a revised version on our website. The revised version will be effective at the time we post it. In addition, if the revised version includes a substantial change, we will provide you with 30 days' prior notice by posting notice of the change on the "News" section of our <a target="_blank" href="/site/support">forum</a>.</p>
+					<p>This policy describes the ways we collect, store, use and protect your personal information. You accept this Privacy Policy when you sign up for or use our products, services or any other features, technologies or functionalities offered by us on our website, XSplit applications ("XSplit Products") or through any other means (collectively the "XSplit Services"). We may amend this policy at any time by posting a revised version on our website. The revised version will be effective at the time we post it.</p>
 					<h1>How we collect information about you</h1>	
-					<p>When you visit the Xsplit website or use the Xsplit Broadcaster application, we collect information sent to us by your computer, mobile phone or other access device. This information may include your IP address, device information including but not limited to identifier, name and type, operating system, location, and standard web log information, such as your browser type, traffic to and from our site and the pages you accessed on our website.</p>
+					<p>When you use the XSplit Services, we collect information sent to us by your computer, mobile phone or other access device. This information may include your IP address, device information including but not limited to identifier, name and type, operating system, location, and standard web log information, such as your browser type, traffic to and from our site and the pages you accessed on our website.</p>
 					<p>If you open an account or use the XSplit Services, we may collect the following types of contact information - your name, screen name, password, country, age, gender, email, and other similar information.</p>
-					<p>When you use the XSplit web site or Xsplit Broadcaster, we collect information about your streams and your activities on our website, and we may collect information about your computer or other access devices for tracking issues that you may have encountered using our services or applications or for general statistics about our users.</p>
+					<p>When you use the XSplit Services, we collect information about your streams and your activities on our website, and we may collect information about your computer or other access devices for tracking issues that you may have encountered using our services or applications or for general statistics about our users.</p>
 					<p>You may choose to provide us with access to certain personal information stored by third parties such as streaming sites (such as JustinTV and Own3D). The information we have access to varies by site and is controlled by your privacy settings on that site and your authorization. By associating an account managed by a third party with your XSplit account and authorizing XSplit to have access to this information, you agree that XSplit may collect, store and use this information in accordance with this Privacy Policy.</p>
 					<p>Finally, we may collect additional information from or about you in other ways such as contacts with our customer support team or results when you respond to a survey and from interactions with members of the Splitmedialabs corporate family, and from other companies.</p>
-					<h1>XSplitBroadcaster Usage and Feedback</h1>
-					<p>When you use XSplit Broadcaster or send us feedback we track your XSplit Broadcaster Version, Broadcasting settings, IP Address, MAC Address, Operating System and Version, Monitor Stats, Graphics Card, Video Controller, Processor, Audio Devices, Microphone settings, Speakers, USB Controllers, ExperienceIndex, Subscriptions, Source Types used in Stages of Stream, Channels, Start and End Time of Streams, Bandwidth settings and usage, Login and Logout information, and similar information and similar information. We use this information to track usage statistics as well as to be able to track and solve issues that you may have encountered when using the XSplit Broadcaster.</p>
-					<p>We do NOT access any information from your computer related to software installed or any information which you may have stored in personal files. The information we track and store is purely related to your XSplit settings and your hardware, operating systems and driver configuration.</p>
+					<h1>XSplit Products Usage and Feedback</h1>
+					<p>When you use the XSplit Products or send us feedback, we track your XSplit Product Version, Broadcasting settings, IP Address, MAC Address, Operating System and Version, Monitor Stats, Graphics Card, Video Controller, Processor, Audio Devices, Microphone settings, Speakers, USB Controllers, ExperienceIndex, Subscriptions, Source Types used in Stages of Stream, Channels, Start and End Time of Streams, Bandwidth settings and usage, Login and Logout information, and similar information. We use this information to track usage statistics as well as to be able to track and solve issues that you may have encountered when using the XSplit Products.</p>
+					<p>We do NOT access any information from your computer related to software installed or any information which you may have stored in personal files. The information we track and store is purely related to your XSplit Products settings and your hardware, operating systems and driver configuration.</p>
 					<h1>Cookies</h1>
-					<p>When you access our website or content or use our application or the PayPal Services, we or companies we work with, may place small data files called cookies on your computer or other device. We use these technologies to recognize you as an XSplit user, customize the XSplit services, content and advertising, measure promotional effectiveness, collect information about your computer or other access device to mitigate risk, solve issues during support, help prevent fraud and promote trust and safety.</p>
-					<p>We use both session and persistent cookies when you access our website or content. Session cookies expire and no longer have any effect when you log out of your account or close your browser. Persistent cookies remain on your browser until you erase them or they expire.</p>
-					<p>You are free to decline our cookies if your browser or browser add-on permits, but doing so may interfere with your use of our website. The help section of most browsers or browser add-ons provides instructions on blocking, deleting or disabling cookies.</p>
+					<p>When you access our website or content or use our application or the PayPal Services, we or companies we work with, may place small data files called cookies on your computer or other device. We use these technologies to recognize you as an XSplit user, customize the XSplit Services, content and advertising, measure promotional effectiveness, collect information about your computer or other access device to mitigate risk, solve issues during support, help prevent fraud and promote trust and safety.</p>
+					<p>We use both session and persistent cookies when you access our website or content. Session cookies expire and no longer have any effect when you log out of your account or close your browser. Persistent cookies remain on your browser until you erase them or they expire. You are free to decline our cookies if your browser or browser add-on permits, but doing so may interfere with your use of our website. The help section of most browsers or browser add-ons provides instructions on blocking, deleting or disabling cookies.</p>
 					<p>You may encounter XSplit cookies on websites that we do not control. For example, if you view a web page created by a third party or use an application developed by a third party, there may be a cookie placed by the web page or application. Likewise, these third parties may place cookies that are not subject to our control and the XSplit Privacy Policy does not cover their use.</p>
-					<h1>Marketing</h1>
+					<h1>Use of Information</h1>
 					<p>We may combine your information with information we collect from other sources and use it to improve and personalize the XSplit Services, content and advertising.</p>
-					<p>We may share "Aggregate Information" with third parties, but never any personal identifiable data. "Aggregate Information" means information about groups or categories of Customers or Users, which does not identify and cannot reasonably be used to identify an individual Customer or User. Aggregate Information is a kind of Anonymous Information.</p>
+					<p>We may share "Aggregate Information" with third parties."Aggregate Information" means information about groups or categories of customers or users of the XSplit Services, which does not identify and cannot reasonably be used to identify an individual customer or user. Aggregate Information is a kind of anonymous information.</p>
+					<p>We may never share any personal identifiable data with third parties, with the sole exception of cases where sharing of such information with law enforcement agencies or our partners, is necessary to identify, prevent or mitigate the effects of unlawful use of the XSplit Services.</p>
 					<h1>Consent</h1>
 					<p>By using any part of our site or product, you consent to our privacy policy.</p>
-					<div class="foot">©2013 SplitmediaLabs Limited All rights reserved. All trademarks and/or service marks of Licensor used in connection with the Software are trademarks and registered trademarks of SplitmediaLabs Limited.</div>
+					<p>&nbsp;</p>
+					<p>This privacy policy is valid and in effect from Feb. 26, 2014. Click <a href="/privacy_old">here</a> to see the old Privacy Policy, which this Privacy Policy replaces.</p>
+					<div class="foot">©2014 SplitmediaLabs Limited All rights reserved. All trademarks and/or service marks of Licensor used in connection with the Software are trademarks and registered trademarks of SplitmediaLabs Limited.</div>
 				</div>
 			</div>
 		</div>
@@ -232,27 +247,57 @@ $(document).ready( function() {
 	$('.jsScrollBox').tinyscrollbar();
 } );
 </script></div><!-- content -->
-<div class="clear"></div>			
+<div class="clear"></div>
 <div id="footer">
 		<div class="c960 posRel">
 		<div class="imgX hDvdr1"></div>
 		<ul class="floatLeft">
-			<li><a target="_blank" href="http://www.splitmedialabs.com">ABOUT</a></li>
+			<li><a href="/about">ABOUT</a></li>
 			<li><a href="/presskit">PRESS KIT</a></li>
 			<li><a href="/privacy">PRIVACY</a></li>
 			<li><a href="/terms">TERMS</a></li>
 			<li><a href="/contact">CONTACT</a></li>
+			<li><a href="/careers">CAREERS</a></li>
 		</ul>
 		<div class="cSMIcons">
-			<a class="imgO iSM smFB" target="_blank" href="//www.facebook.com/xsplit"></a>
-			<a class="imgO iSM smTW" target="_blank" href="//www.twitter.com/xsplit"></a>
-			<a class="imgO iSM smYT" target="_blank" href="//www.youtube.com/xsplitbroadcaster"></a>		
+			<a class="imgH iSM smFB" target="_blank" href="//www.facebook.com/xsplit"></a>
+			<a class="imgH iSM smTW" target="_blank" href="//www.twitter.com/xsplit"></a>
+			<a class="imgH iSM smYT" target="_blank" href="//www.youtube.com/xsplit"></a>
 		</div>
 		<div class="foot floatRight">
-			<div class="copyright">© 2013 <a href="//www.splitmedialabs.com/">SplitmediaLabs, Ltd.</a> All Rights Reserved.</div>
-			<div class="version">Website Release Version 2.0.1308.2302</div>
+			<div class="copyright">© 2014 <a href="http://www.splitmedialabs.com/">SplitmediaLabs, Ltd.</a> All Rights Reserved.</div>
+			<div class="version"> Website Release Version 2.0.1403.2401</div>
 		</div>
 	</div>
 </div>
-
+<div class="portlet" id="yw4">
+<div class="portlet-content">
+<div id="popupWindow" class="pwOverlay">
+	<div class="pwFrame">
+		<div class="pwTitle">
+			<div class="title"></div>
+			<div class="pwOverlayClose hidden"></div>
+		</div>
+		<div class="pwContent posRel">
+			<div class="floatLeft context">
+			</div>
+			<div class="vs1"></div>
+			<div class="errTxt pb10 errorMessage"></div>
+			<div class="dcenter loader hidden">
+				<img src="/images/loaderG.gif" alt="Please wait..."><br><br>
+				Processing request...
+				<div class="vs10"></div>
+				<div class="imgX hDvdr2 pt10" style="display: block;"></div>
+			</div>
+			<div class="vs25"></div>
+			<div class="mcenter absCntrOut pwButtons" id="pwButtons">
+				<div class="absCntrIn"></div>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="vs5"></div>
+	</div>
+</div> 
+</div>
+</div>
 </body></html>
