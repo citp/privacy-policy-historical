@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hockeycanada.ca privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224025950id_/http%3A//www.hockeycanada.ca/index.php%3Fci_id%3D15167%26la_id%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hockeycanada.ca privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326171714id_/http%3A//www.hockeycanada.ca/Corporate/About/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Privacy Policy
 
 **Background**
 
@@ -11,6 +11,8 @@ Hockey Canada is the sole governing body for amateur hockey in Canada. In co-ope
 Hockey Canada has developed this Privacy Policy for implementation beginning January 1, 2004. This Policy describes the way that Hockey Canada collects, uses, retains, safeguards, discloses and disposes of the personal information of prospective members, members, and others including players, coaches, referees, managers and volunteers.
 
 This Policy describes the way that Hockey Canada will, subject to applicable legal requirements, adhere to all relevant federal and provincial legislative privacy requirements. The Policy follows the 10 Canadian Standards Association (CSA) principles identified in the federal Personal Information Protection and Electronic Documents Act (PIPEDA). The Policy describes each principle and the method of implementing each. Hockey Canada will strive to meet or exceed federal and provincial legislative requirements and will ensure that it remains current with changing technologies and laws. Any and all changes will immediately be posted to the Hockey Canada web site.
+
+* * *
 
 **1.** **Accountability**
 
@@ -25,6 +27,8 @@ This Policy describes the way that Hockey Canada will, subject to applicable leg
 Security measures at all levels designed to protect personal information in our possession.  
 • Implementing procedures designed to respond to complaints and/or inquiries.  
 • Staff training in all facets of information management, including awareness of Hockey Canada’s Privacy Policy and policies and procedures developed in accordance with the Policy.
+
+* * *
 
 **2.** **Identifying Purposes, Type of Information Collected and Website**
 
@@ -49,6 +53,8 @@ Security measures at all levels designed to protect personal information in our 
 
 **2.5** Hockey Canada may also use information about an individual who accesses secure areas of www.hockeycanada.ca. Information you are asked to provide during your use of our web site may include your name, address, e-mail address, age, sex [and the other types of personal information listed in paragraph 2.2]. All such personal information will be treated within the same parameters as other personal information collected by Hockey Canada through other means. It is always your choice to provide information in certain fields although failure to complete certain sections may inhibit your ability to fully access all areas of the web site. Our web site also collects non-identifiable information about users such as the users IP address, the sections of the web site visited and the information downloaded. Hockey Canada may use this non-identifiable information and disclose it to service providers, for system administration purposes and to improve the web site.
 
+* * *
+
 **3.** **Consent**
 
 **3.1** Hockey Canada will use the personal information for the uses specified above in section 2 and in Sections 3.2 and 3.3 below. By consenting to provide your information to Hockey Canada, you are deemed to consent to our use of the information for the purposes of Hockey Programming listed in Section 2 of this Privacy Policy and to disclosure of the information to other associated organizations for the same purpose.
@@ -61,6 +67,8 @@ Security measures at all levels designed to protect personal information in our 
 
 **3.5** Hockey Canada may collect personal information without consent where reasonable to do so and where permitted by law.
 
+* * *
+
 **4.** **Limiting Collection**
 
 **4.1** All information shall be collected fairly and lawfully within the criteria as set forth in our Privacy Policy.
@@ -68,6 +76,8 @@ Security measures at all levels designed to protect personal information in our 
 **4.2** Hockey Canada shall not indiscriminately collect information. The amount and type of information we collect shall be limited to that which is required to fullfill our identified purposes.
 
 **4.3** Hockey Canada will not use any form of deception in gaining personal information from its members.
+
+* * *
 
 **5.** **Limiting Use, Disclosure and Retention**
 
@@ -84,6 +94,8 @@ Security measures at all levels designed to protect personal information in our 
 
 **5.3** Certain documents may be subject to legislated retention periods either federally or provincially and these will be respected at all times by Hockey Canada.
 
+* * *
+
 **6.** **Accuracy**
 
 **6.1** Hockey Canada shall strive to ensure to the extent it can that the information entrusted to us is maintained in an accurate manner. We shall try to maintain the interests of the individual and attempt to ensure that decisions are not made for or about an individual based on personal information that is flawed.
@@ -98,6 +110,8 @@ Security measures at all levels designed to protect personal information in our 
 
 **7.3** Methods of protection and safeguards to be employed shall include but in no way be necessarily limited to locked files, offices and storage areas, security clearances and need to know access as well as technological measures such as passwords and encryption.
 
+* * *
+
 **8.** **Openess**
 
 **8.1** Hockey Canada publicly discloses the methods by which we handle your personal information. This information is readily available through our Privacy Policy, on our web site or upon request by contacting the Hockey Canada Privacy Officer is Glen McCurdie and can be reached at gmccurdie@hockeycanada.ca, or by phone at 613-562-5677, extension #2314.
@@ -110,6 +124,8 @@ Security measures at all levels designed to protect personal information in our 
 • information used for scouting, potential sponsorship opportunities, donors, alumni and information retained for the purposes of Hockey Canada business contacts.  
 • Information that may be made available to related organizations, Branches, associations, leagues and/or third party service providers, in accordance with the provisions of this Privacy Policy.
 
+* * *
+
 **9.** **Individual Access**
 
 **9.1** Subject to applicable legislation, upon request by the individual concerned Hockey Canada shall disclose whether or not it actually holds personal information on an individual. We shall disclose the source of this information when requested and provide an account of third parties to whom the information may have been disclosed.
@@ -119,6 +135,8 @@ Security measures at all levels designed to protect personal information in our 
 **9.3** Subject to applicable legislation, Hockey Canada shall endeavour to provide this information within 30 days of receipt of the information requested and only charge nominal fees for the purpose of off-setting its expenses incurred in supplying the requested information. This information shall be provided in an understandable format, at the time you make a request.
 
 **9.4** Any inaccurate information that is brought to our attention shall be corrected by Hockey Canada as quickly as possible and any pertinent third parties shall be apprised of the corrections in due course.
+
+* * *
 
 **10.** **Challenging Compliance**
 
