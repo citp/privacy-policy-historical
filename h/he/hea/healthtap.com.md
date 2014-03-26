@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the healthtap.com privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405101825id_/https%3A//www.healthtap.com/pages/privacy_sharing) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthtap.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326034510id_/https%3A//www.healthtap.com/pages/privacy_sharing) for the most accurate reproduction.*
 
 # HealthTap
 
 ## Privacy & Security
 
-At HealthTap we believe in the power and benefits of better health information. When patients and physicians come together, we can learn from one and another in engaging ways that are simply not possible when we’re looking for health information alone.
+At HealthTap we believe in the power and benefits of better health information. When patients and doctors come together, we can learn from one and another in engaging ways that are simply not possible when we’re looking for health information alone.
 
 Because online sharing in health is a new concept, you should be comfortable and confident that you can share securely and privately. This is why on HealthTap you can ask health questions and explore health information without also sharing your personal identity. We call this "secure sharing."
 
@@ -55,7 +55,7 @@ Our Privacy Principles, Privacy Constitution & Member Bill of Rights
 
 HealthTap’s Governing Privacy Principles
 
-We believe that trusted health information from physicians leads to better decisions. We also believe that securely sharing health questions and information can change the way we understand and manage our well-being, and can redefine personal health.
+We believe that trusted health information from doctors leads to better decisions. We also believe that securely sharing health questions and information can change the way we understand and manage our well-being, and can redefine personal health.
 
 We take your privacy and security very seriously. That’s why we have a Privacy Constitution, consisting of our pledge to you and your rights. This Constitution helps guide our decisions about privacy and security, and secures your rights as a member of our service.
 
@@ -66,7 +66,7 @@ HealthTap’s Privacy Constitution & Member Bill of Rights
 Our Pledge to You:
 
   1. **We are here to help.**  
-We are here to help you find useful answers and health information from trusted physicians to help you make better decisions about your health and well-being. We ask only for data that can help us provide this service to you, and to use the data provided to improve your experience on our service. 
+We are here to help you find useful answers and health information from trusted doctors to help you make better decisions about your health and well-being. We ask only for data that can help us provide this service to you, and to use the data provided to improve your experience on our service. 
   2. **We let you decide.**  
 We let you decide what you want to share. Other than the information requested at sign up, you are not required to share any information with us to use HealthTap. 
   3. **We are safe and secure.**  
