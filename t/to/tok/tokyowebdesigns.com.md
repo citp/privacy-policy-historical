@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokyowebdesigns.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817191555id_/http%3A//www.tokyowebdesigns.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyowebdesigns.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326211612id_/http%3A//www.tokyowebdesigns.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Tokyo Web Designs
 
