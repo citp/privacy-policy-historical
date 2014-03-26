@@ -1,80 +1,71 @@
-> *The following text is extracted and transformed from the epdq.co.uk privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615193851id_/http%3A//www.barclaycard.co.uk/business/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epdq.co.uk privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326153637id_/http%3A//www.barclaycard.co.uk/business/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Barclaycard Business
 
-## How do we collect information about you?
+Please read our privacy policy carefully before using this website ("the Site"). In this policy "we", "us", "our" and "ours" means Barclays Bank PLC and "you" means the person using the Site. 
 
-We collect personal and financial information which we obtain from you or from any third parties when you apply for a card or any other product or service or which you or third parties give us from time to time. We will also collect information about you when you register to use the services provided on this Site or when you contact us. We may also collect information through the use of cookies. 
+* * *
 
-## What we use cookies for?
+###  How we collect information about you
 
-Internet cookies are common and do not harm your system - they just store or gather site information. They help you do things online, like remembering logon details so you don't have to re-enter them when revisiting a site.
+We collect personal and financial information from you or third parties every time you apply for a card or any other product. We also collect information about you when you register to use the services we offer on this Site, or when you contact us. We may also gather information using cookies.
 
-We use cookies to:
+###  Sharing your information with others
 
-  1. Gather customer journey information across our sites
-  2. Ensure your privacy in our secure sites
-  3. Store login details for our secure sites
-  4. Temporarily store details input into our calculators, tools, illustrations & demonstrations
-  5. Store details of your marketing, product & business unit preferences to improve our targeting & enhance your journey through our sites
-  6. Evaluate our sites advertising & promotional effectiveness (we own the anonymous data collected, which is not shared with anyone).
+We may need to pass on your information to people who provide a service to us, with the understanding that they keep your information confidential, and to anyone to whom we may transfer our rights and duties. We may also disclose your information if we're required to do so by law. If we transfer your information to a service provider in another country, we'll make sure they agree to apply the same levels of protection that we adhere to in the UK. They will only use your information for the purpose of providing the service to us. 
 
+###  How long we keep your personal information on file
 
+We won't keep your information for longer than necessary and will take steps to ensure that it's kept up to date. You have a right, under the Data Protection Act 1998, to ask what information we hold about you. You can do this by writing to us at: Barclaycard  
+1234 Pavilion Drive  
+Northampton  
+NN4 7SG  
+United Kingdom 
 
-We use both our own (first party) and partner companies' (third party) cookies to support these activities.
+###  Security
 
-We don't use cookies to track people's Internet usage after leaving our sites and we don't store personal information in them others could read and understand. We will not sell or distribute cookie information without your prior consent.
+Please remember that any messages you send over the internet aren't secure unless they are encrypted. We're not responsible for unauthorised access by a third party or the corruption of any information sent to us. 
 
-## What are cookies?
+So for your own security, please don't send us any personal or account information by standard email.
 
-### Collecting information
+* * *
 
-Cookies are harmless text files that web servers can store on your computer's hard drive when you visit a site. They allow the server to recognise you when you revisit.
+###  COOKIE POLICY
 
-### There are two main types:
+###  What are cookies and how do we use them?
 
-  * **Transient (or per-session) cookies** – these only exist for your site visit and are deleted on exit. They recognise you as you move between pages, for example, recording items added to an online shopping basket. These cookies also help maintain security.
-  * **Persistent (or permanent) cookies** – these stay on your machine until expiry or deletion. Many are built with automatic deletion dates to help ensure your hard drive doesn't get overloaded. These cookies often store and re-enter your log-in information, so you don't need to remember membership details.
+Cookies are text files containing small amounts of information, which your computer or mobile device downloads when you visit a website. When you return to websites – or visit other websites that use the same cookies – they recognise these cookies and therefore your browsing device. Cookies do lots of different jobs, like helping us understand how this website is being used, letting you navigate between pages efficiently, remembering your preferences, and generally improving your browsing experience. Cookies can also help ensure marketing you see online is more relevant to you and your interests. 
 
+You can learn about the cookies we use and how to manage them below.
 
+###  Managing cookies on this website.
 
-We use both types of cookies.
+We use cookies on our website to make your browsing experience better. By using this website you accept our use of cookies. You can control how cookies are placed on your device and remove existing cookies; all you have to do is change your web browser settings. 
 
-Additionally, cookies can be first or third party cookies. First party cookies are owned & created by the website you're viewing. Third party cookies are owned & created by an independent company, usually a company providing a service to the website owners.
+Please be aware that restricting cookies may affect the functionality of this website, for example, you would not be able to log into mybarclaycard if you disable cookies on your browser.
 
-## How will we use the information we collect about you?
+###  What types of cookies do we use?
 
-We may put your information on the Barclays Group customer systems and use it in the following ways:
+The type of cookies used on most websites can generally be put into 1 of 4 categories, based on the International Chamber of Commerce guide to cookie categories; Strictly Necessary, Performance, Functionality and Targeting.
 
-  * to supply and manage any services we provide to you
-  * to improve and develop the products we offer
-  * to learn more about you so that we can identify products and services which may be of interest to you
-  * to tell you about our own and other companies' products and services which may interest you. We may tell you by letter, phone (including automated dialing), digital television or e-mail but we will only let other companies in our group contact you if you have expressly agreed that they can.  
+**Strictly Necessary Cookies**
 
+These cookies are essential, as they enable you to move around the website and use its features, such as accessing secure areas. Without these cookies, services you've asked for can't be provided. These cookies don't gather information about you that is used for marketing or remembering where you've been on the internet.
 
+**Performance Cookies**
 
+These cookies collect information about how you use a website, for example which pages you go to most often and if you get error messages from certain pages. These cookies don't gather information that identifies you. All information these cookies collect is anonymous and is only used to improve how a website works. These cookies are not used to target you with online marketing. Without these cookies we can't learn how our website is performing and make relevant improvements that could better your browsing experience. 
 
-If you don't want us to tell you about other products and services please write to us at Dept MTRM, Northampton NN4 7SG and supply us with details of any products you have with us.
+**Functionality Cookies**
 
-### Will we share your information with anyone else?
+These cookies allow a website to remember choices you make (such as your user name, language or the region you're in) and tailor the website to provide enhanced features and content for you. For instance, a website may be able to provide you with local weather reports or traffic news. These cookies can also be used to remember changes you've made to text size, font and other parts of pages that you can customise. They may also be used to provide services you've asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymous and they cannot track your browsing activity on other websites. 
 
-We may need to pass on your information to people who provide a service to us (although we only do this on the understanding that they keep your information confidential) and anyone to whom we may transfer our rights and duties. We may also disclose your information if we have a duty to do so or if the law allows us to.
+Without these cookies, a website cannot remember choices you've previously made or personalise your browsing experience.
 
-If we transfer your information to a service provider in another country we will make sure that the service provider agrees to apply the same levels of protection as we are required to apply to information held in the UK and to use your information only for the purpose of providing the service to us.
+**Targeting Cookies**
 
-### How long will we keep your personal information on file?
+These cookies are used to tailor marketing to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They remember that you have visited a website and this information may be shared with other organisations such as advertisers. Although these cookies can track your visits to other websites, they don't usually know who you are. Without these cookies, online advertisements you encounter will be less relevant to you and your interests. 
 
-We will not keep your information for longer than is necessary and will take steps to ensure that it is kept up to date. You have a right under the Data Protection Act 1998 to ask what information we hold about you. You can do this by writing to us at Barclaycard, 1234 Pavilion Drive, Northampton, NN4 7SG.
+###  What happens to cookies that have been downloaded in the past?
 
-## Security
-
-Please remember that internet communications are not secure unless the data being sent is encrypted. We can ot accept any responsibility for unauthorised access by a third party or the corruption of data sent to us. 
-
-Please do not send any personal information or anything about your account by standard email.
-
-**Call Charges:** Calls may be monitored or recorded for security and quality purposes. Calls made to 0800 numbers are free if made from a UK landline.  
-For BT business customers, calls to 0844 numbers will cost no more than 5p a minute, min call charge of 5.9p (current at April 2010). The price on non-BT phone lines may be different.
-
-**Lending Code:** Barclaycard is a trading name of Barclays Bank PLC. Barclays Bank PLC subscribes to the Lending Code which is monitored and enforced by the Lending Standards Board. You can find out more about the Lending Code by visiting the [Lending Standards Board(This link opens in a new window)](http://www.lendingstandardsboard.org.uk/ "Lending Standards Board website.\(Opens in new window\)") website.
-
-By clicking on a link with this icon, you're leaving a Barclaycard site and entering a website that's owned and operated by a 3rd party, where you will be subject to their website's terms and conditions.
+Cookies set prior to you changing your settings may still be on your computer. You can remove them using your browser settings. 
