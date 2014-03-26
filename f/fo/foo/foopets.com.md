@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the foopets.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523151453id_/http%3A//www.foopets.com/signup/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foopets.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326074108id_/https%3A//www.foopets.com/signup/privacy) for the most accurate reproduction.*
 
 # FooPets | Real Virtual Pets Online
-
-[ ](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.foopets.com)
 
 Updated March 22, 2012
 
@@ -15,10 +13,6 @@ For children under 13, FooPets offers a limited feature set and web site experie
 In this policy we describe what information we collect, how we collect it, and what we do with it (the policy covers only information collected and used on FooPets.com and FooPets applications on social networks such as Facebook and MySpace). FooPets makes every effort to comply with the Children's Online Privacy Protection Act, (COPPA) a U.S. law that governs the use and collection of information online from children under 13. To learn more about COPPA, and about how to protect your children online, please visit http://www.ftc.gov/privacy/coppafaqs.shtm for information from the U.S. Federal Trade Commission, as well as http://www.onguardonline.gov/socialnetworking_youth.html. 
 
 This Privacy Policy (this "Policy") explains how personal information is safely handled by FooPets.com and all other Startapult, Inc. web sites, applications and portals. FooPets.com provides a fun and safe virtual experience for everyone. 
-
-Startapult, Inc. is a licensee of the TRUSTe Children's Online Privacy Seal Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.foopets.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this statement, you should first contact a FooPets Support Representative at support@foopets.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://watchdog.truste.com/pvr.php?page=complaint&url. TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 ### What is Personal Information?
 
@@ -144,6 +138,6 @@ email: support@foopets.com
 
 phone: +1.650.479.5907 
 
-#### ©2013 Startapult, Inc. All rights reserved.
+#### ©2014 Startapult, Inc. All rights reserved.
 
 Top
