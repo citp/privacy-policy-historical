@@ -1,94 +1,115 @@
-> *The following text is extracted and transformed from the cbolobank.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014101129id_/http%3A//www.cbolobank.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbolobank.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326112601id_/https%3A//www.cbolobank.com/uploadedFiles/Central_Bank_of_Lake_of_the_Ozarks/Content/Legal_Compliance/bk011_Privacy_Statement.pdf) for the most accurate reproduction.*
 
-# Central Bank - About Us - Privacy
+# FACTS
 
- 
-
-[](http://cbolo.mortgagewebcenter.com/)
-
-Tell us what you think.  Fill out our [Customer Satisfaction Survey](http://www.clientsatisfaction.com/survey.asp?n=cbolobank)
-
-**PRIVACY POLICY**
-
-As required by law, we are providing to you our Privacy Policy. We will provide notice of our Privacy Policy annually as long as you maintain an ongoing relationship with us.
-
-  
-**Our Promise**  
-As a valued customer, Central Bancompany affiliates are committed to providing you with exceptional service and product offers. We are also committed to the belief that maintaining the confidentiality of our customer's information is at the core of our relationship with our customers. Our Board of Directors has adopted this Privacy Policy so that you will understand what information we collect and how we use it. 
-
-  
-**Information We Collect**  
-We collect and retain personally identifiable information about you when we believe that the information will assist us in providing products, services and other opportunities to you and in managing your accounts and services. One of the main reasons we collect certain information is to protect your account and to identify you. The information we collect will be used to comply with certain laws and regulations that may apply to us and to help us understand your financial needs as we design or improve our products and services. We will also use your information to administer your account and transactions and to provide you with products and services that will best assist you. We collect nonpublic personal information about you from the following sources.
-
-  * Information we receive from you on an application or other form; 
-  * Information about your transactions with us, our affiliates or others; 
-  * Information we receive from a credit bureau. 
-
-
-
-Examples of nonpublic personal information include information regarding your account balance, credit card use and payment history.
-
-  
-**Information We Disclose**  
-We understand that you expect the personal information you have entrusted to us will be handled with great care. We do not disclose any nonpublic personal information about our customers or former customers to anyone, except as permitted by law. Please be assured that we will NEVER provide medical information that we may obtain in insurance applications to any affiliate or to any associate without a need to know. 
-
-  
-**Central Bancompany Affiliates**  
-We are permitted by law to share information about our experiences or transactions involving you or your account with us with companies related to us by common ownership or control ("affiliates"). We may also share other information about you or your account (such as information we receive from you in applications and information from credit bureaus) with our affiliates. Our affiliates provide important services and products designed to provide you with the highest quality financial services. We may share information about you within our family of companies so we can serve you more efficiently, offer you products and services that we know would benefit you and make it easier to do business with us. You may "opt-out" of sharing certain information with our affiliates. Even if you "opt-out", however, we will continue to share information relating to our affiliates' experiences or transactions with you or your account. If you prefer that we not share information with our affiliates that does not relate solely to our affiliates' experiences or transactions with you or your account (such as application information and credit bureau information), you may direct us not to share this information by completing the return card and mailing. You cannot "opt-out" on behalf of any other customer. 
-
-  
-**Third Parties**  
-We work with select outside companies to develop special offers for you, which many of our customers find valuable. **We do not sell or share customer information to unrelated third parties for the third parties to use for their own purposes.** We do share information with companies that print checks for us, mail customer statements or letters or provide data processing services. These companies are acting on our behalf when they provide these services and are obligated to maintain the information they receive in a confidential manner. They are never authorized to use the information for any other purposes.
-
-  
-For example, we also provide information:
-
-  * When you authorize us to release information; 
-  * To credit reporting agencies; 
-  * To other parties when it is necessary or helpful in processing transactions at your request, including other financial institutions and networks involved in processing your transactions; 
-  * In connection with maintaining or servicing your account with us or with another entity as part of a private label credit card program; 
-  * To comply with a law, regulation, court order or subpoena; 
-  * To verify the existence of your account and general information about the condition of your account for a merchant or other financial institution; 
-  * To local, state and federal authorities if we believe a crime may have been committed involving your account; 
-  * To our independent auditors, consultants or attorneys and to agencies that regulate us. 
+                                                                                              Revised May 2012
+FACTS                  WHAT DOES CENTRAL BANCOMPANY
+                       DO WITH YOUR PERSONAL INFORMATION?
+                       Financial companies choose how they share your personal information. Federal law
+Why?                   gives consumers the right to limit some but not all sharing. Federal law also requires us
+                       to tell you how we collect, share, and protect your personal information. Please read
+                       this notice carefully to understand what we do.
+                       The types of personal information we collect and share depend on the product or
+What?                  service you have with us. This information can include:
+                        Social Security number and income
+                        Account balances and payment history
+                        Credit history and transaction history
+                       All financial companies need to share customers’ personal information to run their
+How?                   everyday business. In the section below, we list the reasons financial companies can
+                       share their customers’ personal information; the reason Central Bancompany chooses
+                       to share; and whether you can limit this sharing.
+                                                                     Does Central         Can you limit this
+Reasons we can share your personal information
+                                                                Bancompany share?               sharing?
+For our everyday business purposes -
+such as to process your transactions, maintain your
+                                                                         Yes                       No
+account(s), respond to court orders and legal
+investigations, or report to credit bureaus
+For our marketing purposes –
+                                                                         Yes                       No
+To offer our products and services to you
+For joint marketing with other financial companies                       Yes                       No
+For our affiliates’ everyday business purposes –
+                                                                         Yes                       No
+Information about your transactions and experiences
+For our affiliates’ everyday business purposes –
+                                                                         Yes                       Yes
+Information about your creditworthiness
+For our affiliates to market to you                                      Yes                       Yes
+For non-affiliates to market to you                                      No                  We don’t share
+                       Mail the form on page 3 to the address listed.
+To Limit
+                       If you are a new customer, we can begin sharing your information 30 days from the
+Our                    date we sent this notice. When you are no longer our customer, we continue to share
+Sharing                your information as described in this notice.
+                       However, you can contact us at any time to limit our sharing.
+Questions?             Go to www.cbolobank.com and click on Contact Us.
 
 
+Page 2
+Who We Are
+Who is providing this notice?         Central Bancompany and its affiliates (please see below for List of
+                                      Affiliates).
+What We Do
+How does Central                      To protect your personal information from unauthorized access and use, we
+Bancompany protect my                 use security measures that comply with federal law. These measures
+personal information?                 include computer safeguards and secured files and buildings.
+How does Central                      We collect your personal information, for example, when you:
+Bancompany collect my                  Open an account or deposit money
+personal information?                  Pay your bills or apply for a loan
+                                       Use your credit or debit card
+                                      We also collect your personal information from others, such as credit
+                                      bureaus, affiliates, or other companies.
+Why can’t I limit all sharing?        Federal law gives you the right to limit only:
+                                       Sharing for affiliates’ everyday business purposes – information about
+                                           your creditworthiness
+                                       Affiliates from using your information to market to you
+                                       Sharing for non-affiliates to market to you
+                                      State laws and individual companies may give you additional rights to limit
+                                      sharing.
+What happens when I limit             Your choices will apply to everyone on your account unless you advise us
+sharing for an account I hold         otherwise.
+jointly with someone else?
+Definitions
+Affiliates                            Companies related by common ownership or control. They can be financial
+                                      and non-financial companies.
+                                       Our affiliates include companies who are members of Central
+                                         Bancompany; financial companies such as trust, credit card and
+                                         insurance.
+Non-Affiliates                        Companies not related by common ownership or control. They can be
+                                      financial and non-financial companies.
+                                       Central Bancompany does not share with non-affiliates so they can
+                                         market to you.
+Joint Marketing                       A formal agreement between non-affiliated financial companies that
+                                      together market financial products or services to you.
+                                       Our joint marketing partners include companies that provide marketing
+                                         services on our behalf and other financial institutions with which we have
+                                         joint marketing agreements.
+List of Affiliates
+Boone County National Bank                 Central Bank                          Central Bank of Lake of the Ozarks
+Central Mortgage Company                   Central Trust & Investment Company    City Bank
+Dogwood Insurance Agency, L.L.C.           Empire Bank                           First Central Bank
+First National Bank of Audrain County      First National Bank of St. Louis      InvestorServices Insurance, Inc.
+Jefferson Bank of Missouri                 Metcalf Bank                          ONB Bank & Trust Company
+Ozark Mountain Bank                        Third National Bank
 
-We may disclose all of the information we collect as described above to companies that perform marketing services on our behalf or to other financial institutions with which we have joint marketing agreements. Of course, those third parties would contractually agree not to use the information for any other purpose. If you close your account(s) with us, we will continue to follow this Privacy Policy.
 
-**  
-Our Security Procedures**  
-One of the ways we protect your information is by limiting access to information about you to those associates with a reason to know your information in order to provide products or services to you. In addition, we train our associates about the importance of maintaining the confidentiality of customer's information. We take appropriate disciplinary action to enforce our associate's privacy responsibilities. We maintain physical, electronic and procedural safeguards that comply with federal standards to guard your nonpublic personal information.
-
-  
-**Our Family**
-
-  * Bank of Jacomo 
-  * Boone County National Bank 
-  * Central Bank 
-  * Central Bank of Lake of the Ozarks 
-  * City Bank 
-  * First Central Bank 
-  * First National Bank of Audrain County 
-  * Jefferson Bank of Missouri 
-  * Ozark Mountain Bank 
-  * First National Bank of Missouri 
-  * Empire Bank 
-  * First National Bank of St. Louis 
-  * Third National Bank 
-  * Central Mortgage Company 
-  * Guaranty Trust Company of Missouri 
-
-
-
-**Opt-Out**  
-
-
-| **Equal Housing Lender**  
----|---  
-  
-_
-
-[© Copyright Central Bank of Lake of the Ozarks](mailto:cecilia_thomson@cbolobank.com)
-
-_
+Page 3
+Mail-in Form
+If you have a joint Mark any/all you want to limit:
+account, your                   Do not share information about my creditworthiness with your affiliates for
+choice(s) will         
+                                their everyday business purposes.
+apply to everyone
+on your account                Do not allow your affiliates to use my personal information to market to me.
+unless you mark
+below.              Name
+ Apply my          Address
+    choices only to
+    me.             City, State, Zip
+                    Last 4 digits of SSN
+Mail To:            Central Bank of Lake of the Ozarks
+                    Attn: Customer Service
+                    PO Box 207
+                    Osage Beach, MO 65065
