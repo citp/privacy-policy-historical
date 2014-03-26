@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gerbergear.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808050613id_/http%3A//www.gerbergear.com/Company/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gerbergear.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326214835id_/http%3A//www.gerbergear.com/Company/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gerber Gear
 
-Fiskars - Outdoors Privacy Policy 
+Fiskars - Outdoors Privacy Policy
 
 **GERBERGEAR.COM ONLINE PRIVACY POLICY**
 
@@ -38,7 +38,7 @@ Changes to Our Privacy Policy
 
 
 
-**Information You Provide To Us.** You can provide information to us on our Site through various means, including 
+**Information You Provide To Us.** You can provide information to us on our Site through various means, including
 
   * When you register at the Site and/or create an online account 
   * On your account information page
@@ -95,15 +95,15 @@ The information we collect includes personal information, such as
 
 
 
-**To Provide Products, Services, and Information.** As described above, we collect information from you so that we can provide products and services that you purchase using the Site, and provide information that you request from us. We use your personal information to contact you about your orders, process credit card / debit card transactions, and ship products to you. We may send you information about our products and services, and new offerings. We may provide information to third party service providers that help us process orders, and fulfill and deliver products and services that you purchase from us. 
+**To Provide Products, Services, and Information.** As described above, we collect information from you so that we can provide products and services that you purchase using the Site, and provide information that you request from us. We use your personal information to contact you about your orders, process credit card / debit card transactions, and ship products to you. We may send you information about our products and services, and new offerings. We may provide information to third party service providers that help us process orders, and fulfill and deliver products and services that you purchase from us.
 
-We may use third parties to help host our Site, send out email updates about the Site, provide marketing and advertising services for us, remove repetitive information from our user lists, and process payments. These service providers will have access to your personal information in order to provide these services, but when this occurs we implement reasonable contractual and technical protections to limit their use of that information to helping us provide the service. We use demographic information to better understand our customers, and improve our products and services. 
+We may use third parties to help host our Site, send out email updates about the Site, provide marketing and advertising services for us, remove repetitive information from our user lists, and process payments. These service providers will have access to your personal information in order to provide these services, but when this occurs we implement reasonable contractual and technical protections to limit their use of that information to helping us provide the service. We use demographic information to better understand our customers, and improve our products and services.
 
-**Advertising and Marketing.** We may use how you browse and shop in order to show you ads for Fiskars or our advertising partners that are more relevant to your interests. We may use cookies and other information to provide relevant interest-based advertising to you. Interest-based ads are ads presented to you based on your browsing behavior in order to provide you with ads more tailored to your interests. These interest-based ads may be presented to you while you are browsing our site or third-party sites not owned by Fiskars. 
+ **Advertising and Marketing.** We may use how you browse and shop in order to show you ads for Fiskars or our advertising partners that are more relevant to your interests. We may use cookies and other information to provide relevant interest-based advertising to you. Interest-based ads are ads presented to you based on your browsing behavior in order to provide you with ads more tailored to your interests. These interest-based ads may be presented to you while you are browsing our site or third-party sites not owned by Fiskars. 
 
-We belong to ad networks that may use your browsing history across participating websites to show you interest-based advertisements on those websites. Some websites may belong to ad networks that use your browsing history across websites to choose which ads to display on their sites; the displayed ads may include advertising for Fiskars. To learn more, and to opt out of seeing interest-based advertisements on these sites, visit the [Network Advertising Initiative](http://www.networkadvertising.org/) and the [Digital Advertising Alliance](http://www.aboutads.info/) websites ( [www.networkadvertising.org](http://www.networkadvertising.org/) and [www.aboutads.info](http://www.aboutads.info/) ). Websites may also offer their own opt-out methods for interest-based advertising. Please note that if you choose to opt out, you will continue to see ads on our Site, but they will not be based on how you browse and shop. 
+We belong to ad networks that may use your browsing history across participating websites to show you interest-based advertisements on those websites. Some websites may belong to ad networks that use your browsing history across websites to choose which ads to display on their sites; the displayed ads may include advertising for Fiskars. To learn more, and to opt out of seeing interest-based advertisements on these sites, visit the [Network Advertising Initiative](http://www.networkadvertising.org/) and the [Digital Advertising Alliance](http://www.aboutads.info/) websites ( [www.networkadvertising.org](http://www.networkadvertising.org/) and [www.aboutads.info](http://www.aboutads.info/) ). Websites may also offer their own opt-out methods for interest-based advertising. Please note that if you choose to opt out, you will continue to see ads on our Site, but they will not be based on how you browse and shop.
 
-**Your Consent.** In addition to the sharing described elsewhere in this Policy, we will share personal information with companies, organizations or individuals outside of the Fiskars when we have your consent to do so. We require opt-in consent for the sharing of any sensitive personal information. Sensitive personal information is a particular category of personal information relating to confidential medical facts, racial or ethnic origins, political or religious beliefs or sexuality. 
+ **Your Consent.** In addition to the sharing described elsewhere in this Policy, we will share personal information with companies, organizations or individuals outside of the Fiskars when we have your consent to do so. We require opt-in consent for the sharing of any sensitive personal information. Sensitive personal information is a particular category of personal information relating to confidential medical facts, racial or ethnic origins, political or religious beliefs or sexuality. 
 
 **Legal Proceedings.** We will share personal information with third party companies, organizations or individuals outside of Fiskars if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
 
@@ -132,7 +132,7 @@ In order to help secure your personal information, access to your data on our Si
 
 
 
-As a global company, Fiskars has separate privacy policies for its international offices. Fiskars’ United States-based websites (e.g., gerbergear.com) are operated and managed on servers located and operated within the United States. Certain of our international websites are operated and managed on services located in other jurisdictions. By using and accessing our gerbergear.com site, residents and citizens of countries and jurisdictions outside of the United States agree and consent to the transfer to and processing of personal information on servers located in the United States, and that the protection of such information may be different than required under the laws of your residence or location. 
+As a global company, Fiskars has separate privacy policies for its international offices. Fiskars’ United States-based websites (e.g., gerbergear.com) are operated and managed on servers located and operated within the United States. Certain of our international websites are operated and managed on services located in other jurisdictions. By using and accessing our gerbergear.com site, residents and citizens of countries and jurisdictions outside of the United States agree and consent to the transfer to and processing of personal information on servers located in the United States, and that the protection of such information may be different than required under the laws of your residence or location.
 
   1. **7\. ****CHANGES TO OUR PRIVACY POLICY**
 
@@ -144,10 +144,10 @@ Our Privacy Policy may change from time to time. We will not reduce your rights 
 
 
 
-If you have any questions, concerns, complaints or suggestions regarding our Privacy Policy or otherwise need to contact us, please [Contact Us](http://www.gerbergear.com/Meet-Gerber/About-us/Contact-us) or call us at 866-348-5661. You may also contact us by mail at the following address: 
+If you have any questions, concerns, complaints or suggestions regarding our Privacy Policy or otherwise need to contact us, please [Contact Us](http://www.gerbergear.com/Meet-Gerber/About-us/Contact-us) or call us at 866-348-5661. You may also contact us by mail at the following address:
 
-Fiskars Brands, Inc. 
+Fiskars Brands, Inc.
 
-2537 Daniels Street 
+2537 Daniels Street
 
-Madison, WI 53718 
+Madison, WI 53718
