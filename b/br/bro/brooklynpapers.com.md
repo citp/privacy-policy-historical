@@ -1,79 +1,107 @@
-> *The following text is extracted and transformed from the brooklynpapers.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522074338id_/http%3A//brooklynpaper.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooklynpapers.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326134726id_/http%3A//brooklynpaper.com/about/privacy) for the most accurate reproduction.*
 
-# The Brooklyn Paper: BrooklynPaper.com Privacy Policy
+# The Brooklyn Paper: Privacy Policy
 
-_Effective Date April 30, 2009_
+Privacy Policy  
+Effective: 3/5/2014  
 
-News Community Newspapers Holdings, Inc. (“NCNH”), which includes www.BrooklynPaper.com and other Internet sites controlled by NCNH, Courier-Life, Inc., Queens Publishing Corp. (aka Times Ledger Newspapers) and Bronx Times Reporter, Inc. (“NCNH Sites”), is part of the News America Group, which has adopted a set of [“new” Privacy Principles](http://www.newscorp.com/privacy.html)applicable to all its U.S.–based companies. NCNH has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information (“PII”) we obtain from and about individuals located in the U.S.
 
-From time to time NCNH may revise this Privacy Policy to reflect changes in the law, technology, industry initiatives, the features of the NCNH Sites or off-line data collection practices. If we make revisions that change the way we collect or use your PII, those changes will be posted in this Privacy Policy and the effective date will be noted at the beginning of the Policy. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. If NCNH materially changes its practices regarding collection or use of your PII, your PII will continue to be governed by the Policy under which it was collected unless you have been provided notice of and have not objected to the change.
+**Table of Contents:**  
+INTRODUCTION  
+COLLECTION OF INFORMATION  
+USE AND DISCLOSURE  
+SECURITY  
+USER ACCESS AND CONTROL  
+OTHER IMPORTANT INFORMATION  
+CONTACT US
 
-COLLECTION: COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION (“PII”) BY NCNH
+### 1\. INTRODUCTION
 
-GENERAL. NCNH collects personally identifiable information (“PII” — that is, information such as your full name, email address, mailing address or telephone number) in order to create or enhance our relationship with you. For example, NCNH collects PII from you when you submit comments to NCNH Sites. We also collect PII when you participate in activities on NCNH Sites such as sweepstakes, contests, surveys, forums, bulletin boards, polls, e-mailing to a friend and subscription registrations; when you submit comments, content or suggestions to us; or when you want us to furnish you with products, services or information. We may also obtain PII from reputable third parties.
+News Community Newspapers Holdings, Inc., (“CNG” or “we”) wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications (“apps”), and widgets (collectively, the “CNG Services”). By using CNG Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies (“CNG Affiliates”) is available at <http://newscorp.com/about/our-businesses/>. 
 
-COOKIES. Cookies are small bits of information that NCNH Sites place on the hard drive of your computer. Cookies remember information about your activities on our sites and enable NCNH to make your visits to NCNH Sites more enjoyable. For example, cookies can store your name and password for easy logon to a site you have previously visited, can keep track of whether or not you have voted in an online poll, can save information concerning the sections and/or stories you visit the most or can track the items you have placed in your “shopping cart” during a visit to our online store. Information about your activities on NCNH Sites and other non-personally identifiable information about you may also be used to limit the online ads you encounter to those we believe are consistent with your interests.
+As set forth in our Terms of Use [link], the CNG Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age. 
 
-Third party advertisements displayed on NCNH Sites may also contain cookies set by Internet advertising companies or advertisers (See “Notice” below). NCNH does not control these cookies and visitors to NCNH Sites should check the privacy policy of the Internet advertising company or advertiser to see whether and how it uses cookies.
+This Privacy Policy applies to all users, including both those who use the CNG Services without being registered with or subscribing to a CNG Service and those who have registered with or subscribed to a CNG Service. This Privacy Policy applies to CNG’s collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address). It also describes generally CNG’s practices for handling non-personal information (for example, interests, demographics and services usage). 
 
-NCNH may use cookies and similar tools to relate your use of NCNH Sites to PII obtained from you or a reputable third party. For example, if you’ve asked us to send you information about our upcoming products or promotions, cookie and/or click stream data about your activities on NCNH Sites can allow us to limit the materials we send you to items we know you will find interesting, based on your prior online activities and preferences. However, if NCNH wishes to combine personal and cookie or click stream information in this manner, we will obtain your express prior consent.
+### 2\. COLLECTION OF INFORMATION 
 
-You can program your computer to warn you each time a cookie is being set or to refuse cookies completely. However, without cookies you may not have access to features of the NCNH Sites.
+CNG and our service providers collect the following information from and about you: 
 
-NOTICE: NCNH WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION PRACTICES
+Registration Information is the information you submit to register for a CNG Service, for example, to create an account, post comments, receive a newsletter, or enter a contest or sweepstakes. Registration Information may include, for example, name, email address, gender, zip code and birthday. 
 
-When NCNH collects PII from you, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses we will make of the information.
+Public Information and Posts consist of comments or content that you post to the CNG Services and the information about you that accompanies those posts or content, which may include a name, user name, comments, likes, status, profile information and picture. Public Information and Posts are always public, which means they are available to everyone and may be displayed in search results on external search engines. 
 
-At the time your PII is collected, NCNH will notify you of your options regarding our use of your personally identifiable information, including whether we can share it with outside companies (See “Choice” below). This Policy describes the types of other companies that may want to send you information about their products and services and therefore want to share your personal information, provided you have given NCNH permission to do so (See “Use” below).
+Information from Social Media. If you access or log-in to a CNG Service through a social media service or connect a CNG Service to a social media service, the information we collect may also include your user ID and/or user name associated with that social media service, any information or content you have permitted the social media service to share with us, such as your profile picture, email address or friends lists, and any information you have made public in connection with that social media service. When you access the CNG Services through social media services or when you connect a CNG Service to social media services, you are authorizing CNG to collect, store, and use such information and content in accordance with this Privacy Policy. 
 
-Sometimes we collect personally identifiable information from consumers in manual format, such as a post card, in-paper contest, or subscription form. Providing detailed notice in those situations often proves impractical, so consumers will instead be provided with a short notice that describes how to obtain the full text of this Policy and other relevant information from us.
+Activity Information. When you access and interact with the CNG Services, we may collect certain information about those visits. For example, in order to permit your connection to the CNG Services, our servers receive and record information about your computer, device, and browser, including potentially your IP address, browser type, and other software or hardware information. If you access the CNG Services from a mobile or other device, we may collect a unique device identifier assigned to that device, geolocation data, or other transactional information for that device. At this time we do not respond to browser ‘Do Not Track’ signals, as we await the work of interested stakeholders and others to develop standards for how such signals should be interpreted. 
 
-The NCNH Sites may be linked to Internet sites operated by other companies. Some of these third party sites may be co-branded with the BROOKLYN PAPER logo, even though they are not operated or maintained by NCNH (for example, special sections appearing online may be hosted and maintained by another company). The NCNH Sites also carry advertisements from other companies. Although we choose our business partners and advertisers carefully, NCNH is not responsible for the privacy practices of web sites operated by third parties that are linked to NCNH Sites or for the privacy practices of third party or national Internet advertising companies. Once you’ve left an NCNH Site via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you.
+Cookies and other tracking technologies (such as browser cookies, pixels, beacons, and Adobe Flash technology including cookies) are comprised of small bits of data that often include a de-identified or anonymous unique identifier. Websites, apps and other services send this data to your browser when you first request a web page and then store the data on your computer so the website can access information when you make subsequent requests for pages from that service. These technologies may also be used to collect and store information about your usage of the CNG Services, such as pages you have visited, content you have viewed, search queries you have run and advertisements you have seen. 
 
-The NCNH Sites may also be linked to sites operated by companies affiliated with NCNH (i.e., that are part of the News America Group). Visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Policy.
+Third parties that support the CNG Services by serving advertisements or providing services, such as allowing you to share content or tracking aggregate CNG Services usage statistics, may also use these technologies to collect similar information. CNG does not control these third-party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third-party advertising networks and similar entities that use these technologies, see <http://www.aboutads.info/consumers>, and to opt-out of such ad networks’ and services’ advertising practices, go to [www.aboutads.info/choices](http://www.aboutads.info/choices). 
 
-Some of the advertisements that appear on NCNH Sites may be delivered to you by Dot Connect Media or national Internet advertising companies. These companies utilize certain technologies to deliver and select advertisements and marketing messages based upon anonymous information their technologies collect about your visit to NCNH Sites, including information about the banner ads they display, their cookie and your IP address. To opt out of information collection by these companies, or to obtain information about the technologies they use or their own privacy policies, please visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information. Users can manage the use of Flash technologies, with the Flash management tools available at Adobe’s website, see <http://www.adobe.com/products/flashplayer/security/privacy_policy/faq.html>. Please note that by blocking any or all cookies you may not have access to certain features, content or personalization available through the CNG Services. 
 
-CHOICE: NCNH WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII
+Information from Other Sources. We may supplement the information we collect with information from other sources, such as publicly available information from social media services, commercially available sources and information from our CNG Affiliates or business partners. 
 
-NCNH will not use the PII we collect from you for purposes different from the purpose for which it was submitted, or share your PII with third parties that are not affiliated with NCNH, unless we obtain your consent.
+### 3\. USE AND DISCLOSURE
 
-USE: NCNH’S USE OF PII
+We use the information we collect from and about you to provide the CNG Services and features to you, including: to measure and improve those CNG Services and features; to improve your experience with both online and off-line CNG Services by delivering content you will find relevant and interesting, including advertising and marketing messages; to allow you to comment on content, and participate in online games, contests, or rewards programs; to provide you with customer support and to respond to inquiries. When the information collected from or about you does not identify you as a specific person, we may use that information for any purpose or share it with third parties. 
 
-NCNH will use your PII in a manner that is consistent with this Policy. If NCNH obtains PII from a third party, such as a business partner, our use of that information is governed by this Policy.
+We use the information we collect from and about you for these additional purposes: 
 
-NCNH may share your PII with companies that are affiliated with us, that is, part of the News America Group of companies. Provided you have given us permission, NCNH may also share your PII with advertisers and business partners that are not part of the News America Group of companies, but would like to send you information about their products and services. For example, we may offer promotions, contests, or sweepstakes in conjunction with a business partner with whom we may share your PII. When we do this, there will be a link to the partner’s privacy policy when PII is collected. Moreover, we will never share your credit card information with third parties except those NCNH uses to perform tasks (such as order fulfillment and payment processing) required to complete purchases you make through NCNH Sites.
+To allow service providers to assist us in providing and managing the CNG Services. CNG may make your information available to certain third party service providers, such as contractors, agents or sponsors, who help us manage or provide the CNG Services. 
 
-NCNH employees, agents and contractors must have a legitimate business reason to obtain access to your PII. NCNH may share your PII with outside contractors or agents who help us manage our information activities (i.e., sweepstakes administration, order fulfillment, statistical analyses), but they may only use your PII to provide NCNH with a specific service and not for any other purpose.
+To allow social sharing functionality. If you log in with or connect a social media service account with CNG Services, we may share your user name, picture, and likes, as well as your activities and comments with other CNG Services users and with your friends associated with your social media service. We may also share the same information with the social media service provider. By logging in with or connecting your CNG Services account with a social media service, you are authorizing us to share information we collect from and about you with the social media service provider, other users and your friends and you understand that the social media service’s use of the shared information will be governed by the social media service’s privacy policy. If you do not want your personal information shared in this way, please do not connect your social media service account with your CNG Services account and do not participate in social sharing on CNG Services. 
 
-NCNH may also enter into agreements with outside companies that possess the technology that allows NCNH to customize the advertising and marketing messages you receive on NCNH Sites. Your non-PII and click stream data about your activities on NCNH Sites may be shared with these companies so this customization can be accomplished. These companies will not share your information with any third party or use it for any other purpose. Anonymous click stream and demographic information may also be shared with NCNH’s advertisers and business partners.
+To provide co-branded services and features. We may offer co-branded services or features, such as contests, sweepstakes or other promotions together with a third party (“Co-Branded Services”). These Co-Branded Services may be hosted on CNG Services or on the third party’s service. By virtue of these relationships, we may share the information you submit in connection with the Co-Branded Service with the third party. The third party’s use of your information will be governed by the third party’s privacy policy. 
 
-There may be instances when NCNH may disclose PII without providing you with a choice in order to protect the legal rights of NCNH, other companies within the News America Group or their employees, agents and contractors; to protect the safety and security of visitors to NCNH Sites; to protect against fraud or for risk management purposes; or comply with the law or legal process. In addition, if NCNH sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, NCNH may transfer your PII to a third party as part of that transaction.
+To deliver relevant advertisements. CNG and our service providers may use the information we collect from and about you to deliver relevant ads to you when you use the CNG Services or another service. As noted above, third-party advertising networks and advertisers may use cookies and similar technologies to collect and track information such as demographic information, inferred interests, aggregated information, and activity to assist them in delivering advertising that is more relevant to your interests. To find out more about third-party advertising networks and similar entities that use these technologies, see [www.aboutads.info](http://www.aboutads.info/), and to opt-out of such advertising networks’ and services’ advertising practices, go to [www.aboutads.info/choices.](http://www.aboutads.info/choices)
 
-SECURITY: NCNH PROTECTS THE SECURITY OF PII
+To contact you. CNG may periodically send promotional materials or notifications related to the CNG Services. If you want to stop receiving promotional materials, you can change your account setting by sending an email to [smigdal@cnglocal.com](mailto:smigdal@cnglocal.com) or follow the unsubscribe instructions at the bottom of each email.  There are certain service notification emails that you may not opt-out of, such as notifications of changes to the CNG Services or policies. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app. 
 
-NCNH uses reasonable administrative, technical, personnel and physical measures to safeguard PII in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, NCNH uses reasonable methods to make sure that PII is accurate, up-to-date and appropriately complete. Passwords stored by NCNH are encrypted both in transit and when stored within NCNH’s online databases.
+To share with our CNG Affiliates. CNG may share your information with CNG Affiliates for the purposes described in this Privacy Policy. A link to a website that lists CNG Affiliates can be found at the beginning of this policy. Users who visit CNG Affiliates’ services should still refer to their separate privacy policies, which may differ in some respects from this Privacy Policy. 
 
-ACCESS: HOW TO ACCESS, CORRECT OR DELETE YOUR PII
+To share with business partners. CNG may share your information with business partners to permit them to send you marketing communications consistent with your choices. 
 
-To review or modify your preferences or to delete the PII that NCNH has collected from you via the NCNH Sites, contact The NCNH Privacy Officer at the address indicated below under REMEDIES AND COMPLIANCE.
+To protect the rights of CNG and others. There may be instances when CNG may disclose your information, including situations where CNG has a good faith belief that such disclosure is necessary in order to: (i) protect, enforce, or defend the legal rights, privacy, safety, or property of CNG, our CNG Affiliates or their employees, agents and contractors (including enforcement of our agreements and our terms of use); (ii) protect the safety, privacy, and security of users of the CNG Services or members of the public; (iii) protect against fraud or for risk management purposes; (iv) comply with the law or legal process; or (v) respond to requests from public and government authorities. 
 
-To review, modify or delete the PII NCNH has collected off-line about you (from reputable third parties, newspaper subscription data, etc.), email us at bpproduction@cnglocal.com.
+To complete a merger or sale of assets. If CNG sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, CNG may transfer your information to the party or parties involved in the transaction as part of that transaction. 
 
-Note that it may take up to 10 days for NCNH to modify or delete your PII in all its databases.
+### 4\. SECURITY
 
-To obtain a list of third parties, including News America Group companies, with which NCNH may have shared PII collected from you and the types of data shared, contact bpproduction@cnglocal.com.
+CNG uses commercially reasonable administrative, technical, personnel and physical measures to safeguard information in its possession against loss, theft and unauthorized use, disclosure or modification. However, no one can guarantee the complete safety of your information. 
 
-REMEDIES AND COMPLIANCE: HOW TO CONTACT NCNH ABOUT PRIVACY CONCERNS
+### 5\. USER ACCESS AND CONTROL
 
-To contact NCNH regarding the collection and use of your PII or any other privacy issues:
+If you would like to access, review, correct, update, suppress, or otherwise limit our use of your personal information you have previously provided directly to us, you may contact us as outlined in Section 7. In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access, change, update, or suppress. We will try to comply with your request as soon as reasonably practicable. 
 
-Privacy Office
+For California residents, you may request that we not share your personal information on a going-forward basis with News Corp Affiliates or unaffiliated third parties for their direct marketing purposes by emailing the contact provided in Section 7. We will try to comply with your request(s) as soon as reasonably practicable. 
 
-Community Newspaper Group
+### 6\. OTHER IMPORTANT INFORMATION
 
-1211 Avenue of the Americas
+Updates to Privacy Policy. CNG may modify this Privacy Policy. Please look at the Effective Date at the top of this Privacy Policy to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the CNG Services. If we make material changes to this Privacy Policy that expand our rights to use the personal information we have already collected from you, we will notify you and provide you with a choice about our future use of that information. 
 
-NY, NY 10036
+Location of Data. The CNG Services are hosted in and managed from the United States. If you are a user located outside the United States, you understand and consent to having any personal information processed in the United States. United States data protection and other relevant laws may not be the same as those in your jurisdiction. This includes the use of cookies and other tracking technologies as described above. As a result, please read this Privacy Policy with care. 
 
-privacy@yournabe.com
+Linked Services. The CNG Services may also be linked to sites operated by unaffiliated companies, and may carry advertisements or offer content, functionality, games, newsletters, contests or sweepstakes, or applications developed and maintained by unaffiliated companies. CNG is not responsible for the privacy practices of unaffiliated companies, and once you leave the CNG Services or click an advertisement you should check the applicable privacy policy of the other service. 
+
+Collection of Personal Financial Information by a Payment Service. In some cases, we may use an unaffiliated payment service to allow you to purchase a product or make payments (“Payment Service”). If you wish to purchase a product or make a payment using a Payment Service, you will be directed to a Payment Service webpage. Any information that you provide to a Payment Service will be subject to the applicable Payment Service’s privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, any Payment Service’s use of information collected through any Payment Service. 
+
+Data Retention. We will retain your information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law. 
+
+Remember that even after you cancel your account, copies of some information from your account may remain viewable in some circumstances where, for example, you have shared information with social media or other services. Because of the nature of caching technology, your account may not be instantly inaccessible to others. We may also retain backup information related to your account on our servers for some time after cancelation for fraud detection or to comply with applicable law or our internal security policies. It is not always possible to completely remove or delete all of your information due to technical constraints, contractual, financial or legal requirements. 
+
+Sensitive Information. We ask that you not send us, and you not disclose, any sensitive personal information (such as social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the CNG Services or otherwise. 
+
+### 7\. CONTACT US
+
+If you have questions about this Privacy Policy, please contact us at: 
+
+**Email:**  
+[smigdal@cnglocal.com](mailto:smigdal@cnglocal.com)
+
+**Mail:**  
+CNG  
+1 Metrotech Center N  
+10th Floor  
+Brooklyn NY 11201 
