@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the omorashi.org privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116034431id_/https%3A//omorashi.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omorashi.org privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326072922id_/https%3A//omorashi.org/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Omorashi.org
+# Privacy Policy - OmoOrg
+
+**Welcome to OmoOrg!**  
+Register now to gain access to all of our communities features. Once registered and logged in, you will be able to download faster, create topics, post replies to existing threads, give reputation to your fellow members, get your own private messenger, create your own user profile and much more! If you already have an account, [login here](https://omorashi.org/index.php?app=core&module=global&section=login) \- otherwise [create an account](https://omorashi.org/index.php?app=core&module=global&section=register) for free today! 
 
 This Privacy Policy governs the manner in which Omorashi.org collects, uses, maintains and discloses information collected from users (each, a "User") of the http://omorashi.org website ("Site"). This privacy policy applies to the Site and all products and services offered by Omorashi.org.
 
@@ -64,4 +67,4 @@ Omorashi.org
 http://omorashi.org  
 shu@omorashi.org
 
-This document was last updated on September 28th, 2012 
+This document was last updated on September 28th, 2012
