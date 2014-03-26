@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globalreport.org privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426051541id_/http%3A//www.globalreport.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalreport.org privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326115832id_/http%3A//www.globalreport.org/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Global-Report.org
+# Privacy Policy - GlobalReport.org
 
 This privacy policy is a legal document that discloses all of the ways we gather, use, discloses and manages our human website visitors data.
 
