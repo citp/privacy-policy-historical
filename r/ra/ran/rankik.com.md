@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rankik.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524042357id_/https%3A//www.rankik.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankik.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326075852id_/https%3A//www.rankik.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
