@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatstopeat.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818194638id_/http%3A//www.eatstopeat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatstopeat.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326173543id_/http%3A//www.eatstopeat.com/privacy.html) for the most accurate reproduction.*
 
 # Fasting for weight loss, Lose weight quickly and easily with the Eat Stop Eat method of Flexible Intermittent Fasting and Weight Training
 
@@ -44,3 +44,5 @@ Customers may direct any questions or inquiries with respect to the privacy prin
 If you would like to unsubscribe, please simply click the unsubscibe link on any of our emails, or email us at help at eat stop eat dot com.
 
 By using EatStopEat.com you agree to the terms of this privacy policy.
+
+All matters that do or may arise, in any way relating to the use of this Web Site, are subject to and shall be governed, construed and enforced exclusively in accordance with the laws of the country of Barbados, as those laws apply to contracts made in Barbados, and which are wholly performed in Barbados by persons domiciled in Barbados and your use of this Web Site is and shall be deemed to be your irrevocable agreement to be subject to the laws and jurisdiction of the country of Barbados.
