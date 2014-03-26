@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the goantiques.com privacy policy that was archived on 2013-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131014081603id_/http%3A//www.worthpoint.com/worthpoint-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goantiques.com privacy policy that was archived on 2014-03-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140326175201id_/http%3A//www.worthpoint.com/worthpoint-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js" type="text/javascript"></script>
@@ -65,6 +65,22 @@ googletag.cmd.push(function() {
 <script type="text/javascript">
 
     $(document).ready(function(){ 
+	// set UTMZ cookie in session
+            if (document.cookie.length>0) {
+                var c_name = "__utmz";
+                c_start=document.cookie.indexOf(c_name + "=");
+                if (c_start!=-1)
+                {
+                    c_start=c_start + c_name.length+1;
+                    c_end=document.cookie.indexOf(";",c_start);
+                    if (c_end==-1) c_end=document.cookie.length;
+                    var utmzValue = unescape(document.cookie.substring(c_start,c_end));
+                jQuery.ajax({type:'POST',data:'utmzValue=' + escape(utmzValue), url:'/payment/setUtmzValue',success:function(data,textStatus){},error:function(XMLHttpRequest,textStatus,errorThrown){}});
+                }
+            }
+          //console.log("UTMZ: " + utmzValue);
+
+
         $("ul.sf-menu").superfish({
     autoArrows: false,
     dropShadows: false,
@@ -97,7 +113,23 @@ jQuery('#searchsubmit').click( function(){
 
 
 <script charset="utf-8" id="injection_graph_func" src="http://static.worthpoint.com/wp-content/themes/worthpoint/injection_graph_func.js"></script>
-<link rel="alternate" type="application/rss+xml" title="WorthPoint » WorthPoint Corporation Privacy Policy Comments Feed" href="http://www.worthpoint.com/worthpoint-privacy-policy/feed">
+
+            <script type="text/javascript">//<![CDATA[
+            // Google Analytics for WordPress by Yoast v4.3.5 | http://yoast.com/wordpress/google-analytics/
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-2113658-1']);
+				            _gaq.push(['_setDomainName','worthpoint.com'],['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+            //]]></script>
+			<link rel="alternate" type="application/rss+xml" title="WorthPoint » WorthPoint Corporation Privacy Policy Comments Feed" href="http://www.worthpoint.com/worthpoint-privacy-policy/feed">
 
 <link rel="stylesheet" href="http://www.worthpoint.com/wp-content/plugins/fancybox-for-wordpress/css/fancybox.css" type="text/css" media="screen">
 
@@ -187,27 +219,11 @@ jQuery('#searchsubmit').click( function(){
 <!-- Wordpress Popular Posts v2.0.2 -->
 <script type="text/javascript" charset="utf-8">
     /* <![CDATA[ */				
-    jQuery.post('https://www.worthpoint.com/wp-admin/admin-ajax.php', {action: 'wpp_update', token: '5040052dec', id: 2470970});
+    jQuery.post('https://www.worthpoint.com/wp-admin/admin-ajax.php', {action: 'wpp_update', token: '276796d159', id: 2470970});
     /* ]]> */
 </script>
 <!-- End Wordpress Popular Posts v2.0.2 -->
-            <!-- GA -->
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-2113658-1']);
-  _gaq.push(['_trackPageview']);
-  _gaq.push(['_trackPageLoadTime']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-<!-- /GA -->
-<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
+            <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 
 
 		<body class="homepage">
@@ -260,9 +276,6 @@ jQuery('#searchsubmit').click( function(){
 						  </li>
 						  <li class="no-border no-bshadow"><a href="/login/auth" class="dir">Resources</a>
 						    <ul>
-						      <li><a href="/search/findBusiness" rel="nofollow">Find a Business</a></li>
-						      <li><a href="/profile/index">My Profile</a></li>
-						      <li><a href="/friends/editfriends">My Friends</a></li>
 						      <li><a href="/forums/forum.php">Community Forums</a></li>
 						    </ul>
 						  </li>
@@ -343,7 +356,7 @@ jQuery('#searchsubmit').click( function(){
 • How you may access, review and change Personal Information you provide</p>
 <p>For the purposes of this privacy policy, “Personal Information” is any personally identifiable information about an individual person such as a person’s name, physical address, email address and telephone number, and may include financial and other information provided by an individual who accesses our Websites and/or uses our services.</p>
 <p><strong><span style="text-decoration: underline;">Policy Scope</span></strong></p>
-<p>This privacy policy applies to all of WorthPoint’s and WorthPoint’s affiliates and subsidiaries’ businesses, including, but not limited to our websites located at&nbsp;<a href="../../../../../">www.worthpoint.com</a>, <a href="http://www.goantiques.com/">www.goantiques.com</a>, <a href="http://www.priceminer.com/">www.priceminer.com</a>, and <a href="http://www.worthpointmarkslibrary.com/">www.marksandlibrary.com</a> (our “Websites”), and covers the use and disclosure of information that WorthPoint may collect any time you interact with us, (e.g., when you use our Websites, when you contact our customer service department, or when you purchase any of our products and services).</p>
+<p>This privacy policy applies to all of WorthPoint’s and WorthPoint’s affiliates and subsidiaries’ businesses, including, but not limited to our websites located at&nbsp;<a href="../../../../../">www.worthpoint.com</a>, <a href="http://www.goantiques.com/">www.goantiques.com</a>, <a href="http://www.priceminer.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.priceminer.com/']);">www.priceminer.com</a>, and <a href="http://www.worthpointmarkslibrary.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.worthpointmarkslibrary.com/']);">www.marksandlibrary.com</a> (our “Websites”), and covers the use and disclosure of information that WorthPoint may collect any time you interact with us, (e.g., when you use our Websites, when you contact our customer service department, or when you purchase any of our products and services).</p>
 <p>Our Websites are available worldwide and may be operated from various locations both within and outside the United States of America (“USA”). If you are accessing and using our Websites from outside the USA, please note the information that you provide will be transferred to the USA or other countries which may not provide the same level of legal data protection as the country from which you access our Websites. By using our Websites and submitting information to us, you consent to such transfers and the processing of information by us as described in this privacy policy and you authorize this practice.</p>
 <p>WorthPoint’s Websites may provide links to websites owned or operated by third parties or otherwise direct you to websites owned or operated by third parties (“Linked Websites”). Your use of Linked Websites will be governed by terms of use, privacy policies and other additional terms, notices and policies set forth or referenced in those Linked Websites.&nbsp;<strong>This privacy policy does not reflect the information collection, use and disclosure practices of the Linked Websites or the operators or owners of Linked Websites. To understand how a Linked Website and the owners or operators of a Linked Website will collect, use, store and otherwise make available information you should review the Linked Website’s privacy policy.</strong></p>
 <p><strong><span style="text-decoration: underline;">Updates and Changes to Policies</span></strong></p>
@@ -356,7 +369,7 @@ jQuery('#searchsubmit').click( function(){
 We use Personal Information you provide to us for our business purposes, such as (i) to allow you to access your Membership Account, (ii) to confirm your identity, (iii) for marketing our products and services to you and to customize this advertising and marketing information (iv) to contact you regarding your Membership Account and to keep records regarding your Membership Account, (v) to carry-out promotions, including but not limited to sweepstakes, contests surveys and related promotions that you have entered; (vi) to provide the services and products you request and to respond to your other requests and inquiries, (vii) to enhance our service offerings; and (viii) to adjust our Websites to your personal preferences.</p>
 <p>We may share Personal Information you provide to us with certain third parties that perform services on our behalf. Those third parties may host our Websites; provide certain features or functionality; print or send mailings or emails (including marketing materials); provide the services you requested, authorize and process your payments; provide customer service; analyze data; or otherwise assist us with the operation of our business. Those third parties are not authorized to use or disclose Personal Information for any purpose other than to perform the services designated by WorthPoint. We may also provide the Personal Information you provide to us to a third party if we are required by law or litigation so to disclose such Personal Information. For example, we may be required to disclose Personal Information to respond to a subpoena, court order or other legal process. Finally, the Personal Information you provide to us may be transferred as an asset in connection with a merger or sale involving all or part of WorthPoint or as part of a corporate reorganization, stock sale or other change of control.</p>
 <p><strong><em>Information Collected from Other Sources.</em></strong>&nbsp;We may obtain information about you from other sources, such as companies that update and verify email and physical addresses, for the purpose of updating and enhancing our files.</p>
-<p><strong><em>Automatically Collected Information.</em></strong>&nbsp;When you access or use our Websites we automatically collect and store the following types of non-personally identifiable information (information that is compiled in anonymous and aggregate form and is not used to locate, contact, or identify you specifically), where available, in addition to the Personal Information you provide voluntarily: information from server logs found on your browser, click-through statistics, your IP address, the type of application (e.g. web browser) you are using to access our Websites, the type of operating system you are using, the name of the domain and host from which you access the Internet, the date and time you access parts of the Websites, and the Internet address of the site from which you linked directly to our Websites. We use Google Analytics to learn about where our visitors come from and how they interact with the Website. Google and its wholly owned subsidiaries may retain and use, subject to the terms of the Google Privacy Policy (located at&nbsp;<a href="http://www.google.com/privacy.html">http://www.google.com/privacy.html</a>&nbsp;, or such other URL as Google may provide from time to time), anonymous traffic data collected in our use of Google Analytics.</p>
+<p><strong><em>Automatically Collected Information.</em></strong>&nbsp;When you access or use our Websites we automatically collect and store the following types of non-personally identifiable information (information that is compiled in anonymous and aggregate form and is not used to locate, contact, or identify you specifically), where available, in addition to the Personal Information you provide voluntarily: information from server logs found on your browser, click-through statistics, your IP address, the type of application (e.g. web browser) you are using to access our Websites, the type of operating system you are using, the name of the domain and host from which you access the Internet, the date and time you access parts of the Websites, and the Internet address of the site from which you linked directly to our Websites. We use Google Analytics to learn about where our visitors come from and how they interact with the Website. Google and its wholly owned subsidiaries may retain and use, subject to the terms of the Google Privacy Policy (located at&nbsp;<a href="http://www.google.com/privacy.html" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.google.com/privacy.html']);">http://www.google.com/privacy.html</a>&nbsp;, or such other URL as Google may provide from time to time), anonymous traffic data collected in our use of Google Analytics.</p>
 <p>We will use the information we automatically collected through your access and use of our Websites to determine how our Websites are accessed and used. For example, this information will allow us (i) to determine which pages are the most popular with users, (ii) determine if our Websites are working properly, and (iii) to improve the user-experience on our Websites. We do not use automatically collected information to identify a particular user.</p>
 <p><strong><em>Marketing.</em></strong>&nbsp; We do not sell or rent your Personal Information to third parties for their marketing purposes.&nbsp; We may aggregate and use certain non-personally identifiable information for research or marketing purposes and may share, sell and rent or trade that information and statistical data derived from such information with our marketing partners, advertisers, or other third parties for research or marketing purposes.</p>
 <p><strong><em>User Communities on our Websites.</em></strong></p>
@@ -471,7 +484,7 @@ We use Personal Information you provide to us for our business purposes, such as
       <!-- Navigation begins here -->
       <span>
       <a class="unav" href="/about">About WorthPoint</a> | <a class="unav" href="advertise-with-us">Advertising</a> | <a class="unav" href="/about-contact">Contact Us</a> | <a class="unav" href="/support-center/index.php">Help</a> | <a class="unav" href="careers">Careers</a> | <a class="unav" href="/worthpoint-privacy-policy">Privacy Policy</a> | <a class="unav" href="/terms-use">Terms of Use</a><br><br>
-      <p>© 2013 - WorthPoint Corporation  | 3525 Piedmont Road NE, Building 5, Suite 435, Atlanta, GA 30305 | 877.481.5750</p>
+      <p>© 2014 - WorthPoint Corporation  | 3525 Piedmont Road NE, Building 5, Suite 435, Atlanta, GA 30305 | 877.481.5750</p>
          </span></div>
 </div>
 <!-- establish jsessionid if we don't have one -->
@@ -522,4 +535,8 @@ var cn_form = {"ajaxurl":"http:\/\/www.worthpoint.com\/wp-admin\/admin-ajax.php"
    }(document));     
 </script>
 
-</body></html>
+
+<!-- Dynamic page generated in 0.198 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2014-03-26 13:18:56 -->
+
+<!-- super cache --></body></html>
