@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evolutionarydesigns.net privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118121905id_/http%3A//www.evolutionarydesigns.net/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evolutionarydesigns.net privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326180058id_/http%3A//www.evolutionarydesigns.net/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Evolutionary Designs
 
