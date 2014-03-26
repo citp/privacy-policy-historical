@@ -1,13 +1,15 @@
-<!--The following is the downloaded HTML source of the one.org privacy policy that was archived on 2013-10-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131031034503id_/http%3A//www.one.org/us/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the one.org privacy policy that was archived on 2014-03-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140326031735id_/http%3A//www.one.org/us/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#"><head>
-
+<!DOCTYPE html><html lang="en" class="no-js" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
                 <title>  Privacy Policy | ONE.org</title>
 
-        <!-- <meta name="description" content="ONE is a grassroots campaign of more than 3 million people committed to the fight against extreme poverty and preventable diseases." />-->
-        <meta name="keywords" content="ONE, ONE.org, one campaign, one organization, what inspires you, Bono, advocacy, extreme poverty, poverty, HIV, AIDS, vaccines, hunger, food, transparency, agriculture, Africa, sub-Saharan Africa, petitions, ONE Moms, ONE Campus, faith campaigns">
+                <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/3942.js?439001" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.optimizely.com/js/412820192.js"></script>
+        
+                <meta name="keywords" content="ONE, ONE.org, one campaign, one organization, what inspires you, Bono, advocacy, extreme poverty, poverty, HIV, AIDS, vaccines, hunger, food, transparency, agriculture, Africa, sub-Saharan Africa, petitions, ONE Moms, ONE Campus, faith campaigns">
         <meta name="robots" content="all">
         <meta name="revisit-after" content="15 days">
 
@@ -18,29 +20,30 @@
         <meta property="og:site_name" content="ONE">
                 <meta property="og:image" content="http://www.one.org/international/img/logo.png">
         <meta itemprop="image" content="http://www.one.org/international/img/logo.png">
-                        <meta property="og:title" content="Privacy Policy">
-        <meta itemprop="name" content="Privacy Policy">
+                        <meta property="og:title" content="  Privacy Policy | ONE.org">
+        <meta itemprop="name" content="  Privacy Policy | ONE.org">
                         <meta property="article:published_time" content="2012-09-19 21:08:58">
         <meta property="article:modified_time" content="2013-09-05 14:08:20">
 
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
         <!-- Stylesheets -->
         <link rel="stylesheet" href="http://www.one.org/us/wp-content/themes/one/static/stylesheets/vendor/supria-sans.css">
+                  
                 <link rel="stylesheet" href="http://www.one.org/us/wp-content/themes/one/assets/css/core.min.css">
-        <link rel="stylesheet" media="print" href="http://www.one.org/us/wp-content/themes/one/assets/css/print.min.css">
-        
+        <link rel="stylesheet" media="print" href="http://www.one.org/us/wp-content/themes/one/assets/css/print.min.css">          
+                        
+        <link rel="stylesheet" href="http://www.one.org/us/wp-content/themes/one/assets/css/homepage.css">
+
 
         <!-- Fonts -->
-        <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/3942.js?439001" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//use.typekit.net/lie3wep.js"></script>
+                <script type="text/javascript" src="//use.typekit.net/lie3wep.js"></script>
         <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-
+        
         <!-- Javascript -->
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
         <script type="text/javascript" src="http://www.one.org/us/wp-content/themes/one/static/bootstrap/js/bootstrap.min.js"></script>
-        
+
                 <script type="text/javascript" src="http://www.one.org/us/wp-content/themes/one/static/javascripts/vendor/modernizr.custom.js"></script>
-                        
+                
                         <script type="text/javascript" src="http://www.one.org/us/wp-content/themes/one/static/javascripts/vendor/jquery.cookie.min.js"></script>
         <script type="text/javascript" src="http://www.one.org/us/wp-content/themes/one/assets/js/dashboard.js"></script>
 
@@ -91,10 +94,43 @@
                     },
                                         {
                                                 load: [
-                            ONEORG_THEME_URL + '/assets/js/core.min.js'
+                            ONEORG_THEME_URL + '/assets/js/core.min.js',
+                            ONEORG_THEME_URL + '/static/javascripts/src/components/LoadMore.js'                           
                         ],
                                                 complete: function() {
                             jQuery(function() {
+                              //track files download on GA
+                               var filetypes = /\.(zip|exe|pdf|mobi|epub|azw|doc*|xls*|ppt*|mp3)$/i;
+                                var baseHref = '';
+                                if (jQuery('base').attr('href') != undefined)
+                                    baseHref = jQuery('base').attr('href');
+                                jQuery('a').each(function() {
+                                    var href = jQuery(this).attr('href');
+                                    if (href && href.match(/^mailto\:/i)) {
+                                        jQuery(this).click(function() {
+                                            var mailLink = href.replace(/^mailto\:/i, '');
+
+                                            try {
+                                              ga('send', 'event', 'Email', 'Click', mailLink);
+                                            } catch(err) {}
+                                        });
+                                    }
+                                    else if (href && href.match(filetypes)) {
+                                        jQuery(this).click(function() {
+                                            //console.log($(this).attr('href'));
+                                            var extension = (/[.]/.exec(href)) ? /[^.]+$/.exec(href) : undefined;
+                                            var filePath = href;
+
+                                            try {
+                                              ga('send', 'event', 'Download', 'Click-' + extension, filePath);
+                                            } catch(err) {}
+                                            if (jQuery(this).attr('target') != undefined && jQuery(this).attr('target').toLowerCase() != '_blank') {
+                                                setTimeout(function() { location.href = baseHref + href; }, 300);
+                                                return false;
+                                            }
+                                        });
+                                    }
+                                });
                                 function facebook_ready() {
 
                                     var app = new Oneorg.App();
@@ -127,34 +163,34 @@
                                 jQuery('.invite-friends').each(function(index,element) {
                                     new Oneorg.ShareButton(element);
                                 });
-                                
+
 
                                 jQuery('.invite .button-a.facebook').click(function(e){
                                      var friends = {
                                         targets : [],
                                         hit : []
                                     };
-                                    
+
 
                                   FB.login(function(response) {
                                     if (response && response.status != "not_authorized") {
                                         var userId = response.authResponse.userID;
                                         FB.api('/me/permissions', function(response){
-                                            var perms = response.data[0];      
+                                            var perms = response.data[0];
                                             if (perms.hasOwnProperty('xmpp_login')) {
                                                 jQuery('#invitePopup').modal('show');
 
-                                          
+
                                                 jQuery.getJSON('http://www.one.org/us/api/invite_facebook_friends/get_already_invited_friends', {"fb_id" : userId }, function(data){
 
                                                     var dnd = data.invited_friends;
-                                                    
+
                                                     jQuery.getJSON('http://www.one.org/us/api/invite_facebook_friends/get_facebook_friends', function(data){
                                                         if (data.hasOwnProperty('friends')) {
 
                                                             function sortAsc(a,b){ return a - b; };
                                                             function sortDesc(a,b){ return b - a; };
-                                                            Array.prototype.deepSort = function(ind, desc){ 
+                                                            Array.prototype.deepSort = function(ind, desc){
                                                               //ind = property in child object (or index in child array) whose value we'll sort by
                                                               //desc set to true will sort in descending order
                                                               var src = [];
@@ -163,12 +199,12 @@
                                                               for (var i=0; i<this.length; i++){
                                                                 src.push(this[i]);
                                                                 temp.push(this[i][ind]);
-                                                              }                                                            
+                                                              }
                                                               desc ? temp.sort(sortDesc) : temp.sort(sortAsc);
                                                               do {
                                                                 for (var i=0; i<src.length; i++){
                                                                   if (src[i][ind]==temp[0]){
-                                                                    fin.push(src.splice(i,1)[0]);        
+                                                                    fin.push(src.splice(i,1)[0]);
                                                                     temp.shift();
                                                                     break;
                                                                   }
@@ -196,33 +232,33 @@
                                                                 if (!sent) sent = false;
 
                                                                 if (sent) { //add sent friend to hit list, remove from elligible targets
-                                                                   for (var i=0; i<friends.targets.length; i++) { 
+                                                                   for (var i=0; i<friends.targets.length; i++) {
                                                                         if (friends.targets[i].id === targetId) {
                                                                             friends.hit.push(friends.targets[i]);
                                                                             friends.targets.splice(i, 1);
-                                                                            
+
                                                                         }
-                                                                        
-                                                                    } 
+
+                                                                    }
                                                                     hitListHTML();
                                                                 }
 
                                                                 parent.animate({opacity:0}, 500, function(){ //swap friend out of list, replace with another at random
                                                                     var index = parent.index();
-                                                                    parent.remove(); 
+                                                                    parent.remove();
                                                                     if (friends.targets.length) {
                                                                        var target = friends.targets[(Math.floor(Math.random()*friends.targets.length))];
                                                                         var f = friendsHTML(target);
-                                                                        jQuery('#invitePopup.modal ul.targets-list li:nth-child('+(index+1)+')').before(f.join('')); 
+                                                                        jQuery('#invitePopup.modal ul.targets-list li:nth-child('+(index+1)+')').before(f.join(''));
                                                                     }
-                                                                    
+
                                                                 });
                                                             }
 
                                                             function hitListHTML() { // generate/refresh markup for grid of avatars showing friends user has invited
-                                                                
+
                                                                 jQuery('ul.hit-list').empty();
-                                                                
+
                                                                 var hitsDump = [];
                                                                 for (var d =0; d<friends.hit.length; d++) { //carbon copy of friends.hit so splices don't affect the original list
                                                                     hitsDump.push(friends.hit[d]);
@@ -237,11 +273,11 @@
                                                                     hit.push('</li>');
                                                                     jQuery('ul.hit-list').append(hit.join(''));
                                                                 }
-                                                                
+
                                                             }
 
                                                             function loadDefaultList() {
-                                                                var lim = (friends.targets.length > 5) ? 5 : friends.targets.length;             
+                                                                var lim = (friends.targets.length > 5) ? 5 : friends.targets.length;
                                                                 jQuery('#invitePopup.modal ul.targets-list').empty();
                                                                 for (var y=0; y<lim; y++) {
                                                                     var f = friendsHTML(friends.targets[(Math.floor(Math.random()*friends.targets.length))]);
@@ -260,28 +296,28 @@
                                                                     var addToHit = false;
                                                                     for (x=0; x<dnd.length; x++) {
                                                                         if (bud.id === dnd[x]) {
-                                                                            friends.hit.push(bud); 
+                                                                            friends.hit.push(bud);
                                                                             addToHit = true;
                                                                             break;
                                                                         }
                                                                     }
-                                                                    if (!addToHit) 
+                                                                    if (!addToHit)
                                                                         friends.targets.push(bud);
                                                                 }
                                                             }
 
                                                             loadDefaultList();
-                                                             
+
                                                             hitListHTML();
 
-                                                            jQuery('#invitePopup.modal input[name="friends_search"]').keyup(function(){ 
+                                                            jQuery('#invitePopup.modal input[name="friends_search"]').keyup(function(){
                                                                 var query = jQuery(this).val().split(" ");
                                                                 if (query.length) {
                                                                     var matches = [];
                                                                     for (var i=0; i<=query.length; i++) {
                                                                         if (query[i] && query[i].length > 2) {
                                                                             for (var n=0; n<friends.targets.length; n++) {
-                                                                                //console.log('matches for '+friends.targets[n].name+' against '+query[i]);                                                                                                                                
+                                                                                //console.log('matches for '+friends.targets[n].name+' against '+query[i]);
                                                                                 if (friends.targets[n].name.toLowerCase().match(query[i].toLowerCase()))
                                                                                     matches.push(friends.targets[n]);
                                                                             }
@@ -290,7 +326,7 @@
 
                                                                     var rankMatches = [];
                                                                     //basic search ranking - prioritize results appearing with highest frequency in array "matches"
-                                                                    for (var i=0; i<matches.length; i++) { 
+                                                                    for (var i=0; i<matches.length; i++) {
                                                                         if (i==0) {
                                                                             rankMatches.push({ "friend" : matches[i], "count" : 1});
                                                                         } else {
@@ -307,22 +343,22 @@
                                                                     }
                                                                     var ranked = rankMatches.deepSort("count", true);
 
-                                                                    var lim = (ranked.length > 5) ? 5 : ranked.length;   
+                                                                    var lim = (ranked.length > 5) ? 5 : ranked.length;
                                                                     jQuery('#invitePopup.modal ul.targets-list').empty();
                                                                     for (var i=0; i<lim; i++) {
                                                                         var f = friendsHTML(ranked[i].friend);
                                                                         jQuery('#invitePopup.modal ul.targets-list').append(f.join(''));
                                                                     }
                                                                 } else {
-                                                                    loadDefaultList(); 
+                                                                    loadDefaultList();
                                                                 }
 
-                                                            }).focusout(function(){ 
+                                                            }).focusout(function(){
                                                                 if (jQuery(this).val() == "")
-                                                                    loadDefaultList(); 
+                                                                    loadDefaultList();
                                                             });
 
-                                                            jQuery('#invitePopup.modal .send-invite').live('click',function(){                                                                
+                                                            jQuery('#invitePopup.modal .send-invite').live('click',function(){
                                                                 var parent = jQuery(this).parents('li');
                                                                 var targetId = parent.attr('data-id');
                                                                 var message = parent.find('input[name="message"]').val();
@@ -344,7 +380,7 @@
                                                             });
 
                                                         }
-                                                    });  
+                                                    });
                                                 });
                                             } else {
                                                 alert('Please authorize the ONE Facebook app to invite your friends and try again.');
@@ -355,10 +391,10 @@
                                     }
                                     }, {scope:'xmpp_login'});
                                 });
-                                
-                                
-                                
-                                
+
+
+
+
 
                             });
                         }
@@ -367,10 +403,26 @@
             }());
         </script>
   <style>
+
+  body {
+    background-color: #FFF;
+  }
+
+  /* 768+ */
+  @media only screen and (min-width: 48em) {
+    .onehome .stuck {
+        position: fixed;
+        top: 0;
+        width: 100%;
+    }
+  }
+
   /* Inside ONE additional styles */
   div#footer-content div.menu-footer-sub-nav-menu-container #menu-footer-sub-nav-menu li.menu-item.item_6 {width: 87px;}
   div#footer-content div.menu-footer-sub-nav-menu-container #menu-footer-sub-nav-menu li.menu-item.item_1000 {text-align:right;width:75px;}
 #about-us-landing p, #about-us-landing ul li {font-size: .96em;line-height: 1.74em;color: #3f3f3f;}
+#policy-content h1 {font-family: "Colfax Medium",Helvetica,Arial,sans-serif !important;}
+#press-content h1 {margin:0.67em 0 !important;}
   /* modal */
   .modal {z-index: 10000;}/* makes it stack up above the horizontal main nav */
   /* inputs on special shareworthy pages */
@@ -378,14 +430,6 @@
     font-size: 17px;
     padding: 6px 15px;
     text-transform: uppercase;}
-  /* background for new masthead */
-  #masthead-home .masthead-background {
-        background-image: url('https://s3.amazonaws.com/one.org/images/one_home_masthead_paintedlookv6x1920x1080.jpg');
-        height: 100%;
-        position: absolute;
-        width: 100%;
-}
-#masthead-home .masthead-content .masthead-headline h1 span {color:#000;}
  /* ak styles */
   #ak-errors, .ak-errors {color:red;background-color: none;font-weight: bold;margin-bottom: 10px;} input.ak-error {border-color:red;}
   /* mobile vertical spacing fixes - decreases the height of scroll by >1700px */
@@ -394,33 +438,7 @@
   /* h2 title style for policy and press archive pages */
   article h2.press-post-title,article h2.policy-post-title{font-weight:400;font-size:1.25em;line-height:1.35em;margin:0 0 1.15em;}article h2.press-post-title a,article h2.policy-post-title a{text-decoration:none;font-family:SupriaSans-Medium,Helvetica,Arial,sans-serif;}article h2.press-post-title a:link,article h2.press-post-title a:visited,article h2.policy-post-title a:link,article h2.policy-post-title a:visited{color:#000;}
   li.press-post, li.policy-post {margin-top:4em;}
-  /* locale menu hacks */
-        @media (max-width: 640px) {
-            #site-header #main-nav #mini-nav .inner-wrapper #locale ul {position: fixed;z-index: 1000000;top:145px;}
-        }
-        /* local menu - to hide some menu elements pinterest, ln, googleplus, and the map */
-        @media (max-width:320px) {
-            div#mini-nav div.inner-wrapper div#social-nav ul li a.linkedin span.icon, div#mini-nav div.inner-wrapper div#social-nav ul li a.pinterest span.icon {display:none !important;} 
-            #site-header #main-nav #mini-nav .inner-wrapper #locale > a span.text img {display:none;}
-        }
-        @media (max-width:480px) {
-            .menu-header-menu-main-nav-container {display:block;}
-            .menu-header-menu-main-nav-container {padding-top:0em;}
-            #site-header #main-nav #menu-header-menu-main-nav li:first-child {float:none;display: inline-block;}
-            #site-header #main-nav #menu-header-menu-main-nav li {float:none;display:inline-block;margin:0 0.5em 0 0.5em;}
-            .mobile-nav-toggle {display:none;}
-            #site-header #main-nav #menu-header-menu-main-nav li a {width:85px}
-            #site-header #main-nav {text-align: center;}
-}
-
-        @media (max-width:319px) {
-            .menu-header-menu-main-nav-container {display:none;}
-            #site-header #main-nav #menu-header-menu-main-nav li:first-child {float:none;}
-            #site-header #main-nav #menu-header-menu-main-nav li {float:none;margin-top:1em;}
-            .mobile-nav-toggle {display:block;}
-            #site-header #main-nav #menu-header-menu-main-nav li a {width:100%}
-        }
-  /* style for top button */  
+  /* style for top button */
   #b-top{position:fixed;top:20px;right:20px;z-index:10;min-width:0;display:block;-webkit-transition-property:opacity,visibility;-moz-transition-property:opacity,visibility;-ms-transition-property:opacity,visibility;transition-property:opacity,visibility;-webkit-transition-duration:.3s,0s;-moz-transition-duration:.3s,0s;-ms-transition-duration:.3s,0s;transition-duration:.3s,0s;-webkit-transition-timing-function:linear;-moz-transition-timing-function:linear;-ms-transition-timing-function:linear;transition-timing-function:linear;-webkit-transition-delay:0;-moz-transition-delay:0;-ms-transition-delay:0;transition-delay:0;}
 #b-top span{width:50px;height:50px;display:block;margin-bottom:7px;/*background:url(http://i.imgur.com/ofG2R0r.png) no-repeat center center;*/-webkit-border-radius:15px;-moz-border-radius:15px;border-radius:15px;-webkit-transition:1s;-moz-transition:1s;transition:1s;}
 .linkTopBtn{display:block;width:50px;height:50px;background:url(http://i.imgur.com/NfgQBun.png) top;text-indent:-99999px} .linkTopBtn:hover{background-position:50px 50px}
@@ -442,6 +460,7 @@ Get the plugin at: http://www.g-loaded.eu/2006/01/05/add-meta-tags-wordpress-plu
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.one.org/us/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.one.org/us/wp-includes/wlwmanifest.xml"> 
 <link rel="canonical" href="http://www.one.org/us/privacy/">
+<link rel="shortlink" href="http://www.one.org/us/?p=301">
 
                         <script type="text/javascript">
 
@@ -456,9 +475,23 @@ Get the plugin at: http://www.g-loaded.eu/2006/01/05/add-meta-tags-wordpress-plu
           })();
 
         </script>
-                
+        
+        
+        <!-- Google Universal Analytics profile -->
+
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+          ga('create', 'UA-215294-34', 'one.org');
+          ga('send', 'pageview');
+    
+        </script>
+        
     </head>
-    <body class="page page-id-301 page-template-default">
+    <body class="page page-id-301 page-template-default onehome">
                 <script type="text/javascript">
             jQuery(function() {
                 actionkit.forms.contextRoot = 'http://act.one.org/context/';
@@ -475,99 +508,92 @@ Get the plugin at: http://www.g-loaded.eu/2006/01/05/add-meta-tags-wordpress-plu
               fjs.parentNode.insertBefore(js, fjs);
             }(document, 'script', 'facebook-jssdk'));
         </script>
-<!-- Modal --> 
-<div id="onegoatPopup" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="border:none;">
-  <div class="modal-header">
-    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-    <!-- <h3 id="myModalLabel"><a href="http://www.one.org/us/elizabeth-glaser/">Join the Fight.</a></h3> -->
-  </div>
-  <div class="modal-body">
-    <p><a href="https://donations.heifer.org/one-goat?msource=WOOCJ13OG0001"><img src="https://s3.amazonaws.com/one.org/images/heifer_ONE_lightbox_adjusted_20131023_1.png" alt=""></a></p>
-  </div>
-</div> 
-        <header id="site-header">
-            <div class="container wrap">
-                <div class="row">
-                    <nav id="home-menu" class="span2">
-                        <div class="menu-home-menu-container"><ul id="menu-home-menu" class="menu"><li id="menu-item-710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-710"><a title="Home" href="http://www.one.org/us/">Home</a></li>
-</ul></div>                    </nav>
-                    <div id="header-branding">
-                        <div class="header-branding-wrapper">
-                            <div class="header-branding-content">Join the fight against <br>extreme poverty.</div>
-                        </div>
+
+        <!-- ==== START MASTHEAD ==== -->
+        <header role="banner">
+            <div class="masthead  ">
+
+              <div class="header-primary">
+                <a href="/us/">
+                    <p class="logo-site hicon-logo">
+                        <span class="ir">One</span>
+                    </p>
+                </a>
+
+                <nav role="navigation">
+                    <ul class="nav-main">
+                                                                        <li><a href="http://www.one.org/us/energy-poverty/">Take Action</a></li>
+                                                <li><a href="http://www.one.org/us/stories/top-stories/">Read Stories</a></li>
+                                                <li><a href="/us/about/">About ONE</a></li>
+                                            </ul>
+                </nav>
+
+                <div class="wrap-secondary-locations">
+                    <div class="nav-secondary-large">
+                        <ul>
+                            <li><a href="http://red.org/en/">(RED)</a></li>
+                            <li><a href="/us/about/press/">Press</a></li>
+                            <li><a id="country-selector" href="#">U.S./Canada <span class="hicon-arrow_02"></span></a></li>
+                        </ul>
+
+                        <ul class="dropdown">
+                            <li><a href="#">U.S./Canada</a></li>
+                            <li><a href="http://www.one.org/international/">International</a></li>
+                            <li><a href="http://www.one.org/de/">Germany</a></li>
+                            <li><a href="http://www.one.org/fr/">France</a></li>
+                            <li><a href="http://www.one.org/africa/">Africa</a></li>
+                        </ul>
+
                     </div>
-                    <nav id="main-nav">
-                        <div id="mini-nav">
-                            <div class="inner-wrapper">
-                                <div id="locale">
-                                    <a href="#">
-                                        <span class="icon">&nbsp;</span>
-                                        <span class="text"><img src="http://one.org.s3.amazonaws.com/fission/one/www/us/wp-content/uploads/2013/03/greymap-p50061.png"> U.S./Canada</span>
-                                    </a>
-                                    <ul>
-                                        <li><a href="http://www.one.org/us/" title="U.S./Canada">U.S./Canada</a></li>
-                                        <li><a href="http://www.one.org/international/" title="International">International</a></li>
-                                        <li><a href="http://www.one.org/de/" title="Germany">Germany</a></li>
-                                        <li><a href="http://www.one.org/fr/" title="France">France</a></li>
-                                        <li><a href="http://www.one.org/africa/" title="Africa">Africa</a></li>
 
-                                    </ul>
-                                </div>
-                                                                <div class="menu-header-menu-logged-out-container"><ul id="menu-header-menu-logged-out" class="menu"><li id="menu-item-798" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-798"><a title="Join" href="http://www.one.org/us/dashboard/">Join</a></li>
-<li id="menu-item-68967" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68967"><a href="/us/dashboard/">Login</a></li>
-</ul></div>                                                                <div id="social-nav">
-                                    <ul>
-                                        <li>
-                                            <a href="https://www.facebook.com/ONE" target="_blank" class="facebook">
-                                                <span class="icon"> </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="http://twitter.com/onecampaign" target="_blank" class="twitter">
-                                                <span class="icon"> </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="http://www.linkedin.com/groups/ONE-Campaign-47730" target="_blank" class="linkedin">
-                                                <span class="icon"> </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="http://pinterest.com/onecampaign/" target="_blank" class="pinterest">
-                                                <span class="icon"> </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="http://plus.google.com/u/0/+ONE/posts" target="_blank" class="googleplus">
-                                                <span class="icon"> </span>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="mobile-nav-toggle">
-                            <a href="#">
-                                <span class="icon">&nbsp;</span>
-                                <span class="text text-show">Show Menu</span>
-                                <span class="text text-hide">Hide Menu</span>
-                            </a>
-                        </div>
-                        <div class="menu-header-menu-main-nav-container"><ul id="menu-header-menu-main-nav" class="menu"><li id="menu-item-74410" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74410"><a title="About ONE" href="http://www.one.org/us/inside-one/">About</a></li>
-<li id="menu-item-75467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75467"><a title="Take Action" href="http://www.one.org/us/transparency/">Take Action</a></li>
-<li id="menu-item-674" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-674"><a title="Stories" href="http://www.one.org/us/stories/top-stories/">Stories</a></li>
-</ul></div>                    </nav>
+                    <!-- Secondary Nav -->
+                    <a href="#" id="btn-nav-secondary" class="btn-mobile btn-nav-secondary"><span class="hicon-menu"></span></a>
+                    <ul id="nav-secondary" class="nav-secondary submenu">
+                        <li><a href="http://red.org/en/">(RED)</a></li>
+                        <li><a href="/us/about/press/">Press</a></li>
+                    </ul>
+
+                    <!-- Global Locations -->
+                    <a href="#" id="btn-nav-locations" class="btn-mobile btn-nav-locations"><span class="hicon-globe"></span></a>
+                    <ul id="nav-locations" class="nav-locations submenu">
+                        <li><a href="http://www.one.org/us/">U.S./Canada</a></li>
+                        <li><a href="http://www.one.org/international/">International</a></li>
+                        <li><a href="http://www.one.org/de/">Germany</a></li>
+                        <li><a href="http://www.one.org/fr/">France</a></li>
+                        <li><a href="http://www.one.org/africa/">Africa</a></li>
+                    </ul>
                 </div>
-            </div>
-        </header>
-        <header id="subnav-wrapper" class="section-wrapper">
-            <div id="subnav" class="container">
-                <div class="row">
-                                                        </div>
-            </div>
-        </header>
 
-        <div class="wrapper">
+                <div class="wrap-login-social-search">
+
+                    <div class="login">
+                                                <a href="/us/dashboard/"><span class="hicon-profile"></span><span class="login-status">Join / Log In</span></a>
+                                            </div>
+
+                    <ul class="social-sites">
+                        <li class="hicon-facebook fb"><a href="https://www.facebook.com/ONE" class="ir" target="_blank">Facebook</a></li>
+                        <li class="hicon-twitter tw"><a href="http://twitter.com/onecampaign" class="ir" target="_blank">Twitter</a></li>
+                        <li class="ytbpseudo"><a href="http://www.youtube.com/user/TheONECampaign" class="ir ytb" target="_blank">YouTube</a></li>
+                        <li class="hicon-google gp"><a href="http://plus.google.com/u/0/+ONE/posts" class="ir" target="_blank">Google+</a></li>
+                        <li class="hicon-linkedin ln"><a href="http://www.linkedin.com/groups/ONE-Campaign-47730" class="ir" target="_blank">LinkedIn</a></li>
+                    </ul>
+
+                    <form action="/us/search-results" method="GET" role="search" id="search" class="frm-search">
+                        <label for="q" class="visuallyhidden">Search</label>
+                        <input type="search" id="q" name="q" value="" class="search" placeholder="Search">
+                        <button type="button" id="btn-search-toggle" class="hicon-search" title="Open/close search box"></button>
+                    </form>
+                </div>
+              </div>
+
+                            <div class="header-secondary">
+
+                                        
+                </div>
+                        </div>
+        </header>
+        <!-- end masthead -->
+        <div class="wrapper subnav-active">
 
 <div class="container">
     <div class="row">
@@ -602,21 +628,48 @@ Get the plugin at: http://www.g-loaded.eu/2006/01/05/add-meta-tags-wordpress-plu
     </div>
 </div>
         </div>
-        <footer id="site-footer">
+
+        <!-- ==== START PAGE FOOTER ==== -->
+        <footer role="contentinfo">
+        <div class="footer clearfix">
+
+            
+            <div class="footer-inner">
+                <div class="follow-like">
+                    <p class="service"><span id="twitter_followers">779,576</span> Followers <a href="http://twitter.com/onecampaign" class="twitter-follow" target="_blank"><span class="hicon-twitter"></span>Follow <span class="hicon-arrow_03"></span></a></p>
+                    <p class="service"><span id="facebook_fans">797,938</span> Fans <a href="https://www.facebook.com/ONE" class="facebook-like" target="_blank"><span class="hicon-facebook"></span>Like <span class="hicon-arrow_03"></span></a></p>
+                </div>
+
+                <ul class="nav-footer">
+                    <div class="menu-footer-main-nav-menu-container"><ul id="menu-footer-main-nav-menu" class="menu"><li id="menu-item-79488" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-79488"><a href="http://one.shop.musictoday.com/Default.aspx">Shop</a></li>
+<li id="menu-item-307" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-301 current_page_item menu-item-307"><a title="Privacy" href="http://www.one.org/us/privacy/">Privacy</a></li>
+<li id="menu-item-1041" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1041"><a href="http://www.one.org/us/contact/">Contact Us</a></li>
+<li id="menu-item-79489" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-79489"><a href="http://jobs.one.org/">Jobs</a></li>
+</ul></div><!--                     <li><a href="http://one.shop.musictoday.com/" target="_blank">Store</a></li>
+                    <li><a href="/us/privacy/">Privacy</a></li>
+                    <li><a href="/us/contact/">Contact Us</a></li>
+                    <li><a href="/inside-one/jobs/">Jobs</a></li> -->
+                </ul>
+            </div>
+        </div>
+        </footer>
+        <!-- end footer -->
+
+       <!--  <footer id="site-footer">
             <div class="container">
                 <div id="footer-logo">
                     <div class="logo-img">
-                        <img src="http://www.one.org/us/wp-content/themes/one/static/images/logo-footer.png" alt="ONE logo">
+                        <img src="http://www.one.org/us/wp-content/themes/one/static/images/logo-footer.png" alt="ONE logo" />
                     </div>
                     <div class="logo-callout">
-                        <h4>Join the fight against extreme poverty. <span>Actions. Speak. Louder.</span></h4>
+                        <h4>Join the campaign to end extreme poverty</h4>
                     </div>
                 </div>
                 <div id="footer-content">
                     <div id="footer-stats">
                         <ul>
                             <li class="lg">
-                                <p><span class="num">3,797,550</span>Global Members</p>
+                                <p><span class="num">3</span>Global Members</p>
                             </li>
                             <li class="md">
                                 <p><span class="num">60<sub>M</sub></span>Petition Signatures</p>
@@ -634,27 +687,27 @@ Get the plugin at: http://www.g-loaded.eu/2006/01/05/add-meta-tags-wordpress-plu
                 
         
                         <li class="inside-one-nav-head">
-                <h6 class="item_1"><a href="http://www.one.org/us/inside-one/"><span class="text">About ONE</span><span class="arrow"> </span></a></h6>
+                <h6 class="item_1"><a href="http://www.one.org/us/about/"><span class="text">About ONE</span><span class="arrow"> </span></a></h6>
             </li>
             
         
             
             <li id="menu-item-695" class="menu-item item_2">
-                <a href="http://www.one.org/us/inside-one/policy/">Policy</a>
+                <a href="http://www.one.org/us/about/policy/">Policy</a>
             </li>
 
             
         
             
             <li id="menu-item-693" class="menu-item item_3">
-                <a href="http://www.one.org/us/inside-one/leadership/">Leadership</a>
+                <a href="http://www.one.org/us/about/leadership/">Leadership</a>
             </li>
 
             
         
             
             <li id="menu-item-699" class="menu-item item_4">
-                <a href="http://www.one.org/us/inside-one/press/">Press</a>
+                <a href="http://www.one.org/us/about/press/">Press</a>
             </li>
 
             
@@ -667,8 +720,8 @@ Get the plugin at: http://www.g-loaded.eu/2006/01/05/add-meta-tags-wordpress-plu
             
         
             
-            <li id="menu-item-696" class="menu-item item_6">
-                <a href="http://www.one.org/us/inside-one/jobs/">Jobs</a>
+            <li id="menu-item-76950" class="menu-item item_6">
+                <a href="http://jobs.one.org">Jobs</a>
             </li>
 
             
@@ -683,32 +736,33 @@ Get the plugin at: http://www.g-loaded.eu/2006/01/05/add-meta-tags-wordpress-plu
                 <div id="footer-nav">
                     <div id="footer-search">
                         <form action="http://www.one.org/us/search-results">
-                            <input class="search" type="text" name="q" placeholder="Site Search">
+                            <input class="search" type="text" name="q" placeholder="Site Search" />
                         </form>
                     </div>
                     <div id="footer-site-nav">
-                       <div class="menu-footer-main-nav-menu-container"><ul id="menu-footer-main-nav-menu" class="menu"><li id="menu-item-307" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-301 current_page_item menu-item-307"><a title="Privacy" href="http://www.one.org/us/privacy/">Privacy</a></li>
-<li id="menu-item-1041" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1041"><a href="http://www.one.org/us/contact/">Contact Us</a></li>
-<li id="menu-item-70280" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70280"><a href="http://one.actionkit.com/unsubscribe/unsubscribe_us">Unsubscribe</a></li>
+                       <div class="menu-footer-main-nav-menu-container"><ul id="menu-footer-main-nav-menu-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-79488"><a href="http://one.shop.musictoday.com/Default.aspx">Shop</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-301 current_page_item menu-item-307"><a title="Privacy" href="http://www.one.org/us/privacy/">Privacy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1041"><a href="http://www.one.org/us/contact/">Contact Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-79489"><a href="http://jobs.one.org/">Jobs</a></li>
 </ul></div>                    </div>
                     <div id="footer-social-links" class="one-social-links">
                         <ul>
                             <li>Connect with us on FlipBoard</li>
-                            <li><style>.fl-w- { display: inline-block; } .fl-w- img { visibility: hidden; } 
+                            <li><style>.fl-w- { display: inline-block; } .fl-w- img { visibility: hidden; }
 .fl-w-30 { width: 30px; height: 30px; background: url(//cdn.flipboard.com/web/widget/img/fl-widget-sprite-30.png) no-repeat 0 0;padding-bottom: 17px;margin-top: -7px; }
 .fl-w-:hover { background-position: 0 -30px; } .fl-w-:active { background-position: 0 -60px; }
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
 .fl-w-30 { background-image: url(//cdn.flipboard.com/web/widget/img/fl-widget-sprite-30@2x.png); background-size: 30px 90px; }
-} </style><a href="http://flip.it/onecampaign" class="fl-w- fl-w-30" onclick="_gaq.push(['_trackEvent', 'flipboard', 'flipboard-btn-footer', 'FlipBoard button click']);"><img src="//cdn.flipboard.com/web/widget/img/fl-widget-30.png" alt="Flipboard"></a></li>
+} </style><a href="http://flip.it/onecampaign" class="fl-w- fl-w-30" onclick="_gaq.push(['_trackEvent', 'flipboard', 'flipboard-btn-footer', 'FlipBoard button click']);"><img src="//cdn.flipboard.com/web/widget/img/fl-widget-30.png" alt="Flipboard" /></a></li>
                                                     </ul>
                     </div>
                 </div>
             </div>
-        </footer>
+        </footer> -->
         <p id="b-top" style="display:none;">
             <a class="linkTopBtn" href="#top"><span></span></a>
         </p>
-                                <script>var socialBoxWrapClosed=false;$(document).ready(function(){$(window).scroll(function(){if($(this).scrollTop()>1500){$('#b-top').fadeIn()}else{$('#b-top').fadeOut()}if($(this).scrollTop()>50&!socialBoxWrapClosed){$('#socialBoxWrap').fadeIn()}});$('#b-top a').click(function(){$('body,html').animate({scrollTop:0},800);return false})});$("#socialBoxWrap span.close-b a").click(function(e){e.preventDefault();console.log("box close...");$('#socialBoxWrap').hide();socialBoxWrapClosed=true});</script><script type="text/javascript">$(function(){var COOKIE_NAME='ogone';$go=$.cookie(COOKIE_NAME);if($go==null){$.cookie(COOKIE_NAME,'onegtone',{path:'/'});$('#onegoatPopup').modal('show');}else{}}); $(function(){});$(function(){var count=20;countdown=setInterval(function(){$("p.countdown").html("");if(count==0){$('#likePopup').modal('hide');clearInterval(countdown)}count--},1000)});</script>
+                                <script>var socialBoxWrapClosed=false;$(document).ready(function(){$(window).scroll(function(){if($(this).scrollTop()>1500){$('#b-top').fadeIn()}else{$('#b-top').fadeOut()}if($(this).scrollTop()>50&!socialBoxWrapClosed){$('#socialBoxWrap').fadeIn()}});$('#b-top a').click(function(){$('body,html').animate({scrollTop:0},800);return false})});$("#socialBoxWrap span.close-b a").click(function(e){e.preventDefault();console.log("box close...");$('#socialBoxWrap').hide();socialBoxWrapClosed=true});</script><script type="text/javascript">$(function(){var COOKIE_NAME='ogone';$go=$.cookie(COOKIE_NAME);if($go==null){$.cookie(COOKIE_NAME,'onegtone',{path:'/'});$('#onecallPopup').modal('show');}else{}}); $(function(){});$(function(){var count=20;countdown=setInterval(function(){$("p.countdown").html("");if(count==0){$('#likePopup').modal('hide');clearInterval(countdown)}count--},1000)});</script>
         <script type="text/javascript">
         $(function(){});$(function(){var count=20;countdown=setInterval(function(){$("p.countdown").html("");if(count==0){$('#likePopup').modal('hide');clearInterval(countdown)}count--;},1000)});
         </script>
@@ -718,36 +772,15 @@ Get the plugin at: http://www.g-loaded.eu/2006/01/05/add-meta-tags-wordpress-plu
             a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/3942.js?"+Math.floor(new Date().getTime()/3600000);
             a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
         </script>
-        <script type="text/javascript">
-            if (typeof jQuery != 'undefined') {
-                jQuery(document).ready(function($) {
-                   var filetypes = /\.(zip|exe|pdf|mobi|epub|azw|doc*|xls*|ppt*|mp3)$/i;
-                    var baseHref = '';
-                    if (jQuery('base').attr('href') != undefined)
-                        baseHref = jQuery('base').attr('href');
-                    jQuery('a').each(function() {
-                        var href = jQuery(this).attr('href');
-                        if (href && href.match(/^mailto\:/i)) {
-                            jQuery(this).click(function() {
-                                var mailLink = href.replace(/^mailto\:/i, '');
-                                _gaq.push(['_trackEvent', 'Email', 'Click', mailLink]);
-                            });
-                        }
-                        else if (href && href.match(filetypes)) {
-                            jQuery(this).click(function() {
-                                var extension = (/[.]/.exec(href)) ? /[^.]+$/.exec(href) : undefined;
-                                var filePath = href;
-                                _gaq.push(['_trackEvent', 'Download', 'Click-' + extension, filePath]);
-                                if (jQuery(this).attr('target') != undefined && jQuery(this).attr('target').toLowerCase() != '_blank') {
-                                    setTimeout(function() { location.href = baseHref + href; }, 200);
-                                    return false;
-                                }
-                            });
-                        }
-                    });
-                });
-            }
-        </script>
+
+
+        <!-- 100yrs -->
+        <script type="text/javascript" src="http://www.one.org/us/wp-content/themes/one/assets/js/waypoints.min.js"></script>
+        <script type="text/javascript" src="http://www.one.org/us/wp-content/themes/one/assets/js/waypoints-sticky.min.js"></script>
+        <script type="text/javascript" src="http://www.one.org/us/wp-content/themes/one/assets/js/jquery-countto.js"></script>
+        <script type="text/javascript" src="http://www.one.org/us/wp-content/themes/one/assets/js/swipe.js"></script>
+        <script type="text/javascript" src="http://www.one.org/us/wp-content/themes/one/assets/js/jquery.fitvids.js"></script>
+        <script type="text/javascript" src="http://www.one.org/us/wp-content/themes/one/assets/js/homepage.js"></script>
     
 
 </body></html>
