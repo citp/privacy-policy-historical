@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the best-mobile-contracts.co.uk privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807173739id_/http%3A//www.best-mobile-contracts.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-mobile-contracts.co.uk privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326174331id_/http%3A//www.best-mobile-contracts.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Best Mobile Contracts - Privacy Policy
+
+[](https://web.archive.org/) [](http://www.suppose.com/)
 
 Suppose Ltd considers your privacy to be of the utmost importance. This privacy policy explains how we use and protect information that you provide us with when using this website.
 
