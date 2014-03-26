@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sproutonline.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105163108id_/http%3A//www.sproutonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sproutonline.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326095444id_/http%3A//www.sproutonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Sprout Online Services Privacy Policy | PBS KIDS Sprout
+# Sprout Online Services Privacy Policy | Sprout
 
-PBS KIDS Sprout, an entity of Children’s Network, LLC (“Sprout”), is the first multi-platform service (on-air, on-demand, and online) devoted to preschool children and their parents (references to “parents” also means “legal guardians”), 24 hours a day, 7 days a week. Sprout is available online at www.SproutOnline.com (“SproutOnline.com” or “Website”) and through applications (“Apps”) (collectively the “Online Services”) Sprout makes available on mobile devices or other platforms, providing parents and their children the opportunity to engage in shared moments of learning and laughing together. Our fun, educational, and interactive Online Services offer programming schedules, original preschooler age-appropriate games, and user-friendly tools that let parents and their children interact with their favorite Sprout characters. The Online Services also offer content and activities designed for parents to help them learn and be inspired. This Privacy Policy applies to the Online Services, and does not apply to other Sprout products or services. The Online Services are directed to, and intended for, residents of the United States. We are committed to respecting and protecting the privacy of users of this Website, including complying with the Children's Online Privacy Protection Act of 1998 (“COPPA”) when applicable, as discussed in more detail below. 
+Sprout, an entity of Children’s Network, LLC (“Sprout”), is the first multi-platform service (on-air, on-demand, and online) devoted to preschool children and their parents (references to “parents” also means “legal guardians”), 24 hours a day, 7 days a week. Sprout is available online at www.SproutOnline.com (“SproutOnline.com” or “Website”) and through applications (“Apps”) (collectively the “Online Services”) Sprout makes available on mobile devices or other platforms, providing parents and their children the opportunity to engage in shared moments of learning and laughing together. Our fun, educational, and interactive Online Services offer programming schedules, original preschooler age-appropriate games, and user-friendly tools that let parents and their children interact with their favorite Sprout characters. The Online Services also offer content and activities designed for parents to help them learn and be inspired. This Privacy Policy applies to the Online Services, and does not apply to other Sprout products or services. The Online Services are directed to, and intended for, residents of the United States. We are committed to respecting and protecting the privacy of users of this Website, including complying with the Children's Online Privacy Protection Act of 1998 (“COPPA”) when applicable, as discussed in more detail below. 
 
 Sprout does not condition a child’s participation in any Online Service on the disclosure of more information than is reasonably necessary to participate in the activity.
 
@@ -66,7 +66,7 @@ Sprout may use “bumper” pages or similar notifications in the Online Service
 
 Parents, if you have any questions, comments or concerns regarding this Privacy Policy, please contact us at:
 
-PBS KIDS Sprout  
+Sprout  
 PO Box 288  
 Fort Washington, Pa 19034  
 [info@SproutOnline.com](mailto:info@sproutonline.com)
