@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ciiwa.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821044648id_/http%3A//www.ciiwa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ciiwa.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326173950id_/http%3A//www.ciiwa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ~ Ciiwa
 
