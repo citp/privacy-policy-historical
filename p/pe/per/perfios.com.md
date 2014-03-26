@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfios.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424182039id_/https%3A//www.perfios.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfios.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326171657id_/https%3A//www.perfios.com/index.php/privacy) for the most accurate reproduction.*
 
 # Privacy
 
