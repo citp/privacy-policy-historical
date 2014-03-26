@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtybargains.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018113239id_/http%3A//www.realtybargains.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtybargains.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326075613id_/http%3A//www.realtybargains.com/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Foreclosures, Pre-Foreclosures , FSBO and Real Estate Owned properties nation wide
 
