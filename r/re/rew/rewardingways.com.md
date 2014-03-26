@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rewardingways.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508115746id_/http%3A//www.rewardingways.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewardingways.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326174956id_/http%3A//www.rewardingways.com/privacy) for the most accurate reproduction.*
 
 # Rewarding Ways - Privacy
 
@@ -7,29 +7,28 @@
 
 ### Privacy
 
-The purpose of this Privacy Policy is to let you know what kinds of information we may gather about you, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of the information. 
+The purpose of this Privacy Policy is to let you know what kinds of information we may gather about you, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of the information. 
 
 We hold only a minimal amount of information on each registered client. In order to register, we only require a name, email address, username and a password. Prior to sending any payments, we may also require an address verification.
 
-We only hold information in order to allow users to log into and run their accounts. 
+We only hold information in order to allow users to log into and run their accounts. 
 
-\- We store your personal data securely   
-\- We DO NOT pass your personal data to third parties, unless you specifically ask us to for a particular purpose (e.g. a competition) or as required by law   
-\- We do not send junk mail (or spam). We send occasional site updates by email, and you can choose the type of mailings you receive by editing your profile. 
+\- We store your personal data securely   
+\- We DO NOT pass your personal data to third parties, unless you specifically ask us to for a particular purpose (e.g. a competition) or as required by law   
+\- We do not send junk mail (or spam). We send occasional site updates by email, and you can choose the type of mailings you receive by editing your profile. 
 
-Users may request to see any information that we hold on them. This may include transaction information, account totals, contact details and other information. Users may request this information from our support ticket page. 
+Users may request to see any information that we hold on them. This may include transaction information, account totals, contact details and other information. Users may request this information from our support ticket page. 
 
-If you feel RewardingWays is not following its stated information policy, then they may inform us through our support ticket page. 
+If you feel RewardingWays is not following its stated information policy, then they may inform us through our support ticket page. 
 
 Cookies  
 We recommend that all users enable cookies in their internet browsers in order to make full use of the site and in order to ensure that any transactions on third party sites are recorded. Cookies are small pieces of information that are stored by your browser on your computer's hard drive and they are used to record how you navigate this website on each visit.. The information cannot be seen by any other websites (so the information is secure) and is used by us to provide features to aid the use of our services. If users do not have cookies enabled, it is likely that third-party retailers will not record some of their transactions.
 
 You must be logged in to post messages. 
 
-Total Members:| 142645  
+MEMBERS| 159096  
 ---|---  
-Online Members:| 108  
-Total Paid:| $140,861.45  
-Pending:| $2.47  
-Offers:| 373  
-Offers Value:| $ 162.52 & 3232.1200000000003 points 
+ONLINE|  45  
+PAYMENTS| $168,578.02  
+  
+[](http://www.rewardingways.com/banner/bannerClick.php?bid=86)
